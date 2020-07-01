@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='content-type' content='text/html;charset=utf-8' />
+<title>Заметки / Сайт Григория Еремина</title>
+<link rel="shortcut icon" href="/static/img/favicon.ico?1322400151" />
+<link rel="stylesheet" href="/static/css/main.css" />
+<link rel="stylesheet" href="/static/css/markdown.css" />
+<script src="/static/share42/share42.js"></script>
+<script src="/static/js/utils/updater.js"></script>
+<script src="/static/js/3rdparty/showdown.js"></script>
+<script src='/static/js/main.js'></script>
+</head>
+<body>
+<script type='text/javascript'>
+
+  var converter = new showdown.Converter();
+
+  function addPost(r, p){
+    var uri = p.url.split('/'), text, html;
+    var root = document.createElement('div');
+    root.className = 'wrap';
+    // +anchor <a id="id5653374286430208" name="id5653374286430208"></a> !!!
+    var content = document.createElement('div');
+    root.appendChild(content);
+    content.className = 'msgtext';
+    var header = document.createElement('h3');
+    content.appendChild(header);
+    var a = document.createElement('a');
+    header.appendChild(a);
+    a.className = 'nodecor';
+    a.href = '/posts.html?p=' + p.url;
+    a.appendChild(document.createTextNode( p.item[0].split('/')[1] ));
+      // to markdown
+    text = r
+      .replace(/\/photos\//g, '/fotos/')
+      .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
+      .replace(/\{: class=rounded :\}/g, '');
+    html = converter.makeHtml(text);
+    content.innerHTML += html;
+    var footer = document.createElement('div');
+    root.appendChild(footer);
+    footer.className = 'msgfooter';
+    var a = document.createElement('a');
+    footer.appendChild(a);
+    a.className = 'nodecor';
+    a.href = '/posts.html?p=' + p.url;    
+    a.appendChild(document.createTextNode( uri[2] ));
+    var ps = document.createElement('div');
+    footer.appendChild(ps);
+    ps.className = 'gray smaller';
+    ps.appendChild(document.createTextNode(p.item[1]));
+    return root;
+  }
+
+  addMetaTags( 'Заметки, Посты' );
+  addBodyTags( 'posts' );
+
+  var p = document.createElement('p');
+  document.getElementById('page_content').appendChild(p);
+  p.className = 'mtext hspace';
+  p.appendChild(document.createTextNode('Заметки, статьи, цитаты на самые разные темы.'));
+  
+  upfunc({url: '/posts/titles.map'}, function(r){
+    r = eval(r);
+    for(var i=0; i<10; i++){
+      upfunc({item: r[i], url: '/posts/' + r[i][0] + '.txt'}, function(r, p){
+        document.getElementById('page_content').appendChild(addPost(r, p));
+      });
+    }
+  });
+
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+<svg width="120" height="80" xmlns="http://www.w3.org/2000/svg">
+<a class="nodecor" title="Войти" xlink:href="/login?b=/news/">
+<g transform="translate(40 18) scale(0.7 0.7)" stroke="rgb(149,124,143)" fill="transparent"><ellipse stroke="rgb(221,107,107)" stroke-width="6" cx="24" cy="33" rx="39" ry="45" /><path stroke-width="6" d="M22,58 12,58 18,31 a13.1,13.1 20 1 1 11,0 L36,58z" /></g>
+</a>
+</svg>
