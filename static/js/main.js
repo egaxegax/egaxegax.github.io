@@ -127,3 +127,56 @@ function addMetaTags(text){
   document.head.appendChild(meta);
   
 };
+//
+// Paginator
+// 
+function addPaginator(list, per_page, page_num){
+  per_page = parseInt(per_page);
+  page_num = parseInt(page_num);
+  var num_pages = Math.ceil(list.length / per_page ),
+      has_previous = page_num > 1,
+      has_next = page_num < num_pages,
+      previous_page_number = page_num - 1,
+      next_page_number = page_num + 1;
+  var p = document.createElement('p');
+  p.className = 'mtext cfloat';
+  if (list.length){
+    var sp = document.createElement('span');
+    p.appendChild(sp);
+    sp.className = 'hspace2';
+    if (has_previous){
+      var a = document.createElement('a');
+      sp.appendChild(a);
+      a.href = '?page=' + previous_page_number;
+      a.appendChild(document.createTextNode( 'Назад' ));
+    } else if (has_next) {
+      sp.className += ' lightgray';
+      sp.appendChild(document.createTextNode( 'Назад' ));
+    }
+    if (num_pages > 1){
+      var sp = document.createElement('span');
+      p.appendChild(sp);
+      sp.className = 'hspace2';
+      var b = document.createElement('b');
+      sp.appendChild(b);
+      b.appendChild(document.createTextNode( String(page_num) ));
+      sp.appendChild(document.createTextNode( ' из ' ));
+      var b = document.createElement('b');
+      sp.appendChild(b);
+      b.appendChild(document.createTextNode( String(num_pages) ));
+    }
+    var sp = document.createElement('span');
+    p.appendChild(sp);
+    sp.className = 'hspace2';
+    if (has_next){
+      var a = document.createElement('a');
+      sp.appendChild(a);
+      a.href = '?page=' + next_page_number;
+      a.appendChild(document.createTextNode( 'Вперед' ));
+    } else if (has_previous) {
+      sp.className += ' lightgray';
+      sp.appendChild(document.createTextNode( 'Вперед' ));
+    }
+  }
+  return p;
+}

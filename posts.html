@@ -17,7 +17,7 @@
   var converter = new showdown.Converter();
 
   function addPost(r, p){
-    var uri = p.url.split('/'), text, html;
+    var text, html;
     var root = document.createElement('div');
     root.className = 'wrap';
     // +anchor <a id="id5653374286430208" name="id5653374286430208"></a> !!!
@@ -29,11 +29,12 @@
     var a = document.createElement('a');
     header.appendChild(a);
     a.className = 'nodecor';
-    a.href = '/posts.html?p=' + p.url;
-    a.appendChild(document.createTextNode( p.item[0].split('/')[1] ));
+    a.href = '/posts/' + p.subj + '/' + p.title[1];
+    a.appendChild(document.createTextNode( p.title[1] ));
       // to markdown
     text = r
       .replace(/\/photos\//g, '/fotos/')
+      .replace(/\r\r\n/g, '\n')
       .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
       .replace(/\{: class=rounded :\}/g, '');
     html = converter.makeHtml(text);
@@ -44,12 +45,12 @@
     var a = document.createElement('a');
     footer.appendChild(a);
     a.className = 'nodecor';
-    a.href = '/posts.html?p=' + p.url;    
-    a.appendChild(document.createTextNode( uri[2] ));
+    a.href = '/posts/' + p.subj;    
+    a.appendChild(document.createTextNode( p.subj ));
     var ps = document.createElement('div');
     footer.appendChild(ps);
     ps.className = 'gray smaller';
-    ps.appendChild(document.createTextNode(p.item[1]));
+    ps.appendChild(document.createTextNode(p.title[2]));
     return root;
   }
 
@@ -63,9 +64,20 @@
   
   upfunc({url: '/posts/titles.map'}, function(r){
     r = eval(r);
-    for(var i=0; i<10; i++){
-      upfunc({item: r[i], url: '/posts/' + r[i][0] + '.txt'}, function(r, p){
+    var per_page = 10,
+        page_num = urlParams().page||1,
+        page_bottom = (page_num-1)*per_page,
+        page_top = page_bottom+per_page;
+    var subjects = r[0],
+        titles = r[1],
+        page_titles = r[1].slice(page_bottom, page_top);
+    for(var i=0; i<page_titles.length; i++){
+      var subj = subjects[ page_titles[i][0] ],
+          title = page_titles[i][1];
+      upfunc({last: i == page_titles.length-1, subj: subj, title: page_titles[i], url: '/posts/' + subj + '/' + title + '.txt'}, function(r, p){
         document.getElementById('page_content').appendChild(addPost(r, p));
+        if (p.last)
+          document.getElementById('page_content').appendChild(addPaginator(titles, per_page, page_num));
       });
     }
   });
