@@ -1,13 +1,33 @@
 //
+// load script
+//
+function loadScript(p, clfunc){
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.onload = function () {
+    if (clfunc) clfunc(p);
+  };
+  script.src = p.url;
+  document.head.appendChild(script);
+}
+//
 // XmlHttpRequest updater
 //
 function upfunc(p, clfunc, id){
-  fetch(p.url).then(r => r.text()).then(function(r){
-    if (clfunc) clfunc(r, p);
-    if (id) document.getElementById(id).innerHTML = r;
-  });
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() { 
+    if (xhr.readyState == 4) {
+      if (id) document.getElementById(id).innerHTML = xhr.responseText;
+      if (clfunc) clfunc(xhr.responseText, p);
+    }
+  };
+  xhr.open("GET", p.url, true);
+  xhr.responseType = 'text';
+  xhr.send();
 }
+//
 // get URL GET params
+//
 function urlParams(url) {
   var o = {}, qs = url ? url.split('?')[1] : window.location.search.slice(1);
   if (qs) {
@@ -20,7 +40,7 @@ function urlParams(url) {
         return '';
       });
 
-      var pval = typeof(a[1])==='undefined' ? true : a[1];
+      var pval = typeof(a[1])==='undefined' ? "" : a[1];
 
       pname = pname.toLowerCase();
       pval = pval.toLowerCase();
@@ -39,4 +59,20 @@ function urlParams(url) {
   }
 
   return o;
+}
+//
+// url build
+//
+function urlBuild(o){
+  var href = [], par = urlParams();
+  for (var k in o){ par[k] = o[k]; }
+  for (var p in par){ href.push( p + (par[p] ? '=' + par[p]: '') ); };
+  return href.join('&');
+}
+//
+//
+// Check empty obj
+//
+function isEmpty(o){
+  return JSON.stringify(o) === JSON.stringify({});
 }

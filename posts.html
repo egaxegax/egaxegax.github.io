@@ -3,13 +3,13 @@
 <head>
 <meta http-equiv='content-type' content='text/html;charset=utf-8' />
 <title>Заметки / Сайт Григория Еремина</title>
-<link rel="shortcut icon" href="/static/img/favicon.ico?1322400151" />
-<link rel="stylesheet" href="/static/css/main.css" />
-<link rel="stylesheet" href="/static/css/markdown.css" />
-<script src="/static/share42/share42.js"></script>
-<script src="/static/js/utils/updater.js"></script>
-<script src="/static/js/3rdparty/showdown.js"></script>
-<script src='/static/js/main.js'></script>
+<link rel="shortcut icon" href="static/img/favicon.ico?1322400151" />
+<link rel="stylesheet" href="static/css/main.css" />
+<link rel="stylesheet" href="static/css/markdown.css" />
+<script src="static/share42/share42.js"></script>
+<script src="static/js/utils/updater.js"></script>
+<script src="static/js/3rdparty/showdown.js"></script>
+<script src='static/js/main.js'></script>
 </head>
 <body>
 <script type='text/javascript'>
@@ -20,7 +20,6 @@
     var text, html;
     var root = document.createElement('div');
     root.className = 'wrap';
-    // +anchor <a id="id5653374286430208" name="id5653374286430208"></a> !!!
     var content = document.createElement('div');
     root.appendChild(content);
     content.className = 'msgtext';
@@ -29,8 +28,8 @@
     var a = document.createElement('a');
     header.appendChild(a);
     a.className = 'nodecor';
-    a.href = '/posts/' + p.subj + '/' + p.title[1];
-    a.appendChild(document.createTextNode( p.title[1] ));
+    a.href = '?' + p.title[1];
+    a.appendChild(document.createTextNode( p.title[2] ));
       // to markdown
     text = r
       .replace(/\/photos\//g, '/fotos/')
@@ -45,12 +44,12 @@
     var a = document.createElement('a');
     footer.appendChild(a);
     a.className = 'nodecor';
-    a.href = '/posts/' + p.subj;    
+    a.href = '?' + p.title[0];    
     a.appendChild(document.createTextNode( p.subj ));
     var ps = document.createElement('div');
     footer.appendChild(ps);
     ps.className = 'gray smaller';
-    ps.appendChild(document.createTextNode(p.title[2]));
+    ps.appendChild(document.createTextNode(p.title[3]));
     return root;
   }
 
@@ -62,24 +61,31 @@
   p.className = 'mtext hspace';
   p.appendChild(document.createTextNode('Заметки, статьи, цитаты на самые разные темы.'));
   
-  upfunc({url: '/posts/titles.map'}, function(r){
-    r = eval(r);
+  loadScript({url: 'posts/titles.js'}, function(p){
+    var subjects = SUBJ,
+        titles = TITLES;
     var per_page = 10,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
-    var subjects = r[0],
-        titles = r[1],
-        page_titles = r[1].slice(page_bottom, page_top);
+    for(var p in urlParams()){
+      if (urlParams()[p] == '') titles = titles.filter(function(a){ return (a[ parseInt(p[0]) ] === p); });
+    }
+    var page_titles = titles.slice(page_bottom, page_top);
     for(var i=0; i<page_titles.length; i++){
       var subj = subjects[ page_titles[i][0] ],
-          title = page_titles[i][1];
-      upfunc({last: i == page_titles.length-1, subj: subj, title: page_titles[i], url: '/posts/' + subj + '/' + title + '.txt'}, function(r, p){
-        document.getElementById('page_content').appendChild(addPost(r, p));
-        if (p.last)
-          document.getElementById('page_content').appendChild(addPaginator(titles, per_page, page_num));
+          title = page_titles[i][2];
+      upfunc({subj: subj, title: page_titles[i], url: 'posts/' + subj + '/' + title + '.txt'}, function(r, p){
+        document.getElementById('page_content').appendChild(addPost(r, p));          
       });
     }
+    if (!page_titles.length){
+      var p = document.createElement('p');
+      document.getElementById('page_content').appendChild(p);
+      p.className = 'mtext hspace';
+      p.appendChild(document.createTextNode('Нет данных.'));
+    }
+    document.getElementById('page_footer').appendChild(addPaginator(titles, per_page, page_num));
   });
 
 </script>
