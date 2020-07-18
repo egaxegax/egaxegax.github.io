@@ -105,23 +105,36 @@ function addBodyTags(sel){
 
   var col = document.createElement('td');
   col.align = 'right';
-  col.width = '45%';
-  col.style.fontSize = 'smaller';
+  col.width = '35%';
+  
+  // --Yandex.Metrika informer--
   var el = document.createElement('a');
-  el.href = '/about.html';
-  el.appendChild(document.createTextNode('egaxegax'));
-  col.appendChild(document.createTextNode(' © 2011-2020 '));
+  el.href = 'https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer';
+  el.target = '_blank';
+  el.rel = 'nofollow';
+  el.innerHTML = '<img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" />';
+  // --/Yandex.Metrika informer--
   col.appendChild(el);
   row.appendChild(col);
-
+  
   var col = document.createElement('td');
   col.align = 'center';
-  col.width = '10%';
+  col.width = '5%';
   row.appendChild(col);
 
   var col = document.createElement('td');
   col.align = 'left';
-  col.width = '45%';
+  col.width = '25%';
+  var a = document.createElement('a');
+  a.href = '/about.html';
+  a.appendChild(document.createTextNode('egaxegax'));
+  col.appendChild(document.createTextNode(' © 2011-2020 '));
+  col.appendChild(a);
+  row.appendChild(col);
+  
+  var col = document.createElement('td');
+  col.align = 'left';
+  col.width = '35%';
   var el = document.createElement('div');
   el.className = 'share42init';
   col.appendChild(el);
@@ -175,6 +188,7 @@ function addPaginator(list, per_page, page_num){
   var sp = document.createElement('span');
   p.appendChild(sp);
   sp.className = 'hspace2';
+  sp.appendChild(document.createTextNode( '‹ '));
   if (has_previous){
     var a = document.createElement('a');
     sp.appendChild(a);
@@ -203,11 +217,12 @@ function addPaginator(list, per_page, page_num){
     var a = document.createElement('a');
     sp.appendChild(a);
     a.href = '?' + urlBuild({page: next_page_number});
-    a.appendChild(document.createTextNode( 'Вперед' ));
+    a.appendChild(document.createTextNode( 'Далее' ));
   } else if (has_previous) {
     sp.className += ' lightgray';
-    sp.appendChild(document.createTextNode( 'Вперед' ));
+    sp.appendChild(document.createTextNode( 'Далее' ));
   }
+  sp.appendChild(document.createTextNode( ' ›'));
   if (has_previous || has_next) return p;
   else return document.createTextNode('');
 }
