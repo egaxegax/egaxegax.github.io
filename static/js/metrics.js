@@ -27,7 +27,7 @@ function addGoogleMetrics(){
   gtag('config', 'UA-25857345-4');
   console.log('+gm');
 }
-if(!navigator.onLine || String(window.location).match(/file:|localhost/)){
+if(navigator.onLine || !String(window.location).match(/file:|localhost/)){
   addYaMetrics();
   addGoogleMetrics();
 }
