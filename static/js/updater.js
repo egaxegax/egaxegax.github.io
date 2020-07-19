@@ -8,6 +8,7 @@ function loadScript(p, clfunc){
     if (clfunc) clfunc(p);
   };
   script.src = p.url;
+  if(p.charset) script.charset = p.charset;
   document.head.appendChild(script);
 }
 //

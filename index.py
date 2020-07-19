@@ -7,13 +7,8 @@
 import sys, os, time, json
 
 def E_OS(text):
-  if os.name == 'nt':
-    return text.decode('cp1251')
-  return text
-
-def D_OS(text):
-  if os.name == 'nt':
-    return text.encode('cp866')
+#  if os.name == 'nt':
+#    return text.decode('cp1251')
   return text
 
 path = '.'
@@ -51,5 +46,5 @@ for i, f in enumerate(mfiles):
     mtitles += [[skey, tkey, f[1], f[2]]]
   print( i )
 
-open('titles.js', 'wb').write('SUBJ=' + json.dumps(msubj, indent=1) + ';\n')
-open('titles.js', 'ab').write('TITLES=' + json.dumps(mtitles, indent=1) + ';')
+open('titles.js', 'wb').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
+open('titles.js', 'ab').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')

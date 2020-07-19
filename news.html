@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="static/css/markdown.css" />
 <script src="static/share42/share42.js"></script>
 <script src="static/js/updater.js"></script>
-<script src="static/js/3rdparty/showdown.js"></script>
+<script src="static/js/3rdparty/showdown.min.js"></script>
 <script src='static/js/main.js'></script>
 </head>
 <body>
@@ -48,7 +48,7 @@
   p.className = 'mtext hspace';
   p.appendChild(document.createTextNode('Что нового? Новости, изменения, обновления на сайте и не только.'));
   
-  loadScript({url: 'news/titles.js'}, function(p){
+  loadScript({url: 'news/titles.js', charset:'windows-1251'}, function(p){
     var subjects = SUBJ,
         titles = TITLES;
     var per_page = 5,
