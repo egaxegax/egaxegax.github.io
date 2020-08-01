@@ -6,7 +6,7 @@ function addBodyTags(sel){
   var header = document.createElement('div');
   document.body.appendChild(header);
   header.id = 'header';
-  header.className = 'main wrapbg';
+  header.className = 'wrapbg';
   var ul = document.createElement('ul');
   header.appendChild(ul);
   ul.className = 'nomarg mtext';
@@ -75,26 +75,18 @@ function addBodyTags(sel){
 '<a class="nodecor" xlink:href="/">'+
 '<g transform="translate(40 18) scale(0.7 0.7)" stroke="rgb(149,124,143)" fill="transparent"><ellipse stroke="rgb(221,107,107)" stroke-width="6" cx="24" cy="33" rx="39" ry="45" /><path stroke-width="6" d="M22,58 12,58 18,31 a13.1,13.1 20 1 1 11,0 L36,58z" /></g>'+
 '</a></svg>';
-  var content = document.createElement('div');
-  document.body.appendChild(content);
-  content.id = 'content';
-  content.className = 'main';
-  var contview = document.createElement('div');
-  content.appendChild(contview);
-  contview.className = 'view';
   var pageheader = document.createElement('div');
-  contview.appendChild(pageheader);
+  document.body.appendChild(pageheader);
   pageheader.id = 'page_header';
   var pagecontent = document.createElement('div');
-  contview.appendChild(pagecontent);
+  document.body.appendChild(pagecontent);
   pagecontent.id = 'page_content';
   var pagefooter = document.createElement('div');
-  contview.appendChild(pagefooter);
+  document.body.appendChild(pagefooter);
   pagefooter.id = 'page_footer';
   var footer = document.createElement('div');
   document.body.appendChild(footer);
   footer.id = 'footer';
-  footer.className = 'main';
   var mtab = document.createElement('table');
   footer.appendChild(mtab);
   mtab.width = '100%';

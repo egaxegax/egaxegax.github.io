@@ -52,7 +52,6 @@ a.nodecor img { border: 0px none; padding: 0px; }
 .bigger { font-size: 150%; }
 .bigger2 { font-size: 200%; }
 .counter { display: inline-block; width: 40px; }
-.main { margin: 0px auto 0px auto; }
 .tabl { display: table; width: 95%; }
 .row { display: table-row; }
 .minw { min-width: 420px; }
@@ -60,7 +59,7 @@ a.nodecor img { border: 0px none; padding: 0px; }
 body { font-family: tahoma,verdana,arial; font-weight:400; font-size: 16px; background-color: #fff; color: #222; }
 h2 { font-size: 150%; font-family: tahoma,verdana,arial; font-weight: normal; padding: 0 0 0 20px; }
 h3 { font-weight: normal; margin-top: 5px; }
-#header, #content, #footer { width: 960px; }
-#content .view { min-height: 450px; }
+#header, #page_header, #page_content, #page_footer, #footer { margin: 0px auto 0px auto; width: 960px; }
+#page_content { min-height: 300px; }
 #footer { height: 40px; text-align: center; }
 .search input[type=text] { height: 16px; width: 100px; margin-left: 12px; }

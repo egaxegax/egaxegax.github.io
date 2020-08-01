@@ -46,5 +46,6 @@ for i, f in enumerate(mfiles):
     mtitles += [[skey, tkey, f[1], f[2]]]
   print( i )
 
-open('titles.js', 'wb').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
-open('titles.js', 'ab').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')
+open('index.js', 'wb').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
+open('index.js', 'ab').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')
+time.sleep(1)
