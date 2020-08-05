@@ -14,7 +14,7 @@ IMGURLS=[
   ["1", "https://content-24.foto.my.mail.ru/bk/egax/37/b-91.JPG", "Пруд у церкви в Захарьино"],
   ["1", "https://content-4.foto.my.mail.ru/bk/egax/37/b-90.JPG", "Улица в Захарьино осенью"],
   ["2", "https://content-28.foto.my.mail.ru/bk/egax/37/b-97.JPG", "Бабочка"],
-  ["3", "https://content-1.foto.my.mail.ru/bk/egax/37/b-98.JPG", "Осень пришла"]
+  ["3", "https://content-1.foto.my.mail.ru/bk/egax/37/b-98.JPG", "Осень пришла"],
   ["4", "https://content-20.foto.my.mail.ru/bk/egax/37/b-92.JPG", ""],
   ["4", "https://content-6.foto.my.mail.ru/bk/egax/37/b-93.JPG", ""],
   ["4", "https://content-18.foto.my.mail.ru/bk/egax/37/b-95.JPG", ""],
