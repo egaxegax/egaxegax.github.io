@@ -9,7 +9,7 @@ function loadScript(p, clfunc){
   };
   script.src = p.url;
   if(p.charset) script.charset = p.charset;
-  document.head.appendChild(script);
+  document.body.appendChild(script);
 }
 //
 // XmlHttpRequest updater
