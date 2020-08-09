@@ -18,9 +18,10 @@
 
   var dwchilds=[];
 
-  var p = document.createElement('p');
+  var p = document.createElement('div');
   document.getElementById('page_header').appendChild(p);
   p.className = 'mtext hspace';
+  p.style.padding = '10px 13px';
   p.appendChild(document.createTextNode('Подборка фото, снятых на телефон, о природе, местах, людях. '));
   p.innerHTML += '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
   var el = document.createElement('select');
@@ -55,7 +56,7 @@
   col.appendChild(md);
   wrap.appendChild(mtab);
 
-  md.style.height = (window.innerHeight - document.getElementById('header').offsetHeight - document.getElementById('footer').offsetHeight - 120) + 'px';
+  md.style.height = (window.innerHeight - document.getElementById('header').offsetHeight - document.getElementById('footer').offsetHeight - 100) + 'px';
   md.style.overflow = 'auto';
 
     // fill list
