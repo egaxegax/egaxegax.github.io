@@ -83,7 +83,7 @@
     dw.attr(dwimg, { cursor: 'pointer' });
     dwchilds.push(dwimg);    
   }
-  loadScript({url: 'fotos/index.js', charset:'windows-1251'}, function(p){
+  loadScript({url: 'fotos/index.js'}, function(p){
     var albumlist = document.getElementById('albumlist');
     for(var k in ALBUMS){
       var opt = document.createElement('option');
