@@ -65,50 +65,48 @@
     sbarpos: 'left',
     height: md.offsetHeight
   });
-  
+    // img
+  var img = new Image();
+  img.onload = function() {
+    for (var i=0; i<dwchilds.length; i++)
+      dw.vp.removeChild(dwchilds[i]);
+    dwchilds = [];
+    var ratio = this.width/this.height,
+      vs = dw.viewsizeOf();  // map sizes degrees
+    var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
+        pts = [dw.toPoints(crds[1]), dw.toPoints(crds[0])];
+    var dwimg = dw.append('image', {
+      width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1],
+      x: pts[1][0], y: pts[1][1], preserveAspectRatio:'none'
+    });
+    dwimg.setAttributeNS('http://www.w3.org/1999/xlink', 'href', this.src);
+    dw.attr(dwimg, { cursor: 'pointer' });
+    dwchilds.push(dwimg);    
+  }
   loadScript({url: 'fotos/index.js', charset:'windows-1251'}, function(p){
-    var alb = document.getElementById('albumlist');
+    var albumlist = document.getElementById('albumlist');
     for(var k in ALBUMS){
-      var o = document.createElement('option');
-      o.value = k;
-      o.appendChild(document.createTextNode(ALBUMS[k]));
-      alb.onchange = function(){
-        var urls = IMGURLS.filter(function(a){ return a[0] === alb.options[alb.selectedIndex].value; });
+      var opt = document.createElement('option');
+      opt.value = k;
+      opt.appendChild(document.createTextNode(ALBUMS[k]));
+      albumlist.onchange = function(){
+        var urls = IMGURLS.filter(function(a){ return a[0] === albumlist.options[albumlist.selectedIndex].value; });
         md.innerHTML = '';
-        for(var k in urls) {
+        for(var i in urls) {
           var im = document.createElement('img');
           im.style.display = 'block';
           im.style.padding = '1px 0';
           im.width = 100;
-          im.src = urls[k][1];
-          im.onclick = function(){ img.src = this.src; };
-          im.onload = function(){ 
-            md.appendChild(this);
-          }
+          im.src = urls[i][1];
+          im.onclick = function(){ img.src = this.src; }
+          im.onload = function(){ md.appendChild(this); }
         }
       }
-      document.getElementById('albumlist').appendChild(o);
+      document.getElementById('albumlist').appendChild(opt);
     }
-      // img
-    var img = new Image();
     img.src = IMGURLS[0][1]; // default img
-    img.onload = function() {
-      for (var i=0; i<dwchilds.length; i++)
-        dw.vp.removeChild(dwchilds[i]);
-      dwchilds = [];
-      var ratio = this.width/this.height,
-        vs = dw.viewsizeOf(), sz = dw.sizeOf();  // map sizes
-      var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
-          pts = [dw.toPoints(crds[1]), dw.toPoints(crds[0])];
-      var dwimg = dw.append('image', {
-        width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1],
-        x: pts[1][0], y: pts[1][1], preserveAspectRatio:'none'
-      });
-      dwimg.setAttributeNS('http://www.w3.org/1999/xlink', 'href', this.src);
-      dw.attr(dwimg, { cursor: 'pointer' });
-      dwchilds.push(dwimg);    
-    }
-    alb.onchange();
+    albumlist.selectedIndex = IMGURLS[0][0];
+    albumlist.onchange();
   });
   
 </script>
