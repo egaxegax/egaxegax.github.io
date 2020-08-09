@@ -3,12 +3,9 @@
 //
 function loadScript(p, clfunc){
   var script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.onload = function () {
-    if (clfunc) clfunc(p);
-  };
-  script.src = p.url;
-  if(p.charset) script.charset = p.charset;
+  script.setAttribute( 'src', p.url );
+  script.setAttribute( 'charset', p.charset||'utf-8' );
+  script.onload = function () { if (clfunc) clfunc(p); };
   document.body.appendChild(script);
 }
 //
