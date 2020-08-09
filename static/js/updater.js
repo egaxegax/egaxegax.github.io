@@ -4,7 +4,7 @@
 function loadScript(p, clfunc){
   var script = document.createElement('script');
   script.setAttribute( 'src', p.url );
-  script.setAttribute( 'charset', p.charset||'utf-8' );
+  script.setAttribute( 'charset', 'windows-1251' );
   script.onload = function () { if (clfunc) clfunc(p); };
   document.body.appendChild(script);
 }
