@@ -29,7 +29,10 @@ for root, dirs, files in os.walk(path, topdown=False):
 
       subj = E_OS(os.path.basename(root))
       title = E_OS(fname)
-      ftime = os.path.getctime(os.path.join(root, name))
+      if os.path.basename(os.getcwd()) == 'news':
+        ftime = time.mktime(time.strptime(name[:-4], '%Y_%m_%d_%H_%M_%S'))
+      else:
+        ftime = os.path.getctime(os.path.join(root, name))
 
       mfiles.append([ subj, title, time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime)) ]) 
 

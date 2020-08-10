@@ -97,9 +97,15 @@
           var im = document.createElement('img');
           im.style.display = 'block';
           im.style.padding = '1px 0';
+          im.style.cursor = 'pointer';
           im.width = 100;
           im.src = urls[i][1];
-          im.onclick = function(){ img.src = this.src; }
+          im.title = urls[i][2];
+          im.alt = i;
+          im.onclick = function(){ 
+            img.src = this.src; 
+            img.title = this.title;
+          }
           im.onload = function(){ md.appendChild(this); }
         }
       }
