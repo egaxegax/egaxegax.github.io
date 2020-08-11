@@ -94,19 +94,21 @@
         var urls = IMGURLS.filter(function(a){ return a[0] === albumlist.options[albumlist.selectedIndex].value; });
         md.innerHTML = '';
         for(var i in urls) {
+          var el = document.createElement('div');
+          md.appendChild(el);
+          el.id = 'img' + i;
           var im = document.createElement('img');
-          im.style.display = 'block';
           im.style.padding = '1px 0';
           im.style.cursor = 'pointer';
           im.width = 100;
+          im.alt = i;
           im.src = urls[i][1];
           im.title = urls[i][2];
-          im.alt = i;
           im.onclick = function(){ 
             img.src = this.src; 
             img.title = this.title;
           }
-          im.onload = function(){ md.appendChild(this); }
+          im.onload = function(){ document.getElementById('img' + this.alt).appendChild(this); }
         }
       }
       document.getElementById('albumlist').appendChild(opt);
