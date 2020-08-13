@@ -94,6 +94,7 @@
         var urls = IMGURLS.filter(function(a){ return a[0] === albumlist.options[albumlist.selectedIndex].value; });
         md.innerHTML = '';
         for(var i in urls) {
+          if (i==0) img.src = urls[i][1];
           var el = document.createElement('div');
           md.appendChild(el);
           el.id = 'img' + i;
@@ -102,10 +103,10 @@
           im.style.cursor = 'pointer';
           im.width = 100;
           im.alt = i;
-          im.src = urls[i][1];
+          im.src = urls[i][1].replace('.jpg', '.th.jpg');
           im.title = urls[i][2];
           im.onclick = function(){ 
-            img.src = this.src; 
+            img.src = this.src.replace('.th.jpg', '.jpg'); 
             img.title = this.title;
           }
           im.onload = function(){ document.getElementById('img' + this.alt).appendChild(this); }
@@ -113,7 +114,6 @@
       }
       document.getElementById('albumlist').appendChild(opt);
     }
-    img.src = IMGURLS[0][1]; // default img
     albumlist.selectedIndex = IMGURLS[0][0];
     albumlist.onchange();
   });
