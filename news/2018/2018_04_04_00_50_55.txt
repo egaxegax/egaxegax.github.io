@@ -1,0 +1,1 @@
+Новая схема [метро Москвы](http://egaxegax.github.io/dbCartajs/demo/svg/mosmetro.html) с выделением линий.

@@ -1,0 +1,7 @@
+Изменен дизайн сайта и цветовая палитра.
+
+Старая версия:
+![oldver](http://img-fotki.yandex.ru/get/9749/136640652.0/0_d5c8b_d9daf66d_orig)
+
+Новая версия:
+![newver](http://img-fotki.yandex.ru/get/9830/136640652.0/0_d5c8d_4f93cdee_orig)

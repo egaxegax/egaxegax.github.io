@@ -1,0 +1,1 @@
+В раздел [Книги](/books) планирую добавить возможность скачивать книги в форматах *epub*, *fb2*, как на [royallib.com](http://royallib.com/) или [modernlib.ru](http://modernlib.ru/).

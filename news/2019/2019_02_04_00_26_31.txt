@@ -1,0 +1,1 @@
+[Double Commander](https://doublecmd.sourceforge.io/) - отличный файловый менеджер для Linux вместо Total Commander. И для Виндоус тоже.
