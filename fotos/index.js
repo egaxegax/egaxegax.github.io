@@ -6,6 +6,10 @@ ALBUMS={
   "4": "Битцевский парк"
 };
 IMGURLS=[
+["1", "https://i0.wampi.ru/2020/08/16/ALLEY-V-ZAKARINO.jpg", "Аллея в Захарьино"],
+["1", "https://ia.wampi.ru/2020/08/16/VESENNIE-GAZONY.jpg", "Весенние газоны"],
+["1", "https://i0.wampi.ru/2020/08/16/VYSOKAY-SOSNA-U-STANTII-BUTOVO.jpg", "Высокая сосна у станции Бутово"],
+["1", "https://ia.wampi.ru/2020/08/16/DRUGOE-BOLOTTE-V-ZAKARINO.jpg", "Болото в Захарьино"],
 ["3", "https://ia.wampi.ru/2020/08/15/KRASNYI-KLEN.jpg", "Красный клен"],
 ["0", "https://i0.wampi.ru/2020/08/13/LENINSKAY-SLOBODA-VESNOI.jpg", "Вид на Ленинскую слободу"],
 ["0", "https://i0.wampi.ru/2020/08/14/KLUMBA-NA-VOSTOCNOI.jpg", "Клумба на Восточной"],
