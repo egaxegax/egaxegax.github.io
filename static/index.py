@@ -56,12 +56,16 @@ time.sleep(1)
 
 try:
   import subprocess
-  os.putenv('PATH', '"c:/program files/git/bin"')
-  if gitskip == 0: gitskip = subprocess.call('echo git add *.txt', shell=True)
+  if os.name == 'nt':
+    os.putenv('PATH', '"c:/program files/git/bin"')
+  if gitskip == 0: gitskip = subprocess.call('git add *.txt', shell=True)
   comment = '++' + os.path.basename(os.getcwd())
   if gitskip == 0: raw_input(comment + ' Continue commit and push to github.com?')
-  if gitskip == 0: gitskip = subprocess.call('echo git commit -m "' + comment + '"', shell=True)
-  if gitskip == 0: gitskip = subprocess.call('echo git push origin master', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('git config --global user.email egax@ya.ru', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('git config --global user.name  egax', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('git config core.fileMode false', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('git commit -m "' + comment + '"', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('git push origin master', shell=True)
 except:
   raise
 
