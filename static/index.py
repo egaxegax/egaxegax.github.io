@@ -38,16 +38,14 @@ for root, dirs, files in os.walk(path, topdown=False):
       mfiles.append([ subj, title, time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime)) ]) 
 
 mfiles.sort(key=lambda x: x[2], reverse=True)
-msubj = {}
+msubj = []
 mtitles = []
 
 for i, f in enumerate(mfiles):
-  skey = '0' + str(hash(f[0])).replace('-','0')
-  if not msubj.has_key(skey):
-     msubj[skey] = f[0]
+  if not f[0] in msubj:
+    msubj.append(f[0])
   if f[1] != 'about':
-    tkey = '1' + str(hash(f[1])).replace('-','0')
-    mtitles += [[skey, tkey, f[1], f[2]]]
+    mtitles += [['0' + str(msubj.index(f[0])), '1' + str(len(mtitles)), f[1], f[2]]]
   print( i )
 
 open('index.js', 'wb').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
@@ -58,7 +56,7 @@ try:
   import subprocess
   if os.name == 'nt':
     os.putenv('PATH', '"c:/program files/git/bin"')
-  if gitskip == 0: gitskip = subprocess.call('git add *.txt *.js', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('git add *.txt *.js *.html', shell=True)
   comment = '++' + os.path.basename(os.getcwd())
   if gitskip == 0: raw_input(comment + ' Continue commit and push to github.com?')
   if gitskip == 0: gitskip = subprocess.call('git config --global user.email egax@ya.ru', shell=True)
