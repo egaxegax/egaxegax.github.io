@@ -71,11 +71,11 @@
     for(var p in urlParams()){
       if (urlParams()[p] == '') titles = titles.filter(function(tit){ return (tit[ parseInt(p[0]) ] === p); });
         // +about page
-      if(titles.length) titles = [[titles[0][0], titles[0][0], 'about','']].concat(titles);
+      if(titles.length && parseInt(p[0]) == 0) titles = [[titles[0][0], titles[0][0], 'about','']].concat(titles);
     }
     var page_titles = titles.slice(page_bottom, page_top);
     for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ parseInt(page_titles[i][0]) ],
+      var subj = subjects[ parseInt(page_titles[i][0]) ], // skip lead 0 subj
           title = page_titles[i][2];
       var wrap = document.createElement('div');
       wrap.id = 'post' + i;
