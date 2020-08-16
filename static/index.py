@@ -14,9 +14,10 @@ def E_OS(text):
 path = '.'
 mcount = 0
 mfiles = []
+gitskip = 1
 
 if len(sys.argv) > 1:
-  path = os.path.abspath(sys.argv[1])
+  gitskip = (sys.argv[1] != "1")
 
 for root, dirs, files in os.walk(path, topdown=False):
   for name in files:
@@ -52,3 +53,16 @@ for i, f in enumerate(mfiles):
 open('index.js', 'wb').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
 open('index.js', 'ab').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')
 time.sleep(1)
+
+try:
+  import subprocess
+  os.putenv('PATH', '"c:/program files/git/bin"')
+  if gitskip == 0: gitskip = subprocess.call('echo git add *.txt', shell=True)
+  comment = '++' + os.path.basename(os.getcwd())
+  if gitskip == 0: raw_input(comment + ' Continue commit and push to github.com?')
+  if gitskip == 0: gitskip = subprocess.call('echo git commit -m "' + comment + '"', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('echo git push origin master', shell=True)
+except:
+  raise
+
+raw_input('enter...')
