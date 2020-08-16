@@ -58,7 +58,7 @@ try:
   import subprocess
   if os.name == 'nt':
     os.putenv('PATH', '"c:/program files/git/bin"')
-  if gitskip == 0: gitskip = subprocess.call('git add *.txt', shell=True)
+  if gitskip == 0: gitskip = subprocess.call('git add *.txt *.js', shell=True)
   comment = '++' + os.path.basename(os.getcwd())
   if gitskip == 0: raw_input(comment + ' Continue commit and push to github.com?')
   if gitskip == 0: gitskip = subprocess.call('git config --global user.email egax@ya.ru', shell=True)
