@@ -42,7 +42,7 @@ function addNews(){
         page_top = page_bottom+per_page;
     var page_titles = titles.slice(page_bottom, page_top);
     for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ page_titles[i][0] ],
+      var subj = subjects[ parseInt(page_titles[i][0]) ], // skip lead 0
           title = page_titles[i][2];
       var wrap = document.createElement('div');
       wrap.id = 'msg' + i;
