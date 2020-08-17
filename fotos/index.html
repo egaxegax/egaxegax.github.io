@@ -23,17 +23,15 @@
   p.className = 'mtext hspace';
   p.style.padding = '10px 13px';
   p.appendChild(document.createTextNode('Подборка фото, снятых на телефон, о природе, местах, людях. '));
-  p.innerHTML += '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
+  p.innerHTML += new Array(20).join('&nbsp;');
   var el = document.createElement('select');
   el.id = 'albumlist';
-  el.style.width = '300px';
   el.style.height = '40px';
   p.appendChild(el);
 
   var wrap = document.createElement('div');
   wrap.className = 'wrap';
   document.getElementById('page_content').appendChild(wrap);
-//  document.getElementById('page_content').style.width = '80%';
 
   var mtab = document.createElement('table');
   mtab.style.width = '100%';
@@ -49,7 +47,7 @@
 
   var col = document.createElement('td');
   col.width = '125px';
-  col.style.padding = '0';
+  col.style.padding = '0 0 0 1px';
   col.style.verticalAlign = 'top';
   row.appendChild(col);
   var md = document.createElement('div');
