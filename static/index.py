@@ -48,8 +48,8 @@ for i, f in enumerate(mfiles):
     mtitles += [['0' + str(msubj.index(f[0])), '1' + str(len(mtitles)), f[1], f[2]]]
   print( i )
 
-open('index.js', 'wb').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
-open('index.js', 'ab').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')
+open('index.js', 'w').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
+open('index.js', 'a').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')
 time.sleep(1)
 
 try:
@@ -67,4 +67,4 @@ try:
 except:
   raise
 
-raw_input('enter...')
+#raw_input('enter...')
