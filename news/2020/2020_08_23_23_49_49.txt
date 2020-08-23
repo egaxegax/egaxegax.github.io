@@ -1,1 +1,1 @@
-﻿Включил раздел [Аккорды](/songs/) по ссылке на старый сайт [egaxegax.appspot.com](https://egaxegax.appspot.com), пока не перенесу раздел на новый домен *github.io*.
+﻿Включил раздел [Аккорды](/songs/) по ссылке на старый сайт [egaxegax.appspot.com](https://egaxegax.appspot.com/songs/), пока не перенесу раздел на новый домен *github.io*.
