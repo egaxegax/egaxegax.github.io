@@ -1,4 +1,5 @@
-﻿Открыть реестр 
+﻿<!--2020-04-19 17:52:23-->
+Открыть реестр 
 
     HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpClient
 

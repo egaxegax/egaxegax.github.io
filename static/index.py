@@ -30,8 +30,20 @@ for root, dirs, files in os.walk(path, topdown=False):
 
       subj = E_OS(os.path.basename(root))
       title = E_OS(fname)
-      if os.path.basename(os.getcwd()) == 'news':
+      cwd = os.path.basename(os.getcwd())
+
+      if cwd == 'news':
         ftime = time.mktime(time.strptime(name[:-4], '%Y_%m_%d_%H_%M_%S'))
+      elif cwd == 'posts':
+        f = open(os.path.join(root, name))
+        for line in f:
+          if line.strip():
+            try:
+              ftime = time.mktime(time.strptime(line.strip('\xef\xbb\xbf<!-->\r\n'), '%Y-%m-%d %H:%M:%S'))
+            except:
+              ftime = None
+              print fname, 'use None date'
+          break
       else:
         ftime = os.path.getmtime(os.path.join(root, name))
 
@@ -66,5 +78,3 @@ try:
   if gitskip == 0: gitskip = subprocess.call('git push origin master', shell=True)
 except:
   raise
-
-#raw_input('enter...')

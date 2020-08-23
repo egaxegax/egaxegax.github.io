@@ -1,3 +1,4 @@
+<!--2013-09-20 21:28:19-->
 Идея попробовать нарисовать карту появилась после просмотра карты метро в Википедии в [формате SVG](http://upload.wikimedia.org/wikipedia/commons/f/f3/Moscow_metro_map_ru_sb.svg). В Firefox она открывается долго, к тому же при разрешении 1600x1300 она не вмещается в экран, а скроллинг по ней работает тоже очень долго. Стало интересно, а в Canvas она тоже будет тормозить? Решил нарисовать свою версию [карты метро](http://dbcartajs.appspot.com/mosmetro.html) в качестве очередного демо для проекта [dbCartajs](http://dbcartajs.appspot.com). 
 
 ![mosmetro.png] (http://img-fotki.yandex.ru/get/9328/136640652.0/0_c6660_9d3ca715_XL.png "Moscow Metro")

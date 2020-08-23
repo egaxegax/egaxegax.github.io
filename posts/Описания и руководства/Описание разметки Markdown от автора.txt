@@ -1,3 +1,4 @@
+<!--2012-04-03 17:12:09-->
 <div id="Box">
 
 
@@ -1005,7 +1006,7 @@ _   underscore
 
 <p class="smallprint">
 <a href="/linked/" title="Recent Linked List entries and archive.">Linked List</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/preferences/" title="Customize the font size and presentation options for this web site.">Display Preferences</a><br />
-Copyright &copy; 2002–2012 The Daring Fireball Company LLC.</p>
+Copyright &copy; 2002-2012 The Daring Fireball Company LLC.</p>
 </div>
 
 <div id="SidebarTheDeck">
@@ -1023,7 +1024,7 @@ Copyright &copy; 2002–2012 The Daring Fireball Company LLC.</p>
 </script>
 
 <p id="ViaTheDeck"><a href="http://decknetwork.net/">
-<img src="http://daringfireball.net/graphics/madison/via_the_deck.png"    alt="Ads via The Deck" class="the_deck_promo" width="70" />
+<img src="http://daringfireball.net/graphics/madison/via_the_deck.png"    alt="Ads via The Deck" class="the_deck_promo" width="70" />=
 <span>Ads via The Deck</span>
 </a></p>
 

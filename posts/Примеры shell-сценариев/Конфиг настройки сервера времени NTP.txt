@@ -1,4 +1,5 @@
-﻿Конфиг */etc/ntp/ntp.conf*
+﻿<!--2020-04-06 11:38:04-->
+Конфиг */etc/ntp/ntp.conf*
 
     # master
 
