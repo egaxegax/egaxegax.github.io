@@ -83,7 +83,7 @@
       wrap.id = 'post' + i;
       document.getElementById('page_content').appendChild(wrap);
       upfunc({id: wrap.id, subj: subj, title: page_titles[i], url: subj + '/' + title + '.txt'}, function(r, p){
-        if(r.search('Error 404') == -1) { // skip Not Found pages 
+        if(r.search('Error 404') == -1 && r.search('File not found') == -1) { // skip Not Found pages 
           document.getElementById(p.id).className = 'wrap';
           document.getElementById(p.id).innerHTML = addPost(r, p);
         }
