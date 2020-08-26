@@ -21,7 +21,7 @@ function addMsg(r, p){
   var ps = document.createElement('div');
   footer.appendChild(ps);
   ps.className = 'gray smaller';
-  ps.appendChild(document.createTextNode(p.title[3]));
+  ps.appendChild(document.createTextNode(' ' + p.title[3]));
   return root.innerHTML;
 }
 //
