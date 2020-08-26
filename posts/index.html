@@ -57,7 +57,7 @@
     return root.innerHTML;
   }
 
-  addMetaTags( 'Заметки, Посты' );
+  addMetaTags();
   addBodyTags( 'posts' );
 
   var p = document.createElement('p');
@@ -86,8 +86,16 @@
       document.getElementById('page_content').appendChild(wrap);
       upfunc({id: wrap.id, subj: subj, title: page_titles[i], url: subj + '/' + title + '.txt'}, function(r, p){
         if(r.search('Error 404') == -1 && r.search('File not found') == -1) { // skip Not Found pages 
-          document.getElementById(p.id).className = 'wrap';
-          document.getElementById(p.id).innerHTML = addPost(r, p);
+          var el = document.getElementById(p.id);
+          el.className = 'wrap';
+          el.innerHTML = addPost(r, p);
+            // add description meta
+          if(p.id == 'post0'){
+            var meta = document.head.getElementsByTagName('meta');
+            for(var j in meta){
+              if(meta[j].name == 'description') meta[j].content = el.innerHTML.replace(/(<([^>]+)>)/gi, "");
+            }
+          }
         }
       });
     }

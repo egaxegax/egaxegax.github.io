@@ -134,20 +134,9 @@ function addBodyTags(sel){
   row.appendChild(col);
 }
 //
-// Add META tags (description, keywords, author) to page.
+// Add META tags (author, verification) to page.
 //
 function addMetaTags(text){
-  if (text) {
-    var meta = document.createElement('meta');
-    meta.name = 'description';
-    meta.content = text
-    document.head.appendChild(meta);
-  }
-  var meta = document.createElement('meta');
-  meta.name = 'keywords';
-  meta.content = 'записки, сообщения, комментарии, новости, тексты, заметки, фото';
-  document.head.appendChild(meta);
-  
   var meta = document.createElement('meta');
   meta.name = 'author';
   meta.content = 'Grigoriy Eremin, Григорий Еремин, egax@bk.ru';
@@ -162,7 +151,6 @@ function addMetaTags(text){
   meta.name = 'yandex-verification';
   meta.content = 'bf07f0af8e739c66';
   document.head.appendChild(meta);
-  
 };
 //
 // Paginator

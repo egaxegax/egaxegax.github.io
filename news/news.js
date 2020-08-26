@@ -48,8 +48,16 @@ function addNews(){
       wrap.id = 'msg' + i;
       document.getElementById('page_content').appendChild(wrap);
       upfunc({id: wrap.id, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r, p){
-        document.getElementById(p.id).className = 'wrap';
-        document.getElementById(p.id).innerHTML = addMsg(r, p);
+        var el = document.getElementById(p.id);
+        el.className = 'wrap';
+        el.innerHTML = addMsg(r, p);
+          // add description meta
+        if(p.id == 'msg0'){
+          var meta = document.head.getElementsByTagName('meta');
+          for(var j in meta){
+            if(meta[j].name == 'description') meta[j].content = el.innerHTML.replace(/(<([^>]+)>)/gi, "");
+          }
+        }
       });
     }
     if (!page_titles.length){
