@@ -103,20 +103,23 @@ function addBodyTags(sel){
 
   var col = document.createElement('td');
   col.id = 'livecounter';
+  col.className = 'hspace';
   row.appendChild(col);
 
   var col = document.createElement('td');
   col.id = 'yacounter';
+  col.className = 'hspace';
   row.appendChild(col);
 
   var col = document.createElement('td');
+  col.className = 'hspace';
   col.innerHTML = '<div class="share42init"></div>';
   row.appendChild(col);
 
   var col = document.createElement('td');
   col.align = 'left';
   col.width = '50%';
-  col.innerHTML = '&nbsp;&nbsp;&nbsp;<a href="/about">egaxegax</a> © 2011-2020';
+  col.innerHTML = '<a href="/about">egaxegax</a> © 2011-2020';
   row.appendChild(col);
 }
 //
