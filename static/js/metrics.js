@@ -34,9 +34,7 @@ function adGoogleCounter(){
 }
   //
 function addMetrics(){
-  if(!String(window.location).match(/file:|localhost/)){
-    adLiveCounter();
-    adYaCounter();
-    adGoogleCounter();
-  }
+  adLiveCounter();
+  adYaCounter();
+  adGoogleCounter();
 }
