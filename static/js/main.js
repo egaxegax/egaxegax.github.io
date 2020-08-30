@@ -97,40 +97,30 @@ function addBodyTags(sel){
   tb.appendChild(row);
 
   var col = document.createElement('td');
-  col.align = 'right';
-  col.width = '35%';
-  
-  // --Yandex.Metrika informer--
-  var el = document.createElement('a');
-  el.href = 'https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer';
-  el.target = '_blank';
-  el.rel = 'nofollow';
-  el.innerHTML = '<img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" />';
-  // --/Yandex.Metrika informer--
-  col.appendChild(el);
+  col.width = '30%';
   row.appendChild(col);
-  
+
   var col = document.createElement('td');
-  col.align = 'center';
-  col.width = '5%';
+  col.id = 'livecounter';
+  col.align = 'right';
+//  col.width = '100px';
+  row.appendChild(col);
+
+  var col = document.createElement('td');
+  col.id = 'yacounter';
+  col.align = 'right';
+//  col.width = '100px';
   row.appendChild(col);
 
   var col = document.createElement('td');
   col.align = 'left';
   col.width = '25%';
-  var a = document.createElement('a');
-  a.href = '/about';
-  a.appendChild(document.createTextNode('egaxegax'));
-  col.appendChild(document.createTextNode(' © 2011-2020 '));
-  col.appendChild(a);
+  col.innerHTML = '&nbsp;<a href="/about">egaxegax</a>&nbsp; © 2011-2020&nbsp;';
   row.appendChild(col);
   
   var col = document.createElement('td');
   col.align = 'left';
-  col.width = '35%';
-  var el = document.createElement('div');
-  el.className = 'share42init';
-  col.appendChild(el);
+  col.innerHTML = '<div class="share42init"></div>';
   row.appendChild(col);
 }
 //
