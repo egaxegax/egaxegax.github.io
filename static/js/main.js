@@ -1,5 +1,5 @@
 ﻿// 
-//  Add body tags (header, ontent, footer)
+// Add body tags (header, ontent, footer)
 //
 function addBodyTags(sel){
   document.body.className = 'nomarg';
@@ -103,13 +103,13 @@ function addBodyTags(sel){
   var col = document.createElement('td');
   col.id = 'livecounter';
   col.align = 'right';
-//  col.width = '100px';
+  col.width = '100px';
   row.appendChild(col);
 
   var col = document.createElement('td');
   col.id = 'yacounter';
   col.align = 'right';
-//  col.width = '100px';
+  col.width = '100px';
   row.appendChild(col);
 
   var col = document.createElement('td');
