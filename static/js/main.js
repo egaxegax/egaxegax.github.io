@@ -88,16 +88,17 @@ function addBodyTags(sel){
   var footer = document.createElement('div');
   document.body.appendChild(footer);
   footer.id = 'footer';
-  var mtab = document.createElement('table');
-  footer.appendChild(mtab);
-  mtab.width = '100%';
+  var tab = document.createElement('table');
+  footer.appendChild(tab);
+  tab.width = '100%';
+  tab.style = 'white-space:nowrap';
   var tb = document.createElement('tbody');
-  mtab.appendChild(tb);
+  tab.appendChild(tb);
   var row = document.createElement('tr');
   tb.appendChild(row);
 
   var col = document.createElement('td');
-  col.width = '30%';
+  col.width = '50%';
   row.appendChild(col);
 
   var col = document.createElement('td');
@@ -114,13 +115,14 @@ function addBodyTags(sel){
 
   var col = document.createElement('td');
   col.align = 'left';
-  col.width = '25%';
-  col.innerHTML = '&nbsp;<a href="/about">egaxegax</a>&nbsp; © 2011-2020&nbsp;';
+  col.width = '100px';
+  col.innerHTML = '<div class="share42init"></div>';
   row.appendChild(col);
-  
+
   var col = document.createElement('td');
   col.align = 'left';
-  col.innerHTML = '<div class="share42init"></div>';
+  col.width = '50%';
+  col.innerHTML = '<a href="/about">egaxegax</a> © 2011-2020';
   row.appendChild(col);
 }
 //
