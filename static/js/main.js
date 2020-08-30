@@ -103,26 +103,20 @@ function addBodyTags(sel){
 
   var col = document.createElement('td');
   col.id = 'livecounter';
-  col.align = 'right';
-  col.width = '100px';
   row.appendChild(col);
 
   var col = document.createElement('td');
   col.id = 'yacounter';
-  col.align = 'right';
-  col.width = '100px';
   row.appendChild(col);
 
   var col = document.createElement('td');
-  col.align = 'left';
-  col.width = '100px';
   col.innerHTML = '<div class="share42init"></div>';
   row.appendChild(col);
 
   var col = document.createElement('td');
   col.align = 'left';
   col.width = '50%';
-  col.innerHTML = '<a href="/about">egaxegax</a> © 2011-2020';
+  col.innerHTML = '&nbsp;&nbsp;&nbsp;<a href="/about">egaxegax</a> © 2011-2020';
   row.appendChild(col);
 }
 //
