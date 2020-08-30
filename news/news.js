@@ -43,30 +43,27 @@ function addNews(){
         page_top = page_bottom+per_page;
     var page_titles = titles.slice(page_bottom, page_top);
     for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ parseInt(page_titles[i][0]) ], // skip lead 0
+      var subj = subjects[ parseInt(page_titles[i][0]) ][0], // skip lead 0
           title = page_titles[i][2];
       var wrap = document.createElement('div');
       wrap.id = 'msg' + i;
+      if(i==0) addAjaxLoader(wrap);
       document.getElementById('page_content').appendChild(wrap);
       upfunc({id: wrap.id, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r, p){
-        var el = document.getElementById(p.id);
-        el.className = 'wrap';
-        el.innerHTML = addMsg(r, p);
+        var wrap = document.getElementById(p.id);
+        wrap.className = 'wrap';
+        wrap.innerHTML = addMsg(r, p);
           // add description meta
         if(p.id == 'msg0'){
           var meta = document.head.getElementsByTagName('meta');
           for(var j in meta){
-            if(meta[j].name == 'description') meta[j].content = el.innerHTML.replace(/(<([^>]+)>)/gi, "");
+            if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, "");
           }
         }
       });
     }
-    if (!page_titles.length){
-      var p = document.createElement('p');
-      document.getElementById('page_content').appendChild(p);
-      p.className = 'mtext hspace';
-      p.appendChild(document.createTextNode('Нет данных.'));
-    } else
+    if (page_titles.length){
       document.getElementById('page_footer').appendChild(addPaginator(titles, per_page, page_num));
+    }
   });
 }
