@@ -56,6 +56,7 @@ mtitles = []
 for i, f in enumerate(mfiles):
   if not f[0] in msubj:
     msubj.append(f[0])
+    msubj.sort()
   if f[1] != 'about':
     mtitles += [['0' + str(msubj.index(f[0])), '1' + str(len(mtitles)), f[1], f[2]]]
   print( i )
