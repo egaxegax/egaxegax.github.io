@@ -49,19 +49,24 @@ for root, dirs, files in os.walk(path, topdown=False):
 
       mfiles.append([ subj, title, time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime)) ]) 
 
-mfiles.sort(key=lambda x: x[2], reverse=True)
+mfiles.sort(key=lambda f: f[2], reverse=True)
 msubj = []
 mtitles = []
 
 for i, f in enumerate(mfiles):
-  if not f[0] in msubj:
-    msubj.append(f[0])
-    msubj.sort()
-  if f[1] != 'about':
-    mtitles += [['0' + str(msubj.index(f[0])), '1' + str(len(mtitles)), f[1], f[2]]]
+  if f[1] == 'about':
+    continue
+  isubj = -1
+  for ii, s in enumerate(msubj):
+    if f[0] == s[0]:
+      s[1] += 1
+      isubj = ii
+      break
+  if isubj == -1:
+    msubj += [[f[0], 1, f[2]]]
+    isubj = len(msubj) - 1
+  mtitles += [['0' + str(isubj), '1' + str(len(mtitles)), f[1], f[2]]]
   print( i )
-
-msubj.sort()
 
 open('index.js', 'w').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
 open('index.js', 'a').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')

@@ -24,7 +24,13 @@ function upfunc(p, clfunc, id){
   xhr.send();
 }
 //
-// get URL GET params
+// Add image to element during ajax loading
+//
+function addAjaxLoader(el){
+  if (el) el.innerHTML = '<img class="hspace1" src="/static/img/ajax-loader.gif">';
+}
+//
+// URL GET params
 //
 function urlParams(url) {
   var o = {}, qs = url ? url.split('?')[1] : window.location.search.slice(1);
