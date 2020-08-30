@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='content-type' content='text/html;charset=utf-8' />
+<title>Заметки / Сайт Григория Еремина</title>
+<meta name="description" content="Заметки, цитаты, статьи и посты на самые разные темы."/>
+<meta name="keywords" content="статьи, тексты, заметки, фото"/>
+<link rel="shortcut icon" href="/static/img/favicon.ico" />
+<link rel='stylesheet' href='/static/css/main.css' />
+<link rel='stylesheet' href='/static/css/markdown.css' />
+<script src='/static/js/metrics.js'></script>
+<script src='/static/share42/share42.js'></script>
+<script src='/static/js/updater.js'></script>
+<script src='/static/js/3rdparty/showdown.min.js'></script>
+<script src='/static/js/main.js'></script>
+</head>
+<body>
+<script type='text/javascript'>
+
+  addMetaTags();
+  addBodyTags( 'posts' );
+  addMetrics();
+
+  function addSubj(subj, i){
+    var root = document.createElement('div');
+    var content = document.createElement('div');
+    root.appendChild(content);
+    content.className = 'msgtext';
+    var a = document.createElement('a');
+    content.appendChild(a);
+    a.className = 'nodecor';
+    a.href = '/posts/?0' + i;
+    a.width = '300px';
+    var e = document.createElement('span');
+    a.appendChild(e);
+    e.style.display = 'inline-block';
+    e.style.width = '420px';
+    e.appendChild(document.createTextNode( subj[0] ));
+    content.innerHTML += '<b>' + subj[1] + '</b>';
+    var footer = document.createElement('div');
+    root.appendChild(footer);
+    footer.className = 'hspace2';
+    var ps = document.createElement('div');
+    footer.appendChild(ps);
+    ps.className = 'gray smaller';
+    ps.appendChild(document.createTextNode(' ' + subj[2]));
+    return root.innerHTML;
+  }
+
+  var p = document.createElement('p');
+  document.getElementById('page_content').appendChild(p);
+  p.className = 'mtext hspace';
+  p.appendChild(document.createTextNode('Выберите одну из тем статей: '));
+  
+  loadScript({url: '/posts/index.js'}, function(p){
+    var subjects = SUBJ;
+    for(var i=0; i<subjects.length; i++){
+      var subj = subjects[i];
+      var wrap = document.createElement('div');
+      wrap.id = 'subj' + i;
+      wrap.className = 'wrap';
+      wrap.innerHTML = addSubj(subj, i);
+      document.getElementById('page_content').appendChild(wrap);
+    }
+    if (subjects.length){
+      var e = document.createElement('p');
+      document.getElementById('page_content').appendChild(e);
+      e.className = 'mtext hspace';
+      e.innerHTML = '<a href="/posts">Все статьи</a>';
+    }
+  });
+
+</script>
+</body>
+</html>
