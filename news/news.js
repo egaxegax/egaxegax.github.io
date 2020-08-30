@@ -13,6 +13,7 @@ function addMsg(r, p){
     .replace(/\r\r\n/g, '\n')
     .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
     .replace(/\{: class=rounded :\}/g, '');
+  var converter = new showdown.Converter();
   html = converter.makeHtml(text);
   content.innerHTML += html;
   var footer = document.createElement('div');
