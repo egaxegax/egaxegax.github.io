@@ -1,4 +1,4 @@
-﻿// 
+//
 // Add body tags (header, ontent, footer)
 //
 function addBodyTags(sel){

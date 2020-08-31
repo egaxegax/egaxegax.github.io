@@ -23,7 +23,7 @@ for root, dirs, files in os.walk(path, topdown=False):
   for name in files:
 
     fname, ext = os.path.splitext(name)
-    
+
     if ext == '.txt':
 
       mcount += 1
@@ -37,12 +37,9 @@ for root, dirs, files in os.walk(path, topdown=False):
       elif cwd == 'posts':
         f = open(os.path.join(root, name))
         for line in f:
-          if line.strip():
-            try:
-              ftime = time.mktime(time.strptime(line.strip('\xef\xbb\xbf<!-->\r\n'), '%Y-%m-%d %H:%M:%S'))
-            except:
-              ftime = None
-              print fname, 'use None date'
+          if fname != 'about':
+            print( fname )
+            ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
           break
       else:
         ftime = os.path.getmtime(os.path.join(root, name))
@@ -65,7 +62,7 @@ for i, f in enumerate(mfiles):
   if isubj == -1:
     msubj += [[f[0], 1, f[2]]]
     isubj = len(msubj) - 1
-  mtitles += [['0' + str(isubj), '1' + str(len(mtitles)), f[1], f[2]]]
+  mtitles += [['0' + str(isubj), '1' + str(len(mfiles) - len(mtitles)), f[1], f[2]]]
   print( i )
 
 open('index.js', 'w').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
@@ -78,7 +75,7 @@ try:
     os.putenv('PATH', '"c:/program files/git/bin"')
   if gitskip == 0: gitskip = subprocess.call('git add *.txt *.js *.html', shell=True)
   comment = '++' + os.path.basename(os.getcwd())
-  if gitskip == 0: raw_input(comment + ' Continue commit and push to github.com?')
+#  if gitskip == 0: raw_input(comment + ' Continue commit and push to github.com?')
   if gitskip == 0: gitskip = subprocess.call('git config --global user.email egax@ya.ru', shell=True)
   if gitskip == 0: gitskip = subprocess.call('git config --global user.name  egax', shell=True)
   if gitskip == 0: gitskip = subprocess.call('git config core.fileMode false', shell=True)
