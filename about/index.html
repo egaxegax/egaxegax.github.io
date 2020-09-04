@@ -1,84 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv='content-type' content='text/html;charset=utf-8' />
+<meta http-equiv='content-type' content='text/html;charset=utf-8'>
+<meta name='description' content='Портал Григория Еремина. Фото, тексты и сообщения от автора. '>
+<meta name='keywords' content='О сайте, цели, задачи, контакты, тексты, заметки, фото'>
+<meta name='author' content='Grigoriy Eremin, Григорий Еремин, egax@bk.ru'>
+<meta name='yandex-verification' content='bf07f0af8e739c66'>
+<meta name='google-site-verification' content='eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8'>
 <title>О сайте / Сайт Григория Еремина</title>
-<meta name="description" content="Портал Григория Еремина. Фото, тексты и сообщения от автора. "/>
-<meta name="keywords" content="О сайте, цели, задачи, контакты, тексты, заметки, фото"/>
-<link rel="shortcut icon" href="/static/img/favicon.ico" />
-<link rel="stylesheet" href="/static/css/main.css" />
-<link rel="stylesheet" href="/static/css/markdown.css" />
-<script src='/static/js/metrics.js'></script>
-<script src="/static/share42/share42.js"></script>
-<script src="/static/js/updater.js"></script>
+<link rel='shortcut icon' href='/static/img/favicon.ico'>
+<link rel='stylesheet' href='/static/css/main.css'>
 <script src='/static/js/main.js'></script>
 </head>
 <body>
 <script type='text/javascript'>
 
-  addMetaTags();
-  addBodyTags( 'about' );
-  addMetrics();
-
-  var p = document.createElement('p');
-  document.getElementById('page_content').appendChild(p);
-  p.className = 'mtext hspace';
-  p.appendChild(document.createTextNode('Портал Григория Еремина. Фото, тексты и сообщения от автора. '));
-
-  var wrap = document.createElement('div');
-  document.getElementById('page_content').appendChild(wrap);
-  wrap.className = 'wrap';
-  wrap.style.height = '300px';
-  wrap.style.background = 'url(/static/img/egaxegax.png) no-repeat 30px 30px';
-  var cont = document.createElement('div');
-  cont.className = 'msgtext';
-  wrap.appendChild(cont);
-  
-  var dl = document.createElement('dl');
-  cont.appendChild(dl);
-  dl.className = 'nomarg';
-  dl.style.padding = '0 0 0 200px';
-  var dt = document.createElement('dt');
-  dl.appendChild(dt);
-  dt.appendChild(document.createTextNode('Обычный инженер-программист. Также люблю читать и сочинять.'));
-  dl.appendChild(document.createElement('dt'));
-  var dt = document.createElement('dt');
-  dl.appendChild(dt);
-  dt.appendChild(document.createTextNode('Контакты: '));
-  dl.appendChild(document.createElement('dt'));
-  var dd = document.createElement('dd');
-  dl.appendChild(dd);
-  dd.appendChild(document.createTextNode('Личная: '));
-  var a = document.createElement('a');
-  dd.appendChild(a);
-  a.href = 'http://vk.com/egaxegax';
-  a.appendChild(document.createTextNode(a.href));
-    //
-  var dd = document.createElement('dd');
-  dl.appendChild(dd);
-  dd.appendChild(document.createTextNode('Проекты: '));
-  var a = document.createElement('a');
-  dd.appendChild(a);
-  a.href = 'https://github.com/egaxegax';
-  a.appendChild(document.createTextNode(a.href));
-    //
-  var dd = document.createElement('dd');
-  dl.appendChild(dd);
-  dd.appendChild(document.createTextNode('Почта: '));
-  var a = document.createElement('a');
-  dd.appendChild(a);
-  a.href = 'mailto:egax@bk.ru?subject=About%20egaxegax.github.io&body=Good%20site';
-  a.target = '_blank';
-  a.appendChild(document.createTextNode('egax@bk.ru'));    
-    //
-  dl.appendChild(document.createElement('br'));
-    //
-  var dt = document.createElement('dt');
-  dl.appendChild(dt);
-  dt.className = 'hspace1 smaller';
-  dt.innerHTML = '<i>"Делай что можешь, с тем что имеешь, там где ты есть." </i>';
-  dt.innerHTML += '<i><a href="/posts?102098553507">Теодор Рузвельт</a></i>';
+  document.body.innerHTML = addTemplate( 'about' );
+  document.getElementById('page_content').innerHTML =
+'<p class="mtext hspace">Портал Григория Еремина. Фото, тексты и сообщения от автора. </p>'+
+'<div class="wrap" style="height: 300px; background: url(/static/img/egaxegax.png) no-repeat scroll 30px 30px;">'+
+  '<div class="msgtext">'+
+    '<dl class="nomarg" style="padding: 0px 0px 0px 200px;">'+
+      '<dt>Обычный инженер-программист. Также люблю читать и сочинять.</dt><dt></dt>'+
+    '<dt>Контакты: </dt><dt></dt>'+
+    '<dd>Личная: <a href="https://vk.com/egaxegax">vk.com/egaxegax</a></dd>'+
+    '<dd>Проекты: <a href="https://github.com/egaxegax">github.com/egaxegax</a></dd>'+
+    '<dd>Почта: <a href="">egax@bk.ru</a></dd><br>'+
+    '<dt class="hspace1 smaller">'+
+      '<i>"Делай что можешь, с тем что имеешь, там где ты есть." </i>'+
+      '<i><a href="/posts?102098553507">Теодор Рузвельт</a></i></dt>'+
+    '</dl>'+
+  '</div>'+
+'</div>';
 
 </script>
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-25857345-4'></script>
+<script src='/static/js/metrics.js'></script>
 </body>
 </html>

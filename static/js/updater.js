@@ -27,7 +27,7 @@ function upfunc(p, clfunc, id){
 // Add image to element during ajax loading
 //
 function addAjaxLoader(el){
-  if (el) el.innerHTML = '<img class="hspace1" src="/static/img/ajax-loader.gif">';
+  if (el) el.innerHTML = '<img class="hspace1" src="/static/img/loader.gif">';
 }
 //
 // URL GET params

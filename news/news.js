@@ -2,38 +2,28 @@
 // /news/index.html to /index.html
 //
 function addMsg(r, p){
-  var text, html;
-  var root = document.createElement('div');
-  var content = document.createElement('div');
-  root.appendChild(content);
-  content.className = 'msgtext';
-    // to markdown
-  text = r
-    .replace(/\/photos\//g, '/fotos/')
-    .replace(/\r\r\n/g, '\n')
-    .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
-    .replace(/\{: class=rounded :\}/g, '');
-  var converter = new showdown.Converter();
-  html = converter.makeHtml(text);
-  content.innerHTML += html;
-  var footer = document.createElement('div');
-  root.appendChild(footer);
-  footer.className = 'msgfooter';
-  var ps = document.createElement('div');
-  footer.appendChild(ps);
-  ps.className = 'gray smaller';
-  ps.appendChild(document.createTextNode(' ' + p.title[3]));
-  return root.innerHTML;
+  var converter = new showdown.Converter(),
+      text = r
+        .replace(/\/photos\//g, '/fotos/')
+        .replace(/\r\r\n/g, '\n')
+        .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
+        .replace(/\{: class=rounded :\}/g, ''),
+      html = converter.makeHtml(text);
+  var tmpl = 
+'<div class="msgtext">'+html+'</div>'+
+'<div class="msgfooter">'+
+  '<div class="gray smaller">'+' '+p.title[3]+'</div>'+
+'</div>';
+  return tmpl;
 }
 //
 // Append news from .txt
 //
 function addNews(){
-  var p = document.createElement('p');
-  document.getElementById('page_content').appendChild(p);
-  p.className = 'mtext hspace';
-  p.appendChild(document.createTextNode('Что нового? Новости, изменения, обновления на сайте и не только.'));
-
+  var tmpl =
+'<p class="mtext hspace">'+
+  'Что нового? Новости, изменения, обновления на сайте и не только.'+
+'</p>';
   loadScript({url: '/news/index.js'}, function(p){
     var subjects = SUBJ,
         titles = TITLES;
@@ -45,11 +35,11 @@ function addNews(){
     for(var i=0; i<page_titles.length; i++){
       var subj = subjects[ parseInt(page_titles[i][0]) ][0], // skip lead 0
           title = page_titles[i][2];
-      var wrap = document.createElement('div');
-      wrap.id = 'msg' + i;
-      if(i==0) addAjaxLoader(wrap);
-      document.getElementById('page_content').appendChild(wrap);
-      upfunc({id: wrap.id, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r, p){
+      document.getElementById('page_content').innerHTML += 
+    '<div id="msg'+i+'">'+
+      (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'msg'+ i, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r, p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         wrap.innerHTML = addMsg(r, p);
@@ -63,7 +53,14 @@ function addNews(){
       });
     }
     if (page_titles.length){
-      document.getElementById('page_footer').appendChild(addPaginator(titles, per_page, page_num));
+      document.getElementById('page_footer').innerHTML = addPaginator(titles, per_page, page_num);
+    } else {
+      document.getElementById('page_content').innerHTML += 
+    '<p class="mtext hspace">'+
+      'Нет данных.'+
+    '</p>'+
+    '<img src="/static/img/confuse.png" width="120px">';
     }
   });
+  return tmpl;
 }

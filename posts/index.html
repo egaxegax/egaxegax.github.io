@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv='content-type' content='text/html;charset=utf-8' />
+<meta http-equiv='content-type' content='text/html;charset=utf-8'>
+<meta name='description' content='Заметки, цитаты, статьи и посты на самые разные темы.'>
+<meta name='keywords' content='статьи, тексты, заметки, фото'>
+<meta name='author' content='Grigoriy Eremin, Григорий Еремин, egax@bk.ru'>
+<meta name='yandex-verification' content='bf07f0af8e739c66'>
+<meta name='google-site-verification' content='eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8'>
 <title>Заметки / Сайт Григория Еремина</title>
-<meta name="description" content="Заметки, цитаты, статьи и посты на самые разные темы."/>
-<meta name="keywords" content="статьи, тексты, заметки, фото"/>
-<link rel="shortcut icon" href="/static/img/favicon.ico" />
-<link rel='stylesheet' href='/static/css/main.css' />
-<link rel='stylesheet' href='/static/css/markdown.css' />
-<script src='/static/js/metrics.js'></script>
-<script src='/static/share42/share42.js'></script>
+<link rel='shortcut icon' href='/static/img/favicon.ico'>
+<link rel='stylesheet' href='/static/css/main.css'>
+<link rel='stylesheet' href='/static/css/markdown.css'>
 <script src='/static/js/updater.js'></script>
 <script src='/static/js/3rdparty/showdown.min.js'></script>
 <script src='/static/js/main.js'></script>
@@ -17,55 +18,36 @@
 <body>
 <script type='text/javascript'>
 
-  addMetaTags();
-  addBodyTags( 'posts' );
-  addMetrics();
+  document.body.innerHTML = addTemplate( 'posts' );
+  document.getElementById('page_content').innerHTML = 
+'<p class="mtext hspace">'+
+  'Заметки, статьи, цитаты на самые разные темы.'+
+'</p>';
 
   function addPost(r, p){
-    var root = document.createElement('div');
-    var content = document.createElement('div');
-    root.appendChild(content);
-    content.className = 'msgtext';
-    if(p.title[2] != 'about'){
-      var header = document.createElement('h3');
-      content.appendChild(header);
-      var a = document.createElement('a');
-      header.appendChild(a);
-      a.className = 'nodecor';
-      a.href = '?' + p.title[1];
-      a.appendChild(document.createTextNode( p.title[2] ));
-    }
-      // to markdown
-    var text = r
-      .replace(/\/photos\//g, '/fotos/')
-      .replace(/\r\r\n/g, '\n')
-      .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
-      .replace(/\{: class=rounded :\}/g, '');
-    var converter = new showdown.Converter(),
+    var converter = new showdown.Converter(), // to markdown
+        text = r
+          .replace(/\/photos\//g, '/fotos/')
+          .replace(/\r\r\n/g, '\n')
+          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
+          .replace(/\{: class=rounded :\}/g, ''),
         html = converter.makeHtml(text);
-    content.innerHTML += html;
-    if(p.title[2] != 'about'){
-      var footer = document.createElement('div');
-      root.appendChild(footer);
-      footer.className = 'msgfooter';
-      var a = document.createElement('a');
-      footer.appendChild(a);
-      a.className = 'nodecor';
-      a.href = '?' + p.title[0];    
-      a.appendChild(document.createTextNode( p.subj ));
-      var ps = document.createElement('div');
-      footer.appendChild(ps);
-      ps.className = 'gray smaller';
-      ps.appendChild(document.createTextNode(' ' + p.title[3]));
-    }
-    return root.innerHTML;
+    var tmpl = 
+'<div class="msgtext">'+
+  (p.title[2] !== 'about' ? 
+'<h3><a class="nodecor" href="?'+ p.title[1] +'">'+p.title[2]+'</a>' 
+  : '')+
+  html+
+'</div>'+
+  (p.title[2] !== 'about' ? 
+'<div class="msgfooter">'+
+  '<a class="nodecor" href="?'+p.title[0]+'">'+p.subj+'</a>'+
+  '<div class="gray smaller"> '+p.title[3]+'</div>'+
+'</div>' 
+  : '');
+    return tmpl;
   }
 
-  var e = document.createElement('p');
-  document.getElementById('page_content').appendChild(e);
-  e.className = 'mtext hspace';
-  e.appendChild(document.createTextNode('Заметки, статьи, цитаты на самые разные темы.'));
-  
   loadScript({url: '/posts/index.js'}, function(p){
     var subjects = SUBJ,
         titles = TITLES;
@@ -74,7 +56,7 @@
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
     for(var p in urlParams()){
-      if (urlParams()[p] == '') titles = titles.filter(function(tit){ return (tit[ parseInt(p.substr(0,1)) ] === p); });
+      if (urlParams()[p] == '') titles = titles.filter(function(tit){ return (tit[ parseInt(p.substr(0,1)) ] == p); });
         // +about page
       if(titles.length && parseInt(p[0]) == 0) titles = [[titles[0][0], titles[0][0], 'about','']].concat(titles);
     }
@@ -82,11 +64,11 @@
     for(var i=0; i<page_titles.length; i++){
       var subj = subjects[ parseInt(page_titles[i][0].substr(1)) ][0], // skip lead 0 subj
           title = page_titles[i][2];
-      var wrap = document.createElement('div');
-      wrap.id = 'post' + i;
-      if (i==0) addAjaxLoader(wrap);
-      document.getElementById('page_content').appendChild(wrap);
-      upfunc({id: wrap.id, subj: subj, title: page_titles[i], url: subj + '/' + title + '.txt'}, function(r, p){
+      document.getElementById('page_content').innerHTML += 
+    '<div id="post'+i+'">'+
+      (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'post'+ i, subj: subj, title: page_titles[i], url: subj + '/' + title + '.txt'}, function(r, p){
         if(r.search('Error 404') == -1 && r.search('File not found') == -1) { // skip Not Found pages 
           var wrap = document.getElementById(p.id);
           wrap.className = 'wrap';
@@ -95,21 +77,29 @@
           if(p.id == 'post0'){
             var meta = document.head.getElementsByTagName('meta');
             for(var j in meta){
-              if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, "");
+              if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, '');
             }
           }
         }
       });
     }
     if (page_titles.length){
-      var e = document.createElement('p');
-      document.getElementById('page_content').appendChild(e);
-      e.className = 'mtext hspace';
-      e.innerHTML = '<a href="/posts/subj.html">Все темы</a>';
-      document.getElementById('page_footer').appendChild(addPaginator(titles, per_page, page_num));
+      document.getElementById('page_content').innerHTML += 
+    '<p class="mtext hspace">'+
+      '<a href="/posts/subj.html">Все темы</a>'+
+    '</p>';
+      document.getElementById('page_footer').innerHTML = addPaginator(titles, per_page, page_num);
+    } else {
+      document.getElementById('page_content').innerHTML += 
+    '<p class="mtext hspace">'+
+      'Нет данных.'+
+    '</p>'+
+    '<img src="/static/img/confuse.png" width="120px">';
     }
   });
 
 </script>
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-25857345-4'></script>
+<script src='/static/js/metrics.js'></script>
 </body>
 </html>
