@@ -33,6 +33,15 @@
   '</tr></table>'+
 '</div>';
 
+  function addFoto(p){
+    var dwimg = dw.root.getElementById('img');
+    if(dwimg) dw.vp.removeChild(dwimg);
+    dw.append('image', p).setAttributeNS('http://www.w3.org/1999/xlink', 'href', p.href);
+  }
+  function addLoader(){
+    addFoto({ id:'img', href: '/static/img/loader.gif', width:24, height:24, x: dw.centerOf()[0], y: dw.centerOf(0)[1] });
+  }
+
   var childs=[];
   var dw = new dbCartaSvg({
     id:'mcol',
@@ -40,17 +49,14 @@
     sbarpos: 'left',
     height: document.getElementById('mlist').offsetHeight
   });
-    // img
-  var img = new Image(),
-      dwimg = dw.append('image', { href: '/static/img/loader.gif', x: dw.centerOf()[0], y: dw.centerOf(0)[1] });
+  var img = new Image();
   img.onload = function() {
     var ratio = this.width/this.height,
         vs = dw.viewsizeOf();  // map sizes degrees
     var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
         pts = [dw.toPoints(crds[1]), dw.toPoints(crds[0])];
-    dw.vp.removeChild(dwimg);
-    dwimg = dw.append('image', {
-      href: this.src, width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1],
+    addFoto({
+      id:'img', href: this.src, width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1],
       x: pts[1][0], y: pts[1][1], preserveAspectRatio:'none', cursor:'pointer'
     });
   };
@@ -75,8 +81,7 @@
         im.src = urls[i][1].replace('.jpg', '.th.jpg');
         im.title = urls[i][2];
         im.onclick = function(){
-          dw.vp.removeChild(dwimg);
-          dwimg = dw.append('image', { href: '/static/img/loader.gif', x: dw.centerOf()[0], y: dw.centerOf(0)[1] });
+          addLoader();
           img.src = this.src.replace('.th.jpg', '.jpg'); 
           img.title = this.title;
         };
