@@ -16,7 +16,7 @@ function upfunc(p, clfunc, id){
   xhr.onreadystatechange = function() { 
     if (xhr.readyState == 4) {
       if (id) document.getElementById(id).innerHTML = xhr.responseText;
-      if (clfunc) clfunc(xhr.responseText, p);
+      if (clfunc) clfunc(xhr.status == 404 ? '' : xhr.responseText, p, xhr.status);
     }
   };
   xhr.open("GET", p.url, true);

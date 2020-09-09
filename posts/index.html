@@ -72,8 +72,10 @@
     '<div id="post'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'post'+ i, subj: subj, title: page_titles[i], url: subj + '/' + title + '.txt'}, function(r, p){
-        if(r.search('Error 404') == -1 && r.search('File not found') == -1) { // skip Not Found pages 
+      upfunc({id: 'post'+ i, subj: subj, title: page_titles[i], url: subj + '/' + title + '.txt'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
           wrap.className = 'wrap';
           wrap.innerHTML = addPost(r, p);

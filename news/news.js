@@ -39,7 +39,7 @@ function addNews(){
     '<div id="msg'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'msg'+ i, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r, p){
+      upfunc({id: 'msg'+ i, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         wrap.innerHTML = addMsg(r, p);
@@ -47,7 +47,7 @@ function addNews(){
         if(p.id == 'msg0'){
           var meta = document.head.getElementsByTagName('meta');
           for(var j in meta){
-            if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, "");
+            if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, '');
           }
         }
       });
