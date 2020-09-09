@@ -15,9 +15,8 @@
 .about { display: table; }
 .about * { display: table-cell; vertical-align: middle; }
 .about img { max-height: 160px; }
-.msgcont { line-height: 1.5em; width: 100; }
-.msgcont b { font-weight: 500; color: #5645ad; }
-.msgcell { display: table-cell; vertical-align: top; width: 50%; }
+.msgcell { display: table-cell; vertical-align: top; line-height: 1.3em; width: 50%; }
+.msgcell b { font-weight: 500; color: #5645ad; }
 img.av { height: 50px; }
 ul.hr li { padding: 0 20px; }
 </style>
@@ -29,11 +28,12 @@ ul.hr li { padding: 0 20px; }
 <script type='text/javascript'>
 
   document.body.innerHTML = addTemplate( 'songs' );
+  document.getElementById('page_header').innerHTML =
+'<p class="mtext hspace">В базе около <b>26000</b> текстов песен с аккордами и просто стихов.</p>'+
+'<img class="hspace1" src="/static/img/loader.gif">';
 
   var page_header = 
-'<p class="mtext hspace">'+
-  'В базе около <b>26000</b> текстов песен с аккордами и просто стихов.'+
-'</p>'+
+'<p class="mtext hspace">В базе около <b>26000</b> текстов песен с аккордами и просто стихов.</p>'+
 '<ul class="mtext hr hspace2">'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=65">Таблица аккордов</a>'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=110">Транспонирование аккордов</a>'+
@@ -92,9 +92,10 @@ ul.hr li { padding: 0 20px; }
       .replace(/<([^!>]*)>/g, ' *#*$1*##* ')
       .replace(/\*#\*/g,'<b>').replace(/\*##\*/g,'</b>')
       .replace(/\*_\*/g, '<i>').replace(/\*__\*/g, '</i>')
+      .replace(/^[\r\n]+|[\r\n]+$/g, '')
       .replace(/\t/g, ' ').replace(/ /g, '&nbsp;').replace(/\n/g,'<br>');
     var tmpl = 
-'<div class="msgtext msgcont">'+
+'<div class="msgtext">'+
   '<div class="msgcell" id="songcont">'+text+'</div>'+
   '<div class="msgcell yellow" id="chordcont"></div>'+
 '</div>'+
