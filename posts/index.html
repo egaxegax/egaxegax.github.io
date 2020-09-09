@@ -19,7 +19,7 @@
 <script type='text/javascript'>
 
   document.body.innerHTML = addTemplate( 'posts' );
-  document.getElementById('page_content').innerHTML = 
+  document.getElementById('page_header').innerHTML = 
 '<p class="mtext hspace">'+
   'Заметки, статьи, цитаты на самые разные темы.'+
 '</p>';
@@ -35,14 +35,14 @@
     var tmpl = 
 '<div class="msgtext">'+
   (p.title[2] !== 'about' ? 
-'<h3><a class="nodecor" href="?'+ p.title[1] +'">'+p.title[2]+'</a></h3>'
+'<h3><a class="nodecor" href="?t='+ p.title[1] +'">'+p.title[2]+'</a></h3>'
   : '')+
   html+
 '</div>'+
   (p.title[2] !== 'about' ? 
 '<div class="msgfooter">'+
-  '<a class="nodecor" href="?'+p.title[0]+'">'+p.subj+'</a>'+
-  '<div class="gray smaller"> '+p.title[3]+'</div>'+
+  '<a class="nodecor" href="?s='+p.title[0]+'">'+p.subj+'</a>'+
+  '<div class="gray smaller"> '+buildDate(p.title[3])+'</div>'+
 '</div>' 
   : '');
     return tmpl;
@@ -51,18 +51,22 @@
   loadScript({url: '/posts/index.js'}, function(p){
     var subjects = SUBJ,
         titles = TITLES;
+    for(var p in urlParams()){
+      if (p == 's') {
+        titles = titles.filter(function(tit){ return (tit[0] == urlParams()[p]); });
+        titles = [[titles[0][0],titles[0][1],'about','']].concat(titles); // +about page
+      };
+      if (p == 't') {
+        titles = titles.filter(function(tit){ return (tit[1] == urlParams()[p]); });
+      }
+    }
     var per_page = 10,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
-    for(var p in urlParams()){
-      if (urlParams()[p] == '') titles = titles.filter(function(tit){ return (tit[ parseInt(p.substr(0,1)) ] == p); });
-        // +about page
-      if(titles.length && parseInt(p[0]) == 0) titles = [[titles[0][0], titles[0][0], 'about','']].concat(titles);
-    }
     var page_titles = titles.slice(page_bottom, page_top);
     for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ parseInt(page_titles[i][0].substr(1)) ][0], // skip lead 0 subj
+      var subj = subjects[ page_titles[i][0] ][0],
           title = page_titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+i+'">'+

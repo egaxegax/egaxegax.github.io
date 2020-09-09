@@ -33,8 +33,8 @@ for root, dirs, files in os.walk(path, topdown=False):
       cwd = os.path.basename(os.getcwd())
 
       if cwd == 'news':
-        ftime = time.mktime(time.strptime(name[:-4], '%Y_%m_%d_%H_%M_%S'))
-      elif cwd == 'posts':
+        ftime = time.mktime(time.strptime(name[:-4], '%y_%m_%d_%H_%M_%S'))
+      elif cwd in ('posts', 'songs'):
         f = open(os.path.join(root, name))
         for line in f:
           if fname != 'about':
@@ -44,7 +44,7 @@ for root, dirs, files in os.walk(path, topdown=False):
       else:
         ftime = os.path.getmtime(os.path.join(root, name))
 
-      mfiles.append([ subj, title, time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime)) ]) 
+      mfiles.append([ subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
 
 mfiles.sort(key=lambda f: f[2], reverse=True)
 msubj = []
@@ -62,7 +62,7 @@ for i, f in enumerate(mfiles):
   if isubj == -1:
     msubj += [[f[0], 1, f[2]]]
     isubj = len(msubj) - 1
-  mtitles += [['0' + str(isubj), '1' + str(len(mfiles) - len(mtitles)), f[1], f[2]]]
+  mtitles += [[isubj, len(mfiles) - len(mtitles), f[1], f[2]]]
   print( i )
 
 open('index.js', 'w').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')

@@ -23,13 +23,13 @@
   function addSubj(subj, i){
     var tmpl = 
   '<div class="msgtext">'+
-    '<a class="nodecor" href="/posts/?0'+i+'" width="300px">'+
+    '<a class="nodecor" href="/posts/?s='+i+'">'+
       '<span style="display: inline-block; width: 420px">'+subj[0]+'</span>'+
     '</a>'+
     '<b>'+subj[1]+'</b>'+
   '</div>'+
   '<div class="hspace2">'+
-    '<div class="gray smaller">'+subj[2]+'</div>'
+    '<div class="gray smaller">'+buildDate(subj[2])+'</div>'
   '</div>';
     return tmpl;
   }
