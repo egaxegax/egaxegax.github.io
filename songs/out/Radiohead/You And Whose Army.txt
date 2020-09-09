@@ -1,0 +1,47 @@
+<!--2020-09-05 09:03:33-->
+		You And Whose Army
+
+!		notes:
+!		all these chords should be played as bar shapes, except <E> which is open.
+!		most of the picking is straightforward enough if you give the song a listen.
+!		the only dodgy shapes are:
+!		<C#m/B> - [7x665x]
+!		<C#m/Bb> - [6x6654]
+!		the <C#> at the end is not quite major or minor; try [x466xx]
+
+>		D#m     G#   C#m      F#
+		come  on,    come   on
+>		Bm    E           A           C#m
+		you   think  you  drive   me  crazy
+>		D#m     G#   C#m      F#
+		come  on,    come   on
+>		Bm     E         A   C#m
+		you  and   whose  army?
+>		E     A          C#m
+		you   and  your  cronies
+>		D#m     G#   C#m      F#
+		come  on,    come   on
+>		Bm      E      A    C#m
+		holy  roman  empire
+>		D#m    G#
+		come  on if you think
+>		C#m    F#
+		come  on if you think
+>		Bm      E      A   C#m
+		you can take us all on
+!		<E       A          C#m   F#m  G#>(add <sus4> when picking)  <F#m  G#>
+		you can take us all on
+!		<C#m   C#m/B        C#m/Bb  F#m  G#>(ditto)  <F#m  G#>
+		you  and    whose  army?
+!		<C#m   C#m/B        C#m/Bb  F#m  G#>(and again)  <F#m  G#>
+		you  and    your   cronies
+>		C#m  E                  F#      C#m
+		you  think   you're so  easy_____
+>		C#  E          F#    C#
+		we  want  to  know_____ } x2
+>		C#     E  F#   C#
+		you're so sad____ } x2
+>		C#  E          F#    C#
+		we  want  to  know_____ } x2
+>		C#     E  F#   C#
+		you're so sad____ } x3 - and finish.

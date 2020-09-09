@@ -1,0 +1,109 @@
+<!--2020-09-05 15:47:21-->
+		Street Spirit
+
+>		Am
+		Rows of houses, all bearing down on me
+>		Am
+		I can feel their blue hands touching me
+>		Em
+		All these things into position
+>		Em
+		All these things we'll one day swallow whole
+>		C        Em  Am         C   Em
+		And fade out again and fade out
+>		Am
+		This machine will, will not communicate
+>		Am
+		These thoughts and the strain I am under
+>		Em
+		Be a world child, form a circle
+>		Em
+		Before we all go under
+>		   C    Em  Am        C    Em  Am
+		And fade out again and fade out again
+		Cracked eggs, dead birds
+		Scream as they fight for life
+		I can feel death, can see its beady eyes
+		All these things into position
+		All these things we'll one day swallow whole
+		And fade out again and fade out again
+		Immerse your soul in love
+		IMMERSE YOUR SOUL IN LOVE
+
+-
+
+!		There are four picking patterns used throughout the song. One for each of
+!		the <Am>, <Em> and <C> chords used, with a change of pattern on the <Am> in the
+!		second and subsequent verses (although the original pattern is still used
+!		for the choruses and outro). Its hard to tell what the fingerpicked
+!		guitar does when the chords change in the outro, as there is another
+!		guitar over the top, playing some similar ideas up an octave (I might get
+!		round to transcribing these one day!)
+
+!		Here is the chord structure for the song:
+!		Note that the complete picking pattern takes up two bars.
+
+!		INTRO
+>		Am---:Am---:Am---:Am---:
+!		VERSE
+>		Am---:Am---:Am---:Am---:
+>		Am---:Am---:Am---:Am---:
+>		Em---:Em---:Em---:Em---:
+>		Am---:Am---:Am---:Am---:
+!		CHORUS
+>		C---:C---:Em---:Em---:
+>		Am---:Am---:Am---:Am---:
+>		C---:C---:Em---:Em---:
+!		VERSE (Am picking pattern changes)
+!		CHORUS (Double length of first chorus)
+!		VERSE
+!		CHORUS (Double length)
+!		OUTRO (From "Immerse your soul....")
+>		G---:G---:E---:E---:
+>		Am---:Am---:Am---:Am---:
+>		G---:G---:Em---:Em---:
+>		Am---:Am---:
+
+!		<Am> picking pattern (First verse/chorus)
+
+		[------0----------0-----------0-------------------------------
+		-----------3-----------1-----------0-------------------------
+		--------2-----2-----2-----2-----2--------2-------------------
+		---2----------------------------------2-----2----------------
+		-0-----------------------------------------------------------
+		-------------------------------------------------------------]
+
+!		<Am> picking pattern (Second & Third verses)
+
+>		  Am      Asus2                 Am
+		[-------------------------------------------------------------------
+		------1---0----------------0------1--------------------------------
+		--------------2----------------------------------------------------
+		----2---2---2---2--2---2------2------2-----------------------------
+		--0----------------------------------------------------------------
+		-------------------------------------------------------------------]
+
+!		<Em> and <C> picking patterns as first verse <Am>, butthe appropriate chord
+!		shapes formed (Standard <Em> and <C>) using the same descending notes on the
+!		B string.
+!		Watch out for cramps playing this one, as you have to hold
+!		thatopen <Am> shape for a hell of a long time. Its best played on an
+!		electroacoustic, with just a hint of reverb.
+
+>		Am
+		Rows of houses, all bearing down on me
+		I can feel their blue hands touching me
+>		Em
+		All these things into position,
+		All these things we'll one day swallow whole
+!		<Am> (4 bars)
+>		    C    Em  Am
+		And fade out again
+>		    C    E*m  Am
+		And fade out again
+>		    C   Em     Am
+		Ohhhhhh Ohhhhh Ohhhhh
+>		    C   Em
+		Ohhhhhh Ohhhhh
+!		*First chorus ends here.
+!		Third chorus as above, but with a double length "Ohhhhh" section.

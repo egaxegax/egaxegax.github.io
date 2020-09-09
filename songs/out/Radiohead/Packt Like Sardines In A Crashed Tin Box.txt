@@ -1,0 +1,23 @@
+<!--2020-09-06 05:31:27-->
+		Packt Like Sardines In A Crashed Tin Box
+
+!		This song consists of two main progressions played on a Rhodes piano.
+!		I've given the actual notes played on the piano, and also provided an
+!		arrangement for the guitar. To play along with the record, the low E must be
+!		tuned down to a C ([CADGBE]).
+>		 C D	 C	 C	B	B   A F	G  C   D
+		[-----------|-----------|-----------|-----------|
+		-----------|-----------|-----------|-----------|
+		-----------|-----------|-----------|-----------|
+		-----------|-----------|-----------|-----------|
+		-3h5---3---|-3----2----|2---0------|-----------|
+		-----------|-----------|------5----|-7-0---2---|]
+!		 37 seconds in: first progression heard
+>		 C D   C	 C	B	 D F  G	 A C	G D
+		[-----------|-----------|-----------|-----------|
+		-----------|-----------|-----------|-----------|
+		-----------|-----------|-----------|-----------|
+		-----------|-----------|-----------|-----------|
+		-3h5---3---|-3----2----|-5---------|-0-3----5--|
+		-----------|-----------|---5--7----|------7----|]
+!		"After years of waiting..."

@@ -1,0 +1,208 @@
+<!--2020-09-06 02:46:54-->
+		There There
+
+!		-==Intro==-
+!		intro is some riff playing variations of <E7sus4>([020200])
+!		then goes into the verse
+		[e--------------------0-2-----
+		B-----------0-------------0---
+		G-------2-------2---2--------
+		D---0------------------------
+		A-2---2---2-------2-----2----
+		E----------------------------
+
+		e--------------------2p0-----0-2----2---------2p0-0-2---...
+		B-----------0------------0--------0----0----------------...  and so on, he plays one more little one then goes into the verse.....
+		G-------2-------2--2-------2-------------2---2----------...
+		D---0---------------------------------------------------...
+		A-2---2---2-------2-------------2----2-----2------------...
+		E-------------------------------------------------------...]
+
+!		-==Verse==-
+!		<E7sus4>([020200])([EADGBe])
+		in pitch dark
+!		              <G>([320030]) <F#>([200030]) <Em>([022000]) <G F# Em>
+		i go walking on your landscape
+>		E7sus4
+		Broken Branches
+!		         <G>([320030]) <F#>([200030]) <Em>([022000]) <G F# Em>
+		trip me as i sleep
+
+!		-==Chorus==-
+!		<A>([002220])      <F#minor> ([244222])
+		just 'cause you feel it
+!		           <G>([320030]) <F#>([200030]) <Em>([022000]) <G F# Em>
+		doesn't mean it's there
+>		A              F#minor
+		just 'cause you feel it
+!		           <G>([320030]) <F#>([200030]) <Em>([022000]) <G F# Em>
+		doesn't mean it's there
+
+!		-==Verse==-
+		theres always a siren
+		singing you to shipwreak (dont reach out)(dont reach out)
+		stay away from these rocks
+		would be a walking disaster (dont reach out)(dont reach out)
+
+!		-==Chorus==-
+		just 'cause you feel it
+		doesn't mean it's there (theres someone on your shoulder)
+		just 'cause you feel it
+		doesn't mean it's there (theres someone on your shoulder)
+		there there!
+
+!		-==2nd Part==-
+!		Thom plays:
+>		Bm Dm Am Em
+!		while jonny does this riff throughout the rest of the song.
+!		I didnt note down the improvisation parts that he does,
+!		just the basic riff down.
+!		if you listen to his solo you can kind of make out several
+!		little improvisations that he pulls. they arnt that difficult.
+!		Note: where ever there is () that means you can play either
+!		note and it will be the same, depends on which is easier for you.
+!		jonny riff
+>		 (Bm)
+		[e-------7---------7---------7---------7---
+		B-----------------------------------------
+		G-----7---7-----7---7-----7---7-----7---7-
+		D-----------------------------------------
+		A-----------------------------------------
+		E-0h7-------0h7-------0h7-------0h7-------
+>		 (Dm)            (Am)
+		e-----7-------7-(0)----7--------7---------
+		B-------6-------(5)----------------0-------
+		G--------------------5---5----5-----------
+		D---7-------7------7--------7-------------
+		A-5-------5-------------------------------
+		E-----------------------------------------
+>		 (Em)
+		e------7---------7---------7--------------
+		B----0---0-----0---0-----0---0------------
+		G-----------------------------------------
+		D-----------------------------------------
+		A-7--------7----------7---------7---------
+		E-----------------------------------------]
+!		Note: use these fingerings for Jonny's riff (watching
+!		the video i believe i saw thom playing all the chords
+!		using these fingerings
+!		but instead of the last fingering he just plays E minor).
+!		also, in the bridge school benefit concert thom seemed
+!		to have used these
+!		fingerings judging on how the sound came out.
+>		(Bm) [700707]
+>		(Dm) [057067]
+>		(Am) [007507]
+>		(Em) [070007]
+!		(<Bm>)  4 beats
+		why so green? and
+!		(<Dm>)  2 beats
+		lonely
+!		(<Am>)  2 beats
+		lonely
+!		(<Em>)  3 beats
+		lonely
+		(<Bm>)
+		heaven sent you
+		(<Dm>)
+		to me
+		(<Am>)
+		to me
+		(<Em>)
+		to me
+		(<Bm>)
+		we are accidents
+		(<Dm>)
+		waiting
+		(<Am>)
+		waiting
+		(<Em>)
+		to happen
+		we are accidents
+		waiting
+		waiting
+		to happen.
+
+!		-==Outro==-
+!		the same as intro but with no guitar, just the beat and bass.
+!		some guitar slashes though. you can play the intro part and
+!		it will sound ok.
+
+-
+
+!		Chords used in song:
+>		Bm
+>		Dm
+>		Am
+>		Em
+!		Rhythm Guitar plays:
+!		(<Bm>) 4 beats, (<Dm>) 2 beats, (<Am>) 2 beats, (<Em>) 3 beats
+!		Lead Guitar:
+>		   Bm
+		[e|-----7--------7--------7--------7---
+		B|------------------------------------
+		G|---7---7----7---7----7---7----7---7-
+		D|------------------------------------
+		A|------------------------------------
+		E|-7--------7--------7--------7-------
+
+>		   Dm		                Am
+		e|-----7-------7--------7--------7---------
+		B|-------6--------5-----------------0------
+		G|--------------------5---5----5-----------
+		D|---7-------7------7--------7-------------
+		A|-5-------5-------------------------------
+		E|-----------------------------------------
+>		   Em
+		e|------7---------7---------7--------------
+		B|----0---0-----0---0-----0---0------------
+		G|-----------------------------------------
+		D|-----------------------------------------
+		A|-7--------7----------7---------7---------
+		E|-----------------------------------------]
+!		Solo:
+		[e|--------------------------------------------
+		B|--------------------------------------------
+		G|--------------------------------------------
+		D|-4-4-4-4-6h7-7--4-4-4-4-5p6--4-4-4-4-4-4-4--
+		A|--------------------------------------------
+		E|--------------------------------------------
+
+		e|-------------------------------
+		B|-------------------------------
+		G|-------------------------------
+		D|-7-7-7-7-7-7-5--5-5-7-7-5-2-0--
+		A|-------------------------------
+		E|-------------------------------]
+>		      Bm
+		why so green? and
+>		  Dm
+		lonely
+>		  Am
+		lonely
+>		  Em
+		lonely
+>		      Bm
+		heaven sent you
+>		 Dm
+		to me
+>		 Am
+		to me
+>		 Em
+		to me
+>		      Bm
+		we are accidents
+>		  Dm
+		waiting
+>		  Am
+		waiting
+>		  Em
+		to happen
+>		  Bm
+		we are accidents
+>		  Dm
+		waiting
+>		  Am
+		waiting
+>		  Em
+		to happen
