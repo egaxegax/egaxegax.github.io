@@ -12,7 +12,7 @@ function addMsg(r, p){
   var tmpl = 
 '<div class="msgtext">'+html+'</div>'+
 '<div class="msgfooter">'+
-  '<div class="gray smaller">'+' '+p.title[3]+'</div>'+
+  '<div class="gray smaller">'+' '+buildDate(p.title[3])+'</div>'+
 '</div>';
   return tmpl;
 }
@@ -27,7 +27,7 @@ function addNews(){
   loadScript({url: '/news/index.js'}, function(p){
     var subjects = SUBJ,
         titles = TITLES;
-    var per_page = 5,
+    var per_page = 7,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
