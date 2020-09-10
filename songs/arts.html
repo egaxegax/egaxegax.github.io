@@ -55,7 +55,7 @@ img.av { width: 50px; }
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page_arts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="art'+i+'" class="wrap">'+addArt(page_arts[i], SUBJ.indexOf(page_arts[i]), page_bottom+i)+'</div>'
+    '<div id="art'+i+'" class="wrap">'+addArt(page_arts[i], SUBJ.indexOf(page_arts[i]), page_bottom+i+1)+'</div>'
     }
     if (page_arts.length){
       document.getElementById('page_content').innerHTML +=
