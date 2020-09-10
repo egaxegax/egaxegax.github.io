@@ -24,12 +24,12 @@ img.av { width: 50px; }
 '<p class="mtext hspace">Список авторов в алфавитном порядке</p>'+
 '<img class="hspace1" src="/static/img/loader.gif">';
 
-  function addArt(art, i){
+  function addArt(art, iart, i){
     var tmpl = 
   '<dl class="msgtext tabl">'+
     '<dt class="lfloat minw">'+
       '<span id="im'+i+'"></span>&nbsp;'+
-      '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+i+'">'+art[0]+'</a>'+
+      '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+iart+'">'+art[0]+'</a>'+
     '</dt>'+
     '<dt class="lfloat"><b>'+art[1]+'</b></dt>'+
     '<dt class="rfloat counter lightgray">'+i+'</dt>'+
@@ -55,7 +55,7 @@ img.av { width: 50px; }
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page_arts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="art'+i+'" class="wrap">'+addArt(page_arts[i], SUBJ.indexOf(page_arts[i]))+'</div>'
+    '<div id="art'+i+'" class="wrap">'+addArt(page_arts[i], SUBJ.indexOf(page_arts[i]), page_bottom+i)+'</div>'
     }
     if (page_arts.length){
       document.getElementById('page_content').innerHTML +=

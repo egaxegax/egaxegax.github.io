@@ -149,7 +149,7 @@ ul.hr li { padding: 0 20px; }
     '<div id="song'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'song'+ i, i:i, subj: subj, title: page_titles[i], url: 'out/' + subj + '/' + title + '.txt'}, function(r,p,st){
+      upfunc({id: 'song'+ i, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/' + subj + '/' + title + '.txt'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
