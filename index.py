@@ -4,7 +4,7 @@
 #
 # list_files.py <path_to_files>
 
-import sys, os, time, json
+import sys, os, time, json, re
 
 def E_OS(text):
   if os.name == 'nt':
@@ -36,13 +36,12 @@ for root, dirs, files in os.walk(path, topdown=False):
         ftime = time.mktime(time.strptime(name[:-4], '%y_%m_%d_%H_%M_%S'))
       elif cwd in ('posts', 'songs'):
         f = open(os.path.join(root, name))
+        ftime = os.path.getmtime(os.path.join(root, name))
         for line in f:
           if fname != 'about':
             print( fname )
             ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
           break
-      else:
-        ftime = os.path.getmtime(os.path.join(root, name))
 
       mfiles.append([ subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
 
@@ -65,8 +64,13 @@ for i, f in enumerate(mfiles):
   mtitles += [[isubj, len(mfiles) - len(mtitles), f[1], f[2]]]
   print( i )
 
-open('index.js', 'w').write('SUBJ=' + json.dumps(msubj, indent=1, ensure_ascii=0) + ';\n')
-open('index.js', 'a').write('TITLES=' + json.dumps(mtitles, indent=1, ensure_ascii=0) + ';')
+def compact(s):
+  s = re.sub(r'([\[,\]]+)\s*\n','\g<1>',s)
+  s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]')
+  return s
+
+open('index.js', 'wb').write('SUBJ=' + compact(json.dumps(msubj, indent=0, ensure_ascii=0)) + ';\n')
+open('index.js', 'ab').write('TITLES=' + compact(json.dumps(mtitles, indent=0, ensure_ascii=0)) + ';')
 time.sleep(1)
 
 try:
