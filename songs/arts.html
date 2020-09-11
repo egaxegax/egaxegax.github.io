@@ -12,6 +12,7 @@
 <link rel='stylesheet' href='/static/css/main.css'>
 <style>
 img.av { width: 50px; }
+.vmiddle * { vertical-align: middle; }
 </style>
 <script src='/static/js/updater.js'></script>
 <script src='/static/js/main.js'></script>
@@ -26,13 +27,15 @@ img.av { width: 50px; }
 
   function addArt(art, iart, i){
     var tmpl = 
-  '<dl class="msgtext tabl">'+
-    '<dt class="lfloat minw">'+
-      '<span id="im'+i+'"></span>&nbsp;'+
-      '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+iart+'">'+art[0]+'</a>'+
-    '</dt>'+
-    '<dt class="lfloat"><b>'+art[1]+'</b></dt>'+
-    '<dt class="rfloat counter lightgray">'+i+'</dt>'+
+  '<table class="msgtext" width="99%"><tr>'+
+    '<td width="60%">'+
+      '<div class="vmiddle">'+
+        '<span id="im'+i+'"></span>&nbsp;'+
+        '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+iart+'">'+art[0]+'</a>'+
+      '<div>'+
+    '</td>'+
+    '<td valign="center" align="left"><b>'+art[1]+'</b></td>'+
+    '<td valign="center" align="right" class="lightgray">'+i+'</td>'+
   '</dl>';
     var img = new Image();
     img.className = "rounded av";

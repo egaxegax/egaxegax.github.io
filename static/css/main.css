@@ -51,9 +51,6 @@ a.nodecor img { border: 0px none; padding: 0px; }
 .smaller { font-size: smaller; }
 .bigger { font-size: 150%; }
 .bigger2 { font-size: 200%; }
-.counter { display: inline-block; width: 40px; }
-.tabl { display: table; width: 95%; }
-.row { display: table-row; }
 .minw { min-width: 420px; }
 /* body */
 body { margin:0; font-family: tahoma,verdana,arial; font-weight:400; font-size: 16px; background-color: #fff; color: #222; }
