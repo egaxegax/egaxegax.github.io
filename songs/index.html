@@ -10,18 +10,19 @@
 <title>Аккорды / Сайт Григория Еремина</title>
 <link rel='shortcut icon' href='/favicon.ico'>
 <link rel='stylesheet' href='/static/css/main.css'>
-<link rel='stylesheet' href='/static/css/markdown.css'>
 <style>
 .about { display: table; }
 .about * { display: table-cell; vertical-align: middle; }
 .about img { max-height: 160px; }
-.msgcell { display: table-cell; vertical-align: top; line-height: 1.3em; width: 50%; }
-.msgcell b { font-weight: 500; color: #5645ad; }
-img.av { height: 50px; }
+.chords { line-height: 1.3em; }
+.chords b { font-weight: 500; color: #5645ad; }
+img.av { width: 70px; }
 ul.hr li { padding: 0 20px; }
 </style>
 <script src='/static/js/updater.js'></script>
-<script src='/static/js/3rdparty/showdown.min.js'></script>
+<script src="/static/js/3rdparty/jquery.min.js"></script>
+<script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
+<script src="/static/js/3rdparty/jtab.js?v1.1.10"></script>
 <script src='/static/js/main.js'></script>
 </head>
 <body>
@@ -44,17 +45,15 @@ ul.hr li { padding: 0 20px; }
 
   function addLast(r, p){
     var tmpl = 
-'<div class="msgtext tabl">'+
-  '<dt class="lfloat minw">'+
-    '<span id="im'+p.id+'"></span>'+
-    '<a class="nodecor pink" href="/songs/?'+tr(p.subj)+'/'+p.title[0]+'"> '+p.subj+' </a>'+
-    '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
-  '</dt>'+
-  '<dt class="rfloat counter lightgray">'+(p.i+1)+'</dt>'+
-  '<dd class="row">'+
-    '<span class="hspace2 gray smaller">'+buildDate(p.title[3])+'</span>'+
-  '</dd>'+
-'</div>';
+  '<table class="msgtext" width="99%"><tr>'+
+    '<td id="im'+p.id+'"></td>'+
+    '<td width="90%">'+
+      '<a class="nodecor pink" href="/songs/?'+tr(p.subj)+'/'+p.title[0]+'"> '+p.subj+' </a>'+
+      '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
+      '<div class="hspace gray smaller">'+buildDate(p.title[3])+'</div>'+
+    '</td>'+
+    '<td valign="center" align="right" class="lightgray">'+(p.i+1)+'</td></tr>'+
+  '</table>';
     var img = new Image();
     img.className = "rounded av";
     img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
@@ -63,22 +62,22 @@ ul.hr li { padding: 0 20px; }
   }
   function addList(r, p){
     var tmpl = 
-'<div class="msgtext tabl">'+
-  '<dt class="lfloat minw">'+
-    '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
-  '</dt>'+
-  '<dt class="rfloat counter lightgray">'+p.i+'</dt>'+
-'</div>';
+  '<table class="msgtext"><tr>'+
+    '<td width="99%">'+
+      '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
+    '</td>'+
+    '<td align="right" class="lightgray">'+p.i+'</td></tr>'+
+  '</table>';
     return tmpl;
   }
   function addAbout(r, p){
     var text = r
       .replace(/\*/g,'');
     var tmpl = 
-'<div class="msgtext about">'+
-  '<span id="im'+p.id+'"></span>'+
-  '<p>'+text+'</p>'+
-'</div>';
+  '<dl class="msgtext about">'+
+    '<span id="im'+p.id+'"></span>'+
+    '<p>'+text+'</p>'+
+  '</dl>';
     var img = new Image();
     img.className = "rounded hmarg";
     img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
@@ -95,12 +94,45 @@ ul.hr li { padding: 0 20px; }
       .replace(/^[\r\n]+|[\r\n]+$/g, '')
       .replace(/\t/g, ' ').replace(/ /g, '&nbsp;').replace(/\n/g,'<br>');
     var tmpl = 
-'<div class="msgtext">'+
-  '<div class="msgcell" id="songcont">'+text+'</div>'+
-  '<div class="msgcell yellow" id="chordcont"></div>'+
-'</div>'+
-'<div class="msgfooter gray smaller">'+buildDate(p.title[3])+'</div>';
+  '<table class="msgtext chords" width="100%"><tr>'+
+    '<td id="songcont" width="80%">'+text+'</td>'+
+    '<td id="chordcont" class="yellow" valign="top"></td></tr>'+
+  '</table>'+
+  '<div class="msgfooter gray smaller">'+buildDate(p.title[3])+'</div>';
     return tmpl;    
+  }
+  // add icons chods by jtab.js & rafael.js
+  function addSongChords() {
+    var songText = document.getElementById('songcont');
+    var chordCont = document.getElementById('chordcont');
+    if (!songText || !chordCont) return;
+    // parse chords
+    var songChords = songText.innerHTML.match(/(\s|\()*([A-GH])([0-9a-z#:]{0,})(\s|\))*/gm);
+
+    if(!songChords) return;
+
+    songChords = songChords.reduce(function(items, chord) {
+      chord = chord.replace(/(\s|\(|\))/,'');
+      var parts = chord.split(":"),
+          fp = parts[0],
+          p1 = fp.replace(/^[A-GH#b]{1,2}/,''),
+          p2 = fp.substr(0, fp.length - p1.length),
+          bn = jtab.WesternScale.BaseNotes[p2];
+      if (bn)
+        fp = bn[0] + p1;
+
+      if (items.indexOf(chord) < 0 && jtab.Chords[fp] != undefined) 
+        items.push(chord);
+      return items;
+    }, []);
+
+    for (var k=0; k<songChords.length; k++) {
+      var chord = songChords[k];
+      var el = document.createElement('div');
+      el.appendChild(document.createTextNode(chord));
+      chordCont.appendChild(el);
+      jtab.render(el);
+    }
   }
 
   loadScript({url: '/songs/index.js'}, function(p){
@@ -159,6 +191,7 @@ ul.hr li { padding: 0 20px; }
             (tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]) in urlParams() ? addSong(r,p) :
             (tr(p.subj)+'/'+p.title[0]) in urlParams() ? addList(r,p) : addLast(r,p)
           );
+          addSongChords();
             // add description meta
           if(p.id == 'song0'){
             var meta = document.head.getElementsByTagName('meta');
