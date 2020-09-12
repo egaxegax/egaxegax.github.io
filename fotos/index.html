@@ -18,11 +18,12 @@
 <script type='text/javascript'>
 
   document.body.innerHTML = addTemplate( 'fotos' );
+  document.getElementById('page_header').innerHTML = 
+'<table width="99%" class="mtext" style="padding:8px 10px"><tr>'+
+  '<td id="foto_header">Подборка фото, снятых на телефон, о природе, местах, людях.</td>'+
+  '<td align="right"><select id="albumlist"></select></td>'+
+'</tr></table>';
   document.getElementById('page_content').innerHTML = 
-'<div class="mtext hspace" style="padding:10px 13px">'+
-  'Подборка фото, снятых на телефон, о природе, местах, людях. &nbsp;&nbsp;'+
-  '<select id="albumlist"></select>'+
-'</div>'+
 '<div class="wrap">'+
   '<table width="100%"><tr>'+
   '<td id="mcol" colspan="10" style="padding:0; vertical-align:middle"></td>'+
@@ -59,6 +60,8 @@
       id:'img', href: this.src, width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1],
       x: pts[1][0], y: pts[1][1], preserveAspectRatio:'none', cursor:'pointer'
     });
+    document.title = 'Фотки / Сайт Григория Еремина - ' + this.title;
+//    document.getElementById('foto_header').innerHTML = this.title;
   };
   loadScript({url: '/fotos/index.js'}, function(p){
     for(var k in ALBUMS){
@@ -66,11 +69,12 @@
     '<option value="'+k+'"'+(k == IMGURLS[0][0] ? ' selected ' : '')+'>'+ALBUMS[k]+'</option>';
     }
     document.getElementById('albumlist').onchange = function(){
-      var urls = IMGURLS.filter(function(a){ return a[0] == albumlist.options[albumlist.selectedIndex].value; });
+      var opt = this.options[this.selectedIndex],
+          urls = IMGURLS.filter(function(a){ return a[0] == opt.value; });
       document.getElementById('mlist').innerHTML = '';
       for(var i in urls) {
         document.getElementById('mlist').innerHTML += 
-      '<div id="img'+i+'">'+
+      '<div id="av'+i+'">'+
         '<img class="hspace1" src="/static/img/loader.gif" style="padding:35px;">'+
       '</div>';
         var im = document.createElement('img');
@@ -87,8 +91,8 @@
         };
         if(i==0) im.click();
         im.onload = function(){ 
-          document.getElementById('img' + this.alt).innerHTML = '';
-          document.getElementById('img' + this.alt).appendChild(this);
+          document.getElementById('av' + this.alt).innerHTML = '';
+          document.getElementById('av' + this.alt).appendChild(this);
         };
       }
     }
