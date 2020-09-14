@@ -65,8 +65,9 @@
   };
   loadScript({url: '/fotos/index.js'}, function(p){
     for(var k in ALBUMS){
+      var falb = IMGURLS.filter(function(f){ return (f[0] == k); });
       document.getElementById('albumlist').innerHTML +=
-    '<option value="'+k+'"'+(k == IMGURLS[0][0] ? ' selected ' : '')+'>'+ALBUMS[k]+'</option>';
+    '<option value="'+k+'"'+(k == IMGURLS[0][0] ? ' selected ' : '')+'>'+ALBUMS[k]+' ('+falb.length+')'+'</option>';
     }
     document.getElementById('albumlist').onchange = function(){
       var opt = this.options[this.selectedIndex],
