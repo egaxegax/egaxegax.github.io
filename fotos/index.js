@@ -6,6 +6,7 @@ ALBUMS={
   4: 'Битцевский парк'
 };
 IMGURLS=[
+[0, 'https://ia.wampi.ru/2020/09/15/PANORAMA-ZAKATA-V-BUTOVO.jpg', 'Панорама заката в Бутово'],
 [1, 'https://ia.wampi.ru/2020/09/03/NOCNOE-BUTOVO.jpg', 'Ночное Бутово'],
 [1, 'https://i0.wampi.ru/2020/09/03/PRUD-V-ZAKARINO-V-SENTYBRE.jpg', 'Пруд в Захарьино в сентябре'],
 [1, 'https://i0.wampi.ru/2020/08/16/ALLEY-V-ZAKARINO.jpg', 'Аллея в Захарьино'],
