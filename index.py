@@ -39,8 +39,10 @@ for root, dirs, files in os.walk(path, topdown=False):
         ftime = os.path.getmtime(os.path.join(root, name))
         for line in f:
           if fname != 'about':
-            print( fname )
-            ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
+            try:
+              ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
+            except:
+              raise
           break
 
       mfiles.append([ subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
@@ -53,9 +55,9 @@ for i, f in enumerate(mfiles):
   if f[1] == 'about':
     continue
   isubj = -1
-  for ii, s in enumerate(msubj):
-    if f[0] == s[0]:
-      s[1] += 1
+  for ii, subj in enumerate(msubj):
+    if f[0] == subj[0]:
+      subj[1] += 1
       isubj = ii
       break
   if isubj == -1:
@@ -67,10 +69,11 @@ for i, f in enumerate(mfiles):
 def compact(s):
   s = re.sub(r'([\[,\]]+)\s*\n','\g<1>',s)
   s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]')
+  s = s.encode()
   return s
 
-open('index.js', 'wb').write('SUBJ=' + compact(json.dumps(msubj, indent=0, ensure_ascii=0)) + ';\n')
-open('index.js', 'ab').write('TITLES=' + compact(json.dumps(mtitles, indent=0, ensure_ascii=0)) + ';')
+open('index.js', 'wb').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
+open('index.js', 'ab').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
 time.sleep(1)
 
 try:
