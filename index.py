@@ -69,11 +69,10 @@ for i, f in enumerate(mfiles):
 def compact(s):
   s = re.sub(r'([\[,\]]+)\s*\n','\g<1>',s)
   s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]')
-  s = s.encode()
   return s
 
-open('index.js', 'wb').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
-open('index.js', 'ab').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
+open('index.js', 'w').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
+open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
 time.sleep(1)
 
 try:
