@@ -11,7 +11,7 @@ function addMsg(r, p){
       html = converter.makeHtml(text);
   var meta = document.head.getElementsByTagName('meta');
   for(var j in meta){
-    if(meta[j].name == 'description') meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
+    if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
   }
   document.getElementById(p.id).innerHTML = 
 '<div class="msgtext">'+html+'</div>'+
@@ -42,7 +42,7 @@ function addNews(){
     '<div id="msg'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'msg'+ i, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r,p){
+      upfunc({id: 'msg'+ i, if: i==0, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addMsg(r,p);

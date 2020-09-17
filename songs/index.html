@@ -62,7 +62,7 @@ ul.hr li { padding: 0 20px; }
   function addList(r,p){
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
-      if(meta[j].name == 'description') meta[j].content = p.subj+', список текстов';
+      if(meta[j].name == 'description' && p.if) meta[j].content = p.subj+', список текстов';
     }
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext"><tr>'+
@@ -88,7 +88,7 @@ ul.hr li { padding: 0 20px; }
   function addSong(r,p){
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
-      if(meta[j].name == 'description') meta[j].content = 
+      if(meta[j].name == 'description' && p.if) meta[j].content = 
         r.replace(/<!--([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,255);
     }
     var text = r
@@ -187,7 +187,7 @@ ul.hr li { padding: 0 20px; }
     '<div id="song'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'song'+i, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/'+subj+'/'+title+'.txt'}, function(r,p,st){
+      upfunc({id: 'song'+i, if: i==0, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/'+subj+'/'+title+'.txt'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
