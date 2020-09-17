@@ -98,7 +98,7 @@ function addPaginator(list, per_page, page_num){
 :
   ''))+
 '</span>'+
-'</p>';
+'</p><br>';
   return (has_previous || has_next) ? root : '';
 }
 //

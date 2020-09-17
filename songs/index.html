@@ -8,7 +8,7 @@
 <meta name='yandex-verification' content='bf07f0af8e739c66'>
 <meta name='google-site-verification' content='eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8'>
 <title>Аккорды / Сайт Григория Еремина</title>
-<link rel='shortcut icon' href='/favicon.ico'>
+<link rel='icon' href='/favicon.svg' type='image/svg'>
 <link rel='stylesheet' href='/static/css/main.css'>
 <style>
 .about { display: table; }
@@ -30,11 +30,11 @@ ul.hr li { padding: 0 20px; }
 
   document.body.innerHTML = addTemplate( 'songs' );
   document.getElementById('page_header').innerHTML =
-'<p class="mtext hspace">В базе около <b>26000</b> текстов песен с аккордами и просто стихов.</p>'+
+'<p class="mtext hspace">Подборка текстов песен с аккордами и просто стихов.</p>'+
 '<img class="hspace1" src="/static/img/loader.gif">';
 
   var page_header = 
-'<p class="mtext hspace">В базе около <b>26000</b> текстов песен с аккордами и просто стихов.</p>'+
+'<p class="mtext hspace">В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов.</p>'+
 '<ul class="mtext hr hspace2">'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=65">Таблица аккордов</a>'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=110">Транспонирование аккордов</a>'+
@@ -43,7 +43,7 @@ ul.hr li { padding: 0 20px; }
 '</ul>'+
 '<p class="mtext hspace">Последние обновления:</p>';
 
-  function addLast(r, p){
+  function addLast(r,p){
     var tmpl = 
   '<table class="msgtext" width="99%"><tr>'+
     '<td id="im'+p.id+'"></td>'+
@@ -60,7 +60,7 @@ ul.hr li { padding: 0 20px; }
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
     return tmpl;
   }
-  function addList(r, p){
+  function addList(r,p){
     var tmpl = 
   '<table class="msgtext"><tr>'+
     '<td width="99%">'+
@@ -70,7 +70,7 @@ ul.hr li { padding: 0 20px; }
   '</table>';
     return tmpl;
   }
-  function addAbout(r, p){
+  function addAbout(r,p){
     var text = r
       .replace(/\*/g,'');
     var tmpl = 
@@ -84,7 +84,7 @@ ul.hr li { padding: 0 20px; }
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
     return tmpl;    
   }
-  function addSong(r, p){
+  function addSong(r,p){
     var text = r
       .replace(/(^|\n)>(.*)/g,'$1*#*$2*##*')
       .replace(/(^|\n)!(.*)/g,'$1*_*$2*__*')
@@ -102,7 +102,7 @@ ul.hr li { padding: 0 20px; }
     return tmpl;    
   }
   // add icons chods by jtab.js & rafael.js
-  function addSongChords() {
+  function addSongChords(){
     var songText = document.getElementById('songcont');
     var chordCont = document.getElementById('chordcont');
     if (!songText || !chordCont) return;
@@ -111,7 +111,7 @@ ul.hr li { padding: 0 20px; }
 
     if(!songChords) return;
 
-    songChords = songChords.reduce(function(items, chord) {
+    songChords = songChords.reduce(function(items, chord){
       chord = chord.replace(/(\s|\(|\))/,'');
       var parts = chord.split(":"),
           fp = parts[0],
@@ -126,7 +126,7 @@ ul.hr li { padding: 0 20px; }
       return items;
     }, []);
 
-    for (var k=0; k<songChords.length; k++) {
+    for (var k=0; k<songChords.length; k++){
       var chord = songChords[k];
       var el = document.createElement('div');
       el.appendChild(document.createTextNode(chord));
@@ -171,7 +171,7 @@ ul.hr li { padding: 0 20px; }
         per_page = 100;
       }
     }
-    document.getElementById('page_header').innerHTML = page_header;
+    document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     var page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
@@ -183,7 +183,7 @@ ul.hr li { padding: 0 20px; }
     '<div id="song'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'song'+ i, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/' + subj + '/' + title + '.txt'}, function(r,p,st){
+      upfunc({id: 'song'+i, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/'+subj+'/'+title+'.txt'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -195,10 +195,10 @@ ul.hr li { padding: 0 20px; }
           );
           addSongChords();
             // add description meta
-          if(p.id == 'song0'){
+          if(p.id == 'song1'){
             var meta = document.head.getElementsByTagName('meta');
             for(var j in meta){
-              if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, '');
+              if(meta[j].name == 'description') meta[j].content = p.subj+', '+p.title[2]+', '+meta[j].content;
             }
           }
         }
