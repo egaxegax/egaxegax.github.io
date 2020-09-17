@@ -32,7 +32,11 @@
           .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
           .replace(/\{: class=rounded :\}/g, ''),
         html = converter.makeHtml(text);
-    var tmpl = 
+    var meta = document.head.getElementsByTagName('meta');
+    for(var j in meta){
+      if(meta[j].name == 'description') meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
+    }
+    document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     (p.title[2] !== 'about' ? 
   '<h3><a class="nodecor" href="?t='+ p.title[1] +'">'+p.title[2]+'</a></h3>'
@@ -45,7 +49,6 @@
     '<div class="gray smaller"> '+buildDate(p.title[3])+'</div>'+
   '</div>' 
     : '');
-    return tmpl;
   }
 
   loadScript({url: '/posts/index.js'}, function(p){
@@ -80,14 +83,7 @@
         if(st == 200) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
           wrap.className = 'wrap';
-          wrap.innerHTML = addPost(r, p);
-            // add description meta
-          if(p.id == 'post0'){
-            var meta = document.head.getElementsByTagName('meta');
-            for(var j in meta){
-              if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, '');
-            }
-          }
+          addPost(r,p);
         }
       });
     }

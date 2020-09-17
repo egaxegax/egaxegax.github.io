@@ -44,7 +44,7 @@ ul.hr li { padding: 0 20px; }
 '<p class="mtext hspace">Последние обновления:</p>';
 
   function addLast(r,p){
-    var tmpl = 
+    document.getElementById(p.id).innerHTML = 
   '<table class="msgtext" width="99%"><tr>'+
     '<td id="im'+p.id+'"></td>'+
     '<td width="90%">'+
@@ -58,22 +58,24 @@ ul.hr li { padding: 0 20px; }
     img.className = "rounded av";
     img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
-    return tmpl;
   }
   function addList(r,p){
-    var tmpl = 
+    var meta = document.head.getElementsByTagName('meta');
+    for(var j in meta){
+      if(meta[j].name == 'description') meta[j].content = p.subj+', список текстов';
+    }
+    document.getElementById(p.id).innerHTML = 
   '<table class="msgtext"><tr>'+
     '<td width="99%">'+
       '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
     '</td>'+
     '<td align="right" class="lightgray">'+p.i+'</td></tr>'+
   '</table>';
-    return tmpl;
   }
   function addAbout(r,p){
     var text = r
       .replace(/\*/g,'');
-    var tmpl = 
+    document.getElementById(p.id).innerHTML = 
   '<dl class="msgtext about">'+
     '<span id="im'+p.id+'"></span>'+
     '<p>'+text+'</p>'+
@@ -82,9 +84,13 @@ ul.hr li { padding: 0 20px; }
     img.className = "rounded hmarg";
     img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
-    return tmpl;    
   }
   function addSong(r,p){
+    var meta = document.head.getElementsByTagName('meta');
+    for(var j in meta){
+      if(meta[j].name == 'description') meta[j].content = 
+        r.replace(/<!--([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,255);
+    }
     var text = r
       .replace(/(^|\n)>(.*)/g,'$1*#*$2*##*')
       .replace(/(^|\n)!(.*)/g,'$1*_*$2*__*')
@@ -93,22 +99,21 @@ ul.hr li { padding: 0 20px; }
       .replace(/\*_\*/g, '<i>').replace(/\*__\*/g, '</i>')
       .replace(/^[\r\n]+|[\r\n]+$/g, '')
       .replace(/\t/g, ' ').replace(/ /g, '&nbsp;').replace(/\n/g,'<br>');
-    var tmpl = 
+    document.getElementById(p.id).innerHTML = 
   '<table class="msgtext chords" width="100%"><tr>'+
     '<td id="songcont" valign="top" width="80%">'+text+'</td>'+
     '<td id="chordcont" class="yellow" valign="top"></td></tr>'+
   '</table>'+
   '<div class="msgfooter gray smaller">'+buildDate(p.title[3])+'</div>';
-    return tmpl;    
+    addSongChords();
   }
-  // add icons chods by jtab.js & rafael.js
+  // add icons chords by jtab.js & rafael.js
   function addSongChords(){
     var songText = document.getElementById('songcont');
     var chordCont = document.getElementById('chordcont');
     if (!songText || !chordCont) return;
     // parse chords
     var songChords = songText.innerHTML.match(/(\s|\()*([A-GH])([0-9a-z#:]{0,})(\s|\))*/gm);
-
     if(!songChords) return;
 
     songChords = songChords.reduce(function(items, chord){
@@ -127,9 +132,8 @@ ul.hr li { padding: 0 20px; }
     }, []);
 
     for (var k=0; k<songChords.length; k++){
-      var chord = songChords[k];
       var el = document.createElement('div');
-      el.appendChild(document.createTextNode(chord));
+      el.appendChild(document.createTextNode(songChords[k]));
       chordCont.appendChild(el);
       jtab.render(el);
     }
@@ -188,19 +192,9 @@ ul.hr li { padding: 0 20px; }
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
           wrap.className = 'wrap';
-          wrap.innerHTML = (
-            (p.title[2] == 'about') ? addAbout(r,p) : 
-            (tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]) in urlParams() ? addSong(r,p) :
-            (tr(p.subj)+'/'+p.title[0]) in urlParams() ? addList(r,p) : addLast(r,p)
-          );
-          addSongChords();
-            // add description meta
-          if(p.id == 'song1'){
-            var meta = document.head.getElementsByTagName('meta');
-            for(var j in meta){
-              if(meta[j].name == 'description') meta[j].content = p.subj+', '+p.title[2]+', '+meta[j].content;
-            }
-          }
+          (p.title[2] == 'about') ? addAbout(r,p) : 
+          (tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]) in urlParams() ? addSong(r,p) :
+          (tr(p.subj)+'/'+p.title[0]) in urlParams() ? addList(r,p) : addLast(r,p);
         }
       });
     }

@@ -9,12 +9,15 @@ function addMsg(r, p){
         .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
         .replace(/\{: class=rounded :\}/g, ''),
       html = converter.makeHtml(text);
-  var tmpl = 
+  var meta = document.head.getElementsByTagName('meta');
+  for(var j in meta){
+    if(meta[j].name == 'description') meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
+  }
+  document.getElementById(p.id).innerHTML = 
 '<div class="msgtext">'+html+'</div>'+
 '<div class="msgfooter">'+
   '<div class="gray smaller">'+' '+buildDate(p.title[3])+'</div>'+
 '</div>';
-  return tmpl;
 }
 //
 // Append news from .txt
@@ -42,14 +45,7 @@ function addNews(){
       upfunc({id: 'msg'+ i, subj: subj, title: page_titles[i], url: '/news/' + subj + '/' + title + '.txt'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
-        wrap.innerHTML = addMsg(r, p);
-          // add description meta
-        if(p.id == 'msg0'){
-          var meta = document.head.getElementsByTagName('meta');
-          for(var j in meta){
-            if(meta[j].name == 'description') meta[j].content = wrap.innerHTML.replace(/(<([^>]+)>)/gi, '');
-          }
-        }
+        addMsg(r,p);
       });
     }
     if (page_titles.length){

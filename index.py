@@ -33,7 +33,7 @@ for root, dirs, files in os.walk(path, topdown=False):
       cwd = os.path.basename(os.getcwd())
 
       if cwd == 'news':
-        ftime = time.mktime(time.strptime(name[:-4], '%y_%m_%d_%H_%M_%S'))
+        ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
       elif cwd in ('posts', 'songs'):
         f = open(os.path.join(root, name))
         ftime = os.path.getmtime(os.path.join(root, name))
