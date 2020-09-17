@@ -73,8 +73,12 @@ ul.hr li { padding: 0 20px; }
   '</table>';
   }
   function addAbout(r,p){
+    var meta = document.head.getElementsByTagName('meta');
     var text = r
       .replace(/\*/g,'');
+    for(var j in meta){
+      if(meta[j].name == 'description') meta[j].content = p.subj+', '+text.replace(/(<([^>]+)>)/gi, '');
+    }
     document.getElementById(p.id).innerHTML = 
   '<dl class="msgtext about">'+
     '<span id="im'+p.id+'"></span>'+
@@ -88,8 +92,8 @@ ul.hr li { padding: 0 20px; }
   function addSong(r,p){
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
-      if(meta[j].name == 'description' && p.if) meta[j].content = 
-        r.replace(/<!--([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,255);
+      if(meta[j].name == 'description') meta[j].content = 
+        r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,255);
     }
     var text = r
       .replace(/(^|\n)>(.*)/g,'$1*#*$2*##*')
@@ -187,7 +191,7 @@ ul.hr li { padding: 0 20px; }
     '<div id="song'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'song'+i, if: i==0, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/'+subj+'/'+title+'.txt'}, function(r,p,st){
+      upfunc({id: 'song'+i, if: i==1, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/'+subj+'/'+title+'.txt'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
