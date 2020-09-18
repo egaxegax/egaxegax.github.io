@@ -1,2 +1,2 @@
-![](/fotos/news/robocop-figure.jpg)
+<img src='/fotos/news/robocop-figure.jpg' align='middle'>
 *RoboCop* новый персонаж в игре *Mortal Kombat 11*.
