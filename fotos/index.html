@@ -61,7 +61,7 @@
       x: pts[1][0], y: pts[1][1], preserveAspectRatio:'none', cursor:'pointer'
     });
     document.title = 'Фотки / Сайт Григория Еремина - ' + this.title;
-//    document.getElementById('foto_header').innerHTML = this.title;
+    document.getElementById('foto_header').innerHTML = this.title;
   };
   loadScript({url: '/fotos/index.js'}, function(p){
     for(var k in ALBUMS){
