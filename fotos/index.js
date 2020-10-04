@@ -6,6 +6,9 @@ ALBUMS={
   4: 'Битцевский парк'
 };
 IMGURLS=[
+[0, 'https://ia.wampi.ru/2020/10/05/DK-SERBINKA.jpg', 'ДК Щербинка. Октябрь 2020г.'],
+[0, 'https://ia.wampi.ru/2020/10/05/DK-SERBINKA-2.jpg', 'ДК Щербинка. Октябрь 2020г.'],
+[1, 'https://ia.wampi.ru/2020/10/05/LUZAIKA-STRIZENNAY.jpg', 'Стриженая лужайка. Август 2020г.'],
 [1, 'https://ia.wampi.ru/2020/09/28/VID-NA-BESEDKU-V-ZAKARINO.jpg', 'Вид на беседку в Захарьино. Сентябрь 2020г.'],
 [0, 'https://ia.wampi.ru/2020/09/15/PANORAMA-ZAKATA-V-BUTOVO.jpg', 'Панорама заката в Бутово. Сентябрь 2020г.'],
 [1, 'https://ia.wampi.ru/2020/09/03/NOCNOE-BUTOVO.jpg', 'Ночное Бутово. Сентябрь 2020г.'],
