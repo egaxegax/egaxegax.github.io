@@ -18,6 +18,7 @@
 .chords b { font-weight: 500; color: #5645ad; }
 img.av { width: 70px; margin-right: 5px; }
 ul.hr li { padding: 0 20px; }
+input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
 </style>
 <script src='/static/js/updater.js'></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
@@ -34,15 +35,24 @@ ul.hr li { padding: 0 20px; }
 '<img class="hspace1" src="/static/img/loader.gif">';
 
   var page_header = 
+'<div class="indexlist mtext wrap">'+
+'<form class="search">'+
+'  <label for="tit">Автор или название</label>'+
+'  <input id="tit" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); search(); return false; }">'+
+'  <input type="button" value="Найти" onclick="search()">'+
+'</div>'+
+'</p>'+
 '<p class="mtext hspace">В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов.</p>'+
 '<ul class="mtext hr hspace2">'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=65">Таблица аккордов</a>'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=110">Транспонирование аккордов</a>'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=64">Переборы</a>'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=63">Гитарные бои</a>'+
-'</ul>'+
-'<p class="mtext hspace">Последние обновления:</p>';
+'</ul>';
 
+  function search(){
+    window.location = '/songs/?' + urlBuild({find: document.getElementById('tit').value});
+  }
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext" width="99%"><tr>'+
@@ -178,6 +188,18 @@ ul.hr li { padding: 0 20px; }
         '</p>';
           document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
           songs = [[songs[0][0],songs[0][1],'about','']].concat(songs);  // +about page
+        }
+        per_page = 100;
+      }else if(p == 'find' && urlParams().find){ // search list
+        songs = songs.filter(function(tit){ 
+          return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        songs = songs.sort(function(a,b){ return a[2]>b[2]; });
+        if(songs.length){ 
+          view = 'last';
+          page_header = '<p class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов</p>';
+          document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
         }
         per_page = 100;
       }

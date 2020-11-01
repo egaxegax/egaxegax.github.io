@@ -28,7 +28,7 @@ input[type=file] { font-size: 100%; height: 32px;  }
 .formpost th { width: 8%; }
 .formpost input[type=text] { width: 90%; }
 .formpost textarea { width: 95%; }
-.indexlist { text-align: center; padding: 10px 4px 8px 8px; line-height: 1.5em; }
+.indexlist { text-align: center; margin-top: 15px; padding: 10px 4px 8px 8px; line-height: 1.5em; }
 .mtext { font-size: larger; }
 .msgtext { font-size: larger; min-height: 1em; padding: 5px 10px 10px 10px; margin: 0px; }
 .msgfooter { padding: 0 10px; text-align: right; }
