@@ -1,5 +1,4 @@
 <!--2020-11-03 19:25:00-->
-
 INTRO: <D, Bm, G>
 
 VERSE: <D, Bm, G, Em7, A>
@@ -10,7 +9,7 @@ I've been saving what you're cravin'
 Look at my face I'm about to replace
 Every hurt, every tear that you cry
 
-BRIDGE: Bm, Bm/A, Bm/Ab, G, A
+BRIDGE: <Bm, Bm/A, Bm/Ab, G, A>
 
 Cause when you feel this strong and you can't go on
 There's nothing wrong, just try to realize
