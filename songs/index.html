@@ -41,7 +41,6 @@ input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
 '  <input id="tit" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); search(); return false; }">'+
 '  <input type="button" value="Найти" onclick="search()">'+
 '</div>'+
-'</p>'+
 '<p class="mtext hspace">В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов.</p>'+
 '<ul class="mtext hr hspace2">'+
 '<li class="inl"><a class="nodecor" href="/posts/?t=65">Таблица аккордов</a>'+
@@ -198,7 +197,7 @@ input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
         songs = songs.sort(function(a,b){ return a[2]>b[2]; });
         if(songs.length){ 
           view = 'last';
-          page_header = '<p class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов</p>';
+          page_header = '<p class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
           document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
         }
         per_page = 100;
