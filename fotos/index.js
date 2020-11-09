@@ -29,7 +29,7 @@ IMGURLS=[
 [1, 'https://i0.wampi.ru/2020/08/14/NOVAY-SKOLA-V-ZAKARINO.jpg', 'У новой школы в Захарьино. Май 2017г.'],
 [1, 'https://ia.wampi.ru/2020/08/14/PRUD-U-TERKVI-4.jpg', 'Пруд у церкви в Захарьино'],
 [1, 'https://ia.wampi.ru/2020/08/14/DOROGA-U-V-ZAKARINO.jpg', 'Улица в Захарьино осенью'],
-[1, 'https://ia.wampi.ru/2020/08/14/TEPLOE-MESTO-NA-ULITE-ZDUT.jpg', 'Листья на асфальте'],
+[1, 'https://ia.wampi.ru/2020/08/14/TEPLOE-MESTO-NA-ULITE-ZDUT.jpg', 'Листья на асфальте. Октябрь 2018г.'],
 [2, 'https://ia.wampi.ru/2020/08/14/BABOCKA-NA-KRASNOM-TVETKE.jpg', 'Бабочка'],
 [2, 'https://i0.wampi.ru/2020/08/14/PICT0067.jpg', 'Красивое дерево в Парке Горького. Июль 2016г.'],
 [3, 'https://i0.wampi.ru/2020/08/14/STARINNYI-POEZD-NA-STANTII.jpg', 'Старый поезд в Михнево. Сентябрь 2019г.'],
