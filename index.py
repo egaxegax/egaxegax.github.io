@@ -28,42 +28,57 @@ for root, dirs, files in os.walk(path, topdown=False):
 
       mcount += 1
 
+      roots = E_OS(os.path.basename(os.path.dirname(root)))
       subj = E_OS(os.path.basename(root))
       title = E_OS(fname)
       cwd = os.path.basename(os.getcwd())
 
       if cwd == 'news':
         ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
-      elif cwd in ('posts', 'songs'):
+      elif cwd in ('books', 'posts', 'songs'):
         f = open(os.path.join(root, name))
         ftime = os.path.getmtime(os.path.join(root, name))
-        for line in f:
-          if fname != 'about':
-            try:
-              ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
-            except:
-              raise
-          break
+        try:
+          for line in f:
+            if fname != 'about':
+              try:
+                ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
+              except:
+                raise
+            break
+        except:
+          print (fname)
+          raise
 
-      mfiles.append([ subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
+      mfiles.append([ roots, subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
 
-mfiles.sort(key=lambda f: f[2], reverse=True)
+mfiles.sort(key=lambda f: f[3], reverse=True)
+mroots = []
 msubj = []
 mtitles = []
 
 for i, f in enumerate(mfiles):
-  if f[1] == 'about':
+  if f[2] == 'about':
     continue
+  iroots = -1
+  for ii, roots in enumerate(mroots):
+    if f[0] == roots[0]:
+      roots[1] += 1
+      iroots = ii
+      break
+  if iroots == -1:
+    mroots += [[f[0], 1, f[3]]]
+    iroots = len(mroots) - 1  
   isubj = -1
   for ii, subj in enumerate(msubj):
-    if f[0] == subj[0]:
-      subj[1] += 1
+    if f[1] == subj[1]:
+      subj[2] += 1
       isubj = ii
       break
   if isubj == -1:
-    msubj += [[f[0], 1, f[2]]]
+    msubj += [[iroots, f[1], 1, f[3]]]
     isubj = len(msubj) - 1
-  mtitles += [[isubj, len(mfiles) - len(mtitles), f[1], f[2]]]
+  mtitles += [[isubj, len(mfiles) - len(mtitles), f[2], f[3]]]
   print( i )
 
 def compact(s):
@@ -71,7 +86,8 @@ def compact(s):
   s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]')
   return s
 
-open('index.js', 'w').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
+open('index.js', 'w').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
+open('index.js', 'a').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
 time.sleep(1)
 

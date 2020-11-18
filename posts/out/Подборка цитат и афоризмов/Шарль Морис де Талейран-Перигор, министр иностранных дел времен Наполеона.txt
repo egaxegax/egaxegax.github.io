@@ -1,5 +1,5 @@
 <!--2020-01-22 22:24:32-->
-![](https://raw.githubusercontent.com/egaxegax/FotoSite/master/posts/tall.jpg)
+![](/fotos/posts/tall.jpg)
 >
 
     Для того чтобы иметь много денег, не надо иметь много ума,

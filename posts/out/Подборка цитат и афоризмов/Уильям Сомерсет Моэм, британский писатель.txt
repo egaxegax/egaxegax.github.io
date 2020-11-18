@@ -1,5 +1,5 @@
 <!--2020-02-02 22:09:34-->
-![](https://raw.githubusercontent.com/egaxegax/FotoSite/master/posts/moem.jpg)
+![](/fotos/posts/moem.jpg)
 >
 
     Жизнь на десять процентов состоит из того, что вы в ней делаете,

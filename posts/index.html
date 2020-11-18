@@ -52,13 +52,14 @@
   }
 
   loadScript({url: '/posts/index.js'}, function(p){
-    var subjects = SUBJ,
+    var roots = ROOTS,
+        subjects = SUBJ,
         titles = TITLES;
     for(var p in urlParams()){
       if (p == 's') {
         titles = titles.filter(function(tit){ return (tit[0] == urlParams()[p]); });
         titles = [[titles[0][0],titles[0][1],'about','']].concat(titles); // +about page
-        document.title += ' - ' + subjects[titles[0][0]][0];
+        document.title += ' - ' + subjects[ titles[0][0] ][1];
       };
       if (p == 't') {
         titles = titles.filter(function(tit){ return (tit[1] == urlParams()[p]); });
@@ -71,13 +72,14 @@
         page_top = page_bottom+per_page;
     var page_titles = titles.slice(page_bottom, page_top);
     for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ page_titles[i][0] ][0],
+      var subj = subjects[ page_titles[i][0] ][1],
+          root = roots[ subjects[ page_titles[i][0] ][0] ][0],
           title = page_titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'post'+i, if: i==0, subj: subj, title: page_titles[i], url: subj + '/' + title + '.txt'}, function(r,p,st){
+      upfunc({id: 'post'+i, if: i==0, subj: subj, title: page_titles[i], url: root + '/' + subj + '/' + title + '.txt'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
