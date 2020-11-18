@@ -31,15 +31,15 @@ img.av { width: 50px; }
     '<td width="60%">'+
       '<div class="vmiddle">'+
         '<span id="im'+i+'"></span>&nbsp;'+
-        '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+iart+'">'+art[0]+'</a>'+
+        '<a class="nodecor" href="/songs/?'+tr(art[1])+'/'+iart+'">'+art[1]+'</a>'+
       '<div>'+
     '</td>'+
-    '<td valign="center" align="left"><b>'+art[1]+'</b></td>'+
+    '<td valign="center" align="left"><b>'+art[2]+'</b></td>'+
     '<td valign="center" align="right" class="lightgray">'+i+'</td>'+
   '</dl>';
     var img = new Image();
     img.className = "rounded av";
-    img.src = '/fotos/songs/'+tr(art[0])+'.jpg';
+    img.src = '/fotos/songs/'+tr(art[1])+'.jpg';
     img.onload = function(){ document.getElementById('im' + i).appendChild(this); };
     return tmpl;
   }
@@ -49,7 +49,7 @@ img.av { width: 50px; }
         songs = TITLES;
     document.getElementById('page_header').innerHTML = 
   '<p class="mtext hspace">Найдено авторов <b>'+arts.length+'</b> и <b>'+songs.length+'</b> текстов </p>';
-    arts = arts.slice().sort(function(a,b){ return a[0]>b[0]; });
+    arts = arts.slice().sort(function(a,b){ return a[1]>b[1]; });
     var per_page = 100,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
