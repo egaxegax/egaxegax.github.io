@@ -16,8 +16,10 @@
 <script type='text/javascript'>
 
   document.body.innerHTML = addTemplate( 'about' );
+  document.getElementById('page_header').innerHTML =
+  '<p class="mtext hspace">Портал Григория Еремина. Фото, тексты и сообщения от автора. </p>';
+  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
   document.getElementById('page_content').innerHTML =
-'<p class="mtext hspace">Портал Григория Еремина. Фото, тексты и сообщения от автора. </p>'+
 '<div class="wrap" style="height: 400px">'+
   '<div class="msgtext">'+
     '<dl class="nomarg" style="padding-left: 200px; background: url(/static/img/egaxegax.png) no-repeat scroll 20px 20px;">'+

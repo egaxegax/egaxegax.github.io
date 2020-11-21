@@ -17,8 +17,9 @@
 <script type='text/javascript'>
 
   document.body.innerHTML = addTemplate( 'posts' );
-  document.getElementById('page_content').innerHTML = 
+  document.getElementById('page_header').innerHTML = 
 '<p class="mtext hspace">Выберите одну из тем статей: </p>';
+  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
 
   function addSubj(subj, i){
     var tmpl = 
@@ -45,9 +46,7 @@
     '<p class="mtext hspace"><a href="/posts">Все статьи</a></p>';
     } else {
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">'+
-      'Нет данных.'+
-    '</p>'+
+    '<p class="mtext hspace">Нет данных.</p>'+
     '<img src="/static/img/confuse.png" width="120px">';
     }
   });

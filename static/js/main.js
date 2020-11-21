@@ -132,6 +132,12 @@ function addPaginator(list, per_page, page_num){
   return (has_previous || has_next) ? root : '';
 }
 //
+// Get height of content
+//
+function getHeightCont(){
+  return (window.innerHeight - document.getElementById('header').offsetHeight*2 - document.getElementById('footer').offsetHeight);
+}
+//
 // Build date from ymdhms
 //
 function buildDate(d){

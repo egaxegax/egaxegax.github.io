@@ -20,9 +20,8 @@
 
   document.body.innerHTML = addTemplate( 'posts' );
   document.getElementById('page_header').innerHTML = 
-'<p class="mtext hspace">'+
-  'Заметки, статьи, цитаты на самые разные темы.'+
-'</p>';
+'<p class="mtext hspace">Заметки, статьи, цитаты на самые разные темы.</p>';
+  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
 
   function addPost(r, p){
     var converter = new showdown.Converter(), // to markdown
@@ -91,15 +90,11 @@
     }
     if (page_titles.length){
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">'+
-      '<a href="/posts/subj.html">Все темы</a>'+
-    '</p>';
+    '<p class="mtext hspace"><a href="/posts/subj.html">Все темы</a></p>';
       document.getElementById('page_footer').innerHTML = addPaginator(titles, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">'+
-      'Нет данных.'+
-    '</p>'+
+    '<p class="mtext hspace">Нет данных.</p>'+
     '<img src="/static/img/confuse.png" width="120px">';
     }
   });

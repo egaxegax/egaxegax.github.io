@@ -16,8 +16,10 @@
 <script type='text/javascript'>
 
   document.body.innerHTML = addTemplate( 'books' );
+  document.getElementById('page_header').innerHTML =
+'<p class="mtext hspace">Книги, рекомендуемые мною для чтения. </p>';
+  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
   document.getElementById('page_content').innerHTML =
-'<p class="mtext hspace">Книги, рекомендуемые мною для чтения. </p>'+
 '<div class="wrap" style="height: 400px">'+
   '<div class="msgtext"><dl class="nomarg">'+
     '<dt>Список книг разбитых по жанрам.</dt><dt></dt>'+
