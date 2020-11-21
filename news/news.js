@@ -23,10 +23,6 @@ function addMsg(r, p){
 // Append news from .txt
 //
 function addNews(){
-  var tmpl =
-'<p class="mtext hspace">'+
-  'Что нового? Новости, изменения, обновления на сайте и не только.'+
-'</p>';
   loadScript({url: '/news/index.js'}, function(p){
     var subjects = SUBJ,
         titles = TITLES;
@@ -52,11 +48,8 @@ function addNews(){
       document.getElementById('page_footer').innerHTML = addPaginator(titles, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">'+
-      'Нет данных.'+
-    '</p>'+
+    '<p class="mtext hspace">Нет данных.</p>'+
     '<img src="/static/img/confuse.png" width="120px">';
     }
   });
-  return tmpl;
 }
