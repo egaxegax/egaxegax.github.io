@@ -37,6 +37,7 @@
     if(dwimg) dw.vp.removeChild(dwimg);
     dw.append('image', p).setAttributeNS('http://www.w3.org/1999/xlink', 'href', p.href);
   }
+
   function addLoader(){
     addFoto({ id:'img', href: '/static/img/loader.gif', width:24, height:24, x: dw.centerOf()[0], y: dw.centerOf(0)[1] });
   }
@@ -49,24 +50,29 @@
     height: document.getElementById('mlist').offsetHeight
   });
   var img = new Image();
+
   img.onload = function() {
     var ratio = this.width/this.height,
         vs = dw.viewsizeOf();  // map sizes degrees
     var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
         pts = [dw.toPoints(crds[1]), dw.toPoints(crds[0])];
     addFoto({
-      id:'img', href: this.src, width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1],
-      x: pts[1][0], y: pts[1][1], preserveAspectRatio:'none', cursor:'pointer'
+      id:'img', href: this.src, preserveAspectRatio:'none', cursor:'pointer',
+      x: pts[1][0], y: pts[1][1], width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1]
     });
     document.title = 'Фотки / Сайт Григория Еремина - ' + this.title;
     document.getElementById('foto_header').innerHTML = this.title;
   };
+
   loadScript({url: '/fotos/index.js'}, function(p){
     for(var k in ALBUMS){
       var falb = IMGURLS.filter(function(f){ return (f[0] == k); });
       document.getElementById('albumlist').innerHTML +=
-    '<option value="'+k+'"'+(k == IMGURLS[0][0] ? ' selected ' : '')+'>'+ALBUMS[k]+' ('+falb.length+')'+'</option>';
+    '<option value="'+k+'"'+(k == IMGURLS[0][0] ? ' selected ' : '')+'>'+
+      ALBUMS[k]+' ('+falb.length+')'+
+    '</option>';
     }
+
     document.getElementById('albumlist').onchange = function(){
       var opt = this.options[this.selectedIndex],
           urls = IMGURLS.filter(function(a){ return a[0] == opt.value; });

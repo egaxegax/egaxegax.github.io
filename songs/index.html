@@ -17,9 +17,7 @@
 .chords { line-height: 1.3em; }
 .chords b { font-weight: 500; color: #5645ad; }
 img.av { width: 70px; margin-right: 5px; }
-ul.hr { text-align: center; }
-ul.hr li { padding: 0 40px; }
-input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
+input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
 </style>
 <script src='/static/js/updater.js'></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
@@ -38,19 +36,18 @@ input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
   document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
 
   var page_header = 
+'<p class="mtext hspace">В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов.</p>'+
 '<div class="indexlist mtext wrap">'+
 '<form class="search">'+
 '  <label for="tit">Автор или название</label>'+
 '  <input id="tit" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); search(); return false; }">'+
 '  <input type="button" value="Найти" onclick="search()">'+
-'</div>'+
-'<p class="mtext hspace">В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов.</p>'+
-'<ul class="mtext hr hspace2">'+
-'<li class="inl"><a class="nodecor" href="/posts/?t=65">Аккорды</a>'+
-'<li class="inl"><a class="nodecor" href="/posts/?t=110">Тональности</a>'+
-'<li class="inl"><a class="nodecor" href="/posts/?t=64">Переборы</a>'+
-'<li class="inl"><a class="nodecor" href="/posts/?t=63">Бои</a>'+
-'</ul>';
+'  <span class="hspace"></span>'+
+'  <a class="hspace nodecor" href="/posts/?t=65">Аккорды</a>'+
+'  <a class="hspace nodecor" href="/posts/?t=110">Тональности</a>'+
+'  <a class="hspace nodecor" href="/posts/?t=64">Переборы</a>'+
+'  <a class="hspace nodecor" href="/posts/?t=63">Бои</a>'+
+'</div>';
 
   function search(){
     window.location = '/songs/?' + urlBuild({find: document.getElementById('tit').value});
@@ -154,13 +151,14 @@ input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
       jtab.render(el);
     }
   }
-
+    //
   loadScript({url: '/songs/index.js'}, function(p){
     var roots = ROOTS,
         arts = SUBJ,
         songs = TITLES;
     var per_page = 10,
         view = 'last';
+
     for(var p in urlParams()){
       var pp = p.split('/');
       if(pp.length>2){ // song text
@@ -207,12 +205,15 @@ input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
         per_page = 100;
       }
     }
+
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
+
     var page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
     var page_titles = songs.slice(page_bottom, page_top);
+  
     for(var i=0; i<page_titles.length; i++){
       var subj = arts[page_titles[i][0]][1],
           root = roots[arts[page_titles[i][0]][0]][0],
@@ -232,6 +233,7 @@ input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
         }
       });
     }
+
     if (page_titles.length){
       document.getElementById('page_content').innerHTML += 
     '<p class="mtext hspace">'+
@@ -240,9 +242,7 @@ input[type=button] { padding: 0 20px; font-size: 100%; height: 32px; }
       document.getElementById('page_footer').innerHTML = addPaginator(songs, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">'+
-      'Нет данных.'+
-    '</p>'+
+    '<p class="mtext hspace">Нет данных.</p>'+
     '<img src="/static/img/confuse.png" width="120px">';
     }
   });

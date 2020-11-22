@@ -32,9 +32,11 @@
           .replace(/\{: class=rounded :\}/g, ''),
         html = converter.makeHtml(text);
     var meta = document.head.getElementsByTagName('meta');
+
     for(var j in meta){
       if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
     }
+
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     (p.title[2] !== 'about' ? 
@@ -54,22 +56,25 @@
     var roots = ROOTS,
         subjects = SUBJ,
         titles = TITLES;
+
     for(var p in urlParams()){
-      if (p == 's') {
+      if (p == 's') { // filter subj
         titles = titles.filter(function(tit){ return (tit[0] == urlParams()[p]); });
         titles = [[titles[0][0],titles[0][1],'about','']].concat(titles); // +about page
         document.title += ' - ' + subjects[ titles[0][0] ][1];
       };
-      if (p == 't') {
+      if (p == 't') { // filter post
         titles = titles.filter(function(tit){ return (tit[1] == urlParams()[p]); });
         document.title += ' - ' + titles[0][2];
       }
     }
+
     var per_page = 10,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
     var page_titles = titles.slice(page_bottom, page_top);
+
     for(var i=0; i<page_titles.length; i++){
       var subj = subjects[ page_titles[i][0] ][1],
           root = roots[ subjects[ page_titles[i][0] ][0] ][0],
@@ -88,6 +93,7 @@
         }
       });
     }
+
     if (page_titles.length){
       document.getElementById('page_content').innerHTML += 
     '<p class="mtext hspace"><a href="/posts/subj.html">Все темы</a></p>';
