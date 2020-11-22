@@ -52,6 +52,7 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
   function search(){
     window.location = '/songs/?' + urlBuild({find: document.getElementById('tit').value});
   }
+
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext" width="99%"><tr>'+
@@ -68,6 +69,7 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
     img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
+  
   function addList(r,p){
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
@@ -81,6 +83,7 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
     '<td align="right" class="lightgray">'+p.i+'</td></tr>'+
   '</table>';
   }
+
   function addAbout(r,p){
     var meta = document.head.getElementsByTagName('meta');
     var text = r
@@ -98,6 +101,7 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
     img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
+
   function addSong(r,p){
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
@@ -120,7 +124,9 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
   '<div class="msgfooter gray smaller">'+buildDate(p.title[3])+'</div>';
     addSongChords();
   }
-  // add icons chords by jtab.js & rafael.js
+  //
+  // Add icons chords by jtab.js & rafael.js
+  //
   function addSongChords(){
     var songText = document.getElementById('songcont');
     var chordCont = document.getElementById('chordcont');
