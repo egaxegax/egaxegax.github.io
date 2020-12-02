@@ -1,0 +1,2 @@
+<!--2015-12-08 21:26:06-->
+The Memoirs of Sherlock Holmes are overshadowed by the event with which they close—the meeting of the great detective and Moriarty, the Napoleon of Crime. Their struggle, seemingly to the death, was to leave many readers desolate at the loss of Holmes, but was also to lead to his immortality as a literary figure.

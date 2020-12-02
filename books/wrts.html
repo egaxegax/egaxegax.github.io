@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='content-type' content='text/html;charset=utf-8'>
+<meta name='description' content='Список авторов в алфавитном порядке, кол-во книг'>
+<meta name='keywords' content='Книги, романы, проза, литература для чтения'>
+<meta name='author' content='Grigoriy Eremin, Григорий Еремин, egax@bk.ru'>
+<meta name='yandex-verification' content='bf07f0af8e739c66'>
+<meta name='google-site-verification' content='eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8'>
+<title>Список авторов / Сайт Григория Еремина</title>
+<link rel='icon' href='/favicon.svg' type='image/svg'>
+<link rel='stylesheet' href='/static/css/main.css'>
+<style>
+img.av { width: 50px; }
+.vmiddle * { vertical-align: middle; }
+</style>
+<script src='/static/js/updater.js'></script>
+<script src='/static/js/main.js'></script>
+</head>
+<body>
+<script type='text/javascript'>
+
+  document.body.innerHTML = addTemplate( 'books' );
+  document.getElementById('page_content').innerHTML =
+'<p class="mtext hspace">Список авторов в алфавитном порядке</p>'+
+'<img class="hspace1" src="/static/img/loader.gif">';
+
+  function addWrt(wrt, iwrt, i){
+    var tmpl = 
+  '<table class="msgtext" width="99%"><tr>'+
+    '<td width="60%">'+
+      '<div class="vmiddle">'+
+        '<span id="im'+i+'"></span>&nbsp;'+
+        '<a class="nodecor" href="/books/?'+tr(wrt[1])+'/'+iwrt+'">'+wrt[1]+'</a>'+
+      '<div>'+
+    '</td>'+
+    '<td valign="center" align="left"><b>'+wrt[2]+'</b></td>'+
+    '<td valign="center" align="right" class="lightgray">'+i+'</td>'+
+  '</dl>';
+    var img = new Image();
+    img.className = "rounded av";
+    img.src = '/fotos/books/'+tr(wrt[1])+'.jpg';
+    img.onload = function(){ document.getElementById('im' + i).appendChild(this); };
+    return tmpl;
+  }
+
+  loadScript({url: '/books/index.js'}, function(p){
+    var wrts = SUBJ,
+        books = TITLES;
+    document.getElementById('page_header').innerHTML = 
+  '<p class="mtext hspace">Найдено авторов <b>'+wrts.length+'</b> и <b>'+books.length+'</b> текстов </p>';
+    wrts = wrts.slice().sort(function(a,b){ return a[1]>b[1]; });
+    var per_page = 100,
+        page_num = urlParams().page||1,
+        page_bottom = (page_num-1)*per_page,
+        page_top = page_bottom+per_page;
+    var page_wrts = wrts.slice(page_bottom, page_top);
+    document.getElementById('page_content').innerHTML = '';
+    for(var i=0; i<page_wrts.length; i++){
+      document.getElementById('page_content').innerHTML +=
+    '<div id="wrt'+i+'" class="wrap">'+addWrt(page_wrts[i], SUBJ.indexOf(page_wrts[i]), page_bottom+i+1)+'</div>'
+    }
+    if (page_wrts.length){
+      document.getElementById('page_content').innerHTML +=
+    '<p class="mtext hspace"><a href="/books">Все тексты</a></p>';
+      document.getElementById('page_footer').innerHTML = addPaginator(wrts, per_page, page_num);
+    } else {
+      document.getElementById('page_content').innerHTML += 
+    '<p class="mtext hspace">'+
+      'Нет данных.'+
+    '</p>'+
+    '<img src="/static/img/confuse.png" width="120px">';
+    }
+  });
+
+</script>
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-25857345-4'></script>
+<script src='/static/js/metrics.js'></script>
+</body>
+</html>

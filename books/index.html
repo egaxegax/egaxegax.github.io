@@ -2,40 +2,169 @@
 <html>
 <head>
 <meta http-equiv='content-type' content='text/html;charset=utf-8'>
-<meta name='description' content='Книги для чтения, рекомендации от автора'>
-<meta name='keywords' content='Книги, литература для чтения, рекомендации'>
+<meta name='description' content='Книги для чтения, описания книг и авторов'>
+<meta name='keywords' content='Книги, романы, проза, литература для чтения'>
 <meta name='author' content='Grigoriy Eremin, Григорий Еремин, egax@bk.ru'>
 <meta name='yandex-verification' content='bf07f0af8e739c66'>
 <meta name='google-site-verification' content='eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8'>
-<title>О сайте / Сайт Григория Еремина</title>
+<title>Книги / Сайт Григория Еремина</title>
 <link rel='icon' href='/favicon.svg' type='image/svg'>
 <link rel='stylesheet' href='/static/css/main.css'>
+<style>
+.lfloat { float: left; text-align: left; }
+.lside2 { min-width:200px; max-width:200px; }
+.rside2 { min-width:600px; max-width:600px; overflow: hidden; }
+.msgtext dt { border:0; }
+.msgtext .cont img { margin: 4px 0; }
+.about { display: table; }
+.about * { display: table-cell; vertical-align: middle; }
+dt .cont { display: table; width: 100%; }
+.button { margin: 40px; }
+</style>
+<script src='/static/js/updater.js'></script>
 <script src='/static/js/main.js'></script>
+<script src='/books/genres.js'></script>
 </head>
 <body>
 <script type='text/javascript'>
 
   document.body.innerHTML = addTemplate( 'books' );
   document.getElementById('page_header').innerHTML =
-'<p class="mtext hspace">Книги, рекомендуемые мною для чтения. </p>';
-  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
+'<p class="mtext hspace">Подборка описаний книг различных жанров отечественных и зарубежных авторов из свободных источников.</p>';
   document.getElementById('page_content').innerHTML =
-'<div class="wrap" style="height: 400px">'+
-  '<div class="msgtext"><dl class="nomarg">'+
-    '<dt>Список книг разбитых по жанрам.</dt><dt></dt>'+
-    '<dt>Приключения: </dt><dt></dt>'+
-      '<dd>Роберт Льюис Стивенсон. <a>Остров сокровищ</a></dd>'+
-      '<dd>Джон Руэл Толкиен. <a>Властелин колец</a></dd>'+
-      '<dd>Александр Дюма. <a>Граф Монте-Кристо</a></dd>'+
-      '<dd>Жюль Верн. <a>Дети капитана Гранта</a></dd>'+
-    '<dt></dt>'+
-    '<dt>Детективы, боевики: </dt><dt></dt>'+
-      '<dd>Артур Конан Дойл. <a>Серия книг Приключения Шерлока Холмса и доктора Ватсона</a></dd>'+
-      '<dd>Ли Чайлд. <a>Серия книг Джек Ричер</a></dd>'+
-      '<dd>Дэвид Моррел. <a>Рэмбо. Первая кровь</a></dd>'+
-    '<dt></dt>'+
-  '</dl></div>'+
-'</div>';
+'<img class="hspace1" src="/static/img/loader.gif">';
+  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
+
+  function strToUtc(dt){
+    var dt = dt.split(' ');
+    var d = dt[0].split('-'),
+        t = dt[1].split(':');
+    return Date.UTC(Number(d[0]),Number(d[1])-1,Number(d[2]),Number(t[0]),Number(t[1]),Number(t[2]))/1000.0;
+  }
+
+  function search(){
+    window.location = '/books/?' + urlBuild({find: document.getElementById('tit').value});
+  }
+
+  function addLast(r,p,c){
+    document.getElementById(p.id).innerHTML = 
+  '<table class="msgtext" width="99%"><tr>'+
+    '<td align="center" style="min-width:160px; max-width:160px">'+
+      '<img class="smaller gray" alt="'+p.subj+', '+p.title[2]+'" src="/books/out/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:140px">'+
+    '</td>'+
+    '<td width="90%" valign="top">'+
+      '<p><a class="nodecor" href="/books/?'+tr(p.subj)+'/'+p.title[0]+'">'+p.subj+'</a>'+
+        '<a class="hspace gray">'+p.title[2]+'</a></p>'+
+      '<p class="smaller gray">Жанр: <a class="nodecor">'+(GENRES[p.root]||p.root)+'</a></p>'+
+      '<p class="smaller">'+r+'</p>'+
+      '<p class="hspace gray smaller">'+buildDate(p.title[3])+'</p>'+
+    '</td>'+
+    '<td width="5%" valign="top" align="right" class="lightgray"><p>'+(p.i+c)+'</p></td></tr>'+
+  '</table>'; 
+    var img = new Image();
+    img.className = "av";
+    img.src = '/fotos/books/'+tr(p.subj)+'.jpg';
+    img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
+  }
+  
+  function addAbout(r,p){
+    var meta = document.head.getElementsByTagName('meta');
+    var text = r.replace(/\*/g,'');
+    for(var j in meta){
+      if(meta[j].name == 'description') meta[j].content = p.subj+', '+text.replace(/(<([^>]+)>)/gi, '');
+    }
+    document.getElementById(p.id).innerHTML = 
+  '<dl class="msgtext about">'+
+    '<span id="im'+p.id+'"></span>'+
+    '<p>'+text+'</p>'+
+  '</dl>';
+    var img = new Image();
+    img.className = "rounded hmarg";
+    img.src = '/fotos/books/'+tr(p.subj)+'.jpg';
+    img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
+  }
+    //
+  loadScript({url: '/books/index.js'}, function(p){
+    var roots = ROOTS,
+        wrts = SUBJ,
+        books = TITLES;
+    var per_page = 10,
+        page_view = 'last',
+        page_header = 
+      '<p class="mtext hspace">В базе <b>$COUNT</b> описаний книг и сборников.</p>';
+
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(pp.length>1){ // art list
+        books = books.filter(function(tit){ return (tit[0] == pp[1]); });
+        books = books.sort(function(a,b){ return a[2]>b[2]; });
+        if(books.length){ 
+          page_view = 'list';
+          page_header = 
+        '<p>'+
+          '<h2 class="inl">'+
+            '<a class="nodecor hspace" href="/books/?'+tr(wrts[books[0][0]][1])+'/'+books[0][0]+'">'+wrts[books[0][0]][1]+'</a>'+
+          '</h2>'+
+          '<span class="mtext hspace">Найдено <b>'+ books.length+'</b> текстов</span>'+
+        '</p>';
+          document.title += ' - ' + wrts[books[0][0]][1] + ', книги, тексты';
+          books = [[books[0][0],books[0][1],'about','']].concat(books);  // +about page
+        }
+        per_page = 100;
+      }else if(p == 'find' && urlParams().find){ // search list
+        books = books.filter(function(tit){ 
+          return wrts[tit[0]][1].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        books = books.sort(function(a,b){ return a[2]>b[2]; });
+        if(books.length){ 
+          page_view = 'last';
+          page_header = '<p class="mtext hspace">Найдено <b>'+ books.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
+          document.title += ' - ' + wrts[books[0][0]][1] + ', книги, тексты';
+        }
+        per_page = 100;
+      }
+    }
+
+    document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
+    document.getElementById('page_content').innerHTML = '';
+
+    var page_num = urlParams().page||1,
+        page_bottom = (page_num-1)*per_page,
+        page_top = page_bottom+per_page;
+    var page_titles = books.slice(page_bottom, page_top);
+
+    for(var i=0; i<page_titles.length; i++){
+      var subj = wrts[page_titles[i][0]][1],
+          root = roots[wrts[page_titles[i][0]][0]][0],
+          title = page_titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="book'+i+'">'+
+      (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'book'+i, if: i==1, i:page_bottom+i, root: root, subj: subj, title: page_titles[i], url: 'out/'+root+'/'+subj+'/'+title+'.txt'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          wrap.className = 'wrap';
+          (p.title[2] == 'about') ? addAbout(r,p) : 
+          page_view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
+        }
+      });
+    }
+
+    if (page_titles.length){
+      document.getElementById('page_content').innerHTML += 
+    '<p class="mtext hspace">'+
+      '<a href="/books/wrts.html">Все авторы</a>'+
+    '</p>';
+      document.getElementById('page_footer').innerHTML = addPaginator(books, per_page, page_num);
+    } else {
+      document.getElementById('page_content').innerHTML += 
+    '<p class="mtext hspace">Нет данных.</p>'+
+    '<img src="/static/img/confuse.png" width="120px">';
+    }
+  });
 
 </script>
 <script src='https://www.googletagmanager.com/gtag/js?id=UA-25857345-4'></script>
