@@ -48,7 +48,7 @@ img.av { width: 50px; }
     var arts = SUBJ,
         songs = TITLES;
     document.getElementById('page_header').innerHTML = 
-  '<p class="mtext hspace">Найдено авторов <b>'+arts.length+'</b> и <b>'+songs.length+'</b> текстов </p>';
+  '<p class="mtext hspace">Найдено <b>'+arts.length+'</b> авторов и <b>'+songs.length+'</b> текстов </p>';
     arts = arts.slice().sort(function(a,b){ return a[1]>b[1]; });
     var per_page = 100,
         page_num = urlParams().page||1,

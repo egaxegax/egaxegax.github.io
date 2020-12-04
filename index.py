@@ -1,8 +1,8 @@
-#!python
+#!python3
 #
-# list files and folders
+# list files and folders to index.js
 #
-# list_files.py <path_to_files>
+# index.py <path_to_files>
 
 import sys, os, time, json, re
 
@@ -12,7 +12,6 @@ def E_OS(text):
   return text
 
 path = '.'
-mcount = 0
 mfiles = []
 gitskip = 1
 
@@ -25,8 +24,6 @@ for root, dirs, files in os.walk(path, topdown=False):
     fname, ext = os.path.splitext(name)
 
     if ext == '.txt':
-
-      mcount += 1
 
       roots = E_OS(os.path.basename(os.path.dirname(root)))
       subj = E_OS(os.path.basename(root))
@@ -68,7 +65,7 @@ for i, f in enumerate(mfiles):
       break
   if iroots == -1:
     mroots += [[f[0], 1, f[3]]]
-    iroots = len(mroots) - 1  
+    iroots = len(mroots) - 1
   isubj = -1
   for ii, subj in enumerate(msubj):
     if f[1] == subj[1]:
