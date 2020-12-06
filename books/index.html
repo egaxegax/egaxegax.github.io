@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv='content-type' content='text/html;charset=utf-8'>
 <meta name='description' content='Книги для чтения, описания книг и авторов'>
-<meta name='keywords' content='Книги, романы, проза, литература для чтения'>
+<meta name='keywords' content='книги, романы, проза, литература для чтения'>
 <meta name='author' content='Grigoriy Eremin, Григорий Еремин, egax@bk.ru'>
 <meta name='yandex-verification' content='bf07f0af8e739c66'>
 <meta name='google-site-verification' content='eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8'>
@@ -11,14 +11,8 @@
 <link rel='icon' href='/favicon.svg' type='image/svg'>
 <link rel='stylesheet' href='/static/css/main.css'>
 <style>
-.lfloat { float: left; text-align: left; }
-.lside2 { min-width:200px; max-width:200px; }
-.rside2 { min-width:600px; max-width:600px; overflow: hidden; }
-.msgtext dt { border:0; }
-.msgtext .cont img { margin: 4px 0; }
 .about { display: table; }
 .about * { display: table-cell; vertical-align: middle; }
-dt .cont { display: table; width: 100%; }
 .button { margin: 40px; }
 </style>
 <script src='/static/js/updater.js'></script>
@@ -46,25 +40,28 @@ dt .cont { display: table; width: 100%; }
     window.location = '/books/?' + urlBuild({find: document.getElementById('tit').value});
   }
 
-  function addLast(r,p,c){
+  function addLast(r,p,ci){
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext" width="99%"><tr>'+
-    '<td align="center" style="min-width:160px; max-width:160px">'+
+    '<td align="center" valign="top" style="min-width:160px; max-width:160px"><br>'+
       '<img class="smaller gray" alt="'+p.subj+', '+p.title[2]+'" src="/books/out/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:140px">'+
     '</td>'+
     '<td width="90%" valign="top">'+
-      '<p><a class="nodecor" href="/books/?'+tr(p.subj)+'/'+p.title[0]+'">'+p.subj+'</a>'+
-        '<a class="hspace gray">'+p.title[2]+'</a></p>'+
+      '<p>'+
+        '<a class="nodecor" href="/books/?'+tr(p.subj)+'/'+p.title[0]+'">'+p.subj+'</a>'+
+        '<a class="nodecor hspace gray" href="/books/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
+      '</p>'+
       '<p class="smaller gray">Жанр: <a class="nodecor">'+(GENRES[p.root]||p.root)+'</a></p>'+
-      '<p class="smaller">'+r+'</p>'+
-      '<p class="hspace gray smaller">'+buildDate(p.title[3])+'</p>'+
+      '<p class="">'+
+        (!isNaN(ci) && r.length>512 ? r.slice(0,512)+'... '+
+          '<a class="nodecor hspace smaller" href="/books/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> Читать ещё&nbsp;› </a>'
+        :r)+
+      '</p>'+
     '</td>'+
-    '<td width="5%" valign="top" align="right" class="lightgray"><p>'+(p.i+c)+'</p></td></tr>'+
+    '<td width="5%" valign="top" align="right" class="lightgray"><p>'+((p.i+ci)||'')+'</p></td></tr><tr>'+
+    '<td colspan="2" align="right" class="hspace gray smaller">'+buildDate(p.title[3])+'</td>'+
+    '</tr>'
   '</table>'; 
-    var img = new Image();
-    img.className = "av";
-    img.src = '/fotos/books/'+tr(p.subj)+'.jpg';
-    img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
   
   function addAbout(r,p){
@@ -95,7 +92,21 @@ dt .cont { display: table; width: 100%; }
 
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(pp.length>1){ // art list
+      if(pp.length>2){ // song text
+        books = books.filter(function(tit){ return (tit[1] == pp[2]); });
+        if(books.length){
+          page_view = 'book';
+          page_header = 
+        '<p>'+
+          '<h2 class="inl">'+
+            '<a class="nodecor hspace" href="/books/?'+tr(wrts[books[0][0]][0])+'/'+books[0][0]+'">'+wrts[books[0][0]][0]+'</a>'+
+            '<span>'+books[0][2]+'</span>'+
+          '</h2>'+
+        '</p>';
+          document.title += ' - ' + wrts[books[0][0]][0] + ', ' + books[0][2];
+          books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
+        }
+      }else if(pp.length>1){ // wrt list
         books = books.filter(function(tit){ return (tit[0] == pp[1]); });
         books = books.sort(function(a,b){ return a[2]>b[2]; });
         if(books.length){ 
@@ -103,12 +114,12 @@ dt .cont { display: table; width: 100%; }
           page_header = 
         '<p>'+
           '<h2 class="inl">'+
-            '<a class="nodecor hspace" href="/books/?'+tr(wrts[books[0][0]][1])+'/'+books[0][0]+'">'+wrts[books[0][0]][1]+'</a>'+
+            '<a class="nodecor hspace" href="/books/?'+tr(wrts[books[0][0]][0])+'/'+books[0][0]+'">'+wrts[books[0][0]][0]+'</a>'+
           '</h2>'+
-          '<span class="mtext hspace">Найдено <b>'+ books.length+'</b> текстов</span>'+
+          '<span class="mtext hspace">Найдено <b>'+ books.length+'</b> книг</span>'+
         '</p>';
-          document.title += ' - ' + wrts[books[0][0]][1] + ', книги, тексты';
-          books = [[books[0][0],books[0][1],'about','']].concat(books);  // +about page
+          document.title += ' - ' + wrts[books[0][0]][0] + ', книги, тексты';
+          books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
         }
         per_page = 100;
       }else if(p == 'find' && urlParams().find){ // search list
@@ -119,8 +130,9 @@ dt .cont { display: table; width: 100%; }
         books = books.sort(function(a,b){ return a[2]>b[2]; });
         if(books.length){ 
           page_view = 'last';
-          page_header = '<p class="mtext hspace">Найдено <b>'+ books.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
-          document.title += ' - ' + wrts[books[0][0]][1] + ', книги, тексты';
+          page_header = 
+        '<p class="mtext hspace">Найдено <b>'+ books.length+'</b> книг по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
+          document.title += ' - ' + wrts[books[0][0]][0] + ', книги, тексты';
         }
         per_page = 100;
       }
@@ -135,8 +147,8 @@ dt .cont { display: table; width: 100%; }
     var page_titles = books.slice(page_bottom, page_top);
 
     for(var i=0; i<page_titles.length; i++){
-      var subj = wrts[page_titles[i][0]][1],
-          root = roots[wrts[page_titles[i][0]][0]][0],
+      var subj = wrts[page_titles[i][0]][0],
+          root = roots[page_titles[i][4]][0],
           title = page_titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+i+'">'+
@@ -148,6 +160,7 @@ dt .cont { display: table; width: 100%; }
         if(st == 200) { // skip Not Found pages
           wrap.className = 'wrap';
           (p.title[2] == 'about') ? addAbout(r,p) : 
+          page_view == 'book' ? addLast(r,p) :
           page_view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
         }
       });

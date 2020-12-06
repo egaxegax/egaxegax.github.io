@@ -68,14 +68,14 @@ for i, f in enumerate(mfiles):
     iroots = len(mroots) - 1
   isubj = -1
   for ii, subj in enumerate(msubj):
-    if f[1] == subj[1]:
-      subj[2] += 1
+    if f[1] == subj[0]:
+      subj[1] += 1
       isubj = ii
       break
   if isubj == -1:
-    msubj += [[iroots, f[1], 1, f[3]]]
+    msubj += [[f[1], 1, f[3]]]
     isubj = len(msubj) - 1
-  mtitles += [[isubj, len(mfiles) - len(mtitles), f[2], f[3]]]
+  mtitles += [[isubj, len(mfiles) - len(mtitles), f[2], f[3], iroots]]
   print( i )
 
 def compact(s):

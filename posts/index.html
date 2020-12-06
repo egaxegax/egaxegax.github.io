@@ -47,7 +47,7 @@
     (p.title[2] !== 'about' ? 
   '<div class="msgfooter">'+
     '<a class="nodecor" href="?s='+p.title[0]+'">'+p.subj+'</a>'+
-    '<div class="gray smaller"> '+buildDate(p.title[3])+'</div>'+
+    '<div class="gray"> '+buildDate(p.title[3])+'</div>'+
   '</div>' 
     : '');
   }
@@ -55,17 +55,17 @@
   loadScript({url: '/posts/index.js'}, function(p){
     var roots = ROOTS,
         subjects = SUBJ,
-        titles = TITLES;
+        posts = TITLES;
 
     for(var p in urlParams()){
       if (p == 's') { // filter subj
-        titles = titles.filter(function(tit){ return (tit[0] == urlParams()[p]); });
-        titles = [[titles[0][0],titles[0][1],'about','']].concat(titles); // +about page
-        document.title += ' - ' + subjects[ titles[0][0] ][1];
+        posts = posts.filter(function(tit){ return (tit[0] == urlParams()[p]); });
+        posts = [[posts[0][0],posts[0][1],'about',0,posts[0][4]]].concat(posts); // +about page
+        document.title += ' - ' + subjects[ posts[0][0] ][0];
       };
       if (p == 't') { // filter post
-        titles = titles.filter(function(tit){ return (tit[1] == urlParams()[p]); });
-        document.title += ' - ' + titles[0][2];
+        posts = posts.filter(function(tit){ return (tit[1] == urlParams()[p]); });
+        document.title += ' - ' + posts[0][2];
       }
     }
 
@@ -73,11 +73,11 @@
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
-    var page_titles = titles.slice(page_bottom, page_top);
+    var page_titles = posts.slice(page_bottom, page_top);
 
     for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ page_titles[i][0] ][1],
-          root = roots[ subjects[ page_titles[i][0] ][0] ][0],
+      var subj = subjects[ page_titles[i][0] ][0],
+          root = roots[ page_titles[i][4] ][0],
           title = page_titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+i+'">'+
@@ -97,7 +97,7 @@
     if (page_titles.length){
       document.getElementById('page_content').innerHTML += 
     '<p class="mtext hspace"><a href="/posts/subj.html">Все темы</a></p>';
-      document.getElementById('page_footer').innerHTML = addPaginator(titles, per_page, page_num);
+      document.getElementById('page_footer').innerHTML = addPaginator(posts, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
     '<p class="mtext hspace">Нет данных.</p>'+

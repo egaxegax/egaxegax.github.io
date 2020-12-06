@@ -25,21 +25,21 @@ img.av { width: 50px; }
 '<p class="mtext hspace">Список авторов в алфавитном порядке</p>'+
 '<img class="hspace1" src="/static/img/loader.gif">';
 
-  function addWrt(wrt, iwrt, i){
+  function addWrt(wrt,wi,i){
     var tmpl = 
   '<table class="msgtext" width="99%"><tr>'+
     '<td width="60%">'+
       '<div class="vmiddle">'+
         '<span id="im'+i+'"></span>&nbsp;'+
-        '<a class="nodecor" href="/books/?'+tr(wrt[1])+'/'+iwrt+'">'+wrt[1]+'</a>'+
+        '<a class="nodecor" href="/books/?'+tr(wrt[0])+'/'+wi+'">'+wrt[0]+'</a>'+
       '<div>'+
     '</td>'+
-    '<td valign="center" align="left"><b>'+wrt[2]+'</b></td>'+
+    '<td valign="center" align="left"><b>'+wrt[1]+'</b></td>'+
     '<td valign="center" align="right" class="lightgray">'+i+'</td>'+
   '</dl>';
     var img = new Image();
     img.className = "rounded av";
-    img.src = '/fotos/books/'+tr(wrt[1])+'.jpg';
+    img.src = '/fotos/books/'+tr(wrt[0])+'.jpg';
     img.onload = function(){ document.getElementById('im' + i).appendChild(this); };
     return tmpl;
   }
@@ -48,8 +48,8 @@ img.av { width: 50px; }
     var wrts = SUBJ,
         books = TITLES;
     document.getElementById('page_header').innerHTML = 
-  '<p class="mtext hspace">Найдено авторов <b>'+wrts.length+'</b> и <b>'+books.length+'</b> текстов </p>';
-    wrts = wrts.slice().sort(function(a,b){ return a[1]>b[1]; });
+  '<p class="mtext hspace">Найдено <b>'+wrts.length+'</b> авторов и <b>'+books.length+'</b> книг </p>';
+    wrts = wrts.slice().sort(function(a,b){ return a[0]>b[0]; });
     var per_page = 100,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
