@@ -1,6 +1,6 @@
 #!python3
 #
-# Extract .epub to text files for index.js.
+# Extract .epub to .txt and .jpg files.
 #
 # books2.py <dir_with_epub>
 

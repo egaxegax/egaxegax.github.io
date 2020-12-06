@@ -2,6 +2,10 @@
 #
 # list files and folders to index.js
 #
+#   ROOTS  = [name,count,last_time]
+#   SUBJ   = [name,count,last_time]
+#   TITLES = [subj_index,desc_sort_index,name,last_time,root_index]
+#
 # index.py <path_to_files>
 
 import sys, os, time, json, re
