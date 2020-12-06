@@ -25,22 +25,22 @@ img.av { width: 50px; }
 '<p class="mtext hspace">Список авторов в алфавитном порядке</p>'+
 '<img class="hspace1" src="/static/img/loader.gif">';
 
-  function addArt(art, iart, i){
+  function addArt(art,ai,i){
     var tmpl = 
   '<table class="msgtext" width="99%"><tr>'+
     '<td width="60%">'+
       '<div class="vmiddle">'+
         '<span id="im'+i+'"></span>&nbsp;'+
-        '<a class="nodecor" href="/songs/?'+tr(art[1])+'/'+iart+'">'+art[1]+'</a>'+
+        '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+ai+'">'+art[0]+'</a>'+
       '<div>'+
     '</td>'+
-    '<td valign="center" align="left"><b>'+art[2]+'</b></td>'+
+    '<td valign="center" align="left"><b>'+art[1]+'</b></td>'+
     '<td valign="center" align="right" class="lightgray">'+i+'</td>'+
   '</dl>';
     var img = new Image();
     img.className = "rounded av";
-    img.src = '/fotos/songs/'+tr(art[1])+'.jpg';
-    img.onload = function(){ document.getElementById('im' + i).appendChild(this); };
+    img.src = '/fotos/songs/'+tr(art[0])+'.jpg';
+    img.onload = function(){ document.getElementById('im'+i).appendChild(this); };
     return tmpl;
   }
 
@@ -62,7 +62,9 @@ img.av { width: 50px; }
     }
     if (page_arts.length){
       document.getElementById('page_content').innerHTML +=
-    '<p class="mtext hspace"><a href="/songs">Все тексты</a></p>';
+    '<p class="mtext hspace">'+
+      '<a href="/songs">Все тексты</a>'+
+    '</p>';
       document.getElementById('page_footer').innerHTML = addPaginator(arts, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
