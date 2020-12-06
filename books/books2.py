@@ -19,7 +19,6 @@ if (len(sys.argv) > 1):
 
 i = 0
 j = 0
-skiplist = []
 
 for root, dirs, files in os.walk(path, topdown=False):
   for name in files:
