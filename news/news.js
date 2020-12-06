@@ -40,7 +40,7 @@ function addNews(){
     '<div id="msg'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'msg'+ i, if: i==0, subj: subj, title: page_titles[i], url: root + '/' + subj + '/' + title + '.txt'}, function(r,p){
+      upfunc({id: 'msg'+ i, if: i==0, subj: subj, title: page_titles[i], url: '/news/' + root + '/' + subj + '/' + title + '.txt'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addMsg(r,p);
