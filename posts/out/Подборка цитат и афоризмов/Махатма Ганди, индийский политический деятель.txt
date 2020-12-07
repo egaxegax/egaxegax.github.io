@@ -1,4 +1,4 @@
 <!--2016-04-17 10:03:20-->
-![](/photos/posts/gandi.jpg){: class=rounded :}
-
+![](/posts/img/gandi.jpg){: class=rounded :}
+
     Ты должен верить в себя даже тогда, когда в тебе сомневается весь мир.

@@ -1,2 +1,2 @@
-<img src='/fotos/news/zvezda_kreml.jpg' align='middle'>
+<img src='/news/img/zvezda_kreml.jpg' align='middle'>
 Горит кремлевская звезда и как всегда она одна.

@@ -59,4 +59,4 @@ h3 { font-weight:normal; margin-top:5px; }
 #header, #page_header, #page_content, #page_footer, #footer { margin:4px auto 0px auto; width:960px; }
 #page_content { min-height:300px; }
 #footer { height:40px; text-align:center; }
-.search input[type=text] { text-align:center; width:100px; margin-left:12px; }
+.find input[type=text] { text-align:center; width:100px; margin-left:12px; }

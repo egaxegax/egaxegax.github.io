@@ -56,7 +56,6 @@
     var roots = ROOTS,
         subjects = SUBJ,
         posts = TITLES;
-
     for(var p in urlParams()){
       if (p == 's') { // filter subj
         posts = posts.filter(function(tit){ return (tit[0] == urlParams()[p]); });

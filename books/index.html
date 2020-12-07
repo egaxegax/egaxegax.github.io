@@ -36,8 +36,8 @@
     return Date.UTC(Number(d[0]),Number(d[1])-1,Number(d[2]),Number(t[0]),Number(t[1]),Number(t[2]))/1000.0;
   }
 
-  function search(){
-    window.location = '/books/?' + urlBuild({find: document.getElementById('tit').value});
+  function find(){
+    window.location = '/books/?' + urlBuild({find: document.getElementById('tfind').value});
   }
 
   function addLast(r,p,ci){
@@ -88,8 +88,13 @@
     var per_page = 10,
         page_view = 'last',
         page_header = 
-      '<p class="mtext hspace">В базе <b>$COUNT</b> описаний книг и сборников.</p>';
-
+      '<table width="100%" class="mtext" style="padding:4px 10px"><tr>'+
+        '<td>В базе <b>$COUNT</b> описаний книг и сборников.</td>'+
+        '<td class="find" align="right">'+
+        '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        '  <input type="button" value="Найти" onclick="find()">'+
+        '</td></tr>'+
+      '</table>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(pp.length>2){ // song text
@@ -124,7 +129,7 @@
         per_page = 100;
       }else if(p == 'find' && urlParams().find){ // search list
         books = books.filter(function(tit){ 
-          return wrts[tit[0]][1].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+          return wrts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
         books = books.sort(function(a,b){ return a[2]>b[2]; });

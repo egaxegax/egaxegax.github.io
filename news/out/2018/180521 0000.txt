@@ -2,10 +2,10 @@
 
 Бон Джови похож на Сергея Жигунова.
 
-![](/fotos/news/jon_bon_jovi.jpg)
-![](/fotos/news/zhigunov.jpg)
+![](/news/img/jon_bon_jovi.jpg)
+![](/news/img/zhigunov.jpg)
 
 Ричи Самбора похож на Александра Барыкина.
 
-![](/fotos//richie_sambora.jpg)
-![](/fotos//barykin_aleksandr.jpg)
+![](/news/img/richie_sambora.jpg)
+![](/news/img/barykin_aleksandr.jpg)

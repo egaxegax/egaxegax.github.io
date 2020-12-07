@@ -1,5 +1,4 @@
 <!--2017-01-30 21:15:31-->
-![](/photos/posts/franklin.jpg){: class=rounded :}
-
-
+![](/posts/img/franklin.jpg){: class=rounded :}
+
     Люди едят для собственного удовольствия, а одеваются для чужой потехи.

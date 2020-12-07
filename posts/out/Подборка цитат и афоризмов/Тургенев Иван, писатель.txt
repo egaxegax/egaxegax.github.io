@@ -1,6 +1,6 @@
 <!--2017-01-01 21:58:33-->
-![](/photos/posts/turgenev.jpg){: class=rounded :}
-
-*"Отцы и дети"*
-
+![](/posts/img/turgenev.jpg){: class=rounded :}
+
+*"Отцы и дети"*
+
     Я ничьих мнений не разделяю: я имею свои.

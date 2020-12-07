@@ -17,7 +17,6 @@
 .chords { line-height: 1.3em; }
 .chords b { font-weight: 500; color: #5645ad; }
 img.av { width: 70px; margin-right: 5px; }
-input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
 </style>
 <script src='/static/js/updater.js'></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
@@ -35,8 +34,8 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
 '<img class="hspace1" src="/static/img/loader.gif">';
   document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
 
-  function search(){
-    window.location = '/songs/?' + urlBuild({find: document.getElementById('tit').value});
+  function find(){
+    window.location = '/songs/?' + urlBuild({find: document.getElementById('tfind').value});
   }
 
   function addLast(r,p){
@@ -152,12 +151,11 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
         page_header = 
       '<table width="100%" class="mtext" style="padding:4px 10px"><tr>'+
         '<td>В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов.</td>'+
-        '<td class="search" align="right">'+
-        '  <input id="tit" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); search(); return false; }">'+
-        '  <input type="button" value="Найти" onclick="search()">'+
+        '<td class="find" align="right">'+
+        '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        '  <input type="button" value="Найти" onclick="find()">'+
         '</td>'+
       '</tr></table>';
-
     for(var p in urlParams()){
       var pp = p.split('/');
       if(pp.length>2){ // song text
@@ -172,7 +170,7 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
           '</h2>'+
         '</p>';
           document.title += ' - ' + arts[songs[0][0]][0] + ', ' + songs[0][2];
-          songs = [[songs[0][0],songs[0][1],'about',0,0]].concat(songs);  // +about page
+          songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
         }
       }else if(pp.length>1){ // art list
         songs = songs.filter(function(tit){ return (tit[0] == pp[1]); }); // filter by title
@@ -187,7 +185,7 @@ input[type=button] { padding: 0 10px; font-size: 100%; height: 32px; }
           '<span class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов</span>'+
         '</p>';
           document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
-          songs = [[songs[0][0],songs[0][1],'about',0,0]].concat(songs);  // +about page
+          songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
         }
         per_page = 100;
       }else if(p == 'find' && urlParams().find){ // search list

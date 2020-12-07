@@ -1,2 +1,2 @@
-<img src='/fotos/news/robocop-figure.jpg' align='middle'>
+<img src='/news/img/robocop-figure.jpg' align='middle'>
 *RoboCop* новый персонаж в игре *Mortal Kombat 11*.

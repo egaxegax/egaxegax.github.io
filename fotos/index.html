@@ -72,7 +72,6 @@
       ALBUMS[k]+' ('+falb.length+')'+
     '</option>';
     }
-
     document.getElementById('albumlist').onchange = function(){
       var opt = this.options[this.selectedIndex],
           urls = IMGURLS.filter(function(a){ return a[0] == opt.value; });

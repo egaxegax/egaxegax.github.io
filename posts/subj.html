@@ -25,12 +25,12 @@
     var tmpl = 
   '<div class="msgtext">'+
     '<a class="nodecor" href="/posts/?s='+i+'">'+
-      '<span style="display: inline-block; width: 420px">'+subj[1]+'</span>'+
+      '<span style="display: inline-block; width: 420px">'+subj[0]+'</span>'+
     '</a>'+
-    '<b>'+subj[2]+'</b>'+
+    '<b>'+subj[1]+'</b>'+
   '</div>'+
   '<div class="hspace2">'+
-    '<div class="gray smaller">'+buildDate(subj[3])+'</div>'
+    '<div class="gray smaller">'+buildDate(subj[2])+'</div>'
   '</div>';
     return tmpl;
   }
