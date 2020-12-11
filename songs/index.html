@@ -51,7 +51,7 @@ img.av { width: 70px; margin-right: 5px; }
   '</table>';
     var img = new Image();
     img.className = "rounded av";
-    img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
+    img.src = '/songs/img/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
   
@@ -82,7 +82,7 @@ img.av { width: 70px; margin-right: 5px; }
   '</dl>';
     var img = new Image();
     img.className = "rounded hmarg";
-    img.src = '/fotos/songs/'+tr(p.subj)+'.jpg';
+    img.src = '/songs/img/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
 
@@ -105,7 +105,7 @@ img.av { width: 70px; margin-right: 5px; }
     '<td id="songcont" valign="top" width="80%">'+text+'</td>'+
     '<td id="chordcont" class="yellow" valign="top"></td></tr>'+
   '</table>'+
-  '<div class="msgfooter gray smaller">'+buildDate(p.title[3])+'</div>';
+  '<div class="msgfooter gray">'+buildDate(p.title[3])+'</div>';
     addSongChords();
   }
   //
