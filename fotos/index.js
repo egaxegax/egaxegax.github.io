@@ -6,6 +6,7 @@ ALBUMS={
   4: 'Битцевский парк'
 };
 IMGURLS=[
+[0, 'https://ia.wampi.ru/2020/12/11/elka.jpg', 'Елка новогодняя. Декабрь 2020г.'],
 [1, 'https://ia.wampi.ru/2020/11/09/NOCNOI-ZAVOD.jpg', 'Завод ЩЛЗ в сумерках. Ноябрь 2020г.'],
 [0, 'https://ia.wampi.ru/2020/10/05/DK-SERBINKA.jpg', 'ДК Щербинка. Октябрь 2020г.'],
 [0, 'https://ia.wampi.ru/2020/10/05/DK-SERBINKA-2.jpg', 'ДК Щербинка. Октябрь 2020г.'],
