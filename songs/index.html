@@ -89,7 +89,7 @@ img.av { width: 70px; margin-right: 5px; }
   function addSong(r,p){
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
-      if(meta[j].name == 'description') meta[j].content = 
+      if(meta[j].name == 'description') meta[j].content = p.subj + ', ' +
         r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048);
     }
     var text = r
