@@ -43,8 +43,8 @@ img.av { width: 70px; margin-right: 5px; }
   '<table class="msgtext" width="99%"><tr>'+
     '<td id="im'+p.id+'"></td>'+
     '<td width="90%">'+
-      '<a class="nodecor pink" href="/songs/?'+tr(p.subj)+'/'+p.title[0]+'"> '+p.subj+' </a>'+
-      '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
+      '<a class="nodecor pink" href="/songs/?'+tr(p.subj)+'"> '+p.subj+' </a>'+
+      '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
       '<div class="hspace gray smaller">'+buildDate(p.title[3])+'</div>'+
     '</td>'+
     '<td valign="center" align="right" class="lightgray">'+(p.i+1)+'</td></tr>'+
@@ -63,7 +63,7 @@ img.av { width: 70px; margin-right: 5px; }
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext"><tr>'+
     '<td width="99%">'+
-      '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'/'+p.title[1]+'"> '+p.title[2]+' </a>'+
+      '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
     '</td>'+
     '<td align="right" class="lightgray">'+p.i+'</td></tr>'+
   '</table>';
@@ -158,29 +158,29 @@ img.av { width: 70px; margin-right: 5px; }
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(pp.length>2){ // song text
-        songs = songs.filter(function(tit){ return (tit[1] == pp[2]); }); // filter by title
+      if(pp.length>1){ // song text
+        songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by art+title
         if(songs.length){
           page_view = 'song';
           page_header = 
         '<p>'+
           '<h2 class="inl">'+
-            '<a class="nodecor hspace" href="/songs/?'+tr(arts[songs[0][0]][0])+'/'+songs[0][0]+'">'+arts[songs[0][0]][0]+'</a>'+
+            '<a class="nodecor hspace" href="/songs/?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a>'+
             '<span>'+songs[0][2]+'</span>'+
           '</h2>'+
         '</p>';
           document.title += ' - ' + arts[songs[0][0]][0] + ', ' + songs[0][2];
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
         }
-      }else if(pp.length>1){ // art list
-        songs = songs.filter(function(tit){ return (tit[0] == pp[1]); }); // filter by title
+      }else if(pp.length>0){ // art songs list
+        songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0]) == pp[0]); }); // filter by art
         songs = songs.sort(function(a,b){ return a[2]>b[2]; }); // sort by title
         if(songs.length){ 
           page_view = 'list';
           page_header = 
         '<p>'+
           '<h2 class="inl">'+
-            '<a class="nodecor hspace" href="/songs/?'+tr(arts[songs[0][0]][0])+'/'+songs[0][0]+'">'+arts[songs[0][0]][0]+'</a>'+
+            '<a class="nodecor hspace" href="/songs/?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a>'+
           '</h2>'+
           '<span class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов</span>'+
         '</p>';

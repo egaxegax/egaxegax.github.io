@@ -25,13 +25,13 @@ img.av { width: 50px; }
 '<p class="mtext hspace">Список авторов в алфавитном порядке</p>'+
 '<img class="hspace1" src="/static/img/loader.gif">';
 
-  function addWrt(wrt,wi,i){
+  function addWrt(wrt,i){
     var tmpl = 
   '<table class="msgtext" width="99%"><tr>'+
     '<td width="60%">'+
       '<div class="vmiddle">'+
         '<span id="im'+i+'"></span>&nbsp;'+
-        '<a class="nodecor" href="/books/?'+tr(wrt[0])+'/'+wi+'">'+wrt[0]+'</a>'+
+        '<a class="nodecor" href="/books/?'+tr(wrt[0])+'">'+wrt[0]+'</a>'+
       '<div>'+
     '</td>'+
     '<td valign="center" align="left"><b>'+wrt[1]+'</b></td>'+
