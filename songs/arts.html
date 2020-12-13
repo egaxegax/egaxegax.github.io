@@ -12,7 +12,6 @@
 <link rel='stylesheet' href='/static/css/main.css'>
 <style>
 img.av { width: 50px; }
-.vmiddle * { vertical-align: middle; }
 </style>
 <script src='/static/js/updater.js'></script>
 <script src='/static/js/main.js'></script>
@@ -28,14 +27,12 @@ img.av { width: 50px; }
   function addArt(art,ai,i){
     var tmpl = 
   '<table class="msgtext" width="99%"><tr>'+
-    '<td width="60%">'+
-      '<div class="vmiddle">'+
-        '<span id="im'+i+'"></span>&nbsp;'+
-        '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+ai+'">'+art[0]+'</a>'+
-      '<div>'+
+    '<td width="1%" id="im'+i+'"></td>'+
+    '<td align="left">'+
+      '<a class="nodecor" href="/songs/?'+tr(art[0])+'/'+ai+'">'+art[0]+'</a>'+
     '</td>'+
-    '<td valign="center" align="left"><b>'+art[1]+'</b></td>'+
-    '<td valign="center" align="right" class="lightgray">'+i+'</td>'+
+    '<td width="20%" valign="center" align="left"><b>'+art[1]+'</b></td>'+
+    '<td width="10%" valign="center" align="right" class="lightgray">'+i+'</td>'+
   '</dl>';
     var img = new Image();
     img.className = "rounded av";
@@ -49,7 +46,7 @@ img.av { width: 50px; }
         songs = TITLES;
     document.getElementById('page_header').innerHTML = 
   '<p class="mtext hspace">Найдено <b>'+arts.length+'</b> авторов и <b>'+songs.length+'</b> текстов </p>';
-    arts = arts.slice().sort(function(a,b){ return a[1]>b[1]; });
+    arts = arts.slice().sort(function(a,b){ return a[0]>b[0]; });
     var per_page = 100,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,

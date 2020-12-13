@@ -97,7 +97,7 @@
       '</table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(pp.length>2){ // song text
+      if(pp.length>2){ // book text
         books = books.filter(function(tit){ return (tit[1] == pp[2]); });
         if(books.length){
           page_view = 'book';
