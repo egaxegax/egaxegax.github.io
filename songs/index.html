@@ -220,7 +220,7 @@ img.av { width: 70px; margin-right: 5px; }
     '<div id="song'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'song'+i, if: i==1, i:page_bottom+i, subj: subj, title: page_titles[i], url: 'out/'+root+'/'+subj+'/'+title+'.txt'}, function(r,p,st){
+      upfunc({id: 'song'+i, if: i==1, i:page_bottom+i, subj: subj, title: page_titles[i], url: '/songs/out/'+root+'/'+subj+'/'+title+'.txt'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -251,7 +251,6 @@ img.av { width: 70px; margin-right: 5px; }
   });
 
 </script>
-<script src='https://www.googletagmanager.com/gtag/js?id=UA-25857345-4'></script>
 <script src='/static/js/metrics.js'></script>
 </body>
 </html>
