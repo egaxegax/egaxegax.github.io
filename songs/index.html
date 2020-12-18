@@ -158,7 +158,20 @@ img.av { width: 70px; margin-right: 5px; }
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(pp.length>1){ // song text
+      if(p == 'find' && urlParams().find){ // search list
+        songs = songs.filter(function(tit){ 
+          return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        songs = songs.sort(function(a,b){ return a[2]>b[2]; }); // sort by title
+        if(songs.length){ 
+          page_view = 'last';
+          page_header = 
+        '<p class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
+          document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
+        }
+        per_page = 100;
+      }else if(pp.length>1){ // song text
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by art+title
         if(songs.length){
           page_view = 'song';
@@ -186,19 +199,6 @@ img.av { width: 70px; margin-right: 5px; }
         '</p>';
           document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
-        }
-        per_page = 100;
-      }else if(p == 'find' && urlParams().find){ // search list
-        songs = songs.filter(function(tit){ 
-          return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
-                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
-        });
-        songs = songs.sort(function(a,b){ return a[2]>b[2]; }); // sort by title
-        if(songs.length){ 
-          page_view = 'last';
-          page_header = 
-        '<p class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
-          document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
         }
         per_page = 100;
       }
