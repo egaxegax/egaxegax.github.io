@@ -37,7 +37,11 @@
   }
 
   function find(){
-    window.location = '/books/?' + urlBuild({find: document.getElementById('tfind').value});
+    if(!document.getElementById('tfind').value){
+      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+    }else{
+      window.location = '/books/?' + urlBuild({find: document.getElementById('tfind').value});
+    }
   }
 
   function addLast(r,p,ci){
@@ -110,7 +114,7 @@
           document.title += ' - ' + wrts[books[0][0]][0] + ', книги, тексты';
         }
         per_page = 100;
-      } else if(pp.length>1){ // book text
+      } else if(pp.length>1){ // wrt + book = book text
         books = books.filter(function(tit){ return (tr(wrts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by wrt+title
         if(books.length){
           page_view = 'book';

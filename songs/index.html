@@ -35,7 +35,11 @@ img.av { width: 70px; margin-right: 5px; }
   document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
 
   function find(){
-    window.location = '/songs/?' + urlBuild({find: document.getElementById('tfind').value});
+    if(!document.getElementById('tfind').value){
+      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+    }else{
+      window.location = '/songs/?' + urlBuild({find: document.getElementById('tfind').value});
+    }
   }
 
   function addLast(r,p){
@@ -126,10 +130,10 @@ img.av { width: 70px; margin-right: 5px; }
           p1 = fp.replace(/^[A-GH#b]{1,2}/,''),
           p2 = fp.substr(0, fp.length - p1.length),
           bn = jtab.WesternScale.BaseNotes[p2];
-      if (bn)
+      if(bn)
         fp = bn[0] + p1;
 
-      if (items.indexOf(chord) < 0 && jtab.Chords[fp] != undefined) 
+      if(items.indexOf(chord) < 0 && jtab.Chords[fp] != undefined) 
         items.push(chord);
       return items;
     }, []);
@@ -158,7 +162,7 @@ img.av { width: 70px; margin-right: 5px; }
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(p == 'find' && urlParams().find){ // search list
+      if(p == 'find'){ // search list
         songs = songs.filter(function(tit){ 
           return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
@@ -171,7 +175,7 @@ img.av { width: 70px; margin-right: 5px; }
           document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
         }
         per_page = 100;
-      }else if(pp.length>1){ // song text
+      }else if(pp.length>1){ // art + song = song text
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by art+title
         if(songs.length){
           page_view = 'song';
