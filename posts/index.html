@@ -20,8 +20,22 @@
 
   document.body.innerHTML = addTemplate( 'posts' );
   document.getElementById('page_header').innerHTML = 
-'<p class="mtext hspace">Заметки, статьи, цитаты на самые разные темы.</p>';
+'<table width="100%" class="mtext" style="padding:4px 10px"><tr>'+
+  '<td>Заметки, статьи, цитаты на самые разные темы.</td>'+
+  '<td class="find" align="right">'+
+  '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+  '  <input type="button" value="Найти" onclick="find()">'+
+  '</td>'+
+'</tr></table>';
   document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
+
+  function find(){
+    if(!document.getElementById('tfind').value){
+      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+    }else{
+      window.location = '/posts/?' + urlBuild({find: document.getElementById('tfind').value});
+    }
+  }
 
   function addPost(r, p){
     var converter = new showdown.Converter(), // to markdown
@@ -57,12 +71,23 @@
         subjects = SUBJ,
         posts = TITLES;
     for(var p in urlParams()){
-      if (p == 's') { // filter subj
+      if(p == 'find'){ // search list
+        posts = posts.filter(function(tit){ 
+          return subjects[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        posts = posts.sort(function(a,b){ return a[2]>b[2]; }); // sort by title
+        document.getElementById('page_header').innerHTML =
+      '<p class="mtext hspace">'+
+        'Найдено <b>'+ posts.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i>'+
+      '</p>';
+      }
+      if(p == 's'){ // filter subj
         posts = posts.filter(function(tit){ return (tit[0] == urlParams()[p]); });
         posts = [[posts[0][0],posts[0][1],'about',0,posts[0][4]]].concat(posts); // +about page
         document.title += ' - ' + subjects[ posts[0][0] ][0];
-      };
-      if (p == 't') { // filter post
+      }
+      if(p == 't'){ // filter post
         posts = posts.filter(function(tit){ return (tit[1] == urlParams()[p]); });
         document.title += ' - ' + posts[0][2];
       }
