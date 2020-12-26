@@ -9,6 +9,8 @@
 # index.py <path_to_files>
 
 import sys, os, time, json, re
+import linecache
+from PIL import Image
 
 def E_OS(text):
   if os.name == 'nt':
@@ -27,39 +29,44 @@ for root, dirs, files in os.walk(path, topdown=False):
 
     fname, ext = os.path.splitext(name)
 
-    if ext == '.txt':
+    roots = E_OS(os.path.basename(os.path.dirname(root)))
+    subj = E_OS(os.path.basename(root))
+    title = E_OS(fname)
+    cwd = os.path.basename(os.getcwd())
 
-      roots = E_OS(os.path.basename(os.path.dirname(root)))
-      subj = E_OS(os.path.basename(root))
-      title = E_OS(fname)
-      cwd = os.path.basename(os.getcwd())
-
-      if cwd == 'news':
-        ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
-      elif cwd in ('books', 'posts', 'songs'):
-        f = open(os.path.join(root, name))
-        ftime = os.path.getmtime(os.path.join(root, name))
-        try:
-          for line in f:
-            if fname != 'about':
-              try:
-                ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
-              except:
-                raise
-            break
+    if cwd in ('news') and ext in ('.txt'):
+      ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
+    elif cwd in ('fotki') and ext.lower() in ('.jpg'):
+      title = E_OS(name)
+      ftime = os.path.getmtime(os.path.join(root, name))
+      im = Image.open(os.path.join(root, name))
+      im.thumbnail((100,100))
+      if not os.path.exists(os.path.join(root, '_th')):
+        os.mkdir(os.path.join(root, '_th'))
+      im.save(os.path.join(root, '_th', fname+'.jpeg') , "JPEG")
+    elif cwd in ('books','posts','songs') and ext in ('.txt'):
+      ftime = os.path.getmtime(os.path.join(root, name))
+      if fname != 'about':
+        line = linecache.getline(os.path.join(root, name), 1)
+        try: 
+          ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
         except:
-          print (fname)
           raise
+    else:
+      print(name, '...skip')
+      continue
 
-      mfiles.append([ roots, subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
+    mfiles.append([ roots, subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
 
 mfiles.sort(key=lambda f: f[3], reverse=True)
 mroots = []
 msubj = []
 mtitles = []
+abcounter = 0
 
 for i, f in enumerate(mfiles):
   if f[2] == 'about':
+    abcounter += 1
     continue
   iroots = -1
   for ii, roots in enumerate(mroots):
@@ -79,7 +86,7 @@ for i, f in enumerate(mfiles):
   if isubj == -1:
     msubj += [[f[1], 1, f[3]]]
     isubj = len(msubj) - 1
-  mtitles += [[isubj, len(mfiles) - len(mtitles), f[2], f[3], iroots]]
+  mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
   print( i )
 
 def compact(s):
