@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='content-type' content='text/html;charset=utf-8'>
+<meta name='description' content='Подборка фотографий, снятых на телефон, о природе, местах, людях'>
+<meta name='keywords' content='фотки, картинки, тексты, заметки, фото'>
+<meta name='author' content='Grigoriy Eremin, Григорий Еремин, egax@bk.ru'>
+<meta name='yandex-verification' content='bf07f0af8e739c66'>
+<meta name='google-site-verification' content='eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8'>
+<title>Фотки / Сайт Григория Еремина</title>
+<link rel='icon' href='/favicon.svg' type='image/svg'>
+<link rel='stylesheet' href='/static/css/main.css'>
+<script src='/static/js/updater.js'></script>
+<script src='/static/js/main.js'></script>
+<script src='/static/js/dbcartasvg.js'></script>
+</head>
+<body>
+<script type='text/javascript'>
+
+  document.body.innerHTML = addTemplate( 'fotos' );
+  document.getElementById('page_header').innerHTML = 
+'<table width="99%" class="mtext" style="padding:4px 10px"><tr>'+
+  '<td id="foto_header">Подборка фото, снятых на телефон, о природе, местах, людях.</td>'+
+  '<td align="right"><select id="albumlist"></select></td>'+
+'</tr></table>';
+  document.getElementById('page_content').innerHTML = 
+'<div class="wrap">'+
+  '<table cellspacing=0 cellpadding=0 width="100%"><tr>'+
+  '<td id="mcol" colspan="10" style="padding:0; vertical-align:middle"></td>'+
+  '<td width="125px" style="padding:0 0 0 1px; vertical-align:top">'+
+    '<div id="mlist" style="overflow:auto; height:'+(getHeightCont()-20)+'px'+'"></div></td>'+
+  '</tr></table>'+
+'</div>';
+
+  function addFoto(p){
+    var dwimg = dw.root.getElementById('img');
+    if(dwimg) dw.vp.removeChild(dwimg);
+    dw.append('image', p).setAttributeNS('http://www.w3.org/1999/xlink', 'href', p.href);
+  }
+
+  function addLoader(){
+    addFoto({ id:'img', href: '/static/img/loader.gif', width:24, height:24, x: dw.centerOf()[0], y: dw.centerOf(0)[1] });
+  }
+
+  var childs=[];
+  var dw = new dbCartaSvg({
+    id:'mcol',
+    bg: 'transparent',
+    sbarpos: 'left',
+    height: document.getElementById('mlist').offsetHeight
+  });
+  var img = new Image();
+
+  img.onload = function() {
+    var ratio = this.width/this.height,
+        vs = dw.viewsizeOf();  // map sizes degrees
+    var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
+        pts = [dw.toPoints(crds[1]), dw.toPoints(crds[0])];
+    addFoto({
+      id:'img', href: this.src, preserveAspectRatio:'none', cursor:'pointer',
+      x: pts[1][0], y: pts[1][1], width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1]
+    });
+    document.title = 'Фотки / Сайт Григория Еремина - ' + this.title;
+    document.getElementById('foto_header').innerHTML = this.title;
+  };
+
+  loadScript({url: '/fotki/index.js'}, function(p){
+    for(var k in SUBJ){
+//      [0, 'https://ia.wampi.ru/2020/12/11/elka.jpg', 'Елка новогодняя. Декабрь 2020г.'],
+      var falb = TITLES.filter(function(f){ return (f[0] == k); });
+      document.getElementById('albumlist').innerHTML +=
+    '<option value="'+k+'"'+(k == TITLES[0][0] ? ' selected ' : '')+'>'+
+      SUBJ[k][0]+' ('+falb.length+')'+
+    '</option>';
+    }
+    document.getElementById('albumlist').onchange = function(){
+      var opt = this.options[this.selectedIndex],
+          urls = TITLES.filter(function(a){ return a[0] == opt.value; });
+      document.getElementById('mlist').innerHTML = '';
+      for(var i in urls) {
+        document.getElementById('mlist').innerHTML += 
+      '<div id="av'+i+'" style="text-align:center;">'+
+        '<img class="hspace1" src="/static/img/loader.gif" style="padding:35px;">'+
+      '</div>';
+        var im = document.createElement('img');
+        im.style.padding = '1px 0';
+        im.style.cursor = 'pointer';
+//        im.width = 100;
+        im.alt = i;
+        im.fullsrc = ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/'+ urls[i][2];
+        im.src = ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/_th/'+ urls[i][2].substr(0, urls[i][2].lastIndexOf('.'))+ '.jpeg';
+        im.title = urls[i][2].substr(0, urls[i][2].lastIndexOf('.'));
+        im.onclick = function(){
+          addLoader();
+          img.src = this.fullsrc; 
+          img.title = this.title;
+        };
+        if(i==0) im.click();
+        im.onload = function(){ 
+          document.getElementById('av' + this.alt).innerHTML = '';
+          document.getElementById('av' + this.alt).appendChild(this);
+        };
+      }
+    }
+    document.getElementById('albumlist').onchange();
+  });
+  
+</script>
+<script src='/static/js/metrics.js'></script>
+</body>
+</html>
