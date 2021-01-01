@@ -41,9 +41,9 @@ for root, dirs, files in os.walk(path, topdown=False):
       ftime = os.path.getmtime(os.path.join(root, name))
       im = Image.open(os.path.join(root, name))
       im.thumbnail((100,100))
-      if not os.path.exists(os.path.join(root, '_th')):
-        os.mkdir(os.path.join(root, '_th'))
-      im.save(os.path.join(root, '_th', fname+'.jpeg') , "JPEG")
+      if not os.path.exists(os.path.join(root, 'th')):
+        os.mkdir(os.path.join(root, 'th'))
+      im.save(os.path.join(root, 'th', fname+'.jpeg') , "JPEG")
     elif cwd in ('books','posts','songs') and ext in ('.txt'):
       ftime = os.path.getmtime(os.path.join(root, name))
       if fname != 'about':
