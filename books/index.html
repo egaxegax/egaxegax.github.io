@@ -116,7 +116,7 @@
         per_page = 100;
       }else if(p == 'page' && urlParams().page){
         // skip paginator
-      } else if(pp.length>1){ // wrt + book = book text
+      }else if(pp.length>1){ // wrt + book = book text
         books = books.filter(function(tit){ return (tr(wrts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by wrt+title
         if(books.length){
           page_view = 'book';
