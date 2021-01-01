@@ -71,7 +71,7 @@
         subjects = SUBJ,
         posts = TITLES;
     for(var p in urlParams()){
-      if(p == 'find'){ // search list
+      if(p == 'find' && urlParams().find){ // search list
         posts = posts.filter(function(tit){ 
           return subjects[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
