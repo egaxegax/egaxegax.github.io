@@ -162,7 +162,7 @@ img.av { width: 70px; margin-right: 5px; }
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(p == 'find'){ // search list
+      if(p == 'find' && urlParams().find){ // search list
         songs = songs.filter(function(tit){ 
           return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
@@ -175,6 +175,8 @@ img.av { width: 70px; margin-right: 5px; }
           document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
         }
         per_page = 100;
+      }else if(p == 'page' && urlParams().page){
+        // skip paginator
       }else if(pp.length>1){ // art + song = song text
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by art+title
         if(songs.length){
@@ -215,7 +217,7 @@ img.av { width: 70px; margin-right: 5px; }
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
     var page_titles = songs.slice(page_bottom, page_top);
-  
+
     for(var i=0; i<page_titles.length; i++){
       var subj = arts[page_titles[i][0]][0],
           root = roots[page_titles[i][4]][0],
