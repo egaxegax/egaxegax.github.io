@@ -88,7 +88,7 @@
 //        im.width = 100;
         im.alt = i;
         im.fullsrc = ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/'+ urls[i][2];
-        im.src = ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/_th/'+ urls[i][2].substr(0, urls[i][2].lastIndexOf('.'))+ '.jpeg';
+        im.src = ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/th/'+ urls[i][2].substr(0, urls[i][2].lastIndexOf('.'))+ '.jpeg';
         im.title = urls[i][2].substr(0, urls[i][2].lastIndexOf('.'));
         im.onclick = function(){
           addLoader();
