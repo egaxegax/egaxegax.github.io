@@ -38,7 +38,7 @@ img.av { width: 70px; margin-right: 5px; }
     if(!document.getElementById('tfind').value){
       document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
     }else{
-      window.location = '/songs/?' + urlBuild({find: document.getElementById('tfind').value});
+      window.location = '/songs/?find='+ document.getElementById('tfind').value;
     }
   }
 

@@ -40,7 +40,7 @@
     if(!document.getElementById('tfind').value){
       document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
     }else{
-      window.location = '/books/?' + urlBuild({find: document.getElementById('tfind').value});
+      window.location = '/books/?find='+ document.getElementById('tfind').value;
     }
   }
 
