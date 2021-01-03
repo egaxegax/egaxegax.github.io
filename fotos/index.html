@@ -38,10 +38,6 @@
     dw.append('image', p).setAttributeNS('http://www.w3.org/1999/xlink', 'href', p.href);
   }
 
-  function addLoader(){
-    addFoto({ id:'img', href: '/static/img/loader.gif', x: dw.centerOf()[0]-24, y: dw.centerOf(0)[1]-24 });
-  }
-
   var childs=[];
   var dw = new dbCartaSvg({
     id:'mcol',
@@ -89,7 +85,7 @@
         im.src = urls[i][1].replace('.jpg', '.th.jpg');
         im.title = urls[i][2];
         im.onclick = function(){
-          addLoader();
+          addFoto({ id:'img', href: '/static/img/loader.gif', x: dw.centerOf()[0]-24, y: dw.centerOf(0)[1]-24 });
           img.src = this.src.replace('.th.jpg', '.jpg'); 
           img.title = this.title;
         };
