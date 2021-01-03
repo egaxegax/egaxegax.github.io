@@ -1,0 +1,1 @@
+Изменил картинку *ajax*-загрузчика c ![pacman](/news/img/pacman.gif) на ![clock](/static/img/loader.gif)
