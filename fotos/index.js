@@ -5,7 +5,9 @@ ALBUMS={
   3: 'Пейзажи',
   4: 'Битцевский парк'
 };
-IMGURLS=[
+IMGURLS=[ 
+[3, 'https://ia.wampi.ru/2021/01/08/OSENNII-PRUD.jpg', 'Осенний пруд. Сентябрь 2021г.'],
+[0, 'https://ia.wampi.ru/2021/01/08/ELKA-SO-ZVEZDOI.jpg', 'Новогодняя елка со звездой. Январь 2021г.'],
 [0, 'https://ia.wampi.ru/2020/12/21/NOVOGODNYY-ELKA.jpg', 'Новогодняя елка. Декабрь 2020г.'],
 [0, 'https://ia.wampi.ru/2020/12/11/elka.jpg', 'Елка новогодняя. Декабрь 2020г.'],
 [1, 'https://ia.wampi.ru/2020/11/09/NOCNOI-ZAVOD.jpg', 'Завод ЩЛЗ в сумерках. Ноябрь 2020г.'],
@@ -19,8 +21,8 @@ IMGURLS=[
 [1, 'https://i0.wampi.ru/2020/08/16/ALLEY-V-ZAKARINO.jpg', 'Аллея в Захарьино. Июль 2017г.'],
 [1, 'https://ia.wampi.ru/2020/08/16/VESENNIE-GAZONY.jpg', 'Весенние газоны. Апрель 2020г.'],
 [1, 'https://i0.wampi.ru/2020/08/16/VYSOKAY-SOSNA-U-STANTII-BUTOVO.jpg', 'Высокая сосна у станции Бутово. Июль 2016г.'],
-[1, 'https://ia.wampi.ru/2020/08/16/DRUGOE-BOLOTTE-V-ZAKARINO.jpg', 'Болото в Захарьино'],
-[3, 'https://ia.wampi.ru/2020/08/15/KRASNYI-KLEN.jpg', 'Красный клен'],
+[1, 'https://ia.wampi.ru/2020/08/16/DRUGOE-BOLOTTE-V-ZAKARINO.jpg', 'Болото в Захарьино. Сентябрь 2017г.'],
+[3, 'https://ia.wampi.ru/2020/08/15/KRASNYI-KLEN.jpg', 'Красный клен. Сентябрь 2014г.'],
 [0, 'https://ia.wampi.ru/2020/09/28/LENINSKAY-SLOBODA-VESNOI.jpg', 'Вид на Ленинскую слободу. Апрель 2018г.'],
 [0, 'https://i0.wampi.ru/2020/08/14/KLUMBA-NA-VOSTOCNOI.jpg', 'Клумба на Восточной. Июль 2019г.'],
 [0, 'https://ia.wampi.ru/2020/08/14/STADION-TORPEDO.jpg', 'Стадион Торпедо. Октябрь 2014 г.'],
@@ -32,11 +34,11 @@ IMGURLS=[
 [1, 'https://ia.wampi.ru/2020/08/14/PRUD-U-TERKVI-4.jpg', 'Пруд у церкви в Захарьино'],
 [1, 'https://ia.wampi.ru/2020/08/14/DOROGA-U-V-ZAKARINO.jpg', 'Улица в Захарьино осенью'],
 [1, 'https://ia.wampi.ru/2020/08/14/TEPLOE-MESTO-NA-ULITE-ZDUT.jpg', 'Листья на асфальте. Октябрь 2018г.'],
-[2, 'https://ia.wampi.ru/2020/08/14/BABOCKA-NA-KRASNOM-TVETKE.jpg', 'Бабочка'],
+[2, 'https://ia.wampi.ru/2020/08/14/BABOCKA-NA-KRASNOM-TVETKE.jpg', 'Бабочка. Сентябрь 2018г.'],
 [2, 'https://i0.wampi.ru/2020/08/14/PICT0067.jpg', 'Красивое дерево в Парке Горького. Июль 2016г.'],
 [3, 'https://i0.wampi.ru/2020/08/14/STARINNYI-POEZD-NA-STANTII.jpg', 'Старый поезд в Михнево. Сентябрь 2019г.'],
-[3, 'https://ia.wampi.ru/2020/08/14/POZELTEVSII-KLEN.jpg', 'Осенний клен'],
-[3, 'https://ia.wampi.ru/2020/08/14/SOCNYE-DIKIE-YBLOCKI.jpg', 'Сочные яблочки'],
+[3, 'https://ia.wampi.ru/2020/08/14/POZELTEVSII-KLEN.jpg', 'Пожелтевший клен. Октябрь 2018г.'],
+[3, 'https://ia.wampi.ru/2020/08/14/SOCNYE-DIKIE-YBLOCKI.jpg', 'Сочные яблочки. Сентябрь 2014г.'],
 [4, 'https://i0.wampi.ru/2020/08/14/TROPA-SREDI-DUBOV-I-BEREZ.jpg', 'Осенние тропы'],
 [4, 'https://ia.wampi.ru/2020/08/14/STARYE-DUBY-2.jpg', 'Старые дубы'],
 [4, 'https://ia.wampi.ru/2020/08/14/IMG_0142.jpg', 'Осенние тропки'],
