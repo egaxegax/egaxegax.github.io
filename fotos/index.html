@@ -61,16 +61,16 @@
   };
 
   loadScript({url: '/fotos/index.js'}, function(p){
-    for(var k in ALBUMS){
-      var falb = IMGURLS.filter(function(f){ return (f[0] == k); });
+    for(var k in SUBJ){
+      var falb = TITLES.filter(function(f){ return (f[0] == k); });
       document.getElementById('albumlist').innerHTML +=
-    '<option value="'+k+'"'+(k == IMGURLS[0][0] ? ' selected ' : '')+'>'+
-      ALBUMS[k]+' ('+falb.length+')'+
+    '<option value="'+k+'"'+(k == TITLES[0][0] ? ' selected ' : '')+'>'+
+      SUBJ[k]+' ('+falb.length+')'+
     '</option>';
     }
     document.getElementById('albumlist').onchange = function(){
       var opt = this.options[this.selectedIndex],
-          urls = IMGURLS.filter(function(a){ return a[0] == opt.value; });
+          urls = TITLES.filter(function(a){ return a[0] == opt.value; });
       document.getElementById('mlist').innerHTML = '';
       for(var i in urls) {
         document.getElementById('mlist').innerHTML += 
