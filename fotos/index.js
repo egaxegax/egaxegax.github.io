@@ -7,7 +7,7 @@ SUBJ={
 };           
 TITLES=[
 [3,'https://ia.wampi.ru/2021/01/13/TVETOCEK-SINENKII.jpg', 'Цветочек синенький. Июль 2016г.'],
-[3,'https://ia.wampi.ru/2021/01/13/NA-FONE-SINEVY.jpg','На фоне синевы. Июль 2017г.']
+[3,'https://ia.wampi.ru/2021/01/13/NA-FONE-SINEVY.jpg','На фоне синевы. Июль 2017г.'],
 [2,'https://ia.wampi.ru/2021/01/12/PROSTO-NEBO.jpg', 'Синее небо. Май 2017г.'],
 [3,'https://ia.wampi.ru/2021/01/08/OSENNII-PRUD.jpg', 'Осенний пруд. Сентябрь 2021г.'],
 [0,'https://ia.wampi.ru/2021/01/08/ELKA-SO-ZVEZDOI.jpg', 'Новогодняя елка со звездой. Январь 2021г.'],
