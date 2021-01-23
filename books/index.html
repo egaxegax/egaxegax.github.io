@@ -93,7 +93,7 @@
         page_view = 'last',
         page_header = 
       '<table width="100%" class="mtext" style="padding:4px 10px"><tr>'+
-        '<td>В базе <b>$COUNT</b> описаний книг и сборников.</td>'+
+        '<td>В базе <b>$COUNT</b> описаний книг и сборников <a class="hspace" href="/books/wrts.html">Разных авторов</a></td>'+
         '<td class="find" align="right">'+
         '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         '  <input type="button" value="Найти" onclick="find()">'+
@@ -178,10 +178,6 @@
     }
 
     if (page_titles.length){
-      document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">'+
-      '<a href="/books/wrts.html">Все авторы</a>'+
-    '</p>';
       document.getElementById('page_footer').innerHTML = addPaginator(books, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 

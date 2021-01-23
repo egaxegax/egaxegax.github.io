@@ -27,7 +27,7 @@ function addNews(){
     var roots = ROOTS,
         subjects = SUBJ,
         msgs = TITLES;
-    var per_page = 7,
+    var per_page = 3,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;

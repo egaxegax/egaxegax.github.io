@@ -61,8 +61,6 @@ img.av { width: 50px; }
     '<div id="wrt'+i+'" class="wrap">'+addWrt(page_wrts[i], page_bottom+i+1)+'</div>'
     }
     if (page_wrts.length){
-      document.getElementById('page_content').innerHTML +=
-    '<p class="mtext hspace"><a href="/books">Все тексты</a></p>';
       document.getElementById('page_footer').innerHTML = addPaginator(wrts, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 

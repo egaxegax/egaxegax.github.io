@@ -41,10 +41,7 @@
       document.getElementById('page_content').innerHTML +=
     '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i], i)+'</div>'
     }
-    if (subjects.length){
-      document.getElementById('page_content').innerHTML +=
-    '<p class="mtext hspace"><a href="/posts">Все статьи</a></p>';
-    } else {
+    if (!subjects.length){
       document.getElementById('page_content').innerHTML += 
     '<p class="mtext hspace">Нет данных.</p>'+
     '<img src="/static/img/confuse.png" width="120px">';

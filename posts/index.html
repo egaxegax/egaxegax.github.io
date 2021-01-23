@@ -21,13 +21,13 @@
   document.body.innerHTML = addTemplate( 'posts' );
   document.getElementById('page_header').innerHTML = 
 '<table width="100%" class="mtext" style="padding:4px 10px"><tr>'+
-  '<td>Заметки, статьи, цитаты на самые разные темы.</td>'+
+  '<td>Заметки, статьи, цитаты на самые <a class="hspace" href="/posts/subj.html">Разные темы</a></td>'+
   '<td class="find" align="right">'+
   '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
   '  <input type="button" value="Найти" onclick="find()">'+
   '</td>'+
 '</tr></table>';
-  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
+  document.getElementById('page_content').style.minHeight = getHeightCont()-60+'px';
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -93,7 +93,7 @@
       }
     }
 
-    var per_page = 10,
+    var per_page = 1,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
@@ -119,8 +119,6 @@
     }
 
     if (page_titles.length){
-      document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace"><a href="/posts/subj.html">Все темы</a></p>';
       document.getElementById('page_footer').innerHTML = addPaginator(posts, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
