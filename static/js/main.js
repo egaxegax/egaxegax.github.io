@@ -128,14 +128,14 @@ function addPaginator(list, per_page, page_num){
 :
   ''))+
 '</span>'+
-'</p>';
+'</p><br>';
   return (has_previous || has_next) ? root : '';
 }
 //
 // Get height of content
 //
 function getHeightCont(){
-  return (window.innerHeight - document.getElementById('header').offsetHeight*2 - document.getElementById('footer').offsetHeight);
+  return (window.innerHeight - document.getElementById('header').offsetHeight*2 - document.getElementById('page_footer').offsetHeight - document.getElementById('footer').offsetHeight);
 }
 //
 // Build date from ymdhms

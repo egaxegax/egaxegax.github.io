@@ -20,14 +20,15 @@
 
   document.body.innerHTML = addTemplate( 'posts' );
   document.getElementById('page_header').innerHTML = 
-'<table width="100%" class="mtext" style="padding:4px 10px"><tr>'+
+'<table width="100%" class="mtext" style="padding:5px 10px"><tr>'+
   '<td>Заметки, статьи, цитаты на самые <a class="hspace" href="/posts/subj.html">Разные темы</a></td>'+
   '<td class="find" align="right">'+
   '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
   '  <input type="button" value="Найти" onclick="find()">'+
   '</td>'+
 '</tr></table>';
-  document.getElementById('page_content').style.minHeight = getHeightCont()-60+'px';
+  document.getElementById('page_footer').innerHTML = '<br><br><br><br>';
+  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
 
   function find(){
     if(!document.getElementById('tfind').value){
