@@ -154,7 +154,7 @@ img.av { width: 70px; margin-right: 5px; }
         page_view = 'last',
         page_header = 
       '<table width="100%" class="mtext" style="padding:5px 10px"><tr>'+
-        '<td>В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов.</td>'+
+        '<td>В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов<a class="hspace" href="/songs/arts.html">Разных авторов</a></td>'+
         '<td class="find" align="right">'+
         '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         '  <input type="button" value="Найти" onclick="find()">'+
@@ -239,15 +239,6 @@ img.av { width: 70px; margin-right: 5px; }
     }
 
     if (page_titles.length){
-      document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">'+
-      '<a href="/songs/arts.html">Все авторы</a>'+
-      '<span class="hspace1"></span>'+
-      '<a class="hspace" href="/posts/?t=65">Аккорды</a>'+
-      '<a class="hspace" href="/posts/?t=110">Тональности</a>'+
-      '<a class="hspace" href="/posts/?t=64">Переборы</a>'+
-      '<a class="hspace" href="/posts/?t=63">Бои</a>'+
-    '</p>';
       document.getElementById('page_footer').innerHTML = addPaginator(songs, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
