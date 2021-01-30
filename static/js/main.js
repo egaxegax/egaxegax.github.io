@@ -170,3 +170,13 @@ function tr(s){
 
   return tr.join('').toLowerCase();
 }
+//
+// Array sort function from https://www.zachleat.com/web/array-sort/
+//
+function arraySort(aa,bb){
+  var a=( ''+aa ).toLowerCase(),
+      b=( ''+bb ).toLowerCase();
+  if(a > b) return 1;
+  if(a < b) return -1;
+  return 0;
+}

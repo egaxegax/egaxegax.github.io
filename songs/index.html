@@ -16,7 +16,7 @@
 .about img { max-height: 160px; }
 .chords { line-height: 1.3em; }
 .chords b { font-weight: 500; color: #5645ad; }
-img.av { width: 70px; margin-right: 5px; }
+img.av { width: 100%; height: auto; }
 </style>
 <script src='/static/js/updater.js'></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
@@ -46,12 +46,12 @@ img.av { width: 70px; margin-right: 5px; }
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext" width="99%"><tr>'+
     '<td id="im'+p.id+'"></td>'+
-    '<td width="90%">'+
+    '<td width="88%" class="hspaced">'+
       '<a class="nodecor pink" href="/songs/?'+tr(p.subj)+'"> '+p.subj+' </a>'+
       '<a class="nodecor" href="/songs/?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
-      '<div class="hspace gray smaller">'+buildDate(p.title[3])+'</div>'+
+      '<div class="hspace1 gray smaller">'+buildDate(p.title[3])+'</div>'+
     '</td>'+
-    '<td valign="center" align="right" class="lightgray">'+(p.i+1)+'</td></tr>'+
+    '<td valign="center" align="right" class="lightgray" width="5%">'+(p.i+1)+'</td></tr>'+
   '</table>';
     var img = new Image();
     img.className = "rounded av";
@@ -167,7 +167,7 @@ img.av { width: 70px; margin-right: 5px; }
           return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        songs = songs.sort(function(a,b){ return a[2]>b[2]; }); // sort by title
+        songs = songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         if(songs.length){ 
           page_view = 'last';
           page_header = 
@@ -193,7 +193,7 @@ img.av { width: 70px; margin-right: 5px; }
         }
       }else if(pp.length>0){ // art songs list
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0]) == pp[0]); }); // filter by art
-        songs = songs.sort(function(a,b){ return a[2]>b[2]; }); // sort by title
+        songs = songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         if(songs.length){ 
           page_view = 'list';
           page_header = 

@@ -78,7 +78,7 @@
           return subjects[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        posts = posts.sort(function(a,b){ return a[2]>b[2]; }); // sort by title
+        posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         document.getElementById('page_header').innerHTML =
       '<p class="mtext hspace">'+
         'Найдено <b>'+ posts.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i>'+

@@ -106,7 +106,7 @@
           return wrts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        books = books.sort(function(a,b){ return a[2]>b[2]; });
+        books = books.sort(function(a,b){ return arraySort(a[2],b[2]); });
         if(books.length){ 
           page_view = 'last';
           page_header = 
@@ -132,7 +132,7 @@
         }
       }else if(pp.length>0){ // wrt books list
         books = books.filter(function(tit){ return (tr(wrts[tit[0]][0]) == pp[0]); }); // filter by art
-        books = books.sort(function(a,b){ return a[2]>b[2]; });
+        books = books.sort(function(a,b){ return arraySort(a[2],b[2]); });
         if(books.length){ 
           page_view = 'list';
           page_header = 

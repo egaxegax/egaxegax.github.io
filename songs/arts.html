@@ -11,7 +11,7 @@
 <link rel='icon' href='/favicon.svg' type='image/svg'>
 <link rel='stylesheet' href='/static/css/main.css'>
 <style>
-img.av { width: 50px; }
+img.av { width: 100%; height: auto; }
 </style>
 <script src='/static/js/updater.js'></script>
 <script src='/static/js/main.js'></script>
@@ -27,10 +27,8 @@ img.av { width: 50px; }
   function addArt(art,i){
     var tmpl = 
   '<table class="msgtext" width="99%"><tr>'+
-    '<td width="1%" id="im'+i+'"></td>'+
-    '<td align="left">'+
-      '<a class="nodecor" href="/songs/?'+tr(art[0])+'">'+art[0]+'</a>'+
-    '</td>'+
+    '<td width="7%" id="im'+i+'"></td>'+
+    '<td class="hspaced"><a class="nodecor" href="/songs/?'+tr(art[0])+'">'+art[0]+'</a></td>'+
     '<td width="20%" valign="center" align="left"><b>'+art[1]+'</b></td>'+
     '<td width="10%" valign="center" align="right" class="lightgray">'+i+'</td></tr>'+
   '</table>';
@@ -46,7 +44,7 @@ img.av { width: 50px; }
         songs = TITLES;
     document.getElementById('page_header').innerHTML = 
   '<p class="mtext hspace">Найдено <b>'+arts.length+'</b> авторов и <b>'+songs.length+'</b> текстов </p>';
-    arts = arts.slice().sort(function(a,b){ return a[0]>b[0]; });
+    arts = arts.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     var per_page = 100,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
