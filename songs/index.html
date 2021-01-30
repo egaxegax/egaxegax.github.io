@@ -155,10 +155,10 @@ img.av { width: 70px; margin-right: 5px; }
         page_header = 
       '<table width="100%" class="mtext" style="padding:5px 10px"><tr>'+
         '<td>В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов<a class="hspace" href="/songs/arts.html">Разных авторов</a></td>'+
-        '<td class="find" align="right">'+
-        '  <input id="tfind" maxlength="100" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        '  <input type="button" value="Найти" onclick="find()">'+
-        '</td>'+
+        '<td align="right">'+
+          '<input id="tfind" maxlength="100" size="4" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
+        '<td width="1%">'+
+          '<input type="button" value="Найти" onclick="find()"></td>'+
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -242,7 +242,7 @@ img.av { width: 70px; margin-right: 5px; }
       document.getElementById('page_footer').innerHTML = addPaginator(songs, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">Нет данных.</p>'+
+    '<p class="mtext hspace">Нет данных</p>'+
     '<img src="/static/img/confuse.png" width="120px">';
     }
   });
