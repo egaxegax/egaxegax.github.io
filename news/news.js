@@ -4,7 +4,7 @@
 function addMsg(r, p){
   var converter = new showdown.Converter(),
       text = r
-        .replace(/\/photos\//g, '/fotos/')
+        .replace(/\/photos\//g, '/fotki/')
         .replace(/\r\r\n/g, '\n')
         .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
         .replace(/\{: class=rounded :\}/g, ''),

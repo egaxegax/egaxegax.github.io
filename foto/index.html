@@ -17,7 +17,7 @@
 <body>
 <script type='text/javascript'>
 
-  document.body.innerHTML = addTemplate( 'fotos' );
+  document.body.innerHTML = addTemplate( 'fotki' );
   document.getElementById('page_header').innerHTML = 
 '<table width="99%" class="mtext" style="padding:5px 10px"><tr>'+
   '<td id="foto_header">Подборка фото, снятых на телефон, о природе, местах, людях.</td>'+
@@ -26,8 +26,8 @@
   document.getElementById('page_content').innerHTML = 
 '<div class="wrap">'+
   '<table cellspacing=0 cellpadding=0 width="100%"><tr>'+
-  '<td id="mcol" style="padding:0; vertical-align:middle"></td>'+
-  '<td width="125px" align="center" style="padding:0 0 0 1px; vertical-align:top">'+
+  '<td id="mcol" colspan="10" style="padding:0; vertical-align:middle"></td>'+
+  '<td width="125px" style="padding:0 0 0 1px; vertical-align:top">'+
     '<div id="mlist" style="overflow:auto; height:'+(document.getElementById('content').offsetHeight-20)+'px'+'"></div></td>'+
   '</tr></table>'+
 '</div>';
@@ -60,12 +60,13 @@
     document.getElementById('foto_header').innerHTML = this.title;
   };
 
-  loadScript({url: '/fotos/index.js'}, function(p){
+  loadScript({url: '/foto/index.js'}, function(p){
     for(var k in SUBJ){
+//      [0, 'https://ia.wampi.ru/2020/12/11/elka.jpg', 'Елка новогодняя. Декабрь 2020г.'],
       var falb = TITLES.filter(function(f){ return (f[0] == k); });
       document.getElementById('albumlist').innerHTML +=
     '<option value="'+k+'"'+(k == TITLES[0][0] ? ' selected ' : '')+'>'+
-      SUBJ[k]+' ('+falb.length+')'+
+      SUBJ[k][0]+' ('+falb.length+')'+
     '</option>';
     }
     document.getElementById('albumlist').onchange = function(){
@@ -74,19 +75,20 @@
       document.getElementById('mlist').innerHTML = '';
       for(var i in urls) {
         document.getElementById('mlist').innerHTML += 
-      '<div id="av'+i+'">'+
+      '<div id="av'+i+'" style="text-align:center;">'+
         '<img class="hspace1" src="/static/img/loader.gif" style="padding:35px;">'+
       '</div>';
         var im = document.createElement('img');
         im.style.padding = '1px 0';
         im.style.cursor = 'pointer';
-        im.width = 100;
+//        im.width = 100;
         im.alt = i;
-        im.src = urls[i][1].replace('.jpg', '.th.jpg');
-        im.title = urls[i][2];
+        im.fullsrc = ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/'+ urls[i][2];
+        im.src = ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/th/'+ urls[i][2].substr(0, urls[i][2].lastIndexOf('.'))+ '.jpeg';
+        im.title = urls[i][2].substr(0, urls[i][2].lastIndexOf('.'));
         im.onclick = function(){
           addFoto({ id:'img', href: '/static/img/loader.gif', x: dw.centerOf()[0]-24, y: dw.centerOf(0)[1]-24 });
-          img.src = this.src.replace('.th.jpg', '.jpg'); 
+          img.src = this.fullsrc; 
           img.title = this.title;
         };
         if(i==0) im.click();

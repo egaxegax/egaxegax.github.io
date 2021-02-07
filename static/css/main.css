@@ -57,6 +57,6 @@ a.nodecor img { border:0px none; padding:0px; }
 body { margin:0; font-family:tahoma,verdana,arial; font-weight:400; font-size:16px; background-color:#fff; color:#222; }
 h2 { font-size:150%; font-family:tahoma,verdana,arial; font-weight:normal; padding:0 0 0 20px; }
 h3 { font-weight:normal; margin-top:5px; }
-html,body{margin:0;padding:0;width:100%;height:99%}
-#main { margin:4px auto 0px auto; height:100%; border:0px solid gray; }
+html,body{margin:0;padding:0;width:100%;height:100%}
+#main { margin:0px auto 0px auto; height:100%; border:0px solid gray; }
 #page_content { width:960px; overflow:auto; }
