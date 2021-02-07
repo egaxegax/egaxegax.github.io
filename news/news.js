@@ -32,6 +32,7 @@ function addNews(){
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
     var page_titles = msgs.slice(page_bottom, page_top);
+    document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page_titles.length; i++){
       var subj = subjects[ parseInt(page_titles[i][0]) ][0], // skip lead 0
           root = roots[page_titles[i][4]][0],
@@ -50,7 +51,7 @@ function addNews(){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">Нет данных.</p>'+
+    '<p class="mtext hspace">Нет данных </p>'+
     '<img src="/static/img/confuse.png" width="120px">';
     }
   });

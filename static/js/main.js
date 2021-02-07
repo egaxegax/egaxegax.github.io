@@ -3,7 +3,8 @@
 //
 function addTemplate(item){
   var tmpl = 
-'<div id="header" class="wrapbg">'+
+'<table id="main"><tr height="1%">'+
+'<td id="header" class="wrapbg">'+
   '<ul class="nomarg mtext">'+
   '<li id="about" class="inl '+(item === 'about' ? ' wrap3' : '')+'">'+
 '<svg width="120" height="80" xmlns="http://www.w3.org/2000/svg">'+
@@ -73,27 +74,25 @@ function addTemplate(item){
 '</a></svg>'+
   '</li>'+
   '</ul>'+
-'</div>'+
-'<div id="page_header"></div>'+
-'<div id="page_content"></div>'+
-'<div id="page_footer"></div>'+
-'<div id="footer">'+
-  '<table width="100%" style="white-space: nowrap;"><tr>'+
-  '<td width="50%" align="right"></td>'+
-  '<td id="livecounter" class="hspace">'+
+'</td></tr><tr height="1%">'+
+'<td id="page_header" valign="top"></td></tr><tr>'+
+'<td id="content" valign="top">'+
+  '<div id="page_content"></div>'+
+'</td></tr><tr height="1%">'+
+'<td id="page_footer"></td></tr><tr height="1%">'+
+'<td id="footer" align="center">'+
+  '<div id="livecounter" class="hspace inl">'+
     '<a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="88" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a>'+
-  '</td>'+
-  '<td id="yacounter" class="hspace">'+
+  '</div>'+
+  '<div id="yacounter" class="hspace inl">'+
     '<a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a>'+
-  '</td>'+
-  '<td class="hspace">'+
-    '<div class="share42init" data-path="/static/img/" data-icons-file="share42.png"></div>'+
-  '</td>'+
-  '<td width="50%" align="left">'+
-    '<a href="/about">egaxegax</a> © 2011-2020</td>'+
-  '</tr></table>'+
-'</div>'+
-'</div>';
+  '</div>'+
+  '<div class="hspace inl share42init" data-path="/static/img/" data-icons-file="share42.png"></div>'+
+  '<div width="50%" class="inl">'+
+    '<a href="/about">egaxegax</a><span class="hspace1"> © 2011-2020 </span>'+
+  '</div>'+
+'</td></tr>'+
+'</table>';
   return tmpl;
 }
 //
@@ -130,12 +129,6 @@ function addPaginator(list, per_page, page_num){
 '</span>'+
 '</p><br>';
   return (has_previous || has_next) ? root : '';
-}
-//
-// Get height of content
-//
-function getHeightCont(){
-  return (window.innerHeight - document.getElementById('header').offsetHeight*2 - document.getElementById('page_footer').offsetHeight - document.getElementById('footer').offsetHeight);
 }
 //
 // Build date from ymdhms

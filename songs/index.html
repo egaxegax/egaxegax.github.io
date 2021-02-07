@@ -32,7 +32,6 @@ img.av { width: 100%; height: auto; }
 '<p class="mtext hspace">Подборка текстов песен с аккордами и просто стихов.</p>';
   document.getElementById('page_content').innerHTML =
 '<img class="hspace1" src="/static/img/loader.gif">';
-  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -154,7 +153,7 @@ img.av { width: 100%; height: auto; }
         page_view = 'last',
         page_header = 
       '<table width="100%" class="mtext" style="padding:5px 10px"><tr>'+
-        '<td>В базе <b>$COUNT</b> текстов песен с аккордами и просто стихов<a class="hspace" href="/songs/arts.html">Разных авторов</a></td>'+
+        '<td>На сайте <b>$COUNT</b> текстов <a class="hspace" href="/songs/arts.html">Разных авторов</a></td>'+
         '<td align="right">'+
           '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
         '<td width="1%">'+
@@ -237,7 +236,6 @@ img.av { width: 100%; height: auto; }
         }
       });
     }
-
     if (page_titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(songs, per_page, page_num);
     } else {

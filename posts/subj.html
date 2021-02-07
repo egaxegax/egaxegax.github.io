@@ -19,7 +19,8 @@
   document.body.innerHTML = addTemplate( 'posts' );
   document.getElementById('page_header').innerHTML = 
 '<p class="mtext hspace">Выберите одну из тем статей: </p>';
-  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
+  document.getElementById('page_content').innerHTML =
+'<img class="hspace1" src="/static/img/loader.gif">';
 
   function addSubj(subj, i){
     var tmpl = 
@@ -37,8 +38,9 @@
 
   loadScript({url: '/posts/index.js'}, function(p){
     var subjects = SUBJ;
+    document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<subjects.length; i++){
-      document.getElementById('page_content').innerHTML +=
+      document.getElementById('page_content').innerHTML += 
     '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i], i)+'</div>'
     }
     if (!subjects.length){

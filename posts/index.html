@@ -20,16 +20,9 @@
 
   document.body.innerHTML = addTemplate( 'posts' );
   document.getElementById('page_header').innerHTML = 
-'<table width="100%" class="mtext" style="padding:5px 10px"><tr>'+
-  '<td>Заметки, статьи, цитаты на самые <a class="hspace" href="/posts/subj.html">Разные темы</a></td>'+
-  '<td align="right">'+
-    '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
-  '<td width="1%">'+
-    '<input type="button" value="Найти" onclick="find()"></td>'+
-'</tr></table>';
-
-  document.getElementById('page_footer').innerHTML = '<br><br><br><br>';
-  document.getElementById('page_content').style.minHeight = getHeightCont()+'px';
+'<p class="mtext hspace">Заметки, статьи, цитаты на самые разные темы.</p>';
+  document.getElementById('page_content').innerHTML =
+'<img class="hspace1" src="/static/img/loader.gif">';
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -71,7 +64,15 @@
   loadScript({url: '/posts/index.js'}, function(p){
     var roots = ROOTS,
         subjects = SUBJ,
-        posts = TITLES;
+        posts = TITLES,
+        page_header = 
+    '<table width="100%" class="mtext" style="padding:5px 10px"><tr>'+
+      '<td>Заметки, статьи, цитаты на самые <a class="hspace" href="/posts/subj.html">Разные темы</a></td>'+
+      '<td align="right">'+
+        '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
+      '<td width="1%">'+
+        '<input type="button" value="Найти" onclick="find()"></td>'+
+    '</tr></table>';
     for(var p in urlParams()){
       if(p == 'find' && urlParams().find){ // search list
         posts = posts.filter(function(tit){ 
@@ -79,7 +80,7 @@
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
         posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        document.getElementById('page_header').innerHTML =
+        page_header =
       '<p class="mtext hspace">'+
         'Найдено <b>'+ posts.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i>'+
       '</p>';
@@ -100,6 +101,9 @@
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
     var page_titles = posts.slice(page_bottom, page_top);
+
+    document.getElementById('page_header').innerHTML = page_header;
+    document.getElementById('page_content').innerHTML = '';
 
     for(var i=0; i<page_titles.length; i++){
       var subj = subjects[ page_titles[i][0] ][0],
