@@ -78,8 +78,8 @@ function addTemplate(item){
 '<td id="page_header" valign="top"></td></tr><tr>'+
 '<td id="content" valign="top">'+
   '<div id="page_content"></div>'+
-'</td></tr><tr height="10%">'+
-'<td id="page_footer" valign="top"></td></tr><tr height="5%">'+
+'</td></tr><tr height="1%">'+
+'<td id="page_footer" valign="top"></td></tr><tr height="1%">'+
 '<td id="footer" align="left" valign="top">'+
   '<table width="100%"><tr>'+
   '<td width="20%" align="center"> © 2011-2021 </td>'+
