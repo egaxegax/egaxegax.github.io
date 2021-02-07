@@ -88,9 +88,7 @@ function addTemplate(item){
     '<a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a>'+
   '</div>'+
   '<div class="hspace inl share42init" data-path="/static/img/" data-icons-file="share42.png"></div>'+
-  '<div width="50%" class="inl">'+
-    '<a href="/about">egaxegax</a><span class="hspace1"> © 2011-2020 </span>'+
-  '</div>'+
+  '<a href="/about">egaxegax</a><span class="hspace1"> © 2011-2021 </span>'+
 '</td></tr>'+
 '</table>';
   return tmpl;
