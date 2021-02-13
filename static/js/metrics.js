@@ -3,7 +3,7 @@
 //
 if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
 { // liveinternet metrics
-  (function(d,s){d.getElementById("licntADF8").src="//counter.yadro.ru/hit?t18.5;r"+escape(d.referrer)+
+  (function(d,s){d.getElementById("licntADF8").src="//counter.yadro.ru/hit?t45.12;r"+escape(d.referrer)+
   ((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
   ";h"+escape(d.title.substring(0,150))+";"+Math.random()})(document,screen);
 }

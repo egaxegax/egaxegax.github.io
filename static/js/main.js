@@ -83,7 +83,7 @@ function addTemplate(item){
 '<td id="footer" align="left" valign="top">'+
   '<table width="100%"><tr>'+
   '<td id="livecounter" width="10%" align="right">'+
-    '<a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="88" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a>'+
+    '<a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a>'+
   '</td>'+
   '<td id="yacounter" width="10%" align="right">'+
     '<a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a>'+
