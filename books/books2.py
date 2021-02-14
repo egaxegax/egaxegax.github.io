@@ -50,7 +50,7 @@ for root, dirs, files in os.walk(path, topdown=False):
           if subj: subj = subj[0]
           else:    subj = 'other'
 
-          fp = os.path.join('out', subj.strip(), writer.strip())
+          fp = os.path.join('out', subj.strip(), re.sub('\s+', ' ', writer.strip()))
           for s in '<>:"/\|?*':
             tit = tit.strip().replace(s,'')
           ftime = os.path.getmtime(os.path.join(root, name))

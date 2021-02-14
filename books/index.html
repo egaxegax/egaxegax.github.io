@@ -52,11 +52,11 @@
     '<td width="90%" valign="top">'+
       '<p>'+
         '<a class="nodecor" href="/books/?'+tr(p.subj)+'">'+p.subj+'</a>'+
-        '<a class="nodecor hspace gray" href="/books/?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
+        '<a class="nodecor hspace gray" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> '+p.title[2]+' </a>'+
       '</p>'+
       '<p class="smaller gray">Жанр: <a class="nodecor">'+(GENRES[p.root]||p.root)+'</a></p>'+
       '<p class="">'+
-        (!isNaN(ci) && r.length>512 ? r.slice(0,512)+'... '+
+        (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
           '<a class="nodecor hspace smaller" href="/books/?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё&nbsp;› </a>'
         :r)+
       '</p>'+
