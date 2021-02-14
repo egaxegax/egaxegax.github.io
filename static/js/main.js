@@ -82,7 +82,7 @@ function addTemplate(item){
 '<td id="page_footer" valign="top"></td></tr><tr height="1%">'+
 '<td id="footer" align="left" valign="top">'+
   '<table width="100%"><tr>'+
-  '<td id="livecounter" width="10%" align="right">'+
+  '<td id="livecounter" width="5%" align="right">'+
     '<a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a>'+
   '</td>'+
   '<td id="yacounter" width="10%" align="right">'+
