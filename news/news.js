@@ -51,7 +51,7 @@ function addNews(){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, per_page, page_num);
     } else {
       document.getElementById('page_content').innerHTML += 
-    '<p class="mtext hspace">Нет данных </p>'+addImgConfuse();
+    '<div class="mtext hspace">Нет данных </div>'+addImgConfuse();
     }
   });
 }
