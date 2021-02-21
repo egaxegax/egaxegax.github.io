@@ -1,12 +1,16 @@
-#!python3
+#!/usr/bin/python
 #
-# list files and folders to index.js
+# List sorted files from PATH to index.js with COMMIT git commt+push action if passed.
 #
-#   ROOTS  = [name,count,last_time]
-#   SUBJ   = [name,count,last_time]
-#   TITLES = [subj_index,desc_sort_index,name,last_time,root_index]
+#   ROOTS  = [name,count,lasttime] = root dir
+#   SUBJ   = [name,count,lasttime] = subject dir
+#   TITLES = [subjkey,sortkey,name,lasttime,rootkey] = files in subj. dir
 #
-# index.py <path_to_files>
+# python index.py PATH COMMIT
+#
+#   PATH = news|posts|songs|books
+#   COMMIT = [0|1] git commit+push (optional)
+#
 
 import sys, os, time, json, re
 import linecache
