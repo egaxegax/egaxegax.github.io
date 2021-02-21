@@ -12,8 +12,12 @@
 #   COMMIT = [0|1] git commit+push (optional)
 #
 
-import sys, os, time, json, re
+import json
 import linecache
+import re
+import os
+import sys
+import time
 from PIL import Image
 
 def E_OS(text):
