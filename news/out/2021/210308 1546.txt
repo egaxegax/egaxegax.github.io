@@ -1,7 +1,7 @@
 
 <table border=0>
 <tr>
-<td><img src="/news/img/DK-SNES.jpg" alt="Donkey Kong"></td>
+<td><img src="/news/img/DK-SNES.jpg" alt="DonkeyKong"></td>
 <td><img src="/news/img/Cliffhanger-SNES.jpg" alt="Cliffhanger"></td>
 <td><img src="/news/img/Contra-NES.jpg" alt="Contra"></td>
 </tr>
@@ -12,4 +12,4 @@
 
 Запуск игры (рома) из консоли после установки в Linux:
     
-    mednafen ~/Загрузки/roms/Cliffhanger\ \(USA\).sfc
+    mednafen ~/Загрузки/roms/Contra.nes
