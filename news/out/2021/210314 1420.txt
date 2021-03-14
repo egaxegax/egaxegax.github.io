@@ -1,0 +1,11 @@
+
+<table border=0>
+<tr>
+<td><img src="/news/img/ff-SNES.jpg" alt="Final Fight"></td>
+<td><img src="/news/img/ff2-SNES.jpg" alt="Final Fight 2"></td>
+<td><img src="/news/img/ff3-SNES.jpg" alt="Final Fight 3"></td>
+</tr>
+</table>
+
+Легендарная серия игр про уличные драки ***Final Fight 1,2,3*** в эмуляторе [Mednafen](https://mednafen.github.io).
+Популярной игра стала на игровых автоматах в начале 90-х и затем вышла на игровых приставках.
