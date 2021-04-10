@@ -8,7 +8,7 @@
 #
 # python index.py PATH COMMIT
 #
-#   PATH = news|posts|songs|books
+#   PATH = vesti|posts|songs|books
 #   COMMIT = [0|1] git commit+push (optional)
 #
 
