@@ -1,9 +1,9 @@
 
 <table border=0>
 <tr>
-<td><img src="/news/img/Battletoads-SNES.jpg" alt="Battletoads"></td>
-<td><img src="/news/img/Contra3-SNES.jpg" alt="Contra3"></td>
-<td><img src="/news/img/Jim2-SNES.jpg" alt="Jim2"></td>
+<td><img src="/vesti/img/Battletoads-SNES.jpg" alt="Battletoads"></td>
+<td><img src="/vesti/img/Contra3-SNES.jpg" alt="Contra3"></td>
+<td><img src="/vesti/img/Jim2-SNES.jpg" alt="Jim2"></td>
 </tr>
 </table>
 

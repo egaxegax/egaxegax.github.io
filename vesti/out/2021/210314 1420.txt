@@ -1,9 +1,9 @@
 
 <table border=0>
 <tr>
-<td><img src="/news/img/ff-SNES.jpg" alt="Final Fight"></td>
-<td><img src="/news/img/ff2-SNES.jpg" alt="Final Fight 2"></td>
-<td><img src="/news/img/ff3-SNES.jpg" alt="Final Fight 3"></td>
+<td><img src="/vesti/img/ff-SNES.jpg" alt="Final Fight"></td>
+<td><img src="/vesti/img/ff2-SNES.jpg" alt="Final Fight 2"></td>
+<td><img src="/vesti/img/ff3-SNES.jpg" alt="Final Fight 3"></td>
 </tr>
 </table>
 

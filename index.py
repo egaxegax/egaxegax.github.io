@@ -42,7 +42,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     title = E_OS(fname)
     cwd = os.path.basename(os.getcwd())
 
-    if cwd in ('news') and ext in ('.txt'):
+    if cwd in ('vesti') and ext in ('.txt'):
       ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
     elif cwd in ('fotki') and ext.lower() in ('.jpg'):
       title = E_OS(name)

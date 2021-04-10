@@ -1,9 +1,9 @@
 
 <table border=0>
 <tr>
-<td><img src="/news/img/DK-SNES.jpg" alt="DonkeyKong"></td>
-<td><img src="/news/img/Cliffhanger-SNES.jpg" alt="Cliffhanger"></td>
-<td><img src="/news/img/Contra-NES.jpg" alt="Contra"></td>
+<td><img src="/vesti/img/DK-SNES.jpg" alt="DonkeyKong"></td>
+<td><img src="/vesti/img/Cliffhanger-SNES.jpg" alt="Cliffhanger"></td>
+<td><img src="/vesti/img/Contra-NES.jpg" alt="Contra"></td>
 </tr>
 </table>
 
