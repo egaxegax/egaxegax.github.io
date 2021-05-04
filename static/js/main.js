@@ -108,10 +108,10 @@ function addPaginator(list, per_page, page_num){
   var root = 
 '<p class="mtext cfloat">'+
 (has_previous ? 
-  '<a class="nodecor hspace2" href="?'+urlBuild({page: previous_page_number})+'">⟵ &nbsp; Назад</a>'
+  '<a class="nodecor hspace2" href="?'+urlBuild({page: previous_page_number})+'">&larr; &nbsp; Назад</a>'
 : 
 (has_next ? 
-  '<span class="hspace2 lightgray">⟵ &nbsp; Назад</span>'
+  '<span class="hspace2 lightgray">&larr; &nbsp; Назад</span>'
 : 
   ''))+
 (num_pages > 1 ?
@@ -119,10 +119,10 @@ function addPaginator(list, per_page, page_num){
 :
   '')+
 (has_next ? 
-  '<a class="nodecor hspace2" href="?'+urlBuild({page: next_page_number})+'">Далее &nbsp; ⟶</a>'
+  '<a class="nodecor hspace2" href="?'+urlBuild({page: next_page_number})+'">Далее &nbsp; &rarr;</a>'
 :
 (has_previous ?
-  '<span class="hspace2 lightgray">Далее &nbsp; ⟶</span>'
+  '<span class="hspace2 lightgray">Далее &nbsp; &rarr;</span>'
 :
   ''))+
 '</p>';
