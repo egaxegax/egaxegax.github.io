@@ -1,1 +1,1 @@
-Добавил линию МКАД на href="/dbcartajs/svg/mosmetro.html">карте метро</a> Москвы. 
+Добавил линию МКАД на <a href="/dbcartajs/svg/mosmetro.html">карте метро</a> Москвы. 
