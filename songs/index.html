@@ -61,7 +61,7 @@ img.av { width: 100%; height: auto; }
   function addList(r,p){
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
-      if(meta[j].name == 'description' && p.if) meta[j].content = p.subj+', список текстов';
+      if(meta[j].name == 'description' && p.if) meta[j].content = p.subj+', тексты песен, аккорды';
     }
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext"><tr>'+
