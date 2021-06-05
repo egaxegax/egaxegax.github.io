@@ -59,6 +59,7 @@ for root, dirs, files in os.walk(path, topdown=False):
         try: 
           ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
         except:
+          print(root, name,)
           raise
     else:
       print(name, '...skip')
