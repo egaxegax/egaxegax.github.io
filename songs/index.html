@@ -171,7 +171,7 @@ img.av { width: 100%; height: auto; }
           page_view = 'last';
           page_header = 
         '<p class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
-          document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
+          document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
       }else if(p == 'page' && urlParams().page){
@@ -187,7 +187,7 @@ img.av { width: 100%; height: auto; }
             '<span>'+songs[0][2]+'</span>'+
           '</h2>'+
         '</p>';
-          document.title += ' - ' + arts[songs[0][0]][0] + ', ' + songs[0][2];
+          document.title = arts[songs[0][0]][0] + ', ' + songs[0][2] + ' - ' + document.title;
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
         }
       }else if(pp.length>0){ // art songs list
@@ -202,7 +202,7 @@ img.av { width: 100%; height: auto; }
           '</h2>'+
           '<span class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов</span>'+
         '</p>';
-          document.title += ' - ' + arts[songs[0][0]][0] + ', песни, тексты';
+          document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
         }
         per_page = 100;
