@@ -110,7 +110,7 @@
           page_view = 'last';
           page_header = 
         '<p class="mtext hspace">Найдено <b>'+ books.length+'</b> книг по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
-          document.title += ' - ' + wrts[books[0][0]][0] + ', книги, тексты';
+          document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
         }
         per_page = 100;
       }else if(p == 'page' && urlParams().page){
@@ -126,7 +126,7 @@
             '<span>'+books[0][2]+'</span>'+
           '</h2>'+
         '</p>';
-          document.title += ' - ' + wrts[books[0][0]][0] + ', ' + books[0][2];
+          document.title = wrts[books[0][0]][0] + ', ' + books[0][2] + ' - ' + document.title;
           books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
         }
       }else if(pp.length>0){ // wrt books list
@@ -141,7 +141,7 @@
           '</h2>'+
           '<span class="mtext hspace">Найдено <b>'+ books.length+'</b> книг</span>'+
         '</p>';
-          document.title += ' - ' + wrts[books[0][0]][0] + ', книги, тексты';
+          document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
           books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
         }
         per_page = 100;

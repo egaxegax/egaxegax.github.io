@@ -88,11 +88,11 @@
       if(p == 's'){ // filter subj
         posts = posts.filter(function(tit){ return (tit[0] == urlParams()[p]); });
         posts = [[posts[0][0],posts[0][1],'about',0,posts[0][4]]].concat(posts); // +about page
-        document.title += ' - ' + subjects[ posts[0][0] ][0];
+        document.title = subjects[ posts[0][0] ][0] + ' - ' + document.title;
       }
       if(p == 't'){ // filter post
         posts = posts.filter(function(tit){ return (tit[1] == urlParams()[p]); });
-        document.title += ' - ' + posts[0][2];
+        document.title = posts[0][2]  + ' - ' + document.title;
       }
     }
 
