@@ -71,5 +71,6 @@ for root, dirs, files in os.walk(path, topdown=False):
           im.thumbnail((240,240))
           im.save(os.path.join(fp, tit+'.jpg') , "JPEG")
         except:
+          print (epubname, 'Not an valid image')
           raise
         print (i, j, epubname)
