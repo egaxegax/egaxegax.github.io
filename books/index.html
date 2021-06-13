@@ -54,7 +54,7 @@
         '<a class="nodecor" href="/books/?'+tr(p.subj)+'">'+p.subj+'</a>'+
         '<a class="nodecor hspace pink" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> '+p.title[2]+' </a>'+
       '</p>'+
-      '<p class="smaller gray">Жанр: <a class="nodecor">'+(GENRES[p.root]||p.root)+'</a></p>'+
+      '<p class="smaller gray">Жанр: <a class="nodecor" href="/books/?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
       '<p class="">'+
         (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
           '<a class="nodecor hspace smaller" href="/books/?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё&nbsp;› </a>'
@@ -83,7 +83,7 @@
     img.src = '/books/img/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
-    //
+
   loadScript({url: '/books/index.js'}, function(p){
     var roots = ROOTS,
         wrts = SUBJ,
@@ -92,7 +92,8 @@
         page_view = 'last',
         page_header = 
       '<table width="100%" class="mtext" style="padding:8px 10px"><tr>'+
-        '<td>В базе <b>$COUNT</b> описаний книг <a class="hspace" href="/books/wrts.html">Разных авторов</a></td>'+
+        '<td>В базе <b><i>$COUNT</i></b> описаний книг <a class="hspace" href="/books/wrts.html">Разных авторов</a>'+
+        '<a class="hspace" href="/books/genres.html">Разных жанров</a></td>'+
         '<td align="right">'+
           '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
         '<td width="1%">'+
@@ -100,7 +101,7 @@
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(p == 'find' && urlParams().find){ // search list
+      if(p == 'find' && urlParams().find){ // ?find
         books = books.filter(function(tit){ 
           return wrts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
@@ -109,13 +110,13 @@
         if(books.length){ 
           page_view = 'last';
           page_header = 
-        '<p class="mtext hspace">Найдено <b>'+ books.length+'</b> книг по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
+        '<p class="mtext hspace">Найдено <b><i>'+ books.length+'</i></b> книг по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
           document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
         }
         per_page = 100;
-      }else if(p == 'page' && urlParams().page){
+      }else if(p == 'page' && urlParams().page){ // ?page
         // skip paginator
-      }else if(pp.length>1){ // wrt + book = book text
+      }else if(pp.length>1){ // ?wrt/book
         books = books.filter(function(tit){ return (tr(wrts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by wrt+title
         if(books.length){
           page_view = 'book';
@@ -129,20 +130,29 @@
           document.title = wrts[books[0][0]][0] + ', ' + books[0][2] + ' - ' + document.title;
           books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
         }
-      }else if(pp.length>0){ // wrt books list
-        books = books.filter(function(tit){ return (tr(wrts[tit[0]][0]) == pp[0]); }); // filter by art
+      }else if(pp.length>0){ // ?wrt
+        var gnr, wrt;
+        books = [].concat( 
+          gnr = books.filter(function(tit){ return (tr(roots[tit[4]][0]) == pp[0]); }), // filter by genres
+          wrt = books.filter(function(tit){ return (tr(wrts[tit[0]][0]) == pp[0]); }) // filter by writer
+        );
         books = books.sort(function(a,b){ return arraySort(a[2],b[2]); });
         if(books.length){ 
           page_view = 'list';
           page_header = 
         '<p>'+
           '<h2 class="inl">'+
-            '<a class="nodecor hspace" href="/books/?'+tr(wrts[books[0][0]][0])+'">'+wrts[books[0][0]][0]+'</a>'+
+            '<a class="nodecor hspace" href="'+
+              (wrt.length>0 ? '/books/?'+tr(wrts[books[0][0]][0]) : '') + '">'+
+              (wrt.length>0 ? wrts[books[0][0]][0] : GENRES[roots[books[0][4]][0]]||roots[books[0][4]][0]) +
+            '</a>'+
           '</h2>'+
-          '<span class="mtext hspace">Найдено <b>'+ books.length+'</b> книг</span>'+
+          '<span class="mtext hspace">Найдено <b><i>'+ books.length+'</i></b> книг'+(gnr.length>0 ? ' в этом жанре' :  '')+'</span>'+
         '</p>';
-          document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
-          books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
+          if(wrt.length>0){
+            document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
+            books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
+          }
         }
         per_page = 100;
       }

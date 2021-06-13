@@ -153,7 +153,7 @@ img.av { width: 100%; height: auto; }
         page_view = 'last',
         page_header = 
       '<table width="100%" class="mtext" style="padding:8px 10px"><tr>'+
-        '<td>На сайте <b>$COUNT</b> текстов <a class="hspace" href="/songs/arts.html">Разных авторов</a></td>'+
+        '<td>На сайте <b><i>$COUNT</i></b> текстов <a class="hspace" href="/songs/arts.html">Разных авторов</a></td>'+
         '<td align="right">'+
           '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
         '<td width="1%">'+
@@ -170,7 +170,7 @@ img.av { width: 100%; height: auto; }
         if(songs.length){ 
           page_view = 'last';
           page_header = 
-        '<p class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
+        '<p class="mtext hspace">Найдено <b><i>'+ songs.length+'</i></b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
@@ -200,7 +200,7 @@ img.av { width: 100%; height: auto; }
           '<h2 class="inl">'+
             '<a class="nodecor hspace" href="/songs/?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a>'+
           '</h2>'+
-          '<span class="mtext hspace">Найдено <b>'+ songs.length+'</b> текстов</span>'+
+          '<span class="mtext hspace">Найдено <b><i>'+ songs.length+'</i></b> текстов</span>'+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page

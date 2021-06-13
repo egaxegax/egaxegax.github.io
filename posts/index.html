@@ -82,7 +82,7 @@
         posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
       '<p class="mtext hspace">'+
-        'Найдено <b>'+ posts.length+'</b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i>'+
+        'Найдено <b><i>'+ posts.length+'</i></b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i>'+
       '</p>';
       }
       if(p == 's'){ // filter subj
