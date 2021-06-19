@@ -53,6 +53,7 @@ a.nodecor img { border:0px none; padding:0px; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
 .minw { min-width:420px; }
+.maxw { max-width:900px; }
 /* body */
 body { margin:0; font-family:tahoma,verdana,arial; font-weight:400; font-size:16px; background-color:#fff; color:#222; }
 h2 { font-size:150%; font-family:tahoma,verdana,arial; font-weight:normal; padding:0 0 0 20px; }

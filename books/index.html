@@ -115,9 +115,9 @@
         }
         per_page = 100;
       }else if(p == 'page' && urlParams().page){ // ?page
-        // skip paginator
+        // paginate
       }else if(pp.length>1){ // ?wrt/book
-        books = books.filter(function(tit){ return (tr(wrts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by wrt+title
+        books = books.filter(function(tit){ return (tr(wrts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
         if(books.length){
           page_view = 'book';
           page_header = 

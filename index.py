@@ -6,9 +6,8 @@
 #   SUBJ   = [name,count,lasttime] = subject dir
 #   TITLES = [subjkey,sortkey,name,lasttime,rootkey] = files in subj. dir
 #
-# python index.py PATH COMMIT
+# python ../index.py COMMIT (from dir vesti,posts,songs,books)
 #
-#   PATH = vesti|posts|songs|books
 #   COMMIT = [0|1] git commit+push (optional)
 #
 
@@ -25,9 +24,28 @@ def E_OS(text):
     return text.decode('cp1251').encode('utf-8')
   return text
 
+def TR(t):
+  ru = {
+    'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 
+    'е':'e', 'ё':'e', 'ж':'j', 'з':'z', 'и':'i', 'й':'j', 
+    'к':'k', 'л':'l', 'м':'m', 'н':'n', 'о':'o', 
+    'п':'p', 'р':'r', 'с':'s', 'т':'t', 'у':'u', 
+    'ф':'f', 'х':'h', 'ц':'c', 'ч':'ch', 'ш':'sh', 
+    'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
+  }
+  tr = []
+  t = re.sub(r'[ъь\'"`\(\)\.,]+','',t)
+  t = re.sub(r'\s','_',t)
+  for s in t:
+    tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
+  return ''.join(tr).lower()
+
 path = '.'
 mfiles = []
 gitskip = 1
+
+surl = 'https://egaxegax.github.io'
+sdir = os.path.basename(os.getcwd())
 
 if len(sys.argv) > 1:
   gitskip = (sys.argv[1] != "1")
@@ -72,6 +90,7 @@ mroots = []
 msubj = []
 mtitles = []
 abcounter = 0
+murls = []
 
 for i, f in enumerate(mfiles):
   if f[2] == 'about':
@@ -95,7 +114,9 @@ for i, f in enumerate(mfiles):
   if isubj == -1:
     msubj += [[f[1], 1, f[3]]]
     isubj = len(msubj) - 1
+    murls += [surl +'/'+ sdir +'/?'+ TR(f[1])]
   mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
+  murls += [surl +'/'+ sdir +'/?'+ TR(f[1]) +'/'+ TR(f[2])]
   print( i )
 
 def compact(s):
@@ -106,6 +127,7 @@ def compact(s):
 open('index.js', 'w').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
+open('site.map', 'w').write('\n'.join(murls))
 time.sleep(1)
 
 try:

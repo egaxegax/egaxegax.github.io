@@ -27,6 +27,17 @@ function addNews(){
     var roots = ROOTS,
         subjects = SUBJ,
         msgs = TITLES;
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      console.log(pp);
+      if(p == 'page' && urlParams().page){ // ?page
+        // paginate
+      }else if(pp.length>1){ // ?subj/msg
+        msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
+      }else if(pp.length>0){ // ?subj
+        msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0]) == pp[0]); });
+      }
+    }
     var per_page = 7,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,

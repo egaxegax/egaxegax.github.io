@@ -175,9 +175,9 @@ img.av { width: 100%; height: auto; }
         }
         per_page = 100;
       }else if(p == 'page' && urlParams().page){
-        // skip paginator
+        // paginate
       }else if(pp.length>1){ // art + song = song text
-        songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); }); // filter by art+title
+        songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
         if(songs.length){
           page_view = 'song';
           page_header = 

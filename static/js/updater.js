@@ -43,12 +43,9 @@ function urlParams(url) {
         pnum = v.slice(1,-1);
         return '';
       });
-
       var pval = typeof(a[1])==='undefined' ? "" : a[1];
-
       pname = pname.toLowerCase();
       pval = pval.toLowerCase();
-
       if (o[pname]) {
         if (typeof o[pname] === 'string')
           o[pname] = [o[pname]];
@@ -61,7 +58,6 @@ function urlParams(url) {
       }
     }
   }
-
   return o;
 }
 //
@@ -73,7 +69,6 @@ function urlBuild(o){
   for (var p in par){ href.push( p + (par[p] ? '=' + par[p]: '') ); };
   return href.join('&');
 }
-//
 //
 // Check empty obj
 //
