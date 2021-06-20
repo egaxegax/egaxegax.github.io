@@ -164,9 +164,9 @@ function tr(s){
     'ф':'f', 'х':'h', 'ц':'c', 'ч':'ch', 'ш':'sh', 
     'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
   }, tr = [];
-    
-  s = s.replace(/[ъь'"`\(\)\.,]+/g, '').replace(/\s/g,'_');
-    
+
+  s = s.replace(/[ъь'"`\(\)\.,%]+/g, '').replace(/\s/g,'_');
+
   for(var i=0; i<s.length; ++i){
     tr.push( 
       ru[ s[i] ] || 

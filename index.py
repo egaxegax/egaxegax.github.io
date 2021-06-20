@@ -34,7 +34,7 @@ def TR(t):
     'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
   }
   tr = []
-  t = re.sub(r'[ъь\'"`\(\)\.,]+','',t)
+  t = re.sub(r'[ъь\'"`\(\)\.,%]+','',t)
   t = re.sub(r'\s','_',t)
   for s in t:
     tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
@@ -127,7 +127,7 @@ def compact(s):
 open('index.js', 'w').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
-open('site.map', 'w').write('\n'.join(murls))
+open('../site.'+sdir+'.txt', 'w').write('\n'.join(murls))
 time.sleep(1)
 
 try:
