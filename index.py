@@ -127,7 +127,7 @@ def compact(s):
 open('index.js', 'w').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
-open('../site.'+sdir+'.txt', 'w').write('\n'.join(murls))
+open('site.txt', 'w').write('\n'.join(murls))
 time.sleep(1)
 
 try:

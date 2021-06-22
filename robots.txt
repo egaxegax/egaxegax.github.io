@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+sitemap: https://egaxegax.github.com/books/site.txt
+sitemap: https://egaxegax.github.com/posts/site.txt
+sitemap: https://egaxegax.github.com/songs/site.txt
+sitemap: https://egaxegax.github.com/vesti/site.txt

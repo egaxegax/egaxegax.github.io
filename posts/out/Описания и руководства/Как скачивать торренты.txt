@@ -1,18 +1,18 @@
 <!--2013-04-03 17:11:42-->
-Вот несколько картинок с пояснениями как скачивать торренты.
-
-![Скриншот с unionpeer.org](http://img-fotki.yandex.ru/get/6521/136640652.0/0_853ca_6d59365b_L "unionpeer.org")
-
-Когда нажмешь на ссылку по появится окно
-
-![Скриншот tfile.me](http://img-fotki.yandex.ru/get/6621/136640652.0/0_853cb_82c65f7_L "tfile.me")
-
-Выбираешь "Открыть", запускается программа для скачивания utorrent
-
-![Скриншот uTorrent](http://img-fotki.yandex.ru/get/6423/136640652.0/0_853e7_58244d0_L "uTorrent")
-
-Ниже еще несколько картинок с разных торрент-сайтов
-
-![Скриншот torrentino.ru](http://img-fotki.yandex.ru/get/6423/136640652.0/0_853f1_97a415ee_L "torrentino.ru")
-
+Вот несколько картинок с пояснениями как скачивать торренты.
+
+![Скриншот с unionpeer.org](http://img-fotki.yandex.ru/get/6521/136640652.0/0_853ca_6d59365b_L "unionpeer.org")
+
+Когда нажмешь на ссылку по появится окно
+
+![Скриншот tfile.me](http://img-fotki.yandex.ru/get/6621/136640652.0/0_853cb_82c65f7_L "tfile.me")
+
+Выбираешь "Открыть", запускается программа для скачивания utorrent
+
+![Скриншот uTorrent](http://img-fotki.yandex.ru/get/6423/136640652.0/0_853e7_58244d0_L "uTorrent")
+
+Ниже еще несколько картинок с разных торрент-сайтов
+
+![Скриншот torrentino.ru](http://img-fotki.yandex.ru/get/6423/136640652.0/0_853f1_97a415ee_L "torrentino.ru")
+
 ![Скриншот c rutor.org](http://img-fotki.yandex.ru/get/6623/136640652.0/0_853f9_6b52c6da_L "rutor.org")
