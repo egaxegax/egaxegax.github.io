@@ -60,6 +60,9 @@ for root, dirs, files in os.walk(path, topdown=False):
     title = E_OS(fname)
     cwd = os.path.basename(os.getcwd())
 
+    if name == 'site.txt': # skip sitemap
+      continue
+
     if cwd in ('vesti') and ext in ('.txt'):
       ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
     elif cwd in ('fotki') and ext.lower() in ('.jpg'):
