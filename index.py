@@ -133,6 +133,14 @@ open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, en
 open('site.txt', 'w').write('\n'.join(murls))
 time.sleep(1)
 
+open('../sitemap.txt', 'w').write('\n'.join([
+  open('../books/site.txt').read(),
+  open('../posts/site.txt').read(),
+  open('../songs/site.txt').read(),
+  open('../vesti/site.txt').read(),
+]))
+print('Sitemap generate done.',)
+
 try:
   import subprocess
   if os.name == 'nt':
