@@ -133,13 +133,15 @@ open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, en
 open('site.txt', 'w').write('\n'.join(murls))
 time.sleep(1)
 
-open('../sitemap.txt', 'w').write('\n'.join([
-  open('../books/site.txt').read(),
-  open('../posts/site.txt').read(),
-  open('../songs/site.txt').read(),
-  open('../vesti/site.txt').read(),
-]))
-print('Sitemap generate done.',)
+sitemap = open('../sitemap.txt', 'w')
+sitemap = open('../sitemap.txt', 'a')
+
+for d in ['books', 'posts', 'songs', 'vesti']:
+  try:
+    sitemap.write(open('../' + d + '/site.txt').read())
+    print(d + ' added to sitemap.txt',)
+  except: 
+    print(d + ' skip')
 
 try:
   import subprocess

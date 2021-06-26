@@ -2353,8 +2353,7 @@ https://egaxegax.github.io/books/?aleksandr_djuma/belye_i_sinie
 https://egaxegax.github.io/books/?genrih_mann/venera
 https://egaxegax.github.io/books/?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books/?viktor_gjugo/bjug-jargal
-https://egaxegax.github.io/books/?artur_konan_dojl/belyj_otryad
-https://egaxegax.github.io/posts/?primery_shell-scenariev
+https://egaxegax.github.io/books/?artur_konan_dojl/belyj_otryadhttps://egaxegax.github.io/posts/?primery_shell-scenariev
 https://egaxegax.github.io/posts/?primery_shell-scenariev/izvlekaem_zvuk_iz_video_s_pomoshchju_mpv
 https://egaxegax.github.io/posts/?primery_shell-scenariev/raskadrovka_video_s_pomoshchju_mpv
 https://egaxegax.github.io/posts/?primery_shell-scenariev/cut_razbienie_stroki_v_bash
@@ -2471,8 +2470,7 @@ https://egaxegax.github.io/posts/?primery_shell-scenariev/ispolzuem_samba_dlya_s
 https://egaxegax.github.io/posts/?primery_shell-scenariev/sozdanie_self-extract_arhiva_tar
 https://egaxegax.github.io/posts/?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts/?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
-https://egaxegax.github.io/posts/?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
-https://egaxegax.github.io/songs/?rihanna
+https://egaxegax.github.io/posts/?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtorahttps://egaxegax.github.io/songs/?rihanna
 https://egaxegax.github.io/songs/?rihanna/diamonds
 https://egaxegax.github.io/songs/?rihanna/pon_de_replay
 https://egaxegax.github.io/songs/?rihanna/fourfiveseconds
@@ -28450,8 +28448,7 @@ https://egaxegax.github.io/songs/?nimerov_18+
 https://egaxegax.github.io/songs/?nimerov_18+/pro_ljubov
 https://egaxegax.github.io/songs/?nimerov_18+/jelanie
 https://egaxegax.github.io/songs/?nimerov_18+/snimaju_napryajenie
-https://egaxegax.github.io/songs/?nimerov_18+/podglyadel_za_sestroj
-https://egaxegax.github.io/vesti/?2021
+https://egaxegax.github.io/songs/?nimerov_18+/podglyadel_za_sestrojhttps://egaxegax.github.io/vesti/?2021
 https://egaxegax.github.io/vesti/?2021/210622_0133
 https://egaxegax.github.io/vesti/?2021/210619_1200
 https://egaxegax.github.io/vesti/?2021/210609_2310
