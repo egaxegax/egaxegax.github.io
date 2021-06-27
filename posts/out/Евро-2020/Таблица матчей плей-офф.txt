@@ -1,0 +1,91 @@
+<!--2021-06-27 17:16:01-->
+<style>.col {border:1px solid #ccc; width: 200px; padding: 0 2px;}</style>
+<style>.col span {display: inline-block; width:150px}</style>
+<table width="100%" cellspacing=10>
+<tr>
+<th>1/8 финала</th>
+<th>1/4 финала</th>
+<th>1/2 финала</th>
+<th>&nbsp;&nbsp;&nbsp;Финал&nbsp;&nbsp;&nbsp;</th>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/be.svg" width="16px"> Бельгия </span>
+<br>
+<span class="inl"><image src="/posts/img/flags/pt.svg" width="16px"> Португалия </span>
+</div></td>
+<td rowspan="2"><div class="col">
+<span class="inl"><image src="/posts/img/flags/it.svg" width="16px"> Италия </span>
+<br>
+<br>
+</div></td>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/it.svg" width="16px"> Италия </span><b><i>2</i></b><i> д.в</i></span>
+<br>
+<span class="inl"><image src="/posts/img/flags/at.svg" width="16px"> Австрия </span><b><i>1</i></b></span>
+</div></td>
+<td rowspan="2"><div class="col"><br><br><br>
+</div></td>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/fr.svg" width="16px"> Франция </span>
+<br>
+<span class="inl"><image src="/posts/img/flags/ch.svg" width="16px"> Щвейцария </span>
+</div></td>
+<td rowspan="2"><div class="col"><br><br><br>
+</div></td>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/hr.svg" width="16px"> Хорватия </span>
+<br>
+<span class="inl"><image src="/posts/img/flags/es.svg" width="16px"> Испания </span>
+</div></td>
+<td></td>
+<td rowspan="2"><div class="col">
+<br><br><br>
+</div></td>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/se.svg" width="16px"> Швеция </span>
+<br>
+<span class="inl"><image src="/posts/img/flags/ua.svg" width="16px"> Украина </span>
+</div></td>
+<td rowspan="2"><div class="col">
+<br><br><br>
+</div></td>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/gb.svg" width="16px"> Англия </span>
+<br>
+<span class="inl"><image src="/posts/img/flags/de.svg" width="16px"> Германия </span>
+</div></td>
+<td rowspan="2"><div class="col">
+<br><br><br>
+</div></td>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/nl.svg" width="16px"> Нидерланды </span>
+<br>
+<span class="inl"><image src="/posts/img/flags/cz.svg" width="16px"> Чехия </span>
+</div></td>
+<td rowspan="2"><div class="col">
+<span class="inl"><image src="/posts/img/flags/dk.svg" width="16px"> Дания</span>
+<br>
+<span class="inl"> <br> </span>
+</div></td>
+</tr>
+<tr>
+<td><div class="col">
+<span class="inl"><image src="/posts/img/flags/gb-wls.svg" width="16px"> Уэльс </span><b><i>0</i></b>
+<br>
+<span class="inl"><image src="/posts/img/flags/dk.svg" width="16px"> Дания </span><b><i>4</i></b>
+</div></td>
+</tr>
+</table>
