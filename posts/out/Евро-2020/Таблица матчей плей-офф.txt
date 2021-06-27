@@ -10,39 +10,39 @@
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/be.svg" width="16px"> Бельгия </span>
+<span class="inl"><image src="/posts/img/flags/be.svg" width="22px"> Бельгия </span>
 <br>
-<span class="inl"><image src="/posts/img/flags/pt.svg" width="16px"> Португалия </span>
+<span class="inl"><image src="/posts/img/flags/pt.svg" width="22px"> Португалия </span>
 </div></td>
 <td rowspan="2"><div class="col">
-<span class="inl"><image src="/posts/img/flags/it.svg" width="16px"> Италия </span>
+<span class="inl"><image src="/posts/img/flags/it.svg" width="22px"> Италия </span>
 <br>
 <br>
 </div></td>
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/it.svg" width="16px"> Италия </span><b><i>2</i></b><i> д.в</i></span>
+<span class="inl"><image src="/posts/img/flags/it.svg" width="22px"> Италия </span><b><i>2</i></b><i> д.в</i></span>
 <br>
-<span class="inl"><image src="/posts/img/flags/at.svg" width="16px"> Австрия </span><b><i>1</i></b></span>
+<span class="inl"><image src="/posts/img/flags/at.svg" width="22px"> Австрия </span><b><i>1</i></b></span>
 </div></td>
 <td rowspan="2"><div class="col"><br><br><br>
 </div></td>
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/fr.svg" width="16px"> Франция </span>
+<span class="inl"><image src="/posts/img/flags/fr.svg" width="22px"> Франция </span>
 <br>
-<span class="inl"><image src="/posts/img/flags/ch.svg" width="16px"> Щвейцария </span>
+<span class="inl"><image src="/posts/img/flags/ch.svg" width="22px"> Щвейцария </span>
 </div></td>
 <td rowspan="2"><div class="col"><br><br><br>
 </div></td>
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/hr.svg" width="16px"> Хорватия </span>
+<span class="inl"><image src="/posts/img/flags/hr.svg" width="22px"> Хорватия </span>
 <br>
-<span class="inl"><image src="/posts/img/flags/es.svg" width="16px"> Испания </span>
+<span class="inl"><image src="/posts/img/flags/es.svg" width="22px"> Испания </span>
 </div></td>
 <td></td>
 <td rowspan="2"><div class="col">
@@ -51,9 +51,9 @@
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/se.svg" width="16px"> Швеция </span>
+<span class="inl"><image src="/posts/img/flags/se.svg" width="22px"> Швеция </span>
 <br>
-<span class="inl"><image src="/posts/img/flags/ua.svg" width="16px"> Украина </span>
+<span class="inl"><image src="/posts/img/flags/ua.svg" width="22px"> Украина </span>
 </div></td>
 <td rowspan="2"><div class="col">
 <br><br><br>
@@ -61,9 +61,9 @@
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/gb.svg" width="16px"> Англия </span>
+<span class="inl"><image src="/posts/img/flags/gb.svg" width="22px"> Англия </span>
 <br>
-<span class="inl"><image src="/posts/img/flags/de.svg" width="16px"> Германия </span>
+<span class="inl"><image src="/posts/img/flags/de.svg" width="22px"> Германия </span>
 </div></td>
 <td rowspan="2"><div class="col">
 <br><br><br>
@@ -71,21 +71,21 @@
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/nl.svg" width="16px"> Нидерланды </span>
+<span class="inl"><image src="/posts/img/flags/nl.svg" width="22px"> Нидерланды </span><b><i>0</i></b>
 <br>
-<span class="inl"><image src="/posts/img/flags/cz.svg" width="16px"> Чехия </span>
+<span class="inl"><image src="/posts/img/flags/cz.svg" width="22px"> Чехия </span><b><i>2</i></b>
 </div></td>
 <td rowspan="2"><div class="col">
-<span class="inl"><image src="/posts/img/flags/dk.svg" width="16px"> Дания</span>
+<span class="inl"><image src="/posts/img/flags/cz.svg" width="22px"> Чехия </span>
 <br>
-<span class="inl"> <br> </span>
+<span class="inl"><image src="/posts/img/flags/dk.svg" width="22px"> Дания</span>
 </div></td>
 </tr>
 <tr>
 <td><div class="col">
-<span class="inl"><image src="/posts/img/flags/gb-wls.svg" width="16px"> Уэльс </span><b><i>0</i></b>
+<span class="inl"><image src="/posts/img/flags/gb-wls.svg" width="22px"> Уэльс </span><b><i>0</i></b>
 <br>
-<span class="inl"><image src="/posts/img/flags/dk.svg" width="16px"> Дания </span><b><i>4</i></b>
+<span class="inl"><image src="/posts/img/flags/dk.svg" width="22px"> Дания </span><b><i>4</i></b>
 </div></td>
 </tr>
 </table>

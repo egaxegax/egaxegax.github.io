@@ -1,51 +1,51 @@
 <!--2021-06-27 18:37:04-->
 <style>.g { border-collapse: collapse; text-align: center; }</style>
-<style>.g td { width:50px; border: 1px solid #ccc; }</style>
-<style>.g .col1 { width:150px; text-align: left; }</style>
+<style>.g td { width:60px; border: 1px solid #ccc; }</style>
+<style>.g .col1 { width:200px; text-align: left; }</style>
 <table class="g">
 <tr><th class="col1">Группа A<th>1<th>2<th>3<th>4<th>И<th>В<th>Н<th>П<th>Мячи<th>Очки
-<tr><td class="col1"><image src="/posts/img/flags/it.svg" width="16px"> Италия<td>&nbsp;<td>1:0<td>3:0<td>3:0<td>3<td>3<td>0<td>0<td>7-0<td>9
-<tr><td class="col1"><image src="/posts/img/flags/gb-wls.svg" width="16px"> Уэльс<td>0:1<td>&nbsp;<td>1:1<td>2:0<td>3<td>1<td>1<td>1<td>3-2<td>4
-<tr><td class="col1"><image src="/posts/img/flags/ch.svg" width="16px"> Швейцария<td>0:3<td>1:1<td>&nbsp;<td>3:1<td>3<td>1<td>1<td>1<td>4-5<td>4
-<tr><td class="col1"><image src="/posts/img/flags/tr.svg" width="16px"> Турция<td>0:3<td>0:2<td>1:3<td>&nbsp;<td>3<td>0<td>0<td>0<td>1-8<td>0
+<tr><td class="col1"><image src="/posts/img/flags/it.svg" width="22px"> Италия<td bgcolor="#ccc"></td><td>1:0<td>3:0<td>3:0<td>3<td>3<td>0<td>0<td>7-0<td>9
+<tr><td class="col1"><image src="/posts/img/flags/gb-wls.svg" width="22px"> Уэльс<td>0:1<td bgcolor="#ccc"></td><td>1:1<td>2:0<td>3<td>1<td>1<td>1<td>3-2<td>4
+<tr><td class="col1"><image src="/posts/img/flags/ch.svg" width="22px"> Швейцария<td>0:3<td>1:1<td bgcolor="#ccc"></td><td>3:1<td>3<td>1<td>1<td>1<td>4-5<td>4
+<tr><td class="col1"><image src="/posts/img/flags/tr.svg" width="22px"> Турция<td>0:3<td>0:2<td>1:3<td bgcolor="#ccc"></td><td>3<td>0<td>0<td>0<td>1-8<td>0
 </table>
 <p>
 <table class="g">
 <tr><th class="col1">Группа B<th>1<th>2<th>3<th>4<th>И<th>В<th>Н<th>П<th>Мячи<th>Очки
-<tr><td class="col1"><image src="/posts/img/flags/be.svg" width="16px"> Бельгия<td>&nbsp;<td>2:1<td>2:0<td>3:0<td>3<td>3<td>0<td>0<td>7-1<td>9
-<tr><td class="col1"><image src="/posts/img/flags/dk.svg" width="16px"> Дания<td>0:1<td>&nbsp;<td>0:1<td>4:1<td>3<td>1<td>0<td>2<td>5-4<td>4
-<tr><td class="col1"><image src="/posts/img/flags/fi.svg" width="16px"> Финляндия<td>0:2<td>1:0<td>&nbsp;<td>0:1<td>3<td>1<td>0<td>2<td>1-3<td>3
-<tr><td class="col1"><image src="/posts/img/flags/ru.svg" width="16px"> Россия<td>0:3<td>1:4<td>1:0<td>&nbsp;<td>3<td>1<td>0<td>2<td>2-7<td>3
+<tr><td class="col1"><image src="/posts/img/flags/be.svg" width="22px"> Бельгия<td bgcolor="#ccc"></td><td>2:1<td>2:0<td>3:0<td>3<td>3<td>0<td>0<td>7-1<td>9
+<tr><td class="col1"><image src="/posts/img/flags/dk.svg" width="22px"> Дания<td>0:1<td bgcolor="#ccc"></td><td>0:1<td>4:1<td>3<td>1<td>0<td>2<td>5-4<td>3
+<tr><td class="col1"><image src="/posts/img/flags/fi.svg" width="22px"> Финляндия<td>0:2<td>1:0<td bgcolor="#ccc"></td><td>0:1<td>3<td>1<td>0<td>2<td>1-3<td>3
+<tr><td class="col1"><image src="/posts/img/flags/ru.svg" width="22px"> Россия<td>0:3<td>1:4<td>1:0<td bgcolor="#ccc"></td><td>3<td>1<td>0<td>2<td>2-7<td>3
 </table>
 <p>
 <table class="g">
 <tr><th class="col1">Группа A<th>1<th>2<th>3<th>4<th>И<th>В<th>Н<th>П<th>Мячи<th>Очки
-<tr><td class="col1"><image src="/posts/img/flags/nl.svg" width="16px"> Нидерланды<td>&nbsp;<td>2:0<td>3:2<td>3:0<td>3<td>3<td>0<td>0<td>8-2<td>9
-<tr><td class="col1"><image src="/posts/img/flags/at.svg" width="16px"> Австрия<td>0:2<td>&nbsp;<td>1:0<td>3:1<td>3<td>2<td>0<td>1<td>4-3<td>6
-<tr><td class="col1"><image src="/posts/img/flags/ua.svg" width="16px"> Украина<td>2:3<td>0:1<td>&nbsp;<td>2:1<td>3<td>1<td>0<td>2<td>4-5<td>3
-<tr><td class="col1"><image src="/posts/img/flags/mk.svg" width="16px"> Македония<td>0:3<td>1:3<td>1:2<td>&nbsp;<td>3<td>0<td>0<td>3<td>2-8<td>0
+<tr><td class="col1"><image src="/posts/img/flags/nl.svg" width="22px"> Нидерланды<td bgcolor="#ccc"></td><td>2:0<td>3:2<td>3:0<td>3<td>3<td>0<td>0<td>8-2<td>9
+<tr><td class="col1"><image src="/posts/img/flags/at.svg" width="22px"> Австрия<td>0:2<td bgcolor="#ccc"></td><td>1:0<td>3:1<td>3<td>2<td>0<td>1<td>4-3<td>6
+<tr><td class="col1"><image src="/posts/img/flags/ua.svg" width="22px"> Украина<td>2:3<td>0:1<td bgcolor="#ccc"></td><td>2:1<td>3<td>1<td>0<td>2<td>4-5<td>3
+<tr><td class="col1"><image src="/posts/img/flags/mk.svg" width="22px"> Македония<td>0:3<td>1:3<td>1:2<td bgcolor="#ccc"></td><td>3<td>0<td>0<td>3<td>2-8<td>0
 </table>
 <p>
 <table class="g">
 <tr><th class="col1">Группа A<th>1<th>2<th>3<th>4<th>И<th>В<th>Н<th>П<th>Мячи<th>Очки
-<tr><td class="col1"><image src="/posts/img/flags/gb.svg" width="16px"> Англия<td>&nbsp;<td>1:0<td>1:0<td>0:0<td>3<td>2<td>1<td>0<td>2-0<td>7
-<tr><td class="col1"><image src="/posts/img/flags/hr.svg" width="16px"> Хорватия<td>0:1<td>&nbsp;<td>1:1<td>3:1<td>3<td>1<td>1<td>1<td>4-3<td>4
-<tr><td class="col1"><image src="/posts/img/flags/cz.svg" width="16px"> Чехия<td>0:1<td>1:1<td>&nbsp;<td>2:0<td>3<td>1<td>1<td>1<td>3-2<td>4
-<tr><td class="col1"><image src="/posts/img/flags/gb-sct.svg" width="16px"> Шотландия<td>0:0<td>1:3<td>0:2<td>&nbsp;<td>3<td>0<td>1<td>2<td>1-5<td>1
+<tr><td class="col1"><image src="/posts/img/flags/gb.svg" width="22px"> Англия<td bgcolor="#ccc"></td><td>1:0<td>1:0<td>0:0<td>3<td>2<td>1<td>0<td>2-0<td>7
+<tr><td class="col1"><image src="/posts/img/flags/hr.svg" width="22px"> Хорватия<td>0:1<td bgcolor="#ccc"></td><td>1:1<td>3:1<td>3<td>1<td>1<td>1<td>4-3<td>4
+<tr><td class="col1"><image src="/posts/img/flags/cz.svg" width="22px"> Чехия<td>0:1<td>1:1<td bgcolor="#ccc"></td><td>2:0<td>3<td>1<td>1<td>1<td>3-2<td>4
+<tr><td class="col1"><image src="/posts/img/flags/gb-sct.svg" width="22px"> Шотландия<td>0:0<td>1:3<td>0:2<td bgcolor="#ccc"></td><td>3<td>0<td>1<td>2<td>1-5<td>1
 </table>
 <p>
 <table class="g">
 <tr><th class="col1">Группа A<th>1<th>2<th>3<th>4<th>И<th>В<th>Н<th>П<th>Мячи<th>Очки
-<tr><td class="col1"><image src="/posts/img/flags/se.svg" width="16px"> Щвеция<td>&nbsp;<td>0:0<td>3:2<td>3:0<td>3<td>2<td>1<td>0<td>4-2<td>7
-<tr><td class="col1"><image src="/posts/img/flags/es.svg" width="16px"> Испания<td>0:0<td>&nbsp;<td>5:0<td>1:1<td>3<td>1<td>2<td>0<td>6-1<td>5
-<tr><td class="col1"><image src="/posts/img/flags/sk.svg" width="16px"> Словакия<td>0:1<td>0:5<td>&nbsp;<td>2:1<td>3<td>1<td>0<td>2<td>2-7<td>3
-<tr><td class="col1"><image src="/posts/img/flags/pl.svg" width="16px"> Польша<td>2:3<td>1:1<td>1:2<td>&nbsp;<td>3<td>0<td>1<td>2<td>4-6<td>1
+<tr><td class="col1"><image src="/posts/img/flags/se.svg" width="22px"> Щвеция<td bgcolor="#ccc"></td><td>0:0<td>3:2<td>3:0<td>3<td>2<td>1<td>0<td>4-2<td>7
+<tr><td class="col1"><image src="/posts/img/flags/es.svg" width="22px"> Испания<td>0:0<td bgcolor="#ccc"></td><td>5:0<td>1:1<td>3<td>1<td>2<td>0<td>6-1<td>5
+<tr><td class="col1"><image src="/posts/img/flags/sk.svg" width="22px"> Словакия<td>0:1<td>0:5<td bgcolor="#ccc"></td><td>2:1<td>3<td>1<td>0<td>2<td>2-7<td>3
+<tr><td class="col1"><image src="/posts/img/flags/pl.svg" width="22px"> Польша<td>2:3<td>1:1<td>1:2<td bgcolor="#ccc"></td><td>3<td>0<td>1<td>2<td>4-6<td>1
 </table>
 <p>
 <table class="g">
 <tr><th class="col1">Группа A<th>1<th>2<th>3<th>4<th>И<th>В<th>Н<th>П<th>Мячи<th>Очки
-<tr><td class="col1"><image src="/posts/img/flags/fr.svg" width="16px"> Франция<td>&nbsp;<td>1:0<td>2:2<td>1:1<td>3<td>1<td>2<td>0<td>4-3<td>5
-<tr><td class="col1"><image src="/posts/img/flags/de.svg" width="16px"> Германия<td>0:1<td>&nbsp;<td>4:2<td>2:2<td>3<td>1<td>1<td>1<td>6-5<td>4
-<tr><td class="col1"><image src="/posts/img/flags/pt.svg" width="16px"> Португалия<td>2:2<td>2:4<td>&nbsp;<td>3:0<td>3<td>1<td>1<td>1<td>7-6<td>4
-<tr><td class="col1"><image src="/posts/img/flags/hu.svg" width="16px"> Венгрия<td>1:1<td>2:2<td>0:3<td>&nbsp;<td>3<td>0<td>2<td>1<td>4-6<td>2
+<tr><td class="col1"><image src="/posts/img/flags/fr.svg" width="22px"> Франция<td bgcolor="#ccc"></td><td>1:0<td>2:2<td>1:1<td>3<td>1<td>2<td>0<td>4-3<td>5
+<tr><td class="col1"><image src="/posts/img/flags/de.svg" width="22px"> Германия<td>0:1<td bgcolor="#ccc"></td><td>4:2<td>2:2<td>3<td>1<td>1<td>1<td>6-5<td>4
+<tr><td class="col1"><image src="/posts/img/flags/pt.svg" width="22px"> Португалия<td>2:2<td>2:4<td bgcolor="#ccc"></td><td>3:0<td>3<td>1<td>1<td>1<td>7-6<td>4
+<tr><td class="col1"><image src="/posts/img/flags/hu.svg" width="22px"> Венгрия<td>1:1<td>2:2<td>0:3<td bgcolor="#ccc"></td><td>3<td>0<td>2<td>1<td>4-6<td>2
 </table>

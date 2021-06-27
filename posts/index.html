@@ -43,7 +43,11 @@
     var meta = document.head.getElementsByTagName('meta');
 
     for(var j in meta){
-      if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
+      if(meta[j].name == 'description' && p.if) 
+        meta[j].content = html
+          .replace(/<style>[^<]+/g,'')
+          .replace(/&nbsp;/g,' ')
+          .replace(/(<([^>]+)>)/gi,'').slice(0,255);
     }
 
     document.getElementById(p.id).innerHTML = 
