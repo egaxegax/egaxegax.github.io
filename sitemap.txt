@@ -2354,8 +2354,8 @@ https://egaxegax.github.io/books/?genrih_mann/venera
 https://egaxegax.github.io/books/?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books/?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books/?artur_konan_dojl/belyj_otryadhttps://egaxegax.github.io/posts/?evro-2020
-https://egaxegax.github.io/posts/?evro-2020/gruppovoj_turnir
 https://egaxegax.github.io/posts/?evro-2020/tablica_matchej_plej-off
+https://egaxegax.github.io/posts/?evro-2020/gruppovoj_turnir
 https://egaxegax.github.io/posts/?primery_shell-scenariev
 https://egaxegax.github.io/posts/?primery_shell-scenariev/izvlekaem_zvuk_iz_video_s_pomoshchju_mpv
 https://egaxegax.github.io/posts/?primery_shell-scenariev/raskadrovka_video_s_pomoshchju_mpv
