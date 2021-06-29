@@ -1,6 +1,7 @@
 <!--2021-06-27 21:16:01-->
 <style>.col {border:1px solid #ccc; width: 200px; padding: 0 2px;}</style>
 <style>.col div {display: inline-block; width:150px}</style>
+<style>.colb {display: inline-block; width:220px}</style>
 <table width="100%" cellspacing=10>
 <tr>
 <th>1/8 финала</th>
@@ -29,18 +30,18 @@
 </tr>
 <tr>
 <td><div class="col">
-<div class="inl"><image src="/posts/img/flags/fr.svg" width="22px"> Франция </div>
-<div class="inl"><image src="/posts/img/flags/ch.svg" width="22px"> Щвейцария </div>
+<div class="inl"><image src="/posts/img/flags/fr.svg" width="22px"> Франция </div><b><i>3</i></b>
+<div class="inl"><image src="/posts/img/flags/ch.svg" width="22px"> Щвейцария </div><b><i>4</i></b><i> пен</i>
 </div></td>
 <td rowspan="2"><div class="col">
-<div class="inl" style="color: #ccc"><image style="opacity:0.1" src="/posts/img/flags/fr.svg" width="22px"> Франция </div>
-<div class="inl" style="color: #ccc"><image style="opacity:0.1" src="/posts/img/flags/hr.svg" width="22px"> Хорватия </div>
+<div class="inl"><image src="/posts/img/flags/ch.svg" width="22px"> Щвейцария </div>
+<div class="inl"><image src="/posts/img/flags/es.svg" width="22px"> Испания </div>
 </div></td>
 </tr>
 <tr>
 <td><div class="col">
-<div class="inl"><image src="/posts/img/flags/hr.svg" width="22px"> Хорватия </div>
-<div class="inl"><image src="/posts/img/flags/es.svg" width="22px"> Испания </div>
+<div class="inl"><image src="/posts/img/flags/hr.svg" width="22px"> Хорватия </div><b><i>3</i></b>
+<div class="inl"><image src="/posts/img/flags/es.svg" width="22px"> Испания </div><b><i>5</i></b><i> д.в</i>
 </div></td>
 <td></td>
 <td rowspan="2"><div class="col">
@@ -65,6 +66,12 @@
 <td rowspan="2"><div class="col">
 <br><br><br>
 </div></td>
+<td rowspan=3 valign="bottom">
+<div style="color: #ccc"> Голы</div>
+<div class="colb"><image src="/posts/img/flags/pt.svg" width="22px"> Криштиану Роналду</div><b><i>5</i></b>
+<div class="colb"><image src="/posts/img/flags/cz.svg" width="22px"> Патрик Шик</div><b><i>4</i></b>
+<div class="colb"><image src="/posts/img/flags/fr.svg" width="22px"> Карим Бензема</div><b><i>4</i></b>
+</td>
 </tr>
 <tr>
 <td><div class="col">
