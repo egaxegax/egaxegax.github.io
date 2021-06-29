@@ -66,12 +66,6 @@
 <td rowspan="2"><div class="col">
 <br><br><br>
 </div></td>
-<td rowspan=3 valign="bottom">
-<div style="color: #ccc"> Голы</div>
-<div class="colb"><image src="/posts/img/flags/pt.svg" width="22px"> Криштиану Роналду</div><b><i>5</i></b>
-<div class="colb"><image src="/posts/img/flags/cz.svg" width="22px"> Патрик Шик</div><b><i>4</i></b>
-<div class="colb"><image src="/posts/img/flags/fr.svg" width="22px"> Карим Бензема</div><b><i>4</i></b>
-</td>
 </tr>
 <tr>
 <td><div class="col">
@@ -82,11 +76,18 @@
 <div class="inl"><image src="/posts/img/flags/cz.svg" width="22px"> Чехия </div>
 <div class="inl"><image src="/posts/img/flags/dk.svg" width="22px"> Дания</div>
 </div></td>
+<th valign="bottom"> Голы</th>
 </tr>
 <tr>
 <td><div class="col">
 <div class="inl"><image src="/posts/img/flags/gb-wls.svg" width="22px"> Уэльс </div><b><i>0</i></b>
 <div class="inl"><image src="/posts/img/flags/dk.svg" width="22px"> Дания </div><b><i>4</i></b>
 </div></td>
+<td></td>
+<td>
+<div class="colb"><image src="/posts/img/flags/pt.svg" width="22px"> Криштиану Роналду</div><b><i>5</i></b>
+<div class="colb"><image src="/posts/img/flags/cz.svg" width="22px"> Патрик Шик</div><b><i>4</i></b>
+<div class="colb"><image src="/posts/img/flags/fr.svg" width="22px"> Карим Бензема</div><b><i>4</i></b>
+</td>
 </tr>
 </table>
