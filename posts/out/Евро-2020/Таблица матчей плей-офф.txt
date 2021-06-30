@@ -55,12 +55,12 @@
 </div></td>
 <td rowspan="2"><div class="col">
 <div class="inl"><image src="/posts/img/flags/ua.svg" width="22px"> Украина </div>
-<div class="inl"><image src="/posts/img/flags/gb.svg" width="22px"> Англия </div>
+<div class="inl"><image src="/posts/img/flags/gb-eng.svg" width="22px"> Англия </div>
 </div></td>
 </tr>
 <tr>
 <td><div class="col">
-<div class="inl"><image src="/posts/img/flags/gb.svg" width="22px"> Англия </div><b><i>2</i></b>
+<div class="inl"><image src="/posts/img/flags/gb-eng.svg" width="22px"> Англия </div><b><i>2</i></b>
 <div class="inl"><image src="/posts/img/flags/de.svg" width="22px"> Германия </div><b><i>0</i></b>
 </div></td>
 <td rowspan="2"><div class="col">
