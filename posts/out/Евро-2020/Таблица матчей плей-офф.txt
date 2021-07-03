@@ -15,8 +15,8 @@
 <div class="inl"><image src="/posts/img/flags/pt.svg" width="22px"> Португалия </div><b><i>0</i></b>
 </div></td>
 <td rowspan="2"><div class="col">
-<div class="inl"><image src="/posts/img/flags/be.svg" width="22px"> Бельгия </div>
-<div class="inl"><image src="/posts/img/flags/it.svg" width="22px"> Италия </div>
+<div class="inl"><image src="/posts/img/flags/be.svg" width="22px"> Бельгия </div><b><i>1</i></b>
+<div class="inl"><image src="/posts/img/flags/it.svg" width="22px"> Италия </div><b><i>2</i></b>
 </div></td>
 </tr>
 <tr>
@@ -25,7 +25,8 @@
 <div class="inl"><image src="/posts/img/flags/at.svg" width="22px"> Австрия </div><b><i>1</i></b>
 </div></td>
 <td rowspan="2"><div class="col">
-<br><br><br>
+<div class="inl"><image src="/posts/img/flags/it.svg" width="22px"> Италия </div>
+<div class="inl"><image src="/posts/img/flags/es.svg" width="22px"> Испания </div>
 </div></td>
 </tr>
 <tr>
@@ -34,8 +35,8 @@
 <div class="inl"><image src="/posts/img/flags/ch.svg" width="22px"> Щвейцария </div><b><i>4</i></b><i> пен</i>
 </div></td>
 <td rowspan="2"><div class="col">
-<div class="inl"><image src="/posts/img/flags/ch.svg" width="22px"> Щвейцария </div>
-<div class="inl"><image src="/posts/img/flags/es.svg" width="22px"> Испания </div>
+<div class="inl"><image src="/posts/img/flags/ch.svg" width="22px"> Щвейцария </div><b><i>1</i></b>
+<div class="inl"><image src="/posts/img/flags/es.svg" width="22px"> Испания </div><b><i>2</i></b><i> пен</i>
 </div></td>
 </tr>
 <tr>
