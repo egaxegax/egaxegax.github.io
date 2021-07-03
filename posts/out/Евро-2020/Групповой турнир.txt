@@ -28,7 +28,7 @@
 <p>
 <table class="g">
 <tr><th class="col1">Группа A<th>1<th>2<th>3<th>4<th>И<th>В<th>Н<th>П<th>Мячи<th>Очки
-<tr><td class="col1"><image src="/posts/img/flags/gb.svg" width="22px"> Англия<td bgcolor="#ccc"></td><td>1:0<td>1:0<td>0:0<td>3<td>2<td>1<td>0<td>2-0<td>7
+<tr><td class="col1"><image src="/posts/img/flags/gb-eng.svg" width="22px"> Англия<td bgcolor="#ccc"></td><td>1:0<td>1:0<td>0:0<td>3<td>2<td>1<td>0<td>2-0<td>7
 <tr><td class="col1"><image src="/posts/img/flags/hr.svg" width="22px"> Хорватия<td>0:1<td bgcolor="#ccc"></td><td>1:1<td>3:1<td>3<td>1<td>1<td>1<td>4-3<td>4
 <tr><td class="col1"><image src="/posts/img/flags/cz.svg" width="22px"> Чехия<td>0:1<td>1:1<td bgcolor="#ccc"></td><td>2:0<td>3<td>1<td>1<td>1<td>3-2<td>4
 <tr><td class="col1"><image src="/posts/img/flags/gb-sct.svg" width="22px"> Шотландия<td>0:0<td>1:3<td>0:2<td bgcolor="#ccc"></td><td>3<td>0<td>1<td>2<td>1-5<td>1
