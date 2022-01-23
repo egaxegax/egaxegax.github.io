@@ -1,0 +1,6 @@
+* [California Waiting](/songs/jkl/Kings%20Of%20Leon/California%20Waiting)
+* [Mollys Chamber](/songs/jkl/Kings%20Of%20Leon/Mollys%20Chamber)
+* [Red Morning Light](/songs/jkl/Kings%20Of%20Leon/Red%20Morning%20Light)
+* [Talihina Skies](/songs/jkl/Kings%20Of%20Leon/Talihina%20Skies)
+* [Wasted Time](/songs/jkl/Kings%20Of%20Leon/Wasted%20Time)
+* [Wicker Chair](/songs/jkl/Kings%20Of%20Leon/Wicker%20Chair)

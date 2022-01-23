@@ -1,0 +1,1 @@
+* [Wilder Than Her](/songs/def/Eaglesmith%20Fred/Wilder%20Than%20Her)

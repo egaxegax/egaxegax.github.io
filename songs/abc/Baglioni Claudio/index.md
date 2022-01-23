@@ -1,0 +1,5 @@
+* [Avrai](/songs/abc/Baglioni%20Claudio/Avrai)
+* [E tu](/songs/abc/Baglioni%20Claudio/E%20tu)
+* [Poster](/songs/abc/Baglioni%20Claudio/Poster)
+* [Questo Piccolo Grande Amore](/songs/abc/Baglioni%20Claudio/Questo%20Piccolo%20Grande%20Amore)
+* [Strada facendo](/songs/abc/Baglioni%20Claudio/Strada%20facendo)

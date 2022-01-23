@@ -1,0 +1,7 @@
+* [Hear no more, Dear no more](/songs/def/Dominique%20A/Hear%20no%20more,%20Dear%20no%20more)
+* [Le 22-bar](/songs/def/Dominique%20A/Le%2022-bar)
+* [Le Courage des Oiseaux](/songs/def/Dominique%20A/Le%20Courage%20des%20Oiseaux)
+* [Le gros Boris](/songs/def/Dominique%20A/Le%20gros%20Boris)
+* [Le ravalement des facades](/songs/def/Dominique%20A/Le%20ravalement%20des%20facades)
+* [Les hauts quartiers de peine](/songs/def/Dominique%20A/Les%20hauts%20quartiers%20de%20peine)
+* [Tutti va bene](/songs/def/Dominique%20A/Tutti%20va%20bene)

@@ -1,0 +1,1 @@
+* [Something just isn’t right](/songs/abc/Avril%20Lavigne/Something%20just%20isn’t%20right)

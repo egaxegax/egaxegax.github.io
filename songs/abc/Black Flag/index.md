@@ -1,0 +1,5 @@
+* [Bastard In Love](/songs/abc/Black%20Flag/Bastard%20In%20Love)
+* [Drinking & Driving](/songs/abc/Black%20Flag/Drinking%20&%20Driving)
+* [Fix Me](/songs/abc/Black%20Flag/Fix%20Me)
+* [Six Pack](/songs/abc/Black%20Flag/Six%20Pack)
+* [Wasted](/songs/abc/Black%20Flag/Wasted)

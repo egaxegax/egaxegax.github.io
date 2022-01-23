@@ -1,0 +1,31 @@
+<!--2020-09-06 07:44:21-->
+Ob-La-Di, Ob-La-Da  
+  *(Lennon/McCartney)*  
+  
+  ***G***Desmond had a barrow in the ***D7***market place,  
+  Molly is the singer in a ***G***band.  
+  Desmond says to ***G7***Molly, girl I ***C***like your face  
+  and Molly ***G***says this as she ***D7***takes him by the ***G***hand.  
+  
+chorus:  Ob-la-***G***di, ob-la-da, life goes ***Bm***on      ***Em***bra.  
+  ***G***La la how the ***D7***life goes ***G***on. } repeat  
+  
+  ***G***Desmond takes a trolley to the ***D7***jeweller's store,  
+  buys a twenty carat golden ***G***ring.  
+  Takes it back to ***G7***Molly, waiting ***C***at the door  
+  and as he ***G***gives it to her ***D7***she begins to ***G***sing.  
+  
+  *chorus*  
+  
+  ***NC***In a couple of ***C***years they have built a home sweet ***G***home  
+  ***NC***with a couple of ***C***kids running in the yard  
+  of ***G***Desmond and Molly ***D7***Jones.  
+  
+  ***G***Happy ever after in the ***D7***market place,  
+  Desmond lets the children lend a ***G***hand.  
+  Molly stays at ***G7***home and does her ***C***pretty face  
+  and in the ***G***evening she still ***D7***sings it with the ***G***band.  
+  
+  *chorus*  
+  
+  ****NC*** --&gt; No chord is played*

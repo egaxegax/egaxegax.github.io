@@ -1,0 +1,27 @@
+<!--2020-09-04 20:47:21-->
+Mary's Boy Child  
+  *(Jester Hairston)*  
+  
+  ***G                C                 D          G***  
+  Long time ago in Bethlehem, so the Holy Bible say,  
+  ***G                C                 G       D7        G***  
+  Mary's boy child Jesus Christ, was born on Christmas Day.  
+  
+  ***G         C        D7     G       Em       C    D***  
+Chorus:  Hark, now hear the angels sing, a new king born today, and  
+  ***G        D/A  G/B C           G        D7        G***  
+  man will live for evermore, because of Christmas day.  
+  ***G        C         D7     G     Em        C         D***  
+  Trumpets sound and angels sing, listen to what they say, that  
+  ***G        D/A      C           G        D7        G***  
+  man will live for evermore, because of Christmas Day.  
+  
+  While shepherds watch their flocks by night,  
+  them see a bright new shining star,  
+  them hear a choir sing, the music seemed to come from afar.  
+  Now Joseph and his wife, Mary, come to Bethlehem that night,  
+  them find no place to born the child, not a single room was in sight.  
+  By and by they find a little nook in a stable all forlorn,  
+  and in a manger cold and dark, Mary's little boy was born.  
+  Long time ago in Bethlehem, so the Holy Bible say,  
+  Mary's boy child, Jesus Christ, was born on Christmas Day.

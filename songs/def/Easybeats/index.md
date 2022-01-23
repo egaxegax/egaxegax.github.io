@@ -1,0 +1,1 @@
+* [Friday On My Mind](/songs/def/Easybeats/Friday%20On%20My%20Mind)

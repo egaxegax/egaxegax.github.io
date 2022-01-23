@@ -1,0 +1,8 @@
+* [20 Nothing](/songs/stu/Skankin'%20Pickle/20%20Nothing)
+* [Gas In My Car](/songs/stu/Skankin'%20Pickle/Gas%20In%20My%20Car)
+* [Im In Love With A Girl Named Spike](/songs/stu/Skankin'%20Pickle/Im%20In%20Love%20With%20A%20Girl%20Named%20Spike)
+* [Make A Change](/songs/stu/Skankin'%20Pickle/Make%20A%20Change)
+* [My Hair](/songs/stu/Skankin'%20Pickle/My%20Hair)
+* [On young ha say yo](/songs/stu/Skankin'%20Pickle/On%20young%20ha%20say%20yo)
+* [Pseudo Punk](/songs/stu/Skankin'%20Pickle/Pseudo%20Punk)
+* [Rest Of The World](/songs/stu/Skankin'%20Pickle/Rest%20Of%20The%20World)

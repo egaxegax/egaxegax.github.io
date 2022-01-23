@@ -1,0 +1,1 @@
+* [Royal Oil](/songs/mno/Mighty%20Mighty%20Bosstones/Royal%20Oil)

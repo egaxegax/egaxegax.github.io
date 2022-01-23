@@ -1,0 +1,5 @@
+* [Classic Girl](/songs/jkl/Janes%20Addiction/Classic%20Girl)
+* [Mountain Song](/songs/jkl/Janes%20Addiction/Mountain%20Song)
+* [Obvious](/songs/jkl/Janes%20Addiction/Obvious)
+* [Ocean size](/songs/jkl/Janes%20Addiction/Ocean%20size)
+* [Up the beach](/songs/jkl/Janes%20Addiction/Up%20the%20beach)

@@ -1,0 +1,6 @@
+* [Dee](/songs/mno/Ozzy%20Osbourne/Dee)
+* [Dreamer (2 вариант)](/songs/mno/Ozzy%20Osbourne/Dreamer%20(2%20вариант))
+* [Dreamer](/songs/mno/Ozzy%20Osbourne/Dreamer)
+* [I Just Want You](/songs/mno/Ozzy%20Osbourne/I%20Just%20Want%20You)
+* [Killer Of Giants](/songs/mno/Ozzy%20Osbourne/Killer%20Of%20Giants)
+* [Mama, I Coming Home](/songs/mno/Ozzy%20Osbourne/Mama,%20I%20Coming%20Home)

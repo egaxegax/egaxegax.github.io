@@ -1,0 +1,5 @@
+* [Get it While You Can](/songs/jkl/Janis%20Joplin/Get%20it%20While%20You%20Can)
+* [Me And Bobby McGee](/songs/jkl/Janis%20Joplin/Me%20And%20Bobby%20McGee)
+* [Piece Of My Heart](/songs/jkl/Janis%20Joplin/Piece%20Of%20My%20Heart)
+* [Summertime](/songs/jkl/Janis%20Joplin/Summertime)
+* [These Boots](/songs/jkl/Janis%20Joplin/These%20Boots)

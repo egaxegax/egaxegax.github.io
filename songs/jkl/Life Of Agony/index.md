@@ -1,0 +1,8 @@
+* [How It Would Be](/songs/jkl/Life%20Of%20Agony/How%20It%20Would%20Be)
+* [I Pretend](/songs/jkl/Life%20Of%20Agony/I%20Pretend)
+* [Let's Pretend](/songs/jkl/Life%20Of%20Agony/Let's%20Pretend)
+* [Method of groove](/songs/jkl/Life%20Of%20Agony/Method%20of%20groove)
+* [The Other Side Of The River](/songs/jkl/Life%20Of%20Agony/The%20Other%20Side%20Of%20The%20River)
+* [This Time](/songs/jkl/Life%20Of%20Agony/This%20Time)
+* [Unstable](/songs/jkl/Life%20Of%20Agony/Unstable)
+* [Weeds](/songs/jkl/Life%20Of%20Agony/Weeds)

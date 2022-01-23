@@ -1,0 +1,1 @@
+* [Nothing Compares to You](/songs/stu/Sinead%20O'Connor/Nothing%20Compares%20to%20You)

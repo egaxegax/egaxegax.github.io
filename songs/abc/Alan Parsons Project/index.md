@@ -1,0 +1,7 @@
+* [Blue Blue Sky](/songs/abc/Alan%20Parsons%20Project/Blue%20Blue%20Sky)
+* [Don't Answer Me](/songs/abc/Alan%20Parsons%20Project/Don't%20Answer%20Me)
+* [Eye in the Sky](/songs/abc/Alan%20Parsons%20Project/Eye%20in%20the%20Sky)
+* [Games People Play](/songs/abc/Alan%20Parsons%20Project/Games%20People%20Play)
+* [Old and Wise](/songs/abc/Alan%20Parsons%20Project/Old%20and%20Wise)
+* [Since the Last Goodbye](/songs/abc/Alan%20Parsons%20Project/Since%20the%20Last%20Goodbye)
+* [Time](/songs/abc/Alan%20Parsons%20Project/Time)

@@ -1,0 +1,7 @@
+* [Breathe](/songs/pqr/Prodigy/Breathe)
+* [Firestarter](/songs/pqr/Prodigy/Firestarter)
+* [Fuel My Fire](/songs/pqr/Prodigy/Fuel%20My%20Fire)
+* [Narayan](/songs/pqr/Prodigy/Narayan)
+* [No Good](/songs/pqr/Prodigy/No%20Good)
+* [Serial Thrilla](/songs/pqr/Prodigy/Serial%20Thrilla)
+* [Their Law](/songs/pqr/Prodigy/Their%20Law)

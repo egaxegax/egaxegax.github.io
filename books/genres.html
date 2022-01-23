@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="description" content="Список жанров книг, кол-во книг по жанрам">
+<meta name="keywords" content="Книги, романы, проза, литература для чтения">
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Список авторов / Сайт Григория Еремина</title>
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg">
+<link rel="stylesheet" href="/static/css/main.css">
+<style>
+img.av { width: 100%; height: auto; }
+</style>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js"></script>
+<script src="/books/genres.js"></script>
+</head>
+<body>
+<table id="main"><tr style="height:1%">
+<td colspan="3" id="header" class="wrapbg">
+<a title="О сайте и контакты" href="/about.html"><img src="/static/img/about.svg" alt="Egax Portal"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/fotki.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_a.svg" alt="Книги"></a>
+<a title="Карта-Навигатор" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карта-Навигатор"></a>
+</td></tr><tr style="height:1%">
+<td colspan="3" id="page_header"></td></tr><tr>
+<td colspan="3" id="content"><div id="page_content"></div></td></tr><tr style="height:1%">
+<td colspan="3" id="page_footer"></td></tr><tr style="height:1%">
+<td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
+<td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td id="credits"><p> © 2011-2022 &emsp;<a class="nodecor" href="/books/sitemap.txt" title="Карта сайта">&#128279;</a> </p></td></tr>
+</table>
+<script type="text/javascript">
+
+  document.getElementById('page_header').innerHTML =
+'<p class="mtext hspace">Список жанров книг в алфавитном порядке</p>';
+  document.getElementById('page_content').innerHTML =
+'<img class="hspace1" src="/static/img/loader.gif">';
+
+  function addGenre(gnr,i){
+    var tmpl = 
+  '<table class="msgtext" width="99%"><tr>'+
+    '<td width="60%" class="hspaced"><a class="nodecor" href="/books.html?'+tr(gnr[0])+'">'+(GENRES[gnr[0]]||gnr[0])+'</a>'+
+      '<div class="gray"><i>'+gnr[0]+'</i></div>'+
+    '</td>'+
+    '<td valign="center"><b><i>'+gnr[1]+'</i></b></td>'+
+    '<td valign="center" align="right" class="lightgray"><i>'+i+'</i></td>'+
+  '</tr></table>';
+    return tmpl;
+  }
+
+  loadScript({url: '/books/index.js'}, function(p){
+    var gnrs = ROOTS;
+    document.getElementById('page_header').innerHTML = 
+  '<p class="mtext hspace">Список жанров книг в алфавитном порядке </p>';
+    gnrs = gnrs.slice().sort(function(a,b){ return arraySort(GENRES[a[0]]||a[0],GENRES[b[0]]||b[0]); });
+    var per_page = 10,
+        page_num = urlParams().page||1,
+        page_bottom = (page_num-1)*per_page,
+        page_top = page_bottom+per_page;
+    var page_gnrs = gnrs.slice(page_bottom, page_top);
+    document.getElementById('page_content').innerHTML = '';
+    for(var i=0; i<page_gnrs.length; i++){
+      document.getElementById('page_content').innerHTML +=
+    '<div id="gnr'+i+'" class="wrap">'+addGenre(page_gnrs[i], page_bottom+i+1)+'</div>'
+    }
+    if (page_gnrs.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(gnrs, per_page, page_num);
+    } else {
+      document.getElementById('page_content').innerHTML += 
+    '<div class="mtext hspace">Нет данных </div><br>'+addImgConfuse();
+    }
+  });
+
+</script>
+<script src="/static/js/metrics.js"></script>
+</body>
+</html>

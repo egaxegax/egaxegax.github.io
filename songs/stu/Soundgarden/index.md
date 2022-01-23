@@ -1,0 +1,6 @@
+* [All Your Lies](/songs/stu/Soundgarden/All%20Your%20Lies)
+* [Boot camp](/songs/stu/Soundgarden/Boot%20camp)
+* [Flower](/songs/stu/Soundgarden/Flower)
+* [Outshined](/songs/stu/Soundgarden/Outshined)
+* [Room A Thousand Years Wide](/songs/stu/Soundgarden/Room%20A%20Thousand%20Years%20Wide)
+* [Spoonman](/songs/stu/Soundgarden/Spoonman)

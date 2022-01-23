@@ -1,0 +1,6 @@
+* [Because The Night](/songs/stu/Smith%20Patti/Because%20The%20Night)
+* [Dancing Barefoot](/songs/stu/Smith%20Patti/Dancing%20Barefoot)
+* [Death Singing](/songs/stu/Smith%20Patti/Death%20Singing)
+* [Ghost dance](/songs/stu/Smith%20Patti/Ghost%20dance)
+* [My Madrigal](/songs/stu/Smith%20Patti/My%20Madrigal)
+* [Pissing in a river](/songs/stu/Smith%20Patti/Pissing%20in%20a%20river)

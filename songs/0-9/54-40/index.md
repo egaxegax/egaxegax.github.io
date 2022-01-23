@@ -1,0 +1,1 @@
+* [I Go Blind](/songs/0-9/54-40/I%20Go%20Blind)

@@ -1,0 +1,8 @@
+* [Milk](/songs/ghi/Garbage/Milk)
+* [Only Happy When It Rains](/songs/ghi/Garbage/Only%20Happy%20When%20It%20Rains)
+* [Supervixen](/songs/ghi/Garbage/Supervixen)
+* [The World Is Not Enough](/songs/ghi/Garbage/The%20World%20Is%20Not%20Enough)
+* [Thirteen](/songs/ghi/Garbage/Thirteen)
+* [Vow](/songs/ghi/Garbage/Vow)
+* [Why do you love me](/songs/ghi/Garbage/Why%20do%20you%20love%20me)
+* [You Look So Fine](/songs/ghi/Garbage/You%20Look%20So%20Fine)

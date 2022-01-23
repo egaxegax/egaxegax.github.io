@@ -1,0 +1,7 @@
+* [Act of love](/songs/vwz/Young%20Neil/Act%20of%20love)
+* [Blue Eden](/songs/vwz/Young%20Neil/Blue%20Eden)
+* [Danger Bird](/songs/vwz/Young%20Neil/Danger%20Bird)
+* [Don't Cry No Tears](/songs/vwz/Young%20Neil/Don't%20Cry%20No%20Tears)
+* [Down To The Wire](/songs/vwz/Young%20Neil/Down%20To%20The%20Wire)
+* [Downtown](/songs/vwz/Young%20Neil/Downtown)
+* [Opera Star](/songs/vwz/Young%20Neil/Opera%20Star)

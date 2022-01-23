@@ -1,0 +1,8 @@
+* [Big Deal](/songs/jkl/LeAnn%20Rimes/Big%20Deal)
+* [But I do love you](/songs/jkl/LeAnn%20Rimes/But%20I%20do%20love%20you)
+* [Can't fight the moonlight](/songs/jkl/LeAnn%20Rimes/Can't%20fight%20the%20moonlight)
+* [How do I live](/songs/jkl/LeAnn%20Rimes/How%20do%20I%20live)
+* [Life Goes On](/songs/jkl/LeAnn%20Rimes/Life%20Goes%20On)
+* [One way ticket](/songs/jkl/LeAnn%20Rimes/One%20way%20ticket)
+* [The light in your eyes](/songs/jkl/LeAnn%20Rimes/The%20light%20in%20your%20eyes)
+* [The right kind of wrong](/songs/jkl/LeAnn%20Rimes/The%20right%20kind%20of%20wrong)

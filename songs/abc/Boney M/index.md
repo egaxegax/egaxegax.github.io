@@ -1,0 +1,5 @@
+* [El Lute](/songs/abc/Boney%20M/El%20Lute)
+* [Mary's Boy Child](/songs/abc/Boney%20M/Mary's%20Boy%20Child)
+* [No Woman No Cry](/songs/abc/Boney%20M/No%20Woman%20No%20Cry)
+* [Rasputin](/songs/abc/Boney%20M/Rasputin)
+* [Sunny](/songs/abc/Boney%20M/Sunny)

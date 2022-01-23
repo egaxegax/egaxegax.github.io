@@ -1,0 +1,5 @@
+* [If That's What It Takes](/songs/abc/Celine%20Dion/If%20That's%20What%20It%20Takes)
+* [Immortality](/songs/abc/Celine%20Dion/Immortality)
+* [My Heart Will Go On (3 вариант)](/songs/abc/Celine%20Dion/My%20Heart%20Will%20Go%20On%20(3%20вариант))
+* [My Heart Will Go On (перевод)](/songs/abc/Celine%20Dion/My%20Heart%20Will%20Go%20On%20(перевод))
+* [My heart will go on](/songs/abc/Celine%20Dion/My%20heart%20will%20go%20on)

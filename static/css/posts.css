@@ -1,0 +1,10 @@
+.g { border-collapse: collapse; text-align: center; }
+.g td { width:60px }
+.g .col { width:240px; text-align: left; padding-left: 20px; }
+.p { border-collapse: collapse; width:100%; }
+.p .col {width: 210px; padding-left: 20px;}
+.bt {border-top:1px solid #aaa;}
+.br {border-right:1px solid #aaa;}
+.bb {border-bottom:1px solid #aaa;}
+.mb {padding-bottom:10px;}
+.mt {padding-top:10px;}

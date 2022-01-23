@@ -1,0 +1,6 @@
+* [Arash](/songs/abc/Arash/Arash)
+* [Behnaz](/songs/abc/Arash/Behnaz)
+* [Bora Bora](/songs/abc/Arash/Bora%20Bora)
+* [Temptation](/songs/abc/Arash/Temptation)
+* [Tike Tike Kardi](/songs/abc/Arash/Tike%20Tike%20Kardi)
+* [Yalla](/songs/abc/Arash/Yalla)

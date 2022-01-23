@@ -1,0 +1,8 @@
+* [Dead Souls](/songs/mno/Nine%20Inch%20Nails/Dead%20Souls)
+* [March of the Pigs](/songs/mno/Nine%20Inch%20Nails/March%20of%20the%20Pigs)
+* [Piggy](/songs/mno/Nine%20Inch%20Nails/Piggy)
+* [Sanctified](/songs/mno/Nine%20Inch%20Nails/Sanctified)
+* [Something I Can Never Have](/songs/mno/Nine%20Inch%20Nails/Something%20I%20Can%20Never%20Have)
+* [The becoming](/songs/mno/Nine%20Inch%20Nails/The%20becoming)
+* [The downward spiral](/songs/mno/Nine%20Inch%20Nails/The%20downward%20spiral)
+* [The frail](/songs/mno/Nine%20Inch%20Nails/The%20frail)

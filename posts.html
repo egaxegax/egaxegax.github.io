@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="description" content="Заметки, цитаты, статьи и посты на самые разные темы">
+<meta name="keywords" content="статьи, тексты, заметки, фото">
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Заметки / Сайт Григория Еремина</title>
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg">
+<link rel="stylesheet" href="/static/css/main.css">
+<link rel="stylesheet" href="/static/css/markdown.css">
+<link rel="stylesheet" href="/static/css/posts.css">
+<script src="/static/js/3rdparty/showdown.min.js"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js"></script>
+</head>
+<body>
+<table id="main"><tr style="height:1%">
+<td colspan="3" id="header" class="wrapbg">
+<a title="О сайте и контакты" href="/about.html"><img src="/static/img/about.svg" alt="Egax Portal"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_a.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/fotki.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Карта-Навигатор" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карта-Навигатор"></a>
+</td></tr><tr style="height:1%">
+<td colspan="3" id="page_header"></td></tr><tr>
+<td colspan="3" id="content"><div id="page_content"></div></td></tr><tr style="height:1%">
+<td colspan="3" id="page_footer"></td></tr><tr style="height:1%">
+<td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
+<td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td id="credits"><p> © 2011-2022 &emsp;<a class="nodecor" href="/posts/sitemap.txt" title="Карта сайта">&#128279;</a> </p></td></tr>
+</table>
+<script type="text/javascript">
+
+  document.getElementById('page_header').innerHTML = 
+'<p class="mtext hspace">Заметки, статьи, цитаты на самые <a class="hspace" href="/psubj.html">Разные темы</a></p>';
+  document.getElementById('page_content').innerHTML =
+'<img class="hspace1" src="/static/img/loader.gif">';
+
+  function find(){
+    if(!document.getElementById('tfind').value){
+      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+    }else{
+      window.location = '/posts.html?find='+ document.getElementById('tfind').value;
+    }
+  }
+
+  function addPost(r,p){
+    var converter = new showdown.Converter(), // to markdown
+        text = r
+          .replace(/\/photos\//g, '/fotki/')
+          .replace(/\r\r\n/g, '\n')
+          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
+          .replace(/\{: class=rounded :\}/g, ''),
+        html = converter.makeHtml(text);
+    updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext">'+
+    (p.title[2] !== 'about' ? 
+  '<h3><a class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'">'+p.title[2]+'</a></h3>'
+    : '')+
+    html+
+  '</div>'+
+    (p.title[2] !== 'about' ? 
+  '<div class="msgfooter">'+
+    '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
+    '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
+  '</div>' 
+    : '');
+  }
+
+  loadScript({url: '/posts/index.js'}, function(p){
+    var roots = ROOTS,
+        subjects = SUBJ,
+        posts = TITLES,
+        page_header = 
+    '<table width="100%" class="mtext" style="padding:8px 10px"><tr>'+
+      '<td>Заметки, статьи, цитаты на самые <a class="hspace" href="/psubj.html">Разные темы</a></td>'+
+      '<td align="right">'+
+        '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
+      '<td width="1%">'+
+        '<input type="button" class="find-btn" value="Найти" onclick="find()"></td>'+
+    '</tr></table>';
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(p == 'find' && urlParams().find){ // search list
+        posts = posts.filter(function(tit){ 
+          return subjects[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        page_header =
+      '<p class="mtext hspace">'+
+        'Найдено <b><i>'+ posts.length+'</i></b> текста(ов) по запросу <i>'+decodeURI(urlParams().find)+'</i>'+
+      '</p>';
+      }else if(p == 'page' && urlParams().page){ // ?page
+        // paginate
+      }else if(pp.length>1){ // ?subj/title
+        posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
+        if(posts.length){
+          document.title = posts[0][2]  + ' - ' + document.title;      
+        }
+      }else if(pp.length>0){ // ?subj
+        posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0]) == pp[0]); }); // filter by subj
+        posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(posts.length){
+          posts = [[posts[0][0],posts[0][1],'about',0,posts[0][4]]].concat(posts); // +about page
+          document.title = subjects[ posts[0][0] ][0] + ' - ' + document.title;
+        }
+      }
+    }
+
+    var per_page = 4,
+        page_num = urlParams().page||1,
+        page_bottom = (page_num-1)*per_page,
+        page_top = page_bottom+per_page;
+    var page_titles = posts.slice(page_bottom, page_top);
+
+    document.getElementById('page_header').innerHTML = page_header;
+    document.getElementById('page_content').innerHTML = '';
+
+    for(var i=0; i<page_titles.length; i++){
+      var subj = subjects[ page_titles[i][0] ][0],
+          root = roots[ page_titles[i][4] ][0],
+          title = page_titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="post'+i+'">'+
+      (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'post'+i, if: i==0, subj: subj, title: page_titles[i], url: '/posts/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          var wrap = document.getElementById(p.id);
+          wrap.className = 'wrap';
+          addPost(r,p);
+        }
+      });
+    }
+
+    if (page_titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(posts, per_page, page_num);
+    } else {
+      updateMetaTag('robots', 'noindex');
+      document.getElementById('page_content').innerHTML += 
+    '<div class="mtext hspace">Нет данных</div>'+addImgConfuse();
+    }
+  });
+
+</script>
+<script src="/static/js/metrics.js"></script>
+</body>
+</html>

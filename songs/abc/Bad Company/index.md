@@ -1,0 +1,7 @@
+* [Bad Company](/songs/abc/Bad%20Company/Bad%20Company)
+* [Can't Get Enough](/songs/abc/Bad%20Company/Can't%20Get%20Enough)
+* [Feel Like Making Love](/songs/abc/Bad%20Company/Feel%20Like%20Making%20Love)
+* [Movin On](/songs/abc/Bad%20Company/Movin%20On)
+* [Rock Steady](/songs/abc/Bad%20Company/Rock%20Steady)
+* [Seagull](/songs/abc/Bad%20Company/Seagull)
+* [Shooting Star](/songs/abc/Bad%20Company/Shooting%20Star)

@@ -1,0 +1,5 @@
+* [Apart](/songs/stu/The%20Cure/Apart)
+* [Boys Don't Cry](/songs/stu/The%20Cure/Boys%20Don't%20Cry)
+* [Charlotte Sometimes](/songs/stu/The%20Cure/Charlotte%20Sometimes)
+* [From The Edge Of The Deep Green Sea](/songs/stu/The%20Cure/From%20The%20Edge%20Of%20The%20Deep%20Green%20Sea)
+* [Lullaby](/songs/stu/The%20Cure/Lullaby)

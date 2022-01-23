@@ -1,0 +1,8 @@
+* [A Past and Future Secret](/songs/abc/Blind%20Guardian/A%20Past%20and%20Future%20Secret)
+* [Harvest Of Sorrow](/songs/abc/Blind%20Guardian/Harvest%20Of%20Sorrow)
+* [Lord Of The Rings](/songs/abc/Blind%20Guardian/Lord%20Of%20The%20Rings)
+* [Mirror, Mirror](/songs/abc/Blind%20Guardian/Mirror,%20Mirror)
+* [The Bard's Song](/songs/abc/Blind%20Guardian/The%20Bard's%20Song)
+* [The Maiden And The Minstrel Knight](/songs/abc/Blind%20Guardian/The%20Maiden%20And%20The%20Minstrel%20Knight)
+* [Time What is Time](/songs/abc/Blind%20Guardian/Time%20What%20is%20Time)
+* [Valhalla](/songs/abc/Blind%20Guardian/Valhalla)

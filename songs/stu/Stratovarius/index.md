@@ -1,0 +1,1 @@
+* [Celestial Dream](/songs/stu/Stratovarius/Celestial%20Dream)

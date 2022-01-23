@@ -1,0 +1,5 @@
+* [Delusional](/songs/pqr/Quicksand/Delusional)
+* [Dine Alone](/songs/pqr/Quicksand/Dine%20Alone)
+* [Freezing Process](/songs/pqr/Quicksand/Freezing%20Process)
+* [Landmine Spring](/songs/pqr/Quicksand/Landmine%20Spring)
+* [Simpleton](/songs/pqr/Quicksand/Simpleton)

@@ -1,0 +1,5 @@
+* [I Need Somebody](/songs/ghi/Iggy%20And%20The%20Stooges/I%20Need%20Somebody)
+* [Raw Power](/songs/ghi/Iggy%20And%20The%20Stooges/Raw%20Power)
+* [Search and destroy](/songs/ghi/Iggy%20And%20The%20Stooges/Search%20and%20destroy)
+* [Shake Appeal](/songs/ghi/Iggy%20And%20The%20Stooges/Shake%20Appeal)
+* [The Passenger](/songs/ghi/Iggy%20And%20The%20Stooges/The%20Passenger)

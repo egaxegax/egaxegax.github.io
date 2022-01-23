@@ -1,0 +1,1 @@
+* [Luna de fuego](/songs/ghi/Gipsy%20Kings/Luna%20de%20fuego)

@@ -1,0 +1,18 @@
+![](/songs/ghi/HIM/cover.jpg)  
+Популярная финская рок-группа, появившаяся в 1991.
+
+* [Again](/songs/ghi/HIM/Again)
+* [Beautiful](/songs/ghi/HIM/Beautiful)
+* [Bury Me Deep Inside Your Heart](/songs/ghi/HIM/Bury%20Me%20Deep%20Inside%20Your%20Heart)
+* [Close To The Flame](/songs/ghi/HIM/Close%20To%20The%20Flame)
+* [For You](/songs/ghi/HIM/For%20You)
+* [Heartkiller](/songs/ghi/HIM/Heartkiller)
+* [Heaven Tonight](/songs/ghi/HIM/Heaven%20Tonight)
+* [Love You Like I Do](/songs/ghi/HIM/Love%20You%20Like%20I%20Do)
+* [Love's Requiem](/songs/ghi/HIM/Love's%20Requiem)
+* [Pretending](/songs/ghi/HIM/Pretending)
+* [Right Here In My Arms](/songs/ghi/HIM/Right%20Here%20In%20My%20Arms)
+* [Sacrament](/songs/ghi/HIM/Sacrament)
+* [Salt In Our Wounds](/songs/ghi/HIM/Salt%20In%20Our%20Wounds)
+* [The Funeral Of Hearts](/songs/ghi/HIM/The%20Funeral%20Of%20Hearts)
+* [Wicked Game](/songs/ghi/HIM/Wicked%20Game)

@@ -1,0 +1,5 @@
+* [Even You](/songs/def/Dinosaur%20Jr/Even%20You)
+* [Green Mind](/songs/def/Dinosaur%20Jr/Green%20Mind)
+* [Not the Same](/songs/def/Dinosaur%20Jr/Not%20the%20Same)
+* [On The Way](/songs/def/Dinosaur%20Jr/On%20The%20Way)
+* [The Boy with the Thorn in his Side](/songs/def/Dinosaur%20Jr/The%20Boy%20with%20the%20Thorn%20in%20his%20Side)

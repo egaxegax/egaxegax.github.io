@@ -1,0 +1,6 @@
+* [Eddies Song](/songs/stu/Son%20Of%20Dork/Eddies%20Song)
+* [My Best Friend](/songs/stu/Son%20Of%20Dork/My%20Best%20Friend)
+* [Partys Over](/songs/stu/Son%20Of%20Dork/Partys%20Over)
+* [Ticket Outta Loserville](/songs/stu/Son%20Of%20Dork/Ticket%20Outta%20Loserville)
+* [Wear Me Down](/songs/stu/Son%20Of%20Dork/Wear%20Me%20Down)
+* [Were Not Alone](/songs/stu/Son%20Of%20Dork/Were%20Not%20Alone)

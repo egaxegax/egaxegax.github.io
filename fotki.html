@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="description" content="Подборка фотографий, снятых на телефон, о природе, местах, людях">
+<meta name="keywords" content="фотки, картинки, тексты, заметки, фото">
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Фотки / Сайт Григория Еремина</title>
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg">
+<link rel="stylesheet" href="/static/css/main.css">
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js"></script>
+<script src="/static/js/3rdparty/dbcartasvg.js"></script>
+</head>
+<body>
+<table id="main"><tr style="height:1%">
+<td colspan="3" id="header" class="wrapbg">
+<a title="О сайте и контакты" href="/about.html"><img src="/static/img/about.svg" alt="Egax Portal"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/fotki.html"><img src="/static/img/fotki_a.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Карта-Навигатор" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карта-Навигатор"></a>
+</td></tr><tr style="height:1%">
+<td colspan="3" id="page_header"></td></tr><tr>
+<td colspan="3" id="content"><div id="page_content"></div></td></tr><tr style="height:1%">
+<td colspan="3" id="page_footer"></td></tr><tr style="height:1%">
+<td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
+<td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td id="credits"><p> © 2011-2022 &emsp;<a class="nodecor" href="/sitemap.txt" title="Карта сайта">&#128279;</a></p></td></tr>
+</table>
+<script type="text/javascript">
+
+  document.getElementById('page_header').innerHTML = 
+'<table width="99%" class="mtext" style="padding:8px 10px"><tr>'+
+  '<td id="foto_header">Подборка фото, снятых на телефон, о природе, местах, людях.</td>'+
+  '<td align="right">'+
+    '<a class="nodecor" title="Другие фото" href="/foto.html"> &#9733; </a> &nbsp; <select id="albumlist"></select>'+
+  '</td>'+
+'</tr></table>';
+  document.getElementById('page_content').innerHTML = 
+'<div class="wrap">'+
+  '<table cellspacing=0 cellpadding=0 width="100%"><tr>'+
+  '<td id="mcol" style="padding:0; vertical-align:middle"></td>'+
+  '<td width="125px" align="center" style="padding:0 0 0 1px; vertical-align:top">'+
+    '<div id="mlist" style="overflow:auto; height:'+(document.getElementById('content').offsetHeight-20)+'px'+'"></div></td>'+
+  '</tr></table>'+
+'</div>';
+
+  function addFoto(p){
+    var dwimg = dw.root.getElementById('img');
+    if(dwimg) dw.vp.removeChild(dwimg);
+    dw.append('image', p).setAttributeNS('http://www.w3.org/1999/xlink', 'href', p.href);
+  }
+
+  var childs=[];
+  var dw = new dbCartaSvg({
+    id:'mcol',
+    bg: 'transparent',
+    sbarpos: 'left',
+    height: document.getElementById('mlist').offsetHeight
+  });
+  var img = new Image();
+
+  img.onload = function() {
+    var ratio = this.width/this.height,
+        vs = dw.viewsizeOf();  // map sizes degrees
+    var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
+        pts = [dw.toPoints(crds[1]), dw.toPoints(crds[0])];
+    addFoto({
+      id:'img', href: this.src, preserveAspectRatio:'none', cursor:'pointer',
+      x: pts[1][0], y: pts[1][1], width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1]
+    });
+    document.title = this.title + ' - Фотки / Сайт Григория Еремина';
+    document.getElementById('foto_header').innerHTML = this.title;
+    updateMetaTag('description', this.title);
+  };
+
+  loadScript({url: '/foto/fotki.js'}, function(p){
+    for(var k in SUBJ){
+      var falb = TITLES.filter(function(f){ return (f[0] == k); });
+      document.getElementById('albumlist').innerHTML +=
+    '<option value="'+k+'"'+(k == TITLES[0][0] ? ' selected ' : '')+'>'+
+      SUBJ[k]+' ['+falb.length+']'+
+    '</option>';
+    }
+    document.getElementById('albumlist').onchange = function(){
+      var opt = this.options[this.selectedIndex],
+          urls = TITLES.filter(function(a){ return a[0] == opt.value; });
+      document.getElementById('mlist').innerHTML = '';
+      for(var i in urls) {
+        document.getElementById('mlist').innerHTML += 
+      '<div id="av'+i+'">'+
+        '<img class="hspace1" src="/static/img/loader.gif" style="padding:35px;">'+
+      '</div>';
+        var im = document.createElement('img');
+        im.style.padding = '1px 0';
+        im.style.cursor = 'pointer';
+        im.width = 100;
+        im.alt = i;
+        im.src = urls[i][1].replace('.jpg', '.th.jpg');
+        im.title = urls[i][2];
+        im.onclick = function(){
+          addFoto({ id:'img', href: '/static/img/loader.gif', x: dw.centerOf()[0]-24, y: dw.centerOf(0)[1]-24 });
+          img.src = this.src.replace('.th.jpg', '.jpg'); 
+          img.title = this.title;
+        };
+        if(i==0) im.click();
+        im.onload = function(){ 
+          document.getElementById('av' + this.alt).innerHTML = '';
+          document.getElementById('av' + this.alt).appendChild(this);
+        };
+      }
+    }
+    document.getElementById('albumlist').onchange();
+  });
+  
+</script>
+<script src="/static/js/metrics.js"></script>
+</body>
+</html>

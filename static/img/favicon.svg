@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(12 -3) scale(2 2)" stroke="rgb(149,124,143)" fill="transparent">
+    <path stroke-width="6" d="M22,58 12,58 18,31 a13.1,13.1 20 1 1 11,0 L36,58z" />
+  </g>
+</svg>

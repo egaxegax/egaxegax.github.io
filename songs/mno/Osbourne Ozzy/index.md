@@ -1,0 +1,8 @@
+* [Bark At The Moon](/songs/mno/Osbourne%20Ozzy/Bark%20At%20The%20Moon)
+* [Believer](/songs/mno/Osbourne%20Ozzy/Believer)
+* [Dreamer](/songs/mno/Osbourne%20Ozzy/Dreamer)
+* [Killer of Giants](/songs/mno/Osbourne%20Ozzy/Killer%20of%20Giants)
+* [Mama, I'm Coming Home](/songs/mno/Osbourne%20Ozzy/Mama,%20I'm%20Coming%20Home)
+* [Old L.A. tonight](/songs/mno/Osbourne%20Ozzy/Old%20L.A.%20tonight)
+* [Tears](/songs/mno/Osbourne%20Ozzy/Tears)
+* [Thunder Underground](/songs/mno/Osbourne%20Ozzy/Thunder%20Underground)

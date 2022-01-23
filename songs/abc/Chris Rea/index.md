@@ -1,0 +1,5 @@
+* [Fool](/songs/abc/Chris%20Rea/Fool)
+* [Josephine](/songs/abc/Chris%20Rea/Josephine)
+* [Stainsby Girls](/songs/abc/Chris%20Rea/Stainsby%20Girls)
+* [Texas](/songs/abc/Chris%20Rea/Texas)
+* [The road to hell](/songs/abc/Chris%20Rea/The%20road%20to%20hell)

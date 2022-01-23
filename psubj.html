@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="description" content="Темы статей и постов">
+<meta name="keywords" content="статьи, тексты, заметки, фото">
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Заметки / Сайт Григория Еремина</title>
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg">
+<link rel="stylesheet" href="/static/css/main.css">
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js"></script>
+</head>
+<body>
+<table id="main"><tr style="height:1%">
+<td colspan="3" id="header" class="wrapbg">
+<a title="О сайте и контакты" href="/about.html"><img src="/static/img/about.svg" alt="Egax Portal"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_a.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/fotki.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Карта-Навигатор" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карта-Навигатор"></a>
+</td></tr><tr style="height:1%">
+<td colspan="3" id="page_header"></td></tr><tr>
+<td colspan="3" id="content"><div id="page_content"></div></td></tr><tr style="height:1%">
+<td colspan="3" id="page_footer"></td></tr><tr style="height:1%">
+<td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
+<td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td id="credits"><p> © 2011-2022 &emsp;<a class="nodecor" href="/posts/sitemap.txt" title="Карта сайта">&#128279;</a> </p></td></tr>
+</table>
+<script type="text/javascript">
+
+  document.getElementById('page_header').innerHTML = 
+'<p class="mtext hspace">Выберите одну из тем статей: </p>';
+  document.getElementById('page_content').innerHTML =
+'<img class="hspace1" src="/static/img/loader.gif">';
+
+  function addSubj(subj){
+    var tmpl = 
+  '<div class="msgtext">'+
+    '<a class="nodecor" href="/posts.html?'+tr(subj[0])+'">'+
+      '<span style="display: inline-block; width: 600px">'+subj[0]+'</span>'+
+    '</a>'+
+    '<b><i>'+subj[1]+'</i></b>'+
+    '<div class="hspace">'+
+      '<div class="gray smaller"><i>'+buildDate(subj[2])+'</i></div>'+
+    '</div>'+
+  '</div>';
+    return tmpl;
+  }
+
+  loadScript({url: '/posts/index.js'}, function(p){
+    var subjects = SUBJ;
+    subjects.sort(function(a,b){ return arraySort(a[0],b[0]); });
+    document.getElementById('page_content').innerHTML = '';
+    for(var i=0; i<subjects.length; i++){
+      document.getElementById('page_content').innerHTML += 
+    '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i])+'</div>'
+    }
+    if (!subjects.length){
+      document.getElementById('page_content').innerHTML += 
+    '<div class="mtext hspace">Нет данных</div>'+addImgConfuse();
+    }
+  });
+
+</script>
+<script src="/static/js/metrics.js"></script>
+</body>
+</html>

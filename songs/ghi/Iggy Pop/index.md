@@ -1,0 +1,7 @@
+* [Butt Town](/songs/ghi/Iggy%20Pop/Butt%20Town)
+* [Candy](/songs/ghi/Iggy%20Pop/Candy)
+* [Drink New Blood](/songs/ghi/Iggy%20Pop/Drink%20New%20Blood)
+* [Little Know It All](/songs/ghi/Iggy%20Pop/Little%20Know%20It%20All)
+* [Lust For Life](/songs/ghi/Iggy%20Pop/Lust%20For%20Life)
+* [Now I Wanna Be Your Dog](/songs/ghi/Iggy%20Pop/Now%20I%20Wanna%20Be%20Your%20Dog)
+* [The Passenger](/songs/ghi/Iggy%20Pop/The%20Passenger)

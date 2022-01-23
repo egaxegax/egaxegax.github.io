@@ -1,0 +1,6 @@
+* [Blinded by the light](/songs/mno/Mann%20Manfred/Blinded%20by%20the%20light)
+* [Do Wah Diddy Diddy](/songs/mno/Mann%20Manfred/Do%20Wah%20Diddy%20Diddy)
+* [My Name Is Jack](/songs/mno/Mann%20Manfred/My%20Name%20Is%20Jack)
+* [Semi-detached Suburban Mr. James](/songs/mno/Mann%20Manfred/Semi-detached%20Suburban%20Mr.%20James)
+* [Sha La La](/songs/mno/Mann%20Manfred/Sha%20La%20La)
+* [With God On Our Side](/songs/mno/Mann%20Manfred/With%20God%20On%20Our%20Side)

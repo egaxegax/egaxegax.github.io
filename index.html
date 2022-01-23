@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="description" content="Что нового? Новости, изменения, обновления на сайте и не только."/>
+<meta name="keywords" content="Записки, сообщения, комментарии, новости, тексты, заметки, фото"/>
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Записки / Сайт Григория Еремина</title>
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg">
+<link rel="stylesheet" href="/static/css/main.css">
+<link rel="stylesheet" href="/static/css/markdown.css">
+<script src="/static/js/3rdparty/showdown.min.js"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js"></script>
+</head>
+<body>
+<table id="main"><tr style="height:1%">
+<td colspan="3" id="header" class="wrapbg">
+<a title="О сайте и контакты" href="/about.html"><img src="/static/img/about.svg" alt="Egax Portal"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_a.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/fotki.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Карта-Навигатор" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карта-Навигатор"></a>
+</td></tr><tr style="height:1%">
+<td colspan="3" id="page_header"></td></tr><tr>
+<td colspan="3" id="content"><div id="page_content"></div></td></tr><tr style="height:1%">
+<td colspan="3" id="page_footer"></td></tr><tr style="height:1%">
+<td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
+<td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td id="credits"><p> © 2011-2022 &emsp; <a class="nodecor" href="/vesti/sitemap.txt" title="Карта сайта">&#128279;</a></p></td></tr>
+</table>
+<script type="text/javascript">
+
+  document.getElementById('page_header').innerHTML = 
+'<p class="mtext hspace">Краткая хроника изменений на сайте и не только.</p>';
+  document.getElementById('page_content').innerHTML =
+'<img class="hspace1" src="/static/img/loader.gif">';
+
+  function addMsg(r, p){
+    var converter = new showdown.Converter(),
+        text = r
+          .replace(/\/photos\//g, '/fotki/')
+          .replace(/\r\r\n/g, '\n')
+          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
+          .replace(/\{: class=rounded :\}/g, ''),
+        html = converter.makeHtml(text);
+    var meta = document.head.getElementsByTagName('meta');
+    for(var j in meta){
+      if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
+    }
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext">'+html+'</div>'+
+  '<div class="msgfooter" >'+
+    '<a class="nodecor hspace" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&#10138;</a>'+
+    '<span class="gray"><i>'+buildDate(p.title[3])+'</i></span>'+
+  '</div>';
+  }
+
+  loadScript({url: '/vesti/index.js'}, function(p){
+    var roots = ROOTS,
+        subjects = SUBJ,
+        msgs = TITLES;
+    for(var p in urlParams()){
+      var pp = p.split('/');
+//      console.log(pp);
+      if(p == 'page' && urlParams().page){ // ?page
+        // paginate
+      }else if(pp.length>1){ // ?subj/msg
+        msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
+        if(msgs.length) document.title = document.title.replace('/', ' от ' + buildDate(msgs[0][3]).split('&nbsp;')[0] + ' / ');
+      }else if(pp.length>0){ // ?subj
+        msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0]) == pp[0]); });
+        if(msgs.length) document.title = document.title.replace('/', ' за ' + subjects[msgs[0][0]][0] + ' / ');
+      }
+    }
+    var per_page = 5,
+        page_num = urlParams().page||1,
+        page_bottom = (page_num-1)*per_page,
+        page_top = page_bottom+per_page;
+    var page_titles = msgs.slice(page_bottom, page_top);
+    document.getElementById('page_content').innerHTML = '';
+    for(var i=0; i<page_titles.length; i++){
+      var subj = subjects[ parseInt(page_titles[i][0]) ][0], // skip lead 0
+          root = roots[page_titles[i][4]][0],
+          title = page_titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="msg'+i+'">'+
+      (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'msg'+ i, if: i==0, subj: subj, title: page_titles[i], url: '/vesti/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
+        var wrap = document.getElementById(p.id);
+        wrap.className = 'wrap';
+        addMsg(r,p);
+      });
+    }
+    if (page_titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(msgs, per_page, page_num);
+    } else {
+      updateMetaTag('robots', 'noindex');
+      document.getElementById('page_content').innerHTML += 
+    '<div class="mtext hspace">Нет данных </div>'+addImgConfuse();
+    }
+  });
+
+</script>
+<script src="/static/js/metrics.js"></script>
+</body>
+</html>

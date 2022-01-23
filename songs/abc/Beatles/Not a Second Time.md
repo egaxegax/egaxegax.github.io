@@ -1,0 +1,16 @@
+<!--2020-09-06 15:28:27-->
+Not a Second Time  
+  *(Lennon/McCartney)*  
+  
+  Yoy know you made me cry,  
+  I see no use in wond'ring why,  
+  I cried for you.  
+  
+  And now, you've changed your mind,  
+  I see no reason to change mine,  
+  I cried, it's through, oh.  
+  
+  Oh, you're giving me the same old line,  
+  I'm wond'ring why,  
+  You hurt me then, you're back again,  
+  No, no, not a second time.

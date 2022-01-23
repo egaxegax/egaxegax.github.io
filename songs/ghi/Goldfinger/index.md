@@ -1,0 +1,8 @@
+* [20 Cent Goodbye](/songs/ghi/Goldfinger/20%20Cent%20Goodbye)
+* [Chris Cayton](/songs/ghi/Goldfinger/Chris%20Cayton)
+* [Disorder](/songs/ghi/Goldfinger/Disorder)
+* [I Need to Know](/songs/ghi/Goldfinger/I%20Need%20to%20Know)
+* [Mable](/songs/ghi/Goldfinger/Mable)
+* [Superman](/songs/ghi/Goldfinger/Superman)
+* [This Lonely Place](/songs/ghi/Goldfinger/This%20Lonely%20Place)
+* [Too Late](/songs/ghi/Goldfinger/Too%20Late)

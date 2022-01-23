@@ -1,0 +1,5 @@
+* [Closer](/songs/mno/Melanie%20C/Closer)
+* [Ga Ga](/songs/mno/Melanie%20C/Ga%20Ga)
+* [I Turn To You](/songs/mno/Melanie%20C/I%20Turn%20To%20You)
+* [If That Were Me](/songs/mno/Melanie%20C/If%20That%20Were%20Me)
+* [Never be the same again](/songs/mno/Melanie%20C/Never%20be%20the%20same%20again)

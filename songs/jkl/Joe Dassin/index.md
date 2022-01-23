@@ -1,0 +1,7 @@
+* [A Toi](/songs/jkl/Joe%20Dassin/A%20Toi)
+* [Et si tu nexistais pas](/songs/jkl/Joe%20Dassin/Et%20si%20tu%20nexistais%20pas)
+* [L'ete Indien (2 вариант)](/songs/jkl/Joe%20Dassin/L'ete%20Indien%20(2%20вариант))
+* [L'ete Indien](/songs/jkl/Joe%20Dassin/L'ete%20Indien)
+* [Les Champs-Elisees (2 вариант)](/songs/jkl/Joe%20Dassin/Les%20Champs-Elisees%20(2%20вариант))
+* [Les Champs-Elisees](/songs/jkl/Joe%20Dassin/Les%20Champs-Elisees)
+* [Salut](/songs/jkl/Joe%20Dassin/Salut)

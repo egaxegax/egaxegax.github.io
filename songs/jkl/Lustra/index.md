@@ -1,0 +1,1 @@
+* [Scotty Doesn't Know](/songs/jkl/Lustra/Scotty%20Doesn't%20Know)

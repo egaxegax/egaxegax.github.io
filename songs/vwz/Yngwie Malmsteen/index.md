@@ -1,0 +1,6 @@
+* [Bite the Bullet](/songs/vwz/Yngwie%20Malmsteen/Bite%20the%20Bullet)
+* [Black Star](/songs/vwz/Yngwie%20Malmsteen/Black%20Star)
+* [Farewell](/songs/vwz/Yngwie%20Malmsteen/Farewell)
+* [Marching Out](/songs/vwz/Yngwie%20Malmsteen/Marching%20Out)
+* [Save Our Love](/songs/vwz/Yngwie%20Malmsteen/Save%20Our%20Love)
+* [Trilogy Suite OP5](/songs/vwz/Yngwie%20Malmsteen/Trilogy%20Suite%20OP5)

@@ -1,0 +1,7 @@
+* [A Message to you, rudy](/songs/stu/Skaльпель/A%20Message%20to%20you,%20rudy)
+* [Be prepared](/songs/stu/Skaльпель/Be%20prepared)
+* [Буйство Амбиций](/songs/stu/Skaльпель/Буйство%20Амбиций)
+* [Город](/songs/stu/Skaльпель/Город)
+* [Друзья](/songs/stu/Skaльпель/Друзья)
+* [Кинг Конг](/songs/stu/Skaльпель/Кинг%20Конг)
+* [Праздник](/songs/stu/Skaльпель/Праздник)
