@@ -1,1 +1,0 @@
-* [Don't tell me what to do](/songs/abc/Baby%20Animals/Don't%20tell%20me%20what%20to%20do)

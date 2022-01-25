@@ -1,2 +1,0 @@
-<!--2015-12-08 21:28:07-->
-In one of his novels, author Doyle distressed readers by allowing both Sherlock Holmes and his adversary Professor Moriarty to die. Then in 1903, to please readers, he resuscitates the famous sleuth. The stories in this collection tell of his return.

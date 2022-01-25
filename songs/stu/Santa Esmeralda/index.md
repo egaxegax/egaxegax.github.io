@@ -1,1 +1,0 @@
-* [Don't Let me be Misunderstood](/songs/stu/Santa%20Esmeralda/Don't%20Let%20me%20be%20Misunderstood)

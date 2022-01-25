@@ -1,1 +1,0 @@
-* [Granada](/songs/abc/Albeniz%20Isaac/Granada)

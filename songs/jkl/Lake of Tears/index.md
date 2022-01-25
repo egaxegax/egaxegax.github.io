@@ -1,1 +1,0 @@
-* [Headstones](/songs/jkl/Lake%20of%20Tears/Headstones)

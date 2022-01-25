@@ -1,1 +1,0 @@
-* [Ballad For Kay](/songs/abc/Acoustic%20Alchemy/Ballad%20For%20Kay)

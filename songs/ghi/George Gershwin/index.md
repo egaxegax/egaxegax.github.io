@@ -1,1 +1,0 @@
-* [Summertime](/songs/ghi/George%20Gershwin/Summertime)

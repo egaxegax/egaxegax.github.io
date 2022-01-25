@@ -1,1 +1,0 @@
-* [When I See You Smile](/songs/abc/Bad%20English/When%20I%20See%20You%20Smile)

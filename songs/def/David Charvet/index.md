@@ -1,1 +1,0 @@
-* [Leap of faith](/songs/def/David%20Charvet/Leap%20of%20faith)

@@ -1,1 +1,0 @@
-* [This Guy's In Love With You](/songs/abc/Bacharach%20Burt/This%20Guy's%20In%20Love%20With%20You)

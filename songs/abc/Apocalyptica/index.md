@@ -1,1 +1,0 @@
-* [Path](/songs/abc/Apocalyptica/Path)

@@ -1,1 +1,0 @@
-* [My Redeemer Lives](/songs/ghi/Hillsongs/My%20Redeemer%20Lives)

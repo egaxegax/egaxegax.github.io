@@ -1,1 +1,0 @@
-* [Kiss Me](/songs/stu/Sixpence%20None%20the%20Richer/Kiss%20Me)

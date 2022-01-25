@@ -1,1 +1,0 @@
-* [Freedy Johnston](/songs/abc/Bad%20Reputation/Freedy%20Johnston)

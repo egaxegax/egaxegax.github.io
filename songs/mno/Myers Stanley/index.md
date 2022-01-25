@@ -1,1 +1,0 @@
-* [Cavatina](/songs/mno/Myers%20Stanley/Cavatina)

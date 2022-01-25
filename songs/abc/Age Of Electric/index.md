@@ -1,1 +1,0 @@
-* [Remote Control](/songs/abc/Age%20Of%20Electric/Remote%20Control)
