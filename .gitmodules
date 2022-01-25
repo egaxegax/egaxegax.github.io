@@ -1,0 +1,9 @@
+[submodule "books"]
+	path = books
+	url = ../books
+[submodule "posts"]
+	path = posts
+	url = ../posts
+[submodule "songs"]
+	path = songs
+	url = ../songs
