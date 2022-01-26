@@ -1,9 +1,0 @@
-[submodule "books"]
-	path = books
-	url = https://github.com/egaxegax/books.git
-[submodule "posts"]
-	path = posts
-	url = https://github.com/egaxegax/posts.git
-[submodule "songs"]
-	path = songs
-	url = https://github.com/egaxegax/songs.git
