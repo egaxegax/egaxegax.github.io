@@ -3,7 +3,7 @@
 # Make index.md files with list of dir files.
 # Convert song .txt files to .md from current dir.
 #
-# python list.py
+# python ../list.py
 #
 
 import re
@@ -15,6 +15,22 @@ def E_OS(text):
     return text.decode('cp1251').encode('utf-8')
   return text
 
+def TR(t):
+  ru = {
+    'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 
+    'е':'e', 'ё':'e', 'ж':'j', 'з':'z', 'и':'i', 'й':'j', 
+    'к':'k', 'л':'l', 'м':'m', 'н':'n', 'о':'o', 
+    'п':'p', 'р':'r', 'с':'s', 'т':'t', 'у':'u', 
+    'ф':'f', 'х':'h', 'ц':'c', 'ч':'ch', 'ш':'sh', 
+    'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
+  }
+  tr = []
+  t = re.sub(r'[ъь\'"`\(\)\.,%]+','',t)
+  t = re.sub(r'\s','_',t)
+  for s in t:
+    tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
+  return ''.join(tr).lower()
+
 def SP(text):
   return text.replace(' ', '%20')
 
@@ -22,12 +38,14 @@ path = '.'
 cwd = os.path.basename(os.getcwd())
 
 for root, dirs, files in os.walk(path, topdown=False):
-  iroots = []
   ititles = []
   files.sort()
 
   roots = E_OS(os.path.basename(os.path.dirname(root)))
   subj = E_OS(os.path.basename(root))
+
+  if '.git' in root:
+    continue
 
   for name in files:
     fname, ext = os.path.splitext(name)
@@ -36,7 +54,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     if name in ('index.md', 'sitemap.txt'):
       continue
 
-    if cwd in ('songs') and ext in ('.txt'):
+    if cwd in ('songs',) and ext in ('.txt',):
       text = open(os.path.join(root, name)).read()
       text = re.sub('[\t ]*\n', '\n', text)
       text = re.sub('(^|\n)!([\t ]*)(.*)', r'\1\2*\3*', text)
@@ -49,25 +67,25 @@ for root, dirs, files in os.walk(path, topdown=False):
       text = re.sub('\n', '  \n', text) # two spaces newline
       text = re.sub('(^<\!--.*-->)\s*', r'\1\n', text) # revert comments
       open(os.path.join(root, fname + '.md'), 'w').write(text)
-    elif cwd in ('books', 'posts', 'vesti') and ext in ('.md'):
+    elif cwd in ('books', 'posts', 'songs', 'vesti') and ext in ('.md',):
       if fname == 'about':
         text = open(os.path.join(root, name)).read()
     else:
       continue
-      
+
     lntit = '[' + title + '](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), SP(title))) + ')'
     if fname == 'about': # +about text
       text = re.sub('(^<\!--.*-->)', '', text)
       ititles = [text + '\n'] + ititles
     else:
       ititles.append('* ' + lntit)
-    
-    print(subj, name)      
+
+    print(roots, subj, name)      
 
   if ititles: # titles list
     text = ''
-    if os.path.isfile(os.path.join(root, 'cover.jpg')):
-      text = '![](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), 'cover.jpg')) + ')  \n'
+    if os.path.isfile(os.path.join(root, TR(subj) + '.jpg')):
+      text = '![](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), TR(subj) + '.jpg')) + ')  \n'
     text += '\n'.join(ititles)
     open(os.path.join(root, 'index.md'), 'w').write(text)
 
@@ -75,7 +93,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     isubj = []
     dirs.sort()
     for name in dirs:
-      isubj.append( '* [' + name + '](' + os.path.normpath(os.path.join('/', cwd, subj, SP(name))) + ')' )
+      if name != '.git':
+        isubj.append( '* [' + name + '](' + os.path.normpath(os.path.join('/', cwd, subj, SP(name))) + ')' )
     text = '\n'.join(isubj)
-    if not os.path.isfile(os.path.join(root, 'index.md')):
-      open(os.path.join(root, 'index.md'), 'w').write(text)
+    open(os.path.join(root, 'index.md'), 'w').write(text)

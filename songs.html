@@ -75,7 +75,7 @@ img.av { width: 100%; height: auto; }
   '</table>';
     var img = new Image();
     img.className = "rounded av";
-    img.src = '/songs/'+p.root+'/'+p.subj+'/cover.jpg';
+    img.src = '/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
   
@@ -100,7 +100,7 @@ img.av { width: 100%; height: auto; }
   '</dl>';
     var img = new Image();
     img.className = "rounded hmarg";
-    img.src = '/songs/'+p.root+'/'+p.subj+'/cover.jpg';
+    img.src = '/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
 
