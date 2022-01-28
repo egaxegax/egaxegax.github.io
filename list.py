@@ -78,7 +78,10 @@ for root, dirs, files in os.walk(path, topdown=False):
       text = re.sub('(^<\!--.*-->)', '', text)
       ititles = [text + '\n'] + ititles
     else:
-      ititles.append('* ' + lntit)
+      if os.path.isfile(os.path.join(root, title + '.jpg')): # exists book image
+        ititles.append('* ![](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), SP(title) + '.jpg')) + ') ' + lntit)
+      else:
+        ititles.append('* ' + lntit)
 
     print(roots, subj, name)      
 
