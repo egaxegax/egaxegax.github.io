@@ -138,3 +138,5 @@ for d in ['books', 'posts', 'songs', 'vesti', 'dbcartajs']:
     print(d + ' added to sitemap.txt',)
   except: 
     print(d + ' skip')
+
+import list

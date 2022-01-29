@@ -80,7 +80,6 @@
 
   loadScript({url: '/foto/index.js'}, function(p){
     for(var k in SUBJ){
-//      [0, 'https://ia.wampi.ru/2020/12/11/elka.jpg', 'Елка новогодняя. Декабрь 2020г.'],
       var falb = TITLES.filter(function(f){ return (f[0] == k); });
       document.getElementById('albumlist').innerHTML +=
     '<option value="'+k+'"'+(k == TITLES[0][0] ? ' selected ' : '')+'>'+

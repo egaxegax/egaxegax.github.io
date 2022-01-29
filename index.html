@@ -37,7 +37,13 @@
 <script type="text/javascript">
 
   document.getElementById('page_header').innerHTML = 
-'<p class="mtext hspace">Краткая хроника изменений на сайте и не только.</p>';
+'<table width="99%" class="mtext" style="padding:8px 10px"><tr>'+
+  '<td id="vestiheader">Краткая хроника изменений на сайте и не только.</td>'+
+  '<td align="right">'+
+    '<a class="nodecor" title="Wiki-версия Записок" href="/vesti" style="font-family:Times"> w </a> &nbsp; '+
+    '<select id="yearlist"></select>'+
+  '</td>'+
+'</tr></table>';
   document.getElementById('page_content').innerHTML =
 '<img class="hspace1" src="/static/img/loader.gif">';
 
@@ -65,18 +71,32 @@
     var roots = ROOTS,
         subjects = SUBJ,
         msgs = TITLES;
+    var ysel = -1;
     for(var p in urlParams()){
       var pp = p.split('/');
-//      console.log(pp);
       if(p == 'page' && urlParams().page){ // ?page
         // paginate
       }else if(pp.length>1){ // ?subj/msg
         msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
         if(msgs.length) document.title = document.title.replace('/', ' от ' + buildDate(msgs[0][3]).split('&nbsp;')[0] + ' / ');
+        subjects.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
       }else if(pp.length>0){ // ?subj
         msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0]) == pp[0]); });
         if(msgs.length) document.title = document.title.replace('/', ' за ' + subjects[msgs[0][0]][0] + ' / ');
+        subjects.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
       }
+    }
+    document.getElementById('vestiheader').innerHTML =
+  'Сводка изменений и событий в <i><b>'+msgs.length+'</b></i> записках.';
+    document.getElementById('yearlist').innerHTML =
+  '<option value="-1"'+(ysel == -1 ? ' selected ' : '')+'> Все </option>';
+    for(var k in SUBJ){
+      document.getElementById('yearlist').innerHTML +=
+    '<option value="'+SUBJ[k][0]+'"'+(k == ysel ? ' selected ' : '')+'>'+SUBJ[k][0]+'</option>';
+    }
+    document.getElementById('yearlist').onchange = function(){
+      var opt = this.options[this.selectedIndex];
+      window.location = '/index.html' + (opt.value == '-1' ? '' : '?' + opt.value);
     }
     var per_page = 5,
         page_num = urlParams().page||1,
