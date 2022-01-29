@@ -79,7 +79,7 @@ for root, dirs, files in os.walk(path, topdown=False):
       ititles = [text + '\n'] + ititles
     else:
       if os.path.isfile(os.path.join(root, title + '.jpg')): # exists book image
-        ititles.append('* ![](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), SP(title) + '.jpg')) + ') ' + lntit)
+        ititles.append('![](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), SP(title) + '.jpg')) + ')  \n' + lntit)
       else:
         ititles.append('* ' + lntit)
 
@@ -93,7 +93,10 @@ for root, dirs, files in os.walk(path, topdown=False):
     open(os.path.join(root, 'index.md'), 'w').write(text)
 
   if dirs: # subdirs list
-    isubj = []
+    text = 'Список разделов'
+    if subj != '.':
+      text += ' *' + subj + '*'
+    isubj = [text + '\n']
     dirs.sort()
     for name in dirs:
       if name != '.git':
