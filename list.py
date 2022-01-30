@@ -73,13 +73,13 @@ for root, dirs, files in os.walk(path, topdown=False):
     else:
       continue
 
-    lntit = '[' + title + '](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), SP(title))) + ')'
+    lntit = '[' + title + '](' + SP(title) + ')'
     if fname == 'about': # +about text
       text = re.sub('(^<\!--.*-->)\n', '', text)
       ititles = [text + '\n'] + ititles
     else:
       if os.path.isfile(os.path.join(root, title + '.jpg')): # exists book image
-        ititles.append('![](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), SP(title) + '.jpg')) + ')  \n' + lntit + '\n')
+        ititles.append('![](' + SP(title) + '.jpg' + ')  \n' + lntit + '\n')
       else:
         ititles.append('* ' + lntit)
 
@@ -88,7 +88,7 @@ for root, dirs, files in os.walk(path, topdown=False):
   if ititles: # titles list
     text = ''
     if os.path.isfile(os.path.join(root, TR(subj) + '.jpg')):
-      text = '![](' + os.path.normpath(os.path.join('/', cwd, roots, SP(subj), TR(subj) + '.jpg')) + ')\n\n'
+      text = '![](' + TR(subj) + '.jpg' + ')\n\n'
     text += '\n'.join(ititles)
     open(os.path.join(root, 'index.md'), 'w').write(text)
 
@@ -100,6 +100,6 @@ for root, dirs, files in os.walk(path, topdown=False):
     dirs.sort()
     for name in dirs:
       if name != '.git':
-        isubj.append( '* [' + name + '](' + os.path.normpath(os.path.join('/', cwd, subj, SP(name))) + ')' )
+        isubj.append( '* [' + name + '](' + SP(name) + ')' )
     text = '\n'.join(isubj)
     open(os.path.join(root, 'index.md'), 'w').write(text)
