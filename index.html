@@ -59,7 +59,7 @@
     for(var j in meta){
       if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
     }
-    document.getElementById(p.id).innerHTML += 
+    document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+html+'</div>'+
   '<div class="msgfooter" >'+
     '<a class="nodecor hspace" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&#10138;</a>'+
