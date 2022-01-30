@@ -52,9 +52,9 @@
         text = r
           .replace(/\/photos\//g, '/fotki/')
           .replace(/\r\r\n/g, '\n')
-          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
-          .replace(/\{: class=rounded :\}/g, ''),
-        html = converter.makeHtml(text);
+          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
+        html = converter.makeHtml(text)
+          .replace(/<img src="/g, '<img src="'+p.url+'/../');
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
       if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
@@ -115,7 +115,6 @@
       upfunc({id: 'msg'+ i, if: i==0, subj: subj, title: page_titles[i], url: '/vesti/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
-        wrap.innerHTML = '<base href="/vesti/'+root+'/'+subj+'/">';
         addMsg(r,p);
       });
     }

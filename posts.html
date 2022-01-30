@@ -55,11 +55,11 @@
         text = r
           .replace(/\/photos\//g, '/fotki/')
           .replace(/\r\r\n/g, '\n')
-          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n')
-          .replace(/\{: class=rounded :\}/g, ''),
-        html = converter.makeHtml(text);
+          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
+        html = converter.makeHtml(text)
+          .replace(/<img src="/g, '<img src="'+p.url+'/../');
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
-    document.getElementById(p.id).innerHTML += 
+    document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     (p.title[2] !== 'about' ? 
   '<h3><a class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'">'+p.title[2]+'</a></h3>'
@@ -139,7 +139,6 @@
         if(st == 200) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
           wrap.className = 'wrap';
-          wrap.innerHTML += '<base href="/posts/'+root+'/'+subj+'/">';
           addPost(r,p);
         }
       });
