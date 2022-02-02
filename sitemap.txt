@@ -2354,6 +2354,8 @@ https://egaxegax.github.io/books.html?genrih_mann/venera
 https://egaxegax.github.io/books.html?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books.html?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books.html?artur_konan_dojl/belyj_otryad
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/mark_tven_amerikanskij_pisatel
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/novyj_byt
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/pavlovskij_posad
@@ -2364,7 +2366,6 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/prosmotr_zaryada_b
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/troick
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/pushchino
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/istra
-https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/mihail_lomonosov_russkij_uchenyj
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/ruza
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/protvino
@@ -2522,7 +2523,6 @@ https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/shri_chinmoj_in
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/uinston_cherchill_anglijskij_politicheskij_deyatel
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/oskar_uajld_britanskij_pisatel
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/teodor_ruzvelt_amerikanskij_politicheskij_deyatel
-https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/mark_tven_amerikanskij_pisatel
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/mahatma_gandi_indijskij_politicheskij_deyatel
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/djon_golsuorsi_anglijskij_pisatel
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/genrih_mann_nemeckij_pisatel
