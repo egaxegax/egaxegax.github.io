@@ -1,13 +1,13 @@
-https://egaxegax.github.io/foto.html?priroda
-https://egaxegax.github.io/foto.html?priroda/jugo-zapadnyj_bereg_kotlinajpg
-https://egaxegax.github.io/foto.html?moskva
-https://egaxegax.github.io/foto.html?moskva/yasenevskie_prudyjpg
-https://egaxegax.github.io/foto.html?moskva/varshavskie_prudyjpg
-https://egaxegax.github.io/foto.html?moskva/kirovogradskie_prudyjpg
-https://egaxegax.github.io/foto.html?priroda/bolshoj_muhomorjpg
-https://egaxegax.github.io/foto.html?priroda/cvetochek_sinenkijjpg
-https://egaxegax.github.io/foto.html?priroda/cvetok_sinjuhajpg
-https://egaxegax.github.io/foto.html?cerkvi
-https://egaxegax.github.io/foto.html?cerkvi/dunilovo_ivanovskaya_oblastjpg
-https://egaxegax.github.io/foto.html?cerkvi/rodionovo_leningradskaya_oblastjpg
-https://egaxegax.github.io/foto.html?cerkvi/kiji_kareliyajpg
+https://egaxegax.github.io/foto/Природа
+https://egaxegax.github.io/foto/Природа/Юго-западный берег Котлина.JPG
+https://egaxegax.github.io/foto/Москва
+https://egaxegax.github.io/foto/Москва/Ясеневские пруды.JPG
+https://egaxegax.github.io/foto/Москва/Варшавские пруды.JPG
+https://egaxegax.github.io/foto/Москва/Кировоградские пруды.JPG
+https://egaxegax.github.io/foto/Природа/Большой мухомор.JPG
+https://egaxegax.github.io/foto/Природа/Цветочек синенький.JPG
+https://egaxegax.github.io/foto/Природа/Цветок синюха.JPG
+https://egaxegax.github.io/foto/Церкви
+https://egaxegax.github.io/foto/Церкви/Дунилово. Ивановская область.JPG
+https://egaxegax.github.io/foto/Церкви/Родионово. Ленинградская область.JPG
+https://egaxegax.github.io/foto/Церкви/Кижи. Карелия.JPG

@@ -38,7 +38,7 @@
 '<table width="99%" class="mtext" style="padding:8px 10px"><tr>'+
   '<td id="foto_header">Подборка фото, снятых на телефон, о природе, местах, людях.</td>'+
   '<td align="right">'+
-    '<a class="nodecor" title="Ещё фото" href="/fotki.html"> &#9733; </a> &nbsp; <select id="albumlist"></select>'+
+    '<a class="nodecor" title="Ещё фото" href="/fotki.html"> &#949; </a> &nbsp; <select id="albumlist"></select>'+
   '</td>'+
 '</tr></table>';
   document.getElementById('page_content').innerHTML = 
@@ -100,9 +100,9 @@
         im.style.cursor = 'pointer';
 //        im.width = 100;
         im.alt = i;
-        im.fullsrc = '/foto/' + ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/'+ urls[i][2];
-        im.src = '/foto/' + ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/th/'+ urls[i][2].substr(0, urls[i][2].lastIndexOf('.'))+ '.jpeg';
-        im.title = urls[i][2].substr(0, urls[i][2].lastIndexOf('.'));
+        im.fullsrc = '/foto/' + ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/'+ urls[i][2] + '.JPG';
+        im.src = '/foto/' + ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/th/'+ urls[i][2] + '.jpeg';
+        im.title = urls[i][2];
         im.onclick = function(){
           addFoto({ id:'img', href: '/static/img/loader.gif', x: dw.centerOf()[0]-24, y: dw.centerOf(0)[1]-24 });
           img.src = this.fullsrc; 

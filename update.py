@@ -31,8 +31,8 @@ def TR(t):
     'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
   }
   tr = []
-  t = re.sub(r'[ъь\'"`\(\)\.,%]+','',t)
-  t = re.sub(r'\s','_',t)
+  t = re.sub(r'[ъь\'"`\(\)%]+','',t)
+  t = re.sub(r'[\s\.,]+','_',t)
   for s in t:
     tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
   return ''.join(tr).lower()
@@ -62,7 +62,6 @@ for root, dirs, files in os.walk(path, topdown=False):
       ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
     elif cwd in ('foto',) and ext.lower() in ('.jpg',):
       from PIL import Image
-      title = E_OS(name)
       ftime = os.path.getmtime(os.path.join(root, name))
       im = Image.open(os.path.join(root, name))
       im.thumbnail((100,100))
@@ -113,9 +112,9 @@ for i, f in enumerate(mfiles):
   if isubj == -1:
     msubj += [[f[1], 1, f[3], iroots]]
     isubj = len(msubj) - 1
-    murls += [surl +'/'+ sdir +'.html?'+ TR(f[1])]
+    murls += [surl +'/'+ sdir + ('.html?'+ TR(f[1]), '/'+ f[1])[sdir == 'foto']]
   mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
-  murls += [surl +'/'+ sdir +'.html?'+ TR(f[1]) +'/'+ TR(f[2])]
+  murls += [surl +'/'+ sdir +('.html?'+ TR(f[1]+'/'+f[2]), '/'+ f[1] +'/'+ f[2]+ '.JPG')[sdir == 'foto']]
   print( i )
 
 def compact(s):
