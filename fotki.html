@@ -10,6 +10,7 @@
 <title>Фотки / Сайт Григория Еремина</title>
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
+<style type="text/css">img{border:2px transparent solid} img:hover{border:2px yellow solid}</style>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
 <script src="/static/js/3rdparty/dbcartasvg.js"></script>
@@ -50,30 +51,35 @@
   '</tr></table>'+
 '</div>';
 
-  function addFoto(p){
-    var dwimg = dw.root.getElementById('img');
-    if(dwimg) dw.vp.removeChild(dwimg);
-    dw.append('image', p).setAttributeNS('http://www.w3.org/1999/xlink', 'href', p.href);
-  }
-
   var childs=[];
-  var dw = new dbCartaSvg({
+  var DC = new dbCartaSvg({
     id:'mcol',
-    bg: 'transparent',
+    bg: 'rgb(240,245,240)',
     sbarpos: 'left',
     height: document.getElementById('mlist').offsetHeight
   });
-  var img = new Image();
 
+  var img = new Image();
   img.onload = function() {
+    for(var i=0; i<childs.length; i++)
+      DC.vp.removeChild(childs[i]);
+    childs = [];
     var ratio = this.width/this.height,
-        vs = dw.viewsizeOf();  // map sizes degrees
+        vs = DC.viewsizeOf();  // map sizes degrees
     var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
-        pts = [dw.toPoints(crds[1]), dw.toPoints(crds[0])];
-    addFoto({
-      id:'img', href: this.src, preserveAspectRatio:'none', cursor:'pointer',
-      x: pts[1][0], y: pts[1][1], width: pts[0][0]-pts[1][0], height: pts[0][1]-pts[1][1]
+        pts = [DC.toPoints(crds[1]), DC.toPoints(crds[0])];
+    var img = DC.append('image', {
+      width:  pts[0][0]-pts[1][0],
+      height: pts[0][1]-pts[1][1],
+      x: pts[1][0],
+      y: pts[1][1],
+      preserveAspectRatio:'none'
     });
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', this.src);
+    DC.attr(img, {
+      cursor: 'pointer'
+    });
+    childs.push(img);  
     document.title = this.title + ' - Фотки / Сайт Григория Еремина';
     document.getElementById('foto_header').innerHTML = this.title;
     updateMetaTag('description', this.title);
@@ -92,32 +98,28 @@
           urls = TITLES.filter(function(a){ return a[0] == opt.value; });
       document.getElementById('mlist').innerHTML = '';
       for(var i in urls) {
-        document.getElementById('mlist').innerHTML += 
-      '<div id="av'+i+'">'+
-        '<img class="hspace1" src="/static/img/loader.gif" style="padding:35px;">'+
-      '</div>';
-        var im = document.createElement('img');
-        im.style.padding = '1px 0';
+        var im = new Image();
         im.style.cursor = 'pointer';
         im.width = 100;
         im.alt = i;
         im.src = urls[i][1].replace('.jpg', '.th.jpg');
         im.title = urls[i][2];
         im.onclick = function(){
-          addFoto({ id:'img', href: '/static/img/loader.gif', x: dw.centerOf()[0]-24, y: dw.centerOf(0)[1]-24 });
           img.src = this.src.replace('.th.jpg', '.jpg'); 
           img.title = this.title;
         };
-        if(i==0) im.click();
+        if(i==0) {
+          img.src = im.src.replace('.th.jpg', '.jpg'); 
+          img.title = im.title;
+        };
         im.onload = function(){ 
-          document.getElementById('av' + this.alt).innerHTML = '';
-          document.getElementById('av' + this.alt).appendChild(this);
+          document.getElementById('mlist').appendChild(this);
         };
       }
     }
     document.getElementById('albumlist').onchange();
   });
-  
+
 </script>
 <script src="/static/js/metrics.js"></script>
 </body>
