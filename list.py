@@ -75,7 +75,7 @@ for root, dirs, files in os.walk(path, topdown=False):
 
     lntit = '[' + title + '](' + SP(title) + ')'
     if fname == 'about': # +about text
-      text = re.sub('(^<\!--.*-->)\n', '', text)
+      text = re.sub('(^<\!--.*-->)\s*', '', text)
       ititles = [text + '\n'] + ititles
     else:
       if os.path.isfile(os.path.join(root, title + '.jpg')): # exists book image
@@ -93,13 +93,14 @@ for root, dirs, files in os.walk(path, topdown=False):
     open(os.path.join(root, 'index.md'), 'w').write(text)
 
   if dirs: # subdirs list
-    text = 'Список разделов'
+    hdr = 'Список разделов'
     if subj != '.':
-      text += ' *' + subj + '*'
-    isubj = [text + '\n']
+      hdr += ' *' + subj + '*'
+    isubj = []
     dirs.sort()
     for name in dirs:
-      if name != '.git':
+      if name not in ('.git', 'th'): # skip dir
         isubj.append( '* [' + name + '](' + SP(name) + ')' )
     text = '\n'.join(isubj)
-    open(os.path.join(root, 'index.md'), 'w').write(text)
+    if text:
+      open(os.path.join(root, 'index.md'), 'w').write(hdr + '\n\n' + text)

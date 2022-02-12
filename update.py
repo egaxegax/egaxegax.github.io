@@ -60,7 +60,7 @@ for root, dirs, files in os.walk(path, topdown=False):
 
     if cwd in ('vesti',) and ext in ('.md',):
       ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
-    elif cwd in ('fotki',) and ext.lower() in ('.jpg',):
+    elif cwd in ('foto',) and ext.lower() in ('.jpg',):
       from PIL import Image
       title = E_OS(name)
       ftime = os.path.getmtime(os.path.join(root, name))
@@ -126,10 +126,10 @@ def compact(s):
 open('index.js', 'w').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
 open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
-open('sitemap.txt', 'w').write('\n'.join(murls))
+if murls:
+  open('sitemap.txt', 'w').write('\n'.join(murls))
 time.sleep(1)
 
-sitemap = open('../sitemap.txt', 'w')
 sitemap = open('../sitemap.txt', 'a')
 
 for d in ['books', 'posts', 'songs', 'vesti', 'dbcartajs']:
