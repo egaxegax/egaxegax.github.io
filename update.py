@@ -40,7 +40,7 @@ def TR(t):
 path = '.'
 mfiles = []
 
-surl = 'https://egaxegax.github.io'
+surl = ''
 sdir = os.path.basename(os.getcwd())
 if sdir == 'vesti':
   sdir = 'index'
@@ -129,6 +129,7 @@ if murls:
   open('sitemap.txt', 'w').write('\n'.join(murls))
 time.sleep(1)
 
+sitemap = open('../sitemap.txt', 'w') # truncate file
 sitemap = open('../sitemap.txt', 'a')
 
 for d in ['books', 'posts', 'songs', 'vesti', 'dbcartajs']:
