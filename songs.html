@@ -129,7 +129,7 @@ img.av { width: 100%; height: auto; }
     if(!songChords) return;
 
     songChords = songChords.reduce(function(items, chord){
-      chord = chord.replace(/(\s|\(|\))/,'');
+      chord = chord.replace(/(\s|\(|\))/,'').trim();
       var parts = chord.split(":"),
           fp = parts[0],
           p1 = fp.replace(/^[A-GH#b]{1,2}/,''),
