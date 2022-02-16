@@ -40,7 +40,7 @@ def TR(t):
 path = '.'
 mfiles = []
 
-surl = ''
+surl = 'https://egaxegax.github.io'
 sdir = os.path.basename(os.getcwd())
 if sdir == 'vesti':
   sdir = 'index'
