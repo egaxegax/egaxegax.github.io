@@ -2553,7 +2553,10 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sozdanie_self-extr
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
+https://egaxegax.github.io/songs.html?bon_jovi
+https://egaxegax.github.io/songs.html?bon_jovi/do_what_you_can
 https://egaxegax.github.io/songs.html?severnyj_flot
+https://egaxegax.github.io/songs.html?severnyj_flot/podnimaya_znamya
 https://egaxegax.github.io/songs.html?severnyj_flot/veter_hodit_nalegke
 https://egaxegax.github.io/songs.html?blue_system
 https://egaxegax.github.io/songs.html?blue_system/my_bed_is_too_big
@@ -3328,7 +3331,6 @@ https://egaxegax.github.io/songs.html?prikljucheniya_elektronikov
 https://egaxegax.github.io/songs.html?prikljucheniya_elektronikov/london_pposhchaj
 https://egaxegax.github.io/songs.html?james_brown
 https://egaxegax.github.io/songs.html?james_brown/the_payback
-https://egaxegax.github.io/songs.html?bon_jovi
 https://egaxegax.github.io/songs.html?bon_jovi/all_about_lovin_you
 https://egaxegax.github.io/songs.html?bichevskaya_janna/boje_carya_hrani
 https://egaxegax.github.io/songs.html?bichevskaya_janna/oni_projdut
