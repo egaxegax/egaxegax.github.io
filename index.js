@@ -1,3 +1,0 @@
-ROOTS=[];
-SUBJ=[];
-TITLES=[];
