@@ -200,7 +200,7 @@
         if(st == 200) { // skip Not Found pages
           wrap.className = 'wrap';
           (p.title[2] == 'about') ? addAbout(r,p) : 
-          page_view == 'book' ? addLast(r,p) :
+          page_view == 'book' ? addLast(r,p,0) :
           page_view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
         }
       });
