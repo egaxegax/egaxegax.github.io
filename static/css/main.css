@@ -35,7 +35,7 @@ input[class=find-btn] { padding:5px; }
 .msgfooter { padding:0 10px 10px 0; text-align:right; }
 .msgtext dt { padding:5px 0; }
 .msgtext dd { padding-bottom:5px; color:gray; }
-a, a:active, a:focus { color:#4d3ca0; outline:none; }
+a, a:active, a:focus { color:#5645ad; outline:none; }
 a.nodecor, #header a { text-decoration:none; outline:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
 .inl { display:inline; }
