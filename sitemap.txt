@@ -2554,6 +2554,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sozdanie_self-extr
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
+https://egaxegax.github.io/songs.html?iz_kf_ne_mojet_byt
+https://egaxegax.github.io/songs.html?iz_kf_ne_mojet_byt/gubit_ljudej_ne_pivo
 https://egaxegax.github.io/songs.html?25-17
 https://egaxegax.github.io/songs.html?25-17/gorkij_tuman
 https://egaxegax.github.io/songs.html?bruce_springsteen
