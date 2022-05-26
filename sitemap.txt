@@ -2554,6 +2554,9 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sozdanie_self-extr
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
+https://egaxegax.github.io/songs.html?bloodsport_ost
+https://egaxegax.github.io/songs.html?bloodsport_ost/on_my_own_alone
+https://egaxegax.github.io/songs.html?bloodsport_ost/fight_to_survive
 https://egaxegax.github.io/songs.html?robin_zander
 https://egaxegax.github.io/songs.html?robin_zander/in_this_country
 https://egaxegax.github.io/songs.html?iz_kf_ne_mojet_byt
