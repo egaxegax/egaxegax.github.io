@@ -2555,6 +2555,7 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
 https://egaxegax.github.io/songs.html?kickboxer_ost
+https://egaxegax.github.io/songs.html?kickboxer_ost/fight_for_love
 https://egaxegax.github.io/songs.html?kickboxer_ost/streets_of_siam
 https://egaxegax.github.io/songs.html?kickboxer_ost/never_surrender
 https://egaxegax.github.io/songs.html?bloodsport_ost
