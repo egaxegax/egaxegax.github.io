@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Подборы гитарных аккордов к песням, стихи, лирика ">
 <meta name="keywords" content="аккорды, песни, стихи, статьи, тексты, заметки, фото">
 <meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
@@ -20,6 +21,7 @@
 .chords strong em { font-weight: 500; color: #5645ad; font-style: normal; }
 .chords a { text-decoration: none; }
 .chord { color: #4d3ca0; }
+.chord * { display: inline-block; }
 img.av { width: 100%; height: auto; }
 </style>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
@@ -38,16 +40,13 @@ img.av { width: 100%; height: auto; }
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
 <a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_a.svg" alt="Аккорды"></a>
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
-<a title="Карта-Навигатор" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карта-Навигатор"></a>
 </td></tr><tr style="height:1%">
 <td colspan="3" id="page_header"></td></tr><tr>
 <td colspan="3" id="content"><div id="page_content"></div></td></tr><tr style="height:1%">
 <td colspan="3" id="page_footer"></td></tr><tr style="height:1%">
 <td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
 <td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
-<td id="credits"><p> © 2011-2022 &emsp;
-  <a class="nodecor" href="/songs/sitemap.txt" title="Карта сайта по Аккордам">&#128279;</a> &nbsp; 
-  <a class="nodecor" href="/songs" title="Wiki-версия Аккордов" ><i> &#969; </i></a></p></td></tr>
+<td id="credits"> © 2011-2022 &nbsp; <a class="nodecor" href="/songs/sitemap.txt" title="Карта сайта по Аккордам">&#128279;</a> &emsp; </td></tr>
 </table>
 <script>
 
@@ -69,8 +68,8 @@ img.av { width: 100%; height: auto; }
   '<table class="msgtext" width="99%"><tr>'+
     '<td id="im'+p.id+'"></td>'+
     '<td width="88%" class="hspaced">'+
-      '<a class="nodecor pink" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a>'+
-      '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
+      '<a class="nodecor pink" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
+      '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a> '+
       '<div class="hspace gray smaller"><i>'+buildDate(p.title[3])+'</i></div>'+
     '</td>'+
     '<td valign="center" align="right" class="lightgray" width="5%"><i>'+(p.i+1)+'</i></td></tr>'+
@@ -112,9 +111,9 @@ img.av { width: 100%; height: auto; }
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext chords" width="100%"><tr>'+
-    '<td id="songcont" valign="top" width="80%">'+html+'</td>'+
-    '<td id="chordcont" class="chord" valign="top"><br><br><br></td></tr>'+
+  '<table class="msgtext chords" width="99%"><tr>'+
+    '<td id="songcont" valign="top">'+html+'</td></tr><tr>'+
+    '<td id="chordcont" class="chord" valign="top"></td></tr>'+
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
@@ -160,11 +159,10 @@ img.av { width: 100%; height: auto; }
     var per_page = 8,
         page_view = 'last',
         page_header = 
-      '<table width="100%" class="mtext" style="padding:8px 10px"><tr>'+
-        '<td>На сайте <b><i>$COUNT</i></b> текстов <a class="hspace" href="/sarts.html">Разных авторов</a></td>'+
+      '<table width="99%" class="mtext collapse"><tr>'+
+        '<td class="hspace"><p>На сайте <b><i>$COUNT</i></b> текстов разных &emsp;<a href="/sarts.html">Авторов</a></p></td>'+
         '<td align="right">'+
-          '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }"></td>'+
-        '<td width="1%">'+
+          '<input id="tfind" maxlength="100" size="7" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
           '<input type="button" class="find-btn" value="Найти" onclick="find()"></td>'+
       '</tr></table>';
     for(var p in urlParams()){
@@ -178,7 +176,7 @@ img.av { width: 100%; height: auto; }
         if(songs.length){ 
           page_view = 'last';
           page_header = 
-        '<p class="mtext hspace">Найдено <b><i>'+ songs.length+'</i></b> текстов по запросу <i>'+decodeURI(urlParams().find)+'</i></p>';
+        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i></p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
@@ -191,9 +189,9 @@ img.av { width: 100%; height: auto; }
           page_view = 'song';
           page_header = 
         '<p>'+
-          '<h2 class="inl">'+
-            '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a>'+
-            '<span>'+songs[0][2]+'</span>'+
+          '<h2 class="nomarg nopad inl">'+
+            '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> '+
+            '<span class="hspace nowrap">'+songs[0][2]+'</span>'+
           '</h2>'+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', ' + songs[0][2] + ' - ' + document.title;
@@ -206,10 +204,10 @@ img.av { width: 100%; height: auto; }
           page_view = 'list';
           page_header = 
         '<p>'+
-          '<h2 class="inl">'+
-            '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a>'+
-          '</h2>'+
-          '<span class="mtext hspace">Найдено <b><i>'+ songs.length+'</i></b> текстов</span>'+
+          '<h2 class="nomarg nopad inl">'+
+            '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> '+
+          '</h2> '+
+          '<span class="mtext hspace nowrap">Найдено <b><i>'+ songs.length+'</i></b> текстов</span>'+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
@@ -252,6 +250,10 @@ img.av { width: 100%; height: auto; }
       document.getElementById('page_content').innerHTML += 
     '<div class="mtext hspace">Нет данных</div>'+addImgConfuse();
     }
+    document.getElementById('page_footer').innerHTML +=
+  '<p class="cfloat smaller gray hspace">'+
+    '<i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.'+
+  '</p>';
   });
 
 </script>

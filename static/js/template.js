@@ -12,21 +12,21 @@ function addPaginator(list, per_page, page_num){
   var root = 
 '<p class="mtext cfloat">'+
 (has_previous ? 
-  '<a class="nodecor hspace2" href="?'+urlBuild({page: previous_page_number})+'"><span class="bigger">&larr;</span> &nbsp; Назад</a>'
+  '<a class="nodecor" href="?'+urlBuild({page: previous_page_number})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
 : 
 (has_next ? 
-  '<span class="hspace2 lightgray"><span class="bigger">&larr;</span> &nbsp; Назад</span>'
+  '<span class="lightgray"><span class="bigger2">&larr;&emsp;</span> </span>'
 : 
   ''))+
 (num_pages > 1 ?
-  '<span class="hspace2"><b><i>'+String(page_num)+'</i></b>&nbsp; из &nbsp;<b><i>'+String(num_pages)+'</i></b></span>'
+  '<span> <b><i>'+String(page_num)+'</i></b> &nbsp; из &nbsp; <b><i>'+String(num_pages)+'</i></b> </span>'
 :
   '')+
 (has_next ? 
-  '<a class="nodecor hspace2" href="?'+urlBuild({page: next_page_number})+'">Далее &nbsp; <span class="bigger">&rarr;</span></a>'
+  '<a class="nodecor" href="?'+urlBuild({page: next_page_number})+'"> <span class="bigger2">&emsp;&rarr;</span></a>'
 :
 (has_previous ?
-  '<span class="hspace2 lightgray">Далее &nbsp; <span class="bigger">&rarr;</span></span>'
+  '<span class="lightgray"> <span class="bigger2">&emsp;&rarr;</span></span>'
 :
   ''))+
 '</p>';
@@ -57,12 +57,12 @@ function updateMetaTag(name, content){
   }
 }
 //
-// Build date from ymdhms
+// Build date from 'ymdhms' to 'd.m.y h:m'
 //
 function buildDate(d){
   d = String(d);
   if(d.length>=12)
-    return d[0]+d[1]+'.'+d[2]+d[3]+'.'+d[4]+d[5]+'&nbsp;'+d[6]+d[7]+':'+d[8]+d[9];
+    return d[4]+d[5]+'.'+d[2]+d[3]+'.'+d[0]+d[1]+'&nbsp;'+d[6]+d[7]+':'+d[8]+d[9];
   return d;
 }
 //

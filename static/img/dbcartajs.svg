@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg width="120" height="80" xmlns="http://www.w3.org/2000/svg" style="vertical-align:top;">
-<g fill="#958c8f" transform="scale(0.14 0.14) translate(230 34)">
+<svg width="110" height="80" xmlns="http://www.w3.org/2000/svg" style="vertical-align:top">
+<g fill="#958c8f" transform="scale(0.14 0.14) translate(210 34)">
 <path fill="transparent" d="m0 241h106.386c.985-37.555 5.577-72.935 13.235-105h-88.498c-16.938 31.615-28.909 67.24-31.123 105z"/>
 <path fill="#78788c" d="m106.386 271h-106.386c2.214 37.76 14.185 73.385 31.123 105h88.499c-7.658-32.065-12.251-67.445-13.236-105z"/>
 <path d="m241 241v-105h-90.361c-8.21 31.776-13.182 67.478-14.269 105z"/>

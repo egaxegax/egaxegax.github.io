@@ -6,3 +6,5 @@ pre {
   overflow: auto;
   font-size: 19px;
 }
+
+code { white-space:pre-wrap; }
