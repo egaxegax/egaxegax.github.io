@@ -3,7 +3,7 @@
 # Make index.md files with list of dir files.
 # Convert song .txt files to .md from current dir.
 #
-# python ../list.py
+# python ../list.py (from songs)
 #
 
 import re

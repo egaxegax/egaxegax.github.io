@@ -2354,6 +2354,8 @@ https://egaxegax.github.io/books.html?genrih_mann/venera
 https://egaxegax.github.io/books.html?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books.html?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books.html?artur_konan_dojl/belyj_otryad
+https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva
+https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/instrukciya_polzovaniya_sajtom
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/dubrovicy
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
@@ -2473,7 +2475,6 @@ https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/sergej_dovlatov
 https://egaxegax.github.io/posts.html?scenarii_dlya_windows/zapret_vyvoda_soobshchenij_ob_obnovlenii_firefox_63_i_vyshe
 https://egaxegax.github.io/posts.html?scenarii_dlya_windows/udalenie_internet-brauzera_iz_zaplanirovannyh_zadach_windows
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/albert_ejnshtejn_vydajushchijsya_nemeckij_fizik-teoretik
-https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/vosstanovlenie_sistemy_ohlajdeniya_noutbuka_hp_g62-11er
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/uilyam_shekspir_srednevekovyj_anglijskij_poet_i_dramaturg
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/aleksandr_mostovoj_futbolist
@@ -2554,6 +2555,10 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sozdanie_self-extr
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
+https://egaxegax.github.io/songs.html?iz_kf_ivan_vasilevich_menyaet_professiju
+https://egaxegax.github.io/songs.html?iz_kf_ivan_vasilevich_menyaet_professiju/vdrug_kak_v_skazke_skripnula_dver
+https://egaxegax.github.io/songs.html?nimerov_grigorij
+https://egaxegax.github.io/songs.html?nimerov_grigorij/sahara
 https://egaxegax.github.io/songs.html?iz_kf_eta_veselaya_planeta
 https://egaxegax.github.io/songs.html?iz_kf_eta_veselaya_planeta/eta_veselaya_planeta
 https://egaxegax.github.io/songs.html?kickboxer_ost
@@ -2581,7 +2586,6 @@ https://egaxegax.github.io/songs.html?blue_system
 https://egaxegax.github.io/songs.html?blue_system/my_bed_is_too_big
 https://egaxegax.github.io/songs.html?aleksandr_serov
 https://egaxegax.github.io/songs.html?aleksandr_serov/vernis_ljubov
-https://egaxegax.github.io/songs.html?nimerov_grigorij
 https://egaxegax.github.io/songs.html?nimerov_grigorij/futbol
 https://egaxegax.github.io/songs.html?gazmanov_oleg
 https://egaxegax.github.io/songs.html?gazmanov_oleg/dojdis_menya_2
