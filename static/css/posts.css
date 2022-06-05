@@ -11,4 +11,5 @@
 .mt {padding-top:10px;}
 /* podmokovie */
 .dt { display: table; }
+.dt img { margin: 5px; }
 .dtc { display: table-cell; }
