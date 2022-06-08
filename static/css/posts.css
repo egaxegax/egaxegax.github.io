@@ -1,15 +1,15 @@
 /* football */
-.g { border-collapse:collapse; text-align: center; display: block; overflow: auto; max-width:700px;}
+.g { border-collapse:collapse; text-align:center; display:block; overflow:auto; }
 .g td { width:60px; border:1px solid lightgray; }
-.g .col { width:240px; text-align: left; padding-left: 20px; white-space: nowrap; }
-.p { border-collapse: collapse; width:100%; }
-.p .col {width: 210px; padding-left: 20px; white-space: nowrap; }
+.g .col { width:240px; text-align:left; padding-left:20px; white-space:nowrap; }
+.p { border-collapse:collapse; width:100%; display:block; overflow:auto; }
+.p .col {width:210px; padding-left:20px; white-space:nowrap; }
 .bt {border-top:1px solid #aaa;}
 .br {border-right:1px solid #aaa;}
 .bb {border-bottom:1px solid #aaa;}
 .mb {padding-bottom:10px;}
 .mt {padding-top:10px;}
-/* podmokovie */
+/* podmoskovie */
 .dt { display: table; }
 .dt img { margin: 5px; }
 .dtc { display: table-cell; }

@@ -40,6 +40,7 @@ a, a:active, a:focus { color:#5645ad; outline:none; }
 a.nodecor, #header a { text-decoration:none; outline:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
 .inl { display:inline; }
+.grid { display:grid; }
 .hmarg { margin:0 12px; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }

@@ -189,9 +189,9 @@ img.av { width: 100%; height: auto; }
           page_view = 'song';
           page_header = 
         '<p>'+
-          '<h2 class="nomarg nopad inl">'+
+          '<h2 class="nomarg nopad grid">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> '+
-            '<span class="hspace nowrap">'+songs[0][2]+'</span>'+
+            '<span class="hspace">'+songs[0][2]+'</span>'+
           '</h2>'+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', ' + songs[0][2] + ' - ' + document.title;
@@ -203,11 +203,11 @@ img.av { width: 100%; height: auto; }
         if(songs.length){ 
           page_view = 'list';
           page_header = 
-        '<p>'+
-          '<h2 class="nomarg nopad inl">'+
+        '<p claa>'+
+          '<h2 class="nomarg nopad grid">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> '+
           '</h2> '+
-          '<span class="mtext hspace nowrap">Найдено <b><i>'+ songs.length+'</i></b> текстов</span>'+
+          '<span class="mtext hspace">Найдено <b><i>'+ songs.length+'</i></b> текстов</span>'+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page

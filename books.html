@@ -136,7 +136,7 @@
           page_view = 'book';
           page_header = 
         '<p>'+
-          '<h2 class="nomarg nopad inl">'+
+          '<h2 class="nomarg nopad grid">'+
             '<a class="nodecor hspace" href="/books.html?'+tr(wrts[books[0][0]][0])+'">'+wrts[books[0][0]][0]+'</a> '+
             '<span class="hspace">'+books[0][2]+'</span>'+
           '</h2>'+
@@ -155,12 +155,12 @@
           page_view = 'list';
           page_header = 
         '<p>'+
-          '<h2 class="nomarg nopad inl">'+
+          '<h2 class="nomarg nopad grid">'+
             '<a class="nodecor hspace" href="'+
               (wrt.length>0 ? '/books.html?'+tr(wrts[books[0][0]][0]) : '') + '">'+
               (wrt.length>0 ? wrts[books[0][0]][0] : GENRES[roots[books[0][4]][0]]||roots[books[0][4]][0]) +
             '</a>'+
-          '</h2> '+
+          '</h2>'+
           '<span class="mtext hspace nowrap">Найдено <b><i>'+ books.length+'</i></b> книг</span>'+
         '</p>';
           if(gnr.length>0){
