@@ -15,7 +15,7 @@
 <style>
 .about { display: table; }
 .about * { display: table-cell; vertical-align: middle; }
-.about img { max-height: 160px; }
+.about img { max-width: 120px; padding:0px 10px 0px 0px; }
 .chords { line-height: 1.3em; }
 .chords em { font-style: italic; }
 .chords strong em { font-weight: 500; color: #5645ad; font-style: normal; }
@@ -23,6 +23,7 @@
 .chord { color: #4d3ca0; }
 .chord * { display: inline-block; }
 img.av { width: 100%; height: auto; }
+#songcont p { margin-top:0; }
 </style>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -100,7 +101,7 @@ img.av { width: 100%; height: auto; }
     '<p>'+text+'</p>'+
   '</dl>';
     var img = new Image();
-    img.className = "rounded hmarg";
+    img.className = "rounded";
     img.src = '/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }

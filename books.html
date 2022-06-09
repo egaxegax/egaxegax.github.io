@@ -15,6 +15,7 @@
 <style>
 .about { display: table; }
 .about * { display: table-cell; vertical-align: middle; }
+.about img { max-width: 120px; padding:0px 10px 0px 0px; }
 .button { margin: 40px; }
 </style>
 <script src="/static/js/updater.js"></script>
@@ -94,7 +95,7 @@
     '<p>'+text+'</p>'+
   '</dl>';
     var img = new Image();
-    img.className = "rounded hmarg";
+    img.className = "rounded";
     img.src = '/books/img/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
