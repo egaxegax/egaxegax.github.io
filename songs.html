@@ -113,7 +113,7 @@ img.av { width: 100%; height: auto; }
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext chords" width="99%"><tr>'+
-    '<td id="songcont" class="scroll" valign="top">'+html+'</td></tr><tr>'+
+    '<td id="songcont" valign="top">'+html+'</td></tr><tr>'+
     '<td id="chordcont" class="chord" valign="top"></td></tr>'+
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
