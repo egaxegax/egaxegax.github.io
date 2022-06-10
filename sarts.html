@@ -52,7 +52,7 @@ img.av { width: 100%; height: auto; }
   '</table>';
     var img = new Image();
     img.className = "rounded av";
-    img.src = '/songs/'+roots[art[3]][0]+'/'+art[0]+'/cover.jpg';
+    img.src = '/songs/'+roots[art[3]][0]+'/'+art[0]+'/'+tr(art[0])+'.jpg';
     img.onload = function(){ document.getElementById('im'+i).appendChild(this); };
     return tmpl;
   }
