@@ -23,7 +23,7 @@
 .chord { color: #4d3ca0; }
 .chord * { display: inline-block; }
 img.av { width: 100%; height: auto; }
-#songcont p { margin-top:0; }
+#songcont p { margin-top:0;  }
 </style>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -33,12 +33,12 @@ img.av { width: 100%; height: auto; }
 <script src="/static/js/template.js"></script>
 </head>
 <body>
-<div id="header" class="main wrapbg">
+<div id="header" class="main bg nowrap scroll">
 <a title="О сайте и контакты" href="/about.html"><img src="/static/img/about.svg" alt="Egax Portal"></a>
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_a.svg" alt="Аккорды"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_a.svg" onload="this.scrollIntoView()" alt="Аккорды"></a>
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
 </div>
 <div id="page_header" class="main"></div>
@@ -113,7 +113,7 @@ img.av { width: 100%; height: auto; }
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext chords" width="99%"><tr>'+
-    '<td id="songcont" valign="top">'+html+'</td></tr><tr>'+
+    '<td id="songcont" class="scroll" valign="top">'+html+'</td></tr><tr>'+
     '<td id="chordcont" class="chord" valign="top"></td></tr>'+
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';

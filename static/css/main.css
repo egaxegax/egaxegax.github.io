@@ -3,8 +3,7 @@
   border-radius:4px; border:1px solid #dfdfdf; }
 .wrap2 { background-color:#fff; padding:5px 10px 2px 10px; margin:0 0 10px;
   border-top:1px solid #dfdfdf; }
-.wrapbg { border-radius:2px; background-color:#d2e0f0; }
-.nowrap { white-space: nowrap; }
+.bg { border-radius:2px; background-color:#d2e0f0; }
 .rounded { border-radius:50%; }
 .rounded1 { border-radius:3%; }
 .rounded2 { border-radius:40% 10%; }
@@ -44,6 +43,7 @@ a.nodecor img, #header a img { border:0px none; padding:0px; }
 .hmarg { margin:0 12px; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
+.nowrap { white-space: nowrap; }
 .hspaced { padding:0 4px; }
 .hspace { padding:0 12px; }
 .hspace1 { padding:0 24px; }
@@ -51,6 +51,7 @@ a.nodecor img, #header a img { border:0px none; padding:0px; }
 .lfloat { float:left; text-align:left; }
 .rfloat { float:right; text-align:right; }
 .cfloat { text-align:center; }
+.scroll { display: block; overflow: auto; }
 .smaller { font-size:smaller; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
