@@ -139,4 +139,4 @@ for d in ['books', 'posts', 'songs', 'vesti', 'dbcartajs']:
   except: 
     print(d + ' skip')
 
-import list
+import updatelist
