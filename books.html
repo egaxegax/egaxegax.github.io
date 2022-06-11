@@ -67,12 +67,11 @@
     '<td align="center" valign="top" style="min-width:140px; max-width:140px">'+
       '<img class="smaller gray" alt="'+p.subj+', '+p.title[2]+'" src="/books/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:120px">'+
     '</td>'+
-    '<td width="90%">'+
+    '<td colspan="2" width="90%">'+
       '<a class="nodecor pink" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> '+p.title[2]+' </a>'+
       '<p class="smaller gray">Автор: <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
       '<p class="smaller gray">Жанр: <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
-    '</td>'+
-    '<td width="1%" valign="top" align="right" class="lightgray"><i>'+((p.i+(ci||0)))+'</i></td></tr><tr>'+
+    '</td></tr><tr>'+
     '<td colspan="3">'+
       '<p>'+
         (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
@@ -80,8 +79,9 @@
         :r)+
       '</p>'+
     '</td></tr><tr>'+
-    '<td colspan="2" align="right" class="hspace gray smaller"><i>'+buildDate(p.title[3])+'</i></td>'+
-    '</tr>'+
+    '<td></td>'+
+    '<td align="right" class="gray smaller"><i>'+buildDate(p.title[3])+'</i></td>'+
+    '<td align="right" class="lightgray smaller" width="11%"><i>'+((p.i+(ci||0)))+'</i></td></tr>'+
   '</table>';
   }
   
