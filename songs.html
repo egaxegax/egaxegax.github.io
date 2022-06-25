@@ -204,11 +204,11 @@ img.av { width: 100%; height: auto; }
         if(songs.length){ 
           page_view = 'list';
           page_header = 
-        '<p claa>'+
-          '<h2 class="nomarg nopad grid">'+
-            '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> '+
+        '<p>'+
+          '<h2 class="nomarg nopad hspace">'+
+            '<a class="nodecor" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> &emsp; '+
+            '<span class="gray smaller"><i class="smaller">'+ songs.length+'</i></span>'+
           '</h2> '+
-          '<span class="mtext hspace">Найдено <b><i>'+ songs.length+'</i></b> текстов</span>'+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page

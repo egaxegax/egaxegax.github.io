@@ -61,14 +61,12 @@
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
-    (p.title[2] !== 'about' ? 
-  '<h3><a class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'">'+p.title[2]+'</a></h3>'
-    : '')+
     html+
   '</div>'+
     (p.title[2] !== 'about' ? 
-  '<div class="msgfooter">'+
-    '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
+  '<div class="msgfooter gray">'+
+    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+'&nbsp; > &nbsp;'+
+    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'"> '+p.title[2]+'</a> &nbsp; '+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
     : '');

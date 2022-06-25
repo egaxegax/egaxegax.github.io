@@ -78,7 +78,7 @@
           '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё&nbsp;› </a>'
         :r)+
       '</p>'+
-    '</td></tr><tr>'+
+    '</td></tr><tr class="smaller">'+
     '<td align="center" class="gray smaller"><i>'+buildDate(p.title[3])+'</i></td>'+
     '<td></td>'+
     '<td align="right" class="lightgray smaller" width="11%"><i>'+((p.i+(ci||0)))+'</i></td></tr>'+
@@ -155,13 +155,13 @@
           page_view = 'list';
           page_header = 
         '<p>'+
-          '<h2 class="nomarg nopad grid">'+
+          '<h2 class="nomarg nopad">'+
             '<a class="nodecor hspace" href="'+
               (wrt.length>0 ? '/books.html?'+tr(wrts[books[0][0]][0]) : '') + '">'+
               (wrt.length>0 ? wrts[books[0][0]][0] : GENRES[roots[books[0][4]][0]]||roots[books[0][4]][0]) +
-            '</a>'+
+            '</a> &emsp; '+
+            '<span class="gray smaller"><i class="smaller">'+ books.length+'</i></span>'+
           '</h2>'+
-          '<span class="mtext hspace nowrap">Найдено <b><i>'+ books.length+'</i></b> книг</span>'+
         '</p>';
           if(gnr.length>0){
             document.title = (GENRES[roots[books[0][4]][0]]||roots[books[0][4]][0]) + ', книги, тексты - ' + document.title;

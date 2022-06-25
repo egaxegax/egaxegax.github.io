@@ -77,6 +77,13 @@ for root, dirs, files in os.walk(path, topdown=False):
         except:
           print(root, name,)
           raise
+        # +posts page header
+#        with open(os.path.join(root, name), 'r+', encoding="utf-8") as f:
+#          data = f.read()
+#          f.seek(0)
+#          output = data.replace(line, line + '### ' + title + '\n')
+#          f.write(output)
+#          f.truncate()
     else:
       print(name, '...skip')
       continue
