@@ -94,9 +94,7 @@
         });
         posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
-      '<p class="mtext hspace">'+
-        'Найдено <b><i>'+ posts.length+'</i></b> текста(ов) по запросу <i>'+decodeURI(urlParams().find)+'</i>'+
-      '</p>';
+      '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i>&emsp;<span class="lightgray smaller"><i>'+posts.length+'</i></span></p>';
       }else if(p == 'page' && urlParams().page){ // ?page
         // paginate
       }else if(pp.length>1){ // ?subj/title

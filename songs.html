@@ -177,7 +177,7 @@ img.av { width: 100%; height: auto; }
         if(songs.length){ 
           page_view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i></p>';
+        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> <span class="lightgray smaller"><i>('+songs.length+')</i></span></p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
