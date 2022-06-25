@@ -2556,6 +2556,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sozdanie_self-extr
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
+https://egaxegax.github.io/songs.html?saltykov_viktor
+https://egaxegax.github.io/songs.html?saltykov_viktor/koni_v_yablokah
 https://egaxegax.github.io/songs.html?kickboxer_ost
 https://egaxegax.github.io/songs.html?kickboxer_ost/feeling_so_good_today
 https://egaxegax.github.io/songs.html?iz_kf_ivan_vasilevich_menyaet_professiju

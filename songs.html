@@ -13,8 +13,6 @@
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
 <style>
-.about { display: table; }
-.about * { display: table-cell; vertical-align: middle; }
 .about img { max-width: 120px; padding:0px 10px 0px 0px; }
 .chords { line-height: 1.3em; }
 .chords em { font-style: italic; }
@@ -93,13 +91,15 @@ img.av { width: 100%; height: auto; }
   }
 
   function addAbout(r,p){
-    var text = r.replace(/\*/g,'');
+    var converter = new showdown.Converter(), // to markdown    
+        text = r,
+        html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
     document.getElementById(p.id).innerHTML = 
-  '<dl class="msgtext about">'+
-    '<span id="im'+p.id+'"></span>'+
-    '<p>'+text+'</p>'+
-  '</dl>';
+  '<table class="msgtext collapse"><tr>'+
+    '<td class="about" id="im'+p.id+'"></td>'+
+    '<td>'+html+'</td></tr>'+
+  '</table>';
     var img = new Image();
     img.className = "rounded";
     img.src = '/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg';
