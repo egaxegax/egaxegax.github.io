@@ -93,9 +93,6 @@ for root, dirs, files in os.walk(path, topdown=False):
     open(os.path.join(root, 'index.md'), 'w').write(text)
 
   if dirs: # subdirs list
-    hdr = 'Список разделов'
-    if subj != '.':
-      hdr += ' *' + subj + '*'
     isubj = []
     dirs.sort()
     for name in dirs:
@@ -103,4 +100,4 @@ for root, dirs, files in os.walk(path, topdown=False):
         isubj.append( '* [' + name + '](' + SP(name) + ')' )
     text = '\n'.join(isubj)
     if text:
-      open(os.path.join(root, 'index.md'), 'w').write(hdr + '\n\n' + text)
+      open(os.path.join(root, 'index.md'), 'w').write(text)
