@@ -43,8 +43,12 @@
         </div>
 
         <h3>
-          <a class="nodecor" href=".." ><i>{{ page.dir | split: '/' | last | url_decode }}</i></a>
+        {% if page.dir != '' %}
+          <a href=".." ><i>{{ page.dir | split: '/' | last | url_decode }}</i></a>
+        {% endif %}
+        {% if page.name != 'index.md' %}
           &nbsp; &bull; &nbsp; <i>{{ page.name | split: '.md' | first | url_decode }}</i>
+        {% endif %}
         </h3>
         
         {{ content }}
