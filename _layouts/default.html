@@ -18,6 +18,27 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <style>
+      a.nodecor { text-decoration:none; outline:none; }
+    </style>
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
+
+        <h3>
+          <div><a class="nodecor" href="{{ page.url }}/.." >{{ page.dir }}</a></div>
+          <div>{{ page.name | split: '.md' | first }}</div>
+        </h3>
+
+        {{ content }}
+
+      </section>
+
       <div id="header">
         <nav>
           <ul>
@@ -30,22 +51,12 @@
           </ul>
         </nav>
       </div><!-- end header -->
-
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-        </div>
-
-        ### {{ page.name }}
-        {{ content }}
-
-      </section>
+      
+      <div id="footer">
+        <hr>
+        <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+        <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+      </div>
 
     </div>
   </body>
