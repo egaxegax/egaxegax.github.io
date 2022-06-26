@@ -181,8 +181,8 @@ img.av { width: 100%; height: auto; }
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
-      }else if(p == 'page' && urlParams().page){
-        // paginate
+      }else if(p == 'page' && urlParams().page){ // paginate
+        //
       }else if(pp.length>1){ // art + song = song text
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +noindex unusable url
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
@@ -192,7 +192,7 @@ img.av { width: 100%; height: auto; }
         '<p>'+
           '<h2 class="nomarg nopad grid">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> '+
-            '<span class="hspace">'+songs[0][2]+'</span>'+
+            '<div class="hspace">'+songs[0][2]+'</div>'+
           '</h2>'+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', ' + songs[0][2] + ' - ' + document.title;
