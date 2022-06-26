@@ -96,7 +96,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     isubj = []
     dirs.sort()
     for name in dirs:
-      if name not in ('.git', 'th'): # skip dir
+      if name not in ('.git', 'th', '_layouts'): # skip dir
         isubj.append( '* [' + name + '](' + SP(name) + ')' )
     text = '\n'.join(isubj)
     if text:
