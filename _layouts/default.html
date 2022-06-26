@@ -43,8 +43,8 @@
         </div>
 
         <h3>
-          <a class="nodecor" href=".." >{{ page.dir | split: '/' | last }}</a>
-          &nbsp; &bull; &nbsp; <i>{{ page.name | split: '.md' | first }}</i>
+          <a class="nodecor" href=".." >{{ page.dir | split: '/' | last | url_decode }}</a>
+          &nbsp; &bull; &nbsp; <i>{{ page.name | split: '.md' | first | url_decode }}</i>
         </h3>
         
         {{ content }}
