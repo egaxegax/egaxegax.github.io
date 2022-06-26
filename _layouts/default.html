@@ -43,7 +43,6 @@
         </div>
 
         <h3>
-          {{ page.dir }}
         {% if page.dir != '/vesti/' %}
           <a href=".." ><i>{{ page.dir | split: '/' | last | url_decode }}</i></a>
         {% endif %}
