@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 sitemap: https://egaxegax.github.io/sitemap.txt
+sitemap: https://egaxegax.github.io/dbcartajs/sitemap.txt
