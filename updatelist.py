@@ -47,6 +47,7 @@ for root, dirs, files in os.walk(path, topdown=False):
   if '.git' in root:
     continue
 
+  about = ''
   for name in files:
     fname, ext = os.path.splitext(name)
     title = E_OS(fname)
@@ -67,9 +68,10 @@ for root, dirs, files in os.walk(path, topdown=False):
       text = re.sub('\n', '  \n', text) # two spaces newline
       text = re.sub('(^<\!--.*-->)\s*', r'\1\n', text) # revert comments
       open(os.path.join(root, fname + '.md'), 'w').write(text)
-    elif cwd in ('books', 'posts', 'songs', 'vesti') and ext in ('.md',):
+    elif cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
       if fname == 'about':
         text = open(os.path.join(root, name)).read()
+        about = text       # save about text
     else:
       continue
 
@@ -94,6 +96,8 @@ for root, dirs, files in os.walk(path, topdown=False):
 
   if dirs: # subdirs list
     isubj = []
+    if about: # +about text
+      isubj = [about + '\n'] + isubj
     dirs.sort()
     for name in dirs:
       if name not in ('.git', 'th', '_layouts'): # skip dir

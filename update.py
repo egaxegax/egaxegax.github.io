@@ -59,7 +59,8 @@ for root, dirs, files in os.walk(path, topdown=False):
       continue
 
     if cwd in ('vesti',) and ext in ('.md',):
-      ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
+      if fname != 'about': # skip about
+        ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
     elif cwd in ('foto',) and ext.lower() in ('.jpg',):
       from PIL import Image
       ftime = os.path.getmtime(os.path.join(root, name))
@@ -68,9 +69,9 @@ for root, dirs, files in os.walk(path, topdown=False):
       if not os.path.exists(os.path.join(root, 'th')):
         os.mkdir(os.path.join(root, 'th'))
       im.save(os.path.join(root, 'th', fname+'.jpeg') , "JPEG")
-    elif cwd in ('books','posts','songs') and ext in ('.md',):
+    elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
       ftime = os.path.getmtime(os.path.join(root, name))
-      if fname != 'about':
+      if fname != 'about': # skip about
         line = linecache.getline(os.path.join(root, name), 1)
         try: 
           ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
