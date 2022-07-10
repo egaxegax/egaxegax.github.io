@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /books/
+Disallow: /foto/
+Disallow: /posts/
+Disallow: /songs/
+Disallow: /vesti/
 sitemap: https://egaxegax.github.io/sitemap.txt
 sitemap: https://egaxegax.github.io/dbcartajs/sitemap.txt
