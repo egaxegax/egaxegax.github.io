@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Make index.md files with list of dir files.
+# Make README.md files with list of dir files.
 # Convert song .txt files to .md from current dir.
 #
 # python ../updatelist.py (from songs, posts, vesti)
@@ -51,7 +51,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     fname, ext = os.path.splitext(name)
     title = E_OS(fname)
 
-    if name in ('index.md', 'sitemap.txt'):
+    if name in ('README.md', 'sitemap.txt'):
       continue
 
     if cwd in ('songs',) and ext in ('.txt',):
@@ -73,7 +73,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     else:
       continue
 
-    lntit = '[' + title + '](' + SP(title) + ')'
+    lntit = '[' + title + '](' + SP(title) + '.md)'
     if fname == 'about': # +about text
       text = re.sub('(^<\!--.*-->)\s*', '', text)
       ititles = [text + '\n'] + ititles
@@ -90,7 +90,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     if os.path.isfile(os.path.join(root, TR(subj) + '.jpg')):
       text = '![](' + TR(subj) + '.jpg' + ')\n\n'
     text += '\n'.join(ititles)
-    open(os.path.join(root, 'index.md'), 'w').write(text)
+    open(os.path.join(root, 'README.md'), 'w').write(text)
 
   if dirs: # subdirs list
     isubj = []
@@ -100,4 +100,4 @@ for root, dirs, files in os.walk(path, topdown=False):
         isubj.append( '* [' + name + '](' + SP(name) + ')' )
     text = '\n'.join(isubj)
     if text:
-      open(os.path.join(root, 'index.md'), 'w').write(text)
+      open(os.path.join(root, 'README.md'), 'w').write(text)
