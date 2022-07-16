@@ -20,7 +20,6 @@
 </style>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
-<script src="/books/genres.js"></script>
 </head>
 <body>
 <div id="header" class="main bg nowrap scroll">
@@ -37,9 +36,12 @@
 <table id="footer" class="main"><tr>
 <td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
 <td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
-<td id="credits"> © 2011-2022 &nbsp; <a class="nodecor" href="/books/sitemap.txt" title="Карта сайта по Книгам">&#10146;</a> &emsp; </td></tr>
+<td id="credits"> © 2011-2022 </td></tr>
 </table>
 <script>
+  var GENRES={
+    adv_animal:"Природа и животные",adv_geo:"Путешествия и география",adv_history:"Исторические приключения",adv_indian:"Приключения про индейцев",adv_maritime:"Морские приключения",adventure:"Приключения",antique:"Старинная литература",biogr_leaders:"Биографии",child_adv:"Детские приключения",child_prose:"Детская проза",children:"Детская литература",child_sf:"Детская фантастика",child_tale:"Сказка",city_fantasy:"Городское фэнтези",det_action:"Боевик",det_classic:"Классический детектив",det_crime:"Криминальный детектив",det_hard:"Крутой детектив",det_history:"Исторический детектив",det_police:"Полицейский детектив",detective:"Детектив",dramaturgy:"Драматургия",economics:"Экономика",fantasy_fight:"Боевое фэнтези",foreign_adventure:"Зарубежные приключения",foreign_contemporary:"Современная зарубежная литература",foreign_detective:"Зарубежные детективы",foreign_fantasy:"Зарубежное фэнтези",foreign_love:"Зарубежные любовные романы",home_pets:"Домашние животные",home_sex:"Эротика, Секс",humor_prose:"Юмористическая проза",literature_adv:"Приключения",literature_classics:"Классическая литература",literature_drama:"Драма",literature_history:"История",literature_political:"Политика",literature_western:"Вестерн",love_contemporary:"Современные любовные романы",love_detective:"Остросюжетные любовные романы",love_erotica:"Эротика ",love_hard:"Страстная эротика",love_history:"Исторические любовные романы",love_sf:"Любовная фантастика",love_short:"Короткие любовные романы",magician_book:"Магия, волшебство",nonf_biography:"Биографии и Мемуары",poetry:"Поэзия",prose:"Проза",prose_classic:"Классическая проза",prose_contemporary:"Современная проза",prose_counter:"Контркультура",prose_history:"Историческая проза",prose_military:"Военная проза",prose_rus_classic:"Русская классическая проза",prose_su_classics:"Советская классическая проза",ref_dict:"Словари",ref_encyc:"Энциклопедии",reference:"Справочная литература",religion_esoterics:"Эзотерика",religion_orthodoxy:"Ортодоксальные учения",religion_rel:"Религия",religion_self:"Самосовершенствование",religion:"Религиозная литература",romance_fantasy:"Рыцарское фэнтези",romance_sf:"Рыцарская фантастика",romance:"Рыцарский роман",russian_fantasy:"Русское фэнтези",sci_history:"История",sci_linguistic:"Языкознание",sci_philosophy:"Философия",sf_action:"Боевая фантастика",sf_cyberpunk:"Киберпанк",sf_detective:"Детективная фантастика",sf_epic:"Эпическая фантастика",sf_etc:"Разная фантастика",sf_fantasy:"Фэнтези",sf_fantasy_city:"Городское фэнтези",sf_heroic:"Героическая фантастика",sf_history_avant:"Историческая авантюра",sf_history:"Альтернативная история",sf_horror:"Ужасы и Мистика",sf_humor:"Юмористическая фантастика",sf_mystic:"Мистика",sf_social:"Социально-психологическая фантастика",sf_space:"Космическая фантастика",sf:"Научная Фантастика ",thriller:"Триллер",vampire_book:"Вампиры"
+  };
 
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Подборка описаний книг разных авторов из свободных источников.</p>';
@@ -66,7 +68,7 @@
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext" width="99%"><tr>'+
     '<td align="center" valign="top" style="min-width:140px; max-width:140px">'+
-      '<img class="smaller gray" alt="'+p.subj+', '+p.title[2]+'" src="/books/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:120px">'+
+      '<img class="smaller gray" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:120px">'+
     '</td>'+
     '<td colspan="2" width="90%">'+
       '<a class="nodecor pink" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> '+p.title[2]+' </a>'+
@@ -82,7 +84,7 @@
     '</td></tr><tr class="smaller">'+
     '<td align="center" class="gray smaller"><i>'+buildDate(p.title[3])+'</i></td>'+
     '<td></td>'+
-    '<td align="right" class="lightgray smaller" width="11%"><i>'+((p.i+(ci||0)))+'</i></td></tr>'+
+    '<td align="right" class="lightgray smaller"><i>'+((p.i+(ci||0)))+'</i></td></tr>'+
   '</table>';
   }
   
@@ -96,11 +98,11 @@
   '</dl>';
     var img = new Image();
     img.className = "rounded";
-    img.src = '/books/img/'+tr(p.subj)+'.jpg';
+    img.src = buildURL('books')+'/img/'+tr(p.subj)+'.jpg';
     img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
 
-  loadScript({url: '/books/index.js'}, function(p){
+  loadScript({url: buildURL('books')+'/index.js'}, function(p){
     var roots = ROOTS,
         wrts = SUBJ,
         books = TITLES;
@@ -192,7 +194,7 @@
     '<div id="book'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'book'+i, if: i==1, i:page_bottom+i, root: root, subj: subj, title: page_titles[i], url: '/books/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'book'+i, if: i==1, i:page_bottom+i, root: root, subj: subj, title: page_titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
