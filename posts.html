@@ -85,7 +85,8 @@
     : '');
   }
 
-  loadScript({url: buildURL('posts')+'/index.js'}, function(p){
+  upfunc({url: buildURL('posts')+'/index.js'}, function(s){
+    eval(s);
     var roots = ROOTS,
         subjects = SUBJ,
         posts = TITLES,

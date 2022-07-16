@@ -55,7 +55,8 @@ img.av { width: 100%; height: auto; }
     return tmpl;
   }
 
-  loadScript({url: buildURL('books')+'/index.js'}, function(p){
+  upfunc({url: buildURL('books')+'/index.js'}, function(s){
+    eval(s);
     var gnrs = ROOTS;
     document.getElementById('page_header').innerHTML = 
   '<p class="mtext hspace">Список книжных жанров в алфавитном порядке </p>';

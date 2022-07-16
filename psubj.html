@@ -51,7 +51,8 @@
     return tmpl;
   }
 
-  loadScript({url: buildURL('posts')+'/index.js'}, function(p){
+  upfunc({url: buildURL('posts')+'/index.js'}, function(s){
+    eval(s);
     var subjects = SUBJ;
     subjects.sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';

@@ -3,9 +3,9 @@
 //
 function buildURL(path){
   if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
-    return 'https://raw.githubusercontent.com/egaxegax/'+path+'/main/';
+    return 'https://raw.githubusercontent.com/egaxegax/'+path+'/main';
   }
-  return '/'+path+'/main/';
+  return '/'+path;
 }
 //
 // Add body tags (header, content, footer)

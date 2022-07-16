@@ -151,8 +151,9 @@ img.av { width: 100%; height: auto; }
       jtab.render(el);
     }
   }
-    //
-  loadScript({url: buildURL('songs')+'/index.js'}, function(p){
+
+  upfunc({url: buildURL('songs')+'/index.js'}, function(s){
+    eval(s);
     var roots = ROOTS,
         arts = SUBJ,
         songs = TITLES;

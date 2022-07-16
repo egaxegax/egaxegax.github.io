@@ -58,7 +58,8 @@ img.av { width: 100%; height: auto; }
     return tmpl;
   }
 
-  loadScript({url: buildURL('songs')+'/index.js'}, function(p){
+  upfunc({url: buildURL('songs')+'/index.js'}, function(s){
+    eval(s);
     var arts = SUBJ,
         songs = TITLES;
     document.getElementById('page_header').innerHTML = 
