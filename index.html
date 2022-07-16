@@ -13,7 +13,9 @@
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="stylesheet" href="/static/css/markdown.css">
-<link rel="stylesheet" href="/static/css/vesti.css">
+<style>
+code { white-space: pre-wrap; }
+</style>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
@@ -62,7 +64,7 @@
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+html+'</div>'+
   '<div class="msgfooter">'+
-    '<a class="nodecor hspace" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"><i>#</i></a>'+
+    '<a class="nodecor hspace" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"><i> # </i></a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>';
   }
