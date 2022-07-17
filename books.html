@@ -128,7 +128,7 @@
         if(books.length){ 
           page_view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i></p>';
+        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray smaller">('+books.length+')</i></p>';
           document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
         }
         per_page = 100;
@@ -164,7 +164,7 @@
               (wrt.length>0 ? '/books.html?'+tr(wrts[books[0][0]][0]) : '') + '">'+
               (wrt.length>0 ? wrts[books[0][0]][0] : GENRES[roots[books[0][4]][0]]||roots[books[0][4]][0]) +
             '</a> &emsp; '+
-            '<span class="gray smaller"><i class="smaller">'+ books.length+'</i></span>'+
+            '<span class="gray smaller"><i class="smaller">('+ books.length+')</i></span>'+
           '</h2>'+
         '</p>';
           if(gnr.length>0){
