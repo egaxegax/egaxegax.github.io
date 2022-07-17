@@ -43,11 +43,12 @@
     var tmpl = 
   '<table width="99%" class="msgtext" cellpadding=0><tr>'+
     '<td><a class="nodecor" href="/posts.html?'+tr(subj[0])+'">'+subj[0]+'</a></td>'+
-    '<td width="20%"><b><i>'+subj[1]+'</i></b></td></tr><tr>'+
-    '<td class="gray smaller">'+
-      '<i>&emsp;'+buildDate(subj[2])+'</i>'+
+    '<td width="20%" valign="center" rowspan="2"><b><i>'+subj[1]+'</i></b></td></tr>'+
+  '<tr>'+
+    '<td class="hspace gray smaller">'+
+      '<i class="smaller">'+buildDate(subj[2])+'</i>'+
     '</td></tr>'+
-  '</div>';
+  '</table>';
     return tmpl;
   }
 

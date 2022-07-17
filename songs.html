@@ -70,9 +70,9 @@ img.av { width: 100%; height: auto; }
     '<td width="88%" class="hspaced">'+
       '<a class="nodecor pink" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
       '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a> '+
-      '<div class="hspace gray smaller"><i>'+buildDate(p.title[3])+'</i></div>'+
+      '<div class="hspace gray smaller"><i class="smaller">'+buildDate(p.title[3])+'</i></div>'+
     '</td>'+
-    '<td valign="center" align="right" class="lightgray smaller" width="5%"><i>'+(p.i+1)+'</i></td></tr>'+
+    '<td valign="center" align="right" class="lightgray smaller" width="5%"><i class="smaller">'+(p.i+1)+'</i></td></tr>'+
   '</table>';
     var img = new Image();
     img.className = "rounded av";
@@ -177,7 +177,7 @@ img.av { width: 100%; height: auto; }
         if(songs.length){ 
           page_view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <span class="lightgray smaller"><i>'+songs.length+'</i></span></p>';
+        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <span class="gray smaller"><i>('+songs.length+')</i></span></p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
