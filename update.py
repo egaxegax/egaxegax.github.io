@@ -115,7 +115,8 @@ for i, f in enumerate(mfiles):
     isubj = len(msubj) - 1
     if len(murls) == 0:
       murls += [surl +'/'+ sdir + '.html']
-    murls += [surl +'/'+ sdir + ('.html?'+ TR(f[1]), '/'+ f[1])[sdir == 'foto']]
+    if sdir != 'foto':
+      murls += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
   mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
   murls += [surl +'/'+ sdir +('.html?'+ TR(f[1]+'/'+f[2]), '/'+ f[1] +'/'+ f[2]+ '.JPG')[sdir == 'foto']]
   print( i )
@@ -135,7 +136,7 @@ time.sleep(1)
 sitemap = open('../sitemap.txt', 'w') # truncate file
 sitemap = open('../sitemap.txt', 'a')
 
-for d in ['books', 'posts', 'songs', 'vesti', 'dbcartajs']:
+for d in ['books', 'foto', 'posts', 'songs', 'vesti', 'dbcartajs']:
   try:
     sitemap.write(open('../' + d + '/sitemap.txt').read() + '\n')
     print(d + ' added to sitemap.txt',)
