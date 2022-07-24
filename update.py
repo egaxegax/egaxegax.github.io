@@ -113,6 +113,8 @@ for i, f in enumerate(mfiles):
   if isubj == -1:
     msubj += [[f[1], 1, f[3], iroots]]
     isubj = len(msubj) - 1
+    if len(murls) == 0:
+      murls += [surl +'/'+ sdir + '.html']
     murls += [surl +'/'+ sdir + ('.html?'+ TR(f[1]), '/'+ f[1])[sdir == 'foto']]
   mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
   murls += [surl +'/'+ sdir +('.html?'+ TR(f[1]+'/'+f[2]), '/'+ f[1] +'/'+ f[2]+ '.JPG')[sdir == 'foto']]

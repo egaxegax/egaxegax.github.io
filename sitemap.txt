@@ -1,3 +1,4 @@
+https://egaxegax.github.io/books.html
 https://egaxegax.github.io/books.html?edgar_rajs_berrouz
 https://egaxegax.github.io/books.html?edgar_rajs_berrouz/tarzan_ujasnyj
 https://egaxegax.github.io/books.html?edgar_rajs_berrouz/tarzan_iz_plemeni_obezyan_vozvrashchenie_tarzana_tarzan_i_ego_zveri_sbornik
@@ -2354,6 +2355,7 @@ https://egaxegax.github.io/books.html?genrih_mann/venera
 https://egaxegax.github.io/books.html?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books.html?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books.html?artur_konan_dojl/belyj_otryad
+https://egaxegax.github.io/posts.html
 https://egaxegax.github.io/posts.html?poleznye_travy
 https://egaxegax.github.io/posts.html?poleznye_travy/zveroboj
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
@@ -2568,6 +2570,7 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sozdanie_self-extr
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
+https://egaxegax.github.io/songs.html
 https://egaxegax.github.io/songs.html?saltykov_viktor
 https://egaxegax.github.io/songs.html?saltykov_viktor/koni_v_yablokah
 https://egaxegax.github.io/songs.html?kickboxer_ost
@@ -28527,6 +28530,7 @@ https://egaxegax.github.io/songs.html?nimerov_18+/pro_ljubov
 https://egaxegax.github.io/songs.html?nimerov_18+/jelanie
 https://egaxegax.github.io/songs.html?nimerov_18+/snimaju_napryajenie
 https://egaxegax.github.io/songs.html?nimerov_18+/podglyadel_za_sestroj
+https://egaxegax.github.io/index.html
 https://egaxegax.github.io/index.html?2022
 https://egaxegax.github.io/index.html?2022/220719_2355
 https://egaxegax.github.io/index.html?2022/220611_1246
