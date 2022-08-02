@@ -2368,6 +2368,8 @@ https://egaxegax.github.io/foto/Природа/Большой мухомор.JPG
 https://egaxegax.github.io/foto/Природа/Цветочек синенький.JPG
 https://egaxegax.github.io/foto/Природа/Цветок синюха.JPG
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii
+https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/pyatigorsk
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/lotoshino
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/erino
