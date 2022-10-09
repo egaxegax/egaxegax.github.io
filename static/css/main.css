@@ -51,7 +51,7 @@ a.nodecor img, #header a img { border:0px none; padding:0px; }
 .lfloat { float:left; text-align:left; }
 .rfloat { float:right; text-align:right; }
 .cfloat { text-align:center; }
-.scroll { display: block; overflow: auto; }
+.scroll { display:block; overflow:auto; }
 .smaller { font-size:smaller; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
@@ -64,7 +64,7 @@ h3 { font-weight:normal; margin-top:5px; }
 html,body{margin:0;padding:0;width:100%;height:100%}
 .main { margin:0px auto 0px auto; max-width:800px; }
 #header { text-align:center; vertical-align:middle; }
-#header img { width:100px; height:80px; color: transparent; }
+#header img { width:100px; height:40px; color:transparent; }
 #page_content { min-height:400px; }
 #footer { width:100%; }
 #livecounter { text-align: right; }
