@@ -2589,6 +2589,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?zz_top
+https://egaxegax.github.io/songs.html?zz_top/sharp_dressed_man
 https://egaxegax.github.io/songs.html?kar-men
 https://egaxegax.github.io/songs.html?kar-men/v_bagdade_vse_spokojno
 https://egaxegax.github.io/songs.html?kar-men/san-francisko
@@ -15256,7 +15258,6 @@ https://egaxegax.github.io/songs.html?zdob_si_zdub/zagejom_me_ko_roma
 https://egaxegax.github.io/songs.html?zdob_si_zdub/zdubij_batec_tare
 https://egaxegax.github.io/songs.html?zdob_si_zdub/miorica
 https://egaxegax.github.io/songs.html?zdob_si_zdub/cygan_i_nlo
-https://egaxegax.github.io/songs.html?zz_top
 https://egaxegax.github.io/songs.html?zz_top/lagrange
 https://egaxegax.github.io/songs.html?avraam_russo
 https://egaxegax.github.io/songs.html?avraam_russo/daleko-daleko
