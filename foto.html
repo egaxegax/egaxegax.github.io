@@ -24,12 +24,12 @@ img:hover { border:2px yellow solid }
 <div id="header" class="main bg nowrap scroll">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
-<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_a.svg" onload="this.scrollIntoView()" alt="Фотки"></a>
+<a title="Фотки и картинки" href="/fotki.html"><img src="/static/img/fotki_a.svg" onload="this.scrollIntoView()" alt="Фотки"></a>
 <a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
 </div>
 <div id="page_header" class="main"></div>
-<div id="content"><div id="page_content" class="main"></div></div>
+<div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
 <table id="footer" class="main"><tr>
 <td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
@@ -47,23 +47,23 @@ img:hover { border:2px yellow solid }
 '</tr></table>';
   document.getElementById('page_content').innerHTML = 
 '<div class="wrap">'+
-  '<table class="collapse" width="100%"><tr>'+
-  '<td id="mcol" style="vertical-align:middle"></td>'+
-  '<td width="125px" align="center" style="padding:0 0 0 1px; vertical-align:top">'+
-    '<div id="mlist" style="overflow:auto; height:'+(document.getElementById('content').offsetHeight-50)+'px'+'"></div></td>'+
-  '</tr></table>'+
+  '<div id="mcol" style="height:'+(document.getElementById('page_content').offsetHeight)+'px"></div>'+
 '</div>';
   document.getElementById('page_footer').innerHTML = 
-'<div class="cfloat smaller gray hspace">'+
+'<div class="wrap">'+
+  '<div id="mlist" class="main nowrap scroll"></div>'+
+'</div>'+
+'<p class="cfloat smaller gray hspace">'+
   '<i>P.S.</i> Подборка различных фото, снятых на смартфон, о нашей природе, красивых и необычных местах, интересных людях.'+
-'</div>';
+    '&nbsp; <a href="/fotki.html">Другие фото</a>'+
+'</p>';
 
   var childs=[];
   var DC = new dbCartaSvg({
     id:'mcol',
     bg: 'rgb(240,245,240)',
     sbarpos: 'left',
-    height: document.getElementById('mlist').offsetHeight
+    height: document.getElementById('mcol').offsetHeight
   });
 
   var img = new Image();
@@ -83,9 +83,7 @@ img:hover { border:2px yellow solid }
       preserveAspectRatio:'none'
     });
     img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', this.src);
-    DC.attr(img, {
-      cursor: 'pointer'
-    });
+    DC.attr(img, { cursor: 'pointer' });
     childs.push(img);  
     document.title = 'Фотки / Сайт Григория Еремина - ' + this.title;
     document.getElementById('foto_header').innerHTML = '<p>' + this.title + '</p>';    
