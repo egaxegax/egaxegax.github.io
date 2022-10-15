@@ -6,6 +6,8 @@ SUBJ={
 5:'Стереокартинки'
 };           
 TITLES=[
+[2,'//ic.wampi.ru/2022/10/15/EZIK-NA-DOROGE.jpg','Ёжик на дороге. Июнь 2022 г.'],
+[1,'//im.wampi.ru/2022/10/15/VID-NA-MILITEISKII-POSELOK-S-POLYNY.jpg','Вид на Милицейский посёлок. Июнь 2022г.'],
 [0,'//ia.wampi.ru/2021/10/30/EKSKAVATOR-U-SIMONOVA-MONASTYRY.jpg','Экскаватор у Симонова монастыря. Октябрь 2021г.'],
 [0,'//ia.wampi.ru/2021/10/10/ALLEY-V-OKTYBRE.jpg','Красивая аллея в октябре. Октябрь 2021г.'],
 [0,'//ic.wampi.ru/2021/10/13/PUSTOI-PODZEMNYI-PEREKOD.jpg','Пустой подземный переход. Октябрь 2021г.'],
