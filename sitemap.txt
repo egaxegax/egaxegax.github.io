@@ -2395,6 +2395,8 @@ https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/vladimir_mayako
 https://egaxegax.github.io/posts.html?poleznye_travy/cheremsha
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/instrukciya_polzovaniya_sajtom
+https://egaxegax.github.io/posts.html?retro-igry_na_pk
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/emulyator_wine
 https://egaxegax.github.io/posts.html?poleznye_travy/romashka
 https://egaxegax.github.io/posts.html?poleznye_travy/bagulnik
 https://egaxegax.github.io/posts.html?poleznye_travy/shalfej
@@ -2419,6 +2421,8 @@ https://egaxegax.github.io/posts.html?mesta_podmoskovya/kurovskoe
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/kubinka
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/krasnoznamensk
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/yahroma
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/igry_na_mame
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/arkadnyj_emulyator_mame
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/dolgoprudnyj
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/naro-fominsk
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/orehovo-zuevo
@@ -2437,7 +2441,7 @@ https://egaxegax.github.io/posts.html?mesta_podmoskovya/dmitrov
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/shahovskaya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/sergiev_posad
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/staraya_kupavna
-https://egaxegax.github.io/posts.html?primery_shell-scenariev/konfig_mednafen_dlya_snes
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/konfig_mednafen_dlya_snes
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/elektrogorsk
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/serpuhov
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/solnechnogorsk
@@ -2483,7 +2487,11 @@ https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu/che-2000_gruppy
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu/che-1996_plej-off
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu/che-1996_gruppy
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/izvlekaem_zvuk_iz_video_s_pomoshchju_mpv
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/novaya_versiya_contra
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/raskadrovka_video_s_pomoshchju_mpv
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/igry-draki_na_mednafen
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/ljubimye_igry_na_mednafen
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/emulyator_konsolej_mednafen
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/antibiotik_glavar_bandy_iz_seriala_banditskij_peterburg
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/sinhronizaciya_kataloga_po_ftp
@@ -28575,7 +28583,6 @@ https://egaxegax.github.io/index.html?2022/220719_2355
 https://egaxegax.github.io/index.html?2022/220611_1246
 https://egaxegax.github.io/index.html?2022/220609_0032
 https://egaxegax.github.io/index.html?2022/220605_2140
-https://egaxegax.github.io/index.html?2022/220530_0029
 https://egaxegax.github.io/index.html?2022/220529_0101
 https://egaxegax.github.io/index.html?2022/220510_1149
 https://egaxegax.github.io/index.html?2022/220510_0048
@@ -28593,8 +28600,6 @@ https://egaxegax.github.io/index.html?2021/211230_0151
 https://egaxegax.github.io/index.html?2021/211219_2235
 https://egaxegax.github.io/index.html?2021/211129_0102
 https://egaxegax.github.io/index.html?2021/211120_1545
-https://egaxegax.github.io/index.html?2021/211115_0150
-https://egaxegax.github.io/index.html?2021/211115_0103
 https://egaxegax.github.io/index.html?2021/211112_0111
 https://egaxegax.github.io/index.html?2021/211109_0028
 https://egaxegax.github.io/index.html?2021/211106_0138
@@ -28622,11 +28627,7 @@ https://egaxegax.github.io/index.html?2021/210504_1948
 https://egaxegax.github.io/index.html?2021/210417_1831
 https://egaxegax.github.io/index.html?2021/210410_2112
 https://egaxegax.github.io/index.html?2021/210402_0030
-https://egaxegax.github.io/index.html?2021/210327_1927
 https://egaxegax.github.io/index.html?2021/210320_1220
-https://egaxegax.github.io/index.html?2021/210314_1420
-https://egaxegax.github.io/index.html?2021/210308_2102
-https://egaxegax.github.io/index.html?2021/210308_1546
 https://egaxegax.github.io/index.html?2021/210303_1001
 https://egaxegax.github.io/index.html?2021/210224_0007
 https://egaxegax.github.io/index.html?2021/210221_1746
