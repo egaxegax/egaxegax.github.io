@@ -77,8 +77,8 @@
   '</div>'+
     (p.title[2] !== 'about' ? 
   '<div class="msgfooter gray">'+
-    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+'&nbsp; > &nbsp;'+
-    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'"> # </a> &nbsp; '+
+    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
+    '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'"> # </a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
     : '');
