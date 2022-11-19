@@ -2607,6 +2607,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?yalla
+https://egaxegax.github.io/songs.html?yalla/pozovet_menya_doroga
 https://egaxegax.github.io/songs.html?zz_top
 https://egaxegax.github.io/songs.html?zz_top/rough_boy
 https://egaxegax.github.io/songs.html?aleksandr_ivanov_rondo
@@ -12673,7 +12675,6 @@ https://egaxegax.github.io/songs.html?grajdanskaya_oborona/slovo_-_tovarishch
 https://egaxegax.github.io/songs.html?beatles/hey_jude
 https://egaxegax.github.io/songs.html?the_cranberries
 https://egaxegax.github.io/songs.html?the_cranberries/zombie
-https://egaxegax.github.io/songs.html?yalla
 https://egaxegax.github.io/songs.html?yalla/chajhana
 https://egaxegax.github.io/songs.html?televizor/potrebitel
 https://egaxegax.github.io/songs.html?sjutkin_valerij/devushka_s_veslom
