@@ -1,1 +1,2 @@
-exclude: ['songs']
+exclude: [songs]
+keep_files: [songs.html]
