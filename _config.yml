@@ -1,2 +1,2 @@
 exclude: [songs]
-keep_files: [songs.html]
+include: [songs.html]
