@@ -1,2 +1,1 @@
-exclude: [songs]
-include: [songs.html]
+exclude: [songs/]
