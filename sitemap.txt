@@ -2607,9 +2607,10 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?zz_top
+https://egaxegax.github.io/songs.html?zz_top/rough_boy
 https://egaxegax.github.io/songs.html?aleksandr_ivanov_rondo
 https://egaxegax.github.io/songs.html?aleksandr_ivanov_rondo/vse_kak_prejde
-https://egaxegax.github.io/songs.html?zz_top
 https://egaxegax.github.io/songs.html?zz_top/gimme_all_your_lovin
 https://egaxegax.github.io/songs.html?zz_top/sharp_dressed_man
 https://egaxegax.github.io/songs.html?zz_top/legs
