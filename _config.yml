@@ -1,1 +1,1 @@
-keep_files: [books, songs, posts, vesti]
+exclude: ['songs']
