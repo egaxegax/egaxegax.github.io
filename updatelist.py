@@ -68,6 +68,7 @@ for root, dirs, files in os.walk(path, topdown=False):
       text = re.sub('\n', '  \n', text) # two spaces newline
       text = re.sub('(^<\!--.*-->)\s*', r'\1\n', text) # revert comments
       open(os.path.join(root, fname + '.md'), 'w').write(text)
+      os.remove(os.path.join(root, name))
     elif cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
       if fname == 'about':
         text = open(os.path.join(root, name)).read()
