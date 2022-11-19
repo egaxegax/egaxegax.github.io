@@ -1,0 +1,7 @@
+* [Butt Town](Butt%20Town.md)
+* [Candy](Candy.md)
+* [Drink New Blood](Drink%20New%20Blood.md)
+* [Little Know It All](Little%20Know%20It%20All.md)
+* [Lust For Life](Lust%20For%20Life.md)
+* [Now I Wanna Be Your Dog](Now%20I%20Wanna%20Be%20Your%20Dog.md)
+* [The Passenger](The%20Passenger.md)

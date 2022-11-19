@@ -1,0 +1,20 @@
+![](megadeth.jpg)
+
+Американская трэш-метал-группа из Лос-Анджелеса.
+
+* [502](502.md)
+* [99 Ways](99%20Ways.md)
+* [A Secret Place](A%20Secret%20Place.md)
+* [Anarchy In The UK](Anarchy%20In%20The%20UK.md)
+* [Angry Again](Angry%20Again.md)
+* [Ashes In Your Mouth](Ashes%20In%20Your%20Mouth.md)
+* [Blood Of Heroes](Blood%20Of%20Heroes.md)
+* [Dawn Patrol](Dawn%20Patrol.md)
+* [Five Magics](Five%20Magics.md)
+* [Foreclosure of a Dream](Foreclosure%20of%20a%20Dream.md)
+* [Hold On](Hold%20On.md)
+* [Holy Wars](Holy%20Wars.md)
+* [Problems](Problems.md)
+* [Real Love](Real%20Love.md)
+* [Symphony Of Destruction](Symphony%20Of%20Destruction.md)
+* [The Mechanix](The%20Mechanix.md)

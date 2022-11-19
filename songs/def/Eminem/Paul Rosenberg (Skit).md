@@ -1,0 +1,11 @@
+<!--2020-09-06 14:38:03-->
+The Eminem Show (2002)  
+  Paul Rosenberg (Skit)  
+  
+  Em, it's Paul.  
+  Listen, Joel just called me and he said you're in the fucking back behind his studio,  
+  shooting your gun off in the air like it's a shooting range.  
+  I told you not to fucking bring your gun around, like an idiot, outside of your home.  
+  You're gonna get yourself in trouble.  
+  Don't bring your gun outside of your house you can't carry it on you.  
+  Leave your fuckin gun at home.

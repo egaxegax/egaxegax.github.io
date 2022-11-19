@@ -1,0 +1,8 @@
+* [Bite the Bullet](Bite%20the%20Bullet.md)
+* [Don't Waste Your Time](Don't%20Waste%20Your%20Time.md)
+* [I ain't No Nice Guy](I%20ain't%20No%20Nice%20Guy.md)
+* [I'll be your sister](I'll%20be%20your%20sister.md)
+* [Remember me, I'm gone](Remember%20me,%20I'm%20gone.md)
+* [Stone Deaf in the U.S.A.](Stone%20Deaf%20in%20the%20U.S.A..md)
+* [We are the road crew](We%20are%20the%20road%20crew.md)
+* [You better run](You%20better%20run.md)
