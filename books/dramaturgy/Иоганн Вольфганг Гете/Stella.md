@@ -1,0 +1,2 @@
+<!--2017-01-02 12:52:36-->
+Stella ist ein Trauerspiel in fünf Akten von Johann Wolfgang von Goethe. In den Jahren 1803 bis 1805 aus der Erstfassung von 1775 hervorgegangen, kam das Stück am 15. Januar 1806 in Weimar zur Uraufführung. Der Druck lag 1816 vor.

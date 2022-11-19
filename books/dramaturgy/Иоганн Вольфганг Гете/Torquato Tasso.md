@@ -1,0 +1,2 @@
+<!--2017-01-02 12:52:36-->
+Torquato Tasso ist ein Schauspiel in fünf Aufzügen von Johann Wolfgang von Goethe, das als Protagonisten den Dichter Torquato Tasso in den Mittelpunkt der Handlung stellt. Zwischen dem 30. März 1780 und dem 31. Juli 1789 entstanden, lag das Werk im Februar 1790 im Druck vor und wurde am 16. Februar 1807 in Weimar uraufgeführt.
