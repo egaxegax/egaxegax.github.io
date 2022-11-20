@@ -13,20 +13,8 @@
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="stylesheet" href="/static/css/markdown.css">
+<link rel="stylesheet" href="/static/css/posts.css">
 <link rel="canonical" href="posts.html">
-<style>
-/* football */
-.g { border-collapse:collapse; text-align:center; display:block; overflow:auto; }
-.g td { width:60px; border:1px solid lightgray; }
-.g .col { width:240px; text-align:left; padding-left:20px; white-space:nowrap; }
-.p { border-collapse:collapse; width:100%; display:block; overflow:auto; }
-.p .col {width:210px; padding-left:20px; white-space:nowrap; }
-.bt {border-top:1px solid #aaa;}
-.br {border-right:1px solid #aaa;}
-.bb {border-bottom:1px solid #aaa;}
-.mb {padding-bottom:10px;}
-.mt {padding-top:10px;}
-</style>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
@@ -69,7 +57,8 @@
           .replace(/\r\r\n/g, '\n')
           .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
         html = converter.makeHtml(text) // fix img url to absolute
-          .replace(/src="/g, 'src="'+p.url+'/../');
+          .replace(/src="/g, 'src="'+p.url+'/../')
+          .replace(/\$PURL/g, p.url+'/../');
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
