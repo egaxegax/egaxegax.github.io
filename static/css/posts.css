@@ -5,7 +5,7 @@ h3 a {text-decoration:none; outline:none;}
 .g td { width:60px; border:1px solid lightgray; white-space:nowrap; }
 .g .col { width:240px; text-align:left; padding-left:20px; }
 .p { border-collapse:collapse; width:100%; display:block; overflow:auto; }
-.p .col {width:210px; padding-left:10px; white-space:nowrap; }
+.p .col {padding-left:10px; white-space:nowrap; }
 .p th {font-weight:normal; font-style:italic;}
 .bt {border-top:1px solid #aaa;}
 .br {border-right:1px solid #aaa;}
