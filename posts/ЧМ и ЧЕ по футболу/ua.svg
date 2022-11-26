@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-ua" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <g fill-rule="evenodd" stroke-width="1pt">
     <path fill="#ffd500" d="M0 0h640v480H0z"/>
     <path fill="#005bbb" d="M0 0h640v240H0z"/>
   </g>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">Украина</text>
 </svg>

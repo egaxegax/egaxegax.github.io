@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-ir" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <defs>
     <clipPath id="ir-a">
       <path fill-opacity=".7" d="M-85.3 0h682.7v512H-85.3z"/>
@@ -216,4 +217,6 @@
       <path d="M256.4 331.6l7.8-9 1.1-120.1-9.3-8.2-9.3 7.8 1.9 121 7.8 8.5z"/>
     </g>
   </g>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">Иран</text>
 </svg>

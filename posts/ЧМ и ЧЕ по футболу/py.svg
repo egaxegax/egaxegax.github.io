@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-py" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <path fill="#0038a8" d="M0 319.7h640V480H0z"/>
   <path fill="#fff" d="M0 160h640v160H0z"/>
   <path fill="#d52b1e" d="M0 0h640v160H0z"/>
@@ -154,4 +155,6 @@
     <path d="M314.8 263.4l-9.3 2.6h10l1.3-1.5-2-1z"/>
   </g>
   <path fill="#fedf00" stroke="#000" stroke-width=".4" d="M327.6 249.5l-7.6-5.3-7.6 5.3 2.9-8.4-6.7-5.2h8.6l2.8-8.4 2.8 8.4h8.6l-6.7 5.2 2.9 8.4z"/>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">Парагвай</text>
 </svg>

@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-cl" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <defs>
     <clipPath id="cl-a">
       <path fill-opacity=".7" d="M0 0h682.7v512H0z"/>
@@ -10,4 +11,6 @@
     <path fill="#fff" d="M167.8 191.7L128.2 162l-39.5 30 14.7-48.8L64 113.1l48.7-.5L127.8 64l15.5 48.5 48.7.1-39.2 30.4 15 48.7z"/>
     <path fill="#d52b1e" d="M0 256h768v256H0z"/>
   </g>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">Чили</text>
 </svg>

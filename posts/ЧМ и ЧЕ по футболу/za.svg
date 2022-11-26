@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-za" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <defs>
     <clipPath id="za-a">
       <path fill-opacity=".7" d="M-71.9 0h682.7v512H-71.9z"/>
@@ -14,4 +15,6 @@
       <path fill="#fff" d="M23 0h59.2l253.6 170.7H696V204H324.3L23 .1zm0 512.1h59.2l253.6-170.6H696v-33.2H324.3L23 512z"/>
     </g>
   </g>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">ЮАР</text>
 </svg>

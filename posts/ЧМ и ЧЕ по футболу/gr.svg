@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-gr" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <path fill="#005bae" fill-rule="evenodd" stroke-width="6.7" d="M0 0h640v53.3H0z"/>
   <path fill="#fff" fill-rule="evenodd" stroke-width="6.7" d="M0 53.3h640v53.4H0z"/>
   <path fill="#005bae" fill-rule="evenodd" stroke-width="6.7" d="M0 106.7h640V160H0z"/>
@@ -13,4 +14,6 @@
     <path d="M0 20h50v10H0z" transform="scale(5.33333)"/>
   </g>
   <path fill="#005bae" stroke-width=".6" d="M0 426.7h640V480H0z"/>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">Греция</text>
 </svg>

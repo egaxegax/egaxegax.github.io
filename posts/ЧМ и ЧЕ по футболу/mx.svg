@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icon-css-mx" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <defs>
     <radialGradient id="b" cx="842.3" cy="103.7" r="25.9" gradientTransform="matrix(.14152 .03595 -.03453 .14198 213.1 162.4)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
     <radialGradient id="c" cx="651.5" cy="550.5" r="25.9" gradientTransform="matrix(-.13441 -.05384 .04964 -.12489 397.9 -24.3)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
@@ -379,4 +380,6 @@
   <path fill="#f9c83a" d="M294.6 195l.4.3h-.5l.1-.3z"/>
   <path fill="#8f4620" d="M295 195.3l-.7.1c-.2 0 .2-.2.2-.2l.4.1z"/>
   <path fill="#977c2e" d="M301 239.1s.3 0 .5-.3-.1.4-.1.4l-.3.1-.2-.2z"/>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">Мексика</text>
 </svg>

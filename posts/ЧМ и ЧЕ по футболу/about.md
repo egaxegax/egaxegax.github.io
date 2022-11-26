@@ -1,4 +1,4 @@
-Результаты матчей Чемпионатов Европы 
-*1992*, *1996*, *2000*, *2004*, *2008*, *2012*, *2016*, *2020*  
-по футболу и Чемпионатов Мира 
-*1990*, *1994*, *1998*, *2002*, *2006*, *2010*, *2014*, *2018*
+Результаты матчей <span class=che>Чемпионатов Европы</span> и Чемпионатов Мира по футболу<br>
+ 1990 &nbsp;<span class=che> 1992 </span>&nbsp; 1994 &nbsp;<span class=che> 1996 </span>&nbsp; 1998 &nbsp;<span class=che> 2000 </span>&nbsp; 2002
+&nbsp;<span class=che> 2004 </span>&nbsp; 2006 &nbsp;<span class=che> 2008 </span>&nbsp; 2010 &nbsp;<span class=che> 2012 </span>&nbsp; 2014
+&nbsp;<span class=che> 2016 </span>&nbsp; 2018 &nbsp;<span class=che> 2020 </span>&nbsp;

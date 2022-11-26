@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icon-css-eg" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
   <path d="M0 320h640v160H0z"/>
   <path fill="#fff" d="M0 160h640v160H0z"/>
   <path fill="#ce1126" d="M0 0h640v160H0z"/>
@@ -35,4 +36,6 @@
       <circle cx="448.8" cy="210.7" r="1.2" stroke="none"/>
     </g>
   </g>
+  </g>
+  <text x="28" y="15" font-size="18px" font-family="arial">Египет</text>
 </svg>
