@@ -2608,6 +2608,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?nimerov_grigorij
+https://egaxegax.github.io/songs.html?nimerov_grigorij/noyabrskij_les
 https://egaxegax.github.io/songs.html?yalla
 https://egaxegax.github.io/songs.html?yalla/pozovet_menya_doroga
 https://egaxegax.github.io/songs.html?zz_top
@@ -2630,7 +2632,6 @@ https://egaxegax.github.io/songs.html?kickboxer_ost
 https://egaxegax.github.io/songs.html?kickboxer_ost/feeling_so_good_today
 https://egaxegax.github.io/songs.html?iz_kf_ivan_vasilevich_menyaet_professiju
 https://egaxegax.github.io/songs.html?iz_kf_ivan_vasilevich_menyaet_professiju/vdrug_kak_v_skazke_skripnula_dver
-https://egaxegax.github.io/songs.html?nimerov_grigorij
 https://egaxegax.github.io/songs.html?nimerov_grigorij/sahara
 https://egaxegax.github.io/songs.html?iz_kf_eta_veselaya_planeta
 https://egaxegax.github.io/songs.html?iz_kf_eta_veselaya_planeta/eta_veselaya_planeta
@@ -28582,6 +28583,7 @@ https://egaxegax.github.io/songs.html?nimerov_18+/snimaju_napryajenie
 https://egaxegax.github.io/songs.html?nimerov_18+/podglyadel_za_sestroj
 https://egaxegax.github.io/index.html
 https://egaxegax.github.io/index.html?2022
+https://egaxegax.github.io/index.html?2022/221218_1310
 https://egaxegax.github.io/index.html?2022/221205_1511
 https://egaxegax.github.io/index.html?2022/221119_2236
 https://egaxegax.github.io/index.html?2022/221030_0100

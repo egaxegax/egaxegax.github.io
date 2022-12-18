@@ -1,1 +1,1 @@
-exclude: [songs/]
+exclude: [books/, posts/, songs/, vesti/]
