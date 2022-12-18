@@ -68,7 +68,8 @@ code { white-space: pre-wrap; }
   '</div>';
   }
 
-  loadScript({url: '/vesti/index.js'}, function(p){
+  upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
+    eval(s);
     var roots = ROOTS,
         subjects = SUBJ,
         msgs = TITLES;

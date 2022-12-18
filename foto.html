@@ -89,7 +89,8 @@ img:hover { border:2px yellow solid }
     document.getElementById('foto_header').innerHTML = '<p>' + this.title + '</p>';    
   };
 
-  loadScript({url: '/foto/index.js'}, function(p){
+  upfunc({url: buildURL('foto')+'/index.js'}, function(s){
+    eval(s);
     for(var k in SUBJ){
       var falb = TITLES.filter(function(f){ return (f[0] == k); });
       document.getElementById('albumlist').innerHTML +=
