@@ -2607,7 +2607,10 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sozdanie_self-extr
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/peredacha_parolya_iz_komandnoj_stroki_ssh
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzovatelya_passwd_bez_zaprosa
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown_ot_avtora
+https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?nickelback
+https://egaxegax.github.io/songs.html?nickelback/high_time
 https://egaxegax.github.io/songs.html?nimerov_grigorij
 https://egaxegax.github.io/songs.html?nimerov_grigorij/noyabrskij_les
 https://egaxegax.github.io/songs.html?yalla
@@ -4491,7 +4494,6 @@ https://egaxegax.github.io/songs.html?laskovyj_maj/koncheno_vse
 https://egaxegax.github.io/songs.html?nofx/the_black_and_white
 https://egaxegax.github.io/songs.html?grin_grej
 https://egaxegax.github.io/songs.html?grin_grej/mama
-https://egaxegax.github.io/songs.html?nickelback
 https://egaxegax.github.io/songs.html?nickelback/saturday_nights_allright
 https://egaxegax.github.io/songs.html?adams_johnny
 https://egaxegax.github.io/songs.html?adams_johnny/a_world_i_never_made
