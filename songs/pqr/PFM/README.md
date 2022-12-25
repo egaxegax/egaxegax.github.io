@@ -1,1 +1,0 @@
-* [Impressioni di settembre](Impressioni%20di%20settembre.md)

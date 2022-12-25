@@ -1,1 +1,0 @@
-* [I Go Blind](I%20Go%20Blind.md)

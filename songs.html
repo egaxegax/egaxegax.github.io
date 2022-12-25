@@ -21,7 +21,7 @@
 .chords a { text-decoration: none; }
 .chord { color: #4d3ca0; }
 .chord * { display: inline-block; }
-img.av { width: 100%; height: auto; }
+img.av { width: 50px; height: auto; }
 #songcont p { margin-top:0;  }
 </style>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
@@ -65,19 +65,19 @@ img.av { width: 100%; height: auto; }
 
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext" width="99%"><tr>'+
-    '<td id="im'+p.id+'"></td>'+
-    '<td width="88%" class="hspaced">'+
-      '<a class="nodecor pink" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
-      '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a> '+
-      '<div class="hspace gray smaller"><i class="smaller">'+buildDate(p.title[3])+'</i></div>'+
-    '</td>'+
-    '<td valign="center" align="right" class="lightgray smaller" width="5%"><i class="smaller">'+(p.i+1)+'</i></td></tr>'+
-  '</table>';
-    var img = new Image();
-    img.className = "rounded av";
-    img.src = buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg';
-    img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
+  '<div class="msgtext">'+
+    '<table border=0 width="99%" styl1e="white-space: nowrap; display:block; overflow:auto"><tr>'+
+      '<td width="5%">'+
+        '<img class="rounded av" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt="">'+
+      '</td>'+
+      '<td class="hspaced">'+
+        '<a class="nodecor pink" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
+        '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a> '+
+        '<div class="hspace gray smaller"><i class="smaller">'+buildDate(p.title[3])+'</i></div>'+
+      '</td>'+
+      '<td valign="center" align="right" class="lightgray smaller" width="5%"><i class="smaller">'+(p.i+1)+'</i></td></tr>'+
+    '</table>'+
+  '</div>';
   }
   
   function addList(r,p){
@@ -98,13 +98,9 @@ img.av { width: 100%; height: auto; }
     updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext collapse"><tr>'+
-    '<td class="about" id="im'+p.id+'"></td>'+
+    '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
     '<td>'+html+'</td></tr>'+
   '</table>';
-    var img = new Image();
-    img.className = "rounded";
-    img.src = buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg';
-    img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
   }
 
   function addSong(r,p){
