@@ -8055,8 +8055,6 @@ https://egaxegax.github.io/songs.html?babyface/everytime_i_close_my_eyes
 https://egaxegax.github.io/songs.html?smyslovye_galljucinacii/na_palchikah
 https://egaxegax.github.io/songs.html?tnf
 https://egaxegax.github.io/songs.html?tnf/slezy_materej
-https://egaxegax.github.io/songs.html?banlieue_rouge
-https://egaxegax.github.io/songs.html?banlieue_rouge/echec_et_mat
 https://egaxegax.github.io/songs.html?c_c_catch/wild_fire
 https://egaxegax.github.io/songs.html?korol_i_shut/doloj_gopotu
 https://egaxegax.github.io/songs.html?serga/chto_mne_nado
@@ -20963,8 +20961,6 @@ https://egaxegax.github.io/songs.html?chajf/rok-n-poll_etoj_nochi
 https://egaxegax.github.io/songs.html?sauronych/bitva_angmarcev
 https://egaxegax.github.io/songs.html?krasnye_zvezdy/jizn
 https://egaxegax.github.io/songs.html?skalpel/king_kong
-https://egaxegax.github.io/songs.html?bane_lazlo
-https://egaxegax.github.io/songs.html?bane_lazlo/overkill
 https://egaxegax.github.io/songs.html?nirvana/polly
 https://egaxegax.github.io/songs.html?blackmores_night/fools_gold
 https://egaxegax.github.io/songs.html?helavisa/gospodin_gornyh_dorog
@@ -21077,7 +21073,6 @@ https://egaxegax.github.io/songs.html?alternativnyj_mir/evtanaziya
 https://egaxegax.github.io/songs.html?kommunizm/cyganskaya_pesnya
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/uralskaya_ryabina
 https://egaxegax.github.io/songs.html?police/secret_journey
-https://egaxegax.github.io/songs.html?banlieue_rouge/lauberge_des_trepasses
 https://egaxegax.github.io/songs.html?konec_filma/dembelskaya
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/tri_mushketera_istoriya_atosa
 https://egaxegax.github.io/songs.html?gosti_iz_budushchego/metko
@@ -21432,8 +21427,6 @@ https://egaxegax.github.io/songs.html?chernozem/pavodok_tolko_by_prosnutsya
 https://egaxegax.github.io/songs.html?sauronych/medved_-_oblako
 https://egaxegax.github.io/songs.html?krematorij/vinus_memorius
 https://egaxegax.github.io/songs.html?slayer/crionics
-https://egaxegax.github.io/songs.html?bannister_reggie
-https://egaxegax.github.io/songs.html?bannister_reggie/oh_no_not_again
 https://egaxegax.github.io/songs.html?nofx/shut_up_already
 https://egaxegax.github.io/songs.html?blackmores_night/nur_eine_minute
 https://egaxegax.github.io/songs.html?helavisa/pesnya_aliskana
