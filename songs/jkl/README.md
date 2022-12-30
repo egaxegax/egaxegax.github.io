@@ -1,5 +1,4 @@
 * [Jackson Alan](Jackson%20Alan)
-* [Jakubowicz Martyna](Jakubowicz%20Martyna)
 * [James Blunt](James%20Blunt)
 * [James Brown](James%20Brown)
 * [James Colin](James%20Colin)

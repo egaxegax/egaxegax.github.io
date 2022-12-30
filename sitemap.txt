@@ -3435,8 +3435,6 @@ https://egaxegax.github.io/songs.html?nirvana/return_of_the_rat
 https://egaxegax.github.io/songs.html?pesni_strojotryadov/gody_letyat_streloju
 https://egaxegax.github.io/songs.html?faktor_2/prividenie
 https://egaxegax.github.io/songs.html?jimi_hendrix/my_this_be_love
-https://egaxegax.github.io/songs.html?jakubowicz_martyna
-https://egaxegax.github.io/songs.html?jakubowicz_martyna/kiedy_bede_stara_kobieta
 https://egaxegax.github.io/songs.html?naiv/vse_ravno
 https://egaxegax.github.io/songs.html?kruiz/krasota
 https://egaxegax.github.io/songs.html?lakmus/chelovek_cheloveku
@@ -13643,7 +13641,6 @@ https://egaxegax.github.io/songs.html?cradle_of_filth/beauty_slept_in_sodom
 https://egaxegax.github.io/songs.html?marshal_aleksandr/nochnaya_dal
 https://egaxegax.github.io/songs.html?malinin_aleksandr/poruchik_golicyn
 https://egaxegax.github.io/songs.html?mumij_troll/bez_obmana
-https://egaxegax.github.io/songs.html?jakubowicz_martyna/w_domach_z_betonu
 https://egaxegax.github.io/songs.html?robbie_williams/something_beautiful
 https://egaxegax.github.io/songs.html?lacrimosa/not_every_pain_hurts
 https://egaxegax.github.io/songs.html?kashin_pavel/vetochka
@@ -20659,7 +20656,6 @@ https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/bolshaya_pereme
 https://egaxegax.github.io/songs.html?pod/without_jah_nothin
 https://egaxegax.github.io/songs.html?afi/girls_not_grey
 https://egaxegax.github.io/songs.html?aleksandr_ivanov_rondo/boje_kakoj_pustyak
-https://egaxegax.github.io/songs.html?jakubowicz_martyna/goraca_sien
 https://egaxegax.github.io/songs.html?afganskie_pesni/afganistan_2
 https://egaxegax.github.io/songs.html?nochnye_snajpery/ty_navsegda
 https://egaxegax.github.io/songs.html?laurel_aitken
@@ -22519,7 +22515,6 @@ https://egaxegax.github.io/songs.html?kashin_pavel/budto_ya
 https://egaxegax.github.io/songs.html?frida
 https://egaxegax.github.io/songs.html?frida/begut_minuty
 https://egaxegax.github.io/songs.html?jimi_hendrix/rainy_day_dream_away
-https://egaxegax.github.io/songs.html?jakubowicz_martyna/kolysanka
 https://egaxegax.github.io/songs.html?naiv/shema
 https://egaxegax.github.io/songs.html?kruiz/tebya_ne_ubili_vchera
 https://egaxegax.github.io/songs.html?lampasy/morya_i_okeany
@@ -27896,7 +27891,6 @@ https://egaxegax.github.io/songs.html?grajdanskaya_oborona/umeret_molodym
 https://egaxegax.github.io/songs.html?grajdanskaya_oborona/nevynosimaya_legkost_bytiya
 https://egaxegax.github.io/songs.html?lemonheads/into_your_arms
 https://egaxegax.github.io/songs.html?melnica/dub_ternovnik_i_yasen
-https://egaxegax.github.io/songs.html?jakubowicz_martyna/gdzies_miedzy
 https://egaxegax.github.io/songs.html?trofim/leta
 https://egaxegax.github.io/songs.html?chajf/belaya_vorona
 https://egaxegax.github.io/songs.html?kukuruza/vmeste
