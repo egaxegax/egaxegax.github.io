@@ -2723,11 +2723,6 @@ https://egaxegax.github.io/songs.html?noize_mc/biletov_net
 https://egaxegax.github.io/songs.html?nimerov_grigorij/starik
 https://egaxegax.github.io/songs.html?him
 https://egaxegax.github.io/songs.html?him/heartkiller
-https://egaxegax.github.io/songs.html?lumen
-https://egaxegax.github.io/songs.html?lumen/ne_nado_snov
-https://egaxegax.github.io/songs.html?lumen/goret
-https://egaxegax.github.io/songs.html?lumen/golosa_mira
-https://egaxegax.github.io/songs.html?lumen/nebesa
 https://egaxegax.github.io/songs.html?aisha
 https://egaxegax.github.io/songs.html?aisha/what_for
 https://egaxegax.github.io/songs.html?aqua
@@ -2877,8 +2872,8 @@ https://egaxegax.github.io/songs.html?krug_mihail
 https://egaxegax.github.io/songs.html?krug_mihail/yaroslavskaya
 https://egaxegax.github.io/songs.html?alternativnyj_mir
 https://egaxegax.github.io/songs.html?alternativnyj_mir/dilogiya
-https://egaxegax.github.io/songs.html?ljumen
-https://egaxegax.github.io/songs.html?ljumen/zuby
+https://egaxegax.github.io/songs.html?lumen
+https://egaxegax.github.io/songs.html?lumen/zuby
 https://egaxegax.github.io/songs.html?televizor/vchera
 https://egaxegax.github.io/songs.html?filigon
 https://egaxegax.github.io/songs.html?filigon/samolet
@@ -2921,7 +2916,7 @@ https://egaxegax.github.io/songs.html?blackmores_night
 https://egaxegax.github.io/songs.html?blackmores_night/self_portrait
 https://egaxegax.github.io/songs.html?sauronych/syn_tora
 https://egaxegax.github.io/songs.html?rammstein/ich_will
-https://egaxegax.github.io/songs.html?ljumen/s_–_4
+https://egaxegax.github.io/songs.html?lumen/s_–_4
 https://egaxegax.github.io/songs.html?mike_oldfield
 https://egaxegax.github.io/songs.html?mike_oldfield/amarok
 https://egaxegax.github.io/songs.html?ammonia
@@ -2971,7 +2966,7 @@ https://egaxegax.github.io/songs.html?majya
 https://egaxegax.github.io/songs.html?majya/poteryalis
 https://egaxegax.github.io/songs.html?krematorij
 https://egaxegax.github.io/songs.html?krematorij/zerkalnaya_oda
-https://egaxegax.github.io/songs.html?ljumen/nebesa
+https://egaxegax.github.io/songs.html?lumen/nebesa
 https://egaxegax.github.io/songs.html?311/color
 https://egaxegax.github.io/songs.html?medvedev_oleg
 https://egaxegax.github.io/songs.html?medvedev_oleg/otpusk
@@ -3158,7 +3153,7 @@ https://egaxegax.github.io/songs.html?shufutinskij_mihail
 https://egaxegax.github.io/songs.html?shufutinskij_mihail/povoruju-perestanu
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/gusarskaya_ballada_davnym-davno
 https://egaxegax.github.io/songs.html?bichevskaya_janna/gospoda_ryadovye
-https://egaxegax.github.io/songs.html?ljumen/ne_zovu
+https://egaxegax.github.io/songs.html?lumen/ne_zovu
 https://egaxegax.github.io/songs.html?beatles/dizzy_miss_lizzie
 https://egaxegax.github.io/songs.html?devyatyj_rajon
 https://egaxegax.github.io/songs.html?devyatyj_rajon/ty_rasskaji
@@ -3308,7 +3303,7 @@ https://egaxegax.github.io/songs.html?pugacheva_alla/bez_menya
 https://egaxegax.github.io/songs.html?chij_i_ko/volkodavy
 https://egaxegax.github.io/songs.html?dinamit
 https://egaxegax.github.io/songs.html?dinamit/kotoraya_byla_s_toboj
-https://egaxegax.github.io/songs.html?ljumen/uspokoj_menya
+https://egaxegax.github.io/songs.html?lumen/uspokoj_menya
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/gopod_kotopogo_net
 https://egaxegax.github.io/songs.html?4_non_blondes/whats_up
 https://egaxegax.github.io/songs.html?malchishnik
@@ -3708,7 +3703,7 @@ https://egaxegax.github.io/songs.html?b52
 https://egaxegax.github.io/songs.html?b52/rock_lobster
 https://egaxegax.github.io/songs.html?paskal
 https://egaxegax.github.io/songs.html?paskal/shelkovoe_cepdce
-https://egaxegax.github.io/songs.html?ljumen/tri_puti
+https://egaxegax.github.io/songs.html?lumen/tri_puti
 https://egaxegax.github.io/songs.html?makarevich_andrej/nashim_lodkam_
 https://egaxegax.github.io/songs.html?bashlachev_aleksandr/bolnoe_semya
 https://egaxegax.github.io/songs.html?makarevich_andrej/pamyati_vysockogo
@@ -3906,7 +3901,7 @@ https://egaxegax.github.io/songs.html?akvarium/kogda_projdet_bol
 https://egaxegax.github.io/songs.html?sauronych/ballada_o_puti
 https://egaxegax.github.io/songs.html?tem_grinhill/nilfgaardec
 https://egaxegax.github.io/songs.html?golubeva_svetlana/strely
-https://egaxegax.github.io/songs.html?ljumen/zmej
+https://egaxegax.github.io/songs.html?lumen/zmej
 https://egaxegax.github.io/songs.html?skankin_pickle/rest_of_the_world
 https://egaxegax.github.io/songs.html?makarevich_andrej/moya_krasavica
 https://egaxegax.github.io/songs.html?nightwish/she_is_my_sin
@@ -3944,7 +3939,7 @@ https://egaxegax.github.io/songs.html?elizium/kosmos
 https://egaxegax.github.io/songs.html?bloodhound_gang
 https://egaxegax.github.io/songs.html?bloodhound_gang/mope
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/buratino_kakoe_nebo_goluboe_
-https://egaxegax.github.io/songs.html?ljumen/svoboda
+https://egaxegax.github.io/songs.html?lumen/svoboda
 https://egaxegax.github.io/songs.html?beatles/i_want_you_shes_so_heavy
 https://egaxegax.github.io/songs.html?arefeva_olga/ne_verte_mne
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/my_heart_will_go_on
@@ -5883,7 +5878,7 @@ https://egaxegax.github.io/songs.html?krys_i_shmendra/stranniki
 https://egaxegax.github.io/songs.html?dead_kennedys/short_songs
 https://egaxegax.github.io/songs.html?chervona_rutta/na_mars
 https://egaxegax.github.io/songs.html?sekret/rocknroll_medley
-https://egaxegax.github.io/songs.html?ljumen/dnevnik
+https://egaxegax.github.io/songs.html?lumen/dnevnik
 https://egaxegax.github.io/songs.html?djumin_aleksandr/fotografii_druzej
 https://egaxegax.github.io/songs.html?electric_light_orchestra/stranger
 https://egaxegax.github.io/songs.html?skankin_pickle/on_young_ha_say_yo
@@ -5894,7 +5889,7 @@ https://egaxegax.github.io/songs.html?djuna/limonovyj_sad
 https://egaxegax.github.io/songs.html?band
 https://egaxegax.github.io/songs.html?band/w_s_walcott_medicine_show
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/12_stulev_net_ya_ne_plachu_
-https://egaxegax.github.io/songs.html?ljumen/eho
+https://egaxegax.github.io/songs.html?lumen/eho
 https://egaxegax.github.io/songs.html?makarevich_andrej/po_tundre
 https://egaxegax.github.io/songs.html?makarevich_andrej/pesnya_peremen
 https://egaxegax.github.io/songs.html?mertvye_delfiny
@@ -7462,7 +7457,7 @@ https://egaxegax.github.io/songs.html?chajf/vse_horosho
 https://egaxegax.github.io/songs.html?quicksilver_messenger_service
 https://egaxegax.github.io/songs.html?quicksilver_messenger_service/just_for_love
 https://egaxegax.github.io/songs.html?sauronych/juravel
-https://egaxegax.github.io/songs.html?ljumen/2000_let
+https://egaxegax.github.io/songs.html?lumen/2000_let
 https://egaxegax.github.io/songs.html?djumin_aleksandr/partaki
 https://egaxegax.github.io/songs.html?electric_light_orchestra/livin_thing
 https://egaxegax.github.io/songs.html?skalamander
@@ -7473,7 +7468,7 @@ https://egaxegax.github.io/songs.html?black_sabbath/the_sabbath_stones
 https://egaxegax.github.io/songs.html?drkin_venya/staraya_melnica_ballada
 https://egaxegax.github.io/songs.html?baez_joan/diamonds_and_rust
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/12_stulev_ah_neujeli_neujeli
-https://egaxegax.github.io/songs.html?ljumen/harakiri
+https://egaxegax.github.io/songs.html?lumen/harakiri
 https://egaxegax.github.io/songs.html?makarevich_andrej/pamyati_galicha
 https://egaxegax.github.io/songs.html?bashlachev_aleksandr/verka_nadka_i_ljubka
 https://egaxegax.github.io/songs.html?makarevich_andrej/pesnya_o_vseobshchej_utrate_devstvennosti
@@ -7631,7 +7626,7 @@ https://egaxegax.github.io/songs.html?makarevich_andrej/serega-proletarij
 https://egaxegax.github.io/songs.html?sauronych/belye_odejdy
 https://egaxegax.github.io/songs.html?tem_grinhill/posveshchenie_kaer_morhenu
 https://egaxegax.github.io/songs.html?golubeva_svetlana/eto_uje_ne_proza
-https://egaxegax.github.io/songs.html?ljumen/samyj_glavnyj_chelovek
+https://egaxegax.github.io/songs.html?lumen/samyj_glavnyj_chelovek
 https://egaxegax.github.io/songs.html?skalpel/prazdnik
 https://egaxegax.github.io/songs.html?makarevich_andrej/na_moldavanke
 https://egaxegax.github.io/songs.html?nightwish/the_carpenter
@@ -7920,7 +7915,7 @@ https://egaxegax.github.io/songs.html?311/sweet
 https://egaxegax.github.io/songs.html?kashin_pavel/more
 https://egaxegax.github.io/songs.html?arefeva_olga/se_lya_vi
 https://egaxegax.github.io/songs.html?repertuar_dlya_kabaka/sinij_tuman
-https://egaxegax.github.io/songs.html?ljumen/protest
+https://egaxegax.github.io/songs.html?lumen/protest
 https://egaxegax.github.io/songs.html?makarevich_andrej/gde-to_v_gorode
 https://egaxegax.github.io/songs.html?smyslovye_galljucinacii/ya_meshal
 https://egaxegax.github.io/songs.html?ddt/prekpasnaya_ljubov
@@ -7991,7 +7986,7 @@ https://egaxegax.github.io/songs.html?krichevskij_garik
 https://egaxegax.github.io/songs.html?krichevskij_garik/moj_nomer_245
 https://egaxegax.github.io/songs.html?raznoe/golubi
 https://egaxegax.github.io/songs.html?mongol_shuudan/mama_sama_najdet
-https://egaxegax.github.io/songs.html?ljumen/02_blagoveshchensk
+https://egaxegax.github.io/songs.html?lumen/02_blagoveshchensk
 https://egaxegax.github.io/songs.html?nochnye_snajpery/leto
 https://egaxegax.github.io/songs.html?nirvana/swap_meet
 https://egaxegax.github.io/songs.html?mishchuki/osen
@@ -8078,7 +8073,7 @@ https://egaxegax.github.io/songs.html?bob_marley/mr_brown
 https://egaxegax.github.io/songs.html?chajf/ne_mechtali
 https://egaxegax.github.io/songs.html?adaptaciya/prosrano
 https://egaxegax.github.io/songs.html?licej/radujus
-https://egaxegax.github.io/songs.html?ljumen/do_svidaniya
+https://egaxegax.github.io/songs.html?lumen/do_svidaniya
 https://egaxegax.github.io/songs.html?voskresene/obnimi_menya_pokrepche_volchya
 https://egaxegax.github.io/songs.html?melvins/goose_freight_train
 https://egaxegax.github.io/songs.html?kashin_pavel/serdce_gde_zimuesh_ty
@@ -8095,7 +8090,7 @@ https://egaxegax.github.io/songs.html?blur/no_distance_left_to_run
 https://egaxegax.github.io/songs.html?rainbow/difficult_to_cure
 https://egaxegax.github.io/songs.html?311/use_of_time
 https://egaxegax.github.io/songs.html?crowded_house/fingers_of_love
-https://egaxegax.github.io/songs.html?ljumen/zima
+https://egaxegax.github.io/songs.html?lumen/zima
 https://egaxegax.github.io/songs.html?grajdanskaya_oborona/bespontovyj_pirojok
 https://egaxegax.github.io/songs.html?kukin_jurij/ya_ne_romantik
 https://egaxegax.github.io/songs.html?nochnye_snajpery/shag_za_shagom
@@ -9024,7 +9019,7 @@ https://egaxegax.github.io/songs.html?kashin_pavel/prosvetlenie
 https://egaxegax.github.io/songs.html?nol/ya_l_ju_b_l_ju_t_e_b_ya_
 https://egaxegax.github.io/songs.html?raznye_ljudi/911
 https://egaxegax.github.io/songs.html?beatles/shes_a_woman
-https://egaxegax.github.io/songs.html?ljumen/fuckin_off
+https://egaxegax.github.io/songs.html?lumen/fuckin_off
 https://egaxegax.github.io/songs.html?afganskie_pesni/ordena_ne_prodajutsya
 https://egaxegax.github.io/songs.html?bichevskaya_janna/eto_bylo_davno
 https://egaxegax.github.io/songs.html?sektor_gaza/noch_straha
@@ -9281,7 +9276,7 @@ https://egaxegax.github.io/songs.html?golubeva_svetlana/topchus_na_meste
 https://egaxegax.github.io/songs.html?blackmores_night/menningen
 https://egaxegax.github.io/songs.html?sauronych/na_beregu_reki_ejr
 https://egaxegax.github.io/songs.html?rammstein/das_alte_leid
-https://egaxegax.github.io/songs.html?ljumen/kosmonavt
+https://egaxegax.github.io/songs.html?lumen/kosmonavt
 https://egaxegax.github.io/songs.html?demo/ya_ne_znaju
 https://egaxegax.github.io/songs.html?metallica/the_small_hours
 https://egaxegax.github.io/songs.html?shufutinskij_mihail/konvoj
@@ -9310,7 +9305,7 @@ https://egaxegax.github.io/songs.html?rozenbaum_aleksandr/babij_yar
 https://egaxegax.github.io/songs.html?umka_i_bronevichek/komandovat_paradom
 https://egaxegax.github.io/songs.html?mavrik/prigovorennyj_k_ljubvi
 https://egaxegax.github.io/songs.html?krasnaya_plesen/cph
-https://egaxegax.github.io/songs.html?ljumen/moe_vremya
+https://egaxegax.github.io/songs.html?lumen/moe_vremya
 https://egaxegax.github.io/songs.html?311/beautiful_disaster
 https://egaxegax.github.io/songs.html?exploited/sick_bastard
 https://egaxegax.github.io/songs.html?medvedev_oleg/my_ehali_shagom_
@@ -9799,7 +9794,7 @@ https://egaxegax.github.io/songs.html?piknik/kot
 https://egaxegax.github.io/songs.html?sauronych/v_glazah_moih
 https://egaxegax.github.io/songs.html?gyndul_mycej/hostropat
 https://egaxegax.github.io/songs.html?sashach/glupaya_vojna
-https://egaxegax.github.io/songs.html?ljumen/nazovi_mne_svoe_imya
+https://egaxegax.github.io/songs.html?lumen/nazovi_mne_svoe_imya
 https://egaxegax.github.io/songs.html?kasim
 https://egaxegax.github.io/songs.html?kasim/krepis_bratva
 https://egaxegax.github.io/songs.html?trofim/ya_skuchaju_po_tebe
@@ -10888,7 +10883,7 @@ https://egaxegax.github.io/songs.html?bichevskaya_janna/pesenka_o_mocarte
 https://egaxegax.github.io/songs.html?propaganda/super-detka
 https://egaxegax.github.io/songs.html?licej/ty_stanesh_vzrosloj
 https://egaxegax.github.io/songs.html?belaya_gvardiya/sinij_cvet
-https://egaxegax.github.io/songs.html?ljumen/mne_v_druguju_storonu
+https://egaxegax.github.io/songs.html?lumen/mne_v_druguju_storonu
 https://egaxegax.github.io/songs.html?beatles/taxman
 https://egaxegax.github.io/songs.html?883/tieni_il_tempo
 https://egaxegax.github.io/songs.html?agata_kristi/pulemet_maksim
@@ -11392,7 +11387,7 @@ https://egaxegax.github.io/songs.html?saruhanov_igor/poplakala_i_hvatit
 https://egaxegax.github.io/songs.html?deep_purple/chasing_shadows
 https://egaxegax.github.io/songs.html?raznoe/pyanaya_pomyataya_pionervojataya
 https://egaxegax.github.io/songs.html?umaturman/uma_turman_ya_tak_jdala_tebya_vova
-https://egaxegax.github.io/songs.html?ljumen/odnoj_krovi
+https://egaxegax.github.io/songs.html?lumen/odnoj_krovi
 https://egaxegax.github.io/songs.html?bashlachev_aleksandr/muzykant
 https://egaxegax.github.io/songs.html?whitesnake/looking_for_love_lyrics
 https://egaxegax.github.io/songs.html?vin_znae/ty_narisuesh
@@ -11507,7 +11502,7 @@ https://egaxegax.github.io/songs.html?gejnc_i_danilov/majskij_sneg
 https://egaxegax.github.io/songs.html?black_sabbath/zero_the_hero
 https://egaxegax.github.io/songs.html?sauronych/legenda_o_vsadnike
 https://egaxegax.github.io/songs.html?shufutinskij_mihail/noji
-https://egaxegax.github.io/songs.html?ljumen/gosudarstvo
+https://egaxegax.github.io/songs.html?lumen/gosudarstvo
 https://egaxegax.github.io/songs.html?delfin/poslednee_slovo
 https://egaxegax.github.io/songs.html?metallica/low_mans_lyric
 https://egaxegax.github.io/songs.html?e_s_t/dikaya_-_pyanaya
@@ -11535,7 +11530,7 @@ https://egaxegax.github.io/songs.html?umka_i_bronevichek/avtostopnaya_molitva
 https://egaxegax.github.io/songs.html?mavrik/gonka
 https://egaxegax.github.io/songs.html?vysockij_vladimir/chernye_bushlaty
 https://egaxegax.github.io/songs.html?krasnaya_plesen/illjuziya
-https://egaxegax.github.io/songs.html?ljumen/babochki
+https://egaxegax.github.io/songs.html?lumen/babochki
 https://egaxegax.github.io/songs.html?2_minutos/tema_de_adrian
 https://egaxegax.github.io/songs.html?exploited/sex_and_violence
 https://egaxegax.github.io/songs.html?osin_evgenij/mechta
@@ -12095,7 +12090,7 @@ https://egaxegax.github.io/songs.html?oasis/shoud_it_out_loud
 https://egaxegax.github.io/songs.html?juki/klevo
 https://egaxegax.github.io/songs.html?chij_i_ko/jizn_stoit_togo_
 https://egaxegax.github.io/songs.html?led_zeppelin/song_remains_the_same
-https://egaxegax.github.io/songs.html?ljumen/dyshi
+https://egaxegax.github.io/songs.html?lumen/dyshi
 https://egaxegax.github.io/songs.html?kradenoe_solnce
 https://egaxegax.github.io/songs.html?kradenoe_solnce/elektrotok
 https://egaxegax.github.io/songs.html?mavrin_sergej/smejsya_i_plach
@@ -12357,7 +12352,7 @@ https://egaxegax.github.io/songs.html?guano_apes/dont_you_turn_your_back_on_me
 https://egaxegax.github.io/songs.html?belaya_gvardiya/mandarinovyj_pirog
 https://egaxegax.github.io/songs.html?vyhod/brat_isajya
 https://egaxegax.github.io/songs.html?pearl_jam/whipping
-https://egaxegax.github.io/songs.html?ljumen/mechta
+https://egaxegax.github.io/songs.html?lumen/mechta
 https://egaxegax.github.io/songs.html?makarevich_andrej/sideli_my_na_kryshe
 https://egaxegax.github.io/songs.html?vysockij_vladimir/polchasa_do_ataki
 https://egaxegax.github.io/songs.html?ruki_vverh/nu_gde_je_vy_devchenki
@@ -12947,7 +12942,7 @@ https://egaxegax.github.io/songs.html?eminem/bad_meets_evil
 https://egaxegax.github.io/songs.html?chajf/pust_tebe_ppisnitsya
 https://egaxegax.github.io/songs.html?kashin_pavel/smotri-ka_kakaya_luna
 https://egaxegax.github.io/songs.html?blur/battery_in_your_leg
-https://egaxegax.github.io/songs.html?ljumen/vavilon
+https://egaxegax.github.io/songs.html?lumen/vavilon
 https://egaxegax.github.io/songs.html?aleksin_andrej/koshka
 https://egaxegax.github.io/songs.html?afganskie_pesni/sneg_v_dekabre
 https://egaxegax.github.io/songs.html?bichevskaya_janna/ya_v_sadochke_byla
@@ -13091,7 +13086,7 @@ https://egaxegax.github.io/songs.html?saruhanov_igor/ya_hochu_smotret
 https://egaxegax.github.io/songs.html?az/voshojdenie
 https://egaxegax.github.io/songs.html?nimerov_grigorij/okean
 https://egaxegax.github.io/songs.html?shevchuk_jurij/osen_mertvye_dojdi
-https://egaxegax.github.io/songs.html?ljumen/tishina_vnutri
+https://egaxegax.github.io/songs.html?lumen/tishina_vnutri
 https://egaxegax.github.io/songs.html?perova_lena/dolgi
 https://egaxegax.github.io/songs.html?nimerov_grigorij/edu_na_rabotu
 https://egaxegax.github.io/songs.html?beatles/christmastime_is_here_again
@@ -13128,7 +13123,7 @@ https://egaxegax.github.io/songs.html?nimerov_grigorij/kanalizaciya
 https://egaxegax.github.io/songs.html?trofim/staryj_pes
 https://egaxegax.github.io/songs.html?raznoe/podmoskovnye_vechera
 https://egaxegax.github.io/songs.html?umaturman/tennis
-https://egaxegax.github.io/songs.html?ljumen/navsegda
+https://egaxegax.github.io/songs.html?lumen/navsegda
 https://egaxegax.github.io/songs.html?bashlachev_aleksandr/dym_koromyslom
 https://egaxegax.github.io/songs.html?sjutkin_valerij/glavnoe_rebyata_serdcem_ne_staret
 https://egaxegax.github.io/songs.html?vizbor_jurij/ekipaju_korablya_rjumin-popov
@@ -13845,7 +13840,7 @@ https://egaxegax.github.io/songs.html?umka_i_bronevichek/pir_vo_vremya_chumy
 https://egaxegax.github.io/songs.html?kukryniksy/yasnye_dni
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/belaya_bereza
 https://egaxegax.github.io/songs.html?illet/pesn_vojny
-https://egaxegax.github.io/songs.html?ljumen/vyxodnoj
+https://egaxegax.github.io/songs.html?lumen/vyxodnoj
 https://egaxegax.github.io/songs.html?nochnye_snajpery/po_doroge
 https://egaxegax.github.io/songs.html?butyrka/kolshchik
 https://egaxegax.github.io/songs.html?purgen/pesenka_pivnogo_panka
@@ -14647,7 +14642,7 @@ https://egaxegax.github.io/songs.html?zimove_zverej/tjupmy
 https://egaxegax.github.io/songs.html?lemonheads/left_for_dead
 https://egaxegax.github.io/songs.html?bratya_grim/reality
 https://egaxegax.github.io/songs.html?raznoe/shutka
-https://egaxegax.github.io/songs.html?ljumen/skolko
+https://egaxegax.github.io/songs.html?lumen/skolko
 https://egaxegax.github.io/songs.html?belyj_orel/a_v_chistom_pole
 https://egaxegax.github.io/songs.html?billys_band/straight_up_to_the_top
 https://egaxegax.github.io/songs.html?adaptaciya/jivoj
@@ -15622,7 +15617,7 @@ https://egaxegax.github.io/songs.html?311/jackolanterns_weather
 https://egaxegax.github.io/songs.html?kashin_pavel/leto
 https://egaxegax.github.io/songs.html?arefeva_olga/net_u_tebya_dushi
 https://egaxegax.github.io/songs.html?repertuar_dlya_kabaka/korobochka
-https://egaxegax.github.io/songs.html?ljumen/otvalite
+https://egaxegax.github.io/songs.html?lumen/otvalite
 https://egaxegax.github.io/songs.html?makarevich_andrej/bratskij_valsok
 https://egaxegax.github.io/songs.html?smyslovye_galljucinacii/chernaya
 https://egaxegax.github.io/songs.html?ddt/periferiya_bonus_track
@@ -16028,7 +16023,7 @@ https://egaxegax.github.io/songs.html?medvedev_oleg/marsh_kontinentalnyh_elektri
 https://egaxegax.github.io/songs.html?green_day/take_back
 https://egaxegax.github.io/songs.html?voskresene/veter_dyhanie_dobrogo_neba
 https://egaxegax.github.io/songs.html?severnyj_flot/kajduju_noch
-https://egaxegax.github.io/songs.html?ljumen/s_nebes_na_zemlju
+https://egaxegax.github.io/songs.html?lumen/s_nebes_na_zemlju
 https://egaxegax.github.io/songs.html?tajm-aut/vesna
 https://egaxegax.github.io/songs.html?reel_big_fish/beer
 https://egaxegax.github.io/songs.html?nimerov_grigorij/snova_leto
@@ -19730,7 +19725,7 @@ https://egaxegax.github.io/songs.html?hapa
 https://egaxegax.github.io/songs.html?hapa/kuu_lei_kuu_ipo
 https://egaxegax.github.io/songs.html?raznoe/gimn_voshodyashchego_solnca
 https://egaxegax.github.io/songs.html?jimi_hendrix/angel
-https://egaxegax.github.io/songs.html?ljumen/detki
+https://egaxegax.github.io/songs.html?lumen/detki
 https://egaxegax.github.io/songs.html?bichevskaya_janna/brodyaga
 https://egaxegax.github.io/songs.html?kukin_jurij/elegiya
 https://egaxegax.github.io/songs.html?raznoe/vesti
@@ -19796,7 +19791,7 @@ https://egaxegax.github.io/songs.html?aleksin_andrej/v_aleksine_
 https://egaxegax.github.io/songs.html?eric_clapton/holy_mother
 https://egaxegax.github.io/songs.html?holy_soldier/eyes_of_innocence
 https://egaxegax.github.io/songs.html?queers/ben_weasel
-https://egaxegax.github.io/songs.html?ljumen/ten
+https://egaxegax.github.io/songs.html?lumen/ten
 https://egaxegax.github.io/songs.html?melnica/veresk
 https://egaxegax.github.io/songs.html?kukuruza/leto
 https://egaxegax.github.io/songs.html?elvis_presley/all_shook_up
@@ -20294,7 +20289,7 @@ https://egaxegax.github.io/songs.html?belaya_gvardiya/djenni
 https://egaxegax.github.io/songs.html?vysockij_vladimir/pozabyv_pro_dela_i_trevogi
 https://egaxegax.github.io/songs.html?papa_roach/life_is_a_bullet
 https://egaxegax.github.io/songs.html?zoopark/takoj_u_tebya_ne_budet
-https://egaxegax.github.io/songs.html?ljumen/6_milliardov
+https://egaxegax.github.io/songs.html?lumen/6_milliardov
 https://egaxegax.github.io/songs.html?chicherina/slomala_sebya
 https://egaxegax.github.io/songs.html?makarevich_andrej/posvyashchenie_teatru
 https://egaxegax.github.io/songs.html?vysockij_vladimir/ni_slavy_i_ni_korovy
@@ -20368,7 +20363,7 @@ https://egaxegax.github.io/songs.html?nalich_petr/staryj_moryak
 https://egaxegax.github.io/songs.html?adams_bryan/the_only_thing_that_looks_good_on_me_is_you
 https://egaxegax.github.io/songs.html?lacrimosa/road_to_pain
 https://egaxegax.github.io/songs.html?bikchentaev_dmitrij/v_etoj_derevne_na_etoj_verande
-https://egaxegax.github.io/songs.html?ljumen/v_betonnoj_korobke
+https://egaxegax.github.io/songs.html?lumen/v_betonnoj_korobke
 https://egaxegax.github.io/songs.html?pilot/finskij_zaliv
 https://egaxegax.github.io/songs.html?belaya_gvardiya/malysh
 https://egaxegax.github.io/songs.html?licej/eshche_odin_raj
@@ -22162,7 +22157,7 @@ https://egaxegax.github.io/songs.html?depeche_mode/judas
 https://egaxegax.github.io/songs.html?alternativnyj_mir/the_light
 https://egaxegax.github.io/songs.html?black_sabbath/the_hand_the_rocks_the_cradle
 https://egaxegax.github.io/songs.html?status_quo/pictures_of_matchstick_men
-https://egaxegax.github.io/songs.html?ljumen/nu_i_pust
+https://egaxegax.github.io/songs.html?lumen/nu_i_pust
 https://egaxegax.github.io/songs.html?blink_182/feeling_this
 https://egaxegax.github.io/songs.html?sashach/avtopilot
 https://egaxegax.github.io/songs.html?rammstein/kiss_mich_fellfrosch
@@ -22322,7 +22317,7 @@ https://egaxegax.github.io/songs.html?voskresene/zelenyj_dol
 https://egaxegax.github.io/songs.html?shufutinskij_mihail/samogonchik
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/slyshy_goloc_iz_ppekpacnogo_daleka
 https://egaxegax.github.io/songs.html?bichevskaya_janna/davajte_delat_pauzy_v_slovah
-https://egaxegax.github.io/songs.html?ljumen/horosho
+https://egaxegax.github.io/songs.html?lumen/horosho
 https://egaxegax.github.io/songs.html?crowded_house/chocolate_cake
 https://egaxegax.github.io/songs.html?rozenbaum_aleksandr/narisujte_mne_dom
 https://egaxegax.github.io/songs.html?grajdanskaya_oborona/horoshij_car_i_znakomaya_von
@@ -23733,7 +23728,7 @@ https://egaxegax.github.io/songs.html?nochnye_snajpery/aprelskaya
 https://egaxegax.github.io/songs.html?teenage_fanclub/heavy_metal
 https://egaxegax.github.io/songs.html?raznoe/devushka
 https://egaxegax.github.io/songs.html?morozova_vika/moj_bog
-https://egaxegax.github.io/songs.html?ljumen/goret
+https://egaxegax.github.io/songs.html?lumen/goret
 https://egaxegax.github.io/songs.html?nofx/august_8th
 https://egaxegax.github.io/songs.html?mogilevskaya_natalya/podsnejnik
 https://egaxegax.github.io/songs.html?mango-mango/kosmonavty
@@ -23814,7 +23809,7 @@ https://egaxegax.github.io/songs.html?kashin_pavel/unesennye_vetrom
 https://egaxegax.github.io/songs.html?bon_jovi/mystery_train
 https://egaxegax.github.io/songs.html?chajf/pivo
 https://egaxegax.github.io/songs.html?akvarium/the_time
-https://egaxegax.github.io/songs.html?ljumen/mejdu_strochek
+https://egaxegax.github.io/songs.html?lumen/mejdu_strochek
 https://egaxegax.github.io/songs.html?akvarium/fields_of_my_love
 https://egaxegax.github.io/songs.html?voskresene/ya_privyk_brodit_odin_
 https://egaxegax.github.io/songs.html?kashin_pavel/slepaya_ljubov
@@ -23829,7 +23824,7 @@ https://egaxegax.github.io/songs.html?zdob_si_zdub/videli_noch
 https://egaxegax.github.io/songs.html?blur/yuko_&_hiro
 https://egaxegax.github.io/songs.html?red_hot_chili_peppers/search_and_destroy
 https://egaxegax.github.io/songs.html?crowded_house/now_were_getting_somewhere
-https://egaxegax.github.io/songs.html?ljumen/kofe
+https://egaxegax.github.io/songs.html?lumen/kofe
 https://egaxegax.github.io/songs.html?grajdanskaya_oborona/vesna
 https://egaxegax.github.io/songs.html?kukryniksy/geroj
 https://egaxegax.github.io/songs.html?ddt/malchik-slepoj
@@ -24795,42 +24790,6 @@ https://egaxegax.github.io/songs.html?linkin_park/pushing_me_away
 https://egaxegax.github.io/songs.html?linkin_park/runaway
 https://egaxegax.github.io/songs.html?linkin_park/somewhere_i_belong
 https://egaxegax.github.io/songs.html?linkin_park/with_you
-https://egaxegax.github.io/songs.html?lumen/02_blagoveshchensk
-https://egaxegax.github.io/songs.html?lumen/2000_let
-https://egaxegax.github.io/songs.html?lumen/c4
-https://egaxegax.github.io/songs.html?lumen/fuck_off
-https://egaxegax.github.io/songs.html?lumen/babochki
-https://egaxegax.github.io/songs.html?lumen/v_betonnoj_korobke
-https://egaxegax.github.io/songs.html?lumen/vavilon
-https://egaxegax.github.io/songs.html?lumen/vyhodnoj
-https://egaxegax.github.io/songs.html?lumen/gosudarstvo
-https://egaxegax.github.io/songs.html?lumen/detki
-https://egaxegax.github.io/songs.html?lumen/dnevnik
-https://egaxegax.github.io/songs.html?lumen/do_svidaniya
-https://egaxegax.github.io/songs.html?lumen/druzya
-https://egaxegax.github.io/songs.html?lumen/dyshi
-https://egaxegax.github.io/songs.html?lumen/zima
-https://egaxegax.github.io/songs.html?lumen/zmej
-https://egaxegax.github.io/songs.html?lumen/zuby
-https://egaxegax.github.io/songs.html?lumen/kosmonavt
-https://egaxegax.github.io/songs.html?lumen/kotenki
-https://egaxegax.github.io/songs.html?lumen/kofe
-https://egaxegax.github.io/songs.html?lumen/mejdu_strochek
-https://egaxegax.github.io/songs.html?lumen/mechta
-https://egaxegax.github.io/songs.html?lumen/mne_v_druguju_storonu
-https://egaxegax.github.io/songs.html?lumen/moe_vremya
-https://egaxegax.github.io/songs.html?lumen/navsegda
-https://egaxegax.github.io/songs.html?lumen/nazovi_mne_svoe_imya
-https://egaxegax.github.io/songs.html?lumen/ne_speshi
-https://egaxegax.github.io/songs.html?lumen/nikto_ne_znaet
-https://egaxegax.github.io/songs.html?lumen/odnoj_krovi
-https://egaxegax.github.io/songs.html?lumen/s_nebes_na_zemlju
-https://egaxegax.github.io/songs.html?lumen/svoboda
-https://egaxegax.github.io/songs.html?lumen/sid_i_nensi
-https://egaxegax.github.io/songs.html?lumen/sinyaya_ptica
-https://egaxegax.github.io/songs.html?lumen/skolko
-https://egaxegax.github.io/songs.html?lumen/tri_puti
-https://egaxegax.github.io/songs.html?lumen/uspokoj_menya
 https://egaxegax.github.io/songs.html?madonna/american_life
 https://egaxegax.github.io/songs.html?madonna/frozen
 https://egaxegax.github.io/songs.html?madonna/hollywood_2_variant
@@ -26988,7 +26947,7 @@ https://egaxegax.github.io/songs.html?nochnye_snajpery/ty_plamya
 https://egaxegax.github.io/songs.html?bachman_turner_overdrive/takin_care_of_business
 https://egaxegax.github.io/songs.html?eric_clapton/no_alibis
 https://egaxegax.github.io/songs.html?bichevskaya_janna/donskaya_ballada
-https://egaxegax.github.io/songs.html?ljumen/sestrenka
+https://egaxegax.github.io/songs.html?lumen/sestrenka
 https://egaxegax.github.io/songs.html?exploited/dog_soldier
 https://egaxegax.github.io/songs.html?kino/slovno_ten_begu_kuda-to_ya_
 https://egaxegax.github.io/songs.html?novikov_aleksandr/ya_vyshel_rodom_
@@ -27247,7 +27206,7 @@ https://egaxegax.github.io/songs.html?rozenbaum_aleksandr/sto_pervyj_kilometr
 https://egaxegax.github.io/songs.html?medvedev_oleg/iskazilas_nasha_planeta
 https://egaxegax.github.io/songs.html?green_day/strangeland
 https://egaxegax.github.io/songs.html?visokosnyj_god/16_37
-https://egaxegax.github.io/songs.html?ljumen/volk
+https://egaxegax.github.io/songs.html?lumen/volk
 https://egaxegax.github.io/songs.html?rancid/junkyman
 https://egaxegax.github.io/songs.html?bichevskaya_janna/pesenka_starogo_sharmanshchika
 https://egaxegax.github.io/songs.html?queen/if_you_cant_beat_them
@@ -27465,7 +27424,7 @@ https://egaxegax.github.io/songs.html?mashina_vremeni/starye_pesni
 https://egaxegax.github.io/songs.html?kuzmin_vladimir/mama_tell_me_what_to_do
 https://egaxegax.github.io/songs.html?deep_purple/hard_loving_man
 https://egaxegax.github.io/songs.html?rancid/disorder_and_disarray
-https://egaxegax.github.io/songs.html?ljumen/sinyaya_ptica
+https://egaxegax.github.io/songs.html?lumen/sinyaya_ptica
 https://egaxegax.github.io/songs.html?juki/tankist_2
 https://egaxegax.github.io/songs.html?electric_light_orchestra/summer_and_lightning
 https://egaxegax.github.io/songs.html?slayer/piece_by_piece
@@ -27820,7 +27779,7 @@ https://egaxegax.github.io/songs.html?splin/mamma_mia
 https://egaxegax.github.io/songs.html?bach_johann_sebastian/orchestral_suite_no_3_in_d_major
 https://egaxegax.github.io/songs.html?eminem/guilty_conscience
 https://egaxegax.github.io/songs.html?bichevskaya_janna/gruzinskaya_pesnya
-https://egaxegax.github.io/songs.html?ljumen/druzya
+https://egaxegax.github.io/songs.html?lumen/druzya
 https://egaxegax.github.io/songs.html?exploited/another_day_to_go_nowhere
 https://egaxegax.github.io/songs.html?kurylev_vadim/tuskloe_solnce
 https://egaxegax.github.io/songs.html?novikov_aleksandr/zapiski
@@ -27917,7 +27876,7 @@ https://egaxegax.github.io/songs.html?killers/somebody_told_me
 https://egaxegax.github.io/songs.html?the_monkees/monkees_theme
 https://egaxegax.github.io/songs.html?raznye_ljudi/rabochij_rok-n-roll
 https://egaxegax.github.io/songs.html?morozova_vika/to_chto_est_sejchas
-https://egaxegax.github.io/songs.html?ljumen/katenki
+https://egaxegax.github.io/songs.html?lumen/katenki
 https://egaxegax.github.io/songs.html?nofx/day_to_daze
 https://egaxegax.github.io/songs.html?monokini
 https://egaxegax.github.io/songs.html?monokini/do_vctpechi_na_zvezde
@@ -27992,7 +27951,7 @@ https://egaxegax.github.io/songs.html?bos_stef/papa
 https://egaxegax.github.io/songs.html?chajf/skaji_tolko_slovo
 https://egaxegax.github.io/songs.html?akvarium/bljuz_prostogo_cheloveka
 https://egaxegax.github.io/songs.html?loza_jurij/gnusnaya_pesnya
-https://egaxegax.github.io/songs.html?ljumen/nikto_ne_znaet
+https://egaxegax.github.io/songs.html?lumen/nikto_ne_znaet
 https://egaxegax.github.io/songs.html?vragi/tango
 https://egaxegax.github.io/songs.html?kim_julij/net_ya_ne_plachu
 https://egaxegax.github.io/songs.html?eminem/the_way_i_am
@@ -28005,7 +27964,7 @@ https://egaxegax.github.io/songs.html?reel_big_fish/big_star
 https://egaxegax.github.io/songs.html?dire_straits/down_to_the_water_line
 https://egaxegax.github.io/songs.html?adaptaciya/na_derevnju_dedushke
 https://egaxegax.github.io/songs.html?crowded_house/whispers_and_moans
-https://egaxegax.github.io/songs.html?ljumen/sid_i_nensi
+https://egaxegax.github.io/songs.html?lumen/sid_i_nensi
 https://egaxegax.github.io/songs.html?bujnov_aleksandr/gorkij_med
 https://egaxegax.github.io/songs.html?kurylev_vadim/tak_mnogo_dorog_bljuz
 https://egaxegax.github.io/songs.html?ddt/poluchite_po_nagrade
