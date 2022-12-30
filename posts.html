@@ -58,7 +58,7 @@
           .replace(/\r\r\n/g, '\n')
           .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
         html = converter.makeHtml(text) // fix img url to absolute
-          .replace(/src="/g, 'src="'+p.url+'/../')
+          .replace(/src=".\//g, 'src="'+p.url+'/../')
           .replace(/\$PURL/g, p.url+'/../');
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 

@@ -4,7 +4,7 @@
 
 Поскольку являюсь большим поклонником языка Python, свой сайт я решил создать на популярном фреймворке Django. Чтобы использовать его на бесплатном хостинге <a href="http://appspot.com">appspot.com</a>, адаптировал код для использования NoSQL версии <a href="https://github.com/django-nonrel">django</a> и платформы <a href="http://appengine.google.com">Google AppEngine</a>.
 <br>
-<img src="https://habrastorage.org/files/3b2/726/93a/3b272693a25546da95c99d86cc05f854.png" width="128px" />
+<img src="./https://habrastorage.org/files/3b2/726/93a/3b272693a25546da95c99d86cc05f854.png" width="128px" />
 <br>
 Сайт существует уже больше 3 лет с 12-го года. Я использую его как платформу для изучения возможностей <b>django</b> и <b>appengine</b> "вживую". Также интересно изучать статистику по нему в <a href="http://https://www.google.ru/webmasters/">Google Webmasters</a>: поисковые индексы, запросы. Например, для себя я выяснил, что Google индексирует для поиска заголовки title, а не содержимое тегов meta.
 
