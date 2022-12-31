@@ -18,7 +18,7 @@
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
-<!--<script src="https://vk.com/js/api/openapi.js?169"></script>-->
+<script src="https://vk.com/js/api/openapi.js?169"></script>
 </head>
 <body>
 <div id="header" class="main bg nowrap scroll">
@@ -31,6 +31,7 @@
 </div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
+<div id="vkcomments" class="main"></div>
 <div id="page_footer" class="main"></div>
 <table id="footer" class="main"><tr>
 <td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
@@ -154,6 +155,12 @@
     '<i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.'+
   '</p>';
   });
+
+</script>
+<script>
+
+  VK.init({apiId: 4748959, onlyWidgets: true});
+  VK.Widgets.Comments('vkcomments');
 
 </script>
 <script src="/static/js/metrics.js"></script>
