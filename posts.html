@@ -88,7 +88,9 @@
     '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(p == 'find' && urlParams().find){ // search list
+      if(urlParams().page){ // ?page
+        // paginate
+      }else if(urlParams().find){ // search list
         posts = posts.filter(function(tit){ 
           return subjects[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
@@ -96,8 +98,6 @@
         posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray">('+posts.length+')</i></p>';
-      }else if(p == 'page' && urlParams().page){ // ?page
-        // paginate
       }else if(pp.length>1){ // ?subj/title
         posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
         if(posts.length){

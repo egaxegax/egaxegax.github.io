@@ -164,7 +164,9 @@ img.av { width: 50px; height: auto; }
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(p == 'find' && urlParams().find){ // search list
+      if(urlParams().page){ // ?page
+        // paginate
+      }else if(urlParams().find){ // ?find
         songs = songs.filter(function(tit){ 
           return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
@@ -177,8 +179,6 @@ img.av { width: 50px; height: auto; }
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
-      }else if(p == 'page' && urlParams().page){ // paginate
-        //
       }else if(pp.length>1){ // art + song = song text
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +noindex unusable url
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
