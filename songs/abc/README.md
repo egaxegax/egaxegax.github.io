@@ -1,4 +1,3 @@
-* [A Perfect Circle](A%20Perfect%20Circle)
 * [A-Ha](A-Ha)
 * [A-Teens](A-Teens)
 * [ABBA](ABBA)

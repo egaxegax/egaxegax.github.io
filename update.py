@@ -17,8 +17,6 @@ import sys
 import time
 
 def E_OS(text):
-  if os.name == 'nt':
-    return text.decode('cp1251').encode('utf-8')
   return text
 
 def TR(t):
