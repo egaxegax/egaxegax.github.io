@@ -229,7 +229,7 @@ img.av { width: 50px; height: auto; }
     '<div id="song'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'song'+i, if: i==1, i:page_bottom+i, root: root, subj: subj, title: page_titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'song'+i, if: i==1, i: page_bottom+i, root: root, subj: subj, title: page_titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages

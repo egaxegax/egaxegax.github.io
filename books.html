@@ -89,12 +89,14 @@
   }
   
   function addAbout(r,p){
-    var text = r.replace(/\*/g,'');
+    var converter = new showdown.Converter(), // to markdown    
+        text = r,
+        html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
     document.getElementById(p.id).innerHTML = 
   '<dl class="msgtext about">'+
     '<span id="im'+p.id+'"></span>'+
-    '<p>'+text+'</p>'+
+    '<p>'+html+'</p>'+
   '</dl>';
     var img = new Image();
     img.className = "rounded";
@@ -195,7 +197,7 @@
     '<div id="book'+i+'">'+
       (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'book'+i, if: i==1, i:page_bottom+i, root: root, subj: subj, title: page_titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'book'+i, if: i==1, i: page_bottom+i, root: root, subj: subj, title: page_titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
