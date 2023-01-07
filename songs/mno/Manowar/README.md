@@ -14,9 +14,7 @@
 * [Hearth Of Steel](Hearth%20Of%20Steel.md)
 * [Kingdom Come](Kingdom%20Come.md)
 * [Kings Of Metal](Kings%20Of%20Metal.md)
-![](Manowar.jpg)  
-[Manowar](Manowar.md)
-
+* [Manowar](Manowar.md)
 * [Master of the Wind](Master%20of%20the%20Wind.md)
 * [Metal Daze](Metal%20Daze.md)
 * [Metal Warriors](Metal%20Warriors.md)

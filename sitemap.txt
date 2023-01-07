@@ -2355,6 +2355,27 @@ https://egaxegax.github.io/books.html?genrih_mann/venera
 https://egaxegax.github.io/books.html?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books.html?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books.html?artur_konan_dojl/belyj_otryad
+https://egaxegax.github.io/foto.html
+https://egaxegax.github.io/foto/Москва/Красивая аллея в октябре. Октябрь 2021г.JPG
+https://egaxegax.github.io/foto/Москва/Северное Чертаново. Май 2022г.JPG
+https://egaxegax.github.io/foto/Природа/Ёжик на дороге. Июнь 2022 г.JPG
+https://egaxegax.github.io/foto/Природа/Пожелтевший клен. Октябрь 2018г.JPG
+https://egaxegax.github.io/foto/Природа/Сочные яблочки. Сентябрь 2014г.JPG
+https://egaxegax.github.io/foto/Природа/Старый поезд в Михнево. Сентябрь 2019г.JPG
+https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2016г.JPG
+https://egaxegax.github.io/foto/Природа/На фоне синевы. Июль 2017г.JPG
+https://egaxegax.github.io/foto/Природа/Бабочка на красном цветке 2. Сентябрь 2018г.JPG
+https://egaxegax.github.io/foto/Природа/Утка в пруду. Июль 2006г.JPG
+https://egaxegax.github.io/foto/Природа/Бабочка. Сентябрь 2018г.JPG
+https://egaxegax.github.io/foto/Москва/Ясеневские пруды.JPG
+https://egaxegax.github.io/foto/Москва/Кировоградские пруды.JPG
+https://egaxegax.github.io/foto/Москва/Варшавские пруды.JPG
+https://egaxegax.github.io/foto/Церкви/Родионово. Ленинградская область.JPG
+https://egaxegax.github.io/foto/Церкви/Дунилово. Ивановская область.JPG
+https://egaxegax.github.io/foto/Церкви/Кижи. Карелия.JPG
+https://egaxegax.github.io/foto/Природа/Цветочек синенький. Июль 2016г.JPG
+https://egaxegax.github.io/foto/Природа/Большой мухомор. Сентябрь 2017г.JPG
+https://egaxegax.github.io/foto/Природа/Цветок синюха. Август 2017г.JPG
 https://egaxegax.github.io/posts.html
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu/chm-2022_gruppovoj_etap
@@ -2650,18 +2671,18 @@ https://egaxegax.github.io/songs.html?uspenskaya_ljubov/kabriolet
 https://egaxegax.github.io/songs.html?uspenskaya_ljubov/prababushka
 https://egaxegax.github.io/songs.html?nimerov_grigorij/voskresensk
 https://egaxegax.github.io/songs.html?coldplay
-https://egaxegax.github.io/songs.html?coldplay/adventure_of_a_lifetime
 https://egaxegax.github.io/songs.html?coldplay/clocks
-https://egaxegax.github.io/songs.html?coldplay/every_teardrop_is_a_waterfall
-https://egaxegax.github.io/songs.html?coldplay/fix_you
-https://egaxegax.github.io/songs.html?coldplay/magic
 https://egaxegax.github.io/songs.html?coldplay/major_minus
-https://egaxegax.github.io/songs.html?coldplay/paradise
-https://egaxegax.github.io/songs.html?coldplay/princess_of_china
 https://egaxegax.github.io/songs.html?coldplay/talk
-https://egaxegax.github.io/songs.html?coldplay/the_scientist
-https://egaxegax.github.io/songs.html?coldplay/viva_la_vida
+https://egaxegax.github.io/songs.html?coldplay/every_teardrop_is_a_waterfall
+https://egaxegax.github.io/songs.html?coldplay/princess_of_china
 https://egaxegax.github.io/songs.html?coldplay/yellow
+https://egaxegax.github.io/songs.html?coldplay/fix_you
+https://egaxegax.github.io/songs.html?coldplay/paradise
+https://egaxegax.github.io/songs.html?coldplay/adventure_of_a_lifetime
+https://egaxegax.github.io/songs.html?coldplay/viva_la_vida
+https://egaxegax.github.io/songs.html?coldplay/magic
+https://egaxegax.github.io/songs.html?coldplay/the_scientist
 https://egaxegax.github.io/songs.html?nimerov_grigorij/na_dikom_zapade
 https://egaxegax.github.io/songs.html?nazareth
 https://egaxegax.github.io/songs.html?nazareth/this_month_messiah
@@ -2671,14 +2692,14 @@ https://egaxegax.github.io/songs.html?black_label_society
 https://egaxegax.github.io/songs.html?black_label_society/angel_of_mercy
 https://egaxegax.github.io/songs.html?black_label_society/in_this_river
 https://egaxegax.github.io/songs.html?rihanna
-https://egaxegax.github.io/songs.html?rihanna/diamonds
 https://egaxegax.github.io/songs.html?rihanna/fourfiveseconds
-https://egaxegax.github.io/songs.html?rihanna/pon_de_replay
 https://egaxegax.github.io/songs.html?rihanna/rude_boy
-https://egaxegax.github.io/songs.html?rihanna/russian_roulette
-https://egaxegax.github.io/songs.html?rihanna/stay
+https://egaxegax.github.io/songs.html?rihanna/pon_de_replay
 https://egaxegax.github.io/songs.html?rihanna/unfaithful
+https://egaxegax.github.io/songs.html?rihanna/stay
 https://egaxegax.github.io/songs.html?rihanna/where_have_you_been
+https://egaxegax.github.io/songs.html?rihanna/russian_roulette
+https://egaxegax.github.io/songs.html?rihanna/diamonds
 https://egaxegax.github.io/songs.html?elton_john
 https://egaxegax.github.io/songs.html?elton_john/i_think_im_going_to_kill_myself
 https://egaxegax.github.io/songs.html?led_zeppelin
