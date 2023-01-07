@@ -14,8 +14,6 @@
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="canonical" href="books.html">
 <style>
-.about { display: table; }
-.about * { display: table-cell; vertical-align: middle; }
 .about img { max-width: 120px; padding:0px 10px 0px 0px; }
 </style>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
@@ -95,14 +93,10 @@
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
     document.getElementById(p.id).innerHTML = 
-  '<dl class="msgtext about">'+
-    '<span id="im'+p.id+'"></span>'+
-    '<p>'+html+'</p>'+
-  '</dl>';
-    var img = new Image();
-    img.className = "rounded";
-    img.src = buildURL('books')+'/img/'+tr(p.subj)+'.jpg';
-    img.onload = function(){ document.getElementById('im' + p.id).appendChild(this); };
+  '<table class="msgtext collapse"><tr>'+
+    '<td class="about"><img class="rounded" src="'+buildURL('books')+'/img/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
+    '<td>'+html+'</td></tr>'+
+  '</table>';
   }
 
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
