@@ -164,9 +164,9 @@ img.av { width: 50px; height: auto; }
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(urlParams().page){ // ?page
+      if(p == 'page' && urlParams().page){ // ?page
         // paginate
-      }else if(urlParams().find){ // ?find
+      }else if(p == 'find' && urlParams().find){ // ?find
         songs = songs.filter(function(tit){ 
           return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
@@ -179,7 +179,7 @@ img.av { width: 50px; height: auto; }
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
-      }else if(pp.length>1){ // art + song = song text
+      }else if(pp.length>1){ // ?art/song
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +noindex unusable url
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
         if(songs.length){
@@ -194,7 +194,7 @@ img.av { width: 50px; height: auto; }
           document.title = arts[songs[0][0]][0] + ', ' + songs[0][2] + ' - ' + document.title;
           songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
         }
-      }else if(pp.length>0){ // art songs list
+      }else if(pp.length>0){ // ?art
         songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0]) == pp[0]); }); // filter by art
         songs = songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         if(songs.length){ 

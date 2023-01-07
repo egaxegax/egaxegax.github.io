@@ -87,7 +87,6 @@
 * [Since I've been loving you](Since%20I've%20been%20loving%20you.md)
 * [Song Remains The Same](Song%20Remains%20The%20Same.md)
 * [Stairway to Heaven](Stairway%20to%20Heaven.md)
-* [Stairway to heaven](Stairway%20to%20heaven.md)
 * [Tangerine](Tangerine.md)
 * [Tea For One](Tea%20For%20One.md)
 * [Ten Years Gone](Ten%20Years%20Gone.md)

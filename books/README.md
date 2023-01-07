@@ -1,3 +1,5 @@
+Описания книг по жанрам и авторам.
+
 * [adv_animal](adv_animal)
 * [adv_geo](adv_geo)
 * [adv_history](adv_history)

@@ -87,7 +87,7 @@ code { white-space: pre-wrap; }
     var ysel = -1;
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(urlParams().page){ // ?page
+      if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
       }else if(urlParams().ysclid){ // ?ysclid
         // skip ya.search

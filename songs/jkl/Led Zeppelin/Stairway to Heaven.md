@@ -1,7 +1,6 @@
-<!--2021-06-05 22:28:11-->
-***C  D  Fmaj  Am  C  G  Dsus4 D***  
+﻿<!--2021-06-05 22:28:11-->
+    ***C  D  Fmaj  Am  C  G  Dsus4 D***  
     ***C  D  Fmaj  Am  C  D  Fmaj***  
-  
     There's a lady who's sure all that glitters is gold,  
     ***Fmaj                 G/H Am***  
     And she's buying a stairway to heaven.  

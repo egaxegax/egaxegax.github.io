@@ -15,6 +15,7 @@ import re
 import os
 import sys
 import time
+import io
 
 def E_OS(text):
   return text
@@ -124,15 +125,15 @@ def compact(s):
   s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]')
   return s
 
-open('index.js', 'w').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
-open('index.js', 'a').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
-open('index.js', 'a').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
+io.open('index.js', 'w', encoding='utf-8', newline='\n').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
+io.open('index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
+io.open('index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
 if murls:
-  open('sitemap.txt', 'w').write('\n'.join(murls))
+  io.open('sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(murls))
 time.sleep(1)
 
-sitemap = open('../sitemap.txt', 'w') # truncate file
-sitemap = open('../sitemap.txt', 'a')
+sitemap = open('../sitemap.txt', 'w', newline='\n') # truncate file
+sitemap = open('../sitemap.txt', 'a', newline='\n')
 
 for d in ['books', 'foto', 'posts', 'songs', 'vesti', 'dbcartajs']:
   try:

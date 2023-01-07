@@ -88,9 +88,9 @@
     '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
-      if(urlParams().page){ // ?page
+      if(p == 'page' && urlParams().page){ // ?page
         // paginate
-      }else if(urlParams().find){ // search list
+      }else if(p == 'find' && urlParams().find){ // search list
         posts = posts.filter(function(tit){ 
           return subjects[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
