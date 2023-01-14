@@ -3006,8 +3006,6 @@ https://egaxegax.github.io/songs.html?foreigner
 https://egaxegax.github.io/songs.html?foreigner/girl_on_the_moon
 https://egaxegax.github.io/songs.html?seeger_peggy
 https://egaxegax.github.io/songs.html?seeger_peggy/im_gonna_be_an_engineer
-https://egaxegax.github.io/songs.html?kod
-https://egaxegax.github.io/songs.html?kod/ujdu
 https://egaxegax.github.io/songs.html?petljura_viktor/soldatskie_provody
 https://egaxegax.github.io/songs.html?mashnin_bend
 https://egaxegax.github.io/songs.html?mashnin_bend/jopa
@@ -3039,8 +3037,6 @@ https://egaxegax.github.io/songs.html?voskresene/gde-to_v_pole_vozle_magadana
 https://egaxegax.github.io/songs.html?offspring/denial_revisited
 https://egaxegax.github.io/songs.html?naumenko_majk
 https://egaxegax.github.io/songs.html?naumenko_majk/prigorodnyj_bljuz
-https://egaxegax.github.io/songs.html?klimnjuk_andrej
-https://egaxegax.github.io/songs.html?klimnjuk_andrej/zorka
 https://egaxegax.github.io/songs.html?gejnc_i_danilov/pesnya_o_polyarnoj_aviacii
 https://egaxegax.github.io/songs.html?ddt/rabotal_dolgo_ya_i_vot_istoriya
 https://egaxegax.github.io/songs.html?raznye_ljudi/leningradskij_etjud
@@ -3811,8 +3807,6 @@ https://egaxegax.github.io/songs.html?gosti_iz_budushchego
 https://egaxegax.github.io/songs.html?gosti_iz_budushchego/eto_silnee_menya
 https://egaxegax.github.io/songs.html?sum_41
 https://egaxegax.github.io/songs.html?sum_41/never_wake_up
-https://egaxegax.github.io/songs.html?kolbasska
-https://egaxegax.github.io/songs.html?kolbasska/ska
 https://egaxegax.github.io/songs.html?adaptaciya/veselo
 https://egaxegax.github.io/songs.html?mashina_vremeni/shok
 https://egaxegax.github.io/songs.html?legenda/vechnyj_plach
@@ -5104,8 +5098,6 @@ https://egaxegax.github.io/songs.html?afi/midnight_sun
 https://egaxegax.github.io/songs.html?gorod_312/po_sredstvam
 https://egaxegax.github.io/songs.html?nochnye_snajpery/da_da_da
 https://egaxegax.github.io/songs.html?ya_i_drug_moj_gruzovik/motogonki_igrushechnaya_versiya
-https://egaxegax.github.io/songs.html?klyachkin_e
-https://egaxegax.github.io/songs.html?klyachkin_e/mokryj_vals
 https://egaxegax.github.io/songs.html?sekret/ne_perejivaj
 https://egaxegax.github.io/songs.html?lacrimosa/ich_bin_der_brennende_komet
 https://egaxegax.github.io/songs.html?helavisa/running_to_paradise
@@ -5466,8 +5458,6 @@ https://egaxegax.github.io/songs.html?avtograf
 https://egaxegax.github.io/songs.html?avtograf/strannik
 https://egaxegax.github.io/songs.html?sektor_gaza/ne_daet
 https://egaxegax.github.io/songs.html?gosti_iz_budushchego/vse_resheno
-https://egaxegax.github.io/songs.html?klimova_i
-https://egaxegax.github.io/songs.html?klimova_i/romans
 https://egaxegax.github.io/songs.html?belaya_gvardiya/pticy
 https://egaxegax.github.io/songs.html?tarakany/kogda_ya_kuplju_sebe_pistolet
 https://egaxegax.github.io/songs.html?beatles/in_my_life
@@ -6013,8 +6003,6 @@ https://egaxegax.github.io/songs.html?zveri/tancuj
 https://egaxegax.github.io/songs.html?black_sabbath/the_law_maker
 https://egaxegax.github.io/songs.html?grajdanskaya_oborona/vintovka_-_eto_prazdnik
 https://egaxegax.github.io/songs.html?kruiz/dojd_idet_kuda-to
-https://egaxegax.github.io/songs.html?ponomareva_valentina
-https://egaxegax.github.io/songs.html?ponomareva_valentina/pod_laskoj_pljushevogo_pleda
 https://egaxegax.github.io/songs.html?green_day/the_grouch
 https://egaxegax.github.io/songs.html?teenage_love/wychowanie
 https://egaxegax.github.io/songs.html?vysockij_vladimir/pesnya_pro_snajpera
@@ -13892,8 +13880,6 @@ https://egaxegax.github.io/songs.html?iz_kf_neulovimye_mstiteli_1966/bjut_svinco
 https://egaxegax.github.io/songs.html?gazmanov_oleg/tuman
 https://egaxegax.github.io/songs.html?trofim/ne_moya_vina
 https://egaxegax.github.io/songs.html?nimerov_grigorij/poslednij_raz
-https://egaxegax.github.io/songs.html?svincovyj_tuman
-https://egaxegax.github.io/songs.html?svincovyj_tuman/o_esli
 https://egaxegax.github.io/songs.html?black_flag/drinking_&_driving
 https://egaxegax.github.io/songs.html?pavliashvili_soso/odnoklassniki
 https://egaxegax.github.io/songs.html?adaptaciya/legko_umirat
@@ -15900,8 +15886,6 @@ https://egaxegax.github.io/songs.html?nimerov_grigorij/ya_ljublju_hodit_v_les
 https://egaxegax.github.io/songs.html?beatles/if_i_fell
 https://egaxegax.github.io/songs.html?gejnc_i_danilov/kondopoga
 https://egaxegax.github.io/songs.html?trofim/priroda
-https://egaxegax.github.io/songs.html?korabli
-https://egaxegax.github.io/songs.html?korabli/v_karmane_pachka_sigaret_
 https://egaxegax.github.io/songs.html?parfenov_aleksej/padshie_angely
 https://egaxegax.github.io/songs.html?veselye_rebyata/brodyachie_artisty
 https://egaxegax.github.io/songs.html?nimerov_grigorij/v_zabroshennom_sadu
@@ -16663,8 +16647,6 @@ https://egaxegax.github.io/songs.html?kireev_anatolij
 https://egaxegax.github.io/songs.html?kireev_anatolij/mejdu_nebom_i_zemlej
 https://egaxegax.github.io/songs.html?nimerov_grigorij/gosudar
 https://egaxegax.github.io/songs.html?belaya_gvardiya/tancy_s_volkami
-https://egaxegax.github.io/songs.html?pavilon
-https://egaxegax.github.io/songs.html?pavilon/nebo_ljubvi
 https://egaxegax.github.io/songs.html?kino/ty_igrala_so_mnoj
 https://egaxegax.github.io/songs.html?chernyj_obelisk/ya_ostajus
 https://egaxegax.github.io/songs.html?nimerov_grigorij/filosofiya
@@ -17017,11 +16999,6 @@ https://egaxegax.github.io/songs.html?korol_i_shut/prervannaya_ljubov_ili_arbuzn
 https://egaxegax.github.io/songs.html?korol_i_shut/pro_ivana
 https://egaxegax.github.io/songs.html?korol_i_shut/prokaznik_skomoroh_2_variant
 https://egaxegax.github.io/songs.html?korol_i_shut/prokaznik_skomoroh
-https://egaxegax.github.io/songs.html?korol_i_shut/proklyatyj_staryj_dom_2_variant
-https://egaxegax.github.io/songs.html?korol_i_shut/proklyatyj_staryj_dom_3_variant
-https://egaxegax.github.io/songs.html?korol_i_shut/proklyatyj_staryj_dom_4_variant
-https://egaxegax.github.io/songs.html?korol_i_shut/proklyatyj_staryj_dom_5_variant
-https://egaxegax.github.io/songs.html?korol_i_shut/proklyatyj_staryj_dom_6_variant
 https://egaxegax.github.io/songs.html?korol_i_shut/proklyatyj_staryj_dom
 https://egaxegax.github.io/songs.html?korol_i_shut/prygnu_so_skaly_2_variant
 https://egaxegax.github.io/songs.html?korol_i_shut/prygnu_so_skaly_3_variant
@@ -19976,8 +19953,6 @@ https://egaxegax.github.io/songs.html?mashnin_bend/nikomu_ne_nujny
 https://egaxegax.github.io/songs.html?mashina_vremeni/ljudi_v_lodkah
 https://egaxegax.github.io/songs.html?megadeth/problems
 https://egaxegax.github.io/songs.html?butusov_vyacheslav/alchi-alchi
-https://egaxegax.github.io/songs.html?provoda
-https://egaxegax.github.io/songs.html?provoda/pro_kino
 https://egaxegax.github.io/songs.html?chajf/pesenka_pro_gadost
 https://egaxegax.github.io/songs.html?kuzmin_vladimir/vse_chto_ya_iskal
 https://egaxegax.github.io/songs.html?the_cure/lullaby
@@ -21974,8 +21949,6 @@ https://egaxegax.github.io/songs.html?limp_bizkit/hate_me_mission_impossible_ii_
 https://egaxegax.github.io/songs.html?limp_bizkit/hold_on
 https://egaxegax.github.io/songs.html?arefeva_olga/perekrestki
 https://egaxegax.github.io/songs.html?neprikasaemye/napoi_menya_vodoj
-https://egaxegax.github.io/songs.html?poligon
-https://egaxegax.github.io/songs.html?poligon/smert_mechty
 https://egaxegax.github.io/songs.html?faktor_2/baron
 https://egaxegax.github.io/songs.html?kasta/oni_revnujut_i_zavidujut
 https://egaxegax.github.io/songs.html?evanescence/everybodys_fool
@@ -23640,8 +23613,6 @@ https://egaxegax.github.io/songs.html?agata_kristi/kto_ukral_moju_zvezdu
 https://egaxegax.github.io/songs.html?nikitin_sergej/dialog_u_novogodnej_elki
 https://egaxegax.github.io/songs.html?him/pretending
 https://egaxegax.github.io/songs.html?black_sabbath/wicked_world
-https://egaxegax.github.io/songs.html?korsar
-https://egaxegax.github.io/songs.html?korsar/nebo_v_almazah
 https://egaxegax.github.io/songs.html?kuchin_ivan/belyj_lebed
 https://egaxegax.github.io/songs.html?reel_big_fish/all_i_want_is_more
 https://egaxegax.github.io/songs.html?vizbor_jurij/ya_glyaju_skvoz_tebya_
@@ -27051,8 +27022,6 @@ https://egaxegax.github.io/songs.html?mumij_troll/karnavala_net
 https://egaxegax.github.io/songs.html?elvis_presley/gi_blues
 https://egaxegax.github.io/songs.html?zoopark/ty_ljubish_vse_chto_vidish
 https://egaxegax.github.io/songs.html?bravo/bud_so_mnoj
-https://egaxegax.github.io/songs.html?kljuchi
-https://egaxegax.github.io/songs.html?kljuchi/kakogo_cherta
 https://egaxegax.github.io/songs.html?311/all_mixed_up
 https://egaxegax.github.io/songs.html?mashina_vremeni/krugi_na_vode
 https://egaxegax.github.io/songs.html?bujnov_aleksandr/v_parije_noch_2
@@ -27885,7 +27854,6 @@ https://egaxegax.github.io/songs.html?multfilmy/stereosignal
 https://egaxegax.github.io/songs.html?elton_john/border_song
 https://egaxegax.github.io/songs.html?zoopark/illjuzii
 https://egaxegax.github.io/songs.html?blatnye_pesni/sedoj
-https://egaxegax.github.io/songs.html?klimova_i/ya_tak_ustala_jdat
 https://egaxegax.github.io/songs.html?zdob_si_zdub/tiganii_si_ozn_cygan_i_nlo
 https://egaxegax.github.io/songs.html?eminem/kill_you
 https://egaxegax.github.io/songs.html?nirvana/something_in_the_way
@@ -27988,8 +27956,6 @@ https://egaxegax.github.io/songs.html?bichevskaya_janna/son_mne_prisnilsya
 https://egaxegax.github.io/songs.html?bob_marley/get_up_stand_up
 https://egaxegax.github.io/songs.html?kirsanov_ju/v_tu_noch
 https://egaxegax.github.io/songs.html?brigada_s/reki
-https://egaxegax.github.io/songs.html?platskart
-https://egaxegax.github.io/songs.html?platskart/ya_veril
 https://egaxegax.github.io/songs.html?rozenbaum_aleksandr/gorod_negodyaev
 https://egaxegax.github.io/songs.html?zapreshchennye_barabanshchiki/kotovckij
 https://egaxegax.github.io/songs.html?plach_єremії/yakbi_ti_byla_
@@ -28498,6 +28464,7 @@ https://egaxegax.github.io/songs.html?nimerov_18+/snimaju_napryajenie
 https://egaxegax.github.io/songs.html?nimerov_18+/podglyadel_za_sestroj
 https://egaxegax.github.io/index.html
 https://egaxegax.github.io/index.html?2023
+https://egaxegax.github.io/index.html?2023/230114_1437
 https://egaxegax.github.io/index.html?2023/230107_1639
 https://egaxegax.github.io/index.html?2023/230103_2327
 https://egaxegax.github.io/index.html?2022
