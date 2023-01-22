@@ -1,6 +1,6 @@
 /* football */
 h3 a {text-decoration:none; outline:none;}
-img { max-width: 700px; }
+img { max-width: 100%; }
 .che {background: #eee;}
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align: middle;} 

@@ -2377,6 +2377,8 @@ https://egaxegax.github.io/foto/Природа/Цветочек синеньки
 https://egaxegax.github.io/foto/Природа/Большой мухомор. Сентябрь 2017г.JPG
 https://egaxegax.github.io/foto/Природа/Цветок синюха. Август 2017г.JPG
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva
+https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/zamena_hdd_na_ssd_na_noutbuke
 https://egaxegax.github.io/posts.html?retro-igry_na_pk
 https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu
@@ -2399,7 +2401,6 @@ https://egaxegax.github.io/posts.html?poleznye_travy/pijma
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/vladimir_mayakovskij_sovetskij_poet
 https://egaxegax.github.io/posts.html?poleznye_travy/cheremsha
-https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/instrukciya_polzovaniya_sajtom
 https://egaxegax.github.io/posts.html?retro-igry_na_pk/emulyator_wine
 https://egaxegax.github.io/posts.html?poleznye_travy/romashka
