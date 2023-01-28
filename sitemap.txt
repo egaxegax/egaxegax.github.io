@@ -12906,8 +12906,6 @@ https://egaxegax.github.io/songs.html?tears_for_fears/goodnight_song
 https://egaxegax.github.io/songs.html?alternativnyj_mir/vse_takje_tiho_hleshchet_dojd_
 https://egaxegax.github.io/songs.html?petljura_viktor/mchitsya_kareta
 https://egaxegax.github.io/songs.html?elton_john/can_you_feel_the_love_tonight
-https://egaxegax.github.io/songs.html?mika_njuton
-https://egaxegax.github.io/songs.html?mika_njuton/v_plenu
 https://egaxegax.github.io/songs.html?sukachev_garik/perezvony
 https://egaxegax.github.io/songs.html?rem/that_beat
 https://egaxegax.github.io/songs.html?clash/charlie_dont_surf
@@ -28122,7 +28120,6 @@ https://egaxegax.github.io/songs.html?marshal_aleksandr/uletaju_vnov
 https://egaxegax.github.io/songs.html?masskva/lovi
 https://egaxegax.github.io/songs.html?masskva/na_sedmom_etaje
 https://egaxegax.github.io/songs.html?masskva/nu_nakonec-to_akkordy_mp3
-https://egaxegax.github.io/songs.html?masskva/parij_akkordy_mp3
 https://egaxegax.github.io/songs.html?masskva/rasskaz
 https://egaxegax.github.io/songs.html?masskva/smsnaya_ljubov
 https://egaxegax.github.io/songs.html?masha_i_medvedi/bez_tebya
