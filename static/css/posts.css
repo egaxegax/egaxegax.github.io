@@ -1,13 +1,13 @@
 /* football */
 h3 a {text-decoration:none; outline:none;}
-img { max-width: 100%; }
-.che {background: #eee;}
+img { max-width:100%; }
+.che {background:#eee;}
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
-.g img {vertical-align: middle;} 
-.g td {width:60px; border:1px solid lightgray; white-space:nowrap;}
+.g img {vertical-align:middle; max-width:none;} 
+.g td {width:60px; border:1px solid lightgray; white-space:nowrap; padding:2px;}
 .g .col {width:240px; text-align:left; padding-left:10px;}
 .p {border-collapse:collapse; width:100%; display:block; overflow:auto;}
-.p img {vertical-align: middle;}
+.p img {vertical-align:middle; max-width:none;}
 .p .col {padding-left:5px; padding-right:5px; white-space:nowrap;}
 .p th {font-weight:normal; font-style:italic;}
 .bt {border-top:1px dotted #444;}
