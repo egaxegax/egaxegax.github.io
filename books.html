@@ -117,7 +117,9 @@
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
-        // paginate
+        // skip paginate
+      }else if(urlParams().ysclid){ // ?ysclid
+        // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // ?find
         books = books.filter(function(tit){ 
           return wrts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 

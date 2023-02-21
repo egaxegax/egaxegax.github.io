@@ -90,7 +90,7 @@ code { white-space: pre-wrap; }
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
       }else if(urlParams().ysclid){ // ?ysclid
-        // skip ya.search
+        // skip ya.ru search
       }else if(pp.length>1){ // ?subj/msg
         msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
         if(msgs.length) document.title = document.title.replace('/', ' от ' + buildDate(msgs[0][3]).split('&nbsp;')[0] + ' / ');
