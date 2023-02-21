@@ -166,7 +166,7 @@ img.av { width: 50px; height: auto; }
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
-      }else if(urlParams().ysclid){ // ?ysclid
+      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // ?find
         songs = songs.filter(function(tit){ 

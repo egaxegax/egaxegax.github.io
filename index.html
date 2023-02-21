@@ -89,7 +89,7 @@ code { white-space: pre-wrap; }
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
-      }else if(urlParams().ysclid){ // ?ysclid
+      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(pp.length>1){ // ?subj/msg
         msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
