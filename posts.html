@@ -63,13 +63,8 @@
 
   function addPost(r,p){
     var converter = new showdown.Converter(), // to markdown
-        text = r
-          .replace(/\/photos\//g, '/fotki/')
-          .replace(/\r\r\n/g, '\n')
-          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
-        html = converter.makeHtml(text) // fix img url to absolute
-          .replace(/src=".\//g, 'src="'+p.url+'/../')
-          .replace(/\$PURL/g, p.url+'/../');
+        html = converter.makeHtml(r) 
+          .replace(/src=".\//g, 'src="'+p.url+'/../'); // fix img url to absolute
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
