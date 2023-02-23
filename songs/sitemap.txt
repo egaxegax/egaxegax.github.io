@@ -738,8 +738,6 @@ https://egaxegax.github.io/songs.html?tochka_rosy
 https://egaxegax.github.io/songs.html?tochka_rosy/tango
 https://egaxegax.github.io/songs.html?perova_lena
 https://egaxegax.github.io/songs.html?perova_lena/poluchaj
-https://egaxegax.github.io/songs.html?avia
-https://egaxegax.github.io/songs.html?avia/ya_ne_ljublju_tebya
 https://egaxegax.github.io/songs.html?311/transistor
 https://egaxegax.github.io/songs.html?ariya
 https://egaxegax.github.io/songs.html?ariya/tvoj_den
@@ -5635,8 +5633,6 @@ https://egaxegax.github.io/songs.html?belov_jurij/savanna
 https://egaxegax.github.io/songs.html?licej/ljubi_i_ne_teryaj
 https://egaxegax.github.io/songs.html?raznye_ljudi/igra_pyatok_sigaret
 https://egaxegax.github.io/songs.html?dream_theater/lie
-https://egaxegax.github.io/songs.html?blokbaster
-https://egaxegax.github.io/songs.html?blokbaster/kurit
 https://egaxegax.github.io/songs.html?piknik/ihtiandr
 https://egaxegax.github.io/songs.html?alan_parsons_project/old_and_wise
 https://egaxegax.github.io/songs.html?pogranichnoe_sostoyanie
@@ -10293,8 +10289,6 @@ https://egaxegax.github.io/songs.html?tears_for_fears/goodnight_song
 https://egaxegax.github.io/songs.html?alternativnyj_mir/vse_takje_tiho_hleshchet_dojd_
 https://egaxegax.github.io/songs.html?petljura_viktor/mchitsya_kareta
 https://egaxegax.github.io/songs.html?elton_john/can_you_feel_the_love_tonight
-https://egaxegax.github.io/songs.html?mika_njuton
-https://egaxegax.github.io/songs.html?mika_njuton/v_plenu
 https://egaxegax.github.io/songs.html?sukachev_garik/perezvony
 https://egaxegax.github.io/songs.html?rem/that_beat
 https://egaxegax.github.io/songs.html?clash/charlie_dont_surf
@@ -13560,8 +13554,6 @@ https://egaxegax.github.io/songs.html?kirpichi/get_down
 https://egaxegax.github.io/songs.html?kukryniksy/teni_v_teatre
 https://egaxegax.github.io/songs.html?tochka_rosy/mesyac_maj
 https://egaxegax.github.io/songs.html?rasmus/no_fear
-https://egaxegax.github.io/songs.html?vadim_kurylev
-https://egaxegax.github.io/songs.html?vadim_kurylev/harakiri
 https://egaxegax.github.io/songs.html?dead_kennedys/ill_in_the_head
 https://egaxegax.github.io/songs.html?rozenbaum_aleksandr/ne_hochu_staret
 https://egaxegax.github.io/songs.html?kashin_pavel/dva_morya
@@ -21192,8 +21184,6 @@ https://egaxegax.github.io/songs.html?kirpichi/nebo
 https://egaxegax.github.io/songs.html?exploited/affected_by_them
 https://egaxegax.github.io/songs.html?belousov_jenya/sineglazaya
 https://egaxegax.github.io/songs.html?kipelov/prorok
-https://egaxegax.github.io/songs.html?bumboks
-https://egaxegax.github.io/songs.html?bumboks/vahteram
 https://egaxegax.github.io/songs.html?smyslovye_galljucinacii/medovary
 https://egaxegax.github.io/songs.html?nochnye_snajpery/gryaznye_tancy
 https://egaxegax.github.io/songs.html?chajf/davaj_vernemsya_pro_buhlo
@@ -25509,7 +25499,6 @@ https://egaxegax.github.io/songs.html?marshal_aleksandr/uletaju_vnov
 https://egaxegax.github.io/songs.html?masskva/lovi
 https://egaxegax.github.io/songs.html?masskva/na_sedmom_etaje
 https://egaxegax.github.io/songs.html?masskva/nu_nakonec-to_akkordy_mp3
-https://egaxegax.github.io/songs.html?masskva/parij_akkordy_mp3
 https://egaxegax.github.io/songs.html?masskva/rasskaz
 https://egaxegax.github.io/songs.html?masskva/smsnaya_ljubov
 https://egaxegax.github.io/songs.html?masha_i_medvedi/bez_tebya
@@ -25790,7 +25779,6 @@ https://egaxegax.github.io/songs.html?akvarium/burlak
 https://egaxegax.github.io/songs.html?akvarium/buster_v_nochi
 https://egaxegax.github.io/songs.html?akvarium/v_podobnuju_noch_2_variant
 https://egaxegax.github.io/songs.html?akvarium/vavilon
-https://egaxegax.github.io/songs.html?akvarium/vana_hoja
 https://egaxegax.github.io/songs.html?akvarium/vashi_palcy_pahnut_ladanom
 https://egaxegax.github.io/songs.html?akvarium/vbrod
 https://egaxegax.github.io/songs.html?akvarium/velikaya_jeleznodorojnaya_simfoniya
@@ -25847,8 +25835,8 @@ https://egaxegax.github.io/songs.html?akvarium/deti_dekabrya
 https://egaxegax.github.io/songs.html?nimerov_grigorij/teplyj_vecher_u_morya
 https://egaxegax.github.io/songs.html?nimerov_grigorij/pomechtaem
 https://egaxegax.github.io/songs.html?nimerov_grigorij/predatelstvo
-https://egaxegax.github.io/songs.html?nimerov_18+
-https://egaxegax.github.io/songs.html?nimerov_18+/pro_ljubov
-https://egaxegax.github.io/songs.html?nimerov_18+/jelanie
-https://egaxegax.github.io/songs.html?nimerov_18+/snimaju_napryajenie
-https://egaxegax.github.io/songs.html?nimerov_18+/podglyadel_za_sestroj
+https://egaxegax.github.io/songs.html?18+
+https://egaxegax.github.io/songs.html?18+/pro_ljubov
+https://egaxegax.github.io/songs.html?18+/jelanie
+https://egaxegax.github.io/songs.html?18+/snimaju_napryajenie
+https://egaxegax.github.io/songs.html?18+/podglyadel_za_sestroj
