@@ -55,7 +55,7 @@ img:hover { border:2px yellow solid }
   '<div id="mlist" class="main nowrap scroll"></div>'+
 '</div>'+
 '<p class="cfloat smaller gray hspace">'+
-  '<i>P.S.</i> Подборка различных фоток, снтых на телефон или взятых из свободных источников. &nbsp; '+
+  '<i>P.S.</i> Подборка различных фоток, снятых на телефон или взятых из свободных источников. &nbsp; '+
   '<a href="/fotki.html">Ещё фотки</a>'+
 '</p>';
 
@@ -123,6 +123,7 @@ img:hover { border:2px yellow solid }
           document.getElementById('mlist').appendChild(this);
         };
       }
+      document.getElementById('mlist').scrollIntoView();
     }
     document.getElementById('albumlist').onchange();
   });
