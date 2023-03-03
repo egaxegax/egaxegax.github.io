@@ -2,7 +2,7 @@
 // HTML5 SVG vector map and image viewer library with Proj4js transformations
 //
 // https://github.com/egaxegax/dbcartajs.git
-// egax@bk.ru, 2015. b230224.
+// egax@bk.ru, 2015. b230303.
 //
 function dbCartaSvg(cfg) {
   var SVG_NS = 'http://www.w3.org/2000/svg',
@@ -107,7 +107,8 @@ function dbCartaSvg(cfg) {
       rotate: 0,
       scale: 1,
       offset: [0, 0],
-      touches: []
+      touches: [],
+      dtouch: 0
     },
     //
     // Proj4 defs
@@ -644,7 +645,7 @@ function dbCartaSvg(cfg) {
       }
       delete self.m.mpts;
       delete self.m.mcenterof;
-    },
+    }
   });
   // - root events -----------------------------
   self.extend(self.root, {
@@ -669,8 +670,14 @@ function dbCartaSvg(cfg) {
       if (self.m.touches.length == 1) {
         self.mousemove(touches[touches.length - 1]);
       } else if (self.m.touches.length == 2) {
-        var a = self.canvasXY(touches[0]),
-            b = self.canvasXY(touches[touches.length - 1]);
+        for (var i=0; i<touches.length; i++) {
+          for (var j=0; j<self.m.touches.length; j++) {
+            if (self.m.touches[j].identifier == touches[i].identifier)
+              self.m.touches[j] = touches[i];
+          }
+        }
+        var a = self.canvasXY(self.m.touches[0]),
+            b = self.canvasXY(self.m.touches[1]);
         var d = Math.sqrt( Math.pow(a[0] - b[0], 2) + Math.pow(a[1] - b[1], 2) );
         if (d && self.m.dtouch) {
           self.root.mousewheel(ev, d - self.m.dtouch);
@@ -679,7 +686,6 @@ function dbCartaSvg(cfg) {
       }
     },
     touchstart: function(ev) {
-      self.m.dotouch = true;
       var touches = ev.changedTouches;
       for (var i=0; i<touches.length; i++)
         self.m.touches.push(touches[i]);
@@ -694,19 +700,20 @@ function dbCartaSvg(cfg) {
             self.m.touches.splice(j, 1);
         }
       }
-      if (self.m.touches.length)
+      if (self.m.touches.length) {
         self.m.touches = [];
-      else
+        self.m.dtouch = 0;
+      } else
         self.mouseup(touches[touches.length - 1]);
     },
     onmousemove: function(ev) {
-      if (!self.m.dotouch) self.mousemove(ev);
+      self.mousemove(ev);
     },
     onmousedown: function(ev) {
-      if (!self.m.dotouch) self.mousedown(ev);
+      self.mousedown(ev);
     },
     onmouseup: function(ev) {
-      if (!self.m.dotouch) self.mouseup(ev);
+      self.mouseup(ev);
     }
   });
   self.root.addEventListener('wheel', self.root.mousewheel, false);
