@@ -1,7 +1,8 @@
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?mesta_podmoskovya
+https://egaxegax.github.io/posts.html?mesta_podmoskovya/vereya
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/opisanie
-https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/shchelkovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/vatutinki
 https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii
