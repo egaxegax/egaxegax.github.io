@@ -74,13 +74,13 @@ for root, dirs, files in os.walk(path, topdown=False):
     else:
       continue
 
-    lntit = '[' + title + '](' + SP(title) + '.md)'
+    lntit = '[' + title + '](./' + SP(title) + '.md)'
     if fname == 'about': # +about text
       text = re.sub('(^<\!--.*-->)\s*', '', text)
       ititles = [text + '\n'] + ititles
     else:
       if os.path.isfile(os.path.join(root, title + '.jpg')): # exists book image
-        ititles.append('![](' + SP(title) + '.jpg' + ')  \n' + lntit + '\n')
+        ititles.append('![](./' + SP(title) + '.jpg' + ')  \n' + lntit + '\n')
       else:
         ititles.append('* ' + lntit)
 
@@ -89,7 +89,7 @@ for root, dirs, files in os.walk(path, topdown=False):
   if ititles: # titles list
     text = ''
     if os.path.isfile(os.path.join(root, TR(subj) + '.jpg')):
-      text = '![](' + TR(subj) + '.jpg' + ')\n\n'
+      text = '![](./' + TR(subj) + '.jpg' + ')\n\n'
     text += '\n'.join(ititles)
     open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(text)
 

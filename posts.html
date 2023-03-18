@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<!--
+View posts, marks and texts.
+egax@bk.ru, 2020.
+-->
 <html lang="ru">
 <head>
 <meta charset="utf-8">
@@ -64,13 +68,14 @@
   function addPost(r,p){
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
-          .replace(/src=".\//g, 'src="'+p.url+'/../'); // fix img url to absolute
+          .replace(/src="\.\//g, 'src="'+p.url+'/../')  // fix img url to absolute
+          .replace(/href="\.\//g, 'href="'+window.location+'/'); // fix link url to absolute
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     html+
   '</div>'+
-    (p.title[2] !== 'about' ? 
+    (p.title[2] !== 'README' ? 
   '<div class="msgfooter gray">'+
     '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'"> # </a>'+
@@ -106,15 +111,15 @@
         page_header =
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray">('+posts.length+')</i></p>';
       }else if(pp.length>1){ // ?subj/title
-        posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
+        posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
         if(posts.length){
           document.title = posts[0][2]  + ' - ' + document.title;      
         }
       }else if(pp.length>0){ // ?subj
         posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0]) == pp[0]); }); // filter by subj
-        posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+//        posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         if(posts.length){
-          posts = [[posts[0][0],posts[0][1],'about',0,posts[0][4]]].concat(posts); // +about page
+          posts = [[posts[0][0],posts[0][1],'README',0,posts[0][4]]].concat(posts); // +about page
           document.title = subjects[ posts[0][0] ][0] + ' - ' + document.title;
         }
       }

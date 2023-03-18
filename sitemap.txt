@@ -2520,7 +2520,7 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/cut_razbienie_stro
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/antibiotik_glavar_bandy_iz_seriala_banditskij_peterburg
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/sinhronizaciya_kataloga_po_ftp
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/gendalf_mag_iz_vlastelina_kolec
-https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/kurilshchik_iz_seriala_x-files
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/kurilshchik_iz_seriala_sekretnye_materialy
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/lev_yashin_sovetskij_futbolnyj_vratar
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare/transponirovanie_akkordov
@@ -2535,7 +2535,7 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/konfig_nastrojki_s
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/garri_kasparov_shahmatist
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/kodiruem_video_iz_mov_v_avi_format
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
-https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/djulian_assanj_avstralijskij_jurnalist_i_osnovatel_sajta_wikileaks
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/djulian_assanj_osnovatel_sajta_wikileaks
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/paulo_koelo_brazilskij_pisatel
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/uilyam_somerset_moem_britanskij_pisatel
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/sharl_moris_de_talejran-perigor_ministr_inostrannyh_del_vremen_napoleona
@@ -2588,7 +2588,7 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/autoconf_sborka_32
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/jurij_lujkov_mer_g_moskvy
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/djon_silver_pirat_iz_romana_ostrov_sokrovishch
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/python_konvertiruem_kartinku_v_base64_stroku
-https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/brjus_li_master_boevyh_isskustv_akter
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/brjus_li_master_boevyh_iskusstv_akter
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/larri_uoll_amerikanskij_programmist
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/napoleon_francuzskij_imperator
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/postgresql_replikaciya_klastera
