@@ -1,7 +1,7 @@
 <!--2020-09-06 04:10:18-->
   
-Standard Tuning  
-***Am7   C   G*** } x4  
+Standard Tuning  
+  ***Am7   C   G*** } x4  
   
 ***Am7      C       G***  
 I used to be the man for you,  
@@ -21,7 +21,7 @@ Now, I've cried me a river,
 ***F               G***  
 Thinking how it used to be...  
   
-    ***C        F         C***  
+    ***C        F         C***  
 There've been too many tears falling,  
        ***C        F***  
 And there've been too many hearts  
