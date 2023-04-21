@@ -2631,6 +2631,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?metallica
+https://egaxegax.github.io/songs.html?metallica/whiskey_in_the_jar
 https://egaxegax.github.io/songs.html?bon_jovi
 https://egaxegax.github.io/songs.html?bon_jovi/these_days
 https://egaxegax.github.io/songs.html?nickelback
@@ -3044,7 +3046,6 @@ https://egaxegax.github.io/songs.html?chernyj_obelisk/chernyj_obelisk
 https://egaxegax.github.io/songs.html?kino
 https://egaxegax.github.io/songs.html?kino/peremen
 https://egaxegax.github.io/songs.html?zimove_zverej/melodiya_neponimaniya
-https://egaxegax.github.io/songs.html?metallica
 https://egaxegax.github.io/songs.html?metallica/my_world
 https://egaxegax.github.io/songs.html?nastya/desyat_strel
 https://egaxegax.github.io/songs.html?kukryniksy
@@ -15809,7 +15810,7 @@ https://egaxegax.github.io/songs.html?ahra
 https://egaxegax.github.io/songs.html?ahra/karie_glaza
 https://egaxegax.github.io/songs.html?nikitin_sergej/kogda_my_byli_molodye
 https://egaxegax.github.io/songs.html?total/bet_po_glazam
-https://egaxegax.github.io/songs.html?metallica/whiskey_in_the_jar
+https://egaxegax.github.io/songs.html?metallica/whiskey_in_the_jar_2
 https://egaxegax.github.io/songs.html?eric_clapton/nobody_knows_you_when_youre_down_and_out
 https://egaxegax.github.io/songs.html?nautilus_pompilius/pingvinya_revnost
 https://egaxegax.github.io/songs.html?adaptaciya/vsem_vam_schastya
