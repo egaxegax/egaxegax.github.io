@@ -61,13 +61,16 @@ for root, dirs, files in os.walk(path, topdown=False):
       if fname != 'about': # skip about
         ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
     elif cwd in ('foto',) and ext.lower() in ('.jpg',):
-      from PIL import Image
       ftime = os.path.getmtime(os.path.join(root, name))
-      im = Image.open(os.path.join(root, name))
-      im.thumbnail((100,100))
-      if not os.path.exists(os.path.join(root, 'th')):
-        os.mkdir(os.path.join(root, 'th'))
-      im.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
+      if subj == 'th': 
+        pass  # skip preview
+      else:
+        if not os.path.exists(os.path.join(root, 'th')):
+          os.mkdir(os.path.join(root, 'th'))
+          from PIL import Image
+          im = Image.open(os.path.join(root, name))
+          im.thumbnail((100,100))
+          im.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
     elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
       ftime = os.path.getmtime(os.path.join(root, name))
       if fname != 'about': # skip about

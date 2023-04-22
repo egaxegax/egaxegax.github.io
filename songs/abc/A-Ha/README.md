@@ -1,6 +1,6 @@
 ![](a-ha.jpg)
 
-Норвежская группа из Осло, играющая в стиле электро-поп.
+Норвежская группа из *Осло*, играющая в стиле электро-поп.
 
 * [(Seemingly) Nonstop July]((Seemingly)%20Nonstop%20July.md)
 * [A Little Bit](A%20Little%20Bit.md)
