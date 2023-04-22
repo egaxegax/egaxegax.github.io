@@ -67,7 +67,7 @@ for root, dirs, files in os.walk(path, topdown=False):
       im.thumbnail((100,100))
       if not os.path.exists(os.path.join(root, 'th')):
         os.mkdir(os.path.join(root, 'th'))
-      im.save(os.path.join(root, 'th', fname+'.jpeg') , "JPEG")
+      im.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
     elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
       ftime = os.path.getmtime(os.path.join(root, name))
       if fname != 'about': # skip about
@@ -117,7 +117,7 @@ for i, f in enumerate(mfiles):
     if sdir != 'foto':
       murls += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
   mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
-  murls += [surl +'/'+ sdir +('.html?'+ TR(f[1]+'/'+f[2]), '/'+ f[1] +'/'+ f[2]+ '.JPG')[sdir == 'foto']]
+  murls += [surl +'/'+ sdir +('.html?'+ TR(f[1]+'/'+f[2]), '/'+ f[1] +'/'+ f[2]+ '.jpg')[sdir == 'foto']]
   print( i )
 
 def compact(s):

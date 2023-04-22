@@ -70,11 +70,13 @@ for root, dirs, files in os.walk(path, topdown=False):
     elif cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
       if fname == 'about':
         text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
-        about = text       # save about text
+        about = text.strip() + '\n\n'      # save about text
+    elif cwd in ('foto'):
+      pass
     else:
       continue
 
-    lntit = '[' + title + '](' + SP(title) + '.md)'
+    lntit = '[' + title + '](' + SP(title) + ext + ')'
     if fname == 'about': # +about text
       text = re.sub('(^<\!--.*-->)\s*', '', text)
       ititles = [text + '\n'] + ititles
@@ -95,12 +97,10 @@ for root, dirs, files in os.walk(path, topdown=False):
 
   if dirs: # subdirs list
     isubj = []
-    if about: # +about text
-      isubj = [about + '\n'] + isubj
     dirs.sort()
     for name in dirs:
       if name not in ('.git', 'th', '_layouts'): # skip dir
         isubj.append( '* [' + name + '](' + SP(name) + ')' )
     text = '\n'.join(isubj)
     if text:
-      open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(text)
+      open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(about + text)
