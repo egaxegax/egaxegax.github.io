@@ -63,7 +63,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     elif cwd in ('foto',) and ext.lower() in ('.jpg',):
       ftime = os.path.getmtime(os.path.join(root, name))
       if subj == 'th': 
-        pass  # skip preview
+        continue  # skip preview
       else:
         if not os.path.exists(os.path.join(root, 'th')):
           os.mkdir(os.path.join(root, 'th'))

@@ -2356,9 +2356,6 @@ https://egaxegax.github.io/books.html?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books.html?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books.html?artur_konan_dojl/belyj_otryad
 https://egaxegax.github.io/foto.html
-https://egaxegax.github.io/foto/th/Кировоградские пруды.jpg
-https://egaxegax.github.io/foto/th/Королев. Церк.Ржд.Пр.Богородицы.jpg
-https://egaxegax.github.io/foto/th/Сочные яблочки. Сентябрь 2014г.jpg
 https://egaxegax.github.io/foto/Церкви/Вологда. Софийский собор.jpg
 https://egaxegax.github.io/foto/Церкви/Тобольск. Абалакский монастырь.jpg
 https://egaxegax.github.io/foto/Церкви/Королев. Церк.Ржд.Пр.Богородицы.jpg
