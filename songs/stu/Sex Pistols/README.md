@@ -1,3 +1,7 @@
+Британская панк-рок-группа, образованная в *1975* году в Лондоне.
+Распалась в *1978* году.
+
+
 * [Anarchy In The UK](Anarchy%20In%20The%20UK.md)
 * [Anarchy in the U.K.](Anarchy%20in%20the%20U.K..md)
 * [Belsen Was A Gas](Belsen%20Was%20A%20Gas.md)

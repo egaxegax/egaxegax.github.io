@@ -1,6 +1,6 @@
 ![](sepultura.jpg)
 
-Бразильская метал-группа. Образовалась в 1984 году.
+Бразильская метал-группа. Образовалась в *1984* году.
 
 * [Beneath The Remains](Beneath%20The%20Remains.md)
 * [Clenched Fist](Clenched%20Fist.md)
