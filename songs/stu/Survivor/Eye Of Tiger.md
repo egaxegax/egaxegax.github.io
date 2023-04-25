@@ -15,7 +15,7 @@ And the last known survivor
 Stalks his prey in the night  
 And he's watching us all  
 With the eye of the tiger  
-[Verse 2]  
+  
 Face to face, out in the heat  
 Hanging tough, staying hungry  
 They stack the odds 'til we take to the street  
