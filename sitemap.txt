@@ -2632,10 +2632,10 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
-https://egaxegax.github.io/songs.html?metallica
-https://egaxegax.github.io/songs.html?metallica/whiskey_in_the_jar
 https://egaxegax.github.io/songs.html?survivor
 https://egaxegax.github.io/songs.html?survivor/eye_of_tiger
+https://egaxegax.github.io/songs.html?metallica
+https://egaxegax.github.io/songs.html?metallica/whiskey_in_the_jar
 https://egaxegax.github.io/songs.html?bon_jovi
 https://egaxegax.github.io/songs.html?bon_jovi/these_days
 https://egaxegax.github.io/songs.html?nickelback
