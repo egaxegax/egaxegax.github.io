@@ -40,6 +40,7 @@
 * [T.N.T](T.N.T.md)
 * [The Jack](The%20Jack.md)
 * [This Mean War](This%20Mean%20War.md)
+* [Through the Mists of Time](Through%20the%20Mists%20of%20Time.txt)
 * [Thunderstruck](Thunderstruck.md)
 * [Whole Lotta Rosie](Whole%20Lotta%20Rosie.md)
 * [You Shook Me All Night Long](You%20Shook%20Me%20All%20Night%20Long.md)
