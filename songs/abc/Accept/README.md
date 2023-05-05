@@ -11,6 +11,7 @@
 * [Dead On](Dead%20On.md)
 * [Dogs On Leads](Dogs%20On%20Leads.md)
 * [Fast as a Shark](Fast%20as%20a%20Shark.md)
+* [Koolaid](Koolaid.md)
 * [Love Child](Love%20Child.md)
 * [Man enough to Cry](Man%20enough%20to%20Cry.md)
 * [Metal Heart](Metal%20Heart.md)

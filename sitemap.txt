@@ -2632,6 +2632,10 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?accept
+https://egaxegax.github.io/songs.html?accept/koolaid
+https://egaxegax.github.io/songs.html?ac-dc
+https://egaxegax.github.io/songs.html?ac-dc/through_the_mists_of_time
 https://egaxegax.github.io/songs.html?survivor
 https://egaxegax.github.io/songs.html?survivor/burning_heart
 https://egaxegax.github.io/songs.html?survivor/eye_of_tiger
@@ -2809,7 +2813,6 @@ https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov
 https://egaxegax.github.io/songs.html?pesni_iz_filmov_multfilmov/12_stulev_shirli
 https://egaxegax.github.io/songs.html?offspring
 https://egaxegax.github.io/songs.html?offspring/kick_him_when_hes_down
-https://egaxegax.github.io/songs.html?ac-dc
 https://egaxegax.github.io/songs.html?ac-dc/have_a_drink_on_me
 https://egaxegax.github.io/songs.html?pesni_iz_tv_reklamy
 https://egaxegax.github.io/songs.html?pesni_iz_tv_reklamy/kruto_ty_popal_na_tv_fabrika_zvezd
@@ -3279,7 +3282,6 @@ https://egaxegax.github.io/songs.html?electric_light_orchestra/shangri-la
 https://egaxegax.github.io/songs.html?naiv/pesnya_pro_ljubov
 https://egaxegax.github.io/songs.html?devyatyj_rajon/polkovnik_dubovik
 https://egaxegax.github.io/songs.html?rem/organ_song
-https://egaxegax.github.io/songs.html?accept
 https://egaxegax.github.io/songs.html?accept/aiming_high
 https://egaxegax.github.io/songs.html?kuzmin_vladimir/aktrisa
 https://egaxegax.github.io/songs.html?ilin_sobaki_kachalova
