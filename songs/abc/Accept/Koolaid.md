@@ -1,5 +1,5 @@
 <!--2023-05-05 23:56:09-->
-Chords: ***B maj | E maj | F# maj | G maj***  
+Chords: ***B | E | F# | Gmaj***  
   
 Running through the jungle  
 Way back in '78  
