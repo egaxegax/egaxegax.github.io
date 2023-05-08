@@ -1,8 +1,8 @@
 /* classes */
 .wrap { background-color:#404040; border:1px solid #333; }
-.pink { color:#fff; }
+.pink { color:#eee; }
 /* body */
-body { background-color:#262626; color:#fff; }
+body { background-color:#262626; color:#eee; }
 a, a:active, a:focus { color:#ffbc00; }
 b,i,em { color: #999; }
 h3 { color:#787878; }
