@@ -1,12 +1,12 @@
 /* classes */
-.wrap { background-color:#404040; border:0; }
+.wrap { background-color:#404040; border:1px solid #333; }
 .pink { color:#fff; }
 /* body */
 body { background-color:#262626; color:#fff; }
 a, a:active, a:focus { color:#ffbc00; }
 b,i,em { color: #999; }
 h3 { color:#787878; }
-div.about { background-color:#333; border:1px solid #969696; }
+div.about { background-color:#333; border:1px solid #404040; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#404040; color:#fff; }
-#header { background-color:#333; }
+#header { background-color:#333; border:1px solid #404040; border-top:0; }
