@@ -11,6 +11,7 @@
 <title>Список авторов / Сайт Григория Еремина</title>
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
+<link rel="stylesheet" href="/static/css/songs.css">
 <link rel="canonical" href="sarts.html">
 <style>
 img.av { width: 50px; height: auto; }
@@ -19,7 +20,7 @@ img.av { width: 50px; height: auto; }
 <script src="/static/js/template.js"></script>
 </head>
 <body>
-<div id="header" class="main bg nowrap scroll">
+<div id="header" class="main nowrap scroll">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
@@ -40,7 +41,7 @@ img.av { width: 50px; height: auto; }
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Список авторов в алфавитном порядке</p>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1" src="/static/img/loader.gif">';
+'<img class="hspace1 rounded" src="/static/img/loader.gif">';
 
   function addArt(art,i){
     var roots = ROOTS;
