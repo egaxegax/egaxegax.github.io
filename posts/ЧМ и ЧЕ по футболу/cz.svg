@@ -4,5 +4,5 @@
   <path fill="#d7141a" d="M0 240h640v240H0z"/>
   <path fill="#11457e" d="M360 240 0 0V480z"/>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Чехия</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Чехия</text>
 </svg>

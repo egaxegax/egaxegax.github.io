@@ -23,5 +23,5 @@
     <path d="M25.7 333.7l83 97.3-20 17-83-97.3zM-30 381.2l83 97.3-20 17-83-97.3z"/>
   </g>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Юж.Корея</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Юж.Корея</text>
 </svg>

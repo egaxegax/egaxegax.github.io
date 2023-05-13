@@ -24,7 +24,7 @@ function addPaginator(list, per_page, page_num){
   '<a class="nodecor" href="?'+urlBuild({page: previous_page_number})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
 : 
 (has_next ? 
-  '<span class="lightgray"><span class="bigger2">&larr;&emsp;</span> </span>'
+  '<span class="gray"><span class="bigger2">&larr;&emsp;</span> </span>'
 : 
   ''))+
 (num_pages > 1 ?
@@ -35,7 +35,7 @@ function addPaginator(list, per_page, page_num){
   '<a class="nodecor" href="?'+urlBuild({page: next_page_number})+'"> <span class="bigger2">&emsp;&rarr;</span></a>'
 :
 (has_previous ?
-  '<span class="lightgray"> <span class="bigger2">&emsp;&rarr;</span></span>'
+  '<span class="gray"> <span class="bigger2">&emsp;&rarr;</span></span>'
 :
   ''))+
 '</p>';

@@ -12,5 +12,5 @@
     <path fill="#d52b1e" d="M0 256h768v256H0z"/>
   </g>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Чили</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Чили</text>
 </svg>

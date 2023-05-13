@@ -37,5 +37,5 @@
     </g>
   </g>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Египет</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Египет</text>
 </svg>

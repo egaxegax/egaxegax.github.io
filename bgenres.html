@@ -43,7 +43,7 @@ img.av { width: 100%; height: auto; }
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Список жанров книг в алфавитном порядке</p>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1" src="/static/img/loader.gif">';
+'<img class="hspace1 rounded" src="/static/img/loader.gif">';
 
   function addGenre(gnr,i){
     var tmpl = 
@@ -52,7 +52,7 @@ img.av { width: 100%; height: auto; }
       '<div class="gray smaller"><i>'+gnr[0]+'</i></div>'+
     '</td>'+
     '<td valign="center"><b><i>'+gnr[1]+'</i></b></td>'+
-    '<td valign="center" align="right" class="lightgray smaller"><i class="smaller">'+i+'</i></td>'+
+    '<td valign="center" align="right" class="light smaller"><i class="counter">'+i+'</i></td>'+
   '</tr></table>';
     return tmpl;
   }

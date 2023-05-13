@@ -55,7 +55,7 @@ egax@bk.ru, 2020.
   document.getElementById('page_header').innerHTML = 
 '<p class="mtext hspace">Заметки, статьи, цитаты на разные &emsp; <a href="/psubj.html">Темы</a></p>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1" src="/static/img/loader.gif">';
+'<img class="hspace1 rounded" src="/static/img/loader.gif">';
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -142,7 +142,7 @@ egax@bk.ru, 2020.
           title = page_titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+i+'">'+
-      (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
+      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
     '</div>';
       upfunc({id: 'post'+i, if: i==0, subj: subj, title: page_titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
@@ -150,6 +150,7 @@ egax@bk.ru, 2020.
         if(st == 200) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
           wrap.className = 'wrap';
+          (p.title[2] == 'README') ? wrap.className += ' about' : '';
           addPost(r,p);
         }
       });

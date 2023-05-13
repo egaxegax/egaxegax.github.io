@@ -381,5 +381,5 @@
   <path fill="#8f4620" d="M295 195.3l-.7.1c-.2 0 .2-.2.2-.2l.4.1z"/>
   <path fill="#977c2e" d="M301 239.1s.3 0 .5-.3-.1.4-.1.4l-.3.1-.2-.2z"/>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Мексика</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Мексика</text>
 </svg>

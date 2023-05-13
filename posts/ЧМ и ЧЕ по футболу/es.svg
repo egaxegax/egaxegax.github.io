@@ -543,5 +543,5 @@
   <path fill="none" stroke="#000" stroke-width=".2" d="M272.6 216.6v-.2"/>
   <path fill="none" stroke="#000" stroke-width="0" d="M279.1 217v-1m-.6 1v-1m-.4 1.1V216"/>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Испания</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Испания</text>
 </svg>

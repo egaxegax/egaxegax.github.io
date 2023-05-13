@@ -13,5 +13,5 @@
     <path fill="#118600" d="M0 409.2h767.6V512H0z"/>
   </g>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Того</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Того</text>
 </svg>

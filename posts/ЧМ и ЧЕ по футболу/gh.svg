@@ -5,5 +5,5 @@
   <path fill="#ce1126" d="M0 0h640v160H0z"/>
   <path d="M320 160l52 160-136.1-98.9H404L268 320z"/>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Гана</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Гана</text>
 </svg>

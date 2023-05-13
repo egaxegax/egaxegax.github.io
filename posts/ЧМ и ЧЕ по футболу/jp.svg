@@ -10,5 +10,5 @@
     <circle cx="523.1" cy="344.1" r="194.9" fill="#d30000" transform="translate(-168.4 8.6) scale(.76554)"/>
   </g>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Япония</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Япония</text>
 </svg>

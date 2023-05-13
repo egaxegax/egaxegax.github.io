@@ -40,7 +40,7 @@ img.av { width: 100%; height: auto; }
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Список авторов в алфавитном порядке</p>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1" src="/static/img/loader.gif">';
+'<img class="hspace1 rounded" src="/static/img/loader.gif">';
 
   function addWrt(wrt,i){
     var tmpl = 
@@ -48,7 +48,7 @@ img.av { width: 100%; height: auto; }
     '<td width="5%" id="im'+i+'"></td>'+
     '<td width="70%" class="hspaced"><a class="nodecor" href="/books.html?'+tr(wrt[0])+'">'+wrt[0]+'</a></td>'+
     '<td valign="center"><b><i>'+wrt[1]+'</i></b></td>'+
-    '<td valign="center" align="right" class="lightgray smaller"><i class="smaller">'+i+'</i></td>'+
+    '<td valign="center" align="right" class="light smaller"><i class="counter">'+i+'</i></td>'+
   '</tr></table>';
     var img = new Image();
     img.className = "rounded av";

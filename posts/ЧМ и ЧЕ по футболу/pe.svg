@@ -243,5 +243,5 @@
     <path fill="#d91023" d="M291 428.8c.1 3.4-.5 4.5-.1 6.5 1 .3 5 .2 6.3.5-.2-4.3-.2-.5-.6-6.2l1.2-7.3-3.6.3s-2.2-.7-3.7-.7c1.3 2.3.5 7 .5 7z" transform="matrix(.59548 0 0 .58466 140.8 64.7)"/>
   </g>
   </g>
-  <text x="28" y="15" font-size="18px" font-family="arial">Перу</text>
+  <text x="28" y="15" font-size="18px" font-family="arial" fill="#eee">Перу</text>
 </svg>

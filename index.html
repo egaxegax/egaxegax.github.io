@@ -57,7 +57,7 @@ code { white-space: pre-wrap; }
   '</td>'+
 '</tr></table>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1" src="/static/img/loader.gif">';
+'<img class="hspace1 rounded" src="/static/img/loader.gif">';
 
   function addMsg(r, p){
     var converter = new showdown.Converter(),
@@ -125,7 +125,7 @@ code { white-space: pre-wrap; }
           title = page_titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="msg'+i+'">'+
-      (i==0 ? '<img class="hspace1" src="/static/img/loader.gif">' : '')+
+      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
     '</div>';
       upfunc({id: 'msg'+ i, if: i==0, subj: subj, title: page_titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
         var wrap = document.getElementById(p.id);

@@ -1,15 +1,29 @@
+/* classes */
+.wrap { background-color:#404040; border:1px solid #333; }
+.dark { color:#eee; }
+/* body */
+body, text { background-color:#262626; color:#eee; }
+svg text {  }
+a, a:active, a:focus { color:#ffbc00; }
+b,i,em { color:#999; }
+b em { color:#ffbc00; }
+h3 { color:#fff; }
+div.about, pre { background-color:#333; border:1px solid #404040; }
+input[type=text], input[type=password], input[type=number], textarea, select { 
+  background-color:#404040; color:#fff; }
+#header { background-color:#333; border:1px solid #404040; border-top:0; }
 /* football */
 h3 a {text-decoration:none; outline:none;}
 img { max-width:100%; }
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
-.g td {width:60px; border:1px solid lightgray; white-space:nowrap; padding:2px;}
+.g td {width:60px; background-color:#333; border:2px solid #404040; white-space:nowrap; padding:2px;}
 .g .col {width:240px; text-align:left; padding-left:10px;}
 .p {border-collapse:collapse; width:100%; display:block; overflow:auto;}
 .p img {vertical-align:middle; max-width:none;}
 .p .col {padding-left:5px; padding-right:5px; white-space:nowrap;}
-.p th {font-weight:normal; font-style:italic;}
-.bt {border-top:1px dotted #444;}
-.br {border-right:1px dotted #444;}
-.bb {border-bottom:1px dotted #444;}
+.p th {font-weight:normal; font-style:italic; color:#aaa;}
+.bt {border-top:1px dotted #eee;}
+.br {border-right:1px dotted #eee;}
+.bb {border-bottom:1px dotted #eee;}
 .mb {padding-bottom:10px;}
