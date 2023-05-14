@@ -1,6 +1,7 @@
 /* dark theme */
 .wrap { background-color:#404040; border:1px solid #333; }
 .dark { color:#eee; }
+.counter { color:#59a750; }
 body, text { background-color:#262626; color:#eee; }
 a, a:active, a:focus { color:#ffbc00; }
 b,i,em { color:#aaa; }

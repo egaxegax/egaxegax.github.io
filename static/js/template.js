@@ -46,7 +46,7 @@ function addPaginator(list, per_page, page_num){
 //
 function addImgConfuse(){
   return '<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
-'<g fill="none" stroke-linecap="round" stroke-width="4px" stroke="#000000">'+
+'<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#aaa">'+
 '<path d="M110 58 Q134 48 144 56" />'+
 '<path d="M36 56 Q40 44 69 53" />'+
 '<circle cx="56" cy="76" r="3" />'+

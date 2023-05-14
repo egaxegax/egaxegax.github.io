@@ -179,7 +179,7 @@ img.av { width:50px; height:auto; }
         if(songs.length){ 
           page_view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray">('+songs.length+')</i></p>';
+        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+songs.length+')</i></p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         per_page = 100;
@@ -207,7 +207,7 @@ img.av { width:50px; height:auto; }
         '<p>'+
           '<h2 class="nomarg nopad hspace">'+
             '<a class="nodecor" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> &emsp; '+
-            '<span class="gray smaller"><i class="smaller"> ('+ songs.length+') </i></span>'+
+            '<span class="gray smaller"><i class="smaller counter"> ('+ songs.length+') </i></span>'+
           '</h2> '+
         '</p>';
           document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
