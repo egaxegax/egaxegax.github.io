@@ -3,15 +3,15 @@
 .dark { color:#eee; }
 /* body */
 body, text { background-color:#262626; color:#eee; }
-svg text {  }
 a, a:active, a:focus { color:#ffbc00; }
 b,i,em { color:#aaa; }
 b em, strong em { color:#ffbc00; }
 h3 { color:#fff; }
 div.about { background-color:#333; border:1px solid #404040; }
-pre { background-color:#fff; color:#404040; border-radius:4px; }
+pre { background-color:#fff; color:#222; border-radius:4px; font-size: smaller; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#404040; color:#fff; }
+.msgtext img { background-color:#fff; }
 #header { background-color:#333; border:1px solid #404040; border-top:0; }
 /* football */
 h3 a {text-decoration:none; outline:none;}
