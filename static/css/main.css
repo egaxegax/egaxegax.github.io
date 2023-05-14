@@ -37,6 +37,7 @@
 #livecounter { text-align: right; }
 #yacounter { text-align: left; }
 #credits { text-align: center; }
+#credits span { font-size: smaller; }
 /* body */
 body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; background-color:#fff; color:#222; }
 a, a:active, a:focus { color:#5645ad; outline:none; }

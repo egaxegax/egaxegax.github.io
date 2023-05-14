@@ -5,7 +5,7 @@
 /* body */
 body { background-color:#262626; color:#eee; }
 a, a:active, a:focus { color:#ffbc00; }
-b,i,em { color: #999; }
+b,i,em { color: #aaa; }
 b em { color: #ffbc00; }
 h3 { color:#fff; }
 div.about { background-color:#333; border:1px solid #404040; }
