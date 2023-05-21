@@ -74,13 +74,17 @@ egax@bk.ru, 2020.
     }
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
+  '<div class="msgheader">'+
+    '<h3 class="nopad nomarg">'+
+      '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'">'+p.title[2]+'</a>'+
+    '</h3>'+
+  '</div>'+
   '<div class="msgtext">'+
     html+
   '</div>'+
     (p.title[2] !== 'README' ? 
   '<div class="msgfooter gray">'+
-    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
-    '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'"> # </a>'+
+    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a> &emsp; '+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
     : '');

@@ -1,13 +1,16 @@
 /* dark theme */
-.wrap { background-color:#404040; border:1px solid #333; }
+.wrap { background-color:#404040; border-radius:10px; border:0; }
 .dark { color:#eee; }
 .counter { color:#59a750; }
 body, text { background-color:#262626; color:#eee; }
 a, a:active, a:focus { color:#ffbc00; }
 b,i,em,h4,h5 { color:#aaa; }
 b em, strong em { color:#ffbc00; }
-h3 { color:#fff; }
-div.about { background-color:#333; border:1px solid #404040; }
+h3 { color:#aaa; }
+div.about { background-color:#333; }
+div.msgheader { background-color:#333; border-radius:10px 10px 0 0; }
+div.msgtext { border-top: 1px solid #262626; border-bottom: 1px solid #262626; }
+div.msgfooter { background-color:#333; border-radius:0 0 10px 10px; }
 pre { background-color:#fff; color:#222; border-radius:4px; font-size: smaller; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#404040; color:#fff; }
