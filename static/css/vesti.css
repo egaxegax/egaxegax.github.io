@@ -1,0 +1,14 @@
+/* dark theme */
+.wrap { background-color:#404040; border:1px solid #333; }
+.dark { color:#eee; }
+.counter { color:#59a750; }
+body { background-color:#262626; color:#eee; }
+a, a:active, a:focus { color:#ffbc00; }
+b,i,em { color: #aaa; }
+b em { color: #ffbc00; }
+h3 { color:#fff; }
+div.about { background-color:#333; border:1px solid #404040; }
+pre { background-color:#fff; color:#222; border-radius:4px; font-size: smaller; }
+input[type=text], input[type=password], input[type=number], textarea, select { 
+  background-color:#404040; color:#fff; }
+#header { background-color:#333; border:1px solid #404040; border-top:0; }
