@@ -8,9 +8,10 @@ b,i,em,h4,h5 { color:#aaa; }
 b em, strong em { color:#ffbc00; }
 h3 { color:#eee; }
 div.about { background-color:#333; border:1px solid #404040; }
-pre { background-color:#fff; color:#222; border-radius:2px; font-size:smaller; }
+pre { background-color:#eee; color:#222; border-radius:2px; font-size:smaller; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#404040; color:#fff; }
+li::marker { color:green; }
 #header { background-color:transparent; border:0px solid #404040; border-top:0; }
 /* football */
 h3 a {text-decoration:none; outline:none;}
