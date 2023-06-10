@@ -68,7 +68,7 @@ code { white-space: pre-wrap; }
           .replace(/\r\r\n/g, '\n')
           .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
         html = converter.makeHtml(text)
-          .replace(/<img src="/g, '<img src="'+p.url+'/../');
+          .replace(/<img src="/g, '<img src="'+p.url+'/../'); //fix img url to absolute
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
       if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
