@@ -111,8 +111,8 @@
         '<td class="hspace"><p>На сайте <b><i>$COUNT</i></b> описаний книг разных &emsp; <a href="/bwrts.html"> Авторов</a> &nbsp; '+
           '<a href="/bgenres.html">Жанров</a></p></td>'+
         '<td align="right">'+
-          '<input id="tfind" maxlength="100" size="4" type="text" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          '<input type="button" class="find-btn" value="Найти" onclick="find()"></td>'+
+          '<input id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        '</td>'+
       '</tr></table>';
     for(var p in urlParams()){
       var pp = p.split('/');
