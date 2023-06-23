@@ -39,7 +39,7 @@ Solo:                     )
   *)*  
   *@@@@@=Smash Guitar*  
   
--  
+----  
   
   *STANDARD TUNING*  
   *KEY: /= Slide Up or Down*  

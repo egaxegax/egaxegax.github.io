@@ -35,7 +35,7 @@
   E|------------------|--00000-00000--|]  
   *blah blah blah....*  
   
--  
+----  
   
   *Riff 1a(Gtr 1)*  
   [D||----------------------------------------||  
@@ -126,7 +126,7 @@
   *As for the riffs-they're pretty simple, but once again, it is best to*  
   *have a 7string or two guitarists (tuned ADGCEa & DGCFad).*  
   
--  
+----  
   
 Text:  "Hello? Es tacaco? Eres caco? Well, you know, you fuckin' call me  
   tacaco? Okay?"  

@@ -35,7 +35,7 @@ Reise, Reise (2004)
   
   *I'm sorry but the solo is coming soon.*  
   
--  
+----  
   
   *Solo tengo una cosa que decir*  
   *Ich bin so verliabt*  
@@ -56,7 +56,7 @@ Reise, Reise (2004)
   -|-5-------5--3-5-3---5-3--5-------5--3-5-3---5-3|----------------------------|  
   -|-----------------------------------------------|----------------------------|]  
   
--  
+----  
   
   *Standard tuning*  
   
@@ -70,7 +70,7 @@ Reise, Reise (2004)
   
   *TecznologY - A•L*  
   
--  
+----  
   
   [--------------------------------------------------------|all over the song  
   --------------------------------------------------------|  
@@ -90,7 +90,7 @@ Reise, Reise (2004)
   
   *this is my first tab so its problaly wrong, but i hope itґs right!!*  
   
--  
+----  
   
 Length:  4:25  
   
@@ -118,7 +118,7 @@ Length:  4:25
   
   *I'm sorry I don't have the solo*  
   
--  
+----  
   
 Text:  Wir waren namenlos  
   Und ohne Lieder  
@@ -170,7 +170,7 @@ Text:  Wir waren namenlos
   
   Wir waren los  
   
--  
+----  
   
 English: -Less  
   

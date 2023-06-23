@@ -78,7 +78,7 @@
   *repeat to fade.....(chorus)*  
   *(repeat ***Dm / G / Am***)*  
   
--  
+----  
   
 Text:  Some people get a cheep laugh breaking up the speed limit  
   Scaring the pedestrians for a minute  

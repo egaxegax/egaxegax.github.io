@@ -46,7 +46,7 @@ Break:  ***A D C***
   
   *If you know how to play ***A***, ***D*** and ***C*** you're sorted :o)*  
   
--  
+----  
   
 Text:  There we were now here we are  
   All this confusion nothings the same to me  

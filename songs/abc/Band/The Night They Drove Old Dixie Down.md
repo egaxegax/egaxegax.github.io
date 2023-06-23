@@ -40,7 +40,7 @@ The Night They Drove Old Dixie Down
   ***|C  C/B  |Bb  Am  |Ab  G  |***  
   *(refrain)*  
   
--  
+----  
   
   ***C Am   C/G                           F      F/E      Dm***  
   Virgil Caine is the name, and I served on the Danville train,  

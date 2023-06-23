@@ -127,7 +127,7 @@ Angels Fall First (1997), From Wishes To Eternity - Live (20
   *GUITAR SOLO (4:04)*  
   *Play the intro riff*  
   
--  
+----  
   
   *Bass*  
   
@@ -476,7 +476,7 @@ Angels Fall First (1997), From Wishes To Eternity - Live (20
   ------------------|------------------||  
   ------------------|------------------||]  
   
--  
+----  
   
   *Guitar 1.*  
   
@@ -907,7 +907,7 @@ Angels Fall First (1997), From Wishes To Eternity - Live (20
   -------7----7--5-------|----3--2--0--5--5--3-----|--0----------------|  
   ----5--5----5--3----1--|----------------------3--|-------------------|]  
   
--  
+----  
   
   *Guitar 2.*  
   
@@ -1233,7 +1233,7 @@ Angels Fall First (1997), From Wishes To Eternity - Live (20
   ------------------------|------------------||  
   ------------------------|------------------||]  
   
--  
+----  
   
 Text:  (In the sheltering shade of the forest  
   Calling calming silence  
@@ -1285,7 +1285,7 @@ Text:  (In the sheltering shade of the forest
   In this spellbound night  
   The world's an elvish sight  
   
--  
+----  
   
 Перевод: Тропа Эльфов  
   
@@ -1332,7 +1332,7 @@ Text:  (In the sheltering shade of the forest
   В этой завороженной ночи  
   Мир – это волшебный образ,  
   
--  
+----  
   
 Перевод: "Тропа эльфов"  
   
@@ -1370,7 +1370,7 @@ Text:  (In the sheltering shade of the forest
   В этой зачарованной ночи  
   Миры и эльфов взгляды.  
   
--  
+----  
   
 Перевод: Эльфийская тропа  
   

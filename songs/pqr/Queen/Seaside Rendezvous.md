@@ -13,7 +13,7 @@ A Night At The Opera 1975
   |-2h3---4/5------------------------------------------------------------------|  
   |----------------------------3---3----------------------------------33-33-33-|  
   
--  
+----  
   
 Text:  Seaside - whenever you stroll along with me I'm merely contemplating what  
   you feel inside meanwhile I ask you to be my Clementine -  

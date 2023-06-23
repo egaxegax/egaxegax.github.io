@@ -52,7 +52,7 @@ Be mine tonight
   Our souls are now as one...  
   We've only just begun..  
   
--  
+----  
   
 Text:  Be mine tonight,  
   We'll travel through all our memories,  

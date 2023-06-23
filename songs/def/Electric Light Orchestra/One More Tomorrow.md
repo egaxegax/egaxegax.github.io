@@ -39,7 +39,7 @@ Moment Of Truth (1994)
   To help me through this night that never ends, it never ends  
   *CHORUS TWICE*  
   
--  
+----  
   
 Text:  I'm lying here, I know the night must fall  
   The edge of darkness is so near  

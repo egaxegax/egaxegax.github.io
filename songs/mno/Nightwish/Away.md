@@ -50,7 +50,7 @@ Chorus:  Away, away, away in time
   price  
   with the loss of life?s pleasures"  
   
--  
+----  
   
     *Chorus at 0:31 and 1:25*  
   [e:-----------------------------------------------------------------------------|  

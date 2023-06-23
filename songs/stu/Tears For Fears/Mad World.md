@@ -47,7 +47,7 @@ The Hurting (1983)
   Hello teacher, tell me what's my lesson,  
   look right through me, look right through me  
   
--  
+----  
   
 Text:  All around me are familiar faces  
   Worn out places, worn out faces  

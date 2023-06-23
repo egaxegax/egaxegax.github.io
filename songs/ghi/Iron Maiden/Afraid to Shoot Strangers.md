@@ -168,7 +168,7 @@
   ----------------------------------------------------------------------  
   ----------------------------------------------------------------------]  
   
--  
+----  
   
 Lyrics:  Lying awake at night I wipe the sweat from my brow  
   But its not the fear cos Id rather go now  

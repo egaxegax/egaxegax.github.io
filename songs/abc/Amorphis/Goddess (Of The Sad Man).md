@@ -43,7 +43,7 @@ chorus:  New moon laughs on it's own
   
   *chorus*  
   
--  
+----  
   
 Перевод: Богиня (Грусти)  
   

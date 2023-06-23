@@ -15,7 +15,7 @@ Paperback Writer
   
   ***C***  
   
--  
+----  
   
   *This is the intro bit:*  
   [e----------------v-----------------v  
@@ -68,7 +68,7 @@ Paperback Writer
   ***G7***  
   Paperback writer...  
   
--  
+----  
   
   *Text:*  
   

@@ -119,7 +119,7 @@ Lyrics:  No I'll never look back in anger
   Ooh I need your loving  
   Ooh I need your loving tonight  
   
--  
+----  
   
 Text:  No I'll never, look back in anger,  
   No I'll never, find me an answer,  

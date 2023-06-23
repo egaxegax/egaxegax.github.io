@@ -129,7 +129,7 @@ Green Hell
   *s = sixteenth note   S = dotted sixteenth*  
   *^ = triplet*  
   
--  
+----  
   
 Text:  Here in this place lies the genie of death  
   Touch it, see it  
@@ -183,7 +183,7 @@ Text:  Here in this place lies the genie of death
   We're gonna burn in Hell  
   Green hell  
   
--  
+----  
   
 Перевод: Зеленый Ад  
   

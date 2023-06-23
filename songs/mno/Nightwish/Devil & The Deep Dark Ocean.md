@@ -115,7 +115,7 @@ Oceanborn (1998)
   */  =  slide up*  
   *p  =  pull of*  
   
--  
+----  
   
 Text:  Devil & The Deep Dark Ocean  
   
@@ -175,7 +175,7 @@ Text:  Devil & The Deep Dark Ocean
   Our songs will echo over the mountains and seas  
   The eternity will begin once again in peace  
   
--  
+----  
   
 Перевод: Дьявол и Глубокий Темный Океан  
   
@@ -233,7 +233,7 @@ Text:  Devil & The Deep Dark Ocean
   Над морями и горами наши песни полетят с ветрами вольными,  
   Новая вечность Свободой начнется, и забудем мы горе".  
   
--  
+----  
   
 Перевод: "Дьявол и глубокий тёмный океан"  
   

@@ -77,7 +77,7 @@ Words:  And you're rushing headlong you've got a new goal
   Better hold on tight  
   you're rushin' (... etc.)  
   
--  
+----  
   
 Text:  And you're rushing headlong you've got a new goal  
   And you're rushing headlong out of control  

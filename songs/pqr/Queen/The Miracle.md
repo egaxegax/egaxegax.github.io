@@ -75,7 +75,7 @@ The Miracle 1989
   |-----------------11-10-9-7---7-------|  
   |---------------------------9---9-7v--|  
   
--  
+----  
   
 Text:  Every drop of rain that falls in Sahara Desert says it all,  
   It's a miracle,  

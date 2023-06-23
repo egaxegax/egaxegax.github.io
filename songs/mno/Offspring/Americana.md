@@ -119,7 +119,7 @@ Chords:     ***E*  D  F*  G*  A*  E  G  A�
   *Oh well, it doesn't really matter. The song's not*  
   *hard. Have fun with it!*  
   
--  
+----  
   
 Text:  Well i'd like to tell you all about my dream, it's a place  
   Where strip malls abound and diversion's mere moments away  

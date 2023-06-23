@@ -39,7 +39,7 @@ The Miracle 1989
   |-------------------------------------------------------|  
   |-------------------------------------------------------|  
   
--  
+----  
   
 Text:  What is there left for me to do in this life.  
   Did I achieve what I had set in my sights.  

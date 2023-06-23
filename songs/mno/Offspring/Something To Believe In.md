@@ -31,7 +31,7 @@ Smash (1994)
   |-3---3----|  
   |-1---1----|  
   
--  
+----  
   
 Text:  I believe that reality's gone  
   Disillusion's real  

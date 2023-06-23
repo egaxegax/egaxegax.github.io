@@ -85,7 +85,7 @@ Lyrics:  Gotta black breast Chinese eyes
   I tried another but she didn't want to know  
   Aaaah - no, no, no!  
   
--  
+----  
   
   *Bass Tablature*  
   

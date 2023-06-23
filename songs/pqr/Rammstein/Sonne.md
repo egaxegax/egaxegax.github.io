@@ -81,7 +81,7 @@ Song structure: Intro x9
   Chorus A, B      (03:13)  
   Outro            (04:04)  
   
--  
+----  
   
   *I've just added a special part played by Acoustic guitar in standard tunning,*  
   *and I added the chorus made with keyboards.*  
@@ -519,7 +519,7 @@ Song structure: Intro x9
    *&  - Coda*  
   *Tempo markers -  = BPM(8/16=s8/s16), where s8 = swing 8ths, s16 = swing 16ths*  
   
--  
+----  
   
   *This song uses Drop-D Tuning. You just have to tune your guitar in*  
   *standard tuning and then tune down 6th string one half step.*  
@@ -619,7 +619,7 @@ Tuning:  D, A, D, G, B, e
   *Guitar, bass and drums off: Symphonic part of Verse 3 again,*  
   *during the vocals of the end.*  
   
--  
+----  
   
   *Tuning*  
   *======*  
@@ -777,7 +777,7 @@ Tuning:  D, A, D, G, B, e
   
   *(OUTRO)*  
   
--  
+----  
   
   *Tune to Drop D*  
   *Heavy distortion with distortion set to 100% bass and 50% treble*  
@@ -833,7 +833,7 @@ Chorous: 1X
   
   *Chorous } 2X*  
   
--  
+----  
   
   *This is my second tab EVER so go easy on me. My only other one is*  
   *Rammstein's song Seemann. ver2. I spent about 10 mins. Learning this*  
@@ -1038,7 +1038,7 @@ Chorous: 1X
   
   *(OUTRO)*  
   
--  
+----  
   
   *sonne (remix)*  
   
@@ -1093,7 +1093,7 @@ Chorous: 1X
   A---2------9------10------9-----|  
   D---2------9--------------------|]  
   
--  
+----  
   
   *This is how it's done. It's 100% CORRECT!*  
   *Cool song!*  
@@ -1155,7 +1155,7 @@ Chorus:  [----------------------------------------
   *Chorus, } x2*  
   *Chorus. } x2*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -1181,7 +1181,7 @@ Chorus:  [----------------------------------------
   
   *Just put things where they fit*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -1270,7 +1270,7 @@ Chorus:  [----------------------------------------
   -2-2---------------------|  
   -----2-2-0-0-3-3---------|]  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -1400,7 +1400,7 @@ Chorus:  [----------------------------------------
   
   *There you go: This tab is 100% correct!*  
   
--  
+----  
   
 Text:  Eins, zwei, drei, vier, funf, sechs, sieben, acht, neun, aus  
   
@@ -1469,7 +1469,7 @@ Text:  Eins, zwei, drei, vier, funf, sechs, sieben, acht, ne
   Acht, neun  
   Hier kommt die Sonne  
   
--  
+----  
   
 Перевод: Солнце  
   

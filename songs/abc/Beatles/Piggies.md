@@ -32,7 +32,7 @@ BRIDGE:  In their styes with all their backing
   ***Dm7                 G7         C7  Bb Cdim C***  
   Clutching forks and knives to eat their bacon  
   
--  
+----  
   
   ***G                 D7             G               D***  
   Have you seen the little piggies crawling in the dirt  

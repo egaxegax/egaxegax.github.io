@@ -122,7 +122,7 @@
   Mother wake me from my dream, mother wake me in my light  
   And then you will have had never seen me again...  
   
--  
+----  
   
 Text:  Mother, please forgive me.  
   I just had to get out all my pain and suffering.  

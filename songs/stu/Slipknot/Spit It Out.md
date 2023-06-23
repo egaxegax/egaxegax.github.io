@@ -43,7 +43,7 @@ Slipknot
   F#|-000-11-00-1111-|  
   B |-000-11-00-1111-|]  
   
--  
+----  
   
 Text:  Since you never gave a damn in the first place  
   Maybe it's time you had the tables turned  

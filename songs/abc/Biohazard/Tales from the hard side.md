@@ -15,7 +15,7 @@
   A-|-2-2-------5-------------------------------------------------------------|  
   E-|-0-0--5--7---7--5--3--1--0-----------------------------------------------|]  
   
--  
+----  
   
   *I did this cuz,the other person who tried to do this*  
   *was totally wrong.Im not saying this is all right,but*  

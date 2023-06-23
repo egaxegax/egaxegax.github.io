@@ -94,7 +94,7 @@ She has a Girlfriend Now
   *because i'm a moron, though, i decided to transcribe the album in e.*  
   *this way, you can play through the entire album without having to re-tune.*  
   
--  
+----  
   
   *(trombone)*  
   

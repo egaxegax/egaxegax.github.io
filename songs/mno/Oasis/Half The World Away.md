@@ -48,7 +48,7 @@ Outro:  ***C  F***( or ***Fadd9***)
   ****Fadd9***: [xx3213]*  
   ****Aadd9***: [x02200]*  
   
--  
+----  
   
 Text:  yeah we're on, ha ha (spoken)  
   

@@ -88,7 +88,7 @@ Solo:  [-|-------------------------------------------------
     *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
--  
+----  
   
   *I'm pretty sure the song is in ***G*** - but if I'm wrong then adjust the*  
   *tab accordingly moving up or down a fret or two*  
@@ -124,7 +124,7 @@ INTRO:  [----------
   
   *The solo is over the ***G***/***C***/***D*** riff.*  
   
--  
+----  
   
   Baby's good to me, you know,  
   She's happy as can be, you know,  

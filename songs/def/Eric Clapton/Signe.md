@@ -88,7 +88,7 @@ Ending:                        �
   |--------------------|--0--||  
   |--0-----0-----------|-----||  
   
--  
+----  
   
   *I tried it out last night and it really sounded more*  
   *like what's on the CD. I tried one thing different*  
@@ -114,7 +114,7 @@ Ending:                        �
   *played smoother.*  
   *Try it out and let me know what you think.*  
   
--  
+----  
   
   *The hard part of this song is to get the timing right.*  
   *Start by playing the chords only when listening to the CD.*  

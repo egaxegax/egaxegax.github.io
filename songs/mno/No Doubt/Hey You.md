@@ -134,7 +134,7 @@
   A|--------10--9--10----------------------|  
   E|---------------------------------------|]  
   
--  
+----  
   
   *Notes: This is a really groovy tune, one of my faves off the album.*  
   *Tom Dumont packs a real good punch in his guitar licks by using*  

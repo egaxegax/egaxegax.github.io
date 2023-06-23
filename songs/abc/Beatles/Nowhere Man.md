@@ -40,7 +40,7 @@ Verse 2: He's as blind as he can be
   Take your time don't hurry  
   Leave it all till somebody else lends you a hand  
   
--  
+----  
   
   *There are a couple more repeats, but the chords are*  
   *the same*  
@@ -87,7 +87,7 @@ Solo:                         
   Take your time, don't hurry  
   Leave it all till somebody else lends you a hand  
   
--  
+----  
   
   *Text:*  
   

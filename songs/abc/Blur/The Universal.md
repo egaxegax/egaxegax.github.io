@@ -41,7 +41,7 @@
   *Chorus twice*  
   *Play the instrumental chorus to fade.*  
   
--  
+----  
   
 Text:  This is the next century  
   Where the universal's free  

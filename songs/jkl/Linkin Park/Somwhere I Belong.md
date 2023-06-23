@@ -72,7 +72,7 @@ Chorus:  I wanna heal, I wanna feel what I thought was n
   I wanna heal, I wanna feel like I’m somewhere I belong  
   Somewhere I belong  
   
--  
+----  
   
   *Tuning: Db, Ab, Db, Gb, Bb, Eb*  
   
@@ -219,7 +219,7 @@ Chorus:  I wanna heal, I wanna feel what I thought was n
   I will break away. I'll find myself today  
   *(Repeat chorus)*  
   
--  
+----  
   
   *Tuning: half step down, Drop-D.*  
   *(Low to High) Db Ab Db Gb Bb Eb*  
@@ -329,7 +329,7 @@ Chorus:  I wanna heal, I wanna feel what I thought was n
   |--4-4-4-4-4-4-4--{4-4-4-4}--|-4-4-4-4-4-4-4-|||  
     *d u d u*  
   
--  
+----  
   
 Text:  "SOMWHERE I BELONG"  
 Перевод: "ГДЕ-ТО, ГДЕ Я НА СВОЕМ МЕСТЕ"  

@@ -55,7 +55,7 @@ Verse/Chorus: What a life it would be, If you could come t
   
   *That's all...*  
   
--  
+----  
   
   *Chords used:*  
    [EADGBe]  
@@ -170,7 +170,7 @@ Verse/Chorus: What a life it would be, If you could come t
   A--------------------------------------------------------------------  
   E--------------------------------------------------------------------]  
   
--  
+----  
   
   *Everyone knows how it goes. I'll try and put the chords above the words as close*  
   *to the change as possible but I'm sure anyone who reads this will know when and*  
@@ -229,7 +229,7 @@ Intro:  ***Ab Cm? D E Dsus2 E7 D7 A A?***
   
   *So what do you think then everyone.?.*  
   
--  
+----  
   
 Text:  What a life it would be  
   If you would come to mine for tea  

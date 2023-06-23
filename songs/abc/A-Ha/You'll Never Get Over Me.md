@@ -39,7 +39,7 @@ You'll Never Get Over Me (5:38)
   
   You'll never get over me  
   
--  
+----  
   
   ***Abm  C#m    H   F#***  
   You say you want some fun  

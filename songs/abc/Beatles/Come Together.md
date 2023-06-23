@@ -96,7 +96,7 @@ Come Together
   A t  
   E aster  late chexmix  
   
--  
+----  
   
 Chords Used:   ***Dm     A7     G7     Bm     G***  
   [000231] [002223] [320001] [000432] [320003]  
@@ -158,7 +158,7 @@ Chords Used:   ***Dm     A7     G7     Bm�
     ***Bm***  
   Come together, Right now, over me  
   
--  
+----  
   
   Here come old flattop he come grooving up slowly  
   He got joo-joo eyeball he one holy roller  

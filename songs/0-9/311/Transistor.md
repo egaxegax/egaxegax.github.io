@@ -109,7 +109,7 @@ E---3--3----3--3---1---1---1---0----1---------]
 *Play Reggae Part (x4) over:*  
 *Play Ending (x2) over:*  
   
--  
+----  
   
 *Intro:*  
    ***N.C.***  
@@ -200,7 +200,7 @@ Conduction to the mother star
 Yes, that's what you are  
 *Play Heavy Part over:*  
   
--  
+----  
   
 *Riff 1 (w/distortion):*  
 1|-----------------------------------------------  
@@ -273,7 +273,7 @@ Yes, that's what you are
 *Play Bridge over:*  
 *Play Riff 5 over:*  
   
--  
+----  
   
 *This is a kinda tricky song so I only have the first 2 parts of the*  
 *song*  

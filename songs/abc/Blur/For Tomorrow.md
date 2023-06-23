@@ -49,7 +49,7 @@
   london ice can freeze you toes  
   like anyone i suppose)  
   
--  
+----  
   
 Text:  HE'S A TWENTIETH CENTURY BOY, WITH HIS HANDS ON THE RAILS  
   TRYTNG NOT TO BE SICK AGAIN AND HOLDING ON FOR TOMORROW  

@@ -90,7 +90,7 @@ The Thing That Should Not Be
   *Chorus*  
   *Riff 9, Riff 8 (x 10)*  
   
--  
+----  
   
 Lead Guitar: [E||----------------7h10h|--7----------------|  
   B||---------------------|-------------------|  

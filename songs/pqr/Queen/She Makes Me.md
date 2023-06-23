@@ -57,7 +57,7 @@ Chorus music: Who knows where my dreams will end
   ***C         Dm7***  
   She is my love    (ad lib, fade)  
   
--  
+----  
   
 Text:  I love  
   She makes me  

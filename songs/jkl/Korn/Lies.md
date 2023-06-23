@@ -76,7 +76,7 @@
   *that's because I get tired of listening to the same one or two seconds of*  
   *the album, and I just fidget what I think I heard.*  
   
--  
+----  
   
 Text:  I like to search inside for the things that you all hide  
   What's the problem? Can't you seem to  

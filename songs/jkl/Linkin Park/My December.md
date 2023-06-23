@@ -70,7 +70,7 @@ My December
   
   ***G   F   G   F   G***  
   
--  
+----  
   
   [F)---0----0-----0----0-|----0---0----0---0----  
   C)-----4----------4----|------4--------4------  
@@ -131,7 +131,7 @@ My December
   Give it all away  
   To have someone to come home to  
   
--  
+----  
   
   *Standard tuning:*  
   [eBGDAE]  
@@ -146,7 +146,7 @@ My December
   *clean, with high bass and slightly muffled sound.*  
   *I suggest using your fingers instead of a pick.*  
   
--  
+----  
   
   1|---------------------|-----------------|----  
   2|---------------------|-----------------|---  

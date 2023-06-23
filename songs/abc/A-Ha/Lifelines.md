@@ -84,7 +84,7 @@ Intro:  ***Em Hm A A6/A***
     ***A6  A    Em  Hm A***  
   Don't let your lifeline go…  
   
--  
+----  
   
 Пpoигpыш: ***Dm   Am   G***  
   ***Dm   Am   G   E***  

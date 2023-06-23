@@ -24,7 +24,7 @@ Sun King
   ****A   E***      here they sing in Italian.*  
   ****A   E***      understand me for not writing the words.*  
   
--  
+----  
   
 Text:  Here comes the sun king  
   Here comes the sun king  

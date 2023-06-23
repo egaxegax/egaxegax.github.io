@@ -107,7 +107,7 @@ Song structure: Intro
   Main Riff x8      (02:57)  
   Intro             (03:37)  
   
--  
+----  
   
   *O. k. people, We all know for guitar, Rammstein has major riffs.*  
   *and i have most of their songs riff's.*  
@@ -122,7 +122,7 @@ Song structure: Intro
   *that is the main riff, i dont really know the soft muted part.*  
   *its still in process.*  
   
--  
+----  
   
   *Standard Tuning*  
   
@@ -170,7 +170,7 @@ Song structure: Intro
   *MAIN RIFF*  
   *INTRO*  
   
--  
+----  
   
   *Intro/Main Riff for Teir by Rammstein.*  
   *Very easy, the other two tabs are quite innacurate.*  
@@ -183,7 +183,7 @@ Song structure: Intro
   |-----0-0-----0-0---------0-0-----0-0-----0-0----------0-0-|  
     . .     . .         . .     . .     . .          . .  
   
--  
+----  
   
   *Drop D Tuning*  
   |-e-|  
@@ -232,7 +232,7 @@ Song structure: Intro
   ||--------------------------||  
   ||--------------------------||  
   
--  
+----  
   
   *Бас*  
   
@@ -248,7 +248,7 @@ Song structure: Intro
   |---3-5-3-5-6-5-3-5-3-5-3-5-6-8-6-5  
   |----------------------------------  
   
--  
+----  
   
   *Бас*  
   
@@ -262,7 +262,7 @@ Song structure: Intro
   *The acoustic intro is just that, acoustic, so there's no need to transcribe it.*  
   *Besides it's a sample anyways.*  
   
--  
+----  
   
 Text:  Was macht ein Mann  
   Was macht ein Mann  
@@ -295,7 +295,7 @@ Text:  Was macht ein Mann
   Was - bist du  
   Doch nur ein Tier  
   
--  
+----  
   
 Перевод: Зверь  
   

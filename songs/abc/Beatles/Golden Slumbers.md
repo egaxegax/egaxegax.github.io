@@ -44,7 +44,7 @@ VERSE:  (Strum As You Like)
   |--3-------------------|--3---------------3----|  
   |----------------------|-----------------------|  
   
--  
+----  
   
   Once there was a way to get back homeward  
   Once there was a way to get back home  

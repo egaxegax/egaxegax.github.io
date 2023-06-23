@@ -64,7 +64,7 @@ Minuet
   |-5----------------|------------------|-------2-----5----|------------------|  
   |------------------|------------------|------------------|-3-----------3----|  
   
--  
+----  
   
   *I tried to include some fingering (under the TAB) to assist in keeping this*  
   *smooth. There are quite a few pull-offs that I did not indicate, but a*  

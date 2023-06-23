@@ -96,7 +96,7 @@ verse:  e-|-----------------------------------------------------------------
   *the rest of the song uses the same riffs as above...*  
   *uh... sorry for the inconvenience of the "B" string mistake...*  
   
--  
+----  
   
 Перевод: Государственный грипп  
   *(Слова - Dead Kennedys)*  

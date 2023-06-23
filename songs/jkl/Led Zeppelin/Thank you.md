@@ -253,7 +253,7 @@ Thank You
   *[--0h2-] = hammer-on from open string to 2nd fret*  
   *[-(2)-]  = sustained note*  
   
--  
+----  
   
 Text:  If the sun refused to shine, I would still be loving you.  
   When mountains crumble to the sea, there will still be you and me.  

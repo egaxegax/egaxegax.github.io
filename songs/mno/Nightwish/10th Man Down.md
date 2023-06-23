@@ -354,7 +354,7 @@ Over The Hills And Far Away (2001), Live At Gorbunov's Palac
   ------------------|------------------||  
   ------------------|------------------||]  
   
--  
+----  
   
   10th Man Down  
   
@@ -393,7 +393,7 @@ Over The Hills And Far Away (2001), Live At Gorbunov's Palac
   
   Cut me free...  
   
--  
+----  
   
   *Emppu (Guitar)*  
   

@@ -46,7 +46,7 @@ What Is And What Should Never Be
   *[H] = HAMMER ON   [\]  = SLIDE TO FRET     [R] = Rest*  
   *[P] = PULL OFF    [\X] = SLIDE TO NOWHERE  [~] = Trill*  
   
--  
+----  
   
 Text:  And if I say to you tomorrow. Take my hand, child, come with me.  
   It's to a castle I will take you, where what's to be, they say will be.  

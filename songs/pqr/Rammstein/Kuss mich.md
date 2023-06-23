@@ -23,7 +23,7 @@ PRE-CHORUS: [e|-----------------------------------|
   
   *Goddamn, that riff is catchy*  
   
--  
+----  
   
   *This is the way I play it, I think it sounds almost identical to how they play it.*  
   
@@ -89,7 +89,7 @@ Tuning:  Drop D
   *sounds really great, Listen to the song for correct timing, and for which part,*  
   *and when to play each part.*  
   
--  
+----  
   
   *BASS*  
   
@@ -128,7 +128,7 @@ Tuning:  Drop D
   *Riff 1 (x4)*  
   *Break till end*  
   
--  
+----  
   
 Text:  Sie halt immer still  
   Weil sie gefingert werden will  
@@ -165,7 +165,7 @@ Text:  Sie halt immer still
   Auch wenn es bitter schmeckt  
   Kuss mich  
   
--  
+----  
   
 Перевод: Поцелуй меня (лягушачья шкурка)  
   

@@ -119,7 +119,7 @@ OUTRO RIFF: [E:------------------------------------------|
   *(Repeat riff till the end*  
   *over chords from the verses)*  
   
--  
+----  
   
 Text:  Beetlebum  
   What you've done  

@@ -28,7 +28,7 @@ Links 2-3-4(Single)
   A -2--10--7--10--5--9--3--5---------  
   D -2--10--7--10--5--9--3--5---------]  
   
--  
+----  
   
 Tuning:  Dropped D  
   
@@ -88,7 +88,7 @@ Verse 2: Bass only. Guitar jumps back in for the chorus.
   *Chorus } x3*  
   *Riff 1 } x1*  
   
--  
+----  
   
   *This song is standered tuning.*  
   
@@ -198,7 +198,7 @@ Lyrics:  Er ist fromm und sehr sensibel
   
   *ENJOY!!!*  
   
--  
+----  
   
 Tuning:  Dropped D  
   
@@ -273,7 +273,7 @@ verse 2: bass plays only for first part, then guitar joins�
   *+  harmonic*  
   *x  Mute note*  
   
--  
+----  
   
   *BASS*  
   
@@ -293,7 +293,7 @@ Main Riff 2: G:--------------------------------
   
   *Enjoy!*  
   
--  
+----  
   
   *Bass*  
   *Tuning: Standard*  

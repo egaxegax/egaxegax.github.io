@@ -60,7 +60,7 @@ BRIDGE3: Its better to burn out than to fade away,
   ****F***:    [133211]*  
   ****C***:    [032010]*  
   
--  
+----  
   
 Text:  hey hey my my  
   rock and roll will never diet  

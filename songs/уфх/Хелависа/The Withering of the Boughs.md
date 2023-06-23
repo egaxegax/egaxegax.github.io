@@ -46,7 +46,7 @@ Running to Paradise (1996)
   The boughs have withered because,  
   I have told them my dreams.  
   
--  
+----  
   
 Перевод: Увядание листьев  
   

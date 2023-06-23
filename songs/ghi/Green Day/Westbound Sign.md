@@ -83,7 +83,7 @@ Outro:  1|--------------------------|
   
   *then, you and on a [799xxx]*  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -94,7 +94,7 @@ Outro:  1|--------------------------|
   ****B F# G# E*** (second time= 7th fret)*  
   ***B G# E***  
   
--  
+----  
   
   ***E B C***  
 Verse:  Boxed up, all of her favorite things.  
@@ -138,7 +138,7 @@ Chorus:  Is it salvation, or an escape from discontent?
   ***D A B A D***  
   Is tragedy 2000 miles away?...She's taking off...  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

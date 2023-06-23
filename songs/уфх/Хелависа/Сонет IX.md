@@ -34,7 +34,7 @@
       ***Am         C    D      Em C Am G D C D Em***  
   При этом я не чувствую весны.  
   
--  
+----  
   
   ***Em C Am G D C D Em***  
       ***Em        C        D***  

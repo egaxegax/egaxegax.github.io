@@ -118,7 +118,7 @@
   |-4--4-4-4--4--4----|  
   |-2--2-2-2--2--2----|  
   
--  
+----  
   
 Tuning:  [eBGDAE]  
   
@@ -165,7 +165,7 @@ Intro/Verse: [e|--------------------------------------------------------------
   *Chorus      } x 2*  
   *Chorus 2    } x 8*  
   
--  
+----  
   
   *Tunning: Standard e, B, G, D, A, E,*  
   
@@ -325,7 +325,7 @@ Intro/Verse: [e|--------------------------------------------------------------
   *Hope you Enjoy the song*  
   *Good luck*  
   
--  
+----  
   
   ***Bm         F#m***  
 (1)  This time, This place  
@@ -432,7 +432,7 @@ Pre Chorus: But you know
   
   *This is my first, so be easy*  
   
--  
+----  
   
   *tabbed by G-Suz*  
   [E A D G]  

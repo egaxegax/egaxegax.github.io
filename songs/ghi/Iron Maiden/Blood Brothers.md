@@ -96,7 +96,7 @@ RIFF4:  e|---------------------------------------------
   *(RIFF1) x4 &gt;&gt;&gt; final verse while playing RIFF1 by the last time*  
   *That's it!!!*  
   
--  
+----  
   
 Lyrics:  And if youre taking a walk through the garden of life  
   What do you think youd expect you would see?  

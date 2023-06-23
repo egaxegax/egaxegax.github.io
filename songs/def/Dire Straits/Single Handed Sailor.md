@@ -33,7 +33,7 @@ Intro:  ***Dm   C   G***
   Yeah, single-handed sailor go sailing  
   Singing away in the dark  
   
--  
+----  
   
 Intro:  ***Dm*** / ***C*** : ***G***  
   
@@ -150,7 +150,7 @@ Intro:  ***Dm*** / ***C*** : ***G***
     *Communique at home. This transcription may be not totally*  
     *correct.*  
   
--  
+----  
   
   *Key: ***Dm****  
   

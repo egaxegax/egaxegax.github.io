@@ -93,7 +93,7 @@ SOLO:  [G|---------0-----|
   *For the solo just use the same*  
   *chords as the chorus :)*  
   
--  
+----  
   
   *Oasis are a great band, but I really wish that their recordings wouldn't*  
   *come out a twinge higher in pitch on their CDs. This track doesn't suffer*  
@@ -176,7 +176,7 @@ SOLO:  [G|---------0-----|
   *For the little solo at the end, just make something up in ***F#m*** pentatonic*  
   *and you'll be all set. You can make it as sweet or as nasty as you like.*  
   
--  
+----  
   
 Text:  Today is gonna be the day  
   That they're gonna throw it back to you  

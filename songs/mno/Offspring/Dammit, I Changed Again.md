@@ -113,7 +113,7 @@ Conspiracy Of One (2000)
   A|-3-3-3-3-3-3--3#--5/3--3:--|  
   E|------------------3/1--1:--|]  
   
--  
+----  
   
 Text:  Hey, come inside  
   While I stand here acting bold  

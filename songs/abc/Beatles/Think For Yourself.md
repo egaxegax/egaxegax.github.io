@@ -28,7 +28,7 @@ Verese 3: (Same Chords as above)
   The future still looks good,  
   And you've got time to rectify all the things that you should.  
   
--  
+----  
   
 Text:  I've got a word or two  
   To say about the things that you do  

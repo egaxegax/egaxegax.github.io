@@ -52,7 +52,7 @@
   Dodging on his train of thought  
   Train of thought  
   
--  
+----  
   
   ***N.C./E | N.C./E | N.C./E | N.C./E***  
   ***N.C./E | N.C./E | N.C./E | N.C./E***  

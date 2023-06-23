@@ -46,7 +46,7 @@ The Game 1980
   Each night I cry, I still believe the lie  
   I'll love you 'til I die  
   
--  
+----  
   
 Text:  It started off so well  
   They said we made a perfect pair  

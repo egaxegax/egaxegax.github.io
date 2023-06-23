@@ -80,7 +80,7 @@ News Of The World 1977
   All dead and gone  
   
   
--  
+----  
   
 Text:  Memories, my memories  
   How long can you stay  

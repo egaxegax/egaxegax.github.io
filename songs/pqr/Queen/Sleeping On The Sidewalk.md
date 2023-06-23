@@ -103,7 +103,7 @@ News Of The World 1977
   *[0//]    [0/]                         [\] : slide down*  
   *[//0]    [/0] : replay                [/] : slide up*  
   
--  
+----  
   
 Text:  I was nothin' but a city boy  
   My trumpet was my only toy  

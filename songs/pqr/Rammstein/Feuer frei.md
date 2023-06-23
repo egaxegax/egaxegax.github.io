@@ -74,7 +74,7 @@ Song structure: Intro             (00:10)
   
   BANG! BANG!  
   
--  
+----  
   
 Tuning:  Drop D  
   
@@ -136,7 +136,7 @@ Tuning:  Drop D
   A------56-56-56-56-888-------------|  /  
   D------56-56-56-56-888-------------|] /  
   
--  
+----  
   
   *This is my first tab, but is sounds pretty damn accurate.*  
   
@@ -154,7 +154,7 @@ Tuning:  Drop D
   A|3-33-3333-9999---3-33-3333-9999---3-33-3333-9999-6-4-2-|  
   E|5-55-5555-7777---5-55-5555-7777---5-55-5555-7777-8-6-4-|]  
   
--  
+----  
   
   *I worked this out whilst playing to the song so it must be right!!*  
   
@@ -189,7 +189,7 @@ Tuning:  Drop D
   *thats pretty much it thats all the chords that are used so if you cant*  
   *work it out then just use one of the chords and it should sound right*  
   
--  
+----  
   
   *After the kick ass keyboard intro:*  
   
@@ -228,7 +228,7 @@ The Inbetween: [-----------------------------------------------------
   *This is pretty much it. The video for this kicked ass. Have fun*  
   *you jerky ass bastards.*  
   
--  
+----  
   
   *This intro is actually played by a keyboard. But I liked it so much that I tabbed it*  
   *to the guitar. I would tab the entire song but there are other tabs of the song. Enjoy*  
@@ -247,7 +247,7 @@ The Inbetween: [-----------------------------------------------------
   A|-------------------|  
   E|-------------------|]  
   
--  
+----  
   
 Tuning:  Dropped D  
   
@@ -317,7 +317,7 @@ ending:  [e|----------|
   *+  harmonic*  
   *x  Mute note*  
   
--  
+----  
   
   *BASS*  
   
@@ -334,7 +334,7 @@ ending:  [e|----------|
   |-56-56-56-56-888-10----------|  
    aaaaaaaaaa aaaa a feuer frei!  
   
--  
+----  
   
 Bass Intro: [G|----------------------------------------------------------------------------------|  
   D|----------------------------------------------------------------------------------|  
@@ -346,7 +346,7 @@ Bass Intro: [G|-------------------------------------------------------------
   A|------------------------------------------------------------------------------|  
   E|-5h6 0--5h6-0--5h6-0--5h6-0--8888--12-12-12-12-12-12-12-12--11-11-11-11-8888--|]  
   
--  
+----  
   
 Text:  Getadelt wird wer Schmerzen kennt  
   vom Feuer das die Haut verbrennt  
@@ -373,7 +373,7 @@ Text:  Getadelt wird wer Schmerzen kennt
   ist nicht mein Gluck  
   ist mein Ungluck  
   
--  
+----  
   
 Перевод: Огонь  
   

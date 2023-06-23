@@ -78,7 +78,7 @@ Forgotten
   Db--7---7--7-7---5--7---3---3-3-3-3--3-3-3-2--3--3--3----2----5--]  
   *Repeat Chorus (8x - last time clean)*  
   
--  
+----  
   
 Text:  From the top to the bottom  
   Bottom to top I stop  

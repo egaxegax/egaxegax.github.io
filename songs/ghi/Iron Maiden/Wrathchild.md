@@ -135,7 +135,7 @@
   A|------------------------|------------------------|------------------------|  
   E|------------------------|------------------------|------------------------|]  
   
--  
+----  
   
 Lyrics:  I was born into a scene of angriness and greed, and dominance and persecution.  
   My mother was a queen, my dad I've never seen, I was never meant to be.  

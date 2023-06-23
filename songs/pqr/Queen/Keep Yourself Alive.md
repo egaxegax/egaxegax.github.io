@@ -347,7 +347,7 @@ lyrics:  I was told a million times
   Keep you satisfied  
   Keep you satisfied  
   
--  
+----  
   
 Text:  I was told a million times  
   Of all the troubles in my way  

@@ -58,7 +58,7 @@ Chords used: ***Am7***    [x02010]
   ***G***      [320033]  
   ***G#m7***   [464474]  
   
--  
+----  
   
   I was alone, I took a ride,  
   I didn't know what I would find there  

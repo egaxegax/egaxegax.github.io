@@ -107,7 +107,7 @@ Voodoo Chile (Slight Return)
   *When i first started (about a year ago) this was the song i most wanted*  
   *to learn but was unable to find. Hope it works ok for you.*  
   
--  
+----  
   
   *I'm going by the Woodstock CD because I'm too lazy to tune my guitar down*  
   *a half step for how it was on the Ultimate Experience!*  

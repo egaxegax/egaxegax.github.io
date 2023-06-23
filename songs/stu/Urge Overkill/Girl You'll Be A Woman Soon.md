@@ -50,7 +50,7 @@ Chorus:  Girl,   You'll be a woman   soon.
   *Chorus*  
   *Chorus*  
   
--  
+----  
   
   *-- Intro ---*  
   Girl,  

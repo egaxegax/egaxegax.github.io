@@ -47,7 +47,7 @@ Please Please Me (Mar.1963)
     ***A        E7       A***  
   Since I saw her standing there.  
   
--  
+----  
   
     ***E7                     A7          E7***  
   Well she was just seventeen and you know what I mean  

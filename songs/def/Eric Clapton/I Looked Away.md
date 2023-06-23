@@ -49,7 +49,7 @@ LEAD:  ***C D7 G7 E Am G F D7 G D G***
   
 LEAD:  (Chorus and Intro)  
   
--  
+----  
   
   
 define:  ***Fm6*** base-fret 1 frets [x x 3 1 3 1]  

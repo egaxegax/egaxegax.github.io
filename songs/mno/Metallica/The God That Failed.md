@@ -48,7 +48,7 @@ The God That Failed
   Eb--0----------]  
   *close, clean, let ring*  
   
--  
+----  
   
   *Solo*  
   

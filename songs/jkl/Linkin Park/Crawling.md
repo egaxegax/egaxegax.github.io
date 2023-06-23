@@ -70,7 +70,7 @@ Chorus:  Crawling in my skin
   Controlling  
   Confusing what is real…  
   
--  
+----  
   
   *Tuning: C, G, C, F, A, D*  
   *Note: The only guitar part in the whole song is on the chorus.*  
@@ -82,7 +82,7 @@ Chorus:  [D ----------------------------------------
   G 0----1----3----3----0------------------  
   C 0---------3-----------------------------]  
   
--  
+----  
   
 Text:  СRAWLING  
 Перевод: ПОЛЗАЯ...  

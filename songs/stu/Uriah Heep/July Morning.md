@@ -143,7 +143,7 @@ July Morning
   E-----8-----I-------I-------------------------------I--------I]  
   *Thats it...pick up solo by youself....since I NEVER tab solos :)*  
   
--  
+----  
   
   *Organ intro:*  
   *chords -&gt; | ***F/C***             | ***C***               |*  

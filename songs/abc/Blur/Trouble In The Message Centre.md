@@ -25,7 +25,7 @@
   
   *Chorus*  
   
--  
+----  
   
 Text:  I am the message centre  
   Local and direct  

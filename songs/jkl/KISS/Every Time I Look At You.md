@@ -79,7 +79,7 @@ Solo:  ***G***-***C***-***G***-***C***-***G***-***C***-***G***-***C***
   *to allow you to use straight chords rather than bar chords, which is why I*  
   *wrote this version. I hate bar chords.*  
   
--  
+----  
   
   *The original song is played on a 12-string GUILD, that is tuned a little*  
   *bit higher than the standard tuning is.*  

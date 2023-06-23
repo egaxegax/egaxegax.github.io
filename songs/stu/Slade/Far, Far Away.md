@@ -44,7 +44,7 @@ Intro:  ***Bm  A  Bm  A  Bm  A***
   And I'm far, far away &c...  
   *(twice!)*  
   
--  
+----  
   
   I've seen the ***Am***yellow lights go ***E***down the missi***Am***ssippi ***Em***  
   I've seen the ***Am***bridges of the ***E***world and they're for ***Am***real  

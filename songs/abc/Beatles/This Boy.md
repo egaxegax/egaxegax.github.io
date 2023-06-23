@@ -52,7 +52,7 @@ Chords:  ***D***    [x00232]
   ***D***  
   This boy...  
   
--  
+----  
   
 Text:  That boy took my love away,  
   He'll regret it someday,  

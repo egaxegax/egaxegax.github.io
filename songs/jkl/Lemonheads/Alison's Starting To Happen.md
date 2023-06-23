@@ -51,7 +51,7 @@ Alison's Starting To Happen
    ***Bm                     A          G  Gmaj7/F#  Em7  D***  
   Alison's starting to happen to me.  
   
--  
+----  
   
   *This tune is simple, but REALLY good. It is played with all barre chords)*  
   *Scratch effects (mute all of the strings with your hand, a watermelon, or*  
@@ -130,7 +130,7 @@ Alison's Starting To Happen
      ****G*** (Walk the bassline ***G***,***F#***,***E***,***D***)*  
   to me...  
   
--  
+----  
   
   She'd shake it ***G***up  
   Was ***D***hard to make out  

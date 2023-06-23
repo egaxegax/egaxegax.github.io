@@ -74,7 +74,7 @@ BRIDGE:  Did you ever listen?
   *and I can't wait for them*  
   *to get out to Chicago. BTW- I figured out Wattershed also.*  
   
--  
+----  
   
 Intro/Verse: [e:-------------3---2---3---2---3---2---|  
   B:-------------2---2---2---2---2---2---|  

@@ -107,7 +107,7 @@ The Offspring (1989)
   Silent on the ground as he's walking away  
   ***B(mute)                    D C#***  
   
--  
+----  
   
 Text:  Jennifer lost the war today  
   You'll find her burned and raped  

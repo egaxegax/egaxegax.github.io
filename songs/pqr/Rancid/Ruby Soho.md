@@ -56,7 +56,7 @@ CHORDS:        ***F#        G5      
   i might not have the rhythm right, but it shouldn't  
   *be too hard to pick up.*  
   
--  
+----  
   
 intro:  ***G5     F#5    E5    D5***  
   [X      X      X     X  
@@ -85,7 +85,7 @@ CHORUS:  ***G5 B5 C5 D5***
   1  
   X]  
   
--  
+----  
   
 CHORDS:          ***C       D         G         F#        B***  
   1|--------------2---------3---------------------  

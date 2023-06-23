@@ -136,7 +136,7 @@ Through The Glass
   A|-2-----|  
   E|-0-----|]  
   
--  
+----  
   
   *With all due respect do the autor of previous chords available.... I'm not sure that guy*  
   *listening to the same song as the rest of us..... This whole cong is 3 chords.... very*  
@@ -241,7 +241,7 @@ Chorus:  I'm looking at you through the glass
   
   *Have fun...*  
   
--  
+----  
   
   *Tuning: Eb, Ab, Db, Gb, Bb, Eb (1/2 step down)*  
   
@@ -270,7 +270,7 @@ Chorus:  e|-------0---0-----------------------------------------------------
   
   *That’s about it for the acoustic/Rhythm parts.*  
   
--  
+----  
   
   *Tuning: down A Full Step:*  
   
@@ -288,7 +288,7 @@ Intro:  [e|--------------------------------------------------0--0-----------
   A|--3-------5------7-7-7-7-7-7-7-7-7--5--3----------------------------------  
   E|-----------------0-0-0-0-0-0-0-0-0----------------------------------------]  
   
--  
+----  
   
   *Tuning: Eb,Ab,Db,Gb,Bb,Eb (half step down)*  
   

@@ -8,7 +8,7 @@ Kaya
   ****/ G#m   /    B    /   G#m /  B   /  G#m /  E  /  F# /*** to verse...*  
   *Thats all folks....*  
   
--  
+----  
   
   ****C | F/Eb G*** ... chorus*  
   ***Am | Am | C | Am***  

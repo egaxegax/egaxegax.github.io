@@ -204,7 +204,7 @@ Left Behind
   ------------------|------------------|-------------------|  
   ------------------|------------------|-------------------|]  
   
--  
+----  
   
 Text:  I've known faces that have disapeared in time  
   Find me wrapped in glass and slowly soaked in lime  

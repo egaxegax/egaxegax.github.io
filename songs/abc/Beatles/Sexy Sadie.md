@@ -70,7 +70,7 @@ INTRO:  ***G C D G F# F D***
   
   ****G F# A#m C D G F# F D***... (and fade)*  
   
--  
+----  
   
 Text:  Sexy Sadie what have you done  
   You made a fool of everyone  

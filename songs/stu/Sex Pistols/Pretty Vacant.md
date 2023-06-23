@@ -35,7 +35,7 @@ End:  G|--------------------------------------------
   *Play this over and over until the song ends.*  
   *This is a good song, but very easy to play.*  
   
--  
+----  
   
   *tuning: standard*  
   

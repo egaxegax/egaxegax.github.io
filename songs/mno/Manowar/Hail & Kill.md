@@ -3,7 +3,7 @@ Hail & Kill
   
   ****Am G C Em Am G F*** - AllSong.*  
   
--  
+----  
   
   *Standard Tuning*  
   

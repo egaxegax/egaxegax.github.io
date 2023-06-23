@@ -217,7 +217,7 @@ Selling England By The Pound (1973)
   -|------------------------------------------------|  
   -|3-----------------------------------------------|]  
   
--  
+----  
   
   *ELECTRIC GUITAR SOLO*  
   *Note that the main part repeats. Also, the notes in the parentheses are*  

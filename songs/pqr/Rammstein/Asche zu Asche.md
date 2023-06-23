@@ -15,7 +15,7 @@ Main Riff: [e|------------------------------|
   *Sorry Folks, i've got only the main riff -*  
   *but sounds good and powerfull with a wide distorted guitar.*  
   
--  
+----  
   
     *Main Riff                                          Interlude*  
   [G---|--------------------------------------------------|--12------------|  
@@ -36,7 +36,7 @@ Main Riff: [e|------------------------------|
   *This song is pretty straight forward. Play the main riff throughout*  
   *the entire song. Towards the end play the interlude.*  
   
--  
+----  
   
   *KEY:*  
   *pm. = palm mute*  
@@ -60,7 +60,7 @@ MAIN RIFF: [e|---------------------------------|
   
   *Doesn't have to be in English to kick some!*  
   
--  
+----  
   
   *BASS*  
   
@@ -86,7 +86,7 @@ MAIN RIFF: [e|---------------------------------|
   *both of the solos is correct.*  
   *but now can you pick the better verson for you.*  
   
--  
+----  
   
   *BASS*  
   
@@ -104,7 +104,7 @@ MAIN RIFF: [e|---------------------------------|
   
   *Metal up your Ass!*  
   
--  
+----  
   
   *BASS*  
   
@@ -162,7 +162,7 @@ MAIN RIFF: [e|---------------------------------|
   
   *Rest till end*  
   
--  
+----  
   
 Text:  Warmer Korper  
   heisses Kreuz  
@@ -188,7 +188,7 @@ Text:  Warmer Korper
   Asche zu Asche  
   und Staub zu Staub  
   
--  
+----  
   
 Перевод: Пепел к пеплу  
   

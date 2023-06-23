@@ -51,7 +51,7 @@ The Dark Side Of The Moon (1973), Works (1968-1973) (1983)
   *For the rest of the song it plays the same chord progression as in the verses*  
   *and then it goes into the song "Eclipse"*  
   
--  
+----  
   
   ****E**** base-fret 4 frets [- - - 1 2 1]*  
   ****D/F#*** base-fret 0 frets [2 O O 2 3 2]*  
@@ -81,7 +81,7 @@ The Dark Side Of The Moon (1973), Works (1968-1973) (1983)
   And if the band you're in starts ***E***playing different tunes  
   I'll ***G***see you on the dark side of the ***D/F#***moon.  
   
--  
+----  
   
 Text:  The lunatic is on the grass  
   The lunatic is on the grass  

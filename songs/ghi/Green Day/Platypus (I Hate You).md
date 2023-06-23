@@ -98,7 +98,7 @@ CHORUS RIFF: E|---------------------------------|---------------------------
   Head first into the ground  
   I'll stand above you just to piss on your grave  
   
--  
+----  
   
   *WARNING!!!: If played properly, this song can really hurt your wrist,elbow,*  
   *shoulder and hand. This song makes Basket Case seem like a slow waltz.*  

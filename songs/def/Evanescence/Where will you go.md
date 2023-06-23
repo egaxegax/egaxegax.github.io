@@ -74,7 +74,7 @@ Outro:  [E|----------------|----------------|----------------|--------------
   *Bridge (I'm so sick...)*  
   *Outro (a few times)*  
   
--  
+----  
   
   *I Think This Is Right*  
   *I Play This Song With Capo On 3rd Fret*  
@@ -144,7 +144,7 @@ OUTRO:  [E------------------------------------------------------------------
   
   *Thanx Enjoy*  
   
--  
+----  
   
   *Bass Tab*  
   
@@ -281,7 +281,7 @@ OUTRO:  [E------------------------------------------------------------------
   
   *play the outro until the end*  
   
--  
+----  
   
 Intro:  ***Cm G# Bb***  
   

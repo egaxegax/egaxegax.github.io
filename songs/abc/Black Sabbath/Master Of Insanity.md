@@ -44,7 +44,7 @@ Dehumanizer (1992)
   |------9--10-----------/9--7--5-4---------9--10----------  
   |-7--------------5--7--------------7-5-7-------------5--7--  
   
--  
+----  
   
   *These are the first three main riffs i think...gimme a break if i'm wrong*  
   *i did this late at night.*  

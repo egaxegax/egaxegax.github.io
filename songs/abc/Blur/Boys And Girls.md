@@ -43,7 +43,7 @@ Parklife
   A-|-----------------------|  
   E-|-----------------------|]  
   
--  
+----  
   
   *(One chord sequence throughout= ***Gm C F Eb F#/F***)*  
   Streets like a jungle  

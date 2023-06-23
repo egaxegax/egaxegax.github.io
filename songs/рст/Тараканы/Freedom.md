@@ -19,7 +19,7 @@ Freedom
   
   Your dream is dead  
   
--  
+----  
   
   ***G5 H5 C5 } x4***  
   *(Play "PALM MUTED")*  

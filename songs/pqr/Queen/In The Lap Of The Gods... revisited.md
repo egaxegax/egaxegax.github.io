@@ -42,7 +42,7 @@ lyrics:  It's so easy, but I can't do it
   Wo wo la la  
   Wah wah ooh  
   
--  
+----  
   
 Text:  It's so easy, but I can't do it  
   So risky - But I gotta chance it  

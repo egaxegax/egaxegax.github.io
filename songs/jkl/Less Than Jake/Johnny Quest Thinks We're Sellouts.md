@@ -52,7 +52,7 @@ Johnny Quest Thinks We're Sellouts
   *CHORUS*  
   *INTRO PT3*  
   
--  
+----  
   
   *(trombone)*  
   

@@ -55,7 +55,7 @@ Verse 4: And they're only gonna change this place
   
   ****Ab9*** is the same as ***A9*** but move your fingers down*  
   
--  
+----  
   
   *legend*  
   *h=hammeron*  

@@ -48,7 +48,7 @@ Verse:  There's a plague inside of me.
   ***B  D***  
   Limp with hate.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -56,7 +56,7 @@ Verse:  There's a plague inside of me.
   ***B G# F#***  
   ***E B F# B E B A F#***  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

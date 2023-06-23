@@ -55,7 +55,7 @@ Cold As Ice
   a-------0--2-----  
   E---3------------]  
   
--  
+----  
   
   ***Esus      Em       Esus     Em       Esus     Em       Esus     Em***  
     *(intro)*  

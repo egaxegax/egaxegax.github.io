@@ -14,7 +14,7 @@ Key to the Highway
   So long and good-bye, yes, I had to say good-bye,  
   'Cause I'm gonna walk, walk this ol' highway, deep 'til the day I die  
   
--  
+----  
   
   I got the ***A*** key to the ***E*** highway,  
   ***D*** Billed out and bound to go.  

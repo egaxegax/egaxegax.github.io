@@ -121,7 +121,7 @@ Road Trippin'
   These smiling eyes are just a mirror for  
   Your smiling eyes are just a mirror for ***Riff1***  
   
--  
+----  
   
   *1. игpaть 2 paзa             3.*  
   [e:----3---3---3-------------|----3---3---3-----------------|  
@@ -268,7 +268,7 @@ Road Trippin'
   These smiling eyes are just a mirror for  
   Your smiling eyes are just a mirror for  
   
--  
+----  
   
   *Riff:*  
    ***Em                        C             B/G***  
@@ -298,7 +298,7 @@ Road Trippin'
     [B---7-----/10----------\\7--------\\6-----4---  
     G---5-----/8-----------\\5--------\\4-----2---]  
   
--  
+----  
   
   *Riff 1*  
      ***Em                              C            B***  

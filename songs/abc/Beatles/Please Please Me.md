@@ -78,7 +78,7 @@ Middle:  ***A***
     *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
--  
+----  
   
   *Text:*  
   

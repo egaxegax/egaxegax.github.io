@@ -13,7 +13,7 @@ Path To Salvation
   Spirit  
   Darkness  
   
--  
+----  
   
 Перевод: Путь К Спасению  
   

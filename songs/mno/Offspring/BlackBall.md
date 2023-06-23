@@ -128,7 +128,7 @@ The Offspring 1989
   In this high tech dog eat dog existence  
   *(Chorus)*  
   
--  
+----  
   
   *Intro/Verse:*  
   |-----------------------------------------------------------------|  
@@ -177,7 +177,7 @@ The Offspring 1989
   |-------------10-10-10-10--------------8--8--8--8--------------------------|  
     **--PM--*   *--PM--**  
   
--  
+----  
   
 Text:  In this world of hate and shallowness  
   Where enemies become your consolation  

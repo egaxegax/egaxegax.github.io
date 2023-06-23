@@ -50,7 +50,7 @@ Powerslave `84
   A|--0--2--3--5--3--2--0--3--2--5--7-|-0--2--3--5--3--2--0--3--2--5------|  
   E|-----------------------------3--5-|----------------------------3------|]  
   
--  
+----  
   
 Lyrics:  There goes the siren that warns of the air raid  
   Then comes the sound of the guns sending flak  

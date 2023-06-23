@@ -63,7 +63,7 @@ Chorus:  Cast out, buried in a hole.
   ***C#       A    B   E          B***  
   And l know i'm not alright.  
   
--  
+----  
   
   *(INTRO)*  
   ***Eb---------   C Bb      Ab------ } X2***  
@@ -122,7 +122,7 @@ Chorus:  Cast out, buried in a hole.
   *version that is on the new album, but it should be close. The lyrics are*  
   *from the closed captioning of the show and seem to be exact.*  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -131,7 +131,7 @@ Chorus:  Cast out, buried in a hole.
   ***C# A E(7th fret)***  
   ***A B E(7th fret)***  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

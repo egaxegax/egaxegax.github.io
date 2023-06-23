@@ -62,7 +62,7 @@ Moment Of Truth (1994)
   
   *CHORUS*  
   
--  
+----  
   
 Text:  Talk is cheap, but it can't pay  
   For all the hurt you threw my way  

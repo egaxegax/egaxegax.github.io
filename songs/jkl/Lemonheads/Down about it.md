@@ -13,7 +13,7 @@ Refrain: ***G*** | ***A*** (a couple of times)
   ****A***:[00220x]  ***C***:[00553x]  ***D***:[00775x]  ***E***:[000220]  ***F#***:[000442]  ***G***:[000553]*  
   ****A***:[000775]  ***B***:[00442x]  ***E(high)***:[00997x]  ***G(high)***:[0 0 12 12 10]*  
   
--  
+----  
   
   *Down about it is played with a capo at the 2nd fret but it is played*  
   *without it on the*  

@@ -83,7 +83,7 @@ Notes:  For the interludes, listen to the CD and you will�
   This is a great song, and it's pretty easy and fun to play. Singing  
   it is a whole new ballgame though (grin).  
   
--  
+----  
   
   *Text:*  
   

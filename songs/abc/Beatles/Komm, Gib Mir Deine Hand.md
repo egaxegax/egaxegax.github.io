@@ -44,7 +44,7 @@ Komm, Gib Mir Deine Hand
   ***F***Komm, gib mir ***G***deine ***E***Hand,  
   ***F***Komm, gib mir ***G***deine ***F***Hand.***C***  
   
--  
+----  
   
   Oh, komm doch,  
   Komm zu mir,  

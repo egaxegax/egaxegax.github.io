@@ -49,7 +49,7 @@ Intro:  ***Em Am C***
   Let me show you the world in my eyes  
   Let me show you the world in my fucken eyes, eyes  
   
--  
+----  
   
   ***Em***  
   Let me take you on trip  

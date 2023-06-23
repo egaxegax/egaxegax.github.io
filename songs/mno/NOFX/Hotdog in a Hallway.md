@@ -17,7 +17,7 @@ Heavy Petting Zoo (Epitaph 1996)
   
   *The chord pattern remains the same thruout the rest of the verses...*  
   
--  
+----  
   
   *The first part is just the power chord 5/7 then slide both fingers up 1 fret*  
   *do thaat a whole bunch and mute all strings and play that a bunch*  

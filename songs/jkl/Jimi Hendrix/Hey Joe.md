@@ -232,7 +232,7 @@ Hey Joe
   ***C    G                  D    A      E***  
   Hey, hey Joe, what'd I say, run on down!  
   
--  
+----  
   
   *VERSE I:*  
     *e e e q e e   e e e q e e   q q e s s+s s e   q q q q*  

@@ -20,7 +20,7 @@ Black Magic Woman
      ***Dm                    A                        Dm***  
   I need you so bad magic woman I can't leave you alone  
   
--  
+----  
   
 Intro:  ***Dm7*** (4bars)  
   ***G/D*** (4bars)  

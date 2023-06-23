@@ -72,7 +72,7 @@ Songs From The Big Chair (1985)
   ***Am/D***  
   Time flies  
   
--  
+----  
   
 Text:  I wanted to be with you alone  
   And talk about the weather  

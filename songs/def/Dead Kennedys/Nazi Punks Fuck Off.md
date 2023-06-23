@@ -84,7 +84,7 @@ Nazi Punks Fuck Off
   You'll be the first to go  
   Unless you think  
   
--  
+----  
   
 Перевод: Панки-Нацисты - На Хер!  
   *(слова и музыка гр. Dead Kennedys)*  

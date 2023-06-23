@@ -437,7 +437,7 @@ I Can't Quit You Baby
   7--------8--||--------------------------------------------------------  
   5--------6--||--------------------------------------------------------]  
   
--  
+----  
   
   *hmm.... well this is a hard song.. I only know a few parts of it. Most*  
   *of that song was used for improvisastion, so as a consequence, I*  
@@ -475,7 +475,7 @@ I Can't Quit You Baby
   *And then there's more solo. Well, that's all of this song I know.. I*  
   *hope I could help.*  
   
--  
+----  
   
 Text:  I can't quit you babe  
   Woman I think I'm gonna put you down for a little while  

@@ -60,7 +60,7 @@ Nothing Compares to You
   *Enjoy,*  
   *Einar*  
   
--  
+----  
   
 Text:  It's been seven hours and fifteen days  
   Since you took your love away  
@@ -96,7 +96,7 @@ Text:  It's been seven hours and fifteen days
   'Cause nothing compares...  
   Nothing compares to you...  
   
--  
+----  
   
 Перевод: Ничто Не Сравниться С Тобой  
   

@@ -48,7 +48,7 @@ Ixnay On The Hombre (1997)
   *-&gt;Play VERSE X4, CHORUS, VERSE X4 or riff over VERSE X4, second part of INTRO*  
     *or INTRO2, VERSE X4 and CHORUS. Huh!! There you have it!*  
   
--  
+----  
   
 Text:  I saw a little kid  
   As he walked around  

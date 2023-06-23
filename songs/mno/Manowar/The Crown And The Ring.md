@@ -29,7 +29,7 @@ The Crown And The Ring
   Providence brought us the crown and the ring  
   Covered with blood and our pride  
   
--  
+----  
   
 Text:  From a battle I've come  
   To a battle I ride  
@@ -65,7 +65,7 @@ Text:  From a battle I've come
   Providence brought us the crown and the ring  
   Covered with blood and our pride  
   
--  
+----  
   
 Перевод: Корона И Кольцо  
   

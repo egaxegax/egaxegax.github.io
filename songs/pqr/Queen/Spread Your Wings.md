@@ -334,7 +334,7 @@ Live Killers 1977, News Of The World 1977
   'Cos you know you should do better  
   That's because you're a free man  
   
--  
+----  
   
 Text:  Sammy was low  
   Just watching the show  

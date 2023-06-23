@@ -56,7 +56,7 @@ The Inner Light
   A|--------------------  
   E|--------------------]  
   
--  
+----  
   
 Text:  Without going out of my door  
   I can know all things of earth  

@@ -173,7 +173,7 @@ Verse Riff B: |-------------------------------------------------------|
   *Bridge Riff*  
   *Intro/Chorus Riff (without *)*  
   
--  
+----  
   
 Text:  Born to the false world the wanderer  
   Storyteller the pied piper  
@@ -227,7 +227,7 @@ Text:  Born to the false world the wanderer
   To challenge the gods of emptiness  
   May the quest begin!  
   
--  
+----  
   
 Перевод: Ночное путешествие  
   
@@ -268,7 +268,7 @@ Text:  Born to the false world the wanderer
   Бросить вызов богам пустоты,  
   Да начнется путешествие!  
   
--  
+----  
   
 Перевод: Ночной Поиск  
   *(From "Walking in the Air" single 1999)*  

@@ -230,7 +230,7 @@ Rubber Soul
   A-0--------0--------2----------------------2------0------  
   E-------------------0----------------------0-------------]  
   
--  
+----  
   
   If I needed someone to love  
   You're the one that I'd be thinking of  

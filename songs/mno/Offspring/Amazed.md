@@ -20,7 +20,7 @@ Ixnay On The Hombre 1997
   A--0-3333-7*-----5555-3333-------  
   E-----------------3*------------------------]  
   
--  
+----  
   
   *This song is near relative of "Gone away". Same kind of rhythm and sad lyrics.*  
   *Cool to play with guitar.*  
@@ -69,7 +69,7 @@ Ixnay On The Hombre 1997
   
   *-&gt;Play CHORUS and INTRO X2 (END with first chord) or INTRO2.*  
   
--  
+----  
   
 Text:  Sometimes I think I'm gonna drown  
   Cause everyone around's so hollow  

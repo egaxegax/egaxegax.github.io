@@ -23,7 +23,7 @@ Verse:  [G------2-4-7-4-2-------------------------------
   
   *O'K thats it*  
   
--  
+----  
   
 Lyrics:  (Spoken) I know that things are getting tougher  
   When you can't get the top off from the bottom of the barrel.  

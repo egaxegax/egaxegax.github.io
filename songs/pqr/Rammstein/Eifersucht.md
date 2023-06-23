@@ -44,7 +44,7 @@ Sehnsucht (Japan) 1997
   ||-3--3--3-3--3--3--3-3-3--5--|| ||----------||  
      *pm....................*  
   
--  
+----  
   
   *BASS*  
   
@@ -84,7 +84,7 @@ Sehnsucht (Japan) 1997
   
   *Break till end*  
   
--  
+----  
   
 Text:  Bin ich schoner  
   Zerschneid mir das Gesicht  
@@ -122,7 +122,7 @@ Text:  Bin ich schoner
   
   Es kocht die Eifersucht  
   
--  
+----  
   
 Перевод: Ревность  
   

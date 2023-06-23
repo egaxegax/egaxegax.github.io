@@ -45,7 +45,7 @@ The Hurting (1983)
   I ask for more and more,  
   How can I be sure?  
   
--  
+----  
   
 Text:  How can I be sure?  
   When your intrusion is my illusion  

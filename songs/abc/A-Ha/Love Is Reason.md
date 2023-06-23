@@ -36,7 +36,7 @@ Intro:  ***Em F G***
   Love is reason  
   Love is reason enough  
   
--  
+----  
   
     ***d d***  
   ***E- | F G   |   E- | F G |   E- | F G |  C | F7+ | D-7 | D-7/G***  

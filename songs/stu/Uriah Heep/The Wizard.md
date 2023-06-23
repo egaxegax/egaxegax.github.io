@@ -94,7 +94,7 @@ DEMONS AND WIZARDS (1972)
   And a million silver stars  
   That guide me with their light  
   
--  
+----  
   
   *Gtr I ([E A D G]) - 'Bass Guitar'*  
   *Intro*  

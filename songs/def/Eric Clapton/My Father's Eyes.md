@@ -170,7 +170,7 @@ FILL 2:    vibr...........
   
   *Enjoy*  
   
--  
+----  
   
   *Key: E*  
   *Tempo: 92 bpm*  

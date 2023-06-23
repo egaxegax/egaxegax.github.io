@@ -46,7 +46,7 @@ define:  ***F#o*** base-fret 2 frets [0 1 2 0 2 0]
   I'm so glad you came here, it won't be the same now when I'm with you  
   ***C7***  
   
--  
+----  
   
   *Text:*  
   

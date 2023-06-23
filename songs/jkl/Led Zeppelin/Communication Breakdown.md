@@ -36,7 +36,7 @@ Verse:  Hey, Girl,  I got something I think you ought to
   Communications Breakdown  
   Communications Breakdown  
   
--  
+----  
   
 Text:  Hey, girl, stop what you're doin'!  
   Hey, girl, you'll drive me to ruin.  

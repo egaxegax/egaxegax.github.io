@@ -65,7 +65,7 @@ GUITAR SOLOS: ***Em C B7 Am Em C B7 Am*** } x2
   ***Em       G        A***  
   AY, AY, AY, AY - WHERE DO WE GO NOW?......etc  
   
--  
+----  
   
   *Tune down half step*  
   
@@ -118,7 +118,7 @@ Chorus:       ***A                
   *solo (Crybaby). I think Izzy just has distortion. Oh yeah, they probably*  
   *have a bit of chorus for the backing behind the verses.*  
   
--  
+----  
   
   *This solo took me about 28 hours in all to tab, and hopefully now I have*  
   *got the tab note perfect or at least very close to it. Seeing as I spent*  

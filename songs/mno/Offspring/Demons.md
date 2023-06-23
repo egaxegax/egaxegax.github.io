@@ -64,7 +64,7 @@ The Offspring (1989)
   
   *Play solo and intro2 again and let the nice end ring long and properly!*  
   
--  
+----  
   
 Text:  Clouds pass over the moon  
   Like an eye that shows impending doom  

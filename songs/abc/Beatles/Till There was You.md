@@ -104,7 +104,7 @@ Intro:  [-1-----|-----------|-------|------
   |-3-4--|   |------|  |-3----|  |------|   |------|  |-34---|  
    ***C7 (1)     C7 (2)       C         E         C#        F7+***  
   
--  
+----  
   
 Text:  There were bells on a hill  
   But I never heard them ringing  

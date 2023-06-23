@@ -56,7 +56,7 @@ Solo:  | ***D  A*** | ***Bm G*** | ***Em*** | ***Asus4**
   
   *End on ***D***.*  
   
--  
+----  
   
   ***D***He kinda shoulda ***G***sorta woulda ***A***loved her if he ***A***coulda.  
   ***D***This story's ***G***getting very near ***A***the end. ***A***  

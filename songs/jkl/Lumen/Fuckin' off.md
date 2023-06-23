@@ -3,7 +3,7 @@ Fuckin' off
   
   ***Am G F E***  
   
--  
+----  
   
              ***Am***  
   Когда у всех make up,  

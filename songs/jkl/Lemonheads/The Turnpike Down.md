@@ -38,7 +38,7 @@ Ending:  | ***Dsus4/sus2*** | ***G6/B*** | ***Am7*** | ***C***
   
   *End on ***Em***.*  
   
--  
+----  
   
 Text:  I'm lost and the see-through  
   Pane always needs a bath  

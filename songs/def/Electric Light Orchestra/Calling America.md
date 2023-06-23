@@ -59,7 +59,7 @@ CHORUS:  Calling America (can't get a message through)
   Calling America, Calling America  
   Calling America, Calling America...  
   
--  
+----  
   
 Text:  (Somebody...)  
   Told her that there was a place like heaven  

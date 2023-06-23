@@ -64,7 +64,7 @@ Angels Fall First (1997), From Wishes To Eternity - Live (20
   However cruel the mirrors of sin  
   Remember beauty is found within  
   
--  
+----  
   
   *Bass*  
   *speed gets faster on start and slower on bar 126*  
@@ -369,7 +369,7 @@ Angels Fall First (1997), From Wishes To Eternity - Live (20
   ------------------||  
   ------------------||]  
   
--  
+----  
   
 Text:  Beauty and the Beast  
   
@@ -412,7 +412,7 @@ Text:  Beauty and the Beast
   
   ...Forever shall the wolf in me desire the sheep in you...  
   
--  
+----  
   
 Перевод: "Красавица и чудовище"  
   
@@ -455,7 +455,7 @@ Text:  Beauty and the Beast
   
   ...Всегда будет волк, что во мне, желать твоего агнца...  
   
--  
+----  
   
 Перевод: Красавица и Чудовище  
   
@@ -491,7 +491,7 @@ Text:  Beauty and the Beast
   
   ...И Навсегда Во мне Есть Волк, а в Вас Живет Овца...  
   
--  
+----  
   
   *Guitar 1.*  
   *speed gets faster on start and slower on bar 126*  
@@ -818,7 +818,7 @@ Text:  Beauty and the Beast
   ------------------||  
   ------------------||]  
   
--  
+----  
   
   *Guitar 2.*  
   *speed gets faster on start and slower on bar 126*  
@@ -1264,7 +1264,7 @@ Text:  Beauty and the Beast
   ------------------|------------------||  
   ------------------|------------------||]  
   
--  
+----  
   
   *Keyboard 2.*  
   *speed gets faster on start and slower on bar 126*  

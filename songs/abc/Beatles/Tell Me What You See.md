@@ -54,7 +54,7 @@ Riff 2:  e|-----------------------
   
   *Cчacтливo! :-)*  
   
--  
+----  
   
 Text:  If you let me take your heart I will prove to you,  
   We will never be apart if I'm part of you.  

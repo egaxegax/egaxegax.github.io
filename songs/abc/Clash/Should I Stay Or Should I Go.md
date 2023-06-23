@@ -65,7 +65,7 @@ Should I Stay Or Should I Go
   So you gotta let me know  
   Should I stay or should I go  
   
--  
+----  
   
   ***D  G  D   D  G  D***  
   ***D  G  D   D  G  D***  

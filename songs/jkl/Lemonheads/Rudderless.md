@@ -64,7 +64,7 @@ Rudderless
     ***Bm             C#m         D                            E***  
   rudder's like a ship without a rudder's like a ship without a rudder.  
   
--  
+----  
   
 Text:  Waiting for something to break  
   Left my heart out to bake  

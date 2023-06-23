@@ -86,7 +86,7 @@ Made In Heaven 1995
     ***F#***  
   Oooh - it' a bliss.  
   
--  
+----  
   
 Text:  It's Winter-fall  
   Red skies are gleeming - oh -  

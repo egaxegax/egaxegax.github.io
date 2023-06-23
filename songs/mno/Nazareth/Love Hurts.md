@@ -39,7 +39,7 @@ Intro:  ***G FCG GFCG***
     ***G    F        C         G***  
   Love Hurts ooooOOOOOOOooo love hurts  
   
--  
+----  
   
 Перевод: Любовь - это боль  
   

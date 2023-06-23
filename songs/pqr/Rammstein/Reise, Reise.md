@@ -12,7 +12,7 @@ RIFF 2:  D|-2-66--222--677--222-677--454---------
   A|-2-66--222--677--222-677--454---------  
   E|-0-44--000--455--000-455--232--------  
   
--  
+----  
   
 tuning:  ***C***-***G***-***C***-***F***-***A***-***D***  
   
@@ -40,7 +40,7 @@ tuning:  ***C***-***G***-***C***-***F***-***A***-***D***
   
   *from teppie*  
   
--  
+----  
   
   *Que pedo pues esta bien facil y chingona aprendencela no mamen*  
   *afinen en DO si no quiren que no suene nada parecido.*  
@@ -77,7 +77,7 @@ tuning:  ***C***-***G***-***C***-***F***-***A***-***D***
   
   ich komm wieder in zehn tagen als dein schatten und werd dich jagen  
   
--  
+----  
   
   *Drop D tuning*  
   
@@ -141,7 +141,7 @@ Main Riff: 2: 59
   
   *...*  
   
--  
+----  
   
 Intro:  ***C#m | E   | G#m | F#m***  
   ***C#m | C#m | H   | H***  
@@ -179,7 +179,7 @@ Intro:  ***C#m | E   | G#m | F#m***
   In ihrem Herzen steckt ein Speer  
   Bluten sich am Ufer leer  
   
--  
+----  
   
 Text:  Auch auf den Wellen wird gefochten  
   Wo Fisch und Fleisch zur See geflochten  
@@ -220,7 +220,7 @@ Text:  Auch auf den Wellen wird gefochten
   In ihrem Herzen steckt ein Speer  
   Bluten sich am Ufer leer  
   
--  
+----  
   
 Text:  Auf den Wellen wird gefochten  
   Wo Fisch und Fleisch zur See geflochten  
@@ -269,7 +269,7 @@ Text:  Auf den Wellen wird gefochten
   Bluten sich am Ufer leer  
   Bluten sich am Ufer leer  
   
--  
+----  
   
 English: Arise, arise  
   
@@ -312,7 +312,7 @@ English: Arise, arise
   In their heart a spear is lodged  
   They bleed themselves dry on the shore  
   
--  
+----  
   
 Перевод: "Иди, иди"  
   

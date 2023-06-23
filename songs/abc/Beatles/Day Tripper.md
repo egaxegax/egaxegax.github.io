@@ -31,7 +31,7 @@ Day Tripper
   She was a day tripper, Sunday driver, yeah  
   It took me so long to find out, and I found out  
   
--  
+----  
   
   Got a good reason for taking the easy way out  
   Got a good reason for taking the easy way out now  

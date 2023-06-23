@@ -26,7 +26,7 @@ intro:  ***C G***(барре) ***Dm F***
   And hear how she sings  
   Hear how she sings...  
   
--  
+----  
   
   *Velvet was orignaly written by Paul Vaakter, when he was working with is own*  
   *group, Savoy, so tribs to this song should be to him. Aha did a reunion album a)*  

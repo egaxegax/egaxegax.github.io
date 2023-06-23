@@ -65,7 +65,7 @@ Angels Fall First (1997)
   E:-0-0-0...----------0-0-0...----------------------------0-0-0...------------0-|]  
      p.m. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
   
--  
+----  
   
 Text:  Nymphomaniac Fantasia  
   
@@ -88,7 +88,7 @@ Text:  Nymphomaniac Fantasia
   Old love lies deep you said  
   Deeper shall be the wound between your legs  
   
--  
+----  
   
 Перевод: Запах женщины не был моим,  
   Добро пожаловать, милый, домой,  
@@ -108,7 +108,7 @@ Text:  Nymphomaniac Fantasia
   Ты говоришь, что старая любовь скрыта глубоко,  
   Глубже "раны" между твоих ног.  
   
--  
+----  
   
 Перевод: Нимфоническая Фантазия  
   

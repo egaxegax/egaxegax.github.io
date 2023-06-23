@@ -33,7 +33,7 @@ Sheer Heart Attack 1974
   |-----4---2------------------------0---0---0---0---------5-------|  
   D-------------4---5---4---2----------------------5-4-2-------0---|]  
   
--  
+----  
   
 Text:  So dear friends your love has gone  
   Only tears to dwell upon  

@@ -36,7 +36,7 @@ With You
   F#|---5---5---8---3----------------------|  
   B |---5---0---8---3----------------------|]  
   
--  
+----  
   
   *Guitar Tuning: C, G, C, F, A, D (low to high)*  
   *Key:*  
@@ -65,7 +65,7 @@ With You
   G ---0--------------2-------------3--------------5--  
   C ------------------0----------------------------3--]  
   
--  
+----  
   
 Text:  I woke up in a dream today  
   To the cold of the static and put my cold feet on the floor  

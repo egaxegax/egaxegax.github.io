@@ -40,7 +40,7 @@ All things must pass
   ***A  /  E  /  A  /  E  /  F#m  /  E  /  F#m  /  E  /  F#m  /  E  /***  
   ***A  /  E  /  A  /  E  /***  
   
--  
+----  
   
   ***A E A E F#m7 E F#m7 F#m7 E A E A E***  
   
@@ -87,7 +87,7 @@ CHORUS:  Apple scruffs, Apple scruffs
   *NOTE: Basically exactly the same as the previous posting, but a few*  
   *fancier versions of chords.*  
   
--  
+----  
   
 Text:  Now I've watched you sitting there  
   Seen the passers-by all stare  

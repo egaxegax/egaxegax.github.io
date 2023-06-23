@@ -44,7 +44,7 @@ Intro riff: [------------------------------|-----------------------------
   ***G                  Bm              A***  
   People's knees and trunks of trees smile at me.  
   
--  
+----  
   
 Text:  She takes me on a rocking stroll  
   If you won't wave guess I won't know  

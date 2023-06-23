@@ -81,7 +81,7 @@ CHORUS:  Little by little
   
 OUTRO:  ***Dsus2*** - ***Dsus2/C***  
   
--  
+----  
   
 Text:  We the people fight for our existence  
   We don't claim to be perfect but we're free  

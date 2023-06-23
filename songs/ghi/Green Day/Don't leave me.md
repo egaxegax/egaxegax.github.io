@@ -6,7 +6,7 @@ Don't leave me
   ***A     F#***  
     ***e b    b a#***  
   
--  
+----  
   
   [e--------------------|]  
   *[B--------------------|] repeat a few times, this is the main riff*  
@@ -26,7 +26,7 @@ Don't leave me
   *be played in quick succession...*  
   *The opening part takes some getting used to...*  
   
--  
+----  
   
 Intro:  [--------------  
   --------------  
@@ -49,7 +49,7 @@ Chorus:  [--0-----0-----2-----2-------
   *Ta Dah This is the whole song.*  
   *Really tricky.*  
   
--  
+----  
   
 Lyrics:  I'll go for miles  
   Till I find you  

@@ -100,7 +100,7 @@ Song structure: Intro
   Outro       (03:30)  
   *A correction of my previous tab.*  
   
--  
+----  
   
       *Verse                                              Chorus*  
   [G---------------------------------------------------|-------------------|  
@@ -113,7 +113,7 @@ Song structure: Intro
   A---------------------------------------------------------------|-------|  
   D------7--------5--------4--------5--------2--------7--------5--|-------|]  
   
--  
+----  
   
   *Drop ***D*** Tuning*  
   |-e-|  
@@ -145,7 +145,7 @@ Song structure: Intro
   
   *...solo coming soon...*  
   
--  
+----  
   
   *Бас*  
   
@@ -155,7 +155,7 @@ Song structure: Intro
   -----------------  
   -0-2-3-2-0-2-3-2-]  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -211,7 +211,7 @@ Song structure: Intro
   *(3:14) - EXTENDED CHORUS LINE*  
   *(3:29) - OUTRO*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -250,7 +250,7 @@ Song structure: Intro
   *Outro } x2*  
   *Rest till end*  
   
--  
+----  
   
 Text:  Du auf dem Schulhof  
   ich zum Toten bereit  
@@ -291,7 +291,7 @@ Text:  Du auf dem Schulhof
   ich bin ein trauriger Gigolo  
   dein weisses Fleisch erleuchtet mich  
   
--  
+----  
   
 Перевод: Белая плоть  
   

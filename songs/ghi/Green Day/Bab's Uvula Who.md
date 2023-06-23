@@ -49,14 +49,14 @@ Verse:  Chip on my shoulder and a leech on my back.
   ***A   C***  
   I slipped a gear and l get myself all wound up.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
   ***B A F#***  
   ***B B B A E B***  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

@@ -18,7 +18,7 @@ Bridge:  ***A***You're asking ***C#m***me will my love ***F#m***
   ***D***Something in the things she ***G***shows me, I ***Am***don't want to leave her ***G#+***now  
   You ***C/G***know I believe in ***D***how   ***F   Eb    G   C***  
   
--  
+----  
   
 Text:  Something in the way she moves  
   Attracts me like no other lover  

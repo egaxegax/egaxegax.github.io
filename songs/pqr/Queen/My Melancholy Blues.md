@@ -74,7 +74,7 @@ News Of The World 1977
     ***[244252]          Gdim                 A/F# Gdim [x0x213 x2x442] E***  
   So come into my enclosure     and meet my  melancholy blues  
   
--  
+----  
   
 Text:  Another party's over -  
   And I'm left cold sober -  

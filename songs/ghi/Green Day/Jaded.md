@@ -41,7 +41,7 @@ Verse:  I found my place in nowhere,
   ***G A D***  
   Blessed into our extinction.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -49,7 +49,7 @@ Verse:  I found my place in nowhere,
   ***D A***  
   ***D E***  
   
--  
+----  
   
   *Also mostly power chords and tuned down half a step.*  
   
@@ -85,7 +85,7 @@ Verse2:  I'm taking one step sideways
   *Bridge*  
   *Chorus*  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

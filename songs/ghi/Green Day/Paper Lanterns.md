@@ -40,7 +40,7 @@ Paper Lanterns
   *Then go back to the first part again. It is also played under Billy*  
   *Joe's solo.*  
   
--  
+----  
   
 INTRO:  ***A G-G D-D A-A*** all barre chords  
   

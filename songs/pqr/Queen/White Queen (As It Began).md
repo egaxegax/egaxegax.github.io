@@ -169,7 +169,7 @@ Lyrics:  So sad her eyes smiling dark eyes
   Dear friend goodbye  
   No tears in my eyes  
   
--  
+----  
   
 Text:  So sad her eyes smiling dark eyes  
   So sad her eyes as it began  

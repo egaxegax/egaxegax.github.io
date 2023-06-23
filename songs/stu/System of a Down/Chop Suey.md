@@ -116,7 +116,7 @@ Chorus:  (with other guitar doing the tremlo picking from in
   In my self righteous suicide,  
   I, cry, when angels deserve to die.  
   
--  
+----  
   
   *Intro (acoustic guitar)*  
   |---------------------------------------|  
@@ -176,7 +176,7 @@ Chorus:  (with other guitar doing the tremlo picking from in
   |-------------------------------------------------------------------------|  
     *================PM================*  
   
--  
+----  
   
 Intro:  ***Am G Em F***  
   
@@ -240,7 +240,7 @@ Intro:  ***Am G Em F***
   In my self-righteous suicide  
   I, cry, when angels deserve to die  
   
--  
+----  
   
 Перевод: Проснись!  
   Нарисуешь кистью себе (маску),  

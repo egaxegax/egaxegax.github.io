@@ -83,7 +83,7 @@ Part III: (bridge)
 (I)  ***D           Bm7              F#m7    D  F#m7    D  F#m7  A7  D***  
   So I sing a song of love for Ju---li-a, Ju---li-a, Ju-----li-a  
   
--  
+----  
   
   *You'll need a capo for this one on the 1st or 2nd fret.*  
   

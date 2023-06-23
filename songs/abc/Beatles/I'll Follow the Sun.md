@@ -24,7 +24,7 @@ I'll Follow the Sun
     ***D          Bm     E7     A7         D***  
   But tomorrow may rain so, I'll follow the sun  
   
--  
+----  
   
   ***C F C***  
   

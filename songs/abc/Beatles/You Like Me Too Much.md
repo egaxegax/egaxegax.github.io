@@ -108,7 +108,7 @@ Refren:  I really do
   
   *Have Fun!*  
   
--  
+----  
   
 Text:  Though you've gone away this morning,  
   You'll be back again tonight,  

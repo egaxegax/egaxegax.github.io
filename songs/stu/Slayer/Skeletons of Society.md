@@ -18,7 +18,7 @@ Skeletons of Society
   Ab------------------7-7--  
   Eb-4-4-4-4-4--4-4-4-5-5--]  
   
--  
+----  
   
   *This is a bit rough, but see what you think.*  
   *Tune down to ***Eb*** (half a step)*  

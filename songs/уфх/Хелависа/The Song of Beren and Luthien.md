@@ -98,7 +98,7 @@ Running to Paradise (1996)
   And long ago they passed away  
   In the forest singing sorrowless.  
   
--  
+----  
   
 Перевод: Бaллaдa o Бepeнe и Лютиэн  
   *(Дж. P. P. Тoлкин, пep. И. Гpиншпyнa)*  

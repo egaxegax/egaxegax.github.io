@@ -346,7 +346,7 @@ lyrics:  You say you love me
   It's late it's late it's late it's late  
   It's late it's late  
   
--  
+----  
   
 Text:  
   *Scene 1*  

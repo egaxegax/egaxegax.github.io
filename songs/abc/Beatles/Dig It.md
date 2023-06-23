@@ -19,7 +19,7 @@
   Dig it...  
   *(fade)*  
   
--  
+----  
   
   Like a rolling stone  
   A like a rolling stone  

@@ -79,7 +79,7 @@ Hey Jude
   -3-    -3-      -3-    -3-   -0-    -5-   -3-   -x-    -3-     -3-  
   ---    ---      ---    -1-   ---    -3-   -0-   -1-    ---     ---]  
   
--  
+----  
   
   ***F                     C              C7sus4   C7      F***  
   Hey Jude dont make it bad take a sad song and make it better  
@@ -109,7 +109,7 @@ Hey Jude
   on your shoulders  
   Da da da da  Da da da da  Da  
   
--  
+----  
   
   Hey Jude, don't make it bad.  
   Take a sad song and make it better.  

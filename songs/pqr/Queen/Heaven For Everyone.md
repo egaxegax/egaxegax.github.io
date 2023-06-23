@@ -162,7 +162,7 @@ Made In Heaven 1995
   ***G     [320033]***  
   ***G/B   [x20033]***  
   
--  
+----  
   
 Text:  This could be heaven, this could be heaven  
   This could be heaven for everyone  

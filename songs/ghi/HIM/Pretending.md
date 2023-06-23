@@ -42,7 +42,7 @@ Chorus:  So keep on Pretending.
   
   *Chorus*  
   
--  
+----  
   
 Text:  Love is a flame that can't be tamed  
   And though we are its willing prey,  
@@ -79,7 +79,7 @@ chorus:  So keep on pretending
   My darling  
   We are not the ones to blame  
   
--  
+----  
   
 Перевод: Притворись  
   

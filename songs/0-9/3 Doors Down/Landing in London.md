@@ -55,7 +55,7 @@ When it's all too much to bear
 *Repeat Chorus 2*  
 *Repeat non-tabbed picking intro for outro*  
   
--  
+----  
   
 ***Em                 G***  
 Verse 1: I woke up today in London  

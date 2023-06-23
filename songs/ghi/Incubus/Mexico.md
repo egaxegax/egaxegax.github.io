@@ -12,7 +12,7 @@ Mexico
   
   *When repeating it second time it must be played without second part of this tab.*  
   
--  
+----  
   
   *Tuning: [EADGBE] (STANDARD)*  
   

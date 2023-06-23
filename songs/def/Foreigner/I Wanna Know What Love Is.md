@@ -96,7 +96,7 @@ Agent Provocateur (1985)
     ***Dm    C***  
   I know you can show ...  
   
--  
+----  
   
   *INTRO: ***Em ' ' D | G ' ' ' | C ' | Em ' ' ' ||****  
   *VERSES: Play Intro 2x*  

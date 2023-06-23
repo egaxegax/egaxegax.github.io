@@ -76,7 +76,7 @@
   
   *Have a FUN*  
   
--  
+----  
   
   *Tuning: [C-G-C-F-A-D]*  
   
@@ -147,7 +147,7 @@ Bridge:  D|---------------------------------------------------|
   
   *Thats all. Nice song. Enjoy.*  
   
--  
+----  
   
   *All song palm muted with Distortion (or Metal Zone) effect, except interlude*  
   *(almost clean). Listen to the song for the right timing.*  
@@ -189,7 +189,7 @@ Riff:  e|---------------------------------|
   A|-3-3-3-6-6-6-3-3-3-3-3-3-6-6-3-3-|  
   E|-3-3-3-4-4-4-3-3-3-1-1-1-6-6-1-1-|]  
   
--  
+----  
   
   *[F|-----------------](Bass)[-|]*  
   [C|------------------------|  

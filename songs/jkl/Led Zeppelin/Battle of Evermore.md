@@ -20,7 +20,7 @@ Battle of Evermore
   *correctly.*  
   *I hope this helps at least a little...*  
   
--  
+----  
   
   *Time signature = 4/4*  
   *Tempo = 146*  

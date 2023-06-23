@@ -100,7 +100,7 @@ Jazz 1978
   
   *Note: many 'pull off' and 'hammer on' notations were not signed...*  
   
--  
+----  
   
 Text:  Fool always jumping never happy where you land  
   Fool got my bus'ness make your living where you can  

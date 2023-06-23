@@ -19,7 +19,7 @@ Solo:  3|---------9-9-9-9
   
   *play that whole thing 2x, then play the end of the chorus*  
   
--  
+----  
   
   *For "Frances Farmer": Again, just a guess... all power chrods on*  
   *this one. For the chorus, I think it's ***C#***-***E***-***D***-***Bb***. Like this:*  

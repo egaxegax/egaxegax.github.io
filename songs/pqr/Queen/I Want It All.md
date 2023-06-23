@@ -63,7 +63,7 @@ The Miracle 1989
     ***Bm             G              A                  Bm     A***  
   I want it all, I want it all, I want it all, and I want it now.  
   
--  
+----  
   
   |----------7----7---------------10p7h10p7--------------|  
   |-10b12v-----10---10-7-10p7h10p7---------10p7-10b12v---|  
@@ -198,7 +198,7 @@ The Miracle 1989
   |---------------------------------14--14--------|  
   |-----------------------------------------------|  
   
--  
+----  
   
 Text:  Adventure seeker on an empty street,  
   Just an alley creeper, light on his feet  

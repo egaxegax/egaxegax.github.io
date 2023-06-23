@@ -64,7 +64,7 @@ CHORUS:  I am in love with a McDonalds girl
   
   *CHORUS*  
   
--  
+----  
   
   *just thought i'd drop a line to make a minor correction. in "McDonalds*  
   *Girl" the progression is ***D***-***G***-***A***, not ***D***-***A***-***G***. i have a live performance*  

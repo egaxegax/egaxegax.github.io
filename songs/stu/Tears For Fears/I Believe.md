@@ -49,7 +49,7 @@ Intro:  [--------3-------------------------------------0--------------------
   
   *(End with intro)*  
   
--  
+----  
   
 Text:  I believe that when the hurting and the pain has gone  
   We will be strong, Oh yes we will be strong  

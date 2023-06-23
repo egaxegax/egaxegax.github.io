@@ -76,7 +76,7 @@ Song structure: Main Riff        (00:11)
   Chorus x4        (02:58)  
   Outro            (03:28)  
   
--  
+----  
   
   
   
@@ -140,7 +140,7 @@ Song structure: Main Riff        (00:11)
   
   *thats it. very easy but cool song*  
   
--  
+----  
   
 Tuning:  DADGBE (From Low To High)  
   
@@ -225,7 +225,7 @@ Tuning:  DADGBE (From Low To High)
   *Chorus 2*  
   *Outro*  
   
--  
+----  
   
   *It is a nice song. I like it very much.*  
   
@@ -262,7 +262,7 @@ Tuning:  DADGBE (From Low To High)
   A:--7-7--7--7--7--7--7--7--9--9--9--9--9--9--9--9-------------|  
   E:-5----5-----5-----5------7-----7-----7------7------------------]  
   
--  
+----  
   
   *This is one of the BEST Rammstein song EVER!*  
   *And this tab is 100% CORRECT!!!!*  
@@ -348,7 +348,7 @@ Riff 3:  [--------------------------------------
   *Riff 3,____x4*  
   *Ending (outro).*  
   
--  
+----  
   
   *BASS*  
   
@@ -376,7 +376,7 @@ Riff 3:  [--------------------------------------
   *are hearing are (once again) keyboards. The guitars play one solid sound and end*  
   *the 4th measure with that little lick there ([5-5-5-3-3-3-0-0]).*  
   
--  
+----  
   
   *BASS*  
   
@@ -413,7 +413,7 @@ Riff 3:  [--------------------------------------
   ----------------------------------------------------  
   -88-55-77-0-88-1010-77-0-88-55-77-0-88-1010-77-0----]  
   
--  
+----  
   
   *BASS*  
   
@@ -453,7 +453,7 @@ Chorus:  G|--------------------------
   *This tab is correct play it with the song and you will see.*  
   *And Till, it is correct just use more than one string. It's easier.*  
   
--  
+----  
   
 Bass:  [-------------------------  
   -------------------------  
@@ -475,7 +475,7 @@ Bass:  [-------------------------
   ------------------------  
   -555-222-444-0h---------]  
   
--  
+----  
   
   *tabbed in standard tuning on a 5 string bass. I used a flanger pedal,*  
   *and messed around w/ it for a little bit, and this sounds almost dead-on so this*  
@@ -500,7 +500,7 @@ Bass:  [-------------------------
   *first tab so it may not seem like much but try it out itz alot of fun to play.*  
   *just listen to the song to see wut riffs go where. enjoy!*  
   
--  
+----  
   
   *Tuning: Standard*  
   
@@ -546,7 +546,7 @@ Bass:  [-------------------------
   A|---3-----3------3-----3-----3-|X2  
   E|-0---0-0------0---0-0---0-0---|X2]  
   
--  
+----  
   
 Text:  Ich will dass ihr mir vertraut  
   Ich will dass ihr mir glaubt  
@@ -588,7 +588,7 @@ Text:  Ich will dass ihr mir vertraut
   Konnt ihr uns fuhlen  
   Wir verstehen euch nicht  
   
--  
+----  
   
 Перевод: Я хочу  
   

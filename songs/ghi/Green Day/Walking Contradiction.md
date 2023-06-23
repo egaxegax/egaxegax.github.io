@@ -9,7 +9,7 @@
   E-5-55-------3-3-2-1-0]  
   *THAT'S ALL AND IT'S REALLY DAMN EASY*  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -18,7 +18,7 @@
   ***D G A***  
   ***A D G F# E***  
   
--  
+----  
   
 Intro:  ***B B(PM)***...  
   
@@ -67,7 +67,7 @@ Chorus:  I have no belief.
   ***E  D A***  
   And, l ain't got no right.  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

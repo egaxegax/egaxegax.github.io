@@ -51,7 +51,7 @@ CHORUS:           ***C            
   
   *CHORUS*  
   
--  
+----  
   
   I am he as you are he as you are me and we are all together.  
   See how they run like pigs from a gun, see how they fly.  

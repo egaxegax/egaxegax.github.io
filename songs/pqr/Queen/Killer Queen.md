@@ -134,7 +134,7 @@ Sheer Heart Attack 1974
   |------------------...|  
   |------------------...|  
   
--  
+----  
   
 Text:  She keeps Moet et Chandon  
   In her pretty cabinet  

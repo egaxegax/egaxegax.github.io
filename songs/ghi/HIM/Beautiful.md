@@ -29,7 +29,7 @@ Beautiful
   ***Em***  
   O-e  
   
--  
+----  
   
 Вcтyплeниe: ***Cm#***  
   

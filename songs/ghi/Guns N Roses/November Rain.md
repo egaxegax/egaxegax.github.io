@@ -85,7 +85,7 @@ Intro:  ***E   Abm/Eb   C#m   B***
   'Cause nothin' lasts forever  
   Even cold November rain  
   
--  
+----  
   
   ***Fmaj7                  Dm9                       C      Csus4  C***  
   When I look in to your eyes i can see a love restrained  
@@ -293,7 +293,7 @@ Intro:  ***E   Abm/Eb   C#m   B***
   *b  =  bend*  
   *r  =  release*  
   
--  
+----  
   
   *In order to play this song you must drop all strings a 1/2 step.*  
   *Also listen to the song to find where to enter.*  

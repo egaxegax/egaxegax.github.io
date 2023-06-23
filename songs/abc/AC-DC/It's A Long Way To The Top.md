@@ -41,7 +41,7 @@ Chorus:  It's a ***A***long way to the ***G***top if you w
   It's a ***G***long way to the ***D***top if you wanna to rock 'n' ***A***roll } x4  
   It's a long way    Repeat & ad-lib  
   
--  
+----  
   
   *This is an easy song that nobody can seem to figure out how to play*  
   *because it's so far out of tune. I guess you cant really tune a*  

@@ -30,7 +30,7 @@ SOLO:  [E-----15 15 15 15 15 15 ---------18 18 18 18 18�
   
   *OUTRO: LEAVE WITH INTRO RIFF*  
   
--  
+----  
   
   *These are all bar chords.  For each verse, there's two series of sixteen*  
   *3-beat palm mutes.*  

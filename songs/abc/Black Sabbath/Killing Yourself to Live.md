@@ -52,7 +52,7 @@ Sabbath, Bloody Sabbath (1973)
   ---5--5-------||----------------------------------------||]  
   *look out, the main riff is a little tricky*  
   
--  
+----  
   
   *Tune down 1 1/2 steps (C#)*  
   *This is by far my favorite song. The guitar solos are amazing,*  

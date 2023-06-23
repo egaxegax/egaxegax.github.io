@@ -24,7 +24,7 @@ Chorus:  3|---4-3--4^3^0-
   *)*  
   *@@@@@=Smash Guitar*  
   
--  
+----  
   
   *THIS IS A REALLY SIMPLE SONG AND IT'S PRETTY DAMN COOL*  
   [G---------------------------------  

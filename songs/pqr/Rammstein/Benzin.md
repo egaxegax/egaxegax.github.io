@@ -43,7 +43,7 @@
   *Refrain*  
   *Riff*  
   
--  
+----  
   
   *It’s an very easy song (for guitar), just like the others of Rammstein.*  
   
@@ -86,7 +86,7 @@
   *Refrain*  
   *Riff*  
   
--  
+----  
   
   *Bass Tab*  
   
@@ -122,7 +122,7 @@
   *Chorus*  
   *Riff*  
   
--  
+----  
   
   *[d|------------------------------------------](Giris/Intro)[-|]*  
   [A|--------------------------------------------------------|  

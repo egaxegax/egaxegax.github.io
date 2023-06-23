@@ -93,7 +93,7 @@ Orion
   *(6:17)      (6:34)    (6:54)*  
   *...вeчнaя пaмять .. Clifford Burton...*  
   
--  
+----  
   
   *Bass Tabs*  
   

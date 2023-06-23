@@ -58,7 +58,7 @@ A Saucerful Of Secrets (1968), Works (1968-1973) (1983)
   Will he remember the lesson of giving?  
   Set the controls for the heart of the sun  
   
--  
+----  
   
 Text:  Little by little the night turns around  
   Counting the leaves which tremble at dawn  

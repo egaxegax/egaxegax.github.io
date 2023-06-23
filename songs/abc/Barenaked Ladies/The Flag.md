@@ -10,7 +10,7 @@ Gordon (1992 Sire Warner Bros.)
   
   ****Em*** or ***Em7***?  It's your call.*  
   
--  
+----  
   
   ***Dm***  
   The phone rings, it early, it's  

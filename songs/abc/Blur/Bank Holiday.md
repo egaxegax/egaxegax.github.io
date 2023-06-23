@@ -47,7 +47,7 @@ Chorus:  Bank holiday comes six times a year
   
   *Chorus*  
   
--  
+----  
   
 Text:  Grandma has got new dentures  
   To eat the crust on pizza  

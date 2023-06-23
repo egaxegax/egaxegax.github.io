@@ -52,7 +52,7 @@ The Funeral Of Hearts
   When love is a gun  
   Separating me from you  
   
--  
+----  
   
 Перевод: Похороны Сердец  
   

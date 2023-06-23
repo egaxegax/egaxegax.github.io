@@ -75,7 +75,7 @@ Flight of Icarus
   *stop at the ***B*** power chord(let it ring) and then strum*  
   ****F#m*** fast and end with ***A E F#m*** as in the intro.*  
   
--  
+----  
   
 Lyrics:  As the sun breaks, above the ground,  
   An old man stands on the hill,  

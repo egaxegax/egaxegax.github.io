@@ -66,7 +66,7 @@ Riff:                 ***Bb   B***
   And it's not about you joggers  
   Who go round and round and round  
   
--  
+----  
   
   *The ***E*** etc. in this =12th fret (brush up on those barre chords!!)*  
   
@@ -113,7 +113,7 @@ Chorus:  All  the people
   
   *Chorus*  
   
--  
+----  
   
 Text:  Confidence is a preference for the habitual voyeur of what is known as (parklife)  
   And morning soup can be avoided if you take a route straight through what is known as  

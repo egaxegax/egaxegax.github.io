@@ -116,7 +116,7 @@ Verse:  Now my advice for those who die (TAXMAN!)
     *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
--  
+----  
   
 Text:  Let me tell you how it will be  
   There's one for you, nineteen for me  

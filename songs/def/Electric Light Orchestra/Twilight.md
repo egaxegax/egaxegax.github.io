@@ -62,7 +62,7 @@ Solo:  ***C Am Em F***
   Twilight, I only meant to stay awhile  
   Twilight, Twilight, Twilight, Twilight.  
   
--  
+----  
   
 Text:  The visions dancing in my mind  
   The early dawn, the shades of time  

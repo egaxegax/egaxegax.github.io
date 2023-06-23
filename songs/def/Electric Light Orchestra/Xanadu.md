@@ -31,7 +31,7 @@ Chorus:  Xanadu, Xanadu, (now we are here) in Xanadu
   Now that I'm here, now that you're near in Xanadu  
   Now that I'm here, now that you're near in Xanadu, Xanadu  
   
--  
+----  
   
 Text:  A place where nobody dared to go, the love that we came to know  
   They call it Xanadu  

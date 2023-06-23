@@ -51,7 +51,7 @@ Random
 *Play Ending over:*  
 *End with two ***F5***'s ([133xxx])*  
   
--  
+----  
   
 Verse:  |-------------------------  
 |-------------------------  
@@ -90,7 +90,7 @@ Very end: |-------------------------------
   *^*  
 *Let the last chord ring-------|*  
   
--  
+----  
   
 *SONG ORDER*  
 **Drum Intro**  

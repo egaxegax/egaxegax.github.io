@@ -42,7 +42,7 @@ Intro:  ***Am  C  D11  G  E7***
   All thru' your life,  I me mine...  
   By Walrus. Thank you.  
   
--  
+----  
   
 Text:  All thru' the day I me mine, I me mine, I me mine.  
   All thru' the night I me mine, I me mine, I me mine.  

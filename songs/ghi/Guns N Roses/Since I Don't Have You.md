@@ -56,7 +56,7 @@ Intro:  ***G C D G C Cm G Cm Am D***
   I don't have you  
   ***G***  
   
--  
+----  
   
   *With lots a distortion....and a lot of feelin.....*  
   

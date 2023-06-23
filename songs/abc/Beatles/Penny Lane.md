@@ -43,7 +43,7 @@ define:  ***Em7***-[5 1 3 3 0 2 2 3]
   Penny ***G***Lane is in my ears and in ***Bm7***my e***C***yes.  
   ***G***Wet beneath the blue subur***Bm7***ban sk***C***ies.  
   
--  
+----  
   
   *Text:*  
   

@@ -59,7 +59,7 @@ Conspiracy Of One (2000)
   -------------------5-5-5-5-5-5---------|-2-2-2-2/-5-5-5-5/-7-7-7-7/-----------]  
    *Guitar 2 during solo*  
   
--  
+----  
   
 Text:  There was a time, looking through myself  
   Wanting to pretend  

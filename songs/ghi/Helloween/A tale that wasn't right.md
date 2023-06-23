@@ -109,7 +109,7 @@ SOLO:                        ***
   
   *repeat CHORUS and fade out*  
   
--  
+----  
   
 Text:  Here I stand all alone  
   Have my mind turned to stone  
@@ -144,7 +144,7 @@ Text:  Here I stand all alone
   
   *Chorus*  
   
--  
+----  
   
 Перевод: Сказка, которой не было  
   

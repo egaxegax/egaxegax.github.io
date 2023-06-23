@@ -41,7 +41,7 @@
   Through fields of Joy  
   Through fields of Joy  
   
--  
+----  
   
   *Special chords for the middle part:*  
     [EAdgbe]  

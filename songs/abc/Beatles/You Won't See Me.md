@@ -64,7 +64,7 @@ Rubber Soul (1965)
   ***A   B7             D   A***  
   Ooh ooh la la la  ooh ooh la la la  (repeat and fade)  
   
--  
+----  
   
     ***A        E        D         A***  
   When I call you up, your line's engaged.  

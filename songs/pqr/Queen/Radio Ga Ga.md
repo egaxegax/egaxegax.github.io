@@ -55,7 +55,7 @@ Intro:  ***F9 Gm Hb Gm Hb F***
   
   *verse II: the same chords.*  
   
--  
+----  
   
 Text:  I'd sit alone and watch your light  
   My only friend through teenage nights  

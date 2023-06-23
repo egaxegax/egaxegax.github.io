@@ -91,7 +91,7 @@ Key:  p               = pick
   A|-----------------|-----------------|-0-------0--***0***--||  
   E|-2-------2-------|-0---------------|-----------------||  
   
--  
+----  
   
 Text:  I look at you all see the love there that's sleeping  
   While my guitar gently weeps  

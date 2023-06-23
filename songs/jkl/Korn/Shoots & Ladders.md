@@ -98,7 +98,7 @@
   *check out their home page at the Sony site(you can also find it through*  
   *Yahoo).*  
   
--  
+----  
   
 Text:  Ring around the rosy, pocket full of posies  
   Ashes, ashes we all fall down  

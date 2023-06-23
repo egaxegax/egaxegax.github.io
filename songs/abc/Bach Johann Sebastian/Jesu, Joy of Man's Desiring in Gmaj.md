@@ -126,7 +126,7 @@ Jesu, Joy of Man's Desiring in Gmaj
     *^*  
     *this a C# in original, I think C sounds better. (tjl)*  
   
--  
+----  
   
   *I just finished TABing the Bach piece below, and since this is my*  
   *first attempt at TABing, I'm looking for some input (constructive*  
@@ -154,7 +154,7 @@ Jesu, Joy of Man's Desiring in Gmaj
   E|---------------------|---------------------|---------------------|]  
     *Enjoy*  
   
--  
+----  
   
   *Andante (3/4 time)*  
   [e|---------------------------0-----|-----3--2----3-------------------|  

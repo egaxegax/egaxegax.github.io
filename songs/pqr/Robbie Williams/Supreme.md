@@ -70,7 +70,7 @@ Chorus:  When there's no love in town
   Everybody lives for love  
   *Repeat…*  
   
--  
+----  
   
   ***Dm            Bb***  
   Oh it seemed forever stopped today  

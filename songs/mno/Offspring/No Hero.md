@@ -20,7 +20,7 @@ Ignition (1993)
   *Chorus*  
   ***F# C# D***  
   
--  
+----  
   
   *Ok, heres some riff's from the Offspring song "No Hero". They should be*  
   *pretty accurate. I didn't put in any rhythm or anything so you'll have to*  
@@ -52,7 +52,7 @@ Ignition (1993)
   
   *And thats about it.*  
   
--  
+----  
   
   *Kinda hard song from The Offspring. The intro is played very fast and with*  
   *the damped strings in it, it is very hard to play (at least to me!). The*  
@@ -113,7 +113,7 @@ Ignition (1993)
     *__mute_/*  
   *Play bridge2, bridge3, bridge2, intro2, verse, pre-chorus and chorus X2.*  
   
--  
+----  
   
 Text:  Once you said you'd stick to it until the end  
   I guess you lied, they call it suicide  

@@ -138,7 +138,7 @@ The Marshall Mathers LP CD1 (2000)
   ***G#m   E   Eadd9-   E***  
   And in the car they found a tape but it didn't say who it was to Come to think about it... his name was... it was you. DAMN!  
   
--  
+----  
   
   *standard tunning.*  
   
@@ -182,7 +182,7 @@ verse 1: Dear Slim, I wrote you but you still ain't callin
   
   *Lyrics are too long, you can find it on the net.*  
   
--  
+----  
   
   *Text:*  
   
@@ -312,7 +312,7 @@ Eminem:  Dear Stan, I meant to write you sooner but I ju
   Come to think about, his name was.. it was you  
   Damn!  
   
--  
+----  
   
 Перевод: Стэн  
   

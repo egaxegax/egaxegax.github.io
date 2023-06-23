@@ -48,7 +48,7 @@ Hearth Of Steel
   Too hard to break,  
   Too hard to hold.  
   
--  
+----  
   
 Text:  Build a fire a thousand miles away  
   to light my longway home  
@@ -84,7 +84,7 @@ Text:  Build a fire a thousand miles away
   Say what you feel  
   Born with a heart of steel  
   
--  
+----  
   
 Перевод: Стальное Сердце  
   

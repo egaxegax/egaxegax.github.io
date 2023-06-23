@@ -77,7 +77,7 @@ Ignition (1993)
   ***F***  
   Will  
   
--  
+----  
   
   *# start #*  
   [E-------|  
@@ -132,7 +132,7 @@ Ignition (1993)
   A---4-4-4-4--6-6-6-6--3---|  
   E---------------------1---|]  
   
--  
+----  
   
 Text:  I've been told that to get what you want  
   You just gotta give what you can  

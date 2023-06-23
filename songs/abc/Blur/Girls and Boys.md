@@ -41,7 +41,7 @@
   ***GG GG GG GG CC CC CC CC FF FF FF FF D#D# D#D# D#D# F# F***  
   *Could be something like ***Gsus G  Gsus G***, etc.*  
   
--  
+----  
   
 Text:  Street's like a jungle  
   So call the police  

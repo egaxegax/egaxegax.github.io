@@ -134,7 +134,7 @@ Lay Down Sally
   *I take no liability for the health of your left hand playing bass*  
   *and chords together. It works for me.*  
   
--  
+----  
   
   ***A***There is nothing that is wrong in wanting you to stay here with ***D***me  
   I ***A***know you've got somewhere to go but won't you make yourself at home  

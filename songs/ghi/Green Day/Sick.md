@@ -25,7 +25,7 @@ Sick
     \ chords are played  
   *end ***on A5****  
   
--  
+----  
   
 Lyrics:  why can't you  
   just admit that you've had it you're sick of me  

@@ -52,7 +52,7 @@ Verse two: Get some honesty
   
   *(Chorus - repeat to fade)*  
   
--  
+----  
   
 Text:  Here on the stage  
   The time has come  

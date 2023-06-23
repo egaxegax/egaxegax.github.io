@@ -41,7 +41,7 @@ solo/outro: [-----------------------------------------------------------------
   ----------------------  
   ----------------------]  
   
--  
+----  
   
 Text:  Ein kleiner Wunsch, ach wart ihr blind  
   wir sind Opfer boser List  

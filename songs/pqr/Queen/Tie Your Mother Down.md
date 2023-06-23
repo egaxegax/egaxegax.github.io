@@ -86,7 +86,7 @@ A Day At The Races 1976, Live Killers 1977
   
    *On the hammer on/off of the note ***C*** you only need to hit the "***A***" string.*  
   
--  
+----  
   
 Text:  Get your party gown  
   Get your pigtail down  

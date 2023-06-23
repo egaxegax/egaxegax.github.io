@@ -56,7 +56,7 @@ Chorus:  I must insist on being a pesimist
     ***D          A                  E***  
   I'm a loner in a claustrophobic mind  
   
--  
+----  
   
   *(on the import "Teenage Rampage" as well as the 1994 MTV Music Awards)*  
   *This is tabbed by ear but it and the lyrics are pretty close. I had a hard*  
@@ -122,7 +122,7 @@ Chorus #2: Well I'm taking pressure for other pessimists
   ***A                   D                      E***  
   I'm a loner in a claustrophobic mind.  
   
--  
+----  
   
   *Here's a tab for only the truest of Green Day fans. This song is only played*  
   *at concerts,*  
@@ -164,7 +164,7 @@ Chorus #2: Well I'm taking pressure for other pessimists
   *write me. I'm curious how many people have*  
   *heard of this or know where to find it. Thanks.*  
   
--  
+----  
   
   *Intro:***E****  
   *Verses:***A    D    A    D    F#    D    E****  
@@ -180,7 +180,7 @@ Chorus #2: Well I'm taking pressure for other pessimists
   ****E(MAJOR)***:[022100]*  
   *THIS WAS DONE TUNED DOWN HALF A STEP TO ***Eb***!!!*  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -189,7 +189,7 @@ Chorus #2: Well I'm taking pressure for other pessimists
   ***D A E A D A E***  
   ***A F# A F# D E***  
   
--  
+----  
   
 Intro:  ***E(type 2)***  
 Verse:  ***A, D, A, D, F#, D    E***  
@@ -211,7 +211,7 @@ Interlude: ***A, F#, A, F#, D, E(type2)***
     *that chord, but using only the ([0xxxxx])*  
   ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
--  
+----  
   
   *With some additional research, I uncovered this. Here are the real lyrics to*  
   *the song I thought was*  

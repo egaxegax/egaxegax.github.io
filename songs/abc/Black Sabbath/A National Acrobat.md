@@ -76,7 +76,7 @@ Sabbath, Bloody Sabbath (1974)
   -9-10-10-11-11-12-||  
   ------------------||]  
   
--  
+----  
   
   *Tune down 1 1/2 steps (C#)*  
   *fig 1*  

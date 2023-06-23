@@ -31,7 +31,7 @@ Red Morning Light
   A -9-9-9-9-9-9-9-x-7-7-7-x-5-x-4-x-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-x  
   E -7-7-7-7-7-7-7-x-5-5-5-x-3-x-2-x-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-x]  
   
--  
+----  
   
   *Tuning: pretty standard really (thank you dr. evil)*  
   
@@ -54,7 +54,7 @@ Red Morning Light
     ***B                         A           G F# E***  
   'From the black of the night to the red morning light'  
   
--  
+----  
   
   *Ive never seen a correct (or even nearly correct) tab for this so here goes:*  
   
@@ -124,7 +124,7 @@ Red Morning Light
   *Bridge*  
   *Chorus } x2*  
   
--  
+----  
   
   *I didn't find any correct*  
   *tab verision of the solo, soo this is how I think i should bee played..*  
@@ -155,7 +155,7 @@ Red Morning Light
   *br=bend'n'release*  
   *p=pull off*  
   
--  
+----  
   
 intro/verse: [E|-22-0-2-0-2-0-2  
   B|-22-0-2-0-2-0-2  

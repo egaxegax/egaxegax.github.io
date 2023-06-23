@@ -149,7 +149,7 @@
   *Verse 1*  
   *Chorus } X2*  
   
--  
+----  
   
   *TAB Notation:*  
   *Throughout this guide, you may find various symbols coinsiding with the*  

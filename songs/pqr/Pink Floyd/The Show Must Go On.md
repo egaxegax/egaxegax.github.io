@@ -39,7 +39,7 @@ The Wall (1979)
   ***D     C***  
   Ohhhhhhh Ah   The show must go on  
   
--  
+----  
   
 Text:  Oooh ma Oooh pa  
   Must the show go on  

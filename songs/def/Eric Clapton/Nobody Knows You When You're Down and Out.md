@@ -35,7 +35,7 @@
   ****D#7***: [x x 1 3 2 3]  ***E7***: [x x 2 4 3 4]  ***F7***: [x x 3 5 4 5]*  
   ****F7*** (in verses): [x x 1 2 1 1]   ***A7***: [x 0 2 2 2 3]*  
   
--  
+----  
   
   ***C                  E            A7***  
   Once I lived the life of a millionaire  
@@ -71,7 +71,7 @@ Chorus:  Because nobody loves you
   ***C                             G***  
   Nobody knows you, when your down and out.  
   
--  
+----  
   
   *This is a fun easy version of the song, the melody line is a bit*  
   *diferent than the Eric Clapton verson but its easy to catch on to.*  
@@ -130,7 +130,7 @@ End:    ***D7                G7   
   
   *Enjoy!*  
   
--  
+----  
   
   ***C              E7               A7***  
   Once I lived a life of a millionaire,  

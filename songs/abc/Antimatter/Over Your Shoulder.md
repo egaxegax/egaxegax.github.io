@@ -22,7 +22,7 @@ Over Your Shoulder
   Stick it out, there's hope on the horizon  
   - keep from going down.  
   
--  
+----  
   
 Перевод: Оглянись  
   

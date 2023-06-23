@@ -101,7 +101,7 @@ Sheer Heart Attack 1974
   
   *CHORUS REPEAT*  
   
--  
+----  
   
   *Brian actually plays this on an ukele banjo. This is only*  
   *an approximate transcription for guitar. Gotta play it in that*  
@@ -171,7 +171,7 @@ Sheer Heart Attack 1974
   ***C                      B7      C    G7   C***  
   Bring that Leroy Brown back  - want him back.  
   
--  
+----  
   
   *Text:*  
   

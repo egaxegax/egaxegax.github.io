@@ -23,7 +23,7 @@ Ignition 1993
   A|------------7-7-5-5--|----5----------|  
   E|---------------------|-5-----7-7-7-7-|]  
   
--  
+----  
   
 Text:  When cops are taking care of business I can understand  
   But the L. A. story's gone way out of hand  

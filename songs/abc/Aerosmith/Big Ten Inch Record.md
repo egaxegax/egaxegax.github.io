@@ -82,7 +82,7 @@ Toys in the Attic (1975)
   |---4-5-6-7-------|-7---------------|---------7-0-----|  
   |-7---------------|-----------------|-----------------|  
   
--  
+----  
   
   *There's an existing file containing "Big Ten-Inch" bass tab at OLGA*  
   *but nothing for guitar. This post is my best attempt at remedying that*  

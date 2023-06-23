@@ -50,7 +50,7 @@ Smash (1994)
   *That`s it! Figure parts position self...*  
   *Play it with pick and big feeling...*  
   
--  
+----  
   
   *One of the most famous Offspring songs! Very easy to play and sing at the same time.*  
     *m=mute*  
@@ -101,7 +101,7 @@ Smash (1994)
   *Play pre-verse, verse, intro, chorus and end-chorus.*  
   *There it is and it was cool! Right?! Yeah!!!*  
   
--  
+----  
   
 Text:  I wrote her off for the tenth time today  
   And practiced all the things I would say  

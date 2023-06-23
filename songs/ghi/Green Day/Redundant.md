@@ -30,7 +30,7 @@ Chorus:  Now I cannot speak, I lost my voice.
   Now I waste it, faked it, ate it, now I hate it.  
   Now I cannot speak .........  
   
--  
+----  
   
   *TAB Notation:*  
   *Throughout this guide, you may find various symbols coinsiding with the*  

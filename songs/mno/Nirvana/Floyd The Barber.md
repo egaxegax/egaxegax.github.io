@@ -28,7 +28,7 @@ Chorus:  ***C#5 A5 C5 G#5***
   *)*  
   *@@@@@=Smash Guitar*  
   
--  
+----  
   
   ***F#, F***  
   ***D, H, F(VII), A.***

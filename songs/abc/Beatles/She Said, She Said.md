@@ -55,7 +55,7 @@ Intro riff: [E-------------------------
   *On the bit with the guitar riff (between verses) there seem to be a lot of loud*  
   *cymbals - a lot louder than the bulk of the song.*  
   
--  
+----  
   
 Text:  She said I know what it's like to be dead  
   I know what it is to be sad  

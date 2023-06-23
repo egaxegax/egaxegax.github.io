@@ -37,7 +37,7 @@ Nimrod (1997)
   *Outro: ***B5 A5 C5 x4  B5****  
   *Well that's is, pretty easy and pretty cool, eh?*  
   
--  
+----  
   
   *TAB Notation:*  
   *Throughout this guide, you may find various symbols coinsiding with the*  
@@ -92,7 +92,7 @@ Chorus Riff:    ***D#            C#   �
   *Chorus*  
   Shite!  
   
--  
+----  
   
   *Chords:*  
   ****B***: [7-9-9-x-x-x]*  

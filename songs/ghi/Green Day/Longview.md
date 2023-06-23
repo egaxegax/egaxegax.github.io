@@ -31,7 +31,7 @@
     *[\______/]      [H] = HAMMER ON   [\]  = SLIDE TO FRET     [R] = Rest*  
     *[P] = PULL OFF    [\X] = SLIDE TO NOWHERE  [~] = Trill*  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  
@@ -40,7 +40,7 @@
   ***B A E***  
   ***E D***  
   
--  
+----  
   
   ***H5  A5       E5         H5***  
   Bite my lips and close my eyes  

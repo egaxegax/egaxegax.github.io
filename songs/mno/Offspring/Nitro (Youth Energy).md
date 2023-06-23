@@ -50,7 +50,7 @@ Smash (1994)
   */  Slide (pick second note)*  
   *r  Rest (or stacatto note)*  
   
--  
+----  
   
   *This songs intro is kinda fast, but very fun to play. The chorus is changing*  
   *every time so watch out - the rhythm may be hard to find.*  
@@ -118,7 +118,7 @@ Smash (1994)
     E----------|]  
   *That was something fascinating, I think!*  
   
--  
+----  
   
 Text:  Our generation sees the world  
   Not the same as before  

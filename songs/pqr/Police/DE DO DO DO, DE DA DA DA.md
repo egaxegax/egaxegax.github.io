@@ -71,7 +71,7 @@ DE DO DO DO, DE DA DA DA
   *[|=|] = sixteenth notes*  
   *[V]   = big accent           [v] = moderate accent*  
   
--  
+----  
   
   *Play with a staccato feel using the right hand to dampen the strings*  
   

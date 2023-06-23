@@ -125,7 +125,7 @@ verse:  How many special people change
   *acoustic*  
   ***Fmaj7          G          Asus 2***  
   
--  
+----  
   
 Text:  How many special people change  
   How many lives are living strange  

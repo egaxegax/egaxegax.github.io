@@ -4,7 +4,7 @@ Disappearing boy
   ***A  F#  G  D***  
   ***B  C  G***  
   
--  
+----  
   
 Lyrics:  Now you see me, now you don't  
   Don't ask me where I'm at  

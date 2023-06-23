@@ -49,7 +49,7 @@ Second Chorus: All things must pass
   All things must pass away  
   ***E  A/E  E(2) A  E  A/E  E(2) A(2)      E(3)***  
   
--  
+----  
   
 Текст:  Sunrise doesn't last all morning  
   A cloudburst doesn't last all day  

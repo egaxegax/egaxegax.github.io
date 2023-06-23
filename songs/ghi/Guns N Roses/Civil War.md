@@ -38,7 +38,7 @@ Intro:  [     1   2    3  4       
   *is all that I can remember off the top of my head since I haven't*  
   *played this tune for a while.*  
   
--  
+----  
   
 INTRO:  ***Em***  
   ***G***  

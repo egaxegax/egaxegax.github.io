@@ -49,7 +49,7 @@
   Knowing nothing's gonna be the same  
   again  
   
--  
+----  
   
   ***|    |~  |   |   |~--|~ |.  |    |~  |~----|~   |   |  |.***  
   ***F#-9 F#- D4+ D   E | E  E4  F#-9 F#- D4+ | D4+  D   E  E4***  

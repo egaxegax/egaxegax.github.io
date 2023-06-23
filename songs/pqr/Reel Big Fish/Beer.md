@@ -77,7 +77,7 @@ CHORUS:  [e|--------------------|
   
   *ANOTHER IMPROVISED SOLO BASED ON THE ONE ABOVE, AND THEN END ON THE ***Am*** CHORD.*  
   
--  
+----  
   
 chord chart:     ***am f  c  g***  
   [e|--5--1--3--3-  
@@ -165,7 +165,7 @@ intro:  ***am f c g*** } x2
   *x2 under intro riff*  
   *x2 under fill 3, end with ***am****  
   
--  
+----  
   
   *(bass)*  
   

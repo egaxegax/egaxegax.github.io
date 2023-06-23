@@ -35,7 +35,7 @@ Verse:  Would I last forever?
   
   *Chorus*  
   
--  
+----  
   
   ***E  D  A***  
   ***D  A  E  D  A***  
@@ -44,7 +44,7 @@ Verse:  Would I last forever?
   ***A  D  A  D  A  D  A  D  A  D  A***  
   ***A  A  A  A  A  A  A  A  A  A  A***  
   
--  
+----  
   
   *Here is a great green day song that I decided to fix up,*  
   *seeing that some of the other tabs arenXt completely*  

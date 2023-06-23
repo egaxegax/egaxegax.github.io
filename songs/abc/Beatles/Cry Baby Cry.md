@@ -52,7 +52,7 @@ CHORUS:   ***G       Am    F        
   ***Em7***: [022030]  
   ***Em6***: [022020]  
   
--  
+----  
   
   Cry baby cry  
   Make your mother sigh  

@@ -47,7 +47,7 @@ Jazz 1978
   ***Dm      G       C***  
   Ooh so sad alone  
   
--  
+----  
   
   *chords*  
   *Note: this tab is not a real transcription. At several places it is close*  
@@ -138,7 +138,7 @@ Jazz 1978
   |---------2---------------0--------------|  
   |-----------------0----------------------|  
   
--  
+----  
   
 Text:  Monday the start of my holiday  
   Freedom for just one week  

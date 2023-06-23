@@ -38,7 +38,7 @@
       hey, momma, look at me.  
       I'm on my way to the promised land.  
   
--  
+----  
   
   *As has been posted already the main riff goes like:*  
   [E ---------------|----------------|----------------|----------------  
@@ -101,7 +101,7 @@
   *4/6 and 6\4 slide up/down from.. to*  
   *X play muted string*  
   
--  
+----  
   
   *rhythm guitar transcr. tcg, 1994 . . .*  
   *(WARNING!: "amateur version"--no professional tabs consulted)*  

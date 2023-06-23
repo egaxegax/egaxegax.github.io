@@ -65,7 +65,7 @@ Summertime
   ***|   Dm7                   |   Dm7                      |***  
   ***|   Dm6                   |***  
   
--  
+----  
   
   ***E***Summer***Am***time***E***,    ***Am***and the l***E***ivin' is ***Am***easy,***E    Am       E***  
   ***E***Fish are ***Dm***jum***Dsus***pin',  ***Dm***and the cotton is ***E***high.***E7***  
@@ -80,7 +80,7 @@ Summertime
   Oh your daddy's rich, and your ma, she's good lookin',  
   So hush little baby, don't you cry.  
   
--  
+----  
   
 Key:  ***Cm***  
   

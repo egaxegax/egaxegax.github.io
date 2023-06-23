@@ -66,7 +66,7 @@
   so listen up as you bite this  
   *CHORUS.....  "good night"*  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  
@@ -75,7 +75,7 @@
   ***E G D A E G D***  
   ***D C# A D C# G***  
   
--  
+----  
   
   ****A5  G5***  (acoustic)*  
   *chorus:   ***E5  G5  D5  A5****  

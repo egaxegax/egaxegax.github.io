@@ -70,7 +70,7 @@
    'cause love is like a warm gun  
     ***Ab       Ab/G  F                    Eb  Cdim Ab Eb***  
   
--  
+----  
   
   
    "Up in Smoke..."                          "You take a hit..."  

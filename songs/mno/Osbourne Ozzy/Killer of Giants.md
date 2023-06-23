@@ -109,7 +109,7 @@ Killer of Giants
   -0-------------  
   ---------------]  
   
--  
+----  
   
 Text:  If none of us believe in war  
   Then can you tell me what the weapon's for  
@@ -146,7 +146,7 @@ Text:  If none of us believe in war
   Killer of giants  
   Killer of giants  
   
--  
+----  
   
 Перевод: Убийца Гигантов  
   

@@ -40,7 +40,7 @@ Verse:  Drugstore hooligan.
   ***A G A***  
   Hating every minute of his existence.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -48,7 +48,7 @@ Verse:  Drugstore hooligan.
   ***C G A***  
   ***C G C G C G A***  
   
--  
+----  
   
   *I noticed that this song was posted totally wrong so here is the real version.*  
   *This is one of Green Days fastest and most powerful songs to date. If you*  
@@ -94,7 +94,7 @@ Bridge:  ***G#    F#    G#    F# F#***
   
   *There thats it, hope it helps.*  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

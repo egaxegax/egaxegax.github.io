@@ -28,7 +28,7 @@
   ***F7 [xx1211]***  
   ***Abdim7 [456464]***  
   
--  
+----  
   
 Text:  My sweet lord  
   Hm, my lord  

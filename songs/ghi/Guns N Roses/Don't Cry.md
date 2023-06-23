@@ -210,7 +210,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   ***F5        G5     C5***  
   Don't you cry... TONIGHT... ****  
   
--  
+----  
   
   *This is the main guitar line. It, or minor variations of it, repeats*  
   *throughout the song.*  
@@ -228,7 +228,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   *distorted chords in the middle of the song are:*  
   ***C5  G/B  A5  G5  F5  G5  A5***  
   
--  
+----  
   
   *Intro:*  
   ***N.C.    Am       Dm            G              G/B (C)***  
@@ -288,7 +288,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   ------3-------  
   ------0----]  
   
--  
+----  
   
   *Bass:*  
   *Tune half step down:*  
@@ -351,7 +351,7 @@ Verse 3: |------------------------------------------------------------|
   ***F  G  C  B  A  G***  
   ***F  G  F  G  F  G  F  E  F  G  F  G  F  G  C***  
   
--  
+----  
   
 Bass:  |------------| ----------------|----------------|----------------|  
   |------------|*----------------|----------------|----------------|  
@@ -373,7 +373,7 @@ Bass:  |------------| ----------------|----------------|----------------|
   |----------------|----------------|----------------|----------------|  
   |5-------3-------|5---------------|3---------------|5---------------|  
   
--  
+----  
   
 Bass:  |-------------------|  
   |-------------------|  
@@ -470,7 +470,7 @@ Bass:  |-------------------|
   |-3-|  
   |---|  
   
--  
+----  
   
   *Intro: Clean Electric*  
     ***Am            Dm            G***  
@@ -699,7 +699,7 @@ Bass:  |-------------------|
   E|-----------------------------------------------------------------|]  
   *End Riff 1*  
   
--  
+----  
   
 Text:  Talk to me softly  
   There's something in your eyes  
@@ -753,7 +753,7 @@ Text:  Talk to me softly
   Don't you cry  
   Tonight  
   
--  
+----  
   
 Перевод: Не Плачь  
   

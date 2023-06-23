@@ -23,7 +23,7 @@ Smithereens
   and through all the that fear I have to keep  
   I still pretend to be real  
   
--  
+----  
   
 Перевод: Обломки  
   

@@ -104,7 +104,7 @@ Bounce
   Up! Pogo pogo pogo  
   Jump! pogo bounce pogo down pogo up pogo  
   
--  
+----  
   
     *P.M. x4*  
   [C--8-8-7-7-8-8-7-7-8-8-7-7-8-8---|  

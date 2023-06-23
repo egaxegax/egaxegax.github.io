@@ -268,7 +268,7 @@ I Could Have Lied
   -----------------12-10-10-10-10-10-10-10-10----|--2----------------||  
   -----------------10-8--8--8--8--8--8--8--8--3b-|--0----------------||]  
   
--  
+----  
   
   *I'm a pretty lousy guitarist but the earlier two versions made me cry, so*  
   *here's my try:*  
@@ -292,7 +292,7 @@ I Could Have Lied
   *Like pre-chorus with a change: ***B D A G****  
   *The solo part I leave to you...*  
   
--  
+----  
   
   *i put the original posting below but this is what i think the riffs sound like*  
   *h=hammer on*  
@@ -327,7 +327,7 @@ I Could Have Lied
   *so i just fool around in this scale patern (following the pattern down) and*  
   *you can play with the solo.*  
   
--  
+----  
   
   *Ok, here are the riffs that are repeated all over the song. You'll have to*  
   *listen to the record for the timing of tabs and chords.*  

@@ -14,7 +14,7 @@ Like A Rolling Stone
   *Then into the ***C F G*** progression for a few bars before beginning the*  
   *actual song*  
   
--  
+----  
   
   *Here's the first verse. As I'm transferring the stuff from the left part of*  
   *my brain to the right (or is it vice versa?) it's probably a bit flawed:*  

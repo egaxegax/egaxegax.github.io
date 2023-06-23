@@ -61,7 +61,7 @@ Jazz 1978
     *(these chords are not transcribed,*  
     *I just found out something)*  
   
--  
+----  
   
 Text:  I take a step outside  
   And I breathe the air  

@@ -369,7 +369,7 @@ Wishmaster (2000)
   ------------------|-------------------|----||  
   ------------------|--2----------------|----||]  
   
--  
+----  
   
 Text:  Crownless again shall be the queen  
   Trophy on her grave still remains unseen  
@@ -407,7 +407,7 @@ Text:  Crownless again shall be the queen
   стоит всегда помнить это правило и гордиться только  
   тем, что мы действительно заслужили своим упорством.  
   
--  
+----  
   
 Перевод: Лишенный Короны  
   
@@ -436,7 +436,7 @@ Text:  Crownless again shall be the queen
   Отражения Дьявола в белом - это тоже я,  
   Я стану тем чем был - этот прах лишь, земля.  
   
--  
+----  
   
 Перевод: "Опустела гробница -  
   Королева к нам возвратится."  
@@ -466,7 +466,7 @@ Text:  Crownless again shall be the queen
   
   Помнит Земля...  
   
--  
+----  
   
   *Guitar 1.*  
   
@@ -890,7 +890,7 @@ Text:  Crownless again shall be the queen
   ----||  
   ----||]  
   
--  
+----  
   
   *Guitar 2.*  
   
@@ -1286,7 +1286,7 @@ Text:  Crownless again shall be the queen
   ------------------|------------------||  
   ------------------|------------------||]  
   
--  
+----  
   
   *Keyboard 2.*  
   
@@ -1598,7 +1598,7 @@ Text:  Crownless again shall be the queen
   ------------------||  
   ------------------||]  
   
--  
+----  
   
   *Keyboard 1.*  
   

@@ -78,7 +78,7 @@ Ignition (1993)
   |-3-3-3-3-3-3-3-3--5-5-5-5-5-5-5-5---2---|  
   |------------------------------------0-------------------|  
   
--  
+----  
   
 Text:  Things are coming down on me  
   They never seem to let it be  

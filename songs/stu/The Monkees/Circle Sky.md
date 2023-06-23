@@ -18,7 +18,7 @@ opening riff:     ***B  Bb A  Ab G   Gb F  E
   *live version, because Mike is easier to understand*  
   *on that version.*  
   
--  
+----  
   
   ***B Bb A Ab G Gb F E A***  
   ***B Bb A Ab G Gb F E A***  

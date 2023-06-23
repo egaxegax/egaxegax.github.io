@@ -43,7 +43,7 @@ Dear Prudence
   So let me see you smile again  
   Dear Prudence  won't you let me see you smile  
   
--  
+----  
   
   PICKING PATTERN: B+1 3 2 1 B 2 (B= base note 1=high E)  
   
@@ -87,7 +87,7 @@ BRIDGE:         ***D           Dsus4 �
   
   *Repeat verse 1, repeat opening chords(including the first one) + ***D****  
   
--  
+----  
   
   Dear Prudence, won't you come out to play  
   Dear Prudence, greet the brand new day  

@@ -82,7 +82,7 @@ For Whom the Bell Tolls
   Time marches on  
   For Whom the Bell Tolls  
   
--  
+----  
   
   *Chords used:*  
   ***E  F  F# G  A  Bb B  C***  

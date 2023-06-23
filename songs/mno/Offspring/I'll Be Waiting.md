@@ -81,7 +81,7 @@ The Offspring 1989
   |-12-15----------------------------------|  
   |----------------------------------------|  
   
--  
+----  
   
 Text:  Once I had a friend that I could count on  
   So I thought  

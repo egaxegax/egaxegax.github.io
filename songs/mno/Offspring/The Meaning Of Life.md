@@ -64,7 +64,7 @@ Ixnay On The Hombre (1997)
   *back to chorus*  
   *then back to intro for the outro*  
   
--  
+----  
   
   *Finger killing and very fast song from The Offspring again. The whole song is*  
   *very cool, but not very easy to play.*  
@@ -122,7 +122,7 @@ Ixnay On The Hombre (1997)
   E-----m-m-----------------m--m----------------------3---3---3---|]  
   *-&gt;Play CHORUS, INTRO2 and there it is!*  
   
--  
+----  
   
 Text:  On the way  
   Trying to get where I'd like to say  

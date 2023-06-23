@@ -52,7 +52,7 @@ TUNING:  [D G D G B D] (open [G])
   *want to change the tuning you can play the song with these chords in*  
   *regular tuning, but you won't get to play the riff correctly.*  
   
--  
+----  
   
 Text:  You say the hill's too steep to climb, try it  
   You say you'd like to see me try climb it  

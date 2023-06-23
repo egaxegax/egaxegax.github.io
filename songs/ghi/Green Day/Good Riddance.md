@@ -126,7 +126,7 @@
   Thats it  
   *Last ***Gsus2*** is a slowely downward stroke on the strings*  
   
--  
+----  
   
   *Alright, for this song, it's best that I write it CHORD rather than TAB.*  
   

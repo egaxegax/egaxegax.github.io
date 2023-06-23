@@ -89,7 +89,7 @@ Diamonds and Rust
   *then move to ***B7*** shape before returning to the ***Em*** sequence.*  
   *Play ***Fmaj7*** using standard ***F***-shape with open top ***E***.*  
   
--  
+----  
   
 Intro:    ***Em***  
   [E --------0-----------0-----------|--------0-----------0-----------|  

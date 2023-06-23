@@ -75,7 +75,7 @@ solo:  |middle
   |-8-9---11-12---------------11-----------------|  
   |----------------------------------------------|  
   
--  
+----  
   
 Text:  I go out to work on a Monday morning  
   Tuesday I go off to honeymoon  

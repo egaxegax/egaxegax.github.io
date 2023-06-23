@@ -37,7 +37,7 @@ Up In Arms
   
   *Play Chorus } x2*  
   
--  
+----  
   
   *Chords used:*  
   ****C***: [X32010]   ***A***: [X0222X]  ***F5***: [133XXX]   ***G#5***: [466XXX]   ***G#***: [46654X]*  

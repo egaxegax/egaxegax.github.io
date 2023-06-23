@@ -115,7 +115,7 @@ She Will Be Loved
   ------- ------ --------------- -----------------  
   ------- ------ --------------- -----------------]  
   
--  
+----  
   
   *This song is pretty simple to play with a capo. The beat's a bit awkward*  
   *since it's not really a guitarish rhythm. It should sound really pretty*  

@@ -155,7 +155,7 @@ Reise, Reise (2004)
   
   *...*  
   
--  
+----  
   
 Text:  Ein Flugzeug liegt im Abendwind  
   An Bord ist auch ein Mann mit Kind  
@@ -223,7 +223,7 @@ Text:  Ein Flugzeug liegt im Abendwind
   Komm her, bleib hier  
   Wir sind Bruder dir  
   
--  
+----  
   
 English: An airplane is in the evening wind  
   On board is a man with his child as well  

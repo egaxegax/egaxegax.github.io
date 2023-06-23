@@ -61,7 +61,7 @@ Solo2:  [111111-333333-555555-333-111] } x2
   *(No_Guitar)*  
   I'm going solo: going solo  
   
--  
+----  
   
 Текст:  I'm standing alone here in my room,  
   Staring at a picture from midnight till noon,  

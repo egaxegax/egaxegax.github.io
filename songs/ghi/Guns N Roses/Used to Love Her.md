@@ -11,7 +11,7 @@
   *Oh yeah, if you want to play along with the record, remember to tune down a*  
   *half step.*  
   
--  
+----  
   
   *This is the first song I ever learned with chords.  Fairly simple.*  
   *It uses only three basic chords:*  
@@ -83,7 +83,7 @@
   ----------------------------------------------------------------  
   ----------------------------------------------------------------]  
   
--  
+----  
   
 Text:  I used to love her  
   But I had to kill her  

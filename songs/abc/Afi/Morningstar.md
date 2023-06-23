@@ -26,7 +26,7 @@ Morningstar
   SD |----o-----------|  
   BD |O------OO-------|]   END  
   
--  
+----  
   
   *pm - palm mute*  
    *- slide to*  

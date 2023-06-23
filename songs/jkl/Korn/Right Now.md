@@ -59,7 +59,7 @@ Right Now
   D|---------3-2----------3-2------------------------------  
   A|-0-0-0-0-1-0--0-0-0-0-1-0--0-0-0-0-1-0--0-0-0-0-1-0----]  
   
--  
+----  
   
 Text:  And I, I notice the tapestries on the wall as well  
   And I, I stand up and hit my head on the mobile  

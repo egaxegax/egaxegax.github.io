@@ -164,7 +164,7 @@ Black Dog
   a-----------------------------------------------------------------------------  
   E-----------------------------------------------------------------------------]  
   
--  
+----  
   
   *Intro of Black Dog solo*  
   
@@ -181,7 +181,7 @@ Black Dog
   *Most of the rest of the solo to Black Dog is fairly straight forward..*  
   *Dustin Zawalski (14 year old Jimmy Page wanna-be)*  
   
--  
+----  
   
 Text:  Hey, hey, mama, said the way you move, gonna make you sweat, gonna make you groove.  
   Oh, oh, child, way you shake that thing, gonna make you burn, gonna make you sting.  

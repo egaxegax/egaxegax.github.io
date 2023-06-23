@@ -42,7 +42,7 @@ Dig A Pony
   I told you so, all I want is you  
   Everything has got to be the way you like it to, because  
   
--  
+----  
   
 Text:  I dig a pony  
   Well you can celebrate anything you want  

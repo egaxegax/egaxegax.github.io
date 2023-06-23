@@ -56,7 +56,7 @@ Verse 2: The curiousness of your potential kiss
   ***C     [-811988-]***  
     00  
   
--  
+----  
   
 Text:  I know that i've been mad in love before  
   And how it could be with you  

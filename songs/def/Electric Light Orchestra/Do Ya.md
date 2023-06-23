@@ -41,7 +41,7 @@ eoc
   Look out!  
   D***D***o you do you want my ***Fd***love, ***Gd***Do you do you want my l***Fd***ove, ***D***  
   
--  
+----  
   
 Text:  In this life I've seen everything I can see woman,  
   I've seen lovers flying through the air hand in hand  

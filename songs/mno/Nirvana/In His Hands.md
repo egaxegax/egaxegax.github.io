@@ -76,7 +76,7 @@ Chorus:  ***G#5 Eb5 B5 D5*** (Last Line ***G#5 B#5***)
   
   *Best*  
   
--  
+----  
   
   */=slide up*  
   

@@ -51,7 +51,7 @@ The Final Cut (1983)
   
   ****Bb+*** = [004332]*  
   
--  
+----  
   
 Text:  Take all your overgrown infants away somewhere  
   And build them a home a little place of their own  

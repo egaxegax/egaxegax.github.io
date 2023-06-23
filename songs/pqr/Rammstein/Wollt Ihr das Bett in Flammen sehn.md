@@ -46,7 +46,7 @@ BASS:  1|------------------
   
   Rammstein  
   
--  
+----  
   
   *Drop D tuning*  
   
@@ -105,7 +105,7 @@ Song structure: Intro x16
   
   **not sure about this  =20*  
   
--  
+----  
   
     *Main Riff                  Bridge*  
   [G---|--------------------------|-----------|----------------------------|  
@@ -116,7 +116,7 @@ Song structure: Intro x16
   *The Main riff played over the entire song. The Bridge is played*  
   *during the "Sex ist ein Schlacht" part. During the last three guitar chords.*  
   
--  
+----  
   
 KEY:  pm. = palm mute  
   T   = tenth fret (saves space to write)  
@@ -147,7 +147,7 @@ BRIDGE:  [e|-------------------|
   
   *And done.*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -176,7 +176,7 @@ BRIDGE:  [e|-------------------|
   
   *That's it. Have fun.*  
   
--  
+----  
   
   *Басовая табулатура*  
   

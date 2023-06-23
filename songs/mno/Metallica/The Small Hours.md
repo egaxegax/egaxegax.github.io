@@ -95,7 +95,7 @@ The Small Hours
     *pm.......*  
   *(4:40)*  
   
--  
+----  
   
   *Tune down 1 full step*  
   *At one point in the same section of every Verse, there is a different bass fill each time.*  
@@ -177,7 +177,7 @@ The Small Hours
   *(on the last fill, 6, pluck the hammer-on's really strong, then slow down,*  
    *then on the rapidly declining low notes, go pretty fast.)*  
   
--  
+----  
   
   
   *The tab shown below is of the small hours as played by Metallica on*  

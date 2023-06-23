@@ -82,7 +82,7 @@
   *More to KoRn to come as well as some Deftones (similar to KoRn) when*  
   *classes end.*  
   
--  
+----  
   
   There you are alone  
   With no hope of ever having  

@@ -260,7 +260,7 @@ Guitar 2: D|----------------------------------------------------------------
   
   *Fade out*  
   
--  
+----  
   
   *Tuning:Whole Step Down ([DGCFAD])*  
   *Fig1 (Intro/Chorus riff)*  
@@ -317,7 +317,7 @@ Guitar 2: D|----------------------------------------------------------------
   *Fig4*  
   *Fig5*  
   
--  
+----  
   
   *6-string tuned (low to high: [E A D G B E]).*  
   

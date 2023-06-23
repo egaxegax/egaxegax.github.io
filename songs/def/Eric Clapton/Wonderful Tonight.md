@@ -58,7 +58,7 @@ Wonderful Tonight
     ***C                 D           G   D/F#  C  D  G  D/F#  C  D  G***  
   Oh my darling, you were wonderful tonight  
   
--  
+----  
   
 Intro:  ***G          D/F#                C/E                D***  
   

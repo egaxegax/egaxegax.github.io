@@ -37,7 +37,7 @@ All In The Family
   *(Riff 1)8x ((G 1A 1x G 2A 2x)) (1B 2B)4x ((G 1A 1x G 2A 2x)) (1B 2B)4x*  
   *(Riff 1)16x*  
   
--  
+----  
   
   *Tuning: Whole Step Down ([DGCFAD])*  
   *Fig1 (Chorus and Intro/Outro riff)*  
@@ -78,7 +78,7 @@ All In The Family
   *Fig3*  
   *Fig1*  
   
--  
+----  
   
 Text:  Jon on the song: Fred was there after Korn TV and we said, 'Let's do a song together, Hey, man, let's go back and forth and rip on each other like an old school battle.' I don't know who's idea it was, I can't remember if it was mine or Fieldy's or Fred's but we came up with the idea and we started writing and we worked on it together. I came up with some bags on myself for Fred to say. It was all in good natured fun.  
   

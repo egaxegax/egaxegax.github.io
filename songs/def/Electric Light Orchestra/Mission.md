@@ -37,7 +37,7 @@ eot
   
   *CHORUS*  
   
--  
+----  
   
    ***Bm***  
   For many days we travelled from a distant place and time,  

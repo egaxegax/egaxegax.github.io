@@ -37,7 +37,7 @@ Ixnay On The Hombre (1997)
   *-&gt;Play INTRO X2 or INTRO2 X2, bridge and INTRO X5 or INTRO2 X3.*  
   *Let the END ring and there it is.*  
   
--  
+----  
   
   *Гитapa - 1*  
   [E||---------------------------------------------------|  
@@ -241,7 +241,7 @@ Ixnay On The Hombre (1997)
   ------------------------------------------*||  
   --11-11-11-11-11-11-11-11-6-6-6-6-6-6-6-6--||]  
   
--  
+----  
   
 Text:  Maybe in another life  
   I could find you there  

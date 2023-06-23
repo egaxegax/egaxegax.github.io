@@ -85,7 +85,7 @@ Brodels
 *Play Chorus (a+b) over:*  
 *Play Ending over:*  
   
--  
+----  
   
 *Verse (a)*  
   *2x*  

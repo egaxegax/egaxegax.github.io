@@ -579,7 +579,7 @@ Lyrics:  Oh I used to be your baby
   Remember what you told me  
   You'd meet me at the dreamer's ball  
   
--  
+----  
   
 Text:  Oh I used to be your baby  
   Used to be your pride and joy  

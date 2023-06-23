@@ -20,7 +20,7 @@ Riff 2:     hold bend
   ---------------------------------------  
   ---------------------------------------]  
   
--  
+----  
   
 Text:  Is it my imagination  
   Or have I finally found something worth living for?  

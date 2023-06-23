@@ -58,7 +58,7 @@ Chords used: ***C***   [x32010]
   ***D***   [xx0232]  
   ***G***   [320033]  
   
--  
+----  
   
   *this is an acoustivc version.*  
   *if you want the sound of the actual song,*  
@@ -92,7 +92,7 @@ chorus:  ***G*** (single strums)***C***
     ***G***  
   the weather's fine  
   
--  
+----  
   
   *Text:*  
   

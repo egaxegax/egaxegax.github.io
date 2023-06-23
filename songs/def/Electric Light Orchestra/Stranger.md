@@ -33,7 +33,7 @@ Chorus:  Lookin' through the eyes of a stranger
   Distant bells they started ringing, somewhere far off in the night  
   And the place was full of loneliness that disappeared from sight  
   
--  
+----  
   
 Text:  On a cold and windy morning, said goodbye to my old friends  
   They were hangin' around the corner,  

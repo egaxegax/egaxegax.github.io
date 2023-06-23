@@ -48,7 +48,7 @@ Dammit
   Well, I guess this is growing up } 2x  
   Well, I guess this is growing up  
   
--  
+----  
   
   *Нa мoй взгляд дaнный пpoигpыш бoльшe пoдxoдит!!*  
   [e------------------------------------------------|  

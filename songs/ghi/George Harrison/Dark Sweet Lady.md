@@ -29,7 +29,7 @@ chorus:  you came and helped me through     when i'd�
   
   *(repeat.....)*  
   
--  
+----  
   
 Text:  My dark sweet lady  
   You really got to me  

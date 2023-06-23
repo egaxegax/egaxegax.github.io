@@ -57,7 +57,7 @@ Ixnay On The Hombre 1997
   *Cut off the last note of the last chorus and the guitar finishes out*  
   *the song.*  
   
--  
+----  
   
   ** - repeat about 4 times*  
   *x - left hand mute*  
@@ -137,7 +137,7 @@ Ixnay On The Hombre 1997
   |-7-|  
   |-5-|  
   
--  
+----  
   
 Text:  Look at me I'm fallin'  
   Off of a cliff now  

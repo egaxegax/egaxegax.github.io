@@ -46,7 +46,7 @@ Text:  Wilder Wein - vor deinem Schloss
   
   ich warte auf dich - am Ende der Nacht  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -62,7 +62,7 @@ Text:  Wilder Wein - vor deinem Schloss
   
   *it stops at about 3:03 and starts again at 3:16*  
   
--  
+----  
   
 English: Wild wine - before your castle  
   wild wine - I am ready  
@@ -87,7 +87,7 @@ English: Wild wine - before your castle
   
   I wait for you - at the end of the night  
   
--  
+----  
   
 Text:  Wilder Wein - vor deinem Schloss  
   Wilder Wein - ich bin bereit  

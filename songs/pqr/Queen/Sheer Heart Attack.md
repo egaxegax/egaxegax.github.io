@@ -37,7 +37,7 @@ Live Killers 1977, News Of The World 1977
   The rest is clear.  
   *(The insane instrumental break is in ***Bb***)*  
   
--  
+----  
   
 Text:  Well you're just 17 and all you wanna do is disappear  
   You know what I mean there's a lot of space between your ears  

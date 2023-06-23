@@ -105,7 +105,7 @@
   *I think Munky said in Guitar School, he uses a Leslie cabinet, I, again, use*  
   *my small stone phase shifter.*  
   
--  
+----  
   
   *OK. This is my first time doing this. Someone has already tabbed*  
   *this song and I thought my version was a bit better in some parts. I*  

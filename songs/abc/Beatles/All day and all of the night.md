@@ -17,7 +17,7 @@ All day and all of the night
   
   *that patter keeps on repeating*  
   
--  
+----  
   
   I'm not content to be with you in the daytime  
   Girl I want to be with you all of the time  

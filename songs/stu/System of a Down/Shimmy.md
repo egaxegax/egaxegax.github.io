@@ -88,7 +88,7 @@ Shimmy
   C-3-2-0-2-3-2-0-2-3-2-0-2-3--2-|]  
   *Don't be late for school again boy*  
   
--  
+----  
   
   
 Tuning:  C-G-C-F-A-D  

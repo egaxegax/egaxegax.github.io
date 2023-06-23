@@ -11,7 +11,7 @@
   ***B A***  
   ***A F#***  
   
--  
+----  
   
 Lyrics:  I saw my friend the other day and I don't know  
   Exactly just what he became  

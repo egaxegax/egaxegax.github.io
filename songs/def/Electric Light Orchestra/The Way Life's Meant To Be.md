@@ -70,7 +70,7 @@ Solo:  ***Bb Eb F Bb***
   I wanna know now  
   Is this the way life's meant to be?  
   
--  
+----  
   
 Text:  Well, I came a long way to be here today  
   And I left you so long on this avenue  

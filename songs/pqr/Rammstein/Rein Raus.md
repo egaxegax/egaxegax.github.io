@@ -82,7 +82,7 @@ RIFF4:
   *RIFF4*  
   *RIFF1*  
   
--  
+----  
   
   *Rein Raus, wow what an addictive riff, Rammstein are re-growing on*  
   *me, really!*  
@@ -119,7 +119,7 @@ RIFF4:
   A|-----------------------------------------------------------|  
   D|-----------------------------------------------------------|]  
   
--  
+----  
   
   *Drop D tuning (eBGDAD)*  
   
@@ -223,7 +223,7 @@ RIFF4:
   
   *This song is wicked sucky to tab!!!!*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -251,7 +251,7 @@ RIFF4:
   
   *Easy song to play, enjoy!*  
   
--  
+----  
   
 Text:  Ich bin der Reiter  
   du bist das Ross  
@@ -285,7 +285,7 @@ Text:  Ich bin der Reiter
   
   Rein Raus  
   
--  
+----  
   
 Перевод: Туда Обратно  
   

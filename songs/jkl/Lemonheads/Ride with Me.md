@@ -66,7 +66,7 @@ Intro:  | ***E5add2*** | ***Bm*** | ***C2*** | ***C2***|
   
   *End on ***Em9***.*  
   
--  
+----  
   
   ***E    G      C***  
   That pencil smell,  

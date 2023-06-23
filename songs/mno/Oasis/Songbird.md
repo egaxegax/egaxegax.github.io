@@ -42,7 +42,7 @@ CHORUS:  She's not anyone
   
 OUTRO:  ***G***  
   
--  
+----  
   
 Text:  Talkin to the songbird yesterday  
   Flew me to a place not far away  

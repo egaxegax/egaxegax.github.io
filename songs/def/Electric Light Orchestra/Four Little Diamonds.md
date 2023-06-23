@@ -65,7 +65,7 @@ Verse:  I still hear her calling out to me
   Four little diamonds  
   Four little diamonds  
   
--  
+----  
   
 Text:  I used to think she was the greatest thing  
   I really cared, gave her a diamond ring  

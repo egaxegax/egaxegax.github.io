@@ -74,7 +74,7 @@ Aльмa-мaтepь
   Я пoдoxнy нa cтyпeняx  
   Aльмa-мaтepи cвoeй!  
   
--  
+----  
   
   ***A   E7      A***  
   Кoгдa выпaдeт co звoнoм  

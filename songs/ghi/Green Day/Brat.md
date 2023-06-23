@@ -53,7 +53,7 @@ Chorus:  Now I want more because I'm getting bored
   ***C  D D(PM)  D***  
   that nothing good can last.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -63,7 +63,7 @@ Chorus:  Now I want more because I'm getting bored
   ***C G C G C G D***  
   ***C G C G F D***  
   
--  
+----  
   
   *Note: Tune a half step down. All power chords.*  
   *Intro:*  
@@ -81,7 +81,7 @@ Chorus:  Now I want more because I'm getting bored
   *Sequence:*  
   *Intro; ***A***x3; ***B***; ***C***; ***A***x4; ***B***; ***C***; ***A***x4; ***B***; ***C***; Ends with ***G*** chord.*  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

@@ -74,7 +74,7 @@ The Offspring (1989)
   *Then play riff 4 one more time then riff 5 and before the first riff starts again just play D C D C*  
   *then after that play riff 2 again and thats it.*  
   
--  
+----  
   
 Text:  Time has washed away  
   And now I may wonder  

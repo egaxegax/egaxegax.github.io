@@ -130,7 +130,7 @@ OUTRO:  And I know what I know
     ***D                             D   G***  
   So please don't cry, never say die  
   
--  
+----  
   
 Text:  It's a bit early in the midnight hour for me  
   To go through all the things that I want to be  

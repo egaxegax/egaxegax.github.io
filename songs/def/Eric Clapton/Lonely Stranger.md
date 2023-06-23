@@ -49,7 +49,7 @@ Chorus:  'Cause I'm a lonely stranger here,
   
   *Chorus*  
   
--  
+----  
   
   *"Intro-lick":*  
   [E ---------------2---------0------0-----------------  

@@ -165,7 +165,7 @@ Text:  The unsettled mind is at times an ally,
   *E*  
   *F } 2x*  
   
--  
+----  
   
   *Tuning: Drop D, Down 1 Step (C,G,C,F,A,D)*  
   

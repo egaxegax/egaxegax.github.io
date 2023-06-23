@@ -120,7 +120,7 @@ Intro:  ***D***
   
 outtro:  ***D***  
   
--  
+----  
   
   *Intro: ***D*** with some frills*  
   *Verse 1:*  
@@ -157,7 +157,7 @@ outtro:  ***D***
     I'm in love with my car.    String back gloves in my automolove.  
   ****D*** (Fade Out)*  
   
--  
+----  
   
 Text:  (Dedicated to Johnathan Harris, boy racer to the end)  
   The machine of a dream, such a clean machine,  

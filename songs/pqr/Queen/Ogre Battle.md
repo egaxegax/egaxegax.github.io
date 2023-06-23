@@ -108,7 +108,7 @@ lyrics:  Now once upon a time
   You can come along  
   Come to ogre battle  
   
--  
+----  
   
 Text:  Now once upon a time  
   An old man told me a fable  

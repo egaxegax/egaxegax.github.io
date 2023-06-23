@@ -50,7 +50,7 @@ The Weight
   
   *(refrain)*  
   
--  
+----  
   
   ***G             Bm            C                       G      C    G***  
   I pulled into Nazareth, was feelin' about half past dead;  

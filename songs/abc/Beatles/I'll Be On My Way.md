@@ -45,7 +45,7 @@
    ***A***  
   I'll  Be on my way  
   
--  
+----  
   
   ***A/E A/F A/F# A/F***  
   

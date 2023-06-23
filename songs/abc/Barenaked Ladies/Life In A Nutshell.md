@@ -52,7 +52,7 @@ Bridge:  I fell down     with no one to catch me f
   I'm okay  
   And that's why, etc.  
   
--  
+----  
   
   *(All chords in barre form unless otherwise stated)*  
   

@@ -70,7 +70,7 @@ b:  But he heard high up in the air
     ***Am             Dm***  
   And never was piping so gay.  
   
--  
+----  
   
       ***Dm            Am     Dm***  
   O'Driscoll drove with a song  

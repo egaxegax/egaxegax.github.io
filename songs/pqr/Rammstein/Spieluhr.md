@@ -56,7 +56,7 @@ Solo:  [E-------------------------------------------------------------------
   
   *Now play the chorus untill the end*  
   
--  
+----  
   
   *SPIELHUR(PIANO TRANSLATED TO GUITAR)-RAMMSTEIN*  
   
@@ -96,7 +96,7 @@ Solo:  [E-------------------------------------------------------------------
   *During the intro and in the refrain you have to play Fig A(x2), B(x2), A(x2), C and B.*  
   *During the bridge before the guitar solo you play: Fig A(x2), D(x2), B(x2) and C(x2).*  
   
--  
+----  
   
 Intro:  [e-----------------------  
   B-----------------------  
@@ -122,7 +122,7 @@ Intro:  [e-----------------------
   A-5-5-5-3-3-3-8-8-8--6--6--6-7-7-7-  
   D-------------8-8-8----------------]  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -146,7 +146,7 @@ Fill:  G|---------------|
   *pause (listen to the song for the length)*  
   *chorus } x3*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -172,7 +172,7 @@ VERSE:  G|-----|------------------------------------------------------------
   *CHORUS } X4*  
   *OUTRO (REST)*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -210,7 +210,7 @@ Fill:  Only play after first chorus
   *Ok there you go. There the verse and chorus riffs as well as the fill.*  
   *You just have to figure out timing and order*  
   
--  
+----  
   
 Text:  Ein kleiner Mensch stirbt nur zum Schein  
   wollte ganz alleine sein  
@@ -271,7 +271,7 @@ Text:  Ein kleiner Mensch stirbt nur zum Schein
   mein Herz schlagt nicht mehr weiter  
   nur der Regen weint am Grab  
   
--  
+----  
   
 Перевод: Музыкальная шкатулка  
   

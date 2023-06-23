@@ -35,7 +35,7 @@ Solo:  4|-4/6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   *)*  
   *@@@@@=Smash Guitar*  
   
--  
+----  
   
   *Played with a whole lot of distortion, and a low tone.*  
   ***G#           C   G#    F#***  

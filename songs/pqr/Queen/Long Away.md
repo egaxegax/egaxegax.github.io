@@ -59,7 +59,7 @@ Chorus:  Did we leave our way behind us?
   ***A   D            F                      A***  
   I'm looking for, still looking for that day  
   
--  
+----  
   
 Text:  You might believe in heaven  
   I would not care to say  

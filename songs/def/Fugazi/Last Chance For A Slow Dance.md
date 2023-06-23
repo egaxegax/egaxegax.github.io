@@ -19,7 +19,7 @@ Last Chance For A Slow Dance
   *That's the song...pretty simple but neat-O!*  
   *Today's transcription was brought to you by the letter "Q"*  
   
--  
+----  
   
   */ = Oh you know...*  
   *^  = Pull off*  

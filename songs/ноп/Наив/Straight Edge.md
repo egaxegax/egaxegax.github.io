@@ -29,7 +29,7 @@ intro:  ***G5 C5 A5 D5*** } 4paзa
   ***E5*[-6/-7---]***  
       [5/-9---]  
   
--  
+----  
   
   ***D***  
   Straight edge! Straight edge! -  

@@ -58,7 +58,7 @@ solo pripeva: 1)------7-7575--------
   *в начале песни играть ***Е***(баре) 5+3 432231232 ***А***(баре сдвинутое*  
   *на 2 лада вправо)54321232*2(перебор)*  
   
--  
+----  
   
   ***Fm                  G#            C***  
   Die Tranen greiser Kinderschar …  
@@ -99,7 +99,7 @@ solo pripeva: 1)------7-7575--------
   ***Gm B D***  
   MUTTER  
   
--  
+----  
   
 Guitar 1: Standard Tuning  
   
@@ -245,7 +245,7 @@ Song Sequence: Wind Chimes Intro
   Chorus"Raised Chorus (Guitar 2)" (4x) with "Raised Chorus (Guitar 1)" (4x)  
   End"End Fill (Guitar 1)" (1x) with "End Fill (Guitar 2)" (1x)  
   
--  
+----  
   
   *There's only one guitar part in this song so here it is:*  
   
@@ -259,7 +259,7 @@ Song Sequence: Wind Chimes Intro
   A|-8/9--11-12-16---15--14--15--14--11---12--10-|  
   E|-6/7--9--10-14---13--12--13--12--9----10--9--|]  
   
--  
+----  
   
   *Solo*  
   
@@ -273,7 +273,7 @@ Song Sequence: Wind Chimes Intro
   A|---------------------------------------------------------------------|  
   E|---------------------------------------------------------------------|]  
   
--  
+----  
   
   *Guitar 1 - Standard Tuning – EADGBe*  
   *Guitar 2 – Drop D Tuning   - DADGBe*  
@@ -344,7 +344,7 @@ Song Sequence: Wind Chimes Intro
   A|-5-------7---4---|  
   E|-------------2---|]  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -370,7 +370,7 @@ Song Sequence: Wind Chimes Intro
   
   *The chorus is played quite slowly, with many rests*  
   
--  
+----  
   
 Text:  Mutter  
   
@@ -406,7 +406,7 @@ Text:  Mutter
   
   Mutter gib mir Kraft  
   
--  
+----  
   
 Перевод: Мама  
   
@@ -447,7 +447,7 @@ Text:  Mutter
   истинный приверженец секса, решил, что это плохо. Детей нужно рожать естесственным путем,  
   а то придут они и рек больше не будет...  
   
--  
+----  
   
 Перевод: Мама  
   

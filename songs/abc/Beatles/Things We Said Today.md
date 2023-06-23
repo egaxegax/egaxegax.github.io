@@ -29,7 +29,7 @@ Things We Said Today
   
   *Repeat 3rd verse*  
   
--  
+----  
   
 Text:  You say you will love me  
   If I have to go.  

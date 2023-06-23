@@ -48,7 +48,7 @@ The Road To Mandalay
   What a lovely holiday  
   There's nothing funny left to say  
   
--  
+----  
   
   ***Em                          Em6***  
   Save me from drowning in the sea -  

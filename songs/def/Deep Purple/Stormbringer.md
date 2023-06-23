@@ -29,7 +29,7 @@
   
   ****Em*** (riff)*  
   
--  
+----  
   
 INTRO:  (K/Board adapted to Guitar)  
     ***E5                     B5***  

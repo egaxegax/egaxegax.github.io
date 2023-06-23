@@ -90,7 +90,7 @@ Chrous:  Ay, ay, ay, ay
   ***B          Em***  
   De mi corazon  
   
--  
+----  
   
   *English Version*          Song Of The Mariachi*  
   

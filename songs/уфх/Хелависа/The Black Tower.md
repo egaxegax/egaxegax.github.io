@@ -49,7 +49,7 @@ Running to Paradise (1996)
   They shake when the winds roar,  
   Old bones upon the mountain shake.  
   
--  
+----  
   
 Перевод: Чёрная башня  
   *(У. Б. Йейтс, пер. Г. Кружкова)*  

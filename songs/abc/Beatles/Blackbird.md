@@ -292,7 +292,7 @@ Composers: John Lennon and Paul McCartney
   A |---3-------2-------0-------0-------|-----------------------------------||}  
   E |-----------------------------------|-------------------3---------------|]  
   
--  
+----  
   
   Blackbird singing in the dead of night  
   Take these broken wings and learn to fly  

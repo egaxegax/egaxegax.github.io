@@ -146,7 +146,7 @@ Lyrics:  Hey you boy hey you hey you boy
   Fight from the inside  
   Right down the line  
   
--  
+----  
   
 Text:  Hey you boy, think that you know what you're doing  
   You think you're gonna set things to rights  

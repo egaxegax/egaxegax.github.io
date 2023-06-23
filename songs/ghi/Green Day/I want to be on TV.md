@@ -36,7 +36,7 @@
   *a native English speaker.*  
   *Sorry, but you're on your own for that one...*  
   
--  
+----  
   
 Lyrics:  Wanna be a TV boy.  
   Wanna be on Solid Gold.  

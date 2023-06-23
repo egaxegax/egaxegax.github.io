@@ -177,7 +177,7 @@ Riff F2: |-------------------------|
   *x - play 'note' with heavy damping*  
   *(5)- harmonics*  
   
--  
+----  
   
 Text:  Naked in midwinter magic  
   Lies an angel in the snow  
@@ -203,7 +203,7 @@ Text:  Naked in midwinter magic
   And wonder is some becoming season  
   will make the angel melt in shame  
   
--  
+----  
   
 Перевод: Таинство Пустошей.  
   
@@ -237,7 +237,7 @@ Text:  Naked in midwinter magic
   И я удивляюсь - подобно потоку из слез,  
   Ангел снежный с весною златистым бежит.  
   
--  
+----  
   
 Перевод: "Таинство пустоши"  
   
@@ -265,7 +265,7 @@ Text:  Naked in midwinter magic
   Это чудо, становясь временем года,  
   Заставит ангела растаять от стыда.  
   
--  
+----  
   
   *Tuomas H.*  
   
@@ -677,7 +677,7 @@ Text:  Naked in midwinter magic
   ------------------|------------------||  
   ------------------|------------------||]  
   
--  
+----  
   
   *Tuomas H.*  
   
@@ -1013,7 +1013,7 @@ Text:  Naked in midwinter magic
   --0----------------|--------------0----|------------------|------------------||  
   -------------------|-------------------|------------------|------------------||]  
   
--  
+----  
   
   *Tuomas H.*  
   

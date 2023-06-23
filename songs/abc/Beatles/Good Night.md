@@ -24,7 +24,7 @@ Middle:  ***G***Hm, m ***Ami***m, ***A***Hm, m ***Dmi***m, ***G*
   
   *Chorus*  
   
--  
+----  
   
   Now it's time to say good night  
   Good night Sleep tight  

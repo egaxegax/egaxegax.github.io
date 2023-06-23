@@ -37,7 +37,7 @@ Queen 1972
   
   *repetition 2*  
   
--  
+----  
   
 Text:  And then I saw Him in the crowd  
   A lot of people had gathered round Him  

@@ -119,7 +119,7 @@ Reise, Reise (2004)
   *parte7 x1 timepo-segunda guitarra parte3 x1 parte7° x2*  
   *parte3 x1 tiempo*  
   
--  
+----  
   
   *(Drop D tuning)*  
   
@@ -204,7 +204,7 @@ Reise, Reise (2004)
   
   *...*  
   
--  
+----  
   
   *BASS*  
   
@@ -230,7 +230,7 @@ Reise, Reise (2004)
   a:-----------------------|  
   d:-----------------------|]  
   
--  
+----  
   
 Text:  Ich hab' keine Lust  
   Ich hab' keine Lust  
@@ -271,7 +271,7 @@ Text:  Ich hab' keine Lust
   
   Ich hab' keine Lust  
   
--  
+----  
   
 English: Don't feel like it  
   

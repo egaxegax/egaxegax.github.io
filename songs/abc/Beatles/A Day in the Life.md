@@ -48,7 +48,7 @@ A Day in the Life
   Now they know how many holes it takes to fill the Albert Hall  
   I'd love to turn... you... on...  
   
--  
+----  
   
   
   *Syntax of "define" instructions is:*  

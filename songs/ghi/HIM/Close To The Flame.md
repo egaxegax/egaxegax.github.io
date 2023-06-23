@@ -26,7 +26,7 @@ Chorus:  So close to the flame
   
   *Chorus*  
   
--  
+----  
   
 Text:  The kiss sweetest  
   And touch so warm  

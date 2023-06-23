@@ -44,7 +44,7 @@ All things must pass (1970)
   A -2- -2-  -2- -2-  -2- -2- -2-       -3-  -0-  
   E -0- -0-  -0- -0-  -0- -0- -0-       -3-  -x-]  
   
--  
+----  
   
 Text:  There'll come a time when all of us must leave here  
   Then nothing sister Mary can do  

@@ -97,7 +97,7 @@ Solo:  E|-8------------------------------------15----14----12----12~~~------
   
   *Well, I think it is the whole song.*  
   
--  
+----  
   
 Lyrics:  Maybe one day Ill be an honest man  
   Up till now Im doing the best I can  

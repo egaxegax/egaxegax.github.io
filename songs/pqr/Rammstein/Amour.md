@@ -171,7 +171,7 @@ Then the Solo: [E|--------------------------------------------------------
   
   bitte bitte gib mir Gift (x4)  
   
--  
+----  
   
   *The timing is only rough in the intro but it's easy to pick up from*  
   *listening to the track. The main riff is just about exact.*  
@@ -201,7 +201,7 @@ Then the Solo: [E|--------------------------------------------------------
   *by barring the 6th and 8th frets respectively - they are all*  
   *nice and close together. Solo is around the same place.*  
   
--  
+----  
   
 Text:  Die Liebe ist ein wildes Tier  
   Sie atmet dich sie sucht nach dir  
@@ -238,7 +238,7 @@ Text:  Die Liebe ist ein wildes Tier
   
   Bitte bitte gib mir Gift  
   
--  
+----  
   
 English: Love is a wild animal  
   It breathes you it looks for you  
@@ -275,7 +275,7 @@ English: Love is a wild animal
   
   Please please give me poison  
   
--  
+----  
   
 Перевод: "Любовь"  
   

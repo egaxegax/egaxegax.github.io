@@ -64,7 +64,7 @@ Reclaim My Place
   *Riff B  } x8*  
   *Riff E  } x8*  
   
--  
+----  
   
   *Tuning: Whole Step Down ([DGCFAD])*  
   *Fig1 (Chorus and Intro riff)*  

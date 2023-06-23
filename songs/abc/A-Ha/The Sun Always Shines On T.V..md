@@ -50,7 +50,7 @@
   Touch me  
   And give all your love to me  
   
--  
+----  
   
     ***d  d***  
   ***E- | A- F | C | G |***  

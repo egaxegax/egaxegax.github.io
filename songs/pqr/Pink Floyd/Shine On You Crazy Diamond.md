@@ -96,7 +96,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   ***Gm  Bbm  Fm  /Eb  Cm  /A  /G  D  /F#  D7***  
   ***Gm  Bbm  Fm  /Eb  Cm  /A  /G  D  F#  D7  G***  
   
--  
+----  
   
   *Text:*  
   *part 1:*  

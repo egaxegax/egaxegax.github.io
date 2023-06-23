@@ -232,7 +232,7 @@
   *of us! It sounds ok like this, though.*  
   *Enjoy!*  
   
--  
+----  
   
   [E||-------7-5-7----------|-------7-5-7--7-5-7--7-5----|-------7-5-7----------|  
   B||-----5----------------|-----5----------------------|-----5----------------|  
@@ -357,7 +357,7 @@
   -----------------------|------------------|------------------|  
   -----------------------|------------------|------------------|]  
   
--  
+----  
   
 Text:  If blood will flow when flesh and steel are one  
   Drying in the colour of the evening sun  
@@ -382,7 +382,7 @@ Text:  If blood will flow when flesh and steel are one
   How fragile we are how fragile we are  
   How fragile we are how fragile we are  
   
--  
+----  
   
 Перевод: Уязвимые  
   

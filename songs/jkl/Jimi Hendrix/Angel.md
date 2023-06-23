@@ -53,7 +53,7 @@ Angel
   *a lot quicker, although you tend to lose the notes on the top two*  
   *strings because you can't usually bend the 3rd finger back far enough.*  
   
--  
+----  
   
   *This is how you really play it the one posted is wrong. Sorry about the*  
   *different tabing this is how I have it written ( ***G*** [\] [\] [\] means strum that*  

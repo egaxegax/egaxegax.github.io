@@ -41,7 +41,7 @@ The Wall (1979)
   **-----* =*  
   *That's the song in a nutshell. Enjoy!*  
   
--  
+----  
   
   *there is a little chord fill between "Hey teacher, leave them kids alone"*  
   *and "all in all... etc."*  
@@ -56,7 +56,7 @@ The Wall (1979)
   *By the way there are some different chords played by the keyboard behind the*  
   *solo which I'll post if anyone is interested.*  
   
--  
+----  
   
   *Chords:*  
   [  +-+-+-+-+-+    +-+-+-+-+-+    +-+-+-+-+-+    +-+-+-+-+-+  
@@ -223,7 +223,7 @@ The Wall (1979)
   *through to the appropriate destination.*  
   *Drop a line if you want.*  
   
--  
+----  
   
 Text:  We don't need no education  
   We don't need no thought control  

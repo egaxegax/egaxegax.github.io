@@ -36,7 +36,7 @@
     ***Cm               D7          G...***  
   trying to ... touch and reach ...  
   
--  
+----  
   
 Text:  Give me love  
   Give me love  

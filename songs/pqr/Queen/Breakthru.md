@@ -32,7 +32,7 @@ The Miracle 1989
   |-----------------------------------------------|  
   
   
--  
+----  
   
 Text:  When love breaks up  
   When the dawn light wakes up  

@@ -99,7 +99,7 @@ SOLO:  E|-----------------|-----------------|-----------------|-------------
   The world owes me so fuck you.  
   The world owes me so fuck you.  
   
--  
+----  
   
   *Set your guitar to standard tuning, and this can be played on both*  
   *acoustic and electric sounds better on electric)*  

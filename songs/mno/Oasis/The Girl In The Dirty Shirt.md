@@ -282,7 +282,7 @@ Be Here Now (1997)
   A---------------------------  
   E---------------------------]  
   
--  
+----  
   
 Text:  If I may be so bold could I just say something  
   Come and make me my day  

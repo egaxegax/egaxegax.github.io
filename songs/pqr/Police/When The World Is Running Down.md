@@ -24,7 +24,7 @@ When The World Is Running Down
   *R = Rest*  
   *~ = Trill*  
   
--  
+----  
   
   *legend*  
   *h=hammeron*  

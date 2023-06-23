@@ -56,7 +56,7 @@ Girl
   ***Eb  Gm Fm B7 Eb    Gm  Fm B7***  
   Ah, girl,        girl, girl.  
   
--  
+----  
   
   Is there ***Am***anybody ***E***goin' to listen ***C***to my ***Am***story  
   ***Dm***all about a ***G7***girl who came to ***C***stay? ***E***  

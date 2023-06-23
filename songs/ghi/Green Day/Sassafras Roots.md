@@ -78,7 +78,7 @@ Outro:  I'm a waste like you
   Applying myself to  
   Wasting your time  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  
@@ -88,7 +88,7 @@ Outro:  I'm a waste like you
   ***D E***  
   ***F# D F# D F# D E***  
   
--  
+----  
   
   ***A5***  
   roaming round your house  

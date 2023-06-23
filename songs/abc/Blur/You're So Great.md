@@ -47,7 +47,7 @@ Chorus Chords: ***F# D# C# B***
   
   *Chorus again*  
   
--  
+----  
   
 Intro:  ***Em  F***  
   
@@ -102,7 +102,7 @@ Verse 2: And I feel the light
   *End of the songs:*  
   ***G       Em      F       Fm      C***  
   
--  
+----  
   
 Text:  Sad drunk and poorly  
   Sleep in really late  

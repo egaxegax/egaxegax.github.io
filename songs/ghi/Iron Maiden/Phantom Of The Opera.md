@@ -408,7 +408,7 @@
   *Sorry if there's some mistakes (it's my first transcription)...*  
   *Up The Irons!!!*  
   
--  
+----  
   
   *Tab explanations*  
   *&gt; Accent*  
@@ -763,7 +763,7 @@
   -3--5---5-7---||  
   ---------------||]  
   
--  
+----  
   
   *This is the bass tab to Phantom of the opera.*  
   *It comes in two halves:*  

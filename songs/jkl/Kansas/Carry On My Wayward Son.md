@@ -36,7 +36,7 @@ Bridge Deelie: E|------------------------------|--------------------|
   *& that piano thing. I dont know the lyrics & to be honest, I dont*  
   *really care.*  
   
--  
+----  
   
   *Lyrics, Chords, and that awesome riff!*  
   *(N.C.)*  

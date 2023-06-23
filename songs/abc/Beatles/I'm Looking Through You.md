@@ -32,7 +32,7 @@ I'm Looking Through You
   ***/***    ***F***  ***/***   ***Dm7/*** ***/***  ***/***    ***F7/***    ***/***    ***/***   ***C///*** ***/***  
   Im looking thru you        and youre nowhere  
   
--  
+----  
   
   ***G D G D G C G C G C G C***  
   

@@ -36,7 +36,7 @@ Dear Abby
   *verse... its easy to hear what the guitars doing so I'm not gonna tab*  
   *that part out just cause I"m too damn lazy*  
   
--  
+----  
   
 Перевод: Дорогой аббат  
   *(Слова - Биафра)*  

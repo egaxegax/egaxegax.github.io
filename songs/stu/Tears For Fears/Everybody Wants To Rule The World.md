@@ -80,7 +80,7 @@ Intro:  4 times |***A/D G/D***- -| |
   *a sixth arpeggio over the ***A***. No need to tune down either, since the*  
   *bass string is played open on the ***Eminor9****  
   
--  
+----  
   
 Text:  Welcome to your life  
   There's no turning back  

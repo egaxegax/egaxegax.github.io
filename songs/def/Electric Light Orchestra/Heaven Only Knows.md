@@ -46,7 +46,7 @@ CHORUS:  Heaven only knows (I'm really on the level)
   
   *REPEAT CHORUS*  
   
--  
+----  
   
 Text:  (Heaven only knows...)  
   Oh, I know it's strange  

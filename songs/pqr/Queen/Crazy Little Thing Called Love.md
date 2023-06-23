@@ -40,7 +40,7 @@ The Game 1980
   ***C               D            E***  
   Crazy little thing called love.  
   
--  
+----  
   
 Text:  This thing called love I just can't handle it  
   this thing called love I must get round to it  

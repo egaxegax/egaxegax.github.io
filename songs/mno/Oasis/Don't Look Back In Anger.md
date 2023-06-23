@@ -54,7 +54,7 @@ VERSE 4: ***C/G***Please don't put your ***Csus2/B***life in the
   ***C/G Csus/B Am E F/C Fm/C***  
   At least not ***C/G***today  
   
--  
+----  
   
   *This is another one of my favorite tracks off this incredible album. I'm*  
   *probably going to transcribe the entire thing, because I love it that*  
@@ -147,7 +147,7 @@ VERSE 4: ***C/G***Please don't put your ***Csus2/B***life in the
     ***C***  
   At least not today  
   
--  
+----  
   
 Text:  Slip inside the eye of your mind  
   Don't you know you might find  

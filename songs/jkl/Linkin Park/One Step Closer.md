@@ -26,7 +26,7 @@ One Step Closer
   C# -0-0------------8-7---0--------------]  
   *What do you think?*  
   
--  
+----  
   
   *Tuning: C, G, C, F, A, D*  
   ** = Harmonic*  
@@ -77,7 +77,7 @@ One Step Closer
   C 1-0---0-0---0---1-3-0-0--6\\------0-0-0-----]  
   *pm...... (second time only)*  
   
--  
+----  
   
 Text:  I cannot take this anymore  
   I'm saying everything I've said before  

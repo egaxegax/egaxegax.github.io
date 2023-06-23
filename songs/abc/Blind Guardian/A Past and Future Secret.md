@@ -93,7 +93,7 @@
     ***Em***  
   I saw it all  
   
--  
+----  
   
   *I think that he tune's 1/2 step down but I'm not sure.*  
   *Always rythm guitar on top and lead guitar on bottom.*  

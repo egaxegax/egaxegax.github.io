@@ -117,7 +117,7 @@ Ending:  Sowing the seeds
   
   *Enjoy*  
   
--  
+----  
   
 Text:  High time we made a stand and shook up the views of the common man  
   And the lovetrain rides from coast to coast  

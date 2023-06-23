@@ -47,7 +47,7 @@ CHORUS:  Do you wanna see me crawl across the floor to y
   
   *|: Last 2 lines of Chorus :|*  
   
--  
+----  
   
   ***C           E7           Am           C           F        G          F          G***  
   

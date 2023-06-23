@@ -12,7 +12,7 @@ All Together Now
   
   ***F***All together now, all together now, ***C7***all together now, ***F***all together now...  
   
--  
+----  
   
 Text:  One, two, three, four  
   Can I have a little more?  

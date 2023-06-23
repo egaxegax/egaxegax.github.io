@@ -67,7 +67,7 @@ Reise, Reise (2004)
   *Compren el disco original no bajen la cancion bola de culeros tranzas.*  
   *camara suerte.*  
   
--  
+----  
   
   *Here's the tab for mein teil it's easy and killer!*  
   
@@ -181,7 +181,7 @@ Chorus:  |--------------------------------------|----------|
   |-h2-0-h2--2-0-h2-h5-h2-0-h2~--2-0-h2~-|-3~~~0~~~-|  
   |-h2-0-h2--2-0-h2-h5-h2-0-h2~--2-0-h2~-|-3~~~0~~~-|  
   
--  
+----  
   
 Tuning:  I think you drop ***D*** tuning  
   
@@ -224,7 +224,7 @@ Chorus:  Let the last three notes ring
   
   *That's all I know. There's more but I haven't firgured it out.*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -263,7 +263,7 @@ Chorus:  Let the last three notes ring
   *happy playing.(thank god for rammstein i*  
   *dont know what i'd do in my spare time,lmao)*  
   
--  
+----  
   
 Text:  „Suche gut gebauten 18-30jahrigen zum Schlachten“  
   Der Metzgermeister  
@@ -307,7 +307,7 @@ Text:  „Suche gut gebauten 18-30jahrigen zum Schlachten“
   Vom Wolkendach fallt Federfleisch  
   auf meine Kindheit mit Gekreisch  
   
--  
+----  
   
 Text:  Suche einen gut gebauten  
   drei?igjahrigen zum Schlachten.  
@@ -353,7 +353,7 @@ Chorus:  Denn du bist, was du isst
   
   *Chorus*  
   
--  
+----  
   
 English: My Part  
   
@@ -399,7 +399,7 @@ English: My Part
   Feather-flesh will shriekingly fall  
   from the top of the clouds onto my childhood  
   
--  
+----  
   
 Перевод: Часть меня  
   

@@ -78,7 +78,7 @@ Chorus:                  The first time�
   *Every chord is a barr chord except for ***A***.*  
   *Also the ***E*** chord that follow the ***F#*** barr chord isn't a barr chord.*  
   
--  
+----  
   
   ***F  G  D  B***  
   ****A  B  D  E*** &lt;=====(7th fret)*  

@@ -71,7 +71,7 @@ Song structure: Intro
   Chorus B         (03:53)  
   Intro            (04:13)  
   
--  
+----  
   
   *Drop D Tuning*  
   |-e-|  
@@ -108,7 +108,7 @@ Song structure: Intro
   ||-----------------5--------0---------||----------------------------||  
     Just as the clouds...                  Alone in fear...  
   
--  
+----  
   
   *This Riff is played the whole song:*  
     x3  
@@ -129,7 +129,7 @@ Song structure: Intro
   D||------0-0-----0-0-----0-----3-3-3---|]  
     *pm..    pm..    pm    pm....*  
   
--  
+----  
   
   *Standard Tuning*  
   
@@ -166,7 +166,7 @@ RIFF 2:  This is played while the girl sings
   
   *Thats it!*  
   
--  
+----  
   
 Intro:  (Played by Keyboard - transcribed for Guitar)  
   [ |v   v   v   v   v   v   v   v   |v   v   v   v   v   v   v   v   |  
@@ -228,7 +228,7 @@ Bridge:  Erst wenn die Wolken schlafen gehen
   
 Chorus:  Gott weiss ich will kein Engel sein  
   
--  
+----  
   
   *BASS*  
   
@@ -276,7 +276,7 @@ Chorus:  Gott weiss ich will kein Engel sein
   *followed by 2, then 1 followed by 2, then 1 a buncha times followed by 2 and so on.. any*  
   *time it sounds like a bass solo, its 1 followed immediately by 2.*  
   
--  
+----  
   
   *BASS*  
   
@@ -318,7 +318,7 @@ Chorus:  Gott weiss ich will kein Engel sein
   *Outro (x4)*  
   *Rest till end*  
   
--  
+----  
   
   *BASS*  
   
@@ -331,7 +331,7 @@ Chorus:  Gott weiss ich will kein Engel sein
   
   *repeat this through out whole song!*  
   
--  
+----  
   
   *Bass Tab:*  
   *(Played constantly over the whole song)*  
@@ -347,7 +347,7 @@ Chorus:  Gott weiss ich will kein Engel sein
   A|-3-5-5-6-5-5-3-5-5-6666--|  
   E|----------------------------------|]  
   
--  
+----  
   
 Text:  Wer zu Lebzeit gut auf Erden  
   Wird nach dem Tod ein Engel werden  
@@ -370,7 +370,7 @@ Text:  Wer zu Lebzeit gut auf Erden
   Wir haben Angst und sind allein  
   Gott weiss ich will kein Engel sein  
   
--  
+----  
   
 Перевод: Ангел  
   

@@ -57,7 +57,7 @@ Outro solo:  Guit. 1 plays Riff A  during this part  �
   
   Well, that's about it.  
   
--  
+----  
   
   ***G     A               G            A***  
   A malady has taken him over  
@@ -97,7 +97,7 @@ Outro solo:  Guit. 1 plays Riff A  during this part  �
   
   *(The rest of the song is just improvisation on this theme)*  
   
--  
+----  
   
 Text:  A malady has taken him over  
   Coughing tar in his japanese motor  

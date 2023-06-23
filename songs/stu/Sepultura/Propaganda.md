@@ -229,7 +229,7 @@
   G:--1---2---|  
   D:------0---|]  
   
--  
+----  
   
   *TABLATURE: A six line staff representing the six strings of a Guitar*  
     *from the highest to the lowest sounding string.*  

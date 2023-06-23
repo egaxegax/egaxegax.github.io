@@ -17,7 +17,7 @@ CHORUS:  G:----------------------------------------------|
   *Verse  } x1*  
   *Chorus } x9*  
   
--  
+----  
   
 Text:  When the siren's flash is gone  
   And we're left to carry on  

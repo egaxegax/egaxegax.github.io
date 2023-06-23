@@ -46,13 +46,13 @@ Verse:  My mind is set on overdrive.
   ***C(PM) C#(PM) A(PM)***  
   On my own...here we go.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
   ****A G F# F E*** (later on, throw in some pick scrapes in between chords)*  
   
--  
+----  
   
   *Tab symbols used:*  
   *x  - rake*  

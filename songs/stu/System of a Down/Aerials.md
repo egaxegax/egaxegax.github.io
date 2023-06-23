@@ -152,7 +152,7 @@ Tuning:  ***D A F C G C***
   When you free your eyes,  
   Eternal prize.  
   
--  
+----  
   
 Tuning:  C,G,C,F,A,D  
   

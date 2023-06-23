@@ -20,7 +20,7 @@
     [A --2---4--  
     E --0---2--]  
   
--  
+----  
   
 Text:  It's my birthday  
   No one here day  

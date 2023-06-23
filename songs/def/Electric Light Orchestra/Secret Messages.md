@@ -40,7 +40,7 @@ Chorus:  the secret messages are calling to me endlessly
   
   *Chorus*  
   
--  
+----  
   
 Text:  A moving stream of information  
   That is floating on the wind  

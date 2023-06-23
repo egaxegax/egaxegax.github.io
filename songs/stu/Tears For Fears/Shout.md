@@ -26,7 +26,7 @@ VERSES:  In violent times, you shouldn't through your soul a
   *Would be happy to get the whole lyrics posted soon by some cool dude.*  
   *Thank You!*  
   
--  
+----  
   
 Text:  Shout  
   Shout  

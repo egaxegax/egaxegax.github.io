@@ -72,7 +72,7 @@
   *no idea what Munky plays.*  
   *Then play Head's verse riff for the "all my life" part.*  
   
--  
+----  
   
 Text:  Here I am different in this normal world  
   Why did you tease me make me feel upset  

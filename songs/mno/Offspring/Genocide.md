@@ -34,7 +34,7 @@ Smash (1994)
   *Then just guitar plays the chorus. Bass jumps in when drums jumps in.*  
   *That is really it.*  
   
--  
+----  
   
   *This song has a nice solo and intro. This is also very easy to play and sing*  
   *at the same time. Okay, nothing else to say - Go ahead. Make my day!*  
@@ -96,7 +96,7 @@ Smash (1994)
   *Play chorus or solo "few" times, end with pre-chorus with last chord ringing.*  
   *Hope you liked my genocide!*  
   
--  
+----  
   
 Text:  Our lives run different ways  
   Through the rain I see you in the sun  

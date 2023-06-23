@@ -74,7 +74,7 @@
   E:--0--0-0-0-1-1-3-3-1-1-1-1-1-1-1-1--|]  
     *(             pm            )*  
   
--  
+----  
   
   *All the rhythm parts are here. For the 1st solo go figure it*  
   *out for yourself and for the 2nd use your trem bar a lot.*  

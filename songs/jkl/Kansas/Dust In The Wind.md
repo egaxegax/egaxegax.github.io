@@ -75,7 +75,7 @@ Interlude: Oh. ho, ho
   *(Ad lib vocal)*  
   *----------------------- END of excerpt from nevada -------------*  
   
--  
+----  
   
 Intro:  ***C Cmaj7 C(add9) C Asus2 Asus4 Am Asus2***  
   ***C(add9) C Cmaj7 C(add9) Am Asus2 Asus4 Am***  
@@ -96,7 +96,7 @@ Intro:  ***C Cmaj7 C(add9) C Asus2 Asus4 Am Asus2***
   Dust in the wind, all we are is dust in the wind.  
   Dust in the wind, all we are is dust in the wind.  
   
--  
+----  
   
 Text:  I close my eyes,  
   only for a moment,  
@@ -133,7 +133,7 @@ Text:  I close my eyes,
   Dust in the wind,  
   everything is dust in the wind.  
   
--  
+----  
   
 Перевод: Пыль на ветру  
   

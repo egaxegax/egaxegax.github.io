@@ -62,7 +62,7 @@ Verse:  Flying high above
   
   *Chorus } x2*  
   
--  
+----  
   
 Text:  Remember the good old 1980s?  
   When things were so uncomplicated?  

@@ -41,7 +41,7 @@ CHORUS:  All I have is yours
   *(from All Things Must Pass, 1970.  P.S. does anyone know the chords to*  
   *the song Apple Scruffs from this album?)*  
   
--  
+----  
   
 Text:  Let me in here, I know I've been here  
   Let me into your heart  

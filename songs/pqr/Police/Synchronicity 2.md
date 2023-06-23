@@ -100,7 +100,7 @@
   *they're not completely wrong either :)*  
   *Have fun!*  
   
--  
+----  
   
   *I play it slightly different. Opening riff is the same but riff into verse I use:*  
   [E -----------------  

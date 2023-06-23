@@ -36,7 +36,7 @@
   (say goodbye) Never say goodbye  
   (Never say goodbye)  
   
--  
+----  
   
 Перевод: Друзья Никогда Не Скажут "Прощай"  
   

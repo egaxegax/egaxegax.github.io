@@ -32,7 +32,7 @@ The Night Before
   Treat me like you did the night before,  
   like the night before.  
   
--  
+----  
   
       ***D7        F7      G7      A7***  
    ***D            C G A7 D***  
@@ -66,7 +66,7 @@ The Night Before
   Treat me like you did the night before,  
   like the night before.  
   
--  
+----  
   
 Text:  We said our goodbyes, ah, the night before.  
   Love was in your eyes, ah, the night before.  

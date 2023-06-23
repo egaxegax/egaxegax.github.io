@@ -574,7 +574,7 @@ Sheer Heart Attack 1974, Live Killers 1977
   *middle &gt; left echo &gt; right echo*  
   *0.80...0.85 sec*  
   
--  
+----  
   
   *1'47"*  
   |----------------------------------|  
@@ -721,7 +721,7 @@ Sheer Heart Attack 1974, Live Killers 1977
   |--------2-0h2-2p0--0-----|----|--------------------210------------7---|  
   |-----------------30----3-|----|----..3p0--------------300000000h5-0---|  
   
--  
+----  
   
   *intro solo from Live At The Wembley*  
   
@@ -767,7 +767,7 @@ Sheer Heart Attack 1974, Live Killers 1977
   |-7-9-----------------5-7-8-9------------------------|  
   |---------7v----5-6-7--------------------------------|  
   
--  
+----  
   
   *Brighton Rock solo (part of)*  
   *played as outtro on*  
@@ -871,7 +871,7 @@ Sheer Heart Attack 1974, Live Killers 1977
   |-----10h12p10h12/14-----14------------------------------------2-1-0--------|  
   |-12-----------------------------------------------------------------3-0----|  
   
--  
+----  
   
 Text:  Happy little day, Jimmy went away  
   Met his little Jenny on a public holiday  

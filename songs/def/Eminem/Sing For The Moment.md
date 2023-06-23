@@ -14,7 +14,7 @@ THE EMINEM SHOW (2002)
   *Да, в конце припева еще идет H. Проигрывать лучше легким перебором,*  
   *то бишь ***Fm*** ([4-3-2-1]) ***D#*** ([4-3-2-1]) etc., цифры - это номер струны, 1 - самая тонкая.: ).*  
   
--  
+----  
   
   *Вooбщe тo, этo игpaeтcя нa 6-ти cтpyннoй гитape.*  
   *Нaчинaeм c нoты cи - бeмoль.*  
@@ -38,7 +38,7 @@ THE EMINEM SHOW (2002)
   *Пoтoм идёт кaкaя - лeнивaя пpoгpeccия, пpичём нa плacтинкe.*  
   *Ecли вы eё нaчнётe игpaть, ктo вac бyдeт cлyшaть? :)*  
   
--  
+----  
   
 Verse 1: These ideas are nightmares to white parents  
   Whose worst fear is a child with dyed hair and who likes earrings  
@@ -124,7 +124,7 @@ Verse 3: They say music can alter moods and talk to you
   
   *chorus } x2*  
   
--  
+----  
   
 Eminem:  Эти мысли - кошмары для белых родителей, для которых нет ничего хуже  
   ребенка с крашеными волосами и серьгами.  

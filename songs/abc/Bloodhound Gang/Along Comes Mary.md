@@ -32,7 +32,7 @@ Along Comes Mary
   E ---------------------------------------------------------------------]  
   *I think it's pretty much it...*  
   
--  
+----  
   
   *This song is absolutely easy but it's quite fast and sounds very cool!*  
   

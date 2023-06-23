@@ -78,7 +78,7 @@
   *be that they are pressing hard on the floating bridges which makes them*  
   *go sharp.*  
   
--  
+----  
   
 Text:  Go  
   I can in every way, escape the pain I feel inside  

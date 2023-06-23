@@ -70,7 +70,7 @@ Riff:  [e-------------------------
   The lights go down  
   And there's no one around.  
   
--  
+----  
   
 Riff:  [e-------------------------  
   B-------------------------  
@@ -136,7 +136,7 @@ Riff:  [e-------------------------
   The lights go down  
   And there's no one around.  
   
--  
+----  
   
 Text:  (The lights go down...)  
   

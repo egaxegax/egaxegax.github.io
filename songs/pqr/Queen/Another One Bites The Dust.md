@@ -42,7 +42,7 @@ The Game 1980
   
   *Good plucking!*  
   
--  
+----  
   
   *bass-tablature*  
   *riff 1                                riff 2*  
@@ -72,7 +72,7 @@ The Game 1980
   *"strange" chord: [xx4452]  ***EA D GBE****  
   *funky chords: [x79987] , [81010988]*  
   
--  
+----  
   
 Text:  Steve walks warily down the street,  
   with the brim pulled way down low  

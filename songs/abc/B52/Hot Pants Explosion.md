@@ -24,7 +24,7 @@ Hot Pants Explosion
   *drummer who played the guitar alone in the studio before the vocals were*  
   *recorded. It was then mixed in later.*  
   
--  
+----  
   
   *It is a classic Fred Schnider tune with great lyrics.*  
   *(If you want 'em posted Email me)*  

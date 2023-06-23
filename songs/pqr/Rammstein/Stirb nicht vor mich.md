@@ -122,7 +122,7 @@ Stirb nicht vor mich
   
   *(*) Behind of 2nd Guitar ***Bm***,***F#m***,***Gm***,***Em*** playing chords.*  
   
--  
+----  
   
    ***Am                      C***  
   Die Nacht offnet ihren Schoss  

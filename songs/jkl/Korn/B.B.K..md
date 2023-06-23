@@ -37,7 +37,7 @@ B.B.K.
   *(riff 3)(riff 4)(string 1)(riff 4)(string 2)(riff 5)(riff 2)*  
   *(riff 2)(riff 6)(riff 2)*  
   
--  
+----  
   
   *Tuning: Whole Step Down ([DGCFAD])*  
   *Fig1 (Intro/Outro riff)*  

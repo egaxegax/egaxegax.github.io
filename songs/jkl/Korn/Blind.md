@@ -40,7 +40,7 @@
   A|*--13-------12--------*|  
   D|-----13-12-----12-13---|]  
   
--  
+----  
   
 Text:  ARE YOU READY?  
   This place inside my mind  

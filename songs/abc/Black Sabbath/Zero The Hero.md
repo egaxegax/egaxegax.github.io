@@ -25,7 +25,7 @@ Born Again (1983)
   |-----------------------3--------------5---3---5---7-------  
   |-3-4-5-5-3-4-5-5-3-4-5---5-3-5-5-3-5----------3---5-------  
   
--  
+----  
   
   *I have made little attempt at showing timing in my TAB notation. You'll*  
   *have to listen to the song for correct timing.*  

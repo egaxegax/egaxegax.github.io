@@ -94,7 +94,7 @@ Hot Space 1982
   Under pressure  
   Pressure  
   
--  
+----  
   
 Text:  Pressure pushing down on me  
   Pressing down on you no man ask for  

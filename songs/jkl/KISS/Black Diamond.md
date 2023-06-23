@@ -105,7 +105,7 @@
   A|----------------------------------|  
   E|----------------------------------|]  
   
--  
+----  
   
   *Notes in parentheses are tied from previous measure. Time values followed*  
   *by an 'r' are rests for the indicated time.*  

@@ -56,7 +56,7 @@
   *Lead Guitar (or bass; I dunno)*  
   *Crd. prog.: ***D D D D F G****  
   
--  
+----  
   
   *Drop-D Tuning*  
   
@@ -134,7 +134,7 @@
   *This is one of the first tabs that I've done, so no guarentee.*  
   *I'm not too sure about the chorus, but everything else seems right.*  
   
--  
+----  
   
 Chords Used:     ***D            Eb            G             Dm***  
   [_________    __________    __________    __5_______  
@@ -159,7 +159,7 @@ Verse:  I'm not sure if this part is right.
   
 Chorus:  For the chorus, just follow the same pattern as the opening.  
   
--  
+----  
   
 Text:  I Wanna Riot  
   I saw a man, get the beat dead  

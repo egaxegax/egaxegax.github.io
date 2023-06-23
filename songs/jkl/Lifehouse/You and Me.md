@@ -134,7 +134,7 @@ Last verse: What day is it?
     ***Em          D         C***  
   This clock never seemed so alive.  
   
--  
+----  
   
   **NOTE: This tab is not EXACTLY the way Jason plays it. For example, Jason actually*  
   *plays a ***C2*** which is [032033], but I tabbed out a [X3X033]. I do this for style reasons.*  

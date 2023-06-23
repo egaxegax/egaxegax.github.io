@@ -77,7 +77,7 @@ Chorus:  Is this the world we created
   What can he think of what we've done  
   To the world that he created  
   
--  
+----  
   
   *Intro:*  
   [-1---1---0---0---1---1---0---0---  
@@ -133,7 +133,7 @@ Chorus:  Is this the world we created
   we've done  
   To the world that he created.  
   
--  
+----  
   
 Text:  Just think of all those hungry mouths we have to feed  
   Take a look at all the suffering we breed  

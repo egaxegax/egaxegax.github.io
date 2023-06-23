@@ -68,7 +68,7 @@ Song structure: Intro x4
   Chorus x4         (02:54)  
   Main Riff         (03:30) fade out=20  
   
--  
+----  
   
 TUNNING: Drop-D  
   
@@ -106,7 +106,7 @@ SECOND RIFF:                      
   A|-5-5-5-5-5-5-5-5-|----/--O----|  
   D|-5-5-5-5-5-5-5-5-|------------|]  
   
--  
+----  
   
   *It's the bit at the start of the song but it goes on most of the way through*  
   
@@ -118,7 +118,7 @@ SECOND RIFF:                      
   *don't know how to play the bit in the middle where he goes*  
   *"eins fur mich, eins fur dich"*  
   
--  
+----  
   
   *Just put this up because the guy who wrote*  
   *the intro did it totally wrong. This is*  
@@ -238,7 +238,7 @@ SECOND RIFF:                      
   
   *Main Riff (As the song fades out...)*  
   
--  
+----  
   
 Text:  Ich hab ihr einen Kuss gestohlen  
   sie wollte sich ihn wiederholen  
@@ -294,7 +294,7 @@ Text:  Ich hab ihr einen Kuss gestohlen
   ein und eins  
   das bin ich  
   
--  
+----  
   
 Перевод: Гермофродит  
   

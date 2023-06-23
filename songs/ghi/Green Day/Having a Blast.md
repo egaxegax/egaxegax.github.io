@@ -84,7 +84,7 @@
   *A  B  C  D  B  C  D  E*  
   *I think part E is a bit dodgy but I don't think it is too far out*  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  
@@ -95,7 +95,7 @@
   ***A F# B E A F# D A E***  
   ***F# D A F# G A G A***  
   
--  
+----  
   
 INTRO:  ***A5 G5***  
   

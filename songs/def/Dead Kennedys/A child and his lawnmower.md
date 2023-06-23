@@ -29,7 +29,7 @@ intro:  [хe-|--------------------------------------------------------------
   *to sound quite right to me... but maybe I'm just screwing the rythem up*  
   *or something...*  
   
--  
+----  
   
   *Someone somewhere once upon a time mentioned the DKs, well here it is the intro*  
   *to "a child and his lawnmower" off "Give me convenience or..." and probably some*  
@@ -41,7 +41,7 @@ intro:  [хe-|--------------------------------------------------------------
   *Go listen and you'll get the idea. If you are a DK fan and you don't have this*  
   *album then go find it. It absolutely rules even more than Dangermouse.*  
   
--  
+----  
   
 Перевод: Парень и его газонокосилка  
   *(Слова - Биафра)*  

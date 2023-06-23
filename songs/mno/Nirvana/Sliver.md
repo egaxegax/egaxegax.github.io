@@ -10,7 +10,7 @@ Bass Intro: 1|-----------------------------
 Verse:  ***C5 F5 C5 A5***  
 Chorus:  ***A5 C5***  
   
--  
+----  
   
   *This would appear to be played through the whole song.*  
   [G-----------------------------|---------------------------|  

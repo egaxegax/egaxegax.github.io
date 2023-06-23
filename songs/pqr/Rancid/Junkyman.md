@@ -22,7 +22,7 @@
   *broken by a bass/poetry solo which just*  
   *follows the verse riff.*  
   
--  
+----  
   
 CHORDS USED:      ***A     F#     D     E***  
   |---------------------------|  

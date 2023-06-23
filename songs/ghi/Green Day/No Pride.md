@@ -52,7 +52,7 @@ Verse:  Sects of disconnection,
   ***A  C***  
   Before the final fall.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -60,7 +60,7 @@ Verse:  Sects of disconnection,
   ***C# D# G# C#***  
   ***G# C C# E G# D#***  
   
--  
+----  
   
 Intro:  ***G5  D5  C5*** } x4  
   
@@ -131,7 +131,7 @@ Intro:  ***G5 D5 C5*** } x3
   
   *That's All Folks!!!*  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

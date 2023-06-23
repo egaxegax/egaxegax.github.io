@@ -50,7 +50,7 @@ LYRICS:  HANGING ON HERE UNTIL I'M GONE I'M RIGHT WHERE I�
   LIE IN SHADOWS OF THEM ALL I'D STAND BUT THEY'RE MUCH TOO TALL AND I'LL  
   FALL FEBRUARY STARS FLAOTING IN THE DARK TEMPORARY SCARS FEBRAURY STARS  
   
--  
+----  
   
   *dropped D tuning*  
   [e|--5--5---5-----5----3-3---7-7-7---3-3--7-7----5---5-----  

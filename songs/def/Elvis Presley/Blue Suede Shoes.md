@@ -25,7 +25,7 @@ Blue Suede Shoes
   ***A*** Blue blue/blue suede shoes  
   you can ***E***do anything but lay ***D***off of my blue suede ***A***shoes  
   
--  
+----  
   
 Solo:  [E||--5--5--5--5--5--5--5--5--|--5--5--5--5--5--5--5--5--|  
   B||--5--5--5--5--5--5--5--5--|--5--5--5--5--5--5--5--5--|  

@@ -33,7 +33,7 @@ BRIDGE:  ***Em           Am         
   
   ***Em7***: [022030] ***Cmaj7***: [x32000]  
   
--  
+----  
   
 Text:  It's been a long time  
   Now I'm coming back home  

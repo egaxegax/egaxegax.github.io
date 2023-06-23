@@ -60,7 +60,7 @@
   
   Леееей!  
   
--  
+----  
   
 Tuning:  EADGBE (Standart)  
 Time Signature: 4/4  

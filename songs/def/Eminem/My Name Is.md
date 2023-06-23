@@ -24,7 +24,7 @@ The Slim Shady LP CD1 (1999)
   *Thats all there is. Theres drums too and a white bloke rapping.*  
   *~Ned*  
   
--  
+----  
   
 Chorus:  repeat } 2X  
   Hi!  My name is.. (what?)  My name is.. (who?)  

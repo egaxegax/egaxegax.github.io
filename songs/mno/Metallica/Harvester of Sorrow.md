@@ -142,7 +142,7 @@ solo:  [E-----------------------------------------------------
   Harvester of sorrow  
   Language of the mad  
   
--  
+----  
   
   *Since there's been alot of Metallica posts, here's my version of Harvester*  
   *of Sorrow from AJFA. It should be pretty close.  You'll need to figure out*  

@@ -42,7 +42,7 @@ Wish You Were Here (1975)
      ***Cmaj7                Em***  
   So welcome to the machine.  
   
--  
+----  
   
   ****Emadd9  Cmaj7(2)  Emadd9*** (all strum backwards)*  
   ***Em              C               Em***  

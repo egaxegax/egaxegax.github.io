@@ -243,7 +243,7 @@ Lyrics:  Oh Oh people of earth
   Late too late all the wretches run  
   These kinds of beasts now counting their days.  
   
--  
+----  
   
 Text:  Oh Oh people of earth  
   Listen to the warning  

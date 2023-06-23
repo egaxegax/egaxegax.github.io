@@ -80,7 +80,7 @@ Chorus:  You're the uninvited guest who stays till the end
   
   *song ends on a "***B***" chord*  
   
--  
+----  
   
 Text:  What was that sound ringing around your brain?  
   Today was just a blur, you gotta head like a ghost train  

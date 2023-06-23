@@ -41,7 +41,7 @@ Choris:  G
   *(Verce to chorus, end on the 1st tab)*  
   *(Listen to the song for awhile to get timing down)*  
   
--  
+----  
   
 Intro:  ***E5   D5 A5***  
   

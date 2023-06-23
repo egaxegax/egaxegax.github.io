@@ -28,7 +28,7 @@ Can't Help Falling In Love
   
   *Last verse + repeat last line*  
   
--  
+----  
   
   ***D       A    D***  
   Wise men say  
@@ -76,7 +76,7 @@ Can't Help Falling In Love
   for I can't help  
   falling in love with you  
   
--  
+----  
   
   ***C    G   C         F     C    G    G7***  
   wise men say  only fools rush in  

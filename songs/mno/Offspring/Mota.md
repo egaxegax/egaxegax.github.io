@@ -53,7 +53,7 @@ Ixnay On The Hombre (1997)
   *-&gt;Then play INTRO2, INTRO3, CHORUS X5 (3rd time with palm-muting) and INTRO2.*  
   *Tata tatata ta ta tatatata ta ta tatatata!!! There you have it!*  
   
--  
+----  
   
 Гитapa 1: [E||------------------|------------------|------------------|------------------|  
   B||------------------|------------------|------------------|------------------|  
@@ -496,7 +496,7 @@ Ixnay On The Hombre (1997)
   ----10----10--10--10--10----|--10----10----10--10--10--10--||  
   ----------------------------|------------------------------||]  
   
--  
+----  
   
 Text:  Mota!  
   Everyday, well it's the same  

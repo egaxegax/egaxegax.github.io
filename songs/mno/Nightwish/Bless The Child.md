@@ -334,7 +334,7 @@ Century Child (2002)
   ---|---|---|---|---|---||  
   ---|---|---|---|---|---||]  
   
--  
+----  
   
 Text:  Bless The Child  
   
@@ -373,7 +373,7 @@ Text:  Bless The Child
   
   The Child bless thee & keep thee forever"  
   
--  
+----  
   
 Перевод: Благослови Дитя  
   
@@ -410,7 +410,7 @@ Text:  Bless The Child
   лишь только имя…  
   Да благословит тебя дитя и сохранит тебя навсегда.  
   
--  
+----  
   
   *Emppu (Lead Guitar)*  
   

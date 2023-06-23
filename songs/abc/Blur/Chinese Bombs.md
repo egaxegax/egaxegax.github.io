@@ -50,7 +50,7 @@
   Bruce Lee comes to save the day  
   Bruce Lee comes the Chinese way  
   
--  
+----  
   
 Text:  He makes an inner arm block  
   Then kicks off from behind  

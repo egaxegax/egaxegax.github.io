@@ -67,7 +67,7 @@ Conspiracy Of One (2000)
   Ab|--7--7-7-7--7--3~-----5--5-5-5--5--3~-----3-3-3--5--|  
   Eb|--5--5-5-5--5---------3--3-3-3--3--1~-----1-1-1--3--|]  
   
--  
+----  
   
 Text:  Somewhere the time was right, could have been gone in ten  
   This world is hard to fight, hitting you once, hit it again  

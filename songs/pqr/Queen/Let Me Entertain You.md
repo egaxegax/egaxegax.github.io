@@ -152,7 +152,7 @@ Lyrics:  Let me welcome you ladies and gentlemen
   Let me entertain you let me entertain you  
   Let me entertain you tonight  
   
--  
+----  
   
 Text:  Let me welcome you ladies and gentlemen  
   I would like to say hello  

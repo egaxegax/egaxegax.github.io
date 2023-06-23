@@ -49,7 +49,7 @@ Intro:  ***C Am G F*** } x2
   but it's you i fell into  
     ***C   G F    C***  
   
--  
+----  
   
 Intro:  ***C***,***G***,***C***,***F***, } X2  
   
@@ -68,7 +68,7 @@ Other Bit: But it's you......I  fell  in  to
   *song. The final chord he strikes is a ***C7***. I really don't have a clue*  
   *about any of the lyrics so the ones I have here are simply as a guide.*  
   
--  
+----  
   
   ***E        [022100]***  
   ****F***      [133211] or [xx3211]*  

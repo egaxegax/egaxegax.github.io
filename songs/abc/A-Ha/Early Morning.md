@@ -47,7 +47,7 @@ Early Morning (2:58)
   Early morning  
   Eight o'clock precise  
   
--  
+----  
   
       ***Am***  
   Early morning  

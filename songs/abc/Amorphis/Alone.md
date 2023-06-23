@@ -30,7 +30,7 @@ chorus:  there are no flowers on your grave
   *pre-chorus*  
   *chorus*  
   
--  
+----  
   
   *Перевод:*  
   

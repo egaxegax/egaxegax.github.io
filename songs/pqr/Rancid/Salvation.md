@@ -57,7 +57,7 @@ Bridge:  ***C***, ***D*** (Palm Muted)
   
   ok, there it is.  
   
--  
+----  
   
   *Chords (low2high)*  
   ***A [X022XX]***  

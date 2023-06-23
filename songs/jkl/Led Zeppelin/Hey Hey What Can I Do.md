@@ -67,7 +67,7 @@ Hey Hey What Can I Do
   ***C***  
   I got a woman, wanna ball all day  
   
--  
+----  
   
   *I'm not sure but i got this version off of the album "Encomium,*  
   *a tribute to Led Zeppelin." It has this song redone by Hootie & the Blowfish.*  
@@ -120,7 +120,7 @@ Chorus:  I got a woman wanna ball all day....
   
   *Enjoy!!!*  
   
--  
+----  
   
 Text:  Wanna tell you about the girl I love  
   My she looks so fine  

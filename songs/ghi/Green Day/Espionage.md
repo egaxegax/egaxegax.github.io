@@ -66,7 +66,7 @@ Hitchin' A Ride Import/Single
   *some of the notes in the main Guitar Riff it was a great starter, thanks*  
   *dude. Enjoy!*  
   
--  
+----  
   
   *This is an Instrumental*  
   

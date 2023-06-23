@@ -102,7 +102,7 @@ Solo:  [e -------- --------        --------
   As we ride, ride how we ride (Riff 7)  
   Let's ride, lowride  
   
--  
+----  
   
 Перевод: Полицейская машина  
   *(Слова - Биафра)*  

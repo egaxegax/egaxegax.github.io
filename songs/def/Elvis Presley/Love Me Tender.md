@@ -26,7 +26,7 @@ Love Me Tender
   Happiness will follow you  
   Everywhere you go)  
   
--  
+----  
   
   *Aha!, I've just learnt this for the bass, so here'tis*  
   [E---3------------------------  
@@ -50,7 +50,7 @@ Love Me Tender
   G--------------------------------------]  
   *Have fun, and give it some slap ;-)*  
   
--  
+----  
   
   *Chord diagrams:*  
   ****B7*** - [o212o2] ***Cm*** - [xx1o13]*  
@@ -88,7 +88,7 @@ Chorus:  Love me tender, love me true,
   I'll be yours through all the years,  
   till the end of time.  
   
--  
+----  
   
 Перевод: Люби меня нежно.  
   

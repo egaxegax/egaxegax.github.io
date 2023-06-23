@@ -196,7 +196,7 @@ The Long And Winding Road
   *play bass notes. In (b), your middle and ring fingers can add hramony*  
   *notes or you can do "harmonic cascade".*  
   
--  
+----  
   
     ***Cm           Gm                 Ab/Bb        Eb***  
   ***EB/Db   Ab***  
@@ -218,7 +218,7 @@ The Long And Winding Road
     *VERSE*  
     *CHORUS..............*  
   
--  
+----  
   
 Text:  The long and winding road that leads to your door,  
   Will never disappear,  

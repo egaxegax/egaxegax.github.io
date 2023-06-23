@@ -31,7 +31,7 @@ Intro:  | ***E5*** | ***E5*** | ***E5*** | ***E5*** | ***E
   hey-hey-hey  hey-hey-hey.  
   *etc...*  
   
--  
+----  
   
   We'***E***d like to know a little bit about you for our files  
   We'***A***d like to help you learn to help yourselves  

@@ -59,7 +59,7 @@ The Offspring (1989)
   E-----------------------|]  
   *Unplug your guitar and turn off the amplifier, then think: "This was cool!"*  
   
--  
+----  
   
 Text:  Look at my soldier boy now  
   With that big gun in your little hand  

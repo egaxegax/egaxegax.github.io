@@ -41,7 +41,7 @@ Exhausted
   *second guitar and bass. Near the end of the verse Am is played loudly*  
   *and repeatedly.*  
   
--  
+----  
   
   *It's still in the drop D tuning...*  
   
@@ -83,7 +83,7 @@ Intro/Verse: [e:---------1------------|----------1------------|
   |  |  |  |  |  |  
   +--------------+]  
   
--  
+----  
   
   *This song is played in Drop-D tuning, where you tune your low E string*  
   *down to a D (the same as Alone+Easy Taget.)*  

@@ -45,7 +45,7 @@ Intro:  ***G  F  G  F  G  F  C***
   *(repeat chorus 2x)*  
   *(This is all correct, it's straight from the band's notes!!!)*  
   
--  
+----  
   
   ***G               Gmaj7***  
   Ants in the carpet  
@@ -104,7 +104,7 @@ Chorus:  We all say
   
   *Chorus*  
   
--  
+----  
   
 Text:  She said there's ants in the carpet  
   Dirty like monsters  

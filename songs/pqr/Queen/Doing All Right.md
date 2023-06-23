@@ -206,7 +206,7 @@ Queen 1972
   |-------------------------------|  
   |-------------------------------|  
   
--  
+----  
   
 Text:  Yesterday my life was in ruins  
   Now today I know what I'm doing  

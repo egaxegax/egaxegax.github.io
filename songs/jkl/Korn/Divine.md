@@ -87,7 +87,7 @@
   *It ain't cool dissin' people 'cause you think your transcription is*  
   *right--next time just enter it without the rude comments.*  
   
--  
+----  
   
 Text:  I hide only to defy you  
   Take away the only life inside you  

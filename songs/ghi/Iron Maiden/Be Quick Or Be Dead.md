@@ -119,7 +119,7 @@
   A:----------------5--------3----------1----||  
   E:--------------------------------------3--||]  
   
--  
+----  
   
   Covered in sinners and dripping with guilt,  
   Making you money from slime and from filth...  

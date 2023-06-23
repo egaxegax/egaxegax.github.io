@@ -51,7 +51,7 @@ Ignition (1993)
   A|-5-5-5-7-7-7-7-5-5-5-7-7-7-7- } Repeat 1  
   E|-----------------------------]  
   
--  
+----  
   
 Text:  I think I'm burning up inside  
   I think I'll take a little ride  

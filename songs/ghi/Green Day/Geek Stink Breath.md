@@ -82,7 +82,7 @@
   ****G***, ***E***(barre) / ***B****  
   Breath...........  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   
@@ -91,7 +91,7 @@
   ***A# F***  
   ***G F***  
   
--  
+----  
   
   *Intro*  
   [G  
@@ -126,7 +126,7 @@
   E-2-2-2-2-0-0-0-0]  
   *(Chorus pt 1 and 2, to brige then end on 1st tab)*  
   
--  
+----  
   
   *This is the song off green day's insomniac album that is on MTV and was*  
   *played on saturday night live. It's called geek stink breath*  
@@ -149,7 +149,7 @@
   *then back to the verse. any turnarounds or scales or anything special like*  
   *that that is used may not be in here, this is just the raw tab.*  
   
--  
+----  
   
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  

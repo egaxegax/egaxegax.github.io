@@ -297,7 +297,7 @@ The Trooper
   |-------------------------------------|  
   |-------------------------------------|  
   
--  
+----  
   
 Lyrics:  Youll take my life but Ill take yours too  
   Youll fire you musket but Ill run you through  

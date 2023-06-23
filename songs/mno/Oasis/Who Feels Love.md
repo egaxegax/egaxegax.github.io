@@ -92,7 +92,7 @@ CHORUS-3: I thank you for the sun
 OUTRO:  ***G*      G/F     G/E     G/D     G*      G/F     G/E     G/D***  
   ***G*      G/F     G/E     G/D     G*      G/F     G/E     G/D*** } REPEAT UNTIL FADE  
   
--  
+----  
   
 Text:  Found what I'd lost inside  
   My spirit has been purified  

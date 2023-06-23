@@ -117,7 +117,7 @@ The Masterplan (1998)
   A--0---0-----0-----0-----0----0----0--2      -0-0-0-0-0-0-0-2-  
   E-------------------------------------0      ---------------0-]  
   
--  
+----  
   
   *Chords Used:*  
   ****Am***:[002210]*  
@@ -198,7 +198,7 @@ The Masterplan (1998)
   ***G                           Am7***  
   We're all part of the masterplan  
   
--  
+----  
   
   *I worked out the intro so it sounds right when played on one guitar (you*  
   *need bass to do what they actually do). Basically, it`s an Am chord with one*  
@@ -298,7 +298,7 @@ The Masterplan (1998)
   ***F... G... E7...***  
   *Then do the intro to finish (and some widdly guitar bits).*  
   
--  
+----  
   
 Text:  Take the time to make some sense  
   Of what you want to say  

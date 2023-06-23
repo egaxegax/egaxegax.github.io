@@ -38,7 +38,7 @@ Intro:  [V-3 IV-0-2-0]
   Then make them bring the curtain down.  
   Is your heart...  
   
--  
+----  
   
     ***C          Em***  
   Are You lonesome tonight?  

@@ -56,7 +56,7 @@ Judas
   If you want my love  
   If you want my love  
   
--  
+----  
   
   *Here are the guitar chord shapes: (but it sounds better on keyboard!)*  
   ****Db***     - [x x 3 1 2 1] OR [x 4 6 6 6(4)]*  

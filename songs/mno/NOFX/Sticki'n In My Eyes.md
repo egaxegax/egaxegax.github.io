@@ -17,7 +17,7 @@ Sticki'n In My Eyes
   
   *repeat a few times*  
   
--  
+----  
   
   *Tune guitar 1/2 step down, it will sound like crap if you don't*  
   *I didn't put the rythyms, so just figure them out*  

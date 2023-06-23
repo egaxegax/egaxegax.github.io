@@ -79,7 +79,7 @@ Be Here Now (1997)
   Yeah, Yeah,  
   Yeah, Yeah.  
   
--  
+----  
   
 Text:  Step off the train all alone at dawn  
   Back into the hole where I was born  

@@ -111,7 +111,7 @@ Lyrics:  Take this pink ribbon off my eyes
   *I don't have the album with me right now, so the timing for the*  
   *chorus may be a little off.*  
   
--  
+----  
   
 Intro:  (Moderately Fast Rock: tempo = 108)  
   

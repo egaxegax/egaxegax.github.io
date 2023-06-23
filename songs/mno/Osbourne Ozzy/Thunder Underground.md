@@ -29,7 +29,7 @@ Thunder Underground
   |-0-0---0-0---0-0-0---0-0-0---2/3-2/3-|  
   *...I'm gonna figure that slow part out...*  
   
--  
+----  
   
 Text:  Your thoughts are compromising  
   Self - centered, patronized  
@@ -70,7 +70,7 @@ Text:  Your thoughts are compromising
   Subverts your every hour  
   But every time the mighty fall  
   
--  
+----  
   
 Перевод: Гром Подземный  
   

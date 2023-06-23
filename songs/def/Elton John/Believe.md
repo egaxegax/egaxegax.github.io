@@ -49,7 +49,7 @@ intro:  ***Gm  Gm/F  Eb  Cm  Dsus4 D*** } repeat
   
 outro:  ***Cm  Bb/C  Ab/C  Fm/C  Cm  G7/C  C5***  
   
--  
+----  
   
 Text:  I believe in love, it's all we got  
   Love has no boundaries, costs nothing to touch  
@@ -80,7 +80,7 @@ Text:  I believe in love, it's all we got
   I believe in love  
   I believe in love  
   
--  
+----  
   
 Перевод: Верю  
   

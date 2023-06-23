@@ -29,7 +29,7 @@
   *(Heavy Distortion)*  
   *(Chorus: See Intro)*  
   
--  
+----  
   
 TUNING:  A, D, G, C, F, A, D  
   

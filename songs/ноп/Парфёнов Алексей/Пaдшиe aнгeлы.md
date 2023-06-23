@@ -37,7 +37,7 @@ Intro:  ***Dm A* Dm Dm*** (playing)
   
 Coda:  ***Dm Am Dm Dm*** (player)  
   
--  
+----  
   
   *(Кoнцepтнaя вepcия)*  
   

@@ -86,7 +86,7 @@ Definitely Maybe (1994)
   *CHORUS*  
   *BRIDGE*  
   
--  
+----  
   
 Text:  Hey you! Up in the sky  
   Learning to fly  

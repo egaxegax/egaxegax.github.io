@@ -29,7 +29,7 @@
   *this is the basic lines to she, it wasent easy so i hope*  
   *you enjoy it i do*  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  
@@ -40,7 +40,7 @@
   ***G D C G C G***  
   ***G***  
   
--  
+----  
   
 INTRO:  ***G***  
   

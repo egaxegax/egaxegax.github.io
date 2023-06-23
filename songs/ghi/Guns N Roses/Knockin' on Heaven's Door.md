@@ -103,7 +103,7 @@ Knockin' on Heaven's Door
   Feels like I'm knockin' on heaven's door  
   Basically there are lots of "knockin' on heaven's door"s throughout the rest  
   
--  
+----  
   
   *This is one of GUNS N' ROSES best song if you ask me.*  
   *I saw that no one had tabbed the second solo so I did as*  

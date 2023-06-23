@@ -58,7 +58,7 @@ High Voltage
   -|--------------------------------------------------------------------------|-]  
   *Play 4 times.*  
   
--  
+----  
   
 Text:  Sometimes, sometimes, sometimes, sometimes...  
   

@@ -28,7 +28,7 @@ Bridge:  D-------------7h8--7h8-
   D-7---7---7------------  
   A---0---0---0----------]  
   
--  
+----  
   
   *uned Down One Half Whole Step ([DGCFAd])*  
   *(Intro And Verse)*  

@@ -43,7 +43,7 @@ album "Between the Breaks...Live!"
   That Delivery is delayed until at last we're made aware  
   And first reach for love, to find twas always there.  
   
--  
+----  
   
   *Time: 2/2*  
   Tenor: D  

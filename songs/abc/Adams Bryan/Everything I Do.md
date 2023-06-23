@@ -47,7 +47,7 @@ INTRO:  ***C G F G***
   ***F***wire for you, yeah I'd ***Fm***die for you  
   You know it's ***C***true, everything ***G***I do, ***F***oh, ***F6*** I do it ***C***for you  
   
--  
+----  
   
   *(I'm not sure if this is the right key, but the chords sound right)*  
   
@@ -93,7 +93,7 @@ Last Chorus: Oh you can't tell me it's not worth trying fo
     ***D    Asus A     G  G6  D***  
   You know it's true, everything I do,    oh,         I do it for you  
   
--  
+----  
   
   
 Intro:  |***Db*** |***Dsu4*** |***Gb*** |***Ab7***|  

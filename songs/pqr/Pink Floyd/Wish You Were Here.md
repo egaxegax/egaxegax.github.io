@@ -27,7 +27,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   The same old fears. Wish you were here!  
   ***Em  G  Em  G  Em  A  Em  A  G***  
   
--  
+----  
   
   ***C***So, so ya think you can ***D***tell  
   heaven from h***Am***ell, blue skies from ***G***pain, can you tell a green ***D*** field  
@@ -41,7 +41,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   Running over the same old ground***C***, but have we found the same old ***Am***fears,  
   Wish you were h***G***ere  
   
--  
+----  
   
   ***Em   /   G   /   Em   /   G  /  Em   /  Am7  /  Em  /  Am7  /  G  /  G***  
   ***C                        D                 Am                     G***  
@@ -77,7 +77,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   *The actual music is in another key, lots of sus chords which is*  
   *practically the same sound as above!!!!*  
   
--  
+----  
   
   ***G    C***So, so ya think you can ***D***tell,  
   Heaven from  ***Am***hell,  
@@ -102,7 +102,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   The same old ***Am***fears,  
   Wish you were ***G***here  
   
--  
+----  
   
 Text:  So, so you think you can tell  
   Heaven from Hell blue skies from Pain  

@@ -20,7 +20,7 @@ Sweet Dreams (ARE MADE OF THIS)
   
   *The solo parts I couldn't figure out, but if you know them have fun!!*  
   
--  
+----  
   
 Intro:  [E1---------------------------  
   B----------------------------  

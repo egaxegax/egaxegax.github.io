@@ -76,7 +76,7 @@
   Oh yeah, yeah  
   Da-n-da da da-n-da da da...  
   
--  
+----  
   
   *The lyrics below from the White Album are copied*  
   **directly* from the liner notes from the CD.*  

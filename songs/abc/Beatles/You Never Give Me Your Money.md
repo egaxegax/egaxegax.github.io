@@ -104,7 +104,7 @@ Abbey Road (1969)
   *All "odd" chords are in the intro I have tabbed out, so use that to find the*  
   *fingerings.*  
   
--  
+----  
   
 Text:  You never give me your money  
   You only give me your funny paper  

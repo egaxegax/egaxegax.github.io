@@ -26,7 +26,7 @@ Frank Mills
     ***Am          F     G    C***  
   don't want the two dollars back, just him.  
   
--  
+----  
   
   ***C***I met a boy called ***G***Frank Mills,  
   on Sep***Am***tember 12th right here,  

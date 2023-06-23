@@ -51,7 +51,7 @@ Chorus 2: I found out what it takes
   I finally figured out myself  
   for the first time  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  
@@ -59,7 +59,7 @@ Chorus 2: I found out what it takes
   ***B G#***  
   ***B G# F# E F# E***  
   
--  
+----  
   
   ***H5  G#5***  
   *I found out ...  : ***F#5  E5****

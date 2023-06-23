@@ -17,7 +17,7 @@ Ytse Jam
   ---0--8-7-8--7-5-7--5-3-5--3-2-3------  
   --------------------------------------]  
   
--  
+----  
   
   *Here's everything but harmonies and solos before the drum solo. I'll try*  
   *to pseodo-time it, but you have to listen to the recording to get it*  

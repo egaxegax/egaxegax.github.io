@@ -46,7 +46,7 @@ Outro:  Ooo-ooo-oooo-oooh  but I can't find my way home }�
   Can't find my way home } 6x  
   ***F   G      D***  
   
--  
+----  
   
   *Let's see - I've been playing this for years. Great tune. You need*  
   *to really keep the bass line going. Play the verse in open position.*  

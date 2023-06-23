@@ -65,7 +65,7 @@ CHORUS:  It's getting to the point
   It's getting to the point (getting to the point)  
   Getting to the point.  
   
--  
+----  
   
 Text:  And there's nothing I can do now  
   Out of control (out of control)  

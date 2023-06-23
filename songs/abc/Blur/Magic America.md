@@ -38,7 +38,7 @@ Chorus:  La la la la la he wants to go to Magic Americ
   *Mid 8: ***C#7 B7 F# G#m7*** } x3*  
   *Then ***C#7 B7 A7****  
   
--  
+----  
   
 Text:  Bill Barret has a simple dream  
   He calls it his plan B  

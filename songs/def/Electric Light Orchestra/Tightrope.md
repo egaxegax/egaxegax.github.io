@@ -33,7 +33,7 @@ Live at Wembley'78 (1988)
   S***C***ome***G***bo***Am***dy h***C7***ad t***F***hrown me d***E7***own the l***Am***ine--stopped me dr***D7***ownin'  
   S***C***ome***G***bo***Am***dy h***C7***ad t***F***hrown me d***G***own the li***Cm***ne***Abm   Cm   G+   G   C***  
   
--  
+----  
   
   ***Cm  Ab  Dm7-5 Cm  G***  
   
@@ -83,7 +83,7 @@ Live at Wembley'78 (1988)
   
   ****Dm7-5***: [xx0111]*  
   
--  
+----  
   
 Text:  They say some days you're gonna win,  
   They say some days you're gonna lose.  

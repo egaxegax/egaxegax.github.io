@@ -110,7 +110,7 @@ lyrics:  Keep your chin up when you're feeling lonely
   If you can't beat them join them  
   It's everyone for themselves  
   
--  
+----  
   
 Text:  Keep your chin up when you're feeling lonely  
   Don't let them get you down  

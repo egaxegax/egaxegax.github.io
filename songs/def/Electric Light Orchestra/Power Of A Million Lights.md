@@ -58,7 +58,7 @@ Moment Of Truth (1994)
   You know I need you more tonight  
   By the power of a million lights  
   
--  
+----  
   
 Text:  I hear your voice close on the phone  
   But I know you're far away  

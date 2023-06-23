@@ -81,7 +81,7 @@ I think about you baby and I dream about you all the tim
 I.m here without you baby but your still with me in my dreams  
 but tonight girl it.s only you and me  
   
--  
+----  
   
 *(Intro/Verse part)  \*  
    ***A#m F# G# A#m G# |  C#/G#***  
@@ -123,7 +123,7 @@ I think about you baby, ***F#***and I dream a***G#***bout you�
 I'm here without you baby, ***G#***But you're still with me in my ***A#m***dreams,  
 And to***F#***night girl, there's ***G#***only you and ***C#***me____***G#***yeah__***A#m***Ho_yeah, Ho-ooh***F#***-oh__***G#***oh, ho-ooh-***A#m***oh  
   
--  
+----  
   
 Text:  A hundred days had made me older since  
 the last time that I saw your pretty face  
@@ -167,7 +167,7 @@ I’m here without you baby
 but your still with me in my dreams  
 And tonight girl it’s only you and me  
   
--  
+----  
   
 Перевод: Здесь Без Тебя  
   

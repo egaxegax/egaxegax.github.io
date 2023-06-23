@@ -24,7 +24,7 @@ Whole Lotta Love
   A|-----------7-------|  
   E|-------------------|]  
   
--  
+----  
   
 Main Riff: [e ---------------------------------------------------------------------------|  
   B ---------------------------------------------------------------------------|  
@@ -61,7 +61,7 @@ Solo:  e -------------12--------------------------------------|
   A --------------------------------------|------------------------------------|  
   E --------------------------------------|------------------------------------|]  
   
--  
+----  
   
   *I have just read an interview with Page where he explains how exactly he plays*  
   *the riff in "Whole lotta love".*  
@@ -77,7 +77,7 @@ Solo:  e -------------12--------------------------------------|
   *~ stands for slight bend, which is the trick here. D sounds on two strings*  
   *simultaniousely.*  
   
--  
+----  
   
   *Intro + Main Riff:*  
   [e------------------|---------------------------                     ----  
@@ -165,7 +165,7 @@ Solo:  e -------------12--------------------------------------|
   *Well really, you could guess by now. Do the riff until it hurts, and fade out*  
   *What a legend of a song.*  
   
--  
+----  
   
 Text:  You need coolin', baby, I'm not foolin',  
   I'm gonna send you back to schoolin',  

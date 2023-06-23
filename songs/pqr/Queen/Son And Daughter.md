@@ -45,7 +45,7 @@ riff C:  |---------------------------------*
   |------------|  
   |-7-7-7-7....|  
   
--  
+----  
   
 Text:  Tried to be your son and daughter rolled into one  
   You said you'd equal any man for having your fun  

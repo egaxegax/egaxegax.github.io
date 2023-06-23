@@ -47,7 +47,7 @@ Chorus:  When you get so down that you can?t get up
   Yeah, hold on tight...  
   To your dream.  
   
--  
+----  
   
 Text:  Hold on tight to your dream  
   Hold on tight to your dream  

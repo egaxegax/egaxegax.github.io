@@ -74,7 +74,7 @@ Chorus:  Is that what you want? (Is it what you want?)
   
   "Is that what you want?"  
   
--  
+----  
   
 Text:  2095, 2095, 2095, 2095  
   I love you, sincerely  

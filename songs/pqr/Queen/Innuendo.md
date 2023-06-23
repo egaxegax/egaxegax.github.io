@@ -86,7 +86,7 @@ Innuendo 1991
   ***G#                     A***  
   Till the end of time  
   
--  
+----  
   
 Text:  While the sun hangs in the sky and the desert has sand  
   While the waves crash in the sea and meet the land  

@@ -47,7 +47,7 @@ Ignition (1993)
   *Chorus...*  
   *Well thats it. Have fun!!!*  
   
--  
+----  
   
 Text:  Look at me while I look at you  
   Seeing eye to eye we can never do  

@@ -25,7 +25,7 @@ Wychowanie
   
   Ojczyzne kochac...  
   
--  
+----  
   
   Dziekuje mamie i tacie za opieke            | ***e D*** | ***C H7*** |  
   Za cieplo rodzinne i klotnie przy kolacji   | ***e D*** | ***C H7*** |  

@@ -83,7 +83,7 @@ You Won't Change Me
   |----------------------------------------------------------  
   |----------------------------------------------------------  
   
--  
+----  
   
 Text:  I'm just a man and I am what I am, yeah  
   Nobody will ever change my ways  
@@ -117,7 +117,7 @@ Text:  I'm just a man and I am what I am, yeah
   that's something too unreal  
   Nobody will change the way I feel  
   
--  
+----  
   
 Перевод: Тебе Меня Не Изменить  
   

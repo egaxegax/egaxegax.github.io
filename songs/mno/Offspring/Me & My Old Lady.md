@@ -9,7 +9,7 @@ Ixnay On The Hombre (1997)
   D|-------------------------------------------------------------|  
   A|------------------------10^(11)^10----------------------11]  
   
--  
+----  
   
   *Nice, a little bit heavy song from the greatest band of all. The solo might*  
   *be slightly wrong, but I think it sounds pretty close.*  
@@ -66,7 +66,7 @@ Ixnay On The Hombre (1997)
   E---------------------6---|]  
   *Let ring and cool off. Nice riffs, aren`t they.*  
   
--  
+----  
   
 Text:  Me and my old lady  
   Lay in bed all day  

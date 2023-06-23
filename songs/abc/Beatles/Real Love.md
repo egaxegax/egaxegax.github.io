@@ -55,7 +55,7 @@ Chours:  ***E     C#m   A          B***
   Itнs real Love  
   *repeat and fade*  
   
--  
+----  
   
 Intro:  ***Em*** - ***B*** - ***Em*** - ***B***  
   

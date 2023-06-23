@@ -159,7 +159,7 @@ Lyrics:  Psycho, groupie, cocaine, crazy
   From the time you were a  
   Psycho, groupie, cocaine, crazy.  
   
--  
+----  
   
     ***C5                   Eb5***  
     [0 0 0 x x x          3 3 3 x x x]  

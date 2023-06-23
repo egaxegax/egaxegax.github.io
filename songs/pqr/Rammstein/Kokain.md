@@ -19,7 +19,7 @@ Das Modell 1997
   ----------------------------------------------------------  
   ----------------------------------------------------------]  
   
--  
+----  
   
   *Drop D Tuning (DADG)*  
   
@@ -32,7 +32,7 @@ Das Modell 1997
   
   *This is all the bass in the song. There is none during the verse riffs.*  
   
--  
+----  
   
 Text:  Sind die Freunde mir gewogen  
   die weisse Fee spannt ihren Bogen  

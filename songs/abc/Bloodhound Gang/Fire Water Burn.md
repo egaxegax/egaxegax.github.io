@@ -121,7 +121,7 @@ Fire Water Burn
   ooh ooh, c'mon party people  
   ooh ooh, everybody here we go  
   
--  
+----  
   
 Main Riff: [G|-----------------|-----------------|    |-----------------|---|  
   D|-----------------|-2-2-2-2-2-2-0-0-| 3x |-----------------|-2-|  

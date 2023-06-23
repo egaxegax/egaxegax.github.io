@@ -58,7 +58,7 @@ Seek And Destroy
   E--0-0-0-0-0-3-0-0-2-0-0-3-0-0-5\3]  
   *pm..... ..... ..... ..... .....*  
   
--  
+----  
   
   *Seek & Destroy oднa из мoиx caмыx любимыx пeceн y Mettallica.*  
   *Coвeтyю, cнaчaлa пpocлyшaть eё нecкoлькo paз, пpeждe чeм пытaтьcя*  

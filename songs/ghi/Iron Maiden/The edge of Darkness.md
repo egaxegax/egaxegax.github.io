@@ -105,7 +105,7 @@
   *confused. I didn't put them in this tab cause they were too long and*  
   *too hard to write!!! So, enjoy and try to find how to they play them!!!*  
   
--  
+----  
   
 Lyrics:  I've looked into the heart of darkness  
   Where the blood red journey ends  

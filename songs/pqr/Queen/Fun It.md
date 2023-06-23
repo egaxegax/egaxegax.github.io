@@ -173,7 +173,7 @@ lyrics:  Everybody in the morning
   Don't shun it fun it  
   Don't shun it fun it  
   
--  
+----  
   
 Text:  Everybody in the morning  
   Should do a good turn all right  

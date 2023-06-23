@@ -79,7 +79,7 @@ Stop narcotics
   ***C                           H7***  
   Stop narcotics, narcomano stop!  
   
--  
+----  
   
   *Песенка играется всего на двух аккордах. Об этом говорил сам Доктор.*  
   

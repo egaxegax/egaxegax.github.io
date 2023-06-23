@@ -55,7 +55,7 @@ CHORUS:     "She's got a ticket to ride,      �
 key:  b = full bend and then release to the original note  
   s = slide up to note indicated  
   
--  
+----  
   
 Text:  I think I'm gonna be sad,  
   I think it's today, yeah.  

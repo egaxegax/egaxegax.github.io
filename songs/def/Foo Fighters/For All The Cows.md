@@ -9,7 +9,7 @@ For All The Cows
   --2-3-0-3-2----7  
   --------------------]  
   
--  
+----  
   
   *This song is very simple. It's in 3/4 time, for anyone who's interested*  
   *in stuff like that. The intro and verse are played on a clean soundind*  

@@ -46,7 +46,7 @@ Intro:  | ***G*** | ***Cadd9*** | } x4
      How it all started in the kitchen.  
   *(repeat and fade)*  
   
--  
+----  
   
 Text:  Thrilled to be in the same post code as you  
   I tell you things I know you'd like to know  

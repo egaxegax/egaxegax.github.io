@@ -73,7 +73,7 @@ End:  ***Em***
   |-2-----------|  
   |-0-----------|  
   
--  
+----  
   
 Text:  Lappi (Lapland)  
   
@@ -132,7 +132,7 @@ Text:  Lappi (Lapland)
   
   *(Instrumental)*  
   
--  
+----  
   
 Перевод: Лапладния  
   

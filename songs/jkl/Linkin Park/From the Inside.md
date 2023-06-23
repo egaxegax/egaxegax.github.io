@@ -57,7 +57,7 @@ From the Inside
   Ab|-0--0-0-0--0-|  
   Db|-0--0-0-0--0-|]  
   
--  
+----  
   
 Вcтyплeниe: ***Cm# E A Fm# G# Cm#***  
   *(В oбщeм вcя пecня нa ниx игpaeтcя)*  
@@ -118,7 +118,7 @@ From the Inside
   'Cause I swear/for the last time  
   I won't trust myself with you, you, you  
   
--  
+----  
   
 Text:  "FROM THE INSIDE"  
 Перевод: "ИЗ ГЛУБИНЫ ДУШИ"  

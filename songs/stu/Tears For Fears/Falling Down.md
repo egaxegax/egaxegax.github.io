@@ -72,7 +72,7 @@ Ending:  Falling down
   
   *(Play verse "riff" twice ending with slight crescendo on second time)*  
   
--  
+----  
   
 Text:  Is this world spinning round  
   Has this ship run aground  

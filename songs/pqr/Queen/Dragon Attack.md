@@ -152,7 +152,7 @@ The Game 1980
   |------------|----|-----------|  
   |------------| 7X |-----------|  
   
--  
+----  
   
 Text:  Take me to the room where the red's all red  
   Take me out of my head-'s what I said  

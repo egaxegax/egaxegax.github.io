@@ -66,7 +66,7 @@ Chorus:  No sympathy
   *\ = slide down*  
   *~ = vibrato*  
   
--  
+----  
   
 Text:  Sleep Eden sleep  
   My fallen son  
@@ -105,7 +105,7 @@ Text:  Sleep Eden sleep
 Комментарий: Two For Tragedy - история о неизбежных трагедиях, так  
   часто имеющих место в жизни двоих.  
   
--  
+----  
   
 Перевод: Двое Для Трагедии  
   

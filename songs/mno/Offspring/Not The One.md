@@ -38,7 +38,7 @@ Smash (1994)
   E---3---|]  
   *Play intro and intro2. Done! Ready for Smash?!*  
   
--  
+----  
   
 Text:  I'm not the one who made the world what it is today  
   I'm not the one who caused the problems started long ago  

@@ -13,7 +13,7 @@ eoc
   
   *Chorus*  
   
--  
+----  
   
    ***C    G       C     Fm           C     Fm       G***  
 A Chorus: Hey bungalow bill  what did you kill bungalow bill  
@@ -27,7 +27,7 @@ A Verse: He went out tiger hunting with his elephant and g
     ****Em             G      Am                  Fm*** (I think... maybe ***Cm***?)*  
   He's the all american bullet headed saxon mother's son  
   
--  
+----  
   
    ***C    G7      C     Fm           C     Fm       G***  
 CHORUS:  Hey bungalow bill  what did you kill bungalow bill  

@@ -34,7 +34,7 @@ Bark At The Moon
   ------------------------------------------?------------------------------------  
   ------------------------------------------?------------------------------------]  
   
--  
+----  
   
 Text:  Screams break the silence  
   Waking from the dead of night  
@@ -67,7 +67,7 @@ Text:  Screams break the silence
   Listen in awe and you'll hear him  
   Bark at the moon.  
   
--  
+----  
   
 Перевод: Вой На Луну  
   

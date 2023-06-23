@@ -57,7 +57,7 @@ Being Around
       ***Dsus     G***  
   From being around.  
   
--  
+----  
   
   ***G***If I was in the fridge  
   ***C***Would you open the door?  

@@ -35,7 +35,7 @@ I'm Only Sleeping
   A -2------- -2--------2-2-------  
   E --------- ----------2---------]  
   
--  
+----  
   
   When I wake up early in the morning  
   

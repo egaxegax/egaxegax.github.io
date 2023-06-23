@@ -44,7 +44,7 @@ Musical Box
   *at once, so this is going to be real ugly when I finish it.*  
   *More Guitar, less Thesis!*  
   
--  
+----  
   
   *Here's the way I've figured out the closing section to "the Musical Box"*  
   *by Genesis. This is the bit they segue into from "The Lamb Lies Down*  

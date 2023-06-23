@@ -73,7 +73,7 @@ Song structure: Intro
   
   *This song live has some kind of SM-act, poor Flake... lol. =20*  
   
--  
+----  
   
   *Drop D tuning*  
   |-e-|  
@@ -105,7 +105,7 @@ Song structure: Intro
   ||0-0-3-0-2-0-3-0-5-0-3-0-0--2/3-0--||  
     *pm..............................*  
   
--  
+----  
   
   *Tunning E B G D A D*  
   
@@ -189,7 +189,7 @@ Song structure: Intro
   |-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-1/2-|  
   |-----------------------------------------------------------------|  
   
--  
+----  
   
   *INDUSTRIAL METAL*  
   
@@ -224,7 +224,7 @@ Song structure: Intro
   
   *END*  
   
--  
+----  
   
     2x  
   [E||---------------------------|---------------------------||  
@@ -333,7 +333,7 @@ Song structure: Intro
   --1--0--------------||  
   --1--0--------------||]  
   
--  
+----  
   
   *Drop-D tuning (low to high: D, a, d, g, b, e)*  
   *M, PM=Palm Mute*  
@@ -437,7 +437,7 @@ Song structure: Intro
   
   *Well, that's it. Hope it's not too complicated...*  
   
--  
+----  
   
   *BASS*  
   
@@ -514,7 +514,7 @@ Song structure: Intro
   
   *Rest till end*  
   
--  
+----  
   
   *BASS*  
   
@@ -534,7 +534,7 @@ Song structure: Intro
   
   *It's a easy song, you should be able to pick it up fast!*  
   
--  
+----  
   
   *BASS*  
   
@@ -553,7 +553,7 @@ Song structure: Intro
   A|----------------|  
   E|1-1-1-1-1-1-1-1-|]  
   
--  
+----  
   
 Text:  Buck dich  
   Buck dich - befehl ich dir  
@@ -592,7 +592,7 @@ Text:  Buck dich
   
   Buck dich...  
   
--  
+----  
   
 Перевод: Нагнись  
   

@@ -22,7 +22,7 @@ Loving You
     ***Dm                                         G7      C***  
   You know that I'll always be loving you  
   
--  
+----  
   
   ***F***  
   I will spend my whole life through  

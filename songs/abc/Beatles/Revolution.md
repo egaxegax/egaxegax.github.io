@@ -193,7 +193,7 @@ Intro:  [-|-5/7-7-7-7-7-7-7-7-7-7-7-7----5/7-7-7-7-7-7-7-7-7-7-7-7----
   You ain't gonna make it with anyone anyhow...  
   Don't you know it's gonna be...  
   
--  
+----  
   
   *Text:*  
   

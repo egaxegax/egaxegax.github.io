@@ -41,7 +41,7 @@ Intro:  ***D  Bm  F#m A7***
   I thought I saw the mayor there but I wasn't really sure,  
   But it's***D*** a***Bm***lri***F#m***ght.***A7  D  D  D***  
   
--  
+----  
   
 Intro:  ***D  Bm  F#m A7***  
   
@@ -92,7 +92,7 @@ Intro:  ***D  Bm  F#m A7***
     ****D Bm F#m A7  DDDDDDDDD***.8-)*  
   But it's alright.  
   
--  
+----  
   
 Text:  Just got back from the downtown palais  
   Where the music was so sweet  

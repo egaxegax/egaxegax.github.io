@@ -36,7 +36,7 @@ Baby It's You
   
 Solo Chords: ***Em C D G G D G***  
   
--  
+----  
   
   Sha la la la la la la la  
   Sha la la la la la la la  

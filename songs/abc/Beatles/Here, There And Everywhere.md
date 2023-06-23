@@ -37,7 +37,7 @@ Chorus:  } 2 раза
   ***G     Am7        Bm       C   G***  
   Here, there, and everywhere.  
   
--  
+----  
   
   To lead a better life I need my home to be here...  
   

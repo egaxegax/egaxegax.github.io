@@ -73,7 +73,7 @@ Bridge:      ***Eb    D***
   
   *That's your lot for now.*  
   
--  
+----  
   
   ***C                 Eb***  
   I spy in the night sky don't I  
@@ -92,7 +92,7 @@ Bridge:      ***Eb    D***
   ***Eb                F***  
   Betelgeuse sun sun sun  
   
--  
+----  
   
 Text:  I spy in the night sky don't I  
   Phoebe io e lara leda callisto sinope  

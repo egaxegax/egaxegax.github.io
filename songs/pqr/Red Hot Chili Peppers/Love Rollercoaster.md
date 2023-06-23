@@ -36,7 +36,7 @@ Lyrics:  YOU GIVE ME THAT FUNNY FEELING IN MY TUMMY....
   Rollercoaster (say what)  
   I will be there for you I will be your man.  
   
--  
+----  
   
   
   *I couldn't find a tab for this anywhere, so i wrote this.*  

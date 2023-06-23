@@ -87,7 +87,7 @@ The Masterplan (1998)
   *If you haven't yet heard the version of Talk Tonight with*  
   *Paul Weller playing keyboard and singing background vocals, check it out!!*  
   
--  
+----  
   
 Text:  sitting on my own, chewing on a bone  
   a thousand million miles from home  

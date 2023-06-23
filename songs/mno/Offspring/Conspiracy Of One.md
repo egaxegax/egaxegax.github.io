@@ -38,7 +38,7 @@ Conspiracy Of One 2000
   -----------5-6---------------------------55555--------------------------------]  
   *Bridge                                 (Muted..............)*  
   
--  
+----  
   
 Text:  Red over white  
   It's one last fatal scene  

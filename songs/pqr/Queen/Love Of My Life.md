@@ -189,7 +189,7 @@ A Night At The Opera 1975
   *This is the chord version for the live version.*  
   *The studio version is in different key.*  
   
--  
+----  
   
 Text:  Love of my life - you hurt me,  
   You broken my heart and now you leave me.  

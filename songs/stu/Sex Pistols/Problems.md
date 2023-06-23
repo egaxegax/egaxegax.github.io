@@ -49,7 +49,7 @@ third verse: I'm a death trip I ain't automatic
 outro:  ***D C A*** } x12 (w/ad-lib)  
   ***A***  
   
--  
+----  
   
   *A. Intro*  
     *(3x)*  

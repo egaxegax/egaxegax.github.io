@@ -77,7 +77,7 @@ The Dark Side Of The Moon (1973)
   Out of the way it's a busy day, I've got things on my mind.  
   For want of the price of tea and a slice, the old man died.  
   
--  
+----  
   
 Text:  Us and them  
   And after all we're only ordinary men  

@@ -172,7 +172,7 @@ Note:  In the transcription of the chorus, the moving parall
     *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
--  
+----  
   
   Asked a girl what she wanted to be  
   She said baby, can't you see  

@@ -12,7 +12,7 @@ Plain
 *at (2:36) it adds to the same riff thing a [--0--0~2--] fill on the ***G****  
 *string (!)*  
   
--  
+----  
   
 *main riff:*  
 [E-5--x--x--5--x--x--8--x--x--8--x--x--8p7------  

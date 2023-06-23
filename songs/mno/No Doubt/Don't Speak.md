@@ -126,7 +126,7 @@ Verse 1: ***Cm        Gm   Fm      B  
   
   *Repeat chorus and fade*  
   
--  
+----  
   
 INTRO:  ***Cm***  
   
@@ -171,7 +171,7 @@ CHORUS:  ***Fm***Don't speak
   
   *CHORUS*  
   
--  
+----  
   
   *Intro*  
   ***Cm***  
@@ -338,7 +338,7 @@ CHORUS:  ***Fm***Don't speak
   You and me  
   I can see us dying... are we?  
   
--  
+----  
   
   *Keep in mind this is how I think it is played. It may be*  
   *played totally different.*  
@@ -385,7 +385,7 @@ CHORUS:  ***Fm***Don't speak
   
   *When ever I learn the rest or the real way to play the chorus, I'll post it.*  
   
--  
+----  
   
   *This flamenco guitarish solo by No Doubt off of their song Don't Speak is very simple*  
   *Just follow the tab below and you'll get it in no time*  
@@ -403,7 +403,7 @@ CHORUS:  ***Fm***Don't speak
   A|---------------------------------------------------  
   E|---------------------------------------------------]  
   
--  
+----  
   
   *BTW: The chord names in the intro and verses don't necessarily represent*  
   *the name of the actual chords, but your fingering position.*  
@@ -514,7 +514,7 @@ CHORUS:  ***Fm***Don't speak
   
   *Outro (Chorus is repeated w/ different lyrics)*  
   
--  
+----  
   
   *Tune: regular E*  
   
@@ -553,7 +553,7 @@ CHORUS:  ***Fm***Don't speak
   *well.. thats all.. now the bridge I might do other time*  
   *coz Im tired  :)*  
   
--  
+----  
   
   *Keep in mind this is how I think it is played. It may be*  
   *played totally different.*  
@@ -619,7 +619,7 @@ Solo:  |-----------------------------------|--------------------------------
   |-3-------------------------------|  
   |---------------------------------|  
   
--  
+----  
   
   *Here are the various parts to the song.. not totally complete yet!*  
   
@@ -704,7 +704,7 @@ Solo:  |-----------------------------------|--------------------------------
   
   *Enjoy :=)*  
   
--  
+----  
   
   *Capo on 1 (no capo for the alternate version).*  
     ***Bm***  
@@ -772,7 +772,7 @@ Verse 2: (***Bm***, ***A***, ***Em***, ***A*** etc as before)
   
   *CHORUS, repeat a few times, fade.*  
   
--  
+----  
   
 Text:  You and me  
   We used to be together  
@@ -810,7 +810,7 @@ Text:  You and me
   You and me  
   I can see us dying... are we?  
   
--  
+----  
   
 Перевод: Ты и я  
   Мы были вместе  
@@ -848,7 +848,7 @@ Text:  You and me
   Ты и я  
   Я вижу, как мы умираем... - это правда?  
   
--  
+----  
   
 Перевод: Молчи  
   

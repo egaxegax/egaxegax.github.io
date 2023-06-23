@@ -43,7 +43,7 @@ The Game 1980
     ***G        C            Gm9        AЬ     BЬ***  
   Play the game everybody play the game of love...  
   
--  
+----  
   
 Text:  Open up your mind and let me step inside  
   Rest your weary head and let your heart decide  

@@ -56,7 +56,7 @@ Bridge2: Let my heart go,
   You never let my heart go,  
   Or let this heart be still.  
   
--  
+----  
   
    ****Dm*** (down)  solo     ***Dm*** (down, up, down) solo   And then - ***C*** (down,up, down, up,*  
   *[e -1-----|-1-------|-------------------|------|]                           down)*  
@@ -66,7 +66,7 @@ Bridge2: Let my heart go,
   A -------|---------|-------------------|---3--|  
   E -------|---------|-------------------|------|]  
   
--  
+----  
   
   *Tune down a 1/2 step.*  
   

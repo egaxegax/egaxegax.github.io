@@ -22,7 +22,7 @@
   I'll be your's  in a day or two  
   *thats all I can do without the lyrics...*  
   
--  
+----  
   
   *Here's a fun one for you to play around with. One of those songs*  
   *everyone loves but will never admit it.*  
@@ -48,7 +48,7 @@ Intro:  [E|-----------------------------------------------------------------
   *For the chorus, you can get away with ***E/G#/A****  
   *I'd say the whole thing could use some work, so feel free to chip in.*  
   
--  
+----  
   
   *(album version)*  
   

@@ -74,7 +74,7 @@ A Day At The Races 1976
   Just hold on tight -  
   That's because I?m a good old fashioned loverboy  
   
--  
+----  
   
 Text:  I can dim the lights and sing you songs full of sad things  
   We can do the tango just for two  

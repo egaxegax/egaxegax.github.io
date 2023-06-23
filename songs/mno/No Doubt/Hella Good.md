@@ -15,7 +15,7 @@ Chorus:  1|-3-4-x-4-3-x-3--8--6-3--
   5|-5-6-x-6-5-x-5--10-8-5--  
   6|-3-4-x-4-3-x-3--8--6-3--  
   
--  
+----  
   
 Text:  The waves keep on crashing on me  
   for some reason  
@@ -49,7 +49,7 @@ Chorus:  You've got me feeling hella good
   Keep on dancing  
   Keep on dancing  
   
--  
+----  
   
 Перевод: Чертовски хорошо  
   

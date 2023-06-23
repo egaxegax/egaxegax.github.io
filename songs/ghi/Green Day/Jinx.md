@@ -91,7 +91,7 @@ CHORUS RIFF:    ***G5            C    
   *Chorus w/ Chorus Riff*  
   I'm a jinx hanging around you.  
   
--  
+----  
   
 Intro:  ***G5 C5 D5*** } x4  
   

@@ -30,7 +30,7 @@ The First 3 Singles (1967), Relics (1971), Works (1968-1973) (
      ***Eb    Db       Bb     Ab         F       Bb***  
   he hates it       Arnold Layne dont do it again  
   
--  
+----  
   
 Text:  Arnold Layne had a strange hobby  
   Collecting clothes  

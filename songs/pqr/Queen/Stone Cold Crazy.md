@@ -44,7 +44,7 @@ Chorus:  Crazy
   
   *Chorus*  
   
--  
+----  
   
 Text:  Sleeping very soundly on a Saturday morning I was dreaming  
   I was Al Capone  

@@ -31,7 +31,7 @@ Ignition (1993)
   *Now just strum something miscellaneous and then there it is - one from The*  
   *Offspring again!*  
   
--  
+----  
   
   *Heres an oldy but goody, There may be alot of mistakes since i've*  
   *only been playing guitar for 4 months, heres the jist of it though.*  
@@ -107,7 +107,7 @@ Ignition (1993)
   All your dance and song  
   won't matter when your gone...  
   
--  
+----  
   
 Text:  When you're feeling low  
   Hypodermic's where you go  

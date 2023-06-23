@@ -53,7 +53,7 @@
   *doesn't sound right, you're probably correct. The song is just chord*  
   *arpeggiating (sp.?) and its easy to play around with the pattern...*  
   
--  
+----  
   
 Text:  I THINK TOO MUCH  
   ON THINGS I WANT TOO MUCH  

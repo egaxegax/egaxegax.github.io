@@ -91,7 +91,7 @@ DOINA HAIDUCULUI
   Liber e sufletul meu,  
   Libera-i inima mea.  
   
--  
+----  
   
   ***Dm***Freamata frunza in vant  
   ***C***Murmura apa in rau  

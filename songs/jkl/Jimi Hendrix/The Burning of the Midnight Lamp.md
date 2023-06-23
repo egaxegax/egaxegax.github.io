@@ -30,7 +30,7 @@
   *Well, that's it. I think somebody posted the chords,*  
   *so the whole song should be in here.*  
   
--  
+----  
   
   *This is the corrected version of the intro to the Burning of the Midnight Lamp by Hendrix:*  
   |-------------------|---------------|  
@@ -47,7 +47,7 @@
   |---1-----3-----3----------------|  
   |-1------------------------------|  
   
--  
+----  
   
   *The Burning Of The Midnight Lamp 1967 Bella Godiva music w+l J. hendrix*  
   ***F                              Dm***  

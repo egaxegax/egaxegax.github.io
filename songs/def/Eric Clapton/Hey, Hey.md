@@ -53,7 +53,7 @@ Unplugged CD
   ---7--7--5--5----5---5--0------------------------------------||------------]  
   Arms around you ... hey  
   
--  
+----  
   
   *This is the 12-bar blues pattern that repeats all through the song.*  
   *I don't think it's all correct, but it sounds pretty good to me.*  

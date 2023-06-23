@@ -28,7 +28,7 @@ You've Got to Hide Your Love Away
   Hey you got to hide your love away  
   Hey you got to hide your love away  
   
--  
+----  
   
 VERSE:  ***G      D          F       G    C                   F   C***  
   Here I stand with head in hand turn my face to the wall.  

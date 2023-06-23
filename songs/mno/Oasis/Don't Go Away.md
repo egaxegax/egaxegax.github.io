@@ -84,7 +84,7 @@ Chorus:  So don't go away, say what you say
   
   *(The end part -with strings- play it with the same chords  used in Chorus)*  
   
--  
+----  
   
   *Chords Used:*  
     [EADGBe]  
@@ -244,7 +244,7 @@ Chorus:  So don't go away, say what you say
   E---------3-----------------------------3----------3-------------------]  
   *Song ends with all guitars playing a "***Cmaj7add9***"*  
   
--  
+----  
   
 Text:  Cold and frosty morning there's not a lot to say  
   About the things caught in my mind  

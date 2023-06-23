@@ -422,7 +422,7 @@
   A:---------------------|-------------||  
   E:---------------------|-------------||.]  
   
--  
+----  
   
 Lyrics:  The freeway is jammed  
   And it's backed up for miles  

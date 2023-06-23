@@ -54,7 +54,7 @@ Verse:      ***G***
   -|------------------3-----3--2---3--2--3-----------------------]  
      On     our    way      back  home  
   
--  
+----  
   
 Text:  Two of us riding nowhere  
   Spending someone's  

@@ -48,7 +48,7 @@ Sheer Heart Attack 1974
   *Also, I prefer playing ***C*** and ***G*** as [332010] and [320033] respectively,*  
   *but I don't know that it matters much.*  
   
--  
+----  
   
 Text:  I am forever searching high and low  
   But why does everybody tell me no  

@@ -173,7 +173,7 @@ outro solo: [e---------slow-release-----|-----------------------------------
   
   *Fade out starts with layered guitars and I get confused...bye*  
   
--  
+----  
   
   
 chords:  ***Bm    F#7+10   A      E7+10***  

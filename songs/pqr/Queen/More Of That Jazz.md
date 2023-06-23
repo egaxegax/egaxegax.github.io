@@ -72,7 +72,7 @@ Lyrics:  If you're feeling tired and lonely
   Are you gonna let it all hang out?  
   Fat bottomed girls you make the rocking world go round  
   
--  
+----  
   
 Text:  If you're feeling tired and lonely  
   Uninspired and lonely  

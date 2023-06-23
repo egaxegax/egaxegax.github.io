@@ -86,7 +86,7 @@
   -3-3-3-2-2-2-0-0-0--------------2-----  
   --------------------3-3-3-5-3-0--0----]  
   
--  
+----  
   
 Lyrics:  From the coast of gold across the seven seas  
   Im travellin on far and wide  

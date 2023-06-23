@@ -22,7 +22,7 @@ Live at Wembley'78 (1988)
   So let her go don't start spoiling the show  
   It's a bad dream  
   
--  
+----  
   
       ***C  Cd C  . . .  G G***  
   [e --0---x-0         3-3  
@@ -61,7 +61,7 @@ Live at Wembley'78 (1988)
   It's a bad dream  
   ****G+***: [xx1003]*  
   
--  
+----  
   
 Text:  Sailin' away on the crest of a wave  
   It's like magic  

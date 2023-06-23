@@ -7,7 +7,7 @@ Bleach (1989)
   ****E5 C5*** play that 4x then:*  
   ****A5 A#5 E5***(7th fret) ***F5***(8th fret) play that 2x*  
   
--  
+----  
   
   [G-------------------  
   D-------------------  

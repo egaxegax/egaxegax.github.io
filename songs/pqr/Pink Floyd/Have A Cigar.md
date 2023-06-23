@@ -40,7 +40,7 @@ Wish You Were Here (1975)
   ***Em  D/F#  G  C  C  G  D/F#***  
   ***Em  D/F#  G  C  D  G  Em***  
   
--  
+----  
   
 Text:  Come in here, dear boy, have a cigar  
   You're gonna go far,  

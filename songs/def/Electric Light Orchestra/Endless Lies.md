@@ -42,7 +42,7 @@ CHORUS:  Stand back, take a look at you
   That's not the way it's supposed to be.  
   Endless lies shine in your eyes.  
   
--  
+----  
   
 Text:  Bye bye, pretty woman  
   I've got to leave you now  

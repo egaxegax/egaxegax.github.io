@@ -31,7 +31,7 @@ Live at Wembley'78 (1988)
   Let it ring for evermore.  
   *CHORUS - repeat*  
   
--  
+----  
   
   ***A           Aj7***  
   Hello--how are you  
@@ -73,7 +73,7 @@ Live at Wembley'78 (1988)
   ****Fdim***:  [xx0101]*  
   ****E6***:    [022120]*  
   
--  
+----  
   
 Text:  Hello-how are you  
   Have you been alright, through all those lonely nights,  

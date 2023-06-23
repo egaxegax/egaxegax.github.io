@@ -430,7 +430,7 @@ Ixnay On The Hombre 1997
   --------------------------|--7--7--7--7--7--7--7--7--|--9----------------||  
   --5--5--5--5--5--5--5--5--|--------------0--0--0--0--|-------------------||]  
   
--  
+----  
   
   *The song's full of energy and anarchic power. I love it!*  
   *One of the most coolest Offspring songs to play and it has nice lyrics*  
@@ -483,7 +483,7 @@ Ixnay On The Hombre 1997
   
   *Oh fuck that was cool!!! Real punk will never die!*  
   
--  
+----  
   
 Text:  Day after day your home life's a wreck  
   The powers that be just  

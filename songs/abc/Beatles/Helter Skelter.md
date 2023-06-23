@@ -139,7 +139,7 @@ Chorus:              ***A***
     *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
--  
+----  
   
   When I get to the bottom I go back to the top of the slide  
   Where I stop and I turn and I go for a ride  

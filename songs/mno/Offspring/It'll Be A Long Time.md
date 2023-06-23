@@ -61,7 +61,7 @@ Smash 1994
   E------------------------------------------------------------|]  
   *Play pre-chorus, chorus, end-chorus and start of the verse. And it`s over - oh bother.*  
   
--  
+----  
   
 Text:  All this time has whittled away  
   Like so many days in one  

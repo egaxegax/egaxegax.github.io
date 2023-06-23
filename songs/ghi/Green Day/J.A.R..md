@@ -11,7 +11,7 @@ J.A.R.
   E-|----------------------------------------------------------------------]  
       *repeat this many times over*  
   
--  
+----  
   
 Lyrics:  My friend drove off the other day,  
   Now he's gone and all they say,  

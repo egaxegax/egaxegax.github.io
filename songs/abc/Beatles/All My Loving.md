@@ -28,7 +28,7 @@ Chorus:  All my ***Am***loving - ***C+***I will send to you*
   
   *Chorus*  
   
--  
+----  
   
   *Verse 1(Walking Bass Line):*  
   
@@ -86,7 +86,7 @@ Chorus:  All my ***Am***loving - ***C+***I will send to you*
   
   *Repeat Chorus Once then End*  
   
--  
+----  
   
     ***F#m           B7***  
   Close your eyes and I'll kiss you  

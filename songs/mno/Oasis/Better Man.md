@@ -19,7 +19,7 @@ Heathen Chemistry (2002)
   ***B  A                  F#***  
   I'm gonna be a better man } X2  
   
--  
+----  
   
 Text:  I wanna love you  
   I wanna be a better man  

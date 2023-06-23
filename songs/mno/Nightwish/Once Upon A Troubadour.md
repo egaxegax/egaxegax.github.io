@@ -68,7 +68,7 @@ Intro:  ***Am     G   Am***
    ***Am                         Em*      Em* = [xx2000]***  
   Which the music will keep alive  
   
--  
+----  
   
 Перевод: Однажды трубадур...  
   

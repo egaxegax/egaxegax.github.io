@@ -40,7 +40,7 @@ The Final Cut (1983)
   *NOTE: I no longer own a copy of this album so I can't go back and check*  
   *to see if there are any mistakes. I figure something's better than nothing...*  
   
--  
+----  
   
 Text:  In my rear view mirror the sun is going down  
   Sinking behind bridges in the road  

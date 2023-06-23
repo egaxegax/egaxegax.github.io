@@ -50,7 +50,7 @@ Ixnay On The Hombre (1997)
   E-------------------------|]  
   *-&gt;Play PRE-CHORUS, CHORUS, END-CHORUS and chop it off with first VERSE chord.*  
   
--  
+----  
   
 Text:  I hate a lot of things  
   I hate a lot of people that are lame  

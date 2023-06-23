@@ -54,7 +54,7 @@ Time (1981)
   To you baby...  
   From the end of the world.  
   
--  
+----  
   
 Text:  Oh you, you're so hard to get to.  
   Oh you, you don't wanna play,  

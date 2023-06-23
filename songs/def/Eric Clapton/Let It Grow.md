@@ -44,7 +44,7 @@ Bridge:  ***G D Em Bm F#*** } 2x
   
   *Chorus*  
   
--  
+----  
   
   ***Bm                 F#7      D                   E  G***  
   Standing at the crossroads try'n' to read the signs to tell me  
@@ -78,7 +78,7 @@ CHORUS:  Let it grow, let it grow, let it blossom let it
   
   ***Bm  F#7  D  E  G  A***...  
   
--  
+----  
   
   ***Bm     F#7      D   E***  
   Standin' at the crossroads, tryin' to read the signs  
@@ -106,7 +106,7 @@ CHORUS:  Let it grow, let it grow, let it blossom let it
   *should become clear eventually.*  
   *Hope this helps.*  
   
--  
+----  
   
   ***Bm***Standing at the cro***F#7***ssroads t***D***ry'n' to read the si***E***gns***G*** to tell me  
   ***A***which way I should ***Bm***go to find the a***F#7***nswer and a***D***ll the time I k***E***now,  

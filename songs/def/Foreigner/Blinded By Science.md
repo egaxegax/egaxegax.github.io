@@ -46,7 +46,7 @@ Blinded By Science
     ***Hm          G       Em     F#    Hm***  
   I'm blinded by science on the run.  
   
--  
+----  
   
 Text:  Blinded by science, I'm on the run  
   Blinded by science, where do I belong?  
@@ -90,7 +90,7 @@ Text:  Blinded by science, I'm on the run
   Blinded by science, I'm on the run  
   I'm blinded by science, on the run  
   
--  
+----  
   
   *Перевод:*  
   

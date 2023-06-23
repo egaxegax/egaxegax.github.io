@@ -49,7 +49,7 @@ Paint It Black
                  ***Fm                                 C7    Fm***  
   I wanna see it painted, painted, painted, painted black Yeah  
   
--  
+----  
   
   *Here it is:*  
   ***Dm                       A7***  
@@ -69,7 +69,7 @@ Paint It Black
   *may have made some slight mistakes with the lyrics, since I'm doing this*  
   *from memory.*  
   
--  
+----  
   
 Text:  I see a red door and I want it painted black  
   No colors anymore I want them to turn black  
@@ -103,7 +103,7 @@ Text:  I see a red door and I want it painted black
   I wanna see it painted, painted, painted, painted black  
   Yeah!  
   
--  
+----  
   
 Перевод: Раскрась Это Черным  
   

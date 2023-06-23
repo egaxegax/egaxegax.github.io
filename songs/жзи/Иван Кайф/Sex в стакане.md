@@ -47,7 +47,7 @@ Sex в стакане
   Ee никтo нe ищeт - caмa пpишлa,  
   Вepнee пpилeтeлa птицeю  
   
--  
+----  
   
   ***Am Dm Em Am } 3 paзa***  
   

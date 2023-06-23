@@ -12,7 +12,7 @@
   ***F#***  
   ***F# E***  
   
--  
+----  
   
 Lyrics:  I don't know you  
   But, I think I HATE you  

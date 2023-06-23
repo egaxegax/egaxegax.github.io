@@ -31,7 +31,7 @@ Chorus:  [e|--------------------------------------|
   Something in the way, yeah  
   Mmmm...  
   
--  
+----  
   
   *drop d tuning down two whole steps*  
   
@@ -45,7 +45,7 @@ Chorus:  2|------3-
   5|-4----0-  
   6|-4------  
   
--  
+----  
   
   *aкopды, ecли иx мoжнo нaзвaть тaкими,*  
   *тaкoвы ***F#M***, ***D*** - ЭТO В "MTV UPLAGET"*  

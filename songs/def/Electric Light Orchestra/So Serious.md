@@ -78,7 +78,7 @@ Chorus:  Can it really be so serious?
   Serious, so serious  
   Serious, so serious...  
   
--  
+----  
   
 Text:  Night after night  
   I try to make it all fit together  

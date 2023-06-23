@@ -252,7 +252,7 @@ A Night At The Opera 1975, Live Killers 1977
   ----------------------------|----------------|  
   ----------------------------|----------------|]  
   
--  
+----  
   
   *guitar tacet(chords played by piano)*  
   ***N.C.***  
@@ -459,7 +459,7 @@ A Night At The Opera 1975, Live Killers 1977
   ***Bb     F      Fdim  C7sus4     F***  
   Any way the wind blows  
   
--  
+----  
   
 Text:  Is this the real life?  
   Is this just fantasy?  

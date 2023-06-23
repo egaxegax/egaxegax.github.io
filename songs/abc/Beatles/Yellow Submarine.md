@@ -87,7 +87,7 @@ VERSE 3: As we live a life of ease
   
   *CHORUS (repeat and fade)*  
   
--  
+----  
   
     ***D7        C      G***  
   In the town where I was born  

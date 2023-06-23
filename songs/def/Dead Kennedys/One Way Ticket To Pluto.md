@@ -46,7 +46,7 @@ One Way Ticket To Pluto
   
   *The rest of the song basically repeats except the solo which I don't know...*  
   
--  
+----  
   
 Перевод: Билет на Плутон в одну сторону  
   *(Биафра)*  

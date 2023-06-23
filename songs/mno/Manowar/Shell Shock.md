@@ -41,7 +41,7 @@ Bridge:  (But if they tell you that I've lost my mind...)
   
   *On the chorus, play the Main Theme.*  
   
--  
+----  
   
   *Standard Tuning*  
   

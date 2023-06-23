@@ -86,7 +86,7 @@ Last caress
   *The hammer and sliding part is how it sounds to me, but if you have a*  
   *better idea, go ahead and correct me.*  
   
--  
+----  
   
 Text:  I got something to say  
   I killed your baby today  
@@ -115,7 +115,7 @@ Text:  I got something to say
   I am waiting for your breath  
   Come sweet death one last caress  
   
--  
+----  
   
 Перевод: Последняя Ласка  
   

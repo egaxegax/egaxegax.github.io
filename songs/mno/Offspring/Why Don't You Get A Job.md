@@ -88,7 +88,7 @@ ENDING:  I won't give you no money, I'll always pay
   *ending, play the chords in the "ska upstroke" (just*  
   *hit the highest 4 strings). It's not too hard.*  
   
--  
+----  
   
   *Гитapa 1*  
     *VERSE*  
@@ -562,7 +562,7 @@ ENDING:  I won't give you no money, I'll always pay
   --------------------------|--8-----------------||  
   --------------------------|--------------------||]  
   
--  
+----  
   
 Text:  My friend's got a girlfriend  
   Man he hates that bitch  

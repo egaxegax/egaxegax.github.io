@@ -24,7 +24,7 @@ The Masterplan (1998)
   sense again  
   *repeat Chorus  to fade*  
   
--  
+----  
   
   *Chords used:*  
    [EADGBe]  
@@ -138,7 +138,7 @@ The Masterplan (1998)
   *Pre-chorus*  
   *Chorus*  
   
--  
+----  
   
 Text:  underneath the sky above  
   is a storyteller sleeping alone  

@@ -31,7 +31,7 @@ Wish You Were Here
   A|-7-  
   E|-5-]  
   
--  
+----  
   
   *v strum down*  
   *^ strum up*  

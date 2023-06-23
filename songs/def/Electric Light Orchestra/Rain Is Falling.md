@@ -57,7 +57,7 @@ CHORUS:  Ooohh, the rain is falling
   (It's raining, it's pouring, the old man is snoring)  
   (Rain rain, go away, come again another day)  
   
--  
+----  
   
 Text:  (Rain rain, go away, come again another day)  
   

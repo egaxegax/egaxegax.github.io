@@ -49,7 +49,7 @@ You Can't Do That
     ***A7             G                D***  
   Because I told you befo--ore you can't do that.  
   
--  
+----  
   
   *ALTERNATE ***G*** TO ***G7***                     TIME=127*  
   

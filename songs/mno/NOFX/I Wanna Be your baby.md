@@ -4,7 +4,7 @@ I Wanna Be your baby
   *this is the main guitar part, it just goes: ***F#5 G5 A5 G5****  
   *over a few times.*  
   
--  
+----  
   
 Tuning:  [E  
   B  

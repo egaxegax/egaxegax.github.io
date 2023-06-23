@@ -40,7 +40,7 @@ Chorus:  Don't walk away (don't walk away), don't say goodby
   
   *chorus } repeats 3x*  
   
--  
+----  
   
 Text:  Why do I say, don't walk away  
   You'll be the way you were before, when you don't want me anymore  

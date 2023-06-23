@@ -73,7 +73,7 @@ Intro:  |--2-----/10-----9--7--5--------------------------------------------
   ***D***  
   Jai Guru Deva. } Repeat  
   
--  
+----  
   
 Intro:  [-|--0-----/8-----7--5--3-----------------------------------------------------  
   -|------------------------5--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--  
@@ -122,7 +122,7 @@ Chorus:  Jai Guru Da La  Om
     *three*  
   *[---7p5---] play fret seven and immediately pull-off to fret five*  
   
--  
+----  
   
   ***D                                  F#m***  
   Words are flowing out like endless rain into a paper cup  
@@ -163,7 +163,7 @@ Chorus:  Nothing's gonna change my world,
   ***D***  
   Jai Guru Deva. } Repeat  
   
--  
+----  
   
   ***D Dmaj7 A***  
   ***D                 Dmaj7              F#m***  
@@ -211,7 +211,7 @@ CHORUS:  Jai Guru Deva Om
   ***D***  
   Jai Guru Deva } Repeat  
   
--  
+----  
   
 Text:  Words are flowing out like endless rain into a paper cup,  
   They slither while they pass, they slip away across the universe  

@@ -4,7 +4,7 @@
   
   *12 Bar Blues in key of ***G****  
   
--  
+----  
   
   *Open ***G*** Tuning = D G D G B D  low to high*  
   *~~ = slide or slide vibrato*  

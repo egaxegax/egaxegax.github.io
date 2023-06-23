@@ -93,7 +93,7 @@ Oceanborn (1998), Over The Hills And Far Away (2001), From W
   |-------------------------------------------0----------------|  
   |------------------------------------------------------------|  
   
--  
+----  
   
   *Ориентируйтесь по тактам*  
   
@@ -322,7 +322,7 @@ Oceanborn (1998), Over The Hills And Far Away (2001), From W
   ------------------|------------------||  
   ------------------|------------------||]  
   
--  
+----  
   
   ***Am***  
   We're walking in the air  
@@ -363,7 +363,7 @@ Oceanborn (1998), Over The Hills And Far Away (2001), From W
   ***F#m           Hm             G        F#m***  
   Arousing of a mighty monster from its sleep  
   
--  
+----  
   
 Text:  Walking in the Air  
   
@@ -398,7 +398,7 @@ Text:  Walking in the Air
   We're floating in the midnight sky  
   And everyone who sees us greets us as we fly  
   
--  
+----  
   
 Перевод: Идущие В Воздухе  
   
@@ -435,7 +435,7 @@ Text:  Walking in the Air
   А далеко внизу, накрыты ночи духом,  
   Спят люди - мы парим в небесах открытых.  
   
--  
+----  
   
 Перевод: "Гуляя по воздуху"  
   

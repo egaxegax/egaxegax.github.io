@@ -57,7 +57,7 @@ Standing On The Shoulder Of Giants (2000)
   *RIFF 1 OVER VERSE CHORDS AND 'Watch out!'*  
   *End on ***D****  
   
--  
+----  
   
 Text:  Put yer money where your mouth is  
   Yer mama said that you was real  

@@ -27,7 +27,7 @@ Middle:  [G -2-----7--3--8--------
   
   *repeat intro/verse 2x (under solo) then middle again*  
   
--  
+----  
   
 Text:  Who met this one on the m1  
   Who hasn't stopped sucking his thumb  

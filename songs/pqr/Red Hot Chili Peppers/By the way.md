@@ -152,7 +152,7 @@ By the way
   ***Am           Bb***  
   I'd be there... waiting for  
   
--  
+----  
   
   ***F***  
   Standing in line  
@@ -194,7 +194,7 @@ By the way
   A --5-----  
   E --------]  
   
--  
+----  
   
   *Intro:*  
      *x8     x8    x16*  

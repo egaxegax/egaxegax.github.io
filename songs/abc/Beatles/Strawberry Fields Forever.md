@@ -328,7 +328,7 @@ Chorus:     ***C                  
   G-----------------------------------------------------------------------  
   D----------------------------------------------------------------------]  
   
--  
+----  
   
 Text:  Let me take you down, 'cause I'm going to Strawberry Fields.  
   Nothing is real and nothing to get hungabout.  

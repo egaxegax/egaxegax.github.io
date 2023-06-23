@@ -63,7 +63,7 @@ Chorus:  Destiny is dead.
   ***C N.C. D***  
   but now it's all fucked up.  
   
--  
+----  
   
   *tuned down 1/2 step.*  
   

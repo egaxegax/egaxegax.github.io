@@ -83,7 +83,7 @@ The Eminem Show (2002)
   *A Chorus/B Chorus*  
   *B Chorus X2*  
   
--  
+----  
   
   *Text:*  
   

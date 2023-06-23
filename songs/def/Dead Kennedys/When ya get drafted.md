@@ -53,7 +53,7 @@ Chorus:  e-|----------------------------------------------------------------
   *high part in second chorus is exactly the same but played on the "A" string...*  
   *solo=????*  
   
--  
+----  
   
 Перевод: Когда тебя призовут  
   *(Слова - Биафра)*  

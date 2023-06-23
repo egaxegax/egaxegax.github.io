@@ -104,7 +104,7 @@ Eight Days a Week
   
   ***C D7 Dm7 C***  
   
--  
+----  
   
 Intro:  (fade in)  
   *(let ring)*  

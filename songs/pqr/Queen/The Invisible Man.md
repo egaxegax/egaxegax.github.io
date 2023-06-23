@@ -56,7 +56,7 @@ The Miracle 1989
   *An advice? Ok, use hammer and pull off. and "metal zone" distortion, I think.*  
   *A really good song but I'm not sure about if I tabed it well.....*  
   
--  
+----  
   
 Text:  I'm the invisible man,  
   I'm the invisible man,  

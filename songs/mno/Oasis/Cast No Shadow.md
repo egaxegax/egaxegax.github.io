@@ -39,7 +39,7 @@
   *CHORDS*  
   ***A7sus4*** [x02030]  
   
--  
+----  
   
   *Song can be found on the album "(What's the Story) Morning Glory?"*  
   *The chords I have listed differ from those listed in the official guitar*  
@@ -93,7 +93,7 @@ Chorus:  As they took his soul they stole his pride  (pr
   *As they took his soul they stole his pride } x3*  
   *As he faced the sun he cast no shadow } x4*  
   
--  
+----  
   
 Text:  Here's a thought for every man  
   Who tries to understand what is in his hands  

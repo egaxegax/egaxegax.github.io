@@ -32,7 +32,7 @@ Don't Let Me Down
   
   *Chorus*  
   
--  
+----  
   
   Don't let me down, don't let me down.  
   Don't let me down, don't let me down.  

@@ -25,7 +25,7 @@ Chorus:  ***Bm  G  A9***
 *That's about it, after playing along with the song a few times, find the*  
 *lyrics on the internet, and it should be pretty easy.*  
   
--  
+----  
   
 *WN = Whole Note (4 beats)*  
 *HN = Half Note (2 beats)*  

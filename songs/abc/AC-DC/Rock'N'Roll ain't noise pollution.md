@@ -33,7 +33,7 @@ Rock'N'Roll ain't noise pollution
   It'll always be with us  
   It's never gonna die, never gonna die.  
   
--  
+----  
   
      Chicken-pickin                                                   (3 Times)  
   [E-------------||------------------|------------------|-----------------------||  

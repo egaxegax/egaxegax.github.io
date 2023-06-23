@@ -86,7 +86,7 @@
   ____________|_______4___2_|____________|____________|______________]  
   *[_0_0________|__0__________|_0__________|__0_________|_0_2h3h4__... ](back to verse)*  
   
--  
+----  
   
   *NOTE: I forgot to indicate that you need to play each measure twice on*  
   *Chrous Riffs 1a and 1b. Please edit the file accordingly, replacing the*  

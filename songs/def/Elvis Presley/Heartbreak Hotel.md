@@ -49,7 +49,7 @@ Heartbreak Hotel
   A |-------0-------|        A |-------2-------|  
   E |------(-)------|        E |------(-)------|]  
   
--  
+----  
   
    ***E***  
 (1)  Ever since my baby left me,  
@@ -81,7 +81,7 @@ Chorus:  You make me so lonely baby, I get so lonely,
   
   *repeat chorus and fade*  
   
--  
+----  
   
     ***E***  
   Well, since my baby left me,  

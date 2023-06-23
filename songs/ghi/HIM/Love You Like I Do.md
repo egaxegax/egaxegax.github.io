@@ -27,7 +27,7 @@ Love You Like I Do
   It will never be the same  
   Witness trust fade away  
   
--  
+----  
   
 Intro:      ***Gm     F***  
   1|---------------------|  

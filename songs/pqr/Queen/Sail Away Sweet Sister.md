@@ -89,7 +89,7 @@ bass-tab: [G|-14h16------|-14h16------|-16---------|----16h18---|-16--------|-
   A-|---9--------9-7-5-4-2-|  
   E-|----------------------|]  
   
--  
+----  
   
 Text:  Hey little babe you're changing  
   Babe, are you feeling sore?  

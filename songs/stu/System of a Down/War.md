@@ -73,7 +73,7 @@
   
   *Song ends.*  
   
--  
+----  
   
   *Drop C:*  
   [C G C F A D]  

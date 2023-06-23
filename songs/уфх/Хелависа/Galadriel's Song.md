@@ -29,7 +29,7 @@ Running to Paradise (1996)
   What ship would bear me ever back across so wide a Sea?  
   ***G D G C Em C D7 G D G C Em C Hm Em***  
   
--  
+----  
   
   Песня Галадриэль  
   *(Дж. Р. Р. Толкин, пер. А. Кистяковского)*  

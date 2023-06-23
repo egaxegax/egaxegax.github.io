@@ -38,7 +38,7 @@
   Jumped off Land's End  
   *(repeat chorus, then middle, then repeat chorus 2x)*  
   
--  
+----  
   
 Text:  And into the sea goes pretty England and me  
   Around the Bay of Biscay and back for tea  

@@ -57,7 +57,7 @@ PART 2:  And now I see that my life has been so blue
   *RIT.*  
   *SOLO*  
   
--  
+----  
   
   *Recalling the chord progression from memory:*  
   ****Bm E7 A***  and*  
@@ -66,7 +66,7 @@ PART 2:  And now I see that my life has been so blue
   *Sorry, not tabs for the opening lick and the lead;*  
   *but that is not hard to figure out.*  
   
--  
+----  
   
 Intro:  ***Dm         C       G       Dm         C       Bb***  
   ***Dm         C       G       Dm         C       G***  

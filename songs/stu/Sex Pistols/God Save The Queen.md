@@ -64,7 +64,7 @@ outro:  no future no future no future for you
   ***D  C#  B  D   C# B  D   C# B   Ab A Ab A***  
   no future no future no future for me  
   
--  
+----  
   
 intro:  ***Ab A*** } x5  
   ***A  D C# D A*** } x3  

@@ -47,7 +47,7 @@ Liberate
   F#|-2-111-0-001-|  
   B |-2-111-0-001-|]  
   
--  
+----  
   
 Text:  Liberate - My madness  
   (One of me, all of you)  

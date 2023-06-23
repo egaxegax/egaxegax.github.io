@@ -9,7 +9,7 @@
   |---00--0-1----1-0-----------11111----55555------------------------------|  
   |-------------------------------------------33333-&gt;&gt;6--------------------|  
   
--  
+----  
   
   *Tunning "Drop D"*  
   
@@ -78,7 +78,7 @@ Outro:  e|--------------------------------------------------------|
   A|----------6----x3--------66-----------------------------|  
   D|--0-7-8---8-7------0-7-8----8-7-0-----------------------|]  
   
--  
+----  
   
   *Figured this song out with a acoustic guitar. Not a hard song to play. I'm not 100% sure*  
   *correct, but I tried hard. TDG seem to use different tunings ( dropped D, D flat,*  
@@ -281,7 +281,7 @@ Outro:  |---------------------------------------------------------------|
   
   *... THEN a long, kinda slow, pickslide to 1st fret*  
   
--  
+----  
   
   *Tuning Drop C low to high (C-G-C-F-A-d)*  
   
@@ -418,7 +418,7 @@ Outro:  |---------------------------------------------------------------|
   G|-------7v------|      |-0----|]  
   [C|-0-7-8----8-7--|] } x4 [|-0----|]  
   
--  
+----  
   
   *This song is played with 2 guitars (both Drop C), and this is only the tablature for*  
   *so keep that in mind if you rate it.*  
@@ -461,7 +461,7 @@ Bridge:  |---------------------------------------------------------|
   |-8-8--8-8-8--8-5-5-0-1-1-0---0-0--0-0-0--0-3-3--3-3-3--3-|  
   |-8-8--8-8-8--8-5-5-----------0-0--0-0-0--0-3-3--3-3-3--3-|  
   
--  
+----  
   
   *Drop C tuning  low to high (CGCFAD)*  
   
@@ -528,7 +528,7 @@ Bridge:  |---------------------------------------------------------|
   
   *This isn't 100% but it's fun and an easy way to play it.*  
   
--  
+----  
   
   *note: originally tabbed in drop C tuning I transcribed it to an acceptable*  
   *sound alike in "Drop down half step" tuning wich is more widely used.*  
@@ -779,7 +779,7 @@ Bridge:  |---------------------------------------------------------|
   *[^] - brush up*  
   *[v] - brush down*  
   
--  
+----  
   
   *Tuning: Drop C (Sorry Massus, sicfreak91* is right)*  
   *Amp Setting: Gain: 7-10, Treble: 10, Middle: 2, Bass: 2, Reverb: 3-6*  
@@ -1125,7 +1125,7 @@ Guitar 1: |-----------------------------------------------|
   *This is how they play it on the record.*  
   *For the invisible root notes just use your middle finger.*  
   
--  
+----  
   
   *Gtr I (C G C F A D) - 'Rhythm 1'*  
   *Gtr II (C G C F A D) - 'Rhythm 2'*  
@@ -1557,7 +1557,7 @@ Guitar 1: |-----------------------------------------------|
     *&  - Coda*  
   *Tempo markers - &lt;E/E./Q/Q./H/H.&gt; = BPM(8/16=s8/s16), where s8 = swing 8ths, s16 = swing 16ths*  
   
--  
+----  
   
   *Bass Tab*  
   
@@ -1649,7 +1649,7 @@ verse:  F|-----------------|---------------|------------------|-------------
   *[+]  harmonic*  
   *[x]  Mute note*  
   
--  
+----  
   
   *Bass Tab*  
   
@@ -1757,7 +1757,7 @@ verse:  F|-----------------|---------------|------------------|-------------
   [  |_|_|_| |_|_|_|       |__|__|  |__|__|      ~  
     3        3]  
   
--  
+----  
   
   *Bass Tab*  
   
@@ -1833,7 +1833,7 @@ Third Chorus: [G---------------|
   *on the album if you have a 4-String. But if you do have a 4-String, play these tabs, if*  
   *right they sound nearly exact. Probably the closest you can get to this songon a 4-String.*  
   
--  
+----  
   
   *live acoustic version*  
   

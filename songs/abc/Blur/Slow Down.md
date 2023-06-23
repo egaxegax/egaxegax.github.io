@@ -24,7 +24,7 @@
   *wow, that looks even funnier typed out. I did this from memory and I'm not*  
   *really sure if I've got it correct, so beware.*  
   
--  
+----  
   
 Text:  It's up to you  
   You know it is  

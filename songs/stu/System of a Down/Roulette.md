@@ -33,7 +33,7 @@ Roulette
   -------6----------6-----|-------10----------5-----|-------8----------8-----|  
   -------7----------7-----|-------10----------------|------------------------|]  
   
--  
+----  
   
   *Main line*  
     ***C            G          A#        C#                  G#        A#***  
@@ -78,7 +78,7 @@ Roulette
     ...around you  
     ...around you  
   
--  
+----  
   
   *Not horry:*  
   *1.A (4)*  
@@ -125,7 +125,7 @@ Finish:  [-------2--------
   ----------------  
   ----------------]  
   
--  
+----  
   
 Text:  I have a problem that I cannot explain  
   I have no reasons why it should have been so plain,  
@@ -153,7 +153,7 @@ Text:  I have a problem that I cannot explain
   I don't know, how I feel when I'm around you,  
   Around you, Around you, Around you...  
   
--  
+----  
   
 Перевод: Рулетка  
   

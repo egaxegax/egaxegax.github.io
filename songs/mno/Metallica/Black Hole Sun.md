@@ -121,7 +121,7 @@ Chorus:  "Black hole..."
   A--5-/-7--7--|  
   E--3-/-5--5--|]  
   
--  
+----  
   
   *Here's the first bit of chorus from Soundgarden's Black Hole Sun. I*  
   *played it with my chorus cranked all the way to the right for short*  
@@ -139,7 +139,7 @@ Chorus:  "Black hole..."
   E ----------------------------------------------------------------]  
      Black -hole    sun,            wo- nt   you    co- ome,   ...  
   
--  
+----  
   
 IMPORTANT: You MUST use dropped-***D*** tuning (tune your low ***E*** string down to ***D***)  
   
@@ -167,7 +167,7 @@ IMPORTANT: You MUST use dropped-***D*** tuning (tune your low 
   *verse chords, please post. I'm trying various triads around the octave*  
   *fret but just can't seem to nail it.*  
   
--  
+----  
   
   *Black hole sun (parts anyways)*  
   *By SoundGarden (SuperUnknown)*  
@@ -210,7 +210,7 @@ IMPORTANT: You MUST use dropped-***D*** tuning (tune your low 
   E:--------|-----------------5--4--3--3-----5--7-------------|]  
     *Let ring...*  
   
--  
+----  
   
 Intro:  [e-----------------|-----------------|-----------------|-----------------|  
   B-----------------|-----------------|-----------------|-----------------|  

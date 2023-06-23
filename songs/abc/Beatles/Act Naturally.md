@@ -154,7 +154,7 @@ Ending:               ***D        
     *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
--  
+----  
   
   They're gonna put me in the movies  
   They're gonna make a big star out of me  

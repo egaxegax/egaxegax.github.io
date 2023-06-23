@@ -24,7 +24,7 @@ eoc
   
   *repeat Intro*  
   
--  
+----  
   
   Can't buy me love, love  
   Can't buy me love  

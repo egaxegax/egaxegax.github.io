@@ -8,7 +8,7 @@ Rest
   ***G  F***  
   ***A#  A  G***  
   
--  
+----  
   
 Lyrics:  Hey can you hear me?  
   I'm calling your name  

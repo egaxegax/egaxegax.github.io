@@ -29,7 +29,7 @@ Kiss Me
   
   *And.. that's all!*  
   
--  
+----  
   
   *Ok this Sixpence none the richer's: kiss me. I've noticed that not every part of*  
   *the song is tabbed out on this site so i thought i'd give you guys and gals the*  
@@ -162,7 +162,7 @@ Kiss Me
   *+  harmonic*  
   *x  Mute note*  
   
--  
+----  
   
   *Capo 1*  
   
@@ -212,7 +212,7 @@ Chorus:  Oh, kiss me beneath the milky twilight.
   ***G*    [320030]***  
   ***Asus4 [x02230]***  
   
--  
+----  
   
 Intro:  ***C Cmaj7 C7 Cmaj7***  
   
@@ -258,7 +258,7 @@ Interlude: ***Dm G C Am Dm G C Cmaj7***
   ****G***      ([320033])*  
   ****Am***     ([002210])*  
   
--  
+----  
   
 INTRO:  ***C    Csus      C      Csus***  
   
@@ -294,7 +294,7 @@ CHORUS:  kiss me beneath the milky twilight
   
   *the end... hope it sounds good!!*  
   
--  
+----  
   
 Intro:  ***D# G5***  
   
@@ -344,7 +344,7 @@ Solo Chords: ***G#   Fm   D#   G5 (2)***
   
   **Play ***G5*** and ***Bb5*** as bridge chords*  
   
--  
+----  
   
 Intro:  ***D – DM7 – D7 – DM7***  
   
@@ -387,7 +387,7 @@ Chorus:  Oh kiss me beneath the milky twilight
   
   *(Jammy_2288… hope you guys can rate this up)*  
   
--  
+----  
   
   *Ls mejor tab de todas*  
   
@@ -475,7 +475,7 @@ Solo:  |----5---5--3--------3-----|
   
   *Fin*  
   
--  
+----  
   
   *Drop all of your strings down a step, to E flat, A flat, D flat, and*  
   *G flat*  
@@ -530,7 +530,7 @@ Chorus 2: G|---------|---------|---------|---------|
   *Middle 8 } x2*  
   *Verse Riff } x2*  
   
--  
+----  
   
   *Bass Tab*  
   
@@ -609,7 +609,7 @@ Chorus 2: G|---------|---------|---------|---------|
   |6-----6---6-----|6-----6---6-----|6-----6---6-----|6-----6---6-----|6---------------|  
   |----------------|----------------|----------------|----------------|----------------|  
   
--  
+----  
   
   *(acoustic version)*  
   

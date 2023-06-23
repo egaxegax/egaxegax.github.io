@@ -59,7 +59,7 @@ SIC
   A|-2-1-0-2-1-0-2-1-0-|  
   D|-2-1-0-2-1-0-2-1-0-|  
   
--  
+----  
   
 Text:  Enemy - Show me what you wanna be  
   I can handle anything  

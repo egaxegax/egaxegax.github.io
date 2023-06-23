@@ -52,7 +52,7 @@ Third verse: I have never known the likes of this I've bee
   
 Note:  Play with capo on 2nd fret, bringing song up to the key of A.  
   
--  
+----  
   
   I've just seen a face,  
   I can't forget the time or place  

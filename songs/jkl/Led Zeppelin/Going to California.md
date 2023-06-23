@@ -92,7 +92,7 @@ ending:
   Ahhhhh..... Ahhhhh..... Ahhhhh.....  
   Ahhhhh..... Ahhhhh..... Ahhhhh.....      Fade out...  
   
--  
+----  
   
   *I saw a request for this, so I thought I'd post it. This is my first*  
   *real tab, so it may not be perfect.*  
@@ -135,7 +135,7 @@ Verses:  Spent my days with a woman unkind, smoked my stuf
   *I hope this helps somewhat. Also, the song is written in the key of ***D***, if*  
   *anyone wants to know.*  
   
--  
+----  
   
   *This song has two acoustic guitars and a mandolin.*  
   *However I only know the guitar parts so just*  
@@ -236,7 +236,7 @@ Verses:  Spent my days with a woman unkind, smoked my stuf
   D--0----------------------------------------------------------------------]  
   *Enjoy*  
   
--  
+----  
   
 Text:  Spent my days with a woman unkind, Smoked my stuff and drank all my wine.  
   Made up my mind to make a new start, Going To California with an aching in my heart.  

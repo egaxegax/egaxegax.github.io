@@ -202,7 +202,7 @@ Intro:  ***G/D    A    D  F#m***
   ***E9    [0 2 0 1 0 2]***  
   ***D13   [X 2 1 2 2 4] (4th Fret)***  
   
--  
+----  
   
 Text:  You know my name  
   Look up the number  

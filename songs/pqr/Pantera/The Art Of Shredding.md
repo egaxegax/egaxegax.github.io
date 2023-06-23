@@ -45,7 +45,7 @@ The Art Of Shredding
   |3--2--3--2--3-/5--5--5--5--5--5--4---4-4---3--3--3----------|  
   |1--0--1--0--1-/3--3--3--3--3--3--2---2-2---1--1--1----------|  
   
--  
+----  
   
   *Tuned 1/2 step down?*  
   *[E|----------------------------------------|] this comes after the whammy dives.*  
@@ -112,7 +112,7 @@ The Art Of Shredding
   E|-1\0--1\0--1/3---3-3-3-3-3--2--2-2--1--1-1-1--|]  
   *Shred yer ballz off..*  
   
--  
+----  
   
   *INTRO - Bass and Drums (bass is just low E chuggin')*  
   

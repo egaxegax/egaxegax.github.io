@@ -253,7 +253,7 @@ Let it Be (1970)
   *not always        [|-------------------------|---------------------------]*  
     *these two bars are repeated three times*  
   
--  
+----  
   
   I've got a feeling, a feeling deep inside  
   Oh yeah, Oh yeah.  

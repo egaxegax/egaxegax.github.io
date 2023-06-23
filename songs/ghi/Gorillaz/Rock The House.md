@@ -11,7 +11,7 @@ Rock The House
   *When playing the first line omit first three sounds. It is better*  
   *to listen to the song before playing it.*  
   
--  
+----  
   
 Text:  I know you like that  
   You wanna try that  
@@ -108,7 +108,7 @@ Text:  I know you like that
   Come on shake and bake do whatever it takes  
   (How many people ready to rock the house?)  
   
--  
+----  
   
 Перевод: Раскачать Тусовку  
   

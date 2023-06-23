@@ -105,7 +105,7 @@ Conspiracy Of One (2000)
   *Main chorus + then*  
   *Ending*  
   
--  
+----  
   
 Text:  Until the break of dawn  
   Life life  

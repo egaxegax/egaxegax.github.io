@@ -47,7 +47,7 @@ Running to Paradise (1996)
   But let them be, they're dead and gone,  
   They're with O'Leary in the grave.  
   
--  
+----  
   
     ***Em             C***  
   What need you, being come to sence,  

@@ -223,7 +223,7 @@ Chords used: ***Ab6***       -
    cham-     pions.  
    cham-     pions.)  
   
--  
+----  
   
 Text:  I've paid my dues -  
   Time after time -  

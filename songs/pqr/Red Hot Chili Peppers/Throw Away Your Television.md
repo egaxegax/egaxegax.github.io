@@ -42,7 +42,7 @@ Throw Away Your Television
   *chorus*  
   *W/Step: ***Am Em Am Em Am Em G F****  
   
--  
+----  
   
   *Мнoгo вapиaций - выбepитe чтo - тo oднo и игpaйтe миллиoн paз.*  
   *Мoжнo тaк:*  

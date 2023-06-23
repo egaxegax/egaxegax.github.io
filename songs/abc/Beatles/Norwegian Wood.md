@@ -155,7 +155,7 @@
   E  |---------------------------------------------------||  
     +   .   .   +   .   .   +   .   .   +   .   .]  
   
--  
+----  
   
   *Corrections to existing TABS:*  
   
@@ -197,7 +197,7 @@
       ***Em         Fm7   B7***  
       I   ...    chair.  
   
--  
+----  
   
   *Capo 2nd fret.*  
   
@@ -272,7 +272,7 @@ notes:  1.  Spacing doesn't indicate timing - I just lined
   4.  Have an accompanist play along without a capo:  
     ***E     D     E     D    (bridge)  Em    A    Em     A   B***  
   
--  
+----  
   
   *This song is in ***E***; you can play it in D with a capo, but*  
   *I don't have one, so I figured out this version. It lets*  
@@ -303,7 +303,7 @@ notes:  1.  Spacing doesn't indicate timing - I just lined
   *I'm not sure of the complete lyrics, they're pretty clear*  
   *on the album (Rubber Soul)*  
   
--  
+----  
   
   |-----------2--------2--------|-----------------2---2-------|  
   |-----------3--------3--------|-----------------3---3-------|  

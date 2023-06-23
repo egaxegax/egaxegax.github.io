@@ -117,7 +117,7 @@ Solo 2:  [e|--5/12---8-8-5-5-8-5--8--5----5-------------8-8-5-5-8-5-------
   
   *I don't see too many Santana tabs so this should help.*  
   
--  
+----  
   
   *Okay, for those who can't figure out the lyrics to*  
   *Oye Como Va by Santana, here they are with an english*  

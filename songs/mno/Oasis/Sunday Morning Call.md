@@ -97,7 +97,7 @@ Standing On The Shoulder Of Giants (2000)
   ***F C G***  
   Will it ever ever ever work out right  
   
--  
+----  
   
 Text:  Here's another Sunday morning call  
   Yer hear yer head-a-banging on the door  

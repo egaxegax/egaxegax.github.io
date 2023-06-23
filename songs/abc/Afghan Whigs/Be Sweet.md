@@ -51,7 +51,7 @@
   E|----------------------------------------8---8---8-----------]  
      ...you be sweet,        be sweet,      be sweet...  
   
--  
+----  
   
   *That shrieking solo in the middle of the song goes something like this:*  
   [e-13-13-13-13-12---10-12-13-13-13-13-12--10-12--13-13-13-13--13-  

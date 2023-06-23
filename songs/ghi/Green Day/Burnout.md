@@ -85,7 +85,7 @@ End-Bridge: 1|-----------|
   *Do End-Bridge*  
   I am SO good!  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  

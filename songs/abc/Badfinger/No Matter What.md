@@ -31,7 +31,7 @@ Verse 2: no matter where you ***A***go, there will always be
   ***D***ooh ***E***girl, ***D***you ***E***girl won't ***A***you  
   ***D***ooh ***E***girl, ***D***you ***E***girl won't ***A***you  
   
--  
+----  
   
   *There are at least three guitar parts in the studio version:  distorted*  
   *guitar mainly on the left channel (moved to center for the intro), a*  

@@ -337,7 +337,7 @@ Here Comes The Sun
   --9------------9--|--7~----------------||  
   -----------10-----|--------------------||]  
   
--  
+----  
   
   Here comes the sun, here comes the sun,  
   and I say it's all right  

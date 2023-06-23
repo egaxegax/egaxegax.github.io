@@ -13,7 +13,7 @@ What's My Age Again?
   *last time around hold the ***E*** and ***C*** longer*  
   *Bridge? Solo?*  
   
--  
+----  
   
   *Standard tuning: e,B,G,D,A,E*  
   *. . palm muting*  

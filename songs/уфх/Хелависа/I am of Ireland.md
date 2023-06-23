@@ -52,7 +52,7 @@ Running to Paradise (1996)
   "Come out of charity,  
   And dance with me in Ireland."  
   
--  
+----  
   
    ***D        C***  
   'I am of Ireland,  

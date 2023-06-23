@@ -50,7 +50,7 @@ Live Killers 1977, Jazz 1978
   I'm burning through...  
   Don't stop me now...  
   
--  
+----  
   
 Text:  Tonight I'm gonna have myself a real good time  
   I feel alive and the world it's turning inside out Yeah!  

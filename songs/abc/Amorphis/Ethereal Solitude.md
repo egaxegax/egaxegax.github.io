@@ -23,7 +23,7 @@ Ethereal Solitude
   let go of the life that haunts you tonight  
   don't let the silence take the sound  
   
--  
+----  
   
 Перевод: Тень Одиночества  
   

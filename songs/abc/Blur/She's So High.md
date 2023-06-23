@@ -15,7 +15,7 @@
   *- Its a pretty easy song to play, as you can see. The guitar is mildly dist-*  
     *orted throughout.*  
   
--  
+----  
   
 Text:  I see her face  
   Everyday  

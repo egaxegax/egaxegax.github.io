@@ -32,7 +32,7 @@
   ||o|||]  
    ***F-5***  
   
--  
+----  
   
 Text:  Remember, Now, Be Here Now  
   As it's not like it was before.  

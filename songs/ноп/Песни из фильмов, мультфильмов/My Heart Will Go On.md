@@ -28,7 +28,7 @@ My Heart Will Go On
   You are safe in my heart  
   And my heart will go on and on  
   
--  
+----  
   
 Перевод: "Мое сердце никогда не перестанет биться"  
   

@@ -51,7 +51,7 @@ Conspiracy Of One (2000)
   A|-1-1/2-2-1/2-2-1/2-2-3:-----------------  
   E|----------------------------------------]  
   
--  
+----  
   
 Text:  Hey now do you see me down the way  
   Been watching you everyday  

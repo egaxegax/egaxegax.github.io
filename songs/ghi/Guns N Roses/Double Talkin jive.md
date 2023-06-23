@@ -37,7 +37,7 @@ Double Talkin jive
   *That's how I play it, anyway. I'm doing this at 3:30 am,*  
   *so there may be some mistakes...*  
   
--  
+----  
   
   *Main Solo:*  
   [----------------------------------------------------------------------------  

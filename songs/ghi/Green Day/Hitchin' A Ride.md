@@ -189,7 +189,7 @@ Outro:     ***B5      D         G#5 �
   *Verse 1*  
   *Outro w/ background vocal: "Don't know where to go"*  
   
--  
+----  
   
   *Okay, I had my guitar tuned differently and I found this easier way to play*  
   *"Hitchin A Ride".*  

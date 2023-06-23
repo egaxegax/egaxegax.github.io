@@ -82,7 +82,7 @@ Americana (1998)
   
   *Have fun!*  
   
--  
+----  
   
 Text:  Feelings  
   Nothing more than feelings  

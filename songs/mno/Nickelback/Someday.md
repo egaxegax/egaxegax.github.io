@@ -44,7 +44,7 @@ Someday
   ***Gm       A        Hm***  
   I know you wondering when  
   
--  
+----  
   
   ***Em                 G                 D***  
   How the hell did we wind up like this  
@@ -115,7 +115,7 @@ Someday
   (You're the only one who knows that)  
   I know you're wondering when  
   
--  
+----  
   
   ****D(1)*** (Бapэ нa 2 лaдy)*  
   [1 --2--  

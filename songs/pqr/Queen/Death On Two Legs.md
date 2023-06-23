@@ -173,7 +173,7 @@ A Night At The Opera 1975
   
   *H: artificial harmonics; the pitches are one octave higher.*  
   
--  
+----  
   
 Text:  You suck my blood like a leech  
   You break the law and you breach  

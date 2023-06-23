@@ -154,7 +154,7 @@ The Offspring (1989)
   *That's it. Play it with a pick and big feeling.*  
   Night brings bad dreams...  
   
--  
+----  
   
   *Easy to play and cool lyrics. Also very easy to find the right rhythm. Only*  
   *tough part is when you change between the chorus and intro. Ready to kill your guitar?!*  
@@ -198,7 +198,7 @@ The Offspring (1989)
   *Play intro, verse, chorus and bridge X2 (without the brackets). Then it is*  
   *done. That was really something!*  
   
--  
+----  
   
 Text:  Mommy doesn't have a head any more  
   Keep it underneath my bed on the floor  

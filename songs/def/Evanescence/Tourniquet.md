@@ -127,7 +127,7 @@ Text:  I tried to kill the pain,
   Will I be denied?  
   Christ! Tourniquet! My suicide.  
   
--  
+----  
   
 Text:  i tried to kill the pain  
   but only brought more  
@@ -162,7 +162,7 @@ Text:  i tried to kill the pain
   will i be denied  
   Christ. Tourniquet. My suicide.  
   
--  
+----  
   
 Перевод: Турникет  
   

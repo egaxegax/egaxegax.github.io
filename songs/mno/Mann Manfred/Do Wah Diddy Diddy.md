@@ -72,7 +72,7 @@ Verse 3: Now we're together nearly every single day
    ****E                    A        E*** (end cold)*  
   (Do wah diddy, diddy dum diddy do)  
   
--  
+----  
   
   *(Intro chords)  ***G  C  G*** (pause)*  
   *(no chord)*  
@@ -140,7 +140,7 @@ Verse 3: Now we're together nearly every single day
   ****G                  C         G***  (stop!)*  
   Do wah diddy diddy dum diddy do.  
   
--  
+----  
   
   *Tuning: E A D G Time Signature: 4/4*  
   

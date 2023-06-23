@@ -42,7 +42,7 @@ CHORUS:  Why does love got to be so sad?
   
   *CHORUS*  
   
--  
+----  
   
   ***Am  G  Am  G  Am  G  Am  G***  
   ***Am  G  Am  G  Am  G  Am  G***  

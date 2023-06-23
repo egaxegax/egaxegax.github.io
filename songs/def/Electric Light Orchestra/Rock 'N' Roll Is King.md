@@ -36,7 +36,7 @@ Chorus:  Oh let those guitars play
   Now here I'm gonna stay where that music starts to play  
   She says rock 'n' roll is king  
   
--  
+----  
   
 Text:  Listen everybody let me tell you 'bout the rock 'n' roll  
   Feel that rhythm and it's really gonna thrill your soul  

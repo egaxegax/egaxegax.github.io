@@ -16,7 +16,7 @@ Herzeleid 1995, Seemann (Single) 1996
   *These riffs are played throughout the entire song. They change with*  
   *the guitars.*  
   
--  
+----  
   
   *Drop D Tuning*  
   |-e-|  
@@ -59,7 +59,7 @@ Chorus:  |-------------------------------|-------------------------------|
   |-------------------------------|-------------------------------|  
     pm.....)    pm...)    pm.)      pm.....)    pm...)  
   
--  
+----  
   
   *BASS*  
   
@@ -133,7 +133,7 @@ Chorus:  |-------------------------------|-------------------------------|
   
   *Rest till end*  
   
--  
+----  
   
 Text:  Lauft!  
   Weil der Meister uns gesandt  
@@ -163,7 +163,7 @@ Text:  Lauft!
   diese Tage eure letzten sind  
   wie Stabchen wird es euch zerbrechen  
   
--  
+----  
   
 Перевод: Хозяин  
   

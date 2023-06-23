@@ -19,7 +19,7 @@ Again
   And I feel despair holding our hearts again  
   Oh baby yes  
   
--  
+----  
   
 Text:  I've seen  
   you turned your back and left again  

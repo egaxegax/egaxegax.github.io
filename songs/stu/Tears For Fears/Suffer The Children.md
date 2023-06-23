@@ -41,7 +41,7 @@ The Hurting (1983)
   
   *Alt chords: Verses - ***D D7 G***; CHorus - ***C G****  
   
--  
+----  
   
 Text:  It's a sad affair  
   When there's no one there  

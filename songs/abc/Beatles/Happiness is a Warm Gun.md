@@ -45,7 +45,7 @@ White album (1968)
   |---7--3-----3---5-b(7)---5-b(7)----3-----|  
   |---------5----------------------------5--|  
   
--  
+----  
   
     ***Am9       Am6    Em              Am                     Em***  
   She's not a girl   who misses much        Du du du du du du      Oh yeah  
@@ -84,7 +84,7 @@ White album (1968)
   
   Happiness  is a warm gun mama, etc, blah, blah  (same chords, ***C Am F G7***)  
   
--  
+----  
   
   She's not a girl who misses much  
   Do do do do do do do do  

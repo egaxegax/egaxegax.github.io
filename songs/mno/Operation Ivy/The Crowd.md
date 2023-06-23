@@ -24,7 +24,7 @@ The Crowd
   
   *I don't have a guitar infront of me right now but that looks right =)*  
   
--  
+----  
   
   *when i posted the crowd by operation ivy, i forgot the second verse, so here*  
   *it is:*  
@@ -39,7 +39,7 @@ The Crowd
   
   *ok, there it is.*  
   
--  
+----  
   
       ***F#m        D          A          E***  
   [e:--2-------|--2-------|--0-------|--0-------||  

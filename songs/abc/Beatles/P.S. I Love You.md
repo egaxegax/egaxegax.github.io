@@ -28,7 +28,7 @@ Please Please Me (Mar.1963)
   ***Bb  C    D   DDDDD***  
   I love you.  
   
--  
+----  
   
   *Text:*  
   

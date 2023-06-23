@@ -141,7 +141,7 @@ Solo:  [e -------- --------
   *two-digit frets but are (probably) of same length as the rest.*  
   *Just listen to the record if you're not certain about the rhythm.*  
   
--  
+----  
   
 Перевод: Луна над пляжем  
   *(Слова - Dead Kennedys)*  

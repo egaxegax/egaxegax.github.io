@@ -19,7 +19,7 @@ Verse:  I went to a shrink to analyze my dreams
   I went to a whore, she said my life's a bore  
   And quit my whining cause it's bringing her down.  
   
--  
+----  
   
   *The 'x' below denotes an accent. All the other notes on the*  
   *intro are palm muted. The rhythm is probably totally incorrect.*  
@@ -85,7 +85,7 @@ Verse:  I went to a shrink to analyze my dreams
   *That should be adequate, apart from the ending.*  
   *It's all in Emajor and good to muck about on the chords with.*  
   
--  
+----  
   
   *I had a few queries on the ***C#5*** chord in the orginal tab.*  
   ****C#5*** is just a power chord at the fourth fret A string.*  
@@ -111,7 +111,7 @@ Verse:  I went to a shrink to analyze my dreams
   ***A5  E5  B5***  
   *Those are the chords that finish the song.*  
   
--  
+----  
   
   *Tune 1/2 step down*  
   *Lower case = single note*  
@@ -123,7 +123,7 @@ Verse:  I went to a shrink to analyze my dreams
   ***A B***  
   ***E C# A E B***  
   
--  
+----  
   
   *(I don't have time to type out the rythym, so that is up to you)*  
   *Chord  Progression:*  

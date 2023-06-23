@@ -146,7 +146,7 @@ from the albumn Led Zeppelin III
   Aaaaaaaaaah  Ahhh   Ohhhhhhhhhhhhh  
   *Riff 5 until end*  
   
--  
+----  
   
 Text:  I don't know how I'm gonna tell you, I can't play with you no more,  
   I don't know how I'm gonna do what mama told me, My friend, the boy next door.  

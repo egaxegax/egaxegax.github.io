@@ -29,7 +29,7 @@
   
   *Chorus } X2*  
   
--  
+----  
   
 Text:  All those dirty words  
   They make us look so dumb  

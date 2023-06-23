@@ -28,7 +28,7 @@ Chorus:  And I might as well just grin and bear it
   
   *Chorus*  
   
--  
+----  
   
 Text:  So far I've not really stayed in touch  
   Well you knew as much it's no surprise that today  

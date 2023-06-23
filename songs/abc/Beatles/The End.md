@@ -106,7 +106,7 @@ The leads: Make sure to change your tone completely from
   -|--7------------------------------------------------------------  
   -|---------------------------------------------------------------]  
   
--  
+----  
   
 Text:  Oh yeah, all right  
   Are you going to be in my dreams  

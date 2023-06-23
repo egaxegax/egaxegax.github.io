@@ -95,7 +95,7 @@
   --------------------------------  
   --------------------------------]  
   
--  
+----  
   
 Lyrics:  Turn the spotlights on the people  
   Sitch the dial and eat the worm  

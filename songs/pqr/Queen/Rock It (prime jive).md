@@ -70,7 +70,7 @@ The Game 1980
   (We want some prime jive) Oh oh oh oh oh rock it tonight...  
   *and it is ***F#*** -&gt; ***B*** ad infinitum (or at least, until the end)*  
   
--  
+----  
   
 Text:  When I hear that rock and roll,  
   It gets down to my soul,  

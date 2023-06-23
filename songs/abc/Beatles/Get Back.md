@@ -150,7 +150,7 @@ Guitar Lead:      ***A***
   *[--5h7p5--]  play fret five, hammer on to fret seven, pull off to fret five*  
   *[--X------]  pick string, but do not press string to fret; left hand mute*  
   
--  
+----  
   
   *The intro, goes with an ***E5*** played in eights, and then we have:*  
   
@@ -215,7 +215,7 @@ Chorus:  [e-----------------|--same again--|-----------------|------------
   
   *Chorus*  
   
--  
+----  
   
   *Sweet Loretta Fat thought she was a cleaner but she was a frying pan.*  
   

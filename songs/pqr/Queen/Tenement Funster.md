@@ -27,7 +27,7 @@ Sheer Heart Attack 1974
   |-5---------4---------3-----------0-0-0-0-----------------------------------  
   |---------------------------------------------------------------------------  
   
--  
+----  
   
 Text:  My new purple shoes, bin' amazin' the people next door  
   And my rock 'n roll 45's, bin' enragin' the folks on the lower floor  

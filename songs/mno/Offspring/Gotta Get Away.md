@@ -31,7 +31,7 @@ Chorus:  G|-----------------|-----------------||
   *repeat Verse 2 times.*  
   *repeat Chorus 8 times.*  
   
--  
+----  
   
   *Intro might be a little bit wrong but that`s okay, at least it sounds right.*  
   *Verse is very fantastic to play!*  
@@ -66,7 +66,7 @@ Chorus:  G|-----------------|-----------------||
   E-------7--8--8--8-------------------------|]  
   *Play intro2, verse, chorus X6, intro, intro2 and chorus X8. And let it ring!*  
   
--  
+----  
   
 Text:  I'm getting edgy all the time  
   There's someone around me just a step behind  

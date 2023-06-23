@@ -32,7 +32,7 @@ Conspiracy Of One 2000
   A|-7--10-10--7\--|  
   E|-5---8---------|  
   
--  
+----  
   
 Text:  Deep inside secretas burning  
   I Should have known all the while whatas true  

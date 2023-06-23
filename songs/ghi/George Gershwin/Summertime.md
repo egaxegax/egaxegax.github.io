@@ -66,7 +66,7 @@ Summertime
   ***|   Dm6                   |***  
   *Doug*  
   
--  
+----  
   
   *(Dubose Heyward, Ira & George Gerswin)*  
   

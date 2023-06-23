@@ -81,7 +81,7 @@
   *Repeat Main Riff A (Rhythm only with wah) } 12 times*  
   *Repeat Main Riff B } 8 times*  
   
--  
+----  
   
   *TUNING: A, D, G, C, F, A, D (low to high)*  
   

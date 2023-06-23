@@ -76,7 +76,7 @@ Lyrics:  Here I stand
   Think I'll stay around around around  
   We'll be down in the city justa you 'n' me  
   
--  
+----  
   
 Text:  Here I stand  
   Look around around around  

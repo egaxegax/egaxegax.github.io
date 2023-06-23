@@ -71,7 +71,7 @@ Chrous:  It's always a rainy day without you.
   
 Final Progression: ***D***-***A***-***Bm***-***G***-***Em***-***A  D***-***A***-***Bm***-***G***-***Em***-***A  Bm***-***A***-***Bm***-***A***  
   
--  
+----  
   
 Text:  Just one year of love  
   Is better than a lifetime alone,  

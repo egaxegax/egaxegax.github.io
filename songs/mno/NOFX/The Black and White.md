@@ -15,7 +15,7 @@ Heavy Petting Zoo (Epitaph 1996)
   *(I know my previous tab was in the key of ***C***, but I think this sounds*  
   *right so just mess around with it)*  
   
--  
+----  
   
   ***C      D                  G***  
   Mr. McCarthy killed the light  

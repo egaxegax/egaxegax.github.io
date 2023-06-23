@@ -92,7 +92,7 @@ Keyboard: [B-------------
   E---------------------  
   B---------------------]  
   
--  
+----  
   
 Текст песни: You're like a seraphim,  
   You're good to the bone  

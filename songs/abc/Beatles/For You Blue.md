@@ -23,7 +23,7 @@ Then into: ***A  D   A***
   ***D      A***  
   ***E  D   A    E7***  
   
--  
+----  
   
   *Queen says no to pot smoking FBI members*  
   

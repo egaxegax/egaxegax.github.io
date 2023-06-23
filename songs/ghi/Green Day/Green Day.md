@@ -48,7 +48,7 @@ Other lyrics: Laying in my bed
   My body begins to swell  
   Why does 1+1 make 2?  
   
--  
+----  
   
 Intro:  ***B  E  D  B***  
   ***G#  E  B***  

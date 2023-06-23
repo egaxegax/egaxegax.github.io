@@ -47,7 +47,7 @@
   Rock-n-roll, rock-n-roll  
   Rock-n-roll, это пpосто rock-n-roll  
   
--  
+----  
   
        ***Am***  
   Собирайтесь в круг как бы мальчики  

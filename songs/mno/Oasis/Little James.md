@@ -36,7 +36,7 @@ Standing On The Shoulder Of Giants (2000)
   -------------------------------------------------------------------  
   -------------------------------------------------------------------]  
   
--  
+----  
   
 Text:  Little James, we're all the same  
   Always seem to look to us  

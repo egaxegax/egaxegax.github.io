@@ -60,7 +60,7 @@ Song structure: Intro (synthesizer)
   Heavier chorus x2    (03:08)  
   Main Riff x7         (03:36) abrupt stop on the F chord  
   
--  
+----  
   
   *Standard Tuning*  
   |-e-|  
@@ -106,7 +106,7 @@ Song structure: Intro (synthesizer)
   ||-0------3-3-2-1--0------3-3-2-1---------------3-3-2-1-||  
     *pm.....         pm.....               pm.....*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -124,7 +124,7 @@ Song structure: Intro (synthesizer)
   A|-3------|  
   E|---3-5-0|  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -205,7 +205,7 @@ Song structure: Intro (synthesizer)
   
   *Break till end*  
   
--  
+----  
   
 Text:  Lass mich deine Trane reiten  
   ubers Kinn nach Afrika  
@@ -232,7 +232,7 @@ Text:  Lass mich deine Trane reiten
   Doch er versinkt im Ozean  
   Sehnsucht ist so grausam  
   
--  
+----  
   
 Перевод: страстное желание  
   

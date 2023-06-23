@@ -122,7 +122,7 @@ Here To Stay
   A|-0-0---0-0-0-0--------------0-0---0-0-0-----------|]  
   *The rest of the song is just playing the Chorus and Verse of the song*  
   
--  
+----  
   
 Text:  This time I'm taking it away, I've got a problem  
   With me getting in the way, not by my side  

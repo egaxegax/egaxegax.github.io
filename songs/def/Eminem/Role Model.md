@@ -12,7 +12,7 @@ Comments: I just saw this video on MTV. I don't really lik
   A||-----------------------------------|  
   E||-----------------------------------|]  
   
--  
+----  
   
 Text:  OK, I'm going to attempt to drown myself  
   You can try this at home  

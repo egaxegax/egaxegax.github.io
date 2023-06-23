@@ -47,7 +47,7 @@ It's Only Love
     ***F               G          C     Am    C    Am***  
   Yes it's so hard, lovin you, lovin you.  
   
--  
+----  
   
   I get high when I see you go by  
   My oh my.  

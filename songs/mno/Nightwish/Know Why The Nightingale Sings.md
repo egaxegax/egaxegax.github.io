@@ -116,7 +116,7 @@ Intro/Riff1: [e---------------------------------------------------
   *The rest of the song goes with*  
   *"Intro/Riff1"*  
   
--  
+----  
   
 Text:  Know Why the Nightingale Sings?  
   
@@ -145,7 +145,7 @@ Text:  Know Why the Nightingale Sings?
   Doesn't matter that man has no wings  
   As long as I hear the nightingale sing...  
   
--  
+----  
   
 Перевод: "Знаешь, почему поёт соловей?"  
   
@@ -169,7 +169,7 @@ Text:  Know Why the Nightingale Sings?
   Наслаждение жизнью - больше не маска,  
   Мною найденный рай потерян навсегда.  
   
--  
+----  
   
 Перевод: Для кого Поет Соловей?  
   

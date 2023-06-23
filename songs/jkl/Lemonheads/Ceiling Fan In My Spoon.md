@@ -43,7 +43,7 @@ Intro:  | ***Esus2*** | ***Esus2*** | } x8
   ***| Asus2            | Dsus2 G6 | Asus2 | A5 |***  
     In my spoon...  
   
--  
+----  
   
 Text:  Started out today jello in the sand  
   Went out of my way not to understand  

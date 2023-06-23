@@ -46,7 +46,7 @@ Jazz 1978
   ***G [x20033]***  
   ***A [X02220]***  
   
--  
+----  
   
 Text:  Are you gonna take me home tonight?  
   Ah down beside that red fire light  

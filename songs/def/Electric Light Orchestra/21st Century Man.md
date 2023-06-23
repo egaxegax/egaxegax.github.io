@@ -48,7 +48,7 @@ Time (1981)
   
   Twenty-first century man.  
   
--  
+----  
   
 Текст:  A penny in your pocket  
   Suitcase in your hand  

@@ -66,7 +66,7 @@ Intro:  ***D* A* D* A****
   ****Bb*** - [x13331]*  
   ****C***  - [x32010]*  
   
--  
+----  
   
   *The verses are just ***D A D A*** ... as many as needed with the change*  
   *occurring on every second bar. There is an additional two bars of ***D****  

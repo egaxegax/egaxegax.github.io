@@ -349,7 +349,7 @@ Sabbath, Bloody Sabbath (1974)
   |------------|  
   *I hope I didn't screw up with this editor - try it and see....*  
   
--  
+----  
   
   *Gtr. I*  
   |------------2------------------2-------|----------2-----------------2-------|  

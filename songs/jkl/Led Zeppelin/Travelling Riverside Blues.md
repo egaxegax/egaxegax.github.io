@@ -30,7 +30,7 @@ Solo:  [D|------------------------------------------------------9--10--12---
   G|---------------------------------------------------------------------|  
   D|-(3:20)--------------------------------------------------------------|]  
   
--  
+----  
   
   *TUNING: [6-D 5-G 4-D 3-G 2-B 1-D]*  
   
@@ -45,7 +45,7 @@ Solo:  [D|------------------------------------------------------9--10--12---
   *This is the main riff. Use a slide of course!!!!!!*  
   *Sorry, don't have any of the solo. (I've only heard the song itself about twice!)*  
   
--  
+----  
   
 Text:  Asked sweet mama, Let me be her kid  
   She said, "You might get hurt if you don't keep it hid"  

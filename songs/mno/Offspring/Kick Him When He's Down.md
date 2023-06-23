@@ -62,7 +62,7 @@ Ignition (1993)
   -7---9--11------------------------------  
   ----------------------------------------]  
   
--  
+----  
   
   *One of the coolest songs to play on Ignition. Well that`s enough talking,let`s go!*  
   *# intro #          *=play 15X*  
@@ -107,7 +107,7 @@ Ignition (1993)
   *Play verse and chorus X3 (play end-chord MANY times).*  
   *Slide down and it`s done!*  
   
--  
+----  
   
 Text:  'Hey, you're a riddle',  
   I say as I move aside  

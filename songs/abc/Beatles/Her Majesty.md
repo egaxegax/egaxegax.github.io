@@ -49,7 +49,7 @@ Her Majesty
   
   ****(S)*** = Slide up to this note*  
   
--  
+----  
   
   Her Majesty's a pretty nice girl,  
   but she doesn't have a lot to say  

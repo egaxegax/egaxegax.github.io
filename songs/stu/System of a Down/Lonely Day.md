@@ -43,7 +43,7 @@ chorus 2: and if you go, I wanna go with you
   ***Em    C                      G      B7***  
   Its a day that I'm glad I survived  
   
--  
+----  
   
   *Tuning = drop Db   C# g# c# f# a# d#*  
   
@@ -125,7 +125,7 @@ chorus 2: and if you go, I wanna go with you
   G#|-----7---7---------------------------------------------------------------|  
   C#|-------------------------------------------------------------------------|]  
   
--  
+----  
   
   
 Intro:  ***G#m E6 H D#*** } 2x  

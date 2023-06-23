@@ -194,7 +194,7 @@ chorus:                        �
   
   *(repeat and fade) No No No*  
   
--  
+----  
   
 Text:  Well I'd rather see you dead, little girl  
   Than to be with another man  

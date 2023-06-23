@@ -43,7 +43,7 @@ Lyrics:  In my own simple way
   it always seems like such a waste.  
   it's oversimplified...  
   
--  
+----  
   
 Text:  I've been told that to get what you want  
   In my own simple way  

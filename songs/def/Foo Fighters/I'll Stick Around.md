@@ -53,7 +53,7 @@ From the album "Foo Fighters" on Roswell/Capitol Records
   
   *Hope you enjoy the TAB!*  
   
--  
+----  
   
   *The other version of this song is fine except for one thing.*  
   *You may notice on the video that Dave's hand isn't moving that much.*  
@@ -104,7 +104,7 @@ From the album "Foo Fighters" on Roswell/Capitol Records
   E|--------------|--0--0--0--0--|--2--2--2--2--|--------------|--]  
     I'll stick around...  
   
--  
+----  
   
   *It is possible to play the Beginning/Chorus part of the song using normal*  
   *tuning. Unfortunately, it's going to require a long stretch for the D#/Eb.*  
@@ -141,7 +141,7 @@ From the album "Foo Fighters" on Roswell/Capitol Records
   6|-1-1-1-1-1-1--3-3-3-3-3-3--------------------------  
   *Hope this helps.*  
   
--  
+----  
   
   *Chords:*  
   ***G       [x 10 9 0 8 10]***  
@@ -274,7 +274,7 @@ From the album "Foo Fighters" on Roswell/Capitol Records
   a-5--5--------||  
   e-3--3--------||]  
   
--  
+----  
   
   *Verse (2x):*  
   [-------------------------  

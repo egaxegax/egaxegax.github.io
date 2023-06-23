@@ -36,7 +36,7 @@ Amarok
   D|-pr0--h3--h5-----pr0--h3--h5-----pr5--h7-----pr5--h7-----pr7--h5----|  
     *and now the whole thing again...*  
   
--  
+----  
   
   Amarok - Lion Reprise  
   
@@ -114,7 +114,7 @@ Amarok
   A|------------------------------------------------------------|  
   E|------------------------------------------------------------|]  
   
--  
+----  
   
   *Here is a little "Blues style" bit in Amarok, I'm sure you'l know*  
   *where it is. You have to tune the low E to a D. Ok it goes like*  
@@ -169,7 +169,7 @@ Amarok
   
   *And then brilliantly into the "FastRiff" it's great fun.*  
   
--  
+----  
   
   Amarok (Excerpt)  
   

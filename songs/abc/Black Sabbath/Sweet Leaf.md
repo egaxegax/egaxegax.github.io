@@ -45,7 +45,7 @@ Master Of Reality (1971)
   *the 97575753, and end by fading out while playing the main riff 13x.*  
   *Walahh, there's Sweet Leaf.*  
   
--  
+----  
   
   *Tune down 1 1/2 steps*  
   

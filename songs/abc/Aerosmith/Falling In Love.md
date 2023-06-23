@@ -91,7 +91,7 @@
   G-----------------------------------------------------------------------|]  
    ***F G G  F# G# G#  G A A  G# A# A#  A B B A#***  
   
--  
+----  
   
   *I'm not sure about some chords names due to their alterations,*  
   *but I think they are the right ones.*  
@@ -170,7 +170,7 @@
   ***F G G  F# G# G#  G A A  G# A# A#  A B B A#***  
   *(play as individual notes)*  
   
--  
+----  
   
   *Sorry I've missed the words from the first verse, chords are the same though*  
   

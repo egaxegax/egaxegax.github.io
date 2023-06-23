@@ -17,7 +17,7 @@
   -8---8--8--8--8--8-------------------5--5-5-5-5-5---1--1-1---3--3-3--------]  
     *repeat first part once*  
   
--  
+----  
   
   *NOTES: These are all just regular chords, but i tabbed em out for slow people*  
   *(this song is also in the live album)*  

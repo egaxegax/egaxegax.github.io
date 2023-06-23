@@ -37,7 +37,7 @@ Chorus:  Oh   the night comes down, and I get afraid, 
   ***Em7      A7         Em  (more ad-libbing,***  
   and it's dark again      blending into "Good King Rat")  
   
--  
+----  
   
 Text:  When I was young it came to me  
   And I could see the sun breakin'  

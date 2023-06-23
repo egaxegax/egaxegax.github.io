@@ -81,7 +81,7 @@ Interlude: ***Em  D  A  G  A***
   ***Hm  A  G  F#m         Hm***  
     Summer moved on  
   
--  
+----  
   
   *Here's the famous hit from A-Ha's latest album*  
   *Minor Earth Major Sky. I think it's a catchy tune and*  

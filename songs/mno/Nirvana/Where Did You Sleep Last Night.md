@@ -26,7 +26,7 @@ Riff:  1|----0----------------------------------------------
   *)*  
   *@@@@@=Smash Guitar*  
   
--  
+----  
   
 Text:  My girl, my girl, don't lie to me  
   Tell me, where did you sleep last  
@@ -65,7 +65,7 @@ Text:  My girl, my girl, don't lie to me
   Where the sun don't ever shine  
   I would shiver the whole night through  
   
--  
+----  
   
 Перевод: Где спала ты прошлой ночью?  
   

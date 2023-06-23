@@ -79,7 +79,7 @@ A Kind Of Magic 1986
   *sliding from there.*  
   *That's all for now.*  
   
--  
+----  
   
 Text:  Here we are, Born to be kings,  
   We're the princes of the universe,  

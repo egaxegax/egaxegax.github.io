@@ -93,7 +93,7 @@ CHORUS:  Jetzt stehst du da an der Laterne
   
   *Проигрыш перебором - 1 раз.*  
   
--  
+----  
   
   *Бас может показаться сложноватым, но это Realный бас:*  
   
@@ -146,7 +146,7 @@ CHORUS:  Jetzt stehst du da an der Laterne
   --0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0|  
   ---------------------------------------|]  
   
--  
+----  
   
   *The following riff is repeated throughout the entire song. During the=20*  
   *chorus, I believe there is a second bass track of the root notes being play=*  
@@ -208,7 +208,7 @@ CHORUS:  Jetzt stehst du da an der Laterne
   |--6---------------------------------------------------------------|----  
   |--4---------------------------------------------------------------|----  
   
--  
+----  
   
   *Bass Verse and Chorus:*  
   [G-----18-----16-----14-----13----|-----11----11----13----13---|  
@@ -254,7 +254,7 @@ Gtr. Chorus:   ***C#5    B5    A5    G#5***
   */ stands for tremolo picking, wich means to strum the chord as fast*  
   */ and continuosly as you can.*  
   
--  
+----  
   
   ** arranged for guitar by Pattis Stefan, based on the*  
   *bass tab by Aaron Czerniak*  
@@ -330,7 +330,7 @@ Gtr. Chorus:   ***C#5    B5    A5    G#5***
   |--6---------------------------------------------------------------|----  
   |--4---------------------------------------------------------------|----  
   
--  
+----  
   
 Main Riff: [G---|-------------------------------------------------------------------|  
   D---|--------11-----------9-----------7-----------6-----------2---------|  
@@ -350,7 +350,7 @@ Main Riff: [G---|-----------------------------------------------------------
   *The main riff is played over the entire song. Even when the heavy*  
   *guitars come in. At the end start to slow down at the bar line.*  
   
--  
+----  
   
   *Drop D tuning*  
   |-e-|  
@@ -383,7 +383,7 @@ Main Riff: [G---|-----------------------------------------------------------
   |-0//////////-2////////////-0///////////-2//////////////-|  
   |-------------2////////////-0///////////-2//////////////-|  
   
--  
+----  
   
   *Mas vale tarde que nunca*  
   *pongo el bajo transportado a la guitarra*  
@@ -435,7 +435,7 @@ Main Riff: [G---|-----------------------------------------------------------
   -|2-------2-------2-------2---------------------------------------------------|]  
    y asi termina hacen todo lo de el intro solo le cambian esto..............  
   
--  
+----  
   
   [D#|------------------------------------|  
   A#|------------------------------------|  
@@ -505,7 +505,7 @@ Main Riff: [G---|-----------------------------------------------------------
   so gnadenlos ist nur die Nacht, am Ende bleib ich doch allein,  
   die Zeit steht still, und mir is kalt. E  
   
--  
+----  
   
   *The following riff is repeated throughout the entire song. During the=20*  
   *chorus, I believe there is a second bass track of the root notes being played*  
@@ -566,7 +566,7 @@ Main Riff: [G---|-----------------------------------------------------------
   |--6---------------------------------------------------------------|----  
   |--4---------------------------------------------------------------|----  
   
--  
+----  
   
   *Standard Tuning:*  
   [e|  
@@ -660,7 +660,7 @@ Main Riff: [G---|-----------------------------------------------------------
   
   *Part "A" (Outro)*  
   
--  
+----  
   
 Перевод: Моряк  
   
@@ -705,7 +705,7 @@ Main Riff: [G---|-----------------------------------------------------------
   В конце концов, я остался один.  
   Время остановилось, и я остыл.  
   
--  
+----  
   
 Перевод: Войди в мою лодку,  
   Шторм прибывает,  

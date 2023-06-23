@@ -20,7 +20,7 @@ CHORUS:  |---------------------------------------------|
   
   *enjoy hegehogs*  
   
--  
+----  
   
   *Chords:*  
   ****F#***: [24432]*  
@@ -69,7 +69,7 @@ CHORUS:  |---------------------------------------------|
   
   Hope that makes sence!  
   
--  
+----  
   
   *Intro & verse (Guitar 1 and 2)*  
   [e--------------------------------------------------------  
@@ -129,7 +129,7 @@ CHORUS:  |---------------------------------------------|
   
   *play the chorus till the end*  
   
--  
+----  
   
   *Tuning: Standard tuning*  
   *I love this song it is brilliant. I thought it was brilliant when they played*  

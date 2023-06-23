@@ -40,7 +40,7 @@ intro:  ***F# B(VII) G#***
   While people like you just burn!  
   You liar, you liar, you liar, you liar!  
   
--  
+----  
   
 Intro:  4|--3-3-3-3---7-7-7-7---4-4-4-4---4-x-x-4-x-x-4--|  
   5|--3-3-3-3---7-7-7-7---4-4-4-4---4-x-x-4-x-x-4--|  

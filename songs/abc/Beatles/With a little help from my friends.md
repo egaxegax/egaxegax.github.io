@@ -53,7 +53,7 @@ Outro:  Yes, I get by with a little help from my friends
     ***E/C         E/D     E***  
   With a little help from my friends  
   
--  
+----  
   
 Verse 1: ***C              G       Dm***  
   What would you do if I sang out of tune would you  
@@ -90,7 +90,7 @@ Verse 3: Would youbelive in a love at first sight? Yes, I'
   
   *Chorus*  
   
--  
+----  
   
    ***E             B         F#m***  
   What would you do if I sang out of tune  

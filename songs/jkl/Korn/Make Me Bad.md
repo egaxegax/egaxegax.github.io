@@ -74,7 +74,7 @@ Make Me Bad
   D|--16-----------16------------16-------------16--|  
   A|------------------------------------------------|]  
   
--  
+----  
   
 Text:  I am watching your eyes  
   And follow my salvation  

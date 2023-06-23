@@ -77,7 +77,7 @@ Mutter 2001
   
   Links 2 3 4  
   
--  
+----  
   
 Main Riff:                                              (x3)  
   [e-----------------------------------------------  
@@ -144,7 +144,7 @@ Song structure: Intro (footsteps)
   Solo x2              (02:47)  
   Chorus x4            (03:02)    =20  
   
--  
+----  
   
   *standard tuning...*  
   *p... pull off*  
@@ -205,7 +205,7 @@ Song structure: Intro (footsteps)
   *!...this is a complimentive slide, you should play it so fast that u can barely*  
   *here the 8, its 1 note*  
   
--  
+----  
   
   *The song is mostely playd with power chords*  
   
@@ -227,7 +227,7 @@ Song structure: Intro (footsteps)
   A----2---------3--------7-------9--------10  
   E----0---------1--------5-------7--------8]  
   
--  
+----  
   
   E A D G B E  
   
@@ -322,7 +322,7 @@ Song structure: Intro (footsteps)
   *Tempo markers -  = BPM(8/16=s8/s16),*  
   *where s8 = swing 8ths, s16 = swing 16ths*  
   
--  
+----  
   
   *Listen to the song, this is just an indication.*  
   
@@ -456,7 +456,7 @@ Song structure: Intro (footsteps)
   --8-8-8--8-------------||--8-8-8--8------------|----------||  
   --6-6-6--6-------------||--6-6-6--6------------|----------||]  
   
--  
+----  
   
   *Solo*  
   
@@ -495,7 +495,7 @@ Song structure: Intro (footsteps)
   *If you don't think it sounds right, listen to the CD carefully and listen*  
   *to the rhythm and you should get it)*  
   
--  
+----  
   
   *solo (if not right, very close)*  
   
@@ -548,7 +548,7 @@ Song structure: Intro (footsteps)
   *it.  it is a very easy solo that sounds complicated so play it at the nearest guitar store to*  
   *show off.*  
   
--  
+----  
   
   *Standard Tuning (E)*  
   
@@ -649,7 +649,7 @@ Song structure: Intro (footsteps)
   
   *Itґs done. Have fun!!!*  
   
--  
+----  
   
   *Bass is tuned in standard*  
   
@@ -673,7 +673,7 @@ Chorus:  G|-------------------------------|
   A|-------------------------------|  
   E|0(X8)3(x8)5(x15)6---------------|] } x4  
   
--  
+----  
   
   *BASS*  
   
@@ -688,7 +688,7 @@ Chorus:  G|-------------------------------|
   a----------------------------  
   e-0-0-0--0-0-0--0-0-0-6666---]  
   
--  
+----  
   
 Перевод: Слева 234  
   
@@ -725,7 +725,7 @@ Chorus:  G|-------------------------------|
   ему и положено. Здесь подчеркивается, что оно работает, аки часы и его не остановить ничем,  
   даже ломом...  
   
--  
+----  
   
   Kann man Herzen brechen  
   konnen Herzen sprechen  

@@ -329,7 +329,7 @@ Wishmaster (2000), Over The Hills And Far Away (2001), From 
   --------------------------|--------------3----2----|------||  
   --3--3--3--3--3--3--3--3--|--3--3--3--3------------|------||]  
   
--  
+----  
   
   *Guitar 1.*  
   
@@ -641,7 +641,7 @@ Wishmaster (2000), Over The Hills And Far Away (2001), From 
   ------------------|------------------||  
   ------------------|------------------||]  
   
--  
+----  
   
 Text:  In your creation heaven did decree  
   That in your arms sweet death should dwell  
@@ -667,7 +667,7 @@ Text:  In your creation heaven did decree
   могуществом Океана и наконец-то решил посвятить этой  
   теме очередную песню Nightwish  
   
--  
+----  
   
 Перевод: Глубокое Тихое Полное  
   
@@ -694,7 +694,7 @@ Text:  In your creation heaven did decree
   Эпоха скажет: "Эта ночь наша",  
   Глубока Тиха Полна, как смерть велика.  
   
--  
+----  
   
 Перевод: Тебе Создатель повелел карать -  
   Дать мне любовь, а жизнь забрать.  
@@ -717,7 +717,7 @@ Text:  In your creation heaven did decree
   Священна Глубина.  
   Прощеньем жизнь полна!  
   
--  
+----  
   
   *Guitar 2.*  
   

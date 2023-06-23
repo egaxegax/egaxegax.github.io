@@ -29,7 +29,7 @@ Sultans Of Swing
   *the ***C*** shape using fingers 2,3,4.*  
   *Enjoy....*  
   
--  
+----  
   
   *key: ***Dm****  
   *(single snare beat)*  

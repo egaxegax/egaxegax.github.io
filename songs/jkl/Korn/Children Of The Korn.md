@@ -63,7 +63,7 @@ Children Of The Korn
   ||-------------------------------------|  
   ||-------------------------------------|  
   
--  
+----  
   
 Text:  Ice Cube:  
   Attention all parents!  

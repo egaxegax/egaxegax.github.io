@@ -9,7 +9,7 @@ Obscured By Clouds (1972)
   |--0-0-----0-0-----0-0-----0-0-----0-0-------------1-1-----1-----1--  
   |---3-------2-------1-------0-------0---------------2-------2---2---  
   
--  
+----  
   
   *The intro and verses of this song consist mainly of eighth notes played on*  
   *the first four strings over a descending baseline going from (G, F#, F, E, D#, D.)*  
@@ -96,7 +96,7 @@ Obscured By Clouds (1972)
   *Sometimes, the last chords in the chorus go something like this:*  
   ***D7 D7sus4 D7 D9 D7***  
   
--  
+----  
   
 Text:  Heaven sent the promised land  
   Looks all right from where I stand  

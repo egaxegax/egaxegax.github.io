@@ -39,7 +39,7 @@ Chorus:  [E-------------------------
   
   *Listen to the song*  
   
--  
+----  
   
   *Tuning: Dropped-D " D-A-D-G-B-E "*  
   *RIFF 1 - Opening*  

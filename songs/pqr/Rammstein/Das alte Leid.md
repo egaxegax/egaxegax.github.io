@@ -18,7 +18,7 @@ verse:  [E----------------------------------------------
   A-2-2---2-2-2-2---2-2---2-2-2-2----------------  
   D-2-2---2-2-2-2---2-2---2-2-2-2----------------]  
   
--  
+----  
   
 Intro/Chorus: G|-----------------------------------------|  
   D|-----------------------------------------|  
@@ -30,7 +30,7 @@ Verse:  G|--------------|
   A|--------------|  
   E|-0-0--0-0-0-0-|  
   
--  
+----  
   
 Tuning:  Standard.  
   
@@ -110,7 +110,7 @@ Quiet solo part:
   *x  Mute note*  
   *r  Ring out*  
   
--  
+----  
   
   *BASS*  
   
@@ -162,7 +162,7 @@ Quiet solo part:
   *Chorus (x24)*  
   *Rest till end*  
   
--  
+----  
   
   *BASS*  
   
@@ -176,7 +176,7 @@ Verse:  G-------|-----------|
   A-------|-----------|]  
   *[E--0-0--|--0-0-0-0--|] (Image)*  
   
--  
+----  
   
 Text:  Aus der Bohne und in das Licht  
   ein Wesen mich zu gehen drangt  
@@ -200,7 +200,7 @@ Text:  Aus der Bohne und in das Licht
   
   Nie mehr das alte Leid  
   
--  
+----  
   
 Text:  Auf der Bohle und in das Licht  
   ein Wesen mich zu gehen drangt  
@@ -237,7 +237,7 @@ Text:  Auf der Bohle und in das Licht
   
   (Nie mehr) - das alte Leid  
   
--  
+----  
   
 Перевод: Старое горе  
   

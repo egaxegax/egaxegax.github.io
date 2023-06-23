@@ -23,7 +23,7 @@ riff:  [e|---------|
   I'll put the cobwebs back in place.  
   I've never been to good with names, but I remember faces.  
   
--  
+----  
   
   *Weird chords:*  
   ****E/G#***        : [4x245x]*  

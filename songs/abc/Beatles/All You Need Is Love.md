@@ -92,7 +92,7 @@ Chords used: ***A7***   [x02020]
   ***G    [320033]***  
   ***G/D  [xx0033]***  
   
--  
+----  
   
   *Intro*  
   
@@ -120,7 +120,7 @@ Chorus:  ***G***All you ***Am7***need is ***D7***love, ***G***all�
   All you need is love (everybody)  
   All you need is love, love, love is all you need.  
   
--  
+----  
   
 Text:  Love, Love, Love.  
   Love, Love, Love.  

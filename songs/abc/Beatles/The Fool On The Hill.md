@@ -55,7 +55,7 @@ The Fool On The Hill
   A|-----------------|-----------------|-----------------|----------  
   E|-----------------|-----------------|-----------------|----------]  
   
--  
+----  
   
 Text:  Day after day alone on the hill,  
   The man with the foolish grin is keeping perfectly still,  

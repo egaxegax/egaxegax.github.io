@@ -106,14 +106,14 @@ Chorus:  I ain't happy, I'm feeling glad
   It's coming on  
   *4 раза*  
   
--  
+----  
   
   [E)0-55-3-5  
   A)--------------------------------------------------  
   D)--------------------------------------------------  
   G)--------------------------------------------------]  
   
--  
+----  
   
 Гитapa:  [E||------||--------6--6-------6----|-------6--6-------6----|  
   B||------||--------7--7-------7----|-------7--7-------7----|  
@@ -218,7 +218,7 @@ Chorus:  I ain't happy, I'm feeling glad
   It's coming on, it's coming on, it's coming on  
   My future  
   
--  
+----  
   
   *[G---------------] REPEAT ALL THE WAY THOUGH*  
   [D---3-3--3------  
@@ -226,7 +226,7 @@ Chorus:  I ain't happy, I'm feeling glad
   E---------------]  
   
   
--  
+----  
   
 Text:  Clint Eastwood (Ed Case Refix)  
   
@@ -373,7 +373,7 @@ Text:  Clint Eastwood (Ed Case Refix)
   It's coming on  
   It's coming on...  
   
--  
+----  
   
 Text:  Clint Eastwood (Phi Life Cypher Version)  
   
@@ -436,7 +436,7 @@ Text:  Clint Eastwood (Phi Life Cypher Version)
   beat us, beat us, beat us, beat us, beat us, beat us, beat us, beat us,  
   beat us, beat us, beat us, beat us, beat us, beat us, beat us, beat us...  
   
--  
+----  
   
 Перевод:  
 Припев:  Я счастлив, я весь сияю  

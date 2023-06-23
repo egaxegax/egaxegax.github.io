@@ -27,7 +27,7 @@
   So when you push me over  
   Don't bury me I'm not worth anything  
   
--  
+----  
   
 Text:  I'm on the white cliffs of Dover  
   Thinking it over and over  

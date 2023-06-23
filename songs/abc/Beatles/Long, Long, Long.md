@@ -56,7 +56,7 @@ Coda:  oh I  love you
   ***Em    D    A    A***  
   Ooh I love you  
   
--  
+----  
   
   *Text:*  
   

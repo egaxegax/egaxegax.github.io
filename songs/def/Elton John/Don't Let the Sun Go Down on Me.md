@@ -28,7 +28,7 @@
   Don't discard me just because you think I mean you harm  
   But these cuts I have they need love to help them heal  
   
--  
+----  
   
   ***C C/Bb F/A C/G F Dm***  
   ***G              C/G G7                        F/C  C   F/C  C***  

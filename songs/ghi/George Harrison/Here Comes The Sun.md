@@ -33,7 +33,7 @@
   [EADGBe   EADGBe  EADGBe   EADGBe  EADGBe   EADGBe  
   X20030   X20032  X20002   X00030  X02030   X02023]  
   
--  
+----  
   
 Text:  Here comes the sun, here comes the sun,  
   and I say it's all right  

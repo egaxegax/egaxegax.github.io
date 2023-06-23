@@ -186,7 +186,7 @@ Century Child (2002)
   A |--555-555-5-5-555-5-5-555-5-5-555-555-555-  
   E |------------------------------------------]  
   
--  
+----  
   
 Text:  Slaying The Dreamer  
   
@@ -225,7 +225,7 @@ Text:  Slaying The Dreamer
   
   I truly hate you all!  
   
--  
+----  
   
 Перевод: Убивая Мечтателя  
   

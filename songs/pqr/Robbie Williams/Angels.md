@@ -61,7 +61,7 @@ Solo:  |***Bm***|***A***|***E***|***E***| } play 4 times
   
   *Chorus*  
   
--  
+----  
   
   *Slide solo*  
   *Use slide and normal tuning ([eadgbe])*  

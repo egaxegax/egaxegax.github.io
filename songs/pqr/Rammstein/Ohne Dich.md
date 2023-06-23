@@ -50,7 +50,7 @@ bridge:  Und das Atmen fallt mir ach so schwer
   
   *chorus*  
   
--  
+----  
   
   *Simple and great song from the new Rammstein release Reise, Reise.*  
   *Nothing more to say, listen the song and play, sing, whatever; -)*  
@@ -86,7 +86,7 @@ Refrain: ***D***, ***A***, ***G***, ***F***, ***A***
   weh mi oh weh  
   und die Vцgel singen nicht mehr.  
   
--  
+----  
   
   *Drop D tuning*  
   
@@ -168,7 +168,7 @@ Refrain: ***D***, ***A***, ***G***, ***F***, ***A***
   
   *...*  
   
--  
+----  
   
 English: Without You  
   

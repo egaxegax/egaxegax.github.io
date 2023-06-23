@@ -28,7 +28,7 @@ Break:  ***C/G  D  G  Gmaj7  C/G  D  G***
   
   ****Cdim5*** - [x34010]*  
   
--  
+----  
   
   *Weird Chords: ***D2b5***: [xx0130]  ***Amaj7***: [x02120]*  
   
@@ -82,7 +82,7 @@ Break:  ***E  A  Amaj7  D2  E  A***
     ***Bm                 F#m     D***  
   Is nothing okay with you?  
   
--  
+----  
   
   *Here's pretty well all the chords for The Great Big No from Come On Feel*  
   *the Lemonheads. NB the chords shown are for my convenience and need to be*  
@@ -133,7 +133,7 @@ Chords:  ***C***     - [x32010]
   ***Am    - [x02210]***  
   ***Em    - [022000]***  
   
--  
+----  
   
   *Weird Chords: ***D2b5***: [xx0130]  ***Amaj7***: [x02120]*  
   

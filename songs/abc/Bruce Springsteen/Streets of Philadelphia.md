@@ -32,7 +32,7 @@ Streets of Philadelphia
   Or will we leave each other alone like this  
   On the streets of Philadelphia  
   
--  
+----  
   
 Перевод: Улицы Филадельфии  
   

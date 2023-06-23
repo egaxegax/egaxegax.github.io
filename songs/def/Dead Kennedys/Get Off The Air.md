@@ -38,7 +38,7 @@ Intro:  ***F#    B  C#*** (2x bass only)
   ***F#***  
   This is the future of rock and roll  
   
--  
+----  
   
 Intro:  ***F#    B  C#*** (2x bass only)  
   

@@ -80,7 +80,7 @@ BREAK:  No more running to the shelter
 OUTRO:  RIFF -- 2x's  THEN    ***G  C  G G***  
                                   HEY!  
   
--  
+----  
   
 Text:  What a drag it is getting old  
   
@@ -124,7 +124,7 @@ Text:  What a drag it is getting old
   No more running for the shelter of a mother's little helper  
   They just helped you on your way, through your busy dying day  
   
--  
+----  
   
 Перевод: Маленький Помощник Мамы  
   

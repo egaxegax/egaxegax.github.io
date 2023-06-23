@@ -46,7 +46,7 @@
   *Концовка - соответсвенно ***E***, пока в тебя слушатели*  
   *не начнут кидацца пустыми бутылками)))*  
   
--  
+----  
   
 Текст:  Voices callin me to skies where i belong  
   Tryin to follow my steps in the depth of sleepin clouds  

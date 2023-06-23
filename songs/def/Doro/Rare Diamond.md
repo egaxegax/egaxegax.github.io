@@ -34,7 +34,7 @@ Rare Diamond
   Tryin' to find those deep feelings  
   So I can share 'em with you! Ohohoh  
   
--  
+----  
   
 Перевод: Редкий брильянт  
   

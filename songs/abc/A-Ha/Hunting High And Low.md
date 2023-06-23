@@ -67,7 +67,7 @@
       ***F    G                  Am           G***  
   Oh, for you I'll be hunting high and low  
   
--  
+----  
   
   ***d..    |~-d-|~***  
   ***A-     A-9     A-         F***  

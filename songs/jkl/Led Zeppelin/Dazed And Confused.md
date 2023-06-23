@@ -13,7 +13,7 @@ DAZED AND CONFUSED
   e---------------------------------------]  
   *you can substitue 7's and 9's if you move it down one string (from A to E)*  
   
--  
+----  
   
 Text:  Been dazed and confused for so long it's not true.  
   I wanted a woman, never bargained for you.  

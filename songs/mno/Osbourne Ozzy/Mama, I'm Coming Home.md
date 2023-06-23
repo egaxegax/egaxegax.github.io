@@ -63,7 +63,7 @@ Mama, I'm Coming Home
     ***A     B               C      D     E***  
   'cos mama, mama I'm comin' hoooooooooooooome  
   
--  
+----  
   
   
   *This song really shows how good Zakk Wylde is at playing without having to*  
@@ -219,7 +219,7 @@ Mama, I'm Coming Home
   
   *Learn to play and enjoy!*  
   
--  
+----  
   
 Text:  Times have changed and times are strange  
   Here I come, but I ain't the same  

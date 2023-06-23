@@ -118,7 +118,7 @@ Lyrics:  She lays in bed at night and that is when I m
   Oh, oh, oh, can't you see me?  
   Ah, ah, ah, can't you see me?  
   
--  
+----  
   
     *Gtr.1*  
   [e|-------------------------------|--------------------------------|  

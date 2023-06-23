@@ -23,7 +23,7 @@ My Favourite Game
   *That's it! The rest is played on organ,*  
   *and the bass follows the rhythm guitar*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -71,7 +71,7 @@ then:  [G--------------------- } 3x
   A----------------11-1-  
   E-11-0-11-1-44-1------]  
   
--  
+----  
   
 Text:  I don't know what you're looking for  
   You haven't found it baby, that's for sure  
@@ -111,7 +111,7 @@ Chorus:  And I'm losing my favorite game
   I'm losing my baby  
   You're losing a savior and a saint  
   
--  
+----  
   
 Перевод: Моя любимая игра  
   

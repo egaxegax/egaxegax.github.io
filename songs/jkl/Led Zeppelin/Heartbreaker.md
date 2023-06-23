@@ -102,7 +102,7 @@ Heartbreaker
   *now, play the 'chord' riff 6 times, and start playing the 1st intro riff.*  
   *Play through it once, and start it again, but leave out the last 9 notes.*  
   
--  
+----  
   
   *TAB Symbols*  
   *===========*  
@@ -249,7 +249,7 @@ Heartbreaker
   A:|-0-------3------------0-0-0-0-3-------------0--------3--------|  
   E:|-------------------3b-------------------3b-|]  
   
--  
+----  
   
   *Since it seems everybody gives up after the first little lick ;)*  
   *and I believe I've figured out what Pagey does right after that..*  
@@ -302,7 +302,7 @@ Heartbreaker
   *the Marshall.. *shrug*)*  
   *does anybody out there even care? heh :)*  
   *well I hope some1 finds some use for this tab..*  
--  
+----  
   
 Text:  Hey fellas, have you heard the news? You know that Annie's back in town?  
   It won't take long just watch and see how the fellas lay their money down.  

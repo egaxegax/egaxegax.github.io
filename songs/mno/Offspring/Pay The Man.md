@@ -157,7 +157,7 @@ Americana (1998)
   *to tab a song and I think I did pretty damn good. Just listen carefully*  
   *to the lead. I have it pretty close. Just improvise! Good luck.*  
   
--  
+----  
   
   *Гитapa 1*  
     *INTRO*  
@@ -1404,7 +1404,7 @@ Americana (1998)
   ------------------||  
   ------------------||]  
   
--  
+----  
   
 Text:  See the way the wind blows  
   Lives are intertwined  

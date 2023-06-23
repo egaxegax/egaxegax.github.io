@@ -77,7 +77,7 @@
   *Over!*  
   *I didn't write out the rythem, Just the cords.*  
   
--  
+----  
   
   *This song is basically power chords, like most of Green Day's songs*  
   *the chording goes (powerchords)*  

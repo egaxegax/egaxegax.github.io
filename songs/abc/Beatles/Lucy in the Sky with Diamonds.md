@@ -47,7 +47,7 @@ MAIN RIFF: [E -----0---0-------0---------------0---0-------0-------------
   A -----------------------------------------------------------  
   E -----------------------------------------------------------]  
   
--  
+----  
   
   *Main riff goes like this:*  
       ***A           A-7        D           D/F***  
@@ -122,7 +122,7 @@ CHORUS:  Lucy in the Sky with Diamonds.  Lucy in the Sky
   
   *Good luck!*  
   
--  
+----  
   
   Picture yourself in a boat on a river,  
   With tangerine trees and marmalade skies  

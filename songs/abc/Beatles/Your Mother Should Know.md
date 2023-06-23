@@ -18,7 +18,7 @@ Your Mother Should Know
   
   *(Same chords for rest of song!)*  
   
--  
+----  
   
 Text:  Let's all get up and dance to a song  
   That was a hit before your mother was born.  

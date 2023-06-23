@@ -24,7 +24,7 @@ Song:  ***Fm***Before the ***Bbm***dawn, ***D#***I hear you ***C
   ***Fm***Before the ***Bbm***dawn, ***D#***I hear you ***C7***whis***C***per  
   ***Fm***In your ***Bbm***sleep "Don't ***C7***let the morning ***Fm***take him"  
   
--  
+----  
   
 Перевод: Скоро рассвет  
   

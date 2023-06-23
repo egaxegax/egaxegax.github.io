@@ -86,7 +86,7 @@ Riff F:  d|--------------------------|-----------7-------------|
   
   *Chorus*  
   
--  
+----  
   
   *(5:15)*  
 Text:  Past the forest of the flies of fire  

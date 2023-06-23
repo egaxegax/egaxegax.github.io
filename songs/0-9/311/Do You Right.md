@@ -74,7 +74,7 @@ Do You Right
 *Play Fill 1*  
 *Play Riff 1 (x4)*  
   
--  
+----  
   
     *Riff1    Fill*  
 *1*  

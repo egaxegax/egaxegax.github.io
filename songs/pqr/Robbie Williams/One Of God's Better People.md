@@ -72,7 +72,7 @@
   And you don't know  
   That's why you're special  
   
--  
+----  
   
   *Absolutely fantastic song! Difficult to tab though.*  
   *I hope I got it right...*  

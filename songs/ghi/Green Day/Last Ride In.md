@@ -79,7 +79,7 @@ Nimrod (1997)
   *go on. I know that the guitar part is correct (at least the main riff is) as*  
   *is the main riff of the bass.. but the "chorus" part I'm sure needs work...*  
   
--  
+----  
   
   *TAB Notation:*  
   *Throughout this guide, you may find various symbols coinsiding with the*  

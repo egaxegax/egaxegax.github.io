@@ -13,7 +13,7 @@ Bring Me To Life
   -------------3--------3----------------------------------------3--------------0-  
   1-3----0-1-6-5-3-5-1---5-3-5-6-5-3-5-1--3--0--------------]  
   
--  
+----  
   
   *Этo вcтyплeниe для дeмoвepcии и вepcии - кoтopыe игpaютcя нa кoнцepтax*  
   *intro (distored guitar)*  
@@ -130,7 +130,7 @@ Bring Me To Life
   I-ve been living a lie, there-s nothing inside  
   (Bring me to life)  
   
--  
+----  
   
   *Tuning*  
   *Drop-D tuning.*  
@@ -281,7 +281,7 @@ Bring Me To Life
   Bring me to life.  
   *(back to chorus)*  
   
--  
+----  
   
 Text:  how can you see into my eyes  
   like open doors.  
@@ -343,7 +343,7 @@ Text:  how can you see into my eyes
   there's nothing inside.  
   bring me to life  
   
--  
+----  
   
 Перевод: Верни меня к жизни  
   

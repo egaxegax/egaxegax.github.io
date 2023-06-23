@@ -116,7 +116,7 @@ Verse 3: Now my life has turned another corner
   A---0-----------------0----------------------------------------------  
   E--------------------------------------------------------------------]  
   
--  
+----  
   
 Text:  when i was young i thought i had my own key  
   i knew exactly what i wanted to be  

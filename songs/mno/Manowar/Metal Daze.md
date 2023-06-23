@@ -30,7 +30,7 @@
   
   *I'm too lazy to even start to think about the solo....*  
   
--  
+----  
   
   *(Solo)*  
   */ & \=slide*  

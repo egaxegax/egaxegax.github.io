@@ -24,7 +24,7 @@ Right Here In My Arms
   ***C            G         Am***  
   But I won't leave her alone.  
   
--  
+----  
   
   *Intro: ***A5 C5 G5 E5****  
   *Verse: ***A5 C5 G5 A5*** (repeat, of course!)*  

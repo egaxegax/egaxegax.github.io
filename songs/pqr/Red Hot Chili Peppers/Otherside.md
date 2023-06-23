@@ -48,7 +48,7 @@ Otherside
   Slit my throat  
   It's all I ever  
   
--  
+----  
   
   [E|----------------------------------------|  
   B|----------------------------------------|  
@@ -57,7 +57,7 @@ Otherside
   A|----7-7-7----------------3-3-3----5-5-5-|  
   E|----5-5-5-------------------------3-3-3-|]  
   
--  
+----  
   
   *The whole song is just a repeating of this riff.*  
   *Key:*  
@@ -69,7 +69,7 @@ Otherside
   A:|--7-7-7--------------7(7)(7)--5-5-5--|  
   E:|-------------------------------------|]  
   
--  
+----  
   
   *Intro*  
      ***Am          F             C             G***  
@@ -169,7 +169,7 @@ Otherside
   Slit my throat  
   It's all I ever  
   
--  
+----  
   
   ***Am            F            C***        )  
   How long how long will I slide      )  

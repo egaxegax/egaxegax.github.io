@@ -43,7 +43,7 @@
     ***C           G***  
   it's very, very, very cheap  
   
--  
+----  
   
 Text:  THE PAY-ME GIRL HAS HAD ENOUGH OF THE BLEEPS  
   SO SHE TAKES A BUS INTO THE COUNTRY  

@@ -46,7 +46,7 @@ outro:  repeat chorus to end
   your daddy's gone away be back another day see his picture hanging on  
   your wall  
   
--  
+----  
   
   *1  a  2  a  3  a  4  a        2x*  
   G|------------------------|------------------------|------------------------|  
@@ -113,7 +113,7 @@ outro:  repeat chorus to end
   E|--------------------|-|  
     *last note two measures*  
   
--  
+----  
   
 Text:  I've seen you in the mirror when  
   the story began  
@@ -167,7 +167,7 @@ Chorus:  I got no feelings
   See his picture hanging on  
   your wall  
   
--  
+----  
   
 Перевод: Нет чувств  
   

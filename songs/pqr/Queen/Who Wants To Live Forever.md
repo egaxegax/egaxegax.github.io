@@ -162,7 +162,7 @@ A Kind Of Magic 1986
   
   *The end!*  
   
--  
+----  
   
   ***Aadd9    [x02200]***  
   ***Em7/D    [xx0000]***  
@@ -200,7 +200,7 @@ A Kind Of Magic 1986
   ***Em7/D***Fo***Em6/C#***rever***A7*** is ***D11***our today.  ***B/D***  
   Who ***Em***waits forever anyway?  
   
--  
+----  
   
 Text:  There's no time for us,  
   There's no place for us,  

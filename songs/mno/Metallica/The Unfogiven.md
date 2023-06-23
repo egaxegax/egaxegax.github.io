@@ -271,7 +271,7 @@ The Unfogiven
   Never free never me  
   So I dub thee unforgiven  
   
--  
+----  
   
   *The Unforgiven (tab) (two versions) &gt;Subject: The Unforgiven (Part I), Metallica Unforgiven -Metallica*  
   *++++++++++ There are actually 4 different guitars played in this song, so it's quite*  
@@ -995,7 +995,7 @@ The Unfogiven
   The old man then prepares to die regretfully  
   That old man here is me. (To Chorus)  
   
--  
+----  
   
 Solo/intro: 1|--------------------------------------------------------------------------  
   2|--------------------------------------------------------------------------  
@@ -1032,7 +1032,7 @@ solo:  1|-----------------------------0-0-0-0-0-0---------------------------
   5|--0-----------------------------------------------------------------------  
   6|--------------------------------------------------------------------------  
   
--  
+----  
   
   ***Am C G E***  
   
@@ -1116,7 +1116,7 @@ solo:  1|-----------------------------0-0-0-0-0-0---------------------------
   'cause you're unforgiven too  
   Oh  
   
--  
+----  
   
   *Open file in Courier font*  
   *entire song with distortion*  
@@ -1156,7 +1156,7 @@ solo:  1|-----------------------------0-0-0-0-0-0---------------------------
   This fight he cannot win. A tired man they see no longer cares, The old man  
   then prepares to die regretfully. That old man here is me.  
   
--  
+----  
   
   1|-------------------------------------------------------------------  
   2|---------------------------------------5---5-5-2-------------------  
@@ -1165,7 +1165,7 @@ solo:  1|-----------------------------0-0-0-0-0-0---------------------------
   5|-------------------------------------------------------------------  
   6|-------------------------------------------------------------------  
   
--  
+----  
   
   *BASS*  
   *INTRO*  

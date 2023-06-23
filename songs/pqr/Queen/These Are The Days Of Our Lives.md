@@ -35,7 +35,7 @@ Chorus:  Those were the days of our lives
   Sometimes it seems like lately, I just dont know  
   Better sit back and go with the flow  
   
--  
+----  
   
 Text:  Sometimes I get to feelin'  
   I was back in the old days - long ago  

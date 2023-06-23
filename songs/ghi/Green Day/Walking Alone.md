@@ -44,7 +44,7 @@ VERSE 2: Walk on eggshells on my old stomping ground
   Isn't that another familiar face  
   ***G                               D***  
   
--  
+----  
   
   *TAB Notation:*  
   *Throughout this guide, you may find various symbols coinsiding with the*  

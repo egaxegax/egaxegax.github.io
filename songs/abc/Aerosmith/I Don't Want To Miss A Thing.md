@@ -66,7 +66,7 @@ I Don't Want To Miss A Thing
   
   *Припев*  
   
--  
+----  
   
     ***D          A                   Bm***  
   I could stay awake just to hear you breathing  
@@ -135,7 +135,7 @@ Chorus:  I don't want to close my eyes
   
   *Chorus: Repeat x2 and fade*  
   
--  
+----  
   
 Перевод: Не Хочу Терять  
   

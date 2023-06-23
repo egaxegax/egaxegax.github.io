@@ -23,7 +23,7 @@ Middle:  ***Dmi***Oh, how ***G7***long will it take, ***Bb***til
   
   *repeat verse 1 & Chorus, ending ***Bb F*** instead of ***C7***.*  
   
--  
+----  
   
   Oh dear, what can I do?  
   Baby's in black and I'm feeling blue,  

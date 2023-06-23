@@ -56,7 +56,7 @@ Ending:                    You're drea
   ***F/B      F     F/B           G    E    Gsus4   G    G2***  
   ***Am9***  
   
--  
+----  
   
 Text:  You always said you were the compassionate one  
   But now you're laughing at the sun  

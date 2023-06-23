@@ -15,7 +15,7 @@ Pretty Little Ditty
   A------------------------------------------------------------------------------------  
   E------------------------------------------------------------------------------------]  
   
--  
+----  
   
   *here is the tab for pretty lil' ditty off of mothers milk. there is a*  
   *great live version on pscychadelic sex funk live from heaven. this is*  

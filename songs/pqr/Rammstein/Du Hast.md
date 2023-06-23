@@ -104,7 +104,7 @@ Key:  p= pull off to fret indicated
   /= slide  
   pm......= Palm Mute  
   
--  
+----  
   
   *Проигрыш,*  
   *Припев играются одинаково:*  
@@ -167,7 +167,7 @@ Key:  p= pull off to fret indicated
   
   nein  
   
--  
+----  
   
   ***Em***  
   Du  
@@ -221,7 +221,7 @@ Key:  p= pull off to fret indicated
   Willst du bis der Tod euch scheidet treu ihr sein...  
   nein! nein!  
   
--  
+----  
   
   *standerd tuning*  
   
@@ -285,7 +285,7 @@ Chorus:  [e-----------------------------------------------------|
   E^?10\7--7-7--7-7-7-7-7--------------------------------|  
   PM      . .  . . . . .]  
   
--  
+----  
   
   *here's my tabulature for du hast by rammstein so enjoy!*  
   
@@ -308,7 +308,7 @@ Chorus:  [e-----------------------------------------------------|
   B 57 7 77 777  
   E 35 5 55 555]  
   
--  
+----  
   
   *Standard Tuning*  
   |-e-|  
@@ -352,7 +352,7 @@ Chorus:  [e-----------------------------------------------------|
   ||-5/8---8---8---8--8--8---8--97--7--7--7-7-7--7-7-7-||  
     *pm..................      pm................*  
   
--  
+----  
   
   *I really love this song so I figured it out! Took me a while but this seems to be the*  
   *right way to play it! It sounds extremly accurate! On the Piano Part you might want to*  
@@ -426,7 +426,7 @@ Chorus:  [e-----------------------------------------------------|
   
   *Well there you have it Rammstein Du Hast! Rate this please! Thanks everyone*  
   
--  
+----  
   
   *Dies ist das richtige Lied*  
   
@@ -472,7 +472,7 @@ Chorus:  [e-----------------------------------------------------|
   
   *Sie kцnnen diese Version spielen wenn Sie donґt benutzen gern Macht-Saiten*  
   
--  
+----  
   
   *this is Rammsteins best song, the one and only.*  
   *I used five minutes to figure out this tab.*  
@@ -536,7 +536,7 @@ Chorus:  [e-----------------------------------------------------|
   
   *figure out the way the pieces are set up in the song for yourselfs...*  
   
--  
+----  
   
   *S1: Very good song and easy to play. I played this song at a concert at*  
   *my school*  
@@ -590,7 +590,7 @@ Chorus:  [e-----------------------------------------------------|
   *keyboard, drum drums, bass and other shit.*  
   *Enjoy*  
   
--  
+----  
   
   *Rammstien (CORRECT! ) Du Haust Mich BY: CHRIS MORGAN*  
   *Tuning: E B G D A E          ~*  
@@ -890,7 +890,7 @@ CHORUS 3: |-E-|-------------------------------------------------------------
   Never  
   That’s it folks.  Pm or quiet down when he sings a little  
   
--  
+----  
   
   *BASS*  
   
@@ -913,7 +913,7 @@ Chorus:  G|----------------------|x4|----------------------|x2|
   
   E|-5--3--0-0-0-0-0-0-0|x2|]  
   
--  
+----  
   
   *BASS*  
   
@@ -936,7 +936,7 @@ Chorus:  G|----------------------|x4|----------------------|x2|
   
   *return to the first part of the song after this.*  
   
--  
+----  
   
 Перевод: Ты ненавидишь  
   
@@ -973,7 +973,7 @@ Chorus:  G|----------------------|x4|----------------------|x2|
   (Санту-Барбару, надеюсь, все смотрели... так вот там часто эти слова звучали). Это "горе"  
   по-немецки дословно звучит не иначе как "плохие дни". Продолжать?..  
   
--  
+----  
   
 Перевод: Ты спросила  
   

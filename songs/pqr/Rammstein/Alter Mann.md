@@ -55,7 +55,7 @@ Sehnsucht (Japan) 1997, Das Modell 1997
   *Play Main riff } 1 time*  
   *Play Chorus riff } 2 times (the first time it gets interrupted at about 3/4).*  
   
--  
+----  
   
   *Drop D tuning*  
   |-e-|  
@@ -96,7 +96,7 @@ Fill:  ||----------------||
   ||-0------------2-||  
   ||-0----7-8-7-5-2-||  
   
--  
+----  
   
   [e|------------------------------------------------||  
   B|------------------------------------------------||  
@@ -113,7 +113,7 @@ Fill:  ||----------------||
   *And that is it for that song Blah blah blah monte clumlate.*  
   *Peace.*  
   
--  
+----  
   
   *BASS*  
   
@@ -172,7 +172,7 @@ Fill:  ||----------------||
   *Outro*  
   *Rest till end*  
   
--  
+----  
   
 Text:  Er wartet auf den Mittagswind  
   Die Welle kommt und legt sich matt  
@@ -214,7 +214,7 @@ Text:  Er wartet auf den Mittagswind
   Wieviel Marchen dir noch bleibt  
   und um Erlosung wirst du flehen  
   
--  
+----  
   
 Перевод: Старик  
   

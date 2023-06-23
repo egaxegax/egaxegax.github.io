@@ -45,7 +45,7 @@ The Hurting (1983)
   No don't pretend you can justify the end,  
   Memories fade but the scars still linger  
   
--  
+----  
   
 Text:  There's only need  
   I love your need  

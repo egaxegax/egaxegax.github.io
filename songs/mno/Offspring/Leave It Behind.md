@@ -42,7 +42,7 @@ Ixnay On The Hombre (1997)
   *Play INTRO or INTRO2, VERSE, CHORUS, CHORUS2, INTRO or INTRO2, CHORUS2 and*  
   *finally INTRO or INTRO2.*  
   
--  
+----  
   
 Text:  Rage burns can't push it aside now  
   Can't forgive this grudge is alive now  

@@ -51,7 +51,7 @@ Bridge:  come ease the pain that's in my heart
   
   *end on ***G#****  
   
--  
+----  
   
   ***G#***  
   ***G#  C  C#  G#***  

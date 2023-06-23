@@ -489,7 +489,7 @@ Flash of the Blade
   *END    Long ain't it?*  
   *I'm not crazy ... that's just what the voices in my head tell me!!!*  
   
--  
+----  
   
 Lyrics:  As a young boy chasing dragons with your wooden sword so mighty,  
   You're St. George or you're David and you always killed the beast.  

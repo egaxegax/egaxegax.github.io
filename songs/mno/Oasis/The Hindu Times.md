@@ -143,7 +143,7 @@ Heathen Chemistry (2002)
   A--------------------------------------------------------------------  
   E--------------------------------------------------------------------]  
   
--  
+----  
   
   *Per questa canzone Noel usa la chitarra con un capo al secondo capotasto.*  
   *-CHORDS- relativi al capo*  
@@ -239,7 +239,7 @@ Heathen Chemistry (2002)
   *OUTRO*  
   ***A   (Riff 1) A (Riff 2) A(Riff 3) G(Riff 4)***  
   
--  
+----  
   
 Text:  I get up when I'm down  
   I can't swim but my soul won't drown  

@@ -115,7 +115,7 @@ Gently
   --1-----------3-----------|----|----|----|----|----|----|----|----|----|----|  
   --------------------------|----|----|----|----|----|----|----|----|----|----|]  
   
--  
+----  
   
 Text:  Gently my mind escapes into the relaxing mode of pleasure  
   A pleasure that will take my mind off the reality of life  
@@ -138,7 +138,7 @@ Text:  Gently my mind escapes into the relaxing mode of pl
   
   Shift  
   
--  
+----  
   
 Text:  Gently, my mind escapes into the relaxing  
   world of pleasure, a pleasure that'll take  

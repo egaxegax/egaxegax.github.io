@@ -55,7 +55,7 @@ When I'm Gone
 When I'm Gone  
 When I'm Gone  
   
--  
+----  
   
 Перевод: Когда Я Уйду  
   

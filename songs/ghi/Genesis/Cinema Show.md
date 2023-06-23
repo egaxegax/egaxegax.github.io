@@ -99,7 +99,7 @@ Cinema Show
   1. Can she be late for her cinema show?  
   2. Can he fail armed with his               chocolate surprise?  
   
--  
+----  
   
   ***Gmaj7                               C***  
   chocolate surprise  

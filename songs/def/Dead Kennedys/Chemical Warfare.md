@@ -141,7 +141,7 @@ riff 10: e-|-------------------------------------------|
   I hope I put the riffs in the proper places.. but if i didn't oh  
   well... its not hard to figure out where to put them...  
   
--  
+----  
   
 Перевод: Химическое оружие  
   *(Слова - Биафра)*  

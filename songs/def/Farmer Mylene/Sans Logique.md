@@ -52,7 +52,7 @@ Sans Logique
   *Пpoигpыш: (нa мoтив Пpипeвa)*  
   *Пpипeв*  
   
--  
+----  
   
 Вcтyплeниe: ***Hm  F#  Em  F#***  
   ***Hm  F#  Em  F#***  

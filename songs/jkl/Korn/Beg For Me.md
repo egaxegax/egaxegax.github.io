@@ -36,7 +36,7 @@ Outro:  D---------15---------18-
   D-----------------------  
   A-----------------------]  
   
--  
+----  
   
   *If you have a 7 string play it in the same place but on the 7th*  
   *string or play on the same note but lower. I labeled each riff*  
@@ -81,7 +81,7 @@ Outro:  D---------15---------18-
   A||----2----------2---------2--------2----------  
   E||----0----------0---------0--------0----------]  
   
--  
+----  
   
   *Tuned Down One Half Whole Step ([DGCFAd])*  
   *(Intro Pt 1 and Verse)*  

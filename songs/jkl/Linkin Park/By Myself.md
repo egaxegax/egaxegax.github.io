@@ -29,7 +29,7 @@ By Myself
   C#|--3--3----3-3----0---0-----|]  
      *PM.......................*  
   
--  
+----  
   
   *Tuning: C, G, C, F, A, D*  
   ** = Harmonic*  
@@ -58,7 +58,7 @@ By Myself
   C -----------3-3--3--3-------------3-3--3--3--------------------]  
   *pm........... pm............*  
   
--  
+----  
   
 Text:  What do I do to ignore them behind me?  
   Do I follow my instincts blindly?  

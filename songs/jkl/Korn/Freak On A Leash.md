@@ -246,7 +246,7 @@ Freak On A Leash
   Part of me...  
   Oh...  
   
--  
+----  
   
   *Seven-string guitar, tune it down one step.*  
   *Intro, verse:*  
@@ -304,7 +304,7 @@ Freak On A Leash
   A-2-2-----2-2-2-2---4-4---5---3-------------------------  
   E-2-2-----2-2-2-2---2-2---3---1-------------------------]  
   
--  
+----  
   
   *Tuning: Whole Step Down ([DGCFAD])*  
   
@@ -362,7 +362,7 @@ Freak On A Leash
   *Fig4*  
   *Fig4*  
   
--  
+----  
   
   *Tuning: Whole Step Down ([DGCFAD])*  
   
@@ -409,7 +409,7 @@ Freak On A Leash
   |-11---12---13---14--------||-11---12---11---10--------|  
   |-9----10----11---12-------||-9----10----9-------------|  
   
--  
+----  
   
   *Tuning: 2.5 steps down*  
   *Fig1 (verse riff)*  
@@ -460,7 +460,7 @@ Freak On A Leash
   *Fig4*  
   *Fig4*  
   
--  
+----  
   
 Text:  Something takes a part of me.  
   Something lost and never seen.  

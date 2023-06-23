@@ -10,7 +10,7 @@
   ***D E***  
   ***a c# a g d g***  
   
--  
+----  
   
   ***A5  G5***  
   *chorus:*  
@@ -18,7 +18,7 @@
   ***D5   E5***  
   ***A5   G5***  
   
--  
+----  
   
 Lyrics:  All brawn and no brains  
   And all those nice things  

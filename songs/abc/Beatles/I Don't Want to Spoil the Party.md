@@ -39,7 +39,7 @@ CHORUS:            ***C***
   I wonder what went wrong I've waited far too long  
   I think I'll take a walk and look for her  
   
--  
+----  
   
 intro/outro:  ***G    G7    G6  D7sus4  Dm7  Dm7sus2  D   Dsus2   D7   G***  
   [-3-   -1-   -0-   -3-   -1-   -0-    -2-   -0-   -2-  -3-  

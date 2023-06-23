@@ -81,7 +81,7 @@ intro:  ***F# A B*** } x3
   *(repeat chorus twice)*  
   *(impro on the solo)*  
   
--  
+----  
   
 Text:  I need to be myself  
   I can't be no one else  

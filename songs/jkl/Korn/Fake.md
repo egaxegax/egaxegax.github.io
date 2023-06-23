@@ -72,7 +72,7 @@
   *transcribed all the lyrics for the album. I don't want to advertise his*  
   *email address without his consent, so email me if you want the whole lyrics.*  
   
--  
+----  
   
 Text:  I can't stand the sight of you  
   I can't stand what you put me through  

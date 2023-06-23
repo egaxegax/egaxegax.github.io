@@ -53,7 +53,7 @@ Bridge/Outro: E|---------------------------------------|
   
   *THATS IT!!! Its a pretty easy song, but as said before this is my first tab...*  
   
--  
+----  
   
   *I've seen a couple ways of playing this song, but this is how i think it is*  
   *played.*  
@@ -125,7 +125,7 @@ CHORUS:  Here comes a low (I'm a boy and you're a girl)
   Here it comes  
   You, me, we'll work it out  
   
--  
+----  
   
 Text:  It's automatic  
   I need to unload  

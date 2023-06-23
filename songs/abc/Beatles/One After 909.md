@@ -50,7 +50,7 @@ Verse:  Said she's traveling on the one after nine oh nine
    ***B                        F#7                B***  
   Said I'm traveling on the one after nine oh nine.  
   
--  
+----  
   
   *Text:*  
   

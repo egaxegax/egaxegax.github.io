@@ -41,7 +41,7 @@ Made In Heaven 1995
   A------------------(0)--------------------------------------------  
   E-----------------------------------------------------------------]  
   
--  
+----  
   
 Text:  I'm just the pieces of the man I used to be  
   Too many bitter tears are raining down on me  

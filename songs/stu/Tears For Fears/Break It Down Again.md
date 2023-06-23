@@ -101,7 +101,7 @@ Coda:  Horsing around
   ***C7                               F             C***  
   No more sleepy dreaming  
   
--  
+----  
   
 Text:  Break it down again  
   So those are my dreams  

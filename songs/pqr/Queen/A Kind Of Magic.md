@@ -29,7 +29,7 @@ A Kind Of Magic 1986
   *The rest: is with the same chords.*  
   *bye. One kiss for Florencia who's I love with all my heart and soul.....*  
   
--  
+----  
   
 Text:  It's a kind of magic,  
   It's a kind of magic,  

@@ -8,7 +8,7 @@ Herzeleid 1995, Live Aus Berlin (Limited Editition) 1999
   A|--------------|-----------------|  
   E|-0-00-0-3-5-0-|-05-0-00-0-3-5-0-|  
   
--  
+----  
   
   *BASS*  
   
@@ -24,7 +24,7 @@ Herzeleid 1995, Live Aus Berlin (Limited Editition) 1999
   ------------------  
   -0-2222-3333-2----]  
   
--  
+----  
   
   *BASS*  
   
@@ -58,7 +58,7 @@ Herzeleid 1995, Live Aus Berlin (Limited Editition) 1999
   *then go back to chorus well that si ti hope u like my tab and go see rammstein*  
   *live if u havent because they kick ass.*  
   
--  
+----  
   
 Text:  Bewahret einander vor Herzeleid  
   denn kurz ist die Zeit die ihr beisammen seid  
@@ -69,7 +69,7 @@ Text:  Bewahret einander vor Herzeleid
   
   Bewahret einander vor der Zweisamkeit  
   
--  
+----  
   
 Перевод: Тоска  
   

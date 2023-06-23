@@ -70,7 +70,7 @@ Good Grief
   
   *Enjoy!*  
   
--  
+----  
   
   *Hello, everyone. I have enjoyed many of the transcriptions out there. They*  
   *are very helpful. I used previous versions of this posting to form my own*  
@@ -143,7 +143,7 @@ Good Grief
   *way, and it's easy enough for me to play while singing. You can try without*  
   *the "Dropped-D" but the bridge is a lot harder. Have fun.*  
   
--  
+----  
   
   *The tab of this song is in normal tuning it was tabbed by Gabriel Jessee*  
   *the song was written by Dave Ghrol and this is correct.*  

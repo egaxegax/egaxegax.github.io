@@ -64,7 +64,7 @@ The Offspring (1989)
   
   *That's it! Have fun!*  
   
--  
+----  
   
 Text:  When we younger  
   There always seemed like  

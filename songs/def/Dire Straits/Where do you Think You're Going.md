@@ -31,7 +31,7 @@
   Where do you think you're going  
   I think you'd better go with me, girl  
   
--  
+----  
   
   *ACOUSTIC GUITAR INTRO:*  
   [E------0-0--0--0--0-0-0-0---0-|----1-1-1--1--1--1----1-1-1-|  

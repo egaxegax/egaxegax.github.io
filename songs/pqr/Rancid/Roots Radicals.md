@@ -113,7 +113,7 @@ VERSE 3: Took the 60 bus out of downtown Campbell,
   *Well, that's what I got. The solo isn't quite right, so if ya got something*  
   *better, send it over. Thanks, enjoy.*  
   
--  
+----  
   
   *I don't have time (or know) the lyrics of*  
   *this song for posting, but the guitar part won't*  
@@ -150,7 +150,7 @@ Chorus:  Give 'em the boot, the roots, the radicals...
   
   *Outro is the same as the chorus.*  
   
--  
+----  
   
   *When I first tabbed this, I did it from an early version of it that was*  
   *released as an addition to Let's Go. The version that is on "Wolves" is*  

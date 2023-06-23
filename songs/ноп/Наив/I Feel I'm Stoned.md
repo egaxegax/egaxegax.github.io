@@ -33,7 +33,7 @@ Dehumanized States of America (1994)
   
   *Повтор 1-го куплета*  
   
--  
+----  
   
    ***E             D  E      D***  
   Don't talk to me, I can hear!  

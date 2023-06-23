@@ -46,7 +46,7 @@ intro:  ***Em G A Em G A# A Em G A G Em***
   I know we'll never forget  
   Smoke on the water, fire in the sky, smoke on the water  
   
--  
+----  
   
   *Уcлoвныe oбoзнaчeния:*  
   *f - цeлaя нoтa;*  

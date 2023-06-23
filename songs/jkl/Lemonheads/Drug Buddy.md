@@ -41,7 +41,7 @@ Drug Buddy
   *have been trying to figure out the cords for a while and can't seem to get*  
   *them.*  
   
--  
+----  
   
   *The main chord progression which composes the whole song, verse and*  
   *chorus is simply ***F***, ***Gm***, ***Dm***, ***Bb6***. And here are the lyrics...which were*  

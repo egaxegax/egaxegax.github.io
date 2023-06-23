@@ -82,14 +82,14 @@ Chorus:  I've become so numb I can't feel you there
   I've become so numb I can't feel you there  
   Is everything what you want me to be  
   
--  
+----  
   
   *Этo ocнoвнoй pифф.*  
   [e-------------------------------------------------  
   b----11----13----------------11-------------------  
   g-12----12----16--15------12----12---16--15--11---]  
   
--  
+----  
   
   ***A5  F5  C5  G5***  
   I'm tired of being what you want me to be  
@@ -133,7 +133,7 @@ Chorus:  I've become so numb I can't feel you there
   I've become so numb I can't feel you there  
   Is everything what you want me to be  
   
--  
+----  
   
 Intro:  ***F#5 D5 A5 E5***  
   
@@ -173,7 +173,7 @@ Intro:  ***F#5 D5 A5 E5***
   
   *Chorus } 2 times*  
   
--  
+----  
   
 Text:  "NUMB"  
 Перевод: "ОЦЕПЕНЕНИЕ"  

@@ -51,7 +51,7 @@ OUTRO LEAD: [e|------------------------------|
   *That's it.*  
   *Finally could be bothered to tab the best Rammstein song ever.*  
   
--  
+----  
   
   *Бас*  
   
@@ -62,7 +62,7 @@ OUTRO LEAD: [e|------------------------------|
   *and follow the guitars*  
   *easy ha*  
   
--  
+----  
   
   *Басовая табулатура*  
   
@@ -111,7 +111,7 @@ OUTRO LEAD: [e|------------------------------|
   *Outro } x4*  
   *Rest till end*  
   
--  
+----  
   
 Text:  Come with me  
   Into the trees  

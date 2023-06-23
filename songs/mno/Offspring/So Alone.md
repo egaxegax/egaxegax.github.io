@@ -35,7 +35,7 @@ Smash (1994)
   
   *repeat intro,repeat chorus,repeat rhythm 1 (first section only)*  
   
--  
+----  
   
   *Main part...*  
   [G:-----------------------------------------------------|  
@@ -69,7 +69,7 @@ Smash (1994)
   
   *That`s it!*  
   
--  
+----  
   
 Text:  Look at the crowd and tell me whether  
   All are surrounded  

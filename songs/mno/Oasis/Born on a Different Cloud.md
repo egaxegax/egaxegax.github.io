@@ -70,7 +70,7 @@ Bridge 2: Lonely soul,
 Fade Out: Born on a Different Cloud  
   Born on a Different Cloud  
   
--  
+----  
   
   *Questa canzone и molto semplice, si basa su pochi accordi e viene suonata da Noel*  
   *con il capo sul secondo capotasto, quindi tutti gli accordi sono riferiti al*  

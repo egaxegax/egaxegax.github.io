@@ -82,7 +82,7 @@
   just to make you mine  
   in a merry-go-round  
   
--  
+----  
   
   *Text:*  
   
@@ -106,7 +106,7 @@ Chorus:  I will never know
   Just to make you mine  
   In a merry-go-round  
   
--  
+----  
   
 Перевод: Карнавал  
   

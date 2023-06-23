@@ -46,7 +46,7 @@ Chorus:  Time after time, no hiding anywhere
   Emit retfa emit, no visions in the air  
   They come from everywhere  
   
--  
+----  
   
 Text:  Time after time, time after time  
   The skies are darkening they grow so dim  

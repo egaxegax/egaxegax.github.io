@@ -27,7 +27,7 @@
   I can't see her, but in the distance  
   I hear some laughter, we laugh together  
   
--  
+----  
   
 CHORDS:      ***G#      F#     E       B***  
   |-----------------------------------------|  

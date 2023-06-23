@@ -47,7 +47,7 @@ It's About Time
   and keep your lawyer on the line  
   it's about time } x4  
   
--  
+----  
   
   *Here's the lyrics with some chords to get you going. It should be*  
   *pretty obvious where the chords are to be repeated. Some places*  
@@ -118,7 +118,7 @@ Chords:          [EADGBE]
       ****G*** : [355433] (played somewhat subdued)*  
       ****A*** : [577655] (played somewhat subdued)*  
   
--  
+----  
   
   [-2--5----2--3---3--3-0---|--2--5----2--3---3--3-0----------------  
   -2--3----2--3---3--3-0---|--2--3----2--3---3--3-0----------------  

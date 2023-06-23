@@ -85,7 +85,7 @@ SOLO:  ***E B E/Ab Db Gb***
     ***Abm Abm-E/Ab-Abm Abm-E***  
   Written in the stars  
   
--  
+----  
   
 Text:  I'm taking my ride with destiny, willing to play my part,  
   Living with painful memories, loving with all my heart,  

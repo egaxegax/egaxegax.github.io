@@ -31,7 +31,7 @@ Radio Silence (1989)
   Out to the fields of my love  
   Out to the fields of my love  
   
--  
+----  
   
   ***F   Am       F#     A Dm***  
   Hello sweet victory  

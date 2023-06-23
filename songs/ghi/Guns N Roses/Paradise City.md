@@ -33,7 +33,7 @@
   *On the album, two guitars do this, but 1 does this starting at the 5th fret*  
   *on the D string.*  
   
--  
+----  
   
   *Do you "must" to play quickly! like in the song...*  
     ***G                              C                              F***  

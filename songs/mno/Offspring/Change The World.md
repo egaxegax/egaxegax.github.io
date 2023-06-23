@@ -72,7 +72,7 @@ Ixnay On The Hombre (1997)
   
   *-&gt;Play INTRO X6 or INTRO2 X6, INTRO3 or INTRO4 X2, PRE-CHORUS, CHORUS and CHORUS2.*  
   
--  
+----  
   
 Text:  I see the way the salesmen stare into the sun  
   I stood and watched them as they fell off one by one  

@@ -85,7 +85,7 @@ Conspiracy Of One (2000)
   |-4--4--4-4-4-4-4-|  
   |---------------2-|  
   
--  
+----  
   
 Text:  If I had a perfect day  
   I would have it start this way  

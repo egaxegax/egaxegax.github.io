@@ -172,7 +172,7 @@ My Plague
   -1-h2-2p1-----------|1-h2-2p1------------|1-h2-2p1-----------|1-h2-2p1--------]  
   *Flanger and Distortion until the end*  
   
--  
+----  
   
   *KEY*  
   *h    Hammer on*  
@@ -252,7 +252,7 @@ My Plague
   
   *Well, that's it. Sorry for my English.*  
   
--  
+----  
   
   *intro/verse 1 distortion*  
   *mick and james*  
@@ -353,7 +353,7 @@ My Plague
   *verse 2*  
   *outro*  
   
--  
+----  
   
 Text:  I'm in conniptions for the final act you came here for  
   The one derivative you manage is the one I abhor  

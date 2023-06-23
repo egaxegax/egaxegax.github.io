@@ -50,7 +50,7 @@ Smash (1994)
   *Play intro carefully and in time!*  
   *There is all parts of the song. Better figure parts position self.*  
   
--  
+----  
   
   *This song includes some strange guitar playing at the beginning and I*  
   *couldn`t tab that. This is not very easy, because you have to move so quickly,*  
@@ -91,7 +91,7 @@ Smash (1994)
   *Play pre-chorus, chorus, end-chorus and end-chorus2 without the brackets.*  
   *That was cool and anarchic, agree? Hope your mental health is ok!*  
   
--  
+----  
   
 Text:  Hey man you know I'm really okay  
   The gun in my hand will tell you the same  

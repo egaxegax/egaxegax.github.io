@@ -12,7 +12,7 @@ Into Your Arms
   ***A***and if    ***G***I should ***D***fall***D6***  
   ***A***I know ***G***I won't ***Em***be ***A***alone   ***Asus4***be alone any***D***more ***D6***  
   
--  
+----  
   
   *(For the ***D***, alternate between [x00232] and [x00032])*  
   
@@ -27,7 +27,7 @@ Into Your Arms
     ***G         Em               G         Em***  
    into your arms     whoa    into your arms  
   
--  
+----  
   
   [-0----0--------3-------------2-----------------------  
   -2--2----2-----0----0----3---3-----------------------  

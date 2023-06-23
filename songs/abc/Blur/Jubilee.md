@@ -35,7 +35,7 @@ Chorus:  He dresses incorrectly....no one told him how to do
   He should go out and get a job  
   No, he just plays on his computer games (reprise)  
   
--  
+----  
   
 Text:  Jubilee slouches in the settee  
   He losing all will to move  

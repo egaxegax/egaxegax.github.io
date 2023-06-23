@@ -90,7 +90,7 @@ E------------------------------------------------------------------------------]
 -----------------------------------------------------------------------------]  
 I'm on my own, I'm on my own, I'm on my own  
   
--  
+----  
   
 *Hi folks*  
 *this is my version of the song, I know its not quite*  
@@ -180,7 +180,7 @@ I'm on my own } X3
   
 *I think thats one of the best cd`s I ever bought!!*  
   
--  
+----  
   
 *Each (-) represents 1/16th note.*  
   
@@ -324,7 +324,7 @@ Chorus       } x2
 PostChorus   } x1  
 Outro        } x1  
   
--  
+----  
   
 *This may not be perfect, but all the notes are there and I'm almost positive*  
 *that the rhythms are right.*  
@@ -524,7 +524,7 @@ E|---------------|------------------|-3--3--3-3-3-3-|----------|--3--|]
   
 *Enjoy!*  
   
--  
+----  
   
 Text:  If you could step  
 into my head, tell  

@@ -52,7 +52,7 @@ Going Under
   
   *вo вpeмя coлo игpaeтcя пpипeв*  
   
--  
+----  
   
   *Tuning*  
   *The guitar is tuned VERY low in this song*  
@@ -145,7 +145,7 @@ Going Under
   Gb -------------------------------------  
   B  -------------------------------------]  
   
--  
+----  
   
   *Вecь кyплeт игpaeтcя пoд ***Hm***,  бoй лyчшe пoдoбpaть,*  
   *пpocлyшaв aкycтичecкyю вepcию этoй пecни.*  

@@ -21,7 +21,7 @@ I Need You
   So ***F#m*** come on back and ***C#m*** see. Just ***F#m*** what you mean to ***Bm*** me.  
   I ***A*** need you. I ***F#m*** need you. I ***A*** need you. ***A Asus2 A Asus2***  
   
--  
+----  
   
 Text:  You don't realize how much I need you, love you all the time  
   And never leave you.  

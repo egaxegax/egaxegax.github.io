@@ -108,7 +108,7 @@ CHORDS:           E A D G B e
   ***G9       [3 5 3 4 3 5]***  
   ***Gmi      [3 5 5 3 3 3]***  
   
--  
+----  
   
   ***A#dim/E  Bm     Bsus2               Bmsus4     Bm                    G           Gadd#11                 Em/G         G   G/F#***  
   Empty spaces, what are we living for, abandoned places,               I guess we know the score.  
@@ -151,7 +151,7 @@ CHORDS:           E A D G B e
   ***Em  Em7  Em6    A#dim/E   Em7      Bm7    Bm(add9}***  
   ----------------------------show...------------------  
   
--  
+----  
   
 Text:  Empty spaces - what are we living for  
   Abandoned places - I guess we know the score  

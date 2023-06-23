@@ -34,7 +34,7 @@ Running to Paradise (1996)
     ***B          Ab         G                C***  
   Even in an old story, is a burden not to be borne.  
   
--  
+----  
   
      ***A            E        F#m             C#m***  
   I have no happiness in dreaming of Brycelinde,  

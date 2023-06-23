@@ -36,7 +36,7 @@ Made In Heaven 1995
   ***C ??***  
   Yes I was born to love you  
   
--  
+----  
   
   *CHORUS*  
   ***Ab     Cm      Db           C Db C Bb***  
@@ -66,7 +66,7 @@ Made In Heaven 1995
   *guitar solo bit (old synth solo):*  
   *basically ***Ab***, ***Bb7***      then   ***Db/Eb*** (***Eb*** bass)*  
   
--  
+----  
   
 Text:  I was born to love you  
   With every single beat of my heart  

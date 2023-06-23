@@ -390,7 +390,7 @@ Still Life
   |-----------------------------------------------------------------|  
   |-----------------------------------------------------------------|  
   
--  
+----  
   
 Lyrics:  Take a look in the pool and what do you see  
   In the dark depths there faces beckoning me  

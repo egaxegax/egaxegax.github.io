@@ -5,7 +5,7 @@ The Judge's Daughter
   ***C  D    G  F  G    C  D    G  F  G***  
   ***C  D    C  D    G  F  G   G  F  G***  
   
--  
+----  
   
 Lyrics:  Princess in a school girl's dream  
   May I please speak with you?  

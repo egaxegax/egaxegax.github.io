@@ -48,7 +48,7 @@ Solo:  ***E            G#m7***
 Outro:  ***F#m7              D         A       E***  
   You're gonna      lose      that    girl  
   
--  
+----  
   
 Text:  You're going to lose that girl,  
   You're going to lose that girl.  

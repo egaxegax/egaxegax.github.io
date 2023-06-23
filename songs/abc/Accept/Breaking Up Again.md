@@ -31,7 +31,7 @@ Breaking Up Again
   E-|--0---------|]  
      *____*  
   
--  
+----  
   
   ***Am*** Waking up on monday morning, ***C*** Sunday's been and ***G*** gone.  
   ***Dm*** Reaching out for ***Am*** you, but I ***G*** was alone.  

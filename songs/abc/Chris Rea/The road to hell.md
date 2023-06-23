@@ -552,7 +552,7 @@ The Road to Hell
   *Second guitar solo*  
   *------------------*  
   
--  
+----  
   
 Text:  The road to hell (part 2)  
   
@@ -585,7 +585,7 @@ Text:  The road to hell (part 2)
   Said this is the road  
   This is the road to hell  
   
--  
+----  
   
 Перевод: Дорога В Ад (часть 2)  
   
