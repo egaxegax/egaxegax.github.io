@@ -1,3 +1,8 @@
+![](tancy_minus.jpg)
+
+
+
+
 * [Discorock](Discorock.md)
 * [Бессердечность](Бессердечность.md)
 * [Весна](Весна.md)
