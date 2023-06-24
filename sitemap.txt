@@ -2635,6 +2635,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?samocvety
+https://egaxegax.github.io/songs.html?samocvety/vsya_jizn_vperedi
 https://egaxegax.github.io/songs.html?accept
 https://egaxegax.github.io/songs.html?accept/koolaid
 https://egaxegax.github.io/songs.html?ac-dc
@@ -14065,7 +14067,6 @@ https://egaxegax.github.io/songs.html?severnyj_flot/vpered_i_vverh
 https://egaxegax.github.io/songs.html?paganini_nikkolo/kapriz_№11
 https://egaxegax.github.io/songs.html?makarevich_andrej/na_ostrove_taiti
 https://egaxegax.github.io/songs.html?dead_kennedys/pull_my_strings
-https://egaxegax.github.io/songs.html?samocvety
 https://egaxegax.github.io/songs.html?samocvety/idet_soldat_po_gorodu
 https://egaxegax.github.io/songs.html?aforafro/chief_uck
 https://egaxegax.github.io/songs.html?mustard_plug
