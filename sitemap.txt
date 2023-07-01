@@ -2635,6 +2635,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?glyzin_aleksej
+https://egaxegax.github.io/songs.html?glyzin_aleksej/pozdnij_vecher_v_sorento
 https://egaxegax.github.io/songs.html?samocvety
 https://egaxegax.github.io/songs.html?samocvety/vsya_jizn_vperedi
 https://egaxegax.github.io/songs.html?accept
@@ -5573,7 +5575,6 @@ https://egaxegax.github.io/songs.html?saruhanov_igor/provody
 https://egaxegax.github.io/songs.html?raznoe/a_na_vojne_kak_na_vojne
 https://egaxegax.github.io/songs.html?elizium/koleso_sansary
 https://egaxegax.github.io/songs.html?beatles/the_continuing_story_of_bungalow_bill
-https://egaxegax.github.io/songs.html?glyzin_aleksej
 https://egaxegax.github.io/songs.html?glyzin_aleksej/zimnij_cad
 https://egaxegax.github.io/songs.html?kruiz/kto-to_je_doljen
 https://egaxegax.github.io/songs.html?uriah_heep/universal_wheels
