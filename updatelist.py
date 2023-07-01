@@ -53,21 +53,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     if name in ('README.md', 'sitemap.txt'):
       continue
 
-    if cwd in ('songs',) and ext in ('.txt',):
-      text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
-      text = re.sub('[\t ]*\n', '\n', text)
-      text = re.sub('(^|\n)!([\t ]*)(.*)', r'\1\2*\3*', text)
-      text = re.sub('(^|\n)>([\t ]*)(.*)', r'\1\2***\3***', text)
-      text = re.sub('<([\t ]*)([^!>]*)([\t ]*)>', r'\1***\2***\3', text)
-      text = re.sub('^[\r\n]+|[\r\n]+$', '', text)
-      text = re.sub('\r', '', text)
-      text = re.sub('\t', ' ', text)
-      text = re.sub(' ', r' ', text)  # en space
-      text = re.sub('\n', '  \n', text) # two spaces newline
-      text = re.sub('(^<\!--.*-->)\s*', r'\1\n', text) # revert comments
-      open(os.path.join(root, fname + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
-      os.remove(os.path.join(root, name))
-    elif cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
+    if cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
       if fname == 'about':
         text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
         about = text.strip() + '\n\n'      # save about text
