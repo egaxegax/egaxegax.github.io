@@ -1,3 +1,8 @@
+![](bad_religion.jpg)
+
+Американская панк-рок-группа из *Лос-Анджелеса*, появившаяся в *1980* году.
+
+
 * [21st century digital boy](21st%20century%20digital%20boy.md)
 * [A Walk](A%20Walk.md)
 * [Along the Way](Along%20the%20Way.md)
