@@ -1,6 +1,6 @@
 ![](pink_floyd.jpg)
 
-Легендарная британская рок-группа в жанре психоделический рок, симфо-рок.
+Легендарная британская рок-группа в жанре *психоделический рок*, *симфо-рок*.
 
 * [A Saucerful of Secrets (Celestial Voices)](A%20Saucerful%20of%20Secrets%20(Celestial%20Voices).md)
 * [A Saucerful of Secrets](A%20Saucerful%20of%20Secrets.md)
