@@ -1,2 +1,2 @@
 <!--2020-09-07 09:21:06-->
-Американский рок-музыкант и лидер группы **Tom Petty and the Heartbreakers**.
+Американский рок-музыкант и лидер группы *Tom Petty and the Heartbreakers*.
