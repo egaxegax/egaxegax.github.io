@@ -2636,6 +2636,9 @@ https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
 https://egaxegax.github.io/songs.html?glyzin_aleksej
+https://egaxegax.github.io/songs.html?glyzin_aleksej/osennie_vechera
+https://egaxegax.github.io/songs.html?gary_moore
+https://egaxegax.github.io/songs.html?gary_moore/empty_rooms
 https://egaxegax.github.io/songs.html?glyzin_aleksej/pozdnij_vecher_v_sorento
 https://egaxegax.github.io/songs.html?samocvety
 https://egaxegax.github.io/songs.html?samocvety/vsya_jizn_vperedi
@@ -26200,7 +26203,6 @@ https://egaxegax.github.io/songs.html?garbage/only_happy_when_it_rains
 https://egaxegax.github.io/songs.html?garbage/the_world_is_not_enough
 https://egaxegax.github.io/songs.html?garbage/thirteen
 https://egaxegax.github.io/songs.html?garbage/you_look_so_fine
-https://egaxegax.github.io/songs.html?gary_moore
 https://egaxegax.github.io/songs.html?gary_moore/parisienne_walkways
 https://egaxegax.github.io/songs.html?gary_moore/still_got_the_blues
 https://egaxegax.github.io/songs.html?gary_moore/the_prophet
