@@ -1,3 +1,9 @@
+![](rainbow.jpg)
+
+Британо-американская рок-группа, образованная в *1975* году.
+Во главе с гитаристом *Ричи Блэкмором* и вокалистом *Ронни Джеймсом Дио*.
+
+
 * [A Light In The Black](A%20Light%20In%20The%20Black.md)
 * [All Night Long](All%20Night%20Long.md)
 * [Ariel](Ariel.md)
