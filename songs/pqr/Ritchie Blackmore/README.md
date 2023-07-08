@@ -1,3 +1,7 @@
+Британский гитарист и автор песен. 
+Участник групп *Deep Purple*, *Rainbow*, *Blackmore's Night*.
+
+
 * [Home Again](Home%20Again.md)
 * [MeMINGEN (2 вариант)](MeMINGEN%20(2%20вариант).md)
 * [MeMINGEN](MeMINGEN.md)
