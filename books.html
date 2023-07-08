@@ -12,6 +12,7 @@
 <title>Книги / Сайт Григория Еремина</title>
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
+<link rel="stylesheet" href="/static/css/books.css">
 <link rel="canonical" href="books.html">
 <style>
 .about img { max-width: 120px; padding:0px 10px 0px 0px; }
@@ -83,7 +84,7 @@
     '</td></tr><tr class="smaller">'+
     '<td align="center" class="gray smaller"><i>'+buildDate(p.title[3])+'</i></td>'+
     '<td></td>'+
-    '<td align="right" class="light smaller"><i>'+((p.i+(ci||0)))+'</i></td></tr>'+
+    '<td align="right" class="light smaller"><i class="counter">'+((p.i+(ci||0)))+'</i></td></tr>'+
   '</table>';
   }
   
