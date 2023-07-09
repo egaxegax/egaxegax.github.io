@@ -3,10 +3,15 @@
 # Extract .epub to .txt and .jpg files.
 #
 # books2.py <dir_with_epub>
+#
 
 import sys, os, re, time
 import zlib, zipfile, io
 from PIL import Image
+
+# path to update.py
+cd = os.path.dirname(sys.argv[0])
+sys.path.insert(0, os.path.abspath(cd + '../'))
 
 def E_OS(text):
   if os.name == 'nt':
@@ -50,7 +55,7 @@ for root, dirs, files in os.walk(path, topdown=False):
           if subj: subj = subj[0]
           else:    subj = 'other'
 
-          fp = os.path.join('out', subj.strip(), re.sub('\s+', ' ', writer.strip()))
+          fp = os.path.join('.', subj.strip(), re.sub('\s+', ' ', writer.strip()))
           for s in '<>:"/\|?*':
             tit = tit.strip().replace(s,'')
           ftime = os.path.getmtime(os.path.join(root, name))
@@ -74,3 +79,5 @@ for root, dirs, files in os.walk(path, topdown=False):
           print (epubname, 'Not an valid image')
           raise
         print (i, j, epubname)
+
+import update

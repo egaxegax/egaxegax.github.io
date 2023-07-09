@@ -1,4 +1,9 @@
 https://egaxegax.github.io/books.html
+https://egaxegax.github.io/books.html?andrej_evgenevich_pervuhin
+https://egaxegax.github.io/books.html?andrej_evgenevich_pervuhin/lekar_kniga_chetvertaya
+https://egaxegax.github.io/books.html?andrej_evgenevich_pervuhin/lekar_kniga_tretya_si
+https://egaxegax.github.io/books.html?andrej_evgenevich_pervuhin/lekar_kniga_vtoraya_si
+https://egaxegax.github.io/books.html?andrej_evgenevich_pervuhin/lekar_si
 https://egaxegax.github.io/books.html?edgar_rajs_berrouz
 https://egaxegax.github.io/books.html?edgar_rajs_berrouz/tarzan_ujasnyj
 https://egaxegax.github.io/books.html?edgar_rajs_berrouz/tarzan_iz_plemeni_obezyan_vozvrashchenie_tarzana_tarzan_i_ego_zveri_sbornik
