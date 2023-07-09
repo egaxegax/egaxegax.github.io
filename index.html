@@ -115,7 +115,7 @@ code { white-space: pre-wrap; }
       var opt = this.options[this.selectedIndex];
       window.location = '/index.html' + (opt.value == '-1' ? '' : '?' + opt.value);
     }
-    var per_page = 4,
+    var per_page = 3,
         page_num = urlParams().page||1,
         page_bottom = (page_num-1)*per_page,
         page_top = page_bottom+per_page;
