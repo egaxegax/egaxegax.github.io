@@ -15,6 +15,7 @@
 * [det_action](det_action)
 * [det_classic](det_classic)
 * [det_crime](det_crime)
+* [det_espionage](det_espionage)
 * [det_hard](det_hard)
 * [det_history](det_history)
 * [det_police](det_police)

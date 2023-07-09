@@ -2,6 +2,7 @@
 .wrap { background-color:#fff; padding:5px 10px 2px 10px; margin:0 0 10px;
   border-radius:4px; border:1px solid #dfdfdf; }
 .rounded { border-radius:50%; }
+.rounded7 { border-radius:7% 4% 7% 4%; }
 .gray { color:#787878; }
 .light { color:#aaa; }
 .dark { color:#900020; }

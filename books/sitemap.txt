@@ -1,4 +1,17 @@
 https://egaxegax.github.io/books.html
+https://egaxegax.github.io/books.html?roman_kim
+https://egaxegax.github.io/books.html?roman_kim/agent_osobogo_naznacheniya_shkola_prizrakov
+https://egaxegax.github.io/books.html?marina_barbysheva
+https://egaxegax.github.io/books.html?marina_barbysheva/zvezdochet_ljubovnik_fortuny
+https://egaxegax.github.io/books.html?marina_barbysheva/zvezdochet_rabota_na_holode
+https://egaxegax.github.io/books.html?robert_ladlem
+https://egaxegax.github.io/books.html?robert_ladlem/djejson_born_cikl_romanov_knigi_1_-_5
+https://egaxegax.github.io/books.html?desmond_begli
+https://egaxegax.github.io/books.html?desmond_begli/izbrannoe_kompilyaciya_knigi_1-11
+https://egaxegax.github.io/books.html?li_chajld
+https://egaxegax.github.io/books.html?li_chajld/djek_richer_cena_ee_jizni
+https://egaxegax.github.io/books.html?oksana_chekmeneva
+https://egaxegax.github.io/books.html?oksana_chekmeneva/dar_zolotomu_drakonu_si
 https://egaxegax.github.io/books.html?igor_dravin
 https://egaxegax.github.io/books.html?igor_dravin/boevik-universal
 https://egaxegax.github.io/books.html?igor_dravin/rejndjer
@@ -71,7 +84,6 @@ https://egaxegax.github.io/books.html?per_bul
 https://egaxegax.github.io/books.html?per_bul/planeta_obezyan
 https://egaxegax.github.io/books.html?bertris_smoll
 https://egaxegax.github.io/books.html?bertris_smoll/chertovka
-https://egaxegax.github.io/books.html?li_chajld
 https://egaxegax.github.io/books.html?li_chajld/djek_richer_ili_zastav_menya
 https://egaxegax.github.io/books.html?li_chajld/djek_richer_ili_granica_polunochi
 https://egaxegax.github.io/books.html?karlos_kastaneda

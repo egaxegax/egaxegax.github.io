@@ -2,7 +2,7 @@
 #
 # Extract .epub to .txt and .jpg files.
 #
-# books2.py <dir_with_epub>
+# python books2.py <dir_with_epub_files>
 #
 
 import sys, os, re, time
