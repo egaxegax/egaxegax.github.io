@@ -2659,6 +2659,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?kino
+https://egaxegax.github.io/songs.html?kino/zvezda_po_imeni_solnce_2
 https://egaxegax.github.io/songs.html?glyzin_aleksej
 https://egaxegax.github.io/songs.html?glyzin_aleksej/osennie_vechera
 https://egaxegax.github.io/songs.html?gary_moore
@@ -3084,7 +3086,6 @@ https://egaxegax.github.io/songs.html?nalich_petr
 https://egaxegax.github.io/songs.html?nalich_petr/vihr_bezuderjnoj_strasti
 https://egaxegax.github.io/songs.html?chernyj_obelisk
 https://egaxegax.github.io/songs.html?chernyj_obelisk/chernyj_obelisk
-https://egaxegax.github.io/songs.html?kino
 https://egaxegax.github.io/songs.html?kino/peremen
 https://egaxegax.github.io/songs.html?zimove_zverej/melodiya_neponimaniya
 https://egaxegax.github.io/songs.html?metallica/my_world
