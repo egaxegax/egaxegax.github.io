@@ -1,3 +1,8 @@
+![](helloween.jpg)
+
+Немецкая *пауэр-метал-группа*. Одна из основоположников этого направления рок-музыки. 
+
+
 * [A Game we Shouldn't Play](A%20Game%20we%20Shouldn't%20Play.md)
 * [A Little Time](A%20Little%20Time.md)
 * [A tale that wasn't right](A%20tale%20that%20wasn't%20right.md)

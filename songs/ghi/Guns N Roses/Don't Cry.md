@@ -1,19 +1,19 @@
 <!--2020-09-05 11:01:36-->
-Don't Cry  
+*Don't Cry*  
   Use Your Illusion I & II  
   
-Intro:  |***Am  Dm  G  G/B***  (***C***) |  
+*Intro:*  ***Am  Dm  G  G/B***  (***C***)  
   Talk to me softly there's something in your eyes  
   Don't hang your head in sorrow and please don't cry  
   I know how you feel inside I've I've been there before  
   Somthin' chengin' inside you and don't you know  
   
-Chorus:  ***F***Don't you cry toni***Am***gh  
+*Chorus:*  ***F*** Don't you cry toni ***Am*** ght  
   I still love you baby  
-  ***F***Don't you cry toni***Am***ght  
-  ***F***Don't you cry toni***Am***ght  
-  There's a hea***C***ven above you baby  
-  ***F***And Don't you ***G***cry       toni***Am***ght  
+  ***F*** Don't you cry toni ***Am*** ght  
+  ***F*** Don't you cry toni ***Am*** ght  
+  There's a hea ***C*** ven above you baby  
+  ***F*** And Don't you ***G*** cry toni ***Am*** ght  
   Give me a whisper and give me a sigh  
   Give me a kiss befiore you tell me goodbye  
   Don't you take it so hard now  
@@ -21,7 +21,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   I'll still be thinking of you  
   And the times we had baby  
   
-  |***C5  G/B  A5  G5  F5  G5  A5***|  
+  ***C5  G/B  A5  G5  F5  G5  A5***  
   
   *solo*  
   
@@ -45,7 +45,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   
   *Verse: Clean Electric*  
   *Rhy. Fig. 1                                     End Rhy. Fig. 1*  
-  ***Am            Dm            G             ****  
+  ***Am            Dm            G****  
   [E|-------0-------------1---------------3-----------------------|  
   B|---------1---------3---3---------------3---------------------|  
   G|-----2-----2-----2-------2---------0-----0-------0-----0-----|  
@@ -53,8 +53,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   A|-0-------------------------0---2-----------0-3-----2-----3-2-|  
   E|-----------------------------3-------------------------------|]  
   
-  ** Last time before 2nd and 3rd chorus replace remainder of Rhy. Fig. 1 with*  
-  *Rhy. Fill 1.*  
+  *Last time before 2nd and 3rd chorus replace remainder of Rhy. Fig. 1 with*  
   
   *Rhy. Fill 1          End Rhy. Fill 1*  
   ***C       G/B     Am      G***  
@@ -101,7 +100,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   E|--------------------------3--------|--------------------|----------|]  
   
   *Repeat Verse w/Additional Lyrics: Verse: 2*  
-  *Repeat Chorus w/Rhy. Fill 2 at ***  
+  *Repeat Chorus w/Rhy. Fill 2 at*  
   
   *Rhy. Fill 2                  End Rhy. Fill 2*  
   ***C5   G5      A5   G5      F5   G5   A5***  
@@ -171,7 +170,7 @@ Chorus:  ***F***Don't you cry toni***Am***gh
   
   *Double regular chorus with power chords, or 5 (ie: ***F5, G5, A5, etc***)*  
   
-  ***F G Am                                                  F    G***  
+  ***F G Am                                 F    G***  
   [E|--12~~~--12--12--12--12-------|-------------------|------------|  
   B|-------------------------13---|--15-p-13----------|------------|  
   G|------------------------------|-----------14~~~~--|------------|  
@@ -755,7 +754,7 @@ Text:  Talk to me softly
   
 ----  
   
-Перевод: Не Плачь  
+*Перевод:* Не Плачь  
   
   Так скажи мне,  
   Что в твоих глазах.  
