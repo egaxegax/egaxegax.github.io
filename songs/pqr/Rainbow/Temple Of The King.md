@@ -71,8 +71,8 @@ It shines upon the world
  ***F G    Am***  
 And the day has just begun  
   
-*Instru:* ***Am / F / G / Am***  
-    ***Am / G /Dm-F/ Am***  
+*Instru:* ***Am  F  G  Am***  
+    ***Am  G Dm-F Am***  
 *(bass)*  
 ***C    G***  
 One day in the year of the fox  
@@ -106,7 +106,7 @@ He's gone, to the
 ***F      G      Am***  
 Temple of the King  
   
-*solo:*  ***Am / F / Am / F / Am / G / Dm / E / Am / F / Am / F / Am / G / Dm / E***  
+*solo:*  ***Am  F  Am  F  Am  G  Dm  E  Am  F  Am  F  Am  G  Dm  E***  
   
   
 *Solo:*  
@@ -163,7 +163,7 @@ With just one touch of the strong right hand they know
  ***F      G      Am***  
 Of the Temple and the King  
   
-*instr:* ***Am / F / G / Am***  
-    ***Am / G /Dm-F/ Am***  
+*instr:* ***Am  F  G  Am***  
+    ***Am  G Dm-F Am***  
   
-*arppegio:* ***F - E - Am***
+*arppegio:* ***F  E  Am***
