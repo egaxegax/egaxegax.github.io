@@ -1,7 +1,7 @@
 <!--2020-09-06 03:30:42-->
-Unforgiven II  
+*Unforgiven*  
   
-Intro:  ***Asus2 Am | C/9 | G | Em E*** } 2 times  
+*Intro:*  ***Asus2 Am | C/9 | G | Em E*** } 2 times  
   
   ***Am    C/9      G  Em       E           Am***  
   Lay beside me,   tell me what they've done  
