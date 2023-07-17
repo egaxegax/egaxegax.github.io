@@ -67,7 +67,7 @@ Your favourite prize
 Your favourite smile  
 Your favourite slave  
   
-I?m hanging on your words  
+I'm hanging on your words  
   living on your breath  
   feeling with your skin  
   Will I always be here  
@@ -82,7 +82,7 @@ Your favourite game
 Your favourite mirror  
 Your favourite slave  
   
-I?m hanging on your words  
+I'm hanging on your words  
   living on your breath  
   feeling with your skin  
   Will I always be here

@@ -1,3 +1,9 @@
+![](depeche_mode.jpg)
+
+Британская музыкальная группа, совмещающая в творчестве электронную и рок-музыку.
+Образовалась в *1980* году в *Базилдоне*. Одна из наиболее известных и успешных групп 20-го века.
+
+
 * [A Pain That I'm Used To](A%20Pain%20That%20I'm%20Used%20To.md)
 * [Barrel Of A Gun](Barrel%20Of%20A%20Gun.md)
 * [Behind The Wheel](Behind%20The%20Wheel.md)
