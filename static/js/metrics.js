@@ -26,7 +26,7 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
   ga('send', 'pageview');
 }
 { // reklama Yandex.RTB
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments);};
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, "script", "//yandex.ru/ads/system/context.js", "yaContextCb");
   window.yaContextCb.push(()=>{
