@@ -38,7 +38,7 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
 }
 { // google adsense
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.crossorigin="anonymous";k.src=r;a.parentNode.insertBefore(k,a);})
-   (window, document, "script", "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043", "googleContextCb");
+   m[i].l=1*new Date();k=e.createElement(t),a=document.head;k.async=1;k.crossorigin='anonymous';k.src=r;a.appendChild(k);})
+   (window, document, 'script', '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043', 'googleContextCb');
 }
 }
