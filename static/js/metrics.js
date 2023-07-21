@@ -25,7 +25,7 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
   ga('create', 'UA-25857345-4', 'egaxegax.github.io');
   ga('send', 'pageview');
 }
-{ // reklama Yandex.RTB
+{ // yandex rtb reklama
 //  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
 //   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
 //   (window, document, "script", "//yandex.ru/ads/system/context.js", "yaContextCb");

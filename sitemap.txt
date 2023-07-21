@@ -2659,6 +2659,13 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?stella
+https://egaxegax.github.io/songs.html?stella/devochka_bez_serdca
+https://egaxegax.github.io/songs.html?stella/jenshchina-vampir
+https://egaxegax.github.io/songs.html?iz_kf_maksim_perepilica
+https://egaxegax.github.io/songs.html?iz_kf_maksim_perepilica/lichno_dlya_menya
+https://egaxegax.github.io/songs.html?iz_kf_don_sezar_de_bazan
+https://egaxegax.github.io/songs.html?iz_kf_don_sezar_de_bazan/tjuremnaya_pesnya_sezara
 https://egaxegax.github.io/songs.html?kino
 https://egaxegax.github.io/songs.html?kino/zvezda_po_imeni_solnce_2
 https://egaxegax.github.io/songs.html?glyzin_aleksej
@@ -18074,14 +18081,12 @@ https://egaxegax.github.io/songs.html?mumij_troll/banzaj
 https://egaxegax.github.io/songs.html?mumij_troll/bit-bum_2_variant
 https://egaxegax.github.io/songs.html?mumij_troll/bit-bum
 https://egaxegax.github.io/songs.html?mumij_troll/bludlivye_koty
-https://egaxegax.github.io/songs.html?mumij_troll/bokserskij_vals_ch_2_karamel
 https://egaxegax.github.io/songs.html?mumij_troll/v_dumah_o_devushke_iz_goroda_centralnogo
 https://egaxegax.github.io/songs.html?mumij_troll/v_rejs
 https://egaxegax.github.io/songs.html?mumij_troll/vdrug_ushli_poezda
 https://egaxegax.github.io/songs.html?mumij_troll/veter
 https://egaxegax.github.io/songs.html?mumij_troll/vecher
 https://egaxegax.github.io/songs.html?mumij_troll/vechernij_chaj
-https://egaxegax.github.io/songs.html?mumij_troll/vladivostok-2000
 https://egaxegax.github.io/songs.html?mumij_troll/vodopady_slez
 https://egaxegax.github.io/songs.html?mumij_troll/vospitannik_upavshej_zvezdy
 https://egaxegax.github.io/songs.html?mumij_troll/vot_i_vsya_ljubov
@@ -18129,7 +18134,6 @@ https://egaxegax.github.io/songs.html?mumij_troll/lyji
 https://egaxegax.github.io/songs.html?mumij_troll/malysh_2_variant
 https://egaxegax.github.io/songs.html?mumij_troll/malysh
 https://egaxegax.github.io/songs.html?mumij_troll/malchik_-_soldat_2_versiya
-https://egaxegax.github.io/songs.html?mumij_troll/malchik_-_soldat
 https://egaxegax.github.io/songs.html?mumij_troll/maslo
 https://egaxegax.github.io/songs.html?mumij_troll/medvedica
 https://egaxegax.github.io/songs.html?mumij_troll/morskaya_bolezn
@@ -18174,7 +18178,6 @@ https://egaxegax.github.io/songs.html?mumij_troll/stekla
 https://egaxegax.github.io/songs.html?mumij_troll/stranniki
 https://egaxegax.github.io/songs.html?mumij_troll/tak_nado
 https://egaxegax.github.io/songs.html?mumij_troll/tak_strashno
-https://egaxegax.github.io/songs.html?mumij_troll/takbyvaetnesluchajno
 https://egaxegax.github.io/songs.html?mumij_troll/takie_devchonki
 https://egaxegax.github.io/songs.html?mumij_troll/tvoya_letnyaya
 https://egaxegax.github.io/songs.html?mumij_troll/tishe
