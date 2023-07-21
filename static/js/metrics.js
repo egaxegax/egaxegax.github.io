@@ -28,12 +28,8 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
 { // rambler top 100 counter
   (function (w, d, c) {
   (w[c] = w[c] || []).push(function() {
-      var options = {
-          project: 7715588,
-      };
-      try {
-        w.top100Counter = new top100(options);
-      } catch(e) { }
+      var options = {project: 7715588};
+      try{w.top100Counter = new top100(options);} catch(e){}
     });
     var n = d.getElementsByTagName("script")[0],
     s = d.createElement("script"),
