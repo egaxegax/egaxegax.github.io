@@ -2659,6 +2659,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?malinin_aleksandr
+https://egaxegax.github.io/songs.html?malinin_aleksandr/ostorojno_dveri_zakryvajutsya
 https://egaxegax.github.io/songs.html?antonov_jurij
 https://egaxegax.github.io/songs.html?antonov_jurij/ne_zabyvaj_mechty_sbyvajutsya
 https://egaxegax.github.io/songs.html?stella
@@ -11012,7 +11014,6 @@ https://egaxegax.github.io/songs.html?mashina_vremeni/posvyashchenie_olegu_tabak
 https://egaxegax.github.io/songs.html?black_sabbath/a_national_acrobat
 https://egaxegax.github.io/songs.html?az/ne_speshi_gnat_ego
 https://egaxegax.github.io/songs.html?crowded_house/weather_with_you
-https://egaxegax.github.io/songs.html?malinin_aleksandr
 https://egaxegax.github.io/songs.html?malinin_aleksandr/daj_bog
 https://egaxegax.github.io/songs.html?beatles/good_morning
 https://egaxegax.github.io/songs.html?ac-dc/shoot_to_thrill
