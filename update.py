@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 #
 # Update file list sorted descending by date from DIR to index.js.
 #
@@ -6,7 +6,7 @@
 #   SUBJ   = [name,count,lasttime,rootkey] = subject dir
 #   TITLES = [subjkey,sortkey,name,lasttime,rootkey] = files in subj. dir
 #
-# python ../update.py ( run from dir vesti,posts,songs,books)
+# python3 ../update.py ( run from dir vesti,posts,songs,books)
 #
 
 import json

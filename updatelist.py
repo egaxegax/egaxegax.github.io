@@ -1,9 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 #
 # Make README.md files with list of dir files.
 # Convert song .txt files to .md from current dir.
 #
-# python ../updatelist.py (from songs, posts, vesti)
+# python3 ../updatelist.py (from songs, posts, vesti)
 #
 
 import re
