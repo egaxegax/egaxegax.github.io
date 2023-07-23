@@ -2659,6 +2659,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?mumij_troll
+https://egaxegax.github.io/songs.html?mumij_troll/deserty
 https://egaxegax.github.io/songs.html?avtograf
 https://egaxegax.github.io/songs.html?avtograf/tak_chasto_byvaet
 https://egaxegax.github.io/songs.html?malinin_aleksandr
@@ -7830,7 +7832,6 @@ https://egaxegax.github.io/songs.html?korn/its_gonna_go_away
 https://egaxegax.github.io/songs.html?instrukciya_po_vyjivaniju/vojna
 https://egaxegax.github.io/songs.html?blatnye_pesni/okurochek
 https://egaxegax.github.io/songs.html?rancid/as_one
-https://egaxegax.github.io/songs.html?mumij_troll
 https://egaxegax.github.io/songs.html?mumij_troll/pljus_28
 https://egaxegax.github.io/songs.html?pesni_strojotryadov/tropoj
 https://egaxegax.github.io/songs.html?beastie_boys
@@ -13294,7 +13295,6 @@ https://egaxegax.github.io/songs.html?sarancha
 https://egaxegax.github.io/songs.html?sarancha/latino
 https://egaxegax.github.io/songs.html?devyatyj_rajon/neproshennyj_gost
 https://egaxegax.github.io/songs.html?afganskie_pesni/chernyj_tjulpan
-https://egaxegax.github.io/songs.html?mumij_troll/devochki_emansipe
 https://egaxegax.github.io/songs.html?belomorkanal/posveshchenie
 https://egaxegax.github.io/songs.html?blur/globe_alone
 https://egaxegax.github.io/songs.html?tajm-aut/taxi
@@ -28492,6 +28492,7 @@ https://egaxegax.github.io/songs.html?18+/snimaju_napryajenie
 https://egaxegax.github.io/songs.html?18+/podglyadel_za_sestroj
 https://egaxegax.github.io/index.html
 https://egaxegax.github.io/index.html?2023
+https://egaxegax.github.io/index.html?2023/230724_0105
 https://egaxegax.github.io/index.html?2023/230723_1050
 https://egaxegax.github.io/index.html?2023/230722_2348
 https://egaxegax.github.io/index.html?2023/230721_2311
