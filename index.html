@@ -35,7 +35,6 @@ code { white-space: pre-wrap; }
 </div>
 <div id="page_header" class="main"></div>
 <div class="main"><div id="yandex_rtb_R-A-2277013-1" class="bmarg"></div></div>
-<div class="main"><div id="yandex_rtb_R-A-2277013-2" class="bmarg"></div></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
 <div id="comments" class="main">
@@ -137,6 +136,11 @@ code { white-space: pre-wrap; }
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addMsg(r,p);
+          // reklama yandex
+        if(p.id == 'msg0'){
+          document.getElementById('page_content').innerHTML += 
+        '<div class="bmarg" id="yandex_rtb_R-A-2277013-2"></div>';
+        }
       });
     }
     if (page_titles.length){
