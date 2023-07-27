@@ -54,7 +54,7 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, "script", "//yandex.ru/ads/system/context.js", "yaContextCb");
   window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({"blockId": "R-A-2277013-1","renderTo": "yandex_rtb_R-A-2277013-1"});});
-  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({"blockId": "R-A-2277013-2","renderTo": "yandex_rtb_R-A-2277013-2"});});
-  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({"blockId": "R-A-2277013-3","renderTo": "yandex_rtb_R-A-2277013-3"});});
+//  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({"blockId": "R-A-2277013-2","renderTo": "yandex_rtb_R-A-2277013-2"});});
+//  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({"blockId": "R-A-2277013-3","renderTo": "yandex_rtb_R-A-2277013-3"});});
 }
 }
