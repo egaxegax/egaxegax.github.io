@@ -1,3 +1,8 @@
+![](barenaked_ladies.jpg)
+
+Канадская альтернативная рок-группа из пригорода Торонто, образовалась в *1988* году.
+
+
 * [A](A.md)
 * [Am I The Only One](Am%20I%20The%20Only%20One.md)
 * [Be My Yoko Ono](Be%20My%20Yoko%20Ono.md)

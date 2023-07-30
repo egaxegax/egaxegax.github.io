@@ -19,7 +19,6 @@
 code { white-space: pre-wrap; }
 </style>
 <script defer src="/static/js/metrics.js"></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043" crossorigin="anonymous"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
@@ -72,7 +71,7 @@ code { white-space: pre-wrap; }
           .replace(/\r\r\n/g, '\n')
           .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
         html = converter.makeHtml(text)
-          .replace(/<img src="/g, '<img src="'+p.url+'/../'); //fix img url to absolute
+          .replace(/src="\.\//g, 'src="'+p.url+'/../');  // fix img url to absolute
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
       if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
@@ -80,16 +79,42 @@ code { white-space: pre-wrap; }
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+html+'</div>'+
   '<div class="msgfooter">'+
-    '<a class="nodecor hspace" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> # </a>'+
+    '<a class="nodecor hspace" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>';
   }
 
+  function addPageContent(roots, subjects, msgs, page){
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = msgs.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = subjects[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="msg'+(i+page.counter)+'">'+
+      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'msg'+(i+page.counter), i: 1+(i+page.counter), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
+        var wrap = document.getElementById(p.id);
+        wrap.className = 'wrap';
+        addMsg(r,p);
+      });
+    }
+    page.counter += page.titles.length;
+    page.num++;
+    return page.titles.length == 0;
+  }
+
   upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
     eval(s);
-    var roots = ROOTS,
-        subjects = SUBJ,
-        msgs = TITLES;
+    window.PAGE = { 
+      per: 4, // blocks 1 page
+      num: urlParams().page||0, // start num page 
+      counter: 0 // end num page
+    };
+    window.MSGS = TITLES;
     var ysel = -1;
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -98,17 +123,17 @@ code { white-space: pre-wrap; }
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(pp.length>1){ // ?subj/msg
-        msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
-        if(msgs.length) document.title = document.title.replace('/', ' от ' + buildDate(msgs[0][3]).split('&nbsp;')[0] + ' / ');
-        subjects.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
+        MSGS = MSGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
+        if(MSGS.length) document.title = document.title.replace('/', ' от ' + buildDate(MSGS[0][3]).split('&nbsp;')[0] + ' / ');
+        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
       }else if(pp.length>0){ // ?subj
-        msgs = msgs.filter(function(tit){ return (tr(subjects[tit[0]][0]) == pp[0]); });
-        if(msgs.length) document.title = document.title.replace('/', ' за ' + subjects[msgs[0][0]][0] + ' / ');
-        subjects.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
+        MSGS = MSGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); });
+        if(MSGS.length) document.title = document.title.replace('/', ' за ' + SUBJ[MSGS[0][0]][0] + ' / ');
+        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
       }
     }
     document.getElementById('vestiheader').innerHTML =
-  '<p>Сводка изменений и событий в <i><b>'+msgs.length+'</b></i> записках.</p>';
+  '<p>Сводка изменений и событий в <i><b>'+MSGS.length+'</b></i> записках.</p>';
     document.getElementById('yearlist').innerHTML =
   '<option value="-1"'+(ysel == -1 ? ' selected ' : '')+'> Все </option>';
     for(var k in SUBJ){
@@ -118,29 +143,13 @@ code { white-space: pre-wrap; }
     document.getElementById('yearlist').onchange = function(){
       var opt = this.options[this.selectedIndex];
       window.location = '/index.html' + (opt.value == '-1' ? '' : '?' + opt.value);
-    }
-    var per_page = 4,
-        page_num = urlParams().page||1,
-        page_bottom = (page_num-1)*per_page,
-        page_top = page_bottom+per_page;
-    var page_titles = msgs.slice(page_bottom, page_top);
+    };
     document.getElementById('page_content').innerHTML = '';
-    for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ parseInt(page_titles[i][0]) ][0], // skip lead 0
-          root = roots[page_titles[i][4]][0],
-          title = page_titles[i][2];
-      document.getElementById('page_content').innerHTML += 
-    '<div id="msg'+i+'">'+
-      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
-    '</div>';
-      upfunc({id: 'msg'+ i, if: i==0, subj: subj, title: page_titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
-        var wrap = document.getElementById(p.id);
-        wrap.className = 'wrap';
-        addMsg(r,p);
-      });
-    }
-    if (page_titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(msgs, per_page, page_num);
+    addPageContent(ROOTS, SUBJ, MSGS, PAGE);
+    if (PAGE.titles.length){
+      document.getElementById('page_footer').innerHTML = 
+    '<p class="mtext cfloat">'+
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE);" class="nopad bigger">&#8634;</button></p>';
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 

@@ -130,6 +130,34 @@ td.av { width:50px; color: #aaa; }
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
   }
+  
+  function addPageContent(roots, arts, songs, page){
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = songs.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = arts[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="song'+(i+page.counter)+'">'+
+      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'song'+(i+page.counter), if: i==1, i: (i+page.counter), root: root, subj: subj, title: page.titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          wrap.className = 'wrap';
+          (p.title[2] == 'about') ? wrap.className += addAbout(r,p) : 
+            page.view == 'song' ? addSong(r,p) :
+            page.view == 'list' ? addList(r,p) : addLast(r,p);
+        }
+      });
+    }
+    page.counter += page.titles.length;
+    page.num++;
+    return page.titles.length == 0;
+  }
   //
   // Add icons chords by jtab.js & rafael.js
   //
@@ -166,12 +194,14 @@ td.av { width:50px; color: #aaa; }
 
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
-    var roots = ROOTS,
-        arts = SUBJ,
-        songs = TITLES;
-    var per_page = 8,
-        page_view = 'last',
-        page_header = 
+    window.PAGE = { 
+      per: 8, // blocks 1 page
+      view: 'last',
+      num: urlParams().page||0, // start num page 
+      counter: 0 // end num page
+    };
+    window.SONGS = TITLES;
+    var page_header = 
       '<table width="99%" class="mtext collapse"><tr>'+
         '<td class="hspace"><p>На сайте <b><i>$COUNT</i></b> текстов разных &emsp;<a href="/sarts.html">Авторов</a> &nbsp; '+
           '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a></p></td>'+
@@ -186,81 +216,59 @@ td.av { width:50px; color: #aaa; }
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // ?find
-        songs = songs.filter(function(tit){ 
-          return arts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+        SONGS = SONGS.filter(function(tit){ 
+          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        songs = songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(songs.length){ 
-          page_view = 'last';
+        SONGS = SONGS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(SONGS.length){ 
+          PAGE.view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+songs.length+')</i></p>';
-          document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
+        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+SONGS.length+')</i></p>';
+          document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
         }
-        per_page = 100;
+        PAGE.per = 100;
       }else if(pp.length>1){ // ?art/song
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +noindex unusable url
-        songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
-        if(songs.length){
-          page_view = 'song';
+        SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
+        if(SONGS.length){
+          PAGE.view = 'song';
           page_header = 
         '<p>'+
           '<h2 class="nomarg nopad grid">'+
-            '<a class="nodecor hspace" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> '+
-            '<div class="hspace">'+songs[0][2]+'</div>'+
+            '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
+            '<div class="hspace">'+SONGS[0][2]+'</div>'+
           '</h2>'+
         '</p>';
-          document.title = arts[songs[0][0]][0] + ', ' + songs[0][2] + ' - ' + document.title;
-          songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
+          document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
+          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
         }
       }else if(pp.length>0){ // ?art
-        songs = songs.filter(function(tit){ return (tr(arts[tit[0]][0]) == pp[0]); }); // filter by art
-        songs = songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(songs.length){ 
-          page_view = 'list';
+        SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by art
+        SONGS = SONGS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(SONGS.length){ 
+          PAGE.view = 'list';
           page_header = 
         '<p>'+
           '<h2 class="nomarg nopad hspace">'+
-            '<a class="nodecor" href="/songs.html?'+tr(arts[songs[0][0]][0])+'">'+arts[songs[0][0]][0]+'</a> &emsp; '+
-            '<span class="gray smaller"><i class="smaller counter"> ('+ songs.length+') </i></span>'+
+            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
+            '<span class="gray smaller"><i class="smaller counter"> ('+ SONGS.length+') </i></span>'+
           '</h2> '+
         '</p>';
-          document.title = arts[songs[0][0]][0] + ', песни, тексты - ' + document.title;
-          songs = [[songs[0][0],songs[0][1],'about',0,songs[0][4]]].concat(songs);  // +about page
+          document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
+          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
         }
-        per_page = 100;
+        PAGE.per = 20;
       }
     }
 
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
-
-    var page_num = urlParams().page||1,
-        page_bottom = (page_num-1)*per_page,
-        page_top = page_bottom+per_page;
-    var page_titles = songs.slice(page_bottom, page_top);
-
-    for(var i=0; i<page_titles.length; i++){
-      var subj = arts[page_titles[i][0]][0],
-          root = roots[page_titles[i][4]][0],
-          title = page_titles[i][2];
-      document.getElementById('page_content').innerHTML += 
-    '<div id="song'+i+'">'+
-      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
-    '</div>';
-      upfunc({id: 'song'+i, if: i==1, i: page_bottom+i, root: root, subj: subj, title: page_titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
-        var wrap = document.getElementById(p.id);
-        wrap.innerHTML = '';
-        if(st == 200) { // skip Not Found pages
-          wrap.className = 'wrap';
-          (p.title[2] == 'about') ? wrap.className += addAbout(r,p) : 
-            page_view == 'song' ? addSong(r,p) :
-            page_view == 'list' ? addList(r,p) : addLast(r,p);
-        }
-      });
-    }
-    if (page_titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(songs, per_page, page_num);
+    addPageContent(ROOTS, SUBJ, SONGS, PAGE);
+    if (PAGE.titles.length){
+      document.getElementById('page_footer').innerHTML = 
+    '<p class="mtext cfloat">'+
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE);" class="nopad bigger">&#8634;</button></p>';
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 

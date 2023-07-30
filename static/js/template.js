@@ -57,7 +57,7 @@ function addImgConfuse(){
 '</svg>';
 }
 //
-// Update meta tag
+// Update meta tags
 //
 function updateMetaTag(name, content){
   var meta = document.head.getElementsByTagName('meta');
