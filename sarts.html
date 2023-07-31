@@ -62,7 +62,7 @@ img.av { width: 50px; height: auto; }
     page.arts = arts.slice(page.bottom, page.top);
     for(var i=0; i<page.arts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="art'+(i+page.counter)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+page.counter+1)+'</div>';
+    '<div id="art'+(i+page.counter)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
     }
     page.counter += page.arts.length;
     page.num++;
