@@ -149,7 +149,7 @@ code { white-space: pre-wrap; }
     if (PAGE.titles.length){
       document.getElementById('page_footer').innerHTML = 
     '<p class="mtext cfloat">'+
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE);" class="nopad bigger">&#8634;</button></p>';
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE);" class="nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 

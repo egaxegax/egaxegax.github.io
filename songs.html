@@ -266,9 +266,10 @@ td.av { width:50px; color: #aaa; }
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
     if (PAGE.titles.length){
-      document.getElementById('page_footer').innerHTML = 
+      if(PAGE.view != 'song')
+        document.getElementById('page_footer').innerHTML = 
     '<p class="mtext cfloat">'+
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE);" class="nopad bigger">&#8634;</button></p>';
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE);" class="nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 

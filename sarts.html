@@ -56,25 +56,38 @@ img.av { width: 50px; height: auto; }
     return tmpl;
   }
 
+  function addPageContent(arts, page){
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.arts = arts.slice(page.bottom, page.top);
+    for(var i=0; i<page.arts.length; i++){
+      document.getElementById('page_content').innerHTML +=
+    '<div id="art'+(i+page.counter)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+page.counter+1)+'</div>';
+    }
+    page.counter += page.arts.length;
+    page.num++;
+    return page.arts.length == 0;
+  }
+
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
-    var arts = SUBJ,
-        songs = TITLES;
+    window.PAGE = { 
+      per: 10, // blocks 1 page
+      num: urlParams().page||0, // start num page 
+      counter: 0 // end num page
+    };
+    window.ARTS = SUBJ;
+    window.SONGS = TITLES;
     document.getElementById('page_header').innerHTML = 
-  '<p class="mtext hspace">Найдено <b><i>'+arts.length+'</i></b> авторов и <b><i>'+songs.length+'</i></b> текстов </p>';
-    arts = arts.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
-    var per_page = 100,
-        page_num = urlParams().page||1,
-        page_bottom = (page_num-1)*per_page,
-        page_top = page_bottom+per_page;
-    var page_arts = arts.slice(page_bottom, page_top);
+  '<p class="mtext hspace">Найдено <b><i>'+ARTS.length+'</i></b> авторов и <b><i>'+SONGS.length+'</i></b> текстов </p>';
+    ARTS = ARTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
+
     document.getElementById('page_content').innerHTML = '';
-    for(var i=0; i<page_arts.length; i++){
-      document.getElementById('page_content').innerHTML +=
-    '<div id="art'+i+'" class="wrap">'+addArt(page_arts[i], page_bottom+i+1)+'</div>'
-    }
-    if (page_arts.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(arts, per_page, page_num);
+    addPageContent(ARTS, PAGE);
+    if (PAGE.arts.length){
+      document.getElementById('page_footer').innerHTML = 
+    '<p class="mtext cfloat">'+
+      '<button onclick="this.disabled = addPageContent(ARTS, PAGE);" class="nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
     } else {
       document.getElementById('page_content').innerHTML += 
     '<div class="mtext hspace">Нет данных </div>'+addImgConfuse();
