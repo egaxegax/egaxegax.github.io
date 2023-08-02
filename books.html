@@ -81,9 +81,9 @@
     '<td colspan="3">'+
       '<p>'+
         (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
-          '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a>'
-        :r)+
-      '</p>'+
+          '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></p>'
+        : r+'</p>' + 
+          '<p><a class="nodecor hspace smaller" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></p>')+
     '</td></tr><tr class="smaller">'+
     '<td align="center" class="gray smaller"><i>'+buildDate(p.title[3])+'</i></td>'+
     '<td></td>'+
