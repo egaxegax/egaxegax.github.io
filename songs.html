@@ -44,10 +44,10 @@ td.av { width:50px; color: #aaa; }
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
-<div class="main"><div  class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
+<div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<div class="main"><div  class="ya_rtb2" id="yandex_rtb_R-A-2277013-2"></div></div>
+<div class="main"><div class="ya_rtb2" id="yandex_rtb_R-A-2277013-2"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
@@ -209,7 +209,7 @@ td.av { width:50px; color: #aaa; }
         '<td class="hspace"><p>На сайте <b><i>$COUNT</i></b> текстов разных &emsp;<a href="/sarts.html">Авторов</a> &nbsp; '+
           '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a></p></td>'+
         '<td align="right">'+
-          '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '<input id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         '</td>'+
       '</tr></table>';
     for(var p in urlParams()){
@@ -239,9 +239,7 @@ td.av { width:50px; color: #aaa; }
           page_header = 
         '<p>'+
           '<h2 class="nomarg nopad grid">'+
-            '<div class="hspace" style="width:99%"><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
-              '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-            '</div>'+
+            '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<div class="hspace">'+SONGS[0][2]+'</div>'+
           '</h2>'+
         '</p>';
@@ -255,8 +253,8 @@ td.av { width:50px; color: #aaa; }
           PAGE.view = 'list';
           page_header = 
         '<p>'+
-          '<h2 class="nomarg nopad hspace">'+
-            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
+          '<h2 class="nomarg nopad">'+
+            '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
             '<span class="gray smaller"><i class="smaller counter"> ('+ SONGS.length+') </i></span>'+
           '</h2> '+
         '</p>';
@@ -274,7 +272,7 @@ td.av { width:50px; color: #aaa; }
       if(PAGE.view != 'song')
         document.getElementById('page_footer').innerHTML = 
     '<p class="mtext cfloat">'+
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE);" class="nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 
