@@ -1,13 +1,13 @@
 <!--2020-09-05 01:04:54-->
   
-Intro: ***D***  
+*Intro:* ***D***  
   
   ***D   Dsus4    D***  
 When it's love you give  
 (I'll be a man of good faith.)  
   ***D   Dsus4    D***  
 then in love you live.  
-(I'll make a stand. I won't break.)  
+(I'll make a stand I won't break.)  
   ***D/F#           G***  
 I'll be the rock you can build on,  
   ***D/A***  
@@ -24,7 +24,7 @@ from the wind and the rain,
   ***A    Asus4   A***  
 from the hurt and pain.  
   
-Chorus:  
+*Chorus:*  
 ***D   Em7   D/F#*** (N.C.)  
 
   ***D/F#         G***  
@@ -48,7 +48,7 @@ I'll be there when you need me.
 When honor's at stake,  
 this vow I will make.   
   
-Chorus
+*Chorus*
   
 That it's all for one and all for love.  
 Let the one be the one you want,  
@@ -58,7 +58,7 @@ When there's someone that should know
 then just let your feelings show  
 and make it all for one and all for love.  
   
-Bridge:  
+*Bridge:*  
   
   ***Bm      G***  
 Don't lay our love to rest  
@@ -71,8 +71,8 @@ more than the rivers that run the land.
   ***G          A***  
 We've got it all in our hands.  
   
-SOLO  
+*SOLO*  
   
-Chorus: (Same as before except where chords shown)  
+*Chorus:* (Same as before except where chords shown)  
   
 Now it's all for one and all for love.
