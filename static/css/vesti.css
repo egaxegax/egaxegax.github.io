@@ -13,3 +13,4 @@ input[type=text], input[type=password], input[type=number], textarea, select {
   background-color:#404040; color:#fff; }
 #header { background-color:transparent; border:0px solid #404040; border-top:0; }
 #yearlist { color: #ffbc00; }
+img { max-width:100%; }

@@ -118,7 +118,7 @@
         '<td class="hspace"><p>На сайте <b><i>$COUNT</i></b> описаний книг разных &emsp; <a href="/bwrts.html"> Авторов</a> &nbsp; '+
           '<a href="/bgenres.html">Жанров</a></p></td>'+
         '<td align="right">'+
-          '<input id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         '</td>'+
       '</tr></table>';
     for(var p in urlParams()){
@@ -188,8 +188,8 @@
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
 
-    var page_num = urlParams().page||1,
-        page_bottom = (page_num-1)*per_page,
+    var page_num = urlParams().page||0,
+        page_bottom = (page_num)*per_page,
         page_top = page_bottom+per_page;
     var page_titles = books.slice(page_bottom, page_top);
 
@@ -213,7 +213,7 @@
       });
     }
     if (page_titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(books, per_page, page_num);
+      document.getElementById('page_footer').innerHTML = addPaginator(books, {per: per_page, num: page_num});
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 

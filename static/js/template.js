@@ -10,29 +10,28 @@ function buildURL(path){
 //
 // Add body tags (header, content, footer)
 //
-function addPaginator(list, per_page, page_num){
-  per_page = parseInt(per_page);
-  page_num = parseInt(page_num);
-  var num_pages = Math.ceil(list.length / per_page ),
-      has_previous = page_num > 1,
-      has_next = page_num < num_pages,
-      previous_page_number = page_num - 1,
-      next_page_number = page_num + 1;
+function addPaginator(list, page, page_btn){
+  var page_num = parseInt(page.num);
+  var num_pages = Math.ceil(list.length / page.per),
+      has_previous = page_num > 0,
+      has_next = page_num < (num_pages-1),
+      previous_page_num = page_num - 1,
+      next_page_num = page_num + 1;
   var root = 
 '<p class="mtext cfloat">'+
 (has_previous ? 
-  '<a class="nodecor" href="?'+urlBuild({page: previous_page_number})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
+  '<a class="nodecor" href="?'+urlBuild({page: previous_page_num})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
 : 
 (has_next ? 
   '<span class="gray"><span class="bigger2">&larr;&emsp;</span> </span>'
 : 
   ''))+
 (num_pages > 1 ?
-  '<span> <b><i>'+String(page_num)+'</i></b> &nbsp; из &nbsp; <b><i>'+String(num_pages)+'</i></b> </span>'
+  '<span> <b><i>'+String(page_num+1)+'</i></b> &nbsp; '+(page_btn||'из')+' &nbsp; <b><i>'+String(num_pages)+'</i></b> </span>'
 :
   '')+
 (has_next ? 
-  '<a class="nodecor" href="?'+urlBuild({page: next_page_number})+'"> <span class="bigger2">&emsp;&rarr;</span></a>'
+  '<a class="nodecor" href="?'+urlBuild({page: next_page_num})+'"> <span class="bigger2">&emsp;&rarr;</span></a>'
 :
 (has_previous ?
   '<span class="gray"> <span class="bigger2">&emsp;&rarr;</span></span>'

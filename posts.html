@@ -124,8 +124,8 @@ egax@bk.ru, 2020.
     }
 
     var per_page = 4,
-        page_num = urlParams().page||1,
-        page_bottom = (page_num-1)*per_page,
+        page_num = urlParams().page||0,
+        page_bottom = (page_num)*per_page,
         page_top = page_bottom+per_page;
     var page_titles = posts.slice(page_bottom, page_top);
 
@@ -153,7 +153,7 @@ egax@bk.ru, 2020.
     }
 
     if (page_titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(posts, per_page, page_num);
+      document.getElementById('page_footer').innerHTML = addPaginator(posts, {per: per_page, num: page_num});
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 
