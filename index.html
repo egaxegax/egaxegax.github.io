@@ -58,12 +58,10 @@ code { white-space: pre-wrap; }
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<table width="99%" class="mtext collapse"><tr>'+
-  '<td id="vestiheader" class="hspace"><p>Краткая хроника изменений на сайте и не только.</p></td>'+
-  '<td align="right">'+
-    '<select id="yearlist"></select>'+
-  '</td>'+
-'</tr></table>';
+'<p class="mtext hspace">'+
+    '<select class="rfloat" id="yearlist"></select>'+
+  '<span id="vestiheader">Краткая хроника изменений на сайте и не только.</span>'+
+'</p>';
   document.getElementById('page_content').innerHTML =
 '<img class="hspace1 rounded" src="/static/img/loader.gif">';
 
@@ -134,7 +132,7 @@ code { white-space: pre-wrap; }
       }
     }
     document.getElementById('vestiheader').innerHTML =
-  '<p>Сводка изменений и событий в <i><b>'+MSGS.length+'</b></i> записках.</p>';
+  'Сводка изменений и событий в <i><b>'+MSGS.length+'</b></i> записках.';
     document.getElementById('yearlist').innerHTML =
   '<option value="-1"'+(ysel == -1 ? ' selected ' : '')+'> Все </option>';
     for(var k in SUBJ){

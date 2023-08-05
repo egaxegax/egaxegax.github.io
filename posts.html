@@ -88,12 +88,10 @@ egax@bk.ru, 2020.
         subjects = SUBJ,
         posts = TITLES,
         page_header = 
-    '<table width="99%" class="mtext collapse"><tr>'+
-      '<td class="hspace"><p>Заметки, статьи, цитаты на разные &emsp; <a href="/psubj.html">Темы</a></p></td>'+
-      '<td align="right">'+
-        '<input id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-      '</td>'+
-    '</tr></table>';
+      '<p class="mtext hspace">'+
+         '<input class="rfloat" id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        'Заметки, статьи, цитаты на разные &emsp; <a href="/psubj.html">Темы</a>'+
+      '</p>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page

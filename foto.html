@@ -41,12 +41,10 @@ img:hover { border:2px yellow solid }
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<table width="99%" class="mtext collapse"><tr>'+
-  '<td id="foto_header" class="hspace"><p>Загружаем последнюю фотку из альбома.</p></td>'+
-  '<td align="right">'+
-    '<select id="albumlist"></select>'+
-  '</td>'+
-'</tr></table>';
+'<p class="mtext hspace">'+
+   '<select class="rfloat" id="albumlist"></select>'+
+  '<span id="foto_header">Загружаем последнюю фотку из альбома.</span>'+
+'</p>';
   document.getElementById('page_content').innerHTML = 
 '<div class="wrap">'+
   '<div id="mcol" style="height:'+(document.getElementById('page_content').offsetHeight)+'px"></div>'+

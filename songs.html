@@ -213,13 +213,11 @@ td.av { width:50px; color: #aaa; }
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
     var page_header = 
-      '<table width="99%" class="mtext collapse"><tr>'+
-        '<td class="hspace"><p>На сайте <b><i>$COUNT</i></b> текстов разных &emsp;<a href="/sarts.html">Авторов</a> &nbsp; '+
-          '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a></p></td>'+
-        '<td align="right">'+
-          '<input id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        '</td>'+
-      '</tr></table>';
+      '<p class="mtext hspace">'+
+         '<input class="rfloat" id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        'На сайте <b><i>$COUNT</i></b> текстов разных &emsp;<a href="/sarts.html">Авторов</a> &nbsp; '+
+          '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>'+
+      '</p>'
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
