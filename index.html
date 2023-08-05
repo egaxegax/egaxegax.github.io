@@ -113,9 +113,9 @@ code { white-space: pre-wrap; }
   upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 4, // blocks 1 page
+      per: 4,                   // blocks 1 page
       num: urlParams().page||0, // start num page 
-      counter: 0 // end num page
+      counter: 0                // end num page
     };
     window.MSGS = TITLES;
     var ysel = -1;
@@ -152,7 +152,7 @@ code { white-space: pre-wrap; }
     if (PAGE.titles.length){
       document.getElementById('page_footer').innerHTML = 
     '<p class="mtext cfloat">'+
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE);" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += 

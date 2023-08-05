@@ -157,6 +157,15 @@ td.av { width:50px; color: #aaa; }
         }
       });
     }
+    if(page.titles.length){
+      if(page.view != 'song')
+        document.getElementById('page_footer').innerHTML = addPaginator(songs, page,
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    } else {
+      updateMetaTag('robots', 'noindex');
+      document.getElementById('page_content').innerHTML += 
+    '<div class="mtext hspace">Нет данных </div><br>'+addImgConfuse();
+    }    
     page.counter += page.titles.length;
     page.num++;
     return page.titles.length == 0;
@@ -197,12 +206,11 @@ td.av { width:50px; color: #aaa; }
 
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
-    window.PAGE = { 
-      per: 8, // blocks 1 page
-      view: 'last',
-      num: urlParams().page||0, // start num page 
-      counter: 0 // end num page
-    };
+    window.PAGE = {};
+    PAGE.per = 8;                   // blocks 1 page
+    PAGE.view = 'last';
+    PAGE.num = urlParams().page||0; // start num page 
+    PAGE.counter = (urlParams().page*PAGE.per)||0 // end num page
     window.SONGS = TITLES;
     var page_header = 
       '<table width="99%" class="mtext collapse"><tr>'+
@@ -268,16 +276,6 @@ td.av { width:50px; color: #aaa; }
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
-    if (PAGE.titles.length){
-      if(PAGE.view != 'song')
-        document.getElementById('page_footer').innerHTML = 
-    '<p class="mtext cfloat">'+
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
-    } else {
-      updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += 
-    '<div class="mtext hspace">Нет данных</div>'+addImgConfuse();
-    }
   });
 
 </script>
