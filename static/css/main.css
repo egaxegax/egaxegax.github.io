@@ -34,7 +34,7 @@
 .main { margin:0px auto 0px auto; max-width:800px; }
 #header { text-align:center; border-radius:2px; background-color:#d2e0f0; }
 #header img { width:100px; height:40px; color:transparent; }
-#page_content { min-height:400px; }
+#page_content { min-height:300px; }
 #page_footer button { height:50px; width:50px; border:1px solid #ccc; }
 #footer { width:100%; }
 #livecounter { text-align: right; }
