@@ -151,8 +151,7 @@ code { white-space: pre-wrap; }
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
     } else {
       updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += 
-    '<div class="mtext hspace">Нет данных </div>'+addImgConfuse();
+      document.getElementById('page_content').innerHTML += addImgConfuse();
     }
   });
 

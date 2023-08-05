@@ -165,8 +165,7 @@ td.av { width:50px; color: #aaa; }
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button></p>' : '';
     } else {
       updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += 
-    '<div class="mtext hspace">Нет данных </div><br>'+addImgConfuse();
+      document.getElementById('page_content').innerHTML += addImgConfuse();
     }    
     page.num++;
     return page.titles.length == 0;
@@ -214,7 +213,7 @@ td.av { width:50px; color: #aaa; }
     window.SONGS = TITLES;
     var page_header = 
       '<p class="mtext hspace">'+
-         '<input class="rfloat" id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+         '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         'На сайте <b><i>$COUNT</i></b> текстов разных &emsp;<a href="/sarts.html">Авторов</a> &nbsp; '+
           '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>'+
       '</p>'

@@ -154,8 +154,7 @@ egax@bk.ru, 2020.
       document.getElementById('page_footer').innerHTML = addPaginator(posts, {per: per_page, num: page_num});
     } else {
       updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += 
-    '<div class="mtext hspace">Нет данных</div>'+addImgConfuse();
+      document.getElementById('page_content').innerHTML += addImgConfuse();
     }
   });
 
