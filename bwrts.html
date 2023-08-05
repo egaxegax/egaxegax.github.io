@@ -70,7 +70,7 @@ img.av { width: 100%; height: auto; }
     page.wrts = wrts.slice(page.bottom, page.top);
     for(var i=0; i<page.wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="wrt'+(i+page.counter)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>'
+    '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>'
     }
     if (page.wrts.length){
       document.getElementById('page_footer').innerHTML = addPaginator(wrts, page,
@@ -79,7 +79,6 @@ img.av { width: 100%; height: auto; }
       document.getElementById('page_content').innerHTML += 
     '<div class="mtext hspace">Нет данных </div><br>'+addImgConfuse();
     }
-    page.counter += page.wrts.length;
     page.num++;
     return page.wrts.length == 0;
   }
@@ -87,9 +86,8 @@ img.av { width: 100%; height: auto; }
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 20,                  // blocks 1 page
-      num: urlParams().page||0, // start num page 
-      counter: 0                // end num page
+      per: 20,                 // blocks 1 page
+      num: urlParams().page||0 // start num page 
     };
     window.WRTS = SUBJ,
     window.BOOKS = TITLES;

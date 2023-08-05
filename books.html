@@ -106,14 +106,52 @@
   '</table>';
   }
 
+  function addPageContent(roots, wrts, books, page){
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = books.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = wrts[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="book'+(i+page.bottom)+'">'+
+      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'book'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          wrap.className = 'wrap';
+          (p.title[2] == 'about') ? addAbout(r,p) : 
+            page.view == 'book' ? addLast(r,p) :
+            page.view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
+        }
+      });
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = 
+        (page.view == 'list') ? addPaginator(songs, page,
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>') :
+        (page.view == 'last') ? '<p class="mtext cfloat">'+
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button></p>' : '';
+    } else {
+      updateMetaTag('robots', 'noindex');
+      document.getElementById('page_content').innerHTML += 
+    '<div class="mtext hspace">Нет данных </div><br>'+addImgConfuse();
+    }    
+    page.num++;
+    return page.titles.length == 0;
+  }
+
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
-    var roots = ROOTS,
-        wrts = SUBJ,
-        books = TITLES;
-    var per_page = 4,
-        page_view = 'last',
-        page_header = 
+    window.PAGE = {};
+    PAGE.per = 4;
+    PAGE.view = 'last';
+    PAGE.num = urlParams().page||0; // start num page 
+    window.BOOKS = TITLES;
+    var page_header = 
       '<table width="99%" class="mtext collapse"><tr>'+
         '<td class="hspace"><p>На сайте <b><i>$COUNT</i></b> описаний книг разных &emsp; <a href="/bwrts.html"> Авторов</a> &nbsp; '+
           '<a href="/bgenres.html">Жанров</a></p></td>'+
@@ -128,97 +166,66 @@
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // ?find
-        books = books.filter(function(tit){ 
-          return wrts[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+        BOOKS = BOOKS.filter(function(tit){ 
+          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        books = books.sort(function(a,b){ return arraySort(a[2],b[2]); });
-        if(books.length){ 
-          page_view = 'last';
+        BOOKS = BOOKS.sort(function(a,b){ return arraySort(a[2],b[2]); });
+        if(BOOKS.length){ 
+          PAGE.view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+books.length+')</i></p>';
-          document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
+        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></p>';
+          document.title = SUBJ[BOOKS[0][0]][0] + ', книги, тексты - ' + document.title;
         }
-        per_page = 100;
+        PAGE.per = 20;
       }else if(pp.length>1){ // ?wrt/book
-        books = books.filter(function(tit){ return (tr(wrts[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
-        if(books.length){
-          page_view = 'book';
+        BOOKS = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
+        if(BOOKS.length){
+          PAGE.view = 'book';
           page_header = 
         '<p>'+
           '<h2 class="nomarg nopad grid">'+
-            '<a class="nodecor hspace" href="/books.html?'+tr(wrts[books[0][0]][0])+'">'+wrts[books[0][0]][0]+'</a> '+
-            '<span class="hspace">'+books[0][2]+'</span>'+
+            '<a class="nodecor hspace" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
+            '<span class="hspace">'+BOOKS[0][2]+'</span>'+
           '</h2>'+
         '</p>';
-          document.title = wrts[books[0][0]][0] + ', ' + books[0][2] + ' - ' + document.title;
-          books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
+          document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
+          BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
         }
       }else if(pp.length>0){ // ?wrt ?genre
         var gnr, wrt;
-        books = [].concat( 
-          gnr = books.filter(function(tit){ return (tr(roots[tit[4]][0]) == pp[0]); }), // filter by genres
-          wrt = books.filter(function(tit){ return (tr(wrts[tit[0]][0]) == pp[0]); }) // filter by writer
+        BOOKS = [].concat( 
+          gnr = BOOKS.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }), // filter by genres
+          wrt = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }) // filter by writer
         );
-        books = books.sort(function(a,b){ return arraySort(a[2],b[2]); });
-        if(books.length){ 
-          page_view = 'list';
+        BOOKS = BOOKS.sort(function(a,b){ return arraySort(a[2],b[2]); });
+        if(BOOKS.length){ 
+          PAGE.view = 'list';
           page_header = 
         '<p>'+
           '<h2 class="nomarg nopad">'+
             '<a class="nodecor hspace" href="'+
-              (wrt.length>0 ? '/books.html?'+tr(wrts[books[0][0]][0]) : '') + '">'+
-              (wrt.length>0 ? wrts[books[0][0]][0] : GENRES[roots[books[0][4]][0]]||roots[books[0][4]][0]) +
+              (wrt.length>0 ? '/BOOKS.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
+              (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
             '</a> &emsp; '+
-            '<span class="gray smaller"><i class="counter smaller">('+ books.length+')</i></span>'+
+            '<span class="gray smaller"><i class="counter smaller">('+ BOOKS.length+')</i></span>'+
           '</h2>'+
         '</p>';
           if(gnr.length>0){
-            document.title = (GENRES[roots[books[0][4]][0]]||roots[books[0][4]][0]) + ', книги, тексты - ' + document.title;
+            document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ', книги, тексты - ' + document.title;
           }
           if(wrt.length>0){
-            document.title = wrts[books[0][0]][0] + ', книги, тексты - ' + document.title;
-            books = [[books[0][0],books[0][1],'about',0,books[0][4]]].concat(books);  // +about page
+            document.title = SUBJ[BOOKS[0][0]][0] + ', книги, тексты - ' + document.title;
+            BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
           }
         }
-        per_page = 100;
+        PAGE.per = 10;
       }
     }
 
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
-
-    var page_num = urlParams().page||0,
-        page_bottom = (page_num)*per_page,
-        page_top = page_bottom+per_page;
-    var page_titles = books.slice(page_bottom, page_top);
-
-    for(var i=0; i<page_titles.length; i++){
-      var subj = wrts[page_titles[i][0]][0],
-          root = roots[page_titles[i][4]][0],
-          title = page_titles[i][2];
-      document.getElementById('page_content').innerHTML += 
-    '<div id="book'+i+'">'+
-      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
-    '</div>';
-      upfunc({id: 'book'+i, if: i==1, i: page_bottom+i, root: root, subj: subj, title: page_titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
-        var wrap = document.getElementById(p.id);
-        wrap.innerHTML = '';
-        if(st == 200) { // skip Not Found pages
-          wrap.className = 'wrap';
-          (p.title[2] == 'about') ? addAbout(r,p) : 
-          page_view == 'book' ? addLast(r,p) :
-          page_view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
-        }
-      });
-    }
-    if (page_titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(books, {per: per_page, num: page_num});
-    } else {
-      updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += 
-    '<div class="mtext hspace">Нет данных </div>'+addImgConfuse();
-    }
+    addPageContent(ROOTS, SUBJ, BOOKS, PAGE);
   });
 
 </script>

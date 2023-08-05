@@ -96,16 +96,15 @@ code { white-space: pre-wrap; }
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
-    '<div id="msg'+(i+page.counter)+'">'+
+    '<div id="msg'+(i+page.bottom)+'">'+
       (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'msg'+(i+page.counter), i: 1+(i+page.counter), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
+      upfunc({id: 'msg'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addMsg(r,p);
       });
     }
-    page.counter += page.titles.length;
     page.num++;
     return page.titles.length == 0;
   }
@@ -113,9 +112,8 @@ code { white-space: pre-wrap; }
   upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 4,                   // blocks 1 page
-      num: urlParams().page||0, // start num page 
-      counter: 0                // end num page
+      per: 4,                  // blocks 1 page
+      num: urlParams().page||0 // start num page 
     };
     window.MSGS = TITLES;
     var ysel = -1;

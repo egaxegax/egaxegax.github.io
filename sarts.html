@@ -67,7 +67,7 @@ img.av { width: 50px; height: auto; }
     page.arts = arts.slice(page.bottom, page.top);
     for(var i=0; i<page.arts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="art'+(i+page.counter)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
+    '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
     }
     if (page.arts.length){
       document.getElementById('page_footer').innerHTML = addPaginator(arts, page,
@@ -76,7 +76,6 @@ img.av { width: 50px; height: auto; }
       document.getElementById('page_content').innerHTML += 
     '<div class="mtext hspace">Нет данных </div><br>'+addImgConfuse();
     }
-    page.counter += page.arts.length;
     page.num++;
     return page.arts.length == 0;
   }
@@ -84,9 +83,8 @@ img.av { width: 50px; height: auto; }
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 20,                  // blocks 1 page
-      num: urlParams().page||0, // start num page 
-      counter: 0                // end num page
+      per: 20,                 // blocks 1 page
+      num: urlParams().page||0 // start num page 
     };
     window.ARTS = SUBJ;
     window.SONGS = TITLES;
