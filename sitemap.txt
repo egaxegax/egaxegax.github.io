@@ -2659,6 +2659,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?adams_bryan
+https://egaxegax.github.io/songs.html?adams_bryan/always_have_always_will
 https://egaxegax.github.io/songs.html?mumij_troll
 https://egaxegax.github.io/songs.html?mumij_troll/deserty
 https://egaxegax.github.io/songs.html?avtograf
@@ -3655,7 +3657,6 @@ https://egaxegax.github.io/songs.html?gyndul_mycej/my_christmas_day
 https://egaxegax.github.io/songs.html?sektor_gaza/domoj
 https://egaxegax.github.io/songs.html?kashin_pavel/v_svete_svechi
 https://egaxegax.github.io/songs.html?chij_i_ko/vihma_sajab
-https://egaxegax.github.io/songs.html?adams_bryan
 https://egaxegax.github.io/songs.html?adams_bryan/summer_of_69
 https://egaxegax.github.io/songs.html?delfin/vot_i_vse
 https://egaxegax.github.io/songs.html?korn/fake

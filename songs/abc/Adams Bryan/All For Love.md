@@ -7,7 +7,7 @@ When it's love you give
 (I'll be a man of good faith.)  
   ***D   Dsus4    D***  
 then in love you live.  
-(I'll make a stand I won't break.)  
+(I'll make a stand, I won't break.)  
   ***D/F#           G***  
 I'll be the rock you can build on,  
   ***D/A***  
