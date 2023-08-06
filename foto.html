@@ -13,14 +13,12 @@
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="canonical" href="foto.html">
 <style>
-img { border:2px transparent solid }
-img:hover { border:2px yellow solid }
-#page_content { min-height:370px; }
+img { max-width:80%; max-height:500px; border-radius:4px; }
+.wrap { background-color:rgb(245,250,245); }
 </style>
 <script defer src="/static/js/metrics.js"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
-<script src="/static/js/3rdparty/dbcartasvg.js"></script>
 </head>
 <body>
 <div id="header" class="main nowrap scroll">
@@ -34,6 +32,10 @@ img:hover { border:2px yellow solid }
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
+<p class="cfloat smaller gray hspace">
+  <i>P.S.</i> Подборка различных фоток, снятых на телефон или взятых из свободных источников. &nbsp; 
+  <a href="/fotki.html">Ещё фотки</a>
+</p>
 <table id="footer" class="main"><tr>
 <td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
 <td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
@@ -47,85 +49,96 @@ img:hover { border:2px yellow solid }
   '<span id="foto_header">Загружаем последнюю фотку из альбома.</span>'+
 '</p>';
   document.getElementById('page_content').innerHTML = 
-'<div class="wrap">'+
-  '<div id="mcol" style="height:'+(document.getElementById('page_content').offsetHeight)+'px"></div>'+
-'</div>';
-  document.getElementById('page_footer').innerHTML = 
-'<div class="wrap">'+
-  '<div id="mlist" class="main nowrap scroll"></div>'+
-'</div>'+
-'<p class="cfloat smaller gray hspace">'+
-  '<i>P.S.</i> Подборка различных фоток, снятых на телефон или взятых из свободных источников. &nbsp; '+
-  '<a href="/fotki.html">Ещё фотки</a>'+
-'</p>';
+'<img class="hspace1 rounded" src="/static/img/loader.gif">';
 
-  var childs=[];
-  var DC = new dbCartaSvg({
-    id:'mcol',
-    bg: 'rgb(240,245,240)',
-    sbar: false,
-    height: document.getElementById('mcol').offsetHeight
-  });
+  function addFoto(p){
+    var html = 
+  '<p>'+p.title[2]+'</p>'+
+  '<a href="'+p.url+'">'+
+    '<img src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
+  '</a>'; 
+    var meta = document.head.getElementsByTagName('meta');
+    for(var j in meta){
+      if(meta[j].name == 'description' && p.if) meta[j].content = p.title[2]+', '+ p.subj;
+    }
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext">'+html+'</div>'+
+  '<div class="msgfooter">'+
+    '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
+    '<a class="nodecor hspace" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
+    '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
+  '</div>';
+  }
 
-  var img = new Image();
-  img.onload = function() {
-    for(var i=0; i<childs.length; i++)
-      DC.vp.removeChild(childs[i]);
-    childs = [];
-    var ratio = this.width/this.height,
-        vs = DC.viewsizeOf();  // map sizes degrees
-    var crds = [[-vs[1]*ratio,vs[1]],[-vs[3]*ratio,vs[3]]],
-        pts = [DC.toPoints(crds[1]), DC.toPoints(crds[0])];
-    var img = DC.append('image', {
-      width:  pts[0][0]-pts[1][0],
-      height: pts[0][1]-pts[1][1],
-      x: pts[1][0],
-      y: pts[1][1],
-      preserveAspectRatio:'none'
-    });
-    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', this.src);
-    DC.attr(img, { cursor: 'pointer' });
-    childs.push(img);  
-    document.title = 'Фотки / Сайт Григория Еремина - ' + this.title;
-    document.getElementById('foto_header').innerHTML = '<p>' + this.title + '</p>';    
-  };
+  function addPageContent(roots, subjects, fotos, page){
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = fotos.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = subjects[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="foto'+(i+page.bottom)+'">'+
+      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      (function(p){
+        var wrap = document.getElementById(p.id);
+        wrap.className = 'wrap';
+        addFoto(p);
+      })({id: 'foto'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('foto')+'/'+root+'/'+subj+'/'+title+'.jpg'});
+    }
+    if (page.titles.length){
+      document.getElementById('page_footer').innerHTML = 
+    '<p class="mtext cfloat">'+
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button></p>';
+    } else {
+      updateMetaTag('robots', 'noindex');
+      document.getElementById('page_content').innerHTML += addImgConfuse();
+    }
+    page.num++;
+    return (page.titles.length == 0);
+  }
 
   upfunc({url: buildURL('foto')+'/index.js'}, function(s){
     eval(s);
+    window.PAGE = { 
+      per: 1,                  // blocks 1 page
+      num: urlParams().page||0 // start num page 
+    };
+    window.FOTOS = TITLES;
+    var album = -1;
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(p == 'page' && urlParams().page){ // ?page
+        // skip paginate
+      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
+        // skip ya.ru search
+      }else if(pp.length>1){ // ?alb/foto
+        FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
+        if(FOTOS.length) document.title = document.title.replace('/', ' от ' + buildDate(FOTOS[0][3]).split('&nbsp;')[0] + ' / ');
+        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
+      }else if(pp.length>0){ // ?alb
+        FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });
+        if(FOTOS.length) document.title = document.title.replace('/', ' за ' + SUBJ[FOTOS[0][0]][0] + ' / ');
+        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
+      }
+    }
+    document.getElementById('foto_header').innerHTML =
+  'Многообразие окружающего мира в <i><b>'+FOTOS.length+'</b></i> фотографиях.';
+    document.getElementById('albumlist').innerHTML =
+  '<option value="-1"'+(album == -1 ? ' selected ' : '')+'> Все ['+TITLES.length+']</option>';
     for(var k in SUBJ){
       var falb = TITLES.filter(function(f){ return (f[0] == k); });
       document.getElementById('albumlist').innerHTML +=
-    '<option value="'+k+'"'+(k == TITLES[0][0] ? ' selected ' : '')+'>'+
-      SUBJ[k][0]+' ['+falb.length+']'+
-    '</option>';
+    '<option value="'+SUBJ[k][0]+'"'+(k == album ? ' selected ' : '')+'>'+SUBJ[k][0]+' ['+falb.length+']</option>';
     }
     document.getElementById('albumlist').onchange = function(){
-      var opt = this.options[this.selectedIndex],
-          urls = TITLES.filter(function(a){ return a[0] == opt.value; });
-      document.getElementById('mlist').innerHTML = '';
-      for(var i in urls) {
-        var im = new Image();
-        im.style.cursor = 'pointer';
-//        im.width = 100;
-        im.alt = i;
-        im.fullsrc = '/foto/' + ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/'+ urls[i][2] + '.jpg';
-        im.src = '/foto/' + ROOTS[urls[i][4]][0]+ '/'+ SUBJ[urls[i][0]][0]+ '/th/'+ urls[i][2] + '.jpg';
-        im.title = urls[i][2];
-        im.onclick = function(){
-          img.src = this.fullsrc;       
-          img.title = this.title;
-        };
-        if(i==0) {
-          img.src = im.fullsrc; 
-          img.title = im.title;
-        };
-        im.onload = function(){ 
-          document.getElementById('mlist').appendChild(this);
-        };
-      }
-//      document.getElementById('mlist').scrollIntoView();
+      var opt = this.options[this.selectedIndex];
+      window.location = '/foto.html' + (opt.value == '-1' ? '' : '?' + opt.value);
     };
-    document.getElementById('albumlist').onchange();
+    document.getElementById('page_content').innerHTML = '';
+    addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
   });
   
 </script>
