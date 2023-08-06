@@ -117,11 +117,11 @@
         // skip ya.ru search
       }else if(pp.length>1){ // ?alb/foto
         FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
-        if(FOTOS.length) document.title = document.title.replace('/', '- ' + (FOTOS[0][2]) + ' / ');
+        if(FOTOS.length) document.title = SUBJ[FOTOS[0][0]][0] +', '+ FOTOS[0][2] +' - '+ document.title;
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
       }else if(pp.length>0){ // ?alb
         FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });
-        if(FOTOS.length) document.title = document.title.replace('/', '- ' + SUBJ[FOTOS[0][0]][0] + ' / ');
+        if(FOTOS.length) document.title = SUBJ[FOTOS[0][0]][0] + ' - '+ document.title;
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
       }
     }
