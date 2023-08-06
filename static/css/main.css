@@ -35,7 +35,7 @@
 #header { text-align:center; border-radius:2px; background-color:#d2e0f0; }
 #header img { width:100px; height:40px; color:transparent; }
 #page_content { min-height:300px; }
-#page_footer button { height:50px; width:50px; }
+#page_footer button { height:50px; width:50px; background:#eee; }
 #footer { width:100%; }
 #livecounter { text-align: right; }
 #yacounter { text-align: left; }
