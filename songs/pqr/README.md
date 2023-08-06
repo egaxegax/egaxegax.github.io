@@ -40,6 +40,7 @@
 * [Robbie Williams](Robbie%20Williams)
 * [Robin Zander](Robin%20Zander)
 * [Robotech](Robotech)
+* [Rod Stewart](Rod%20Stewart)
 * [Rogers Stan](Rogers%20Stan)
 * [Rolling Stones](Rolling%20Stones)
 * [Roxette](Roxette)

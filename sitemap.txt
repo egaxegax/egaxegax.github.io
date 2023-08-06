@@ -2661,6 +2661,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?rod_stewart
+https://egaxegax.github.io/songs.html?rod_stewart/sailing
 https://egaxegax.github.io/songs.html?adams_bryan
 https://egaxegax.github.io/songs.html?adams_bryan/always_have_always_will
 https://egaxegax.github.io/songs.html?mumij_troll

@@ -82,9 +82,10 @@ for root, dirs, files in os.walk(path, topdown=False):
       if subj == 'th': 
         continue  # skip preview
       else:
-        from PIL import Image
+        from PIL import Image, ImageOps
         im = Image.open(os.path.join(root, name))
-        im.thumbnail((100,100))
+        im = ImageOps.exif_transpose(im)
+        im.thumbnail((800,600))
         if not os.path.exists(os.path.join(root, 'th')):
           os.mkdir(os.path.join(root, 'th'))
         im.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")

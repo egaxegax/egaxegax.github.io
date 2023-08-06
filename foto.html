@@ -19,12 +19,12 @@
 </head>
 <body>
 <div id="header" class="main nowrap scroll">
-<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_a.svg" onload="this.scrollIntoView()" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
-<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" alt="Книги"></a>
-<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
@@ -51,7 +51,7 @@
   function addFoto(p){
     var html = 
   '<p>'+p.title[2]+'</p>'+
-  '<a href="'+p.url+'">'+
+  '<a href="'+p.fullurl+'">'+
     '<img src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
   '</a>'; 
     var meta = document.head.getElementsByTagName('meta');
@@ -59,7 +59,7 @@
       if(meta[j].name == 'description' && p.if) meta[j].content = p.title[2]+', '+ p.subj;
     }
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext">'+html+'</div>'+
+  '<div class="msgtext cfloat">'+html+'</div>'+
   '<div class="msgfooter">'+
     '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<a class="nodecor hspace" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
@@ -83,7 +83,9 @@
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addFoto(p);
-      })({id: 'foto'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('foto')+'/'+root+'/'+subj+'/'+title+'.jpg'});
+      })({id: 'foto'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], 
+        url: buildURL('foto')+'/'+root+'/'+subj+'/th/'+title+'.jpg',
+        fullurl: buildURL('foto')+'/'+root+'/'+subj+'/'+title+'.jpg'});
     }
     if (page.titles.length){
       document.getElementById('page_footer').innerHTML = 
