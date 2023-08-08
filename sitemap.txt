@@ -2662,6 +2662,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?antonov_jurij
+https://egaxegax.github.io/songs.html?antonov_jurij/ot_pechali_do_radosti
 https://egaxegax.github.io/songs.html?rod_stewart
 https://egaxegax.github.io/songs.html?rod_stewart/sailing
 https://egaxegax.github.io/songs.html?adams_bryan
@@ -2672,7 +2674,6 @@ https://egaxegax.github.io/songs.html?avtograf
 https://egaxegax.github.io/songs.html?avtograf/tak_chasto_byvaet
 https://egaxegax.github.io/songs.html?malinin_aleksandr
 https://egaxegax.github.io/songs.html?malinin_aleksandr/ostorojno_dveri_zakryvajutsya
-https://egaxegax.github.io/songs.html?antonov_jurij
 https://egaxegax.github.io/songs.html?antonov_jurij/ne_zabyvaj_mechty_sbyvajutsya
 https://egaxegax.github.io/songs.html?stella
 https://egaxegax.github.io/songs.html?stella/devochka_bez_serdca
