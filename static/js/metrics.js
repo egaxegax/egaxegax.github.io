@@ -56,10 +56,8 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
     var sp = [].slice.call(document.getElementsByTagName('script')).pop();
     var p_dark = ((sp.getAttribute('data-dark') == null) ? true : sp.getAttribute('data-dark'));
     var p_block = Number((sp.getAttribute('data-block') == null) ? 2 : sp.getAttribute('data-block'));
-    for(var ii=1; ii<=p_block; ii++){
-      console.log({darkTheme: p_dark, blockId: `R-A-2277013-${ii}`,renderTo: `yandex_rtb_R-A-2277013-${ii}`});
-      window.yaContextCb.push(()=>{Ya.Context.AdvManager.render(
-          {darkTheme: p_dark, blockId: `R-A-2277013-${ii}`,renderTo: `yandex_rtb_R-A-2277013-${ii}`});});
-    }
+    if([1,2,3].indexOf(p_block)>-1) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-1",renderTo: "yandex_rtb_R-A-2277013-1"});});
+    if([2,3].indexOf(p_block)>-1) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-2",renderTo: "yandex_rtb_R-A-2277013-2"});});
+    if([3].indexOf(p_block)>-1) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-3",renderTo: "yandex_rtb_R-A-2277013-3"});});
 }
 }
