@@ -1,4 +1,4 @@
-* [About You](About%20You.md)
-* [Heavy Metal](Heavy%20Metal.md)
-* [Satan](Satan.md)
-* [Speeeder](Speeeder.md)
+* [About You](About%20You.txt)
+* [Heavy Metal](Heavy%20Metal.txt)
+* [Satan](Satan.txt)
+* [Speeeder](Speeeder.txt)

@@ -1,31 +1,26 @@
 //
-// main functions
-//
-function buildURL(path){
-  if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
-    return 'https://raw.githubusercontent.com/egaxegax/egaxegax.github.io/master/'+path+'/';
-  }
-  return '/'+path;
-}
-//
-// Add body tags (header, content, footer)
+// return html for paginator
 //
 function addPaginator(list, page, page_btn){
   var page_num = parseInt(page.num);
   var num_pages = Math.ceil(list.length / page.per),
       has_previous = page_num > 0,
+      has_first = (page_num == 1),
       has_next = page_num < (num_pages-1),
-      previous_page_num = page_num - 1,
+      prev_page_num = page_num - 1,
       next_page_num = page_num + 1;
   var root = 
 '<p class="mtext cfloat">'+
+(has_first ?
+  '<a class="nodecor" href=""><span class="bigger2">&larr;&emsp;</span> </a>'
+:
 (has_previous ? 
-  '<a class="nodecor" href="?'+urlBuild({page: previous_page_num})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
+  '<a class="nodecor" href="?'+urlBuild({page: prev_page_num})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
 : 
 (has_next ? 
   '<span class="gray"><span class="bigger2">&larr;&emsp;</span> </span>'
 : 
-  ''))+
+  '')))+
 (num_pages > 1 ?
   '<span> <b><i>'+String(page_num+1)+'</i></b> &nbsp; '+(page_btn||'из')+' &nbsp; <b><i>'+String(num_pages)+'</i></b> </span>'
 :
@@ -41,9 +36,9 @@ function addPaginator(list, page, page_btn){
   return (has_previous || has_next) ? root : '';
 }
 //
-// Return SVG image Not Found Page.
+// return SVG image fot '404 Not Found' page
 //
-function addImgConfuse(){
+function addNotFound(){
   return '<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
 '<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#aaa">'+
 '<path d="M110 58 Q134 48 144 56" />'+
@@ -56,16 +51,16 @@ function addImgConfuse(){
 '</svg>';
 }
 //
-// Update meta tags
+// remote/local path to sites files
 //
-function updateMetaTag(name, content){
-  var meta = document.head.getElementsByTagName('meta');
-  for(var j in meta){
-    if(meta[j].name == name) meta[j].content = content;
-  }
+function buildURL(path){
+//  if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
+//    return 'https://raw.githubusercontent.com/egaxegax/egaxegax.github.io/master/'+path+'/';
+//  }
+  return '/'+path;
 }
 //
-// Build date from 'ymdhms' to 'd.m.y h:m'
+// build date from 'ymdhms' to 'd.m.y h:m'
 //
 function buildDate(d){
   d = String(d);
@@ -74,7 +69,26 @@ function buildDate(d){
   return d;
 }
 //
-// Translater from //gist.github.com/diolavr/d2d50686cb5a472f5696.js
+// update meta tags
+//
+function updateMetaTag(name, content){
+  var meta = document.head.getElementsByTagName('meta');
+  for(var j in meta){
+    if(meta[j].name == name) meta[j].content = content;
+  }
+}
+//
+// array sort function from https://www.zachleat.com/web/array-sort/
+//
+function arraySort(aa,bb){
+  var a=( ''+aa ).toLowerCase(),
+      b=( ''+bb ).toLowerCase();
+  if(a > b) return 1;
+  if(a < b) return -1;
+  return 0;
+}
+//
+// translater from //gist.github.com/diolavr/d2d50686cb5a472f5696.js
 //
 function tr(s){
   var ru = {
@@ -96,14 +110,4 @@ function tr(s){
   }
 
   return tr.join('').toLowerCase();
-}
-//
-// Array sort function from https://www.zachleat.com/web/array-sort/
-//
-function arraySort(aa,bb){
-  var a=( ''+aa ).toLowerCase(),
-      b=( ''+bb ).toLowerCase();
-  if(a > b) return 1;
-  if(a < b) return -1;
-  return 0;
 }

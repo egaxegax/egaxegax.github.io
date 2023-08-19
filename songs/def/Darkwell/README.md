@@ -1,1 +1,1 @@
-* [Path To Salvation](Path%20To%20Salvation.md)
+* [Path To Salvation](Path%20To%20Salvation.txt)

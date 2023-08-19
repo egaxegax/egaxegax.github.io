@@ -16,7 +16,7 @@ function upfunc(p, clfunc, id){
   xhr.onreadystatechange = function() { 
     if (xhr.readyState == 4) {
       if (id) document.getElementById(id).innerHTML = xhr.responseText;
-      if (clfunc) clfunc(xhr.status == 404 ? '' : xhr.responseText, p, xhr.status);
+      if (clfunc) clfunc(xhr.status == 404 ? 'Page Not Found' : xhr.responseText, p, xhr.status);
     }
   };
   xhr.open("GET", p.url, true);
@@ -24,13 +24,7 @@ function upfunc(p, clfunc, id){
   xhr.send();
 }
 //
-// Add image to element during ajax loading
-//
-function addAjaxLoader(el){
-  if (el) el.innerHTML = '<img class="hspace1" src="/static/img/loader.gif">';
-}
-//
-// URL GET params
+// return key/value object of URL GET params
 //
 function urlParams(url) {
   var o = {}, qs = url ? url.split('?')[1] : window.location.search.slice(1);
@@ -61,17 +55,11 @@ function urlParams(url) {
   return o;
 }
 //
-// url build
+// return URL string from key/value object
 //
 function urlBuild(o){
   var href = [], par = urlParams();
   for (var k in o){ par[k] = o[k]; }
   for (var p in par){ href.push( p + (String(par[p]) ? '=' + par[p]: '') ); };
   return href.join('&');
-}
-//
-// Check empty obj
-//
-function isEmpty(o){
-  return JSON.stringify(o) === JSON.stringify({});
 }

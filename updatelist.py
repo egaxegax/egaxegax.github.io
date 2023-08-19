@@ -53,7 +53,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     if name in ('README.md', 'sitemap.txt'):
       continue
 
-    if cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
+    if cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.txt',):
       if fname == 'about':
         text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
         about = text.strip() + '\n\n'      # save about text

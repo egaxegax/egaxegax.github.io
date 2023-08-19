@@ -2,7 +2,7 @@
 
 Британский мультиинструменталист и композитор.
 
-* [Afghan](Afghan.md)
-* [Altered State](Altered%20State.md)
-* [Amarok](Amarok.md)
-* [Amber Light](Amber%20Light.md)
+* [Afghan](Afghan.txt)
+* [Altered State](Altered%20State.txt)
+* [Amarok](Amarok.txt)
+* [Amber Light](Amber%20Light.txt)

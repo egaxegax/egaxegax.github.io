@@ -1,2 +1,2 @@
-* [Hi-Fi](Hi-Fi.md)
-* [Since Yesterday](Since%20Yesterday.md)
+* [Hi-Fi](Hi-Fi.txt)
+* [Since Yesterday](Since%20Yesterday.txt)

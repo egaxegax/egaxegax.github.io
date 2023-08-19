@@ -2,4 +2,4 @@
 
 Британский рок-музыкант. Бывший участник группы *Биттлз*.
 
-* [Summertime](Summertime.md)
+* [Summertime](Summertime.txt)

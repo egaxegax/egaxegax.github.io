@@ -1,1 +1,1 @@
-* [Puppy Drink](Puppy%20Drink.md)
+* [Puppy Drink](Puppy%20Drink.txt)

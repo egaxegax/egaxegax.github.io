@@ -1,1 +1,1 @@
-* [Ghost Town](Ghost%20Town.md)
+* [Ghost Town](Ghost%20Town.txt)

@@ -1,2 +1,2 @@
-* [No fear](No%20fear.md)
-* [Sail Away](Sail%20Away.md)
+* [No fear](No%20fear.txt)
+* [Sail Away](Sail%20Away.txt)

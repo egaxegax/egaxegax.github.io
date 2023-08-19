@@ -1,1 +1,1 @@
-* [Cтpaшнaя](Cтpaшнaя.md)
+* [Cтpaшнaя](Cтpaшнaя.txt)

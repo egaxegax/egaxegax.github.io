@@ -1,1 +1,1 @@
-* [You](You.md)
+* [You](You.txt)

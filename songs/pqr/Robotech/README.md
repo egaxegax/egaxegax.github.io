@@ -1,2 +1,2 @@
-* [It's you](It's%20you.md)
-* [Together](Together.md)
+* [It's you](It's%20you.txt)
+* [Together](Together.txt)

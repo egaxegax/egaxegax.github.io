@@ -1,3 +1,3 @@
-* [Come Together](Come%20Together.md)
-* [Ангел](Ангел.md)
-* [Красная земля](Красная%20земля.md)
+* [Come Together](Come%20Together.txt)
+* [Ангел](Ангел.txt)
+* [Красная земля](Красная%20земля.txt)

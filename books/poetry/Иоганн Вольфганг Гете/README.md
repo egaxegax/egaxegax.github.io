@@ -1,8 +1,8 @@
 ![](Proserpina.jpg)  
-[Proserpina](Proserpina.md)
+[Proserpina](Proserpina.txt)
 
 ![](Рейнеке-лис.jpg)  
-[Рейнеке-лис](Рейнеке-лис.md)
+[Рейнеке-лис](Рейнеке-лис.txt)
 
 ![](Фауст.jpg)  
-[Фауст](Фауст.md)
+[Фауст](Фауст.txt)

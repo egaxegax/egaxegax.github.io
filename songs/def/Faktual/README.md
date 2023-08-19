@@ -1,1 +1,1 @@
-* [Faktual](Faktual.md)
+* [Faktual](Faktual.txt)

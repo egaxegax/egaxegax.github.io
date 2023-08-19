@@ -1,1 +1,1 @@
-* [Bad Time](Bad%20Time.md)
+* [Bad Time](Bad%20Time.txt)

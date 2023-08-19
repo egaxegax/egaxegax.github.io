@@ -1,1 +1,1 @@
-* [Эcпaньoлa](Эcпaньoлa.md)
+* [Эcпaньoлa](Эcпaньoлa.txt)

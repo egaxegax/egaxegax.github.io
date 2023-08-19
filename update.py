@@ -57,7 +57,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     if name in ('README.md', 'sitemap.txt'):
       continue
 
-    if cwd in ('songs',) and ext in ('.txt',):
+    if cwd in ('songs',) and ext in ('.md',):
       text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
       text = re.sub('[\t ]*\n', '\n', text)
       text = re.sub('(^|\n)!([\t ]*)(.*)', r'\1\2*\3*', text)
@@ -69,12 +69,12 @@ for root, dirs, files in os.walk(path, topdown=False):
       text = re.sub(' ', r' ', text)  # unicode space (html not trim)
       text = re.sub('\n', '  \n', text) # two spaces newline
       text = re.sub('(^<\!--.*-->)\n[\t ]*\n*', r'\1\n', text) # revert comments
-      open(os.path.join(root, fname + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
+      open(os.path.join(root, fname + '.txt'), 'w', encoding='utf-8', newline='\n').write(text)
       os.remove(os.path.join(root, name))
-      name = fname + '.md'
-      ext = '.md'
+      name = fname + '.txt'
+      ext = '.txt'
 
-    if cwd in ('vesti',) and ext in ('.md',):
+    if cwd in ('vesti',) and ext in ('.txt',):
       if fname != 'about': # skip about
         ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
     elif cwd in ('foto',) and ext.lower() in ('.jpg',):
@@ -89,7 +89,7 @@ for root, dirs, files in os.walk(path, topdown=False):
         if not os.path.exists(os.path.join(root, 'th')):
           os.mkdir(os.path.join(root, 'th'))
         im.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
-    elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
+    elif cwd in ('books', 'posts', 'songs') and ext in ('.txt',):
       ftime = os.path.getmtime(os.path.join(root, name))
       if fname != 'about': # skip about
         line = linecache.getline(os.path.join(root, name), 1)

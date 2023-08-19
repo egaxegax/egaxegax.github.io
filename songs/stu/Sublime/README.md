@@ -1,1 +1,1 @@
-* [Santeria](Santeria.md)
+* [Santeria](Santeria.txt)

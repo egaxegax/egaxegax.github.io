@@ -1,1 +1,1 @@
-* [Rare Diamond](Rare%20Diamond.md)
+* [Rare Diamond](Rare%20Diamond.txt)

@@ -1,1 +1,1 @@
-* [Чyдo-Ocтpoв](Чyдo-Ocтpoв.md)
+* [Чyдo-Ocтpoв](Чyдo-Ocтpoв.txt)

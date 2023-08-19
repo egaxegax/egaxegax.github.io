@@ -1,1 +1,1 @@
-* [Cкeйтboard](Cкeйтboard.md)
+* [Cкeйтboard](Cкeйтboard.txt)

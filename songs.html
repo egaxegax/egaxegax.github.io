@@ -146,7 +146,7 @@ td.av { width:50px; color: #aaa; }
     '<div id="song'+(i+page.bottom)+'">'+
       (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.txt'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -165,7 +165,7 @@ td.av { width:50px; color: #aaa; }
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button></p>' : '';
     } else {
       updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += addImgConfuse();
+      document.getElementById('page_content').innerHTML += addNotFound();
     }    
     page.num++;
     return page.titles.length == 0;

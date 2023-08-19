@@ -76,7 +76,7 @@ img.av { width: 100%; height: auto; }
       document.getElementById('page_footer').innerHTML = addPaginator(gnrs, page,
     '<button onclick="this.disabled = addPageContent(GNRS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     } else {
-      document.getElementById('page_content').innerHTML += addImgConfuse();
+      document.getElementById('page_content').innerHTML += addNotFound();
     }
     page.num++;    
     return page.gnrs.length == 0;

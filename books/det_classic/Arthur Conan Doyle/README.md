@@ -2,34 +2,34 @@
 
 
 ![](A%20Study%20in%20Scarlet.jpg)  
-[A Study in Scarlet](A%20Study%20in%20Scarlet.md)
+[A Study in Scarlet](A%20Study%20in%20Scarlet.txt)
 
 ![](Contes%20De%20Terreur.jpg)  
-[Contes De Terreur](Contes%20De%20Terreur.md)
+[Contes De Terreur](Contes%20De%20Terreur.txt)
 
 ![](His%20Last%20Bow.jpg)  
-[His Last Bow](His%20Last%20Bow.md)
+[His Last Bow](His%20Last%20Bow.txt)
 
 ![](Le%20Chien%20Des%20Baskerville.jpg)  
-[Le Chien Des Baskerville](Le%20Chien%20Des%20Baskerville.md)
+[Le Chien Des Baskerville](Le%20Chien%20Des%20Baskerville.txt)
 
 ![](Les%20Cinq%20Pépins%20D'Orange.jpg)  
-[Les Cinq Pépins D'Orange](Les%20Cinq%20Pépins%20D'Orange.md)
+[Les Cinq Pépins D'Orange](Les%20Cinq%20Pépins%20D'Orange.txt)
 
 ![](Memoirs%20of%20Sherlock%20Holmes.jpg)  
-[Memoirs of Sherlock Holmes](Memoirs%20of%20Sherlock%20Holmes.md)
+[Memoirs of Sherlock Holmes](Memoirs%20of%20Sherlock%20Holmes.txt)
 
 ![](The%20Adventures%20of%20Sherlock%20Holmes.jpg)  
-[The Adventures of Sherlock Holmes](The%20Adventures%20of%20Sherlock%20Holmes.md)
+[The Adventures of Sherlock Holmes](The%20Adventures%20of%20Sherlock%20Holmes.txt)
 
 ![](The%20Case%20Book%20of%20Sherlock%20Holmes.jpg)  
-[The Case Book of Sherlock Holmes](The%20Case%20Book%20of%20Sherlock%20Holmes.md)
+[The Case Book of Sherlock Holmes](The%20Case%20Book%20of%20Sherlock%20Holmes.txt)
 
 ![](The%20Memoirs%20of%20Sherlock%20Holmes.jpg)  
-[The Memoirs of Sherlock Holmes](The%20Memoirs%20of%20Sherlock%20Holmes.md)
+[The Memoirs of Sherlock Holmes](The%20Memoirs%20of%20Sherlock%20Holmes.txt)
 
 ![](The%20Return%20of%20Sherlock%20Holmes.jpg)  
-[The Return of Sherlock Holmes](The%20Return%20of%20Sherlock%20Holmes.md)
+[The Return of Sherlock Holmes](The%20Return%20of%20Sherlock%20Holmes.txt)
 
 ![](Une%20Étude%20En%20Rouge.jpg)  
-[Une Étude En Rouge](Une%20Étude%20En%20Rouge.md)
+[Une Étude En Rouge](Une%20Étude%20En%20Rouge.txt)

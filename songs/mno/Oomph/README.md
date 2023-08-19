@@ -1,1 +1,1 @@
-* [Supernova](Supernova.md)
+* [Supernova](Supernova.txt)

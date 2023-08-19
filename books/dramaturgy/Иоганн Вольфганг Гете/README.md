@@ -1,5 +1,5 @@
 ![](Stella.jpg)  
-[Stella](Stella.md)
+[Stella](Stella.txt)
 
 ![](Torquato%20Tasso.jpg)  
-[Torquato Tasso](Torquato%20Tasso.md)
+[Torquato Tasso](Torquato%20Tasso.txt)

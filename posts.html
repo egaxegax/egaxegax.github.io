@@ -82,12 +82,48 @@ egax@bk.ru, 2020.
     : '');
   }
 
+  function addPageContent(roots, subjects, posts, page){
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = posts.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = subjects[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="post'+(i+page.bottom)+'">'+
+      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+    '</div>';
+      upfunc({id: 'post'+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+ (title == 'README' ? '.md' : '.txt')}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          var wrap = document.getElementById(p.id);
+          wrap.className = 'wrap';
+          (p.title[2] == 'README') ? wrap.className += ' about' : '';
+          addPost(r,p);
+        }
+      });
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(posts, page,
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    } else {
+      updateMetaTag('robots', 'noindex');
+      document.getElementById('page_content').innerHTML += addNotFound();
+    }
+    page.num++;
+    return page.titles.length == 0;
+  }
+
   upfunc({url: buildURL('posts')+'/index.js'}, function(s){
     eval(s);
-    var roots = ROOTS,
-        subjects = SUBJ,
-        posts = TITLES,
-        page_header = 
+    window.PAGE = {};
+    PAGE.per = 3;  // blocks 1 page
+    PAGE.view = 'last';
+    PAGE.num = urlParams().page||0; // start num page 
+    window.POSTS = TITLES;
+    var page_header = 
       '<p class="mtext hspace">'+
          '<input class="rfloat" id="tfind" maxlength="100" size="4" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         'Заметки, статьи, цитаты на разные &emsp; <a href="/psubj.html">Темы</a>'+
@@ -99,63 +135,30 @@ egax@bk.ru, 2020.
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // search list
-        posts = posts.filter(function(tit){ 
-          return subjects[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+        POSTS = POSTS.filter(function(tit){ 
+          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+posts.length+')</i></p>';
       }else if(pp.length>1){ // ?subj/title
-        posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
-        if(posts.length){
-          document.title = posts[0][2]  + ' - ' + document.title;      
+        POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.txt').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
+        if(POSTS.length){
+          document.title = POSTS[0][2]  + ' - ' + document.title;      
         }
       }else if(pp.length>0){ // ?subj
-        posts = posts.filter(function(tit){ return (tr(subjects[tit[0]][0]) == pp[0]); }); // filter by subj
-//        posts = posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(posts.length){
-          posts = [[posts[0][0],posts[0][1],'README',0,posts[0][4]]].concat(posts); // +about page
-          document.title = subjects[ posts[0][0] ][0] + ' - ' + document.title;
+        POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by subj
+//        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(POSTS.length){
+          POSTS = [[POSTS[0][0],POSTS[0][1],'README',0,POSTS[0][4]]].concat(POSTS); // +about page
+          document.title = SUBJ[ POSTS[0][0] ][0] + ' - ' + document.title;
         }
       }
     }
 
-    var per_page = 4,
-        page_num = urlParams().page||0,
-        page_bottom = (page_num)*per_page,
-        page_top = page_bottom+per_page;
-    var page_titles = posts.slice(page_bottom, page_top);
-
-    document.getElementById('page_header').innerHTML = page_header;
     document.getElementById('page_content').innerHTML = '';
-
-    for(var i=0; i<page_titles.length; i++){
-      var subj = subjects[ page_titles[i][0] ][0],
-          root = roots[ page_titles[i][4] ][0],
-          title = page_titles[i][2];
-      document.getElementById('page_content').innerHTML += 
-    '<div id="post'+i+'">'+
-      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
-    '</div>';
-      upfunc({id: 'post'+i, if: i==0, subj: subj, title: page_titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
-        var wrap = document.getElementById(p.id);
-        wrap.innerHTML = '';
-        if(st == 200) { // skip Not Found pages
-          var wrap = document.getElementById(p.id);
-          wrap.className = 'wrap';
-          (p.title[2] == 'README') ? wrap.className += ' about' : '';
-          addPost(r,p);
-        }
-      });
-    }
-
-    if (page_titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(posts, {per: per_page, num: page_num});
-    } else {
-      updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += addImgConfuse();
-    }
+    addPageContent(ROOTS, SUBJ, POSTS, PAGE);
   });
 
 </script>

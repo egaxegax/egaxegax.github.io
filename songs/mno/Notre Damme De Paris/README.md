@@ -1,1 +1,1 @@
-* [BELLE](BELLE.md)
+* [BELLE](BELLE.txt)
