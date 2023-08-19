@@ -1,2 +1,2 @@
-* [Aфpикa](Aфpикa.txt)
-* [ДиКaпpиo](ДиКaпpиo.txt)
+* [Aфpикa](Aфpикa.md)
+* [ДиКaпpиo](ДиКaпpиo.md)

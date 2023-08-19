@@ -1,1 +1,1 @@
-* [Give Up](Give%20Up.txt)
+* [Give Up](Give%20Up.md)

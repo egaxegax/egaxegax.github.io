@@ -1,3 +1,3 @@
-* [Beat My Guest](Beat%20My%20Guest.txt)
-* [Fall-In](Fall-In.txt)
-* [Wonderful](Wonderful.txt)
+* [Beat My Guest](Beat%20My%20Guest.md)
+* [Fall-In](Fall-In.md)
+* [Wonderful](Wonderful.md)

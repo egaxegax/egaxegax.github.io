@@ -1,4 +1,4 @@
-* [Stop narcotics](Stop%20narcotics.txt)
-* [Анатом](Анатом.txt)
-* [Еду домой](Еду%20домой.txt)
-* [Призрак](Призрак.txt)
+* [Stop narcotics](Stop%20narcotics.md)
+* [Анатом](Анатом.md)
+* [Еду домой](Еду%20домой.md)
+* [Призрак](Призрак.md)

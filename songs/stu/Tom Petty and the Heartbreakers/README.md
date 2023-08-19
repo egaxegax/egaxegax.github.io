@@ -2,5 +2,5 @@
 
 Американский рок-музыкант и лидер группы *Tom Petty and the Heartbreakers*.
 
-* [Learning The Fly](Learning%20The%20Fly.txt)
-* [Mary Janes Last Dance](Mary%20Janes%20Last%20Dance.txt)
+* [Learning The Fly](Learning%20The%20Fly.md)
+* [Mary Janes Last Dance](Mary%20Janes%20Last%20Dance.md)

@@ -1,1 +1,1 @@
-* [Madrigal Love Part One](Madrigal%20Love%20Part%20One.txt)
+* [Madrigal Love Part One](Madrigal%20Love%20Part%20One.md)

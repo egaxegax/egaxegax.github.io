@@ -1,1 +1,1 @@
-* [Lights](Lights.txt)
+* [Lights](Lights.md)

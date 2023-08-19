@@ -1,1 +1,1 @@
-* [PC](PC.txt)
+* [PC](PC.md)

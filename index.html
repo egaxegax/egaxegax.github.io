@@ -97,7 +97,7 @@ code { white-space: pre-wrap; }
     '<div id="msg'+(i+page.bottom)+'">'+
       (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'msg'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.txt'}, function(r,p){
+      upfunc({id: 'msg'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addMsg(r,p);

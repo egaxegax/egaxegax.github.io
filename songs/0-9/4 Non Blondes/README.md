@@ -1,3 +1,3 @@
-* [Drifting](Drifting.txt)
-* [Spaceman](Spaceman.txt)
-* [What's Up](What's%20Up.txt)
+* [Drifting](Drifting.md)
+* [Spaceman](Spaceman.md)
+* [What's Up](What's%20Up.md)

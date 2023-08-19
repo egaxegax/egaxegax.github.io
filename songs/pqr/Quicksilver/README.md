@@ -1,1 +1,1 @@
-* [Dino's Song](Dino's%20Song.txt)
+* [Dino's Song](Dino's%20Song.md)

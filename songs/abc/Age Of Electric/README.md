@@ -1,1 +1,1 @@
-* [Remote Control](Remote%20Control.txt)
+* [Remote Control](Remote%20Control.md)

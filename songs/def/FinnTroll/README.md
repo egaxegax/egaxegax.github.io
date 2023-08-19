@@ -1,1 +1,1 @@
-* [Trollhammaren](Trollhammaren.txt)
+* [Trollhammaren](Trollhammaren.md)

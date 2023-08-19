@@ -1,3 +1,3 @@
-* [Drowin'](Drowin'.txt)
-* [Giants](Giants.txt)
-* [Go Speed Racer Go](Go%20Speed%20Racer%20Go.txt)
+* [Drowin'](Drowin'.md)
+* [Giants](Giants.md)
+* [Go Speed Racer Go](Go%20Speed%20Racer%20Go.md)

@@ -2,4 +2,4 @@
 
 Американский рок-гитарист, певец, композитор. Бывший участник группы *Whiskeytown*.
 
-* [Desire](Desire.txt)
+* [Desire](Desire.md)

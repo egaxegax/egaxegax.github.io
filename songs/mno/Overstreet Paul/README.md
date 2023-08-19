@@ -1,1 +1,1 @@
-* [Heroes](Heroes.txt)
+* [Heroes](Heroes.md)

@@ -118,7 +118,7 @@
     '<div id="book'+(i+page.bottom)+'">'+
       (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'book'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.txt'}, function(r,p,st){
+      upfunc({id: 'book'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -131,7 +131,7 @@
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = 
-        (page.view == 'list') ? addPaginator(songs, page,
+        (page.view == 'list') ? addPaginator(books, page,
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>') :
         (page.view == 'last') ? '<p class="mtext cfloat">'+
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button></p>' : '';

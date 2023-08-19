@@ -1,1 +1,1 @@
-* [Think Again](Think%20Again.txt)
+* [Think Again](Think%20Again.md)

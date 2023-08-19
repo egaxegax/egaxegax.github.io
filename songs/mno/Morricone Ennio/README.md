@@ -1,1 +1,1 @@
-* [Chi Mai](Chi%20Mai.txt)
+* [Chi Mai](Chi%20Mai.md)

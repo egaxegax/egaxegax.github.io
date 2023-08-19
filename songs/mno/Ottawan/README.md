@@ -1,1 +1,1 @@
-* [Hands Up](Hands%20Up.txt)
+* [Hands Up](Hands%20Up.md)

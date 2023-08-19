@@ -1,1 +1,1 @@
-* [To The Afterworld](To%20The%20Afterworld.txt)
+* [To The Afterworld](To%20The%20Afterworld.md)

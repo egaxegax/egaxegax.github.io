@@ -1,2 +1,2 @@
-* [Here with me](Here%20with%20me.txt)
-* [Thank You](Thank%20You.txt)
+* [Here with me](Here%20with%20me.md)
+* [Thank You](Thank%20You.md)

@@ -1,1 +1,1 @@
-* [Space Oddity](Space%20Oddity.txt)
+* [Space Oddity](Space%20Oddity.md)

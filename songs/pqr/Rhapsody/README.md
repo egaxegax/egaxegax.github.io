@@ -1,1 +1,1 @@
-* [Holy Thunderforce](Holy%20Thunderforce.txt)
+* [Holy Thunderforce](Holy%20Thunderforce.md)

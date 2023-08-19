@@ -1,1 +1,1 @@
-* [Дeкopaции](Дeкopaции.txt)
+* [Дeкopaции](Дeкopaции.md)

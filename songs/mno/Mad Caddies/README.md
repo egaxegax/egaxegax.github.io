@@ -1,2 +1,2 @@
-* [Goleta](Goleta.txt)
-* [No s](No%20s.txt)
+* [Goleta](Goleta.md)
+* [No s](No%20s.md)

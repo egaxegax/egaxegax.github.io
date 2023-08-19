@@ -1,2 +1,2 @@
-* [Come mai](Come%20mai.txt)
-* [Tieni Il Tempo](Tieni%20Il%20Tempo.txt)
+* [Come mai](Come%20mai.md)
+* [Tieni Il Tempo](Tieni%20Il%20Tempo.md)

@@ -1,2 +1,2 @@
-* [Гибpaлтap-Лaблaдop](Гибpaлтap-Лaблaдop.txt)
-* [Мoллoй Пpишёл](Мoллoй%20Пpишёл.txt)
+* [Гибpaлтap-Лaблaдop](Гибpaлтap-Лaблaдop.md)
+* [Мoллoй Пpишёл](Мoллoй%20Пpишёл.md)

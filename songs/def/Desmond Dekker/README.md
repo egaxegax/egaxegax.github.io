@@ -1,3 +1,3 @@
-* [007 (Shanty Town)](007%20(Shanty%20Town).txt)
-* [Israelites](Israelites.txt)
-* [Jamaica Ska](Jamaica%20Ska.txt)
+* [007 (Shanty Town)](007%20(Shanty%20Town).md)
+* [Israelites](Israelites.md)
+* [Jamaica Ska](Jamaica%20Ska.md)

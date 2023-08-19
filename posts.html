@@ -94,7 +94,7 @@ egax@bk.ru, 2020.
     '<div id="post'+(i+page.bottom)+'">'+
       (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'post'+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+ (title == 'README' ? '.md' : '.txt')}, function(r,p,st){
+      upfunc({id: 'post'+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -147,7 +147,7 @@ egax@bk.ru, 2020.
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+POSTS.length+')</i></p>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
-        POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.txt').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
+        POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
         if(POSTS.length){
           document.title = POSTS[0][2]  + ' - ' + document.title;      
         }

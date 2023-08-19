@@ -1,1 +1,1 @@
-* [Granada](Granada.txt)
+* [Granada](Granada.md)

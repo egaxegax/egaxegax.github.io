@@ -1,1 +1,1 @@
-* [The Mexican](The%20Mexican.txt)
+* [The Mexican](The%20Mexican.md)

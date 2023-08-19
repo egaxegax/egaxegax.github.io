@@ -1,2 +1,2 @@
-* [Continental](Continental.txt)
-* [Four Leaf Clover](Four%20Leaf%20Clover.txt)
+* [Continental](Continental.md)
+* [Four Leaf Clover](Four%20Leaf%20Clover.md)

@@ -1,1 +1,1 @@
-* [Path](Path.txt)
+* [Path](Path.md)
