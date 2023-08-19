@@ -146,7 +146,7 @@
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 4;
+    PAGE.per = 2;
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
     window.BOOKS = TITLES;
@@ -174,7 +174,7 @@
         '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></p>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', книги, тексты - ' + document.title;
         }
-        PAGE.per = 20;
+        PAGE.per = 10;
       }else if(pp.length>1){ // ?wrt/book
         BOOKS = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
         if(BOOKS.length){
@@ -202,7 +202,7 @@
         '<p>'+
           '<h2 class="nomarg nopad">'+
             '<a class="nodecor hspace" href="'+
-              (wrt.length>0 ? '/BOOKS.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
+              (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
               (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
             '</a> &emsp; '+
             '<span class="gray smaller"><i class="counter smaller">('+ BOOKS.length+')</i></span>'+
@@ -216,7 +216,7 @@
             BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
           }
         }
-        PAGE.per = 10;
+        PAGE.per = 5;
       }
     }
 
