@@ -106,8 +106,11 @@ egax@bk.ru, 2020.
       });
     }
     if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(posts, page,
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+      document.getElementById('page_footer').innerHTML = 
+        (page.view == 'list') ? addPaginator(posts, page,
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>') :
+        (page.view == 'last') ? '<p class="mtext cfloat">'+
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button></p>' : '';
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += addNotFound();
@@ -156,6 +159,7 @@ egax@bk.ru, 2020.
           document.title = SUBJ[ POSTS[0][0] ][0] + ' - ' + document.title;
         }
         PAGE.per = 4;
+        PAGE.view = 'list';
       }
     }
 
