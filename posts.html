@@ -142,6 +142,7 @@ egax@bk.ru, 2020.
         POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+POSTS.length+')</i></p>';
+        PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.txt').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
         if(POSTS.length){
@@ -154,6 +155,7 @@ egax@bk.ru, 2020.
           POSTS = [[POSTS[0][0],POSTS[0][1],'README',0,POSTS[0][4]]].concat(POSTS); // +about page
           document.title = SUBJ[ POSTS[0][0] ][0] + ' - ' + document.title;
         }
+        PAGE.per = 4;
       }
     }
 

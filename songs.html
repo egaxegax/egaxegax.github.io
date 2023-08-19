@@ -207,7 +207,7 @@ td.av { width:50px; color: #aaa; }
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 8;  // blocks 1 page
+    PAGE.per = 5;  // blocks 1 page
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
