@@ -11,16 +11,13 @@ function addPaginator(list, page, page_btn){
       next_page_num = page_num + 1;
   var root = 
 '<p class="mtext cfloat">'+
-(has_first ?
-  '<a class="nodecor" href=""><span class="bigger2">&larr;&emsp;</span> </a>'
-:
 (has_previous ? 
-  '<a class="nodecor" href="?'+urlBuild({page: prev_page_num})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
+  '<a class="nodecor" href="?'+urlBuild({page: has_first ? 'null' : prev_page_num})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
 : 
 (has_next ? 
   '<span class="gray"><span class="bigger2">&larr;&emsp;</span> </span>'
 : 
-  '')))+
+  ''))+
 (num_pages > 1 ?
   '<span> <b><i>'+String(page_num+1)+'</i></b> &nbsp; '+(page_btn||'из')+' &nbsp; <b><i>'+String(num_pages)+'</i></b> </span>'
 :

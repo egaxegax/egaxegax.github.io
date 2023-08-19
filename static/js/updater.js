@@ -60,6 +60,9 @@ function urlParams(url) {
 function urlBuild(o){
   var href = [], par = urlParams();
   for (var k in o){ par[k] = o[k]; }
-  for (var p in par){ href.push( p + (String(par[p]) ? '=' + par[p]: '') ); };
+  for (var p in par){ 
+    if(String(par[p]) != 'null')
+      href.push( p + (String(par[p]) ? '=' + par[p]: '') ); 
+  };
   return href.join('&');
 }
