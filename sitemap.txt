@@ -2662,6 +2662,8 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?noskov_nikolaj
+https://egaxegax.github.io/songs.html?noskov_nikolaj/ne_soglasen
 https://egaxegax.github.io/songs.html?antonov_jurij
 https://egaxegax.github.io/songs.html?antonov_jurij/ot_pechali_do_radosti
 https://egaxegax.github.io/songs.html?rod_stewart
@@ -10811,7 +10813,6 @@ https://egaxegax.github.io/songs.html?cannibal_corpse/living_dissection
 https://egaxegax.github.io/songs.html?belaya_gvardiya/shpana
 https://egaxegax.github.io/songs.html?kino/vodka_iskusnyj_napitok_
 https://egaxegax.github.io/songs.html?bujnov_aleksandr/ne_v_tom_vagone
-https://egaxegax.github.io/songs.html?noskov_nikolaj
 https://egaxegax.github.io/songs.html?noskov_nikolaj/na_rusi
 https://egaxegax.github.io/songs.html?clash/police_on_my_back
 https://egaxegax.github.io/songs.html?belaya_gvardiya/svidanie
