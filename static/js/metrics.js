@@ -53,7 +53,7 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, "script", "//yandex.ru/ads/system/context.js", "yaContextCb");
-    var sp = [].slice.call(document.getElementsByTagName('script')).pop();
+    var sp = [].slice.call(document.getElementsByTagName('script'))[0];
     var p_dark = Number((sp.getAttribute('data-dark') == null) ? 1 : sp.getAttribute('data-dark'));
     var p_block = Number((sp.getAttribute('data-block') == null) ? 2 : sp.getAttribute('data-block'));
     var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
