@@ -56,9 +56,10 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
     var sp = [].slice.call(document.getElementsByTagName('script')).pop();
     var p_dark = Number((sp.getAttribute('data-dark') == null) ? 1 : sp.getAttribute('data-dark'));
     var p_block = Number((sp.getAttribute('data-block') == null) ? 2 : sp.getAttribute('data-block'));
+    var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
     if([1,2,3].indexOf(p_block)>-1) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-1",renderTo: "yandex_rtb_R-A-2277013-1"});});
     if([2,3].indexOf(p_block)>-1) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-2",renderTo: "yandex_rtb_R-A-2277013-2"});});
     if([3].indexOf(p_block)>-1) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-3",renderTo: "yandex_rtb_R-A-2277013-3"});});
-    if([1].indexOf(p_block)>-1) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-5",type: "floorAd"});});
+    if(p_floor) window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-5",type: "floorAd"});});
 }
 }
