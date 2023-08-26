@@ -16,7 +16,7 @@
 <style>
 img.av { width: 50px; height: auto; }
 </style>
-<script defer src="/static/js/metrics.js" data-block="3"></script>
+<script src="/static/js/metrics.js" data-block="3"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
 </head>
@@ -31,7 +31,9 @@ img.av { width: 50px; height: auto; }
 </div>
 <div id="page_header" class="main"></div>
 <div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
-<div id="page_content" class="main"></div>
+<div id="page_content" class="main">
+  <div class="ya_rtb3" id="yandex_rtb_R-A-2277013-3"></div>
+</div>
 <div id="page_footer" class="main"></div>
 <div class="main"><div class="ya_rtb2" id="yandex_rtb_R-A-2277013-2"></div></div>
 <p class="cfloat smaller gray hspace">
@@ -66,12 +68,13 @@ img.av { width: 50px; height: auto; }
     page.top = page.bottom+page.per;
     page.arts = arts.slice(page.bottom, page.top);
     for(var i=0; i<page.arts.length; i++){
-       if(i == page.per/2){ // rtb middle block
-        document.getElementById('page_content').innerHTML +=
-      '<div class="main"><div class="ya_rtb3" id="yandex_rtb_R-A-2277013-3"></div></div>';
-      }
-      document.getElementById('page_content').innerHTML +=
+      var html = 
     '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
+      if(i <= page.per/2){ // rtb middle block
+        document.getElementById('page_content').innerHTML = html + document.getElementById('page_content').innerHTML;
+      } else {
+        document.getElementById('page_content').innerHTML += html;
+      }
     }
     if (page.arts.length){
       document.getElementById('page_footer').innerHTML = addPaginator(arts, page,
