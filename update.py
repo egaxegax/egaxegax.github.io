@@ -135,10 +135,11 @@ for i, f in enumerate(mfiles):
     isubj = len(msubj) - 1
     if len(murls) == 0:
       murls += [surl +'/'+ sdir + '.html']
-    if sdir != 'foto':
-      murls += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
+    murls += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
   mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
-  murls += [surl +'/'+ sdir +('.html?'+ TR(f[1]+'/'+f[2]), '/'+ f[1] +'/'+ f[2]+ '.jpg')[sdir == 'foto']]
+  murls += [surl +'/'+ sdir +'.html?'+ TR(f[1]+'/'+f[2])]
+  if sdir == 'foto':
+    murls += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
   print( i )
 
 def compact(s):
