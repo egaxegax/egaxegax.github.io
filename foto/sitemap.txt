@@ -1,11 +1,15 @@
 https://egaxegax.github.io/foto.html
+https://egaxegax.github.io/foto.html?moskva
+https://egaxegax.github.io/foto.html?moskva/novaya_dorojka_v_lipkah_avgust_2023g
+https://egaxegax.github.io/foto/Москва/Новая дорожка в Липках. Август 2023г.jpg
+https://egaxegax.github.io/foto.html?priroda
+https://egaxegax.github.io/foto.html?priroda/spelaya_ryabina_avgust_2023g
+https://egaxegax.github.io/foto/Природа/Спелая рябина. Август 2023г.jpg
 https://egaxegax.github.io/foto.html?cerkvi
 https://egaxegax.github.io/foto.html?cerkvi/mytishchi_cerkov_blagoveshcheniya_v_tajninskom
 https://egaxegax.github.io/foto/Церкви/Мытищи. Церковь Благовещения в Тайнинском.jpg
-https://egaxegax.github.io/foto.html?moskva
 https://egaxegax.github.io/foto.html?moskva/v_bitcevskom_parke_ijul_2023g
 https://egaxegax.github.io/foto/Москва/В Битцевском парке. Июль 2023г.jpg
-https://egaxegax.github.io/foto.html?priroda
 https://egaxegax.github.io/foto.html?priroda/vysokaya_sosna_v_podmoskove_ijul_2023g
 https://egaxegax.github.io/foto/Природа/Высокая сосна в Подмосковье. Июль 2023г.jpg
 https://egaxegax.github.io/foto.html?cerkvi/moskva_jujnoe_butovo_hram_v_zaharino
