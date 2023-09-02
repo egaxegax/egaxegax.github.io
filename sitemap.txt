@@ -2380,23 +2380,25 @@ https://egaxegax.github.io/books.html?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books.html?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books.html?artur_konan_dojl/belyj_otryad
 https://egaxegax.github.io/foto.html
+https://egaxegax.github.io/foto.html?priroda
+https://egaxegax.github.io/foto.html?priroda/prud_u_dorogi_v_podmoskove_sentyabr_2023g
+https://egaxegax.github.io/foto/Природа/Пруд у дороги в Подмосковье. Сентябрь 2023г.jpg
+https://egaxegax.github.io/foto.html?priroda/sinee_nebo_nad_lesom_v_yaganovo_sentyabr_2023g
+https://egaxegax.github.io/foto/Природа/Синее небо над лесом в Яганово. Сентябрь 2023г.jpg
+https://egaxegax.github.io/foto.html?priroda/spelaya_ryabina_v_jujnom_butovo_avgust_2023g
+https://egaxegax.github.io/foto/Природа/Спелая рябина в Южном Бутово. Август 2023г.jpg
+https://egaxegax.github.io/foto.html?priroda/spelaya_ryabina_v_jujnom_butove_avgust_2023g
+https://egaxegax.github.io/foto/Природа/Спелая рябина в Южном Бутове. Август 2023г.jpg
 https://egaxegax.github.io/foto.html?moskva
 https://egaxegax.github.io/foto.html?moskva/novaya_dorojka_v_lipkah_avgust_2023g
 https://egaxegax.github.io/foto/Москва/Новая дорожка в Липках. Август 2023г.jpg
-https://egaxegax.github.io/foto.html?priroda
-https://egaxegax.github.io/foto.html?priroda/spelaya_ryabina_avgust_2023g
-https://egaxegax.github.io/foto/Природа/Спелая рябина. Август 2023г.jpg
-https://egaxegax.github.io/foto.html?cerkvi
-https://egaxegax.github.io/foto.html?cerkvi/mytishchi_cerkov_blagoveshcheniya_v_tajninskom
-https://egaxegax.github.io/foto/Церкви/Мытищи. Церковь Благовещения в Тайнинском.jpg
 https://egaxegax.github.io/foto.html?moskva/v_bitcevskom_parke_ijul_2023g
 https://egaxegax.github.io/foto/Москва/В Битцевском парке. Июль 2023г.jpg
-https://egaxegax.github.io/foto.html?priroda/vysokaya_sosna_v_podmoskove_ijul_2023g
-https://egaxegax.github.io/foto/Природа/Высокая сосна в Подмосковье. Июль 2023г.jpg
-https://egaxegax.github.io/foto.html?cerkvi/moskva_jujnoe_butovo_hram_v_zaharino
-https://egaxegax.github.io/foto/Церкви/Москва. Южное Бутово. Храм в Захарьино.jpg
-https://egaxegax.github.io/foto.html?priroda/cvetushchee_derevo_maj_2023g
-https://egaxegax.github.io/foto/Природа/Цветущее дерево. Май 2023г.jpg
+https://egaxegax.github.io/foto.html?priroda/vysokaya_sosna_u_obolenska_ijul_2023g
+https://egaxegax.github.io/foto/Природа/Высокая сосна у Оболенска. Июль 2023г.jpg
+https://egaxegax.github.io/foto.html?priroda/cvetushchee_derevo_v_milicejskom_poselke_maj_2023g
+https://egaxegax.github.io/foto/Природа/Цветущее дерево в Милицейском поселке. Май 2023г.jpg
+https://egaxegax.github.io/foto.html?cerkvi
 https://egaxegax.github.io/foto.html?cerkvi/vologda_sofijskij_sobor
 https://egaxegax.github.io/foto/Церкви/Вологда. Софийский собор.jpg
 https://egaxegax.github.io/foto.html?cerkvi/tobolsk_abalakskij_monastyr
@@ -2413,54 +2415,52 @@ https://egaxegax.github.io/foto.html?cerkvi/kirillo-belozerskij_monastyr
 https://egaxegax.github.io/foto/Церкви/Кирилло-Белозерский монастырь.jpg
 https://egaxegax.github.io/foto.html?cerkvi/dunilovo_ivanovskaya_oblast
 https://egaxegax.github.io/foto/Церкви/Дунилово. Ивановская область.jpg
-https://egaxegax.github.io/foto.html?cerkvi/olonec_smolenskaya_oblast
-https://egaxegax.github.io/foto/Церкви/Олонец. Смоленская область.jpg
 https://egaxegax.github.io/foto.html?cerkvi/savinskoe_hram_vasiliya_velikogo
 https://egaxegax.github.io/foto/Церкви/Савинское. Храм Василия Великого.jpg
-https://egaxegax.github.io/foto.html?cerkvi/kiji_muzej
-https://egaxegax.github.io/foto/Церкви/Кижи. Музей.jpg
-https://egaxegax.github.io/foto.html?cerkvi/kolomna_rassvet
-https://egaxegax.github.io/foto/Церкви/Коломна. Рассвет.jpg
-https://egaxegax.github.io/foto.html?cerkvi/russa_voskresenskij_sobor
-https://egaxegax.github.io/foto/Церкви/Русса. Воскресенский собор.jpg
 https://egaxegax.github.io/foto.html?moskva/zimnij_zakat_v_jujnom_butovo_fevral_2023g
 https://egaxegax.github.io/foto/Москва/Зимний закат в Южном Бутово. Февраль 2023г.jpg
-https://egaxegax.github.io/foto.html?priroda/ejik_na_doroge_ijun_2022g
-https://egaxegax.github.io/foto/Природа/Ёжик на дороге. Июнь 2022г.jpg
-https://egaxegax.github.io/foto.html?priroda/novogodnij_les_yanvar_2023g
-https://egaxegax.github.io/foto/Природа/Новогодний лес. Январь 2023г.jpg
-https://egaxegax.github.io/foto.html?moskva/krasivaya_alleya_v_oktyabre_oktyabr_2021g
-https://egaxegax.github.io/foto/Москва/Красивая аллея в октябре. Октябрь 2021г.jpg
+https://egaxegax.github.io/foto.html?priroda/novogodnij_les_v_milicejskom_poselke_yanvar_2023g
+https://egaxegax.github.io/foto/Природа/Новогодний лес в Милицейском поселке. Январь 2023г.jpg
 https://egaxegax.github.io/foto.html?moskva/severnoe_chertanovo_maj_2022g
 https://egaxegax.github.io/foto/Москва/Северное Чертаново. Май 2022г.jpg
-https://egaxegax.github.io/foto.html?priroda/pojeltevshij_klen_oktyabr_2018g
-https://egaxegax.github.io/foto/Природа/Пожелтевший клен. Октябрь 2018г.jpg
-https://egaxegax.github.io/foto.html?priroda/sochnye_yablochki_sentyabr_2014g
-https://egaxegax.github.io/foto/Природа/Сочные яблочки. Сентябрь 2014г.jpg
-https://egaxegax.github.io/foto.html?priroda/staryj_poezd_v_mihnevo_sentyabr_2019g
-https://egaxegax.github.io/foto/Природа/Старый поезд в Михнево. Сентябрь 2019г.jpg
-https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2016g
-https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2016г.jpg
-https://egaxegax.github.io/foto.html?priroda/na_fone_sinevy_ijul_2017g
-https://egaxegax.github.io/foto/Природа/На фоне синевы. Июль 2017г.jpg
-https://egaxegax.github.io/foto.html?priroda/babochka_na_krasnom_cvetke_2_sentyabr_2018g
-https://egaxegax.github.io/foto/Природа/Бабочка на красном цветке 2. Сентябрь 2018г.jpg
-https://egaxegax.github.io/foto.html?priroda/utka_v_prudu_ijul_2006g
-https://egaxegax.github.io/foto/Природа/Утка в пруду. Июль 2006г.jpg
-https://egaxegax.github.io/foto.html?priroda/babochka_sentyabr_2018g
-https://egaxegax.github.io/foto/Природа/Бабочка. Сентябрь 2018г.jpg
-https://egaxegax.github.io/foto.html?moskva/kirovogradskie_prudy
-https://egaxegax.github.io/foto/Москва/Кировоградские пруды.jpg
-https://egaxegax.github.io/foto.html?moskva/yasenevskie_prudy
-https://egaxegax.github.io/foto/Москва/Ясеневские пруды.jpg
-https://egaxegax.github.io/foto.html?moskva/varshavskie_prudy
-https://egaxegax.github.io/foto/Москва/Варшавские пруды.jpg
+https://egaxegax.github.io/foto.html?priroda/ejik_na_doroge_ijun_2022g
+https://egaxegax.github.io/foto/Природа/Ёжик на дороге. Июнь 2022г.jpg
 https://egaxegax.github.io/foto.html?priroda/cvetochek_sinenkij_ijul_2016g
 https://egaxegax.github.io/foto/Природа/Цветочек синенький. Июль 2016г.jpg
-https://egaxegax.github.io/foto.html?priroda/bolshoj_muhomor_sentyabr_2017g
-https://egaxegax.github.io/foto/Природа/Большой мухомор. Сентябрь 2017г.jpg
 https://egaxegax.github.io/foto.html?priroda/cvetok_sinjuha_avgust_2017g
 https://egaxegax.github.io/foto/Природа/Цветок синюха. Август 2017г.jpg
+https://egaxegax.github.io/foto.html?priroda/bolshoj_muhomor_sentyabr_2017g
+https://egaxegax.github.io/foto/Природа/Большой мухомор. Сентябрь 2017г.jpg
+https://egaxegax.github.io/foto.html?moskva/kirovogradskie_prudy
+https://egaxegax.github.io/foto/Москва/Кировоградские пруды.jpg
+https://egaxegax.github.io/foto.html?moskva/varshavskie_prudy
+https://egaxegax.github.io/foto/Москва/Варшавские пруды.jpg
+https://egaxegax.github.io/foto.html?moskva/krasivaya_alleya_v_oktyabre_oktyabr_2021g
+https://egaxegax.github.io/foto/Москва/Красивая аллея в октябре. Октябрь 2021г.jpg
+https://egaxegax.github.io/foto.html?priroda/staryj_poezd_v_mihnevo_sentyabr_2019g
+https://egaxegax.github.io/foto/Природа/Старый поезд в Михнево. Сентябрь 2019г.jpg
+https://egaxegax.github.io/foto.html?priroda/babochka_na_krasnom_cvetke_2_sentyabr_2018g
+https://egaxegax.github.io/foto/Природа/Бабочка на красном цветке 2. Сентябрь 2018г.jpg
+https://egaxegax.github.io/foto.html?cerkvi/mytishchi_cerkov_blagoveshcheniya_v_tajninskom_ijul_2018g
+https://egaxegax.github.io/foto/Церкви/Мытищи. Церковь Благовещения в Тайнинском. Июль 2018г.jpg
+https://egaxegax.github.io/foto.html?moskva/yasenevskie_prudy_avgust_2017g
+https://egaxegax.github.io/foto/Москва/Ясеневские пруды. Август 2017г.jpg
+https://egaxegax.github.io/foto.html?cerkvi/olonec_smolenskaya_oblast_ijul_2017g
+https://egaxegax.github.io/foto/Церкви/Олонец. Смоленская область. Июль 2017г.jpg
+https://egaxegax.github.io/foto.html?cerkvi/moskva_jujnoe_butovo_hram_v_zaharino
+https://egaxegax.github.io/foto/Церкви/Москва. Южное Бутово. Храм в Захарьино.jpg
+https://egaxegax.github.io/foto.html?priroda/sochnye_yablochki_u_stancii_yaganovo_sentyabr_2014g
+https://egaxegax.github.io/foto/Природа/Сочные яблочки у станции Яганово. Сентябрь 2014г.jpg
+https://egaxegax.github.io/foto.html?cerkvi/kolomna_rassvet
+https://egaxegax.github.io/foto/Церкви/Коломна. Рассвет.jpg
+https://egaxegax.github.io/foto.html?cerkvi/kiji_muzej_ijun_2010g
+https://egaxegax.github.io/foto/Церкви/Кижи. Музей. Июнь 2010г.jpg
+https://egaxegax.github.io/foto.html?cerkvi/russa_voskresenskij_sobor_ijul_2009g
+https://egaxegax.github.io/foto/Церкви/Русса. Воскресенский собор. Июль 2009г.jpg
+https://egaxegax.github.io/foto.html?priroda/utka_v_prudu_v_parke_gorkogo_ijul_2006g
+https://egaxegax.github.io/foto/Природа/Утка в пруду в Парке Горького. Июль 2006г.jpg
+https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
+https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/bekasovo
@@ -2707,21 +2707,6 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
-https://egaxegax.github.io/songs.html?noskov_nikolaj
-https://egaxegax.github.io/songs.html?noskov_nikolaj/ne_soglasen
-https://egaxegax.github.io/songs.html?antonov_jurij
-https://egaxegax.github.io/songs.html?antonov_jurij/ot_pechali_do_radosti
-https://egaxegax.github.io/songs.html?rod_stewart
-https://egaxegax.github.io/songs.html?rod_stewart/sailing
-https://egaxegax.github.io/songs.html?adams_bryan
-https://egaxegax.github.io/songs.html?adams_bryan/always_have_always_will
-https://egaxegax.github.io/songs.html?mumij_troll
-https://egaxegax.github.io/songs.html?mumij_troll/deserty
-https://egaxegax.github.io/songs.html?avtograf
-https://egaxegax.github.io/songs.html?avtograf/tak_chasto_byvaet
-https://egaxegax.github.io/songs.html?malinin_aleksandr
-https://egaxegax.github.io/songs.html?malinin_aleksandr/ostorojno_dveri_zakryvajutsya
-https://egaxegax.github.io/songs.html?antonov_jurij/ne_zabyvaj_mechty_sbyvajutsya
 https://egaxegax.github.io/songs.html?stella
 https://egaxegax.github.io/songs.html?stella/devochka_bez_serdca
 https://egaxegax.github.io/songs.html?stella/jenshchina-vampir
@@ -2806,22 +2791,22 @@ https://egaxegax.github.io/songs.html?gazmanov_oleg
 https://egaxegax.github.io/songs.html?gazmanov_oleg/dojdis_menya_2
 https://egaxegax.github.io/songs.html?uspenskaya_ljubov
 https://egaxegax.github.io/songs.html?uspenskaya_ljubov/karusel
-https://egaxegax.github.io/songs.html?uspenskaya_ljubov/kabriolet
 https://egaxegax.github.io/songs.html?uspenskaya_ljubov/prababushka
+https://egaxegax.github.io/songs.html?uspenskaya_ljubov/kabriolet
 https://egaxegax.github.io/songs.html?nimerov_grigorij/voskresensk
 https://egaxegax.github.io/songs.html?coldplay
+https://egaxegax.github.io/songs.html?coldplay/talk
+https://egaxegax.github.io/songs.html?coldplay/yellow
+https://egaxegax.github.io/songs.html?coldplay/paradise
+https://egaxegax.github.io/songs.html?coldplay/the_scientist
+https://egaxegax.github.io/songs.html?coldplay/viva_la_vida
 https://egaxegax.github.io/songs.html?coldplay/magic
 https://egaxegax.github.io/songs.html?coldplay/fix_you
 https://egaxegax.github.io/songs.html?coldplay/major_minus
-https://egaxegax.github.io/songs.html?coldplay/yellow
-https://egaxegax.github.io/songs.html?coldplay/viva_la_vida
-https://egaxegax.github.io/songs.html?coldplay/the_scientist
-https://egaxegax.github.io/songs.html?coldplay/talk
-https://egaxegax.github.io/songs.html?coldplay/every_teardrop_is_a_waterfall
-https://egaxegax.github.io/songs.html?coldplay/paradise
 https://egaxegax.github.io/songs.html?coldplay/adventure_of_a_lifetime
-https://egaxegax.github.io/songs.html?coldplay/princess_of_china
 https://egaxegax.github.io/songs.html?coldplay/clocks
+https://egaxegax.github.io/songs.html?coldplay/princess_of_china
+https://egaxegax.github.io/songs.html?coldplay/every_teardrop_is_a_waterfall
 https://egaxegax.github.io/songs.html?nimerov_grigorij/na_dikom_zapade
 https://egaxegax.github.io/songs.html?nazareth
 https://egaxegax.github.io/songs.html?nazareth/this_month_messiah
@@ -2831,14 +2816,14 @@ https://egaxegax.github.io/songs.html?black_label_society
 https://egaxegax.github.io/songs.html?black_label_society/angel_of_mercy
 https://egaxegax.github.io/songs.html?black_label_society/in_this_river
 https://egaxegax.github.io/songs.html?rihanna
-https://egaxegax.github.io/songs.html?rihanna/rude_boy
 https://egaxegax.github.io/songs.html?rihanna/unfaithful
-https://egaxegax.github.io/songs.html?rihanna/russian_roulette
-https://egaxegax.github.io/songs.html?rihanna/pon_de_replay
 https://egaxegax.github.io/songs.html?rihanna/stay
 https://egaxegax.github.io/songs.html?rihanna/fourfiveseconds
-https://egaxegax.github.io/songs.html?rihanna/where_have_you_been
 https://egaxegax.github.io/songs.html?rihanna/diamonds
+https://egaxegax.github.io/songs.html?rihanna/rude_boy
+https://egaxegax.github.io/songs.html?rihanna/where_have_you_been
+https://egaxegax.github.io/songs.html?rihanna/pon_de_replay
+https://egaxegax.github.io/songs.html?rihanna/russian_roulette
 https://egaxegax.github.io/songs.html?elton_john
 https://egaxegax.github.io/songs.html?elton_john/i_think_im_going_to_kill_myself
 https://egaxegax.github.io/songs.html?led_zeppelin
@@ -3710,6 +3695,7 @@ https://egaxegax.github.io/songs.html?gyndul_mycej/my_christmas_day
 https://egaxegax.github.io/songs.html?sektor_gaza/domoj
 https://egaxegax.github.io/songs.html?kashin_pavel/v_svete_svechi
 https://egaxegax.github.io/songs.html?chij_i_ko/vihma_sajab
+https://egaxegax.github.io/songs.html?adams_bryan
 https://egaxegax.github.io/songs.html?adams_bryan/summer_of_69
 https://egaxegax.github.io/songs.html?delfin/vot_i_vse
 https://egaxegax.github.io/songs.html?korn/fake
@@ -5178,6 +5164,7 @@ https://egaxegax.github.io/songs.html?turisticheskie/daj_mne_vzglyanut_v_tvoi_gl
 https://egaxegax.github.io/songs.html?alternativnyj_mir/ispoved
 https://egaxegax.github.io/songs.html?osin_evgenij/devchonki_70-h_godov
 https://egaxegax.github.io/songs.html?mashina_vremeni/ochered
+https://egaxegax.github.io/songs.html?antonov_jurij
 https://egaxegax.github.io/songs.html?antonov_jurij/ya_vspominaju_
 https://egaxegax.github.io/songs.html?beatles/girl
 https://egaxegax.github.io/songs.html?voodoo_glow_skulls
@@ -5585,6 +5572,7 @@ https://egaxegax.github.io/songs.html?slayer/cant_stand_you
 https://egaxegax.github.io/songs.html?pennywise/perfect_people
 https://egaxegax.github.io/songs.html?korneljuk_igor
 https://egaxegax.github.io/songs.html?korneljuk_igor/gopod_kotopogo_net
+https://egaxegax.github.io/songs.html?avtograf
 https://egaxegax.github.io/songs.html?avtograf/strannik
 https://egaxegax.github.io/songs.html?sektor_gaza/ne_daet
 https://egaxegax.github.io/songs.html?gosti_iz_budushchego/vse_resheno
@@ -7886,6 +7874,7 @@ https://egaxegax.github.io/songs.html?korn/its_gonna_go_away
 https://egaxegax.github.io/songs.html?instrukciya_po_vyjivaniju/vojna
 https://egaxegax.github.io/songs.html?blatnye_pesni/okurochek
 https://egaxegax.github.io/songs.html?rancid/as_one
+https://egaxegax.github.io/songs.html?mumij_troll
 https://egaxegax.github.io/songs.html?mumij_troll/pljus_28
 https://egaxegax.github.io/songs.html?pesni_strojotryadov/tropoj
 https://egaxegax.github.io/songs.html?beastie_boys
@@ -10858,6 +10847,7 @@ https://egaxegax.github.io/songs.html?cannibal_corpse/living_dissection
 https://egaxegax.github.io/songs.html?belaya_gvardiya/shpana
 https://egaxegax.github.io/songs.html?kino/vodka_iskusnyj_napitok_
 https://egaxegax.github.io/songs.html?bujnov_aleksandr/ne_v_tom_vagone
+https://egaxegax.github.io/songs.html?noskov_nikolaj
 https://egaxegax.github.io/songs.html?noskov_nikolaj/na_rusi
 https://egaxegax.github.io/songs.html?clash/police_on_my_back
 https://egaxegax.github.io/songs.html?belaya_gvardiya/svidanie
@@ -11069,6 +11059,7 @@ https://egaxegax.github.io/songs.html?mashina_vremeni/posvyashchenie_olegu_tabak
 https://egaxegax.github.io/songs.html?black_sabbath/a_national_acrobat
 https://egaxegax.github.io/songs.html?az/ne_speshi_gnat_ego
 https://egaxegax.github.io/songs.html?crowded_house/weather_with_you
+https://egaxegax.github.io/songs.html?malinin_aleksandr
 https://egaxegax.github.io/songs.html?malinin_aleksandr/daj_bog
 https://egaxegax.github.io/songs.html?beatles/good_morning
 https://egaxegax.github.io/songs.html?ac-dc/shoot_to_thrill
@@ -13348,6 +13339,7 @@ https://egaxegax.github.io/songs.html?sarancha
 https://egaxegax.github.io/songs.html?sarancha/latino
 https://egaxegax.github.io/songs.html?devyatyj_rajon/neproshennyj_gost
 https://egaxegax.github.io/songs.html?afganskie_pesni/chernyj_tjulpan
+https://egaxegax.github.io/songs.html?mumij_troll/devochki_emansipe
 https://egaxegax.github.io/songs.html?belomorkanal/posveshchenie
 https://egaxegax.github.io/songs.html?blur/globe_alone
 https://egaxegax.github.io/songs.html?tajm-aut/taxi
@@ -14130,7 +14122,7 @@ https://egaxegax.github.io/songs.html?exploited/dont_really_care
 https://egaxegax.github.io/songs.html?trofim/nlo
 https://egaxegax.github.io/songs.html?beatles/you_wont_see_me
 https://egaxegax.github.io/songs.html?trofim/osnovnoj_instinkt
-https://egaxegax.github.io/songs.html?sankt-peterburg/stupeni_po_stupenyam
+https://egaxegax.github.io/songs.html?sankt-peterburg/stupeni
 https://egaxegax.github.io/songs.html?panfilov_ivan/more_vody
 https://egaxegax.github.io/songs.html?prikolnye_pesni/ya_malenkaya_petarda
 https://egaxegax.github.io/songs.html?nimerov_grigorij/i_snova_edu_v_elektrichke
@@ -28441,6 +28433,7 @@ https://egaxegax.github.io/songs.html?akvarium/radio_silence
 https://egaxegax.github.io/songs.html?akvarium/real_slow_today
 https://egaxegax.github.io/songs.html?akvarium/the_angel_calling
 https://egaxegax.github.io/songs.html?akvarium/the_postcard
+https://egaxegax.github.io/songs.html?akvarium/the_time
 https://egaxegax.github.io/songs.html?akvarium/under_the_good_sun
 https://egaxegax.github.io/songs.html?akvarium/up_in_smoke
 https://egaxegax.github.io/songs.html?akvarium/vous_le_vou_couche_avec_moi_2_variant
@@ -28911,30 +28904,3 @@ https://egaxegax.github.io/index.html?2014/140111_2340
 https://egaxegax.github.io/index.html?2014/140111_2327
 https://egaxegax.github.io/index.html?2014/140111_2323
 https://egaxegax.github.io/index.html?2014/140111_2322
-https://egaxegax.github.io/dbcartajs/sky3d.html
-https://egaxegax.github.io/dbcartajs/mosmetro.html
-https://egaxegax.github.io/dbcartajs/merc.html
-https://egaxegax.github.io/dbcartajs/atlas.html
-https://egaxegax.github.io/dbcartajs/countries.html
-https://egaxegax.github.io/dbcartajs/metro-tbilisi.html
-https://egaxegax.github.io/dbcartajs/starry.html
-https://egaxegax.github.io/dbcartajs/soccerf.html
-https://egaxegax.github.io/dbcartajs/cities.html
-https://egaxegax.github.io/dbcartajs/mosrails.html
-https://egaxegax.github.io/dbcartajs/usemap.html
-https://egaxegax.github.io/dbcartajs/svg/mosmetro.html
-https://egaxegax.github.io/dbcartajs/svg/rollerball.html
-https://egaxegax.github.io/dbcartajs/svg/clock.html
-https://egaxegax.github.io/dbcartajs/svg/us.html
-https://egaxegax.github.io/dbcartajs/svg/atlas.html
-https://egaxegax.github.io/dbcartajs/svg/panzoom.html
-https://egaxegax.github.io/dbcartajs/svg/metrospb.html
-https://egaxegax.github.io/dbcartajs/svg/mosrails.html
-https://egaxegax.github.io/dbcartajs/svg/usemap.html
-https://egaxegax.github.io/dbcartajs/svg/imgviewer.html
-https://egaxegax.github.io/dbcartajs/map3d.html
-https://egaxegax.github.io/dbcartajs/index.html
-https://egaxegax.github.io/dbcartajs/imgviewer.html
-https://egaxegax.github.io/dbcartajs/noncart.html
-https://egaxegax.github.io/dbcartajs/russ.html
-

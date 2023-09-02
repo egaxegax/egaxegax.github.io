@@ -83,12 +83,28 @@ for root, dirs, files in os.walk(path, topdown=False):
         continue  # skip preview
       else:
         from PIL import Image, ImageOps
+        from PIL.ExifTags import TAGS
+        import locale
         im = Image.open(os.path.join(root, name))
-        im = ImageOps.exif_transpose(im)
-        im.thumbnail((800,600))
+        exifs = im._getexif()
+        if exifs and exifs.get(306):    # DateTime exists
+          ftime = time.mktime(time.strptime(exifs.get(306), '%Y:%m:%d %H:%M:%S'))
+        else:
+          try:
+            sdate = name.split('.')
+            sdate = sdate[len(sdate) - 2].strip().split(' ')
+            sdate = sdate[0][:3] + ' ' + sdate[1]
+            locale.setlocale(locale.LC_TIME, 'ru_RU.UTF-8')
+            ftime = time.mktime(time.strptime(sdate, '%b %Yг'))
+          except:
+            print(root, name)
+            raise
+        # make thumbnails
+        im_th = ImageOps.exif_transpose(im)
+        im_th.thumbnail((800,600))
         if not os.path.exists(os.path.join(root, 'th')):
           os.mkdir(os.path.join(root, 'th'))
-        im.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
+        im_th.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
     elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
       ftime = os.path.getmtime(os.path.join(root, name))
       if fname != 'about': # skip about
