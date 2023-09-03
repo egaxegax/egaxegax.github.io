@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--
-View posts, marks and texts.
-egax@bk.ru, 2020.
--->
 <html lang="ru">
 <head>
 <meta charset="utf-8">
@@ -64,8 +60,8 @@ egax@bk.ru, 2020.
   function addPost(r,p){
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
-          .replace(/src="\.\//g, 'src="'+p.url+'/../');  // fix img url to absolute
-    if(p.title[2] == 'README'){ // fix link url to absolute in README 
+          .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
+    if(p.title[2] == 'README'){  // fix link url to absolute in README.md
       html = html.replace(/href="/g, 'href="'+window.location+'/'); 
     }
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
