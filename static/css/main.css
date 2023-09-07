@@ -60,4 +60,4 @@ hr { border: 1px dashed #777; }
 /* reklama */
 .ya_rtb1 { margin:0 0 10px; max-height:120px; }
 .ya_rtb2 { max-height:140px; }
-.ya_rtb_feed { max-height:300px; }
+.ya_rtb_feed { margin:0px auto 0px auto; max-width:300px; }
