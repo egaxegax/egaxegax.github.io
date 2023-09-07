@@ -66,3 +66,4 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
     if(p_feed) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-6", type: "feed", renderTo: "yandex_rtb_R-A-2277013-6"});});
     if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-7", type: "topAd"});});
 }
+}
