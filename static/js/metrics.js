@@ -59,6 +59,7 @@ if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
     var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
     var p_feed = Number((sp.getAttribute('data-feed') == null) ? 0 : sp.getAttribute('data-feed'));
     var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
+    console.log('p_dark', p_dark, 'p_block', p_block, 'p_floor', p_floor, 'p_feed', p_feed, 'p_top', p_top);
     if([1,2,3].indexOf(p_block)>-1) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-1", renderTo: "yandex_rtb_R-A-2277013-1"});});
     if([2,3].indexOf(p_block)>-1) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-2", renderTo: "yandex_rtb_R-A-2277013-2"});});
     if([3].indexOf(p_block)>-1) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-3", renderTo: "yandex_rtb_R-A-2277013-3"});});
