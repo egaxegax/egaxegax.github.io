@@ -61,7 +61,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     console.log('p_dark', p_dark, 'p_feed', p_feed, 'p_floor', p_floor, 'p_top', p_top);
     if(document.getElementById('yandex_rtb_R-A-2277013-1')) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-1", renderTo: "yandex_rtb_R-A-2277013-1"});});
     if(document.getElementById('yandex_rtb_R-A-2277013-2')) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-2", renderTo: "yandex_rtb_R-A-2277013-2"});});
-    if(document.getElementById('yandex_rtb_R-A-2277013-1')) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-3", renderTo: "yandex_rtb_R-A-2277013-3"});});
+    if(document.getElementById('yandex_rtb_R-A-2277013-3')) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-3", renderTo: "yandex_rtb_R-A-2277013-3"});});
     if(document.getElementById('yandex_rtb_R-A-2277013-6')) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-6", type: "feed", renderTo: "yandex_rtb_R-A-2277013-6"});});
     if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-5", type: "floorAd"});});
     if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId: "R-A-2277013-7", type: "topAd"});});
