@@ -1,7 +1,9 @@
 //
 // Add metrics, counters
 //
-if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
+function isLocalhost(){ return !String(window.location).match(/file:|localhost|127.0.0.1/); }
+
+if(isLocalhost()){
 { // liveinternet metrics
   (function(d,s){if(d.getElementById("licntADF8"))d.getElementById("licntADF8").src="//counter.yadro.ru/hit?t45.12;r"+escape(d.referrer)+
   ((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
