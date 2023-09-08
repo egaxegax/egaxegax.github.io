@@ -16,7 +16,7 @@
 <style>
 img { border:2px transparent solid } 
 img:hover { border:2px yellow solid }
-#page_content { min-height:370px; }
+#page_content { min-height:360px; }
 </style>
 <script defer src="/static/js/metrics.js" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
@@ -62,7 +62,6 @@ img:hover { border:2px yellow solid }
   var childs=[];
   var DC = new dbCartaSvg({
     id:'mcol',
-    bg: 'rgb(240,245,240)',
     sbar: false,
     height: document.getElementById('mcol').offsetHeight
   });
@@ -109,7 +108,7 @@ img:hover { border:2px yellow solid }
       for(var i in urls) {
         var im = new Image();
         im.style.cursor = 'pointer';
-        im.width = 100;
+        im.width = 60;
         im.alt = i;
         im.src = urls[i][1].replace('.jpg', '.th.jpg');
         im.title = urls[i][2];
