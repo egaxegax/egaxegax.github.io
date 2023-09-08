@@ -6,6 +6,7 @@ SUBJ={
 5:'Стереокартинки'
 };           
 TITLES=[
+[1,'//ie.wampi.ru/2023/09/09/NOVAY-DOROZKA-V-MILITESKOM-POSELKE.-AVGUST-2023G.jpg','Новая дорожка в Милицейском поселке. Август 2023г.'],
 [2,'//ic.wampi.ru/2022/10/15/EZIK-NA-DOROGE.jpg','Ёжик на дороге. Июнь 2022 г.'],
 [1,'//im.wampi.ru/2022/10/15/VID-NA-MILITEISKII-POSELOK-S-POLYNY.jpg','Вид на Милицейский посёлок. Июнь 2022г.'],
 [0,'//ia.wampi.ru/2021/10/30/EKSKAVATOR-U-SIMONOVA-MONASTYRY.jpg','Экскаватор у Симонова монастыря. Октябрь 2021г.'],
