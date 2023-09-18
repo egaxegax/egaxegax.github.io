@@ -204,6 +204,8 @@ td.av div { min-width:25px; color: #aaa; }
     }
   }
 
+  adjustRtbHeight();
+
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
