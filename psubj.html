@@ -58,6 +58,8 @@
     return tmpl;
   }
 
+  adjustRtbHeight();
+
   upfunc({url: buildURL('posts')+'/index.js'}, function(s){
     eval(s);
     var subjects = SUBJ;

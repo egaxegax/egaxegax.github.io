@@ -79,6 +79,8 @@ img.av { width: 50px; height: auto; }
     return page.arts.length == 0;
   }
 
+  adjustRtbHeight();
+
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 

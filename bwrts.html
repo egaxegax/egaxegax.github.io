@@ -82,6 +82,8 @@ img.av { width: 100%; height: auto; }
     return page.wrts.length == 0;
   }
 
+  adjustRtbHeight();
+
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 

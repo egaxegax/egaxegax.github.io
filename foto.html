@@ -101,6 +101,8 @@
     return (page.titles.length == 0);
   }
 
+  adjustRtbHeight();
+
   upfunc({url: buildURL('foto')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
