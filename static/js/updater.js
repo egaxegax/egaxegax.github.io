@@ -74,7 +74,7 @@ window.adjustRtbHeight = function(){
   if(!(String(window.location).match(/file:|localhost|127.0.0.1/))){
     [1,2,3].map(function(i){
       if(elem = document.getElementById('yandex_rtb_R-A-2277013-'+i)){
-        elem.style.height = (elem.style.maxHeight || parseInt(window.getComputedStyle(elem).getPropertyValue('max-height')));
+        elem.style.height = (elem.style.maxHeight || window.getComputedStyle(elem).getPropertyValue('max-height'));
         hsum += elem.offsetHeight;
       }
     });
