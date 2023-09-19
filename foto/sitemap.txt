@@ -1,4 +1,11 @@
 https://egaxegax.github.io/foto.html
+https://egaxegax.github.io/foto.html?moskva
+https://egaxegax.github.io/foto.html?moskva/mostik_cherez_ruchej_v_zaharino_sentyabr_2023g
+https://egaxegax.github.io/foto/Москва/Мостик через ручей в Захарьино. Сентябрь 2023г.jpg
+https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_s_malogo_berega_sentyabr_2023g
+https://egaxegax.github.io/foto/Москва/Вид на Захарьинский пруд с малого берега. Сентябрь 2023г.jpg
+https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_v_storonu_cerkvi_sentyabr_2023g
+https://egaxegax.github.io/foto/Москва/Вид на Захарьинский пруд в сторону церкви. Сентябрь 2023г.jpg
 https://egaxegax.github.io/foto.html?priroda
 https://egaxegax.github.io/foto.html?priroda/samolet_v_sinem_nebe_sentyabr_2023g
 https://egaxegax.github.io/foto/Природа/Самолет в синем небе. Сентябрь 2023г.jpg
@@ -10,7 +17,6 @@ https://egaxegax.github.io/foto.html?priroda/sinee_nebo_nad_lesom_v_yaganovo_sen
 https://egaxegax.github.io/foto/Природа/Синее небо над лесом в Яганово. Сентябрь 2023г.jpg
 https://egaxegax.github.io/foto.html?priroda/spelaya_ryabina_v_jujnom_butovo_avgust_2023g
 https://egaxegax.github.io/foto/Природа/Спелая рябина в Южном Бутово. Август 2023г.jpg
-https://egaxegax.github.io/foto.html?moskva
 https://egaxegax.github.io/foto.html?moskva/novaya_dorojka_v_lipkah_avgust_2023g
 https://egaxegax.github.io/foto/Москва/Новая дорожка в Липках. Август 2023г.jpg
 https://egaxegax.github.io/foto.html?moskva/v_bitcevskom_parke_ijul_2023g
