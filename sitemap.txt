@@ -2720,6 +2720,10 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/smenit_parol_polzo
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kontakty
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?gazmanov_rodion
+https://egaxegax.github.io/songs.html?gazmanov_rodion/leti
+https://egaxegax.github.io/songs.html?gazmanov_rodion/poslednij_sneg
+https://egaxegax.github.io/songs.html?gazmanov_rodion/parami
 https://egaxegax.github.io/songs.html?leps_grigorij
 https://egaxegax.github.io/songs.html?leps_grigorij/samyj_luchshij_den
 https://egaxegax.github.io/songs.html?leps_grigorij/vodopadom
@@ -28560,7 +28564,6 @@ https://egaxegax.github.io/songs.html?18+/pro_ljubov
 https://egaxegax.github.io/songs.html?18+/jelanie
 https://egaxegax.github.io/songs.html?18+/snimaju_napryajenie
 https://egaxegax.github.io/songs.html?18+/podglyadel_za_sestroj
-https://egaxegax.github.io/songs.html?leps_grigorij/tablica_akkordov
 https://egaxegax.github.io/index.html
 https://egaxegax.github.io/index.html?2023
 https://egaxegax.github.io/index.html?2023/230921_2330
