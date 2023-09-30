@@ -2474,6 +2474,10 @@ https://egaxegax.github.io/foto/Природа/Утка в пруду в Пар�
 https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/arnold_shchvarcenegger_amerikanskij_bodibilder_i_akter
+https://egaxegax.github.io/posts.html?primery_shell-scenariev
+https://egaxegax.github.io/posts.html?primery_shell-scenariev/python_resursivnoe_obedinenie_fajlov
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/novoeganovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/bekasovo
@@ -2509,7 +2513,6 @@ https://egaxegax.github.io/posts.html?mesta_podmoskovya/krasnozavodsk
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/gjel
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/likino-dulevo
 https://egaxegax.github.io/posts.html?poleznye_travy/pijma
-https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/vladimir_mayakovskij_sovetskij_poet
 https://egaxegax.github.io/posts.html?poleznye_travy/cheremsha
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/instrukciya_polzovaniya_sajtom
@@ -2524,7 +2527,6 @@ https://egaxegax.github.io/posts.html?mesta_podmoskovya/novyj_byt
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/pavlovskij_posad
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/odincovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/klin
-https://egaxegax.github.io/posts.html?primery_shell-scenariev
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/prosmotr_zaryada_batarei_noutbuka_v_konsoli_linux
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/troick
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/pushchino
