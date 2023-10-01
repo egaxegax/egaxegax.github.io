@@ -2495,6 +2495,8 @@ https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/arnold_shchvarcenegger_amerikanskij_bodibilder_i_akter
 https://egaxegax.github.io/posts.html?primery_shell-scenariev
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/python_resursivnoe_obedinenie_fajlov
+https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare
+https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare/tablica_akkordov_s_tabami
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/novoeganovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/bekasovo
@@ -2633,7 +2635,6 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/sinhronizaciya_kat
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/gendalf_mag_iz_vlastelina_kolec
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/kurilshchik_iz_seriala_sekretnye_materialy
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/lev_yashin_sovetskij_futbolnyj_vratar
-https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare/transponirovanie_akkordov
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/raskadrovka_video_s_pomoshchju_mplayer
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/petr_i_russkij_imperator
