@@ -17,7 +17,7 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 .active { background-color:white; }
 .wrap { background-color:#fff; border:1px solid #ddd; }
 .dark { color:#333; }
-.gray { color:#999; }
+.gray { color:#888; }
 .counter { color:#3fa969; }
 .chords strong em { color:#31708f; }
 .chord { color:#4d3ca0; }
