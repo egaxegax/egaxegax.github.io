@@ -52,7 +52,7 @@
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Подборка описаний книг разных авторов из свободных источников.</p>';
   document.getElementById('page_content').innerHTML =
-'<p class="cfloat"><img class="rounded loader" src="/static/img/loader.gif"></p>';
+'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
   function strToUtc(dt){
     var dt = dt.split(' ');
@@ -116,7 +116,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+(i+page.bottom)+'">'+
-      (i==0 ? '<p class="cfloat"><img class="rounded loader" src="/static/img/loader.gif"></p>' : '')+
+      (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
     '</div>';
       upfunc({id: 'book'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);

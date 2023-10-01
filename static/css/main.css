@@ -32,7 +32,7 @@
 .minw { min-width:420px; }
 .maxw { max-width:900px; }
 .main { margin:0px auto 0px auto; max-width:800px; }
-.loader { border:1px solid #afafaf; }
+.loader { border:1px solid #ddd; }
 #header { text-align:center; border-radius:2px; background-color:#d2e0f0; }
 #header img { width:100px; height:40px; color:transparent; }
 #page_content { min-height:300px; }

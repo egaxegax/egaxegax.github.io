@@ -18,9 +18,8 @@
 .about img { max-width:100px; padding:0px 10px 0px 0px; }
 .chords { line-height:1.3em; overflow:auto; }
 .chords em { font-style:italic; }
-.chords strong em { font-weight:500; color:#ffbc00; font-style:normal; }
+.chords strong em { font-weight:500; font-style:normal; }
 .chords a { text-decoration:none; }
-.chord { color:#4d3ca0; background-color:#eee; border-radius:2px; }
 .chord * { display:inline-block; }
 td.av div { min-width:25px; color: #aaa; }
 .av img { width:50px; height:auto; }
@@ -36,12 +35,12 @@ td.av div { min-width:25px; color: #aaa; }
 </head>
 <body>
 <div id="header" class="main nowrap scroll">
-<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
-<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_a.svg" alt="Аккорды"></a>
-<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" onload="this.scrollIntoView()" alt="Книги"></a>
-<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html" class="active"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" onload="this.scrollIntoView()" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
 </div>
 <div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
 <div id="page_header" class="main"></div>
@@ -57,7 +56,7 @@ td.av div { min-width:25px; color: #aaa; }
   src="https://utteranc.es/client.js"
   repo="egaxegax/egaxegax.github.io"
   issue-term="songs"
-  theme="github-dark"
+  theme="github-light"
   crossorigin="anonymous">
 </script>
 </div>
@@ -71,7 +70,7 @@ td.av div { min-width:25px; color: #aaa; }
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Подборка текстов песен с аккордами и просто стихов.</p>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1 rounded" src="/static/img/loader.gif">';
+'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -144,7 +143,7 @@ td.av div { min-width:25px; color: #aaa; }
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+
-      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+      (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
     '</div>';
       upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
