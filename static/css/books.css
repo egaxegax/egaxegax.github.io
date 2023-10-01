@@ -25,6 +25,6 @@ h3 { color:#fff; }
 div.about { background-color:#333; border:1px solid #404040; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
-#header { background-color:#f1f1f1; }
+#header { background-color:#fff; }
 #header a.active,#header a.active img { background-color:#d2e0f0; }
 #page_footer button { background:#3fa969; color:#fff; }
