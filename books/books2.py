@@ -79,5 +79,8 @@ for root, dirs, files in os.walk(path, topdown=False):
           print (epubname, 'Not an valid image')
           raise
         print (i, j, epubname)
+      else:
+        print(i, j, epubname, '!!!', 'desc:', desc, 'cover:', cover)
 
+input("Press to continue indexing...")
 import update
