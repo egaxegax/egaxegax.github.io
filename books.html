@@ -24,12 +24,12 @@
 </head>
 <body>
 <div id="header" class="main nowrap scroll">
-<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
-<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
-<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_a.svg" alt="Книги"></a>
-<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" onload="this.scrollIntoView()" alt="Карты"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html" class="active"><img src="/static/img/books_b.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" onload="this.scrollIntoView()" alt="Карты"></a>
 </div>
 <div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
 <div id="page_header" class="main"></div>
@@ -52,7 +52,7 @@
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Подборка описаний книг разных авторов из свободных источников.</p>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1 rounded" src="/static/img/loader.gif">';
+'<p class="cfloat"><img class="rounded loader" src="/static/img/loader.gif"></p>';
 
   function strToUtc(dt){
     var dt = dt.split(' ');
@@ -116,7 +116,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+(i+page.bottom)+'">'+
-      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+      (i==0 ? '<p class="cfloat"><img class="rounded loader" src="/static/img/loader.gif"></p>' : '')+
     '</div>';
       upfunc({id: 'book'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
