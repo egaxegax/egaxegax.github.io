@@ -27,5 +27,4 @@ h3 { color:#fff; }
 pre { background-color:#eee; color:#222; border-radius:2px; font-size:smaller; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
-#header a.active,#header a.active img { background-color:#f1f1f1; }
 #page_footer button { background:#3fa969; color:#fff; }

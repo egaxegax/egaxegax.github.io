@@ -23,5 +23,4 @@ b em { color: #31708f; }
 h3 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
-#header a.active,#header a.active img { background-color:#f1f1f1; }
 #page_footer button { background:#3fa969; color:#fff; }

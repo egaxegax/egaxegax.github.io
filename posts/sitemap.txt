@@ -1,6 +1,6 @@
 https://egaxegax.github.io/posts.html
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
-https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/arnold_shchvarcenegger_amerikanskij_bodibilder_i_akter
+https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/arnold_shvarcenegger_amerikanskij_bodibilder_i_akter
 https://egaxegax.github.io/posts.html?primery_shell-scenariev
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/python_resursivnoe_obedinenie_fajlov
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare
