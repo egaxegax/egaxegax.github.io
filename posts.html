@@ -47,7 +47,7 @@
   document.getElementById('page_header').innerHTML = 
 '<p class="mtext hspace">Заметки, статьи, цитаты на разные &emsp; <a href="/psubj.html">Темы</a></p>';
   document.getElementById('page_content').innerHTML =
-'<img class="hspace1 rounded" src="/static/img/loader.gif">';
+'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -88,7 +88,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+
-      (i==0 ? '<img class="hspace1 rounded" src="/static/img/loader.gif">' : '')+
+      (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
     '</div>';
       upfunc({id: 'post'+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
