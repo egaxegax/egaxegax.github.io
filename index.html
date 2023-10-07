@@ -102,6 +102,11 @@ code { white-space: pre-wrap; }
         wrap.className = 'wrap';
         addMsg(r,p);
       });
+      if(i == 2){
+        document.getElementById('page_content').innerHTML += 
+      '<div class="ya_rtb3" id="yandex_rtb_R-A-2277013-3" style="max-height:400px"></div>';
+        window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: "R-A-2277013-3", renderTo: "yandex_rtb_R-A-2277013-3"});});
+      }
     }
     if (page.titles.length){
       document.getElementById('page_footer').innerHTML = 
