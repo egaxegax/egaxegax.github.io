@@ -26,11 +26,9 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
-<div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-2"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
@@ -58,16 +56,19 @@
     return tmpl;
   }
 
-  adjustRtbHeight();
-
   upfunc({url: buildURL('posts')+'/index.js'}, function(s){
     eval(s);
     var subjects = SUBJ;
     subjects.sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
-    for(var i=0; i<subjects.length; i++){
+    for(var i=0, irtb=0; i<subjects.length; i++){
       document.getElementById('page_content').innerHTML += 
     '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i])+'</div>';
+      if(i==1 || i==3 || i==5 || subjects.length==1){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:100px; min-height:100px; margin:0 0 10px"></div>';
+        addYaRTB_Block(irtb);
+      }
     }
     if (!subjects.length){
       document.getElementById('page_content').innerHTML += addNotFound();
