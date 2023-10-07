@@ -134,10 +134,8 @@
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = 
-        (page.view == 'list') ? addPaginator(books, page,
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>') :
-        (page.view == 'last') ? '<p class="mtext cfloat">'+
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button></p>' : '';
+        addPaginator(books, page,
+      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += addNotFound();
