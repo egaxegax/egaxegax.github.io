@@ -69,7 +69,7 @@ img.av { width: 100%; height: auto; }
     for(var i=0, irtb=0; i<page.wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>'
-      if(i==4 || i==9 || i==16 || page.wrts.length==1){
+      if(i==4 || i==10 || i==PAGE.per-1 || page.wrts.length==1){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:120px; margin:0 0 10px"></div>';
         addYaRTB_Block(irtb);
