@@ -100,7 +100,7 @@ code { white-space: pre-wrap; }
         wrap.className = 'wrap';
         addMsg(r,p);
       });
-      if(i==1 || i==page.per-1 || page.titles.length==1){
+      if('addYaRTB_Block' in window && (i==1 || i==page.per-1 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:150px; margin:0 0 10px"></div>';
         addYaRTB_Block(irtb);
@@ -108,7 +108,7 @@ code { white-space: pre-wrap; }
     }
     if (page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button></p>');
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += addNotFound();

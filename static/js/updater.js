@@ -66,18 +66,3 @@ function urlBuild(o){
   };
   return href.join('&');
 }
-//
-// fix Yandex.RTB block height
-//
-window.adjustRtbHeight = function(){
-  var elem, hsum = 0;
-  if(!(String(window.location).match(/file:|localhost|127.0.0.1/))){
-    [1,2,3].map(function(i){
-      if(elem = document.getElementById('yandex_rtb_R-A-2277013-'+i)){
-        elem.style.height = (elem.style.maxHeight || window.getComputedStyle(elem).getPropertyValue('max-height'));
-        hsum += elem.offsetHeight;
-      }
-    });
-  }
-  return hsum;
-};

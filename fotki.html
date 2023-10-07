@@ -92,7 +92,7 @@ img:hover { border:2px yellow solid }
     updateMetaTag('description', this.title);
   };
 
-  adjustRtbHeight();
+  if('adjustRtbHeight' in window) adjustRtbHeight();
 
   upfunc({url: buildURL('foto')+'/fotki.js'}, function(s){
     eval(s);

@@ -53,7 +53,19 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, "script", "//yandex.ru/ads/system/context.js", "yaContextCb");
-  function addYaRTB_Block(n, p_dark){ if(document.getElementById('yandex_rtb_R-A-2277013-'+n)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'R-A-2277013-'+n, renderTo:'yandex_rtb_R-A-2277013-'+n});}); }
+  window.adjustRtbHeight = function(){ // fix Yandex.RTB block height
+    var elem, hsum = 0;
+    [1,2,3].map(function(i){
+      if(elem = document.getElementById('yandex_rtb_R-A-2277013-'+i)){
+        elem.style.height = (elem.style.maxHeight || window.getComputedStyle(elem).getPropertyValue('max-height'));
+        hsum += elem.offsetHeight;
+      }
+    });
+    return hsum;
+  }
+  window.addYaRTB_Block = function(n,p_dark){ 
+    if(document.getElementById('yandex_rtb_R-A-2277013-'+n)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'R-A-2277013-'+n, renderTo:'yandex_rtb_R-A-2277013-'+n});});
+  }
   addYaRTB_Block(1);
   addYaRTB_Block(2);
   addYaRTB_Block(3);
