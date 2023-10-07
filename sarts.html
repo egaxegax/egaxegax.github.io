@@ -66,7 +66,7 @@ img.av { width: 50px; height: auto; }
     for(var i=0, irtb=0; i<page.arts.length; i++){
         document.getElementById('page_content').innerHTML +=
     '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
-      if(i==4 || i==9 || i==page.per-1 || page.arts.length==1){
+      if(i==3 || i==10 || i==page.per-1 || page.arts.length==1){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:120px; margin:0 0 10px"></div>';
         addYaRTB_Block(irtb);
