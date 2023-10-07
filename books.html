@@ -126,7 +126,7 @@
             page.view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
         }
       });
-      if('addYaRTB_Block' in window && (i==0 || i==page.per-1 || page.titles.length==1)){
+      if('addYaRTB_Block' in window && (i==0 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:140px; margin:0 0 10px"></div>';
         addYaRTB_Block(irtb);

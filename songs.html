@@ -153,7 +153,7 @@ td.av div { min-width:25px; color: #aaa; }
             page.view == 'list' ? addList(r,p) : addLast(r,p);
         }
       });
-      if('addYaRTB_Block' in window && (i==1 || i==5 || i==page.per-1 || page.titles.length==1)){
+      if('addYaRTB_Block' in window && (i==1 || i==page.per-1 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:140px; margin:0 0 10px"></div>';
         addYaRTB_Block(irtb);
