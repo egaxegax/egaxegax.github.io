@@ -32,7 +32,6 @@ code { white-space: pre-wrap; }
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
 </div>
-<div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -102,9 +101,19 @@ code { white-space: pre-wrap; }
         wrap.className = 'wrap';
         addMsg(r,p);
       });
-      if(i == 1){
+      if(i == 1 || page.titles.length == 1){
         document.getElementById('page_content').innerHTML += 
-      '<div class="ya_rtb3" id="yandex_rtb_R-A-2277013-3" style="max-height:200px; margin:0 0 10px"></div>';
+      '<div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1" style="max-height:200px"></div>';
+        window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: "R-A-2277013-3", renderTo: "yandex_rtb_R-A-2277013-3"});});
+      }
+      if(i == 3){
+        document.getElementById('page_content').innerHTML += 
+      '<div class="ya_rtb2" id="yandex_rtb_R-A-2277013-2" style="max-height:200px"></div>';
+        window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: "R-A-2277013-2", renderTo: "yandex_rtb_R-A-2277013-2"});});
+      }
+      if(i == 5){
+        document.getElementById('page_content').innerHTML += 
+      '<div class="ya_rtb3" id="yandex_rtb_R-A-2277013-3" style="max-height:200px"></div>';
         window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: "R-A-2277013-3", renderTo: "yandex_rtb_R-A-2277013-3"});});
       }
     }
@@ -125,7 +134,7 @@ code { white-space: pre-wrap; }
   upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 4,                  // blocks 1 page
+      per: 7,                  // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.MSGS = TITLES;
