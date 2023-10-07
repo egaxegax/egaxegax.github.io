@@ -135,7 +135,7 @@ td.av div { min-width:25px; color: #aaa; }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = songs.slice(page.bottom, page.top);
-    for(var i=0, irtb=0; i<page.titles.length; i++){
+    for(var i=0; i<page.titles.length; i++){
       var subj = arts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
@@ -155,8 +155,8 @@ td.av div { min-width:25px; color: #aaa; }
       });
       if(i==1 || i==5 || i==9 || page.titles.length==1){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:140px; margin:0 0 10px"></div>';
-        addYaRTB_Block(irtb);
+      '<div id="yandex_rtb_R-A-2277013-'+(++PAGE.irtb)+'" style="max-height:140px; margin:0 0 10px"></div>';
+        addYaRTB_Block(PAGE.irtb);
       }
     }
     if(page.titles.length){
@@ -213,7 +213,8 @@ td.av div { min-width:25px; color: #aaa; }
     window.PAGE = {};
     PAGE.per = 10;  // blocks 1 page
     PAGE.view = 'last';
-    PAGE.num = urlParams().page||0; // start num page 
+    PAGE.num = urlParams().page||0; // start num page
+    PAGE.irtb = 0; // reklama counter
     window.SONGS = TITLES;
     var page_header = 
       '<p class="mtext hspace">'+
