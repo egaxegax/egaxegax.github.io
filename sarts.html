@@ -63,13 +63,13 @@ img.av { width: 50px; height: auto; }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.arts = arts.slice(page.bottom, page.top);
-    for(var i=0; i<page.arts.length; i++){
+    for(var i=0, irtb=0; i<page.arts.length; i++){
         document.getElementById('page_content').innerHTML +=
     '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
       if(i==4 || i==9 || i==14 || page.arts.length==1){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+(++PAGE.irtb)+'" style="max-height:120px; margin:0 0 10px"></div>';
-        addYaRTB_Block(PAGE.irtb);
+      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:120px; margin:0 0 10px"></div>';
+        addYaRTB_Block(irtb);
       }
     }
     if (page.arts.length){
@@ -88,8 +88,7 @@ img.av { width: 50px; height: auto; }
     eval(s);
     window.PAGE = { 
       per: 20,                 // blocks 1 page
-      num: urlParams().page||0,// start num page
-      irtb: 0                  // reklama counter
+      num: urlParams().page||0 // start num page 
     };
     window.ARTS = SUBJ;
     window.SONGS = TITLES;
