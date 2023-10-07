@@ -103,7 +103,7 @@ code { white-space: pre-wrap; }
       if(i == 1 || i == 3 || i == 5 || page.titles.length == 1){
         var id_rtb = 'R-A-2277013-'+irtb;
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+id_rtb+'" style="max-height:200px; margin: 0 0 10px"></div>';
+      '<div id="yandex_rtb_'+id_rtb+'" style="height:200px; margin: 0 0 10px"></div>';
         window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: id_rtb, renderTo: 'yandex_rtb_'+id_rtb});});
       }
     }
@@ -119,8 +119,6 @@ code { white-space: pre-wrap; }
     return page.titles.length == 0;
   }
 
-  adjustRtbHeight();
-  
   upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
