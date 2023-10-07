@@ -31,11 +31,9 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" onload="this.scrollIntoView()" alt="Карты"></a>
 </div>
-<div class="main"><div class="ya_rtb1" id="yandex_rtb_R-A-2277013-1"></div></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<div class="main"><div class="ya_rtb2" id="yandex_rtb_R-A-2277013-2"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
@@ -110,7 +108,7 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = books.slice(page.bottom, page.top);
-    for(var i=0; i<page.titles.length; i++){
+    for(var i=0, irtb=0; i<page.titles.length; i++){
       var subj = wrts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
@@ -128,6 +126,11 @@
             page.view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
         }
       });
+      if(i==1 || i==3 || i==5 || page.titles.length==1){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:140px; margin:0 0 10px"></div>';
+        addYaRTB_Block(irtb);
+      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = 
@@ -142,8 +145,6 @@
     page.num++;
     return page.titles.length == 0;
   }
-
-  adjustRtbHeight();
 
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);

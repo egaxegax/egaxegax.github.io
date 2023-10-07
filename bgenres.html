@@ -68,9 +68,14 @@ img.av { width: 100%; height: auto; }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.gnrs = gnrs.slice(page.bottom, page.top);
-    for(var i=0; i<page.gnrs.length; i++){
+    for(var i=0, irtb=0; i<page.gnrs.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.gnrs[i], page.bottom+i+1)+'</div>';
+      if(i==3 || i==5 || i==11 || page.gnrs.length==1){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:120px; margin:0 0 10px"></div>';
+        addYaRTB_Block(irtb);
+      }
     }
     if (page.gnrs.length){
       document.getElementById('page_footer').innerHTML = addPaginator(gnrs, page,
@@ -81,8 +86,6 @@ img.av { width: 100%; height: auto; }
     page.num++;    
     return page.gnrs.length == 0;
   }
-
-  adjustRtbHeight();
 
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);

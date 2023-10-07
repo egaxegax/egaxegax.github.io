@@ -206,12 +206,10 @@ td.av div { min-width:25px; color: #aaa; }
     }
   }
 
-  adjustRtbHeight();
-
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 10;  // blocks 1 page
+    PAGE.per = 5;  // blocks 1 page
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
