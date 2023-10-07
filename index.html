@@ -100,7 +100,7 @@ code { white-space: pre-wrap; }
         wrap.className = 'wrap';
         addMsg(r,p);
       });
-      if(i==1 || i==3 || i==5 || page.titles.length==1){
+      if(i==1 || i==PAGE.per-1 || page.titles.length==1){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:180px; margin:0 0 10px"></div>';
         addYaRTB_Block(irtb);
@@ -121,7 +121,7 @@ code { white-space: pre-wrap; }
   upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 7,                  // blocks 1 page
+      per: 5,                  // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.MSGS = TITLES;
