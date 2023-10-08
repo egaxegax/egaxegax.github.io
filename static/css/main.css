@@ -62,3 +62,6 @@ hr { border: 1px dashed #777; }
 .ya_rtb1 { margin:0 0 10px; max-height:120px;}
 .ya_rtb2 { max-height:180px; }
 .ya_rtb3 { max-height:150px; }
+.ya_rtb1_1 { margin:0 auto 10px auto; max-height:400px; max-width:300px; }
+.ya_rtb2_1 { margin:0 auto 10px auto; max-height:150px; }
+.ya_rtb3_1 { max-height:200px; }
