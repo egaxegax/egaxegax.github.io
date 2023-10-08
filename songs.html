@@ -125,9 +125,12 @@ td.av div { min-width:25px; color: #aaa; }
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
-  '<div id="songcont" class="msgtext chords nowrap">'+html+'</div>'+
-  '<div id="chordcont" class="chord"></div>'+
-  '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
+  '<table>'+
+    '<tr><td id="songcont" class="msgtext chords nowrap">'+html+'</td>'+
+      '<td valign="center"><div id="yandex_rtb_R-A-2277013-3" style="max-width:300px; max-height:400px"></div></td></tr>'+
+    '<tr><td><div id="chordcont" class="chord"></div>'+
+      '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div></td></tr>'+
+  '</table>';
     addSongChords();
   }
   
