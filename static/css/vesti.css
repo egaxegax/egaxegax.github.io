@@ -1,4 +1,3 @@
-img { max-width:100%; }
 /* dark theme */
 /*.wrap { background-color:#404040; border:1px solid #333; }
 .dark { color:#eee; }
@@ -28,3 +27,8 @@ pre { background-color:#eee; color:#222; border-radius:2px; font-size:smaller; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
 #page_footer button { background:#3fa969; color:#fff; }
+/***/
+img { max-width:100%; }
+.ya_rtb1 { margin:0 auto 10px auto; max-height:250px; }
+.ya_rtb2 { margin:0 auto 10px auto; max-height:150px; }
+.ya_rtb3 { max-height:200px; }
