@@ -134,7 +134,7 @@ td.av div { min-width:25px; color: #aaa; }
     if('addYaRTB_Block' in window) addYaRTB_Block(3);
     addSongChords();
   }
-  
+
   function addPageContent(roots, arts, songs, page){
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
@@ -220,7 +220,7 @@ td.av div { min-width:25px; color: #aaa; }
          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         'На сайте <b><i>$COUNT</i></b> текстов разных &emsp;<a href="/sarts.html">Авторов</a> &nbsp; '+
           '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>'+
-      '</p>'
+      '</p>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
