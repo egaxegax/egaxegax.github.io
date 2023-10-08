@@ -20,7 +20,6 @@
 .chords em { font-style:italic; }
 .chords strong em { font-weight:500; font-style:normal; }
 .chords a { text-decoration:none; }
-.chord * { display:inline-block; }
 td.av div { min-width:25px; color: #aaa; }
 .av img { width:50px; height:auto; }
 #songcont p { margin-top:0;  }
@@ -127,7 +126,7 @@ td.av div { min-width:25px; color: #aaa; }
     document.getElementById(p.id).innerHTML = 
   '<div id="songcont" class="msgtext chords nowrap">'+html+'</div>'+
   '<table class="nopad nomarg" width="100%">'+
-    '<tr><td><div id="chordcont" class="chord"></div></td>'+
+    '<tr><td align=center><div id="chordcont" class="chord"></div></td>'+
       '<td width="30%"><div id="yandex_rtb_R-A-2277013-3" style="max-height:400px"></div></td></tr>'+
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
