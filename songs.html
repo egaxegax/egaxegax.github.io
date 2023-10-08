@@ -126,8 +126,10 @@ td.av div { min-width:25px; color: #aaa; }
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
   '<div id="songcont" class="msgtext chords nowrap">'+html+'</div>'+
-  '<div id="yandex_rtb_R-A-2277013-3" style="max-height:300px"></div>'+
-  '<div id="chordcont" class="chord"></div>'+
+  '<table class="nopad nomarg" width="100%">'+
+    '<tr><td><div id="chordcont" class="chord"></div></td></tr>'+
+    '<tr><td><div id="yandex_rtb_R-A-2277013-3" style="max-height:400px"></div></td></tr>'+
+  '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     if('addYaRTB_Block' in window) addYaRTB_Block(3);
     addSongChords();
