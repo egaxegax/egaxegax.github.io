@@ -52,7 +52,6 @@
   function addFoto(p){
     var html = 
   '<p>'+p.title[2]+'</p>'+
-  '<div id="yandex_rtb_R-A-2277013-1" class="ya_rtb1"></div>'+
   '<a href="'+p.fullurl+'">'+
     '<img src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
   '</a>'; 
@@ -68,7 +67,7 @@
     '<a class="nodecor hspace" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>';
-    if('addYaRTB_Block' in window) { addYaRTB_Block(1); addYaRTB_Block(3); };
+    if('addYaRTB_Block' in window) { addYaRTB_Block(3); };
   }
 
   function addPageContent(roots, subjects, fotos, page){
