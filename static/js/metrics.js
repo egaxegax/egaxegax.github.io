@@ -65,7 +65,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   };
   window.addYaRTB_Block = function(n,p_dark){ 
     if(document.getElementById('yandex_rtb_R-A-2277013-'+n)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'R-A-2277013-'+n, renderTo:'yandex_rtb_R-A-2277013-'+n});});
-    else if(document.getElementById('yandex_rtb_C-A-2277013-'+n)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'C-A-2277013-'+n, renderTo:'yandex_rtb_C-A-2277013-'+n});});
+    else if(document.getElementById('yandex_rtb_C-A-2277013-'+n)) window.yaContextCb.push(function(){Ya.Context.AdvManager.renderWidget({darkTheme: p_dark, blockId:'C-A-2277013-'+n, renderTo:'yandex_rtb_C-A-2277013-'+n});});
   };
   addYaRTB_Block(1);
   addYaRTB_Block(2);
