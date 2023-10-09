@@ -70,6 +70,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   addYaRTB_Block(1);
   addYaRTB_Block(2);
   addYaRTB_Block(3);
+  addYaRTB_Block(4);
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
