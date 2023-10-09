@@ -29,6 +29,6 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_footer button { background:#3fa969; color:#fff; }
 /***/
 img { max-width:100%; }
-.ya_rtb1 { margin:0 auto 10px auto; max-height:250px; }
+.ya_rtb1 { margin:0 auto 10px auto; max-height:160px; }
 .ya_rtb2 { margin:0 auto 10px auto; max-height:150px; }
 .ya_rtb3 { max-height:200px; }
