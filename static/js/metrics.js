@@ -66,10 +66,13 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.addYaRTB_Block = function(blid,p_dark){ 
     if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:blid, renderTo:'yandex_rtb_'+blid});});
   };
+  window.addYaRTB_BlockW = function(blid,p_dark){ 
+    if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.renderWidget({darkTheme: p_dark, blockId:blid, renderTo:'yandex_rtb_'+blid});});
+  };
   addYaRTB_Block('R-A-2277013-1');
   addYaRTB_Block('R-A-2277013-2');
   addYaRTB_Block('R-A-2277013-3');
-  addYaRTB_Block('C-A-2277013-4');
+  addYaRTB_BlockW('C-A-2277013-4');
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
