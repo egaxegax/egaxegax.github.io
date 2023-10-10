@@ -100,11 +100,12 @@ for root, dirs, files in os.walk(path, topdown=False):
             print(root, name)
             raise
         # make thumbnails
-        im_th = ImageOps.exif_transpose(im)
-        im_th.thumbnail((800,600))
-        if not os.path.exists(os.path.join(root, 'th')):
-          os.mkdir(os.path.join(root, 'th'))
-        im_th.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
+        if not os.path.exists(os.path.join(root, 'th', fname+'.jpg')):
+          im_th = ImageOps.exif_transpose(im)
+          im_th.thumbnail((800,600))
+          if not os.path.exists(os.path.join(root, 'th')):
+            os.mkdir(os.path.join(root, 'th'))
+          im_th.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
     elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
       ftime = os.path.getmtime(os.path.join(root, name))
       if fname != 'about': # skip about
