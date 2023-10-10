@@ -14,9 +14,6 @@
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="stylesheet" href="/static/css/books.css">
 <link rel="canonical" href="books.html">
-<style>
-.about img { max-width: 120px; padding:0px 10px 0px 0px; }
-</style>
 <script defer src="/static/js/metrics.js" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
@@ -108,7 +105,7 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = books.slice(page.bottom, page.top);
-    for(var i=0, irtb=0; i<page.titles.length; i++){
+    for(var i=0, ir=0; i<page.titles.length; i++){
       var subj = wrts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
@@ -128,8 +125,8 @@
       });
       if('addYaRTB_Block' in window && (i==0 || i==page.per-1 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:140px; margin:0 0 10px"></div>';
-        addYaRTB_Block(irtb);
+      '<div id="yandex_rtb_R-A-2277013-'+(++ir)+'" style="max-height:140px; margin:0 0 10px"></div>';
+        addYaRTB_Block('R-A-2277013-'+ir);
       }
     }
     if(page.titles.length){

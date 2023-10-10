@@ -24,3 +24,5 @@ h3 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
 #page_footer button { background:#3fa969; color:#fff; }
+/**/
+.about img { max-width: 120px; padding:0px 10px 0px 0px; }

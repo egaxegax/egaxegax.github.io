@@ -61,13 +61,13 @@
     var subjects = SUBJ;
     subjects.sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
-    for(var i=0, irtb=0; i<subjects.length; i++){
+    for(var i=0, ir=0; i<subjects.length; i++){
       document.getElementById('page_content').innerHTML += 
     '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i])+'</div>';
       if('addYaRTB_Block' in window && (i==1 || i==5 || subjects.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:120px; margin:0 0 10px"></div>';
-        addYaRTB_Block(irtb, true);
+      '<div id="yandex_rtb_R-A-2277013-'+(++ir)+'" style="max-height:120px; margin:0 0 10px"></div>';
+        addYaRTB_Block('R-A-2277013-'+ir, true);
       }
     }
     if (!subjects.length){

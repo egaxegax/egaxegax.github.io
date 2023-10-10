@@ -66,13 +66,13 @@ img.av { width: 100%; height: auto; }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.wrts = wrts.slice(page.bottom, page.top);
-    for(var i=0, irtb=0; i<page.wrts.length; i++){
+    for(var i=0, ir=0; i<page.wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>'
       if('addYaRTB_Block' in window && (i==4 || i==10 || i==page.per-1 || page.wrts.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+(++irtb)+'" style="max-height:120px; margin:0 0 10px"></div>';
-        addYaRTB_Block(irtb);
+      '<div id="yandex_rtb_R-A-2277013-'+(++ir)+'" style="max-height:120px; margin:0 0 10px"></div>';
+        addYaRTB_Block('R-A-2277013-'+ir);
       }
     }
     if (page.wrts.length){
