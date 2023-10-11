@@ -68,7 +68,7 @@ img.av { width: 50px; height: auto; }
     '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
       if('addYaRTB_Block' in window && (i==3 || i==10 || i==page.per-1 || page.arts.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+(++ir)+'" style="max-height:120px; margin:0 0 10px"></div>';
+      '<div id="yandex_rtb_R-A-2277013-'+(++ir)+'" class="bmarg mh120"></div>';
         addYaRTB_Block('R-A-2277013-'+ir);
       }
     }
