@@ -61,7 +61,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
   var p_full = Number((sp.getAttribute('data-full') == null) ? 0 : sp.getAttribute('data-full'));
   console.log('p_dark', p_dark, 'p_floor', p_floor, 'p_top', p_top, 'p_full', p_full);
-  for(var n in YA_BLOCKS) { addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]); }
+  for(var n in YA_BLOCKS) { addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n], p_dark); }
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: 'R-A-2277013-5', type: 'floorAd'});});
   if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: 'R-A-2277013-7', type: 'topAd'});});
   if(p_full) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: 'R-A-2277013-8', type: 'fullscreen', platform: 'touch'});});
