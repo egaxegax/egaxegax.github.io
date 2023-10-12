@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="stylesheet" href="/static/css/foto.css">
 <link rel="canonical" href="foto.html">
-<script defer src="/static/js/metrics.js" data-floor="0"></script>
+<script defer src="/static/js/metrics.js" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
 </head>
@@ -27,10 +27,9 @@
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
-<div class="main"><div class="ya_rtb1 bmarg" id="yandex_rtb_R-A-2277013-1"></div></div>
+<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-9"></div></div>
 <div id="page_content" class="main"></div>
-<div class="main"><div class="ya_rtb2 bmarg" id="yandex_rtb_R-A-2277013-2"></div></div>
-<div class="main"><div class="ya_rtb3" id="yandex_rtb_R-A-2277013-3"></div></div>
+<div class="main"><div class="bmarg mh160" id="yandex_rtb_R-A-2277013-10"></div></div>
 <div id="page_footer" class="main"></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Подборка различных фоток, снятых на телефон или взятых из свободных источников. &nbsp; 
@@ -101,8 +100,6 @@
     page.num++;
     return (page.titles.length == 0);
   }
-
-  if('adjustRtbHeight' in window) adjustRtbHeight();
 
   upfunc({url: buildURL('foto')+'/index.js'}, function(s){
     eval(s);

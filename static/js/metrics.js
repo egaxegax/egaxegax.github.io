@@ -53,26 +53,9 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
-  window.adjustRtbHeight = function(){ // fix Yandex.RTB block height
-    var elem, hsum = 0;
-    [1,2,3].map(function(i){
-      if(elem = document.getElementById('yandex_rtb_R-A-2277013-'+i)){
-        elem.style.height = (elem.style.maxHeight || window.getComputedStyle(elem).getPropertyValue('max-height'));
-        hsum += elem.offsetHeight;
-      }
-    });
-    return hsum;
-  };
-  window.addYaRTB_Block = function(blid,p_dark){ 
-    if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:blid, renderTo:'yandex_rtb_'+blid});});
-  };
-  window.addYaRTB_BlockW = function(blid,p_dark){ 
-    if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.renderWidget({darkTheme: p_dark, blockId:blid, renderTo:'yandex_rtb_'+blid});});
-  };
-  addYaRTB_Block('R-A-2277013-1');
-  addYaRTB_Block('R-A-2277013-2');
-  addYaRTB_Block('R-A-2277013-3');
-  addYaRTB_BlockW('C-A-2277013-4');
+  window.YA_BLOCKS = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
+  window.addYaRTB_Block = function(blid,p_dark){ if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:blid, renderTo:'yandex_rtb_'+blid});}); };
+  for(var n in YA_BLOCKS) { addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]); }
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
