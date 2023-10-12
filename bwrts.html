@@ -72,7 +72,7 @@ img.av { width: 100%; height: auto; }
     for(var i=0, ir=0; i<page.wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>'
-      if('addYaRTB_Block' in window && (i==3 | || page.wrts.length==1)){
+      if('addYaRTB_Block' in window && (i==3 || page.wrts.length==1)){
         for(var n=1; n<4; n++){
           document.getElementById('page_content').innerHTML += 
         '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh140"></div>';
