@@ -64,10 +64,12 @@
     for(var i=0, ir=0; i<subjects.length; i++){
       document.getElementById('page_content').innerHTML += 
     '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i])+'</div>';
-      if('addYaRTB_Block' in window && (i==1 || i==5 || i==subjects.length-1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+(++ir)+'" class="bmarg mh120"></div>';
-        addYaRTB_Block('R-A-2277013-'+ir, true);
+      if('addYaRTB_Block' in window && (i==3 || subjects.length==1)){
+        for(var n=1; n<4; n++){
+          document.getElementById('page_content').innerHTML += 
+        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh140"></div>';
+          addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n], true);
+        }
       }
     }
     if (!subjects.length){

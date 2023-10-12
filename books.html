@@ -126,7 +126,7 @@
             page.view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
         }
       });
-      if('addYaRTB_Block' in window && (i==1 || page.titles.length==1)){
+      if('addYaRTB_Block' in window && (i==0 || page.titles.length==1)){
         for(var n=1; n<4; n++){
           document.getElementById('page_content').innerHTML += 
         '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh140"></div>';
