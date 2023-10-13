@@ -59,6 +59,7 @@ input[type=button] { font-family:inherit; font-size:inherit; padding:0px; }
 input[class=find-btn] { padding:4px; margin:4px; }
 hr { border: 1px dashed #777; }
 /* reklama */
+.mh100 { max-height:120px; }
 .mh120 { max-height:120px; }
 .mh140 { max-height:140px; }
 .mh160 { max-height:160px; }

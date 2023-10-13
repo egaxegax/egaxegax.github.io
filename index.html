@@ -34,10 +34,10 @@ code { white-space: pre-wrap; }
 </div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
-<div id="yandex_rtb_R-A-2277013-9" class="bmarg mh120"></div>
-<div id="yandex_rtb_R-A-2277013-10" class="bmarg mh120"></div>
-<div id="yandex_rtb_R-A-2277013-11" class="bmarg mh120"></div>
 <div id="page_footer" class="main"></div>
+<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-9"></div></div>
+<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-10"></div></div>
+<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-11"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
@@ -103,10 +103,10 @@ code { white-space: pre-wrap; }
         wrap.className = 'wrap';
         addMsg(r,p);
       });
-      if('addYaRTB_Block' in window && (i==1 || page.titles.length==1)){
+      if('addYaRTB_Block' in window && (i==1 page.titles.length==1)){
         for(var n=1; n<4; n++){
           document.getElementById('page_content').innerHTML += 
-        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh120" ></div>';
+        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh120"></div>';
           addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]);
         }
       }
