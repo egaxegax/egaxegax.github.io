@@ -103,10 +103,12 @@ code { white-space: pre-wrap; }
         wrap.className = 'wrap';
         addMsg(r,p);
       });
-      if('addYaRTB_Block' in window && (i==1 || i==2 || i==3 || page.titles.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh120"></div>';
-        addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]);
+      if('addYaRTB_Block' in window && (i==1 || page.titles.length==1)){
+        for(var n=1; n<4; n++){
+          document.getElementById('page_content').innerHTML += 
+        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh120"></div>';
+          addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]);
+        }
       }
     }
     if (page.titles.length){
