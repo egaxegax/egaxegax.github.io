@@ -29,3 +29,4 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 img { max-width:100%; }
+code { white-space: pre-wrap; }
