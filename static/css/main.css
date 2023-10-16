@@ -29,7 +29,7 @@
 .counter, .smaller { font-size:smaller; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
-.tcell { display: table-cell; }
+.tcell { display: table-cell; padding: 5px; }
 .main { margin:0px auto 0px auto; max-width:800px; }
 .loader { border:1px solid #ddd; }
 #header { text-align:center; border-radius:2px; background-color:#d2e0f0; }
@@ -65,7 +65,7 @@ hr { border: 1px dashed #777; }
 .mh180 { max-height:180px; }
 .mh500 { max-height:500px; }
 .mw250 { max-width:250px; }
-.mw400 { max-width:250px; }
+.mw400 { max-width:400px; }
 .ya_rtb1 { max-height:120px; }
 .ya_rtb2 { max-height:120px; }
 .ya_rtb3 { max-height:130px; }
