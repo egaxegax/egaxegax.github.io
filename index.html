@@ -102,13 +102,12 @@
       });
       if('addYaRTB_Block' in window && (i==1 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div class="mh500">';
+      '<div id="rtb'+i+'" class="mh500"></div>';
         for(var n=1; n<3; n++){
-          document.getElementById('page_content').innerHTML += 
+          document.getElementById('rtb'+i).innerHTML += 
         '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="tcell mw400"></div>';
           addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]);
         }
-        document.getElementById('page_content').innerHTML += '</div>';
       }
     }
     if (page.titles.length){
