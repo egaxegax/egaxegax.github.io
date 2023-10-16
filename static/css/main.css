@@ -29,6 +29,7 @@
 .counter, .smaller { font-size:smaller; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
+.tab { display:table; }
 .tcell { display: table-cell; padding: 5px; }
 .main { margin:0px auto 0px auto; max-width:800px; }
 .loader { border:1px solid #ddd; }
