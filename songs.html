@@ -33,7 +33,7 @@ td.av div { min-width:25px; color: #aaa; }
 <script src="/static/js/template.js"></script>
 </head>
 <body>
-<div id="header" class="main nowrap scroll">
+<div id="header" class="main scroll">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
@@ -82,7 +82,7 @@ td.av div { min-width:25px; color: #aaa; }
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
-    '<table border=0 width="99%" style="white-space: nowrap; display:block; overflow:auto"><tr>'+
+    '<table border=0 width="99%" class="scroll"><tr>'+
       '<td class="av" align="center" valign="middle">'+
         '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""><div>'+
       '</td>'+
