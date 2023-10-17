@@ -65,5 +65,5 @@ hr { border: 1px dashed #777; }
 .mh400 { max-height:400px; }
 .mh500 { max-height:500px; }
 .mw250 { max-width:250px; }
-.mw400 { max-width:350px; }
+.mw300 { width:300px; }
 .vban { display:inline-block; margin:0 0px 5px 10px; }

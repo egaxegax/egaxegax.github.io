@@ -101,11 +101,14 @@
         addMsg(r,p);
       });
       if('addYaRTB_Block' in window && (i==1 || page.titles.length==1)){
-        for(var n=1; n<3; n++){
-          document.getElementById('page_content').innerHTML += 
-        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="scroll vban mh300 mw400"></div>';
+        document.getElementById('page_content').innerHTML += 
+      '<div id="rek1" class="scroll">'+
+        (function(str){ for(var n=1; n<4; n++){
+          document.getElementById('rek1').innerHTML += 
+        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="vban mh300 mw300"></div>';
+        }})('')+
+      '</div>';
           addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]);
-        }
       }
     }
     if (page.titles.length){
