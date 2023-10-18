@@ -27,10 +27,8 @@
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
-<div class="main"><div class="bmarg mh100" id="yandex_rtb_R-A-2277013-9"></div></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-10"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Подборка различных фоток, снятых на телефон или взятых из свободных источников. &nbsp; 
   <a href="/fotki.html">Ещё фотки</a>
@@ -61,12 +59,14 @@
     }
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext cfloat">'+html+'</div>'+
+  '<div class="mh100" id="yandex_rtb_R-A-2277013-2"></div>'+
   '<h2 class="msgtext cfloat">'+p.title[2]+'</h2>'+
   '<div class="msgfooter">'+
     '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<a class="nodecor hspace" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>';
+    if('addYaRTB_Block' in window) { addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[2]); };
   }
 
   function addPageContent(roots, subjects, fotos, page){

@@ -32,9 +32,6 @@ img.av { width: 100%; height: auto; }
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-9"></div></div>
-<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-10"></div></div>
-<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-11"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
@@ -73,11 +70,9 @@ img.av { width: 100%; height: auto; }
       document.getElementById('page_content').innerHTML +=
     '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.gnrs[i], page.bottom+i+1)+'</div>';
       if('addYaRTB_Block' in window && (i==3 || page.gnrs.length==1)){
-        for(var n=1; n<4; n++){
-          document.getElementById('page_content').innerHTML += 
-        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[n]+'" class="bmarg mh140"></div>';
-          addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n]);
-        }
+        document.getElementById('page_content').innerHTML += 
+      '<div class="cfloat"><div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[3]+'" class="bmarg mh400"></div></div>';
+        addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[3]);
       }
     }
     if (page.gnrs.length){
