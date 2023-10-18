@@ -62,11 +62,12 @@ hr { border:1px dashed #777; }
 .mh140 { max-height:140px; }
 .mh160 { max-height:160px; }
 .mh250 { max-height:250px; }
-.mh300 { max-height:320px; }
+.mh300 { max-height:300px; }
+.mh400 { max-height:400px; }
 .mh400 { max-height:400px; }
 .mh500 { max-height:500px; }
 .mw180 { max-width:170px; }
 .mw250 { max-width:250px; }
 .mw300 { max-width:300px; }
 .mw350 { max-width:350px; }
-.mw500 { max-width:500px; }
+.mw450 { max-width:450px; }
