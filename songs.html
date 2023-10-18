@@ -125,10 +125,10 @@ td.av div { min-width:25px; color: #aaa; }
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
   '<div id="songcont" class="msgtext chords nowrap">'+html+'</div>'+
-  '<table class="nopad nomarg" width="100%">'+
+  '<div>'+
     '<tr><td width="3%"></td>'+
       '<td><div id="chordcont" class="chord"></div></td>'+
-      '<td valign="top" align="center"><br><div id="yandex_rtb_R-A-2277013-1" class="mh500 mw300"></div></td></tr>'+
+      '<td valign="top" align="center" id="yandex_rtb_R-A-2277013-1" class="mh500 mw300"></td></tr>'+
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     if('addYaRTB_Block' in window) addYaRTB_Block('R-A-2277013-1');
