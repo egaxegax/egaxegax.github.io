@@ -29,7 +29,6 @@
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<div class="main"><div class="bmarg mh120" id="yandex_rtb_R-A-2277013-9"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
@@ -65,10 +64,11 @@
     for(var i=0, ir=0; i<subjects.length; i++){
       document.getElementById('page_content').innerHTML += 
     '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i])+'</div>';
-      if('addYaRTB_Block' in window && (i==3 || subjects.length==1)){
+      if('addYaRTB_Block' in window && (i==2 || i==8 || subjects.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[2]+'" class="bmarg mw600 mh300"></div>';
-        addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[2], true);
+      '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[1+ir]+'" class="bmarg mw600 mh300"></div>';
+        addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[1+ir], true);
+        ir++;
       }
     }
     if (!subjects.length){
