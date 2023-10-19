@@ -14,7 +14,7 @@
 .inl { display:inline; }
 .grid { display:grid; }
 .hmarg { margin:0 12px; }
-.bmarg { margin: 0 0 10px; }
+.bmarg { margin: 0 auto 10px auto; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
 .nowrap { white-space: nowrap; }
