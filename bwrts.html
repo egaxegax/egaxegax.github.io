@@ -66,9 +66,9 @@
     for(var i=0, ir=0; i<page.wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>'
-      if('addYaRTB_Block' in window && (i==2 || i==7 || i==13 || page.wrts.length==1)){
+      if('addYaRTB_Block' in window && (i==2 || i==7 || i==15 || page.wrts.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[1+ir]+'" class="bmarg mw600 mh300"></div>';
+      '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[1+ir]+'" class="bmarg mw600 mh_'+(1+ir)+'"></div>';
         addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[1+ir]);
         ir++;
       }
