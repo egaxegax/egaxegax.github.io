@@ -51,7 +51,7 @@
   function addFoto(p){
     var html = 
   '<a href="'+p.fullurl+'">'+
-    '<img src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
+    '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
   '</a>'; 
     var meta = document.head.getElementsByTagName('meta');
     for(var j in meta){
@@ -59,7 +59,7 @@
     }
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext cfloat">'+html+'</div>'+
-  '<div class="mh100" id="yandex_rtb_R-A-2277013-2"></div>'+
+  '<div class="mh120" id="yandex_rtb_R-A-2277013-2"></div>'+
   '<h2 class="msgtext cfloat">'+p.title[2]+'</h2>'+
   '<div class="msgfooter">'+
     '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
