@@ -57,12 +57,12 @@ input[type=button] { font-family:inherit; font-size:inherit; padding:0px; }
 input[class=find-btn] { padding:4px; margin:4px; }
 hr { border:1px dashed #777; }
 /* reklama */
-.mh100 { max-height:120px; }
+.mh100 { max-height:100px; }
 .mh120 { max-height:120px; }
 .mh160 { max-height:160px; }
 .mh500 { max-height:500px; }
-.mh_1 { max-height:200px; }
-.mh_2 { max-height:300px; }
+.mh_1 { max-height:300px; }
+.mh_2 { max-height:250px; }
 .mh_3 { max-height:200px; }
 .mw300 { max-width:300px; }
 .mw_1 { max-width:700px; }
