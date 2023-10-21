@@ -52,7 +52,7 @@
   function find(){
     if(!document.getElementById('tfind').value){
       document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
-    }else{
+    } else{
       window.location = '/posts.html?find='+ document.getElementById('tfind').value;
     }
   }
