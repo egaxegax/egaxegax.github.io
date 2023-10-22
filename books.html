@@ -77,6 +77,8 @@
       '<p class="smaller gray">Жанр  <a class="nodecor hspace" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
     '</td></tr><tr>'+
     '<td colspan="3">'+
+      ('YA_BLOCKS' in window && YA_BLOCKS[4+p.i] ? 
+        '<div id="yandex_rtb_R-A-2277013-'+YA_BLOCKS[4+p.i]+'" class="mh100"></div>' : '')+
       '<p>'+
         (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
           '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></p>'
@@ -87,6 +89,7 @@
     '<td></td>'+
     '<td align="right" class="smaller"><i class="counter">'+((p.i+(ci||0)))+'</i></td></tr>'+
   '</table>';
+    if('addYaRTB_Block' in window) addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[1+p.i]);
   }
   
   function addAbout(r,p){
