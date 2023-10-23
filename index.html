@@ -84,7 +84,7 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
-    for(var i=0, ir=0; i<page.titles.length; i++){
+    for(var i=0; i<page.titles.length; i++){
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
@@ -99,9 +99,8 @@
       });
       if(window.addYaRTB_Block && (i==0 || i==2 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+YA_RTB[1+ir]+'" class="bmarg mw_'+(1+ir)+' mh_'+(1+ir)+'"></div>';
-        addYaRTB_Block(YA_RTB[1+ir], false, YA_RTB[1]);
-        ir++;
+      '<div id="yandex_rtb_'+YA_RTB[i+page.bottom]+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block(YA_RTB[i+page.bottom], false, YA_RTB[1]);
       }
     }
     if (page.titles.length){

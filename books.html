@@ -78,7 +78,7 @@
     '</td></tr><tr>'+
     '<td colspan="3">'+
     (window.addYaRTB_Block ? 
-      '<div id="yandex_rtb_'+YA_RTB[3+p.i]+'" class="mh80"></div>' : '')+
+      '<div id="yandex_rtb_'+YA_RTB[p.i]+'" class="mh80"></div>' : '')+
       '<p>'+
         (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
           '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></p>'
@@ -89,7 +89,7 @@
     '<td></td>'+
     '<td align="right" class="smaller"><i class="counter">'+((p.i+(ci||0)))+'</i></td></tr>'+
   '</table>';
-    if(window.addYaRTB_Block) addYaRTB_Block(YA_RTB[3+p.i], false, YA_RTB[3]);
+    if(window.addYaRTB_Block) addYaRTB_Block(YA_RTB[p.i], false, YA_RTB[3]);
   }
   
   function addAbout(r,p){
@@ -108,7 +108,7 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = books.slice(page.bottom, page.top);
-    for(var i=0, ir=0; i<page.titles.length; i++){
+    for(var i=0; i<page.titles.length; i++){
       var subj = wrts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];

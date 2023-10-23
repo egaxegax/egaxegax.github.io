@@ -66,14 +66,13 @@ img.av { width: 100%; height: auto; }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.gnrs = gnrs.slice(page.bottom, page.top);
-    for(var i=0, ir=0; i<page.gnrs.length; i++){
+    for(var i=0; i<page.gnrs.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.gnrs[i], page.bottom+i+1)+'</div>';
       if(window.addYaRTB_Block && (i==2 || i==5 || i==8 || page.gnrs.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+YA_RTB[1+ir]+'" class="bmarg mw_'+(1+ir)+' mh_'+(1+ir)+'"></div>';
-        addYaRTB_Block(YA_RTB[1+ir], false, YA_RTB[3]);
-        ir++;
+      '<div id="yandex_rtb_'+YA_RTB[i+page.bottom]+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block(YA_RTB[i+page.bottom], false, YA_RTB[3]);
       }
     }
     if (page.gnrs.length){
