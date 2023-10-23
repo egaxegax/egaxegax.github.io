@@ -57,14 +57,16 @@ input[type=button] { font-family:inherit; font-size:inherit; padding:0px; }
 input[class=find-btn] { padding:4px; margin:4px; }
 hr { border:1px dashed #777; }
 /* reklama */
+.mh80 { max-height:80px; }
 .mh100 { max-height:100px; }
 .mh120 { max-height:120px; }
 .mh160 { max-height:160px; }
 .mh500 { max-height:500px; }
-.mh_1 { max-height:300px; }
+.mh_1 { max-height:280px; }
 .mh_2 { max-height:300px; }
 .mh_3 { max-height:250px; }
 .mw300 { max-width:300px; }
+.mw500 { max-width:500px; }
 .mw_1 { max-width:750px; }
 .mw_2 { max-width:750px; }
 .mw_3 { max-width:750px; }

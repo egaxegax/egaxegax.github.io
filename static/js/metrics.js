@@ -53,16 +53,15 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
-  window.YA_BLOCKS = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
-  window.addYaRTB_Block = function(blid,p_dark){ if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:blid, renderTo:'yandex_rtb_'+blid});}); };
-  window.addYaRTB_Widget = function(blid,p_dark){ if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.renderWidget({darkTheme: p_dark, blockId:blid, renderTo:'yandex_rtb_'+blid});}); };
+  window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
+  window.addYaRTB_Block = function(blid,p_dark,rtbid){ if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});}); };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_dark = Number((sp.getAttribute('data-dark') == null) ? 0 : sp.getAttribute('data-dark'));
   var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
   var p_full = Number((sp.getAttribute('data-full') == null) ? 0 : sp.getAttribute('data-full'));
   console.log('p_dark', p_dark, 'p_floor', p_floor, 'p_top', p_top, 'p_full', p_full);
-  for(var n in YA_BLOCKS) { addYaRTB_Block('R-A-2277013-'+YA_BLOCKS[n], p_dark); }
+  for(var blid in YA_RTB) { addYaRTB_Block(YA_RTB[blid], p_dark); }
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: 'R-A-2277013-5', type: 'floorAd'});});
   if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: 'R-A-2277013-7', type: 'topAd'});});
   if(p_full) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({blockId: 'R-A-2277013-8', type: 'fullscreen', platform: 'touch'});});
