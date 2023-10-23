@@ -30,10 +30,8 @@
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
-<div class="main"><div id="yandex_rtb_3" class="bmarg mh120"></div></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<div class="main"><div id="yandex_rtb_9" class="bmarg mh160"></div></div>
 <p class="cfloat smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
@@ -67,6 +65,7 @@
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
+    '<div id="yandex_rtb_'+(p.i)+'" class="bmarg mh120"></div>'+
     html+
   '</div>'+
     (p.title[2] !== 'README' ? 
@@ -76,6 +75,7 @@
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
     : '');
+    if(window.addYaRTB_Block) addYaRTB_Block(p.i, false, YA_RTB[1]);
   }
 
   function addPageContent(roots, subjects, posts, page){
