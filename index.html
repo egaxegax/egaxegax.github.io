@@ -99,8 +99,8 @@
       });
       if(window.addYaRTB_Block && (i==0 || i==2 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+YA_RTB[i+page.bottom]+'" class="bmarg mw mh"></div>';
-        addYaRTB_Block(YA_RTB[i+page.bottom], false, YA_RTB[1]);
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
       }
     }
     if (page.titles.length){

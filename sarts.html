@@ -65,8 +65,8 @@
     '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
       if(window.addYaRTB_Block && (i==1 || i==6 || i==12 || page.arts.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+YA_RTB[i+page.bottom]+'" class="bmarg mw mh"></div>';
-        addYaRTB_Block(YA_RTB[i+page.bottom], false, YA_RTB[2]);
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
       }
     }
     if (page.arts.length){
