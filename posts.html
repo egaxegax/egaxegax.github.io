@@ -90,7 +90,7 @@
     '<div id="post'+(i+page.bottom)+'">'+
       (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
     '</div>';
-      upfunc({id: 'post'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'post'+(i+page.bottom), if: i==0, i: 1+(i+page.bottom), subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
