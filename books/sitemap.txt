@@ -1,4 +1,6 @@
 https://egaxegax.github.io/books.html
+https://egaxegax.github.io/books.html?alberto_chudov
+https://egaxegax.github.io/books.html?alberto_chudov/imperiya_aratan
 https://egaxegax.github.io/books.html?djanni_rodari
 https://egaxegax.github.io/books.html?djanni_rodari/prikljucheniya_chipollino
 https://egaxegax.github.io/books.html?boris_stepanovich_jitkov
@@ -35,8 +37,6 @@ https://egaxegax.github.io/books.html?rober_mjushemble
 https://egaxegax.github.io/books.html?rober_mjushemble/orgazm_ili_ljubovnye_utehi_na_zapade_istoriya_naslajdeniya_s_xvi_veka_do_nashih_dnej
 https://egaxegax.github.io/books.html?piter_f_gamilton
 https://egaxegax.github.io/books.html?piter_f_gamilton/dremljushchaya_bezdna
-https://egaxegax.github.io/books.html?alberto_chudov
-https://egaxegax.github.io/books.html?alberto_chudov/imperiya_aratan
 https://egaxegax.github.io/books.html?dmitrij_stepanovich_gradinar
 https://egaxegax.github.io/books.html?dmitrij_stepanovich_gradinar/zvezdnyj_patent_tetralogiya
 https://egaxegax.github.io/books.html?vladimir_aleksandrovich_suhinin
