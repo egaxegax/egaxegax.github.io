@@ -82,13 +82,13 @@
     '<div id="yandex_rtb_'+p.i+'" class="bmarg mh100"></div>' : '')+
     '<div>'+
       (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
-        '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></p>'
+        '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
       : r+
         '<a class="nodecor hspace smaller" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
   '</div>'+
   '<div class="msgfooter">'+
     '<a class="nodecor hspace" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
-    '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
+    '<span class="gray"><i>'+buildDate(p.title[3])+'</i></span>'+
   '</div>';
     if(window.addYaRTB_Block) addYaRTB_Block(p.i, false, YA_RTB[3]);
   }
