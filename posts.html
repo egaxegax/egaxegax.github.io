@@ -65,7 +65,7 @@
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
-    '<div id="yandex_rtb_'+(p.i)+'" class="bmarg mh120"></div>'+
+    '<div id="yandex_rtb_'+(p.i)+'" class="bmarg mh140"></div>'+
     html+
   '</div>'+
     (p.title[2] !== 'README' ? 
