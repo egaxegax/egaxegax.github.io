@@ -60,9 +60,10 @@ hr { border:1px dashed #777; }
 .mh80 { max-height:80px; }
 .mh100 { max-height:100px; }
 .mh120 { max-height:120px; }
+.mh140 { max-height:140px; }
 .mh160 { max-height:160px; }
 .mh500 { max-height:500px; }
 .mh { max-height:300px; }
 .mw300 { max-width:300px; }
-.mw500 { max-width:500px; }
+.mw600 { max-width:600px; }
 .mw { max-width:780px; }
