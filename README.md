@@ -26,7 +26,7 @@
 
 * Из папки *books* запустить скрипт
 
-        python books.py <dir_with_epub_files>
+        python books2.py <dir_with_epub_files>
 
 * Обновить страницу в браузере.
 
