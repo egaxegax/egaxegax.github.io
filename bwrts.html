@@ -66,7 +66,7 @@
     for(var i=0; i<page.wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>';
-      if(window.addYaRTB_Block && (i==2 || i==7 || i==14 || page.wrts.length==1)){
+      if(window.addYaRTB_Block && (i==2 || i==7 || page.wrts.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[3]);
@@ -85,7 +85,7 @@
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 20,                 // blocks 1 page
+      per: 10,                 // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.WRTS = SUBJ,
