@@ -124,8 +124,8 @@ td.av div { min-width:25px; color: #aaa; }
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
+  '<div id="yandex_rtb_'+(p.i)+'" class="bmarg mh140"></div>'+
   '<div id="songcont" class="msgtext chords nowrap">'+
-    '<div id="yandex_rtb_'+(p.i)+'" class="bmarg mh140"></div>'+
     html+
   '</div>'+
   '<table>'+
