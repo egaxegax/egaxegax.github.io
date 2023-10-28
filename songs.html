@@ -124,11 +124,11 @@ td.av div { min-width:25px; color: #aaa; }
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
-  '<div id="songcont" class="msgtext chords nowrap">'+
-    '<div id="yandex_rtb_t'+(p.i)+'" class="bmarg mw mh140"></div>'+
+  '<div id="yandex_rtb_t'+(p.i)+'" class="bmarg mw mh140"></div>'+
+  '<div id="songcont" class="msgtext chords nowrap mw600">'+
     html+
   '</div>'+
-  '<table>'+
+  '<table class="bmarg mw600">'+
     '<tr><td width="3%"></td>'+
       '<td><div id="chordcont" class="chord"></div></td>'+
       '<td valign="top" align="center"><div id="yandex_rtb_ch'+(p.i)+'" class="mh_2 mw_2"></div></td></tr>'+

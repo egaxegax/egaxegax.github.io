@@ -1,11 +1,12 @@
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?leps_grigorij
+https://egaxegax.github.io/songs.html?leps_grigorij/samyj_luchshij_den_2
 https://egaxegax.github.io/songs.html?shaman_shaman
 https://egaxegax.github.io/songs.html?shaman_shaman/ya_russkij
 https://egaxegax.github.io/songs.html?gazmanov_rodion
 https://egaxegax.github.io/songs.html?gazmanov_rodion/leti
 https://egaxegax.github.io/songs.html?gazmanov_rodion/poslednij_sneg
 https://egaxegax.github.io/songs.html?gazmanov_rodion/parami
-https://egaxegax.github.io/songs.html?leps_grigorij
 https://egaxegax.github.io/songs.html?leps_grigorij/samyj_luchshij_den
 https://egaxegax.github.io/songs.html?leps_grigorij/vodopadom
 https://egaxegax.github.io/songs.html?leps_grigorij/london
