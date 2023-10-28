@@ -24,7 +24,7 @@ td.av div { min-width:25px; color: #aaa; }
 .av img { width:50px; height:auto; }
 #songcont p { margin-top:0;  }
 </style>
-<script defer src="/static/js/metrics.js" data-floor="1"></script>
+<script src="/static/js/metrics.js" data-floor="1"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
 <script src="/static/js/3rdparty/jtab.js?v1.1.10"></script>
@@ -124,8 +124,8 @@ td.av div { min-width:25px; color: #aaa; }
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     document.getElementById(p.id).innerHTML = 
-  '<div id="yandex_rtb_'+(p.i)+'" class="bmarg mh140"></div>'+
   '<div id="songcont" class="msgtext chords nowrap">'+
+    '<div id="yandex_rtb_t'+(p.i)+'" class="bmarg mh140"></div>'+
     html+
   '</div>'+
   '<table>'+
@@ -135,7 +135,7 @@ td.av div { min-width:25px; color: #aaa; }
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-    if(window.addYaRTB_Block) addYaRTB_Block(p.i, false, YA_RTB[2]);
+    if(window.addYaRTB_Block) addYaRTB_Block('t'+p.i, false, YA_RTB[2]);
     if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i, false, YA_RTB[2]);
   }
 
@@ -161,7 +161,7 @@ td.av div { min-width:25px; color: #aaa; }
             page.view == 'list' ? addList(r,p) : addLast(r,p);
         }
       });
-      if(window.addYaRTB_Block && (i==1 || i==6 || page.titles.length==1)){
+      if(window.addYaRTB_Block && (i==2 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
@@ -215,7 +215,7 @@ td.av div { min-width:25px; color: #aaa; }
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 10;  // blocks 1 page
+    PAGE.per = 7;  // blocks 1 page
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
