@@ -229,6 +229,8 @@ td.av div { min-width:25px; color: #aaa; }
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
+      }else if(p == '__reload'){ // ?__reload
+        if(window.addTimeReload) window.addTimeReload(10,5);
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // ?find
@@ -281,8 +283,6 @@ td.av div { min-width:25px; color: #aaa; }
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
   });
-
-  if(window.addTimeReload) window.addTimeReload(10,5);
 
 </script>
 </body>
