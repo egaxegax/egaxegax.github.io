@@ -277,11 +277,12 @@ td.av div { min-width:25px; color: #aaa; }
         PAGE.per = 20;
       }
     }
-
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
   });
+
+  if(window.addTimeReload) window.addTimeReload(10,5);
 
 </script>
 </body>

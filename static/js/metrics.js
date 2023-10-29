@@ -55,6 +55,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
   window.addYaRTB_Block = function(blid,p_dark,rtbid){ if(document.getElementById('yandex_rtb_'+blid)) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});}); };
+  window.addTimeReload = function(ts1,ts2){ if(window.location.search == '?rel') window.setTimeout(function(){ window.location.reload(); }, (Math.random()*(ts1-ts2)+ts2)*1000); };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));

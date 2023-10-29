@@ -93,7 +93,6 @@
     document.getElementById('page_header').innerHTML = 
   '<p class="mtext hspace">Найдено <b><i>'+WRTS.length+'</i></b> авторов и <b><i>'+BOOKS.length+'</i></b> книг </p>';
     WRTS = WRTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
-
     document.getElementById('page_content').innerHTML = '';
     addPageContent(WRTS, PAGE);
   });
