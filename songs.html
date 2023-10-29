@@ -161,7 +161,7 @@ td.av div { min-width:25px; color: #aaa; }
             page.view == 'list' ? addList(r,p) : addLast(r,p);
         }
       });
-      if(window.addYaRTB_Block && (i==2 || page.titles.length==1)){
+      if(window.addYaRTB_Block && (i==1 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
