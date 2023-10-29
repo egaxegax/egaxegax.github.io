@@ -15,7 +15,7 @@ li::marker { color:green; }
 #header { background-color:transparent; border:0px solid #404040; border-top:0; }
 /* html tables */
 h3 a {text-decoration:none; outline:none;}
-img { max-width:100%; }
+img { max-width:100%; border-radius:2px; }
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
 .g td {width:60px; background-color:#333; border:2px solid #404040; white-space:nowrap; padding:2px;}
