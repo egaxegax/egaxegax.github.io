@@ -2542,6 +2542,10 @@ https://egaxegax.github.io/foto/Природа/Утка в пруду в Пар�
 https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?zametki_o_stranah
+https://egaxegax.github.io/posts.html?zametki_o_stranah/vetnam
+https://egaxegax.github.io/posts.html?zametki_o_stranah/yaponiya
+https://egaxegax.github.io/posts.html?zametki_o_stranah/butan
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/arnold_shvarcenegger_amerikanskij_bodibilder_i_akter
 https://egaxegax.github.io/posts.html?primery_shell-scenariev
@@ -28692,9 +28696,6 @@ https://egaxegax.github.io/index.html?2022/220611_1246
 https://egaxegax.github.io/index.html?2022/220609_0032
 https://egaxegax.github.io/index.html?2022/220605_2140
 https://egaxegax.github.io/index.html?2022/220529_0101
-https://egaxegax.github.io/index.html?2022/220510_1149
-https://egaxegax.github.io/index.html?2022/220510_0048
-https://egaxegax.github.io/index.html?2022/220509_0135
 https://egaxegax.github.io/index.html?2022/220421_0126
 https://egaxegax.github.io/index.html?2022/220327_1035
 https://egaxegax.github.io/index.html?2022/220219_2034
