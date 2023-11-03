@@ -65,7 +65,6 @@
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
-    '<div id="yandex_rtb_'+(p.i)+'" class="bmarg mw_1 mh140"></div>'+
     html+
   '</div>'+
     (p.title[2] !== 'README' ? 
@@ -75,7 +74,6 @@
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
     : '');
-    if(window.addYaRTB_Block) addYaRTB_Block(p.i, true, YA_RTB[1]);
   }
 
   function addPageContent(roots, subjects, posts, page){
@@ -86,6 +84,11 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
+      if(window.addYaRTB_Block){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block((i+page.bottom), true, YA_RTB[1]);
+      }
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+
       (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
