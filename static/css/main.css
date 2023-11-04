@@ -8,7 +8,7 @@
 .dark { color:#900020; }
 .mtext { font-size:larger; }
 .msgtext { font-size:larger; min-height:1em; padding:5px 10px 5px 10px; margin:0px; }
-.msgfooter { padding:0 1px 1px 0; text-align:right; font-size: smaller; }
+.msgfooter { padding:0 1px 1px 0; text-align:right; font-size:smaller; }
 .msgtext dt { padding:5px 0; }
 .collapse { border-collapse: collapse; }
 .inl { display:inline; }

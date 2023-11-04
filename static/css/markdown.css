@@ -12,7 +12,7 @@ pre {
   padding: 10px;
   margin: 0;
   overflow: auto;
-  font-size: 19px;
+  /*font-size: 19px;*/
 }
 
 /*code { white-space:pre-wrap; }*/
