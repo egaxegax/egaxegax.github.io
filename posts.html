@@ -84,11 +84,6 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.addYaRTB_Block && (i%2==0 || page.titles.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
-        addYaRTB_Block((i+page.bottom), true, YA_RTB[1]);
-      }
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+
       (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
@@ -103,6 +98,11 @@
           addPost(r,p);
         }
       });
+      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block((i+page.bottom), true, YA_RTB[1]);
+      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = 
