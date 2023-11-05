@@ -66,7 +66,7 @@
   function addLast(r,p,ci){
     updateMetaTag('description', p.subj+', список описаний книг, '+p.title[2]);
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext inlbl" style="max-width:450px"><tr>'+
+  '<table class="msgtext inlbl" style="max-width:420px"><tr>'+
     '<td align="center" valign="top" style="min-width:140px; max-width:140px">'+
       '<img class="smaller gray rounded7" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:120px">'+
     '</td>'+
@@ -77,7 +77,7 @@
     '</td></tr><tr>'+
   '</table>'+ 
   (window.addYaRTB_Block ? 
-    '<div id="yandex_rtb_'+p.i+'" class="inlbl bmarg mw_3 mh180" style="margin-left:10px"></div>' : '')+
+    '<div id="yandex_rtb_'+p.i+'" class="inlbl bmarg mw_3 mh180"></div>' : '')+
   '<div class="msgtext">'+
     '<div>'+
       (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
