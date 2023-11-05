@@ -61,12 +61,12 @@ hr { border:1px dashed #777; }
 /* reklama */
 .mh120 { max-height:120px; }
 .mh140 { max-height:140px; }
-.mh180 { max-height:180px; }
+.mh200 { max-height:200px; }
 .mh { max-height:300px; }
 .mh_2 { max-height:400px; }
 .mw600 { max-width:600px; }
 .mw { max-width:750px; }
 .mw_1 { max-width:650px; }
 .mw_2 { max-width:350px; }
-.mw_3 { max-width:280px; }
+.mw_3 { max-width:300px; }
 .w100 { width:100%; }
