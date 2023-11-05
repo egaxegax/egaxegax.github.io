@@ -67,7 +67,7 @@
   function addLast(r,p,ci){
     updateMetaTag('description', p.subj+', список описаний книг, '+p.title[2]);
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext" style="display:inline-block"><tr>'+
+  '<table class="msgtext" style="max-width:450px; display:inline-block"><tr>'+
     '<td align="center" valign="top" style="min-width:140px; max-width:140px">'+
       '<img class="smaller gray rounded7" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:120px">'+
     '</td>'+
