@@ -65,6 +65,7 @@ hr { border:1px dashed #777; }
 .mh { max-height:300px; }
 .mh_2 { max-height:400px; }
 .mw600 { max-width:600px; }
+.mw100p { max-width:100%; }
 .mw { max-width:750px; }
 .mw_1 { max-width:650px; }
 .mw_2 { max-width:350px; }
