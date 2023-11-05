@@ -12,6 +12,7 @@
 .msgtext dt { padding:5px 0; }
 .collapse { border-collapse: collapse; }
 .inl { display:inline; }
+.inlbl { display:inline-block; }
 .grid { display:grid; }
 .hmarg { margin:0 12px; }
 .bmarg { margin: 0 auto 10px auto; }
