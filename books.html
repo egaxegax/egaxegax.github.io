@@ -67,7 +67,7 @@
   function addLast(r,p,ci){
     updateMetaTag('description', p.subj+', список описаний книг, '+p.title[2]);
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext" width="99%"><tr>'+
+  '<table class="msgtext" style="display:inline-block"><tr>'+
     '<td align="center" valign="top" style="min-width:140px; max-width:140px">'+
       '<img class="smaller gray rounded7" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:120px">'+
     '</td>'+
@@ -77,9 +77,9 @@
       '<p class="smaller gray">Жанр  <a class="nodecor hspace" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
     '</td></tr><tr>'+
   '</table>'+ 
+  (window.addYaRTB_Block||1 ? 
+    '<div id="yandex_rtb_'+p.i+'" style="display:inline-block" class="bmarg mw_1 mh140"></div>' : '')+
   '<div class="msgtext">'+
-  (window.addYaRTB_Block ? 
-    '<div id="yandex_rtb_'+p.i+'" class="bmarg mw_1 mh140"></div>' : '')+
     '<div>'+
       (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
         '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
