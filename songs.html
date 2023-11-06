@@ -150,7 +150,7 @@ td.av div { min-width:25px; color: #aaa; }
       });
       if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+      '<div><div id="yandex_rtb_'+(i+page.bottom)+'" class="scroll bmarg mw mh"></div></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
       }
     }
@@ -217,10 +217,10 @@ td.av div { min-width:25px; color: #aaa; }
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
-      }else if(p == '__reload'){ // ?__reload
-        if(window.addTimeReload) window.addTimeReload(10,5);
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
+      }else if(p == 'rel' && urlParams().rel){ // ?rel=10
+        pageReload(urlParams().rel);
       }else if(p == 'find' && urlParams().find){ // ?find
         SONGS = SONGS.filter(function(tit){ 
           return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
