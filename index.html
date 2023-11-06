@@ -138,7 +138,8 @@
       }
     }
     document.getElementById('vestiheader').innerHTML =
-  'Сводка изменений и событий в <i><b>'+MSGS.length+'</b></i> записках.';
+  'Сводка изменений и событий в <i><b>'+MSGS.length+'</b></i> записках &emsp;'+
+  '<a href="/search.html">Поиск</a> &nbsp; ';
     document.getElementById('yearlist').innerHTML =
   '<option value="-1"'+(ysel == -1 ? ' selected ' : '')+'> Все </option>';
     for(var k in SUBJ){
