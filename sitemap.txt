@@ -2448,12 +2448,14 @@ https://egaxegax.github.io/books.html?genrih_mann/vernopoddannyj
 https://egaxegax.github.io/books.html?viktor_gjugo/bjug-jargal
 https://egaxegax.github.io/books.html?artur_konan_dojl/belyj_otryad
 https://egaxegax.github.io/foto.html
+https://egaxegax.github.io/foto.html?moskva
+https://egaxegax.github.io/foto.html?moskva/vechernyaya_moskva_ju_butovo_oktyabr_2023g
+https://egaxegax.github.io/foto/Москва/Вечерняя Москва (Ю.Бутово). Октябрь 2023г.jpg
 https://egaxegax.github.io/foto.html?priroda
 https://egaxegax.github.io/foto.html?priroda/osennyaya_bereza_v_podmoskove_sentyabr_2023g
 https://egaxegax.github.io/foto/Природа/Осенняя береза в Подмосковье. Сентябрь 2023г.jpg
 https://egaxegax.github.io/foto.html?priroda/rybak_na_zaharinskom_pruda_sentyabr_2023g
 https://egaxegax.github.io/foto/Природа/Рыбак на Захарьинском пруда.Сентябрь 2023г.jpg
-https://egaxegax.github.io/foto.html?moskva
 https://egaxegax.github.io/foto.html?moskva/mostik_cherez_ruchej_v_zaharino_sentyabr_2023g
 https://egaxegax.github.io/foto/Москва/Мостик через ручей в Захарьино. Сентябрь 2023г.jpg
 https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_s_malogo_berega_sentyabr_2023g
