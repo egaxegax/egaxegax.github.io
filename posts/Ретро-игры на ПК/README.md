@@ -8,6 +8,7 @@
 * [Конфиг mednafen для SNES](Конфиг%20mednafen%20для%20SNES.md)
 * [Любимые игры на Mednafen](Любимые%20игры%20на%20Mednafen.md)
 * [Новая версия Contra](Новая%20версия%20Contra.md)
-* [Прохождение Streets of Rage](Прохождение%20Streets%20of%20Rage.md)
+* [Прохождение Streets Of Rage 4](Прохождение%20Streets%20Of%20Rage%204.md)
+* [Прохождение Streets Of Rage](Прохождение%20Streets%20Of%20Rage.md)
 * [Эмулятор Wine](Эмулятор%20Wine.md)
 * [Эмулятор консолей Mednafen](Эмулятор%20консолей%20Mednafen.md)

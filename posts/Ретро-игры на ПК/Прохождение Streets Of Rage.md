@@ -1,5 +1,5 @@
 <!--2022-11-06 15:59:01-->
-### Прохождение Streets of Rage
+### Прохождение *Streets Of Rage*
 <td><img src="./Bare-Knuckle_0.jpg" alt="" width="220px">
 <td><img src="./Bare-Knuckle_1.jpg" alt="" width="220px">
 <td><img src="./Bare-Knuckle_2.jpg" alt="" width="220px">
