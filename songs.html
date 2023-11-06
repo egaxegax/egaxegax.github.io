@@ -119,11 +119,15 @@ td.av div { min-width:25px; color: #aaa; }
   '<table class="bmarg mw_1">'+
     '<tr><td width="3%"></td>'+
       '<td><div id="chordcont" class="chord"></div></td>'+
-      '<td valign="center" align="center"><div id="yandex_rtb_ch'+(p.i)+'" class="mh_2 mw_2"></div></td></tr>'+
+      '<td valign="center" align="center">'+
+        '<div id="yandex_rtb_ch'+(p.i)+'_1" class="mh_2 mw_2"></div>'+
+        '<div id="yandex_rtb_ch'+(p.i)+'_2" class="mh_2 mw_2"></div>'+
+      '</td></tr>'+
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i, false, YA_RTB[2]);
+    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[2]);
+    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_2', false, YA_RTB[2]);
   }
 
   function addPageContent(roots, arts, songs, page){
