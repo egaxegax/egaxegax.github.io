@@ -72,14 +72,14 @@
     '</td>'+
     '<td colspan="2" width="90%">'+
       '<a class="nodecor dark" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> '+p.title[2]+' </a>'+
-      '<p class="smaller gray">Автор<a class="nodecor hspace" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
-      '<p class="smaller gray">Жанр<a class="nodecor hspace" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
+      '<p class="smaller gray">Автор<br> <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
+      '<p class="smaller gray">Жанр<br> <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
     '</td></tr><tr>'+
   '</table>'+ 
   '<div id="yandex_rtb_'+p.i+'" class="inlbl vtop bmarg mw_3 mh200"></div>'+
   '<div class="msgtext">'+
     '<div>'+
-      (!isNaN(ci) && r.length>412 ? r.slice(0,412)+'... '+
+      (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
         '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
       : r+
         '<a class="nodecor hspace smaller" href="https://yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
@@ -141,7 +141,7 @@
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 3;
+    PAGE.per = 5;
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
     window.BOOKS = TITLES;
