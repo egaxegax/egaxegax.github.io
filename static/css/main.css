@@ -16,6 +16,7 @@
 .grid { display:grid; }
 .hmarg { margin:0 12px; }
 .bmarg { margin: 0 auto 10px auto; }
+.rmarg { margin: 0 4px 0 0; }
 .marg { margin: 0 auto; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
@@ -70,4 +71,4 @@ hr { border:1px dashed #777; }
 .mw_1 { max-width:650px; }
 .mw_2 { max-width:350px; }
 .mw_3 { max-width:300px; }
-.w100 { width:100%; }
+.wm { width:750px; }
