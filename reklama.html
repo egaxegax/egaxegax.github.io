@@ -13,6 +13,7 @@
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
 <style>
+b,i,em { color: #777; }
 #page_footer button { background:#3fa969; color:#fff; }
 </style>
 <script src="/static/js/metrics.js"></script>
@@ -61,11 +62,11 @@
     for(var i=0; i<page.titles.length; i++){
       document.getElementById('page_content').innerHTML += 
     '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
-      if(window.addYaRTB_Block) addYaRTB_Block((i+page.bottom), i%2==0, YA_RTB[4]);
+      if(window.addYaRTB_Block) addYaRTB_Block((i+page.bottom), i%2==1, YA_RTB[4]);
     }
     if (page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
+    '<button onclick="this.disabled = addPageContent({}, {}, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     } else {
       updateMetaTag('robots', 'noindex');
       document.getElementById('page_content').innerHTML += addNotFound();
