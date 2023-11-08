@@ -50,11 +50,6 @@ b,i,em { color: #777; }
   document.getElementById('page_content').innerHTML =
 '&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
-  function addMsg(r, p){
-    var html = r;
-    document.getElementById(p.id).innerHTML = html;
-  }
-
   function addPageContent(roots, subjects, msgs, page){
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
@@ -76,7 +71,7 @@ b,i,em { color: #777; }
   }
 
   window.PAGE = { 
-    per: 5,                  // blocks 1 page
+    per: 1,                  // blocks 1 page
     num: urlParams().page||0 // start num page 
   };
   window.MSGS = [];
