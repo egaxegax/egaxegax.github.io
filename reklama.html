@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Рекламная пауза, Подборка контекстной рекламы"/>
+<meta name="keywords" content="Реклама, контекст, рся"/>
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Контекст / Сайт Григория Еремина</title>
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg">
+<link rel="stylesheet" href="/static/css/main.css">
+<script src="/static/js/metrics.js"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js"></script>
+</head>
+<body>
+<div id="header" class="main scroll">
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" onload="this.scrollIntoView()" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
+</div>
+<div id="page_header" class="main"></div>
+<div id="page_content" class="main"></div>
+<div id="page_footer" class="main"></div>
+<p class="cfloat smaller gray hspace">
+  <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
+</p>
+<table id="footer" class="main"><tr>
+<td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
+<td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td id="credits"><a title="Исходный код" href="https://github.com/egaxegax/egaxegax.github.io">Source</a> &emsp; &emsp; <span>2011-2023</span> </td></tr>
+</table>
+<script>
+
+  document.getElementById('page_header').innerHTML = 
+'<p class="mtext hspace">'+
+//    '<select class="rfloat" id="pagelist"></select>'+
+  '<span>Подборка тематической рекламы</span>'+
+'</p>';
+  document.getElementById('page_content').innerHTML =
+'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
+
+  function addMsg(r, p){
+    var html = r;
+    document.getElementById(p.id).innerHTML = html;
+  }
+
+  function addPageContent(roots, subjects, msgs, page){
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = msgs.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      document.getElementById('page_content').innerHTML += 
+    '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+      if(window.addYaRTB_Block) addYaRTB_Block((i+page.bottom), i%2==0, YA_RTB[4]);
+    }
+    if (page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
+    } else {
+      updateMetaTag('robots', 'noindex');
+      document.getElementById('page_content').innerHTML += addNotFound();
+    }
+    page.num++;
+    return page.titles.length == 0;
+  }
+
+  window.PAGE = { 
+    per: 5,                  // blocks 1 page
+    num: urlParams().page||0 // start num page 
+  };
+  window.MSGS = [];
+  for(var j=0; j<101; j++){
+    window.MSGS.push( j );
+  }
+  document.getElementById('page_content').innerHTML = '';
+  addPageContent({}, {}, MSGS, PAGE);
+
+</script>
+</body>
+</html>
