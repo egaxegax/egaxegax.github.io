@@ -12,19 +12,19 @@
 <title>Контекст / Сайт Григория Еремина</title>
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg">
 <link rel="stylesheet" href="/static/css/main.css">
-<link rel="stylesheet" href="/static/css/vesti.css">
+<link rel="stylesheet" href="/static/css/vesti.dark.css">
 <script src="/static/js/metrics.js"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
 </head>
 <body>
 <div id="header" class="main scroll">
-<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" onload="this.scrollIntoView()" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
-<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
-<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" alt="Книги"></a>
-<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_a.svg" onload="this.scrollIntoView()" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
@@ -70,12 +70,12 @@
   }
 
   window.PAGE = { 
-    per: 4,                  // blocks 1 page
+    per: 20,                  // blocks 1 page
     num: urlParams().page||0 // start num page 
   };
   window.MSGS = [];
-  for(var j=0; j<(window.addYaRTB_Block ?100 :0); j++){
-    window.MSGS.push( j );
+  for(var n=0; n<(window.addYaRTB_Block ?100 :0); n++){
+    window.MSGS.push( n );
   }
   document.getElementById('page_content').innerHTML = '';
   addPageContent({}, {}, MSGS, PAGE);
