@@ -2,7 +2,7 @@
 .wrap { background-color:#404040; border:1px solid #333; }
 .dark { color:#eee; }
 .counter { color:#59a750; }
-text { background-color:#262626; } 
+body,text { background-color:#222; } 
 a, a:active, a:focus { color:#ffbc00; }
 b,i,em,h4,h5 { color:#aaa; }
 b em, strong em { color:#ffbc00; }
