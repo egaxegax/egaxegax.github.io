@@ -78,7 +78,7 @@ td.av div { min-width:25px; color: #aaa; }
       '<td width="90%" class="hspaced">'+
         '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
         '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a> '+
-        '<div class="hspace gray smaller"><i class="smaller">'+buildDate(p.title[3])+'</i></div>'+
+        '<div class="hspace gray smaller"><i>'+buildDate(p.title[3])+'</i></div>'+
       '</td>'+
       '<td valign="center" align="right" class="light smaller" width="3%"><i class="counter">'+(p.i+1)+'</i></td></tr>'+
     '</table>'+
@@ -92,7 +92,7 @@ td.av div { min-width:25px; color: #aaa; }
     '<td width="99%">'+
       '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
     '</td>'+
-    '<td align="right" class="light smaller"><i class="smaller counter">'+p.i+'</i></td></tr>'+
+    '<td align="right" class="light smaller"><i class="counter">'+p.i+'</i></td></tr>'+
   '</table>';
   }
 
@@ -264,7 +264,7 @@ td.av div { min-width:25px; color: #aaa; }
         '<p>'+
           '<h2 class="nomarg nopad">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
-            '<span class="gray smaller"><i class="smaller counter"> ('+ SONGS.length+') </i></span>'+
+            '<span class="gray smaller"><i class="counter"> ('+ SONGS.length+') </i></span>'+
           '</h2> '+
         '</p>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
