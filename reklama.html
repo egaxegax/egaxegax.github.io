@@ -80,8 +80,12 @@
     window.MSGS.push( n );
   }
   document.getElementById('page_content').innerHTML = '';
-  addPageContent({}, {}, MSGS, PAGE);
-
+  if(urlParams().rel){ // ?rel
+    window.setInterval(function(){ 
+      addPageContent({}, {}, MSGS, PAGE);
+    }, (Math.random()*5+2)*1000);
+  } else
+    addPageContent({}, {}, MSGS, PAGE);
 </script>
 </body>
 </html>

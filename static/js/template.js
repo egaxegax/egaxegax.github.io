@@ -36,7 +36,7 @@ function addPaginator(list, page, page_btn){
 // return SVG image fot '404 Not Found' page
 //
 function addNotFound(){
-  return '<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
+  return '<div><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
 '<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#aaa">'+
 '<path d="M110 58 Q134 48 144 56" />'+
 '<path d="M36 56 Q40 44 69 53" />'+
@@ -45,7 +45,7 @@ function addNotFound(){
 '<path d="M89 84 Q89 104 104 128 Q112 144 88 136" />'+
 '<path d="M53 173 Q86 154 144 178" />'+
 '</g>'+
-'</svg>';
+'</svg></div>';
 }
 //
 // remote/local path to sites files
