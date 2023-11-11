@@ -281,7 +281,7 @@ td.av div { min-width:25px; color: #aaa; }
           if(addPageContent(ROOTS, SUBJ, SONGS, PAGE)){
             window.location.reload();
           } else {
-            document.getElementById('song'+((PAGE.num-1)*PAGE.per+(PAGE.per-1))).scrollIntoView();
+            window.scroll(0,1000);
           }
         }, (Math.random()*5+3)*1000);
       }
