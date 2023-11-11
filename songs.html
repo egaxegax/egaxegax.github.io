@@ -275,6 +275,11 @@ td.av div { min-width:25px; color: #aaa; }
     }
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
+    if(urlParams().rel){ // ?rel
+      window.setInterval(function(){ 
+        addPageContent(ROOTS, SUBJ, SONGS, PAGE);
+      }, (Math.random()*5+3)*1000);
+    }
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
   });
 
