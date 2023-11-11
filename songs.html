@@ -225,8 +225,6 @@ td.av div { min-width:25px; color: #aaa; }
         // skip paginate
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
-      }else if(p == 'rel' && urlParams().rel){ // ?rel=10
-        pageReload(urlParams().rel);
       }else if(p == 'find' && urlParams().find){ // ?find
         SONGS = SONGS.filter(function(tit){ 
           return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 

@@ -66,11 +66,3 @@ function urlBuild(o){
   };
   return href.join('&');
 }
-//
-// page reload func
-//
-function pageReload(ts){
-  var ts2 = Number(ts),
-      ts1 = ts2 + 5;
-  window.setTimeout(function(){ window.location.reload(); }, (Math.random()*(ts1-ts2)+ts2)*1000);
-};
