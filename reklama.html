@@ -58,7 +58,7 @@
     '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh">'+
       (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
     '</div>';
-      if(window.addYaRTB_Block) addYaRTB_Block((i+page.bottom), i%2==1, YA_RTB[4]);
+      if(window.addYaRTB_Block) addYaRTB_Block((i+page.bottom), ((new Date()).getSeconds()%2)==0, YA_RTB[4]);
     }
     if (page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
