@@ -17,13 +17,13 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 .dark { color:#333; }
 .gray { color:#888; }
 .counter { color:#3fa969; }
-body { background-color:#f1f1f1; color:#333; }
 a, a:active, a:focus { color:#31708f; }
 b,i,em { color: #777; }
 b em { color: #31708f; }
 h3 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
+#root { background:#eee; color:#333; }
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 img.foto { max-width:100%; max-height:400px; border-radius:4px; }

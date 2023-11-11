@@ -1,24 +1,8 @@
-/* dark theme */
-/*.wrap { background-color:#404040; border:1px solid #333; }
-.dark { color:#eee; }
-.counter { color:#59a750; }
-body { background-color:#262626; color:#eee; }
-a, a:active, a:focus { color:#ffbc00; }
-b,i,em { color: #aaa; }
-b em, strong em { color: #ffbc00; }
-h3 { color:#fff; }
-div.about { background-color:#333; border:1px solid #404040; }
-pre { background-color:#eee; color:#222; border-radius:2px; font-size:smaller; }
-input[type=text], input[type=password], input[type=number], textarea, select { 
-  background-color:#404040; color:#fff; }
-#header { background-color:transparent; border:0px solid #404040; border-top:0; }
-#yearlist { color: #ffbc00; }*/
 /* light theme */
 .wrap { background-color:#fff; border:1px solid #ddd; }
 .dark { color:#333; }
 .gray { color:#888; }
 .counter { color:#3fa969; }
-body { background-color:#f1f1f1; color:#333; }
 a, a:active, a:focus { color:#31708f; }
 b,i,em { color: #777; }
 b em { color: #31708f; }
@@ -26,6 +10,7 @@ h3 { color:#fff; }
 pre { background-color:#eee; color:#222; border-radius:2px; font-size:smaller; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
+#root { background:#eee; color:#333; }
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 img { max-width:100%; }

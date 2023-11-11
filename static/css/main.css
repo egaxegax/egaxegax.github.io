@@ -34,6 +34,7 @@
 .bigger2 { font-size:200%; }
 .main { margin:0px auto 0px auto; max-width:800px; }
 .loader { border:1px solid #ddd; }
+#root { min-height:100%; }
 #header { text-align:center; border-radius:2px; background-color:#d2e0f0; }
 #header img { width:100px; height:40px; color:transparent; }
 #page_content { min-height:300px; }
@@ -41,10 +42,9 @@
 #footer { width:100%; }
 #livecounter { text-align: right; }
 #yacounter { text-align: left; }
-#credits { text-align: center; }
-#credits span { font-size: smaller; }
+#credits { text-align: center; font-size: smaller; }
 /* body */
-body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; background-color:#f1f1f1; color:#333; }
+body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; background-color:#f2f2f2; color:#333; }
 a, a:active, a:focus { color:#5645ad; outline:none; }
 a.nodecor, #header a, .about a { text-decoration:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
