@@ -280,6 +280,8 @@ td.av div { min-width:25px; color: #aaa; }
         window.setInterval(function(){ 
           if(addPageContent(ROOTS, SUBJ, SONGS, PAGE)){
             window.location.reload();
+          } else {
+            document.getElementById('song'+((PAGE.num)*PAGE.per)).scrollIntoView();
           }
         }, (Math.random()*5+3)*1000);
       }
