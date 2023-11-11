@@ -6,8 +6,8 @@
 .gray { color:#aaa; }
 .counter { color:#ccc; }
 .dark { color:#900020; }
-.mtext { font-size:large; }
-.msgtext { font-size:large; min-height:1em; padding:5px 5px; margin:0px; }
+.mtext { font-size:larger; }
+.msgtext { font-size:larger; min-height:1em; padding:5px 5px; margin:0px; }
 .msgfooter { padding:0 1px 1px 0; text-align:right; font-size:small; }
 .msgtext dt { padding:5px 0; }
 .collapse { border-collapse: collapse; }
@@ -29,7 +29,7 @@
 .cfloat { text-align:center; }
 .vtop { vertical-align:top; }
 .scroll { display:block; overflow:auto; white-space:nowrap; }
-.counter, .smaller { font-size:small; }
+.counter, .smaller { font-size:smaller; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
 .main { margin:0px auto 0px auto; max-width:800px; }
