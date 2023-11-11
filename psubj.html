@@ -45,15 +45,16 @@
   document.getElementById('page_content').innerHTML =
 '&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
-  function addSubj(subj){
+  function addSubj(subj,i){
     var tmpl = 
   '<table width="99%" class="msgtext"><tr>'+
-    '<td>'+
+    '<td width="80%" class="hspaced">'+
       '<a class="nodecor dark" href="/posts.html?'+tr(subj[0])+'">'+subj[0]+'</a>'+
       '<div class="hspace gray smaller"><i class="smaller">'+buildDate(subj[2])+'</i></div>'+
     '</td>'+
-    '<td width="20%" valign="center"><b><i>'+subj[1]+'</i></b></td></tr>'+
-  '</table>';
+    '<td valign="center"><b><i>'+subj[1]+'</i></b></td>'+
+    '<td valign="center" align="right" class="smaller"><i class="counter">'+i+'</i></td>'+
+  '</tr></table>';
     return tmpl;
   }
 
@@ -64,7 +65,7 @@
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<subjects.length; i++){
       document.getElementById('page_content').innerHTML += 
-    '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i])+'</div>';
+    '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i], i+1)+'</div>';
       if(window.addYaRTB_Block && (i==1 || i==6|| subjects.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+i+'" class="bmarg mw mh"></div>';
