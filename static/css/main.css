@@ -44,7 +44,7 @@
 #yacounter { text-align: left; }
 #credits span { text-align: center; font-size: small; }
 /* body */
-html,body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; 
+body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; 
   background-color:#f4f4f4; color:#333; }
 a, a:active, a:focus { color:#5645ad; outline:none; }
 a.nodecor, #header a, .about a { text-decoration:none; }

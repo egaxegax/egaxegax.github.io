@@ -18,6 +18,7 @@
 <script src="/static/js/template.js"></script>
 </head>
 <body>
+<div id="root" class="main">
 <div id="header" class="main scroll">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti_a.svg" onload="this.scrollIntoView()" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
@@ -26,7 +27,6 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
-<div id="root" class="main">
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -76,13 +76,15 @@
     num: urlParams().page||0 // start num page 
   };
   window.MSGS = [];
-  for(var n=0; n<(window.addYaRTB_Block ?100 :0); n++){
+  for(var n=0; n<(window.addYaRTB_Block ?10 :0); n++){
     window.MSGS.push( n );
   }
   document.getElementById('page_content').innerHTML = '';
   if(urlParams().rel){ // ?rel
     window.setInterval(function(){ 
-      addPageContent({}, {}, MSGS, PAGE);
+      if(addPageContent({}, {}, MSGS, PAGE)){
+        window.location.reload();
+      };
     }, (Math.random()*5+3)*1000);
   }
   addPageContent({}, {}, MSGS, PAGE);
