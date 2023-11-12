@@ -37,7 +37,7 @@ function urlParams(url) {
         pnum = v.slice(1,-1);
         return '';
       });
-      var pval = typeof(a[1])==='undefined' ? "" : a[1];
+      var pval = typeof(a[1])==='undefined' ? '' : a[1];
       pname = pname.toLowerCase();
       pval = pval.toLowerCase();
       if (o[pname]) {
