@@ -55,10 +55,9 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
   window.addYaRTB_Block = function(blid,p_dark,rtbid){ 
-    setTimeout(function run() {
-      if(document.getElementById('yandex_rtb_'+blid)){ window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});}); };
-      setTimeout(run, (Math.random()*15+8)*1000);
-    });
+    function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});}); }};
+    ads();
+    window.setInterval(ads, (Math.random()*15+8)*1000);
   };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_dark = Number((sp.getAttribute('data-dark') == null) ? 0 : sp.getAttribute('data-dark'));
