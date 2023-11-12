@@ -57,8 +57,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.tmrs = {};
   window.addYaRTB_Block = function(blid,p_dark,rtbid){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});}); }};
-    if(tmrs[blid]) clearInterval(tmrs[blid]);
-    tmrs[blid] = window.setInterval(ads, (Math.random()*15+8)*1000);
+    if(tmrs[(rtbid||blid)]) clearInterval(tmrs[(rtbid||blid)]);
+    tmrs[(rtbid||blid)] = window.setInterval(ads, (Math.random()*15+8)*1000);
     ads();
   };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
