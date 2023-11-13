@@ -80,8 +80,15 @@
     window.MSGS.push( n );
   }
   document.getElementById('page_content').innerHTML = '';
-  addPageContent({}, {}, MSGS, PAGE);
-
+  if(!addPageContent({}, {}, MSGS, PAGE)){
+    if(urlParams().rel){ // ?rel
+      window.setInterval(function(){ 
+        if(addPageContent({}, {}, MSGS, PAGE)){
+          window.location.reload();
+        };
+      }, (Math.random()*8+4)*1000);
+    }
+  }
 </script>
 </body>
 </html>
