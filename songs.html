@@ -128,8 +128,13 @@ td.av div { min-width:25px; color: #aaa; }
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[2]);
-    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_2', false, YA_RTB[2]);
+    for(var ii=0; ii<2; ii++){
+      var elem = document.createElement('div');
+      elem.id = 'yandex_rtb_ch'+(p.i)+'_'+(ii+1);
+      elem.className = 'bmarg mw_2 mh_2';
+      document.getElementById('rtbcont').appendChild(elem);
+      if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_'+(ii+1), false, YA_RTB[2]);
+    }
   }
 
   function addPageContent(roots, arts, songs, page){
@@ -155,8 +160,10 @@ td.av div { min-width:25px; color: #aaa; }
         }
       });
       if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+        var elem = document.createElement('div');
+        elem.id = 'yandex_rtb_'+(i+page.bottom);
+        elem.className = 'bmarg mw mh';
+        document.getElementById('page_content').appendChild(elem);
         addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
       }
     }
