@@ -158,7 +158,7 @@ td.av div { min-width:25px; color: #aaa; }
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(page.i+page.bottom)+'" class="bmarg mw mh"></div>';
         addYaRTB_Block((page.i+page.bottom), false, YA_RTB[2]);
-        if(window.tm) window.clearInterval(window.tm);
+        window.clearInterval(window.tm);
         window.tm = window.setInterval(function(){ 
           addYaRTB_Block((page.i+page.bottom), false, YA_RTB[2]);
         }, (Math.random()*15+8)*1000);
