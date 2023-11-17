@@ -121,20 +121,15 @@ td.av div { min-width:25px; color: #aaa; }
   '<table class="bmarg mw_1">'+
     '<tr><td width="3%"></td>'+
       '<td><div id="chordcont" class="chord"></div></td>'+
-      '<td id="rtbcont" valign="center" align="center">'+
+      '<td valign="center" align="center">'+
         '<div id="yandex_rtb_ch'+(p.i)+'_1" class="bmarg mh_2 mw_2"></div>'+
         '<div id="yandex_rtb_ch'+(p.i)+'_2" class="bmarg mh_2 mw_2"></div>'+
       '</td></tr>'+
   '</table>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-    for(var ii=0; ii<2; ii++){
-      var elem = document.createElement('div');
-      elem.id = 'yandex_rtb_ch'+(p.i)+'_'+(ii+1);
-      elem.className = 'bmarg mw_2 mh_2';
-      document.getElementById('rtbcont').appendChild(elem);
-      if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_'+(ii+1), false, YA_RTB[2]);
-    }
+    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[2]);
+    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_2', false, YA_RTB[2]);
   }
 
   function addPageContent(roots, arts, songs, page){
@@ -160,11 +155,12 @@ td.av div { min-width:25px; color: #aaa; }
         }
       });
       if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
-        var elem = document.createElement('div');
-        elem.id = 'yandex_rtb_'+(i+page.bottom);
-        elem.className = 'bmarg mw mh';
-        document.getElementById('page_content').appendChild(elem);
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
+        window.setInterval(function(){ 
+          addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
+        }, (Math.random()*15+8)*1000);
       }
     }
     if(page.titles.length){
