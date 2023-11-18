@@ -67,6 +67,7 @@
 
   function addLast(r,p,ci){
     updateMetaTag('description', p.subj+', список описаний книг, '+p.title[2]);
+    updateMetaTag('keywords', p.subj+', '+p.title[2]+', книги');
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext inlbl vtop" style="max-width:320px"><tr>'+
     '<td align="center" valign="top" style="min-width:140px; max-width:140px">'+
@@ -98,6 +99,7 @@
         text = r,
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
+    updateMetaTag('keywords', p.subj+', книги');
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext collapse"><tr>'+
     '<td class="about"><img class="rounded" src="'+buildURL('books')+'/img/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
