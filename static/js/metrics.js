@@ -61,7 +61,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     }};
     ads();
     clearInterval(TDS[(tid||blid)]);
-    TDS[(tid||blid)] = setInterval(ads, (Math.random()*15+10)*1000);
+    TDS[(tid||blid)] = setInterval(ads, (Math.random()*16+12)*1000);
   };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_dark = Number((sp.getAttribute('data-dark') == null) ? 0 : sp.getAttribute('data-dark'));
