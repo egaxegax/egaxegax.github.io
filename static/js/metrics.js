@@ -54,14 +54,14 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
-  window.TDS = {};
+  window.TDS = [];
   window.addYaRTB_Block = function(blid,p_dark,rtbid,tid){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});});
     }};
+    while(TDS.length) clearInterval(TDS.pop());
+    TDS.push( setInterval(ads, (Math.random()*16+12)*1000));
     ads();
-    clearInterval(TDS[(tid||blid)]);
-    TDS[(tid||blid)] = setInterval(ads, (Math.random()*16+12)*1000);
   };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_dark = Number((sp.getAttribute('data-dark') == null) ? 0 : sp.getAttribute('data-dark'));
