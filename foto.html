@@ -50,17 +50,12 @@
 '&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
   function addFoto(p){
-    var html = 
-  '<a href="'+p.fullurl+'">'+
-    '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
-  '</a>'; 
-    var meta = document.head.getElementsByTagName('meta');
-    for(var j in meta){
-      if(meta[j].name == 'description' && p.if) meta[j].content = p.title[2]+', '+ p.subj;
-    }
+    updateMetaTag('description', p.title[2]+', '+ p.subj);
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext cfloat">'+html+'</div>'+
-  '<h2 class="msgtext cfloat">'+p.title[2]+'</h2>'+
+  '<div class="msgtext cfloat"><a href="'+p.fullurl+'">'+
+    '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
+  '</a></div>'+
+  '<h2 class="msgtext smaller gray cfloat">'+p.title[2]+'</h2>'+
   '<div class="bmarg mw_1 mh120" id="yandex_rtb_'+p.i+'"></div>'+
   '<div class="msgfooter">'+
     '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
