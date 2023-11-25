@@ -134,7 +134,7 @@ td.av div { min-width:25px; color: #aaa; }
   }
 
   function addPageContent(roots, arts, songs, page){
-    if(songs.length == 0){
+    if(!songs.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
