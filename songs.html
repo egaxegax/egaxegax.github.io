@@ -134,10 +134,12 @@ td.av div { min-width:25px; color: #aaa; }
   }
 
   function addPageContent(roots, arts, songs, page){
+    if(PAGE.lock) return 1;
     if(!songs.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
+    PAGE.lock = 1;
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = songs.slice(page.bottom, page.top);
@@ -169,9 +171,10 @@ td.av div { min-width:25px; color: #aaa; }
       document.getElementById('page_footer').innerHTML = 
         addPaginator(songs, page,
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
-    }    
+    }
     page.num++;
-    return (page.titles.length == 0);
+    PAGE.lock = (page.titles.length == 0);
+    return PAGE.lock;
   }
   //
   // Add icons chords by jtab.js & rafael.js
@@ -278,9 +281,8 @@ td.av div { min-width:25px; color: #aaa; }
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
-        PAGE.lock = 1;
-        PAGE.lock = addPageContent(ROOTS, SUBJ, SONGS, PAGE);
+      if((window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       }
     });
   });
