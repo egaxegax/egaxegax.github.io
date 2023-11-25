@@ -70,14 +70,14 @@
         addYaRTB_Block((i+page.bottom), true, YA_RTB[2]);
       }
     }
-    if (page.arts.length){
+    if (PAGE.count = page.arts.length){
       document.getElementById('page_footer').innerHTML = addPaginator(arts, page,
     '<button onclick="this.disabled = addPageContent(ARTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     } else {
       document.getElementById('page_content').innerHTML += addNotFound();
     }
     page.num++;
-    return page.arts.length == 0;
+    return (page.arts.length == 0);
   }
 
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
@@ -93,6 +93,12 @@
     ARTS = ARTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ARTS, PAGE);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(PAGE.count && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        addPageContent(ARTS, PAGE);
+      }
+    });
   });
 
 </script>

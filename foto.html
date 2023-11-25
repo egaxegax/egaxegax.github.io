@@ -85,7 +85,7 @@
         url: buildURL('foto')+'/'+root+'/'+subj+'/th/'+title+'.jpg',
         fullurl: buildURL('foto')+'/'+root+'/'+subj+'/'+title+'.jpg'});
     }
-    if (page.titles.length){
+    if(PAGE.count = page.titles.length){
       document.getElementById('page_footer').innerHTML = 
         addPaginator(fotos, page,
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
@@ -136,6 +136,12 @@
     };
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(PAGE.count && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
+      }
+    });
   });
 
 </script>

@@ -104,7 +104,7 @@
         addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
       }
     }
-    if (page.titles.length){
+    if(PAGE.count = page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     } else {
@@ -112,7 +112,7 @@
       document.getElementById('page_content').innerHTML += addNotFound();
     }
     page.num++;
-    return page.titles.length == 0;
+    return (page.titles.length == 0);
   }
 
   upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
@@ -154,6 +154,12 @@
     };
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, MSGS, PAGE);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(PAGE.count && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        addPageContent(ROOTS, SUBJ, MSGS, PAGE);
+      }
+    });
   });
 
 </script>

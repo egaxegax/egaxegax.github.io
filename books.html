@@ -130,7 +130,7 @@
         }
       });
     }
-    if(page.titles.length){
+    if(PAGE.count = page.titles.length){
       document.getElementById('page_footer').innerHTML = 
         addPaginator(books, page,
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
@@ -139,13 +139,13 @@
       document.getElementById('page_content').innerHTML += addNotFound();
     }    
     page.num++;
-    return page.titles.length == 0;
+    return (page.titles.length == 0);
   }
 
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 5;
+    PAGE.per = 3;
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
     window.BOOKS = TITLES;
@@ -215,12 +215,18 @@
             BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
           }
         }
-        PAGE.per = 5;
+        PAGE.per = 1;
       }
     }
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, BOOKS, PAGE);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(PAGE.count && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        addPageContent(ROOTS, SUBJ, BOOKS, PAGE);
+      }
+    });
   });
 
 </script>
