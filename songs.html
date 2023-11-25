@@ -278,8 +278,10 @@ td.av div { min-width:25px; color: #aaa; }
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
+      console.log('ddd');
       if(!PAGE.tstart || ((performance.now() - PAGE.tstart) > 10)){
         PAGE.tstart = performance.now();
+        console.log(performance.now() - PAGE.tstart);
         if((window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
           addPageContent(ROOTS, SUBJ, SONGS, PAGE);
         }
