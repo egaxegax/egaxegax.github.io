@@ -61,6 +61,10 @@
   }
 
   function addPageContent(wrts, page){
+    if(!wrts.length){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.wrts = wrts.slice(page.bottom, page.top);
@@ -73,11 +77,9 @@
         addYaRTB_Block((i+page.bottom), false, YA_RTB[3]);
       }
     }
-    if(PAGE.count = page.wrts.length){
+    if(page.wrts.length){
       document.getElementById('page_footer').innerHTML = addPaginator(wrts, page,
     '<button onclick="this.disabled = addPageContent(WRTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
-    } else {
-      document.getElementById('page_content').innerHTML += addNotFound();
     }
     page.num++;
     return (page.wrts.length == 0);
@@ -98,8 +100,9 @@
     addPageContent(WRTS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(PAGE.count && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
-        addPageContent(WRTS, PAGE);
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        PAGE.lock = 1;
+        PAGE.lock = addPageContent(WRTS, PAGE);
       }
     });
   });

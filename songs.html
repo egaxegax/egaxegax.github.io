@@ -134,6 +134,10 @@ td.av div { min-width:25px; color: #aaa; }
   }
 
   function addPageContent(roots, arts, songs, page){
+    if(songs.length == 0){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = songs.slice(page.bottom, page.top);
@@ -161,13 +165,10 @@ td.av div { min-width:25px; color: #aaa; }
         addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
       }
     }
-    if(PAGE.count = page.titles.length){
+    if(page.titles.length){
       document.getElementById('page_footer').innerHTML = 
         addPaginator(songs, page,
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
-    } else {
-      updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += addNotFound();
     }    
     page.num++;
     return (page.titles.length == 0);
@@ -238,7 +239,7 @@ td.av div { min-width:25px; color: #aaa; }
         '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+SONGS.length+')</i></p>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
         }
-        PAGE.per = 100;
+        PAGE.per = 20;
       }else if(pp.length>1){ // ?art/song
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +noindex unusable url
         SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
@@ -277,8 +278,9 @@ td.av div { min-width:25px; color: #aaa; }
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(PAGE.count && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
-        addPageContent(ROOTS, SUBJ, SONGS, PAGE);
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        PAGE.lock = 1;
+        PAGE.lock = addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       }
     });
   });

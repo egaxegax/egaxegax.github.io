@@ -82,6 +82,10 @@
   }
 
   function addPageContent(roots, subjects, msgs, page){
+    if(msgs.length == 0){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
@@ -104,12 +108,9 @@
         addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
       }
     }
-    if(PAGE.count = page.titles.length){
+    if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
-    } else {
-      updateMetaTag('robots', 'noindex');
-      document.getElementById('page_content').innerHTML += addNotFound();
     }
     page.num++;
     return (page.titles.length == 0);
@@ -156,8 +157,9 @@
     addPageContent(ROOTS, SUBJ, MSGS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(PAGE.count && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
-        addPageContent(ROOTS, SUBJ, MSGS, PAGE);
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+        PAGE.lock = 1;
+        PAGE.lock = addPageContent(ROOTS, SUBJ, MSGS, PAGE);
       }
     });
   });

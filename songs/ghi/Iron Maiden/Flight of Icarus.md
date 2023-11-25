@@ -73,7 +73,7 @@ Flight of Icarus
   *ENDING:*  
   *Play through BRIDGE several times then on the last one*  
   *stop at the ***B*** power chord(let it ring) and then strum*  
-  ****F#m*** fast and end with ***A E F#m*** as in the intro.*  
+  ***F#m*** fast and end with ***A E F#m*** as in the intro.*  
   
 ----  
   

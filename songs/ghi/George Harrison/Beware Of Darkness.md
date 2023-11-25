@@ -36,4 +36,4 @@ BRIDGE:  It can hit you, it can hurt you
     ***B                              B/A   G7***  
   Beware of darkness (beware of darkness)  
   
-  ****Dsus2***: [x x 0 2 3 0]*
+  ***Dsus2***: [x x 0 2 3 0]
