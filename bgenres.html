@@ -86,7 +86,7 @@ img.av { width: 100%; height: auto; }
     '<button onclick="this.disabled = addPageContent(GNRS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 100);
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 1000);
     return (page.gnrs.length == 0);
   }
 
