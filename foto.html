@@ -96,7 +96,7 @@
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 100);
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 1000);
     return (page.titles.length == 0);
   }
 
