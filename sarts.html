@@ -58,6 +58,7 @@
   }
 
   function addPageContent(arts, page){
+    PAGE.lock = 1;
     if(arts.length == 0){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
@@ -79,6 +80,7 @@
     '<button onclick="this.disabled = addPageContent(ARTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 100);
     return (page.arts.length == 0);
   }
 
@@ -98,8 +100,7 @@
       // infinite scroll
     document.addEventListener('scroll', function() {
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
-        PAGE.lock = 1;
-        PAGE.lock = addPageContent(ARTS, PAGE);
+        addPageContent(ARTS, PAGE);
       }
     });
   });
