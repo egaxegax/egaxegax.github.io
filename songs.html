@@ -134,6 +134,7 @@ td.av div { min-width:25px; color: #aaa; }
   }
 
   function addPageContent(roots, arts, songs, page){
+    PAGE.doscroll = false;
     if(!songs.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
@@ -171,6 +172,7 @@ td.av div { min-width:25px; color: #aaa; }
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
+    setTimeout(function(){ PAGE.doscroll = true; }, 100);
     return (page.titles.length == 0);
   }
   //
@@ -277,12 +279,10 @@ td.av div { min-width:25px; color: #aaa; }
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       // infinite scroll
+    PAGE.doscroll = true;
     document.addEventListener('scroll', function() {
-      console.log('ddd');
-      if(!PAGE.tstart || ((performance.now() - PAGE.tstart) > 10)){
-        console.log(performance.now() - PAGE.tstart);
-        PAGE.tstart = performance.now();
-        if((window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+      if(PAGE.doscroll){
+        if((window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10) {
           addPageContent(ROOTS, SUBJ, SONGS, PAGE);
         }
       }
