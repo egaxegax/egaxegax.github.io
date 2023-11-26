@@ -59,7 +59,7 @@
 
   function addPageContent(arts, page){
     PAGE.lock = 1;
-    if(arts.length == 0){
+    if(!arts.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -99,7 +99,7 @@
     addPageContent(ARTS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1) {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10) {
         addPageContent(ARTS, PAGE);
       }
     });
