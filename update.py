@@ -30,7 +30,7 @@ def TR(t):
     'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
   }
   tr = []
-  t = re.sub(r'[ъь\'"`\(\)%]+','',t)
+  t = re.sub(r'[ъь\'"«»`\(\)%]+','',t)
   t = re.sub(r'[\s\.,]+','_',t)
   for s in t:
     tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
