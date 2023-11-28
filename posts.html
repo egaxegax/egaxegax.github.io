@@ -143,7 +143,7 @@
         });
         POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
-      '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="gray counter">('+POSTS.length+')</i></p>';
+      '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></p>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });

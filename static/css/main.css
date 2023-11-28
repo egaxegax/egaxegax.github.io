@@ -29,7 +29,9 @@
 .cfloat { text-align:center; }
 .vtop { vertical-align:top; }
 .scroll { display:block; overflow:auto; white-space:nowrap; }
-.counter, .smaller { font-size:smaller; }
+.counter { font-size:1rem; }
+.smaller { font-size:smaller; }
+.smaller2 { font-size:70%; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
 .main { margin:0px auto 0px auto; max-width:800px; }
