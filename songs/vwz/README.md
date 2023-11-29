@@ -3,6 +3,7 @@
 * [Vandals](Vandals)
 * [Vivaldi](Vivaldi)
 * [Voodoo Glow Skulls](Voodoo%20Glow%20Skulls)
+* [W.A.S.P](W.A.S.P)
 * [Whitesnake](Whitesnake)
 * [Whitney Houston](Whitney%20Houston)
 * [Who](Who)
