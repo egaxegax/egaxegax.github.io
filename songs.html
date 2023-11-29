@@ -280,7 +280,7 @@ td.av div { min-width:25px; color: #aaa; }
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10) {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10){
         addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       }
     });

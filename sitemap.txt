@@ -2545,8 +2545,12 @@ https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_iju
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
 https://egaxegax.github.io/posts.html?retro-igry_na_pk
-https://egaxegax.github.io/posts.html?retro-igry_na_pk/prohojdenie_streets_of_rage_4
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11_robocop
 https://egaxegax.github.io/posts.html?zametki_o_stranah
+https://egaxegax.github.io/posts.html?zametki_o_stranah/ssha
+https://egaxegax.github.io/posts.html?zametki_o_stranah/franciya
+https://egaxegax.github.io/posts.html?zametki_o_stranah/rossiya
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/prohojdenie_streets_of_rage_4
 https://egaxegax.github.io/posts.html?zametki_o_stranah/vengriya
 https://egaxegax.github.io/posts.html?zametki_o_stranah/gonkong
 https://egaxegax.github.io/posts.html?zametki_o_stranah/meksika
@@ -28649,6 +28653,7 @@ https://egaxegax.github.io/songs.html?18+/snimaju_napryajenie
 https://egaxegax.github.io/songs.html?18+/podglyadel_za_sestroj
 https://egaxegax.github.io/index.html
 https://egaxegax.github.io/index.html?2023
+https://egaxegax.github.io/index.html?2023/231130_0050
 https://egaxegax.github.io/index.html?2023/231125_1211
 https://egaxegax.github.io/index.html?2023/231120_0131
 https://egaxegax.github.io/index.html?2023/231118_0208
@@ -28748,11 +28753,8 @@ https://egaxegax.github.io/index.html?2021/210303_1001
 https://egaxegax.github.io/index.html?2021/210221_1746
 https://egaxegax.github.io/index.html?2021/210213_2335
 https://egaxegax.github.io/index.html?2021/210213_1814
-https://egaxegax.github.io/index.html?2021/210124_1912
 https://egaxegax.github.io/index.html?2021/210123_1947
-https://egaxegax.github.io/index.html?2021/210121_0030
 https://egaxegax.github.io/index.html?2021/210113_2021
-https://egaxegax.github.io/index.html?2021/210113_0107
 https://egaxegax.github.io/index.html?2021/210103_0223
 https://egaxegax.github.io/index.html?2020
 https://egaxegax.github.io/index.html?2020/201225_0146
@@ -28761,15 +28763,12 @@ https://egaxegax.github.io/index.html?2020/201202_2329
 https://egaxegax.github.io/index.html?2020/201114_1400
 https://egaxegax.github.io/index.html?2020/201104_2047
 https://egaxegax.github.io/index.html?2020/201101_2138
-https://egaxegax.github.io/index.html?2020/201028_0053
 https://egaxegax.github.io/index.html?2020/201018_1235
 https://egaxegax.github.io/index.html?2020/201006_0104
 https://egaxegax.github.io/index.html?2020/200924_1413
 https://egaxegax.github.io/index.html?2020/200924_1412
 https://egaxegax.github.io/index.html?2020/200923_1205
 https://egaxegax.github.io/index.html?2020/200919_0104
-https://egaxegax.github.io/index.html?2020/200918_1343
-https://egaxegax.github.io/index.html?2020/200917_1545
 https://egaxegax.github.io/index.html?2020/200913_1713
 https://egaxegax.github.io/index.html?2020/200909_1603
 https://egaxegax.github.io/index.html?2020/200904_1553

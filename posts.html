@@ -78,7 +78,8 @@
   }
 
   function addPageContent(roots, subjects, posts, page){
-    if(posts.length == 0){
+    PAGE.lock = 1;
+    if(!posts.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -115,6 +116,7 @@
       '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 1000);
     return page.titles.length == 0;
   }
 
@@ -164,6 +166,12 @@
     document.getElementById('page_header').innerHTML = page_header;
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, POSTS, PAGE);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10){
+        addPageContent(ROOTS, SUBJ, POSTS, PAGE);
+      }
+    });
   });
 
 </script>
