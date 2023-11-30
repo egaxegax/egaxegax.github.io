@@ -68,7 +68,7 @@
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
         addYaRTB_Block((i+page.bottom), true, YA_RTB[4]);
        }
-       document.getElementById("block"+(i+page.bottom)).innerHTML = '';
+       document.getElementById("block"+(i+page.bottom)).innerHTML = '<br>';
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
@@ -91,7 +91,7 @@
   addPageContent({}, {}, MSGS, PAGE);
     // infinite scroll
   document.addEventListener('scroll', function() {
-    if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10){
+    if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1){
       addPageContent({}, {}, MSGS, PAGE);
     }
   });
