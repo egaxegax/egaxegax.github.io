@@ -66,9 +66,9 @@
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
-        addYaRTB_Block((i+page.bottom), true, YA_RTB[4]);
+        addYaRTB_Block((i+page.bottom), page.num%2, YA_RTB[4]);
        }
-       document.getElementById("block"+(i+page.bottom)).innerHTML = '<br>';
+       document.getElementById("block"+(i+page.bottom)).innerHTML = '';
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
