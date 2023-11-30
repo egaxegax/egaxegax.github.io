@@ -63,11 +63,11 @@
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
-        addYaRTB_Block((i+page.bottom), page.num%2, YA_RTB[4]);
+        addYaRTB_Block((i+page.bottom), Math.round(Math.random()), YA_RTB[4]);
        } else {
         document.getElementById('page_content').innerHTML += 
-      '<div id="block'+(i+page.bottom)+'">'+
-        'reklama'+(i+page.bottom)+ 
+      '<div id="block'+(i+page.bottom)+'" class="wrap">'+
+        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'</em></b></div>'+
       '</div>';
        }
     }
@@ -85,7 +85,7 @@
     num: urlParams().page||0 // start num page 
   };
   window.MSGS = [];
-  for(var n=0; n<(window.addYaRTB_Block ?100 :0); n++){
+  for(var n=0; n<100; n++){
     window.MSGS.push( n );
   }
   document.getElementById('page_content').innerHTML = '';
