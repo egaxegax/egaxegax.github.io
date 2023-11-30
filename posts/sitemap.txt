@@ -1,7 +1,9 @@
 https://egaxegax.github.io/posts.html
-https://egaxegax.github.io/posts.html?retro-igry_na_pk
-https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11_robocop
 https://egaxegax.github.io/posts.html?zametki_o_stranah
+https://egaxegax.github.io/posts.html?zametki_o_stranah/kanada
+https://egaxegax.github.io/posts.html?retro-igry_na_pk
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_sudden_strike_4
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11_robocop
 https://egaxegax.github.io/posts.html?zametki_o_stranah/ssha
 https://egaxegax.github.io/posts.html?zametki_o_stranah/franciya
 https://egaxegax.github.io/posts.html?zametki_o_stranah/rossiya

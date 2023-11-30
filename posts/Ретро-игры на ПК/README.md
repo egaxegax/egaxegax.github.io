@@ -2,6 +2,7 @@
 (*Dendy*, *Sega*, *SNES*) на эмуляторах для ПК.
 
 * [Аркадный эмулятор MAME](Аркадный%20эмулятор%20MAME.md)
+* [Игра Sudden Strike 4](Игра%20Sudden%20Strike%204.md)
 * [Игра в MK-11. Robocop](Игра%20в%20MK-11.%20Robocop.md)
 * [Игра в MK-11](Игра%20в%20MK-11.md)
 * [Игры на MAME](Игры%20на%20MAME.md)

@@ -2544,9 +2544,11 @@ https://egaxegax.github.io/foto/Природа/Утка в пруду в Пар�
 https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
-https://egaxegax.github.io/posts.html?retro-igry_na_pk
-https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11_robocop
 https://egaxegax.github.io/posts.html?zametki_o_stranah
+https://egaxegax.github.io/posts.html?zametki_o_stranah/kanada
+https://egaxegax.github.io/posts.html?retro-igry_na_pk
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_sudden_strike_4
+https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11_robocop
 https://egaxegax.github.io/posts.html?zametki_o_stranah/ssha
 https://egaxegax.github.io/posts.html?zametki_o_stranah/franciya
 https://egaxegax.github.io/posts.html?zametki_o_stranah/rossiya
@@ -28857,7 +28859,6 @@ https://egaxegax.github.io/index.html?2019/190503_1707
 https://egaxegax.github.io/index.html?2019/190503_1648
 https://egaxegax.github.io/index.html?2019/190501_0103
 https://egaxegax.github.io/index.html?2019/190428_1144
-https://egaxegax.github.io/index.html?2019/190427_2328
 https://egaxegax.github.io/index.html?2019/190427_1946
 https://egaxegax.github.io/index.html?2019/190427_0108
 https://egaxegax.github.io/index.html?2019/190421_1255

@@ -50,7 +50,8 @@
 '&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
   function addPageContent(roots, subjects, msgs, page){
-    if(msgs.length == 0){
+    PAGE.lock = 1;
+    if(!msgs.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -69,6 +70,7 @@
     '<button onclick="this.disabled = addPageContent({}, {}, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 1000);
     return page.titles.length == 0;
   }
 
@@ -82,6 +84,12 @@
   }
   document.getElementById('page_content').innerHTML = '';
   addPageContent({}, {}, MSGS, PAGE);
+    // infinite scroll
+  document.addEventListener('scroll', function() {
+    if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10){
+      addPageContent({}, {}, MSGS, PAGE);
+    }
+  });
 
 </script>
 </body>
