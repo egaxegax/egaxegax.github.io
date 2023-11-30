@@ -60,14 +60,17 @@
     page.titles = msgs.slice(page.bottom, page.top);
     for(var i=0; i<page.titles.length; i++){
       document.getElementById('page_content').innerHTML += 
-    '<div id="block'+(i+page.bottom)+'"></div>';
-      document.getElementById('page_content').innerHTML += 
-    '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh">'+
+    '<div id="block'+(i+page.bottom)+'">'+
       (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
     '</div>';
-      if(window.addYaRTB_Block) addYaRTB_Block((i+page.bottom), true, YA_RTB[4]);
+      if(window.addYaRTB_Block){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block((i+page.bottom), true, YA_RTB[4]);
+       }
+       document.getElementById("block"+(i+page.bottom)).innerHTML = '';
     }
-    if (page.titles.length){
+    if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<button onclick="this.disabled = addPageContent({}, {}, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
