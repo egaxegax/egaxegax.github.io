@@ -62,7 +62,9 @@
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh">'+
+        (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
+      '</div>';
         addYaRTB_Block((i+page.bottom), Math.round(Math.random()), YA_RTB[4]);
        } else {
         document.getElementById('page_content').innerHTML += 
