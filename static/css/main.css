@@ -34,7 +34,7 @@
 .smaller2 { font-size:70%; }
 .bigger { font-size:150%; }
 .bigger2 { font-size:200%; }
-.main { margin:0px auto 0px auto; max-width:800px; }
+.main { margin:0px auto 0px auto; max-width:900px; }
 .loader { border:1px solid #ddd; }
 #root { min-height:100%; }
 #header { text-align:center; border-radius:2px; background-color:#d2e0f0; }
