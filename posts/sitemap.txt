@@ -1,4 +1,6 @@
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?mesta_podmoskovya
+https://egaxegax.github.io/posts.html?mesta_podmoskovya/novoe_stupino
 https://egaxegax.github.io/posts.html?zametki_o_stranah
 https://egaxegax.github.io/posts.html?zametki_o_stranah/kanada
 https://egaxegax.github.io/posts.html?retro-igry_na_pk
@@ -21,7 +23,6 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/python_resursivnoe_obedinenie_fajlov
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare/tablica_akkordov_s_tabami
-https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/novoeganovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/bekasovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/mojajsk
