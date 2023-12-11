@@ -1,8 +1,5 @@
 <!--2020-09-04 23:59:57-->
-Always  
-  
-Intro:  ***E        A***  
-  ***E        A***  
+*Intro:*  ***E   A*** } 2x  
   
   ***C#m***  
   This romeo is bleeding  
@@ -133,4 +130,4 @@ Intro:  ***E        A***
   and I'll love you - Al---ways  
   ***E  B***  
   
-  ***C#m  B   A***
+  *End:* ***C#m  B   A***

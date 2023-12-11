@@ -10,7 +10,7 @@ The taste is bittersweet 'cause I know you're not mine
   ***Am***  
 I wanna come inside  
   
-(Chorus)  
+*(Chorus)*  
   ***F           G                    Am      G***  
 Hit the lights and I'll come crawling thru your window tonight  
   ***F          G***  
@@ -26,7 +26,7 @@ We made a promise and we'll keep it
     ***Am***  
 Our dirty little secret  
   
-(Verse)  
+*(Verse)*  
     ***Am                   F***  
 We'll act like strangers when you're holding his hand  
     ***G              F***  
@@ -39,7 +39,7 @@ We run like thieves through the temple of sin
 Then you go back to him  
 I wanna feel alive  
   
-(Chorus)  
+*(Chorus)*  
   ***F             G                 Am      G***  
 Hit the lights and I'll come crawling thru your window tonight  
   ***F          G***  
@@ -55,10 +55,10 @@ We made a promise and we'll keep it
     ***Am          G***  
 Our dirty little secret  
   
-(solo)  
+*(solo)*  
 ***Am***  
   
-(Chorus)  
+*(Chorus)*  
   ***F             G                  Am      G***  
 Hit the lights and I'll come crawling thru your window tonight  
     ***F          G***  

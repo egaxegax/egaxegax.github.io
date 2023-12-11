@@ -1,5 +1,5 @@
 <!--2020-09-07 00:46:45-->
-(Verse1)  
+*(Verse1)*  
   ***Am***  
 Diamond ring wear it on your hand  
   ***Am***  
@@ -15,7 +15,7 @@ Blood red rose, tells me that you're true
 Red, red rose, blood red rose  
 Like a fire inside that grows, blood red rose  
   
-(Bridge)  
+*(Bridge)*  
     ***Dm             Am***  
 When you're hungry, I will fill you up  
     ***Dm             Am***  
@@ -25,22 +25,22 @@ When you're crying, I'll be the tears for you
     ***G               E         Am***  
 There's nothing that I wouldn't do for you  
   
-(Solo Vers)  
+*(Solo Vers)*  
   
-(Bridge)  
+*(Bridge)*  
   
 When you're hungry, I will fill you up  
 When you're thirsty, drink out of my loving cup  
 When you're crying, I'll be the tears for you  
 There's nothing that I wouldn't do  
   
-(Link)  
+*(Link)*  
       ***F                              G***  
 You know, I bleed every night you sleep,  
     ***Am     Am/G       F            Esus4     E***  
 'Cause I don't know if I'm in your dreams I want to be your everything...  
   
-(Verse1)  
+*(Verse1)*  
   
     ***Dm                F           Am***  
 Darling you're my everything, diamond ring*  
