@@ -56,7 +56,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
   window.TDS = [];
   window.TDF = [];
-  window.addYaRTB_Block = function(blid,p_dark,rtbid,tid){ 
+  window.addYaRTB_Block = function(blid,p_dark,rtbid){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});});
     }};
