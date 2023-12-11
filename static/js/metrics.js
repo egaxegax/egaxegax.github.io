@@ -75,7 +75,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'R-A-2277013-5', type:'floorAd'});});
     }
     while(TDF.length) clearInterval(TDF.pop());
-    TDF.push( setInterval(floorAd, (Math.random()*14+10)*1000));
+    TDF.push( setInterval(floorAd, (Math.random()*16+12)*1000));
     floorAd();
   }
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme: p_dark, blockId:'R-A-2277013-12', type:'floorAd', platform:'desktop'});});
