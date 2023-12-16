@@ -44,11 +44,11 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
 //    } else { f(); }
 //  })(window, document, '_top100q');
 //}
-{ // google adsense
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
-   m[i].l=1*new Date();k=e.createElement(t),a=document.head;k.async=1;k.crossorigin='anonymous';k.src=r;a.appendChild(k);})
-   (window, document, 'script', '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043', 'googleContextCb');
-}
+//{ // google adsense
+//  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
+//   m[i].l=1*new Date();k=e.createElement(t),a=document.head;k.async=1;k.crossorigin='anonymous';k.src=r;a.appendChild(k);})
+//   (window, document, 'script', '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043', 'googleContextCb');
+//}
 { // reklama Yandex.RTB
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
