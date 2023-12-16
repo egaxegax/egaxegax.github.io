@@ -1,4 +1,6 @@
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?primery_shell-scenariev
+https://egaxegax.github.io/posts.html?primery_shell-scenariev/zapis_iso-obraza_na_fleshku
 https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/novoe_stupino
 https://egaxegax.github.io/posts.html?zametki_o_stranah
@@ -19,7 +21,6 @@ https://egaxegax.github.io/posts.html?zametki_o_stranah/yaponiya
 https://egaxegax.github.io/posts.html?zametki_o_stranah/butan
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov
 https://egaxegax.github.io/posts.html?podborka_citat_i_aforizmov/arnold_shvarcenegger_amerikanskij_bodibilder_i_akter
-https://egaxegax.github.io/posts.html?primery_shell-scenariev
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/python_resursivnoe_obedinenie_fajlov
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare
 https://egaxegax.github.io/posts.html?samouchitel_igry_na_gitare/tablica_akkordov_s_tabami
