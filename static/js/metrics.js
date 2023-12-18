@@ -55,8 +55,6 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11};
   window.TDS = [];
-  window.TDF = [];
-  window.TDD = [];
   window.addYaRTB_Block = function(blid,p_dark,rtbid){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});});
@@ -71,15 +69,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
   var p_full = Number((sp.getAttribute('data-full') == null) ? 0 : sp.getAttribute('data-full'));
   console.log('p_floor', p_floor, 'p_top', p_top, 'p_full', p_full);
-  if(p_floor){ 
-    function floorAd(){ 
-      window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-5', type:'floorAd'});});
-      window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-12', type:'floorAd', platform:'desktop'});});
-    }
-    while(TDF.length) clearInterval(TDF.pop());
-    TDF.push( setInterval(floorAd, (Math.random()*16+12)*1000));
-    floorAd();
-  }
+  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-5', type:'floorAd'});});
+  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-12', type:'floorAd', platform:'desktop'});});
   if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-7', type:'topAd'});});
   if(p_full) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-8', type:'fullscreen', platform:'touch'});});
 }
