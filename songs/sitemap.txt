@@ -1,4 +1,6 @@
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?aleksandr_serov
+https://egaxegax.github.io/songs.html?aleksandr_serov/ushla_ljubov
 https://egaxegax.github.io/songs.html?w_a_s_p
 https://egaxegax.github.io/songs.html?w_a_s_p/the_idol
 https://egaxegax.github.io/songs.html?leps_grigorij
@@ -106,7 +108,6 @@ https://egaxegax.github.io/songs.html?severnyj_flot/podnimaya_znamya
 https://egaxegax.github.io/songs.html?severnyj_flot/veter_hodit_nalegke
 https://egaxegax.github.io/songs.html?blue_system
 https://egaxegax.github.io/songs.html?blue_system/my_bed_is_too_big
-https://egaxegax.github.io/songs.html?aleksandr_serov
 https://egaxegax.github.io/songs.html?aleksandr_serov/vernis_ljubov
 https://egaxegax.github.io/songs.html?nimerov_grigorij/futbol
 https://egaxegax.github.io/songs.html?gazmanov_oleg
