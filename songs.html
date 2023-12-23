@@ -243,7 +243,7 @@ td.av div { min-width:25px; color: #aaa; }
         }
         PAGE.per = 20;
       }else if(pp.length>1){ // ?art/song
-        if(pp.length>2) updateMetaTag('robots', 'noindex'); // +noindex unusable url
+        if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
         SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
         if(SONGS.length){
           PAGE.view = 'song';
