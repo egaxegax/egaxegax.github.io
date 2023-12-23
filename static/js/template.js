@@ -33,9 +33,10 @@ function addPaginator(list, page, page_btn){
   return (has_previous || has_next) ? root : '';
 }
 //
-// return SVG image fot '404 Not Found' page
+// return SVG image for '404 Not Found' page
 //
 function addNotFound(){
+  updateMetaTag('robots', 'noindex'); // 404
   return '<div><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
 '<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#aaa">'+
 '<path d="M110 58 Q134 48 144 56" />'+
