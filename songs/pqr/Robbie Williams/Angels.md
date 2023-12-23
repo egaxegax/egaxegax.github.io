@@ -4,7 +4,7 @@
   *(written by Robbie Williams and Guy Chambers)*  
   
   *special notation:*  
-  ****|E*** | donates 1 bar*  
+  ***|E*** | donates 1 bar*  
   *NC-no chord*  
   *chords:*  
   ****E***-[022100]*  

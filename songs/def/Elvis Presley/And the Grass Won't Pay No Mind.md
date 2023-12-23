@@ -11,11 +11,11 @@ riff 1:                   ***G#***
   A||---------------6--||  
   E||---1--2----4---4--||]  
   
-  ****C#***          riff 1  ***G#****  
+  ****C#***          riff 1  ***G#***  
   Listen easy,          you can hear God calling  
   ***C#      F#              G#       F#   G#***  
   Walking barefoot by the stream  
-  ****C#***            riff 1  ***G#****  
+  ****C#***            riff 1  ***G#***  
   Come on to me,          Your hair's softly falling  
   ***C#    F#           G#***  
   On my face as in a dream  

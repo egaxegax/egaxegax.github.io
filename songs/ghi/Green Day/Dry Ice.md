@@ -49,7 +49,7 @@ Bridge:  come ease the pain that's in my heart
   *repeat CHORUS*  
   *repeat Bridge*  
   
-  *end on ***G#****  
+  *end on ***G#***  
   
 ----  
   

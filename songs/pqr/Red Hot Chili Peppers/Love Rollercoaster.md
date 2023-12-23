@@ -40,7 +40,7 @@ Lyrics:  YOU GIVE ME THAT FUNNY FEELING IN MY TUMMY....
   
   
   *I couldn't find a tab for this anywhere, so i wrote this.*  
-  *Chords: ***C***, ***Bb***, ***A***, ***G***, ***G#****  
+  *Chords: ***C***, ***Bb***, ***A***, ***G***, ***G#***  
   *Note: You can use Bar chords, or standard, but i think*  
   *this sounds best.*  
   *you can leave out the (1st fret)bar on the Bb.*  
@@ -49,7 +49,7 @@ Lyrics:  YOU GIVE ME THAT FUNNY FEELING IN MY TUMMY....
       ***C          Bb          A          G          G#         A!***  
   [  x  o                   xx   o  
    +======+   +=======+   +======+   +======+   +======+   +======+  
-  1|::::*:|  1|*******|  1|::::::|  3|******|  4|******|  5|******|  
+  1|::::*:|  1|******|  1|::::::|  3|*****|  4|*****|  5|*****|  
   2|::::::|  2|:::::::|  2|::***:|  4|:::*::|  5|:::*::|  6|:::*::|  
   3|::*:::|  3|:::***:|  3|::::::|  5|:**:::|  6|:**:::|  7|:**:::|  
   4|:*::::|  4|:::::::|  4|::::::|  6|::::::|  7|::::::|  8|::::::|  

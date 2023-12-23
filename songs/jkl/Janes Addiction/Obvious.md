@@ -8,4 +8,4 @@ Obvious
   A|--9--9-9------9-|--%--|--9--9-9-----------9-9--9---|  
   E|----------------|-----|----------------------------|]  
   *chorus':*  
-  ****E*** and ***D*** chords--follow the guitar, big open chords and then an ***F#****
+  ****E*** and ***D*** chords--follow the guitar, big open chords and then an ***F#***

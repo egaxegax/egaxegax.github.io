@@ -33,9 +33,9 @@
   A|---7---9---7---5---3---5---3---9---9---5---3---5---3-----|  
   E|---5---7-----------------------7-------------------------|]  
   
-  ***********  
+  *********  
   ** BONUS **  
-  ***********  
+  *********  
   *Intro to the Malachav Crunch (i know it's spelled wrong but I suck at*  
   *spelling and can't find my Ribbed Tape anywhere )*  
   *On Low ***E***:*  

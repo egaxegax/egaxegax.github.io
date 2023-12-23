@@ -11,7 +11,7 @@ Shelter From The Rain
   D|--9------------0----------7-----------4---4-----|  
   A|-7------------4----------0-----------2----------|  
   E|-------------5----------------------------------|]  
-     ****D****:          ***B/D#****:     ***Bm*          Cm9****:*  
+     ****D****:          ***B/D#***:     ***Bm*          Cm9****:*  
   [E|------------------------------------------------|  
   B|----(3)---------------------3-----------3-------|  
   G|---0------------0----------0-----------0--------|  
@@ -55,7 +55,7 @@ verse:  When our hearts were young
   Alone in your room  
   ***Am****  
   Through my silent thoughts  
-     ***Bm*   Cm9*-D*-B/D#****  
+     ***Bm*   Cm9*-D*-B/D#***  
   I still remember  
   
   ***Cmaj9                      Em7***  
@@ -68,7 +68,7 @@ chorus:  We would use the power of love
   Our hopes and dreams  
     ***Bm*     Cm9****  
   Because without love  
-    ***D*                 B/D#****  
+    ***D*                 B/D#***  
   Our world would surely die  
   
 verse:  When our hearts were young  
@@ -91,7 +91,7 @@ chorus:  We would use the power of love
   Our hopes and dreams  
     ***Bm*     Cm9****  
   Because without love  
-    ***D*                 B/D#****  
+    ***D*                 B/D#***  
   Our world would surely die  
   
     ***Em***  
@@ -110,7 +110,7 @@ bridge:  When our hearts were young
   But each time we kissed  
     ***Am           Bm****  
   We'd burn in the flames  
-    ***Cm9*        D*-B/D#****  
+    ***Cm9*        D*-B/D#***  
   Feel the fire in our veins  
   
   *Guitar solo:*  
@@ -161,7 +161,7 @@ chorus:  We would use the power of love
   Our hopes and dreams  
     ***Bm*     Cm9****  
   Because without love  
-    ***D*                 B/D#****  
+    ***D*                 B/D#***  
   Our world would surely die  
   
   ***Cmaj9                      Em7***  
@@ -174,7 +174,7 @@ chorus:  We would use the power of love
   Our hopes and dreams  
     ***Bm*     Cm9****  
   Because without love  
-    ***D*                 B/D#****  
+    ***D*                 B/D#***  
   Our world would surely die  
   
   *Guitar solo:*  

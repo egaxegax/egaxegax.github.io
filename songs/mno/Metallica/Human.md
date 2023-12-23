@@ -2,7 +2,7 @@
 Human  
   
   *tune all guitars down 1 1/2 steps (***C#*** tuning)*  
-  *low to high ***C#***, ***F#***, ***B***, ***E***, ***G#***, ***c#****  
+  *low to high ***C#***, ***F#***, ***B***, ***E***, ***G#***, ***c#***  
   *symphony intro*  
    *1)*  
   [E-----------------------------------------  

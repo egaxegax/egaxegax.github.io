@@ -82,7 +82,7 @@ A Day At The Races 1976, Live Killers 1977
     *|*  
     *|__________ BAR 1st FINGER*  
   
-   ***** You only need to hit those strings indicated with a "*" (***A D G***).*  
+   **** You only need to hit those strings indicated with a "*" (***A D G***).*  
   
    *On the hammer on/off of the note ***C*** you only need to hit the "***A***" string.*  
   

@@ -86,5 +86,5 @@ Sell Out
   *Outro*  
   *-----*  
   *(***-d2 c2 -b2 -a2 -d2 c2 -b2 -a2 -d2 c2 -b2 -a2****  
-  ****-b2 c2 -d2 c2***) * 5*  
+  ***-b2 c2 -d2 c2***) * 5*  
   *(if you have the range, the 4th time play it an octave up)*

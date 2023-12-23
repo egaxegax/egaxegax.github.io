@@ -33,7 +33,7 @@ Down
   A|--66666666-88888888-99999999-44444444-66666666-88888888-9--|  
   E|--44444444-66666666-77777777-22222222-44444444-66666666-7--|]  
   
-  **** Break after chorus is basically the intro played as:*  
+  *** Break after chorus is basically the intro played as:*  
   [e|-------------------|  
   B|-------------------|  
   G|----------44444444-|  

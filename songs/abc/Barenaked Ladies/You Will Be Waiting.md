@@ -3,7 +3,7 @@ You Will Be Waiting
   
   *I hope that the chord fingerings below make sense.*  
   *I don't know the real names of the chords that I've called*  
-  *such things as ***Cadd******G***, but it's a ***C*** major with the high ***G*** note added on*  
+  *such things as ***Cadd*****G***, but it's a ***C*** major with the high ***G*** note added on*  
   *the first string and so on. Sorry about the capo placement, but my*  
   *cassette player plays everything fast (about a half-step fast) so where*  
   *I have to put my capo to play along isn't necessarily reliable. Just pick*  
@@ -12,11 +12,11 @@ You Will Be Waiting
   *(Capo on 2nd or 3rd fret; I can't remember which)*  
   *The numbers below denote the fret where the string should be held, not*  
   *the finger that should be used. All fingerings are with the capo on.*  
-  *********************************************************  
+  *******************************************  
    ***CaddG       C/BaddG      Am7         Am7/G       Fm***  
   [EADGBE       EADGBE      EADGBE      EADGBE      EADGBE  
    32013        2X013       02013      3X2013      133111]  
-  *********************************************************  
+  *******************************************  
   
   ***CaddG        C/BaddG            Am7            Am7/G***  
   As we walk together through the autumn nearing winter  

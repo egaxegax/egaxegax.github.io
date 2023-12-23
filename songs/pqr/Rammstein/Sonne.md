@@ -503,7 +503,7 @@ Song structure: Intro x9
    *n/  - tremolo bar up*  
   */n  - tremolo bar inverted dip*  
    *=   - hold bend; also acts as connecting device for hammers/pulls*  
-   *******  - volume swell (louder/softer)*  
+   ******  - volume swell (louder/softer)*  
    *x   - on rhythm slash represents muted slash*  
    *o   - on rhythm slash represents single note slash*  
   

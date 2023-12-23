@@ -18,7 +18,7 @@ Napa Es Chords
   *Without Lyrics:*  
   *(Clean Sound)      ***Bm G F#*** (2x)*  
   *(Fast Ska Beat)    ***Bm A G F#*** (2x)*  
-  *(Clean Sound Fast) ***F# G F# G F# E F#****  
+  *(Clean Sound Fast) ***F# G F# G F# E F#***  
   
   *Repeat everything once except for the intro and that's it!*  
   

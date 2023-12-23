@@ -71,7 +71,7 @@ Bridge 2:   Come on then...
   A|-----------------------------  
   E|-----------------------------]  
   
-  *****************************************************************************  
+  **********************************************************  
   *MIDNIGHT*  
   *Capo 2nd Fret. Tablature irrelavent to capo. Timing is partially shown in tab.*  
   *There are actually two guitars in this song, so this may sound a little dry.*  

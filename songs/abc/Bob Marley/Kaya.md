@@ -5,7 +5,7 @@ Kaya
   ***/ B B D D/ F# F# F# F#/***  
   *CHORUS: (I feel so high, I even touch the sky/Above the falling rain/I*  
   *feel so good in my neighbor hood so hereI came again)*  
-  ****/ G#m   /    B    /   G#m /  B   /  G#m /  E  /  F# /*** to verse...*  
+  ***/ G#m   /    B    /   G#m /  B   /  G#m /  E  /  F# /*** to verse...*  
   *Thats all folks....*  
   
 ----  

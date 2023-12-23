@@ -90,7 +90,7 @@ Verse:  Drugstore hooligan, another white trash mannequin
 Bridge:  ***G#    F#    G#    F# F#***  
   ***G#    F#    G#***  
   
-  *Chorus: again the same       ends on ***G#****  
+  *Chorus: again the same       ends on ***G#***  
   
   *There thats it, hope it helps.*  
   

@@ -24,7 +24,7 @@ Guitar Man
   every song.***E*** And you***am*** find yourself a ***E+/g#***message and some  
   ***C6/g***words to call your ***D/f#***own and take them ***E***home.  
   
-  *(Inst.verse to *-!) (***G******C******D*** Intro 2xs)*  
+  *(Inst.verse to *-!) (***G*****C*****D*** Intro 2xs)*  
   
   ***CM7***Something keeps him moving, but ***bm7***no one seems to know ***am7***what it  
   is that makes him ***D***go.  

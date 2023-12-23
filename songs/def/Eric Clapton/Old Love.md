@@ -99,7 +99,7 @@
   Old love,         go on home  
   
   ****G+***  = [355533], ***Am-*** = [x02110]*  
-  ******** = Use Moveable ***C7****  
+  ****** = Use Moveable ***C7****  
   
   *Additional details:*  
     ***F7          E7#9             G+       G***  

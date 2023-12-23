@@ -46,7 +46,7 @@ Angel Child
   ***Dsus2/Ab [x00130]***  
   ***Dsus2/G  [x00030]***  
   
-  **** The Song ****  
+  *** The Song ***  
   
 Intro:  ***Am***, ***Am***, ***Em***, ***Dsus2***  
   ***Am***, ***Am***, ***Em***, ***Dsus2***  

@@ -14,7 +14,7 @@ Verse:  Smell of you baby, my senses, my senses be praised
   Kissing and running, kissing and running away  
    ***F#m         C#m***  
   Senses be praised  
-   ****F#m         C#m***     then (chords of the Intro once and then ***F#***)x2 then ***C#m F# C#m F#****  
+   ****F#m         C#m***     then (chords of the Intro once and then ***F#***)x2 then ***C#m F# C#m F#***  
   Senses be praised  
    ***B        A          B  A***  
   Your my saving grace, saving grace  

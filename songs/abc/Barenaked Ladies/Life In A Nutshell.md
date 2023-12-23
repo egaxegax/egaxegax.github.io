@@ -58,7 +58,7 @@ Bridge:  I fell down     with no one to catch me f
   
 INTRO:  ***F F  A A#*** } four times  
   
-  ****F      C***(open) ***Am         A#****  
+  ****F      C***(open) ***Am         A#***  
   When she was three, her barbies always did it on the first date  
   ***F        C   A       A#***  
   Now she's with me, There's never any need for them to demonstrate  

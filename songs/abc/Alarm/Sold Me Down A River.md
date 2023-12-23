@@ -31,7 +31,7 @@ Sold Me Down A River
   I dont understand how you sold me down a river  
   Sold me down a river..............  
   Sold me down a river  
-  ************* GUITAR SOLO **************  
+  ********** GUITAR SOLO ***********  
   i die in 24 hours................  
   I don't Know why  
   I dont understand how you sold me down a river  

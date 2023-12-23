@@ -6,7 +6,7 @@
   
   *Acoustic guitar...*  
   
-   ******E-1***        ***E-2***         ***D***          ***C#***         ***C***         ***G(2)******  
+   *****E-1***        ***E-2***         ***D***          ***C#***         ***C***         ***G(2)*****  
   *EADGBE     EADGBE     EADGBE     EADGBE     EADGBE     EADGBE*  
   [022100     x7990x     x5770x     x4660x     x355xx     XX000X]  
   

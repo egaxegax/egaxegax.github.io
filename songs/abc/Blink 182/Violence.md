@@ -16,7 +16,7 @@ Violence
   D|-777-7--7-7777-999-9--9-9999-444-4--4-4444-666-6--6-6666-|  
   A|-000-0--0-0000-000-0--0-0000-000-0--0-0000-000-0--0-0000-|  
   E|-555-5--5-5555-777-7--7-7777-222-2--2-2222-444-4--4-4444-|]  
-  **** Repeat chorus as necessary...*  
+  *** Repeat chorus as necessary...*  
   
   *Bridge (Clean):*  
   [e|-----------------------------------------|  
@@ -27,7 +27,7 @@ Violence
   E|-5-------5-4-5--4-5-7----5-4-5--4-5-7----|]  
     *|This part repeats several times|*  
   
-  **** Note: The first two notes of the bridge do not repeat,*  
+  *** Note: The first two notes of the bridge do not repeat,*  
     *but the main riff does...*  
   
   *Chorus (Distorted):*  
@@ -37,7 +37,7 @@ Violence
   D|-777-7--7-7777-999-9--9-9999-444-4--4-4444-666-6--6-6666-|  
   A|-000-0--0-0000-000-0--0-0000-000-0--0-0000-000-0--0-0000-|  
   E|-555-5--5-5555-777-7--7-7777-222-2--2-2222-444-4--4-4444-|]  
-  **** Repeat chorus as necessary...*  
+  *** Repeat chorus as necessary...*  
   
   *End on:*  
   [e|---|  

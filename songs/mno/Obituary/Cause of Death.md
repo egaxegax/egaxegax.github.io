@@ -82,9 +82,9 @@
   A:-2---------2---------3-2-3-1--2---------2---------2-3-5-3-|  
   E:-0-0-0-0-0-0-0-0-0-0-----1----0-0-0-0-0-0-0-0-0-0-0-1-3-1-|]  
     x x x x   x x x x            x x x x   x x x x  
-    *******************  
+    ***************  
     ***SPECIAL NOTE:***  
-  ********************************************************************************  
+  ************************************************************  
   *Note that Obituary uses a lot of slight variations in their riffing. One time*  
   *a riff may have a ***C5***-chord like:  [D:--5--]*  
     [A:--3--]  
@@ -96,7 +96,7 @@
   *RIFF D has this variation, usually always on the second repitition. Listen*  
   *to the album to hear this.. I didn't tab it because its basically a copy of the*  
   *first time around! (and cause I'm lazy! - Plus this costs $$$ to eMail/FTP!)*  
-  ********************************************************************************  
+  ************************************************************  
   *CAUSE OF DEATH - STRUCTURE:*  
   ***Introduction:*  
   *Riff A x 6         -Fade in on first*  

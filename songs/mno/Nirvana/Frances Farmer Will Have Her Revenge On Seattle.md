@@ -25,7 +25,7 @@ Solo:  3|---------9-9-9-9
   *this one. For the chorus, I think it's ***C#***-***E***-***D***-***Bb***. Like this:*  
   ***C#         E          D     Bb***  
   *I miss the comfort in being sad*  
-  *Then the end of the chorus is (starting on the ***Bb*** above): ***Bb***-***A***-***Bb***-***A***-***G***-***F#****  
+  *Then the end of the chorus is (starting on the ***Bb*** above): ***Bb***-***A***-***Bb***-***A***-***G***-***F#***  
   *From ther you can either go back into the verse (muted ***G#***-***E***-***G***-***E***-***G*** wide*  
   *open ***Bb***) or into the bridge (***Bb***-***D***-***Bb***-***D***-***E*** a couple times then into*  
   *the same ending as the chorus). Once again, if you understand*  

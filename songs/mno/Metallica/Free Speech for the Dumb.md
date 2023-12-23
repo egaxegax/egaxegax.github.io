@@ -2,7 +2,7 @@
 Free Speech for the Dumb  
   
   *Tune all guitars down 1 & 1/2 steps (3 half steps) down*  
-  *low to high ***C#***, ***F#***, ***B***, ***E***, ***G#***, ***c#****  
+  *low to high ***C#***, ***F#***, ***B***, ***E***, ***G#***, ***c#***  
    *1)*  
   [B---2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5  
   F#--2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5  

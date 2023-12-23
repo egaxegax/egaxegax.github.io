@@ -61,7 +61,7 @@ Never Let Me Down
   Never want to come down  
     ***Gm                    F***  
   Never want to put my feet back down on the ground  
-  *Riff 1:  ***Dm   C    F    D#****  
+  *Riff 1:  ***Dm   C    F    D#***  
   ***Dm           C                       G riff***  
   I~m taking a ride with my best friend  
   ***Dm        C                       G riff***  

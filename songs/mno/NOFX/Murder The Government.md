@@ -15,7 +15,7 @@ CHORDS:  ***B          G#          E
   I WANNA SEE THE CONSTITUTION BURN  
     ***Em***  
   WANNA WATCH THE WHITEHOUSE OVERTURN  
-    ***F# ****  
+    ***F# ***  
   WANNA WITNESS SOME BLUE BLOOD BLEED RED  
   *(FAST)*  
   ***B          G#***  

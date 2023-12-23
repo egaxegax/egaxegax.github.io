@@ -1,7 +1,7 @@
 <!--2020-09-05 12:37:00-->
 Voodoo Chile (Slight Return)  
   
-  *****INTRO*****  
+  ****INTRO****  
   [E-|-----|  
   B-|-----|  
   G-|-x-x-|  
@@ -45,7 +45,7 @@ Voodoo Chile (Slight Return)
   D-|-2----------------------------------------------|  
   A-|-2----------------------------------------------|  
   E-|-0-0-3-0----------------------------------------|]  
-  *****SORRY THIS IS AS MUCH INTRO AS I HAVE TIME FOR*****  
+  ****SORRY THIS IS AS MUCH INTRO AS I HAVE TIME FOR****  
   
    *+==== Important bit here! ==================+*  
    *|                                           |*  

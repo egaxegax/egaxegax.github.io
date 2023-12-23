@@ -38,11 +38,11 @@ If That Were Me
     ***C               Em                  Am-D***  
     When it's cold is it your hope that keeps you warm?  
   
-  **********************************************************************  
+  *****************************************************  
   ** (An'the rest is the same except for that orchestrally            **  
   **  bit later on which you can miss out when you do your            **  
   **  unplugged version in front of your mates,girl/boy friends etc..)**  
-  **********************************************************************  
+  *****************************************************  
   A spare bit of change is all that I give  
   How is that gonna help you when you've got nowhere to live?  
   Some turn away so they don't see.  

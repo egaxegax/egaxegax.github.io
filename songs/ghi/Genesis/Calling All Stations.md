@@ -4,8 +4,8 @@
   *(Banks/Rutherford)*  
   
   *Time Signature: 4/4*  
-  ****( )*** chords played by Synthetiser*  
-  ****(Am/C)*** Synth plays ***(Am)*** while Bass plays ***(C)****  
+  ***( )*** chords played by Synthetiser*  
+  ***(Am/C)*** Synth plays ***(Am)*** while Bass plays ***(C)***  
   *All along the song a distorted guitar follows the bass*  
   *with power chords (for instance, here playing ***(C5)***)*  
   
@@ -111,7 +111,7 @@
   ¦-------------------¦------------------¦]  
   I feel the sensation disappearing  
   ***(Am6-5/E)*** There's a tingling in my ***(Em)***arms  
-    ****(Am6-5/E)***                  long bend*  
+    ***(Am6-5/E)***                  long bend*  
   [¦------------¦-----------------------------¦---------¦  
   ¦-------- 1/2¦-----------------------------¦1--------¦  
   ¦--------11^(11)~~----------------12h(14)^^^^--------¦  
@@ -164,7 +164,7 @@
   ¦-11-12-12-9---9-¦-11-12--9---9-¦  
   ¦-11-11-11-------¦-11-11--------¦  
   ¦----------------¦--------------¦]  
-  *Synth: ***(F/E)  (Em)  (F/E)  (Em)****  
+  *Synth: ***(F/E)  (Em)  (F/E)  (Em)***  
   ***(F/E)***  
   [¦ .----------¦---------------¦  
   ¦12----------¦---------------¦  

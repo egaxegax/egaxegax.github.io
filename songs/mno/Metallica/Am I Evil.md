@@ -186,7 +186,7 @@ Pre-Chorus riff: [|------------------------------|
   Am I Evil?  
   I am that, yes I am....  
   
-  ********Main Riff x 2********  
+  *******Main Riff x 2*******  
   
   *(Main Riff x 8 with verse 2)*  
   
@@ -265,7 +265,7 @@ Pre-Chorus riff: [|------------------------------|
   
   *Lyrics:*  
   
-  ********Then Fast Riff 1 x 1********  
+  *******Then Fast Riff 1 x 1*******  
   
     |   |   |   |      |   |   |   |      |   |   |   |  
   |------------------|------------------|------------------|  
@@ -474,7 +474,7 @@ Pre-Chorus riff: [|------------------------------|
   |---------------------------|--------------------------|  
   |---------------------------|--------------------------|  
   
-  ********Fast Riff 1 x 2 ( Note: Only repeat the first section )********  
+  *******Fast Riff 1 x 2 ( Note: Only repeat the first section )******  
   
   *On fourth repeat, Gtr 2 plays:*  
   
@@ -486,9 +486,9 @@ Pre-Chorus riff: [|------------------------------|
   |----------------7-|  
   |------------------|  
   
-  ********Fast Riff 2 x 4********  
+  *******Fast Riff 2 x 4*******  
   
-  ********Fast Riff 1 x 4********  
+  *******Fast Riff 1 x 4*******  
   
   *(Triplet feel - not strict time)*  
   

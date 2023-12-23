@@ -23,7 +23,7 @@ You can get the rhythm from the record. bssically you play�
 top chord above (an Fm) and just slide your 4th finger up one  
 fret and back down again in time with the record.  
   
-****************  
+************  
   
 Fm (same pattern as intro)  
   
@@ -72,7 +72,7 @@ He went on down the road
   
 Repeat above for second verse/chorus  
   
-*****  
+****  
   
 (at the end of various phrases in this bit Blixa plays two notes  
 Bb (3rd string 5th fret) and G# (4th string 6th fret). He puts a  

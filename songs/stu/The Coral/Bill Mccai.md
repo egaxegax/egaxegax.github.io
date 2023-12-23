@@ -107,5 +107,5 @@ Bill Mccai
   Bye bye Bill McCai                                       | intro again)  
     |-------------  
   
-  ******Am  C   D      Em******  
+  *****Am  C   D      Em*****  
   Bye bye Bill McCai

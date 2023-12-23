@@ -60,14 +60,14 @@ album "Between the Breaks...Live!"
   ....... Do we disco-ver living______  
   ***Gmaj7       *             D          Dmaj7***  
   ....... or, somehow, are____ we told______  
-     ***A               *              A#dim             ****  
+     ***A               *              A#dim             ***  
   In sudden pain, in empty cold, in blinding light of day  
-    ***Bm                  *         A        G      ****  
+    ***Bm                  *         A        G      ***  
   We're given breath and it takes our breath a-way  
   How cruel to unformed fancy/The way in which we come  
   Over-whelmed by feeling/And sudden loss of love  
   And what price dark confining pain, the hardest to forgive  
-    ***Bm                *      A    G          G/F#   Em   *   A   ****  
+    ***Bm                *      A    G          G/F#   Em   *   A   ***  
   When all at once we're called upon . to live  
   (Then) by giant hand we're taken/From the shelter of the womb  
   That dreaded first horizon/The endless empty room  
@@ -80,9 +80,9 @@ album "Between the Breaks...Live!"
   We live____,  but  more   alone  
       ***Em              *            C***  
   The more to be, the more to see____  
-    *******  
+    ******  
   To cry aloud that we are free  
-     ***Bb6              *          *           A  ****  
+     ***Bb6              *          *           A  ***  
   To hide our ancient fear(s) of being alone______  
   And how we live in darkness/Embracing spiteful cold  
   Refusing any answers/For no man can be told  

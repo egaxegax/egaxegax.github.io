@@ -2,7 +2,7 @@
 The More I See  
   
   *tune all guitars down 1 1/2 steps (***C#*** tuning)*  
-  *low to high ***C#***, ***F#***, ***B***, ***E***, ***G#***, ***c#****  
+  *low to high ***C#***, ***F#***, ***B***, ***E***, ***G#***, ***c#***  
   *bass intro*  
    *1)*  
   [E--------------------------------2~~~~7-9-7-9-7-9  

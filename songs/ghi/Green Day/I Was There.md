@@ -13,7 +13,7 @@ CHORDS:      ***F     Bb       C    
   *(those last 2 chords i have no clue as for the names.*  
    *i'm just guessing)*  
   
-  *Intro: ***F#(?)***, ***G(?)****  
+  *Intro: ***F#(?)***, ***G(?)***  
   
   *Verse:*  
   ***C              Bb                 C                Bb***  

@@ -18,7 +18,7 @@ She has a Girlfriend Now
   a:-----------  
   e:-----------]  
   
-  *intro: ***d#*** (intro fill 1) ***g# g# a# a#****  
+  *intro: ***d#*** (intro fill 1) ***g# g# a# a#***  
     ***d# cm g# a# } x4***  
   
     ***d#           cm g# a#***  
@@ -28,7 +28,7 @@ She has a Girlfriend Now
     ***d#         cm             g#            a#          d#***  
   she has a girlfriend now, she said "guys don't do no more for me"  
   
-  *(intro fill 1) ***g# g# a# a#****  
+  *(intro fill 1) ***g# g# a# a#***  
   
     ***d#      cm g#        a#        d# cm g# a#***  
   you never loved me     like i wanted you to  
@@ -48,7 +48,7 @@ She has a Girlfriend Now
   she has a girlfriend now  
     ***d#           cm***  
   she has a girlfriend now,  
-    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#****  
+    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#***  
   she said "guys don't do no more for me"  
   
   *(***d# cm g# a#*** x4)*  
@@ -69,7 +69,7 @@ She has a Girlfriend Now
   she has a girlfriend now  
     ***d#           cm***  
   she has a girlfriend now,  
-    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#****  
+    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#***  
   she said "guys don't do no more for me"  
   
   *(***d# cm g# a#*** x1)*  

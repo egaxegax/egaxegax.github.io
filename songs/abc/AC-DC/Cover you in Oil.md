@@ -3,7 +3,7 @@ Ballbreaker (1995)
   Cover you in Oil  
   *(Young/Young & Johnson)*  
   
-  *Chord-Pattern 1:     ***A       G   F#   G   F#   D/F#****  
+  *Chord-Pattern 1:     ***A       G   F#   G   F#   D/F#***  
   *Intro: Pattern 1*  
   *(Bass) slides to A (12. fret)*  
   *Tab-Pattern 2*  
@@ -29,7 +29,7 @@ Ballbreaker (1995)
   Baby what you want , it's the way she move  
   ***D      G   Bb       F      C***  
   Baby , Feel what you need, come on let's go  
-  *Chorus: Played over ***A       G   F#   G   F#   D/F#****  
+  *Chorus: Played over ***A       G   F#   G   F#   D/F#***  
     ****A       G   F#   G   F#***  (end chorus with pattern 3)*  
   Cover you in oil  
   I wanna cover you in oil  

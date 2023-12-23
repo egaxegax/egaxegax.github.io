@@ -15,7 +15,7 @@ Wildcard/A Word From The Wise
   Just as long as you stand, stand by me.  
   
 Chorus:  So, darling, darling, stand by me,  
-    **** Fm***  
+    *** Fm***  
   Oh, stand by me.  
       ***D     E           A***  
   Oh, stand, stand by me,  

@@ -1,7 +1,7 @@
 <!--2020-09-06 13:27:42-->
 A Shot of Rhythm and Blues  
   
-  ***D******A***  
+  ***D*****A***  
   Well, if your ***D***hands start a'clappin' and your fingers start a'poppin' and your feet start a'movin' around.  
   And if you ***G7***start to swing and sway when the band starts to play a ***D***real cool way out sound.  
   And if you ***A7***get to can't help it and you ***G7***can't sit down  

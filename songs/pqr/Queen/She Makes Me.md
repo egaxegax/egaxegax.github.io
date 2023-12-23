@@ -11,7 +11,7 @@ Sheer Heart Attack 1974
   *is strummed with fairly fast up-and-down strokes; the ***A*** is*  
   *basically just downstrokes. When the verse switches chords, play*  
   *the ***C*** in the rhythm as the ***A***, the ***G*** like the ***D***. Clear as mud?:-)*  
-  *The ***D***** in the chorus includes a run on the ***B*** string.*  
+  *The ***D**** in the chorus includes a run on the ***B*** string.*  
   *Starting from the ***D*** chord: [3], [2], [0], [0/2/3], with the last three*  
   *in quick succession. Other chords: ***Dm7*** = [xx0211], ***C#7*** = [x4342x].*  
   *As the words are simple, they really need to be sung in the*  
@@ -35,7 +35,7 @@ Intro:  ***D A   D A   D A   D A***
   ***G         A    D A E7***  
   She is my love  
   
-  ***A         E           A            D*****  
+  ***A         E           A            D****  
 Chorus:  Who knows who'll she make me, as I lie in her cocoon?  
     ***A          C#7    F#m     B7***  
   And the world will surely heal my ills  

@@ -20,13 +20,13 @@ Ignition (1993)
   |--8-------6--10--4--1--10------11-------|  
   |--------------8-------------------------|  
   ** &lt;-- Mute that chord*  
-  ***F(high)*          D#****  
+  ***F(high)*          D#***  
   I've been told to get what you want,  
-  ***C#*            D#*           F(high)****  
+  ***C#*            D#*           F(high)***  
   You just gotta give what you can.  
-  ***F(high)*    D#****  
+  ***F(high)*    D#***  
   But I know, that what I want  
-  ***C#*              D#*     F(high)****  
+  ***C#*              D#*     F(high)***  
   It don't come as easy as that  
   ***F(high)       D#***  
   Look out boy, tomorrow comes  
@@ -41,13 +41,13 @@ Ignition (1993)
   ***C             C#***  
   And for all I know, I swear I never will  
   *(Intro Riff)*  
-  ***F(high)*           D#****  
+  ***F(high)*           D#***  
   Do you think you'd sell your soul  
-  ***C#*              D#*            F(high)****  
+  ***C#*              D#*            F(high)***  
   To just have one thing turn out right  
-  ***F(high)*                 D#****  
+  ***F(high)*                 D#***  
   For the thousandth time, your turn and find  
-  ***C#*              D#*           F(high)****  
+  ***C#*              D#*           F(high)***  
   It just makes no difference to try  
   ***F(high)               D#***  
   Like Holden Caulfield I tell myself  
@@ -72,7 +72,7 @@ Ignition (1993)
   No way out, no way out  
   ***F(high)            A#(high)  A(high) C***  
   Still can't get it right X4  
-  ***C             C#    C#*     C#*     C#*     C#*     C#*   C#*   C#****  
+  ***C             C#    C#*     C#*     C#*     C#*     C#*   C#*   C#***  
   And for all I know, I swear I swear I swear I never never never never  
   ***F***  
   Will  

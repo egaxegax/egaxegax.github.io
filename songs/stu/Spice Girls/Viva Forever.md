@@ -9,7 +9,7 @@
   *it a lot easier. Here are the chords...*  
   
   *Chords:*  
-  ****D#m***, ***Bbm***, ***B***, ***F#****  
+  ****D#m***, ***Bbm***, ***B***, ***F#***  
   *That's it...just reapeat the chords...listen to the album*  
   *for the beat and the rhythm.*  
   *In case anyone is interested, the solo is in ***D#m***...using the Aeolian mode or*  
@@ -51,4 +51,4 @@
   
   *Pre-Chorus*  
   *Chorus 4 times*  
-  *end on ***F#****
+  *end on ***F#***

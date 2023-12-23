@@ -10,9 +10,9 @@ A Walk
   A---5--3--5--8-----7--9--10--11--7--  
   E---------3--6-----5--7--8---9---5--]  
   
-  *Rhythm 1: ***D C G A#****  
+  *Rhythm 1: ***D C G A#***  
   *Rhythm 2: ***D C G****  
-  *Rhythm 3: ***A5 A# B C C#****  
+  *Rhythm 3: ***A5 A# B C C#***  
   *Note: play the rhythm 3 with palm mute*  
   
 intro:     ***F***  

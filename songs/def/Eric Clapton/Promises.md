@@ -2,7 +2,7 @@
 "BACKLESS and TIMEPIECES"  
   Promises  
   
-  *(At '*******' play ***F#*** note to walk up to the ***G*** chord, it simultes the*  
+  *(At '******' play ***F#*** note to walk up to the ***G*** chord, it simultes the*  
   *bass and it's the hook of the song, if you've heard it you will recognize it)*  
   
   ***G***  

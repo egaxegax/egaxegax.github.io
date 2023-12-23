@@ -6,7 +6,7 @@
   *(low to high: [A D G C F A D])*  
   
   *MAIN RIFF A*  
-  *****  
+  ****  
   *Rhythm                       Play 6 time               Play last 2 times*  
   ||-------------------------------------------|--------------------------  
   ||-------------------------------------------|--------------------------  
@@ -41,7 +41,7 @@
   ------------------------------------||]  
   
   *MAIN RIFF B*  
-  *****  
+  ****  
   *Both guitars (fully distorted)*  
   ||------------------------------------------------||  
   ||------------------------------------------------||  
@@ -54,7 +54,7 @@
   *Repeat Main Riff B 8 times*  
   
   *CHORUS RIFF*  
-  *****  
+  ****  
   *Rhythm (I'm not too sure on this part. I think they're holding*  
   *fifths like Dino from Fear Factory does, but I can't be certain.*  
   *It's a pretty hard part to figure out, maybe you can do better than*  

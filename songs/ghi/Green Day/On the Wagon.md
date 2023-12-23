@@ -5,7 +5,7 @@ On the Wagon
   
 INTRO:  ***F#*** (X2), ***B***, ***Bm***, ***F#***, ***C#***, ***F#***  
   
-  *The verse is just a variation on this progression: ***F#***, ***Bm***, ***B***, ***Bm***, ***F***, ***C#****  
+  *The verse is just a variation on this progression: ***F#***, ***Bm***, ***B***, ***Bm***, ***F***, ***C#***  
   
   ***B                              Bm***  
 CHORUS:  Today I'll say sweet things,  

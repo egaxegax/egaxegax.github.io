@@ -30,7 +30,7 @@ Chorus:  Whenever you hit the sky
   Don't lose your faith in love  
     ***Am    G***  
   Baby I'll be enough  
-  ******** (cм.нижe)                              ***C*****  
+  ****** (cм.нижe)                              ***C****  
   When you don't have the strength in your eyes  
   ***F           G***  
   I'll be the one to cry  
@@ -59,5 +59,5 @@ Chorus:  Whenever you hit the sky
   *Chorus*  
   
   *aккopды в пpипeвe:*  
-  ********  - [042000]*  
+  ******  - [042000]*  
   ****C**** - [032000]*

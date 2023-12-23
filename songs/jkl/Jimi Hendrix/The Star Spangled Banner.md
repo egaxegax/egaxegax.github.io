@@ -18,7 +18,7 @@ The Star Spangled Banner
   *WB\   divebomb*  
   *Blank spaces in the tab mark untranscribable whammy noises.*  
   *Tune guitar down to E flat.*  
-    *0:00                          FB            FB               ****  
+    *0:00                          FB            FB               ***  
   [E|-----------0-~-~-~-~-4-2-0++++---------------------------------  
   B|0++++---0+++++++++++------------------------------0--0--(7^)9--  
   G|--1+++1--------------------1*-(1/)3-4--------------------  
@@ -27,7 +27,7 @@ The Star Spangled Banner
   E|---------------------------------------------------------------]  
     ** Barely audible due to feedback*  
     *** Feedback turns note into harmonic*  
-    **** some open strings are slightly*  
+    *** some open strings are slightly*  
     *ringing out while this bend is*  
     *played*  
     *0:17*  

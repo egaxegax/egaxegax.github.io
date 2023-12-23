@@ -52,7 +52,7 @@ Danza Paraguaya
   D*--------------|---------------------------|---------------------------]  
   
     ***  
-   *****  
+   ****  
     ***  
   *(1st ENDING, then back to A)(second ending, then continue on)*  
   [    |   .   |   .   |   .       |   .   |   .   |   .       |   .   |  

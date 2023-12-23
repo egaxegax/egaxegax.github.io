@@ -13,7 +13,7 @@ Say Ten
   *Verse*  
   *-----*  
   *(***a2 a2 b2 b2 d2 d2 a2 a2 a2 -d2 d2 -d2****  
-  ****-d2 -d2 a2 a2 d1 d1 a2 a2 a2 a2 b2 a2***) * 2*  
+  ***-d2 -d2 a2 a2 d1 d1 a2 a2 a2 a2 b2 a2***) * 2*  
   
   *Chorus*  
   *------*  

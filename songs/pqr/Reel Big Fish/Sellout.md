@@ -25,7 +25,7 @@ Sellout
   
   *When he says "your gonna go to the record store....."*  
   
-  *Its ***G#- F#  G#  A#****  
+  *Its ***G#- F#  G#  A#***  
   *again, barre chords and upstrokes*  
   
   *Chorus*  
@@ -38,7 +38,7 @@ Sellout
   *After the second chorus, do the intro part, then:*  
   
   *finally the weird part where he says "And I dont think it`ll be so bad"*  
-  *its simply ***A#  C#  G#****  
+  *its simply ***A#  C#  G#***  
   
   *After that its the verse....and then the end*  
   

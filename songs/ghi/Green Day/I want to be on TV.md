@@ -3,7 +3,7 @@
   I want to be on TV  
   
   *Tune down half a step...*  
-  **** Heavy distortion + real fuzzed out sound ****  
+  *** Heavy distortion + real fuzzed out sound ***  
   *Riff A:*  
   [e|-----------------------------------------------------------------  
   B|-----------------------------------------------------------------  

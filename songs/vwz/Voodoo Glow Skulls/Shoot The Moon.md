@@ -2,7 +2,7 @@
 Shoot The Moon  
   
   *intro: ***G# E D# B C# D*** } 4x*  
-  **the fourth time you play it, end on ***G#****  
+  **the fourth time you play it, end on ***G#***  
   [e:-4---7-6---7---4-5-  
   B:-4---9-8---7---6-7-  
   G:-5---9-8---9---6-7-  
@@ -17,4 +17,4 @@ Shoot The Moon
   D:-6--4-6--6--6-4-  
   A:-6--2-4--6--4-2-  
   E:-4--------4-----]  
-  ** after the 4 times play ***G#****
+  ** after the 4 times play ***G#***

@@ -23,10 +23,10 @@ Ciobaneasca
   *una shi aceeashi pina cind nu se rup strunele*  
   *shi degetele. Schimbatsi strunele shi pe urma*  
   *iar cintatsi.*  
-  **********  
+  ********  
   *LEGENDA*  
-  **********  
+  ********  
   *10' -  -  -  nota 10 se cinta cu pauza*  
-  **********  
+  ********  
   *Tabs-uri de Vinni*  
   *Sugestii la&gt;*

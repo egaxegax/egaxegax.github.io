@@ -2,7 +2,7 @@
 "Heavy Petting Zoo"  
   Hobophobic  
   
-  *The opening bassline is ***B******F#***(A string)***C#******E***(A string)*  
+  *The opening bassline is ***B*****F#***(A string)***C#*****E***(A string)*  
     [E A D G B E     E A D  G  B E       E  A D  G B E    E A D G B E]  
   ***B [7 9 9 X X X]  F#II [X 9 11 11 X X]  C# [9 11 11 X X X]  E [X 9 7 7 X X]***  
      [E A D G B E     E A D G B E]  

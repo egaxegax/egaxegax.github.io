@@ -2,9 +2,9 @@
 Sehnsucht (Japan) 1997, Live Aus Berlin (Limited Editition) 1999  
   Spiel mit mir  
   
-  *****************************  
+  **********************  
   *Notation Guide            **  
-  *****************************  
+  **********************  
   *~ - Vibrato*  
   *5p7 - pulloff*  
   *7h5 - hammeron*  
@@ -23,7 +23,7 @@ Sehnsucht (Japan) 1997, Live Aus Berlin (Limited Editition) 1999
   *pm - palm muting*  
   *rit. - Slower*  
   *. - quick note (stacatto)*  
-  *******************************  
+  ************************  
   
   *This is one of my favourite r+ songs. It's just awesome. The timing of the*  
   *guitar riffs*  

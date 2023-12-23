@@ -11,7 +11,7 @@ FIRST STROFE: ***Gm  F  D#  D*** } two times
   ***Gm  F  A#  D  C  D***  
   
 SECOND STROFE: ***Gm  F  D#  D*** } two times  
-  ***Gm  F  A#  D  C } two bars ***D******  
+  ***Gm  F  A#  D  C } two bars ***D*****  
   
 REFRAIN: ***Gm  F  D#  D*** } three times  
   

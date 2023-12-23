@@ -164,9 +164,9 @@ The Art Of Shredding
   |-----------6----------5----------8-7---|       --------------|  
   |-------8---4------7---3------6-7/6-5---|       --8-9-9---98--|  
   |--0-0--6-------0--5-------0--4-5-------|       --6-7-7---76--|  
-  *that chord in between the end of the chorus riff and the verse is a hard ***F#****  
+  *that chord in between the end of the chorus riff and the verse is a hard ***F#***  
     *the verse riff is just a palm muted progression of notes-*  
-    *it goes from ***E*** to ***G#*** to ***E*** to ***A#****  
+    *it goes from ***E*** to ***G#*** to ***E*** to ***A#***  
   
       *P.M.----------           1st time only*  
   |---------------------------|-------|  

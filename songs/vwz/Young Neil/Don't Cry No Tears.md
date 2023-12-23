@@ -8,7 +8,7 @@ Don't Cry No Tears
   Don’t cry no tears around me.     Don’t cry no tears around me.  
     ***F#m                  G            A                   F#m***  
   Cuz when all the water’s gone, the feeling lingers on.  
-    ***D                  E                 Riff      F#m(sus 4)****  
+    ***D                  E                 Riff      F#m(sus 4)***  
   Old true love ain’t too hard to see.  
     ***D         E                   Riff***  
   Don’t cry no tears around me.  

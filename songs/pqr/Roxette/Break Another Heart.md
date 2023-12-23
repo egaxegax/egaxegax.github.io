@@ -80,6 +80,6 @@ Chorus a: Break another heart, find another fool.
   Go break another heart into pieces baby, baby not mine.  
   
     ***C#***:      ***Ebm***:       ***F#***:       ***B***:        ***Bm***:  
-  *******-4  IIIII*-2  ******-1  ******-7  ******-7*  
+  ******-4  IIIII*-2  *****-1  *****-7  *****-7*  
   [IIIIII    III*II    III*II    III*II    IIIIII  
   II***I    II*I*I    I**III    I**III    I**III]

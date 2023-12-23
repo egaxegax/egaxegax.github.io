@@ -46,7 +46,7 @@ E|-------------------------------------------------------------|
 Or something like this.I think you can work out an own solo,  
 when you play along the record.  
   
-****************************  
+*********************  
 And the lyrics:  
   
 :  

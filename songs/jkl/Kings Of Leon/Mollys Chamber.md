@@ -26,7 +26,7 @@ CHORUS:  |---------------------------------------------|
   ****F#***: [24432]*  
   ****A*** : [57765]*  
   ****B*** : [79987]*  
-  ****?*** : [04430]*  
+  ***?*** : [04430]*  
   
   ****F#*** is played for the whole of the verses with the barre being taken off to*  
   *make this chord [04430] you'll know what i mean if you just play it.*  

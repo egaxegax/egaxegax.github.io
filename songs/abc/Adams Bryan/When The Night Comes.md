@@ -1,7 +1,7 @@
 <!--2020-09-04 18:36:24-->
 When The Night Comes  
   
-  ******C  Bb  F***** (repeat throughout song)*  
+  *****C  Bb  F**** (repeat throughout song)*  
   
   Hold on, I'll be back for you it won't be long.  
   The night is something I hear calling me.  

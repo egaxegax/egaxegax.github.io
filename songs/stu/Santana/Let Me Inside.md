@@ -53,12 +53,12 @@ Let Me Inside
   ***Fm-Gm-Ab-Bb-Cm***  
   *Full Chorus;  ***Cm****  
   *Lead:3;   ***Cm*** - ***(Bb)***  .....8 x*  
-  *Chorus: 1 line;  ***Cm*** - ***(Bb)****  
+  *Chorus: 1 line;  ***Cm*** - ***(Bb)***  
   *Lead:4;   ***Cm*** - ***(Bb)***  ..... 2 xx*  
-  *Chorus: 1 line;  ***Cm*** - ***(Bb)****  
-  *Lead:5;   ***Cm*** - ***(Bb) - <Fm-Gm-Ab-Bb-****  
-  *Chorus: 1 line;  ***Cm*** - ***(Bb)****  
-  *Final lead:6;  ***Cm*** - ***(Bb)****  
+  *Chorus: 1 line;  ***Cm*** - ***(Bb)***  
+  *Lead:5;   ***Cm*** - ***(Bb) - <Fm-Gm-Ab-Bb-***  
+  *Chorus: 1 line;  ***Cm*** - ***(Bb)***  
+  *Final lead:6;  ***Cm*** - ***(Bb)***  
     ***Fm-Gm-Ab-Bb-***  
     ***Fm-Gm-Ab-Bb-***  
   *Rythym change: ***(Cm*4)*** ....4 times*  

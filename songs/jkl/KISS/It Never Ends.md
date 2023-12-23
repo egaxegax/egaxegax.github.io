@@ -1,7 +1,7 @@
 <!--2020-09-07 05:46:18-->
 It Never Ends  
   
-  *All guitars tuned down to ***C#****  
+  *All guitars tuned down to ***C#***  
   *Dots below tab represents fourths; set your metronome to about 60, each click is a dot.*  
   
   *Intro Riff:*  

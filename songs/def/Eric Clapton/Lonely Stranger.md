@@ -101,7 +101,7 @@ Chorus:  'Cause I'm a lonely stranger here,
   Some will say I may agree take a look then walk away  
   Cause thats alright with me  
   *Chorus:*  
-  **** On ***E*** here, "intro-lick" again, this time 4 times I don't know.*  
+  *** On ***E*** here, "intro-lick" again, this time 4 times I don't know.*  
   *(I'm getting tired, so briefly, it's 2 more verses just the*  
    *same as before, and then the same chorus, followed by - you*  
    *guessed it - the "intro-lick" out to the end, which, I believe,*  

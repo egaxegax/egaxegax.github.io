@@ -71,7 +71,7 @@ Diamonds and Rust
   And if you're offering diamonds and rust  
   I've already paid  
   
-  *----------------------****--------------------------------*  
+  *----------------------***--------------------------------*  
   *The picking sequence for the opening bar is as follows,*  
   *repeated - slide up 2 frets, ***D*** string, to get base run sequence.*  
   *The remainder uses the same style picking out the base runs*  

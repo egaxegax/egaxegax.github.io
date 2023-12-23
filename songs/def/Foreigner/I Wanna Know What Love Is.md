@@ -98,7 +98,7 @@ Agent Provocateur (1985)
   
 ----  
   
-  *INTRO: ***Em ' ' D | G ' ' ' | C ' | Em ' ' ' ||****  
+  *INTRO: ***Em ' ' D | G ' ' ' | C ' | Em ' ' ' ||***  
   *VERSES: Play Intro 2x*  
   I've gotta take a little time, a little time to think things over.  
   I better read between the lines, in case I need it when I'm older.  

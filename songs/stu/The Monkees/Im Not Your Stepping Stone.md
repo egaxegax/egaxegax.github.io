@@ -10,7 +10,7 @@ Im Not Your Stepping Stone
   *the version done by the the Monkees, but you will find that*  
   *the Minor Threat version is very similar*  
   *(Just use more distortion and scream the lyrics :-)*  
-  ************* The Lyrics ******************  
+  ********** The Lyrics **************  
   I I I I I'm not your stepping stone  
   You're trying to make your mark in society  
   Using all the tricks that you used on me  
@@ -24,7 +24,7 @@ Im Not Your Stepping Stone
   You've been awful careful about the friends you choose  
   But You woun't find my name in your book of who's who  
    *-&gt; fade*  
-  *********** The Chords ******************  
+  ********* The Chords **************  
   *Disclaimer:  I don't have the recording or my guitar*  
     *at the terminal with me, and my memory isn't flawless*  
   *The chords for this are fairly simple, making this a good song*  
@@ -45,4 +45,4 @@ Im Not Your Stepping Stone
   *If someone wants to clean up what I've done and match it to the lyrics*  
   *, please feel free.*  
   *Anyhow, have fun with it!  Any mistakes will just add character.*  
-  *************End************************
+  **********End*******************

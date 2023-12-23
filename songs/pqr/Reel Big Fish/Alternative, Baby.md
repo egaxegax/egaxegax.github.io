@@ -73,7 +73,7 @@ post-chorus: ***d# cm c# g# a#***
   ***d# cm g#***  
   
   ***d# cm g# a# } x3***  
-  *under ***d# g*** slide up to ***g#*** slide up to ***a#****  
+  *under ***d# g*** slide up to ***g#*** slide up to ***a#***  
   *trumpet*  
   *solo ***d# cm g# a#*** } x3*  
   ****d# g*** slide up to ***g#*** slide up to ***a#*** under fill 1*  
@@ -94,4 +94,4 @@ outro:  ***d# cm c# g# a#***
   ***d# cm c# g# a#***  
   ***d# cm c# g#***  
   ***d# cm c# g# a#***  
-  ****d# cm*** (fill 3) ***d#****
+  ****d# cm*** (fill 3) ***d#***

@@ -2,7 +2,7 @@
 Let It Ride  
   
   The intro/chorus goes:  
-  ****D     A     E     F#m*** (--&gt;***E***)  ***Bm7  Bm/D   F#(m)****  
+  ****D     A     E     F#m*** (--&gt;***E***)  ***Bm7  Bm/D   F#(m)***  
   
   *The voicings which I use (now bear in mind that I figured this out from*  
   *the memory playing along with the radio once, so these*  

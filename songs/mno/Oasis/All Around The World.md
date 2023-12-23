@@ -4,7 +4,7 @@ Be Here Now (1997)
   
   *CHORDS USED:*  
   ****B****    -  [7 9 9 8 0 0]*  
-  ****F#****   -  [2 4 4 3 0 0]*  
+  ****F#***   -  [2 4 4 3 0 0]*  
   ****E***     -  [0 2 2 1 0 0]*  
   ****Abm****  -  [X 6 6 4 0 0]*  
   ****B***     -  [7 9 9 8 7 7]*  
@@ -19,7 +19,7 @@ Be Here Now (1997)
   ****Fadd9*** -  [X 0 3 2 1 3]*  
   ****G***     -  [3 2 0 0 3 3]*  
   
-INTRO:  ***B*   F#*   E   Abm*  F#**** } X2  
+INTRO:  ***B*   F#*   E   Abm*  F#*** } X2  
   
   ***B                                         F#***  
 VERSE 1: Its a bit early in the midnight hour for me  

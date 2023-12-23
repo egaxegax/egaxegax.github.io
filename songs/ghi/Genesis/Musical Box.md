@@ -77,7 +77,7 @@ Musical Box
      Brush back your hair, and let me get to know your flesh.  
   Now Tony comes in on the organ.  
     |-|  
-  *Organ:  ***|F#  B  C#  F# |/. B     C# F# C#|   D#m. A#m D#m. A#m |****  
+  *Organ:  ***|F#  B  C#  F# |/. B     C# F# C#|   D#m. A#m D#m. A#m |***  
     I've been waiting here for so long  
   You stand there with your fixed expression casting doubt on all I have to say  
   ***|C#  G#m  B  /          |F#.  E  F#          E F#| E. F#  E  F# E |***  
@@ -95,5 +95,5 @@ Musical Box
   ending  
   ***|B / / / |C# / / / |F# / / / | B / / / |C# / / / | F# / / B C# |F#***  
   *The rapidly alternating part flips between an ***F#*** and a ***C#***, and*  
-  *finally ends on ***F#****  
+  *finally ends on ***F#***  
   *Sorry there's no solo here, but I haven't quite figured it out yet.*

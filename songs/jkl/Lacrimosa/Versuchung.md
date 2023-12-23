@@ -43,7 +43,7 @@ Lacrimosa Live (Original from "Satura" 1993)
   |--4--------6---------4--------6---------|  
   |--2--------4---------2--------4---------|  
   
-  *ONLY BASS: ***F#***-***G#****  
+  *ONLY BASS: ***F#***-***G#***  
   *Lieber sterben als dies noch einmal zu erleben*  
   
   *VERSE1:*  

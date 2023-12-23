@@ -46,7 +46,7 @@ VERSE:  ***D***Hangin' out with Lars down on ***C*** 6th str
 CHORUS:  ***C*** Hangin on the ***D***corner of ***G*** 52nd and ***B*** Broadway  
   ***C*** Cars passin ***D*** by but ***G*** none of them seem to go ***B*** my way  
   ***C*** New York ***D*** City - Well I ***G*** wish I was on the ***B*** highway  
-  Ba***C******G***ck to Oly***D***mpia...  
+  Ba***C*****G***ck to Oly***D***mpia...  
   
 VERSE:  I'm having a hard time understanding  
   It gets all too demanding  

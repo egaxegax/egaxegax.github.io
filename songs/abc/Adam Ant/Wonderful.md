@@ -21,15 +21,15 @@ CHORDS USED:    ***A#m C# C#maj7 E Emaj7 Em F  Fm F#
   *D: Beats  1   &   2   &   3   &   4   &*  
      *Notes  ***C#  C#  F   C#  F#  C#  G#  F      C#*** is lowest note.*  
   *E: Beats  1    2    3    4    5    6    7    8*  
-     *Notes            ***C#   F    C#****  
+     *Notes            ***C#   F    C#***  
   *F: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
-     *Notes        ***C# C#       C     C     C  C#****  
+     *Notes        ***C# C#       C     C     C  C#***  
   *G: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
      *Notes        ***B  B        A#    A#    A# B****  
   *H: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
      *Notes        ***B  B        A#    A#    A# B     C# C  B****  
   *I: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
-     *Chords ***C# C# C# C# C# C# C# C# C#          C#****  
+     *Chords ***C# C# C# C# C# C# C# C# C#          C#***  
     *mj mj       mj mj             mj*  
     *7  7        7  7              7*  
   *J: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  

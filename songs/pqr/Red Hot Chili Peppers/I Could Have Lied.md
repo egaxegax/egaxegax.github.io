@@ -287,7 +287,7 @@ I Could Have Lied
     *Just change the  [0]  part in the main riff)*  
     [2 2]  
   *PRE-CHORUS*  
-  *I think they use open chords here: ***B D A (B)****  
+  *I think they use open chords here: ***B D A (B)***  
   *CHORUS*  
   *Like pre-chorus with a change: ***B D A G****  
   *The solo part I leave to you...*  

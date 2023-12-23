@@ -20,7 +20,7 @@
       I'm tired       I'm crying        I'm sick inside  
   
   *CHORUS*  
-  *(B bluesy shuffle thingy)         ***D  A/C# G/B  A G-G6... A-A6...****  
+  *(B bluesy shuffle thingy)         ***D  A/C# G/B  A G-G6... A-A6...***  
   Help me now, please my friend, I  ne-ver  felt so bad be-fore  
     *(1st chorus: to verse)*  
     *(2nd chorus: to bridge)*  

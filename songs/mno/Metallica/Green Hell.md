@@ -9,7 +9,7 @@ Green Hell
   ****This is the second posting of this tab. I made a major error in tabbing the*  
      *first version of this. I gave the wrong places to play the chords in the*  
      *lyrics. It is fixed in this version. I'm not even sure if the original ever*  
-     *got onto OLGA. Well, anyway, it's fixed.****  
+     *got onto OLGA. Well, anyway, it's fixed.***  
   *Very Fast!*  
   *Riff #1*  
     s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  

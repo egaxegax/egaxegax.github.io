@@ -3,8 +3,8 @@ Let It Flow (1977)
   We Just Disagree  
   
    ****E***   [079900] or [022100]*  
-  ****"A"***  [007650]  (***"A"/"B"*** means to slide from ***"A"*** shape up 2 frets to ***"B"*** shape)*  
-  ****"B"***  [009870]*  
+  ***"A"***  [007650]  (***"A"/"B"*** means to slide from ***"A"*** shape up 2 frets to ***"B"*** shape)*  
+  ***"B"***  [009870]*  
    ****A***   [x02220] or barre @ 5th fret*  
    ****B***   [x24440] or barre @ 7th fret*  
    ****C#m*** [446654] or barre @ 9th fret*  

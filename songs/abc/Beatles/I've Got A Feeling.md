@@ -112,7 +112,7 @@ Let it Be (1970)
   |-----------------------------------------------------------  
    All that I was looking for was somebody Who looked like you.  
   
-   ***A7          ***/\/\/\/\/\/\/\/\/\/\/\******  
+   ***A7          ***/\/\/\/\/\/\/\/\/\/\/\*****  
   |-----------------|------------------------||  
   |-----------------|-----------------------x||  
   |-7b9~9b10b11r9r8-|-(7)b8~8~8~8~8~-5b7r5---||  
@@ -219,7 +219,7 @@ Let it Be (1970)
   |-------------------------|----------------------------||  
   
   *Notes:*  
-  ****/\/\/\/\/\*** Vibrato*  
+  ***/\/\/\/\/\*** Vibrato*  
   *7b8~8      Pluck, Bend up a semitone from 7th fret hold and strike again*  
   *(8)        Implied note (ghost)*  
   *7b9r7      Pluck, bend 7th fret up two semitones, pluck, release and pluck*  

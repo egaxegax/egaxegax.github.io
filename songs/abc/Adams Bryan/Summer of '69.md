@@ -55,7 +55,7 @@ Intro:  ***D* A* D* A****
   ***Bm             A                    D* A*                       D*  A****  
   those were the best days of my life -    back in the summer of '69  
   
-  *continue on ***D* A*****  
+  *continue on ***D* A****  
   
   *Chords:*  
   ****Bm*** - [x24432]*  

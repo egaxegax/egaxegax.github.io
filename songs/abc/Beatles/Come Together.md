@@ -30,11 +30,11 @@ Come Together
   ****D*** boogie*  
   he got joo joo eyeball, he one Holy roller  
     ***A                        g#***  
-  he got hair down to his knee          ****  
+  he got hair down to his knee          ***  
   ****G*** (strum only once at 1/8 of note)*  
   got to be a joker he just do what he please  
   
-  ******  
+  *****  
   [e--------------|  
   B--------------|  
   G--------------|  
@@ -84,7 +84,7 @@ Come Together
   A---------------------- at full bend cool  
   E----------------------]  
   
-  **********************  
+  *****************  
   *late chexmix adress atop donations acepeted*  
   
   *p. s its nomal tooning*  
