@@ -5,8 +5,6 @@
 * [Игра Sudden Strike 4](Игра%20Sudden%20Strike%204.md)
 * [Игра в MK-11. Robocop](Игра%20в%20MK-11.%20Robocop.md)
 * [Игра в MK-11](Игра%20в%20MK-11.md)
-* [Игра в Urban Terror 4](Игра%20в%20Urban%20Terror%204.md)
-* [Игра в Urban Terror 5](Игра%20в%20Urban%20Terror%205.md)
 * [Игры на MAME](Игры%20на%20MAME.md)
 * [Игры-драки на Mednafen](Игры-драки%20на%20Mednafen.md)
 * [Конфиг mednafen для SNES](Конфиг%20mednafen%20для%20SNES.md)
