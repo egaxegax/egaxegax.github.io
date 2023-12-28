@@ -8,7 +8,7 @@
   ***C                 E7***  
 Коль ей рисковать умеешь.  
   
-  **Am        Dm        G7          C***  
+  ***Am        Dm        G7          C***  
 Pourquoi pas, Pourquoi pas, почему бы нет.  
   ***E7       Am         Dm***  
 Pourquoi pas, Pourquoi pas,  
