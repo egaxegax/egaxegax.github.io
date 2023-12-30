@@ -1,6 +1,8 @@
 <!--2023-12-30 11:25:56-->
 <div>
-<img src="https://i.ytimg.com/vi/o305RL966zQ/hqdefault.jpg" width="280px" align="middle" style="border-radius:10%">
-&nbsp;&nbsp;&nbsp;<a class="nodecor" href="https://www.youtube.com/watch?v=o305RL966zQ">Driving Saturday Nightlife of Los Angeles 8K HDR Dolby Visio...</a>
+<a class="nodecor" href=https://www.youtube.com/watch?v=o305RL966zQ>
+  <img src="https://i.ytimg.com/vi/o305RL966zQ/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=o305RL966zQ">Driving Saturday Nightlife of Los Angeles 8K HDR Dolby Visio...</a>
 </div>
-<div style="font-size:small">&emsp;<i>Relaxing Scenes - Driving</i></div>

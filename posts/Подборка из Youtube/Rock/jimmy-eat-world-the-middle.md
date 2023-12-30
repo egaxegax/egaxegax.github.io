@@ -1,6 +1,8 @@
-<!--2023-12-30 01:10:04-->
+<!--2023-12-31 01:52:21-->
 <div>
-<img src="https://i.ytimg.com/vi/MxMzKb74kL4/hqdefault.jpg" width="250px" align="middle" style="border-radius:10%">
-&nbsp;&nbsp;&nbsp;<a class="nodecor" href="https://www.youtube.com/watch?v=MxMzKb74kL4">JIMMY EAT WORLD - The Middle</a>
+<a class="nodecor" href=https://www.youtube.com/watch?v=MxMzKb74kL4>
+  <img src="https://i.ytimg.com/vi/MxMzKb74kL4/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=MxMzKb74kL4">JIMMY EAT WORLD - The Middle</a>
 </div>
-<div style="font-size:small">&emsp;<i>MixedUpEverything</i></div>

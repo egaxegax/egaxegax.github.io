@@ -2,7 +2,7 @@
 #
 # YouTube playlist CSV files (from https://jolantahuba.github.io/YT-Backup/) reader. 
 #
-# python3 ../readcsv.py ( run from dir with *.csv youtube playlist )
+# python3 ../../readcsv.py <dir_with_csv_playlist> ( run from dir where .md will be created )
 #
 
 import os, sys, time, re, csv
@@ -41,21 +41,27 @@ for root, dirs, files in os.walk(path, topdown=False):
               ftime = os.path.getmtime(os.path.join(root, name))
               ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', time.localtime(ftime))
 
-              text = []
-              text += [ctime]
-              text += ['<div>']
-              text += ['<img src="' +imurl+ '" width="280px" align="middle" alt="" style="border-radius:10%">']
-              text += ['&nbsp;&nbsp;&nbsp;<a class="nodecor" href="'+href+'">'+truncate_chars(titl, 60)+'</a>']
-              text += ['</div>']
-              text += ['<div style="font-size:small">&emsp;<i>'+authr+'</i></div>']
+              text = """{ctime}
+<div>
+<a class="nodecor" href={href}>
+  <img src="{imurl}" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="{href}">{titl}</a>
+</div>
+""".format(ctime=ctime, href=href, imurl=imurl, titl=truncate_chars(titl, 50), authr=authr)
 
-              mtitl = titl.lower()
-              mtitl = re.sub(r'[-\'"”“«»`%\*:/\|\{\}\(\)\[\]\!\?\&\$]+','',mtitl)
+              mtitl = ''
+              for ch in titl:
+                if ord(ch) >= 0 and ord(ch) <= 126:
+                  mtitl += ch
+              mtitl = mtitl.lower()
+              mtitl = re.sub(r'[-\'"”“«»`%\*:/\|\{\}\(\)\[\]\!\?\&\$\#@]+','',mtitl)
               mtitl = re.sub(r'[\.,\s]+','-',mtitl)
 
               print(mtitl)
 
-              open(mtitl + '.md', 'w', encoding='utf-8', newline='\n').write('\n'.join(text))
+              open(mtitl + '.md', 'w', encoding='utf-8', newline='\n').write(text)
 
 import subprocess
 subprocess.Popen(['python', '../update.py'], cwd='../..')

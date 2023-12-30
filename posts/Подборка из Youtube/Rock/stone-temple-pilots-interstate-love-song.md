@@ -1,0 +1,8 @@
+<!--2023-12-31 01:52:21-->
+<div>
+<a class="nodecor" href=https://www.youtube.com/watch?v=fmbJPo4peIM>
+  <img src="https://i.ytimg.com/vi/fmbJPo4peIM/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=fmbJPo4peIM">STONE TEMPLE PILOTS - Interstate Love Song</a>
+</div>

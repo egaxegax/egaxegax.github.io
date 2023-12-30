@@ -1,6 +1,8 @@
-<!--2023-12-30 01:10:04-->
+<!--2023-12-31 01:52:21-->
 <div>
-<img src="https://i.ytimg.com/vi/DUaq8QWNc9w/hqdefault.jpg" width="250px" align="middle" style="border-radius:10%">
-&nbsp;&nbsp;&nbsp;<a class="nodecor" href="https://www.youtube.com/watch?v=DUaq8QWNc9w">STONE TEMPLE PILOTS - Plush</a>
+<a class="nodecor" href=https://www.youtube.com/watch?v=jSd25Sdrtsc>
+  <img src="https://i.ytimg.com/vi/jSd25Sdrtsc/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=jSd25Sdrtsc">STONE TEMPLE PILOTS - Plush</a>
 </div>
-<div style="font-size:small">&emsp;<i>MixedUpEverything</i></div>

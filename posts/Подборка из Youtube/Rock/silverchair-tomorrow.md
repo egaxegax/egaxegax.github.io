@@ -1,6 +1,8 @@
-<!--2023-12-30 01:10:04-->
+<!--2023-12-31 01:52:21-->
 <div>
-<img src="https://i.ytimg.com/vi/Y8Dw9waM90w/hqdefault.jpg" width="250px" align="middle" style="border-radius:10%">
-&nbsp;&nbsp;&nbsp;<a class="nodecor" href="https://www.youtube.com/watch?v=Y8Dw9waM90w">SILVERCHAIR - Tomorrow</a>
+<a class="nodecor" href=https://www.youtube.com/watch?v=nkrAiVYtYRQ>
+  <img src="https://i.ytimg.com/vi/nkrAiVYtYRQ/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=nkrAiVYtYRQ">SILVERCHAIR - Tomorrow</a>
 </div>
-<div style="font-size:small">&emsp;<i>MixedUpEverything</i></div>
