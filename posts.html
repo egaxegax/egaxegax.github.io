@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Заметки, цитаты, статьи и посты на самые разные темы">
+<meta name="description" content="Заметки, ссылки, цитаты, статьи и посты на самые разные темы">
 <meta name="keywords" content="статьи, тексты, заметки, фото">
 <meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
 <meta name="robots" content="all">
@@ -44,7 +44,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<p class="mtext hspace">Заметки, статьи, цитаты на разные &emsp; <a href="/psubj.html">Темы</a></p>';
+'<p class="mtext hspace">Заметки, статьи, подборки контента на разные &emsp; <a href="/psubj.html">Темы</a></p>';
   document.getElementById('page_content').innerHTML =
 '&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
@@ -60,7 +60,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
-    if(p.title[2] == 'README'){  // fix link url to absolute in README.md
+    if(p.title[2] == 'about'){  // fix link url to absolute in README.md
       html = html.replace(/href="/g, 'href="'+window.location+'/'); 
     }
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
@@ -68,10 +68,10 @@
   '<div class="msgtext">'+
     html+
   '</div>'+
-    (p.title[2] !== 'README' ? 
+    (p.title[2] !== 'about' ? 
   '<div class="msgfooter gray">'+
     '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
-    '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2]) +'"> # </a>'+
+    '<a class="nodecor hspace counter" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
     : '');
@@ -100,7 +100,7 @@
         if(st == 200) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
           wrap.className = 'wrap';
-          (p.title[2] == 'README') ? wrap.className += ' about' : '';
+          (p.title[2] == 'about') ? wrap.className += ' about' : '';
           addPost(r,p);
         }
       });
@@ -129,7 +129,7 @@
     var page_header = 
       '<p class="mtext hspace">'+
          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Заметки, статьи, цитаты на разные &emsp; <a href="/psubj.html">Темы</a>'+
+        'Заметки, статьи, подборки контента на разные &emsp; <a href="/psubj.html">Темы</a>'+
       '</p>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -155,7 +155,12 @@
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by subj
 //        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         if(POSTS.length){
-          POSTS = [[POSTS[0][0],POSTS[0][1],'README',0,POSTS[0][4]]].concat(POSTS); // +about page
+          page_header = 
+        '<p class="mtext hspace">'+ buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +' &emsp;'+
+          '<span class="gray"><i class="counter"> ('+ POSTS.length+') </i></span> &emsp; '+
+          '<a href="/psubj.html">Темы</a>'+
+        '</p>';
+          POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
           document.title = SUBJ[ POSTS[0][0] ][0] + ' - ' + document.title;
         }
         PAGE.per = 4;

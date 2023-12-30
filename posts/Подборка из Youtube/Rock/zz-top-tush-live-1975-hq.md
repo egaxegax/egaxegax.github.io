@@ -1,0 +1,6 @@
+<!--2023-12-29 21:40:04-->
+<div>
+<img src="https://i.ytimg.com/vi/_GOH2vw2q0A/hqdefault.jpg" width="250px" align="middle" style="border-radius:10%">
+&nbsp;&nbsp;&nbsp;<a class="nodecor" href="https://www.youtube.com/watch?v=_GOH2vw2q0A">ZZ TOP - TUSH LIVE 1975 HQ</a>
+</div>
+<div style="font-size:small">&emsp;<i>Sasha Vaillant</i></div>

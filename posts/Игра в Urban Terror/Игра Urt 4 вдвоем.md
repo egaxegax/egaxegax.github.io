@@ -6,6 +6,6 @@
 <img src="./Urt-4_1.jpg" alt="">
 <img src="./Urt-4_2.jpg" alt="">
 
-<div style="font-size:small; color:">
+<div style="font-size:small">
 <i>Сайт игры <a href="https://www.urbanterror.info">urbanterror.info</a></i>
 </div>

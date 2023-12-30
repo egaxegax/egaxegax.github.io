@@ -46,10 +46,14 @@
 '&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
   function addSubj(subj,i){
+    var subdir = '';
+    if (ROOTS[subj[3]][0] != '.'){
+      subdir = ROOTS[subj[3]][0] + ' / ';
+    }
     var tmpl = 
   '<table width="99%" class="msgtext"><tr>'+
     '<td width="80%" class="hspaced">'+
-      '<a class="nodecor dark" href="/posts.html?'+tr(subj[0])+'">'+subj[0]+'</a>'+
+      '<a class="nodecor dark" href="/posts.html?'+tr(subj[0])+'">'+subdir+subj[0]+'</a>'+
       '<div class="hspace gray smaller"><i class="smaller">'+buildDate(subj[2])+'</i></div>'+
     '</td>'+
     '<td valign="center"><b><i>'+subj[1]+'</i></b></td>'+
