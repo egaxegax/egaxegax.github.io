@@ -44,7 +44,7 @@ for root, dirs, files in os.walk(path, topdown=False):
               text = []
               text += [ctime]
               text += ['<div>']
-              text += ['<img src="' +imurl+ '" width="280px" align="middle" style="border-radius:10%">']
+              text += ['<img src="' +imurl+ '" width="280px" align="middle" alt="" style="border-radius:10%">']
               text += ['&nbsp;&nbsp;&nbsp;<a class="nodecor" href="'+href+'">'+truncate_chars(titl, 60)+'</a>']
               text += ['</div>']
               text += ['<div style="font-size:small">&emsp;<i>'+authr+'</i></div>']
