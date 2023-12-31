@@ -1,3 +1,5 @@
+Подборки клипов *русского* и *советского рока* 
+
 * [7b-bessmertie](7b-bessmertie.md)
 * [7b-bez-tebya](7b-bez-tebya.md)
 * [7b-deti-vavilona](7b-deti-vavilona.md)

@@ -1,0 +1,8 @@
+<!--2023-12-31 15:29:55-->
+<div>
+<a class="nodecor" href=https://www.youtube.com/watch?v=JsN-fM88KZY target="_blank">
+  <img src="https://i.ytimg.com/vi/JsN-fM88KZY/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=JsN-fM88KZY" target="_blank">ЯНДЕКС ДОСТАВКА - СКОЛЬКО ЗАРАБОТАЛ ЗА 6 ЗАКАЗОВ?...</a>
+</div>

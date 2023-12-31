@@ -148,9 +148,15 @@
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></p>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
-        POSTS = [[POSTS[0][0],POSTS[0][1],'README',0,POSTS[0][4]]].concat(POSTS); // +README page
+        var subj_id = -1;
+        SUBJ.map(function(sub,i){ if(tr(sub[0]) == pp[0]) return (subj_id=i); }); // filter by subj
+        POSTS = [[subj_id,0,'README',0,0]].concat(POSTS); // +README page
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
         if(POSTS.length){
+          page_header = 
+        '<p class="mtext hspace">'+ buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +' &emsp;'+
+          '<a href="/psubj.html">Темы</a>'+
+        '</p>';
           document.title = POSTS[0][2]  + ' - ' + document.title;      
         }
       }else if(pp.length>0){ // ?subj
