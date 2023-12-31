@@ -1,0 +1,8 @@
+<!--2023-12-31 12:00:10-->
+<div>
+<a class="nodecor" href=https://www.youtube.com/watch?v=2ift8T7eVEo target="_blank">
+  <img src="https://i.ytimg.com/vi/2ift8T7eVEo/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=2ift8T7eVEo" target="_blank">Егор Летов - Всё идёт по плану.</a>
+</div>

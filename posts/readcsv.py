@@ -11,6 +11,25 @@ path = '.'
 if len(sys.argv) > 1:
   path = sys.argv[1]
 
+def TR(t):
+  ru = {
+    'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 
+    'е':'e', 'ё':'e', 'ж':'j', 'з':'z', 'и':'i', 'й':'j', 
+    'к':'k', 'л':'l', 'м':'m', 'н':'n', 'о':'o', 
+    'п':'p', 'р':'r', 'с':'s', 'т':'t', 'у':'u', 
+    'ф':'f', 'х':'h', 'ц':'c', 'ч':'ch', 'ш':'sh', 
+    'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
+  }
+  tr = []
+  t = re.sub(r'[-\'"”“«»`%\*:/\|\{\}\(\)\[\]\!\?\&\$\#@]+','',t)
+  t = re.sub(r'[\.,\s]+','-',t)  
+  for s in t:
+    ss = ru.get( s ) or ru.get( s.lower(), s )
+    for ch in ss:
+      if ord(ch) >= 0 and ord(ch) <= 126:
+        tr.append( ch )
+  return ''.join(tr).lower()
+
 def truncate_chars(value, max_length):
     if len(value) > max_length:
         truncd_val = value[:max_length]
@@ -18,6 +37,8 @@ def truncate_chars(value, max_length):
             truncd_val = truncd_val[:truncd_val.rfind(" ")]
         return  truncd_val + "..."
     return value
+
+fcount = 0
 
 for root, dirs, files in os.walk(path, topdown=False):
   for name in files:
@@ -43,25 +64,20 @@ for root, dirs, files in os.walk(path, topdown=False):
 
               text = """{ctime}
 <div>
-<a class="nodecor" href={href}>
+<a class="nodecor" href={href} target="_blank">
   <img src="{imurl}" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="{href}">{titl}</a>
+<a class="nodecor" href="{href}" target="_blank">{titl}</a>
 </div>
 """.format(ctime=ctime, href=href, imurl=imurl, titl=truncate_chars(titl, 50), authr=authr)
 
-              mtitl = ''
-              for ch in titl:
-                if ord(ch) >= 0 and ord(ch) <= 126:
-                  mtitl += ch
-              mtitl = mtitl.lower()
-              mtitl = re.sub(r'[-\'"”“«»`%\*:/\|\{\}\(\)\[\]\!\?\&\$\#@]+','',mtitl)
-              mtitl = re.sub(r'[\.,\s]+','-',mtitl)
-
+              mtitl = TR(titl)
               print(mtitl)
 
               open(mtitl + '.md', 'w', encoding='utf-8', newline='\n').write(text)
+              fcount += 1
 
-import subprocess
-subprocess.Popen(['python', '../update.py'], cwd='../..')
+if fcount:
+  import subprocess
+  subprocess.Popen(['python', '../update.py'], cwd='../..')

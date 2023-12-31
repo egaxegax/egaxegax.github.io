@@ -1,0 +1,8 @@
+<!--2023-12-31 12:00:10-->
+<div>
+<a class="nodecor" href=https://www.youtube.com/watch?v=C48NTipyBXc target="_blank">
+  <img src="https://i.ytimg.com/vi/C48NTipyBXc/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=C48NTipyBXc" target="_blank">Король и Шут - Танец Злобного Гения (live Нашестви...</a>
+</div>

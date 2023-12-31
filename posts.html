@@ -60,17 +60,18 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
-    if(p.title[2] == 'about'){  // fix link url to absolute in README.md
-      html = html.replace(/href="/g, 'href="'+window.location+'/'); 
+    if(p.title[2] == 'README'){  // fix link url to absolute in README.md
+      html = html.replace(/href="/g, 'href="/posts.html?'+tr(p.subj)+'/'); 
     }
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     html+
   '</div>'+
-    (p.title[2] !== 'about' ? 
+    (((p.title[2] !== 'about') && (p.title[2] !== 'README')) ? 
   '<div class="msgfooter gray">'+
-    '<a class="nodecor" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
+    '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
+    '<a class="nodecor hspace counter" href="/posts.html?'+tr(p.subj)+'/README" title="Содержание"> &#128196; </a>'+
     '<a class="nodecor hspace counter" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
@@ -147,6 +148,7 @@
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></p>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
+        POSTS = [[POSTS[0][0],POSTS[0][1],'README',0,POSTS[0][4]]].concat(POSTS); // +README page
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
         if(POSTS.length){
           document.title = POSTS[0][2]  + ' - ' + document.title;      

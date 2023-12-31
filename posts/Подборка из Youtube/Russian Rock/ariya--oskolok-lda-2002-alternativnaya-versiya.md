@@ -1,0 +1,8 @@
+<!--2023-12-31 12:00:10-->
+<div>
+<a class="nodecor" href=https://www.youtube.com/watch?v=grFXZSqw-W4 target="_blank">
+  <img src="https://i.ytimg.com/vi/grFXZSqw-W4/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a class="nodecor" href="https://www.youtube.com/watch?v=grFXZSqw-W4" target="_blank">АРИЯ — Осколок льда (2002, Альтернативная версия)</a>
+</div>
