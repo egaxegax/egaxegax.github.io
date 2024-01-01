@@ -4,8 +4,9 @@
 .rounded { border-radius:50%; }
 .rounded7 { border-radius:7% 4% 7% 4%; }
 .gray { color:#aaa; }
-.counter { color:#ccc; }
+.counter { font-size:1rem; color:#ccc; }
 .dark { color:#900020; }
+.light { color:#ccc; }
 .mtext { font-size:large; }
 .msgtext { font-size:large; min-height:1em; padding:5px 5px; margin:0px; }
 .msgfooter { padding:0 1px 1px 0; text-align:right; font-size:small; }

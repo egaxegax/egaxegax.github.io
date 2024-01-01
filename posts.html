@@ -71,8 +71,8 @@
     (((p.title[2] !== 'about') && (p.title[2] !== 'README')) ? 
   '<div class="msgfooter gray">'+
     '<a class="nodecor hspace" href="/posts.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
-    '<a class="nodecor hspace counter" href="/posts.html?'+tr(p.subj)+'/README" title="Содержание"> [Все] </a>'+
-    '<a class="nodecor hspace counter" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
+    '<a class="nodecor hspace light" href="/posts.html?'+tr(p.subj)+'/README" title="Содержание"> [Все] </a>'+
+    '<a class="nodecor hspace light" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+ p.i +' </a>'+
     '<span class="gray"><i> '+buildDate(p.title[3])+'</i></span>'+
   '</div>' 
     : '');
