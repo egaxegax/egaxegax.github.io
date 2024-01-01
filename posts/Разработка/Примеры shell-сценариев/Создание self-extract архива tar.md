@@ -1,6 +1,6 @@
 <!--2012-11-11 19:47:05-->
 ### Создание self-extract архива tar
-Скрипт запуска extract.sh
+Скрипт запуска *extract.sh*
 
     #!/bin/bash
     echo ""
