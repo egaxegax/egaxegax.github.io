@@ -2544,6 +2544,8 @@ https://egaxegax.github.io/foto/Природа/Утка в пруду в Пар�
 https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg
+https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/sajt_na_gh-pages_platforme_egaxegax_github_io
 https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii
 https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/sheregesh
 https://egaxegax.github.io/posts.html?opasnye_puteshestviya
@@ -4363,7 +4365,6 @@ https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/tuapse
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/velegoj
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/mihnevo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/vereya
-https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/opisanie_i_primery
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/shchelkovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/vatutinki
@@ -4372,7 +4373,6 @@ https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/koktebel
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/zamena_hdd_na_ssd_na_noutbuke
 https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11
-https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/sajt_na_gh-pages_platforme_egaxegax_github_io
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu/chm-2022_gruppovoj_etap
 https://egaxegax.github.io/posts.html?retro-igry_na_pk/prohojdenie_streets_of_rage
 https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/alupka
