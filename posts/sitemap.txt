@@ -1827,6 +1827,7 @@ https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/koktebel
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/zamena_hdd_na_ssd_na_noutbuke
 https://egaxegax.github.io/posts.html?retro-igry_na_pk/igra_v_mk-11
+https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/sajt_na_gh-pages_platforme_egaxegax_github_io
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu/chm-2022_gruppovoj_etap
 https://egaxegax.github.io/posts.html?retro-igry_na_pk/prohojdenie_streets_of_rage
 https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/alupka
@@ -2036,7 +2037,7 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/php_nastrojka_visu
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/karta_moskovskogo_metro_na_canvas
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/php_sborka_plagina_extension
-https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/ideya
+https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/ideya_sozdaniya_proekta
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/zametki_otzyvy_plany_proekta_karty_dbcartajs
 https://egaxegax.github.io/posts.html?opisaniya_i_rukovodstva/kak_skachivat_torrenty
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/perekodirovka_fajlov_iz_windows_v_linux
