@@ -2544,6 +2544,8 @@ https://egaxegax.github.io/foto/Природа/Утка в пруду в Пар�
 https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii
+https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/sheregesh
 https://egaxegax.github.io/posts.html?opasnye_puteshestviya
 https://egaxegax.github.io/posts.html?opasnye_puteshestviya/detroit-officer-shoots-man-who-fired-his-gun-during-fight-at-funeral-repast
 https://egaxegax.github.io/posts.html?opasnye_puteshestviya/kansas-city-missouri-hoods
@@ -4357,7 +4359,6 @@ https://egaxegax.github.io/posts.html?mesta_podmoskovya/bekasovo
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/mojajsk
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu
 https://egaxegax.github.io/posts.html?chm_i_che_po_futbolu/chm-2022_plej-off
-https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii
 https://egaxegax.github.io/posts.html?kurortnye_mesta_rossii/tuapse
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/velegoj
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/mihnevo
