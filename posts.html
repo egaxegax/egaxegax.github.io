@@ -148,9 +148,9 @@
       '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></p>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
-        var subj_id = -1;
-        SUBJ.map(function(sub,i){ if(tr(sub[0]) == pp[0]) return (subj_id=i); }); // filter by subj
-        POSTS = [[subj_id,0,'README',0,0]].concat(POSTS); // +README page
+        var subj_i, root_i;
+        SUBJ.map(function(sub,i){ if(tr(sub[0]) == pp[0]){ subj_i=i; root_i=sub[3]; return; } }); // filter by subj
+        POSTS = [[subj_i,0,'README',0,root_i]].concat(POSTS); // +README page
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
         if(POSTS.length){
           page_header = 
@@ -165,7 +165,7 @@
         if(POSTS.length){
           page_header = 
         '<p class="mtext hspace">'+ buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +' &emsp;'+
-          '<span class="gray"><i class="counter"> ('+ POSTS.length+') </i></span> &emsp; '+
+          '<span class="gray"><i class="counter"> ('+ POSTS.length +') </i></span> &emsp; '+
           '<a href="/psubj.html">Темы</a>'+
         '</p>';
           POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
