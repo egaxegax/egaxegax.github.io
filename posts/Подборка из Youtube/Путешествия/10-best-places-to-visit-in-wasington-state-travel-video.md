@@ -1,7 +1,7 @@
 <!--2023-12-30 10:59:32-->
 <div>
 <a class="nodecor" href=https://www.youtube.com/watch?v=OHsg-0i6rYQ target="_blank">
-  <img src="https://i.ytimg.com/vi/OHsg-0i6rYQ/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+  <img src="https://i.ytimg.com/vi/OHsg-0i6rYQ/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
 <div class="inlbl">

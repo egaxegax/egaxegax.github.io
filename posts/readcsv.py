@@ -57,7 +57,7 @@ for root, dirs, files in os.walk(path, topdown=False):
               text = """{ctime}
 <div>
 <a class="nodecor" href={href} target="_blank">
-  <img src="{imurl}" width="300px" align="middle" alt="" style="border-radius:10%">
+  <img src="{imurl}" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
 <div class="inlbl">
