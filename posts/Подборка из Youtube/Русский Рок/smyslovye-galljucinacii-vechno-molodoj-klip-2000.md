@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=go7_y20BE_M target="_blank">
-  <img src="https://i.ytimg.com/vi/go7_y20BE_M/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=go7_y20BE_M" target="_blank">Смысловые Галлюцинации - Вечно Молодой (клип 2000)</a>
-</div>

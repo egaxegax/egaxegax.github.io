@@ -4,5 +4,8 @@
   <img src="https://i.ytimg.com/vi/iS-ER48lXxk/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=iS-ER48lXxk" target="_blank">Kensington Avenue Zombies</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=iS-ER48lXxk" target="_blank">Kensington Avenue Zombies</a><br>
+  <i class="smaller2">Stickman Cyclops</i>
+</div>
 </div>

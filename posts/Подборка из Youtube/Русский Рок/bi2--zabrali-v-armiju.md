@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=hdh_TeuTXgU target="_blank">
-  <img src="https://i.ytimg.com/vi/hdh_TeuTXgU/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=hdh_TeuTXgU" target="_blank">Би-2 – Забрали в армию</a>
-</div>

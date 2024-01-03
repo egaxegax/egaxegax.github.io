@@ -1,8 +1,11 @@
-<!--2023-12-30 11:21:42-->
+<!--2024-01-03 14:00:28-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=9X13O5DcOec>
+<a class="nodecor" href=https://www.youtube.com/watch?v=9X13O5DcOec target="_blank">
   <img src="https://i.ytimg.com/vi/9X13O5DcOec/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=9X13O5DcOec">UBER в Сан-Франциско/ такси в США/ appliance США...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=9X13O5DcOec" target="_blank">UBER в Сан-Франциско/ такси в США/ appliance США...</a><br>
+  <i class="smaller2">Едем Дальше</i>
+</div>
 </div>

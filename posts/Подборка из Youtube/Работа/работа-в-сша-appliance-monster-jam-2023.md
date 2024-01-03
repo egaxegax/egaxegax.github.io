@@ -1,8 +1,11 @@
-<!--2023-12-30 11:21:42-->
+<!--2024-01-03 14:00:28-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=Kvr6c4DcH0Q>
+<a class="nodecor" href=https://www.youtube.com/watch?v=Kvr6c4DcH0Q target="_blank">
   <img src="https://i.ytimg.com/vi/Kvr6c4DcH0Q/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=Kvr6c4DcH0Q">Работа в США /Appliance /Monster Jam - 2023</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=Kvr6c4DcH0Q" target="_blank">Работа в США /Appliance /Monster Jam - 2023</a><br>
+  <i class="smaller2">Едем Дальше</i>
+</div>
 </div>

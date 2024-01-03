@@ -1,8 +1,0 @@
-<!--2023-12-31 15:29:55-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=IwssLCcNB_k target="_blank">
-  <img src="https://i.ytimg.com/vi/IwssLCcNB_k/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=IwssLCcNB_k" target="_blank">ЯНДЕКС ДОСТАВКА - 14 ЧАСОВ НА СМЕНЕ. СКОЛЬКО...</a>
-</div>

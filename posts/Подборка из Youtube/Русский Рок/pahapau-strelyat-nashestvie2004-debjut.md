@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=d_HaY7NOrvM target="_blank">
-  <img src="https://i.ytimg.com/vi/d_HaY7NOrvM/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=d_HaY7NOrvM" target="_blank">ПАХА-ПАУ - "Стрелять" - НАШЕствие-2004 (дебют)</a>
-</div>

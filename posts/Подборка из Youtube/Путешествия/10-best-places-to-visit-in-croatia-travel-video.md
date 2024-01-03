@@ -1,8 +1,11 @@
 <!--2023-12-30 10:59:10-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=T60_zAvnAsU>
+<a class="nodecor" href=https://www.youtube.com/watch?v=T60_zAvnAsU target="_blank">
   <img src="https://i.ytimg.com/vi/T60_zAvnAsU/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=T60_zAvnAsU">10 Best Places to Visit in Croatia - Travel Video</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=T60_zAvnAsU" target="_blank">10 Best Places to Visit in Croatia - Travel Video</a><br>
+  <i class="smaller2">touropia</i>
+</div>
 </div>

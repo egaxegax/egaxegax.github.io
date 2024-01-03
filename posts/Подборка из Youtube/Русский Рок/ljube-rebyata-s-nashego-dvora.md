@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=U_AMXxsbdPo target="_blank">
-  <img src="https://i.ytimg.com/vi/U_AMXxsbdPo/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=U_AMXxsbdPo" target="_blank">ЛЮБЭ - Ребята с нашего двора</a>
-</div>

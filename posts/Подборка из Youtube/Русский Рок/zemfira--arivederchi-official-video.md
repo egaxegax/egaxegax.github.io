@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=llja-5fmVJk target="_blank">
-  <img src="https://i.ytimg.com/vi/llja-5fmVJk/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=llja-5fmVJk" target="_blank">Земфира — Ариведерчи (Official Video)</a>
-</div>

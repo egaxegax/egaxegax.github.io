@@ -1,0 +1,11 @@
+<!--2023-12-31 12:00:10-->
+<div>
+<a class="nodecor" href=https://www.youtube.com/watch?v=GTkdXoHvizk target="_blank">
+  <img src="https://i.ytimg.com/vi/GTkdXoHvizk/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
+</a>
+&nbsp;&nbsp;&nbsp;
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=GTkdXoHvizk" target="_blank">Ляпис Трубецкой "Я Верю" [HQ]</a><br>
+  <i class="smaller2">Alex M</i>
+</div>
+</div>

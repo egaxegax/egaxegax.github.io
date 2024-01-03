@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=AfkUu4TDBK8 target="_blank">
-  <img src="https://i.ytimg.com/vi/AfkUu4TDBK8/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=AfkUu4TDBK8" target="_blank">Король и Шут - Тринадцатая рана</a>
-</div>

@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=r8A87I8hneI target="_blank">
-  <img src="https://i.ytimg.com/vi/r8A87I8hneI/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=r8A87I8hneI" target="_blank">Смысловые Галлюцинации - Звёзды 3000 (клип 2000)</a>
-</div>

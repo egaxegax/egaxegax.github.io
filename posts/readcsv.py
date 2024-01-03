@@ -11,31 +11,23 @@ path = '.'
 if len(sys.argv) > 1:
   path = sys.argv[1]
 
-def TR(t):
-  ru = {
-    'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 
-    'е':'e', 'ё':'e', 'ж':'j', 'з':'z', 'и':'i', 'й':'j', 
-    'к':'k', 'л':'l', 'м':'m', 'н':'n', 'о':'o', 
-    'п':'p', 'р':'r', 'с':'s', 'т':'t', 'у':'u', 
-    'ф':'f', 'х':'h', 'ц':'c', 'ч':'ch', 'ш':'sh', 
-    'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
-  }
+def tr_cut(t):
+  t = re.sub(r'[/\.,\s]+',' ',t.lower())
   tr = []
-  t = re.sub(r'[-\'"”“«»`%\*:/\|\{\}\(\)\[\]\!\?\&\$\#@]+','',t)
-  t = re.sub(r'[\.,\s]+','-',t)  
-  for s in t:
-    ss = ru.get( s ) or ru.get( s.lower(), s )
-    for ch in ss:
-      if ord(ch) >= 0 and ord(ch) <= 126:
-        tr.append( ch )
-  return ''.join(tr).lower()
+  for ch in t:
+    if ch in ' абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefgjijklmnopqrstuvwxyz0123456789':
+      tr.append( ch )
+  t = ''.join(tr)
+  t = re.sub('\s+','-',t)
+  t = t.strip('-')
+  return t
 
-def truncate_chars(value, max_length):
+def tr_chars(value, max_length):
     if len(value) > max_length:
         truncd_val = value[:max_length]
-        if not len(value) == max_length+1 and value[max_length+1] != " ":
-            truncd_val = truncd_val[:truncd_val.rfind(" ")]
-        return  truncd_val + "..."
+        if not len(value) == max_length+1 and value[max_length+1] != ' ':
+            truncd_val = truncd_val[:truncd_val.rfind(' ')]
+        return  truncd_val + '...'
     return value
 
 fcount = 0
@@ -68,11 +60,14 @@ for root, dirs, files in os.walk(path, topdown=False):
   <img src="{imurl}" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="{href}" target="_blank">{titl}</a>
+<div class="inlbl">
+  <a class="nodecor" href="{href}" target="_blank">{titl}</a><br>
+  <i class="smaller2">{authr}</i>
 </div>
-""".format(ctime=ctime, href=href, imurl=imurl, titl=truncate_chars(titl, 50), authr=authr)
+</div>
+""".format(ctime=ctime, href=href, imurl=imurl, titl=tr_chars(titl, 50), authr=authr)
 
-              mtitl = TR(titl)
+              mtitl = tr_cut(titl)
               print(mtitl)
 
               open(mtitl + '.md', 'w', encoding='utf-8', newline='\n').write(text)

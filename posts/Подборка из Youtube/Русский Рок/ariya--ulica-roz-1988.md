@@ -1,8 +1,0 @@
-<!--2023-12-31 12:00:10-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=rwpbVF5SuuU target="_blank">
-  <img src="https://i.ytimg.com/vi/rwpbVF5SuuU/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=rwpbVF5SuuU" target="_blank">АРИЯ — Улица Роз (1988)</a>
-</div>

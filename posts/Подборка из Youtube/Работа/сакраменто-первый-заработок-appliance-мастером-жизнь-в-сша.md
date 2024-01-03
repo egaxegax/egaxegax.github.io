@@ -1,8 +1,11 @@
-<!--2023-12-30 11:21:42-->
+<!--2024-01-03 14:00:28-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=-9BIMCk0USc>
+<a class="nodecor" href=https://www.youtube.com/watch?v=-9BIMCk0USc target="_blank">
   <img src="https://i.ytimg.com/vi/-9BIMCk0USc/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=-9BIMCk0USc">Сакраменто /Первый заработок appliance мастером...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=-9BIMCk0USc" target="_blank">Сакраменто /Первый заработок appliance мастером...</a><br>
+  <i class="smaller2">Едем Дальше</i>
+</div>
 </div>

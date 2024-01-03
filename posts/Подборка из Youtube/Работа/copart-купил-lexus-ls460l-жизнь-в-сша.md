@@ -1,8 +1,11 @@
-<!--2023-12-30 11:21:42-->
+<!--2024-01-03 14:00:28-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=LiJJI-3umxw>
+<a class="nodecor" href=https://www.youtube.com/watch?v=LiJJI-3umxw target="_blank">
   <img src="https://i.ytimg.com/vi/LiJJI-3umxw/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=LiJJI-3umxw">COPART /КУПИЛ Lexus ls460l /Жизнь в США</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=LiJJI-3umxw" target="_blank">COPART /КУПИЛ Lexus ls460l /Жизнь в США</a><br>
+  <i class="smaller2">Едем Дальше</i>
+</div>
 </div>

@@ -1,8 +1,11 @@
-<!--2023-12-30 11:21:42-->
+<!--2024-01-03 14:00:28-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=4IB0x3BD4yM>
+<a class="nodecor" href=https://www.youtube.com/watch?v=4IB0x3BD4yM target="_blank">
   <img src="https://i.ytimg.com/vi/4IB0x3BD4yM/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=4IB0x3BD4yM">Тур с дельфинами/ Byodo-In Temple /Перл-Харбор/...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=4IB0x3BD4yM" target="_blank">Тур с дельфинами/ Byodo-In Temple /Перл-Харбор/...</a><br>
+  <i class="smaller2">Едем Дальше</i>
+</div>
 </div>

@@ -1,8 +1,0 @@
-<!--2023-12-31 15:29:55-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=VO4CqhK3CME target="_blank">
-  <img src="https://i.ytimg.com/vi/VO4CqhK3CME/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=VO4CqhK3CME" target="_blank">ЯНДЕКС ПРО ДОСТАВКА - БЕЗУДЕРЖНОЕ ВЕСЕЛЬЕ! Заказы ...</a>
-</div>

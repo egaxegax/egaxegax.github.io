@@ -1,8 +1,0 @@
-<!--2023-12-31 15:26:04-->
-<div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=apNLG5J3FLE target="_blank">
-  <img src="https://i.ytimg.com/vi/apNLG5J3FLE/hqdefault.jpg" width="300px" align="middle" alt="" style="border-radius:10%">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=apNLG5J3FLE" target="_blank">СОВЕТЫ ДЛЯ ТЕХ КТО РЕШИЛ РАБОТАТЬ ВАХТОЙ СЕВЕР</a>
-</div>
