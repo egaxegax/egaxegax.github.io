@@ -158,7 +158,6 @@
           page_header = 
         '<p class="mtext hspace">'+ buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +' &emsp;'+
          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-         '<a href="/psubj.html">Темы</a>'+
         '</p>';
           document.title = POSTS[0][2]  + ' - ' + document.title;      
         }
@@ -170,7 +169,6 @@
         '<p class="mtext hspace">'+ buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +' &emsp;'+
           '<span class="gray"><i class="counter"> ('+ POSTS.length +') </i></span> &emsp; '+
           '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          '<a href="/psubj.html">Темы</a>'+
         '</p>';
           POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
           document.title = SUBJ[ POSTS[0][0] ][0] + ' - ' + document.title;
