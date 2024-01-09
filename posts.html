@@ -62,6 +62,7 @@
           .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
     if(p.title[2] == 'README'){  // fix link url to absolute in README.md
       html = html.replace(/href="/g, 'href="/posts.html?'+tr(p.subj)+'/'); 
+      document.title = document.title.replace('README', p.subj);
     }
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     document.getElementById(p.id).innerHTML = 
@@ -136,6 +137,7 @@
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
+        document.title += ' - ' + urlParams().page;
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // search list

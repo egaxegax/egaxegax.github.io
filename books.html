@@ -162,6 +162,7 @@
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
+        document.title += ' - ' + urlParams().page;
       }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
         // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // ?find

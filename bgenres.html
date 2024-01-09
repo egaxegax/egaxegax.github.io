@@ -92,6 +92,9 @@ img.av { width: 100%; height: auto; }
 
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
+    if(urlParams().page){ // ?page
+      document.title += ' - ' + urlParams().page;
+    }
     window.PAGE = { 
       per: 20,                 // blocks 1 page
       num: urlParams().page||0 // start num page 
