@@ -26,7 +26,7 @@ Solo:  2|--------------------------------------12)---------
   *~~  = vibrato*  
   *^   = hammeron/pulloff*  
   *PM  = Palm mute*  
-  **   = uncontrolled feedback*  
+  *\*   = uncontrolled feedback*  
   *x\x = pick scrape*  
   *NH  = Natural Harmonic*  
   *+   = Tremelo Pick*  
