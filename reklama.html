@@ -43,11 +43,9 @@
 
   document.getElementById('page_header').innerHTML = 
 '<p class="mtext hspace">'+
-//    '<select class="rfloat" id="pagelist"></select>'+
+  '<select class="rfloat" id="rtblist"></select>'+
   '<span>Подборка контекстной рекламы</span>'+
 '</p>';
-  document.getElementById('page_content').innerHTML =
-'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
   function addPageContent(roots, subjects, msgs, page){
     PAGE.lock = 1;
@@ -62,10 +60,8 @@
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh">'+
-        (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
-      '</div>';
-        addYaRTB_Block((i+page.bottom), Math.round(Math.random()), YA_RTB[5]);
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh"></div>';
+        addYaRTB_Block((i+page.bottom), Math.round(Math.random()), document.getElementById('rtblist').value);
        } else {
         document.getElementById('page_content').innerHTML += 
       '<div id="block'+(i+page.bottom)+'" class="wrap">'+
@@ -83,15 +79,27 @@
   }
 
   window.PAGE = { 
-    per: 1,                  // blocks 1 page
+    per: 1,                  // blocks count
     num: urlParams().page||0 // start num page 
   };
+  for(var k in window.YA_RTB){
+    document.getElementById('rtblist').innerHTML +=
+  '<option value="'+k+'"'+(k == 5 ? ' selected ' : '')+'>'+k+'</option>';
+  }
   window.MSGS = [];
   for(var n=0; n<100; n++){
     window.MSGS.push( n );
   }
   document.getElementById('page_content').innerHTML = '';
-  addPageContent({}, {}, MSGS, PAGE);
+  if(!addPageContent({}, {}, MSGS, PAGE)){
+//    if(urlParams().rel){ // ?rel
+      window.setInterval(function(){ 
+        if(addPageContent({}, {}, MSGS, PAGE)){
+          PAGE.num = 0;
+        };
+      }, (Math.random()*16+8)*1000);
+//    }
+  }
     // infinite scroll
   document.addEventListener('scroll', function() {
     if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1){
