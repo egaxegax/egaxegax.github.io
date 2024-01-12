@@ -56,7 +56,7 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
-    page.rtb = document.getElementById('rtblist').value;
+    page.rtb = document.getElementById('rtblist').value||1;
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
@@ -87,7 +87,7 @@
   };
   for(var k in window.YA_RTB){
     document.getElementById('rtblist').innerHTML +=
-  '<option value="'+k+'"'+(k == 5 ? ' selected ' : '')+'>'+k+'</option>';
+  '<option value="'+k+'"'+(k == 2 ? ' selected ' : '')+'>'+k+'</option>';
   }
   window.MSGS = [];
   for(var n=0; n<100; n++){
@@ -100,15 +100,9 @@
         if(addPageContent({}, {}, MSGS, PAGE)){
           PAGE.num = 0;
         };
-      }, (Math.random()*16+8)*1000);
+      }, (Math.random()*20+10)*1000);
 //    }
   }
-    // infinite scroll
-  document.addEventListener('scroll', function() {
-    if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-1){
-      addPageContent({}, {}, MSGS, PAGE);
-    }
-  });
 
 </script>
 </body>
