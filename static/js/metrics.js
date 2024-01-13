@@ -60,7 +60,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});});
     }};
     while(TDS.length) clearInterval(TDS.pop());
-    TDS.push( setInterval(ads, (Math.random()*20+10)*1000));
+    TDS.push( setInterval(ads, (Math.random()*20+9)*1000));
     ads();
   };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
