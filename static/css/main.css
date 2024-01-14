@@ -16,8 +16,8 @@
 .inlbl { display:inline-block; }
 .grid { display:grid; }
 .hmarg { margin:0 12px; }
-.bmarg { margin: -5px auto 5px auto; }
-.bmarg1 { margin: 0 auto 5px auto; }
+.bmarg { margin: 0 auto 10px auto; }
+.bmarg1 { margin: -5px auto 10px auto; }
 .marg { margin: 0 auto; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
