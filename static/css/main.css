@@ -17,6 +17,8 @@
 .grid { display:grid; }
 .hmarg { margin:0 12px; }
 .bmarg { margin: 0 auto 10px auto; }
+.bmarg1 { margin: 0 auto 5px auto; }
+.bmarg2 { margin: 0 auto 10px auto; }
 .marg { margin: 0 auto; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
@@ -65,9 +67,10 @@ hr { border:1px dashed #777; }
 pre { font-size:1rem; }
 /* reklama */
 .mh120 { max-height:120px; }
-.mh150 { max-height:150px; }
+.mh140 { max-height:140px; }
 .mh200 { max-height:200px; }
 .mh { max-height:300px; }
+.mh_1 { max-height:150px; }
 .mh_2 { max-height:400px; }
 .mw600 { max-width:600px; }
 .mw { max-width:900px; }
