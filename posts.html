@@ -44,7 +44,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<p class="mtext hspace">Заметки, статьи, подборки контента на разные &emsp; <a href="/psubj.html">Темы</a></p>';
+'<p class="mtext hspace">Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a></p>';
   document.getElementById('page_content').innerHTML =
 '&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
 
@@ -131,7 +131,7 @@
     var page_header = 
       '<p class="mtext hspace">'+
          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Заметки, статьи, подборки контента на разные &emsp; <a href="/psubj.html">Темы</a>'+
+        'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+
       '</p>';
     for(var p in urlParams()){
       var pp = p.split('/');
