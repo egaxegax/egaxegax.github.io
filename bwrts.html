@@ -83,7 +83,7 @@
     '<button onclick="this.disabled = addPageContent(WRTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.wrts.length == 0); }, 1000);
+    setTimeout(function(){ PAGE.lock = (page.wrts.length == 0); }, 500);
     return (page.wrts.length == 0);
   }
 
