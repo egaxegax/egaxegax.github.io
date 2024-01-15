@@ -62,9 +62,11 @@
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh200">'+addLoader(i==0)+'</div>'+
-      '<div id="yandex_rtb_'+(i+page.bottom)+'_1" class="bmarg1 mw mh200"></div>';
+      '<div id="yandex_rtb_'+(i+page.bottom)+'_1" class="bmarg1 mw mh200"></div>'+
+      '<div id="yandex_rtb_'+(i+page.bottom)+'_2" class="bmarg1 mw mh200"></div>';
         addYaRTB_Block((i+page.bottom)+'_0', false, YA_RTB[page.rtb]);
         addYaRTB_Block((i+page.bottom)+'_1', false, YA_RTB[page.rtb]);
+        addYaRTB_Block((i+page.bottom)+'_2', false, YA_RTB[page.rtb]);
        } else {
         document.getElementById('page_content').innerHTML += 
       '<div id="block'+(i+page.bottom)+'" class="wrap">'+
