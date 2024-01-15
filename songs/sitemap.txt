@@ -58,6 +58,8 @@ https://egaxegax.github.io/songs.html?metallica
 https://egaxegax.github.io/songs.html?metallica/whiskey_in_the_jar
 https://egaxegax.github.io/songs.html?bon_jovi
 https://egaxegax.github.io/songs.html?bon_jovi/these_days
+https://egaxegax.github.io/songs.html?baskov_nikolaj
+https://egaxegax.github.io/songs.html?baskov_nikolaj/naturalnyj_blondin
 https://egaxegax.github.io/songs.html?nickelback
 https://egaxegax.github.io/songs.html?nickelback/high_time
 https://egaxegax.github.io/songs.html?nimerov_grigorij
@@ -10032,7 +10034,6 @@ https://egaxegax.github.io/songs.html?him/again
 https://egaxegax.github.io/songs.html?margulis_evgenij/djaz
 https://egaxegax.github.io/songs.html?kipelov_i_mavrin/smutnoe_vremya
 https://egaxegax.github.io/songs.html?mashina_vremeni/eto_ljubov_detka
-https://egaxegax.github.io/songs.html?baskov_nikolaj
 https://egaxegax.github.io/songs.html?baskov_nikolaj/noch
 https://egaxegax.github.io/songs.html?raznoe/dojd_dojd_padajut_kapli_
 https://egaxegax.github.io/songs.html?rozenbaum_aleksandr/fotografiya
