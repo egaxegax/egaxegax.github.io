@@ -46,8 +46,7 @@
    '<select class="rfloat" id="albumlist"></select>'+
   '<span id="foto_header">Загружаем последнюю фотку из альбома.</span>'+
 '</p>';
-  document.getElementById('page_content').innerHTML = 
-'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
+  document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addFoto(p){
     updateMetaTag('description', p.title[2]+', '+ p.subj);
@@ -79,9 +78,7 @@
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
-    '<div id="foto'+(i+page.bottom)+'">'+
-      (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
-    '</div>';
+    '<div id="foto'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       (function(p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';

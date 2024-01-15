@@ -48,8 +48,7 @@ img.av { width: 100%; height: auto; }
 
   document.getElementById('page_header').innerHTML =
 '<p class="mtext hspace">Список жанров книг в алфавитном порядке</p>';
-  document.getElementById('page_content').innerHTML =
-'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
+  document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addGenre(gnr,i){
     var tmpl = 

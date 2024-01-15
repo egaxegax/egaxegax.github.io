@@ -49,6 +49,12 @@ function addNotFound(){
 '</svg></div>';
 }
 //
+// return loader image html
+//
+function addLoader(bl){
+  return (bl ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '');
+}
+//
 // build path to title from TITLES from index.js
 //
 function buildSubPath(roots, subjects, subjkey){

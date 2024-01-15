@@ -58,8 +58,7 @@
     '<select class="rfloat" id="yearlist"></select>'+
   '<span id="vestiheader">Краткая хроника изменений на сайте и не только.</span>'+
 '</p>';
-  document.getElementById('page_content').innerHTML =
-'&emsp;<img class="rounded loader" src="/static/img/loader.gif">';
+  document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addMsg(r, p){
     var converter = new showdown.Converter(),
@@ -95,9 +94,7 @@
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
-    '<div id="msg'+(i+page.bottom)+'">'+
-      (i==0 ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '')+
-    '</div>';
+    '<div id="msg'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'msg'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
