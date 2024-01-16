@@ -61,9 +61,9 @@
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh150">'+addLoader(i==0)+'</div>'+
-      '<div id="yandex_rtb_'+(i+page.bottom)+'_1" class="bmarg1 mw mh150"></div>'+
-      '<div id="yandex_rtb_'+(i+page.bottom)+'_2" class="bmarg1 mw mh200"></div>';
+      '<div id="yandex_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh160">'+addLoader(i==0)+'</div>'+
+      '<div id="yandex_rtb_'+(i+page.bottom)+'_1" class="bmarg1 mw mh160"></div>'+
+      '<div id="yandex_rtb_'+(i+page.bottom)+'_2" class="bmarg1 mw mh160"></div>';
         addYaRTB_Block((i+page.bottom)+'_0', false, YA_RTB[page.rtb]);
         addYaRTB_Block((i+page.bottom)+'_1', false, YA_RTB[page.rtb]);
         addYaRTB_Block((i+page.bottom)+'_2', false, YA_RTB[page.rtb]);
