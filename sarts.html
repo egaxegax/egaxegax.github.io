@@ -68,7 +68,7 @@
     for(var i=0; i<page.arts.length; i++){
         document.getElementById('page_content').innerHTML +=
     '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
-      if(window.addYaRTB_Block && (i==1 || i==6 || page.arts.length==1)){
+      if(window.addYaRTB_Block && (i==1 || i==13 || page.arts.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_1"></div>';
         addYaRTB_Block((i+page.bottom), true, YA_RTB[2]);
