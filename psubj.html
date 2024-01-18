@@ -61,23 +61,54 @@
     return tmpl;
   }
 
-  upfunc({url: buildURL('posts')+'/index.js'}, function(s){
-    eval(s);
-    var subjects = SUBJ;
-    subjects.sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
-    document.getElementById('page_content').innerHTML = '';
-    for(var i=0; i<subjects.length; i++){
+  function addPageContent(subjects, page){
+    PAGE.lock = 1;
+    if(!subjects.length){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.subs = subjects.slice(page.bottom, page.top);
+    for(var i=0; i<page.subs.length; i++){
       document.getElementById('page_content').innerHTML += 
-    '<div id="subj'+i+'" class="wrap">'+addSubj(subjects[i], i+1)+'</div>';
-      if(window.addYaRTB_Block && (i==1 || i==10 || subjects.length==1)){
+    '<div id="subj'+(i+page.bottom)+'" class="wrap">'+addSubj(page.subs[i], page.bottom+i+1)+'</div>';
+      if(window.addYaRTB_Block && (i==1 || subjects.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+i+'" class="bmarg mw mh_1"></div>';
-        addYaRTB_Block(i, true, YA_RTB[1]);
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_1"></div>';
+        addYaRTB_Block((i+page.bottom), true, YA_RTB[1]);
       }
     }
-    if (!subjects.length){
-      document.getElementById('page_content').innerHTML += addNotFound();
+    if(page.subs.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(subjects, page,
+    '<button onclick="this.disabled = addPageContent(SUBS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
+    page.num++;
+    setTimeout(function(){ PAGE.lock = (page.subs.length == 0); }, 500);
+    return (page.subs.length == 0);
+  }
+
+  upfunc({url: buildURL('posts')+'/index.js'}, function(s){
+    eval(s);
+    if(urlParams().page){ // ?page
+      document.title += ' - ' + urlParams().page;
+    }
+    window.PAGE = { 
+      per: 12,                 // blocks 1 page
+      num: urlParams().page||0 // start num page 
+    };
+    var subjects = SUBJ;
+    subjects.sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
+    window.SUBS = subjects;
+    window.POSTS = TITLES;
+    document.getElementById('page_content').innerHTML = '';
+    addPageContent(SUBS, PAGE);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10){
+        addPageContent(SUBS, PAGE);
+      }
+    });
   });
 
 </script>
