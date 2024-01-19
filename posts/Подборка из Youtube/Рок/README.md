@@ -1,4 +1,4 @@
-Подборки видео с *рок-музыкой* c *ютуб*
+Подборки видео с *рок-музыкой* c Ютуб
 
 * [3-doors-down-kryptonite](3-doors-down-kryptonite.md)
 * [60s-70s-90s-classic-rock-hits-shorts](60s-70s-90s-classic-rock-hits-shorts.md)
