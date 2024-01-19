@@ -1,8 +1,11 @@
 <!--2023-12-31 01:52:21-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=yCQHCYnUNRc>
+<a class="nodecor" href=https://www.youtube.com/watch?v=yCQHCYnUNRc target="_blank">
   <img src="https://i.ytimg.com/vi/yCQHCYnUNRc/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=yCQHCYnUNRc">LYNYRD SKYNYRD - Simple Man</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=yCQHCYnUNRc" target="_blank">LYNYRD SKYNYRD - Simple Man</a><br>
+  <i class="smaller2">MixedUpEverything</i>
+</div>
 </div>

@@ -1,8 +1,11 @@
 <!--2023-12-31 01:43:27-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=qb2IucLn9f4>
+<a class="nodecor" href=https://www.youtube.com/watch?v=qb2IucLn9f4 target="_blank">
   <img src="https://i.ytimg.com/vi/qb2IucLn9f4/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=qb2IucLn9f4">Hard Rock 70s 80s 90s | Best Hard Rock Songs Of...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=qb2IucLn9f4" target="_blank">Hard Rock 70s 80s 90s | Best Hard Rock Songs Of...</a><br>
+  <i class="smaller2">Classic Rock Music</i>
+</div>
 </div>

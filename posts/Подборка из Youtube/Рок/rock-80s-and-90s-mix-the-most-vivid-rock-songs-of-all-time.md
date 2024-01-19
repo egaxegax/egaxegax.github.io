@@ -1,8 +1,11 @@
 <!--2023-12-31 01:43:27-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=iMUGQobCwU4>
+<a class="nodecor" href=https://www.youtube.com/watch?v=iMUGQobCwU4 target="_blank">
   <img src="https://i.ytimg.com/vi/iMUGQobCwU4/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=iMUGQobCwU4">Rock 80s and 90s Mix - The Most Vivid Rock Songs O...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=iMUGQobCwU4" target="_blank">Rock 80s and 90s Mix - The Most Vivid Rock Songs O...</a><br>
+  <i class="smaller2">Classic Rock Music</i>
+</div>
 </div>

@@ -1,8 +1,11 @@
 <!--2023-12-31 01:43:27-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=4SkykNf4KW8>
+<a class="nodecor" href=https://www.youtube.com/watch?v=4SkykNf4KW8 target="_blank">
   <img src="https://i.ytimg.com/vi/4SkykNf4KW8/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=4SkykNf4KW8">Slow Rock 70s 80s 90s Playlist | Best Slow Rock...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=4SkykNf4KW8" target="_blank">Slow Rock 70s 80s 90s Playlist | Best Slow Rock...</a><br>
+  <i class="smaller2">Classic Rock Music</i>
+</div>
 </div>

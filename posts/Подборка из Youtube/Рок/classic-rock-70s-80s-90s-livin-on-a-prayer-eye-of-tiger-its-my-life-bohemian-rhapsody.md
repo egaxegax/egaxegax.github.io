@@ -1,8 +1,11 @@
 <!--2023-12-31 01:42:00-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=_wzc4oyc_HQ>
+<a class="nodecor" href=https://www.youtube.com/watch?v=_wzc4oyc_HQ target="_blank">
   <img src="https://i.ytimg.com/vi/_wzc4oyc_HQ/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=_wzc4oyc_HQ">Classic Rock 70s 80s 90s - Livin' On A Prayer,...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=_wzc4oyc_HQ" target="_blank">Classic Rock 70s 80s 90s - Livin' On A Prayer,...</a><br>
+  <i class="smaller2">Classic Rock Music</i>
+</div>
 </div>

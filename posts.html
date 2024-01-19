@@ -64,6 +64,7 @@
       document.title = document.title.replace('README', p.subj);
     }
     updateMetaTag('description', p.title[2]+', '+html.replace(/<style>[^<]+/g,'').replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
+    updateMetaTag('keywords', p.subj+', '+p.title[2]+', ссылки, посты');
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     html+
@@ -175,7 +176,7 @@
             ' &emsp; <a href="/psubj.html">Темы</a>'+
         '</p>';
           POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
-          document.title = SUBJ[ POSTS[0][0] ][0] + ' - ' + document.title;
+          document.title = ROOTS[SUBJ[POSTS[0][0]][3]][0] +' / '+ SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
         }
         PAGE.per = 4;
         PAGE.view = 'list';

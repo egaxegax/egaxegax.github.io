@@ -1,8 +1,11 @@
 <!--2023-12-31 01:43:27-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=vex3kP3XXxI>
+<a class="nodecor" href=https://www.youtube.com/watch?v=vex3kP3XXxI target="_blank">
   <img src="https://i.ytimg.com/vi/vex3kP3XXxI/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=vex3kP3XXxI">Top 100 Classic Rock Of All Time | The Classic Roc...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=vex3kP3XXxI" target="_blank">Top 100 Classic Rock Of All Time | The Classic Roc...</a><br>
+  <i class="smaller2">Classic Rock Music</i>
+</div>
 </div>

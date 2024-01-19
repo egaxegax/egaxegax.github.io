@@ -1,8 +1,11 @@
 <!--2023-12-31 01:46:42-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=CPfFK-ZV4is>
+<a class="nodecor" href=https://www.youtube.com/watch?v=CPfFK-ZV4is target="_blank">
   <img src="https://i.ytimg.com/vi/CPfFK-ZV4is/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=CPfFK-ZV4is">ZZ Top Pearl Necklace</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=CPfFK-ZV4is" target="_blank">ZZ Top Pearl Necklace</a><br>
+  <i class="smaller2">atimetokill666</i>
+</div>
 </div>

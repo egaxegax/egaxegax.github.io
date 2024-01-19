@@ -1,8 +1,11 @@
 <!--2023-12-31 01:43:27-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=mtkGsDNu3gk>
+<a class="nodecor" href=https://www.youtube.com/watch?v=mtkGsDNu3gk target="_blank">
   <img src="https://i.ytimg.com/vi/mtkGsDNu3gk/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=mtkGsDNu3gk">Classic Rock Collection | Best Classic Rock Cover...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=mtkGsDNu3gk" target="_blank">Classic Rock Collection | Best Classic Rock Cover...</a><br>
+  <i class="smaller2">Classic Rock Music</i>
+</div>
 </div>

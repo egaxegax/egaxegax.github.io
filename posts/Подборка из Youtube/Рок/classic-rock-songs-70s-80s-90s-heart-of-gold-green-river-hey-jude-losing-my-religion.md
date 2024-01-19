@@ -1,8 +1,11 @@
 <!--2023-12-31 01:42:00-->
 <div>
-<a class="nodecor" href=https://www.youtube.com/watch?v=BGjWTmTK3bg>
+<a class="nodecor" href=https://www.youtube.com/watch?v=BGjWTmTK3bg target="_blank">
   <img src="https://i.ytimg.com/vi/BGjWTmTK3bg/hqdefault.jpg" class="yb" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a class="nodecor" href="https://www.youtube.com/watch?v=BGjWTmTK3bg">Classic Rock Songs 70s 80s 90s - Heart Of Gold,...</a>
+<div class="inlbl">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=BGjWTmTK3bg" target="_blank">Classic Rock Songs 70s 80s 90s - Heart Of Gold,...</a><br>
+  <i class="smaller2">Classic Rock Music</i>
+</div>
 </div>

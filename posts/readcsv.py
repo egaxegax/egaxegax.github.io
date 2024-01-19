@@ -15,7 +15,7 @@ def tr_cut(t):
   t = re.sub(r'[/\.,\s]+',' ',t.lower())
   tr = []
   for ch in t:
-    if ch in ' абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefgjijklmnopqrstuvwxyz0123456789':
+    if ch in ' абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
       tr.append( ch )
   t = ''.join(tr)
   t = re.sub('\s+','-',t)
