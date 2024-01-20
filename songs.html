@@ -118,18 +118,45 @@ td.av div { min-width:25px; color: #aaa; }
   '<div id="songcont" class="msgtext chords nowrap marg mw600">'+
     html+
   '</div>'+
-  '<table class="bmarg mw_1">'+
-    '<tr><td width="3%"></td>'+
-      '<td><div id="chordcont" class="chord"></div></td>'+
-      '<td valign="center" align="center">'+
-        '<div id="yandex_rtb_ch'+(p.i)+'_1" class="bmarg mw_2"></div>'+
-//        '<div id="yandex_rtb_ch'+(p.i)+'_2" class="bmarg mh_2 mw_2"></div>'+
-      '</td></tr>'+
-  '</table>'+
+  '<div id="yandex_rtb_ch'+(p.i)+'_1" class="bmarg mw_2 mh160"></div>'+
+  '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
     if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[2]);
 //    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_2', false, YA_RTB[2]);
+  }
+  //
+  // Add icons chords by jtab.js & rafael.js
+  //
+  function addSongChords(){
+    var songText = document.getElementById('songcont');
+    var chordCont = document.getElementById('chordcont');
+    if (!songText || !chordCont) return;
+    // parse chords
+    var songChords = songText.innerHTML.match(/(\s|\()*([A-GH])([0-9a-z#:]{0,})(\s|\))*/gm);
+    if(!songChords) return;
+
+    songChords = songChords.reduce(function(items, chord){
+      chord = chord.replace(/(\s|\(|\))/,'').trim();
+      var parts = chord.split(":"),
+          fp = parts[0],
+          p1 = fp.replace(/^[A-GH#b]{1,2}/,''),
+          p2 = fp.substr(0, fp.length - p1.length),
+          bn = jtab.WesternScale.BaseNotes[p2];
+      if(bn)
+        fp = bn[0] + p1;
+
+      if(items.indexOf(chord) < 0 && jtab.Chords[fp] != undefined) 
+        items.push(chord);
+      return items;
+    }, []);
+
+    for (var k=0; k<songChords.length; k++){
+      var el = document.createElement('div');
+      el.appendChild(document.createTextNode(songChords[k]));
+      chordCont.appendChild(el);
+      jtab.render(el);
+    }
   }
 
   function addPageContent(roots, arts, songs, page){
@@ -171,39 +198,6 @@ td.av div { min-width:25px; color: #aaa; }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 500);
     return (page.titles.length == 0);
-  }
-  //
-  // Add icons chords by jtab.js & rafael.js
-  //
-  function addSongChords(){
-    var songText = document.getElementById('songcont');
-    var chordCont = document.getElementById('chordcont');
-    if (!songText || !chordCont) return;
-    // parse chords
-    var songChords = songText.innerHTML.match(/(\s|\()*([A-GH])([0-9a-z#:]{0,})(\s|\))*/gm);
-    if(!songChords) return;
-
-    songChords = songChords.reduce(function(items, chord){
-      chord = chord.replace(/(\s|\(|\))/,'').trim();
-      var parts = chord.split(":"),
-          fp = parts[0],
-          p1 = fp.replace(/^[A-GH#b]{1,2}/,''),
-          p2 = fp.substr(0, fp.length - p1.length),
-          bn = jtab.WesternScale.BaseNotes[p2];
-      if(bn)
-        fp = bn[0] + p1;
-
-      if(items.indexOf(chord) < 0 && jtab.Chords[fp] != undefined) 
-        items.push(chord);
-      return items;
-    }, []);
-
-    for (var k=0; k<songChords.length; k++){
-      var el = document.createElement('div');
-      el.appendChild(document.createTextNode(songChords[k]));
-      chordCont.appendChild(el);
-      jtab.render(el);
-    }
   }
 
   upfunc({url: buildURL('songs')+'/index.js'}, function(s){
