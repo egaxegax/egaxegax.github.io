@@ -47,8 +47,8 @@
   function addArt(art,i){
     var roots = ROOTS;
     var tmpl = 
-  '<table class="msgtext" width="99%"><tr>'+
-    '<td width="5%"><img class="rounded av" src="'+buildURL('songs')+'/'+roots[art[3]][0]+'/'+art[0]+'/'+tr(art[0])+'.jpg" alt=""></td>'+
+  '<table class="msgtext av" width="99%"><tr>'+
+    '<td width="5%"><div><img class="rounded av" src="'+buildURL('songs')+'/'+roots[art[3]][0]+'/'+art[0]+'/'+tr(art[0])+'.jpg" alt=""></div></td>'+
     '<td class="hspaced"><a class="nodecor dark" href="/songs.html?'+tr(art[0])+'">'+art[0]+'</a></td>'+
     '<td width="20%" valign="center" align="left"><b><i>'+art[1]+'</i></b></td>'+
     '<td width="10%" valign="center" align="right" class="light"><i class="counter smaller2">'+i+'</i></td></tr>'+

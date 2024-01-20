@@ -16,11 +16,8 @@
 <style>
 .about img { max-width:100px; padding:0px 10px 0px 0px; }
 .chords { line-height:1.3em; overflow:auto; }
-.chords em { font-style:italic; }
 .chords strong em { font-weight:500; font-style:normal; }
 .chords a { text-decoration:none; }
-td.av div { min-width:25px; color: #aaa; }
-.av img { width:50px; height:auto; }
 #songcont p { margin-top:0;  }
 </style>
 <script src="/static/js/metrics.js" data-floor="1"></script>
@@ -72,7 +69,7 @@ td.av div { min-width:25px; color: #aaa; }
   '<div class="msgtext">'+
     '<table border=0 width="99%" class="scroll"><tr>'+
       '<td class="av" align="center" valign="middle">'+
-        '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""><div>'+
+        '<div><img class="av rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""><div>'+
       '</td>'+
       '<td width="90%" class="hspaced">'+
         '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
