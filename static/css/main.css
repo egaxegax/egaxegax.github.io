@@ -50,7 +50,7 @@
 body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; 
   background-color:#f1f1f1; color:#333; }
 a, a:active, a:focus { color:#5645ad; outline:none; }
-a.nodecor, #header a, .about a { text-decoration:none; }
+a.nodecor, #header a { text-decoration:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
 h2 { font-size:130%; font-family:tahoma,arial; font-weight:normal; padding:0 0 0 20px; }
 h3 { font-weight:normal; margin-top:5px; color:#787878; }

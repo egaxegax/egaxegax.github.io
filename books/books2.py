@@ -64,7 +64,7 @@ for root, dirs, files in os.walk(path, topdown=False):
         if (f.find('cover')>-1 and (f.find('.jpg')>-1 or f.find('.jpe')>-1 or f.find('.png')>-1)):
           cover = f
 
-      if desc and cover:
+      if cover:
         j += 1
         if not os.path.exists(fp):
           os.makedirs(fp)
