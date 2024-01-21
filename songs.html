@@ -119,8 +119,8 @@
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[2]);
-//    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_2', false, YA_RTB[2]);
+    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[4]);
+//    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_2', false, YA_RTB[4]);
   }
   //
   // Add icons chords by jtab.js & rafael.js
@@ -184,7 +184,7 @@
       if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_1"></div>';
-        addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
+        addYaRTB_Block((i+page.bottom), false, YA_RTB[4]);
       }
     }
     if(page.titles.length){
