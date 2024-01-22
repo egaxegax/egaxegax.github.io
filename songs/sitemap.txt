@@ -1,4 +1,6 @@
 https://egaxegax.github.io/songs.html
+https://egaxegax.github.io/songs.html?def_leppard
+https://egaxegax.github.io/songs.html?def_leppard/rock_of_ages
 https://egaxegax.github.io/songs.html?aleksandr_serov
 https://egaxegax.github.io/songs.html?aleksandr_serov/ushla_ljubov
 https://egaxegax.github.io/songs.html?w_a_s_p
@@ -184,7 +186,6 @@ https://egaxegax.github.io/songs.html?ddt
 https://egaxegax.github.io/songs.html?ddt/2020
 https://egaxegax.github.io/songs.html?nimerov_grigorij/vesna_blizko
 https://egaxegax.github.io/songs.html?nimerov_grigorij/net_ognya
-https://egaxegax.github.io/songs.html?def_leppard
 https://egaxegax.github.io/songs.html?def_leppard/goodbye
 https://egaxegax.github.io/songs.html?animal_djaz
 https://egaxegax.github.io/songs.html?animal_djaz/tri_poloski
