@@ -1,13 +1,13 @@
 //
-// Add metrics, counters
+// make metrics, counters, ads
 //
 if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
-{ // liveinternet metrics
+{ // LiveInternet metrica
   (function(d,s){if(d.getElementById('licntADF8'))d.getElementById('licntADF8').src='//counter.yadro.ru/hit?t45.12;r'+escape(d.referrer)+
   ((typeof(s)=='undefined')?'':';s'+s.width+'*'+s.height+'*'+(s.colorDepth?s.colorDepth:s.pixelDepth))+';u'+escape(d.URL)+
   ';h'+escape(d.title.substring(0,150))+';'+Math.random();})(document,screen);
 }
-{ // yandex metrics
+{ // Yandex metrica
   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments);};
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
@@ -17,7 +17,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
      accurateTrackBounce:true
    });
 }
-{ // google analytics
+{ // Google Analytics 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
@@ -25,7 +25,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   ga('create', 'UA-25857345-4', 'egaxegax.github.io');
   ga('send', 'pageview');
 }
-//{ // rambler top 100 counter
+{ // Rambler top 100 counter
 //  (function (w, d, c) {
 //  (w[c] = w[c] || []).push(function() {
 //      var options = {project: 7715588};
@@ -43,24 +43,24 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
 //      d.addEventListener('DOMContentLoaded', f, false);
 //    } else { f(); }
 //  })(window, document, '_top100q');
-//}
-//{ // google adsense
+}
+{ // Google Adsense
 //  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
 //   m[i].l=1*new Date();k=e.createElement(t),a=document.head;k.async=1;k.crossorigin='anonymous';k.src=r;a.appendChild(k);})
 //   (window, document, 'script', '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043', 'googleContextCb');
-//}
-{ // reklama Yandex.RTB
+}
+{ // Yandex reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11, 7:13};
-  window.TDS = [];
+  window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,p_dark,rtbid){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});});
     }};
-    while(TDS.length) clearInterval(TDS.pop());
-    TDS.push( setInterval(ads, (Math.random()*20+9)*1000));
+    while(YA_TMR.length) clearInterval(YA_TMR.pop());
+    YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
     ads();
   };
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
@@ -73,5 +73,21 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-12', type:'floorAd', platform:'desktop'});});
   if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-7', type:'topAd'});});
   if(p_full) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-8', type:'fullscreen', platform:'touch'});});
+}
+{ // VK reklama
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
+   (window, document, 'script', '//ad.mail.ru/static/ads-async.js', 'MRGtag');
+  window.VK_RTB = {1:1490223, 2:1490225, 3:1490227};
+  window.VK_TMR = [];
+  window.addVkRTB_Block = function(rtbid){ 
+    function ads(){ 
+      window.MRGtag.push({});
+    };
+    while(VK_TMR.length) clearInterval(VK_TMR.pop());
+    VK_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
+    ads();
+    return 'data-ad-client="ad-'+rtbid+'" data-ad-slot="'+rtbid+'"';
+  };
 }
 }
