@@ -87,7 +87,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     while(VK_TMR.length) clearInterval(VK_TMR.pop());
     VK_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
     ads();
-    return ' data-ad-client="ad-'+rtbid+'" data-ad-slot="'+rtbid+(n ? '-'+n : '')+'" ';
+    return ' data-ad-client="ad-'+rtbid+'" data-ad-slot="'+rtbid+(n==undefined ? '' : '-'+n)+'" ';
   };
 }
 }
