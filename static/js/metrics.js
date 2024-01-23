@@ -82,7 +82,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.VK_TMR = [];
   window.addVkRTB_Block = function(rtbid){ 
     function ads(){ 
-      window.MRGtag.push({});
+      (MRGtag = window.MRGtag || []).push({});
     };
     while(VK_TMR.length) clearInterval(VK_TMR.pop());
     VK_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
