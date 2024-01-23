@@ -80,14 +80,14 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//ad.mail.ru/static/ads-async.js', 'MRGtag');
   window.VK_RTB = {1:1490223, 2:1490225, 3:1490227};
   window.VK_TMR = [];
-  window.addVkRTB_Block = function(rtbid){ 
+  window.addVkRTB_Block = function(rtbid,n){ 
     function ads(){ 
       (MRGtag = window.MRGtag || []).push({});
     };
     while(VK_TMR.length) clearInterval(VK_TMR.pop());
     VK_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
     ads();
-    return ' data-ad-client="ad-'+rtbid+'" data-ad-slot="'+rtbid+'" ';
+    return ' data-ad-client="ad-'+rtbid+'" data-ad-slot="'+rtbid+(n ? '-'+n : '')+'" ';
   };
 }
 }
