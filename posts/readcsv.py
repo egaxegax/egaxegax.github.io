@@ -12,14 +12,14 @@ if len(sys.argv) > 1:
   path = sys.argv[1]
 
 def tr_cut(t):
-  t = re.sub(r'[/\.,\s]+',' ',t.lower())
+  t = re.sub(r'[/\.,\s]+',' ',t)
   tr = []
   for ch in t:
-    if ch in ' абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
+    if ch.lower() in ' -абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
       tr.append( ch )
   t = ''.join(tr)
-  t = re.sub('\s+','-',t)
-  t = t.strip('-')
+  t = re.sub('\s+',' ',t)
+  t = t.strip()
   return t
 
 def tr_chars(value, max_length):
