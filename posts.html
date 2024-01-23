@@ -30,6 +30,25 @@
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
+<script async src="https://ad.mail.ru/static/ads-async.js"></script>
+
+<ins 
+
+    class="mrg-tag"
+
+    style="display:inline-block;width:950px;height:300px"
+
+    data-ad-client="ad-1490223"
+
+    data-ad-slot="1490223">
+
+</ins>
+
+<script>
+
+    (MRGtag = window.MRGtag || []).push({});
+
+</script>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
 <p class="cfloat smaller gray hspace">
@@ -104,10 +123,10 @@
           addPost(r,p);
         }
       });
-      if(window.addVkRTB_Block && (i==0 || page.titles.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<ins class="bmarg mw mh_1 mrg-tag" style="display:inline-block;width:950px;height:300px" '+addVkRTB_Block(VK_RTB[1])+'></ins>';
-      }
+//      if(window.addVkRTB_Block && (i==0 || page.titles.length==1)){
+//        document.getElementById('page_content').innerHTML += 
+//      '<ins class="bmarg mw mh_1 mrg-tag" '+addVkRTB_Block(VK_RTB[2])+'></ins>';
+//      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(posts, page,
