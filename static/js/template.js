@@ -52,7 +52,7 @@ function addNotFound(){
 // return loader image html
 //
 function addLoader(bl){
-  return (bl ? '&emsp;<img class="rounded loader" src="/static/img/loader.gif">' : '');
+  return (bl ? '<span class="hspace"><img class="rounded loader" src="/static/img/loader.gif"></span>' : '');
 }
 //
 // build path to title from TITLES from index.js
