@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Рекламная пауза, Подборка контекстной рекламы"/>
+<meta name="keywords" content="Реклама, контекст, рся"/>
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Контекст / Сайт Григория Еремина</title>
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg">
+<link rel="stylesheet" href="/static/css/main.css">
+<link rel="stylesheet" href="/static/css/vesti.dark.css">
+<script src="/static/js/metrics.js" data-floor="1"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js"></script>
+</head>
+<body>
+<div id="root" class="main">
+<div id="header" class="main scroll">
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_a.svg" onload="this.scrollIntoView()" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
+</div>
+<div id="page_header" class="main"></div>
+<div id="page_content" class="main"></div>
+<div id="page_footer" class="main"></div>
+<p class="cfloat smaller gray hspace">
+  <i>P.S.</i> Контент сгенерирован Рекламной службой VK</p>
+<table id="footer" class="main"><tr>
+<td id="livecounter"><a href="//www.liveinternet.ru/click" target="_blank"><img id="licntADF8" width="31" height="31" style="border:0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt=""/></a></td>
+<td id="yacounter"><a href="https://metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td id="credits"><a title="Исходный код" href="https://github.com/egaxegax/egaxegax.github.io">Source</a> &emsp; &emsp; <span>2011-2024</span> </td></tr>
+</table>
+</div>
+<script>
+
+  document.getElementById('page_header').innerHTML = 
+'<p class="mtext hspace">'+
+  '<select class="rfloat" id="rtblist"></select>'+
+  '<span>Подборка контекстной рекламы</span>'+
+'</p>';
+
+  function addPageContent(roots, subjects, msgs, page){
+    PAGE.lock = 1;
+    if(!msgs.length){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = msgs.slice(page.bottom, page.top);
+    page.rtb = document.getElementById('rtblist').value||1;
+    document.getElementById('page_content').innerHTML = '';
+    for(var i=0; i<page.titles.length; i++){
+      if(window.addVkRTB_Block){
+        document.getElementById('page_content').innerHTML += 
+      '<ins class="inlbl bmarg mw mh_1 mrg-tag" data-ad-query="test_mode=1" data-ad-client="ad-'+VK_RTB[1]+'" data-ad-slot="'+VK_RTB[1]+'">'+addLoader(i==0)+'</ins>'+
+      '<ins class="inlbl bmarg mw mh_1 mrg-tag" data-ad-query="test_mode=1" data-ad-client="ad-'+VK_RTB[1]+'" data-ad-slot="'+VK_RTB[1]+'-1"></ins>';
+        addVkRTB_Block();
+        addVkRTB_Block();
+       } else {
+        document.getElementById('page_content').innerHTML += 
+      '<div id="block'+(i+page.bottom)+'" class="wrap">'+
+        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'</em></b></div>'+
+      '</div>';
+       }
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
+    '<button onclick="this.disabled = addPageContent({}, {}, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
+    }
+    page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 500);
+    return page.titles.length == 0;
+  }
+
+  window.PAGE = { 
+    per: 1,                  // blocks count
+    num: urlParams().page||0 // start num page 
+  };
+  for(var k in window.VK_RTB){
+    document.getElementById('rtblist').innerHTML +=
+  '<option value="'+k+'"'+(k == 7 ? ' selected ' : '')+'>'+k+'</option>';
+  }
+  window.MSGS = [];
+  for(var n=0; n<100; n++){
+    window.MSGS.push( n );
+  }
+  document.getElementById('page_content').innerHTML = '';
+  if(!addPageContent({}, {}, MSGS, PAGE)){
+//    if(urlParams().rel){ // ?rel
+      window.setInterval(function(){ 
+        if(addPageContent({}, {}, MSGS, PAGE)){
+          PAGE.num = 0;
+        };
+      }, (Math.random()*30+20)*1000);
+//    }
+  }
+
+</script>
+</body>
+</html>
