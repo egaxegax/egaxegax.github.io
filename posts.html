@@ -104,10 +104,10 @@
           addPost(r,p);
         }
       });
-      if(window.addVkRTB_Block && (i==0 || page.titles.length==1)){
+      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
-      '<ins class="bmarg mw mh_1 mrg-tag" style="display:inline-block;width:auto;height:260px" data-ad-client="ad-'+VK_RTB[2]+'" data-ad-slot="'+VK_RTB[1]+'"></ins>';
-        addVkRTB_Block();
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_1"></div>';
+        addYaRTB_Block((i+page.bottom), false, YA_RTB[2]);
       }
     }
     if(page.titles.length){
