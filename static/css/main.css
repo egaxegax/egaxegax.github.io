@@ -67,14 +67,10 @@ select { padding:2px 5px; }
 hr { border:1px dashed #777; }
 pre { font-size:1rem; }
 /* reklama */
-.mh90 { max-height:90px; }
 .mh120 { max-height:120px; }
 .mh200 { max-height:200px; }
-.mh { max-height:300px; }
 .mh_1 { max-height:260px; }
-.mh_2 { max-height:220px; }
-.mw600 { max-width:600px; }
-.mw { max-width:900px; }
-.mw_1 { max-width:650px; }
-.mw_2 { max-width:350px; }
-.mw_3 { max-width:450px; }
+.mh { max-height:300px; }
+.mw { max-width:880px; }
+
+

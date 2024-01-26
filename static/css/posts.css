@@ -34,3 +34,5 @@ img { max-width:100%; border-radius:2px; }
 .mb {padding-bottom:10px;}
 /* youtube playlist */
 img.yb { width:250px; border-radius:5%; }
+/*ads*/
+.mh_2 { max-height:220px; }

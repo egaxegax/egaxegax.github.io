@@ -27,3 +27,5 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 img.foto { max-width:100%; max-height:400px; border-radius:4px; }
+/*ads*/
+.mw_1 { max-width:650px; }
