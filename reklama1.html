@@ -43,7 +43,7 @@
   document.getElementById('page_header').innerHTML = 
 '<p class="mtext hspace">'+
   '<select class="rfloat" id="rtblist"></select>'+
-  '<span>Подборка контекстной рекламы</span>'+
+  '<span>Подборка ВК рекламы</span>'+
 '</p>';
 
   function addPageContent(roots, subjects, msgs, page){
@@ -55,13 +55,13 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
-    page.rtb = document.getElementById('rtblist').value||1;
+    page.rtb = document.getElementById('rtblist').value||'';
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addVkRTB_Block){
         document.getElementById('page_content').innerHTML += 
-      '<ins class="bl bmarg mw mrg-tag" style="height:260px" data-ad-query="test_mode=1" data-ad-client="ad-'+VK_RTB[1]+'" data-ad-slot="'+VK_RTB[1]+'">'+addLoader(i==0)+'</ins>'+
-      '<ins class="bl bmarg mw mrg-tag" style="height:260px" data-ad-query="test_mode=1" data-ad-client="ad-'+VK_RTB[2]+'" data-ad-slot="'+VK_RTB[2]+'"></ins>';
+      '<ins class="bl mw mrg-tag" style="height:260px" '+page.rtb+' data-ad-client="ad-'+VK_RTB[1]+'" data-ad-slot="'+VK_RTB[1]+'">'+addLoader(i==0)+'</ins>'+
+      '<ins class="bl mw mrg-tag" style="height:260px" '+page.rtb+' data-ad-client="ad-'+VK_RTB[2]+'" data-ad-slot="'+VK_RTB[2]+'"></ins>';
         addVkRTB_Block();
         addVkRTB_Block();
        } else {
@@ -84,10 +84,9 @@
     per: 1,                  // blocks count
     num: urlParams().page||0 // start num page 
   };
-  for(var k in window.VK_RTB){
-    document.getElementById('rtblist').innerHTML +=
-  '<option value="'+k+'"'+(k == 1 ? ' selected ' : '')+'>'+k+'</option>';
-  }
+  document.getElementById('rtblist').innerHTML +=
+'<option value="">real</option>'+
+'<option value="data-ad-query=\"test_mode=1\"" selected>test</option>';
   window.MSGS = [];
   for(var n=0; n<100; n++){
     window.MSGS.push( n );
