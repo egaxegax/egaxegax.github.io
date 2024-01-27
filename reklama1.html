@@ -92,6 +92,9 @@
   for(var n=0; n<10; n++){
     window.MSGS.push( n );
   }
+  document.getElementById('rtblist').innerHTML +=
+'<option value="">real</option>'+
+'<option value="data-ad-query=&quot;test_mode=1&quot;">test</option>';
     //
   var osel = '';
   for(var p in urlParams()){
@@ -108,12 +111,10 @@
       }
     }
   }
-  document.getElementById('rtblist').innerHTML +=
-'<option value="" '+(osel == 'real' ? 'selected' : '')+'>real</option>'+
-'<option value="data-ad-query=&quot;test_mode=1&quot;" '+(osel == 'test' ? 'selected' : '')+'>test</option>';
   document.getElementById('rtblist').onchange = function(){
     window.location = '/reklama1.html?' + (this.options[this.selectedIndex].innerHTML);
   };
+  document.getElementById('rtblist').value = osel;
   document.getElementById('page_content').innerHTML = '';
   if(!addPageContent({}, {}, MSGS, PAGE)){
 //    if(urlParams().rel){ // ?rel

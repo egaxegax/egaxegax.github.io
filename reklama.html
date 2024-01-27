@@ -94,6 +94,12 @@
   for(var n=0; n<100; n++){
     window.MSGS.push( n );
   }
+  for(var i in window.YA_RTB){
+    for(var j in window.YA_RTB){
+      document.getElementById('rtblist').innerHTML +=
+    '<option value="'+(i+'_'+j)+'">'+(i+'_'+j)+'</option>';
+    }
+  }
     //
   var osel = '7_7';
   for(var p in urlParams()){
@@ -110,15 +116,10 @@
       }
     }
   }
-  for(var i in window.YA_RTB){
-    for(var j in window.YA_RTB){
-      document.getElementById('rtblist').innerHTML +=
-    '<option value="'+(i+'_'+j)+'"'+((i+'_'+j) == osel ? ' selected ' : '')+'>'+(i+'_'+j)+'</option>';
-    }
-  }
   document.getElementById('rtblist').onchange = function(){
     window.location = '/reklama.html?' + (this.options[this.selectedIndex].innerHTML);
   };
+  document.getElementById('rtblist').value = osel;
   document.getElementById('page_content').innerHTML = '';
   if(!addPageContent({}, {}, MSGS, PAGE)){
 //    if(urlParams().rel){ // ?rel
