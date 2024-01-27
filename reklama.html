@@ -56,7 +56,7 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
-    page.rtb = page.qrtb.split('_');
+    page.rtb = document.getElementById('rtblist').value.split('_');
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
@@ -90,17 +90,12 @@
     num: urlParams().page||0,// start num page 
     qrtb: '7_7'
   };
-  for(var i in window.YA_RTB){
-    for(var j in window.YA_RTB){
-      document.getElementById('rtblist').innerHTML +=
-    '<option value="'+(i+'_'+j)+'"'+((i+'_'+j) == '7_7' ? ' selected ' : '')+'>'+(i+'_'+j)+'</option>';
-    }
-  }
   window.MSGS = [];
   for(var n=0; n<100; n++){
     window.MSGS.push( n );
   }
     //
+  var osel = '7_7';
   for(var p in urlParams()){
     var pp = p.split('/');
     if(p == 'page' && urlParams().page){ // ?page
@@ -111,10 +106,19 @@
     }else if(pp.length>0){ // ?subj
       var opts = document.getElementById('rtblist').options;
       for(var ii=0; ii<opts.length; ii++){
-        if(opts[ii].innerHTML == pp[0]) PAGE.qrtb = opts[ii].value;
+        if(opts[ii].innerHTML == pp[0]) osel = opts[ii].value;
       }
     }
   }
+  for(var i in window.YA_RTB){
+    for(var j in window.YA_RTB){
+      document.getElementById('rtblist').innerHTML +=
+    '<option value="'+(i+'_'+j)+'"'+((i+'_'+j) == osel ? ' selected ' : '')+'>'+(i+'_'+j)+'</option>';
+    }
+  }
+  document.getElementById('rtblist').onchange = function(){
+    window.location = '/reklama.html?' + (this.options[this.selectedIndex].innerHTML);
+  };
   document.getElementById('page_content').innerHTML = '';
   if(!addPageContent({}, {}, MSGS, PAGE)){
 //    if(urlParams().rel){ // ?rel
