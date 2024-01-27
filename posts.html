@@ -152,6 +152,7 @@
       '</p>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
+        if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
         var subj_i, root_i;
         SUBJ.map(function(sub,i){ if(tr(sub[0]) == pp[0]){ subj_i=i; root_i=sub[3]; return; } }); // filter by subj
         POSTS = [[subj_i,0,'README',0,root_i]].concat(POSTS); // +README page

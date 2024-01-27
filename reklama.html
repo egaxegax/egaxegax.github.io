@@ -56,21 +56,25 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
-    page.rtb = document.getElementById('rtblist').value||1;
+    page.rtb = page.qrtb.split('_');
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh_1">'+addLoader(i==0)+'</div>'+
       '<div id="yandex_rtb_'+(i+page.bottom)+'_1" class="bmarg1 mw mh_1"></div>';
-        addYaRTB_Block((i+page.bottom)+'_0', false, YA_RTB[page.rtb]);
-        addYaRTB_Block((i+page.bottom)+'_1', false, YA_RTB[page.rtb]);
+        addYaRTB_Block((i+page.bottom)+'_0', false, YA_RTB[page.rtb[0]]);
+        addYaRTB_Block((i+page.bottom)+'_1', false, YA_RTB[page.rtb[1]]);
        } else {
         document.getElementById('page_content').innerHTML += 
-      '<div id="block'+(i+page.bottom)+'" class="wrap">'+
-        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'</em></b></div>'+
+      '<div id="block'+(i+page.bottom)+'_0" class="wrap">'+
+        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'_0</em></b></div>'+
+      '</div>'+
+      '<div id="block'+(i+page.bottom)+'_1" class="wrap">'+
+        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'_1</em></b></div>'+
       '</div>';
        }
+       console.log('page.rtb',String(page.rtb));
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
@@ -83,15 +87,33 @@
 
   window.PAGE = { 
     per: 1,                  // blocks count
-    num: urlParams().page||0 // start num page 
+    num: urlParams().page||0,// start num page 
+    qrtb: '7_7'
   };
-  for(var k in window.YA_RTB){
-    document.getElementById('rtblist').innerHTML +=
-  '<option value="'+k+'"'+(k == 7 ? ' selected ' : '')+'>'+k+'</option>';
+  for(var i in window.YA_RTB){
+    for(var j in window.YA_RTB){
+      document.getElementById('rtblist').innerHTML +=
+    '<option value="'+(i+'_'+j)+'"'+((i+'_'+j) == '7_7' ? ' selected ' : '')+'>'+(i+'_'+j)+'</option>';
+    }
   }
   window.MSGS = [];
   for(var n=0; n<100; n++){
     window.MSGS.push( n );
+  }
+    //
+  for(var p in urlParams()){
+    var pp = p.split('/');
+    if(p == 'page' && urlParams().page){ // ?page
+      // skip paginate
+      document.title += ' - ' + urlParams().page;
+    }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
+      // skip ya.ru search
+    }else if(pp.length>0){ // ?subj
+      var opts = document.getElementById('rtblist').options;
+      for(var ii=0; ii<opts.length; ii++){
+        if(opts[ii].innerHTML == pp[0]) PAGE.qrtb = opts[ii].value;
+      }
+    }
   }
   document.getElementById('page_content').innerHTML = '';
   if(!addPageContent({}, {}, MSGS, PAGE)){
