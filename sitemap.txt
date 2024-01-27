@@ -2977,6 +2977,8 @@ https://egaxegax.github.io/foto/Природа/Утка в пруду в Пар�
 https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/posts.html
+https://egaxegax.github.io/posts.html?mesta_podmoskovya
+https://egaxegax.github.io/posts.html?mesta_podmoskovya/koledino
 https://egaxegax.github.io/posts.html?kinoroliki
 https://egaxegax.github.io/posts.html?kinoroliki/kultovyj_tanec_kriminalnoe_chtivo_1994
 https://egaxegax.github.io/posts.html?kinoroliki/derji_ritm_2006_tanec_tango
@@ -7620,7 +7622,6 @@ https://egaxegax.github.io/posts.html?igra_v_urban_terror/igra_urt_4
 https://egaxegax.github.io/posts.html?igra_v_urban_terror/igra_urt_4_vdvoem
 https://egaxegax.github.io/posts.html?primery_shell-scenariev
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/zapis_iso-obraza_na_fleshku
-https://egaxegax.github.io/posts.html?mesta_podmoskovya
 https://egaxegax.github.io/posts.html?mesta_podmoskovya/novoe_stupino
 https://egaxegax.github.io/posts.html?zametki_o_stranah
 https://egaxegax.github.io/posts.html?zametki_o_stranah/kanada
