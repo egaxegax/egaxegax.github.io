@@ -108,7 +108,7 @@
         if(page.titles.length==1){
           document.getElementById('page_content').innerHTML += 
         '<div id="yandex_rtb_R-A-2277013-'+YA_RTB['feed']+'" class="bmarg mw mh"></div>';
-          addYaRTB_Block(YA_RTB['feed']);
+          addYaRTB_Block('R-A-2277013-'+YA_RTB['feed'], false, YA_RTB['feed']);
         } else if(i==0){
           document.getElementById('page_content').innerHTML += 
         '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
