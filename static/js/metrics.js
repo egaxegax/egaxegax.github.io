@@ -55,9 +55,9 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:1, 2:2, 3:3, 4:9, 5:10, 6:11, 7:13, feed:6};
   window.YA_TMR = [];
-  window.addYaRTB_Block = function(blid,p_dark,rtbid){ 
+  window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
-      window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid});});
+      window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+(rtbid||blid), renderTo:'yandex_rtb_'+blid, type:typ});});
     }};
     while(YA_TMR.length) clearInterval(YA_TMR.pop());
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
