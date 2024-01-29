@@ -2,10 +2,15 @@
 // make metrics, counters, ads
 //
 if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
-{ // LiveInternet metrica
-  (function(d,s){if(d.getElementById('licntADF8'))d.getElementById('licntADF8').src='//counter.yadro.ru/hit?t45.12;r'+escape(d.referrer)+
-  ((typeof(s)=='undefined')?'':';s'+s.width+'*'+s.height+'*'+(s.colorDepth?s.colorDepth:s.pixelDepth))+';u'+escape(d.URL)+
-  ';h'+escape(d.title.substring(0,150))+';'+Math.random();})(document,screen);
+{ // Mail.ru metrica
+  (function (d,w,id) {
+    (w._tmr = w._tmr || []).push({id:'3210527',type:'pageView',start:(new Date()).getTime()});
+    if (d.getElementById(id)) return;
+    var ts = d.createElement('script'); ts.type = 'text/javascript'; ts.async = true; ts.id = id;
+    ts.src = '//top-fwz1.mail.ru/js/code.js';
+    var f = function(){var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
+  })(document, window, 'tmr-code');
 }
 { // Yandex metrica
   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments);};
@@ -17,6 +22,25 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
      accurateTrackBounce:true
    });
 }
+{ // Rambler top 100 counter
+  (function (w,d,c) {
+  (w[c] = w[c] || []).push(function() {
+      var options = {project:7715588};
+      try{w.top100Counter = new top100(options);} catch(e){}
+    });
+    var n = d.getElementsByTagName('script')[0],
+    s = d.createElement('script'),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 
+    (d.location.protocol == 'https:' ? 'https:' : 'http:') +
+    '//st.top100.ru/top100/top100.js';
+    if (w.opera == '[object Opera]') {
+      d.addEventListener('DOMContentLoaded', f, false);
+    } else { f(); }
+  })(window, document, '_top100q');
+}
 { // Google Analytics 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date();a=s.createElement(o),
@@ -24,25 +48,6 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-25857345-4', 'egaxegax.github.io');
   ga('send', 'pageview');
-}
-{ // Rambler top 100 counter
-//  (function (w, d, c) {
-//  (w[c] = w[c] || []).push(function() {
-//      var options = {project: 7715588};
-//      try{w.top100Counter = new top100(options);} catch(e){}
-//    });
-//    var n = d.getElementsByTagName('script')[0],
-//    s = d.createElement('script'),
-//    f = function () { n.parentNode.insertBefore(s, n); };
-//    s.type = 'text/javascript';
-//    s.async = true;
-//    s.src = 
-//    (d.location.protocol == 'https:' ? 'https:' : 'http:') +
-//    '//st.top100.ru/top100/top100.js';
-//    if (w.opera == '[object Opera]') {
-//      d.addEventListener('DOMContentLoaded', f, false);
-//    } else { f(); }
-//  })(window, document, '_top100q');
 }
 { // Google Adsense
 //  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];

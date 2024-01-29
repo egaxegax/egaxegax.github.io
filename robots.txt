@@ -6,6 +6,6 @@ Disallow: /posts/
 Disallow: /songs/
 Disallow: /vesti/
 Disallow: /reklama*.html
-Disallow: /search.html
+Disallow: /research.html
 sitemap: https://egaxegax.github.io/sitemap.txt
 sitemap: https://egaxegax.github.io/dbcartajs/sitemap.txt
