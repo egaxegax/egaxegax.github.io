@@ -15,4 +15,4 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 /**/
 img { max-width:100%; }
 code { white-space: pre-wrap; }
-.footer { font-size:small; color:#59a750; }
+.footer { font-size:small; font-style:italic; color:#777; }
