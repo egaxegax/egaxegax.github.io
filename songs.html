@@ -112,6 +112,7 @@
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
+  '<div id="yandex_rtb_ch'+(p.i)+'_0" class="bmarg mw_3 mh200"></div>'+
   '<div id="songcont" class="msgtext chords nowrap marg mw600">'+
     html+
   '</div>'+
@@ -119,8 +120,8 @@
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
+    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_0', false, YA_RTB[4]);
     if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[4]);
-//    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_2', false, YA_RTB[4]);
   }
   //
   // Add icons chords by jtab.js & rafael.js
@@ -181,7 +182,7 @@
             page.view == 'list' ? addList(r,p) : addLast(r,p);
         }
       });
-      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
+      if(window.addYaRTB_Block && (i==0 || page.view == 'list')){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_1"></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[4]);
