@@ -145,6 +145,7 @@
 * [Chris Isaak](Chris%20Isaak)
 * [Chris Rea](Chris%20Rea)
 * [Chuck Berry](Chuck%20Berry)
+* [Cinderrella](Cinderrella)
 * [Civ](Civ)
 * [Clapton Eric](Clapton%20Eric)
 * [Clash](Clash)

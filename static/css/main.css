@@ -44,9 +44,6 @@
 #page_content { min-height:300px; }
 #page_footer button { height:44px; width:44px; border:0; }
 #footer { width:100%; }
-#livecounter { text-align: right; }
-#yacounter { text-align: left; }
-#credits span { text-align: center; font-size: small; }
 /* body */
 body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; 
   background-color:#f1f1f1; color:#333; }
