@@ -121,7 +121,12 @@
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
     if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_0', false, YA_RTB[4]);
-    if(window.addYaRTB_Block) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[4]);
+    if(window.addYaRTB_Block) 
+      (new IntersectionObserver(function(es){
+        es.forEach((e)=>{
+          if(e.isIntersecting) addYaRTB_Block('ch'+p.i+'_1', false, YA_RTB[4]);
+        });
+      }, {threshold:0.5}).observe(document.getElementById('chordcont')));
   }
   //
   // Add icons chords by jtab.js & rafael.js
