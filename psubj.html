@@ -20,7 +20,7 @@
 <div id="root" class="main">
 <div id="header" class="main scroll">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_a.svg" onload="this.scrollIntoView()" alt="Заметки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" onload="this.scrollIntoView()" alt="Заметки"></a>
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
 <a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
@@ -41,7 +41,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<p class="mtext hspace">Выберите одну из тем статей </p>';
+'<p class="mtext hspace"><span id="pheader">Выберите одну из тем статей</span> </p>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addSubj(subj,i){
@@ -101,6 +101,8 @@
     subjects.sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
     window.SUBS = subjects;
     window.POSTS = TITLES;
+    document.getElementById('pheader').innerHTML =
+  'Выберите одну из <i><b>'+SUBS.length+'</b></i> тем статей';
     document.getElementById('page_content').innerHTML = '';
     addPageContent(SUBS, PAGE);
       // infinite scroll
