@@ -12,7 +12,7 @@ pre { background-color:#eee; color:#222; border-radius:2px; font-size:smaller; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#404040; color:#fff; }
 #root { background-color:#262626; color:#eee; }
-#header { background-color:transparent; border:0px solid #404040; border-top:0; }
+#header { background-color:#222; }
 #yearlist { color: #ffbc00; }
 /**/
 img { max-width:100%; }
