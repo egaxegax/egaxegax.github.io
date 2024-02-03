@@ -12,7 +12,6 @@ h3 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; color:#333; }
 #root { background:#eee; color:#333; }
-#header { background-color:#eaeaea; }
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 img.av { width:50px; height:auto; }
