@@ -1,9 +1,13 @@
 <!--2024-01-01 01:58:42-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=9CkE8pfJdkU target="_blank">
-  <img src="https://i.ytimg.com/vi/9CkE8pfJdkU/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/9CkE8pfJdkU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/9CkE8pfJdkU"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=9CkE8pfJdkU" target="_blank">OKAY NEGRO OKAY NEGRO OKAY NEGRO OKAY NEGRO</a><br>
   <i class="smaller2">djukic</i>

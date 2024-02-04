@@ -1,9 +1,13 @@
 <!--2024-01-20 00:55:23-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=XwkBh7WqtbE target="_blank">
-  <img src="https://i.ytimg.com/vi/XwkBh7WqtbE/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/XwkBh7WqtbE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/XwkBh7WqtbE"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=XwkBh7WqtbE" target="_blank">Metallica: Baltimore, MD Recap (May 10, 2017)</a><br>
   <i class="smaller2">Metallica</i>

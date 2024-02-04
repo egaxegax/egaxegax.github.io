@@ -1,9 +1,13 @@
 <!--2024-01-11 01:11:25-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=ZyFWekteaYY target="_blank">
-  <img src="https://i.ytimg.com/vi/ZyFWekteaYY/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/ZyFWekteaYY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/ZyFWekteaYY"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=ZyFWekteaYY" target="_blank">Godzilla vs. Kong 22 - Shin Godzilla-Biollante</a><br>
   <i class="smaller2">ASM</i>

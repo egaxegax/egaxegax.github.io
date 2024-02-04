@@ -1,9 +1,13 @@
 <!--2024-01-22 23:27:31-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=ypr18UmxOas target="_blank">
-  <img src="https://i.ytimg.com/vi/ypr18UmxOas/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/ypr18UmxOas/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/ypr18UmxOas"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=ypr18UmxOas" target="_blank">Garbage - I Think I'm Paranoid</a><br>
   <i class="smaller2">GarbageVEVO</i>

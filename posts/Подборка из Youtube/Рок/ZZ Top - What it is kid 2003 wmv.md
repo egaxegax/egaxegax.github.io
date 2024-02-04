@@ -1,9 +1,13 @@
 <!--2023-12-31 01:46:42-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=JaNbYDwFQ5I target="_blank">
-  <img src="https://i.ytimg.com/vi/JaNbYDwFQ5I/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/JaNbYDwFQ5I/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/JaNbYDwFQ5I"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=JaNbYDwFQ5I" target="_blank">ZZ Top - What it is, kid (2003).wmv</a><br>
   <i class="smaller2">19640112</i>

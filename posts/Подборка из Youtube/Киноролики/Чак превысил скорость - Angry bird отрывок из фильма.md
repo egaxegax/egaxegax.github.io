@@ -1,9 +1,13 @@
 <!--2024-01-19 01:01:52-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=78UC7gRQ3IY target="_blank">
-  <img src="https://i.ytimg.com/vi/78UC7gRQ3IY/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/78UC7gRQ3IY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/78UC7gRQ3IY"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=78UC7gRQ3IY" target="_blank">Чак превысил скорость - "Angry bird" отрывок из...</a><br>
   <i class="smaller2">KINO-OTRIVOK</i>

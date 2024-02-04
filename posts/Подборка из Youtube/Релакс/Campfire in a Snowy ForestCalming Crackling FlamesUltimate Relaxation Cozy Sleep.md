@@ -1,9 +1,13 @@
 <!--2024-01-14 01:04:00-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=8ONwR-I5Y9g target="_blank">
-  <img src="https://i.ytimg.com/vi/8ONwR-I5Y9g/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/8ONwR-I5Y9g/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/8ONwR-I5Y9g"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=8ONwR-I5Y9g" target="_blank">Campfire in a Snowy Forest❄️Calming Crackling...</a><br>
   <i class="smaller2">Relaxing Fire Sound</i>

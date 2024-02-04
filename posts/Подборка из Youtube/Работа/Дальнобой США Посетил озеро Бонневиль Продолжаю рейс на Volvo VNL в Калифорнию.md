@@ -1,9 +1,13 @@
 <!--2024-01-03 14:03:14-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=YkzjeKvPZ40 target="_blank">
-  <img src="https://i.ytimg.com/vi/YkzjeKvPZ40/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/YkzjeKvPZ40/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/YkzjeKvPZ40"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=YkzjeKvPZ40" target="_blank">Дальнобой США. Посетил озеро Бонневиль. Продолжаю...</a><br>
   <i class="smaller2">Дальнобой-Life David KAMAZ</i>

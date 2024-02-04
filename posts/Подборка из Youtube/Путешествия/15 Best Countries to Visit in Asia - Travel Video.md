@@ -1,9 +1,13 @@
 <!--2023-12-30 11:00:03-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=UWKhvzdnctY target="_blank">
-  <img src="https://i.ytimg.com/vi/UWKhvzdnctY/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/UWKhvzdnctY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/UWKhvzdnctY"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=UWKhvzdnctY" target="_blank">15 Best Countries to Visit in Asia - Travel Video</a><br>
   <i class="smaller2">touropia</i>

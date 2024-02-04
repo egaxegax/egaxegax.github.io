@@ -1,9 +1,13 @@
 <!--2024-01-20 00:55:23-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=Ah8ANbOhmgU target="_blank">
-  <img src="https://i.ytimg.com/vi/Ah8ANbOhmgU/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/Ah8ANbOhmgU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/Ah8ANbOhmgU"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=Ah8ANbOhmgU" target="_blank">Metallica: The Memory Remains (São Paulo, Brazil...</a><br>
   <i class="smaller2">Metallica</i>

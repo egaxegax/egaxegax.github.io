@@ -1,9 +1,13 @@
 <!--2024-01-20 00:55:23-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=ikI-wtaUakM target="_blank">
-  <img src="https://i.ytimg.com/vi/ikI-wtaUakM/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/ikI-wtaUakM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/ikI-wtaUakM"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=ikI-wtaUakM" target="_blank">Metallica: Battery (Pasadena, CA - July 29, 2017)</a><br>
   <i class="smaller2">Metallica</i>

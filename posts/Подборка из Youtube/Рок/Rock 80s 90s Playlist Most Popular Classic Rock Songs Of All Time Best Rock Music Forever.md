@@ -1,9 +1,13 @@
 <!--2023-12-31 01:43:27-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=A2pwMzEpRjg target="_blank">
-  <img src="https://i.ytimg.com/vi/A2pwMzEpRjg/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/A2pwMzEpRjg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/A2pwMzEpRjg"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=A2pwMzEpRjg" target="_blank">Rock 80s 90s Playlist | Most Popular Classic Rock...</a><br>
   <i class="smaller2">Classic Rock Music</i>

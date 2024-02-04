@@ -1,9 +1,13 @@
 <!--2024-01-22 23:27:31-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=yqrAPOZxgzU target="_blank">
-  <img src="https://i.ytimg.com/vi/yqrAPOZxgzU/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/yqrAPOZxgzU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/yqrAPOZxgzU"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=yqrAPOZxgzU" target="_blank">Sex Pistols - God Save The Queen</a><br>
   <i class="smaller2">SexPistolsVEVO</i>

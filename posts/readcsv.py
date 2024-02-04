@@ -46,7 +46,8 @@ for root, dirs, files in os.walk(path, topdown=False):
             if not skipheader:
               skipheader = 1
             elif skipheader:
-              href = 'https://www.youtube.com/watch?v='+row[0]
+              videoid = row[0]
+              href = 'https://www.youtube.com/watch?v='+videoid
               imurl = row[5]
               rdate = row[3]
               authr = row[2]
@@ -55,17 +56,21 @@ for root, dirs, files in os.walk(path, topdown=False):
               ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', time.localtime(ftime))
 
               text = """{ctime}
-<div>
+<div class="yb">
 <a class="nodecor" href={href} target="_blank">
-  <img src="{imurl}" class="yb" align="middle" alt="">
+  <img class="preview" src="{imurl}" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/{videoid}"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="{href}" target="_blank">{titl}</a><br>
   <i class="smaller2">{authr}</i>
 </div>
 </div>
-""".format(ctime=ctime, href=href, imurl=imurl, titl=tr_chars(titl, 50), authr=authr)
+""".format(ctime=ctime, href=href, imurl=imurl, videoid=videoid, titl=tr_chars(titl, 50), authr=authr)
 
               mtitl = tr_cut(titl)
               print(mtitl)

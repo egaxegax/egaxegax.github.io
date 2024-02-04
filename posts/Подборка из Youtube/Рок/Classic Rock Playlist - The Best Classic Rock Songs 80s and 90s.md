@@ -1,9 +1,13 @@
 <!--2023-12-31 01:43:27-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=EG9x2Qg9fP0 target="_blank">
-  <img src="https://i.ytimg.com/vi/EG9x2Qg9fP0/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/EG9x2Qg9fP0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/EG9x2Qg9fP0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=EG9x2Qg9fP0" target="_blank">Classic Rock Playlist - The Best Classic Rock Song...</a><br>
   <i class="smaller2">Classic Rock Music</i>

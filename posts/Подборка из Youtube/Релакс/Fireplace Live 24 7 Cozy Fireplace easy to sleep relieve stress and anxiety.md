@@ -1,9 +1,13 @@
 <!--2024-01-14 01:04:00-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=d3ttAsfNsl8 target="_blank">
-  <img src="https://i.ytimg.com/vi/d3ttAsfNsl8/hqdefault_live.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/d3ttAsfNsl8/hqdefault_live.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/d3ttAsfNsl8"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=d3ttAsfNsl8" target="_blank">Fireplace (Live 24/7) 🔥 🔥 🔥 Cozy Fireplace easy...</a><br>
   <i class="smaller2">Relaxing Fire Sound</i>

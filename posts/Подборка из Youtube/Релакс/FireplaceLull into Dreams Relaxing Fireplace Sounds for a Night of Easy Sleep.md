@@ -1,9 +1,13 @@
 <!--2024-01-14 01:04:00-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=dP4aV1Wr-mg target="_blank">
-  <img src="https://i.ytimg.com/vi/dP4aV1Wr-mg/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/dP4aV1Wr-mg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/dP4aV1Wr-mg"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=dP4aV1Wr-mg" target="_blank">Fireplace🔥Lull into Dreams 🔥 🔥 🔥 Relaxing Fireplac...</a><br>
   <i class="smaller2">Relaxing Fire Sound</i>

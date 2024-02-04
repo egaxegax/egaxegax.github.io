@@ -1,9 +1,13 @@
 <!--2023-12-31 01:43:27-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=9K4p6OwKMtI target="_blank">
-  <img src="https://i.ytimg.com/vi/9K4p6OwKMtI/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/9K4p6OwKMtI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/9K4p6OwKMtI"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=9K4p6OwKMtI" target="_blank">Best Sad Rock Songs Of All Time - Sad Rock Music...</a><br>
   <i class="smaller2">Classic Rock Music</i>

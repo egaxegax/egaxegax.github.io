@@ -1,9 +1,13 @@
 <!--2023-12-31 01:52:21-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=O6BOsupOW4E target="_blank">
-  <img src="https://i.ytimg.com/vi/O6BOsupOW4E/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/O6BOsupOW4E/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/O6BOsupOW4E"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=O6BOsupOW4E" target="_blank">SMASHING PUMPKINS - Bullet With Butterfly Wings</a><br>
   <i class="smaller2">MixedUpEverything</i>

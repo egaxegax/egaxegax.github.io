@@ -1,9 +1,13 @@
 <!--2023-12-31 12:00:10-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=DOhv72jFOxI target="_blank">
-  <img src="https://i.ytimg.com/vi/DOhv72jFOxI/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/DOhv72jFOxI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/DOhv72jFOxI"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=DOhv72jFOxI" target="_blank">Машина Времени - Он был старше её  (Official Video...</a><br>
   <i class="smaller2">Машина Времени</i>

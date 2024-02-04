@@ -1,9 +1,13 @@
 <!--2023-12-31 01:43:27-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=EkyE-eDYaCs target="_blank">
-  <img src="https://i.ytimg.com/vi/EkyE-eDYaCs/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/EkyE-eDYaCs/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/EkyE-eDYaCs"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=EkyE-eDYaCs" target="_blank">Classic Rock Combination List 🔸🔶 The Best Of...</a><br>
   <i class="smaller2">Classic Rock Music</i>

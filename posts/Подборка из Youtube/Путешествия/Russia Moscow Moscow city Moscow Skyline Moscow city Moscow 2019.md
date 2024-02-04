@@ -1,9 +1,13 @@
 <!--2024-01-16 00:25:47-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=oQHtXjBshlI target="_blank">
-  <img src="https://i.ytimg.com/vi/oQHtXjBshlI/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/oQHtXjBshlI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/oQHtXjBshlI"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=oQHtXjBshlI" target="_blank">Russia Moscow, Moscow city, Moscow Skyline,...</a><br>
   <i class="smaller2">PN World City</i>

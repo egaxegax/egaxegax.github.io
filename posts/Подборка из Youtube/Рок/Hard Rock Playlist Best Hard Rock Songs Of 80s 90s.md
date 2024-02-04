@@ -1,9 +1,13 @@
 <!--2023-12-31 01:44:51-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=jkpOJ_ACzWI target="_blank">
-  <img src="https://i.ytimg.com/vi/jkpOJ_ACzWI/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/jkpOJ_ACzWI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/jkpOJ_ACzWI"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=jkpOJ_ACzWI" target="_blank">Hard Rock Playlist | Best Hard Rock Songs Of 80s...</a><br>
   <i class="smaller2">Classic Rock Music</i>

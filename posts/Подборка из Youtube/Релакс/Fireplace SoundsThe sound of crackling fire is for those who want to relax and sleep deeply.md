@@ -1,9 +1,13 @@
 <!--2024-01-14 01:04:00-->
-<div>
+<div class="yb">
 <a class="nodecor" href=https://www.youtube.com/watch?v=1NZ5guikLHY target="_blank">
-  <img src="https://i.ytimg.com/vi/1NZ5guikLHY/hqdefault.jpg" class="yb" align="middle" alt="">
+  <img class="preview" src="https://i.ytimg.com/vi/1NZ5guikLHY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
+<iframe class="embed" align="middle" src="https://www.youtube.com/embed/1NZ5guikLHY"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 <div class="inlbl">
   <a class="nodecor" href="https://www.youtube.com/watch?v=1NZ5guikLHY" target="_blank">Fireplace Sounds🔥The sound of crackling fire is fo...</a><br>
   <i class="smaller2">Relaxing Fire Sound</i>
