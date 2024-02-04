@@ -34,7 +34,7 @@ img { max-width:100%; border-radius:2px; }
 .mb {padding-bottom:10px;}
 /* youtube playlist */
 .yb .preview { width:250px; border-radius:4%; }
-.yb .embed { display:none; width:330px; height:200px; border:0; border-radius:4%; }
+.yb .embed { display:none; border:0; border-radius:4%; }
 #post0 .yb .preview { display: none; }
 #post0 .yb .embed { display: inline; }
 /*ads*/
