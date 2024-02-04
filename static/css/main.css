@@ -39,8 +39,7 @@
 .main { margin:0px auto 0px auto; max-width:900px; }
 .loader { border:1px solid #ddd; }
 #root { min-height:100%; }
-#header { text-align:center; background-color:#fff; 
-  border-bottom:1px solid #dfdfdf; }
+#header { text-align:center; background-color:#404040; }
 #header img { width:90px; margin:0 2px; height:36px; color:transparent; }
 #page_content { min-height:300px; }
 #page_footer button { height:44px; width:44px; border:0; }
