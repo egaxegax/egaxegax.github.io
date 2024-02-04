@@ -72,7 +72,7 @@ My love is like a steam train
   ***A***  
 Rollin' down the tracks, yeah, yeah  
   
-*[Solo] (w/slide)*  
+*[Solo]* (w/slide)  
   
 ***Am   C   G   D   x2***  
 ***Em   C***  
