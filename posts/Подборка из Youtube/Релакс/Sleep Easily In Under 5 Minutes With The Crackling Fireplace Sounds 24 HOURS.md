@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ZEfmJ_EA-dg target="_blank">
+<a class="nodecor" href=/posts.html?relaks/sleep_easily_in_under_5_minutes_with_the_crackling_fireplace_sounds_24_hours target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ZEfmJ_EA-dg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

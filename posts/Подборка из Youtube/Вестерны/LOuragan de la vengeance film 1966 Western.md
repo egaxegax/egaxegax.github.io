@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Ft7CJMd2uHw target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/louragan_de_la_vengeance_film_1966_western target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Ft7CJMd2uHw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=FgQ57Gv7W7k target="_blank">
+<a class="nodecor" href=/posts.html?rok/rob_kirks_doodle_when_doves_cry_minneapolis_mn_-_september_4_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/FgQ57Gv7W7k/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

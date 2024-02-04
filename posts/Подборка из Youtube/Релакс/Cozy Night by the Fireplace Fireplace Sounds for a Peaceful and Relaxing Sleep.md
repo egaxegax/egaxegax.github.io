@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Z40KLAdMsEM target="_blank">
+<a class="nodecor" href=/posts.html?relaks/cozy_night_by_the_fireplace_fireplace_sounds_for_a_peaceful_and_relaxing_sleep target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Z40KLAdMsEM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

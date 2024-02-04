@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=zD-kZ64FaKE target="_blank">
+<a class="nodecor" href=/posts.html?rok/70s_80s_and_90s_classic_rock_classic_rock_greatest_hits_playlist target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/zD-kZ64FaKE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

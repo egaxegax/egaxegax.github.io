@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ypr18UmxOas target="_blank">
+<a class="nodecor" href=/posts.html?rok/garbage_-_i_think_im_paranoid target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ypr18UmxOas/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

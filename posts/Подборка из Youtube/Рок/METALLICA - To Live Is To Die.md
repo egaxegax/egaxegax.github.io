@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=5QDdJCsZXmQ target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_-_to_live_is_to_die target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/5QDdJCsZXmQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

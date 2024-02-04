@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=IlhPGMxNMlk target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/neskolko_dollarov_dlya_django_pochi_dollari_per_django_vesterny_polnyj_film_na_russkom_yazyke target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/IlhPGMxNMlk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

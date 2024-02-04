@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=eTLPzEe1jIU target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/worcester_massachusetts_hoods target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/eTLPzEe1jIU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:44:51-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=nGbhCKiTcZE target="_blank">
+<a class="nodecor" href=/posts.html?rok/rock_music_mix_combine_rock_music_70s_80s_and_90s_rock_music_collection target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/nGbhCKiTcZE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

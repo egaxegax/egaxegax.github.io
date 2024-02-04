@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=v3RQ6x9qD8w target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/akvarium_-_poezd_v_ogne_official_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/v3RQ6x9qD8w/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=xXhGrOoeOgk target="_blank">
+<a class="nodecor" href=/posts.html?rok/red_hot_chili_peppers_-_breaking_the_girl target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/xXhGrOoeOgk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

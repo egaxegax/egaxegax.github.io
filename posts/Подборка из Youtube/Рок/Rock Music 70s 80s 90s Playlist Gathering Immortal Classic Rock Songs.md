@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=k7w3LdkhPpY target="_blank">
+<a class="nodecor" href=/posts.html?rok/rock_music_70s_80s_90s_playlist_gathering_immortal_classic_rock_songs target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/k7w3LdkhPpY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

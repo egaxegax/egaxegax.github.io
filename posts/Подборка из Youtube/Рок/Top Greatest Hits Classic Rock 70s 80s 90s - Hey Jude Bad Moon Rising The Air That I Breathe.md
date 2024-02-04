@@ -1,6 +1,6 @@
 <!--2023-12-31 01:42:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=7Dm9e9sC1uw target="_blank">
+<a class="nodecor" href=/posts.html?rok/top_greatest_hits_classic_rock_70s_80s_90s_-_hey_jude_bad_moon_rising_the_air_that_i_breathe target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/7Dm9e9sC1uw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

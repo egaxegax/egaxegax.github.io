@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=TewAUQh1zMQ target="_blank">
+<a class="nodecor" href=/posts.html?rok/the_offspring_-_kick_him_when_hes_down target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/TewAUQh1zMQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

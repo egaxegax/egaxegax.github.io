@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=VUR7HdWuxQM target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/na_neskolko_dollarov_bolshe_klint_istvud_v_filme_serdjio_leone_hd target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/VUR7HdWuxQM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

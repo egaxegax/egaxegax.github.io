@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=gmgzKyeB2ss target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_-_im_bad_im_nationwide target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/gmgzKyeB2ss/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

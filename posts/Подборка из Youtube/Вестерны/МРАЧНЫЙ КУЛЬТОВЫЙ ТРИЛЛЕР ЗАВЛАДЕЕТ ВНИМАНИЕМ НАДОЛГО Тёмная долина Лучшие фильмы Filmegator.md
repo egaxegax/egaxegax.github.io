@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=tLwkRHG4vo4 target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/mrachnyj_kultovyj_triller_zavladeet_vnimaniem_nadolgo_temnaya_dolina_luchshie_filmy_filmegator target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/tLwkRHG4vo4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

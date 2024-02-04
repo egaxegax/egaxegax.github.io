@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=uCHJehIe2Po target="_blank">
+<a class="nodecor" href=/posts.html?rabota/david_dalnoboj_po_ssha_amerika_nemnogo_o_sebe_i_pokraska_spalnika_painting_sleeper target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/uCHJehIe2Po/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

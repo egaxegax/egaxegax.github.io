@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=dySjEQij2Rc target="_blank">
+<a class="nodecor" href=/posts.html?rok/playlist_new_rock_2022_music_-_the_best_new_rock_music_for_young_people target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/dySjEQij2Rc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

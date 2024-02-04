@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:58-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=fwWX9JbIxFw target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_dirty_deeds_done_dirt_cheap_joe_louis_arena_detroit_mi_november_1983 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/fwWX9JbIxFw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

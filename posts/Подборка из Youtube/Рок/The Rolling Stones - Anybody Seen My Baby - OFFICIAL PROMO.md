@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=BinwuzZVjnE target="_blank">
+<a class="nodecor" href=/posts.html?rok/the_rolling_stones_-_anybody_seen_my_baby_-_official_promo target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/BinwuzZVjnE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

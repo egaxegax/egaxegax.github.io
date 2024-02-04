@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=rot9xVWcdwc target="_blank">
+<a class="nodecor" href=/posts.html?rok/greatest_1980s_1990s_hard_rock_songs_strong_rock_music target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/rot9xVWcdwc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

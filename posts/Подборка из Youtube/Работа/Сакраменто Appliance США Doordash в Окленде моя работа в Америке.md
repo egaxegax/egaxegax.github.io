@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=FKDDgBfDh6Q target="_blank">
+<a class="nodecor" href=/posts.html?rabota/sakramento_appliance_ssha_doordash_v_oklende_moya_rabota_v_amerike target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/FKDDgBfDh6Q/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

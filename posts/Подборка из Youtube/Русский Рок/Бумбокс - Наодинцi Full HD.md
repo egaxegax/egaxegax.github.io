@@ -1,6 +1,6 @@
 <!--2024-01-20 01:23:22-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=7ont6PDBXPs target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/bumboks_-_naodinci_full_hd target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/7ont6PDBXPs/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

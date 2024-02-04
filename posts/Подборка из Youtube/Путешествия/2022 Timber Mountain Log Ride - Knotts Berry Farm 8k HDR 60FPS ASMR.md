@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=8-RqRCZ-FP8 target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/2022_timber_mountain_log_ride_-_knotts_berry_farm_8k_hdr_60fps_asmr target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/8-RqRCZ-FP8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

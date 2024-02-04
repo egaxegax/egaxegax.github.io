@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ioB6hLiIX-w target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/driving_california_8k_hdr_dolby_vision_-_santa_barbara_to_morro_bay target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ioB6hLiIX-w/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

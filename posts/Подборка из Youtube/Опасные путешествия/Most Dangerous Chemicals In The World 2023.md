@@ -1,6 +1,6 @@
 <!--2024-01-02 11:31:54-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Am6pKPumb-I target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/most_dangerous_chemicals_in_the_world_2023 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Am6pKPumb-I/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

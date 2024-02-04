@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=qH7i-BUQJ4E target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_-_nothing_else_matters target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/qH7i-BUQJ4E/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

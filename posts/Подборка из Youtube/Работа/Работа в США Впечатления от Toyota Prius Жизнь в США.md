@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=kmHk7lsUsWI target="_blank">
+<a class="nodecor" href=/posts.html?rabota/rabota_v_ssha_vpechatleniya_ot_toyota_prius_jizn_v_ssha target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/kmHk7lsUsWI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

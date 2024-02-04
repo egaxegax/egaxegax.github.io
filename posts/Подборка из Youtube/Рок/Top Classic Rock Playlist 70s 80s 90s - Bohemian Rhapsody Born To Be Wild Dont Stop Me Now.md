@@ -1,6 +1,6 @@
 <!--2023-12-31 01:42:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=-A62qmXpXLA target="_blank">
+<a class="nodecor" href=/posts.html?rok/top_classic_rock_playlist_70s_80s_90s_-_bohemian_rhapsody_born_to_be_wild_dont_stop_me_now target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/-A62qmXpXLA/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

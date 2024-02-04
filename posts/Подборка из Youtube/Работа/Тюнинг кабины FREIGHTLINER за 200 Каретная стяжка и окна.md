@@ -1,6 +1,6 @@
 <!--2024-01-03 14:56:11-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=s-FU4Bq8Xiw target="_blank">
+<a class="nodecor" href=/posts.html?rabota/tjuning_kabiny_freightliner_za_200_karetnaya_styajka_i_okna target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/s-FU4Bq8Xiw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

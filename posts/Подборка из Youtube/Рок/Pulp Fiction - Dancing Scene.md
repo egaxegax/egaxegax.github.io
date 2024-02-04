@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Ik-RsDGPI5Y target="_blank">
+<a class="nodecor" href=/posts.html?rok/pulp_fiction_-_dancing_scene target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Ik-RsDGPI5Y/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

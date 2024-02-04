@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=7qLn3WRCoho target="_blank">
+<a class="nodecor" href=/posts.html?rok/r_e_m_-_losing_my_religion_video_original_hq_sub_english_spanish_on_off target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/7qLn3WRCoho/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

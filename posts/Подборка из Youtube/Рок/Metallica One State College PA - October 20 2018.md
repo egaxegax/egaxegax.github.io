@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=wOOhE_00Gq0 target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_one_state_college_pa_-_october_20_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/wOOhE_00Gq0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

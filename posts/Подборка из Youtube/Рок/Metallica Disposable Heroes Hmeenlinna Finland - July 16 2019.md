@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=TC-kqiIc5iQ target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_disposable_heroes_hmeenlinna_finland_-_july_16_2019 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/TC-kqiIc5iQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

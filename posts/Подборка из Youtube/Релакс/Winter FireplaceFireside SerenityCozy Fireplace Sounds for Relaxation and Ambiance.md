@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Glfb-Pwza-o target="_blank">
+<a class="nodecor" href=/posts.html?relaks/winter_fireplacefireside_serenitycozy_fireplace_sounds_for_relaxation_and_ambiance target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Glfb-Pwza-o/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

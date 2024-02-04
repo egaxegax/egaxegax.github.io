@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=tIhbS_z9n2U target="_blank">
+<a class="nodecor" href=/posts.html?rok/alice_in_chains_-_nutshell_in_south_tyrol target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/tIhbS_z9n2U/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

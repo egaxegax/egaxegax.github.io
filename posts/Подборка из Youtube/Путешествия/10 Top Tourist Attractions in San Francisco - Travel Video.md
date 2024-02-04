@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:32-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=HDZ8Rvr_fR4 target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/10_top_tourist_attractions_in_san_francisco_-_travel_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/HDZ8Rvr_fR4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

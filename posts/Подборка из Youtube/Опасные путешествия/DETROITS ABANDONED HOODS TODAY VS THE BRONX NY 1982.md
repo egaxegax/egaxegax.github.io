@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=tF0Xw2cC_cU target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/detroits_abandoned_hoods_today_vs_the_bronx_ny_1982 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/tF0Xw2cC_cU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=oyyZwW54w6o target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/vestern_s_djonom_uejn_dikij_zapad_colored_modify target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/oyyZwW54w6o/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

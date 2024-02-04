@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=A1czVqogyU0 target="_blank">
+<a class="nodecor" href=/posts.html?rok/beastie_boys_-_you_gotta_fight_for_your_right_to_party target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/A1czVqogyU0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

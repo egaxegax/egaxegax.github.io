@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=HaGOR5Rd04A target="_blank">
+<a class="nodecor" href=/posts.html?rok/concert_priv_de_metallica_-_le_live_du_19_11_-_canal target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/HaGOR5Rd04A/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

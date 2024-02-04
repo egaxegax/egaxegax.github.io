@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Q_j5Kc2Eg34 target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_halo_on_fire_so_paulo_brazil_-_march_25_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Q_j5Kc2Eg34/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

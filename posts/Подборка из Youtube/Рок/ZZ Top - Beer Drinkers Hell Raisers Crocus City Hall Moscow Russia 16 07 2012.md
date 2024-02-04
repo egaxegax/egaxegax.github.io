@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Y_Zd2PmK8CQ target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_-_beer_drinkers_hell_raisers_crocus_city_hall_moscow_russia_16_07_2012 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Y_Zd2PmK8CQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

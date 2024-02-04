@@ -1,11 +1,16 @@
 #!python3
 #
-# YouTube playlist CSV files (from https://jolantahuba.github.io/YT-Backup/) reader. 
+# Parse YouTube playlist CSV files (from https://jolantahuba.github.io/YT-Backup/) to .md. 
 #
-# python3 ../../readcsv.py <dir_with_csv_playlist> ( run from dir where .md will be created )
+# python3 ../../readcsv.py <dir_with_csv_playlist> ( run from dir where .md will be create )
 #
 
 import os, sys, time, re, csv
+
+sys.path.insert(0, '../../..')
+
+from update import TR
+from update import main as update_main
 
 path = '.'
 if len(sys.argv) > 1:
@@ -54,10 +59,11 @@ for root, dirs, files in os.walk(path, topdown=False):
               titl = row[1]
               ftime = os.path.getmtime(os.path.join(root, name))
               ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', time.localtime(ftime))
-
+              mtitl = tr_cut(titl)
+              phref = '/posts.html?'+ TR(os.path.basename(os.getcwd())) +'/'+ TR(mtitl)
               text = """{ctime}
 <div class="yb">
-<a class="nodecor" href={href} target="_blank">
+<a class="nodecor" href={phref} target="_blank">
   <img class="preview" src="{imurl}" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -70,14 +76,12 @@ for root, dirs, files in os.walk(path, topdown=False):
   <i class="smaller2">{authr}</i>
 </div>
 </div>
-""".format(ctime=ctime, href=href, imurl=imurl, videoid=videoid, titl=tr_chars(titl, 50), authr=authr)
+""".format(ctime=ctime, phref=phref, href=href, imurl=imurl, videoid=videoid, titl=tr_chars(titl, 50), authr=authr)
 
-              mtitl = tr_cut(titl)
               print(mtitl)
-
               open(mtitl + '.md', 'w', encoding='utf-8', newline='\n').write(text)
               fcount += 1
 
 if fcount:
-  import subprocess
-  subprocess.Popen(['python', '../update.py'], cwd='../..')
+  update_main(os.path.dirname(__file__))
+  

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=EucTFme1Cl4 target="_blank">
+<a class="nodecor" href=/posts.html?rok/the_best_of_classic_rock_christmas_2023_best_christmas_songs_and_happy_new_year target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/EucTFme1Cl4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=-5oXNpqBAPw target="_blank">
+<a class="nodecor" href=/posts.html?rabota/las_vegas_rabota_v_ssha_moving_jizn_v_ssha target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/-5oXNpqBAPw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

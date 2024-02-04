@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:32-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=hRpxiDCZj8E target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/23_most_beautiful_caribbean_islands_-_travel_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/hRpxiDCZj8E/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

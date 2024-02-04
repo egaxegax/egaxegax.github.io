@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=VCdWd2ECPZs target="_blank">
+<a class="nodecor" href=/posts.html?relaks/the_best_instrumental_christmas_music_with_fire_soundsmerry_christmas_2023christmas_fireplace target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/VCdWd2ECPZs/hqdefault_live.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

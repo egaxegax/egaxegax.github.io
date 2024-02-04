@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ydUGvomsuFw target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_fuel_orlando_fl_-_july_5_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ydUGvomsuFw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

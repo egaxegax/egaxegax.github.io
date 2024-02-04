@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=t7L5VgvQEXI target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_dreadmonboogaloo target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/t7L5VgvQEXI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

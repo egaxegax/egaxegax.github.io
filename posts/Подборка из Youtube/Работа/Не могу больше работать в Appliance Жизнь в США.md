@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=BffwRttbJwY target="_blank">
+<a class="nodecor" href=/posts.html?rabota/ne_mogu_bolshe_rabotat_v_appliance_jizn_v_ssha target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/BffwRttbJwY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

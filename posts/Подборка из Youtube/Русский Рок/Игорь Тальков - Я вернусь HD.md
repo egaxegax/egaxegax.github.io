@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=DFtOELd5pEI target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/igor_talkov_-_ya_vernus_hd target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/DFtOELd5pEI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

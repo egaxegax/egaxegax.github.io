@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Q6ieeMulvvs target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/wilmington_delaware_bennett_st_hood_-_the_most_dangerous_hood_in_wilmington target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Q6ieeMulvvs/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

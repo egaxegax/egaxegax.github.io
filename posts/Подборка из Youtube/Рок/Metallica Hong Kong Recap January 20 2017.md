@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=MPXGeLL9p_4 target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_hong_kong_recap_january_20_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/MPXGeLL9p_4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

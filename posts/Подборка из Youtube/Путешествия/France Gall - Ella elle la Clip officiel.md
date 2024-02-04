@@ -1,6 +1,6 @@
 <!--2024-01-03 12:12:35-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=lgHGU8gqz9U target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/france_gall_-_ella_elle_la_clip_officiel target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/lgHGU8gqz9U/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

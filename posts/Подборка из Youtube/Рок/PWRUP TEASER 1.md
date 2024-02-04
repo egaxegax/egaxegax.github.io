@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=iKOlC8hNMZA target="_blank">
+<a class="nodecor" href=/posts.html?rok/pwrup_teaser_1 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/iKOlC8hNMZA/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

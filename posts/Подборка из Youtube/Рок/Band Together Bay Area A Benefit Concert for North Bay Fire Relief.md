@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=NlbNjQPzPPc target="_blank">
+<a class="nodecor" href=/posts.html?rok/band_together_bay_area_a_benefit_concert_for_north_bay_fire_relief target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/NlbNjQPzPPc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

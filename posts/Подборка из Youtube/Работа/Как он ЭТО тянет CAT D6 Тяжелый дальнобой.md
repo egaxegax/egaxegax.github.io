@@ -1,6 +1,6 @@
 <!--2024-01-03 14:56:11-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=XBGuetyXtYw target="_blank">
+<a class="nodecor" href=/posts.html?rabota/kak_on_eto_tyanet_cat_d6_tyajelyj_dalnoboj target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/XBGuetyXtYw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

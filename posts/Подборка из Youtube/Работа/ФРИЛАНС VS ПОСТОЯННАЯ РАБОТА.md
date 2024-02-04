@@ -1,6 +1,6 @@
 <!--2024-01-13 01:57:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=KaRr5IX7J5U target="_blank">
+<a class="nodecor" href=/posts.html?rabota/frilans_vs_postoyannaya_rabota target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/KaRr5IX7J5U/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

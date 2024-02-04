@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=O4PmcP9ecE4 target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/50_best_places_to_visit_in_europe_-_travel_guide target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/O4PmcP9ecE4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

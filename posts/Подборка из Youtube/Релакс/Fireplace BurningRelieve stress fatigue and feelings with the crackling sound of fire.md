@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=csVlpB0gcaY target="_blank">
+<a class="nodecor" href=/posts.html?relaks/fireplace_burningrelieve_stress_fatigue_and_feelings_with_the_crackling_sound_of_fire target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/csVlpB0gcaY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

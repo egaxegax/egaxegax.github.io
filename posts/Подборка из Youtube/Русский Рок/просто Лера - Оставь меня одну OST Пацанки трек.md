@@ -1,6 +1,6 @@
 <!--2024-01-20 01:23:22-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=qG5pWQFRt3A target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/prosto_lera_-_ostav_menya_odnu_ost_pacanki_trek target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/qG5pWQFRt3A/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

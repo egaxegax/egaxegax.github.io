@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=0J2QdDbelmY target="_blank">
+<a class="nodecor" href=/posts.html?rok/the_white_stripes_-_seven_nation_army_official_music_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/0J2QdDbelmY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

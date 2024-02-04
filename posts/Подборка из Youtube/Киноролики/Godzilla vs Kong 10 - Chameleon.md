@@ -1,6 +1,6 @@
 <!--2024-01-11 01:11:25-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=0jLCXs8hX0c target="_blank">
+<a class="nodecor" href=/posts.html?kinoroliki/godzilla_vs_kong_10_-_chameleon target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/0jLCXs8hX0c/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

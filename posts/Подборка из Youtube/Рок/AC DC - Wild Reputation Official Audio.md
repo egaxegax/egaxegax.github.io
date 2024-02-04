@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=PZE89NFYb04 target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_wild_reputation_official_audio target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/PZE89NFYb04/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

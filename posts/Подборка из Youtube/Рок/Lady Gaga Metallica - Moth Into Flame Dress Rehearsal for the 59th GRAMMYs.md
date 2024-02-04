@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=pdxyVnJMg64 target="_blank">
+<a class="nodecor" href=/posts.html?rok/lady_gaga_metallica_-_moth_into_flame_dress_rehearsal_for_the_59th_grammys target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/pdxyVnJMg64/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

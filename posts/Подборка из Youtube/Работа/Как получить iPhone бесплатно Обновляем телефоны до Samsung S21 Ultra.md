@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=x9rAqOyuBSQ target="_blank">
+<a class="nodecor" href=/posts.html?rabota/kak_poluchit_iphone_besplatno_obnovlyaem_telefony_do_samsung_s21_ultra target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/x9rAqOyuBSQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

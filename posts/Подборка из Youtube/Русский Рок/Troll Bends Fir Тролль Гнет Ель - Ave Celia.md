@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=DHKA-5bKpOY target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/troll_bends_fir_troll_gnet_el_-_ave_celia target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/DHKA-5bKpOY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

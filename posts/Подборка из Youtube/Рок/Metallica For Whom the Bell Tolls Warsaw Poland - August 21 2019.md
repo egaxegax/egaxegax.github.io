@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=t3XMZo1cOEI target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_for_whom_the_bell_tolls_warsaw_poland_-_august_21_2019 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/t3XMZo1cOEI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

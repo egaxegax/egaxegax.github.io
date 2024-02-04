@@ -1,6 +1,6 @@
 <!--2023-12-31 01:44:51-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Z7UZUH_Hhtg target="_blank">
+<a class="nodecor" href=/posts.html?rok/classic_rock_70s_80s_90s_classic_rock_greatest_hits_playlist target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Z7UZUH_Hhtg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

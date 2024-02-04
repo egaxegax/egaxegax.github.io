@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=-5kzSjiD7v4 target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_helpless_paris_france_-_september_10_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/-5kzSjiD7v4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

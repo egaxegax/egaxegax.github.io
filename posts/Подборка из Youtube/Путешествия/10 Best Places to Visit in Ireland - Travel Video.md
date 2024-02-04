@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=MZO4B1RZU5g target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/10_best_places_to_visit_in_ireland_-_travel_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/MZO4B1RZU5g/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

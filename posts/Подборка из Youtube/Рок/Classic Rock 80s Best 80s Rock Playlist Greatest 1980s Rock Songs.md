@@ -1,6 +1,6 @@
 <!--2023-12-31 01:44:51-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=edeSYmweIzY target="_blank">
+<a class="nodecor" href=/posts.html?rok/classic_rock_80s_best_80s_rock_playlist_greatest_1980s_rock_songs target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/edeSYmweIzY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

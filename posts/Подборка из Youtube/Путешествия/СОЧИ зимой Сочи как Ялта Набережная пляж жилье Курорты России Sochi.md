@@ -1,6 +1,6 @@
 <!--2024-01-16 00:27:43-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=qZW3ZOjFph4 target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/sochi_zimoj_sochi_kak_yalta_naberejnaya_plyaj_jile_kurorty_rossii_sochi target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/qZW3ZOjFph4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

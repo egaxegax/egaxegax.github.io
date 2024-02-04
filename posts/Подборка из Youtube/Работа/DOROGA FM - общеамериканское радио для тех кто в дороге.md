@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Vc65ebZbvHo target="_blank">
+<a class="nodecor" href=/posts.html?rabota/doroga_fm_-_obshcheamerikanskoe_radio_dlya_teh_kto_v_doroge target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Vc65ebZbvHo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=FZyXG9SV794 target="_blank">
+<a class="nodecor" href=/posts.html?rabota/portland_oregon_jizn_v_ssha_puteshestvie_po_amerike_chast_1 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/FZyXG9SV794/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

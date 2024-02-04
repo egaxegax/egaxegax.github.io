@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=jV2UrqF34eQ target="_blank">
+<a class="nodecor" href=/posts.html?rabota/dalnoboj_po_ssha_amerika_rejs_v_washington_dc_chast_2 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/jV2UrqF34eQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=OZt-ejbwurg target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_-_stackin_paper target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/OZt-ejbwurg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=DOhv72jFOxI target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/mashina_vremeni_-_on_byl_starshe_ee_official_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/DOhv72jFOxI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

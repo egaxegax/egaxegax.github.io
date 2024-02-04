@@ -1,6 +1,6 @@
 <!--2024-01-02 11:31:54-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=HIdwxTz-2xQ target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/most_devastating_earthquakes_in_modern_history target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/HIdwxTz-2xQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

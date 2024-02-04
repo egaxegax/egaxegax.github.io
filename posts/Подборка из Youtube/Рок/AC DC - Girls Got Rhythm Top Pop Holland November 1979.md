@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:30-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=pvl6yuwbHnM target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_girls_got_rhythm_top_pop_holland_november_1979 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/pvl6yuwbHnM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

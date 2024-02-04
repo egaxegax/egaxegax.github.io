@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:32-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=_gWGwPp09CA target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/10_best_places_to_visit_in_mexico_-_travel_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/_gWGwPp09CA/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

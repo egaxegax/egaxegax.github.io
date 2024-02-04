@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=itfA_bXPJT4 target="_blank">
+<a class="nodecor" href=/posts.html?rabota/gorod_djungli_bass_pro_shops_rabota_dalnobojshchikom_v_amerike target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/itfA_bXPJT4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

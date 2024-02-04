@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:32-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=GjZtXni8Tl0 target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_let_there_be_rock_plaza_de_toros_de_las_ventas_july_1996 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/GjZtXni8Tl0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

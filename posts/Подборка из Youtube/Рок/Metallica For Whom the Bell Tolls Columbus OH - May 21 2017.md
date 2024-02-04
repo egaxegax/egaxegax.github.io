@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=1DOti4wZbYY target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_for_whom_the_bell_tolls_columbus_oh_-_may_21_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/1DOti4wZbYY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

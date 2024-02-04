@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:30-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=L658Klkmk-o target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_rock_and_roll_aint_noise_pollution_entertainment_center_sydney_november_1996 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/L658Klkmk-o/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

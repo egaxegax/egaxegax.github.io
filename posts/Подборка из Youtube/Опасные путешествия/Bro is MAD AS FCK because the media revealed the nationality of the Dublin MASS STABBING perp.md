@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=7B_MjxUGCcE target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/bro_is_mad_as_fck_because_the_media_revealed_the_nationality_of_the_dublin_mass_stabbing_perp target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/7B_MjxUGCcE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

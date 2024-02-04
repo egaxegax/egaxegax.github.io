@@ -1,6 +1,6 @@
 <!--2024-01-11 01:11:25-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=2u7x3wlz70Q target="_blank">
+<a class="nodecor" href=/posts.html?kinoroliki/godzilla_vs_kong_15_-_king_ghidorah target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/2u7x3wlz70Q/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

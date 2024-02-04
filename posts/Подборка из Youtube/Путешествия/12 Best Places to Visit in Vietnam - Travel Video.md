@@ -1,6 +1,6 @@
 <!--2023-12-30 11:00:03-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=wO5hfqSUocE target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/12_best_places_to_visit_in_vietnam_-_travel_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/wO5hfqSUocE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

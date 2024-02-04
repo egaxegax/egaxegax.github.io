@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=-VuHCcCQ4OU target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/chattanooga_tennessee_hoods target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/-VuHCcCQ4OU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

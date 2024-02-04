@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=u8HZKPhStFc target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/kovboi_protiv_prisheltcev_2011_d_bdrip_x264_potroks target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/u8HZKPhStFc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

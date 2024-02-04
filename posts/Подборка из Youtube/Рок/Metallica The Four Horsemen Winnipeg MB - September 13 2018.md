@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=NyKpj2wuw3w target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_the_four_horsemen_winnipeg_mb_-_september_13_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/NyKpj2wuw3w/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

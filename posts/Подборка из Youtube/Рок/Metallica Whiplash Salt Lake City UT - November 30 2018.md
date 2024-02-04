@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=XWYKWe1G3nY target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_whiplash_salt_lake_city_ut_-_november_30_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/XWYKWe1G3nY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

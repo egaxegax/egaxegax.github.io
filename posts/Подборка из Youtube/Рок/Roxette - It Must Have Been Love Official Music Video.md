@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=k2C5TjS2sh4 target="_blank">
+<a class="nodecor" href=/posts.html?rok/roxette_-_it_must_have_been_love_official_music_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/k2C5TjS2sh4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

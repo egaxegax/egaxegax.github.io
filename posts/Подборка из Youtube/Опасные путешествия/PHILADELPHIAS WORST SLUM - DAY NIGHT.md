@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=hsh8rRXUU6M target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/philadelphias_worst_slum_-_day_night target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/hsh8rRXUU6M/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=NmfkFMPaRyE target="_blank">
+<a class="nodecor" href=/posts.html?rabota/2024_us_citizenship_mock_interview_n-400_interview_simulation target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/NmfkFMPaRyE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=pxx-vgB6CZs target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_fight_fire_with_fire_indianapolis_in_-_march_11_2019 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/pxx-vgB6CZs/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

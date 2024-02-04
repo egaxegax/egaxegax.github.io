@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=g8t37uDV4EM target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_creeping_death_madrid_spain_-_february_5_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/g8t37uDV4EM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

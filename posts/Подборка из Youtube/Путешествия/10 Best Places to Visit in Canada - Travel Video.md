@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:32-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=BHdIQy00_p4 target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/10_best_places_to_visit_in_canada_-_travel_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/BHdIQy00_p4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

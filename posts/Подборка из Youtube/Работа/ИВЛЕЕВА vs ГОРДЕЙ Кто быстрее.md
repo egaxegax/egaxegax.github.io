@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=f_sCpRM87so target="_blank">
+<a class="nodecor" href=/posts.html?rabota/ivleeva_vs_gordej_kto_bystree target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/f_sCpRM87so/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

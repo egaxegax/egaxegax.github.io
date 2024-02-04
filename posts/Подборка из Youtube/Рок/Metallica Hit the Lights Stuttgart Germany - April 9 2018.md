@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=xTborkLd8uw target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_hit_the_lights_stuttgart_germany_-_april_9_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/xTborkLd8uw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

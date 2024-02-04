@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=DZOya5g_Vgo target="_blank">
+<a class="nodecor" href=/posts.html?rabota/zavod_shelby_v_ssha_gruzim_tachki_v_las_vegase_remont_trejlera_dalnoboj_po_ssha_-_bolshoj_vypusk target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/DZOya5g_Vgo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

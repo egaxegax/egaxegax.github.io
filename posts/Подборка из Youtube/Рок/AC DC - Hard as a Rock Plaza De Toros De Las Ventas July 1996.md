@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:32-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=zVkgWeLznUo target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_hard_as_a_rock_plaza_de_toros_de_las_ventas_july_1996 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/zVkgWeLznUo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

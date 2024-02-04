@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=bm117uI96lE target="_blank">
+<a class="nodecor" href=/posts.html?rok/the_unforgiven_edmonton_alberta_-_august_16_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/bm117uI96lE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

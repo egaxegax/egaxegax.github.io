@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=cEinKw8M1Qg target="_blank">
+<a class="nodecor" href=/posts.html?rok/classic_rock_ideal_graetes_classic_rock_songs_70s_80s_and_90s target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/cEinKw8M1Qg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

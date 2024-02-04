@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=iJNQKO5mTKk target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_now_that_were_dead_austin_tx_-_october_6_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/iJNQKO5mTKk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

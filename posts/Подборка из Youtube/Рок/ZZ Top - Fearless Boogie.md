@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=yX74qjH4XOk target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_-_fearless_boogie target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/yX74qjH4XOk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

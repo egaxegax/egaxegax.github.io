@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=RxOuXfgMrKg target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_poke_chop_sandwich target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/RxOuXfgMrKg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

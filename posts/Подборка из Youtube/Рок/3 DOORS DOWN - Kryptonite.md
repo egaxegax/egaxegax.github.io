@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=I9MeuqrqkBM target="_blank">
+<a class="nodecor" href=/posts.html?rok/3_doors_down_-_kryptonite target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/I9MeuqrqkBM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

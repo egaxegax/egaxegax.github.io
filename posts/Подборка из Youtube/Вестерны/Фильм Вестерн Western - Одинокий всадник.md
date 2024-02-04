@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=qW0B_0NMYyI target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/film_vestern_western_-_odinokij_vsadnik target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/qW0B_0NMYyI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

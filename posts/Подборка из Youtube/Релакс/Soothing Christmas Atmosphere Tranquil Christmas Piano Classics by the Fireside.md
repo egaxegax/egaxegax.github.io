@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=gyHforcvUlI target="_blank">
+<a class="nodecor" href=/posts.html?relaks/soothing_christmas_atmosphere_tranquil_christmas_piano_classics_by_the_fireside target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/gyHforcvUlI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

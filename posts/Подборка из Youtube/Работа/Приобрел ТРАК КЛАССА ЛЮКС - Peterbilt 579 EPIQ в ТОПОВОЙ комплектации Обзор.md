@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=4B34jiuYi44 target="_blank">
+<a class="nodecor" href=/posts.html?rabota/priobrel_trak_klassa_ljuks_-_peterbilt_579_epiq_v_topovoj_komplektacii_obzor target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/4B34jiuYi44/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

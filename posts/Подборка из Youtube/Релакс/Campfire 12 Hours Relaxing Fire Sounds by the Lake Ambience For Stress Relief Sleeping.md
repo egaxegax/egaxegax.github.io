@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=oXP_p0vsVd8 target="_blank">
+<a class="nodecor" href=/posts.html?relaks/campfire_12_hours_relaxing_fire_sounds_by_the_lake_ambience_for_stress_relief_sleeping target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/oXP_p0vsVd8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

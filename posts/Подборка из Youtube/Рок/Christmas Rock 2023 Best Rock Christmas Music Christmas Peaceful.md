@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ThJhBwCLa4k target="_blank">
+<a class="nodecor" href=/posts.html?rok/christmas_rock_2023_best_rock_christmas_music_christmas_peaceful target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ThJhBwCLa4k/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

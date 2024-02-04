@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=eP22xkmQ7pM target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_-_whiskey_in_the_jar_acoustic target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/eP22xkmQ7pM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

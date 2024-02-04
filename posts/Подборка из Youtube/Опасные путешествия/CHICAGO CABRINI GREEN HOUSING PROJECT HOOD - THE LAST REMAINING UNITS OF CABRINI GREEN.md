@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=jY4wmqIA2-I target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/chicago_cabrini_green_housing_project_hood_-_the_last_remaining_units_of_cabrini_green target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/jY4wmqIA2-I/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

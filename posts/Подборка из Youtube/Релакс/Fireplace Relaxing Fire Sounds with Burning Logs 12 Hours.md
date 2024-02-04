@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Y1A_riIb-O8 target="_blank">
+<a class="nodecor" href=/posts.html?relaks/fireplace_relaxing_fire_sounds_with_burning_logs_12_hours target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Y1A_riIb-O8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:45:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=8K9f65ROEEo target="_blank">
+<a class="nodecor" href=/posts.html?rok/born_to_be_wild_shorts_viral_classicrock target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/8K9f65ROEEo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

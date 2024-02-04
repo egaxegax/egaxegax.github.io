@@ -1,6 +1,6 @@
 <!--2023-12-30 11:09:19-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=f5TlDwCs2Yw target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/luchshaya_doroga_v_mire_transfagarash_transfagarasan_rumyniya target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/f5TlDwCs2Yw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

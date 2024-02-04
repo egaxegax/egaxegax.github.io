@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=mV6Y1JjnZCg target="_blank">
+<a class="nodecor" href=/posts.html?rabota/kaliforniya_josemiti_ognennyj_vodopad_toyota_sienna_2021 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/mV6Y1JjnZCg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

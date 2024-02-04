@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=F-QD48LxgII target="_blank">
+<a class="nodecor" href=/posts.html?rok/green_day_-_macys_day_parade target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/F-QD48LxgII/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

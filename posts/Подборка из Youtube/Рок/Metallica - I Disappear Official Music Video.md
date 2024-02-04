@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ekZTW2r4vb4 target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_-_i_disappear_official_music_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ekZTW2r4vb4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

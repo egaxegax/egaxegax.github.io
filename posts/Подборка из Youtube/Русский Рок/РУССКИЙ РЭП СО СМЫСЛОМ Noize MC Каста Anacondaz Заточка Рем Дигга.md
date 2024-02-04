@@ -1,6 +1,6 @@
 <!--2024-01-20 01:24:59-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=CUWdo5LZujE target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/russkij_rep_so_smyslom_noize_mc_kasta_anacondaz_zatochka_rem_digga target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/CUWdo5LZujE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

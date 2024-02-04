@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=TecB0ZZu5eI target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/los_angeles_californias_skid_row_at_night target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/TecB0ZZu5eI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

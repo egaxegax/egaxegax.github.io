@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=rA-7P-T_kb0 target="_blank">
+<a class="nodecor" href=/posts.html?relaks/soothing_fireplace_music_calm_crackling_ambiance_with_piano_melodies_cozy_christmas_2023 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/rA-7P-T_kb0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

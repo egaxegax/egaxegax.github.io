@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=wcIjNMkA_ck target="_blank">
+<a class="nodecor" href=/posts.html?rabota/sakramento_rabota_appliance_repair_v_ssha_jizn_v_ssha target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/wcIjNMkA_ck/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=S7avtRYiRbA target="_blank">
+<a class="nodecor" href=/posts.html?relaks/fireplace_10_hourscelestial_hearth_serenity_10_hours_of_soothing_fireplace_ambiance target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/S7avtRYiRbA/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

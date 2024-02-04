@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=8ONwR-I5Y9g target="_blank">
+<a class="nodecor" href=/posts.html?relaks/campfire_in_a_snowy_forestcalming_crackling_flamesultimate_relaxation_cozy_sleep target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/8ONwR-I5Y9g/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

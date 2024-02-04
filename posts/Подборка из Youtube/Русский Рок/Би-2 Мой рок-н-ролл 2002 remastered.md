@@ -1,6 +1,6 @@
 <!--2024-01-20 01:23:22-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=8Qfb6G05oqo target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/bi-2_moj_rok-n-roll_2002_remastered target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/8Qfb6G05oqo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

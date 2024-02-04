@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=va9NM-Fnehk target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_-_marys_1994_-_lyrics_-_rare target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/va9NM-Fnehk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

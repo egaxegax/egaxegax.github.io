@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=C34sETwGCyg target="_blank">
+<a class="nodecor" href=/posts.html?rok/rock_music_playlist_the_most_famous_and_wonderful_rock_songs_of_all_time target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/C34sETwGCyg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=HZzbEr6MTqk target="_blank">
+<a class="nodecor" href=/posts.html?rabota/appliance_ssha_rojdestvo_na_okeane_jizn_v_amerike target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/HZzbEr6MTqk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=hWfsAyf8Bhk target="_blank">
+<a class="nodecor" href=/posts.html?rok/halo_on_fire_edmonton_alberta_-_august_16_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/hWfsAyf8Bhk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=xrQAY8yh-5I target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/dread_-_overthrone target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/xrQAY8yh-5I/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

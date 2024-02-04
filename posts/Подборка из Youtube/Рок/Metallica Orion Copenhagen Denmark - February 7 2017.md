@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=gatlf1Zuo1o target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_orion_copenhagen_denmark_-_february_7_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/gatlf1Zuo1o/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

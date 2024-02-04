@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:44-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=etAIpkdhU9Q target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_hells_bells_official_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/etAIpkdhU9Q/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=vabnZ9-ex7o target="_blank">
+<a class="nodecor" href=/posts.html?rok/nirvana_-_come_as_you_are_official_music_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/vabnZ9-ex7o/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

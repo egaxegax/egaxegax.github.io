@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=rUb0r1z9aiI target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_sad_but_true_minneapolis_mn_-_august_20_2016 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/rUb0r1z9aiI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

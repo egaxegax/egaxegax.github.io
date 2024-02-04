@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=RKYDgt6rBAc target="_blank">
+<a class="nodecor" href=/posts.html?rok/rob_kirks_doodle_dead_jail_or_rock_n_roll_w_michael_monroe_helsinki_-_may_9_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/RKYDgt6rBAc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

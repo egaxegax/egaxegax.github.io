@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:30-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=EexwySX2aKU target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_for_those_about_to_rock_we_salute_you_plaza_de_toros_de_las_ventas_july_1996 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/EexwySX2aKU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

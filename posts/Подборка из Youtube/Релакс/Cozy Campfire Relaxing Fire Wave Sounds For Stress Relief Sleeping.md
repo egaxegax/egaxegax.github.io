@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Qvvx8UpL0J8 target="_blank">
+<a class="nodecor" href=/posts.html?relaks/cozy_campfire_relaxing_fire_wave_sounds_for_stress_relief_sleeping target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Qvvx8UpL0J8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=fiQne9D4Lig target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_battery_atlanta_ga_-_july_9_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/fiQne9D4Lig/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

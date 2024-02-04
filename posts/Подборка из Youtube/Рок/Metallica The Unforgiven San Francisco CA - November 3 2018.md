@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=eZ_nVxG26-E target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_the_unforgiven_san_francisco_ca_-_november_3_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/eZ_nVxG26-E/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

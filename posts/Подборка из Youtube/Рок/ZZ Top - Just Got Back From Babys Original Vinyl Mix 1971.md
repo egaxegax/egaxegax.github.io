@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=rTBHlt2MRrA target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_-_just_got_back_from_babys_original_vinyl_mix_1971 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/rTBHlt2MRrA/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

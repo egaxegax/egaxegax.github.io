@@ -1,6 +1,6 @@
 <!--2023-12-31 01:42:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=lWDRM1mIP_Y target="_blank">
+<a class="nodecor" href=/posts.html?rok/classic_rock_classic_rock_greatest_hits_of_all_time_the_best_of_classic_rock target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/lWDRM1mIP_Y/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

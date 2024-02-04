@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=6rGuC3xDZhg target="_blank">
+<a class="nodecor" href=/posts.html?relaks/winter_fireplacecrackling_hearth_bliss_embrace_the_warmth_of_a_cozy_fireplace target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/6rGuC3xDZhg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

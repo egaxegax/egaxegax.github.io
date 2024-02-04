@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=an8wND8wxmc target="_blank">
+<a class="nodecor" href=/posts.html?rabota/rejs_na_kenworth_t680_-_kak_vedet_sebya_trak_koshmarnaya_razgruzka_v_brukline target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/an8wND8wxmc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

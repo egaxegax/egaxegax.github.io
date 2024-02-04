@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=rvg8X8YA7sE target="_blank">
+<a class="nodecor" href=/posts.html?rok/nickelback_-_hero target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/rvg8X8YA7sE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

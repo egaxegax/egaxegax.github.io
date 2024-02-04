@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=KzEI1sn_wS0 target="_blank">
+<a class="nodecor" href=/posts.html?rok/red_hot_chili_peppers_-_black_summer_acoustic target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/KzEI1sn_wS0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

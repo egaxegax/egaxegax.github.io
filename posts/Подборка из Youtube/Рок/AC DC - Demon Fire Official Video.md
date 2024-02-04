@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=WllOatNmBK4 target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_demon_fire_official_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/WllOatNmBK4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

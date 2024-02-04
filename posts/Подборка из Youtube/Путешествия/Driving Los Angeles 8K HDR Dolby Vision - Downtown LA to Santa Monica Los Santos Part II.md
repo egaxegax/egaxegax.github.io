@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=aZGX8a4vn-Q target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/driving_los_angeles_8k_hdr_dolby_vision_-_downtown_la_to_santa_monica_los_santos_part_ii target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/aZGX8a4vn-Q/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

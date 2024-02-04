@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=kwWZgtz6b9M target="_blank">
+<a class="nodecor" href=/posts.html?rok/pwrup_bts_4_-_angus_and_brian_on_realize target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/kwWZgtz6b9M/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

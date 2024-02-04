@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=PSNrHoZuCbo target="_blank">
+<a class="nodecor" href=/posts.html?rabota/problemnaya_amerikanskaya_klassika_na_avtovoze_v_ssha_masterskaya_porsche_v_nju-jorke target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/PSNrHoZuCbo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=hrB7ME9HWUc target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/krovavye_slezy_apachej_cry_blood_apache_-_film_vestern_1970 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/hrB7ME9HWUc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

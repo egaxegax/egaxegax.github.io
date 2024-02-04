@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=6D1_mkxmZ58 target="_blank">
+<a class="nodecor" href=/posts.html?rabota/bashka_ot_terex_27 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/6D1_mkxmZ58/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

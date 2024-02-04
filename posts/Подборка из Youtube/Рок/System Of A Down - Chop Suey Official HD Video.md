@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=CSvFpBOe8eY target="_blank">
+<a class="nodecor" href=/posts.html?rok/system_of_a_down_-_chop_suey_official_hd_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/CSvFpBOe8eY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

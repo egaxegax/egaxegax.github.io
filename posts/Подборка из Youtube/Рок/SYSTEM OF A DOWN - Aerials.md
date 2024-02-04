@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=LpFGjbdYU9k target="_blank">
+<a class="nodecor" href=/posts.html?rok/system_of_a_down_-_aerials target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/LpFGjbdYU9k/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

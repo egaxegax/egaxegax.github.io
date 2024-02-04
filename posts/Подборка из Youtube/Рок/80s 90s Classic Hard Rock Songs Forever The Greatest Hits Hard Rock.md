@@ -1,6 +1,6 @@
 <!--2023-12-31 01:45:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ApPDFsMdCcc target="_blank">
+<a class="nodecor" href=/posts.html?rok/80s_90s_classic_hard_rock_songs_forever_the_greatest_hits_hard_rock target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ApPDFsMdCcc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

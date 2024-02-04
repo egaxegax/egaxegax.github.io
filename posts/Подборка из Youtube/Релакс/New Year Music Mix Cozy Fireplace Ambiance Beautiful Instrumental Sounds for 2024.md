@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=7TQUp0rgHqQ target="_blank">
+<a class="nodecor" href=/posts.html?relaks/new_year_music_mix_cozy_fireplace_ambiance_beautiful_instrumental_sounds_for_2024 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/7TQUp0rgHqQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

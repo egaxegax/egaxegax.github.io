@@ -1,6 +1,6 @@
 <!--2023-12-31 01:45:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Io-9rQrgw70 target="_blank">
+<a class="nodecor" href=/posts.html?rok/classic_rock_collection_top_20_classic_rock_anthems_of_all_time_legendary_hits_collection target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Io-9rQrgw70/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

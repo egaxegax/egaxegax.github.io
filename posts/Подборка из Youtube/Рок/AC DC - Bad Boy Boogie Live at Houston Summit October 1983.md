@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:58-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=zECpYGm41O8 target="_blank">
+<a class="nodecor" href=/posts.html?rok/ac_dc_-_bad_boy_boogie_live_at_houston_summit_october_1983 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/zECpYGm41O8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

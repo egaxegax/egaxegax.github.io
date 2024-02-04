@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=GsPL2A-kGyk target="_blank">
+<a class="nodecor" href=/posts.html?rabota/kosyaki_i_problemy_novoj_volvo_vnl760_-_postoyanno_v_remonte_sbil_olenya target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/GsPL2A-kGyk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=DtFtEen7hDY target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_leper_messiah_prague_czechia_-_april_2_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/DtFtEen7hDY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

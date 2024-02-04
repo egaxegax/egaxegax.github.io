@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Mjigj4u4xBI target="_blank">
+<a class="nodecor" href=/posts.html?relaks/merry_christmas_melodiesclassical_piano_by_the_fireplace_for_a_beautiful_ambience target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Mjigj4u4xBI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

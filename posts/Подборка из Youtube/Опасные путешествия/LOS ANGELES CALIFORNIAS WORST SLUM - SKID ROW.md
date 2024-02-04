@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=v8JvVy4FawY target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/los_angeles_californias_worst_slum_-_skid_row target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/v8JvVy4FawY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

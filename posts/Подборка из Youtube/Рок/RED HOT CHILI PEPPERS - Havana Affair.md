@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=FMIFHeV0LVw target="_blank">
+<a class="nodecor" href=/posts.html?rok/red_hot_chili_peppers_-_havana_affair target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/FMIFHeV0LVw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

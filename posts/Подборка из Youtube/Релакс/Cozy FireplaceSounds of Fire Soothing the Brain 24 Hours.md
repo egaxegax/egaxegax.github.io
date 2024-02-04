@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=s56sXXxkbmo target="_blank">
+<a class="nodecor" href=/posts.html?relaks/cozy_fireplacesounds_of_fire_soothing_the_brain_24_hours target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/s56sXXxkbmo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=trI-VEQ8MEM target="_blank">
+<a class="nodecor" href=/posts.html?rok/sad_rock_songs_the_best_of_sad_rock_songs_sad_rock_greatest_hits target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/trI-VEQ8MEM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

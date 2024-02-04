@@ -1,10 +1,13 @@
 User-agent: *
 Allow: /
 Disallow: /books/
-Disallow: /foto/
 Disallow: /posts/
 Disallow: /songs/
 Disallow: /vesti/
 Disallow: /reklama*.html
-sitemap: https://egaxegax.github.io/sitemap.txt
+sitemap: https://egaxegax.github.io/books/sitemap.txt
+sitemap: https://egaxegax.github.io/foto/sitemap.txt
+sitemap: https://egaxegax.github.io/posts/sitemap.txt
+sitemap: https://egaxegax.github.io/songs/sitemap.txt
+sitemap: https://egaxegax.github.io/vesti/sitemap.txt
 sitemap: https://egaxegax.github.io/dbcartajs/sitemap.txt

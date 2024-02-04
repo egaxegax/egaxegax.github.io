@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=MtTDChGpXY8 target="_blank">
+<a class="nodecor" href=/posts.html?rok/the_beatles-let_it_be_music_video_1970_with_lyrics target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/MtTDChGpXY8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=3m5peDpAFVs target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/kino_-_poslednij_geroj_posledni_geroi_-_olimpijskij_1990 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/3m5peDpAFVs/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-16 00:25:47-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=oQHtXjBshlI target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/russia_moscow_moscow_city_moscow_skyline_moscow_city_moscow_2019 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/oQHtXjBshlI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=YCYgCQ7SNRI target="_blank">
+<a class="nodecor" href=/posts.html?rok/wherever_i_may_roam_edmonton_alberta_-_august_16_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/YCYgCQ7SNRI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

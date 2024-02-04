@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=J4LE4LGBvMY target="_blank">
+<a class="nodecor" href=/posts.html?rok/kenny_wayne_shepherd_-_blue_on_black target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/J4LE4LGBvMY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

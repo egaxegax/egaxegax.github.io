@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=32k_UbW0t7A target="_blank">
+<a class="nodecor" href=/posts.html?rok/top_20_classic_rock_songs_-_most_requested_pop_classic_rock_hits target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/32k_UbW0t7A/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

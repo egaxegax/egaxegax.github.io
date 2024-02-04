@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=517cnqSbROE target="_blank">
+<a class="nodecor" href=/posts.html?relaks/embrace_the_tranquility_of_the_fireplacethe_sound_of_a_burning_fire_for_relaxation_and_inner_peace target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/517cnqSbROE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

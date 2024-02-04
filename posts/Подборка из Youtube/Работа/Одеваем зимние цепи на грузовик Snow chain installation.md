@@ -1,6 +1,6 @@
 <!--2024-01-03 14:56:11-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=uw1kfq9Awh4 target="_blank">
+<a class="nodecor" href=/posts.html?rabota/odevaem_zimnie_cepi_na_gruzovik_snow_chain_installation target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/uw1kfq9Awh4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

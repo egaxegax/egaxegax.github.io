@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=vW38NpL5CXs target="_blank">
+<a class="nodecor" href=/posts.html?rok/goo_goo_dolls_-_iris target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/vW38NpL5CXs/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Xb9byurKB3E target="_blank">
+<a class="nodecor" href=/posts.html?rok/blink-182_-_whats_my_age_again target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Xb9byurKB3E/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

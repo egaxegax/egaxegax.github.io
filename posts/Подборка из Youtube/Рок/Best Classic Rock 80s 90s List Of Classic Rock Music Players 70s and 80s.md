@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=j9Y6ZxDlNlM target="_blank">
+<a class="nodecor" href=/posts.html?rok/best_classic_rock_80s_90s_list_of_classic_rock_music_players_70s_and_80s target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/j9Y6ZxDlNlM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

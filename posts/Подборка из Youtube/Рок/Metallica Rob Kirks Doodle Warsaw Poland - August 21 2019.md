@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=5sWTXNHZsBQ target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_rob_kirks_doodle_warsaw_poland_-_august_21_2019 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/5sWTXNHZsBQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

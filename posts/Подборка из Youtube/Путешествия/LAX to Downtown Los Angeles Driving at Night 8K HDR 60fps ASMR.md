@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=VE-7LZ1Ys5A target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/lax_to_downtown_los_angeles_driving_at_night_8k_hdr_60fps_asmr target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/VE-7LZ1Ys5A/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

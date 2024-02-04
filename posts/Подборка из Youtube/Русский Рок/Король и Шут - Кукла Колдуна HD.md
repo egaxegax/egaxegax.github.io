@@ -1,6 +1,6 @@
 <!--2024-01-20 01:23:22-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=Nj6aM9ljdQU target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/korol_i_shut_-_kukla_kolduna_hd target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/Nj6aM9ljdQU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

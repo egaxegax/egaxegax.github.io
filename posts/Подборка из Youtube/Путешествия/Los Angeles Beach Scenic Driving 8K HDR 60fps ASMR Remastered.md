@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=MmsB2L0uUfg target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/los_angeles_beach_scenic_driving_8k_hdr_60fps_asmr_remastered target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/MmsB2L0uUfg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

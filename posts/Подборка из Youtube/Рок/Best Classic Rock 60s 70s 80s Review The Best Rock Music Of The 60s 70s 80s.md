@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=jdyexs-1v8s target="_blank">
+<a class="nodecor" href=/posts.html?rok/best_classic_rock_60s_70s_80s_review_the_best_rock_music_of_the_60s_70s_80s target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/jdyexs-1v8s/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

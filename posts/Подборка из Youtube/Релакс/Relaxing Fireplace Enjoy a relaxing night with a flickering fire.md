@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=5HISnWhTiIU target="_blank">
+<a class="nodecor" href=/posts.html?relaks/relaxing_fireplace_enjoy_a_relaxing_night_with_a_flickering_fire target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/5HISnWhTiIU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=KwXkKDiNI4U target="_blank">
+<a class="nodecor" href=/posts.html?rok/zz_top_-_i_got_the_six target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/KwXkKDiNI4U/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

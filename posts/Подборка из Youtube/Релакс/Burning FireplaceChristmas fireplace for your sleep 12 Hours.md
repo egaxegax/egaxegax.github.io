@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=y0PLx_jejvg target="_blank">
+<a class="nodecor" href=/posts.html?relaks/burning_fireplacechristmas_fireplace_for_your_sleep_12_hours target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/y0PLx_jejvg/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

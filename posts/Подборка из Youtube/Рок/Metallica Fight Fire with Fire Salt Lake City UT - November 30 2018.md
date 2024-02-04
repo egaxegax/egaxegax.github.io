@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=gMuP3CgZ5L0 target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_fight_fire_with_fire_salt_lake_city_ut_-_november_30_2018 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/gMuP3CgZ5L0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

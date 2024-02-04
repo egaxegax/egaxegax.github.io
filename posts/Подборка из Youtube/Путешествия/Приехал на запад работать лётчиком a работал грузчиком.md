@@ -1,6 +1,6 @@
 <!--2024-01-03 12:12:35-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=yX_zbxtN7vc target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/priehal_na_zapad_rabotat_letchikom_a_rabotal_gruzchikom target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/yX_zbxtN7vc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

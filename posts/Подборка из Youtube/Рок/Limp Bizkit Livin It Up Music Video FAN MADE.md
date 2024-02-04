@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=QYeZcCg05q8 target="_blank">
+<a class="nodecor" href=/posts.html?rok/limp_bizkit_livin_it_up_music_video_fan_made target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/QYeZcCg05q8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

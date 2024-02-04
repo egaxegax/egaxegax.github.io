@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=-yvynaXYY1k target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_the_four_horsemen_house_of_vans_london_england_-_november_18_2016 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/-yvynaXYY1k/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

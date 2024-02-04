@@ -1,6 +1,6 @@
 <!--2024-01-20 01:23:22-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=FAPwIEWzqJE target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/shaman_-_ya_russkij_muzyka_i_slova_shaman target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/FAPwIEWzqJE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=buWK4MxH2zY target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/driving_pacific_coast_highway_in_8k_hdr_dolby_vision_-_long_beach_to_san_clemente target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/buWK4MxH2zY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

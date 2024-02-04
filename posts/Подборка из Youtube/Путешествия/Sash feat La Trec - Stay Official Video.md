@@ -1,6 +1,6 @@
 <!--2024-01-03 12:12:35-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=nrwi79HxaOw target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/sash_feat_la_trec_-_stay_official_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/nrwi79HxaOw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

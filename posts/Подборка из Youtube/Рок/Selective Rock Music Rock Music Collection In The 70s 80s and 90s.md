@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=G7r8Xs5uHcY target="_blank">
+<a class="nodecor" href=/posts.html?rok/selective_rock_music_rock_music_collection_in_the_70s_80s_and_90s target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/G7r8Xs5uHcY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

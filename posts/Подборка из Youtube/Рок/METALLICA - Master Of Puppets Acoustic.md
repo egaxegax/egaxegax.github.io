@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=rU8vkkN9jqA target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_-_master_of_puppets_acoustic target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/rU8vkkN9jqA/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

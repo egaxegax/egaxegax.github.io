@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=TNzZe7ZDEn4 target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/suuure_whatever_you_say target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/TNzZe7ZDEn4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

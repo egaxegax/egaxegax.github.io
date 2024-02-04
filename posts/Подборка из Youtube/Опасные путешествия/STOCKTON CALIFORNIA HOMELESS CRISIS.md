@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=vK3Exzexm2k target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/stockton_california_homeless_crisis target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/vK3Exzexm2k/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

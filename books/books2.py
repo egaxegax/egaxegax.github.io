@@ -1,6 +1,6 @@
 #!python3
 #
-# Extract .epub to .txt and .jpg files.
+# Extract .epub to .md and .jpg files.
 #
 # python books2.py <dir_with_epub_files>
 #

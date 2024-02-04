@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=e45TaTqS50Y target="_blank">
+<a class="nodecor" href=/posts.html?rabota/dalnoboj_amerika_rejs_iz_missisipi_v_vashington_gorod_sietle_krasivye_mesta target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/e45TaTqS50Y/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

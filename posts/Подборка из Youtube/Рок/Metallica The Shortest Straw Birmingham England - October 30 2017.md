@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ufunYSzW7o0 target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_the_shortest_straw_birmingham_england_-_october_30_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ufunYSzW7o0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

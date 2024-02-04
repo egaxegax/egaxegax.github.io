@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=-WZmySJPLhk target="_blank">
+<a class="nodecor" href=/posts.html?russkij_rok/premera_kalinov_most_-_fitilek_official_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/-WZmySJPLhk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

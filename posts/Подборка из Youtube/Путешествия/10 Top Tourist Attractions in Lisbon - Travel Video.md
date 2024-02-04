@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=KCgtPL1D6vM target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/10_top_tourist_attractions_in_lisbon_-_travel_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/KCgtPL1D6vM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

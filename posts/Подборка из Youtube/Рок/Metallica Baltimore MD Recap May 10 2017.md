@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=XwkBh7WqtbE target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_baltimore_md_recap_may_10_2017 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/XwkBh7WqtbE/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

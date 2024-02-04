@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=KDbRLqxlGqk target="_blank">
+<a class="nodecor" href=/posts.html?rabota/ceny_na_gruzy_i_remonty_v_ssha_sravnenie_trakov_-_kakoj_luchshe_kw_volvo_ili_freightliner target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/KDbRLqxlGqk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

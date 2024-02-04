@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=F6q4PpfcPnY target="_blank">
+<a class="nodecor" href=/posts.html?rok/led_zeppelin_-_whole_lotta_love_rough_mix_with_vocal_official_music_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/F6q4PpfcPnY/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

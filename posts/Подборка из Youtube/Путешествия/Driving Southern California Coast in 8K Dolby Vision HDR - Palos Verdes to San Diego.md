@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=u3_2gAuPjxM target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/driving_southern_california_coast_in_8k_dolby_vision_hdr_-_palos_verdes_to_san_diego target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/u3_2gAuPjxM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

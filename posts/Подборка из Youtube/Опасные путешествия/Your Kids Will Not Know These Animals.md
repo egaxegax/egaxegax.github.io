@@ -1,6 +1,6 @@
 <!--2024-01-02 11:31:54-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=pF3zTSp8Mwc target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/your_kids_will_not_know_these_animals target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/pF3zTSp8Mwc/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

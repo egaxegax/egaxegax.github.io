@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=qVsxOMUzeJk target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/i_drove_around_california_for_a_month_it_was_a_disaster target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/qVsxOMUzeJk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

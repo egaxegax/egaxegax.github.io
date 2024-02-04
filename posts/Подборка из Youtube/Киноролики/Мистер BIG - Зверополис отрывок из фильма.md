@@ -1,6 +1,6 @@
 <!--2024-01-19 01:01:52-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=pT2CZl3ekR4 target="_blank">
+<a class="nodecor" href=/posts.html?kinoroliki/mister_big_-_zveropolis_otryvok_iz_filma target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/pT2CZl3ekR4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

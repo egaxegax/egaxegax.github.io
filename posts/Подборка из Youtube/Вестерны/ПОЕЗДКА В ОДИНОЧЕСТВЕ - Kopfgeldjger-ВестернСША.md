@@ -1,6 +1,6 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=NjJA7Fk1EbI target="_blank">
+<a class="nodecor" href=/posts.html?vesterny/poezdka_v_odinochestve_-_kopfgeldjger-vesternssha target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/NjJA7Fk1EbI/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

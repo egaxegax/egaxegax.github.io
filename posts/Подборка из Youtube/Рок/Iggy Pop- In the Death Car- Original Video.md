@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=9_T4SjmIRVo target="_blank">
+<a class="nodecor" href=/posts.html?rok/iggy_pop-_in_the_death_car-_original_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/9_T4SjmIRVo/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

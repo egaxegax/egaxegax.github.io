@@ -1,6 +1,6 @@
 <!--2024-01-03 14:51:22-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=P_Tq6RHOikM target="_blank">
+<a class="nodecor" href=/posts.html?rabota/dalnoboj_po_ssha_bez_cdl_besplatno_smotrju_ameriku_luchshaya_rabota target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/P_Tq6RHOikM/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

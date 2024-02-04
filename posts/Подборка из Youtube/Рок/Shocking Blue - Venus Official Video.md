@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=aPEhQugz-Ew target="_blank">
+<a class="nodecor" href=/posts.html?rok/shocking_blue_-_venus_official_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/aPEhQugz-Ew/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

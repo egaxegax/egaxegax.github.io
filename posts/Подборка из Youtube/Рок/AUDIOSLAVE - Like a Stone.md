@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=pQngQaem2Ro target="_blank">
+<a class="nodecor" href=/posts.html?rok/audioslave_-_like_a_stone target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/pQngQaem2Ro/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

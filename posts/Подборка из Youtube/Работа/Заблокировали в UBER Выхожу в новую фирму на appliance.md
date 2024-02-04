@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ibjJo8nKAxU target="_blank">
+<a class="nodecor" href=/posts.html?rabota/zablokirovali_v_uber_vyhoju_v_novuju_firmu_na_appliance target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ibjJo8nKAxU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

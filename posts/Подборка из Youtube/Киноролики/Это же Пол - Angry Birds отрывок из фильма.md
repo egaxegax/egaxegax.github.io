@@ -1,6 +1,6 @@
 <!--2024-01-19 01:01:52-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=PvehtWd_rF0 target="_blank">
+<a class="nodecor" href=/posts.html?kinoroliki/eto_je_pol_-_angry_birds_otryvok_iz_filma target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/PvehtWd_rF0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=ZM0e1m9T9HQ target="_blank">
+<a class="nodecor" href=/posts.html?rok/the_man_who_sold_the_world_-_david_bowie_-_live_at_the_beeb target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/ZM0e1m9T9HQ/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

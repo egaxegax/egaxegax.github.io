@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=rn_YodiJO6k target="_blank">
+<a class="nodecor" href=/posts.html?rok/red_hot_chili_peppers_-_otherside_official_music_video target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/rn_YodiJO6k/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=QEXvc3OdrqU target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_now_that_were_dead_tartu_estonia_-_july_18_2019 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/QEXvc3OdrqU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

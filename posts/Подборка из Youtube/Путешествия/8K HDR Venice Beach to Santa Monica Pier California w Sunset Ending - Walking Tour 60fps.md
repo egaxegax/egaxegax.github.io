@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=scDplW9KMY4 target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/8k_hdr_venice_beach_to_santa_monica_pier_california_w_sunset_ending_-_walking_tour_60fps target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/scDplW9KMY4/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

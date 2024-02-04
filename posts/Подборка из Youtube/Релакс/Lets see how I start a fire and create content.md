@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=LrRphy1JNcw target="_blank">
+<a class="nodecor" href=/posts.html?relaks/lets_see_how_i_start_a_fire_and_create_content target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/LrRphy1JNcw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

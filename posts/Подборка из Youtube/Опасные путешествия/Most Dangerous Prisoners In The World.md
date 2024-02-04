@@ -1,6 +1,6 @@
 <!--2024-01-02 11:31:54-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=3vvl_DrfOv0 target="_blank">
+<a class="nodecor" href=/posts.html?opasnye_puteshestviya/most_dangerous_prisoners_in_the_world target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/3vvl_DrfOv0/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

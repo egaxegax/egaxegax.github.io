@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=LkU7oY5jksw target="_blank">
+<a class="nodecor" href=/posts.html?rok/metallica_nothing_else_matters_warsaw_poland_-_august_21_2019 target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/LkU7oY5jksw/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

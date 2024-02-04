@@ -1,6 +1,6 @@
 <!--2024-01-20 00:48:18-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=YRfl-D6a3Wk target="_blank">
+<a class="nodecor" href=/posts.html?puteshestviya/yakutiya_popali_v_avariju_v_-50c_na_lada_vesta_chudom_spaslis_nochuem_v_mashine target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/YRfl-D6a3Wk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;

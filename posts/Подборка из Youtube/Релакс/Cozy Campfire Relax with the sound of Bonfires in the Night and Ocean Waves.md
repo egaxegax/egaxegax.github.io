@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=https://www.youtube.com/watch?v=EDBwMO1cVek target="_blank">
+<a class="nodecor" href=/posts.html?relaks/cozy_campfire_relax_with_the_sound_of_bonfires_in_the_night_and_ocean_waves target="_blank">
   <img class="preview" src="https://i.ytimg.com/vi/EDBwMO1cVek/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
