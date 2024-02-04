@@ -169,7 +169,7 @@
           '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
             buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + ' &emsp; <a href="/psubj.html">Темы</a>'+
         '</p>';
-          document.title = POSTS[0][2]  + ' - ' + document.title;      
+          document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ' - ' + document.title;      
         }
       }else if(pp.length>0){ // ?subj
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by subj
