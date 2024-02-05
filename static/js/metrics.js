@@ -66,7 +66,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         es.forEach((e)=>{
           if(e.isIntersecting) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});
         });
-      }, {threshold:0.5}).observe(document.getElementById('yandex_rtb_'+blid)));
+      }, {threshold:0.8}).observe(document.getElementById('yandex_rtb_'+blid)));
     }};
     while(YA_TMR.length) clearInterval(YA_TMR.pop());
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
