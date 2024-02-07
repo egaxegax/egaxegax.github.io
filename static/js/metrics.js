@@ -19,7 +19,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    ym(65044687, 'init', {
      clickmap:true,
      trackLinks:true,
-     accurateTrackBounce:true
+     accurateTrackBounce:true,
+     webvisor:true
    });
 }
 { // Rambler top 100 counter
