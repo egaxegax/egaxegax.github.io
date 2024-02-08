@@ -2,13 +2,13 @@
 Crying In The Rain (4:24)  
   *(Howard Greenfield/Carole King)*  
   
-  ****Hm**** - [x04430]*  
+  ***Hm*** - [x04430]*  
   
   ***D     G     A      D***  
   I'll never let you see  
   ***D           G              A       D***  
   The way my broken heart is hurting me  
-  ***D           G           F#m          Hm-Hm****  
+  ***D           G           F#m          Hm-Hm***  
   I've got my pride and I know how to hide  
   ***G***  
   All the sorrow and pain  
@@ -18,7 +18,7 @@ Crying In The Rain (4:24)
   If I wait for cloudy skies  
   ***D                  G             A           D***  
   You won't know the rain from the tears in my eyes  
-  ***D            G           F#m      Hm-Hm****  
+  ***D            G           F#m      Hm-Hm***  
   You'll never know that I still love you  
     ***G***  
   So though the heartaches remain  

@@ -32,8 +32,8 @@
   
   *Проигрыш:*  
   *1ая партия - ***Em***, ***G***, ***Fm#***,*  
-  *2ая - ***Fm#***, ***Fm#7****  
-  *3-я – ***Fm#***, ***Fm#4***, ***Em****  
+  *2ая - ***Fm#***, ***Fm#7***  
+  *3-я – ***Fm#***, ***Fm#4***, ***Em***  
   
   Wenn ihr nicht schlafen konnt  
   Sei euch ein Lied vergonnt  

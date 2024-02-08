@@ -41,20 +41,20 @@ Bottle of Fur
   *chorus:*  
     ***Dm Am A#                   F***  
   Like a bottle of fur, missing the smell of her } x2  
-    ****Dm Am           A# A G# G*** (fill 1)*  
+    ***Dm Am           A# A G# G*** (fill 1)*  
   Bottle of fur, bottle of fur yeah  
   
   *verse 2:*  
   *(play intro line 3)*  
-    ****D                                  A#   A G# G*** (fill 1)*  
+    ***D                                  A#   A G# G*** (fill 1)*  
   If I was a king and ya danced for me like a genie  
     ***D                           C             G   G G# A A# C C# D***  
   Then you'd get back in your lamp leavin me here with the gold  
-  ****D                                                 A# A G# G*** (fill 1)*  
+  ***D                                                 A# A G# G*** (fill 1)*  
   Ooh bread of wickedness, both sides buttered with war  
-    ****D                                  C    G      G# A A#*** (fill 3)*  
+    ***D                                  C    G      G# A A#*** (fill 3)*  
   But your load ship brings it by to love and loss anymore  no more  
-  ****F***(hold and sustain)*  
+  ***F***(hold and sustain)*  
   Maybe she's giving me a second chance  
   *(acoustic)*  
   ***F C   F                 C            F C***  

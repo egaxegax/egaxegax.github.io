@@ -17,12 +17,12 @@ Sun King
   Here      come    the    sun         king  
   ***F                              D           F                          D***  
   Everybody's     laughing           Everybody's     happy  
-  ****C            Em                Gm7        F***         (notice the change)*  
+  ***C            Em                Gm7        F***         (notice the change)*  
   Here      come    the    sun         king  
   
   
-  ****A   E***      here they sing in Italian.*  
-  ****A   E***      understand me for not writing the words.*  
+  ***A   E***      here they sing in Italian.*  
+  ***A   E***      understand me for not writing the words.*  
   
 ----  
   

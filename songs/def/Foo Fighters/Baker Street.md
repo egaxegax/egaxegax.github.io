@@ -13,8 +13,8 @@ B-side of My Hero single (in UK)
   
   *Chords used:*  
      *EADGBe*  
-  ****Dm*** [xx0231]  or ***Dm7*** : [xx0211]*  
-  ****Am*** [x02210]  or ***Am7*** : [x02010]*  
+  ***Dm*** [xx0231]  or ***Dm7*** : [xx0211]*  
+  ***Am*** [x02210]  or ***Am7*** : [x02010]*  
   ***Em*** [022000]  
   ***G***  [355xxx]  
   ***A***  [577xxx]  

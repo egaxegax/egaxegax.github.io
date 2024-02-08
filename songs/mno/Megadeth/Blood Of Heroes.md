@@ -1,7 +1,7 @@
 <!--2020-09-05 12:52:45-->
 Blood Of Heroes  
   
-  ****Eb*** Tuning*  
+  ***Eb*** Tuning*  
   
   *Intro:*  
   *------                              (w.Fill 1 4th time)*  

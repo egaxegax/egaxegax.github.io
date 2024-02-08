@@ -15,5 +15,5 @@
   *Chorus:*  
   ***D       D7              A    G***  
   I wanna rock & roll all nite...'n' party every day  
-  ****D       D7              A    G***            (intro crds)*  
+  ***D       D7              A    G***            (intro crds)*  
   I wanna rock & roll all nite...'n' arty every day

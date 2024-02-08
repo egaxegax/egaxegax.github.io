@@ -34,5 +34,5 @@ When I Stop Dreaming
   
   *chorus3 same lyrics*  
   
-  *tips: for verse 2&3 may wanna replace that first ***D*** with another ***G****  
+  *tips: for verse 2&3 may wanna replace that first ***D*** with another ***G***  
     making it two Gs in a row .......ya know!

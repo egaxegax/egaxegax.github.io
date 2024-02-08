@@ -16,7 +16,7 @@ Verse 1: D. W. Washburn
   This is your lucky day  
      ***D                   A***  
   A hot bowl of soup is waiting  
-     ****D          A/C#        B7     E7***   (2: to coda)*  
+     ***D          A/C#        B7     E7***   (2: to coda)*  
   A hot bowl of soup and a shave  
   ***A     F#7***  
   D. W. Washburn  

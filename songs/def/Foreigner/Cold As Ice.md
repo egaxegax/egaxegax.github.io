@@ -39,7 +39,7 @@ Cold As Ice
   *repeat verse 1*  
   
   *riffs:*  
-  ****Em*** riff (h= hammer and hold; p= pull off)*  
+  ***Em*** riff (h= hammer and hold; p= pull off)*  
   [e---------------  
   b----------------  
   g----------------  
@@ -47,7 +47,7 @@ Cold As Ice
   a-------2--------  
   E---0(h)2---2(po)]  
   
-  ****C*** riff*  
+  ***C*** riff*  
   [e----------------  
   b----------------  
   g----------------  

@@ -31,4 +31,4 @@ My Fist Your Face
   *Riff A*  
   ***DAC#G#CG |_ X3***  
   *Riff A   |*  
-  ****E***  (Outro solo type thing)*
+  ***E***  (Outro solo type thing)*

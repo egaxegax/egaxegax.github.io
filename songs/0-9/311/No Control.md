@@ -99,4 +99,4 @@ E--1-1-1--1-1-2-2--3-3-3--4-4-4-4-------------------------------------------]
 *Play Riff 3 (x2) over:*  
 *Play Riff 2 (x2) over:*  
 *Play Riff 4 (x4) over:*  
-*Song ends on ***F5****
+*Song ends on ***F5***

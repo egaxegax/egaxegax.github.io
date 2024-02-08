@@ -54,13 +54,13 @@ Verse:  I found my place in nowhere,
   *Also mostly power chords and tuned down half a step.*  
   
 Chords used:     [E  A D  G B  e]  
-  ****A***:  [5  7 7  X X  X]*  
-  ****G***:  [3  5 5  X X  X]*  
-  ****D***:  [X  5 7  7 X  X]*  
-  ****E***:  [0  1 2  2 0  0]*  
+  ***A***:  [5  7 7  X X  X]*  
+  ***G***:  [3  5 5  X X  X]*  
+  ***D***:  [X  5 7  7 X  X]*  
+  ***E***:  [0  1 2  2 0  0]*  
     *Fast up tempo beat*  
   
-  *Intro, verses and bridge: ***A    G  D****  
+  *Intro, verses and bridge: ***A    G  D***  
   
 Verse1:  Sombody keep my balance  
   I think I'm falling off  
@@ -69,8 +69,8 @@ Verse1:  Sombody keep my balance
   Rapidly coming on  
   It's leaving behind a rank  
   
-  *Chorus: ***D           A    G D  A    G  D****  
-    ****D          E*** (these aren't met to match the words I put below)*  
+  *Chorus: ***D           A    G D  A    G  D***  
+    ***D          E*** (these aren't met to match the words I put below)*  
   Always go forward going straight will get you nowhere  
   There is no progress... Evolution killed it all I found my place in nowhere  
   
@@ -90,16 +90,16 @@ Verse2:  I'm taking one step sideways
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  
   *Chords:*  
-  ****A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
-  ****B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
-  ****C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
-  ****C#*** ([x466xx])*  
-  ****D***  ([x577xx])*  
-  ****D#*** ([x688xx])*  
-  ****E***  ([022xxx])*  
-  ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
+  ***A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
+  ***B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
+  ***C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
+  ***C#*** ([x466xx])*  
+  ***D***  ([x577xx])*  
+  ***D#*** ([x688xx])*  
+  ***E***  ([022xxx])*  
+  ***E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
     *that chord, but using only the ([0xxxxx])*  
-  ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
+  ***B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
 Intro/Verse: ***A, G, D***  
   

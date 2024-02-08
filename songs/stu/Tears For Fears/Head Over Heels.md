@@ -4,7 +4,7 @@ Songs From The Big Chair (1985)
   *(Roland Orzabal/Curt Smith)*  
   
   *Intro:*  
-  *First guitar (chords):  ***C                                        Dsus4****  
+  *First guitar (chords):  ***C                                        Dsus4***  
   *Second guitar (tab):*  
   [----------------------------------------------------------------------------------------------  
   ----------------------------------------------------------------------------------------------  

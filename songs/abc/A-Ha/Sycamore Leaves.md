@@ -7,7 +7,7 @@ Sycamore Leaves (5:22)
   
   ***Em                          Db***  
   Can't stop thinking 'bout it  
-  ***Em               Am* Hm****  
+  ***Em               Am* Hm***  
   It fills me with unease  
   ***Em                       A*-Db***  
   Out there by the roadside something's buried  

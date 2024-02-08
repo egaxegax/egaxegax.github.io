@@ -10,17 +10,17 @@ riff 1:  [e||-----------||
   
 Intro:  ***D***  
   
-    ****D***             riff 1*  
+    ***D***             riff 1*  
   It's a lonely man  
   ***G                  A            D***  
   Who wanders all around  
-  ****D***                      riff 1*  
+  ***D***                      riff 1*  
   It's a lonely man  
   ***G                       D          A***  
   Who roams from town to town  
   ***G***  
   Searchin', always searchin'  
-    ****D***                                  riff 1*  
+    ***D***                                  riff 1*  
   For something he can't find  
   ***G***  
   Hopin', always hopin'  

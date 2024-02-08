@@ -2,10 +2,10 @@
 Bleach (1989)  
   Downer  
   
-  *Verse: ***E5 C5****  
+  *Verse: ***E5 C5***  
   *Chorus: ***A5 A#5 B5 A#5*** play that 8x then:*  
-  ****E5 C5*** play that 4x then:*  
-  ****A5 A#5 E5***(7th fret) ***F5***(8th fret) play that 2x*  
+  ***E5 C5*** play that 4x then:*  
+  ***A5 A#5 E5***(7th fret) ***F5***(8th fret) play that 2x*  
   
 ----  
   

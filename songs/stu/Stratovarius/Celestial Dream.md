@@ -47,4 +47,4 @@ Chorus:  So lets break free from these chains.      
       ***Dm           G***  
   And in the end we'll all sing our celestial dream.  
   
-  ****C***    || end*
+  ***C***    || end*

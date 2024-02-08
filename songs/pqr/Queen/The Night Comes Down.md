@@ -5,7 +5,7 @@ Queen 1972
   *4:23*  
   
   *The real intro is some wild stuff around an ***Em*** that is well*  
-  *beyond my abilities. After enough ***Em*** improv it crashes into a ***B7****  
+  *beyond my abilities. After enough ***Em*** improv it crashes into a ***B7***  
   *(I think). Then the intro below. Most of the verse material is*  
   *light chops down (/).*  
   

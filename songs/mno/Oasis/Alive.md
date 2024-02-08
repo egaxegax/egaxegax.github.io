@@ -3,13 +3,13 @@ From the single "Shakermaker" on Sony
   Alive (8 Track Demo)  
   
 Chords used:        EADGBe  
-  ****Esus2*** ([x79977])*  
-  ****E5***    ([022xxx])*  
-  ****C#m***   ([x46654])*  
-  ****F#m***   ([244222])*  
-  ****A***     ([x02220])*  
-  ****A5***    ([x022xx])*  
-  ****B5***    ([x244xx])*  
+  ***Esus2*** ([x79977])*  
+  ***E5***    ([022xxx])*  
+  ***C#m***   ([x46654])*  
+  ***F#m***   ([244222])*  
+  ***A***     ([x02220])*  
+  ***A5***    ([x022xx])*  
+  ***B5***    ([x244xx])*  
   
   *Here's that little riff played along with the ***C#m*** chord in the intro and*  
   *verses:*  

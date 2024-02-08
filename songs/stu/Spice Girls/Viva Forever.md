@@ -3,13 +3,13 @@
   Viva Forever  
   
   *There are only four chords throughout the song.*  
-  ****Bbm*** should theoretically be ***Bb7***, but ***Bbm****  
+  ***Bbm*** should theoretically be ***Bb7***, but ***Bbm***  
   *sounds better to my ears. Use barre chords*  
   *instead of open position chords, it will make*  
   *it a lot easier. Here are the chords...*  
   
   *Chords:*  
-  ****D#m***, ***Bbm***, ***B***, ***F#***  
+  ***D#m***, ***Bbm***, ***B***, ***F#***  
   *That's it...just reapeat the chords...listen to the album*  
   *for the beat and the rhythm.*  
   *In case anyone is interested, the solo is in ***D#m***...using the Aeolian mode or*  

@@ -1,7 +1,7 @@
 <!--2020-09-05 12:50:21-->
 Mr. Songman  
   
-  *Intro: piano play with ***E B7 E****  
+  *Intro: piano play with ***E B7 E***  
   
   ***B7     E                           A***  
   Here's another dime for you, Mr. Songman  

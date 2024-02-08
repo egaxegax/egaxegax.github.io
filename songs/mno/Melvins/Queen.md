@@ -41,7 +41,7 @@ album "Stoner Witch"
   E -5-5--0-1-0-1-0--0-0-2-2-2-3-3-3-5--6--1-0-1-0-1-4---0-1-0-1-0------]  
   
   *For that bridge, I mess around in ***E*** and usually bend the shit out of an*  
-  ****E5*** at the seventh fret. That's all I can tell you for that one.*  
+  ***E5*** at the seventh fret. That's all I can tell you for that one.*  
   
   *. - palm mute*  
   *^ - bend*  

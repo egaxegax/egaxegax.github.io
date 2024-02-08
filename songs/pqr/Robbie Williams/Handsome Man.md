@@ -24,15 +24,15 @@ Handsome Man
   Tell your babes in arms and o.a.p's come and  
   ***G                A***  
   take a piece of me  
-  ***D     G*~F#m*~Em****  
+  ***D     G*~F#m*~Em***  
   If you drop me  
     ***Asus7***  
   'II fall to pieces on ya  
-  ***D                 G*~F#m*~Em****  
+  ***D                 G*~F#m*~Em***  
   If you don't see me  
   ***G           Asus7***  
   I don't exist  
-  ***D                    G*~F#m*~Em****  
+  ***D                    G*~F#m*~Em***  
   It's nice to meet you  
     ***Asus7  C***  
   Now let me go and wash my hands  

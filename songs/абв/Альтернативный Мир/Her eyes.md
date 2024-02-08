@@ -33,7 +33,7 @@
   You will desire  
   ***Hm      G           Em  A         Hm  G***  
   And I swear that I can find you once  
-         ****Em    A***        (***Hm G Em A***)*  
+         ***Em    A***        (***Hm G Em A***)*  
   And you'll be mine  
   
   ***Hm Em G A***  

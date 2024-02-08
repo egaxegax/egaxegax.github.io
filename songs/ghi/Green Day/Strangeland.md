@@ -3,13 +3,13 @@ Strangeland
   
   *Chords for Strangeland from Kerplunk*  
   */=Beat*  
-  ****C#*** for 40 /S*  
-  ****G#*** for 7 /S*  
+  ***C#*** for 40 /S*  
+  ***G#*** for 7 /S*  
   *(Repeat once)*  
-  ****F#*** for 4 /S*  
-  ****C#*** for 4 /S*  
-  ****F#*** for 4 /S*  
-  ****G#*** for 4 /S*  
+  ***F#*** for 4 /S*  
+  ***C#*** for 4 /S*  
+  ***F#*** for 4 /S*  
+  ***G#*** for 4 /S*  
   *Repeat once but the second time you play ***G#*** play it for 16 /S*  
   *Solo: (You only have to move your pinky for this one)*  
   ***C#***  
@@ -27,7 +27,7 @@ Strangeland
   --4--4--4--4--4--4--4--  
   --4--4--4--4--4--4--4--]  
   
-  ****G#*** FOR 7 /S*  
+  ***G#*** FOR 7 /S*  
   *(Repeat solo once)*  
   *End with ***G#*** for 16 /S*  
   

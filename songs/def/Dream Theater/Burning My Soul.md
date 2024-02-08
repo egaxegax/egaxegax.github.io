@@ -125,4 +125,4 @@
   *see above*  
   
   *CHORUS #3:*  
-  *repeat intro riff 6 times, then end with ***E5****
+  *repeat intro riff 6 times, then end with ***E5***

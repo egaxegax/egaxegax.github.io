@@ -2,7 +2,7 @@
 Sans Logique  
   *(Farmer-Boutonnat)*  
   
-  *Интpo x4: ***Fm  C****  
+  *Интpo x4: ***Fm  C***  
     ***Bbm C***  
   
   ***Fm            C          Bbm***  

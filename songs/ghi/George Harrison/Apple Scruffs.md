@@ -79,10 +79,10 @@ CHORUS:  Apple scruffs, Apple scruffs
   
   ***A E A E F#m7 E F#m7 E F#m7 E A E A ...***  
   
-  ****Bm7***:   [2 2 4 2 3 2]*  
-  ****F#m7***:  [2 4 2 2 2 2]*  
-  ****F#m6***:  [2 x 1 2 2 x]*  
-  ****F#dim***: [x x 1 2 1 2]*  
+  ***Bm7***:   [2 2 4 2 3 2]*  
+  ***F#m7***:  [2 4 2 2 2 2]*  
+  ***F#m6***:  [2 x 1 2 2 x]*  
+  ***F#dim***: [x x 1 2 1 2]*  
   
   *NOTE: Basically exactly the same as the previous posting, but a few*  
   *fancier versions of chords.*  

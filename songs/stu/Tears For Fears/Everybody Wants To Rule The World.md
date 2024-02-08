@@ -75,10 +75,10 @@ Intro:  4 times |***A/D G/D***- -| |
   *than previously posted (at least the key is right!)*  
   *Wherever it is written ***E*** minor, the band actually plays ***Emin9*** (a much*  
   *richer sounding chord). Also, the ***G*** in those verses are actually*  
-  ****Gmaj7***. Finally, the ***A*** which follows the ***G*** (actually ***Gmaj7***) is really*  
+  ***Gmaj7***. Finally, the ***A*** which follows the ***G*** (actually ***Gmaj7***) is really*  
   *an ***A6***, which is not surprising since the opening riff of the song is*  
   *a sixth arpeggio over the ***A***. No need to tune down either, since the*  
-  *bass string is played open on the ***Eminor9****  
+  *bass string is played open on the ***Eminor9***  
   
 ----  
   

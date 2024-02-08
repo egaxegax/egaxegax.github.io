@@ -428,7 +428,7 @@ Pre Chorus: But you know
   ***C#        Ab    Bb        F#m***  
   Keep Breathin' and never let me go  
   
-  *Hold ***F#m****  
+  *Hold ***F#m***  
   
   *This is my first, so be easy*  
   

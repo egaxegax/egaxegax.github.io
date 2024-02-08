@@ -18,11 +18,11 @@ Welcome
   E-|-3-5-3-5-3-----3-5-0-0-3-0-|]  
   
   *This starts out clean with a reggae feel, basically*  
-  ****Am  G***  back and forth, then pops in with distortion ***G  F****  
+  ***Am  G***  back and forth, then pops in with distortion ***G  F***  
   *Then repeat riff 1, every other time ending with ***F  E*** instead of the two 3's*  
   *then play riff 2 once, fill 1, and then the first half of riff 2.*  
   *At (1:50) it goes into*  
-  ****E G F#*** a few times then fill 2*  
+  ***E G F#*** a few times then fill 2*  
   *At the end it goes back into the reggae part.*  
   *NOTE and DISCLAIMER: I spent little time on Fill 1, which I believe is*  
   *two guitars or something.*  

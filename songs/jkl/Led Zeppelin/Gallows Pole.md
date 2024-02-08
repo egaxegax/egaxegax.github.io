@@ -68,19 +68,19 @@ riff:  [e--------------
   *riff*  
   Hangman, Hangman, hold it a little while  
   I think I see my friends a commin  
-  ****G       D***    riff*  
+  ***G       D***    riff*  
   ridin a many mile  
   Friends you get a little silver, get a little gold  
   what did you bring me, my dear friends  
-     ****G                D***       riff*  
+     ***G                D***       riff*  
   to keep me from the gallows pole  
   what did you bring me  
-     ****G                D***       riff*  
+     ***G                D***       riff*  
   to keep me from the gallows pole  
   I couldn't get no silver  
   couldn't get no gold  
   you know the way they took that ball  
-     ****G                D***       riff*  
+     ***G                D***       riff*  
   to keep you from the gallows pole  
   ***A     D G D       A         D      G***  
   Hangman, Hangman, hold it a little while  

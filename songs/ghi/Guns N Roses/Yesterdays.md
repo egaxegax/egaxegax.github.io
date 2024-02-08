@@ -30,7 +30,7 @@ Yesterdays
   Time just fades the pages in my book of memories.  
   *(Insert Verse 2)*  
   *Chorus (underline indicates drag out the word,*  
-    ****C5*** is just power chord on 3rd fret):*  
+    ***C5*** is just power chord on 3rd fret):*  
   ***A               B   C5                              G5***  
   Ooh,____________yesterday's________ got nothin' for me.__________  
   ***A               B   C5                              G5***  

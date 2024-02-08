@@ -26,7 +26,7 @@ Break:  ***C/G  D  G  Gmaj7  C/G  D  G***
   *Continue for last bit: "Lover dont turn your head etc..."*  
      ***Am Em C/G***  
   
-  ****Cdim5*** - [x34010]*  
+  ***Cdim5*** - [x34010]*  
   
 ----  
   

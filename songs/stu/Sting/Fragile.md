@@ -224,7 +224,7 @@
   *XhY - Play fret X and immediatly hammer-on to fret Y*  
   *XpY - Play fret X and immediatly pull-off to fret Y*  
   
-  *Note: Play parts II, III, V and VI using mostly ***Am*** ([002210]) and ***D7****  
+  *Note: Play parts II, III, V and VI using mostly ***Am*** ([002210]) and ***D7***  
     *([000212]) finger patterns to guide your left hand.*  
     *It is often easier to press some extra strings than pressing only*  
     *the ones you actually pick.*  

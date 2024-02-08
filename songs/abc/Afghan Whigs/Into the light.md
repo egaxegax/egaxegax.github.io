@@ -37,7 +37,7 @@
    Step into the light, Baby  
     ***Fill2            Em       C***  
    just give me the word, and I will begin  
-    ****Fill2         Em     C*** (keep strumming)*  
+    ***Fill2         Em     C*** (keep strumming)*  
    Step into the light, Baby  
    ***C***  
    And see the trouble i'm in  

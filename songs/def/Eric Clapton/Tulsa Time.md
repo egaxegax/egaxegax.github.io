@@ -2,7 +2,7 @@
 Tulsa Time  
   *(Eric Clapton)*  
   
-  *Chords of this song are: ***G*** and ***D****  
+  *Chords of this song are: ***G*** and ***D***  
   
   ***G***  
   Well I don't know who I am  

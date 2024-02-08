@@ -1,7 +1,7 @@
 <!--2020-09-05 03:15:51-->
 Knowledge  
   
-  ****D*** power chord                             ***C*** power chord*  
+  ***D*** power chord                             ***C*** power chord*  
     I know that things are getting tougher when you can't get the top off the  
   [e:x-----------------------------------------------x--------------------------|  
   B:x-----------------------------------------------x--------------------------|  
@@ -10,7 +10,7 @@ Knowledge
   A:5-----------------------------------------------3--------------------------|  
   E:x-----------------------------------------------x--------------------------|]  
   
-    ****G*** power chord*  
+    ***G*** power chord*  
     bottom of the barrel.  Wide open road of my future now... it's looking fuck  
   [e:x----------------------x---------------------------x------x----------------|  
   B:x----------------------x---------------------------x------x----------------|  
@@ -92,7 +92,7 @@ Knowledge
   *Tune down one whole step for this song ***D***, ***G***, ***C***, ***F***, ***A***, ***D***. Or to play in*  
   *standard tuning, play ,C>, ***Bb***, ***F*** and play the riff off of 3rd position.*  
   
-     ****D*** power chord                             ***C*** power chord*  
+     ***D*** power chord                             ***C*** power chord*  
     I know that things are getting tougher when you can't get the top off the  
   [e:x-----------------------------------------------x--------------------------|  
   B:x-----------------------------------------------x--------------------------|  
@@ -101,7 +101,7 @@ Knowledge
   A:5-----------------------------------------------3--------------------------|  
   E:x-----------------------------------------------x--------------------------|]  
   
-    ****G*** power chord*  
+    ***G*** power chord*  
     bottom of the barrel.  Wide open road of my future now... it's looking fuck  
   [e:x----------------------x---------------------------x------x----------------|  
   B:x----------------------x---------------------------x------x----------------|  

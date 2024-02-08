@@ -761,9 +761,9 @@ Verse 2: (***Bm***, ***A***, ***Em***, ***A*** etc as before)
   *CHORUS*  
   ***Em Dsus2 Em G***  
   
-  ****G                         F                      E7***([222434])*  
+  ***G                         F                      E7***([222434])*  
   It's all ending, we gotta stop pretending who we are...  
-  ****G***, hammer on ***Gsus2***([3x0013]), pull off ***G****  
+  ***G***, hammer on ***Gsus2***([3x0013]), pull off ***G***  
   ***Bm A Em A } x3***  
   ***Bm A Em -***  
   

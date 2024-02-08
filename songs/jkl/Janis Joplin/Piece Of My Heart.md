@@ -1,12 +1,12 @@
 <!--2020-09-05 05:24:15-->
 Piece Of My Heart  
   
-  ****E***: [022100]*  
-  ****A***: [007655]*  
-  ****B***: [009877]*  
-  ****C***: [X35555]*  
-  ****B2***:[X24444]*  
-  ****D***: [X57777]*  
+  ***E***: [022100]*  
+  ***A***: [007655]*  
+  ***B***: [009877]*  
+  ***C***: [X35555]*  
+  ***B2***:[X24444]*  
+  ***D***: [X57777]*  
   *lower case letters are used to denote single notes.*  
   *It was difficult for me to accurately correspond the chords and the words,*  
   *so here's the shortcut I'm using:*  

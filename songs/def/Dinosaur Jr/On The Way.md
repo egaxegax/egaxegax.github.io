@@ -37,14 +37,14 @@ Riff:  [D--------2----
   On the way  
   On the way  
   
-  ****C#m  A  F#  A***  X2  with solo*  
-  ****C#m  A  F#***  X2 with solo*  
+  ***C#m  A  F#  A***  X2  with solo*  
+  ***C#m  A  F#***  X2 with solo*  
   
   ***C#m                     A  F#***  
   I'd like to come and see you  
   But I think I won't know you  
   
-  ****C#m  A  F#  A*** X3 with solo*  
+  ***C#m  A  F#  A*** X3 with solo*  
   
   ***C#m      E***  
   Gone away  

@@ -17,7 +17,7 @@ The night they drove old Dixie down
   The night they drove old Dixie down, and all the bells were ringin'  
       ***G          Em        C   | G                 Em               |***  
   The night they drove old Dixie down, and all the people were singin', (they went)  
-  ****G          Em***       | ***A                C***                      | ***G*** | ***G*** intro run |*  
+  ***G          Em***       | ***A                C***                      | ***G*** | ***G*** intro run |*  
   "Naa na-na naa na-na, na-naa na-naa na-naa naa na-naa na-na-naa"  
   
   Back with my wife in Tennessee, one day she said to me  

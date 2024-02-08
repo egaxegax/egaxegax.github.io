@@ -3,8 +3,8 @@ Big Choice
   
   ***E5(i)  [022xxx]***  
   ***F#5   [244xxx]***  
-  ****A5***   [577xxx] or [x022xx]*  
-  ****B5***   [799xxx] or [x244xx]*  
+  ***A5***   [577xxx] or [x022xx]*  
+  ***B5***   [799xxx] or [x244xx]*  
   ***C#5 [x466xx]***  
   ***D5  [x577xx]***  
   ***E5(ii) [x799xx]***  
@@ -26,7 +26,7 @@ Big Choice
   ***E5(i)***  
   
   *verse:*  
-  ****A5   B5   C#5*** (***F#5***  w/heavy p.m.)*  
+  ***A5   B5   C#5*** (***F#5***  w/heavy p.m.)*  
   ***D5   A5   B5***  
   
   *pre-chorus:*  

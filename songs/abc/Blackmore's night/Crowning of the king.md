@@ -55,7 +55,7 @@ chorus:  Sweet is the hour and sweeter still
   All from far and near-  
   See the crowning of the king!  
   
-  *change tone to ***D*** then ***G***, then again in ***D****  
+  *change tone to ***D*** then ***G***, then again in ***D***  
   Jesters spin and play  
   The laughter sounds like music  
   What a perfect day  

@@ -15,7 +15,7 @@ Pre-Chorus: ***Em***, ***D***
   *Chorus:*  
   *The chorus is single notes done with the*  
   *bass and guitar. I suggest the use of octaves or two*  
-  *guitarists for a fuller sound. Use the ***D*** and high ***E****  
+  *guitarists for a fuller sound. Use the ***D*** and high ***E***  
   *strings for the notes (if only playing one octave*  
   *use the ***D*** string)*  
   ***A~B B    A   A    D   D  G  G  A  F#***  
@@ -30,12 +30,12 @@ End:  ***Em***, ***D***
   
   *chords:*  
   *[E A D G B e]:*  
-  *[X 0 2 0 2 0]:  ***A7****  
-  *[X X 0 2 3 2]:  ***D****  
-  *[0 2 2 0 0 0]:  ***Em****  
-  *[X 3 2 0 1 0]:  ***C****  
-  *[3 2 0 0 3 3]:  ***G****  
-  *[X X 0 2 3 0]:  ***Dsus****  
-  *[X 0 2 0 1 0]:  ***Am7****  
+  *[X 0 2 0 2 0]:  ***A7***  
+  *[X X 0 2 3 2]:  ***D***  
+  *[0 2 2 0 0 0]:  ***Em***  
+  *[X 3 2 0 1 0]:  ***C***  
+  *[3 2 0 0 3 3]:  ***G***  
+  *[X X 0 2 3 0]:  ***Dsus***  
+  *[X 0 2 0 1 0]:  ***Am7***  
   
   *That's it lyrics and all!*

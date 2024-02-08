@@ -76,7 +76,7 @@ Alison's Starting To Happen
   Allison's starting to happen  
   ***Em                    D***  
   Allison's starting to happen  
-     ****C*** (walk the bassline down --***C***,***B***,***A***,***G***)*  
+     ***C*** (walk the bassline down --***C***,***B***,***A***,***G***)*  
   To me  
     ***G            D***  
   I'm so mezmerized I can't describe it  
@@ -94,15 +94,15 @@ Alison's Starting To Happen
   Allison's starting to happen  
   ***Em                    D***  
   Allison's starting to happen  
-     ****C*** (Bassline ***C***,***B***,***A***,***G***)*  
+     ***C*** (Bassline ***C***,***B***,***A***,***G***)*  
   to me...  
   *(Bridge-type thingy)*  
   ***F                     G***  
   ***F                     G***  
   ***F                     G***  
-  ****F                     G*** (Here, they do an ascending bass run which I haven't*  
+  ***F                     G*** (Here, they do an ascending bass run which I haven't*  
     *taken the time to figure out. I just play ***G***,***A***,***B***,***C***,***B***,*  
-    ****C***,***D*** to the key change)*  
+    ***C***,***D*** to the key change)*  
   ***D        D              A***  
   Oh, this world is topsy-turvy  
       ***G             D***  
@@ -127,7 +127,7 @@ Alison's Starting To Happen
   Allison's growing a mohawk  
   ***Bm                    A***  
   Allison's starting to happen  
-     ****G*** (Walk the bassline ***G***,***F#***,***E***,***D***)*  
+     ***G*** (Walk the bassline ***G***,***F#***,***E***,***D***)*  
   to me...  
   
 ----  
@@ -143,7 +143,7 @@ Alison's Starting To Happen
   ***C***Allison's starting to ***Em***happen  
   ***Em***Allison's starting to ***D***happen to ***C***me  
   
-  *walk the bassline down -***C***,***B***,***A***,***G****  
+  *walk the bassline down -***C***,***B***,***A***,***G***  
   
   I'm so ***G***mezmerized I ***D***can't describe it  
   ***D***All that inside ***G***hate  
@@ -166,4 +166,4 @@ Alison's Starting To Happen
   ***Bm***Allison's starting to ***A***happen  
   ***G***Allison's starting to ***Bm***happen to ***G***me...  
   
-  *Walk the bassline ***G***,***F#***,***E***,***D****
+  *Walk the bassline ***G***,***F#***,***E***,***D***

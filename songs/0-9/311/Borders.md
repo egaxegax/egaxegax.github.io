@@ -80,4 +80,4 @@ E-2--]
 *Play Riff 2b over:*  
 *Play Chorus over:*  
 *Play Ending (x3)*  
-*End on an ***F5****
+*End on an ***F5***

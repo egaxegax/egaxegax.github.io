@@ -98,14 +98,14 @@ BRIDGE:  You're so nineteen-ninety,     and it's nineteen-
   *song, until I see what feels comfy. The bulk of the song is played in*  
   *straight 4/4 downstrokes, though during the third verse and part of the*  
   *outro, they're off-beat upstrokes, which sounds kinda cool. My chord choices:*  
-  ****D***: [000232] or [X5777X]*  
-  ****E***: [022100]*  
-  ****G***: [355433] or [320003]*  
-  ****Gm***: [355333]*  
-  ****A***: [X02220] or [577655]*  
-  ****Bm***: [X24432]*  
-  ****Dsus4***: [000233]*  
-  ****Asus4***: [X0223X]*  
+  ***D***: [000232] or [X5777X]*  
+  ***E***: [022100]*  
+  ***G***: [355433] or [320003]*  
+  ***Gm***: [355333]*  
+  ***A***: [X02220] or [577655]*  
+  ***Bm***: [X24432]*  
+  ***Dsus4***: [000233]*  
+  ***Asus4***: [X0223X]*  
   *(The guys do sound like they're sneakin' in a fast Dsus4 and an Asus4 during*  
   *the chorus, so those of you who wanna put 'em in there for the full effect,*  
   *go to town...)*

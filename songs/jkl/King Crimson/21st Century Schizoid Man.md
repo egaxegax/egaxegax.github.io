@@ -31,7 +31,7 @@
   8]  
   Cat's foot etc...  
   *Exit main chordal riff:*  
-  ****F F# G*** : Repeat 6 times, increase tempo then...*  
+  ***F F# G*** : Repeat 6 times, increase tempo then...*  
   *Unison run section 1 (rhythm sorta notated by the 1-2-3-4)*  
    *1       2     3       4      1       2     3     4*  
   |----------------------------|--------------------------|  

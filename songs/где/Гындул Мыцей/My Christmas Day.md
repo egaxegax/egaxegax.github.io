@@ -24,7 +24,7 @@
   "And I don't kno-o-w  
   ***Dm        Am     Dm***  
   Why is it so-o  
-  ****Dm            C             Dm*** &lt;- (!) deosebirea consta in acordul ***C****  
+  ***Dm            C             Dm*** &lt;- (!) deosebirea consta in acordul ***C***  
   And I can't fi-i-ight(find)  
   
   ***Dm       C         E***  

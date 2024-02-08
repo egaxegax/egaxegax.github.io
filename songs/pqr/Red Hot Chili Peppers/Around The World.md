@@ -19,7 +19,7 @@
   *enough to sing along with)*  
   ***G#5        C5***  
   I know, ......  
-  ****F5                     C5***(octave below)*  
+  ***F5                     C5***(octave below)*  
   *Verse*  
   *Chorus*  
   *Intro*  
@@ -33,4 +33,4 @@
   A-x--------13-------12-  
   E-x--------x--------12-]  
   *(It's some modfication of ***Dm Gm Am***) repeat as many as you want*  
-  *Finale: Post Chorus + ***Cm****
+  *Finale: Post Chorus + ***Cm***

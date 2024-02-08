@@ -58,7 +58,7 @@ Bridge2: Let my heart go,
   
 ----  
   
-   ****Dm*** (down)  solo     ***Dm*** (down, up, down) solo   And then - ***C*** (down,up, down, up,*  
+   ***Dm*** (down)  solo     ***Dm*** (down, up, down) solo   And then - ***C*** (down,up, down, up,*  
   *[e -1-----|-1-------|-------------------|------|]                           down)*  
   *[H ----3--|--3---3--|-------------------|------|] and ***Am*** (down, up, down, up,*  
   *[G --2----|----2----|-------------------|------|]                        down).*  

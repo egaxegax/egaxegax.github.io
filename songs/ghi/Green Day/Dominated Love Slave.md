@@ -5,9 +5,9 @@
   *Chords: (You should probably use the powerchords, it is easier that way)*  
   *String# 6 54 3 21*  
     [EADGBe]  
-  ****E***      [022100] or [X79980]*  
-  ****A***      [X02220] or [57760X]*  
-  ****B***     [XX4442] or [79980X]*  
+  ***E***      [022100] or [X79980]*  
+  ***A***      [X02220] or [57760X]*  
+  ***B***     [XX4442] or [79980X]*  
   
   ***E       A***  
 Verse:  I wanna be your dominated love slave  

@@ -25,19 +25,19 @@ CHORDS USED:    ***A#m C# C#maj7 E Emaj7 Em F  Fm F#
   *F: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
      *Notes        ***C# C#       C     C     C  C#***  
   *G: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
-     *Notes        ***B  B        A#    A#    A# B****  
+     *Notes        ***B  B        A#    A#    A# B***  
   *H: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
-     *Notes        ***B  B        A#    A#    A# B     C# C  B****  
+     *Notes        ***B  B        A#    A#    A# B     C# C  B***  
   *I: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
      *Chords ***C# C# C# C# C# C# C# C# C#          C#***  
     *mj mj       mj mj             mj*  
     *7  7        7  7              7*  
   *J: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
-     *Chords ***E  E  E  E  E  E  E  E  E           E****  
+     *Chords ***E  E  E  E  E  E  E  E  E           E***  
     *mj mj       mj mj             mj*  
     *7  7        7  7              7*  
   *K: Bars   1    2    3    4*  
-     *Chords      ***F    F#   A#m****  
+     *Chords      ***F    F#   A#m***  
   
   *Order of riffs:*  
     *Intro:  A*2*  

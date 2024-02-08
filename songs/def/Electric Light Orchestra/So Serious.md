@@ -13,11 +13,11 @@ Balance Of Power (1986)
   E|------------        E|------------        E|-----------------]  
   *(triplet feel)        (8th note run)        (16th note run)*  
   
-  ****C           G***       (riff 1)*  
+  ***C           G***       (riff 1)*  
 Verse:  Night after night  
   ***Dm               Am        F  G***  
   I try to make it all fit together  
-  ****C           G***       (riff 1)*  
+  ***C           G***       (riff 1)*  
   Night after night  
   ***Dm           Am          F  G***  
   I see you as someone I remember  
@@ -26,7 +26,7 @@ Verse:  Night after night
 Pre-Chorus: You took me by surprise  
     ***Em***  
   Opened up my eyes  
-    ****F***              (riff 2)*  
+    ***F***              (riff 2)*  
   Now we gotta talk this over.  
   
   ***Am     F         G      C***  

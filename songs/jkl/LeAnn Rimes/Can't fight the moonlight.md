@@ -39,7 +39,7 @@ Chorus:  You can try to resist
   ***N/C***  
   It's gonna get to your heart  
   
-   ****Cm***....( etc - as before)*  
+   ***Cm***....( etc - as before)*  
 Verse:  There's no escaping love  
   Once a gentle breeze (once a gentle breeze)  
   Sweeps it's spell upon your heart  
@@ -50,7 +50,7 @@ Verse:  There's no escaping love
   We'll be lost in the rhythm so right  
   It will steal your heart tonight  
   
-    ****Dbm***...(etc - as before)*  
+    ***Dbm***...(etc - as before)*  
 Chorus:  You can try to resist  
   Try to hide from my kiss  
   But you know, but you know  

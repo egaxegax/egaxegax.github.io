@@ -4,9 +4,9 @@ Who's Gonna Ride Your Wild Horses?
   *Intro/Verse chords:*  
   *If you want to play just chords, then I use ***G*** and ***C*** during the verses.*  
   *"Sha la la" part:*  
-  ****Dsus2*** and ***D*** alternate*  
+  ***Dsus2*** and ***D*** alternate*  
   *Chorus/Ending:  ("Who's gonna ride....")/("Don't turn around...")*  
-  ****G/D D C C***  (sequence repeats 4 times)*  
+  ***G/D D C C***  (sequence repeats 4 times)*  
   *Bridge: ("The deeper I spin...")*  
   ***Aminor  Eminor  G  D***  
   ***Aminor  Eminor  G  D***  

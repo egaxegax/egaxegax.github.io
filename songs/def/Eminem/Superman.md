@@ -10,11 +10,11 @@ The Eminem Show (2002)
   *the string, numbers show where to put left hand*  
   *fingers):*  
   *1- E-string(closest to your face :) ), 2-A......*  
-  ****Dm*** : [3 4 5 6 5 (4)]*  
+  ***Dm*** : [3 4 5 6 5 (4)]*  
   *Solo: D- string(3-rd from your face): 0, 2*  
-  ****F***  : [3 4 5 (6)],*  
-  ****Em*** : [3 4 5 (6)],*  
-  ****Am*** : [2 3 4 (5 6 5 4 3 2 3 4 5 6 5 4 3)]*  
+  ***F***  : [3 4 5 (6)],*  
+  ***Em*** : [3 4 5 (6)],*  
+  ***Am*** : [2 3 4 (5 6 5 4 3 2 3 4 5 6 5 4 3)]*  
   *Then repeat the whole thing again and again.*  
   *( ) - means it's up to you whether to play it or not.*  
   *I advise you to play ( ) at first - so you'll catch the rythm.*  

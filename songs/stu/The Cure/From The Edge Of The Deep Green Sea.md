@@ -31,7 +31,7 @@ From The Edge Of The Deep Green Sea
   d |------------5------------|           d |-----------7-------------|  
   a |-------3-----------------|           a |-------5-----------------|  
   e |---0---------------------|           e |---0---------------------|]  
-  *Play ***E*** - ***E/D*** alternately during the intro, then ***E*** - ***E/F#*** - ***E/G*** - ***E/A****  
+  *Play ***E*** - ***E/D*** alternately during the intro, then ***E*** - ***E/F#*** - ***E/G*** - ***E/A***  
   *throughout the verses.*  
   *The chorus is ***Bsus4*** - ***Cmaj7*** - ***Dsus6sus9*** - ***E***.*  
   *The «How much more...» part is the same as the intro.*

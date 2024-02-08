@@ -10,13 +10,13 @@ Nan's Song
   
     ***D1      D2                   D3***  
   You said when you'd die that you'd walk  
-      ***D4       G****  
+      ***D4       G***  
   with me every day  
-    ***D1      D2            D3          D4         G****  
+    ***D1      D2            D3          D4         G***  
   And I'd start to cry and say please don't talk that way  
     ***D1              D2         D3***  
   With the blink of an eye the Lord came  
-    ***D4        G****  
+    ***D4        G***  
   and asked you to meet  
     ***D1            D2            D3***  
   You went to a better place but He stole you  
@@ -26,7 +26,7 @@ Nan's Song
   And now she lives in heaven  
     ***D      A          Em~G***  
   But I know they let her out  
-    ***G****  
+    ***G***  
   To take care of me  
     ***D***  
   There's a strange kind of light  

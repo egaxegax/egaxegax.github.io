@@ -16,4 +16,4 @@ Cake and Sodomy
   2-2-2-2-2---2-2--------------------------------]  
   
   *That's pretty close. Figure out the rhythyms for yourself.*  
-  *The chords for the solo are just ***F#  A  B****
+  *The chords for the solo are just ***F#  A  B***

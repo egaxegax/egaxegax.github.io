@@ -4,7 +4,7 @@ Meddle (1971), Works (1968-1973) (1983)
   
 TUNING:  [D G D G B D] (open [G])  
   
-  *RIFF FOUR TIMES   ***C Bb   G  C Bb****  
+  *RIFF FOUR TIMES   ***C Bb   G  C Bb***  
     ***G                                    C Bb***  
   You say the hill's too steep to climb  
     ***G         C Bb***  

@@ -44,7 +44,7 @@ Polythene Pam
   Didn't anybody see?  
   ***G7                       C***  
   Sunday's on the phone to Monday  
-  ****G7                        C***        (go to 2/4 for the ***C***)*  
+  ***G7                        C***        (go to 2/4 for the ***C***)*  
   Tuesday's on the phone to me  
   
   She said she'd always been a dancer  

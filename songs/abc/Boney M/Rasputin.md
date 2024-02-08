@@ -1,7 +1,7 @@
 <!--2020-09-04 23:56:57-->
 Rasputin  
   
-  *Intro: (***Hm A G F#m***) x 2, (***Hm F#m***) x 2, ***Hm Em F#7 Hm****  
+  *Intro: (***Hm A G F#m***) x 2, (***Hm F#m***) x 2, ***Hm Em F#7 Hm***  
   
     ***Hm***  
   There lived a certain man  
@@ -36,7 +36,7 @@ Rasputin
   Russia's greatest love machine,  
   It was a shame how he carried on.  
   
-  *(***Hm F#m***) x 2, ***Hm Em F#7 Hm****  
+  *(***Hm F#m***) x 2, ***Hm Em F#7 Hm***  
   
   He ruled the Russian land  
   And never mind the Czar.  
@@ -63,7 +63,7 @@ Rasputin
   about this outrageous man  
   became louder and louder.  
   
-  *(***Hm F#m***) x 2, ***Hm Em F#7 Hm****  
+  *(***Hm F#m***) x 2, ***Hm Em F#7 Hm***  
   Hey! Hey! Hey! Hey! Hey! Hey! Hey! Hey!  
   Hey! Hey! Hey! Hey! Hey! Hey! Hey! Hey!  
   Hey! Hey! Hey! Hey! Hey! Hey! Hey! Hey!  

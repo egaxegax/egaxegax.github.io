@@ -3,16 +3,16 @@
   Here I Stand And Face The Rain (4:30)  
   *(Pal Waaktaar)*  
   
-  ***D****  
+  ***D***  
   [000230]  
   
   ***Hm Dbm***  
   Help me  
-  ****D****             (very swiftly ***Em***)*  
+  ***D***             (very swiftly ***Em***)  
   I need your love  
   ***Hm    Dbm***  
   Don't walk away  
-  ****D****             (very swiftly ***Em***)*  
+  ***D***             (very swiftly ***Em***)  
   The dark scares me so  
   ***Hm         Dbm***  
   We're nothing apart  

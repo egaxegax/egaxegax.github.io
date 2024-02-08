@@ -77,8 +77,8 @@
   
 ----  
   
-  ****A5  G5***  (acoustic)*  
-  *chorus:   ***E5  G5  D5  A5****  
+  ***A5  G5***  (acoustic)*  
+  *chorus:   ***E5  G5  D5  A5***  
     ***E5  G5  D5***  
-  *electric:  ***D  C#  A****  
+  *electric:  ***D  C#  A***  
     ***D  C#  G***

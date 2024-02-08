@@ -2,7 +2,7 @@
 Drifting  
   
   *The chords to Drifting are:*  
-  ****Em***, ***D***, ***G***, then before you return to ***Em***, it looks like this:*  
+  ***Em***, ***D***, ***G***, then before you return to ***Em***, it looks like this:*  
    ***G        Em***  
   [--3--------0---  
   --3--------0---  

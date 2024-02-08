@@ -145,5 +145,5 @@ BRIDGE #2: (Do you need anybody?) I just need somebody to 
     ***C/G  Am6  E***  
   With a little help from my friends  
   
-  ****C/G***: [332010]   ***Am6***:  [x02212]*  
-  ****C#m***: [446654]   ***F#m7***: [244252]*
+  ***C/G***: [332010]   ***Am6***:  [x02212]*  
+  ***C#m***: [446654]   ***F#m7***: [244252]*

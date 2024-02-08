@@ -3,16 +3,16 @@
   Don't Look Back In Anger  
   
   *Chords Used:*  
-  ****C/G*** - [332010]*  
-  ****Csus2/B*** - [x20010]*  
-  ****Am*** - [x02210]*  
-  ****E*** - [022100]*  
-  ****F/C*** - [x33211]*  
-  ****G*** - [320033]*  
-  ****F*** - [133211]*  
-  ****Fm*** - [133111]*  
-  ****Fm/C*** - [x33111]*  
-  ****E/G#*** - [422100]*  
+  ***C/G*** - [332010]*  
+  ***Csus2/B*** - [x20010]*  
+  ***Am*** - [x02210]*  
+  ***E*** - [022100]*  
+  ***F/C*** - [x33211]*  
+  ***G*** - [320033]*  
+  ***F*** - [133211]*  
+  ***Fm*** - [133111]*  
+  ***Fm/C*** - [x33111]*  
+  ***E/G#*** - [422100]*  
   
 VERSE 1: ***C/G***Slip inside the ***Csus2/B***eye of your ***Am***mind  
   Don't you ***E***know you might ***F/C***find  
@@ -80,7 +80,7 @@ VERSE 4: ***C/G***Please don't put your ***Csus2/B***life in the
   Don't you know you might find  
     ***C***  
   A better place to play  
-  ****Am***, ***G*** - Transition chords, played quickly*  
+  ***Am***, ***G*** - Transition chords, played quickly*  
   *Verse 2*  
   ***C             G               Am***  
   You said that you'd never been  
@@ -137,7 +137,7 @@ VERSE 4: ***C/G***Please don't put your ***Csus2/B***life in the
   *emotional song!*  
   *Drum fill*  
   *Chorus again, but endings:*  
-      ****F*** (upstroke)*  
+      ***F*** (upstroke)*  
   But don't look back in anger  
   ***Fm***  
   Dont look back in anger  

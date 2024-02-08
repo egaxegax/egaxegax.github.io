@@ -10,4 +10,4 @@
   [-----]          //// ////  
   ***[-----]          Bb   F***  
   *at 2:17 the guitar strums a ***Eb*** chords untill the songs ends*  
-  *the achordian also plays ***Eb****
+  *the achordian also plays ***Eb***

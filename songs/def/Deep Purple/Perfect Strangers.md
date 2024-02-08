@@ -9,7 +9,7 @@ Perfect Strangers
   
   *Quick Tab reference:*  
   *[-5/6-]  slide note from 5th to 6th Fret*  
-  ****F5***/***G5***  slide (power)chord shape up two frets*  
+  ***F5***/***G5***  slide (power)chord shape up two frets*  
   *[-5h7p5] hit and pull-off from 5th fret to 7th*  
   *[-5~~-]       hold note*  
   
@@ -30,7 +30,7 @@ Perfect Strangers
   
   *Verse*  
   *Slide between ***C5*** and ***D5*** (all powerchords)*  
-  *Slide between ***F5*** and ***G5****  
+  *Slide between ***F5*** and ***G5***  
   ***C5***/***D5*** | ***F5***/***G5***  
   ***C5***/***D5                          F5***/***G5***  
      Can you remember...  
@@ -38,7 +38,7 @@ Perfect Strangers
     ...your life  
   
   *Bridge 1*  
-  ****A5*** Powerchord, with:*  
+  ***A5*** Powerchord, with:*  
   |---------------------------------------------------|  
   |---------------------------------------------------|  
   |---------------------------------------------------|  

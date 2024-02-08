@@ -7,7 +7,7 @@ Leave My Kitten Alone
   You'd better leave my kitten all alone  
     ***G***  
   Well I told you, big fat bulldog  
-  ****G7*** (break)                ***C****  
+  ***G7*** (break)                ***C***  
   You'd better leave her alone  
   
 Verse 2: You'd better leave my kitten all alone  
@@ -22,7 +22,7 @@ CHORUS:  Well Mr. Dog, I'm gonna hit you on the top of�
   If you don't leave my kitten all alone  
     ***G***  
   Well I told you, big fat bulldog  
-  ****G7*** (break)                ***C****  
+  ***G7*** (break)                ***C***  
   You'd better leave her alone  
   
   *(instrumental; same pattern as verses)*  

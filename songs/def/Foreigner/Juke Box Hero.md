@@ -127,6 +127,6 @@
   A-7-------7-5-7---|  
   E---------------0-|]  
   *Outro*  
-  ****D***                    (gtr. 2 plays Fill 2)*  
+  ***D***                    (gtr. 2 plays Fill 2)*  
   Stars in his eyes...  
   Whoop de doo.

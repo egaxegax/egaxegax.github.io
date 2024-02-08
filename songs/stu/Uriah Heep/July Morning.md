@@ -60,7 +60,7 @@ July Morning
   E-10-10-10-10-10-I-10-10-10-10-I-1-1-1-1-I-10-10-10-10-I]  
   *VERSE:*  
   *Clean sound with slight reverberation:*  
-  ****Cm*** - VIII        ***Fm*** - VIII    ***A#*** - VI - arpegios*  
+  ***Cm*** - VIII        ***Fm*** - VIII    ***A#*** - VI - arpegios*  
   There I was on a July morning looking for love.  
   With the strength of a new day dawning and the beautiful sun.  
   At the sound of the first bird singing I was leaving for home.  

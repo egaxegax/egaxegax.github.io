@@ -34,6 +34,6 @@ CHORUS:  Easy now, don't let my love flow out of you
   
   ***F# E A Emaj7 F#m7 Emaj7 F#m7 E***  
   
-  ****F#sus***: [2 4 4 4 2 2]*  
-  ****Emaj7***: [0 6 6 4 0 0]*  
-  ****F#m7***:  [2 4 2 2 2 2]*
+  ***F#sus***: [2 4 4 4 2 2]*  
+  ***Emaj7***: [0 6 6 4 0 0]*  
+  ***F#m7***:  [2 4 2 2 2 2]*

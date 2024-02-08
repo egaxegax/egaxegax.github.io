@@ -1,7 +1,7 @@
 <!--2020-09-05 12:37:00-->
 Voodoo Chile (Slight Return)  
   
-  ****INTRO****  
+  ***INTRO***  
   [E-|-----|  
   B-|-----|  
   G-|-x-x-|  
@@ -45,7 +45,7 @@ Voodoo Chile (Slight Return)
   D-|-2----------------------------------------------|  
   A-|-2----------------------------------------------|  
   E-|-0-0-3-0----------------------------------------|]  
-  ****SORRY THIS IS AS MUCH INTRO AS I HAVE TIME FOR****  
+  ***SORRY THIS IS AS MUCH INTRO AS I HAVE TIME FOR***  
   
    *+==== Important bit here! ==================+*  
    *|                                           |*  
@@ -115,8 +115,8 @@ Voodoo Chile (Slight Return)
   *Intro*  
   *USING: The amazing, all powerful Vox Wah.*  
   *At first he's just strumming muted and wah-ing*  
-  *I'm not sure, but it might sound better if you do this strumming with an ***E****  
-  *chord like the dude who tabbed this before me did. Since Jimi's in an ***E****  
+  *I'm not sure, but it might sound better if you do this strumming with an ***E***  
+  *chord like the dude who tabbed this before me did. Since Jimi's in an ***E***  
   *minor pentatonic, anyhow.*  
   *That is just a second position barre chord:*  
   [e--7-----  

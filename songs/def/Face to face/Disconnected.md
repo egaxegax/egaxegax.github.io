@@ -81,6 +81,6 @@ riff:  |------------------------------------|
   something that may never come may never come  
   never come to you...  
   
-  *end on ***E****  
+  *end on ***E***  
   
   *have fun! Hope that helps ya'll out!*

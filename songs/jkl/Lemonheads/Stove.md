@@ -2,7 +2,7 @@
 Stove  
   
   *Weird chords: ***A***: [xxx454]  ***A2/F#***: [2x2200]  ***D5/E***: [xx2235]*  
-    ****D2/A***: [x00230]  ***D2/B***: [x2x230]  ***D2/C#***: [x4x230]*  
+    ***D2/A***: [x00230]  ***D2/B***: [x2x230]  ***D2/C#***: [x4x230]*  
   
   ***A              E              A2/F#             E***  
   The gas man came, took out our electric stove.  

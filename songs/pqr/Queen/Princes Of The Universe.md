@@ -69,7 +69,7 @@ A Kind Of Magic 1986
   E---5---------------------------------------------------]  
   6)...people talk about you, u hear it every day...  
   *just repeat the ***C5*** chord alot(***G-5***,***D-5***,***A-3***)*  
-  *then slide up to ***D5****  
+  *then slide up to ***D5***  
   7)yeh..yeh  
   *same as Gtr 1 in 2a*  
   *SOLO:*  

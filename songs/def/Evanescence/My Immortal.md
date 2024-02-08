@@ -75,7 +75,7 @@ My Immortal
   When you screamed, I'd fight away all of your fears  
   ***G5 Eb F D***  
   and I've held your hands through all of these years  
-  ****G5 Eb F Bb*** (back to verse)*  
+  ***G5 Eb F Bb*** (back to verse)*  
   but you still have... all of me  
   *--------------------------------------*  
   *Bridge*  
@@ -98,7 +98,7 @@ My Immortal
   I've tried so hard to tell myself that you're gone  
   ***Eb F D C5***  
   but though you're still with me, I've been alone  
-  ****G5*** (back to chorus)*  
+  ***G5*** (back to chorus)*  
   all along  
   
 ----  
@@ -159,7 +159,7 @@ My Immortal
   My felt that I've got  
   ***Fm#                  E***  
   Would fly I still with me  
-  ****D          E            Fm# D E Cm#***(пpoигpыш)*  
+  ***D          E            Fm# D E Cm#***(пpoигpыш)*  
   I'm still alone and alive  
   
   *Пpипeв*  

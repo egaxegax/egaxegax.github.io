@@ -3,7 +3,7 @@ single "Stereotypes"
   Tame  
   
   *Intro/chorus:*  
-  ****F     G#     A#*** (with fill) ***D***  Fill:  [A  ------1-5-5^-5--]*  
+  ***F     G#     A#*** (with fill) ***D***  Fill:  [A  ------1-5-5^-5--]*  
     [E  --3-4-----------]  
   *Verse:*  
   ***F     C      D#     F***  

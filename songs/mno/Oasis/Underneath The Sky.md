@@ -2,7 +2,7 @@
 The Masterplan (1998)  
   Underneath The Sky  
   
-  *Intro..   ***Bm   G   A****  
+  *Intro..   ***Bm   G   A***  
    ***Bm                       G        A                           Bm           G***  
     ***A***  
   All we need is the sky or ????????, theres a storyteller sleeping alone  
@@ -75,9 +75,9 @@ The Masterplan (1998)
   A-2--2--2---2---2--2--2---2---2-------------------------  
   E-------------------------------------------------------]  
   *then:*  
-  *Guitar 1: ***G    F#7  A   Bm  G  A   Bm  G  A  Bm  F#7****  
+  *Guitar 1: ***G    F#7  A   Bm  G  A   Bm  G  A  Bm  F#7***  
   *Guitar 2: Fill 2      Fill 1          Fill 2        Fill 1*  
-  *Guitar 1: ***Bm  G  A   Bm  G  A  Bm  F#7****  
+  *Guitar 1: ***Bm  G  A   Bm  G  A  Bm  F#7***  
   *Guitar 2:  Fill 2        Fill 1*  
   
   *Verse*  

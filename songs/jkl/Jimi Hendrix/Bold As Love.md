@@ -2,13 +2,13 @@
 "Axis:Bold As Love"  
   Bold As Love  
   
-  ****A***: [002220] or [007650]*  
-  ****E***: [022100]*  
-  ****F#m***: [244222]*  
-  ****D***: [000232]*  
-  ****Bm***: [024432]*  
-  ****G***: [355433]*  
-  ****G6***: [466544]*  
+  ***A***: [002220] or [007650]*  
+  ***E***: [022100]*  
+  ***F#m***: [244222]*  
+  ***D***: [000232]*  
+  ***Bm***: [024432]*  
+  ***G***: [355433]*  
+  ***G6***: [466544]*  
   
   *Note: This is VERY basic. A friend of mine gave me some of the chords and I*  
   *got the rest on my own. It does not sound right if you play it with the*  

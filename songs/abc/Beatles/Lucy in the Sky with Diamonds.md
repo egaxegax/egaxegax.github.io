@@ -6,7 +6,7 @@ Lucy in the Sky with Diamonds
   Picture yourself in a boat on a river  
   With tangerine trees and marmalade skies  
   Somebody calls you, you answer quite slowly  
-    ****Fmaj7***   (***Dm7 C7sus***) (optional chords)*  
+    ***Fmaj7***   (***Dm7 C7sus***) (optional chords)*  
   A girl with caleidoscope eyes  
    ***Bb                      C***  
   Cellophane flowers of yellow and green  

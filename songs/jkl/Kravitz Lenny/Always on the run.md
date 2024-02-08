@@ -24,7 +24,7 @@
   *strings on the 4th fret (to create a scratch effect). Play the melody with*  
   *your middle finger and little finger.*  
   *The song:*  
-  *2x riff ***Em****  
+  *2x riff ***Em***  
   *2x riff with bass and second guitar*  
   my mama said  
   that your life is a gift  
@@ -58,7 +58,7 @@
   choir: ***G***  but I'm ***A*** always on the run  
   *2x riff*  
   
-  *guitar solo from Slash: ***A   Em   B   Em****  
+  *guitar solo from Slash: ***A   Em   B   Em***  
   *(who can make a transcription of THIS for me?)*  
   
   *1x riff*  

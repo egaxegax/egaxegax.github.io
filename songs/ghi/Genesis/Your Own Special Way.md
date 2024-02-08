@@ -15,7 +15,7 @@ Wind & Wuthering (1976)
   
   *Moderately Fast, in 3*  
   *3/4 time (except chorus in 2/4)*  
-  *Key of ***C****  
+  *Key of ***C***  
   
   *Intro*  
   *~~~~~*  

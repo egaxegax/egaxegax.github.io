@@ -13,7 +13,7 @@
   |-3---3-----3-3-3-3-3-3-3---2-|---------------------------|  
   |---------------------------3-|------3------3--3----------|  
   |-----------------------------|---------------------------|  
-  ****E***-***A***-***B*** weird chord (Don't forget to mute the ***G***)*  
+  ***E***-***A***-***B*** weird chord (Don't forget to mute the ***G***)*  
   |-----0----0--(0)----0--0--0--------0--|------0-----0------0-0----------|  
   |-----0----0--(0)----0--0--0--------0--|------0-----0------0-0----------|  
   |--------------------------------------|--------------------------------|  
@@ -29,7 +29,7 @@
   |-----0----0--(0)----0--0--0--------0--|------0-----0------0-0--3--|  
   |-----2----2--(2)----2--2--2--------2--|------2-----2------2-2-----|  
   |-3-3-3----3--(3)----3--3--3--------3--|---3--3-----3--3-3-3-3-----|  
-  ****C***-***F***-***G*** chord throughout ----------&gt;*  
+  ***C***-***F***-***G*** chord throughout ----------&gt;*  
   |-1------------------------------------|--------------------------------|  
   |-1------------------------------------|--------------------------------|  
   |-0-------------(etc)------------------|--------------------------------|  
@@ -47,7 +47,7 @@
   *At the end of the second verse, the ***E***-***A***-***B*** to ***G*** continues*  
   *through that long instrumental part, until you get to the*  
   *Bridge:*  
-    ****F***----------------***C***-----------------***G***-------See Below*  
+    ***F***----------------***C***-----------------***G***-------See Below*  
   If they   Knock on your    Door...    You    Already gave  
     :*) Trust me--&gt;)  [|--0  
     |--3  
@@ -55,18 +55,18 @@
     |--5  
     |---  
     |---]  
-      ****F***-------------***C***--------------***G***---------------STAY ON ***G****  
+      ***F***-------------***C***--------------***G***---------------STAY ON ***G***  
   You Don't need no more of what's ailing ya'  
   *(Repeat for next part of bridge)*  
   *When you get to "America....,"    play*  
-  ****E***-***A***-***B*** then ***Fmaj7*** (instead of ***G***)*  
+  ***E***-***A***-***B*** then ***Fmaj7*** (instead of ***G***)*  
   *Play the third verse like the first two, then the end*  
   *just like the bridge.....*  
   
   *NOTE:     BE CAREFUL OF THE RHYTHM....  Every other chord*  
   *starts on the 4th beat of the measure, and lasts for 5 beats, not 4*  
   *For example, for the ***Fmaj7*** and ***C*** in the verses, you play*  
-  ****Fmaj7*** for [1-2-3] and ***C*** for [4-1-2-3-4]....*  
+  ***Fmaj7*** for [1-2-3] and ***C*** for [4-1-2-3-4]....*  
   *The best way to get this down is to play along with the CD (or tape)*  
   
   *Words:*  

@@ -101,4 +101,4 @@ Intro:  ***Em G D***
     ***G                        D***  
   un scharf, wie die Sichel vum Mohnd?  
   
-  ****D C D C*** (-&gt; etc.)*
+  ***D C D C*** (-&gt; etc.)*

@@ -25,4 +25,4 @@ Lucky
   She's so lucky...  
      ***G     A      F#m      Bm***  
      ***D     G      A        D***  
-  *End on: ***D****
+  *End on: ***D***

@@ -229,7 +229,9 @@
         if(SONGS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></p>';
+        '<p class="mtext hspace">'+
+        '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></p>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         PAGE.per = 20;
@@ -239,7 +241,8 @@
         if(SONGS.length){
           PAGE.view = 'song';
           page_header = 
-        '<p>'+
+        '<p class="hspace">'+
+          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
           '<h2 class="nomarg nopad grid">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<div class="hspace">'+SONGS[0][2]+'</div>'+

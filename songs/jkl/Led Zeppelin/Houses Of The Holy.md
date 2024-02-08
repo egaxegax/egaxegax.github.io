@@ -30,7 +30,7 @@
   E---------------------------------------------------------------------------]  
   *Note that the chords on the verses sustain a little, but notation wasn't easy*  
   *so listen to the record to get the timing and feel.*  
-  *Verses     ***D        G  D  A    E****  
+  *Verses     ***D        G  D  A    E***  
   [e----------2--|--2--3--2--0-|-----------------------------------------------  
   B----------3--|--3--3--3--2-|-0-0-------------------------------------------  
   G----------2--|--2--4--2--2-|-1-1-------------------------------------------  
@@ -43,7 +43,7 @@
   *to the recording to get these changes, it is quite clear.*  
   *Note during the song similar riffs to the intro. The little riff fill goes*  
   *something like this. Note that Jimmy plays variations on the fill.*  
-    *bend from ***b*** to ***c#*** and then back to ***b****  
+    *bend from ***b*** to ***c#*** and then back to ***b***  
   [e---------------|------------------------------|----------------------------  
   B--------2-2----|-----2------------------------|----------------------------  
   G--------2-2----|-----2--4b-6b-4-2-4p2-4p2-----|----------------------------  

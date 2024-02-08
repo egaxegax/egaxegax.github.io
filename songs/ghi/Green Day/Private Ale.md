@@ -41,10 +41,10 @@ Private Ale
   *CHORUS*  
   *BREAK*  
   *BRIDGE: (lyrics impossible)*  
-  ****G#    C     F#*** } X4 then ***Eb****  
+  ***G#    C     F#*** } X4 then ***Eb***  
   *SOLO:*  
   ***G#------   F#----- } X4***  
   *CHORUS*  
   *BREAK*  
   *OUTRO: (last 3 chords of the song)*  
-  ****G#    C    F#*** (fade into feedback)*
+  ***G#    C    F#*** (fade into feedback)*

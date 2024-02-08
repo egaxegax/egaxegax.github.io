@@ -11,7 +11,7 @@ I don't even know your name
   Of course you weren't my waitress, mine was missing her front tooth  
   ***B***  
   I flagged you down for coffee, but I couldn't say a thing  
-    ****E*** (tacet)                      ***B*** (tacet)*  
+    ***E*** (tacet)                      ***B*** (tacet)*  
   But I'm in love with you baby and I don't even know your name  
   
   
@@ -21,7 +21,7 @@ CHORUS:  I'm in love with you baby, I don't even know yo
   I've never been too good at all those sexual games  
   ***A***  
   So maybe it's just better that we leave it this way  
-  ****E*** (tacet)                          ***B*** (tacet)*  
+  ***E*** (tacet)                          ***B*** (tacet)*  
   I'm in love with you baby, I don't even know your name.  
   
   I ordered straight tequila, a little courage and shock  
@@ -49,5 +49,5 @@ CHORUS:  I'm in love with you baby, I don't even know yo
   I've never been too good at all those sexual games  
   ***A***  
   I never thought my love life would quite turn out this way  
-  ****E*** (tacet)                             ***B*** (tacet)*  
+  ***E*** (tacet)                             ***B*** (tacet)*  
   I'm married to a waitress and I don't even know her name.

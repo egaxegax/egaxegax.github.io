@@ -1,9 +1,9 @@
 <!--2020-09-07 11:02:30-->
 Shangri-La  
   
-  ****Bm7-5*** base-fret 1 frets [x 2 3 2 3 0]*  
-  ****Gj*** base-fret 1 frets [3 2 0 0 0 2]*  
-  ****E6*** base-fret 1 frets [0 2 2 1 2 0]*  
+  ***Bm7-5*** base-fret 1 frets [x 2 3 2 3 0]*  
+  ***Gj*** base-fret 1 frets [3 2 0 0 0 2]*  
+  ***E6*** base-fret 1 frets [0 2 2 1 2 0]*  
   
   Si***A***tting here, wa***E***iting for,  
   S***F#m***omeone calling ***C#m***at my door,  

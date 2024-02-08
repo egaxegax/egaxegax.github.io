@@ -152,7 +152,7 @@ Intro:  ***Dm*** / ***C*** : ***G***
   
 ----  
   
-  *Key: ***Dm****  
+  *Key: ***Dm***  
   
 Intro:  ***Dm / C : G*** } 2 times  
   

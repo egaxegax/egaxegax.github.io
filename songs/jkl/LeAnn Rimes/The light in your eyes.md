@@ -1,7 +1,7 @@
 <!--2020-09-05 15:09:06-->
 The light in your eyes  
   
-  *Tom: ***C****  
+  *Tom: ***C***  
   
   ***C                                         G     C***  
   Life can take your dreams and turn them upside down  

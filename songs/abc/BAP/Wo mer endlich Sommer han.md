@@ -1,7 +1,7 @@
 <!--2020-09-07 09:45:51-->
 Wo mer endlich Sommer han  
   
-  ****H*** base-fret 1 frets [2 2 4 4 4 2]*  
+  ***H*** base-fret 1 frets [2 2 4 4 4 2]*  
   
   Ich jon nohm ***E***Chef en et Bьro, weil et Wedder es ens schцn hьck.***A H***  
   ***E***Un ich han keine Bock op Arbeit fьr die lдppsche paar Mark zehn, hьck.***A H***  

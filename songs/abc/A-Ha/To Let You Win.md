@@ -2,7 +2,7 @@
 To Let You Win (4:23)  
   (Morten Harket/Hevard Rem)  
   
-  ***D****  
+  ***D***  
   
   ***A                          E***  
 (1)  You know I always had the strength to fight  

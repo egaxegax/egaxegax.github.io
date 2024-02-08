@@ -3,7 +3,7 @@ Secret Messages (1983)
   Four Little Diamonds  
   
   *Nice little rocker, though the chorus seems a bit out of*  
-  *place (at least to me). I'm not positive about the ***Ab***-***Gm****  
+  *place (at least to me). I'm not positive about the ***Ab***-***Gm***  
   *bits in the chorus. Ah, well.*  
   
   ***G Bb C***  

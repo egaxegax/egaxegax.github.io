@@ -16,7 +16,7 @@ Intro:  [e||--------------------------||
   I went to the window,  
   ***E***  
   I peeped through the blind,  
-      ****E***     (Tacet)*  
+      ***E***     (Tacet)*  
   And asked him to tell me what's on his mind.  
     ***A***  
   He said, Money, honey, a hah hah.  

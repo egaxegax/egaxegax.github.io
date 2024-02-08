@@ -18,5 +18,5 @@ Gi Blues
   The Frauleins are pretty as flowers but we cant make a pass,  
   Cause they're all wearing signs saying "KeepenSie off the grass"  
   
-  *Note: Ending chord sequence for last chorus ends with ***C F C****  
+  *Note: Ending chord sequence for last chorus ends with ***C F C***  
   *Also I play the ***F7***'s as ***F***'s, make's it easier.*

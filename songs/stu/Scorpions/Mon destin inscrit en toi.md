@@ -39,4 +39,4 @@ Coлo:  ***G#m F# E F#***
   ***C#   A#                B***  
   Mon destin inscrit en toi  
   
-  ****A#*** - [556775] (кaк ***F*** нa 5-oм лaдy)*
+  ***A#*** - [556775] (кaк ***F*** нa 5-oм лaдy)*

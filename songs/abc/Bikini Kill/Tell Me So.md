@@ -3,5 +3,5 @@
   Tell Me So  
   
   *bar chords(in this order):*  
-  ****G A E***(normal chord)*  
+  ***G A E***(normal chord)*  
   *Play this for the entire song*

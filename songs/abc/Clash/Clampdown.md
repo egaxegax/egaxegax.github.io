@@ -49,9 +49,9 @@ Clampdown
   But lately one or two has fully paid thier due  working for the clampdown  
   ***[|:]                G               D    A    [:|]***  
   [|:] Ha longy long  Working for the Clampdown [:|]  
-  ****F#*** (bar)             ***D      A***      (slide to ***B*** then to ***G***)*  
+  ***F#*** (bar)             ***D      A***      (slide to ***B*** then to ***G***)*  
   Yeah working hard in Hairrisburg  
-  ****F#                   D     A***       (***A*** slide to ***D***)*  
+  ***F#                   D     A***       (***A*** slide to ***D***)*  
   yeah working hard in Petersburg  
   ***G               D    A***  
   Working for the Clampdown  

@@ -16,7 +16,7 @@ Big Gay Heart
     ***Am                     C      D        G***  
   Big gay heart, please don't break my big gay heart  
   
-  *Instrumental break with slide guitar solo: ***C   G   Am   G****  
+  *Instrumental break with slide guitar solo: ***C   G   Am   G***  
     ***C   G   Am   G***  
   
   ***C                    G                 Am         C***  

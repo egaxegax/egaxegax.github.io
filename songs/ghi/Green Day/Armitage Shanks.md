@@ -7,8 +7,8 @@
   *you. It's great. Have Fun!!!!(looks best in Courier) Tune to Eb*  
   
      [EADGBe]  
-  ****e***: [022100]*  
-  ****E***: [7799--]*  
+  ***e***: [022100]*  
+  ***E***: [7799--]*  
   
   ***A        D***  
 Verse 1: Stranded  
@@ -89,7 +89,7 @@ Verse #1: Stranded,  Lost  inside myself
   
   ***D              A            E             F#***  
 Chorus #1: I must insist on , being a pessimist  
-  ****A              D                          E***(type#2)*  
+  ***A              D                          E***(type#2)*  
   I'm a loner, in a claustrophobic mind  
   
   ***A     D          A        D***  
@@ -166,18 +166,18 @@ Chorus #2: Well I'm taking pressure for other pessimists
   
 ----  
   
-  *Intro:***E****  
-  *Verses:***A    D    A    D    F#    D    E****  
-  *Chorus:***D    A    E(major)    A****  
+  *Intro:***E***  
+  *Verses:***A    D    A    D    F#    D    E***  
+  *Chorus:***D    A    E(major)    A***  
     ***D    A    E***  
-  *Interlude:***A    F#    A    F#    D    E****  
+  *Interlude:***A    F#    A    F#    D    E***  
   *Note: The Song Is All Power Chords Except For The ***E*** Major In The*  
   *Chorus.*  
-  ****E***:[X799XX]*  
-  ****A***:[577XXX]*  
-  ****D***:[X577XX]*  
-  ****F#***:[244XXX]*  
-  ****E(MAJOR)***:[022100]*  
+  ***E***:[X799XX]*  
+  ***A***:[577XXX]*  
+  ***D***:[X577XX]*  
+  ***F#***:[244XXX]*  
+  ***E(MAJOR)***:[022100]*  
   *THIS WAS DONE TUNED DOWN HALF A STEP TO ***Eb***!!!*  
   
 ----  
@@ -200,16 +200,16 @@ Interlude: ***A, F#, A, F#, D, E(type2)***
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  
   *Chords:*  
-  ****A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
-  ****B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
-  ****C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
-  ****C#*** ([x466xx])*  
-  ****D***  ([x577xx])*  
-  ****D#*** ([x688xx])*  
-  ****E***  ([022xxx])*  
-  ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
+  ***A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
+  ***B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
+  ***C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
+  ***C#*** ([x466xx])*  
+  ***D***  ([x577xx])*  
+  ***D#*** ([x688xx])*  
+  ***E***  ([022xxx])*  
+  ***E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
     *that chord, but using only the ([0xxxxx])*  
-  ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
+  ***B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
 ----  
   

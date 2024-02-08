@@ -9,7 +9,7 @@ Red' mit mir
   *Das Intro spielt eine Cleangitarre, die ein biбchen mit Delay unterlegt ist.*  
   *Der Akkord ist ***C#m*** (nebenbei ist das auch die Tonart), gegriffen wird er wie*  
   *folgt (er wird nicht ganz angeschlagen) und klingt Ѓber 2 Takte und 4x.*  
-  ****C#m***:   [+---+]*  
+  ***C#m***:   [+---+]*  
     [+-5-+  
     +-6-+  
     +-6-+  
@@ -18,7 +18,7 @@ Red' mit mir
   *Haut danach direkt den Verzerrer rein und spielt den folgenden Riff mit 'nem*  
   *ordentlichen Punk-Feeling, sonst kommt er nicht so gut rЃber:*  
   
-  *CHORDS: ***C#5***, ***E5***, ***G#5***, ***E5****  
+  *CHORDS: ***C#5***, ***E5***, ***G#5***, ***E5***  
   [+--------------------+--------------------+  
   +----------4----4----+8----8----4----4----+]  
   *[+----------2----2----+6----6----2----2----+] Das ganze geht achtmal.*  
@@ -45,7 +45,7 @@ Red' mit mir
   *Verses:*  
   *Ihr spielt bei den Strophen in einem lustigen Punk-Rhythmus mit den Intro*  
   *Akkorden (***C#5***, ***E5***, ***G#5***, ***E5***). ***Am*** Ende der ersten Strophe lasst ihr dann*  
-  ****C#5*** klingen, bzw. macht an der 2. Strophe eine Steigerung am Ende mit den*  
+  ***C#5*** klingen, bzw. macht an der 2. Strophe eine Steigerung am Ende mit den*  
   *Chords. Ich hab' die CD gerade nicht da, aber ich glaube das war so!*  
   
   *Bridge:*  

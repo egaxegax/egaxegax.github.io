@@ -39,9 +39,9 @@ SqueezeBox
   And the music's all tight  
   Mama's got a squeeze box  
   Daddy never sleeps at night  
-    ****G*** (strum, low to high)   ***G*** (strum, L to H)*  
+    ***G*** (strum, low to high)   ***G*** (strum, L to H)*  
   She goes, squeeze me, come on and squeeze me  
-    ****D*** (normal strum)*  
+    ***D*** (normal strum)*  
   Come on and tease me like you do  
       ***C***  
   I'm so in love with you  

@@ -4,7 +4,7 @@ A Day At The Races 1976
   *(May)*  
   *4:00*  
   
-  ****E7sus4*** = [022230]*  
+  ***E7sus4*** = [022230]*  
   
       ***A                E         D                     A  E***  
 (1)  You might believe in heaven, I would not care to say  

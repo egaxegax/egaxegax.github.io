@@ -150,7 +150,7 @@ Made In Heaven 1995
   ***A/C#  [x42220]***  
   ***B     [x24442]***  
   ***Bb    [x13331]***  
-  ****C***     [x32010] but after ***Bb***'s it's often easier to play [x35553]*  
+  ***C***     [x32010] but after ***Bb***'s it's often easier to play [x35553]*  
   ***C/E   [032010]***  
   ***C#    [x46664]***  
   ***C#/F  [143121]***  

@@ -1,10 +1,10 @@
 <!--2020-09-05 09:02:03-->
 When I See You Smile  
   
-  ****G***=      ***A***=*  
-  ****C***=      ***E***=*  
-  ****Am***=     ***Bm***=*  
-  ****D***=*  
+  ***G***=      ***A***=*  
+  ***C***=      ***E***=*  
+  ***Am***=     ***Bm***=*  
+  ***D***=*  
   
   *The opening is played on a keyboard, but you can imitate it on guitar*  
   [e|------10-----------10------|  

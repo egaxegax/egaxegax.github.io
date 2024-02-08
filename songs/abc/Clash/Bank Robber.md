@@ -27,7 +27,7 @@ bass:  ----------------------------------------------------
   
   ***G              C      G***  
   My Daddy was a bankrobber  
-  ****G                   C G*** (is this ***G*** here right?)*  
+  ***G                   C G*** (is this ***G*** here right?)*  
   But he never hurt nobody  
   ***G                C         G***  
   He just loved to live that way  
@@ -35,7 +35,7 @@ bass:  ----------------------------------------------------
   And he loved to steal your money  
   ***G                 C       G***  
   Some is rich, and some is poor  
-  ****G                  C     G*** (eh?)*  
+  ***G                  C     G*** (eh?)*  
   That's the way the world is  
   ***G                      C     G***  
   But I don't believe in lying back  

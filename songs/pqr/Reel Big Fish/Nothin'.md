@@ -75,13 +75,13 @@ solo:  [e:--------------------------------------------
   e:---------------------------------------------]  
   
   *post-solo: ***c f c g*** (one measure each chord)*  
-    ****f g*** (two downstrokes on ***f*** and then one on ***g***)*  
+    ***f g*** (two downstrokes on ***f*** and then one on ***g***)*  
   
   ***c***  
   i don't fuckin' care  
   ***f***  
   i don't fuckin' care  
-  ****c                       g***    harmonic fill on ***g***, 12th fret*  
+  ***c                       g***    harmonic fill on ***g***, 12th fret*  
   i don't fuckin' care anymore  
   ***c***  
   i don't fuckin' care  
@@ -115,6 +115,6 @@ solo:  [e:--------------------------------------------
   i don't fuckin' care anymore  
   
 outro:  ***c***  
-  ****e***-&gt;***f****  
-  ****a***-&gt;***g****  
+  ***e***-&gt;***f***  
+  ***a***-&gt;***g***  
   ***c***

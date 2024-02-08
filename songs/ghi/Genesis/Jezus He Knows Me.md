@@ -1,7 +1,7 @@
 <!--2020-09-07 04:07:18-->
 *Jezus He Knows Me*  
   
-  *I seem to remember there's one chord wrong somewhere, ***B***-&gt;***Bb*** or ***Eb***-&gt;***E****  
+  *I seem to remember there's one chord wrong somewhere, ***B***-&gt;***Bb*** or ***Eb***-&gt;***E***  
   *or something like that...*  
   
   *intro(keyboard)*  

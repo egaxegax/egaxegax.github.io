@@ -17,7 +17,7 @@ It's My Job To Keep Punk Rock Elite
   ***C5  F#5  G#5  D#5***  
   ***C5  G#5  B5   D#5***  
   *-=pre solo=-*  
-  ****C5*** (rest) ***C5*** (rest) ***C5*** (rest w/feedback)*  
+  ***C5*** (rest) ***C5*** (rest) ***C5*** (rest w/feedback)*  
   *-=solo=- (sorry to split this up, but my email sucks)*  
   D|-6-6--6-5-5--5-3-3--3-----------------------|  
      *then,*  

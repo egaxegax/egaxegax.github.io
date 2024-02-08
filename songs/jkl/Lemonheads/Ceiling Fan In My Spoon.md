@@ -4,7 +4,7 @@ Ceiling Fan In My Spoon
   *(For a more accurate version, buy the songbook "It's a Shame About Ray").*  
   
   *Weird chords:*  
-  ****Esus2*** : [024400]  ***G6*** : [320020]*  
+  ***Esus2*** : [024400]  ***G6*** : [320020]*  
   
 Intro:  | ***Esus2*** | ***Esus2*** | } x8  
   

@@ -20,9 +20,9 @@ The Masterplan (1998)
   *Chords used:*  
    [EADGBe]  
   ***Am      [x02210]***  
-  ****A7sus4***  [x02030] or try [x05430] (official book: ***G/A*** [x05433])*  
-  ****Fmaj7/A*** [x03210]               (official book: ***F/A*** [x03211])*  
-  ****C/B***    [x2x010]               (official book: ***G/B*** [x20003])*  
+  ***A7sus4***  [x02030] or try [x05430] (official book: ***G/A*** [x05433])*  
+  ***Fmaj7/A*** [x03210]               (official book: ***F/A*** [x03211])*  
+  ***C/B***    [x2x010]               (official book: ***G/B*** [x20003])*  
   ***C [x32010]***  
   ***D       [xx0232]***  
   ***E [022100]***  
@@ -36,11 +36,11 @@ The Masterplan (1998)
   *at how to play the intro, see the bottom of this transcription...*  
   *Chords used in intro:*  
   ***Am  [x07500]***  
-  ****Am/G#***   [x06500] (official book: ***Am(maj7/G#)***   [4x2210])*  
-  ****Am7***     [x05500] (official book: ***Am7/G***       [3x2210])*  
-  ****Am/F#*** [x04500]   (official book: ***Am6/F#***       [2x2210])*  
-  ****Fmaj7/A*** [x03500] (official book: ***Fmaj7***       [1x2210])*  
-  ****Am/D***    [x00500] (official book: ***D***       [xx0232])*  
+  ***Am/G#***   [x06500] (official book: ***Am(maj7/G#)***   [4x2210])*  
+  ***Am7***     [x05500] (official book: ***Am7/G***       [3x2210])*  
+  ***Am/F#*** [x04500]   (official book: ***Am6/F#***       [2x2210])*  
+  ***Fmaj7/A*** [x03500] (official book: ***Fmaj7***       [1x2210])*  
+  ***Am/D***    [x00500] (official book: ***D***       [xx0232])*  
   ***E7 [020100]***  
   *So here it goes:*  
   ***Am   Am/G#   Am7    Am/F#   Fmaj7/A    Am/D    Am    E7 } repeat***  
@@ -120,22 +120,22 @@ The Masterplan (1998)
 ----  
   
   *Chords Used:*  
-  ****Am***:[002210]*  
-  ****A****:[002030]*  
-  ****F*** :[133211]*  
-  ****G*** :[320033]*  
-  ****E*** :[022100]*  
-  ****D*** :[000232]*  
+  ***Am***:[002210]*  
+  ***A***:[002030]*  
+  ***F*** :[133211]*  
+  ***G*** :[320033]*  
+  ***E*** :[022100]*  
+  ***D*** :[000232]*  
   
   ***Am***  
   Take the time to make some sense  
-     ***A****  
+     ***A***  
   Of what you want to say  
       ***F                G            Am    E***  
   And cast your words away upon the waves  
   ***Am***  
   Sail them home with acquiesce  
-    ***A****  
+    ***A***  
   On a ship of hope today  
       ***F             G***  
   And as they land upon the shore  
@@ -164,13 +164,13 @@ The Masterplan (1998)
   We're all part of the masterplan  
   ***Am***  
   I'm not saying right is wrong  
-    ***A****  
+    ***A***  
   It's up to us to make  
       ***F                G                   Am  E***  
   The best of all the things that come our way  
     ***Am***  
   Cause everything that's been has passed  
-      ***A****  
+      ***A***  
   The answers in the looking glass  
     ***F               G***  
   There's four and twenty million doors  
@@ -212,7 +212,7 @@ The Masterplan (1998)
   *[A=0   A=0      A=0   A=0   A=0   A=0]    ..... and then an ***E7*** once.*  
   [E=X   E=X      E=X   E=X   E=X   E=x]  
     *^     ^*  
-    ****Fmaj7***? ***Dsus2 7***?*  
+    ***Fmaj7***? ***Dsus2 7***?*  
   *This section is repeated, but at the end after the ***Dsus2*** 7th or whatever it*  
   *is, you do this (it`s really the bit the strings do):*  
   [e|----------------------|]  

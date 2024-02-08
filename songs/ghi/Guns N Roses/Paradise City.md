@@ -62,9 +62,9 @@
   *This part, with distorsion sounds more authenticy!*  
   *Note for Beginers or quickly readings: if you think that the Tab of the*  
   *introduction is difficult to play, you can try that:*  
-  *Chords: ***G  C  F  C  G****  
+  *Chords: ***G  C  F  C  G***  
   *F.E. with ***G*** chord:*  
   *Play the chord up to down (6th string to 1st, [E] to [E]) quickly, and*  
-  *the strings [E A D E A D]; change to ***C*** and do the same; BUT with ***F***, ***C****  
+  *the strings [E A D E A D]; change to ***C*** and do the same; BUT with ***F***, ***C***  
   *chord play the strings: [E A D] (only one time) and [G] to end...Come to*  
   *the ***G*** initial and repeat... (Is better you listen de Tape, CD or LP).*

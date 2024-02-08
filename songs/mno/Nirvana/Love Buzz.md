@@ -9,7 +9,7 @@ Bleach (1989)
   6|-5--x-3-5-6------ play 4x  
   
   *Intro (Guitar)*  
-  ****A5*** chord 4x, then this:*  
+  ***A5*** chord 4x, then this:*  
   
   *Riff A*  
   1|---0-0-5^3^0----------  

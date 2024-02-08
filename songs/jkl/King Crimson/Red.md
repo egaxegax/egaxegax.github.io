@@ -63,11 +63,11 @@ Red
   *So the 1st verse is played if we call the main riff ***E***, the transposed*  
   *riffs of 1 and 1 1/2 steps ***F#*** and ***G*** respectvely and including the "sick"*  
   *notes (i) and (ii) we get the sequence...*  
-   ****E  E  F#  E (i)  G  G  E (i)***    then 1st chorus*  
+   ***E  E  F#  E (i)  G  G  E (i)***    then 1st chorus*  
   
    *2nd time through it is....*  
   
-   ****E  E (i)  F# (ii)  E (i)***        then 2nd chorus*  
+   ***E  E (i)  F# (ii)  E (i)***        then 2nd chorus*  
   
   *The bass drones these notes as roots for this section playing octaves*  
   *for accents.*  

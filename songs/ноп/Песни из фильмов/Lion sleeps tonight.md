@@ -30,13 +30,13 @@ Lion sleeps tonight
   
   *The chords used are:*  
   
-  ****A*** (barred at the 5th fret)*  
-  ****C#m*** (barred at the 4th fret)*  
-  ****D*** (barred at the 5th fret)*  
-  ****E*** (barred at the 7th fret)*  
+  ***A*** (barred at the 5th fret)*  
+  ***C#m*** (barred at the 4th fret)*  
+  ***D*** (barred at the 5th fret)*  
+  ***E*** (barred at the 7th fret)*  
   
-  *INTRO and VERSES: ***A***-***C#m***-***D***-***E****  
+  *INTRO and VERSES: ***A***-***C#m***-***D***-***E***  
   
-  *CHORUS ("In the spaceship...): ***A***-***D***-***A***-***E****  
+  *CHORUS ("In the spaceship...): ***A***-***D***-***A***-***E***  
   
   *The words to the song are all listed with the CD.*

@@ -101,7 +101,7 @@ CHORUS:  Let it grow, let it grow, let it blossom let it
   
   *This is the basic structure for the verses and chorus. For the*  
   *instrumental part with the dobro solo, the chords go: ***G***, ***D/F#***, ***Em***, ***Bm***, ***A***,*  
-  ****G***, ***Em***, ***Bm***, ***F#***, ***Bm***, ***F#7***, ***D/A***, ***E/G#***, ***G***, ***A***.*  
+  ***G***, ***Em***, ***Bm***, ***F#***, ***Bm***, ***F#7***, ***D/A***, ***E/G#***, ***G***, ***A***.*  
   *This part is sort of difficult to learn, but if you listen to the song it*  
   *should become clear eventually.*  
   *Hope this helps.*  

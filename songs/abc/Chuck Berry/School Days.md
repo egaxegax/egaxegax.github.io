@@ -9,7 +9,7 @@ School Days
   American history and practical math  
     ***G***  
   You studyin' hard and hopin' to pass  
-    ****D   C***(no chords)*  
+    ***D   C***(no chords)*  
   Workin' your fingers right down to the bone  
     ***G***  
   And the guy behind you won't leave you alone  

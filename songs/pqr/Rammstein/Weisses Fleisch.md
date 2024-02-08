@@ -216,7 +216,7 @@ Song structure: Intro
   *Басовая табулатура*  
   
   *(4/4)(132 bpm)*  
-  ****E*** string tuned to ***Eb****  
+  ***E*** string tuned to ***Eb***  
   
   ** - note held for an eighth beat*  
   

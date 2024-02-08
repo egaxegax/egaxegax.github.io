@@ -32,7 +32,7 @@ But everything I do, I do just for you
 E D E  
 Im a little bit of old, and a bigger bit of Nu  
 E G E  
-The true ni**** know that the peas come thru  
+The true ni*** know that the peas come thru  
   
 We never cease(NOO), we never die no we never decease (NOO)  
 We multiply like we mathamatice  

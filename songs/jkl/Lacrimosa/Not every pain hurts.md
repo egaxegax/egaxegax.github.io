@@ -127,7 +127,7 @@ Lacrimosa Live (Original from "Stille" 1997)
   *Accordeon:  ***Gm***-***Eb***-***F***-***D*** X4 (4th time ***D*** lasts for a while)*  
   
   *SOLO: (Difficult to hear)*  
-  *Guitar1: ***G - D - G - D****  
+  *Guitar1: ***G - D - G - D***  
   *Guitar2:*  
   |------|-----------------------------------------------------------------------|  
   |------|----10b11---10b11b10^8-10b11-10~---------------------------------------|  

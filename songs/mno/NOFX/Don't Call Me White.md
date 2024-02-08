@@ -52,11 +52,11 @@ Don't Call Me White
   Don't call me white, don't call me white  
     ***F#5          A5      C#5***  
   Don't call me white, don't call me white  
-    ****C#5*** (palm muted)*  
+    ***C#5*** (palm muted)*  
   Represents everything I hate  
     ***A5                          E5***  
   The soap shoved in your mouth to cleanse the mind  
-    ****C#5                          C#5*** (palm muted)*  
+    ***C#5                          C#5*** (palm muted)*  
   A vast majority I've sheep, a buttoned collar, starched and bleached  
     ***A5***  
   constricting veins, the blood flow to the brain slows  

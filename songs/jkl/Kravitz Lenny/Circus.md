@@ -6,7 +6,7 @@ Album - Circus
   *had to do it. I think it's one of his best ones.*  
   
   *Hard (ish) chords:*  
-  ****C#maj7***:  [445454]   ***Eb6***  [668888]  ***Fm***  [133111]  ***C6***  [032110]*  
+  ***C#maj7***:  [445454]   ***Eb6***  [668888]  ***Fm***  [133111]  ***C6***  [032110]*  
   
   *Intro/Verse:*  
   *------------*  

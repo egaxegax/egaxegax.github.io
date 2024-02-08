@@ -13,5 +13,5 @@ Who The Cap Fit
   ---6---------6--7--8---------8----6-------------------------------5---]  
   *thats all the song*  
   *the guitat cords are:*  
-  *verse: ***Gm Cm Gm****  
-  *chorus: ***A# Cm D****
+  *verse: ***Gm Cm Gm***  
+  *chorus: ***A# Cm D***

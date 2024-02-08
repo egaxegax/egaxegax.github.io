@@ -2,7 +2,7 @@
 'gepetto - ep'  
   Sexy S  
   
-      ***Bb   C*   D****  
+      ***Bb   C*   D***  
   [e-------------------  
   b---3----5----7-----  
   g---3----5----7-----  
@@ -20,7 +20,7 @@
   i can't aim  
   ***Bb               A          Bb***  
   but i can turn this - into gold  
-  ***A      Bb           C*        D****  
+  ***A      Bb           C*        D***  
   on the wings of the angel who left you here  
   ***E***  
   sadie, sadie  
@@ -52,7 +52,7 @@
   and i can't swim  
   ***Bb               A          Bb***  
   but i can turn this - into gold  
-  ***A       Bb       C*          D****  
+  ***A       Bb       C*          D***  
   hit the water in slo-mo like angels in...  
   [e-----------------|-------------------|---------------------------------  
   b-----------------|-------------------|---------------------------------  

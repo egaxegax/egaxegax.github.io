@@ -2,7 +2,7 @@
 Nevermind (1991)  
   Territorial Pissings  
   
-  *Verse And Chorus: ***A5 F5***(8th fret) ***D5****  
+  *Verse And Chorus: ***A5 F5***(8th fret) ***D5***  
   
 Bridge:  4|-7-7-7-  
   5|-7-7-7-  

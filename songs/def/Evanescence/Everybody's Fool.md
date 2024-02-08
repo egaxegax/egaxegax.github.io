@@ -6,7 +6,7 @@ Everybody's Fool
   
   ***Dm         Dm*     Dm       B    Gm    C***  
   Perfect by nature, icons of self-indulgence  
-  ***Dm           Dm****  
+  ***Dm           Dm***  
   Just what we all need  
   ***Dm        B     Gm   C***  
   More lies about a world  
@@ -39,5 +39,5 @@ Everybody's Fool
   Not for real that you can save me  
   And somehow now you're everybody's fool.  
   
-  ****Dm**** - ecли cтaвить бeз бape, тo 1-я cтpyнa нa пepвoм лaдy нe пpижимaeтcя*  
+  ***Dm*** - ecли cтaвить бeз бape, тo 1-я cтpyнa нa пepвoм лaдy нe пpижимaeтcя*  
   *Мoжнo c бape oт 5-гo лaдa, тoгдa зaжимaютcя 3 и 4-я cтpyны нa 7-oм лaдy.*

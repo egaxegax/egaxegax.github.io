@@ -16,4 +16,4 @@ Ventilator Blues
   G-0-3------------------  
   D----------------------]  
   *X = hit strings with right hand*  
-  *The chords over the chorus part are ***Gm*** - ***Bb*** - ***F*** - ***C****
+  *The chords over the chorus part are ***Gm*** - ***Bb*** - ***F*** - ***C***

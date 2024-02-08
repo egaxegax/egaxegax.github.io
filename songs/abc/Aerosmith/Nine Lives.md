@@ -9,7 +9,7 @@
   A--------------------------------|  
   E--2\5~~~~~~~~~~~~~~~~~~~~~~~~---|]  
   followed by massive feedback, cat noises, etc...  
-  *main riff:  ***G5                 A5      C5  A****  
+  *main riff:  ***G5                 A5      C5  A***  
   [E--------------------------------------------------|  
   B------------------------------------------2--2----|  
   G--------------------------------------5---2--2----|  
@@ -20,7 +20,7 @@
   And in a wink, the funk was all around me  
    ***E                       B***  
   And I think, I'm dead in love again  
-    ****C#*** (for the entire chorus)*  
+    ***C#*** (for the entire chorus)*  
   Nine lives, feelin' lucky, nine lives, live again...  
   *Ф*  
   [E-----------------|  

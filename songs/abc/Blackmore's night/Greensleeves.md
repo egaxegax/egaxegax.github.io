@@ -35,10 +35,10 @@ From Album Blackmore's Kingdom
   *Acoustic*  
   
   *The way you should play (hold) following chords:*  
-  ****Dm*** [x57765] (barre)*  
-  ****C***  [x35553] (barre)*  
+  ***Dm*** [x57765] (barre)*  
+  ***C***  [x35553] (barre)*  
   ***Am*** [x02210]  
-  ****Bb*** [x13331] (barre)*  
+  ***Bb*** [x13331] (barre)*  
   ***A***  [x02220]  
   ***F***  [x 8'10'10'10'8]  
   

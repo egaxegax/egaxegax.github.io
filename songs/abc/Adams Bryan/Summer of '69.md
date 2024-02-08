@@ -2,34 +2,34 @@
 "Unplugged"  
   Summer of '69  
   
-  ****D**** is the progression: ***Dsus*** - ***D*** - ***Dsus4*** - ***D*** - ***Dsus*** - ***D*** (arpeggiated)*  
-  ****A**** is the progression: ***Asus*** - ***A*** - ***Asus4*** - ***A*** - ***Asus*** - ***A*** (arpeggiated)*  
+  ***D*** is the progression: ***Dsus*** - ***D*** - ***Dsus4*** - ***D*** - ***Dsus*** - ***D*** (arpeggiated)*  
+  ***A*** is the progression: ***Asus*** - ***A*** - ***Asus4*** - ***A*** - ***Asus*** - ***A*** (arpeggiated)*  
   
-Intro:  ***D* A* D* A****  
+Intro:  ***D* A* D* A***  
   
-  ***D*                             A****  
+  ***D*                             A***  
   i got my first real six string - brought it at the five & dime  
-  ***D*                            A****  
+  ***D*                            A***  
   played it til my fingers bled - was the summer of '69  
-  ***D*                          A****  
+  ***D*                          A***  
   me and some guys from school had a band and we tried real hard  
-  ***D*                              A****  
+  ***D*                              A***  
   jimmy quit and jody got married - shoulda known we'd never get far  
   ***Bm        A              D                      G***  
   oh when i look back now - that summer seemed to last for ever  
   ***Bm       A               D              G***  
   and if i had the choice - ya i'd always wanna be there  
-  ***Bm             A               D*   A****  
+  ***Bm             A               D*   A***  
   those were the best days of my life  
-  ***D*                       A****  
+  ***D*                       A***  
   ain't no use complaining - when ya gotta job to do  
-  ***D*                                     A****  
+  ***D*                                     A***  
   spent my evenings down at the drive in - and that's when i met you - ya  
   ***Bm               A              D                       G***  
   standing on your mamma's porch - you told me that you'd wait forever  
   ***Bm         A               D                   G***  
   and when i held your hand - i knew that it was now or never  
-  ***Bm             A               D*   A*                       D*  A****  
+  ***Bm             A               D*   A*                       D*  A***  
   those were the best days of my life - back in the summer of '69  
   ***F           Bb***  
   man we were killin' time  
@@ -38,38 +38,38 @@ Intro:  ***D* A* D* A****
   ***F       Bb                  C***  
   i guess nothing can last forever...  
   
-  ***D* A* D* A****  
+  ***D* A* D* A***  
   
-  ***D****  
+  ***D***  
   and now the times are changin'  
-  ***A****  
+  ***A***  
   look at everything that's come and gone  
-  ***D****  
+  ***D***  
   sometimes when i play my old six string  
-  ***A****  
+  ***A***  
   i think about you wonder what went wrong  
   ***Bm               A              D                 G***  
   standing on your manna's porch - you told me it'd last forever  
   ***Bm         A               D                   G***  
   and when i held your hand - i knew that it was now or never  
-  ***Bm             A                    D* A*                       D*  A****  
+  ***Bm             A                    D* A*                       D*  A***  
   those were the best days of my life -    back in the summer of '69  
   
-  *continue on ***D* A****  
+  *continue on ***D* A***  
   
   *Chords:*  
-  ****Bm*** - [x24432]*  
-  ****A***  - [x02220]*  
-  ****G***  - [320033] or [320003]*  
-  ****D***  - [xx0232]*  
-  ****F***  - [133211]*  
-  ****Bb*** - [x13331]*  
-  ****C***  - [x32010]*  
+  ***Bm*** - [x24432]*  
+  ***A***  - [x02220]*  
+  ***G***  - [320033] or [320003]*  
+  ***D***  - [xx0232]*  
+  ***F***  - [133211]*  
+  ***Bb*** - [x13331]*  
+  ***C***  - [x32010]*  
   
 ----  
   
   *The verses are just ***D A D A*** ... as many as needed with the change*  
-  *occurring on every second bar. There is an additional two bars of ***D****  
+  *occurring on every second bar. There is an additional two bars of ***D***  
   *at the start as well.*  
   *The way to play it is something like this:*  
   

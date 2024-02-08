@@ -80,7 +80,7 @@ Immigrant Song
   *If you listen carefully, ***A5*** is played 16 times quickly, ***B5*** is*  
   *also played 16 times quickly, ***C5*** is played 16 times, plus an extra 9.*  
   *Don't forget to stop short on the 9th time!*  
-  ****F#m*** is never played in the song, the beginning part is given as*  
+  ***F#m*** is never played in the song, the beginning part is given as*  
   *N.C. Let me just do the song:*  
   *Riff 1*  
   [e:---------------------------------------------------------|  

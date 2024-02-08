@@ -38,7 +38,7 @@ break:                  ***Gb***
   
   *back to first verse*  
   
-  *For the ending of this song, the Fab four go from ***Db*** To ***Ab****  
+  *For the ending of this song, the Fab four go from ***Db*** To ***Ab***  
   *over and over played against the Oh yeah, Oh yeah's.*  
   
 ----  

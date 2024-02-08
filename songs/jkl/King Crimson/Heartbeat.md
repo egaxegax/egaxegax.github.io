@@ -22,5 +22,5 @@ Heartbeat
   feel your heartbeat      right next to me  
     ***h-         A         A G***  
   right next to me  
-  ****c#-     H       A       G6***  (interlude and solo)*  
-  ****c#-     H***   (only last time)*
+  ***c#-     H       A       G6***  (interlude and solo)*  
+  ***c#-     H***   (only last time)*

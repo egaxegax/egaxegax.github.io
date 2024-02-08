@@ -50,4 +50,4 @@ Blood Of The Kings
   so forth  
   and that little bit at the very end goes something like  
   ***A B C***  
-  ****A B C***  until it gets really fast (get those chops up to scratch!)*
+  ***A B C***  until it gets really fast (get those chops up to scratch!)*

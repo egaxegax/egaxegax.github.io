@@ -2,9 +2,9 @@
 Under-song  
   
   ***C  B  Am***  
-  *(tacet)                                                                                            ***C  B  Am****  
+  *(tacet)                                                                                            ***C  B  Am***  
   Du hast mich so oft angespuckt, geschlagen und getreten  
-  *(tacet)                                                                                            ***G  C  B  Am****  
+  *(tacet)                                                                                            ***G  C  B  Am***  
   Das war nicht sehr nett von dir, ich hatte nie darum gebeten  
     ***F       C                                G***  
   Deine Feunde haben applaudiert, sie fanden es ganz toll  
@@ -24,9 +24,9 @@ Under-song
   Immer mitten in die Fresse rein  
     ***C                G  Dm  F  C  B  Am***  
   Immer mitten in die Fresse rein  
-  *(tacet)                                                                                            ***C  B  Am****  
+  *(tacet)                                                                                            ***C  B  Am***  
   Ich bin nicht stark und ich bin kein Held, doch was zuviel ist ist zuviel  
-  *(tacet)                                                                                            ***G  C  B  Am****  
+  *(tacet)                                                                                            ***G  C  B  Am***  
   Fьr deine Agressionen war ich immer das Ventil  
     ***F                                    C                       G***  
   Deine Kumpels waren immer dabei, doch jetzt wendet sich das Blatt  

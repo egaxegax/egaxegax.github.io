@@ -5,13 +5,13 @@
   *This is and increadible song to listen to and to play*  
   *So Enjoy :)*  
   *Stick a capo on the second fret and use these chords :)*  
-  ****F#m7*** - [022033]*  
-  ****A*** - [320033]*  
-  ****Esus4*** - [xx0233]*  
-  ****B7sus4*** - [x02033]*  
-  ****B7sus4**** - [x02233]*  
-  ****Dadd9*** - [x32033]*  
-  ****A/G#*** - [2x0033]*  
+  ***F#m7*** - [022033]*  
+  ***A*** - [320033]*  
+  ***Esus4*** - [xx0233]*  
+  ***B7sus4*** - [x02033]*  
+  ***B7sus4*** - [x02233]*  
+  ***Dadd9*** - [x32033]*  
+  ***A/G#*** - [2x0033]*  
   *Your 3rd and 4th fingers stay on the E and B*  
   *strings on the 3rd fret throughout the song :)*  
   
@@ -39,7 +39,7 @@ PRE-CHORUS: And ***Dadd9***all the roads we
   ***Esus4***lead us there are ***F#m7***blinding  
   ***Dadd9***There are many ***Esus4***things that I  
   Would ***A***like to ***A/G#***say to ***F#m7***you,  
-  but I ***Esus4***don't know ***B7sus4****how  
+  but I ***Esus4***don't know ***B7sus4***how  
   
 CHORUS:  Cause ***Dadd9***maybe ***F#m7 A***  
   ***F#m7***You're gonna be the one that  
@@ -62,7 +62,7 @@ PRE-CHORUS: And ***Dadd9***all the roads that
   ***Esus4***light the way are ***F#m7***blinding  
   ***Dadd9***There are many ***Esus4***things that I  
   Would ***A***like to ***A/G#***say to ***F#m7***you,  
-  but I ***Esus4***don't know ***B7sus4****how  
+  but I ***Esus4***don't know ***B7sus4***how  
   
 CHORUS:  Cause ***Dadd9***maybe ***F#m7 A***  
   ***F#m7***You're gonna be the one that  
@@ -112,11 +112,11 @@ SOLO:  [G|---------0-----|
   *work and it provokes them to do more transcriptions in the future.*  
   *--------------CAPO 2nd FRET---------------*  
   *Chords used in this transcription:*  
-  *[022033] - ***F#m7****  
-  *[320033] - ***A****  
-  *[X00233] - ***Esus4****  
-  *[X02033] - ***B7sus4****  
-  *[X32033] - ***F#m7aug5****  
+  *[022033] - ***F#m7***  
+  *[320033] - ***A***  
+  *[X00233] - ***Esus4***  
+  *[X02033] - ***B7sus4***  
+  *[X32033] - ***F#m7aug5***  
   *Basically, you're using ***Em7***, ***G***, ***Dsus4***, ***A7sus4***, and ***Cadd9*** shapes except with*  
   *a capo. Whee!*  
   *Verses:*  

@@ -144,7 +144,7 @@ Whiplash
   *RIFF D*  
   *RIFF E } x24 (last 16 with solo)*  
   
-  ****E5*** (VII fret)*  
+  ***E5*** (VII fret)*  
   
   *RIFF A } x4 (with solo)*  
   

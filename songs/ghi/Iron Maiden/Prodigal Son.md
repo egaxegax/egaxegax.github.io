@@ -23,17 +23,17 @@ Killers (1981)
   ||-5-7-2-/-/--5-7-2-/-/--5-7-2-/-/--5-7-2-/-/-4-2-4-2--5-7-2-/-/--5-7-2-/-/-||  
   ||-5-7-2------5-7-2------5-7-2------5-7-0-----0-0-0-0--5-7-2------5-7-2-----||  
   ||-3-5-0------3-5-0------3-5-0------3-5----------------3-5-0------3-5-0-----||  
-  ****Em                  G***                                       Riff B*  
+  ***Em                  G***                                       Riff B*  
   Listen to me Lamia, listen to what I've got to say.       [|-------------------|]  
-  ****Am                       C                 D*** (w/ Riff B)  [|-3---3---3-3-3-----|]*  
+  ***Am                       C                 D*** (w/ Riff B)  [|-3---3---3-3-3-----|]*  
   I've got these feelings, and they won't go away.          [|-0h2-0h2-0-2-0h2p0-|]  
   ***Em                          G***                             [|-0---0---0-0-0-----|]  
   I've got these fears inside that'll bring me to my knees. [|-------------------|]  
-  ****Am                      C                 D*** (w/ Riff B)   [|-------------------|]*  
+  ***Am                      C                 D*** (w/ Riff B)   [|-------------------|]*  
   Oh help me Lamia or I'm sure I'll die, oh please.  
   ***Em                G***  
   I feel unsettled, now I know that I've done wrong.  
-  ****Am                             C                        D*** (w/ Riff B)*  
+  ***Am                             C                        D*** (w/ Riff B)*  
   I've messed around with mystic things and magic for too long.  
   ***Em                              G***  
   I feel I'm being paid with this nightmare inside me,  

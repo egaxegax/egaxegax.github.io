@@ -2,7 +2,7 @@
 Fixing a Hole  
   *(Lennon/McCartney)*  
   
-  ****F C+ Fm7*** (2 beats per chord)*  
+  ***F C+ Fm7*** (2 beats per chord)*  
   
   ***Bb9         F          C+              Fm7        Fm6***  
   I'm fixing a hole    where the rain   gets in     and  

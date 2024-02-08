@@ -96,7 +96,7 @@ She Will Be Loved
   
   *no guitars, but chords are*  
   
-  ****Cm*** / ***Bb7*** - 4 times then Ab for 2 bars*  
+  ***Cm*** / ***Bb7*** - 4 times then Ab for 2 bars*  
   
   *then Figure 1 once (hold chord on bar 4)*  
   

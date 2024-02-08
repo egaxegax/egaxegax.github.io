@@ -36,7 +36,7 @@ Chorus:  La la la la la he wants to go to Magic Americ
   *Chorus*  
   
   *Mid 8: ***C#7 B7 F# G#m7*** } x3*  
-  *Then ***C#7 B7 A7****  
+  *Then ***C#7 B7 A7***  
   
 ----  
   

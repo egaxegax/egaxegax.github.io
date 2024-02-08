@@ -46,9 +46,9 @@
   On a winter's day, in the rain  
   ***C(viii)         Bb(vi)***  
   White bird in a golden cage  
-  ****Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
+  ***Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
   Alone.  
-  ****Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
+  ***Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
   The leaves blow 'cross the long black road  
   To the darkened sky, in its rage  
   But the white bird just sits in her cage  
@@ -59,15 +59,15 @@
   ***C(viii)   Bb(vi)***  
   ***C(viii)   Bb(vi)***  
   ***C(viii)   Bb(vi)***  
-  ****Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
-  ****Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
+  ***Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
+  ***Bb(vi)***-slide-***C(viii)   Bb(vi)***-slide-***C(viii)***  
   The white bird dreams of the aspen tree  
   With her dying leaves turning gold  
   But the white bird just sits in her cage  
   Growing old  
   ***F               G#              C***  
   White bird must fly or she will die  
-  ****F               G#              C    Bb*** (rest)*  
+  ***F               G#              C    Bb*** (rest)*  
   White bird must fly or she will die  
       ***Cm                Gm***  
   The sunsets come, the sunsets go  
@@ -83,9 +83,9 @@
   And she must fly  
   
   *Instrumental section:*  
-  ****Cm   Bb***          (8 times)*  
-  ****Cm   Dm  G   G#***  (4 times)*  
-  ****C(viii)  Bb(vi)***  (16 times)*  
+  ***Cm   Bb***          (8 times)*  
+  ***Cm   Dm  G   G#***  (4 times)*  
+  ***C(viii)  Bb(vi)***  (16 times)*  
   ***C(viii)***  
   White bird in a golden cage  
   On a winter's day, in the rain  

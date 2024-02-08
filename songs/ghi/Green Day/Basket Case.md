@@ -88,7 +88,7 @@ Verse:  I went to a shrink to analyze my dreams
 ----  
   
   *I had a few queries on the ***C#5*** chord in the orginal tab.*  
-  ****C#5*** is just a power chord at the fourth fret A string.*  
+  ***C#5*** is just a power chord at the fourth fret A string.*  
   *Here it is tabbed out.*  
      ***C#5***  
   [e-|-----|  

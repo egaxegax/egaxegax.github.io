@@ -5,7 +5,7 @@ Spanish Bombs
   *Thanks to Fred for these great chords. This song works really well*  
   *when you play them in as open a position as possible. The only tricky*  
   *one is the ***C#m/E***, which sounds best fingured as ([x-x-2-1-2-0]). The regular*  
-  ****C#m*** is the usual ([x-4-6-6-5-4]).*  
+  ***C#m*** is the usual ([x-4-6-6-5-4]).*  
   
   *Also, here's the intro, which is repeated during the later verses:*  
   

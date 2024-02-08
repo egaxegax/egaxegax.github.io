@@ -26,7 +26,7 @@ Six Blade Knife
   
 ----  
   
-  *key: ***Am****  
+  *key: ***Am***  
   ***Am / C / D***  
   ***Am / C / D***  
   ***Am              C                    D***  

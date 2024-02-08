@@ -12,7 +12,7 @@ Jesse
   
   *Note: During the intro, finger the ***Dm*** "as usual" with the index,*  
   *middle and ring fingers of your left hand. During the verse, use your*  
-  *index, middle and PINKY so you can use your ring finger to fret the ***C****  
+  *index, middle and PINKY so you can use your ring finger to fret the ***C***  
   *in ***Dm/C***. This makes progressing from ***Dm*** to ***Dm/C*** to ***G7*** easy.*  
   
 Intro:    ***C                         Cmaj9***  

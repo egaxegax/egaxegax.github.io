@@ -1,9 +1,9 @@
 <!--2020-09-07 05:24:06-->
 Rest  
   
-  ****G  F***       &lt;===== arpeggio this...*  
+  ***G  F***       &lt;===== arpeggio this...*  
   
-  ****A#  A  G***   &lt;===== and this*  
+  ***A#  A  G***   &lt;===== and this*  
   
   ***G  F***  
   ***A#  A  G***  

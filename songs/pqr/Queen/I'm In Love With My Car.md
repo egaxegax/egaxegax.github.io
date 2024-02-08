@@ -107,7 +107,7 @@ Intro:  ***D***
   I'm in love with my car.    Gotta feel for my automobile.  
   ***Em               G                   D                       C***  
   Get a grip on my boy racer rollerbar, Such a thril when your radials squeal  
-  ****A*** slide to ***B*** (4time)                          ***B*** sl ***C*** (4times)*  
+  ***A*** slide to ***B*** (4time)                          ***B*** sl ***C*** (4times)*  
   Told my girl I just had to forget her,       Rather, buy me a new carburetor,  
   So she made tracks saying this is the end now, Cars don't talk back,  
   they're just four wheeled friends now  
@@ -155,7 +155,7 @@ outtro:  ***D***
     I'm in love with my car.    Gotta feel for my automobile.  
   ***Em                     G     D                         C***  
     I'm in love with my car.    String back gloves in my automolove.  
-  ****D*** (Fade Out)*  
+  ***D*** (Fade Out)*  
   
 ----  
   

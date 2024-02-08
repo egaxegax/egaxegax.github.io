@@ -110,6 +110,6 @@
   and all the while in perfect time your tears are falling on the ground  
   
   *Where this goes from there, I'm not sure. I think there's a ***C#*** after the*  
-  ****B***, but again I'm not entirely sure. But, this is the grand portion of*  
+  ***B***, but again I'm not entirely sure. But, this is the grand portion of*  
   *Sqounk, so don't let a little thing like the ending stop you from*  
   *enjoying it!*

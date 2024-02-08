@@ -11,5 +11,5 @@ That Beat
   ***A    D E***  
     That Beat  
   *Bridge:*  
-  ****D    A   E***   repeat*  
+  ***D    A   E***   repeat*  
   *Solo follows chorus chords*

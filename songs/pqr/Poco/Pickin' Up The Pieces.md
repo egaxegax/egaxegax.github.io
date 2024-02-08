@@ -48,4 +48,4 @@ Verse:  Somebody yelled out at me
   
   *Repeat chorus*  
   *Instrumental break on verse chords*  
-  *Repeat chorus --&gt; ***E  G#m****
+  *Repeat chorus --&gt; ***E  G#m***

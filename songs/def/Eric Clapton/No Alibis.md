@@ -2,7 +2,7 @@
 1987  
   No Alibis  
   
-  ****D***-***A***-***G*** (5x's)*  
+  ***D***-***A***-***G*** (5x's)*  
   Glen Word  
   
   ***A          Bm      G     D       G       D               A***  
@@ -31,7 +31,7 @@
     ***G D A   G            D          A       D-A-G***  
   Don't want no alibis, Just another reason for another lie  
   
-  *(2X)(RhymOFsong1X)   ***A***-***Bm***-***G***-***D***, ***G***-***D***-***A****  
+  *(2X)(RhymOFsong1X)   ***A***-***Bm***-***G***-***D***, ***G***-***D***-***A***  
   
     ***G D A   G         D                      A***  
   Don't give me no alibis, No untrue stories your trying to justify  

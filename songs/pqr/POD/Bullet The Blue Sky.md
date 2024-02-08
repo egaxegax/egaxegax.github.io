@@ -11,7 +11,7 @@ Intro:  (Note: Don't let the Am that you slide down to f
   D-x-x-x-x-7~--7/2-  
   A-x-x-x-x-5~--5/0-  
   D-x-x-x-x-0~------]  
-  ****Dm*** ([05776x])*  
+  ***Dm*** ([05776x])*  
   */ = slide*  
   
 Verse 1: Just let this ring while feedback pours out of your amp.  

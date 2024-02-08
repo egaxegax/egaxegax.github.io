@@ -32,7 +32,7 @@ Intro:  [---------------------------- ----------------------
   ------------------------------------------0----]  
   *That's pretty much the way all of the verses go.*  
   *Pre-chorus:*  
-   ****A  A  B  B  E***  (power chords)*  
+   ***A  A  B  B  E***  (power chords)*  
   *Chorus:*  
     I live      my life                  with no ...  
    ***B           A         E5        B A/B***  

@@ -2,7 +2,7 @@
 Its Not Too Late  
   
   *This song is actually played in ***F***, but it's a lot easier if you play it in*  
-  ****G***. I got the lyrics out of the JUSTUS CD.*  
+  ***G***. I got the lyrics out of the JUSTUS CD.*  
   
 Intro:  ***G***-***D***-***Em***-***C***-***G***-***D***-***G*** } 2x  
   

@@ -184,7 +184,7 @@ A Night At The Opera 1975
   ***F#m***  
   Love of my life...  
   
-  ****Cdim***: [8 9 10 8 10 8]*  
+  ***Cdim***: [8 9 10 8 10 8]*  
   
   *This is the chord version for the live version.*  
   *The studio version is in different key.*  

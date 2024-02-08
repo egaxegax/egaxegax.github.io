@@ -3,7 +3,7 @@ Even In Death
   
   *(Versao Acustica)*  
   
-  *Inicio - Riff ***Em Bb B****  
+  *Inicio - Riff ***Em Bb B***  
   
   Give me a reason to believe that you're gone  
   I see your shadow so I know they're all wrong  

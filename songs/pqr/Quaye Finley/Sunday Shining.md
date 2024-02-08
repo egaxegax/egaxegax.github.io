@@ -15,10 +15,10 @@
   A--------------------------------------------------  
   E--------------------------------------------------]  
   
-  ****Em*** = [x79987]*  
-  ****Amaj7*** = [xx765x]*  
-  ****C*** = a barred ***C*** (I use the `e` shape)*  
-  ****Bb***= a barred ***Bb*** (I use the `e` shape)*  
+  ***Em*** = [x79987]*  
+  ***Amaj7*** = [xx765x]*  
+  ***C*** = a barred ***C*** (I use the `e` shape)*  
+  ***Bb***= a barred ***Bb*** (I use the `e` shape)*  
   
   ***Em       Amaj7      Em             Amaj7   Em***  
 Verse:  Sun is shining the weather is sweet it yeh  

@@ -25,7 +25,7 @@ BR:  I'll look after you
   Like I've never done before  
     ***A***  
   I'll keep all those others  
-    ****B***(1 strum)*  
+    ***B***(1 strum)*  
   From knockin' at your door  
   
   *repeat 1st verse*  

@@ -37,7 +37,7 @@ Intro:  ***Em Hm A A6/A***
   What do I do?  
     ***G***  
   What do you say?  
-    ****D   A      Em   Hm A*** (from intro)*  
+    ***D   A      Em   Hm A*** (from intro)*  
   Don't throw your lifelines away  
     ***A6  A      Em   Hm A F7#***  
   Don't throw your lifelines away  
@@ -77,7 +77,7 @@ Intro:  ***Em Hm A A6/A***
   What do you say?  
     ***G***  
   How do I know?  
-    ****D   A    Em  Hm A*** (from intro)*  
+    ***D   A    Em  Hm A*** (from intro)*  
   Don't let your lifeline go  
     ***A6  A    Em  Hm A***  
   Don't let your lifeline go  
@@ -149,6 +149,6 @@ Intro:  ***Em Hm A A6/A***
   Don't let your lifeline go  
   ***G                       Dm   Am   G   E***  
   Don't let your lifeline go  
-  *(Зaтиxaя) ***Dm   Am   G****  
+  *(Зaтиxaя) ***Dm   Am   G***  
   ***G                       Dm   Am   G   E***  
   Don't let your lifeline go

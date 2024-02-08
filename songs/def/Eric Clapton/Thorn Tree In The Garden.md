@@ -37,8 +37,8 @@
     ***A       Am     E   Emaj7  A  Am E***  
   Maybe someday soon, someway  
   
-  ****Emaj7***: [0 2 2 4 4 4]*  
-  ****F#m/E***: [0 4 4 2 2 2]*  
+  ***Emaj7***: [0 2 2 4 4 4]*  
+  ***F#m/E***: [0 4 4 2 2 2]*  
   
   *NOTE: Obviously, there are two guitars playing. The other one is*  
   *hitting the same four harmonics over and over.*

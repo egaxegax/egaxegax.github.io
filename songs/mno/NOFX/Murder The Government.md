@@ -2,7 +2,7 @@
 ALBUM: SO LONG AND THANKS FOR ALL THE SHOES, FUCK THE KIDS 7"  
   Murder The Government  
   
-CHORDS:  ***B          G#          Em         F# *        F#          B****  
+CHORDS:  ***B          G#          Em         F# *        F#          B***  
   [-----------------------------------2-----------------------7  
   -----------------------------------2-----------------------7  
   -----------------------------------3-----------------------8  
@@ -35,7 +35,7 @@ CHORDS:  ***B          G#          E
   MURDER THE GOVERNMENT  
   ***G#***  
   MURDER THE GOVERNMENT  
-  ***Em                   B****  
+  ***Em                   B***  
   MURDER THE GOVERNMENT AND THEN MURDER THE GOVERNMENT  
   
   *PS. COME ON GUYS LETS FIGURE OUT THE REST OF THE NEW ALBUM!!!!*

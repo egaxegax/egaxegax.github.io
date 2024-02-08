@@ -1,7 +1,7 @@
 <!--2020-09-06 03:35:48-->
 Besinnung (Glaeser-Demmler)  
   
-  *Intro: 3x ***G A D D****  
+  *Intro: 3x ***G A D D***  
   
      ***D                          D***  
   [|:] Hmmmmm      ahum,ahum,ahum  [:|]  

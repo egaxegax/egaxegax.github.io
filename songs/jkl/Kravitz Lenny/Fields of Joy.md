@@ -59,7 +59,7 @@
   D|----4----4----4-2--2-2-1  
   A|-2----0-----------------  
   E|-----------4----3--3-3-3]  
-     ****B    D    E    G***       &gt;--Chords for verse 3 and solo*  
+     ***B    D    E    G***       &gt;--Chords for verse 3 and solo*  
      *=              =*  
   Let's wander slowly through the fields  
   Slowly, slowly through the fields  

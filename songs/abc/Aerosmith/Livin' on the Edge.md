@@ -17,11 +17,11 @@ Livin' on the Edge
   
   *_VERSE 1_____________________________________________________________*  
   
-  ****D5*** (w/Intro pattern)*  
+  ***D5*** (w/Intro pattern)*  
   there's something wrong with the world today, I don't know what it is  
   ***Bm                                                A5***  
   something's wrong with our eyes  
-    ****D5*** (w/Intro pattern)*  
+    ***D5*** (w/Intro pattern)*  
   we're seeing things in a different way, and God knows it ain't His  
      ***Bm***  
   it sure ain't no surprise           (yeah!)  
@@ -37,7 +37,7 @@ Livin' on the Edge
   |---------------------------------|---------------------------------|  
   *(or something like that... ): -)*  
   
-    ****D5*** (w/chorus pattern)*  
+    ***D5*** (w/chorus pattern)*  
   we're Livin' On The Edge  
   
   Livin' On The Edge  
@@ -57,7 +57,7 @@ Livin' on the Edge
   
   *_CHORUS_______________________________________________________________*  
   
-    ****D5*** (w/chorus pattern)*  
+    ***D5*** (w/chorus pattern)*  
   Livin' On The Edge     (you can't help yourself from falling)  
   
   Livin' On The Edge     (you can't help yourself at all)  
@@ -77,7 +77,7 @@ Livin' on the Edge
   |-4---4-------4---2-3-4-------4-2-|-4---4-------4---2-3-4-------4/--|]  
   tell me what you think about your situation, complication, aggravation  
   
-   ****B5*** (w/Fill 1 first time around, then Fill 2 second time)*  
+   ***B5*** (w/Fill 1 first time around, then Fill 2 second time)*  
   |---------------------------------|---------------------------------|  
   |---------------------------------|---------------------------------|  
   |-----------------------7---------|-----------------------7---------|  
@@ -143,7 +143,7 @@ Livin' on the Edge
   Livin' On The Edge  
   
   yeah, yeah, yeah...  
-  ****D5*** (hold for four measures)*  
+  ***D5*** (hold for four measures)*  
   
   *This pattern is repeated in the background from here on:*  
   

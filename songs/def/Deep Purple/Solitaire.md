@@ -29,16 +29,16 @@
   |3---------------|3---------------|3---------------|3---------------|  
   
   *VERSE*  
-  ****Gm*** (w/rhy.fig.A)                 ***Eb***/***G****  
+  ***Gm*** (w/rhy.fig.A)                 ***Eb***/***G***  
   |               |                 |                |                 |  
   Door            don't close the door                I want to feel the  
-  ****Gm*** (w/1st half of rhy.fig.A)       ***F****  
+  ***Gm*** (w/1st half of rhy.fig.A)       ***F***  
   |               |                 |                |                 |  
    cold            I want to see  the light  
-  ****Gm*** (w/rhy.fig.A & B)*  
+  ***Gm*** (w/rhy.fig.A & B)*  
   |               |                 |                |                 |  
   Mama                     where you gone                    this is no  
-  ****Gm*** (1/2*fig.A & fill 1)            ***F****  
+  ***Gm*** (1/2*fig.A & fill 1)            ***F***  
   |               |                 |                |                 |  
    dream               Can't make it right if it's wrong  
   

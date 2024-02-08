@@ -59,4 +59,4 @@ Verse 2: Sitting in a small cafe now
   *Repeat chorus and fade*  
   
   *Note: I use a regular ***D*** chord with the first ***E*** string open for*  
-  ****D/E/*** - sounds close, anyway.*
+  ***D/E/*** - sounds close, anyway.*

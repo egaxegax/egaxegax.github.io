@@ -69,7 +69,7 @@ The Game 1980
     *122154563218215456]*  
   
   *A few word of the guitar part:*  
-  *"strange" chord: [xx4452]  ***EA D GBE****  
+  *"strange" chord: [xx4452]  ***EA D GBE***  
   *funky chords: [x79987] , [81010988]*  
   
 ----  

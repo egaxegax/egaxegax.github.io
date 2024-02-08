@@ -30,7 +30,7 @@ Intro:  ***Bm D Em A***, ***Bm D Em A***
     ***G    Em          D                    A   G    A G A G***  
   I've been hoping that everything could be like before.  
   
-  ****Bm G D A***, ***Bm G D A****  
+  ***Bm G D A***, ***Bm G D A***  
   
   ***Bm          G   D        A***  
   Open your heart, let me hear you  

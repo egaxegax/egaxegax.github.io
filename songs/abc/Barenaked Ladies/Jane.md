@@ -8,7 +8,7 @@
   *(capo on 2nd or 3rd fret??)*  
   
   *The main verse part goes as follows (fret numberings are with the capo on):*  
-     ****C2         Em7   A7sus4  G/B***         (I'm guessing on chord names)*  
+     ***C2         Em7   A7sus4  G/B***         (I'm guessing on chord names)*  
   [E----------0------------3-------3----  
   B--------3---3-----------------------  
   G------0--------0--------------------  

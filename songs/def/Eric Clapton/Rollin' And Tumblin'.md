@@ -7,7 +7,7 @@
   *figured I'd just have to share it with the group.*  
   *To add some guitar content to the post:*  
   *The easy way to play the main riff is to alternate between ***G*** played*  
-  *in ***E*** form on the 3rd fret ([355433]), and the same thing without the ***E****  
+  *in ***E*** form on the 3rd fret ([355433]), and the same thing without the ***E***  
   *form - [333333]. (Technically, a ***Bb6***/***G***&***C***, I guess.)*  
   
   *The riff goes something like:*  

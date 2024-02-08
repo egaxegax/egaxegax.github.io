@@ -74,7 +74,7 @@ PERMANENT VACATION (1987)
   A ---2---0---2----5-5-5-5-5-5-4--3--2--0--2------  
   E -----------------------------------------------]  
   
-  *During the second solo, with the harmonica, drop the ***Db*** and ***C****  
+  *During the second solo, with the harmonica, drop the ***Db*** and ***C***  
   *chords and just riff on the ***A***, ***B***, and ***D***.*  
   
   *And the song really lends itself to flourishes, so take the*  

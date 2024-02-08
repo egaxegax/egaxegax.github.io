@@ -49,7 +49,7 @@ The Miracle 1989
     ***A***  
   And I'm giving it all, and I'm giving it all,  
   
-  *(During SOLO:) ***Bm G A E****  
+  *(During SOLO:) ***Bm G A E***  
   
   ***Bm G A G A***  
   

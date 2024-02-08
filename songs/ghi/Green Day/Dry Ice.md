@@ -55,6 +55,6 @@ Bridge:  come ease the pain that's in my heart
   
   ***G#***  
   ***G#  C  C#  G#***  
-  ****G#  C  C#  D#*** &lt;===== (6th fret)*  
+  ***G#  C  C#  D#*** &lt;===== (6th fret)*  
   ***C#  G#  C#  G#  C#  D#***  
   ***G#  F  F#  G  F  F#***

@@ -39,7 +39,7 @@ The Hurting (1983)
   Oh what is it worth,  
   When it don't turn out the way that it should  
   
-  *Alt chords: Verses - ***D D7 G***; CHorus - ***C G****  
+  *Alt chords: Verses - ***D D7 G***; CHorus - ***C G***  
   
 ----  
   

@@ -28,4 +28,4 @@ chorus:  Ob-la-***G***di, ob-la-da, life goes ***Bm***on    
   
   *chorus*  
   
-  ****NC*** --&gt; No chord is played*
+  ***NC*** --&gt; No chord is played*

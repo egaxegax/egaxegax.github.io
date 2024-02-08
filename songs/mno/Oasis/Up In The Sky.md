@@ -13,7 +13,7 @@ Definitely Maybe (1994)
   ***C [x32010]***  
   ***Cadd6 [x32013]***  
   ***C5 [x3555x]***  
-  ****A7/C#*** [x42020]  can also be played easier as [x456xx]*  
+  ***A7/C#*** [x42020]  can also be played easier as [x456xx]*  
   ***D [x57775]***  
   ***Em [x79987]***  
   *Here's the tab for the riff that is played through all the "***G***"*  
@@ -49,7 +49,7 @@ Definitely Maybe (1994)
   *Chorus*  
   ***C           A7/C#***  
   How does it feel  
-    ****G*** (w/ main riff)*  
+    ***G*** (w/ main riff)*  
   When you're inside me.  
   
   *Verse 2*  

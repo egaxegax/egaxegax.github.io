@@ -64,9 +64,9 @@ Chorus 2: She's a day ride on a mystery train
   On a mystery train, yeah, yeah  
   
   *Special chords.*  
-  ****D****,***D*2*** & ***D*3*** are all plucked notes of the "***D***" Chord.*  
+  ***D***,***D*2*** & ***D*3*** are all plucked notes of the "***D***" Chord.*  
   *(Listen to the track you-ll pick it up)*  
-  ****D**** is jut ***Dsus2*** ([xx0230]) plucked.*  
+  ***D*** is jut ***Dsus2*** ([xx0230]) plucked.*  
   
   ***D*2***  
   [E|-----0---|  

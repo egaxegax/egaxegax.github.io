@@ -6,7 +6,7 @@ She and I
   She and I live in our own little world  
   ***D***  
   don't worry about the world outside  
-  ****Gmaj9*** (this sounds right to me)*  
+  ***Gmaj9*** (this sounds right to me)*  
   She and I agree  
   ***Gmaj9***  
   She and I lead a perfectly normal life  

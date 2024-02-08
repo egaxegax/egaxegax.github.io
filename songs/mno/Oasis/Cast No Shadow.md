@@ -49,11 +49,11 @@
   
   *Chords used:*  
     *EADGBe*  
-  ****A7sus4***  ([x02033]) (official book: ***Asus4*** ([x02230]))*  
-  ****G***       ([3x0033])*  
-  ****Em7***     ([022033]) (official book: ***Em*** ([022000]))*  
-  ****Dsus4***   ([xx0233]) (official book: ***D*** ([xx0232]))*  
-  ****Cadd9***   ([x32033]) (official book: ***C*** ([x32010]))*  
+  ***A7sus4***  ([x02033]) (official book: ***Asus4*** ([x02230]))*  
+  ***G***       ([3x0033])*  
+  ***Em7***     ([022033]) (official book: ***Em*** ([022000]))*  
+  ***Dsus4***   ([xx0233]) (official book: ***D*** ([xx0232]))*  
+  ***Cadd9***   ([x32033]) (official book: ***C*** ([x32010]))*  
   
 Intro:  ***A7sus4  G  A7sus4  G***  
   
@@ -67,7 +67,7 @@ Verse 1: Here's a thought for every man who tries to under
   surviving if he can   (only if he can)  
   
   *(low "***E***" string: play G-note, then*  
-  ****F#*** for the transition between verse & prechorus)*  
+  ***F#*** for the transition between verse & prechorus)*  
   
   ***Em7     Dsus4             Cadd9             G***  
 Pre-Chorus: Bound with all the weight of all the words he tried to say  
@@ -85,7 +85,7 @@ Chorus:  As they took his soul they stole his pride  (pr
   ***Em7       Dsus4  Cadd9***  
   As he faced the sun he cast no shadow  
   
-  *Musical Interlude: (bass fill) then  ***A7sus4   G   A7sus4   G****  
+  *Musical Interlude: (bass fill) then  ***A7sus4   G   A7sus4   G***  
   
   *VERSE 1 AGAIN*  
   *PRE-CHORUS AGAIN*  

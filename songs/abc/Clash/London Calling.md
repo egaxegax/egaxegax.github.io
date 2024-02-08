@@ -3,7 +3,7 @@ London Calling
   
 Intro:  ***Em Em Em Em C C C C***  
   ***Em Em Em Em C C C C***  
-  ****Em Em Em Em C C C C***  (Bass enters)*  
+  ***Em Em Em Em C C C C***  (Bass enters)*  
   ***Em Em Em Em C C C C***  
   
 Verse:  "London Calling,... (damn, I wish I knew the words...)  

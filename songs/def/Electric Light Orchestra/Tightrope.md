@@ -81,7 +81,7 @@ Live at Wembley'78 (1988)
    ***C  G Am  C7  F         G         Cm Ab  Dm7-5 Cm  G***  
   Somebody had thrown me down the line  
   
-  ****Dm7-5***: [xx0111]*  
+  ***Dm7-5***: [xx0111]*  
   
 ----  
   

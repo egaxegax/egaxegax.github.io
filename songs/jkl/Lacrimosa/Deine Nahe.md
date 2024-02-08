@@ -80,7 +80,7 @@ Lacrimosa Live (Original from "Stille" 1997)
   |--------------------------------------------------------|  
   
   *INTERLUDE:*  
-  *|Guitar1: power chords in ***Am*** - ***F*** - ***G*** - ***F*** - ***G****  
+  *|Guitar1: power chords in ***Am*** - ***F*** - ***G*** - ***F*** - ***G***  
   *|Guitar2:*  
   ***| Am                     F                              G***  
   |-------10----12-----12--13----------------------------------13-12---15-\---|  
@@ -98,7 +98,7 @@ Lacrimosa Live (Original from "Stille" 1997)
   |-----------------------------------------------------------------------------|  
   
   *|Guitar 2: quiet*  
-  *|bass: ***Am*** - ***F*** - ***G*** - ***F*** - ***G****  
+  *|bass: ***Am*** - ***F*** - ***G*** - ***F*** - ***G***  
   *|Guitar 1:*  
   |-----------------------------------------|  
   |----------------------------5-6---6------|  
@@ -222,7 +222,7 @@ Lacrimosa Live (Original from "Stille" 1997)
      *PM.................................*  
   
   *OUTRO SOLOS:*  
-  *Rhythm: ***A***-***G***-***G***-***F****  
+  *Rhythm: ***A***-***G***-***G***-***F***  
   *Solos: too difficult to tab them exactly, but they are nothing but variations*  
   *around the pentatonic scale... you only needs to hear them throughly, figure*  
   *out the basic variations and invent your own solo. Here are the basic tones:*  

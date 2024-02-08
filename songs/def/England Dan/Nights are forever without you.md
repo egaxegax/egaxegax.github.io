@@ -40,4 +40,4 @@ CHORUS:  Soft and low the music moans
   
   *repeat CHORUS*  
   
-  ****F#m(addE)***: [044200]*
+  ***F#m(addE)***: [044200]*

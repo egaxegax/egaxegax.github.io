@@ -52,7 +52,7 @@ Never Let Me Down
   Taking me where I want to be  
   ***Dm           C                       G riff***  
   I~m taking a ride with my best friend  
-  *Riff 2:  ***Dm   C    G riff****  
+  *Riff 2:  ***Dm   C    G riff***  
   ***Cm           Bb***  
   We~re flying high  
     ***Gm            F***  
@@ -72,7 +72,7 @@ Never Let Me Down
   As long as I remember who~s wearing the trousers  
   ***Dm        C                       G riff***  
   I hope he never lets me down again  
-  *Riff 2:  ***Dm   C    G riff****  
+  *Riff 2:  ***Dm   C    G riff***  
   ***Cm           Bb***  
   We~re flying high  
     ***Gm            F***  

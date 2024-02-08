@@ -14,8 +14,8 @@ DOINA HAIDUCULUI
   ***Em     [022000]***  
   ***Am     [002210]***  
   ***D      [000232]***  
-  ****G***      [320003] sau [320033]*  
-  ****C/G***    [x32013]  (denumirea acordului nu sunt sigur daca e asta)*  
+  ***G***      [320003] sau [320033]*  
+  ***C/G***    [x32013]  (denumirea acordului nu sunt sigur daca e asta)*  
   ***H7     [021202]***  
   ***C      [332010]***  
   *[5/7]    slide up (slaid in sus de la 5 spre 7)*  

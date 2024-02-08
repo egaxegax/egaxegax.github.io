@@ -1,9 +1,9 @@
 <!--2020-09-06 00:53:48-->
 Let Me Inside  
   
-  *KEY: ***Cm****  
+  *KEY: ***Cm***  
   *Drum roll.*  
-  *Intro lead: ***Cm / Cm****  
+  *Intro lead: ***Cm / Cm***  
     ***Cm***  
   Well Hello, What's your name?  
   Can I take you by the hand?  
@@ -51,7 +51,7 @@ Let Me Inside
   ***Fm / Fm***  
   ***Cm -(Bb) / Cm -(Bb)***  
   ***Fm-Gm-Ab-Bb-Cm***  
-  *Full Chorus;  ***Cm****  
+  *Full Chorus;  ***Cm***  
   *Lead:3;   ***Cm*** - ***(Bb)***  .....8 x*  
   *Chorus: 1 line;  ***Cm*** - ***(Bb)***  
   *Lead:4;   ***Cm*** - ***(Bb)***  ..... 2 xx*  

@@ -9,7 +9,7 @@ Familiar To Millions (2000), Standing On The Shoulder Of Giant
   ***A7sus4 [X0203X]***  
   ***Cadd9  [X3203X]***  
   ***G/B    [X2003X]***  
-  ****G****     [XA0000] (A=10th fret)*  
+  ***G***     [XA0000] (A=10th fret)*  
   ***G/F    [X80000]***  
   ***G/E    [X70000]***  
   ***G/D    [X50000]***  

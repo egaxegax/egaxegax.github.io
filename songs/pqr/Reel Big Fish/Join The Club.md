@@ -18,7 +18,7 @@ Join The Club
   A:--9--------  
   E:-----------]  
   
-      ****a71*** (form ***a7*** as listed above, but strum only these strings)*  
+      ***a71*** (form ***a7*** as listed above, but strum only these strings)*  
   [e:--5--5--7--pull off to 5-]  
   *[B:--5--5--5----------------] d- downstroke*  
   *[G:--6--6--6----------------] u- upstroke*  

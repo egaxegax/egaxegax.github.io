@@ -3,7 +3,7 @@ In Utero (1993), MTV Unplugged In New York (1994)
   Pennyroyal Tea  
   *Music and words by Kurt Cobain*  
   
-  *Tune down 1/2-step:  ***Eb Ab Db Gb Bb Eb****  
+  *Tune down 1/2-step:  ***Eb Ab Db Gb Bb Eb***  
   
   ***Am                 G***  
   Im on my time with everyone  
@@ -29,7 +29,7 @@ In Utero (1993), MTV Unplugged In New York (1994)
   Im on warm milk and laxatives  
   Cherry-flavored antacids  
   
-  *End on ***Am****  
+  *End on ***Am***  
   
     *E A D G B e*  
   ***Am***   [x 0 2 2 1 0]  

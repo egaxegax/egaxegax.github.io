@@ -3,9 +3,9 @@ Heathen Chemistry (2002)
   Songbird  
   
   *CHORDS USED:*  
-  ****G***------([320033])*  
-  ****G/F#***---([2x0033])*  
-  ****Em***-----([022000])*  
+  ***G***------([320033])*  
+  ***G/F#***---([2x0033])*  
+  ***Em***-----([022000])*  
   
   ***G***  
 VERSE-1: Talkin to the songbird yesterday  

@@ -35,7 +35,7 @@ Bridge intro: ***A  A  Fmaj7 E*** } 2x
   ***Fmaj7                E***  
   and in a while I close my eyes  
   
-  *Final verse intro: ***G G C C D D D D****  
+  *Final verse intro: ***G G C C D D D D***  
   
   ***G***  
   you can  

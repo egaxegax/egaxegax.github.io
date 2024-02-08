@@ -3,7 +3,7 @@
   Wahre Liebe  
   *(Lyrics and Musik: Achim Reichel)*  
   
-  *INTRO: ***G****  
+  *INTRO: ***G***  
   ***G                    Am   D                    Em***  
   ich hoff es geht dir gut, lange nichts von dir gehцrt  
     ***Am      D                      G***  

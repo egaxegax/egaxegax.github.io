@@ -3,8 +3,8 @@
   Sometimes I Feel Like Screaming  
   *(Gillan/Glover/Morse/Lord/Paice)*  
   
-  *solo- and intro-chords:    ***d   Bb   C   a   Bb   C   G****  
-  *verse:    ***d   d   d4   d   a   C****  
+  *solo- and intro-chords:    ***d   Bb   C   a   Bb   C   G***  
+  *verse:    ***d   d   d4   d   a   C***  
     ***d   d   d4   d   a***  
   *chorus:    ***F   Bb   F   C   Ab   Db   Ab   Eb***   (power-chords with full*  
     *distortion)*  

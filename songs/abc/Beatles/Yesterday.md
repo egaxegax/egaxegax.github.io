@@ -264,7 +264,7 @@ CODA:      ***Dm   G7    Bb  F***
   
   *You need to tune all strings down one tone for this - so when*  
   *you play a ***G*** shape it actually comes out in the key of ***F***.*  
-  *It's important to do this - you can't just play the thing in ***F****  
+  *It's important to do this - you can't just play the thing in ***F***  
   *using normal tuning - you need some bass notes which you can*  
   *only get by tuning down a tone and playing as if in ***G***.*  
   

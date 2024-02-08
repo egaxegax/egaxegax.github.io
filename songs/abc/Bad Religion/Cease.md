@@ -47,8 +47,8 @@ The Gray Race
   Everything must cease  
   
   *The way this sounds best is if you play it in ***E*** (power chords).*  
-  *Then the intro is: ***EED CCB***. the basic chord pattern is ***E D C B****  
+  *Then the intro is: ***EED CCB***. the basic chord pattern is ***E D C B***  
   *(Black top pavement...) When it goes "Shakes the leaves off of..."*  
-  ****C D B***, and "Violently" is ***C B A***. "Everything must cease" is*  
-  ****E D C*** ... ***D E***. If that's a little hard to understand, listen*  
+  ***C D B***, and "Violently" is ***C B A***. "Everything must cease" is*  
+  ***E D C*** ... ***D E***. If that's a little hard to understand, listen*  
   *to the album.*

@@ -10,7 +10,7 @@ Who's Missing (1970)
   *I think this sounds best when everything (except maybe the E) is done with*  
   *barre chords...*  
   ***A  F  D  A } x2***  
-  ****A G A G*** &lt;-- cool punchy rock type riffin' continues through first lines...*  
+  ***A G A G*** &lt;-- cool punchy rock type riffin' continues through first lines...*  
     ***A         G          A              G             A***  
   On top of the sky is the place where you go if you've done nothing wrong  
     ***G            E***  

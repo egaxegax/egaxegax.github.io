@@ -28,7 +28,7 @@ Intr:  [e---------------------------------|------------------------0--------
   Reach for a star and I'll show you a plan  
       ***Am***  
   I figured it out  
-    ****G***       (***G F# G B*** - bass only)*  
+    ***G***       (***G F# G B*** - bass only)*  
   What I needed was someone to show me  
   ***Am                  Bm***  
   You know you can't fool me  

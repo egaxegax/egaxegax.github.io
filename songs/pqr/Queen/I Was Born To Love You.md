@@ -7,7 +7,7 @@ Made In Heaven 1995
   *CHORUS*  
   ***G     Bm      C           Em C Em***  
   I was born to love you  
-  ****Am                           D***   (descending notes ***D C B A***)*  
+  ***Am                           D***   (descending notes ***D C B A***)*  
   With every single beat of my heart  
   ***G     Bm           C***  
   I was born to take care of you  
@@ -41,7 +41,7 @@ Made In Heaven 1995
   *CHORUS*  
   ***Ab     Cm      Db           C Db C Bb***  
   I was born to love you  
-  ****Bbm                           Eb***   (descending notes ***Eb Db C Bb***)*  
+  ***Bbm                           Eb***   (descending notes ***Eb Db C Bb***)*  
   With every single beat of my heart  
   etc...  
   ***Bb7                              Db/Eb***  

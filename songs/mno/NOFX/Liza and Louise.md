@@ -6,11 +6,11 @@
   *bar chords(fat that is) with a punky zip*  
   *Enjoy!!*  
   *Intro & Verses*  
-  ****A***, ***F#***, ***D***, ***B***, ***E***, ***A*** repeat with mutting and fat distortion*  
+  ***A***, ***F#***, ***D***, ***B***, ***E***, ***A*** repeat with mutting and fat distortion*  
   *Starting with Liza had put down a few....*  
-  ****F#***, ***B***, ***E***, ***C#***, ***A****  
+  ***F#***, ***B***, ***E***, ***C#***, ***A***  
   *"They make her scream etc.*  
-  ****A***, ***E***, ***D***, ***C#***, ***B***, ***E***: on "You know she wanted more"*  
+  ***A***, ***E***, ***D***, ***C#***, ***B***, ***E***: on "You know she wanted more"*  
   *Outro*  
   [E--------  
   A--------  

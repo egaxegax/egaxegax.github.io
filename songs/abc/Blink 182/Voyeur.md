@@ -64,4 +64,4 @@ Verse3:  i've made mistakes by looking in the wrong window
   ***F***, ***C***, ***G*** } X8  
   ***C***, ***Fii***, ***C***, ***G*** } x2  
   
-  *end on ***C****
+  *end on ***C***

@@ -30,7 +30,7 @@ Intro:  ***D***, ***A***, ***D***, ***A***, ***D***, ***A***
   |----------------------------|            |-----------------|  
   |----------------------------|            |-----------------|  
   
-  *play that on one guitar while other plays ***G***, ***C*** (x3) ***D****  
+  *play that on one guitar while other plays ***G***, ***C*** (x3) ***D***  
   
   ***G***  
 Verse:  expensive vitamin pills and wheat germ on your windowsill  

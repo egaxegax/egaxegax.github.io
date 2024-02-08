@@ -6,7 +6,7 @@ Mrs. Crowe's Blue Waltz
   *E-mail it to me, since I don't have access to rmmgt. Thanks.*  
   *For MrsC'sBW: From standard tuning, just tune the 2 low strings down*  
   *(2 & 1 full note(s), respectively). Then a ***C***-chord is just played like an*  
-  ****Am7*** in std-tuning. (I believe AL tunes all strings down 1/2 fret first.) The*  
+  ***Am7*** in std-tuning. (I believe AL tunes all strings down 1/2 fret first.) The*  
   *song is pretty easy to play in this tuning.*  
   
   *Tuning: [CGDGBE]*  

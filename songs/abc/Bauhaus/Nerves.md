@@ -12,5 +12,5 @@ Nerves
   *Lyrics are on the album...*  
   *When it gets to "Nerves like Nylon, Nerves Like Steel.."*  
   *Strum the following:*  
-  ****C***(VIII) [////////] ***B***(VII) [/]       (Where each [/] = 1 down strum)*  
+  ***C***(VIII) [////////] ***B***(VII) [/]       (Where each [/] = 1 down strum)*  
     *--oOo--*

@@ -1,7 +1,7 @@
 <!--2020-09-05 14:52:27-->
 Happy Nation  
   
-  *WHOLE SONG: ***Dm  Gm  A****  
+  *WHOLE SONG: ***Dm  Gm  A***  
   laudate omnes gentes laudate  
   magnificat in secula  
   et anima mea laudate  

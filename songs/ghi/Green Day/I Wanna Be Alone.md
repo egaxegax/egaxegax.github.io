@@ -30,11 +30,11 @@
   This conflict is my own  
   keep your sources away from me that's all  
   *intro part again*  
-  ****billie joe then does some harmonics on the 5th fret of the G and D*  
+  ***billie joe then does some harmonics on the 5th fret of the G and D*  
   *strings, play around with that until you get it, has to be distortion*  
-  *pretty much****  
+  *pretty much***  
   *second half of intro part*  
-  ****more harmonics****  
+  ***more harmonics***  
   *second half of intro again*  
   *solo...i'll try and post it ASAP*  
   *same words as first verse*  

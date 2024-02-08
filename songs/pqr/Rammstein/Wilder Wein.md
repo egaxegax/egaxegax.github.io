@@ -20,7 +20,7 @@ Intro:  [E|-----------------------------------------------------------------
   A|---0-2-3-0-----3-2-0-2-3-0-3---2---|---0---0-2-3-2-0-2-3-2-0-2-3---2---||  
   E|-----------------------------------|-----0-----------------------------||]  
   
-  *The chords played through the guitar strumming are: ***Em D C D****  
+  *The chords played through the guitar strumming are: ***Em D C D***  
   *Those chords just repeat.*  
   
 Text:  Wilder Wein - vor deinem Schloss  

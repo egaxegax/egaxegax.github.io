@@ -68,7 +68,7 @@ INTRO:  ***G C D G F# F D***
   ***F           D***  
   Sexy Sadie  
   
-  ****G F# A#m C D G F# F D***... (and fade)*  
+  ***G F# A#m C D G F# F D***... (and fade)*  
   
 ----  
   

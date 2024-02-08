@@ -14,7 +14,7 @@ Unquest Grave
   ***F C Am Dm-Dm/F Am***  
   ***Dm Dm/A Dm G Dm Dm/A Dm***  
   *...*  
-  ***Dm/A****  
+  ***Dm/A***  
   [E|---------------  
   B|---------------  
   G|-5-----------5-  

@@ -22,7 +22,7 @@
   A-----------------------------------  
   E-----------------------------------]  
   *Ok, on to the verse. I don't know all the chord names, so I'll do my*  
-  *best to give you the picking pattern. It's basically ***G***,***C****  
+  *best to give you the picking pattern. It's basically ***G***,***C***  
   ***G***I get up in the morning and it's just another day  
   [E-------------------------------------------------------  
   B-12---12-13--x--12---12-13-----x-12-x-13-x-12-x-13-----  

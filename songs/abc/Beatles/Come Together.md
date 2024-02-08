@@ -20,18 +20,18 @@ Come Together
   *other chords*  
   
   ***A*** [57xxxx]  
-  ****g#*** [46xxxx] i think*  
+  ***g#*** [46xxxx] i think*  
   ***g*** [35xxxx]  
   ***Bm*** [7997xx]  
   
   *verse*  
-  ****D*** boogie*  
+  ***D*** boogie*  
   here come old flat top, he come grooving up slowly,  
-  ****D*** boogie*  
+  ***D*** boogie*  
   he got joo joo eyeball, he one Holy roller  
     ***A                        g#***  
   he got hair down to his knee          ***  
-  ****G*** (strum only once at 1/8 of note)*  
+  ***G*** (strum only once at 1/8 of note)*  
   got to be a joker he just do what he please  
   
   *****  

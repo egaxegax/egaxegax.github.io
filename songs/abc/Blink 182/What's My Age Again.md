@@ -6,10 +6,10 @@ What's My Age Again?
   ***G***, ***D***, ***E***, ***C***  
   *last time around hold the ***E*** and ***C*** longer*  
   *Chorus*  
-  ****G***, ***D***, ***E***, ***C*** one hit each power Chord*  
+  ***G***, ***D***, ***E***, ***C*** one hit each power Chord*  
   *last time around hold the ***E*** and ***C*** longer*  
   *Second Verse*  
-  ****G***, ***D***, ***E***, ***C*** palm muting*  
+  ***G***, ***D***, ***E***, ***C*** palm muting*  
   *last time around hold the ***E*** and ***C*** longer*  
   *Bridge? Solo?*  
   

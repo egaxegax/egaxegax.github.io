@@ -65,11 +65,11 @@
   I don't wanna feel everything  
   
   *Interlude: Bass plays intro figure; guitar alternates between ***D5*** and ***A5***:*  
-  *(guitar)     ***D5        A5****  
+  *(guitar)     ***D5        A5***  
   *(bass)  [A-|-5-5-5-5-4-4-4-4-|-5^7-7-7--|]*  
-  *(guitar)     ***D5        A5****  
+  *(guitar)     ***D5        A5***  
   *(bass)  [A-|-5-5-5-5-4-4-4-4-|-2-2-2-0--|]*  
-  *(guitar)     ***D5               A5****  
+  *(guitar)     ***D5               A5***  
   *(bass)  [A-|-5-5-5-5-4-4-4-4-|-5^7-7-7--|]*  
   ***G5   E5 (7th fret)***  
   

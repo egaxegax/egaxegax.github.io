@@ -2,9 +2,9 @@
 Poster  
   *(Claudio Baglioni)*  
   
-  ****Gm7/F*** base-fret 0 frets [1 x 0 3 3 3]*  
-  ****C7/E*** base-fret 0 frets [0 3 2 3 1 0]*  
-  ****D7/C*** base-fret 0 frets [x 3 0 2 3 2]*  
+  ***Gm7/F*** base-fret 0 frets [1 x 0 3 3 3]*  
+  ***C7/E*** base-fret 0 frets [0 3 2 3 1 0]*  
+  ***D7/C*** base-fret 0 frets [x 3 0 2 3 2]*  
   
   ***Dm   A/C# D7/C      Gm  Gm7/F C7/E   C7 F       Bb     Gm      E/G#    A7***  
   

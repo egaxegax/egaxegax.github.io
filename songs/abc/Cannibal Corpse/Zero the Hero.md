@@ -29,7 +29,7 @@
   *[Gb-|---------------------------------|]   reaching the ***Ab*** note in Fig. 2,*  
   *[Db-|---------------------------------|]   try playing it as an open ***Ab*** string*  
   *[Ab-|---------------------------------|]   instead of 5th fret on ***Eb***. All notes*  
-  *[Eb-|-0-1-2-2-0-1-2-2-0-1-2-5-0-1-2-2-|]   in Fig.2 are palm muted except the ***Ab****  
+  *[Eb-|-0-1-2-2-0-1-2-2-0-1-2-5-0-1-2-2-|]   in Fig.2 are palm muted except the ***Ab***  
   
   *Fig. 3*  
   *[Eb-|----------------------------------|] * - These chords are played along*  

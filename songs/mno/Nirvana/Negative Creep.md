@@ -50,7 +50,7 @@ Chorus:  5|-7-7-5-6--6-6-----5-8--8-5--
   *last time there is no bend,*  
   *just open strings are strummed*  
   *CHORUS*  
-  ****G5 F#5***  (no chord)*  
+  ***G5 F#5***  (no chord)*  
   [----------------------|  
   ----------------------|  
   ----------------------|  

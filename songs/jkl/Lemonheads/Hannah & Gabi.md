@@ -51,8 +51,8 @@
   (***Bm  A   G***) repeated singing "Ooooohhh"...  
   
   *Chords:*  
-  ****D***  [xx0232]  | These chords are preferably played*  
-  ****Am*** [x02210]  | as stated above, not as shown here!*  
+  ***D***  [xx0232]  | These chords are preferably played*  
+  ***Am*** [x02210]  | as stated above, not as shown here!*  
   ***G  [320003]***  
   ***Em [022000]***  
   ***A  [x02220]***  

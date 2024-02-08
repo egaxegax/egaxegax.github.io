@@ -3,7 +3,7 @@ Are You Lonesome Tonight?
   *(Elvis Presley)*  
   
 Intro:  [V-3 IV-0-2-0]  
-  *rem  ***G7  C   G7****  
+  *rem  ***G7  C   G7***  
     ***C        Em            Am         Am***  
   Are you lonesome tonight, do you miss me tonight?  
     ***C        C7          F  F***  
@@ -63,7 +63,7 @@ Intro:  [V-3 IV-0-2-0]
   Is Your heart filled with pain?  
     ***D7***  
   Shall I come back again?  
-    ****Dm7           G7#5       C       G7*** (exc. last time)*  
+    ***Dm7           G7#5       C       G7*** (exc. last time)*  
   Tell me, Dear, are You lonesome tonight?  
   
   *I wonder if you're lonesome tonight.. You know someone said the*  

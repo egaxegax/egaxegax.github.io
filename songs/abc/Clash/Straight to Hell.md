@@ -10,7 +10,7 @@
   7-----7----5------------------------------------------------------------  
   5-----7----5------------------------------------------------------------  
   ------5----3-----------------------------------------------------------]  
-  *Play the following riff throughout the song where you see the ***D*** to ***G****  
+  *Play the following riff throughout the song where you see the ***D*** to ***G***  
   *chord sequence. Keep in mind that they change octaves with the different*  
   *effects. Bring 'er down an octave and you have a lot of the bass line.*  
     ***D                        G***  

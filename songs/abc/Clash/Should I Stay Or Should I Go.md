@@ -2,9 +2,9 @@
 Should I Stay Or Should I Go  
   
   *Very easy: here we go:*  
-  *1 = ***D-D-D-G-G-G-G-D***      1+ = ***D-D-D-D-D-D-D-D****  
-  *2 = ***C-C-C-Bb-Bb-Bb-Bb-C***  2+ = ***C-C-C-Bb-Bb-Bb-Bb-C****  
-  *3 = ***A-A-A-A-A-A-A-A***      3+ = ***A-A-A-A-A-A-A-A****  
+  *1 = ***D-D-D-G-G-G-G-D***      1+ = ***D-D-D-D-D-D-D-D***  
+  *2 = ***C-C-C-Bb-Bb-Bb-Bb-C***  2+ = ***C-C-C-Bb-Bb-Bb-Bb-C***  
+  *3 = ***A-A-A-A-A-A-A-A***      3+ = ***A-A-A-A-A-A-A-A***  
   *1+, 2+, 3+ are played during the fast part. The ***D*** and the ***G*** are done as open*  
   *chords, for the ***G*** just play open the ***D***, ***G*** and ***B*** strings. The ***C*** and ***Bb*** of 2 and*  
   *2+ I play them only on 2 strings with distorsion. For example the ***C*** is played*  

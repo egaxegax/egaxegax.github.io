@@ -4,7 +4,7 @@ Zombie
   ***Em***     [02200x]  
   ***Cadd9***  [03200x]  
   ***G6***     [3200xx]  
-  ****D/F#***   [2000xx] This probably should be [20023x] or something but I'm lazy*  
+  ***D/F#***   [2000xx] This probably should be [20023x] or something but I'm lazy*  
   
   [e---------------------|-------------------  
   B-------0--00-00-000--|-----0--00-00-000--  

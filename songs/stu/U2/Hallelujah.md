@@ -32,6 +32,6 @@ Hallelujah (Here She Comes)
   I'm gonna be...here she comes...yeah here she comes...  
   
   *CHORD FORMATIONS:*  
-  ****B***  [2 2 4 4 4 2] (Like an ***A***, only on 4th fret)*  
-  ****E***  [2 2 2 4 5 4] (Like a ***D*** formation)*  
-  ****F#*** [2 4 4 3 2 2] (Like an ***E*** formation)*
+  ***B***  [2 2 4 4 4 2] (Like an ***A***, only on 4th fret)*  
+  ***E***  [2 2 2 4 5 4] (Like a ***D*** formation)*  
+  ***F#*** [2 4 4 3 2 2] (Like an ***E*** formation)*

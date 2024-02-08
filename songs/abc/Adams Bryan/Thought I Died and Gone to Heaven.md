@@ -36,10 +36,10 @@ INTRO:  ***Em Esus4 G6   G6 Esus4 Em  G6 Esus4 Em***
   *REST OF SONG CONTINUES THE SAME WAY.*  
   
   *CHORD FORMATIONS:*  
-  ****Em***    [4 6 6 4 4 4] (Actually an ***Ab-minor*** I think)*  
-  ****Esus4*** [4 6 6 6 4 4] (Actually an ***Absus4*** I think)*  
+  ***Em***    [4 6 6 4 4 4] (Actually an ***Ab-minor*** I think)*  
+  ***Esus4*** [4 6 6 6 4 4] (Actually an ***Absus4*** I think)*  
   ***G6***    [7 6 4 4 x x]  
-  ****C***     [4 7 6 4 5 x] (Actually an ***Ab-minor*** + 5 I think)*  
-  ****C/F***   [4 7 7 6 5 x] (Actually a ***Dbm+5*** I think)*  
-  ****F***     [x x 7 6 5 5] (Actually a ***Dm9+7*** I think)*  
+  ***C***     [4 7 6 4 5 x] (Actually an ***Ab-minor*** + 5 I think)*  
+  ***C/F***   [4 7 7 6 5 x] (Actually a ***Dbm+5*** I think)*  
+  ***F***     [x x 7 6 5 5] (Actually a ***Dm9+7*** I think)*  
   ***G/D***   [7 6 4 4 7 7]

@@ -72,7 +72,7 @@ Cinema Show
   *(4X; 2X without vocals, 2X with vocals....)*  
   Home from work, our Juliet..............  
   *Then, 2 guitars again:*  
-  *1st:  ***Dm                    Bb****  
+  *1st:  ***Dm                    Bb***  
   [--5---5-5------5---5-5------6----6-6-------6-------6-6---------  
   ---6-----6------6-----6------6------6-------6---------6--------  
   ----7-----7__----7-----7__----7(?)---7(?)__--7(?)__----7(?)__--  
@@ -194,5 +194,5 @@ Cinema Show
   | (Strum chords)  
   ***G     Gmaj7   C     G  Gmaj7  C    Gm         Eb       C     D***  
     *| beginning of keyboard solo*  
-  ****C***(choke)        ***Em***(arpeggiate)| ***A5       G5       F#m***__________etc.*  
+  ***C***(choke)        ***Em***(arpeggiate)| ***A5       G5       F#m***__________etc.*  
     *|*

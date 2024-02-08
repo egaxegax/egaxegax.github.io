@@ -55,11 +55,11 @@ Verse:  Would I last forever?
   *Tune to Eb (looks best in Courier)*  
   
 Chords:      [EADGBe]  
-  ****E***:  [022100]*  
-  ****D***:  [000232]*  
-  ****A***:  [00222-]*  
-  ****F#***: [2443--]*  
-  ****F#*** IS THE ONLY BARRE CHORD IN THE ENTIRE SONG!!!*  
+  ***E***:  [022100]*  
+  ***D***:  [000232]*  
+  ***A***:  [00222-]*  
+  ***F#***: [2443--]*  
+  ***F#*** IS THE ONLY BARRE CHORD IN THE ENTIRE SONG!!!*  
   
   *Tab Definition:*  
   *h  Hammer on*  
@@ -108,7 +108,7 @@ Verse 2: Would I last forever?
   I'm in for nasty weather  
     ***F#***  
   But I'll take whatever  
-    ****D              A*** (Play this for a while)*  
+    ***D              A*** (Play this for a while)*  
   you can give that comes my way (far away)  
   *Repeat all*  
   

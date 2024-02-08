@@ -20,7 +20,7 @@
   She^Тs enough to start a landslide, just a walkin^Т down the street,  
   *riff 2     riff 2*  
   Wearin^Т dresses so tight, and lookin^Т dynamite,  
-  *riff 2               ***F#              E****  
+  *riff 2               ***F#              E***  
   Enough to blow me out, no doubt about it can^Тt live without it,  
   *Chorus:*  
   *riff 1          riff 1*  
@@ -37,13 +37,13 @@
   She^Тs enough to stop a freight train, or start the third world war,  
   *riff 2       riff 2*  
   You know I^Тm losin^Т sleep, ^Ccause I^Тm in too deep,  
-  *riff 2          ***F#    E****  
+  *riff 2          ***F#    E***  
   And my body needs love, no doubt about it can^Тt live without it,  
   *Repeat Chorus*  
   *For the bridge you just repeat riff 1*  
   *riff 2        riff 2*  
   You know she moves like sin, and when she lets me in,  
-  *riff 2         ***F#   E****  
+  *riff 2         ***F#   E***  
   It^Тs like liquid love, no doubt about it can^Тt live without it,  
   *Repeat Chorus*  
   *riff 1               riff 1*  

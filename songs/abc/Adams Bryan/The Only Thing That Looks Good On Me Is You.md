@@ -58,7 +58,7 @@ veres 2: I'm not satisfied with Versace style.
   *chorus 2:(same as before)*  
   
   *Bridge:(think the chords r quite different here for the first 5 lines, its*  
-    ****E***, ***B***, ***C#***, ***E***, ***G#5***, try to find out where it changes. last line its*  
+    ***E***, ***B***, ***C#***, ***E***, ***G#5***, try to find out where it changes. last line its*  
     *same as other part of the song)*  
   
   yeah, it's you.  

@@ -105,7 +105,7 @@ Kings Of Metal
   We Always Will  
   Other Bands Play Manowar Kill  
   Other Bands Play Manowar Kill  
-  *Solo w/ ***Riff 5****  
+  *Solo w/ ***Riff 5***  
   We're The Kings Of Metal Comin' To Town  
   When We Light Up, Have The Roof Nailed Down  
   Don't Try To Tell Us That We're Too Loud  
@@ -116,7 +116,7 @@ Kings Of Metal
   Gonna Keep On Burnin'  
   We Always Will  
   Other Bands Play Manowar Kill  
-  *w/ ***Riff 5****  
+  *w/ ***Riff 5***  
   We're The Kings Of Metal Kick Your Ass  
   Comin' To Town Manowar Kills  
   Death To False Metal!

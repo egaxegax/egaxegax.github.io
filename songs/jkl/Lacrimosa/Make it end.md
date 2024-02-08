@@ -77,7 +77,7 @@ Lacrimosa Live (Original from "Stille" 1997)
   |-----------------------------------------|  
   
   *INTERLUDE:*  
-  *-Only keyboards and bass: ***D***-***D***-***A***-***A****  
+  *-Only keyboards and bass: ***D***-***D***-***A***-***A***  
   *-Only Keyboards with voice: ***A***-***Ab***-***E***-***E*** } X2*  
   *-Then guitars:*  
   |----------------------------------------------------|  

@@ -4,12 +4,12 @@ Exhausted
   *Dropped-D tuning (D-A-D-G-B-E). Crank up the FUZZ!*  
   
   *Chords used:*  
-  ****Asus2 add?*** - [x 0 2 2 0 1]*  
-  ****E/B add?***   - [x 2 x 0 0 1]*  
-  ****C***          - [x 3 2 0 1 0]*  
-  ****Am***         - [x 0 2 2 1 0]*  
-  ****Bb5***        - [x 1 3 3 x x]*  
-  ****G***          - [5 5 5 x x x]*  
+  ***Asus2 add?*** - [x 0 2 2 0 1]*  
+  ***E/B add?***   - [x 2 x 0 0 1]*  
+  ***C***          - [x 3 2 0 1 0]*  
+  ***Am***         - [x 0 2 2 1 0]*  
+  ***Bb5***        - [x 1 3 3 x x]*  
+  ***G***          - [5 5 5 x x x]*  
   
   *Verse/Intro*  
   *-----------*  
@@ -69,7 +69,7 @@ Intro/Verse: [e:---------1------------|----------1------------|
   *...everything else seemed fine, if played right, you should be able to play*  
   *this with minimal hand movement. The way I play the intro Dm chord is also*  
   *a prep for the second chord...*  
-  ****Dm*** (prepped for E/B)*  
+  ***Dm*** (prepped for E/B)*  
   [D  A  D  G  B  e  
   +==============+ nut  
   |  |  |  |  |  1  

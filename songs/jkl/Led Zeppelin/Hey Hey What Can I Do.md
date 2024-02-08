@@ -12,7 +12,7 @@ Hey Hey What Can I Do
   My she looks so fine  
   ***G         D             F               C***  
   She's the only one that I been dreamin' of  
-  ****C***                 (***C7*** spices it up)*  
+  ***C***                 (***C7*** spices it up)*  
   Maybe someday she will be all mine  
   *(etc...)*  
   I wanna tell her that I love her so  
@@ -20,7 +20,7 @@ Hey Hey What Can I Do
   I need to tell her she's the only one I really love  
   
   *CHORUS*  
-  *riff: ***G  G  x  F  CxC****  
+  *riff: ***G  G  x  F  CxC***  
   I got a woman, wanna ball all day  
   *riff*  
   I got a woman, she won't be true, no  

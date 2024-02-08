@@ -12,7 +12,7 @@ Magna Cum Nada
   G|-0-0--0-0-0-0--0-0-0-0--0-0-0-0-3-5-|  
   C|-0-0--0-0-0-0--0-0-0-0--0-0-0-0-3-5-|]  
   *INTRO 2: (same pattern as INTRO 1) you'll figure out that*  
-  ****C***, ***D#***, ***F***, ***D#***-***D****  
+  ***C***, ***D#***, ***F***, ***D#***-***D***  
   *Ends on ***F***, ***G#***  
   *VERSE: (same as INTRO 2)*  
   *CHORUS: (same as INTRO 1)*

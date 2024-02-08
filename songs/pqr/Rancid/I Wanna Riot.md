@@ -52,9 +52,9 @@
   *Crd. prog.: ***D D F G*** (use either of the three crd. alternatives above)*  
   *Chorus:*  
   *Backing guitar:*  
-  *Crd. prog.: ***D D D D D D D D D D D  D F G****  
+  *Crd. prog.: ***D D D D D D D D D D D  D F G***  
   *Lead Guitar (or bass; I dunno)*  
-  *Crd. prog.: ***D D D D F G****  
+  *Crd. prog.: ***D D D D F G***  
   
 ----  
   
@@ -155,7 +155,7 @@ Main Riff: [_____________________________________________________________
   _____________________________________________________________]  
   
 Verse:  I'm not sure if this part is right.  
-  ****G G G G G G  Dm Dm Dm Dm Dm Dm*** - Played in a ska rythym.*  
+  ***G G G G G G  Dm Dm Dm Dm Dm Dm*** - Played in a ska rythym.*  
   
 Chorus:  For the chorus, just follow the same pattern as the opening.  
   

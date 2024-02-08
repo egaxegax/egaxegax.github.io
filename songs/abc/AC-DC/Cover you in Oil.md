@@ -30,7 +30,7 @@ Ballbreaker (1995)
   ***D      G   Bb       F      C***  
   Baby , Feel what you need, come on let's go  
   *Chorus: Played over ***A       G   F#   G   F#   D/F#***  
-    ****A       G   F#   G   F#***  (end chorus with pattern 3)*  
+    ***A       G   F#   G   F#***  (end chorus with pattern 3)*  
   Cover you in oil  
   I wanna cover you in oil  
   let me cover you in oil  

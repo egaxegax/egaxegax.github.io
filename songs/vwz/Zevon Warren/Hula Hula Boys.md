@@ -19,8 +19,8 @@ Hula Hula Boys
   ***D                    G***  
   They're singing,  
   ***C              G***  
-  ****D              G***   (everybody sing the chorus together now!) or*  
-  ****C              G***   (get to the point...cut to the chase)*  
+  ***D              G***   (everybody sing the chorus together now!) or*  
+  ***C              G***   (get to the point...cut to the chase)*  
   ***D              G***  
   *(verse2 as above)*  
   They're signing,  

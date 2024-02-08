@@ -12,7 +12,7 @@ Moron Brothers
   G------------------------  
   B------------------------  
   E------------------------]  
-  ****C5 G5 F5 D5 E#5*** (X2) (barely play the ***G5*** just hit it on the way to ***F5***)*  
+  ***C5 G5 F5 D5 E#5*** (X2) (barely play the ***G5*** just hit it on the way to ***F5***)*  
   ***C5***Talkin bout the***G5***moron bros***C5***tatooed fingers***G5***tatooed toes  
   (solo lick)***C5***?????***G5***???***C5***taking advantage of ***C5***eve***G5***ry***F5***one  
   ***C5***???your***G5***fleas***C5***take your pick at your ***G5***shrugs  

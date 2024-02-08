@@ -3,10 +3,10 @@ E tu
   
   *# originariamente in Solb*  
   
-  ****Bbm/Ab*** base-fret 0 frets [4 x 3 1 2 1]*  
-  ****Gb/F*** base-fret 0 frets [1 4 4 3 2 2]*  
-  ****Fm/C*** base-fret 0 frets [x 3 3 1 1 1]*  
-  ****Eb/G*** base-fret 3 frets [1 4 3 1 2 1]*  
+  ***Bbm/Ab*** base-fret 0 frets [4 x 3 1 2 1]*  
+  ***Gb/F*** base-fret 0 frets [1 4 4 3 2 2]*  
+  ***Fm/C*** base-fret 0 frets [x 3 3 1 1 1]*  
+  ***Eb/G*** base-fret 3 frets [1 4 3 1 2 1]*  
   
   ***C   Am   Csus4   G7sus4***  
   

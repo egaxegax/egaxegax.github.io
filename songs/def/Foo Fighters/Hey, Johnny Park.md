@@ -27,7 +27,7 @@ Intro:  |***Bm A*** |***E    F#m***|***G  D*** |***E*** 
   It's impossible, I can't let it out  
   You'll never know, am I selling you out?  
   Sit and watch your every mood  
-  *Bridge: same as beginning of intro then alternate ***G*** and ***D****  
+  *Bridge: same as beginning of intro then alternate ***G*** and ***D***  
   Now that I've found my reward  
   I'd throw it away long before  
   I'd share a piece of mine with you  

@@ -38,8 +38,8 @@ CHORDS:      ***F     Bb       C    
   *repeat CHORUS*  
   
   *Bridge:*  
-  ****D*** (w\ short improvs)*  
-  ****C***  ("  "      "    )*  
+  ***D*** (w\ short improvs)*  
+  ***C***  ("  "      "    )*  
   ***C, Bb***  
   
   ***C            Bb             C     Bb***  

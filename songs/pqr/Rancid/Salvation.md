@@ -13,7 +13,7 @@ CHORDS:      ***A     D     E     C 
   |---7-----5-----7-----3----4--|  
   |---5-------------------------|  
   
-  ****A***                      (pick scrape low ***E***)*  
+  ***A***                      (pick scrape low ***E***)*  
 CHORUS:  come on baby won't you show me what you got yeah  
   ***C C#        D          E***  
   i want your salvation, whoa-oh  
@@ -45,7 +45,7 @@ Verse2:  i can't believe these people
   
 Bridge:  ***C***, ***D*** (Palm Muted)  
   
-  *add short improvs around the 3rd-5th fret on the ***B*** and high ***E****  
+  *add short improvs around the 3rd-5th fret on the ***B*** and high ***E***  
   
   *repeat CHORUS*  
   *repeat Verse2*  

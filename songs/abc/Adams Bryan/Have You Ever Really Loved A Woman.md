@@ -16,7 +16,7 @@ Have You Ever Really Loved A Woman
   ------------|-------------|-----------|]  
   **The whole song (except for the solo and chorus) is arpeggioed by hitting*  
   *the 5th, 4th, 3rd, then 2nd and holding. In other words, the first chord,*  
-  ****Eb***, is played:*  
+  ***Eb***, is played:*  
   [-------------  
   ---------8---  
   -------8-----  
@@ -38,20 +38,20 @@ Have You Ever Really Loved A Woman
   G--0-----1--  
   D-----4-----]  
   **So it goes:*  
-  ****Eb***, ***Cm***, ***D***, ***Bb***, ***Fig1***, ***F***, ***Cm***, ***Fig2***, ***Fig3***, ***C***, ***G****  
+  ***Eb***, ***Cm***, ***D***, ***Bb***, ***Fig1***, ***F***, ***Cm***, ***Fig2***, ***Fig3***, ***C***, ***G***  
   **Chorus:*  
-  ****G***, ***D***, ***G***, ***Em7***, ***Am7***,***D***,***Am7***,***D***, ***Am7***,***D***,***Am7***,***D***, ***G****  
+  ***G***, ***D***, ***G***, ***Em7***, ***Am7***,***D***,***Am7***,***D***, ***Am7***,***D***,***Am7***,***D***, ***G***  
   **Bridge:*  
-  ****Eb***, ***G***, ***D***, ***G****  
+  ***Eb***, ***G***, ***D***, ***G***  
   **solo:*  
-  ****Eb***, ***C*** (something?  couldn't figure this one out.), ***D***, ***Bb***,***F***, ***Bb***, ***F****  
+  ***Eb***, ***C*** (something?  couldn't figure this one out.), ***D***, ***Bb***,***F***, ***Bb***, ***F***  
   **then it goes back to arpeggios:*  
-  ****Cm***, ***Fig2***, ***Fig3****  
+  ***Cm***, ***Fig2***, ***Fig3***  
   **Back to the chorus.*  
   
   **LYRICS:*  
   To really love a  
-  ****Eb             Cm                       D***(barred)*  
+  ***Eb             Cm                       D***(barred)*  
   woman, to understand her, you've got to know her deep inside  
   ***Bb                            Fig1                F***  
   Hear every thought, see every dream, and give her wings when she wants to fly  

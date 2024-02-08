@@ -136,7 +136,7 @@ Shotgun Blues
   *This rhthym part is repeated 6 times more before the chords change for the outro.*  
   
   *OUTRO:*  
-  ****D5   C#5    B5   A5***      PLAY THIS PART 4 TIMES*  
+  ***D5   C#5    B5   A5***      PLAY THIS PART 4 TIMES*  
     /       /        /      /  
   *before finally hitting the open ***E5*** chord once.*  
   *The two rhthym guitars play the chords shown above while the third guitar plays*  

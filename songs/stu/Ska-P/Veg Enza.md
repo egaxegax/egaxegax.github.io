@@ -2,7 +2,7 @@
 Veg Enza  
   
   *Intro:*  
-  ****F# G F#*** (palm mute)*  
+  ***F# G F#*** (palm mute)*  
   
     ***B                  A                   G                                F#***  
 Verse:  Entre el Atl?ntico y el Mar Mediterr?neo hay una tierra de mar y mucho sol  

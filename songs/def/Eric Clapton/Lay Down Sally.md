@@ -44,7 +44,7 @@ Lay Down Sally
   *right hand. Transpose the first two bars to ***D*** also. The bar 3 and 4*  
   *contain the catch phrase that is only played over ***A***.*  
   
-    ****A  A/F# A/E A/F#***  etc..*  
+    ***A  A/F# A/E A/F#***  etc..*  
   [E ----------------|----------------|----------------|----------------|  
   B ----------------|----------------|----------------|----------------|  
   G ----------------|----------------|----------------|0---0---0---0---|  

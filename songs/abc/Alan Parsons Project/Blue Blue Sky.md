@@ -16,5 +16,5 @@
   ***G*** Someday, I'll ***A*** touch the blue, blue ***D*** sky  
   ***Bm*** woo-ooo  
   ***G*** Someday, I'll ***A*** touch the blue, blue ***D*** sky  
-  ****D*** - ***Gm*** repeat, fade*  
+  ***D*** - ***Gm*** repeat, fade*  
   *Enjoy it all.*

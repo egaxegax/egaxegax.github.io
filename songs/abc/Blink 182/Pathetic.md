@@ -59,4 +59,4 @@ Verse2:  i think its disgusting believing and trusting
   ***A***, ***C***-***G***, ***C***-***F***  
   
   *repeat CHORUS*  
-  *end on ***C****
+  *end on ***C***

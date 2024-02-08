@@ -41,7 +41,7 @@ Dark Globe
   *(OUTRO: putter around on ***G*** for a while, then stop.)*  
   
   *Chords used:*  
-  ****G***:  [320003] ***C***:  [x32010] ***D***:  [xx0232]*  
-  ****G7***: [320001] ***C7***: [x3231x] ***D7***: [xx0212]*  
+  ***G***:  [320003] ***C***:  [x32010] ***D***:  [xx0232]*  
+  ***G7***: [320001] ***C7***: [x3231x] ***D7***: [xx0212]*  
   
   *Enjoy! More to follow.*

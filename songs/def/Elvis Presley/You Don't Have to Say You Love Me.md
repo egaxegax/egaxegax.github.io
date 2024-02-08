@@ -31,7 +31,7 @@ You Don't Have to Say You Love Me
   I can't help I love you  
     ***Gm7                          C***  
   But believe me, I'll never tie you down  
-  *(Tacet)                ***Bbm     Bbm7  Eb7****  
+  *(Tacet)                ***Bbm     Bbm7  Eb7***  
   Left alone with just a memory  
     ***Ab         Db***  
   Life seems dead and so unreal  

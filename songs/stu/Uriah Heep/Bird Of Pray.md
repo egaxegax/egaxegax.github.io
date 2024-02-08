@@ -47,17 +47,17 @@ Bird Of Pray
   A|------------------------------------------11----10----|  
   E|-8-8-8-8-8-8-8-8----------8-8-8-8-8-8-8-8----11----10-|]  
   
-  ****Cm                               G#/C-G/C*** (guitar line#1)*  
+  ***Cm                               G#/C-G/C*** (guitar line#1)*  
 verse:  I can see that look that says beware  
-  ****Cm                            G#/C-G/C*** (guitar line#1)*  
+  ***Cm                            G#/C-G/C*** (guitar line#1)*  
   Try to move in closer if you dare  
   ***Cm***  
   So I must sit and play  
-      ****G#/C-G/C*** (guitar line#1)*  
+      ***G#/C-G/C*** (guitar line#1)*  
   My waiting game  
     ***Cm***  
   And for a while I know  
-    ****G#/C-G/C*** (guitar line#1)*  
+    ***G#/C-G/C*** (guitar line#1)*  
   She'll do the same  
   Fly away  
   
@@ -164,16 +164,16 @@ verse:  Watches like an eagle from its eerie
   D|-17h19-----------------------17--------------10--------10----|  
   A|----------------------------------------------------------10-|  
   E|-------------------------------------------------------------|]  
-  *NOTE! Play the following guitar to ***C*** and ***F****  
+  *NOTE! Play the following guitar to ***C*** and ***F***  
   *in the following (ending) brigde:*  
-     ****C***:*  
+     ***C***:*  
   [E|------------------------------------------|  
   B|------------------------------------------|  
   G|------------------------------------------|  
   D|------------------------------------------|  
   A|-------------6-5-------------6-5- etc.. --|  
   E|-8-8-6-7-8-8-----8-8-6-7-8-8--------------|]  
-     ****F***:*  
+     ***F***:*  
   [E|------------------------------------------|  
   B|------------------------------------------|  
   G|------------------------------------------|  

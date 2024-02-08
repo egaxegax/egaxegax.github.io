@@ -41,6 +41,6 @@
   And the springtime's the season of the night  
   
   *NOTES: In the «***Gm***-***F***-***Eb***-***D7+9***» section, the ***Eb*** can be played on various manners,*  
-  ****Eb 7+9***, ***Eb 9***, ***Eb7*** or simply ***Eb***. Each variation gives another feeling, so use them*  
+  ***Eb 7+9***, ***Eb 9***, ***Eb7*** or simply ***Eb***. Each variation gives another feeling, so use them*  
   *without any restriction and as you want, the ones I transcribed are just a personnal*  
   *view of this wonderful song.*

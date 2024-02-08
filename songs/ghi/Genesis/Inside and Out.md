@@ -11,7 +11,7 @@ Inside and Out
   *Composed by: Tony Banks - Steve Hackett - Phil Collins - Mike*  
   
   *Rutherford*  
-  ****E(add 2)***: Guitar chord spelling: [0 2 4 1 0 0]*  
+  ***E(add 2)***: Guitar chord spelling: [0 2 4 1 0 0]*  
   
   ***E(add 2)***  
   Seems they're letting him out next year  

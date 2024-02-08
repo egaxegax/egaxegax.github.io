@@ -10,7 +10,7 @@ intro:  [-----------------------------------
   -x-6-6-x-6-6---x-6-8---x-6-6-x-6-6-]  
   *this is played twice*  
   *tthe other guitar plays Cm for the rest of the song*  
-  ****Cm*** looks like this...*  
+  ***Cm*** looks like this...*  
   [-8-  
   -8-  
   -8-  

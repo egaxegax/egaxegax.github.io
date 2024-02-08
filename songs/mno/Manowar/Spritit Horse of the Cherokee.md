@@ -2,8 +2,8 @@
 Spritit Horse of the Cherokee  
   
   *Tune your lower ***E***-snare down to ***D*** for playing this*  
-  ****D*** and ***E*** mean ***d*** and ***e*** chords in 0 and II position*  
-  ****d*** and ***e*** mean ***D*** and ***E*** chords in V and VII position*  
+  ***D*** and ***E*** mean ***d*** and ***e*** chords in 0 and II position*  
+  ***d*** and ***e*** mean ***D*** and ***E*** chords in V and VII position*  
   *riff no.1*  
   *git.:*  
       ***E5***  

@@ -57,7 +57,7 @@ Chorus:  Spend my ***D*** dollar
   *(repeat chorus)*  
   
   *a few strange chord progressions follow the 2nd chorus; something like*  
-  ****C***, ***D***, ***Em*** a couple of times, and I believe the key changes to ***A*** (so, of*  
+  ***C***, ***D***, ***Em*** a couple of times, and I believe the key changes to ***A*** (so, of*  
   *course, either capo the 2nd fret now, or play all the chords a whole step*  
   *higher than they are written here)*  
   *a fiddle solo ensues, and the tempo increases and they fade out, singing*  

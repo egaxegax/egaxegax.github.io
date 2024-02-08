@@ -22,7 +22,7 @@ Shelter
   *(Lyrics may not be exactly right, I'm writing from memory)*  
   *Intro: ***B5***, play Riff 1, pause, play again (second time is actually slightly*  
   *different)*  
-  ****B5*** (Riff 1 twice, no pause)*  
+  ***B5*** (Riff 1 twice, no pause)*  
   Shelter  
   ***B5         A               E***  
   I've been branded, I've been washed around left for dead,  
@@ -32,11 +32,11 @@ Shelter
   I've been exiled, I've been stranded on the street,  
     ***D    A       B5 D A***  
   Ain't got no place left to run  
-  ****D***(Riff 2)***A         B5***      (Riff 1)*  
+  ***D***(Riff 2)***A         B5***      (Riff 1)*  
   No  one  loves me, anymore, anymore, anymore  
-  ****D***(Riff 2)***A     E****  
+  ***D***(Riff 2)***A     E***  
   Another  heartbeat, down...come on and take me to the  
-  ****B5      A    E***      (Riff 3)*  
+  ***B5      A    E***      (Riff 3)*  
   Shelter, Shelter, give me what I want tonight  
   ***B5      A    E***  
   Shelter, Shelter, give me what I want tonight  
@@ -47,11 +47,11 @@ Shelter
   I've been exiled, I've been (raised within the street ?), in this wicked world  
   ***D A B5       A      E      D         A     B5   D A***  
   Persecution, I'm carrying my cross, down here on my knees  
-  ****D***(Riff 2)***A         B5***      (Riff 1)*  
+  ***D***(Riff 2)***A         B5***      (Riff 1)*  
   No  one  loves me, anymore, anymore, anymore  
-  ****D***(Riff 2)***A     E****  
+  ***D***(Riff 2)***A     E***  
   Another  heartbeat, down...come on and take me to the  
-  ****B5      A    E***      (Riff 3)*  
+  ***B5      A    E***      (Riff 3)*  
   Shelter, Shelter, give me what I want tonight  
   ***B5      A    E***  
   Shelter, Shelter, give me what I want tonight  
@@ -68,11 +68,11 @@ Shelter
   *Chords (played during solo):*  
   ***B5 B5 A E  D A E  A B5 D D***  
   ...come on and take me to the  
-  ****B5      A    E***      (Riff 3)*  
+  ***B5      A    E***      (Riff 3)*  
   Shelter, Shelter, give me what I want tonight (give me your loving)  
-  ****B5      A     E***  (Riff 3)*  
+  ***B5      A     E***  (Riff 3)*  
   Shelter, Shelter, sleeping on the street tonight (give me your loving)  
-  ****B5      A    E***     (Riff 3)*  
+  ***B5      A    E***     (Riff 3)*  
   Shelter, Shelter, give me what I want tonight (give me your loving)  
   ***B5      A    E***  
   Shelter, Shelter, give me what I want tonight  

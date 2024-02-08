@@ -4,7 +4,7 @@
   *(M. Jones)*  
   
   *Intro/Main Riff:*  
-    ****E5*** and Low ***E*** bass throughout*  
+    ***E5*** and Low ***E*** bass throughout*  
   [E---------------------------------------0------  
   B-----0-1-2-3--0-1-2-3---3-3-3---3-3-3---------  
   G----------------------------------------------  
@@ -32,7 +32,7 @@
   Women wanting sympathy   women feeling ecstacy  
    ***A5***  
   Women who live in fantasies  
-    ****B***                        (Intro/Main Riff)*  
+    ***B***                        (Intro/Main Riff)*  
   Bringing man to his knees  
    ***A5                   E5 A5                   E5***  
   Women who fall in love  women who need a shove  
@@ -50,7 +50,7 @@
   Women you dream about all your life  
    ***B***  
   Women that stab you in the back  
-    ****E5*** + (Intro/Main Riff)*  
+    ***E5*** + (Intro/Main Riff)*  
   With a switchblade knife  
   
   *Outro: Repeat intro and fade w/ad lib lyrics*

@@ -34,7 +34,7 @@ Dead On
   |------------------------|--------------|  
   
   *Prechorus*  
-  *(1st gtr) ***G5               F#5               G5****  
+  *(1st gtr) ***G5               F#5               G5***  
     [|----------------|-----------------|-------------------------------|  
     |----------------|-----------------|-------------------------------|  
     |----------------|-----------------|-------------------------------|]  
@@ -50,7 +50,7 @@ Dead On
   |--------------------6\-----|  
   |--------------------6\-----|  
   *The little interlude with a VERY SPECIAL EFFECT (!) is very difficult to*  
-  *transcribe. When I play this part, I switch my WAH on and I play an ***E5****  
+  *transcribe. When I play this part, I switch my WAH on and I play an ***E5***  
   *power chord. I follow the rythm with my wah pedal.*  
   *The last bar of the 3rd verse have a slight variation of the main riff.*  
   *(That's when UDO sings: "We are born to die")*  

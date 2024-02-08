@@ -44,7 +44,7 @@ Chorus:  So, darling, darling, stand by me,
   *move things around.*  
   *If not you'll get the picture. For those of you that don't know chord*  
   *names here they are:*  
-      ****A       F#M        D        E***        Don't forget to give*  
+      ***A       F#M        D        E***        Don't forget to give*  
     *and not just take.*  
   *[|--O--|   |--2--|   |--2--|   |--O--|]    give some PW tabs. They aren't*  
   *[|--2--|   |--2--|   |--3--|   |--O--|]    hard.*  

@@ -1,7 +1,7 @@
 <!--2020-09-07 11:18:42-->
 Hail & Kill  
   
-  ****Am G C Em Am G F*** - AllSong.*  
+  ***Am G C Em Am G F*** - AllSong.*  
   
 ----  
   

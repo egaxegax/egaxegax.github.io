@@ -80,6 +80,6 @@ CHORUS:  i take a look around at all the things i've fou
   
   ***D, C, G, D, C, G, D, C, G, D-G***  
   
-  *end on ***G****  
+  *end on ***G***  
   
   *ok, that's all.*

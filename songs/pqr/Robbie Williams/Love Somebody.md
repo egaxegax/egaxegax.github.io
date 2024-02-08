@@ -16,17 +16,17 @@ Love Somebody
   You don't wanna sing the blues in black and white  
   ***Dm*                                    D***  
   And it's hope that springs eternal for everyone  
-  ***Dm****  
+  ***Dm***  
   If it ain't broke then break it  
   ***H***  
   Oh the damage done  
-  ***Em         F#m****  
+  ***Em         F#m***  
   Try and love somebody  
   ***G                         Am***  
   Just wanna love somebody right now  
   ***Hm7       Bbm7                A*   H***  
   There's just no pleasing me  
-  ***Em                F#m****  
+  ***Em                F#m***  
   Try and love somebody  
     ***Gm#  Am***  
   Just wanna love somebody right now  
@@ -45,7 +45,7 @@ Love Somebody
   Try and love somebody  
   Just wanna love somebody right now  
   Lady lay your love on me  
-  ***Em                       F#m****  
+  ***Em                       F#m***  
   It'll come in your sweet time Lord  
   ***G                       Am***  
   I've just got to let you in  
@@ -53,7 +53,7 @@ Love Somebody
   The blind leading the blind Lord  
   ***A                        H***  
   Getting underneath your skin  
-  ***Em                    F#m****  
+  ***Em                    F#m***  
   I can feel you in the silence  
   ***G#m                A***  
   Saying let forever be  

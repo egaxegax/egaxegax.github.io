@@ -29,7 +29,7 @@ guitar:  ***G9                Fmaj7***
     ***G9***  
   To keep goin' on - yeah, on!  
   
-    ****C   F   G   F***  (bass: bend ***D*** to ***Eb***)*  
+    ***C   F   G   F***  (bass: bend ***D*** to ***Eb***)*  
 Chorus 1: Moulty!  
   ***C      F     G                  F***  
   Don't turn away  (you're gonna make it, baby)  

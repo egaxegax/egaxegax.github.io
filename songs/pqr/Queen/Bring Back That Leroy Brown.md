@@ -107,12 +107,12 @@ Sheer Heart Attack 1974
   *an approximate transcription for guitar. Gotta play it in that*  
   *fast, Dixie style. (Or is it Charleston? Anyways....) The*  
   **really* tough part, where you'll need the most practice, is the*  
-  ****C***, ***B7***, ***Bb7***, ***A7***, ***Dm7***, ***C#dim***, ***G7***, ***C***, ***G7+5*** run. (Whoosh!) Once you*  
+  ***C***, ***B7***, ***Bb7***, ***A7***, ***Dm7***, ***C#dim***, ***G7***, ***C***, ***G7+5*** run. (Whoosh!) Once you*  
   *can play that, the rest of the song is a cinch.*  
   
   *Chords: ***G7+5*** = [xx1001], ***G#dim*** = [xx0101],*  
-    ****C/E*** = [xx2010],*  
-    ****1dim*** = [xx1212], ***2dim*** = [xx2323] (don't know the names,*  
+    ***C/E*** = [xx2010],*  
+    ***1dim*** = [xx1212], ***2dim*** = [xx2323] (don't know the names,*  
     *but they're diminished chords)*  
   *Refrain:*  
   ***C     G7    C     G7          C         G7    C       G7+5***  

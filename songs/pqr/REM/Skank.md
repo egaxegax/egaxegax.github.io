@@ -5,10 +5,10 @@ Skank
   Ahhhhhh Ahhhhhhhh Ahhhhhh  
   *This is what I've got for chords*  
   *Verse*  
-  ****Bm*** (***E*** shaped barre)*  
+  ***Bm*** (***E*** shaped barre)*  
   *Pr chorus*  
-  ****Bm*** (broken into notes)*  
+  ***Bm*** (broken into notes)*  
   *Chorus*  
-  ****G    Am***  ( both barred)*  
+  ***G    Am***  ( both barred)*  
   *check the chorus parts. I'm not exactly sure about them.*  
   *But the ***Bm*** sounds right*

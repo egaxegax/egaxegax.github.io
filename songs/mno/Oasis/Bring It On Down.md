@@ -4,13 +4,13 @@ Definitely Maybe (1994)
   
   *Chords used:*  
     *EADGBe*  
-  ****B5***   ([x2444x])*  
-  ****B5***/***A*** ([x0444x])*  
-  ****D***    ([x57775])*  
-  ****E***    ([022100])*  
-  ****E2***   ([x79997])*  
-  ****A***    ([577655])*  
-  ****G***    ([355433])*  
+  ***B5***   ([x2444x])*  
+  ***B5***/***A*** ([x0444x])*  
+  ***D***    ([x57775])*  
+  ***E***    ([022100])*  
+  ***E2***   ([x79997])*  
+  ***A***    ([577655])*  
+  ***G***    ([355433])*  
   
   *Alright, here's the riff that's played along with the verses (I'll call*  
   *it "main riff"):*  
@@ -35,7 +35,7 @@ Definitely Maybe (1994)
   *repeat*  
   
 Intro:  ***B*** (a bunch of times)  
-  ****B5*** (w/ above riff)  ***D  E5  D  B5****  
+  ***B5*** (w/ above riff)  ***D  E5  D  B5***  
   
 Verse 1: (NOTE: play below chords just like main riff above)  
   ***B5***  

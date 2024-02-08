@@ -36,4 +36,4 @@
   A-5-5-5-5-3-5-5-5-5-3-5-5-5-5-5--  
   E---------------------^----------]  
     *(_____begin verse 2)*  
-  *the chorus is power-chords ***D G D G D C G****
+  *the chorus is power-chords ***D G D G D C G***

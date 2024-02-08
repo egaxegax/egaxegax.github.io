@@ -26,7 +26,7 @@ Lo Hago Por Ti (TODO LO QUE HAGO)
   No hay lugar, si tu no estas, donde quisiera.  
     ***G***  
   Estar, yeah!  
-  ****F          C*** (si al corazon) ***F          C****  
+  ***F          C*** (si al corazon) ***F          C***  
     ***Dm                   G***  
   Oh, dime que tu, sientes mi calor.  
     ***Dm                  G***  

@@ -38,10 +38,10 @@ Red Morning Light
   *This is by no means perfect but it's the general chord structure*  
   
   *Verse*  
-  ****B*** ([7998xx]) ***E*** ([0221xx])*  
+  ***B*** ([7998xx]) ***E*** ([0221xx])*  
   
   *Intro/chorus*  
-  ****B*** x 7,    ***A*** x 4,      ***G***,      ***F#***,      ***E***    (ie sliding up the neck)*  
+  ***B*** x 7,    ***A*** x 4,      ***G***,      ***F#***,      ***E***    (ie sliding up the neck)*  
   *([7998xx]) ([5776xx]) ([3554xx]) ([2443xx]) ([0221xx])*  
   
   *The lyrics are entirely unintelligible to me but if you know the song then:*  

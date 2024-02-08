@@ -23,7 +23,7 @@ Chorus:  The little things that make me so happy
     ***A               Am                     Em***  
   God it's good, yes it's good, it's good to be free.  
   
-  *Transition chord: ***GGGGGGG****  
+  *Transition chord: ***GGGGGGG***  
   
   What would you say if i said  to you  
   It's not the what you say it's the what you do  

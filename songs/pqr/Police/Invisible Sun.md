@@ -53,7 +53,7 @@ Verse 4: And they're only gonna change this place
   a --x   a x--  a  
   e ---   e ---  e]  
   
-  ****Ab9*** is the same as ***A9*** but move your fingers down*  
+  ***Ab9*** is the same as ***A9*** but move your fingers down*  
   
 ----  
   

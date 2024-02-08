@@ -15,7 +15,7 @@ Remote Control
   A-------------------------------------------------  
   E-------------------------------------------------]  
   *The Chords In The Song A Just Power Chords, So Here They Are:*  
-  ****C5***:          ***G#5***:        ***F5***:*  
+  ***C5***:          ***G#5***:        ***F5***:*  
   [X355XX       466XXX      133XXX]  
   *The Way They Are Played Is As So:*  
   ***C5***  

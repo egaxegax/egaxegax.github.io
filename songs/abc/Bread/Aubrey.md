@@ -2,7 +2,7 @@
 Aubrey  
   *(David Gates)*  
   
-  ****G G5***, ***C Am7***, ***Dsus4 D****  
+  ***G G5***, ***C Am7***, ***Dsus4 D***  
   
   ***G   G/F#           Em   Gmaj7***  
   And Aubrey was her name  
@@ -59,4 +59,4 @@ Aubrey
   ***Cm                      G***  
   She had been mine for a day.  
   
-  ****Em9***: [020002]*
+  ***Em9***: [020002]*

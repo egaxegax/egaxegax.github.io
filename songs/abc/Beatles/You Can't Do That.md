@@ -102,7 +102,7 @@ You Can't Do That
     ***D9                 C11          G     G7    D9***  
   Because I told you before, oh you cant do that  
   ***G   G7***  
-  *END ON ***G****  
+  *END ON ***G***  
   
      ***C11(add5) D9    B7    Em***  
   [e --3---------5-----7-----7-  

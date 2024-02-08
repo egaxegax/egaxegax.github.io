@@ -3,7 +3,7 @@ A Day in the Life
   *(Lennon & McCartney)*  
   
   *(intro) ***G Bm Em Em7*** (add D on B string) ***Em C..C Cmaj7 C+9 Cmaj7*** (play with B)*  
-  ****G          Bm            Em Em7 Em***  (you can add these notes on B string-*  
+  ***G          Bm            Em Em7 Em***  (you can add these notes on B string-*  
   I read the news today oh boy                   I'll omit them from now on)  
   ***C       Em            Am            Cmaj7 Cadd9 Cmaj7***  
   About a lucky man who made the grade  
@@ -57,7 +57,7 @@ A Day in the Life
   *define: ***E?*** [1 0 0 0 0 -1 -1]*  
   *define: ***G?*** [1 3 0 0 0 -1 -1]*  
   
-  ****G***(intro)          ***Bm          Em       Em7          C          C****  
+  ***G***(intro)          ***Bm          Em       Em7          C          C***  
   ***G***I read the ***Bm***news today, oh ***Em***boy, ***C***about a ***Em***lucky man who ***Am***made the grade ***Cmaj7***  
   ***G***And thought the ***Bm***news were rather ***Em***sad, ***C***well I just ***F***had to laugh ***Em     E?***  
   ***C***I saw the ***F***photograph ***Em     Cmaj7***  

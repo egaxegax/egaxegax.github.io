@@ -2,7 +2,7 @@
 Live at Wembley'78 (1988)  
   Livin' Thing  
   
-  ****G+***: [xx1003]*  
+  ***G+***: [xx1003]*  
   
   S***C***ailin' away on the crest of a wave, it's like m***Am***agic  
   R***Ab***ollin' and ridin' and slippin' & slidin', it's m***Fm***agic  
@@ -59,7 +59,7 @@ Live at Wembley'78 (1988)
   Floating downstream,  
   So let her go don't start spoiling the show  
   It's a bad dream  
-  ****G+***: [xx1003]*  
+  ***G+***: [xx1003]*  
   
 ----  
   

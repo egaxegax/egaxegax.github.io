@@ -66,7 +66,7 @@ The Weight
   Take a load off Fanny, take a load for free;  
     ***D        C                                                    G***  
   Take a load off Fanny, And (and) (and) you can put the load right on me.  
-  ****G***(***F#***bass)       ***Em       Em7       C****  
+  ***G***(***F#***bass)       ***Em       Em7       C***  
   ------------------------------------------------  
   ***G              Bm          C                      G       C     G***  
   I picked up my bag, I went lookin' for a place to hide;  

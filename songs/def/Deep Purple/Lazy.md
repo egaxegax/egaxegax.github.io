@@ -115,7 +115,7 @@ Solo:                         
   Just stay in bed  
     ***Bb***  
   You don't want no money  
-  ****F                 Gm7    D7#9*** (ie Purple Haze ***E*** down 2 frets)*  
+  ***F                 Gm7    D7#9*** (ie Purple Haze ***E*** down 2 frets)*  
   You don't want no bread  
   *Repeat chords for*  
   If you're drowning you don't clutch no straw  
@@ -135,16 +135,16 @@ Solo:                         
   *This is the chord progression:*  
   ***Gm7 | C/G |  Gm7 | Gm7***  
   ***C   | C   |  Gm7 | Gm7***  
-  ****Bb  | F   |  Gm7 | D7#9*** (the funky ***E*** from Purple Haze down 2 frets)*  
+  ***Bb  | F   |  Gm7 | D7#9*** (the funky ***E*** from Purple Haze down 2 frets)*  
   
   *I think these could do with some explanation:*  
     *EADGBE*  
-  ****Gm7***:  [353333] (I can't remember the simpler one!)*  
-  ****C/G***:  [335553] or [332010]*  
-  ****C***:    [332010] or [-32010] (whatever ***C*** you prefer!!)*  
-  ****Bb***:   [115551] or [--5551]*  
-  ****F***:    [133211] or [--3211]*  
-  ****D7#9***: [-5456-] (or if you're beginning: ***D7***: [-00212])*  
+  ***Gm7***:  [353333] (I can't remember the simpler one!)*  
+  ***C/G***:  [335553] or [332010]*  
+  ***C***:    [332010] or [-32010] (whatever ***C*** you prefer!!)*  
+  ***Bb***:   [115551] or [--5551]*  
+  ***F***:    [133211] or [--3211]*  
+  ***D7#9***: [-5456-] (or if you're beginning: ***D7***: [-00212])*  
   
   *=================*  
   *OUTRO (tablature)*  

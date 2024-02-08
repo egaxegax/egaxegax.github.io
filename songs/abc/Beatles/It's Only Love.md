@@ -32,7 +32,7 @@ It's Only Love
   
     ***Bb               G***  
   It's only love and that is all  
-    ****C              Am*** (as in intro)*  
+    ***C              Am*** (as in intro)*  
   Why should i feel the way i do?  
     ***Bb               G                F           G***  
   It's only love and that is all, but it's so hard, lovin you  

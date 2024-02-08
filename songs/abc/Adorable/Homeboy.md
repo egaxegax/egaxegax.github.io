@@ -1,7 +1,7 @@
 <!--2020-09-06 14:45:51-->
 Homeboy  
   
-  *Chords: ***E C#m B C#m B A B****  
+  *Chords: ***E C#m B C#m B A B***  
   I never understand how a man could be  
   I never understand how a man could be misunderstood  
   Even if i did i don't think i'll care less  

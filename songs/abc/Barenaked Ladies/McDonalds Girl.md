@@ -6,7 +6,7 @@ McDonalds Girl
   *Ontario, Canada.*  
   *Hope you like it. Sorry about the chord spacing.*  
   
-  ****D  A  G***  (quick ***A***) ***D****  
+  ***D  A  G***  (quick ***A***) ***D***  
   
   ***D           A         G                  A D***  
   I leave from softball practice every night  

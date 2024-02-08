@@ -9,7 +9,7 @@ Love Me
   If you ever go, darling, I'll be, oh, so lonely.  
     ***D7                          G     C     G***  
   I'll be sad and blue crying over you, dear, only.  
-  *Tacet           ***C             G****  
+  *Tacet           ***C             G***  
   I would beg and steal just to feel  
     ***A7                     D7    A7    D7***  
   your heart beating close to mine.  
@@ -25,7 +25,7 @@ Love Me
   If you ever go, darling, I'll be, oh, so lonely.  
     ***D7                          G     C     G***  
   I'll be sad and blue crying over you, dear, only.  
-  *Tacet           ***C             G****  
+  *Tacet           ***C             G***  
   I would beg and steal just to feel  
     ***A7                     D7    A7    D7***  
   your heart beating close to mine.  

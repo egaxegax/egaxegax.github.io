@@ -30,7 +30,7 @@
   *[a-----------3-------------2----] These are similar to barre*  
   *[F-----------2-------------1----] chords when tuned to [ADGCEA].*  
   *[C-----------4-------------3----] I think these are doubled an*  
-  *[G--6-6-6-5-------5-5-5-4-------] octave up. This is ***C#***-***C***-***B****  
+  *[G--6-6-6-5-------5-5-5-4-------] octave up. This is ***C#***-***C***-***B***  
   *[D--6-6-6-5-------5-5-5-4-------] barre chords(actual notes)*  
   [A--4-4-4-3-------3-3-3-2-------]  
   *other riff*  

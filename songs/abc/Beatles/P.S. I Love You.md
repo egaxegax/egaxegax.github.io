@@ -3,7 +3,7 @@ Please Please Me (Mar.1963)
   P. S. I Love You  
   *(Lennon/McCartney)*  
   
-  ****C#7***: [x43404] (***B7*** moved up two frets)*  
+  ***C#7***: [x43404] (***B7*** moved up two frets)*  
   
   ***Em    C#7        D       Em      C#7     D***  
   As I write this letter, send my love to you  

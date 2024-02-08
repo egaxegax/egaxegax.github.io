@@ -2,12 +2,12 @@
 Big Me  
   
   *Chords:*  
-  ****C*** - [x32013]*  
-  ****Am***  [x02213]*  
-  ****E***   [022100]*  
-  ****F***   [x03211] or [133211]*  
-  ****C7***  [x32310]*  
-  ****G***   [320033] or [355433]*  
+  ***C*** - [x32013]*  
+  ***Am***  [x02213]*  
+  ***E***   [022100]*  
+  ***F***   [x03211] or [133211]*  
+  ***C7***  [x32310]*  
+  ***G***   [320033] or [355433]*  
   
 Intro:  ***C Am G F*** } x2  
   
@@ -71,7 +71,7 @@ Other Bit: But it's you......I  fell  in  to
 ----  
   
   ***E        [022100]***  
-  ****F***      [133211] or [xx3211]*  
+  ***F***      [133211] or [xx3211]*  
   ***G        [320033]***  
   ***Am7      [x02213]***  
   ***C(add G) [x32013]***  
@@ -128,5 +128,5 @@ Chorus:  big me to talk about it
    ***G    F         C***  
   i    fell into  
   
-  *the song ends with one guitar playing ***C****  
+  *the song ends with one guitar playing ***C***  
   *and another playing ***C7***.*

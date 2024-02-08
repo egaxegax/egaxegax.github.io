@@ -50,7 +50,7 @@ Verse:  My mind is set on overdrive.
   
   *tuned down 1/2 step.*  
   
-  ****A G F# F E*** (later on, throw in some pick scrapes in between chords)*  
+  ***A G F# F E*** (later on, throw in some pick scrapes in between chords)*  
   
 ----  
   

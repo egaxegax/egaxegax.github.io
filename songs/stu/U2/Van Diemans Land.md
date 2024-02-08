@@ -35,8 +35,8 @@
   *All chords are played in arpeggio*  
   *(first from low frequency to high frequency and then back).*  
       [E A D G B E]  
-  ****G*** : [3 2 0 0 x x]*  
-  ****C*** : [x 3 2 0 1 x]*  
-  ****Em***: [x x 2 0 0 0]*  
-  ****D*** : [x x 0 2 3 2]*  
-  ****Bm***: [x 2 4 4 3 x]*
+  ***G*** : [3 2 0 0 x x]*  
+  ***C*** : [x 3 2 0 1 x]*  
+  ***Em***: [x x 2 0 0 0]*  
+  ***D*** : [x x 0 2 3 2]*  
+  ***Bm***: [x 2 4 4 3 x]*

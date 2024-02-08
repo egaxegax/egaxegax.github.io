@@ -95,4 +95,4 @@ bridge:  Over the bridge where you start to believe
   Dark is the night though it's in another time  
   Follow the light of your shadow  
   
-  *Guitar intro (four times), then ***C-G****
+  *Guitar intro (four times), then ***C-G***

@@ -6,7 +6,7 @@ Cosmic Empire
   I'm waiting in the que down at the Cosmic Empire  
   *RIFF*  
   I wanna a front row pew down at the Cosmic Empire  
-  *RIFF                                          ***F#m****  
+  *RIFF                                          ***F#m***  
   An omnipresent view down at the Cosmic Empire  
   *RIFF, RIFF 2*  
   *CHORUS #1:*  
@@ -22,7 +22,7 @@ Cosmic Empire
   Down at the Cosmic Empire  
   *RIFF*  
   Down at the Cosmic Empire  
-  *RIFF                  ***F#m****  
+  *RIFF                  ***F#m***  
   Down at the Cosmic Empire  
   *RIFF, RIFF 2*  
   *CHORUS #2:*  
@@ -34,7 +34,7 @@ Cosmic Empire
   Down at the Cosmic Empire  
   *RIFF*  
   Down at the Cosmic Empire  
-  *RIFF                   ***F#m****  
+  *RIFF                   ***F#m***  
   Down at the Cosmic Empire  
   *RIFF, RIFF 2*  
   
@@ -47,7 +47,7 @@ Cosmic Empire
   A -----------------------------   -------------2-4---2----2--  
   E -0-----------0---------------   -0-------------------0-----]  
   
-  ****Ao7***: [x 0 1 2 1 2]*  
+  ***Ao7***: [x 0 1 2 1 2]*  
   
   *NOTE: You may not be familiar with this tune cos its never been*  
   *officially released. Its on the bootleg Beware of ABKCO which I think*  

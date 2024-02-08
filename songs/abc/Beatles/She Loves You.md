@@ -49,7 +49,7 @@ Verse 3: And so its up to you
   
   *repeat chorus*  
   
-  *repeat post-chorus  ***G G/F# Em****  
+  *repeat post-chorus  ***G G/F# Em***  
   (...glad)  
   
 Coda:          ***Cm***  

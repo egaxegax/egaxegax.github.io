@@ -36,9 +36,9 @@ Real Love
   All they ever needed from you  
   Was maybe some love  
   
-  ****F/C#***:    [x x 3 2 2 1]*  
-  ****Em(III)***: [x x 0 4 5 3]*  
-  ****F#m(V)***:  [x x 0 6 7 5]*  
+  ***F/C#***:    [x x 3 2 2 1]*  
+  ***Em(III)***: [x x 0 4 5 3]*  
+  ***F#m(V)***:  [x x 0 6 7 5]*  
   
   *NOTE: This is my version of the chords, but since I figured them out on*  
   *my own, there's no guarantee these are an improvement - just different*  

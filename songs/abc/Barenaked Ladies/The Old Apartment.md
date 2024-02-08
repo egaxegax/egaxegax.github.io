@@ -28,7 +28,7 @@
   why did you keep the mousetrap?  
   ***C   D                G***  
   why did you keep the dish rack?  
-  ****G            D                  C                               D***    *mute**  
+  ***G            D                  C                               D***    *mute**  
   these things used to be mine, I guess they still are I want 'em back  
   ***G     D            C         G***  
   broke into the old apartment  

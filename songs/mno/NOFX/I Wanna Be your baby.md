@@ -1,7 +1,7 @@
 <!--2020-09-06 07:28:45-->
 I Wanna Be your baby  
   
-  *this is the main guitar part, it just goes: ***F#5 G5 A5 G5****  
+  *this is the main guitar part, it just goes: ***F#5 G5 A5 G5***  
   *over a few times.*  
   
 ----  

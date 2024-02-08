@@ -47,7 +47,7 @@ Last Riff: [E----5-----0-4----4--2--4--5
   
   *CHORD FORMATIONS:*  
   ***A***   [x02220]  
-  ****F#m*** [244222] (Bar across 2nd fret)*  
+  ***F#m*** [244222] (Bar across 2nd fret)*  
   ***Bm***  [xx4432]  
   ***Dm***  [xx0231]  
   ***G***   [320033]  

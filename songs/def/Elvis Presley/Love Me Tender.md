@@ -53,10 +53,10 @@ Love Me Tender
 ----  
   
   *Chord diagrams:*  
-  ****B7*** - [o212o2] ***Cm*** - [xx1o13]*  
-  ****D7*** - [xxo212] ***Em*** - [o22ooo]*  
-  ****G7*** - [32ooo1] ***Dm*** - [xxo231]*  
-  ****A7*** - [xo2223] (or ***A7*** - [xo2o2o])*  
+  ***B7*** - [o212o2] ***Cm*** - [xx1o13]*  
+  ***D7*** - [xxo212] ***Em*** - [o22ooo]*  
+  ***G7*** - [32ooo1] ***Dm*** - [xxo231]*  
+  ***A7*** - [xo2223] (or ***A7*** - [xo2o2o])*  
   
    ***G              A7***  
 (1)  Love me tender, love me sweet,  

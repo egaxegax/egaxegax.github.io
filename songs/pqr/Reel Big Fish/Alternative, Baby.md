@@ -39,7 +39,7 @@ intro:  ***d# cm c# g# a#***
    } x2  
   
   ***d# cm g# a# } x3***  
-  ****d# g*** slide up to ***g#*** slide up to ***a#*** under fill 1*  
+  ***d# g*** slide up to ***g#*** slide up to ***a#*** under fill 1*  
    } x2  
   
 verse 1: ***d# cm g# g#*** slide up to ***a# g# a#*** } x4  
@@ -54,7 +54,7 @@ chorus:  ***g# a# d# cm g# a# d#*** (fill 2)
   starts "hey, little alternative girl..."  
   
 post-chorus: ***d# cm g# a#*** } x3  
-  ****d# g*** slide up to ***g#*** slide up to ***a#*** under fill 1*  
+  ***d# g*** slide up to ***g#*** slide up to ***a#*** under fill 1*  
   
 verse 2: ***d# cm g# g#*** slide up to ***a# g# a#*** } x4  
   "maybe i shouldn't be so serious..."  
@@ -76,7 +76,7 @@ post-chorus: ***d# cm c# g# a#***
   *under ***d# g*** slide up to ***g#*** slide up to ***a#***  
   *trumpet*  
   *solo ***d# cm g# a#*** } x3*  
-  ****d# g*** slide up to ***g#*** slide up to ***a#*** under fill 1*  
+  ***d# g*** slide up to ***g#*** slide up to ***a#*** under fill 1*  
   
   ***cm a# d# cm g# g#***  
   ***a# d c d***  
@@ -94,4 +94,4 @@ outro:  ***d# cm c# g# a#***
   ***d# cm c# g# a#***  
   ***d# cm c# g#***  
   ***d# cm c# g# a#***  
-  ****d# cm*** (fill 3) ***d#***
+  ***d# cm*** (fill 3) ***d#***

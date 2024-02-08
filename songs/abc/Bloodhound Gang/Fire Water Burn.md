@@ -3,7 +3,7 @@ Fire Water Burn
   
   *Intro:*  
   *(clean)*  
-  ****G  Em*** } 2x*  
+  ***G  Em*** } 2x*  
   
   ***G                   Em***  
   The roof, the roof, the roof is on fire    } Repeat 3x  

@@ -2,7 +2,7 @@
 Into Your Arms  
   
   *define ***D6*** base-fret 1 frets [x x 0 0 3 2]*  
-  *Repeat playing ***D*** and ***D6****  
+  *Repeat playing ***D*** and ***D6***  
   ***D***I know a place where I can ***G***go when I'm a***Em***lone  
   i***G***nto your a***Em***rms     whoa    i***G***nto your a***Em***rms  
   I can g***D***o  ***D6***  

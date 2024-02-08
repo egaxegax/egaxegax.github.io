@@ -37,7 +37,7 @@ Intro:  ***E  E  E***
   I fell in love with a Stainsby girl  
   
   *Instrumental*  
-  ****E A E A E A E*** (I'm not sure about this bit)*  
+  ***E A E A E A E*** (I'm not sure about this bit)*  
   
   ***E  A E***  
   Deepest water, Staninby blue  
@@ -61,8 +61,8 @@ Intro:  ***E  E  E***
   I fell in love with a Stainsby girl  
   
   *Ending bit:*  
-  ****B***//***E***//***B***//***E***// (means play two bars each)*  
-  ****A E***/***B E***/***A E***/***B E***/***A E***/***B E***/  (means play ***A*** and ***E*** in one bar,*  
+  ***B***//***E***//***B***//***E***// (means play two bars each)*  
+  ***A E***/***B E***/***A E***/***B E***/***A E***/***B E***/  (means play ***A*** and ***E*** in one bar,*  
     *and likewise for ***B*** and ***E***.)*  
   *Chords suggestions:*  
   *To make it sound just like the record you should use barr chords*  

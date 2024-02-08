@@ -2,11 +2,11 @@
 Soul Searching Sun (1997)  
   Weeds  
   
-  *Rythm1  ***B F B D E****  
+  *Rythm1  ***B F B D E***  
   *The first ***B*** and ***F*** are sometimes played muted.*  
-  *Rythm2  ***D A B****  
-  *Rythm3  ***B A G****  
-  *Bridge  ***G A****  
+  *Rythm2  ***D A B***  
+  *Rythm3  ***B A G***  
+  *Bridge  ***G A***  
   
   *Intro: Rythm1*  
   

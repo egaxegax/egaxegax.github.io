@@ -11,7 +11,7 @@ Innocent Greed
   -8- -8- -9- -6-  
   -6- -6- -9- -4-  
   -6- -6- -7- -4-]  
-  *Right after she sings the "wohhh" intro, you play once the ***D#7****  
+  *Right after she sings the "wohhh" intro, you play once the ***D#7***  
   *chord and let it fade while the bass and drums are playing alone.*  
   *Then there's distorsion on the bass, and it makes the rythm,*  
   *while the guitar plays little notes in the back (the guitar is*  

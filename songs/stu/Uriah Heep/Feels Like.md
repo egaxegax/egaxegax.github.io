@@ -63,7 +63,7 @@ verse:  I can feel your sadness
   Deeper then deep in my soul  
   
   *chorus: (play the guitar theme except where chords indicated!)*  
-  ****Bb***              (guitar theme from here)*  
+  ***Bb***              (guitar theme from here)*  
   And it makes me feel like  
   I'm at the point of no return - feels like  
   ***G#          Bb***  
@@ -83,7 +83,7 @@ verse:  I was drifting through the days
   Deeper than deep in my soul  
   
   *chorus: (play the guitar theme except where chords indicated!)*  
-  ****Bb***              (guitar theme from here)*  
+  ***Bb***              (guitar theme from here)*  
   And it makes me feel like  
   I'm at the point of no return - feels like  
   ***G#          Bb***  

@@ -140,9 +140,9 @@ INTRO:  ***Em***
   
 CORE:     ***Em C G***  
      ***Em C G Am Em***  
-  *2x ***D Am Em****  
-  *2x ***F Em****  
-  *4x ***D Am Em****  
+  *2x ***D Am Em***  
+  *2x ***F Em***  
+  *4x ***D Am Em***  
   
 OUTRO:  ***Em***  
   |-------------------------------------|  

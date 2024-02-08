@@ -2,7 +2,7 @@
 Unplugged  
   Lonely Stranger  
   
-  ****E     A/E   Am/E  E***  (bis)*  
+  ***E     A/E   Am/E  E***  (bis)*  
   *(Intro)*  
   ***E      A/E C#m   F#***  
   I must be  invisible;  
@@ -59,7 +59,7 @@ Chorus:  'Cause I'm a lonely stranger here,
   A ------------4--------3----------2-----------------  
   E ---0-----0--------0-------------0-----------------]  
   *or as another contributor  posted (I don't know which is best?)*  
-     ****E         F#m7***  (slap strings)   ***F#  E***                 repeat it.*  
+     ***E         F#m7***  (slap strings)   ***F#  E***                 repeat it.*  
   [-----------------------.-----------------------0----------|  
   ---------0-------------.-------------0---------0----------|  
   -----0h1-----2---------.-----------2----0h1---------------|  
@@ -88,7 +88,7 @@ Chorus:  'Cause I'm a lonely stranger here,
   *Chorus:*  
   ***E     F#m7            B        C#m7***  
   Cause I'm a lonely    stranger here  
-  ****F#m7           G#m7    C#m7 E7***  (***C#m7*** and ***E7*** are packed in one measure.)*  
+  ***F#m7           G#m7    C#m7 E7***  (***C#m7*** and ***E7*** are packed in one measure.)*  
       well be----yond my da---ys  (No clue on the words here.)  
   ***A7      A7Dim       E     F#m7***  
   I don't know what's going on so  

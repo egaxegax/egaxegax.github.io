@@ -235,7 +235,7 @@ Heartbreaker
   -7-----------------------  
   -7-----------------------  
   ------------------------]  
-  *enter back in on the verse with the guitar playing ***D A****  
+  *enter back in on the verse with the guitar playing ***D A***  
   Oh! Work so hard I couldn't unwind, get some money saved  
   abuse my love a thousand times, however hard i tried  
   heartbreaker your time has come can't take your evil ways  

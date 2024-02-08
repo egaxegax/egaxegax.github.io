@@ -29,26 +29,26 @@ D---2-------2-----2---2-----|-----5---5-------0---------|
 A-3-------------------------|---5-------5---------------|  
 E---------------------------|-3-------------------------|]  
  I.m here without you baby but your still on my lonely mind  
-****Am F G*** (intro)*  
+***Am F G*** (intro)*  
   
 ***Am G***  
 A hundred days had made me older since the last time that I saw your pretty face  
-****Am F G*** (intro)*  
+***Am F G*** (intro)*  
   
 ***Am G A*** thousand lights had made me colder and I don.t think I can look at this the same  
-****Am F G*** (intro)*  
+***Am F G*** (intro)*  
 ***Am G***  
 But all the miles had separate  
-   ****Am***(intro) ***F G****  
+   ***Am***(intro) ***F G***  
 They disappeared now when I.m dreaming of your face  
   
 Chorus:  ***C G***  
 I.m here without you baby but your still on my lonely mind  
- ****Am***(intro) ***F G C****  
+ ***Am***(intro) ***F G C***  
 I think about you baby and I dream about you all the time  
 ***C G***  
 I.m here without you baby but your still with me in my dreams  
-****Am*** (intro) ***F G****  
+***Am*** (intro) ***F G***  
   And tonight it.s only you and me  
   
 *A Вoт Дaльшe Лyчшe Пepeйти C Пepeбopa Нa Бoй*  

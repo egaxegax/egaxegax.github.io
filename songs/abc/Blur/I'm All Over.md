@@ -14,7 +14,7 @@
   I always knew that there would be  
   ***D        C#***  
   no one nowhere  
-  ****B A F#     E  (D-)*** don't know what that means*  
+  ***B A F#     E  (D-)*** don't know what that means*  
   Who was anything like me  
   ***C#       F# C#   F#***  
   I'm all over, all over, all o-o-o-over  

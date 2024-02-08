@@ -11,7 +11,7 @@
   D ----------------------------------||----------------------------------||  
   A ----------------------------------||----------------------------------||  
   E -(0)------------------------------||-(3)------------------------------||]  
-      ****G                                   G****  (occurs after first chorus)*  
+      ***G                                   G***  (occurs after first chorus)*  
   [E ----0-----0-----0-----0-----0-----||----0-----2-----2-----3-----2-----||  
   B ------0-----0-----0-----0-----0---||------0-----0-----0-----0-----0---||  
   G --4-----4-----4-----4-----4-----4-||--4-----4-----4-----4-----4-----4-||  
@@ -60,7 +60,7 @@
   I am your slice of life  
     ***Em           G   F#***  
   I am your slice of life (life)  
-  *Slight interlude: ***G/E   G**** (&lt;-- play the ***G*** riff with an ***E*** bass note, then a ***G*** bass note)*  
+  *Slight interlude: ***G/E   G*** (&lt;-- play the ***G*** riff with an ***E*** bass note, then a ***G*** bass note)*  
   Shivering under lamposts, shivering under glass  
   You're standing on charisma again  
   God knows it cannot last  

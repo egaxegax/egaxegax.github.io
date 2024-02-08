@@ -50,19 +50,19 @@ Hyena
   *basically impossible to pick out. The bass carries the melody. However it*  
   *does sound sort of like*  
   *a ***G*** being raked.)*  
-  ***G****  
+  ***G***  
   Every time I turn around it's the same sad story  
-  ***G****  
+  ***G***  
   Getting ganked I wish it would end  
-  ***G****  
+  ***G***  
   And life's comisary  
   ***G*           D#    Bb***  
   I'm a bad missionary with a wicked message I send  
-  ***G****  
+  ***G***  
   (????) ...is not the way I want to live.  
-  ***G****  
+  ***G***  
   Who could I trust in a world of green?  
-  ***G****  
+  ***G***  
   When I'm taught to take and not give.  
   *8. BRIDGE*  
   ***D#***  
@@ -72,7 +72,7 @@ Hyena
   *9. SOLO (Don't have time to tab this out, but these are the chords played*  
   *under the solo.)*  
   ***F         C          Bb          F     } X4***  
-  *Guitar solo played out of a blues scale in the key of ***F****  
+  *Guitar solo played out of a blues scale in the key of ***F***  
   *10.  Repeat first verse (#3)*  
   *11.  CHORUS  v.2*  
   *Play through the chords (***F   C   Bb    F***) two times alone with the bass before*  

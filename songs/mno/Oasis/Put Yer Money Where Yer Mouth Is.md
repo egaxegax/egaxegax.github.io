@@ -2,15 +2,15 @@
 Standing On The Shoulder Of Giants (2000)  
   Put Yer Money Where Yer Mouth Is  
   
-  ****Dropped D tuning****  
+  ***Dropped D tuning***  
   
   *CHORDS USED (Implied by keyboard, tabbed for guitar)*  
-  ****Dsus4***-([000233])***G F D C G/B****  
-  ****G***-----([5X0033])*  
-  ****F***-----([333000])*  
-  ****D***-----([000232])*  
-  ****C***-----([X35550])*  
-  ****G/B***---([X20033])*  
+  ***Dsus4***-([000233])***G F D C G/B***  
+  ***G***-----([5X0033])*  
+  ***F***-----([333000])*  
+  ***D***-----([000232])*  
+  ***C***-----([X35550])*  
+  ***G/B***---([X20033])*  
   
   *INTRO Only keyboard*  
   ***Dsus4 / G / Dsus4 / G } x2***  
@@ -55,7 +55,7 @@ Standing On The Shoulder Of Giants (2000)
   *REPEAT BRIDGE SOLO*  
   *OUTRO*  
   *RIFF 1 OVER VERSE CHORDS AND 'Watch out!'*  
-  *End on ***D****  
+  *End on ***D***  
   
 ----  
   

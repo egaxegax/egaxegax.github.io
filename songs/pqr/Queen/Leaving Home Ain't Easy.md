@@ -5,8 +5,8 @@ Jazz 1978
   *3:13*  
   
   *chords*  
-  ****A***: [577655]  ***Dm/A***: [x03230]  ***A7sus***: [575755]  ***D***: [x57775]  ***E VII***.: [x7999x]*  
-  ****Em7***: [020030]  ***F7***: [131211]*  
+  ***A***: [577655]  ***Dm/A***: [x03230]  ***A7sus***: [575755]  ***D***: [x57775]  ***E VII***.: [x7999x]*  
+  ***Em7***: [020030]  ***F7***: [131211]*  
   *Intro:*  
     *&lt; &lt;*  
   |------------------------------------------------------|  
@@ -43,7 +43,7 @@ Jazz 1978
   Shaking dust from my shoes  There's a road ahead And there's  no way  back  
     ***D            E***  
   home  (No way)   But I have to say  
-  ****A V.    A7sus      D V.***                        [x7999x x79797]/slide down*  
+  ***A V.    A7sus      D V.***                        [x7999x x79797]/slide down*  
   Leavin' home ain't easy (Oh I never thought it would be easy)  
   Leavin' all  you  own (Oh there's a million things calling me back)  
   ***A V.    A7sus     D V. F#    Bm  F7   A           E7     A      Dm9   A***  

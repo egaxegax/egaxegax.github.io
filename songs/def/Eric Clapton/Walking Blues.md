@@ -2,7 +2,7 @@
 "Unplugged"  
   Walking Blues  
   
-  *12 Bar Blues in key of ***G****  
+  *12 Bar Blues in key of ***G***  
   
 ----  
   

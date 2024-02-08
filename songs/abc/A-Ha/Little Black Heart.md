@@ -2,13 +2,13 @@
 Little Black Heart (4:33)  
   *(Magne Furuholmen/Paul Waaktaar)*  
   
-  ****Bm**** - [024400]*  
+  ***Bm*** - [024400]*  
   
-    ***Em     Bm*-C***  
+    ***Em     Bm-C***  
   I never saw sunlight  
-    ***Em   Bm*-C***  
+    ***Em   Bm-C***  
   Burn as bright  
-    ***Em      Bm*-C***  
+    ***Em      Bm-C***  
   I never felt darkness  
     ***Em     C***  
   The way I feel it tonight  
@@ -16,17 +16,17 @@ Little Black Heart (4:33)
   You say it's getting better  
     ***G       C***  
   You say it's allright  
-    ***Em    Bm****  
+    ***Em    Bm***  
   But I never felt darkness  
     ***C     D***  
   Like I feel it tonight  
     ***Em***  
   Little black heart  
-    ***Em     Bm*-C***  
+    ***Em     Bm-C***  
   Raindrops on my window  
-    ***Em     Bm*-C***  
+    ***Em     Bm-C***  
   I can't tell them apart  
-    ***Em     Bm*-C***  
+    ***Em     Bm-C***  
   Like the few things forgiven  
     ***Em     Bm*-C***  
   In my little black heart  
@@ -34,7 +34,7 @@ Little Black Heart (4:33)
   You say it's getting better  
     ***G    C***  
   We just never got it right  
-    ***Em     Bm****  
+    ***Em     Bm***  
   But I never felt darkness  
     ***C     D***  
   The way I feel it tonight  

@@ -149,7 +149,7 @@ Intro:  ***C G A D    C G A D***
   ** = slide to the above or below indicated note from as many frets below*  
   *as the number of stars*  
   
-  ****Av*** = [577655]    ***G6*** = [xx0000]    ***C9*** = [x32030]    ***F6*** = [1x3231]*  
+  ***Av*** = [577655]    ***G6*** = [xx0000]    ***C9*** = [x32030]    ***F6*** = [1x3231]*  
   
   *Quarter=120=----*  
   

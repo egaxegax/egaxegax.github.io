@@ -4,7 +4,7 @@ Beat My Guest
   *I simply used power chords when transcribing this, however,*  
   *I'm sure full chords will work just as well!*  
   
-  *CHORDS USED:     ***E   E   D   D   A   A****  
+  *CHORDS USED:     ***E   E   D   D   A   A***  
     [E-------------------------]  
     *[B-------------------------] I've given 2*  
     *[G-----9-------7-------2---] finger layouts*  
@@ -23,15 +23,15 @@ Beat My Guest
      *Chords  ***D E D A D E D A D E D A A   A***     Let chords ring.*  
   
   *Order of riffs:*  
-  *Intro:   ***A****20*  
-  *(On 13th bar of intro) ***B****2*  
-  *Verse 1: ***C****2, ***B****2*  
-  *Verse 2: ***C****2, ***B****2*  
-  *Chorus:  ***D***, ***B****2*  
-  *Verse 3: ***C****2, ***B****2*  
-  *Chorus:  ***D****2, ***B****2*  
-  *Outro:   ***A****23*  
-  *(On 9th bar of outro) ***B****4*  
+  *Intro:   ***A***20*  
+  *(On 13th bar of intro) ***B***2*  
+  *Verse 1: ***C***2, ***B***2*  
+  *Verse 2: ***C***2, ***B***2*  
+  *Chorus:  ***D***, ***B***2*  
+  *Verse 3: ***C***2, ***B***2*  
+  *Chorus:  ***D***2, ***B***2*  
+  *Outro:   ***A***23*  
+  *(On 9th bar of outro) ***B***4*  
   
   *LYRICS: Start on bar 21.*  
   *Verse 1: (Riff C*2)*  

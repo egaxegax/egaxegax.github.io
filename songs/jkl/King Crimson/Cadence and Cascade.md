@@ -83,5 +83,5 @@ from the 1970 album In The Wake of Poseidon
   Sad paper courtesan  
   They knew him just a man.  
   *(fade out with improvised (lots of flute, piano going on) guitar in ***F#min*** &*  
-  ****G#minor*** (I think))*  
+  ***G#minor*** (I think))*  
   *That's it, hope you enjoy.*

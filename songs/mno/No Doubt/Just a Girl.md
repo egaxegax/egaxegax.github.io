@@ -36,7 +36,7 @@ Lyrics:  Take this pink ribbon off my eyes
   I'm just a girl, all pretty and petite  
      ***Bm           A        G       A***  
   So don't let me have any rights  
-  ****G         C***  (the ***G*** and ***C*** are palm muted)*  
+  ***G         C***  (the ***G*** and ***C*** are palm muted)*  
   Oh...I've had it up to here!  
   
   The moment that I step outside  
@@ -69,12 +69,12 @@ Lyrics:  Take this pink ribbon off my eyes
   Take a good look at me  
     ***Bm      A        G   A***  
   Just your typical prototype  
-  ****G         C***  (the ***G*** and ***C*** are palm muted)*  
+  ***G         C***  (the ***G*** and ***C*** are palm muted)*  
   Oh...I've had it up to here!  
   
   *do the ***Bm***-***A***-***G***-***A*** thing 4 times*  
   
-  ****G         C***  (***G*** and ***C*** muted)*  
+  ***G         C***  (***G*** and ***C*** muted)*  
   Oh...I am making myself clear?  
   I'm just a girl  
   I'm just a girl in the world...  
@@ -99,7 +99,7 @@ Lyrics:  Take this pink ribbon off my eyes
   I'm just a girl, lucky me  
     ***Bm          A       G    A***  
   Twiddle-dum there's no comparison  
-  ****G         C***  (***G***'s and ***C***'s muted throughout)*  
+  ***G         C***  (***G***'s and ***C***'s muted throughout)*  
   Oh...I've had it up to!  
   ***G         C***  
   Oh...I've had it up to!  

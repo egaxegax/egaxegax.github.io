@@ -15,7 +15,7 @@ Verse:  Same as intro, except replace pick scrape with this�
   3|---3-------3---  
   
 Chorus:  "The lady I feel maternal love for..."  
-  ****E5*** chord with a variation of the above riff in no particular pattern.*  
+  ***E5*** chord with a variation of the above riff in no particular pattern.*  
   "I say so..."  
   4|-4-5-5-6-6-7-7-8-9\8-8  
   5|-4-5-5-6-6-7-7-8-9\8-8  

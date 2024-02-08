@@ -6,7 +6,7 @@ Revolution
   
   ***D***  
   Don't fight the feeling relax  
-  ***D****  
+  ***D***  
   Oh child the knots are in your back  
   ***G***  
   'Cause you've been holding on  
@@ -22,7 +22,7 @@ Revolution
   And walk into the revolution  
   ***D***  
   When there's no-one to touch  
-  ***D****  
+  ***D***  
   And you've been thinking too much  
   ***G                                 Em7***  
   You only hurt yourself when you think  

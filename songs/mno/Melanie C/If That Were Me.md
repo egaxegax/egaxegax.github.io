@@ -1,13 +1,13 @@
 <!--2020-09-06 05:55:09-->
 If That Were Me  
   
-  *o.k.-The basic chord progression is ***G***-***Am***-***C D****  
+  *o.k.-The basic chord progression is ***G***-***Am***-***C D***  
   *and you can use "open chords"*  
   *i.e. ***G*** = [320003]*  
-    ****Am***= [x02210]*  
-    ****C*** = [x32010]*  
-    ****D*** = [xx0230]*  
-    ****Em***= [022000]*  
+    ***Am***= [x02210]*  
+    ***C*** = [x32010]*  
+    ***D*** = [xx0230]*  
+    ***Em***= [022000]*  
   *OR  Play the Accoustic Riff:-*  
       *(***G***)          (***Am***)      (***C***)        (***D***)*  
   [E--------3---|-----3---|-----3---|-----5------  

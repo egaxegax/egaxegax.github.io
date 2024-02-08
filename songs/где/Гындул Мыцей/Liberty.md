@@ -54,8 +54,8 @@
   *strunele:[EADGBe]*  
   ***Em       [022000]***  
   ***Em(VII)  [779987]***  
-  ****F#***       [244xxx] - 'x' indica ca strunele date nici nu tre sa sa auda*  
-  ****G***        [320003] - p-u simplitate luati acest acord cu degetul mic pe struna*  
+  ***F#***       [244xxx] - 'x' indica ca strunele date nici nu tre sa sa auda*  
+  ***G***        [320003] - p-u simplitate luati acest acord cu degetul mic pe struna*  
   *cea mai groasa, shi restul o sa va dati seama.*  
   ***G(III)   [355xxx]***  
   ***Am       [002210]***  

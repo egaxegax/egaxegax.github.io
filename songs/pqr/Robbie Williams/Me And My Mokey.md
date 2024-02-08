@@ -2,8 +2,8 @@
 Me And My Mokey  
   *(R. Williams/G. Chambers)*  
   
-  *Fanfares ***Cm Fm Bb Ab****  
-  *!!!the main chords in this song are: ***Cm Fm Bb Ab****  
+  *Fanfares ***Cm Fm Bb Ab***  
+  *!!!the main chords in this song are: ***Cm Fm Bb Ab***  
   *(just repeat this chords: ***Cm Fm Bb Ab***)*  
   There was me and and my monkey  
   And with his dungarees and roller blades  

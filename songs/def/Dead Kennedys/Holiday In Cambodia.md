@@ -23,7 +23,7 @@ intro:  [E------------------------------------------------------------------
   In daddy's car thinkin' you'll go far  
   Back east your type don't crawl  
   
-    ****G                D***                    &lt;- switch to chords*  
+    ***G                D***                    &lt;- switch to chords*  
   Play ethnicky jazz to parade your snazz  
     ***G               D***  
   On your five grand stereo  

@@ -2,11 +2,11 @@
 Man Machine  
   *(R. Williams/G. Chambers)*  
   
-  ****D              D/C        G      Am***(or ***C***)        ***D****  
+  ***D              D/C        G      Am***(or ***C***)        ***D***  
   Sitting in the cheap seats underneath the stars  
   I'm heading back to base, I'll drop you off at Mars  
   I'm sure I know your face or what star you're from  
-  ****D             D/C       G           Am***(or ***C***)   ***E   F****  
+  ***D             D/C       G           Am***(or ***C***)   ***E   F***  
   I try to make conversation but I'm too far gone  
   *(play following chords  ***D***-***D***/***C***-***G***-***Am***(or ***C***)-***D***)*  
   I'm a man machine  

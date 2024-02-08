@@ -41,7 +41,7 @@ Thank You
   ***Am***  
   all I see is you.  And even if my house falls down, I wouldn't have a  
   clue.  Because you're near me and  
-  *Repeat Chorus x 2    Repeat Intro x 2   End on ***G****  
+  *Repeat Chorus x 2    Repeat Intro x 2   End on ***G***  
   
   *This is my first attempt at a tab, I'm pretty sure its better than any*  
   *of the others out there.*  

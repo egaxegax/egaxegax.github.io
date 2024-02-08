@@ -33,11 +33,11 @@ Bridge:  Grandsons of the mining men, you'll see it in you
   The Rawdon Hills once were touched by gold  
   
   *Notes:*  
-  ****Gadd9***: [300203]*  
-  ****D7/F#***: [200212]*  
-  ****D/F#***:  [200232]*  
-  ****A7/G***:  [302020]*  
-  ****Ema9***:  [024100]*  
+  ***Gadd9***: [300203]*  
+  ***D7/F#***: [200212]*  
+  ***D/F#***:  [200232]*  
+  ***A7/G***:  [302020]*  
+  ***Ema9***:  [024100]*  
   Fma9:  122010  
   D/C:   x30232  
   (The Rawdon Hills are an area of Nova Scotia, kind of northwest of  

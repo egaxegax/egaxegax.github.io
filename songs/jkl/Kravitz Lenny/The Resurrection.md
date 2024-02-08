@@ -50,7 +50,7 @@ The Resurrection
   -----------------------------------------------------------------------]  
      *Idem*  
   *Part D:*  
-  *The chords sequence: ***G A D***  | ***G A D4sus D****  
+  *The chords sequence: ***G A D***  | ***G A D4sus D***  
   *(twice).*  
   *Song:*  
   *Part A: (No lyrics)*  

@@ -75,7 +75,7 @@ Carry Us All
   ***Bb***  
   Carry us all  
   
-  *Solo: ***Dm G*** a couple of times  ..then ***F G****  
+  *Solo: ***Dm G*** a couple of times  ..then ***F G***  
   
   *Chorus*  
   *======*  

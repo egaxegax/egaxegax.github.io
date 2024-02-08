@@ -4,4 +4,4 @@ Nevermind (1991)
   
 Verse:  ***B5 C5 G5***  
 Chorus:  ***E5 A5 D5 C5*** play that 4x then  
-  ****A5 G#5 G5*** play that 2x*
+  ***A5 G#5 G5*** play that 2x*

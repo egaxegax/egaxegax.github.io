@@ -1,14 +1,14 @@
 <!--2020-09-05 10:16:09-->
 Tea For One  
   
-  *3/4 blues in ***Cm****  
-  *8 bars of ***Cm****  
-  *8 bars of ***Fm****  
-  *8 bars of ***Cm****  
+  *3/4 blues in ***Cm***  
+  *8 bars of ***Cm***  
+  *8 bars of ***Fm***  
+  *8 bars of ***Cm***  
   *4 bars of ***Gm*** (first bar is actually 2 beats of ***Fm*** and one beat of ***Gm***)*  
-  *2 bars of ***Fm****  
-  *2 bars of ***Bb****  
-  *back to ***Cm****  
+  *2 bars of ***Fm***  
+  *2 bars of ***Bb***  
+  *back to ***Cm***  
   [--3----1----3----6--------  
   --4----1----3----6--------  
   --5----1----3----7--------  
@@ -30,7 +30,7 @@ Tea For One
   ------------------------------  
   --3s5---5s3-------------------  
   ------------------------------]  
-  *same riff played over ***Fm****  
+  *same riff played over ***Fm***  
   [---6--8--10--10--8h10p8-------  
   ------------------------------  
   ---7--8--10--10--8h10p8-------  

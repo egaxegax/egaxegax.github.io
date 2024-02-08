@@ -28,7 +28,7 @@ RIFF:  [e|------10----------12~~~~--&-----|------|
   ***E A*** Keep on working now, child.  
   ***E A*** Lord every morning.  
   
-  *Solo on ***A E****  
+  *Solo on ***A E***  
     ***B A E***  
   
   *The solo starts out:*  

@@ -45,7 +45,7 @@ Chorus:  Make a whole new religion
   *Intro } 2X*  
   
   *Bridge*  
-  *Chords are ***B A G A****  
+  *Chords are ***B A G A***  
   ***B        A           G        A***  
   And I'll feed your obsessions  
   ***B          A             G              A***  

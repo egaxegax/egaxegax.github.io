@@ -59,15 +59,15 @@ Judas
 ----  
   
   *Here are the guitar chord shapes: (but it sounds better on keyboard!)*  
-  ****Db***     - [x x 3 1 2 1] OR [x 4 6 6 6(4)]*  
-  ****Ab***     - [x x 1 1 1 4] OR [4 6 6 5 4 4]*  
-  ****Gb***     - [2 4 4 3 2 2]*  
-  ****Bbm***    - [x 1 3 3 2 1]*  
-  ****Gbmaj7*** - [x x 4 3 2 1] OR [2 4 3 3 2 2]*  
-  ****F-10***   - [x x 3 2 1 4]*  
-  ****F-9***    - [x x 3 2 1 2]*  
-  ****F 7***    - [x x 1 2 1 1] OR [1 3 1 2 1 1]*  
-  ****Ebm***    - [x x 4 3 4 2] OR [x 6 8 8 7 6]*  
+  ***Db***     - [x x 3 1 2 1] OR [x 4 6 6 6(4)]*  
+  ***Ab***     - [x x 1 1 1 4] OR [4 6 6 5 4 4]*  
+  ***Gb***     - [2 4 4 3 2 2]*  
+  ***Bbm***    - [x 1 3 3 2 1]*  
+  ***Gbmaj7*** - [x x 4 3 2 1] OR [2 4 3 3 2 2]*  
+  ***F-10***   - [x x 3 2 1 4]*  
+  ***F-9***    - [x x 3 2 1 2]*  
+  ***F 7***    - [x x 1 2 1 1] OR [1 3 1 2 1 1]*  
+  ***Ebm***    - [x x 4 3 4 2] OR [x 6 8 8 7 6]*  
   
   *Note: At parts marked ***/x*** keep playing previous chord, just alter*  
     *bass to new note.*  

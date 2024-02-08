@@ -69,7 +69,7 @@ Chorus:  It's a Rock and Roll damnation
   ma's own whipping boy  
   ***G5       D/F#     A5***  
   rock and roll damnation  
-  ****G5***  (not ***D*** this time)*  
+  ***G5***  (not ***D*** this time)*  
   take a chance  
   ***D5***  
   while you still got a choice  
@@ -86,7 +86,7 @@ Chorus:  It's a Rock and Roll damnation
   *try messing around with this. It's easier to stumble across*  
   *by playing than writing it down!!*  
   *Finally, the chords ***G*** and ***D/F#*** are the standard AC/DC stuff*  
-      ****G      D/F#***     note no major or minor tonalities*  
+      ***G      D/F#***     note no major or minor tonalities*  
   [E---x------x--  
   B---3------3--  
   G---0------2--  

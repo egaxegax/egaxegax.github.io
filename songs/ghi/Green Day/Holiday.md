@@ -72,10 +72,10 @@ Solo:  [E|---------------------------------------------8-----8--|
   
   *Bridge 2:*  
   
-  ****Bb*** (slide up to) ***C****  
+  ***Bb*** (slide up to) ***C***  
   Just cause  
   
-  ****Bb*** (slide up to) ***C****  
+  ***Bb*** (slide up to) ***C***  
   Just cause  
   
   Because we're on holiday  

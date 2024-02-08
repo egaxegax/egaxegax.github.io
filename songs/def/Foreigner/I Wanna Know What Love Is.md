@@ -110,9 +110,9 @@ Agent Provocateur (1985)
   I don't know if I can face it again.  
   ***C/A    Am              D/A      Am        C      G/B  Am  G  C/D***  
    Can't stop now.  I've traveled so far to change this lonely life.  
-  ***G                     Em   D *2* Am             Em  D     *2****  
+  ***G                     Em   D *2* Am             Em  D     *2***  
     I want to know what love is.       I want you to show me.  
-  ***G                     Em   D *2* Am             Em   D     D7 *1* Em *1****  
+  ***G                     Em   D *2* Am             Em   D     D7 *1* Em *1***  
     I want to feel what love is.       I know you can show me.  
   I'm gonna take a little time, a little time to look around me.  
   I've got nowhere to hide.  It looks like love has fin'lly found me.  

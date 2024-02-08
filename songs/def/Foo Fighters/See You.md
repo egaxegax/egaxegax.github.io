@@ -2,11 +2,11 @@
 See You  
   
   *Chords  -  ***A7***   [x7768x]       ***G#***   [466544]*  
-    ****A***    [577655]       ***D***    [x5777x] (or [xx0232])*  
+    ***A***    [577655]       ***D***    [x5777x] (or [xx0232])*  
     ***F    [133211]       C    [x3555x]***  
     ***E    [022100]***  
   
-  ****A7*** (slow strum)   ***A*** (quick strum)*  
+  ***A7*** (slow strum)   ***A*** (quick strum)*  
   ***F               E         A***  
   These notes are marked to sender  
   ***F              E           A***  

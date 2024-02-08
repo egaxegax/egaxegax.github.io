@@ -5,10 +5,10 @@ Your Crazy
   *x2*  
   ***A G A G A G D***  
   ***A G A G A G Em***  
-  ****D*** (multiple times)*  
+  ***D*** (multiple times)*  
   ***A G A G A G D***  
   ***A G A G A G Em***  
-  ****D*** (multiple times)*  
+  ***D*** (multiple times)*  
   ***Em D C***  
   *repeat all*  
   *Ok... I'll try and explain how to play this. Play the ***A*** by fretting position*  

@@ -11,7 +11,7 @@ Heavy Petting Zoo (Epitaph 1996)
   
   *Then:*  
   
-  *[e--7-7--5-7-5--7p5h7p5h7p5--3--12--10-7h8-10-] then power chord of ***G****  
+  *[e--7-7--5-7-5--7p5h7p5h7p5--3--12--10-7h8-10-] then power chord of ***G***  
   *(I know my previous tab was in the key of ***C***, but I think this sounds*  
   *right so just mess around with it)*  
   

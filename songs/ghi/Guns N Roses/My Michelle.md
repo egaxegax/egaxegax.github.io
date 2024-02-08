@@ -65,7 +65,7 @@
   and you do your coke for free  
   *riff D*  
   drivin` your friends crazy with your life insanity.  
-  *chorus ***D5 E5 B5 C#5 E5 A5 D5 C#5 B5 A5 G#5 A5****  
+  *chorus ***D5 E5 B5 C#5 E5 A5 D5 C#5 B5 A5 G#5 A5***  
   well, well, well, you just can  
   tell, well, well, well my michelle  
   *riff C riif D verse 2 riff C riff E riff C riff D*  

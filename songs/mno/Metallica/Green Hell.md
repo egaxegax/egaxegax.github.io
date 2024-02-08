@@ -6,7 +6,7 @@ Green Hell
   *I wrote it the way I thought it sounded. There is full tabulature info at the*  
   *end of this tab, too, if you don't understand how the rythms are written. Well,*  
   *that's all. Have fun!*  
-  ****This is the second posting of this tab. I made a major error in tabbing the*  
+  ***This is the second posting of this tab. I made a major error in tabbing the*  
      *first version of this. I gave the wrong places to play the chords in the*  
      *lyrics. It is fixed in this version. I'm not even sure if the original ever*  
      *got onto OLGA. Well, anyway, it's fixed.***  
@@ -45,7 +45,7 @@ Green Hell
   -5--5--5--5--5--5--5--5--|---2--2--2--2--2--2--2--2--|  
   -3--3--3--3--3--3--3--3--|---0--0--0--0--0--0--0--0--|]  
   
-  ****LYRICS****  
+  ***LYRICS***  
   *Riff #1*  
   Here in this place lies the key to your death  
   Touch it, see it  

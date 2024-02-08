@@ -4,9 +4,9 @@ Strada facendo
   
   *originariamente in Sol*  
   
-  ****Em7/A*** base-fret 0 frets [x 0 0 0 0 0]*  
-  ****Em7/E*** base-fret 0 frets [0 2 0 2 0 2]*  
-  ****G#m7*** base-fret 4 frets [1 3 3 1 4 1]*  
+  ***Em7/A*** base-fret 0 frets [x 0 0 0 0 0]*  
+  ***Em7/E*** base-fret 0 frets [0 2 0 2 0 2]*  
+  ***G#m7*** base-fret 4 frets [1 3 3 1 4 1]*  
   
   ***D          A G A D             A G A***  
   

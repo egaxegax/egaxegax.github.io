@@ -9,7 +9,7 @@ Plain
 *and back.  When distortion pops in ("nod your head to this...") repeat:*  
   ***E  F#  G  F#***  
 *then at (1:12) it does stuff with an Am, basically sliding or whatever.*  
-*at (2:36) it adds to the same riff thing a [--0--0~2--] fill on the ***G****  
+*at (2:36) it adds to the same riff thing a [--0--0~2--] fill on the ***G***  
 *string (!)*  
   
 ----  

@@ -2,7 +2,7 @@
 Library  
   
 Intro:  ***D   C   D   C   D   B***  
-    ****a   a   a   a   a***   &lt;== These mean that you play that*  
+    ***a   a   a   a   a***   &lt;== These mean that you play that*  
     *note in between the riffs.*  
   ***G  B  C  D***  
   ***E  D  E  D  E  D  C***  

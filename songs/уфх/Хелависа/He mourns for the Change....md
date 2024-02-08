@@ -27,4 +27,4 @@ Running to Paradise (1996)
     ***Am***  
   And lay in the darkness, grunting, and turning to his rest.  
   
-  ****Am Am/G Am/F E7*** etc*
+  ***Am Am/G Am/F E7*** etc*

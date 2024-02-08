@@ -82,27 +82,27 @@ Intro:  ***Dm Am7 Dm C***
   You?re in the army now  
   Oh, oh you?re in the army - now  
   
-  ***Dm7****  
+  ***Dm7***  
   Smiling faces on the way to ?Nam  
   But once you get there no one gives a damn  
     ***Gm***  
   You?re in the army now  
-  ***C*                  Dm****  
+  ***C*                  Dm***  
   Oh, oh you?re in the army - now  
   
   ***Dm Am7 Dm C***  
   
-   ***Dm7                                Dm7****  
+   ***Dm7                                Dm7***  
   Hand grenades flying over your head  (Drum breaks)  
-  ***Em7****  
+  ***Em7***  
   The sun?s flying over your head  
   If you wanna survive you?re out of bet  
-    ***Am****  
+    ***Am***  
   You?re in the army now  
-  ***Hm*                 Em****  
+  ***Hm*                 Em***  
   Oh, oh you?re in the army - now  
   
-  *(The rest is: ***Em7* Am* Hm* Em****)*  
+  *(The rest is: ***Em7* Am* Hm* Em***)*  
   
   Shots ring out in the dead of night  
   The sergeant calls: "Stand up and fight!"  
@@ -119,13 +119,13 @@ Intro:  ***Dm Am7 Dm C***
   You?re in the army now  
   Oh, oh you?re in the army - now  
   
-  ****Dm7****: [X57565]*  
-  ****C****  : [X35553]*  
-  ****Dm**** : [X57765]*  
-  ****Em7****: [X79787]*  
-  ****Am**** : [577555]*  
-  ****Hm**** : [799777]*  
-  ****Em**** : [X79987]*  
+  ***Dm7***: [X57565]*  
+  ***C***  : [X35553]*  
+  ***Dm*** : [X57765]*  
+  ***Em7***: [X79787]*  
+  ***Am*** : [577555]*  
+  ***Hm*** : [799777]*  
+  ***Em*** : [X79987]*  
   
 ----  
   

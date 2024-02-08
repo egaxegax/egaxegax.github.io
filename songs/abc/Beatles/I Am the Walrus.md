@@ -4,7 +4,7 @@ I Am the Walrus
   
   | ***B*** - - - | - - ***A*** - | ***G*** - ***F*** - | ***E*** - - - | ***E7*** - - - | ***D*** - - - | ***D7*** - - - |  
   
-  ****A          A/G*** ([3x222x])  ***C              D      E         A    A/G****  
+  ***A          A/G*** ([3x222x])  ***C              D      E         A    A/G***  
   I am he as you are he as you are me and we are all together  
   ***C                                            D***  
   See how they run like pigs from a gun see how they fly  
@@ -15,7 +15,7 @@ I Am the Walrus
   See how they smile like pigs in a sty, see how they snied  
   I'm crying  
   
-  ****A                    A/G    D/F#*** ([2x023x]) ***Famj7           G            A  A/G****  
+  ***A                    A/G    D/F#*** ([2x023x]) ***Famj7           G            A  A/G***  
   Sitting on a cornflake                    waiting for the van to come  
   ***F***  
   Corporation tee shirt stupid bloody Tuesday man  

@@ -229,7 +229,7 @@ Last verse: What day is it?
     And I don't know why,   I can't keep my eyes off of you.  
   
   **NOTE: When you play the chorus for the last time before the bridge, play a ***G*** instead of*  
-  *last ***C2****  
+  *last ***C2***  
   
   *Bridge*  
     ***Bm        C             G       D2           Em7***  
@@ -243,7 +243,7 @@ Last verse: What day is it?
   
   **NOTE: Jason doesn't actually do the Em7 bass riff, the bassist does it, but its fun to*  
   *nonetheless. There is a final A bass note at the end of the riff, but it happens at the*  
-  *time as the ***Am****  
+  *time as the ***Am***  
   
     ***Am                    D2***  
   [E----0---------------------0----------------|  

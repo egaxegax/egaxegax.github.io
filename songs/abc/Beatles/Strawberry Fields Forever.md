@@ -310,7 +310,7 @@ Chorus:     ***C                  
   D---1-----------3------1-------------------------------------]  
       Strawberry fields forever  
   
-  *Fade out over a chord of ***C****  
+  *Fade out over a chord of ***C***  
   
    *(cellos)                     (elec. gtr)*  
   [D-----------------------------------------1--0h1p0h1p0h1p0h1p0---  

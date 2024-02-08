@@ -16,7 +16,7 @@ Verse:  ***A E D A G D***
   E|----0-----|----3-----|]  
      ***A  E  D    A  G  D***  
   
-  *Electric section: ***F# B F# B  A D  A G D  A G D****  
+  *Electric section: ***F# B F# B  A D  A G D  A G D***  
   [e|----------------|  
   B|----------------|  
   G|----------------|  

@@ -72,13 +72,13 @@ Riff C:  E|-----------------|-----------------|
 ----  
   
   *Chords:*  
-  ****A***: [5-7-7-x-x-x]*  
-  ****B***: [7-9-9-x-x-x]*  
-  ****C#***: [x-4-6-6-x-x]*  
-  ****D***: [x-5-7-7-x-x]*  
-  ****E^***: [x-7-9-9-x-x] (^ is not an accent, but a high E)*  
-  ****Ev***: [0-2-2-x-x-x] (not the letter v, but a low E)*  
-  ****G#***: [4-6-6-x-x-x]*  
+  ***A***: [5-7-7-x-x-x]*  
+  ***B***: [7-9-9-x-x-x]*  
+  ***C#***: [x-4-6-6-x-x]*  
+  ***D***: [x-5-7-7-x-x]*  
+  ***E^***: [x-7-9-9-x-x] (^ is not an accent, but a high E)*  
+  ***Ev***: [0-2-2-x-x-x] (not the letter v, but a low E)*  
+  ***G#***: [4-6-6-x-x-x]*  
   
   *Intro on bass and horns*  
   

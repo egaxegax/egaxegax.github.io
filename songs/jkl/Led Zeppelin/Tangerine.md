@@ -4,7 +4,7 @@ Tangerine
   *Hey all,*  
   *I think these are the chords for most of Tangerine,*  
   *from Led Zeppelin's third album:*  
-  *chord: ***Am Asus4 Am G   D   Dsus2  D****  
+  *chord: ***Am Asus4 Am G   D   Dsus2  D***  
   *stroke: d  u     d  ud  dd  dud    dud*  
   *In case you need these:*  
     [E A D G B e]  

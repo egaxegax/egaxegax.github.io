@@ -3,7 +3,7 @@ The Jack
   
   *Angus and Malcolm young*  
   *It's a 12 bar blues (***E E E E A7 A7 E E B7 A7 E B7***)*  
-  *for the chorus and Just 4 bars of ***E*** and ***A7****  
+  *for the chorus and Just 4 bars of ***E*** and ***A7***  
   *for the verse*  
   *This is for the verse*  
   *4 times*  

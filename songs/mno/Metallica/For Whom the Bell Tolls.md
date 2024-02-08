@@ -94,7 +94,7 @@ For Whom the Bell Tolls
   0  1  2  3  5  6  -  -]  
   
   *Intro:*  
-  ****F# F# E***  (while bass plays doomy riff) x12, (4 as intro,*  
+  ***F# F# E***  (while bass plays doomy riff) x12, (4 as intro,*  
     *4 when drums come in, and 4 with*  
     *bass playing ***E G F# F***)*  
   *Then:*  
@@ -135,7 +135,7 @@ For Whom the Bell Tolls
   the bell tolls  
   *Bridge:*  
   ***E***  
-  ****E***  (with lead, but I can't remember it)*  
+  ***E***  (with lead, but I can't remember it)*  
   ***G GGGG GGGG***  
   ***E***  
   ***B***  
@@ -148,10 +148,10 @@ For Whom the Bell Tolls
   ***E    F# F#  G G***  
   *repeated, with wailing lead, harmonics etc, then, when*  
   *we do it at least, we go into free time on the final*  
-  ****G*** chord (you know, big heavy metal ending), big drum*  
+  ***G*** chord (you know, big heavy metal ending), big drum*  
   *fill, then:*  
   ***G....   EEEEE***  
     ***E***  
     ***EEEE***  
     ***E***  
-    ****EEEEE*** (ie a massive ***E*** chord at the end)*
+    ***EEEEE*** (ie a massive ***E*** chord at the end)*

@@ -9,9 +9,9 @@ Love Songs For The Retarded
   *down (down in pitch) once play that note then slide it*  
   *down to ***D*** and play that once.. (does that make any sense?)*  
   
-  *Verse: ***A  A  A  A  G  A  A  E  D  A  G  A  A  A  A****  
+  *Verse: ***A  A  A  A  G  A  A  E  D  A  G  A  A  A  A***  
   
-  *Pre-Chorus: ***E  E  E  E  D  D  D  D  A  A  A  A  A  A  A  A****  
+  *Pre-Chorus: ***E  E  E  E  D  D  D  D  A  A  A  A  A  A  A  A***  
   
   *Chorus: i forgot the chorus but when i remember it i will*  
   *submit it.*

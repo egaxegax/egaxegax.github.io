@@ -9,7 +9,7 @@ Make It
   D-----5--7--7--7--7--7---10--10--10--10--10--8\-|  
   A--0--3--5-----5--5--5--------8---8---8---8--8\-|  
   E--------------------------------------------6\-|]  
-  *After that riff, guitar two strums a ***Bb5****  
+  *After that riff, guitar two strums a ***Bb5***  
   *Continue with that pattern until you hear a change.*  
   *Then play something like this:*  
   [E-------------------------------------------|  
@@ -33,7 +33,7 @@ Make It
   A---8--7--5--|---8--7--5--|---8--7---8-|--8--7--5-|  
   E------------|------------|------------|----------|]  
   *chorus(palm mute):*  
-  ****Em***-***G5***-***G#5***-***A5 C5***-***D5***-***E5***(slide back to ***Em***)*  
+  ***Em***-***G5***-***G#5***-***A5 C5***-***D5***-***E5***(slide back to ***Em***)*  
   *the "bedwetter" part:*  
   *bed wetter  pull...*  
   [E-------------------------------------------------|  

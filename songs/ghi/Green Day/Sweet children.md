@@ -8,10 +8,10 @@ Sweet children
   *really sound a lot alike. Tune to Eb(Looks best in Courier)*  
   
 Chords:     [EADGBe]  
-  ****A***: [5774--]*  
-  ****B***: [7998--]*  
-  ****D***: [5577--]*  
-  ****E***: [7799--]*  
+  ***A***: [5774--]*  
+  ***B***: [7998--]*  
+  ***D***: [5577--]*  
+  ***E***: [7799--]*  
   
 Intro:  ***E A D***  
   

@@ -2,7 +2,7 @@
 Reise, Reise (2004)  
   Ohne Dich  
   
-  *Four chords throughout: ***Dm Am Gm F Am****  
+  *Four chords throughout: ***Dm Am Gm F Am***  
   
   ***Dm                  Am***  
 Verse:  Ich werde in die tannen gehen  

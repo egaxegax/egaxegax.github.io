@@ -67,7 +67,7 @@ FILL 1:  [e -------------|
    My father's eyes.  
     ***B             C#-   A2  F#-***  
    When I look in my father's eyes.  
-  ****B           E     A2  D***   (***D  A  E  A***)*  
+  ***B           E     A2  D***   (***D  A  E  A***)*  
    My father's eyes.  
   ***B        G#-   F#        G#-***  
    Then the light begins to shine  

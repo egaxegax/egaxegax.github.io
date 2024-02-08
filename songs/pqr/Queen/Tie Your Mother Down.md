@@ -5,13 +5,13 @@ A Day At The Races 1976, Live Killers 1977
   *3:44*  
   
   *Intro:*  
-    *LEAD GUITAR           ***A*** (hammer on & off ***C*** )  ***G D C G****  
+    *LEAD GUITAR           ***A*** (hammer on & off ***C*** )  ***G D C G***  
     *ADD DRUMS & "OOOOH"   ***A*** (hammer on & off ***C*** )  ***G D C G*** x2*  
-  ****A*** (hammer on & off ***C*** )*  
+  ***A*** (hammer on & off ***C*** )*  
   GET YOUR PARTY GOWN, GET YOUR PIGTAIL DOWN  
     ***G-D-C-G***  
   GET YOUR HEART BEATING BABY  
-  ****A*** (hammer on & off ***C*** )*  
+  ***A*** (hammer on & off ***C*** )*  
   GOT MY TIMIN' RIGHT, GOT MY ACT ALL TIGHT  
     ***G-D-C-G***  
   IT'S GOTTA BE TONIGHT MY LITTLE SCHOOLBABE  
@@ -22,17 +22,17 @@ A Day At The Races 1976, Live Killers 1977
   AIN'T NO WAY I'M GONNA LOSE THIS TIME    ^Chord run^  
     ***D***  
     TIE YOUR MOTHER DOWN,    TIE YOUR MOTHER DOWN  
-    ****A*** (hammer on & off ***C*** )*  
+    ***A*** (hammer on & off ***C*** )*  
     LOCK YOUR DADDY OUT OF DOORS, I DON'T NEED HIM NOSIN' AROUND  
     ***D***  
     TIE YOUR MOTHER DOWN,    TIE YOUR MOTHER DOWN  
-    ****G   D    C    G A*** (hammer on & off ***C*** )  ***G-D-C-G****  
+    ***G   D    C    G A*** (hammer on & off ***C*** )  ***G-D-C-G***  
     GIVE ME ALL YOUR LOVE TONIGHT  
-  ****A*** (hammer on & off ***C*** )*  
+  ***A*** (hammer on & off ***C*** )*  
   YOU'RE SUCH A DIRTY LOUSE, GO GET OUT OF MY HOUSE  
     ***G-D-C-G***  
   THAT'S ALL I EVER GET FROM YOUR,  
-  ****A*** (hammer on & off ***C*** )*  
+  ***A*** (hammer on & off ***C*** )*  
   FAMILY TIES, INFACT I DON'T THINK I EVER HEARD  
     ***G-D-C-G***  
   A SINGLE LITTLE CIVIL WORD FROM THOSE GUYS  
@@ -42,14 +42,14 @@ A Day At The Races 1976, Live Killers 1977
   TO PUT A STOP TO ALL THAT, GROUSIN' AN' SNIPIN'    ^Chord run^  
     ***D***  
     TIE YOUR MOTHER DOWN,    TIE YOUR MOTHER DOWN  
-    ****A*** (hammer on & off ***C*** )*  
+    ***A*** (hammer on & off ***C*** )*  
     TAKE YOUR LITTLE BROTHER SWIMIN' WITH A BRICK (THAT'S ALL RIGHT)  
     ***D***  
     TIE YOUR MOTHER DOWN,    TIE YOUR MOTHER DOWN  
-    ****G     D  C      G  A*** (hammer on & off ***C*** ) ***G-D-C-G****  
+    ***G     D  C      G  A*** (hammer on & off ***C*** ) ***G-D-C-G***  
     OR YOU AIN'T NO FRIEND OF MINE  
   *LEAD BREAK*  
-  ****A*** (hammer on & off ***C*** ) ***G-D-C-G*** x2  ***E G A*** (hammer on & off ***C*** ) ***G-D-C-G*** x2*  
+  ***A*** (hammer on & off ***C*** ) ***G-D-C-G*** x2  ***E G A*** (hammer on & off ***C*** ) ***G-D-C-G*** x2*  
     ***E***  
   YOUR MOMMA AND YOUR DADDY GONNA PLAGUE ME TILL I DIE  
     ***G                   A    A-Bb-C-C#-D***  
@@ -60,22 +60,22 @@ A Day At The Races 1976, Live Killers 1977
     LOCK YOUR GREAT BIG BIG BIG BIG BIG DADDY OUT OF DOORS  
     ***D***  
     TIE YOUR MOTHER DOWN,    TIE YOUR MOTHER DOWN  
-    ****G   D    C    G A*** (hammer on & off ***C*** )***G   D    C    G A****  
+    ***G   D    C    G A*** (hammer on & off ***C*** )***G   D    C    G A***  
     GIVE ME ALL YOUR LOVE TONIGHT                 ALL YOUR LOVE TONIGHT  
-    ****A*** (hammer on & off ***C*** )          ***G-D-C-G****  
+    ***A*** (hammer on & off ***C*** )          ***G-D-C-G***  
     GIVE ME EVERY INCH OF YOUR LOVE  
-    ****A*** (hammer on & off ***C*** )***G   D    C    G A****  
+    ***A*** (hammer on & off ***C*** )***G   D    C    G A***  
     ALL YOUR LOVE TONIGHT  
-    ****A*** (hammer on & off ***C*** )                     ***G-D-C-G          A****  
+    ***A*** (hammer on & off ***C*** )                     ***G-D-C-G          A***  
     GOTTA GET MY TIMING RIGHT    ALL YOUR LOVE................TONIGHT  
   
-  *HOW TO DO THE "***A***" CHORD & HAMMER ON/OFF ***C****  
+  *HOW TO DO THE "***A***" CHORD & HAMMER ON/OFF ***C***  
   *HAMMER ON/OFF_____*  
   *2nd FINGER        |*  
     *|              Nut*  
      *[ E  --|-----|-----|-----|-----||]   STRUMMING PATTEN*  
      [*A  --|-----|--X--|-----|-----||]  
-     *[*D  --|-----|-----|--X--|-----||]   ***A***, ***A***, ***A***(hammer on ***C***,hammer off), ***A****  
+     *[*D  --|-----|-----|--X--|-----||]   ***A***, ***A***, ***A***(hammer on ***C***,hammer off), ***A***  
      *[*G  --|-----|-----|--X--|-----||]   ^                                ^*  
      *[ B  --|-----|-----|--X--|-----||]   |_____ REPEAT OVER & OVER & _____|*  
      [ E  --|-----|-----|--X--|-----||]  

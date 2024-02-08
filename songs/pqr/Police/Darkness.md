@@ -13,7 +13,7 @@ Darkness
   A -2---------2--------------  
   E -----2--3------2--3---0---]  
   
-  *The chords are simply ***Em*** to ***A7****  
+  *The chords are simply ***Em*** to ***A7***  
   
   *The lyrics are:*  
   I can dream of schemes when I'm sitting in my seat  

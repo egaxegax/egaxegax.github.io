@@ -94,7 +94,7 @@ Lacrimosa Live (Original from "Inferno" 1995)
   |---------------------0----------------|  
   |--------------------------------------|  
   *then:*  
-  *-FIG1 X2 with power chords in  ***D*** - ***A*** - ***D*** - ***Bb****  
+  *-FIG1 X2 with power chords in  ***D*** - ***A*** - ***D*** - ***Bb***  
   
   *CHORUS:*  
   *-FIG3 } X1*  

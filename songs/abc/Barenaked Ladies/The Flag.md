@@ -8,7 +8,7 @@ Gordon (1992 Sire Warner Bros.)
   *all the other chords with variations when considering 5 and 6 string chords:*  
   *[4-3-1-3-2] picked through twice where each chord is indicated.*  
   
-  ****Em*** or ***Em7***?  It's your call.*  
+  ***Em*** or ***Em7***?  It's your call.*  
   
 ----  
   

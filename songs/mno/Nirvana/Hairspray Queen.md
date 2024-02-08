@@ -36,7 +36,7 @@ Chorus:  4|-2-
   6|-2-  
   
 Outro:  6|-8\7-7-7\6-6-6\5-5-5\4-4\3-3\2-  
-  *play that 4x, then an ***E5****  
+  *play that 4x, then an ***E5***  
   
   *TABULATURE DEFINITION*  
   *What all the little symbols in the tab mean...*  

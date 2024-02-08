@@ -63,6 +63,6 @@ A Room At The Heartbreak Hotel
   *(Guitar fills, etc.)*  
   
   *CHORD formations:*  
-  ****Eb*** [3 6 5 3 4 3]  (Like a ***C*** chord formation)*  
-  ****Ab*** [3 3 6 5 4 4]  (Like a ***F*** chord formation)*  
-  ****B***  [6 5 3 3 6 6]  (Like a ***G/D*** chord formation)*
+  ***Eb*** [3 6 5 3 4 3]  (Like a ***C*** chord formation)*  
+  ***Ab*** [3 3 6 5 4 4]  (Like a ***F*** chord formation)*  
+  ***B***  [6 5 3 3 6 6]  (Like a ***G/D*** chord formation)*

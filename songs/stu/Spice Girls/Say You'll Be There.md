@@ -93,7 +93,7 @@ chorus:  I'm giving you everything
   Is a promise you will be there  
   Yeah... I want you  
   
-  *Solo:    ***Bm/E/G/D****  
+  *Solo:    ***Bm/E/G/D***  
   *(Just play around, it shouldn't be too hard to get*  
   *the hang of it)*  
   

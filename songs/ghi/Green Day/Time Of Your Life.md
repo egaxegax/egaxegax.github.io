@@ -62,7 +62,7 @@ Verse 1: Another turning point a fork stuck in the road
   
   ***Em                  G        Em              G***  
 Chorus:  It's something unpredictable in the end it's right  
-  ****Em                  Dsus4        G*** (where verse riff cuts back in)*  
+  ***Em                  Dsus4        G*** (where verse riff cuts back in)*  
   I hope you have the time of your life. (Start struming ***G  C  Dsus4***)  
   
   ***G     C9              Dsus4               G***  
@@ -81,5 +81,5 @@ Verse 2: So take the photographs and stillframes in your min
     [|---------|  
     |--2------|  
     |----0----|]  
-    *[|------0--|]  and end on a ***G****  
+    *[|------0--|]  and end on a ***G***  
     [|---------|]

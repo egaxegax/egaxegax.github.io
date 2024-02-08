@@ -7,9 +7,9 @@ Don't Want To Fall In Love
   *though. Tune to Eb (looks best in Courier)*  
   
 Chords:     [EADGBe]  
-  ****A***: [5776--]*  
-  ****B***: [7998--]*  
-  ****E***: [-799--]*  
+  ***A***: [5776--]*  
+  ***B***: [7998--]*  
+  ***E***: [-799--]*  
   
 Intro:  ***E***  
   
@@ -23,7 +23,7 @@ Verse 1: Don't want to have you hangin
   
     ***B                  A***  
 Chorus:  This may sound a little rough  
-  *(No Chords)         ***E****  
+  *(No Chords)         ***E***  
   Don't wanna fall in love  
   
 Verse 2: Don't need security  
@@ -50,4 +50,4 @@ Solo:  [----------------------------------------------------------
   
   *Chorus*  
   *Chorus*  
-  *End On ***E****
+  *End On ***E***

@@ -3,7 +3,7 @@ Hedgecore
   
   *CHORDS*  
   
-    ****A5    A5*** (use either one)     ***D5****  
+    ***A5    A5*** (use either one)     ***D5***  
   |-------------------------------------------|  
   |----------2--------------------------------|  
   |----------2-----------------------7--------|  
@@ -16,6 +16,6 @@ Hedgecore
   *during the singing it's ***A5*** with a ska-type rhythm (fast, muted, upstrokes)*  
   
   *Chorus: ***A5*** picked down, down, up, down, up*  
-    ****D5*** picked up, up*  
+    ***D5*** picked up, up*  
   
   *there ya'll goes.*

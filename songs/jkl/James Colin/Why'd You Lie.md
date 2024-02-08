@@ -4,9 +4,9 @@ Why'd You Lie
   *Copyrighted by someone, somewhere*  
   *First submission, hope it makes it*  
   *Slow blues guitar*  
-  *Verses are primarily ***Cm7***, ***Gm7***, ***Fm7***, ***Cm7****  
-  *Chorus is ***Fm7***, ***Cm****  
-  *Bridge is ***Fm7***, ***Gm7***, ***Cm7****  
+  *Verses are primarily ***Cm7***, ***Gm7***, ***Fm7***, ***Cm7***  
+  *Chorus is ***Fm7***, ***Cm***  
+  *Bridge is ***Fm7***, ***Gm7***, ***Cm7***  
   Why'd You Lie?  
   Colin James  
   The very first rule  

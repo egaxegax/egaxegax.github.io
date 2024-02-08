@@ -9,7 +9,7 @@ Your Only Friends Are Make Believe
   Well Mr. McFeelie, if  this postage due  
   ***A5       E5 A5      B5***  
   You can go *** yourself like captain Kangaroo  
-   ***A5     B5             C#5              E5****  
+   ***A5     B5             C#5              E5***  
   I can go to land of make believe and I can pretend  
   ***A5          B5       E5*        B5***  
   But in the end I still have no friends  

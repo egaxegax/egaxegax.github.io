@@ -26,7 +26,7 @@ Make A Change
   D---4---6----2----|  
   A---4---6----2----|  
   E---2---4----0----|]  
-      ****F#  G#   E***      (Repeated)*  
+      ***F#  G#   E***      (Repeated)*  
   
   *Lyrics: (my interpretation)*  
   *(Verse)*  

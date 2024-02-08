@@ -20,9 +20,9 @@ CHORUS:  This name is the hairshirt I wear
   This song is the cross that I bear  
     ***C***  
   Bear it with me, Bear with me, Bear with me  
-    ****G    D    C***  (open)   ***C****  
+    ***G    D    C***  (open)   ***C***  
   Be with me tonight  
-    ****G    D    C***  (open)   ***C****  
+    ***G    D    C***  (open)   ***C***  
   I know that it isn't right  
   But be with me tonight  
   

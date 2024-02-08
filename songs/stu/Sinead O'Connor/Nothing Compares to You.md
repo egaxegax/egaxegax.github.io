@@ -10,13 +10,13 @@ Nothing Compares to You
   *chord pro so here it is with just normal chords.*  
   
   *Chords:*  
-  ****F***  ([133211])   (This song isn't played on guitar so there really isn't*  
+  ***F***  ([133211])   (This song isn't played on guitar so there really isn't*  
   *any*  
-  ****C***  ([x32010])    RIGHT WAY to play these chords. Just play what sounds*  
+  ***C***  ([x32010])    RIGHT WAY to play these chords. Just play what sounds*  
   *good*  
-  ****Dm*** ([xx0231])    to you.)*  
-  ****D#*** ([xxx343]) or ([x6888x])*  
-  ****Bb*** ([x1333x]) or ([688766])*  
+  ***Dm*** ([xx0231])    to you.)*  
+  ***D#*** ([xxx343]) or ([x6888x])*  
+  ***Bb*** ([x1333x]) or ([688766])*  
   
   ***F                         C***  
   It's been seven hours and fifteen days  

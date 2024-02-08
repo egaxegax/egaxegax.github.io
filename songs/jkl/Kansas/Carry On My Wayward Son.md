@@ -102,11 +102,11 @@ Bridge Deelie: E|------------------------------|--------------------|
   *(N.C.)*  
   Don't you cry no more  
   *(riff)*  
-  ****Em*** (mute)*  
+  ***Em*** (mute)*  
   Carry on  
     ***D      C***  
   You will always remember  
-  ****Em*** (mute)*  
+  ***Em*** (mute)*  
   Carry on  
     ***D          C***  
   Nothing equals the splendor  
@@ -120,7 +120,7 @@ Bridge Deelie: E|------------------------------|--------------------|
   There'll be peace when you are done  
   ***Em       G     D       C***  
   Lay your weary head to rest  
-  *(N.C.)                                       ***Bm7****  
+  *(N.C.)                                       ***Bm7***  
   Don't you cry (vocal echo: Don't you cry) no more  
   
   *Note: This is based on Carry on Wayward Son music*  

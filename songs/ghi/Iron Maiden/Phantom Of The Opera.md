@@ -926,7 +926,7 @@ Lyrics:  I've been looking so long for you now that you 
   D||o 14---- 14---- 14---- 14---- o||  
   A||o ------ ------ ------ ------ o||  
   E||  ------ ------ ------ ------  ||]  
-  *Riff 1 in ***D C D E D C D****  
+  *Riff 1 in ***D C D E D C D***  
   
     ***E                 D                 C                 D***  
     */3\ /3\ /3\ /3\   /3\ /3\ /3\ /3\   /3\ /3\ /3\ /3\   /3\ /3\ /3\ /3\*  
@@ -934,7 +934,7 @@ Lyrics:  I've been looking so long for you now that you 
   D --- --- 9-- --- | --- --- 7-- --- | --- --- 5-- --- | --- --- 7-- ---  
   A 777 077 -77 077 | 555 755 -55 755 | 333 533 -33 533 | 555 755 -55 755  
   E --- --- --- --- | --- --- --- --- | --- --- --- --- | --- --- --- ---]  
-  *Riff 1 on octave lower in ***E D C D E D C****  
+  *Riff 1 on octave lower in ***E D C D E D C***  
   *Then*  
     ***D***  
     */3\ / 3  \ /3 \*  

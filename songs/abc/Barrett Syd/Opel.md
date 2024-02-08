@@ -56,9 +56,9 @@ VERSES:  On a distant shore, miles from land
   *(This is the long section of strummed chords.  I'll count measures*  
    *in 6/8 in the following way:*  
     *------  ------ ------*  
-    ****G       C      D***      means a measure of ***G***, one of ***C*** and one of ***D***)*  
+    ***G       C      D***      means a measure of ***G***, one of ***C*** and one of ***D***)*  
   *unusual chords used:*  
-    ****Cadd9***:  [x32030]*  
+    ***Cadd9***:  [x32030]*  
   *begin bridge:*  
     *------ ------ ------ ------ ------ ------ ------ ------ ------ ------*  
     ***Cadd9  C      Bb            Cadd9  C      Bb     F      Am***  
@@ -78,10 +78,10 @@ VERSES:  On a distant shore, miles from land
   *I don't know what to call these things, but they're based on*  
   *the chord [x02200] which I think is either ***A5*** or ***Asus2***.*  
   *The chords and my (incorrect) names for them are:*  
-  ****A***:       [x02220]*  
-  ****A5***:      [x02200]*  
-  ****A5addF#***: [x02202]*  
-  ****A5addG#***: [x02204]*  
+  ***A***:       [x02220]*  
+  ***A5***:      [x02200]*  
+  ***A5addF#***: [x02202]*  
+  ***A5addG#***: [x02204]*  
   
   *Begin closing:*  
   ***A      A5addG#***  

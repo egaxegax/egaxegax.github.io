@@ -185,7 +185,7 @@
   ***Bb C                          F Bb                      C***  
      Like the Spanish city to me, when we were kids.  
   
-  *SOLO: ( ***F  C Dm  Bb C  F Bb  C*** ) (2x)  ***Dm  C  Dm  Bb****  
+  *SOLO: ( ***F  C Dm  Bb C  F Bb  C*** ) (2x)  ***Dm  C  Dm  Bb***  
   *----*  
     ***Dm            F                       C***  
   She took off a silver locket she said remenber me by this  

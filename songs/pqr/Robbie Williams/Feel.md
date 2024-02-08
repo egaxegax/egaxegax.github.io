@@ -6,19 +6,19 @@ Feel
   
     ***Dm***  
   Come and hold my hand  
-  ****C*             A***            (swiftly ***G***-***A***)*  
+  ***C*             A***            (swiftly ***G***-***A***)*  
   I wanna contact the living  
     ***Gm***  
   Not sure i understand  
-  ****F                     A***  (swiftly ***G***-***A***)*  
+  ***F                     A***  (swiftly ***G***-***A***)*  
   This role i've been given  
     ***Dm***  
   I sit and talk to God  
-  ****C*                       A***    (swiftly ***G***-***A***)*  
+  ***C*                       A***    (swiftly ***G***-***A***)*  
   And he just laughs at my plans  
     ***Gm***  
   My head speaks a language  
-  ****F            A***   (swiftly ***G***-***A***)*  
+  ***F            A***   (swiftly ***G***-***A***)*  
   I don't understand  
     ***Bb             F***  
   I just want to feel real love  
@@ -32,19 +32,19 @@ Feel
   Going to waste  
     ***Dm***  
   I don't want to die  
-  ****C*                         A***    (swiftly ***G***-***A***)*  
+  ***C*                         A***    (swiftly ***G***-***A***)*  
   But i ain't keen on living either  
     ***Gm***  
   Before i fall in love  
-  ****F                 A***       (swiftly ***G***-***A***)*  
+  ***F                 A***       (swiftly ***G***-***A***)*  
   I'm preparing to leave her  
     ***Dm***  
   I scare myself to death  
-  ****C*                   A***     (swiftly ***G***-***A***)*  
+  ***C*                   A***     (swiftly ***G***-***A***)*  
   That's why i keep on running  
     ***Gm***  
   Before i've arrived  
-  ****F                A***     (swiftly ***G***-***A***)*  
+  ***F                A***     (swiftly ***G***-***A***)*  
   I can see myself coming  
     ***Bb         F***  
   I just want to feel real love  

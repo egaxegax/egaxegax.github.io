@@ -45,4 +45,4 @@ Im Not Your Stepping Stone
   *If someone wants to clean up what I've done and match it to the lyrics*  
   *, please feel free.*  
   *Anyhow, have fun with it!  Any mistakes will just add character.*  
-  **********End*******************
+  ***End***

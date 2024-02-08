@@ -170,5 +170,5 @@ Interlude: ***Em  D  A  G  A***
   ***BmDF#A***  
   *VERSE*  
   *-----*  
-  ****BmD7 DAF#*** (no 2)*  
+  ***BmD7 DAF#*** (no 2)*  
   *Enjoy!*

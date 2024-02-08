@@ -85,4 +85,4 @@ Tear
   A---------------------------------------------------  
   E---------------------------------------------------]  
   *The trumpt solo following simply follows the chords for*  
-  *the verses: ***C*** &gt; ***G*** &gt; ***Am*** &gt; ***Am****
+  *the verses: ***C*** &gt; ***G*** &gt; ***Am*** &gt; ***Am***

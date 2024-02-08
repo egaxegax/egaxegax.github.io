@@ -13,6 +13,6 @@ The Wars End
   E|--0----------  
   
   *VERSE:*  
-  ****G5  D5  C5  B5  A5  G5*** (with some variations in the chorus)*  
+  ***G5  D5  C5  B5  A5  G5*** (with some variations in the chorus)*  
   *Not sure about the bridge, something like this:*  
   ***C5 B5 C5    D5 C#5 D5***

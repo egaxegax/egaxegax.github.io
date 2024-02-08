@@ -27,7 +27,7 @@ Mable
   i kissed her once and now i'm able to  
   ***d***  
   walk the mile, crack a smile  
-      ****c     b  a*** (slide up)*  
+      ***c     b  a*** (slide up)*  
   she makes me want to kiss all the  
   ***g       d       e       b***  
   babies, hug the puppy dogs  
@@ -38,7 +38,7 @@ Mable
     ***c              d***  
   i gotta say that mable  
   she's the bomb  
-  *play intro riff 1x over ***g e c****  
+  *play intro riff 1x over ***g e c***  
   ***g                e***  
   now it's monday, better than sunday  
   ***c***  
@@ -49,7 +49,7 @@ Mable
   boy that mable sure is fly  
       ***d***  
   I'm with her now until i die  
-      ****c     b  a*** (slide up)*  
+      ***c     b  a*** (slide up)*  
   she makes me want to kiss all the  
   ***g       d       e       b***  
   babies, hug the puppy dogs  

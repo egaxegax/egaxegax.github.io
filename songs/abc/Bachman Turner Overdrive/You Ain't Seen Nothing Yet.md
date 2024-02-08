@@ -58,7 +58,7 @@ You Ain't Seen Nothing Yet
   B-B-Baby you just ain't seen nothin' yet  
     ***A                    E  D***  
   Here's something you're never gonna forget  
-    ****A                          E  D***  (***C#m B A***) I think! (?)*  
+    ***A                          E  D***  (***C#m B A***) I think! (?)*  
   B-B-Baby you just ain't seen n-n-nothin' yet (you ain't been around)  
       ***A                      G  D***  
   And now I'm feelin' better  

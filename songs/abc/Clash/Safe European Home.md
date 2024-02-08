@@ -27,7 +27,7 @@ Chorus:  I went to the place where every white face
   
   *Chorus again*  
   
-  *1st break:  ***G#m  A  E  F#m  B  A  B  A  G#m  A (B) E****  
+  *1st break:  ***G#m  A  E  F#m  B  A  B  A  G#m  A (B) E***  
     Oh-oh Oh-oh Oooh-Oh  
   
   *(verse progression again)*  

@@ -52,7 +52,7 @@ VERSE III: Yes and the barrow boys are hawking
   Ah but I got one for you Portobello belle.  
   
   *Notes:*  
-  ****C***:  [X32010]*  
-  ****B#***: [XX5553]*  
-  ****F***:  [133211]*  
-  ****Bb***: [113331]*
+  ***C***:  [X32010]*  
+  ***B#***: [XX5553]*  
+  ***F***:  [133211]*  
+  ***Bb***: [113331]*

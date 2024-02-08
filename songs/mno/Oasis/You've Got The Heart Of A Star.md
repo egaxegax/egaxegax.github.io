@@ -33,7 +33,7 @@
      ***D***  
   So come on, ..come on my brothers and sisters.  
   
-  *DaCatFS:   ***D            G D       C               D****  
+  *DaCatFS:   ***D            G D       C               D***  
   ***AM                           C***  
   Cos you can only be what you are, cos you've  got the heart the heart of a  
   star,  but the light ..never hits ya.  
@@ -64,5 +64,5 @@
   I said come on, come on my brothers and sisters....  
     ***G         D         C             D          G   D   C  D***  
   I said come on, come on my brothers and sisters....  
-    ****G         D         C             D          C*** ...........***G***    (END)*  
+    ***G         D         C             D          C*** ...........***G***    (END)*  
   I said come on, come on my brothers and sisters.

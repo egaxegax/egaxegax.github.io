@@ -93,4 +93,4 @@ Intro:  ***Bm A Bm D***
   ***F#***  
   jeff mir ming Medizin!  
   
-  ****Bm A Bm D*** (-&gt; etc.)*
+  ***Bm A Bm D*** (-&gt; etc.)*

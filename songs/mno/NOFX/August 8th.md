@@ -2,7 +2,7 @@
 Heavy Petting Zoo (Epitaph 1996)  
   August 8th  
   
-  *The chord pattern is something like: ***G D Em D***, ***G D C D****  
+  *The chord pattern is something like: ***G D Em D***, ***G D C D***  
   *The arpeggio is, I think, Bass string-1-3-2 repeated...*  
   *You play regular chords at the beginning and then switch to power chords*  
   *at "Like waking up..."*  

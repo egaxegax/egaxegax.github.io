@@ -67,7 +67,7 @@
   Gonna take two weeks gonna have a fine vacation  
     ***B       B/A riff.....***  
   Gonna take my problem to the United Nations  
-    ****D    D6    D7      D6      D  D6    D7    D6***  note: PT's error - should be ***E****  
+    ***D    D6    D7      D6      D  D6    D7    D6***  note: PT's error - should be ***E***  
   I went to my congressman and he said, quote  
     ***B                                                     B***  
   "I'd like to help you, son, but you're too young to vote."  

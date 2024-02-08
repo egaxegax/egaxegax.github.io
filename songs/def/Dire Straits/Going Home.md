@@ -157,7 +157,7 @@
   
   *Intro:*  
   *Free time*  
-  ****D ||||***        ; this means play D four bars*  
+  ***D ||||***        ; this means play D four bars*  
   ***F#m ||||***  
   ***G/B || Em ||***  
   ***D || A13 ||***  

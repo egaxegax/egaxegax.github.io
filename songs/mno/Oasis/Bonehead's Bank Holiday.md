@@ -3,12 +3,12 @@ Bonehead's Bank Holiday
   
   *This song is taken from the vinal 'Morning Glory'*  
   *Chords Used:*  
-  ****G***      :[320033]*  
-  ****A7***     :[X02020]*  
-  ****C***      :[X32010]*  
-  ****D7***     :[XX0212]*  
-  ****A7sus4*** :[X02030]*  
-  ****D***      :[XX0232]*  
+  ***G***      :[320033]*  
+  ***A7***     :[X02020]*  
+  ***C***      :[X32010]*  
+  ***D7***     :[XX0212]*  
+  ***A7sus4*** :[X02030]*  
+  ***D***      :[XX0232]*  
   
 INTRO:  ***G   A7   C   D7***  
   

@@ -16,8 +16,8 @@ Chords:  [E--0----0----2-----2---
      ***A    E    F#m   D***  
   
   *The chord progression throughout the whole song is this:*  
-  *(all these chords are strummed 3x)   ***A  F#m   A  D   A  E****  
-  *(these are each strummed once)       ***A D A E****  
+  *(all these chords are strummed 3x)   ***A  F#m   A  D   A  E***  
+  *(these are each strummed once)       ***A D A E***  
   
     ***A                  F#m***  
   The police walked in for Jimmy Jazz  

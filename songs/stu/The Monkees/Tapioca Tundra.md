@@ -15,7 +15,7 @@ Intro:  (slow)
   ***A***  
   / / / /  / / / /  
   
-   ****A                    A+*** (1,5: ***A+/C#***)*  
+   ***A                    A+*** (1,5: ***A+/C#***)*  
 Verse 1: Reasoned verse, some prose or rhymes  
   ***F#m                Adim***  
   Lose themselves in other times  

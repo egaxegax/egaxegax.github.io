@@ -71,5 +71,5 @@ Hard Luck Woman
   You'll be a hard luck woman  
   ***E             F#         B***  
   Baby till you find your man  
-  ****C#m  B*** to fade*  
+  ***C#m  B*** to fade*  
   *OUTRO*

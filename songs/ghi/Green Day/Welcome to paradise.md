@@ -64,5 +64,5 @@ Intro:  ***E5   D5 A5***
   i wanna take you through a wasteland  
   ***A5                 C5***  
   i like to call my home  
-  ****E5***     Intro*  
+  ***E5***     Intro*  
   welcome to paradise

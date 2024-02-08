@@ -2,10 +2,10 @@
 *The Fame*  
   
   *Chords Used:*  
-  ****A***  [XO2220] OR [577655]*  
-  ****G***  [320022] OR [355433]*  
-  ****Bm*** [X24432] OR [799777]*  
-  ****D***  [XX0232] OR [X57775]*  
+  ***A***  [XO2220] OR [577655]*  
+  ***G***  [320022] OR [355433]*  
+  ***Bm*** [X24432] OR [799777]*  
+  ***D***  [XX0232] OR [X57775]*  
   
   ***D***  
 Verse 1: It breaks like glass, but not in your hand  

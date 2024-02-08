@@ -42,7 +42,7 @@ Nobody but me
   ***B-----Db-----D***  
   
   ***B***  
-  *Chorus: "I said baby...": (Play This With An Upbeat) ***A--A****  
+  *Chorus: "I said baby...": (Play This With An Upbeat) ***A--A***  
   
   ***E***  
   

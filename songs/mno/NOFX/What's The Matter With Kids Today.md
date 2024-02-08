@@ -4,7 +4,7 @@ Heavy Petting Zoo (Epitaph 1996)
   
   *IMHO, not a very good song, but at least it's easy to play.*  
   
-  ****A C A C A C G*** &lt;----- (this part is kind of like "Plateau" by Meat Puppets)*  
+  ***A C A C A C G*** &lt;----- (this part is kind of like "Plateau" by Meat Puppets)*  
   
   ***A                  C              A          C***  
   There's something wrong with the kids in my neighborhood  

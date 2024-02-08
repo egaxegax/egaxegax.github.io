@@ -5,4 +5,4 @@ Heavy Metal (instrumental)
   ***C Bb F***  
   ***G Bb F***  
   ***G Bb F***  
-  *Repeat 4 times end on ***C****
+  *Repeat 4 times end on ***C***

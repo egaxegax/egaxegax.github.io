@@ -23,7 +23,7 @@ From the Album Original Soundtracks No.1
     [E --0--   E --4--]  
   
   *Verse:*  
-  *Repeat ***Fm B****  
+  *Repeat ***Fm B***  
   *Arpeggiated*  
   *(I think the ***Edge*** plays it string [1 2 3 4 3 4 5 4 5 6 5 6].)*  
   

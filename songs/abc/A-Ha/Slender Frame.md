@@ -19,11 +19,11 @@ Slender Frame (3:42)
   I don't believe it  
     ***Hm A-G***  
   I believe it  
-  ***A*           G****  
+  ***A*           G***  
   Take a look around and see  
     ***F#m*           G***  
   What's stopping you is stopping me  
-      ***A*                       Hm****  
+      ***A*                       Hm***  
   One moonless night and we'll make it right  
       ***D             G       A***  
   And vanish in the dark of night  

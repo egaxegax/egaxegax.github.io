@@ -4,7 +4,7 @@ The becoming
   *This is the acoustic part in the middle and end of the song. I just play*  
   *them as power chords. Keep your right hand strumming constantly throughout,*  
   *scuffing the strings in between the chord changes.*  
-  ****G F C Bb F C F***   (play twice)*  
+  ***G F C Bb F C F***   (play twice)*  
   ***G  F    C            Bb         F C    F***  
   hi-ding backwards in-side of me i feel so unafraid  
   ***G  F    C             Bb      F C     F***  

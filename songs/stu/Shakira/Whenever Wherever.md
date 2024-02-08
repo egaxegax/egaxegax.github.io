@@ -34,8 +34,8 @@ Whenever Wherever
   
   *Intro (Riff1)*  
   *Lead1*  
-  ****C#m   C#m   f#m   B***  (&Lead2)*  
-  ****C#m   C#m***   (percussion) (&Lead2)*  
+  ***C#m   C#m   f#m   B***  (&Lead2)*  
+  ***C#m   C#m***   (percussion) (&Lead2)*  
   
   *Verse1*  
   ***C#m***  
@@ -86,8 +86,8 @@ Whenever Wherever
   D------------------------------------  
   A-4-7-4-4-7-4-4-7-----9-----9-----9--  
   E-------------------7---7-7---7-7----]  
-  ****C#m   C#m   f#m   B***  (&Lead4)*  
-  ****C#m   C#m   f#m   B***  (&Lead4)*  
+  ***C#m   C#m   f#m   B***  (&Lead4)*  
+  ***C#m   C#m   f#m   B***  (&Lead4)*  
   
   *Verse2*  
   ***C#m***  
@@ -123,8 +123,8 @@ Whenever Wherever
   ***C#m           A               F#m            B***  
   We can always play by ear__   But that's the deal my dear  
   
-  ****C#m   C#m   f#m   B***  (&Lead4) (&Lead2)*  
-  ****C#m   C#m***   (percussion) (&Lead4)*  
+  ***C#m   C#m   f#m   B***  (&Lead4) (&Lead2)*  
+  ***C#m   C#m***   (percussion) (&Lead4)*  
   
   *Pre-chorus3*  
   ***F#m                     C#m***  
@@ -133,7 +133,7 @@ Whenever Wherever
   sink_ or fly__?  say it agai__ain  
   ***F#m                     C#m***  
   Lero lo le lo le lo le  Tell me one more time  
-  ****A                  B***                 break*  
+  ***A                  B***                 break*  
   That you\'ll live   Lost in my eyes  
   
   *Chorus3*  
@@ -154,8 +154,8 @@ Whenever Wherever
   ***C#m             A             F#m                    B***  
   There's nothing left to fear  If you really feel the way I feel  
   
-  ****C#m   C#m   f#m   B***  (&Lead4)*  
-  ****C#m   C#m***   (percussion + panflute outro)*  
+  ***C#m   C#m   f#m   B***  (&Lead4)*  
+  ***C#m   C#m***   (percussion + panflute outro)*  
   
   *Chords:*  
   ***C#m  [9(11)(11)999]***  

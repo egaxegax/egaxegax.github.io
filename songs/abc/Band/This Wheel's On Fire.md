@@ -47,6 +47,6 @@ CHORUS:  This wheel's on fire, rolling down the road
   
   *CHORUS*  
   
-  ****Bo7***: [x x 0 1 0 1]*  
+  ***Bo7***: [x x 0 1 0 1]*  
   
   *(from The Basement Tapes, originally done around 1967)*

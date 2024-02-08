@@ -25,7 +25,7 @@ Queen 1972
   |-14\13----13\12-----------------------------|  
   |-14\13----13\12-trem------trem-up with---|  
   |----------------down----F.B.--  vibrato  ---|  
-  *right guitar ***Am  F E****  
+  *right guitar ***Am  F E***  
   |right: acoustic guitar  
   ***|Am G E Am (G) Am G E Am C Em C D C G Am D***  
   |  

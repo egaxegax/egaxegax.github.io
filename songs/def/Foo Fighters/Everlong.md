@@ -85,7 +85,7 @@ Everlong
   *clean electric or acoustic.*  
   *For the CD and live type performances, the second guitar basically plays*  
   *power chords ***D5***, ***B5***, ***G5***, ***B5*** on a distorted electric. During the intro you*  
-  *first wait for Guitar 1 to play the intro riff once, then basically play ***D5****  
+  *first wait for Guitar 1 to play the intro riff once, then basically play ***D5***  
   *(let ring), wait about four counts (until guitar 1 is on the second line),*  
   *then do a quick ***D5*** then ***B5*** (let ring), repeat with ***B5*** and ***G5***, then start*  
   *playing ***A5*** again, then go to ***D5*** (the first guitar should be just completing*  

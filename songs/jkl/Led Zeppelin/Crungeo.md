@@ -2,12 +2,12 @@
 Crungeo  
   
   *This is out of one of "those" books, so take this with a grain of salt:*  
-  ****A9*** = [xxx12,12,12]*  
-  ****A6*** = [xxx14,14,14]*  
-  ****D9*** = [xxx555]*  
-  ****C#9***= [xxx444]*  
-  ****Eb9***= [xxx666]*  
-  ****C9*** = [xxx333]*  
+  ***A9*** = [xxx12,12,12]*  
+  ***A6*** = [xxx14,14,14]*  
+  ***D9*** = [xxx555]*  
+  ***C#9***= [xxx444]*  
+  ***Eb9***= [xxx666]*  
+  ***C9*** = [xxx333]*  
   
   ***A6  A9***  
   I wanna tell you 'bout my good thing  

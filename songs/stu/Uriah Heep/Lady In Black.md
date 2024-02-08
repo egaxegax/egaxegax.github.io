@@ -3,7 +3,7 @@ Salisbury (1971)
   Lady In Black  
   
   *Intro:*  
-  ****Am*** (strum couple of times)*  
+  ***Am*** (strum couple of times)*  
   
   *Verse1:*  
   ***Am***  

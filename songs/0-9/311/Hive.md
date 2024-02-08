@@ -81,7 +81,7 @@ Hive
 *Play Pre-Chorus over:*  
 *Play Chorus a over:*  
 *Play Chorus b*  
-*Play ***E5***, ***F5***, ***A5***, ***Bb5****  
+*Play ***E5***, ***F5***, ***A5***, ***Bb5***  
   
 ----  
   

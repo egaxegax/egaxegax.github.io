@@ -10,7 +10,7 @@ I'm Only Sleeping
   When I'm in the middle of a dream/Stay in bed   Float upstream  
   ***F#                   G#m               A#m              G#m***  
   Please don't wake me/no don't shake me/leave me where I am  
-    ****F#maj7      G#m***  (little bass thing ***G#***/***B***/***D#***/***B*** somewhere)*  
+    ***F#maj7      G#m***  (little bass thing ***G#***/***B***/***D#***/***B*** somewhere)*  
   I'm only sleeping...  
   
   *(bridge part, after verses 2 and 3 I believe...)*  

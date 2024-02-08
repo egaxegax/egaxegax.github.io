@@ -2,7 +2,7 @@
 I Call Your Name  
   *(Lennon/McCartney)*  
   
-    ****F#7            E7      B7*** (hold)*  
+    ***F#7            E7      B7*** (hold)*  
   
   |------------0--0-0--0------------------0--0-0--2-  
   |------------2--2-2--2------------------3--3-3--0-  
@@ -32,4 +32,4 @@ I Call Your Name
   Oh I can't sleep at night but just the same  
   I ever weep at night I call your name.  
   
-  ****C#7***  [x43404]  (***B7*** moved up to frets)*
+  ***C#7***  [x43404]  (***B7*** moved up to frets)*

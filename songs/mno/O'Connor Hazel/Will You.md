@@ -2,7 +2,7 @@
 Will You?  
   
   *Intro:*  
-  ****Dm | Dm | Dm | Dm |*** (arpeggio)*  
+  ***Dm | Dm | Dm | Dm |*** (arpeggio)*  
   
   ***Dm             F***  
   You drink your coffee,  

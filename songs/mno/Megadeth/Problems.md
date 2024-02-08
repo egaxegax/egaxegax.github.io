@@ -18,7 +18,7 @@ verse:  Too many problems oh why am I here
   
   ***A       B       C***  
 chorus:  Problem problem problem The problem is you  
-  ****D C A*** (repeat as needed)*  
+  ***D C A*** (repeat as needed)*  
   
 second verse: Eat your heart out on a plastic tray  
   You don't do what you want then you fade away  

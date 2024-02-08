@@ -42,6 +42,6 @@ chorus:  Inside you the time moves and she don't find
   *chorus } 2x*  
   
   *alt.chords:*  
-  ****F#m***: [422400]*  
-  ****D2***:  [557755] (barre on 5th)*  
-  ****C#m***: [x46640]*
+  ***F#m***: [422400]*  
+  ***D2***:  [557755] (barre on 5th)*  
+  ***C#m***: [x46640]*

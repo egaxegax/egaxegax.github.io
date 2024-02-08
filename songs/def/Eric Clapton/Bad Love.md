@@ -60,7 +60,7 @@ PART 2:  And now I see that my life has been so blue
 ----  
   
   *Recalling the chord progression from memory:*  
-  ****Bm E7 A***  and*  
+  ***Bm E7 A***  and*  
   ***Bb C Am Bb  Bb C Dm***  
   ***Bb C Am Bb  Bb C G***  
   *Sorry, not tabs for the opening lick and the lead;*  

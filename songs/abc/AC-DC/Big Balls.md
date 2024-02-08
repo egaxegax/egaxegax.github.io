@@ -19,11 +19,11 @@ Big Balls
   -------------------------------------------------------------------]  
   
   *1st Verse (all verses SPOKEN - as in all great poetry)*  
-  ****E*** (let ring)                      ***C*** (let ring)*  
+  ***E*** (let ring)                      ***C*** (let ring)*  
   Well I'm upper-upper class high society,  
-  ****E*** (let ring)              ***C*** (let ring)*  
+  ***E*** (let ring)              ***C*** (let ring)*  
   Gods' gift to ballroom noteriety,  
-  ****E*** (let ring)                      ***C*** (let ring)*  
+  ***E*** (let ring)                      ***C*** (let ring)*  
   And my ballrooms always filled - the event is never small,  
   ***D (let ring)                      B  B    B     B  B***  
   The social pages say I've got the biggest balls of all.  
@@ -31,7 +31,7 @@ Big Balls
   *Chorus*  
   *All chords stoccato (i.e jab then rest) until last line.*  
   *(Refer below for chord riff details)*  
-  ****E*** (chord riff)           ***C#m*** (chord riff)*  
+  ***E*** (chord riff)           ***C#m*** (chord riff)*  
   I've GOT big balls,      I've GOT big balls,  
   They're SUCH big balls, they're DIRTY big balls,  
   And HE's got big balls, and SHE's got big balls,  

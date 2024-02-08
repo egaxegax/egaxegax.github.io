@@ -9,6 +9,6 @@ These Boots
   *for the slide bit, just start at the bottem and work up, you should finish on a*  
   *intro/main part: ***D***, a slide to ***C*** for embellishment ala the slide in the verse*  
   *parts for gimme shelter.*  
-  *riff 2: ***A*** & ***G****  
-  *chorus: ***G*** & ***E****  
+  *riff 2: ***A*** & ***G***  
+  *chorus: ***G*** & ***E***  
   *repeats 3 times :-)*

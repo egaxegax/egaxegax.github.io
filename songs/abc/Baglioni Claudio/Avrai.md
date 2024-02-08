@@ -3,9 +3,9 @@ Avrai
   
   *# originariamente in Mib*  
   
-  ****F#m7(5b)*** base-fret 0 frets [2 0 2 2 1 0]*  
-  ****G#m7(5b)*** base-fret 0 frets [4 x 4 4 3 2]*  
-  ****Bb6/C*** base-fret 0 frets [x 3 3 3 3 3]*  
+  ***F#m7(5b)*** base-fret 0 frets [2 0 2 2 1 0]*  
+  ***G#m7(5b)*** base-fret 0 frets [4 x 4 4 3 2]*  
+  ***Bb6/C*** base-fret 0 frets [x 3 3 3 3 3]*  
   
   Avrai sor***C***risi sul tuo ***F#m7(5b)***viso come ad a***Fmaj7***gosto ***E7***grilli e s***Am***telle  
   storie fo***Em***tografate ***Fadd9***dentro un album ***G/B***rilegato in ***C***pelle  

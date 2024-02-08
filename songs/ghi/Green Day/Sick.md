@@ -23,7 +23,7 @@ Sick
     I know you got your problems......... \   this isn't said  
     \  every time these  
     \ chords are played  
-  *end ***on A5****  
+  *end ***on A5***  
   
 ----  
   

@@ -14,13 +14,13 @@ Apart
   ***Am***[--221-]  
   ***G*** [--000-]  
   ***Dm***[--323-]  
-  ****Am*** (same)*  
+  ***Am*** (same)*  
   *then this riff*  
   [B----5---5---5---6---------5--|-------3-------5--------3------|  
   B-------------3------5--------|-------------------------------|  
   G----5------------------------|--------5----------------------|]  
   *At the end of the first verse play the following fill (mixed low)*  
-  ****Dm***[---312] (four measures)*  
+  ***Dm***[---312] (four measures)*  
   *(strum pattern is easy enough to figure out; precision isn't important here*  
   *anyway. Vary it a bit by not sounding all three notes; also, in the fourth*  
   *measure play a slide up to the 5th fret of the high E string)*  

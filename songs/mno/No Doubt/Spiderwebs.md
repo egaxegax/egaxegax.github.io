@@ -25,7 +25,7 @@ Pre-Chorus: But now I'm stuck in
 Chorus:  Sorry im not home right now  
   ***E#***  
   Walking in the spiderwebs  
-  ****G                               D#*** (do Riff1)*  
+  ***G                               D#*** (do Riff1)*  
   so leave a message and I'll call you back  
   
   ***G               D#***  

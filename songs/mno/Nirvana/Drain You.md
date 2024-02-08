@@ -5,7 +5,7 @@ Nevermind (1991)
 Verse:  ***A5 C#5 F#5 B5***  
   
 Chorus:  ***A5 G5 F#5***  
-  ****A5 F#5*** play that 3x*  
+  ***A5 F#5*** play that 3x*  
   ***E5 D5 D#5***  
   
   *Solo*  

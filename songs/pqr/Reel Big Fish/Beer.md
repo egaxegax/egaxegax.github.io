@@ -142,7 +142,7 @@ intro:  ***am f c g*** } x2
   
   *(***am f c g*** x4 under solo)*  
   
-  ****am f c*** (fill 1) ***c*** (fill 2)*  
+  ***am f c*** (fill 1) ***c*** (fill 2)*  
   
   ***am            f      c                g***  
   maybe some day i'll think of what to say  
@@ -163,7 +163,7 @@ intro:  ***am f c g*** } x2
   
   ***am f c g } x3***  
   *x2 under intro riff*  
-  *x2 under fill 3, end with ***am****  
+  *x2 under fill 3, end with ***am***  
   
 ----  
   

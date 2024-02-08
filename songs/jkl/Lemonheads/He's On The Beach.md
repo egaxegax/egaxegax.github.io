@@ -53,4 +53,4 @@ Bridge:  And I don't blame him.  Leaving was the best th
     ***C                           F   C   G***  
   And he says it's pretty(?) there.  
   
-  ****C F C G*** progression to end...*
+  ***C F C G*** progression to end...*

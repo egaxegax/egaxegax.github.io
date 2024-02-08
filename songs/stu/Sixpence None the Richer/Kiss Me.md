@@ -10,7 +10,7 @@ Kiss Me
   
   *Chords:*  
   
-  *(***C***, ***Am/C***, ***C7***) also used are: ***F***, ***G****  
+  *(***C***, ***Am/C***, ***C7***) also used are: ***F***, ***G***  
   
   [E-0-|-0-|-0-|  
   B-1-|-0-|-1-|  
@@ -19,12 +19,12 @@ Kiss Me
   A-3-|-3-|-3-|  
   E---|---|---|]  
   
-  *Intro: ***C***, ***Am/C***, ***C7***, ***Am/C****  
+  *Intro: ***C***, ***Am/C***, ***C7***, ***Am/C***  
   *Verses: ***C***, ***Am/C***, ***C7*** (repeating)*  
-  *Chorus (all of them): ***F***, ***G***, ***C****  
+  *Chorus (all of them): ***F***, ***G***, ***C***  
   
   *End of Chorus:*  
-  ****C***, ***Am***, ***F***, ***G***  (you'll hear the changes)*  
+  ***C***, ***Am***, ***F***, ***G***  (you'll hear the changes)*  
   *"Strike up the band and make the fireflies dance, silver moon's sparkling. So kiss me."*  
   
   *And.. that's all!*  
@@ -91,9 +91,9 @@ Kiss Me
   A|----------|----------|----------|----------|  
   E|----------|----------|----------|----------|]  
   
-  *Repeat Verse: ***C Cm7 C7 Cm7 C Cm7 C7 F****  
+  *Repeat Verse: ***C Cm7 C7 Cm7 C Cm7 C7 F***  
   
-  *Chorus: ***Dm G C Am7 Dm G C C7 Dm G C Gsus4/B Am7 Gsus2 F Fm7sus2 Gsus4 G****  
+  *Chorus: ***Dm G C Am7 Dm G C C7 Dm G C Gsus4/B Am7 Gsus2 F Fm7sus2 Gsus4 G***  
   
   *Bridge*  
   *Guitar 1*  
@@ -120,7 +120,7 @@ Kiss Me
   E|-----------------|-----------------|-----------------|-----------------|]  
   
   *Solo*  
-  *Guitar 1: ***Dm G C Am7 Dm G C C7****  
+  *Guitar 1: ***Dm G C Am7 Dm G C C7***  
   [e|-5----5-0-------------------------|-5---5-0-----------------------------|  
   B|-5h6--5-0------0---5h6-5----------|-5h6-5-0------0----------------------|  
   G|-7----7-0----0---0-------7-5------|-7---7-0----0---0-555/777/9----------|  
@@ -128,7 +128,7 @@ Kiss Me
   A|----------------------------------|-------------------------------------|  
   E|----------------------------------|-------------------------------------|]  
   
-  *Guitar 1: Chorus ***Dm G C Am7 Dm G C C7 Dm G C Gsus4/B Am7 Gsus2 F Fm7sus2 Gsus4 G****  
+  *Guitar 1: Chorus ***Dm G C Am7 Dm G C C7 Dm G C Gsus4/B Am7 Gsus2 F Fm7sus2 Gsus4 G***  
   
   *Fill*  
   *Guitar 1: ***C Cm7 C7 Cm7***. Pause.*  
@@ -141,7 +141,7 @@ Kiss Me
   E|---------|---------|---------|---------|]  
   
   *Outro*  
-  *Guitar 1: ***C Cm7 C7 Cm7*** X 3 End on ***C****  
+  *Guitar 1: ***C Cm7 C7 Cm7*** X 3 End on ***C***  
   
   *Just in case you want to play the accordion parts I figured that out for you as well.*  
   
@@ -186,7 +186,7 @@ Chorus:  Oh, kiss me beneath the milky twilight.
   ***D                  D/C#                    D/B                 D/A***  
   *(try leaving the high (E) string open with these four chords)*  
   Strike up the band and make the fireflies dance, silver moon's  
-  ****G*      A***-***Asus4***-***A***   (Intro Again)*  
+  ***G*      A***-***Asus4***-***A***   (Intro Again)*  
   sparkling. So kiss me.  
   
   ***D       Dmaj7***  
@@ -251,12 +251,12 @@ Chorus:  Oh, kiss me.. beneath the milky twilight
 Interlude: ***Dm G C Am Dm G C Cmaj7***  
   
   *Chords*  
-  ****C***      ([032010])*  
-  ****Cmaj7***  ([032000])*  
-  ****C7***     ([032310])*  
-  ****Dm***     ([xx0231])*  
-  ****G***      ([320033])*  
-  ****Am***     ([002210])*  
+  ***C***      ([032010])*  
+  ***Cmaj7***  ([032000])*  
+  ***C7***     ([032310])*  
+  ***Dm***     ([xx0231])*  
+  ***G***      ([320033])*  
+  ***Am***     ([002210])*  
   
 ----  
   
@@ -315,7 +315,7 @@ Chorus:  Oh, kiss me beneath the milky twilight.
   Lift your open hand  
   ***D#                  G5         Fm           G#***  
   Strike up the band and make the fireflies dance, silver moon's  
-  ****Bb5*** (silence) ***Bb5 G5         D#***   (Intro Again)*  
+  ***Bb5*** (silence) ***Bb5 G5         D#***   (Intro Again)*  
   sparkling.           So kiss me.  
   
   ***D#      G5***  
@@ -337,7 +337,7 @@ Chorus:  Oh, kiss me beneath the milky twilight.
   Strike up the band and make the fireflies dance,  
   ***G#***  
   silver moon's  
-  ****Bb5*** (silence) ***Bb5 G5         D#***   (Intro Again)*  
+  ***Bb5*** (silence) ***Bb5 G5         D#***   (Intro Again)*  
   sparkling.           So kiss me.  
   
 Solo Chords: ***G#   Fm   D#   G5 (2)***  
@@ -378,7 +378,7 @@ Chorus:  Oh kiss me beneath the milky twilight
   *(Repeat Chorus)*  
   
   *ADLIB: ***D*** – ***DM7*** – ***D7*** – ***DM7*** – break*  
-    ****Em7*** – ***A7*** – ***D*** – ***Bm*** – ***Em7*** – ***A7*** – ***D*** – ***D7****  
+    ***Em7*** – ***A7*** – ***D*** – ***Bm*** – ***Em7*** – ***A7*** – ***D*** – ***D7***  
   *(Repeat Chorus)*  
   
   *CODA: (Do chords ***D*** – ***DM7*** – ***D7*** – ***DM7***)*  
@@ -392,12 +392,12 @@ Chorus:  Oh kiss me beneath the milky twilight
   *Ls mejor tab de todas*  
   
   *Acordes*  
-  ****C***     ([032010])*  
-  ****Cmaj7*** ([032000])*  
-  ****C7***    ([032310])*  
-  ****Dm***    ([xx0231])*  
-  ****G***     ([320033])*  
-  ****Am***    ([002210])*  
+  ***C***     ([032010])*  
+  ***Cmaj7*** ([032000])*  
+  ***C7***    ([032310])*  
+  ***Dm***    ([xx0231])*  
+  ***G***     ([320033])*  
+  ***Am***    ([002210])*  
   
 Intro:  ***C Cmaj7 C7 Cmaj7***  
   
@@ -641,7 +641,7 @@ Chorus 2: G|---------|---------|---------|---------|
   E|-----|--3--|-----|--3--|]  
   
   *Intro: (Guitar 1 only)*  
-  ****C***-***CM7***-***C7***-***CM7***-*  
+  ***C***-***CM7***-***C7***-***CM7***-*  
   
   *Verse 1:*  
   *Guitar 1: (strumming pattern) see the chords in the guitar 2 tab*  
@@ -721,7 +721,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---------|----------|---------|---------|---------|  
   A|---------|----------|---------|---------|---------|  
   E|---------|----------|---------|---------|---------|]  
-     ****FM7sus2    Gsus4        G***pause*  
+     ***FM7sus2    Gsus4        G***pause*  
   [e|----5----|----8-----|----7----|  
   B|----5----|----8-----|----8----|  
   G|----5----|----9-----|----7----|  
@@ -742,7 +742,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---------------------------------------------------------|  
   A|---------------------------------------------------------|  
   E|---------------------------------------------------------|]  
-     ****C7                           CM7                     CM7***pause*  
+     ***C7                           CM7                     CM7***pause*  
   [e|-------15--------15----15----------15-------------------|  
   B|-11-11-----11-11----11-------12-12-------15b17-13-15-13-|  
   G|--------------------------------------------------------|  
@@ -810,7 +810,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---2----------------2-----------2-----2----------------|  
   A|-3----------------3-----------------3------------------|  
   E|-------------------------------------------------------|]  
-     ****C7                CM7           CM7***pause*  
+     ***C7                CM7           CM7***pause*  
   [e|-------------0----------------0--------|  
   B|-----1-----1---1------------3---3------|  
   G|---------3-------------0---------------|  
@@ -859,7 +859,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---------------------------------------------------------|  
   A|---------------------------------------------------------|  
   E|---------------------------------------------------------|]  
-     ****C7                           CM7                     CM7***pause*  
+     ***C7                           CM7                     CM7***pause*  
   [e|-------15--------15----15----------15-------------------|  
   B|-11-11-----11-11----11-------12-12-------15b17-13-15-13-|  
   G|--------------------------------------------------------|  
@@ -883,5 +883,5 @@ Chorus 2: G|---------|---------|---------|---------|
   E|--------------------------------------------------------|]  
   
   *Outro: (both guitars 1 & 2 are in hard strumming pattern)*  
-      ****C***-***CM7***-***C7***-***CM7***- (2x)*  
+      ***C***-***CM7***-***C7***-***CM7***- (2x)*  
   La la la la la la  ... .. . .la la.

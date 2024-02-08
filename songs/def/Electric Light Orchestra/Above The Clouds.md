@@ -2,10 +2,10 @@
 Above The Clouds  
   
   *Capo on the 1st fret*  
-  ****Emj7*** base-fret 1 frets [0 2 1 0 0 0]*  
-  ****B7-9*** base-fret 1 frets [x 2 1 2 2 x]*  
-  ****F#+*** base-fret 1 frets [2 x 4 3 3 2]*  
-  ****Dm7-5*** base-fret 1 frets [x x 0 1 1 1]*  
+  ***Emj7*** base-fret 1 frets [0 2 1 0 0 0]*  
+  ***B7-9*** base-fret 1 frets [x 2 1 2 2 x]*  
+  ***F#+*** base-fret 1 frets [2 x 4 3 3 2]*  
+  ***Dm7-5*** base-fret 1 frets [x x 0 1 1 1]*  
   
   ***Em***All in the heat of the n***Emj7***ight  
   ***Em***Well when things ain't going r***C7***ight  

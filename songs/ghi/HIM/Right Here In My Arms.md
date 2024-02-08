@@ -26,11 +26,11 @@ Right Here In My Arms
   
 ----  
   
-  *Intro: ***A5 C5 G5 E5****  
+  *Intro: ***A5 C5 G5 E5***  
   *Verse: ***A5 C5 G5 A5*** (repeat, of course!)*  
-  *Ref.: ***A5 C5 G5 E5 F5****  
+  *Ref.: ***A5 C5 G5 E5 F5***  
   *it also sounds good to play this song without distortion.*  
   *the chords are then:*  
   *Verse: ***a C G***    (archivist - my guess is '***a***' means '***Am***')*  
-  *Ref.: ***a C G e F****  
+  *Ref.: ***a C G e F***  
   *enjoy.*

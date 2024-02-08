@@ -18,7 +18,7 @@ Trick 17 Ms
   ***F#5             A5***  
   Ahhhhhhh Ahhhhh Ahhhhhh...  
   *Strophe:*  
-  ****F#m    Hm   C#       F#m*** (Introriff)*  
+  ***F#m    Hm   C#       F#m*** (Introriff)*  
   *Bridge:*  
   ***A                   C#***  
   *Refrain:*  
@@ -27,6 +27,6 @@ Trick 17 Ms
   *Outro:*  
   *Fuer das Outro muesst ihr den Verzerrer noch weiter aufdrehen, so ganz kurz*  
   *vor AC/DC!*  
-  *Es faengt an mit einem Steigerungslauf auf ***F#5 A5 B5 C#5****  
-  ****F#5                    A5***          (Diese beiden Chords bis zum Ende)*  
+  *Es faengt an mit einem Steigerungslauf auf ***F#5 A5 B5 C#5***  
+  ***F#5                    A5***          (Diese beiden Chords bis zum Ende)*  
   ***F#5 F#5  A5 A5  B5 B5 D5 E5 F#5\***

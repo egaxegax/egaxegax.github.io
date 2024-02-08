@@ -34,12 +34,12 @@ Killing Me
   'Cos I'm scared to fall  
   ***E***  
   But I just don't know you  
-    ***E****  
+    ***E***  
   And you don't know me at all  
   I've been told that love's a celebration  
   But I've lost faith through frustration  
   And it's killing me, killing me slowly  
-  ***Am                    E****  
+  ***Am                    E***  
   You paint my picture black  
   ***Am***  
   The joke's on me  

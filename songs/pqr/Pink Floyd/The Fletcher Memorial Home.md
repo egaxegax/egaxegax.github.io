@@ -49,7 +49,7 @@ The Final Cut (1983)
     ***D         C              Em***  
   Now the final solution can be applied.  
   
-  ****Bb+*** = [004332]*  
+  ***Bb+*** = [004332]*  
   
 ----  
   

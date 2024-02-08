@@ -79,5 +79,5 @@ Verse 2: One of these mornin's
   *Ending:      Repeat last line with prog-3 again, then*  
     *repeat last line with prog-3b, very slowly.*  
     *(It's nice to add a descending scale between the*  
-    ****F9+6*** & ***E7+5*** chords. Try an ***Fmaj*** scale from middle-***F***,*  
+    ***F9+6*** & ***E7+5*** chords. Try an ***Fmaj*** scale from middle-***F***,*  
     *and ending on the low-***E***.)*

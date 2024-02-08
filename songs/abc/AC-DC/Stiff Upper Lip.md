@@ -63,7 +63,7 @@ Stiff Upper Lip (2000)
   A|---x-----------x-----------|  
   E|--x-----------x------------|]  
   *Chorus:*  
-  *strike the ***A*** chord for a while with the vocals then ***D C*** chords then back to ***A****  
+  *strike the ***A*** chord for a while with the vocals then ***D C*** chords then back to ***A***  
   *so its ***A D C*** and repeat.*  
   *Angus once said when asked which "boy band" would place higher TV "Who cares*  
   *its not rock and roll." Revivng rock is what its all about.*

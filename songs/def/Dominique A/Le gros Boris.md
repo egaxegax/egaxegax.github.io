@@ -20,7 +20,7 @@
   Celle qui l'a sauve le couve,  
     ***Emsus4 Em***  
   Et Boris en rajoute un peu.  
-  ****Am Bm Em*** (en arpeges a vous de trouver lesquels!)*  
+  ***Am Bm Em*** (en arpeges a vous de trouver lesquels!)*  
   (meme schema pour le reste)  
   Celle qui l'a sauve le quitte  
   Et Boris avec effroi  

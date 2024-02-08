@@ -18,11 +18,11 @@ Octopus
   
   *Here's how to play these chords. Don't be fooled, they're not played in*  
   *the normal frets, they're played up in the higher frets..*  
-  ****B*** - [799877]   ***Bsus4*** - [779977]    ***G5*** - [320033]*  
-  ****C7*** - [032310]   ***A*** - [577655]    ***Bb*** - [688766]*  
-  ****F#7(add F)*** - [77897X]  ***F#*** - [244322]    ***F#sus4*** - [X24422]*  
-  ****F#sus4(Add A)*** - [X24425]  ***G(3rd fret)*** - [355433]   ***Ab*** - [466544]*  
-  ****Absus4*** - [446644]   ***Bsus4(add Bb)*** - [798977]*  
+  ***B*** - [799877]   ***Bsus4*** - [779977]    ***G5*** - [320033]*  
+  ***C7*** - [032310]   ***A*** - [577655]    ***Bb*** - [688766]*  
+  ***F#7(add F)*** - [77897X]  ***F#*** - [244322]    ***F#sus4*** - [X24422]*  
+  ***F#sus4(Add A)*** - [X24425]  ***G(3rd fret)*** - [355433]   ***Ab*** - [466544]*  
+  ***Absus4*** - [446644]   ***Bsus4(add Bb)*** - [798977]*  
   
   ***B       Bsus4         G5       C7***  
   Trip to heave and ho, up down, to and fro'  

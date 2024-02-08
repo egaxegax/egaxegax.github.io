@@ -10,7 +10,7 @@ Intro:  ***Em*** (7th fret)  ***A*** (5th fret) ***A***: [00
   ***Bm                    A                Gm             Em***  
   He asked you for your hand but he don't fit you like a glove  
   I'd walk over hot coals, just to win your love.  
-  ****Em***/***A***  progression } once*  
+  ***Em***/***A***  progression } once*  
   ***D                     Bm           Gm                      Em***  
   They call me good for nothing, and they call me "worthless jerk"  
   ***D                   Bm            Gm                 Em***  
@@ -19,9 +19,9 @@ Intro:  ***Em*** (7th fret)  ***A*** (5th fret) ***A***: [00
   But I don't think they understand, I got better things to do.  
   I'm walking over hot coals, darling, just for you  
   I'm walking over hot coals, darling, just for you  
-  ****Em***/***A*** progression } x3*  
+  ***Em***/***A*** progression } x3*  
   ?  ?  
-  ****Em***/***A*** progression } x3*  
+  ***Em***/***A*** progression } x3*  
   ?  ?  
   ***Em (7)                   A (5)***  
   To get along in this old world, it takes a cutthroat or a fool  
@@ -37,4 +37,4 @@ Intro:  ***Em*** (7th fret)  ***A*** (5th fret) ***A***: [00
   But that's all good and proper but it's not really my style.  
   I'm walking over hot coals, darling, just for you  
   I'm walking over hot coals, darling, just for you  
-  ****Em***/***A*** progression to end*
+  ***Em***/***A*** progression to end*

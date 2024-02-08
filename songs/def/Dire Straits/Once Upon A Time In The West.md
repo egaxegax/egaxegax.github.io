@@ -43,13 +43,13 @@
       ***Dm     G                       Am***  
   OH YEAH, ONCE UPON A TIME IN THE WEST  
   *Lead:*  
-  ****Am***  /  ***F***    (double time rythym)*  
+  ***Am***  /  ***F***    (double time rythym)*  
   ***Am / G  / F***  
   *(roll)*  
   ***Am / D / Am / D***  
   ***Am / G / D / Am***  
   ***C  / Am / Dm / G / Am***  
-  ****Am / F*** (double time rythym)*  
+  ***Am / F*** (double time rythym)*  
   ***Am / G / F***  
     ***Am                                    D***  
   MOTHER MARY YOUR CHILDREN ARE SLAUGHTERED  

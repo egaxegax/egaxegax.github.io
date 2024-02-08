@@ -3,7 +3,7 @@ You Will Be Waiting
   
   *I hope that the chord fingerings below make sense.*  
   *I don't know the real names of the chords that I've called*  
-  *such things as ***Cadd*****G***, but it's a ***C*** major with the high ***G*** note added on*  
+  *such things as ***Cadd***G***, but it's a ***C*** major with the high ***G*** note added on*  
   *the first string and so on. Sorry about the capo placement, but my*  
   *cassette player plays everything fast (about a half-step fast) so where*  
   *I have to put my capo to play along isn't necessarily reliable. Just pick*  
@@ -32,7 +32,7 @@ You Will Be Waiting
   But I know you will be waiting  
     ***F               C***  
   Oh I know you will be waiting  
-    ****F             G*** (pause)*  
+    ***F             G*** (pause)*  
   Yes I know you will be waiting, waiting there for me  
   Other verses are the same, with interludes being either a full or  
   truncated repetition of the main progression.  
@@ -43,7 +43,7 @@ BRIDGE:  You were someone who would
   Always tell me    things I don't know  
     ***Fm***  
   Tell me where to go  
-    ****C      G***  (hold on the ***G*** chord)*  
+    ***C      G***  (hold on the ***G*** chord)*  
   There I'll always go  
     ***F               G***  
   Always go back whether or not you're waiting  

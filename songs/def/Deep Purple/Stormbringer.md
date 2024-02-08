@@ -3,7 +3,7 @@
   Stormbringer  
   *(Blackmore/Coverdale)*  
   
-  ****Em*** (riff)*  
+  ***Em*** (riff)*  
   Comin' out of nowhere  
   Drivin' like rain  
   Stormbringer dance  
@@ -27,7 +27,7 @@
   ***C***  
   He's gonna make you bleed  
   
-  ****Em*** (riff)*  
+  ***Em*** (riff)*  
   
 ----  
   

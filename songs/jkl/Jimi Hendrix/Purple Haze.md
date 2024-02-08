@@ -27,7 +27,7 @@ Album: Just about all of them first on Are you Exprienced
   do this for the rest of the song  
   
   *Chords used*  
-  ****E7#9***=3D [07678x]*  
-  ****G***=3D [355433]*  
-  ****A***=3D [577655]*  
+  ***E7#9***=3D [07678x]*  
+  ***G***=3D [355433]*  
+  ***A***=3D [577655]*  
   *(Must barre the ***A*** and ***G*** or it will not sound right)*

@@ -10,7 +10,7 @@ CHORDS:      ***Z   Q    X      C   
   |-------------------------1-----3------4-------------------------|  
   
 Intro:  ***Z***, ***Q***, ***X***, ***Z***, ***Q***, ***X***, ***F***  
-  ****C***, ***G#***, ***G***, ***Eii***, ***Fii*** (X2) ***C***, ***D#***, ***D***, ***Fii***, ***Eii***, ***C***, ***G#***, ***G***, ***Fii***, ***Eii****  
+  ***C***, ***G#***, ***G***, ***Eii***, ***Fii*** (X2) ***C***, ***D#***, ***D***, ***Fii***, ***Eii***, ***C***, ***G#***, ***G***, ***Fii***, ***Eii***  
   
   ***C                                       G#***  
 Verse:  something breaks inside of you with the specatcle of all the shows  
@@ -32,9 +32,9 @@ CHORUS:  it's beautiful, i would say, i wouldn't have it a
   *(same chords)*  
   if i said different it would be a lie if i said different it would be a lie  
   
-  ****C***, ***G#***, ***G***, ***Fii***, ***Eii*** } x2*  
-  ****C***, ***D#***, ***D***, ***Fii***, ***Eii****  
-  ****C***, ***G#***, ***G***, ***Fii***, ***Eii****  
+  ***C***, ***G#***, ***G***, ***Fii***, ***Eii*** } x2*  
+  ***C***, ***D#***, ***D***, ***Fii***, ***Eii***  
+  ***C***, ***G#***, ***G***, ***Fii***, ***Eii***  
   
 Verse2:  what was once rebellion is now clearly just a socail sect  
   are you just upset cause your own social clique has left  
@@ -45,6 +45,6 @@ Verse2:  what was once rebellion is now clearly just a soc
   
   *CHORUS*  
   
-  ****C***, ***G#***, ***G***, ***Fii***, ***Eii*** } x2*  
-  ****C***, ***D#***, ***D***, ***Fii***, ***Eii****  
-  ****C***, ***G#***, ***G***, ***Fii***, ***Eii****
+  ***C***, ***G#***, ***G***, ***Fii***, ***Eii*** } x2*  
+  ***C***, ***D#***, ***D***, ***Fii***, ***Eii***  
+  ***C***, ***G#***, ***G***, ***Fii***, ***Eii***

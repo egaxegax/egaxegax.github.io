@@ -61,16 +61,16 @@ Verse:  Chip on my shoulder and a leech on my back.
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  
   *Chords:*  
-  ****A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
-  ****B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
-  ****C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
-  ****C#*** ([x466xx])*  
-  ****D***  ([x577xx])*  
-  ****D#*** ([x688xx])*  
-  ****E***  ([022xxx])*  
-  ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
+  ***A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
+  ***B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
+  ***C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
+  ***C#*** ([x466xx])*  
+  ***D***  ([x577xx])*  
+  ***D#*** ([x688xx])*  
+  ***E***  ([022xxx])*  
+  ***E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
     *that chord, but using only the ([0xxxxx])*  
-  ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
+  ***B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
   *Intro:*  
   ***B, A, F#***  

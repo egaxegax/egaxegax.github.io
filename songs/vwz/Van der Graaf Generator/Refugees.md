@@ -6,13 +6,13 @@ Refugees
   *somewhere in the middle, so you'll have to do without it. There are two basic*  
   *chord sequences. The second one - I don't think I've got it right, but it is*  
   *still worth a try.*  
-  ****C***  - [x-3-2-0-1-0]*  
-  ****G***  - [3-2-0-0-0-3]*  
-  ****G7*** - [3-2-0-0-0-1]*  
-  ****Am*** - [x-0-3-3-2-0]*  
-  ****F***  - [1-3-3-2-1-1]*  
-  ****Dm*** - [x-x-0-2-3-1] or maybe it is ***Dm6*** - [x-5-7-5-6-5]*  
-  ****E***  - [0-3-3-2-0-0]*  
+  ***C***  - [x-3-2-0-1-0]*  
+  ***G***  - [3-2-0-0-0-3]*  
+  ***G7*** - [3-2-0-0-0-1]*  
+  ***Am*** - [x-0-3-3-2-0]*  
+  ***F***  - [1-3-3-2-1-1]*  
+  ***Dm*** - [x-x-0-2-3-1] or maybe it is ***Dm6*** - [x-5-7-5-6-5]*  
+  ***E***  - [0-3-3-2-0-0]*  
   
   ***C                   G          G7  Am     G***  
   North was somewhere years ago, and cold:  
@@ -38,7 +38,7 @@ Refugees
   smiling very peacefully,  
   ***Am***  
   we began to notice that we could be free,  
-     ****C       G      F*** (and some chord swifts I dont know)*  
+     ***C       G      F*** (and some chord swifts I dont know)*  
   and we moved together  
   ***F      E***  
   to the West.  

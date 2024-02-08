@@ -10,6 +10,6 @@ Winged Mammal Theme
   ------------------------------------]  
   
   *Chords:*  
-  *Verse (Batman part): ***Bm - E****  
-  *Chorus: ***C G A B A G C A Bb****  
-  *Bridge: ***C G C G C G C F A Bb****
+  *Verse (Batman part): ***Bm - E***  
+  *Chorus: ***C G A B A G C A Bb***  
+  *Bridge: ***C G C G C G C F A Bb***

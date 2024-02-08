@@ -2,7 +2,7 @@
 Brothers In Arms  
   
   *Key: ***G#m***..organ and effects/bass*  
-  ****G#m / E / G#m / E  / C#m***.....(bass/keybd)*  
+  ***G#m / E / G#m / E  / C#m***.....(bass/keybd)*  
   
     ***E       F#***  
   These mist covered mountains  

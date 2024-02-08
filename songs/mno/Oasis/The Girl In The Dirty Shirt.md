@@ -11,7 +11,7 @@ Be Here Now (1997)
   ***C9    [x3233x]***  
   ***Cadd9 [x32030]***  
   ***D     [xx0232]***  
-  ****B7***    [x24242] NOTE: another guitar plays ***B7sus4*** [x21200] at the same*  
+  ***B7***    [x24242] NOTE: another guitar plays ***B7sus4*** [x21200] at the same*  
     *time*  
   ***Am    [x02210]***  
   ***Em    [022000]***  

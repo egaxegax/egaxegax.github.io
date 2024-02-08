@@ -105,7 +105,7 @@ The Marshall Mathers LP CD1 (2000)
   ***G#m   E   Eadd9-   E***  
   Well, gotta go, I'm almost at the bridge now.  
   Oh shit, I forgot, how am I supposed to send this shit out?  
-  ****G#m   E   Eadd9-   E*** (car crash)*  
+  ***G#m   E   Eadd9-   E*** (car crash)*  
   ***G#m   E   Eadd9-   E***  
   
   ***G#m   E   F#   B   B/Bb***  

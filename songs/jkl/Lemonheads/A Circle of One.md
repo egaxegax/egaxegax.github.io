@@ -2,7 +2,7 @@
 A Circle of One  
   
   *Weird chords: ***C#***: [x43xxx]    ***D***: [x54xxx]  ***F#maj7***: [x9866x]*  
-    ****F#***: [x9867x]  ***F#6***: [2x434x]*  
+    ***F#***: [x9867x]  ***F#6***: [2x434x]*  
   
 Intro:  | ***C#*** | ***D*** | ***F#maj7*** | ***F#maj7*** |  
   ***| F# F#maj7 | F# F#maj7 | F# F#maj7 | F#maj7 |***  

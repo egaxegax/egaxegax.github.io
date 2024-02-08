@@ -12,13 +12,13 @@ Down To The Water Line
   French kisses in the darkened doorways  
   Foghorn blowing out wild and cold  
   A policeman shines a light upon my shoulder  
-  *Lead 1  ***G / Bm / G / A / Bm****  
+  *Lead 1  ***G / Bm / G / A / Bm***  
   Up comes a coaster, fast and silent through the night  
   Over my shoulder, all you can see are pilot lights  
   No money in our jackets and jeans are torn  
   Your hands are cold but your lips are warm  
    ***G / Bm / G / A -***  
-  *solo: ***E / C#m / G****  
+  *solo: ***E / C#m / G***  
    ***D / Bm  / G***  
    ***D / A***  
    ***F# / G / A / Bm***  

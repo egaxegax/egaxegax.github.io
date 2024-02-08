@@ -11,7 +11,7 @@ A Walk
   E---------3--6-----5--7--8---9---5--]  
   
   *Rhythm 1: ***D C G A#***  
-  *Rhythm 2: ***D C G****  
+  *Rhythm 2: ***D C G***  
   *Rhythm 3: ***A5 A# B C C#***  
   *Note: play the rhythm 3 with palm mute*  
   
@@ -43,7 +43,7 @@ intro:     ***F***
   *with rhythm 3*  
   Your storage sheds are ramshackled, flies decorate the walls  
   And you expect me to die here in this shit-filled tiny stall?  
-  ****F***  (like intro)*  
+  ***F***  (like intro)*  
   I'm going for a walk!  
   *(solo)*  
   [E----------------------------------------------  
@@ -77,5 +77,5 @@ intro:     ***F***
   So I'm going for a walk and there's nothing you can do  
   'Cuz I don't have to live like you  
   I'm going for a walk, going for a walk....  
-  ****F*** (like intro)*  
+  ***F*** (like intro)*  
   I'm going for a walk.

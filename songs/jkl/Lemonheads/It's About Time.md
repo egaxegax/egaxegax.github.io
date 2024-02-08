@@ -109,14 +109,14 @@ It's About Time
   it's about time } x4  
   
 Chords:          [EADGBE]  
-  ****Dmaj7*** : [xx0222]*  
-  ****GaddD*** : [320033]*  
-    ****F#m*** : [244222]*  
-     ****Bm*** : [x24432]*  
-     ****Em*** : [022000]*  
-   ****D/F#*** : [200232]*  
-      ****G*** : [355433] (played somewhat subdued)*  
-      ****A*** : [577655] (played somewhat subdued)*  
+  ***Dmaj7*** : [xx0222]*  
+  ***GaddD*** : [320033]*  
+    ***F#m*** : [244222]*  
+     ***Bm*** : [x24432]*  
+     ***Em*** : [022000]*  
+   ***D/F#*** : [200232]*  
+      ***G*** : [355433] (played somewhat subdued)*  
+      ***A*** : [577655] (played somewhat subdued)*  
   
 ----  
   

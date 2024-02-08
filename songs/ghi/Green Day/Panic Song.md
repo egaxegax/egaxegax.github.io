@@ -10,8 +10,8 @@
   --------------4------------  
   ---------------------------  
   ---------------------------]  
-  ****D D#*** xxxxxxxxxxx*  
-  ****D D#*** XXXXXXXXXXX(MUTED STRINGS)*  
+  ***D D#*** xxxxxxxxxxx*  
+  ***D D#*** XXXXXXXXXXX(MUTED STRINGS)*  
   
   ***E(PM)***  
 Verse:  Ready for a cheap escape.  
@@ -52,7 +52,7 @@ Verse:  There's a plague inside of me.
   
   *tuned down 1/2 step.*  
   
-  ****B*** (play around with the chord shape for awhile)*  
+  ***B*** (play around with the chord shape for awhile)*  
   ***B G# F#***  
   ***E B F# B E B A F#***  
   
@@ -61,26 +61,26 @@ Verse:  There's a plague inside of me.
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  
   *Chords:*  
-  ****A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
-  ****B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
-  ****C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
-  ****C#*** ([x466xx])*  
-  ****D***  ([x577xx])*  
-  ****D#*** ([x688xx])*  
-  ****E***  ([022xxx])*  
-  ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
+  ***A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
+  ***B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
+  ***C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
+  ***C#*** ([x466xx])*  
+  ***D***  ([x577xx])*  
+  ***D#*** ([x688xx])*  
+  ***E***  ([022xxx])*  
+  ***E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
     *that chord, but using only the ([0xxxxx])*  
-  ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
+  ***B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
   *Intro:*  
-  ****B*** (two times), then:*  
+  ***B*** (two times), then:*  
   |--------|  
   |--------|  
   |-----8--|  
   |--9-----|  
   |--------|  
   |--------|  
-  ****E(type 2)***, ***B(type 2)***   (play several times)*  
+  ***E(type 2)***, ***B(type 2)***   (play several times)*  
   *Strum a "B" chord then (w/palm muting) strum the higher string several*  
   *times and fast ([7xxxxx]) or ([2xxxxx]), I recomend the first one. Then do the*  
   *same, but without palm muting; it just sounds a little low (the string, less*  

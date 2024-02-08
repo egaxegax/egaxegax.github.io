@@ -52,4 +52,4 @@ CHORUS:  She said take me back won't you
     ***G***  
   Ah won't you take me back?  
   
-  ****Am  C  F  Am*** (repeat to fade)*
+  ***Am  C  F  Am*** (repeat to fade)*

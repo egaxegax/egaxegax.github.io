@@ -23,13 +23,13 @@ Lacrimosa Live (Original from "Stolzes Herz" 1996 EP)
   *-piano*  
   
   *PRE-CHORUS:*  
-  ****C#*** - ***G#*** - ***Bbm*** - ***F#m****  
+  ***C#*** - ***G#*** - ***Bbm*** - ***F#m***  
   
   *VERSE2:*  
   *-piano*  
   
   *PRE-CHORUS:*  
-  ****C#*** - ***G#*** - ***Bbm*** - ***F#***  
+  ***C#*** - ***G#*** - ***Bbm*** - ***F#***  
   
   *CHORUS:*  
   [e|------------------------------------------------------------------|  

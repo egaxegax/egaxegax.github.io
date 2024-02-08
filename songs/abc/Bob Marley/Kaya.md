@@ -10,6 +10,6 @@ Kaya
   
 ----  
   
-  ****C | F/Eb G*** ... chorus*  
+  ***C | F/Eb G*** ... chorus*  
   ***Am | Am | C | Am***  
-  ****Am | C | F | G*** verse*
+  ***Am | C | F | G*** verse*

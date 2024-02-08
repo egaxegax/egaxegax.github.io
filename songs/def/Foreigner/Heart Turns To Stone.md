@@ -5,7 +5,7 @@
   
   *I can't be certain it's the right key, but it seems to work.*  
   *The main riff is as follows:*  
-  ****Am    G    Am    G*** - play about four times*  
+  ***Am    G    Am    G*** - play about four times*  
   *Carrying on into the verses . . .*  
   ***Am        G      Am          G***  
   The days and nights you sit around wondering  
@@ -59,7 +59,7 @@
   She's that kind of woman  
   She'll get by on her own  
   *The guitar solo follows the pattern again*  
-  ****Am    G    Am    G***     once through*  
+  ***Am    G    Am    G***     once through*  
   *The final fadeout section is as the chorus:*  
     ***Am***  
   She hides the pain  

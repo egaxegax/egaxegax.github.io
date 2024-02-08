@@ -46,7 +46,7 @@ Keep On Growing
   Keep on ***A*** growing, ***D*** keep on ***A*** growing, ***D*** keep on ***A*** growing. ***D***  
   ***G*** Yeah, ***D*** yeah, ***A*** yeah.  
   Keep on ***A*** growing, ***D*** keep on ***A*** growing, ***D*** keep on ***A*** growing. ***D***  
-  *Long Solo on ***A D A D****  
+  *Long Solo on ***A D A D***  
   *Bass Tablature For Solo*  
   [(G) |------------|----------2-|  
   (D) |----------2-|--0-0--4----|  

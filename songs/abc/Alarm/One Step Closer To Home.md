@@ -32,7 +32,7 @@ One Step Closer To Home
   I can't give in, till the sky turns black  
     ***G                   D        G    D A D***  
   I may get lost - I'm one step closer to home  
-  ****ADADA Em G***  (As in the Intro.)*  
+  ***ADADA Em G***  (As in the Intro.)*  
     ***D                    A***  
   Oh yeah, he ran, hitched rides, travelled light  
     ***Em                   G***  

@@ -20,30 +20,30 @@ Good Time Charlie's Got the Blues
   E--------------------]  
   
   *Intro:*  
-  ****G***  Riff 1  ***G***  Riff 1*  
+  ***G***  Riff 1  ***G***  Riff 1*  
   
-  ****G***    Riff 1*  
+  ***G***    Riff 1*  
   Everybody's gone away  
-    ****C***  Riff 2*  
+    ***C***  Riff 2*  
   Said they're moving to L.A.  
-      ****D7*** Riff 3*  
+      ***D7*** Riff 3*  
   There's not a soul I know around  
-  ****G***     Riff 1*  
+  ***G***     Riff 1*  
   Everybody's leaving town.  
   
-  ****G***       Riff 4*  
+  ***G***       Riff 4*  
   Some caught a freight, some caught a plane  
-      ****C***  Riff 5*  
+      ***C***  Riff 5*  
   Find the sunshine, leave the rain  
-    ****D7***  Riff3*  
+    ***D7***  Riff3*  
   They said this town will waste your time  
-  ****G***      Riff 1*  
+  ***G***      Riff 1*  
   I guess the ride is wasting mine  
   ***G       C    D7***  
   Some gotta win, some gotta lose  
-      ****G***  Riff 1*  
+      ***G***  Riff 1*  
   Good time Charlie's got the blues  
-  ****D7        G***  Riff 1*  
+  ***D7        G***  Riff 1*  
   Good time Charlie's got the blues  
   
 Solo:  [E-------------------------------------|  

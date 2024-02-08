@@ -52,7 +52,7 @@ Transylvania
   [-----------------|--------------------------|         -------------------]  
   
   *Solo:*  
-  *Just freak out over the progression ***Em*** | ***Em*** | ***D*** | ***D*** | ***C*** | ***D*** | ***Em*** | ***Em****  
+  *Just freak out over the progression ***Em*** | ***Em*** | ***D*** | ***D*** | ***C*** | ***D*** | ***Em*** | ***Em***  
   *and end it all with an ***Em*** that fades into Strange World, which isn't too*  
   *difficult to play...*  
   *(Add that progression to any song you want and make it sound like Maiden :)*  

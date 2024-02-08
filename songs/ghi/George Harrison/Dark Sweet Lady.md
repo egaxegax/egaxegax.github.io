@@ -11,7 +11,7 @@ George Harrison (1979)
 intro:  ***D   F#m   C***  
   ***A   D***  
   
-  ****D  F#m        C*** (or ***C7*** riff)      ***A****  
+  ***D  F#m        C*** (or ***C7*** riff)      ***A***  
 verses:  my dark sweet lady  
     ***D***  
   your heart so close to mine  

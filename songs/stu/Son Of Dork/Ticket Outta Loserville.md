@@ -5,7 +5,7 @@ Ticket Outta Loserville
   B|-0---0-------4-0--------------------------|] } x4  
   
   1, 2 Let’s Go!  
-  ****C***, ***C/B***, ***F***, ***G****  
+  ***C***, ***C/B***, ***F***, ***G***  
   
   ***C***  
 (1)  When I go to sleep I pray  
@@ -44,9 +44,9 @@ Chorus:  Pinch me, is this real?
     ***F***  
   You’re my ticket outta loserville  
   
-  ****C***, ***C/B***, ***F****  
+  ***C***, ***C/B***, ***F***  
   
-  ****C***(1 stroke)*  
+  ***C***(1 stroke)*  
 (2)  She gives me butterflies  
    ***C/B               F***  
   Says I’m not like all the other guys  
@@ -76,7 +76,7 @@ Chorus:  Pinch me, is this real?
     ***F           G***  
   Taking down my star trek shrine  
   
-  ****C***, ***C/B***, ***F***, ***G****  
+  ***C***, ***C/B***, ***F***, ***G***  
   
   ***C                    C/B***  
 Bridge:  You blew me out on a Sunday night  

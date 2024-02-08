@@ -44,7 +44,7 @@ Wish You Were Here (1975)
   
 ----  
   
-  ****Emadd9  Cmaj7(2)  Emadd9*** (all strum backwards)*  
+  ***Emadd9  Cmaj7(2)  Emadd9*** (all strum backwards)*  
   ***Em              C               Em***  
   Welcome my son, welcome to the machine  
   ***C                   Am                                  Em***  
@@ -70,11 +70,11 @@ Wish You Were Here (1975)
   He always ate in the Steak Bar, he loved to drive in his Jaguar  
   So welcome to the machine  
   
-  ****Emadd9***: [0 2 4 0 0 0]*  
-  ****Cmaj7(2)***: [0 3 5 5 0 0]*  
-  ****Esus2***: [0 2 4 4 0 0]*  
-  ****Em/F#***: [0 2 2 0 0 2]*  
-  ****Em/G***: [0 2 2 0 0 3]*  
-  ****Em/A***: [0 2 2 0 0 5]*  
-  ****D6+9***: [x 5 4 4 3 0]*  
-  ****C/G***: [x 3 2 0 0 3]*
+  ***Emadd9***: [0 2 4 0 0 0]*  
+  ***Cmaj7(2)***: [0 3 5 5 0 0]*  
+  ***Esus2***: [0 2 4 4 0 0]*  
+  ***Em/F#***: [0 2 2 0 0 2]*  
+  ***Em/G***: [0 2 2 0 0 3]*  
+  ***Em/A***: [0 2 2 0 0 5]*  
+  ***D6+9***: [x 5 4 4 3 0]*  
+  ***C/G***: [x 3 2 0 0 3]*

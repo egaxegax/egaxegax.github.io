@@ -48,7 +48,7 @@ Middle:  ***A***
   I do all the pleasing with you  
    ***B                           E***  
   It's so hard to reason with you  
-    ****A       B               E***  (repeat intro riff)*  
+    ***A       B               E***  (repeat intro riff)*  
   Oh yeah, why do you make me blue?  
   
   *Third verse same as the first,*  

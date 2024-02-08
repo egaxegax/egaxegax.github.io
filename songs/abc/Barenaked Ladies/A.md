@@ -3,7 +3,7 @@
   A  
   
   *intro (hammer on) ***A D***(slid up to 5th) ***D*** (slid to 4th)*  
-  ****A*** (hammer on) ***E  A  E  A  E  G  D****  
+  ***A*** (hammer on) ***E  A  E  A  E  G  D***  
   
   ***A          E                    A                     E***  
   A is for angry which is what you are at me  
@@ -25,9 +25,9 @@
   it's just you begging for affection  
   or something I won't even mention  
   
-    ****D            D***(up to 4th fret)***A****  
+    ***D            D***(up to 4th fret)***A***  
 CHORUS:  And I don't even know why you keep on trying  
-    ****D           D***(up to 4th)  ***A****  
+    ***D           D***(up to 4th)  ***A***  
   Like I don't even know why I keep on lying  
     ***D             Fm          E                   A***  
   There are millions of people in worlds of their own  

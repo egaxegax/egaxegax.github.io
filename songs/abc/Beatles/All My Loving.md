@@ -117,4 +117,4 @@ CHORUS:  All my loving I will send to you
     ***C#m            E***  
   All my loving, all my loving...  
   
-  ****C+***: [x 3 2 1 1 0]*
+  ***C+***: [x 3 2 1 1 0]*

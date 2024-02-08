@@ -24,4 +24,4 @@ Uno momento
   Uno, uno, uno complimento  
   E sacramento, sacramento, sacramento...  
   
-  ****Hdim*** - в данном случае - ум. трезвучие 2-й ступени: си-ре-фа*
+  ***Hdim*** - в данном случае - ум. трезвучие 2-й ступени: си-ре-фа*

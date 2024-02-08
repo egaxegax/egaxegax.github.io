@@ -1,13 +1,13 @@
 <!--2020-09-07 05:02:30-->
 Rosemary  
   
-  ****Asus2*** base-fret 1 frets [X 0 2 2 0 0]*  
-  ****G/A*** base-fret 1 frets [3 2 0 0 0 3]*  
-  ****D/F#*** base-fret 1 frets [X 0 4 2 3 2]*  
-  ****Dm6*** base-fret 1 frets [X X 0 2 0 1]*  
-  ****E7*** base-fret 1 frets [0 2 2 1 3 0]*  
-  ****C/A*** base-fret 1 frets [X 0 2 0 1 2]*  
-  ****E7b10*** base-fret 5 frets [0 2 1 2 3 0]*  
+  ***Asus2*** base-fret 1 frets [X 0 2 2 0 0]*  
+  ***G/A*** base-fret 1 frets [3 2 0 0 0 3]*  
+  ***D/F#*** base-fret 1 frets [X 0 4 2 3 2]*  
+  ***Dm6*** base-fret 1 frets [X X 0 2 0 1]*  
+  ***E7*** base-fret 1 frets [0 2 2 1 3 0]*  
+  ***C/A*** base-fret 1 frets [X 0 2 0 1 2]*  
+  ***E7b10*** base-fret 5 frets [0 2 1 2 3 0]*  
   
   *intro (repeat during verses)*  
   ***A  G/A  D/A  A***  

@@ -34,7 +34,7 @@ FEAR OF THE DARK
   dive _/  
   slowly  
   
-  *The chord in the Verse are: ***D Bb C****  
+  *The chord in the Verse are: ***D Bb C***  
   
   *The chords are played in the following form:*  
   

@@ -67,11 +67,11 @@ Live at Wembley'78 (1988)
   I'll just sit tight, through the shadows of the night  
   Let it ring for evermore.  
   *CHORUS } repeat*  
-  ****A#dim***: [x02323*  
-  ****Aj7***:   [x02120]*  
-  ****Dj7***:   [xx0222]*  
-  ****Fdim***:  [xx0101]*  
-  ****E6***:    [022120]*  
+  ***A#dim***: [x02323*  
+  ***Aj7***:   [x02120]*  
+  ***Dj7***:   [xx0222]*  
+  ***Fdim***:  [xx0101]*  
+  ***E6***:    [022120]*  
   
 ----  
   

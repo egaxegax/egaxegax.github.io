@@ -43,7 +43,7 @@ Friday On My Mind
   Tonight  
   
    ***Am              D            G           E***  
-    ****A  E  A  E     A  E  A  E   A  E  A  E  E***   &lt;- bass*  
+    ***A  E  A  E     A  E  A  E   A  E  A  E  E***   &lt;- bass*  
   Monday I've got Friday on my mind  
   
   Do the night-day grind once more  

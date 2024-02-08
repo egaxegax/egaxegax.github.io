@@ -50,7 +50,7 @@
   *SOLO (in ***Bm***... modal is good!) 16 bars then back to verse*  
   
   *ENDING 3 x verse then:*  
-      ****E***   (drums here)  ***D  E****  
+      ***E***   (drums here)  ***D  E***  
   |-------------|-----|---------|  
   |-------------|-----|---------|  
   |-------------|-----|---------|  

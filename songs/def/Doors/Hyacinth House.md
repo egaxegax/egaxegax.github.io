@@ -48,4 +48,4 @@ Organ Solo: ***D Em/D***,  ***Am G D Em/D***
   ***G   D***  
   the end.  
   
-  ****Em/D*** = [xx0000]*
+  ***Em/D*** = [xx0000]*

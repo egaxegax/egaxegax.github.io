@@ -59,7 +59,7 @@ The Closer You Get
   --3--3/1--------------------------------------------------------------------]  
   
   *and hit these bar chords on their respective parts as well:*  
-  ****Bm    Am    D/C***---same as ***D****  
+  ***Bm    Am    D/C***---same as ***D***  
   [----  ----  
   ----  ----  
   ----  ----  

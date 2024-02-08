@@ -43,7 +43,7 @@
   this doesn't ever have to end... go!  
   
   *Interlude (x2): ***F#5***, ***G#5***, ***A#5***, ***C#5***;*  
-    ****F#5***, ***G#5***, ***A#5***, ***D#5***!!*  
+    ***F#5***, ***G#5***, ***A#5***, ***D#5***!!*  
   
   *Main riff (x2: first with just guitar; second time, w/ bass & drums)*  
   I see you standing by a window in the hall  

@@ -28,5 +28,5 @@ verse:  |-------------------------------------------------------------------
   Cry and tell and slander yell  
       ***A               F#                B***  
   and grumble well so loud for heaven's sake  
-    ****E*** (pick this chord backwards)*  
+    ***E*** (pick this chord backwards)*  
   Pink bubbles go ape!

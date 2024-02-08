@@ -58,7 +58,7 @@ At the Library
   *and a played out ***D5*** on "away?"*  
   *go to the second guitar part 8X (oh well it happened again...)*  
   *the coda's the same as the intro, ending with the impossible*  
-  *guitar solo, and a powerful ***G5****  
+  *guitar solo, and a powerful ***G5***  
   ***G5  B5    C5         D5***  
   hey there looking at me  
   ***G5   B5 C5          D5***  

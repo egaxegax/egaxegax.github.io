@@ -2,17 +2,17 @@
 "Unplugged"  
   Alberta  
   
-  ****E E F F F# F#     C/G***         (the ***E***/***F***/***F#***'s are just the bass notes)*  
+  ***E E F F F# F#     C/G***         (the ***E***/***F***/***F#***'s are just the bass notes)*  
   Alberta           Alberta  
-  ***G                C/G****  
+  ***G                C/G***  
   Where ya been so long  
-  ****F                F Bb Bb F***    (2 strums for ***Bb***)*  
+  ***F                F Bb Bb F***    (2 strums for ***Bb***)*  
   Alberta Alberta  
-  ****C/G*** - with the little lick*  
+  ***C/G*** - with the little lick*  
   Where ya been so long  
   ***C/G             G***  
   Ain't had me no lovin'  
-  ***G              C/G****  
+  ***G              C/G***  
   Since you been gone  
   
   [E--0---------------------------0--0--0--0------------------  

@@ -6,7 +6,7 @@
   *Well, I'm sure someone with the music*  
   *in front of them can do a better job,*  
   *but the chords to that song are really basic.*  
-    ****D  A  G  A***  (repeat a few times)  ***G  A  G  A  G  A  D  G****  
+    ***D  A  G  A***  (repeat a few times)  ***G  A  G  A  G  A  D  G***  
   Anyway, it's something like that.  It just repeats over and over.  
   *Oh yeah, if you want to play along with the record, remember to tune down a*  
   *half step.*  

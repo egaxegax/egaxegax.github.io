@@ -5,7 +5,7 @@
   *Don't worry it's all powerchords unless i say otherwise...*  
   *NOTE: On the chorus, ***A#*** is [X133XX], not [688XXX]*  
   *Intro/Riff:*  
-  ****G***, ***E***(barre) / ***B*** (as [X244XX], not [799XXX])*  
+  ***G***, ***E***(barre) / ***B*** (as [X244XX], not [799XXX])*  
   *Verse:*  
   ***G(PM)  /   F (PM)  G(PM)  /   F (PM)***  
   I'm on a mission, I made my decision  
@@ -44,14 +44,14 @@
   Don't know what I want, and that's all that I've got  
   ***G                 F               G           F***  
   and I'm picking scabs off my face.  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
   *Verse#3:*  
   ***G(PM)  /   F (PM)  G(PM)  /   F (PM)***  
   I'm on a mission, I've got no decision  
@@ -70,16 +70,16 @@
   Don't know what I want, and that's all that I've got  
   ***G                 F               G           F***  
   and I'm picking scabs off my face.  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
-  ****G***, ***E***(barre) / ***B****  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
+  ***G***, ***E***(barre) / ***B***  
   *Outro:*  
-  ****G***, ***E***(barre) / ***B****  
+  ***G***, ***E***(barre) / ***B***  
   Geek,  
-  ****G***, ***E***(barre) / ***B****  
+  ***G***, ***E***(barre) / ***B***  
   Stink,  
-  ****G***, ***E***(barre) / ***B****  
+  ***G***, ***E***(barre) / ***B***  
   Breath...........  
   
 ----  
@@ -87,7 +87,7 @@
   *tuned down 1/2 step.*  
   
   ***G F C***  
-  ****G F*** (palm mute)*  
+  ***G F*** (palm mute)*  
   ***A# F***  
   ***G F***  
   
@@ -154,20 +154,20 @@
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  
   *Chords:*  
-  ****A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
-  ****B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
-  ****C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
-  ****C#*** ([x466xx])*  
-  ****D***  ([x577xx])*  
-  ****D#*** ([x688xx])*  
-  ****E***  ([022xxx])*  
-  ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
+  ***A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
+  ***B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
+  ***C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
+  ***C#*** ([x466xx])*  
+  ***D***  ([x577xx])*  
+  ***D#*** ([x688xx])*  
+  ***E***  ([022xxx])*  
+  ***E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
     *that chord, but using only the ([0xxxxx])*  
-  ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
+  ***B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
   *Intro/post chorus:*  
   ***G, F, C***  
   *Verse:*  
-  ****G***, ***F***    Play w/palm mute, then slide to the next chord  (3rd verse without pm)*  
+  ***G***, ***F***    Play w/palm mute, then slide to the next chord  (3rd verse without pm)*  
   *Chorus:*  
   ***A, F***

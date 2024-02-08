@@ -139,7 +139,7 @@ Vow
   You burn me out but I'm back at your door  
     ***Am                 C            F***  
   Like Joan of Arc coming back for more  
-  ****Dm       Bb       Am        E          Dm      Bb***   (not too sure)*  
+  ***Dm       Bb       Am        E          Dm      Bb***   (not too sure)*  
   I nearly died      I nearly died       I nearly died  
   ***F                 C                      Dm***  
   I came to cut you up I came to knock you down  
@@ -150,7 +150,7 @@ Vow
     ***C                       F***  
   I came around to tear your little world apart  
   and break your soul apart.  
-  ****Am     F       Am       Am***  (with riff)*  
+  ***Am     F       Am       Am***  (with riff)*  
   Ah you burn burn take it into my skin  
   down too far now I won't give in  
   you crucify me but I'm back in your bed  

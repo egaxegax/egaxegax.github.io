@@ -45,5 +45,5 @@ Every Little Thing She Does
   but it's always me who ends up  
   getting wet  
   *chorus.*  
-  ****Dsus2/Bb  Dsus2/C   Dsus2/G   Dsus2/A***  ...{repeat this over and over again}*  
+  ***Dsus2/Bb  Dsus2/C   Dsus2/G   Dsus2/A***  ...{repeat this over and over again}*  
   I resolved .......

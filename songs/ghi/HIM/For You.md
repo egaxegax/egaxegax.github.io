@@ -52,5 +52,5 @@ For You
   ***Em Hm                  D                    Em***  
   I'm for you... (and my heaven? s wherever you are)  
   
-  ****Hm*** - проигрыш одного аккорда*  
+  ***Hm*** - проигрыш одного аккорда*  
   *После этого, обратно: Intro-1 и Intro-2.*

@@ -10,8 +10,8 @@ Venice Queen
   |-------------------------------------|  
   *Intro+Couplet:*  
   
-  ****Em Emsus2*** (en arpeges a l'octave)*  
-  ****Cmaj7 - A7sus4 - Em*** (a l'octave)*  
+  ***Em Emsus2*** (en arpeges a l'octave)*  
+  ***Cmaj7 - A7sus4 - Em*** (a l'octave)*  
   *Section acoustique 1:*  
   ***Em - C*** } x3  
   ***A - Dsus2***  

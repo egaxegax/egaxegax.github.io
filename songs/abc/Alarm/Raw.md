@@ -25,7 +25,7 @@ Raw
   Raw, raw, I ain't got no home...now  
   ***F                  F***  
   Burnt right back...burnt right back to the bone.  
-  ****G G*** (rake) ***G G*** (rake) ***F F*** (rake) ***F F*** (rake)...then back to the verse.*  
+  ***G G*** (rake) ***G G*** (rake) ***F F*** (rake) ***F F*** (rake)...then back to the verse.*  
   *BRIDGE: (after second chorus)*  
   ***D***  
   Rolling like a river, running like a train  

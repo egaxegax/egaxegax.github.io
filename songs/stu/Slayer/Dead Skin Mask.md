@@ -82,5 +82,5 @@ Dead Skin Mask
   -2---------------------------5/4----------------------------------------  
   -2---------------------------3/2------------------------------]  
   *[-0----------------------------|--0-3-2-1-0---------------------] Let this*  
-  *chord ring out |---&gt;this slide might be wrong it might be from ***B*** to ***Bb****  
+  *chord ring out |---&gt;this slide might be wrong it might be from ***B*** to ***Bb***  
   *Oh well, its probably wrong, but it sounds right to me.*

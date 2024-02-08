@@ -79,7 +79,7 @@ One Rainy Day Wish
     ***F#7             C#                  G#   B***  
   Ah, stole my heart away little girl, yeah  ______alright!  
   
-  ****C#   G#   B  F#7***  (chords during solo)*  
+  ***C#   G#   B  F#7***  (chords during solo)*  
   *Solo (I will post this in complete w/ solo)*  
   ***E                               Aadd9          E             C#m***  
   Gold and rose the color of the dream I had,____not too long ago  
@@ -90,7 +90,7 @@ One Rainy Day Wish
   ***E               C#m        E5                D5            A***  
   Misty blue and lilac too. Gold and rose the color of the dream I had  
   
-  ****C***, ***C#m*** is the chord pattern from here on. As I*  
+  ***C***, ***C#m*** is the chord pattern from here on. As I*  
   *said I eventually will post all the litlle riffs he plays*  
   *while he's singing and include the solo.*  
   

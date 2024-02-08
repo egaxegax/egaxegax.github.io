@@ -4,7 +4,7 @@
   
   *the beggining goes like this*  
   *riff:a*  
-  ****Bm***  really weird chord play that twice*  
+  ***Bm***  really weird chord play that twice*  
   [2              x  
   3              5  
   4              4  

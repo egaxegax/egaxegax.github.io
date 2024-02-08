@@ -6,7 +6,7 @@ album "Between the Breaks...Live!"
   *that I didn't feel like figuring out in great detail, particularly since*  
   *the open voicing sopunds just fine. ***A#dim*** is, from the lowest string to*  
   *the highest, [x12320] (that is, it's ***A*** major, but turn all the As into*  
-  ****A#***s). A fairly simple fingerpicking pattern sounds good here; there's no*  
+  ***A#***s). A fairly simple fingerpicking pattern sounds good here; there's no*  
   *need to be too elaborate. It should definitely, hovever, be picked*  
   *rather than strummed.*  
   
@@ -50,7 +50,7 @@ album "Between the Breaks...Live!"
   Bass: D  
   Key: D  
   
-  *INTRO(?): ***Gmaj7***, ***Gmaj7***, ***D***, ***Dmaj7****  
+  *INTRO(?): ***Gmaj7***, ***Gmaj7***, ***D***, ***Dmaj7***  
   
   ***Gmaj7       *           D       Dmaj7***  
   ....... How early is Be-ginning______  

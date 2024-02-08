@@ -29,7 +29,7 @@ Chorus:  I was born a someday man, I'm a maybe child
   Tomorrow's a new day, baby  
   ***Gmaj7        Cmaj7***  
   Anything can happen  
-  ****Gmaj7        Cmaj7***  (1: ***E7***   2: ***Eadd9 Bm7/E***)*  
+  ***Gmaj7        Cmaj7***  (1: ***E7***   2: ***Eadd9 Bm7/E***)*  
   Anything can happen at all  
   
   *repeat intro 4X; bass tacet 1,2*  

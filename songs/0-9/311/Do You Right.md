@@ -89,7 +89,7 @@ E-|-0-4-5-||-----------------------------|]
   ***E   D***  
 *until (1:10) where it does something like:*  
   [EADGBe]  
-  ****E   F/E*** ([033200])*  
+  ***E   F/E*** ([033200])*  
 *with a clean tone.  Chorus is:*  
-  ****A  D  E  D***   (and make a bunch of wild noises like monkees and whatnot)*  
+  ***A  D  E  D***   (and make a bunch of wild noises like monkees and whatnot)*  
 *after chorus do fill 1.*

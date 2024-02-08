@@ -3,8 +3,8 @@
   River  
   
   *Playing by yourself it sounds better ***c*** to ***f***. But with the cd it sounds*  
-  *better ***g*** to ***c****  
-  *Intro: I think its ***g*** to ***c***. If that does not work you can try ***c*** to ***f****  
+  *better ***g*** to ***c***  
+  *Intro: I think its ***g*** to ***c***. If that does not work you can try ***c*** to ***f***  
   *Just which ever one you like better.*  
   ***g***  
   Lately we've been talking about who we are  

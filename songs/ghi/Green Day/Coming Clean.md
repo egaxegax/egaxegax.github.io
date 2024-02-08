@@ -62,4 +62,4 @@ Chorus 2: I found out what it takes
 ----  
   
   ***H5  G#5***  
-  *I found out ...  : ***F#5  E5****
+  *I found out ...  : ***F#5  E5***

@@ -38,7 +38,7 @@ Intro:  ***Em  C  D*** } x2
     ***C      D***  
   We're not alone  
   
-  ****Em*** x3 (x2) (quick down strums)*  
+  ***Em*** x3 (x2) (quick down strums)*  
   
    ***Em                             C***  
   We've all been abducted we get taken everyday  
@@ -69,7 +69,7 @@ Intro:  ***Em  C  D*** } x2
     ***C      D***  
   We're not alone  
   
-  ****Em*** x3 } x2*  
+  ***Em*** x3 } x2*  
   
   *Solo (not done yet)*  
   
@@ -96,4 +96,4 @@ Intro:  ***Em  C  D*** } x2
     ***C   Em***  
   We're not alone, we're not alone  
   
-  ****C*** x3      ***Em*** x3 (quick down strum)*
+  ***C*** x3      ***Em*** x3 (quick down strum)*

@@ -39,7 +39,7 @@ Intro/Riff1: [e---------------------------------------------------
   Spinning my fantasies all around  
   ***A5***  
   Freed from the gravital leash  
-  ***C5 D5 *Start Intro/Riff1****  
+  ***C5 D5 *Start Intro/Riff1***  
   I swear the heavenґs in my reach  
   
   / ***E5***  
@@ -56,7 +56,7 @@ Intro/Riff1: [e---------------------------------------------------
   Donґt know if this is the earth or the moon  
   ***A5***  
   Joy of living is no more a mask  
-  ***C5 D5 *Start Riff 2****  
+  ***C5 D5 *Start Riff 2***  
   The Eden I found will forever last  
   ***Riff 2***  
   Just play the chords several times  
@@ -91,11 +91,11 @@ Intro/Riff1: [e---------------------------------------------------
   **Now i?ll just tell the chords,**  
   **play them with the same pattern**  
   **like above**  
-  ***G5 D#5 *Fill 1****  
+  ***G5 D#5 *Fill 1***  
   Migrating with the geese  
-  ***G5 D#5 *Fill 2****  
+  ***G5 D#5 *Fill 2***  
   My soul has finally found peace  
-  ***G5 D#5 *Fill 3****  
+  ***G5 D#5 *Fill 3***  
   Doesnґt matter that man has no wings  
   ***G5 D#5***  
   As long as I hear the nightingale sing...  

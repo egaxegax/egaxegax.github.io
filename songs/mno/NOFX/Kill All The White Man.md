@@ -6,9 +6,9 @@
   
   *intro and first part*  
   *(all chords are syncopated)*  
-  ****F*** ([1133211])*  
-  ****Gm*** ([355333])*  
-  ****Am*** ([577555])*  
+  ***F*** ([1133211])*  
+  ***Gm*** ([355333])*  
+  ***Am*** ([577555])*  
   The white man call himself civilized  
   Cause he know how to take over  
   The white man come to pillage my village  
@@ -18,11 +18,11 @@
   Everything I love and cherish he try to take away  
   We will be rid of him, soon come the day  
   *second part (with distortion)*  
-  ****C5*** ([X355XX])*  
-  ****G5*** ([X355XX])*  
-  ****D5*** ([X577XX])*  
-  ****F1*** ([133XXX])*  
-  ****F2*** ([X81010XX])*  
+  ***C5*** ([X355XX])*  
+  ***G5*** ([X355XX])*  
+  ***D5*** ([X577XX])*  
+  ***F1*** ([133XXX])*  
+  ***F2*** ([X81010XX])*  
   *intro:*  
   ***C G D F1***  
   ***C G D F1***  

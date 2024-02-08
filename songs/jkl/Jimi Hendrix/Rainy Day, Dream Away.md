@@ -48,7 +48,7 @@ Rainy Day, Dream Away
     ***G9***  
   And I'm leanin' out my window sill digging everything  
   *Transition part: (Play the riffs in between using=20*  
-    ****G*** blues scale and plenty of Wah!)*  
+    ***G*** blues scale and plenty of Wah!)*  
      ***D9 C#9  C9       Bb7  A7  G7***  
   |--5---4---3---|---------------------------------|  
   |--5---4---3---|---------------------------------|  
@@ -81,10 +81,10 @@ Rainy Day, Dream Away
   Lay back and dream on a rainy day  
   *Chords not found in tab:*  
       [EADGBe]  
-  ****D9***: [x54555]*  
-  ****G7***: [353463]*  
-  ****A7***: [x02023]*  
-  ****C9***: [x32333]*  
+  ***D9***: [x54555]*  
+  ***G7***: [353463]*  
+  ***A7***: [x02023]*  
+  ***C9***: [x32333]*  
   ***=469***: [x87888]*  
   ***=46#9***: [x98999]*  
-  ****G9***: [x 10 9 10 10 10]*
+  ***G9***: [x 10 9 10 10 10]*

@@ -73,11 +73,11 @@ You better run
     With my feet on the ground           & my head in the clouds  
   
   *-=Chorus=-*  
-  ****E          A                       E***   Main Riff E*  
+  ***E          A                       E***   Main Riff E*  
   You better run, oh baby you better run  
   ***E       B                   B A# A                   G  E***  
   I got a blade like lightning,      silver bullets in my gun  
-  ****E*** Main Riff E    ***B****  
+  ***E*** Main Riff E    ***B***  
      *^Bass only on this Main Riff*  
   
   *-=Verse2=-*  

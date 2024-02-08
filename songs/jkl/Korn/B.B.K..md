@@ -76,5 +76,5 @@ B.B.K.
   *Fig3*  
   *Fig4*  
   *Fig1*  
-  ****A   Ab   B  B*** (Fig2 here also)*  
-  ****A   Ab   B  B*** (Fig2 & Fig3 Guitar 1 here also)*
+  ***A   Ab   B  B*** (Fig2 here also)*  
+  ***A   Ab   B  B*** (Fig2 & Fig3 Guitar 1 here also)*

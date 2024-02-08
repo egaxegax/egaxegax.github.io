@@ -78,7 +78,7 @@ Solo:  (This doesn't seem complete to me, but it's not bad
   *Solo*  
   
   *Then after solo, play verse chords 1x,*  
-  *followed by "Kid get outta my way" played over ***G*** - ***C*** - ***D****  
+  *followed by "Kid get outta my way" played over ***G*** - ***C*** - ***D***  
   *about 13 or 14 times, and that's the song!*  
   
   *Lyrics: (my own interpretation)*  

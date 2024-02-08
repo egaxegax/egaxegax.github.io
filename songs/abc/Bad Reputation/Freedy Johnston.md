@@ -26,7 +26,7 @@
    ***Am                              C***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
     And   still   I wanna   tell    you     every - thing  
-   ****Em                              D***      (Refrain:)*  
+   ***Em                              D***      (Refrain:)*  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
     `till I close  my        eyes.  Sudden -ly       I'm  
    ***G               C               D7***  

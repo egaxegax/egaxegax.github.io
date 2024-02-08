@@ -3,7 +3,7 @@
   Hair Of The Dog  
   
   *key:  ***Gb***  (I'm assuming)*  
-  *tuning:  down half step    ***Eb Ab Db Gb****  
+  *tuning:  down half step    ***Eb Ab Db Gb***  
   
 intro:  [Gb-------------------------------------------------------------------  
   Db-------------2---------------------------------2-------------------  

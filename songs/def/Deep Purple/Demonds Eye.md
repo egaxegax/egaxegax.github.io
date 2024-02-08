@@ -14,5 +14,5 @@ Demonds Eye
   sly  
   ***Ab***  
   like demons eye  
-  ****Ab7*** (continue it's the same for all the words)*  
+  ***Ab7*** (continue it's the same for all the words)*  
   Kostas

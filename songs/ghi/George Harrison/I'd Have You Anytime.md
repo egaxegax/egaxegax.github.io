@@ -35,9 +35,9 @@ CHORUS:  All I have is yours
   
   *CHORUS*  
   
-  ****Gmaj7***: [x x 5 4 3 2]  ***Bmaj7***: [x x 8 7 6 5]*  
-  ****Cm7***:   [x 3 5 3 5 3]  ***Asus4***: [x 0 2 2 3 0]*  
-  ****D/C***:   [x 3 0 2 3 2]  ***D/B***:   [x 2 0 0 3 2]  ***D/Bb***: [x 1 0 0 3 2]*  
+  ***Gmaj7***: [x x 5 4 3 2]  ***Bmaj7***: [x x 8 7 6 5]*  
+  ***Cm7***:   [x 3 5 3 5 3]  ***Asus4***: [x 0 2 2 3 0]*  
+  ***D/C***:   [x 3 0 2 3 2]  ***D/B***:   [x 2 0 0 3 2]  ***D/Bb***: [x 1 0 0 3 2]*  
   *(from All Things Must Pass, 1970.  P.S. does anyone know the chords to*  
   *the song Apple Scruffs from this album?)*  
   

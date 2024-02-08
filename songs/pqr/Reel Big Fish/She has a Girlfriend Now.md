@@ -48,7 +48,7 @@ She has a Girlfriend Now
   she has a girlfriend now  
     ***d#           cm***  
   she has a girlfriend now,  
-    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#***  
+    ***g#            a#          d#***  (intro riff 1) ***g# g# a# a#***  
   she said "guys don't do no more for me"  
   
   *(***d# cm g# a#*** x4)*  
@@ -69,7 +69,7 @@ She has a Girlfriend Now
   she has a girlfriend now  
     ***d#           cm***  
   she has a girlfriend now,  
-    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#***  
+    ***g#            a#          d#***  (intro riff 1) ***g# g# a# a#***  
   she said "guys don't do no more for me"  
   
   *(***d# cm g# a#*** x1)*  

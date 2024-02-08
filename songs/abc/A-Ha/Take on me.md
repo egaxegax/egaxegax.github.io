@@ -41,11 +41,11 @@ Intro:  [E|-----------------------------------------------------------------
   A|-----------------------------------------------------------------|  
   E|-----------------------------------------------------------------|]  
   
-  *Verse is: ***G/A/D/G  G/A/D/G  G/A/Bm/A****  
+  *Verse is: ***G/A/D/G  G/A/D/G  G/A/Bm/A***  
   
   *I'm not really sure of the chorus. It may be because I'm playing the*  
   *verse in the wrong key because I have the chords wrong for the chorus.*  
-  *For the chorus, you can get away with ***E/G#/A****  
+  *For the chorus, you can get away with ***E/G#/A***  
   *I'd say the whole thing could use some work, so feel free to chip in.*  
   
 ----  

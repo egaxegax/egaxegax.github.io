@@ -2,11 +2,11 @@
 Left for Dead  
   
   *Weird chords:*  
-  ****Dm***  : [x57765]  ***Bm***    : [x24432]  ***B2***    : [x24422]*  
-  ****G***   : [355433]  ***A2/C#*** : [x4220x]  ***Bm11***  : [x20200]*  
-  ****A2***  : [x02200]  ***G6/9***  : [3x2200]  ***Asus4*** : [x02230]*  
-  ****A5v*** : [577xxx]  ***A5***    : [x022xx]  ***E5***    : [x799xx]*  
-  ****B5***  : [x244xx]  ***B5/G#*** : [4244xx]  ***D5***    : [xx023x]*  
+  ***Dm***  : [x57765]  ***Bm***    : [x24432]  ***B2***    : [x24422]*  
+  ***G***   : [355433]  ***A2/C#*** : [x4220x]  ***Bm11***  : [x20200]*  
+  ***A2***  : [x02200]  ***G6/9***  : [3x2200]  ***Asus4*** : [x02230]*  
+  ***A5v*** : [577xxx]  ***A5***    : [x022xx]  ***E5***    : [x799xx]*  
+  ***B5***  : [x244xx]  ***B5/G#*** : [4244xx]  ***D5***    : [xx023x]*  
   
 Intro:      ***D        B                         D                      B***  
   |---------------|--------------------------|----------------------|  
@@ -31,7 +31,7 @@ Intro:      ***D        B         
     Used to be  I      was unkind.  
   ***B2 Bm       A2/C#         Bm11           A2       G6/9***  
     Now       I don't call   and you    don't mind.  
-    ****A5v B5                         G5***   (Rhythm Fig. 1)*  
+    ***A5v B5                         G5***   (Rhythm Fig. 1)*  
   Thought it was wrong,         wrong what she said.  
   ***A2/C#              Bm11                   A2***  
     Now you're right and I'm left for dead.  
@@ -47,7 +47,7 @@ Intro:      ***D        B         
     Wrapped a phone cord   'round my fist.  
   ***B2 Bm       A2/C#       Bm11           A2        G6/9***  
     They       abort my wrist and I cut where I kissed.  
-    ****A5v B5                         G5***   (Rhythm Fig. 1)*  
+    ***A5v B5                         G5***   (Rhythm Fig. 1)*  
   Thought it was wrong,         wrong what she said.  
   ***A2/C#              Bm11                   A2***  
     Now you're right and I'm left for dead.  

@@ -32,7 +32,7 @@
   E|----------------------------------------4------7------5-----]  
     ***F#m*    E   Esus2*  D#dim Dmaj7*   C#m     B      A***  
   
-  *My chords book says the ***Dmaj7**** is a ***Dmaj7/#11***...*  
+  *My chords book says the ***Dmaj7*** is a ***Dmaj7/#11***...*  
   
   *HOW TO USE ALL THESE CHORDS*  
   *----------------------------*  
@@ -41,11 +41,11 @@
   *--------*  
   ***F#m*                E***  
   Carnival came by my town today  
-  ***Esus2*             F#m****  
+  ***Esus2*             F#m***  
   bright lights from giant wheels  
     ***E***  
   fall on the alleyways  
-  ***Esus2****  
+  ***Esus2***  
   and I'm here  
   ***D#dim***  
   by my door  
@@ -70,7 +70,7 @@
   come on and love me now  
   ***E(sus2*?)   A***  
   come on and love me now  
-  ***Dmaj7*      Esus2*        F#m****  
+  ***Dmaj7*      Esus2*        F#m***  
   come on and love me now  
   
   *as 1st part*  

@@ -3,7 +3,7 @@ Ocean size
   
   *I'm looking for the tab to the second solo in this song - thats the fast*  
   *one towards the middle. I've figured out the chords which are easy-*  
-  ****E G A G E***....and so on - works nice with power chords*  
+  ***E G A G E***....and so on - works nice with power chords*  
   *And the intro:*  
   *An ***E*** barre shape sliding from ***G*** to ***E*** with the e and b strings ringing*  
   *out for the whole sequence - fingerpickin good...*  

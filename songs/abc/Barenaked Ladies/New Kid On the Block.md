@@ -3,7 +3,7 @@ New Kid On the Block
   
   *This is a funny and fun song by what is becoming my favorite band the*  
   *more I listen to them. The basic structure of the song is verses*  
-  *alternating between ***Em*** and ***C*** major, and the chorus following a ***G***-***Am***-***F****  
+  *alternating between ***Em*** and ***C*** major, and the chorus following a ***G***-***Am***-***F***  
   *progression. I'm probably way off on some of the lyrics, but hopefully*  
   *you get the idea.*  
   

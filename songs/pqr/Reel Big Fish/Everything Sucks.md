@@ -12,7 +12,7 @@ Everything Sucks
   
 intro:  ***f c1*** } x2  
   ***f a Bb c } x3***  
-  ****c*** (in between horn parts) } x10*  
+  ***c*** (in between horn parts) } x10*  
   ***c Bb a g f***  
   
   ***f g#-&gt;a-&gt;Bb***  

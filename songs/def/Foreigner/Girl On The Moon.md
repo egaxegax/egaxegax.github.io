@@ -7,7 +7,7 @@ From the album "4"
   *on a piano the other day. I can't swear it's absolutely 100%, but it*  
   *sounds right. It's actually quite similar to "Waiting For A Girl Like You":*  
   
-  *Intro, all on  ***Am****  
+  *Intro, all on  ***Am***  
   
   ***Am***  
   It's night, again - time for my mind to go wandering  

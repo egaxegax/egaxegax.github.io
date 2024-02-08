@@ -3,7 +3,7 @@
   Something's Gotta Give  
   
   *intro is ***G*** and ***A*** over and over eneding with ***C*** every cycle*  
-  *like ***G A G A G A C  G A G A G A G****  
+  *like ***G A G A G A C  G A G A G A G***  
   ***A***  
   Cyberotic head explode  
   ***A***  

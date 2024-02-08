@@ -20,7 +20,7 @@ I'm A Roustabout
   Knock it down... (UH-HUH)  
   Fold it square... (UH-HUH)  
   Roll it around...  
-  ****D*** (stroke)               ***D*** (stroke)*  
+  ***D*** (stroke)               ***D*** (stroke)*  
   Throw it in the air, stick it in the ground!"  
   ***G***  
   But it's too bad, (UH-HUH)  

@@ -129,6 +129,6 @@
   *Riff D*  
   *4x Riff C*  
   *8x Riff B*  
-  ****E5*** chord sustained during drum fills*  
+  ***E5*** chord sustained during drum fills*  
   *Riff E under Solo 2*  
-  ****E5*** chord sustained and fade out*
+  ***E5*** chord sustained and fade out*

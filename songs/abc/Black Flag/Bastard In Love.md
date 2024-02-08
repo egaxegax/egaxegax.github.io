@@ -17,9 +17,9 @@ intro:  ***C G F#*** } x2
   punish your futer despite your past  
   ***C     G        F#   G***  
   love turns to hate with every spell you cast  
-  ****F#                C***     (lick)*  
+  ***F#                C***     (lick)*  
   you keep waitin' for the love that you wanna feel  
-  ****F#***                     (lick)*  
+  ***F#***                     (lick)*  
   but you never belive it when they tell that love is real  
   ***C         G      F#***  
   you keep wishin' but  
@@ -33,9 +33,9 @@ intro:  ***C G F#*** } x2
   you want but don't listn and sit home and cry  
   ***C   G          F#      C***  
   my heart sits further than each of your lies  
-  ****F#                C***     (lick)*  
+  ***F#                C***     (lick)*  
   you keep waitin' for the love that you wanna feel  
-  ****F#***                     (lick)*  
+  ***F#***                     (lick)*  
   but you never belive it when they tell that love is real  
   ***C         G      F#***  
   you keep wishin' but  
@@ -43,9 +43,9 @@ intro:  ***C G F#*** } x2
   my love is real my love is real my love is real my love is  
   real  
   (solo) yeah! (solo)  
-  ****F#                C***     (lick)*  
+  ***F#                C***     (lick)*  
   you keep waitin' for the love that you wanna feel  
-  ****F#***                     (lick)*  
+  ***F#***                     (lick)*  
   but you never belive it when they tell that love is real  
   ***C         G      F#***  
   you keep wishin' but  

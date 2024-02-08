@@ -47,27 +47,27 @@ Bridge:      ***Eb    D***
   
   *Here we go:*  
   *2 * (Verse) as intro*  
-  ****C            Eb***                   (Verse)*  
+  ***C            Eb***                   (Verse)*  
   I spy in the night sky don't I  
   Phoepe Io    Elara  
   Leda Callisto  Sinope  
   Janus Dione  Portia so many  
-  ****F***                                 (1st bar of chorus)*  
+  ***F***                                 (1st bar of chorus)*  
   moons  
-  ****Ab           Bb     F***             (Chorus)*  
+  ***Ab           Bb     F***             (Chorus)*  
   Quiet in the sky at night  
   Hot in the   Milky  Way  
-  ****Eb      D***                         (Bridge)*  
+  ***Eb      D***                         (Bridge)*  
   Outside in  
   *1 * (Verse)*  
-  ****C            Eb***                   (Verse)*  
+  ***C            Eb***                   (Verse)*  
   Vega         Capella Ha-  
   gar Rigel    Barnard's star  
   Antares Alde-baran Altair  
   Wolf 3 5 9   Betelgeuse  
-  ****F***                                 (1st bar of chorus)*  
+  ***F***                                 (1st bar of chorus)*  
   Sun sun sun sun  
-  ****Ab  Bb  F***                         (Chorus - fade out)*  
+  ***Ab  Bb  F***                         (Chorus - fade out)*  
   Sun sun sun sun  
   Sun sun sun sun  
   

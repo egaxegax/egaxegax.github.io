@@ -16,7 +16,7 @@ Carnival of sorts
   E-3-3-5-5-----5-5-3-3-3-5-5-5]  
   
   *Chorus*  
-    ****Bm  G   A***   (Walk back to the ***Bm***)*  
+    ***Bm  G   A***   (Walk back to the ***Bm***)*  
   [G-------------------  
   D-------------------  
   A-2-2----------5-3--  

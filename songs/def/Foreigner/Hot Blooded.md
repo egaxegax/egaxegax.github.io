@@ -1,7 +1,7 @@
 <!--2020-09-04 22:02:21-->
 Hot Blooded  
   
-  *The main riff is just ***Gsus4***, ***G***, ***C***, ***Csus4****  
+  *The main riff is just ***Gsus4***, ***G***, ***C***, ***Csus4***  
   *Intro and Chorus*  
      hot blooded     check it & see  
     ***Gsus4  G            C     Csus4***  
@@ -20,7 +20,7 @@ Hot Blooded
   D---0----0--0--------2--2----2---  
   A---X----X--2--------3--3----3---  
   E---3----3--3--------------------]  
-  *The verse is a nice simple power chord progression - ***G***,***F***,***C****  
+  *The verse is a nice simple power chord progression - ***G***,***F***,***C***  
       ***G             F        C        G***  
   [E--------------------------------------  
   B--------------------------5--5--------  

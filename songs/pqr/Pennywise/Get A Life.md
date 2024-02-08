@@ -3,7 +3,7 @@ Get A Life
   
   *INTRO: this is the main rythym that is played throughout*  
     *(note - ***E***=7th fret A string/ ***F#***=9th fret A string*  
-    ****Gii***=10th fret A string)*  
+    ***Gii***=10th fret A string)*  
   ***E  G-A D-E***  
      ***C-G D-E***  
      ***G D C B E***  

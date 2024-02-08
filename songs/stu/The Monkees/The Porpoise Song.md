@@ -5,7 +5,7 @@ The Porpoise Song
 Intro:  (organ and strings):  
   ***E       E7/D       A/C#       G***  
   / / / /   / / / /   / / / /   / / / /  
-  ****A        F#         B       Bmaj7*** (hold 4 bars)*  
+  ***A        F#         B       Bmaj7*** (hold 4 bars)*  
   / / / /   / / / /   / / / /   /  
   *(piano; acoustic gtr. enters 2nd bar):*  
   ***E***  
@@ -13,7 +13,7 @@ Intro:  (organ and strings):
   
   ***E   C        D                   A***  
 Verse 1: My, my the clock in the sky is pounding away  
-    ****E***               (organ fill: ***E A/E E7***(no3) ***A/E***)*  
+    ***E***               (organ fill: ***E A/E E7***(no3) ***A/E***)*  
   There's so much to say  
      ***E        C        D               A***  
   A face, a voice, an overdub has no choice  
@@ -25,7 +25,7 @@ Verse 1: My, my the clock in the sky is pounding away
   Crying    to the sky  
     ***E          E7/D        A/C#       D***  
   But the porpoise is laughing goodbye, goodbye  
-   ****G                     D*** (vocals imply ***Dsus2***)*  
+   ***G                     D*** (vocals imply ***Dsus2***)*  
   Goodbye, goodbye, goodbye  
   
 Break:  (bass, doubled w/strings)  
@@ -47,5 +47,5 @@ Verse 2: Clicks, clacks, riding the backs of giraffes for la
   
    ***G                     D***  
 Coda:  Goodbye, goodbye, goodbye  
-   ****G                    Bm***  (45 ends cold)*  
+   ***G                    Bm***  (45 ends cold)*  
   Goodbye, goodbye, goodbye

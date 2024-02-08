@@ -8,7 +8,7 @@ Intro:  [e||----7----||
   A||----7----||  
   E||----0----||]  
   
-  *(tacet)  ***E****  
+  *(tacet)  ***E***  
   Tomorrow night  
     ***A***  
   Will you remember what you said tonight?  

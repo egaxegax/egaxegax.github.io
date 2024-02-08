@@ -1,7 +1,7 @@
 <!--2020-09-06 07:20:30-->
 You're beautiful  
   
-  ****Eb+7/G***: [355343]*  
+  ***Eb+7/G***: [355343]*  
   
   ***Eb***  
   My life is brilliant.  

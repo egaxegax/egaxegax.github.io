@@ -32,11 +32,11 @@ Illegal Alien
   I don't trust anybody, least not around here  
   *(Chorus)*  
   *Lead in to bridge (the keyboard solo)*  
-  ****Bb*** (2 bars)  ***Ab***(2 bars)*  
+  ***Bb*** (2 bars)  ***Ab***(2 bars)*  
     An illegal alien, OK  
   *Bridge (background chords)  whole phrase x2*  
-  ****G***(no 3rd)  2 bars   ***G***(no 3)/***C***  2 bars  ***G***(no 3)/***Eb*** 1 bar*  
-  ****G***(no 3)/***D***  ***G***(no 3)/***F***  half bar each*  
+  ***G***(no 3rd)  2 bars   ***G***(no 3)/***C***  2 bars  ***G***(no 3)/***Eb*** 1 bar*  
+  ***G***(no 3)/***D***  ***G***(no 3)/***F***  half bar each*  
   ***D             G***  
   Consideration for your fellow man  
     ***C             D7sus4***  

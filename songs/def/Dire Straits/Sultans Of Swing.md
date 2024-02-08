@@ -31,7 +31,7 @@ Sultans Of Swing
   
 ----  
   
-  *key: ***Dm****  
+  *key: ***Dm***  
   *(single snare beat)*  
   ***Dm / C-C / Dm / C-C***  
   *Intro lead*  

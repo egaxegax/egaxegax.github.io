@@ -95,7 +95,7 @@ Chorus:  Cast out, buried in a hole.
   Destroyed  
     ***Ab    Eb***  
   Giving up the fight  
-     ****Ab         Bb       Eb*** (quick second of silence, first time only)*  
+     ***Ab         Bb       Eb*** (quick second of silence, first time only)*  
   I know I'm not all right  
   *(VERSE 2)*  
   ***Eb         Bb***  
@@ -115,7 +115,7 @@ Chorus:  Cast out, buried in a hole.
   ***Eb---------   C Bb      Ab------ } X4***  
   Finally throw in a last switch to a Bb before the bass and drums solo.  
   *(Chorus)*  
-  *End on ***Eb****  
+  *End on ***Eb***  
   
   *A quick note: this song was transcribed from the live performance at the '95*  
   *MTV Video Awards (the only reason to watch the show). I'm not sure it will be the same*  
@@ -136,16 +136,16 @@ Chorus:  Cast out, buried in a hole.
   *Chords notes:*  
   *Tune down 1/2 step below standard pitch*  
   *Chords:*  
-  ****A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
-  ****B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
-  ****C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
-  ****C#*** ([x466xx])*  
-  ****D***  ([x577xx])*  
-  ****D#*** ([x688xx])*  
-  ****E***  ([022xxx])*  
-  ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
+  ***A***  ([x133xx]) or ([688xxx])               (Is up to you to choose one of the*  
+  ***B***  ([x255xx]) or ([799xxx])                formations, the one you feel more*  
+  ***C***  ([x355xx]) or ([8-10-10-xxx])           comfortable with)*  
+  ***C#*** ([x466xx])*  
+  ***D***  ([x577xx])*  
+  ***D#*** ([x688xx])*  
+  ***E***  ([022xxx])*  
+  ***E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
     *that chord, but using only the ([0xxxxx])*  
-  ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
+  ***B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
 Intro:  ***E(type 2), C#, B, A***  
 Verse:  ***E(type 2), B*** (sometimes w/palm mute)  

@@ -44,7 +44,7 @@ My Name Is Jack
   And ..  
   Of the ..  
   
-  ****Bb       A         D*** (N.C.; drum fill)*  
+  ***Bb       A         D*** (N.C.; drum fill)*  
   / / / /  / / / /   /  
   
   *Verse 2:*  
@@ -90,7 +90,7 @@ My Name Is Jack
   And ..  
   Of the ..  
   
-  ****Cb       Bb        Eb*** (N.C.; drum fill)*  
+  ***Cb       Bb        Eb*** (N.C.; drum fill)*  
   / / / /  / / / /   /  
   
   *Partial verse (fades as chorus re-enters):*  

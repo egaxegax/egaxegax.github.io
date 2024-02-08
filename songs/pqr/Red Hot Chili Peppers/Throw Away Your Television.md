@@ -30,7 +30,7 @@ Throw Away Your Television
   A---------------------------------------  
   E---------------------------------------]  
   *repete riff2*  
-  *Chorus w/flanger: ***Am Em Am Em Am Em G F****  
+  *Chorus w/flanger: ***Am Em Am Em Am Em G F***  
   *riff2*  
   *solo:*  
   [e-----------------  
@@ -40,7 +40,7 @@ Throw Away Your Television
   A-----------------  
   E-----------------]  
   *chorus*  
-  *W/Step: ***Am Em Am Em Am Em G F****  
+  *W/Step: ***Am Em Am Em Am Em G F***  
   
 ----  
   

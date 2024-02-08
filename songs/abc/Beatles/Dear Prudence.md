@@ -85,7 +85,7 @@ BRIDGE:         ***D           Dsus4 �
   So let me see you smile again  
   Dear Prudence  won't you let me see you smile?  
   
-  *Repeat verse 1, repeat opening chords(including the first one) + ***D****  
+  *Repeat verse 1, repeat opening chords(including the first one) + ***D***  
   
 ----  
   

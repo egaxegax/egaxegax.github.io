@@ -4,7 +4,7 @@ All That She Wants
   *The intro goes something like:*  
   [E_5_8_5_8_5_5_10_5_10_5_5_8_5_8_5__(sax)___0_0_3_5_5]  
   *I haven't got a guitar in front of me so maybe I am not really accurate on the intro, but the chords are right:*  
-  ****A G*** (dunno how many times, listen to the song)*  
+  ***A G*** (dunno how many times, listen to the song)*  
   She leeds a lonely life - she leeds a lonely life  
   ***A***  
   When she woke up late in the morning light  

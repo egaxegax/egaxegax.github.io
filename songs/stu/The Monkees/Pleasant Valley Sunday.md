@@ -3,7 +3,7 @@ Pleasant Valley Sunday
   *(Gerry Goffin - Carole King)*  
   
 Intro:  two electric guitars (3X); acoustic guitar enters 2nd time:  
-    ****A             G/A***  (bass tacet during intro)*  
+    ***A             G/A***  (bass tacet during intro)*  
     v   v   v   v     v   v   v   v  
   [---|-----------------|-----------------  
   ---|-----------------|-----------------  

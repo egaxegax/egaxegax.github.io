@@ -36,8 +36,8 @@ Knockin' on Heaven's Door
   -3--------------------------------|--------------------------------------|]  
   *Song goes like this:*  
   *Intro:*  
-  *Twice with picking      ***G5 D C****  
-  *Twice just power chords ***G5 D C****  
+  *Twice with picking      ***G5 D C***  
+  *Twice just power chords ***G5 D C***  
   *Verse 1 (with picking)*  
   ***G5         D               Am***  
   Mamma take this badge from me  

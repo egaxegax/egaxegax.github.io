@@ -20,15 +20,15 @@ Spirit
   
   *This goes on throughout the first verse. When I play it, I usually just*  
   *play along with it like this (with a clean tone):*  
-  ****D*** (power chord)               ***B*** (power)*  
+  ***D*** (power chord)               ***B*** (power)*  
   Tonight I could be with you   Or waiting in the wings  
-  ****D*** (power)                           ***B*** (power)*  
+  ***D*** (power)                           ***B*** (power)*  
   Lift your heart with soaring song   Cut down the puppet strings  
-  ****G*** (major)                          ***G*** (major)*  
+  ***G*** (major)                          ***G*** (major)*  
   Cut down the puppet strings  
   *I really don't know if there *is* guitar here. If so, its not very*  
   *prominant. Anyway, I'm pretty sure all the instruments go*  
-  ****D B D B G G*** for the verses....*  
+  ***D B D B G G*** for the verses....*  
   *In the break before the third verse, the synth goes:*  
   [-----------------------------------------------------  
   -----------------------------------------------------  

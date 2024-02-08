@@ -26,13 +26,13 @@ Knock Me Down
   Too much for me, too much for you  
     ***A5       Bb***  
   You~re gonna lose in time  
-  ***Em7      Bm7       Am7****  
+  ***Em7      Bm7       Am7***  
   Don~t be afraid to show your friends  
     ***Em7    D       C***  
   That you hurt inside, inside  
   ***Em7            Bm7***  
   Pain~s part of life  
-    ***Am7****  
+    ***Am7***  
   Don~t hide behind your false pride  
     ***B5       C***  
   It~s a lie, you lie  
@@ -61,11 +61,11 @@ Knock Me Down
   I~m part of you and you~re part of me  
     ***A5  Bb***  
   Why did you go away  
-  ***Em7          Bm7            Am7****  
+  ***Em7          Bm7            Am7***  
   Finding what you~re looking for can end up  
   ***C#m7  G#m7   F#m7***  
   Being such a bore  
-  ***Em7        Bm7      Am7****  
+  ***Em7        Bm7      Am7***  
   I pray for you most everyday, I pray for you  
   ***C#m7 G#m7  F#m7***  
   Now  fly  away  
@@ -91,7 +91,7 @@ Knock Me Down
   *[A -5p0-7---] a power chord on it and therefore from that note the guitar*  
   *[E -------6-] plays a series of chords that go:*  
   ***Bb5   G5  G5/Bb5   F5    C5    Bb5***  
-  *Cool solo part:   ***A5   F    A5    F    G5    F     A****  
+  *Cool solo part:   ***A5   F    A5    F    G5    F     A***  
   *all I just did here was to write down the rhythm chords, I have and will not*  
   *do the solo (as little as it may seem). If you listen to the album, you can*  
   *figure out how these chords come in. The ***G5/Bb5*** part is when the guitar*  
@@ -169,7 +169,7 @@ Knock Me Down
   ***C    [x  3  5  5  5  x]***  
   ***Bb   [x  1  3  3  3  x]***  
   ***A5   [5  7  7  x  x  x]***  
-  ****Em7***  [0  2  2  4  3  3]  &lt;-- a very weird way to play the ***Em7*** chord*  
+  ***Em7***  [0  2  2  4  3  3]  &lt;-- a very weird way to play the ***Em7*** chord*  
   ***Bm7  [x  2  4  2  3  2]***  
   ***Am7* [x  0  2  0  1  0]***  
   ***D    [x  x  0  2  3  2]***  

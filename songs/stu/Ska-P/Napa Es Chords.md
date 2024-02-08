@@ -4,7 +4,7 @@ Napa Es Chords
   *Intro:*  
   *Bass starts*  
   *(Slow Ska Beat) ***Bm G F#*** (2x)*  
-  ****Bm G F#*** (4x) ("Hablo de Espana... del honor")*  
+  ***Bm G F#*** (4x) ("Hablo de Espana... del honor")*  
   
   *Verse:*  
   *(Fast Ska Beat) ***Bm G F#*** (8x) ("Esta es... y demas")*  

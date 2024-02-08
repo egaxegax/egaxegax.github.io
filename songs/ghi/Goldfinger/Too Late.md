@@ -132,7 +132,7 @@ Bridge:  [E--------------------
   A----8---3---7---8---  
   E------------5---6---]  
       ***Fii  C   A   Bb***  
-  *(*one guitar plays these chords, the other plays ***Fii*** until the ***Bb Bb Bb****  
+  *(*one guitar plays these chords, the other plays ***Fii*** until the ***Bb Bb Bb***  
   *part).*  
   ***Fii           C           A             Bb   Fii         C***  
   If I could forgive myself, you knew the way. Now I'm all by  

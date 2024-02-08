@@ -9,7 +9,7 @@ Angel Child
   *2. At the end of each line in the verse (after the ***Dsus2*** chord is*  
   *played, there is a sliding up sound. This is where the ***Dsus2*** shape*  
   *is slid up two frets, then two notes are picked (***A***, then ***G*** on the*  
-  ****G*** string) before returning to the ***Am*** chord, i.e.*  
+  ***G*** string) before returning to the ***Am*** chord, i.e.*  
      ***Dsus2         Am***  
   [----0------------0-----------------  
   ----3/5----------1-----------------  
@@ -22,7 +22,7 @@ Angel Child
   *In the first chorus the picking pattern is shorter than in the subsequent*  
   *choruses. I.e. initially the chords are ***Dsus2*** and then ***Dsus2***/***Ab***. In a later*  
   *chorus, the descending pattern goes a stage further, i.e. ***Dsus2***, ***Dsus2***/***Ab***,*  
-  ****Dsus2***/***G***.*  
+  ***Dsus2***/***G***.*  
   *4. The tab for this picking pattern is something like the following:*  
      ***Dsus2             Dsus2/Ab         Dsus2/G***  
   [--------0---0------------0---0------------0---0---------  

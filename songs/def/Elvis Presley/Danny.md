@@ -3,7 +3,7 @@ Danny
   
   ***F     Bb7   F       C7***  
   Danny is my name oh yes  
-  *(Tacet)           ***F****  
+  *(Tacet)           ***F***  
   My name should be trouble  
   ***A7                Dm***  
   My name should be woe  
@@ -11,7 +11,7 @@ Danny
   For trouble and heartache  
   ***C7            F***  
   Is all that I know  
-      ****C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F****  
+      ***C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F***  
   But Danny, yes,    Danny is my   name, oh, yes  
   ***C7               F***  
   My life has been empty  
@@ -21,7 +21,7 @@ Danny
   It must have been raining  
   ***C7              F***  
   The night I was born  
-     ****C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F****  
+     ***C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F***  
   Oh Danny, yes     Danny is my   name, oh, yes  
       ***C7***  
   I'm so afraid of tomorrow  
@@ -29,7 +29,7 @@ Danny
   So tired of today  
     ***E7***  
   They say that love is the answer  
-      ****Am         G7      C7***  (Tacet)*  
+      ***Am         G7      C7***  (Tacet)*  
   But love never came my way  
     ***F***  
   I'm writing a letter  
@@ -39,5 +39,5 @@ Danny
   So if you should find it  
   ***C7             F***  
   And if you're alone  
-    ****C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F****  
+    ***C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F***  
   Well Danny, yes,    Danny is my   name, oh, yes

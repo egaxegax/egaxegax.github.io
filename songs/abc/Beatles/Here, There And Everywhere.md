@@ -19,7 +19,7 @@ Here, There And Everywhere
   Someone is speaking, but she doesn't know he's there.  
   
 Chorus:  } 2 раза  
-    ****F7       Bb***("***E***" bar chord)  ***Gm****  
+    ***F7       Bb***("***E***" bar chord)  ***Gm***  
   I want her everywhere  
     ***Cm              D7            Gm***  
   And if she's beside me I know I need never care.  
@@ -29,7 +29,7 @@ Chorus:  } 2 раза
   Knowing that love is to share,  
   ***Bm           C          F#m7       B7***  
   Each one believing that love never dies  
-  ****F#m7         B7        Em         Am            Am7 D7*** (1st time through)*  
+  ***F#m7         B7        Em         Am            Am7 D7*** (1st time through)*  
   Watching her eyes, and hoping I'm always there.     ***D7sus4*** (2nd time thru)  
   
     ***G     Am      Bm       C***  

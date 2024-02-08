@@ -29,7 +29,7 @@
   You want the other half again (back to the main riff)  
   *(This middle section gets kind of complicated, but here are the*  
   *chords from the book)*  
-  ****A  C  G  E  F  A  D***  (2x)  ***A  E***  (main riff 8x)*  
+  ***A  C  G  E  F  A  D***  (2x)  ***A  E***  (main riff 8x)*  
     ***D      F***  
   Don't look at me as though I'm not here  
     ***D   F***  

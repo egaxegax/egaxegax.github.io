@@ -2,7 +2,7 @@
 "The Visitors" (1981)  
   Head Over Heels  
   
-  *(Capo 4) ***Am****  
+  *(Capo 4) ***Am***  
   ***Am Dm G C Am F E7 Am E7 Am Am***  
   ***Am       E7        E7-9***  
   I have a very good friend  
@@ -74,4 +74,4 @@
     ***F       Am.***  
   Head over heels  
   
-  ****E7-9*** = [020101]*
+  ***E7-9*** = [020101]*

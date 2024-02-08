@@ -2,7 +2,7 @@
 Let It Ride  
   
   The intro/chorus goes:  
-  ****D     A     E     F#m*** (--&gt;***E***)  ***Bm7  Bm/D   F#(m)***  
+  ***D     A     E     F#m*** (--&gt;***E***)  ***Bm7  Bm/D   F#(m)***  
   
   *The voicings which I use (now bear in mind that I figured this out from*  
   *the memory playing along with the radio once, so these*  
@@ -31,7 +31,7 @@ Let It Ride
   
   *right before the chorus it goes*  
   
-  ****F#m*** (2nd fret barre chord)    ***E*** (open)*  
+  ***F#m*** (2nd fret barre chord)    ***E*** (open)*  
   
   *Actually my band and I are thinking about doing an acoustic version of*  
   *this song at an upcoming concert-I've really been*  

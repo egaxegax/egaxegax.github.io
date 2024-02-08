@@ -4,7 +4,7 @@
   
   *This an original hanson song off the christmas album, hope it gets accepted!*  
   
-  *Chords:    ***G     C    D    Em    D1****  
+  *Chords:    ***G     C    D    Em    D1***  
   [E          3     0    2     0     0  
   B          0     1    3     0     3  
   G          0     0    2     0     2  

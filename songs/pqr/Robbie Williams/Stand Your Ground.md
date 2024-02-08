@@ -8,39 +8,39 @@ Stand Your Ground
   ***Bb*  [x10030]***  
   ***Em*  [022030]***  
   
-  ***Dm*        C****  
+  ***Dm*        C***  
   Stand your ground  
-    ***Hm*  Bb****  
+    ***Hm*  Bb***  
   You're big enough  
-  ***Dm*        C****  
+  ***Dm*        C***  
   Stand your ground  
-      ***Hm*      Bb****  
+      ***Hm*      Bb***  
   You know too much  
-  ***A                 Em   Em****  
+  ***A                 Em   Em***  
   Today drifts into tomorrow  
     ***A                    G  A***  
   And you can almost taste the sorrow  
-  ***Dm*        C****  
+  ***Dm*        C***  
   Stand your ground  
-    ***Hm*  C****  
+    ***Hm*  C***  
   You've had enough  
-  ***Dm*        C****  
+  ***Dm*        C***  
   Lost and found  
-    ***Hm*     Bb****  
+    ***Hm*     Bb***  
   Diamond in the rock  
-  ***A                 Em   Em****  
+  ***A                 Em   Em***  
   Today drifts into tomorrow  
       ***A                     G  A***  
   You feel your souls' been borrowed  
   ***Bb                 C*  D/F#m F  Bb      C***  
   Oooh oooh oooh ooh oooh ooooooh ooooooh oooh  
-  ***Dm*        C****  
+  ***Dm*        C***  
   Stand your ground  
-    ***Hm*  Bb****  
+    ***Hm*  Bb***  
   The water's deep  
-  ***Dm*        C*  Hm*          Bb****  
+  ***Dm*        C*  Hm*          Bb***  
   Feel the sand beneath your feet  
-  ***A                        Em Em****  
+  ***A                        Em Em***  
   I know your prayers seem hollow  
     ***A         G-A***  
   But when you talk they follow  

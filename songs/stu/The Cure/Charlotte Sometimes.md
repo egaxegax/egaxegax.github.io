@@ -11,7 +11,7 @@ Charlotte Sometimes
   The light is bright and glares on white walls  
   ***Dm      F         C             A***  
   All the sounds of Charlotte Sometimes  
-  ****F                    A****  ( &lt;- this may be a ***C***, Can't remember)*  
+  ***F                    A***  ( &lt;- this may be a ***C***, Can't remember)*  
   People seem so close playing expressionless games  
   ***F                       G***  
   People seem so close so many different names  

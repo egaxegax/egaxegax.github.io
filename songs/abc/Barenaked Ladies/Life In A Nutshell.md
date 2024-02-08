@@ -58,7 +58,7 @@ Bridge:  I fell down     with no one to catch me f
   
 INTRO:  ***F F  A A#*** } four times  
   
-  ****F      C***(open) ***Am         A#***  
+  ***F      C***(open) ***Am         A#***  
   When she was three, her barbies always did it on the first date  
   ***F        C   A       A#***  
   Now she's with me, There's never any need for them to demonstrate  
@@ -68,11 +68,11 @@ INTRO:  ***F F  A A#*** } four times
   When we are happy we both get fat  
   ***F    C       A   A#***  
   And still, its never enough, its never enough, its never enough  
-  ****F C***(open)  ***F  Bb        F****  
+  ***F C***(open)  ***F  Bb        F***  
   I dont tend to worry about the things that other people say  
-    ****C***(open)  ***F  Bb  F****  
+    ***C***(open)  ***F  Bb  F***  
   And Im learning that i wouldnt want it any other way  
-    ****C***(open)      ***F  Bb****  
+    ***C***(open)      ***F  Bb***  
   Call me crazy but it really doesn't matter  
     ***A#  Am***  
   All that matters to me is she  

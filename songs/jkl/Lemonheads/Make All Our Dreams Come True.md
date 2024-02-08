@@ -33,5 +33,5 @@ Make All Our Dreams Come True
   We'll do it our way, yeah, our way  
   ***Em           C                      D***  
   Make all our dreeeeeeaaaams coooome trueeee  
-    ****C***   (bass line ***C***-***B***-***A***-***G***) ***G****  
+    ***C***   (bass line ***C***-***B***-***A***-***G***) ***G***  
   For me and you

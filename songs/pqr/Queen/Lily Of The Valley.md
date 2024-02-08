@@ -35,15 +35,15 @@ Sheer Heart Attack 1974
   Wars will never cease, is there time enough for peace?  
   The lily of the valley doesn't know  
   
-  *Extro:    ***Am    G***|***C****  
+  *Extro:    ***Am    G***|***C***  
   *(beats)   / / / / / (hold)*  
   
   *Strange chords:*  
-  ****Dm7*** = [xx0211]*  
-  ****C#dim*** = [xx1212]*  
-  ****A7/C#*** = [x42020]*  
-  ****Am7*** = [x02213]*  
-  ****C/E*** = [xx2010]*  
+  ***Dm7*** = [xx0211]*  
+  ***C#dim*** = [xx1212]*  
+  ***A7/C#*** = [x42020]*  
+  ***Am7*** = [x02213]*  
+  ***C/E*** = [xx2010]*  
   
   *Also, I prefer playing ***C*** and ***G*** as [332010] and [320033] respectively,*  
   *but I don't know that it matters much.*  

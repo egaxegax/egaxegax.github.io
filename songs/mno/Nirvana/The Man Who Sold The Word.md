@@ -8,7 +8,7 @@ MTV Unplugged In New York (1994)
   *Tune guitar down 1/2 step.*  
   
   ***C***  - [33555x]  
-  ****C#*** - [44555x] - I think it's called a ***C#*** anyways :)*  
+  ***C#*** - [44555x] - I think it's called a ***C#*** anyways :)*  
   ***A***  - [00222x]  
   ***D***  - [xx023x]  
   ***F***  - [133211]  

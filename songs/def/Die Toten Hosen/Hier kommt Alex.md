@@ -65,7 +65,7 @@ Hier kommt Alex
   |-5--5--5--5--5--5---5--5--|-5--5--5--5--5--5---5--5--|  
   |-3--3--3--3--3--3---3--3--|-3--3--3--3--3--3---3--3--|  
   
-  *Chorus: ***Dm*** / ***Bb*** / ***G*** / ***C****  
+  *Chorus: ***Dm*** / ***Bb*** / ***G*** / ***C***  
   *the way you have to play it is the same as the verse but*  
   *notice that the ***G*** chord and the ***C*** chord are inversed.*  
   

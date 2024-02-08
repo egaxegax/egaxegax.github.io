@@ -1,10 +1,10 @@
 <!--2020-09-07 08:25:54-->
 Do kanns zaubre  
   
-  ****A7/4***  base-fret 1 frets [x 0 0 0 2 0]*  
-  ****A9/C#*** base-fret 1 frets [3 2 2 2 2 0]*  
-  ****Em7/9*** base-fret 1 frets [2 2 0 1 0 0]*  
-  ****Em9***   base-fret 1 frets [0 2 0 0 3 2]*  
+  ***A7/4***  base-fret 1 frets [x 0 0 0 2 0]*  
+  ***A9/C#*** base-fret 1 frets [3 2 2 2 2 0]*  
+  ***Em7/9*** base-fret 1 frets [2 2 0 1 0 0]*  
+  ***Em9***   base-fret 1 frets [0 2 0 0 3 2]*  
   
   ***D***E wieЯ Blatt Pa***Gmaj7***pier, ne Bleisteff, ***Em9***Jedanke bei ***A7***dir, setz ich  
   ***D***Ahm Finster un ***Gmaj7***hьhr, wat sich ***Em9***avvspillt vььr der ***A7***Dььr, bess ich  

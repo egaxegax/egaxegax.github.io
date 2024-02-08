@@ -1,7 +1,7 @@
 <!--2020-09-06 00:50:48-->
 Don't Cry No Tears  
   
-  *“Riff” is: ***A A9 A A9 A***(i.e. just hammer a ***B*** on the ***G*** string from the open ***A****  
+  *“Riff” is: ***A A9 A A9 A***(i.e. just hammer a ***B*** on the ***G*** string from the open ***A***  
   *chord - occasionally even hammer an ***E*** on the ***B*** string for further effect)*  
     ***A        D                  Riff            A        D***  
     *Riff*  
@@ -17,7 +17,7 @@ Don't Cry No Tears
   But there’s nothing I can say to make him go away.  
   Old true love ain’t too hard to see.  
   Don’t cry no tears around me.  
-  *Guitar solo over ***A/D/Riff****  
+  *Guitar solo over ***A/D/Riff***  
     ***A/D/Riff***  
   But there’s nothing I can say to make him go away.  
   Old true love ain’t too hard to see.  
@@ -25,4 +25,4 @@ Don't Cry No Tears
   Don’t cry no tears around me.  
     ***D      E                Riff***  
   Don’t cry no tears around me.  
-  **The ***F#m(sus4)*** is just the same hammer, from the ***F#m****
+  **The ***F#m(sus4)*** is just the same hammer, from the ***F#m***

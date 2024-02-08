@@ -8,13 +8,13 @@ This is a Call
   *Eb Ab Db Gb Bb Eb*  
   
   *Chords used in this song:             In parts of this song, there are*  
-  ****F***   - [xx3211]    ***G5***  - [355xxx]          two chords played together. With*  
-  ****Ab***  - [xx6544]    ***Bb5*** - [688xxx]          two guitarists, it is best for each*  
-  ****F5***  - [133xxx]    ***A5***  - [577xxx]          to play one of the chords. If you*  
-  ****Ab5*** - [466xxx]    ***Eb5*** - [x688xx]          are in a one guitar band or just by*  
-  ****G***   - [xx5433]    ***C5***  - [x355xx]          yourself combine the chords and play*  
-  ****Bb***  - [xx8766]    ***Ab5*** (root) - [066xxx]   the full bar-chord, strumming the*  
-  ****A***   - [xx7655]                          whole guitar.*  
+  ***F***   - [xx3211]    ***G5***  - [355xxx]          two chords played together. With*  
+  ***Ab***  - [xx6544]    ***Bb5*** - [688xxx]          two guitarists, it is best for each*  
+  ***F5***  - [133xxx]    ***A5***  - [577xxx]          to play one of the chords. If you*  
+  ***Ab5*** - [466xxx]    ***Eb5*** - [x688xx]          are in a one guitar band or just by*  
+  ***G***   - [xx5433]    ***C5***  - [x355xx]          yourself combine the chords and play*  
+  ***Bb***  - [xx8766]    ***Ab5*** (root) - [066xxx]   the full bar-chord, strumming the*  
+  ***A***   - [xx7655]                          whole guitar.*  
   *__________________________________________________________________________*  
   *Sound of plugging in Guitar*  
   *Intro:*  

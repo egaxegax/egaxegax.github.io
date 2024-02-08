@@ -1,7 +1,7 @@
 <!--2020-09-05 14:15:42-->
 Favorite T  
   
-  *Verse chord progression: ***Am - Dm - C - C - F - Dm - Em - G****  
+  *Verse chord progression: ***Am - Dm - C - C - F - Dm - Em - G***  
   
   ***Am                       Dm***  
   I thought we had an understanding there  
@@ -24,7 +24,7 @@ Favorite T
   *chord 1: [006460] ([e-E])*  
   *chord 2: [0064x6]*  
   *chord 3: [0042x4]*  
-  *chord 4: ***E****  
+  *chord 4: ***E***  
   *chord 5: [004422]*  
   *chord 6: [008866]*  
   *chord 7: [006644]*  
@@ -66,5 +66,5 @@ Favorite T
   I got it on  
   Your favourite tee  
   I used to wear it every day...  
-  *(last part of the chorus: after strange chord 5, pick the strings of an ***E9****  
+  *(last part of the chorus: after strange chord 5, pick the strings of an ***E9***  
   *(?) chord - [001420], that is)*

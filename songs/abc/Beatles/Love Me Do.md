@@ -123,7 +123,7 @@ figure 1: [E--12h13--11h12--9h10-----------------------
 Chords used: ***C***  [x32010]  
   ***D***  [xx0232]  
   ***G***  [320033]  
-  ****NC*** = no chord*  
+  ***NC*** = no chord*  
   
   *Now that you have mastered that,*  
   *try this if you have nothing else to do*  

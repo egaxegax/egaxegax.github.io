@@ -2,8 +2,8 @@
 New Rose  
   
   *Tab Notation*  
-  *A/B Play chord ***A*** slide up to chord ***B****  
-  *A\B Play chord ***A*** slide down to chord ***B****  
+  *A/B Play chord ***A*** slide up to chord ***B***  
+  *A\B Play chord ***A*** slide down to chord ***B***  
   *19B/\/\ Strike note then bend up and down several times*  
   *X Muted string*  
   *Is she really going out with him*  
@@ -89,7 +89,7 @@ New Rose
   a-----------------------------------------  
   e-----------------------------------------]  
   
-  ****B***                             Repeat 2x----------)*  
+  ***B***                             Repeat 2x----------)*  
   I never serve sombody in the same  
   [pe---------------------------------  
   b------------------------------17B(17)-15-17-15-17-15  

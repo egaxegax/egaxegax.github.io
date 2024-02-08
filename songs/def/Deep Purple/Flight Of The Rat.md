@@ -3,7 +3,7 @@
   Flight Of The Rat  
   *(Blackmore/Gillian/Glover/Lord/Paice)*  
   
-  ****A          A        A      A G D*** Chord Progression 1 (CP1)*  
+  ***A          A        A      A G D*** Chord Progression 1 (CP1)*  
   Spread the word around  
   ***A          A        A      A G D***  
   The rat is leaving town  
@@ -16,7 +16,7 @@
   To sing before the queen  
   She didn't want to know  
   She wouldn't see the show  
-  ****E     E    E     E   D   A***     Chord Prograssion 2 (CP2)*  
+  ***E     E    E     E   D   A***     Chord Prograssion 2 (CP2)*  
     What a fright  
   ***E     E    E     E       D     A***  
     I couldn't do it right  
@@ -44,7 +44,7 @@ Riff A:  [e---------------------------------------------------------------
   I blew my mind  
   She was so kind  
   I could have cried  
-  ****B  B  B     B A G#***     Chord Progression 3 (CP3)*  
+  ***B  B  B     B A G#***     Chord Progression 3 (CP3)*  
   In my mind  
   ***B  B      B     B A G#***  
   I had to find  

@@ -28,7 +28,7 @@ Motherless Child
 Intro:  ***B B B***  
   *(add 1/2 a ***B***)*  
   
-     ****B***     (this time only) ***E7    E7                 B  B  B****  
+     ***B***     (this time only) ***E7    E7                 B  B  B***  
   If I mistreat you girl,   I sure don't mean no harm  
     ***B              E7    E7                 B  B  B***  
   If I mistreat you girl,   I sure don't mean no harm  

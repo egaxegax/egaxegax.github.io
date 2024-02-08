@@ -112,7 +112,7 @@
   A ---2----5----2-------------------------------------|  
   E ---------------------------------------------------|]  
       ***B5   D5   Em***  
-  ****B5***, ***D5*** and ***Em*** should be played such that they are slightly arpeggiated.*  
+  ***B5***, ***D5*** and ***Em*** should be played such that they are slightly arpeggiated.*  
   *I believe there is also an acoustic guitar very low in the mix, its quite difficult to hear*  
   *as it blends in with the percussion, what its likely to be playing are the chord indicated below.*  
   *Verse Chords*  
@@ -137,7 +137,7 @@
   Where we propagate confusion  
   Primitive and wild  
   Fire on the hemisphere below  
-  *Break:  (***Fmaj7    Em***    (x2))  ***G D****  
+  *Break:  (***Fmaj7    Em***    (x2))  ***G D***  
   Sugar cane and coffee cup  
   Copper steel and cattle  
   An annotated history the forest for the fire  

@@ -5,17 +5,17 @@ The Masterplan (1998)
   *Chords used:*  
     [EADGBe]  
   ***Em7 [022030]***  
-  ****Em2***  [022033] used in chorus only*  
+  ***Em2***  [022033] used in chorus only*  
   ***A7sus4  [x02030]***  
   ***Cadd9  [x32030]***  
   ***C9   [x32330]***  
-  ****C2*** [x32022] used in chorus only*  
+  ***C2*** [x32022] used in chorus only*  
   ***G    [3x0033]***  
   ***B/G  [x20033]***  
   ***Dsus4 [xx0233]***  
   
   *Intro*  
-  ****Em7*** (strum once)    ***Em7  A7sus4   C9   G   A7sus4   Cadd9****  
+  ***Em7*** (strum once)    ***Em7  A7sus4   C9   G   A7sus4   Cadd9***  
   
   *Verse*  
   ***Em7***  

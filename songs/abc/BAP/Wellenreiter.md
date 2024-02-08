@@ -1,7 +1,7 @@
 <!--2020-09-05 12:34:00-->
 Wellenreiter  
   
-  ****Hm*** base-fret 1 frets [2 2 4 4 3 2]*  
+  ***Hm*** base-fret 1 frets [2 2 4 4 3 2]*  
   
   ***D***N'abend Wellen***F#m7***reiter, saach wie ***Hm***jeht et dir?***A***  
   ***G***Hцchstens ald ens zweiter oder ***D***dritter  

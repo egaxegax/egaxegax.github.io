@@ -89,7 +89,7 @@ Intro:  ***D  Bm  F#m A7***
   The people on the streets came runnin' in to join in song  
   Just to hear the opera singer singin' rock & roll so pure,  
   I thought I saw the mayor there but I wasn't really sure,  
-    ****D Bm F#m A7  DDDDDDDDD***.8-)*  
+    ***D Bm F#m A7  DDDDDDDDD***.8-)*  
   But it's alright.  
   
 ----  

@@ -3,7 +3,7 @@ Free Me
   *(Hensley)*  
   
   *First look here and to play these marked chords in the song:*  
-     ****C****:         ***G****:*  
+     ***C***:         ***G***:*  
   [E|-------------------------|  
   B|----1------------1-------|  
   G|---0------------0--------|  
