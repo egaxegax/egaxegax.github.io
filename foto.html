@@ -36,7 +36,7 @@
 <table id="footer" class="main"><tr>
 <td align="center"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
 <td><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Source</a></td>
-<td class="smaller">2011-24</td></tr>
+<td class="smaller">2014-24</td></tr>
 </table>
 </div>
 <script>
@@ -114,7 +114,7 @@
         // skip ya.ru search
       }else if(pp.length>1){ // ?alb/foto
         FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
-        if(FOTOS.length) document.title = SUBJ[FOTOS[0][0]][0] +', '+ FOTOS[0][2] +' - '+ document.title;
+        if(FOTOS.length) document.title = FOTOS[0][2] +', '+ SUBJ[FOTOS[0][0]][0] +' - '+ document.title;
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
       }else if(pp.length>0){ // ?alb
         FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });

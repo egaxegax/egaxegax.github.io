@@ -12,3 +12,4 @@ input[type=text], input[type=password], input[type=number], textarea, select {
   background-color:#404040; color:#fff; }
 #header { background-color:#222; }
 #albumlist { color: #ffbc00; }
+#page_footer button { background:#fff; }

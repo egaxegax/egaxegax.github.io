@@ -5,13 +5,15 @@
 .counter { color:#3fa969; }
 .chords strong em { color:#31708f; }
 .chord div { color:#4d3ca0; display:inline-block; }
+body { background-color:#f5f5f5; color:#333; }
 a, a:active, a:focus { color:#31708f; }
 b,i,em { color: #777; }
 b em { color: #31708f; }
 h3 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
-  background-color:#fff; color:#333; }
-#root { background:#eee; color:#333; }
+  background-color:#fff; }
+#root { background:#eee; }
+#header { background-color:#d2e0f0; }
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 img.av { width:50px; height:auto; }
