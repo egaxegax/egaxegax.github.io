@@ -171,8 +171,10 @@
         if(BOOKS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<p class="mtext hspace">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></p>';
-          document.title = SUBJ[BOOKS[0][0]][0] + ', книги, тексты - ' + document.title;
+        '<p class="mtext hspace">'+
+          '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></p>';
+          document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
         PAGE.per = 10;
       }else if(pp.length>1){ // ?wrt/book
@@ -180,7 +182,8 @@
         if(BOOKS.length){
           PAGE.view = 'book';
           page_header = 
-        '<p>'+
+        '<p class="hspace">'+
+          '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
           '<h2 class="nomarg nopad grid">'+
             '<a class="nodecor hspace" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<span class="hspace">'+BOOKS[0][2]+'</span>'+
@@ -199,7 +202,8 @@
         if(BOOKS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<p>'+
+        '<p class="hspace">'+
+          '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
           '<h2 class="nomarg nopad">'+
             '<a class="nodecor hspace" href="'+
               (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
@@ -209,10 +213,10 @@
           '</h2>'+
         '</p>';
           if(gnr.length>0){
-            document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ', книги, тексты - ' + document.title;
+            document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;
           }
           if(wrt.length>0){
-            document.title = SUBJ[BOOKS[0][0]][0] + ', книги, тексты - ' + document.title;
+            document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
             BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
           }
         }
