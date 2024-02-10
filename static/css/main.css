@@ -26,6 +26,7 @@
 .rfloat { float:right; text-align:right; }
 .cfloat { text-align:center; }
 .vtop { vertical-align:top; }
+.vmid { vertical-align:middle; }
 .scroll { display:block; overflow:auto; white-space:nowrap; }
 .smaller { font-size:smaller; }
 .small { font-size:small; }
