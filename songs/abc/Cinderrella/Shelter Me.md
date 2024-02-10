@@ -52,7 +52,7 @@ For some its the needle for some its the kill
 some people wave the bible cause its givin them a thrill  
     ***C                           G***  
 you can spend your money before you get your pay  
-    ***D**  
+    ***D***  
 with a toss of the dice you can piss it all away  
   
-**Tabbed by Chaz Bitner, crbitner@hotmail.com.**
+*Tabbed by Chaz Bitner, crbitner@hotmail.com.*
