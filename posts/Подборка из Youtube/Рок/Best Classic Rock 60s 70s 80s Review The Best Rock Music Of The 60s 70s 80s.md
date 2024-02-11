@@ -4,7 +4,7 @@
   <img class="preview" src="https://i.ytimg.com/vi/jdyexs-1v8s/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" src="https://www.youtube.com/embed/jdyexs-1v8s"
+<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/jdyexs-1v8s"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
 </iframe>

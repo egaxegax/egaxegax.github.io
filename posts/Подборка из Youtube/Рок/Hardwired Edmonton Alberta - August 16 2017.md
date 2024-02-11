@@ -4,7 +4,7 @@
   <img class="preview" src="https://i.ytimg.com/vi/fanC-va8eSU/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" src="https://www.youtube.com/embed/fanC-va8eSU"
+<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/fanC-va8eSU"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
 </iframe>

@@ -67,7 +67,7 @@ for root, dirs, files in os.walk(path, topdown=False):
   <img class="preview" src="{imurl}" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" src="https://www.youtube.com/embed/{videoid}"
+<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/{videoid}"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
 </iframe>

@@ -4,7 +4,7 @@
   <img class="preview" src="https://i.ytimg.com/vi/LViRUM_pPX8/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" src="https://www.youtube.com/embed/LViRUM_pPX8"
+<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/LViRUM_pPX8"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
 </iframe>

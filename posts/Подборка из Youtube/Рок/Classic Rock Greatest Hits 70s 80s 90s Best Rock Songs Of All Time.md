@@ -4,7 +4,7 @@
   <img class="preview" src="https://i.ytimg.com/vi/qE9_KjxU_lk/hqdefault.jpg" align="middle" alt="">
 </a>
 &nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" src="https://www.youtube.com/embed/qE9_KjxU_lk"
+<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/qE9_KjxU_lk"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
 </iframe>
