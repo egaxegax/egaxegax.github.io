@@ -1,15 +1,10 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/rock_music_best_of_rock_music_70s_80s_and_90s target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/IcaD3mRLG-c/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/IcaD3mRLG-c"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=IcaD3mRLG-c" target="_blank">Rock Music | Best Of Rock Music 70s 80s and 90s</a><br>
-  <i class="smaller2">Classic Rock Music</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/rock_music_best_of_rock_music_70s_80s_and_90s">
+    <img class="preview" data-videoid="IcaD3mRLG-c" src="https://i.ytimg.com/vi/IcaD3mRLG-c/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=IcaD3mRLG-c">Rock Music | Best Of Rock Music 70s 80s and 90s</a><br>
+    <i class="smaller2">Classic Rock Music</i>
+  </div>
 </div>

@@ -1,15 +1,10 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/ugly_kid_joe_-_everything_about_you target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/tWF77FP2UW8/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/tWF77FP2UW8"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=tWF77FP2UW8" target="_blank">UGLY KID JOE - Everything About You</a><br>
-  <i class="smaller2">MixedUpEverything</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/ugly_kid_joe_-_everything_about_you">
+    <img class="preview" data-videoid="tWF77FP2UW8" src="https://i.ytimg.com/vi/tWF77FP2UW8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=tWF77FP2UW8">UGLY KID JOE - Everything About You</a><br>
+    <i class="smaller2">MixedUpEverything</i>
+  </div>
 </div>

@@ -1,15 +1,10 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?russkij_rok/gruppa_sekret_-_leningradskoe_vremya_official_video target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/a7OjPsLBXvw/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/a7OjPsLBXvw"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=a7OjPsLBXvw" target="_blank">Группа "Секрет" - Ленинградское время (Official...</a><br>
-  <i class="smaller2">Бит-квартет "Секрет"</i>
-</div>
+  <a class="nodecor" href="/posts.html?russkij_rok/gruppa_sekret_-_leningradskoe_vremya_official_video">
+    <img class="preview" data-videoid="a7OjPsLBXvw" src="https://i.ytimg.com/vi/a7OjPsLBXvw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=a7OjPsLBXvw">Группа "Секрет" - Ленинградское время (Official...</a><br>
+    <i class="smaller2">Бит-квартет "Секрет"</i>
+  </div>
 </div>

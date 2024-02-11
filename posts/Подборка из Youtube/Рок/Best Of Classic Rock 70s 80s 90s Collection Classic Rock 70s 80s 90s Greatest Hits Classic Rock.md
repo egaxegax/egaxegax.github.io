@@ -1,15 +1,10 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/best_of_classic_rock_70s_80s_90s_collection_classic_rock_70s_80s_90s_greatest_hits_classic_rock target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/aE_7UiC5p4I/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/aE_7UiC5p4I"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=aE_7UiC5p4I" target="_blank">Best Of Classic Rock 70s 80s 90s Collection |...</a><br>
-  <i class="smaller2">Classic Rock Music</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/best_of_classic_rock_70s_80s_90s_collection_classic_rock_70s_80s_90s_greatest_hits_classic_rock">
+    <img class="preview" data-videoid="aE_7UiC5p4I" src="https://i.ytimg.com/vi/aE_7UiC5p4I/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=aE_7UiC5p4I">Best Of Classic Rock 70s 80s 90s Collection |...</a><br>
+    <i class="smaller2">Classic Rock Music</i>
+  </div>
 </div>

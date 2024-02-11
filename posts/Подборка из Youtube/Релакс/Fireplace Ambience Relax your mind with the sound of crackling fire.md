@@ -1,15 +1,10 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?relaks/fireplace_ambience_relax_your_mind_with_the_sound_of_crackling_fire target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/OE7WDib1SNc/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/OE7WDib1SNc"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OE7WDib1SNc" target="_blank">Fireplace Ambience 🔥 Relax your mind with the soun...</a><br>
-  <i class="smaller2">Relaxing Fire Sound</i>
-</div>
+  <a class="nodecor" href="/posts.html?relaks/fireplace_ambience_relax_your_mind_with_the_sound_of_crackling_fire">
+    <img class="preview" data-videoid="OE7WDib1SNc" src="https://i.ytimg.com/vi/OE7WDib1SNc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=OE7WDib1SNc">Fireplace Ambience 🔥 Relax your mind with the soun...</a><br>
+    <i class="smaller2">Relaxing Fire Sound</i>
+  </div>
 </div>

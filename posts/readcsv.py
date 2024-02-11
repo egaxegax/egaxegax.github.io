@@ -11,6 +11,7 @@ sys.path.insert(0, '../../..')
 
 from update import TR
 from update import main as update_main
+from updatelist import main as updatelist_main
 
 path = '.'
 if len(sys.argv) > 1:
@@ -63,18 +64,13 @@ for root, dirs, files in os.walk(path, topdown=False):
               phref = '/posts.html?'+ TR(os.path.basename(os.getcwd())) +'/'+ TR(mtitl)
               text = """{ctime}
 <div class="yb">
-<a class="nodecor" href={phref} target="_blank">
-  <img class="preview" src="{imurl}" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/{videoid}"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="{href}" target="_blank">{titl}</a><br>
-  <i class="smaller2">{authr}</i>
-</div>
+  <a class="nodecor" href="{phref}">
+    <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="{href}">{titl}</a><br>
+    <i class="smaller2">{authr}</i>
+  </div>
 </div>
 """.format(ctime=ctime, phref=phref, href=href, imurl=imurl, videoid=videoid, titl=tr_chars(titl, 50), authr=authr)
 
@@ -84,4 +80,5 @@ for root, dirs, files in os.walk(path, topdown=False):
 
 if fcount:
   update_main(os.path.dirname(__file__))
+  updatelist_main(os.path.dirname(__file__))
   

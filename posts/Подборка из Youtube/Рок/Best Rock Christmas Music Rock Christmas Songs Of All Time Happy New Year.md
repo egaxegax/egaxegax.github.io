@@ -1,15 +1,10 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/best_rock_christmas_music_rock_christmas_songs_of_all_time_happy_new_year target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/jFcmA6Y9b-A/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/jFcmA6Y9b-A"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=jFcmA6Y9b-A" target="_blank">Best Rock Christmas Music |  Rock Christmas Songs...</a><br>
-  <i class="smaller2">Classic Rock Music</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/best_rock_christmas_music_rock_christmas_songs_of_all_time_happy_new_year">
+    <img class="preview" data-videoid="jFcmA6Y9b-A" src="https://i.ytimg.com/vi/jFcmA6Y9b-A/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=jFcmA6Y9b-A">Best Rock Christmas Music |  Rock Christmas Songs...</a><br>
+    <i class="smaller2">Classic Rock Music</i>
+  </div>
 </div>

@@ -1,15 +1,10 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/stone_temple_pilots_-_plush target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/jSd25Sdrtsc/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/jSd25Sdrtsc"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=jSd25Sdrtsc" target="_blank">STONE TEMPLE PILOTS - Plush</a><br>
-  <i class="smaller2">MixedUpEverything</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/stone_temple_pilots_-_plush">
+    <img class="preview" data-videoid="jSd25Sdrtsc" src="https://i.ytimg.com/vi/jSd25Sdrtsc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=jSd25Sdrtsc">STONE TEMPLE PILOTS - Plush</a><br>
+    <i class="smaller2">MixedUpEverything</i>
+  </div>
 </div>

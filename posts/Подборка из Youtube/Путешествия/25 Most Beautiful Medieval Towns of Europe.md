@@ -1,15 +1,10 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?puteshestviya/25_most_beautiful_medieval_towns_of_europe target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/DXXxANXLQyE/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/DXXxANXLQyE"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=DXXxANXLQyE" target="_blank">25 Most Beautiful Medieval Towns of Europe</a><br>
-  <i class="smaller2">touropia</i>
-</div>
+  <a class="nodecor" href="/posts.html?puteshestviya/25_most_beautiful_medieval_towns_of_europe">
+    <img class="preview" data-videoid="DXXxANXLQyE" src="https://i.ytimg.com/vi/DXXxANXLQyE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=DXXxANXLQyE">25 Most Beautiful Medieval Towns of Europe</a><br>
+    <i class="smaller2">touropia</i>
+  </div>
 </div>

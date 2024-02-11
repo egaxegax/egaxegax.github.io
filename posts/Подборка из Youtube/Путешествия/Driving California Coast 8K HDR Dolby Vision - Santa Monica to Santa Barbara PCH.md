@@ -1,15 +1,10 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?puteshestviya/driving_california_coast_8k_hdr_dolby_vision_-_santa_monica_to_santa_barbara_pch target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/YUsqMquFgas/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/YUsqMquFgas"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=YUsqMquFgas" target="_blank">Driving California Coast 8K HDR Dolby Vision -...</a><br>
-  <i class="smaller2">Relaxing Scenes - Driving</i>
-</div>
+  <a class="nodecor" href="/posts.html?puteshestviya/driving_california_coast_8k_hdr_dolby_vision_-_santa_monica_to_santa_barbara_pch">
+    <img class="preview" data-videoid="YUsqMquFgas" src="https://i.ytimg.com/vi/YUsqMquFgas/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=YUsqMquFgas">Driving California Coast 8K HDR Dolby Vision -...</a><br>
+    <i class="smaller2">Relaxing Scenes - Driving</i>
+  </div>
 </div>

@@ -1,15 +1,10 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/chicago_-_west_humboldt_park_hood target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/SFngQ7qUzWs/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/SFngQ7qUzWs"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=SFngQ7qUzWs" target="_blank">CHICAGO - WEST HUMBOLDT PARK HOOD</a><br>
-  <i class="smaller2">HoodTime</i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/chicago_-_west_humboldt_park_hood">
+    <img class="preview" data-videoid="SFngQ7qUzWs" src="https://i.ytimg.com/vi/SFngQ7qUzWs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=SFngQ7qUzWs">CHICAGO - WEST HUMBOLDT PARK HOOD</a><br>
+    <i class="smaller2">HoodTime</i>
+  </div>
 </div>

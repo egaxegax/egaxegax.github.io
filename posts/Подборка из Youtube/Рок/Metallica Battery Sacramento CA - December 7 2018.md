@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_battery_sacramento_ca_-_december_7_2018 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/tRJxnxVu3C8/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/tRJxnxVu3C8"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=tRJxnxVu3C8" target="_blank">Metallica: Battery (Sacramento, CA - December 7,...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_battery_sacramento_ca_-_december_7_2018">
+    <img class="preview" data-videoid="tRJxnxVu3C8" src="https://i.ytimg.com/vi/tRJxnxVu3C8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=tRJxnxVu3C8">Metallica: Battery (Sacramento, CA - December 7,...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

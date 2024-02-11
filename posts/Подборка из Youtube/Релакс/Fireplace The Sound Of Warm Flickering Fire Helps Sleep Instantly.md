@@ -1,15 +1,10 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?relaks/fireplace_the_sound_of_warm_flickering_fire_helps_sleep_instantly target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/sLRR_1FzTDg/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/sLRR_1FzTDg"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=sLRR_1FzTDg" target="_blank">Fireplace 🔥The Sound Of Warm, Flickering Fire Help...</a><br>
-  <i class="smaller2">Relaxing Fire Sound</i>
-</div>
+  <a class="nodecor" href="/posts.html?relaks/fireplace_the_sound_of_warm_flickering_fire_helps_sleep_instantly">
+    <img class="preview" data-videoid="sLRR_1FzTDg" src="https://i.ytimg.com/vi/sLRR_1FzTDg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=sLRR_1FzTDg">Fireplace 🔥The Sound Of Warm, Flickering Fire Help...</a><br>
+    <i class="smaller2">Relaxing Fire Sound</i>
+  </div>
 </div>

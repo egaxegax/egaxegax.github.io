@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_the_call_of_ktulu_copenhagen_denmark_-_february_9_2017 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/i9fxUlTMRz8/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/i9fxUlTMRz8"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=i9fxUlTMRz8" target="_blank">Metallica: The Call of Ktulu (Copenhagen, Denmark ...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_the_call_of_ktulu_copenhagen_denmark_-_february_9_2017">
+    <img class="preview" data-videoid="i9fxUlTMRz8" src="https://i.ytimg.com/vi/i9fxUlTMRz8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=i9fxUlTMRz8">Metallica: The Call of Ktulu (Copenhagen, Denmark ...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

@@ -1,15 +1,10 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?russkij_rok/nautilus_pompilius_-_vo_vremya_dojdya_hd_video_-_kachestvennyj_zvuk target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/-kBEDzyFBqg/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/-kBEDzyFBqg"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=-kBEDzyFBqg" target="_blank">Наутилус Помпилиус - Во время дождя ( HD Video -...</a><br>
-  <i class="smaller2">MELOMAN VIDEO</i>
-</div>
+  <a class="nodecor" href="/posts.html?russkij_rok/nautilus_pompilius_-_vo_vremya_dojdya_hd_video_-_kachestvennyj_zvuk">
+    <img class="preview" data-videoid="-kBEDzyFBqg" src="https://i.ytimg.com/vi/-kBEDzyFBqg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=-kBEDzyFBqg">Наутилус Помпилиус - Во время дождя ( HD Video -...</a><br>
+    <i class="smaller2">MELOMAN VIDEO</i>
+  </div>
 </div>

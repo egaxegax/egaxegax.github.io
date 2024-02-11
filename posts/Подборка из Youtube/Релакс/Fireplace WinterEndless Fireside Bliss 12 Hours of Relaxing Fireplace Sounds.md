@@ -1,15 +1,10 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?relaks/fireplace_winterendless_fireside_bliss_12_hours_of_relaxing_fireplace_sounds target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/H4xBQ-00D5E/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/H4xBQ-00D5E"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=H4xBQ-00D5E" target="_blank">Fireplace Winter🔥Endless Fireside Bliss 12 Hours o...</a><br>
-  <i class="smaller2">Relaxing Fire Sound</i>
-</div>
+  <a class="nodecor" href="/posts.html?relaks/fireplace_winterendless_fireside_bliss_12_hours_of_relaxing_fireplace_sounds">
+    <img class="preview" data-videoid="H4xBQ-00D5E" src="https://i.ytimg.com/vi/H4xBQ-00D5E/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=H4xBQ-00D5E">Fireplace Winter🔥Endless Fireside Bliss 12 Hours o...</a><br>
+    <i class="smaller2">Relaxing Fire Sound</i>
+  </div>
 </div>

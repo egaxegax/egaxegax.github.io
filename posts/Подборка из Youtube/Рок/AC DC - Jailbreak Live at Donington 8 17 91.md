@@ -1,15 +1,10 @@
 <!--2024-01-20 01:00:14-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/ac_dc_-_jailbreak_live_at_donington_8_17_91 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/WHtWs4wiFCs/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/WHtWs4wiFCs"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=WHtWs4wiFCs" target="_blank">AC/DC - Jailbreak (Live at Donington, 8/17/91)</a><br>
-  <i class="smaller2">acdcVEVO</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/ac_dc_-_jailbreak_live_at_donington_8_17_91">
+    <img class="preview" data-videoid="WHtWs4wiFCs" src="https://i.ytimg.com/vi/WHtWs4wiFCs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=WHtWs4wiFCs">AC/DC - Jailbreak (Live at Donington, 8/17/91)</a><br>
+    <i class="smaller2">acdcVEVO</i>
+  </div>
 </div>

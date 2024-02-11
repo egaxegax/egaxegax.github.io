@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_fight_fire_with_fire_salt_lake_city_ut_-_november_30_2018 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/gMuP3CgZ5L0/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/gMuP3CgZ5L0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=gMuP3CgZ5L0" target="_blank">Metallica: Fight Fire with Fire (Salt Lake City, U...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_fight_fire_with_fire_salt_lake_city_ut_-_november_30_2018">
+    <img class="preview" data-videoid="gMuP3CgZ5L0" src="https://i.ytimg.com/vi/gMuP3CgZ5L0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=gMuP3CgZ5L0">Metallica: Fight Fire with Fire (Salt Lake City, U...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

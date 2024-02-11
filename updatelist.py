@@ -31,61 +31,65 @@ def TR(t):
 def SP(text):
   return text.replace(' ', '%20')
 
-path = '.'
-cwd = os.path.basename(os.getcwd())
+def main(path='.'):
+  cwd = os.path.basename(os.path.abspath(path))
 
-for root, dirs, files in os.walk(path, topdown=False):
-  ititles = []
-  files.sort()
+  for root, dirs, files in os.walk(path, topdown=False):
+    ititles = []
+    files.sort()
 
-  roots = E_OS(os.path.basename(os.path.dirname(root)))
-  subj = E_OS(os.path.basename(root))
+    roots = E_OS(os.path.basename(os.path.dirname(root)))
+    subj = E_OS(os.path.basename(root))
 
-  if '.git' in root:
-    continue
-
-  about = ''
-  for name in files:
-    fname, ext = os.path.splitext(name)
-    title = E_OS(fname)
-
-    if name in ('README.md', 'sitemap.txt'):
+    if root in ('.git',):
+      print("SKIP", root)
       continue
 
-    if cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
-      if fname == 'about':
-        text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
-        about = text.strip() + '\n\n'      # save about text
-    elif cwd in ('foto'):
-      pass
-    else:
-      continue
+    about = ''
+    for name in files:
+      fname, ext = os.path.splitext(name)
+      title = E_OS(fname)
 
-    lntit = '[' + title + '](' + SP(title) + ext + ')'
-    if fname == 'about': # +about text
-      text = re.sub('(^<\!--.*-->)\s*', '', text)
-      ititles = [text + '\n'] + ititles
-    else:
-      if os.path.isfile(os.path.join(root, title + '.jpg')): # image in books, foto
-        ititles.append('![](' + SP(title) + '.jpg' + ')  \n' + lntit + '\n')
+      if name in ('README.md', 'sitemap.txt'):
+        continue
+
+      if cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
+        if fname == 'about':
+          text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
+          about = text.strip() + '\n\n'      # save about text
+      elif cwd in ('foto'):
+        pass
       else:
-        ititles.append('* ' + lntit)
+        continue
 
-    print(roots, subj, name)      
+      lntit = '[' + title + '](' + SP(title) + ext + ')'
+      if fname == 'about': # +about text
+        text = re.sub('(^<\!--.*-->)\s*', '', text)
+        ititles = [text + '\n'] + ititles
+      else:
+        if os.path.isfile(os.path.join(root, title + '.jpg')): # image in books, foto
+          ititles.append('![](' + SP(title) + '.jpg' + ')  \n' + lntit + '\n')
+        else:
+          ititles.append('* ' + lntit)
 
-  if ititles: # titles list
-    text = ''
-    if os.path.isfile(os.path.join(root, TR(subj) + '.jpg')):
-      text = '![](' + TR(subj) + '.jpg' + ')\n\n'
-    text += '\n'.join(ititles)
-    open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(text)
+      print(roots, subj, name)      
 
-  if dirs: # subdirs list
-    isubj = []
-    dirs.sort()
-    for name in dirs:
-      if name not in ('.git', 'th', '_layouts'): # skip dir
-        isubj.append( '* [' + name + '](' + SP(name) + ')' )
-    text = '\n'.join(isubj)
-    if text:
-      open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(about + text)
+    if ititles: # titles list
+      text = ''
+      if os.path.isfile(os.path.join(root, TR(subj) + '.jpg')):
+        text = '![](' + TR(subj) + '.jpg' + ')\n\n'
+      text += '\n'.join(ititles)
+      open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(text)
+
+    if dirs: # subdirs list
+      isubj = []
+      dirs.sort()
+      for name in dirs:
+        if name not in ('.git', 'th', '_layouts'): # skip dir
+          isubj.append( '* [' + name + '](' + SP(name) + ')' )
+      text = '\n'.join(isubj)
+      if text:
+        open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(about + text)
+
+if __name__ == '__main__':
+  main()

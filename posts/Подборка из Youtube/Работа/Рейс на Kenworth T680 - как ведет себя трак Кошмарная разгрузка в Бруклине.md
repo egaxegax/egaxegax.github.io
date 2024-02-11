@@ -1,15 +1,10 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rabota/rejs_na_kenworth_t680_-_kak_vedet_sebya_trak_koshmarnaya_razgruzka_v_brukline target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/an8wND8wxmc/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/an8wND8wxmc"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=an8wND8wxmc" target="_blank">Рейс на Kenworth T680 - как ведет себя трак?!...</a><br>
-  <i class="smaller2">Alex13 США</i>
-</div>
+  <a class="nodecor" href="/posts.html?rabota/rejs_na_kenworth_t680_-_kak_vedet_sebya_trak_koshmarnaya_razgruzka_v_brukline">
+    <img class="preview" data-videoid="an8wND8wxmc" src="https://i.ytimg.com/vi/an8wND8wxmc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=an8wND8wxmc">Рейс на Kenworth T680 - как ведет себя трак?!...</a><br>
+    <i class="smaller2">Alex13 США</i>
+  </div>
 </div>

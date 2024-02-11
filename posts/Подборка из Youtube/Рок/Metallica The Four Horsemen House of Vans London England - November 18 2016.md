@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_the_four_horsemen_house_of_vans_london_england_-_november_18_2016 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/-yvynaXYY1k/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/-yvynaXYY1k"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=-yvynaXYY1k" target="_blank">Metallica: The Four Horsemen (House of Vans,...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_the_four_horsemen_house_of_vans_london_england_-_november_18_2016">
+    <img class="preview" data-videoid="-yvynaXYY1k" src="https://i.ytimg.com/vi/-yvynaXYY1k/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=-yvynaXYY1k">Metallica: The Four Horsemen (House of Vans,...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

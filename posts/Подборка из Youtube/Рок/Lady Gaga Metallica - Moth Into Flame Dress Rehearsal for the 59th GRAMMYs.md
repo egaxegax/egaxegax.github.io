@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/lady_gaga_metallica_-_moth_into_flame_dress_rehearsal_for_the_59th_grammys target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/pdxyVnJMg64/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/pdxyVnJMg64"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=pdxyVnJMg64" target="_blank">Lady Gaga, Metallica - Moth Into Flame (Dress...</a><br>
-  <i class="smaller2">LadyGagaVEVO</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/lady_gaga_metallica_-_moth_into_flame_dress_rehearsal_for_the_59th_grammys">
+    <img class="preview" data-videoid="pdxyVnJMg64" src="https://i.ytimg.com/vi/pdxyVnJMg64/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=pdxyVnJMg64">Lady Gaga, Metallica - Moth Into Flame (Dress...</a><br>
+    <i class="smaller2">LadyGagaVEVO</i>
+  </div>
 </div>

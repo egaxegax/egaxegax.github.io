@@ -1,15 +1,10 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?puteshestviya/driving_southern_california_coast_in_8k_dolby_vision_hdr_-_palos_verdes_to_san_diego target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/u3_2gAuPjxM/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/u3_2gAuPjxM"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=u3_2gAuPjxM" target="_blank">Driving Southern California Coast in 8K Dolby...</a><br>
-  <i class="smaller2">Relaxing Scenes - Driving</i>
-</div>
+  <a class="nodecor" href="/posts.html?puteshestviya/driving_southern_california_coast_in_8k_dolby_vision_hdr_-_palos_verdes_to_san_diego">
+    <img class="preview" data-videoid="u3_2gAuPjxM" src="https://i.ytimg.com/vi/u3_2gAuPjxM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=u3_2gAuPjxM">Driving Southern California Coast in 8K Dolby...</a><br>
+    <i class="smaller2">Relaxing Scenes - Driving</i>
+  </div>
 </div>

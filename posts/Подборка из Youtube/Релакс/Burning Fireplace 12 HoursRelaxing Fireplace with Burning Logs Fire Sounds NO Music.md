@@ -1,15 +1,10 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?relaks/burning_fireplace_12_hoursrelaxing_fireplace_with_burning_logs_fire_sounds_no_music target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/YpL8TvhdOWk/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/YpL8TvhdOWk"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=YpL8TvhdOWk" target="_blank">Burning Fireplace 12 Hours🔥Relaxing Fireplace...</a><br>
-  <i class="smaller2">Relaxing Fire Sound</i>
-</div>
+  <a class="nodecor" href="/posts.html?relaks/burning_fireplace_12_hoursrelaxing_fireplace_with_burning_logs_fire_sounds_no_music">
+    <img class="preview" data-videoid="YpL8TvhdOWk" src="https://i.ytimg.com/vi/YpL8TvhdOWk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=YpL8TvhdOWk">Burning Fireplace 12 Hours🔥Relaxing Fireplace...</a><br>
+    <i class="smaller2">Relaxing Fire Sound</i>
+  </div>
 </div>

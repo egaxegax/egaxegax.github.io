@@ -1,15 +1,10 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/south_side_chicago_hoods target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/D_LCM3P69vc/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/D_LCM3P69vc"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=D_LCM3P69vc" target="_blank">SOUTH SIDE CHICAGO HOODS</a><br>
-  <i class="smaller2">HoodTime</i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/south_side_chicago_hoods">
+    <img class="preview" data-videoid="D_LCM3P69vc" src="https://i.ytimg.com/vi/D_LCM3P69vc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=D_LCM3P69vc">SOUTH SIDE CHICAGO HOODS</a><br>
+    <i class="smaller2">HoodTime</i>
+  </div>
 </div>

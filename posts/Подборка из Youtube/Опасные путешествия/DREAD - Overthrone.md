@@ -1,15 +1,10 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/dread_-_overthrone target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/xrQAY8yh-5I/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/xrQAY8yh-5I"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=xrQAY8yh-5I" target="_blank">[[DREAD]] - Overthrone</a><br>
-  <i class="smaller2">Tennessee Doom Cult </i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/dread_-_overthrone">
+    <img class="preview" data-videoid="xrQAY8yh-5I" src="https://i.ytimg.com/vi/xrQAY8yh-5I/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=xrQAY8yh-5I">[[DREAD]] - Overthrone</a><br>
+    <i class="smaller2">Tennessee Doom Cult </i>
+  </div>
 </div>

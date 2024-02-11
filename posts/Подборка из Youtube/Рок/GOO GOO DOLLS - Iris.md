@@ -1,15 +1,10 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/goo_goo_dolls_-_iris target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/vW38NpL5CXs/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/vW38NpL5CXs"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=vW38NpL5CXs" target="_blank">GOO GOO DOLLS - Iris</a><br>
-  <i class="smaller2">MixedUpEverything</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/goo_goo_dolls_-_iris">
+    <img class="preview" data-videoid="vW38NpL5CXs" src="https://i.ytimg.com/vi/vW38NpL5CXs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=vW38NpL5CXs">GOO GOO DOLLS - Iris</a><br>
+    <i class="smaller2">MixedUpEverything</i>
+  </div>
 </div>

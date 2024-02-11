@@ -1,15 +1,10 @@
 <!--2024-01-11 01:11:25-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?kinoroliki/godzilla_vs_kong_5_-_zilla target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/1d3IJCFRLmo/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/1d3IJCFRLmo"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=1d3IJCFRLmo" target="_blank">Godzilla vs. Kong 5 - Zilla</a><br>
-  <i class="smaller2">ASM</i>
-</div>
+  <a class="nodecor" href="/posts.html?kinoroliki/godzilla_vs_kong_5_-_zilla">
+    <img class="preview" data-videoid="1d3IJCFRLmo" src="https://i.ytimg.com/vi/1d3IJCFRLmo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=1d3IJCFRLmo">Godzilla vs. Kong 5 - Zilla</a><br>
+    <i class="smaller2">ASM</i>
+  </div>
 </div>

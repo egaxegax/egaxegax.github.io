@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_halo_on_fire_stuttgart_germany_-_april_9_2018 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/AzpBq8T58ec/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/AzpBq8T58ec"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=AzpBq8T58ec" target="_blank">Metallica: Halo On Fire (Stuttgart, Germany - Apri...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_halo_on_fire_stuttgart_germany_-_april_9_2018">
+    <img class="preview" data-videoid="AzpBq8T58ec" src="https://i.ytimg.com/vi/AzpBq8T58ec/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=AzpBq8T58ec">Metallica: Halo On Fire (Stuttgart, Germany - Apri...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

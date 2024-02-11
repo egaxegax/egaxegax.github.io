@@ -1,15 +1,10 @@
 <!--2024-01-20 01:24:59-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?russkij_rok/russkij_rep_so_smyslom_noize_mc_kasta_anacondaz_zatochka_rem_digga target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/CUWdo5LZujE/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/CUWdo5LZujE"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=CUWdo5LZujE" target="_blank">РУССКИЙ РЭП СО СМЫСЛОМ (Noize MC, Каста, Anacondaz...</a><br>
-  <i class="smaller2">Война и Мир</i>
-</div>
+  <a class="nodecor" href="/posts.html?russkij_rok/russkij_rep_so_smyslom_noize_mc_kasta_anacondaz_zatochka_rem_digga">
+    <img class="preview" data-videoid="CUWdo5LZujE" src="https://i.ytimg.com/vi/CUWdo5LZujE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=CUWdo5LZujE">РУССКИЙ РЭП СО СМЫСЛОМ (Noize MC, Каста, Anacondaz...</a><br>
+    <i class="smaller2">Война и Мир</i>
+  </div>
 </div>

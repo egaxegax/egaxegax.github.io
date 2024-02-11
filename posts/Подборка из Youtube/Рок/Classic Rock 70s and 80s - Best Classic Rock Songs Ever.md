@@ -1,15 +1,10 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/classic_rock_70s_and_80s_-_best_classic_rock_songs_ever target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/G8YZR2d4060/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/G8YZR2d4060"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=G8YZR2d4060" target="_blank">Classic Rock 70s and 80s - Best Classic Rock...</a><br>
-  <i class="smaller2">Classic Rock Music</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/classic_rock_70s_and_80s_-_best_classic_rock_songs_ever">
+    <img class="preview" data-videoid="G8YZR2d4060" src="https://i.ytimg.com/vi/G8YZR2d4060/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=G8YZR2d4060">Classic Rock 70s and 80s - Best Classic Rock...</a><br>
+    <i class="smaller2">Classic Rock Music</i>
+  </div>
 </div>

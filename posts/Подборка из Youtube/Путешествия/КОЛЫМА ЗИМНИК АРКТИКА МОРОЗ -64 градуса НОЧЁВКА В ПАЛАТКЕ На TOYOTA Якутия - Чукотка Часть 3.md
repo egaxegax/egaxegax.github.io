@@ -1,15 +1,10 @@
 <!--2024-01-20 00:46:46-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?puteshestviya/kolyma_zimnik_arktika_moroz_-64_gradusa_nochevka_v_palatke_na_toyota_yakutiya_-_chukotka_chast_3 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/kOJtx5dG_nU/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/kOJtx5dG_nU"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=kOJtx5dG_nU" target="_blank">КОЛЫМА, ЗИМНИК АРКТИКА. МОРОЗ -64 градуса НОЧЁВКА ...</a><br>
-  <i class="smaller2">ПРО ПУТЕШЕСТВИЯ Богдан Булычёв</i>
-</div>
+  <a class="nodecor" href="/posts.html?puteshestviya/kolyma_zimnik_arktika_moroz_-64_gradusa_nochevka_v_palatke_na_toyota_yakutiya_-_chukotka_chast_3">
+    <img class="preview" data-videoid="kOJtx5dG_nU" src="https://i.ytimg.com/vi/kOJtx5dG_nU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=kOJtx5dG_nU">КОЛЫМА, ЗИМНИК АРКТИКА. МОРОЗ -64 градуса НОЧЁВКА ...</a><br>
+    <i class="smaller2">ПРО ПУТЕШЕСТВИЯ Богдан Булычёв</i>
+  </div>
 </div>

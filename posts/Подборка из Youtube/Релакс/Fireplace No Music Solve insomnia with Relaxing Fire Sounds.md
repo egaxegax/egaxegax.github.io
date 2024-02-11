@@ -1,15 +1,10 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?relaks/fireplace_no_music_solve_insomnia_with_relaxing_fire_sounds target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/ZyGQMysy6sg/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/ZyGQMysy6sg"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ZyGQMysy6sg" target="_blank">Fireplace (No Music) 🔥 Solve insomnia with Relaxin...</a><br>
-  <i class="smaller2">Relaxing Fire Sound</i>
-</div>
+  <a class="nodecor" href="/posts.html?relaks/fireplace_no_music_solve_insomnia_with_relaxing_fire_sounds">
+    <img class="preview" data-videoid="ZyGQMysy6sg" src="https://i.ytimg.com/vi/ZyGQMysy6sg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=ZyGQMysy6sg">Fireplace (No Music) 🔥 Solve insomnia with Relaxin...</a><br>
+    <i class="smaller2">Relaxing Fire Sound</i>
+  </div>
 </div>

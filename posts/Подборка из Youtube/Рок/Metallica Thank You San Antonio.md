@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_thank_you_san_antonio target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/exc3blG_sxw/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/exc3blG_sxw"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=exc3blG_sxw" target="_blank">Metallica: Thank You, San Antonio!</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_thank_you_san_antonio">
+    <img class="preview" data-videoid="exc3blG_sxw" src="https://i.ytimg.com/vi/exc3blG_sxw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=exc3blG_sxw">Metallica: Thank You, San Antonio!</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

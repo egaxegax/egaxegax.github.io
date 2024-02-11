@@ -1,15 +1,10 @@
 <!--2023-12-31 01:42:00-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/classic_rock_collection_greatest_hits_classic_rock_of_all_time target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/GksrrDXV98E/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/GksrrDXV98E"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=GksrrDXV98E" target="_blank">Classic Rock Collection | Greatest Hits Classic...</a><br>
-  <i class="smaller2">Classic Rock Music</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/classic_rock_collection_greatest_hits_classic_rock_of_all_time">
+    <img class="preview" data-videoid="GksrrDXV98E" src="https://i.ytimg.com/vi/GksrrDXV98E/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=GksrrDXV98E">Classic Rock Collection | Greatest Hits Classic...</a><br>
+    <i class="smaller2">Classic Rock Music</i>
+  </div>
 </div>

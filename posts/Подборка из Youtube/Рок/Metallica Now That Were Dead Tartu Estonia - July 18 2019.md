@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_now_that_were_dead_tartu_estonia_-_july_18_2019 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/QEXvc3OdrqU/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/QEXvc3OdrqU"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=QEXvc3OdrqU" target="_blank">Metallica: Now That We're Dead (Tartu, Estonia -...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_now_that_were_dead_tartu_estonia_-_july_18_2019">
+    <img class="preview" data-videoid="QEXvc3OdrqU" src="https://i.ytimg.com/vi/QEXvc3OdrqU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=QEXvc3OdrqU">Metallica: Now That We're Dead (Tartu, Estonia -...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

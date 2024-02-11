@@ -1,15 +1,10 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/the_man_who_sold_the_world_-_david_bowie_-_live_at_the_beeb target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/ZM0e1m9T9HQ/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/ZM0e1m9T9HQ"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ZM0e1m9T9HQ" target="_blank">The Man Who Sold The World - David Bowie - Live...</a><br>
-  <i class="smaller2">blootoof</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/the_man_who_sold_the_world_-_david_bowie_-_live_at_the_beeb">
+    <img class="preview" data-videoid="ZM0e1m9T9HQ" src="https://i.ytimg.com/vi/ZM0e1m9T9HQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=ZM0e1m9T9HQ">The Man Who Sold The World - David Bowie - Live...</a><br>
+    <i class="smaller2">blootoof</i>
+  </div>
 </div>

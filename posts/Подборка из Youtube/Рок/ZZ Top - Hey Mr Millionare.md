@@ -1,15 +1,10 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/zz_top_-_hey_mr_millionare target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/oGW27cGsHD4/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/oGW27cGsHD4"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=oGW27cGsHD4" target="_blank">ZZ Top - Hey Mr. Millionare</a><br>
-  <i class="smaller2">DarkRedJake</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/zz_top_-_hey_mr_millionare">
+    <img class="preview" data-videoid="oGW27cGsHD4" src="https://i.ytimg.com/vi/oGW27cGsHD4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=oGW27cGsHD4">ZZ Top - Hey Mr. Millionare</a><br>
+    <i class="smaller2">DarkRedJake</i>
+  </div>
 </div>

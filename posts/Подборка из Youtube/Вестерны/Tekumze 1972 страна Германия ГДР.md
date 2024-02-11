@@ -1,15 +1,10 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?vesterny/tekumze_1972_strana_germaniya_gdr target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/M5I2yHNBRJg/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/M5I2yHNBRJg"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=M5I2yHNBRJg" target="_blank">Tekumze 1972 страна Германия (ГДР)</a><br>
-  <i class="smaller2">Трынь-Трава Полынь Бурьянович</i>
-</div>
+  <a class="nodecor" href="/posts.html?vesterny/tekumze_1972_strana_germaniya_gdr">
+    <img class="preview" data-videoid="M5I2yHNBRJg" src="https://i.ytimg.com/vi/M5I2yHNBRJg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=M5I2yHNBRJg">Tekumze 1972 страна Германия (ГДР)</a><br>
+    <i class="smaller2">Трынь-Трава Полынь Бурьянович</i>
+  </div>
 </div>

@@ -1,15 +1,10 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/los_angeles_californias_worst_slum_-_skid_row target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/v8JvVy4FawY/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/v8JvVy4FawY"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=v8JvVy4FawY" target="_blank">LOS ANGELES CALIFORNIA’S WORST SLUM - SKID ROW</a><br>
-  <i class="smaller2">HoodTime</i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/los_angeles_californias_worst_slum_-_skid_row">
+    <img class="preview" data-videoid="v8JvVy4FawY" src="https://i.ytimg.com/vi/v8JvVy4FawY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=v8JvVy4FawY">LOS ANGELES CALIFORNIA’S WORST SLUM - SKID ROW</a><br>
+    <i class="smaller2">HoodTime</i>
+  </div>
 </div>

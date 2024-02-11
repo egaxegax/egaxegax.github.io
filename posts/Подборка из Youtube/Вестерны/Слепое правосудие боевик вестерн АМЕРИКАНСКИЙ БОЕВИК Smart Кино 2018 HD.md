@@ -1,15 +1,10 @@
 <!--2024-01-05 01:44:01-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?vesterny/slepoe_pravosudie_boevik_vestern_amerikanskij_boevik_smart_kino_2018_hd target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/MY7cVca29d4/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/MY7cVca29d4"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=MY7cVca29d4" target="_blank">Слепое правосудие' боевик, вестерн АМЕРИКАНСКИЙ...</a><br>
-  <i class="smaller2">Smart Кино</i>
-</div>
+  <a class="nodecor" href="/posts.html?vesterny/slepoe_pravosudie_boevik_vestern_amerikanskij_boevik_smart_kino_2018_hd">
+    <img class="preview" data-videoid="MY7cVca29d4" src="https://i.ytimg.com/vi/MY7cVca29d4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=MY7cVca29d4">Слепое правосудие' боевик, вестерн АМЕРИКАНСКИЙ...</a><br>
+    <i class="smaller2">Smart Кино</i>
+  </div>
 </div>

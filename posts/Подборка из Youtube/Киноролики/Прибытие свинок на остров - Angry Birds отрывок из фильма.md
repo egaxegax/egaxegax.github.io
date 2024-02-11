@@ -1,15 +1,10 @@
 <!--2024-01-19 01:01:52-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?kinoroliki/pribytie_svinok_na_ostrov_-_angry_birds_otryvok_iz_filma target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/mgQb8jeBgoI/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/mgQb8jeBgoI"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mgQb8jeBgoI" target="_blank">Прибытие свинок на остров - "Angry Birds" отрывок...</a><br>
-  <i class="smaller2">KINO-OTRIVOK</i>
-</div>
+  <a class="nodecor" href="/posts.html?kinoroliki/pribytie_svinok_na_ostrov_-_angry_birds_otryvok_iz_filma">
+    <img class="preview" data-videoid="mgQb8jeBgoI" src="https://i.ytimg.com/vi/mgQb8jeBgoI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=mgQb8jeBgoI">Прибытие свинок на остров - "Angry Birds" отрывок...</a><br>
+    <i class="smaller2">KINO-OTRIVOK</i>
+  </div>
 </div>

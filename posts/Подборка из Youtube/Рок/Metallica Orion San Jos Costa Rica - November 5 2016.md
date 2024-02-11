@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_orion_san_jos_costa_rica_-_november_5_2016 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/LK0d4ATFN30/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/LK0d4ATFN30"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=LK0d4ATFN30" target="_blank">Metallica: Orion (San José, Costa Rica - November...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_orion_san_jos_costa_rica_-_november_5_2016">
+    <img class="preview" data-videoid="LK0d4ATFN30" src="https://i.ytimg.com/vi/LK0d4ATFN30/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=LK0d4ATFN30">Metallica: Orion (San José, Costa Rica - November...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

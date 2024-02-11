@@ -33,8 +33,6 @@ img { max-width:100%; border-radius:2px; }
 .mb {padding-bottom:10px;}
 /* youtube playlist */
 .yb .preview { height:150px; border-radius:4%; }
-.yb .embed { display:none; border:0; border-radius:4%; }
-#post0 .yb .preview { display: none; }
-#post0 .yb .embed { display: inline; }
+.yb .embed { border:0; border-radius:4%; }
 /*ads*/
 .mh_2 { max-height:180px; }

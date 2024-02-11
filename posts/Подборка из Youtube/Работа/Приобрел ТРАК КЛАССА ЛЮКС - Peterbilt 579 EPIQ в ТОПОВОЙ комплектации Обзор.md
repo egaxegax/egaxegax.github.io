@@ -1,15 +1,10 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rabota/priobrel_trak_klassa_ljuks_-_peterbilt_579_epiq_v_topovoj_komplektacii_obzor target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/4B34jiuYi44/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/4B34jiuYi44"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=4B34jiuYi44" target="_blank">Приобрел ТРАК КЛАССА ЛЮКС - Peterbilt 579 EPIQ в...</a><br>
-  <i class="smaller2">Alex13 США</i>
-</div>
+  <a class="nodecor" href="/posts.html?rabota/priobrel_trak_klassa_ljuks_-_peterbilt_579_epiq_v_topovoj_komplektacii_obzor">
+    <img class="preview" data-videoid="4B34jiuYi44" src="https://i.ytimg.com/vi/4B34jiuYi44/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=4B34jiuYi44">Приобрел ТРАК КЛАССА ЛЮКС - Peterbilt 579 EPIQ в...</a><br>
+    <i class="smaller2">Alex13 США</i>
+  </div>
 </div>

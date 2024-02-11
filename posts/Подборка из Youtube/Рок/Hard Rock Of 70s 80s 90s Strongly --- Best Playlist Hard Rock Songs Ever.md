@@ -1,15 +1,10 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/hard_rock_of_70s_80s_90s_strongly_---_best_playlist_hard_rock_songs_ever target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/D8bKPkh7JC0/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/D8bKPkh7JC0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=D8bKPkh7JC0" target="_blank">Hard Rock Of 70s 80s 90s Strongly --- Best Playlis...</a><br>
-  <i class="smaller2">Classic Rock Music</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/hard_rock_of_70s_80s_90s_strongly_---_best_playlist_hard_rock_songs_ever">
+    <img class="preview" data-videoid="D8bKPkh7JC0" src="https://i.ytimg.com/vi/D8bKPkh7JC0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=D8bKPkh7JC0">Hard Rock Of 70s 80s 90s Strongly --- Best Playlis...</a><br>
+    <i class="smaller2">Classic Rock Music</i>
+  </div>
 </div>

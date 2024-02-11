@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_thank_you_miami target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/1AP1xglve3w/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/1AP1xglve3w"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=1AP1xglve3w" target="_blank">Metallica: Thank You, Miami!</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_thank_you_miami">
+    <img class="preview" data-videoid="1AP1xglve3w" src="https://i.ytimg.com/vi/1AP1xglve3w/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=1AP1xglve3w">Metallica: Thank You, Miami!</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

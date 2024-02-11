@@ -1,15 +1,10 @@
 <!--2024-01-20 00:59:14-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/ac_dc_-_money_shot_official_audio target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/g9awHEExN7A/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/g9awHEExN7A"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=g9awHEExN7A" target="_blank">AC/DC - Money Shot (Official Audio)</a><br>
-  <i class="smaller2">acdcVEVO</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/ac_dc_-_money_shot_official_audio">
+    <img class="preview" data-videoid="g9awHEExN7A" src="https://i.ytimg.com/vi/g9awHEExN7A/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=g9awHEExN7A">AC/DC - Money Shot (Official Audio)</a><br>
+    <i class="smaller2">acdcVEVO</i>
+  </div>
 </div>

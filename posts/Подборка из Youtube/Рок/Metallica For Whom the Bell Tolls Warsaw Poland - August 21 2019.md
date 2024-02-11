@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_for_whom_the_bell_tolls_warsaw_poland_-_august_21_2019 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/t3XMZo1cOEI/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/t3XMZo1cOEI"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=t3XMZo1cOEI" target="_blank">Metallica: For Whom the Bell Tolls (Warsaw,...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_for_whom_the_bell_tolls_warsaw_poland_-_august_21_2019">
+    <img class="preview" data-videoid="t3XMZo1cOEI" src="https://i.ytimg.com/vi/t3XMZo1cOEI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=t3XMZo1cOEI">Metallica: For Whom the Bell Tolls (Warsaw,...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

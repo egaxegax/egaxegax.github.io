@@ -1,15 +1,10 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/zz_top_heard_it_on_the_x target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/jKcUZ0Wx1Ac/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/jKcUZ0Wx1Ac"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=jKcUZ0Wx1Ac" target="_blank">ZZ Top Heard it on the X</a><br>
-  <i class="smaller2">KingsBladeUSA</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/zz_top_heard_it_on_the_x">
+    <img class="preview" data-videoid="jKcUZ0Wx1Ac" src="https://i.ytimg.com/vi/jKcUZ0Wx1Ac/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=jKcUZ0Wx1Ac">ZZ Top Heard it on the X</a><br>
+    <i class="smaller2">KingsBladeUSA</i>
+  </div>
 </div>

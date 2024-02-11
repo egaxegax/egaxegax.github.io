@@ -1,15 +1,10 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/alice_in_chains_-_nutshell_in_south_tyrol target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/tIhbS_z9n2U/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/tIhbS_z9n2U"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=tIhbS_z9n2U" target="_blank">ALICE IN CHAINS - Nutshell (in South Tyrol)</a><br>
-  <i class="smaller2">MixedUpEverything</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/alice_in_chains_-_nutshell_in_south_tyrol">
+    <img class="preview" data-videoid="tIhbS_z9n2U" src="https://i.ytimg.com/vi/tIhbS_z9n2U/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=tIhbS_z9n2U">ALICE IN CHAINS - Nutshell (in South Tyrol)</a><br>
+    <i class="smaller2">MixedUpEverything</i>
+  </div>
 </div>

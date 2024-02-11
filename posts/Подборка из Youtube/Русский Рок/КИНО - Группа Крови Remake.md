@@ -1,15 +1,10 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?russkij_rok/kino_-_gruppa_krovi_remake target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/_3hxs34j1ic/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/_3hxs34j1ic"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=_3hxs34j1ic" target="_blank">КИНО - Группа Крови (Remake)</a><br>
-  <i class="smaller2">Партизан</i>
-</div>
+  <a class="nodecor" href="/posts.html?russkij_rok/kino_-_gruppa_krovi_remake">
+    <img class="preview" data-videoid="_3hxs34j1ic" src="https://i.ytimg.com/vi/_3hxs34j1ic/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=_3hxs34j1ic">КИНО - Группа Крови (Remake)</a><br>
+    <i class="smaller2">Партизан</i>
+  </div>
 </div>

@@ -16,6 +16,7 @@ import os
 import sys
 import time
 import io
+from updatelist import main as updatelist_main
 
 def E_OS(text):
   return text
@@ -39,7 +40,6 @@ def TR(t):
 
 def main(path='.'):
   mfiles = []
-
   surl = 'https://egaxegax.github.io'
   cwd = os.path.basename(os.path.abspath(path))
   sdir = cwd
@@ -183,4 +183,4 @@ def main(path='.'):
 
 if __name__ == '__main__':
   main()
-  import updatelist
+  updatelist_main()

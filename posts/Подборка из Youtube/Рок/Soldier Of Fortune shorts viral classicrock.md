@@ -1,15 +1,10 @@
 <!--2023-12-31 01:45:14-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/soldier_of_fortune_shorts_viral_classicrock target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/OOVD7x39A6M/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/OOVD7x39A6M"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OOVD7x39A6M" target="_blank">Soldier Of Fortune #shorts #viral #classicrock</a><br>
-  <i class="smaller2">Classic Rock Music</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/soldier_of_fortune_shorts_viral_classicrock">
+    <img class="preview" data-videoid="OOVD7x39A6M" src="https://i.ytimg.com/vi/OOVD7x39A6M/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=OOVD7x39A6M">Soldier Of Fortune #shorts #viral #classicrock</a><br>
+    <i class="smaller2">Classic Rock Music</i>
+  </div>
 </div>

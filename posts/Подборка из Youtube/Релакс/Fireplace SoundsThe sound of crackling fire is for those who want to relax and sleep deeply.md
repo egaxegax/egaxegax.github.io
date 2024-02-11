@@ -1,15 +1,10 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?relaks/fireplace_soundsthe_sound_of_crackling_fire_is_for_those_who_want_to_relax_and_sleep_deeply target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/1NZ5guikLHY/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/1NZ5guikLHY"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=1NZ5guikLHY" target="_blank">Fireplace Sounds🔥The sound of crackling fire is fo...</a><br>
-  <i class="smaller2">Relaxing Fire Sound</i>
-</div>
+  <a class="nodecor" href="/posts.html?relaks/fireplace_soundsthe_sound_of_crackling_fire_is_for_those_who_want_to_relax_and_sleep_deeply">
+    <img class="preview" data-videoid="1NZ5guikLHY" src="https://i.ytimg.com/vi/1NZ5guikLHY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=1NZ5guikLHY">Fireplace Sounds🔥The sound of crackling fire is fo...</a><br>
+    <i class="smaller2">Relaxing Fire Sound</i>
+  </div>
 </div>

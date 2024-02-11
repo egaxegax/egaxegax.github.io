@@ -1,15 +1,10 @@
 <!--2024-01-03 12:12:35-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?puteshestviya/priehal_na_zapad_rabotat_letchikom_a_rabotal_gruzchikom target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/yX_zbxtN7vc/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/yX_zbxtN7vc"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=yX_zbxtN7vc" target="_blank">Приехал на запад работать лётчиком , a  работал...</a><br>
-  <i class="smaller2">АМЕРИКА Наизнанку</i>
-</div>
+  <a class="nodecor" href="/posts.html?puteshestviya/priehal_na_zapad_rabotat_letchikom_a_rabotal_gruzchikom">
+    <img class="preview" data-videoid="yX_zbxtN7vc" src="https://i.ytimg.com/vi/yX_zbxtN7vc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=yX_zbxtN7vc">Приехал на запад работать лётчиком , a  работал...</a><br>
+    <i class="smaller2">АМЕРИКА Наизнанку</i>
+  </div>
 </div>

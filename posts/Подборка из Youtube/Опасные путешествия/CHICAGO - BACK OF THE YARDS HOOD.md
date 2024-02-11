@@ -1,15 +1,10 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/chicago_-_back_of_the_yards_hood target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/h-M8VWuR4dU/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/h-M8VWuR4dU"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=h-M8VWuR4dU" target="_blank">CHICAGO - BACK OF THE YARDS HOOD</a><br>
-  <i class="smaller2">HoodTime</i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/chicago_-_back_of_the_yards_hood">
+    <img class="preview" data-videoid="h-M8VWuR4dU" src="https://i.ytimg.com/vi/h-M8VWuR4dU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=h-M8VWuR4dU">CHICAGO - BACK OF THE YARDS HOOD</a><br>
+    <i class="smaller2">HoodTime</i>
+  </div>
 </div>

@@ -1,15 +1,10 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/the_new_york_subway_is_a_world_of_its_own target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/wLfnQh80xJs/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/wLfnQh80xJs"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=wLfnQh80xJs" target="_blank">The New York Subway is a World of its own 🤔🌎</a><br>
-  <i class="smaller2">Olima Omega</i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/the_new_york_subway_is_a_world_of_its_own">
+    <img class="preview" data-videoid="wLfnQh80xJs" src="https://i.ytimg.com/vi/wLfnQh80xJs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=wLfnQh80xJs">The New York Subway is a World of its own 🤔🌎</a><br>
+    <i class="smaller2">Olima Omega</i>
+  </div>
 </div>

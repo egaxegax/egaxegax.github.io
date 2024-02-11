@@ -1,15 +1,10 @@
 <!--2024-01-02 11:31:54-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/the_best_of_eagle_attacks_2023 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/15rnksJ-3bE/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/15rnksJ-3bE"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=15rnksJ-3bE" target="_blank">The Best of Eagle Attacks 2023</a><br>
-  <i class="smaller2">Earth101</i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/the_best_of_eagle_attacks_2023">
+    <img class="preview" data-videoid="15rnksJ-3bE" src="https://i.ytimg.com/vi/15rnksJ-3bE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=15rnksJ-3bE">The Best of Eagle Attacks 2023</a><br>
+    <i class="smaller2">Earth101</i>
+  </div>
 </div>

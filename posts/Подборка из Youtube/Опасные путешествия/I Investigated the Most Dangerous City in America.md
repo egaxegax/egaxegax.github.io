@@ -1,15 +1,10 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?opasnye_puteshestviya/i_investigated_the_most_dangerous_city_in_america target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/-VVmjcw11fA/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/-VVmjcw11fA"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=-VVmjcw11fA" target="_blank">I Investigated the Most Dangerous City in...</a><br>
-  <i class="smaller2">Tyler Oliveira</i>
-</div>
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/i_investigated_the_most_dangerous_city_in_america">
+    <img class="preview" data-videoid="-VVmjcw11fA" src="https://i.ytimg.com/vi/-VVmjcw11fA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=-VVmjcw11fA">I Investigated the Most Dangerous City in...</a><br>
+    <i class="smaller2">Tyler Oliveira</i>
+  </div>
 </div>

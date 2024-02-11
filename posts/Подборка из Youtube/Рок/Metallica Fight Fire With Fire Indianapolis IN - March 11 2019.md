@@ -1,15 +1,10 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rok/metallica_fight_fire_with_fire_indianapolis_in_-_march_11_2019 target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/pxx-vgB6CZs/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/pxx-vgB6CZs"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=pxx-vgB6CZs" target="_blank">Metallica: Fight Fire With Fire (Indianapolis, IN ...</a><br>
-  <i class="smaller2">Metallica</i>
-</div>
+  <a class="nodecor" href="/posts.html?rok/metallica_fight_fire_with_fire_indianapolis_in_-_march_11_2019">
+    <img class="preview" data-videoid="pxx-vgB6CZs" src="https://i.ytimg.com/vi/pxx-vgB6CZs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=pxx-vgB6CZs">Metallica: Fight Fire With Fire (Indianapolis, IN ...</a><br>
+    <i class="smaller2">Metallica</i>
+  </div>
 </div>

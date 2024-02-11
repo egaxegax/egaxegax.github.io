@@ -1,15 +1,10 @@
 <!--2024-01-03 14:56:11-->
 <div class="yb">
-<a class="nodecor" href=/posts.html?rabota/moj_pervyj_gruz_v_landstar_heavy_haul_shirokij_dalnoboj target="_blank">
-  <img class="preview" src="https://i.ytimg.com/vi/9WtL0OEu7Lo/hqdefault.jpg" align="middle" alt="">
-</a>
-&nbsp;&nbsp;&nbsp;
-<iframe class="embed" align="middle" style="display:none" src="https://www.youtube.com/embed/9WtL0OEu7Lo"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
-<div class="inlbl">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=9WtL0OEu7Lo" target="_blank">Мой первый груз в Landstar Heavy Haul  Широкий...</a><br>
-  <i class="smaller2">Dima Malash</i>
-</div>
+  <a class="nodecor" href="/posts.html?rabota/moj_pervyj_gruz_v_landstar_heavy_haul_shirokij_dalnoboj">
+    <img class="preview" data-videoid="9WtL0OEu7Lo" src="https://i.ytimg.com/vi/9WtL0OEu7Lo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="https://www.youtube.com/watch?v=9WtL0OEu7Lo">Мой первый груз в Landstar Heavy Haul  Широкий...</a><br>
+    <i class="smaller2">Dima Malash</i>
+  </div>
 </div>
