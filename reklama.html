@@ -63,8 +63,8 @@
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh_1">'+addLoader(i==0)+'</div>'+
       '<div id="yandex_rtb_'+(i+page.bottom)+'_1" class="bmarg1 mw mh_1"></div>';
-        addYaRTB_Block((i+page.bottom)+'_0', false, YA_RTB[page.rtb[0]]);
-        addYaRTB_Block((i+page.bottom)+'_1', false, YA_RTB[page.rtb[1]]);
+        addYaRTB_Block((i+page.bottom)+'_0', false, YA_RTB[page.rtb[0]], page.rtb[0] == 'feed' ? page.rtb[0] : '');
+        addYaRTB_Block((i+page.bottom)+'_1', true, YA_RTB[page.rtb[1]], page.rtb[1] == 'feed' ? page.rtb[1] : '');
        } else {
         document.getElementById('page_content').innerHTML += 
       '<div id="block'+(i+page.bottom)+'_0" class="wrap">'+
