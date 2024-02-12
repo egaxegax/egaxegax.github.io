@@ -74,11 +74,6 @@ img.av { width: 100%; height: auto; }
     for(var i=0; i<page.gnrs.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.gnrs[i], page.bottom+i+1)+'</div>';
-      if(window.addYaRTB_Block && (i==0 || i==9 || page.gnrs.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_1"></div>';
-        addYaRTB_Block((i+page.bottom), true, YA_RTB[5]);
-      }
     }
     if(page.gnrs.length){
       document.getElementById('page_footer').innerHTML = addPaginator(gnrs, page,
@@ -103,6 +98,11 @@ img.av { width: 100%; height: auto; }
   '<p class="mtext hspace">Список из <b><i>'+GNRS.length+'</b></i> книжных жанров в алфавитном порядке </p>';
     GNRS = GNRS.slice().sort(function(a,b){ return arraySort(GENRES_RU[a[0]]||a[0],GENRES_RU[b[0]]||b[0]); });
     document.getElementById('page_content').innerHTML = '';
+    if(window.addYaRTB_Block){
+      document.getElementById('page_content').innerHTML += 
+    '<div id="yandex_rtb_0" class="bmarg mw mh_1"></div>';
+      addYaRTB_Block(0, true, YA_RTB[5]);
+    }
     addPageContent(GNRS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
