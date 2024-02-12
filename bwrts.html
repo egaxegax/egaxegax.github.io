@@ -68,9 +68,14 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.wrts = wrts.slice(page.bottom, page.top);
+    page.i = 0;
     for(var i=0; i<page.wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>';
+    '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addLoader(i==0)+'</div>';
+      setTimeout(function(){
+        document.getElementById('wrt'+(page.i+page.bottom)).innerHTML = addWrt(page.wrts[page.i], page.bottom+page.i+1);
+        page.i++;
+      });
       if(window.addYaRTB_Block && (i==0 || i==9 || page.wrts.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_1"></div>';
