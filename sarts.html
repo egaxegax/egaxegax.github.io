@@ -84,7 +84,7 @@
       document.title += ' - ' + urlParams().page;
     }
     window.PAGE = { 
-      per: 20,                 // blocks 1 page
+      per: 10,                 // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.ARTS = SUBJ;
@@ -101,7 +101,7 @@
     addPageContent(ARTS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-10){
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
         addPageContent(ARTS, PAGE);
       }
     });
