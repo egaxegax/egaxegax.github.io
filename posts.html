@@ -127,7 +127,7 @@
           (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
         }
       });
-      if(window.addYaRTB_Block){
+      if(window.addYaRTB_Block && (i==0 || i==2 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh120"></div>';
         addYaRTB_Block((i+page.bottom), true, YA_RTB[2]);
