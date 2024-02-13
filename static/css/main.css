@@ -64,5 +64,6 @@ pre { font-size:1rem; }
 .mh_1 { max-height:240px; }
 .mh_2 { max-height:135px; }
 .mh { max-height:260px; }
+.mw_2 { max-width:400px; }
 .mw { max-width:880px; }
 .mw_f { max-width:740px; }

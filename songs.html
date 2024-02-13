@@ -99,10 +99,12 @@
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext collapse"><tr>'+
+  '<table class="msgtext nopad nomarg inlbl vmid" style="max-width:800px"><tr>'+
     '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
     '<td>'+html+'</td></tr>'+
-  '</table>';
+  '</table>'+
+  '<div id="yandex_rtb_about" class="inlbl vmid mw_2 mh_2"></div>';
+    if(window.addYaRTB_Block) addYaRTB_Block('about', false, YA_RTB[4]);
     return ' about';
   }
 
