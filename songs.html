@@ -85,13 +85,13 @@
   function addList(r,p){
     if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды');
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext inlbl mw600"><tr>'+
+  '<table class="msgtext inlbl vmid"><tr>'+
     '<td width="99%">'+
       '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
+      '<div id="yandex_rtb_'+p.i+'" class="inlbl vmid mw280 mh50"></div>';
     '</td>'+
     '<td align="right" class="light"><i class="counter small">'+p.i+'</i></td></tr>'+
-  '</table>'+
-  '<div id="yandex_rtb_'+p.i+'" class="inlbl vmid mw280 mh50"></div>';
+  '</table>';
     if(window.addYaRTB_Block) addYaRTB_Block(p.i, false, YA_RTB[4]);
   }
 
@@ -105,7 +105,7 @@
     '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
     '<td>'+html+'</td></tr>'+
   '</table>'+
-  '<div id="yandex_rtb_about" class="inlbl vmid mw280 mh120"></div>';
+  '<div id="yandex_rtb_about" class="inlbl vmid mw260 mh120"></div>';
     if(window.addYaRTB_Block) addYaRTB_Block('about', false, YA_RTB[4]);
     return ' about';
   }
