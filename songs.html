@@ -85,10 +85,10 @@
   function addList(r,p){
     if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды');
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext"><tr>'+
+  '<table class="msgtext scroll"><tr>'+
     '<td width="99%">'+
-      '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
-      '<div id="yandex_rtb_'+p.i+'" class="inlbl vmid mw260 mh50"></div>'+
+      '<a class="nodecor dark nw600" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
+      '<div id="yandex_rtb_'+p.i+'" class="hspace mw260 mh50"></div>'+
     '</td>'+
     '<td align="right" class="light"><i class="counter small">'+p.i+'</i></td></tr>'+
   '</table>';

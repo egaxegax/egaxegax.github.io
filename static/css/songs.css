@@ -20,4 +20,5 @@ img.av { width:50px; height:auto; }
 /*ads*/
 .mw260 { max-width:260px; }
 .mw600 { max-width:600px; }
+.nw260 { min-width:600px; }
 .mh50 { max-height:52px; }
