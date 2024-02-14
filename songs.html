@@ -118,11 +118,11 @@
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
-  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh120"></div>'+
+  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh110"></div>'+
   '<div id="songcont" class="msgtext chords nowrap marg mw600">'+
     html+
   '</div>'+
-  '<div id="yandex_rtb_'+(p.i)+'_ch1" class="bmarg mw600 mh_2"></div>'+
+  '<div id="yandex_rtb_'+(p.i)+'_ch1" class="bmarg mw600 mh120"></div>'+
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
