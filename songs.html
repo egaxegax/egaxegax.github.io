@@ -99,11 +99,11 @@
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext collapse inlbl mw600"><tr>'+
+  '<table class="msgtext collapse inlbl vtop mw600"><tr>'+
     '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
     '<td>'+html+'</td></tr>'+
   '</table>'+
-  '<div id="yandex_rtb_about" class="inlbl mw260 mh120"></div>';
+  '<div id="yandex_rtb_about" class="inlbl vtop mw260 mh120"></div>';
     if(window.addYaRTB_Block) addYaRTB_Block('about', false, YA_RTB[4]);
     return ' about';
   }
