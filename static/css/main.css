@@ -11,7 +11,10 @@
 .bl { display:block; }
 .inl { display:inline; }
 .inlbl { display:inline-block; }
+.fixed { position:fixed; }
 .grid { display:grid; }
+.table { display:table; width:99%; padding:10px 0; }
+.tcell { display:table-cell; height:50px; }
 .hmarg { margin:0 12px; }
 .bmarg { margin: 0 auto 10px auto; }
 .bmarg1 { margin: -5px auto 10px auto; }
@@ -26,6 +29,7 @@
 .lfloat { float:left; text-align:left; }
 .rfloat { float:right; text-align:right; }
 .cfloat { text-align:center; }
+.hright { text-align:right; }
 .vtop { vertical-align:top; }
 .vmid { vertical-align:middle; }
 .scroll { display:block; overflow:auto; white-space:nowrap; }

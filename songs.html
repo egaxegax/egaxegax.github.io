@@ -31,7 +31,7 @@
 </head>
 <body>
 <div id="root" class="main">
-<div id="header" class="main scroll">
+<div id="header" class="main scroll fixed">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" alt="Заметки"></a>
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg" alt="Фотки"></a>
@@ -54,7 +54,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML =
-'<p class="mtext hspace">Подборка текстов песен с аккордами и просто стихов.</p>';
+'<div class="mtext table collapse"><div class="hspace tcell vmid">Подборка текстов песен с аккордами и просто стихов.</div></table>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function find(){
@@ -126,7 +126,7 @@
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
+//    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
     if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch1', false, YA_RTB[4]);
       // feed
     document.getElementById('page_content').innerHTML += 
@@ -216,12 +216,15 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
     var page_header = 
-      '<p class="mtext hspace">'+
-         '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Текстов <b><i>$COUNT</i></b> разных &emsp; <a href="/sarts.html">Авторов</a>&nbsp; '+
+      '<div class="mtext table collapse">'+
+        '<div class="hspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных &emsp; <a href="/sarts.html">Авторов</a>&nbsp; '+
           '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
           '<a href="/research.html">Поиск</a> '+
-      '</p>';
+        '</div>'+
+        '<div class="tcell hright vmid">'+
+          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        '</div>'+
+      '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -238,9 +241,12 @@
         if(SONGS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<p class="mtext hspace">'+
-        '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></p>';
+        '<div class="mtext table collapse">'+
+          '<div class="hspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
+          '<div id="yandex_rtb_hd" class="tcell hright vmid">'+
+            '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '</div>'+
+        '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
         }
         PAGE.per = 20;
@@ -249,14 +255,16 @@
         SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
         if(SONGS.length){
           PAGE.view = 'song';
-          page_header = 
-        '<p class="hspace">'+
-          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          '<h2 class="nomarg nopad grid">'+
+          page_header =
+        '<div class="table">'+
+          '<h2 class="nopad tcell vmid" style="width:60%">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<div class="hspace">'+SONGS[0][2]+'</div>'+
           '</h2>'+
-        '</p>';
+          '<div id="yandex_rtb_hd" class="tcell hright vmid">'+
+            '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '</div>'+
+        '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
         }
@@ -266,12 +274,14 @@
         if(SONGS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<p class="hspace">'+
-          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          '<h2 class="nomarg nopad">'+
+        '<div class="table collapse">'+
+          '<h2 class="nopad tcell vmid">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
             '<span class="gray"><i class="counter"> ('+ SONGS.length+') </i></span>'+
-          '</h2> '+
+          '</h2>'+
+          '<div id="yandex_rtb_hd" class="tcell hright vmid">'+
+            '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '</div>'+
         '</p>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
@@ -280,6 +290,9 @@
       }
     }
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
+    if(window.addYaRTB_Block) addYaRTB_Block('hd', false, YA_RTB[4]);
+    document.getElementById('page_content').style.paddingTop = String(
+      document.getElementById('header').offsetHeight+document.getElementById('page_header').offsetHeight) + 'px';
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       // infinite scroll

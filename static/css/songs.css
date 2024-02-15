@@ -13,7 +13,8 @@ h3 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; }
 #root { background:#eee; }
-#header { background-color:#d2e0f0; }
+#header { background-color:#d2e0f0; width:100%; }
+#page_header { background:#eee; position:fixed; top:40px; width:100%; }
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 .av img { width:50px; height:auto; }
