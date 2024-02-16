@@ -279,8 +279,10 @@
             '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
             '<span class="gray"><i class="counter"> ('+ SONGS.length+') </i></span>'+
           '</h2>'+
-          '<div id="yandex_rtb_hd" class="mh50 tcell hright vmid" style="max-height:50px">'+
-            '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '<div class="mh50 tcell hright vmid">'+
+            '<div id="yandex_rtb_hd" class="mh50 vmid">'+
+              '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+            '</div>'+
           '</div>'+
         '</p>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
