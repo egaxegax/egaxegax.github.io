@@ -221,8 +221,10 @@
           '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
           '<a href="/research.html">Поиск</a> '+
         '</div>'+
-        '<div class="tcell hright vmid">'+
-          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        '<div class="mh50 tcell hright vmid">'+
+          '<div id="yandex_rtb_hd" class="mh50">'+
+            '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '</div>'+
         '</div>'+
       '</div>';
     for(var p in urlParams()){
@@ -243,8 +245,10 @@
           page_header = 
         '<div class="mtext table">'+
           '<div class="hspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
-          '<div id="yandex_rtb_hd" class="mh50 tcell hright vmid">'+
-            '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '<div class="mh50 tcell hright vmid">'+
+            '<div id="yandex_rtb_hd" class="mh50">'+
+              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+            '</div>'+
           '</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
@@ -261,8 +265,10 @@
             '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<div class="hspace">'+SONGS[0][2]+'</div>'+
           '</h2>'+
-          '<div id="yandex_rtb_hd" class="mh50 tcell hright vmid">'+
-            '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+          '<div class="mh50 tcell hright vmid">'+
+            '<div id="yandex_rtb_hd" class="mh50">'+
+              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+            '<div>'+
           '</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
@@ -276,11 +282,11 @@
           page_header = 
         '<div class="table">'+
           '<h2 class="nopad tcell vmid" style="width:40%">'+
-            '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
-            '<span class="gray"><i class="counter"> ('+ SONGS.length+') </i></span>'+
+            '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>&emsp;'+
+            '<span class="gray"><i class="counter">('+ SONGS.length+')</i></span>'+
           '</h2>'+
           '<div class="mh50 tcell hright vmid">'+
-            '<div id="yandex_rtb_hd" class="mh50 vmid">'+
+            '<div id="yandex_rtb_hd" class="mh50">'+
               '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
             '</div>'+
           '</div>'+
