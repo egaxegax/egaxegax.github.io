@@ -46,7 +46,7 @@
   };
 
   document.getElementById('page_header').innerHTML =
-'<p class="mtext hspace">Подборка описаний книг разных авторов из свободных источников.</p>';
+'<p class="large hspace">Подборка описаний книг разных авторов из свободных источников.</p>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function strToUtc(dt){
@@ -84,12 +84,12 @@
   '<div class="msgtext">'+
     '<div>'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
-        '<a class="nodecor hspace smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
+        '<a class="hspace nodecor smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
       : r+
-        '<a class="nodecor hspace smaller" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
+        '<a class="hspace nodecor smaller" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
   '</div>'+
   '<div class="msgfooter">'+
-    '<a class="nodecor hspace" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
+    '<a class="hspace nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
     '<span class="gray"><i>'+buildDate(p.title[3])+'</i></span>'+
   '</div>';
     if(window.addYaRTB_Block) addYaRTB_Block(p.i, false, YA_RTB[5]);
@@ -158,7 +158,7 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.BOOKS = TITLES;
     var page_header = 
-      '<p class="mtext hspace">'+
+      '<p class="large hspace">'+
          '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
         'Описаний <b><i>$COUNT</i></b> по &emsp; <a href="/bwrts.html"> Авторам</a>&nbsp; '+
           '<a href="/bgenres.html">Жанрам</a>'+
@@ -179,9 +179,9 @@
         if(BOOKS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<p class="mtext hspace">'+
+        '<p class="large hspace">'+
           '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></p>';
+        'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &nbsp; <i class="counter">('+BOOKS.length+')</i></p>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
         PAGE.per = 10;
@@ -193,7 +193,7 @@
         '<p class="hspace">'+
           '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
           '<h2 class="nomarg nopad grid">'+
-            '<a class="nodecor hspace" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
+            '<a class="hspace nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<span class="hspace">'+BOOKS[0][2]+'</span>'+
           '</h2>'+
         '</p>';
@@ -213,10 +213,10 @@
         '<p class="hspace">'+
           '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
           '<h2 class="nomarg nopad">'+
-            '<a class="nodecor hspace" href="'+
+            '<a class="hspace nodecor" href="'+
               (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
               (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
-            '</a> &emsp; '+
+            '</a> &nbsp; '+
             '<span class="gray"><i class="counter">('+ BOOKS.length+')</i></span>'+
           '</h2>'+
         '</p>';

@@ -54,7 +54,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML =
-'<div class="mtext table"><div class="hspace tcell vmid">Подборка текстов песен с аккордами и просто стихов.</div></table>';
+'<div class="large table"><div class="tbspace tcell vmid">Подборка текстов песен с аккордами и просто стихов.</div></table>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function find(){
@@ -216,17 +216,15 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
     var page_header = 
-      '<div class="mtext table">'+
-        '<div class="hspace tcell vmid" style="width:50%">Текстов <b><i>$COUNT</i></b> разных &emsp; <a href="/sarts.html">Авторов</a>&nbsp; '+
-          '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
-          '<a href="/research.html">Поиск</a> '+
-        '</div>'+
-        '<div class="mh50 tcell hright vmid">'+
-          '<div id="yandex_rtb_hd" class="mh50">'+
-            '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          '</div>'+
-        '</div>'+
-      '</div>';
+  '<div class="large table">'+
+    '<div class="tbspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных &emsp; <a href="/sarts.html">Авторов</a>&nbsp; '+
+      '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
+      '<a href="/research.html">Поиск</a> '+
+    '</div>'+
+    '<div class="mh50 tcell hright vmid">'+
+      '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
+    '</div>'+
+  '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -243,11 +241,11 @@
         if(SONGS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<div class="mtext table">'+
-          '<div class="hspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
+        '<div class="large table">'+
+          '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
           '<div class="mh50 tcell hright vmid">'+
-            '<div id="yandex_rtb_hd" class="mh50">'+
-              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+            '<div id="yandex_rtb_hd">'+
+              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
             '</div>'+
           '</div>'+
         '</div>';
@@ -261,13 +259,13 @@
           PAGE.view = 'song';
           page_header =
         '<div class="table">'+
-          '<h2 class="nopad tcell vmid" style="width:60%">'+
-            '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
-            '<div class="hspace">'+SONGS[0][2]+'</div>'+
-          '</h2>'+
+          '<div class="bigger1 tbspace tcell vmid" style="width:60%">'+
+            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
+            '<div>'+SONGS[0][2]+'</div>'+
+          '</div>'+
           '<div class="mh50 tcell hright vmid">'+
-            '<div id="yandex_rtb_hd" class="mh50">'+
-              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+            '<div id="yandex_rtb_hd">'+
+              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
             '<div>'+
           '</div>'+
         '</div>';
@@ -281,13 +279,13 @@
           PAGE.view = 'list';
           page_header = 
         '<div class="table">'+
-          '<h2 class="nopad tcell vmid" style="width:40%">'+
-            '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
-            '<span class="gray hspace"><i class="counter">('+ SONGS.length+')</i></span>'+
-          '</h2>'+
+          '<div class="bigger1 tbspace tcell vmid">'+
+            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &nbsp;'+
+            '<i class="counter"> ('+ SONGS.length+')</i>'+
+          '</div>'+
           '<div class="mh50 tcell hright vmid">'+
-            '<div id="yandex_rtb_hd" class="mh50">'+
-              '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+            '<div id="yandex_rtb_hd">'+
+              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
             '</div>'+
           '</div>'+
         '</p>';

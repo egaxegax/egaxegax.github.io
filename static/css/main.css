@@ -3,7 +3,6 @@
 .rounded { border-radius:50%; }
 .rounded2 { border-radius:2%; }
 .rounded4 { border-radius:4%; }
-.mtext { font-size:large; }
 .msgtext { font-size:large; min-height:1em; padding:5px 5px; margin:0px; }
 .msgfooter { padding:0 1px 1px 0; text-align:right; font-size:small; }
 .msgtext dt { padding:5px 0; }
@@ -13,7 +12,7 @@
 .inlbl { display:inline-block; }
 .fixed { position:fixed; }
 .grid { display:grid; }
-.table { display:table; width:99%; padding:10px 0; }
+.table { display:table; border-collapse:collapse; width:100%; }
 .tcell { display:table-cell; height:50px; }
 .hmarg { margin:0 12px; }
 .bmarg { margin: 0 auto 10px auto; }
@@ -22,6 +21,7 @@
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
 .nowrap { white-space: nowrap; }
+.tbspace { padding:10px 12px; }
 .hspaced { padding:0 4px; }
 .hspace { padding:0 12px; }
 .hspace1 { padding:0 24px; }
@@ -35,7 +35,9 @@
 .scroll { display:block; overflow:auto; white-space:nowrap; }
 .smaller { font-size:smaller; }
 .small { font-size:small; }
+.large { font-size:large; }
 .bigger { font-size:150%; }
+.bigger1 { font-size:130%; }
 .bigger2 { font-size:200%; }
 .main { margin:0px auto 0px auto; max-width:900px; }
 .loader { border:1px solid #ddd; }
