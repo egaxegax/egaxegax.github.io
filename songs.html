@@ -54,7 +54,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML =
-'<div class="mtext table collapse"><div class="hspace tcell vmid">Подборка текстов песен с аккордами и просто стихов.</div></table>';
+'<div class="mtext table"><div class="hspace tcell vmid">Подборка текстов песен с аккордами и просто стихов.</div></table>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function find(){
@@ -118,7 +118,7 @@
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
-//  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh120"></div>'+
+  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh120"></div>'+
   '<div id="songcont" class="msgtext chords nowrap marg mw600">'+
     html+
   '</div>'+
@@ -126,7 +126,7 @@
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-//    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
+    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
     if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch1', false, YA_RTB[4]);
       // feed
     document.getElementById('page_content').innerHTML += 
@@ -216,7 +216,7 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
     var page_header = 
-      '<div class="mtext table collapse">'+
+      '<div class="mtext table">'+
         '<div class="hspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных &emsp; <a href="/sarts.html">Авторов</a>&nbsp; '+
           '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
           '<a href="/research.html">Поиск</a> '+
@@ -241,7 +241,7 @@
         if(SONGS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<div class="mtext table collapse">'+
+        '<div class="mtext table">'+
           '<div class="hspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
           '<div id="yandex_rtb_hd" class="mh50 tcell hright vmid">'+
             '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
@@ -274,7 +274,7 @@
         if(SONGS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<div class="table collapse">'+
+        '<div class="table">'+
           '<h2 class="nopad tcell vmid" style="width:40%">'+
             '<a class="nodecor hspace" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &emsp; '+
             '<span class="gray"><i class="counter"> ('+ SONGS.length+') </i></span>'+
