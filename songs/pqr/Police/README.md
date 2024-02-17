@@ -1,3 +1,8 @@
+![](police.jpg)
+
+Популярная британская рок-группа, существовавшая до *2008* года.
+
+
 * [Behind My Camel](Behind%20My%20Camel.md)
 * [Bring On The Night](Bring%20On%20The%20Night.md)
 * [Can't Stand Losing You](Can't%20Stand%20Losing%20You.md)
