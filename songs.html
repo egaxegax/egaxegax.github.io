@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="stylesheet" href="/static/css/songs.css">
 <style>
-.about { padding:5px 10px 5px 10px; }
+.about { padding:2px 10px 0px 10px; }
 .about img { max-width:100px; }
 .chords { line-height:1.3em; overflow:auto; }
 .chords strong em { font-weight:500; font-style:normal; }
@@ -217,7 +217,7 @@
     window.SONGS = TITLES;
     var page_header = 
   '<div class="large table">'+
-    '<div class="tbspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных &emsp; <a href="/sarts.html">Авторов</a>&nbsp; '+
+    '<div class="tbspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных&ensp; <a href="/sarts.html">Авторов</a>&nbsp; '+
       '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
       '<a href="/research.html">Поиск</a> '+
     '</div>'+
@@ -278,8 +278,8 @@
           page_header = 
         '<div class="table">'+
           '<div class="bigger1 tbspace tcell vmid">'+
-            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> &nbsp;'+
-            '<i class="counter"> ('+ SONGS.length+')</i>'+
+            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
+            '<div><i class="hspaced counter"> ('+ SONGS.length+')</i></div>'+
           '</div>'+
           '<div class="tcell hright vmid" style="width:55%">'+
             '<div id="yandex_rtb_hd" class="mh70">'+
