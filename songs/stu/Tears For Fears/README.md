@@ -1,3 +1,8 @@
+![](tears_for_fears.jpg)
+
+Британская группа, основанная в *1981* году и играющая в жанре *технопоп*.
+
+
 * [Break It Down Again](Break%20It%20Down%20Again.md)
 * [Everybody Wants To Rule The World](Everybody%20Wants%20To%20Rule%20The%20World.md)
 * [Falling Down](Falling%20Down.md)

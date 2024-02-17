@@ -221,9 +221,7 @@
       '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
       '<a href="/research.html">Поиск</a> '+
     '</div>'+
-    '<div class="tcell hright vmid" style="width:30%">'+
-      '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
-    '</div>'+
+    '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -243,9 +241,7 @@
           page_header = 
         '<div class="large table">'+
           '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
-          '<div class="tcell hright vmid" style="width:30%">'+
-            '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
-          '</div>'+
+          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
         }
@@ -262,9 +258,7 @@
             '<div>'+SONGS[0][2]+'</div>'+
           '</div>'+
           '<div class="tcell hright vmid" style="width:55%">'+
-            '<div id="yandex_rtb_hd" class="mh70">'+
-              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
-            '<div>'+
+            '<div id="yandex_rtb_hd" class="mh70">'+addFinder()+'<div>'+
           '</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
@@ -282,9 +276,7 @@
             '<div><i class="hspaced counter"> ('+ SONGS.length+')</i></div>'+
           '</div>'+
           '<div class="tcell hright vmid" style="width:55%">'+
-            '<div id="yandex_rtb_hd" class="mh70">'+
-              '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'+
-            '</div>'+
+            '<div id="yandex_rtb_hd" class="mh70">'+addFinder()+'</div>'+
           '</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
