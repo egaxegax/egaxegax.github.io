@@ -18,4 +18,4 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_footer button { background:#fff; }
 /**/
 .av div { min-width:50px; min-height:50px; }
-.av img { width:50px; height:auto; }
+.av img { width:100%; height:auto; }
