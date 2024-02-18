@@ -46,7 +46,7 @@
   };
 
   document.getElementById('page_header').innerHTML =
-'<p class="large hspace">Подборка описаний книг разных авторов из свободных источников.</p>';
+'<div class="large table"><div class="tbspace tcell vmid">Подборка описаний книг разных авторов из свободных источников.</div></div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function strToUtc(dt){
@@ -68,14 +68,14 @@
     updateMetaTag('description', p.subj+', список описаний книг, '+p.title[2]);
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', книги');
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext inlbl vmid" style="min-width:320px; max-width:320px"><tr>'+
+  '<table class="msgtext inlbl vmid" style="min-width:340px; max-width:340px"><tr>'+
     '<td align="center" valign="top" style="min-width:140px; max-width:140px">'+
       '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
         '<img class="smaller gray rounded4" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg" style="max-width:120px">'+
       '</a>'+
     '</td>'+
     '<td colspan="2" width="90%">'+
-      '<a class="nodecor dark" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> '+p.title[2]+' </a>'+
+      '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a>'+
       '<p class="smaller gray">Автор<br> <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
       '<p class="smaller gray">Жанр<br> <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
     '</td></tr>'+
@@ -193,13 +193,15 @@
         if(BOOKS.length){
           PAGE.view = 'book';
           page_header = 
-        '<p class="hspace">'+
-          '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          '<h2 class="nomarg nopad grid">'+
-            '<a class="hspace nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
-            '<span class="hspace">'+BOOKS[0][2]+'</span>'+
-          '</h2>'+
-        '</p>';
+        '<div class="table bigger1">'+
+          '<div class="tbspace tcell vmid" style="width:60%">'+
+            '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
+            '<div>'+BOOKS[0][2]+'</div>'+
+          '</div>'+
+          '<div class="tcell hright vmid">'+
+            '<div id="yandex_rtb_hd" class="mh_hd">'+addFinder()+'<div>'+
+          '</div>'+
+        '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
           BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
         }
@@ -213,16 +215,18 @@
         if(BOOKS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<p class="hspace">'+
-          '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          '<h2 class="nomarg nopad">'+
-            '<a class="hspace nodecor" href="'+
+        '<div class="table bigger1">'+
+          '<div class="tbspace tcell vmid" style="width:50%">'+
+            '<a class="nodecor" href="'+
               (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
               (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
             '</a> &nbsp; '+
-            '<span class="gray"><i class="counter">('+ BOOKS.length+')</i></span>'+
-          '</h2>'+
-        '</p>';
+            '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
+          '</div>'+
+          '<div class="tcell hright vmid">'+
+            '<div id="yandex_rtb_hd" class="mh_hd">'+addFinder()+'</div>'+
+          '</div>'+
+        '</div>';
           if(gnr.length>0){
             document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;
           }
