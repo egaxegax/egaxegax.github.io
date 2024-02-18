@@ -68,15 +68,15 @@
     updateMetaTag('description', p.subj+', список описаний книг, '+p.title[2]);
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', книги');
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext inlbl vmid cfloat" style="min-width:170px; max-width:170px">'+
+  '<div class="msgtext inlbl vmid cfloat" style="min-width:150px; max-width:150px">'+
     '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
-      '<img class="smaller gray rounded4" style="max-width:150px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
+      '<img class="smaller gray rounded4" style="max-width:130px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
     '</a>'+
   '</div>'+
   '<div class="msgtext inlbl vmid mw_1">'+
       '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a>'+
-      '<p class="smaller gray">Автор <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
-      '<p class="smaller gray">Жанр <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
+      '<p class="smaller gray">Автор &nbsp; <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
+      '<p class="smaller gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   '</div>'+
   '<div id="yandex_rtb_'+p.i+'" class="hspace mw_rw mh_sm"></div>'+
   '<div class="msgtext">'+
