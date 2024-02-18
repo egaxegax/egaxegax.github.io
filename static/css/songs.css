@@ -17,6 +17,7 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_header { background:#eee; width:100%; z-index:999; }
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
+.av div { min-width:50px; min-height:50px; }
 .av img { width:50px; height:auto; }
 /*ads*/
 .mh_ch { max-height:100px; }

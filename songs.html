@@ -75,19 +75,17 @@
 
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext">'+
-    '<table border=0 width="99%" class="scroll"><tr>'+
-      '<td class="av" align="center" valign="middle">'+
-        '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""><div>'+
-      '</td>'+
-      '<td width="90%" class="hspaced">'+
-        '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
-        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
-        '<i class="hspace1 gray small">'+buildDate(p.title[3])+'</i>'+
-      '</td>'+
-      '<td valign="center" align="right" class="light" width="10%"><i class="counter small">'+(p.i+1)+'</i></td></tr>'+
-    '</table>'+
-  '</div>';
+  '<table class="msgtext scroll av" width="99%"><tr>'+
+    '<td align="center" valign="middle">'+
+      '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
+    '</td>'+
+    '<td width="90%" class="hspaced">'+
+      '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a> '+
+      '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
+      '<i class="hspace1 gray small">'+buildDate(p.title[3])+'</i>'+
+    '</td>'+
+    '<td valign="center" align="right" class="light" width="10%"><i class="counter small">'+(p.i+1)+'</i></td></tr>'+
+  '</table>';
   }
   
   function addList(r,p){
