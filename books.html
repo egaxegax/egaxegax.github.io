@@ -68,9 +68,9 @@
     updateMetaTag('description', p.subj+', список описаний книг, '+p.title[2]);
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', книги');
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext inlbl vmid cfloat" style="min-width:150px; max-width:150px">'+
+  '<div class="msgtext inlbl vmid cfloat" style="min-width:140px; max-width:140px">'+
     '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
-      '<img class="smaller gray rounded4" style="max-width:130px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
+      '<img class="smaller gray rounded4" style="max-width:120px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
     '</a>'+
   '</div>'+
   '<div class="msgtext inlbl vmid mw_1">'+
