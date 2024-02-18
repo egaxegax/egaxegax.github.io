@@ -76,11 +76,11 @@
     '</td>'+
     '<td colspan="2" width="90%">'+
       '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a>'+
-      '<p class="smaller gray">Автор<br> <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
-      '<p class="smaller gray">Жанр<br> <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
+      '<p class="smaller gray">Автор <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
+      '<p class="smaller gray">Жанр <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
+      '<div id="yandex_rtb_'+p.i+'" class="inlbl vmid mw_2 mh_sm"></div>'+
     '</td></tr>'+
   '</table>'+ 
-  '<div id="yandex_rtb_'+p.i+'" class="inlbl vmid mw_2 mh_sm"></div>'+
   '<div class="msgtext">'+
     '<div>'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
