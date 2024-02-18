@@ -158,11 +158,13 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.BOOKS = TITLES;
     var page_header = 
-      '<p class="large hspace">'+
-         '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Описаний <b><i>$COUNT</i></b> по &emsp; <a href="/bwrts.html"> Авторам</a>&nbsp; '+
-          '<a href="/bgenres.html">Жанрам</a>'+
-      '</p>';
+  '<div class="large table">'+
+    '<div class="tbspace tcell vmid">Описаний <b><i>$COUNT</i></b> по&nbsp;'+
+      '<a href="/bwrts.html"> Авторам</a>&nbsp; '+
+      '<a href="/bgenres.html">Жанрам</a>'+
+    '</div>'+
+    '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+  '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -179,9 +181,10 @@
         if(BOOKS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<p class="large hspace">'+
-          '<input class="rfloat nopad" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &nbsp; <i class="counter">('+BOOKS.length+')</i></p>';
+        '<div class="large table">'+
+          '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
+          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
         PAGE.per = 10;

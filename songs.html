@@ -227,7 +227,8 @@
     window.SONGS = TITLES;
     var page_header = 
   '<div class="large table">'+
-    '<div class="tbspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных&ensp; <a href="/sarts.html">Авторов</a>&nbsp; '+
+    '<div class="tbspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных&ensp;'+
+      '<a href="/sarts.html">Авторов</a>&nbsp; '+
       '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
       '<a href="/research.html">Поиск</a> '+
     '</div>'+
@@ -253,7 +254,7 @@
           '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
           '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
-          document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
+          document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
         }
         PAGE.per = 20;
       }else if(pp.length>1){ // ?art/song
