@@ -69,24 +69,24 @@
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', книги');
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext inlbl vmid mw"><tr>'+
-    '<td align="center" valign="top" style="min-width:160px; max-width:160px">'+
+    '<td align="center" valign="top" style="min-width:170px; max-width:170px">'+
       '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
-        '<img class="smaller gray rounded4" style="max-width:140px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
+        '<img class="smaller gray rounded4" style="max-width:150px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
       '</a>'+
     '</td>'+
-    '<td colspan="2" valign="top"><br>'+
-      '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a>'+
+    '<td colspan="2" valign="top">'+
+      '<p><a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a></p>'+
       '<p class="smaller gray">Автор <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
       '<p class="smaller gray">Жанр <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
       '<div id="yandex_rtb_'+p.i+'" class="mw_2 mh_sm"></div>'+
     '</td></tr>'+
   '</table>'+ 
   '<div class="msgtext">'+
-    '<div>'+
+    '<div class="hspace1">'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
-        '<a class="hspace nodecor smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
+        '<a class="nodecor smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
       : r+
-        '<a class="hspace nodecor smaller" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
+        '<a class="nodecor smaller" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
   '</div>'+
   '<div class="msgfooter">'+
     '<a class="hspace nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
