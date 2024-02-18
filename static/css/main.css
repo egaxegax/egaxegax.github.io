@@ -21,7 +21,7 @@
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
 .nowrap { white-space: nowrap; }
-.tbspace { padding:10px 12px; }
+.tbspace { padding:8px 12px; }
 .hspaced { padding:0 4px; }
 .hspace { padding:0 12px; }
 .hspace1 { padding:0 24px; }
@@ -66,14 +66,12 @@ select { padding:2px 5px; }
 hr { border:1px dashed #777; }
 pre { font-size:1rem; }
 /* reklama */
-.mh70 { max-height:70px; }
-.mh90 { max-height:90px; }
-.mh100 { max-height:100px; }
-.mh120 { max-height:120px; }
+.mh_hd { max-height:65px; }
+.mh_sm { max-height:120px; }
 .mh_1 { max-height:240px; }
 .mh_2 { max-height:130px; }
 .mh { max-height:260px; }
 .mw { max-width:880px; }
-.mw_1 { max-width:220px; }
-.mw_a { max-width:640px; }
+.mw_1 { max-width:200px; }
+.mw_a { max-width:680px; }
 .mw_f { max-width:740px; }

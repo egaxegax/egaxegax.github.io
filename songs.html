@@ -112,11 +112,11 @@
     '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
     '<td>'+html+'</td></tr>'+
   '</table>';
-    if(window.innerWidth>800){
-      document.getElementById(p.id).innerHTML += 
-    '<div id="yandex_rtb_about" class="inlbl vmid mw_1 mh70"></div>';
-      if(window.addYaRTB_Block) addYaRTB_Block('about', false, YA_RTB[4]);
-    }
+//    if(window.innerWidth>800){
+//      document.getElementById(p.id).innerHTML += 
+//    '<div id="yandex_rtb_about" class="inlbl vmid mw_1 mh_hd"></div>';
+//      if(window.addYaRTB_Block) addYaRTB_Block('about', false, YA_RTB[4]);
+//    }
     return ' about';
   }
 
@@ -128,15 +128,15 @@
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
     fixPageHeader();
     document.getElementById(p.id).innerHTML = 
-//  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh100"></div>'+
+  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh_ch"></div>'+
   '<div id="songcont" class="msgtext chords nowrap marg mw600">'+
     html+
   '</div>'+
-  '<div id="yandex_rtb_'+(p.i)+'_ch1" class="bmarg mw600 mh100"></div>'+
+  '<div id="yandex_rtb_'+(p.i)+'_ch1" class="bmarg mw600 mh_ch"></div>'+
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-//    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
+    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
     if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch1', false, YA_RTB[4]);
       // feed
 //    document.getElementById('page_content').innerHTML += 
@@ -262,13 +262,13 @@
         if(SONGS.length){
           PAGE.view = 'song';
           page_header =
-        '<div class="table">'+
-          '<div class="bigger1 tbspace tcell vmid" style="width:50%">'+
+        '<div class="table bigger1">'+
+          '<div class="tbspace tcell vmid" style="width:50%">'+
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<div>'+SONGS[0][2]+'</div>'+
           '</div>'+
           '<div class="tcell hright vmid">'+
-            '<div id="yandex_rtb_hd" class="mh70">'+addFinder()+'<div>'+
+            '<div id="yandex_rtb_hd" class="mh_hd">'+addFinder()+'<div>'+
           '</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
@@ -280,13 +280,13 @@
         if(SONGS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<div class="table">'+
-          '<div class="bigger1 tbspace tcell vmid" style="width:40%">'+
+        '<div class="table bigger1">'+
+          '<div class="tbspace tcell vmid" style="width:50%">'+
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
-            '<div><i class="hspaced counter"> ('+ SONGS.length+')</i></div>'+
+            '<i class="hspaced counter"> ('+ SONGS.length+')</i>'+
           '</div>'+
           '<div class="tcell hright vmid">'+
-            '<div id="yandex_rtb_hd" class="mh70">'+addFinder()+'</div>'+
+            '<div id="yandex_rtb_hd" class="mh_hd">'+addFinder()+'</div>'+
           '</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;

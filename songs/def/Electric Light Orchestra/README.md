@@ -1,3 +1,8 @@
+![](electric_light_orchestra.jpg)
+
+Британская рок-группа из Бирмингема, образованная в *1970* году.
+
+
 * [10538 overture](10538%20overture.md)
 * [21st Century Man](21st%20Century%20Man.md)
 * [Above The Clouds](Above%20The%20Clouds.md)
