@@ -19,6 +19,6 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 .av div { min-width:50px; min-height:50px; }
 .av img { width:100%; height:auto; }
 /*ads*/
-.mh_hd { max-height:60px; background:#eee; width:900px; z-index:999; }
+.mh_hd { max-height:60px; background:#eee; width:100%; z-index:999; }
 .mh_ch { max-height:100px; }
 .mw600 { max-width:600px; }
