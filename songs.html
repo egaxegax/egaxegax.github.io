@@ -122,7 +122,7 @@
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
     fixHeaderRtb();
     document.getElementById(p.id).innerHTML = 
-  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh_ch"></div>'+
+//  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh_ch"></div>'+
   '<div id="songcont" class="msgtext chords nowrap marg mw600">'+
     html+
   '</div>'+
@@ -130,7 +130,7 @@
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
+//    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
     if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch1', false, YA_RTB[4]);
       // feed
 //    document.getElementById('page_content').innerHTML += 
