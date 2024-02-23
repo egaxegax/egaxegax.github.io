@@ -96,7 +96,7 @@
     subjects.sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
     window.SUBS = subjects;
     window.POSTS = TITLES;
-    if(window.addYaRTB_Block) addYaRTB_Block('hd', false, YA_RTB[2]);
+    if(window.addYaRTB_Block) addYaRTB_Block('hd', true, YA_RTB[2]);
     document.getElementById('pheader').innerHTML =
   'Выберите одну из <i><b>'+SUBS.length+'</b></i> тем статей';
     document.getElementById('page_content').innerHTML = '';
