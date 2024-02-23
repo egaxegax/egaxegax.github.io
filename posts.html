@@ -29,6 +29,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books_l.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg" alt="Карты"></a>
 </div>
+<div id="yandex_rtb_hd" class="main mh_hd"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -44,7 +45,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<p class="large hspace">Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a></p>';
+'<div class="large table"><div class="tbspace tcell vmid">Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a></div></div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function find(){
@@ -84,6 +85,7 @@
           .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
     updateMetaTag('description', html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', ссылки, посты');
+    fixHeader();
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     html+
@@ -150,10 +152,12 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.POSTS = TITLES;
     var page_header = 
-      '<p class="large hspace">'+
-         '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-        'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+
-      '</p>';
+  '<div class="large table">'+
+    '<div class="tbspace tcell vmid">'+
+      'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+
+    '</div>'+
+    '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+  '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -168,11 +172,10 @@
         });
         POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
-      '<p class="large hspace">'+
-        '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-          'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i> '+
-          '&emsp; <a href="/psubj.html">Темы</a>'+
-      '</p>';
+      '<div class="large table">'+
+        '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></div>'+
+        '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+      '</div>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
@@ -182,11 +185,13 @@
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1]) || ((tit[2]+'.md').toLowerCase()==decodeURI(pp[1]).toLowerCase())); });
         if(POSTS.length){
           page_header = 
-        '<p class="large hspace">'+
-          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
+        '<div class="table large">'+
+          '<div class="tbspace tcell vmid">'+ 
             buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + ' &emsp; <a href="/psubj.html">Темы</a>'+
-        '</p>';
-          document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ' - ' + document.title;      
+          '</div>'+
+          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ' - ' + document.title;
         }
         PAGE.view = 'post';
       }else if(pp.length>0){ // ?subj
@@ -194,12 +199,13 @@
 //        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         if(POSTS.length){
           page_header = 
-        '<p class="large hspace">'+
-          '<input class="rfloat" id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">'+
-            buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +' &emsp;'+
-            '<span class="gray"><i class="counter"> ('+ POSTS.length +') </i></span>'+
-            ' &emsp; <a href="/psubj.html">Темы</a>'+
-        '</p>';
+        '<div class="table large">'+
+          '<div class="tbspace tcell vmid">'+
+            buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + 
+            '<i class="hspace counter"> ('+ POSTS.length+')</i>'+
+          '</div>'+
+          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
           POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
           document.title = ROOTS[SUBJ[POSTS[0][0]][3]][0] +' / '+ SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
         }

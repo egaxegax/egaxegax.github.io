@@ -60,6 +60,19 @@ function addLoader(bl){
   return (bl ? '<span class="hspace"><img class="rounded loader" src="/static/img/loader.gif"></span>' : '');
 }
 //
+// fix header to non-scroll
+//
+function fixHeader(rtb_offset){
+  document.getElementById('header').style.position = 'fixed';
+  if(document.getElementById('yandex_rtb_hd')){
+    document.getElementById('yandex_rtb_hd').style.position = 'fixed';
+    document.getElementById('yandex_rtb_hd').style.top = document.getElementById('header').offsetHeight+'px';    
+    rtb_offset = 60;
+  }
+  document.getElementById('page_header').style.paddingTop = String(
+    document.getElementById('header').offsetHeight+ (rtb_offset||0)) + 'px';
+}
+//
 // build path to title from TITLES from index.js
 //
 function buildSubPath(roots, subjects, subjkey){

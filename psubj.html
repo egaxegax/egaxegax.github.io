@@ -41,7 +41,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<p class="large hspace"><span id="pheader">Выберите одну из тем статей</span> </p>';
+'<div class="large table"><div class="tbspace tcell vmid"><span id="pheader">Выберите одну из тем статей</span></div></div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addSubj(subj,i){
@@ -96,14 +96,15 @@
     subjects.sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
     window.SUBS = subjects;
     window.POSTS = TITLES;
+    if(window.addYaRTB_Block) addYaRTB_Block('hd', false, YA_RTB[2]);
     document.getElementById('pheader').innerHTML =
   'Выберите одну из <i><b>'+SUBS.length+'</b></i> тем статей';
     document.getElementById('page_content').innerHTML = '';
-    if(window.addYaRTB_Block){
-      document.getElementById('page_content').innerHTML += 
-    '<div id="yandex_rtb_0" class="bmarg mw mh_1"></div>';
-      addYaRTB_Block(0, true, YA_RTB[2]);
-    }
+//    if(window.addYaRTB_Block){
+//      document.getElementById('page_content').innerHTML += 
+//    '<div id="yandex_rtb_0" class="bmarg mw mh_1"></div>';
+//      addYaRTB_Block(0, true, YA_RTB[2]);
+//    }
     addPageContent(SUBS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
