@@ -85,7 +85,6 @@
           .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
     updateMetaTag('description', html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', ссылки, посты');
-    fixHeader();
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
     html+
