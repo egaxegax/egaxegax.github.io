@@ -64,7 +64,7 @@ function addLoader(bl){
 //
 function fixHeader(rtb_offset){
   document.getElementById('header').style.position = 'fixed';
-  if(document.getElementById('yandex_rtb_hd')){
+  if(window.addYaRTB_Block && document.getElementById('yandex_rtb_hd')){
     document.getElementById('yandex_rtb_hd').style.position = 'fixed';
     document.getElementById('yandex_rtb_hd').style.top = document.getElementById('header').offsetHeight+'px';    
     rtb_offset = 60;
