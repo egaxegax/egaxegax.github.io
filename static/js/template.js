@@ -67,7 +67,7 @@ function fixHeader(rtb_offset){
   if(window.addYaRTB_Block && document.getElementById('yandex_rtb_hd')){
     document.getElementById('yandex_rtb_hd').style.position = 'fixed';
     document.getElementById('yandex_rtb_hd').style.top = document.getElementById('header').offsetHeight+'px';    
-    rtb_offset = 60;
+    rtb_offset = document.getElementById('yandex_rtb_hd').offsetHeight||60;
   }
   document.getElementById('page_header').style.paddingTop = String(
     document.getElementById('header').offsetHeight+ (rtb_offset||0)) + 'px';

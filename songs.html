@@ -85,6 +85,7 @@
   
   function addList(r,p){
     if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды');
+    if(window.addYaRTB_Block) addYaRTB_Block('hd', false, YA_RTB[4]);
     fixHeader();
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext scroll"><tr>'+
@@ -114,6 +115,7 @@
         html = converter.makeHtml(text);
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
+    if(window.addYaRTB_Block) addYaRTB_Block('hd', false, YA_RTB[4]);
     fixHeader();
     document.getElementById(p.id).innerHTML = 
 //  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh_ch"></div>'+
@@ -276,7 +278,6 @@
         PAGE.per = 20;
       }
     }
-    if(window.addYaRTB_Block) addYaRTB_Block('hd', false, YA_RTB[4]);
     document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, SONGS, PAGE);
