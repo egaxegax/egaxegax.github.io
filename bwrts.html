@@ -26,6 +26,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books_a.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg" onload="this.scrollIntoView()" alt="Карты"></a>
 </div>
+<div id="yandex_rtb_hd" class="main mh_hd"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -98,7 +99,7 @@
     document.getElementById('page_content').innerHTML = '';
     if(window.addYaRTB_Block){
       document.getElementById('page_content').innerHTML += 
-    '<div id="yandex_rtb_0" class="bmarg mw mh_1"></div>';
+    '<div id="yandex_rtb_0" class="bmarg mw mh_2"></div>';
       addYaRTB_Block(0, true, YA_RTB[5]);
     }
     addPageContent(WRTS, PAGE);
