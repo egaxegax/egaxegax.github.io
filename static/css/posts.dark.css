@@ -15,6 +15,7 @@ input[type=text], input[type=password], input[type=number], textarea, select {
   background-color:#404040; color:#fff; }
 li::marker { color:green; }
 #root { background:#262626; }
+#header { background:#262626; }
 #page_footer button { background:#fff; }
 /**/
 h3 a {text-decoration:none; outline:none;}
