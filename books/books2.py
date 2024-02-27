@@ -83,4 +83,7 @@ for root, dirs, files in os.walk(path, topdown=False):
         print(i, j, epubname, '!!!', 'desc:', desc, 'cover:', cover)
 
 input("Press to continue indexing...")
-import update
+from update import main as update_main
+from updatelist import main as updatelist_main
+update_main(os.path.dirname(__file__))
+updatelist_main(os.path.dirname(__file__))

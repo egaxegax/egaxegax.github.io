@@ -81,11 +81,11 @@
   '</div>'+
   '<div id="yandex_rtb_'+p.i+'" class="hspace inlbl vmid mw_a mh_sm"></div>'+
   '<div class="msgtext">'+
-    '<div class="hspace">'+
+    '<div class="smaller hspace">'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
-        '<a class="nodecor smaller" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
+        '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
       : r+
-        '<a class="nodecor smaller" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
+        '<a class="nodecor" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
   '</div>'+
   '<div class="msgfooter">'+
     '<a class="hspace nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
