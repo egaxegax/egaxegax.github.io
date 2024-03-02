@@ -28,11 +28,12 @@
 .hspace2 { padding:0 48px; }
 .lfloat { float:left; text-align:left; }
 .rfloat { float:right; text-align:right; }
-.cfloat { text-align:center; }
-.hright { text-align:right; }
+.tcenter { text-align:center; }
+.tleft { text-align:left; }
+.tright { text-align:right; }
 .vtop { vertical-align:top; }
 .vmid { vertical-align:middle; }
-.scroll { display:block; overflow:auto; white-space:nowrap; }
+.scroll { overflow:auto; white-space:nowrap; }
 .smaller { font-size:smaller; }
 .small { font-size:small; }
 .large { font-size:large; }
@@ -68,11 +69,12 @@ pre { font-size:1rem; }
 /* reklama */
 .mh_hd { max-height:60px; z-index:999; }
 .mh_sm { max-height:120px; }
-.mh_1 { max-height:240px; }
-.mh_2 { max-height:130px; }
+.mh_1 { max-height:400px; }
+.mh_2 { max-height:140px; }
 .mh { max-height:260px; }
 .mw { max-width:880px; }
 .mw_1 { max-width:165px; }
+.mw_2 { max-width:240px; }
 .mw_a { max-width:350px; }
 .mw_b { max-width:680px; }
 .mw_f { max-width:740px; }

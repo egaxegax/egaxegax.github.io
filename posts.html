@@ -33,7 +33,7 @@
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<p class="cfloat smaller gray hspace">
+<p class="tcenter smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
 <table id="footer" class="main"><tr>
@@ -152,7 +152,7 @@
     '<div class="tbspace tcell vmid">'+
       'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+
     '</div>'+
-    '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+    '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -170,7 +170,7 @@
         page_header =
       '<div class="large table">'+
         '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></div>'+
-        '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+        '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
       '</div>';
         PAGE.per = 10;
       }else if(pp.length>1){ // ?subj/title
@@ -186,7 +186,7 @@
           '<div class="tbspace tcell vmid">'+ 
             buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + ' &emsp; <a href="/psubj.html">Темы</a>'+
           '</div>'+
-          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ' - ' + document.title;
         }
@@ -201,7 +201,7 @@
             buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + 
             '<i class="hspace counter"> ('+ POSTS.length+')</i>'+
           '</div>'+
-          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
           document.title = ROOTS[SUBJ[POSTS[0][0]][3]][0] +' / '+ SUBJ[POSTS[0][0]][0] + ' - ' + document.title;

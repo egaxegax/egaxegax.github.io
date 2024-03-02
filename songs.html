@@ -16,7 +16,7 @@
 <style>
 .about { padding:2px 10px 0px 10px; }
 .about img { max-width:100px; }
-.chords { line-height:1.3em; overflow:auto; }
+.chords { line-height:1.3em; }
 .chords strong em { font-weight:500; font-style:normal; }
 .chords a { text-decoration:none; }
 #songcont p { margin-top:0;  }
@@ -43,7 +43,7 @@
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<p class="cfloat smaller gray hspace">
+<p class="tcenter smaller gray hspace">
   <i>P.S.</i> Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
 <table id="footer" class="main"><tr>
@@ -114,15 +114,15 @@
     updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
-//  '<div id="yandex_rtb_'+(p.i)+'_ch0" class="marg mw600 mh_ch"></div>'+
-  '<div id="songcont" class="msgtext chords nowrap marg mw600">'+
-    html+
+  '<div class="tcenter">'+
+    '<div id="songcont" class="msgtext '+(window.innerWidth<800 ?'':'inlbl') +' chords scroll marg tleft vmid mw600">'+
+      html+
+    '</div>'+
+    '<div id="yandex_rtb_'+(p.i)+'_ch1" class="inlbl vmid mw_2 mh_1"></div>'+
   '</div>'+
-  '<div id="yandex_rtb_'+(p.i)+'_ch1" class="bmarg mw600 mh_ch"></div>'+
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter gray"><i>'+buildDate(p.title[3])+'</i></div>';
     addSongChords();
-//    if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch0', false, YA_RTB[4]);
     if(window.addYaRTB_Block) addYaRTB_Block(p.i+'_ch1', false, YA_RTB[4]);
   }
   //
@@ -218,7 +218,7 @@
       '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
       '<a href="/research.html">Поиск</a> '+
     '</div>'+
-    '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+    '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -238,7 +238,7 @@
           page_header = 
         '<div class="large table">'+
           '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
-          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
         }
@@ -254,7 +254,7 @@
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
             '<div>'+SONGS[0][2]+'</div>'+
           '</div>'+
-          '<div class="tcell hright vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
@@ -270,7 +270,7 @@
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<i class="hspace counter"> ('+ SONGS.length+')</i>'+
           '</div>'+
-          '<div class="tcell hright vmid">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
