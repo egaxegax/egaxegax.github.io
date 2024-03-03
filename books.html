@@ -74,13 +74,13 @@
       '<img class="smaller gray rounded4" style="max-width:100px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
     '</a>'+
   '</div>'+
-  '<div class="msgtext inlbl vmid '+ (window.innerWidth<800 ? 'mw_1' : 'mw_a') +'">'+
+  '<div class="msgtext large inlbl vmid '+ (window.innerWidth<800 ? 'mw_1' : 'mnw_a') +'">'+
     '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a>'+
     '<p class="smaller gray">Автор &nbsp; <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
     '<p class="smaller gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   '</div>'+
   '<div id="yandex_rtb_'+p.i+'" class="hspace inlbl vmid mw_a mh_sm"></div>'+
-  '<div class="msgtext">'+
+  '<div class="msgtext large">'+
     '<div class="smaller hspace">'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
         '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
