@@ -37,5 +37,6 @@ img { max-width:100%; border-radius:2px; }
 .yb .preview { height:150px; border-radius:4%; margin: 0 10px 0 0; }
 .yb .embed { border:0; border-radius:4%; }
 .smaller2 { font-size:smaller; }
+.smaller3 { font-size:x-small; }
 /**/
 .mh_hd { background:#262626; }

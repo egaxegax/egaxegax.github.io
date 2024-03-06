@@ -1,10 +1,11 @@
 <!--2023-12-31 01:42:00-->
 <div class="yb">
-  <a class="nodecor" href="/posts.html?rok/classic_rock_collection_the_best_of_classic_rock_songs_of_70s_80s_90s_vol_2">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=wyb-gSDDJtI">
     <img class="preview" data-videoid="wyb-gSDDJtI" src="https://i.ytimg.com/vi/wyb-gSDDJtI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="https://www.youtube.com/watch?v=wyb-gSDDJtI">Classic Rock Collection | The Best Of Classic...</a><br>
-    <i class="smaller2">Classic Rock Music</i>
+    <a class="nodecor" href="/posts.html?rok/classic_rock_collection_the_best_of_classic_rock_songs_of_70s_80s_90s_vol_2">Classic Rock Collection | The Best Of Classic...</a><br>
+    <i class="smaller2">Classic Rock Music</i><br>
+    <i class="smaller3">2023-05-13</i>
   </div>
 </div>

@@ -1,10 +1,11 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-  <a class="nodecor" href="/posts.html?rok/red_hot_chili_peppers_-_otherside_official_music_video">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=rn_YodiJO6k">
     <img class="preview" data-videoid="rn_YodiJO6k" src="https://i.ytimg.com/vi/rn_YodiJO6k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="https://www.youtube.com/watch?v=rn_YodiJO6k">Red Hot Chili Peppers - Otherside [Official Music...</a><br>
-    <i class="smaller2">Red Hot Chili Peppers</i>
+    <a class="nodecor" href="/posts.html?rok/red_hot_chili_peppers_-_otherside_official_music_video">Red Hot Chili Peppers - Otherside [Official Music...</a><br>
+    <i class="smaller2">Red Hot Chili Peppers</i><br>
+    <i class="smaller3">2011-07-15</i>
   </div>
 </div>

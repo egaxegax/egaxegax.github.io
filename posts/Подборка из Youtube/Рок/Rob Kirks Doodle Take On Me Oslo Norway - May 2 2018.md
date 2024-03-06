@@ -1,10 +1,11 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="/posts.html?rok/rob_kirks_doodle_take_on_me_oslo_norway_-_may_2_2018">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=N3vZDBARcmc">
     <img class="preview" data-videoid="N3vZDBARcmc" src="https://i.ytimg.com/vi/N3vZDBARcmc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="https://www.youtube.com/watch?v=N3vZDBARcmc">Rob & Kirk's Doodle: Take On Me (Oslo, Norway - Ma...</a><br>
-    <i class="smaller2">Metallica</i>
+    <a class="nodecor" href="/posts.html?rok/rob_kirks_doodle_take_on_me_oslo_norway_-_may_2_2018">Rob & Kirk's Doodle: Take On Me (Oslo, Norway - Ma...</a><br>
+    <i class="smaller2">Metallica</i><br>
+    <i class="smaller3">2018-05-03</i>
   </div>
 </div>

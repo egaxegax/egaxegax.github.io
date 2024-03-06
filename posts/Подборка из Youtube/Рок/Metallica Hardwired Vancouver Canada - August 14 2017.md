@@ -1,10 +1,11 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="/posts.html?rok/metallica_hardwired_vancouver_canada_-_august_14_2017">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=SlSpelL5Jng">
     <img class="preview" data-videoid="SlSpelL5Jng" src="https://i.ytimg.com/vi/SlSpelL5Jng/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="https://www.youtube.com/watch?v=SlSpelL5Jng">Metallica: Hardwired (Vancouver, Canada - August...</a><br>
-    <i class="smaller2">Metallica</i>
+    <a class="nodecor" href="/posts.html?rok/metallica_hardwired_vancouver_canada_-_august_14_2017">Metallica: Hardwired (Vancouver, Canada - August...</a><br>
+    <i class="smaller2">Metallica</i><br>
+    <i class="smaller3">2018-08-14</i>
   </div>
 </div>

@@ -1,10 +1,11 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="/posts.html?russkij_rok/lyapis_trubeckoj_ya_verju_hq">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=GTkdXoHvizk">
     <img class="preview" data-videoid="GTkdXoHvizk" src="https://i.ytimg.com/vi/GTkdXoHvizk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="https://www.youtube.com/watch?v=GTkdXoHvizk">Ляпис Трубецкой "Я Верю" [HQ]</a><br>
-    <i class="smaller2">Alex M</i>
+    <a class="nodecor" href="/posts.html?russkij_rok/lyapis_trubeckoj_ya_verju_hq">Ляпис Трубецкой "Я Верю" [HQ]</a><br>
+    <i class="smaller2">Alex M</i><br>
+    <i class="smaller3">2011-03-23</i>
   </div>
 </div>

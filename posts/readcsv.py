@@ -55,7 +55,7 @@ for root, dirs, files in os.walk(path, topdown=False):
               videoid = row[0]
               href = 'https://www.youtube.com/watch?v='+videoid
               imurl = row[5]
-              rdate = row[3]
+              rdate = row[4]
               authr = row[2]
               titl = row[1]
               ftime = os.path.getmtime(os.path.join(root, name))
@@ -64,15 +64,16 @@ for root, dirs, files in os.walk(path, topdown=False):
               phref = '/posts.html?'+ TR(os.path.basename(os.getcwd())) +'/'+ TR(mtitl)
               text = """{ctime}
 <div class="yb">
-  <a class="nodecor" href="{phref}">
+  <a class="nodecor" href="{href}">
     <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="{href}">{titl}</a><br>
-    <i class="smaller2">{authr}</i>
+    <a class="nodecor" href="{phref}">{titl}</a><br>
+    <i class="smaller2">{authr}</i><br>
+    <i class="smaller3">{rdate}</i>
   </div>
 </div>
-""".format(ctime=ctime, phref=phref, href=href, imurl=imurl, videoid=videoid, titl=tr_chars(titl, 50), authr=authr)
+""".format(ctime=ctime, phref=phref, href=href, imurl=imurl, rdate=rdate, videoid=videoid, titl=tr_chars(titl, 50), authr=authr)
 
               print(mtitl)
               open(mtitl + '.md', 'w', encoding='utf-8', newline='\n').write(text)

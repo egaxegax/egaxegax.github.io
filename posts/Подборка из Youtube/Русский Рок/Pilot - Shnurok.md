@@ -1,10 +1,11 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="/posts.html?russkij_rok/pilot_-_shnurok">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=-tOcET4PKAE">
     <img class="preview" data-videoid="-tOcET4PKAE" src="https://i.ytimg.com/vi/-tOcET4PKAE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="https://www.youtube.com/watch?v=-tOcET4PKAE">Pilot - Shnurok</a><br>
-    <i class="smaller2">yaneka11</i>
+    <a class="nodecor" href="/posts.html?russkij_rok/pilot_-_shnurok">Pilot - Shnurok</a><br>
+    <i class="smaller2">yaneka11</i><br>
+    <i class="smaller3">2006-07-31</i>
   </div>
 </div>

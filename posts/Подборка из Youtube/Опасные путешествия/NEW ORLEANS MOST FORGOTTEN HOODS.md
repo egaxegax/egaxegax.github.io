@@ -1,10 +1,11 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/new_orleans_most_forgotten_hoods">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=MmoYTHfOV-A">
     <img class="preview" data-videoid="MmoYTHfOV-A" src="https://i.ytimg.com/vi/MmoYTHfOV-A/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="https://www.youtube.com/watch?v=MmoYTHfOV-A">NEW ORLEANS MOST FORGOTTEN HOODS</a><br>
-    <i class="smaller2">CharlieBo313</i>
+    <a class="nodecor" href="/posts.html?opasnye_puteshestviya/new_orleans_most_forgotten_hoods">NEW ORLEANS MOST FORGOTTEN HOODS</a><br>
+    <i class="smaller2">CharlieBo313</i><br>
+    <i class="smaller3">2021-07-18</i>
   </div>
 </div>
