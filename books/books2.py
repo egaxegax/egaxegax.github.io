@@ -74,9 +74,10 @@ for root, dirs, files in os.walk(path, topdown=False):
         try:
           im = Image.open(io.BytesIO(za.read(cover)))
           im.thumbnail((240,240))
-          im.save(os.path.join(fp, tit+'.jpg') , "JPEG")
+          im.save(os.path.join(fp, tit+'.jpg'), "JPEG")
+#          open(os.path.join(fp, tit+'.jpg'), "wb").write(za.read(cover))
         except:
-          print (epubname, 'Not an valid image')
+          print (epubname, ':', cover, ':', 'Not an valid image')
           raise
         print (i, j, epubname)
       else:
