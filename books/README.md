@@ -35,6 +35,7 @@
 * [home_health](home_health)
 * [home_pets](home_pets)
 * [home_sex](home_sex)
+* [home_sport](home_sport)
 * [humor_prose](humor_prose)
 * [img](img)
 * [literature_adv](literature_adv)
