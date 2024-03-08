@@ -67,7 +67,7 @@ select { padding:2px 5px; }
 hr { border:1px dashed #777; }
 pre { font-size:1rem; }
 /* reklama */
-.mh_hd { max-height:60px; z-index:999; }
+.mh_hd { max-height:65px; z-index:999; }
 .mh_sm { max-height:120px; }
 .mh_1 { max-height:400px; }
 .mh_2 { max-height:140px; }

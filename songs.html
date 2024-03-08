@@ -193,11 +193,6 @@
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[4]);
       }
-      if(window.addVkRTB_Block && (i==2)){
-        document.getElementById('page_content').innerHTML += 
-      '<ins class="mrg-tag" style="width:auto;height:300px" data-ad-client="ad-'+VK_RTB[1]+'" data-ad-slot="'+VK_RTB[1]+'"></ins>';
-        addVkRTB_Block();
-      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = 
