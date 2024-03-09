@@ -1,6 +1,7 @@
 Заметки и впечатления от игр для ретро-консолей *90*-х 
 (*Dendy*, *Sega*, *SNES*) на эмуляторах для ПК.
 
+* [8-bit Commando](8-bit%20Commando.md)
 * [Аркадный эмулятор MAME](Аркадный%20эмулятор%20MAME.md)
 * [Игра Sudden Strike 4](Игра%20Sudden%20Strike%204.md)
 * [Игра в MK-11. Robocop](Игра%20в%20MK-11.%20Robocop.md)
