@@ -4,4 +4,4 @@
 чтобы поиграть на джойстиках с племянниками. Платформер, похожий на легендарную *Contra*.
 Графика как на *Dendy*, но играть довольно интересно, правда, сложно.
 
-<img src="./8-bit-commando.png" alt="8-bit Commando" width="500">
+<img src="./8-bit-commando.jpg" alt="8-bit Commando" width="480">
