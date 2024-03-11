@@ -1,4 +1,6 @@
 https://egaxegax.github.io/books.html
+https://egaxegax.github.io/books.html?miyamoto_musasi
+https://egaxegax.github.io/books.html?miyamoto_musasi/kniga_pyati_kolec
 https://egaxegax.github.io/books.html?zlatan_ibragimovich
 https://egaxegax.github.io/books.html?zlatan_ibragimovich/ya_—_zlatan
 https://egaxegax.github.io/books.html?lev_davidovich_trockij
@@ -568,7 +570,6 @@ https://egaxegax.github.io/books.html?katerina_yanush/kniga_orgazma
 https://egaxegax.github.io/books.html?dante_aligeri
 https://egaxegax.github.io/books.html?dante_aligeri/bojestvennaya_komediya
 https://egaxegax.github.io/books.html?lao-czy/kniga_ob_istine_i_sile
-https://egaxegax.github.io/books.html?miyamoto_musasi
 https://egaxegax.github.io/books.html?miyamoto_musasi/busido_kodeks_samuraya
 https://egaxegax.github.io/books.html?sun-czy
 https://egaxegax.github.io/books.html?sun-czy/iskusstvo_vojny

@@ -7,6 +7,7 @@
 * [adv_maritime](adv_maritime)
 * [adventure](adventure)
 * [antique](antique)
+* [antique_east](antique_east)
 * [child_adv](child_adv)
 * [child_prose](child_prose)
 * [child_sf](child_sf)
