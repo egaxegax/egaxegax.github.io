@@ -165,9 +165,9 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-    if(window.addYaRTB_Block && (page.view == 'song' || page.view == 'list')){
+    if(window.addYaRTB_Block && (page.view == 'song')){
       addYaRTB_Block('hd', false, YA_RTB[4]);
-//      fixHeader();
+      fixHeader();
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
