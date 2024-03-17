@@ -65,7 +65,7 @@ input[type=button] { font-family:inherit; font-size:inherit; padding:5px; }
 input[class=find-btn] { padding:4px; margin:4px; }
 select { padding:2px 5px; }
 hr { border:1px dashed #777; }
-pre { font-size:1rem; }
+pre { font-size:0.9rem; }
 /* reklama */
 .mh_hd { max-height:60px; z-index:999; }
 .mh_sm { max-height:120px; }
