@@ -252,7 +252,9 @@
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
             '<div>'+SONGS[0][2]+'</div>'+
           '</div>'+
-          '<div id="yandex_rtb_hdr" class="tcell tright vmid" style="max-height:90px;width:50%">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid" style="width:50%">'+
+            '<div id="yandex_rtb_hdr" style="height:100%">'+addFinder()+'</div>'+
+          '</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
