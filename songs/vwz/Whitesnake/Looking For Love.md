@@ -36,7 +36,7 @@ Calling my name
 I'm looking for love all around me  
     ***C           D***  
 Looking for love to surround me  
-    ***C                   D                      Em D Em D***  
+    ***C               D                Em D Em D***  
 The love that I need To rescue the state of my heart  
   
   
