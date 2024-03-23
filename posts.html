@@ -103,7 +103,7 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-    if(window.addYaRTB_Block && (page.view == 'post' || page.view == 'list')){
+    if(window.addYaRTB_Block){
       addYaRTB_Block('hd', true, YA_RTB[2]);
     }
     page.bottom = (page.num)*page.per;
