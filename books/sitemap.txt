@@ -1,4 +1,6 @@
 https://egaxegax.github.io/books.html
+https://egaxegax.github.io/books.html?dmitrij_polyakov-katin
+https://egaxegax.github.io/books.html?dmitrij_polyakov-katin/berlinskaya_jara
 https://egaxegax.github.io/books.html?miyamoto_musasi
 https://egaxegax.github.io/books.html?miyamoto_musasi/kniga_pyati_kolec
 https://egaxegax.github.io/books.html?zlatan_ibragimovich
