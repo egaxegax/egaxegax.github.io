@@ -1,4 +1,11 @@
 https://egaxegax.github.io/books.html
+https://egaxegax.github.io/books.html?tatyana_vitalevna_ustinova
+https://egaxegax.github.io/books.html?tatyana_vitalevna_ustinova/sudba_po_knige_peremen
+https://egaxegax.github.io/books.html?pavel_alekseevich_astahov
+https://egaxegax.github.io/books.html?pavel_alekseevich_astahov/mini-model
+https://egaxegax.github.io/books.html?pavel_alekseevich_astahov/koroleva_blogosfery
+https://egaxegax.github.io/books.html?pavel_alekseevich_astahov/plennica
+https://egaxegax.github.io/books.html?tatyana_vitalevna_ustinova/kvartira_v_raju
 https://egaxegax.github.io/books.html?dmitrij_polyakov-katin
 https://egaxegax.github.io/books.html?dmitrij_polyakov-katin/berlinskaya_jara
 https://egaxegax.github.io/books.html?miyamoto_musasi
