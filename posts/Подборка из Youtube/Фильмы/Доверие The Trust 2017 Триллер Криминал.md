@@ -1,0 +1,11 @@
+<!--2024-03-23 19:23:31-->
+<div class="yb">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=n0fHbVIdWRw">
+    <img class="preview" data-videoid="n0fHbVIdWRw" src="https://i.ytimg.com/vi/n0fHbVIdWRw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="/posts.html?filmy/doverie_the_trust_2017_triller_kriminal">Доверие / The Trust (2017) / Триллер, Криминал</a><br>
+    <i class="smaller2">FILMSTER</i><br>
+    <i class="smaller3">2018-03-06</i>
+  </div>
+</div>

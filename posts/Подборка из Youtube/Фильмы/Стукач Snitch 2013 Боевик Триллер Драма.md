@@ -1,0 +1,11 @@
+<!--2024-03-23 19:23:31-->
+<div class="yb">
+  <a class="nodecor" href="https://www.youtube.com/watch?v=k51_IhsluQs">
+    <img class="preview" data-videoid="k51_IhsluQs" src="https://i.ytimg.com/vi/k51_IhsluQs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl">
+    <a class="nodecor" href="/posts.html?filmy/stukach_snitch_2013_boevik_triller_drama">Стукач / Snitch (2013) / Боевик, Триллер, Драма</a><br>
+    <i class="smaller2">FILMSTER</i><br>
+    <i class="smaller3">2017-03-04</i>
+  </div>
+</div>
