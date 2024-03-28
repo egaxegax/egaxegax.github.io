@@ -54,10 +54,10 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<p class="large hspace">'+
-    '<select class="rfloat" id="yearlist"></select>'+
-  '<span id="vestiheader">Краткая хроника изменений на сайте и не только.</span>'+
-'</p>';
+'<div class="large table">'+
+  '<div class="tcell vmid" id="vestiheader">'+'Краткая хроника изменений на сайте и не только '+'</div>'+
+  '<div class="tcell tright vmid" style="width:30%">'+'<select id="yearlist"></select>'+'</div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addMsg(r, p){
@@ -141,8 +141,7 @@
       }
     }
     document.getElementById('vestiheader').innerHTML =
-  'Сводка из <i><b>'+MSGS.length+'</b></i> событий &emsp;'+
-  '<a href="/research.html">Поиск</a>&nbsp;';
+  'Сводка из <i><b>'+MSGS.length+'</b></i> событий &emsp; <a href="/research.html">Поиск</a>';
     document.getElementById('yearlist').innerHTML =
   '<option value="-1"'+(ysel == -1 ? ' selected ' : '')+'> Все </option>';
     for(var k in SUBJ){

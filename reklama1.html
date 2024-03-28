@@ -41,10 +41,10 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<p class="large hspace">'+
-  '<select class="rfloat" id="rtblist"></select>'+
-  '<span>Подборка ВК рекламы</span>'+
-'</p>';
+'<div class="large table">'+
+  '<div class="tcell vmid" id="vestiheader">'+'Подборка ВК рекламы '+'</div>'+
+  '<div class="tcell tright vmid" style="width:30%">'+'<select id="rtblist"></select>'+'</div>'+
+'</div>';
 
   function addPageContent(roots, subjects, msgs, page){
     PAGE.lock = 1;

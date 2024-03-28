@@ -13,7 +13,7 @@
 .fixed { position:fixed; }
 .grid { display:grid; }
 .table { display:table; border-collapse:collapse; width:100%; }
-.tcell { display:table-cell; height:50px; }
+.tcell { display:table-cell; height:50px; padding:6px 12px; }
 .hmarg { margin:0 12px; }
 .bmarg { margin: 0 auto 10px auto; }
 .bmarg1 { margin: -5px auto 10px auto; }
@@ -21,7 +21,6 @@
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
 .nowrap { white-space: nowrap; }
-.tbspace { padding:6px 12px; }
 .hspaced { padding:0 4px; }
 .hspace { padding:0 12px; }
 .hspace1 { padding:0 24px; }

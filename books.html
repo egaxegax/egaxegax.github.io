@@ -47,7 +47,9 @@
   };
 
   document.getElementById('page_header').innerHTML =
-'<div class="large table"><div class="tbspace tcell vmid">Подборка описаний книг разных авторов из свободных источников.</div></div>';
+'<div class="large table">'+
+  '<div class="tcell vmid">'+'Подборка описаний книг разных авторов из свободных источников '+'</div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function strToUtc(dt){
@@ -155,7 +157,7 @@
     window.BOOKS = TITLES;
     var page_header = 
   '<div class="large table">'+
-    '<div class="tbspace tcell vmid">Описаний <b><i>$COUNT</i></b> по&ensp;'+
+    '<div class="tcell vmid">Описаний <b><i>$COUNT</i></b> по&ensp;'+
       '<a href="/bwrts.html">Авторам</a>&nbsp; '+
       '<a href="/bgenres.html">Жанрам</a>'+
     '</div>'+
@@ -178,7 +180,7 @@
           PAGE.view = 'last';
           page_header = 
         '<div class="large table">'+
-          '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
+          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
@@ -190,7 +192,7 @@
           PAGE.view = 'book';
           page_header = 
         '<div class="table bigger1">'+
-          '<div class="tbspace tcell vmid">'+
+          '<div class="tcell vmid">'+
             '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<div>'+BOOKS[0][2]+'</div>'+
           '</div>'+
@@ -210,7 +212,7 @@
           PAGE.view = 'list';
           page_header = 
         '<div class="table bigger1">'+
-          '<div class="tbspace tcell vmid" style="width:50%">'+
+          '<div class="tcell vmid" style="width:50%">'+
             '<a class="nodecor" href="'+
               (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
               (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +

@@ -41,7 +41,9 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<div class="large table"><div class="tbspace tcell vmid"><span id="pheader">Выберите одну из тем статей</span></div></div>';
+'<div class="large table">'+
+  '<div class="tcell vmid" id="pheader">'+'Выберите одну из тем статей'+'</div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addSubj(subj,i){

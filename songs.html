@@ -54,7 +54,9 @@
 <script>
 
   document.getElementById('page_header').innerHTML =
-'<div class="large table"><div class="tbspace tcell vmid">Подборка текстов песен с аккордами и просто стихов.</div></div>';
+'<div class="large table">'+
+  '<div class="tcell vmid">'+'Подборка текстов песен с аккордами и просто стихов'+'</div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function find(){
@@ -208,7 +210,7 @@
     window.SONGS = TITLES;
     var page_header = 
   '<div class="large table">'+
-    '<div class="tbspace tcell vmid">Текстов <b><i>$COUNT</i></b> разных&ensp;'+
+    '<div class="tcell vmid">Текстов <b><i>$COUNT</i></b> разных&ensp;'+
       '<a href="/sarts.html">Авторов</a>&nbsp; '+
       '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
       '<a href="/research.html">Поиск</a> '+
@@ -232,7 +234,7 @@
           PAGE.view = 'last';
           page_header = 
         '<div class="large table">'+
-          '<div class="tbspace tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
+          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
@@ -245,7 +247,7 @@
           PAGE.view = 'song';
           page_header =
         '<div class="table bigger1">'+
-          '<div class="tbspace tcell vmid">'+
+          '<div class="tcell vmid">'+
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
             '<div>'+SONGS[0][2]+'</div>'+
           '</div>'+
@@ -261,7 +263,7 @@
           PAGE.view = 'list';
           page_header = 
         '<div class="table bigger1">'+
-          '<div class="tbspace tcell vmid" style="width:50%">'+
+          '<div class="tcell vmid" style="width:50%">'+
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<i class="hspace counter"> ('+ SONGS.length+')</i>'+
           '</div>'+
