@@ -123,6 +123,8 @@
     };
     window.MSGS = TITLES;
     var ysel = -1;
+    var page_header = 
+  'Лента из <i><b>'+MSGS.length+'</b></i> событий &emsp; <a href="/research.html">Поиск</a>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -134,14 +136,19 @@
         MSGS = MSGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
         if(MSGS.length) document.title = document.title.replace('/', ' от ' + buildDate(MSGS[0][3]).split('&nbsp;')[0] + ' / ');
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
+        if(MSGS.length){
+          page_header = 'Лента событий за день &emsp; <a href="/research.html">Поиск</a>';
+        }
       }else if(pp.length>0){ // ?subj
         MSGS = MSGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); });
         if(MSGS.length) document.title = document.title.replace('/', ' за ' + SUBJ[MSGS[0][0]][0] + ' / ');
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
+        if(MSGS.length){
+          page_header = 'Лента из <i><b>'+MSGS.length+'</b></i> событий за год &emsp; <a href="/research.html">Поиск</a>';
+        }
       }
     }
-    document.getElementById('vestiheader').innerHTML =
-  'Сводка из <i><b>'+MSGS.length+'</b></i> событий &emsp; <a href="/research.html">Поиск</a>';
+    document.getElementById('vestiheader').innerHTML = page_header;
     document.getElementById('yearlist').innerHTML =
   '<option value="-1"'+(ysel == -1 ? ' selected ' : '')+'> Все </option>';
     for(var k in SUBJ){

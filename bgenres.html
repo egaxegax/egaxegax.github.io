@@ -44,7 +44,9 @@
   };
 
   document.getElementById('page_header').innerHTML =
-'<p class="large hspace">Список жанров книг в алфавитном порядке</p>';
+'<div class="large table">'+
+  '<div class="tcell vmid" id="pheader">'+'Список жанров книг в алфавитном порядке'+'</div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addGenre(gnr,i){
@@ -92,8 +94,8 @@
       num: urlParams().page||0 // start num page 
     };
     window.GNRS = ROOTS;
-    document.getElementById('page_header').innerHTML = 
-  '<p class="large hspace">Список из <b><i>'+GNRS.length+'</b></i> книжных жанров в алфавитном порядке </p>';
+    document.getElementById('pheader').innerHTML = 
+  'Список из <b><i>'+GNRS.length+'</b></i> книжных жанров в алфавитном порядке';
     GNRS = GNRS.slice().sort(function(a,b){ return arraySort(GENRES_RU[a[0]]||a[0],GENRES_RU[b[0]]||b[0]); });
     document.getElementById('page_content').innerHTML = '';
     if(window.addYaRTB_Block){

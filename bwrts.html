@@ -42,7 +42,9 @@
 <script>
 
   document.getElementById('page_header').innerHTML =
-'<p class="large hspace">Список авторов в алфавитном порядке</p>';
+'<div class="large table">'+
+  '<div class="tcell vmid" id="pheader">'+'Список авторов в алфавитном порядке'+'</div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addWrt(wrt,i){
@@ -93,8 +95,8 @@
     };
     window.WRTS = SUBJ,
     window.BOOKS = TITLES;
-    document.getElementById('page_header').innerHTML = 
-  '<p class="large hspace">Найдено <b><i>'+WRTS.length+'</i></b> авторов и <b><i>'+BOOKS.length+'</i></b> книг </p>';
+    document.getElementById('pheader').innerHTML = 
+  'Найдено <b><i>'+WRTS.length+'</i></b> авторов и <b><i>'+BOOKS.length+'</i></b> книг';
     WRTS = WRTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
     if(window.addYaRTB_Block){

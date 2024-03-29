@@ -41,7 +41,9 @@
 <script>
 
   document.getElementById('page_header').innerHTML =
-'<p class="large hspace">Список авторов в алфавитном порядке</p>';
+'<div class="large table">'+
+  '<div class="tcell vmid" id="pheader">'+'Список авторов в алфавитном порядке'+'</div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addArt(art,i){
@@ -89,8 +91,8 @@
     };
     window.ARTS = SUBJ;
     window.SONGS = TITLES;
-    document.getElementById('page_header').innerHTML = 
-  '<p class="large hspace">Найдено <b><i>'+ARTS.length+'</i></b> авторов и <b><i>'+SONGS.length+'</i></b> текстов </p>';
+    document.getElementById('pheader').innerHTML = 
+  'Найдено <b><i>'+ARTS.length+'</i></b> авторов и <b><i>'+SONGS.length+'</i></b> текстов';
     ARTS = ARTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
     if(window.addYaRTB_Block){
