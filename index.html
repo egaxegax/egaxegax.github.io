@@ -29,6 +29,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
+<div id="yandex_rtb_hd" class="main mh_hd"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -104,6 +105,7 @@
         document.getElementById('page_content').innerHTML += 
       '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
         addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
+        if(page.view == 'msg') addYaRTB_Block('hd', false, YA_RTB[1]);
       }
     }
     if(page.titles.length){
@@ -137,6 +139,7 @@
         if(MSGS.length) document.title = document.title.replace('/', ' от ' + buildDate(MSGS[0][3]).split('&nbsp;')[0] + ' / ');
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
         if(MSGS.length){
+          PAGE.view = 'msg';
           page_header = 'Лента событий за день &emsp; <a href="/research.html">Поиск</a>';
         }
       }else if(pp.length>0){ // ?subj
