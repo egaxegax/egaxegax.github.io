@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=LmUruUj-6Wc">
+  <a class="nodecor" href="/posts.html?rok/oasis_-_morning_glory">
     <img class="preview" data-videoid="LmUruUj-6Wc" src="https://i.ytimg.com/vi/LmUruUj-6Wc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=2-Avnq9WQSs">
+  <a class="nodecor" href="/posts.html?relaks/christmas_fireplace_you_can_feel_the_stresses_of_life_melt_away">
     <img class="preview" data-videoid="2-Avnq9WQSs" src="https://i.ytimg.com/vi/2-Avnq9WQSs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

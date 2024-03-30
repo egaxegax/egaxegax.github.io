@@ -1,6 +1,6 @@
 <!--2024-01-20 00:46:46-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=P93SaYGAMF8">
+  <a class="nodecor" href="/posts.html?puteshestviya/neizvedannaya_arktika_na_vnedorojnikah_toyota_poselok_uelen_chukotka_doehali_do_ameriki_anons">
     <img class="preview" data-videoid="P93SaYGAMF8" src="https://i.ytimg.com/vi/P93SaYGAMF8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

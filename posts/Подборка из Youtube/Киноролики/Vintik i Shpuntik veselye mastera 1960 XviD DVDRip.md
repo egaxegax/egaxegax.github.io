@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=JQDwqoldZFE">
+  <a class="nodecor" href="/posts.html?kinoroliki/vintik_i_shpuntik_veselye_mastera_1960_xvid_dvdrip">
     <img class="preview" data-videoid="JQDwqoldZFE" src="https://i.ytimg.com/vi/JQDwqoldZFE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

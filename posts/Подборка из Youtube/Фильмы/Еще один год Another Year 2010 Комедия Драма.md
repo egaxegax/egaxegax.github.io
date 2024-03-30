@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=upK2iKlHUIw">
+  <a class="nodecor" href="/posts.html?filmy/eshche_odin_god_another_year_2010_komediya_drama">
     <img class="preview" data-videoid="upK2iKlHUIw" src="https://i.ytimg.com/vi/upK2iKlHUIw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

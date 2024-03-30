@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=vk-lFBQArAA">
+  <a class="nodecor" href="/posts.html?rabota/dalnoboj_po_ssha_amerika_put_domoj_iz_shtata_nju_jork">
     <img class="preview" data-videoid="vk-lFBQArAA" src="https://i.ytimg.com/vi/vk-lFBQArAA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

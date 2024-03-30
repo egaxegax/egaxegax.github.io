@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=aIVARV_vxi0">
+  <a class="nodecor" href="/posts.html?kinoroliki/kogda_zajigajutsya_elki_sovetskie_multfilmy_sojuzmultfilm_starmediakids">
     <img class="preview" data-videoid="aIVARV_vxi0" src="https://i.ytimg.com/vi/aIVARV_vxi0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

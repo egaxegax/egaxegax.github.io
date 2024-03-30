@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=PXnQUypawzk">
+  <a class="nodecor" href="/posts.html?filmy/golubaya_iguana_blue_iguana_2018_triller_boevik_komediya">
     <img class="preview" data-videoid="PXnQUypawzk" src="https://i.ytimg.com/vi/PXnQUypawzk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

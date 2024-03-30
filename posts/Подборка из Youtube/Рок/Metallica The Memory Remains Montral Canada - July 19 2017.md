@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=e_n8Yo_zxUE">
+  <a class="nodecor" href="/posts.html?rok/metallica_the_memory_remains_montral_canada_-_july_19_2017">
     <img class="preview" data-videoid="e_n8Yo_zxUE" src="https://i.ytimg.com/vi/e_n8Yo_zxUE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=YGVaKY2qZWA">
+  <a class="nodecor" href="/posts.html?kinoroliki/nu_pogodi_volshebnaya_kamera_wait_for_it_magic_camera">
     <img class="preview" data-videoid="YGVaKY2qZWA" src="https://i.ytimg.com/vi/YGVaKY2qZWA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

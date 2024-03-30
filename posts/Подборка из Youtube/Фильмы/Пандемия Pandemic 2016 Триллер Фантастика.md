@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=wfWYzvERZd4">
+  <a class="nodecor" href="/posts.html?filmy/pandemiya_pandemic_2016_triller_fantastika">
     <img class="preview" data-videoid="wfWYzvERZd4" src="https://i.ytimg.com/vi/wfWYzvERZd4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-03 14:51:22-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=zDVVoEGkwuA">
+  <a class="nodecor" href="/posts.html?rabota/pervaya_rabota_v_amerike_bez_dokumentov_cdl_bez_znaniya_yazyka_i_opyta">
     <img class="preview" data-videoid="zDVVoEGkwuA" src="https://i.ytimg.com/vi/zDVVoEGkwuA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

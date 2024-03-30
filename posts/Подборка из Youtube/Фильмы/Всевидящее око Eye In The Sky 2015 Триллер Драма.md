@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=tHRoNJ9RWwU">
+  <a class="nodecor" href="/posts.html?filmy/vsevidyashchee_oko_eye_in_the_sky_2015_triller_drama">
     <img class="preview" data-videoid="tHRoNJ9RWwU" src="https://i.ytimg.com/vi/tHRoNJ9RWwU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

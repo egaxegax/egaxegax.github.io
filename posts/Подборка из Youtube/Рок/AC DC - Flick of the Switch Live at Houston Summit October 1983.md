@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:58-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=aIfxI4mpbas">
+  <a class="nodecor" href="/posts.html?rok/ac_dc_-_flick_of_the_switch_live_at_houston_summit_october_1983">
     <img class="preview" data-videoid="aIfxI4mpbas" src="https://i.ytimg.com/vi/aIfxI4mpbas/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=0TYWy--4XQU">
+  <a class="nodecor" href="/posts.html?filmy/miss_plohoe_povedenie_misbehavious_2020_drama_istoricheskij">
     <img class="preview" data-videoid="0TYWy--4XQU" src="https://i.ytimg.com/vi/0TYWy--4XQU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

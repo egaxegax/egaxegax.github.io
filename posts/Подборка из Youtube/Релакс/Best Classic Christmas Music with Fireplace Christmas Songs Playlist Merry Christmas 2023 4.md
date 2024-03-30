@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=qVTDVR_E8cA">
+  <a class="nodecor" href="/posts.html?relaks/best_classic_christmas_music_with_fireplace_christmas_songs_playlist_merry_christmas_2023_4">
     <img class="preview" data-videoid="qVTDVR_E8cA" src="https://i.ytimg.com/vi/qVTDVR_E8cA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

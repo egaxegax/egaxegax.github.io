@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=rAPXmOjXMZw">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/is_flint_michigans_most_depressing_city">
     <img class="preview" data-videoid="rAPXmOjXMZw" src="https://i.ytimg.com/vi/rAPXmOjXMZw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

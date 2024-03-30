@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=TrJ_uOSB2to">
+  <a class="nodecor" href="/posts.html?filmy/polnochnoe_solnce_midnight_sun_2018_drama_melodrama">
     <img class="preview" data-videoid="TrJ_uOSB2to" src="https://i.ytimg.com/vi/TrJ_uOSB2to/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

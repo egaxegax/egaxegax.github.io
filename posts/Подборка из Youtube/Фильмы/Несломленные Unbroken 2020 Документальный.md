@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=A8UZHq-nugo">
+  <a class="nodecor" href="/posts.html?filmy/neslomlennye_unbroken_2020_dokumentalnyj">
     <img class="preview" data-videoid="A8UZHq-nugo" src="https://i.ytimg.com/vi/A8UZHq-nugo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

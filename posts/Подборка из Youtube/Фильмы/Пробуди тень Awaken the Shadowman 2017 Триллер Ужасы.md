@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=qzlAWMbKjBw">
+  <a class="nodecor" href="/posts.html?filmy/probudi_ten_awaken_the_shadowman_2017_triller_ujasy">
     <img class="preview" data-videoid="qzlAWMbKjBw" src="https://i.ytimg.com/vi/qzlAWMbKjBw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

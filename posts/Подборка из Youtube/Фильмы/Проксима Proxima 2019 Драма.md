@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OjKxnA8_Xa4">
+  <a class="nodecor" href="/posts.html?filmy/proksima_proxima_2019_drama">
     <img class="preview" data-videoid="OjKxnA8_Xa4" src="https://i.ytimg.com/vi/OjKxnA8_Xa4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

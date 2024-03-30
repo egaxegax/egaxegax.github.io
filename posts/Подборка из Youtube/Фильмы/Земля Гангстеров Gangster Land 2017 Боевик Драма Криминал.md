@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=0NIWjFUUgiQ">
+  <a class="nodecor" href="/posts.html?filmy/zemlya_gangsterov_gangster_land_2017_boevik_drama_kriminal">
     <img class="preview" data-videoid="0NIWjFUUgiQ" src="https://i.ytimg.com/vi/0NIWjFUUgiQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

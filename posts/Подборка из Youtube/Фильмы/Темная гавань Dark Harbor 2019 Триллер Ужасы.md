@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=yaJWlijTUEA">
+  <a class="nodecor" href="/posts.html?filmy/temnaya_gavan_dark_harbor_2019_triller_ujasy">
     <img class="preview" data-videoid="yaJWlijTUEA" src="https://i.ytimg.com/vi/yaJWlijTUEA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=8_bIIQP8MZo">
+  <a class="nodecor" href="/posts.html?kinoroliki/kak_razgovarivat_po_telefonu">
     <img class="preview" data-videoid="8_bIIQP8MZo" src="https://i.ytimg.com/vi/8_bIIQP8MZo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

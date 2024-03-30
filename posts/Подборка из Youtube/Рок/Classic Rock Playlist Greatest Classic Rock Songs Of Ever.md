@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=U6HRmBug5Ks">
+  <a class="nodecor" href="/posts.html?rok/classic_rock_playlist_greatest_classic_rock_songs_of_ever">
     <img class="preview" data-videoid="U6HRmBug5Ks" src="https://i.ytimg.com/vi/U6HRmBug5Ks/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

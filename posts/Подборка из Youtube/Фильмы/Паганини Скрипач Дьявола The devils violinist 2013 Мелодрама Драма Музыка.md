@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5Nh3IDRKjLs">
+  <a class="nodecor" href="/posts.html?filmy/paganini_skripach_dyavola_the_devils_violinist_2013_melodrama_drama_muzyka">
     <img class="preview" data-videoid="5Nh3IDRKjLs" src="https://i.ytimg.com/vi/5Nh3IDRKjLs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

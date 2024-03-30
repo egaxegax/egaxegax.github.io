@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=LK0d4ATFN30">
+  <a class="nodecor" href="/posts.html?rok/metallica_orion_san_jos_costa_rica_-_november_5_2016">
     <img class="preview" data-videoid="LK0d4ATFN30" src="https://i.ytimg.com/vi/LK0d4ATFN30/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

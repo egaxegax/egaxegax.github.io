@@ -1,6 +1,6 @@
 <!--2024-01-20 01:23:22-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=K1UWSMxvqm8">
+  <a class="nodecor" href="/posts.html?russkij_rok/bi-2_molitva_ost_metro">
     <img class="preview" data-videoid="K1UWSMxvqm8" src="https://i.ytimg.com/vi/K1UWSMxvqm8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

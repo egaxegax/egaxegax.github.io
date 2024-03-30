@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=FaSA0jxNCDI">
+  <a class="nodecor" href="/posts.html?relaks/burning_fireplace_listen_to_the_soothing_sound_of_fire_to_let_you_fall_asleep">
     <img class="preview" data-videoid="FaSA0jxNCDI" src="https://i.ytimg.com/vi/FaSA0jxNCDI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

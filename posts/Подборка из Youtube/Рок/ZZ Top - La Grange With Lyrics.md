@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=K3RLIU7T39I">
+  <a class="nodecor" href="/posts.html?rok/zz_top_-_la_grange_with_lyrics">
     <img class="preview" data-videoid="K3RLIU7T39I" src="https://i.ytimg.com/vi/K3RLIU7T39I/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

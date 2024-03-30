@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mTFtzZn7oog">
+  <a class="nodecor" href="/posts.html?filmy/bleki_letit_na_lunu_black_to_the_moon_2013_multfilm_komediya_prikljucheniya">
     <img class="preview" data-videoid="mTFtzZn7oog" src="https://i.ytimg.com/vi/mTFtzZn7oog/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

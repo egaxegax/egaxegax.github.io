@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=EH7HFyM-aig">
+  <a class="nodecor" href="/posts.html?filmy/linkoln_dlya_advokata_lincoln_lawyer_2011_triller_drama_kriminal">
     <img class="preview" data-videoid="EH7HFyM-aig" src="https://i.ytimg.com/vi/EH7HFyM-aig/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

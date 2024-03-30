@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=PKznCKHGxXo">
+  <a class="nodecor" href="/posts.html?filmy/padenie_londona_london_has_fallen_2016_boevik_triller">
     <img class="preview" data-videoid="PKznCKHGxXo" src="https://i.ytimg.com/vi/PKznCKHGxXo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=-8KiMiobEpE">
+  <a class="nodecor" href="/posts.html?filmy/misterium_nachalo_kvinden_i_buret_2013_detektiv_triller">
     <img class="preview" data-videoid="-8KiMiobEpE" src="https://i.ytimg.com/vi/-8KiMiobEpE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

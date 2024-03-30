@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ZqRhgW8wDMw">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/flint_michigan_east_side_hoods">
     <img class="preview" data-videoid="ZqRhgW8wDMw" src="https://i.ytimg.com/vi/ZqRhgW8wDMw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=N1HlofDZuzQ">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/west_baltimore_pennsylvania_ave_-_summer_drive">
     <img class="preview" data-videoid="N1HlofDZuzQ" src="https://i.ytimg.com/vi/N1HlofDZuzQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=NN1nO2PzzeU">
+  <a class="nodecor" href="/posts.html?relaks/christmas_jazz_instrumental_music_2023warm_christmas_music_fire_sounds_for_relax_study_work">
     <img class="preview" data-videoid="NN1nO2PzzeU" src="https://i.ytimg.com/vi/NN1nO2PzzeU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

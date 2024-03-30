@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=IXVcnOjxvI8">
+  <a class="nodecor" href="/posts.html?russkij_rok/tarakany_to_chto_ne_ubivaet_tebya_official_video_16">
     <img class="preview" data-videoid="IXVcnOjxvI8" src="https://i.ytimg.com/vi/IXVcnOjxvI8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=gOhMleYuo0s">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/people_in_the_hood_blocking_the_street_compilation">
     <img class="preview" data-videoid="gOhMleYuo0s" src="https://i.ytimg.com/vi/gOhMleYuo0s/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

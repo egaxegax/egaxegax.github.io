@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:44-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=7yDYOFM8oaA">
+  <a class="nodecor" href="/posts.html?rok/ac_dc_-_nervous_shakedown_official_hd_video">
     <img class="preview" data-videoid="7yDYOFM8oaA" src="https://i.ytimg.com/vi/7yDYOFM8oaA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

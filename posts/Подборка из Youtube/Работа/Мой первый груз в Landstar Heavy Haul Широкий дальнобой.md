@@ -1,6 +1,6 @@
 <!--2024-01-03 14:56:11-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=9WtL0OEu7Lo">
+  <a class="nodecor" href="/posts.html?rabota/moj_pervyj_gruz_v_landstar_heavy_haul_shirokij_dalnoboj">
     <img class="preview" data-videoid="9WtL0OEu7Lo" src="https://i.ytimg.com/vi/9WtL0OEu7Lo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=nAos2xrlgkc">
+  <a class="nodecor" href="/posts.html?rok/metallica_leper_messiah_buffalo_ny_-_october_27_2018">
     <img class="preview" data-videoid="nAos2xrlgkc" src="https://i.ytimg.com/vi/nAos2xrlgkc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

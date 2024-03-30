@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Hq24_r9Cuig">
+  <a class="nodecor" href="/posts.html?rok/best_classic_rock_70s_80s_90s_collection_70s_80s_90s_rock_playlist">
     <img class="preview" data-videoid="Hq24_r9Cuig" src="https://i.ytimg.com/vi/Hq24_r9Cuig/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

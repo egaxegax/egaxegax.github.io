@@ -1,6 +1,6 @@
 <!--2024-01-11 01:11:25-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=pWNTH0xg8PU">
+  <a class="nodecor" href="/posts.html?kinoroliki/godzilla_vs_kong_6_-_mechagodzilla">
     <img class="preview" data-videoid="pWNTH0xg8PU" src="https://i.ytimg.com/vi/pWNTH0xg8PU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

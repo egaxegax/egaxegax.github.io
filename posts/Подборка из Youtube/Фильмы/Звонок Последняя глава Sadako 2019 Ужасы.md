@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=fd5Qe-bUUgg">
+  <a class="nodecor" href="/posts.html?filmy/zvonok_poslednyaya_glava_sadako_2019_ujasy">
     <img class="preview" data-videoid="fd5Qe-bUUgg" src="https://i.ytimg.com/vi/fd5Qe-bUUgg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=sZXYP2DwEic">
+  <a class="nodecor" href="/posts.html?filmy/russkaya_nevesta_russian_bride_2019_triller_ujasy">
     <img class="preview" data-videoid="sZXYP2DwEic" src="https://i.ytimg.com/vi/sZXYP2DwEic/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

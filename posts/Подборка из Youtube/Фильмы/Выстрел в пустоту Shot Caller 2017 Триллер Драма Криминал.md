@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ue5v11pGZiY">
+  <a class="nodecor" href="/posts.html?filmy/vystrel_v_pustotu_shot_caller_2017_triller_drama_kriminal">
     <img class="preview" data-videoid="ue5v11pGZiY" src="https://i.ytimg.com/vi/ue5v11pGZiY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

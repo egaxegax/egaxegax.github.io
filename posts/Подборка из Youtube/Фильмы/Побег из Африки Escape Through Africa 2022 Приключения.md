@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=r2VSvFbCqhc">
+  <a class="nodecor" href="/posts.html?filmy/pobeg_iz_afriki_escape_through_africa_2022_prikljucheniya">
     <img class="preview" data-videoid="r2VSvFbCqhc" src="https://i.ytimg.com/vi/r2VSvFbCqhc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

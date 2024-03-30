@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=WBPE4omP7So">
+  <a class="nodecor" href="/posts.html?filmy/tochka_nevozvrata_beirut_2017_boevik_triller">
     <img class="preview" data-videoid="WBPE4omP7So" src="https://i.ytimg.com/vi/WBPE4omP7So/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

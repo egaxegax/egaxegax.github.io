@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=7Eq1roInRZs">
+  <a class="nodecor" href="/posts.html?filmy/spyashchaya_princessa_ancien_and_the_magic_tablet_2017_anime">
     <img class="preview" data-videoid="7Eq1roInRZs" src="https://i.ytimg.com/vi/7Eq1roInRZs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

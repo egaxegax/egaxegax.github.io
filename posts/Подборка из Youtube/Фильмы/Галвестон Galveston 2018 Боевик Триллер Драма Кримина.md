@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=4FrMhG6Emnk">
+  <a class="nodecor" href="/posts.html?filmy/galveston_galveston_2018_boevik_triller_drama_krimina">
     <img class="preview" data-videoid="4FrMhG6Emnk" src="https://i.ytimg.com/vi/4FrMhG6Emnk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

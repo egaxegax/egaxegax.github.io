@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=KANcOGpvYao">
+  <a class="nodecor" href="/posts.html?rok/rock_80s_and_90s_-_best_classic_rock_songs_hits">
     <img class="preview" data-videoid="KANcOGpvYao" src="https://i.ytimg.com/vi/KANcOGpvYao/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

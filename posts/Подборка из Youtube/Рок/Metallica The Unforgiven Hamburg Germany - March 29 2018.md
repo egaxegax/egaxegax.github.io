@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=R2aVYRujYgk">
+  <a class="nodecor" href="/posts.html?rok/metallica_the_unforgiven_hamburg_germany_-_march_29_2018">
     <img class="preview" data-videoid="R2aVYRujYgk" src="https://i.ytimg.com/vi/R2aVYRujYgk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

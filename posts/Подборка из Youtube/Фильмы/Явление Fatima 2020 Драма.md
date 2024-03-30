@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=fUQCG3w0Nng">
+  <a class="nodecor" href="/posts.html?filmy/yavlenie_fatima_2020_drama">
     <img class="preview" data-videoid="fUQCG3w0Nng" src="https://i.ytimg.com/vi/fUQCG3w0Nng/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

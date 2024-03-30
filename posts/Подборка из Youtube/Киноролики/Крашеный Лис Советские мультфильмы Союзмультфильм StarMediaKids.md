@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=C8sKOd6VJOg">
+  <a class="nodecor" href="/posts.html?kinoroliki/krashenyj_lis_sovetskie_multfilmy_sojuzmultfilm_starmediakids">
     <img class="preview" data-videoid="C8sKOd6VJOg" src="https://i.ytimg.com/vi/C8sKOd6VJOg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

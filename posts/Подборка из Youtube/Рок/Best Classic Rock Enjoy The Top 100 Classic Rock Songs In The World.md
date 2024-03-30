@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=AP76GLw2UOg">
+  <a class="nodecor" href="/posts.html?rok/best_classic_rock_enjoy_the_top_100_classic_rock_songs_in_the_world">
     <img class="preview" data-videoid="AP76GLw2UOg" src="https://i.ytimg.com/vi/AP76GLw2UOg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

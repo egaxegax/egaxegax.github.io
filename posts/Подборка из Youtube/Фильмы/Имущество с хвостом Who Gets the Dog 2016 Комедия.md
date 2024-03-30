@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=cGpSfvdVLJE">
+  <a class="nodecor" href="/posts.html?filmy/imushchestvo_s_hvostom_who_gets_the_dog_2016_komediya">
     <img class="preview" data-videoid="cGpSfvdVLJE" src="https://i.ytimg.com/vi/cGpSfvdVLJE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2023-12-30 11:25:56-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=TILqbZJnq8k">
+  <a class="nodecor" href="/posts.html?puteshestviya/driving_malibu_california_8k_hdr_dolby_vision_-_santa_monica_to_point_mugu">
     <img class="preview" data-videoid="TILqbZJnq8k" src="https://i.ytimg.com/vi/TILqbZJnq8k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

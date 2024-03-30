@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=VPvH2s6l7fQ">
+  <a class="nodecor" href="/posts.html?filmy/elitnoe_obshchestvo_the_bling_ring_2013_drama_komediya_kriminal">
     <img class="preview" data-videoid="VPvH2s6l7fQ" src="https://i.ytimg.com/vi/VPvH2s6l7fQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=dR9AJVIAvB8">
+  <a class="nodecor" href="/posts.html?rok/very_merry_christmas_best_rock_christmas_songs_selection_of_christmas_rock_music">
     <img class="preview" data-videoid="dR9AJVIAvB8" src="https://i.ytimg.com/vi/dR9AJVIAvB8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

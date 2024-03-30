@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=7NL-q1Jltus">
+  <a class="nodecor" href="/posts.html?filmy/ulichnye_tancy_3_vse_zvezdy_street_dance_all_stars_aka_all_stars_2013_tancevalnyj">
     <img class="preview" data-videoid="7NL-q1Jltus" src="https://i.ytimg.com/vi/7NL-q1Jltus/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

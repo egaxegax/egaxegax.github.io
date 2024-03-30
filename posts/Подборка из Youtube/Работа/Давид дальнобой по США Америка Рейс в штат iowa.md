@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=yTrozxKW2_A">
+  <a class="nodecor" href="/posts.html?rabota/david_dalnoboj_po_ssha_amerika_rejs_v_shtat_iowa">
     <img class="preview" data-videoid="yTrozxKW2_A" src="https://i.ytimg.com/vi/yTrozxKW2_A/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

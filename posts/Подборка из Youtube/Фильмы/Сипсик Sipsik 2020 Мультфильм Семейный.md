@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=rv_QxRVTKwg">
+  <a class="nodecor" href="/posts.html?filmy/sipsik_sipsik_2020_multfilm_semejnyj">
     <img class="preview" data-videoid="rv_QxRVTKwg" src="https://i.ytimg.com/vi/rv_QxRVTKwg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

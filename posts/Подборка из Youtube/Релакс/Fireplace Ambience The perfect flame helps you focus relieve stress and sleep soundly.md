@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=lVyrLqHBR7I">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_ambience_the_perfect_flame_helps_you_focus_relieve_stress_and_sleep_soundly">
     <img class="preview" data-videoid="lVyrLqHBR7I" src="https://i.ytimg.com/vi/lVyrLqHBR7I/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

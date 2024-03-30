@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=nUyMzqEPkOc">
+  <a class="nodecor" href="/posts.html?filmy/van_gog_na_poroge_vechnosti_at_eternitys_gate_2018_drama_biografiya">
     <img class="preview" data-videoid="nUyMzqEPkOc" src="https://i.ytimg.com/vi/nUyMzqEPkOc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

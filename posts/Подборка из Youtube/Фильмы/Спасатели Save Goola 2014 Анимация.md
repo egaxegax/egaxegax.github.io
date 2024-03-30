@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=GP8brP1Np9A">
+  <a class="nodecor" href="/posts.html?filmy/spasateli_save_goola_2014_animaciya">
     <img class="preview" data-videoid="GP8brP1Np9A" src="https://i.ytimg.com/vi/GP8brP1Np9A/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

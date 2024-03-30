@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=QJcnWkbnutQ">
+  <a class="nodecor" href="/posts.html?filmy/nokaut_haywire_2012_shpionskij_triller_ekshen">
     <img class="preview" data-videoid="QJcnWkbnutQ" src="https://i.ytimg.com/vi/QJcnWkbnutQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

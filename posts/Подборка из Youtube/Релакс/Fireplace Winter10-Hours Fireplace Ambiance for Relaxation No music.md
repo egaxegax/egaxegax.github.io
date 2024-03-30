@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5t8qNG9f4ec">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_winter10-hours_fireplace_ambiance_for_relaxation_no_music">
     <img class="preview" data-videoid="5t8qNG9f4ec" src="https://i.ytimg.com/vi/5t8qNG9f4ec/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

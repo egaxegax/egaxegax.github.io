@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=lhbbVuuJNXo">
+  <a class="nodecor" href="/posts.html?filmy/svyataya_djudi_saint_judy_2019_drama">
     <img class="preview" data-videoid="lhbbVuuJNXo" src="https://i.ytimg.com/vi/lhbbVuuJNXo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

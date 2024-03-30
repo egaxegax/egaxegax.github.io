@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=igq5U1m9EKY">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/crazy_lady_accused_me_of_stealing_her_gloves_and_of_rape">
     <img class="preview" data-videoid="igq5U1m9EKY" src="https://i.ytimg.com/vi/igq5U1m9EKY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

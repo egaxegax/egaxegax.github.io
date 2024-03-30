@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=WxVdO2QVJi0">
+  <a class="nodecor" href="/posts.html?rok/rob_kirks_doodle_marmor_stein_und_eisen_bricht_stuttgart_germany_-_april_7_2018">
     <img class="preview" data-videoid="WxVdO2QVJi0" src="https://i.ytimg.com/vi/WxVdO2QVJi0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

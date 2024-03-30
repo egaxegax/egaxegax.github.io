@@ -1,6 +1,6 @@
 <!--2024-01-03 14:03:14-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=YkzjeKvPZ40">
+  <a class="nodecor" href="/posts.html?rabota/dalnoboj_ssha_posetil_ozero_bonnevil_prodoljaju_rejs_na_volvo_vnl_v_kaliforniju">
     <img class="preview" data-videoid="YkzjeKvPZ40" src="https://i.ytimg.com/vi/YkzjeKvPZ40/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

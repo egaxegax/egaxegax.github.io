@@ -1,6 +1,6 @@
 <!--2024-01-19 01:01:52-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mgQb8jeBgoI">
+  <a class="nodecor" href="/posts.html?kinoroliki/pribytie_svinok_na_ostrov_-_angry_birds_otryvok_iz_filma">
     <img class="preview" data-videoid="mgQb8jeBgoI" src="https://i.ytimg.com/vi/mgQb8jeBgoI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ZKmliGuUaXk">
+  <a class="nodecor" href="/posts.html?filmy/zachinshchiki_masterminds_aka_loomis_fargo_2016_komediya">
     <img class="preview" data-videoid="ZKmliGuUaXk" src="https://i.ytimg.com/vi/ZKmliGuUaXk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

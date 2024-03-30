@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=jtVjEy2oP_s">
+  <a class="nodecor" href="/posts.html?russkij_rok/igor_talkov_-_chistye_prudy_hd">
     <img class="preview" data-videoid="jtVjEy2oP_s" src="https://i.ytimg.com/vi/jtVjEy2oP_s/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

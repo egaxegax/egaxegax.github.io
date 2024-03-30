@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=pKD6B6OGZWQ">
+  <a class="nodecor" href="/posts.html?filmy/najti_i_poljubit_the_bra_2018_komediya">
     <img class="preview" data-videoid="pKD6B6OGZWQ" src="https://i.ytimg.com/vi/pKD6B6OGZWQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

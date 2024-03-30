@@ -1,6 +1,6 @@
 <!--2024-03-24 15:25:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ABbZ8BPUWgs">
+  <a class="nodecor" href="/posts.html?filmy/djipers_kripers_triller_ujasy_ssha_action_movies">
     <img class="preview" data-videoid="ABbZ8BPUWgs" src="https://i.ytimg.com/vi/ABbZ8BPUWgs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

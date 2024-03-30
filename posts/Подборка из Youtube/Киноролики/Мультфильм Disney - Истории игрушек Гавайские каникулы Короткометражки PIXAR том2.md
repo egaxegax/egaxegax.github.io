@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ebL2wE4xjBI">
+  <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_-_istorii_igrushek_gavajskie_kanikuly_korotkometrajki_pixar_tom2">
     <img class="preview" data-videoid="ebL2wE4xjBI" src="https://i.ytimg.com/vi/ebL2wE4xjBI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

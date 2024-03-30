@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=LJcwQcPMtGQ">
+  <a class="nodecor" href="/posts.html?filmy/amerikanec_the_american_2010_triller_drama">
     <img class="preview" data-videoid="LJcwQcPMtGQ" src="https://i.ytimg.com/vi/LJcwQcPMtGQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

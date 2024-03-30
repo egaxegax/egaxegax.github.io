@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=48yyHkPAAWs">
+  <a class="nodecor" href="/posts.html?filmy/fbc_lunnaya_afera_moonwalkers_2016_komediya">
     <img class="preview" data-videoid="48yyHkPAAWs" src="https://i.ytimg.com/vi/48yyHkPAAWs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

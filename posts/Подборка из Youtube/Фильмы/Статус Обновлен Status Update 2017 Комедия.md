@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=2jjKE3vl32M">
+  <a class="nodecor" href="/posts.html?filmy/status_obnovlen_status_update_2017_komediya">
     <img class="preview" data-videoid="2jjKE3vl32M" src="https://i.ytimg.com/vi/2jjKE3vl32M/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

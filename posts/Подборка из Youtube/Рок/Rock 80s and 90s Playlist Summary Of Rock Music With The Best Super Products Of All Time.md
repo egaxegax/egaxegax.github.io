@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Y-9H260IRM8">
+  <a class="nodecor" href="/posts.html?rok/rock_80s_and_90s_playlist_summary_of_rock_music_with_the_best_super_products_of_all_time">
     <img class="preview" data-videoid="Y-9H260IRM8" src="https://i.ytimg.com/vi/Y-9H260IRM8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=I3316xoyG_E">
+  <a class="nodecor" href="/posts.html?filmy/status_breda_brads_status_2017_komediya">
     <img class="preview" data-videoid="I3316xoyG_E" src="https://i.ytimg.com/vi/I3316xoyG_E/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=4-4k81z4Mps">
+  <a class="nodecor" href="/posts.html?rok/metallica_halo_on_fire_milan_italy_-_may_8_2019">
     <img class="preview" data-videoid="4-4k81z4Mps" src="https://i.ytimg.com/vi/4-4k81z4Mps/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

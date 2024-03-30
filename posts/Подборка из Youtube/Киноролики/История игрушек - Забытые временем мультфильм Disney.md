@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Ra2ttWU1NXI">
+  <a class="nodecor" href="/posts.html?kinoroliki/istoriya_igrushek_-_zabytye_vremenem_multfilm_disney">
     <img class="preview" data-videoid="Ra2ttWU1NXI" src="https://i.ytimg.com/vi/Ra2ttWU1NXI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=xDrKpYn-8u8">
+  <a class="nodecor" href="/posts.html?russkij_rok/arkona_-_stenka_na_stenku_napalm_records">
     <img class="preview" data-videoid="xDrKpYn-8u8" src="https://i.ytimg.com/vi/xDrKpYn-8u8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

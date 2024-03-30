@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=b_4evi_93Jg">
+  <a class="nodecor" href="/posts.html?filmy/impulso_bolshe_chem_flamenko_impulso_2017_dokumentalnyj">
     <img class="preview" data-videoid="b_4evi_93Jg" src="https://i.ytimg.com/vi/b_4evi_93Jg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

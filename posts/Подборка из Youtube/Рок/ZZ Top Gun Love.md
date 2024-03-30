@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=zRrTCIJqm5E">
+  <a class="nodecor" href="/posts.html?rok/zz_top_gun_love">
     <img class="preview" data-videoid="zRrTCIJqm5E" src="https://i.ytimg.com/vi/zRrTCIJqm5E/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

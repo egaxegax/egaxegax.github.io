@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=rYQQQ6_bAJE">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/new_jerseys_most_violent_town_camden_nj">
     <img class="preview" data-videoid="rYQQQ6_bAJE" src="https://i.ytimg.com/vi/rYQQQ6_bAJE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

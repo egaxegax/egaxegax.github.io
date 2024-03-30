@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=1-JKX5zGGKI">
+  <a class="nodecor" href="/posts.html?rok/metallica_dream_no_more_grand_forks_nd_-_september_8_2018">
     <img class="preview" data-videoid="1-JKX5zGGKI" src="https://i.ytimg.com/vi/1-JKX5zGGKI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

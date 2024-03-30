@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=hI63EBjMd-8">
+  <a class="nodecor" href="/posts.html?rok/metallica_fight_fire_with_fire_foxborough_ma_-_may_19_2017">
     <img class="preview" data-videoid="hI63EBjMd-8" src="https://i.ytimg.com/vi/hI63EBjMd-8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

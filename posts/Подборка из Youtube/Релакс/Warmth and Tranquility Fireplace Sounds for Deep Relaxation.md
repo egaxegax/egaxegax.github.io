@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=J9PVZEG0Cgo">
+  <a class="nodecor" href="/posts.html?relaks/warmth_and_tranquility_fireplace_sounds_for_deep_relaxation">
     <img class="preview" data-videoid="J9PVZEG0Cgo" src="https://i.ytimg.com/vi/J9PVZEG0Cgo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

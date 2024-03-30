@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=zHVzotaljyk">
+  <a class="nodecor" href="/posts.html?filmy/veselaya_ferma_kutoppen_2018_multfilm">
     <img class="preview" data-videoid="zHVzotaljyk" src="https://i.ytimg.com/vi/zHVzotaljyk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

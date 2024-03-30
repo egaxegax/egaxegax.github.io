@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=SU517MJSunY">
+  <a class="nodecor" href="/posts.html?rok/metallica_the_call_of_ktulu_munich_germany_-_august_23_2019">
     <img class="preview" data-videoid="SU517MJSunY" src="https://i.ytimg.com/vi/SU517MJSunY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

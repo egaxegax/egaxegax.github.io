@@ -1,6 +1,6 @@
 <!--2024-03-12 00:09:06-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=8E9LUAejPIQ">
+  <a class="nodecor" href="/posts.html?ucheba/reshenie_demoversii_ege_po_biologii_2016_zadanie_34_podgotovka_k_ege_ruege_ru">
     <img class="preview" data-videoid="8E9LUAejPIQ" src="https://i.ytimg.com/vi/8E9LUAejPIQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

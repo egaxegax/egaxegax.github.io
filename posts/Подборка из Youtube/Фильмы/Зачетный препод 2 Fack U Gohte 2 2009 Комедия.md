@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=yJQYgS6rupo">
+  <a class="nodecor" href="/posts.html?filmy/zachetnyj_prepod_2_fack_u_gohte_2_2009_komediya">
     <img class="preview" data-videoid="yJQYgS6rupo" src="https://i.ytimg.com/vi/yJQYgS6rupo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=BdHN69LlARI">
+  <a class="nodecor" href="/posts.html?filmy/les_prizrakov_the_forest_2016_ujasy">
     <img class="preview" data-videoid="BdHN69LlARI" src="https://i.ytimg.com/vi/BdHN69LlARI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

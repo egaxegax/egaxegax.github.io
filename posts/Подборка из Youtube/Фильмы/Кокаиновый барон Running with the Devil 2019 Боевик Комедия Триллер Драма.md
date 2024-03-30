@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=c13JO8nqU7E">
+  <a class="nodecor" href="/posts.html?filmy/kokainovyj_baron_running_with_the_devil_2019_boevik_komediya_triller_drama">
     <img class="preview" data-videoid="c13JO8nqU7E" src="https://i.ytimg.com/vi/c13JO8nqU7E/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

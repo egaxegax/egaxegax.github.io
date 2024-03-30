@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=oWhalHZXLUw">
+  <a class="nodecor" href="/posts.html?kinoroliki/mojdodyr_sovetskie_multfilmy_starmediakids">
     <img class="preview" data-videoid="oWhalHZXLUw" src="https://i.ytimg.com/vi/oWhalHZXLUw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

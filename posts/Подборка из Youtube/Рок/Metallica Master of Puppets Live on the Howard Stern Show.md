@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=cJOSvvdy27I">
+  <a class="nodecor" href="/posts.html?rok/metallica_master_of_puppets_live_on_the_howard_stern_show">
     <img class="preview" data-videoid="cJOSvvdy27I" src="https://i.ytimg.com/vi/cJOSvvdy27I/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

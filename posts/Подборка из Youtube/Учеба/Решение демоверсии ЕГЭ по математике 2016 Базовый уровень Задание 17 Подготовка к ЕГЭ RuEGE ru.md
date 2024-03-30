@@ -1,6 +1,6 @@
 <!--2024-03-12 00:14:41-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=SUL5uYJqoHk">
+  <a class="nodecor" href="/posts.html?ucheba/reshenie_demoversii_ege_po_matematike_2016_bazovyj_uroven_zadanie_17_podgotovka_k_ege_ruege_ru">
     <img class="preview" data-videoid="SUL5uYJqoHk" src="https://i.ytimg.com/vi/SUL5uYJqoHk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

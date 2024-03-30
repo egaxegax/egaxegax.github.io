@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OPWuBUGtvuo">
+  <a class="nodecor" href="/posts.html?filmy/proklyatie_vedmy_snov_curse_of_the_dream_witch_2018_triller">
     <img class="preview" data-videoid="OPWuBUGtvuo" src="https://i.ytimg.com/vi/OPWuBUGtvuo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

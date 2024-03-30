@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=qb2IucLn9f4">
+  <a class="nodecor" href="/posts.html?rok/hard_rock_70s_80s_90s_best_hard_rock_songs_of_collection">
     <img class="preview" data-videoid="qb2IucLn9f4" src="https://i.ytimg.com/vi/qb2IucLn9f4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

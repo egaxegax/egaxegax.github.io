@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=C-MoV9SajPw">
+  <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_presto_korotkometrajki_studii_pixar_tom_2_-_multfilm_o_fokusnike">
     <img class="preview" data-videoid="C-MoV9SajPw" src="https://i.ytimg.com/vi/C-MoV9SajPw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=DXXxANXLQyE">
+  <a class="nodecor" href="/posts.html?puteshestviya/25_most_beautiful_medieval_towns_of_europe">
     <img class="preview" data-videoid="DXXxANXLQyE" src="https://i.ytimg.com/vi/DXXxANXLQyE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

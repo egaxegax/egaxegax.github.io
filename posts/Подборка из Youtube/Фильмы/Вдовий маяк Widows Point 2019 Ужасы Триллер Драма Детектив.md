@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=HK3Qb6Eeb-I">
+  <a class="nodecor" href="/posts.html?filmy/vdovij_mayak_widows_point_2019_ujasy_triller_drama_detektiv">
     <img class="preview" data-videoid="HK3Qb6Eeb-I" src="https://i.ytimg.com/vi/HK3Qb6Eeb-I/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

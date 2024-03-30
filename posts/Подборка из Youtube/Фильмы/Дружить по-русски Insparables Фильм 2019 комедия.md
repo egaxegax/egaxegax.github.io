@@ -1,6 +1,6 @@
 <!--2024-03-24 15:30:07-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=chqJqng2WAs">
+  <a class="nodecor" href="/posts.html?filmy/drujit_po-russki_insparables_film_2019_komediya">
     <img class="preview" data-videoid="chqJqng2WAs" src="https://i.ytimg.com/vi/chqJqng2WAs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

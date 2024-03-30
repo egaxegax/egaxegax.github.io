@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=EGUbQM-Y97w">
+  <a class="nodecor" href="/posts.html?relaks/cozy_campfire_crackling_fire_in_a_cave_at_night_by_the_sea_with_ocean_waves_sounds_2">
     <img class="preview" data-videoid="EGUbQM-Y97w" src="https://i.ytimg.com/vi/EGUbQM-Y97w/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

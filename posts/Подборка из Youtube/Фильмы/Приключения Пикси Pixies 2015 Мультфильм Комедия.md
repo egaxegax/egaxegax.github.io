@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=u6GMQVeAPXo">
+  <a class="nodecor" href="/posts.html?filmy/prikljucheniya_piksi_pixies_2015_multfilm_komediya">
     <img class="preview" data-videoid="u6GMQVeAPXo" src="https://i.ytimg.com/vi/u6GMQVeAPXo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

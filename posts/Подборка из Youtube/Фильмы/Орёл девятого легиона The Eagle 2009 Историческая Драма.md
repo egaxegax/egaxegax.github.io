@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OWGIkjFBEB4">
+  <a class="nodecor" href="/posts.html?filmy/orel_devyatogo_legiona_the_eagle_2009_istoricheskaya_drama">
     <img class="preview" data-videoid="OWGIkjFBEB4" src="https://i.ytimg.com/vi/OWGIkjFBEB4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

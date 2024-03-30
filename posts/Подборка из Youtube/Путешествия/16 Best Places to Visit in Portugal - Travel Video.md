@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=IOVmw00y5iA">
+  <a class="nodecor" href="/posts.html?puteshestviya/16_best_places_to_visit_in_portugal_-_travel_video">
     <img class="preview" data-videoid="IOVmw00y5iA" src="https://i.ytimg.com/vi/IOVmw00y5iA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

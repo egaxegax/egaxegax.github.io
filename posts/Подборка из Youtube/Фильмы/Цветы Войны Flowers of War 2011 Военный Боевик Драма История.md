@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=B_IrYe7JO6c">
+  <a class="nodecor" href="/posts.html?filmy/cvety_vojny_flowers_of_war_2011_voennyj_boevik_drama_istoriya">
     <img class="preview" data-videoid="B_IrYe7JO6c" src="https://i.ytimg.com/vi/B_IrYe7JO6c/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=_qAXqRp9Mxk">
+  <a class="nodecor" href="/posts.html?rok/metallica_motorbreath_montral_canada_-_july_19_2017">
     <img class="preview" data-videoid="_qAXqRp9Mxk" src="https://i.ytimg.com/vi/_qAXqRp9Mxk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

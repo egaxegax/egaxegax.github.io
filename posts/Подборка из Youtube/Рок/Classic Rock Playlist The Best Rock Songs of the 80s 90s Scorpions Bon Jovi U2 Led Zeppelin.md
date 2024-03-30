@@ -1,6 +1,6 @@
 <!--2023-12-31 01:42:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=drNOdIuEddY">
+  <a class="nodecor" href="/posts.html?rok/classic_rock_playlist_the_best_rock_songs_of_the_80s_90s_scorpions_bon_jovi_u2_led_zeppelin">
     <img class="preview" data-videoid="drNOdIuEddY" src="https://i.ytimg.com/vi/drNOdIuEddY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

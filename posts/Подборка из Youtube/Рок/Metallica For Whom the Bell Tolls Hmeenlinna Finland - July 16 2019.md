@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=AoD2NYvuCjY">
+  <a class="nodecor" href="/posts.html?rok/metallica_for_whom_the_bell_tolls_hmeenlinna_finland_-_july_16_2019">
     <img class="preview" data-videoid="AoD2NYvuCjY" src="https://i.ytimg.com/vi/AoD2NYvuCjY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

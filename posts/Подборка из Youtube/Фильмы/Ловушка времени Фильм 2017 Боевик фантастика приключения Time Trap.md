@@ -1,6 +1,6 @@
 <!--2024-03-24 15:25:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=I7Rj5QmdQ8E">
+  <a class="nodecor" href="/posts.html?filmy/lovushka_vremeni_film_2017_boevik_fantastika_prikljucheniya_time_trap">
     <img class="preview" data-videoid="I7Rj5QmdQ8E" src="https://i.ytimg.com/vi/I7Rj5QmdQ8E/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

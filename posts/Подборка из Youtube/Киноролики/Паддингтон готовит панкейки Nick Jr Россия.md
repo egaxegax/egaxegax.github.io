@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=g3-ep_6nBwA">
+  <a class="nodecor" href="/posts.html?kinoroliki/paddington_gotovit_pankejki_nick_jr_rossiya">
     <img class="preview" data-videoid="g3-ep_6nBwA" src="https://i.ytimg.com/vi/g3-ep_6nBwA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

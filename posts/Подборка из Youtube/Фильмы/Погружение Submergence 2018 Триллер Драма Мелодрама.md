@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=17L0_UfpgWs">
+  <a class="nodecor" href="/posts.html?filmy/pogrujenie_submergence_2018_triller_drama_melodrama">
     <img class="preview" data-videoid="17L0_UfpgWs" src="https://i.ytimg.com/vi/17L0_UfpgWs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

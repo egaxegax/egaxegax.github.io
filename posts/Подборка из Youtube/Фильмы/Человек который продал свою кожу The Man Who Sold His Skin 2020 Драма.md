@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=xak_468MeWw">
+  <a class="nodecor" href="/posts.html?filmy/chelovek_kotoryj_prodal_svoju_koju_the_man_who_sold_his_skin_2020_drama">
     <img class="preview" data-videoid="xak_468MeWw" src="https://i.ytimg.com/vi/xak_468MeWw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

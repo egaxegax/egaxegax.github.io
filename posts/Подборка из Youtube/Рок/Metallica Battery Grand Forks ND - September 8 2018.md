@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=j37cpUblHEM">
+  <a class="nodecor" href="/posts.html?rok/metallica_battery_grand_forks_nd_-_september_8_2018">
     <img class="preview" data-videoid="j37cpUblHEM" src="https://i.ytimg.com/vi/j37cpUblHEM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

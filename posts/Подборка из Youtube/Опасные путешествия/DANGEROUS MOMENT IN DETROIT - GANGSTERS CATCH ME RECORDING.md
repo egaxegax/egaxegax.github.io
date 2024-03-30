@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=YFsdg5_KR7c">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/dangerous_moment_in_detroit_-_gangsters_catch_me_recording">
     <img class="preview" data-videoid="YFsdg5_KR7c" src="https://i.ytimg.com/vi/YFsdg5_KR7c/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

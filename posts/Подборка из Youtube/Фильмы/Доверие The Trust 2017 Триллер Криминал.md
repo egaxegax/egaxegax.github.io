@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=n0fHbVIdWRw">
+  <a class="nodecor" href="/posts.html?filmy/doverie_the_trust_2017_triller_kriminal">
     <img class="preview" data-videoid="n0fHbVIdWRw" src="https://i.ytimg.com/vi/n0fHbVIdWRw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

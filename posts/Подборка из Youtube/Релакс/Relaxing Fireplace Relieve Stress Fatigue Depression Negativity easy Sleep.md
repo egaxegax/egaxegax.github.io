@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=iJbHwh7ek5A">
+  <a class="nodecor" href="/posts.html?relaks/relaxing_fireplace_relieve_stress_fatigue_depression_negativity_easy_sleep">
     <img class="preview" data-videoid="iJbHwh7ek5A" src="https://i.ytimg.com/vi/iJbHwh7ek5A/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

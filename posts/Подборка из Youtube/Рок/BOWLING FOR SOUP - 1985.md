@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=_WtOzxlMFW0">
+  <a class="nodecor" href="/posts.html?rok/bowling_for_soup_-_1985">
     <img class="preview" data-videoid="_WtOzxlMFW0" src="https://i.ytimg.com/vi/_WtOzxlMFW0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

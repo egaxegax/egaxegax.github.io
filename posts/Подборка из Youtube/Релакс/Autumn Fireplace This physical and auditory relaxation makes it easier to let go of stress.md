@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=wkd6SAbSHP8">
+  <a class="nodecor" href="/posts.html?relaks/autumn_fireplace_this_physical_and_auditory_relaxation_makes_it_easier_to_let_go_of_stress">
     <img class="preview" data-videoid="wkd6SAbSHP8" src="https://i.ytimg.com/vi/wkd6SAbSHP8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

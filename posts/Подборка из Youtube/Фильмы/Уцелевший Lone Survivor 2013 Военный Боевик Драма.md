@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=FYKq043Bpsk">
+  <a class="nodecor" href="/posts.html?filmy/ucelevshij_lone_survivor_2013_voennyj_boevik_drama">
     <img class="preview" data-videoid="FYKq043Bpsk" src="https://i.ytimg.com/vi/FYKq043Bpsk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

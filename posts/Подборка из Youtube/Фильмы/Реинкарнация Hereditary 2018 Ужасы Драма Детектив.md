@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=REgy4VvAbLs">
+  <a class="nodecor" href="/posts.html?filmy/reinkarnaciya_hereditary_2018_ujasy_drama_detektiv">
     <img class="preview" data-videoid="REgy4VvAbLs" src="https://i.ytimg.com/vi/REgy4VvAbLs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

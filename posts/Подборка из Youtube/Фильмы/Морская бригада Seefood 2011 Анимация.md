@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=IASzJbOaPFw">
+  <a class="nodecor" href="/posts.html?filmy/morskaya_brigada_seefood_2011_animaciya">
     <img class="preview" data-videoid="IASzJbOaPFw" src="https://i.ytimg.com/vi/IASzJbOaPFw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

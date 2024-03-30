@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Y8-rwlrBGiU">
+  <a class="nodecor" href="/posts.html?filmy/neubivaemyi_bullet_proof_2022_trejler_boevik">
     <img class="preview" data-videoid="Y8-rwlrBGiU" src="https://i.ytimg.com/vi/Y8-rwlrBGiU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

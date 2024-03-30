@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=uitaeSjSC4E">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_winter12-hours_cozy_ambiance_with_crackling_sounds">
     <img class="preview" data-videoid="uitaeSjSC4E" src="https://i.ytimg.com/vi/uitaeSjSC4E/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

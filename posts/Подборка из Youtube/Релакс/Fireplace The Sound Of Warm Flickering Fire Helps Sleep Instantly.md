@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=sLRR_1FzTDg">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_the_sound_of_warm_flickering_fire_helps_sleep_instantly">
     <img class="preview" data-videoid="sLRR_1FzTDg" src="https://i.ytimg.com/vi/sLRR_1FzTDg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

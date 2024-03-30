@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=o2ekHFEh1LU">
+  <a class="nodecor" href="/posts.html?rok/zz_top_-_planet_of_women">
     <img class="preview" data-videoid="o2ekHFEh1LU" src="https://i.ytimg.com/vi/o2ekHFEh1LU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

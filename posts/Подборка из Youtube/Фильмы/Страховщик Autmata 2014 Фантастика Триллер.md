@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Q5WHEAmJtPA">
+  <a class="nodecor" href="/posts.html?filmy/strahovshchik_autmata_2014_fantastika_triller">
     <img class="preview" data-videoid="Q5WHEAmJtPA" src="https://i.ytimg.com/vi/Q5WHEAmJtPA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

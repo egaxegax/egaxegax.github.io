@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Z9IhJuci-Wg">
+  <a class="nodecor" href="/posts.html?filmy/litl_grom_le_film_yakari_2020_multfilm_prikljucheniya_semejnyj_vestern">
     <img class="preview" data-videoid="Z9IhJuci-Wg" src="https://i.ytimg.com/vi/Z9IhJuci-Wg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

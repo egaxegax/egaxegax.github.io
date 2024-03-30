@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=O4JkexXLy6k">
+  <a class="nodecor" href="/posts.html?filmy/fbc_proshchaj_parij_adieu_paris_2013_drama">
     <img class="preview" data-videoid="O4JkexXLy6k" src="https://i.ytimg.com/vi/O4JkexXLy6k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

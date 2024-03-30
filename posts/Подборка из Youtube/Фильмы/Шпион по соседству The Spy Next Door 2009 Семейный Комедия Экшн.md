@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=m-a3hoAjzbM">
+  <a class="nodecor" href="/posts.html?filmy/shpion_po_sosedstvu_the_spy_next_door_2009_semejnyj_komediya_ekshn">
     <img class="preview" data-videoid="m-a3hoAjzbM" src="https://i.ytimg.com/vi/m-a3hoAjzbM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

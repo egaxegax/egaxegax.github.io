@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=KE4D2zUkBWQ">
+  <a class="nodecor" href="/posts.html?rabota/vsya_pravda_o_zarabotke_v_uber_v_san-francisko_jizn_v_ssha">
     <img class="preview" data-videoid="KE4D2zUkBWQ" src="https://i.ytimg.com/vi/KE4D2zUkBWQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=RolbGwsjNzM">
+  <a class="nodecor" href="/posts.html?filmy/nepobedimyj_menni_pakyao_kid_kulafu_2015_biografiya">
     <img class="preview" data-videoid="RolbGwsjNzM" src="https://i.ytimg.com/vi/RolbGwsjNzM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

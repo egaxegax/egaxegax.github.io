@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5Guee_x1a_w">
+  <a class="nodecor" href="/posts.html?filmy/gory_mountain_2017_dokumentalnyj">
     <img class="preview" data-videoid="5Guee_x1a_w" src="https://i.ytimg.com/vi/5Guee_x1a_w/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

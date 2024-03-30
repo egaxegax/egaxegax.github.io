@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=gg9PSfbj104">
+  <a class="nodecor" href="/posts.html?filmy/bosikom_po_sliznyakam_pieds_nus_sur_les_limaces_aka_lily_sometimes_2010_drama">
     <img class="preview" data-videoid="gg9PSfbj104" src="https://i.ytimg.com/vi/gg9PSfbj104/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

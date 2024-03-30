@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=R9jGQlVQXaM">
+  <a class="nodecor" href="/posts.html?filmy/sarila_the_legend_of_sarila_2013_animaciya_prikljucheniya">
     <img class="preview" data-videoid="R9jGQlVQXaM" src="https://i.ytimg.com/vi/R9jGQlVQXaM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

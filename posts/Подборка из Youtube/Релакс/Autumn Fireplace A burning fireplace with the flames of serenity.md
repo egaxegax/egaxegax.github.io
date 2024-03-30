@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=b_ZFBZSG9DQ">
+  <a class="nodecor" href="/posts.html?relaks/autumn_fireplace_a_burning_fireplace_with_the_flames_of_serenity">
     <img class="preview" data-videoid="b_ZFBZSG9DQ" src="https://i.ytimg.com/vi/b_ZFBZSG9DQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

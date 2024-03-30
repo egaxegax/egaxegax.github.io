@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=IJAruoBCDJQ">
+  <a class="nodecor" href="/posts.html?filmy/zemlya_perezagruzka_restart_the_earth_2021_fantastika_boevik">
     <img class="preview" data-videoid="IJAruoBCDJQ" src="https://i.ytimg.com/vi/IJAruoBCDJQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=KqFpUdXYpjE">
+  <a class="nodecor" href="/posts.html?filmy/pushistye_moshenniki_latte_the_magic_waterstone_2019_multfilm_komediya_semejnyj">
     <img class="preview" data-videoid="KqFpUdXYpjE" src="https://i.ytimg.com/vi/KqFpUdXYpjE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

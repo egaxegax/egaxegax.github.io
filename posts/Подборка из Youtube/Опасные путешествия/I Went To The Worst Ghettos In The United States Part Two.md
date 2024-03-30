@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=lf_IaLAXQCA">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/i_went_to_the_worst_ghettos_in_the_united_states_part_two">
     <img class="preview" data-videoid="lf_IaLAXQCA" src="https://i.ytimg.com/vi/lf_IaLAXQCA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

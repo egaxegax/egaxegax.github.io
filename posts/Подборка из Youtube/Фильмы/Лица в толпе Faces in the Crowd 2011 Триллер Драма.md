@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=fimBuYHcnaY">
+  <a class="nodecor" href="/posts.html?filmy/lica_v_tolpe_faces_in_the_crowd_2011_triller_drama">
     <img class="preview" data-videoid="fimBuYHcnaY" src="https://i.ytimg.com/vi/fimBuYHcnaY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

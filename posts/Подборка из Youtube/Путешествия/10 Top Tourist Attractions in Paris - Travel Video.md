@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ceTMFsq1RnU">
+  <a class="nodecor" href="/posts.html?puteshestviya/10_top_tourist_attractions_in_paris_-_travel_video">
     <img class="preview" data-videoid="ceTMFsq1RnU" src="https://i.ytimg.com/vi/ceTMFsq1RnU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

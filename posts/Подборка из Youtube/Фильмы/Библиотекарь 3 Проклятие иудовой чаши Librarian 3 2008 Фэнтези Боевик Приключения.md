@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=DuJ0miMe_AQ">
+  <a class="nodecor" href="/posts.html?filmy/bibliotekar_3_proklyatie_iudovoj_chashi_librarian_3_2008_fentezi_boevik_prikljucheniya">
     <img class="preview" data-videoid="DuJ0miMe_AQ" src="https://i.ytimg.com/vi/DuJ0miMe_AQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=DmeUuoxyt_E">
+  <a class="nodecor" href="/posts.html?rok/nickelback_-_rockstar_official_video">
     <img class="preview" data-videoid="DmeUuoxyt_E" src="https://i.ytimg.com/vi/DmeUuoxyt_E/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

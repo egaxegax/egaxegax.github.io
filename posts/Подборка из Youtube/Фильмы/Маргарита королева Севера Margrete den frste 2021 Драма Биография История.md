@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=imXkqgeUITo">
+  <a class="nodecor" href="/posts.html?filmy/margarita_koroleva_severa_margrete_den_frste_2021_drama_biografiya_istoriya">
     <img class="preview" data-videoid="imXkqgeUITo" src="https://i.ytimg.com/vi/imXkqgeUITo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

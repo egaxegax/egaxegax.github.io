@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=o1-kFSBlL8A">
+  <a class="nodecor" href="/posts.html?rok/stone_sour_-_song_3">
     <img class="preview" data-videoid="o1-kFSBlL8A" src="https://i.ytimg.com/vi/o1-kFSBlL8A/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

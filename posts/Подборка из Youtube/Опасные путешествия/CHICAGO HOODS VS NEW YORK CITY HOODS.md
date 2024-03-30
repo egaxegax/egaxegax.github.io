@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mfIXyFumMrQ">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/chicago_hoods_vs_new_york_city_hoods">
     <img class="preview" data-videoid="mfIXyFumMrQ" src="https://i.ytimg.com/vi/mfIXyFumMrQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

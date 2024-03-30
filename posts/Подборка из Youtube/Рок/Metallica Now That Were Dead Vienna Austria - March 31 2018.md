@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=L2BQrweIpvI">
+  <a class="nodecor" href="/posts.html?rok/metallica_now_that_were_dead_vienna_austria_-_march_31_2018">
     <img class="preview" data-videoid="L2BQrweIpvI" src="https://i.ytimg.com/vi/L2BQrweIpvI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

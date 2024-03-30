@@ -1,6 +1,6 @@
 <!--2024-01-20 00:58:58-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=C5tBuPTn3Mk">
+  <a class="nodecor" href="/posts.html?rok/ac_dc_-_bedlam_in_belgium_capital_center_landover_md_december_1983">
     <img class="preview" data-videoid="C5tBuPTn3Mk" src="https://i.ytimg.com/vi/C5tBuPTn3Mk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

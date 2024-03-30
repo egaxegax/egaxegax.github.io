@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=rI7FHD9NYQU">
+  <a class="nodecor" href="/posts.html?rok/metallica_sad_but_true_columbus_oh_-_may_21_2017">
     <img class="preview" data-videoid="rI7FHD9NYQU" src="https://i.ytimg.com/vi/rI7FHD9NYQU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

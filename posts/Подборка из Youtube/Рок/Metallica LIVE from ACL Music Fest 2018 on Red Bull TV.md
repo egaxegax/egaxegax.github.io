@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=VHllIdeEZ1k">
+  <a class="nodecor" href="/posts.html?rok/metallica_live_from_acl_music_fest_2018_on_red_bull_tv">
     <img class="preview" data-videoid="VHllIdeEZ1k" src="https://i.ytimg.com/vi/VHllIdeEZ1k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

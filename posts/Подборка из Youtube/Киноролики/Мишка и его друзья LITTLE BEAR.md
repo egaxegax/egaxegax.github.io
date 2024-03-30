@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5jXZ8xx9XRA">
+  <a class="nodecor" href="/posts.html?kinoroliki/mishka_i_ego_druzya_little_bear">
     <img class="preview" data-videoid="5jXZ8xx9XRA" src="https://i.ytimg.com/vi/5jXZ8xx9XRA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

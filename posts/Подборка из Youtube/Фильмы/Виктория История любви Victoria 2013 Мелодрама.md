@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=z3-Dri4P7vk">
+  <a class="nodecor" href="/posts.html?filmy/viktoriya_istoriya_ljubvi_victoria_2013_melodrama">
     <img class="preview" data-videoid="z3-Dri4P7vk" src="https://i.ytimg.com/vi/z3-Dri4P7vk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=E1eBUZUEZ8U">
+  <a class="nodecor" href="/posts.html?rok/metallica_fade_to_black_bologna_italy_-_february_12_2018">
     <img class="preview" data-videoid="E1eBUZUEZ8U" src="https://i.ytimg.com/vi/E1eBUZUEZ8U/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

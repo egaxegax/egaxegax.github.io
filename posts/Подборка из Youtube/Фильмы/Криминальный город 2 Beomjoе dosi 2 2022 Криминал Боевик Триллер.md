@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mKWTD3Lha1s">
+  <a class="nodecor" href="/posts.html?filmy/kriminalnyj_gorod_2_beomjoe_dosi_2_2022_kriminal_boevik_triller">
     <img class="preview" data-videoid="mKWTD3Lha1s" src="https://i.ytimg.com/vi/mKWTD3Lha1s/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

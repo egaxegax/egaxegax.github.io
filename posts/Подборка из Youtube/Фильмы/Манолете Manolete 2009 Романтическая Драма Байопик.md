@@ -1,6 +1,6 @@
 <!--2024-03-24 15:45:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Fl5BC72gcis">
+  <a class="nodecor" href="/posts.html?filmy/manolete_manolete_2009_romanticheskaya_drama_bajopik">
     <img class="preview" data-videoid="Fl5BC72gcis" src="https://i.ytimg.com/vi/Fl5BC72gcis/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

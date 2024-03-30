@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=hozfbSpRtRQ">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/i_investigated_the_murder_capital_of_america">
     <img class="preview" data-videoid="hozfbSpRtRQ" src="https://i.ytimg.com/vi/hozfbSpRtRQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

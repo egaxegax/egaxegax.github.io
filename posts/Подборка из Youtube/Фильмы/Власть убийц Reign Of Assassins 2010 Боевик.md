@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=sWSQxZmfI5k">
+  <a class="nodecor" href="/posts.html?filmy/vlast_ubijc_reign_of_assassins_2010_boevik">
     <img class="preview" data-videoid="sWSQxZmfI5k" src="https://i.ytimg.com/vi/sWSQxZmfI5k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

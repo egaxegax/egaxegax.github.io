@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:32-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=SGX2hZjiidY">
+  <a class="nodecor" href="/posts.html?rok/ac_dc_-_whole_lotta_rosie_plaza_de_toros_de_las_ventas_july_1996">
     <img class="preview" data-videoid="SGX2hZjiidY" src="https://i.ytimg.com/vi/SGX2hZjiidY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

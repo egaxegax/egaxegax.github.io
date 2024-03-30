@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=B5imY9qmnd0">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/lawrence_massachusetts_hoods">
     <img class="preview" data-videoid="B5imY9qmnd0" src="https://i.ytimg.com/vi/B5imY9qmnd0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

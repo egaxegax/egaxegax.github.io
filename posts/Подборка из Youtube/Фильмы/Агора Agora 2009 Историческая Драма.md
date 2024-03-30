@@ -1,6 +1,6 @@
 <!--2024-03-24 15:45:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=nVJEf8kIbQ8">
+  <a class="nodecor" href="/posts.html?filmy/agora_agora_2009_istoricheskaya_drama">
     <img class="preview" data-videoid="nVJEf8kIbQ8" src="https://i.ytimg.com/vi/nVJEf8kIbQ8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

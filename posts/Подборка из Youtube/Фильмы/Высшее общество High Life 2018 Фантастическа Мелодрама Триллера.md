@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=q6MOtAfJgsA">
+  <a class="nodecor" href="/posts.html?filmy/vysshee_obshchestvo_high_life_2018_fantasticheska_melodrama_trillera">
     <img class="preview" data-videoid="q6MOtAfJgsA" src="https://i.ytimg.com/vi/q6MOtAfJgsA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

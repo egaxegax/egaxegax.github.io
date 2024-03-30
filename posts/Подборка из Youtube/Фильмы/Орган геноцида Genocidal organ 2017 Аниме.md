@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5RtbhxA6KCY">
+  <a class="nodecor" href="/posts.html?filmy/organ_genocida_genocidal_organ_2017_anime">
     <img class="preview" data-videoid="5RtbhxA6KCY" src="https://i.ytimg.com/vi/5RtbhxA6KCY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

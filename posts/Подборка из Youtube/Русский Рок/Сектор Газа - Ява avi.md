@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=iDvCxus8SSg">
+  <a class="nodecor" href="/posts.html?russkij_rok/sektor_gaza_-_yava_avi">
     <img class="preview" data-videoid="iDvCxus8SSg" src="https://i.ytimg.com/vi/iDvCxus8SSg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

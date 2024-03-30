@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mAZNZxulJDE">
+  <a class="nodecor" href="/posts.html?filmy/indjuki_nazad_v_budushchee_3d_free_birds_2013_animaciya_komediya">
     <img class="preview" data-videoid="mAZNZxulJDE" src="https://i.ytimg.com/vi/mAZNZxulJDE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

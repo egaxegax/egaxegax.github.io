@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=gPhMLU1z52Y">
+  <a class="nodecor" href="/posts.html?rok/zz_top-_blue_jean_blues">
     <img class="preview" data-videoid="gPhMLU1z52Y" src="https://i.ytimg.com/vi/gPhMLU1z52Y/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

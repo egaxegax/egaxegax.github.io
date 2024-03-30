@@ -1,6 +1,6 @@
 <!--2024-01-02 11:31:54-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=15rnksJ-3bE">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/the_best_of_eagle_attacks_2023">
     <img class="preview" data-videoid="15rnksJ-3bE" src="https://i.ytimg.com/vi/15rnksJ-3bE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

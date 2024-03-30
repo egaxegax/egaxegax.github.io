@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=AfPZ2gvSS2Q">
+  <a class="nodecor" href="/posts.html?filmy/strashnaya_volya_bogov_kamisama_no_iu_tri_2014_triller">
     <img class="preview" data-videoid="AfPZ2gvSS2Q" src="https://i.ytimg.com/vi/AfPZ2gvSS2Q/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

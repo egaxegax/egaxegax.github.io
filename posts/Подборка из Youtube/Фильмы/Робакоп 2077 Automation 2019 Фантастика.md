@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=RO85s-EjusU">
+  <a class="nodecor" href="/posts.html?filmy/robakop_2077_automation_2019_fantastika">
     <img class="preview" data-videoid="RO85s-EjusU" src="https://i.ytimg.com/vi/RO85s-EjusU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

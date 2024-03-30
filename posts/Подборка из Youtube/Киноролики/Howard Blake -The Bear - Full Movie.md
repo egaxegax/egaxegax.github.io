@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5IoNnQtaViU">
+  <a class="nodecor" href="/posts.html?kinoroliki/howard_blake_-the_bear_-_full_movie">
     <img class="preview" data-videoid="5IoNnQtaViU" src="https://i.ytimg.com/vi/5IoNnQtaViU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

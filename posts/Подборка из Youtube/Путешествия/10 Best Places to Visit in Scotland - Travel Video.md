@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=stGfw_T821g">
+  <a class="nodecor" href="/posts.html?puteshestviya/10_best_places_to_visit_in_scotland_-_travel_video">
     <img class="preview" data-videoid="stGfw_T821g" src="https://i.ytimg.com/vi/stGfw_T821g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

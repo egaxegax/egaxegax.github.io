@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=kdu5_7uG2cQ">
+  <a class="nodecor" href="/posts.html?kinoroliki/lullaby_of_argentina_world_lullabies_-_kolybelnaya_argentiny_kolybelnye_mira">
     <img class="preview" data-videoid="kdu5_7uG2cQ" src="https://i.ytimg.com/vi/kdu5_7uG2cQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

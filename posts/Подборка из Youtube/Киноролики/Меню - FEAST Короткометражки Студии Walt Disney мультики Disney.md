@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=d9XzKvSKwrA">
+  <a class="nodecor" href="/posts.html?kinoroliki/menju_-_feast_korotkometrajki_studii_walt_disney_multiki_disney">
     <img class="preview" data-videoid="d9XzKvSKwrA" src="https://i.ytimg.com/vi/d9XzKvSKwrA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

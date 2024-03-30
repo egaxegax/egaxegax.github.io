@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=0uubmiYKswE">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/kensington_philadelphia_on_a_tuesday">
     <img class="preview" data-videoid="0uubmiYKswE" src="https://i.ytimg.com/vi/0uubmiYKswE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

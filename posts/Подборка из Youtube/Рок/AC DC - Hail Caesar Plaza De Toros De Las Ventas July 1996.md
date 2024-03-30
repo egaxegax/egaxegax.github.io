@@ -1,6 +1,6 @@
 <!--2024-01-20 00:59:32-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=R32C4w17Lho">
+  <a class="nodecor" href="/posts.html?rok/ac_dc_-_hail_caesar_plaza_de_toros_de_las_ventas_july_1996">
     <img class="preview" data-videoid="R32C4w17Lho" src="https://i.ytimg.com/vi/R32C4w17Lho/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

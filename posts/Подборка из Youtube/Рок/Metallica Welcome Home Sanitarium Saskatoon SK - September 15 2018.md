@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=e_ciDHHm_Qg">
+  <a class="nodecor" href="/posts.html?rok/metallica_welcome_home_sanitarium_saskatoon_sk_-_september_15_2018">
     <img class="preview" data-videoid="e_ciDHHm_Qg" src="https://i.ytimg.com/vi/e_ciDHHm_Qg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Nb_PsQhSzxk">
+  <a class="nodecor" href="/posts.html?rok/best_new_rock_songs_2022_-_new_rock_songs_of_all_time">
     <img class="preview" data-videoid="Nb_PsQhSzxk" src="https://i.ytimg.com/vi/Nb_PsQhSzxk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

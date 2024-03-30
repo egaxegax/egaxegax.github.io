@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=phBdQh4su2g">
+  <a class="nodecor" href="/posts.html?filmy/luchshee_vo_mne_the_best_of_me_2014_melodrama">
     <img class="preview" data-videoid="phBdQh4su2g" src="https://i.ytimg.com/vi/phBdQh4su2g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

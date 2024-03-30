@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=m8mrAP7y3KU">
+  <a class="nodecor" href="/posts.html?rok/hard_rock_80s_90s_hard_rock_burst_into_flames_best_hard_rock_songs">
     <img class="preview" data-videoid="m8mrAP7y3KU" src="https://i.ytimg.com/vi/m8mrAP7y3KU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

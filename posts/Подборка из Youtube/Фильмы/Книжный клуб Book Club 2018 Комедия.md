@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Im60aSCqSVw">
+  <a class="nodecor" href="/posts.html?filmy/knijnyj_klub_book_club_2018_komediya">
     <img class="preview" data-videoid="Im60aSCqSVw" src="https://i.ytimg.com/vi/Im60aSCqSVw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

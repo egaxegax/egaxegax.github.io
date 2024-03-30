@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mC-5BfAcAzE">
+  <a class="nodecor" href="/posts.html?filmy/rasplata_blood_out_2011_boevik">
     <img class="preview" data-videoid="mC-5BfAcAzE" src="https://i.ytimg.com/vi/mC-5BfAcAzE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=b8GenqcSZwg">
+  <a class="nodecor" href="/posts.html?filmy/neizvestnaya_la_fille_inconnue_2016_triller">
     <img class="preview" data-videoid="b8GenqcSZwg" src="https://i.ytimg.com/vi/b8GenqcSZwg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=wLfnQh80xJs">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/the_new_york_subway_is_a_world_of_its_own">
     <img class="preview" data-videoid="wLfnQh80xJs" src="https://i.ytimg.com/vi/wLfnQh80xJs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=erC6IPLn_T4">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_sounds_the_sound_makes_your_mind_clear_relieves_stress_and_calm_down">
     <img class="preview" data-videoid="erC6IPLn_T4" src="https://i.ytimg.com/vi/erC6IPLn_T4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

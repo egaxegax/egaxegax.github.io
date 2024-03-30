@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=EBrfXbo8lkc">
+  <a class="nodecor" href="/posts.html?rok/zz_top_-_leila">
     <img class="preview" data-videoid="EBrfXbo8lkc" src="https://i.ytimg.com/vi/EBrfXbo8lkc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

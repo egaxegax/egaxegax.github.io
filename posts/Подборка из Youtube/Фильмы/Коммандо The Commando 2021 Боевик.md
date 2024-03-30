@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=KNhTWn-W0Mg">
+  <a class="nodecor" href="/posts.html?filmy/kommando_the_commando_2021_boevik">
     <img class="preview" data-videoid="KNhTWn-W0Mg" src="https://i.ytimg.com/vi/KNhTWn-W0Mg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

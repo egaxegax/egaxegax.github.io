@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=FW-9BZh_Tsc">
+  <a class="nodecor" href="/posts.html?filmy/po_mlechnomu_puti_on_the_milky_road_2016_fentezi_drama_melodrama">
     <img class="preview" data-videoid="FW-9BZh_Tsc" src="https://i.ytimg.com/vi/FW-9BZh_Tsc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=eCMaFiajKnM">
+  <a class="nodecor" href="/posts.html?filmy/tom_sojer_tom_sawyer_2011_prikljucheniya_semejnyj">
     <img class="preview" data-videoid="eCMaFiajKnM" src="https://i.ytimg.com/vi/eCMaFiajKnM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

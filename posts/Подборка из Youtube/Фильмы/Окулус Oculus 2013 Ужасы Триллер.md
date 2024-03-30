@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=4bbY3tSC-Bc">
+  <a class="nodecor" href="/posts.html?filmy/okulus_oculus_2013_ujasy_triller">
     <img class="preview" data-videoid="4bbY3tSC-Bc" src="https://i.ytimg.com/vi/4bbY3tSC-Bc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

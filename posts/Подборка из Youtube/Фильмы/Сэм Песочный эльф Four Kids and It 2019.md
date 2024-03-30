@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=U_0ehG-QXpI">
+  <a class="nodecor" href="/posts.html?filmy/sem_pesochnyj_elf_four_kids_and_it_2019">
     <img class="preview" data-videoid="U_0ehG-QXpI" src="https://i.ytimg.com/vi/U_0ehG-QXpI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

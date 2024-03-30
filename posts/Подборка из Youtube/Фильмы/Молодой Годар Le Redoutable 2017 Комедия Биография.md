@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OkYhYpvyKRQ">
+  <a class="nodecor" href="/posts.html?filmy/molodoj_godar_le_redoutable_2017_komediya_biografiya">
     <img class="preview" data-videoid="OkYhYpvyKRQ" src="https://i.ytimg.com/vi/OkYhYpvyKRQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

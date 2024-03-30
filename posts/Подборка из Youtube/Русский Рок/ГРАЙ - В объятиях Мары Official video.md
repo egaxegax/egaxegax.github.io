@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=yicTUvDVTHA">
+  <a class="nodecor" href="/posts.html?russkij_rok/graj_-_v_obyatiyah_mary_official_video">
     <img class="preview" data-videoid="yicTUvDVTHA" src="https://i.ytimg.com/vi/yicTUvDVTHA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

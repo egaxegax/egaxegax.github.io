@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=o7UhxrKHaHs">
+  <a class="nodecor" href="/posts.html?filmy/merzlaya_zemlya_frozen_ground_2013_triller">
     <img class="preview" data-videoid="o7UhxrKHaHs" src="https://i.ytimg.com/vi/o7UhxrKHaHs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

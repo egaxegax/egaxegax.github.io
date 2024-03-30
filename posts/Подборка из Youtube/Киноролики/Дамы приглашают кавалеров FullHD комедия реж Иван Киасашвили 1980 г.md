@@ -1,6 +1,6 @@
 <!--2024-03-06 23:58:02-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=VypmP_Wq1dU">
+  <a class="nodecor" href="/posts.html?kinoroliki/damy_priglashajut_kavalerov_fullhd_komediya_rej_ivan_kiasashvili_1980_g">
     <img class="preview" data-videoid="VypmP_Wq1dU" src="https://i.ytimg.com/vi/VypmP_Wq1dU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=bPFeAgxch90">
+  <a class="nodecor" href="/posts.html?filmy/vishenka_na_novogodnem_torte_la_cerise_sur_le_gateau_2012_komediya">
     <img class="preview" data-videoid="bPFeAgxch90" src="https://i.ytimg.com/vi/bPFeAgxch90/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=_r082-o3Obw">
+  <a class="nodecor" href="/posts.html?relaks/christmas_comfortfireplace12_hours_of_warmth_and_crackling_fire_sounds">
     <img class="preview" data-videoid="_r082-o3Obw" src="https://i.ytimg.com/vi/_r082-o3Obw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=DkDaWOw3HHI">
+  <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_sinij_zontik_korotkometrajki_studii_pixar_tom3_multik_o_vstreche_v_gorode">
     <img class="preview" data-videoid="DkDaWOw3HHI" src="https://i.ytimg.com/vi/DkDaWOw3HHI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

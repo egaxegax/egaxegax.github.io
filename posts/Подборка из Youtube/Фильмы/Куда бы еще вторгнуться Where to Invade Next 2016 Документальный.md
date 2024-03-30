@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=HCeiqKsgN4g">
+  <a class="nodecor" href="/posts.html?filmy/kuda_by_eshche_vtorgnutsya_where_to_invade_next_2016_dokumentalnyj">
     <img class="preview" data-videoid="HCeiqKsgN4g" src="https://i.ytimg.com/vi/HCeiqKsgN4g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

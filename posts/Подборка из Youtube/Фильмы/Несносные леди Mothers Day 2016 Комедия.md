@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=4sLKyeyFtoQ">
+  <a class="nodecor" href="/posts.html?filmy/nesnosnye_ledi_mothers_day_2016_komediya">
     <img class="preview" data-videoid="4sLKyeyFtoQ" src="https://i.ytimg.com/vi/4sLKyeyFtoQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

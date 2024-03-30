@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=zlDtPTwNm8Q">
+  <a class="nodecor" href="/posts.html?filmy/moj_paren_killer_mr_right_2015_boevik_melodrama_komediya">
     <img class="preview" data-videoid="zlDtPTwNm8Q" src="https://i.ytimg.com/vi/zlDtPTwNm8Q/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

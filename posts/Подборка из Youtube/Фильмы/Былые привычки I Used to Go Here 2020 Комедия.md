@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=zYZSySlItBw">
+  <a class="nodecor" href="/posts.html?filmy/bylye_privychki_i_used_to_go_here_2020_komediya">
     <img class="preview" data-videoid="zYZSySlItBw" src="https://i.ytimg.com/vi/zYZSySlItBw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

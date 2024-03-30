@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=d3OFDtPdGzA">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/kensington_ave_philadelphia_on_a_cloudy_summer_day">
     <img class="preview" data-videoid="d3OFDtPdGzA" src="https://i.ytimg.com/vi/d3OFDtPdGzA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=eCuNa2R6LVQ">
+  <a class="nodecor" href="/posts.html?russkij_rok/kukryniksy_-_znaj_official_video">
     <img class="preview" data-videoid="eCuNa2R6LVQ" src="https://i.ytimg.com/vi/eCuNa2R6LVQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

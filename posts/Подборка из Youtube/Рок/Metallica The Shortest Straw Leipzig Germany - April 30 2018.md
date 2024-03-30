@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OMmNWbM-Wz4">
+  <a class="nodecor" href="/posts.html?rok/metallica_the_shortest_straw_leipzig_germany_-_april_30_2018">
     <img class="preview" data-videoid="OMmNWbM-Wz4" src="https://i.ytimg.com/vi/OMmNWbM-Wz4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

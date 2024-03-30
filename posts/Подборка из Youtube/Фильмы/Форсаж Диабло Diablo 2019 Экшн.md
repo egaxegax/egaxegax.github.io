@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=gdlCachkIlc">
+  <a class="nodecor" href="/posts.html?filmy/forsaj_diablo_diablo_2019_ekshn">
     <img class="preview" data-videoid="gdlCachkIlc" src="https://i.ytimg.com/vi/gdlCachkIlc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5XNcleCZdV8">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/seattle_washington_what_happened">
     <img class="preview" data-videoid="5XNcleCZdV8" src="https://i.ytimg.com/vi/5XNcleCZdV8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

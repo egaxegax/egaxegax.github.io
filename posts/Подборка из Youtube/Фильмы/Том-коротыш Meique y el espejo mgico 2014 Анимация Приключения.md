@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Y2-4Hv3jQKo">
+  <a class="nodecor" href="/posts.html?filmy/tom-korotysh_meique_y_el_espejo_mgico_2014_animaciya_prikljucheniya">
     <img class="preview" data-videoid="Y2-4Hv3jQKo" src="https://i.ytimg.com/vi/Y2-4Hv3jQKo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

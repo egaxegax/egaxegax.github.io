@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=vZJOK5zw9G4">
+  <a class="nodecor" href="/posts.html?filmy/porochnaya_strast_arbitrage_2012_triller_drama">
     <img class="preview" data-videoid="vZJOK5zw9G4" src="https://i.ytimg.com/vi/vZJOK5zw9G4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

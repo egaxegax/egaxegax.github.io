@@ -1,6 +1,6 @@
 <!--2024-03-24 15:30:07-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=QzaGH0591mw">
+  <a class="nodecor" href="/posts.html?filmy/rejv_beats_film_2019_drama_komediya_kriminal_muzyka">
     <img class="preview" data-videoid="QzaGH0591mw" src="https://i.ytimg.com/vi/QzaGH0591mw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

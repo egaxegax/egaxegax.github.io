@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=yzd5kpVSP44">
+  <a class="nodecor" href="/posts.html?filmy/eshbi_ashby_2015_drama_melodrama_komediya">
     <img class="preview" data-videoid="yzd5kpVSP44" src="https://i.ytimg.com/vi/yzd5kpVSP44/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

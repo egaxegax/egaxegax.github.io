@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=gGN8pfrvuwQ">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/ministry_of_truth_caught_lying_again_as_twitters_bias_gets_exposed">
     <img class="preview" data-videoid="gGN8pfrvuwQ" src="https://i.ytimg.com/vi/gGN8pfrvuwQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

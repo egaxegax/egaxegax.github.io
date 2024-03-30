@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=B_k4j5rroyg">
+  <a class="nodecor" href="/posts.html?filmy/ulichnyj_boec_street_fighter_2009_ekshn">
     <img class="preview" data-videoid="B_k4j5rroyg" src="https://i.ytimg.com/vi/B_k4j5rroyg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

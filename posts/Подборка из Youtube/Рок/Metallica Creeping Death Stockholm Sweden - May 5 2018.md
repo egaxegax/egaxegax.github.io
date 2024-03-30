@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=o1TMiM0tGN4">
+  <a class="nodecor" href="/posts.html?rok/metallica_creeping_death_stockholm_sweden_-_may_5_2018">
     <img class="preview" data-videoid="o1TMiM0tGN4" src="https://i.ytimg.com/vi/o1TMiM0tGN4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

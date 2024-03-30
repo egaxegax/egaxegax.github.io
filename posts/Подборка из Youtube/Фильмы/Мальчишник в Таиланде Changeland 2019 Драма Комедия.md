@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ysvLL1qmqMk">
+  <a class="nodecor" href="/posts.html?filmy/malchishnik_v_tailande_changeland_2019_drama_komediya">
     <img class="preview" data-videoid="ysvLL1qmqMk" src="https://i.ytimg.com/vi/ysvLL1qmqMk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

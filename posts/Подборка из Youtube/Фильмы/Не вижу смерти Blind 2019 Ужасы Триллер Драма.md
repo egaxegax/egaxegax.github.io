@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=PQBqBfGNWc0">
+  <a class="nodecor" href="/posts.html?filmy/ne_viju_smerti_blind_2019_ujasy_triller_drama">
     <img class="preview" data-videoid="PQBqBfGNWc0" src="https://i.ytimg.com/vi/PQBqBfGNWc0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:46:46-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=kOJtx5dG_nU">
+  <a class="nodecor" href="/posts.html?puteshestviya/kolyma_zimnik_arktika_moroz_-64_gradusa_nochevka_v_palatke_na_toyota_yakutiya_-_chukotka_chast_3">
     <img class="preview" data-videoid="kOJtx5dG_nU" src="https://i.ytimg.com/vi/kOJtx5dG_nU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

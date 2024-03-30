@@ -64,7 +64,7 @@ for root, dirs, files in os.walk(path, topdown=False):
               phref = '/posts.html?'+ TR(os.path.basename(os.getcwd())) +'/'+ TR(mtitl)
               text = """{ctime}
 <div class="yb">
-  <a class="nodecor" href="{href}">
+  <a class="nodecor" href="{phref}">
     <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
   </a>
   <div class="inlbl">

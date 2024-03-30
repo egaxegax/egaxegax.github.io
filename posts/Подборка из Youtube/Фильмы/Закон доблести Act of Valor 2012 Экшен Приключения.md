@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=bJc8Ddt5xMo">
+  <a class="nodecor" href="/posts.html?filmy/zakon_doblesti_act_of_valor_2012_ekshen_prikljucheniya">
     <img class="preview" data-videoid="bJc8Ddt5xMo" src="https://i.ytimg.com/vi/bJc8Ddt5xMo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

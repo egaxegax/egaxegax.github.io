@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=hhQCkddHvzo">
+  <a class="nodecor" href="/posts.html?filmy/trigger_86_melrose_avenue_2020_triller_drama">
     <img class="preview" data-videoid="hhQCkddHvzo" src="https://i.ytimg.com/vi/hhQCkddHvzo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

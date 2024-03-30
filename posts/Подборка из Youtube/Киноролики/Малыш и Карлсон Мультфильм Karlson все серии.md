@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=BYHU1oAg9q0">
+  <a class="nodecor" href="/posts.html?kinoroliki/malysh_i_karlson_multfilm_karlson_vse_serii">
     <img class="preview" data-videoid="BYHU1oAg9q0" src="https://i.ytimg.com/vi/BYHU1oAg9q0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

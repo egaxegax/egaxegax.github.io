@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=xKrkqaBNg0g">
+  <a class="nodecor" href="/posts.html?filmy/bezmolvnyj_yad_recoil_2009_boevik_ujasy_fantastika">
     <img class="preview" data-videoid="xKrkqaBNg0g" src="https://i.ytimg.com/vi/xKrkqaBNg0g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=kV-LTd2z6kg">
+  <a class="nodecor" href="/posts.html?rok/metallica_singapore_recap_january_22_2017">
     <img class="preview" data-videoid="kV-LTd2z6kg" src="https://i.ytimg.com/vi/kV-LTd2z6kg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

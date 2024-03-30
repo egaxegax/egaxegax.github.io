@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=RreurlQEMTw">
+  <a class="nodecor" href="/posts.html?rok/for_whom_the_bell_tolls_edmonton_alberta_-_august_16_2017">
     <img class="preview" data-videoid="RreurlQEMTw" src="https://i.ytimg.com/vi/RreurlQEMTw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

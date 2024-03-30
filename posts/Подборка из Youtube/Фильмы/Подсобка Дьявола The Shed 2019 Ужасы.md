@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Ns0DHlzGbyo">
+  <a class="nodecor" href="/posts.html?filmy/podsobka_dyavola_the_shed_2019_ujasy">
     <img class="preview" data-videoid="Ns0DHlzGbyo" src="https://i.ytimg.com/vi/Ns0DHlzGbyo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

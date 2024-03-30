@@ -1,6 +1,6 @@
 <!--2024-03-24 15:24:29-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=JuAJFyWJOtU">
+  <a class="nodecor" href="/posts.html?filmy/starye_schety_score_to_settle_boevik_triller_kriminal_action_movies">
     <img class="preview" data-videoid="JuAJFyWJOtU" src="https://i.ytimg.com/vi/JuAJFyWJOtU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

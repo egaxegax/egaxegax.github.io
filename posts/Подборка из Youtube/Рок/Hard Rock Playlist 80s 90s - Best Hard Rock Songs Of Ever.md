@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=FAPl62jeesg">
+  <a class="nodecor" href="/posts.html?rok/hard_rock_playlist_80s_90s_-_best_hard_rock_songs_of_ever">
     <img class="preview" data-videoid="FAPl62jeesg" src="https://i.ytimg.com/vi/FAPl62jeesg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

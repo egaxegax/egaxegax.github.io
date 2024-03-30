@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Cc99uuraDAE">
+  <a class="nodecor" href="/posts.html?filmy/kunham_pogranichnyj_ostrov_gunhamdo_2017_voennyj_drama_boevik_istoriya">
     <img class="preview" data-videoid="Cc99uuraDAE" src="https://i.ytimg.com/vi/Cc99uuraDAE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

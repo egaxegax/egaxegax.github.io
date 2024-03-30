@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=t9i1ZDE9CVY">
+  <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_chelovek-orkestr_korotkometrajki_studii_pixar_tom_1">
     <img class="preview" data-videoid="t9i1ZDE9CVY" src="https://i.ytimg.com/vi/t9i1ZDE9CVY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

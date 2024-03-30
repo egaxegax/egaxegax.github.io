@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=vRf25o6QNS4">
+  <a class="nodecor" href="/posts.html?filmy/krejser_uss_indianapolis_men_of_courage_2016_boevik_voennyj">
     <img class="preview" data-videoid="vRf25o6QNS4" src="https://i.ytimg.com/vi/vRf25o6QNS4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

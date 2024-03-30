@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=b6uL_mfN9RM">
+  <a class="nodecor" href="/posts.html?filmy/krugi_dyavola_jackals_2017_ujasy_triller">
     <img class="preview" data-videoid="b6uL_mfN9RM" src="https://i.ytimg.com/vi/b6uL_mfN9RM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

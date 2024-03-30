@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=PcL2wsc4xTQ">
+  <a class="nodecor" href="/posts.html?kinoroliki/chudesnyj_kolokolchik_sovetskie_multfilmy_starye_russkie_multiki_multiki_dlya_detej_starmedia">
     <img class="preview" data-videoid="PcL2wsc4xTQ" src="https://i.ytimg.com/vi/PcL2wsc4xTQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

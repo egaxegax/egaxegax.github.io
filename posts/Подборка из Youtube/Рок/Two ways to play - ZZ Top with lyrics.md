@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=0_Dl7DbF0wk">
+  <a class="nodecor" href="/posts.html?rok/two_ways_to_play_-_zz_top_with_lyrics">
     <img class="preview" data-videoid="0_Dl7DbF0wk" src="https://i.ytimg.com/vi/0_Dl7DbF0wk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

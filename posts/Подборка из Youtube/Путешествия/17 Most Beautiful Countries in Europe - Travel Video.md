@@ -1,6 +1,6 @@
 <!--2023-12-30 10:59:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=y6E1L6KVwYw">
+  <a class="nodecor" href="/posts.html?puteshestviya/17_most_beautiful_countries_in_europe_-_travel_video">
     <img class="preview" data-videoid="y6E1L6KVwYw" src="https://i.ytimg.com/vi/y6E1L6KVwYw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

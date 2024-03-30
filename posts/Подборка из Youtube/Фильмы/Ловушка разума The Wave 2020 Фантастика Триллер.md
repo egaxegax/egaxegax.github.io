@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=fl5di-zqij8">
+  <a class="nodecor" href="/posts.html?filmy/lovushka_razuma_the_wave_2020_fantastika_triller">
     <img class="preview" data-videoid="fl5di-zqij8" src="https://i.ytimg.com/vi/fl5di-zqij8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

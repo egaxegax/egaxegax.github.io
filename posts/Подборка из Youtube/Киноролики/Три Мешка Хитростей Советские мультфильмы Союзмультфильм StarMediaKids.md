@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=IEzJ1LnrGVc">
+  <a class="nodecor" href="/posts.html?kinoroliki/tri_meshka_hitrostej_sovetskie_multfilmy_sojuzmultfilm_starmediakids">
     <img class="preview" data-videoid="IEzJ1LnrGVc" src="https://i.ytimg.com/vi/IEzJ1LnrGVc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

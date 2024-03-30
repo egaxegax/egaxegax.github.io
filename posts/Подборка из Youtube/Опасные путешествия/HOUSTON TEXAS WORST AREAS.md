@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=SMecjUWs2Mg">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/houston_texas_worst_areas">
     <img class="preview" data-videoid="SMecjUWs2Mg" src="https://i.ytimg.com/vi/SMecjUWs2Mg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

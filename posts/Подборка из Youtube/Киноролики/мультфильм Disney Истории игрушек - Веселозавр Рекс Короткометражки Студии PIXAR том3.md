@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=-vorTycrHC8">
+  <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_istorii_igrushek_-_veselozavr_reks_korotkometrajki_studii_pixar_tom3">
     <img class="preview" data-videoid="-vorTycrHC8" src="https://i.ytimg.com/vi/-vorTycrHC8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

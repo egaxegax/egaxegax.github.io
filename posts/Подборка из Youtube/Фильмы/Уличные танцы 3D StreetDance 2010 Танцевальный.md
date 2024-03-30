@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=b52IDeoJjHk">
+  <a class="nodecor" href="/posts.html?filmy/ulichnye_tancy_3d_streetdance_2010_tancevalnyj">
     <img class="preview" data-videoid="b52IDeoJjHk" src="https://i.ytimg.com/vi/b52IDeoJjHk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

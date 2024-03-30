@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=NwxvaUjPFNI">
+  <a class="nodecor" href="/posts.html?rok/metallica_blackened_madrid_spain_-_february_5_2018">
     <img class="preview" data-videoid="NwxvaUjPFNI" src="https://i.ytimg.com/vi/NwxvaUjPFNI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

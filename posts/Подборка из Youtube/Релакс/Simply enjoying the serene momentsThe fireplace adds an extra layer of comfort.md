@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=eB2Oeao_-OI">
+  <a class="nodecor" href="/posts.html?relaks/simply_enjoying_the_serene_momentsthe_fireplace_adds_an_extra_layer_of_comfort">
     <img class="preview" data-videoid="eB2Oeao_-OI" src="https://i.ytimg.com/vi/eB2Oeao_-OI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

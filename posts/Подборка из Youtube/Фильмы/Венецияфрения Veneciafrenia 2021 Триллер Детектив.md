@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=i2cU_FXqsqI">
+  <a class="nodecor" href="/posts.html?filmy/veneciyafreniya_veneciafrenia_2021_triller_detektiv">
     <img class="preview" data-videoid="i2cU_FXqsqI" src="https://i.ytimg.com/vi/i2cU_FXqsqI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

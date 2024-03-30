@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=RcvMrRtWLDw">
+  <a class="nodecor" href="/posts.html?filmy/ohotnik_na_lis_foxcatcher_2015_triller_biografiya_drama">
     <img class="preview" data-videoid="RcvMrRtWLDw" src="https://i.ytimg.com/vi/RcvMrRtWLDw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

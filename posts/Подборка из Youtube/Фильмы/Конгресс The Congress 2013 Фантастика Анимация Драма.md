@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=r7Eal_97TME">
+  <a class="nodecor" href="/posts.html?filmy/kongress_the_congress_2013_fantastika_animaciya_drama">
     <img class="preview" data-videoid="r7Eal_97TME" src="https://i.ytimg.com/vi/r7Eal_97TME/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

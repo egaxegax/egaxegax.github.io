@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=H4xBQ-00D5E">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_winterendless_fireside_bliss_12_hours_of_relaxing_fireplace_sounds">
     <img class="preview" data-videoid="H4xBQ-00D5E" src="https://i.ytimg.com/vi/H4xBQ-00D5E/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

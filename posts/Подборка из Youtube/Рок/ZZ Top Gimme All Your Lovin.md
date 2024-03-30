@@ -1,6 +1,6 @@
 <!--2023-12-31 01:46:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=SYyvTWTeY8c">
+  <a class="nodecor" href="/posts.html?rok/zz_top_gimme_all_your_lovin">
     <img class="preview" data-videoid="SYyvTWTeY8c" src="https://i.ytimg.com/vi/SYyvTWTeY8c/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

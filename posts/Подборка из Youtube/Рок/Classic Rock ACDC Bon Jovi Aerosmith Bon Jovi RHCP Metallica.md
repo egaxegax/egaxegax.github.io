@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=28jcXn82iWA">
+  <a class="nodecor" href="/posts.html?rok/classic_rock_acdc_bon_jovi_aerosmith_bon_jovi_rhcp_metallica">
     <img class="preview" data-videoid="28jcXn82iWA" src="https://i.ytimg.com/vi/28jcXn82iWA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=xVujYB01Sno">
+  <a class="nodecor" href="/posts.html?rabota/sakramento_tykvennaya_ferma_ssha_the_pumpkin_farm_-_willow_farm">
     <img class="preview" data-videoid="xVujYB01Sno" src="https://i.ytimg.com/vi/xVujYB01Sno/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

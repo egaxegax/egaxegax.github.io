@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=AwhZXmhGtck">
+  <a class="nodecor" href="/posts.html?filmy/kriminalnaya_fishka_ot_genri_henrys_crime_2011_melodrama_komediya_kriminal">
     <img class="preview" data-videoid="AwhZXmhGtck" src="https://i.ytimg.com/vi/AwhZXmhGtck/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-01-20 01:30:36-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=pHlBwJxy7F4">
+  <a class="nodecor" href="/posts.html?rabota/pervyj_rejs_po_ssha_na_novom_peterbilt_579_kak_povedet_sebya_trak_v_polnom_gruzu">
     <img class="preview" data-videoid="pHlBwJxy7F4" src="https://i.ytimg.com/vi/pHlBwJxy7F4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

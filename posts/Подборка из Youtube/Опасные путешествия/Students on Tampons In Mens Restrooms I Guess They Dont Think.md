@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ijNpShtcz6I">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/students_on_tampons_in_mens_restrooms_i_guess_they_dont_think">
     <img class="preview" data-videoid="ijNpShtcz6I" src="https://i.ytimg.com/vi/ijNpShtcz6I/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-24 15:26:09-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5hup_kAEBfQ">
+  <a class="nodecor" href="/posts.html?filmy/speshi_ljubit_rejting_7_8_walk_to_remember_film_drama_melodrama">
     <img class="preview" data-videoid="5hup_kAEBfQ" src="https://i.ytimg.com/vi/5hup_kAEBfQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

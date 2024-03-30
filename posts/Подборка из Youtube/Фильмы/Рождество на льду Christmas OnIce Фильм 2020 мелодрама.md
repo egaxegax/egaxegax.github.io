@@ -1,6 +1,6 @@
 <!--2024-03-24 15:26:09-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Dgr2Oun7hhs">
+  <a class="nodecor" href="/posts.html?filmy/rojdestvo_na_ldu_christmas_onice_film_2020_melodrama">
     <img class="preview" data-videoid="Dgr2Oun7hhs" src="https://i.ytimg.com/vi/Dgr2Oun7hhs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

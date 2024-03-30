@@ -1,6 +1,6 @@
 <!--2023-12-31 01:43:27-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=UCNyTD7timE">
+  <a class="nodecor" href="/posts.html?rok/rock_music_in_the_70s_80s_90s_mixed_the_list_of_rich_classic_rock_music_players">
     <img class="preview" data-videoid="UCNyTD7timE" src="https://i.ytimg.com/vi/UCNyTD7timE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

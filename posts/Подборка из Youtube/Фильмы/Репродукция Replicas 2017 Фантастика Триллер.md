@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=G9H1mR_bicw">
+  <a class="nodecor" href="/posts.html?filmy/reprodukciya_replicas_2017_fantastika_triller">
     <img class="preview" data-videoid="G9H1mR_bicw" src="https://i.ytimg.com/vi/G9H1mR_bicw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

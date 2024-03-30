@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=qKXtzFr_Qm4">
+  <a class="nodecor" href="/posts.html?kinoroliki/shutki-minutki_-_vse_luchshie_novye_serii_v_odnom_sbornike_smotri_multiki_disney">
     <img class="preview" data-videoid="qKXtzFr_Qm4" src="https://i.ytimg.com/vi/qKXtzFr_Qm4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Im4gx2SjcB0">
+  <a class="nodecor" href="/posts.html?filmy/adskij_bunker_outpost_2007_fantastika_ujasy">
     <img class="preview" data-videoid="Im4gx2SjcB0" src="https://i.ytimg.com/vi/Im4gx2SjcB0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

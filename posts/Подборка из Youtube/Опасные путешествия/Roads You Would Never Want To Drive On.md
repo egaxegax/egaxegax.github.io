@@ -1,6 +1,6 @@
 <!--2024-01-02 11:31:54-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=nYMT10TRYUU">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/roads_you_would_never_want_to_drive_on">
     <img class="preview" data-videoid="nYMT10TRYUU" src="https://i.ytimg.com/vi/nYMT10TRYUU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

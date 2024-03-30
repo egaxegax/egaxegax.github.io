@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=fTFVZs2vAxo">
+  <a class="nodecor" href="/posts.html?rok/metallica_halo_on_fire_geneva_switzerland_-_april_11_2018">
     <img class="preview" data-videoid="fTFVZs2vAxo" src="https://i.ytimg.com/vi/fTFVZs2vAxo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

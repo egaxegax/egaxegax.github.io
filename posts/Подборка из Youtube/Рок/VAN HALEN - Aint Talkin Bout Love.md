@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=SO3AEY1QpkE">
+  <a class="nodecor" href="/posts.html?rok/van_halen_-_aint_talkin_bout_love">
     <img class="preview" data-videoid="SO3AEY1QpkE" src="https://i.ytimg.com/vi/SO3AEY1QpkE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

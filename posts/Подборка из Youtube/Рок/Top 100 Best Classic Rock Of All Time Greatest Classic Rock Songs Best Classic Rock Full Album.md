@@ -1,6 +1,6 @@
 <!--2023-12-31 01:44:51-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=UgfsbL-uHOA">
+  <a class="nodecor" href="/posts.html?rok/top_100_best_classic_rock_of_all_time_greatest_classic_rock_songs_best_classic_rock_full_album">
     <img class="preview" data-videoid="UgfsbL-uHOA" src="https://i.ytimg.com/vi/UgfsbL-uHOA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

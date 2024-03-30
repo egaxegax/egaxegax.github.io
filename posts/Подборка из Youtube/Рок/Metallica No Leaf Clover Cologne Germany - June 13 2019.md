@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=hEMv3MbiSwk">
+  <a class="nodecor" href="/posts.html?rok/metallica_no_leaf_clover_cologne_germany_-_june_13_2019">
     <img class="preview" data-videoid="hEMv3MbiSwk" src="https://i.ytimg.com/vi/hEMv3MbiSwk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

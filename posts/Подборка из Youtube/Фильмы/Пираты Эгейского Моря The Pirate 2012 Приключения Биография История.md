@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=wizBE-pkIgo">
+  <a class="nodecor" href="/posts.html?filmy/piraty_egejskogo_morya_the_pirate_2012_prikljucheniya_biografiya_istoriya">
     <img class="preview" data-videoid="wizBE-pkIgo" src="https://i.ytimg.com/vi/wizBE-pkIgo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

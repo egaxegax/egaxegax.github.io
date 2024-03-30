@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=yDAQR5_v0h0">
+  <a class="nodecor" href="/posts.html?filmy/korolevskij_gambit_critical_thinking_2019_drama">
     <img class="preview" data-videoid="yDAQR5_v0h0" src="https://i.ytimg.com/vi/yDAQR5_v0h0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

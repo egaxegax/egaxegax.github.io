@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=q4YTViykDqc">
+  <a class="nodecor" href="/posts.html?filmy/moj_drug_ded_moroz_santa_claus_2014_komediya">
     <img class="preview" data-videoid="q4YTViykDqc" src="https://i.ytimg.com/vi/q4YTViykDqc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

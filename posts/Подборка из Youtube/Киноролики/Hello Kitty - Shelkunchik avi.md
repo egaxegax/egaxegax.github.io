@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Cp54NdrbAWg">
+  <a class="nodecor" href="/posts.html?kinoroliki/hello_kitty_-_shelkunchik_avi">
     <img class="preview" data-videoid="Cp54NdrbAWg" src="https://i.ytimg.com/vi/Cp54NdrbAWg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

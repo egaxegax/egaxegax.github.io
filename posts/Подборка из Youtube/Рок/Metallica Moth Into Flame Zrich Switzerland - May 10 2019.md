@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=md5dakcDqFM">
+  <a class="nodecor" href="/posts.html?rok/metallica_moth_into_flame_zrich_switzerland_-_may_10_2019">
     <img class="preview" data-videoid="md5dakcDqFM" src="https://i.ytimg.com/vi/md5dakcDqFM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

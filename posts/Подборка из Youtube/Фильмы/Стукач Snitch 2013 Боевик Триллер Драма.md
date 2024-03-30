@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=k51_IhsluQs">
+  <a class="nodecor" href="/posts.html?filmy/stukach_snitch_2013_boevik_triller_drama">
     <img class="preview" data-videoid="k51_IhsluQs" src="https://i.ytimg.com/vi/k51_IhsluQs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

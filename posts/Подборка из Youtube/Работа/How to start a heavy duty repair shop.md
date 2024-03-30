@@ -1,6 +1,6 @@
 <!--2024-01-03 14:54:50-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ORSMHuY48Fg">
+  <a class="nodecor" href="/posts.html?rabota/how_to_start_a_heavy_duty_repair_shop">
     <img class="preview" data-videoid="ORSMHuY48Fg" src="https://i.ytimg.com/vi/ORSMHuY48Fg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=anfEyGa5riE">
+  <a class="nodecor" href="/posts.html?filmy/molodost_po_strahovke_wild_oats_2016_boevik_drama_komediya_prikljucheniya">
     <img class="preview" data-videoid="anfEyGa5riE" src="https://i.ytimg.com/vi/anfEyGa5riE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

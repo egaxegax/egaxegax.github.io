@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OgEJlX0bEps">
+  <a class="nodecor" href="/posts.html?filmy/kak_otmyt_million_the_fall_of_the_american_empire_2018_komediya">
     <img class="preview" data-videoid="OgEJlX0bEps" src="https://i.ytimg.com/vi/OgEJlX0bEps/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

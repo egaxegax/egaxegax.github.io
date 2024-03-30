@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Ddy0N7klpew">
+  <a class="nodecor" href="/posts.html?rok/metallica_stone_cold_crazy_manchester_england_-_october_28_2017">
     <img class="preview" data-videoid="Ddy0N7klpew" src="https://i.ytimg.com/vi/Ddy0N7klpew/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

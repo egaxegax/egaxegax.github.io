@@ -1,6 +1,6 @@
 <!--2023-12-31 01:45:14-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OOVD7x39A6M">
+  <a class="nodecor" href="/posts.html?rok/soldier_of_fortune_shorts_viral_classicrock">
     <img class="preview" data-videoid="OOVD7x39A6M" src="https://i.ytimg.com/vi/OOVD7x39A6M/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

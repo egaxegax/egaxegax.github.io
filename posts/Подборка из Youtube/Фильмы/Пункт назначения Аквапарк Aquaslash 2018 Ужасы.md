@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=lRqB1y-9eVU">
+  <a class="nodecor" href="/posts.html?filmy/punkt_naznacheniya_akvapark_aquaslash_2018_ujasy">
     <img class="preview" data-videoid="lRqB1y-9eVU" src="https://i.ytimg.com/vi/lRqB1y-9eVU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

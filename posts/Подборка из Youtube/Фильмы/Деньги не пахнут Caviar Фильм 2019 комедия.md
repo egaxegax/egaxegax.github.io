@@ -1,6 +1,6 @@
 <!--2024-03-24 15:30:07-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=MfkONHhh1Ro">
+  <a class="nodecor" href="/posts.html?filmy/dengi_ne_pahnut_caviar_film_2019_komediya">
     <img class="preview" data-videoid="MfkONHhh1Ro" src="https://i.ytimg.com/vi/MfkONHhh1Ro/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

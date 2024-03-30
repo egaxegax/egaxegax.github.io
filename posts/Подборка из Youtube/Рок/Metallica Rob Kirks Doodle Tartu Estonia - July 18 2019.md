@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=GUI7t7leXXM">
+  <a class="nodecor" href="/posts.html?rok/metallica_rob_kirks_doodle_tartu_estonia_-_july_18_2019">
     <img class="preview" data-videoid="GUI7t7leXXM" src="https://i.ytimg.com/vi/GUI7t7leXXM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

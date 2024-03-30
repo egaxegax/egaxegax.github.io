@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=K7Use7ossYc">
+  <a class="nodecor" href="/posts.html?rabota/monster_jam_-_2021_kak_dela_u_maksa_vyhodnye_v_amerike">
     <img class="preview" data-videoid="K7Use7ossYc" src="https://i.ytimg.com/vi/K7Use7ossYc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=jcAwMm7Jk3s">
+  <a class="nodecor" href="/posts.html?russkij_rok/alisa_-_jizn_struny_alisa_-_life_of_string">
     <img class="preview" data-videoid="jcAwMm7Jk3s" src="https://i.ytimg.com/vi/jcAwMm7Jk3s/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

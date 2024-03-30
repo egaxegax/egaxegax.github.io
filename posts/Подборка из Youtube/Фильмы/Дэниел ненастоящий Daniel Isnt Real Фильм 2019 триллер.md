@@ -1,6 +1,6 @@
 <!--2024-03-24 15:30:07-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=DBq0DDJfQEM">
+  <a class="nodecor" href="/posts.html?filmy/deniel_nenastoyashchij_daniel_isnt_real_film_2019_triller">
     <img class="preview" data-videoid="DBq0DDJfQEM" src="https://i.ytimg.com/vi/DBq0DDJfQEM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

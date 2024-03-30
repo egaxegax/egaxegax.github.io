@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=G7j9T361KNU">
+  <a class="nodecor" href="/posts.html?filmy/tarzan_tarzan_3d_2013_multfilm_semejnyj">
     <img class="preview" data-videoid="G7j9T361KNU" src="https://i.ytimg.com/vi/G7j9T361KNU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

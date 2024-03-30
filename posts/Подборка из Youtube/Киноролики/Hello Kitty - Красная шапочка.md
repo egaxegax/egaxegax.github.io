@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=mgHVIGOSpBg">
+  <a class="nodecor" href="/posts.html?kinoroliki/hello_kitty_-_krasnaya_shapochka">
     <img class="preview" data-videoid="mgHVIGOSpBg" src="https://i.ytimg.com/vi/mgHVIGOSpBg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5AYYe71rpXg">
+  <a class="nodecor" href="/posts.html?filmy/vysshaya_sila_higher_power_2018_fantastika">
     <img class="preview" data-videoid="5AYYe71rpXg" src="https://i.ytimg.com/vi/5AYYe71rpXg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

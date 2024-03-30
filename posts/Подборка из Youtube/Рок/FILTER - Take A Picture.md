@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=lVd5UvnUmMw">
+  <a class="nodecor" href="/posts.html?rok/filter_-_take_a_picture">
     <img class="preview" data-videoid="lVd5UvnUmMw" src="https://i.ytimg.com/vi/lVd5UvnUmMw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

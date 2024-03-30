@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=OpWxNaHH1S0">
+  <a class="nodecor" href="/posts.html?filmy/12_melodij_ljubvi_chacun_sa_vie_2017_melodrama">
     <img class="preview" data-videoid="OpWxNaHH1S0" src="https://i.ytimg.com/vi/OpWxNaHH1S0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

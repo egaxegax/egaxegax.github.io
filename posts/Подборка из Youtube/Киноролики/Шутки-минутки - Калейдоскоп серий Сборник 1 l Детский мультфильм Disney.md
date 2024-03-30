@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=rmBFjUmnmN8">
+  <a class="nodecor" href="/posts.html?kinoroliki/shutki-minutki_-_kalejdoskop_serij_sbornik_1_l_detskij_multfilm_disney">
     <img class="preview" data-videoid="rmBFjUmnmN8" src="https://i.ytimg.com/vi/rmBFjUmnmN8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=1zliKGAbfRk">
+  <a class="nodecor" href="/posts.html?kinoroliki/01_lynnaya_princessa">
     <img class="preview" data-videoid="1zliKGAbfRk" src="https://i.ytimg.com/vi/1zliKGAbfRk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

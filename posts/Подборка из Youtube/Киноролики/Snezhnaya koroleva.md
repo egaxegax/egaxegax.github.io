@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=LtzExmIvlVM">
+  <a class="nodecor" href="/posts.html?kinoroliki/snezhnaya_koroleva">
     <img class="preview" data-videoid="LtzExmIvlVM" src="https://i.ytimg.com/vi/LtzExmIvlVM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

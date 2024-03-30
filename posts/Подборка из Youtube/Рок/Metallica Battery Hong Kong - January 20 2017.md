@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=4fN3di1j9IQ">
+  <a class="nodecor" href="/posts.html?rok/metallica_battery_hong_kong_-_january_20_2017">
     <img class="preview" data-videoid="4fN3di1j9IQ" src="https://i.ytimg.com/vi/4fN3di1j9IQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

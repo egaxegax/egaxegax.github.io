@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=NSLG_pdjSgc">
+  <a class="nodecor" href="/posts.html?filmy/ubit_i_zakopat_breathless_2012_triller">
     <img class="preview" data-videoid="NSLG_pdjSgc" src="https://i.ytimg.com/vi/NSLG_pdjSgc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

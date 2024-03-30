@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=FBaml6u855k">
+  <a class="nodecor" href="/posts.html?filmy/fbc_roden_rodin_2017_biografiya_drama">
     <img class="preview" data-videoid="FBaml6u855k" src="https://i.ytimg.com/vi/FBaml6u855k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

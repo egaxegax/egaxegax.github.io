@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=xiG4_Hv-sjs">
+  <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_lava_korotkometrajki_studii_pixar_tom3_muzykalnaya_drama">
     <img class="preview" data-videoid="xiG4_Hv-sjs" src="https://i.ytimg.com/vi/xiG4_Hv-sjs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

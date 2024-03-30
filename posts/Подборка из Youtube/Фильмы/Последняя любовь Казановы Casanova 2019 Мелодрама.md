@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=cNUmEpXDQeQ">
+  <a class="nodecor" href="/posts.html?filmy/poslednyaya_ljubov_kazanovy_casanova_2019_melodrama">
     <img class="preview" data-videoid="cNUmEpXDQeQ" src="https://i.ytimg.com/vi/cNUmEpXDQeQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=EQTsCiPHBbA">
+  <a class="nodecor" href="/posts.html?filmy/vtoroj_shans_danny_collins_2015_drama_komediya">
     <img class="preview" data-videoid="EQTsCiPHBbA" src="https://i.ytimg.com/vi/EQTsCiPHBbA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

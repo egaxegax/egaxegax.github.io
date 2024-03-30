@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=O47TjQGoq0k">
+  <a class="nodecor" href="/posts.html?filmy/pavarotti_pavarotti_2019_muzykalnyj_dokumentalnyj">
     <img class="preview" data-videoid="O47TjQGoq0k" src="https://i.ytimg.com/vi/O47TjQGoq0k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

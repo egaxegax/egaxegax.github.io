@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ozu8Sjuc6Po">
+  <a class="nodecor" href="/posts.html?relaks/new_year_music_mix_fireside_ambiance_beautiful_instrumentals_to_welcome_the_new_year">
     <img class="preview" data-videoid="ozu8Sjuc6Po" src="https://i.ytimg.com/vi/ozu8Sjuc6Po/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

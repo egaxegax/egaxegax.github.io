@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=iaQD9MpYI_o">
+  <a class="nodecor" href="/posts.html?rok/bon_jovi_-_wanted_dead_or_alive">
     <img class="preview" data-videoid="iaQD9MpYI_o" src="https://i.ytimg.com/vi/iaQD9MpYI_o/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

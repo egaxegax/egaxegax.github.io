@@ -1,6 +1,6 @@
 <!--2024-01-11 01:06:44-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=pbrIGWmUAK4">
+  <a class="nodecor" href="/posts.html?kinoroliki/ohota_na_tulkunov_kitov_planety_pandora_avatar_2_put_vody_2022_8k_ultra_hd">
     <img class="preview" data-videoid="pbrIGWmUAK4" src="https://i.ytimg.com/vi/pbrIGWmUAK4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

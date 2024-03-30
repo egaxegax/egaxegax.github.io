@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=a8hnOIyfE7Q">
+  <a class="nodecor" href="/posts.html?filmy/parklend_parkland_2013_drama">
     <img class="preview" data-videoid="a8hnOIyfE7Q" src="https://i.ytimg.com/vi/a8hnOIyfE7Q/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

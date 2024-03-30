@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=1NZ5guikLHY">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_soundsthe_sound_of_crackling_fire_is_for_those_who_want_to_relax_and_sleep_deeply">
     <img class="preview" data-videoid="1NZ5guikLHY" src="https://i.ytimg.com/vi/1NZ5guikLHY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=AlXHF7pAme0">
+  <a class="nodecor" href="/posts.html?filmy/supergerojskoe_nakazanie_super_detention_2016_boevik_semejnyj_fantastika">
     <img class="preview" data-videoid="AlXHF7pAme0" src="https://i.ytimg.com/vi/AlXHF7pAme0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

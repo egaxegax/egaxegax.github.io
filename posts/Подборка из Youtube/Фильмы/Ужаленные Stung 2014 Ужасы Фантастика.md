@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=xqEGz-3rH1s">
+  <a class="nodecor" href="/posts.html?filmy/ujalennye_stung_2014_ujasy_fantastika">
     <img class="preview" data-videoid="xqEGz-3rH1s" src="https://i.ytimg.com/vi/xqEGz-3rH1s/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

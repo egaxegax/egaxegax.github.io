@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=nqZRSmNulWI">
+  <a class="nodecor" href="/posts.html?filmy/asteriks_zemlya_bogov_asterix_the_land_of_the_gods_2014_multfilm">
     <img class="preview" data-videoid="nqZRSmNulWI" src="https://i.ytimg.com/vi/nqZRSmNulWI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

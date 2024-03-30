@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=t9klvZ5CGTQ">
+  <a class="nodecor" href="/posts.html?filmy/bitva_za_planetu_terra_battle_for_terra_2007_animaciya_fantastika_boevik">
     <img class="preview" data-videoid="t9klvZ5CGTQ" src="https://i.ytimg.com/vi/t9klvZ5CGTQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

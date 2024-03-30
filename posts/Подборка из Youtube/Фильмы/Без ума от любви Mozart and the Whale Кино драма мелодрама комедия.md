@@ -1,6 +1,6 @@
 <!--2024-03-24 15:26:09-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=_0B2I79-9SU">
+  <a class="nodecor" href="/posts.html?filmy/bez_uma_ot_ljubvi_mozart_and_the_whale_kino_drama_melodrama_komediya">
     <img class="preview" data-videoid="_0B2I79-9SU" src="https://i.ytimg.com/vi/_0B2I79-9SU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

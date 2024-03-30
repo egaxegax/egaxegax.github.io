@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=H7MKn0ESEbo">
+  <a class="nodecor" href="/posts.html?filmy/norm_i_nesokrushimye_bolshoe_puteshestvie_king_sized_adventure_2018_animaciya">
     <img class="preview" data-videoid="H7MKn0ESEbo" src="https://i.ytimg.com/vi/H7MKn0ESEbo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

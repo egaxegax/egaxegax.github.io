@@ -1,6 +1,6 @@
 <!--2023-12-31 01:45:14-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Ex6uFT4-hDM">
+  <a class="nodecor" href="/posts.html?rok/best_greatest_rock_ballads_of_all_time_-_rock_ballads_mix_of_80s_90s">
     <img class="preview" data-videoid="Ex6uFT4-hDM" src="https://i.ytimg.com/vi/Ex6uFT4-hDM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

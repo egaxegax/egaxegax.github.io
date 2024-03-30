@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ZyGQMysy6sg">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_no_music_solve_insomnia_with_relaxing_fire_sounds">
     <img class="preview" data-videoid="ZyGQMysy6sg" src="https://i.ytimg.com/vi/ZyGQMysy6sg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

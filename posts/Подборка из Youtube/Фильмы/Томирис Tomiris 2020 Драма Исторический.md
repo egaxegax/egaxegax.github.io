@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ADsbHmN7Yyk">
+  <a class="nodecor" href="/posts.html?filmy/tomiris_tomiris_2020_drama_istoricheskij">
     <img class="preview" data-videoid="ADsbHmN7Yyk" src="https://i.ytimg.com/vi/ADsbHmN7Yyk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

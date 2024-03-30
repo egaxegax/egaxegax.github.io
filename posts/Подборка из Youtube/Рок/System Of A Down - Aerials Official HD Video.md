@@ -1,6 +1,6 @@
 <!--2024-01-22 23:27:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=L-iepu3EtyE">
+  <a class="nodecor" href="/posts.html?rok/system_of_a_down_-_aerials_official_hd_video">
     <img class="preview" data-videoid="L-iepu3EtyE" src="https://i.ytimg.com/vi/L-iepu3EtyE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

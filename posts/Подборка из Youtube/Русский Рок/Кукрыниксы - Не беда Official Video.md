@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ds7J8prCXu8">
+  <a class="nodecor" href="/posts.html?russkij_rok/kukryniksy_-_ne_beda_official_video">
     <img class="preview" data-videoid="ds7J8prCXu8" src="https://i.ytimg.com/vi/ds7J8prCXu8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

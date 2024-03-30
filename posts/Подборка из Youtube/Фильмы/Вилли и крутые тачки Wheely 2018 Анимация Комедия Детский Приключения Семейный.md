@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=IMz_-mz09Nc">
+  <a class="nodecor" href="/posts.html?filmy/villi_i_krutye_tachki_wheely_2018_animaciya_komediya_detskij_prikljucheniya_semejnyj">
     <img class="preview" data-videoid="IMz_-mz09Nc" src="https://i.ytimg.com/vi/IMz_-mz09Nc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=UOS5CP8tzYQ">
+  <a class="nodecor" href="/posts.html?kinoroliki/reimagination_of_disneys_short_films_music_paperman_2012">
     <img class="preview" data-videoid="UOS5CP8tzYQ" src="https://i.ytimg.com/vi/UOS5CP8tzYQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

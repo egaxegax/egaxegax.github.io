@@ -1,6 +1,6 @@
 <!--2023-12-31 01:52:21-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=RjfvDsMfGpY">
+  <a class="nodecor" href="/posts.html?rok/pearl_jam_-_last_kiss">
     <img class="preview" data-videoid="RjfvDsMfGpY" src="https://i.ytimg.com/vi/RjfvDsMfGpY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

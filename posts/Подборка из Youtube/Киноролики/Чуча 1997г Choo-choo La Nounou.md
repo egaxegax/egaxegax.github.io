@@ -1,6 +1,6 @@
 <!--2024-03-06 23:54:12-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ABud4p50GXY">
+  <a class="nodecor" href="/posts.html?kinoroliki/chucha_1997g_choo-choo_la_nounou">
     <img class="preview" data-videoid="ABud4p50GXY" src="https://i.ytimg.com/vi/ABud4p50GXY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

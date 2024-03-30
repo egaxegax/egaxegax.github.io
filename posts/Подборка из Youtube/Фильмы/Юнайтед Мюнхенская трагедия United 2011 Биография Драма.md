@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=tXo3hgVXugE">
+  <a class="nodecor" href="/posts.html?filmy/junajted_mjunhenskaya_tragediya_united_2011_biografiya_drama">
     <img class="preview" data-videoid="tXo3hgVXugE" src="https://i.ytimg.com/vi/tXo3hgVXugE/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

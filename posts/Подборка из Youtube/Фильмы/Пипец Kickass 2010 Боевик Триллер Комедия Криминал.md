@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=_UklfSfdVSQ">
+  <a class="nodecor" href="/posts.html?filmy/pipec_kickass_2010_boevik_triller_komediya_kriminal">
     <img class="preview" data-videoid="_UklfSfdVSQ" src="https://i.ytimg.com/vi/_UklfSfdVSQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

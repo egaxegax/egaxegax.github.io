@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=2cEhtJab67U">
+  <a class="nodecor" href="/posts.html?russkij_rok/catharsis_vremya_poter_oficialnyj_videoklip">
     <img class="preview" data-videoid="2cEhtJab67U" src="https://i.ytimg.com/vi/2cEhtJab67U/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=iH32C0BlcdI">
+  <a class="nodecor" href="/posts.html?filmy/ya_aleks_kross_alex_cross_2012_triller_kriminal_detektiv">
     <img class="preview" data-videoid="iH32C0BlcdI" src="https://i.ytimg.com/vi/iH32C0BlcdI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

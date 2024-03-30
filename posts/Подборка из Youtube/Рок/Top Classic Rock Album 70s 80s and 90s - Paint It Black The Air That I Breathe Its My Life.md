@@ -1,6 +1,6 @@
 <!--2023-12-31 01:42:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=QOSXofKrTlw">
+  <a class="nodecor" href="/posts.html?rok/top_classic_rock_album_70s_80s_and_90s_-_paint_it_black_the_air_that_i_breathe_its_my_life">
     <img class="preview" data-videoid="QOSXofKrTlw" src="https://i.ytimg.com/vi/QOSXofKrTlw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

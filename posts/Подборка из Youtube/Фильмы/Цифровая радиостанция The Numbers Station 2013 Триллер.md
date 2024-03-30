@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=3m6TtR3Q-vs">
+  <a class="nodecor" href="/posts.html?filmy/cifrovaya_radiostanciya_the_numbers_station_2013_triller">
     <img class="preview" data-videoid="3m6TtR3Q-vs" src="https://i.ytimg.com/vi/3m6TtR3Q-vs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

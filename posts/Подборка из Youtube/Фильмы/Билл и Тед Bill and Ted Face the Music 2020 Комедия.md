@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=DA2nnznvQuU">
+  <a class="nodecor" href="/posts.html?filmy/bill_i_ted_bill_and_ted_face_the_music_2020_komediya">
     <img class="preview" data-videoid="DA2nnznvQuU" src="https://i.ytimg.com/vi/DA2nnznvQuU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

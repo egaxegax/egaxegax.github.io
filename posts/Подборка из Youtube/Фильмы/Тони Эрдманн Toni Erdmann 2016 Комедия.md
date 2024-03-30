@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=jCaqA6UqLKw">
+  <a class="nodecor" href="/posts.html?filmy/toni_erdmann_toni_erdmann_2016_komediya">
     <img class="preview" data-videoid="jCaqA6UqLKw" src="https://i.ytimg.com/vi/jCaqA6UqLKw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

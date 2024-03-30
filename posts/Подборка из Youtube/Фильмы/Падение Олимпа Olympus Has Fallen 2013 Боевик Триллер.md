@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=zhJGgnasNCQ">
+  <a class="nodecor" href="/posts.html?filmy/padenie_olimpa_olympus_has_fallen_2013_boevik_triller">
     <img class="preview" data-videoid="zhJGgnasNCQ" src="https://i.ytimg.com/vi/zhJGgnasNCQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

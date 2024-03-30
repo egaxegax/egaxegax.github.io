@@ -1,6 +1,6 @@
 <!--2024-01-03 14:00:28-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=Kvr6c4DcH0Q">
+  <a class="nodecor" href="/posts.html?rabota/rabota_v_ssha_appliance_monster_jam_-_2023">
     <img class="preview" data-videoid="Kvr6c4DcH0Q" src="https://i.ytimg.com/vi/Kvr6c4DcH0Q/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

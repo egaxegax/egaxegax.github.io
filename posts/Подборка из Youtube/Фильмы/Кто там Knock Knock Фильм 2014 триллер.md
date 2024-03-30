@@ -1,6 +1,6 @@
 <!--2024-03-24 15:25:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=jYMYfbpvsbw">
+  <a class="nodecor" href="/posts.html?filmy/kto_tam_knock_knock_film_2014_triller">
     <img class="preview" data-videoid="jYMYfbpvsbw" src="https://i.ytimg.com/vi/jYMYfbpvsbw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

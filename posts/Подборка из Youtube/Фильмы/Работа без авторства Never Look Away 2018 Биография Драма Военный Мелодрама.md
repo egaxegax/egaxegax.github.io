@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=z2ZTmrTsWQI">
+  <a class="nodecor" href="/posts.html?filmy/rabota_bez_avtorstva_never_look_away_2018_biografiya_drama_voennyj_melodrama">
     <img class="preview" data-videoid="z2ZTmrTsWQI" src="https://i.ytimg.com/vi/z2ZTmrTsWQI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

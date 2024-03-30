@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=LSZ5r2Zy3Yo">
+  <a class="nodecor" href="/posts.html?filmy/romovyj_dnevnik_rum_diary_2010_drama_prikljucheniya">
     <img class="preview" data-videoid="LSZ5r2Zy3Yo" src="https://i.ytimg.com/vi/LSZ5r2Zy3Yo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

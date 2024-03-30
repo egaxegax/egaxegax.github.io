@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=s1mbq2BZbcg">
+  <a class="nodecor" href="/posts.html?russkij_rok/professor_lebedinskij_-_ya_ubju_tebya_lodochnik_hd">
     <img class="preview" data-videoid="s1mbq2BZbcg" src="https://i.ytimg.com/vi/s1mbq2BZbcg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

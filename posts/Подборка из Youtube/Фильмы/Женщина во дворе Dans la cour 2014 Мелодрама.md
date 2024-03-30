@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=XLxzU1XZdcY">
+  <a class="nodecor" href="/posts.html?filmy/jenshchina_vo_dvore_dans_la_cour_2014_melodrama">
     <img class="preview" data-videoid="XLxzU1XZdcY" src="https://i.ytimg.com/vi/XLxzU1XZdcY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

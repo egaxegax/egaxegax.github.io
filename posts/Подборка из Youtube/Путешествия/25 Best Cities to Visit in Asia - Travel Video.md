@@ -1,6 +1,6 @@
 <!--2023-12-30 11:00:03-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=VoBBHAw4EuU">
+  <a class="nodecor" href="/posts.html?puteshestviya/25_best_cities_to_visit_in_asia_-_travel_video">
     <img class="preview" data-videoid="VoBBHAw4EuU" src="https://i.ytimg.com/vi/VoBBHAw4EuU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

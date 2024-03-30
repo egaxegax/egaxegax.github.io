@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=qgWkkarg6DI">
+  <a class="nodecor" href="/posts.html?filmy/pele_rojdenie_legendy_pele_birth_of_a_legend_2016_drama_biografiya_sport">
     <img class="preview" data-videoid="qgWkkarg6DI" src="https://i.ytimg.com/vi/qgWkkarg6DI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

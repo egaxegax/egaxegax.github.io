@@ -1,6 +1,6 @@
 <!--2024-03-06 23:56:04-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=lih_Yvh3YYM">
+  <a class="nodecor" href="/posts.html?kinoroliki/chudo_melnica_multfilm_sojuzmultfilm_starmediakids">
     <img class="preview" data-videoid="lih_Yvh3YYM" src="https://i.ytimg.com/vi/lih_Yvh3YYM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

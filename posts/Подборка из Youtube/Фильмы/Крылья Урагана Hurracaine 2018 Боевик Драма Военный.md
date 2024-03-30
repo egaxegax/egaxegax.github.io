@@ -1,6 +1,6 @@
 <!--2024-03-24 15:47:30-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=3KvMylr3aGI">
+  <a class="nodecor" href="/posts.html?filmy/krylya_uragana_hurracaine_2018_boevik_drama_voennyj">
     <img class="preview" data-videoid="3KvMylr3aGI" src="https://i.ytimg.com/vi/3KvMylr3aGI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

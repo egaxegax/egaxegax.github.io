@@ -1,6 +1,6 @@
 <!--2024-01-14 01:04:00-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=qhpNLuMvvhg">
+  <a class="nodecor" href="/posts.html?relaks/fireplace_12_hours_deep_sleep_with_the_cat_next_to_the_crackling_fireplace">
     <img class="preview" data-videoid="qhpNLuMvvhg" src="https://i.ytimg.com/vi/qhpNLuMvvhg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

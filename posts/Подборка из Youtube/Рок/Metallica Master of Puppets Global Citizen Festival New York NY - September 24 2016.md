@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ISUu74MLhqs">
+  <a class="nodecor" href="/posts.html?rok/metallica_master_of_puppets_global_citizen_festival_new_york_ny_-_september_24_2016">
     <img class="preview" data-videoid="ISUu74MLhqs" src="https://i.ytimg.com/vi/ISUu74MLhqs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

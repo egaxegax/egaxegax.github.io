@@ -1,6 +1,6 @@
 <!--2023-12-31 12:00:10-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=p8J7LWrrh3A">
+  <a class="nodecor" href="/posts.html?russkij_rok/chijso-o_ljubvigreatest_hits_live">
     <img class="preview" data-videoid="p8J7LWrrh3A" src="https://i.ytimg.com/vi/p8J7LWrrh3A/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

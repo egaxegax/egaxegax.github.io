@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=kWeB4khqecc">
+  <a class="nodecor" href="/posts.html?filmy/mister_pip_mr_pip_2013_drama_voennyj">
     <img class="preview" data-videoid="kWeB4khqecc" src="https://i.ytimg.com/vi/kWeB4khqecc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

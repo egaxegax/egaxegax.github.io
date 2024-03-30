@@ -1,6 +1,6 @@
 <!--2024-01-20 00:46:46-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=bU5QbRTOhUQ">
+  <a class="nodecor" href="/posts.html?puteshestviya/ledyanoj_zimnik_na_pevek_kak_dobyvajut_zoloto_v_arktike_chukotka_kinross_kinross_toyota_chast_7">
     <img class="preview" data-videoid="bU5QbRTOhUQ" src="https://i.ytimg.com/vi/bU5QbRTOhUQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

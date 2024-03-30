@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=nKICSZzZF2o">
+  <a class="nodecor" href="/posts.html?rok/metallica_thank_you_seoul_january_11_2017">
     <img class="preview" data-videoid="nKICSZzZF2o" src="https://i.ytimg.com/vi/nKICSZzZF2o/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

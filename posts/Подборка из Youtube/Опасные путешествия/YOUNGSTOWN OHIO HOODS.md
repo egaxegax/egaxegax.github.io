@@ -1,6 +1,6 @@
 <!--2024-01-01 01:58:42-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=hefgu7sxRuI">
+  <a class="nodecor" href="/posts.html?opasnye_puteshestviya/youngstown_ohio_hoods">
     <img class="preview" data-videoid="hefgu7sxRuI" src="https://i.ytimg.com/vi/hefgu7sxRuI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=ibseSJi9X0g">
+  <a class="nodecor" href="/posts.html?filmy/jeltoglazye_krokodily_les_yeux_jaunes_des_crocodiles_2014_melodrama">
     <img class="preview" data-videoid="ibseSJi9X0g" src="https://i.ytimg.com/vi/ibseSJi9X0g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

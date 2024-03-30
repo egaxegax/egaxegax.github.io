@@ -1,6 +1,6 @@
 <!--2024-01-20 00:55:23-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=q1p3ucZzN0M">
+  <a class="nodecor" href="/posts.html?rok/metallica_holier_than_thou_state_college_pa_-_october_20_2018">
     <img class="preview" data-videoid="q1p3ucZzN0M" src="https://i.ytimg.com/vi/q1p3ucZzN0M/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

@@ -1,6 +1,6 @@
 <!--2024-03-23 19:30:38-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=5W87Ic__cZ4">
+  <a class="nodecor" href="/posts.html?filmy/ruki_proch_tango_shalom_2021_komediya">
     <img class="preview" data-videoid="5W87Ic__cZ4" src="https://i.ytimg.com/vi/5W87Ic__cZ4/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">

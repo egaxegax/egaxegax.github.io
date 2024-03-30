@@ -1,6 +1,6 @@
 <!--2024-03-23 19:23:31-->
 <div class="yb">
-  <a class="nodecor" href="https://www.youtube.com/watch?v=KJawQ-HF81k">
+  <a class="nodecor" href="/posts.html?filmy/pyshka_dumplin_2018_komediya_drama">
     <img class="preview" data-videoid="KJawQ-HF81k" src="https://i.ytimg.com/vi/KJawQ-HF81k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
