@@ -34,9 +34,9 @@ img { max-width:100%; border-radius:2px; }
 .bb {border-bottom:1px dotted #eee;}
 .mb {padding-bottom:10px;}
 /* youtube playlist */
-.yb .preview { height:150px; border-radius:4%; margin: 0 10px 5px 0; }
+.yb .preview { height:180px; border-radius:4%; margin: 0 10px 5px 0; }
 .yb .embed { border:0; border-radius:2%; margin-bottom:5px; }
-.smaller2 { font-size:smaller; }
-.smaller3 { font-size:x-small; }
+.yb .smaller2 { font-size:smaller; }
+.yb .smaller3 { font-size:x-small; }
 /**/
 .mh_hd { background:#262626; }
