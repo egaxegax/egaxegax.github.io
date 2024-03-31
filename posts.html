@@ -88,7 +88,7 @@
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
     updateMetaTag('description', 'смотреть '+p.subj+', '+html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255));
-    updateMetaTag('keywords', p.subj+', '+p.title[2]+', смотреть, посты');
+    updateMetaTag('keywords', p.subj+', '+p.title[2]+', смотреть, видео, посты');
     if(p.view == 'post' && html.search('data-videoid')>-1){
       html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
         '<iframe class="embed" align="middle" '+
