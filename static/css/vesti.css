@@ -16,5 +16,3 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
 .footer { font-size:small; font-style:italic; color:#777; }
-img { max-width:100%; }
-code { white-space: pre-wrap; }
