@@ -79,8 +79,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
   var p_full = Number((sp.getAttribute('data-full') == null) ? 0 : sp.getAttribute('data-full'));
   console.log('p_floor', p_floor, 'p_top', p_top, 'p_full', p_full);
-  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-5', type:'floorAd'});});
-  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-12', type:'floorAd', platform:'desktop'});});
+  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-1', type:'floorAd'});});
+  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-2', type:'floorAd', platform:'desktop'});});
   if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-7', type:'topAd'});});
   if(p_full) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-8', type:'fullscreen', platform:'touch'});});
 }
