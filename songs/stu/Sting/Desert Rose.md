@@ -1,11 +1,11 @@
 <!--2020-09-06 04:50:30-->
-Cm  
+***Cm***  
 I dream of rain  
-Cm/Bb  
+***Cm/Bb***  
 I dream of gardens in the desert sand  
-Ab  
+***Ab***  
 I wake in pain  
-Fm                  G7                   Cm  
+***Fm               G7               Cm***  
 I dream of love as time runs through my hand  
   
   
@@ -15,13 +15,13 @@ And in the flames
 Her shadows play in the shape of a man?s desire  
   
   
-Eb  
+***Eb***  
 This desert rose  
-Gm7  
+***Gm7***  
 Each of her veils, a secret promise  
-Bb  
+***Bb***  
 This desert flower  
-     Fm                G7                     Cm  
+     ***Fm                G7             Cm**  
 No sweet perfume ever tortured me more than this  
   
   
