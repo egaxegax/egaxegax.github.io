@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Записки / Сайт egax</title>
+		<link><![CDATA[https://egax.ru]]></link>
+		<description>Что нового? Новости, изменения, обновления на сайте и не только.</description>
+		<language>ru</language>
+		<pubDate>Tue, 09 Apr 2024 20:07:32 +0000</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">2487398449</guid>
+			<title>Заметки / Сайт egax</title>
+			<link>https://egax.ru/posts.html</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Заметки, ссылки, подборки видеороликов, статей, постов на самые разные темы</description>
+			<content:encoded><![CDATA[<p><img src="https://egax.ru/static/img/vesti_l.svg"></a> <a href="https://egax.ru/posts.html"><img src="https://egax.ru/static/img/posts_a.svg"></a> <a href="https://egax.ru/foto.html"><img src="https://egax.ru/static/img/fotki_l.svg"></a> <a href="https://egax.ru/songs.html"><img src="https://egax.ru/static/img/songs_l.svg"></a> <a href="https://egax.ru/books.html"><img src="https://egax.ru/static/img/books_l.svg"></a> <a href="https://egax.ru/dbcartajs"><img src="https://egax.ru/static/img/dbcartajs_l.svg"></a></p><p>P.S. Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.</p>]]></content:encoded>
+			<pubDate>Tue, 09 Apr 2024 23:07:31 +0300</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">3090466954</guid>
+			<title>Аккорды / Сайт egax</title>
+			<link>https://egax.ru/songs.html</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Подборы гитарных аккордов к песням, стихи, лирика</description>
+			<content:encoded><![CDATA[<p><img src="https://egax.ru/static/img/vesti.svg"></a> <a href="https://egax.ru/posts.html"><img src="https://egax.ru/static/img/posts.svg"></a> <a href="https://egax.ru/foto.html"><img src="https://egax.ru/static/img/fotki.svg"></a> <a href="https://egax.ru/songs.html"><img src="https://egax.ru/static/img/songs_b.svg"></a> <a href="https://egax.ru/books.html"><img src="https://egax.ru/static/img/books.svg"></a> <a href="https://egax.ru/dbcartajs"><img src="https://egax.ru/static/img/dbcartajs.svg"></a></p><p>P.S. Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.</p>]]></content:encoded>
+			<pubDate>Tue, 09 Apr 2024 23:07:30 +0300</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">1155448964</guid>
+			<title>Книги / Сайт egax</title>
+			<link>https://egax.ru/books.html</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Книги для чтения, описания книг и авторов</description>
+			<content:encoded><![CDATA[<p><img src="https://egax.ru/static/img/vesti.svg"></a> <a href="https://egax.ru/posts.html"><img src="https://egax.ru/static/img/posts.svg"></a> <a href="https://egax.ru/foto.html"><img src="https://egax.ru/static/img/fotki.svg"></a> <a href="https://egax.ru/songs.html"><img src="https://egax.ru/static/img/songs.svg"></a> <a href="https://egax.ru/books.html"><img src="https://egax.ru/static/img/books_b.svg"></a> <a href="https://egax.ru/dbcartajs"><img src="https://egax.ru/static/img/dbcartajs.svg"></a></p><p>P.S. Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.</p>]]></content:encoded>
+			<pubDate>Tue, 09 Apr 2024 23:07:29 +0300</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -69,30 +69,34 @@
 
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext scroll av" width="99%"><tr>'+
-    '<td align="center" valign="middle" width="1%">'+
-      '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
-    '</td>'+
-    '<td class="hspaced" width="50%">'+
-      '<a class="large nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a><br>'+
-      '<a class="hspace1 nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
-      '<i class="gray small">&emsp;'+buildDate(p.title[3])+'</i>'+
-    '</td>'+
-    '<td valign="center" align="right" class="light" width="1%">'+
-      '<i class="counter small">'+(p.i+1)+'</i>'+
-    '</td></tr>'+
-  '</table>';
+  '<div class="msgtext scroll">'+
+    '<table class="av" width="99%"><tr>'+
+      '<td align="center" valign="middle" width="1%">'+
+        '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
+      '</td>'+
+      '<td class="hspaced" width="50%">'+
+        '<a class="large nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a><br>'+
+        '<a class="hspace1 nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
+        '<i class="gray small">&emsp;'+buildDate(p.title[3])+'</i>'+
+      '</td>'+
+      '<td valign="center" align="right" class="light" width="1%">'+
+        '<i class="counter small">'+(p.i+1)+'</i>'+
+      '</td></tr>'+
+    '</table>'+
+  '</div>';
   }
   
   function addList(r,p){
     if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды');
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext scroll"><tr>'+
-    '<td width="99%">'+
-      '<a class="large nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
-    '</td>'+
-    '<td align="right" class="light"><i class="counter small">'+p.i+'</i></td></tr>'+
-  '</table>';
+  '<div class="msgtext scroll">'+
+    '<table><tr>'+
+      '<td width="99%">'+
+        '<a class="large nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a>'+
+      '</td>'+
+      '<td align="right" class="light"><i class="counter small">'+p.i+'</i></td></tr>'+
+    '</table>'+
+  '</div>';
   }
 
   function addAbout(r,p){
