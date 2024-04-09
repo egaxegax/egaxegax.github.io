@@ -15,8 +15,7 @@
 .table { display:table; border-collapse:collapse; width:100%; }
 .tcell { display:table-cell; height:50px; padding:6px 12px; }
 .hmarg { margin:0 12px; }
-.bmarg { margin: 0 auto 5px auto; }
-.bmarg1 { margin: -5px auto 10px auto; }
+.bmarg { margin: -5px auto 5px auto; }
 .marg { margin: 0 auto; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
