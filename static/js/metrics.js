@@ -81,8 +81,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   console.log('p_floor', p_floor, 'p_top', p_top, 'p_full', p_full);
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-1', type:'floorAd'});});
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-2', type:'floorAd', platform:'desktop'});});
-  if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-7', type:'topAd'});});
-  if(p_full) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-8', type:'fullscreen', platform:'touch'});});
+//  if(p_top) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-7', type:'topAd'});});
+//  if(p_full) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-2277013-8', type:'fullscreen', platform:'touch'});});
 }
 { // VK reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
