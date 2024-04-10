@@ -40,7 +40,8 @@ def TR(t):
 
 def main(path='.'):
   mfiles = []
-  surl = 'https://egaxegax.github.io'
+#  surl = 'https://egaxegax.github.io'
+  surl = 'https://egax.ru'
   cwd = os.path.basename(os.path.abspath(path))
   sdir = cwd
   if sdir == 'vesti':

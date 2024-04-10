@@ -5,9 +5,9 @@ Disallow: /posts/
 Disallow: /songs/
 Disallow: /vesti/
 Disallow: /reklama*.html
-sitemap: https://egaxegax.github.io/books/sitemap.txt
-sitemap: https://egaxegax.github.io/foto/sitemap.txt
-sitemap: https://egaxegax.github.io/posts/sitemap.txt
-sitemap: https://egaxegax.github.io/songs/sitemap.txt
-sitemap: https://egaxegax.github.io/vesti/sitemap.txt
-sitemap: https://egaxegax.github.io/dbcartajs/sitemap.txt
+sitemap: https://egax.ru/books/sitemap.txt
+sitemap: https://egax.ru/foto/sitemap.txt
+sitemap: https://egax.ru/posts/sitemap.txt
+sitemap: https://egax.ru/songs/sitemap.txt
+sitemap: https://egax.ru/vesti/sitemap.txt
+sitemap: https://egax.ru/dbcartajs/sitemap.txt
