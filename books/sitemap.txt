@@ -1,4 +1,9 @@
 https://egax.ru/books.html
+https://egax.ru/books.html?maks_alekseevich_glebov
+https://egax.ru/books.html?maks_alekseevich_glebov/armada_vtorjeniya
+https://egax.ru/books.html?maks_alekseevich_glebov/obekt_kontrolya
+https://egax.ru/books.html?sergej_lukyanenko
+https://egax.ru/books.html?sergej_lukyanenko/predel
 https://egax.ru/books.html?vladimir_georgievich_surdin
 https://egax.ru/books.html?vladimir_georgievich_surdin/vselennaya_v_voprosah_i_otvetah
 https://egax.ru/books.html?alesya_kuznecova
@@ -1167,7 +1172,6 @@ https://egax.ru/books.html?kir_bulychev/nastoj_zabveniya
 https://egax.ru/books.html?kir_bulychev/predskazatel_proshlogo_sbornik
 https://egax.ru/books.html?kir_bulychev/trinadcat_let_puti
 https://egax.ru/books.html?kir_bulychev/mechta_zaochnika
-https://egax.ru/books.html?sergej_lukyanenko
 https://egax.ru/books.html?sergej_lukyanenko/fantastika_2000
 https://egax.ru/books.html?kir_bulychev/den_rojdeniya_alisy_s_illjustraciyami
 https://egax.ru/books.html?kir_bulychev/kajdomu_est_chto_vspomnit
