@@ -6,17 +6,17 @@
   
   *Acoustic guitar...*  
   
-   ***E-1***        ***E-2***         ***D***          ***C#***         ***C***         ***G(2)***  
+   ***E-1***   ***E-2***   ***D***    ***C#***   ***C***   ***G(2)***  
   *EADGBE     EADGBE     EADGBE     EADGBE     EADGBE     EADGBE*  
   [022100     x7990x     x5770x     x4660x     x355xx     XX000X]  
   
   *Beginning of song...*  
   
-  *Strum***E-1***      (slide) ***E-2***]           ***D***             ***C#***            (play twice)*  
+  Strum ***E-1***   (slide) ***E-2***    ***D***   ***C#***    (play twice)  
   |    | |  ||||  / ||     | |   |||| ||    | |  |||| ||    | |  ||||  
   ***C***  
   ||   | |  |||||||||||||||  
-  *^               (slow distortion comes in)*  
+  ^               *(slow distortion comes in)*  
   
   *second guitar...*  
   *comes in after acoustic finishes.*  
@@ -55,21 +55,23 @@
   *part is somewhere around these chords too.*  
   
   *Chorus:*  
-  ***C                G         G(2) D                            A***  
-  You're one in a million         (1. 3. yeah, that's what you are___)  
-  (2. you're a shooting       star__)  
+  ***C    G    G(2) D   A***  
+  You're one in a million 
+  (1. 3. yeah, that's what you are)  
+  (2. you're a shooting star)  
   
-  ***A5 A6 A5  A6  C                 G             D                     A***  
-  You're one in a million, babe   (you're a shooting star________)  
-  (       you know that you are__)  
+  ***A5 A6 A5  A6  C   G     D   A***  
+  You're one in a million, babe
+  (you're a shooting star)  
+  (you know that you are)  
   
-  ***C                        G      G(2)  D                    A   A5 A6 A5  A6***  
-  Maybe someday we'll see you         before you make us cry  
-  ***C                          G         D                     E***  
-  you know we tried to reach you   but you were much to high_________  
+  ***C      G      G(2)  D      A   A5 A6 A5  A6***  
+  Maybe someday we'll see you  before you make us cry  
+  ***C      G     D                  E***  
+  you know we tried to reach you but you were much to high  
   
-  much to high  (1. 2. much too high___________________ much too high__  
-  (3.   much too high________________ yeah_ yeah_  
+  much to high  (1. 2. much too high much too high)  
+  (3.   much too high yeah yeah)  
   
   *Solo:*  
   |--------------------------------------------------------------|  
@@ -198,5 +200,5 @@ Text:  1,2,1,2,3,4
   Ow! Much too high  
   (Oh, much too high, ah,  
   much too high, ah, much too high  
-  much too high, ow, much too high)*  
-  **Whispered with gradual fade out*
+  much too high, ow, much too high)  
+  *Whispered with gradual fade out*
