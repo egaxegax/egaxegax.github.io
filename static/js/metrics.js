@@ -88,7 +88,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//ad.mail.ru/static/ads-async.js', 'MRGtag');
-  window.VK_RTB = {1:1490223, 2:1490225, 3:1490227};
+  window.VK_RTB = {1:1542915, 2:1542917, 3:1542919};
   window.VK_TMR = [];
   window.addVkRTB_Block = function(){ 
     function ads(){ 
