@@ -99,18 +99,18 @@ Chorus:  It's a ***A***long way to the ***G***top if you w
   |---------  
   *That's about it. It's pretty easy. The solo is in the 7th position.*  
   *The System:*  
-  *[--2H4--] Hammer on*  
-  *[--4P2--] Pull off*  
-  *[--2S4--] Slide*  
-  *[--2..--] Let Ring*  
-  *[--2..2-] Let Ring, then hit again*  
-  *[--2~~--] Vibrato*  
-  *[--0-0--] Palm Mute*  
-  *[ p p]*  
-  *[--0-0--] Up & Down Picking*  
-  *[ U D]*  
-  *[--0-0-2-0-0-3-0-0-2-0-0-3-0-0-2H3--] Metallica*  
-  *[ p..........................]*  
-  *[ D U D U D U D U D U D U D U D]*  
+  [--2H4--] *Hammer on*  
+  [--4P2--] *Pull off*  
+  [--2S4--] *Slide*  
+  [--2..--] *Let Ring*  
+  [--2..2-] *Let Ring, then hit again*  
+  [--2~~--] *Vibrato*  
+  [--0-0--] *Palm Mute*  
+  [ p p]  
+  [--0-0--] *Up & Down Picking*  
+  [ U D]  
+  [--0-0-2-0-0-3-0-0-2-0-0-3-0-0-2H3--] *Metallica*  
+  [ p..........................]  
+  [ D U D U D U D U D U D U D U D]  
   *The spacing of the notes kind of reflects the timing of the song,*  
   *but not very well.*
