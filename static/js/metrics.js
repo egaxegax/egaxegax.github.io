@@ -22,7 +22,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
      accurateTrackBounce:true,
      webvisor:true
    });
-   window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.title.length > 0; }};
+   window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>0; }};
 }
 //{ // Rambler top 100 counter
 //  (function (w,d,c) {

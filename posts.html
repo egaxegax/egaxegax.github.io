@@ -151,7 +151,7 @@ console.log(p.title[2]);
     return page.titles.length == 0;
   }
 
-  upfunc({url: buildURL('posts')+'/index.js'}, function(s){
+  upfunc1({url: buildURL('posts')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = {};
     PAGE.per = 5;  // blocks 1 page
