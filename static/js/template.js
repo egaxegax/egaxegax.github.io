@@ -121,6 +121,7 @@ function arraySort(aa,bb){
 // translater from //gist.github.com/diolavr/d2d50686cb5a472f5696.js
 //
 function tr(s){
+  s = s.toLowerCase();
   var ru = {
     'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 
     'е':'e', 'ё':'e', 'ж':'j', 'з':'z', 'и':'i', 'й':'j', 
@@ -135,8 +136,7 @@ function tr(s){
   for(var i=0; i<s.length; ++i){
     tr.push( 
       ru[ s[i] ] || 
-      ru[ s[i].toLowerCase() ] == undefined && s[i] ||
-      ru[ s[i].toLowerCase() ].toUpperCase() );
+      ru[ s[i] ] == undefined && s[i] );
   }
 
   return tr.join('').toLowerCase();
