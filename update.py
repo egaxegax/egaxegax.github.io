@@ -54,7 +54,8 @@ def main(path='.'):
       subj = E_OS(os.path.basename(root))
       title = E_OS(fname)
 
-      if name in ('README.md', 'sitemap.txt'):
+      if 'sitemap' in name or 'README' in name:
+        print(os.path.join(root, name), '...skip')
         continue
 
       if cwd in ('songs',) and ext in ('.txt',):
@@ -116,7 +117,7 @@ def main(path='.'):
             print(root, name,)
             raise
       else:
-        print(name, '...skip')
+        print(os.path.join(root, name), '...skip')
         continue
       mfiles.append([ roots, subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
 
@@ -126,7 +127,6 @@ def main(path='.'):
   mtitles = []
   mcounter = 0
   murls = []
-  mrootsurls = []
 #  surl = 'https://egaxegax.github.io'
   surl = 'https://egax.ru'
 
@@ -143,6 +143,7 @@ def main(path='.'):
     if iroot == -1:
       mroots += [[f[0], 1, f[3]]]
       iroot = len(mroots) - 1
+      murls += [[]]
     isubj = -1
     for ii, subj in enumerate(msubj):
       if f[1] == subj[0]:
@@ -153,12 +154,12 @@ def main(path='.'):
       msubj += [[f[1], 1, f[3], iroot]]
       isubj = len(msubj) - 1
       if len(murls) == 0:
-        murls += [surl +'/'+ sdir + '.html']
-      murls += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
+        murls[iroot] += [surl +'/'+ sdir + '.html']
+      murls[iroot] += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
     mtitles += [[isubj, len(mfiles) - len(mtitles) - mcounter, f[2], f[3], iroot]]
-    murls += [surl +'/'+ sdir +'.html?'+ TR(f[1]+'/'+f[2])]
+    murls[iroot] += [surl +'/'+ sdir +'.html?'+ TR(f[1]+'/'+f[2])]
     if sdir == 'foto':
-      murls += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
+      murls[iroot] += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
     print( i )
 
   def compact(s):
@@ -170,7 +171,9 @@ def main(path='.'):
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
   if murls:
-    io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(murls))
+    io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(['\n'.join(sorted(u)) for u in murls]))
+    for i, u in enumerate(murls):
+      io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
   time.sleep(1)
 
 #  sitemap = open(path + '/../sitemap.txt', 'w', newline='\n') # truncate file
