@@ -48,7 +48,7 @@
 #footer { width:100%; }
 /* body */
 body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; }
-h1 { margin:0; font-weight:normal; font-size:inherit; display:inline-block; }
+h1 { margin:0; font-weight:normal; font-size:inherit; }
 a, a:active, a:focus { outline:none; }
 a.nodecor, #header a { text-decoration:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
