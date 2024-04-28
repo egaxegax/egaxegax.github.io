@@ -51,11 +51,11 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   ga('create', 'UA-25857345-4', 'egaxegax.github.io');
   ga('send', 'pageview');
 }
-{ // Google Adsense
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
-   m[i].l=1*new Date();k=e.createElement(t),a=document.head;k.async=1;k.crossorigin='anonymous';k.src=r;a.appendChild(k);})
-  (window, document, 'script', '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043', 'googleContextCb');
-}
+//{ // Google Adsense
+//  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
+//   m[i].l=1*new Date();k=e.createElement(t),a=document.head;k.async=1;k.crossorigin='anonymous';k.src=r;a.appendChild(k);})
+//  (window, document, 'script', '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2243951601941043', 'googleContextCb');
+//}
 { // Yandex reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
@@ -97,5 +97,11 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     VK_TMR.push( setInterval(ads, (Math.random()*20+9)*1000));
     ads();
   };
+}
+{ // add rel canonical
+  var link = !!document.querySelector("link[rel='canonical']") ? document.querySelector("link[rel='canonical']") : document.createElement('link');
+  link.setAttribute('rel', 'canonical');
+  link.setAttribute('href', location.protocol + '//' + location.host + location.pathname + location.search);
+  document.head.appendChild(link);  
 }
 }
