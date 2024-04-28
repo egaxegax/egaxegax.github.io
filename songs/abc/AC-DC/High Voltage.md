@@ -2,7 +2,7 @@
 "High Voltage"  
   High Voltage  
   
-  *The intro goes:  ***D  D  E  E  D  G  A  A*** (repeat 4 times)*  
+  *The intro goes:*  ***D  D  E  E  D  G  A  A*** (repeat 4 times)  
   ***E      D***  
   You ask me ^Cbout the clothes I wear,  
   ***E        D***  
@@ -17,7 +17,7 @@
   All you got to do is let me into high, I said high,  
   
   ***A  C     D      A***  
-Chorus:  High voltage rock and roll,  
+*Chorus:*  High voltage rock and roll,  
   ***A  C     D      A***  
   High voltage rock and roll,  
   ***C  D      C  D***  
@@ -37,10 +37,10 @@ Chorus:  High voltage rock and roll,
   ***D        A***  
   Come, let me hear you shout high, I said high,  
   *Repeat Chorus*  
-  *The bridge goes ***E D G A A*** (repeat 4 times)*  
+  *The bridge goes ***E D G A A*** (repeat 4 times)  
   ***E***  
   I said high, I said high,  
-  Repeat Chorus  
+  *Repeat Chorus*  
   ***A***  
   Stars, bars all around, spotlights, footlights. I'll take ^Cem  
   *Repeat Chorus*  
