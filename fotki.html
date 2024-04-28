@@ -91,7 +91,7 @@ img:hover { border:2px yellow solid }
     });
     childs.push(img);  
     document.title = this.title + ' - Фотки / Сайт egax';
-    document.getElementById('foto_header').innerHTML = '<p>' + this.title + '</p>';
+    document.getElementById('foto_header').innerHTML = this.title;
     updateMetaTag('description', this.title);
   };
 
