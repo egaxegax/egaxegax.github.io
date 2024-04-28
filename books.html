@@ -47,9 +47,9 @@
   };
 
   document.getElementById('page_header').innerHTML =
-'<div class="large table">'+
+'<h1 class="large table">'+
   '<div class="tcell vmid">'+'Подборка описаний книг разных авторов из свободных источников '+'</div>'+
-'</div>';
+'</h1>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function strToUtc(dt){
@@ -156,13 +156,13 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.BOOKS = TITLES;
     var page_header = 
-  '<div class="large table">'+
+  '<h1 class="large table">'+
     '<div class="tcell vmid">Описаний <b><i>$COUNT</i></b> по&ensp;'+
       '<a href="/bwrts.html">Авторам</a>&nbsp; '+
       '<a href="/bgenres.html">Жанрам</a>'+
     '</div>'+
     '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
-  '</div>';
+  '</h1>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -179,10 +179,10 @@
         if(BOOKS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<div class="large table">'+
+        '<h1 class="large table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
-        '</div>';
+        '</h1>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
         PAGE.per = 10;
@@ -191,13 +191,13 @@
         if(BOOKS.length){
           PAGE.view = 'book';
           page_header = 
-        '<div class="table bigger1">'+
+        '<h1 class="table bigger1">'+
           '<div class="tcell vmid">'+
             '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<div>'+BOOKS[0][2]+'</div>'+
           '</div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
-        '</div>';
+        '</h1>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
           BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
         }
@@ -211,7 +211,7 @@
         if(BOOKS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<div class="table bigger1">'+
+        '<h1 class="table bigger1">'+
           '<div class="tcell vmid" style="width:50%">'+
             '<a class="nodecor" href="'+
               (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
@@ -220,7 +220,7 @@
             '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
           '</div>'+
           '<div class="tcell tright vmid">'+addFinder()+'</div>'+
-        '</div>';
+        '</h1>';
           if(gnr.length>0){
             document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;
           }
