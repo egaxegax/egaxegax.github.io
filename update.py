@@ -40,8 +40,6 @@ def TR(t):
 
 def main(path='.'):
   mfiles = []
-#  surl = 'https://egaxegax.github.io'
-  surl = 'https://egax.ru'
   cwd = os.path.basename(os.path.abspath(path))
   sdir = cwd
   if sdir == 'vesti':
@@ -120,29 +118,31 @@ def main(path='.'):
       else:
         print(name, '...skip')
         continue
-
       mfiles.append([ roots, subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
 
   mfiles.sort(key=lambda f: f[3], reverse=True)
   mroots = []
   msubj = []
   mtitles = []
-  abcounter = 0
+  mcounter = 0
   murls = []
+  mrootsurls = []
+#  surl = 'https://egaxegax.github.io'
+  surl = 'https://egax.ru'
 
   for i, f in enumerate(mfiles):
     if f[2] == 'about':
-      abcounter += 1
+      mcounter += 1
       continue
-    iroots = -1
-    for ii, roots in enumerate(mroots):
-      if f[0] == roots[0]:
-        roots[1] += 1
-        iroots = ii
+    iroot = -1
+    for ii, root in enumerate(mroots):
+      if f[0] == root[0]:
+        root[1] += 1
+        iroot = ii
         break
-    if iroots == -1:
+    if iroot == -1:
       mroots += [[f[0], 1, f[3]]]
-      iroots = len(mroots) - 1
+      iroot = len(mroots) - 1
     isubj = -1
     for ii, subj in enumerate(msubj):
       if f[1] == subj[0]:
@@ -150,12 +150,12 @@ def main(path='.'):
         isubj = ii
         break
     if isubj == -1:
-      msubj += [[f[1], 1, f[3], iroots]]
+      msubj += [[f[1], 1, f[3], iroot]]
       isubj = len(msubj) - 1
       if len(murls) == 0:
         murls += [surl +'/'+ sdir + '.html']
       murls += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
-    mtitles += [[isubj, len(mfiles) - len(mtitles) - abcounter, f[2], f[3], iroots]]
+    mtitles += [[isubj, len(mfiles) - len(mtitles) - mcounter, f[2], f[3], iroot]]
     murls += [surl +'/'+ sdir +'.html?'+ TR(f[1]+'/'+f[2])]
     if sdir == 'foto':
       murls += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
