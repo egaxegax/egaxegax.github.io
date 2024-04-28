@@ -42,10 +42,10 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<h1 class="large table">'+
-  '<div class="tcell vmid" id="foto_header">'+'Загружаем последнюю фотку из альбома'+'</div>'+
+'<div class="large table">'+
+  '<div class="tcell vmid"><h1 id="foto_header">'+'Загружаем последнюю фотку из альбома'+'</h1></div>'+
   '<div class="tcell tright vmid" style="width:30%">'+'<select id="albumlist"></select>'+'</div>'+
-'</h1>';
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addFoto(p){

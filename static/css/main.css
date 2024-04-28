@@ -47,7 +47,8 @@
 #page_footer button { height:44px; width:44px; border:0; }
 #footer { width:100%; }
 /* body */
-body,h1 { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; }
+body { margin:0; font-family:tahoma,arial; font-weight:400; font-size:16px; }
+h1 { margin:0; font-weight:normal; font-size:inherit; display:inline-block; }
 a, a:active, a:focus { outline:none; }
 a.nodecor, #header a { text-decoration:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }

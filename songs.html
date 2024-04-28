@@ -55,9 +55,9 @@
 <script>
 
   document.getElementById('page_header').innerHTML =
-'<h1 class="large table">'+
-  '<div class="tcell vmid">'+'Подборка текстов песен с аккордами и просто стихов'+'</div>'+
-'</h1>';
+'<div class="large table">'+
+  '<div class="tcell vmid"><h1>'+'Подборка текстов песен с аккордами и просто стихов'+'</h1></div>'+
+'</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function find(){
@@ -215,14 +215,14 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.SONGS = TITLES;
     var page_header = 
-  '<h1 class="large table">'+
-    '<div class="tcell vmid">Текстов <b><i>$COUNT</i></b> разных&ensp;'+
+  '<div class="large table">'+
+    '<div class="tcell vmid"><h1>Текстов <b><i>$COUNT</i></b> разных&ensp;'+
       '<a href="/sarts.html">Авторов</a>&nbsp; '+
       '<a href="/posts.html?samouchitel_igry_na_gitare">Уроки</a>&nbsp; '+
-      '<a href="/research.html">Поиск</a> '+
+      '<a href="/research.html">Поиск</a></h1> '+
     '</div>'+
     '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
-  '</h1>';
+  '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -239,10 +239,10 @@
         if(SONGS.length){ 
           PAGE.view = 'last';
           page_header = 
-        '<h1 class="large table">'+
+        '<div class="large table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
-        '</h1>';
+        '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
         }
         PAGE.per = 20;
@@ -252,13 +252,13 @@
         if(SONGS.length){
           PAGE.view = 'song';
           page_header =
-        '<h1 class="table bigger1">'+
+        '<div class="table bigger1">'+
           '<div class="tcell vmid">'+
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
-            '<div>'+SONGS[0][2]+'</div>'+
+            '<h1>'+SONGS[0][2]+'</h1>'+
           '</div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
-        '</h1>';
+        '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
         }
@@ -268,13 +268,13 @@
         if(SONGS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<h1 class="table bigger1">'+
+        '<div class="table bigger1">'+
           '<div class="tcell vmid" style="width:50%">'+
-            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
+            '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a></h1>'+
             '<i class="hspace counter"> ('+ SONGS.length+')</i>'+
           '</div>'+
           '<div class="tcell tright vmid">'+addFinder()+'</div>'+
-        '</h1>';
+        '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
         }
