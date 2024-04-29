@@ -24,6 +24,7 @@
 .hspace { padding:0 12px; }
 .hspace1 { padding:0 24px; }
 .hspace2 { padding:0 48px; }
+.vspace { line-height:1.5em; }
 .lfloat { float:left; text-align:left; }
 .rfloat { float:right; text-align:right; }
 .tcenter { text-align:center; }
