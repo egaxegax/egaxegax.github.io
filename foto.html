@@ -119,7 +119,7 @@
         if(FOTOS.length) document.title = FOTOS[0][2] +', '+ SUBJ[FOTOS[0][0]][0] +' - '+ document.title;
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
         if(FOTOS.length){
-          document.getElementById('foto_header').innerHTML = SUBJ[album][0] +' / '+ FOTOS[0][2];
+          document.getElementById('foto_header').innerHTML = FOTOS[0][2];
         }
       }else if(pp.length>0){ // ?alb
         FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });
