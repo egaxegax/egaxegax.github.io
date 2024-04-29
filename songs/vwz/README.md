@@ -9,6 +9,7 @@
 * [Who](Who)
 * [Wild Colonials](Wild%20Colonials)
 * [Wizo](Wizo)
+* [XXX Lyrics](XXX%20Lyrics)
 * [Yngwie Malmsteen](Yngwie%20Malmsteen)
 * [Young Neil](Young%20Neil)
 * [Z-exit](Z-exit)
