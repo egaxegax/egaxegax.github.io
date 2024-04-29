@@ -643,7 +643,7 @@ https://egax.ru/songs.html?elvis_presley/your_cheatin_heart
 https://egax.ru/songs.html?elvis_presley/youre_a_heartbreaker
 https://egax.ru/songs.html?eminem
 https://egax.ru/songs.html?eminem/8_mile
-https://egax.ru/songs.html?eminem/97_bonnie_&_clyde
+https://egax.ru/songs.html?eminem/97_bonnie_clyde
 https://egax.ru/songs.html?eminem/amityville
 https://egax.ru/songs.html?eminem/as_the_world_turns
 https://egax.ru/songs.html?eminem/bad_meets_evil
@@ -973,7 +973,7 @@ https://egax.ru/songs.html?five_iron_frenzy/third_world_think_tank
 https://egax.ru/songs.html?fleur
 https://egax.ru/songs.html?fleur/kokon
 https://egax.ru/songs.html?foo_fighters
-https://egax.ru/songs.html?foo_fighters/alone_&_easy_target
+https://egax.ru/songs.html?foo_fighters/alone_easy_target
 https://egax.ru/songs.html?foo_fighters/baker_street
 https://egax.ru/songs.html?foo_fighters/big_me
 https://egax.ru/songs.html?foo_fighters/dear_lover

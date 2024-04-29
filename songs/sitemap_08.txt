@@ -540,8 +540,8 @@ https://egax.ru/songs.html?rammstein/du_riechst_so_gut
 https://egax.ru/songs.html?rammstein/eifersucht
 https://egax.ru/songs.html?rammstein/ein_leid
 https://egax.ru/songs.html?rammstein/engel
-https://egax.ru/songs.html?rammstein/feuer_&_wasser
 https://egax.ru/songs.html?rammstein/feuer_frei
+https://egax.ru/songs.html?rammstein/feuer_wasser
 https://egax.ru/songs.html?rammstein/feuerrader
 https://egax.ru/songs.html?rammstein/feurer_frie
 https://egax.ru/songs.html?rammstein/feurer_frie_2_variant
@@ -908,7 +908,7 @@ https://egax.ru/songs.html?reel_big_fish/i_want_your_girlfriend_to_be_my_girlfri
 https://egax.ru/songs.html?reel_big_fish/ill_never_be
 https://egax.ru/songs.html?reel_big_fish/join_the_club
 https://egax.ru/songs.html?reel_big_fish/nothin
-https://egax.ru/songs.html?reel_big_fish/rock_&_roll_is_bitchin
+https://egax.ru/songs.html?reel_big_fish/rock_roll_is_bitchin
 https://egax.ru/songs.html?reel_big_fish/say_ten
 https://egax.ru/songs.html?reel_big_fish/sell_out
 https://egax.ru/songs.html?reel_big_fish/sellout

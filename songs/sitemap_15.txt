@@ -4,7 +4,7 @@ https://egax.ru/songs.html?jackson_alan/chattahoochee
 https://egax.ru/songs.html?jackson_alan/form_a_distance
 https://egax.ru/songs.html?jackson_alan/i_dont_even_know_your_name
 https://egax.ru/songs.html?jackson_alan/mercury_blues
-https://egax.ru/songs.html?jackson_alan/shes_got_the_rythm_&_i_got_the_blues
+https://egax.ru/songs.html?jackson_alan/shes_got_the_rythm_i_got_the_blues
 https://egax.ru/songs.html?jackson_alan/summertime_blues
 https://egax.ru/songs.html?jackson_alan/tall_tall_trees
 https://egax.ru/songs.html?jackson_alan/there_goes
@@ -116,7 +116,7 @@ https://egax.ru/songs.html?juanes/la_camisa_negra
 https://egax.ru/songs.html?judas_priest
 https://egax.ru/songs.html?judas_priest/before_the_dawn
 https://egax.ru/songs.html?judge_dread
-https://egax.ru/songs.html?judge_dread/reggae_&_ska
+https://egax.ru/songs.html?judge_dread/reggae_ska
 https://egax.ru/songs.html?kabat
 https://egax.ru/songs.html?kabat/cert_na_koze_jel
 https://egax.ru/songs.html?kansas
@@ -200,8 +200,8 @@ https://egax.ru/songs.html?kiss/making_love
 https://egax.ru/songs.html?kiss/parasite
 https://egax.ru/songs.html?kiss/plaster_caster
 https://egax.ru/songs.html?kiss/rip_it_out
-https://egax.ru/songs.html?kiss/rock_&_roll_all_nite
 https://egax.ru/songs.html?kiss/rock_bottom
+https://egax.ru/songs.html?kiss/rock_roll_all_nite
 https://egax.ru/songs.html?kiss/rocket_ride
 https://egax.ru/songs.html?kiss/save_your_love
 https://egax.ru/songs.html?kiss/she
@@ -276,7 +276,7 @@ https://egax.ru/songs.html?korn/reclaim_my_place
 https://egax.ru/songs.html?korn/right_now
 https://egax.ru/songs.html?korn/sean_olson
 https://egax.ru/songs.html?korn/seed
-https://egax.ru/songs.html?korn/shoots_&_ladders
+https://egax.ru/songs.html?korn/shoots_ladders
 https://egax.ru/songs.html?korn/sombody_someone
 https://egax.ru/songs.html?korn/swallow
 https://egax.ru/songs.html?korn/thouthless
@@ -482,7 +482,7 @@ https://egax.ru/songs.html?lemonheads/frying_pan
 https://egax.ru/songs.html?lemonheads/fucked_up
 https://egax.ru/songs.html?lemonheads/glad_i_dont_know
 https://egax.ru/songs.html?lemonheads/half_the_time
-https://egax.ru/songs.html?lemonheads/hannah_&_gabi
+https://egax.ru/songs.html?lemonheads/hannah_gabi
 https://egax.ru/songs.html?lemonheads/hate_your_friends
 https://egax.ru/songs.html?lemonheads/hes_on_the_beach
 https://egax.ru/songs.html?lemonheads/hot_coals

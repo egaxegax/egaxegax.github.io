@@ -21,7 +21,7 @@ https://egax.ru/songs.html?male_factors/anzug
 https://egax.ru/songs.html?male_factors/beshennyj_botinok
 https://egax.ru/songs.html?male_factors/gungster_song
 https://egax.ru/songs.html?male_factors/huliganskaya
-https://egax.ru/songs.html?male_factors/juhansen_&_bambula
+https://egax.ru/songs.html?male_factors/juhansen_bambula
 https://egax.ru/songs.html?male_factors/reggi
 https://egax.ru/songs.html?male_factors/sebastyan_perejra
 https://egax.ru/songs.html?male_factors/vesna
@@ -42,7 +42,7 @@ https://egax.ru/songs.html?manowar/courage
 https://egax.ru/songs.html?manowar/dark_avenger
 https://egax.ru/songs.html?manowar/defender
 https://egax.ru/songs.html?manowar/fast_taker
-https://egax.ru/songs.html?manowar/hail_&_kill
+https://egax.ru/songs.html?manowar/hail_kill
 https://egax.ru/songs.html?manowar/hearth_of_steel
 https://egax.ru/songs.html?manowar/kingdom_come
 https://egax.ru/songs.html?manowar/kings_of_metal
@@ -98,8 +98,8 @@ https://egax.ru/songs.html?mattafix
 https://egax.ru/songs.html?mattafix/big_city_life
 https://egax.ru/songs.html?mccartney_paul
 https://egax.ru/songs.html?mccartney_paul/this_never_happened_before
-https://egax.ru/songs.html?me_first_&_the_gimme_gimmes
-https://egax.ru/songs.html?me_first_&_the_gimme_gimmes/seasons_in_the_sun
+https://egax.ru/songs.html?me_first_the_gimme_gimmes
+https://egax.ru/songs.html?me_first_the_gimme_gimmes/seasons_in_the_sun
 https://egax.ru/songs.html?megadeth
 https://egax.ru/songs.html?megadeth/502
 https://egax.ru/songs.html?megadeth/99_ways
@@ -315,8 +315,8 @@ https://egax.ru/songs.html?muse/cave
 https://egax.ru/songs.html?muse/falling_down
 https://egax.ru/songs.html?muse/feeling_good
 https://egax.ru/songs.html?muse/fillip
-https://egax.ru/songs.html?muse/hate_this_&_ill_love_you
 https://egax.ru/songs.html?muse/hate_this_and_ill_love_you
+https://egax.ru/songs.html?muse/hate_this_ill_love_you
 https://egax.ru/songs.html?muse/hyper_music
 https://egax.ru/songs.html?muse/map_of_your_head
 https://egax.ru/songs.html?muse/megalomania
@@ -417,7 +417,7 @@ https://egax.ru/songs.html?nightwish/crownless
 https://egax.ru/songs.html?nightwish/dead_boys_poem
 https://egax.ru/songs.html?nightwish/dead_to_the_world
 https://egax.ru/songs.html?nightwish/deep_silent_complete
-https://egax.ru/songs.html?nightwish/devil_&_the_deep_dark_ocean
+https://egax.ru/songs.html?nightwish/devil_the_deep_dark_ocean
 https://egax.ru/songs.html?nightwish/elvenpath
 https://egax.ru/songs.html?nightwish/end_of_all_hope
 https://egax.ru/songs.html?nightwish/ever_dream
@@ -444,7 +444,7 @@ https://egax.ru/songs.html?nightwish/stargazers
 https://egax.ru/songs.html?nightwish/swanheart
 https://egax.ru/songs.html?nightwish/the_carpenter
 https://egax.ru/songs.html?nightwish/the_kinslayer
-https://egax.ru/songs.html?nightwish/the_passion_&_the_opera
+https://egax.ru/songs.html?nightwish/the_passion_the_opera
 https://egax.ru/songs.html?nightwish/the_phantom_of_the_opera
 https://egax.ru/songs.html?nightwish/the_pharaoh_sails_to_orion
 https://egax.ru/songs.html?nightwish/the_riddler
@@ -639,7 +639,7 @@ https://egax.ru/songs.html?oasis/bring_it_on_down
 https://egax.ru/songs.html?oasis/carry_us_all
 https://egax.ru/songs.html?oasis/cast_no_shadow
 https://egax.ru/songs.html?oasis/champagne_supernova
-https://egax.ru/songs.html?oasis/cigarettes_&_alcohol
+https://egax.ru/songs.html?oasis/cigarettes_alcohol
 https://egax.ru/songs.html?oasis/cloudburst
 https://egax.ru/songs.html?oasis/columbia
 https://egax.ru/songs.html?oasis/d_you_wanna_be_a_spaceman
@@ -871,7 +871,7 @@ https://egax.ru/songs.html?offspring/killboy_powerhead
 https://egax.ru/songs.html?offspring/l_a_p_d
 https://egax.ru/songs.html?offspring/leave_it_behind
 https://egax.ru/songs.html?offspring/living_in_chaos
-https://egax.ru/songs.html?offspring/me_&_my_old_lady
+https://egax.ru/songs.html?offspring/me_my_old_lady
 https://egax.ru/songs.html?offspring/million_miles_away
 https://egax.ru/songs.html?offspring/mota
 https://egax.ru/songs.html?offspring/nitro_youth_energy

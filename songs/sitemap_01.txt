@@ -248,7 +248,7 @@ https://egax.ru/songs.html?acid_bath/scream_of_the_butterfly
 https://egax.ru/songs.html?ackerman_will
 https://egax.ru/songs.html?ackerman_will/barbaras_song
 https://egax.ru/songs.html?ackerman_will/murrays_song
-https://egax.ru/songs.html?ackerman_will/santos_&_the_well_traveled_bear
+https://egax.ru/songs.html?ackerman_will/santos_the_well_traveled_bear
 https://egax.ru/songs.html?ackerman_will/the_bricklayers_beautiful_daughter
 https://egax.ru/songs.html?ackerman_will/the_impending_death_of_the_virgin_spirit
 https://egax.ru/songs.html?acklin_barbara
@@ -452,7 +452,7 @@ https://egax.ru/songs.html?afi/this_celluloid_dream
 https://egax.ru/songs.html?afi/your_name_here
 https://egax.ru/songs.html?aforafro
 https://egax.ru/songs.html?aforafro/chief_uck
-https://egax.ru/songs.html?aforafro/fly_&_be_a_bird
+https://egax.ru/songs.html?aforafro/fly_be_a_bird
 https://egax.ru/songs.html?after_crying
 https://egax.ru/songs.html?after_crying/madrigal_love_part_one
 https://egax.ru/songs.html?afterworld
@@ -823,7 +823,7 @@ https://egax.ru/songs.html?barrett_syd/opel
 https://egax.ru/songs.html?barrett_syd/she_took_a_long_cold_look
 https://egax.ru/songs.html?barrett_syd/swan_lee
 https://egax.ru/songs.html?barrett_syd/terrapin
-https://egax.ru/songs.html?barrett_syd/wined_&_dined
+https://egax.ru/songs.html?barrett_syd/wined_dined
 https://egax.ru/songs.html?barrett_syd/wolfpack
 https://egax.ru/songs.html?barrett_syd/word_song
 https://egax.ru/songs.html?barrios_agustin
@@ -1286,7 +1286,7 @@ https://egax.ru/songs.html?black_eyed_peas/where_is_the_love
 https://egax.ru/songs.html?black_eyed_peas/where_is_the_love_2_variant
 https://egax.ru/songs.html?black_flag
 https://egax.ru/songs.html?black_flag/bastard_in_love
-https://egax.ru/songs.html?black_flag/drinking_&_driving
+https://egax.ru/songs.html?black_flag/drinking_driving
 https://egax.ru/songs.html?black_flag/fix_me
 https://egax.ru/songs.html?black_flag/six_pack
 https://egax.ru/songs.html?black_flag/wasted
@@ -1494,7 +1494,7 @@ https://egax.ru/songs.html?blink_182/i_miss_you
 https://egax.ru/songs.html?blink_182/i_wont_be_home_for_christmass
 https://egax.ru/songs.html?blink_182/im_sorry
 https://egax.ru/songs.html?blink_182/josie
-https://egax.ru/songs.html?blink_182/m&ms
+https://egax.ru/songs.html?blink_182/m_ms
 https://egax.ru/songs.html?blink_182/mothers_day
 https://egax.ru/songs.html?blink_182/mutt
 https://egax.ru/songs.html?blink_182/obviours
@@ -1611,7 +1611,7 @@ https://egax.ru/songs.html?blur/charmless_man
 https://egax.ru/songs.html?blur/chemical_world
 https://egax.ru/songs.html?blur/chinese_bombs
 https://egax.ru/songs.html?blur/clover_over_dover
-https://egax.ru/songs.html?blur/coffee_&_tv
+https://egax.ru/songs.html?blur/coffee_tv
 https://egax.ru/songs.html?blur/colin_zeal
 https://egax.ru/songs.html?blur/come_together
 https://egax.ru/songs.html?blur/coping
@@ -1693,9 +1693,9 @@ https://egax.ru/songs.html?blur/ultranol
 https://egax.ru/songs.html?blur/villa_rosie
 https://egax.ru/songs.html?blur/wear_me_down
 https://egax.ru/songs.html?blur/weve_got_a_file_on_you
-https://egax.ru/songs.html?blur/young_&_lovely
+https://egax.ru/songs.html?blur/young_lovely
 https://egax.ru/songs.html?blur/youre_so_great
-https://egax.ru/songs.html?blur/yuko_&_hiro
+https://egax.ru/songs.html?blur/yuko_hiro
 https://egax.ru/songs.html?bob_dylan
 https://egax.ru/songs.html?bob_dylan/115th_dream
 https://egax.ru/songs.html?bob_dylan/a_hard_rains_a_gonna_fall
@@ -2137,8 +2137,8 @@ https://egax.ru/songs.html?chuck_berry/no_money_down
 https://egax.ru/songs.html?chuck_berry/no_particular_place_to_go
 https://egax.ru/songs.html?chuck_berry/no_particular_place_to_go_2_variant
 https://egax.ru/songs.html?chuck_berry/no_particular_place_to_go_3_variant
-https://egax.ru/songs.html?chuck_berry/rock_&_roll_music
 https://egax.ru/songs.html?chuck_berry/rock_n_roll_music
+https://egax.ru/songs.html?chuck_berry/rock_roll_music
 https://egax.ru/songs.html?chuck_berry/roll_over_beethoven
 https://egax.ru/songs.html?chuck_berry/roll_over_beethoven_2_variant
 https://egax.ru/songs.html?chuck_berry/roll_over_beethoven_3_variant
