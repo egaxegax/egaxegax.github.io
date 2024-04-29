@@ -172,6 +172,7 @@ def main(path='.'):
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
   if murls:
     io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(['\n'.join(sorted(u)) for u in murls]))
+  if len(murls) > 1:
     for i, u in enumerate(murls):
       io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
   time.sleep(1)
