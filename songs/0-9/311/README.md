@@ -24,7 +24,7 @@
 * [Running](Running.md)
 * [Star Shines](Star%20Shines.md)
 * [Sweet](Sweet.md)
-* [T&P Combo](T&P%20Combo.md)
+* [T'n'P Combo](T'n'P%20Combo.md)
 * [The Continuous Life](The%20Continuous%20Life.md)
 * [Transistor](Transistor.md)
 * [Tune In](Tune%20In.md)
