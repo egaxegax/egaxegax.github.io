@@ -11,8 +11,8 @@ https://egax.ru/songs.html?rada_i_ternovnik/snejnoj_korolevy_skazki
 https://egax.ru/songs.html?rada_i_ternovnik/son
 https://egax.ru/songs.html?rada_i_ternovnik/zdes_prostye_tihie_pesni
 https://egax.ru/songs.html?rahmaninov_sergej_vasilevich
-https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/preljudiya_v_s#m_or_3_№2
-https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/rapsodiya_na_temu_paganini_or_43_-_variaciya_№18
+https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/preljudiya_v_s#m_or_3_2
+https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/rapsodiya_na_temu_paganini_or_43_-_variaciya_18
 https://egax.ru/songs.html?raketobil
 https://egax.ru/songs.html?raketobil/kogda
 https://egax.ru/songs.html?raketobil/uje
@@ -284,7 +284,7 @@ https://egax.ru/songs.html?raznye_ljudi/potom
 https://egax.ru/songs.html?raznye_ljudi/pravda
 https://egax.ru/songs.html?raznye_ljudi/predposlednyaya_politika
 https://egax.ru/songs.html?raznye_ljudi/pro_slonov
-https://egax.ru/songs.html?raznye_ljudi/prohodchik_shahty_№6
+https://egax.ru/songs.html?raznye_ljudi/prohodchik_shahty_6
 https://egax.ru/songs.html?raznye_ljudi/prostebalsya
 https://egax.ru/songs.html?raznye_ljudi/prosti
 https://egax.ru/songs.html?raznye_ljudi/ptica_volnaya_prishel_s_vojny
@@ -2611,7 +2611,7 @@ https://egax.ru/songs.html?tochka_rosy/konvoj
 https://egax.ru/songs.html?tochka_rosy/mesyac_maj
 https://egax.ru/songs.html?tochka_rosy/ovpag
 https://egax.ru/songs.html?tochka_rosy/plyla
-https://egax.ru/songs.html?tochka_rosy/poezd_№36
+https://egax.ru/songs.html?tochka_rosy/poezd_36
 https://egax.ru/songs.html?tochka_rosy/s_klena_opavshee_leto
 https://egax.ru/songs.html?tochka_rosy/sirtaki
 https://egax.ru/songs.html?tochka_rosy/tango

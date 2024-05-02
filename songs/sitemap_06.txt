@@ -84,7 +84,7 @@ https://egax.ru/songs.html?chajf/pismo
 https://egax.ru/songs.html?chajf/pivo
 https://egax.ru/songs.html?chajf/po-drugomu_ne_projit_psy
 https://egax.ru/songs.html?chajf/poplach_o_nem
-https://egax.ru/songs.html?chajf/prigorodnyj_bljuz_№3
+https://egax.ru/songs.html?chajf/prigorodnyj_bljuz_3
 https://egax.ru/songs.html?chajf/psy_s_gorodskih_okrain
 https://egax.ru/songs.html?chajf/pust_tebe_ppisnitsya
 https://egax.ru/songs.html?chajf/pust_vse_budet_tak_kak_ty_zahochesh
@@ -138,10 +138,10 @@ https://egax.ru/songs.html?chajf/zimnee_more
 https://egax.ru/songs.html?chajf/zinaida
 https://egax.ru/songs.html?chajkovskij_petr_ilich
 https://egax.ru/songs.html?chajkovskij_petr_ilich/lebedinoe_ozero_or_20
-https://egax.ru/songs.html?chajkovskij_petr_ilich/opera_№20
+https://egax.ru/songs.html?chajkovskij_petr_ilich/opera_20
 https://egax.ru/songs.html?chajkovskij_petr_ilich/shchelkunchik_tanec_fei_draje_or_71
 https://egax.ru/songs.html?chajkovskij_petr_ilich/shchelkunchik_vals_cvetov_or_71
-https://egax.ru/songs.html?chajkovskij_petr_ilich/simfoniya_№5_v_em_glavnaya_tema_or_64
+https://egax.ru/songs.html?chajkovskij_petr_ilich/simfoniya_5_v_em_glavnaya_tema_or_64
 https://egax.ru/songs.html?cheboza
 https://egax.ru/songs.html?cheboza/odinochestvo
 https://egax.ru/songs.html?cheboza/tinto_brass
@@ -347,8 +347,8 @@ https://egax.ru/songs.html?chij_i_ko/dobroe_utro
 https://egax.ru/songs.html?chij_i_ko/domoj
 https://egax.ru/songs.html?chij_i_ko/dopolnitelnyj_38-j
 https://egax.ru/songs.html?chij_i_ko/dorogusha
+https://egax.ru/songs.html?chij_i_ko/dorojnaya_2
 https://egax.ru/songs.html?chij_i_ko/dorojnaya_nomer_2
-https://egax.ru/songs.html?chij_i_ko/dorojnaya_№2
 https://egax.ru/songs.html?chij_i_ko/dver_v_leto
 https://egax.ru/songs.html?chij_i_ko/dver_v_leto_-_2
 https://egax.ru/songs.html?chij_i_ko/dver_v_leto_2

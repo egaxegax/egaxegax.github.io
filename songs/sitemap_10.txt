@@ -549,13 +549,13 @@ https://egax.ru/songs.html?zimove_zverej/zimnyaya_muha
 https://egax.ru/songs.html?zinchuk_viktor
 https://egax.ru/songs.html?zinchuk_viktor/el_condor_pasa_polet_orla
 https://egax.ru/songs.html?zinchuk_viktor/iz_notnoj_tetradi_magdaleny_bah
-https://egax.ru/songs.html?zinchuk_viktor/kapris_№24
+https://egax.ru/songs.html?zinchuk_viktor/kapris_24
 https://egax.ru/songs.html?zinchuk_viktor/krestnyj_otec
 https://egax.ru/songs.html?zinchuk_viktor/lolita
 https://egax.ru/songs.html?zinchuk_viktor/mapsh_iz_opepy_aida
 https://egax.ru/songs.html?zinchuk_viktor/marsh_iz_opery_aida
-https://egax.ru/songs.html?zinchuk_viktor/mix_№1
-https://egax.ru/songs.html?zinchuk_viktor/mix№1
+https://egax.ru/songs.html?zinchuk_viktor/mix_1
+https://egax.ru/songs.html?zinchuk_viktor/mix_1
 https://egax.ru/songs.html?zinchuk_viktor/polet_kondora
 https://egax.ru/songs.html?zinchuk_viktor/polet_shmelya
 https://egax.ru/songs.html?zinchuk_viktor/pridorojnoe_kafe
@@ -582,8 +582,8 @@ https://egax.ru/songs.html?zoopark/blatnaya_pesnya_posvyashchaetsya_arkadiju_sev
 https://egax.ru/songs.html?zoopark/bljuz_dlya_majka
 https://egax.ru/songs.html?zoopark/bljuz_subbotnego_vechera
 https://egax.ru/songs.html?zoopark/bljuz_tvoej_reki
-https://egax.ru/songs.html?zoopark/blues_de_moscou_№1
-https://egax.ru/songs.html?zoopark/blues_de_moscou_№2
+https://egax.ru/songs.html?zoopark/blues_de_moscou_1
+https://egax.ru/songs.html?zoopark/blues_de_moscou_2
 https://egax.ru/songs.html?zoopark/blues_de_moscow
 https://egax.ru/songs.html?zoopark/blues_de_moscow_chast_2
 https://egax.ru/songs.html?zoopark/bugi-vugi_kajdyj_den
@@ -599,8 +599,8 @@ https://egax.ru/songs.html?zoopark/gopniki
 https://egax.ru/songs.html?zoopark/gopniki_2_variant
 https://egax.ru/songs.html?zoopark/gorkij_angel
 https://egax.ru/songs.html?zoopark/gost
+https://egax.ru/songs.html?zoopark/hit_1_ya_milogo_uznaju_po_pohodke_
 https://egax.ru/songs.html?zoopark/hit_nomer_odin
-https://egax.ru/songs.html?zoopark/hit_№1_ya_milogo_uznaju_po_pohodke_
 https://egax.ru/songs.html?zoopark/hojdeniya
 https://egax.ru/songs.html?zoopark/illjuzii
 https://egax.ru/songs.html?zoopark/jenshchina
@@ -638,8 +638,8 @@ https://egax.ru/songs.html?zoopark/ppigopodnyj_bljuz
 https://egax.ru/songs.html?zoopark/pravo_na_rok
 https://egax.ru/songs.html?zoopark/prigorodnyj_bljuz
 https://egax.ru/songs.html?zoopark/prigorodnyj_bljuz_2
+https://egax.ru/songs.html?zoopark/prigorodnyj_bljuz_2
 https://egax.ru/songs.html?zoopark/prigorodnyj_bljuz_2_variant
-https://egax.ru/songs.html?zoopark/prigorodnyj_bljuz_№2
 https://egax.ru/songs.html?zoopark/proshchaj_detka
 https://egax.ru/songs.html?zoopark/proshchaj_detka_2_variant
 https://egax.ru/songs.html?zoopark/pudel

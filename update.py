@@ -33,7 +33,7 @@ def TR(t):
   }
   tr = []
   t = re.sub(r'[\'"«»`\(\)%]+','',t)
-  t = re.sub(r'[\s\.,&]+','_',t)
+  t = re.sub(r'[\s\.,&№]+','_',t)
   for s in t:
     tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
   return ''.join(tr).lower()

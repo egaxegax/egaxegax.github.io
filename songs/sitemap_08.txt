@@ -934,8 +934,8 @@ https://egax.ru/songs.html?rem/king_of_the_road
 https://egax.ru/songs.html?rem/man_on_the_moon
 https://egax.ru/songs.html?rem/mandolin_strum
 https://egax.ru/songs.html?rem/moon_river
-https://egax.ru/songs.html?rem/new_orleans_instrumental_№1
-https://egax.ru/songs.html?rem/new_orleans_instrumental_№2
+https://egax.ru/songs.html?rem/new_orleans_instrumental_1
+https://egax.ru/songs.html?rem/new_orleans_instrumental_2
 https://egax.ru/songs.html?rem/organ_song
 https://egax.ru/songs.html?rem/out_of_time_instrumental_1
 https://egax.ru/songs.html?rem/out_of_time_instrumental_2

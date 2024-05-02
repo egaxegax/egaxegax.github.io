@@ -300,7 +300,7 @@ https://egax.ru/songs.html?delfin/romans
 https://egax.ru/songs.html?delfin/sahar
 https://egax.ru/songs.html?delfin/serebro
 https://egax.ru/songs.html?delfin/shtempel
-https://egax.ru/songs.html?delfin/sinyaya_lirika_№1
+https://egax.ru/songs.html?delfin/sinyaya_lirika_1
 https://egax.ru/songs.html?delfin/sobachij_boj
 https://egax.ru/songs.html?delfin/transpechal
 https://egax.ru/songs.html?delfin/vera
@@ -565,7 +565,7 @@ https://egax.ru/songs.html?drkin_venya/pisma
 https://egax.ru/songs.html?drkin_venya/pohmelyayas_
 https://egax.ru/songs.html?drkin_venya/polchasa_do_vesny_besimsya
 https://egax.ru/songs.html?drkin_venya/pritelogreesh_ty_menya_
-https://egax.ru/songs.html?drkin_venya/pro_ljubov_№_3
+https://egax.ru/songs.html?drkin_venya/pro_ljubov_3
 https://egax.ru/songs.html?drkin_venya/pro_nego
 https://egax.ru/songs.html?drkin_venya/pro_sovetskuju_miliciju
 https://egax.ru/songs.html?drkin_venya/pro_tora
@@ -842,7 +842,7 @@ https://egax.ru/songs.html?gejnc_i_danilov/vse_ischezlo_bessledno
 https://egax.ru/songs.html?gejnc_i_danilov/vtoroe_otrechenie_galileo_galileya
 https://egax.ru/songs.html?gejnc_i_danilov/zabudte_o_svodkah
 https://egax.ru/songs.html?gendel_georg_fridrih
-https://egax.ru/songs.html?gendel_georg_fridrih/air_of_bass_iz_messii_№311
+https://egax.ru/songs.html?gendel_georg_fridrih/air_of_bass_iz_messii_311
 https://egax.ru/songs.html?gendel_georg_fridrih/burre
 https://egax.ru/songs.html?gendel_georg_fridrih/largo_iz_arii_opera_kserks
 https://egax.ru/songs.html?gendel_georg_fridrih/minuet_v_d_iz_vodnoj_muzykalnoj_sjuity
@@ -1560,7 +1560,7 @@ https://egax.ru/songs.html?grebenshchikov_boris/sestra
 https://egax.ru/songs.html?grebenshchikov_boris/sidya_na_krasivom_holme
 https://egax.ru/songs.html?grebenshchikov_boris/stuchatsya_v_dveri_travy
 https://egax.ru/songs.html?grig_edvard
-https://egax.ru/songs.html?grig_edvard/babushkin_minuet_-_liricheskaya_pesa_op_68_№2
+https://egax.ru/songs.html?grig_edvard/babushkin_minuet_-_liricheskaya_pesa_op_68_2
 https://egax.ru/songs.html?grig_edvard/v_peshchere_gornogo_korolya
 https://egax.ru/songs.html?grin_grej
 https://egax.ru/songs.html?grin_grej/emigrant
