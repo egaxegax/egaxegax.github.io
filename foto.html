@@ -102,7 +102,7 @@
   upfunc({url: buildURL('foto')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 2,                  // blocks 1 page
+      per: 1,                  // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.FOTOS = TITLES;
