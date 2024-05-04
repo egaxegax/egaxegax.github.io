@@ -14,7 +14,7 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #header { background-color:#d2e0f0; }
 #page_footer button { background:#3fa969; color:#fff; }
 /**/
-#page_content { min-height:420px; }
+#msgfooter { text-align: left; }
 img.foto { max-width:100%; max-height:400px; border-radius:4px; }
 /*ads*/
 .mh_sm { max-height:100px; }
