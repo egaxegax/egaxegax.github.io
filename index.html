@@ -97,16 +97,16 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="msg'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
-        addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
-      }
       upfunc({id: 'msg'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addMsg(r,p);
       });
+      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
+        addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
+      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
