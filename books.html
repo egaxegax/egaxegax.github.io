@@ -137,9 +137,8 @@
       });
     }
     if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = 
-        addPaginator(books, page,
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+      document.getElementById('page_footer').innerHTML = addPaginator(books, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 500);

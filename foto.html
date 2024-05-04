@@ -90,9 +90,8 @@
         fullurl: buildURL('foto')+'/'+root+'/'+subj+'/'+title+'.jpg'});
     }
     if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = 
-        addPaginator(fotos, page,
-      '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
+      document.getElementById('page_footer').innerHTML = addPaginator(fotos, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 300);
