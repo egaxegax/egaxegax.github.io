@@ -12,7 +12,7 @@
   *First the chords:*  
   *The main chordal riff in 4/4:*  
   *1   2       3     4|1  2  3  4*  
-  ***C   A# C D# A#  C  |F   F#   G***  
+  ***C   A# C D# A#  C  F   F#   G***  
   *Alternate used before vox:*  
   *1   2       3     4  1  2    3 4*  
   ***C   A# C D# F   G***   [|13---14---15-|]  
@@ -78,14 +78,14 @@
   |------------------------------------| ...for this is the Solo from Hell :)  
   |------------------------------------|------------------------------------|  
   ...And speaking of hell, here are the inhumanly fast parts...  
-  *Fast1**  
+  *Fast1*  
   |--------------------------------------------3-|  
   |------------------------/tri-------3---3-6---|  
   |----------------3---3-5-3-5-3---3-5---5-------|  
   |--------3---3-5---5-----------5---------------|  
   |--1-3-5---5-----------------------------------|  
   |3---------------------------------------------|  
-  **The rhythm is correct so if you play the triplet at the indicated time*  
+  *The rhythm is correct so if you play the triplet at the indicated time*  
     *(and allow 1 note length) you should be dead on.*  
      *The notes themselves are pretty close but open to interpretation...*  
   *Fast2***  
@@ -95,7 +95,7 @@
   |--------3---3-5---5-----------5-------------------------3-0-|  
   |--1-3-5---5-------------------------------------------------|  
   |3-----------------------------------------------------------|  
-  ***Same as * except last 7 notes are definitely correct*  
+  *Same as * except last 7 notes are definitely correct*  
   *Fast3*  
   |------------------------------------------|  
   |------------------------------------------|  

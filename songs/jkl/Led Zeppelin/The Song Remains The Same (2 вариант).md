@@ -19,7 +19,7 @@ D|-----------------------------|
 A|-----------------------------|  
 E|-----------------------------|  
   
-**1**  
+*1*  
 (12 string)  
 E|--0-0-0---2-2-2--|  
 B|--3-3-3---3-3-3--|  
@@ -28,7 +28,7 @@ D|--2-2-2---2-2-2--|x3
 A|--0-0-0---0-0-0--|  
 E|-----------------|  
   
-**2**  
+*2*  
 E|--2-2-2--2-2--3-3-3--2-0--|  
 B|--3-3-3--3-3--3-3-3--3-3--|  
 G|--2-2-2--2-2--2-2-2--2-2--|  
@@ -42,17 +42,17 @@ G|------2----2-----0----0--2---------------------0-|
 D|-------------------------------------------------|  
 A|-------------------------------------------------|  
 E|-------------------------------------------------|  
-(let all notes ring) [end of **2**]  
+(let all notes ring) [end of *2*]  
   
-Guitar 1 goes to **1**  
+Guitar 1 goes to *1*  
   
 then  
   
-**3**  
+*3*  
 (guitar 1 (12 string))  
 E|----------2--|  
 B|----------3--|  
-G|----------0--| ***--\  
+G|----------0--| --\  
 D|----------2--|     \  
 A|----------0--|      \  
 E|-------------|       |  
@@ -63,12 +63,12 @@ G|-----------2-|     /
 D|-----------2-| <--/  
 A|-----------0-|  
 E|--2b3-2b3--0-|  
-[end of **3**]  
-then guitar 1 does **2** (finger pick notes of chords  
+[end of *3*]  
+then guitar 1 does *2* (finger pick notes of chords  
 separately) while guitar 2 solos (the solo isn`t too difficult  
 to figure out if ya listen to the tape..)  
   
-**4**  
+*4*  
 (guit. 1)  
 E|-5-7-8--8--8----|-5-7--8-7--8-|  
 B|-6-8-10-10-10---|-6-8-10-9-10-|  
@@ -88,8 +88,9 @@ B|-------------------------------------|
 G|-5-4-2---2--5-4-2--0-----------------|  
 D|-------3--------------3--2--0--------|  
 A|-------------------------------3-2-0-|  
-[end of **4**]  
-==  
+  
+end of *4*  
+  
 (verse) (guit. 1)  
 chords: C C G(6) x2 (on G chord play the high `E` open rather  
 than 3rd fret) (guit. 2) (the little figure he plays between  
@@ -111,7 +112,7 @@ D:
 (guit. 1)  
 chord: G  
 (while the `G` is ringing guit. 2 plays:  
-    (guit.1 2nd verse)--*** C        C         G  
+    (guit.1 2nd verse)-- C        C         G  
 B|--10b12r10-8-10-8------8-------------8----------------|  
 G|------------------------------7-------------7---------|  
 D|-------------------8-9----8-9----8-9----8-9----8-9----|  
@@ -134,12 +135,12 @@ B|--------------|
 G|--------------|  
 D|-12-11-10-9-7-|  
   
-as guit.2 plays the `7` guit.1 begins **1** again.  
-then both guitars do **3**  
-then guit.1 does **2** (as written) while guit.2 solos.  
-then guit.1 does **1**  
-then guitars 1 and 2 do **3** and guit.3 solos  
-then vocals come back in and guit.1 plays **2** (play notes of  
+as guit.2 plays the `7` guit.1 begins *1* again.  
+then both guitars do *3*  
+then guit.1 does *2* (as written) while guit.2 solos.  
+then guit.1 does *1*  
+then guitars 1 and 2 do *3* and guit.3 solos  
+then vocals come back in and guit.1 plays *2* (play notes of  
 chord separately again)  
   
 (guit. 1)  
@@ -210,10 +211,10 @@ D|--5-5-5--4-4-4--2--2-2-2----------0-0-0-|
 A|--3-3-3--2-2-2--0--0-0-0---5-5-4--2-2-2-|  
 E|---------------------------3-3-2--0-0-0-|  
   
-then guit.1 does **1** while guit.3 solos  
-then guitars 1 and 2 do **3** while guit.3 solos  
-then guit.1 does **2** while guit.3 solos  
-then guit.1 plays **1** while guit.3 plays this:  
+then guit.1 does *1* while guit.3 solos  
+then guitars 1 and 2 do *3* while guit.3 solos  
+then guit.1 does *2* while guit.3 solos  
+then guit.1 plays *1* while guit.3 plays this:  
 E|-----------------------|  
 B|-----------------------|  
 G|----------------2------|  
@@ -221,7 +222,7 @@ D|-----------2-4-----4-2-|
 A|--0-0--3-4-------------|  
 E|-----------------------|  
 guit.3 continues to play that lick and guitars 1 and 2 play  
-**3**  
+*3*  
   
-then vocals return and guit.1 plays **2** (notes of chord  
-broken) then **4** is played
+then vocals return and guit.1 plays *2* (notes of chord  
+broken) then *4* is played
