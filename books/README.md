@@ -29,6 +29,7 @@
 * [foreign_detective](foreign_detective)
 * [foreign_fantasy](foreign_fantasy)
 * [foreign_love](foreign_love)
+* [foreign_sf](foreign_sf)
 * [home_cooking](home_cooking)
 * [home_crafts](home_crafts)
 * [home_diy](home_diy)
