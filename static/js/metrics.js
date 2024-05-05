@@ -67,7 +67,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       (new IntersectionObserver(function(es){ 
         es.forEach((e)=>{
           if(e.isIntersecting){
-            while(!el.innerHTML) setTimeout( ()=>{ window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});} );
+            setTimeout( ()=>{ window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});} );
           }
         });
       }, {threshold:0.8}).observe(el));
