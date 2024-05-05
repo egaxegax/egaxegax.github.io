@@ -66,7 +66,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
       (new IntersectionObserver(function(es){ 
         es.forEach((e)=>{
-          if(e.isIntersecting){ window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});}); }
+          if(e.isIntersecting) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});
         });
       }, {threshold:0.8}).observe(document.getElementById('yandex_rtb_'+blid)));
     }};
