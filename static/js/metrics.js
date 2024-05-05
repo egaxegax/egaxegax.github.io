@@ -60,7 +60,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
-  window.YA_RTB = {1:3, 2:4, 3:9, 4:6, 5:7, 6:8, 7:5, feed:10};
+  window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10};
   window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
