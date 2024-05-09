@@ -510,8 +510,8 @@ https://egax.ru/songs.html?kino/belyj_den
 https://egax.ru/songs.html?kino/bez_desyati
 https://egax.ru/songs.html?kino/bez_desyati_2_variant
 https://egax.ru/songs.html?kino/bezdelnik-2
-https://egax.ru/songs.html?kino/bezdelnik_#1
-https://egax.ru/songs.html?kino/bezdelnik_#2
+https://egax.ru/songs.html?kino/bezdelnik_1
+https://egax.ru/songs.html?kino/bezdelnik_2
 https://egax.ru/songs.html?kino/bezyadernaya_zona
 https://egax.ru/songs.html?kino/bljuz_artemu_troickomu
 https://egax.ru/songs.html?kino/boshetunmaj

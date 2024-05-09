@@ -2116,7 +2116,7 @@ https://egax.ru/songs.html?bachurin_evgenij/nadejda
 https://egax.ru/songs.html?bachurin_evgenij/olen
 https://egax.ru/songs.html?bachurin_evgenij/pervyj_menestrel
 https://egax.ru/songs.html?bah_iogan_sebostyan
-https://egax.ru/songs.html?bah_iogan_sebostyan/2-part_invention_#13_in_a-minor
+https://egax.ru/songs.html?bah_iogan_sebostyan/2-part_invention_13_in_a-minor
 https://egax.ru/songs.html?bah_iogan_sebostyan/aria
 https://egax.ru/songs.html?bah_iogan_sebostyan/ariya_v_e_iz_tetradi_anny_magdoleny_bah
 https://egax.ru/songs.html?bah_iogan_sebostyan/bourree
@@ -2127,7 +2127,7 @@ https://egax.ru/songs.html?bah_iogan_sebostyan/fugue_in_e_minor
 https://egax.ru/songs.html?bah_iogan_sebostyan/gavot_v_forme_rondo_iz_6-oj_sjuity_dlya
 https://egax.ru/songs.html?bah_iogan_sebostyan/gavot_v_forme_rondo_iz_6-oj_sjuity_dlya_skripki
 https://egax.ru/songs.html?bah_iogan_sebostyan/gigue_from_the_lute_suite
-https://egax.ru/songs.html?bah_iogan_sebostyan/gigue_partita_#2
+https://egax.ru/songs.html?bah_iogan_sebostyan/gigue_partita_2
 https://egax.ru/songs.html?bah_iogan_sebostyan/jesu_joy_of_mans_desiring
 https://egax.ru/songs.html?bah_iogan_sebostyan/minuet
 https://egax.ru/songs.html?bah_iogan_sebostyan/minuet_iz_4-oj_sjuity_v_e
@@ -2920,7 +2920,7 @@ https://egax.ru/songs.html?brams_iogannes
 https://egax.ru/songs.html?brams_iogannes/kolybelnaya_or_49_4
 https://egax.ru/songs.html?brams_iogannes/vals_v_ab_kolybelnaya_or_39_15
 https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5
-https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5_v_f#m
+https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5_v_f_m
 https://egax.ru/songs.html?bratya_grim
 https://egax.ru/songs.html?bratya_grim/aeroplan
 https://egax.ru/songs.html?bratya_grim/baraban

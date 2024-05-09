@@ -2116,7 +2116,7 @@ https://egax.ru/songs.html?bachurin_evgenij/nadejda
 https://egax.ru/songs.html?bachurin_evgenij/olen
 https://egax.ru/songs.html?bachurin_evgenij/pervyj_menestrel
 https://egax.ru/songs.html?bah_iogan_sebostyan
-https://egax.ru/songs.html?bah_iogan_sebostyan/2-part_invention_#13_in_a-minor
+https://egax.ru/songs.html?bah_iogan_sebostyan/2-part_invention_13_in_a-minor
 https://egax.ru/songs.html?bah_iogan_sebostyan/aria
 https://egax.ru/songs.html?bah_iogan_sebostyan/ariya_v_e_iz_tetradi_anny_magdoleny_bah
 https://egax.ru/songs.html?bah_iogan_sebostyan/bourree
@@ -2127,7 +2127,7 @@ https://egax.ru/songs.html?bah_iogan_sebostyan/fugue_in_e_minor
 https://egax.ru/songs.html?bah_iogan_sebostyan/gavot_v_forme_rondo_iz_6-oj_sjuity_dlya
 https://egax.ru/songs.html?bah_iogan_sebostyan/gavot_v_forme_rondo_iz_6-oj_sjuity_dlya_skripki
 https://egax.ru/songs.html?bah_iogan_sebostyan/gigue_from_the_lute_suite
-https://egax.ru/songs.html?bah_iogan_sebostyan/gigue_partita_#2
+https://egax.ru/songs.html?bah_iogan_sebostyan/gigue_partita_2
 https://egax.ru/songs.html?bah_iogan_sebostyan/jesu_joy_of_mans_desiring
 https://egax.ru/songs.html?bah_iogan_sebostyan/minuet
 https://egax.ru/songs.html?bah_iogan_sebostyan/minuet_iz_4-oj_sjuity_v_e
@@ -2920,7 +2920,7 @@ https://egax.ru/songs.html?brams_iogannes
 https://egax.ru/songs.html?brams_iogannes/kolybelnaya_or_49_4
 https://egax.ru/songs.html?brams_iogannes/vals_v_ab_kolybelnaya_or_39_15
 https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5
-https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5_v_f#m
+https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5_v_f_m
 https://egax.ru/songs.html?bratya_grim
 https://egax.ru/songs.html?bratya_grim/aeroplan
 https://egax.ru/songs.html?bratya_grim/baraban
@@ -5047,8 +5047,8 @@ https://egax.ru/songs.html?baccini_francesco/sotto_questo_sole
 https://egax.ru/songs.html?bach_johann_sebastian
 https://egax.ru/songs.html?bach_johann_sebastian/brandenburg_concerto_no_5_in_d_major
 https://egax.ru/songs.html?bach_johann_sebastian/bvw_997_prelude
-https://egax.ru/songs.html?bach_johann_sebastian/bwv_1006a_suite_#4_minuet
-https://egax.ru/songs.html?bach_johann_sebastian/gigue_partita_#2
+https://egax.ru/songs.html?bach_johann_sebastian/bwv_1006a_suite_4_minuet
+https://egax.ru/songs.html?bach_johann_sebastian/gigue_partita_2
 https://egax.ru/songs.html?bach_johann_sebastian/jesu_joy_of_mans_desiring_in_gmaj
 https://egax.ru/songs.html?bach_johann_sebastian/minuet
 https://egax.ru/songs.html?bach_johann_sebastian/orchestral_suite_no_3_in_d_major
@@ -5502,7 +5502,7 @@ https://egax.ru/songs.html?belly/dusted
 https://egax.ru/songs.html?belly/feed_the_tree
 https://egax.ru/songs.html?belly/full_moon
 https://egax.ru/songs.html?belly/gepetto
-https://egax.ru/songs.html?belly/hot_burrito_#1
+https://egax.ru/songs.html?belly/hot_burrito_1
 https://egax.ru/songs.html?belly/judas_my_heart
 https://egax.ru/songs.html?belly/king
 https://egax.ru/songs.html?belly/red
@@ -10057,8 +10057,8 @@ https://egax.ru/songs.html?kino/belyj_den
 https://egax.ru/songs.html?kino/bez_desyati
 https://egax.ru/songs.html?kino/bez_desyati_2_variant
 https://egax.ru/songs.html?kino/bezdelnik-2
-https://egax.ru/songs.html?kino/bezdelnik_#1
-https://egax.ru/songs.html?kino/bezdelnik_#2
+https://egax.ru/songs.html?kino/bezdelnik_1
+https://egax.ru/songs.html?kino/bezdelnik_2
 https://egax.ru/songs.html?kino/bezyadernaya_zona
 https://egax.ru/songs.html?kino/bljuz_artemu_troickomu
 https://egax.ru/songs.html?kino/boshetunmaj
@@ -16458,7 +16458,7 @@ https://egax.ru/songs.html?pesni_strojotryadov/carevna_nesmeyana
 https://egax.ru/songs.html?pesni_strojotryadov/chajnik
 https://egax.ru/songs.html?pesni_strojotryadov/chto_so_mnoj_proishodit_-_ne_znaju
 https://egax.ru/songs.html?pesni_strojotryadov/detstvo
-https://egax.ru/songs.html?pesni_strojotryadov/dnem_-_svet_nochju_–_mrak_
+https://egax.ru/songs.html?pesni_strojotryadov/dnem_-_svet_nochju_mrak_
 https://egax.ru/songs.html?pesni_strojotryadov/esaul
 https://egax.ru/songs.html?pesni_strojotryadov/esli_dojd_
 https://egax.ru/songs.html?pesni_strojotryadov/festivalnaya
@@ -18549,7 +18549,7 @@ https://egax.ru/songs.html?rada_i_ternovnik/snejnoj_korolevy_skazki
 https://egax.ru/songs.html?rada_i_ternovnik/son
 https://egax.ru/songs.html?rada_i_ternovnik/zdes_prostye_tihie_pesni
 https://egax.ru/songs.html?rahmaninov_sergej_vasilevich
-https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/preljudiya_v_s#m_or_3_2
+https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/preljudiya_v_s_m_or_3_2
 https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/rapsodiya_na_temu_paganini_or_43_-_variaciya_18
 https://egax.ru/songs.html?raketobil
 https://egax.ru/songs.html?raketobil/kogda
@@ -25234,8 +25234,8 @@ https://egax.ru/songs.html?lumen/nu_i_pust
 https://egax.ru/songs.html?lumen/odnoj_krovi
 https://egax.ru/songs.html?lumen/otvalite
 https://egax.ru/songs.html?lumen/protest
+https://egax.ru/songs.html?lumen/s_4
 https://egax.ru/songs.html?lumen/s_nebes_na_zemlju
-https://egax.ru/songs.html?lumen/s_–_4
 https://egax.ru/songs.html?lumen/samyj_glavnyj_chelovek
 https://egax.ru/songs.html?lumen/sestrenka
 https://egax.ru/songs.html?lumen/sid_i_nensi
@@ -25588,7 +25588,7 @@ https://egax.ru/songs.html?helavisa/gospodin_gornyh_dorog
 https://egax.ru/songs.html?helavisa/grethen_za_pryalkoj
 https://egax.ru/songs.html?helavisa/he_mourns_for_the_change_
 https://egax.ru/songs.html?helavisa/i_am_of_ireland
-https://egax.ru/songs.html?helavisa/irlandskaya_melodiya_#81
+https://egax.ru/songs.html?helavisa/irlandskaya_melodiya_81
 https://egax.ru/songs.html?helavisa/ker-is
 https://egax.ru/songs.html?helavisa/knyaje
 https://egax.ru/songs.html?helavisa/korolevna
