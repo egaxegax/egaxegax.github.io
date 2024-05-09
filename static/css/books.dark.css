@@ -15,5 +15,4 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_footer button { background:#fff; }
 /**/
 .about img { max-width:120px; padding:0px 10px 0px 0px; }
-.av div { min-width:40px; min-height:40px; }
 .av img { width:100%; height:auto; }
