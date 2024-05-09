@@ -87,7 +87,7 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-    if(window.addYaRTB_Block && iinit) addYaRTB_Block('hd', false, YA_RTB[1]);
+//    if(window.addYaRTB_Block && iinit) addYaRTB_Block('hd', false, YA_RTB[1]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
@@ -95,6 +95,11 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
+      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
+        addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
+      }
       document.getElementById('page_content').innerHTML += 
     '<div id="msg'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'msg'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
@@ -102,11 +107,6 @@
         wrap.className = 'wrap';
         addMsg(r,p);
       });
-      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
-        addYaRTB_Block((i+page.bottom), false, YA_RTB[1]);
-      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
