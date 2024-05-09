@@ -113,7 +113,7 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-    if(window.addYaRTB_Block && iinit && page.view == 'post') addYaRTB_Block('hd', false, YA_RTB[2]);
+//    if(window.addYaRTB_Block && iinit) addYaRTB_Block('hd', false, YA_RTB[2]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = posts.slice(page.bottom, page.top);
@@ -121,11 +121,6 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
-        addYaRTB_Block((i+page.bottom), true, YA_RTB[2]);
-      }
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
@@ -138,6 +133,11 @@
           (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
         }
       });
+      if(window.addYaRTB_Block && (i==0 || page.titles.length==1)){
+        document.getElementById('page_content').innerHTML += 
+      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
+        addYaRTB_Block((i+page.bottom), true, YA_RTB[2]);
+      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(posts, page,
