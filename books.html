@@ -93,7 +93,7 @@
     '<a class="hspace nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
     '<span class="gray"><i>'+buildDate(p.title[3])+'</i></span>'+
   '</div>';
-    if(window.addYaRTB_Block && (p.i%3==0||!ci)) addYaRTB_Block(p.i, false, YA_RTB[5]);
+    if(window.addYaRTB_Block && (p.i%2==0||!ci)) addYaRTB_Block(p.i, false, YA_RTB[5]);
   }
   
   function addAbout(r,p){
@@ -115,7 +115,7 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-    if(window.addYaRTB_Block && iinit) addYaRTB_Block('hd', false, YA_RTB[5]);
+//    if(window.addYaRTB_Block && iinit) addYaRTB_Block('hd', false, YA_RTB[5]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = books.slice(page.bottom, page.top);
