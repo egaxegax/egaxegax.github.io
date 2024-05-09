@@ -1,3 +1,8 @@
+https://egax.ru/books.html?ajzek_azimov
+https://egax.ru/books.html?ajzek_azimov/ya_robot
+https://egax.ru/books.html?kir_bulychev/ljubimec_sponsory
+https://egax.ru/books.html?kir_bulychev/puteshestvie_alisy
+https://egax.ru/books.html?nik_perumov/cherep_v_nebesah
 https://egax.ru/books.html?ajzek_azimov/akademiya
 https://egax.ru/books.html?ajzek_azimov/akademiya_akademiya_i_imperiya_vtoraya_akademiya
 https://egax.ru/books.html?ajzek_azimov/akademiya_i_imperiya
@@ -86,8 +91,6 @@ https://egax.ru/books.html?jozef_anri_roni-starshij/prishelcy_niotkuda_sbornik
 https://egax.ru/books.html?karel_chapek/biblioteka_sovremennoj_fantastiki_tom_11_karel_chapek
 https://egax.ru/books.html?karel_chapek/fabrika_absoljuta_belaya_bolezn
 https://egax.ru/books.html?karel_chapek/r_u_r_sredstvo_makropulosa_vojna_s_salamandrami_fantasticheskie_rasskazy
-https://egax.ru/books.html?kejt_laumer
-https://egax.ru/books.html?kejt_laumer/fata-morgana_1_fantasticheskie_rasskazy_i_povesti
 https://egax.ru/books.html?kir_bulychev/agent_carya
 https://egax.ru/books.html?kir_bulychev/agent_kf
 https://egax.ru/books.html?kir_bulychev/beregis_kolduna!
@@ -252,11 +255,6 @@ https://egax.ru/books.html?v_pashinin/mir_prikljuchenij_1968_14
 https://egax.ru/books.html?vladimir_leshchenko/idushchie_skvoz_miry
 https://egax.ru/books.html?vyacheslav_vladimirovich_shalygin
 https://egax.ru/books.html?vyacheslav_vladimirovich_shalygin/chernyj_angel
-https://egax.ru/books.html?ajzek_azimov
-https://egax.ru/books.html?ajzek_azimov/ya_robot
-https://egax.ru/books.html?kir_bulychev/ljubimec_sponsory
-https://egax.ru/books.html?kir_bulychev/puteshestvie_alisy
-https://egax.ru/books.html?nik_perumov/cherep_v_nebesah
 https://egax.ru/books.html?ajzek_azimov/chelovek_kotoryj_nikogda_ne_lgal
 https://egax.ru/books.html?djejms_hedli_chejz
 https://egax.ru/books.html?djejms_hedli_chejz/a_chto_je_sluchitsya_so_mnoj
