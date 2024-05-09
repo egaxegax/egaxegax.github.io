@@ -93,7 +93,7 @@
     '<a class="hspace nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
     '<span class="gray"><i>'+buildDate(p.title[3])+'</i></span>'+
   '</div>';
-    if(window.addYaRTB_Block && (p.i==0||!ci)) addYaRTB_Block(p.i, false, YA_RTB[5]);
+    if(window.addYaRTB_Block && (p.if||!ci)) addYaRTB_Block(p.i, false, YA_RTB[5]);
   }
   
   function addAbout(r,p){
@@ -125,7 +125,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'book'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'book'+(i+page.bottom), if: i<2, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
