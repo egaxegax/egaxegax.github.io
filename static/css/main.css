@@ -13,7 +13,7 @@
 .fixed { position:fixed; }
 .grid { display:grid; }
 .table { display:table; border-collapse:collapse; width:100%; }
-.tcell { display:table-cell; height:52px; padding:6px 12px; }
+.tcell { display:table-cell; height:64px; padding-left:12px; }
 .hmarg { margin:0 12px; }
 .bmarg { margin: 0px auto 5px auto; }
 .marg { margin: 0 auto; }
