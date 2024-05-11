@@ -3,7 +3,7 @@
 .rounded { border-radius:50%; }
 .rounded2 { border-radius:2%; }
 .rounded4 { border-radius:4%; }
-.msgtext { min-height:1em; padding:5px 5px; margin:0px; }
+.msgtext { min-height:1em; padding:5px 5px; }
 .msgfooter { padding:0 1px 1px 0; text-align:right; font-size:small; }
 .msgtext dt { padding:5px 0; }
 .collapse { border-collapse: collapse; }
@@ -39,7 +39,7 @@
 .bigger { font-size:150%; }
 .bigger1 { font-size:130%; }
 .bigger2 { font-size:200%; }
-.main { margin:0px auto 0px auto; max-width:900px; }
+.main { margin:0px auto 0px auto; max-width:750px; }
 .loader { border:1px solid #ddd; }
 #root { min-height:100%; }
 #header { text-align:center; width:100%; z-index:999; }
