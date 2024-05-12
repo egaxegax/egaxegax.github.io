@@ -2885,6 +2885,7 @@ https://egax.ru/songs.html?boni_nem/yabloki_na_snegu_2_variant
 https://egax.ru/songs.html?boni_nem/zamok_iz_dojdya
 https://egax.ru/songs.html?boyarskij_mihail
 https://egax.ru/songs.html?boyarskij_mihail/bolshaya_medvedica
+https://egax.ru/songs.html?boyarskij_mihail/chas_do_rassveta
 https://egax.ru/songs.html?boyarskij_mihail/dressirovshchik
 https://egax.ru/songs.html?boyarskij_mihail/dvorik
 https://egax.ru/songs.html?boyarskij_mihail/esli_pridetsya_kogda-nibud
@@ -2912,6 +2913,7 @@ https://egax.ru/songs.html?boyarskij_mihail/spasibo_za_den_spasibo_za_noch_
 https://egax.ru/songs.html?boyarskij_mihail/syadu_v_skoryj_poezd
 https://egax.ru/songs.html?boyarskij_mihail/vse_projdet
 https://egax.ru/songs.html?boyarskij_mihail/vse_projdet_2_variant
+https://egax.ru/songs.html?boyarskij_mihail/za_udachej_speshim
 https://egax.ru/songs.html?boyarskij_mihail/zelenoglazoe_taksi
 https://egax.ru/songs.html?boyarskij_mihail/zelenoglazoe_taksi_2_variant
 https://egax.ru/songs.html?boyarskij_mihail/zelenoglazoe_taksi_3_variant
