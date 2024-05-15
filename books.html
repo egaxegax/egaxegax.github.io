@@ -209,7 +209,7 @@
           PAGE.view = 'list';
           page_header = 
         '<div class="table bigger1">'+
-          '<div class="tcell vmid" style="width:50%">'+
+          '<div class="tcell vmid">'+
             '<h1><a class="nodecor" href="'+
                 (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
                 (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
@@ -217,7 +217,7 @@
               '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
             '</h1>'+
           '</div>'+
-          '<div class="tcell tright vmid">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           if(gnr.length>0){
             document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;

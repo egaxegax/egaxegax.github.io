@@ -268,11 +268,11 @@
           PAGE.view = 'list';
           page_header = 
         '<div class="table bigger1">'+
-          '<div class="tcell vmid" style="width:50%">'+
+          '<div class="tcell vmid">'+
             '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
-            '<i class="hspace counter"> ('+ SONGS.length+')</i></h1>'+
+            '<i class="hspace counter">('+ SONGS.length+')</i></h1>'+
           '</div>'+
-          '<div class="tcell tright vmid">'+addFinder()+'</div>'+
+          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
