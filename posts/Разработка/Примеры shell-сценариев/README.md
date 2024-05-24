@@ -1,5 +1,7 @@
 Подборка различных скриптов на языках Bash, Batch, PHP, Python для различных задач.
 
+* [Astra Linux SE 1.6 Installation Disc](Astra%20Linux%20SE%201.6%20Installation%20Disc.md)
+* [Astra Linux SE 1.7 Installation Disc](Astra%20Linux%20SE%201.7%20Installation%20Disc.md)
 * [PHP Настройка Visual Studio для разработки плагина](PHP%20Настройка%20Visual%20Studio%20для%20разработки%20плагина.md)
 * [PHP Сборка плагина (extension)](PHP%20Сборка%20плагина%20(extension).md)
 * [PostgreSQL Работа с индексами](PostgreSQL%20Работа%20с%20индексами.md)

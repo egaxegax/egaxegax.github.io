@@ -1,5 +1,5 @@
-Astra Linux Special Edition 1.7 Installation disc
-===========
+<!--2024-05-25 00:05:09-->
+### Astra Linux Special Edition 1.7 Installation disc
 
 [installation-1.7.5.16-06.02.24_14.21.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.5/uu/1/iso/installation-1.7.5.16-06.02.24_14.21.iso)  
 [base-1.7.5.16-06.02.24_14.21.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.5/uu/1/iso/base-1.7.5.16-06.02.24_14.21.iso)
@@ -9,3 +9,4 @@ Astra Linux Special Edition 1.7 Installation disc
 
 [installation-1.7.4.11-23.06.23_17.13.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.4/uu/1/iso/installation-1.7.4.11-23.06.23_17.13.iso)  
 [base-1.7.4.11-23.06.23_17.13.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.4/uu/1/iso/base-1.7.4.11-23.06.23_17.13.iso)  
+
