@@ -18,8 +18,6 @@
     db    IN      A     192.168.2.2
     ftp     IN      A  192.168.0.127
 
->
-
 Файл */etc/bind/dom/db.ftp* для настройки короткого имени *ftp* без домена *dom*.
 
     $TTL    86400
@@ -32,7 +30,6 @@
               IN      NS      srv.dom.
 
           IN      A     192.168.0.127
->
 
 Прописываем зоны в */etc/bind/named.conf*
 
@@ -44,8 +41,6 @@
         type master;
         file "/etc/bind/dom/db.ftp";
     };
-
->
 
 Запускаем *bind* на сервере *srv*
 
