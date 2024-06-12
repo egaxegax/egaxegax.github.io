@@ -125,7 +125,7 @@
         if(FOTOS.length) document.title = SUBJ[FOTOS[0][0]][0] + ' - '+ document.title;
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
         if(FOTOS.length){
-          document.getElementById('foto_header').innerHTML = SUBJ[album][0] + '. <i><b>'+FOTOS.length+'</b></i> фото';
+          document.getElementById('foto_header').innerHTML = SUBJ[album][0] + ' <i><b>'+FOTOS.length+'</b></i> фото';
         }
       }
     }
