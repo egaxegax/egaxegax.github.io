@@ -52,7 +52,7 @@
   function addFoto(p){
     updateMetaTag('description', p.title[2]+', '+ p.subj);
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext tcenter"><a href="'+p.fullurl+'">'+
+  '<div class="msgtext tcenter"><a target="_blank" href="'+p.fullurl+'">'+
     '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
   '</a></div>'+
   '<div id="yandex_rtb_'+p.i+'" class="bmarg mw_1 mh_sm"></div>'+
