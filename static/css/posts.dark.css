@@ -5,9 +5,9 @@
 .light { color:#9ac495; }
 .counter { color:#59a750; }
 body,text { background-color:#222; color:#eee; } 
-a, a:active, a:focus { color:#ffbc00; }
+a, a:active, a:focus { color:#f4c430; }
 b,i,em,h4,h5 { color:#aaa; }
-b em, strong em { color:#ffbc00; }
+b em, strong em { color:#f4c430; }
 h3 { font-size:1rem; color:#9ac495; }
 div.about { background-color:#333; border:1px solid #404040; }
 pre { background-color:#eee; color:#222; border-radius:2px; }
