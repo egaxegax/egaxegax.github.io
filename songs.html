@@ -118,7 +118,7 @@
         text = r.replace(/<\!--.*-->\s*/, ''),
         html = converter.makeHtml(text);
     updateMetaTag('description', trstr(text).slice(0,1024));
-    updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
+    updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
   '<div class="tcenter">'+
     '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords scroll tleft vtop mw600">'+
