@@ -51,6 +51,7 @@
 
   function addFoto(p){
     updateMetaTag('description', p.title[2]+', '+ p.subj);
+    updateMetaTag('keywords', p.title[2]+', '+ p.subj + ', подборки фотографий');
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext tcenter"><a target="_blank" href="'+p.fullurl+'">'+
     '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
