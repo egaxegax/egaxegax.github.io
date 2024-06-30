@@ -104,7 +104,7 @@
     var converter = new showdown.Converter(), // to markdown    
         text = r,
         html = converter.makeHtml(text);
-    updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
+    updateMetaTag('description', p.subj+', '+trstr(text));
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext collapse inlbl vmid mw_b"><tr>'+
     '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
@@ -115,9 +115,9 @@
 
   function addSong(r,p){
     var converter = new showdown.Converter(), // to markdown    
-        text = r.replace(/<\!--.*-->\n/, ''),
+        text = r.replace(/<\!--.*-->\s*/, ''),
         html = converter.makeHtml(text);
-    updateMetaTag('description', p.subj+', '+p.title[2]+', '+r.replace(/<!-([^>]+)>\r*\n*/,'').replace(/[<>!]/g,'').slice(0,2048));
+    updateMetaTag('description', trstr(text).slice(0,1024));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
   '<div class="tcenter">'+

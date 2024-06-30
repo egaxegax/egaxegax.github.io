@@ -100,7 +100,7 @@
     var converter = new showdown.Converter(), // to markdown    
         text = r,
         html = converter.makeHtml(text);
-    updateMetaTag('description', p.subj+', '+text.replace(/(<([^>]+)>)/gi, ''));
+    updateMetaTag('description', p.subj+', '+trstr(text));
     updateMetaTag('keywords', p.subj+', книги');
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext collapse"><tr>'+

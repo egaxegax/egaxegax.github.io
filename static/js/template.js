@@ -141,3 +141,9 @@ function tr(s){
 
   return tr.join('').toLowerCase();
 }
+//
+/// trim special chars
+//
+function trstr(s){
+  return s.replace(/['\$@\~\^"«»`\(\)\{\}\/\\\|%\*\!\?\:;]+/g, ' ').replace(/\s+/g,' ');
+}
