@@ -91,7 +91,7 @@
         '<a class="nodecor light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
   '</div>'+
   '<div class="msgfooter">'+
-    '<a class="hspace nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> #'+((p.i+(ci||0)))+'</a>'+
+    '<a class="hspace nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>'+
     '<span title="добавлено '+buildDate(p.title[3])+'">'+'&#128343;'+'</span>'+
   '</div>';
     if(window.addYaRTB_Block && (p.if||!ci)) addYaRTB_Block(p.i, false, YA_RTB[5]);
