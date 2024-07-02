@@ -41,6 +41,6 @@
 
 #### Добавить раздел */dbcartajs* *(Карты)*:
 
-* Выгрузить файлы из репозитория в папке сайта (*egaxegax,github.io*) командой:
+* Выгрузить файлы из репозитория в папке сайта (*egaxegax.github.io*) командой:
 
     git clone https://github.com/egaxegax/dbcartajs
