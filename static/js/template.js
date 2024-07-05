@@ -1,9 +1,20 @@
 //
+// array sort function from https://www.zachleat.com/web/array-sort/
+//
+function arraySort(aa,bb){
+  var a=( ''+aa ).toLowerCase(),
+      b=( ''+bb ).toLowerCase();
+  if(a > b) return 1;
+  if(a < b) return -1;
+  return 0;
+}
+//
 // return html for find input
 //
 function addFinder(){
   return '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;';
 }
+//
 // return html for paginator
 //
 function addPaginator(list, page, page_btn){
@@ -78,7 +89,7 @@ function fixHeader(rtb_offset){
 function buildSubPath(roots, subjects, subjkey){
   var root = roots[ subjects[subjkey][3] ][0],
       subj = subjects[subjkey][0];
-  return root == '.' ? subj : root + ' / ' + subj;
+  return (root == '.') ? subj : root + ' / ' + subj;
 }
 //
 // remote/local path to sites files
@@ -108,16 +119,6 @@ function updateMetaTag(name, content){
   }
 }
 //
-// array sort function from https://www.zachleat.com/web/array-sort/
-//
-function arraySort(aa,bb){
-  var a=( ''+aa ).toLowerCase(),
-      b=( ''+bb ).toLowerCase();
-  if(a > b) return 1;
-  if(a < b) return -1;
-  return 0;
-}
-//
 // translater from //gist.github.com/diolavr/d2d50686cb5a472f5696.js
 //
 function tr(s){
@@ -142,7 +143,7 @@ function tr(s){
   return tr.join('').toLowerCase();
 }
 //
-/// trim special chars
+// trim special chars
 //
 function trstr(s){
   return s.replace(/['\$@\~\^"«»`\(\)\{\}\/\\\|%\*\!\?\:;\+-]+/g, ' ').replace(/\s+/g,' ');

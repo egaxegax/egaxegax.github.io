@@ -35,9 +35,14 @@ img { max-width:100%; border-radius:2px; }
 .mb {padding-bottom:10px;}
 /* youtube playlist */
 .yb .preview { height:180px; border-radius:4%; margin: 0 10px 5px 0; }
-.yb .embed { border:0; border-radius:2%; margin-bottom:5px; }
+.yb .embed { border:0; border-radius:2%; margin:0 10px 0 0; }
+@media all and (min-width:0px) and (max-width:450px) {
+  .yb .preview { height:100%; }  
+  .yb .embed { width:100%; height:50vw; margin:0 0 5px 0; }
+}
 .yb div { max-width:400px; }
 .yb .smaller2 { font-size:smaller; }
 .yb .smaller3 { font-size:x-small; }
 /**/
 .mh_hd { background:#262626; }
+.mh_2 { max-height:150px; }
