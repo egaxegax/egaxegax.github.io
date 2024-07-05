@@ -55,10 +55,10 @@
   '<table width="99%" class="msgtext"><tr>'+
     '<td width="80%" class="hspaced">'+
       '<a class="large nodecor dark" href="/posts.html?'+tr(subj[0])+'">'+subdir+subj[0]+'</a>'+
-      '<div class="hspace gray small"><i>'+buildDate(subj[2])+'</i></div>'+
     '</td>'+
-    '<td valign="center"><b><i>'+subj[1]+'</i></b></td>'+
-    '<td valign="center" align="right"><i class="counter small">'+i+'</i></td>'+
+    '<td width="8%" align="right"><b><i>'+subj[1]+'</i></b></td>'+
+    '<td width="8%" align="right"><i class="hspace counter small">'+i+'</i></td>'+
+    '<td align="right" class="gray smaller" title="добавлено '+buildDate(subj[2])+'">'+'&#128343;'+'</td>'+
   '</tr></table>';
     return tmpl;
   }
