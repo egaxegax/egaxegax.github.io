@@ -47,7 +47,7 @@
   document.getElementById('page_header').innerHTML = 
 '<div class="large table">'+
   '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+'</h1></div>'+
-'</div>';
+  '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function find(){
@@ -61,7 +61,7 @@
   function addList(r,p){
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r)  // fix link url to absolute in README.md
-          .replace(/href="/g, 'href="/posts.html?'+tr(p.subj)+'/'); 
+          .replace(/href="([^\"]+).md/g, function(m,fld){ return 'class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(decodeURI(fld)) }); 
     updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,120));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
     document.title = document.title.replace('README', p.subj);
@@ -157,7 +157,7 @@
     window.POSTS = TITLES;
     var page_header = 
   '<div class="large table">'+
-    '<div class="tcell vmid"><h1>'+'Подборка <b><i>$COUNT</i></b> статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+'</h1></div>'+
+    '<div class="tcell vmid"><h1>'+'Подборка <b><i>'+TITLES.length+'</i></b> статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+'</h1></div>'+
     '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
   '</div>';
     for(var p in urlParams()){
@@ -190,7 +190,7 @@
           page_header = 
         '<div class="table large">'+
           '<div class="tcell vmid">'+ 
-            '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +'&emsp;<a href="/posts.html?'+pp[0]+'/README">Список</a></h1>'+
+            '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +'&emsp;<a href="/posts.html?'+pp[0]+'/README">Все</a></h1>'+
           '</div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
@@ -206,7 +206,7 @@
           '<div class="tcell vmid">'+
             '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + 
               '<i class="hspace counter">('+ POSTS.length+')</i> '+
-              '<a href="/posts.html?'+pp[0]+'/README">Список</a>'+
+              '<a href="/posts.html?'+pp[0]+'/README">Все</a>'+
             '</h1>'+
           '</div>'+
           '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
@@ -217,7 +217,7 @@
         PAGE.per = 4;
       }
     }
-    document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
+    document.getElementById('page_header').innerHTML = page_header;
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, POSTS, PAGE, 1);
       // infinite scroll
