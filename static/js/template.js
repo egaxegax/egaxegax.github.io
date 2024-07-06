@@ -26,12 +26,12 @@ function addPaginator(list, page, page_btn){
       prev_page_num = page_num - 1,
       next_page_num = page_num + 1;
   var root = 
-'<p class="mtext tcenter">'+
+'<p class="paginator mtext tcenter">'+
 (has_previous ? 
   '<a class="nodecor" href="?'+urlBuild({page: has_first ? 'null' : prev_page_num})+'"><span class="bigger2">&larr;&emsp;</span> </a>'
 : 
 (has_next ? 
-  '<span class="gray"><span class="bigger2">&larr;&emsp;</span> </span>'
+  '<span class="gray"><span class="bigger2">&larr;&emsp;</span></span>'
 : 
   ''))+
 (num_pages > 1 ?
@@ -42,7 +42,7 @@ function addPaginator(list, page, page_btn){
   '<a class="nodecor" href="?'+urlBuild({page: next_page_num})+'"> <span class="bigger2">&emsp;&rarr;</span></a>'
 :
 (has_previous ?
-  '<span class="gray"> <span class="bigger2">&emsp;&rarr;</span></span>'
+  '<span class="gray"><span class="bigger2">&emsp;&rarr;</span></span>'
 :
   ''))+
 '</p>';
