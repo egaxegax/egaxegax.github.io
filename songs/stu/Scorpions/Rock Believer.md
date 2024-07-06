@@ -5,9 +5,9 @@ Intro: ***A   D   A   E***   2x
 You start to crawl until you walk  
          D  
 You make a scream and learn to talk  
-  A/C#                       E  
+        A/C#                E  
 You discover life on every day  
-          A/C#  
+        A/C#  
 From the first day you were born  
                 D  
 You walked the lifeline of your own  
@@ -18,19 +18,19 @@ No one can take your dreams away
   
          A  
 In the ruins of their souls  
-             D  
+         D  
 You saw the beauty of it all  
-  A                    E  
+     A                 E  
 Simply a generation change  
      A  
 Our fathers came with steel  
              D  
 But we came back to make you feel  
-A                            E  
- Our love in every song we play  
+  A                          E  
+Our love in every song we play  
   
   
-[Chorus]  
+*Chorus*  
    F#m  
 Scream for me, screamer  
   D                    A  
@@ -57,7 +57,7 @@ No matter what some haters say
    A                     E  
 No one can take our dreams away  
   
-[Chorus]  
+*Chorus*  
    F#m  
 Scream for me, screamer  
   D                 A  
@@ -71,23 +71,23 @@ I'm a rock believer like you
            E  
 Just like you  
   
-[Post-Chorus]  
+*Post-Chorus*  
    F#m             D  
 Scream, scream, scream  (I'm a rock believer)  
    F#m             D    E  
 Scream, scream, scream  (I'm a rock believer)  
   
-[Solo]  
+*Solo*  
  ***A  Bm***   3x  
  ***D  E***  
   
-[Bridge]  
+*Bridge*  
   F#m           D      E  
 No one can take our dreams away  
   F#m                     E  
 No one can take our dreams away  
   
-[Chorus]  
+*Chorus*  
    F#m  
 Scream for me, screamer  
   D                       A  
@@ -101,7 +101,7 @@ I'm a rock believer like you
            E  
 Just like you  
   
-[Post-Chorus]  
+*Post-Chorus*  
    F#m             D  
 Scream, scream, scream  (I'm a rock believer)  
    F#m             D    E  
@@ -111,5 +111,5 @@ Scream, scream, scream  (I'm a rock believer)
    F#m             E  
 Scream, scream, scream  
   
-[Ending]  
+*Ending*  
   ***A5   F#5   E5  F#5   A5   F#5   E5  F#5   A5   F#5   E5  F#5   E*** 

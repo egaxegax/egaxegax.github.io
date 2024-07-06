@@ -36,6 +36,7 @@
 * [Walking On The Edge](Walking%20On%20The%20Edge.md)
 * [When The Smoke Is Going Down](When%20The%20Smoke%20Is%20Going%20Down.md)
 * [When You Came Into My Life](When%20You%20Came%20Into%20My%20Life.md)
+* [When You Know Where You Come From](When%20You%20Know%20Where%20You%20Come%20From.md)
 * [Where The River Flows](Where%20The%20River%20Flows.md)
 * [White Dove](White%20Dove.md)
 * [Wind Of Change](Wind%20Of%20Change.md)
