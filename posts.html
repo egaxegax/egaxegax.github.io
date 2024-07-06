@@ -144,7 +144,7 @@
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 500);
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 150);
     return page.titles.length == 0;
   }
 
