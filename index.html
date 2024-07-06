@@ -70,10 +70,7 @@
           .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
         html = converter.makeHtml(text)
           .replace(/src="\.\//g, 'src="'+p.url+'/../');  // fix img url to absolute
-    var meta = document.head.getElementsByTagName('meta');
-    for(var j in meta){
-      if(meta[j].name == 'description' && p.if) meta[j].content = html.replace(/(<([^>]+)>)/gi, '').slice(0,255);
-    }
+    if(p.if) updateMetaTag('description', trstr(text).slice(0,1024) + ' ' + (urlParams().page||''));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+html+'</div>'+
   '<div class="msgfooter">'+

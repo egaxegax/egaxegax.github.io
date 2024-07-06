@@ -90,6 +90,7 @@
     eval(s);
     if(urlParams().page){ // ?page
       document.title += ' - ' + urlParams().page;
+      updateMetaTag('description', 'список авторов ' + urlParams().page);
     }
     window.PAGE = { 
       per: 10,                 // blocks 1 page
