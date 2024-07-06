@@ -78,10 +78,10 @@
       '<td class="hspaced" width="50%">'+
         '<a class="large nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a><br>'+
         '<a class="hspace1 nodecor dark vspace" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
-        '<i class="gray small">&emsp;'+buildDate(p.title[3])+'</i>'+
       '</td>'+
       '<td valign="center" align="right" class="light" width="1%">'+
-        '<i class="counter small">'+(p.i+1)+'</i>'+
+        '<i class="hspace counter small">'+(p.i+1)+'</i>'+
+        '<span class="gray small" title="добавлено '+buildDate(p.title[3])+'">'+'&#128343;'+'</span>'+
       '</td></tr>'+
     '</table>'+
   '</div>';
