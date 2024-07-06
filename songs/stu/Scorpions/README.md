@@ -26,7 +26,7 @@
 * [No One Like You](No%20One%20Like%20You.md)
 * [No Pain, No Gain](No%20Pain,%20No%20Gain.md)
 * [Now](Now.md)
-* [Rock Believer.txt](Rock%20Believer.txt.md)
+* [Rock Believer](Rock%20Believer.md)
 * [Rock you like a HURRICANE](Rock%20you%20like%20a%20HURRICANE.md)
 * [Send Me An Angel (2 вариант)](Send%20Me%20An%20Angel%20(2%20вариант).md)
 * [Send Me An Angel](Send%20Me%20An%20Angel.md)
