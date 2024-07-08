@@ -184,7 +184,7 @@
         var subj_i, root_i;
         SUBJ.map(function(sub,i){ if(tr(sub[0]) == pp[0]){ subj_i=i; root_i=sub[3]; return; } }); // filter by subj
         POSTS = [[subj_i,0,'README',0,root_i]].concat(POSTS); // +README page
-        POSTS = POSTS.filter(function(tit){ return (tit[0] && tr(SUBJ[tit[0]][0])==pp[0] && (tr(tit[2])==pp[1])); });
+        POSTS = POSTS.filter(function(tit){ return (SUBJ[tit[0]] && (tr(SUBJ[tit[0]][0])==pp[0]) && (tr(tit[2])==pp[1])); });
         if(POSTS.length){
           PAGE.view = 'post';
           page_header = 
