@@ -37,7 +37,7 @@ img { max-width:100%; border-radius:2px; }
 .yb .preview { height:180px; border-radius:4%; margin: 0 10px 5px 0; }
 .yb .embed { border:0; border-radius:2%; margin:0 10px 0 0; }
 @media all and (min-width:0px) and (max-width:450px) {
-  .yb .preview { height:100%; }  
+  .yb .preview { width:100%; height:100%; }  
   .yb .embed { width:100%; height:50vw; margin:0 0 5px 0; }
 }
 .yb div { max-width:400px; }
