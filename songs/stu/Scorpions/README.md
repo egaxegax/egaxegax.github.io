@@ -34,6 +34,7 @@
 * [The Sails of Charon](The%20Sails%20of%20Charon.md)
 * [Under the same sun](Under%20the%20same%20sun.md)
 * [Walking On The Edge](Walking%20On%20The%20Edge.md)
+* [When I Lay My Bones To Rest](When%20I%20Lay%20My%20Bones%20To%20Rest.md)
 * [When The Smoke Is Going Down](When%20The%20Smoke%20Is%20Going%20Down.md)
 * [When You Came Into My Life](When%20You%20Came%20Into%20My%20Life.md)
 * [When You Know Where You Come From](When%20You%20Know%20Where%20You%20Come%20From.md)
