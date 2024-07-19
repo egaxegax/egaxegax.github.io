@@ -58,6 +58,8 @@
 * [nonf_publicism](nonf_publicism)
 * [other](other)
 * [poetry](poetry)
+* [popadanec](popadanec)
+* [popadantsy-v-magicheskie-miry](popadantsy-v-magicheskie-miry)
 * [prose](prose)
 * [prose_classic](prose_classic)
 * [prose_contemporary](prose_contemporary)

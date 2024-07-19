@@ -127,6 +127,8 @@ https://egax.ru/books.html?aleksandr_ivanovich_gercen/kto_vinovat
 https://egax.ru/books.html?aleksandr_ivanovich_kuprin
 https://egax.ru/books.html?aleksandr_ivanovich_kuprin/parij_intimnyj_sbornik
 https://egax.ru/books.html?aleksandr_ivanovich_kuprin/taper
+https://egax.ru/books.html?aleksandr_korsun
+https://egax.ru/books.html?aleksandr_korsun/tehniki_manipulirovaniya_priemy_specslujb
 https://egax.ru/books.html?aleksandr_logachev
 https://egax.ru/books.html?aleksandr_logachev/mechi_yamato
 https://egax.ru/books.html?aleksandr_logachev/po_lezviju_katany
@@ -275,6 +277,7 @@ https://egax.ru/books.html?andrej_erpylev/vyhod_siloj
 https://egax.ru/books.html?andrej_evgenevich_bondarenko
 https://egax.ru/books.html?andrej_evgenevich_bondarenko/sedoe_zoloto
 https://egax.ru/books.html?andrej_evgenevich_pervuhin
+https://egax.ru/books.html?andrej_evgenevich_pervuhin/celitel_kniga_vtoraya_
 https://egax.ru/books.html?andrej_evgenevich_pervuhin/lekar_kniga_chetvertaya
 https://egax.ru/books.html?andrej_evgenevich_pervuhin/lekar_kniga_tretya_si
 https://egax.ru/books.html?andrej_evgenevich_pervuhin/lekar_kniga_vtoraya_si
@@ -313,6 +316,10 @@ https://egax.ru/books.html?andrej_muravev/mech_na_ladonyah
 https://egax.ru/books.html?andrej_muravev/paladiny
 https://egax.ru/books.html?andrej_nalgin
 https://egax.ru/books.html?andrej_nalgin/investicii_v_nedvijimost_ot_a_do_ya
+https://egax.ru/books.html?andrej_pervuhin
+https://egax.ru/books.html?andrej_pervuhin/celitel
+https://egax.ru/books.html?andrej_pervuhin/celitel_kniga_chetvertaya
+https://egax.ru/books.html?andrej_pervuhin/celitel_kniga_tretya
 https://egax.ru/books.html?andrej_posnyakov
 https://egax.ru/books.html?andrej_posnyakov/chas_novgorodskoj_slavy
 https://egax.ru/books.html?andrej_posnyakov/chernyj_prestol
@@ -2050,6 +2057,8 @@ https://egax.ru/books.html?mihael_mikkaelli
 https://egax.ru/books.html?mihael_mikkaelli/nastolnyj_tennis_ot_chego_zavisit_pobeda
 https://egax.ru/books.html?mihael_mikkaelli/samaya_bolshaya_tajna_bilyardista
 https://egax.ru/books.html?mihael_mikkaelli/sila_tvoego_totemnogo_jivotnogo
+https://egax.ru/books.html?mihail_afanasevich_bulgakov
+https://egax.ru/books.html?mihail_afanasevich_bulgakov/master_i_margarita
 https://egax.ru/books.html?mihail_ahmanov
 https://egax.ru/books.html?mihail_ahmanov/flibuster
 https://egax.ru/books.html?mihail_ahmanov/voron
@@ -3059,6 +3068,9 @@ https://egax.ru/books.html?vyacheslav_bakulin_redaktor-sostavitel
 https://egax.ru/books.html?vyacheslav_bakulin_redaktor-sostavitel/o_chem_molchat_vyjivshie_sbornik
 https://egax.ru/books.html?vyacheslav_bakulin_redaktor-sostavitel/skazki_apokalipsisa_sbornik
 https://egax.ru/books.html?vyacheslav_bakulin_redaktor-sostavitel/sumrak_v_konce_tunnelya_sbornik
+https://egax.ru/books.html?vyacheslav_kiselev
+https://egax.ru/books.html?vyacheslav_kiselev/bahmut
+https://egax.ru/books.html?vyacheslav_kiselev/donbass
 https://egax.ru/books.html?vyacheslav_shalygin
 https://egax.ru/books.html?vyacheslav_shalygin/obratnyj_otschet
 https://egax.ru/books.html?vyacheslav_shulga
