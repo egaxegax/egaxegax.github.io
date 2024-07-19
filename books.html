@@ -86,9 +86,9 @@
   '<div class="msgtext large mw_8">'+
     '<div class="smaller hspace">&ensp;'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
-        '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё </a></div>'
+        ' <a href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">Читать ещё...</a></div>'
       : r+
-        '<a class="nodecor light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать "> Найти и читать... </a></div>')+
+        ' <a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a></div>')+
   '</div>'+
   '<div class="msgfooter">'+
     '<a class="hspace1 nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>'+
