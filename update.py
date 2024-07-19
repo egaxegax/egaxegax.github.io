@@ -171,7 +171,7 @@ def main(path='.'):
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
   if murls:
-    io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(['\n'.join(sorted(u)) for u in murls]))
+    io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u for urls in murls for u in urls])))
   if cwd in ('songs', ) and len(murls) > 1:
     for i, u in enumerate(murls):
       io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
