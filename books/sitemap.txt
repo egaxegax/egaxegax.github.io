@@ -1927,6 +1927,9 @@ https://egax.ru/books.html?maks_fraj/vtoraya_liniya_sbornik
 https://egax.ru/books.html?maks_veber
 https://egax.ru/books.html?maks_veber/ponimajushchaya_sociologiya
 https://egax.ru/books.html?maks_veber/protestantskaya_etika_i_duh_kapitalizma
+https://egax.ru/books.html?maksim_gauss
+https://egax.ru/books.html?maksim_gauss/nazad_v_sssr_brakoner
+https://egax.ru/books.html?maksim_gauss/nazad_v_sssr_lesnik
 https://egax.ru/books.html?maksim_gorkij
 https://egax.ru/books.html?maksim_gorkij/bolshaya_ljubov
 https://egax.ru/books.html?maksim_gorkij/chelkash
@@ -2280,6 +2283,8 @@ https://egax.ru/books.html?oleg_kulakov
 https://egax.ru/books.html?oleg_kulakov/nuker_tamerlana
 https://egax.ru/books.html?oleg_nikitin
 https://egax.ru/books.html?oleg_nikitin/demon_eldorado
+https://egax.ru/books.html?oleg_nikolaevich_ermakov
+https://egax.ru/books.html?oleg_nikolaevich_ermakov/s_toj_storony_dereva
 https://egax.ru/books.html?olesya_grigoreva
 https://egax.ru/books.html?olesya_grigoreva/ippolit_kalinkin_i_prizrak
 https://egax.ru/books.html?olga_a_inozemceva
