@@ -41,6 +41,10 @@
 .bigger2 { font-size:200%; }
 .main { margin:0px auto 0px auto; max-width:750px; }
 .loader { border:1px solid #ddd; }
+.tooltip:active:after {
+  content: attr(title);
+  position: relative;
+}
 #root { min-height:100%; }
 #header { text-align:center; width:100%; z-index:999; }
 #header img { width:90px; margin:0 2px; height:36px; color:transparent; }
