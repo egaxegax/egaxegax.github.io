@@ -277,7 +277,6 @@ https://egax.ru/books.html?andrej_erpylev/vyhod_siloj
 https://egax.ru/books.html?andrej_evgenevich_bondarenko
 https://egax.ru/books.html?andrej_evgenevich_bondarenko/sedoe_zoloto
 https://egax.ru/books.html?andrej_evgenevich_pervuhin
-https://egax.ru/books.html?andrej_evgenevich_pervuhin/celitel_kniga_vtoraya_
 https://egax.ru/books.html?andrej_evgenevich_pervuhin/lekar_kniga_chetvertaya
 https://egax.ru/books.html?andrej_evgenevich_pervuhin/lekar_kniga_tretya_si
 https://egax.ru/books.html?andrej_evgenevich_pervuhin/lekar_kniga_vtoraya_si
@@ -320,6 +319,7 @@ https://egax.ru/books.html?andrej_pervuhin
 https://egax.ru/books.html?andrej_pervuhin/celitel
 https://egax.ru/books.html?andrej_pervuhin/celitel_kniga_chetvertaya
 https://egax.ru/books.html?andrej_pervuhin/celitel_kniga_tretya
+https://egax.ru/books.html?andrej_pervuhin/celitel_kniga_vtoraya_
 https://egax.ru/books.html?andrej_posnyakov
 https://egax.ru/books.html?andrej_posnyakov/chas_novgorodskoj_slavy
 https://egax.ru/books.html?andrej_posnyakov/chernyj_prestol
