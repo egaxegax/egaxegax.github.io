@@ -18,9 +18,11 @@ https://egax.ru/foto.html?cerkvi/vologda_sofijskij_sobor
 https://egax.ru/foto.html?moskva
 https://egax.ru/foto.html?moskva/kirovogradskie_prudy
 https://egax.ru/foto.html?moskva/krasivaya_alleya_v_oktyabre_oktyabr_2021g
+https://egax.ru/foto.html?moskva/landshaftnyj_park_v_ju_butovo_ijun_24g
+https://egax.ru/foto.html?moskva/letnij_zakat_ijun_24g
 https://egax.ru/foto.html?moskva/mostik_cherez_ruchej_v_zaharino_sentyabr_2023g
 https://egax.ru/foto.html?moskva/novaya_dorojka_v_lipkah_avgust_2023g
-https://egax.ru/foto.html?moskva/retro-avto_v_jujnom_butovo_ijun_2024g
+https://egax.ru/foto.html?moskva/retro-avto_v_ju_butovo_ijun_2024g
 https://egax.ru/foto.html?moskva/severnoe_chertanovo_maj_2022g
 https://egax.ru/foto.html?moskva/v_bitcevskom_parke_novye_dorojki_ijul_2023g
 https://egax.ru/foto.html?moskva/v_bitcevskom_parke_vid_na_m_lesoparkovuju_maj_24g
@@ -31,7 +33,7 @@ https://egax.ru/foto.html?moskva/vid_na_zaharinskij_prud_s_malogo_berega_sentyab
 https://egax.ru/foto.html?moskva/vid_na_zaharinskij_prud_v_storonu_cerkvi_dekabr_2023g
 https://egax.ru/foto.html?moskva/vid_na_zaharinskij_prud_v_storonu_cerkvi_sentyabr_2023g
 https://egax.ru/foto.html?moskva/yasenevskie_prudy_avgust_2017g
-https://egax.ru/foto.html?moskva/zimnij_zakat_v_jujnom_butovo_fevral_2023g
+https://egax.ru/foto.html?moskva/zimnij_zakat_v_ju_butovo_fevral_2023g
 https://egax.ru/foto.html?priroda
 https://egax.ru/foto.html?priroda/babochka_na_krasnom_cvetke_2_sentyabr_2018g
 https://egax.ru/foto.html?priroda/bolshoj_muhomor_sentyabr_2017g
@@ -61,12 +63,14 @@ https://egax.ru/foto/Москва/Вид на Бутово Парк 2. Март 
 https://egax.ru/foto/Москва/Вид на Захарьинский пруд в сторону церкви. Декабрь 2023г.jpg
 https://egax.ru/foto/Москва/Вид на Захарьинский пруд в сторону церкви. Сентябрь 2023г.jpg
 https://egax.ru/foto/Москва/Вид на Захарьинский пруд с малого берега. Сентябрь 2023г.jpg
-https://egax.ru/foto/Москва/Зимний закат в Южном Бутово. Февраль 2023г.jpg
+https://egax.ru/foto/Москва/Зимний закат в Ю.Бутово. Февраль 2023г.jpg
 https://egax.ru/foto/Москва/Кировоградские пруды.jpg
 https://egax.ru/foto/Москва/Красивая аллея в октябре. Октябрь 2021г.jpg
+https://egax.ru/foto/Москва/Ландшафтный парк в Ю.Бутово. Июнь 24г.jpg
+https://egax.ru/foto/Москва/Летний закат. Июнь 24г.jpg
 https://egax.ru/foto/Москва/Мостик через ручей в Захарьино. Сентябрь 2023г.jpg
 https://egax.ru/foto/Москва/Новая дорожка в Липках. Август 2023г.jpg
-https://egax.ru/foto/Москва/Ретро-авто в Южном бутово. Июнь 2024г.jpg
+https://egax.ru/foto/Москва/Ретро-авто в Ю.Бутово. Июнь 2024г.jpg
 https://egax.ru/foto/Москва/Северное Чертаново. Май 2022г.jpg
 https://egax.ru/foto/Москва/Ясеневские пруды. Август 2017г.jpg
 https://egax.ru/foto/Природа/Ёжик на дороге. Июнь 2022г.jpg
