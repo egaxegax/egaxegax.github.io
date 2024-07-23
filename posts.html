@@ -89,7 +89,7 @@
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', смотреть, видео, посты');
     if(p.view == 'post' && html.search('data-videoid')>-1){
       html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
-        '<iframe class="embed" align="middle" '+
+        '<iframe class="embed" align="middle" height="200px" '+
           'src="https://www.youtube.com/embed/'+((html.match(/data-videoid="([^"]+)"/) || []).pop() || '')+'" '+
           'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" '+
           'allowfullscreen>'+
