@@ -68,7 +68,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         es.forEach((e)=>{ if(e.isIntersecting){ switch(typ){
           case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid});});
           default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});
-        }s}});
+        }}});
       }, {threshold:0.9}).observe(document.getElementById('yandex_rtb_'+blid)));
     }};
     while(YA_TMR.length) clearInterval(YA_TMR.pop());
