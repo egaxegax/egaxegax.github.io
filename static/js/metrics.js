@@ -64,9 +64,9 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
-      (new IntersectionObserver(function(es){ es.forEach((e)=>{ if(e.isIntersecting){ switch(typ){
-          case 'widget': window.yaContextCb.push(function(){Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid});});
-          default:       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});
+      (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ switch(typ){
+          case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid});console.log('widget');});
+          default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});
         }}});
       }, {threshold:0.9}).observe(document.getElementById('yandex_rtb_'+blid)));
     }};
@@ -77,9 +77,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
   var p_dark = Number((sp.getAttribute('data-dark') == null) ? 0 : sp.getAttribute('data-dark'));
   var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
-  var p_top = Number((sp.getAttribute('data-top') == null) ? 0 : sp.getAttribute('data-top'));
-  var p_full = Number((sp.getAttribute('data-full') == null) ? 0 : sp.getAttribute('data-full'));
-  console.log('p_floor', p_floor, 'p_top', p_top, 'p_full', p_full);
+  console.log('p_dark', p_dark, 'p_floor', p_floor);
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-1', type:'floorAd'});});
   if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-2', type:'floorAd', platform:'desktop'});});
 }
