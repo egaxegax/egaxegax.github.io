@@ -76,7 +76,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
     setTimeout(ads);
   };
-  [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map((sp)=>{
+  [].slice.call(document.getElementsByTagName('script')).filter((s)=>{return s.src.indexOf('metrics.js')>-1;}).map((sp)=>{
     if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 1, 'flMob');
     if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 2, 'flDesk');  
   });
