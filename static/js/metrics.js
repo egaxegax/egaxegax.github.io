@@ -62,11 +62,13 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10, widget:11};
   window.YA_TMR = [];
-  window.addYaRTB_Block = function(blid,p_dark,rtbid,typ,plat){ 
+  window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
       (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ switch(typ){
           case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid});}); break;
-          default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ, platform:plat});}); break;
+          case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
+          case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
+          default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});}); break;
         }}});
       }, {threshold:0.9}).observe(document.getElementById('yandex_rtb_'+blid)));
     }};
@@ -75,8 +77,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     setTimeout(ads);
   };
   [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map((sp)=>{
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 1, 'floorAd');
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 2, 'floorAd', 'desktop');  
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 1, 'flMob');
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 2, 'flDesk');  
   });
 }
 { // VK reklama
