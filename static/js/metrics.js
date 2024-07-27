@@ -62,11 +62,11 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10, widget:11};
   window.YA_TMR = [];
-  window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){ 
+  window.addYaRTB_Block = function(blid,p_dark,rtbid,typ,plat){ 
     function ads(){ if(document.getElementById('yandex_rtb_'+blid)){ 
       (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ switch(typ){
-          case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({blockId:'C-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid});console.log('widget');});
-          default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ});});
+          case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid});}); break;
+          default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:'yandex_rtb_'+blid, type:typ, platform:plat});}); break;
         }}});
       }, {threshold:0.9}).observe(document.getElementById('yandex_rtb_'+blid)));
     }};
@@ -74,12 +74,10 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
     setTimeout(ads);
   };
-  var sp = [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;})[0];
-  var p_dark = Number((sp.getAttribute('data-dark') == null) ? 0 : sp.getAttribute('data-dark'));
-  var p_floor = Number((sp.getAttribute('data-floor') == null) ? 0 : sp.getAttribute('data-floor'));
-  console.log('p_dark', p_dark, 'p_floor', p_floor);
-  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-1', type:'floorAd'});});
-  if(p_floor) window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-2', type:'floorAd', platform:'desktop'});});
+  [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map((s)=>{
+    if(s.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 1, 'floorAd');
+    if(s.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark'), 2, 'floorAd', 'desktop');  
+  });
 }
 { // VK reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
