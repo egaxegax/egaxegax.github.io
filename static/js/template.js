@@ -75,10 +75,10 @@ function addLoader(bl){
 //
 function fixHeader(rtb_offset){
   document.getElementById('header').style.position = 'fixed';
-  if(window.addYaRTB_Block && document.getElementById('yandex_rtb_hd')){
-    document.getElementById('yandex_rtb_hd').style.position = 'fixed';
-    document.getElementById('yandex_rtb_hd').style.top = document.getElementById('header').offsetHeight+'px';    
-    rtb_offset = document.getElementById('yandex_rtb_hd').offsetHeight||60;
+  if(window.addYaRTB_Block && document.getElementById('ya_rtb_hd')){
+    document.getElementById('ya_rtb_hd').style.position = 'fixed';
+    document.getElementById('ya_rtb_hd').style.top = document.getElementById('header').offsetHeight+'px';    
+    rtb_offset = document.getElementById('ya_rtb_hd').offsetHeight||60;
   }
   document.getElementById('page_header').style.paddingTop = String(
     document.getElementById('header').offsetHeight+ (rtb_offset||0)) + 'px';

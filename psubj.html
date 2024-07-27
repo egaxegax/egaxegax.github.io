@@ -102,14 +102,14 @@
     document.getElementById('page_content').innerHTML = '';
     if(window.addYaRTB_Block){
       document.getElementById('page_content').innerHTML += 
-    '<div id="yandex_rtb_0" class="bmarg mw mh_2"></div>';
-      addYaRTB_Block(0, true, YA_RTB[2]);
+    '<div id="ya_rtb_0" class="bmarg mw mh_2"></div>';
+      addYaRTB_Block('ya_rtb_0', true, YA_RTB[2]);
     }
     addPageContent(SUBS, PAGE);
     if(window.addYaRTB_Block){
       document.getElementById('page_footer').innerHTML += 
-    '<div id="yandex_rtb_widget" class="bmarg mw mh_1"></div>';
-      addYaRTB_Block('widget', true, YA_RTB['widget'], 'widget');
+    '<div id="ya_rtb_widget" class="bmarg mw mh_1"></div>';
+      addYaRTB_Block('ya_rtb_widget', true, YA_RTB['widget'], 'widget');
     }
   });
 

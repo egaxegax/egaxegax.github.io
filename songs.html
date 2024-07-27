@@ -39,7 +39,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" onload="this.scrollIntoView()" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" alt="Карты"></a>
 </div>
-<div id="yandex_rtb_hd" class="main mw mh_hd"></div>
+<div id="ya_rtb_hd" class="main mw mh_hd"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -124,7 +124,7 @@
     '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords scroll tleft vtop mw600">'+
       html+
     '</div>'+
-    '<div id="yandex_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:40px 0 0 10px;') +'min-width:240px;max-width:240px"></div>'+
+    '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:40px 0 0 10px;') +'min-width:240px;max-width:240px"></div>'+
   '</div>'+
   '<div id="chordcont" class="bmarg mw600 chord"></div><br>'+
   '<div class="msgfooter">'+
@@ -173,7 +173,7 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-//    if(window.addYaRTB_Block && iinit) if(page.view != 'song') addYaRTB_Block('hd', false, YA_RTB[4]);
+//    if(window.addYaRTB_Block && iinit) if(page.view != 'song') addYaRTB_Block('ya_rtb_hd', false, YA_RTB[4]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = songs.slice(page.bottom, page.top);
@@ -183,8 +183,8 @@
           title = page.titles[i][2];
       if(window.addYaRTB_Block && (i==0)){
         document.getElementById('page_content').innerHTML += 
-      '<div id="yandex_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
-        addYaRTB_Block((i+page.bottom), false, YA_RTB[4]);
+      '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[4]);
       }
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';

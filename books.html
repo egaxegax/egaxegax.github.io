@@ -28,7 +28,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg" onload="this.scrollIntoView()" alt="Карты"></a>
 </div>
-<div id="yandex_rtb_hd" class="main mw mh_hd"></div>
+<div id="ya_rtb_hd" class="main mw mh_hd"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -82,7 +82,7 @@
     '<p class="smaller gray">Автор &nbsp; <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
     '<p class="smaller gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   '</div>'+
-  '<div id="yandex_rtb_'+p.i+'" class="hspace inlbl vmid mw_a mh_sm">&nbsp;</div>'+
+  '<div id="ya_rtb_'+p.i+'" class="hspace inlbl vmid mw_a mh_sm">&nbsp;</div>'+
   '<div class="msgtext large mw_b">'+
     '<div class="smaller hspace">&ensp;'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
@@ -94,7 +94,7 @@
     '<a class="hspace1 nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
-    if(window.addYaRTB_Block && (p.if||!ci)) addYaRTB_Block(p.i, false, YA_RTB[5]);
+    if(window.addYaRTB_Block && (p.if||!ci)) addYaRTB_Block('ya_rtb_'+p.i, false, YA_RTB[5]);
   }
   
   function addAbout(r,p){
@@ -116,7 +116,7 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-//    if(window.addYaRTB_Block && iinit) addYaRTB_Block('hd', false, YA_RTB[5]);
+//    if(window.addYaRTB_Block && iinit) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[5]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = books.slice(page.bottom, page.top);
