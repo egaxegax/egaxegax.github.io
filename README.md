@@ -1,5 +1,5 @@
 ### Инструкция пользования сайтом
-Сайт ![](/static/img/about.svg "https://egaxegax.github.io") можно запустить и использовать локально. 
+Сайт ![](/icon.svg "https://egaxegax.github.io") можно запустить и использовать локально. 
 
 * Выгрузить файлы из [репозитория](https://github.com/egaxegax/egaxegax.github.io)
 * Запустить веб-сервер из корневого каталога сайта
