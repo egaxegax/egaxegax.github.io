@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="4kq9sbtFCR8" src="https://i.ytimg.com/vi/4kq9sbtFCR8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_untold_story_of_the_1381_peasants_revolt_peasants_revolt_timeline">The Untold Story Of The 1381 Peasants Revolt |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_untold_story_of_the_1381_peasants_revolt_peasants_revolt_timeline">The Untold Story Of The 1381 Peasants Revolt | Peasants...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-03-03</i>
   </div>

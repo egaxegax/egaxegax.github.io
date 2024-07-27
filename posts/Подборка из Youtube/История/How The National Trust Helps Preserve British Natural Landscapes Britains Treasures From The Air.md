@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="c_lljgoACcc" src="https://i.ytimg.com/vi/c_lljgoACcc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/how_the_national_trust_helps_preserve_british_natural_landscapes_britains_treasures_from_the_air">How The National Trust Helps Preserve British...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/how_the_national_trust_helps_preserve_british_natural_landscapes_britains_treasures_from_the_air">How The National Trust Helps Preserve British Natural...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-10-02</i>
   </div>

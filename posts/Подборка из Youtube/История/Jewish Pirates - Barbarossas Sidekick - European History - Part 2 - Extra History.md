@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="T_zCkAzeazI" src="https://i.ytimg.com/vi/T_zCkAzeazI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/jewish_pirates_-_barbarossas_sidekick_-_european_history_-_part_2_-_extra_history">Jewish Pirates - Barbarossa’s Sidekick - European...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/jewish_pirates_-_barbarossas_sidekick_-_european_history_-_part_2_-_extra_history">Jewish Pirates - Barbarossa’s Sidekick - European History -...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2021-04-17</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="fegBQMYmfxM" src="https://i.ytimg.com/vi/fegBQMYmfxM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/how_king_henry_iii_was_overthrown_by_his_best_friend_britains_bloodiest_dynasty_timeline">How King Henry III Was Overthrown By His Best...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/how_king_henry_iii_was_overthrown_by_his_best_friend_britains_bloodiest_dynasty_timeline">How King Henry III Was Overthrown By His Best Friend |...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-07-05</i>
   </div>

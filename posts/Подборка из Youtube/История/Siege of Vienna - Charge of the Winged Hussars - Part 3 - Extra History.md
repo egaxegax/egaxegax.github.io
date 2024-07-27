@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="-CouQMh_PUo" src="https://i.ytimg.com/vi/-CouQMh_PUo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/siege_of_vienna_-_charge_of_the_winged_hussars_-_part_3_-_extra_history">Siege of Vienna - Charge of the Winged Hussars -...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/siege_of_vienna_-_charge_of_the_winged_hussars_-_part_3_-_extra_history">Siege of Vienna - Charge of the Winged Hussars - Part 3 -...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2019-04-20</i>
   </div>

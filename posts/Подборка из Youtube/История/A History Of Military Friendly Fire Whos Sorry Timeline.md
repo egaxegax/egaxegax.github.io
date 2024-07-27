@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="gcqspF9NbEs" src="https://i.ytimg.com/vi/gcqspF9NbEs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/a_history_of_military_friendly_fire_whos_sorry_timeline">A History Of Military 'Friendly Fire' | Who's Sorr...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/a_history_of_military_friendly_fire_whos_sorry_timeline">A History Of Military 'Friendly Fire' | Who's Sorry |...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-04-29</i>
   </div>

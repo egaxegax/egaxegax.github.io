@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="nvFlEJpuTfo" src="https://i.ytimg.com/vi/nvFlEJpuTfo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/how_herculaneum_is_better_preserved_than_pompeii_herculaneum_uncovered_timeline">How Herculaneum Is Better Preserved Than Pompeii...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/how_herculaneum_is_better_preserved_than_pompeii_herculaneum_uncovered_timeline">How Herculaneum Is Better Preserved Than Pompeii |...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-06-07</i>
   </div>

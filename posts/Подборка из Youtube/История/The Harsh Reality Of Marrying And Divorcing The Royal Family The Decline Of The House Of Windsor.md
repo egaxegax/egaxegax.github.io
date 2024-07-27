@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="OBLYTn4stiw" src="https://i.ytimg.com/vi/OBLYTn4stiw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_harsh_reality_of_marrying_and_divorcing_the_royal_family_the_decline_of_the_house_of_windsor">The Harsh Reality Of Marrying And Divorcing The...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_harsh_reality_of_marrying_and_divorcing_the_royal_family_the_decline_of_the_house_of_windsor">The Harsh Reality Of Marrying And Divorcing The Royal...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-11-19</i>
   </div>

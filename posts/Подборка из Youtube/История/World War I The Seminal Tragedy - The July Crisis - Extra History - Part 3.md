@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="zroZqvr4whk" src="https://i.ytimg.com/vi/zroZqvr4whk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/world_war_i_the_seminal_tragedy_-_the_july_crisis_-_extra_history_-_part_3">World War I: The Seminal Tragedy - The July...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/world_war_i_the_seminal_tragedy_-_the_july_crisis_-_extra_history_-_part_3">World War I: The Seminal Tragedy - The July Crisis - Extra...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2014-09-27</i>
   </div>

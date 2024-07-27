@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ts8_yMkAbNg" src="https://i.ytimg.com/vi/ts8_yMkAbNg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_controversy_drama_behind_tutankhamuns_mummification_king_tut">The Controversy & Drama Behind Tutankhamun's...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_controversy_drama_behind_tutankhamuns_mummification_king_tut">The Controversy & Drama Behind Tutankhamun's Mummification...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-11-23</i>
   </div>

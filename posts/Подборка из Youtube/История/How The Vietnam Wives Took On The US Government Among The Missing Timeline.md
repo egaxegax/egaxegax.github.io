@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="bhHg2WzwP3U" src="https://i.ytimg.com/vi/bhHg2WzwP3U/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/how_the_vietnam_wives_took_on_the_us_government_among_the_missing_timeline">How The Vietnam Wives Took On The US Government |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/how_the_vietnam_wives_took_on_the_us_government_among_the_missing_timeline">How The Vietnam Wives Took On The US Government | Among The...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-11-13</i>
   </div>

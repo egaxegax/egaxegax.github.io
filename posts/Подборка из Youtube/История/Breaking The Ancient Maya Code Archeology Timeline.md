@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="RWH2CrSvm2g" src="https://i.ytimg.com/vi/RWH2CrSvm2g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/breaking_the_ancient_maya_code_archeology_timeline">Breaking The Ancient Maya Code | Archeology |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/breaking_the_ancient_maya_code_archeology_timeline">Breaking The Ancient Maya Code | Archeology | Timeline</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-11-14</i>
   </div>

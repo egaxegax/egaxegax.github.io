@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="KV2pwE4Zj_w" src="https://i.ytimg.com/vi/KV2pwE4Zj_w/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_french_serial_killer_nicknamed_the_bluebeard_the_bluebeard_case_timeline">The French Serial Killer Nicknamed The Bluebeard...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_french_serial_killer_nicknamed_the_bluebeard_the_bluebeard_case_timeline">The French Serial Killer Nicknamed The Bluebeard | The...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-12-16</i>
   </div>

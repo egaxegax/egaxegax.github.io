@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ju8PQcvlq00" src="https://i.ytimg.com/vi/ju8PQcvlq00/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_sacred_band_-_an_alternative_300_-_extra_history">The Sacred Band - An Alternative 300 - Extra...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_sacred_band_-_an_alternative_300_-_extra_history">The Sacred Band - An Alternative 300 - Extra History</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2020-06-06</i>
   </div>

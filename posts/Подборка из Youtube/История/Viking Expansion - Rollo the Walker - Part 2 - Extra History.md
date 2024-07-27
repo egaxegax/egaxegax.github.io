@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="IOnjG7ocZmI" src="https://i.ytimg.com/vi/IOnjG7ocZmI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/viking_expansion_-_rollo_the_walker_-_part_2_-_extra_history">Viking Expansion - Rollo the Walker - Part 2 -...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/viking_expansion_-_rollo_the_walker_-_part_2_-_extra_history">Viking Expansion - Rollo the Walker - Part 2 - Extra History</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2018-11-03</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="piAEzVOqHHU" src="https://i.ytimg.com/vi/piAEzVOqHHU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_life_of_an_ancient_spartan_the_spartans_timeline">The Life Of An Ancient Spartan | The Spartans |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_life_of_an_ancient_spartan_the_spartans_timeline">The Life Of An Ancient Spartan | The Spartans | Timeline</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-08-25</i>
   </div>

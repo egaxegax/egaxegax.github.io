@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="uQ88yC35NjI" src="https://i.ytimg.com/vi/uQ88yC35NjI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_medieval_invention_that_changed_the_course_of_history_the_machine_that_made_us_timeline">The Medieval Invention That Changed The Course Of...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_medieval_invention_that_changed_the_course_of_history_the_machine_that_made_us_timeline">The Medieval Invention That Changed The Course Of History |...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-08-25</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="YIHPWYuEzXM" src="https://i.ytimg.com/vi/YIHPWYuEzXM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_medieval_secrets_of_this_channel_island_fortress_excavating_mont_orgueil_in_jersey">The Medieval Secrets Of This Channel Island...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_medieval_secrets_of_this_channel_island_fortress_excavating_mont_orgueil_in_jersey">The Medieval Secrets Of This Channel Island Fortress:...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-09-29</i>
   </div>

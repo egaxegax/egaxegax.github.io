@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="uy3qtSkljTg" src="https://i.ytimg.com/vi/uy3qtSkljTg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/will_kate_middleton_become_queen_of_england_william_and_kate_into_the_future_timeline">Will Kate Middleton Become Queen Of England? |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/will_kate_middleton_become_queen_of_england_william_and_kate_into_the_future_timeline">Will Kate Middleton Become Queen Of England? | William and...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-10-10</i>
   </div>

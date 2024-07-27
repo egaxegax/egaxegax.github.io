@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="80b4ROFoaFY" src="https://i.ytimg.com/vi/80b4ROFoaFY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/simon_bolivar_-_reverberations_-_extra_history_-_part_1">Simón Bolívar - Reverberations - Extra History...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/simon_bolivar_-_reverberations_-_extra_history_-_part_1">Simón Bolívar - Reverberations - Extra History - Part 1</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2016-11-19</i>
   </div>

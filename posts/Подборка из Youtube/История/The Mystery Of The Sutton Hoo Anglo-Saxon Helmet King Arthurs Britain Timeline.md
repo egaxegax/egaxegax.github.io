@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ErA2hDJwWVY" src="https://i.ytimg.com/vi/ErA2hDJwWVY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_mystery_of_the_sutton_hoo_anglo-saxon_helmet_king_arthurs_britain_timeline">The Mystery Of The Sutton Hoo Anglo-Saxon Helmet...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_mystery_of_the_sutton_hoo_anglo-saxon_helmet_king_arthurs_britain_timeline">The Mystery Of The Sutton Hoo Anglo-Saxon Helmet | King...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-05-22</i>
   </div>

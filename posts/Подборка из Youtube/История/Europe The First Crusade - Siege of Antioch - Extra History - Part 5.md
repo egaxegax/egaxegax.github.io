@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ZvUibFUJFKM" src="https://i.ytimg.com/vi/ZvUibFUJFKM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/europe_the_first_crusade_-_siege_of_antioch_-_extra_history_-_part_5">Europe: The First Crusade - Siege of Antioch -...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/europe_the_first_crusade_-_siege_of_antioch_-_extra_history_-_part_5">Europe: The First Crusade - Siege of Antioch - Extra...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2015-09-05</i>
   </div>

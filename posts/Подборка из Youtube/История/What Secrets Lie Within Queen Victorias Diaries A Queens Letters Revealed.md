@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="5EwDLFes2yo" src="https://i.ytimg.com/vi/5EwDLFes2yo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/what_secrets_lie_within_queen_victorias_diaries_a_queens_letters_revealed">What Secrets Lie Within Queen Victoria's Diaries? ...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/what_secrets_lie_within_queen_victorias_diaries_a_queens_letters_revealed">What Secrets Lie Within Queen Victoria's Diaries? | A Queen'...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-03-19</i>
   </div>

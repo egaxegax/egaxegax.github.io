@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="Fvd9vxyCgCA" src="https://i.ytimg.com/vi/Fvd9vxyCgCA/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_battle_of_thermopylae_-_east_vs_west_-_part_2_-_extra_history">The Battle of Thermopylae - East vs. West - Part...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_battle_of_thermopylae_-_east_vs_west_-_part_2_-_extra_history">The Battle of Thermopylae - East vs. West - Part 2 - Extra...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2018-06-14</i>
   </div>

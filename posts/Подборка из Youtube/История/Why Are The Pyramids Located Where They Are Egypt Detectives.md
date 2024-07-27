@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ecD5mxJ16UQ" src="https://i.ytimg.com/vi/ecD5mxJ16UQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/why_are_the_pyramids_located_where_they_are_egypt_detectives">Why Are The Pyramids Located Where They Are? |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/why_are_the_pyramids_located_where_they_are_egypt_detectives">Why Are The Pyramids Located Where They Are? | Egypt...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-11-30</i>
   </div>

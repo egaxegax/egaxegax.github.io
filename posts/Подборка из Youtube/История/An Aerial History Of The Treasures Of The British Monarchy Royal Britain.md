@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ga33ZAz11A0" src="https://i.ytimg.com/vi/ga33ZAz11A0/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/an_aerial_history_of_the_treasures_of_the_british_monarchy_royal_britain">An Aerial History Of The Treasures Of The British...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/an_aerial_history_of_the_treasures_of_the_british_monarchy_royal_britain">An Aerial History Of The Treasures Of The British Monarchy...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-07-26</i>
   </div>

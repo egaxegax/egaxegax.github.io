@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="FC2Hvg7RdSY" src="https://i.ytimg.com/vi/FC2Hvg7RdSY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_brothers_gracchi_-_populares_-_extra_history_-_part_2">The Brothers Gracchi - Populares - Extra History...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_brothers_gracchi_-_populares_-_extra_history_-_part_2">The Brothers Gracchi - Populares - Extra History - Part 2</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2016-08-13</i>
   </div>

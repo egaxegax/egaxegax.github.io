@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="AvwMgKp_tKQ" src="https://i.ytimg.com/vi/AvwMgKp_tKQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/intestines_for_lunch_roman_recipes_recreated_a_cook_back_in_time_timeline">Intestines For Lunch?! Roman Recipes Recreated |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/intestines_for_lunch_roman_recipes_recreated_a_cook_back_in_time_timeline">Intestines For Lunch?! Roman Recipes Recreated | A Cook...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-01-15</i>
   </div>

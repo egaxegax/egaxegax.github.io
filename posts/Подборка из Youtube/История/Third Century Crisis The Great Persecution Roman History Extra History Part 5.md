@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="n2-pPpWC7Is" src="https://i.ytimg.com/vi/n2-pPpWC7Is/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/third_century_crisis_the_great_persecution_roman_history_extra_history_part_5">Third Century Crisis | The Great Persecution |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/third_century_crisis_the_great_persecution_roman_history_extra_history_part_5">Third Century Crisis | The Great Persecution | Roman...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2020-09-05</i>
   </div>

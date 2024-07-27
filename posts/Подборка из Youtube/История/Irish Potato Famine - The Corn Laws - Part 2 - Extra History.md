@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="E4Dc0ltgf3I" src="https://i.ytimg.com/vi/E4Dc0ltgf3I/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/irish_potato_famine_-_the_corn_laws_-_part_2_-_extra_history">Irish Potato Famine - The Corn Laws - Part 2 -...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/irish_potato_famine_-_the_corn_laws_-_part_2_-_extra_history">Irish Potato Famine - The Corn Laws - Part 2 - Extra History</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2019-02-23</i>
   </div>

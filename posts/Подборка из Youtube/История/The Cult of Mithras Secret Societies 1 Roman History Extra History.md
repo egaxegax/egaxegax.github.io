@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="qmv7BhKEDUo" src="https://i.ytimg.com/vi/qmv7BhKEDUo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_cult_of_mithras_secret_societies_1_roman_history_extra_history">The Cult of Mithras | Secret Societies 1 | Roman...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_cult_of_mithras_secret_societies_1_roman_history_extra_history">The Cult of Mithras | Secret Societies 1 | Roman History |...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2024-04-06</i>
   </div>

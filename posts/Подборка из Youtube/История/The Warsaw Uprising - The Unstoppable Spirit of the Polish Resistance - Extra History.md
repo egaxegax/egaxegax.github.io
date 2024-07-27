@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="9BjIYKq4CVk" src="https://i.ytimg.com/vi/9BjIYKq4CVk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_warsaw_uprising_-_the_unstoppable_spirit_of_the_polish_resistance_-_extra_history">The Warsaw Uprising - The Unstoppable Spirit of th...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_warsaw_uprising_-_the_unstoppable_spirit_of_the_polish_resistance_-_extra_history">The Warsaw Uprising - The Unstoppable Spirit of the Polish...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2019-08-01</i>
   </div>

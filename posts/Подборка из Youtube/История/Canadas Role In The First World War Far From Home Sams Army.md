@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="0s02ziiGB-k" src="https://i.ytimg.com/vi/0s02ziiGB-k/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/canadas_role_in_the_first_world_war_far_from_home_sams_army">Canada's Role In The First World War | Far From...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/canadas_role_in_the_first_world_war_far_from_home_sams_army">Canada's Role In The First World War | Far From Home: Sam's...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-10-04</i>
   </div>

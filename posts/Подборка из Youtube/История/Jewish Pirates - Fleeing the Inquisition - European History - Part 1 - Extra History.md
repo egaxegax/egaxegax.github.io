@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ZDvmzPlmra8" src="https://i.ytimg.com/vi/ZDvmzPlmra8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/jewish_pirates_-_fleeing_the_inquisition_-_european_history_-_part_1_-_extra_history">Jewish Pirates - Fleeing the Inquisition - Europea...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/jewish_pirates_-_fleeing_the_inquisition_-_european_history_-_part_1_-_extra_history">Jewish Pirates - Fleeing the Inquisition - European History ...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2021-04-10</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="2GH1c50zcYc" src="https://i.ytimg.com/vi/2GH1c50zcYc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/hannibal_the_one_man_who_ever_threatened_rome_hannibal_barca_timeline">Hannibal: The One Man Who Ever Threatened Rome |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/hannibal_the_one_man_who_ever_threatened_rome_hannibal_barca_timeline">Hannibal: The One Man Who Ever Threatened Rome | Hannibal...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-03-22</i>
   </div>

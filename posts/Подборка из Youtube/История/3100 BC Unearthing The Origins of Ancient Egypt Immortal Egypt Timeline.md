@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="Wo6OO992ywI" src="https://i.ytimg.com/vi/Wo6OO992ywI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/3100_bc_unearthing_the_origins_of_ancient_egypt_immortal_egypt_timeline">3100 BC: Unearthing The Origins of Ancient Egypt...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/3100_bc_unearthing_the_origins_of_ancient_egypt_immortal_egypt_timeline">3100 BC: Unearthing The Origins of Ancient Egypt | Immortal...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-07-18</i>
   </div>

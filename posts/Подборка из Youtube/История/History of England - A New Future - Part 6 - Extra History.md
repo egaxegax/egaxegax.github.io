@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="SuidVI9ENN8" src="https://i.ytimg.com/vi/SuidVI9ENN8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/history_of_england_-_a_new_future_-_part_6_-_extra_history">History of England - A New Future - Part 6 -...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/history_of_england_-_a_new_future_-_part_6_-_extra_history">History of England - A New Future - Part 6 - Extra History</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2019-06-29</i>
   </div>

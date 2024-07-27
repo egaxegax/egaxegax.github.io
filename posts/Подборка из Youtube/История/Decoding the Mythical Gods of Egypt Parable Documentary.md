@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="MQQ-2vaSXTM" src="https://i.ytimg.com/vi/MQQ-2vaSXTM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/decoding_the_mythical_gods_of_egypt_parable_documentary">Decoding the Mythical Gods of Egypt | Parable...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/decoding_the_mythical_gods_of_egypt_parable_documentary">Decoding the Mythical Gods of Egypt | Parable Documentary</a><br>
     <i class="smaller2">Parable - Religious History Documentaries</i><br>
     <i class="smaller3">2020-09-25</i>
   </div>

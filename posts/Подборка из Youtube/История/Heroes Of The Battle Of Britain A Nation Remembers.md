@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="2NXbjyn4g9c" src="https://i.ytimg.com/vi/2NXbjyn4g9c/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/heroes_of_the_battle_of_britain_a_nation_remembers">Heroes Of The Battle Of Britain: A Nation Remember...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/heroes_of_the_battle_of_britain_a_nation_remembers">Heroes Of The Battle Of Britain: A Nation Remembers</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-11-07</i>
   </div>

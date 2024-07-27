@@ -73,7 +73,7 @@ for root, dirs, files in os.walk(path, topdown=False):
     <i class="smaller3">{rdate}</i>
   </div>
 </div>
-""".format(ctime=ctime, phref=phref, href=href, imurl=imurl, rdate=rdate, videoid=videoid, titl=tr_chars(titl, 50), authr=authr)
+""".format(ctime=ctime, phref=phref, href=href, imurl=imurl, rdate=rdate, videoid=videoid, titl=tr_chars(titl, 60), authr=authr)
 
               print(mtitl)
               open(mtitl + '.md', 'w', encoding='utf-8', newline='\n').write(text)

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="k-ODFx3R26g" src="https://i.ytimg.com/vi/k-ODFx3R26g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/the_extraordinary_hi-tech_war_against_italys_crime_syndicate_mafias_secret_bunkers_timeline">The Extraordinary Hi-Tech War Against Italy’s Crim...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/the_extraordinary_hi-tech_war_against_italys_crime_syndicate_mafias_secret_bunkers_timeline">The Extraordinary Hi-Tech War Against Italy’s Crime Syndicat...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-10-13</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="utWGzuvM9KM" src="https://i.ytimg.com/vi/utWGzuvM9KM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/when_harry_met_meghan_the_fairytale_story_timeline">When Harry Met Meghan | The Fairytale Story |...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/when_harry_met_meghan_the_fairytale_story_timeline">When Harry Met Meghan | The Fairytale Story | Timeline</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-09-03</i>
   </div>

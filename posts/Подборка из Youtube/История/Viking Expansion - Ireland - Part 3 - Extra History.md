@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ms3-rhnbw9U" src="https://i.ytimg.com/vi/ms3-rhnbw9U/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/viking_expansion_-_ireland_-_part_3_-_extra_history">Viking Expansion - Ireland - Part 3 - Extra Histor...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/viking_expansion_-_ireland_-_part_3_-_extra_history">Viking Expansion - Ireland - Part 3 - Extra History</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2018-11-10</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="CCA36NHOMVk" src="https://i.ytimg.com/vi/CCA36NHOMVk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/westminster_abbey_uncovering_henry_iiis_sacristy_time_team">Westminster Abbey: Uncovering Henry III's...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/westminster_abbey_uncovering_henry_iiis_sacristy_time_team">Westminster Abbey: Uncovering Henry III's Sacristy | Time...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2019-08-18</i>
   </div>

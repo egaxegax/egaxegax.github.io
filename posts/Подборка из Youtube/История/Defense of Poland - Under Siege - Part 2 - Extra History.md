@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="20fFU_OqB0M" src="https://i.ytimg.com/vi/20fFU_OqB0M/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/defense_of_poland_-_under_siege_-_part_2_-_extra_history">Defense of Poland - Under Siege - Part 2 - Extra...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/defense_of_poland_-_under_siege_-_part_2_-_extra_history">Defense of Poland - Under Siege - Part 2 - Extra History</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2018-11-29</i>
   </div>

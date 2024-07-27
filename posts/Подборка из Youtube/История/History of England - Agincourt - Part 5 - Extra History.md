@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="mUgMlZU9TSw" src="https://i.ytimg.com/vi/mUgMlZU9TSw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?istoriya/history_of_england_-_agincourt_-_part_5_-_extra_history">History of England - Agincourt - Part 5 - Extra...</a><br>
+    <a class="nodecor" href="/posts.html?istoriya/history_of_england_-_agincourt_-_part_5_-_extra_history">History of England - Agincourt - Part 5 - Extra History</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2019-06-22</i>
   </div>
