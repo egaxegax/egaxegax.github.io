@@ -4826,6 +4826,7 @@ https://egax.ru/posts.html?poleznye_travy/zveroboj
 https://egax.ru/posts.html?primery_shell-scenariev
 https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_6_installation_disc
 https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_7_installation_disc
+https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egax.ru/posts.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egax.ru/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
 https://egax.ru/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
