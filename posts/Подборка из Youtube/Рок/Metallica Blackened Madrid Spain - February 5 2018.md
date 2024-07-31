@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="NwxvaUjPFNI" src="https://i.ytimg.com/vi/NwxvaUjPFNI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_blackened_madrid_spain_-_february_5_2018">Metallica: Blackened (Madrid, Spain - February 5,...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_blackened_madrid_spain_-_february_5_2018">Metallica: Blackened (Madrid, Spain - February 5, 2018)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2020-02-28</i>
   </div>

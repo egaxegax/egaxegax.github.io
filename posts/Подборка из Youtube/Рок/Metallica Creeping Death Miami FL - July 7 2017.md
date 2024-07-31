@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="x-nlKlnd9Vo" src="https://i.ytimg.com/vi/x-nlKlnd9Vo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_creeping_death_miami_fl_-_july_7_2017">Metallica: Creeping Death (Miami, FL - July 7,...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_creeping_death_miami_fl_-_july_7_2017">Metallica: Creeping Death (Miami, FL - July 7, 2017)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2017-07-14</i>
   </div>

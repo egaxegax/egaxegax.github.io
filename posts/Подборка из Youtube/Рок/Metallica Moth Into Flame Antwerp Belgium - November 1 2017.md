@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="tHrBjsj_a8o" src="https://i.ytimg.com/vi/tHrBjsj_a8o/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_moth_into_flame_antwerp_belgium_-_november_1_2017">Metallica: Moth Into Flame (Antwerp, Belgium -...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_moth_into_flame_antwerp_belgium_-_november_1_2017">Metallica: Moth Into Flame (Antwerp, Belgium - November 1,...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2017-11-06</i>
   </div>

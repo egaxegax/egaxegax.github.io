@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="wyb-gSDDJtI" src="https://i.ytimg.com/vi/wyb-gSDDJtI/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/classic_rock_collection_the_best_of_classic_rock_songs_of_70s_80s_90s_vol_2">Classic Rock Collection | The Best Of Classic...</a><br>
+    <a class="nodecor" href="/posts.html?rok/classic_rock_collection_the_best_of_classic_rock_songs_of_70s_80s_90s_vol_2">Classic Rock Collection | The Best Of Classic Rock Songs Of...</a><br>
     <i class="smaller2">Classic Rock Music</i><br>
     <i class="smaller3">2023-05-13</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="fQeamka5gRo" src="https://i.ytimg.com/vi/fQeamka5gRo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_disposable_heroes_madrid_spain_-_may_3_2019">Metallica: Disposable Heroes (Madrid, Spain - May...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_disposable_heroes_madrid_spain_-_may_3_2019">Metallica: Disposable Heroes (Madrid, Spain - May 3, 2019)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-05-07</i>
   </div>

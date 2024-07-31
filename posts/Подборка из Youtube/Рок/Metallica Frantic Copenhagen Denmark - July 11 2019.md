@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="M7fi80yg0_8" src="https://i.ytimg.com/vi/M7fi80yg0_8/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_frantic_copenhagen_denmark_-_july_11_2019">Metallica: Frantic (Copenhagen, Denmark - July...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_frantic_copenhagen_denmark_-_july_11_2019">Metallica: Frantic (Copenhagen, Denmark - July 11, 2019)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-07-16</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="mC8nuHdcEek" src="https://i.ytimg.com/vi/mC8nuHdcEek/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_welcome_home_sanitarium_qubec_city_canada_-_july_14_2017">Metallica: Welcome Home (Sanitarium) (Québec...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_welcome_home_sanitarium_qubec_city_canada_-_july_14_2017">Metallica: Welcome Home (Sanitarium) (Québec City, Canada -...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2018-07-14</i>
   </div>

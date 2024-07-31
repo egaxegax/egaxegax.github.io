@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ed-t_R4gM-o" src="https://i.ytimg.com/vi/ed-t_R4gM-o/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/now_that_were_dead_edmonton_alberta_-_august_16_2017">Now That We're Dead (Edmonton, Alberta - August 16...</a><br>
+    <a class="nodecor" href="/posts.html?rok/now_that_were_dead_edmonton_alberta_-_august_16_2017">Now That We're Dead (Edmonton, Alberta - August 16, 2017)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2017-08-26</i>
   </div>

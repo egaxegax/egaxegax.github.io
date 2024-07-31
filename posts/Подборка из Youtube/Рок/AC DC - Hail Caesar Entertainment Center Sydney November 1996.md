@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="EI2jPGDTA6o" src="https://i.ytimg.com/vi/EI2jPGDTA6o/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/ac_dc_-_hail_caesar_entertainment_center_sydney_november_1996">AC/DC - Hail Caesar (Entertainment Center,...</a><br>
+    <a class="nodecor" href="/posts.html?rok/ac_dc_-_hail_caesar_entertainment_center_sydney_november_1996">AC/DC - Hail Caesar (Entertainment Center, Sydney, November...</a><br>
     <i class="smaller2">acdcVEVO</i><br>
     <i class="smaller3">2013-06-26</i>
   </div>

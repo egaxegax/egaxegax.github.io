@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="FcoUvu0mGog" src="https://i.ytimg.com/vi/FcoUvu0mGog/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_fade_to_black_lincoln_ne_-_september_6_2018">Metallica: Fade to Black (Lincoln, NE - September...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_fade_to_black_lincoln_ne_-_september_6_2018">Metallica: Fade to Black (Lincoln, NE - September 6, 2018)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2018-12-21</i>
   </div>

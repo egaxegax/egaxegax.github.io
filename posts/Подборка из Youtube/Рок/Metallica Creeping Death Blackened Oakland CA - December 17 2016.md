@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="KFkT0oHHH70" src="https://i.ytimg.com/vi/KFkT0oHHH70/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_creeping_death_blackened_oakland_ca_-_december_17_2016">Metallica: Creeping Death & Blackened (Oakland,...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_creeping_death_blackened_oakland_ca_-_december_17_2016">Metallica: Creeping Death & Blackened (Oakland, CA - Decembe...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2016-12-28</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="JcAT0lEL5Iw" src="https://i.ytimg.com/vi/JcAT0lEL5Iw/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/classic_rock_best_classic_rock_of_all_time_great_classic_rock_playlist">Classic Rock | Best Classic Rock Of All Time |...</a><br>
+    <a class="nodecor" href="/posts.html?rok/classic_rock_best_classic_rock_of_all_time_great_classic_rock_playlist">Classic Rock | Best Classic Rock Of All Time | Great...</a><br>
     <i class="smaller2">Classic Rock Music</i><br>
     <i class="smaller3">2023-08-18</i>
   </div>

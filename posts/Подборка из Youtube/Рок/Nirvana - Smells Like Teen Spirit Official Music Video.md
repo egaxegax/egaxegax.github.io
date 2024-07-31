@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="hTWKbfoikeg" src="https://i.ytimg.com/vi/hTWKbfoikeg/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/nirvana_-_smells_like_teen_spirit_official_music_video">Nirvana - Smells Like Teen Spirit (Official Music...</a><br>
+    <a class="nodecor" href="/posts.html?rok/nirvana_-_smells_like_teen_spirit_official_music_video">Nirvana - Smells Like Teen Spirit (Official Music Video)</a><br>
     <i class="smaller2">NirvanaVEVO</i><br>
     <i class="smaller3">2009-06-16</i>
   </div>

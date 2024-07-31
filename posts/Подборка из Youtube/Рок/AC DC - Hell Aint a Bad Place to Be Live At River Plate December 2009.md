@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="ZuureXcbddY" src="https://i.ytimg.com/vi/ZuureXcbddY/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/ac_dc_-_hell_aint_a_bad_place_to_be_live_at_river_plate_december_2009">AC/DC - Hell Ain't a Bad Place to Be (Live At Rive...</a><br>
+    <a class="nodecor" href="/posts.html?rok/ac_dc_-_hell_aint_a_bad_place_to_be_live_at_river_plate_december_2009">AC/DC - Hell Ain't a Bad Place to Be (Live At River Plate,...</a><br>
     <i class="smaller2">acdcVEVO</i><br>
     <i class="smaller3">2013-06-06</i>
   </div>

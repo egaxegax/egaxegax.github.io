@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="g8t37uDV4EM" src="https://i.ytimg.com/vi/g8t37uDV4EM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_creeping_death_madrid_spain_-_february_5_2018">Metallica: Creeping Death (Madrid, Spain - Februar...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_creeping_death_madrid_spain_-_february_5_2018">Metallica: Creeping Death (Madrid, Spain - February 5, 2018)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2018-02-10</i>
   </div>

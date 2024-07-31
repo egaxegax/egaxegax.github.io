@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="4KXdU3cZbNQ" src="https://i.ytimg.com/vi/4KXdU3cZbNQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/rage_against_the_machine_-_renegades_of_funk_official_hd_video">Rage Against The Machine - Renegades Of Funk...</a><br>
+    <a class="nodecor" href="/posts.html?rok/rage_against_the_machine_-_renegades_of_funk_official_hd_video">Rage Against The Machine - Renegades Of Funk (Official HD...</a><br>
     <i class="smaller2">RATMVEVO</i><br>
     <i class="smaller3">2012-10-09</i>
   </div>

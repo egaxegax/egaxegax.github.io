@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="P07VoPhoWbo" src="https://i.ytimg.com/vi/P07VoPhoWbo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/best_classic_rock_of_70s_80s_90s_top_30_hits_of_all_time">Best Classic Rock Of 70s 80s 90s | Top 30 Hits of...</a><br>
+    <a class="nodecor" href="/posts.html?rok/best_classic_rock_of_70s_80s_90s_top_30_hits_of_all_time">Best Classic Rock Of 70s 80s 90s | Top 30 Hits of All Time</a><br>
     <i class="smaller2">Classic Rock Music</i><br>
     <i class="smaller3">2023-08-07</i>
   </div>

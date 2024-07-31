@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="q1p3ucZzN0M" src="https://i.ytimg.com/vi/q1p3ucZzN0M/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_holier_than_thou_state_college_pa_-_october_20_2018">Metallica: Holier Than Thou (State College, PA -...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_holier_than_thou_state_college_pa_-_october_20_2018">Metallica: Holier Than Thou (State College, PA - October...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2018-10-26</i>
   </div>

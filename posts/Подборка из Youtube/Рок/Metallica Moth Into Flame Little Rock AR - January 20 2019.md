@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="HmyJh8qtrXc" src="https://i.ytimg.com/vi/HmyJh8qtrXc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_moth_into_flame_little_rock_ar_-_january_20_2019">Metallica: Moth Into Flame (Little Rock, AR -...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_moth_into_flame_little_rock_ar_-_january_20_2019">Metallica: Moth Into Flame (Little Rock, AR - January 20,...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-01-28</i>
   </div>

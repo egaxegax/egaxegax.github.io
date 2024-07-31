@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="uejGmZ6qQ74" src="https://i.ytimg.com/vi/uejGmZ6qQ74/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_atlas_rise_nashville_tn_-_january_24_2019">Metallica: Atlas, Rise! (Nashville, TN - January...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_atlas_rise_nashville_tn_-_january_24_2019">Metallica: Atlas, Rise! (Nashville, TN - January 24, 2019)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-02-04</i>
   </div>

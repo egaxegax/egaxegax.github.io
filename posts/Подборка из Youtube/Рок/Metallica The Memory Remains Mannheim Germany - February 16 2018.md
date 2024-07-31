@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="4e4UIzJ4G4w" src="https://i.ytimg.com/vi/4e4UIzJ4G4w/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_the_memory_remains_mannheim_germany_-_february_16_2018">Metallica: The Memory Remains (Mannheim, Germany...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_the_memory_remains_mannheim_germany_-_february_16_2018">Metallica: The Memory Remains (Mannheim, Germany - February...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2020-03-18</i>
   </div>

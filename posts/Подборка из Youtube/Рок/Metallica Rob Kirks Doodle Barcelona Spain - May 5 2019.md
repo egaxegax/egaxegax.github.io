@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="qDALgkPKeLs" src="https://i.ytimg.com/vi/qDALgkPKeLs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_rob_kirks_doodle_barcelona_spain_-_may_5_2019">Metallica: Rob & Kirk's Doodle (Barcelona, Spain...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_rob_kirks_doodle_barcelona_spain_-_may_5_2019">Metallica: Rob & Kirk's Doodle (Barcelona, Spain - May 5,...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-05-06</i>
   </div>

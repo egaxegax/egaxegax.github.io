@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="eVlRQn6AMYs" src="https://i.ytimg.com/vi/eVlRQn6AMYs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/ac_dc_-_the_jack_live_at_river_plate_december_2009">AC/DC - The Jack (Live At River Plate, December...</a><br>
+    <a class="nodecor" href="/posts.html?rok/ac_dc_-_the_jack_live_at_river_plate_december_2009">AC/DC - The Jack (Live At River Plate, December 2009)</a><br>
     <i class="smaller2">acdcVEVO</i><br>
     <i class="smaller3">2013-06-06</i>
   </div>

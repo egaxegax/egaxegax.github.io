@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="l75iLL5M9vc" src="https://i.ytimg.com/vi/l75iLL5M9vc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_head_injury_los_angeles_ca_-_january_16_2019">Metallica: Head Injury (Los Angeles, CA - January...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_head_injury_los_angeles_ca_-_january_16_2019">Metallica: Head Injury (Los Angeles, CA - January 16, 2019)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-01-31</i>
   </div>

@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="TC-kqiIc5iQ" src="https://i.ytimg.com/vi/TC-kqiIc5iQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_disposable_heroes_hmeenlinna_finland_-_july_16_2019">Metallica: Disposable Heroes (Hämeenlinna,...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_disposable_heroes_hmeenlinna_finland_-_july_16_2019">Metallica: Disposable Heroes (Hämeenlinna, Finland - July 16...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-11-04</i>
   </div>

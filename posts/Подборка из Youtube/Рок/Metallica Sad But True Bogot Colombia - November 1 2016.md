@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="eUUm7ZajgJc" src="https://i.ytimg.com/vi/eUUm7ZajgJc/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_sad_but_true_bogot_colombia_-_november_1_2016">Metallica: Sad But True (Bogotá, Colombia -...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_sad_but_true_bogot_colombia_-_november_1_2016">Metallica: Sad But True (Bogotá, Colombia - November 1, 2016...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2018-12-18</i>
   </div>

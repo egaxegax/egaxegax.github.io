@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="_-ONKtlmizs" src="https://i.ytimg.com/vi/_-ONKtlmizs/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/ac_dc_-_big_jack_live_at_river_plate_december_2009">AC/DC - Big Jack (Live At River Plate, December...</a><br>
+    <a class="nodecor" href="/posts.html?rok/ac_dc_-_big_jack_live_at_river_plate_december_2009">AC/DC - Big Jack (Live At River Plate, December 2009)</a><br>
     <i class="smaller2">acdcVEVO</i><br>
     <i class="smaller3">2013-06-06</i>
   </div>

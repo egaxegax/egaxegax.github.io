@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="_qAXqRp9Mxk" src="https://i.ytimg.com/vi/_qAXqRp9Mxk/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_motorbreath_montral_canada_-_july_19_2017">Metallica: Motorbreath (Montréal, Canada - July 19...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_motorbreath_montral_canada_-_july_19_2017">Metallica: Motorbreath (Montréal, Canada - July 19, 2017)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2017-07-25</i>
   </div>

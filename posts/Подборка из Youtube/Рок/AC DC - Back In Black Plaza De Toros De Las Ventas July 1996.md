@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="JoMLhnvV-yM" src="https://i.ytimg.com/vi/JoMLhnvV-yM/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/ac_dc_-_back_in_black_plaza_de_toros_de_las_ventas_july_1996">AC/DC - Back In Black (Plaza De Toros De Las...</a><br>
+    <a class="nodecor" href="/posts.html?rok/ac_dc_-_back_in_black_plaza_de_toros_de_las_ventas_july_1996">AC/DC - Back In Black (Plaza De Toros De Las Ventas, July...</a><br>
     <i class="smaller2">acdcVEVO</i><br>
     <i class="smaller3">2013-08-04</i>
   </div>

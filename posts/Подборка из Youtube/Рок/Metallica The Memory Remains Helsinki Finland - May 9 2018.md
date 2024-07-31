@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="eXDMUV9c7IU" src="https://i.ytimg.com/vi/eXDMUV9c7IU/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_the_memory_remains_helsinki_finland_-_may_9_2018">Metallica: The Memory Remains (Helsinki, Finland...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_the_memory_remains_helsinki_finland_-_may_9_2018">Metallica: The Memory Remains (Helsinki, Finland - May 9,...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2018-05-14</i>
   </div>

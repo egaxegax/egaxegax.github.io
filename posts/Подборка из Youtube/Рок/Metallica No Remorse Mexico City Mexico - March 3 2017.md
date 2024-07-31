@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="8DgY_wTSBhQ" src="https://i.ytimg.com/vi/8DgY_wTSBhQ/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_no_remorse_mexico_city_mexico_-_march_3_2017">Metallica: No Remorse (Mexico City, Mexico -...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_no_remorse_mexico_city_mexico_-_march_3_2017">Metallica: No Remorse (Mexico City, Mexico - March 3, 2017)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2017-04-10</i>
   </div>

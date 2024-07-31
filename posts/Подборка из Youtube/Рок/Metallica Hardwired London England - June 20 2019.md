@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="bZJLdSqTM9I" src="https://i.ytimg.com/vi/bZJLdSqTM9I/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_hardwired_london_england_-_june_20_2019">Metallica: Hardwired (London, England - June 20,...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_hardwired_london_england_-_june_20_2019">Metallica: Hardwired (London, England - June 20, 2019)</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2019-06-27</i>
   </div>

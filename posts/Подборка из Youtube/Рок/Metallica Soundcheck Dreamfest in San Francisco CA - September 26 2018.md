@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="BT_TsXCx70g" src="https://i.ytimg.com/vi/BT_TsXCx70g/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor" href="/posts.html?rok/metallica_soundcheck_dreamfest_in_san_francisco_ca_-_september_26_2018">Metallica: Soundcheck (Dreamfest in San...</a><br>
+    <a class="nodecor" href="/posts.html?rok/metallica_soundcheck_dreamfest_in_san_francisco_ca_-_september_26_2018">Metallica: Soundcheck (Dreamfest in San Francisco, CA -...</a><br>
     <i class="smaller2">Metallica</i><br>
     <i class="smaller3">2018-11-11</i>
   </div>
