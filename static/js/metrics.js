@@ -65,7 +65,6 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){
     function ads(){ if(document.getElementById(blid)){ 
       (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ switch(typ){
-          case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
           case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
           case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
           case 'inImg':  (function addInImage(blid,p_dark,rtbid,images) {
@@ -76,6 +75,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
                             window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
                             addInImage(images);
                           })(Array.from(document.querySelectorAll('img'))); break;
+          case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
           default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
         }}});
       }, {threshold:0.9}).observe(document.getElementById(blid)));
