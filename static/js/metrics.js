@@ -72,8 +72,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
                             if(!images.length) return;
                             const image = images.shift();
                             image.id = `ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`;
-                            window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId: 'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
-                            renderInImage(images);
+                            window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
+                            addInImage(images);
                           })(Array.from(document.querySelectorAll('img'))); break;
           default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
         }}});
