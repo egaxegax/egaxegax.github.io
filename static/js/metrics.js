@@ -71,10 +71,10 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
           case 'inImg':  (function addInImage(blid,p_dark,rtbid,images) {
                             if(!images.length) return;
                             const image = images.shift();
+                            console.log(image);
                             image.id = `ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`;
                             window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
                             addInImage(images);
-                            console.log(image);
                           })(Array.from(document.querySelectorAll('img'))); break;
           default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
         }}});
