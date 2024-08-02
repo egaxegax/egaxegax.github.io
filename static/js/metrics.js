@@ -63,30 +63,31 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10, widget:11, inimage:12};
   window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){
-    function ads(){ if(document.getElementById(blid)){ 
-      (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ switch(typ){
-          case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
-          case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
-          case 'inImg':  (function addInImage(blid,p_dark,rtbid,images) {
-                            if(!images.length) return;
-                            const image = images.shift();
-                            console.log(image);
-                            image.id = `ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`;
-                            window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
-                            addInImage(images);
-                          })(Array.from(document.querySelectorAll('img'))); break;
-          case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
-          default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
-        }}});
-      }, {threshold:0.9}).observe(document.getElementById(blid)));
-    }};
+    function ads(){ 
+      function run(){ switch(typ){
+        case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
+        case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
+        case 'inImg':  (function addInImage(blid,p_dark,rtbid,images) {
+                          if(!images.length) return;
+                          const image = images.shift();
+                          console.log(image);
+                          window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:`ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`, type:'inImage'});});
+                          addInImage(images);
+                        })(Array.from(document.getElementById('page_content').querySelector('img'))); break;
+        case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
+        default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
+      }}
+      if (!blid) run();
+      else if (document.getElementById(blid))
+        (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
+    };
     while(YA_TMR.length) clearInterval(YA_TMR.pop());
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
     setTimeout(ads);
   };
   [].slice.call(document.getElementsByTagName('script')).filter((s)=>{return s.src.indexOf('metrics.js')>-1;}).map((sp)=>{
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('root', sp.getAttribute('data-dark')!=null, 1, 'flMob');
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('root', sp.getAttribute('data-dark')!=null, 2, 'flDesk');  
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark')!=null, 1, 'flMob');
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark')!=null, 2, 'flDesk');  
   });
 }
 { // VK reklama
