@@ -74,12 +74,12 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
                           console.log(image);
                           window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:`ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`, type:'inImage'});});
                           addInImage(images);
-                        })(Array.from(document.getElementById('page_content').querySelector('img'))); break;
+                        })(Array.from(document.getElementById('page_content').querySelectorAll('img'))); break;
         case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
         default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
       }}
-      if (!blid) run();
-      else if (document.getElementById(blid))
+      if(!blid) run();
+      else if(document.getElementById(blid))
         (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
     };
     while(YA_TMR.length) clearInterval(YA_TMR.pop());
