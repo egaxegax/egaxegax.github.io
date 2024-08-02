@@ -67,7 +67,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       function run(){ switch(typ){
         case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
         case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
-        case 'inImg':  (function addInImage(blid,p_dark,rtbid,images) {
+        case 'inImg':  (function addInImage(images) {
                           if(!images.length) return;
                           const image = images.shift();
                           console.log(image);
