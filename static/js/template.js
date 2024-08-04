@@ -74,9 +74,12 @@ function addLoader(bl){
 // fix header to non-scroll
 //
 function fixHeader(rtb_offset){
+  var offsTop = 0;
   document.getElementById('header').style.position = 'fixed';
+  offsTop += document.getElementById('header').offsetHeight;
   document.getElementById('page_header').style.position = 'fixed';
-  const offsTop = document.getElementById('header').offsetHeight+ document.getElementById('page_header').offsetHeight;
+  document.getElementById('page_header').style.top = offsTop+'px';
+  offsTop += document.getElementById('page_header').offsetHeight;
   if(window.addYaRTB_Block && document.getElementById('ya_rtb_hd')){
     document.getElementById('ya_rtb_hd').style.position = 'fixed';
     document.getElementById('ya_rtb_hd').style.top = offsTop+'px';
