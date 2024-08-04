@@ -26,6 +26,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books_l.svg" onload="this.scrollIntoView()" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg" alt="Карты"></a>
 </div>
+<div id="ya_rtb_hd" class="main mh_2"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -44,15 +45,22 @@
 '<div class="large table">'+
   '<div class="tcell vmid"><h1 id="pheader">'+'Список авторов в алфавитном порядке'+'</h1></div>'+
 '</div>';
+  if(window.addYaRTB_Block){ 
+    addYaRTB_Block('ya_rtb_hd', false, YA_RTB[4]);
+    fixHeader(175);
+  }
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addArt(art,i){
-    var roots = ROOTS;
+    var subdir = '';
+    if (ROOTS[art[3]][0] != '.'){
+      subdir = '<em>' +ROOTS[art[3]][0]+' / </em> ';
+    }
     var tmpl = 
   '<div class="msgtext">'+
-    '<table class="av" width="99%"><tr>'+
-      '<td width="5%" class="hspaced"><img class="rounded" src="'+buildURL('songs')+'/'+roots[art[3]][0]+'/'+art[0]+'/'+tr(art[0])+'.jpg" alt=""></td>'+
-      '<td width="80%" class="large hspaced"><a class="nodecor dark" href="/songs.html?'+tr(art[0])+'">'+art[0]+'</a></td>'+
+    '<table class="av" width="100%"><tr>'+
+      // '<td width="5%" class="hspaced"><img class="rounded" src="'+buildURL('songs')+'/'+roots[art[3]][0]+'/'+art[0]+'/'+tr(art[0])+'.jpg" alt=""></td>'+
+      '<td width="80%" class="large hspaced"><a class="nodecor dark" href="/songs.html?'+tr(art[0])+'">'+subdir+art[0]+'</a></td>'+
       '<td valign="center"><b><i>'+art[1]+'</i></b></td>'+
       '<td valign="center" align="right" class="light"><i class="counter small">'+i+'</i></td></tr>'+
     '</table>'+
