@@ -24,8 +24,8 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 .p .col {padding-left:5px; padding-right:5px; white-space:nowrap;}
 .p th {font-weight:normal; font-style:italic; color:#777;}
 .bt {border-top:1px dotted #333;}
-.br {border-right:1px dotted #333eee;}
-.bb {border-bottom:1px dotted #333eee;}
+.br {border-right:1px dotted #333;}
+.bb {border-bottom:1px dotted #333;}
 .mb {padding-bottom:10px;}
 /* youtube playlist */
 .yb .preview { height:180px; border-radius:4%; margin: 0 10px 5px 0; }
