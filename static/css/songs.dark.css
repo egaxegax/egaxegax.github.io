@@ -15,6 +15,7 @@ div.about { background-color:#333; border:1px solid #404040; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#404040; color:#fff; }
 #root { background:#262626; }
+#header, #page_header, #ya_rtb_hd { background:#262626; width:100%; }
 #page_footer button { background:#fff; }
 /**/
 .av img { width:80%; height:auto; }
