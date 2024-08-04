@@ -104,11 +104,6 @@
   'Найдено <b><i>'+ARTS.length+'</i></b> авторов и <b><i>'+SONGS.length+'</i></b> текстов';
     ARTS = ARTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
-    if(window.addYaRTB_Block){
-      document.getElementById('page_content').innerHTML += 
-    '<div id="ya_rtb_0" class="bmarg mw mh_2"></div>';
-      addYaRTB_Block('ya_rtb_0', true, YA_RTB[4]);
-    }
     addPageContent(ARTS, PAGE);
   });
 
