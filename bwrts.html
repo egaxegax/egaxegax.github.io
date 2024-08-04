@@ -26,7 +26,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books_a.svg" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg" onload="this.scrollIntoView()" alt="Карты"></a>
 </div>
-<div id="ya_rtb_hd" class="main mw mh_hd"></div>
+<div id="ya_rtb_hd" class="main mh_hd"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -45,22 +45,30 @@
 '<div class="large table">'+
   '<div class="tcell vmid"><h1 id="pheader">'+'Список авторов в алфавитном порядке'+'</h1></div>'+
 '</div>';
+  if(window.addYaRTB_Block){ 
+    addYaRTB_Block('ya_rtb_hd', true, YA_RTB[5]);
+    fixHeader(175);
+  }
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addWrt(wrt,i){
+    var subdir = '';
+    if (ROOTS[wrt[3]][0] != '.'){
+      subdir = '<em> / '+ROOTS[wrt[3]][0]+ '</em> ';
+    }
     var tmpl = 
   '<div class="msgtext">'+
-    '<table class="av" width="99%"><tr>'+
-      '<td width="5%" class="hspaced"><div id="im'+i+'"></div></td>'+
-      '<td width="80%" class="large hspaced"><a class="nodecor dark" href="/books.html?'+tr(wrt[0])+'">'+wrt[0]+'</a></td>'+
+    '<table class="av" width="100%"><tr>'+
+      // '<td width="5%" class="hspaced"><div id="im'+i+'"></div></td>'+
+      '<td width="80%" class="large hspaced"><a class="nodecor dark" href="/books.html?'+tr(wrt[0])+'">'+wrt[0]+subdir+'</a></td>'+
       '<td valign="center"><b><i>'+wrt[1]+'</i></b></td>'+
       '<td valign="center" align="right"><i class="counter small">'+i+'</i></td>'+
     '</tr></table>'+
   '</div>';
-    var img = new Image();
-    img.className = "rounded";
-    img.src = buildURL('books')+'/img/'+tr(wrt[0])+'.jpg';
-    img.onload = function(){ document.getElementById('im'+i).appendChild(this); };
+    // var img = new Image();
+    // img.className = "rounded";
+    // img.src = buildURL('books')+'/img/'+tr(wrt[0])+'.jpg';
+    // img.onload = function(){ document.getElementById('im'+i).appendChild(this); };
     return tmpl;
   }
 
@@ -91,7 +99,7 @@
       updateMetaTag('description', 'список авторов ' + urlParams().page);
     }
     window.PAGE = { 
-      per: 10,                 // blocks 1 page
+      per: 20,                 // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.WRTS = SUBJ,
@@ -100,11 +108,6 @@
   'Найдено <b><i>'+WRTS.length+'</i></b> авторов и <b><i>'+BOOKS.length+'</i></b> книг';
     WRTS = WRTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
-    if(window.addYaRTB_Block){
-      document.getElementById('page_content').innerHTML += 
-    '<div id="ya_rtb_0" class="bmarg mw mh_2"></div>';
-      addYaRTB_Block('ya_rtb_0', true, YA_RTB[5]);
-    }
     addPageContent(WRTS, PAGE);
   });
 

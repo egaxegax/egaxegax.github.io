@@ -83,7 +83,7 @@ function fixHeader(rtb_offset){
   if(window.addYaRTB_Block && document.getElementById('ya_rtb_hd')){
     document.getElementById('ya_rtb_hd').style.position = 'fixed';
     document.getElementById('ya_rtb_hd').style.top = offsTop+'px';
-    rtb_offset = document.getElementById('ya_rtb_hd').offsetHeight||rtb_offset||60;
+    rtb_offset = document.getElementById('ya_rtb_hd').offsetHeight||rtb_offset||120;
   }
   document.getElementById('page_content').style.paddingTop = String(
     offsTop+ (rtb_offset||0)) + 'px';
