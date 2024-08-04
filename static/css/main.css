@@ -69,7 +69,7 @@ select { padding:2px 5px; margin:0 10px 0 0; }
 hr { border:1px dashed #777; }
 pre { font-size:0.9rem; }
 /* reklama */
-.mh_hd { max-height:170px; }
+.mh_hd { max-height:150px; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:400px; }
 .mh_2 { max-height:170px; }
