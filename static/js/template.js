@@ -75,13 +75,15 @@ function addLoader(bl){
 //
 function fixHeader(rtb_offset){
   document.getElementById('header').style.position = 'fixed';
+  document.getElementById('page_header').style.position = 'fixed';
+  const offsTop = document.getElementById('header').offsetHeight+ document.getElementById('page_header').offsetHeight;
   if(window.addYaRTB_Block && document.getElementById('ya_rtb_hd')){
     document.getElementById('ya_rtb_hd').style.position = 'fixed';
-    document.getElementById('ya_rtb_hd').style.top = document.getElementById('header').offsetHeight+'px';    
+    document.getElementById('ya_rtb_hd').style.top = offsTop+'px';
     rtb_offset = document.getElementById('ya_rtb_hd').offsetHeight||rtb_offset||60;
   }
-  document.getElementById('page_header').style.paddingTop = String(
-    document.getElementById('header').offsetHeight+ (rtb_offset||0)) + 'px';
+  document.getElementById('page_content').style.paddingTop = String(
+    offsTop+ (rtb_offset||0)) + 'px';
 }
 //
 // build path to title from TITLES from index.js
