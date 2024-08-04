@@ -121,7 +121,7 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.addYaRTB_Block && (i%2==0 || page.titles.length==1)){
+      if(window.addYaRTB_Block && (i%3==0 || page.titles.length==1)){
         document.getElementById('page_content').innerHTML += 
       '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
         addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[2]);
