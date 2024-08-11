@@ -26,6 +26,7 @@
 <a title="Книги для чтения" href="/books.html"><img src="/static/img/books_a.svg" onload="this.scrollIntoView()" alt="Книги"></a>
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg" alt="Карты"></a>
 </div>
+<div id="ya_rtb_hd" class="main mh_hd"></div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
@@ -47,7 +48,12 @@
 '<div class="large table">'+
   '<div class="tcell vmid"><h1 id="pheader">'+'Список жанров книг в алфавитном порядке'+'</h1></div>'+
 '</div>';
-  document.getElementById('page_content').innerHTML = addLoader(1);
+  if(window.addYaRTB_Block){ 
+    addYaRTB_Block('ya_rtb_hd', true, YA_RTB[4]);
+    fixHeader(155);
+  } else {
+    document.getElementById('page_content').innerHTML = addLoader(1);
+  }
 
   function addGenre(gnr,i){
     var tmpl = 

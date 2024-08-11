@@ -16,27 +16,7 @@ import os
 import sys
 import time
 import io
-from updatelist import main as updatelist_main
-
-def E_OS(text):
-  return text
-
-def TR(t):
-  ru = {
-    'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 
-    'е':'e', 'ё':'e', 'ж':'j', 'з':'z', 'и':'i', 'й':'j', 
-    'к':'k', 'л':'l', 'м':'m', 'н':'n', 'о':'o', 
-    'п':'p', 'р':'r', 'с':'s', 'т':'t', 'у':'u', 
-    'ф':'f', 'х':'h', 'ц':'c', 'ч':'ch', 'ш':'sh', 
-    'щ':'shch', 'ы':'y', 'ъ':'', 'ь':'', 
-    'э':'e', 'ю':'ju', 'я':'ya'
-  }
-  tr = []
-  t = re.sub(r'[\'"«»`\(\)%]+','',t)
-  t = re.sub(r'[\s\.,–&#№]+','_',t)
-  for s in t:
-    tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
-  return ''.join(tr).lower()
+from updatelist import main as updatelist_main, E_OS, tr
 
 def main(path='.'):
   mfiles = []
@@ -155,9 +135,9 @@ def main(path='.'):
       isubj = len(msubj) - 1
       if len(murls) == 0:
         murls[iroot] += [surl +'/'+ sdir + '.html']
-      murls[iroot] += [surl +'/'+ sdir + '.html?'+ TR(f[1])]
+      murls[iroot] += [surl +'/'+ sdir + '.html?'+ tr(f[1])]
     mtitles += [[isubj, len(mfiles) - len(mtitles) - mcounter, f[2], f[3], iroot]]
-    murls[iroot] += [surl +'/'+ sdir +'.html?'+ TR(f[1]+'/'+f[2])]
+    murls[iroot] += [surl +'/'+ sdir +'.html?'+ tr(f[1]+'/'+f[2])]
     if sdir == 'foto':
       murls[iroot] += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
     print( i )

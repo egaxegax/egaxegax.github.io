@@ -12,23 +12,32 @@ import sys
 def E_OS(text):
   return text
 
-def TR(t):
+def tr(t):
   ru = {
     'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 
     'е':'e', 'ё':'e', 'ж':'j', 'з':'z', 'и':'i', 'й':'j', 
     'к':'k', 'л':'l', 'м':'m', 'н':'n', 'о':'o', 
     'п':'p', 'р':'r', 'с':'s', 'т':'t', 'у':'u', 
     'ф':'f', 'х':'h', 'ц':'c', 'ч':'ch', 'ш':'sh', 
-    'щ':'shch', 'ы':'y', 'э':'e', 'ю':'ju', 'я':'ya'
+    'щ':'shch', 'ы':'y', 'ъ':'', 'ь':'', 
+    'э':'e', 'ю':'ju', 'я':'ya'
   }
   tr = []
-  t = re.sub(r'[ъь\'"`\(\)\.,%]+','',t)
-  t = re.sub(r'\s','_',t)
+  t = re.sub(r'[\'"«»`\(\)%]+','',t)
+  t = re.sub(r'[\s\.,–&#№]+','_',t)
   for s in t:
     tr.append( ru.get( s ) or ru.get( s.lower(), s ) )
   return ''.join(tr).lower()
 
-def SP(text):
+def tr_chars(value, max_length):
+    if len(value) > max_length:
+        truncd_val = value[:max_length]
+        if not len(value) == max_length+1 and value[max_length+1] != ' ':
+            truncd_val = truncd_val[:truncd_val.rfind(' ')]
+        return  truncd_val + '...'
+    return value
+
+def sp(text):
   return text.replace(' ', '%20')
 
 def main(path='.'):
@@ -62,13 +71,13 @@ def main(path='.'):
       else:
         continue
 
-      lntit = '[' + title + '](' + SP(title) + ext + ')'
+      lntit = '[' + title + '](' + sp(title) + ext + ')'
       if fname == 'about': # +about text
         text = re.sub('(^<\!--.*-->)\s*', '', text)
         ititles = [text + '\n'] + ititles
       else:
         if os.path.isfile(os.path.join(root, title + '.jpg')): # image in books, foto
-          ititles.append('![](' + SP(title) + '.jpg' + ')  \n' + lntit + '\n')
+          ititles.append('![](' + sp(title) + '.jpg' + ')  \n' + lntit + '\n')
         else:
           ititles.append('* ' + lntit)
 
@@ -76,8 +85,8 @@ def main(path='.'):
 
     if ititles: # titles list
       text = ''
-      if os.path.isfile(os.path.join(root, TR(subj) + '.jpg')):
-        text = '![](' + TR(subj) + '.jpg' + ')\n\n'
+      if os.path.isfile(os.path.join(root, tr(subj) + '.jpg')):
+        text = '![](' + tr(subj) + '.jpg' + ')\n\n'
       text += '\n'.join(ititles)
       open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(text)
 
@@ -86,7 +95,7 @@ def main(path='.'):
       dirs.sort()
       for name in dirs:
         if name not in ('.git', 'th', '_layouts'): # skip dir
-          isubj.append( '* [' + name + '](' + SP(name) + ')' )
+          isubj.append( '* [' + name + '](' + sp(name) + ')' )
       text = '\n'.join(isubj)
       if text:
         open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(about + text)

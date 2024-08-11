@@ -9,9 +9,8 @@ import os, sys, time, re, csv
 
 sys.path.insert(0, '../../..')
 
-from update import TR
 from update import main as update_main
-from updatelist import main as updatelist_main
+from updatelist import main as updatelist_main, tr, tr_chars
 
 path = '.'
 if len(sys.argv) > 1:
@@ -27,14 +26,6 @@ def tr_cut(t):
   t = re.sub('\s+',' ',t)
   t = t.strip()
   return t
-
-def tr_chars(value, max_length):
-    if len(value) > max_length:
-        truncd_val = value[:max_length]
-        if not len(value) == max_length+1 and value[max_length+1] != ' ':
-            truncd_val = truncd_val[:truncd_val.rfind(' ')]
-        return  truncd_val + '...'
-    return value
 
 fcount = 0
 
@@ -61,7 +52,7 @@ for root, dirs, files in os.walk(path, topdown=False):
               ftime = os.path.getmtime(os.path.join(root, name))
               ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', time.localtime(ftime))
               mtitl = tr_cut(titl)
-              phref = '/posts.html?'+ TR(os.path.basename(os.getcwd())) +'/'+ TR(mtitl)
+              phref = '/posts.html?'+ tr(os.path.basename(os.getcwd())) +'/'+ tr(mtitl)
               text = """{ctime}
 <div class="yb">
   <a class="nodecor" href="{phref}">
