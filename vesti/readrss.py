@@ -7,12 +7,13 @@ import os, sys, time
 import xml.etree.ElementTree as ET
 import urllib.request
 
-sys.path.insert(0, '..')
+cdir = os.path.dirname(__file__)
+
+sys.path.insert(0, cdir+'/..')
 
 from update import main as update_main
 from updatelist import main as updatelist_main, tr_chars
 
-cdir = os.path.dirname(__file__)
 fcount = 0
 
 import urllib.request
@@ -44,6 +45,7 @@ with urllib.request.urlopen("https://habr.com/ru/rss/articles/?fl=ru") as purl:
           fcount += 1
 
 if fcount:
-  update_main(cdir)
-  updatelist_main(cdir)
+  os.chdir(cdir)
+  update_main()
+  updatelist_main()
   
