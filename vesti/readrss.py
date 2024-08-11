@@ -14,8 +14,8 @@ from update import main as update_main
 from updatelist import main as updatelist_main, tr_chars
 
 RSSlist = {
-  'РИА Новости сегодня' :'https://ria.ru/export/rss2/index.xml',
-  'Свежая подборка статей с Хабра': 'https://habr.com/ru/rss/articles/?fl=ru'
+  'Свежая подборка статей с Хабра': 'https://habr.com/ru/rss/articles/?fl=ru',
+  'РИА Новости сегодня' :'https://ria.ru/export/rss2/index.xml'
 }
 fcount = 0
 rcount = 0
