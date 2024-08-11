@@ -2,10 +2,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "upload ftp",
+            "label": "upload site to host",
             "type": "shell",
-            "command": "sh upload.sh",
-            "problemMatcher": [],
+            "command": "sh uphost.sh",
             "group": {
                 "kind": "build",
                 "isDefault": true
