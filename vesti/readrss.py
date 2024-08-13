@@ -37,6 +37,8 @@ for hdr, url in RSSlist.items():
           fp.write('<h3>'+hdr+' на '+ time.strftime('%c', cdtm) +'</h3>')
           locale.setlocale(locale.LC_ALL, 'C')
           for item in channel.findall('item'):
+            if fcount/rcount >= 20:
+              break
             titl = item.find('title').text
             phref = item.find('link').text
             pdate = item.find('pubDate').text

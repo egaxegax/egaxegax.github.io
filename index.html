@@ -115,7 +115,7 @@
     return (page.titles.length == 0);
   }
 
-  upfunc({url: buildURL('vesti')+'/index.js'}, function(s){
+  upfunc({url: buildURL('vesti')+'/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = { 
       per: 6,                  // blocks 1 page
