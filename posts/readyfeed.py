@@ -36,7 +36,7 @@ for hdr, url in RSSlist:
     for item in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('{http://www.w3.org/2005/Atom}entry'):
       titl = item.find('{http://www.w3.org/2005/Atom}title').text
       pdate = item.find('{http://www.w3.org/2005/Atom}published').text
-      udate = item.find('{http://www.w3.org/2005/Atom}updated').text
+      udate = item.find('{http://www.w3.org/2005/Atom}published').text
       videoid = item.find('{http://www.youtube.com/xml/schemas/2015}videoId').text
       authr = item.find('{http://www.w3.org/2005/Atom}author/{http://www.w3.org/2005/Atom}name').text
       imurl= item.find('{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}thumbnail').get('url')

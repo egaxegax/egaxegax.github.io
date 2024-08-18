@@ -27,6 +27,7 @@
 * [Michael Bolton Elton John Eric Clapton Bee Gees Rod Stewart - Soft Rock Love Songs 70s 80s 90s](Michael%20Bolton%20Elton%20John%20Eric%20Clapton%20Bee%20Gees%20Rod%20Stewart%20-%20Soft%20Rock%20Love%20Songs%2070s%2080s%2090s.md)
 * [Nirvana Bon Jovi RHCP The Police The Rolling Stones Most Popular Classic Rock 70s 80s 90s](Nirvana%20Bon%20Jovi%20RHCP%20The%20Police%20The%20Rolling%20Stones%20Most%20Popular%20Classic%20Rock%2070s%2080s%2090s.md)
 * [Queen ACDC Aerosmith Bon Jovi Metallica Nirvana Gnr The Most Classic Rock Songs 70s 80s 90s](Queen%20ACDC%20Aerosmith%20Bon%20Jovi%20Metallica%20Nirvana%20Gnr%20The%20Most%20Classic%20Rock%20Songs%2070s%2080s%2090s.md)
+* [Queen Aerosmith Nirvana ACDC Bon Jovi Scorpions Guns N RosesBest Classic Rock Of 70s 80s 90s](Queen%20Aerosmith%20Nirvana%20ACDC%20Bon%20Jovi%20Scorpions%20Guns%20N%20RosesBest%20Classic%20Rock%20Of%2070s%2080s%2090s.md)
 * [Queen Bon Jovi Guns N Roses The Beatles The Rolling StonesTop 100 Best Classic Rock Songs Time](Queen%20Bon%20Jovi%20Guns%20N%20Roses%20The%20Beatles%20The%20Rolling%20StonesTop%20100%20Best%20Classic%20Rock%20Songs%20Time.md)
 * [Queen Bon Jovi Van Halen Aerosmith Guns NRoses Classic Rock Songs 70s 80s 90s Full Album](Queen%20Bon%20Jovi%20Van%20Halen%20Aerosmith%20Guns%20NRoses%20Classic%20Rock%20Songs%2070s%2080s%2090s%20Full%20Album.md)
 * [Soft Rock Ballads 70s 80s 90sLionel Richie Elton John Phil Collins Bee Gees Eagles Foreigner](Soft%20Rock%20Ballads%2070s%2080s%2090sLionel%20Richie%20Elton%20John%20Phil%20Collins%20Bee%20Gees%20Eagles%20Foreigner.md)
