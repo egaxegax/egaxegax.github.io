@@ -1,11 +1,17 @@
 #!python3
 #
-# Parse and index RSS xml to .md and index.js files
+# Parse RSS .xml page to .md and run index files
 #
+
+RSSlist = {
+  'Подборка IT-новостей от Хабра': 'https://habr.com/ru/rss/news/?fl=ru',
+  'EADaily Европейские новости': 'https://eadaily.com/ru/rss/index.xml',
+  # 'РИА Новости' :'https://ria.ru/export/rss2/index.xml'
+}
 
 import os, sys, time
 import xml.etree.ElementTree as ET
-import urllib.request
+from urllib.request import Request, urlopen
 
 cdir = os.path.dirname(__file__)
 
@@ -15,19 +21,16 @@ from updatelist import main as updatelist_main, tr_chars
 
 import locale
 
-RSSlist = {
-  'Подборка статей с Хабра': 'https://habr.com/ru/rss/articles/?fl=ru',
-  'РИА Новости' :'https://ria.ru/export/rss2/index.xml'
-}
 fcount = 0
 rcount = 0
 
 for hdr, url in RSSlist.items():
   rcount += 1
-  with urllib.request.urlopen(url) as purl:
-    rsstext = purl.read().decode("utf8")
+  with urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
+    rsstext = purl.read()#.decode("utf8")
     if rsstext:
-      root = ET.fromstring(rsstext)
+      parser = ET.XMLParser()
+      root = ET.fromstring(rsstext, parser=parser)
       for channel in root.findall("channel"):
         cdtm = time.localtime()
         if not os.path.exists(os.path.join(cdir, str(cdtm.tm_year))):
