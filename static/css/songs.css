@@ -2,7 +2,7 @@
 .wrap { background-color:#fff; border:1px solid #ddd; }
 .dark { color:#333; }
 .gray { color:#888; }
-.counter { color:#3fa969; }
+.counter { color:#379e60; }
 .chords strong em { color:#3c677b; }
 .chord div { color:#4d3ca0; display:inline-block; }
 body { background-color:#f4f4f4; color:#333; }
@@ -14,7 +14,7 @@ input[type=text], input[type=password], input[type=number], textarea, select {
   background-color:#fff; }
 #root { background:#eee; }
 #header { background-color:#d2e0f0; }
-#page_footer button { background:#3fa969; color:#fff; }
+#page_footer button { background:#379e60; color:#fff; }
 /**/
 .av div { min-width:60px; min-height:60px; }
 .av img { width:100%; height:auto; }

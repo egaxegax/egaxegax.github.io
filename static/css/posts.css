@@ -2,7 +2,7 @@
 .wrap { background-color:#fff; border:1px solid #ddd; }
 .dark { color:#333; }
 .gray { color:#888; }
-.counter { color:#3fa969; }
+.counter { color:#379e60; }
 body { background-color:#f4f4f4; color:#333; }
 a, a:active, a:focus { color:#3c677b; }
 b,i,em { color:#777; }
@@ -12,7 +12,7 @@ input[type=text], input[type=password], input[type=number], textarea, select {
   background-color:#fff; }
 #root { background:#eee; }
 #header { background-color:#d2e0f0; }
-#page_footer button { background:#3fa969; color:#fff; }
+#page_footer button { background:#379e60; color:#fff; }
 /* football tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
