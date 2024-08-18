@@ -4,9 +4,9 @@
 .gray { color:#888; }
 .counter { color:#3fa969; }
 body { background-color:#f4f4f4; color:#333; }
-a, a:active, a:focus { color:#245c77 }
+a, a:active, a:focus { color:#3c677b; }
 b,i,em { color: #777; }
-b em { color: #245c77 }
+b em { color: #3c677b; }
 pre { background-color:#eee; color:#222; border-radius:2px; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; }
