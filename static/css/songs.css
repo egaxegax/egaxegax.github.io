@@ -3,12 +3,12 @@
 .dark { color:#333; }
 .gray { color:#888; }
 .counter { color:#3fa969; }
-.chords strong em { color:#31708f; }
+.chords strong em { color:#245c77 }
 .chord div { color:#4d3ca0; display:inline-block; }
 body { background-color:#f4f4f4; color:#333; }
-a, a:active, a:focus { color:#31708f; }
+a, a:active, a:focus { color:#245c77 }
 b,i,em { color: #777; }
-b em { color: #31708f; }
+b em { color: #245c77 }
 h3 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
   background-color:#fff; }
