@@ -15,5 +15,6 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 #page_footer button { background:#3fa969; color:#fff; }
 /* rss */
 .rss { padding: 0 0 5px; }
+.rss a { color:#333; }
 /* msgs */
 .footer { font-size:small; font-style:italic; color:#777; }
