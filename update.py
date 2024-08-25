@@ -94,7 +94,7 @@ def main(path='.'):
           try: 
             ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
           except:
-            print(root, name,)
+            print(root, name)
             raise
       else:
         print(os.path.join(root, name), '...skip')
@@ -156,15 +156,6 @@ def main(path='.'):
     for i, u in enumerate(murls):
       io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
   time.sleep(1)
-
-#  sitemap = open(path + '/../sitemap.txt', 'w', newline='\n') # truncate file
-#  sitemap = open(path + '/../sitemap.txt', 'a', newline='\n')
-#  for d in ['books', 'foto', 'posts', 'songs', 'vesti', 'dbcartajs']:
-#    try:
-#      sitemap.write(open(path + '/../' + d + '/sitemap.txt').read() + '\n')
-#      print(d + ' added to sitemap.txt',)
-#    except: 
-#      print(d + ' skip')
 
 if __name__ == '__main__':
   main()

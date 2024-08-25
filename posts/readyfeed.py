@@ -4,17 +4,19 @@
 #
 
 RSSlist = [
-  ('Подборка из Youtube/Еда', 'channel_id=UC0K_CP437favZ3maGV06vaw'),   #Телеканал Еда
+  # ('Подборка из Youtube/Еда', 'channel_id=UC0K_CP437favZ3maGV06vaw'),   #Телеканал Еда
   # ('Подборка из Youtube/Еда', 'channel_id=UCgeval0um2gyuRhP1qch8Uw'),   #В.Емельяненко
   ('Подборка из Youtube/Работа', 'channel_id=UC8JDt3Vz9WYpAS6b-oVH9xw'),#HandyTeddy
   ('Подборка из Youtube/Работа', 'channel_id=UCCOice03R7HkLOu1CLYsgHA'),#Работа вахтой
+  ('Подборка из Youtube/Работа', 'channel_id=UCvyV3YljDuJBoWLmyobMzEQ'),#LAGRANGE (Работа)
   ('Подборка из Youtube/Рок', 'channel_id=UCuRFWlVMAwwP8WerDBQWPBQ'),   #Rock Melody
   ('Подборка из Youtube/Рок', 'channel_id=UCxaaXbw6bVYoChlP4HNIolA'),   #Driving Rock
   ('Подборка из Youtube/Рок', 'playlist_id=PLaqeTZoS9LMrqy7lBTa5IH2sD893YW0La'), #70-80-90 rock music
+  ('Подборка из Youtube/Рок', 'channel_id=UCpL9dvPOAW8l7sruH-3OUMw'),   #80's Rock N Roll
   ('Подборка из Youtube/Путешествия', 'channel_id=UCXrMdUHkl2taQq4DhPg4etg'), #samsebeskazal
   ('Подборка из Youtube/Фильмы', 'channel_id=UCOD2veMoMj5jy6K0pGt55Bw'),#FILMSTER
   ('Подборка из Youtube/Фильмы', 'channel_id=UC3N4p9X5DjPCH184X-izRwA'),#Watch Movies
-  ('Подборка из Youtube/Фильмы', 'channel_id=UC7-_uJKpRJXmsxD2B0idDqg'),#Классика жанра
+  # ('Подборка из Youtube/Фильмы', 'channel_id=UC7-_uJKpRJXmsxD2B0idDqg'),#Классика жанра
 ]
 
 import os, sys, time
@@ -67,6 +69,7 @@ for hdr, url in RSSlist:
     print(hdr, url, '(%s)' % (icount,))
 
 if fcount:
+  time.sleep(1)
   update_main(cdir)
   updatelist_main(cdir)
   

@@ -65,7 +65,7 @@ def main(path='.'):
     subj = E_OS(os.path.basename(root))
 
     if root in ('.git',):
-      print("SKIP", root)
+      print('SKIP', root)
       continue
 
     about = ''
