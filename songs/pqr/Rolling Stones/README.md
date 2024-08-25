@@ -21,7 +21,6 @@
 * [As Tears Go By](As%20Tears%20Go%20By.md)
 * [Baby Break It Down](Baby%20Break%20It%20Down.md)
 * [Backstreet Girl](Backstreet%20Girl.md)
-* [Beast Of Burden (2 вариант)](Beast%20Of%20Burden%20(2%20вариант).md)
 * [Beast Of Burden](Beast%20Of%20Burden.md)
 * [Bitch](Bitch.md)
 * [Blinded By Rainbows](Blinded%20By%20Rainbows.md)

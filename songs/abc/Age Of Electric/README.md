@@ -1,1 +1,0 @@
-* [Remote Control](Remote%20Control.md)
