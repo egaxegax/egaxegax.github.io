@@ -1,3 +1,5 @@
+Подборка видеоклипов с *рок-музыкой* различных жанров и исполнителей.
+
 * [ACDC Queen Aerosmith Bon Jovi Metallica Nirvana Guns N Roses Classic Rock Songs 70s 80s 90s](ACDC%20Queen%20Aerosmith%20Bon%20Jovi%20Metallica%20Nirvana%20Guns%20N%20Roses%20Classic%20Rock%20Songs%2070s%2080s%2090s.md)
 * [Aerosmith Queen Bon Jovi Metallica Nirvana Gnr The Beatles Classic Rock Songs 70s 80s 90s](Aerosmith%20Queen%20Bon%20Jovi%20Metallica%20Nirvana%20Gnr%20The%20Beatles%20Classic%20Rock%20Songs%2070s%2080s%2090s.md)
 * [Andy Gibb Bee Gees Greatest Hits Full Album Best Songs Of Andy Gibb Collection](Andy%20Gibb%20Bee%20Gees%20Greatest%20Hits%20Full%20Album%20Best%20Songs%20Of%20Andy%20Gibb%20Collection.md)
@@ -25,6 +27,7 @@
 * [Classic Rock Playlist Greatest Hits 70s 80s 90sQueen The Beatles Pink Floyd The Rolling Stones](Classic%20Rock%20Playlist%20Greatest%20Hits%2070s%2080s%2090sQueen%20The%20Beatles%20Pink%20Floyd%20The%20Rolling%20Stones.md)
 * [Classic Rock Playlist Greatest Hits Original 70s 80s 90s Scorpions Metallica Nirvana Bon Jovi](Classic%20Rock%20Playlist%20Greatest%20Hits%20Original%2070s%2080s%2090s%20Scorpions%20Metallica%20Nirvana%20Bon%20Jovi.md)
 * [Eric Clapton Rod Stewart Lionel Richie Phil Collins Bee Gees - Soft Rock Ballads 70s 80s 90s](Eric%20Clapton%20Rod%20Stewart%20Lionel%20Richie%20Phil%20Collins%20Bee%20Gees%20-%20Soft%20Rock%20Ballads%2070s%2080s%2090s.md)
+* [Greatest Hits Slow Rock Ballads 70s 80s 90s Scorpions U2 Bon Jovi GNR Aerosmith Nirvana](Greatest%20Hits%20Slow%20Rock%20Ballads%2070s%2080s%2090s%20Scorpions%20U2%20Bon%20Jovi%20GNR%20Aerosmith%20Nirvana.md)
 * [Guns N Roses Greatest Hits Full Album - Guns N Roses Best Songs 2024](Guns%20N%20Roses%20Greatest%20Hits%20Full%20Album%20-%20Guns%20N%20Roses%20Best%20Songs%202024.md)
 * [Hard Rock Playlist 80s 90s Hard Rock Collection Best Hard Rock Songs Of 80s and 90s](Hard%20Rock%20Playlist%2080s%2090s%20Hard%20Rock%20Collection%20Best%20Hard%20Rock%20Songs%20Of%2080s%20and%2090s.md)
 * [Lionel Richie Bee Gees Elton John Chicago Rod Stewart Eagles Billy Joel Lobo Soft Rock Music](Lionel%20Richie%20Bee%20Gees%20Elton%20John%20Chicago%20Rod%20Stewart%20Eagles%20Billy%20Joel%20Lobo%20Soft%20Rock%20Music.md)
@@ -38,8 +41,10 @@
 * [Queen Aerosmith Nirvana ACDC Bon Jovi Scorpions Guns N RosesBest Classic Rock Of 70s 80s 90s](Queen%20Aerosmith%20Nirvana%20ACDC%20Bon%20Jovi%20Scorpions%20Guns%20N%20RosesBest%20Classic%20Rock%20Of%2070s%2080s%2090s.md)
 * [Queen Bon Jovi Guns N Roses The Beatles The Rolling StonesTop 100 Best Classic Rock Songs Time](Queen%20Bon%20Jovi%20Guns%20N%20Roses%20The%20Beatles%20The%20Rolling%20StonesTop%20100%20Best%20Classic%20Rock%20Songs%20Time.md)
 * [Queen Bon Jovi Van Halen Aerosmith Guns NRoses Classic Rock Songs 70s 80s 90s Full Album](Queen%20Bon%20Jovi%20Van%20Halen%20Aerosmith%20Guns%20NRoses%20Classic%20Rock%20Songs%2070s%2080s%2090s%20Full%20Album.md)
+* [Scorpions Aerosmith Bon Jovi White Lion Ledzeppelin The Eagles- Best Slow Rock Ballads 80s 90s](Scorpions%20Aerosmith%20Bon%20Jovi%20White%20Lion%20Ledzeppelin%20The%20Eagles-%20Best%20Slow%20Rock%20Ballads%2080s%2090s.md)
 * [Scorpions Greatest Hits Scorpion Songs Full Album](Scorpions%20Greatest%20Hits%20Scorpion%20Songs%20Full%20Album.md)
 * [Sleepless Aloha - Reed Mathis](Sleepless%20Aloha%20-%20Reed%20Mathis.md)
+* [Slow Rock Ballads 70s 80s 90s Bon Jovi Guns N Roses Nirvana Scorpions Best of slow rock](Slow%20Rock%20Ballads%2070s%2080s%2090s%20Bon%20Jovi%20Guns%20N%20Roses%20Nirvana%20Scorpions%20Best%20of%20slow%20rock.md)
 * [Slow Rock Ballads 70s 80s 90s Songs of All Time Scorpions Bon Jovi U2 Nirvana Aerosmith](Slow%20Rock%20Ballads%2070s%2080s%2090s%20Songs%20of%20All%20Time%20Scorpions%20Bon%20Jovi%20U2%20Nirvana%20Aerosmith.md)
 * [Soft Rock Ballads 70s 80s 90sLionel Richie Elton John Phil Collins Bee Gees Eagles Foreigner](Soft%20Rock%20Ballads%2070s%2080s%2090sLionel%20Richie%20Elton%20John%20Phil%20Collins%20Bee%20Gees%20Eagles%20Foreigner.md)
 * [Story Of A Toy - Freedom Trail Studio](Story%20Of%20A%20Toy%20-%20Freedom%20Trail%20Studio.md)
