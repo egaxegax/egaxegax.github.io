@@ -1,21 +1,21 @@
 /* dark theme */
-.wrap { background-color:#404040; border:1px solid #454545; }
+.wrap { background:rgb(70,75,80); border:1px solid #555555; }
 .dark { color:#eee; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
 .counter { color:#59a750; }
-body,text { background-color:#222; color:#eee; } 
+body,text { background:rgb(52,55,60); color:#eee; } 
 a, a:active, a:focus { color:#f4c430; }
 b,i,em,h4,h5 { color:#aaa; }
 b em, strong em { color:#f4c430; }
 h3 { font-size:1rem; color:#9ac495; }
-div.about { background-color:#333; border:1px solid #404040; }
-pre { background-color:#eee; color:#222; border-radius:2px; }
+div.about { background:rgb(80,83,88); border:1px solid #606060; }
+pre { background:#eee; color:#222; border-radius:2px; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
-  background-color:#404040; color:#fff; }
+  background:rgb(70,75,80); color:#fff; }
 li::marker { color:green; }
-#root { background:#262626; }
-#header, #page_header, #ya_rtb_hd { background:#262626; width:100%; }
+#root { background:rgb(60,63,68); }
+#header, #page_header, #ya_rtb_hd { background:rgb(60,63,68); width:100%; }
 #page_footer button { background:#fff; }
 /**/
 h3 a {text-decoration:none; outline:none;}
@@ -23,7 +23,7 @@ img { max-width:100%; border-radius:2px; }
 /* football tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
-.g td {width:60px; background-color:#333; border:2px solid #404040; white-space:nowrap; padding:2px;}
+.g td {width:60px; background:rgb(80,83,88); border:2px solid #606060; white-space:nowrap; padding:2px;}
 .g .col {width:240px; text-align:left; padding-left:10px;}
 .p {border-collapse:collapse; width:100%; display:block; overflow:auto;}
 .p img {vertical-align:middle; max-width:none;}
@@ -44,4 +44,4 @@ img { max-width:100%; border-radius:2px; }
 .yb .smaller2 { font-size:smaller; }
 .yb .smaller3 { font-size:x-small; }
 /**/
-.mh_hd { background:#262626; }
+.mh_hd { background:rgb(60,63,68); }
