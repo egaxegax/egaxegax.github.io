@@ -1,17 +1,17 @@
 /* dark theme */
-.wrap { background-color:#404040; border:1px solid #454545; }
+.wrap { background:#404040; border:1px solid #454545; }
 .dark { color:#eee; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
 .counter { color:#59a750; }
-body { background-color:#222; color:#eee; }
+body { background:#222; color:#eee; }
 a, a:active, a:focus { color:#f4c430; }
 b,i,em { color: #aaa; }
 b em { color: #f4c430; }
 h3 { color:#fff; }
-div.about { background-color:#333; border:1px solid #404040; }
+div.about { background:#333; border:1px solid #404040; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
-  background-color:#404040; color:#fff; }
+  background:#404040; color:#fff; }
 #root { background:#262626; }
 #header, #page_header, #ya_rtb_hd { background:#262626; width:100%; }
 #page_footer button { background:#fff; }

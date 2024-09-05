@@ -1,17 +1,16 @@
 /* light theme */
-.wrap { background-color:#fff; border:1px solid #eee; }
+.wrap { background:#fff; }
 .dark { color:#333; }
 .gray { color:#888; }
 .counter { color:#379e60; }
-body { background-color:#fafafa; color:#333; }
+body { background:#fafafa; color:#333; }
 a, a:active, a:focus { color:#3c677b; }
 b,i,em { color: #777; }
 b em { color: #3c677b; }
 h3 { color:#fff; }
-input[type=text], input[type=password], input[type=number], textarea, select { 
-  background-color:#fff; }
-#root { background-color:#eee; }
-#header { background-color:#d2e0f0; }
+input[type=text], input[type=password], input[type=number], textarea, select { background:#fff; }
+#root { background:#f0f0f0; }
+#header { background:#d2e0f0; }
 #page_footer button { background:#379e60; color:#fff; }
 /**/
 #msgfooter { text-align: left; }
