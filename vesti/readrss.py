@@ -1,6 +1,6 @@
 #!python3
 #
-# Parse RSS .xml page to .md and run index files
+# Parse RSS .xml page to .md and run index.py
 #
 
 RSSlist = {

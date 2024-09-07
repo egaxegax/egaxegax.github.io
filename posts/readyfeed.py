@@ -18,6 +18,7 @@ RSSlist = [
   ('Подборка из Youtube/Путешествия', 'channel_id=UCXrMdUHkl2taQq4DhPg4etg'), #samsebeskazal
   ('Подборка из Youtube/Путешествия', 'channel_id=UCcgTo1grFem37WQAi8QoRxw'), #Вольному Воля
   ('Подборка из Youtube/Опасные путешествия', 'channel_id=UCrc2oY9Trr97eYNkSbUBlQg'), #ДИГГЕР ДАНИИЛ ДАВЫДОВ
+  ('Подборка из Youtube/Тайны', 'channel_id=UCtIoZ-DVPymIv3t6365uFow'), #Темная сторона
   ('Подборка из Youtube/Фильмы', 'channel_id=UCOD2veMoMj5jy6K0pGt55Bw'),#FILMSTER
   ('Подборка из Youtube/Фильмы', 'channel_id=UC3N4p9X5DjPCH184X-izRwA'),#Watch Movies
 ]
@@ -40,7 +41,6 @@ for hdr, url in RSSlist:
   with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     for item in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('{http://www.w3.org/2005/Atom}entry'):
       titl = item.find('{http://www.w3.org/2005/Atom}title').text
-      pdate = item.find('{http://www.w3.org/2005/Atom}published').text
       udate = item.find('{http://www.w3.org/2005/Atom}published').text
       videoid = item.find('{http://www.youtube.com/xml/schemas/2015}videoId').text
       authr = item.find('{http://www.w3.org/2005/Atom}author/{http://www.w3.org/2005/Atom}name').text
@@ -49,7 +49,6 @@ for hdr, url in RSSlist:
       phref = '/posts.html?'+ tr(os.path.basename(hdr)) +'/'+ tr(mtitl)
       pdt = time.strptime(udate, '%Y-%m-%dT%H:%M:%S%z')
       rdate = time.strftime('%Y-%m-%d', pdt)
-      pdt = time.strptime(udate, '%Y-%m-%dT%H:%M:%S%z')
       ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
       # print('\n', '\n'.join([mtitl, phref, rdate, imurl, authr, videoid]))
       text = """{ctime}
