@@ -35,17 +35,17 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
       # print('\n', '\n'.join([mtitl, phref, rdate, imurl, authr, link]))
       text = """{ctime}
 <div class="yb">
-  <a class="nodecor" href="{phref}">
-    <img class="preview" src="{imurl}" align="middle" alt="">
-  </a>
   <div class="inlbl">
-    <a class="nodecor" href="{link}">{titl}</a><br>
-    <i class="smaller2">{authr}</i><br>
-    <i class="smaller3">{rdate}</i>
+  <p class="table preview">
+    <a class="trow nodecor" href="{phref}">
+      <img src="{imurl}" alt="">
+    </a>
+    <a class="trow nodecor" href="{link}"><span class="inlbl">{titl}</span></a>
+    <i class="trow smaller2"><span class="inlbl">{authr}</span></i>
+    <i class="trow smaller3">{rdate}</i>
+  </p>
   </div>
-</div>
-<div class="large">
-  <div class="smaller hspace">&ensp; {text}</div>
+  <div class="inlbl">{text}</div>
 </div>
 """.format(ctime=ctime, phref=phref, link=link, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 80), authr=authr, text=text)
       if not os.path.exists(os.path.join(cdir, os.path.dirname(hdr))):
