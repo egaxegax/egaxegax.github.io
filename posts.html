@@ -84,7 +84,8 @@
   function addPost(r,p){
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
-          .replace(/src="\.\//g, 'src="'+p.url+'/../'); // fix img url to absolute
+          .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
+          .replace('hqdefault.jpg', 'mqdefault.jpg');  // fix youtube 16:9 img size 
     updateMetaTag('description', 'смотреть '+p.subj+', '+html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255) + ' ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', смотреть, видео, посты');
     if(p.view == 'post' && html.search('data-videoid')>-1){
