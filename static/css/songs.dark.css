@@ -1,21 +1,21 @@
 /* dark theme */
-.wrap { background:#404040; border:1px solid #454545; }
+.wrap { background:rgb(68,71,76); }
 .dark { color:#eee; }
 .gray { color:#aaa; }
 .counter { color:#59a750; }
 .chords strong em { color:#f4c430; }
 .chord { background:#eee; border-radius:2px; }
 .chord div { color:#4d3ca0; display:inline-block; }
-body { background:#222; color:#eee; }
+body { background:rgb(52,55,60); color:#eee; }
 a, a:active, a:focus { color:#f4c430; }
 b,i,em { color: #aaa; }
 b em { color: #f4c430; }
 h3 { color:#fff; }
-div.about { background:#333; border:1px solid #404040; }
+div.about { background:rgb(75,78,83); border:1px solid #606060; }
 input[type=text], input[type=password], input[type=number], textarea, select { 
-  background:#404040; color:#fff; }
-#root { background:#262626; }
-#header, #page_header, #ya_rtb_hd { background:#262626; width:100%; }
+  background:rgb(68,71,76); color:#fff; }
+#root { background:rgb(55,58,63); }
+#header, #page_header, #ya_rtb_hd { background:rgb(55,58,63); width:100%; }
 #page_footer button { background:#fff; }
 /**/
 .av img { width:80%; height:auto; }
