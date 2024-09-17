@@ -37,7 +37,7 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
 <div class="yb">
   <div class="inlbl">
   <p class="table preview">
-    <a class="trow nodecor" href="{phref}">
+    <a class="trow nodecor" href="{link}">
       <img src="{imurl}" alt="">
     </a>
     <a class="trow nodecor" href="{link}"><span class="inlbl">{titl}</span></a>
@@ -47,7 +47,7 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
   </div>
   <div class="inlbl">{text}</div>
 </div>
-""".format(ctime=ctime, phref=phref, link=link, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 80), authr=authr, text=text)
+""".format(ctime=ctime, link=link, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 80), authr=authr, text=text)
       if not os.path.exists(os.path.join(cdir, os.path.dirname(hdr))):
         os.mkdir(os.path.join(cdir, os.path.dirname(hdr)))
       if not os.path.exists(os.path.join(cdir, hdr)):
