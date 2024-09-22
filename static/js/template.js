@@ -73,19 +73,15 @@ function addLoader(bl){
 //
 // fix header to non-scroll
 //
-function fixHeader(rtb_offset){
-  var offsTop = 0;
+function fixHeader(rtb_offset, offsTop){
   document.getElementById('header').style.position = 'fixed';
-  offsTop += document.getElementById('header').offsetHeight;
-  document.getElementById('page_header').style.position = 'fixed';
-  document.getElementById('page_header').style.top = offsTop+'px';
-  offsTop += document.getElementById('page_header').offsetHeight;
+  offsTop = document.getElementById('header').offsetHeight;
   if(window.addYaRTB_Block && document.getElementById('ya_rtb_hd')){
     document.getElementById('ya_rtb_hd').style.position = 'fixed';
     document.getElementById('ya_rtb_hd').style.top = offsTop+'px';
     rtb_offset = document.getElementById('ya_rtb_hd').offsetHeight||rtb_offset||120;
   }
-  document.getElementById('page_content').style.paddingTop = String(
+  document.getElementById('page_header').style.paddingTop = String(
     offsTop+ (rtb_offset||0)) + 'px';
 }
 //
