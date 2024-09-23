@@ -47,7 +47,12 @@
   '<div class="tcell vmid"><h1 id="foto_header">'+'Подборка фоток на разные темы'+'</h1></div>'+
   '<div class="tcell tright vmid" style="width:30%">'+'<select id="albumlist"></select>'+'</div>'+
 '</div>';
-  document.getElementById('page_content').innerHTML = addLoader(1);
+  if(window.addYaRTB_Block){ 
+    // fixHeader();
+    addYaRTB_Block('ya_rtb_hd', false, YA_RTB[3]);
+  } else {
+    // document.getElementById('page_content').innerHTML = addLoader(1);
+  }
 
   function addFoto(p){
     updateMetaTag('description', p.title[2]+', '+ p.subj);
@@ -63,7 +68,7 @@
     '<a class="hspace nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+ p.i +'</a>'+
     '<span class="tooltip" title="снято '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
-    if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_'+p.i, false, YA_RTB[3]);
+    // if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_'+p.i, false, YA_RTB[3]);
     // if(window.addYaRTB_Block) addYaRTB_Block('', false, YA_RTB['inimage'], 'inImg');
   }
 
@@ -73,7 +78,6 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-    if(window.addYaRTB_Block && iinit) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[3]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = fotos.slice(page.bottom, page.top);
