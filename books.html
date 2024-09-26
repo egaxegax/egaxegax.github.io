@@ -51,6 +51,7 @@
   '<div class="tcell vmid"><h1>'+'Подборка описаний книг разных авторов из свободных источников '+'</h1></div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
+  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[5]);
 
   function strToUtc(dt){
     var dt = dt.split(' ');
@@ -69,8 +70,10 @@
 
   function addLast(r,p,ci){
     var text = r.replace(/<\!--.*-->\s*/, '');
-    updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
-    updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, авторы, жанры');
+    if(p.if) {
+      updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
+      updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, авторы, жанры');
+    }
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext inlbl vmid tcenter" style="min-width:110px; max-width:110px">'+
     '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
@@ -94,7 +97,7 @@
     '<a class="hspace1 nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
-    if(window.addYaRTB_Block && (p.if||!ci)) addYaRTB_Block('ya_rtb_'+p.i, false, YA_RTB[5]);
+    if(window.addYaRTB_Block && (p.i) && (p.i%3 == 0 || ci == undefined)) addYaRTB_Block('ya_rtb_'+(p.i), false, YA_RTB[5]);
   }
   
   function addAbout(r,p){
@@ -116,7 +119,6 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-//    if(window.addYaRTB_Block && iinit) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[5]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = books.slice(page.bottom, page.top);
@@ -126,7 +128,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'book'+(i+page.bottom), if: i%2==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages

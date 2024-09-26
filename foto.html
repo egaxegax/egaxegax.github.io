@@ -12,7 +12,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css">
 <link rel="stylesheet" href="/static/css/foto.css">
-<script src="/static/js/metrics.js" data-floor="1"></script>
+<script src="/static/js/metrics.js" data-floor="0"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
 </head>
@@ -47,16 +47,14 @@
   '<div class="tcell vmid"><h1 id="foto_header">'+'Подборка фоток на разные темы'+'</h1></div>'+
   '<div class="tcell tright vmid" style="width:30%">'+'<select id="albumlist"></select>'+'</div>'+
 '</div>';
-  if(window.addYaRTB_Block){ 
-    // fixHeader();
-    addYaRTB_Block('ya_rtb_hd', false, YA_RTB[3]);
-  } else {
-    // document.getElementById('page_content').innerHTML = addLoader(1);
-  }
+  document.getElementById('page_content').innerHTML = addLoader(1);
+  addYaRTB_Block('ya_rtb_hd', false, YA_RTB[3]);
 
   function addFoto(p){
-    updateMetaTag('description', p.title[2]+', '+ p.subj);
-    updateMetaTag('keywords', p.title[2]+', '+ p.subj + ', подборки фотографий');
+    if(p.if) {
+      updateMetaTag('description', p.title[2]+', '+ p.subj);
+      updateMetaTag('keywords', p.title[2]+', '+ p.subj + ', подборки фотографий');
+    }
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext tcenter"><a target="_blank" href="'+p.fullurl+'">'+
     '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
@@ -65,11 +63,11 @@
   '<div class="msgfooter">'+
     '<a class="hspace nodecor" href="/foto.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<a class="hspace nodecor nowrap" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+ (p.title[2].length>15 ? p.title[2].slice(0,25) : p.title[2])+'...' +' </a>'+
-    '<a class="hspace nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+ p.i +'</a>'+
+    '<a class="hspace nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>'+
     '<span class="tooltip" title="снято '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
-    // if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_'+p.i, false, YA_RTB[3]);
-    // if(window.addYaRTB_Block) addYaRTB_Block('', false, YA_RTB['inimage'], 'inImg');
+    if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_'+p.i, false, YA_RTB[3]);
+    // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', false, YA_RTB['inimage'], 'inImg');
   }
 
   function addPageContent(roots, subjects, fotos, page, iinit){
@@ -91,7 +89,7 @@
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addFoto(p);
-      })({id: 'foto'+(i+page.bottom), i: 1+(i+page.bottom), if: i==0, subj: subj, title: page.titles[i], 
+      })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], 
         url: buildURL('foto')+'/'+root+'/'+subj+'/th/'+title+'.jpg',
         fullurl: buildURL('foto')+'/'+root+'/'+subj+'/'+title+'.jpg'});
     }

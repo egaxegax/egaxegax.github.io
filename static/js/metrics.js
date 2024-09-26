@@ -72,7 +72,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
                           if(!images.length) return;
                           const image = images.shift();
                           image.id = `ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`;
-                          console.log(image);
+                          // console.log(image);
                           window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
                           addInImage(images);
                         })(Array.from(document.getElementById('page_content').querySelectorAll('img'))); break;

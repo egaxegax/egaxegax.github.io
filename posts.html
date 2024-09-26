@@ -49,6 +49,7 @@
   '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+'</h1></div>'+
   '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
+  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[2]);
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -103,7 +104,7 @@
   '</div>'+
   '<div class="msgfooter">'+
     '<a class="hspace nodecor light" href="/posts.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a>'+
-    '<a class="hspace1 nodecor light" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+ (1+p.i) +'</a>'+
+    '<a class="hspace1 nodecor light" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+ (p.i+1) +'</a>'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
   }
@@ -114,7 +115,6 @@
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
-//    if(window.addYaRTB_Block && iinit) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[2]);
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = posts.slice(page.bottom, page.top);
@@ -122,14 +122,14 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.addYaRTB_Block && (i%3==0 || page.titles.length==1)){
+      if(window.addYaRTB_Block && (i+page.bottom) && (i%3==0)){
         document.getElementById('page_content').innerHTML += 
       '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw mh_2"></div>';
         addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[2]);
       }
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages

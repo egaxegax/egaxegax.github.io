@@ -107,11 +107,6 @@
   'Выберите одну из <i><b>'+SUBS.length+'</b></i> тем статей';
     document.getElementById('page_content').innerHTML = '';
     addPageContent(SUBS, PAGE);
-    if(window.addYaRTB_Block){
-      document.getElementById('page_footer').innerHTML += 
-    '<div id="ya_rtb_widget" class="bmarg mw mh_1"></div>';
-      addYaRTB_Block('ya_rtb_widget', true, YA_RTB['widget'], 'widget');
-    }
   });
 
 </script>
