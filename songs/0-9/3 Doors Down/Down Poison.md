@@ -43,7 +43,7 @@ Chorus:  "Down Poison"
 ***C  A  B    } x1***  
   
 Outro:  LOTS of distortion  
-***E*** power chord*  
+***E*** power chord  
 *rhythm:*  
 [s-e-s-s-s-s-e-s-s-s-s-s-s-s-s] } x3  
 *s = sixteenth note*  
