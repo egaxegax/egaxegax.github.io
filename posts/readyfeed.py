@@ -17,10 +17,11 @@ RSSlist = [
   ('Подборка из Youtube/Рок', 'channel_id=UCHpEfiVM3rlXBistGgTPakQ'),   #Music Sky
   ('Подборка из Youtube/Рок', 'channel_id=UCpL9dvPOAW8l7sruH-3OUMw'),   #80's Rock N Roll
   ('Подборка из Youtube/Рок', 'channel_id=UCKSClb5P4hMTmNeynTzEm7A'),   #thekorolishut
-  ('Подборка из Youtube/Путешествия', 'channel_id=UCXrMdUHkl2taQq4DhPg4etg'), #samsebeskazal
+  ('Подборка из Youtube/Путешествия', 'channel_id=UCXrMdUHkl2taQq4DhPg4etg'), #Samsebeskazal Denis
   ('Подборка из Youtube/Путешествия', 'channel_id=UCcgTo1grFem37WQAi8QoRxw'), #Вольному Воля
   ('Подборка из Youtube/Опасные путешествия', 'channel_id=UCrc2oY9Trr97eYNkSbUBlQg'), #ДИГГЕР ДАНИИЛ ДАВЫДОВ
   ('Подборка из Youtube/Тайны', 'channel_id=UCtIoZ-DVPymIv3t6365uFow'), #Темная сторона
+  ('Подборка из Youtube/Тайны', 'channel_id=UCVsDyCRge9DXmk1S6Ibr10Q'), #Свидетель Windows
   ('Подборка из Youtube/Фильмы', 'channel_id=UCOD2veMoMj5jy6K0pGt55Bw'),#FILMSTER
   ('Подборка из Youtube/Фильмы', 'channel_id=UC3N4p9X5DjPCH184X-izRwA'),#Watch Movies
 ]
