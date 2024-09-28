@@ -4,6 +4,7 @@
 #
 
 RSSlist = [
+  # ('Подборка из Youtube/Еда', 'channel_id=UC0K_CP437favZ3maGV06vaw'),   #Телеканал Еда
   # ('Подборка из Youtube/Еда', 'channel_id=UCgeval0um2gyuRhP1qch8Uw'),   #В.Емельяненко
   ('Подборка из Youtube/Работа', 'channel_id=UC8JDt3Vz9WYpAS6b-oVH9xw'),#HandyTeddy
   ('Подборка из Youtube/Работа', 'channel_id=UC42cQmihrg0Udqac_P0v2hQ'),#NZT USA
@@ -15,6 +16,7 @@ RSSlist = [
   ('Подборка из Youtube/Рок', 'playlist_id=PLaqeTZoS9LMrqy7lBTa5IH2sD893YW0La'), #70-80-90 Rock Music
   ('Подборка из Youtube/Рок', 'channel_id=UCHpEfiVM3rlXBistGgTPakQ'),   #Music Sky
   ('Подборка из Youtube/Рок', 'channel_id=UCpL9dvPOAW8l7sruH-3OUMw'),   #80's Rock N Roll
+  ('Подборка из Youtube/Рок', 'channel_id=UCKSClb5P4hMTmNeynTzEm7A'),   #thekorolishut
   ('Подборка из Youtube/Путешествия', 'channel_id=UCXrMdUHkl2taQq4DhPg4etg'), #samsebeskazal
   ('Подборка из Youtube/Путешествия', 'channel_id=UCcgTo1grFem37WQAi8QoRxw'), #Вольному Воля
   ('Подборка из Youtube/Опасные путешествия', 'channel_id=UCrc2oY9Trr97eYNkSbUBlQg'), #ДИГГЕР ДАНИИЛ ДАВЫДОВ
