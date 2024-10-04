@@ -4919,6 +4919,7 @@ https://egax.ru/songs.html?boyarskij_mihail/gorodskie_cvety
 https://egax.ru/songs.html?boyarskij_mihail/kogda_tvoj_drug_v_krovi
 https://egax.ru/songs.html?boyarskij_mihail/lanfren_-_lanfra
 https://egax.ru/songs.html?boyarskij_mihail/listya_jgut
+https://egax.ru/songs.html?boyarskij_mihail/molitva_iz_kf_vozvrashchenie_mushketerov
 https://egax.ru/songs.html?boyarskij_mihail/na_vojne_kak_na_vojne
 https://egax.ru/songs.html?boyarskij_mihail/na_vojne_kak_na_vojne
 https://egax.ru/songs.html?boyarskij_mihail/nastanet_den_i_chas
@@ -17734,8 +17735,6 @@ https://egax.ru/songs.html?ozzy_osbourne/dreamer_2_variant
 https://egax.ru/songs.html?ozzy_osbourne/i_just_want_you
 https://egax.ru/songs.html?ozzy_osbourne/killer_of_giants
 https://egax.ru/songs.html?ozzy_osbourne/mama_i_coming_home
-https://egax.ru/songs.html?pace_brigitte
-https://egax.ru/songs.html?pace_brigitte/save_your_soul
 https://egax.ru/songs.html?paganini_nikkolo
 https://egax.ru/songs.html?paganini_nikkolo/26_kompozicij_dlya_gitary_1_andantino_v_s
 https://egax.ru/songs.html?paganini_nikkolo/26_kompozicij_dlya_gitary_2_arietta_v_d
@@ -18566,8 +18565,6 @@ https://egax.ru/songs.html?piknik/zdes_pod_jeltym_solncem_lamp
 https://egax.ru/songs.html?piknik/zdes_pod_jeltym_solncem_lamp
 https://egax.ru/songs.html?piknik/znaki_v_okne
 https://egax.ru/songs.html?piknik/zolushka
-https://egax.ru/songs.html?pillows
-https://egax.ru/songs.html?pillows/little_busters
 https://egax.ru/songs.html?pilot
 https://egax.ru/songs.html?pilot/$100
 https://egax.ru/songs.html?pilot/100$
@@ -20371,10 +20368,11 @@ https://egax.ru/songs.html?robotech
 https://egax.ru/songs.html?robotech/its_you
 https://egax.ru/songs.html?robotech/together
 https://egax.ru/songs.html?rod_stewart
+https://egax.ru/songs.html?rod_stewart/faith_of_the_heart
+https://egax.ru/songs.html?rod_stewart/forever_young
+https://egax.ru/songs.html?rod_stewart/if_only
 https://egax.ru/songs.html?rod_stewart/sailing
-https://egax.ru/songs.html?rogers_stan
-https://egax.ru/songs.html?rogers_stan/delivery_delayed
-https://egax.ru/songs.html?rogers_stan/the_rawdon_hills
+https://egax.ru/songs.html?rod_stewart/stay_with_me
 https://egax.ru/songs.html?rok-atele
 https://egax.ru/songs.html?rok-atele/nochnoe_randevu
 https://egax.ru/songs.html?rok-atele/zamykaya_krug
@@ -20868,8 +20866,6 @@ https://egax.ru/songs.html?rust/serebro
 https://egax.ru/songs.html?rust/sonnyj_rycar
 https://egax.ru/songs.html?rust/vorony
 https://egax.ru/songs.html?rust/zelenyj_dol
-https://egax.ru/songs.html?ruth_ruth
-https://egax.ru/songs.html?ruth_ruth/uninvited
 https://egax.ru/songs.html?ryan_adams
 https://egax.ru/songs.html?ryan_adams/desire
 https://egax.ru/songs.html?saltykov_viktor
@@ -24145,8 +24141,6 @@ https://egax.ru/songs.html?valeriya/malenkij_princ
 https://egax.ru/songs.html?valeriya/ne_obijaj_menya
 https://egax.ru/songs.html?valeriya/nejnost_moya
 https://egax.ru/songs.html?valeriya/taju
-https://egax.ru/songs.html?van_der_graaf_generator
-https://egax.ru/songs.html?van_der_graaf_generator/refugees
 https://egax.ru/songs.html?van_halen
 https://egax.ru/songs.html?van_halen/atomic_punk
 https://egax.ru/songs.html?van_halen/beautiful_girls
@@ -24254,8 +24248,6 @@ https://egax.ru/songs.html?visokosnyj_god/shestoj_den_oseni
 https://egax.ru/songs.html?visokosnyj_god/tihij_ogenek
 https://egax.ru/songs.html?vitas
 https://egax.ru/songs.html?vitas/zvezda
-https://egax.ru/songs.html?vivaldi
-https://egax.ru/songs.html?vivaldi/concerto_in_a_minor_opus_3_no_8
 https://egax.ru/songs.html?vivaldi_antonio
 https://egax.ru/songs.html?vivaldi_antonio/four_seasons_winter
 https://egax.ru/songs.html?vivaldi_antonio/koncert_6_v_am_dlya_violnocheli
@@ -24723,11 +24715,6 @@ https://egax.ru/songs.html?vizbor_jurij/zimnij_vecher_sinij_les_zakutal_v_inej
 https://egax.ru/songs.html?vizbor_jurij/zimnyaya_pesnya
 https://egax.ru/songs.html?vizbor_jurij/zimnyaya_pesnya_2_variant
 https://egax.ru/songs.html?vizbor_jurij/znakom_li_ty_s_zemlej
-https://egax.ru/songs.html?voodoo_glow_skulls
-https://egax.ru/songs.html?voodoo_glow_skulls/bullet_proof
-https://egax.ru/songs.html?voodoo_glow_skulls/closet_monster
-https://egax.ru/songs.html?voodoo_glow_skulls/shoot_the_moon
-https://egax.ru/songs.html?voodoo_glow_skulls/youre_the_problem
 https://egax.ru/songs.html?vopli_vidoplyasova
 https://egax.ru/songs.html?vopli_vidoplyasova/abo-abo
 https://egax.ru/songs.html?vopli_vidoplyasova/abo_abo
@@ -25195,8 +25182,6 @@ https://egax.ru/songs.html?whitesnake/looking_for_love_lyrics
 https://egax.ru/songs.html?whitesnake/summer_rain
 https://egax.ru/songs.html?whitesnake/the_deeper_the_love
 https://egax.ru/songs.html?whitesnake/too_many_tears
-https://egax.ru/songs.html?whitney_houston
-https://egax.ru/songs.html?whitney_houston/go_on
 https://egax.ru/songs.html?who
 https://egax.ru/songs.html?who/baba_oriley
 https://egax.ru/songs.html?who/hall_of_the_mountain_king
@@ -25208,8 +25193,6 @@ https://egax.ru/songs.html?who/squeezebox
 https://egax.ru/songs.html?who/summertime_blues
 https://egax.ru/songs.html?who/when_i_was_a_boy
 https://egax.ru/songs.html?who/wont_get_fooled_again
-https://egax.ru/songs.html?wild_colonials
-https://egax.ru/songs.html?wild_colonials/spark
 https://egax.ru/songs.html?wizo
 https://egax.ru/songs.html?wizo/alte_frau
 https://egax.ru/songs.html?xxx_lyrics
@@ -25306,8 +25289,6 @@ https://egax.ru/songs.html?zabludovskij_andrej/vesna
 https://egax.ru/songs.html?zabludovskij_andrej/ya_vstrechu_tebya
 https://egax.ru/songs.html?zacepin_anton
 https://egax.ru/songs.html?zacepin_anton/uletaju
-https://egax.ru/songs.html?zager_and_evans
-https://egax.ru/songs.html?zager_and_evans/in_the_year_2525
 https://egax.ru/songs.html?zahar_maj
 https://egax.ru/songs.html?zahar_maj/supchik
 https://egax.ru/songs.html?zahar_maj/vce_napominaet_o_tebe

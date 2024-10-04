@@ -31,7 +31,7 @@ for fn in glob.glob(path+'/chords*.json'):
         artpath = os.path.join(rpath, d, art)
         if not os.path.exists(artpath):
           os.mkdir(artpath)
-        songpath = os.path.join(artpath, song['details']['title']+'.txt')
+        songpath = os.path.join(artpath, song['details']['title'].replace('/', '')+'.txt')
         open(songpath, 'w').write(ctime + '\n' + song['text'].replace(']:', ']:\n'))
         print(songpath)
         fcount += 1
