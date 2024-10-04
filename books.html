@@ -148,7 +148,7 @@
     return (page.titles.length == 0);
   }
 
-  upfunc({url: buildURL('books')+'/index.js'}, function(s){
+  upfunc({url: buildURL('books')+'/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
     PAGE.per = 3;
