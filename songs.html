@@ -209,7 +209,7 @@
     return (page.titles.length == 0);
   }
 
-  upfunc({url: buildURL('songs')+'/index.js'}, function(s){
+  upfunc({url: buildURL('songs')+'/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
     PAGE.per = 5;  // blocks 1 page
