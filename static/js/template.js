@@ -148,5 +148,5 @@ function tr(s){
 // trim special chars
 //
 function trstr(s){
-  return s.replace(/['\$@\~\^"«»`\/\\\|%\*\!\?\:;\+-]+/g, ' ').replace(/\s+/g,' ');
+  return s.replace(/<[^>]*>/g, '').replace(/['\$@\~\^"«»`\/\\\|%\*\!\?\:;\+-]+/g, ' ').replace(/\s+/g,' ');
 }
