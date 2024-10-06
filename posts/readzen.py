@@ -20,7 +20,7 @@ hdr = 'Подборка с сайтов/Дзен'
 feedurl = 'https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru'
 with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
   for item in json.loads(purl.read())['items']:
-    if fcount < 10 and item['text']:
+    if fcount < 5 and item['text']:
       titl = item['title']
       link = item['link']
       authr = item['domain_title']
