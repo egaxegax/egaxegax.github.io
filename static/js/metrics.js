@@ -23,6 +23,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
      webvisor:true
    });
    window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
+   setTimeout(function(){ document.querySelector('img[data-cid="65044687"]').src = '//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews'; },100);
 }
 //{ // Rambler top 100 counter
 //  (function (w,d,c) {
