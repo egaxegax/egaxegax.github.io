@@ -80,7 +80,7 @@ function fixHeader(rtb_offset, offsTop){
     document.getElementById('ya_rtb_hd').style.position = 'fixed';
     document.getElementById('ya_rtb_hd').style.top = offsTop+'px';
     document.getElementById('ya_rtb_hd').style.width = '100%';
-    rtb_offset = parseInt(window.getComputedStyle(document.getElementById('ya_rtb_hd')).maxHeight)||rtb_offset;
+    rtb_offset = rtb_offset||160;
   }
   document.getElementById('page_header').style.paddingTop = String(
     offsTop+ (rtb_offset||0)) + 'px';
