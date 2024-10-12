@@ -2,7 +2,6 @@
 
 * [Crazy House](Crazy%20House.md)
 * [Russian Vodka](Russian%20Vodka.md)
-* [White Power](White%20Power.md)
 * [В Шторме Викинг И Меч](В%20Шторме%20Викинг%20И%20Меч.md)
 * [Героин](Героин.md)
 * [Доктор Франкинштейн](Доктор%20Франкинштейн.md)

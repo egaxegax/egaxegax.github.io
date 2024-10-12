@@ -1,11 +1,11 @@
-<!--2024-10-06 14:00:02-->
+<!--2024-10-10 14:00:06-->
 <div class="yb">
   <div class="inlbl">
   <p class="table preview">
-    <a class="trow nodecor" href="https://dzen.ru/a/Zv_bpN4hXlTq-CmQ?from=feed&utm_referrer=https%3A%2F%2Fzen.yandex.com&integration=site_desktop&place=export&secdata=CLT8mb2lMiCUAVCWCWoFAZQBdSyQAQA%3D&clid=300&rid=2337875327.1121.1728198001586.88256&referrer_clid=300&">
+    <a class="trow nodecor" href="https://dzen.ru/a/Zv_bpN4hXlTq-CmQ">
       <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66ffdba4de215e54eaf82990_66ffe2bf1e0d933a08f469d6/smart_crop_344x194" alt="">
     </a>
-    <a class="trow nodecor" href="https://dzen.ru/a/Zv_bpN4hXlTq-CmQ?from=feed&utm_referrer=https%3A%2F%2Fzen.yandex.com&integration=site_desktop&place=export&secdata=CLT8mb2lMiCUAVCWCWoFAZQBdSyQAQA%3D&clid=300&rid=2337875327.1121.1728198001586.88256&referrer_clid=300&"><span class="inlbl">Какой бренд телевизора выбрать в 2024 году? Плюсы и минусы TCL, Hisense, Haier,...</span></a>
+    <a class="trow nodecor" href="https://dzen.ru/a/Zv_bpN4hXlTq-CmQ"><span class="inlbl">Какой бренд телевизора выбрать в 2024 году? Плюсы и минусы TCL, Hisense, Haier,...</span></a>
     <i class="trow smaller2"><span class="inlbl">KOLBIN REVIEW</span></i>
     <i class="trow smaller3">2024-10-04</i>
   </p>

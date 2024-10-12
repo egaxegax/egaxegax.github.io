@@ -70,6 +70,7 @@
 * [Queen Led Zeppelin Aerosmith Nirvana ACDC Bon Jovi ScorpionsBest Classic Rock Of 70s 80s 90s](Queen%20Led%20Zeppelin%20Aerosmith%20Nirvana%20ACDC%20Bon%20Jovi%20ScorpionsBest%20Classic%20Rock%20Of%2070s%2080s%2090s.md)
 * [Queen Metallica Nirvana ACDC Aerosmith Bon Jovi Gnr Classic Rock Songs 70s 80s 90s](Queen%20Metallica%20Nirvana%20ACDC%20Aerosmith%20Bon%20Jovi%20Gnr%20Classic%20Rock%20Songs%2070s%2080s%2090s.md)
 * [Queen Nirvana Scorpions Aerosmith U2 ACDC Bon JoviClassic Rock Songs 70s 80s 90s Full Album](Queen%20Nirvana%20Scorpions%20Aerosmith%20U2%20ACDC%20Bon%20JoviClassic%20Rock%20Songs%2070s%2080s%2090s%20Full%20Album.md)
+* [Rock And Roll Playlist 70s 80s 90s Greatest Hits Pink Floyd Queen Nirvana ACDC Guns N Roses](Rock%20And%20Roll%20Playlist%2070s%2080s%2090s%20Greatest%20Hits%20Pink%20Floyd%20Queen%20Nirvana%20ACDC%20Guns%20N%20Roses.md)
 * [Rock Your YouTube Channel Tips for Viral Music Thumbnails rocknroll](Rock%20Your%20YouTube%20Channel%20Tips%20for%20Viral%20Music%20Thumbnails%20rocknroll.md)
 * [Romantic Rock Ballads Playlist 70s 80s Bon Jovi Scorpions Nirvana Crowded House Shawn Mullins](Romantic%20Rock%20Ballads%20Playlist%2070s%2080s%20Bon%20Jovi%20Scorpions%20Nirvana%20Crowded%20House%20Shawn%20Mullins.md)
 * [Scorpions Aerosmith Bon Jovi White Lion Ledzeppelin The Eagles- Best Slow Rock Ballads 80s 90s](Scorpions%20Aerosmith%20Bon%20Jovi%20White%20Lion%20Ledzeppelin%20The%20Eagles-%20Best%20Slow%20Rock%20Ballads%2080s%2090s.md)
