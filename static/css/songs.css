@@ -18,6 +18,6 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 .av div { min-width:60px; min-height:60px; }
 .av img { width:100%; height:auto; }
 /*ads*/
-.mhd { background:#f0f0f0; }
+.mh_hd { background:#f0f0f0; }
 .mw600 { max-width:600px; }
 .mw_b { max-width:680px; }

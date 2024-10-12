@@ -15,6 +15,6 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 /**/
 img.foto { max-width:100%; max-height:400px; border-radius:4px; }
 /*ads*/
-.mhd { background:#f0f0f0; }
+.mh_hd { background:#f0f0f0; }
 .mh_sm { max-height:100px; }
 .mw_1 { max-width:530px; }
