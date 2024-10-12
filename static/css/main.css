@@ -70,13 +70,13 @@ select { padding:2px 5px; margin:0 10px 0 0; }
 hr { border:1px dashed #777; }
 pre { font-size:0.9rem; }
 /* reklama */
-.mh_hd { max-height:140px; }
+.mhd:not(:empty) { max-height:160px; max-width:746px; margin:2px auto 0 auto; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }
 .mh_2 { max-height:190px; }
 .mh { max-height:260px; }
 .mw { max-width:750px; }
 .mw_1 { max-width:165px; }
-.mw_2 { max-width:740px; }
+.mw_2 { max-width:746px; }
 .mw_b { max-width:800px; }
 .mw_f { max-width:740px; }

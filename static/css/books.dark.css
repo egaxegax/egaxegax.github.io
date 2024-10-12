@@ -19,4 +19,4 @@ input[type=text], input[type=password], input[type=number], textarea, select {
 .about img { max-width:120px; padding:0px 10px 0px 0px; }
 .av img { width:100%; height:auto; }
 /**/
-.mh_hd { background:rgb(55,58,61); }
+.mhd { background:rgb(55,58,61); }
