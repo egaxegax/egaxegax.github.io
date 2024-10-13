@@ -86,7 +86,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     };
     while(YA_TMR.length) clearInterval(YA_TMR.pop());
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
-    setTimeout(ads);
+    ads();
   };
   [].slice.call(document.getElementsByTagName('script')).filter((s)=>{return s.src.indexOf('metrics.js')>-1;}).map((sp)=>{
     if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark')!=null, 1, 'flMob');
