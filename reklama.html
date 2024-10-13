@@ -11,7 +11,7 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Подборка контекстной рекламы / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?241013">
+<link rel="stylesheet" href="/static/css/main.css?24101301">
 <link rel="stylesheet" href="/static/css/vesti.css">
 <script src="/static/js/metrics.js?241006" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
@@ -31,7 +31,7 @@
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
 <p class="tcenter smaller gray hspace">
-  <i>P.S.</i> Контент сгенерирован Рекламной службой Яндекса
+  <i>P.S.</i> Контент сгенерирован РСЯ
 </p>
 <table id="footer" class="main"><tr>
 <td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
@@ -42,7 +42,7 @@
 <script>
 
   document.getElementById('page_footer').innerHTML = 
-'<select id="rtblist"></select>';
+'<p class="tcenter"><select id="rtblist"></select></p>';
 
   function addPageContent(roots, subjects, msgs, page){
     PAGE.lock = 1;
@@ -53,17 +53,23 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
-    page.rtb = page.titles[0].split('_');
+    page.rtb = (page.titles[0]||PAGE.osel);
+    page.rtyp = '';
+    switch(page.rtb){
+      case 'feed':
+      case 'widget': page.rtyp = page.rtb;
+      default: break;
+    }
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
-      '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh" style="overflow:auto"><br>'+addLoader(i==0)+'</div>'+
+      '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh" style="overflow:auto"></div>'+
       '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="bmarg mw mh" style="overflow:auto"></div>'+
-      '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="bmarg mw mh" style="overflow:auto"></div>';
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', false, YA_RTB[page.rtb[0]], page.rtb[0] == 'feed' ? page.rtb[0] : '');
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', false, YA_RTB[page.rtb[1]], page.rtb[1] == 'feed' ? page.rtb[1] : '');
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', false, YA_RTB[page.rtb[1]], page.rtb[1] == 'feed' ? page.rtb[1] : '');
+      '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="bmarg mw mh" style="overflow:auto"><br>'+addLoader(i==0)+'</div>';
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', false, YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', false, YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', false, YA_RTB[page.rtb], page.rtyp);
        } else {
         document.getElementById('page_content').innerHTML += 
       '<div id="block'+(i+page.bottom)+'_0" class="wrap">'+
@@ -80,32 +86,29 @@
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
-    '<span class="large">Блок RTB <select id="rtblist" class="nomarg">'+document.getElementById('rtblist').innerHTML+'</select></span>');
-      document.getElementById('rtblist').value = page.titles[0];
+    '<select id="rtblist" class="nomarg" title="Блок RTB">'+document.getElementById('rtblist').innerHTML+'</select>');
+      document.getElementById('rtblist').value = (page.rtb);
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 300);
     return page.titles.length == 0;
   }
 
-  window.PAGE = { 
-    per: 1,                  // blocks count
-    num: urlParams().page||0 // start num page 
-  };
+  window.PAGE = {};
+  PAGE.per = 1;                  // blocks count
+  PAGE.num = urlParams().page||0;// start num page 
+  PAGE.osel = '7';               // start page
+    //
   for(var i in window.YA_RTB){
-    if (i == 'feed' || i == 'widget' || i == 'inimage') continue;
-    for(var j in window.YA_RTB){
-      if (j == 'feed' || j == 'widget' || j == 'inimage' || j == i) continue;
-      document.getElementById('rtblist').innerHTML +=
-    '<option value="'+(i+'_'+j)+'">'+(i+'_'+j)+'</option>';
-    }
+    if (i == 'inimage') continue;
+    document.getElementById('rtblist').innerHTML +=
+  '<option value="'+i+'">'+i+'</option>';
   }
   window.MSGS = [];
   for(var n=0; n<document.getElementById('rtblist').options.length; n++){
     window.MSGS.push( document.getElementById('rtblist').options[n].value );
   }
     //
-  var osel = '7_5';
   for(var p in urlParams()){
     var pp = p.split('/');
     if(p == 'page' && urlParams().page){ // ?page
@@ -116,14 +119,14 @@
     }else if(pp.length>0){ // ?subj
       var opts = document.getElementById('rtblist').options;
       for(var ii=0; ii<opts.length; ii++){
-        if(opts[ii].innerHTML == pp[0]) osel = opts[ii].value;
+        if(opts[ii].innerHTML == pp[0]) PAGE.osel = opts[ii].value;
       }
     }
   }
   document.getElementById('rtblist').onchange = function(){
     window.location = '/reklama.html?' + (this.options[this.selectedIndex].innerHTML);
   };
-  document.getElementById('rtblist').value = osel;
+  document.getElementById('rtblist').value = PAGE.osel;
   document.getElementById('page_content').innerHTML = '';
   if(!addPageContent({}, {}, MSGS, PAGE)){
     window.setInterval(function(){ 
