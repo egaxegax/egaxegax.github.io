@@ -1,3 +1,5 @@
+![](korroziya_metalla.jpg)
+
 Советская и российская трэш-металл группа Сергея *Паука* Троицкого.
 
 * [Crazy House](Crazy%20House.md)

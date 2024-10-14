@@ -13,6 +13,9 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?24101301">
 <link rel="stylesheet" href="/static/css/vesti.css">
+<style>
+  .mh { max-height:520px; }
+</style>
 <script src="/static/js/metrics.js?241013" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
@@ -35,7 +38,7 @@
 </p>
 <table id="footer" class="main"><tr>
 <td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
-<td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Код</a></td>
+<td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
 <td class="smaller" width="25%">2014-24</td></tr>
 </table>
 </div>
@@ -64,23 +67,12 @@
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block){
         document.getElementById('page_content').innerHTML += 
-      '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh" style="overflow:auto"></div>'+
-      '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="bmarg mw mh" style="overflow:auto"></div>'+
+      // '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh" style="overflow:auto"></div>'+
+      // '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="bmarg mw mh" style="overflow:auto"></div>'+
       '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="bmarg mw mh" style="overflow:auto"><br>'+addLoader(i==0)+'</div>';
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', false, YA_RTB[page.rtb], page.rtyp);
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', false, YA_RTB[page.rtb], page.rtyp);
+        // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', false, YA_RTB[page.rtb], page.rtyp);
+        // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', false, YA_RTB[page.rtb], page.rtyp);
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', false, YA_RTB[page.rtb], page.rtyp);
-       } else {
-        document.getElementById('page_content').innerHTML += 
-      '<div id="block'+(i+page.bottom)+'_0" class="wrap">'+
-        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'_0</em></b></div>'+
-      '</div>'+
-      '<div id="block'+(i+page.bottom)+'_1" class="wrap">'+
-        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'_1</em></b></div>'+
-      '</div>'+
-      '<div id="block'+(i+page.bottom)+'_2" class="wrap">'+
-        '<div class="msgtext">'+'<b><em>'+(i+page.bottom)+'_2</em></b></div>'+
-      '</div>';
        }
        console.log('page.rtb', String(page.rtb));
     }
@@ -133,7 +125,7 @@
       if(addPageContent({}, {}, MSGS, PAGE)){
         PAGE.num = 0;
       };
-    }, (Math.random()*30+20)*1000);
+    }, (Math.random()*30+30)*1000);
   }
 
 </script>

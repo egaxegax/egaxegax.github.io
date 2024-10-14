@@ -1,3 +1,7 @@
+![](cohen_leonard.jpg)
+
+Канадский певец, поэт, автор песен.
+
 * [A Bunch of Lonesome Heroes](A%20Bunch%20of%20Lonesome%20Heroes.md)
 * [A Singer Must Die](A%20Singer%20Must%20Die.md)
 * [A Thousand Kisses Deep](A%20Thousand%20Kisses%20Deep.md)
