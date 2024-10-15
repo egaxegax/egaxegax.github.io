@@ -16,7 +16,7 @@
 <style>
   .mh { max-height:520px; }
 </style>
-<script src="/static/js/metrics.js?241013" data-floor="1"></script>
+<script src="/static/js/metrics.js?241016" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
 </head>
@@ -47,6 +47,10 @@
   document.getElementById('page_footer').innerHTML = 
 '<p class="tcenter"><select id="rtblist"></select></p>';
 
+  function clchange(o){
+    window.location = '/reklama.html?' + (o.options[o.selectedIndex].innerHTML);
+  }
+ 
   function addPageContent(roots, subjects, msgs, page){
     PAGE.lock = 1;
     if(!msgs.length){
@@ -56,7 +60,7 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
-    page.rtb = (page.titles[0]||PAGE.osel);
+    page.rtb = (PAGE.osel||page.titles[0]);
     page.rtyp = '';
     switch(page.rtb){
       case 'feed':
@@ -78,7 +82,7 @@
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
-    '<select id="rtblist" class="nomarg" title="Блок RTB">'+document.getElementById('rtblist').innerHTML+'</select>');
+    '<select id="rtblist" onchange="clchange(this)" class="nomarg" title="Блок RTB">'+document.getElementById('rtblist').innerHTML+'</select>');
       document.getElementById('rtblist').value = (page.rtb);
     }
     page.num++;
@@ -89,7 +93,7 @@
   window.PAGE = {};
   PAGE.per = 1;                  // blocks count
   PAGE.num = urlParams().page||0;// start num page 
-  PAGE.osel = '7';               // start page
+  PAGE.osel = '';                // start page
     //
   for(var i in window.YA_RTB){
     if (i == 'inimage') continue;
@@ -115,10 +119,6 @@
       }
     }
   }
-  document.getElementById('rtblist').onchange = function(){
-    window.location = '/reklama.html?' + (this.options[this.selectedIndex].innerHTML);
-  };
-  document.getElementById('rtblist').value = PAGE.osel;
   document.getElementById('page_content').innerHTML = '';
   if(!addPageContent({}, {}, MSGS, PAGE)){
     window.setInterval(function(){ 

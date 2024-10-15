@@ -65,7 +65,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){
     function ads(){ 
-      function run(){ console.log(blid,p_dark,rtbid,typ);
+      function run(){ console.log(blid,rtbid,p_dark,typ);
         switch(typ){
         case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
         case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
