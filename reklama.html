@@ -15,6 +15,7 @@
 <link rel="stylesheet" href="/static/css/vesti.css">
 <style>
   .mh { max-height:520px; }
+  .loader { margin:10px 0 10px 0; }
 </style>
 <script src="/static/js/metrics.js?241016" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
@@ -73,7 +74,7 @@
         document.getElementById('page_content').innerHTML += 
       // '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh" style="overflow:auto"></div>'+
       // '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="bmarg mw mh" style="overflow:auto"></div>'+
-      '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="bmarg mw mh" style="overflow:auto"><br>'+addLoader(i==0)+'</div>';
+      '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="bmarg mw mh" style="overflow:auto">'+addLoader(page.rtyp!='feed')+'</div>';
         // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', false, YA_RTB[page.rtb], page.rtyp);
         // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', false, YA_RTB[page.rtb], page.rtyp);
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', false, YA_RTB[page.rtb], page.rtyp);
