@@ -3,35 +3,34 @@ Sure Know Something
   
   *intro:*  
   *bass (x is a pause)*  
-     ***em                         am***  
+     ***Em                         Am***  
   [A--x-7-5---5-7-|-x--7-5----|-x------------  
   E--------7-----|--------3-5|---5-3-0-3-5--  
-    ***am             hm           am***  
+    ***Am             Hm           Am***  
   D--------------|------------|-x-7-5-----|  
   A--x-----------|-x-5-7-5----|-------7-5-|  
   E----5-3-0-5-7-|---------7-5|-----------|  
-     ***em***  
+     ***Em***  
   A--x-7---------5-|----------------------------  
   E------3-5-3-7---|--------------------------]  
   *guitar:*  
-  ***em***|***em***|***am***|***am***|***hm***|***am***|  
-  ***em***  
+  ***Em  Em  Am  Am  Hm  Am  Em***  
   [H-8------8---|  
   G---7------7-|  
   D-----9------|]  
   
   *Verse:*  
-  ***em***  
+  ***Em***  
   I've been up and down  
-  ***em***  
+  ***Em***  
   I've been all around  
-  ***am***  
+  ***Am***  
   I was mystified  
-  ***am***  
+  ***Am***  
   almost terrified  
-  ***hm                     am***  
+  ***Hm                     Am***  
   But late at night I still hear you  
-    ***em7***  
+    ***Em7***  
   call my name  
   
   *(verse)*  
@@ -41,7 +40,7 @@ Sure Know Something
   I felt paralyzed  
   But late at night I still want you  
   Just the same  
-  ***em***  
+  ***Em***  
   
   *Chorus:*  
   ***CC D***  
@@ -92,4 +91,4 @@ Sure Know Something
   'cause late at night I still need you  
   just the same  
   
-  *Chorus } x2*
+  *Chorus* } x2

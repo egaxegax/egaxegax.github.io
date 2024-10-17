@@ -104,6 +104,7 @@
 * [Top 20 Classic Rock Songs Of 70s 80s 90sPink Floyd The Beatles The Rolling Stones Queen AC DC](Top%2020%20Classic%20Rock%20Songs%20Of%2070s%2080s%2090sPink%20Floyd%20The%20Beatles%20The%20Rolling%20Stones%20Queen%20AC%20DC.md)
 * [Top Classic Rock Bands of the 70s 80s 90s GNR The Police Linkin Park ACDC Billy Joel Queen](Top%20Classic%20Rock%20Bands%20of%20the%2070s%2080s%2090s%20GNR%20The%20Police%20Linkin%20Park%20ACDC%20Billy%20Joel%20Queen.md)
 * [Ultimate Best Classic Rock Songs 70s 80s 90s Metallica Aerosmith ACDC Nirvana Bon Jovi U2](Ultimate%20Best%20Classic%20Rock%20Songs%2070s%2080s%2090s%20Metallica%20Aerosmith%20ACDC%20Nirvana%20Bon%20Jovi%20U2.md)
+* [Ultimate Classic Rock Music Hits Playlist Scorpions Queen AC DC Bon Jovi Metallica Nirvana](Ultimate%20Classic%20Rock%20Music%20Hits%20Playlist%20Scorpions%20Queen%20AC%20DC%20Bon%20Jovi%20Metallica%20Nirvana.md)
 * [You Will Never See Me Coming - NEFFEX](You%20Will%20Never%20See%20Me%20Coming%20-%20NEFFEX.md)
 * [День Памяти Михаила Горшенёва 19 07 2014](День%20Памяти%20Михаила%20Горшенёва%2019%2007%202014.md)
 * [Князь 30 лет группе Король и Шут 2018 07 19 СКК Санкт Петербург](Князь%2030%20лет%20группе%20Король%20и%20Шут%202018%2007%2019%20СКК%20Санкт%20Петербург.md)
