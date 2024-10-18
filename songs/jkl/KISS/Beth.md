@@ -1,7 +1,6 @@
 <!--2020-09-05 10:29:30-->
-Beth  
   
-Intro:  |-3----3--3---1-0--0--0----|-----------------------1---|  
+*Intro:*  |-3----3--3---1-0--0--0----|-----------------------1---|  
   |-1----1--1---1-1--3--1----|-1----1----0---1---3-------|  
   |-0----0--0---0-0--0--0--2-|-0--2-2--2---0---0---0---0-|  
   |-2----2--2---2-2--2--2----|------3--------------------|  
@@ -15,27 +14,27 @@ Intro:  |-3----3--3---1-0--0--0----|-----------------------1---|
   |-3----3--3---3-3--3--3----|--------------2------------|  
   |--------------------------|--------------3------------|  
   
-  ***C                   dm               Cmaj7                Am       G***  
-  Beth,  I hear  you callin'   but I | can't come home right now,          |  
-  ***F                   G                C                    E        E7***  
-  Me and the boys are playin' and we | just can't find the sound.          |  
+  ***C          Dm            Cmaj7           Am       G***  
+  Beth,  I hear  you callin' but I can't come home right now,  
+  ***F          G          C          E        E7***  
+  Me and the boys are playin' and we just can't find the sound.  
   
   *Chorus*  
-  ***Am                 G               F                    Em***  
-  Just a few more hours   and I'll | be right home to you.           I   |  
-  ***D7                   F               Am                            Am  G***  
-  think i hear them callin'.      Oh | Beth, what can I do?                |  
-  ***F           F        C***  
-  Beth,  what  can  I  do?           |  
+  ***Am         G               F             Em***  
+  Just a few more hours and I'll | be right home to you.  
+  ***D7         F               Am       Am  G***  
+  think i hear them callin'. Oh Beth, what can I do?  
+  ***F         F        C***  
+  Beth,  what  can  I  do?  
+  
   *at the end of this measure play single notes (16th): E:3 A:3 D:0 D:3*  
   
-  ***C                   dm               Cmaj7                Am       G***  
-  You say you feel so empty, that our| house just ain't a home             |  
-  ***F                    G                C                    E        E7***  
-  I'm always somewhere else and you're| always    there    alone           |  
+  ***C        Dm         Cmaj7         Am       G***  
+  You say you feel so empty, that our house just ain't a home  
+  ***F        G          C         E        E7***  
+  I'm always somewhere else and you're always there alone  
   
   *Repeat Chorus*  
-  
   |-3----3--3---1-0--0--0----|-----------------------1---|  
   |-1----1--1---1-1--3--1----|-1----1----0---1---3-------|  
   |-0----0--0---0-0--0--0--2-|-0--2-2--2---0---0---0---0-|  
@@ -71,10 +70,10 @@ Intro:  |-3----3--3---1-0--0--0----|-----------------------1---|
   |-4-------4------3----------3-----|  
   |-2-------2---------------3-------|  
   
-  ***C                   Dm                Cmaj7              Am      G***  
-  Beth, I know you're lonely,   and I | hope you'll be all right,      cause |  
+  ***C         Dm         Cmaj7       Am      G***  
+  Beth, I know you're lonely, and I hope you'll be all right, cause  
   ***F***  
-  me and the boys will be playin' all |  
+  me and the boys will be playin' all  
   |-3----3--3---1-0--0--0----|-----------------------1---|  
   |-1----1--1---1-1--3--1----|-1----1----0---1---3-------|  
   |-0----0--0---0-0--0--0--2-|-0--2-2--2---0---0---0---0-|  
@@ -95,7 +94,6 @@ Intro:  |-3----3--3---1-0--0--0----|-----------------------1---|
   Beth  
   
   *acoustic solo/KISS Unplugged*  
-  
   [E---|------------------------------------------------------8---------  
   B---|------------------5-------------8-----8--10^--8--8h10-----------  
   G---|-------5-----5--7^5--7--5---/9----9-----------------------------  
