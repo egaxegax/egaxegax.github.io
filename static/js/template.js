@@ -54,7 +54,7 @@ function addPaginator(list, page, page_btn){
 function addNotFound(){
   updateMetaTag('robots', 'noindex'); // 404
   return '<div><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
-'<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#aaa">'+
+'<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#777">'+
 '<path d="M110 58 Q134 48 144 56" />'+
 '<path d="M36 56 Q40 44 69 53" />'+
 '<circle cx="56" cy="76" r="3" />'+

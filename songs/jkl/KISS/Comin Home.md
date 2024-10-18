@@ -25,9 +25,9 @@ G|---------------2-|-2-2-2-2-2-2-2-|
 D|-2-2-2-2---2-----|---------------|  
 A|-3-3-3-3---3-----|---------------|  
 E|-----------------|---------------|  
-    I?m comin? home to you  
+    I'm comin' home to you  
   
-    - I?m comin? home baby  
+    - I'm comin' home baby  
   
 E|-------5---------5---|-------5---------5---|  
 B|-o---5---5-----5---5-|-----5---5-----5---5-|  
@@ -44,11 +44,11 @@ A|-5---5-5-5---------7-|-(7)--7-7-7-7-7-7-7-----|
 E|---------------------|------------------------|  
   
     G  
-It?s been a month or two since I?ve been sleeping with you.  
+It's been a month or two since I've been sleeping with you.  
     C         C"   D  
-I?m comin? home again.  
+I'm comin' home again.  
     G  
-I?ve been to east and west but baby I like best the road  
+I've been to east and west but baby I like best the road  
     C"  D  
 that leads to you.  
    C                                 D  
@@ -56,27 +56,27 @@ Oh girl, it seems the whole wide world... Seems to say.
     G  
 Hotels they all look the same, just seem to drive me insane,  
     C        C"   D  
-but I can?t get away.  
+but I can't get away.  
     G  
 Until I recieve a call that tells me that will be all  
     C            C"   D  
 and the I hop a plane.  
     C                         D  
-It?s true, I?m not sure if you knew.... I?m comin? home to you.  
+It's true, I'm not sure if you knew.... I'm comin' home to you.  
    C                                 D  
 Oh girl, it seems the whole wide world... Seems to say.  
     G  
 Hotels they all look the same, just seem to drive me insane,  
     C       C"   D  
-but I can?t get away.  
+but I can't get away.  
     G  
 Until I recieve a call that tells me that will be all  
     C            C"    D  
 and then I hop a plane.  
     C                         D  
-It?s true, I?m not sure if you knew.... I?m comin? home to you.  
+It's true, I'm not sure if you knew.... I'm comin' home to you.  
   
-CHORDS USED IN COMIN? HOME:  
+CHORDS USED IN COMIN' HOME:  
   
    G    C    D    C"  
 E|-3--|-0--|-2--|-3--|  
