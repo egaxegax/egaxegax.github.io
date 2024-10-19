@@ -10,8 +10,8 @@
 <meta name="yandex-verification" content="bf07f0af8e739c66">
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Аккорды / Сайт egax</title>
-<link rel="icon" href="/icon.svg?241019" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?241020">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?2410192116">
 <link rel="stylesheet" href="/static/css/songs.css">
 <style>
 .about { padding:2px 10px 0px 10px; }
@@ -32,7 +32,7 @@
 </head>
 <body>
 <div id="root" class="main">
-<div id="header" class="main scroll">
+<div id="header" class="main scroll nowrap">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg?241019" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241020" alt="Заметки"></a>
 <a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg?241019" alt="Фотки"></a>
@@ -72,7 +72,7 @@
 
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext scroll">'+
+  '<div class="msgtext scroll nowrap">'+
     '<table class="av" width="100%"><tr>'+
       '<td align="center" valign="middle" width="1%">'+
         '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
@@ -92,7 +92,7 @@
   function addList(r,p){
     if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды ' + (urlParams().page||''));
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext scroll">'+
+  '<div class="msgtext scroll nowrap">'+
     '<table><tr>'+
       '<td width="99%">'+
         '<a class="large nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a>'+
@@ -123,7 +123,7 @@
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
   '<div class="tcenter">'+
-    '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords scroll tleft vtop mw600">'+
+    '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords scroll nowrap tleft vtop mw600">'+
       html+
     '</div>'+
     '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:40px 0 0 10px;') +'min-width:240px;max-width:240px"></div>'+
