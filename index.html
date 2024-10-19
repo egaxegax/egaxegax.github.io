@@ -21,7 +21,8 @@
 <script src="/static/js/template.js"></script>
 </head>
 <body>
-<div id="root" class="main">
+<div id="lbar" class="inlbl sbar vtop"></div>
+<div id="root" class="main inlbl">
 <div id="header" class="main scroll">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg?241019" onload="this.scrollIntoView()" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241020" alt="Заметки"></a>
@@ -43,6 +44,7 @@
 <td class="smaller" width="25%">2014-24</td></tr>
 </table>
 </div>
+<div id="rbar" class="inlbl sbar vtop"></div>
 <script>
 
   document.getElementById('page_header').innerHTML = 
@@ -51,7 +53,9 @@
   '<div class="tcell tright vmid" style="width:30%">'+'<select id="yearlist"></select>'+'</div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
-  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[1]);
+  // if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[1]);
+  if(window.addYaRTB_Block) addYaRTB_Block('lbar', false, YA_RTB[1]);
+  if(window.addYaRTB_Block) addYaRTB_Block('rbar', false, YA_RTB[1]);
 
   function addMsg(r, p){
     var converter = new showdown.Converter(),
