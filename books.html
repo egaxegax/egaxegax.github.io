@@ -70,10 +70,8 @@
 
   function addLast(r,p,ci){
     var text = r.replace(/<\!--.*-->\s*/, '');
-    if(p.if) {
-      updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
-      updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, авторы, жанры');
-    }
+    updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
+    updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext inlbl vmid tcenter" style="min-width:110px; max-width:110px">'+
     '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+

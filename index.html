@@ -62,6 +62,7 @@
         html = converter.makeHtml(text)
           .replace(/src="\.\//g, 'src="'+p.url+'/../');  // fix img url to absolute
     if(p.if) updateMetaTag('description', trstr(text).slice(0,1024) + ' ' + (urlParams().page||''));
+    if(p.if) updateMetaTag('description', trstr(text).slice(0,200));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+html+'</div>'+
   '<div class="msgfooter">'+
