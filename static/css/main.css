@@ -7,6 +7,7 @@
 .grid { display:grid; }
 .table { display:table; border-collapse:collapse; width:100%; }
 .tcell { display:table-cell; height:64px; padding:3px 0px 3px 12px; }
+.trow { display:table-row; }
 .main { margin:0px auto 0px auto; max-width:760px; }
 .msgtext { min-height:1em; padding:5px 5px; }
 .msgfooter { padding:0 1px 1px 0; text-align:right; font-size:small; }
@@ -62,7 +63,7 @@ a, a:active, a:focus { outline:none; }
 a.nodecor, #header a { text-decoration:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
 input[type=text], input[type=password], input[type=number], input[type=search], textarea, select { 
-  border-radius:4px; border:1px solid #afafaf; padding:5px; font-size:1rem; color:#000; }
+  border-radius:4px; border:1px solid #afafaf; padding:5px; font-family:arial; font-size:1rem; color:#000; }
 input[type=text], input[type=password], input[type=number] { text-align:center; width:60px; }
 input[type=submit] { padding:0 20px; font-size:100%; height:32px;  }
 input[type=file] { font-size:100%; height:32px; }
@@ -73,13 +74,13 @@ select { padding:2px 5px; margin:0 10px 0 0; }
 hr { border:1px dashed #777; }
 pre { font-size:0.9rem; }
 /* reklama */
-.mh_hd { max-height:150px; }
+.mh_hd:not(:empty) { max-height:160px; max-width:746px; margin:2px auto 0 auto; }
 .mh_sm { max-height:140px; }
-.mh_1 { max-height:400px; }
-.mh_2 { max-height:170px; }
-.mh { max-height:260px; }
+.mh_1 { max-height:250px; }
+.mh_2 { max-height:190px; }
+.mh { max-height:173px; }
 .mw { max-width:750px; }
 .mw_1 { max-width:165px; }
-.mw_2 { max-width:240px; }
+.mw_2 { max-width:746px; }
 .mw_b { max-width:800px; }
 .mw_f { max-width:740px; }
