@@ -80,10 +80,10 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         case 'widget': window.yaContextCb.push(()=>{Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
         default:       window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
       }}
-      run();
-      // if(!blid) run();
-      // else if(document.getElementById(blid))
-      //   (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
+      // run();
+      if(!blid) run();
+      else if(document.getElementById(blid))
+        (new IntersectionObserver((es)=>{ es.forEach((e)=>{ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
     };
     while(YA_TMR.length) clearInterval(YA_TMR.pop());
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
