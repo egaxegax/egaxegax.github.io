@@ -44,7 +44,7 @@
 .tooltip { cursor: pointer; }
 .tooltip:active:after { content: attr(title); position: relative; }
 .wrap { padding:5px 10px 2px 10px; margin:0 auto 5px auto; }
-#lbar,#rbar { display:table-cell; width:calc((96vw - 750px) / 2); padding:1vw; max-height:580px; }
+#lbar,#rbar { display:table-cell; width:calc((96vw - 750px) / 2); padding:1vw; }
 @media all and (min-width:0px) and (max-width:800px) { 
   #lbar,#rbar { display:none; visibility:hidden; }
 }
@@ -75,6 +75,7 @@ hr { border:1px dashed #777; }
 pre { font-size:0.9rem; }
 /* reklama */
 .mh_hd:not(:empty) { max-height:160px; max-width:746px; margin:2px auto 0 auto; }
+.mh_bar { min-height:90vh; max-height:95vh; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }
 .mh_2 { max-height:190px; }
@@ -82,5 +83,5 @@ pre { font-size:0.9rem; }
 .mw { max-width:750px; }
 .mw_1 { max-width:165px; }
 .mw_2 { max-width:746px; }
+.mw_3 { max-width:250px; }
 .mw_b { max-width:800px; }
-.mw_f { max-width:740px; }
