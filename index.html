@@ -87,28 +87,18 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.getComputedStyle(document.getElementById('lbar')).display == 'none'){
-        if(window.addYaRTB_Block && (i+page.bottom) && (i==0)){
-          document.getElementById('page_content').innerHTML += 
-        '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
-          addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[1]);
-        }
-      }
-      if(window.addYaRTB_Block && (i==0)){
-        if(document.getElementById('ya_rtb_lbar_'+i)){
-          document.getElementById('ya_rtb_lbar_'+i).style.paddingTop = (window.pageYOffset + 100) + 'px';
-        } else {
-          document.getElementById('lbar').innerHTML += 
-        '<div id="ya_rtb_lbar_'+i+'" class="bmarg mw_3 mh_bar vmid"></div>';
-          addYaRTB_Block('ya_rtb_lbar_'+i, false, YA_RTB[1]);
-        }
-      }
-      if(window.addYaRTB_Block && (i==0)){
-        if(document.getElementById('ya_rtb_rbar_'+i)){
+      if(window.addYaRTB_Block) {
+        if(window.innerWidth<800) {
+          if((i+page.bottom) && (i%2==0)){
+            document.getElementById('page_content').innerHTML += 
+          '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+            addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[1]);
+          }
+        } else if(i==0 && (document.getElementById('ya_rtb_rbar_'+i))){
           document.getElementById('ya_rtb_rbar_'+i).style.paddingTop = (window.pageYOffset + 100) + 'px';
-        } else {
+        } else if(i==0) {
           document.getElementById('rbar').innerHTML += 
-        '<div id="ya_rtb_rbar_'+i+'" class="bmarg mw_3 mh_bar vmid"></div>';
+        '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
           addYaRTB_Block('ya_rtb_rbar_'+i, false, YA_RTB[1]);
         }
       }
@@ -132,7 +122,7 @@
   upfunc({url: buildURL('vesti')+'/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 6,                  // blocks 1 page
+      per: 4,                  // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.MSGS = TITLES;

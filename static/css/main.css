@@ -75,7 +75,7 @@ hr { border:1px dashed #777; }
 pre { font-size:0.9rem; }
 /* reklama */
 .mh_hd:not(:empty) { max-height:160px; max-width:746px; margin:2px auto 0 auto; }
-.mh_bar { min-height:90vh; max-height:95vh; }
+.mh_bar { max-height:95vh; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }
 .mh_2 { max-height:190px; }

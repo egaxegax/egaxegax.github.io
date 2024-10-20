@@ -17,7 +17,9 @@
 <script src="/static/js/template.js"></script>
 </head>
 <body>
-<div id="root" class="main">
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="tcell nopad vtop">
 <div id="header" class="main scroll nowrap">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg?241019" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241020" alt="Заметки"></a>
@@ -40,6 +42,8 @@
 <td class="smaller" width="25%">2014-24</td></tr>
 </table>
 </div>
+<div id="rbar"></div>
+</div>
 <script>
 
   document.getElementById('page_header').innerHTML = 
@@ -48,7 +52,6 @@
   '<div class="tcell tright vmid" style="width:30%">'+'<select id="albumlist"></select>'+'</div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
-  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[3]);
 
   function addFoto(p){
     if(p.if) {
@@ -66,7 +69,6 @@
     '<a class="hspace nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>'+
     '<span class="tooltip" title="снято '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
-    if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_'+p.i, false, YA_RTB[3]);
     // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', false, YA_RTB['inimage'], 'inImg');
   }
 
@@ -83,6 +85,17 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
+    if(window.addYaRTB_Block) {
+      if(window.innerWidth<800) {
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[3]);
+      } else if(i==0 && (document.getElementById('ya_rtb_rbar_'+i))){
+        document.getElementById('ya_rtb_rbar_'+i).style.paddingTop = (window.pageYOffset + 100) + 'px';
+      } else if(i==0) {
+        document.getElementById('rbar').innerHTML += 
+      '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
+        addYaRTB_Block('ya_rtb_rbar_'+i, false, YA_RTB[3]);
+      }
+    }
       document.getElementById('page_content').innerHTML += 
     '<div id="foto'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       (function(p){
@@ -105,7 +118,7 @@
   upfunc({url: buildURL('foto')+'/index.js'}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 1,                  // blocks 1 page
+      per: 2,                  // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.FOTOS = TITLES;

@@ -19,7 +19,9 @@
 <script src="/static/js/template.js"></script>
 </head>
 <body>
-<div id="root" class="main">
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="tcell nopad vtop">
 <div id="header" class="main scroll nowrap">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg?241019" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241020" alt="Заметки"></a>
@@ -41,6 +43,8 @@
 <td class="smaller" width="25%">2014-24</td></tr>
 </table>
 </div>
+<div id="rbar"></div>
+</div>
 <script>
   var GENRES={
     adv_animal:"Природа и животные",adv_geo:"Путешествия и география",adv_history:"Исторические приключения",adv_indian:"Приключения про индейцев",adv_maritime:"Морские приключения",adventure:"Приключения",antique:"Старинная литература",antique_east:"Древневосточная литература",biogr_leaders:"Биографии",child_adv:"Детские приключения",child_prose:"Детская проза",children:"Детская литература",child_sf:"Детская фантастика",child_tale:"Сказка",city_fantasy:"Городское фэнтези",det_action:"Боевик",det_classic:"Классический детектив",det_crime:"Криминальный детектив",det_espionage:"Шпионский детектив",det_hard:"Крутой детектив",det_history:"Исторический детектив",det_police:"Полицейский детектив",detective:"Детектив",dramaturgy:"Драматургия",economics:"Экономика",fantasy_fight:"Боевое фэнтези",foreign_adventure:"Зарубежные приключения",foreign_contemporary:"Современная зарубежная литература",foreign_detective:"Зарубежные детективы",foreign_fantasy:"Зарубежное фэнтези",foreign_love:"Зарубежные любовные романы",foreign_sf:"Иностранная фантастика",home_cooking:"Домашняя кухня",home_crafts:"Хобби и ремёсла",home_diy:"Сделай сам",home_garden:"Садоводство",home_health:"Здоровое питание",home_pets:"Домашние животные",home_sex:"Эротика, Секс",home_sport:"Спорт, фитнес",humor_prose:"Юмористическая проза",literature_adv:"Приключения",literature_classics:"Классическая литература",literature_drama:"Драма",literature_history:"История",literature_political:"Политика",literature_western:"Вестерн",love_contemporary:"Современные любовные романы",love_detective:"Остросюжетные любовные романы",love_erotica:"Эротика ",love_hard:"Страстная эротика",love_history:"Исторические любовные романы",love_sf:"Любовная фантастика",love_short:"Короткие любовные романы",magician_book:"Магия, волшебство",nonf_biography:"Биографии и Мемуары",nonf_publicism:"Непубличная литература",other:"Прочее",poetry:"Поэзия",popadanec:"Попаданцы",prose:"Проза",prose_classic:"Классическая проза",prose_contemporary:"Современная проза",prose_counter:"Контркультура",prose_history:"Историческая проза",prose_military:"Военная проза",prose_rus_classic:"Русская классическая проза",prose_su_classics:"Советская классическая проза",ref_dict:"Словари",ref_encyc:"Энциклопедии",reference:"Справочная литература",religion_esoterics:"Эзотерика",religion_orthodoxy:"Ортодоксальные учения",religion_rel:"Религия",religion_self:"Самосовершенствование",religion:"Религиозная литература",romance_fantasy:"Рыцарское фэнтези",romance_sf:"Рыцарская фантастика",romance:"Рыцарский роман",russian_fantasy:"Русское фэнтези",science:"Наука",sci_culture:"Научная культура",sci_history:"История",sci_linguistic:"Языкознание",sci_philosophy:"Философия",sci_phys:"Научная физика",sf_action:"Боевая фантастика",sf_cyberpunk:"Киберпанк",sf_detective:"Детективная фантастика",sf_epic:"Эпическая фантастика",sf_etc:"Разная фантастика",sf_fantasy:"Фэнтези",sf_fantasy_city:"Городское фэнтези",sf_heroic:"Героическая фантастика",sf_history_avant:"Историческая авантюра",sf_history:"Альтернативная история",sf_horror:"Ужасы и Мистика",sf_humor:"Юмористическая фантастика",sf_mystic:"Мистика",sf_social:"Социально-психологическая фантастика",sf_space:"Космическая фантастика",sf:"Научная Фантастика ",thriller:"Триллер",vampire_book:"Вампиры",unrecognised:"Без рубрики"
@@ -51,7 +55,6 @@
   '<div class="tcell vmid"><h1>'+'Подборка описаний книг разных авторов из свободных источников '+'</h1></div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
-  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[5]);
 
   function strToUtc(dt){
     var dt = dt.split(' ');
@@ -83,7 +86,7 @@
     '<p class="smaller gray">Автор &nbsp; <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
     '<p class="smaller gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   '</div>'+
-  '<div id="ya_rtb_'+p.i+'" class="hspace inlbl vmid mw_a mh_sm">&nbsp;</div>'+
+  '<div id="ya_rtb_'+p.i+'" class="hspace inlbl vmid '+(window.innerWidth<800 ? '' : 'mw_a')+' mh_sm">&nbsp;</div>'+
   '<div class="msgtext large mw_b">'+
     '<div class="smaller hspace">&ensp;'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
@@ -95,7 +98,7 @@
     '<a class="hspace1 nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
-    if(window.addYaRTB_Block && (p.i) && (p.i%3 == 0 || ci == undefined)) addYaRTB_Block('ya_rtb_'+(p.i), false, YA_RTB[5]);
+    if(window.addYaRTB_Block && (window.innerWidth<800) && (p.i%3 == 0 || ci == undefined)) addYaRTB_Block('ya_rtb_'+(p.i), false, YA_RTB[5]);
   }
   
   function addAbout(r,p){
@@ -124,6 +127,15 @@
       var subj = wrts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
+      if(window.addYaRTB_Block && window.innerWidth>800) {
+        if(i==0 && (document.getElementById('ya_rtb_rbar_'+i))){
+          document.getElementById('ya_rtb_rbar_'+i).style.paddingTop = (window.pageYOffset + 100) + 'px';
+        } else if(i==0) {
+          document.getElementById('rbar').innerHTML += 
+        '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
+          addYaRTB_Block('ya_rtb_rbar_'+i, false, YA_RTB[5]);
+        }
+      }
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){

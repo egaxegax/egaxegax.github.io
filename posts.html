@@ -20,7 +20,9 @@
 <script src="/static/js/template.js"></script>
 </head>
 <body>
-<div id="root" class="main">
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="tcell nopad vtop">
 <div id="header" class="main scroll nowrap">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg?241019" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg?241019" onload="this.scrollIntoView()" alt="Заметки"></a>
@@ -42,6 +44,8 @@
 <td class="smaller" width="25%">2014-24</td></tr>
 </table>
 </div>
+<div id="rbar"></div>
+</div>
 <script>
 
   document.getElementById('page_header').innerHTML = 
@@ -49,7 +53,6 @@
   '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+'</h1></div>'+
   '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
-  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', false, YA_RTB[2]);
 
   function find(){
     if(!document.getElementById('tfind').value){
@@ -122,10 +125,20 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.addYaRTB_Block && (i+page.bottom) && (i%3==0)){
-        document.getElementById('page_content').innerHTML += 
-      '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[2]);
+      if(window.addYaRTB_Block) {
+        if(window.innerWidth<800) {
+          if((i+page.bottom) && (i%3==0)){
+            document.getElementById('page_content').innerHTML += 
+          '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+            addYaRTB_Block('ya_rtb_'+(i+page.bottom), false, YA_RTB[2]);
+          }
+        } else if(i==0 && (document.getElementById('ya_rtb_rbar_'+i))){
+          document.getElementById('ya_rtb_rbar_'+i).style.paddingTop = (window.pageYOffset + 100) + 'px';
+        } else if(i==0) {
+          document.getElementById('rbar').innerHTML += 
+        '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
+          addYaRTB_Block('ya_rtb_rbar_'+i, false, YA_RTB[2]);
+        }
       }
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
