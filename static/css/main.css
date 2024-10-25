@@ -83,5 +83,5 @@ pre { font-size:0.9rem; }
 .mw { max-width:750px; }
 .mw_1 { max-width:165px; }
 .mw_2 { max-width:746px; }
-.mw_3 { max-width:300px; }
+.mw_3 { max-width:100%; }
 .mw_b { max-width:800px; }
