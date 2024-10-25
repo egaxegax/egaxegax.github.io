@@ -44,10 +44,10 @@
 .tooltip { cursor: pointer; }
 .tooltip:active:after { content: attr(title); position: relative; }
 .wrap { padding:5px 10px 2px 10px; margin:0 auto 5px auto; }
-#lbar,#rbar { display:table-cell; width:calc((96vw - 750px) / 2); padding:1vw; }
-@media all and (min-width:0px) and (max-width:800px) { 
-  #lbar,#rbar { display:none; visibility:hidden; }
-}
+#lbar,#rbar { display:table-cell; padding:1vw; }
+#lbar { width:calc((96vw - 850px) / 2); }
+#rbar { width:calc((96vw - 650px) / 2); }
+@media all and (min-width:0px) and (max-width:800px) { #lbar,#rbar { display:none; } }
 #root { min-height:100%; }
 #header { text-align:center; width:100%; z-index:999; }
 #header img { width:90px; margin:0 2px; height:36px; color:transparent; }
@@ -83,5 +83,5 @@ pre { font-size:0.9rem; }
 .mw { max-width:750px; }
 .mw_1 { max-width:165px; }
 .mw_2 { max-width:746px; }
-.mw_3 { max-width:250px; }
+.mw_3 { max-width:300px; }
 .mw_b { max-width:800px; }
