@@ -63,9 +63,9 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10, widget:11, inimage:12};
   window.YA_TMR = [];
-  window.addYaRTB_Block = function(blid,p_dark,rtbid,typ){
+  window.addYaRTB_Block = function(blid,rtbid,typ,p_dark){
     function ads(){ 
-      function run(){ console.log(blid,rtbid,p_dark,typ);
+      function run(){ console.log(blid,rtbid,typ,p_dark);
         switch(typ){
         case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
         case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
@@ -90,8 +90,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     setTimeout(ads);
   };
   [].slice.call(document.getElementsByTagName('script')).filter((s)=>{return s.src.indexOf('metrics.js')>-1;}).map((sp)=>{
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark')!=null, 1, 'flMob');
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('', sp.getAttribute('data-dark')!=null, 2, 'flDesk');  
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', 1, 'flMob', sp.getAttribute('data-dark')!=null);
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);  
   });
 }
 { // VK reklama

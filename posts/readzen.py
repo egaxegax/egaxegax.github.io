@@ -20,7 +20,7 @@ hdr = 'Подборка с сайтов/Дзен'
 feedurl = 'https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru'
 with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
   for item in json.loads(purl.read())['items']:
-    if fcount < 10 and item['text']:
+    if fcount < 11 and item['text']:
       titl = item['title']
       link = item['link'].split('?')[0]
       authr = item['domain_title']
@@ -31,8 +31,9 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
       udate = item['publication_date']
       pdt = datetime.datetime.fromtimestamp(int(udate))
       rdate = pdt.strftime('%Y-%m-%d')
-      ctime = time.strftime('<!--{y}-{m}-{d} 14:00:{c}-->'.format(y=time.strftime('%Y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), c=('%02d' % fcount)))
-      # print('\n', '\n'.join([mtitl, phref, rdate, imurl, authr, link]))
+      ctime = pdt.strftime('<!--%Y-%m-%d %H:%M:%S-->')
+      # ctime = time.strftime('<!--{y}-{m}-{d} 14:00:{c}-->'.format(y=time.strftime('%Y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), c=('%02d' % fcount)))
+      # print('\n', '\n'.join([mtitl, phref, rdate, ctime, imurl, authr, link]))
       text = """{ctime}
 <div class="yb">
   <div class="inlbl">

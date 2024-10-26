@@ -75,9 +75,9 @@
       // '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="bmarg mw mh" style="overflow:auto"></div>'+
       '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="bmarg mw mh" style="overflow:auto"></div>'+
       '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="bmarg mw mh" style="overflow:auto">'+addLoader(page.rtyp!='feed')+'</div>';
-        // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', false, YA_RTB[page.rtb], page.rtyp);
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', false, YA_RTB[page.rtb], page.rtyp);
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', false, YA_RTB[page.rtb], page.rtyp);
+        // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', YA_RTB[page.rtb], page.rtyp);
        }
        console.log('page.rtb', String(page.rtb));
     }
@@ -124,7 +124,7 @@
   if(!addPageContent({}, {}, MSGS, PAGE)){
     window.setInterval(function(){ 
       if(addPageContent({}, {}, MSGS, PAGE)){
-        PAGE.num = 0;
+        window.location.reload();
       };
     }, (Math.random()*30+30)*1000);
   }
