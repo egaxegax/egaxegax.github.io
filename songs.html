@@ -187,7 +187,7 @@
           title = page.titles[i][2];
       if(window.addYaRTB_Block) {
         if(window.innerWidth<800) {
-          if((i+page.bottom) && (i==0)){
+          if((i-1)==0){
             document.getElementById('page_content').innerHTML += 
           '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
             addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[4]);
