@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/static/css/main.css?24101301">
 <link rel="stylesheet" href="/static/css/vesti.css">
 <style>
-  .mh { max-height:200px; }
+  .mh { max-height:300px; }
   .mh_1 { max-height:600px; }
   .loader { margin:10px 0 10px 0; }
 </style>
@@ -77,10 +77,10 @@
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block) {
         document.getElementById('page_content').innerHTML += 
-      '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="mw mh" style="overflow:auto"></div>'+
+      // '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="mw mh" style="overflow:auto"></div>'+
       '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="mw mh" style="overflow:auto"></div>'+
       '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="mw '+(page.rtyp == '' ? 'mh' : 'mh_1')+'" style="overflow:auto">'+addLoader(page.rtyp!='feed')+'</div>';
-        if(page.rtyp == '') addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', YA_RTB[page.rtb], page.rtyp);
+        // if(page.rtyp == '') addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', YA_RTB[page.rtb], page.rtyp);
         if(page.rtyp == '') addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', YA_RTB[page.rtb], page.rtyp);
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', YA_RTB[page.rtb], page.rtyp);
         if(window.innerWidth>800 && page.num == 0 && i==0) {
