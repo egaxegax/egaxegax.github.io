@@ -11,14 +11,15 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Подборка контекстной рекламы / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?24101301">
+<link rel="stylesheet" href="/static/css/main.css?2410270">
 <link rel="stylesheet" href="/static/css/vesti.css">
 <style>
   .mh { max-height:300px; }
   .mh_1 { max-height:600px; }
+  .mw {  overflow:auto; }
   .loader { margin:10px 0 10px 0; }
 </style>
-<script src="/static/js/metrics.js?241016" data-floor="1"></script>
+<script src="/static/js/metrics.js?241027" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
 </head>
@@ -54,15 +55,11 @@
 '<p class="tcenter"><select id="rtblist"></select></p>';
 
   function clchange(o){
-    window.location = '/reklama.html?' + (o.options[o.selectedIndex].innerHTML);
+    window.location = '/reklama.html?r=' + (o.options[o.selectedIndex].innerHTML);
   }
  
   function addPageContent(roots, subjects, msgs, page){
     PAGE.lock = 1;
-    if(!msgs.length){
-      document.getElementById('page_content').innerHTML += addNotFound();
-      return 1;
-    }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
@@ -78,28 +75,27 @@
       if(window.addYaRTB_Block) {
         document.getElementById('page_content').innerHTML += 
       // '<div id="ya_rtb_'+(i+page.bottom)+'_0" class="mw mh" style="overflow:auto"></div>'+
-      '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="mw mh" style="overflow:auto"></div>'+
-      '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="mw '+(page.rtyp == '' ? 'mh' : 'mh_1')+'" style="overflow:auto">'+addLoader(page.rtyp!='feed')+'</div>';
+      '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="mw mh"></div>'+
+      '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="mw '+(page.rtyp == '' ? 'mh' : 'mh_1')+'">'+addLoader(page.rtyp!='feed')+'</div>';
         // if(page.rtyp == '') addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_0', YA_RTB[page.rtb], page.rtyp);
         if(page.rtyp == '') addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', YA_RTB[page.rtb], page.rtyp);
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', YA_RTB[page.rtb], page.rtyp);
-        if(window.innerWidth>800 && page.num == 0 && i==0) {
-          document.getElementById('lbar').innerHTML = 
-        '<div id="ya_rtb_lbar_'+i+'" class="mw_3 mh_bar vtop"></div>';
-          addYaRTB_Block('ya_rtb_lbar_'+i, YA_RTB[page.rtb], page.rtyp);
+        if(window.innerWidth>900 && i==0) {
           document.getElementById('rbar').innerHTML = 
         '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar vtop"></div>';
           addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[page.rtb], page.rtyp);
         }
       }
-      console.log('page.rtb', String(page.rtb));
+      console.log('page.rtb', page.rtb, 'page.num', page.num);
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<select id="rtblist" onchange="clchange(this)" class="nomarg" title="Блок RTB">'+document.getElementById('rtblist').innerHTML+'</select>');
       document.getElementById('rtblist').value = (page.rtb);
+      page.num++;
+    } else { 
+      page.num = 0;
     }
-    page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 300);
     return page.titles.length == 0;
   }
@@ -126,21 +122,24 @@
       document.title += ' - ' + urlParams().page;
     }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
       // skip ya.ru search
-    }else if(pp.length>0){ // ?subj
+    }else if(p == 'r' && urlParams().r){ // ?rtb
       var opts = document.getElementById('rtblist').options;
       for(var ii=0; ii<opts.length; ii++){
-        if(opts[ii].innerHTML == pp[0]) PAGE.osel = opts[ii].value;
+        if(opts[ii].innerHTML == urlParams().r) PAGE.osel = opts[ii].value;
       }
     }
   }
   document.getElementById('page_content').innerHTML = '';
-  if(!addPageContent({}, {}, MSGS, PAGE)){
-    window.setInterval(function(){ 
-      if(addPageContent({}, {}, MSGS, PAGE)){
-        window.location.reload();
-        PAGE.num = 0;
-      };
-    }, (Math.random()*30+30)*1000);
+  if(!MSGS.length){
+    document.getElementById('page_content').innerHTML += addNotFound();
+  } else {
+    if(addPageContent({}, {}, MSGS, PAGE)) {
+      window.location = '/reklama.html?' + urlBuild({page:PAGE.num||null, r:PAGE.osel||null});
+    } else {
+      window.setTimeout(function(){ 
+        window.location = '/reklama.html?' + urlBuild({page:PAGE.num||null, r:PAGE.osel||null});
+      }, (Math.random()*30+30)*1000);
+    }
   }
 
 </script>

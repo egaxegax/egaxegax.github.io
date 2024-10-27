@@ -136,7 +136,7 @@
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
     addSongChords();
-    if(window.addYaRTB_Block && window.innerWidth<800) addYaRTB_Block('ya_rtb_'+(p.i)+'_ch', YA_RTB[4]);
+    if(window.addYaRTB_Block && window.innerWidth<900) addYaRTB_Block('ya_rtb_'+(p.i)+'_ch', YA_RTB[4]);
   }
   //
   // Add icons chords by jtab.js & rafael.js
@@ -186,7 +186,7 @@
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       if(window.addYaRTB_Block) {
-        if(window.innerWidth<800) {
+        if(window.innerWidth<900) {
           if((i-1)==0){
             document.getElementById('page_content').innerHTML += 
           '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
