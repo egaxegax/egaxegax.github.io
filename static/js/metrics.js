@@ -13,17 +13,14 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   })(document, window, 'tmr-code');
 }
 { // Yandex metrica
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments);};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
-   (window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
-   ym(65044687, 'init', {
-     clickmap:true,
-     trackLinks:true,
-     accurateTrackBounce:true,
-     webvisor:true
-   });
    window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
-   setTimeout(function(){ document.querySelector('img[data-cid="65044687"]').src = '//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews'; },100);
+   setTimeout(function(e){ if(e=document.querySelector('img[data-cid="65044687"]')){
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments);};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
+    (window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
+    ym(65044687, 'init', { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true });
+    e.src = '//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews';
+   }},100);
 }
 //{ // Rambler top 100 counter
 //  (function (w,d,c) {
