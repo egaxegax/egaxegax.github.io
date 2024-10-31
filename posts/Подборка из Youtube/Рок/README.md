@@ -1,6 +1,8 @@
 Подборка видеоклипов с *рок-музыкой* различных жанров и исполнителей.
 
 * [28 11 2013 - КОРОЛЬ И ШУТ Минск Дворец Спорта](28%2011%202013%20-%20КОРОЛЬ%20И%20ШУТ%20Минск%20Дворец%20Спорта.md)
+* [70s 80s 90s Slow Rock Ballads Best Slow Rock Songs Playlist Led Zeppelin Metallica GNR Eagles](70s%2080s%2090s%20Slow%20Rock%20Ballads%20Best%20Slow%20Rock%20Songs%20Playlist%20Led%20Zeppelin%20Metallica%20GNR%20Eagles.md)
+* [70s 80s 90s Slow Rock Nonstop MedleyBest Slow Rock Ballads Of All Time Scorpions Bon Jovi CCR](70s%2080s%2090s%20Slow%20Rock%20Nonstop%20MedleyBest%20Slow%20Rock%20Ballads%20Of%20All%20Time%20Scorpions%20Bon%20Jovi%20CCR.md)
 * [ACDC Queen Aerosmith Bon Jovi Metallica Nirvana Guns N Roses Classic Rock Songs 70s 80s 90s](ACDC%20Queen%20Aerosmith%20Bon%20Jovi%20Metallica%20Nirvana%20Guns%20N%20Roses%20Classic%20Rock%20Songs%2070s%2080s%2090s.md)
 * [ACDC Queen Bon Jovi Scorpions Guns N Roses Aerosmith - Best Classic Rock Songs 80s 90s](ACDC%20Queen%20Bon%20Jovi%20Scorpions%20Guns%20N%20Roses%20Aerosmith%20-%20Best%20Classic%20Rock%20Songs%2080s%2090s.md)
 * [ACDC Queen Nirvana Scorpions Aerosmith U2 Bon JoviClassic Rock Songs 70s 80s 90s Full Album](ACDC%20Queen%20Nirvana%20Scorpions%20Aerosmith%20U2%20Bon%20JoviClassic%20Rock%20Songs%2070s%2080s%2090s%20Full%20Album.md)
@@ -18,6 +20,7 @@
 * [Best Classic Rock Songs All Time 70s 80s 90s ACDC Queen Bon Jovi Scorpions Guns N Roses](Best%20Classic%20Rock%20Songs%20All%20Time%2070s%2080s%2090s%20ACDC%20Queen%20Bon%20Jovi%20Scorpions%20Guns%20N%20Roses.md)
 * [Best Classic Rock Songs Of All Time OriginalACDC Nirvana U2 Pink FloydClassic Rock Collection](Best%20Classic%20Rock%20Songs%20Of%20All%20Time%20OriginalACDC%20Nirvana%20U2%20Pink%20FloydClassic%20Rock%20Collection.md)
 * [Best Classic Rock Songs Of All TimeNirvana ACDC Bon Jovi Metallica ZZ Top Classic Rock Songs](Best%20Classic%20Rock%20Songs%20Of%20All%20TimeNirvana%20ACDC%20Bon%20Jovi%20Metallica%20ZZ%20Top%20Classic%20Rock%20Songs.md)
+* [Best Classic Rock Ultimate Full Album 70s 80s 90sGuns N Roses The Beatles Led Zeppelin Queen](Best%20Classic%20Rock%20Ultimate%20Full%20Album%2070s%2080s%2090sGuns%20N%20Roses%20The%20Beatles%20Led%20Zeppelin%20Queen.md)
 * [Best Non Stop Christmas Songs Medley 2025 Greatest Christmas Songs Medey 2025 Original](Best%20Non%20Stop%20Christmas%20Songs%20Medley%202025%20Greatest%20Christmas%20Songs%20Medey%202025%20Original.md)
 * [Best Of Scorpions Greatest Hits Full Album Scorpions Hits Songs](Best%20Of%20Scorpions%20Greatest%20Hits%20Full%20Album%20Scorpions%20Hits%20Songs.md)
 * [Best Rock And Roll Classics Playlist Album ACDC Pink Floyd Eagles Queen Def Leppard Bon Jovi](Best%20Rock%20And%20Roll%20Classics%20Playlist%20Album%20ACDC%20Pink%20Floyd%20Eagles%20Queen%20Def%20Leppard%20Bon%20Jovi.md)
@@ -87,6 +90,7 @@
 * [Rock Your YouTube Channel Tips for Viral Music Thumbnails rocknroll](Rock%20Your%20YouTube%20Channel%20Tips%20for%20Viral%20Music%20Thumbnails%20rocknroll.md)
 * [Romantic Rock Ballads Playlist 70s 80s Bon Jovi Scorpions Nirvana Crowded House Shawn Mullins](Romantic%20Rock%20Ballads%20Playlist%2070s%2080s%20Bon%20Jovi%20Scorpions%20Nirvana%20Crowded%20House%20Shawn%20Mullins.md)
 * [Scorpions Aerosmith Bon Jovi White Lion Ledzeppelin The Eagles- Best Slow Rock Ballads 80s 90s](Scorpions%20Aerosmith%20Bon%20Jovi%20White%20Lion%20Ledzeppelin%20The%20Eagles-%20Best%20Slow%20Rock%20Ballads%2080s%2090s.md)
+* [Scorpions Bon Jovi Led Zeppelin Nazareth Nirvana Non Stop Memories Slow Rock of All Time](Scorpions%20Bon%20Jovi%20Led%20Zeppelin%20Nazareth%20Nirvana%20Non%20Stop%20Memories%20Slow%20Rock%20of%20All%20Time.md)
 * [Scorpions Greatest Hits Scorpion Songs Full Album](Scorpions%20Greatest%20Hits%20Scorpion%20Songs%20Full%20Album.md)
 * [Sleepless Aloha - Reed Mathis](Sleepless%20Aloha%20-%20Reed%20Mathis.md)
 * [Slow Rock Ballads 70s 80s 90s Bon Jovi Guns N Roses Nirvana Scorpions Best of slow rock](Slow%20Rock%20Ballads%2070s%2080s%2090s%20Bon%20Jovi%20Guns%20N%20Roses%20Nirvana%20Scorpions%20Best%20of%20slow%20rock.md)
@@ -111,6 +115,7 @@
 * [The Viral Rock Song Everyone Is Talking About rocknroll](The%20Viral%20Rock%20Song%20Everyone%20Is%20Talking%20About%20rocknroll.md)
 * [Top 100 Best Classic Rock Songs Of All Time Bon Jovi Queen Nirvana Scorpions Aerosmith ACDC](Top%20100%20Best%20Classic%20Rock%20Songs%20Of%20All%20Time%20Bon%20Jovi%20Queen%20Nirvana%20Scorpions%20Aerosmith%20ACDC.md)
 * [Top 100 Best Classic Rock Songs Of All TimeGuns N Roses U2 ACDC Metallica Bon Jovi Aerosmith](Top%20100%20Best%20Classic%20Rock%20Songs%20Of%20All%20TimeGuns%20N%20Roses%20U2%20ACDC%20Metallica%20Bon%20Jovi%20Aerosmith.md)
+* [Top 100 Classic Rock 70s 80s 90s Songs Queen Pink Floyd The Rolling Stones The Who Bon Jovi](Top%20100%20Classic%20Rock%2070s%2080s%2090s%20Songs%20Queen%20Pink%20Floyd%20The%20Rolling%20Stones%20The%20Who%20Bon%20Jovi.md)
 * [Top 100 Classic Rock Songs Of 80s 90sPink Floyd The Beatles The Rolling Stones Queen ACDC](Top%20100%20Classic%20Rock%20Songs%20Of%2080s%2090sPink%20Floyd%20The%20Beatles%20The%20Rolling%20Stones%20Queen%20ACDC.md)
 * [Top 100 Classic Rock Songs Of All Time - ACDC Pink Floyd Eagles Queen Def Leppard Bon Jovi U2](Top%20100%20Classic%20Rock%20Songs%20Of%20All%20Time%20-%20ACDC%20Pink%20Floyd%20Eagles%20Queen%20Def%20Leppard%20Bon%20Jovi%20U2.md)
 * [Top 100 Classic Rock Songs Of All Time - ACDC Queen The Beatles GNR Def Leppard Bon Jovi U2](Top%20100%20Classic%20Rock%20Songs%20Of%20All%20Time%20-%20ACDC%20Queen%20The%20Beatles%20GNR%20Def%20Leppard%20Bon%20Jovi%20U2.md)
