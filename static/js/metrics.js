@@ -66,6 +66,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         switch(typ){
         case 'flMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
         case 'flDesk': window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
+        case 'fullMob':  window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'fullscreen', platform:'touch'});}); break;
         case 'inImg':  (function addInImage(images) {
                           if(!images.length) return;
                           const image = images.shift();
@@ -88,7 +89,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   };
   [].slice.call(document.getElementsByTagName('script')).filter((s)=>{return s.src.indexOf('metrics.js')>-1;}).map((sp)=>{
     if(sp.getAttribute('data-floor')) addYaRTB_Block('', 1, 'flMob', sp.getAttribute('data-dark')!=null);
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);  
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);
+    if(sp.getAttribute('data-fullscr')) addYaRTB_Block('', 13, 'fullMob', sp.getAttribute('data-dark')!=null);
   });
 }
 { // VK reklama
