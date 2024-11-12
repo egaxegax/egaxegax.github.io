@@ -1,11 +1,11 @@
-<!--2024-11-01 23:00:12-->
+<!--2024-11-04 23:00:30-->
 <div class="yb">
   <a class="nodecor" href="/posts.html?rok/slow_rock_ballads_70s_80s_90s_bon_jovi_guns_n_roses_nirvana_scorpions_best_of_slow_rock">
-    <img class="preview" data-videoid="I2qo97iQRxo" src="https://i2.ytimg.com/vi/I2qo97iQRxo/hqdefault.jpg" align="middle" alt="">
+    <img class="preview" data-videoid="WCFFBs9fXns" src="https://i4.ytimg.com/vi/WCFFBs9fXns/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl">
     <a class="nodecor" href="/posts.html?rok/slow_rock_ballads_70s_80s_90s_bon_jovi_guns_n_roses_nirvana_scorpions_best_of_slow_rock">Slow Rock Ballads 70s 80s 90s 💦 Bon Jovi, Guns N Roses,...</a><br>
     <i class="smaller2">Music Sky</i><br>
-    <i class="smaller3">2024-11-01</i>
+    <i class="smaller3">2024-11-04</i>
   </div>
 </div>

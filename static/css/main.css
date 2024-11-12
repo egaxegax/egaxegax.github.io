@@ -49,7 +49,6 @@
 @media all and (min-width:800px) { #lbar,#rbar { width:calc((96vw - 750px) / 2); } }
 #root { min-height:100%; }
 #header { text-align:center; width:100%; z-index:999; }
-#header img { width:90px; margin:0 2px; height:36px; color:transparent; }
 #page_content { min-height:440px; }
 #page_footer button { height:44px; width:44px; border:0; }
 #footer { width:100%; }

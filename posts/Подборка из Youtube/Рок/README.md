@@ -46,6 +46,7 @@
 * [Classic Rock Full Album 70s 80s 90s Songs Led Zeppelin Bon Jovi Aerosmith U2 ACDC](Classic%20Rock%20Full%20Album%2070s%2080s%2090s%20Songs%20Led%20Zeppelin%20Bon%20Jovi%20Aerosmith%20U2%20ACDC.md)
 * [Classic Rock Greatest Hits - Classic Rock 70s 80s 90s Playlist - Epic Classic Rock Collection](Classic%20Rock%20Greatest%20Hits%20-%20Classic%20Rock%2070s%2080s%2090s%20Playlist%20-%20Epic%20Classic%20Rock%20Collection.md)
 * [Classic Rock Greatest Hits 60s 70s 80s Compilation Queen U2 The Eagles Pink Floyd Aerosmith](Classic%20Rock%20Greatest%20Hits%2060s%2070s%2080s%20Compilation%20Queen%20U2%20The%20Eagles%20Pink%20Floyd%20Aerosmith.md)
+* [Classic Rock Greatest Hits 70s 80s 90s Guns N Roses Aerosmith Bon Jovi Metallica Queen](Classic%20Rock%20Greatest%20Hits%2070s%2080s%2090s%20Guns%20N%20Roses%20Aerosmith%20Bon%20Jovi%20Metallica%20Queen.md)
 * [Classic Rock Greatest Hits Top 100 Best Classic Rock 70s 80s 90s](Classic%20Rock%20Greatest%20Hits%20Top%20100%20Best%20Classic%20Rock%2070s%2080s%2090s.md)
 * [Classic Rock Melodies 70s 80s 90s The Greatest Classic Rock Playlist](Classic%20Rock%20Melodies%2070s%2080s%2090s%20The%20Greatest%20Classic%20Rock%20Playlist.md)
 * [Classic Rock Music Top 100 Best Classic Rock Of All TimeGuns N Roses Metallica The Police U2](Classic%20Rock%20Music%20Top%20100%20Best%20Classic%20Rock%20Of%20All%20TimeGuns%20N%20Roses%20Metallica%20The%20Police%20U2.md)

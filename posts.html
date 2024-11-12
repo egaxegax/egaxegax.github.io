@@ -35,7 +35,7 @@
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
 <div id="page_footer" class="main"></div>
-<p class="tcenter smaller gray hspace">
+<p class="tcenter smaller gray">
   Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
 <table id="footer" class="main"><tr>
@@ -49,7 +49,7 @@
 <script>
 
   document.getElementById('page_header').innerHTML = 
-'<div class="large table">'+
+'<div class="table">'+
   '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+'</h1></div>'+
   '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
@@ -168,7 +168,7 @@
     PAGE.num = urlParams().page||0; // start num page 
     window.POSTS = TITLES;
     var page_header = 
-  '<div class="large table">'+
+  '<div class="table">'+
     '<div class="tcell vmid"><h1>'+'Подборка <b><i>'+TITLES.length+'</i></b> статей, постов на разные &emsp; <a href="/psubj.html">Темы</a>'+'</h1></div>'+
     '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
   '</div>';
@@ -186,7 +186,7 @@
         });
         POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
         page_header =
-      '<div class="large table">'+
+      '<div class="table">'+
         '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></div>'+
         '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
       '</div>';
@@ -200,7 +200,7 @@
         if(POSTS.length){
           PAGE.view = 'post';
           page_header = 
-        '<div class="table large">'+
+        '<div class="table">'+
           '<div class="tcell vmid">'+ 
             '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +'&emsp;<a href="/posts.html?'+pp[0]+'/README">Все</a></h1>'+
           '</div>'+
@@ -214,7 +214,7 @@
         if(POSTS.length){
           PAGE.view = 'list';
           page_header = 
-        '<div class="table large">'+
+        '<div class="table">'+
           '<div class="tcell vmid">'+
             '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + 
               '<i class="hspace counter">('+ POSTS.length+')</i> '+
