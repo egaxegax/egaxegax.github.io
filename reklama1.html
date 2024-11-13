@@ -20,12 +20,12 @@
 <body>
 <div id="root" class="main">
 <div id="header" class="main scroll nowrap">
-<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg?241019" onload="this.scrollIntoView()" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241020" alt="Заметки"></a>
-<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg?241019" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg?241019" alt="Аккорды"></a>
-<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg?241019" alt="Книги"></a>
-<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg?241019" alt="Карты"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg?241113" onload="this.scrollIntoView()" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241113" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg?241113" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg?241113" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg?241113" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg?241113" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
@@ -80,7 +80,7 @@
     '<button onclick="this.disabled = addPageContent({}, {}, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); }, 300);
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
     return page.titles.length == 0;
   }
 
