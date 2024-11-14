@@ -10,7 +10,7 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Темы заметок / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?241026">
+<link rel="stylesheet" href="/static/css/main.css?241114">
 <link rel="stylesheet" href="/static/css/posts.dark.css">
 <script src="/static/js/metrics.js?241026" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
@@ -51,12 +51,12 @@
   function addSubj(subj,i){
     var subdir = '';
     if (ROOTS[subj[3]][0] != '.'){
-      subdir = '<em>' +ROOTS[subj[3]][0]+' / </em> ';
+      subdir = '<em class="smaller"> / ' +ROOTS[subj[3]][0]+'</em> ';
     }
     var tmpl = 
   '<table width="100%" class="msgtext"><tr>'+
     '<td width="80%" class="hspaced">'+
-      '<a class="large nodecor dark" href="/posts.html?'+tr(subj[0])+'">'+subdir+subj[0]+'</a>'+
+      '<a class="large nodecor dark" href="/posts.html?'+tr(subj[0])+'">'+subj[0]+subdir+'</a>'+
     '</td>'+
     '<td width="8%" align="right"><b><i>'+subj[1]+'</i></b></td>'+
     '<td width="8%" align="right"><i class="hspace counter small">'+i+'</i></td>'+

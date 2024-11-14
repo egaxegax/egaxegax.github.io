@@ -11,7 +11,7 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Аккорды / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?241103">
+<link rel="stylesheet" href="/static/css/main.css?241114">
 <link rel="stylesheet" href="/static/css/songs.css?241020">
 <style>
 .about { padding:2px 10px 0px 10px; }
@@ -98,7 +98,7 @@
   '<div class="msgtext mw_ch scroll nowrap">'+
     '<table><tr>'+
       '<td width="99%">'+
-        '<a class="large nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a>'+
+        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a>'+
       '</td>'+
       '<td align="right" class="light"><i class="counter small">'+p.i+'</i></td></tr>'+
     '</table>'+
@@ -265,7 +265,7 @@
         if(SONGS.length){
           PAGE.view = 'song';
           page_header =
-        '<div class="bigger1 table">'+
+        '<div class="large table">'+
           '<div class="tcell vmid">'+
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<h1>'+SONGS[0][2]+'</h1>'+
@@ -281,7 +281,7 @@
         if(SONGS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<div class="bigger1 table">'+
+        '<div class="large table">'+
           '<div class="tcell vmid">'+
             '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
             '<i class="hspace counter">('+ SONGS.length+')</i></h1>'+
