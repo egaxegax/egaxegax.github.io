@@ -51,6 +51,7 @@ https://egax.ru/posts.html?dzen/13_privychek_uhojennoj_jenshchiny_40_kotoraya_vy
 https://egax.ru/posts.html?dzen/15_juvelirnyh_shedevrov_s_novoj_vystavki_rossiya_ljubov_moyav_moskovskom_istoricheskom_muzee
 https://egax.ru/posts.html?dzen/15_oshibok_v_osenne-zimnih_obrazah
 https://egax.ru/posts.html?dzen/17_slov_v_kotoryh_oshibajutsya_bolee_60_ljudej_a_vy_pishete_pravilno
+https://egax.ru/posts.html?dzen/18_luchshih_obrazov_s_pre-oskara_governors_awards_2024
 https://egax.ru/posts.html?dzen/18_sovestkih_akterov_i_aktris_kotorye_sygrali_personajej_gorazdo_mladshe_ili_starshe_sebya
 https://egax.ru/posts.html?dzen/19_neprostitelnyh_oshibok_v_vashej_rechi
 https://egax.ru/posts.html?dzen/20_fraz_begushchih_nazad_palindromy_o_kotoryh_nam_v_shkole_ne_rasskazyvali
@@ -249,6 +250,7 @@ https://egax.ru/posts.html?dzen/leonardo_da_vinchi_bezgranichnyj_talant_16_karti
 https://egax.ru/posts.html?dzen/letchik_akter_rejisser_kritik_kem_stali_deti_i_vnuki_izvestnyh_russkih_hudojnikov
 https://egax.ru/posts.html?dzen/lichnyj_opyt_10_neobychnyh_mest_v_moskve_kuda_shodit_na_svidanie_s_devushkoj
 https://egax.ru/posts.html?dzen/ljubimye_bljuda_nikolaya_ii_chto_gotovili_poslednemu_imperatoru
+https://egax.ru/posts.html?dzen/ljubov_stolypina_vernaya_supruga_reformatora_rossijskoj_imperii
 https://egax.ru/posts.html?dzen/loki_perstni_i_dohlyj_popugaj_kak_djim_kerri_prevratil_1994-j_v_god_imeni_sebya
 https://egax.ru/posts.html?dzen/love_is_tragichnaya_istoriya_pary_podarivshej_miru_znamenitye_vkladyshi
 https://egax.ru/posts.html?dzen/luchshie_golovnye_ubory_na_osen-zimu_2024-2025
@@ -346,6 +348,7 @@ https://egax.ru/posts.html?dzen/pravda_li_chto_v_kitae_mojno_horosho_jit_na_ross
 https://egax.ru/posts.html?dzen/pribalty_chem_otlichajutsya_estoncy_litovcy_i_latyshi_kak_ih_ne_putat
 https://egax.ru/posts.html?dzen/princessa_majkl_kentskaya_rojdennaya_chtoby_blistat
 https://egax.ru/posts.html?dzen/privezennyj_astronavtami_apollona-16_lunnyj_grunt_okazalsya_kapsuloj_vremeni
+https://egax.ru/posts.html?dzen/proehali_ves_bam_ot_kraya_do_kraya_na_avtomobile
 https://egax.ru/posts.html?dzen/progulka_po_arkticheskomu_poselku_tiksi_komfortno_bezopasno_boyatsya_nechego
 https://egax.ru/posts.html?dzen/provel_2_nedeli_v_kambodje_i_bolshe_tuda_ne_vernus_rasskazyvaju_pochemu
 https://egax.ru/posts.html?dzen/provincialnaya_geografiya_selo_poselok_derevnya_v_chem_raznica
@@ -412,6 +415,7 @@ https://egax.ru/posts.html?dzen/top-19_trendovyh_aksessuarov_2024-2025
 https://egax.ru/posts.html?dzen/top-5_luchshih_korejskih_doram_2024_goda
 https://egax.ru/posts.html?dzen/top-7_mifov_o_nochnom_uhode_za_licom_obyasnyaet_nejrokosmetolog
 https://egax.ru/posts.html?dzen/top-8_samyh_neobychnyh_koshek_kotorye_porajajut_svoej_unikalnoj_vneshnostju
+https://egax.ru/posts.html?dzen/tragicheskaya_sudba_150_let_nazad_rodilsya_admiral_aleksandr_kolchak
 https://egax.ru/posts.html?dzen/trendy_sumok_osen-zima_2024_25_kakie_12_modelej_mojno_pokupat_smelo
 https://egax.ru/posts.html?dzen/tri_voprosa_starejushchej_sobaki
 https://egax.ru/posts.html?dzen/tyajelaya_jenskaya_dolya_vopijushchie_pravila_domostroya
@@ -486,6 +490,7 @@ https://egax.ru/posts.html?filmy/dnevniki_ubijcy_italyanskij_triller_so_zvezdoj_
 https://egax.ru/posts.html?filmy/dominus_1989_god_fantastika
 https://egax.ru/posts.html?filmy/durnoj_glaz_misticheskij_triller_s_evoj_grin
 https://egax.ru/posts.html?filmy/dva_nezauryadnyh_vora_reshajut_pribrat_k_rukam_yajca_faberje_film_boevik_2008
+https://egax.ru/posts.html?filmy/ekshen_dlya_fanatov_besslavnyh_ubljudkov_gnezdo_kondora_boevik_triller_drama
 https://egax.ru/posts.html?filmy/eta_mashina_obgonit_ljubye_gonochnye_avto_motivaciya_lamborgini
 https://egax.ru/posts.html?filmy/etjudy_o_vrubele_1989_god_biografiya
 https://egax.ru/posts.html?filmy/etomu_byt_presque_2021_drama_komediya
@@ -581,7 +586,6 @@ https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/karta_moskovskogo_metro_svg
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/karty_i_google_maps
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/opisanie_i_primery
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/pereschet_izobrajenij_pod_raznye_kartograficheskie_proekcii_v_webgl
-https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/sajt_na_gh-pages_platforme_egaxegax_github_io
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/shema_prigorodnogo_dvijeniya_jd_soobshcheniya_moskvy_i_mo
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/zametki_otzyvy_plany_proekta_karty_dbcartajs
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas
@@ -2910,7 +2914,6 @@ https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_7_installati
 https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egax.ru/posts.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egax.ru/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
-https://egax.ru/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
 https://egax.ru/posts.html?primery_shell-scenariev/iframe_s_autoheight_po_soderjimomu
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzovanie_ssh_cherez_expect_s_peredachej_parolya_bez_vvoda
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzuem_samba_dlya_skachivaniyazakachivaniya_katalogov
@@ -3002,6 +3005,7 @@ https://egax.ru/posts.html?rabota/byl_shef_povarom_v_belarusi_-_stal_hendmenom_i
 https://egax.ru/posts.html?rabota/chatgpt_dlya_hendimena_v_ssha
 https://egax.ru/posts.html?rabota/chem_pitaetsya_immigrant_v_amerike_jizn_v_ssha_bezlimitnyj_restoran_za_1500_rublej
 https://egax.ru/posts.html?rabota/chestnyj_otzyv_na_sany_495_shorts_lagrange_tyagach_dalnobojshchiki_voditel_avtoservis_avto_sany
+https://egax.ru/posts.html?rabota/chto_nujno_znat_pered_startom_v_hendimenstve
 https://egax.ru/posts.html?rabota/corvette_slomalsya_na_genesis_tolkali_ves_charger_brosili_otkrytym_na_ulice_los_andjelesa_turo
 https://egax.ru/posts.html?rabota/dalnoboj_po_ssha_i_obzor_traka_mack_i_uhoju_v_otpusk_10
 https://egax.ru/posts.html?rabota/dalnoboj_po_ssha_i_obzor_traka_volvo_2024_6
@@ -3411,6 +3415,7 @@ https://egax.ru/posts.html?rok/classic_rock_70s_80s_90s_greatest_hits_playlist_-
 https://egax.ru/posts.html?rok/classic_rock_70s_80s_90s_hits_-_aerosmith_nirvana_queen_bon_jovi_acdc_eagles_metalica_gnr
 https://egax.ru/posts.html?rok/classic_rock_70s_80s_90s_playlist_greatest_classic_rock_hits
 https://egax.ru/posts.html?rok/classic_rock_70s_80s_90s_songs_full_albumpink_floyd_the_rolling_stones_ac_dc_the_who_queen
+https://egax.ru/posts.html?rok/classic_rock_70s_80s_90s_songs_pink_floyd_the_rolling_stones_ac_dc_the_who_black_sabbath
 https://egax.ru/posts.html?rok/classic_rock_70s_80s_90s_songs_top_100_of_all_time_playlistled_zeppelin_queen_the_beatles
 https://egax.ru/posts.html?rok/classic_rock_70s_80s_90s_songseagles_pink_floyd_the_rolling_stones_acdc_t_police_queen_bon_jovi
 https://egax.ru/posts.html?rok/classic_rock_ballads_greatest_rock_power_balladsqueen_guns_n_roses_ac_dc_metallica_pink_floyd
@@ -3467,6 +3472,7 @@ https://egax.ru/posts.html?rok/lionel_richie_rod_stewart_eric_clapton_elton_john
 https://egax.ru/posts.html?rok/lobo_lionel_richie_elton_john_rod_stewart_bee_gees_billy_joel_soft_rock_love_songs_70s_80s_90s
 https://egax.ru/posts.html?rok/master_the_art_of_rock_music_thumbnails_tips_for_going_viral_on_youtube_classicrock
 https://egax.ru/posts.html?rok/metallica_greatest_hits_-_metallica_songs_playlist_album_2024
+https://egax.ru/posts.html?rok/metallica_playlist_classic_rock
 https://egax.ru/posts.html?rok/metallica_playlist_greatest_hits_best_of_metallica_full_album
 https://egax.ru/posts.html?rok/michael_bolton_elton_john_eric_clapton_bee_gees_rod_stewart_-_soft_rock_love_songs_70s_80s_90s
 https://egax.ru/posts.html?rok/nirvana_acdc_aerosmith_queen_bon_jovi_scorpions_van_halen_-_best_classic_rock_of_70s_80s_90s
@@ -3518,6 +3524,7 @@ https://egax.ru/posts.html?rok/top_100_best_classic_rock_songs_compilation_queen
 https://egax.ru/posts.html?rok/top_100_best_classic_rock_songs_of_all_time_bon_jovi_queen_nirvana_scorpions_aerosmith_acdc
 https://egax.ru/posts.html?rok/top_100_best_classic_rock_songs_of_all_timeguns_n_roses_u2_acdc_metallica_bon_jovi_aerosmith
 https://egax.ru/posts.html?rok/top_100_classic_rock_70s_80s_90s_songs_queen_pink_floyd_the_rolling_stones_the_who_bon_jovi
+https://egax.ru/posts.html?rok/top_100_classic_rock_songs_of_80s_90sac_dc_the_eagles_queen_def_leppard_guns_n_roses_aerosmith
 https://egax.ru/posts.html?rok/top_100_classic_rock_songs_of_80s_90spink_floyd_the_beatles_the_rolling_stones_queen_acdc
 https://egax.ru/posts.html?rok/top_100_classic_rock_songs_of_all_time_-_acdc_pink_floyd_eagles_queen_def_leppard_bon_jovi_u2
 https://egax.ru/posts.html?rok/top_100_classic_rock_songs_of_all_time_-_acdc_queen_the_beatles_gnr_def_leppard_bon_jovi_u2
