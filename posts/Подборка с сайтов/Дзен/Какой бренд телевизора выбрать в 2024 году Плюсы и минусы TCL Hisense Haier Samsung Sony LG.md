@@ -1,9 +1,9 @@
-<!--2024-10-10 14:00:06-->
+<!--2024-10-04 16:05:37-->
 <div class="yb">
   <div class="inlbl">
   <p class="table preview">
     <a class="trow nodecor" href="https://dzen.ru/a/Zv_bpN4hXlTq-CmQ">
-      <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66ffdba4de215e54eaf82990_66ffe2bf1e0d933a08f469d6/smart_crop_344x194" alt="">
+      <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66ffdba4de215e54eaf82990_66ffe27da55a69007220b662/smart_crop_344x194" alt="">
     </a>
     <a class="trow nodecor" href="https://dzen.ru/a/Zv_bpN4hXlTq-CmQ"><span class="inlbl">Какой бренд телевизора выбрать в 2024 году? Плюсы и минусы TCL, Hisense, Haier,...</span></a>
     <i class="trow smaller2"><span class="inlbl">KOLBIN REVIEW</span></i>
