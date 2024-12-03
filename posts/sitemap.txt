@@ -658,7 +658,6 @@ https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/karta_moskovskogo_metro_svg
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/karty_i_google_maps
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/opisanie_i_primery
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/pereschet_izobrajenij_pod_raznye_kartograficheskie_proekcii_v_webgl
-https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/sajt_na_gh-pages_platforme_egaxegax_github_io
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/shema_prigorodnogo_dvijeniya_jd_soobshcheniya_moskvy_i_mo
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/zametki_otzyvy_plany_proekta_karty_dbcartajs
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas
@@ -2992,7 +2991,6 @@ https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_7_installati
 https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egax.ru/posts.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egax.ru/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
-https://egax.ru/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
 https://egax.ru/posts.html?primery_shell-scenariev/iframe_s_autoheight_po_soderjimomu
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzovanie_ssh_cherez_expect_s_peredachej_parolya_bez_vvoda
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzuem_samba_dlya_skachivaniyazakachivaniya_katalogov
@@ -3169,6 +3167,7 @@ https://egax.ru/posts.html?rabota/ot_hendmena_k_flipperu_kak_vyjti_na_dohod_300_
 https://egax.ru/posts.html?rabota/otkuda_ty_vzyalas
 https://egax.ru/posts.html?rabota/otpravlyaj_takomu_drugu_temshchiku_rabotavssha_doordash
 https://egax.ru/posts.html?rabota/otrabotal_2_goda_hendimenom_v_ssha_kakie_vyvody_i_kuda_idti_dalshe
+https://egax.ru/posts.html?rabota/pereezd_v_ssha_1200_za_den_bez_yazyka_realnaya_istoriya_hendimena_iz_majami
 https://egax.ru/posts.html?rabota/perekus_hendimena
 https://egax.ru/posts.html?rabota/pervye_dengi_v_hendimenstve_hendimen_handyman_rabotavssha
 https://egax.ru/posts.html?rabota/pochemu_vybrali_lagranj_grupp_lagrange_shorts_dalnoboj_tyagach_truckdriver_voditel_avto
