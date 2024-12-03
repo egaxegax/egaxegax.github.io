@@ -46,7 +46,7 @@ for hdr, url in RSSlist.items():
           pdt = time.strptime(pdate.replace('+0300','MSK'), '%a, %d %b %Y %H:%M:%S %Z')
           text = """
 <div class="rss">
-  <span class="smaller2 gray hspace">{ph}:{pmi}</span>
+  <span class="smaller gray hspace">{ph}:{pmi}</span>
   <a class="nodecor" href="{phref}">{titl}</a>
 </div>""".format(titl=tr_chars(titl, 70), phref=phref, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
           fp.write(text)
