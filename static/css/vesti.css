@@ -13,7 +13,7 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 #header { background:#d2e0f0; }
 #page_footer button { background:#379e60; color:#fff; }
 /* rss */
-.rss { padding: 0 0 5px; }
+.rss { padding: 0 0 5px; font-size:15px; }
 .rss a { color:#333; }
 /* msgs */
 .footer { font-size:small; font-style:italic; color:#777; }
