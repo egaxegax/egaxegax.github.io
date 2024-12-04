@@ -61,7 +61,7 @@ for hdr, url in RSSlist:
     <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
   </a>
   <div class="inlbl">
-    <a class="nodecor smaller1" href="{phref}">{titl}</a><br>
+    <a class="nodecor" href="{phref}">{titl}</a><br>
     <i class="smaller2">{authr}</i><br>
     <i class="smaller3">{rdate}</i>
   </div>
