@@ -25,12 +25,12 @@ img:hover { border:2px yellow solid }
 <body>
 <div id="root" class="main">
 <div id="header" class="main scroll nowrap">
-<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg?241113" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg?241113" alt="Заметки"></a>
-<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg?241113" onload="this.scrollIntoView()" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg?241113" alt="Аккорды"></a>
-<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg?241113" alt="Книги"></a>
-<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs.svg?241113" alt="Карты"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg?241113" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241113" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg?241113" onload="this.scrollIntoView()" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg?241113" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg?241113" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg?241113" alt="Карты"></a>
 </div>
 <div id="page_header" class="main"></div>
 <div id="page_content" class="main"></div>
@@ -58,8 +58,7 @@ img:hover { border:2px yellow solid }
   '<div id="mlist" class="main scroll nowrap"></div>'+
 '</div>'+
 '<p class="tcenter smaller gray">'+
-  'Подборка различных фото, снятых на смартфон, о нашей природе, красивых и необычных местах, интересных людях. &nbsp; '+
-  '<a href="/foto.html">Другие фото</a>'+
+  'Подборка различных фото, снятых на смартфон, о нашей природе, красивых и необычных местах, интересных людях.'+
 '</p>';
 
   var childs=[];
@@ -91,7 +90,7 @@ img:hover { border:2px yellow solid }
     });
     childs.push(img);  
     document.title = this.title + ' - Фотки / Сайт egax';
-    document.getElementById('foto_header').innerHTML = this.title;
+    document.getElementById('foto_header').innerHTML = this.title +'&emsp; <a href="/foto.html">Ещё</a>';
     updateMetaTag('description', this.title);
   };
 
