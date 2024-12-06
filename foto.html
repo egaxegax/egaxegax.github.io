@@ -86,7 +86,7 @@
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-    if(window.addYaRTB_Block) {
+    if(window.addYaRTB_Block && ((i+page.bottom)%2==0)) {
       if(window.innerWidth<900) {
         addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[3]);
       } else if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)){
