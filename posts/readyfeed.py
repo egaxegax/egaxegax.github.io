@@ -6,6 +6,7 @@
 RSSlist = [
   # ('Подборка из Youtube/Еда', 'channel_id=UC0K_CP437favZ3maGV06vaw'),   #Телеканал Еда
   # ('Подборка из Youtube/Еда', 'channel_id=UCgeval0um2gyuRhP1qch8Uw'),   #В.Емельяненко
+  ('Подборка из Youtube/Киноролики', 'channel_id=UCwHZ11aiUpyTg-wkiKbAqKQ'), #MOVIECLIPS TV
   ('Подборка из Youtube/Работа', 'channel_id=UC8JDt3Vz9WYpAS6b-oVH9xw'),#HandyTeddy
   ('Подборка из Youtube/Работа', 'channel_id=UC2pn5LT4UFz8gwrQF7VKZDQ'),#Константин Кречетов
   ('Подборка из Youtube/Работа', 'channel_id=UC42cQmihrg0Udqac_P0v2hQ'),#NZT USA
