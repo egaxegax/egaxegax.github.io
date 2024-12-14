@@ -1,5 +1,6 @@
 Подборка видеоклипов с *рок-музыкой* различных жанров и исполнителей.
 
+* [24 7 Christmas Ambience Fireplace Merry Christmas 2025](24%207%20Christmas%20Ambience%20Fireplace%20Merry%20Christmas%202025.md)
 * [28 11 2013 - КОРОЛЬ И ШУТ Минск Дворец Спорта](28%2011%202013%20-%20КОРОЛЬ%20И%20ШУТ%20Минск%20Дворец%20Спорта.md)
 * [70s 80s 90s Slow Rock Ballads Best Slow Rock Songs Playlist Led Zeppelin Metallica GNR Eagles](70s%2080s%2090s%20Slow%20Rock%20Ballads%20Best%20Slow%20Rock%20Songs%20Playlist%20Led%20Zeppelin%20Metallica%20GNR%20Eagles.md)
 * [70s 80s 90s Slow Rock Nonstop MedleyBest Slow Rock Ballads Of All Time Scorpions Bon Jovi CCR](70s%2080s%2090s%20Slow%20Rock%20Nonstop%20MedleyBest%20Slow%20Rock%20Ballads%20Of%20All%20Time%20Scorpions%20Bon%20Jovi%20CCR.md)
@@ -130,6 +131,7 @@
 * [Top 100 Best Classic Rock Songs Compilation Queen Nirvana U2 Aerosmith Led Zeppelin](Top%20100%20Best%20Classic%20Rock%20Songs%20Compilation%20Queen%20Nirvana%20U2%20Aerosmith%20Led%20Zeppelin.md)
 * [Top 100 Best Classic Rock Songs Of All Time Bon Jovi Queen Nirvana Scorpions Aerosmith ACDC](Top%20100%20Best%20Classic%20Rock%20Songs%20Of%20All%20Time%20Bon%20Jovi%20Queen%20Nirvana%20Scorpions%20Aerosmith%20ACDC.md)
 * [Top 100 Best Classic Rock Songs Of All TimeGuns N Roses U2 ACDC Metallica Bon Jovi Aerosmith](Top%20100%20Best%20Classic%20Rock%20Songs%20Of%20All%20TimeGuns%20N%20Roses%20U2%20ACDC%20Metallica%20Bon%20Jovi%20Aerosmith.md)
+* [Top 100 Christmas Songs Of All Time 2025 Best Traditional Christmas Music Playlist 2025](Top%20100%20Christmas%20Songs%20Of%20All%20Time%202025%20Best%20Traditional%20Christmas%20Music%20Playlist%202025.md)
 * [Top 100 Classic Rock 70s 80s 90s Songs Queen Pink Floyd The Rolling Stones The Who Bon Jovi](Top%20100%20Classic%20Rock%2070s%2080s%2090s%20Songs%20Queen%20Pink%20Floyd%20The%20Rolling%20Stones%20The%20Who%20Bon%20Jovi.md)
 * [Top 100 Classic Rock Songs Of 80s 90sAC DC The Eagles Queen Def Leppard Guns N Roses Aerosmith](Top%20100%20Classic%20Rock%20Songs%20Of%2080s%2090sAC%20DC%20The%20Eagles%20Queen%20Def%20Leppard%20Guns%20N%20Roses%20Aerosmith.md)
 * [Top 100 Classic Rock Songs Of 80s 90sPink Floyd The Beatles The Rolling Stones Queen ACDC](Top%20100%20Classic%20Rock%20Songs%20Of%2080s%2090sPink%20Floyd%20The%20Beatles%20The%20Rolling%20Stones%20Queen%20ACDC.md)
