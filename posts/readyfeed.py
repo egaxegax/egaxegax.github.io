@@ -26,6 +26,7 @@ RSSlist = [
   ('Подборка из Youtube/Тайны', 'channel_id=UCVsDyCRge9DXmk1S6Ibr10Q'), #Свидетель Windows
   ('Подборка из Youtube/Фильмы', 'channel_id=UCOD2veMoMj5jy6K0pGt55Bw'),#FILMSTER
   ('Подборка из Youtube/Фильмы', 'channel_id=UC3N4p9X5DjPCH184X-izRwA'),#Watch Movies
+  ('Подборка из Youtube/Фильмы', 'channel_id=UCrZLsQDHEBVSWDadKGQAxHA'),#military_movies
 ]
 
 import os, sys, time

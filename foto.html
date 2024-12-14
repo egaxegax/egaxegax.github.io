@@ -160,7 +160,7 @@
     addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-100){
         addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
       }
     });
