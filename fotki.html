@@ -11,7 +11,7 @@
 <title>Фотки / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?241214">
-<link rel="stylesheet" href="/static/css/foto.css?241204">
+<link rel="stylesheet" href="/static/css/foto.dark.css?241214">
 <script src="/static/js/metrics.js?241026" data-floor="0"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js"></script>
@@ -21,12 +21,12 @@
 <div id="lbar"></div>
 <div id="root" class="tcell nopad vtop">
 <div id="header" class="main scroll nowrap">
-<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg?241113" alt="Записки"></a>
-<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg?241113" alt="Заметки"></a>
-<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki.svg?241113" onload="this.scrollIntoView()" alt="Фотки"></a>
-<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg?241113" alt="Аккорды"></a>
-<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg?241113" alt="Книги"></a>
-<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg?241113" alt="Карты"></a>
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_l.svg?241113" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_l.svg?241113" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_a.svg?241113" onload="this.scrollIntoView()" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_l.svg?241113" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_l.svg?241113" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg?241113" alt="Карты"></a>
 </div>
 <div id="ya_rtb_hd" class="mh_hd"></div>
 <div id="page_header" class="main"></div>
@@ -69,7 +69,7 @@
         '<a class="hspace nodecor" href="/fotki.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+p.title[2]+'</a>'+
         '</td>'+
       '<td width="25%" align="right">'+
-        '<a class="hspace nodecor" href="/fotki.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>'+
+        '<a class="hspace nodecor counter" href="/fotki.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>'+
         '<span class="tooltip" title="снято '+buildDate(p.title[3])+'"> &#128343; </span></td>'+
     '</tr></table>'+
   '</div>';

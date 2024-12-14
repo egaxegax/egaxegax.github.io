@@ -1,14 +1,21 @@
 /* dark theme */
-.wrap { background:#404040; border:1px solid #454545; padding: 5px 0; }
-.msgfooter { padding: 0 10px; }
-.msgtext { padding:5px 0; }
+.wrap { background:rgb(68,71,76); }
 .dark { color:#eee; }
+.gray { color:#aaa; }
+.light { color:#9ac495; }
 .counter { color:#59a750; }
-body { background:#262626; color:#eee; }
-a, a:active, a:focus { color:#ffbc00; }
-b,i,em { color: #aaa; }
-b em, strong em { color: #ffbc00; }
-input[type=text], input[type=password], input[type=number], textarea, select { 
-  background:#404040; color:#fff; }
-#albumlist { color: #ffbc00; }
+body { background:rgb(52,55,60); color:#eee; }
+a, a:active, a:focus { color:#f4c430; }
+b,i,em { color:#aaa; }
+b em { color:#f4c430; }
+h3 { color:#9ac495; }
+input[type=text], input[type=password], input[type=number], textarea, select, option { background:rgb(114, 112, 113); color:#fff; }
+#root { background:rgb(55,58,63); }
+#header { background:rgb(55,58,63); }
 #page_footer button { background:#fff; }
+/**/
+img.foto { max-width:100%; max-height:400px; border-radius:4px; }
+/*ads*/
+.mh_hd { background:rgb(55,58,61); }
+.mh_sm { max-height:100px; }
+.mw_1 { max-width:530px; }
