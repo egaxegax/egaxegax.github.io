@@ -1,14 +1,19 @@
 SUBJ={
 0:'Мой город',
-1:'Бутово',
+1:'Москва. Ю.Бутово',
+4:'Москва. Битцевский парк',
+7:'Крым',
 2:'Природа',
-4:'Битцевский парк',
 5:'Стереокартинки',
-6:'Эротика аниме'
+6:'Эротика аниме',
 };           
 TITLES=[
-[1,'//ie.wampi.ru/2023/09/09/NOVAY-DOROZKA-V-MILITESKOM-POSELKE.-AVGUST-2023G.jpg','Новая дорожка в Милицейском поселке. Август 2023г.'],
-[2,'//ic.wampi.ru/2022/10/15/EZIK-NA-DOROGE.jpg','Ёжик на дороге. Июнь 2022 г.'],
+[7,'//im.wampi.ru/2024/12/16/KRYM-LASTOCKINO-GNEZDO.jpg','Крым. Ласточкино гнездо'],
+[7,'//i1.wampi.ru/2024/12/16/KRYM-LASTOCKINO-GNEZDO-1.jpg','Крым. Ласточкино гнездо 1'],
+[7,'//im.wampi.ru/2024/12/16/KRYM-LASTOCKINO-GNEZDO-2.jpg','Крым. Ласточкино гнездо 2'],
+[7,'//i1.wampi.ru/2024/12/16/KRYM-LASTOCKINO-GNEZDO-3.jpg','Крым. Ласточкино гнездо 3'],
+[7,'//i1.wampi.ru/2024/12/16/KRYM-LASTOCKINO-GNEZDO-4.jpg','Крым. Ласточкино гнездо 4'],
+[7,'//ic.wampi.ru/2022/10/15/EZIK-NA-DOROGE.jpg','Ёжик на дороге. Июнь 2022 г.'],
 [1,'//im.wampi.ru/2022/10/15/VID-NA-MILITEISKII-POSELOK-S-POLYNY.jpg','Вид на Милицейский посёлок. Июнь 2022г.'],
 [0,'//ia.wampi.ru/2021/10/30/EKSKAVATOR-U-SIMONOVA-MONASTYRY.jpg','Экскаватор у Симонова монастыря. Октябрь 2021г.'],
 [0,'//ia.wampi.ru/2021/10/10/ALLEY-V-OKTYBRE.jpg','Красивая аллея в октябре. Октябрь 2021г.'],
