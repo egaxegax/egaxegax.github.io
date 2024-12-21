@@ -88,6 +88,7 @@ https://egax.ru/posts.html?dzen/6_restoranov_moskvy_kotorye_stoit_posetit_hotya_
 https://egax.ru/posts.html?dzen/7_chudes_rossii_glavnye_mesta_strany
 https://egax.ru/posts.html?dzen/7_glavnyh_trendov_verhnej_odejdy_osenne-zimnego_sezona_2024_2025
 https://egax.ru/posts.html?dzen/7_gorodov_rossii_glazami_nejroseti
+https://egax.ru/posts.html?dzen/7_izvestnyh_hitov_v_kotoryh_avtory_vybrali_rifmu_a_ne_grammatiku
 https://egax.ru/posts.html?dzen/7_izvestnyh_no_zabytyh_akterov_boevikov_80-h_i_90-h_kotorye_tak_i_ne_smogli_stat_zvezdami
 https://egax.ru/posts.html?dzen/7_modnyh_faktur_zimy_ne_tolko_etoj_no_i_sledujushchej
 https://egax.ru/posts.html?dzen/7_populyarnyh_slov_iz_sssr_kotorye_sovremennaya_molodej_skoree_vsego_ne_znaet
@@ -208,6 +209,7 @@ https://egax.ru/posts.html?dzen/jizn_po-novomu_privychki_i_veshchi_kotorye_golla
 https://egax.ru/posts.html?dzen/jizn_po-turecki_17_otlichij_kvartir_ot_rossijskih
 https://egax.ru/posts.html?dzen/juliya_mihalkova_rasskazala_ob_uhode_iz_tv-shou_predvybornoj_gonke_i_podarkah_ot_mujchin
 https://egax.ru/posts.html?dzen/jutkaya_skazka_pravdivaya_istoriya_krasnoj_shapochki
+https://egax.ru/posts.html?dzen/kak_17-letnij_rossiyanin_stal_luchshim_v_mire_igrokom_v_counter-strike
 https://egax.ru/posts.html?dzen/kak_by_vyglyadel_nju-jork_bud_on_rossijskim_gorodom_12_foto
 https://egax.ru/posts.html?dzen/kak_by_vyglyadela_moskva_bud_ona_amerikanskim_gorodom_11_foto
 https://egax.ru/posts.html?dzen/kak_gollandcy_delyat_obyazannosti_v_seme_kto_gotovit_tratit_dengi_ubiraet
@@ -341,6 +343,7 @@ https://egax.ru/posts.html?dzen/moskvichki_otkazyvajutsya_ot_gel-laka_tak_je_str
 https://egax.ru/posts.html?dzen/motocikl_kotoryj_v_sssr_mogli_sebe_pozvolit_tolko_majory
 https://egax.ru/posts.html?dzen/motory_kitajskogo_haval_kakoj_resurs_u_klonov_vw_rasskazyvaju_tolko_fakty
 https://egax.ru/posts.html?dzen/multivselennaya_na_palcah_razbiraemsya_v_parallelnyh_mirah
+https://egax.ru/posts.html?dzen/my_togda_veli_sebya_bolee_celomudrenno_85-letnyaya_inga_kandakova_o_moskve_1950-h
 https://egax.ru/posts.html?dzen/na_maze_budut_vypuskat_klon_mitsubishi
 https://egax.ru/posts.html?dzen/nagruzka_na_sobachi_nervy_kak_otsledit
 https://egax.ru/posts.html?dzen/narodnyj_myasnoj_restoran_the_byk_gde_pochti_vse_bljuda_i_napitki_stoyat_po_350_rublej_vtroem_na_9500_ogromnyj_obzor
@@ -742,7 +745,6 @@ https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/karta_moskovskogo_metro_svg
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/karty_i_google_maps
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/opisanie_i_primery
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/pereschet_izobrajenij_pod_raznye_kartograficheskie_proekcii_v_webgl
-https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/sajt_na_github_pages_platforme_egaxegax-github-io
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/shema_prigorodnogo_dvijeniya_jd_soobshcheniya_moskvy_i_mo
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/zametki_otzyvy_plany_proekta_karty_dbcartajs
 https://egax.ru/posts.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas
@@ -3099,7 +3101,6 @@ https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_7_installati
 https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egax.ru/posts.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egax.ru/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
-https://egax.ru/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
 https://egax.ru/posts.html?primery_shell-scenariev/iframe_s_autoheight_po_soderjimomu
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzovanie_ssh_cherez_expect_s_peredachej_parolya_bez_vvoda
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzuem_samba_dlya_skachivaniyazakachivaniya_katalogov

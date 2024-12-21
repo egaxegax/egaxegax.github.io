@@ -169,7 +169,7 @@
       '<a href="/bwrts.html">Авторам</a>&nbsp; '+
       '<a href="/bgenres.html">Жанрам</a></h1>'+
     '</div>'+
-    '<div class="tcell tright vmid" style="width:40%">'+addFinder()+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:40%">'+addFinder()+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -189,7 +189,7 @@
           page_header = 
         '<div class="table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
-          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
@@ -204,7 +204,7 @@
             '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<h1>'+BOOKS[0][2]+'</h1>'+
           '</div>'+
-          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
           BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
@@ -228,7 +228,7 @@
               '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
             '</h1>'+
           '</div>'+
-          '<div class="tcell tright vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
           if(gnr.length>0){
             document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;
