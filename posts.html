@@ -70,10 +70,8 @@
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
     document.title = document.title.replace('README', p.subj);
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext">'+
-    (p.title[2] == 'README' ? '<div class="readme scroll nowrap mw_f">' : '') +
-      html+
-    (p.title[2] == 'README' ? '</div>' : '') +
+  '<div class="msgtext'+(p.title[2] == 'README' ? ' nopad scroll nowrap mw_f' : '')+'">'+
+    html+
   '</div>';
   }
 
@@ -105,7 +103,7 @@
       html = html.replace('<div class="inlbl">', '<div class="embed inlbl">');
     }
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext scroll nowrap mw_f">'+html+'</div>'+
+  '<div class="msgtext">'+html+'</div>'+
   '<div class="msgfooter tright mw_f nowrap scroll">'+
     '<table><tr>'+
       '<td width="99%"><a class="hspace nodecor light" href="/posts.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
