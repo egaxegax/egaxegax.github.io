@@ -71,7 +71,9 @@
     document.title = document.title.replace('README', p.subj);
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+
-    html+
+    (p.title[2] == 'README' ? '<div class="readme scroll nowrap mw_f">' : '') +
+      html+
+    (p.title[2] == 'README' ? '</div>' : '') +
   '</div>';
   }
 
