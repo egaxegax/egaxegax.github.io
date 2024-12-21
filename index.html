@@ -126,7 +126,7 @@
     window.MSGS = TITLES;
     var ysel = -1;
     var page_header = 
-  'Лента из <i><b>'+MSGS.length+'</b></i> событий &emsp; <a class="nodecor" href="/research.html">Поиск</a> &nbsp; <a href="/refeed.html">Комментарии</a>';
+  'Лента из <i><b>'+MSGS.length+'</b></i> событий &emsp; <a class="finder" href="/research.html">Поиск</a> &nbsp; <a href="/refeed.html">Комментарии</a>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -140,14 +140,14 @@
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
         if(MSGS.length){
           PAGE.view = 'msg';
-          page_header = 'Лента событий за день &emsp; <a class="nodecor" href="/research.html">Поиск</a>';
+          page_header = 'Лента событий за день &emsp; <a class="finder" href="/research.html">Поиск</a>';
         }
       }else if(pp.length>0){ // ?subj
         MSGS = MSGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); });
         if(MSGS.length) document.title = document.title.replace('/', ' за ' + SUBJ[MSGS[0][0]][0] + ' / ');
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
         if(MSGS.length){
-          page_header = 'Лента из <i><b>'+MSGS.length+'</b></i> событий за год&emsp; <a class="nodecor" href="/research.html">Поиск</a>';
+          page_header = 'Лента из <i><b>'+MSGS.length+'</b></i> событий за год&emsp; <a class="finder" href="/research.html">Поиск</a>';
         }
       }
     }
