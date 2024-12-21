@@ -105,7 +105,7 @@
       html = html.replace('<div class="inlbl">', '<div class="embed inlbl">');
     }
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext">'+html+'</div>'+
+  '<div class="msgtext scroll nowrap mw_f">'+html+'</div>'+
   '<div class="msgfooter tright mw_f nowrap scroll">'+
     '<table><tr>'+
       '<td width="99%"><a class="hspace nodecor light" href="/posts.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
