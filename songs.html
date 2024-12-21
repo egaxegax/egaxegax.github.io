@@ -75,7 +75,7 @@
 
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext mw_ch scroll nowrap">'+
+  '<div class="msgtext scroll nowrap mw_f">'+
     '<table class="av" width="100%"><tr>'+
       '<td align="center" valign="middle" width="1%">'+
         '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
@@ -95,7 +95,7 @@
   function addList(r,p){
     if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды ' + (urlParams().page||''));
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext mw_ch scroll nowrap">'+
+  '<div class="msgtext scroll nowrap mw_f">'+
     '<table><tr>'+
       '<td width="99%">'+
         '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a>'+
@@ -126,12 +126,12 @@
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
   '<div class="tcenter">'+
-    '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords scroll nowrap tleft vtop mw_ch">'+
+    '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords tleft scroll nowrap mw_f">'+
       html+
     '</div>'+
     '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:40px 0 0 10px;') +'min-width:240px;max-width:240px"></div>'+
   '</div>'+
-  '<div id="chordcont" class="bmarg mw_ch chord"></div><br>'+
+  '<div id="chordcont" class="bmarg hspace1 chord mw_f"></div><br>'+
   '<div class="msgfooter">'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
