@@ -4,12 +4,14 @@
 #
 
 RSSlist = {
-  'Подборка IT-новостей от Хабра': 'https://habr.com/ru/rss/news/?fl=ru',
-  'EADaily Европейские новости': 'https://eadaily.com/ru/rss/index.xml',
-  # 'РИА Новости' :'https://ria.ru/export/rss2/index.xml'
+  'Подборка IT-новостей от Хабра': {'url': 'https://habr.com/ru/rss/news/?fl=ru', 'titl':'title'},
+  'EADaily Европейские новости': {'url': 'https://eadaily.com/ru/rss/index.xml', 'titl':'title'},
+  # 'РИА Новости': {'url': 'https://ria.ru/export/rss2/index.xml', 'titl':'title'},
+  'Кино-Театр.РУ Мир театра': {'url': 'https://kino-teatr.ru/rss/teatr.xml', 'titl':'description'},
+  'Кино-Театр.РУ Новости кино': {'url': 'https://kino-teatr.ru/rss/kino.xml', 'titl':'description'}
 }
 
-import os, sys, time
+import os, sys, time, datetime, dateutil.parser
 import xml.etree.ElementTree as ET
 from urllib.request import Request, urlopen
 
@@ -24,10 +26,10 @@ import locale
 fcount = 0
 rcount = 0
 
-for hdr, url in RSSlist.items():
+for hdr, prm in RSSlist.items():
   icount = 0
   rcount += 1
-  with urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
+  with urlopen(Request(prm['url'], headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     for channel in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall("channel"):
       cdtm = time.localtime()
       if not os.path.exists(os.path.join(cdir, str(cdtm.tm_year))):
@@ -39,20 +41,21 @@ for hdr, url in RSSlist.items():
         for item in channel.findall('item'):
           if icount >= 20:
             break
-          titl = item.find('title').text
+          ptitl = item.find(prm['titl']).text
+          if prm['titl'] == 'title':
+            ptitl = tr_chars(ptitl, 70)
           phref = item.find('link').text
           pdate = item.find('pubDate').text
-          # print(pdate)
-          pdt = time.strptime(pdate.replace('+0300','MSK'), '%a, %d %b %Y %H:%M:%S %Z')
+          pdt = dateutil.parser.parse(pdate)
           text = """
-<div class="rss">
+<div class="rss table">
   <span class="smaller gray hspace">{ph}:{pmi}</span>
   <a class="nodecor" href="{phref}">{titl}</a>
-</div>""".format(titl=tr_chars(titl, 70), phref=phref, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
+</div>""".format(titl=ptitl, phref=phref, ph=('%02d' % pdt.time().hour), pmi=('%02d' % pdt.time().minute))
           fp.write(text)
           fcount += 1
           icount += 1
-      print(hdr, url, '(%s)' % (icount,))
+      print(hdr, prm['url'], '(%s)' % (icount,))
 
 if fcount:
   time.sleep(1)
