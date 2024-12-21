@@ -22,7 +22,7 @@
 .marg { margin: 0 auto; }
 .nomarg { margin:0 0 0 0; }
 .nopad { padding:0 0 0 0; }
-.nowrap { white-space: nowrap; }
+.nowrap { white-space:nowrap; }
 .rounded { border-radius:50%; }
 .rounded2 { border-radius:2%; }
 .rounded4 { border-radius:4%; }
