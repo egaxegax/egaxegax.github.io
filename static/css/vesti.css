@@ -16,6 +16,7 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 .rss { margin:0 0 5px; font-size:93.75%; }
 .rss a { color:#333; }
 .rss img { height:50px; width:auto; margin:0 5px 0 !important; }
+.rss strong { font-weight:normal; }
 /* msgs */
 .footer { font-size:small; font-style:italic; color:#777; }
 /*ads*/
