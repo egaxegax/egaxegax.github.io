@@ -15,7 +15,8 @@
 <link rel="stylesheet" href="/static/css/vesti.css">
 <style>
 .mh_1 { max-height:600px; }
-.mw {  overflow:auto; }
+.mw_1 { max-width:750px; }
+.mw {  max-width:100vw; }
 .loader { margin:10px 0 10px 0; }
 </style>
 <script src="/static/js/metrics.js?241107" data-floor="1" data-fullscr="1"></script>
@@ -72,12 +73,26 @@
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block && (page.rtyp == '')) {
-        document.getElementById('page_content').innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="mw mh"></div>';
+        document.getElementById('page_content').innerHTML += '<div id="adscont_'+i+'" class="scroll nowrap mw"></div>';
+        document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="vtop inlbl mw_1 mh"></div>';
+        document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="vtop inlbl mw_1 mh"></div>';
+        document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_3" class="vtop inlbl mw_1 mh"></div>';
+        document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_4" class="vtop inlbl mw_1 mh"></div>';
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_3', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_4', YA_RTB[page.rtb], page.rtyp);
       }
       if(window.addYaRTB_Block) {
-        document.getElementById('page_content').innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="mw '+(page.rtyp == '' ? 'mh' : 'mh_1')+'">'+addLoader(page.rtyp!='feed')+'</div>';
-        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', YA_RTB[page.rtb], page.rtyp);
+        document.getElementById('page_content').innerHTML += '<div id="adscont_'+(i+1)+'" class="scroll nowrap mw"></div>';
+        document.getElementById('adscont_'+(i+1)).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_5" class="vtop inlbl mw_1 '+(page.rtyp == '' ? 'mh' : 'mh_1')+'">'+addLoader(page.rtyp!='feed')+'</div>';
+        document.getElementById('adscont_'+(i+1)).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_6" class="vtop inlbl mw_1 '+(page.rtyp == '' ? 'mh' : 'mh_1')+'"></div>';
+        document.getElementById('adscont_'+(i+1)).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_7" class="vtop inlbl mw_1 '+(page.rtyp == '' ? 'mh' : 'mh_1')+'"></div>';
+        document.getElementById('adscont_'+(i+1)).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_8" class="vtop inlbl mw_1 '+(page.rtyp == '' ? 'mh' : 'mh_1')+'"></div>';
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_5', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_6', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_7', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_8', YA_RTB[page.rtb], page.rtyp);
       }
       if(window.addYaRTB_Block && window.innerWidth>900 && i==0) {
         document.getElementById('lbar').innerHTML = '<div id="ya_rtb_lbar_'+i+'" class="mw_3 mh_bar vtop"></div>';
