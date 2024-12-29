@@ -9,14 +9,22 @@
 # python3 ../update.py ( run from dir vesti,foto,posts,songs,books)
 #
 
-import json
-import linecache
-import re
-import os
-import sys
-import time
-import io
+import json, io, linecache, re, os, sys, time
 from updatelist import main as updatelist_main, E_OS, tr
+
+def compact(s):
+  s = re.sub(r'([\[,\]]+)\s*\n','\g<1>',s)
+  s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]')
+  return s
+
+def hashstr(s):
+  from ctypes import c_int32
+  mhash = 0
+  if s == '': return 0
+  for t in list(s):
+    mhash = (c_int32(mhash << 5).value - mhash) + ord(t)
+    mhash |= 0
+  return mhash
 
 def main(path='.'):
   mfiles = []
@@ -143,20 +151,17 @@ def main(path='.'):
       murls[iroot] += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
     print( i )
 
-  def compact(s):
-    s = re.sub(r'([\[,\]]+)\s*\n','\g<1>',s)
-    s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]')
-    return s
-
   io.open(path + '/index.js', 'w', encoding='utf-8', newline='\n').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
+
   if murls:
     io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u for urls in murls for u in urls])))
     io.open(path + '/sitemap1.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u.replace(surl, surl1) for urls in murls for u in urls])))
-  if cwd in ('songs', ) and len(murls) > 1:
-    for i, u in enumerate(murls):
-      io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
+    if cwd in ('songs', ): # split sitemap
+      for i, u in enumerate(murls):
+        io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
+
   time.sleep(1)
 
 if __name__ == '__main__':

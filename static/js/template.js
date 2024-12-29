@@ -11,9 +11,11 @@ function arraySort(aa,bb){
 //
 // return html for find input
 //
-function addFinder(){
-  return '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;';
-}
+const addFinder = () => '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;';
+//
+// return loader image html
+//
+const addLoader = (bl) => (bl ? '<span class="hspace"><img class="rounded loader" src="/static/img/loader.gif"></span>' : '');
 //
 // return html for paginator
 //
@@ -63,12 +65,6 @@ function addNotFound(){
 '<path d="M53 173 Q86 154 144 178" />'+
 '</g>'+
 '</svg></div>';
-}
-//
-// return loader image html
-//
-function addLoader(bl){
-  return (bl ? '<span class="hspace"><img class="rounded loader" src="/static/img/loader.gif"></span>' : '');
 }
 //
 // fix header to non-scroll
@@ -147,6 +143,8 @@ function tr(s){
 //
 // trim special chars
 //
-function trstr(s){
-  return s.replace(/<[^>]*>/g, '').replace(/['\$@\~\^"«»`\/\\\|%\*\!\?\:;\+-]+/g, ' ').replace(/\s+/g,' ');
-}
+const trstr = (s) => s.replace(/<[^>]*>/g, '').replace(/['\$#&@\~\^"«»`\/\\\|%\*\!\?\:;\+-]+/g, ' ').replace(/\s+/g,' ');
+//
+// hash code for string
+//
+const hashstr = str => str.split('').reduce((a,b) => (((a << 5 >>> 0) - a) + b.charCodeAt(0))|0, 0);
