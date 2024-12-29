@@ -107,8 +107,9 @@ def main(path='.'):
   mtitles = []
   mcounter = 0
   murls = []
-#  surl = 'https://egaxegax.github.io'
+
   surl = 'https://egax.ru'
+  surl1 = 'https://egaxegax.github.io'
 
   for i, f in enumerate(mfiles):
     if f[2] == 'about':
@@ -152,6 +153,7 @@ def main(path='.'):
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
   if murls:
     io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u for urls in murls for u in urls])))
+    io.open(path + '/sitemap1.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u.replace(surl, surl1) for urls in murls for u in urls])))
   if cwd in ('songs', ) and len(murls) > 1:
     for i, u in enumerate(murls):
       io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
