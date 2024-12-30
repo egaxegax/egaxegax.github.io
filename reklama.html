@@ -73,19 +73,23 @@
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addYaRTB_Block && (page.rtyp == '')) {
-        document.getElementById('page_content').innerHTML += '<div id="adscont_'+i+'" class="scroll nowrap mvw"></div>';
-        document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="vtop inlbl mvw_1 mh"></div>';
-        document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="vtop inlbl mvw_1 mh"></div>';
-        // document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_3" class="vtop inlbl mvw_1 mh"></div>';
-        // document.getElementById('adscont_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_4" class="vtop inlbl mvw_1 mh"></div>';
+        // block 1
+        document.getElementById('page_content').innerHTML += '<div id="ads_'+i+'" class="scroll nowrap mvw"></div>';
+        document.getElementById('ads_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_1" class="vtop inlbl mvw_1 mh"></div>';
+        document.getElementById('ads_'+i).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_2" class="vtop inlbl mvw_1 mh"></div>';
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_1', YA_RTB[page.rtb], page.rtyp);
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_2', YA_RTB[page.rtb], page.rtyp);
-        // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_3', YA_RTB[page.rtb], page.rtyp);
-        // addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_4', YA_RTB[page.rtb], page.rtyp);
-      }
-      if(window.addYaRTB_Block) {
-        document.getElementById('page_content').innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_5" class="vtop inlbl mw '+(page.rtyp == '' ? 'mh' : 'mh_1')+'">'+addLoader(page.rtyp!='feed')+'</div>';
+        // block 2
+        document.getElementById('page_content').innerHTML += '<div id="ads_'+(i+1)+'" class="scroll nowrap mvw"></div>';
+        document.getElementById('ads_'+(i+1)).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_5" class="vtop inlbl mvw_1 mh"></div>';
+        document.getElementById('ads_'+(i+1)).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_6" class="vtop inlbl mvw_1 mh"></div>';
         addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_5', YA_RTB[page.rtb], page.rtyp);
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_6', YA_RTB[page.rtb], page.rtyp);
+      }
+      if(window.addYaRTB_Block && (page.rtyp)) {
+        document.getElementById('page_content').innerHTML += '<div id="ads_'+(i+2)+'" class="scroll nowrap mvw"></div>';
+        document.getElementById('ads_'+(i+2)).innerHTML += '<div id="ya_rtb_'+(i+page.bottom)+'_7"></div>';
+        addYaRTB_Block('ya_rtb_'+(i+page.bottom)+'_7', YA_RTB[page.rtb], page.rtyp);
       }
       if(window.addYaRTB_Block && window.innerWidth>900 && i==0) {
         document.getElementById('lbar').innerHTML = '<div id="ya_rtb_lbar_'+i+'" class="mw_3 mh_bar vtop"></div>';
