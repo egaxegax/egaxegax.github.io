@@ -12,3 +12,4 @@ sitemap: https://egax.ru/songs/sitemap1.txt
 sitemap: https://egax.ru/vesti/sitemap.txt
 sitemap: https://egax.ru/vesti/sitemap1.txt
 sitemap: https://egax.ru/dbcartajs/sitemap.txt
+sitemap: https://egax.ru/dbcartajs/sitemap1.txt
