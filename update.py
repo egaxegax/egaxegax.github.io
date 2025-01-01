@@ -66,6 +66,8 @@ def main(path='.'):
       if cwd in ('vesti',) and ext in ('.md',):
         if fname != 'about': # skip about
           ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
+        else:
+          ftime = os.path.getmtime(os.path.join(root, name))  
       elif cwd in ('foto',) and ext.lower() in ('.jpg',):
         ftime = os.path.getmtime(os.path.join(root, name))
         if subj == 'th': 
