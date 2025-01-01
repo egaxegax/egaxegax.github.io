@@ -36,7 +36,7 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
       # print('\n', '\n'.join([mtitl, phref, rdate, ctime, imurl, authr, link]))
       text = """{ctime}
 <div class="yb">
-  <div class="inlbl">
+  <div class="inlbl text">
   <p class="table preview">
     <a class="trow nodecor" href="{link}">
       <img src="{imurl}" alt="">
@@ -46,7 +46,7 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     <i class="trow smaller3">{rdate}</i>
   </p>
   </div>
-  <div class="inlbl smaller1">{text}</div>
+  <div class="inlbl text smaller1">{text}</div>
 </div>
 """.format(ctime=ctime, link=link, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 80), authr=authr, text=text)
       if not os.path.exists(os.path.join(cdir, os.path.dirname(hdr))):

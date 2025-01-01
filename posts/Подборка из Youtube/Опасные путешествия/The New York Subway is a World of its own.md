@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?opasnye_puteshestviya/the_new_york_subway_is_a_world_of_its_own">
     <img class="preview" data-videoid="wLfnQh80xJs" src="https://i.ytimg.com/vi/wLfnQh80xJs/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?opasnye_puteshestviya/the_new_york_subway_is_a_world_of_its_own">The New York Subway is a World of its own 🤔🌎</a><br>
     <i class="smaller2">Olima Omega</i><br>
     <i class="smaller3">2023-03-03</i>

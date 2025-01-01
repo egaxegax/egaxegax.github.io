@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?russkij_rok/pilot_-_shnurok">
     <img class="preview" data-videoid="-tOcET4PKAE" src="https://i.ytimg.com/vi/-tOcET4PKAE/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?russkij_rok/pilot_-_shnurok">Pilot - Shnurok</a><br>
     <i class="smaller2">yaneka11</i><br>
     <i class="smaller3">2006-07-31</i>

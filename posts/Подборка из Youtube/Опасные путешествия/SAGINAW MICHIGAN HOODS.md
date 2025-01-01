@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?opasnye_puteshestviya/saginaw_michigan_hoods">
     <img class="preview" data-videoid="B3F3oCSu5Ws" src="https://i.ytimg.com/vi/B3F3oCSu5Ws/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?opasnye_puteshestviya/saginaw_michigan_hoods">SAGINAW MICHIGAN HOODS</a><br>
     <i class="smaller2">HoodTime</i><br>
     <i class="smaller3">2021-07-03</i>

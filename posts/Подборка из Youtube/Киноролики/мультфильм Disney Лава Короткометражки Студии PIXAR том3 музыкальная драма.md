@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_lava_korotkometrajki_studii_pixar_tom3_muzykalnaya_drama">
     <img class="preview" data-videoid="xiG4_Hv-sjs" src="https://i.ytimg.com/vi/xiG4_Hv-sjs/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?kinoroliki/multfilm_disney_lava_korotkometrajki_studii_pixar_tom3_muzykalnaya_drama">мультфильм Disney Лава | Короткометражки Студии...</a><br>
     <i class="smaller2">Короткая анимация</i><br>
     <i class="smaller3">2019-02-14</i>

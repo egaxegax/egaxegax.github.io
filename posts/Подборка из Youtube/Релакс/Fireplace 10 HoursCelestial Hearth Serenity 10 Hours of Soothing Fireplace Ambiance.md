@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?relaks/fireplace_10_hourscelestial_hearth_serenity_10_hours_of_soothing_fireplace_ambiance">
     <img class="preview" data-videoid="S7avtRYiRbA" src="https://i.ytimg.com/vi/S7avtRYiRbA/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?relaks/fireplace_10_hourscelestial_hearth_serenity_10_hours_of_soothing_fireplace_ambiance">Fireplace 10 Hours🔥Celestial Hearth Serenity 🔥 10...</a><br>
     <i class="smaller2">Relaxing Fire Sound</i><br>
     <i class="smaller3">2024-01-10</i>

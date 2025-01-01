@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?russkij_rok/sektor_gaza_-_yava_avi">
     <img class="preview" data-videoid="iDvCxus8SSg" src="https://i.ytimg.com/vi/iDvCxus8SSg/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?russkij_rok/sektor_gaza_-_yava_avi">Сектор Газа - Ява))))))).avi</a><br>
     <i class="smaller2">dopl91</i><br>
     <i class="smaller3">2011-01-22</i>

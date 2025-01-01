@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?opasnye_puteshestviya/cleveland_ohio_hoods">
     <img class="preview" data-videoid="rQRrHBeXViI" src="https://i.ytimg.com/vi/rQRrHBeXViI/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?opasnye_puteshestviya/cleveland_ohio_hoods">CLEVELAND OHIO HOODS</a><br>
     <i class="smaller2">HoodTime</i><br>
     <i class="smaller3">2021-06-14</i>

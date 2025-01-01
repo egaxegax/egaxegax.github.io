@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?opasnye_puteshestviya/caught_recording_in_memphis_tennessee">
     <img class="preview" data-videoid="Ovh_ipUSsiE" src="https://i.ytimg.com/vi/Ovh_ipUSsiE/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?opasnye_puteshestviya/caught_recording_in_memphis_tennessee">CAUGHT RECORDING IN MEMPHIS TENNESSEE</a><br>
     <i class="smaller2">HoodTime</i><br>
     <i class="smaller3">2021-06-04</i>

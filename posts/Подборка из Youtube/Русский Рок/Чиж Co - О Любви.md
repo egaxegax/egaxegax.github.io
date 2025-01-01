@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?russkij_rok/chij_co_-_o_ljubvi">
     <img class="preview" data-videoid="eDwKSoGrQJ4" src="https://i.ytimg.com/vi/eDwKSoGrQJ4/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?russkij_rok/chij_co_-_o_ljubvi">Чиж & Co - О Любви.</a><br>
     <i class="smaller2">Vlad O.</i><br>
     <i class="smaller3">2010-03-12</i>

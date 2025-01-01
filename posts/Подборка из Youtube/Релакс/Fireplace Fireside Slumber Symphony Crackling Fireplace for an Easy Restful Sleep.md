@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?relaks/fireplace_fireside_slumber_symphony_crackling_fireplace_for_an_easy_restful_sleep">
     <img class="preview" data-videoid="2FLH9hVhrbs" src="https://i.ytimg.com/vi/2FLH9hVhrbs/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?relaks/fireplace_fireside_slumber_symphony_crackling_fireplace_for_an_easy_restful_sleep">Fireplace 🔥 Fireside Slumber Symphony 🔥 🔥 🔥...</a><br>
     <i class="smaller2">Relaxing Fire Sound</i><br>
     <i class="smaller3">2024-01-12</i>

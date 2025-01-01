@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?istoriya/the_irregulars_why_was_sherlock_holmes_killed_off_timeline">
     <img class="preview" data-videoid="-T-WtjfSTVk" src="https://i.ytimg.com/vi/-T-WtjfSTVk/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?istoriya/the_irregulars_why_was_sherlock_holmes_killed_off_timeline">The Irregulars: Why Was Sherlock Holmes Killed Off? |...</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2018-11-24</i>

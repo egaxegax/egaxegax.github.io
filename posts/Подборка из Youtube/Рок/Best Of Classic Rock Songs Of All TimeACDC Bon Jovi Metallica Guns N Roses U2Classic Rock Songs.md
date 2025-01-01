@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?rok/best_of_classic_rock_songs_of_all_timeacdc_bon_jovi_metallica_guns_n_roses_u2classic_rock_songs">
     <img class="preview" data-videoid="yoeiFgkn_qw" src="https://i2.ytimg.com/vi/yoeiFgkn_qw/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?rok/best_of_classic_rock_songs_of_all_timeacdc_bon_jovi_metallica_guns_n_roses_u2classic_rock_songs">Best Of Classic Rock Songs Of All Time🔥ACDC,Bon...</a><br>
     <i class="smaller2">80's Rock N Roll</i><br>
     <i class="smaller3">2024-06-24</i>

@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?rabota/mvp">
     <img class="preview" data-videoid="Ui0CyJAtrlk" src="https://i2.ytimg.com/vi/Ui0CyJAtrlk/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?rabota/mvp">MVP</a><br>
     <i class="smaller2">Анатолий Полховский | HandyTeddy </i><br>
     <i class="smaller3">2024-11-29</i>

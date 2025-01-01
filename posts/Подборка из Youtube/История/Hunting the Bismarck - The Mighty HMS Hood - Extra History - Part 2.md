@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?istoriya/hunting_the_bismarck_-_the_mighty_hms_hood_-_extra_history_-_part_2">
     <img class="preview" data-videoid="Kz8pmbytxoQ" src="https://i.ytimg.com/vi/Kz8pmbytxoQ/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?istoriya/hunting_the_bismarck_-_the_mighty_hms_hood_-_extra_history_-_part_2">Hunting the Bismarck - The Mighty HMS Hood - Extra History...</a><br>
     <i class="smaller2">Extra History</i><br>
     <i class="smaller3">2017-05-18</i>

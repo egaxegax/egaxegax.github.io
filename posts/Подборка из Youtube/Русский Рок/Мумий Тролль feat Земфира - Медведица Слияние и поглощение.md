@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?russkij_rok/mumij_troll_feat_zemfira_-_medvedica_sliyanie_i_pogloshchenie">
     <img class="preview" data-videoid="5TobAIluYaU" src="https://i.ytimg.com/vi/5TobAIluYaU/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?russkij_rok/mumij_troll_feat_zemfira_-_medvedica_sliyanie_i_pogloshchenie">Мумий Тролль feat. Земфира - Медведица. Слияние и...</a><br>
     <i class="smaller2">Мумий Тролль (Mumiy Troll)</i><br>
     <i class="smaller3">2011-04-01</i>

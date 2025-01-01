@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?istoriya/the_execution_of_anne_boleyn_henry_anne_timeline">
     <img class="preview" data-videoid="vNP502RPeKk" src="https://i.ytimg.com/vi/vNP502RPeKk/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?istoriya/the_execution_of_anne_boleyn_henry_anne_timeline">The Execution Of Anne Boleyn | Henry & Anne | Timeline</a><br>
     <i class="smaller2">Timeline - World History Documentaries</i><br>
     <i class="smaller3">2017-06-17</i>

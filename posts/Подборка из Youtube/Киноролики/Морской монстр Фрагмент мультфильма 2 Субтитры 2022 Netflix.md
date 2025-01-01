@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?kinoroliki/morskoj_monstr_fragment_multfilma_2_subtitry_2022_netflix">
     <img class="preview" data-videoid="cTGZeigrdog" src="https://i.ytimg.com/vi/cTGZeigrdog/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?kinoroliki/morskoj_monstr_fragment_multfilma_2_subtitry_2022_netflix">Морской монстр | Фрагмент мультфильма #2 (Субтитры...</a><br>
     <i class="smaller2">Кино Трейлеры</i><br>
     <i class="smaller3">2022-07-10</i>

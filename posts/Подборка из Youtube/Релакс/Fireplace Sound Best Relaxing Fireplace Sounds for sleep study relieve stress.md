@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?relaks/fireplace_sound_best_relaxing_fireplace_sounds_for_sleep_study_relieve_stress">
     <img class="preview" data-videoid="p0oaLrLp0f0" src="https://i.ytimg.com/vi/p0oaLrLp0f0/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?relaks/fireplace_sound_best_relaxing_fireplace_sounds_for_sleep_study_relieve_stress">Fireplace Sound 🔥 Best Relaxing Fireplace Sounds...</a><br>
     <i class="smaller2">Relaxing Fire Sound</i><br>
     <i class="smaller3">2023-09-12</i>

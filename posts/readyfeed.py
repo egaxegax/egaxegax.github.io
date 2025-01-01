@@ -6,6 +6,7 @@
 RSSlist = [
   # ('Подборка из Youtube/Еда', 'channel_id=UC0K_CP437favZ3maGV06vaw'),   #Телеканал Еда
   # ('Подборка из Youtube/Еда', 'channel_id=UCgeval0um2gyuRhP1qch8Uw'),   #В.Емельяненко
+  ('Подборка из Youtube/Еда', 'channel_id=UCbb-qqGdlVS7laUbUOTOXhg'),   #Зона Лазерсона  
   ('Подборка из Youtube/Киноролики', 'channel_id=UCwHZ11aiUpyTg-wkiKbAqKQ'), #MOVIECLIPS TV
   ('Подборка из Youtube/Работа', 'channel_id=UC8JDt3Vz9WYpAS6b-oVH9xw'),#HandyTeddy
   ('Подборка из Youtube/Работа', 'channel_id=UC2pn5LT4UFz8gwrQF7VKZDQ'),#Константин Кречетов
@@ -63,7 +64,7 @@ for hdr, url in RSSlist:
   <a class="nodecor" href="{phref}">
     <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="{phref}">{titl}</a><br>
     <i class="smaller2">{authr}</i><br>
     <i class="smaller3">{rdate}</i>

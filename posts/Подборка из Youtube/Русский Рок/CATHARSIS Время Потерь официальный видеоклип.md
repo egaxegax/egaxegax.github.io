@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?russkij_rok/catharsis_vremya_poter_oficialnyj_videoklip">
     <img class="preview" data-videoid="2cEhtJab67U" src="https://i.ytimg.com/vi/2cEhtJab67U/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?russkij_rok/catharsis_vremya_poter_oficialnyj_videoklip">CATHARSIS / Время Потерь (официальный видеоклип)</a><br>
     <i class="smaller2">CATHARSIS TV</i><br>
     <i class="smaller3">2018-12-04</i>

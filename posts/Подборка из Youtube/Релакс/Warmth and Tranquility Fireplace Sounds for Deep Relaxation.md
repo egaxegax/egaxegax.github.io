@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?relaks/warmth_and_tranquility_fireplace_sounds_for_deep_relaxation">
     <img class="preview" data-videoid="J9PVZEG0Cgo" src="https://i.ytimg.com/vi/J9PVZEG0Cgo/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?relaks/warmth_and_tranquility_fireplace_sounds_for_deep_relaxation">Warmth and Tranquility 🔥 Fireplace Sounds for...</a><br>
     <i class="smaller2">Relaxing Fire Sound</i><br>
     <i class="smaller3">2023-11-03</i>

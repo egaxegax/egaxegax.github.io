@@ -80,6 +80,7 @@
 * [Lionel Richie Rod Stewart Eric Clapton Elton John Phil Collins Soft Rock Ballads 70s 80s 90s](Lionel%20Richie%20Rod%20Stewart%20Eric%20Clapton%20Elton%20John%20Phil%20Collins%20Soft%20Rock%20Ballads%2070s%2080s%2090s.md)
 * [Lobo Lionel Richie Elton John Rod Stewart Bee Gees Billy Joel Soft Rock Love Songs 70s 80s 90s](Lobo%20Lionel%20Richie%20Elton%20John%20Rod%20Stewart%20Bee%20Gees%20Billy%20Joel%20Soft%20Rock%20Love%20Songs%2070s%2080s%2090s.md)
 * [Master the Art of Rock Music Thumbnails Tips for Going Viral on YouTube classicrock](Master%20the%20Art%20of%20Rock%20Music%20Thumbnails%20Tips%20for%20Going%20Viral%20on%20YouTube%20classicrock.md)
+* [Merry Christmas And Happy New Years 2025](Merry%20Christmas%20And%20Happy%20New%20Years%202025.md)
 * [Metallica Greatest Hits - Metallica Songs Playlist Album 2024](Metallica%20Greatest%20Hits%20-%20Metallica%20Songs%20Playlist%20Album%202024.md)
 * [Metallica Greatest Hits Best of Metallica Full Album Compilation](Metallica%20Greatest%20Hits%20Best%20of%20Metallica%20Full%20Album%20Compilation.md)
 * [Metallica Playlist Classic Rock](Metallica%20Playlist%20Classic%20Rock.md)

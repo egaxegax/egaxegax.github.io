@@ -46,7 +46,7 @@ for root, dirs, files in os.walk(path, topdown=False):
   <a class="nodecor" href="{phref}">
     <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="{phref}">{titl}</a><br>
     <i class="smaller2">{authr}</i><br>
     <i class="smaller3">{rdate}</i>

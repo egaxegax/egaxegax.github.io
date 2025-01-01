@@ -3,7 +3,7 @@
   <a class="nodecor" href="/posts.html?russkij_rok/lyapis_trubeckoj_ya_verju_hq">
     <img class="preview" data-videoid="GTkdXoHvizk" src="https://i.ytimg.com/vi/GTkdXoHvizk/hqdefault.jpg" align="middle" alt="">
   </a>
-  <div class="inlbl">
+  <div class="inlbl text">
     <a class="nodecor" href="/posts.html?russkij_rok/lyapis_trubeckoj_ya_verju_hq">Ляпис Трубецкой "Я Верю" [HQ]</a><br>
     <i class="smaller2">Alex M</i><br>
     <i class="smaller3">2011-03-23</i>
