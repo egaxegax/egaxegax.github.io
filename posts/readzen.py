@@ -33,7 +33,6 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
       rdate = pdt.strftime('%Y-%m-%d')
       ctime = pdt.strftime('<!--%Y-%m-%d %H:%M:%S-->')
       # ctime = time.strftime('<!--{y}-{m}-{d} 14:00:{c}-->'.format(y=time.strftime('%Y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), c=('%02d' % fcount)))
-      # print('\n', '\n'.join([mtitl, phref, rdate, ctime, imurl, authr, link]))
       text = """{ctime}
 <div class="yb">
   <div class="inlbl text">

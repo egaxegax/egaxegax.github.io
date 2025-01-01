@@ -45,7 +45,8 @@ for hdr, prm in RSSlist.items():
             if icount < 20:
               phref = item.find('link').text
               ptitl = item.find(prm['titl']).text or item.find('title').text
-              if prm['titl'] == 'title': ptitl = '<a class="nodecor" href="{phref}">{titl}</a>'.format(phref=phref, titl=tr_chars(ptitl, 75))
+              if prm['titl'] == 'title':
+                ptitl = '<a class="nodecor" href="{phref}">{titl}</a>'.format(phref=phref, titl=tr_chars(ptitl, 75))
               pdate = item.find('pubDate').text
               pdate = pdate.replace('+0300','MSK').replace('+0400','MSK')
               if re.search(r'^\w+, \d{2} \w+ \d{4} \d{2}:\d{2}:\d{2} \w+$', pdate):
