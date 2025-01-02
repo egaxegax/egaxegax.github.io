@@ -210,7 +210,7 @@
           '</div>'+
           '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
         '</div>';
-          document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ' - ' + document.title;
+          document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ', ' + SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
         }
       }else if(pp.length>0){ // ?subj
         POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by subj
