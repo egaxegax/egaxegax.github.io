@@ -817,6 +817,7 @@ https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/karta_moskovskog
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/karty_i_google_maps
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/opisanie_i_primery
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/pereschet_izobrajenij_pod_raznye_kartograficheskie_proekcii_v_webgl
+https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/sajt_na_github_pages_platforme_egaxegax-github-io
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/shema_prigorodnogo_dvijeniya_jd_soobshcheniya_moskvy_i_mo
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/zametki_otzyvy_plany_proekta_karty_dbcartajs
 https://egaxegax.github.io/posts.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas
@@ -3210,6 +3211,7 @@ https://egaxegax.github.io/posts.html?primery_shell-scenariev/astra_linux_se_1_7
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
+https://egaxegax.github.io/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/iframe_s_autoheight_po_soderjimomu
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/ispolzovanie_ssh_cherez_expect_s_peredachej_parolya_bez_vvoda
 https://egaxegax.github.io/posts.html?primery_shell-scenariev/ispolzuem_samba_dlya_skachivaniyazakachivaniya_katalogov
