@@ -7,7 +7,8 @@
 
 RSSlist = {
   'eadaily': {'hdr':'EADaily Европейские новости', 'url':'https://eadaily.com/ru/rss/index.xml'},
-  'ria': {'hdr':'РИА Новости', 'url':'https://ria.ru/export/rss2/index.xml'}
+  'ria': {'hdr':'РИА Новости', 'url':'https://ria.ru/export/rss2/index.xml'},
+  'rambler': {'hdr':'Рамблер Новости', 'url':'http://news.rambler.ru/rss/world/'}
 }
 
 import os, sys, time, re, locale
@@ -57,6 +58,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
 
 if fcount:
   time.sleep(1)
-  update_main(cdir)
-  updatelist_main(cdir)
+  os.chdir(cdir)
+  update_main()
+  updatelist_main()
   
