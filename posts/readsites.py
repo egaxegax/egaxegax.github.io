@@ -6,9 +6,9 @@
 #
 
 RSSlist = {
-  'habr': {'hdr':'Подборка с сайтов/Хабр', 'url':'https://habr.com/ru/rss/news/?fl=ru'},
-  'kino_kino': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml'},
-  'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml'},
+  'habr': {'hdr':'Подборка с сайтов/Хабр', 'url':'https://habr.com/ru/rss/news/?fl=ru', 'cut':380},
+  'kino_kino': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml', 'cut':1000},
+  'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml', 'cut':1000},
 }
 
 import os, sys, time, re
@@ -46,9 +46,9 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
         ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
         text = """{ctime}
 <div class="yb">
-  <div class="rss smaller1">{text} <br><br>{titl}</div>
+  <div class="rss smaller1">{text} <br>{titl}</div>
 </div>
-""".format(ctime=ctime, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, 380))
+""".format(ctime=ctime, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, prm['cut']))
         if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):
           os.mkdir(os.path.join(cdir, os.path.dirname(prm['hdr'])))
         if not os.path.exists(os.path.join(cdir, prm['hdr'])):
