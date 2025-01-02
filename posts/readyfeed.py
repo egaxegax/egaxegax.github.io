@@ -36,8 +36,8 @@ import xml.etree.ElementTree as ET
 from urllib.request import Request, urlopen
 
 cdir = os.path.dirname(__file__)
-
 sys.path.insert(0, cdir+'/..')
+
 from update import main as update_main
 from updatelist import main as updatelist_main, tr, tr_chars, tr_cut
 
@@ -76,7 +76,7 @@ for hdr, url in RSSlist:
       open(os.path.join(cdir, hdr, mtitl + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
       fcount += 1
       icount += 1
-    print(hdr, url, '(%s)' % (icount,))
+  print(hdr, url, '(%s)' % (icount,))
 
 if fcount:
   time.sleep(1)
