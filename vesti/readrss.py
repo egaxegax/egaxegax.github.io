@@ -6,8 +6,8 @@
 #
 
 RSSlist = {
-  'EADaily Европейские новости': {'id':'eadaily', 'url': 'https://eadaily.com/ru/rss/index.xml'},
-  'РИА Новости': {'id': 'ria', 'url': 'https://ria.ru/export/rss2/index.xml'}
+  'eadaily': {'hdr':'EADaily Европейские новости', 'url':'https://eadaily.com/ru/rss/index.xml'},
+  'ria': {'hdr':'РИА Новости', 'url':'https://ria.ru/export/rss2/index.xml'}
 }
 
 import os, sys, time, re, locale
@@ -24,14 +24,14 @@ total = 20
 fcount = 0
 cdtm = time.localtime()
 
-for ri, (hdr, prm) in enumerate([(hdr, prm) for hdr, prm in RSSlist.items() if prm['id'] in sys.argv]):
+for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id in sys.argv]):
   with urlopen(Request(prm['url'], headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     for channel in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('channel'):
       if not os.path.exists(os.path.join(cdir, str(cdtm.tm_year))):
         os.mkdir(os.path.join(cdir, str(cdtm.tm_year)))
       with open(os.path.join(cdir, str(cdtm.tm_year), '{y}{m}{d} {h}{c}.md'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % ri))), 'w+', encoding='utf-8', newline='\n') as fp:
         locale.setlocale(locale.LC_ALL, 'Russian')
-        fp.write('<h3>'+hdr+' на '+ time.strftime('%c', cdtm) +'</h3>')
+        fp.write('<h3>'+prm['hdr']+' на '+ time.strftime('%c', cdtm) +'</h3>')
         locale.setlocale(locale.LC_ALL, 'C')
         for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
           link = item.find('link').text
@@ -53,7 +53,7 @@ for ri, (hdr, prm) in enumerate([(hdr, prm) for hdr, prm in RSSlist.items() if p
 </div>""".format(titl=ptitl, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
           fp.write(text)
           fcount += 1
-      print(hdr, prm['url'], '(%s)' % (ii,))
+      print(prm['hdr'], prm['url'], '(%s)' % (ii,))
 
 if fcount:
   time.sleep(1)

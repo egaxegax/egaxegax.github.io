@@ -6,9 +6,9 @@
 #
 
 RSSlist = {
-  'Подборка с сайтов/Хабр': {'id':'habr', 'url':'https://habr.com/ru/rss/news/?fl=ru'},
-  'Подборка с сайтов/Кино-Театр': {'id':'kino_kino', 'url':'https://kino-teatr.ru/rss/kino.xml'},
-  'Подборка с сайтов/Кино-Театр.РУ': {'id':'kino_teatr', 'url':'https://kino-teatr.ru/rss/teatr.xml'},
+  'habr': {'hdr':'Подборка с сайтов/Хабр', 'url':'https://habr.com/ru/rss/news/?fl=ru'},
+  'kino_kino': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml'},
+  'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml'},
 }
 
 import os, sys, time, re
@@ -25,9 +25,9 @@ total = 21
 fcount = 0
 cdtm = time.localtime()
 
-for hdr, prm in [[hdr, prm] for hdr, prm in RSSlist.items() if prm['id'] in sys.argv]:
+for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
   with urlopen(Request(prm['url'], headers={'User-Agent': 'Mozilla/5.0'})) as purl:
-    for channel in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall("channel"):
+    for channel in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('channel'):
       for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
         titl = item.find('title').text
         link = item.find('link').text
@@ -49,13 +49,13 @@ for hdr, prm in [[hdr, prm] for hdr, prm in RSSlist.items() if prm['id'] in sys.
   <div class="rss smaller1">{text} <br><br>{titl}</div>
 </div>
 """.format(ctime=ctime, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, 380))
-        if not os.path.exists(os.path.join(cdir, os.path.dirname(hdr))):
-          os.mkdir(os.path.join(cdir, os.path.dirname(hdr)))
-        if not os.path.exists(os.path.join(cdir, hdr)):
-          os.mkdir(os.path.join(cdir, hdr))
-        open(os.path.join(cdir, hdr, tr_cut(titl) + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
+        if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):
+          os.mkdir(os.path.join(cdir, os.path.dirname(prm['hdr'])))
+        if not os.path.exists(os.path.join(cdir, prm['hdr'])):
+          os.mkdir(os.path.join(cdir, prm['hdr']))
+        open(os.path.join(cdir, prm['hdr'], tr_cut(titl) + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
         fcount += 1
-  print(hdr, '(%s)' % (ii,))
+  print(prm['hdr'], '(%s)' % (ii,))
 
 if fcount:
   time.sleep(1)
