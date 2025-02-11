@@ -14,7 +14,7 @@ from update import main as update_main
 from updatelist import main as updatelist_main, tr, tr_chars, tr_cut
 from updateturbo import main as updateturbo_main
 
-total = 10
+total = 15
 fcount = 0
 cdtm = time.localtime()
 
