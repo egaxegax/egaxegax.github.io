@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Книги для чтения, описания книг и авторов">
+<meta name="keywords" content="книги, романы, проза, литература для чтения">
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Книги / Сайт egax</title>
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/books.css">
+<script src="/static/js/metrics.js?241026" data-floor="1"></script>
+<script src="/static/js/3rdparty/showdown.min.js"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js?1"></script>
+</head>
+<body>
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="main">
+<div id="header" class="scroll nowrap">
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" onload="this.scrollIntoView()" alt="Карты"></a>
+</div>
+<div id="ya_rtb_hd" class="mh_hd"></div>
+<div id="page_header" class="main"></div>
+<div id="page_content" class="main"></div>
+<div id="page_footer" class="main"></div>
+<p class="tcenter smaller gray">
+  Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
+</p>
+<table id="footer" class="main"><tr>
+<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
+<td class="smaller" width="25%">2014-25</td></tr>
+</table>
+</div>
+<div id="rbar"></div>
+</div>
+<script>
+  var GENRES={
+    adv_animal:"Природа и животные",adv_geo:"Путешествия и география",adv_history:"Исторические приключения",adv_indian:"Приключения про индейцев",adv_maritime:"Морские приключения",adventure:"Приключения",antique:"Старинная литература",antique_east:"Древневосточная литература",biogr_leaders:"Биографии",child_adv:"Детские приключения",child_prose:"Детская проза",children:"Детская литература",child_sf:"Детская фантастика",child_tale:"Сказка",city_fantasy:"Городское фэнтези",det_action:"Боевик",det_classic:"Классический детектив",det_crime:"Криминальный детектив",det_espionage:"Шпионский детектив",det_hard:"Крутой детектив",det_history:"Исторический детектив",det_police:"Полицейский детектив",detective:"Детектив",dramaturgy:"Драматургия",economics:"Экономика",fantasy_fight:"Боевое фэнтези",foreign_adventure:"Зарубежные приключения",foreign_contemporary:"Современная зарубежная литература",foreign_detective:"Зарубежные детективы",foreign_fantasy:"Зарубежное фэнтези",foreign_love:"Зарубежные любовные романы",foreign_sf:"Иностранная фантастика",home_cooking:"Домашняя кухня",home_crafts:"Хобби и ремёсла",home_diy:"Сделай сам",home_garden:"Садоводство",home_health:"Здоровое питание",home_pets:"Домашние животные",home_sex:"Эротика, Секс",home_sport:"Спорт, фитнес",humor_prose:"Юмористическая проза",literature_adv:"Приключения",literature_classics:"Классическая литература",literature_drama:"Драма",literature_history:"История",literature_political:"Политика",literature_western:"Вестерн",love_contemporary:"Современные любовные романы",love_detective:"Остросюжетные любовные романы",love_erotica:"Эротика ",love_hard:"Страстная эротика",love_history:"Исторические любовные романы",love_sf:"Любовная фантастика",love_short:"Короткие любовные романы",magician_book:"Магия, волшебство",nonf_biography:"Биографии и Мемуары",nonf_publicism:"Непубличная литература",other:"Прочее",poetry:"Поэзия",popadanec:"Попаданцы",prose:"Проза",prose_classic:"Классическая проза",prose_contemporary:"Современная проза",prose_counter:"Контркультура",prose_history:"Историческая проза",prose_military:"Военная проза",prose_rus_classic:"Русская классическая проза",prose_su_classics:"Советская классическая проза",ref_dict:"Словари",ref_encyc:"Энциклопедии",reference:"Справочная литература",religion_esoterics:"Эзотерика",religion_orthodoxy:"Ортодоксальные учения",religion_rel:"Религия",religion_self:"Самосовершенствование",religion:"Религиозная литература",romance_fantasy:"Рыцарское фэнтези",romance_sf:"Рыцарская фантастика",romance:"Рыцарский роман",russian_fantasy:"Русское фэнтези",science:"Наука",sci_cosmos:"Научный космос",sci_culture:"Научная культура",sci_history:"История",sci_linguistic:"Языкознание",sci_philosophy:"Философия",sci_phys:"Научная физика",sf_action:"Боевая фантастика",sf_cyberpunk:"Киберпанк",sf_detective:"Детективная фантастика",sf_epic:"Эпическая фантастика",sf_etc:"Разная фантастика",sf_fantasy:"Фэнтези",sf_fantasy_city:"Городское фэнтези",sf_heroic:"Героическая фантастика",sf_history_avant:"Историческая авантюра",sf_history:"Альтернативная история",sf_horror:"Ужасы и Мистика",sf_humor:"Юмористическая фантастика",sf_mystic:"Мистика",sf_social:"Социально-психологическая фантастика",sf_space:"Космическая фантастика",sf:"Научная Фантастика ",thriller:"Триллер",vampire_book:"Вампиры",unrecognised:"Без рубрики"
+  };
+
+  document.getElementById('page_header').innerHTML =
+'<div class="table">'+
+  '<div class="tcell vmid"><h1>'+'Подборка описаний книг разных авторов из свободных источников '+'</h1></div>'+
+'</div>';
+  document.getElementById('page_content').innerHTML = addLoader(1);
+
+  function strToUtc(dt){
+    var dt = dt.split(' ');
+    var d = dt[0].split('-'),
+        t = dt[1].split(':');
+    return Date.UTC(Number(d[0]),Number(d[1])-1,Number(d[2]),Number(t[0]),Number(t[1]),Number(t[2]))/1000.0;
+  }
+
+  function find(){
+    if(!document.getElementById('tfind').value){
+      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+    }else{
+      window.location = '/books.html?find='+ document.getElementById('tfind').value;
+    }
+  }
+
+  function addLast(r,p,ci){
+    var text = r.replace(/<\!--.*-->\s*/, '');
+    updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
+    updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, авторы, жанры');
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext inlbl vmid tcenter" style="min-width:110px; max-width:110px">'+
+    '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
+      '<img class="smaller gray rounded4" style="max-width:100px" alt="'+p.subj+', '+p.title[2]+'" src="'+buildURL('books')+'/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
+    '</a>'+
+  '</div>'+
+  '<div class="msgtext large inlbl vmid '+ (window.innerWidth<800 ? 'mw_1' : 'mnw_a') +'">'+
+    '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a>'+
+    '<p class="smaller gray">Автор &nbsp; <a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></p>'+
+    '<p class="smaller gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
+  '</div>'+
+  '<div id="ya_rtb_'+p.i+'" class="inlbl vmid '+(window.innerWidth<800 ? '' : 'mw_a')+' mh_sm">&nbsp;</div>'+
+  '<div class="msgtext large mw_b">'+
+    '<div class="smaller hspaced">&ensp;'+
+      (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,14).join(' ').length)+'... '+
+        ' <a href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">Читать ещё...</a></div>'
+      : r+
+        ' <a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a></div>')+
+  '</div>'+
+  '<div class="msgfooter">'+
+    '<a class="nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>'+
+    '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
+  '</div>';
+    if(window.addYaRTB_Block && (window.innerWidth<900) && (p.i%3 == 0 || ci == undefined)) addYaRTB_Block('ya_rtb_'+(p.i), YA_RTB[5]);
+  }
+  
+  function addAbout(r,p){
+    var converter = new showdown.Converter(), // to markdown    
+        text = r,
+        html = converter.makeHtml(text);
+    updateMetaTag('description', p.subj+', '+trstr(text));
+    updateMetaTag('keywords', p.subj+', книги');
+    document.getElementById(p.id).innerHTML = 
+  '<table class="msgtext collapse"><tr>'+
+    '<td class="about"><img class="rounded" src="'+buildURL('books')+'/img/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
+    '<td>'+html+'</td></tr>'+
+  '</table>';
+  }
+
+  function addPageContent(roots, wrts, books, page, iinit){
+    PAGE.lock = 1;
+    if(!books.length){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = books.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = wrts[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      if(window.addYaRTB_Block || window.addVkRTB_Block){
+        if(window.innerWidth>900){
+          if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)){
+            document.getElementById('rbar').innerHTML += 
+          // '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
+          //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[5]);
+          '<ins class="mrg-tag" data-ad-client="ad-'+VK_RTB['1_240']+'" data-ad-slot="'+VK_RTB['1_240']+'"></ins>';
+            addVkRTB_Block();
+          }
+        }
+      }
+      document.getElementById('page_content').innerHTML += 
+    '<div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
+      upfunc({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          wrap.className = 'wrap';
+          (p.title[2] == 'about') ? addAbout(r,p) : 
+            page.view == 'book' ? addLast(r,p) :
+            page.view == 'list' ? addLast(r,p,0) : addLast(r,p,1);
+        }
+      });
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(books, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    }
+    page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    return (page.titles.length == 0);
+  }
+
+  upfunc({url: buildURL('books')+'/index.js?'+(+new Date())}, function(s){
+    eval(s);
+    window.PAGE = {};
+    PAGE.per = 3;
+    PAGE.view = 'last';
+    PAGE.num = urlParams().page||0; // start num page 
+    window.BOOKS = TITLES;
+    var page_header = 
+  '<div class="table">'+
+    '<div class="tcell vmid"><h1>Описаний <b><i>$COUNT</i></b> по разным&ensp;'+
+      '<a class="nodecor" href="/bwrts.html"><i>Авторам</a></i>&nbsp; '+
+      '<a class="nodecor" href="/bgenres.html"><i>Жанрам</a></i></h1>'+
+    '</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+  '</div>';
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(p == 'page' && urlParams().page){ // ?page
+        // skip paginate
+        document.title += ' - ' + urlParams().page;
+      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
+        // skip ya.ru search
+      }else if(p == 'find' && urlParams().find){ // ?find
+        BOOKS = BOOKS.filter(function(tit){ 
+          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        BOOKS = BOOKS.sort(function(a,b){ return arraySort(a[2],b[2]); });
+        if(BOOKS.length){ 
+          PAGE.view = 'last';
+          page_header = 
+        '<div class="table">'+
+          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
+        }
+        PAGE.per = 10;
+      }else if(pp.length>1){ // ?wrt/book
+        BOOKS = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
+        if(BOOKS.length){
+          PAGE.view = 'book';
+          page_header = 
+        '<div class="large table">'+
+          '<div class="tcell vmid">'+
+            '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
+            '<h1>'+BOOKS[0][2]+'</h1>'+
+          '</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
+          BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
+        }
+      }else if(pp.length>0){ // ?wrt ?genre
+        var gnr, wrt;
+        BOOKS = [].concat( 
+          gnr = BOOKS.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }), // filter by genres
+          wrt = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }) // filter by writer
+        );
+        BOOKS = BOOKS.sort(function(a,b){ return arraySort(a[2],b[2]); });
+        if(BOOKS.length){ 
+          PAGE.view = 'list';
+          page_header = 
+        '<div class="large table">'+
+          '<div class="tcell vmid">'+
+            '<h1><a class="nodecor" href="'+
+                (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
+                (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
+              '</a> &nbsp; '+
+              '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
+            '</h1>'+
+          '</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          if(gnr.length>0){
+            document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;
+          }
+          if(wrt.length>0){
+            document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
+            BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
+          }
+        }
+      }
+    }
+    document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
+    document.getElementById('page_content').innerHTML = '';
+    addPageContent(ROOTS, SUBJ, BOOKS, PAGE, 1);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
+        addPageContent(ROOTS, SUBJ, BOOKS, PAGE);
+      }
+    });
+  });
+
+</script>
+</body>
+</html>

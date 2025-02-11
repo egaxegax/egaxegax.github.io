@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
+  <path fill="#fff" d="M320 0h320v480H320z"/>
+  <path fill="#006233" d="M0 0h320v480H0z"/>
+  <path fill="#d21034" d="M424 180a120 120 0 100 120 96 96 0 110-120m4 60l-108-35.2 67.2 92V183.2l-67.2 92z"/>
+  </g>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Алжир</text>
+</svg>

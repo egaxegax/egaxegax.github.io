@@ -1,0 +1,22 @@
+/* dark theme */
+.wrap { background:rgb(68,71,76); padding:0; }
+.msgtext { padding:0; }
+.dark { color:#eee; }
+.gray { color:#aaa; }
+.light { color:#9ac495; }
+.counter { color:#59a750; }
+body { background:rgb(52,55,60); color:#eee; }
+a, a:active, a:focus { color:#f4c430; }
+b,i,em { color:#aaa; }
+b em { color:#f4c430; }
+h3 { color:#9ac495; }
+input[type=text], input[type=password], input[type=number], textarea,
+  select, option { background:rgb(114,112,113); color:#fff; }
+#root { background:rgb(55,58,63); }
+#header { background:rgb(55,58,63); }
+#page_footer button { background:#fff; }
+/*ads*/
+.mh_hd { background:rgb(55,58,61); }
+.mh_sm { max-height:100px; }
+.mw_1 { max-width:530px; }
+.mw_f { max-width:99vw; }

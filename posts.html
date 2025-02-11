@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Заметки, ссылки, подборки видеороликов, статей, постов на самые разные темы">
+<meta name="keywords" content="статьи, тексты, заметки, ролики">
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Заметки / Сайт egax</title>
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/markdown.css">
+<link rel="stylesheet" href="/static/css/posts.css?250101">
+<script src="/static/js/metrics.js?241026" data-floor="1"></script>
+<script src="/static/js/3rdparty/showdown.min.js"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js?1"></script>
+</head>
+<body>
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="main">
+<div id="header" class="scroll nowrap">
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" onload="this.scrollIntoView()" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
+</div>
+<div id="ya_rtb_hd" class="mh_hd"></div>
+<div id="page_header" class="main"></div>
+<div id="page_content" class="main"></div>
+<div id="page_footer" class="main"></div>
+<p class="tcenter smaller gray">
+  Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
+</p>
+<table id="footer" class="main"><tr>
+<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
+<td class="smaller" width="25%">2014-25</td></tr>
+</table>
+</div>
+<div id="rbar"></div>
+</div>
+<script>
+
+  document.getElementById('page_header').innerHTML = 
+'<div class="table">'+
+  '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные темы'+'</h1></div>'+
+  '</div>';
+  document.getElementById('page_content').innerHTML = addLoader(1);
+
+  function find(){
+    if(!document.getElementById('tfind').value){
+      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+    } else {
+      window.location = '/posts.html?find='+ document.getElementById('tfind').value;
+    }
+  }
+
+  function addList(r,p){
+    var converter = new showdown.Converter(), // to markdown
+        html = converter.makeHtml(r)  // fix link url to absolute in README.md
+          .replace(/href="([^\"]+).md/g, function(m,fld){ return 'class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(decodeURI(fld)) }); 
+    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,120));
+    updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
+    document.title = document.title.replace('README', p.subj);
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext'+(p.title[2] == 'README' ? ' readme' : '')+'">'+
+    html+
+  '</div>';
+  }
+
+  function addAbout(r,p){
+    var converter = new showdown.Converter(), // to markdown
+        html = converter.makeHtml(r); 
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext">'+
+    html+
+  '</div>';
+    return ' about';
+  }
+
+  function addPost(r,p){
+    var converter = new showdown.Converter(), // to markdown
+        html = converter.makeHtml(r) 
+          .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
+          .replace('hqdefault.jpg', 'mqdefault.jpg');  // fix youtube 16:9 img size 
+    updateMetaTag('description', 'смотреть '+p.subj+', '+html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255) + ' ' + (urlParams().page||''));
+    updateMetaTag('keywords', p.subj+', '+p.title[2]+', смотреть, видео, посты');
+    if(p.view == 'post' && html.search('data-videoid')>-1){
+      html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
+        '<iframe class="embed" align="middle" '+
+          'src="https://www.youtube.com/embed/'+((html.match(/data-videoid="([^"]+)"/) || []).pop() || '')+'" '+
+          'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" '+
+          'allowfullscreen>'+
+        '</iframe>'
+      );
+      html = html.replace('<div class="inlbl text">', '<div class="inlbl text" style="max-width:100%">');
+    }
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext">'+html+'</div>'+
+  '<div class="msgfooter tright mw_f nowrap scroll">'+
+    '<table><tr>'+
+      '<td width="99%"><a class="hspace nodecor light" href="/posts.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
+      '<td><a class="nodecor light" href="/posts.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+ (p.i+1) +'</a></td>'+
+      '<td><span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span></td>'+
+    '</tr></table>'+
+  '</div>';
+  }
+
+  function addPageContent(roots, subjects, posts, page, iinit){
+    PAGE.lock = 1;
+    if(!posts.length){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = posts.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = subjects[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
+      upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          var wrap = document.getElementById(p.id);
+          wrap.className = 'wrap';
+          (p.title[2] == 'about') ? wrap.className += addAbout(r,p) :
+          (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
+        }
+      });
+      if(window.addYaRTB_Block || window.addVkRTB_Block) {
+        if(window.innerWidth<900){
+          if((i==0||i==2)||(page.titles.length==1)){
+            document.getElementById('page_content').innerHTML += 
+          '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+            addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[2]);
+          }
+        } else if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)) {
+          document.getElementById('rbar').innerHTML += 
+        // '<div id="ya_rtb_rbar_'+i+'" class="mh_bar"></div>';
+        //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[2]);
+        '<ins class="mrg-tag" data-ad-client="ad-'+VK_RTB['0_240']+'" data-ad-slot="'+VK_RTB['0_240']+'"></ins>';
+          addVkRTB_Block();
+        }
+      }
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(posts, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    }
+    page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    return page.titles.length == 0;
+  }
+
+  upfunc({url: buildURL('posts')+'/index.js?'+(+new Date())}, function(s){
+    eval(s);
+    window.PAGE = {};
+    PAGE.per = 5;  // blocks 1 page
+    PAGE.view = 'last';
+    PAGE.num = urlParams().page||0; // start num page 
+    window.POSTS = TITLES;
+    var page_header = 
+  '<div class="table">'+
+    '<div class="tcell vmid"><h1>'+'Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; '+
+      '<a class="nodecor" href="/psubj.html"><i>Темы</i></a>&nbsp; '+
+      '<a class="nodecor finder" href="/research.html"><i>Поиск</i></a></h1>'+
+    '</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+  '</div>';
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(p == 'page' && urlParams().page){ // ?page
+        // skip paginate
+        document.title += ' - ' + urlParams().page;
+      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
+        // skip ya.ru search
+      }else if(p == 'find' && urlParams().find){ // search list
+        POSTS = POSTS.filter(function(tit){ 
+          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        page_header =
+      '<div class="table">'+
+        '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></div>'+
+        '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+      '</div>';
+        PAGE.per = 10;
+      }else if(pp.length>1){ // ?subj/title
+        if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
+        var subj_i, root_i;
+        SUBJ.map(function(sub,i){ if(tr(sub[0]) == pp[0]){ subj_i=i; root_i=sub[3]; return; } }); // filter by subj
+        POSTS = [[subj_i,0,'README',0,root_i]].concat(POSTS); // +README page
+        POSTS = POSTS.filter(function(tit){ return (SUBJ[tit[0]] && (tr(SUBJ[tit[0]][0])==pp[0]) && (tr(tit[2])==pp[1])); });
+        if(POSTS.length){
+          PAGE.view = 'post';
+          page_header = 
+        '<div class="table">'+
+          '<div class="tcell vmid">'+ 
+            '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +'&emsp;<a class="nodecor" href="/posts.html?'+pp[0]+'/README"><i>Все</i></a></h1>'+
+          '</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ', ' + SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
+        }
+      }else if(pp.length>0){ // ?subj
+        POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by subj
+//        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(POSTS.length){
+          PAGE.view = 'list';
+          page_header = 
+        '<div class="table">'+
+          '<div class="tcell vmid">'+
+            '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + 
+              '<i class="hspace counter">('+ POSTS.length+')</i> '+
+              '<i><a class="nodecor" href="/posts.html?'+pp[0]+'/README">Все</a></i>'+
+            '</h1>'+
+          '</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
+          document.title = ROOTS[SUBJ[POSTS[0][0]][3]][0] +' / '+ SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
+        }
+      }
+    }
+    document.getElementById('page_header').innerHTML = page_header;
+    document.getElementById('page_content').innerHTML = '';
+    addPageContent(ROOTS, SUBJ, POSTS, PAGE, 1);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-100){
+        addPageContent(ROOTS, SUBJ, POSTS, PAGE);
+      }
+    });
+  });
+
+</script>
+</body>
+</html>

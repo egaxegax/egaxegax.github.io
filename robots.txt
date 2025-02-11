@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /reklama*.html
+sitemap: https://egax.ru/books/sitemap.txt
+sitemap: https://egax.ru/books/sitemap1.txt
+sitemap: https://egax.ru/foto/sitemap.txt
+sitemap: https://egax.ru/foto/sitemap1.txt
+sitemap: https://egax.ru/posts/sitemap.txt
+sitemap: https://egax.ru/posts/sitemap1.txt
+sitemap: https://egax.ru/songs/sitemap.txt
+sitemap: https://egax.ru/songs/sitemap1.txt
+sitemap: https://egax.ru/vesti/sitemap.txt
+sitemap: https://egax.ru/vesti/sitemap1.txt
+sitemap: https://egax.ru/dbcartajs/sitemap.txt
+sitemap: https://egax.ru/dbcartajs/sitemap1.txt

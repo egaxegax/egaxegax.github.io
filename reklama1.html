@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="продажа автомобилей, куплю электронику, купить iphone, куплю смартфон, средства по уходу за кожей, доставка еды из ресторанов, женское нижнее белье, онлай курсы mail, продукты магнит"/>
+<meta name="keywords" content="товары от wildberries, ozon, мегамаркет, косметика, стрижка женская, услуги стоматологии, строительство деревянных домов, едадил, разработка сайтов, доставка цветов, кофе"/>
+<meta property="yandex_recommendations_category" content="продажа, покупка недвижимости, продажа квартир"/>
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Контекст VK / Сайт egax</title>
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/vesti.dark.css?250125">
+<script src="/static/js/metrics.js?250208"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js?1"></script>
+</head>
+<body>
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="main">
+<div id="header" class="noscroll nowrap">
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_a.svg" onload="this.scrollIntoView()" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_l.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_l.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_l.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_l.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg" alt="Карты"></a>
+</div>
+<div id="page_header" class="main"></div>
+<div id="page_content" class="main"></div>
+<div id="page_footer" class="main"></div>
+<p class="tcenter smaller gray">
+  Контент сгенерирован Рекламной службой VK</p>
+<table id="footer" class="main"><tr>
+<td align="right" width="25%"><a href="/reklama1.html">/</a></td>
+<td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
+<td class="smaller" width="25%">2014-25</td></tr>
+</table>
+</div>
+<div id="rbar"></div>
+</div>
+<script>
+
+  document.cookie.split(";").map(function(c) { document.cookie = c.replace(/^ +/, "").replace(/=.*/, "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/"); });
+
+  document.getElementById('page_footer').innerHTML = 
+'<p class="tcenter"><select id="rtblist"></select><select id="rtblist1"></select><select id="rtblist2"></select></p>';
+
+  function clchange(r,m,n){
+    window.location = (window.VK_STS[parseInt(r||PAGE.rtbsel)]||'')+'/reklama1.html?' + urlBuild({page:PAGE.num||null, r:r||PAGE.rtbsel||null, n:n||PAGE.rtbcount||null, m:m||PAGE.rtbmod||null, q:parseInt(Math.random()*65535)});
+  };
+
+  function addPageContent(roots, subjects, msgs, page){
+    PAGE.lock = 1;
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = msgs.slice(page.bottom, page.top);
+    page.rsel = (PAGE.rtbsel||page.titles[0]);
+    page.rmod = (PAGE.rtbmod||0);
+    page.rcnt = (PAGE.rtbcount||2);
+    document.getElementById('page_content').innerHTML = '';
+    for(var i=0; i<page.titles.length; i++){
+      if(window.addVkRTB_Block){
+        console.log('vk.rtb','n',page.rcnt,'r',page.rsel,'m',page.rmod,'num',page.num);
+        for(var ii=0; ii<page.rcnt; ii++){
+          document.getElementById('page_content').innerHTML += 
+        '<ins class="mrg-tag inlbl vtop"'+(Number(page.rmod) ? ' data-ad-query="test_mode='+page.rmod+'"' : '')+' data-ad-client="ad-'+VK_RTB[page.rsel]+'" data-ad-slot="'+VK_RTB[page.rsel]+'"></ins>';
+        }
+        addVkRTB_Block();
+      }
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
+    '<select id="rtblist" onchange="clchange(this.options[this.selectedIndex].value)" class="nomarg" title="Блок РТБ">'+document.getElementById('rtblist').innerHTML+'</select>'+
+    '<select id="rtblist1" onchange="clchange(null,this.options[this.selectedIndex].value)" class="nomarg" title="Тест РТБ">'+document.getElementById('rtblist1').innerHTML+'</select>'+
+    '<select id="rtblist2" onchange="clchange(null,null,this.options[this.selectedIndex].value)" class="nomarg" title="Количество РТБ">'+document.getElementById('rtblist2').innerHTML+'</select>');
+      document.getElementById('rtblist').value = (page.rsel);
+      document.getElementById('rtblist1').value = (page.rmod);
+      document.getElementById('rtblist2').value = (page.rcnt);
+      page.num++;
+    } else { 
+      page.num = 0;
+    }
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    return page.titles.length == 0;
+  }
+
+  window.PAGE = {} 
+  PAGE.per = 1;                   // blocks count
+  PAGE.num = urlParams().page||0; // start num page
+  PAGE.rtbsel = urlParams().r;
+  PAGE.rtbmod = urlParams().m;
+  PAGE.rtbcount = urlParams().n;
+  for(var i in window.VK_RTB){
+    document.getElementById('rtblist').innerHTML +=
+  '<option value="'+i+'">'+i+'</option>';
+  }
+  window.MSGS = [];
+  for(var n=0; n<document.getElementById('rtblist').options.length; n++){
+    window.MSGS.push( document.getElementById('rtblist').options[n].value );
+  }
+  document.getElementById('rtblist1').innerHTML +=
+'<option value="0" title="real">r</option>'+
+'<option value="1" title="test">t</option>';
+  for(var n=1; n<25; n++){
+    document.getElementById('rtblist2').innerHTML +=
+  '<option value="'+n+'">'+n+'</option>';
+  }
+    //
+  for(var p in urlParams()){
+    if(p == 'page' && urlParams().page){ // ?page skip paginate
+      document.title += ' - ' + urlParams().page;
+    }else if(p == 'r' && urlParams().r){ // ?r rtb num
+      document.title = PAGE.rtbsel +' / '+ window.location.host;
+    }
+  }
+    //
+  document.getElementById('page_content').innerHTML = '';
+  if(!MSGS.length){
+    document.getElementById('page_content').innerHTML += addNotFound();
+  } else {
+    if(addPageContent({}, {}, MSGS, PAGE)){
+      clchange();
+    } else {
+      window.setTimeout(clchange, (Math.random()*10+7)*1000);
+    }
+  }
+
+</script>
+</body>
+</html>

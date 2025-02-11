@@ -1,0 +1,22 @@
+/* light theme */
+.wrap { background:#fff; }
+.dark { color:#333; }
+.gray { color:#888; }
+.counter { color:#379e60; }
+.chords strong em { color:#3c677b; }
+.chord div { color:#4d3ca0; display:inline-block; }
+body { background:#fafafa; color:#333; }
+a, a:active, a:focus { color:#3c677b; }
+b,i,em { color: #777; }
+b em { color: #3c677b; }
+h3 { color:#fff; }
+input[type=text], input[type=password], input[type=number], textarea, select { background:#fff; }
+#root { background:#f0f0f0; }
+#header { background:#d2e0f0; }
+#page_footer button { background:#379e60; color:#fff; }
+/**/
+.av div { min-width:50px; }
+.av img { width:100%; height:auto; }
+/*ads*/
+.mh_hd { background:#f0f0f0; }
+.mw_b { max-width:680px; }

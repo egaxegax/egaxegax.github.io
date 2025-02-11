@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Подборы гитарных аккордов к песням, стихи, лирика ">
+<meta name="keywords" content="аккорды, песни, стихи, статьи, тексты, заметки, фото">
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<title>Аккорды / Сайт egax</title>
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/songs.css?250111">
+<style>
+.about { padding:2px 10px 0px 10px; }
+.about img { max-width:100px; }
+.chords { line-height:1.3em; }
+.chords strong em { font-weight:500; font-style:normal; }
+.chords a { text-decoration:none; }
+.rendered tspan { stroke:none; }
+#songcont p { margin-top:0;  }
+</style>
+<script src="/static/js/metrics.js?241026" data-floor="1"></script>
+<script src="/static/js/3rdparty/jquery.min.js"></script>
+<script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
+<script src="/static/js/3rdparty/jtab.js?v1.1.10"></script>
+<script src="/static/js/3rdparty/showdown.min.js"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js?1"></script>
+</head>
+<body>
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="main">
+<div id="header" class="scroll nowrap">
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" onload="this.scrollIntoView()" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
+</div>
+<div id="ya_rtb_hd" class="mh_hd"></div>
+<div id="page_header" class="main"></div>
+<div id="page_content" class="main"></div>
+<div id="page_footer" class="main"></div>
+<p class="tcenter smaller gray">
+  Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
+</p>
+<table id="footer" class="main"><tr>
+<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
+<td class="smaller" width="25%">2014-25</td></tr>
+</table>
+</div>
+<div id="rbar"></div>
+</div>
+<script>
+
+  document.getElementById('page_header').innerHTML =
+'<div class="table">'+
+  '<div class="tcell vmid"><h1>'+'Подборка текстов песен с аккордами и просто стихов'+'</h1></div>'+
+'</div>';
+  document.getElementById('page_content').innerHTML = addLoader(1);
+
+  function find(){
+    if(!document.getElementById('tfind').value){
+      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+    }else{
+      window.location = '/songs.html?find='+ document.getElementById('tfind').value;
+    }
+  }
+
+  function addLast(r,p){
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext scroll nowrap mw_f">'+
+    '<table class="av" width="100%"><tr>'+
+      '<td align="center" valign="middle" width="1%">'+
+        '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
+      '</td>'+
+      '<td class="hspaced" width="50%">'+
+        '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a><br>'+
+        '<a class="hspace1 nodecor dark vspace" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
+      '</td>'+
+      '<td valign="center" align="right" class="light" width="1%">'+
+        '<i class="hspace counter small">'+(p.i+1)+'</i>'+
+        '<span class="tooltip small" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
+      '</td></tr>'+
+    '</table>'+
+  '</div>';
+  }
+  
+  function addList(r,p){
+    if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды ' + (urlParams().page||''));
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext scroll nowrap mw_f">'+
+    '<table><tr>'+
+      '<td width="99%">'+
+        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a>'+
+      '</td>'+
+      '<td align="right" class="light"><i class="counter small">'+p.i+'</i></td></tr>'+
+    '</table>'+
+  '</div>';
+  }
+
+  function addAbout(r,p){
+    var converter = new showdown.Converter(), // to markdown    
+        text = r,
+        html = converter.makeHtml(text);
+    updateMetaTag('description', p.subj+', '+trstr(text));
+    document.getElementById(p.id).innerHTML = 
+  '<table class="msgtext collapse inlbl vmid mw_b"><tr>'+
+    '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
+    '<td>'+html+'</td></tr>'+
+  '</table>';
+    return ' about';
+  }
+
+  function addSong(r,p){
+    var converter = new showdown.Converter(), // to markdown    
+        text = r.replace(/<\!--.*-->\s*/, ''),
+        html = converter.makeHtml(text);
+    updateMetaTag('description', trstr(text).slice(0,1024));
+    updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', аккорды, тексты');
+    document.getElementById(p.id).innerHTML = 
+  '<div class="tcenter">'+
+    '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords tleft scroll nowrap mw_f">'+
+      html+
+    '</div>'+
+    '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:40px 0 0 10px;') +'min-width:240px;max-width:240px"></div>'+
+  '</div>'+
+  '<div id="chordcont" class="bmarg hspace1 chord mw_f"></div><br>'+
+  '<div class="msgfooter">'+
+    '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
+  '</div>';
+    addSongChords();
+    if(window.addYaRTB_Block && window.innerWidth<900) addYaRTB_Block('ya_rtb_'+(p.i)+'_ch', YA_RTB[4]);
+  }
+  //
+  // Add icons chords by jtab.js & rafael.js
+  //
+  function addSongChords(){
+    var songText = document.getElementById('songcont');
+    var chordCont = document.getElementById('chordcont');
+    if (!songText || !chordCont) return;
+    // parse chords
+    var songChords = songText.innerHTML.match(/(\s|\()*([A-GH])([0-9a-z#:]{0,})(\s|\))*/gm);
+    if(!songChords) return;
+
+    songChords = songChords.reduce(function(items, chord){
+      chord = chord.replace(/(\s|\(|\))/,'').trim();
+      var parts = chord.split(":"),
+          fp = parts[0],
+          p1 = fp.replace(/^[A-GH#b]{1,2}/,''),
+          p2 = fp.substr(0, fp.length - p1.length),
+          bn = jtab.WesternScale.BaseNotes[p2];
+      if(bn)
+        fp = bn[0] + p1;
+
+      if(items.indexOf(chord) < 0 && jtab.Chords[fp] != undefined) 
+        items.push(chord);
+      return items;
+    }, []);
+
+    for (var k=0; k<songChords.length; k++){
+      var el = document.createElement('div');
+      el.appendChild(document.createTextNode(songChords[k]));
+      chordCont.appendChild(el);
+      jtab.render(el);
+    }
+  }
+
+  function addPageContent(roots, arts, songs, page, iinit){
+    PAGE.lock = 1;
+    if(!songs.length){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = songs.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = arts[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      if(window.addYaRTB_Block || window.addVkRTB_Block) {
+        if(window.innerWidth<900){
+          if((i-1)==0){
+            document.getElementById('page_content').innerHTML += 
+          '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+            addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[4]);
+          }
+        } else if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)) {
+          document.getElementById('rbar').innerHTML += 
+        // '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
+        //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[4]);
+        '<ins class="mrg-tag" data-ad-client="ad-'+VK_RTB['1_240']+'" data-ad-slot="'+VK_RTB['1_240']+'"></ins>';
+          addVkRTB_Block();
+        }
+      }
+      document.getElementById('page_content').innerHTML += 
+    '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
+      upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+        var wrap = document.getElementById(p.id);
+        wrap.innerHTML = '';
+        if(st == 200) { // skip Not Found pages
+          wrap.className = 'wrap';
+          (p.title[2] == 'about') ? wrap.className += addAbout(r,p) : 
+            page.view == 'song' ? addSong(r,p) :
+            page.view == 'list' ? addList(r,p) : addLast(r,p);
+        }
+      });
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(songs, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    }
+    page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    return (page.titles.length == 0);
+  }
+
+  upfunc({url: buildURL('songs')+'/index.js?'+(+new Date())}, function(s){
+    eval(s);
+    window.PAGE = {};
+    PAGE.per = 5;  // blocks 1 page
+    PAGE.view = 'last';
+    PAGE.num = urlParams().page||0; // start num page 
+    window.SONGS = TITLES;
+    var page_header = 
+  '<div class="table">'+
+    '<div class="tcell vmid"><h1>Текстов <b><i>$COUNT</i></b> разных&emsp; '+
+      '<i><a class="nodecor" href="/sarts.html"><i>Авторов</i></a>&nbsp; '+
+      '<i><a class="nodecor" href="/posts.html?samouchitel_igry_na_gitare"><i>Уроки</i></a>&nbsp; '+
+      '<i><a class="nodecor finder" href="/research.html"><i>Поиск</i></a></h1> '+
+    '</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+  '</div>';
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(p == 'page' && urlParams().page){ // ?page
+        // skip paginate
+        document.title += ' - ' + urlParams().page;
+      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
+        // skip ya.ru search
+      }else if(p == 'find' && urlParams().find){ // ?find
+        SONGS = SONGS.filter(function(tit){ 
+          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
+                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        SONGS = SONGS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(SONGS.length){ 
+          PAGE.view = 'last';
+          page_header = 
+        '<div class="table">'+
+          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
+        }
+        PAGE.per = 20;
+      }else if(pp.length>1){ // ?art/song
+        if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
+        SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
+        if(SONGS.length){
+          PAGE.view = 'song';
+          page_header =
+        '<div class="large table">'+
+          '<div class="tcell vmid">'+
+            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
+            '<h1>'+SONGS[0][2]+'</h1>'+
+          '</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
+//          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
+        }
+      }else if(pp.length>0){ // ?art
+        SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by art
+        SONGS = SONGS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(SONGS.length){ 
+          PAGE.view = 'list';
+          page_header = 
+        '<div class="large table">'+
+          '<div class="tcell vmid">'+
+            '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
+            '<i class="hspace counter">('+ SONGS.length+')</i></h1>'+
+          '</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+        '</div>';
+          document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
+          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
+        }
+        PAGE.per = 20;
+      }
+    }
+    document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
+    document.getElementById('page_content').innerHTML = '';
+    addPageContent(ROOTS, SUBJ, SONGS, PAGE, 1);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
+        addPageContent(ROOTS, SUBJ, SONGS, PAGE);
+      }
+    });
+  });
+
+</script>
+</body>
+</html>

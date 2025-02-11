@@ -1,0 +1,31 @@
+<!--2020-09-06 04:14:21-->
+Intro:  Am   G   Gm   F  
+  
+Am           G  
+She lives on Love Street,  
+Gm              F  
+lingers long on Love Street.  
+Am        G  
+She has a house and garden,  
+Gm              F  
+I would like to see what happens.  
+  
+Am                F  
+She has robes and she has monkeys,  
+Gm           F  
+lazy diamond studded flunkies.  
+Gm      Am         Bb            Fmaj  
+She has wisdom and knows what to do,  
+Gm     Fmaj    Bb      A7  
+she has me and she has you.  
+  
+(spoken words with chords)  
+  
+I see you live on Love Street,  
+there?s a store where the creatures meet.  
+I wonder what they do in there,  
+summer sunday and a year.  
+I guess I like it fine  so far.  
+  
+  
+   (Fmaj - x03210)

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
+  <path fill="#ffce00" d="M0 320h640v160H0z"/>
+  <path d="M0 0h640v160H0z"/>
+  <path fill="#d00" d="M0 160h640v160H0z"/>
+  </g>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Германия</text>
+</svg>

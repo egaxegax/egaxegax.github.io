@@ -1,0 +1,23 @@
+/* light theme */
+.wrap { background:#fff; }
+.dark { color:#333; }
+.gray { color:#888; }
+.counter { color:#379e60; }
+body { background:#fbfbfb; color:#333; }
+a, a:active, a:focus { color:#3c677b; }
+b,i,em { color: #777; }
+b em { color: #3c677b; }
+pre { background:#f0f0f0; color:#222; border-radius:2px; }
+input[type=text], input[type=password], input[type=number], textarea, select { background:#fff; }
+#root { background:#f0f0f0; }
+#header { background:#d2e0f0; }
+#page_footer button { background:#379e60; color:#fff; }
+/* rss */
+.rss { margin:0 0 5px; font-size:93.75%; }
+.rss a { color:#333; }
+.rss img { height:50px; width:auto; margin:0 5px 0 !important; }
+.rss strong { font-weight:normal; }
+/* msgs */
+.footer { font-size:small; font-style:italic; color:#777; }
+/*ads*/
+.mh_hd { background:#f0f0f0; }

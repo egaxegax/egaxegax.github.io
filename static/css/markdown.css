@@ -1,0 +1,18 @@
+blockquote p {
+ color:#6f6f6f
+}
+blockquote {
+  margin: 0 0 10px;
+  padding: 0 20px 0 15px;
+  border-left: 3px solid #ddd;
+}
+pre {
+  background: rgb(240,240,255);
+  border: 1px solid #dedede;
+  padding: 10px;
+  margin: 0;
+  overflow: auto;
+  /*font-size: 16px;*/
+}
+
+/*code { white-space:pre-wrap; }*/

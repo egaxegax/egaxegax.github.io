@@ -1,0 +1,45 @@
+/* light theme */
+.wrap { background:#fff; }
+.dark { color:#333; }
+.gray { color:#888; }
+.counter { color:#379e60; }
+body { background:#fafafa; color:#333; }
+a, a:active, a:focus { color:#3c677b; }
+b,i,em { color:#777; }
+b em { color:#3c677b; }
+pre { background:#fafafa; color:#222; border-radius:2px; }
+input[type=text], input[type=password], input[type=number], textarea, select { background:#fff; }
+#root { background:#f0f0f0; }
+#header { background:#d2e0f0; }
+#page_footer button { background:#379e60; color:#fff; }
+/* readme */
+.readme ul { list-style-type:none; padding:0; overflow:auto; white-space:nowrap; max-width:90vw; }
+/* football tables */
+.g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
+.g img {vertical-align:middle; max-width:none;} 
+.g td {width:60px; background:#fff; border:1px solid lightgray; white-space:nowrap; padding:2px;}
+.g .col {width:240px; text-align:left; padding-left:10px;}
+.p {border-collapse:collapse; width:100%; display:block; overflow:auto;}
+.p img {vertical-align:middle; max-width:none;}
+.p .col {padding-left:5px; padding-right:5px; white-space:nowrap;}
+.p th {font-weight:normal; font-style:italic; color:#777;}
+.bt {border-top:1px dotted #333;}
+.br {border-right:1px dotted #333;}
+.bb {border-bottom:1px dotted #333;}
+.mb {padding-bottom:10px;}
+/* youtube, dzen playlist */
+.yb a { color:#333; text-decoration-thickness: 0.4px; }
+.yb .preview { width:240px; border-radius:10px; margin:0 10px 5px 0; }
+.yb iframe.embed { border:0; width:100%; height:30vw; margin:0 10px 5px 0; }
+@media all and (max-width:800px){ .yb .preview { width:100%; height:100%; } .yb iframe.embed { height:60vw; } }
+@media all and (min-width:800px){ .yb div { vertical-align:middle; } .yb .text { max-width:400px; } }
+.yb .smaller1 { font-size:93.75%; }
+.yb .smaller2 { font-size:smaller; }
+.yb .smaller3 { font-size:x-small;display:none; }
+/* habr */
+.rss { min-height:150px; }
+.rss strong { font-weight:normal; }
+@media all and (max-width:800px){ .rss img { margin:0 10px 5px 0 !important; } }
+@media all and (min-width:800px){ .rss img { max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
+/**/
+.mh_hd { background:#f0f0f0; }

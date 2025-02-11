@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
+  <g fill-rule="evenodd" stroke-width="1pt">
+    <path fill="#d62612" d="M0 320h640v160H0z"/>
+    <path fill="#fff" d="M0 0h640v160H0z"/>
+    <path fill="#00966e" d="M0 160h640v160H0z"/>
+  </g>
+  </g>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Болгария</text>
+</svg>

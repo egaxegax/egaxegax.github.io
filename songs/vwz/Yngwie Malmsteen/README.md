@@ -1,0 +1,6 @@
+* [Bite the Bullet](Bite%20the%20Bullet.md)
+* [Black Star](Black%20Star.md)
+* [Farewell](Farewell.md)
+* [Marching Out](Marching%20Out.md)
+* [Save Our Love](Save%20Our%20Love.md)
+* [Trilogy Suite OP5](Trilogy%20Suite%20OP5.md)

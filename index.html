@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Что нового? События в мире, обновления на сайте"/>
+<meta name="keywords" content="Записки, сообщения, комментарии, новости, тексты, заметки, фото"/>
+<meta name="author" content="Grigoriy Eremin, Григорий Еремин, egax@bk.ru">
+<meta name="robots" content="all">
+<meta name="yandex-verification" content="bf07f0af8e739c66">
+<meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
+<meta name="zen-verification" content="by10u6X4KKKFWClsF7vTev8waim9RszkEhhR4RUNuCo2HDwvQUyDYquyBgjoRssP" />
+<title>Записки / Сайт egax</title>
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/markdown.css">
+<link rel="stylesheet" href="/static/css/vesti.css?241222">
+<script src="/static/js/metrics.js?241026" data-floor="1"></script>
+<script src="/static/js/3rdparty/showdown.min.js"></script>
+<script src="/static/js/updater.js"></script>
+<script src="/static/js/template.js?1"></script>
+</head>
+<body>
+<div class="table vp">
+<div id="lbar"></div>
+<div id="root" class="main">
+<div id="header" class="scroll nowrap">
+<a title="Записки и сообщения" href="/"><img src="/static/img/vesti.svg" onload="this.scrollIntoView()" alt="Записки"></a>
+<a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts_b.svg" alt="Заметки"></a>
+<a title="Фотки и картинки" href="/foto.html"><img src="/static/img/fotki_b.svg" alt="Фотки"></a>
+<a title="Аккорды, песни, стихи" href="/songs.html"><img src="/static/img/songs_b.svg" alt="Аккорды"></a>
+<a title="Книги для чтения" href="/books.html"><img src="/static/img/books_b.svg" alt="Книги"></a>
+<a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
+</div>
+<div id="ya_rtb_hd" class="mh_hd"></div>
+<div id="page_header" class="main"></div>
+<div id="page_content" class="main"></div>
+<div id="page_footer" class="main"></div>
+<p class="tcenter smaller gray">
+  Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
+</p>
+<table id="footer" class="main"><tr>
+<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
+<td class="smaller" width="25%">2014-25</td></tr>
+</table>
+</div>
+<div id="rbar"></div>
+</div>
+<script>
+
+  document.getElementById('page_header').innerHTML = 
+'<div class="table">'+
+  '<div class="tcell vmid"><h1 id="vestiheader">'+'Краткая хроника изменений на сайте и не только '+'</h1></div>'+
+  '<div class="tcell tright vmid" style="width:30%">'+'<select id="yearlist"></select>'+'</div>'+
+'</div>';
+  document.getElementById('page_content').innerHTML = addLoader(1);
+
+  function addMsg(r, p){
+    var converter = new showdown.Converter(),
+        text = r
+          .replace(/\/photos\//g, '/fotki/')
+          .replace(/\r\r\n/g, '\n')
+          .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
+        html = converter.makeHtml(text)
+          .replace(/src="\.\//g, 'src="'+p.url+'/../');  // fix img url to absolute
+    if(p.if) updateMetaTag('description', trstr(text).slice(0,1024) + ' ' + (urlParams().page||''));
+    if(p.if) updateMetaTag('description', trstr(text).slice(0,200));
+    document.getElementById(p.id).innerHTML = 
+  '<div class="msgtext">'+html+'</div>'+
+  '<div class="msgfooter">'+
+    '<a class="nodecor light" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+(p.i+1)+'</a>'+
+    '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
+  '</div>';
+  }
+
+  function addPageContent(roots, subjects, msgs, page, iinit){
+    PAGE.lock = 1;
+    if(msgs.length == 0){
+      document.getElementById('page_content').innerHTML += addNotFound();
+      return 1;
+    }
+    page.bottom = (page.num)*page.per;
+    page.top = page.bottom+page.per;
+    page.titles = msgs.slice(page.bottom, page.top);
+    for(var i=0; i<page.titles.length; i++){
+      var subj = subjects[page.titles[i][0]][0],
+          root = roots[page.titles[i][4]][0],
+          title = page.titles[i][2];
+      document.getElementById('page_content').innerHTML += 
+    '<div id="msg'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
+      upfunc({id: 'msg'+(i+page.bottom), i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
+        var wrap = document.getElementById(p.id);
+        wrap.className = 'wrap';
+        addMsg(r,p);
+      });
+      if(window.addYaRTB_Block || window.addVkRTB_Block) {
+        if(window.innerWidth<900){
+          if((i%2==0)||(page.titles.length==1)){
+            document.getElementById('page_content').innerHTML += 
+          '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+            addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[1]);
+          }
+        } else if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)){
+          document.getElementById('rbar').innerHTML += 
+        // '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
+        //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[1]);
+        '<ins class="mrg-tag" data-ad-client="ad-'+VK_RTB['0_240']+'" data-ad-slot="'+VK_RTB['0_240']+'"></ins>';
+          addVkRTB_Block();
+        }
+      }
+    }
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, MSGS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
+    }
+    page.num++;
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    return (page.titles.length == 0);
+  }
+
+  upfunc({url: buildURL('vesti')+'/index.js?'+(+new Date())}, function(s){
+    eval(s);
+    window.PAGE = { 
+      per: 4,                  // blocks 1 page
+      num: urlParams().page||0 // start num page 
+    };
+    window.MSGS = TITLES;
+    var ysel = -1;
+    var page_header = 
+  'Лента из <i><b>'+MSGS.length+'</b></i> событий &emsp; <a class="nodecor finder" href="/research.html"><i>Поиск</i></a> &nbsp; <a class="nodecor" href="/refeed.html"><i>Комментарии</i></a>';
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(p == 'page' && urlParams().page){ // ?page
+        // skip paginate
+        document.title += ' - ' + urlParams().page;
+      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
+        // skip ya.ru search
+      }else if(pp.length>1){ // ?subj/msg
+        MSGS = MSGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2]).split('_')[0]==pp[1].split('_')[0]); });
+        if(MSGS.length) document.title = document.title.replace('/', ' от ' + buildDate(MSGS[0][3]).split('&nbsp;')[0] + ' / ');
+        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
+        if(MSGS.length){
+          PAGE.view = 'msg';
+          page_header = 'Лента событий за день &emsp; <a class="nodecor finder" href="/research.html"><i>Поиск</i></a>';
+        }
+      }else if(pp.length>0){ // ?subj
+        MSGS = MSGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); });
+        if(MSGS.length) document.title = document.title.replace('/', ' за ' + SUBJ[MSGS[0][0]][0] + ' / ');
+        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == pp[0]) ysel = i; });
+        if(MSGS.length){
+          page_header = 'Лента из <i><b>'+MSGS.length+'</b></i> событий за год&emsp; <a class="nodecor finder" href="/research.html"><i>Поиск</i></a>';
+        }
+      }
+    }
+    document.getElementById('vestiheader').innerHTML = page_header;
+    document.getElementById('yearlist').innerHTML =
+  '<option value="-1"'+(ysel == -1 ? ' selected ' : '')+'> Все </option>';
+    for(var k in SUBJ){
+      document.getElementById('yearlist').innerHTML +=
+    '<option value="'+SUBJ[k][0]+'"'+(k == ysel ? ' selected ' : '')+'>'+SUBJ[k][0]+'</option>';
+    }
+    document.getElementById('yearlist').onchange = function(){
+      var opt = this.options[this.selectedIndex];
+      window.location = '/index.html' + (opt.value == '-1' ? '' : '?' + opt.value);
+    };
+    document.getElementById('page_content').innerHTML = '';
+    addPageContent(ROOTS, SUBJ, MSGS, PAGE, 1);
+      // infinite scroll
+    document.addEventListener('scroll', function() {
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
+        addPageContent(ROOTS, SUBJ, MSGS, PAGE);
+      }
+    });
+  });
+
+</script>
+</body>
+</html>

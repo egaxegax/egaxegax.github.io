@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="20px">
+  <g transform="scale(0.035)">
+  <path fill="#fff" d="M0 0h640v480H0z"/>
+  <path fill="#ce1124" d="M281.6 0h76.8v480h-76.8z"/>
+  <path fill="#ce1124" d="M0 201.6h640v76.8H0z"/>
+  </g>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Англия</text>
+</svg>

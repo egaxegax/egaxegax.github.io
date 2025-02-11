@@ -1,0 +1,19 @@
+/* dark theme */
+.wrap { background:rgb(68,71,76); }
+.dark { color:#eee; }
+.gray { color:#aaa; }
+.counter { color:#59a750; }
+body { background:rgb(52,55,60); color:#eee; } 
+a, a:active, a:focus { color:#ffbc00; }
+b,i,em { color: #aaa; }
+b em, strong em { color: #ffbc00; }
+h3 { color:#fff; }
+div.about { background:#333; border:1px solid #404040; }
+pre { background:#eee; color:#222; border-radius:2px; }
+input[type=text], select { background:rgb(114,112,113); color:#fff; }
+#root { background:rgb(55,58,63); }
+#header, #page_header, #ya_rtb_hd { background:rgb(55,58,63); width:100%; }
+#page_footer button { background:#fff; }
+/**/
+img { max-width:100%; }
+code { white-space: pre-wrap; }
