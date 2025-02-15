@@ -128,8 +128,13 @@
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       if(window.addYaRTB_Block || window.addVkRTB_Block){
-        if(window.innerWidth>900){
-          if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)){
+        if(window.innerWidth<900){
+            if(!document.getElementById('vk_rtb_0_s')){
+              document.getElementById('page_content').innerHTML += 
+            '<ins class="mrg-tag" id="vk_rtb_0_s" data-ad-client="ad-'+VK_RTB['0_s']+'" data-ad-slot="'+VK_RTB['0_s']+'"></ins>';
+              addVkRTB_Block();
+            }
+          } else if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)){
             document.getElementById('rbar').innerHTML += 
           // '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
           //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[5]);
