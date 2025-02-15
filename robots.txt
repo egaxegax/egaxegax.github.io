@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /reklama*.html
+Disallow: /rekl*.html
 sitemap: https://egax.ru/books/sitemap.txt
 sitemap: https://egax.ru/books/sitemap1.txt
 sitemap: https://egax.ru/foto/sitemap.txt
