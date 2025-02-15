@@ -12,7 +12,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250211">
 <link rel="stylesheet" href="/static/css/foto.css?250104">
-<script src="/static/js/metrics.js?241026" data-floor="0"></script>
+<script src="/static/js/metrics.js?2502150" data-floor="0"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js?1"></script>
 </head>
@@ -101,11 +101,10 @@
             // addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[3]);
           }
         } else if(i==0){
-          document.getElementById('rbar').innerHTML += 
+        //   document.getElementById('rbar').innerHTML += 
         // '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
         //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[3]);
-        '<ins class="mrg-tag" data-ad-client="ad-'+VK_RTB['0_240']+'" data-ad-slot="'+VK_RTB['0_240']+'"></ins>';
-          addVkRTB_Block();
+          addVkRTB_BlockTag(document.getElementById('rbar'), '1_240');
         }
       }
     }
