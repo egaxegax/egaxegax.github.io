@@ -104,8 +104,10 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     (MRGtag = window.MRGtag || []).push({});
   };
   window.addVkRTB_BlockTag = function(elem,rtbid){ 
-    elem.innerHTML += '<ins class="mrg-tag" data-ad-client="ad-'+VK_RTB[rtbid]+'" data-ad-slot="'+VK_RTB[rtbid]+'"></ins>';
-    addVkRTB_Block();
+    if(!document.querySelector('ins[data-ad-client="ad-'+VK_RTB[rtbid]+'"]')){
+      elem.innerHTML += '<ins class="mrg-tag" data-ad-client="ad-'+VK_RTB[rtbid]+'" data-ad-slot="'+VK_RTB[rtbid]+'"></ins>';
+      addVkRTB_Block();
+    }
   };
   [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
     if(sp.getAttribute('data-floor')) addVkRTB_BlockTag(document.head, '0_s');
