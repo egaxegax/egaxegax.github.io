@@ -50,7 +50,7 @@
 @media all and (min-width:800px) { #lbar,#rbar { width:250px; } }
 #root { min-height:100%; }
 #header { text-align:center; width:100%; z-index:999; }
-#page_content { min-height:90vh; }
+#page_content { min-height:80vh; }
 #page_footer button { height:44px; width:44px; border:0; }
 #footer { width:100%; font-size:93.75%; }
 /* body */

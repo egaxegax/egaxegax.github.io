@@ -12,9 +12,9 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Контекст VK / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/main.css?250215">
 <link rel="stylesheet" href="/static/css/vesti.dark.css?250125">
-<script src="/static/js/metrics.js?250214"></script>
+<script src="/static/js/metrics.js?250215"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js?1"></script>
 </head>
@@ -36,7 +36,7 @@
 <p class="tcenter smaller gray">
   Контент сгенерирован Рекламной службой VK</p>
 <table id="footer" class="main"><tr>
-<td align="right" width="25%"><a href="/reklama1.html">/</a></td>
+<td align="right" width="25%"></td>
 <td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
 <td class="smaller" width="25%">2014-25</td></tr>
 </table>
@@ -48,7 +48,7 @@
   document.cookie.split(";").map(function(c) { document.cookie = c.replace(/^ +/, "").replace(/=.*/, "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/"); });
 
   document.getElementById('page_footer').innerHTML = 
-'<p class="tcenter"><select id="rtblist"></select><select id="rtblist1"></select><select id="rtblist2"></select></p>';
+'<p class="tcenter"><select id="rtblist"></select></p>';
 
   function clchange(r,m,n){
     window.location = (window.VK_STS[parseInt(r||PAGE.rtbsel)]||'')+'/reklama1.html?' + urlBuild({page:PAGE.num||null, r:r||PAGE.rtbsel||null, n:n||PAGE.rtbcount||null, m:m||PAGE.rtbmod||null, q:parseInt(Math.random()*65535)});
@@ -60,27 +60,22 @@
     page.top = page.bottom+page.per;
     page.titles = msgs.slice(page.bottom, page.top);
     page.rsel = (PAGE.rtbsel||page.titles[0]);
-    page.rmod = (PAGE.rtbmod||0);
-    page.rcnt = (PAGE.rtbcount||2);
     document.getElementById('page_content').innerHTML = '';
     for(var i=0; i<page.titles.length; i++){
       if(window.addVkRTB_Block){
-        console.log('vk.rtb','n',page.rcnt,'r',page.rsel,'m',page.rmod,'num',page.num);
-        for(var ii=0; ii<page.rcnt; ii++){
+        page.rsel.split(/,/g).map(function(rsel){
+          console.log('vk.rtb','r',rsel,'num',page.num);
           document.getElementById('page_content').innerHTML += 
-        '<ins class="mrg-tag inlbl vtop" data-ad-query="test_mode='+Number(page.num%3==0)+'" data-ad-client="ad-'+VK_RTB[page.rsel]+'" data-ad-slot="'+VK_RTB[page.rsel]+'"></ins>';
-        }
+        '<ins class="mrg-tag inlbl vtop" data-ad-query="test_mode='+Number(page.num%3==0)+'" data-ad-client="ad-'+VK_RTB[rsel]+'" data-ad-slot="'+VK_RTB[rsel]+'"></ins>';
+        })
         addVkRTB_Block();
       }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<select id="rtblist" onchange="clchange(this.options[this.selectedIndex].value)" class="nomarg" title="Блок РТБ">'+document.getElementById('rtblist').innerHTML+'</select>'+
-    '<select id="rtblist1" onchange="clchange(null,this.options[this.selectedIndex].value)" class="nomarg" title="Тест РТБ">'+document.getElementById('rtblist1').innerHTML+'</select>'+
-    '<select id="rtblist2" onchange="clchange(null,null,this.options[this.selectedIndex].value)" class="nomarg" title="Количество РТБ">'+document.getElementById('rtblist2').innerHTML+'</select>');
+    '&emsp;<button onclick="window.location.reload()" class="rounded nopad bigger" title="Обновить">&#8634;</button>');
       document.getElementById('rtblist').value = (page.rsel);
-      document.getElementById('rtblist1').value = (page.rmod);
-      document.getElementById('rtblist2').value = (page.rcnt);
       page.num++;
     } else { 
       page.num = 0;
@@ -93,7 +88,6 @@
   PAGE.per = 1;                   // blocks count
   PAGE.num = urlParams().page||0; // start num page
   PAGE.rtbsel = urlParams().r;
-  PAGE.rtbmod = urlParams().m;
   PAGE.rtbcount = urlParams().n;
   for(var i in window.VK_RTB){
     document.getElementById('rtblist').innerHTML +=
@@ -102,13 +96,6 @@
   window.MSGS = [];
   for(var n=0; n<document.getElementById('rtblist').options.length; n++){
     window.MSGS.push( document.getElementById('rtblist').options[n].value );
-  }
-  document.getElementById('rtblist1').innerHTML +=
-'<option value="0" title="real">r</option>'+
-'<option value="1" title="test">t</option>';
-  for(var n=1; n<25; n++){
-    document.getElementById('rtblist2').innerHTML +=
-  '<option value="'+n+'">'+n+'</option>';
   }
     //
   for(var p in urlParams()){
