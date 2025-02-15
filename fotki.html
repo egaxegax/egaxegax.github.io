@@ -107,7 +107,7 @@
           if((i+page.bottom)%2==0){
             addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[3]);
           }
-        } else if(i==0 && !document.getElementById('ya_rtb_rbar_'+i)){
+        } else if(i==0){
           document.getElementById('rbar').innerHTML += 
         '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
           addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[3]);
