@@ -110,7 +110,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     }
   };
   [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
-    if(sp.getAttribute('data-floor')) setTimeout(function(){ addVkRTB_BlockTag(document.body, '1_s', 'trg-b-banner floating'); }, 1000);
+    if(sp.getAttribute('data-floor')) setTimeout(function(){ addVkRTB_BlockTag(document.head, '1_s', 'trg-b-banner floating'); });
   });
 }
 { // VK Widget Like
