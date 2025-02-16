@@ -51,7 +51,7 @@
 '<p class="tcenter"><select id="rtblist"></select></p>';
 
   function clchange(r,m,n){
-    window.location = (window.VK_STS[parseInt(r||PAGE.rtbsel)]||'')+'/rekl1.html?' + urlBuild({page:PAGE.num||null, r:r||PAGE.rtbsel||null, n:n||PAGE.rtbcount||null, m:m||PAGE.rtbmod||null, q:parseInt(Math.random()*65535)});
+    window.location = window.location.pathname + '?' + urlBuild({page:PAGE.num||null, r:r||PAGE.rtbsel||null, n:n||PAGE.rtbcount||null, m:m||PAGE.rtbmod||null, q:parseInt(Math.random()*65535)});
   };
 
   function addPageContent(roots, subjects, msgs, page){

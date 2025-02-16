@@ -87,17 +87,16 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
     setTimeout(ads);
   };
-  // [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
-  //   if(sp.getAttribute('data-floor')) addYaRTB_Block('', 1, 'flMob', sp.getAttribute('data-dark')!=null);
-  //   if(sp.getAttribute('data-floordesk')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);
-  //   if(sp.getAttribute('data-fullscr')) addYaRTB_Block('', 13, 'fullMob', sp.getAttribute('data-dark')!=null);
-  // });
+  [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
+    if(sp.getAttribute('data-floor')) addYaRTB_Block('', 1, 'flMob', sp.getAttribute('data-dark')!=null);
+    if(sp.getAttribute('data-floordesk')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);
+    if(sp.getAttribute('data-fullscr')) addYaRTB_Block('', 13, 'fullMob', sp.getAttribute('data-dark')!=null);
+  });
 }
 { // VK reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
    (window, document, 'script', '//ad.mail.ru/static/ads-async.js', 'MRGtag');
-  window.VK_STS = ['https://egax.ru', 'https://egaxegax.github.io'];
   window.VK_RTB = {'0_1':1542915, '0_f':1768373, '0_c':1768394, '0_s':1768388, '0_240':1768926, '0_300':1774555, '0_32':1774906, '0_36':1779833,
                    '1_1':1490223, '1_f':1768405, '1_c':1772383, '1_s':1779837, '1_240':1772802, '1_300':1774557, '1_32':1774908, '1_36':1779835 };
   window.addVkRTB_Block = function(){ 
@@ -109,9 +108,6 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       setTimeout(addVkRTB_Block);
     }
   };
-  [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
-    if(sp.getAttribute('data-floor')) addVkRTB_BlockTag(document.head, '1_s', 'trg-b-banner floating');
-  });
 }
 { // VK Widget Like
   (function(m,e,t,r,i,k,a){

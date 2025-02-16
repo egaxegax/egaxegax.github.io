@@ -141,9 +141,10 @@
       if(window.addYaRTB_Block || window.addVkRTB_Block) {
         if(window.innerWidth<900){
           if((i==0||i==2)||(page.titles.length==1)){
-            document.getElementById('page_content').innerHTML += 
-          '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
-            addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[2]);
+          //   document.getElementById('page_content').innerHTML += 
+          // '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+          //   addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[2]);
+            addVkRTB_BlockTag(document.getElementById('page_content'), '0_s', 'trg-b-banner floating');
           }
         } else if(i==0) {
         //   document.getElementById('rbar').innerHTML += 
