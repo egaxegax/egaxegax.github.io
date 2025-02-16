@@ -72,6 +72,7 @@
         addVkRTB_Block();
       }
     }
+    document.querySelector('table[id="footer"] td').innerHTML = (Number(page.num%3==0) ? 'test' : '');
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<select id="rtblist" onchange="clchange(this.options[this.selectedIndex].value)" class="nomarg" title="Блок РТБ">'+document.getElementById('rtblist').innerHTML+'</select>'+
