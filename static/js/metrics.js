@@ -106,11 +106,11 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.addVkRTB_BlockTag = function(elem,rtbid,cls){ 
     if(!elem.querySelector('ins[data-ad-client="ad-'+VK_RTB[rtbid]+'"]')){
       elem.innerHTML += '<ins class="mrg-tag '+(cls||'')+'" data-ad-client="ad-'+VK_RTB[rtbid]+'" data-ad-slot="'+VK_RTB[rtbid]+'"></ins>';
-      addVkRTB_Block();
+      setTimeout(addVkRTB_Block);
     }
   };
   [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
-    if(sp.getAttribute('data-floor')) setTimeout(function(){ addVkRTB_BlockTag(document.head, '1_s', 'trg-b-banner floating'); });
+    if(sp.getAttribute('data-floor')) addVkRTB_BlockTag(document.head, '1_s', 'trg-b-banner floating');
   });
 }
 { // VK Widget Like
