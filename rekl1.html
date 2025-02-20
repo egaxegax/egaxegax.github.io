@@ -67,12 +67,12 @@
         page.rsel.split(/,/g).map(function(rsel){
           console.log('vk.rtb','r',rsel,'num',page.num);
           document.getElementById('page_content').innerHTML += 
-        '<ins class="mrg-tag inlbl vtop" data-ad-query="test_mode='+Number(page.num%4==0)+'" data-ad-client="ad-'+VK_RTB[rsel]+'" data-ad-slot="'+VK_RTB[rsel]+'"></ins>';
+        '<ins class="mrg-tag inlbl vtop" data-ad-query="test_mode='+Number(page.num%3==0)+'" data-ad-client="ad-'+VK_RTB[rsel]+'" data-ad-slot="'+VK_RTB[rsel]+'"></ins>';
         })
         addVkRTB_Block();
       }
     }
-    document.querySelector('table[id="footer"] td').innerHTML = (Number(page.num%4==0) ? 'test' : '');
+    document.querySelector('[id="root"]').style.backgroundColor = (Number(page.num%3==0) ? '#f0f0f0' : 'rgb(55,58,63);');
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<select id="rtblist" onchange="clchange(this.options[this.selectedIndex].value)" class="nomarg" title="Блок РТБ">'+document.getElementById('rtblist').innerHTML+'</select>'+
