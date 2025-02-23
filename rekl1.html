@@ -16,6 +16,7 @@
 <link rel="stylesheet" href="/static/css/vesti.dark.css?250125">
 <style>
   .main { max-width:100vw; }
+  #header { display:none; }
 </style>
 <script src="/static/js/metrics.js?250216"></script>
 <script src="/static/js/updater.js"></script>
@@ -72,7 +73,7 @@
         addVkRTB_Block();
       }
     }
-    document.querySelector('[id="header"]').style.backgroundColor = (Number(page.num%7==0) ? '#f0f0f0' : 'rgb(55,58,63);');
+    document.querySelector('[id="root"]').style.backgroundColor = (Number(page.num%7==0) ? '#f0f0f0' : 'rgb(55,58,63);');
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
     '<select id="rtblist" onchange="clchange(this.options[this.selectedIndex].value)" class="nomarg" title="Блок РТБ">'+document.getElementById('rtblist').innerHTML+'</select>'+
