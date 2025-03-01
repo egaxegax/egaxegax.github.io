@@ -10,7 +10,8 @@ b,i,em { color: #aaa; }
 b em { color: #f4c430; }
 h3 { color:#fff; }
 div.about { background:rgb(75,78,83); border:1px solid #404040; }
-input[type=text] select { background:rgb(68,71,76); color:#fff; }
+input[type=text], input[type=password], input[type=number], textarea,
+  select, option { background:rgb(114,112,113); color:#fff; }
 #root { background:rgb(55,58,63);  }
 #header, #page_header, #ya_rtb_hd { background:rgb(55,58,63); width:100%; }
 #page_footer button { background:#fff; }

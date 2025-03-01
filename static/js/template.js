@@ -9,9 +9,19 @@ function arraySort(aa,bb){
   return 0;
 }
 //
+// find action
+//
+function actionFind(){
+  if(!document.getElementById('tfind').value){
+    document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
+  }else{
+    window.location = window.location.pathname + '?find='+ document.getElementById('tfind').value;
+  }
+}
+//
 // return html for find input
 //
-function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); find(); return false; }">&ensp;'; }
+function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">&ensp;'; }
 //
 // return loader image html
 //

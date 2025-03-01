@@ -28,7 +28,7 @@
 <script src="/static/js/3rdparty/jtab.js?v1.1.10"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?1"></script>
+<script src="/static/js/template.js?250301"></script>
 </head>
 <body>
 <div class="table vp">
@@ -64,14 +64,6 @@
   '<div class="tcell vmid"><h1>'+'Подборка текстов песен с аккордами и просто стихов'+'</h1></div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
-
-  function find(){
-    if(!document.getElementById('tfind').value){
-      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
-    }else{
-      window.location = '/songs.html?find='+ document.getElementById('tfind').value;
-    }
-  }
 
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 

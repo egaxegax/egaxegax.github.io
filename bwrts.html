@@ -11,10 +11,10 @@
 <title>Список авторов книг / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250211">
-<link rel="stylesheet" href="/static/css/books.dark.css">
+<link rel="stylesheet" href="/static/css/books.dark.css?250301">
 <script src="/static/js/metrics.js?250216" data-floor="1" data-dark="1"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?1"></script>
+<script src="/static/js/template.js?250301"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap">
@@ -91,18 +91,30 @@
 
   upfunc({url: buildURL('books')+'/index.js'}, function(s){
     eval(s);
-    if(urlParams().page){ // ?page
-      document.title += ' - ' + urlParams().page;
-      updateMetaTag('description', 'список авторов ' + urlParams().page);
-    }
     window.PAGE = { 
       per: 50,                 // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.WRTS = SUBJ,
     window.BOOKS = TITLES;
-    document.getElementById('pheader').innerHTML = 
-  'Найдено <b><i>'+WRTS.length+'</i></b> авторов и <b><i>'+BOOKS.length+'</i></b> книг';
+    var pheader = 'Найдено <b><i>'+WRTS.length+'</i></b> авторов и <b><i>'+BOOKS.length+'</i></b> книг';
+    for(var p in urlParams()){
+      var pp = p.split('/');
+      if(p == 'page' && urlParams().page){ // ?page
+        document.title += ' - ' + urlParams().page;
+        updateMetaTag('description', 'список авторов ' + urlParams().page);
+      }else if(p == 'find' && urlParams().find){ // ?find
+        WRTS = WRTS.filter(function(tit){ 
+          return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+        });
+        pheader = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+WRTS.length+')</i>';
+      }
+    }
+    document.getElementById('page_header').innerHTML = 
+  '<div class="table">'+
+    '<div class="tcell vmid"><h1>'+pheader+'</h1>'+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+  '</div>';
     WRTS = WRTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
     addPageContent(WRTS, PAGE);

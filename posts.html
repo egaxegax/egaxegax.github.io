@@ -17,7 +17,7 @@
 <script src="/static/js/metrics.js?250216" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?1"></script>
+<script src="/static/js/template.js?250301"></script>
 </head>
 <body>
 <div class="table vp">
@@ -53,14 +53,6 @@
   '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные темы'+'</h1></div>'+
   '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
-
-  function find(){
-    if(!document.getElementById('tfind').value){
-      document.getElementById('tfind').setCustomValidity("Заполните пустое поле");
-    } else {
-      window.location = '/posts.html?find='+ document.getElementById('tfind').value;
-    }
-  }
 
   function addList(r,p){
     var converter = new showdown.Converter(), // to markdown
