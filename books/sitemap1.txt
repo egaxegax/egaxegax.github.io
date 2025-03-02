@@ -228,6 +228,9 @@ https://egaxegax.github.io/books.html?alfons_dode
 https://egaxegax.github.io/books.html?alfons_dode/tartaren_iz_taraskona
 https://egaxegax.github.io/books.html?alfred_adler
 https://egaxegax.github.io/books.html?alfred_adler/ponyat_prirodu_cheloveka
+https://egaxegax.github.io/books.html?alfred_shklyarskij
+https://egaxegax.github.io/books.html?alfred_shklyarskij/tomek_na_chernom_kontinente
+https://egaxegax.github.io/books.html?alfred_shklyarskij/tomek_na_trope_vojny
 https://egaxegax.github.io/books.html?alkesandr_shakilov
 https://egaxegax.github.io/books.html?alkesandr_shakilov/hozyain_yantarya
 https://egaxegax.github.io/books.html?alla_nesterova
@@ -492,6 +495,8 @@ https://egaxegax.github.io/books.html?artur_konan_dojl/prikljucheniya_brigadira_
 https://egaxegax.github.io/books.html?artur_konan_dojl/ser_najdjel_loring
 https://egaxegax.github.io/books.html?artur_konan_dojl/strana_tumanov
 https://egaxegax.github.io/books.html?artur_konan_dojl/zapiski_o_sherloke_holmse_sbornik_s_illjustraciyami
+https://egaxegax.github.io/books.html?ascold_flow
+https://egaxegax.github.io/books.html?ascold_flow/poezdatoe_puteshestvie_tom_1_i_2
 https://egaxegax.github.io/books.html?aurelio_pechchei
 https://egaxegax.github.io/books.html?aurelio_pechchei/slishkom_tesno_o_polze_vojn_i_epidemij
 https://egaxegax.github.io/books.html?avgust_juhan_strindberg

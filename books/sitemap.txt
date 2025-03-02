@@ -228,6 +228,9 @@ https://egax.ru/books.html?alfons_dode
 https://egax.ru/books.html?alfons_dode/tartaren_iz_taraskona
 https://egax.ru/books.html?alfred_adler
 https://egax.ru/books.html?alfred_adler/ponyat_prirodu_cheloveka
+https://egax.ru/books.html?alfred_shklyarskij
+https://egax.ru/books.html?alfred_shklyarskij/tomek_na_chernom_kontinente
+https://egax.ru/books.html?alfred_shklyarskij/tomek_na_trope_vojny
 https://egax.ru/books.html?alkesandr_shakilov
 https://egax.ru/books.html?alkesandr_shakilov/hozyain_yantarya
 https://egax.ru/books.html?alla_nesterova
@@ -492,6 +495,8 @@ https://egax.ru/books.html?artur_konan_dojl/prikljucheniya_brigadira_jerara
 https://egax.ru/books.html?artur_konan_dojl/ser_najdjel_loring
 https://egax.ru/books.html?artur_konan_dojl/strana_tumanov
 https://egax.ru/books.html?artur_konan_dojl/zapiski_o_sherloke_holmse_sbornik_s_illjustraciyami
+https://egax.ru/books.html?ascold_flow
+https://egax.ru/books.html?ascold_flow/poezdatoe_puteshestvie_tom_1_i_2
 https://egax.ru/books.html?aurelio_pechchei
 https://egax.ru/books.html?aurelio_pechchei/slishkom_tesno_o_polze_vojn_i_epidemij
 https://egax.ru/books.html?avgust_juhan_strindberg
