@@ -68,7 +68,7 @@ for root, dirs, files in os.walk(path, topdown=False):
       if fp and cover:
         j += 1
         if not os.path.exists(fp):
-          os.makedirs(fp)
+          os.makedirs(fp.replace(':', ','))
         fbook = open(os.path.join(fp, tit+'.md'), 'w+')
         fbook.write('<!--' + sdate + '-->\n' + desc)
         fbook.close()
