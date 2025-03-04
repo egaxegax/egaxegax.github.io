@@ -67,7 +67,7 @@
 
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext scroll nowrap mw_f">'+
+  '<div class="msgtext scroll nowrap mw_f" style="padding:0 5px">'+
     '<table class="av" width="100%"><tr>'+
       '<td align="center" valign="middle" width="1%">'+
         '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
@@ -77,7 +77,7 @@
         '<a class="hspace1 nodecor dark vspace" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
       '</td>'+
       '<td valign="center" align="right" class="light" width="1%">'+
-        '<i class="hspace counter small">'+(p.i+1)+'</i>'+
+        '<i class="small">'+(p.i+1)+'</i>&ensp;'+
         '<span class="tooltip small" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
       '</td></tr>'+
     '</table>'+
@@ -90,9 +90,9 @@
   '<div class="msgtext scroll nowrap mw_f">'+
     '<table><tr>'+
       '<td width="99%">'+
-        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a>'+
+        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp; '+p.title[2]+' </a>'+
       '</td>'+
-      '<td align="right" class="light"><i class="counter small">'+p.i+'</i></td></tr>'+
+      '<td align="right" class="light"><i class="small">'+p.i+'</i></td></tr>'+
     '</table>'+
   '</div>';
   }

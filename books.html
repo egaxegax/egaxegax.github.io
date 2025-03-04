@@ -87,7 +87,7 @@
         ' <a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a></div>')+
   '</div>'+
   '<div class="msgfooter">'+
-    '<a class="nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>'+
+    '<a class="nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>&ensp;'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
     if(window.addYaRTB_Block && (window.innerWidth<900) && (p.i%3 == 0 || ci == undefined)) addYaRTB_Block('ya_rtb_'+(p.i), YA_RTB[5]);
