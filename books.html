@@ -11,12 +11,12 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Книги / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/main.css?250306">
 <link rel="stylesheet" href="/static/css/books.css?250305">
 <script src="/static/js/metrics.js?250216" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?250301"></script>
+<script src="/static/js/template.js?250305"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap">
@@ -125,7 +125,7 @@
         addVkRTB_BlockTag(document.getElementById('page_content'), '1_s', 'trg-b-banner floating');
       }
       document.getElementById('page_content').innerHTML += 
-    '<div class="hold"><div class="main"><div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div></div></div>';
+    '<div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';

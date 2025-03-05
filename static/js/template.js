@@ -25,7 +25,7 @@ function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="t
 //
 // return loader image html
 //
-function addLoader(bl){ return (bl ? '<span class="hspace"><img class="rounded loader" src="/static/img/loader.gif"></span>' : ''); }
+function addLoader(bl){ return (bl ? '<div class="main"><img class="rounded loader" src="/static/img/loader.gif"></div>' : ''); }
 //
 // return html for paginator
 //
@@ -65,7 +65,7 @@ function addPaginator(list, page, page_btn){
 //
 function addNotFound(){
   updateMetaTag('robots', 'noindex'); // 404
-  return '<div><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
+  return '<div class="main"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
 '<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#777">'+
 '<path d="M110 58 Q134 48 144 56" />'+
 '<path d="M36 56 Q40 44 69 53" />'+

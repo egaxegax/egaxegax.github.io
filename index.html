@@ -12,13 +12,13 @@
 <meta name="zen-verification" content="by10u6X4KKKFWClsF7vTev8waim9RszkEhhR4RUNuCo2HDwvQUyDYquyBgjoRssP" />
 <title>Записки / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/main.css?250306">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/vesti.css?250305">
 <script src="/static/js/metrics.js?250216" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?1"></script>
+<script src="/static/js/template.js?250305"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap">
@@ -60,8 +60,7 @@
           .replace(/\r*\n>\r*\n*/g, '\n<p></p>\n'),
         html = converter.makeHtml(text)
           .replace(/src="\.\//g, 'src="'+p.url+'/../');  // fix img url to absolute
-    if(p.if) updateMetaTag('description', trstr(text).slice(0,1024) + ' ' + (urlParams().page||''));
-    if(p.if) updateMetaTag('description', trstr(text).slice(0,200));
+    if(p.if) updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,200));
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext">'+html+'</div>'+
   '<div class="msgfooter">'+
@@ -84,10 +83,10 @@
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
-    '<div class="hold"><div class="main"><div id="msg'+(i+page.bottom)+'">'+addLoader(i==0)+'</div></div></div>';
+    '<div id="msg'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'msg'+(i+page.bottom), i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], url: buildURL('vesti')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p){
         var wrap = document.getElementById(p.id);
-        wrap.className = 'wrap main';
+        wrap.className = 'wrap';
         addMsg(r,p);
       });
       if(window.addYaRTB_Block || window.addVkRTB_Block) {

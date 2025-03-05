@@ -11,13 +11,13 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Заметки / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250211">
+<link rel="stylesheet" href="/static/css/main.css?250306">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250305">
 <script src="/static/js/metrics.js?250216" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?250301"></script>
+<script src="/static/js/template.js?250305"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap">
@@ -54,7 +54,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r)  // fix link url to absolute in README.md
           .replace(/href="([^\"]+).md/g, function(m,fld){ return 'class="nodecor" href="/posts.html?'+tr(p.subj)+'/'+tr(decodeURI(fld)) }); 
-    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,120));
+    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,200));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
     document.title = document.title.replace('README', p.subj);
     document.getElementById(p.id).innerHTML = 
@@ -115,13 +115,13 @@
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
-    '<div class="hold"><div class="main"><div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div></div></div>';
+    '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
-          wrap.className = 'wrap main';
+          wrap.className = 'wrap';
           (p.title[2] == 'about') ? wrap.className += addAbout(r,p) :
           (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
         }
