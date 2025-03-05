@@ -11,7 +11,7 @@
 <title>Список авторов / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250211">
-<link rel="stylesheet" href="/static/css/songs.dark.css">
+<link rel="stylesheet" href="/static/css/songs.dark.css?250305">
 <script src="/static/js/metrics.js?250216" data-floor="1"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js?1"></script>
@@ -26,15 +26,15 @@
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_l.svg" alt="Карты"></a>
 </div>
 <div id="ya_rtb_hd" class="mh_hd"></div>
-<div id="root" class="main">
-<div id="page_header"></div>
+<div id="root">
+<div id="page_header" class="main"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
 <p class="tcenter smaller gray">
   Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
 <table id="footer" class="main"><tr>
-<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Я.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
 <td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
 <td class="smaller" width="25%">2014-25</td></tr>
 </table>
@@ -75,7 +75,7 @@
     page.arts = arts.slice(page.bottom, page.top);
     for(var i=0; i<page.arts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
+    '<div class="hold"><div class="main"><div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div></div></div>';
     }
     if(page.arts.length){
       document.getElementById('page_footer').innerHTML = addPaginator(arts, page,

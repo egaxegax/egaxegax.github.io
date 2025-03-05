@@ -13,15 +13,13 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250211">
 <link rel="stylesheet" href="/static/css/markdown.css">
-<link rel="stylesheet" href="/static/css/posts.css?250101">
+<link rel="stylesheet" href="/static/css/posts.css?250305">
 <script src="/static/js/metrics.js?250216" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
 <script src="/static/js/template.js?250301"></script>
 </head>
 <body>
-<div class="table vp">
-<div id="lbar"></div>
 <div id="header" class="scroll nowrap">
 <a title="Записки и сообщения" href="/"><img src="/static/img/vesti_b.svg" alt="Записки"></a>
 <a title="Заметки и посты" href="/posts.html"><img src="/static/img/posts.svg" onload="this.scrollIntoView()" alt="Заметки"></a>
@@ -31,20 +29,18 @@
 <a title="Мои карты" href="/dbcartajs"><img src="/static/img/dbcartajs_b.svg" alt="Карты"></a>
 </div>
 <div id="ya_rtb_hd" class="mh_hd"></div>
-<div id="root" class="main">
-<div id="page_header"></div>
+<div id="root">
+<div id="page_header" class="main"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
 <p class="tcenter smaller gray">
   Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
 <table id="footer" class="main"><tr>
-<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
+<td align="right" width="25%"><a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img alt="Я.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a></td>
 <td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a></td>
 <td class="smaller" width="25%">2014-25</td></tr>
 </table>
-</div>
-<div id="rbar"></div>
 </div>
 <script>
 
@@ -119,31 +115,30 @@
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
-    '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
+    '<div class="hold"><div class="main"><div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div></div></div>';
       upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], url: buildURL('posts')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
-          wrap.className = 'wrap';
+          wrap.className = 'wrap main';
           (p.title[2] == 'about') ? wrap.className += addAbout(r,p) :
           (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
         }
       });
       if(window.addYaRTB_Block || window.addVkRTB_Block) {
-        if(window.innerWidth<900){
-          if((i==0||i==2)||(page.titles.length==1)){
-          //   document.getElementById('page_content').innerHTML += 
-          // '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
-          //   addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[2]);
-            addVkRTB_BlockTag(document.getElementById('page_content'), '0_s', 'trg-b-banner floating');
-          }
-        } else if(i==0) {
+        // if(window.innerWidth<900){
+        //   if((i==0||i==2)||(page.titles.length==1)){
+        //     document.getElementById('page_content').innerHTML += 
+        //   '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+        //     addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[2]);
+        //   }
+        // } else if(i==0) {
         //   document.getElementById('rbar').innerHTML += 
         // '<div id="ya_rtb_rbar_'+i+'" class="mh_bar"></div>';
         //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[2]);
-          addVkRTB_BlockTag(document.getElementById('rbar'), '0_240');
-        }
+        // }
+        addVkRTB_BlockTag(document.getElementById('page_content'), '0_s', 'trg-b-banner floating');
       }
     }
     if(page.titles.length){

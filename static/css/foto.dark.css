@@ -1,5 +1,6 @@
 /* dark theme */
-.wrap { background:rgb(68,71,76); padding:0; }
+.hold { background:rgb(68,71,76); }
+.wrap { padding:0; }
 .msgtext { padding:0; }
 .dark { color:#eee; }
 .gray { color:#aaa; }
