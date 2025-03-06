@@ -1563,7 +1563,6 @@ https://egax.ru/posts.html?habr/nvidia_kritikuet_popytki_vlastej_ssha_razdelit_m
 https://egax.ru/posts.html?habr/nvidia_nachala_lan-vecherinku_geforce_lan_50_s_prizami_za_aktivnosti_v_onlajn
 https://egax.ru/posts.html?habr/nvidia_podtverdila_nalichie_problem_s_videokartami_serii_rtx_50_s_bsod_i_chernym_ekranom_posle_obnovleniya_drajverov
 https://egax.ru/posts.html?habr/nvidia_predlagaet_resheniya_dlya_obespecheniya_bezopasnosti_i_kontrolya_ai-agentov_na_predpriyatiyah
-https://egax.ru/posts.html?habr/nvidia_predstavila_novyj_superkompjuter_digits
 https://egax.ru/posts.html?habr/nvidia_predstavlyaet_avtonomnyh_igrovyh_personajej_ace_s_iskusstvennym_intellektom
 https://egax.ru/posts.html?habr/nvidia_priobrela_izrailskuju_kompaniju_runai_specializirujushchujusya_na_infrastrukture_iskusstvennogo_intellekta
 https://egax.ru/posts.html?habr/nvidia_priznala_chto_takje_vypustila_graficheskie_chipy_dlya_videokart_rtx_5080_bez_chastej_blokov_renderinga_rop
@@ -1874,7 +1873,6 @@ https://egax.ru/posts.html?habr/vyshla_stabilnaya_versiya_svobodnogo_2d_sapr_lib
 https://egax.ru/posts.html?habr/vyshla_versiya_otkrytogo_proekta_discord_messenger_for_windows_s_podderjkoj_windows_95_i_windows_98
 https://egax.ru/posts.html?habr/vyshli_relizy_bezopasnosti_joomla_5_2_3_i_joomla_4_4_10
 https://egax.ru/posts.html?habr/vzlet_akcij_iz-za_kremniya_vozdushnyj_stilus_ot_google_i_liderstvo_tsmc_dajdjest_novostej
-https://egax.ru/posts.html?habr/western_digital_predstavit_jestkie_diski_hamr_emkostju_44_tb_v_2026_godu
 https://egax.ru/posts.html?habr/wildberries_amp_russ_otkryla_priem_zayavok_na_grantovuju_podderjku_dlya_molodyh_uchenyh
 https://egax.ru/posts.html?habr/wildberries_privacy_day_pervoe_meropriyatiya_v_sfere_privatnosti_ot_komandy_dpo_wb
 https://egax.ru/posts.html?habr/wildberries_vnedril_oplatu_na_platforme_poshlin_pri_pokupke_zarubejnyh_tovarov
@@ -4725,6 +4723,8 @@ https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_7_installati
 https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egax.ru/posts.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egax.ru/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
+https://egax.ru/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
+https://egax.ru/posts.html?primery_shell-scenariev/git_udalenie_istorii_kommitov
 https://egax.ru/posts.html?primery_shell-scenariev/iframe_s_autoheight_po_soderjimomu
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzovanie_ssh_cherez_expect_s_peredachej_parolya_bez_vvoda
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzuem_samba_dlya_skachivaniyazakachivaniya_katalogov
