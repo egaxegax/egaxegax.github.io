@@ -25,7 +25,7 @@ function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="t
 //
 // return loader image html
 //
-function addLoader(bl){ return (bl ? '<div class="main"><img class="rounded loader" src="/static/img/loader.gif"></div>' : ''); }
+function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" src="/static/img/loader.gif"></div>' : ''); }
 //
 // return html for paginator
 //

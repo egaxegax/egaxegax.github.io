@@ -8,7 +8,7 @@
 .table { display:table; border-collapse:collapse; width:100%; }
 .tcell { display:table-cell; height:64px; padding:3px 0px 3px 12px; }
 .trow { display:table-row; }
-.main { margin:0px auto 0px auto; max-width:800px; }
+.main { margin:0px auto 0px auto; max-width:830px; }
 .msgtext { min-height:1em; padding:5px 5px; }
 .msgfooter { padding:0 1px 1px 0; text-align:right; font-size:small; }
 .msgtext dt { padding:5px 0; }
