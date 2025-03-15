@@ -49,8 +49,7 @@
 @media all and (max-width:800px) { #lbar,#rbar { display:none; } }
 @media all and (min-width:800px) { #lbar,#rbar { width:250px; } }
 #root { min-height:100%; }
-#header { text-align:center; z-index:999; width:100%; min-height:27px; }
-#header a { display:inline-block; width:80px; }
+#header a { display:inline-block; width:80px; min-height:27px; }
 #page_content { min-height:80vh; }
 #page_footer button { height:40px; width:40px; border:0; }
 #footer { width:100%; font-size:93.75%; }
