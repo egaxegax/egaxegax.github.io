@@ -104,8 +104,11 @@ def main(path='.'):
           try: 
             ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
           except:
-            print(root, name)
-            raise
+            try:
+              ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
+            except:
+              print(root, name)
+              raise
       else:
         print(os.path.join(root, name), '...skip')
         continue

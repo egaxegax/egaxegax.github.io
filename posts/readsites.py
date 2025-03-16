@@ -36,9 +36,13 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
         if not text: continue
         ptitl = '<a class="light" href="{link}">{titl}</a>'.format(link=link, titl=titl)
         pdate = item.find('pubDate').text
-        pdate = pdate.replace('+0300','MSK').replace('+0400','MSK')
-        if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \w+$', pdate):
+        # pdate = pdate.replace('+0300','MSK').replace('+0400','MSK')
+        if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
+          pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
+        elif re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \w+$', pdate):
           pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %Z')
+        elif re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2} \+\w+$', pdate):
+          pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M %z')
         elif re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2} \w+$', pdate):
           pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M %Z')
         else:
