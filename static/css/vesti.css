@@ -12,11 +12,6 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }
 #page_footer button { background:#379e60; color:#fff; }
-/* rss */
-.rss { margin:0 0 5px; font-size:93.75%; }
-.rss a { color:#333; }
-.rss img { height:50px; width:auto; margin:0 5px 0 !important; }
-.rss strong { font-weight:normal; }
 /* msgs */
 .footer { font-size:small; font-style:italic; color:#777; }
 /*ads*/
