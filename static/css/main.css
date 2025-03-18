@@ -72,7 +72,7 @@ img, iframe { max-width:100%; }
 select { padding:2px 5px; margin:0 10px 0 0; }
 option { font-size:93.75%; }
 hr { border:1px dashed #777; }
-pre { font-size:0.9rem; overflow:auto; max-width:82.5vw; }
+pre { font-size:93.75%; overflow:auto; max-width:82.5vw; }
 /* reklama */
 .mh_hd:not(:empty) { max-height:160px; max-width:746px; margin:2px auto 0 auto; }
 .mh_bar { max-height:95vh; position:sticky; top:0; }

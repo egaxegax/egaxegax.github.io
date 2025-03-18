@@ -91,7 +91,9 @@
       html = html.replace('<div class="inlbl text">', '<div class="inlbl text" style="max-width:100%">');
     }
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext">'+html+'</div>'+
+  '<div class="msgtext inlbl large">'+
+    '<div class="smaller">'+html+'</div>'+
+  '</div>'+
   '<div class="msgfooter tright mw_f nowrap scroll">'+
     '<table><tr>'+
       '<td width="99%"><a class="hspace nodecor light" href="/posts.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
