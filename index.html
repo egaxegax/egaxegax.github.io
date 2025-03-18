@@ -118,7 +118,7 @@
   upfunc({url: buildURL('vesti')+'/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = { 
-      per: 4,                  // blocks 1 page
+      per: 5,                  // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
     window.MSGS = TITLES;
