@@ -87,7 +87,7 @@
     return (page.subs.length == 0);
   }
 
-  upfunc({url: buildURL('posts')+'/index.js'}, function(s){
+  upfunc({url: buildURL('posts')+'/index.js'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = { 
       per: 30,                 // blocks 1 page
