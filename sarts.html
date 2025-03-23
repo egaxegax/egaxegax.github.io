@@ -87,7 +87,7 @@
     return (page.arts.length == 0);
   }
 
-  upfunc({url: buildURL('songs')+'/index.js'+(+new Date())}, function(s){
+  upfunc({url: buildURL('songs')+'/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = { 
       per: 50,                 // blocks 1 page

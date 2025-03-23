@@ -85,7 +85,7 @@
     return (page.gnrs.length == 0);
   }
 
-  upfunc({url: buildURL('books')+'/index.js'+(+new Date())}, function(s){
+  upfunc({url: buildURL('books')+'/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = { 
       per: 40,                 // blocks 1 page
