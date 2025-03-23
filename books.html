@@ -96,7 +96,7 @@
     updateMetaTag('description', p.subj+', '+trstr(text));
     updateMetaTag('keywords', p.subj+', книги');
     document.getElementById(p.id).innerHTML = 
-  '<table class="msgtext collapse"><tr>'+
+  '<table class="msgtext inlbl"><tr>'+
     '<td class="about"><img class="rounded" src="'+buildURL('books')+'/img/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
     '<td>'+html+'</td></tr>'+
   '</table>';
