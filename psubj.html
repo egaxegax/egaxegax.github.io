@@ -45,6 +45,7 @@
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
   '<div class="tcell vmid"><h1 id="pheader">'+'Выберите одну из тем статей'+'</h1></div>'+
+  '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
 '</div>';
   if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', YA_RTB[2], '', true);
   document.getElementById('page_content').innerHTML = addLoader(1);
@@ -88,18 +89,21 @@
 
   upfunc({url: buildURL('posts')+'/index.js'}, function(s){
     eval(s);
-    if(urlParams().page){ // ?page
-      document.title += ' - ' + urlParams().page;
-      updateMetaTag('description', 'список тем постов ' + urlParams().page);
-    }
     window.PAGE = { 
       per: 30,                 // blocks 1 page
       num: urlParams().page||0 // start num page 
     };
-    var subjects = SUBJ;
-    subjects.sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
-    window.SUBS = subjects;
+    window.SUBS = SUBJ.slice().sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
     window.POSTS = TITLES;
+    if(urlParams().page){ // ?page
+      document.title += ' - ' + urlParams().page;
+      updateMetaTag('description', 'список тем постов ' + urlParams().page);
+    }
+    if(urlParams().find){ // ?find
+      SUBS = SUBS.filter(function(tit){ 
+        return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
+      });
+    }
     document.getElementById('pheader').innerHTML =
   'Выберите одну из <i><b>'+SUBS.length+'</b></i> тем статей';
     document.getElementById('page_content').innerHTML = '';
