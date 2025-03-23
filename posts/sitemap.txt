@@ -1087,6 +1087,7 @@ https://egax.ru/posts.html?eadaily/250319_1800
 https://egax.ru/posts.html?eadaily/250320_1800
 https://egax.ru/posts.html?eadaily/250321_1800
 https://egax.ru/posts.html?eadaily/250322_1800
+https://egax.ru/posts.html?eadaily/250323_1800
 https://egax.ru/posts.html?eda
 https://egax.ru/posts.html?eda/afrikanskoe_myasnoe_ragu_s_osoboj_fishechkoj_polnyj_recept_po_ssylke_vyshe_shorts
 https://egax.ru/posts.html?eda/bananovye_klecki_s_percem_proveryaju_recept_1929_goda_eto_sedobno
@@ -1416,6 +1417,7 @@ https://egax.ru/posts.html?habr/bill_gejts_eto_odna_iz_samyh_vajnyh_knig_ob_isku
 https://egax.ru/posts.html?habr/bioprinter_nitu_misis_poyavilsya_na_platforme_nasha_laba
 https://egax.ru/posts.html?habr/bjuro_1440_zapustilo_sozdanie_abonentskih_sputnikovyh_terminalov_sobstvennoj_razrabotki
 https://egax.ru/posts.html?habr/blic-kejs_10_let_uspeshnogo_vedeniya_biznesa_v_sfere_it_s_produktami_ispsystem
+https://egax.ru/posts.html?habr/blogerstvo_oficialno_priznali_vidom_ekonomicheskoj_deyatelnosti_infljuensery_poluchat_dva_koda_v_okved
 https://egax.ru/posts.html?habr/bloomberg_apple_zapustit_prodaji_obnovlennogo_iphone_se_v_konce_fevralya
 https://egax.ru/posts.html?habr/bloomberg_vlasti_ssha_razdelyat_mir_na_tri_zony_dostupnosti_ii-tehnologij
 https://egax.ru/posts.html?habr/bmw_predstavila_idrive_obnovlennuju_sistemu_vyvoda_informacii_na_lobovoe_steklo_avtomobilya
@@ -1454,6 +1456,7 @@ https://egax.ru/posts.html?habr/chestnye_vakansii_seriya_vebinarov_s_ekspertami_
 https://egax.ru/posts.html?habr/chto_jdut_ot_middle_devops_v_sbertehe
 https://egax.ru/posts.html?habr/cifrovaya_biblioteka_video_game_history_foundation_otkrylas_v_rannem_dostupe
 https://egax.ru/posts.html?habr/citibank_po_oshibke_perevel_na_schet_klienta_81_trillion_vmesto_280_tranzakciju_snachala_odobrili_no_potom_otmenili
+https://egax.ru/posts.html?habr/cloudflare_zakryla_vse_http-soedineniya_i_teper_prinimaet_tolko_bezopasnye_https-soedineniya_dlya_api_cloudflare_com
 https://egax.ru/posts.html?habr/cnews_rasprodana_1_tys_shtuk_servernyh_processorov_baikal-s_bajkal_elektroniks_jdet_novuju_partiju_v_konce_2025_goda
 https://egax.ru/posts.html?habr/cohere_predstavlyaet_command_a_instrument_ai_dlya_bystrogo_reagirovaniya_v_biznese_i_nauke
 https://egax.ru/posts.html?habr/contextual_ai_predlagaet_reshenie_problemy_fakticheskih_netochnostej_v_korporativnyh_ii-sistemah
@@ -1530,6 +1533,7 @@ https://egax.ru/posts.html?habr/glowbyte_priglashaet_menedjerov_it-proektov_na_m
 https://egax.ru/posts.html?habr/glowbyte_priglashaet_na_prezentaciju_knigi_brjusa_silvera_bpmn_metod_i_stil
 https://egax.ru/posts.html?habr/gm_zapreshchaet_dileram_ustanavlivat_komplekty_modernizacii_apple_carplay_v_elektromobili
 https://egax.ru/posts.html?habr/golosovoj_chat_ot_nintendo_biometriya_po_venam_i_100_glavnyh_innovatorov_mira_v_novom_rejtinge_dajdjest_novostej
+https://egax.ru/posts.html?habr/golosovoj_chatgpt_sozdaet_risk_emocionalnoj_zavisimosti_u_aktivnyh_polzovatelej_pokazyvaet_issledovanie
 https://egax.ru/posts.html?habr/google_anonsiruet_vypusk_modelej_ii_dlya_uskoreniya_razrabotki_lekarstv
 https://egax.ru/posts.html?habr/google_deepmind_ozvuchila_stoimost_generacii_video_s_pomoshchju_veo_2
 https://egax.ru/posts.html?habr/google_drive_stal_rabotat_bystree_blagodarya_differencialnoj_sinhronizacii
@@ -1553,6 +1557,7 @@ https://egax.ru/posts.html?habr/google_zapuskaet_novye_funkcii_svyazannye_so_zdr
 https://egax.ru/posts.html?habr/google_zapuskaet_salt_novyj_sposob_uskorennogo_obucheniya_bolshih_modelej_ai_s_pomoshchju_malyh
 https://egax.ru/posts.html?habr/govorim_o_stroitelstve_oblachnoj_platformy_na_mitape_v_sochi
 https://egax.ru/posts.html?habr/grafteh_razrabotal_analog_ms_visio_dlya_paketa_prilojenij_mojofis
+https://egax.ru/posts.html?habr/grok_3_dobavlyaet_bolee_glubokij_poisk_i_vozmojnosti_redaktirovaniya_izobrajenij_s_pomoshchju_ai
 https://egax.ru/posts.html?habr/grok_3_ii_ot_ilona_maska_stal_dostupen_kajdomu
 https://egax.ru/posts.html?habr/gumanoidnye_roboty_ubtech_budut_sobirat_elektromobili_na_zavodah_foxconn
 https://egax.ru/posts.html?habr/hakaton_cifrovye_miry_vr-sozidateli_dlya_shkolnikov_i_studentov
@@ -1610,6 +1615,7 @@ https://egax.ru/posts.html?habr/jenskij_vzglyad_femtech_force_priglashaet_na_per
 https://egax.ru/posts.html?habr/jutuber_sproektiroval_klaviaturu_s_1020_klavishami_ona_pechataet_srazu_slova_a_ne_bukvy
 https://egax.ru/posts.html?habr/k_2030_godu_v_rossii_planirujut_vydelit_15_mlrd_rublej_na_sozdanie_bolee_30_centrov_razvitiya_robototehniki
 https://egax.ru/posts.html?habr/kagi_anonsirovala_vypusk_veb-brauzera_orion_na_baze_webkit_dlya_linux
+https://egax.ru/posts.html?habr/kaj-fu_li_pereorientiruet_01_ai_na_resheniya_deepseek_nazyvaya_ih_ekzistencialnoj_ugrozoj_dlya_openai
 https://egax.ru/posts.html?habr/kak_hakery_atakujut_asu_tp_issledovanie_infowatch
 https://egax.ru/posts.html?habr/kak_injekotriumf_uskorili_proceduru_soglasovaniya_reshenij_s_zakazchikami_s_primeneniem_nanocad_bim_konstrukcii
 https://egax.ru/posts.html?habr/kak_ne_poteryat_dengi_i_komandu_vnedryaya_iskusstvennyj_intellekt_v_e-commerce
@@ -1627,6 +1633,7 @@ https://egax.ru/posts.html?habr/kitajskaya_engineai_provela_test_pohodki_robota-
 https://egax.ru/posts.html?habr/kitajskie_regulyatory_ogranichili_vremya_pk-igr_dlya_detej_do_15_chasov_v_mesyac_vo_vremya_zimnih_kanikul
 https://egax.ru/posts.html?habr/kitajskie_uchenye_razrabatyvajut_marsianskij_dron_kotoryj_mojet_katitsya_i_letat
 https://egax.ru/posts.html?habr/kitajskie_vlasti_iniciirovali_antimonopolnoe_rassledovanie_v_otnoshenii_google
+https://egax.ru/posts.html?habr/kitajskij_hirurg_vpervye_provel_v_rf_operaciju_na_serdce_cherez_internet
 https://egax.ru/posts.html?habr/klient_amazon_india_kupil_playstation_5_slim_a_poluchil_playstation_3_v_korobke_ot_playstation_4
 https://egax.ru/posts.html?habr/kogda_ii-rieltor_ubejdaet_luchshe_ljudej_novoe_issledovanie
 https://egax.ru/posts.html?habr/kojima_productions_obyavila_o_vyhode_sikvela_death_stranding_26_ijunya_etogo_goda
@@ -1775,6 +1782,7 @@ https://egax.ru/posts.html?habr/novyj_cifro-analogovyj_kvantovyj_simulyator_ot_g
 https://egax.ru/posts.html?habr/novyj_ekzoskelet_german_bionic_vyderjivaet_ves_do_36_kg
 https://egax.ru/posts.html?habr/novyj_frejmvork_s_pomogaet_modelyam_ai_pisat_bolee_kachestvennyj_i_nadejnyj_kod
 https://egax.ru/posts.html?habr/novyj_generalnyj_direktor_roskosmosa_smenil_rukovoditelya_ao_cniimash_i_glavu_npo_lavochkina
+https://egax.ru/posts.html?habr/novyj_instrument_ot_anthropic_pozvolyaet_claude_delat_zametki_dlya_resheniya_slojnyh_zadach
 https://egax.ru/posts.html?habr/novyj_metod_podskazok_povyshaet_tochnost_i_proveryaemost_otvetov_yazykovyh_modelej
 https://egax.ru/posts.html?habr/novyj_nanoplastik_prokladyvaet_put_k_bolee_ekologichnomu_ulichnomu_osveshcheniju
 https://egax.ru/posts.html?habr/nspk_soobshchila_o_perehode_na_otechestvennye_apparatnye_moduli_bezopasnosti
@@ -1783,6 +1791,7 @@ https://egax.ru/posts.html?habr/nvidia_nachala_lan-vecherinku_geforce_lan_50_s_p
 https://egax.ru/posts.html?habr/nvidia_podtverdila_nalichie_problem_s_videokartami_serii_rtx_50_s_bsod_i_chernym_ekranom_posle_obnovleniya_drajverov
 https://egax.ru/posts.html?habr/nvidia_pomogaet_podgotovit_specialistov_po_ii_zapusk_novoj_obrazovatelnoj_programmy
 https://egax.ru/posts.html?habr/nvidia_predlagaet_resheniya_dlya_obespecheniya_bezopasnosti_i_kontrolya_ai-agentov_na_predpriyatiyah
+https://egax.ru/posts.html?habr/nvidia_predstavila_novyj_superkompjuter_digits
 https://egax.ru/posts.html?habr/nvidia_predstavlyaet_avtonomnyh_igrovyh_personajej_ace_s_iskusstvennym_intellektom
 https://egax.ru/posts.html?habr/nvidia_priobrela_izrailskuju_kompaniju_runai_specializirujushchujusya_na_infrastrukture_iskusstvennogo_intellekta
 https://egax.ru/posts.html?habr/nvidia_priznala_chto_takje_vypustila_graficheskie_chipy_dlya_videokart_rtx_5080_bez_chastej_blokov_renderinga_rop
@@ -1847,7 +1856,9 @@ https://egax.ru/posts.html?habr/pervyj_v_mire_chat-bot_na_osnove_iskusstvennogo_
 https://egax.ru/posts.html?habr/pk_s_windows_10_11_tpm_i_shifrovaniem_bitlocker_stolknulis_s_oshibkoj
 https://egax.ru/posts.html?habr/platforma_nanocad_25_paketnyj_normokontrol_proverka_kollizij_oblachnaya_sod
 https://egax.ru/posts.html?habr/pochta_mail_zablokirovala_bolee_6_mlrd_spam-pisem_za_4_kvartal_2024_goda
+https://egax.ru/posts.html?habr/podpischiki_microsoft_365_poluchili_dostup_k_copilot_dlya_onedrive
 https://egax.ru/posts.html?habr/podtverjdeno_google_pokupaet_wiz_za_32_mlrd_chtoby_usilit_oblachnuju_bezopasnost
+https://egax.ru/posts.html?habr/poisk_gmail_poluchit_obnovlenie_na_osnove_ii_kotoroe_pozvolit_bystree_pokazyvat_naibolee_relevantnye_rezultaty
 https://egax.ru/posts.html?habr/policiya_avstralii_ispolzuet_carplay_dlya_raspoznavaniya_nomerov_avto
 https://egax.ru/posts.html?habr/polzovatel_reddit_pojalovalsya_na_zasile_ii-kontenta_v_vydache_google_i_poluchil_rekomendaciju_kak_ot_nego_izbavitsya
 https://egax.ru/posts.html?habr/polzovatelej_elektrosamokatov_hotyat_priravnyat_k_voditelyam_im_zapretyat_trebovat_proezd_signalom
@@ -1997,6 +2008,7 @@ https://egax.ru/posts.html?habr/sistema_antifrod_rkn_v_2024_godu_proverila_158_m
 https://egax.ru/posts.html?habr/sistema_raspoznavaniya_rechi_iva_terra_vkljuchena_v_reestr_rossijskogo_po
 https://egax.ru/posts.html?habr/skandal_vokrug_deepseek_strany_mira_usilivajut_zashchitu_ot_kitajskogo_ai-chatbota
 https://egax.ru/posts.html?habr/smart_engines_provedet_otkrytyj_vebinar_raspoznavanie_bankovskih_kart_dlya_onbordinga_i_internet-ekvajringa
+https://egax.ru/posts.html?habr/smi_prilojenie_xbox_stanet_universalnym_sredstvom_zapuska_vseh_ustanovlennyh_na_pk_igr_vkljuchaya_igry_iz_steam
 https://egax.ru/posts.html?habr/snapchat_vnedryaet_generativnyj_ii_v_video-obektivy_dlya_polzovatelej_premium-podpiski
 https://egax.ru/posts.html?habr/snipping_tool_poluchil_novuju_funkciju_dlya_zapisi_ekrana
 https://egax.ru/posts.html?habr/socset_x_udvoila_stoimost_podpiski_premium
@@ -2167,6 +2179,7 @@ https://egax.ru/posts.html?habr/vyshla_versiya_otkrytogo_proekta_discord_messeng
 https://egax.ru/posts.html?habr/vyshli_relizy_bezopasnosti_joomla_5_2_3_i_joomla_4_4_10
 https://egax.ru/posts.html?habr/vyshlo_obnovlenie_mobilnoj_operacionnoj_sistemy_rosa_mobajl
 https://egax.ru/posts.html?habr/vzlet_akcij_iz-za_kremniya_vozdushnyj_stilus_ot_google_i_liderstvo_tsmc_dajdjest_novostej
+https://egax.ru/posts.html?habr/western_digital_predstavit_jestkie_diski_hamr_emkostju_44_tb_v_2026_godu
 https://egax.ru/posts.html?habr/wildberries_amp_russ_otkryla_priem_zayavok_na_grantovuju_podderjku_dlya_molodyh_uchenyh
 https://egax.ru/posts.html?habr/wildberries_privacy_day_pervoe_meropriyatiya_v_sfere_privatnosti_ot_komandy_dpo_wb
 https://egax.ru/posts.html?habr/wildberries_vnedril_oplatu_na_platforme_poshlin_pri_pokupke_zarubejnyh_tovarov
@@ -5128,8 +5141,6 @@ https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_7_installati
 https://egax.ru/posts.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egax.ru/posts.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egax.ru/posts.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
-https://egax.ru/posts.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
-https://egax.ru/posts.html?primery_shell-scenariev/git_udalenie_istorii_kommitov
 https://egax.ru/posts.html?primery_shell-scenariev/iframe_s_autoheight_po_soderjimomu
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzovanie_ssh_cherez_expect_s_peredachej_parolya_bez_vvoda
 https://egax.ru/posts.html?primery_shell-scenariev/ispolzuem_samba_dlya_skachivaniyazakachivaniya_katalogov
@@ -6501,6 +6512,7 @@ https://egax.ru/posts.html?ria/250319_2100
 https://egax.ru/posts.html?ria/250320_2100
 https://egax.ru/posts.html?ria/250321_2100
 https://egax.ru/posts.html?ria/250322_2100
+https://egax.ru/posts.html?ria/250323_2100
 https://egax.ru/posts.html?rok
 https://egax.ru/posts.html?rok/24_7_christmas_ambience_fireplace_merry_christmas_2025
 https://egax.ru/posts.html?rok/28_11_2013_-_korol_i_shut_minsk_dvorec_sporta
