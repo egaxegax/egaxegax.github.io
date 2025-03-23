@@ -8,7 +8,8 @@
 RSSlist = {
   'eadaily': {'hdr':'Подборка новостей/EADaily', 'url':'https://eadaily.com/ru/rss/index.xml'},
   'ria': {'hdr':'Подборка новостей/РИА', 'url':'https://ria.ru/export/rss2/index.xml'},
-  'rambler': {'hdr':'Подборка новостей/Рамблер', 'url':'http://news.rambler.ru/rss/world/'}
+  'rambler': {'hdr':'Подборка новостей/Рамблер', 'url':'http://news.rambler.ru/rss/world/'},
+  'sports': {'hdr':'Подборка новостей/Sports.ru', 'url':'https://sports.ru/rss/all_news.xml'}
 }
 
 import os, sys, time, re, locale
@@ -40,7 +41,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
         for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
           link = item.find('link').text
           titl = item.find('title').text
-          ptitl = '<a class="nodecor" href="{link}">{titl}</a>'.format(link=link, titl=tr_chars(titl, 75))
+          ptitl = '<a class="nodecor" href="{link}">{titl}</a>'.format(link=link, titl=tr_chars(titl, 85))
           pdate = item.find('pubDate').text
           if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
             pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
