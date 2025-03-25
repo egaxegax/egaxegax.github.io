@@ -1,4 +1,4 @@
-<!--2025-03-10 14:23:31-->
+<!--2025-03-24 13:57:02-->
 <div class="yb">
-  <div class="rss smaller1 habr"><img src="https://habrastorage.org/getpro/habr/upload_files/f55/40a/fbd/f5540afbd2a49bd52e5a0dbdf5f6d81f.jpg" /><p>Сегодня в ТОП-5 —&nbsp; уязвимость в Webex for BroadWorks, три zero-day уязвимости VMware, исправление критической RCE-уязвимости Kibana, метод ClickFix для развертывания Havoc C2 через сайты SharePoint, zero-day уязвимость в Sitecore-CMS.</p><p></p> <a... <br><a class="light" href="https://habr.com/ru/companies/jetinfosystems/news/889654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=889654">ТОП-5 ИБ-событий недели по версии Jet CSIRT</a></div>
+  <div class="rss smaller1 habr"><img src="https://habrastorage.org/getpro/habr/upload_files/aa7/145/1c7/aa71451c7bb7a00d217461a7d20e53bf.jpg" /><p>Сегодня в ТОП-5 —  0-day уязвимость в Microsoft Windows, троян удаленного доступа StilachiRAT, критические уязвимости в системе mySCADA, стилер Arcane и анализ Backdoor Betruger.</p><p></p> <a href="https://habr.com/ru/articles/893884/#habracut">Читать далее</a> <br><a class="light" href="https://habr.com/ru/companies/jetinfosystems/news/893884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=893884">ТОП-5 ИБ-событий недели по версии Jet CSIRT</a></div>
 </div>
