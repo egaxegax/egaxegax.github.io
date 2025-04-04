@@ -1,0 +1,4 @@
+<!--2025-04-04 11:45:21-->
+<div class="yb">
+  <div class="rss smaller1 kino_kino"><a href="https://www.kino-teatr.ru/kino/news/y2025/4-4/37316/" title="«Вы хотели меня видеть?»: Гийом Кане в образе Людовика XVI выходит к рассерженным людям в отрывке из «Падения короны»"><img src="https://www.kino-teatr.ru/news/6/1/37316/poster.jpg" width="196" height="147" align="left" hspace="5" style="margin: 0px 10px 0px 5px" alt="«Вы хотели меня видеть?»: Гийом Кане в образе Людовика XVI выходит к рассерженным людям в отрывке из «Падения короны»"/></a>Фильм о последних днях жизни монархов уже в кино <br><a class="light" href="https://www.kino-teatr.ru/kino/news/y2025/4-4/37316/">«Вы хотели меня видеть?»: Гийом Кане в образе Людовика XVI выходит к рассерженным людям в отрывке из «Падения короны»</a></div>
+</div>
