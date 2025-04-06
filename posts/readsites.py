@@ -11,7 +11,6 @@ RSSlist = {
   'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml', 'cut':1000, 'total':5},
   'pikabu': {'hdr':'Подборка с сайтов/Пикабу', 'url':'https://pikabu.ru/xmlfeeds.php?cmd=popular', 'cut':380, 'total':7},
   'povarenok': {'hdr':'Подборка рецептов/Поваренок.РУ', 'url':'https://www.povarenok.ru/rss/recipes/', 'cut':380, 'total':5},
-  
 }
 
 import os, sys, time, re
