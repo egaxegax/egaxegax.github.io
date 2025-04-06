@@ -38,6 +38,7 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 .yb .smaller3 { display:none; }
 /* habr */
 .rss { min-height:150px; }
+.rss img { border-radius:3px; }
 .rss strong { font-weight:normal; }
 @media all and (max-width:800px){ .rss img { margin:0 10px 5px 0 !important; } }
 @media all and (min-width:800px){ .rss img { max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
