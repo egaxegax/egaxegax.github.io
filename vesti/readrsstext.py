@@ -2,12 +2,12 @@
 #
 # Parse RSS .xml page to .md
 #
-# python3 readrss.py <RSSlist-id>
+# python3 readrsstext.py <RSSlist-id>
 #
 
 RSSlist = {
   'anekdot_day': {'hdr':'Анекдоты из России', 'url':'https://www.anekdot.ru/rss/export20.xml'},
-  'anekdot_10': {'hdr':'Анекдоты из России', 'url':'https://www.anekdot.ru/rss/export_j.xml'},
+  'anekdot_10': {'hdr':'Анекдоты из России', 'url':'https://www.anekdot.ru/rss/export_top.xml'},
 }
 
 import os, sys, time, re, locale
@@ -33,6 +33,7 @@ def parsePubDate(item):
 
 total = 10
 fcount = 0
+
 for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id in sys.argv]):
   with urlopen(Request(prm['url'], headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     for channel in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('channel'):

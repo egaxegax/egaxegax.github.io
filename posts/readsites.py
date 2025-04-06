@@ -24,7 +24,6 @@ from updatelist import main as updatelist_main, tr_chars, tr_cut
 from updateturbo import main as updateturbo_main
 
 fcount = 0
-cdtm = time.localtime()
 
 for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
   with urlopen(Request(prm['url'], headers={'User-Agent': 'Mozilla/5.0'})) as purl:
