@@ -9,7 +9,9 @@ RSSlist = {
   'habr': {'hdr':'Подборка с сайтов/Хабр', 'url':'https://habr.com/ru/rss/news/?fl=ru', 'cut':380, 'total':10},
   'kino_kino': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml', 'cut':1000, 'total':5},
   'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml', 'cut':1000, 'total':5},
-  'pikabu': {'hdr':'Подборка с сайтов/Пикабу', 'url':'https://pikabu.ru/xmlfeeds.php?cmd=popular', 'cut':380, 'total':11},
+  'pikabu': {'hdr':'Подборка с сайтов/Пикабу', 'url':'https://pikabu.ru/xmlfeeds.php?cmd=popular', 'cut':380, 'total':7},
+  'povarenok': {'hdr':'Подборка рецептов/Поваренок.РУ', 'url':'https://www.povarenok.ru/rss/recipes/', 'cut':380, 'total':5},
+  
 }
 
 import os, sys, time, re
@@ -33,9 +35,10 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
         link = item.find('link').text
         text = item.find('description').text
         if not text: continue
+        for encl in item.findall('enclosure'):
+          text = '<a class="light" href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=encl.get('url')) + text
         ptitl = '<a class="light" href="{link}">{titl}</a>'.format(link=link, titl=titl)
         pdate = item.find('pubDate').text
-        # pdate = pdate.replace('+0300','MSK').replace('+0400','MSK')
         if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
           pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
         elif re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \w+$', pdate):
