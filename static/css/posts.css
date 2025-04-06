@@ -13,7 +13,7 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 #header { background:#d2e0f0; }
 #page_footer button { background:#379e60; color:#fff; }
 /* readme */
-.readme ul { list-style-type:none; padding:0; overflow:auto; white-space:nowrap; max-width:90vw; font-size:93.75%; }
+.readme ul { list-style-type:none; padding:0 10px; margin:5px 0; overflow:auto; white-space:nowrap; max-width:90vw; font-size:93.75%; }
 /* football tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
