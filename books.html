@@ -75,8 +75,8 @@
     '<p class="smaller gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   '</div>'+
   '<div id="ya_rtb_'+p.i+'" class="inlbl vmid '+(window.innerWidth<800 ? '' : 'mw_a')+' mh_sm">&nbsp;</div>'+
-  '<div class="msgtext large inlbl mw_b">'+
-    '<div class="smaller hspaced">&ensp;'+
+  '<div class="msgtext inlbl mw_b">'+
+    '<div class="hspaced">&ensp;'+
       (!isNaN(ci) && r.split(' ').length>14 ? r.slice(0,r.split(' ').slice(0,21).join(' ').length)+'... '+
         ' <a href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">Читать ещё...</a></div>'
       : r+

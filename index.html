@@ -62,8 +62,8 @@
           .replace(/src="\.\//g, 'src="'+p.url+'/../');  // fix img url to absolute
     if(p.if) updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,200));
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext inlbl large">'+
-    '<div class="smaller">'+html+'</div>'+
+  '<div class="msgtext inlbl">'+
+    html+
   '</div>'+
   '<div class="msgfooter">'+
     '<a class="nodecor light" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+(p.i+1)+'</a>&ensp;'+
