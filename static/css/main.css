@@ -16,7 +16,6 @@
 .hspace { padding:0 12px; }
 .hspace1 { padding:0 32px; }
 .hspace2 { padding:0 48px; }
-.vspace { line-height:1.5em; }
 .hmarg { margin:0 12px; }
 .bmarg:not(:empty) { margin: 0px auto 5px auto; }
 .marg { margin: 0 auto; }
