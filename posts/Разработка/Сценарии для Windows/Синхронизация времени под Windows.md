@@ -1,5 +1,5 @@
 ﻿<!--2020-04-19 17:52:23-->
-### Синхронизация времени под Windows
+## Синхронизация времени под Windows
 Открыть реестр командой *regedit* 
 
     HKLM\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpClient

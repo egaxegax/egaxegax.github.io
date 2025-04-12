@@ -1,5 +1,5 @@
 <!--2015-12-29 21:14:04-->
-### Python Сайт с использованием Django-nonrel фреймворка
+## Python Сайт с использованием Django-nonrel фреймворка
 В этой статье я хочу рассказать о разработке своего проекта - сайта <a href="http://egaxegax.appspot.com">egaxegax.appspot.com</a>.
 
 Поскольку являюсь большим поклонником языка Python, свой сайт я решил создать на популярном фреймворке Django. Чтобы использовать его на бесплатном хостинге <a href="http://appspot.com">appspot.com</a>, адаптировал код для использования NoSQL версии <a href="https://github.com/django-nonrel">django</a> и платформы <a href="http://appengine.google.com">Google AppEngine</a>.

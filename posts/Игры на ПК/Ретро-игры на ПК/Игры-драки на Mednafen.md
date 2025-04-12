@@ -1,5 +1,5 @@
 <!--2021-03-14 14:20:10-->
-### Уличные драки 'Final Fight'
+## Уличные драки 'Final Fight'
 <img src="./ff-SNES.jpg" alt="Final Fight" width="220px">
 <img src="./ff2-SNES.jpg" alt="Final Fight 2" width="220px">
 <img src="./ff3-SNES.jpg" alt="Final Fight 3" width="220px">

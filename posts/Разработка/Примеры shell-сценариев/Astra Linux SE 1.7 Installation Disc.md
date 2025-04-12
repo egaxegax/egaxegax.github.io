@@ -1,5 +1,5 @@
 <!--2024-05-25 00:05:09-->
-### Astra Linux Special Edition 1.7 Installation disc
+## Astra Linux Special Edition 1.7 Installation disc
 
 Ссылки для загрузки iso-образов дисков установки и разработчика ОС Astra Linux Special Edition (Смоленск) с официального сайта.
 

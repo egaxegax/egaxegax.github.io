@@ -1,5 +1,5 @@
 <!--2024-05-25 01:05:44-->
-### Astra Linux Special Edition 1.6 Installation disc
+## Astra Linux Special Edition 1.6 Installation disc
 
 Ссылки для скачивания iso-образов дисков для установки и настройки ОС Astra Linux SE с официального сайта.
 

@@ -35,8 +35,8 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
         text = item.find('description').text
         if not text: continue
         for encl in item.findall('enclosure'):
-          text = '<a class="light" href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=encl.get('url')) + text
-        ptitl = '<a class="light" href="{link}">{titl}</a>'.format(link=link, titl=titl)
+          text = '<a href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=encl.get('url')) + text
+        ptitl = '<p class="titl"><a href="{link}">{titl}</a></p>'.format(link=link, titl=titl)
         pdate = item.find('pubDate').text
         if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
           pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
@@ -53,7 +53,7 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
         ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
         text = """{ctime}
 <div class="yb">
-  <div class="rss smaller1 {rssid}">{text} <br>{titl}</div>
+  <div class="rss smaller1 {rssid}">{text} {titl}</div>
 </div>
 """.format(ctime=ctime, rssid=id, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, prm['cut']))
         if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):

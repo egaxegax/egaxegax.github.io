@@ -1,5 +1,5 @@
 <!--2012-04-03 17:12:09-->
-### Markdown: Syntax
+## Markdown: Syntax
 
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
@@ -25,7 +25,7 @@
 
 <h2 id="overview">Overview</h2>
 
-<h3 id="philosophy">Philosophy</h3>
+<h2 id="philosophy">Philosophy</h2>
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 
@@ -53,7 +53,7 @@ used email.
 
 
 
-<h3 id="html">Inline HTML</h3>
+<h2 id="html">Inline HTML</h2>
 
 Markdown's syntax is intended for one purpose: to be used as a
 format for *writing* for the web.
@@ -104,7 +104,7 @@ Unlike block-level HTML tags, Markdown syntax *is* processed within
 span-level tags.
 
 
-<h3 id="autoescape">Automatic Escaping for Special Characters</h3>
+<h2 id="autoescape">Automatic Escaping for Special Characters</h2>
 
 In HTML, there are two characters that demand special treatment: `<`
 and `&`. Left angle brackets are used to start tags; ampersands are
@@ -166,7 +166,7 @@ and `&` in your example code needs to be escaped.)
 <h2 id="block">Block Elements</h2>
 
 
-<h3 id="p">Paragraphs and Line Breaks</h3>
+<h2 id="p">Paragraphs and Line Breaks</h2>
 
 A paragraph is simply one or more consecutive lines of text, separated
 by one or more blank lines. (A blank line is any line that looks like a
@@ -192,7 +192,7 @@ work best -- and look better -- when you format them with hard breaks.
 
 
 
-<h3 id="header">Headers</h3>
+<h2 id="mheader">Headers</h2>
 
 Markdown supports two styles of headers, [Setext] [1] and [atx] [2].
 
@@ -229,7 +229,7 @@ determines the header level.) :
     ### This is an H3 ######
 
 
-<h3 id="blockquote">Blockquotes</h3>
+<h2 id="blockquote">Blockquotes</h2>
 
 Markdown uses email-style `>` characters for blockquoting. If you're
 familiar with quoting passages of text in an email message, then you
@@ -279,7 +279,7 @@ example, with BBEdit, you can make a selection and choose Increase
 Quote Level from the Text menu.
 
 
-<h3 id="list">Lists</h3>
+<h2 id="list">Lists</h2>
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
 
@@ -439,7 +439,7 @@ line. To avoid this, you can backslash-escape the period:
 
 
 
-<h3 id="precode">Code Blocks</h3>
+<h2 id="precode">Code Blocks</h2>
 
 Pre-formatted code blocks are used for writing about programming or
 markup source code. Rather than forming normal paragraphs, the lines
@@ -504,7 +504,7 @@ it's also easy to use Markdown to write about Markdown's own syntax.
 
 
 
-<h3 id="hr">Horizontal Rules</h3>
+<h2 id="hr">Horizontal Rules</h2>
 
 You can produce a horizontal rule tag (`<hr />`) by placing three or
 more hyphens, asterisks, or underscores on a line by themselves. If you
@@ -526,7 +526,7 @@ following lines will produce a horizontal rule:
 
 <h2 id="span">Span Elements</h2>
 
-<h3 id="link">Links</h3>
+<h2 id="link">Links</h2>
 
 Markdown supports two style of links: *inline* and *reference*.
 
@@ -681,7 +681,7 @@ you can add links without interrupting the narrative flow of your
 prose.
 
 
-<h3 id="em">Emphasis</h3>
+<h2 id="em">Emphasis</h2>
 
 Markdown treats asterisks (`*`) and underscores (`_`) as indicators of
 emphasis. Text wrapped with one `*` or `_` will be wrapped with an
@@ -724,7 +724,7 @@ escape it:
 
 
 
-<h3 id="code">Code</h3>
+<h2 id="code">Code</h2>
 
 To indicate a span of code, wrap it with backtick quotes (`` ` ``).
 Unlike a pre-formatted code block, a code span indicates code within a
@@ -780,7 +780,7 @@ to produce:
 
 
 
-<h3 id="img">Images</h3>
+<h2 id="img">Images</h2>
 
 Admittedly, it's fairly difficult to devise a "natural" syntax for
 placing images into a plain text document format.
@@ -822,7 +822,7 @@ use regular HTML `<img>` tags.
 
 <h2 id="misc">Miscellaneous</h2>
 
-<h3 id="autolink">Automatic Links</h3>
+<h2 id="autolink">Automatic Links</h2>
 
 Markdown supports a shortcut style for creating "automatic" links for URLs and email addresses: simply surround the URL or email address with angle brackets. What this means is that if you want to show the actual text of a URL or email address, and also have it be a clickable link, you can do this:
 
@@ -855,7 +855,7 @@ will probably eventually start receiving spam.)
 
 
 
-<h3 id="backslash">Backslash Escapes</h3>
+<h2 id="backslash">Backslash Escapes</h2>
 
 Markdown allows you to use backslash escapes to generate literal
 characters which would otherwise have special meaning in Markdown's

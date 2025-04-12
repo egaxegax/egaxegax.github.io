@@ -36,7 +36,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
         os.mkdir(os.path.join(cdir, prm['hdr']))
       with open(os.path.join(cdir, prm['hdr'], '{y}{m}{d} {h}{c}.md'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % ri))), 'w+', encoding='utf-8', newline='\n') as fp:
         locale.setlocale(locale.LC_ALL, 'Russian')
-        fp.write('<h3>'+os.path.dirname(prm['hdr'])+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h3>')
+        fp.write('<h2>'+os.path.dirname(prm['hdr'])+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>')
         locale.setlocale(locale.LC_ALL, 'C')
         for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
           link = item.find('link').text

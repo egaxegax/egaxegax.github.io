@@ -1,5 +1,5 @@
 <!--2021-03-08 21:02:05-->
-### Любимые игры на 'Mednafen'
+## Любимые игры на 'Mednafen'
 
 <td><img src="./Battletoads-SNES.jpg" alt="Battletoads" width="220px">
 <td><img src="./Contra3-SNES.jpg" alt="Contra3" width="220px">
