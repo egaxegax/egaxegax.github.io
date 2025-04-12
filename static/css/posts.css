@@ -42,7 +42,7 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 @media all and (max-width:800px){ .rss img { margin:0 10px 5px 0 !important; } }
 @media all and (min-width:800px){ .rss img { max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss ria, eadaily */
-.rssn { margin:5px 0 5px; line-height: 1.3; }
+.rssn { margin:5px 0 5px; }
 .rssn a { color:#333; }
 .rssn img { height:50px; width:auto; margin:0 5px 0 !important; }
 .rssn strong { font-weight:normal; }

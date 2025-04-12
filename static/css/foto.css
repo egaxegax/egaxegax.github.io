@@ -7,7 +7,7 @@ body { background:#fafafa; color:#333; }
 a, a:active, a:focus { color:#3c677b; }
 b,i,em { color:#777; }
 b em { color:#3c677b; }
-h3 { color:#fff; }
+h2 { color:#fff; }
 input[type=text], input[type=password], input[type=number], textarea, select { background:#fff; }
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }

@@ -8,7 +8,7 @@ body { background:rgb(52,55,60); color:#eee; }
 a, a:active, a:focus { color:#f4c430; }
 b,i,em { color: #aaa; }
 b em { color: #f4c430; }
-h3 { color:#fff; }
+h2 { color:#fff; }
 div.about { background:rgb(75,78,83); border:1px solid #404040; }
 input[type=text], input[type=password], input[type=number], textarea,
   select, option { background:rgb(114,112,113); color:#fff; }

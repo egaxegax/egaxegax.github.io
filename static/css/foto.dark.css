@@ -10,7 +10,7 @@ body { background:rgb(52,55,60); color:#eee; }
 a, a:active, a:focus { color:#f4c430; }
 b,i,em { color:#aaa; }
 b em { color:#f4c430; }
-h3 { color:#9ac495; }
+h2 { color:#9ac495; }
 input[type=text], input[type=password], input[type=number], textarea,
   select, option { background:rgb(114,112,113); color:#fff; }
 #root { background:rgb(55,58,63); }

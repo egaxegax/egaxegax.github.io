@@ -7,7 +7,7 @@ body { background:rgb(52,55,60); color:#eee; }
 a, a:active, a:focus { color:#ffbc00; }
 b,i,em { color: #aaa; }
 b em, strong em { color: #ffbc00; }
-h3 { color:#fff; }
+h2 { color:#fff; }
 div.about { background:#333; border:1px solid #404040; }
 pre { background:#eee; color:#222; border-radius:2px; }
 input[type=text], select { background:rgb(114,112,113); color:#fff; }
