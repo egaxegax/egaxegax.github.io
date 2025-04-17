@@ -1934,6 +1934,7 @@ https://egaxegax.github.io/posts.html?habr/dannye_mikrochipov_desyatkov_tysyach_
 https://egaxegax.github.io/posts.html?habr/darim_ispmanager_6_do_konca_goda_pri_zakaze_ljubogo_vps-servera
 https://egaxegax.github.io/posts.html?habr/dario_amodei_ceo_anthropic_ii_mojet_prevzojti_chelovecheskij_razum_k_2027_godu
 https://egaxegax.github.io/posts.html?habr/databricks_privlekaet_rekordnoe_finansirovanie_kompaniya_ocenivaetsya_v_62_milliarda_dollarov
+https://egaxegax.github.io/posts.html?habr/ddr4_ot_gs_nanotech_vnesena_v_reestr_minpromtorga
 https://egaxegax.github.io/posts.html?habr/deckhouse_kubernetes_platform_bolshe_ne_v_cncf_pochemu_my_prinyali_takoe_reshenie
 https://egaxegax.github.io/posts.html?habr/deepseek_my_podoshli_iz-za_ugla
 https://egaxegax.github.io/posts.html?habr/deepseek_otkazyvaetsya_ot_venchurnyh_deneg
@@ -1944,6 +1945,7 @@ https://egaxegax.github.io/posts.html?habr/diskussiya_senory_v_nekotoryh_sluchay
 https://egaxegax.github.io/posts.html?habr/djejms_kemeron_ii_mojet_pomoch_vdvoe_sokratit_rashody_na_vizualnye_effekty_dlya_blokbasterov
 https://egaxegax.github.io/posts.html?habr/djejson_shrajer_igrovye_proekty_stanovyatsya_vse_doroje_iz-za_neeffektivnogo_upravleniya_i_otsutstviya_konkretnyh_celej
 https://egaxegax.github.io/posts.html?habr/djon_shulman_pokinul_anthropic_vsego_cherez_pyat_mesyacev_i_gotovitsya_k_novomu_startapu_v_sfere_ai
+https://egaxegax.github.io/posts.html?habr/dni_tehnologicheskogo_predprinimatelstva_v_vuze_vyzovy_resheniya_i_dolgosrochnye_vozmojnosti
 https://egaxegax.github.io/posts.html?habr/dobavlenie_rugatelstv_v_poiskovye_zaprosy_otkljuchaet_funkciju_obzora_na_osnove_gemini_ai
 https://egaxegax.github.io/posts.html?habr/doktor_veb_obzor_virusnoj_aktivnosti_dlya_android-ustrojstv_za_2024_god
 https://egaxegax.github.io/posts.html?habr/dokumenty_mail_dobavili_vozmojnost_ustanavlivat_na_fajly_individualnye_nastrojki_privatnosti
@@ -2273,6 +2275,7 @@ https://egaxegax.github.io/posts.html?habr/minpromtorg_sovmestno_s_yandeksom_i_s
 https://egaxegax.github.io/posts.html?habr/minstroj_rossii_utverdilo_147_novyh_dokumentov_dlya_stroitelnoj_otrasli_v_konce_2024_goda_vkljuchaya_svod_pravil_po_codam
 https://egaxegax.github.io/posts.html?habr/mistral_ai_vypustila_small_3_moshchnuju_yazykovuju_model_s_24_milliardami_parametrov
 https://egaxegax.github.io/posts.html?habr/mitap_psb_v_yaroslavle
+https://egaxegax.github.io/posts.html?habr/mitre_lishilas_finpodderjki_ssha_programm_common_vulnerabilities_and_exposures_cve_i_common_weakness_enumeration_cwe
 https://egaxegax.github.io/posts.html?habr/mlgym_novyj_shag_v_avtomatizacii_nauchnyh_issledovanij
 https://egaxegax.github.io/posts.html?habr/mneniya_12_it-ekspertov_po_povodu_deepseek
 https://egaxegax.github.io/posts.html?habr/mobile_inform_group_predstavila_rossijskij_promyshlennyj_smartfon_mig_s6_na_baze_red_os_m
@@ -2347,6 +2350,7 @@ https://egaxegax.github.io/posts.html?habr/nvidia_nachala_lan-vecherinku_geforce
 https://egaxegax.github.io/posts.html?habr/nvidia_podtverdila_nalichie_problem_s_videokartami_serii_rtx_50_s_bsod_i_chernym_ekranom_posle_obnovleniya_drajverov
 https://egaxegax.github.io/posts.html?habr/nvidia_pomogaet_podgotovit_specialistov_po_ii_zapusk_novoj_obrazovatelnoj_programmy
 https://egaxegax.github.io/posts.html?habr/nvidia_predlagaet_resheniya_dlya_obespecheniya_bezopasnosti_i_kontrolya_ai-agentov_na_predpriyatiyah
+https://egaxegax.github.io/posts.html?habr/nvidia_predstavila_rtx_5060_ti_i_rtx_5060_ot_299_start_prodaj_s_16_aprelya
 https://egaxegax.github.io/posts.html?habr/nvidia_predstavlyaet_avtonomnyh_igrovyh_personajej_ace_s_iskusstvennym_intellektom
 https://egaxegax.github.io/posts.html?habr/nvidia_priobrela_izrailskuju_kompaniju_runai_specializirujushchujusya_na_infrastrukture_iskusstvennogo_intellekta
 https://egaxegax.github.io/posts.html?habr/nvidia_priznala_chto_takje_vypustila_graficheskie_chipy_dlya_videokart_rtx_5080_bez_chastej_blokov_renderinga_rop
@@ -2384,12 +2388,14 @@ https://egaxegax.github.io/posts.html?habr/openai_teper_raskryvaet_bolshe_inform
 https://egaxegax.github.io/posts.html?habr/openai_tiho_profinansirovala_nezavisimyj_matematicheskij_benchmark_pered_ustanovleniem_rekorda_s_o3
 https://egaxegax.github.io/posts.html?habr/openai_vnedrila_v_chatgpt_generaciju_tochnyh_izobrajenij_na_baze_gpt-4o
 https://egaxegax.github.io/posts.html?habr/openai_vozvrashchaetsya_v_sferu_robototehniki
+https://egaxegax.github.io/posts.html?habr/openai_vypustila_novye_rekordnye_modeli_o3_i_o4-mini
 https://egaxegax.github.io/posts.html?habr/openai_zablokirovala_akkaunty_chatgpt_ispolzuemye_severokorejskimi_hakerami
 https://egaxegax.github.io/posts.html?habr/openai_zablokirovala_injenera_kotoryj_sozdal_robotizirovannuju_vintovku-chasovogo_na_baze_chatgpt
 https://egaxegax.github.io/posts.html?habr/openai_zapustila_ploshchadku_s_kursami_po_nejrosetyam_i_chat-botam
 https://egaxegax.github.io/posts.html?habr/openai_zayavlyaet_chto_ee_sovet_direktorov_edinoglasno_otklonil_zayavku_ilona_maska
 https://egaxegax.github.io/posts.html?habr/openevidence_privlekaet_75_millionov_dlya_rasshireniya_ispolzovaniya_ii_v_medicine
 https://egaxegax.github.io/posts.html?habr/opensors-proekty_automapper_i_mediatr_stanut_kommercheskimi
+https://egaxegax.github.io/posts.html?habr/operator_svyazi_t2_protestiroval_sim-karty_rossijskogo_proizvoditelya_mikroelektroniki_mikron
 https://egaxegax.github.io/posts.html?habr/operatorov_svyazi_obyajut_opoveshchat_banki_o_podozritelnyh_zvonkah_i_sms
 https://egaxegax.github.io/posts.html?habr/operatory_svyazi_rf_nachali_menyat_kitajskoe_jelezo_na_otechestvennoe
 https://egaxegax.github.io/posts.html?habr/operatory_zaryadnyh_stancij_poprosili_vernut_lgotu_na_besplatnyj_proezd_po_platnym_trassam_dlya_zarubejnyh_elektrokarov
@@ -2458,6 +2464,7 @@ https://egaxegax.github.io/posts.html?habr/predstavlen_proekt_pdftris_tetris_v_p
 https://egaxegax.github.io/posts.html?habr/predstavlen_proekt_po_vizualizacii_vseh_knig_mira_v_isbn-space
 https://egaxegax.github.io/posts.html?habr/predstavlen_proekt_steam_brick_steam_deck_1_tb_oled_bez_ekrana_bez_kontrollerov_tolko_knopka_pitaniya_i_port_usb
 https://egaxegax.github.io/posts.html?habr/predstavlen_standart_hdmi_2_2
+https://egaxegax.github.io/posts.html?habr/predstavlena_oficialnaya_versiya_instrumenta_stress-testirovaniya_oborudovaniya_occt_dlya_linux
 https://egaxegax.github.io/posts.html?habr/predstavlena_otkrytaya_interaktivnaya_karta_jizni_gde_kajdaya_nedelya_eto_malenkij_pryamougolnik
 https://egaxegax.github.io/posts.html?habr/predstavlena_raspredelennaya_subd_citus_13_0_realizovannaya_v_forme_rasshireniya_k_postgresql_17
 https://egaxegax.github.io/posts.html?habr/predstavlena_solnechnaya_shlyapa_ecoflow_power_hat_kotoraya_mojet_podzaryajat_do_dvuh_mobilnyh_gadjetov_odnovremenno
@@ -2711,6 +2718,7 @@ https://egaxegax.github.io/posts.html?habr/uchenye_nashli_idealnyj_sposob_prigot
 https://egaxegax.github.io/posts.html?habr/uchenye_nashli_luchshij_sposob_privlech_vnimanie_sobaki
 https://egaxegax.github.io/posts.html?habr/uchenye_proverili_sposobnost_ai_k_prichinno-sledstvennomu_myshleniju_rezultaty_udivili
 https://egaxegax.github.io/posts.html?habr/uchenye_rasskazali_kakie_privychki_pomogut_zamedlit_starenie_mozga
+https://egaxegax.github.io/posts.html?habr/uchenye_razrabotali_metod_transportirovki_metana_v_tverdom_vide
 https://egaxegax.github.io/posts.html?habr/uchenye_razrabotali_tehnologiju_pozvolyajushchuju_sozdat_gibkij_tranzistor_s_elektroliticheskim_zatvorom
 https://egaxegax.github.io/posts.html?habr/uchenye_s_pomoshchju_ii_prochli_zacherknutye_slova_v_rukopisyah_pushkina
 https://egaxegax.github.io/posts.html?habr/uchenye_smart_engines_razrabotali_sverhbystrye_algoritmy_dlya_novogo_pokoleniya_kompjuternyh_tomografov_pod_upravleniem_ii
@@ -7394,6 +7402,7 @@ https://egaxegax.github.io/posts.html?sports_ru/250413_0800
 https://egaxegax.github.io/posts.html?sports_ru/250414_0800
 https://egaxegax.github.io/posts.html?sports_ru/250415_0800
 https://egaxegax.github.io/posts.html?sports_ru/250416_0800
+https://egaxegax.github.io/posts.html?sports_ru/250417_0000
 https://egaxegax.github.io/posts.html?tajny
 https://egaxegax.github.io/posts.html?tajny/1000_budd_mayak_v_pustyne_strannye_kanaly
 https://egaxegax.github.io/posts.html?tajny/1111_na_chasah_znak_angelov_ili_sboj_v_realnosti
