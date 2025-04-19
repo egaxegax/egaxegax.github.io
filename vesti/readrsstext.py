@@ -50,7 +50,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
           ptitl = titl+' <a class="nodecor" href="{link}">&lt;...&gt;</a>'.format(link=link, titl=tr_chars(titl, 255))
           pdate = parsePubDate(item)
           text = """
-<p class="rssn table">
+<p class="rssn">
   {titl}
 </p>""".format(titl=ptitl)
           fp.write(text)

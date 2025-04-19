@@ -53,7 +53,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
           if ii == 0: ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
           else: ctime = ''
           text = """{ctime}
-<div class="rssn table">
+<div class="rssn">
   <div><span class="smaller gray hspace">{ph}:{pmi}</span> {titl}</div>
 </div>""".format(ctime=ctime, titl=ptitl, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
           fp.write(text)

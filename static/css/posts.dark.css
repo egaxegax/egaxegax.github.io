@@ -4,7 +4,7 @@
 .gray { color:#aaa; }
 .light { color:#9ac495; }
 .counter { color:#59a750; }
-body,text { background:rgb(52,55,60); color:#eee; } 
+body,text { background:rgb(50,53,57); color:#eee; } 
 a, a:active, a:focus { color:#f4c430; }
 b,i,em,h4,h5 { color:#aaa; }
 b em, strong em { color:#f4c430; }
@@ -13,8 +13,8 @@ div.about { background:rgb(75,78,83); border:1px solid #606060; }
 pre { background:#eee; color:#222; border-radius:2px; }
 input[type=text], select { background:rgb(114,112,113); color:#fff; }
 li::marker { color:green; }
-#root { background:rgb(55,58,63); }
-#header, #page_header, #ya_rtb_hd { background:rgb(55,58,63); width:100%; }
+#root { background:rgb(52,55,60); }
+#header, #page_header, #ya_rtb_hd { background:rgb(52,55,60); width:100%; }
 #page_footer button { background:#fff; }
 /**/
 h2 a {text-decoration:none; outline:none;}
