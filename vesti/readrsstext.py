@@ -10,7 +10,7 @@ RSSlist = {
   'anekdot_10': {'hdr':'Анекдоты из России', 'url':'https://www.anekdot.ru/rss/export_top.xml'},
 }
 
-import os, sys, time, re, locale
+import os, sys, time, re, locale, random
 import xml.etree.ElementTree as ET
 from urllib.request import Request, urlopen
 
@@ -31,7 +31,7 @@ def parsePubDate(item):
     print('pubDate %s is incorrect!!!' % pdate)
     return time.localtime()
 
-total = 10
+total = random.randint(0, 10)
 fcount = 0
 
 for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id in sys.argv]):
@@ -40,22 +40,22 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
       cdtm = parsePubDate(channel)
       if not os.path.exists(os.path.join(cdir, str(cdtm.tm_year))):
         os.mkdir(os.path.join(cdir, str(cdtm.tm_year)))
-      with open(os.path.join(cdir, str(cdtm.tm_year), '{y}{m}{d} {h}{c}.md'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % ri))), 'w+', encoding='utf-8', newline='\n') as fp:
-        locale.setlocale(locale.LC_ALL, 'Russian')
-        fp.write('<h2>'+prm['hdr']+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>')
-        locale.setlocale(locale.LC_ALL, 'C')
-        for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
+      for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii == total]:
+        with open(os.path.join(cdir, str(cdtm.tm_year), '{y}{m}{d} {h}{c}.md'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % (ri+ii)))), 'w+', encoding='utf-8', newline='\n') as fp:
+          # locale.setlocale(locale.LC_ALL, 'Russian')
+          # fp.write('<h2>'+prm['hdr']+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>')
+          # locale.setlocale(locale.LC_ALL, 'C')
           link = item.find('link').text
           titl = item.find('description').text
-          ptitl = titl+' <a class="nodecor" href="{link}">&lt;...&gt;</a>'.format(link=link, titl=tr_chars(titl, 255))
           pdate = parsePubDate(item)
           text = """
-<p class="rssn">
-  {titl}
-</p>""".format(titl=ptitl)
+<div class="rssn">
+  <div>{titl}</div><br>
+  <div class="hspace small"><a class="nodecor" href="{link}"><i>Анекдот дня</i></a></div>
+</div>""".format(titl=titl, link=link)
           fp.write(text)
           fcount += 1
-      print(prm['hdr'], prm['url'], '(%s)' % (ii,))
+        print(prm['hdr'], prm['url'], '(%s)' % (ii,))
 
 if fcount:
   time.sleep(1)
