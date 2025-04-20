@@ -36,29 +36,29 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
 //}
 { // Octoclick.com ads
   //<div id="i5a631-65859c-11334" class="i5a631-65859c"></div>
-  (function(o, c, t, l, i) {
-    for (i = 0; i < o.scripts.length; i++) { if (o.scripts[i].src === c) { return; } }
-    l = o.createElement("script");
-    l.src = c + "?" + Date.now();
-    l.setAttribute("async", "");
-    l.setAttribute("data-id", t);
-    o.body.appendChild(l);
-  })(document, "https://Octo25.me/lib.js", "i5a631-65859c");
+  // (function(o, c, t, l, i) {
+  //   for (i = 0; i < o.scripts.length; i++) { if (o.scripts[i].src === c) { return; } }
+  //   l = o.createElement("script");
+  //   l.src = c + "?" + Date.now();
+  //   l.setAttribute("async", "");
+  //   l.setAttribute("data-id", t);
+  //   o.body.appendChild(l);
+  // })(document, "https://Octo25.me/lib.js", "i5a631-65859c");
 }
 { // Yandex metrica
-  window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
-  setTimeout(function(e){ if(e=document.querySelector('img[data-cid="65044687"]')){
+  setTimeout(function(){ 
     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments);};
     m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
     (window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
     ym(65044687, 'init', { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true });
-    e.src = '//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews';
-  }},100);
+  },100);
+  if(e=document.getElementById('metrics')) e.innerHTML += '<a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Я.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a>';
+  window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
 }
 { // Yandex reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
-   (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
+  (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10, widget:11, inimage:12};
   window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,rtbid,typ,p_dark){
@@ -95,14 +95,15 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   });
 }
 { // Mail.ru metrica
-  (function (d,w,id) {
+  setTimeout((function(d,w,id){
     (w._tmr = w._tmr || []).push({id:'3596974',type:'pageView',start:(new Date()).getTime()});
     if (d.getElementById(id)) return;
     var ts = d.createElement('script'); ts.type = 'text/javascript'; ts.async = true; ts.id = id;
     ts.src = '//top-fwz1.mail.ru/js/code.js';
     var f = function(){var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
     if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
-  })(document, window, 'tmr-code');
+  })(document, window, 'tmr-code'));
+  if(e=document.getElementById('metrics')) e.innerHTML += '<a href="https://top-fwz1.mail.ru/jump?from=3596974"><img src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" width="70" alt="Top.Mail.Ru" style="border:0;" /></a>';
 }
 { // VK reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
