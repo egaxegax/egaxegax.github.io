@@ -39,7 +39,7 @@ input[type=text], input[type=password], input[type=number], textarea, select { b
 .yb .smaller2 { font-size:90%; }
 .yb .smaller3 { display:none; }
 /* habr */
-.rss { min-height:150px; line-height:1.15; }
+.rss { min-height:150px; line-height:1.3em; }
 .rss img { border-radius:3px; }
 .rss strong { font-weight:normal; }
 @media all and (max-width:800px){ .rss img { margin:0 10px 5px 0 !important; } }
