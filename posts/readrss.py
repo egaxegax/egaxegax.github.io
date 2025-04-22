@@ -6,10 +6,10 @@
 #
 
 RSSlist = {
-  'eadaily': {'hdr':'Подборка новостей/EADaily', 'hdr2':'Вести', 'url':'https://eadaily.com/ru/rss/index.xml'},
-  'ria': {'hdr':'Подборка новостей/РИА', 'hdr2':'Новости', 'url':'https://ria.ru/export/rss2/index.xml'},
-  'rambler': {'hdr':'Подборка новостей/Рамблер', 'Известия':'Спорт', 'url':'http://news.rambler.ru/rss/world/'},
-  'sports': {'hdr':'Подборка новостей/Sports.ru', 'hdr2':'Спорт', 'url':'https://sports.ru/rss/all_news.xml'}
+  'eadaily': {'hdr':'Подборка новостей/EADaily',  'hdr2':'Вести',  'url':'https://eadaily.com/ru/rss/index.xml'},
+  'ria':     {'hdr':'Подборка новостей/РИА',      'hdr2':'События','url':'https://ria.ru/export/rss2/index.xml'},
+  'rambler': {'hdr':'Подборка новостей/Рамблер',  'hdr2':'Известия',  'url':'http://news.rambler.ru/rss/world/'},
+  'sports':  {'hdr':'Подборка новостей/Sports.ru','hdr2':'Спорт',  'url':'https://sports.ru/rss/all_news.xml'}
 }
 
 import os, sys, time, re, locale
@@ -36,7 +36,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
         os.mkdir(os.path.join(cdir, prm['hdr']))
       with open(os.path.join(cdir, prm['hdr'], '{y}{m}{d} {h}{c}.md'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % ri))), 'w+', encoding='utf-8', newline='\n') as fp:
         locale.setlocale(locale.LC_ALL, 'Russian')
-        fp.write('<h2>'+os.path.dirname(prm['hdr2'])+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>')
+        fp.write('<h2>'+prm['hdr2']+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>')
         locale.setlocale(locale.LC_ALL, 'C')
         for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
           link = item.find('link').text

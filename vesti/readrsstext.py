@@ -6,7 +6,7 @@
 #
 
 RSSlist = {
-  'anekdot_day': {'hdr':'Анекдоты из России', 'url':'https://www.anekdot.ru/rss/export20.xml'},
+  'anekdot_day':{'hdr':'Анекдоты из России', 'url':'https://www.anekdot.ru/rss/export20.xml'},
   'anekdot_10': {'hdr':'Анекдоты из России', 'url':'https://www.anekdot.ru/rss/export_top.xml'},
 }
 
