@@ -78,8 +78,8 @@
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
           .replace('hqdefault.jpg', 'mqdefault.jpg');  // fix youtube 16:9 img size 
-    updateMetaTag('description', 'смотреть '+p.subj+', '+html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255) + ' ' + (urlParams().page||''));
-    updateMetaTag('keywords', p.subj+', '+p.title[2]+', смотреть, видео, посты');
+    updateMetaTag('description', buildSubPath(ROOTS, SUBJ, p.title[0]).replace(' / ', ', ')+', '+html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255) + ' ' + (urlParams().page||''));
+    updateMetaTag('keywords', p.subj+', '+p.title[2]+', читать, смотреть, видео, посты, статьи');
     if(p.view == 'post' && html.search('data-videoid')>-1){
       html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
         '<iframe class="embed" align="middle" '+

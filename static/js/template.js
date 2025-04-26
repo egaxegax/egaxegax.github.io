@@ -95,7 +95,7 @@ function fixHeader(rtb_offset, offsTop){
 // build path to title from TITLES from index.js
 //
 function buildSubPath(roots, subjects, subjkey){
-  var root = roots[ subjects[subjkey][3] ][0],
+  var root = roots[ subjects[subjkey][3]][0],
       subj = subjects[subjkey][0];
   return (root == '.') ? subj : root + ' / ' + subj;
 }
