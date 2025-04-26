@@ -62,7 +62,7 @@
   function addLast(r,p,ci){
     var text = r.replace(/\<\!--.*--\>\s*/, '');
     updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
-    updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, авторы, жанры');
+    updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext inlbl vmid tcenter" style="min-width:110px; max-width:110px">'+
     '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
@@ -155,9 +155,9 @@
     window.BOOKS = TITLES;
     var page_header = 
   '<div class="table">'+
-    '<div class="tcell vmid"><h1>Описаний <b><i>$COUNT</i></b> по разным&ensp;'+
-      '<a class="nodecor" href="/bwrts.html"><i>Авторам</a></i>&nbsp; '+
-      '<a class="nodecor" href="/bgenres.html"><i>Жанрам</a></i></h1>'+
+    '<div class="tcell vmid"><h1>Описаний <b><i>$COUNT</i></b> по разным&emsp;'+
+      '<a class="nodecor" href="/bwrts.html"><i>Авторам</i></a>&nbsp; '+
+      '<a class="nodecor" href="/bgenres.html"><i>Жанрам</i></a></h1>'+
     '</div>'+
     '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
   '</div>';
