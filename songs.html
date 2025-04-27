@@ -11,8 +11,8 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Аккорды / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250421">
-<link rel="stylesheet" href="/static/css/songs.css?250419">
+<link rel="stylesheet" href="/static/css/main.css?250427">
+<link rel="stylesheet" href="/static/css/songs.css?250427">
 <style>
 .about img { max-width:100px; padding-right:10px; }
 .chords { line-height:1.3em; }
@@ -21,13 +21,13 @@
 .rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/metrics.js?250420" data-floor="1"></script>
+<script src="/static/js/metrics.js?250427" data-floor="1"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
 <script src="/static/js/3rdparty/jtab.js?v1.1.10"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?250305"></script>
+<script src="/static/js/template.js?250427"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap tcenter">
@@ -72,7 +72,7 @@
         '<a class="hspace1 nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' </a><br>'+
       '</td>'+
       '<td valign="center" align="right" class="light" width="1%">'+
-        '<i class="small">'+(p.i+1)+'</i>&ensp;'+
+        '<i class="small counter">'+(p.i+1)+'</i>&ensp;'+
         '<span class="tooltip small" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
       '</td></tr>'+
     '</table>'+
@@ -118,7 +118,7 @@
     '</div>'+
     '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:40px 0 0 10px;') +'min-width:240px;max-width:240px"></div>'+
   '</div>'+
-  '<div id="chordcont" class="bmarg hspace1 chord mw_f"></div><br>'+
+  '<div id="chordcont" class="bmarg hspace1 chord mw_f"></div>'+
   '<div class="msgfooter">'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
@@ -172,20 +172,6 @@
       var subj = arts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.addYaRTB_Block || window.addVkRTB_Block) {
-        // if(window.innerWidth<900){
-        //   if((i-1)==0){
-        //     document.getElementById('page_content').innerHTML += 
-        //   '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
-        //     addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[4]);
-        //   }
-        // } else if(i==0) {
-        //   document.getElementById('rbar').innerHTML += 
-        // '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
-        //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[4]);
-        // }
-        addVkRTB_BlockTag(document.getElementById('page_content'), '0_s', 'trg-b-banner floating');
-      }
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
@@ -222,7 +208,7 @@
       '<i><a class="nodecor" href="/posts.html?samouchitel_igry_na_gitare"><i>Уроки</i></a>&nbsp; '+
       '<i><a class="nodecor finder" href="/research.html"><i>Поиск</i></a></h1> '+
     '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -242,7 +228,7 @@
           page_header = 
         '<div class="table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
         }
@@ -258,7 +244,7 @@
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<h1>'+SONGS[0][2]+'</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
 //          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
@@ -274,7 +260,7 @@
             '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
             '<i class="hspace counter">('+ SONGS.length+')</i></h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page

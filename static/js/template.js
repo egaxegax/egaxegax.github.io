@@ -9,6 +9,22 @@ function arraySort(aa,bb){
   return 0;
 }
 //
+// change action link href to light/dark css
+//
+function actionChStyle(p,e){
+  if(e=document.querySelector("link[href^='/static/css/"+p+".css']")){
+    e.href = "/static/css/"+p+".dark.css";
+    [].slice.call(document.querySelectorAll('#header img')).map(function(o){
+      o.src = o.src.replace(p+'.svg', p+'_a.svg').replace('_b.svg', '_l.svg');
+    });
+  } else if(e=document.querySelector("link[href^='/static/css/"+p+".dark.css']")){
+    e.href = "/static/css/"+p+".css";
+    [].slice.call(document.querySelectorAll('#header img')).map(function(o){
+      o.src = o.src.replace(p+'_a.svg', p+'.svg').replace('_l.svg', '_b.svg');
+    });
+  }
+}
+//
 // find action
 //
 function actionFind(){
@@ -21,7 +37,10 @@ function actionFind(){
 //
 // return html for find input
 //
-function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">&ensp;'; }
+function addFinder(p){ return ''+
+  '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">'+
+  '<button class="rounded chstyle dark" onclick="actionChStyle(\''+p+'\')" title="">&#9680;</button>'; 
+}
 //
 // return loader image html
 //

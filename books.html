@@ -13,10 +13,10 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250421">
 <link rel="stylesheet" href="/static/css/books.css?250305">
-<script src="/static/js/metrics.js?250420" data-floor="1"></script>
+<script src="/static/js/metrics.js?250427" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?250305"></script>
+<script src="/static/js/template.js?250427"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap tcenter">
@@ -86,7 +86,6 @@
     '<a class="nodecor light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+((p.i+(ci||0)))+'</a>&ensp;'+
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
-    if(window.addYaRTB_Block && (window.innerWidth<900) && (p.i%3 == 0 || ci == undefined)) addYaRTB_Block('ya_rtb_'+(p.i), YA_RTB[5]);
   }
   
   function addAbout(r,p){
@@ -115,15 +114,6 @@
       var subj = wrts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
-      if(window.addYaRTB_Block){
-        // if(window.innerWidth<900){
-        // } else if(i==0){
-        //   document.getElementById('rbar').innerHTML += 
-        // '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar"></div>';
-        //   addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB[5]);
-        // }
-        addVkRTB_BlockTag(document.getElementById('page_content'), '1_s', 'trg-b-banner floating');
-      }
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
       upfunc({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('books')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
@@ -159,7 +149,7 @@
       '<a class="nodecor" href="/bwrts.html"><i>Авторам</i></a>&nbsp; '+
       '<a class="nodecor" href="/bgenres.html"><i>Жанрам</i></a></h1>'+
     '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -179,7 +169,7 @@
           page_header = 
         '<div class="table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
@@ -194,7 +184,7 @@
             '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<h1>'+BOOKS[0][2]+'</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
           BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
@@ -218,7 +208,7 @@
               '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
             '</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder()+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
         '</div>';
           if(gnr.length>0){
             document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;

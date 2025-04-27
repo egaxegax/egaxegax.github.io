@@ -8,5 +8,5 @@
   <path id="path975" fill="#fff" stroke-width=".5" d="M120.5 0v240h80V0zM0 80v80h320V80z"/>
   <path id="path977" fill="#c8102e" stroke-width=".5" d="M0 96.5v48h320v-48zM136.5 0v240h48V0z"/>
   </g>
-  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Австралия</text>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#aaa">Австралия</text>
 </svg>

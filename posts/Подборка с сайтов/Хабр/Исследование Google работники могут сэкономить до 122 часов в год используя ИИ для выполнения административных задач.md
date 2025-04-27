@@ -1,0 +1,4 @@
+<!--2025-04-27 12:58:02-->
+<div class="yb">
+  <div class="rss habr"><p>Google <a href="https://blog.google/around-the-globe/google-europe/united-kingdom/ais-potential-to-tackle-the-uks-productivity-puzzle/" rel="noopener noreferrer nofollow">выяснила</a>, что работники могут сэкономить около 122 часов в год благодаря использованию ИИ-инструментов для выполнения административных задач. Такие результаты показал эксперимент AI Works, который проходил в Великобритании.</p><p>Результаты показали, что люди могут быстро освоить ИИ: всего за нескольк... <p class="titl"><a href="https://habr.com/ru/news/904858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=904858">Исследование Google: работники могут сэкономить до 122 часов в год, используя ИИ для выполнения административных задач</a></p></div>
+</div>

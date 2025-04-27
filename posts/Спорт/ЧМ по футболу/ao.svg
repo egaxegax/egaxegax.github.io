@@ -12,5 +12,5 @@
   <path fill="#ffec00" fill-rule="evenodd" d="M297.2 305.5l17.8 16-16 17.8-17.8-16z"/>
   <path fill="none" stroke="#000" stroke-width="3" d="M331.5 348.8l-125-75.5m109.6 58.1L274 304.1m18.2 42.7L249.3 322"/>
   </g>
-  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Ангола</text>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#aaa">Ангола</text>
 </svg>

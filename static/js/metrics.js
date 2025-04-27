@@ -34,17 +34,6 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
 //    } else { f(); }
 //  })(window, document, '_top100q');
 //}
-{ // Octoclick.com ads
-  //<div id="i5a631-65859c-11334" class="i5a631-65859c"></div>
-  // (function(o, c, t, l, i) {
-  //   for (i = 0; i < o.scripts.length; i++) { if (o.scripts[i].src === c) { return; } }
-  //   l = o.createElement("script");
-  //   l.src = c + "?" + Date.now();
-  //   l.setAttribute("async", "");
-  //   l.setAttribute("data-id", t);
-  //   o.body.appendChild(l);
-  // })(document, "https://Octo25.me/lib.js", "i5a631-65859c");
-}
 { // Yandex metrica
   setTimeout(function(){
     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments);};
@@ -55,45 +44,45 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   },100);
   window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
 }
-{ // Yandex reklama
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
-   (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
-  window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10, widget:11, inimage:12};
-  window.YA_TMR = [];
-  window.addYaRTB_Block = function(blid,rtbid,typ,p_dark){
-    function ads(){ 
-      function run(){ console.log(blid,rtbid,typ,p_dark);
-        switch(typ){
-        case 'flMob':  window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
-        case 'flDesk': window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
-        case 'fullMob':  window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'fullscreen', platform:'touch'});}); break;
-        case 'inImg':  (function addInImage(images) {
-                          if(!images.length) return;
-                          const image = images.shift();
-                          image.id = `ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`;
-                          // console.log(image);
-                          window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
-                          addInImage(images);
-                        })(Array.from(document.getElementById('page_content').querySelectorAll('img'))); break;
-        case 'widget': window.yaContextCb.push(function(){Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
-        default:       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
-      }}
-      // run();
-      if(!blid) run();
-      else if(document.getElementById(blid))
-        (new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
-    };
-    while(YA_TMR.length) clearInterval(YA_TMR.pop());
-    YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
-    setTimeout(ads);
-  };
-  [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
-    if(sp.getAttribute('data-floor')) addYaRTB_Block('', 1, 'flMob', sp.getAttribute('data-dark')!=null);
-    if(sp.getAttribute('data-floordesk')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);
-    if(sp.getAttribute('data-fullscr')) addYaRTB_Block('', 13, 'fullMob', sp.getAttribute('data-dark')!=null);
-  });
-}
+// { // Yandex reklama
+//   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
+//    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
+//    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
+//   window.YA_RTB = {1:3, 2:4, 3:5, 4:6, 5:7, 6:8, 7:9, feed:10, widget:11, inimage:12};
+//   window.YA_TMR = [];
+//   window.addYaRTB_Block = function(blid,rtbid,typ,p_dark){
+//     function ads(){ 
+//       function run(){ console.log(blid,rtbid,typ,p_dark);
+//         switch(typ){
+//         case 'flMob':  window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd'});}); break;
+//         case 'flDesk': window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'floorAd', platform:'desktop'});}); break;
+//         case 'fullMob':  window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, type:'fullscreen', platform:'touch'});}); break;
+//         case 'inImg':  (function addInImage(images) {
+//                           if(!images.length) return;
+//                           const image = images.shift();
+//                           image.id = `ya_rtb_${blid}-${Math.random().toString(16).slice(2)}`;
+//                           // console.log(image);
+//                           window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:image.id, type:'inImage'});});
+//                           addInImage(images);
+//                         })(Array.from(document.getElementById('page_content').querySelectorAll('img'))); break;
+//         case 'widget': window.yaContextCb.push(function(){Ya.Context.AdvManager.renderWidget({darkTheme:p_dark, blockId:'C-A-7295044-'+rtbid, renderTo:blid});}); break;
+//         default:       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-7295044-'+rtbid, renderTo:blid, type:typ});}); break;
+//       }}
+//       // run();
+//       if(!blid) run();
+//       else if(document.getElementById(blid))
+//         (new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
+//     };
+//     while(YA_TMR.length) clearInterval(YA_TMR.pop());
+//     YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
+//     setTimeout(ads);
+//   };
+//   [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
+//     if(sp.getAttribute('data-floor')) addYaRTB_Block('', 1, 'flMob', sp.getAttribute('data-dark')!=null);
+//     if(sp.getAttribute('data-floordesk')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);
+//     if(sp.getAttribute('data-fullscr')) addYaRTB_Block('', 13, 'fullMob', sp.getAttribute('data-dark')!=null);
+//   });
+// }
 { // Mail.ru metrica
   setTimeout(function(){
     (function(d,w,id){
@@ -105,23 +94,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
     })(document, window, 'tmr-code');
     document.getElementById('metrics1').innerHTML += '<a href="https://top-fwz1.mail.ru/jump?from=3596974"><img src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;" /></a>';
-  },150);
-}
-{ // VK reklama
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
-   (window, document, 'script', '//ad.mail.ru/static/ads-async.js', 'MRGtag');
-  window.VK_RTB = {'0_1':1542915, '0_f':1768373, '0_c':1768394, '0_s':1768388, '0_240':1768926, '0_300':1774555, '0_32':1774906, '0_36':1779833,
-                   '1_1':1490223, '1_f':1768405, '1_c':1772383, '1_s':1779837, '1_240':1772802, '1_300':1774557, '1_32':1774908, '1_36':1779835 };
-  window.addVkRTB_Block = function(){ 
-    (MRGtag = window.MRGtag || []).push({});
-  };
-  window.addVkRTB_BlockTag = function(elem,rtbid,cls){ 
-    if(!elem.querySelector('ins[data-ad-client="ad-'+VK_RTB[rtbid]+'"]')){
-      elem.innerHTML += '<ins class="mrg-tag '+(cls||'')+'" data-ad-client="ad-'+VK_RTB[rtbid]+'" data-ad-slot="'+VK_RTB[rtbid]+'"></ins>';
-      setTimeout(addVkRTB_Block);
-    }
-  };
+  },100);
 }
 { // VK Widget Like
   (function(m,e,t,r,i,k,a){

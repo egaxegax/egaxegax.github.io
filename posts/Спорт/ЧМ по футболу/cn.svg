@@ -10,5 +10,5 @@
   <use width="30" height="20" transform="matrix(6.5991 -23.0749 23.0746 6.59919 288 168)" xlink:href="#a"/>
   <use width="30" height="20" transform="matrix(14.9991 -18.73557 18.73533 14.99929 240 216)" xlink:href="#a"/>
   </g>
-  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Китай</text>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#aaa">Китай</text>
 </svg>

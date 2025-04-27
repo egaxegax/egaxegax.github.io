@@ -11,5 +11,5 @@
     <path fill="#d72828" d="M0 213.3h213.3V0h53.4v213.3h400v53.4h-400V480h-53.4V266.7H0v-53.4z"/>
   </g>
   </g>
-  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Исландия</text>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#aaa">Исландия</text>
 </svg>

@@ -3,5 +3,5 @@
   <path fill="#0065bd" d="M0 0h640v480H0z"/>
   <path stroke="#fff" stroke-width=".6" d="M0 0l5 3M0 3l5-3" transform="scale(128 160)"/>
   </g>
-  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Шотландия</text>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#aaa">Шотландия</text>
 </svg>

@@ -675,5 +675,5 @@
   <path fill="#452c25" d="M314.6 194.4s-.2.2-.2.5v.2"/>
   <path fill="#574f4c" d="M323.3 194l.7.5a.5.5 0 00-.1-.1 6.5 6.5 0 00-.7-.6.6.6 0 000 .1"/>
   </g>
-  <text x="28" y="15" font-size="16px" font-family="arial" fill="#333">Боливия</text>
+  <text x="28" y="15" font-size="16px" font-family="arial" fill="#aaa">Боливия</text>
 </svg>
