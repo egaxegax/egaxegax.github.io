@@ -2,6 +2,7 @@
 .wrap { background:rgb(68,71,76); }
 .dark { color:#eee; }
 .gray { color:#aaa; }
+.light { color:#9ac495; }
 .counter { color:#59a750; }
 body { background:rgb(50,53,57); color:#eee; } 
 a, a:active, a:focus { color:#ffbc00; }
