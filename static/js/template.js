@@ -11,16 +11,17 @@ function arraySort(aa,bb){
 //
 // change action link href to light/dark css
 //
-function actionChStyle(p,e){
+function actionChStyle(p,pm,e){
+  if(!pm) pm = p;
   if(e=document.querySelector("link[href^='/static/css/"+p+".css']")){
     e.href = "/static/css/"+p+".dark.css";
     [].slice.call(document.querySelectorAll('#header img')).map(function(o){
-      o.src = o.src.replace(p+'.svg', p+'_a.svg').replace('_b.svg', '_l.svg');
+      o.src = o.src.replace(pm+'.svg', pm+'_a.svg').replace('_b.svg', '_l.svg');
     });
   } else if(e=document.querySelector("link[href^='/static/css/"+p+".dark.css']")){
     e.href = "/static/css/"+p+".css";
     [].slice.call(document.querySelectorAll('#header img')).map(function(o){
-      o.src = o.src.replace(p+'_a.svg', p+'.svg').replace('_l.svg', '_b.svg');
+      o.src = o.src.replace(pm+'_a.svg', pm+'.svg').replace('_l.svg', '_b.svg');
     });
   }
 }
