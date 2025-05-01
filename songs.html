@@ -208,7 +208,7 @@
       '<i><a class="nodecor" href="/posts.html?samouchitel_igry_na_gitare"><i>Уроки</i></a>&nbsp; '+
       '<i><a class="nodecor finder" href="/research.html"><i>Поиск</i></a></h1> '+
     '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("songs")+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -228,7 +228,7 @@
           page_header = 
         '<div class="table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("songs")+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
         }
@@ -244,7 +244,7 @@
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<h1>'+SONGS[0][2]+'</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("songs")+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
 //          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
@@ -260,7 +260,7 @@
             '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
             '<i class="hspace counter">('+ SONGS.length+')</i></h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("songs")+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
           SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page

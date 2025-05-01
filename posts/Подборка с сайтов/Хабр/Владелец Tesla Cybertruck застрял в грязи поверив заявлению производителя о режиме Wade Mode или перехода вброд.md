@@ -1,0 +1,4 @@
+<!--2025-04-28 14:38:40-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/1d7/484/821/1d7484821b28a129c569eb812b568e63.jpg" /><p>Владелец Tesla Cybertrack поверил утверждениям главы компании Илона Маска о&nbsp;том, что&nbsp;этот автомобиль может плавать «как лодка» и пересекать реки и другие водные препятствия, в&nbsp;результате чего застрял в&nbsp;грязи. Его историю <a href="https://electrek.co/2025/04/26/tesla-cybertruck-owner-stuck-beliving-elon-musks-river-crossing-claim/" rel="noopene... <p class="titl"><a href="https://habr.com/ru/news/905216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=905216">Владелец Tesla Cybertruck застрял в грязи, поверив заявлению производителя о режиме Wade Mode или «перехода вброд»</a></p></div>
+</div>

@@ -45,8 +45,8 @@
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
   '<div class="tcell vmid"><h1 id="foto_header">'+'Подборка фоток на разные темы&emsp; <a class="nodecor" href="/fotki.html"><i>Ещё</i></a>'+'</h1></div>'+
-  '<div class="tcell tright vmid smaller1" style="width:45%">'+
-    '<select id="albumlist" style="max-width:100px"></select>'+
+  '<div class="tcell tright vmid smaller1" style="width:35%">'+
+    '<select id="albumlist" style="max-width:75px"></select>'+
     '<button class="rounded chstyle dark" onclick="actionChStyle(\'foto\',\'fotki\')" title="">&#9680;</button>'+
   '</div>'+
 '</div>';
@@ -64,12 +64,20 @@
   '<div id="ya_rtb_'+p.i+'" class="bmarg mw_1 mh_sm"></div>'+
   '<div class="msgfooter tright mw_f nowrap scroll">'+
     '<table><tr>'+
-      '<td width="99%">'+
-        '<a class="hspace nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+ p.title[2]+ '</a></td>'+
-      '<td><a class="nodecor counter" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>&ensp;'+
-        '<span class="tooltip" title="снято '+buildDate(p.title[3])+'"> &#128343; </span></td>'+
+      '<td id="vklike'+(p.i)+'" width="90px"></td>'+
+      '<td align="center">'+
+        '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
+          ((window.innerWidth<800 && p.title[2].length>32) ? p.title[2].slice(0,28)+'...' : p.title[2])+
+        '</a>'+
+      '</td>'+
+      '<td width="1%">'+
+        '<a class="hspace nodecor counter" href="/fotki.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>'+
+        '<span class="tooltip" title="снято '+buildDate(p.title[3])+'"> &#128343; </span>'+
+      '</td>'+
     '</tr></table>'+
   '</div>';
+    if(window.VK) if(!VK.IsInit) VK.IsInit = VK.init({ apiId: 4748959, onlyWidgets: true });
+    if(window.VK) if(VK.Widgets) VK.Widgets.Like('vklike'+p.i, {type: 'mini', height: 22});
     // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', YA_RTB['inimage'], 'inImg');
   }
 
@@ -101,7 +109,7 @@
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); },500);
     return (page.titles.length == 0);
   }
 
@@ -151,7 +159,7 @@
     addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-100){
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
         addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
       }
     });

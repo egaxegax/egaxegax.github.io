@@ -45,8 +45,8 @@
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
   '<div class="tcell vmid"><h1 id="foto_header">'+'Подборка фоток на разные темы&emsp; <a class="nodecor" href="/foto.html"><i>Другие</i></a>'+'</h1></div>'+
-  '<div class="tcell tright vmid smaller1" style="width:40%">'+
-    '<select id="albumlist" style="max-width:100px"></select>'+
+  '<div class="tcell tright vmid smaller1" style="width:35%">'+
+    '<select id="albumlist" style="max-width:75px"></select>'+
     '<button class="rounded chstyle dark" onclick="actionChStyle(\'foto\',\'fotki\')" title="">&#9680;</button>'+
   '</div>'+
 '</div>';
@@ -108,7 +108,7 @@
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); },500);
     return (page.titles.length == 0);
   }
 
@@ -159,7 +159,7 @@
     addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-150){
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-100){
         addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
       }
     });
