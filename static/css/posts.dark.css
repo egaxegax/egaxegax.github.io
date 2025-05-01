@@ -32,7 +32,7 @@ img { max-width:100%; border-radius:2px; }
 .br {border-right:1px dotted #eee;}
 .bb {border-bottom:1px dotted #eee;}
 .mb {padding-bottom:10px;}
-/* youtube, dzen playlist */
+/* youtube, dzen */
 .yb a { color:#eee; }
 .yb .preview { width:240px; border-radius:5px; margin:0 10px 5px 0; }
 .yb iframe.embed { border:0; width:100%; height:30vw; margin:0 10px 5px 0; }
@@ -43,10 +43,12 @@ img { max-width:100%; border-radius:2px; }
 .yb .smaller3 { display:none; }
 /* habr */
 .rss { min-height:150px; line-height:1.3em; }
-.rss img { border-radius:3px; }
+.rss p { margin-top:5px; }
 .rss strong { font-weight:normal; }
-@media all and (max-width:800px){ .rss img { margin:0 10px 5px 0 !important; } }
-@media all and (min-width:800px){ .rss img { max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
+.kino_teatr img { margin:0 10px 0 0 !important; }
+.kino_kino img { margin:0 10px 0 0 !important; }
+@media all and (max-width:800px){ .rss img { margin: -10px -15px 0px -15px; max-width: calc(100% + 30px); }}
+@media all and (min-width:800px){ .rss img { border-radius:4px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss ria, eadaily */
 .rssn { margin:5px 0 5px; }
 .rssn a { color:#eee; }
