@@ -9,7 +9,7 @@ RSSlist = {
   'habr': {'hdr':'Подборка с сайтов/Хабр', 'url':'https://habr.com/ru/rss/news/?fl=ru', 'cut':480, 'total':10},
   'kino_kino': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml', 'cut':1000, 'total':5},
   'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml', 'cut':1000, 'total':5},
-  'pikabu': {'hdr':'Подборка с сайтов/Пикабу', 'url':'https://pikabu.ru/xmlfeeds.php?cmd=popular', 'cut':380, 'total':7},
+  # 'povar': {'hdr':'Подборка рецептов/Повар.РУ', 'url':'https://povar.ru/rss', 'cut':480, 'total':5},
   'povarenok': {'hdr':'Подборка рецептов/Поваренок.РУ', 'url':'https://www.povarenok.ru/rss/recipes/', 'cut':480, 'total':5},
   'finecooking': {'hdr':'Подборка рецептов/finecooking.ru', 'url':'https://finecooking.ru/feed/rss', 'cut':480, 'total':7},
 }

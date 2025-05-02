@@ -14,11 +14,13 @@ pre { background:#eee; color:#222; border-radius:2px; }
 input[type=text], select { background:rgb(114,112,113); color:#fff; }
 li::marker { color:green; }
 #root { background:rgb(52,55,60); }
-#header, #page_header, #ya_rtb_hd { background:rgb(52,55,60); width:100%; }
+#header { background:rgb(52,55,60); }
+#header svg g { fill:#eee; stroke:#eee; }
+#header svg g.active { fill:#f4c430; stroke:#f4c430; }
 #page_footer button { background:#fff; }
 /**/
-h2 a {text-decoration:none; outline:none;}
-img { max-width:100%; border-radius:2px; }
+.readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; font-size:93.75%; }
+.readme ul li { padding:2px 0; }
 /* football tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
@@ -45,9 +47,9 @@ img { max-width:100%; border-radius:2px; }
 .rss { min-height:150px; line-height:1.3em; }
 .rss p { margin-top:5px; }
 .rss strong { font-weight:normal; }
-.kino_teatr img { margin:0 10px 0 0 !important; }
-.kino_kino img { margin:0 10px 0 0 !important; }
-@media all and (max-width:800px){ .rss img { margin: -10px -15px 0px -15px; max-width: calc(100% + 30px); }}
+.kino_teatr img { margin:0 10px 10px 0 !important; }
+.kino_kino img { margin:0 10px 10px 0 !important; }
+@media all and (max-width:800px){ .rss img { display:block; margin:-10px -15px 0px -15px; max-width: calc(100% + 30px); }}
 @media all and (min-width:800px){ .rss img { border-radius:4px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss ria, eadaily */
 .rssn { margin:5px 0 5px; }

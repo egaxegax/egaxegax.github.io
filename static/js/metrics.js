@@ -93,7 +93,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       var f = function(){var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
       if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
     })(document, window, 'tmr-code');
-    document.getElementById('metrics1').innerHTML += '<a href="https://top-fwz1.mail.ru/jump?from=3596974"><img src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;" /></a>';
+    document.getElementById('metrics1').innerHTML += '<a href="https://top.mail.ru/stat?id=3596974"><img src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;" /></a>';
   },100);
 }
 { // VK Widget Like

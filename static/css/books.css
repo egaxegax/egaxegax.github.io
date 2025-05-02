@@ -8,10 +8,11 @@ a, a:active, a:focus { color:#3c677b; }
 b,i,em { color: #777; }
 b em { color: #3c677b; }
 h2 { color:#fff; }
-input[type=text], input[type=password], input[type=number], textarea, select { 
-  background:#fff; }
+input[type=text], select { background:#fff; }
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }
+#header svg g { fill:#777; stroke:#777; }
+#header svg g.active { fill:#3c677b; stroke:#3c677b; }
 #page_footer button { background:#379e60; color:#fff; }
 /**/
 .about img { max-width: 120px; padding:0px 10px 0px 0px; }

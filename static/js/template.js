@@ -11,20 +11,19 @@ function arraySort(aa,bb){
 //
 // change action link href to light/dark css
 //
-function actionChStyle(p,pm,e){
-  if(!pm) pm = p;
-  if(e=document.querySelector("link[href^='/static/css/"+p+".css']")){
-    e.href = "/static/css/"+p+".dark.css";
-    [].slice.call(document.querySelectorAll('#header img')).map(function(o){
-      o.src = o.src.replace(pm+'.svg', pm+'_a.svg').replace('_b.svg', '_l.svg');
-    });
-  } else if(e=document.querySelector("link[href^='/static/css/"+p+".dark.css']")){
-    e.href = "/static/css/"+p+".css";
-    [].slice.call(document.querySelectorAll('#header img')).map(function(o){
-      o.src = o.src.replace(pm+'_a.svg', pm+'.svg').replace('_l.svg', '_b.svg');
-    });
-  }
+function actionChStyle(p){
+  document.querySelectorAll("link[href^='/static/css/"+p+"']").forEach(function(e){
+    localStorage.setItem('THEME_URL_'+window.location.pathname, e.href='/static/css/'+p+(e.href.search(p+'.dark.css')>-1 ? '.css' : '.dark.css'));
+  });
 }
+//
+// set link action to light/dark css
+//
+(function actionSetStyle(t){
+  if(t=localStorage.getItem('THEME_URL_'+window.location.pathname)){
+    document.querySelectorAll("link[href^='"+t.slice(0,t.indexOf('.'))+"']").forEach(function(e){ e.href = t; });
+  }
+})()
 //
 // find action
 //
