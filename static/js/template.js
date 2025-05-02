@@ -13,11 +13,11 @@ function arraySort(aa,bb){
 //
 function actionChStyle(p){
   document.querySelectorAll("link[href^='/static/css/"+p+"']").forEach(function(e){
-    localStorage.setItem('THEME_URL_'+window.location.pathname, e.href='/static/css/'+p+(e.href.search(p+'.dark.css')>-1 ? '.css' : '.dark.css'));
+    localStorage.setItem('THEME_URL_'+window.location.pathname, e.href='/static/css/'+p+(e.href.search(p+'.dark.css')>-1 ? '.css' : '.dark.css')+'?'+(+Date.now()));
   });
 }
 //
-// set link action to light/dark css
+// do link action to light/dark css
 //
 (function actionSetStyle(t){
   if(t=localStorage.getItem('THEME_URL_'+window.location.pathname)){

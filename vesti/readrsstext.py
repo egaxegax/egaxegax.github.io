@@ -50,8 +50,8 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
           pdate = parsePubDate(item)
           text = """
 <div class="rssn">
-  <div>{titl}</div><br>
-  <div class="hspace small"><a class="nodecor" href="{link}"><i>Анекдот дня</i></a></div>
+  <pre>{titl}</pre>
+  <div class="hspace small"><a class="nodecor" href="{link}"><sup><i>Анекдот дня</i></sup></a></div>
 </div>""".format(titl=titl, link=link)
           fp.write(text)
           fcount += 1
