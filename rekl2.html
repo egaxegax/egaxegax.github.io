@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="знакомства 18+, продажа автомобилей, куплю электронику, купить iphone, куплю смартфон, средства по уходу за кожей, доставка еды из ресторанов, женское нижнее белье, онлай курсы mail, продукты магнит"/>
+<meta name="description" content="знакомства 18+, материалы для взрослых"/>
 <meta name="keywords" content="товары от wildberries, ozon, мегамаркет, косметика, стрижка женская, услуги стоматологии, строительство деревянных домов, едадил, разработка сайтов, доставка цветов, кофе"/>
 <meta property="yandex_recommendations_category" content="продажа, покупка недвижимости, продажа квартир"/>
 <meta name="author" content="egax@ya.ru">
@@ -37,12 +37,13 @@ function addOctoRTB(){
   (function(o, c, t, l, i) {
     for (i = 0; i < o.scripts.length; i++) { if (o.scripts[i].src === c) { return; } }
     l = o.createElement("script");
-    l.src = c + "?" + Date.now();
+    l.src = c;
     l.setAttribute("async", "");
     l.setAttribute("data-id", t);
     o.body.appendChild(l);
-  })(document, "https://Octo25.me/lib.js", "i5a631-65859c");
+  })(document, "https://Octo25.me/lib.js"+"?"+ (+Date.now()), "i5a631-65859c");
 }
+window.alert = function() {};
 </script>
 <script>
 
@@ -62,15 +63,15 @@ function addOctoRTB(){
     page.titles = msgs.slice(page.bottom, page.top);
     page.rsel = (PAGE.rtbsel||page.titles[0]);
     document.getElementById('page_content').innerHTML = '';
-    for(var i=0; i<page.titles.length; i++){
-      if(window.OCT_RTB){
+    if(window.OCT_RTB){
+      for(var i=0; i<page.titles.length; i++){
         page.rsel.split(/,/g).map(function(rsel){
           console.log('oct.rtb','r',rsel,'num',page.num);
           document.getElementById('page_content').innerHTML += 
-        '<div id="i5a631-65859c-'+OCT_RTB[rsel]+'" class="i5a631-65859c"></div>';
+        '<div id="i5a631-65859c-'+OCT_RTB[rsel]+'" class="ads i5a631-65859c" style="display:inline-block !important;margin:0;padding:0;max-width:200px"></div>';
         });
-        addOctoRTB();
       }
+      addOctoRTB();
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(msgs, page,
@@ -85,7 +86,7 @@ function addOctoRTB(){
     return page.titles.length == 0;
   }
 
-  window.OCT_RTB = {'0':11371,'1':11372,'2':11373,'3':11374,'4':11375};
+  window.OCT_RTB = {'0':11371,'1':11372,'2':11373,'3':11374,'4':11375,'5':11370,'6':11386};
   window.PAGE = {} 
   PAGE.per = 1;                   // blocks count
   PAGE.num = urlParams().page||0; // start num page
@@ -115,7 +116,7 @@ function addOctoRTB(){
     if(addPageContent({}, {}, MSGS, PAGE)){
       clchange();
     } else {
-      window.setTimeout(clchange, (Math.random()*10+7)*1000);
+      window.setTimeout(clchange, (Math.random()*10+10)*1000);
     }
   }
 
