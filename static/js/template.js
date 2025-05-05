@@ -39,7 +39,7 @@ function actionFind(){
 //
 function addFinder(p){ return ''+
   '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">'+
-  '<button class="rounded chstyle dark" onclick="actionChStyle(\''+p+'\')" title="">&#9680;</button>'; 
+  '<button class="rounded chstyle dark bigger0" onclick="actionChStyle(\''+p+'\')" title="">&nbsp;&#9680;&nbsp;</button>'; 
 }
 //
 // return loader image html

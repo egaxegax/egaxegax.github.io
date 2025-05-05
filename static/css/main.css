@@ -38,6 +38,7 @@
 .small { font-size:small; }
 .large { font-size:large; }
 .bigger { font-size:150%; }
+.bigger0 { font-size:110%; }
 .bigger1 { font-size:130%; }
 .bigger2 { font-size:200%; }
 .chstyle { border:0; background:transparent; }
@@ -48,19 +49,17 @@
 #root { min-height:100%; }
 #header { min-height:27.5px; } #header a { min-width:80px; display:inline-block; }
 #page_content { min-height:80vh; }
+@media all and (min-width:800px){ #page_content { font-size:93.75%; } }
 #page_footer button { height:40px; width:40px; border:0; }
 #footer { width:100%; font-size:small; }
-/* body */
 html,body,.vp { margin:0; width:100%; height:100%; font-family:arial; font-weight:400; font-size:16px; }
-@media all and (max-width:800px){ body { font-size:100%; } }
-@media all and (min-width:800px){ body { font-size:93.75%; } }
 h1 { margin:0; font-weight:normal; font-size:inherit; }
 h2 { font-weight:normal; font-size:1rem; color:#379e60; margin-top:5px; }
 a, a:active, a:focus { outline:none; text-decoration-thickness: 0.4px; }
 a.nodecor, #header a { text-decoration:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
-input[type=text], input[type=password], input[type=number], input[type=search], textarea, select { 
-  border-radius:4px; border:1px solid #cfcfcf; padding:5px; font-family:arial; font-size:93.75%; color:#000; }
+input[type=text], input[type=number], input[type=search], select { 
+  border-radius:4px; border:1px solid #cfcfcf; padding:5px; font-size:93.75%; }
 input[type=text], input[type=password], input[type=number] { text-align:center; width:60px; }
 input[type=submit] { padding:0 20px; font-size:100%; height:32px;  }
 input[type=file] { font-size:100%; height:32px; }
@@ -80,4 +79,4 @@ pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
 .mw_2 { max-width:746px; }
 .mw_3 { max-width:260px; }
 .mw_b { max-width:800px; }
-.mw_f { max-width:92vw; }
+.mw_f { max-width:95vw; }

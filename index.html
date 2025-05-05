@@ -13,13 +13,13 @@
 <meta name="zen-verification" content="by10u6X4KKKFWClsF7vTev8waim9RszkEhhR4RUNuCo2HDwvQUyDYquyBgjoRssP" />
 <title>Записки / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250502">
+<link rel="stylesheet" href="/static/css/main.css?250505">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/vesti.css?250501">
 <script src="/static/js/metrics.js?250502" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 <script src="/static/js/updater.js"></script>
-<script src="/static/js/template.js?250503"></script>
+<script src="/static/js/template.js?250505"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap tcenter">
@@ -50,8 +50,8 @@
 '<div class="table">'+
   '<div class="tcell vmid"><h1 id="vestiheader">'+'Краткая хроника изменений на сайте и не только '+'</h1></div>'+
   '<div class="tcell tright vmid" style="width:35%">'+
-    '<select id="yearlist"></select>&nbsp;'+
-    '<button class="rounded chstyle dark" onclick="actionChStyle(\'vesti\')" title="">&#9680;</button>'+
+    '<select id="yearlist"></select>'+
+    '<button class="rounded chstyle dark bigger0" onclick="actionChStyle(\'vesti\')" title="">&nbsp;&#9680;&nbsp;</button>'+
   '</div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
@@ -71,7 +71,7 @@
   '</div>'+
   '<div class="msgfooter">'+
     '<a class="nodecor light" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+(p.i+1)+'</a>&ensp;'+
-    '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
+    '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'">&#128343;</span>'+
   '</div>';
   }
 
