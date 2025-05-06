@@ -2,7 +2,7 @@
 <div class="yb">
   <div class="inlbl text">
   <p class="table preview">
-    <a class="trow nodecor" href="/posts.html?dzen/pochemu_aleksandr_i_ne_otdal_sestru_annu_napoleonu_mojet_i_vojny_by_ne_bylo">
+    <a class="trow nodecor" href="/index.html?dzen/pochemu_aleksandr_i_ne_otdal_sestru_annu_napoleonu_mojet_i_vojny_by_ne_bylo">
       <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66b776a2478f38710213ed06_66b77d19478f387102241ba3/smart_crop_344x194" alt="">
     </a>
     <a class="trow nodecor" href="https://dzen.ru/a/Zrd2okePOHECE-0G?from=feed&utm_referrer=https%3A%2F%2Fzen.yandex.com&integration=site_desktop&place=export&secdata=CKW39uuTMiCUAVCFCmoFAZQBdSyQAQA%3D&clid=300&rid=1914414622.1176.1725793202940.35399&referrer_clid=300&"><span class="inlbl">Почему Александр I не отдал сестру Анну Наполеону? Может и войны бы не было</span></a>

@@ -2,7 +2,7 @@
 <div class="yb">
   <div class="inlbl text">
   <p class="table preview">
-    <a class="trow nodecor" href="/posts.html?dzen/shutki_i_memy_pro_iphone_16_prezentaciya_apple_2024_podborka">
+    <a class="trow nodecor" href="/index.html?dzen/shutki_i_memy_pro_iphone_16_prezentaciya_apple_2024_podborka">
       <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66df209adf35ca2edb6bee43_66dfccba23f399718be119ba/smart_crop_344x194" alt="">
     </a>
     <a class="trow nodecor" href="https://dzen.ru/a/Zt8gmt81yi7ba-5D?from=feed&utm_referrer=https%3A%2F%2Fzen.yandex.com&integration=site_desktop&place=export&secdata=CKC05dGdMiCUAVCFCmoFAZQBdSyQAQA%3D&clid=300&rid=4158704208.1108.1725966001794.70538&referrer_clid=300&"><span class="inlbl">Шутки и мемы про iPHONE 16. Презентация Apple 2024. Подборка</span></a>

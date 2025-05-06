@@ -55,7 +55,7 @@ for hdr, url in RSSlist:
       authr = item.find('{http://www.w3.org/2005/Atom}author/{http://www.w3.org/2005/Atom}name').text
       imurl= item.find('{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}thumbnail').get('url')
       mtitl = tr_cut(titl)
-      phref = '/posts.html?'+ tr(os.path.basename(hdr)) +'/'+ tr(mtitl)
+      phref = '/index.html?'+ tr(os.path.basename(hdr)) +'/'+ tr(mtitl)
       pdt = time.strptime(udate, '%Y-%m-%dT%H:%M:%S%z')
       rdate = time.strftime('%Y-%m-%d', pdt)
       ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)

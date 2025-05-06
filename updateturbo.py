@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# Update Yandex Turbo Page turbopage.rss in {songs, posts, vesti} dir
+# Update Yandex Turbo Page turbopage.rss in {songs, posts} dir
 #
 # python3 ../update.py (gen index.js)
 # python3 ../updateturbo.py (gen rsstrb.xml)
@@ -17,9 +17,9 @@ def main(path='.', icount=0, surl='egax.ru', sdir=''):
     raise Exception('icount < 100 !!!')
   cwd = os.path.basename(os.path.abspath(path))
   sind = cwd
-  if sind == 'vesti':
+  if sind == 'posts':
     sind = 'index'
-  chtitl = {'books': 'Книги', 'foto':'Фото', 'posts': 'Заметки', 'songs':'Аккорды', 'vesti':'Записки'}.get(cwd, cwd)
+  chtitl = {'books': 'Книги', 'foto':'Фото', 'posts': 'Заметки', 'songs':'Аккорды'}.get(cwd, cwd)
   chabout = ''
   try:
     exec(open(os.path.join(path, 'index.js'), encoding='utf-8', newline='\n').read())

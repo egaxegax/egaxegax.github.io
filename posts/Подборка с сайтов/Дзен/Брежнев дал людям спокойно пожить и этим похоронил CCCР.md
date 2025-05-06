@@ -2,7 +2,7 @@
 <div class="yb">
   <div class="inlbl text">
   <p class="table preview">
-    <a class="trow nodecor" href="/posts.html?dzen/brejnev_dal_ljudyam_spokojno_pojit_i_etim_pohoronil_cccr">
+    <a class="trow nodecor" href="/index.html?dzen/brejnev_dal_ljudyam_spokojno_pojit_i_etim_pohoronil_cccr">
       <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66d80ece8c8606731dca26e1_66d80ed873e53e306dfabf28/smart_crop_344x194" alt="">
     </a>
     <a class="trow nodecor" href="https://dzen.ru/a/ZtgOzoyGBnMdyibh?from=feed&utm_referrer=https%3A%2F%2Fzen.yandex.com&integration=site_desktop&place=export&secdata=CKrq0s2cMiCUAVCFCmoFAZQBdSyQAQA%3D&clid=300&rid=4250155480.1178.1725749312267.46299&referrer_clid=300&"><span class="inlbl">Брежнев дал людям спокойно пожить и этим «похоронил» CCCР</span></a>

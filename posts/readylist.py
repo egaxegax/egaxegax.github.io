@@ -40,7 +40,7 @@ for root, dirs, files in os.walk(path, topdown=False):
               ftime = os.path.getmtime(os.path.join(root, name))
               ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', time.localtime(ftime))
               mtitl = tr_cut(titl)
-              phref = '/posts.html?'+ tr(os.path.basename(os.getcwd())) +'/'+ tr(mtitl)
+              phref = '/index.html?'+ tr(os.path.basename(os.getcwd())) +'/'+ tr(mtitl)
               text = """{ctime}
 <div class="yb">
   <a class="nodecor" href="{phref}">

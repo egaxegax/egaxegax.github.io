@@ -2,7 +2,7 @@
 #
 # Make README.md files with list of files in run dir.
 #
-# python3 ../updatelist.py (from songs, posts, vesti)
+# python3 ../updatelist.py (from songs, posts)
 #
 
 import re, os, sys

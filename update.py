@@ -30,7 +30,7 @@ def main(path='.'):
   mfiles = []
   cwd = os.path.basename(os.path.abspath(path))
   sdir = cwd
-  if sdir == 'vesti':
+  if sdir == 'posts':
     sdir = 'index'
 
   for root, dirs, files in os.walk(path, topdown=False):
@@ -62,12 +62,6 @@ def main(path='.'):
         os.remove(os.path.join(root, name))
         name = fname + '.md'
         ext = '.md'
-
-      if cwd in ('vesti',) and ext in ('.md',):
-        if fname != 'about': # skip about
-          ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
-        else:
-          ftime = os.path.getmtime(os.path.join(root, name))  
       elif cwd in ('foto',) and ext.lower() in ('.jpg',):
         ftime = os.path.getmtime(os.path.join(root, name))
         if subj == 'th': 
