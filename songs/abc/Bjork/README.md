@@ -1,3 +1,7 @@
+![](bjork.jpg)
+
+Бьорк - исландская певица, актриса, музыкант, композитор и автор песен. Лауреат пяти премий *Brit Awards* и пятнадцати номинаций на премию «Грэмми».
+
 * [All Is Full Of Love](All%20Is%20Full%20Of%20Love.md)
 * [Army Of Me](Army%20Of%20Me.md)
 * [Aurora](Aurora.md)
