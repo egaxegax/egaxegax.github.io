@@ -41,7 +41,6 @@
 .bigger0 { font-size:110%; }
 .bigger1 { font-size:130%; }
 .bigger2 { font-size:200%; }
-.chstyle { border:0; background:transparent; }
 .loader { border:1px solid #ddd; }
 .tooltip { cursor: pointer; }
 .tooltip:active:after { content: attr(title); position: relative; }
@@ -52,15 +51,14 @@
 @media all and (min-width:800px){ #page_content { font-size:93.75%; } }
 #page_footer button { height:40px; width:40px; border:0; }
 #footer { width:100%; font-size:small; }
-html,body,.vp { margin:0; width:100%; height:100%; font-family:arial; font-weight:400; font-size:16px; }
+html,body { margin:0; width:100%; height:100%; font-family:arial; font-weight:400; font-size:16px; }
 h1 { margin:0; font-weight:normal; font-size:inherit; }
 h2 { font-weight:normal; font-size:1rem; color:#379e60; margin-top:5px; }
 a, a:active, a:focus { outline:none; text-decoration-thickness: 0.4px; }
 a.nodecor, #header a { text-decoration:none; }
 a.nodecor img, #header a img { border:0px none; padding:0px; }
-input[type=text], input[type=number], input[type=search], select { 
-  border-radius:4px; border:1px solid #cfcfcf; padding:5px; font-size:93.75%; }
-input[type=text], input[type=password], input[type=number] { text-align:center; width:60px; }
+input[type=text], input[type=number], select { font-family:arial; border-radius:4px; border:1px solid #cfcfcf; padding:5px; font-size:93.75%; }
+input[type=text], input[type=number] { text-align:center; width:60px; }
 input[type=submit] { padding:0 20px; font-size:100%; height:32px;  }
 input[type=file] { font-size:100%; height:32px; }
 input[type=button] { font-family:inherit; font-size:inherit; padding:5px; }

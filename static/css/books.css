@@ -13,6 +13,7 @@ input[type=text], select { background:#fff; }
 #header { background:#d2e0f0; }
 #header svg g { fill:#777; stroke:#777; }
 #header svg g.active { fill:#3c677b; stroke:#3c677b; }
+#header .yin { fill:#fff; stroke:#fff; }
 #page_footer button { background:#379e60; color:#fff; }
 /**/
 .about img { max-width: 120px; padding:0px 10px 0px 0px; }

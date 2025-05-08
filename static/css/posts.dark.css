@@ -17,6 +17,7 @@ li::marker { color:green; }
 #header { background:rgb(52,55,60); }
 #header svg g { fill:#eee; stroke:#eee; }
 #header svg g.active { fill:#f4c430; stroke:#f4c430; }
+#header .yin { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
 /**/
 .readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; font-size:93.75%; }

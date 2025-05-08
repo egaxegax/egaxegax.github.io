@@ -37,10 +37,7 @@ function actionFind(){
 //
 // return html for find input
 //
-function addFinder(p){ return ''+
-  '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">'+
-  '<button class="rounded chstyle dark bigger0" onclick="actionChStyle(\''+p+'\')" title="">&nbsp;&#9680;&nbsp;</button>'; 
-}
+function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">&ensp;'; }
 //
 // return loader image html
 //
