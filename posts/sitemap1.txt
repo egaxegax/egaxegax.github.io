@@ -6509,6 +6509,8 @@ https://egaxegax.github.io/index.html?primery_shell-scenariev/astra_linux_se_1_7
 https://egaxegax.github.io/index.html?primery_shell-scenariev/astra_linux_se_1_8_installation_disc
 https://egaxegax.github.io/index.html?primery_shell-scenariev/autoconf_sborka_32_bitnoj_versii_programmy_na_64_bitnoj_versii_linux
 https://egaxegax.github.io/index.html?primery_shell-scenariev/cut_razbienie_stroki_v_bash
+https://egaxegax.github.io/index.html?primery_shell-scenariev/git_tag_delete_udalenie_taga_v_git
+https://egaxegax.github.io/index.html?primery_shell-scenariev/git_udalenie_istorii_kommitov
 https://egaxegax.github.io/index.html?primery_shell-scenariev/iframe_s_autoheight_po_soderjimomu
 https://egaxegax.github.io/index.html?primery_shell-scenariev/ispolzovanie_ssh_cherez_expect_s_peredachej_parolya_bez_vvoda
 https://egaxegax.github.io/index.html?primery_shell-scenariev/ispolzuem_samba_dlya_skachivaniyazakachivaniya_katalogov
