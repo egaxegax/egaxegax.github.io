@@ -79,7 +79,9 @@ function actionChStyle(p){
 //
 (function actionSetStyle(t){
   if(t=localStorage.getItem('THEME_URL_'+window.location.pathname)){
-    document.querySelectorAll("link[href^='"+t.slice(0,t.indexOf('.'))+"']").forEach(function(e){ e.href = t; });
+    document.querySelectorAll("link[href^='"+t.slice(0,t.indexOf('.'))+"']").forEach(function(e){
+      if(e.href.slice(e.href.lastIndexOf('/'),e.href.indexOf('?')) != t.slice(t.lastIndexOf('/'),t.indexOf('?'))) e.href = t;
+    });
   }
 })()
 //
