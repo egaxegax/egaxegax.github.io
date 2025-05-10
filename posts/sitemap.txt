@@ -1609,6 +1609,7 @@ https://egax.ru/index.html?eadaily/250505_1800
 https://egax.ru/index.html?eadaily/250506_1800
 https://egax.ru/index.html?eadaily/250507_1800
 https://egax.ru/index.html?eadaily/250508_1800
+https://egax.ru/index.html?eadaily/250510_1800
 https://egax.ru/index.html?eda
 https://egax.ru/index.html?eda/afrikanskoe_myasnoe_ragu_s_osoboj_fishechkoj_polnyj_recept_po_ssylke_vyshe_shorts
 https://egax.ru/index.html?eda/bananovye_klecki_s_percem_proveryaju_recept_1929_goda_eto_sedobno
@@ -1936,6 +1937,7 @@ https://egax.ru/index.html?habr/apple_i_indoneziya_dogovorilis_ob_usloviyah_snya
 https://egax.ru/index.html?habr/apple_intelligence_na_iphone_teper_trebuet_vdvoe_bolshe_pamyati
 https://egax.ru/index.html?habr/apple_mojet_uvelichit_ceny_na_17_18_chtoby_kompensirovat_rashody_vyzvannye_novymi_tamojennymi_poshlinami_v_ssha
 https://egax.ru/index.html?habr/apple_nachala_skanirovat_s_pomoshchju_ii_lokalnye_polzovatelskie_fotografii_na_predmet_dostoprimechatelnostej
+https://egax.ru/index.html?habr/apple_pay_stal_dostupen_dlya_pokupki_igr_cherez_ps5
 https://egax.ru/index.html?habr/apple_pozvolit_roditelyam_soobshchat_razrabotchikam_vozrast_rebenka_bez_drugih_lichnyh_dannyh
 https://egax.ru/index.html?habr/apple_rabotaet_s_anthropic_nad_instrumentom_kodirovaniya_s_pomoshchju_ii_dlya_xcode
 https://egax.ru/index.html?habr/apple_udalila_iz_app_store_mobilnoe_prilojenie_pod_nazvaniem_uchet_nadoya_ot_rosselhozbanka
@@ -1964,6 +1966,7 @@ https://egax.ru/index.html?habr/avtonomnyj_elektrobus_klassa_l4_vyehal_na_ulicy_
 https://egax.ru/index.html?habr/avtopilot_tesla_zavel_mashinu_v_ssha_na_relsy_legkogo_metro
 https://egax.ru/index.html?habr/avtory_poluchili_vozmojnost_nastraivat_urovni_podderjki_v_vk_donut
 https://egax.ru/index.html?habr/aws_v_techenie_15_let_investiruet_5_mlrd_v_tehnologicheskoe_razvitie_meksiki
+https://egax.ru/index.html?habr/baidu_zapatentuet_tehnologiju_perevoda_zvukov_jivotnyh_na_chelovecheskij_yazyk
 https://egax.ru/index.html?habr/bank_rossii_protestiroval_rossijskie_ngfw
 https://egax.ru/index.html?habr/banki_raskritikovali_zakonoproekt_o_sozdanii_sistem_antifishing_i_antifrod
 https://egax.ru/index.html?habr/banki_rf_ogranichat_vnesenie_deneg_na_virtualnye_karty_vypushchennye_menee_dvuh_dnej_nazad
@@ -1975,6 +1978,7 @@ https://egax.ru/index.html?habr/bazovaya_model_ai_maverick_ot_meta_ustupaet_konk
 https://egax.ru/index.html?habr/bbc_ispolzovala_dipfejk_agaty_kristi_dlya_prepodavaniya_kursa_pisatelskogo_masterstva
 https://egax.ru/index.html?habr/bekendery_go_k_nam_na_drinkap_23_aprelya
 https://egax.ru/index.html?habr/bespilotnyj_maserati_mc20_coupe_razognalsya_do_318_km_ch_na_ploshchadke_v_kosmicheskom_centre_kennedi
+https://egax.ru/index.html?habr/besplatnyj_mini-kurs_po_mashinnomu_obucheniju
 https://egax.ru/index.html?habr/beta-versiya_video-generatora_firefly_ai_ot_adobe_v_stadii_razrabotki_prevrashchaet_tekst_i_izobrajeniya_v_korotkie_klipy
 https://egax.ru/index.html?habr/bezopasnyj_brauzing_microsoft_edge_aktiviruet_zashchitu_ot_moshennichestva_s_pomoshchju_ai
 https://egax.ru/index.html?habr/bi_zone_predstavila_issledovanie_rossijskogo_landshafta_ugroz_za_2024_god_threat_zone_2025
@@ -2169,6 +2173,7 @@ https://egax.ru/index.html?habr/google_testiruet_kruglye_klavishi_v_gboard
 https://egax.ru/index.html?habr/google_testiruet_novyj_ii-poisk_na_osnove_gemini_2_0
 https://egax.ru/index.html?habr/google_udalyaet_gemini_iz_osnovnogo_poiskovogo_prilojeniya_na_ios
 https://egax.ru/index.html?habr/google_uvolila_sotni_sotrudnikov_iz_otdelov_razrabotki_android_chrome_i_pixel
+https://egax.ru/index.html?habr/google_vyplatit_tehasu_kompensaciju_bolee_1_3_mlrd_za_narushenie_konfidencialnosti_polzovatelej
 https://egax.ru/index.html?habr/google_vypustil_predvaritelnuju_versiju_uluchshennoj_modeli_ii_gemini_2_5_flash
 https://egax.ru/index.html?habr/google_vypustil_tretju_versiju_svoej_opensorsnoj_modeli_gemma
 https://egax.ru/index.html?habr/google_zakazala_vypusk_neskolkih_filmov_ob_otnosheniyah_mejdu_chelovechestvom_i_ii
@@ -2376,6 +2381,7 @@ https://egax.ru/index.html?habr/mcst_massovye_partii_rossijskih_servernyh_proces
 https://egax.ru/index.html?habr/medicinskie_obrazovatelnye_i_it-kompanii_rossii_podpisali_kodeks_etiki_v_sfere_ii
 https://egax.ru/index.html?habr/megafon_proanaliziroval_novogodnij_trafik_abonentov
 https://egax.ru/index.html?habr/megafon_v_2024_godu_rossiyane_nachali_aktivnee_pokupat_smartfony_s_ii
+https://egax.ru/index.html?habr/meksika_podala_v_sud_na_google_iz-za_izmeneniya_nazvaniya_meksikanskogo_zaliva_dlya_polzovatelej_iz_ssha
 https://egax.ru/index.html?habr/meropriyatiya_dlya_agroteh-startapov
 https://egax.ru/index.html?habr/mesyachnaya_auditoriya_rustore_vyrosla_do_50_mln_polzovatelej
 https://egax.ru/index.html?habr/meta_ai_rasshiryaet_svoe_prisutstvie_na_blijnem_vostoke_i_v_severnoj_afrike
@@ -2629,6 +2635,7 @@ https://egax.ru/index.html?habr/otkrytyj_kod_ili_kommercheskaya_licenziya_pochem
 https://egax.ru/index.html?habr/otp_bank_i_pikabu_zapustili_samyj_bolshoj_tort
 https://egax.ru/index.html?habr/pamyat_2_0_sozdaem_ii-dvojnika_nashej_pamyati
 https://egax.ru/index.html?habr/panasonic_predstavila_fitnes-trenera_na_baze_iskusstvennogo_intellekta_claude_ot_anthropic
+https://egax.ru/index.html?habr/panasonic_uvolnyaet_10_tysyach_sotrudnikov_bolee_4_shtata
 https://egax.ru/index.html?habr/panic_vyplatila_razrabotchikam_igr_dlya_playdate_bolee_1_mln
 https://egax.ru/index.html?habr/pao_element_obyavila_finansovye_rezultaty_po_msfo_za_2024_god
 https://egax.ru/index.html?habr/paradox_interactive_priobrela_razrabotchika_jagged_alliance_3_i_neskolkih_igr_serii_tropico
@@ -2734,6 +2741,8 @@ https://egax.ru/index.html?habr/r-style_softlab_i_bss_podpisali_soglashenie_o_te
 https://egax.ru/index.html?habr/r-style_softlab_vystupit_na_ifin-2025
 https://egax.ru/index.html?habr/r-style_softlab_vyvela_na_rynok_konnektor_dlya_polucheniya_svedenij_iz_reestra_kontroliruemyh_lic
 https://egax.ru/index.html?habr/rassledovanie_vo_francii_protiv_durova_prodoljaetsya_u_osnovatelya_telegram_net_nikakih_problem_s_francuzskim_pravosudiem
+https://egax.ru/index.html?habr/razer_predstavila_podgolovnik_clio_so_vstroennymi_dinamikami_dlya_gejmerskogo_kresla
+https://egax.ru/index.html?habr/razer_vypustila_kompaktnuju_klaviaturu_joro_i_mysh_basilisk_mobile_dlya_mobilnyh_igr
 https://egax.ru/index.html?habr/razrabotchik_iz_san-francisko_pojalovalsya_na_vysokie_rashody_pri_godovom_dohode_340_tys
 https://egax.ru/index.html?habr/razrabotchik_mobilnyh_igr_black_caviar_games_zayavil_o_svoem_vozrojdenii
 https://egax.ru/index.html?habr/razrabotchik_predstavil_bambot_otkrytyj_proekt_chelovekopodobnogo_robota_kotoryj_obojdetsya_v_300_dollarov
@@ -3032,6 +3041,7 @@ https://egax.ru/index.html?habr/v_den_kosmonavtiki_bjuro_1440_zapustila_kosmiche
 https://egax.ru/index.html?habr/v_etom_godu_arm_zapuskaet_sobstvennyj_chip_zakazchikom_kotorogo_yavlyaetsya_meta
 https://egax.ru/index.html?habr/v_forbes_proanalizirovali_intervju_voloja_svoim_finansovym_partneram
 https://egax.ru/index.html?habr/v_github_copilot_poyavilos_prevju_agentskogo_rejima
+https://egax.ru/index.html?habr/v_google_messages_poyavilas_funkciya_udalit_dlya_vseh
 https://egax.ru/index.html?habr/v_google_play_i_app_store_stalo_nedostupno_prilojenie_ingosstraha
 https://egax.ru/index.html?habr/v_google_play_obespechat_bolee_prostye_storonnie_zagruzki_za_schet_funkcii_pauzy
 https://egax.ru/index.html?habr/v_indii_obyavili_o_premii_v_razmere_1_mln_za_rasshifrovku_pismennosti_doliny_inda
@@ -3213,6 +3223,7 @@ https://egax.ru/index.html?habr/zapusk_pervogo_modulya_orbitalnoj_stancii_rf_zap
 https://egax.ru/index.html?habr/zapuskaem_konkurs_na_luchshij_maskot_dlya_festivalya_runit
 https://egax.ru/index.html?habr/zapustili_ploshchadku_v_krasnodare_da_ona_uje_dostupna
 https://egax.ru/index.html?habr/zashchita_1s_chek-list_bezopasnosti
+https://egax.ru/index.html?habr/zashchita_i_registraciya_intellektualnoj_sobstvennosti_v_rossii
 https://egax.ru/index.html?habr/zaversheno_stroitelstvo_moskovskogo_centra_fotoniki_v_alabusheve
 https://egax.ru/index.html?habr/zvezdnyj_datchik_razrabotki_stc_nachal_letnye_ispytaniya
 https://egax.ru/index.html?igra_v_urban_terror
@@ -7356,6 +7367,7 @@ https://egax.ru/index.html?ria/250506_2100
 https://egax.ru/index.html?ria/250507_2100
 https://egax.ru/index.html?ria/250508_2100
 https://egax.ru/index.html?ria/250509_2100
+https://egax.ru/index.html?ria/250510_2100
 https://egax.ru/index.html?rok
 https://egax.ru/index.html?rok/24_7_christmas_ambience_fireplace_merry_christmas_2025
 https://egax.ru/index.html?rok/28_11_2013_-_korol_i_shut_minsk_dvorec_sporta
