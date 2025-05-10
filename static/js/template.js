@@ -116,7 +116,7 @@ function addPaginator(list, page, page_btn){
   var root = 
 '<p class="paginator tcenter">'+
 (has_previous ? 
-  '<a class="nodecor" href="?'+urlBuild({page: has_first ? 'null' : prev_page_num})+'"><span class="bigger2">&larr;&nbsp;</span> </a>'
+  '<a class="nodecor" href="?'+urlBuild({page: prev_page_num})+'"><span class="bigger2">&larr;&nbsp;</span> </a>'
 : 
 (has_next ? 
   '<span class="gray"><span class="bigger2">&larr;&nbsp;</span></span>'
@@ -174,15 +174,6 @@ function buildSubPath(roots, subjects, subjkey){
   var root = roots[ subjects[subjkey][3]][0],
       subj = subjects[subjkey][0];
   return (root == '.') ? subj : root + ' / ' + subj;
-}
-//
-// remote/local path to sites files
-//
-function buildURL(path){
-//  if(!String(window.location).match(/file:|localhost|127.0.1.1/)){
-//    return 'https://raw.githubusercontent.com/egaxegax/egaxegax.github.io/master/'+path+'/';
-//  }
-  return '/'+path;
 }
 //
 // build date from 'ymdhms' to 'd.m.y h:m'

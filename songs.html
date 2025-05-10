@@ -21,7 +21,7 @@
 .rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/template.js?250509"></script>
+<script src="/static/js/template.js?250510"></script>
 <script src="/static/js/metrics.js?250502" data-floor="1"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -64,7 +64,7 @@
   '<div class="msgtext '+(window.innerWidth<800 ? '' : 'bigger0')+' scroll nowrap mw_f">'+
     '<table class="av" width="100%"><tr>'+
       '<td align="center" valign="middle" width="5%">'+
-        '<div><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
+        '<div><img class="rounded" src="'+'/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
       '</td>'+
       '<td class="hspaced" width="50%">'+
         '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'"> '+p.subj+' </a><br>'+
@@ -98,7 +98,7 @@
     updateMetaTag('description', p.subj+', '+trstr(text));
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext collapse inlbl vmid mw_b"><tr>'+
-    '<td class="about"><img class="rounded" src="'+buildURL('songs')+'/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
+    '<td class="about"><img class="rounded" src="'+'/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
     '<td>'+html+'</td></tr>'+
   '</table>';
     return ' about';
@@ -173,7 +173,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: buildURL('songs')+'/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: '/songs/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -193,7 +193,7 @@
     return (page.titles.length == 0);
   }
 
-  upfunc({url: buildURL('songs')+'/index.js?'+(+new Date())}, function(s){
+  upfunc({url: '/songs/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
     PAGE.per = 6;  // blocks 1 page
