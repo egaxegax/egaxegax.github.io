@@ -49,6 +49,8 @@ for root, dirs, files in os.walk(path, topdown=False):
           tit = re.findall('>([^><]*)</dc:title>', ftext)[0]
           writer = re.findall('>([^><]*)</dc:creator>', ftext)[0]
           subj = re.findall('>([^><]*)</dc:subject>', ftext) 
+          try:    pdate = re.findall('>([^><]*)</dc:date>', ftext)[0]
+          except: pdate = ''
           try:    desc = re.findall('<dc:description>(.*)</dc:description>', ftext, re.M | re.S)[0]
           except: desc = ''
           desc = desc.replace('&lt;','<').replace('&gt;','>')
@@ -56,7 +58,7 @@ for root, dirs, files in os.walk(path, topdown=False):
           if subj: subj = subj[0]
           else:    subj = 'other'
 
-          fp = os.path.join('.', subj.strip(), re.sub('\s+', ' ', writer.strip()))
+          fp = os.path.join('.', subj.replace(':', '').strip(), re.sub('\s+', ' ', writer.strip()))
           for s in '<>:"/\|?*':
             tit = tit.strip().replace(s,'')
           ftime = os.path.getmtime(os.path.join(root, name))
@@ -68,9 +70,9 @@ for root, dirs, files in os.walk(path, topdown=False):
       if fp and cover:
         j += 1
         if not os.path.exists(fp):
-          os.makedirs(fp.replace(':', ''))
+          os.makedirs(fp)
         fbook = open(os.path.join(fp, tit+'.md'), 'w+')
-        fbook.write('<!--' + sdate + '-->\n' + desc)
+        fbook.write('<!--'+ sdate +'--><!--pdate:'+ pdate +'-->\n' + desc)
         fbook.close()
         try:
           im = Image.open(io.BytesIO(za.read(cover)))

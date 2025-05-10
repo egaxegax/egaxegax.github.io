@@ -16,10 +16,10 @@ input[type=text], select { background:#fff; }
 #header .yin { fill:#fff; stroke:#fff; }
 #page_footer button { background:#379e60; color:#fff; }
 /**/
-.about img { max-width: 120px; padding:0px 10px 0px 0px; }
+.about img { max-width:120px; padding:0px 10px 0px 0px; }
 .av img { width:100%; }
-/**/
-.mw_a { max-width:300px; }
-.mnw_a { min-width:250px; max-width:350px; }
+.book img { max-width:150px; margin:-5px 0px -5px -10px; }
+@media all and (max-width:800px){ .mw_1 { padding:5px 5px 10px 10px; } }
+@media all and (min-width:800px){ .mw_1 { padding:5px 5px 10px 15px; max-width:620px; } }
 /*ads*/
 .mh_hd { background:#f0f0f0; }
