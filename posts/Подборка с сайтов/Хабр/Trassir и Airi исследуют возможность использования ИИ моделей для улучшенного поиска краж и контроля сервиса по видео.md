@@ -1,0 +1,4 @@
+<!--2025-05-14 14:38:22-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/aab/7df/751/aab7df751b87e56e47ef54389a6a063a.png" /><p>Специалисты компании <a href="https://trassir.ru/" rel="noopener noreferrer nofollow">Trassir</a> и института Airi провели первый этап исследований по&nbsp;использованию мультимодальных моделей искусственного интеллекта для&nbsp;анализа видео. Цель работы&nbsp;— создание систем, которые помогут расследовать кражи в&nbsp;магазинах. Об&nbsp;этом пресс‑служба Airi... <p class="titl"><a href="https://habr.com/ru/news/909452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=909452">Trassir и Airi исследуют возможность использования ИИ‑моделей для улучшенного поиска краж и контроля сервиса по видео</a></p></div>
+</div>

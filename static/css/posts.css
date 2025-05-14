@@ -44,7 +44,6 @@ input[type=text], select { background:#fff; }
 /* habr */
 .rss { min-height:150px; line-height:1.3em; }
 .rss strong { font-weight:normal; }
-.habr { line-height:1.15; }
 .kino_teatr img { margin:5px 10px 10px 0px !important; }
 .kino_kino img { margin:5px 10px 10px 0px !important; }
 @media all and (max-width:800px){ .rss img { display:block; margin:-10px -15px 10px -15px; max-width: calc(100% + 30px); }}
