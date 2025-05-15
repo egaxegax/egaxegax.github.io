@@ -69,7 +69,7 @@
         '</a>'+
       '</td>'+
       '<td width="1%">'+
-        '<a class="hspace nodecor counter" href="/fotki.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>'+
+        '<a class="hspace nodecor counter" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+(p.i+1)+'</a>'+
         '<span class="tooltip" title="снято '+buildDate(p.title[3])+'"> &#128343; </span>'+
       '</td>'+
     '</tr></table>'+
@@ -107,7 +107,7 @@
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); },500);
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
     return (page.titles.length == 0);
   }
 
@@ -124,7 +124,7 @@
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
         document.title += ' - ' + urlParams().page;
-      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
+      }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?alb/foto
         FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2])==pp[1]); });

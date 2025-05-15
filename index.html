@@ -157,8 +157,6 @@
       if(p == 'page' && urlParams().page){ // ?page
         // skip paginate
         document.title += ' - ' + urlParams().page;
-      }else if(p == 'ysclid' && urlParams().ysclid){ // ?ysclid
-        // skip ya.ru search
       }else if(p == 'find' && urlParams().find){ // search list
         POSTS = POSTS.filter(function(tit){ 
           return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
@@ -171,6 +169,8 @@
         '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("posts")+'</div>'+
       '</div>';
         PAGE.per = 10;
+      }else if(p && urlParams()[p]){ // ?arg=val
+        // skip ya.ru search
       }else if(pp.length>1){ // ?subj/title
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
         var subj_i, root_i;
