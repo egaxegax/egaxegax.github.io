@@ -1,0 +1,4 @@
+<!--2025-05-16 12:43:39-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/webt/bw/xe/eq/bwxeeqr4afq9llfnkbx72o5wo6m.jpeg" /><p>Обтекатель полезной нагрузки первой ракеты Eris австралийской компании Gilmour Space должен был раскрыться через несколько минут после старта с комплекса Боуэн на северо-востоке Австралии. Однако ракета <a href="https://arstechnica.com/space/2025/05/the-top-fell-off-australias-first-orbital-class-rocket-delaying-its-launch/" rel="noopener noreferrer nofollow">сбросила</a> носовой обтекател... <p class="titl"><a href="https://habr.com/ru/news/910068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=910068">Из-за сбоя электропитания на стартовом столе ракета Gilmour Space раскрыла и сбросила обтекатели полезной нагрузки</a></p></div>
+</div>
