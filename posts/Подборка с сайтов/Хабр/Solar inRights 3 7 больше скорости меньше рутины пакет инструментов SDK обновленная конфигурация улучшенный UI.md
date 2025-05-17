@@ -1,0 +1,4 @@
+<!--2025-05-13 11:45:27-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/07d/9da/db0/07d9dadb0ee50f28f46a3e1dfacb3076.jpg" /><p>ГК «Солар», архитектор комплексной кибербезопасности, представила версию IdM-платформы Solar inRights 3.7. Среди обновлений ─ пакет инструментов SDK (software development kit) для разработки плагинов, скриптов и конфигураций, упрощенная интеграция с источником кадровых данных 1C и управляемыми системами. Таким образом, надежная идентификация пользователей и... <p class="titl"><a href="https://habr.com/ru/companies/solarsecurity/news/909000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=909000">Solar inRights 3.7 — больше скорости, меньше рутины: пакет инструментов SDK, обновленная конфигурация, улучшенный UI</a></p></div>
+</div>

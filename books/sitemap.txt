@@ -67,6 +67,11 @@ https://egax.ru/books.html?aleksa_kejn
 https://egax.ru/books.html?aleksa_kejn/kalejdoskop_razvlechenij
 https://egax.ru/books.html?aleksandr_aleksandrovich_bushkov
 https://egax.ru/books.html?aleksandr_aleksandrovich_bushkov/cikl_romanov_svarog_kompilyaciya_kn_1-10
+https://egax.ru/books.html?aleksandr_aleksandrovich_tamonikov
+https://egax.ru/books.html?aleksandr_aleksandrovich_tamonikov/bagrovoe_pepelishche
+https://egax.ru/books.html?aleksandr_aleksandrovich_tamonikov/eho_severnyh_skal
+https://egax.ru/books.html?aleksandr_aleksandrovich_tamonikov/pryatki_dlya_vzroslyh
+https://egax.ru/books.html?aleksandr_aleksandrovich_tamonikov/zakat_komandante
 https://egax.ru/books.html?aleksandr_amfiteatrov
 https://egax.ru/books.html?aleksandr_amfiteatrov/mertvye_bogi_toskanskaya_legenda
 https://egax.ru/books.html?aleksandr_anatolevich_chirtik
@@ -444,6 +449,8 @@ https://egax.ru/books.html?antuan_de_sent-ekzjuperi/jujnyj_pochtovyj
 https://egax.ru/books.html?antuan_sent-ekzjuperi
 https://egax.ru/books.html?antuan_sent-ekzjuperi/citadel
 https://egax.ru/books.html?antuan_sent-ekzjuperi/malenkij_princ
+https://egax.ru/books.html?aoko_macuda
+https://egax.ru/books.html?aoko_macuda/fabrika_dush
 https://egax.ru/books.html?aristotel
 https://egax.ru/books.html?aristotel/ob_istolkovanii
 https://egax.ru/books.html?arkadij_i_boris_strugackie
@@ -1473,6 +1480,7 @@ https://egax.ru/books.html?juliya_golubeva
 https://egax.ru/books.html?juliya_golubeva/rim_cena_velichiya
 https://egax.ru/books.html?juliya_puls
 https://egax.ru/books.html?juliya_puls/bespravnaya_naslednica
+https://egax.ru/books.html?juliya_puls/fleminfir_dlya_rozy_ili_derevo_jelanij
 https://egax.ru/books.html?juna_runova
 https://egax.ru/books.html?juna_runova/nevezuchaya_popadanka_ya_iscelju_tvoju_doch_drakon_si
 https://egax.ru/books.html?jurij_haritonov
@@ -1851,6 +1859,8 @@ https://egax.ru/books.html?kozma_petrovich_prutkov/plody_razdumya
 https://egax.ru/books.html?kris_uejnrajt
 https://egax.ru/books.html?kris_uejnrajt/golos_krovi
 https://egax.ru/books.html?kris_uejnrajt/zolotoj_pavlin_sabatei
+https://egax.ru/books.html?kristina_jurevna_jurash
+https://egax.ru/books.html?kristina_jurevna_jurash/plennica_s_hvostom
 https://egax.ru/books.html?kristina_majer
 https://egax.ru/books.html?kristina_majer/ya_tebya_uje_prisvoil
 https://egax.ru/books.html?kristina_stajl
@@ -2016,6 +2026,8 @@ https://egax.ru/books.html?lion_fejhtvanger/mudrost_chudaka_ili_smert_i_preobraj
 https://egax.ru/books.html?lion_fejhtvanger/semya_opperman
 https://egax.ru/books.html?lju_djan
 https://egax.ru/books.html?lju_djan/kitaj_polnaya_istoriya
+https://egax.ru/books.html?ljubov_charo
+https://egax.ru/books.html?ljubov_charo/tango_dlya_vedmy_tretya_chast
 https://egax.ru/books.html?ljubov_smirnova
 https://egax.ru/books.html?ljubov_smirnova/domashnij_samogon
 https://egax.ru/books.html?ljudmila_braude
@@ -2080,12 +2092,17 @@ https://egax.ru/books.html?maks_alekseevich_glebov/armada_vtorjeniya
 https://egax.ru/books.html?maks_alekseevich_glebov/obekt_kontrolya
 https://egax.ru/books.html?maks_fraj
 https://egax.ru/books.html?maks_fraj/vtoraya_liniya_sbornik
+https://egax.ru/books.html?maks_valter
+https://egax.ru/books.html?maks_valter/tochka_nevozvrata
 https://egax.ru/books.html?maks_veber
 https://egax.ru/books.html?maks_veber/ponimajushchaya_sociologiya
 https://egax.ru/books.html?maks_veber/protestantskaya_etika_i_duh_kapitalizma
 https://egax.ru/books.html?maksim_gauss
+https://egax.ru/books.html?maksim_gauss/effekt_prisutstviya
+https://egax.ru/books.html?maksim_gauss/moya_krushit_2
 https://egax.ru/books.html?maksim_gauss/nazad_v_sssr_brakoner
 https://egax.ru/books.html?maksim_gauss/nazad_v_sssr_lesnik
+https://egax.ru/books.html?maksim_gauss/ryadovoj_nazad_v_sssr_kniga_1
 https://egax.ru/books.html?maksim_gorkij
 https://egax.ru/books.html?maksim_gorkij/bolshaya_ljubov
 https://egax.ru/books.html?maksim_gorkij/chelkash
@@ -2298,6 +2315,8 @@ https://egax.ru/books.html?mishel_eke_m_de_monten
 https://egax.ru/books.html?mishel_eke_m_de_monten/skepticizm_orujie_razuma
 https://egax.ru/books.html?mitropolit_tihon_shevkunov
 https://egax.ru/books.html?mitropolit_tihon_shevkunov/nesvyatye_svyatye_i_drugie_rasskazy
+https://egax.ru/books.html?miya_lavrova
+https://egax.ru/books.html?miya_lavrova/ljubov_ognennogo_drakona
 https://egax.ru/books.html?miyamoto_musasi
 https://egax.ru/books.html?miyamoto_musasi/busido_kodeks_samuraya
 https://egax.ru/books.html?miyamoto_musasi/kniga_pyati_kolec
@@ -2566,6 +2585,8 @@ https://egax.ru/books.html?prosper_merime/videnie_karla_xi
 https://egax.ru/books.html?prosper_merime/vzyatie_reduta
 https://egax.ru/books.html?r_n_kojemyakin
 https://egax.ru/books.html?r_n_kojemyakin/domashnee_vinodelie
+https://egax.ru/books.html?rafael_damirov
+https://egax.ru/books.html?rafael_damirov/pojarnyj_sssr_nachalo
 https://egax.ru/books.html?rafaelo_djovanoli
 https://egax.ru/books.html?rafaelo_djovanoli/spartak
 https://egax.ru/books.html?rajner_mariya_rilke
@@ -2687,6 +2708,8 @@ https://egax.ru/books.html?robert_penn_uorren/pridi_v_zelenyj_dol
 https://egax.ru/books.html?robert_penn_uorren/svoi_ljudi
 https://egax.ru/books.html?robert_shmidt
 https://egax.ru/books.html?robert_shmidt/bezdna
+https://egax.ru/books.html?robert_toru_kijosaki
+https://egax.ru/books.html?robert_toru_kijosaki/kak_priobresti_svoju_pervuju_investicionnuju_nedvijimost
 https://egax.ru/books.html?robert_van_gulik
 https://egax.ru/books.html?robert_van_gulik/seksualnaya_jizn_v_drevnem_kitae
 https://egax.ru/books.html?roberto_badjo
@@ -2773,6 +2796,11 @@ https://egax.ru/books.html?sergej_fomichev
 https://egax.ru/books.html?sergej_fomichev/konvoj
 https://egax.ru/books.html?sergej_fomichev/prorochestvo_predslavy
 https://egax.ru/books.html?sergej_fomichev/seraya_orda
+https://egax.ru/books.html?sergej_izmajlov
+https://egax.ru/books.html?sergej_izmajlov/bestujev_slujba_gosudarevoj_bezopasnosti_1
+https://egax.ru/books.html?sergej_izmajlov/bestujev_slujba_gosudarevoj_bezopasnosti_2
+https://egax.ru/books.html?sergej_izmajlov/bestujev_slujba_gosudarevoj_bezopasnosti_3
+https://egax.ru/books.html?sergej_izmajlov/nepravilnyj_lekar_2
 https://egax.ru/books.html?sergej_kaledin
 https://egax.ru/books.html?sergej_kaledin/svopy_obmen_platejami_po_procentnomu_svopu
 https://egax.ru/books.html?sergej_klochkov
@@ -3186,6 +3214,8 @@ https://egax.ru/books.html?vasilij_orehov/sektor_obstrela
 https://egax.ru/books.html?vasilij_orehov/zona_porajeniya
 https://egax.ru/books.html?vasilij_trofimovich_narejnyj
 https://egax.ru/books.html?vasilij_trofimovich_narejnyj/rossijskij_jilblaz_ili_pohojdeniya_knyazya_gavrily_simonovicha_chistyakova
+https://egax.ru/books.html?vasilij_vasilevich_golovachev
+https://egax.ru/books.html?vasilij_vasilevich_golovachev/blujdajushchaya_ognevaya_gruppa_bog_ya_est_gnev
 https://egax.ru/books.html?vera_kovalchuk
 https://egax.ru/books.html?vera_kovalchuk/elfred_junost_korolya
 https://egax.ru/books.html?vera_kovalchuk/mladshij_konung

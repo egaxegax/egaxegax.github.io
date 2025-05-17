@@ -95,14 +95,12 @@ def main(path='.'):
         ftime = os.path.getmtime(os.path.join(root, name))
         if fname != 'about': # skip about
           line = linecache.getline(os.path.join(root, name), 1)
-          try: 
+          if re.search(r'^\d+-\d+-\d+ \d+:\d+:\d+', line[line.find('<!--')+4:][:19].strip('->')):
             ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
-          except:
-            try:
-              ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
-            except:
-              print(root, name)
-              raise
+          elif re.search(r'^\d{2}\d{2}\d{2} \d{2}\d{2}', name[:11]):
+            ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
+          else:
+            raise ValueError(root, name, line)
       else:
         print(os.path.join(root, name), '...skip')
         continue

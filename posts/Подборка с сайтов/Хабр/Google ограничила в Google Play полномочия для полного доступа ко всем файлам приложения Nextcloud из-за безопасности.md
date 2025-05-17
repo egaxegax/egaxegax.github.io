@@ -1,0 +1,4 @@
+<!--2025-05-14 14:46:10-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d21/87a/7c8/d2187a7c812546fcd155aab7ac22b9d5.png" /><p>Разработчики открытой платформы совместной работы Nextcloud <a href="https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/" rel="noopener noreferrer nofollow">сообщили</a>, что&nbsp;Google ограничила в&nbsp;Google Play полномочия для&nbsp;полного доступа ко всем файлам мобильного приложения Nextcloud, насчитывающего более миллиона установок,... <p class="titl"><a href="https://habr.com/ru/news/909456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=909456">Google ограничила в Google Play полномочия для полного доступа ко всем файлам приложения Nextcloud из-за безопасности</a></p></div>
+</div>
