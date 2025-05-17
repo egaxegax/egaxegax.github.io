@@ -70,7 +70,7 @@ pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
 .mh_bar { max-height:95vh; position:sticky; top:0; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }
-.mh_2 { max-height:190px; }
+.mh_2 { max-height:195px; }
 .mh { max-height:300px; }
 .mw { max-width:750px; }
 .mw_1 { max-width:165px; }
