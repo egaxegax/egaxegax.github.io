@@ -34,7 +34,7 @@ input[type=text], select { background:#fff; }
 .mb {padding-bottom:10px;}
 /* youtube, dzen */
 .yb a { color:#333; }
-.yb .preview { width:240px; border-radius:5px; margin:0 10px 5px 0; }
+.yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
 .yb iframe.embed { border:0; width:100%; height:30vw; margin:0 10px 5px 0; }
 @media all and (max-width:800px){ .yb .preview { width:100%; height:100%; } .yb iframe.embed { height:60vw; } }
 @media all and (min-width:800px){ .yb div { vertical-align:top; } .yb .text { max-width:480px; } }
@@ -47,7 +47,7 @@ input[type=text], select { background:#fff; }
 .kino_teatr img { margin:5px 10px 10px 0px !important; }
 .kino_kino img { margin:5px 10px 10px 0px !important; }
 @media all and (max-width:800px){ .rss img { display:block; margin:-10px -15px 10px -15px; max-width: calc(100% + 30px); }}
-@media all and (min-width:800px){ .rss img { border-radius:3px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
+@media all and (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss ria, eadaily */
 .rssn { margin:5px 0 5px; }
 .rssn a { color:#333; }
