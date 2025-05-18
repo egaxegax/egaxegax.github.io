@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250514">
 <script src="/static/js/template.js?250510"></script>
-<script src="/static/js/metrics.js?250502" data-floor="1"></script>
+<script src="/static/js/metrics.js?250518" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
 <body>
@@ -140,7 +140,7 @@
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%10 == 0 || urlParams().page); });
     return page.titles.length == 0;
   }
 
