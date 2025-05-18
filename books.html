@@ -64,19 +64,19 @@
     updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
-  '<div class="book msgtext large inlbl vtop">'+
-    '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
+  '<div class="book msgtext inlbl vtop">'+
+    '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
       '<img align="left" alt="" src="'+'/books/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
     '</a>'+
-    '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a><br>'+
-    '<a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
+    '<a class="nodecor dark large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a><br>'+
+    '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<p class="small gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   (pdate ? '<p class="small"><span class="gray">Год</span> &nbsp; '+pdate+'</p>' : '')+
   (!isNaN(ci) ? 
-    '<p class="smaller">'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... ')+
+    '<p>'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... ')+
       ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a></p>'
     : 
-    '<p class="smaller">'+r+
+    '<p>'+r+
       '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a>'+
     '</p>')+
   '</div>';
@@ -189,7 +189,7 @@
           '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
-          BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
+          // BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
         }
       }else if(pp.length>0){ // ?wrt ?genre
         var gnr, wrt;
