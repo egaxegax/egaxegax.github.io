@@ -112,10 +112,10 @@
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
   '<div class="tcenter">'+
-    '<div id="songcont" class="msgtext '+(window.innerWidth<800 ? '': 'inlbl') +' chords tleft scroll nowrap mw_f">'+
+    '<div id="songcont" class="msgtext inlbl chords tleft scroll nowrap mw_f">'+
       html+
     '</div>'+
-    '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:20px 0 0 10px; min-width:280px; max-width:280px') +'"></div>'+
+    '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? '': 'margin:20px 0 0 20px; min-width:280px; max-width:280px') +'"></div>'+
   '</div>'+
   '<div id="chordcont" class="bmarg hspace1 chord mw_f"></div>'+
   '<div class="msgfooter">'+

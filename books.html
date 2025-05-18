@@ -12,7 +12,7 @@
 <title>Книги / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250518">
-<link rel="stylesheet" href="/static/css/books.dark.css?250508">
+<link rel="stylesheet" href="/static/css/books.css?250518">
 <script src="/static/js/template.js?250509"></script>
 <script src="/static/js/metrics.js?250518" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
@@ -64,24 +64,22 @@
     updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
-  '<div class="book inlbl">'+
+  '<div class="book msgtext large inlbl vtop">'+
     '<a class="nodecor" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
-      '<img class="msgtext smaller gray" alt="" src="'+'/books/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
+      '<img align="left" alt="" src="'+'/books/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
     '</a>'+
-  '</div>'+
-  '<div class="book msgtext large inlbl vtop mw_1">'+
-    '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a>'+
-    '<div><a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a></div>'+
+    '<a class="nodecor dark" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a><br>'+
+    '<a class="nodecor" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<p class="small gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   (pdate ? '<p class="small"><span class="gray">Год</span> &nbsp; '+pdate+'</p>' : '')+
   (!isNaN(ci) ? 
     '<p class="smaller">'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... ')+
       ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a></p>'
     : 
-  '</div>'+
-  '<p class="msgtext" style="margin-top:5px">&emsp;'+r+
-    '<a class="hspaced light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a>'+
-  '</p>');
+    '<p class="smaller">'+r+
+      '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a>'+
+    '</p>')+
+  '</div>';
   }
   
   function addAbout(r,p){
@@ -191,7 +189,7 @@
           '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
-          // BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
+          BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
         }
       }else if(pp.length>0){ // ?wrt ?genre
         var gnr, wrt;
