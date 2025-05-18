@@ -122,10 +122,10 @@
         }
       });
       if(window.addYaRTB_Block) {
-        if((i%3==0)||(page.titles.length==1)){
+        if(i==0 && page.view == 'book'){
           document.getElementById('page_content').innerHTML += 
         '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
-          addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[1]);
+          addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[5]);
         }
       }
     }
