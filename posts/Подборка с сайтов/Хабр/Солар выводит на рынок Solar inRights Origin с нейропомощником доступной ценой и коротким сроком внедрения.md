@@ -1,0 +1,4 @@
+<!--2025-05-16 12:17:14-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/921/368/0d1/9213680d1cd274489aef6c25f143df92.png" /><p>ГК «Солар», архитектор комплексной кибербезопасности, расширяет портфель продуктов по управлению доступом и выводит на рынок полнофункциональное «коробочное» решение Solar inRights Origin с нейропомощником. Продукт поддерживает всю необходимую функциональность классической on-premise-платформы Solar inRights по управлению доступом в организациях любого... <p class="titl"><a href="https://habr.com/ru/companies/solarsecurity/news/910048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=910048">«Солар» выводит на рынок Solar inRights Origin с нейропомощником, доступной ценой и коротким сроком внедрения</a></p></div>
+</div>

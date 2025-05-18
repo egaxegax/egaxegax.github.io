@@ -11,7 +11,7 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Заметки / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250508">
+<link rel="stylesheet" href="/static/css/main.css?250517">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250514">
 <script src="/static/js/template.js?250510"></script>
@@ -127,6 +127,13 @@
           (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
         }
       });
+      if(window.addYaRTB_Block) {
+        if((i%2==0)||(page.titles.length==1)){
+          document.getElementById('page_content').innerHTML += 
+        '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
+          addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[1]);
+        }
+      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(posts, page,
