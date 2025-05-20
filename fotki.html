@@ -27,13 +27,13 @@
 </div>
 <div id="ya_rtb_hd" class="mh_hd"></div>
 <div id="root" class="main">
-<div id="page_header" class="main"></div>
+<div id="page_header"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
 <p class="tcenter small gray">
   Подборка различных фоток, снятых на телефон или взятых из свободных источников.
 </p>
-<table id="footer" class="main"><tr>
+<table id="footer"><tr>
 <td align="right" width="30%" id="metrics"></td>
 <td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a> &copy; 2014-25</td>
 <td width="30%" id="metrics1"></td></tr>
@@ -48,6 +48,7 @@
     '<select id="albumlist" style="max-width:80px"></select>&ensp;'+
   '</div>'+
 '</div>';
+  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', YA_RTB[4]);
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addFoto(p){

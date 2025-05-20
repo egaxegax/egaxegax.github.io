@@ -18,8 +18,4 @@ input[type=text], select { background:#fff; }
 #header .yin { fill:#fff; stroke:#fff; }
 #page_footer button { background:#379e60; color:#fff; }
 /**/
-.av div { min-width:50px; min-height:60px; }
-.av img { width:100%; height:auto; }
-.av .dark { line-height:1.5em; }
-/*ads*/
 .mh_hd { background:#f0f0f0; }

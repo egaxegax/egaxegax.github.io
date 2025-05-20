@@ -29,13 +29,13 @@
 </div>
 <div id="ya_rtb_hd" class="mh_hd"></div>
 <div id="root" class="main">
-<div id="page_header" class="main"></div>
+<div id="page_header"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
 <p class="tcenter small gray">
   Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
 </p>
-<table id="footer" class="main"><tr>
+<table id="footer"><tr>
 <td align="right" width="30%" id="metrics"></td>
 <td align="center"><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a> &copy; 2014-25</td>
 <td width="30%" id="metrics1"></td></tr>
@@ -47,6 +47,7 @@
 '<div class="table">'+
   '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные темы'+'</h1></div>'+
 '</div>';
+  if(window.addYaRTB_Block) addYaRTB_Block('ya_rtb_hd', YA_RTB[1]);
   document.getElementById('page_content').innerHTML = addLoader(1);
 
   function addList(r,p){
@@ -127,13 +128,6 @@
           (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
         }
       });
-      if(window.addYaRTB_Block){
-        if(i==0 && page.view == 'post'){
-          document.getElementById('page_content').innerHTML += 
-        '<div id="ya_rtb_'+(i+page.bottom)+'" class="bmarg mw_2 mh_2"></div>';
-          addYaRTB_Block('ya_rtb_'+(i+page.bottom), YA_RTB[1]);
-        }
-      }
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(posts, page,

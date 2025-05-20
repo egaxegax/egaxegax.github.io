@@ -19,7 +19,3 @@ input[type=text], select { background:rgb(114,112,113); color:#fff; }
 #header svg g.active { fill:#f4c430; stroke:#f4c430; }
 #header .yin { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
-/**/
-.av div { min-width:50px; min-height:60px;  }
-.av img { width:100%; height:auto; }
-.av .dark { line-height:1.5em; }
