@@ -66,7 +66,7 @@ img, iframe { max-width:100%; }
 hr { border:1px dashed #777; }
 pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
 /* reklama */
-.mh_hd:not(:empty) { max-height:120px; margin:0px auto 0px auto; max-width:830px; }
+.mh_hd:not(:empty) { max-height:120px; }
 .mh_bar { max-height:95vh; position:sticky; top:0; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }
