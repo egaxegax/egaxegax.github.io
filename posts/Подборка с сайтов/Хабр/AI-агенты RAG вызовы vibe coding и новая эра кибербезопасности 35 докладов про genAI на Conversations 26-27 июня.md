@@ -1,0 +1,4 @@
+<!--2025-05-21 13:50:45-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/79e/385/440/79e385440000179a42c0069b73a5f264.jpg" /><p>Конференция по генеративному и разговорному AI <a href="https://conversations-ai.com/?utm_source=habr&amp;utm_medium=post&amp;utm_campaign=conf">Conversations</a> отправляется в Санкт-Петербург! 2 дня, 4 трека, 40+ докладов, дискуссии, нетворкинг и вечеринка – всё это ждет участников Conversations <strong>26 и 27 июня 2025 года.</strong></p><p>В программе... <p class="titl"><a href="https://habr.com/ru/companies/just_ai/news/911558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=911558">AI-агенты, RAG, вызовы vibe coding и новая эра кибербезопасности – 35+ докладов про genAI на Conversations 26-27 июня</a></p></div>
+</div>
