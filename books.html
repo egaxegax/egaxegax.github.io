@@ -68,13 +68,13 @@
     '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
       '<img align="left" alt="" src="'+'/books/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
     '</a>'+
-    '<a class="nodecor dark large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+'</a><br>'+
+    '<a class="nodecor dark large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' &emsp; &emsp;</a><br>'+
     '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<p class="small gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   (pdate ? '<p class="small"><span class="gray">Год</span> &nbsp; '+pdate+'</p>' : '')+
   (!isNaN(ci) ? 
-    '<p>'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... ')+
-      ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a></p>'
+    '<p>'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... '+
+      ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'
     : 
     '<p>'+r+
       '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a>'+
@@ -148,7 +148,7 @@
       '<a class="nodecor" href="/bwrts.html"><i>Авторам</i></a>&nbsp; '+
       '<a class="nodecor" href="/bgenres.html"><i>Жанрам</i></a></h1>'+
     '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("books")+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -166,7 +166,7 @@
           page_header = 
         '<div class="table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
-          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("books")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
@@ -183,7 +183,7 @@
             '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<h1>'+BOOKS[0][2]+'</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("books")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
           // BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
@@ -207,7 +207,7 @@
               '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
             '</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("books")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
         '</div>';
           if(gnr.length>0){
             document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;

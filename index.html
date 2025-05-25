@@ -154,7 +154,7 @@
       '<a class="nodecor" href="/psubj.html"><i>Темы</i></a>&nbsp; '+
       '<a class="nodecor" href="/research.html"><i>Поиск</i></a></h1>'+
     '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("posts")+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -170,7 +170,7 @@
         page_header =
       '<div class="table">'+
         '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></div>'+
-        '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("posts")+'</div>'+
+        '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
       '</div>';
         PAGE.per = 10;
       }else if(p && urlParams()[p]){ // ?arg=val
@@ -188,7 +188,7 @@
           '<div class="tcell vmid">'+ 
             '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +'&emsp;<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("posts")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
         '</div>';
           document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ', ' + SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
         }
@@ -205,7 +205,7 @@
               '<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a>'+
             '</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:35%">'+addFinder("posts")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
         '</div>';
           POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
           document.title = ROOTS[SUBJ[POSTS[0][0]][3]][0] +' / '+ SUBJ[POSTS[0][0]][0] + ' - ' + document.title;

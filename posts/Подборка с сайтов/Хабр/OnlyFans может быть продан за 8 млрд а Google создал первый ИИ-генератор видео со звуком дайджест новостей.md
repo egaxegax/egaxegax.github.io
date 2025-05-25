@@ -1,0 +1,4 @@
+<!--2025-05-24 09:00:45-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/0bb/95a/084/0bb95a084a890a7ca64aebfbe2a6a9b3.png" /><p>В России хотят упростить патентование IT-решений, зарубежные компании продолжают подавать заявки на регистрацию товарных знаков в РФ, а Google представила новую нейросеть. Рассказываем в нашем дайджесте про эти и другие важные новости в сфере интеллектуальной собственности.&nbsp;</p> <a href="https://habr.com/ru/articles/912262/#habracut">Читать далее</a> <p class="titl"><a href="https://habr.com/ru/companies/onlinepatent/news/912262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=912262">OnlyFans может быть продан за $8 млрд, а Google создал первый ИИ-генератор видео со звуком: дайджест новостей</a></p></div>
+</div>
