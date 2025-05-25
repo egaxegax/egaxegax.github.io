@@ -63,6 +63,8 @@ https://egax.ru/books.html?alberto_chudov
 https://egax.ru/books.html?alberto_chudov/imperiya_aratan
 https://egax.ru/books.html?alberto_moravia
 https://egax.ru/books.html?alberto_moravia/ya_i_on
+https://egax.ru/books.html?aleks_kamenev
+https://egax.ru/books.html?aleks_kamenev/vojna_treh_ras
 https://egax.ru/books.html?aleksa_kejn
 https://egax.ru/books.html?aleksa_kejn/kalejdoskop_razvlechenij
 https://egax.ru/books.html?aleksandr_aleksandrovich_bushkov
@@ -269,12 +271,17 @@ https://egax.ru/books.html?anatolij_nikolaevich_bukreev
 https://egax.ru/books.html?anatolij_nikolaevich_bukreev/everest_smertelnoe_voshojdenie
 https://egax.ru/books.html?anatolij_p_bezyaev
 https://egax.ru/books.html?anatolij_p_bezyaev/domashnee_vinodelie
+https://egax.ru/books.html?andjej_sapkovskij
+https://egax.ru/books.html?andjej_sapkovskij/vedmak_sbornik
+https://egax.ru/books.html?andjej_sapkovskij/vedmak_sezon_groz
+https://egax.ru/books.html?andjej_sapkovskij/vedmak_sezon_groz_doroga_bez_vozvrata
 https://egax.ru/books.html?andre_morua
 https://egax.ru/books.html?andre_morua/literaturnye_portrety
 https://egax.ru/books.html?andre_morua/pisma_neznakomke
 https://egax.ru/books.html?andre_morua/prevratnosti_ljubvi
 https://egax.ru/books.html?andrej_aleksandrovich_vasilev
 https://egax.ru/books.html?andrej_aleksandrovich_vasilev/legkij_zakaz
+https://egax.ru/books.html?andrej_aleksandrovich_vasilev/pod_chernym_flagom
 https://egax.ru/books.html?andrej_altanov
 https://egax.ru/books.html?andrej_altanov/pravo_na_jizn
 https://egax.ru/books.html?andrej_belyj
@@ -286,6 +293,8 @@ https://egax.ru/books.html?andrej_bondarenko
 https://egax.ru/books.html?andrej_bondarenko/logovo_lva
 https://egax.ru/books.html?andrej_borisov
 https://egax.ru/books.html?andrej_borisov/brat_i_sestra
+https://egax.ru/books.html?andrej_burevoj
+https://egax.ru/books.html?andrej_burevoj/oderjimyj_zashchitnik_imperii
 https://egax.ru/books.html?andrej_butorin
 https://egax.ru/books.html?andrej_butorin/doch_nebesnogo_duha
 https://egax.ru/books.html?andrej_butorin/hozyain_goroda_monstrov
@@ -584,6 +593,8 @@ https://egax.ru/books.html?chjuan-czy
 https://egax.ru/books.html?chjuan-czy/chjuan-czy
 https://egax.ru/books.html?cvejg_stefan
 https://egax.ru/books.html?cvejg_stefan/smyatenie_chuvstv
+https://egax.ru/books.html?dana_danberg
+https://egax.ru/books.html?dana_danberg/adept_poryadka_4
 https://egax.ru/books.html?daniil_ivanovich_harms
 https://egax.ru/books.html?daniil_ivanovich_harms/rasskazy_scenki_nabroski
 https://egax.ru/books.html?daniil_kluger
@@ -1107,6 +1118,8 @@ https://egax.ru/books.html?evgenij_tatarenko
 https://egax.ru/books.html?evgenij_tatarenko/mir_prikljuchenij1976
 https://egax.ru/books.html?evgenij_veltistov
 https://egax.ru/books.html?evgenij_veltistov/mir_prikljuchenij_ejegodnyj_sbornik_fantasticheskih_i_prikljuchencheskih_povestej_i_rasskazov
+https://egax.ru/books.html?evgeniya_parizena
+https://egax.ru/books.html?evgeniya_parizena/otec_jeniha_monstr
 https://egax.ru/books.html?evgeniya_yakovlevna_boguslavskaya
 https://egax.ru/books.html?evgeniya_yakovlevna_boguslavskaya/vino_samogon_pivo_nastojki_nalivki_varim_gonim_nastaivaem_prosto_v_domashnih_usloviyah
 https://egax.ru/books.html?evsej_grechena
@@ -1502,6 +1515,7 @@ https://egax.ru/books.html?jurij_mori/embrion_sliyanie
 https://egax.ru/books.html?jurij_paporov
 https://egax.ru/books.html?jurij_paporov/piraty_karibskogo_morya_proklyatie_kapitana
 https://egax.ru/books.html?jurij_ulengov
+https://egax.ru/books.html?jurij_ulengov/gardemarin_ee_velichestva_identifikaciya
 https://egax.ru/books.html?jurij_ulengov/gran_chelovechnosti
 https://egax.ru/books.html?jurij_voloshin
 https://egax.ru/books.html?jurij_voloshin/druzya_ponevole
@@ -1516,6 +1530,8 @@ https://egax.ru/books.html?k_l_parker/million_zapretnyh_naslajdenij
 https://egax.ru/books.html?k_r_bulichov
 https://egax.ru/books.html?k_r_bulichov/chervonij_olen_b_lij_olen
 https://egax.ru/books.html?k_r_bulichov/mojna_poprositi_n_nu
+https://egax.ru/books.html?karbon
+https://egax.ru/books.html?karbon/moj_aziatskij_princ-chebol
 https://egax.ru/books.html?karel_chapek
 https://egax.ru/books.html?karel_chapek/ballada_o_juraje_chupe
 https://egax.ru/books.html?karel_chapek/besspornoe_dokazatelstvo
@@ -1949,6 +1965,8 @@ https://egax.ru/books.html?lev_davidovich_trockij
 https://egax.ru/books.html?lev_davidovich_trockij/stalin_tom_i
 https://egax.ru/books.html?lev_jakov
 https://egax.ru/books.html?lev_jakov/vo_imya_zony
+https://egax.ru/books.html?lev_jukovskij
+https://egax.ru/books.html?lev_jukovskij/trete_prishestvie_marsian
 https://egax.ru/books.html?lev_kuklin
 https://egax.ru/books.html?lev_kuklin/sovremennaya_eroticheskaya_proza
 https://egax.ru/books.html?lev_nikolaevich_gumilev
@@ -2275,6 +2293,8 @@ https://egax.ru/books.html?mihail_jurevich_lermontov
 https://egax.ru/books.html?mihail_jurevich_lermontov/geroj_nashego_vremeni
 https://egax.ru/books.html?mihail_labkovskij
 https://egax.ru/books.html?mihail_labkovskij/hochu_i_budu_prinyat_sebya_poljubit_jizn_i_stat_schastlivym
+https://egax.ru/books.html?mihail_leonidovich_hazin
+https://egax.ru/books.html?mihail_leonidovich_hazin/zakat_imperii_dollara_i_konec_pax_americana
 https://egax.ru/books.html?mihail_leonovich_gasparov
 https://egax.ru/books.html?mihail_leonovich_gasparov/rasskazy_gerodota_o_greko-persidskih_vojnah_i_eshche_o_mnogom_drugom
 https://egax.ru/books.html?mihail_loginov
@@ -2317,6 +2337,8 @@ https://egax.ru/books.html?mihail_sergeevich_eliseev/vinogradnaya_vodka
 https://egax.ru/books.html?mihail_sovetov
 https://egax.ru/books.html?mihail_sovetov/eda_po_zakonam_prirody_put_k_estestvennomu_pitaniju
 https://egax.ru/books.html?mihail_sovetov/tri_kljucha_k_zdorovju_pitanie_ochishchenie_zakalivanie
+https://egax.ru/books.html?mihail_vladimirovich_fishman
+https://egax.ru/books.html?mihail_vladimirovich_fishman/preemnik_istoriya_borisa_nemcova_i_strany_v_kotoroj_on_ne_stal_prezidentom
 https://egax.ru/books.html?mishel_eke_m_de_monten
 https://egax.ru/books.html?mishel_eke_m_de_monten/skepticizm_orujie_razuma
 https://egax.ru/books.html?mitropolit_tihon_shevkunov
@@ -2353,6 +2375,8 @@ https://egax.ru/books.html?nail_vybornov
 https://egax.ru/books.html?nail_vybornov/na_drugoj_storone
 https://egax.ru/books.html?nail_vybornov/na_pepelishchah_nashih_domov
 https://egax.ru/books.html?nail_vybornov/perehod
+https://egax.ru/books.html?napoleon_hill
+https://egax.ru/books.html?napoleon_hill/dumaj_pobejdaj_bogatej_kurs_filosofii_uspeha_ot_klassika_pozitivnogo_myshleniya
 https://egax.ru/books.html?nataliya_obrazcova
 https://egax.ru/books.html?nataliya_obrazcova/zamok_tajn
 https://egax.ru/books.html?neizvesten_avtor
@@ -2696,6 +2720,9 @@ https://egax.ru/books.html?rjunoske_akutagava/zaveshchanie
 https://egax.ru/books.html?rjunoske_akutagava/zubchatye_kolesa
 https://egax.ru/books.html?rober_mjushemble
 https://egax.ru/books.html?rober_mjushemble/orgazm_ili_ljubovnye_utehi_na_zapade_istoriya_naslajdeniya_s_xvi_veka_do_nashih_dnej
+https://egax.ru/books.html?robert_irvin_govard
+https://egax.ru/books.html?robert_irvin_govard/prikljucheniya_konana-varvara_put_k_tronu_sbornik
+https://egax.ru/books.html?robert_irvin_govard/prikljucheniya_konana-varvara_sbornik
 https://egax.ru/books.html?robert_ladlem
 https://egax.ru/books.html?robert_ladlem/djejson_born_cikl_romanov_knigi_1_-_5
 https://egax.ru/books.html?robert_ljuis_stivenson
@@ -3234,6 +3261,8 @@ https://egax.ru/books.html?vera_kovalchuk/elfred_junost_korolya
 https://egax.ru/books.html?vera_kovalchuk/mladshij_konung
 https://egax.ru/books.html?vera_viktorovna_kamsha
 https://egax.ru/books.html?vera_viktorovna_kamsha/geroi_na_vse_vremena
+https://egax.ru/books.html?veronika_larsson
+https://egax.ru/books.html?veronika_larsson/kak_opredelit_razmer_chlena_po_vneshnosti_vidy_i_formy_penisov_po_rostu_i_licu
 https://egax.ru/books.html?viktor_andreevich_kirshov
 https://egax.ru/books.html?viktor_andreevich_kirshov/kamerton_dlya_organizma_domashnyaya_fizioterapiya
 https://egax.ru/books.html?viktor_gjugo
@@ -3301,6 +3330,8 @@ https://egax.ru/books.html?vladimir_korolenko/sudnyj_den
 https://egax.ru/books.html?vladimir_leshchenko
 https://egax.ru/books.html?vladimir_leshchenko/idushchie_skvoz_miry
 https://egax.ru/books.html?vladimir_leshchenko/polet_kondora
+https://egax.ru/books.html?vladimir_mihajlovich_myasoedov
+https://egax.ru/books.html?vladimir_mihajlovich_myasoedov/vedmak_dvadcat_tretego_veka
 https://egax.ru/books.html?vladimir_nikolaevich_vasilev
 https://egax.ru/books.html?vladimir_nikolaevich_vasilev/pryatki_na_osevoj
 https://egax.ru/books.html?vladimir_rusanov
