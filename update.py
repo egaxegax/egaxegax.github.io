@@ -95,7 +95,7 @@ def main(path='.'):
         ftime = os.path.getmtime(os.path.join(root, name))
         if fname != 'about': # skip about
           line = linecache.getline(os.path.join(root, name), 1)
-          if re.search(r'^\d+-\d+-\d+ \d+:\d+:\d+', line[line.find('<!--')+4:][:19].strip('->')):
+          if re.search(r'^\d+-\d+-\d+\s\d+:\d+:\d+', line[line.find('<!--')+4:][:19].strip('->')):
             ftime = time.mktime(time.strptime(line[line.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
           elif re.search(r'^\d{2}\d{2}\d{2} \d{2}\d{2}', name[:11]):
             ftime = time.mktime(time.strptime(name[:11], '%y%m%d %H%M'))
@@ -106,7 +106,7 @@ def main(path='.'):
         continue
       mfiles.append([ roots, subj, title, int(time.strftime('%y%m%d%H%M%S', time.localtime(ftime))) ]) 
 
-  mfiles.sort(key=lambda f: f[3], reverse=True)
+  mfiles.sort(key=lambda f: (f[3], f[1], f[2]), reverse=True)
   mroots = []
   msubj = []
   mtitles = []

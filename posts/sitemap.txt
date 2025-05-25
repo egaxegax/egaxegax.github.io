@@ -1651,6 +1651,7 @@ https://egax.ru/index.html?eadaily/250521_1800
 https://egax.ru/index.html?eadaily/250522_1800
 https://egax.ru/index.html?eadaily/250523_1800
 https://egax.ru/index.html?eadaily/250524_1800
+https://egax.ru/index.html?eadaily/250525_1800
 https://egax.ru/index.html?eda
 https://egax.ru/index.html?eda/afrikanskoe_myasnoe_ragu_s_osoboj_fishechkoj_polnyj_recept_po_ssylke_vyshe_shorts
 https://egax.ru/index.html?eda/bananovye_klecki_s_percem_proveryaju_recept_1929_goda_eto_sedobno
@@ -2166,6 +2167,7 @@ https://egax.ru/index.html?habr/espressif_s_esp32-c5
 https://egax.ru/index.html?habr/eto_nebezopasno_nintendo_poprosila_ne_ispolzovat_storonnie_servisy_dlya_onlajn-igr_na_wii_u
 https://egax.ru/index.html?habr/evropejskaya_kompaniya_budet_ispolzovat_yadernye_othody_dlya_proizvodstva_elektroenergii
 https://egax.ru/index.html?habr/faa_prishlos_zamedlit_i_perenapravit_samolety_vblizi_rajona_gde_zametili_padajushchie_oblomki_starship
+https://egax.ru/index.html?habr/fas_priostanovila_antimonopolnoe_delo_protiv_izdatelstva_prosveshchenie_po_delu_o_zavyshenii_cen_na_uchebniki_istorii
 https://egax.ru/index.html?habr/fbr_fejkovye_konvertery_fajlov_rasprostranyajut_vredonosnoe_po
 https://egax.ru/index.html?habr/federacii_kompjuternogo_sporta_rossii_ispolnilos_25_let
 https://egax.ru/index.html?habr/federaciya_kompjuternogo_sporta_rossii_izmenila_format_provedeniya_chempionata_rossii_sbera_2025
@@ -2243,6 +2245,7 @@ https://egax.ru/index.html?habr/google_poluchila_razreshenie_prodavat_knigi_napr
 https://egax.ru/index.html?habr/google_predostavila_vozmojnost_prosmatrivat_i_redaktirovat_zashifrovannye_fajly_microsoft_word_v_google_docs
 https://egax.ru/index.html?habr/google_predstavila_instrumentarij_zentool_dlya_analiza_i_izmeneniya_mikrokoda_processorov_amd_mikroarhitektury_zen_1-4
 https://egax.ru/index.html?habr/google_predstavila_tarifnyj_plan_ai_ultra_za_250
+https://egax.ru/index.html?habr/google_predstavila_wearos_6_s_uvelichennym_vremeni_avtonomnoj_raboty_gadjetov_i_novym_dizajnom_material_3_expressive
 https://egax.ru/index.html?habr/google_predstavili_titan_arhitekturu_nejrosetej_kotoraya_mojet_stat_novoj_serebryanoj_pulej_llm
 https://egax.ru/index.html?habr/google_predstavlyaet_novuju_model_vstraivaniya_teksta_na_baze_gemini
 https://egax.ru/index.html?habr/google_rasshiryaet_vozmojnosti_notebooklm_plus_dlya_individualnyh_polzovatelej
@@ -2319,6 +2322,7 @@ https://egax.ru/index.html?habr/instagram_nachal_testirovat_reklamu_s_licami_pol
 https://egax.ru/index.html?habr/instagram_testiruet_programmu_kotoraya_pozvolit_blogeram_zarabotat_na_privlechenii_novyh_polzovatelej_v_socset
 https://egax.ru/index.html?habr/integraciya_marketingovyh_instrumentov_na_baze_ii_v_microsoft_365_copilot
 https://egax.ru/index.html?habr/intel_i_microsoft_zaregistrirovali_v_rospatente_torgovye_znaki_intel_tiber_i_microsoft_places
+https://egax.ru/index.html?habr/intel_predstavila_prototip_servisa_ai_gaming_coach_lokalnogo_ii-pomoshchnika_v_prohojdenii_slojnyh_momentov_v_igrah
 https://egax.ru/index.html?habr/intel_prodast_kontrolnyj_paket_akcij_chipovogo_biznesa_altera_kompanii_silver_lake
 https://egax.ru/index.html?habr/internet-provajdera_obyazali_raskryt_100_predpolagaemyh_piratov_bittorrent_po_isku_riaa
 https://egax.ru/index.html?habr/intervju_evgeniya_borisova_spring_vs_quarkus_llm_ne_nujen_spring_ajo_podkast_17
@@ -2353,6 +2357,7 @@ https://egax.ru/index.html?habr/issledovateli_razrabotali_tkan_dlya_sohraneniya_
 https://egax.ru/index.html?habr/issledovateli_sozdali_otkrytogo_konkurenta_modeli_rassujdenij_openai_o1_menee_chem_za_50
 https://egax.ru/index.html?habr/issledovateli_vnedryajut_colorbench_dlya_proverki_ponimaniya_cveta_v_modelyah_zritelnogo_yazyka
 https://egax.ru/index.html?habr/issledovateli_vypustili_medrax_medicinskogo_ii-agenta_dlya_analiza_rentgenogramm_grudnoj_kletki
+https://egax.ru/index.html?habr/issledovatelnica_kupila_robota-kota_dlya_svoego_krolika_v_ramkah_eksperimenta
 https://egax.ru/index.html?habr/istoriya_o_tom_kak_elektron_zajeg_jubilej_sigmy
 https://egax.ru/index.html?habr/istoriya_prigotovleniya_docker_dlya_samyh_malenkih
 https://egax.ru/index.html?habr/it-konferencii_v_sibiri_spring_ajo_podkast_8_s_ivanom_uglyanskim_iz_jugnsk_s_polej_snowone
@@ -2414,6 +2419,7 @@ https://egax.ru/index.html?habr/kometa_c_2024_g3_atlas_mojet_dostich_yarkosti_ve
 https://egax.ru/index.html?habr/kommunikacionnaya_platforma_iva_one_vkljuchena_v_reestr_rossijskogo_po
 https://egax.ru/index.html?habr/kompanii_aisnijajut_ceny_v_borbe_za_dolju_na_rynke
 https://egax.ru/index.html?habr/kompanii_massovo_vnedryajut_generative_ai_dlya_uskoreniya_cifrovoj_transformacii
+https://egax.ru/index.html?habr/kompanii_nachali_ispolzovat_ii_dlya_analiza_vliyaniya_poshlin_ssha_na_cepochki_postavok
 https://egax.ru/index.html?habr/kompaniya_allen_ai_novaya_model_t_lu_3_405b_s_otkrytym_ishodnym_kodom_konkuriruet_s_luchshimi_modelyami
 https://egax.ru/index.html?habr/kompaniya_haply_robotics_anonsirovala_prostranstvennuju_mysh_dlya_3d-modelirovaniya
 https://egax.ru/index.html?habr/kompaniya_lumina_ai_vypuskaet_prismrcl_2_6_0_s_rasshirennymi_parametrami_obucheniya_llm
@@ -2442,6 +2448,7 @@ https://egax.ru/index.html?habr/laboratoriya_kasperskogo_podpisala_pakt_evropejs
 https://egax.ru/index.html?habr/laboratoriya_kasperskogo_populyarnymi_provajderami_oblachnyh_reshenij_v_rf_stali_yandex_cloud_i_vk_cloud
 https://egax.ru/index.html?habr/laboratoriya_kasperskogo_rasskazala_o_fishingovoj_kiberatake_s_ispolzovaniem_svg-fajlov
 https://egax.ru/index.html?habr/laboratoriya_kasperskogo_vypustila_dlya_obychnyh_polzovatelej_antivirus_kaspersky_dlya_linux
+https://egax.ru/index.html?habr/laboratoriya_kasperskogo_vypustila_korotkuju_brauzernuju_onlajn_igru_delo_404
 https://egax.ru/index.html?habr/laboratoriya_kasperskogo_zapustila_besplatnyj_onlajn_kurs_o_bezopasnosti_v_internete
 https://egax.ru/index.html?habr/laboratoriya_kasperskogo_zloumyshlenniki_pod_vidom_nadzornyh_organov_kradut_dengi_u_sotrudnikov_rossijskih_kompanij
 https://egax.ru/index.html?habr/lego_predstavila_konstruktor_technic_v_vide_chevrolet_corvette_stingray_kotoryj_znakomit_detej_s_injenernym_delom
@@ -2534,6 +2541,7 @@ https://egax.ru/index.html?habr/microsoft_sluchajno_slomala_menju_pusk_v_windows
 https://egax.ru/index.html?habr/microsoft_sobiraetsya_potratit_80_milliardov_dollarov_v_2025_godu_na_centry_obrabotki_dannyh_dlya_ai
 https://egax.ru/index.html?habr/microsoft_sobiraetsya_zapustit_recall_sredi_uchastnikov_programmy_windows_insider_posle_pauzy_v_razvertyvanii_proekta
 https://egax.ru/index.html?habr/microsoft_teams_budet_blokirovat_zahvat_ekrana_vo_vremya_vstrech
+https://egax.ru/index.html?habr/microsoft_testiruet_funkciju_dejstviya_ii_v_provodnike_windows_11
 https://egax.ru/index.html?habr/microsoft_testiruet_v_windows_11_razmeshchenie_knopki_emodzi_na_paneli_zadach
 https://egax.ru/index.html?habr/microsoft_udalila_temu_material_iz_marketplejsa_vs_code_v_nej_nashli_vredonosnyj_kod
 https://egax.ru/index.html?habr/microsoft_udalit_prilojenie_maps_maps_app_iz_microsoft_store_v_ijule_2025_goda
@@ -2968,6 +2976,7 @@ https://egax.ru/index.html?habr/rossijskij_prodavec_uyazvimostej_predlagaet_do_4
 https://egax.ru/index.html?habr/rossijskij_rynok_sredstv_dlya_zashchity_dannyh_v_2024_godu_uvelichilsya_na_20_dostignuv_23_mlrd_rublej
 https://egax.ru/index.html?habr/rossijskij_startap_neiry_razrabatyvaet_nejrostimulyatory_dlya_povysheniya_nadoev_u_korov
 https://egax.ru/index.html?habr/rossijskim_mediaholdingam_v_2024_godu_prishlos_borotsya_s_piratstvom_aktivnee_chem_ranshe
+https://egax.ru/index.html?habr/rossijskim_vuzam_ogranichat_vozmojnost_obuchat_studentov_na_platnoj_osnove
 https://egax.ru/index.html?habr/rost_populyarnosti_agentov_ispolzujushchih_brauzery_pochemu_proxy_prevoshodit_operator
 https://egax.ru/index.html?habr/rost_populyarnosti_modelej_rassujdenij_ai_delaet_benchmarking_bolee_dorogim
 https://egax.ru/index.html?habr/rost_shtrafov_za_narushenie_avtorskih_prav_novye_patenty_apple_i_liderstvo_samsung_dajdjest_novostej
@@ -2978,12 +2987,14 @@ https://egax.ru/index.html?habr/rostelekom_beltelekom_prodlit_magistralnuju_lini
 https://egax.ru/index.html?habr/rostelekom_predstavil_finansovye_i_operacionnye_rezultaty_deyatelnosti_za_iv_kvartal_i_12_mesyacev_2024_goda
 https://egax.ru/index.html?habr/rostelekom_prisoedinilsya_k_nacionalnomu_standartu_po_zashchite_personalnyh_dannyh
 https://egax.ru/index.html?habr/rostelekom_razrabotal_tarify_dlya_kiberklubov
+https://egax.ru/index.html?habr/rostelekom_t8_i_rfrit_pristupili_k_realizacii_proekta_umnyj_opticheskij_transport
 https://egax.ru/index.html?habr/rshb_da_meetup_kachestvo_dannyh_i_data_vault_2_0_v_dejstvii
 https://egax.ru/index.html?habr/ru_sostoyalsya_reliz_instrumenta_v1_4_2_poiska_po_niku_snoop_project
 https://egax.ru/index.html?habr/rukovoditel_salesforce_prognoziruet_chto_nyneshnie_ceo_budut_poslednimi_s_polnostju_chelovecheskoj_rabochej_siloj
 https://egax.ru/index.html?habr/rukovodstvo_cb_rf_poznakomilos_s_resheniyami_gk_solar
 https://egax.ru/index.html?habr/runet_mts_prekratil_rabotu_svoego_magazina_prilojenij_appbazar
 https://egax.ru/index.html?habr/runway_privlekla_308_millionov_finansirovanie_dlya_razvitiya_ii_v_media
+https://egax.ru/index.html?habr/rush_royale_stala_tretej_igroj_my_games_kotoraya_poluchila_odobrenie_kitajskogo_regulyatora
 https://egax.ru/index.html?habr/rustore_optimiziroval_process_skachivaniya_prilojenij_i_uskoril_ih_zagruzku_na_24
 https://egax.ru/index.html?habr/rutek_predstavila_planshet_r_tab
 https://egax.ru/index.html?habr/ruvds_pristupili_k_ispytaniyam_sputnika-platformy_ruvdssat-1
@@ -4012,6 +4023,7 @@ https://egax.ru/index.html?kino-teatr_ru/afroderevnya_tv-rolik_3
 https://egax.ru/index.html?kino-teatr_ru/agenty_chetyreh_sezonov_vesennij_tanec_tizer_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/ah_kak_hochetsya_vorvatsya_v_akademgorodok_nekij_nauchnyj_rejlgan_vozvrashchaetsya_est_tizer
 https://egax.ru/index.html?kino-teatr_ru/aj_da_pushkin
+https://egax.ru/index.html?kino-teatr_ru/akademiya_nikity_mihalkova_pokajet_na_melihovskoj_vesne_neigrovoj_film_o_chehove_i_spektakl
 https://egax.ru/index.html?kino-teatr_ru/akademiya_vampirov_gordost_i_predubejdenie_i_vampiry
 https://egax.ru/index.html?kino-teatr_ru/aleksandr_adabashyan_rasskajet_o_bednyh_ljudyah_v_teatre_kukol_obrazcova
 https://egax.ru/index.html?kino-teatr_ru/aleksandr_gorchilin_petr_skvorcov_i_anastasiya_krasovskaya_sygrajut_v_video-art_balete_skazki_sna
@@ -4102,6 +4114,7 @@ https://egax.ru/index.html?kino-teatr_ru/chumovaya_pyatnica_2_trejler_na_anglijs
 https://egax.ru/index.html?kino-teatr_ru/cirkovoe_shou_sny_pushkina_gotovitsya_k_premere
 https://egax.ru/index.html?kino-teatr_ru/d_jajda_krovi_trejler_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/daje_osel_zagovoril_trejler_multiplikacionnogo_sbornika_tri_bogatyrya_ni_dnya_bez_podviga-2
+https://egax.ru/index.html?kino-teatr_ru/dandadan_2_sezon_trejler_2_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/dasha_vereshchagina_kirill_dyshlovoj_i_oleg_savostjuk_pretendujut_na_premiju_hudojestvennogo_teatra
 https://egax.ru/index.html?kino-teatr_ru/dasha_vereshchagina_poluchila_premiju_mht_za_rol_alisy_seleznevoj_v_filme_sto_let_tomu_vpered
 https://egax.ru/index.html?kino-teatr_ru/daster_tizer_na_anglijskom_yazyke
@@ -4112,6 +4125,7 @@ https://egax.ru/index.html?kino-teatr_ru/denis_vasilev_katerina_kovalchuk_i_niko
 https://egax.ru/index.html?kino-teatr_ru/denis_vasilev_stolknetsya_s_misticheskimi_prestupleniyami_v_seriale_krestonoscy
 https://egax.ru/index.html?kino-teatr_ru/denis_vasilev_vnov_stanet_sekretnym_agentom_v_novom_sezone_piligrima
 https://egax.ru/index.html?kino-teatr_ru/detektiv_konan_vospominaniya_odnoglazogo_trejler_2_na_yaponskom_yazyke
+https://egax.ru/index.html?kino-teatr_ru/deti-shpiony
 https://egax.ru/index.html?kino-teatr_ru/detka_abjuzivnye_dochki-materi
 https://egax.ru/index.html?kino-teatr_ru/devushka_i_smert_elegiya_o_stradaniyah_junogo_duraka
 https://egax.ru/index.html?kino-teatr_ru/devushki_na_balkone
@@ -4585,6 +4599,7 @@ https://egax.ru/index.html?kino-teatr_ru/prizrak_v_dospehah_tizer_na_yaponskom_y
 https://egax.ru/index.html?kino-teatr_ru/prizrak_v_srednevekovyh_dospehah_anime_po_igre_ghost_of_tsushima_vyjdet_v_2027-m
 https://egax.ru/index.html?kino-teatr_ru/pro_korovu
 https://egax.ru/index.html?kino-teatr_ru/proklyatie_materi_oderjimaya_trejler_s_anglijskimi_subtitrami
+https://egax.ru/index.html?kino-teatr_ru/prostaya_sluchajnost_djafara_panahi_udostoena_zolotoj_palmovoj_vetvi_78-go_kannskogo_kinofestivalya
 https://egax.ru/index.html?kino-teatr_ru/prostokvashino
 https://egax.ru/index.html?kino-teatr_ru/prototip_sobolinogo_doma_tizer_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/pryamoj_efir_igra_na_vyjivanie_v_gorode_mertvyh
@@ -4666,6 +4681,7 @@ https://egax.ru/index.html?kino-teatr_ru/skif_bogatyri_ne_my
 https://egax.ru/index.html?kino-teatr_ru/skrejet_metalla_2_sezon_tizer_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/skuf_samuraj_konstruktor_neobychnye_betmeny_v_kino_i_animacii
 https://egax.ru/index.html?kino-teatr_ru/sledstvie_veli_kazanova_iz_tajgi_otlichnica_iz_rybinska_i_drugie_neobychnye_jenshchiny_v_poiskah_istiny
+https://egax.ru/index.html?kino-teatr_ru/slon_a_vmesto_serdca_plamennyj_motor
 https://egax.ru/index.html?kino-teatr_ru/smert_edinoroga
 https://egax.ru/index.html?kino-teatr_ru/smert_edinoroga_trejler_2_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/smert_edinoroga_trejler_3
@@ -4833,6 +4849,7 @@ https://egax.ru/index.html?kino-teatr_ru/vse_v_polnom_poryadke
 https://egax.ru/index.html?kino-teatr_ru/vtoraya_jizn_very_tv-rolik
 https://egax.ru/index.html?kino-teatr_ru/vtoraya_semya_tv-rolik
 https://egax.ru/index.html?kino-teatr_ru/vtoraya_semya_tv-rolik_2
+https://egax.ru/index.html?kino-teatr_ru/vtoraya_semya_tv-rolik_3
 https://egax.ru/index.html?kino-teatr_ru/vtoraya_storona_pravdy_c_serafimoj_nizovskoj_i_sergeem_maslennikovym_otkroet_nedelju_premer_na_domashnem
 https://egax.ru/index.html?kino-teatr_ru/vtoroj_sezon_anime_dandadan_poyavilsya_trejler_a_chto_eshche_izvestno
 https://egax.ru/index.html?kino-teatr_ru/vtoroj_sezon_roni_docheri_razbojnika_pokajut_v_rossii_vesnoj
@@ -7720,6 +7737,7 @@ https://egax.ru/index.html?ria/250521_2000
 https://egax.ru/index.html?ria/250522_2000
 https://egax.ru/index.html?ria/250523_2000
 https://egax.ru/index.html?ria/250524_2000
+https://egax.ru/index.html?ria/250525_2000
 https://egax.ru/index.html?rok
 https://egax.ru/index.html?rok/24_7_christmas_ambience_fireplace_merry_christmas_2025
 https://egax.ru/index.html?rok/28_11_2013_-_korol_i_shut_minsk_dvorec_sporta
