@@ -6720,6 +6720,7 @@ https://egax.ru/index.html?povarenok_ru/bulochki-ptichki_javoronki
 https://egax.ru/index.html?povarenok_ru/burger-gril_krasnyj_barhat
 https://egax.ru/index.html?povarenok_ru/burger_s_kotletoj_v_perce
 https://egax.ru/index.html?povarenok_ru/buterbrod_hot-dog_s_holodnym_kofe
+https://egax.ru/index.html?povarenok_ru/chahohbili_iz_indejki_s_myatoj
 https://egax.ru/index.html?povarenok_ru/cukkini_s_fundukom_myatoj_i_parmezanom
 https://egax.ru/index.html?povarenok_ru/cvetnaya_kapusta_salat_na_ljuboj_sluchaj
 https://egax.ru/index.html?povarenok_ru/desert_sibirochka
@@ -6760,6 +6761,7 @@ https://egax.ru/index.html?povarenok_ru/kulich_iz_sovetskogo_domovodstva
 https://egax.ru/index.html?povarenok_ru/kulichi_s_brusnichnoj_pomadkoj
 https://egax.ru/index.html?povarenok_ru/kurica_karri
 https://egax.ru/index.html?povarenok_ru/kurica_tushenaya_s_morkovkoj_i_paprikoj
+https://egax.ru/index.html?povarenok_ru/kurica_v_pikantnom_marinade
 https://egax.ru/index.html?povarenok_ru/kurica_zapechennaya_s_harissoj_i_kuragoj
 https://egax.ru/index.html?povarenok_ru/kurica_zapechennaya_s_pomidorami_i_syrom
 https://egax.ru/index.html?povarenok_ru/kurica_zapechennaya_v_miso-imbirnom_souse
@@ -6801,6 +6803,7 @@ https://egax.ru/index.html?povarenok_ru/pasta_vesennyaya_so_sparjej_i_krevetkami
 https://egax.ru/index.html?povarenok_ru/perechnyj_sous_s_kolbaskami_piknik_introverta
 https://egax.ru/index.html?povarenok_ru/perlovaya_kasha_s_indejkoj_polevaya_kuhnya
 https://egax.ru/index.html?povarenok_ru/picca_na_drojjevom_teste
+https://egax.ru/index.html?povarenok_ru/picca_s_kuricej_i_ananasami
 https://egax.ru/index.html?povarenok_ru/pirogi_s_myasnym_farshem_ovoshchami_sousom
 https://egax.ru/index.html?povarenok_ru/pirojki_s_yablochnoj_nachinkoj
 https://egax.ru/index.html?povarenok_ru/podjarka_s_podlivkoj_i_lapshoj
@@ -6868,6 +6871,7 @@ https://egax.ru/index.html?povarenok_ru/zakusochnye_maffiny_s_farshem_indejki
 https://egax.ru/index.html?povarenok_ru/zapechennaya_kukuruza_s_farshem_indejki_meksika
 https://egax.ru/index.html?povarenok_ru/zapechennaya_morkov_s_nutom_finikami_fetoj
 https://egax.ru/index.html?povarenok_ru/zapechennaya_pryanaya_indejka_s_molodoj_kapustoj
+https://egax.ru/index.html?povarenok_ru/zapechennye_yabloki_s_farshem_indejki
 https://egax.ru/index.html?povarenok_ru/zapekanka_s_brokkoli_fasolju_greckimi_orehami
 https://egax.ru/index.html?povarenok_ru/zapekanka_s_brokkoli_i_indejkoj
 https://egax.ru/index.html?povarenok_ru/zaverton_s_indejkoj_i_marinovannymi_ovoshchami
