@@ -22,7 +22,7 @@
 <body>
 <div class="table vp">
 <div id="lbar"></div>
-<div id="root" class="main">
+<div id="root">
 <div id="page_header"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
@@ -75,6 +75,7 @@
         document.getElementById('lbar').innerHTML = '<div id="ya_rtb_lbar_'+i+'" class="mw_3 mh_bar vtop"></div>';
         document.getElementById('rbar').innerHTML = '<div id="ya_rtb_rbar_'+i+'" class="mw_3 mh_bar vtop"></div>';
         addYaRTB_Block('ya_rtb_rbar_'+i, YA_RTB['1']);
+        addYaRTB_Block('ya_rtb_lbar_'+i, YA_RTB['1']);
       }
     }
     if(page.titles.length){
