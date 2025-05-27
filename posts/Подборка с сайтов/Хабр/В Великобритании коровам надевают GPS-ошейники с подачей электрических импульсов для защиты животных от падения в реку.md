@@ -1,0 +1,4 @@
+<!--2025-05-27 13:32:43-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/webt/c7/ns/xu/c7nsxupnwutjqboexxozk2yvvpy.jpeg" /><p>В Великобритании коровам начали надевать GPS-ошейники на солнечных батареях. Устройства <a href="https://www.bbc.com/news/articles/cj4229k744lo" rel="noopener noreferrer nofollow">издают</a> пронзительный звук, когда животное движется к реке. Если корова не разворачивается, ошейник подаёт слабый электрический импульс.</p> <a href="https://habr.com/ru/articles/913284/#habracut">Читать... <p class="titl"><a href="https://habr.com/ru/news/913284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=913284">В Великобритании коровам надевают GPS-ошейники с подачей электрических импульсов для защиты животных от падения в реку</a></p></div>
+</div>

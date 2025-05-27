@@ -1,0 +1,4 @@
+<!--2025-05-26 12:10:59-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/fa8/e1c/105/fa8e1c105eb265da234f88155d9126f9.png" /><p><em>22 мая на международном киберфестивале Positive Hack Days 2025 первый российский провайдер киберустойчивости Innostage объявил об увеличении с 10 до 20 млн рублей вознаграждения для «белых» хакеров за реализацию недопустимого события в своей инфраструктуре в рамках партнерства с АО «Кибериспытание». Символично, что компания вышла на открытые кибериспытания... <p class="titl"><a href="https://habr.com/ru/companies/innostage/news/912890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=912890">Innostage подводит итоги первого года открытых кибериспытаний и удваивает награду за успешную атаку</a></p></div>
+</div>
