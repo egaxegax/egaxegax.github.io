@@ -12,7 +12,7 @@
 <title>Книги / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250525">
-<link rel="stylesheet" href="/static/css/books.css?250518">
+<link rel="stylesheet" href="/static/css/books.css?250531">
 <script src="/static/js/template.js?250509"></script>
 <script src="/static/js/metrics.js?250527" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
@@ -73,11 +73,11 @@
     '<p class="small gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   (pdate ? '<p class="small"><span class="gray">Год</span> &nbsp; '+pdate+'</p>' : '')+
   (!isNaN(ci) ? 
-    '<p>'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... '+
+    '<p class="descr">'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... '+
       ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'
     : 
-    '<p>'+r+
-      '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Найти и читать...</a>'+
+    '<p class="descr">'+r+
+      '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Скачать и читать...</a>'+
     '</p>')+
   '</div>';
     if(isNaN(ci) && window.addYaRTB_Block){
