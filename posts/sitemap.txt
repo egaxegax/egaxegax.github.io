@@ -6846,6 +6846,7 @@ https://egax.ru/index.html?povarenok_ru/belkovaya_frittata_s_kuricej_i_brynzoj
 https://egax.ru/index.html?povarenok_ru/bityj_redis
 https://egax.ru/index.html?povarenok_ru/bliny_k_zavtraku_prigotovlennye_na_kipyatke
 https://egax.ru/index.html?povarenok_ru/bliny_prigotovlennye_na_vzbityh_belkah
+https://egax.ru/index.html?povarenok_ru/brusketty_na_prazdnichnyj_stol
 https://egax.ru/index.html?povarenok_ru/bulki-lodochki_s_farshem_i_syrom
 https://egax.ru/index.html?povarenok_ru/bulochki-ptichki_javoronki
 https://egax.ru/index.html?povarenok_ru/burger-gril_krasnyj_barhat
@@ -6876,6 +6877,7 @@ https://egax.ru/index.html?povarenok_ru/indejka_na_otkrytom_ogne
 https://egax.ru/index.html?povarenok_ru/indejka_zapechennaya_v_lukovom_klyare
 https://egax.ru/index.html?povarenok_ru/jarenaya_kapusta_s_gorchicej_i_garlupoj
 https://egax.ru/index.html?povarenok_ru/kanape_s_syrovyalenym_file_bedra_indejki
+https://egax.ru/index.html?povarenok_ru/kapustniki_s_indejkoj
 https://egax.ru/index.html?povarenok_ru/kapustno-morkovnyj_salat_s_yablokom
 https://egax.ru/index.html?povarenok_ru/kapustnyj_smuzi_s_tomatami
 https://egax.ru/index.html?povarenok_ru/kartofelnye_lodochki_s_indejkoj_i_suluguni
@@ -6909,6 +6911,7 @@ https://egax.ru/index.html?povarenok_ru/kurinoe_file_s_oreshkami_i_risom
 https://egax.ru/index.html?povarenok_ru/kurinoe_file_v_souse_karri
 https://egax.ru/index.html?povarenok_ru/kurinye_kotlety_nejnye
 https://egax.ru/index.html?povarenok_ru/lenivye_onigiri
+https://egax.ru/index.html?povarenok_ru/lepeshka-gril_s_sosiskoj_i_kartofelem
 https://egax.ru/index.html?povarenok_ru/limonnaya_ryba_v_vesennem_souse_agrodolche
 https://egax.ru/index.html?povarenok_ru/limonnoe_talyatelle_so_sparjej_i_goroshkom
 https://egax.ru/index.html?povarenok_ru/limonnyj_jereh_v_aerogrile
@@ -6935,6 +6938,7 @@ https://egax.ru/index.html?povarenok_ru/omlet_s_perlovoj_kashej_i_sosiskami
 https://egax.ru/index.html?povarenok_ru/orehovaya_kasha_iz_yachmennyh_hlopev_top-shlep
 https://egax.ru/index.html?povarenok_ru/ovoshchnoj_rulet_s_yaichnym_salatom
 https://egax.ru/index.html?povarenok_ru/ovoshchnoj_salat_s_kolbasnymi_snekami
+https://egax.ru/index.html?povarenok_ru/ovoshchnoj_salat_s_varenym_adygejskim_syrom
 https://egax.ru/index.html?povarenok_ru/ovsyanye_keksy
 https://egax.ru/index.html?povarenok_ru/panini-gril
 https://egax.ru/index.html?povarenok_ru/pasha_smetannaya_varenaya
@@ -6954,6 +6958,7 @@ https://egax.ru/index.html?povarenok_ru/podjarka_s_podlivkoj_i_lapshoj
 https://egax.ru/index.html?povarenok_ru/polosatoe_pirojnoe_s_varenoj_sgushchenkoj
 https://egax.ru/index.html?povarenok_ru/pyatachki_iz_lavasha_s_sosiskami
 https://egax.ru/index.html?povarenok_ru/ragu_iz_indejki_s_ovoshchami_a-lya_afritada
+https://egax.ru/index.html?povarenok_ru/rasam_ili_tomatno-chesnochnyj_sup
 https://egax.ru/index.html?povarenok_ru/rojki-pirojki_s_indejkoj
 https://egax.ru/index.html?povarenok_ru/rolly_cvetok
 https://egax.ru/index.html?povarenok_ru/ruladin_iz_indejki_pod_brusnichnym_sousom
