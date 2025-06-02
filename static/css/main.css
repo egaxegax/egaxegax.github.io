@@ -72,6 +72,7 @@ pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
 .mh_1 { max-height:250px; }
 .mh_2 { max-height:195px; }
 .mh { max-height:300px; }
+.mhw { min-height:300px; max-height:350px; }
 .mw { max-width:750px; }
 .mw_1 { max-width:165px; }
 .mw_2 { max-width:820px; }

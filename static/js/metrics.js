@@ -71,7 +71,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
           default:       window.yaContextCb.push(function(){Ya.Context.AdvManager.render({darkTheme:p_dark, blockId:'R-A-14075053-'+rtbid, renderTo:blid, type:typ});}); break;
         }
       }
-      if(!blid) run();
+      if(!blid || typ == 'widget') run();
       else if(document.getElementById(blid))
         (new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
     };

@@ -272,9 +272,12 @@ https://egax.ru/books.html?anatolij_nikolaevich_bukreev/everest_smertelnoe_vosho
 https://egax.ru/books.html?anatolij_p_bezyaev
 https://egax.ru/books.html?anatolij_p_bezyaev/domashnee_vinodelie
 https://egax.ru/books.html?andjej_sapkovskij
+https://egax.ru/books.html?andjej_sapkovskij/krov_elfov
+https://egax.ru/books.html?andjej_sapkovskij/poslednee_jelanie_mech_prednaznacheniya
 https://egax.ru/books.html?andjej_sapkovskij/vedmak_sbornik
 https://egax.ru/books.html?andjej_sapkovskij/vedmak_sezon_groz
 https://egax.ru/books.html?andjej_sapkovskij/vedmak_sezon_groz_doroga_bez_vozvrata
+https://egax.ru/books.html?andjej_sapkovskij/vladychica_ozera
 https://egax.ru/books.html?andre_morua
 https://egax.ru/books.html?andre_morua/literaturnye_portrety
 https://egax.ru/books.html?andre_morua/pisma_neznakomke
@@ -403,6 +406,8 @@ https://egax.ru/books.html?andrej_tarkovskij
 https://egax.ru/books.html?andrej_tarkovskij/stalker_literaturnaya_zapis_kinofilma
 https://egax.ru/books.html?andrej_zemskov
 https://egax.ru/books.html?andrej_zemskov/poryadok_v_tankovyh_vojskah
+https://egax.ru/books.html?andrej_zverev
+https://egax.ru/books.html?andrej_zverev/ohota_na_novobranca
 https://egax.ru/books.html?anna_aleksandrovna_kuvajkova
 https://egax.ru/books.html?anna_aleksandrovna_kuvajkova/oskolki_proshlogo_epizod_i
 https://egax.ru/books.html?anna_aleksandrovna_kuvajkova/oskolki_proshlogo_epizod_ii

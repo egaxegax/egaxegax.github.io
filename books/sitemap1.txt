@@ -272,9 +272,12 @@ https://egaxegax.github.io/books.html?anatolij_nikolaevich_bukreev/everest_smert
 https://egaxegax.github.io/books.html?anatolij_p_bezyaev
 https://egaxegax.github.io/books.html?anatolij_p_bezyaev/domashnee_vinodelie
 https://egaxegax.github.io/books.html?andjej_sapkovskij
+https://egaxegax.github.io/books.html?andjej_sapkovskij/krov_elfov
+https://egaxegax.github.io/books.html?andjej_sapkovskij/poslednee_jelanie_mech_prednaznacheniya
 https://egaxegax.github.io/books.html?andjej_sapkovskij/vedmak_sbornik
 https://egaxegax.github.io/books.html?andjej_sapkovskij/vedmak_sezon_groz
 https://egaxegax.github.io/books.html?andjej_sapkovskij/vedmak_sezon_groz_doroga_bez_vozvrata
+https://egaxegax.github.io/books.html?andjej_sapkovskij/vladychica_ozera
 https://egaxegax.github.io/books.html?andre_morua
 https://egaxegax.github.io/books.html?andre_morua/literaturnye_portrety
 https://egaxegax.github.io/books.html?andre_morua/pisma_neznakomke
@@ -403,6 +406,8 @@ https://egaxegax.github.io/books.html?andrej_tarkovskij
 https://egaxegax.github.io/books.html?andrej_tarkovskij/stalker_literaturnaya_zapis_kinofilma
 https://egaxegax.github.io/books.html?andrej_zemskov
 https://egaxegax.github.io/books.html?andrej_zemskov/poryadok_v_tankovyh_vojskah
+https://egaxegax.github.io/books.html?andrej_zverev
+https://egaxegax.github.io/books.html?andrej_zverev/ohota_na_novobranca
 https://egaxegax.github.io/books.html?anna_aleksandrovna_kuvajkova
 https://egaxegax.github.io/books.html?anna_aleksandrovna_kuvajkova/oskolki_proshlogo_epizod_i
 https://egaxegax.github.io/books.html?anna_aleksandrovna_kuvajkova/oskolki_proshlogo_epizod_ii
