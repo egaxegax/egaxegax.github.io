@@ -99,7 +99,7 @@
       '<td width="99%"><a class="hspace nodecor light" href="/index.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
     '</tr></table>'+
   '</div>';
-    if(window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_posts', ['заметки', p.root, p.subj]);
+    if(window.addYaRTB_Widget && p.view == 'post') addYaRTB_Widget('ya_rtb_wid', 'widget_posts', ['заметки', p.root, p.subj]);
   }
 
   function addPageContent(roots, subjects, posts, page, iinit){
