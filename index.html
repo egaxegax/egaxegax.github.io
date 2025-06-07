@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250524">
 <script src="/static/js/template.js?250510"></script>
-<script src="/static/js/metrics.js?250519" data-floor="1"></script>
+<script src="/static/js/metrics.js?250607" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
 <body>
@@ -99,6 +99,7 @@
       '<td width="99%"><a class="hspace nodecor light" href="/index.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
     '</tr></table>'+
   '</div>';
+    if(window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_posts', ['заметки', p.root, p.subj]);
   }
 
   function addPageContent(roots, subjects, posts, page, iinit){
@@ -121,7 +122,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], url: '/posts/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, root: root, subj: subj, title: page.titles[i], url: '/posts/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages

@@ -125,13 +125,7 @@
     '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
   '</div>';
     addSongChords();
-    if(window.addYaRTB_Block){
-      document.head.innerHTML += 
-    '<meta property="yandex_recommendations_category" content="'+(p.root)+'"/>'+
-    '<meta property="yandex_recommendations_image" content="'+'/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'">';
-      document.getElementById('page_content').innerHTML += '<div id="ya_rtb_wid" class="marg mw_2 mhw"></div>';
-      addYaRTB_Block('ya_rtb_wid', YA_RTB['widget_songs'], 'widget');
-    };
+    if(window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_songs', ['песни', p.root, p.subj]);
   }
   //
   // Add icons chords by jtab.js & rafael.js
