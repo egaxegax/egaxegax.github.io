@@ -75,8 +75,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
       else if(document.getElementById(blid))
         (new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
     };
-    while(YA_TMR.length) clearInterval(YA_TMR.pop());
-    YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
+    if(typ != 'widget') while(YA_TMR.length) clearInterval(YA_TMR.pop());
+    if(typ != 'widget') YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
     setTimeout(ads);
   };
   // [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
