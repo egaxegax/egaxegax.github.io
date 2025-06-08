@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/static/css/main.css?250525">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250608">
-<script src="/static/js/template.js?250510"></script>
+<script src="/static/js/template.js?250609"></script>
 <script src="/static/js/metrics.js?250609" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -53,7 +53,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r)  // fix link url to absolute in README.md
           .replace(/href="([^\"]+).md/g, function(m,fld){ return 'class="nodecor" href="/index.html?'+tr(p.subj)+'/'+tr(decodeURI(fld)) }); 
-    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,255).trim());
+    updateMetaTag('description', trstr(html.replace(/(<([^>]+)>)/gi,'').slice(0,512)));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
     document.title = document.title.replace('README', p.subj);
     document.getElementById(p.id).innerHTML = 
@@ -77,7 +77,7 @@
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
           .replace('hqdefault.jpg', 'mqdefault.jpg');  // fix youtube 16:9 img size 
-    updateMetaTag('description', html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255).trim() + ' ' + (urlParams().page||''));
+    updateMetaTag('description', trstr(html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,512)) + ' ' + (urlParams().page||''));
     updateMetaTag('keywords', buildSubPath(ROOTS, SUBJ, p.title[0]).replace(' / ', ', ') +', читать, смотреть, видео, посты, статьи');
     if(p.view == 'post' && html.search('data-videoid')>-1){
       html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
