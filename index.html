@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250608">
 <script src="/static/js/template.js?250510"></script>
-<script src="/static/js/metrics.js?250607" data-floor="1"></script>
+<script src="/static/js/metrics.js?250609" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
 <body>
@@ -53,7 +53,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r)  // fix link url to absolute in README.md
           .replace(/href="([^\"]+).md/g, function(m,fld){ return 'class="nodecor" href="/index.html?'+tr(p.subj)+'/'+tr(decodeURI(fld)) }); 
-    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,220));
+    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,255).trim());
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
     document.title = document.title.replace('README', p.subj);
     document.getElementById(p.id).innerHTML = 
@@ -109,7 +109,7 @@
       return 1;
     }
     if(window.addYaRTB_Block && iinit) {
-      document.querySelector('.mh_hd').style.minHeight = '130px';
+      document.querySelector('.mh_hd').style.minHeight = '140px';
       document.querySelector('.mh_hd').style.marginBottom = '5px';
       addYaRTB_Block('ya_rtb_hd', YA_RTB[1]);
     }

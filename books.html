@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/static/css/main.css?250602">
 <link rel="stylesheet" href="/static/css/books.css?250531">
 <script src="/static/js/template.js?250509"></script>
-<script src="/static/js/metrics.js?250607" data-floor="1"></script>
+<script src="/static/js/metrics.js?250609" data-floor="1"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
 <body>
@@ -61,7 +61,7 @@
   function addLast(r,p,ci){
     var pdate = (r.match(/pdate:\s*(\d+)/) || ['',''])[1];
     var text = r;
-    updateMetaTag('description', trstr(text).slice(0,1024) + ' - ' + (urlParams().page||''));
+    updateMetaTag('description', text.replace(/(<([^>]+)>)/gi,'').slice(0,1024).trim() + ' ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
   '<div class="book msgtext inlbl vtop">'+
@@ -104,7 +104,7 @@
       return 1;
     }
     if(window.addYaRTB_Block && iinit) {
-      document.querySelector('.mh_hd').style.minHeight = '130px';
+      document.querySelector('.mh_hd').style.minHeight = '140px';
       document.querySelector('.mh_hd').style.marginBottom = '5px';
       addYaRTB_Block('ya_rtb_hd', YA_RTB[2]);
     }

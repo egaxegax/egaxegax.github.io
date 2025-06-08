@@ -82,7 +82,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.addYaRTB_Widget = function(blid, widgetid, cats){
     document.head.innerHTML += 
     '<meta property="yandex_recommendations_category" content="'+(cats.join(', '))+'"/>'+
-      (document.querySelector('img') ? 
+      (document.querySelector('img:not([data-cid])') ? 
     '<meta property="yandex_recommendations_image" content="'+(document.querySelector('img').src)+'">' : '');
       document.getElementById('page_content').innerHTML += '<div id='+blid+' class="marg mw_2 mhw"></div>';
       addYaRTB_Block(blid, YA_RTB[widgetid], 'widget');
@@ -104,7 +104,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         var f = function(){var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
         if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
       })(document, window, 'tmr-code');
-      e.innerHTML += '<a href="https://top.mail.ru/stat?id=3596974"><img src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;" /></a>';
+      e.innerHTML += '<a href="https://top.mail.ru/stat?id=3596974"><img data-cid="3596974" src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;" /></a>';
     });
   },100);
 }
