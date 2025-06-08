@@ -61,7 +61,7 @@
   function addLast(r,p,ci){
     var pdate = (r.match(/pdate:\s*(\d+)/) || ['',''])[1];
     var text = r;
-    updateMetaTag('description', trstr(text).slice(0,1024) + ' Описания книг ' + (urlParams().page||''));
+    updateMetaTag('description', trstr(text).slice(0,1024) + ' - ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
   '<div class="book msgtext inlbl vtop">'+

@@ -53,7 +53,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r)  // fix link url to absolute in README.md
           .replace(/href="([^\"]+).md/g, function(m,fld){ return 'class="nodecor" href="/index.html?'+tr(p.subj)+'/'+tr(decodeURI(fld)) }); 
-    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,200));
+    updateMetaTag('description', html.replace(/(<([^>]+)>)/gi,'').slice(0,220));
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
     document.title = document.title.replace('README', p.subj);
     document.getElementById(p.id).innerHTML = 
@@ -77,8 +77,8 @@
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
           .replace('hqdefault.jpg', 'mqdefault.jpg');  // fix youtube 16:9 img size 
-    updateMetaTag('description', buildSubPath(ROOTS, SUBJ, p.title[0]).replace(' / ', ', ')+', '+html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255) + ' ' + (urlParams().page||''));
-    updateMetaTag('keywords', p.subj+', '+p.title[2]+', читать, смотреть, видео, посты, статьи');
+    updateMetaTag('description', html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,255).trim() + ' ' + (urlParams().page||''));
+    updateMetaTag('keywords', buildSubPath(ROOTS, SUBJ, p.title[0]).replace(' / ', ', ') +', читать, смотреть, видео, посты, статьи');
     if(p.view == 'post' && html.search('data-videoid')>-1){
       html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
         '<iframe class="embed" align="middle" '+
