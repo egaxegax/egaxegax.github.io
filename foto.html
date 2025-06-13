@@ -77,7 +77,7 @@
     if(window.VK) if(!VK.IsInit) VK.IsInit = VK.init({ apiId: 4748959, onlyWidgets: true });
     if(window.VK) if(VK.Widgets) VK.Widgets.Like('vklike'+p.i, {type: 'mini', height: 22});
     // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', YA_RTB['inimage'], 'inImg');
-    if(window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_foto', ['картинки, фотки', p.root, p.subj]);
+    if(p.ci && window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_foto', ['картинки, фотки', p.root, p.subj]);
   }
 
   function addPageContent(roots, subjects, fotos, page, iinit){
@@ -104,7 +104,7 @@
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addFoto(p);
-      })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, subj: subj, title: page.titles[i], 
+      })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (fotos.length==1), subj: subj, title: page.titles[i], 
         url: '/foto/'+root+'/'+subj+'/th/'+title+'.jpg',
         fullurl: '/foto/'+root+'/'+subj+'/'+title+'.jpg'});
     }
