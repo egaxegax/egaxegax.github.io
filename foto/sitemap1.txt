@@ -28,6 +28,8 @@ https://egaxegax.github.io/foto.html?moskva/severnoe_chertanovo_maj_2022g
 https://egaxegax.github.io/foto.html?moskva/sosny_v_milicejskom_poselke_maj_2025g
 https://egaxegax.github.io/foto.html?moskva/v_bitcevskom_parke_novye_dorojki_ijul_2023g
 https://egaxegax.github.io/foto.html?moskva/v_bitcevskom_parke_vid_na_m_lesoparkovuju_maj_24g
+https://egaxegax.github.io/foto.html?moskva/v_kuzminskom_parke_alleya_u_nalogovoj_mart_2025g
+https://egaxegax.github.io/foto.html?moskva/v_kuzminskom_parke_vid_na_prud_mart_2025g
 https://egaxegax.github.io/foto.html?moskva/varshavskie_prudy
 https://egaxegax.github.io/foto.html?moskva/vechernyaya_moskva_ju_butovo_oktyabr_2023g
 https://egaxegax.github.io/foto.html?moskva/vid_na_butovo_park_2_mart_2024g
@@ -53,8 +55,8 @@ https://egaxegax.github.io/foto.html?priroda/osennyaya_bereza_v_podmoskove_senty
 https://egaxegax.github.io/foto.html?priroda/prud_u_dorogi_v_podmoskove_sentyabr_2023g
 https://egaxegax.github.io/foto.html?priroda/rybak_na_zaharinskom_pruda_sentyabr_2023g
 https://egaxegax.github.io/foto.html?priroda/samolet_v_sinem_nebe_sentyabr_2023g
-https://egaxegax.github.io/foto.html?priroda/sinee_nebo_letom
 https://egaxegax.github.io/foto.html?priroda/sinee_nebo_nad_lesom_v_yaganovo_sentyabr_2023g
+https://egaxegax.github.io/foto.html?priroda/sinee_nebo_sentyabr_2025g
 https://egaxegax.github.io/foto.html?priroda/sochnye_yablochki_u_stancii_yaganovo_sentyabr_2014g
 https://egaxegax.github.io/foto.html?priroda/sosny_na_zakate_v_milicejskom_poselke_ijun_2024g
 https://egaxegax.github.io/foto.html?priroda/spelaya_ryabina_v_jujnom_butovo_avgust_2023g
@@ -66,6 +68,8 @@ https://egaxegax.github.io/foto.html?raznye
 https://egaxegax.github.io/foto.html?raznye/kak_pravilno_zavarivat_chaj
 https://egaxegax.github.io/foto/Москва/В Битцевском парке. Вид на м.Лесопарковую. Май 24г.jpg
 https://egaxegax.github.io/foto/Москва/В Битцевском парке. Новые дорожки. Июль 2023г.jpg
+https://egaxegax.github.io/foto/Москва/В Кузьминском парке. Аллея у Налоговой. Март 2025г.jpg
+https://egaxegax.github.io/foto/Москва/В Кузьминском парке. Вид на пруд. Март 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Варшавские пруды.jpg
 https://egaxegax.github.io/foto/Москва/Вечерняя Москва (Ю.Бутово). Октябрь 2023г.jpg
 https://egaxegax.github.io/foto/Москва/Вид на Бутово Парк 2. Март 2024г.jpg
@@ -98,8 +102,8 @@ https://egaxegax.github.io/foto/Природа/Осенняя береза в П
 https://egaxegax.github.io/foto/Природа/Пруд у дороги в Подмосковье. Сентябрь 2023г.jpg
 https://egaxegax.github.io/foto/Природа/Рыбак на Захарьинском пруда.Сентябрь 2023г.jpg
 https://egaxegax.github.io/foto/Природа/Самолет в синем небе. Сентябрь 2023г.jpg
-https://egaxegax.github.io/foto/Природа/Синее небо летом.jpg
 https://egaxegax.github.io/foto/Природа/Синее небо над лесом в Яганово. Сентябрь 2023г.jpg
+https://egaxegax.github.io/foto/Природа/Синее небо. Сентябрь 2025г.jpg
 https://egaxegax.github.io/foto/Природа/Сосны на закате в Милицейском поселке. Июнь 2024г.jpg
 https://egaxegax.github.io/foto/Природа/Сочные яблочки у станции Яганово. Сентябрь 2014г.jpg
 https://egaxegax.github.io/foto/Природа/Спелая рябина в Южном Бутово. Август 2023г.jpg

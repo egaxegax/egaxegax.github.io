@@ -28,6 +28,8 @@ https://egax.ru/foto.html?moskva/severnoe_chertanovo_maj_2022g
 https://egax.ru/foto.html?moskva/sosny_v_milicejskom_poselke_maj_2025g
 https://egax.ru/foto.html?moskva/v_bitcevskom_parke_novye_dorojki_ijul_2023g
 https://egax.ru/foto.html?moskva/v_bitcevskom_parke_vid_na_m_lesoparkovuju_maj_24g
+https://egax.ru/foto.html?moskva/v_kuzminskom_parke_alleya_u_nalogovoj_mart_2025g
+https://egax.ru/foto.html?moskva/v_kuzminskom_parke_vid_na_prud_mart_2025g
 https://egax.ru/foto.html?moskva/varshavskie_prudy
 https://egax.ru/foto.html?moskva/vechernyaya_moskva_ju_butovo_oktyabr_2023g
 https://egax.ru/foto.html?moskva/vid_na_butovo_park_2_mart_2024g
@@ -53,8 +55,8 @@ https://egax.ru/foto.html?priroda/osennyaya_bereza_v_podmoskove_sentyabr_2023g
 https://egax.ru/foto.html?priroda/prud_u_dorogi_v_podmoskove_sentyabr_2023g
 https://egax.ru/foto.html?priroda/rybak_na_zaharinskom_pruda_sentyabr_2023g
 https://egax.ru/foto.html?priroda/samolet_v_sinem_nebe_sentyabr_2023g
-https://egax.ru/foto.html?priroda/sinee_nebo_letom
 https://egax.ru/foto.html?priroda/sinee_nebo_nad_lesom_v_yaganovo_sentyabr_2023g
+https://egax.ru/foto.html?priroda/sinee_nebo_sentyabr_2025g
 https://egax.ru/foto.html?priroda/sochnye_yablochki_u_stancii_yaganovo_sentyabr_2014g
 https://egax.ru/foto.html?priroda/sosny_na_zakate_v_milicejskom_poselke_ijun_2024g
 https://egax.ru/foto.html?priroda/spelaya_ryabina_v_jujnom_butovo_avgust_2023g
@@ -66,6 +68,8 @@ https://egax.ru/foto.html?raznye
 https://egax.ru/foto.html?raznye/kak_pravilno_zavarivat_chaj
 https://egax.ru/foto/Москва/В Битцевском парке. Вид на м.Лесопарковую. Май 24г.jpg
 https://egax.ru/foto/Москва/В Битцевском парке. Новые дорожки. Июль 2023г.jpg
+https://egax.ru/foto/Москва/В Кузьминском парке. Аллея у Налоговой. Март 2025г.jpg
+https://egax.ru/foto/Москва/В Кузьминском парке. Вид на пруд. Март 2025г.jpg
 https://egax.ru/foto/Москва/Варшавские пруды.jpg
 https://egax.ru/foto/Москва/Вечерняя Москва (Ю.Бутово). Октябрь 2023г.jpg
 https://egax.ru/foto/Москва/Вид на Бутово Парк 2. Март 2024г.jpg
@@ -98,8 +102,8 @@ https://egax.ru/foto/Природа/Осенняя береза в Подмос�
 https://egax.ru/foto/Природа/Пруд у дороги в Подмосковье. Сентябрь 2023г.jpg
 https://egax.ru/foto/Природа/Рыбак на Захарьинском пруда.Сентябрь 2023г.jpg
 https://egax.ru/foto/Природа/Самолет в синем небе. Сентябрь 2023г.jpg
-https://egax.ru/foto/Природа/Синее небо летом.jpg
 https://egax.ru/foto/Природа/Синее небо над лесом в Яганово. Сентябрь 2023г.jpg
+https://egax.ru/foto/Природа/Синее небо. Сентябрь 2025г.jpg
 https://egax.ru/foto/Природа/Сосны на закате в Милицейском поселке. Июнь 2024г.jpg
 https://egax.ru/foto/Природа/Сочные яблочки у станции Яганово. Сентябрь 2014г.jpg
 https://egax.ru/foto/Природа/Спелая рябина в Южном Бутово. Август 2023г.jpg
