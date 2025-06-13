@@ -13,8 +13,8 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250525">
 <link rel="stylesheet" href="/static/css/foto.css?250508">
-<script src="/static/js/template.js?250510"></script>
-<script src="/static/js/metrics.js?250609" data-floor="0"></script>
+<script src="/static/js/template.js?250613"></script>
+<script src="/static/js/metrics.js?250613" data-floor="0"></script>
 </head>
 <body>
 <div id="header" class="scroll nowrap tcenter">
@@ -77,6 +77,7 @@
     if(window.VK) if(!VK.IsInit) VK.IsInit = VK.init({ apiId: 4748959, onlyWidgets: true });
     if(window.VK) if(VK.Widgets) VK.Widgets.Like('vklike'+p.i, {type: 'mini', height: 22});
     // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', YA_RTB['inimage'], 'inImg');
+    if(window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_foto', ['картинки, фотки', p.root, p.subj]);
   }
 
   function addPageContent(roots, subjects, fotos, page, iinit){

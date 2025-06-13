@@ -24,7 +24,7 @@
 .rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/template.js?250510"></script>
+<script src="/static/js/template.js?250613"></script>
 <script src="/static/js/metrics.js?250609" data-floor="1"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -98,7 +98,7 @@
     var converter = new showdown.Converter(), // to markdown    
         text = r,
         html = converter.makeHtml(text);
-    updateMetaTag('description', p.subj+', '+trstr(text));
+    updateMetaTag('description', p.subj+', '+trstr(text, '.,'));
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext collapse inlbl vmid mw_b"><tr>'+
     '<td class="about"><img class="rounded" src="'+'/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
@@ -111,7 +111,7 @@
     var converter = new showdown.Converter(), // to markdown    
         text = r.replace(/<\!--.*-->\s*/, ''),
         html = converter.makeHtml(text);
-    updateMetaTag('description', trstr(text).slice(0,1024));
+    updateMetaTag('description', trstr(text, '.,:;!?()').slice(0,1024));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
   '<div class="tcenter">'+

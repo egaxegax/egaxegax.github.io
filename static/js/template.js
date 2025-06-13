@@ -230,10 +230,10 @@ function tr(s){
 //
 // remove special chars
 //
-function trstr(t){
+function trstr(t,e){
   var tr = [];
   for (var i=0; i<t.length; ++i){
-    if (' .,;-_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789'.indexOf(t[i].toLowerCase()) > -1){
+    if (((e||'')+' -_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789').indexOf(t[i].toLowerCase()) > -1){
       tr.push( t[i] );
     } else {
       tr.push(' ');
