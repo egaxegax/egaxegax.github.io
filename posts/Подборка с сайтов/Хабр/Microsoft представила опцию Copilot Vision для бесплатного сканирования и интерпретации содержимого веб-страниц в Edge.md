@@ -1,0 +1,4 @@
+<!--2025-06-13 12:22:15-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/webt/dv/mq/-s/dvmq-s10zlw0tunresirct3xtmk.jpeg" /><p>Microsoft <a href="https://www.microsoft.com/ru-ru/edge/copilot/vision?cs=3457492030&amp;form=MA13FJ" rel="noopener noreferrer nofollow">запустила</a> бесплатную функцию для приложения Copilot на Windows 10 и Windows 11 — Copilot Vision. Она позволяет искусственному интеллекту видеть, что происходит в браузере Edge, предлагая дополнительную информацию, контекст и анализ в режиме реального... <p class="titl"><a href="https://habr.com/ru/news/918154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918154">Microsoft представила опцию Copilot Vision для бесплатного сканирования и интерпретации содержимого веб-страниц в Edge</a></p></div>
+</div>
