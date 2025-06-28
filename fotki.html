@@ -56,8 +56,8 @@
       updateMetaTag('keywords', p.title[2]+', '+ p.subj + ', подборки фотографий');
     }
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext tcenter"><a target="_blank" href="'+p.fullurl+'">'+
-    '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
+  '<div class="msgtext tcenter"><a target="_blank" href="'+p.url+'">'+
+    '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" height="640px" alt="">'+
   '</a></div>'+
   '<div id="ya_rtb_'+p.i+'" class="bmarg mw_1 mh_sm"></div>'+
   '<div class="msgfooter tright mw_f nowrap scroll">'+
@@ -104,8 +104,7 @@
         wrap.className = 'wrap';
         addFoto(p);
       })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (fotos.length==1), subj: subj, title: page.titles[i], 
-        url: title.replace('.jpg', '.md.jpg'),
-        fullurl: title});
+        url: title});
     }
     if(page.titles.length){
       document.getElementById('page_footer').innerHTML = addPaginator(fotos, page,
