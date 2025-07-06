@@ -1,0 +1,4 @@
+<!--2025-07-04 13:07:24-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/3ae/700/628/3ae700628e9a4da310c55aea52b8aceb.png" /><p>Представитель ЦБ РФ <a href="https://1prime.ru/20250704/indiya-859179950.html" rel="noopener noreferrer nofollow">предложил</a> передать на аутсорсинг в Индию часть российских IT-проектов из-за дефицита квалифицированных кадров и команд разработчиков на рынке России. Это предложение сделал заместитель начальника Дальневосточного главного управления ЦБ РФ Денис... <p class="titl"><a href="https://habr.com/ru/news/925048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925048">В ЦБ РФ предложили передать на аутсорсинг в Индию часть российских IT-проектов из-за дефицита разработчиков в России</a></p></div>
+</div>

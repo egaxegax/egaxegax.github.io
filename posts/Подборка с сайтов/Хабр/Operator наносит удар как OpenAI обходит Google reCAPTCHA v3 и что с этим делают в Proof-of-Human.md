@@ -1,0 +1,4 @@
+<!--2025-06-30 12:52:30-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/bcf/17f/b00/bcf17fb00d01e0e3ccb42fd132d844a9.jpg" /><p>Помните старые добрые капчи с&nbsp;искаженными буквами? Потом&nbsp;были картинки с&nbsp;автобусами и светофорами. А&nbsp;потом Google представила reCAPTCHA v3&nbsp;— почти невидимую защиту, которая тихо анализирует поведение пользователя: движения мыши, паттерны ввода, историю браузера. Казалось&nbsp;бы, идеальный щит против ботов?</p><p>Как&nbsp;бы не&nbsp;так:... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/923464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=923464">Operator наносит удар: как OpenAI обходит Google reCAPTCHA v3 (и что с этим делают в Proof-of-Human)</a></p></div>
+</div>

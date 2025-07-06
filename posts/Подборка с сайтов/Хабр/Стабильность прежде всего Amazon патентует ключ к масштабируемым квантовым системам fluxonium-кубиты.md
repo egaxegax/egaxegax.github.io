@@ -1,0 +1,4 @@
+<!--2025-07-01 12:42:40-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/13b/a4b/d6e/13ba4bd6e31122f29d963a9e3b10d24b.png" /><p>Квантовые компьютеры&nbsp;— штука крутая, но&nbsp;пока еще капризная: основная головная боль&nbsp;— стабильность кубитов, тех самых квантовых битов, на&nbsp;которых всё держится. Amazon, который уже отметился в&nbsp;этой гонке своим чипом Ocelot (заявлено, что&nbsp;он может снизить затраты на&nbsp;коррекцию ошибок до 90%), подал новый патент. Заявка носит названи... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/923920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=923920">Стабильность прежде всего: Amazon патентует ключ к масштабируемым квантовым системам — fluxonium-кубиты</a></p></div>
+</div>
