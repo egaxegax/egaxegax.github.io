@@ -1,0 +1,4 @@
+<!--2025-07-12 14:27:27-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/b4a/40d/f6b/b4a40df6b52952aee28568d1a2486e2a.webp" /><p>Компания Microsoft представила Phi-4-mini-flash-reasoning — облегчённую модель искусственного интеллекта, созданную для сценариев с жёсткими ограничениями по вычислительным ресурсам, памяти или задержкам.&nbsp;Модель, разработанная для периферийных устройств и мобильных приложений, призвана обеспечить высокую эффективность логического вывода без требований к... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/927148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=927148">Microsoft представила технологию Phi-4-mini-flash-reasoning, которая повышает пропускную способность токенов в 10 раз</a></p></div>
+</div>

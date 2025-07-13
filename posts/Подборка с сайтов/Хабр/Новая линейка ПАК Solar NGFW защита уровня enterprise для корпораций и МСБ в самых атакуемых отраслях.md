@@ -1,0 +1,4 @@
+<!--2025-07-08 13:27:56-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/e68/d6d/d66/e68d6dd667430542a5a1462f5d49203b.png" /><p>ГК «Солар», архитектор комплексной кибербезопасности, расширила модельный ряд программно-аппаратных комплексов (ПАК) Solar NGFW, разработав т.н. линейку «малых» ПАК. Это программно-аппаратные комплексы Solar NGFW S c производительностью до 10 Гбит/с в режиме межсетевого экрана (FW) и Solar NGFW М <br>с производительностью до 20 Гбит/с FW.</p><p>Новая линейка... <p class="titl"><a href="https://habr.com/ru/companies/solarsecurity/news/926046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926046">Новая линейка ПАК Solar NGFW: защита уровня enterprise для корпораций и МСБ в самых атакуемых отраслях</a></p></div>
+</div>
