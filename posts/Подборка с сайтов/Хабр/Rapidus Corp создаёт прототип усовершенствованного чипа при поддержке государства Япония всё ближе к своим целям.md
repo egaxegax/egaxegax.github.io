@@ -1,0 +1,4 @@
+<!--2025-07-19 10:59:15-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/997/e24/794/997e24794cf313cb7c4e752ff47da5b4.webp" /><p>Японская компания&nbsp;<a href="https://www.bloomberg.com/quote/2213691D:JP" rel="noopener noreferrer nofollow">Rapidus Corp.</a>&nbsp;создала прототип усовершенствованного чипа. Это стало первым шагом в стремлении стартапа, который получает поддержку от государства, ускорить процесс внедрения инноваций с помощью государственного финансирования в размере... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/929156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=929156">Rapidus Corp. создаёт прототип усовершенствованного чипа при поддержке государства — Япония всё ближе к своим целям</a></p></div>
+</div>

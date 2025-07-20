@@ -1,0 +1,4 @@
+<!--2025-07-15 14:00:08-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/488/d1f/c14/488d1fc148e37476482c23a68d8f764c.png" /><p>Представляем двадцать шестой выпуск подкаста команды&nbsp;<a href="https://t.me/+QmrKn0wA8CdkNjAy" rel="noopener noreferrer nofollow">Spring АйО</a>, в котором приняли участие четыре эксперта сообщества.</p><p>Эксперты обсудили: адаптацию AI в России и примеры использования, архитектуру и управление AI-агентами, будущее Spring и Hibernate и многое другое.</p> <a... <p class="titl"><a href="https://habr.com/ru/companies/spring_aio/news/927978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=927978">Spring сдаёт позиции, Hibernate под угрозой, AI-агенты захватывают Россию | Spring АйО Подкаст №26</a></p></div>
+</div>
