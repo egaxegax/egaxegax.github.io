@@ -21,7 +21,6 @@
 * [Best Classical Piano Christmas music with fireplace Merry Christmas 2023 1](Best%20Classical%20Piano%20Christmas%20music%20with%20fireplace%20Merry%20Christmas%202023%201.md)
 * [Best Classical Piano Christmas music with fireplace Merry Christmas 2023 3](Best%20Classical%20Piano%20Christmas%20music%20with%20fireplace%20Merry%20Christmas%202023%203.md)
 * [Burning Fireplace 12 HOURSRelaxing Fireplace with Burning Logs Fire Sounds NO Music](Burning%20Fireplace%2012%20HOURSRelaxing%20Fireplace%20with%20Burning%20Logs%20Fire%20Sounds%20NO%20Music.md)
-* [Burning Fireplace 12 HoursRelaxing Fireplace with Burning Logs Fire Sounds NO Music](Burning%20Fireplace%2012%20HoursRelaxing%20Fireplace%20with%20Burning%20Logs%20Fire%20Sounds%20NO%20Music.md)
 * [Burning Fireplace Fireplace Background with Crackling Fire Sounds](Burning%20Fireplace%20Fireplace%20Background%20with%20Crackling%20Fire%20Sounds.md)
 * [Burning Fireplace Heals Stress Anxiety and Depression Relieves Insomnia](Burning%20Fireplace%20Heals%20Stress%20Anxiety%20and%20Depression%20Relieves%20Insomnia.md)
 * [Burning Fireplace Listen to the Soothing Sound of Fire to let you Fall Asleep](Burning%20Fireplace%20Listen%20to%20the%20Soothing%20Sound%20of%20Fire%20to%20let%20you%20Fall%20Asleep.md)

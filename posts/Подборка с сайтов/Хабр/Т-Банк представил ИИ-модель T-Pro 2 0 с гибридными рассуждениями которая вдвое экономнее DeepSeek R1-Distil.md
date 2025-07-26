@@ -1,0 +1,4 @@
+<!--2025-07-20 11:19:30-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/fd9/f27/9f3/fd9f279f3978b29486273bce711ee8a0.jpg" /><p>Группа «Т-Технологии» представила свою первую большую языковую модель с гибридным режимом рассуждений — T-Pro 2.0, входящую в семейство моделей Gen-T. Сообщается, что новая модель обеспечивает более высокое качество ответов на сложные запросы при двукратной экономии вычислительных ресурсов для русскоязычных задач по сравнению с аналогами Qwen 3 и DeepSeek... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/929294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=929294">Т-Банк представил ИИ-модель T-Pro 2.0 с гибридными рассуждениями, которая вдвое экономнее DeepSeek R1-Distil</a></p></div>
+</div>
