@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250629">
 <link rel="stylesheet" href="/static/css/markdown.css">
-<link rel="stylesheet" href="/static/css/posts.css?250713">
+<link rel="stylesheet" href="/static/css/posts.css?250727">
 <script src="/static/js/template.js?250613"></script>
 <script src="/static/js/metrics.js?250706"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
@@ -99,6 +99,15 @@
       '<td width="99%"><a class="hspace nodecor light" href="/index.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
     '</tr></table>'+
   '</div>';
+    if(p.title[5].length){
+      document.getElementById('page_content').innerHTML += '<p class="hspace inlbl">Смотри также:</p><br>';
+      for(var i=0; i<(p.title[5]||[]).length; i++){
+        if(p.title[5][i].length) document.getElementById('page_content').innerHTML += 
+      '<div class="msgtext inlbl">'+
+        '<a class="nodecor light hspace" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[5][i][2])+'">'+p.title[5][i][2]+'</a>'+
+      '</div>';
+      }
+    }
     if(window.addYaRTB_Widget && p.view == 'post') addYaRTB_Widget('ya_rtb_wid', 'widget_posts', ['заметки', p.root, p.subj]);
   }
 
@@ -138,7 +147,7 @@
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%10 == 0 || urlParams().page); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
     return page.titles.length == 0;
   }
 
@@ -178,11 +187,15 @@
         // skip ya.ru search
       }else if(pp.length>1){ // ?subj/title
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
-        var subj_i, root_i;
+        var subj_i, root_i, stit_i, tit_i, rels;
         SUBJ.map(function(sub,i){ if(tr(sub[0]) == pp[0]){ subj_i=i; root_i=sub[3]; return; } }); // filter by subj
+        rels = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); });
+        rels.map(function(tit,i){ if(tr(tit[2])==pp[1]){ stit_i=i; return; } });
         POSTS = [[subj_i,0,'README',0,root_i]].concat(POSTS); // +README page
-        POSTS = POSTS.filter(function(tit){ return (SUBJ[tit[0]] && (tr(SUBJ[tit[0]][0])==pp[0]) && (tr(tit[2])==pp[1])); });
-        if(POSTS.length){
+        if((POSTS = POSTS.filter(function(tit){ return ((tr(SUBJ[tit[0]][0])==pp[0]) && (tr(tit[2])==pp[1])); })).length){
+          POSTS.map(function(tit,i){ POSTS[i]=tit.concat([
+            [rels[stit_i-1]||[], rels[stit_i+1]||[], rels[stit_i+2]||[], rels[stit_i+3]||[], rels[stit_i+4]||[]]
+          ]); });
           PAGE.view = 'post';
           page_header = 
         '<div class="table">'+
@@ -194,9 +207,7 @@
           document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ', ' + SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
         }
       }else if(pp.length>0){ // ?subj
-        POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by subj
-//        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(POSTS.length){
+        if((POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
           PAGE.view = 'list';
           page_header = 
         '<div class="table">'+

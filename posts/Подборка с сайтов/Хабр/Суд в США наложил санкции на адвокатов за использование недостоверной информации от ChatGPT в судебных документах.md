@@ -1,0 +1,4 @@
+<!--2025-07-26 12:52:28-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/webt/rj/cj/sq/rjcjsqqmyj6x726ccbf3zsknmei.jpeg" /><p>Федеральный суд США <a href="https://apnews.com/article/lawyers-judge-ai-prison-alabama-c6a64736cb488cf6379624403d3757ca" rel="noopener noreferrer nofollow">наложил санкции</a> на трёх адвокатов из юридической фирмы Butler Snow за использование в судебных документах поддельной информации, которую сгенерировал ChatGPT. Юристы специализируются на делах тюремной системы штата Алабама.</p> <a... <p class="titl"><a href="https://habr.com/ru/news/931338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=931338">Суд в США наложил санкции на адвокатов за использование недостоверной информации от ChatGPT в судебных документах</a></p></div>
+</div>

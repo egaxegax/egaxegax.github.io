@@ -1,11 +1,11 @@
 /* dark theme */
 .wrap { background:rgb(68,71,76); padding:0; max-width:820px; }
 .msgtext { padding:0; }
-.dark { color:#eee; }
+.dark { color:#dedede; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
 .counter { color:#59a750; }
-body { background:rgb(50,53,57); color:#eee; }
+body { background:rgb(50,53,57); color:#dedede; }
 a, a:active, a:focus { color:#f4c430; }
 b,i,em { color:#aaa; }
 b em { color:#f4c430; }
@@ -13,7 +13,7 @@ h2 { color:#9ac495; }
 input[type=text], select { background:rgb(114,112,113); color:#fff; }
 #root { background:rgb(52,55,60); }
 #header { background:rgb(52,55,60); }
-#header svg g { fill:#eee; stroke:#eee; }
+#header svg g { fill:#dedede; stroke:#dedede; }
 #header svg g.active { fill:#f4c430; stroke:#f4c430; }
 #header .yin { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
