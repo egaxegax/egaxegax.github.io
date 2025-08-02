@@ -1,0 +1,4 @@
+<!--2025-08-01 13:53:15-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/7f0/acc/ca8/7f0accca80171607ee1e53b5b2ff43e1.png" /><p>Google представил<strong> LangExtract</strong> — новую open-source библиотеку на Python, разработанную для эффективного преобразования больших объемов неструктурированного текста в удобные для анализа структурированные данные. Она предоставляет легковесный интерфейс для работы с большими языковыми моделями (LLM), такими как Gemini, открывая новые возможности для... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/933224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=933224">Google LangExtract: новая библиотека для извлечения структурированных данных из текста с помощью LLM</a></p></div>
+</div>

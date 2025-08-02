@@ -7,7 +7,7 @@ body { background:#fafafa; color:#333; }
 a, a:active, a:focus { color:#3c677b; }
 b,i,em { color:#777; }
 b em { color:#3c677b; }
-h2 { color:#379e60; }
+h2 { color:#3c677b; }
 strong { font-weight:normal; }
 pre { background:#fafafa; color:#222; border-radius:2px; }
 input[type=text], select { background:#fff; }
