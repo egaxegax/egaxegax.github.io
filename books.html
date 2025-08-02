@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250629">
 <link rel="stylesheet" href="/static/css/books.css?250531">
-<script src="/static/js/template.js?250613"></script>
+<script src="/static/js/template.js?250802"></script>
 <script src="/static/js/metrics.js?250706"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -80,6 +80,7 @@
       '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Скачать и читать...</a>'+
     '</p>')+
   '</div>';
+    addTitlesRelsHtml(p, 'books.html', 'Похожие:');
     if(isNaN(ci) && window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_books', ['книги', (GENRES[p.root]||p.root)]);
   }
   
@@ -177,8 +178,7 @@
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?wrt/book
-        BOOKS = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==pp[0] && tr(tit[2])==pp[1]); });
-        if(BOOKS.length){
+        if((BOOKS = addTitlesRels(pp, SUBJ, BOOKS)).length){
           PAGE.view = 'book';
           page_header = 
         '<div class="large table">'+

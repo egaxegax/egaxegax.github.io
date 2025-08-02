@@ -51,12 +51,12 @@
   function addSubj(subj,i){
     var subdir = '';
     if (ROOTS[subj[3]][0] != '.'){
-      subdir = '<em class="smaller"> / ' +ROOTS[subj[3]][0]+'</em> ';
+      subdir = '<em class="smaller">'+ROOTS[subj[3]][0]+' / </em> ';
     }
     var tmpl = 
   '<table width="100%" class="msgtext"><tr>'+
     '<td width="80%" class="hspaced">'+
-      '<a class="nodecor dark" href="/index.html?'+tr(subj[0])+'">'+subj[0]+subdir+'</a>'+
+      '<a class="nodecor dark" href="/index.html?'+tr(subj[0])+'">'+subdir+subj[0]+'</a>'+
     '</td>'+
     '<td width="8%" align="right"><b><i>'+subj[1]+'</i></b></td>'+
     '<td width="8%" align="right"><i class="hspace counter small">'+i+'</i></td>'+

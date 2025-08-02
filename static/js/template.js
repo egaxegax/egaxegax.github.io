@@ -153,6 +153,37 @@ function addNotFound(){
 '</svg></div>';
 }
 //
+// return TITLES filtered by subj/tit + rels links
+//
+function addTitlesRels(pp, subjects, titles, date_filter){
+  var msgs = titles.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0]); }); // filter by subj
+  if(!msgs.length) return msgs;
+  msgs = [[msgs[0][0],0,'README',0,msgs[0][4]]].concat(msgs); // +README page (all titles)
+  msgs = msgs.filter(function(tit){ return (tr(tit[2])==pp[1]); }); // filter by titl
+  if(!msgs.length) return msgs;
+  var rels = titles.sort(function(a,b){ return arraySort(a[3],b[3]); });
+  rels = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[1]!=msgs[0][1]); });
+  if(date_filter) rels = rels.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
+  console.log(msgs, rels);
+  msgs = msgs.map(function(tit){ return tit.concat([
+      [rels[rels.length-1], rels[rels.length-2], rels[rels.length-3], rels[rels.length-4], rels[rels.length-5]].map(function(r){ return r ? [ subjects[r[0]][0], r[2], r[1] ] : [] })
+    ]);
+  });
+  return msgs;
+}
+//
+// return html for rels links
+//
+function addTitlesRelsHtml(p, page_html, hdr_text){
+  return (p.title[5]||[]).map(function(tit,i){
+    document.getElementById('page_content').innerHTML += 
+  (tit.length && i == 0 ? '<p class="hspace inlbl" style="font-size:106.25%">'+(hdr_text||'Смотри также:')+'</p><br>' : '')+
+  (tit.length ? '<div class="msgtext inlbl">'+
+    '<em class="hspace">'+tit[0]+'</em><a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
+  '</div><br>' : '');      
+  });
+}
+//
 // fix header to non-scroll
 //
 function fixHeader(rtb_offset, offsTop){

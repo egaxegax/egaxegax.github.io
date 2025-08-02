@@ -1841,6 +1841,7 @@ https://egax.ru/index.html?eadaily/250729_1800
 https://egax.ru/index.html?eadaily/250730_1800
 https://egax.ru/index.html?eadaily/250731_1800
 https://egax.ru/index.html?eadaily/250801_1800
+https://egax.ru/index.html?eadaily/250802_1800
 https://egax.ru/index.html?eda
 https://egax.ru/index.html?eda/afrikanskoe_myasnoe_ragu_s_osoboj_fishechkoj_polnyj_recept_po_ssylke_vyshe_shorts
 https://egax.ru/index.html?eda/bananovye_klecki_s_percem_proveryaju_recept_1929_goda_eto_sedobno
@@ -2527,6 +2528,7 @@ https://egax.ru/index.html?habr/gendirektor_anthropic_deepseek_pokazal_sebya_hud
 https://egax.ru/index.html?habr/gendirektor_bilajn_youtube_v_rossii_stal_rabotat_medlennee_iz-za_ustarevajushchej_seti_raspredelennogo_hraneniya_video
 https://egax.ru/index.html?habr/gendirektor_nvidia_vy_ne_poteryaete_rabotu_iz-za_ii_on_polnostju_izmenit_ee
 https://egax.ru/index.html?habr/generalnyj_direktor_instacart_fidji_simo_prisoedinyaetsya_k_openai
+https://egax.ru/index.html?habr/generalnyj_direktor_valve_gejb_njuell_priobrel_gollandskuju_verf_oceanco
 https://egax.ru/index.html?habr/generalnyj_direktor_x_anonsirovala_na_2025_god_zapusk_platejnoj_sistemy_x_money
 https://egax.ru/index.html?habr/generativnyj_ai_na_podeme_investicii_v_2024_i_perspektivy_na_2025_god
 https://egax.ru/index.html?habr/genex_pytaetsya_nauchit_ai_predstavlyat_chto_nahoditsya_za_uglom
@@ -2603,6 +2605,7 @@ https://egax.ru/index.html?habr/google_predstavili_titan_arhitekturu_nejrosetej_
 https://egax.ru/index.html?habr/google_predstavlyaet_novuju_model_vstraivaniya_teksta_na_baze_gemini
 https://egax.ru/index.html?habr/google_rasshiryaet_vozmojnosti_notebooklm_plus_dlya_individualnyh_polzovatelej
 https://egax.ru/index.html?habr/google_razrabatyvaet_analog_pinterest_images
+https://egax.ru/index.html?habr/google_reshila_sohranit_aktivno_ispolzuemye_ssylki_v_goo_gl
 https://egax.ru/index.html?habr/google_testiruet_kruglye_klavishi_v_gboard
 https://egax.ru/index.html?habr/google_testiruet_novyj_ii-poisk_na_osnove_gemini_2_0
 https://egax.ru/index.html?habr/google_udalyaet_gemini_iz_osnovnogo_poiskovogo_prilojeniya_na_ios
@@ -2638,6 +2641,7 @@ https://egax.ru/index.html?habr/goszakazchiki_stali_vdvoe_chashche_pokupat_rossi
 https://egax.ru/index.html?habr/govorim_o_stroitelstve_oblachnoj_platformy_na_mitape_v_sochi
 https://egax.ru/index.html?habr/gpd_anonsirovala_moshchnyj_portativnyj_pk_win_5_na_baze_ryzen_ai_max_395
 https://egax.ru/index.html?habr/gpt-4o_ot_openai_vybiraet_sebya_kogda_rech_idet_o_bezopasnosti_polzovatelya
+https://egax.ru/index.html?habr/gpt-5_poluchit_modul_dlya_borby_s_galljucinaciyami_the_information
 https://egax.ru/index.html?habr/grafteh_razrabotal_analog_ms_visio_dlya_paketa_prilojenij_mojofis
 https://egax.ru/index.html?habr/grok_3_dobavlyaet_bolee_glubokij_poisk_i_vozmojnosti_redaktirovaniya_izobrajenij_s_pomoshchju_ai
 https://egax.ru/index.html?habr/grok_3_ii_ot_ilona_maska_stal_dostupen_kajdomu
@@ -3447,6 +3451,7 @@ https://egax.ru/index.html?habr/predstavlen_minimalistskij_proigryvatel_plastino
 https://egax.ru/index.html?habr/predstavlen_otkrytyj_lokalnyj_multiplatformennyj_proekt_so_skrepkoj_clippy_v_roli_ii-pomoshchnika
 https://egax.ru/index.html?habr/predstavlen_otkrytyj_proekt_global-capslock_dlya_obshchej_sinhronizacii_sostoyaniya_caps_lock_so_vsemi_polzovatelyami
 https://egax.ru/index.html?habr/predstavlen_otkrytyj_proekt_legkovesnoj_i_nastraivaemoj_biblioteki_logirovaniya_sistemnyh_sobytij_microlog
+https://egax.ru/index.html?habr/predstavlen_otkrytyj_proekt_pikatorrent_0_14_0
 https://egax.ru/index.html?habr/predstavlen_otkrytyj_proekt_rustowl_dlya_vizualizacii_peremeshcheniya_vladeniya_i_vremeni_jizni_peremennyh
 https://egax.ru/index.html?habr/predstavlen_proekt_doom_the_gallery_experience_gde_mojno_ocenivat_proizvedeniya_mirovogo_iskusstva_na_igrovoj_karte
 https://egax.ru/index.html?habr/predstavlen_proekt_half_life_deathmatch_v_brauzere
@@ -3581,6 +3586,7 @@ https://egax.ru/index.html?habr/reliz_otkrytogo_proekta_dlya_obrezki_konvertacii
 https://egax.ru/index.html?habr/reliz_otkrytogo_proekta_dlya_sozdaniya_i_hraneniya_v_elektronnoj_biblioteke_elektronnyh_knig_raznogo_formata_calibre_8_0
 https://egax.ru/index.html?habr/reliz_otkrytogo_redaktora_photodemon_2025_4_na_visual_basic_6_0
 https://egax.ru/index.html?habr/reliz_otkrytoj_biblioteki_taglib_2_1_dlya_chteniya_i_izmeneniya_metadannyh_tegov_audiofajlov_razlichnyh_formatov
+https://egax.ru/index.html?habr/reliz_paint_net_5_1_9
 https://egax.ru/index.html?habr/reliz_pdfsam_pdf_split_and_merge_5_3_0
 https://egax.ru/index.html?habr/reliz_pdfsam_pdf_split_and_merge_5_3_1
 https://egax.ru/index.html?habr/reliz_podio_v0_1_biblioteki_obrabotki_zvuka_dlya_go
@@ -3622,6 +3628,7 @@ https://egax.ru/index.html?habr/roboty_dostavshchiki_stanut_polnopravnymi_uchast
 https://egax.ru/index.html?habr/roboty_yandeks_robotiks_uskoryajut_rabotu_perekrestka
 https://egax.ru/index.html?habr/rockstar_gta_vi_vyjdet_26_maya_sledujushchego_goda
 https://egax.ru/index.html?habr/rosa_vypustila_obnovlenie_platformy_upravleniya_gibridnoj_infrastrukturoj_rosa_menedjer_resursov_3_0_0
+https://egax.ru/index.html?habr/rosatom_budet_otvechat_za_realizaciju_dorojnoj_karty_kvantovyh_vychislenij_do_2030_goda
 https://egax.ru/index.html?habr/rosatom_i_rtu_mirea_otkryli_centr_kriticheskoj_infrastruktury
 https://egax.ru/index.html?habr/rosatom_izgotovil_pervuju_reaktornuju_ustanovku_ritm-400_dlya_atomnogo_ledokola_rossiya
 https://egax.ru/index.html?habr/rosatom_poluchil_nagradu_na_ai_awards_2025
@@ -3761,6 +3768,7 @@ https://egax.ru/index.html?habr/skandalnyj_horizon_kak_po_privelo_k_massovoj_nes
 https://egax.ru/index.html?habr/sklonnost_nagrajdat_shpiony_core_werewolf_atakovali_voennye_organizacii_belarusi_i_rossii
 https://egax.ru/index.html?habr/smart_engines_provedet_otkrytyj_vebinar_raspoznavanie_bankovskih_kart_dlya_onbordinga_i_internet-ekvajringa
 https://egax.ru/index.html?habr/smes_kulinarii_i_iskusstvennogo_intellekta_gotovim_shakshuku_v_novom_vypuske_shou_infobez_so_vkusom
+https://egax.ru/index.html?habr/smi_10_15_kompanij_sochetajut_rossijskoe_i_inostrannoe_po_dlya_upravleniya_proektami
 https://egax.ru/index.html?habr/smi_chast_polzovatelej_poluchila_nintendo_switch_2_no_igrat_na_nej_nelzya_nujno_obnovlenie_i_podkljuchenie_k_internetu
 https://egax.ru/index.html?habr/smi_kompaniya_po_kiberbezopasnosti_gk_solar_prinimaet_uchastie_v_rassledovanii_kiberataki_na_aeroflot
 https://egax.ru/index.html?habr/smi_lesta_igry_zadumalas_o_vozobnovlenii_peregovorov_s_1c_game_studios_o_vykupe_igry_vojna_mirov_sibir
@@ -3802,6 +3810,7 @@ https://egax.ru/index.html?habr/sostoyalsya_reliz_rossijskoj_sredy_razrabotki_op
 https://egax.ru/index.html?habr/sostoyalsya_reliz_triposg_i_triposf_nejroinstrumentov_dlya_generacii_3d-modelej
 https://egax.ru/index.html?habr/sostoyalsya_vypusk_mobilnoj_platformy_ubuntu_touch_ota-8
 https://egax.ru/index.html?habr/sotovyj_operator_alfa-mobajl_pristupil_k_podkljucheniju_pervyh_abonentov
+https://egax.ru/index.html?habr/sotrudniki_openai_ispolzovali_ii_claude_dlya_programmirovaniya_v_anthropic_uje_zakryli_dostup
 https://egax.ru/index.html?habr/souchreditel_openai_zayavlyaet_chto_novyj_podhod_k_obespecheniju_bezopasnosti_ai_mojet_primenyatsya_k_agi_i_ne_tolko
 https://egax.ru/index.html?habr/soundcloud_razreshil_iskusstvennomu_intellektu_ispolzovat_kontent_polzovatelej
 https://egax.ru/index.html?habr/sourcetable_tablicy_s_ii_podkapotom_privlekli_4_3_milliona_investicij
@@ -4143,11 +4152,13 @@ https://egax.ru/index.html?habr/vsled_za_neskolkimi_aviakompaniyami_funkciya_air
 https://egax.ru/index.html?habr/vstroennoe_besplatnoe_proksirovanie_do_api_grok_realizovano_v_amvera_cloud
 https://egax.ru/index.html?habr/vsya_pravda_o_hakatonah_v_rossii
 https://egax.ru/index.html?habr/vtb_nachal_testirovat_alternativu_apple_pay_cherez_bluetooth_pod_nazvaniem_volna
+https://egax.ru/index.html?habr/vypusk_4mlinux_49_0
 https://egax.ru/index.html?habr/vypusk_aida64_7_70
 https://egax.ru/index.html?habr/vypusk_otkrytogo_proekta_konsolnogo_rss-agregatora_newsraft_0_30
 https://egax.ru/index.html?habr/vyruchka_krupnejshih_rossijskih_it-kompanij_udvoilas_za_tri_goda
 https://egax.ru/index.html?habr/vyruchka_krupnejshih_rossijskih_razrabotchikov_sapr_za_2024_god_sostavila_pochti_15_mlrd_rublej
 https://egax.ru/index.html?habr/vyshel_chrome_133
+https://egax.ru/index.html?habr/vyshel_eksperimentalnyj_vypusk_otkrytogo_proekta_wayback_0_2
 https://egax.ru/index.html?habr/vyshel_firefox_134_0
 https://egax.ru/index.html?habr/vyshel_firefox_135_0
 https://egax.ru/index.html?habr/vyshel_gcc_front_end_dlya_yazyka_programmirovaniya_algol_68
@@ -9379,6 +9390,7 @@ https://egax.ru/index.html?ria/250729_2000
 https://egax.ru/index.html?ria/250730_2000
 https://egax.ru/index.html?ria/250731_2000
 https://egax.ru/index.html?ria/250801_2000
+https://egax.ru/index.html?ria/250802_2000
 https://egax.ru/index.html?rok
 https://egax.ru/index.html?rok/24_7_christmas_ambience_fireplace_merry_christmas_2025
 https://egax.ru/index.html?rok/28_11_2013_-_korol_i_shut_minsk_dvorec_sporta
