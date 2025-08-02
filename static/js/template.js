@@ -164,7 +164,7 @@ function addTitlesRels(pp, subjects, titles, date_filter){
   var rels = titles.sort(function(a,b){ return arraySort(a[3],b[3]); });
   rels = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[1]!=msgs[0][1]); });
   if(date_filter) rels = rels.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
-  console.log(msgs, rels);
+  // console.log(msgs, rels);
   msgs = msgs.map(function(tit){ return tit.concat([
       [rels[rels.length-1], rels[rels.length-2], rels[rels.length-3], rels[rels.length-4], rels[rels.length-5]].map(function(r){ return r ? [ subjects[r[0]][0], r[2], r[1] ] : [] })
     ]);
