@@ -161,8 +161,8 @@ function addTitlesRels(pp, subjects, titles, date_filter){
   msgs = [[msgs[0][0],0,'README',0,msgs[0][4]]].concat(msgs); // +README page (all titles)
   msgs = msgs.filter(function(tit){ return (tr(tit[2])==pp[1]); }); // filter by titl
   if(!msgs.length) return msgs;
-  var rels = titles.sort(function(a,b){ return arraySort(a[3],b[3]); });
-  rels = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[1]!=msgs[0][1]); });
+  var rels = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[1]!=msgs[0][1]); });
+  rels = rels.sort(function(a,b){ return arraySort(a[3],b[3]); });
   if(date_filter) rels = rels.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
   // console.log(msgs, rels);
   msgs = msgs.map(function(tit){ return tit.concat([
