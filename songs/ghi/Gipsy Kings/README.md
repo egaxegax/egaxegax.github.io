@@ -1,1 +1,0 @@
-* [Luna de fuego](Luna%20de%20fuego.md)

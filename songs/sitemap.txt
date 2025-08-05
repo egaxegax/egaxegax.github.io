@@ -4913,7 +4913,6 @@ https://egax.ru/songs.html?boyarskij_mihail/gorodskie_cvety
 https://egax.ru/songs.html?boyarskij_mihail/kogda_tvoj_drug_v_krovi
 https://egax.ru/songs.html?boyarskij_mihail/lanfren_-_lanfra
 https://egax.ru/songs.html?boyarskij_mihail/listya_jgut
-https://egax.ru/songs.html?boyarskij_mihail/molitva_iz_kf_vozvrashchenie_mushketerov
 https://egax.ru/songs.html?boyarskij_mihail/na_vojne_kak_na_vojne
 https://egax.ru/songs.html?boyarskij_mihail/nastanet_den_i_chas
 https://egax.ru/songs.html?boyarskij_mihail/ostrov_detstva
@@ -10230,6 +10229,8 @@ https://egax.ru/songs.html?iz_kf_maksim_perepilica
 https://egax.ru/songs.html?iz_kf_maksim_perepilica/lichno_dlya_menya
 https://egax.ru/songs.html?iz_kf_meri_poppins
 https://egax.ru/songs.html?iz_kf_meri_poppins/veter_peremen
+https://egax.ru/songs.html?iz_kf_moskva_slezam_ne_verit
+https://egax.ru/songs.html?iz_kf_moskva_slezam_ne_verit/aleksandra_vizbor_jurij
 https://egax.ru/songs.html?iz_kf_ne_mojet_byt
 https://egax.ru/songs.html?iz_kf_ne_mojet_byt/gubit_ljudej_ne_pivo
 https://egax.ru/songs.html?iz_kf_neulovimye_mstiteli_1966
@@ -10244,6 +10245,8 @@ https://egax.ru/songs.html?iz_kf_vernye_druzya/chto_tak_serdce_rastrevojeno
 https://egax.ru/songs.html?iz_kf_vernye_druzya/lodochka
 https://egax.ru/songs.html?iz_kf_vernye_druzya/my_vam_rasskajem
 https://egax.ru/songs.html?iz_kf_vernye_druzya/pesenka_vernyh_druzej
+https://egax.ru/songs.html?iz_kf_vozvrashchenie_mushketerov
+https://egax.ru/songs.html?iz_kf_vozvrashchenie_mushketerov/molitva_boyarskij_mihail
 https://egax.ru/songs.html?iz_mf_nu_pogodi
 https://egax.ru/songs.html?iz_mf_nu_pogodi/a_nu-ka_davaj-ka
 https://egax.ru/songs.html?iz_mf_vovka_v_tridevyatom_carstve

@@ -1,6 +1,15 @@
 Подборы гитарных аккордов к песням, стихи, лирика.
 
-* [0-9](0-9)
+* [Electro](Electro)
+* [Hip-Hop](Hip-Hop)
+* [Metal](Metal)
+* [OST](OST)
+* [Pop](Pop)
+* [Rock](Rock)
+* [Russian OST](Russian%20OST)
+* [Russian Pop](Russian%20Pop)
+* [Russian Rock](Russian%20Rock)
+* [Soviet Songs](Soviet%20Songs)
 * [abc](abc)
 * [def](def)
 * [ghi](ghi)
