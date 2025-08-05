@@ -1,0 +1,4 @@
+<!--2025-08-03 04:53:14-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/798/e2b/901/798e2b901b14122fcfe1a8cde9c1d657.png" /><p><a href="https://github.com/Cognirush-Labs-LLP/icompress-win/releases/tag/V4.1.0" rel="noopener noreferrer nofollow">Состоялся</a> релиз открытого проекта Mass Image Compressor 4.1.0 для Windows, который помогает сжимать, изменять размер и конвертировать большие наборы изображений. Исходный код решения написан на C# и Perl и опубликован на GitHub под лицензией GN... <p class="titl"><a href="https://habr.com/ru/news/933438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=933438">Вышел Mass Image Compressor 4.1.0 для Windows для сжимания, изменения размера и конвертации больших наборов изображений</a></p></div>
+</div>
