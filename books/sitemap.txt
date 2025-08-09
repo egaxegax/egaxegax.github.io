@@ -78,6 +78,8 @@ https://egax.ru/books.html?aleksandr_amfiteatrov
 https://egax.ru/books.html?aleksandr_amfiteatrov/mertvye_bogi_toskanskaya_legenda
 https://egax.ru/books.html?aleksandr_anatolevich_chirtik
 https://egax.ru/books.html?aleksandr_anatolevich_chirtik/html_populyarnyj_samouchitel
+https://egax.ru/books.html?aleksandr_andreevich_ryabcev
+https://egax.ru/books.html?aleksandr_andreevich_ryabcev/golova_tigra
 https://egax.ru/books.html?aleksandr_djuma
 https://egax.ru/books.html?aleksandr_djuma/askanio
 https://egax.ru/books.html?aleksandr_djuma/belye_i_sinie
@@ -213,6 +215,13 @@ https://egax.ru/books.html?aleksej_gravickij
 https://egax.ru/books.html?aleksej_gravickij/anomalnye_kanikuly
 https://egax.ru/books.html?aleksej_gravickij/v_zone_tumana
 https://egax.ru/books.html?aleksej_gravickij/zachistka
+https://egax.ru/books.html?aleksej_grishin
+https://egax.ru/books.html?aleksej_grishin/bagryanaya_raduga
+https://egax.ru/books.html?aleksej_grishin/cena_vozvrashcheniya
+https://egax.ru/books.html?aleksej_grishin/pod_znakom_albatrosa
+https://egax.ru/books.html?aleksej_grishin/reshenie_oficera
+https://egax.ru/books.html?aleksej_grishin/vybor_iz_hudshego
+https://egax.ru/books.html?aleksej_grishin/vybor_oficera
 https://egax.ru/books.html?aleksej_kalugin
 https://egax.ru/books.html?aleksej_kalugin/dom_na_bolote
 https://egax.ru/books.html?aleksej_kalugin/mechta_na_porajenie
@@ -1268,6 +1277,7 @@ https://egax.ru/books.html?german_gesse/peter_kamencind
 https://egax.ru/books.html?german_gesse/stepnoj_volk
 https://egax.ru/books.html?german_melvill
 https://egax.ru/books.html?german_melvill/mobi_dik_ili_belyj_kit
+https://egax.ru/books.html?german_melvill/mobi_dik_ili_belyj_kit
 https://egax.ru/books.html?gi_de_mopassan
 https://egax.ru/books.html?gi_de_mopassan/jizn
 https://egax.ru/books.html?gi_de_mopassan/milyj_drug
@@ -1871,6 +1881,8 @@ https://egax.ru/books.html?konstantin_benev_irina_baranova
 https://egax.ru/books.html?konstantin_benev_irina_baranova/carica_nochi
 https://egax.ru/books.html?konstantin_gamsahurdia
 https://egax.ru/books.html?konstantin_gamsahurdia/desnica_velikogo_mastera
+https://egax.ru/books.html?konstantin_gennadevich_volkodav
+https://egax.ru/books.html?konstantin_gennadevich_volkodav/religioznye_aspekty_ateizma_ateizm_islam_i_hristianstvo_na_yazyke_metafiziki
 https://egax.ru/books.html?konstantin_iordanovich_benev
 https://egax.ru/books.html?konstantin_iordanovich_benev/gorod_semi_vetrov
 https://egax.ru/books.html?konstantin_kulchickij
@@ -3120,6 +3132,8 @@ https://egax.ru/books.html?tala_tocka
 https://egax.ru/books.html?tala_tocka/devochka_iz_proshlogo
 https://egax.ru/books.html?taruna_poddubnaya
 https://egax.ru/books.html?taruna_poddubnaya/ty_ne_takaya_da_ya_major_specnaza
+https://egax.ru/books.html?tata_kit
+https://egax.ru/books.html?tata_kit/novyj_god_s_chistogo_lista
 https://egax.ru/books.html?tatyana_jivova
 https://egax.ru/books.html?tatyana_jivova/pasynki_tretego_rima
 https://egax.ru/books.html?tatyana_jivova_aleksei_matveichev_pavel_gavrilov
@@ -3283,6 +3297,8 @@ https://egax.ru/books.html?viktor_gjugo/otverjennye_tom_iii
 https://egax.ru/books.html?viktor_gjugo/poslednij_den_prigovorennogo_k_smerti
 https://egax.ru/books.html?viktor_gjugo/sobor_parijskoj_bogomateri
 https://egax.ru/books.html?viktor_gjugo/trujeniki_morya
+https://egax.ru/books.html?viktor_jukov
+https://egax.ru/books.html?viktor_jukov/poslednyaya_tajna_amazonki
 https://egax.ru/books.html?viktor_lebedev
 https://egax.ru/books.html?viktor_lebedev/chernomore
 https://egax.ru/books.html?viktor_lebedev/letyashchij_vdal
@@ -3307,6 +3323,10 @@ https://egax.ru/books.html?virdjiniya_vulf/orlando
 https://egax.ru/books.html?vlada_olhovskaya
 https://egax.ru/books.html?vlada_olhovskaya/tishina
 https://egax.ru/books.html?vladimir_aleksandrovich_suhinin
+https://egax.ru/books.html?vladimir_aleksandrovich_suhinin/na_puti_k_vysokomu_hrebtu
+https://egax.ru/books.html?vladimir_aleksandrovich_suhinin/oploshnosti_sudby
+https://egax.ru/books.html?vladimir_aleksandrovich_suhinin/razrushitel_bojestvennyh_zamyslov
+https://egax.ru/books.html?vladimir_aleksandrovich_suhinin/veter_peremen
 https://egax.ru/books.html?vladimir_aleksandrovich_suhinin/viktor_gluhov
 https://egax.ru/books.html?vladimir_berezin
 https://egax.ru/books.html?vladimir_berezin/gruppa_trevilya
@@ -3343,6 +3363,8 @@ https://egax.ru/books.html?vladimir_nikolaevich_vasilev
 https://egax.ru/books.html?vladimir_nikolaevich_vasilev/pryatki_na_osevoj
 https://egax.ru/books.html?vladimir_rusanov
 https://egax.ru/books.html?vladimir_rusanov/mesti_ne_budet
+https://egax.ru/books.html?vladimir_suhinin
+https://egax.ru/books.html?vladimir_suhinin/zakon_dolga
 https://egax.ru/books.html?vladimir_uspenskij
 https://egax.ru/books.html?vladimir_uspenskij/tajnyj_sovetnik_vojdya
 https://egax.ru/books.html?vladimir_vasilev
