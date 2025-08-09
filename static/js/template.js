@@ -178,10 +178,10 @@ function addTitlesRels(pp, subjects, titles, date_filter){
 function addTitlesRelsHtml(p, page_html, hdr_text){
   return (p.title[5]||[]).map(function(tit,i){
     document.getElementById('page_content').innerHTML += 
-  (tit.length && i == 0 ? '<p class="hspace inlbl" style="font-size:106.25%">'+(hdr_text||'Смотри также:')+'</p><br>' : '')+
-  (tit.length ? '<div class="msgtext inlbl">'+
+  (document.getElementById('rels_links') ? '' : '<p id="rels_links" class="hspace inlbl" style="font-size:106.25%">'+(hdr_text||'Смотри также:')+'</p><br>')+
+  '<div class="msgtext inlbl">'+
     '<em class="hspace">'+tit[0]+'</em><a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
-  '</div><br>' : '');      
+  '</div><br>';
   });
 }
 //
