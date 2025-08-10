@@ -7,26 +7,27 @@ RSSlist = [
   # ('Подборка из Youtube/Еда', 'channel_id=UC0K_CP437favZ3maGV06vaw'),   #Телеканал Еда
   # ('Подборка из Youtube/Еда', 'channel_id=UCgeval0um2gyuRhP1qch8Uw'),   #В.Емельяненко
   # ('Подборка из Youtube/Еда', 'channel_id=UCbb-qqGdlVS7laUbUOTOXhg'),   #Зона Лазерсона  
-  ('Подборка из Youtube/Киноролики', 'channel_id=UCwHZ11aiUpyTg-wkiKbAqKQ'), #MOVIECLIPS TV
+  # ('Подборка из Youtube/Киноролики', 'channel_id=UCwHZ11aiUpyTg-wkiKbAqKQ'), #MOVIECLIPS TV
   ('Подборка из Youtube/Работа', 'channel_id=UC8JDt3Vz9WYpAS6b-oVH9xw'),#HandyTeddy
-  ('Подборка из Youtube/Работа', 'channel_id=UC2pn5LT4UFz8gwrQF7VKZDQ'),#Константин Кречетов
+  # ('Подборка из Youtube/Работа', 'channel_id=UC2pn5LT4UFz8gwrQF7VKZDQ'),#Константин Кречетов
   ('Подборка из Youtube/Работа', 'channel_id=UC42cQmihrg0Udqac_P0v2hQ'),#NZT USA
-  ('Подборка из Youtube/Работа', 'channel_id=UCCOice03R7HkLOu1CLYsgHA'),#Работа вахтой
+  # ('Подборка из Youtube/Работа', 'channel_id=UCCOice03R7HkLOu1CLYsgHA'),#Работа вахтой
   # ('Подборка из Youtube/Работа', 'channel_id=UCUYrDGMOWF6A40BPK2Wt-eg'),#MAX VOS (Дальнобой США)
   # ('Подборка из Youtube/Релакс', 'channel_id=UCwtHGEAtOm9Jdd1JwvS67gA'),#Fireplace4K (Релакс)
   # ('Подборка из Youtube/Рок', 'channel_id=UCuRFWlVMAwwP8WerDBQWPBQ'),   #Rock Melody
   # ('Подборка из Youtube/Рок', 'channel_id=UCxaaXbw6bVYoChlP4HNIolA'),   #Driving Rock
   # ('Подборка из Youtube/Рок', 'playlist_id=PLaqeTZoS9LMrqy7lBTa5IH2sD893YW0La'), #70-80-90 Rock Music
   # ('Подборка из Youtube/Рок', 'channel_id=UCHpEfiVM3rlXBistGgTPakQ'),   #Music Sky
-  # ('Подборка из Youtube/Рок', 'channel_id=UCpL9dvPOAW8l7sruH-3OUMw'),   #80's Rock N Roll
+  ('Подборка из Youtube/Рок', 'channel_id=UCpL9dvPOAW8l7sruH-3OUMw'),   #80's Rock N Roll
   # ('Подборка из Youtube/Рок', 'channel_id=UCKSClb5P4hMTmNeynTzEm7A'),   #thekorolishut
   # ('Подборка из Youtube/Спорт', 'channel_id=UCNBR-cPlJdqlYE0E0n4xwJA'), #Фабрика Футбола
   ('Подборка из Youtube/Путешествия', 'channel_id=UCXrMdUHkl2taQq4DhPg4etg'), #Samsebeskazal Denis
   ('Подборка из Youtube/Путешествия', 'channel_id=UCcgTo1grFem37WQAi8QoRxw'), #Вольному Воля
+  ('Подборка из Youtube/Путешествия', 'channel_id=UCZj_6DMrUPMaQgKIoBOshaA'), #Столица Мира
   ('Подборка из Youtube/Опасные путешествия', 'channel_id=UCrc2oY9Trr97eYNkSbUBlQg'), #ДИГГЕР ДАНИИЛ ДАВЫДОВ
-  ('Подборка из Youtube/Тайны', 'channel_id=UCtIoZ-DVPymIv3t6365uFow'), #Темная сторона
+  # ('Подборка из Youtube/Тайны', 'channel_id=UCtIoZ-DVPymIv3t6365uFow'), #Темная сторона
   ('Подборка из Youtube/Тайны', 'channel_id=UCVsDyCRge9DXmk1S6Ibr10Q'), #Свидетель Windows
-  ('Подборка из Youtube/Тайны', 'channel_id=UCNS8QijmVzXxgWndUb0h1Cw'), #CreepyVids
+  # ('Подборка из Youtube/Тайны', 'channel_id=UCNS8QijmVzXxgWndUb0h1Cw'), #CreepyVids
   # ('Подборка из Youtube/Фильмы', 'channel_id=UCOD2veMoMj5jy6K0pGt55Bw'),#FILMSTER
   ('Подборка из Youtube/Фильмы', 'channel_id=UC3N4p9X5DjPCH184X-izRwA'),#Watch Movies
   # ('Подборка из Youtube/Фильмы', 'channel_id=UCrZLsQDHEBVSWDadKGQAxHA'),#military_movies
@@ -63,15 +64,15 @@ for hdr, url in RSSlist:
       text = """{ctime}
 <div class="yb">
   <a class="nodecor" href="{phref}">
-    <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
+    <img class="preview" data-videoid="{videoid}" src="{imurl}" align="left" alt="">
   </a>
   <div class="inlbl text">
-    <a class="nodecor" href="{phref}">{titl}</a><br>
-    <i class="smaller2">{authr}</i><br>
+    <p><a class="nodecor" href="{phref}">{titl}</a></p>
+    <p><i class="smaller2">{authr}</i></p>
     <i class="smaller3">{rdate}</i>
   </div>
 </div>
-""".format(ctime=ctime, phref=phref, imurl=imurl, rdate=rdate, videoid=videoid, titl=tr_chars(titl, 60), authr=authr)
+""".format(ctime=ctime, phref=phref, imurl=imurl, rdate=rdate, videoid=videoid, titl=tr_chars(titl, 180), authr=authr)
       if not os.path.exists(os.path.join(cdir, hdr)):
         os.mkdir(os.path.join(cdir, hdr))
       open(os.path.join(cdir, hdr, mtitl + '.md'), 'w', encoding='utf-8', newline='\n').write(text)

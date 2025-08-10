@@ -1,0 +1,4 @@
+<!--2025-08-09 09:57:05-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/webt/gk/ak/gd/gkakgdkrlbvigvfurx6ygel7qoy.jpeg" /><p>Американское космическое агентство и Google <a href="https://techcrunch.com/2025/08/08/nasa-and-google-are-building-an-ai-medical-assistant-to-keep-mars-bound-astronauts-healthy/" rel="noopener noreferrer nofollow">работают</a> над медицинским инструментом на базе искусственного интеллекта Crew Medical Officer Digital Assistant (CMO-DA) для медицинской помощи астронавтам, отправившихся на... <p class="titl"><a href="https://habr.com/ru/news/935594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=935594">НАСА и Google создают медицинский инструмент на базе ИИ для поддержания здоровья астронавтов, отправившихся на Марс</a></p></div>
+</div>

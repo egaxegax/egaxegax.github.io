@@ -4,7 +4,7 @@
     <img class="preview" data-videoid="zhZSAzy1Kpo" src="https://i3.ytimg.com/vi/zhZSAzy1Kpo/hqdefault.jpg" align="middle" alt="">
   </a>
   <div class="inlbl text">
-    <a class="nodecor" href="/index.html?rok/acdc_queen_bon_jovi_scorpions_guns_n_roses_aerosmith_-_best_classic_rock_songs_80_s_90_s">ACDC, Queen, Bon Jovi, Scorpions, Guns N Roses, Aerosmith -...</a><br>
+    <a class="nodecor" href="/index.html?rok/acdc_queen_bon_jovi_scorpions_guns_n_roses_aerosmith_-_best_classic_rock_songs_80_s_90_s">ACDC, Queen, Bon Jovi, Scorpions, Guns N Roses, Aerosmith - Best Classic Rock Songs 80's 90's</a><br>
     <i class="smaller2">Rock Melody</i><br>
     <i class="smaller3">2024-09-09</i>
   </div>
