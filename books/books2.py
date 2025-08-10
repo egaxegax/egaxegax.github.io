@@ -45,7 +45,8 @@ for root, dirs, files in os.walk(path, topdown=False):
       cover = ''
       for f in filelist:
         if (f == 'content.opf'):
-          ftext = za.read(f).decode('utf-8')
+          try: ftext = za.read(f).decode('utf-8')
+          except: raise ValueError(name)
           tit = re.findall('>([^><]*)</dc:title>', ftext)[0]
           writer = re.findall('>([^><]*)</dc:creator>', ftext)[0]
           subj = re.findall('>([^><]*)</dc:subject>', ftext) 

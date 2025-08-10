@@ -1,0 +1,4 @@
+<!--2025-08-10 05:36:07-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/dfb/122/b42/dfb122b428d42aa9f488701d9af3a9fc.png" /><p>В сообществе разработчиков ядра Linux <a href="https://lore.kernel.org/lkml/20250808173807.96D134EA@davehans-spike.ostc.intel.com/" rel="noopener noreferrer nofollow">сообщили</a>, что драйвер Coretemp для мониторинга температуры процессоров Intel для&nbsp;ядра Linux стал «сиротой» (orphaned) из‑за увольнения разработчика Фэнхуа Юй (Fenghua Yu) из американской... <p class="titl"><a href="https://habr.com/ru/news/935678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=935678">Драйвер мониторинга температуры процессоров Intel для ядра Linux стал «сиротой» (orphaned) из‑за увольнения разработчика</a></p></div>
+</div>

@@ -5,8 +5,8 @@
 # text from: https://darkrutube.tumblr.com/api_video
 #
 
-RSSList = [
-  ('Подборка из Rutube/Политика(США)', '23550697'),
+RSSlist = [
+  ('Подборка из Rutube/Жизнь в США и России', '23550697'),
 ]
 
 import os, sys, time
@@ -23,14 +23,14 @@ from updateturbo import main as updateturbo_main
 fcount = 0
 
 for hdr, url in RSSlist:
-  feedurl =  'http://rutube.ru/api/video/person/'+url
+  feedurl =  'http://rutube.ru/api/video/person/'+url+'?format=xml'
   with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
-    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('{http://www.w3.org/2005/Atom}entry')) if ii < 10]:
-      titl = item.find('{http://www.w3.org/2005/Atom}title').text
-      udate = item.find('{http://www.w3.org/2005/Atom}published').text
-      videoid = item.find('{http://www.youtube.com/xml/schemas/2015}videoId').text
-      authr = item.find('{http://www.w3.org/2005/Atom}author/{http://www.w3.org/2005/Atom}name').text
-      imurl= item.find('{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}thumbnail').get('url')
+    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('list-item')) if ii < 10]:
+      titl = item.find('title').text
+      udate = item.find('last_update_ts').text
+      videoid = item.find('video_url').text
+      authr = item.find('author/name').text
+      imurl= item.find('thumbnail_url').text
       mtitl = tr_cut(titl)
       phref = '/index.html?'+ tr(os.path.basename(hdr)) +'/'+ tr(mtitl)
       pdt = time.strptime(udate, '%Y-%m-%dT%H:%M:%S%z')
@@ -40,7 +40,7 @@ for hdr, url in RSSlist:
       text = """{ctime}
 <div class="yb">
   <a class="nodecor" href="{phref}">
-    <img class="preview" data-videoid="{videoid}" src="{imurl}" align="middle" alt="">
+    <img class="preview" data-videoid="{videoid}" src="{imurl}" align="left" alt="">
   </a>
   <div class="inlbl text">
     <a class="nodecor" href="{phref}">{titl}</a><br>

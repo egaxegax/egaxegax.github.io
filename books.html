@@ -73,7 +73,7 @@
     '<p class="small gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
   (pdate ? '<p class="small"><span class="gray">Год</span> &nbsp; '+pdate+'</p>' : '')+
   (!isNaN(ci) ? 
-    '<p class="descr">'+(window.innerWidth<800 ? '' : r.slice(0,r.split(' ').slice(0,35).join(' ').length)+'... '+
+    '<p class="descr">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+
       ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'
     : 
     '<p class="descr">'+r+
