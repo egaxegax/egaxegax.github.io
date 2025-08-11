@@ -6,7 +6,8 @@
 #
 
 RSSlist = [
-  ('Подборка из Rutube/Жизнь в США и России', '23550697'),
+  # ('Подборка из Rutube/Жизнь в США и России', '23550697'),
+  ('Подборка из Rutube/Советские фильмы', '1792500'),
 ]
 
 import os, sys, time
@@ -25,7 +26,7 @@ fcount = 0
 for hdr, url in RSSlist:
   feedurl =  'http://rutube.ru/api/video/person/'+url+'?format=xml'
   with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
-    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('results/list-item')) if ii < 10]:
+    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('results/list-item')) if ii < 100]:
       titl = item.find('title').text
       udate = item.find('last_update_ts').text
       videoid = item.find('video_url').text

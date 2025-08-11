@@ -39,7 +39,7 @@ li::marker { color:green; }
 .yb { margin:5px 0 0 0; }
 .yb a { color:#dedede; }
 .yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
-.yb iframe.embed { border:0; border-radius:2px; width:100%; height:25vw; margin:0 10px 15px 0; }
+.yb iframe.embed { border:0; border-radius:2px; width:100%; height:30vw; margin:0 10px 15px 0; }
 @media (max-width:800px){ .yb .preview { width:100%; height:100%; } .yb iframe.embed { height:60vw; } }
 @media (min-width:800px){ .yb div { vertical-align:top; } .yb .text { max-width:480px; } }
 .yb .smaller1 { font-size:100%; }
