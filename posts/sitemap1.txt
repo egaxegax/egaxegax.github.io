@@ -4348,6 +4348,17 @@ https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zametki_otzyvy_p
 https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas
 https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas_sozvezdiya
 https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_webgl_s_ispolzovaniem_three_js
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_400_tys_ubejali_iz_vsu_vsrf_okrujajut_pokrovsk_i_konstantinovku_04_08_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_dogovor_mejdu_rossiej_i_ssha_tramp_vstretitsya_s_putinym_07_08_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_drujnye_peregovoryv_moskve_udar_po_orlovke_evropeec_goda_06_08_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_chasov_yar_minus_pokrovsk_-_boi_v_centre_obval_flanga_31_07_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_doneckaya_oblast_zelenskij_ne_hochet_tramp_uje_reshil_09_08
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_oformlyaetsya_okrujenie_pokrovska_indiya_i_kitaj_skazali_net_ssha_05_08_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_v_centr_pokrovska_panika_vsu_02_08_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_razbombili_kiev_ssha_nachinajut_snova_pomogat_vsu_01_08_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vse_reshat_bez_zelenskogo_vstrecha_trampa_i_putina_v_ponedelnik_08_08_25
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsrf_idet_vpered_tempy_nastupleniya_na_urovne_zelenskij_ne_nujen_zapadu_30_07
 https://egaxegax.github.io/index.html?kino-teatr_ru
 https://egaxegax.github.io/index.html?kino-teatr_ru/100_devushek_kotorye_ochen_silno_ljubyat_tebya_2_sezon_trejler_2_na_yaponskom_yazyke
 https://egaxegax.github.io/index.html?kino-teatr_ru/100_tigr
@@ -7572,6 +7583,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/abrikosovoe_morojenoe_s_badya
 https://egaxegax.github.io/index.html?povarenok_ru/adjapsandal_po-bakinski
 https://egaxegax.github.io/index.html?povarenok_ru/ajntopf_s_grechkoj_i_lukom-poreem
 https://egaxegax.github.io/index.html?povarenok_ru/alfresko_po-meksikanski
+https://egaxegax.github.io/index.html?povarenok_ru/ananasovyj_keks
 https://egaxegax.github.io/index.html?povarenok_ru/anglijskij_zavarnoj_krem
 https://egaxegax.github.io/index.html?povarenok_ru/anglijskij_zavarnoj_krem_custard
 https://egaxegax.github.io/index.html?povarenok_ru/appetitnaya_zakuska_iz_kabachkov_i_indejki
@@ -7741,6 +7753,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/mandarinovaya_panakota_pp_ot_
 https://egaxegax.github.io/index.html?povarenok_ru/mangovyj_verzila_s_kotletoj_iz_indejki
 https://egaxegax.github.io/index.html?povarenok_ru/margarita_iz_sardin_i_olivok
 https://egaxegax.github.io/index.html?povarenok_ru/molochnyj_koktejl_smorodina_i_grusha
+https://egaxegax.github.io/index.html?povarenok_ru/molodoj_kartofel_pod_sousom_karbonara
 https://egaxegax.github.io/index.html?povarenok_ru/morkovno-tykvennyj_smuzi_s_apelsinom_i_imbirem
 https://egaxegax.github.io/index.html?povarenok_ru/morkovnye_pirogi_s_indejkoj
 https://egaxegax.github.io/index.html?povarenok_ru/morkovnyj_smuzi_s_kabachkom
@@ -7961,6 +7974,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/zakusochnye_maffiny_s_farshem
 https://egaxegax.github.io/index.html?povarenok_ru/zakusochnye_maffiny_s_farshem_indejki
 https://egaxegax.github.io/index.html?povarenok_ru/zapechennaya_kukuruza_s_farshem_indejki_meksika
 https://egaxegax.github.io/index.html?povarenok_ru/zapechennaya_morkov_s_nutom_finikami_fetoj
+https://egaxegax.github.io/index.html?povarenok_ru/zapechennaya_ovsyanka_s_chernikoj_i_tvorogom
 https://egaxegax.github.io/index.html?povarenok_ru/zapechennaya_ovsyanka_so_slivoj
 https://egaxegax.github.io/index.html?povarenok_ru/zapechennaya_pryanaya_indejka_s_molodoj_kapustoj
 https://egaxegax.github.io/index.html?povarenok_ru/zapechennye_farshirovannye_percy

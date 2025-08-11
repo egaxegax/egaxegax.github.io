@@ -2,7 +2,7 @@
 #
 # Parse RuTube author_id videos list .xml to .md
 #
-# text from: https://darkrutube.tumblr.com/api_video
+# api from: https://darkrutube.tumblr.com/api_video
 #
 
 RSSlist = [
@@ -25,7 +25,7 @@ fcount = 0
 for hdr, url in RSSlist:
   feedurl =  'http://rutube.ru/api/video/person/'+url+'?format=xml'
   with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
-    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('list-item')) if ii < 10]:
+    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('results/list-item')) if ii < 10]:
       titl = item.find('title').text
       udate = item.find('last_update_ts').text
       videoid = item.find('video_url').text
@@ -33,18 +33,18 @@ for hdr, url in RSSlist:
       imurl= item.find('thumbnail_url').text
       mtitl = tr_cut(titl)
       phref = '/index.html?'+ tr(os.path.basename(hdr)) +'/'+ tr(mtitl)
-      pdt = time.strptime(udate, '%Y-%m-%dT%H:%M:%S%z')
+      pdt = time.strptime(udate, '%Y-%m-%dT%H:%M:%S')
       rdate = time.strftime('%Y-%m-%d', pdt)
       ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
       # print('\n', '\n'.join([mtitl, phref, rdate, imurl, authr, videoid]))
       text = """{ctime}
 <div class="yb">
   <a class="nodecor" href="{phref}">
-    <img class="preview" data-videoid="{videoid}" src="{imurl}" align="left" alt="">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/{videoid}" src="{imurl}" align="left" alt="">
   </a>
   <div class="inlbl text">
-    <a class="nodecor" href="{phref}">{titl}</a><br>
-    <i class="smaller2">{authr}</i><br>
+    <p><a class="nodecor" href="{phref}">{titl}</a></p>
+    <p><i class="smaller2">{authr}</i></p>
     <i class="smaller3">{rdate}</i>
   </div>
 </div>
@@ -53,7 +53,7 @@ for hdr, url in RSSlist:
         os.mkdir(os.path.join(cdir, hdr))
       open(os.path.join(cdir, hdr, mtitl + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
       fcount += 1
-    print(hdr, url, '(%s)' % (ii+1,))
+    print(hdr, url, '(%s)' % (fcount,))
 
 if fcount:
   time.sleep(1)

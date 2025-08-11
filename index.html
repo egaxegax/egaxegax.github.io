@@ -82,7 +82,7 @@
     if(p.view == 'post' && html.search('data-videoid')>-1){
       html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
         '<iframe class="embed" align="middle" '+
-          'src="https://www.youtube.com/embed/'+((html.match(/data-videoid="([^"]+)"/) || []).pop() || '')+'" '+
+          'src="'+((html.match(/data-videoid="([^"]+)"/) || []).pop() || '')+'" '+
           'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" '+
           'allowfullscreen>'+
         '</iframe>'

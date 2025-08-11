@@ -77,7 +77,7 @@ for hdr, url in RSSlist:
         os.mkdir(os.path.join(cdir, hdr))
       open(os.path.join(cdir, hdr, mtitl + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
       fcount += 1
-    print(hdr, url, '(%s)' % (ii+1,))
+    print(hdr, url, '(%s)' % (fcount,))
 
 if fcount:
   time.sleep(1)
