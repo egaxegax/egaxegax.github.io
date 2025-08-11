@@ -64,7 +64,7 @@ for hdr, url in RSSlist:
       text = """{ctime}
 <div class="yb">
   <a class="nodecor" href="{phref}">
-    <img class="preview" data-videoid="{videoid}" src="{imurl}" align="left" alt="">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/{videoid}" src="{imurl}" align="left" alt="">
   </a>
   <div class="inlbl text">
     <p><a class="nodecor" href="{phref}">{titl}</a></p>
