@@ -40,7 +40,7 @@
 .bigger { font-size:150%; }
 .bigger0 { font-size:110%; }
 .bigger1 { font-size:130%; }
-.bigger2 { font-size:200%; }
+.bigger2 { font-size:150%; }
 .loader { border:1px solid #ddd; }
 .tooltip { cursor: pointer; }
 .tooltip:active:after { content: attr(title); position: relative; }

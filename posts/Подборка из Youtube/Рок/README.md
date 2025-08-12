@@ -99,6 +99,7 @@
 * [Led Zeppelin Bon Jovi Aerosmith U2 ACDC Classic Rock Hits Songs 70s 80s 90s](Led%20Zeppelin%20Bon%20Jovi%20Aerosmith%20U2%20ACDC%20Classic%20Rock%20Hits%20Songs%2070s%2080s%2090s.md)
 * [Legends of Rock Classics Nonstop Early 90s 2000s Favorites](Legends%20of%20Rock%20Classics%20Nonstop%20Early%2090s%202000s%20Favorites.md)
 * [Legends of Rock Full Albums ACDC Queen GNR Metallica Clasic Rock 70s 80s 90s Collection](Legends%20of%20Rock%20Full%20Albums%20ACDC%20Queen%20GNR%20Metallica%20Clasic%20Rock%2070s%2080s%2090s%20Collection.md)
+* [Legends of Rock Timeless Tracks from 70s to 90s Playlist](Legends%20of%20Rock%20Timeless%20Tracks%20from%2070s%20to%2090s%20Playlist.md)
 * [Lionel Richie Bee Gees Elton John Chicago Rod Stewart Eagles Billy Joel Lobo Soft Rock Music](Lionel%20Richie%20Bee%20Gees%20Elton%20John%20Chicago%20Rod%20Stewart%20Eagles%20Billy%20Joel%20Lobo%20Soft%20Rock%20Music.md)
 * [Lionel Richie Rod Stewart Eric Clapton Elton John Phil Collins Soft Rock Ballads 70s 80s 90s](Lionel%20Richie%20Rod%20Stewart%20Eric%20Clapton%20Elton%20John%20Phil%20Collins%20Soft%20Rock%20Ballads%2070s%2080s%2090s.md)
 * [Lobo Lionel Richie Elton John Rod Stewart Bee Gees Billy Joel Soft Rock Love Songs 70s 80s 90s](Lobo%20Lionel%20Richie%20Elton%20John%20Rod%20Stewart%20Bee%20Gees%20Billy%20Joel%20Soft%20Rock%20Love%20Songs%2070s%2080s%2090s.md)
