@@ -162,7 +162,7 @@ function addTitlesRels(pp, subjects, titles, date_filter){
   msgs = msgs.filter(function(tit){ return (tr(tit[2])==pp[1]); }); // filter by titl
   if(!msgs.length) return msgs;
   var rels_subj = titles.filter(function(tit){ return (tit[0] == msgs[0][0] && tit[1]!=msgs[0][1]); }).sort(function(a,b){ return arraySort(a[3],b[3]); });
-  var rels_root = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[1]!=msgs[0][1]); }).sort(function(a,b){ return arraySort(a[3],b[3]); });
+  var rels_root = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[0]!=msgs[0][0]); }).sort(function(a,b){ return arraySort(a[3],b[3]); });
   if(date_filter) rels_subj = rels_subj.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
   if(date_filter) rels_root = rels_root.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
   msgs = msgs.map(function(tit){ return tit.concat([[
