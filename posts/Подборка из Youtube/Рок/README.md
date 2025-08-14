@@ -96,6 +96,7 @@
 * [Happy Valentine Day 2025 - Love Songs Romantic 2025](Happy%20Valentine%20Day%202025%20-%20Love%20Songs%20Romantic%202025.md)
 * [Hard Rock Playlist 80s 90s Hard Rock Collection Best Hard Rock Songs Of 80s and 90s](Hard%20Rock%20Playlist%2080s%2090s%20Hard%20Rock%20Collection%20Best%20Hard%20Rock%20Songs%20Of%2080s%20and%2090s.md)
 * [Hermanos Ranchero - Biz Baz Studio](Hermanos%20Ranchero%20-%20Biz%20Baz%20Studio.md)
+* [Highway Rock Best Road Trip Rock Songs Ever](Highway%20Rock%20Best%20Road%20Trip%20Rock%20Songs%20Ever.md)
 * [Led Zeppelin Bon Jovi Aerosmith U2 ACDC Classic Rock Hits Songs 70s 80s 90s](Led%20Zeppelin%20Bon%20Jovi%20Aerosmith%20U2%20ACDC%20Classic%20Rock%20Hits%20Songs%2070s%2080s%2090s.md)
 * [Legends of Rock Classics Nonstop Early 90s 2000s Favorites](Legends%20of%20Rock%20Classics%20Nonstop%20Early%2090s%202000s%20Favorites.md)
 * [Legends of Rock Full Albums ACDC Queen GNR Metallica Clasic Rock 70s 80s 90s Collection](Legends%20of%20Rock%20Full%20Albums%20ACDC%20Queen%20GNR%20Metallica%20Clasic%20Rock%2070s%2080s%2090s%20Collection.md)
