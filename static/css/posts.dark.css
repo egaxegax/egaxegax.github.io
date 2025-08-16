@@ -3,7 +3,6 @@
 .dark { color:#dedede; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
-.counter { color:#59a750; }
 body,text { background:rgb(50,53,57); color:#dedede; } 
 a, a:active, a:focus { color:#f4c430; }
 b,i,em,h4,h5 { color:#aaa; }
@@ -36,7 +35,7 @@ li::marker { color:green; }
 .bb {border-bottom:1px dotted #dedede;}
 .mb {padding-bottom:10px;}
 /* youtube, dzen */
-.yb { margin:5px 0 0 0; }
+.yb { margin:5px 0 0 0; line-height:1.3em; }
 .yb a { color:#dedede; }
 .yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
 .yb iframe.embed { border:0; border-radius:2px; width:100vw; height:30vw; }
@@ -46,7 +45,7 @@ li::marker { color:green; }
 .yb .smaller2 { font-size:90%; }
 .yb .smaller3 { display:none; }
 /* habr */
-.rss { min-height:150px; line-height:1.3em; }
+.rss { min-height:150px; }
 .rss strong { font-weight:normal; }
 .kino_kino img,.kino_teatr img { margin:0px 10px 0px 0px !important; }
 @media (max-width:800px){ .rss img { display:block; margin:-10px -15px 10px -15px; max-width: calc(100% + 30px); }}

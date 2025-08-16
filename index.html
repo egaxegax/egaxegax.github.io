@@ -13,8 +13,8 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250812">
 <link rel="stylesheet" href="/static/css/markdown.css">
-<link rel="stylesheet" href="/static/css/posts.css?250812">
-<script src="/static/js/template.js?250812"></script>
+<link rel="stylesheet" href="/static/css/posts.css?250816">
+<script src="/static/js/template.js?250816"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -95,8 +95,9 @@
   '</div>'+
   '<div class="msgfooter tright mw_f nowrap scroll">'+
     '<table><tr>'+
-      '<td><span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span> &ensp; <a class="nodecor gray" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> &uarr; </a></td>'+
-      '<td width="99%"><a class="hspace nodecor light" href="/index.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
+      '<td><span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span> <td>'+
+      '<td><a class="nodecor hspaced gray" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addShare()+' </a></td>'+
+      '<td width="95%"><a class="hspace nodecor light" href="/index.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
     '</tr></table>'+
   '</div>';
     addTitlesRelsHtml(p, 'index.html');
@@ -168,10 +169,10 @@
           return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        POSTS = POSTS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        POSTS = POSTS.sort(function(a,b){ return arraySort(b[3],a[3]); }); // sort by datetime
         page_header =
       '<div class="table">'+
-        '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+POSTS.length+')</i></div>'+
+        '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+POSTS.length+')</i></div>'+
         '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
       '</div>';
         PAGE.per = 10;
@@ -197,7 +198,7 @@
         '<div class="table">'+
           '<div class="tcell vmid">'+
             '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + 
-              '<i class="hspace counter">('+ POSTS.length+')</i> '+
+              '<i class="hspace light">('+ POSTS.length+')</i> '+
               '<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a>'+
             '</h1>'+
           '</div>'+

@@ -12,7 +12,7 @@
 <title>Книги / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250812">
-<link rel="stylesheet" href="/static/css/books.css?250531">
+<link rel="stylesheet" href="/static/css/books.dark.css?250816">
 <script src="/static/js/template.js?250812"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
@@ -169,7 +169,7 @@
           PAGE.view = 'last';
           page_header = 
         '<div class="table">'+
-          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+BOOKS.length+')</i></div>'+
+          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+BOOKS.length+')</i></div>'+
           '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
@@ -181,8 +181,8 @@
         if((BOOKS = addTitlesRels(pp, SUBJ, BOOKS)).length){
           PAGE.view = 'book';
           page_header = 
-        '<div class="large table">'+
-          '<div class="tcell vmid">'+
+        '<div class="table">'+
+          '<div class="large tcell vmid">'+
             '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<h1>'+BOOKS[0][2]+'</h1>'+
           '</div>'+
@@ -201,13 +201,13 @@
         if(BOOKS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<div class="large table">'+
-          '<div class="tcell vmid">'+
+        '<div class="table">'+
+          '<div class="large tcell vmid">'+
             '<h1><a class="nodecor" href="'+
                 (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
                 (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
               '</a> &nbsp; '+
-              '<i class="hspaced counter"> ('+ BOOKS.length+')</i>'+
+              '<i class="hspaced gray"> ('+ BOOKS.length+')</i>'+
             '</h1>'+
           '</div>'+
           '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+

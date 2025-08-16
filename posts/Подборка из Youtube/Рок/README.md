@@ -131,6 +131,7 @@
 * [Queen Nirvana Scorpions Aerosmith U2 ACDC Bon JoviClassic Rock Songs 70s 80s 90s Full Album](Queen%20Nirvana%20Scorpions%20Aerosmith%20U2%20ACDC%20Bon%20JoviClassic%20Rock%20Songs%2070s%2080s%2090s%20Full%20Album.md)
 * [Rock And Roll Playlist 70s 80s 90s Greatest Hits Pink Floyd Queen Nirvana ACDC Guns N Roses](Rock%20And%20Roll%20Playlist%2070s%2080s%2090s%20Greatest%20Hits%20Pink%20Floyd%20Queen%20Nirvana%20ACDC%20Guns%20N%20Roses.md)
 * [Rock Ballads Forever Greatest Hits of the 70s 80s](Rock%20Ballads%20Forever%20Greatest%20Hits%20of%20the%2070s%2080s.md)
+* [Rock Fever Turn Up the 70s 80s Classics Nonstop Rock Hits](Rock%20Fever%20Turn%20Up%20the%2070s%2080s%20Classics%20Nonstop%20Rock%20Hits.md)
 * [Rock Legends Forever Greatest Hits of All Time](Rock%20Legends%20Forever%20Greatest%20Hits%20of%20All%20Time.md)
 * [Rock N Roll Legends The Greatest Hits of the 70s 80s](Rock%20N%20Roll%20Legends%20The%20Greatest%20Hits%20of%20the%2070s%2080s.md)
 * [Rock Roll Memories Best Classic Rock 80s Music Playlist](Rock%20Roll%20Memories%20Best%20Classic%20Rock%2080s%20Music%20Playlist.md)

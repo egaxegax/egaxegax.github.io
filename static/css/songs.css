@@ -2,7 +2,7 @@
 .wrap { background:#fff; }
 .dark { color:#333; }
 .gray { color:#777; }
-.counter { color:#379e60; }
+.light { color:#3c677b; }
 .chords strong em { color:#3c677b; }
 .chord div { color:#4d3ca0; display:inline-block; }
 body { background:#fafafa; color:#333; }
@@ -16,4 +16,4 @@ input[type=text], select { background:#fff; }
 #header svg g { fill:#777; stroke:#777; }
 #header svg g.active { fill:#3c677b; stroke:#3c677b; }
 #header .yin { fill:#fff; stroke:#fff; }
-#page_footer button { background:#379e60; color:#fff; }
+#page_footer button { background:#6b9f7f; color:#fff; }

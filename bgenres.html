@@ -12,7 +12,7 @@
 <title>Список жанров книг / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250812">
-<link rel="stylesheet" href="/static/css/books.css?250508">
+<link rel="stylesheet" href="/static/css/books.dark.css?250816">
 <script src="/static/js/template.js?250812"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
@@ -52,13 +52,13 @@
 
   function addGenre(gnr,i){
     var tmpl = 
-  '<table class="msgtext" width="99%"><tr>'+
+  '<table class="msgtext" width="100%"><tr>'+
     '<td width="80%" class="hspaced" valign="center">'+
       '<a class="nodecor dark" href="/books.html?'+tr(gnr[0])+'">'+(GENRES_RU[gnr[0]]||gnr[0])+
       ' / <i class="smaller gray">'+gnr[0]+'</i></a>'+
     '</td>'+
     '<td valign="center"><b><i>'+gnr[1]+'</i></b></td>'+
-    '<td valign="center" align="right"><i class="counter small">'+i+'</i></td>'+
+    '<td valign="center" align="right"><i class="light small">'+i+'</i></td>'+
   '</tr></table>';
     return tmpl;
   }
@@ -109,7 +109,7 @@
           return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                   (GENRES_RU[tit[0]] && GENRES_RU[tit[0]].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1);
         });
-        pheader = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+GNRS.length+')</i>';
+        pheader = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+GNRS.length+')</i>';
       }
     }
     document.getElementById('page_header').innerHTML = 

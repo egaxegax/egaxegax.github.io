@@ -1,8 +1,8 @@
 /* light theme */
 .wrap { background:#fff; }
 .dark { color:#333; }
-.gray { color:#888; }
-.counter { color:#379e60; }
+.gray { color:#777; }
+.light { color:#3c677b; }
 body { background:#fafafa; color:#333; }
 a, a:active, a:focus { color:#3c677b; }
 b,i,em { color: #777; }
@@ -14,7 +14,7 @@ input[type=text], select { background:#fff; }
 #header svg g { fill:#777; stroke:#777; }
 #header svg g.active { fill:#3c677b; stroke:#3c677b; }
 #header .yin { fill:#fff; stroke:#fff; }
-#page_footer button { background:#379e60; color:#fff; }
+#page_footer button { background:#6b9f7f; color:#fff; }
 /**/
 .about img { max-width:50px; }
 .av img { width:100%; }

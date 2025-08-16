@@ -74,7 +74,7 @@
         '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp;&emsp; '+p.title[2]+' </a><br>'+
       '</td>'+
       '<td valign="center" align="right" class="light" width="1%">'+
-        '<i class="small counter">'+(p.i+1)+'</i>&ensp;'+
+        '<i class="small light">'+(p.i+1)+'</i>&ensp;'+
         '<span class="tooltip small" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
       '</td></tr>'+
     '</table>'+
@@ -89,7 +89,7 @@
       '<td width="99%">'+
         '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp; '+p.title[2]+' </a>'+
       '</td>'+
-      '<td align="right" class="light"><i class="small counter">'+p.i+'</i></td></tr>'+
+      '<td align="right" class="light"><i class="small light">'+p.i+'</i></td></tr>'+
     '</table>'+
   '</div>';
   }
@@ -233,7 +233,7 @@
           PAGE.view = 'last';
           page_header = 
         '<div class="table">'+
-          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="counter">('+SONGS.length+')</i></div>'+
+          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+SONGS.length+')</i></div>'+
           '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
         '</div>';
           document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
@@ -246,8 +246,8 @@
         if((SONGS = addTitlesRels(pp, SUBJ, SONGS)).length){
           PAGE.view = 'song';
           page_header =
-        '<div class="large table">'+
-          '<div class="tcell vmid">'+
+        '<div class="table">'+
+          '<div class="large tcell vmid">'+
             '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
             '<h1>'+SONGS[0][2]+'</h1>'+
           '</div>'+
@@ -262,10 +262,10 @@
         if(SONGS.length){ 
           PAGE.view = 'list';
           page_header = 
-        '<div class="large table">'+
-          '<div class="tcell vmid">'+
+        '<div class="table">'+
+          '<div class="large tcell vmid">'+
             '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
-            '<i class="hspace counter">('+ SONGS.length+')</i></h1>'+
+            '<i class="hspace gray">('+ SONGS.length+')</i></h1>'+
           '</div>'+
           '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("songs")+'</div>'+
         '</div>';

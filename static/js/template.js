@@ -103,6 +103,10 @@ function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="t
 //
 function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" src="/static/img/loader.gif"></div>' : ''); }
 //
+// return share button html
+//
+function addShare(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g transform="scale(0.75 0.75) translate(0 2)"><path d="M20 0V20V0ZM0 0V20V0ZM14 12C13.144 12 12.377 12.362 11.831 12.937L7.894 10.75C7.956 10.509 8 10.261 8 10C8 9.739 7.956 9.491 7.894 9.25L11.831 7.063C12.377 7.638 13.144 8 14 8C15.657 8 17 6.657 17 5C17 3.343 15.657 2 14 2C12.343 2 11 3.343 11 5C11 5.26 11.044 5.509 11.106 5.75L7.169 7.937C6.623 7.362 5.856 7 5 7C3.343 7 2 8.343 2 10C2 11.657 3.343 13 5 13C5.856 13 6.623 12.638 7.169 12.063L11.106 14.25C11.044 14.491 11 14.74 11 15C11 16.657 12.343 18 14 18C15.657 18 17 16.657 17 15C17 13.343 15.657 12 14 12ZM5 8.5C5.827 8.5 6.5 9.173 6.5 10C6.5 10.827 5.827 11.5 5 11.5C4.173 11.5 3.5 10.827 3.5 10C3.5 9.173 4.173 8.5 5 8.5ZM14 13.5C14.827 13.5 15.5 14.173 15.5 15C15.5 15.827 14.827 16.5 14 16.5C13.173 16.5 12.5 15.827 12.5 15C12.5 14.173 13.173 13.5 14 13.5ZM14 3.5C14.827 3.5 15.5 4.173 15.5 5C15.5 5.827 14.827 6.5 14 6.5C13.173 6.5 12.5 5.827 12.5 5C12.5 4.173 13.173 3.5 14 3.5Z" fill="currentColor"></path></g></svg>'; }
+//
 // return html for paginator
 //
 function addPaginator(list, page, page_btn){

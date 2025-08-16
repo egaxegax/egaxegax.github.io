@@ -13,7 +13,7 @@ input[type=text], select { background:#fff; }
 #header svg g { fill:#777; stroke:#777; }
 #header svg g.active { fill:#3c677b; stroke:#3c677b; }
 #header .yin { fill:#fff; stroke:#fff; }
-#page_footer button { background:#379e60; color:#fff; }
+#page_footer button { background:#6b9f7f; color:#fff; }
 /*ads*/
 .mh_sm { max-height:100px; }
 .mw_1 { max-width:530px; }
