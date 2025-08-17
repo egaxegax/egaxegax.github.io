@@ -16,6 +16,7 @@ https://egaxegax.github.io/foto.html?cerkvi/savinskoe_hram_vasiliya_velikogo
 https://egaxegax.github.io/foto.html?cerkvi/tobolsk_abalakskij_monastyr
 https://egaxegax.github.io/foto.html?cerkvi/vologda_sofijskij_sobor
 https://egaxegax.github.io/foto.html?moskva
+https://egaxegax.github.io/foto.html?moskva/derevo_s_krasnymi_yagodami_avgust_2025g
 https://egaxegax.github.io/foto.html?moskva/hram_hrista_spasitelya_yanvar_2025g
 https://egaxegax.github.io/foto.html?moskva/kater_na_moskve-reke_yanvar_2025g
 https://egaxegax.github.io/foto.html?moskva/kirovogradskie_prudy
@@ -36,6 +37,7 @@ https://egaxegax.github.io/foto.html?moskva/v_kuzminskom_parke_alleya_u_nalogovo
 https://egaxegax.github.io/foto.html?moskva/v_kuzminskom_parke_vid_na_prud_mart_2025g
 https://egaxegax.github.io/foto.html?moskva/varshavskie_prudy
 https://egaxegax.github.io/foto.html?moskva/vechernyaya_moskva_ju_butovo_oktyabr_2023g
+https://egaxegax.github.io/foto.html?moskva/vid_iz_okna_na_vostok_moskva_u_dubrovki_ijul_2025g
 https://egaxegax.github.io/foto.html?moskva/vid_na_butovo_park_2_mart_2024g
 https://egaxegax.github.io/foto.html?moskva/vid_na_ljublinskuju_ulicu_aprel_2025g
 https://egaxegax.github.io/foto.html?moskva/vid_na_ljublinskuju_ulicu_maj_2025g
@@ -44,6 +46,7 @@ https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_s_malogo_ber
 https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_v_storonu_cerkvi_dekabr_2023g
 https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_v_storonu_cerkvi_sentyabr_2023g
 https://egaxegax.github.io/foto.html?moskva/yasenevskie_prudy_avgust_2017g
+https://egaxegax.github.io/foto.html?moskva/zabroshennyj_dom_v_jujnom_kvartale_ijun_2025g
 https://egaxegax.github.io/foto.html?moskva/zimnij_zakat_v_ju_butovo_fevral_2023g
 https://egaxegax.github.io/foto.html?priroda
 https://egaxegax.github.io/foto.html?priroda/babochka_na_krasnom_cvetke_2_sentyabr_2018g
@@ -76,6 +79,7 @@ https://egaxegax.github.io/foto/Москва/В Кузьминском парк�
 https://egaxegax.github.io/foto/Москва/В Кузьминском парке. Вид на пруд. Март 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Варшавские пруды.jpg
 https://egaxegax.github.io/foto/Москва/Вечерняя Москва (Ю.Бутово). Октябрь 2023г.jpg
+https://egaxegax.github.io/foto/Москва/Вид из окна на восток Москва у Дубровки. Июль 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Вид на Бутово Парк 2. Март 2024г.jpg
 https://egaxegax.github.io/foto/Москва/Вид на Захарьинский пруд в сторону церкви. Декабрь 2023г.jpg
 https://egaxegax.github.io/foto/Москва/Вид на Захарьинский пруд в сторону церкви. Сентябрь 2023г.jpg
@@ -83,6 +87,8 @@ https://egaxegax.github.io/foto/Москва/Вид на Захарьински�
 https://egaxegax.github.io/foto/Москва/Вид на Люблинскую улицу. Апрель 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Вид на Люблинскую улицу. Май 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Вид на парк у Милицейского поселка. Декабрь 2024г.jpg
+https://egaxegax.github.io/foto/Москва/Дерево с красными ягодами. Август 2025г.jpg
+https://egaxegax.github.io/foto/Москва/Заброшенный дом в Южном квартале. Июнь 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Зимний закат в Ю.Бутово. Февраль 2023г.jpg
 https://egaxegax.github.io/foto/Москва/Катер на Москве-реке. Январь 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Кировоградские пруды.jpg

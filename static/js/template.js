@@ -118,7 +118,7 @@ function addPaginator(list, page, page_btn){
       prev_page_num = page_num - 1,
       next_page_num = page_num + 1;
   var root = 
-'<p class="paginator tcenter">'+
+'<div class="paginator tcenter">'+
 (has_previous ? 
   '<a class="nodecor" href="?'+urlBuild({page: prev_page_num})+'"><span class="bigger2">&larr;&nbsp;</span> </a>'
 : 
@@ -137,7 +137,7 @@ function addPaginator(list, page, page_btn){
   '<span class="gray"><span class="bigger2">&nbsp;&rarr;</span></span>'
 :
   ''))+
-'</p>';
+'</div>';
   return (has_previous || has_next) ? root : '';
 }
 //

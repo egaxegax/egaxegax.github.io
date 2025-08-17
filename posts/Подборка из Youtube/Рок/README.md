@@ -164,6 +164,7 @@
 * [The Best of Classic Rock 70s 80s 90s Guns N Roses The Beatles Led Zeppelin Queen](The%20Best%20of%20Classic%20Rock%2070s%2080s%2090s%20Guns%20N%20Roses%20The%20Beatles%20Led%20Zeppelin%20Queen.md)
 * [The Police CCR The Rolling Stones Pink Floyd The Who Classic Rock Songs Full Album 70s 80s 90s](The%20Police%20CCR%20The%20Rolling%20Stones%20Pink%20Floyd%20The%20Who%20Classic%20Rock%20Songs%20Full%20Album%2070s%2080s%2090s.md)
 * [The Police Queen Pink Floyd The Who CCR AC DC AerosmithClassic Rock Songs Full Album 70s 80s 90s](The%20Police%20Queen%20Pink%20Floyd%20The%20Who%20CCR%20AC%20DC%20AerosmithClassic%20Rock%20Songs%20Full%20Album%2070s%2080s%2090s.md)
+* [The Power of Rock Greatest Rock Anthems Playlist](The%20Power%20of%20Rock%20Greatest%20Rock%20Anthems%20Playlist.md)
 * [The Rock Track Thats Gone Viral Worldwide rock rockmusic](The%20Rock%20Track%20Thats%20Gone%20Viral%20Worldwide%20rock%20rockmusic.md)
 * [The Rolling Stones ACDC Queen Aerosmith Bon Jovi Metallica Classic Rock Songs 70s 80s 90s](The%20Rolling%20Stones%20ACDC%20Queen%20Aerosmith%20Bon%20Jovi%20Metallica%20Classic%20Rock%20Songs%2070s%2080s%2090s.md)
 * [The Rolling Stones Led Zeppelin Dire Straits CCR Queen - Best Classic Rock Of 70s 80s 90s Mix](The%20Rolling%20Stones%20Led%20Zeppelin%20Dire%20Straits%20CCR%20Queen%20-%20Best%20Classic%20Rock%20Of%2070s%2080s%2090s%20Mix.md)
