@@ -402,6 +402,7 @@ https://egax.ru/index.html?dzen/garri_potter_8_podskazok_chto_grjum_byl_barti_kr
 https://egax.ru/index.html?dzen/garri_potter_skolko_problem_dostavil_kajdyj_iz_fakultetov_hogvartsa
 https://egax.ru/index.html?dzen/gde_delajut_novuju_6mkpp_dlya_vesty_i_kakoj_u_nee_resurs_razbiraemsya_v_voprose
 https://egax.ru/index.html?dzen/gde_hranitsya_samyj_bolshoj_zolotoj_samorodok_najdennyj_v_rossii
+https://egax.ru/index.html?dzen/gde_jil_petr_pervyj_v_gollandii_i_chto_menya_udivilo_v_ego_dome_bolshe_vsego
 https://egax.ru/index.html?dzen/gde_luchshe_ostavit_sobaku_na_vremya_otpuska_ili_komandirovki
 https://egax.ru/index.html?dzen/gde_pokatatsya_na_gornyh_lyjah_v_podmoskove_5_luchshih_kurortov_ot_sorochan_do_parka_yahroma
 https://egax.ru/index.html?dzen/gde_projivaet_i_ohotitsya_samaya_smertonosnaya_koshka_v_mire_i_pochemu_ona_schitaetsya_takovoj
@@ -416,6 +417,7 @@ https://egax.ru/index.html?dzen/glajka_postelnogo_belya_perejitok_proshlogo_ili_
 https://egax.ru/index.html?dzen/glavnaya_fizicheskaya_oshibka_legendarnogo_filma_titanik
 https://egax.ru/index.html?dzen/glavnye_geograficheskie_otkrytiya_xxi_veka_da-da_eshche_est_chto_otkryvat
 https://egax.ru/index.html?dzen/glaz_omara_zonda_ejnshtejn_zametil_strannuju_zvezdnuju_paru
+https://egax.ru/index.html?dzen/gluboko_pod_amerikoj_obnarujeno_dvijenie_mantijnoj_volny
 https://egax.ru/index.html?dzen/golosovanie_za_luchshij_flagmanskij_smartfon_2024_goda_vybirajut_chitateli_hi-tech_mail
 https://egax.ru/index.html?dzen/gorod-prizrak_chaltubo_poslednie_jiteli_goroda_zabroshennyh_sanatoriev_sssr
 https://egax.ru/index.html?dzen/gorod-prizrak_nesterovo_poslednie_jiteli_zabroshennogo_sovetskogo_goroda_mechty
@@ -1894,6 +1896,9 @@ https://egax.ru/index.html?eadaily/250813_1800
 https://egax.ru/index.html?eadaily/250814_1800
 https://egax.ru/index.html?eadaily/250815_1800
 https://egax.ru/index.html?eadaily/250816_1800
+https://egax.ru/index.html?eadaily/250817_1800
+https://egax.ru/index.html?eadaily/250818_1800
+https://egax.ru/index.html?eadaily/250819_1800
 https://egax.ru/index.html?fajtingi
 https://egax.ru/index.html?fajtingi/igra_v_mk-11
 https://egax.ru/index.html?fajtingi/igra_v_mk-11_robocop
@@ -2132,11 +2137,13 @@ https://egax.ru/index.html?habr/20_-ya_bezrabotica_iz-za_ii_ne_fantastika_glava_
 https://egax.ru/index.html?habr/22_aprelya_zaglyanem_pod_kapot_vk_video_ot_razrabotki_do_ml
 https://egax.ru/index.html?habr/22_maya_m2_design_meetup
 https://egax.ru/index.html?habr/24_maya_otkryvaem_konferenciju_data_fest_2025_v_ofise_vk
+https://egax.ru/index.html?habr/25_avgusta_sostoitsya_writeconf_professionalnaya_konferenciya_dlya_sozdatelej_tekstov
 https://egax.ru/index.html?habr/28_672_vcpu_dlya_biznesa_zapushchena_novaya_ploshchadka_publichnogo_oblaka_rtk-cod
 https://egax.ru/index.html?habr/300_sensorov_aws_i_ii_pochemu_v_formule-1_teper_bolshe_obgonov
 https://egax.ru/index.html?habr/30_let_java_kotlin_i_spring_obedinyajutsya_hibernate_ojil_spring_ajo_podkast_20
 https://egax.ru/index.html?habr/404_media_spotify_publikuet_pesni_umershih_muzykantov_sozdannye_s_pomoshchju_ii_bez_razresheniya
 https://egax.ru/index.html?habr/41_rossiyan_polzujutsya_umnymi_kolonkami_osnovnoj_effekt_ekonomiya_vremeni
+https://egax.ru/index.html?habr/45_mlrd_nvidia_protiv_13_mlrd_intel_ii_vybral_pobeditelya
 https://egax.ru/index.html?habr/50_let_sovmestnomu_poletu_kosmicheskih_korablej_sojuz-19_i_apollon
 https://egax.ru/index.html?habr/50_pokolenie_nvidia_obyavleno
 https://egax.ru/index.html?habr/67_finansovyh_kompanij_rf_vkljuchili_perehod_na_rossijskie_resheniya_v_svoi_strategii_razvitiya
@@ -2301,6 +2308,7 @@ https://egax.ru/index.html?habr/bilajn_i_laboratoriya_kasperskogo_sozdajut_setev
 https://egax.ru/index.html?habr/bilajn_i_yadro_pokazali_rabotu_otechestvennoj_bazovoj_stancii_na_cipr-2025
 https://egax.ru/index.html?habr/bilajn_s_nachala_goda_otrazil_bolee_1_5_tys_masshtabnyh_ddos-atak_na_svoju_it-infrastrukturu
 https://egax.ru/index.html?habr/bill_gejts_eto_odna_iz_samyh_vajnyh_knig_ob_iskusstvennom_intellekte_kogda-libo_napisannyh
+https://egax.ru/index.html?habr/bim_prosvet_2025_iskusstvennyj_intellekt_v_proektirovanii_vpervye_oflajn_na_ploshchadke_sminex
 https://egax.ru/index.html?habr/bioprinter_nitu_misis_poyavilsya_na_platforme_nasha_laba
 https://egax.ru/index.html?habr/birja_ib-_i_it-startapov_gazinformservis_zapuskaet_obnovlennyj_akselerator_dlya_specialistov_po_kiberbezopasnosti
 https://egax.ru/index.html?habr/bitblaze_na_innoprome-2025_predstavila_injenernyj_prototip_noutbuka_na_processore_elbrus
@@ -2339,6 +2347,7 @@ https://egax.ru/index.html?habr/budushchee_bez_google_search_ii-pomoshchniki_men
 https://egax.ru/index.html?habr/budushchee_it-rynka_issledovanie_mts
 https://egax.ru/index.html?habr/budushchee_tp-link_v_ssha_zavisit_ot_deklariruemogo_razryva_svyazej_s_kitaem
 https://egax.ru/index.html?habr/building_the_cloud_epizod_3_object_storage
+https://egax.ru/index.html?habr/bystraya_integraciya_vnutrennih_i_vneshnih_sistem_s_pomoshchju_ii-agenta
 https://egax.ru/index.html?habr/bystree_moshchnee_effektivnee_realizovali_gpu_passthrough_v_vmmanager
 https://egax.ru/index.html?habr/bytedance_planiruet_investirovat_milliardy_dollarov_v_ai-chipy_nvidia_cherez_ofshornye_data-centry
 https://egax.ru/index.html?habr/bytedance_razognala_yazykovuju_model_v_5_4_raza_s_pomoshchju_diskretnoj_diffuzii
@@ -2382,12 +2391,14 @@ https://egax.ru/index.html?habr/chatgpt_privlek_500_tysyach_novyh_polzovatelej_v
 https://egax.ru/index.html?habr/chatgpt_teper_umeet_podkljuchatsya_k_outlook_teams_gmail_google_drive_i_drugim_servisam
 https://egax.ru/index.html?habr/chatgpt_udvoil_chislo_ejenedelno_aktivnyh_polzovatelej_menee_chem_za_6_mesyacev_blagodarya_novym_relizam
 https://egax.ru/index.html?habr/chatgpt_uje_nastolko_zagryaznil_internet_chto_eto_tormozit_budushchee_razvitie_ii
+https://egax.ru/index.html?habr/chatgpt_v_odinochku_zanimaet_pochti_50_veb-trafika_ii
 https://egax.ru/index.html?habr/chego_na_samom_dele_ojidajut_sotrudniki_kogda_rech_idet_pro_uderjanie_v_kompanii
 https://egax.ru/index.html?habr/cheloveku_vpervye_implantirovali_titanovoe_iskusstvennoe_serdce
 https://egax.ru/index.html?habr/chem_zanyatsya_v_novogodnie_prazdniki_15_besplatnyh_kursov_i_zanyatij_dlya_teh_kto_hochet_nauchitsya_chemu-to_novomu
 https://egax.ru/index.html?habr/chestnye_vakansii_seriya_vebinarov_s_ekspertami_iz_bigteha
 https://egax.ru/index.html?habr/chicago_sun-times_opublikovala_spisok_knig_dlya_letnego_chteniya_iz_15_knig_10_okazalis_vydumkoj_ii
 https://egax.ru/index.html?habr/chipy_amd_mi350_obespechivajut_bolshoj_obem_pamyati_no_ustupajut_nvidia_v_setevyh_tehnologiyah
+https://egax.ru/index.html?habr/chislo_chastnyh_kompanij_v_sfere_ii_s_ocenkoj_vyshe_1_mlrd_priblizilos_k_otmetke_500_po_sostoyaniju_na_2025_god
 https://egax.ru/index.html?habr/chislo_polzovatelej_sferuma_vyroslo_na_40
 https://egax.ru/index.html?habr/chto_delat_s_novoj_uyazvimostju_nulevogo_dnya_v_microsoft_sharepoint_rasskazyvajut_nashi_eksperty
 https://egax.ru/index.html?habr/chto_jdut_ot_middle_devops_v_sbertehe
@@ -2425,6 +2436,7 @@ https://egax.ru/index.html?habr/deckhouse_kubernetes_platform_bolshe_ne_v_cncf_p
 https://egax.ru/index.html?habr/deepmind_ot_google_predstavlyaet_alphaevolve_sistemu_ii_kotoraya_razrabatyvaet_i_optimiziruet_algoritmy
 https://egax.ru/index.html?habr/deepseek_my_podoshli_iz-za_ugla
 https://egax.ru/index.html?habr/deepseek_otkazyvaetsya_ot_venchurnyh_deneg
+https://egax.ru/index.html?habr/deepseek_poluchil_obnovlenie_k_sojaleniju_poka_ne_do_r2
 https://egax.ru/index.html?habr/deepseek_proizvel_furor_i_tut_je_oblajalsya_a_garvard_ne_stal_suditsya_s_samsung_dajdjest_novostej
 https://egax.ru/index.html?habr/deepseek_vytesnyaet_chatgpt_s_posta_topovogo_prilojeniya_app_store
 https://egax.ru/index.html?habr/delo_ross_intelligence_kak_sud_ssha_rassmatrival_ispolzovanie_materialov_dlya_obucheniya_ai
@@ -2569,6 +2581,7 @@ https://egax.ru/index.html?habr/glava_roskosmosa_dogovorilsya_s_i_o_glavy_nasa_o
 https://egax.ru/index.html?habr/glava_roskosmosa_rasskazal_o_nachale_razrabotki_rakety_s_vozvrashchaemoj_pervoj_stupenju
 https://egax.ru/index.html?habr/glava_samsung_electronics_prizval_k_reshitelnym_dejstviyam_na_fone_narastajushchih_vyzovov_svyazannyh_s_razvitiem_ii
 https://egax.ru/index.html?habr/glavnaya_stranica_prilojeniya_youtube_dlya_tv_vskore_stanet_pohoja_na_netflix_i_vkljuchat_platnyj_kontent
+https://egax.ru/index.html?habr/glavnyj_nauchnyj_sotrudnik_openai_nazval_knigu_kotoraya_podtolknula_ego_k_karere
 https://egax.ru/index.html?habr/globalnyj_sboj_v_rabote_playstation_network_prodoljaetsya_bolee_16_chasov
 https://egax.ru/index.html?habr/globalnyj_sboj_v_rabote_steam_igrovye_servisy_nachali_vozvrashchatsya_k_rabote
 https://egax.ru/index.html?habr/globalnyj_sboj_v_rabote_tiktok
@@ -2612,6 +2625,7 @@ https://egax.ru/index.html?habr/google_play_zashchita_nachala_blokirovat_priloje
 https://egax.ru/index.html?habr/google_podala_v_sud_na_operatorov_botneta_badbox_2_0_zarazivshego_10_mln_ustrojstv
 https://egax.ru/index.html?habr/google_podderjit_standart_anthropic_mcp_dlya_ai-modelej_gemini
 https://egax.ru/index.html?habr/google_podnimet_denejnye_bonusy_luchshim_sotrudnikam_za_schet_urezaniya_vyplat_neeffektivnym
+https://egax.ru/index.html?habr/google_pojmali_za_ruku_shtraf_36_mln_za_sgovor_s_avstralijskimi_operatorami_svyazi
 https://egax.ru/index.html?habr/google_poluchila_razreshenie_prodavat_knigi_napryamuju_klientam_cherez_prilojenie_google_play_books_dlya_ios
 https://egax.ru/index.html?habr/google_predostavila_vozmojnost_prosmatrivat_i_redaktirovat_zashifrovannye_fajly_microsoft_word_v_google_docs
 https://egax.ru/index.html?habr/google_predstavila_instrumentarij_zentool_dlya_analiza_i_izmeneniya_mikrokoda_processorov_amd_mikroarhitektury_zen_1-4
@@ -2703,6 +2717,7 @@ https://egax.ru/index.html?habr/huawei_predstavila_na_mwc_2025_pervyj_v_mire_kom
 https://egax.ru/index.html?habr/hugging_face_vypustila_frejmvork_smolagents_uproshchajushchij_sozdanie_ai-agentov_s_pomoshchju_vsego_neskolkih_strok_koda
 https://egax.ru/index.html?habr/hunyuan-a13b_ot_tencent_yazykovaya_model_s_dinamicheskim_podhodom_k_rassujdeniju
 https://egax.ru/index.html?habr/hunyuan-t1_ot_tencent_model_kotoraya_brosaet_vyzov_openai
+https://egax.ru/index.html?habr/hyundai_predlojila_pokupatelyam_ioniq_5_zaplatit_65_za_obnovlenie_sistemy_kiberbezopasnosti
 https://egax.ru/index.html?habr/ibm_anonsirovala_server_power11_s_aptajmom_na_urovne_99_9999_i_na_55_luchshej_proizvoditelnostju_chem_power9
 https://egax.ru/index.html?habr/ibm_predstavlyaet_novuju_versiju_mejnfrejma_z17_dlya_uskoreniya_vnedreniya_ii
 https://egax.ru/index.html?habr/ibm_prodoljaet_massovye_uvolneniya_sotrudnikov_v_svoem_amerikanskom_podrazdelenii_i_predlagaet_im_pereezd_v_indiju
@@ -2717,6 +2732,7 @@ https://egax.ru/index.html?habr/ii-brauzer_openai_novyj_konkurent_google_chrome
 https://egax.ru/index.html?habr/ii-model_google_gemini_zapanikovala_igraya_v_pok_mon
 https://egax.ru/index.html?habr/ii-model_nvidia_cbottle_mojet_modelirovat_klimat_zemli_s_razresheniem_v_kilometr
 https://egax.ru/index.html?habr/ii-modeli_nauchili_igrat_v_mafiju_drug_s_drugom_v_ramkah_otkrytogo_proekta
+https://egax.ru/index.html?habr/ii-puzyr_ili_novaya_realnost_soglasny_li_vy_s_mneniem_sema_altmana
 https://egax.ru/index.html?habr/ii-startap_perplexity_ocenili_v_18_milliardov_dollarov_blagodarya_novomu_finansirovaniju
 https://egax.ru/index.html?habr/ii-startap_razmestil_postery_s_golovolomkami_i_pojmal_kandidatov_na_rabotu
 https://egax.ru/index.html?habr/ii_claude_smojet_zavershat_besedu_v_otvet_na_hamstvo_polzovatelya
@@ -2728,6 +2744,7 @@ https://egax.ru/index.html?habr/ii_ot_google_vzyal_zoloto_mejdunarodnoj_matemati
 https://egax.ru/index.html?habr/ii_pozvolit_vyyavlyat_sovershenno_unikalnye_indikatory_riska
 https://egax.ru/index.html?habr/ii_prevzoshel_fizikov_cern_v_analize_bolshogo_adronnogo_kollajdera
 https://egax.ru/index.html?habr/ii_smeetsya_poslednim_novoe_issledovanie_podtverjdaet_chto_llm_v_srednem_sozdajut_memy_luchshe_ljudej
+https://egax.ru/index.html?habr/ijulskie_obnovleniya_selectel_novye_konfiguracii_i_prodaja_sobstvennogo_servera
 https://egax.ru/index.html?habr/ijulskij_dajdjest_100k_klientov_v_oblake_virtualnye_routery_i_3-j_biznes-zavtrak_v_moskve
 https://egax.ru/index.html?habr/ilon_mask_anonsiroval_integraciju_reklamy_v_otvety_grok
 https://egax.ru/index.html?habr/ilon_mask_grok_3_5_perepishet_vse_chelovecheskie_znaniya_v_nih_mnogo_musora_zatem_model_pereobuchat
@@ -2741,6 +2758,7 @@ https://egax.ru/index.html?habr/indoneziya_vernula_v_prodaju_iphone_16_posle_oko
 https://egax.ru/index.html?habr/inferens_nejrosetej_v_hugging_face_teper_mojno_poluchat_pryamo_so_stranicy_modeli
 https://egax.ru/index.html?habr/infosistemy_djet_promyshlennost_banki_i_telekom_stali_glavnymi_celyami_ddos
 https://egax.ru/index.html?habr/infowatch_polovina_rossijskih_kompanij_ne_strahujut_riski_ot_utechek_dannyh
+https://egax.ru/index.html?habr/infowatch_traffic_monitor_integriruetsya_s_secret_cloud_enterprise_dlya_kompleksnoj_zashchity_korporativnyh_dannyh
 https://egax.ru/index.html?habr/injener_predlojil_proekt_kosmicheskogo_lifta_dlya_karlikovoj_planety_cerera
 https://egax.ru/index.html?habr/injenery_eutelsat_zabyli_pro_366-j_den_v_2024_godu_chto_privelo_k_sboju_na_dvoe_sutok_v_rabote_servisov_seti_oneweb
 https://egax.ru/index.html?habr/injenery_nauchilis_pechatat_prochnye_ekzoprotezy_ukreplennye_uglerodnym_voloknom
@@ -2752,6 +2770,7 @@ https://egax.ru/index.html?habr/instagram_nachal_testirovat_reklamu_s_licami_pol
 https://egax.ru/index.html?habr/instagram_teper_podderjivaet_fotografii_s_sootnosheniem_storon_3_4
 https://egax.ru/index.html?habr/instagram_testiruet_programmu_kotoraya_pozvolit_blogeram_zarabotat_na_privlechenii_novyh_polzovatelej_v_socset
 https://egax.ru/index.html?habr/instrument_dlya_obhoda_proverki_trebovanij_windows_11_poluchil_novoe_nazvanie_i_funkciju_oobe
+https://egax.ru/index.html?habr/instrument_nojnicy_pozvolit_risovat_na_ekrane
 https://egax.ru/index.html?habr/instrument_snipping_tool_v_windows_11_poluchil_funkciju_eksporta_zapisi_ekrana_v_gif
 https://egax.ru/index.html?habr/integraciya_marketingovyh_instrumentov_na_baze_ii_v_microsoft_365_copilot
 https://egax.ru/index.html?habr/intel_i_microsoft_zaregistrirovali_v_rospatente_torgovye_znaki_intel_tiber_i_microsoft_places
@@ -2780,6 +2799,7 @@ https://egax.ru/index.html?habr/issledovanie_ispolzovanie_ii_vredit_professional
 https://egax.ru/index.html?habr/issledovanie_ispolzovanie_smartfonov_detmi_do_13_let_vedet_k_psihologicheskim_problemam_v_budushchem
 https://egax.ru/index.html?habr/issledovanie_kakie_strany_bolshe_vsego_vyigrajut_ot_utechki_mozgov_iz_ssha
 https://egax.ru/index.html?habr/issledovanie_lunnaya_pyl_menee_toksichna_dlya_legkih_cheloveka_chem_zagryaznennyj_gorodskoj_vozduh
+https://egax.ru/index.html?habr/issledovanie_neeffektivnye_metody_zashchity_ot_ii_vozvrashchajut_kiberbezopasnost_v_1990-e_gody
 https://egax.ru/index.html?habr/issledovanie_openai_bolshe_vremeni_na_razmyshlenie_delaet_ai_bolee_ustojchivym_k_manipulyaciyam
 https://egax.ru/index.html?habr/issledovanie_organizmy_izluchajut_vidimyj_svet_kotoryj_ischezaet_posle_smerti
 https://egax.ru/index.html?habr/issledovanie_podrostki_v_ssha_utratili_doverie_k_krupnym_tehnologicheskim_kompaniyam
@@ -3056,6 +3076,7 @@ https://egax.ru/index.html?habr/microsoft_issleduet_bezopasnost_ai_vyyavlenie_uy
 https://egax.ru/index.html?habr/microsoft_knopka_vosstanovleniya_klassicheskogo_outlook_ne_rabotaet
 https://egax.ru/index.html?habr/microsoft_nachala_platit_neeffektivnym_sotrudnikam_za_reshenie_uvolitsya
 https://egax.ru/index.html?habr/microsoft_nachala_vnedryat_na_konsoli_xbox_v_velikobritanii_sistemu_proverki_vozrasta_polzovatelej
+https://egax.ru/index.html?habr/microsoft_napomnila_o_prekrashchenii_podderjki_windows_10_cherez_dva_mesyaca
 https://egax.ru/index.html?habr/microsoft_nastaivaet_na_perehode_k_windows_11_ne_ostavlyaya_vybora_polzovatelyam
 https://egax.ru/index.html?habr/microsoft_obedinyaet_sily_s_google_novyj_protokol_a2a_dlya_sovmestnoj_raboty_ai-agentov
 https://egax.ru/index.html?habr/microsoft_obyavila_o_partnerstve_s_amd_v_ramkah_razrabotki_chipov_dlya_xbox_i_drugih_igrovyh_konsolej
@@ -3286,6 +3307,7 @@ https://egax.ru/index.html?habr/novyj_nanoplastik_prokladyvaet_put_k_bolee_ekolo
 https://egax.ru/index.html?habr/novyj_reliz_infowatch_arma_industrial_endpoint_3_0_c_podderjkoj_astra_linux_se
 https://egax.ru/index.html?habr/nspk_soobshchila_o_perehode_na_otechestvennye_apparatnye_moduli_bezopasnosti
 https://egax.ru/index.html?habr/ntechlab_testiruet_sistemu_raspoznavaniya_narushenij_pdd_velosipedistami
+https://egax.ru/index.html?habr/nvidia_anonsiruet_revoljuciju_v_prorisovke_volos_dlya_novoj_indiana_jones
 https://egax.ru/index.html?habr/nvidia_g-assist_dobavlyaet_konstruktor_plaginov_dlya_sozdaniya_sobstvennyh_avtomatizirovannyh_programm_dlya_pk
 https://egax.ru/index.html?habr/nvidia_gotovitsya_zakryt_podderjku_staryh_videokart
 https://egax.ru/index.html?habr/nvidia_i_arhitektura_ii_vzglyad_na_budushchij_rost
@@ -3343,6 +3365,7 @@ https://egax.ru/index.html?habr/onyx_predstavila_pervyj_v_mire_25-djujmovyj_e-in
 https://egax.ru/index.html?habr/openai_dobavlyaet_novye_vozmojnosti_nastrojki_dlya_o4-mini_i_gpt-4_1
 https://egax.ru/index.html?habr/openai_ejegodno_tratit_desyatki_millionov_dollarov_na_obespechenie_vejlivyh_otvetov_spasibo_i_pojalujsta_v_chatgpt
 https://egax.ru/index.html?habr/openai_google_i_anthropic_predupredili_chto_my_skoro_mojem_perestat_ponimat_rassujdeniya_ii
+https://egax.ru/index.html?habr/openai_gotova_priobresti_google_chrome_a_parallelno_zanimaetsya_svoim_brauzerom
 https://egax.ru/index.html?habr/openai_i_djoni_ajv_obedinilis_dlya_sozdaniya_novogo_ustrojstva_s_ii_chto_eto
 https://egax.ru/index.html?habr/openai_i_fda_obsujdajut_ispolzovanie_ai_dlya_ocenki_lekarstvennyh_preparatov
 https://egax.ru/index.html?habr/openai_i_microsoft_sotrudnichestvo_vopreki_razlichiyam_v_podhodah_k_razrabotke_ii
@@ -3398,6 +3421,7 @@ https://egax.ru/index.html?habr/oshibka_android_auto_narushaet_rabotu_besprovodn
 https://egax.ru/index.html?habr/oshibka_v_obnovlenii_signatur_zyxel_usg_flex_i_serii_atp_privodit_k_perezagruzke_fiks_tolko_cherez_fizicheskij_dostup
 https://egax.ru/index.html?habr/oshibochnye_pokazaniya_lidarov_stali_prichinoj_padeniya_dvuh_dronov_amazon_vo_vremya_ispytanij_v_dojd
 https://egax.ru/index.html?habr/osnovatel_bytedance_stal_samym_bogatym_chelovekom_kitaya_po_versii_bloomberg
+https://egax.ru/index.html?habr/osnovatel_proekta_puppy_linux_vypustil_obnovlenie_distributiva_linux_easyos_7_0
 https://egax.ru/index.html?habr/osnovnye_postavshchiki_oblachnyh_hranilishch_imejut_nechetkuju_politiku_udaleniya_polzovatelskih_dannyh_posle_otmeny_podpiski
 https://egax.ru/index.html?habr/ot_codex_do_padawan_evoljuciya_github_copilot_i_budushchee_razrabotki
 https://egax.ru/index.html?habr/ot_mr_splashy_pants_do_ipo_reddit_ispolnyaetsya_20_let
@@ -3472,9 +3496,11 @@ https://egax.ru/index.html?habr/poisk_gmail_poluchit_obnovlenie_na_osnove_ii_kot
 https://egax.ru/index.html?habr/poisk_ot_yandeksa_s_nejro_nauchilsya_obyasnyat_reshenie_matematicheskih_zadach_iz_starshej_shkoly
 https://egax.ru/index.html?habr/poiskovaya_sistema_ecosia_predstavila_novuju_sistemu_podscheta_ekologicheskogo_vklada_polzovatelej
 https://egax.ru/index.html?habr/policiya_avstralii_ispolzuet_carplay_dlya_raspoznavaniya_nomerov_avto
+https://egax.ru/index.html?habr/polzovatel_claude_max_potratil_50_tys_vmesto_200_iz-za_nego_postradali_drugie_podpischiki
 https://egax.ru/index.html?habr/polzovatel_onedrive_poteryal_dannye_za_30_let_microsoft_bez_obyasnenij_zablokirovala_ego_akkaunt
 https://egax.ru/index.html?habr/polzovatel_poluchil_povestku_cherez_elektronnyj_reestr_voinskogo_ucheta
 https://egax.ru/index.html?habr/polzovatel_reddit_pojalovalsya_na_zasile_ii-kontenta_v_vydache_google_i_poluchil_rekomendaciju_kak_ot_nego_izbavitsya
+https://egax.ru/index.html?habr/polzovatel_samsung_obnarujil_samovolnuju_ustanovku_messendjera_max
 https://egax.ru/index.html?habr/polzovatelej_elektrosamokatov_hotyat_priravnyat_k_voditelyam_im_zapretyat_trebovat_proezd_signalom
 https://egax.ru/index.html?habr/polzovateli_iphone_teper_mogut_vzaimodejstvovat_so_svoimi_smartfonami_iz_menju_pusk_windows_11
 https://egax.ru/index.html?habr/polzovateli_nauchilis_obhodit_proverku_vozrasta_discord_v_velikobritanii_s_pomoshchju_fotorejima_death_stranding
@@ -3610,6 +3636,7 @@ https://egax.ru/index.html?habr/razrabotchik_vypustil_workout_cool_opensors-plat
 https://egax.ru/index.html?habr/razrabotchik_zapustil_doom_vnutri_poiskovoj_stroki_google
 https://egax.ru/index.html?habr/razrabotchik_zapustil_sajt_s_millionom_shahmatnyh_onlajn-dosok
 https://egax.ru/index.html?habr/razrabotchik_zapustil_udalennoe_vypolnenie_koda_na_urovne_proshivki_na_sintezatore_yamaha_psr-e433_cherez_midi-soobshcheniya
+https://egax.ru/index.html?habr/razrabotchiki_igr_stali_aktivnee_ispolzovat_ii_agentov_posle_masshtabnyh_uvolnenij_v_otrasli
 https://egax.ru/index.html?habr/razrabotchiki_nauchili_nejrosetevyh_agentov_obshchatsya_na_tolko_im_ponyatnom_yazyke_chtoby_ekonomit_resursy
 https://egax.ru/index.html?habr/razrabotchiki_qwen_zapustili_sobstvennyj_chat_v_vide_veb-prilojeniya
 https://egax.ru/index.html?habr/razrabotchiki_rossijskogo_softa_vystupili_protiv_markirovki_nadejnosti_po_v_reestre_mincifry
@@ -3631,13 +3658,16 @@ https://egax.ru/index.html?habr/reflection_predstavil_asimov_ii-agent_sozdannyj_
 https://egax.ru/index.html?habr/registrirujsya_na_intensiv_ot_hardware-komandy_krok
 https://egax.ru/index.html?habr/regulyator_es_oshtrafoval_tiktok_na_530_mln_za_peredachu_dannyh_polzovatelej_v_kitaj
 https://egax.ru/index.html?habr/rejim_iskusstvennogo_intellekta_google_poluchaet_rasshirennyj_dostup_i_dopolnitelnye_funkcii
+https://egax.ru/index.html?habr/rejting_yazykov_programmirovaniya_tiobe_za_avgust_2025_python_stremitelno_nabiraet_populyarnost_i_perl_toje
 https://egax.ru/index.html?habr/reklama_stoimostju_2000_dollarov_sozdannaya_ii_byla_pokazana_vo_vremya_finala_nba
+https://egax.ru/index.html?habr/reklamnye_kampanii_ios_poluchajut_novye_instrumenty_ot_google_s_podderjkoj_ii
 https://egax.ru/index.html?habr/rekordnyj_hajt_i_rezkij_obval_pochemu_bitkoin_snova_vseh_udivil
 https://egax.ru/index.html?habr/reliz_basis_sdn_resheniya_dlya_organizacii_programmno-opredelyaemyh_setej
 https://egax.ru/index.html?habr/reliz_bittorrent-klienta_deluge_2_2
 https://egax.ru/index.html?habr/reliz_clonezilla_live_3_2_1
 https://egax.ru/index.html?habr/reliz_davinci_resolve_20_0
 https://egax.ru/index.html?habr/reliz_digikam_8_6_0
+https://egax.ru/index.html?habr/reliz_distributiva_dlya_sozdaniya_domashnih_kinoteatrov_libreelec_12_2
 https://egax.ru/index.html?habr/reliz_git_2_48
 https://egax.ru/index.html?habr/reliz_im_klienta_pidgin_3_0_experimental_1_pre_alpha_release_2_90_0
 https://egax.ru/index.html?habr/reliz_krossplatformennogo_otkrytogo_mnogofunkcionalnogo_arhivatora_peazip_10_2
@@ -3778,6 +3808,7 @@ https://egax.ru/index.html?habr/s_1_marta_2025_goda_mobilnoe_prilojenie_keenetic
 https://egax.ru/index.html?habr/s_1_yanvarya_2025_goda_u_chasti_kart_visa_i_mastercard_v_rf_perestali_dejstvovat_sertifikaty_bezopasnosti
 https://egax.ru/index.html?habr/s_2026_goda_fizika_stanet_obyazatelnoj_pri_postuplenii_v_vuzy_rf_na_injenernye_specialnosti
 https://egax.ru/index.html?habr/s_28_ijunya_kitajskij_regulyator_zapretit_provoz_pauerbankov_v_ruchnoj_kladi_bez_markirovki_sertifikacii_3c
+https://egax.ru/index.html?habr/s_ijulya_pokupki_v_steam_cherez_paypal_dostupny_v_evro_funtah_ienah_kanadskih_i_avstralijskih_dollarah_i_dollarah_ssha
 https://egax.ru/index.html?habr/s_momenta_zapuska_chatgpt_chislo_novyh_vakansij_nachalnogo_urovnya_na_rynke_truda_sokratilos_pochti_na_tret
 https://egax.ru/index.html?habr/sajberiya_nova_iz_dopolneniya_zemskoj_sobor_k_smute_sdelala_polnocennuju_igru
 https://egax.ru/index.html?habr/sajberiya_nova_predstavila_novyj_gejmplejnyj_trejler_igry_zemskoj_sobor
@@ -4174,6 +4205,7 @@ https://egax.ru/index.html?habr/v_rossii_zapuskajut_nacproekt_po_razvitiju_kosmo
 https://egax.ru/index.html?habr/v_rossijskom_it-sektore_uvelichilis_zaprosy_na_arendu_rezervnyh_optovolokonnyh_setej
 https://egax.ru/index.html?habr/v_rostehe_zapustili_novoe_proizvodstvo_mini_kompjuterov_dlya_nejrosetej
 https://egax.ru/index.html?habr/v_rtu_mirea_razrabotan_sposob_upravleniya_tehnikoj_jestami_bez_kamer_i_datchikov
+https://egax.ru/index.html?habr/v_seagate_obnarujili_v_malajzii_podpolnyj_ceh_po_vosstanovleniju_jestkih_diskov
 https://egax.ru/index.html?habr/v_servise_aktivnost_pylcy_ot_yandeks_pogody_poyavilis_konsultacii_allergologov_iz_sechenovskogo_universiteta
 https://egax.ru/index.html?habr/v_set_popali_foto_vozmojnoj_portativnoj_konsoli_xbox_ot_asus
 https://egax.ru/index.html?habr/v_sisteme_proverki_uc_ssl_com_obnarujena_uyazvimost_pozvolyavshaya_poluchit_sertifikat_dlya_chujogo_domena
@@ -4229,6 +4261,7 @@ https://egax.ru/index.html?habr/vebinar_kak_rabotat_s_setevymi_diskami_na_vydele
 https://egax.ru/index.html?habr/vebinar_multiklaud_bez_slojnostej_zachem_a_glavnoe_kak_stroit_raspredelennuju_infrastrukturu_v_2025_godu
 https://egax.ru/index.html?habr/vebinar_o_luchshih_praktikah_dlya_organizacii_setevoj_bezopasnosti
 https://egax.ru/index.html?habr/vebinar_o_processah_i_instrumentah_bezopasnogo_primeneniya_open_source_otkrytyj_kod_skrytye_problemy
+https://egax.ru/index.html?habr/vebinar_tri_oblika_odnogo_sekreta_push_totp_sms
 https://egax.ru/index.html?habr/vedomosti_srednyaya_stoimost_hakerskoj_ataki_v_2025_godu_dostigla_20_tysyach
 https://egax.ru/index.html?habr/vedushchij_injener_apple_foundation_models_uhodit_v_meta
 https://egax.ru/index.html?habr/venchurnye_igry_daily_challenge_v_mfti_startuem_k_uspehu
@@ -4268,6 +4301,7 @@ https://egax.ru/index.html?habr/voznikli_problemy_s_rossijskimi_serverami_mobiln
 https://egax.ru/index.html?habr/vpervye_v_istorii_kamera_videonabljudeniya_zafiksirovala_sverhsdvigovoe_zemletryasenie
 https://egax.ru/index.html?habr/vr_concept_i_red_soft_zapustili_vr_hakaton_cifrovye_miry_vr_sozidateli_2025
 https://egax.ru/index.html?habr/vrachi_proveli_pervuju_peresadku_serdca_kotoroe_ne_perestavalo_bitsya
+https://egax.ru/index.html?habr/vremya_avtonomnoj_raboty_microsoft_surface_pro_11_sokratilos_pochti_vdvoe
 https://egax.ru/index.html?habr/vsled_za_neskolkimi_aviakompaniyami_funkciya_airtag_po_uteryannomu_bagaju_rasshiryaetsya_i_na_china_airlines
 https://egax.ru/index.html?habr/vstroennoe_besplatnoe_proksirovanie_do_api_grok_realizovano_v_amvera_cloud
 https://egax.ru/index.html?habr/vsya_pravda_o_hakatonah_v_rossii
@@ -4413,6 +4447,7 @@ https://egax.ru/index.html?habr/zerosearch_alibaba_obuchaet_poiskovogo_pomoshchn
 https://egax.ru/index.html?habr/zolotaya_lihoradka_v_sfere_oboronnyh_tehnologij_realna_novye_pravitelstvennye_ii-modeli_ot_anthropic
 https://egax.ru/index.html?habr/zond_nasa_lro_obnarujil_mesto_padeniya_yaponskogo_lunnogo_apparata_resilience_hakuto-r_v_rajone_morya_holoda
 https://egax.ru/index.html?habr/zotac_magnus_kompaktnyj_mini-pk_s_rtx_5060_ti_i_wi-fi_7
+https://egax.ru/index.html?habr/zovem_vas_na_backend_drinkup_v_novom_ofise_v_nijnem_novgorode
 https://egax.ru/index.html?habr/zovem_vas_na_mitap_database_17_ijunya
 https://egax.ru/index.html?habr/zvezdnyj_datchik_razrabotki_stc_nachal_letnye_ispytaniya
 https://egax.ru/index.html?habr/zvuk_predstavil_obnovlennyj_sajt
@@ -4730,10 +4765,12 @@ https://egax.ru/index.html?kino-teatr_ru/druzya_i_sosedi_trejler_na_anglijskom_y
 https://egax.ru/index.html?kino-teatr_ru/duhovka_i_duhi_povar_nebesnoj_gostincy_ugoshchaet_trejlerom_vtorogo_sezona
 https://egax.ru/index.html?kino-teatr_ru/durnoj_glaz_oko_za_oko
 https://egax.ru/index.html?kino-teatr_ru/dusha_poet_trejler_skazochnogo_mjuzikla_oderjimyj_mujchina
+https://egax.ru/index.html?kino-teatr_ru/dva_gintamy_luchshe_fanatov_jdut_istoriya_neobychnogo_uchitelya_i_film_po_luchshej_arke_est_video
 https://egax.ru/index.html?kino-teatr_ru/dva_holma-3
 https://egax.ru/index.html?kino-teatr_ru/dva_holma-3_tizer-scena
 https://egax.ru/index.html?kino-teatr_ru/dva_klinka_dva_kiberpanka_novyj_trejler_vojti_v_sad_antalogii_ot_sozdatelya_koda_gias
 https://egax.ru/index.html?kino-teatr_ru/dva_mira_dva_vampira_damian_ljuis_protiv_samogo_sebya_v_filme_vampiry_legkogo_povedeniya
+https://egax.ru/index.html?kino-teatr_ru/dve_mogily_trejler_na_ispanskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/dyadya_lesha_ona_takaya_klassnaya_i_roman_kostomarov_za_kogo_my_boleem_na_premii_iri-2025
 https://egax.ru/index.html?kino-teatr_ru/dyavol_mojet_plakat_a_vesna_mstit_glavnye_novosti_anime_za_nedelju
 https://egax.ru/index.html?kino-teatr_ru/dyavol_mojet_plakat_trejler_na_anglijskom_yazyke
@@ -4744,6 +4781,7 @@ https://egax.ru/index.html?kino-teatr_ru/elementarno_sherlok_5_filmov_i_serialov
 https://egax.ru/index.html?kino-teatr_ru/elena_laguta_i_maksim_linnikov_sygrali_v_melodrame_vse_vozrasty_pokorny
 https://egax.ru/index.html?kino-teatr_ru/elis_i_djek
 https://egax.ru/index.html?kino-teatr_ru/elizaveta_boyarskaya_prevratilas_v_nepodkupnuju_tamojennicu_v_trillere_tonnel
+https://egax.ru/index.html?kino-teatr_ru/ella_makkej_trejler_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/eshche_odna_prostaya_prosba_trejler_2_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/est_tolko_mig_tizer-trejler
 https://egax.ru/index.html?kino-teatr_ru/eterna_chast_pervaya_igra_v_gardemarina
@@ -5136,6 +5174,7 @@ https://egax.ru/index.html?kino-teatr_ru/na_sopkah_manchjurii_tv-rolik
 https://egax.ru/index.html?kino-teatr_ru/na_sopkah_manchjurii_tv-rolik_2
 https://egax.ru/index.html?kino-teatr_ru/na_trassu_pod_kombinaciju_nominanty_na_xii_premiju_associacii_prodjuserov_kino_i_televideniya
 https://egax.ru/index.html?kino-teatr_ru/na_volne_ogromnogo_talanta_serfer_i_eshche_8_filmov_s_nikolasom_kejdjem
+https://egax.ru/index.html?kino-teatr_ru/na_volosok_ot_ljubvi_tizer_s_anglijskimi_subtitrami
 https://egax.ru/index.html?kino-teatr_ru/nadejda_mihalkova_i_aleksandr_ustjugov_vstretyat_smesharikov_v_avguste_2026_goda
 https://egax.ru/index.html?kino-teatr_ru/nash_neizvedannyj_seul_trejler_s_anglijskimi_subtitrami
 https://egax.ru/index.html?kino-teatr_ru/nastoyashchie_detektivy
@@ -5266,6 +5305,7 @@ https://egax.ru/index.html?kino-teatr_ru/ostorojno_molodej_i_deti_itogi_pitching
 https://egax.ru/index.html?kino-teatr_ru/ostrov_vezeniya_kontinent_nedorazumeniya
 https://egax.ru/index.html?kino-teatr_ru/ostrov_zabveniya_haruka_i_volshebnoe_zerkalo
 https://egax.ru/index.html?kino-teatr_ru/ot_beldyajek_do_stambula_mesta_sily_kvarteta_i
+https://egax.ru/index.html?kino-teatr_ru/ot_buddy_do_totoro_religiya_i_mify_v_proizvedeniyah_hayao_miyadzaki
 https://egax.ru/index.html?kino-teatr_ru/ot_ljubvi_do_ljubvi_tv-rolik
 https://egax.ru/index.html?kino-teatr_ru/ot_mongolskoj_imperii_do_eksporta_na_20_trillionov_glavnye_novosti_anime_za_nedelju
 https://egax.ru/index.html?kino-teatr_ru/ot_rojdestvenskogo_chuda_do_chilijskoj_mistiki_novejshaya_kukolnaya_animaciya_na_vse_sluchai_jizni
@@ -5288,6 +5328,7 @@ https://egax.ru/index.html?kino-teatr_ru/panki_v_prigorode_reportaj_so_semok_fil
 https://egax.ru/index.html?kino-teatr_ru/papa_sdohni_andrjuha_u_nas_trup_vozmojno_kriminal
 https://egax.ru/index.html?kino-teatr_ru/papashi_tv-rolik_4
 https://egax.ru/index.html?kino-teatr_ru/papiny_dochki_novye-4_tv-rolik
+https://egax.ru/index.html?kino-teatr_ru/para_iz_budushchego_oglyanis_nazad
 https://egax.ru/index.html?kino-teatr_ru/paralimpiec_tizer_2
 https://egax.ru/index.html?kino-teatr_ru/paranojya_mladshij_brat_tora_otjimaet_telefon
 https://egax.ru/index.html?kino-teatr_ru/paterson_poeziya_patternov
@@ -5304,6 +5345,7 @@ https://egax.ru/index.html?kino-teatr_ru/perehodnyj_vozrast_trejler_na_anglijsko
 https://egax.ru/index.html?kino-teatr_ru/perekrestok_sallivanov
 https://egax.ru/index.html?kino-teatr_ru/perekrestok_sallivanov_3_sezon
 https://egax.ru/index.html?kino-teatr_ru/peremotchik_sudby_tizer_na_yaponskom_yazyke
+https://egax.ru/index.html?kino-teatr_ru/peresechenie_sten_ljubvi_s_toboj_trejler_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/persi_djekson_i_olimpijcy_2_sezon_tizer-trejler_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/pervorodnyj_greh_takopi_trejler_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/pervozdannaya_amerika_trejler_2_na_anglijskom_yazyke
@@ -5421,6 +5463,7 @@ https://egax.ru/index.html?kino-teatr_ru/prosti_detka_trejler_na_anglijskom_yazy
 https://egax.ru/index.html?kino-teatr_ru/prostokvashino
 https://egax.ru/index.html?kino-teatr_ru/prototip_sobolinogo_doma_tizer_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/provojajushchaya_v_poslednij_put_friren_2_sezon_trejler_s_anglijskimi_subtitrami
+https://egax.ru/index.html?kino-teatr_ru/proza_jurskogo_poeziya_shestidesyatnikov_i_muzykalnoe_popurri_prozvuchat_v_zaryade
 https://egax.ru/index.html?kino-teatr_ru/pryamoj_efir_igra_na_vyjivanie_v_gorode_mertvyh
 https://egax.ru/index.html?kino-teatr_ru/psihiatricheskaya_bolnica_kondjiam_trejler_s_anglijskimi_subtitrami
 https://egax.ru/index.html?kino-teatr_ru/pskovskaya_drama_i_dmitrij_meshiev_provedut_vecher_russkogo_romansa_i_russkoj_poezii_perekrestok
@@ -5445,6 +5488,7 @@ https://egax.ru/index.html?kino-teatr_ru/razocharovannye
 https://egax.ru/index.html?kino-teatr_ru/razrushaya_led_superseriya_1972_trejler_2
 https://egax.ru/index.html?kino-teatr_ru/razrushaya_led_trejler_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/razvrat_kuraj_i_natjurmort_modilyani_renuar_i_eshche_sem_filmov_pro_hudojnikov_jivshih_v_parije
+https://egax.ru/index.html?kino-teatr_ru/realnye_pacany_protiv_zombi_mertvyak_po_imeni_kolyan
 https://egax.ru/index.html?kino-teatr_ru/recept_schastya
 https://egax.ru/index.html?kino-teatr_ru/red_esli_by_starost_mogla
 https://egax.ru/index.html?kino-teatr_ru/reinkarnaciya_bezrabotnogo_3_sezon_tizer_na_yaponskom_yazyke
@@ -5518,6 +5562,7 @@ https://egax.ru/index.html?kino-teatr_ru/shalom_predstavit_publike_itogi_laborat
 https://egax.ru/index.html?kino-teatr_ru/shaman_i_shut_ili_net_proroka_v_svoem_otechestve_100_rossijskih_filmov_2025_goda
 https://egax.ru/index.html?kino-teatr_ru/shedevr_smert_im_k_prodajam
 https://egax.ru/index.html?kino-teatr_ru/shejh_i_metch_pritvoris_moim_mujem_presnaya_komediya_s_priluchnym_i_vse_vkljucheno
+https://egax.ru/index.html?kino-teatr_ru/shelbi-ouks_gorod-prizrak_trejler_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/shest_horrorov_kotorye_ne_dadut_vam_spat
 https://egax.ru/index.html?kino-teatr_ru/shestoe_chuvstvo_tv-rolik
 https://egax.ru/index.html?kino-teatr_ru/shkola_magicheskih_zverej_zagadka_volshebnogo_lesa_tizer_na_nemeckom_yazyke
@@ -5865,6 +5910,7 @@ https://egax.ru/index.html?kino-teatr_ru/zvezda_teatrala_otkryvaet_priem_zayavok
 https://egax.ru/index.html?kino-teatr_ru/zvezde_krepkogo_oreshka_brjusu_uillisu_ispolnilos_70_let
 https://egax.ru/index.html?kino-teatr_ru/zvezdnoe_ditya_3_sezon_tizer_na_yaponskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/zvezdnye_vojny_v_korobke_sato_spektakl_o_semejnoj_psihoterapii_v_teatre_nacij
+https://egax.ru/index.html?kino-teatr_ru/zvezdy_ochen_strashnogo_kino_redjina_holl_i_anna_feris_vernutsya_v_perezapuske_franshizy
 https://egax.ru/index.html?kinoroliki
 https://egax.ru/index.html?kinoroliki/01_lynnaya_princessa
 https://egax.ru/index.html?kinoroliki/10_ratatuj-ovoshchnoe_ragu_poigraem_prigotovim
@@ -7862,6 +7908,7 @@ https://egax.ru/index.html?povarenok_ru/kurinye_buldyjki_v_duhovke
 https://egax.ru/index.html?povarenok_ru/kurinye_kotlety_nejnye
 https://egax.ru/index.html?povarenok_ru/kurinye_nojki_s_kartoshkoj_iz_tandyra
 https://egax.ru/index.html?povarenok_ru/lapsha_s_arahisovym_maslom_i_kochudjanom
+https://egax.ru/index.html?povarenok_ru/lavash_s_sochnoj_nachinkoj
 https://egax.ru/index.html?povarenok_ru/legkaya_grudka
 https://egax.ru/index.html?povarenok_ru/legkij_risovyj_sup
 https://egax.ru/index.html?povarenok_ru/lenivye_onigiri
@@ -7913,6 +7960,8 @@ https://egax.ru/index.html?povarenok_ru/oladi_kabachkovye_s_tvorogom
 https://egax.ru/index.html?povarenok_ru/omlet_s_perlovoj_kashej_i_sosiskami
 https://egax.ru/index.html?povarenok_ru/orehovaya_kasha_iz_yachmennyh_hlopev_top-shlep
 https://egax.ru/index.html?povarenok_ru/ostraya_aromatnaya_zakuska_k_shashlyku
+https://egax.ru/index.html?povarenok_ru/ostryj_kartofelnyj_salat_s_arahisovym_iaslom
+https://egax.ru/index.html?povarenok_ru/ostryj_kartofelnyj_salat_s_arahisovym_maslom
 https://egax.ru/index.html?povarenok_ru/otkrytyj_pirog_s_vishnej
 https://egax.ru/index.html?povarenok_ru/ovoshchnoj_rulet_s_yaichnym_salatom
 https://egax.ru/index.html?povarenok_ru/ovoshchnoj_salat_s_dynej
@@ -7938,6 +7987,7 @@ https://egax.ru/index.html?povarenok_ru/pirog_na_kefire_mannik_s_suhofruktami
 https://egax.ru/index.html?povarenok_ru/pirog_s_abrikosami_i_malinoj
 https://egax.ru/index.html?povarenok_ru/pirog_s_jerdelami_i_yablokami
 https://egax.ru/index.html?povarenok_ru/pirog_so_sparjej_olivkami_i_yajcami
+https://egax.ru/index.html?povarenok_ru/pirog_solnechnyj
 https://egax.ru/index.html?povarenok_ru/pirogi_s_myasnym_farshem_ovoshchami_sousom
 https://egax.ru/index.html?povarenok_ru/pirojki_iz_testa_dlya_cheburekov
 https://egax.ru/index.html?povarenok_ru/pirojki_s_yablochnoj_nachinkoj
@@ -8727,6 +8777,8 @@ https://egax.ru/index.html?rambler/250814_0600
 https://egax.ru/index.html?rambler/250815_0600
 https://egax.ru/index.html?rambler/250816_0600
 https://egax.ru/index.html?rambler/250817_0600
+https://egax.ru/index.html?rambler/250818_0600
+https://egax.ru/index.html?rambler/250819_0600
 https://egax.ru/index.html?retro-igry_na_pk
 https://egax.ru/index.html?retro-igry_na_pk/8-bit_commando
 https://egax.ru/index.html?retro-igry_na_pk/arkadnyj_emulyator_mame
@@ -8981,6 +9033,9 @@ https://egax.ru/index.html?ria/250813_2000
 https://egax.ru/index.html?ria/250814_2000
 https://egax.ru/index.html?ria/250815_2000
 https://egax.ru/index.html?ria/250816_2000
+https://egax.ru/index.html?ria/250817_2000
+https://egax.ru/index.html?ria/250818_2000
+https://egax.ru/index.html?ria/250819_2000
 https://egax.ru/index.html?rok
 https://egax.ru/index.html?rok/24_7_christmas_ambience_fireplace_merry_christmas_2025
 https://egax.ru/index.html?rok/28_11_2013_-_korol_i_shut_minsk_dvorec_sporta
@@ -9049,6 +9104,7 @@ https://egax.ru/index.html?rok/classic_rock_greatest_hits_70s_80s_90s_original_m
 https://egax.ru/index.html?rok/classic_rock_greatest_hits_top_100_best_classic_rock_70s_80s_90s
 https://egax.ru/index.html?rok/classic_rock_melodies_70s_80s_90s_the_greatest_classic_rock_playlist
 https://egax.ru/index.html?rok/classic_rock_music_top_100_best_classic_rock_of_all_timeguns_n_roses_metallica_the_police_u2
+https://egax.ru/index.html?rok/classic_rock_nonstop_top_hits_70s_80s_90s
 https://egax.ru/index.html?rok/classic_rock_playlist_70s_80s_90s_original_artists_acdc_bon_jovi_metallica_guns_n_roses_u2
 https://egax.ru/index.html?rok/classic_rock_playlist_70s_80s_90s_original_nirvana_led_zeppelin_bon_jovi_aerosmith_u2_acdc
 https://egax.ru/index.html?rok/classic_rock_playlist_best_classic_rock_playlist_classic_rock_greatest_hits_of_all_time
@@ -9853,6 +9909,8 @@ https://egax.ru/index.html?sports_ru/250814_0800
 https://egax.ru/index.html?sports_ru/250815_0800
 https://egax.ru/index.html?sports_ru/250816_0800
 https://egax.ru/index.html?sports_ru/250817_0800
+https://egax.ru/index.html?sports_ru/250818_0800
+https://egax.ru/index.html?sports_ru/250819_0800
 https://egax.ru/index.html?staraya_evropa
 https://egax.ru/index.html?staraya_evropa/brjugge
 https://egax.ru/index.html?staraya_evropa/cjurih
@@ -9887,6 +9945,7 @@ https://egax.ru/index.html?tajny/chto_skryto_za_gigantskim_nlo_3i_atlas
 https://egax.ru/index.html?tajny/chto_skryvaet_kosmicheskij_obekt_3i_atlas
 https://egax.ru/index.html?tajny/chto_skryvaet_pustynya_simpson_v_avstralii_legendy_o_provale_vo_vremeni_i_inoplanetnyh_tehnologiyah
 https://egax.ru/index.html?tajny/chto_skryvaetsya_za_betonnymi_blokami_peshchery_na_granice_mongolii_i_kitaya
+https://egax.ru/index.html?tajny/chto_uvidel_itan_guo_v_antarktide_i_pochemu_ego_arestovali_srazu_posle_posadki
 https://egax.ru/index.html?tajny/chto_znachit_1111_na_vashih_chasah
 https://egax.ru/index.html?tajny/daje_uchenye_pytajutsya_skryt_eto_mesto_ot_turistov
 https://egax.ru/index.html?tajny/dinozavry_jivy_tainstvennoe_sushchestvo_zasnyali_u_beregov_kalifornii

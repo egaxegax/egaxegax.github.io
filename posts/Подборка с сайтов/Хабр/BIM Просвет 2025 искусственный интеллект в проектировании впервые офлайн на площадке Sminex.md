@@ -1,0 +1,4 @@
+<!--2025-08-18 13:42:52-->
+<div class="yb">
+  <div class="rss habr"><p>22 июля в офисе Sminex состоялся первый «BIM Просвет» в формате офлайн. Эксперты в области цифровизации девелопмента и проектирования, архитекторы, разработчики и проектировщики обсудили применение искусственного интеллекта в девелопменте. <a href="https://vkvideo.ru/video-203293398_456239531?list=ln-f4xz4ZKhVcLGDxznz6" rel="noopener noreferrer nofollow">Видеообзор митапа.</a></p><p><strong>Что за «Просвет»</strong>     </p><p>«BIM Просвет» — это митап в духе AU и... <p class="titl"><a href="https://habr.com/ru/companies/sminex_developer/news/938274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=938274">«BIM Просвет — 2025»: искусственный интеллект в проектировании — впервые офлайн на площадке Sminex</a></p></div>
+</div>

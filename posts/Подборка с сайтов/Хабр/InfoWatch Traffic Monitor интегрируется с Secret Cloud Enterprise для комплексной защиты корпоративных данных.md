@@ -1,0 +1,4 @@
+<!--2025-08-19 11:43:39-->
+<div class="yb">
+  <div class="rss habr"><p><strong>Комплексное решение для совместной работы и управления файлами Secret Cloud Enterprise интегрировано с DLP-системой InfoWatch Traffic Monitor для повышения безопасности облачного решения, в том числе в КИИ.</strong> </p><p>ГК InfoWatch и компания Secret Technologies заключили стратегическое технологическое партнерство. В рамках сотрудничества реализована интеграция защищенного корпоративного файлового сервиса Secret Cloud Enterprise (SCE) и DLP-системы InfoWatch... <p class="titl"><a href="https://habr.com/ru/companies/infowatch/news/938632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=938632">InfoWatch Traffic Monitor интегрируется с Secret Cloud Enterprise для комплексной защиты корпоративных данных</a></p></div>
+</div>
