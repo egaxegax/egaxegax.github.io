@@ -1,0 +1,4 @@
+<!--2025-08-22 14:17:52-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/webt/20/jh/4o/20jh4odwto0we0f1ady472of2v8.jpeg" /><p>Разработчика программного обеспечения 55-летнего Дэвиса Лу <a href="https://www.justice.gov/opa/pr/chinese-national-who-deployed-kill-switch-code-employers-network-sentenced-four-years-prison" rel="noopener noreferrer nofollow">приговорили</a> к четырём годам лишения свободы за саботаж сети Windows своего бывшего работодателя с помощью вредоносного софта и аварийного выключателя, который... <p class="titl"><a href="https://habr.com/ru/news/939888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=939888">Разработчик получил 4 года тюрьмы за использование вредоносного ПО и создание аварийного выключателя в системах Eaton</a></p></div>
+</div>
