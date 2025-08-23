@@ -1,1 +1,0 @@
-* [Summertime Blues](Summertime%20Blues.md)

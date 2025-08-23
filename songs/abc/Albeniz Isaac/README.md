@@ -1,1 +1,0 @@
-* [Granada](Granada.md)

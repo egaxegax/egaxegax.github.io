@@ -1,6 +1,0 @@
-* [Vandals](Vandals)
-* [Wizo](Wizo)
-* [XXX Lyrics](XXX%20Lyrics)
-* [Young Neil](Young%20Neil)
-* [Zappa Frank](Zappa%20Frank)
-* [Zevon Warren](Zevon%20Warren)

@@ -1,1 +1,0 @@
-* [Angry](Angry.md)

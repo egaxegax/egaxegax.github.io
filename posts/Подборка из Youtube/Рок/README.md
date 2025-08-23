@@ -37,6 +37,7 @@
 * [Best Of Classic Rock Songs Of All TimeACDC Bon Jovi Metallica Guns N Roses U2Classic Rock Songs](Best%20Of%20Classic%20Rock%20Songs%20Of%20All%20TimeACDC%20Bon%20Jovi%20Metallica%20Guns%20N%20Roses%20U2Classic%20Rock%20Songs.md)
 * [Best Of Scorpions Greatest Hits Full Album Scorpions Hits Songs](Best%20Of%20Scorpions%20Greatest%20Hits%20Full%20Album%20Scorpions%20Hits%20Songs.md)
 * [Best Rock And Roll Classics Playlist Album ACDC Pink Floyd Eagles Queen Def Leppard Bon Jovi](Best%20Rock%20And%20Roll%20Classics%20Playlist%20Album%20ACDC%20Pink%20Floyd%20Eagles%20Queen%20Def%20Leppard%20Bon%20Jovi.md)
+* [Best Rock Ballads Forever Greatest Hits of the 70s 80s 90s](Best%20Rock%20Ballads%20Forever%20Greatest%20Hits%20of%20the%2070s%2080s%2090s.md)
 * [Best Rock Ballads Forever Timeless Hits for 90s 2000s Rock](Best%20Rock%20Ballads%20Forever%20Timeless%20Hits%20for%2090s%202000s%20Rock.md)
 * [Best Slow Rock Ballads 70s 80s 90s Scorpions Bon Jovi Aerosmith U2 Led Zeppelin](Best%20Slow%20Rock%20Ballads%2070s%2080s%2090s%20Scorpions%20Bon%20Jovi%20Aerosmith%20U2%20Led%20Zeppelin.md)
 * [Best of 80s 90s Rock Playlist Ultimate Rock Ballads](Best%20of%2080s%2090s%20Rock%20Playlist%20Ultimate%20Rock%20Ballads.md)

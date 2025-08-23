@@ -1,1 +1,0 @@
-* [Cкeйтboard](Cкeйтboard.md)
