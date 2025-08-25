@@ -12,6 +12,7 @@
 * [Janes Addiction](Janes%20Addiction)
 * [Killers](Killers)
 * [Lifehouse](Lifehouse)
+* [Nirvana](Nirvana)
 * [Pearl Jam](Pearl%20Jam)
 * [Psychedelic Furs](Psychedelic%20Furs)
 * [Quicksand](Quicksand)

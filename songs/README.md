@@ -1,6 +1,6 @@
 Подборы гитарных аккордов к песням, стихи, лирика.
 
-* [Alt Rock](Alt%20Rock)
+* [Alternative](Alternative)
 * [Blues](Blues)
 * [Classical](Classical)
 * [Electro](Electro)
@@ -9,7 +9,7 @@
 * [Misc](Misc)
 * [OST](OST)
 * [Pop](Pop)
-* [Punk Rock](Punk%20Rock)
+* [Punk](Punk)
 * [Reggy](Reggy)
 * [Rock](Rock)
 * [Rock-n-Roll](Rock-n-Roll)

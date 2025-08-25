@@ -1,0 +1,4 @@
+<!--2025-08-25 10:51:09-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/131/cee/ee0/131ceeee08bd9ab48abfff80269ec258.jpeg" /><p>В 2026 году состоится релиз первого складного iPhone, который получит четыре камеры и сканер отпечатков пальцев Touch ID вместо Face ID, <a href="https://www.bloomberg.com/news/newsletters/2025-08-24/apple-to-launch-iphone-17-pro-iphone-17-air-in-september-iphone-fold-next-year-mepmzpcj" rel="noopener noreferrer nofollow">поделился</a> инсайдер Bloomberg Марк... <p class="titl"><a href="https://habr.com/ru/news/940500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=940500">Слухи: первый складной iPhone будет оснащён четырьмя камерами и сканером отпечатков пальцев Touch ID вместо Face ID</a></p></div>
+</div>

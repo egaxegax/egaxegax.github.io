@@ -1,3 +1,5 @@
+![](igor_saruhanov.jpg)
+
 * [Funny Love](Funny%20Love.md)
 * [Miami Beach](Miami%20Beach.md)
 * [Алина](Алина.md)

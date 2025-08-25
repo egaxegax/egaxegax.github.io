@@ -1,3 +1,5 @@
+![](dima_bilan.jpg)
+
 Российский популярный певец, актер.
 
 * [Never let you go](Never%20let%20you%20go.md)
