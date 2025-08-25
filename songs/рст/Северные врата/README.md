@@ -1,1 +1,0 @@
-* [Чepнopoд](Чepнopoд.md)
