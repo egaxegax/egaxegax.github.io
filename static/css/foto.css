@@ -1,5 +1,5 @@
 /* light theme */
-.wrap { background:#fff; padding:0; max-width:820px; }
+.wrap { background:#fff; padding:0 0 2px 0; max-width:820px; }
 .dark { color:#333; }
 .gray { color:#777; }
 body { background:#fafafa; color:#333; }

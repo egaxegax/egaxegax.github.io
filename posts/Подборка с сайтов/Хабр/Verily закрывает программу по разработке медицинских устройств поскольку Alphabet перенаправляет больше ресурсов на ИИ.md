@@ -1,0 +1,4 @@
+<!--2025-08-27 14:50:22-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/5cc/ac5/9e5/5ccac59e568074ef28c4c9768bb5088d.jpg" /><p>Биотехнологическая компания Verily <a href="https://www.businessinsider.com/alphabets-verily-lays-off-staff-cuts-its-devices-program-2025-8" rel="noopener noreferrer nofollow">закрывает</a> свою программу по разработке медицинских устройств, поскольку Alphabet перенаправляет больше ресурсов на искусственный интеллект. Verily — это исследовательская организация в... <p class="titl"><a href="https://habr.com/ru/news/941360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=941360">Verily закрывает программу по разработке медицинских устройств, поскольку Alphabet перенаправляет больше ресурсов на ИИ</a></p></div>
+</div>

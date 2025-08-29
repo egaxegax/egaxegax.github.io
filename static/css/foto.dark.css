@@ -1,5 +1,5 @@
 /* dark theme */
-.wrap { background:rgb(58,61,66); padding:0; max-width:820px; }
+.wrap { background:rgb(58,61,66); padding:0 0 2px 0; max-width:820px; }
 .dark { color:#dedede; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }

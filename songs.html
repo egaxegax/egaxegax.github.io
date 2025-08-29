@@ -74,8 +74,7 @@
         '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp;&emsp; '+p.title[2]+' </a><br>'+
       '</td>'+
       '<td valign="center" align="right" class="light" width="1%">'+
-        '<i class="small light">'+(p.i+1)+'</i>&ensp;'+
-        '<span class="tooltip small" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
+        '<span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'"> '+addIClock()+' </span>'+
       '</td></tr>'+
     '</table>'+
   '</div>';
@@ -122,7 +121,7 @@
   '</div>'+
   '<div id="chordcont" class="bmarg tcenter chord"></div>'+
   '<div class="msgfooter">'+
-    '<span class="tooltip" title="добавлено '+buildDate(p.title[3])+'"> &#128343; </span>'+
+    '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'"> '+addIClock()+' </span>'+
   '</div>';
     addSongChords();
     addTitlesRelsHtml(p, 'songs.html');

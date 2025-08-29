@@ -94,9 +94,9 @@
     html+
   '</div>'+
   '<div class="msgfooter tright mw_f nowrap scroll">'+
-    '<table><tr>'+
-      '<td><span class="tooltip gray" style="display:flex" title="добавлено '+buildDate(p.title[3])+'"> '+addIClock()+' </span> </td>'+
-      '<td><a class="nodecor hspaced gray" style="display:flex" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addShare()+' </a></td>'+
+    '<table class="collapse"><tr>'+
+      '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'"> '+addIClock()+' </span> </td>'+
+      '<td><a class="nodecor hspace gray" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addShare()+' </a></td>'+
       '<td width="95%"><a class="hspace nodecor light" href="/index.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
     '</tr></table>'+
   '</div>';
