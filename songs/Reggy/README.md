@@ -5,6 +5,4 @@
 * [Laurel Aitken](Laurel%20Aitken)
 * [Marley Bob](Marley%20Bob)
 * [Quaye Finley](Quaye%20Finley)
-* [Skaльпель](Skaльпель)
 * [Sublime](Sublime)
-* [Саранча](Саранча)
