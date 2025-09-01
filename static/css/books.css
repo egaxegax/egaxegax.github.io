@@ -14,7 +14,7 @@ input[type=text], select { background:#fff; }
 #header svg g { fill:#777; stroke:#777; }
 #header svg g.active { fill:#3c677b; stroke:#3c677b; }
 #header .yin { fill:#fff; stroke:#fff; }
-#page_footer button { background:#6b9f7f; color:#fff; }
+#page_footer button { background:#91bba1; color:#fff; }
 /**/
 .about img { max-width:50px; }
 .av img { width:100%; }
