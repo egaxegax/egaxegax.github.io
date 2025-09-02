@@ -155,6 +155,8 @@ https://egaxegax.github.io/books.html?aleksandr_moiseevich_pyatigorskij
 https://egaxegax.github.io/books.html?aleksandr_moiseevich_pyatigorskij/vspomnish_strannogo_cheloveka
 https://egaxegax.github.io/books.html?aleksandr_navara
 https://egaxegax.github.io/books.html?aleksandr_navara/zlaya_vojna
+https://egaxegax.github.io/books.html?aleksandr_polyarnyj
+https://egaxegax.github.io/books.html?aleksandr_polyarnyj/myatnaya_skazka
 https://egaxegax.github.io/books.html?aleksandr_prozorov
 https://egaxegax.github.io/books.html?aleksandr_prozorov/andrej_bespamyatnyj_kasting_ivana_groznogo
 https://egaxegax.github.io/books.html?aleksandr_radin
@@ -225,6 +227,8 @@ https://egaxegax.github.io/books.html?aleksej_grishin/pod_znakom_albatrosa
 https://egaxegax.github.io/books.html?aleksej_grishin/reshenie_oficera
 https://egaxegax.github.io/books.html?aleksej_grishin/vybor_iz_hudshego
 https://egaxegax.github.io/books.html?aleksej_grishin/vybor_oficera
+https://egaxegax.github.io/books.html?aleksej_jurevich_pehov
+https://egaxegax.github.io/books.html?aleksej_jurevich_pehov/straj
 https://egaxegax.github.io/books.html?aleksej_kalugin
 https://egaxegax.github.io/books.html?aleksej_kalugin/dom_na_bolote
 https://egaxegax.github.io/books.html?aleksej_kalugin/mechta_na_porajenie
@@ -1973,6 +1977,8 @@ https://egaxegax.github.io/books.html?konstantin_mihajlovich_stanjukovich/dyaden
 https://egaxegax.github.io/books.html?konstantin_mihajlovich_stanjukovich/jrecy
 https://egaxegax.github.io/books.html?konstantin_mihajlovich_stanjukovich/pohojdeniya_odnogo_matrosa
 https://egaxegax.github.io/books.html?konstantin_mihajlovich_stanjukovich/sevastopolskij_malchik
+https://egaxegax.github.io/books.html?konstantin_nikolaevich_muravev
+https://egaxegax.github.io/books.html?konstantin_nikolaevich_muravev/podgotovka
 https://egaxegax.github.io/books.html?kozma_petrovich_prutkov
 https://egaxegax.github.io/books.html?kozma_petrovich_prutkov/plody_razdumya
 https://egaxegax.github.io/books.html?kris_uejnrajt

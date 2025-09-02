@@ -12,8 +12,8 @@
 <title>Книги / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250817">
-<link rel="stylesheet" href="/static/css/books.dark.css?250816">
-<script src="/static/js/template.js?250812"></script>
+<link rel="stylesheet" href="/static/css/books.css?250902">
+<script src="/static/js/template.js?250902"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -70,8 +70,10 @@
     '</a>'+
     '<a class="nodecor dark large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' &emsp; &emsp;</a><br>'+
     '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
-    '<p class="small gray">Жанр &nbsp; <a class="nodecor" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
-  (pdate ? '<p class="small"><span class="gray">Год</span> &nbsp; '+pdate+'</p>' : '')+
+    '<p class="small gray">Жанр &nbsp; <a class="nodecor light" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
+    '<p class="small">'+(pdate ? '<span class="gray">Год</span> &nbsp; '+pdate+ '&emsp;' : '')+
+      '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML+=this.title">'+addIClock()+' </span>'+
+    '</p>'+
   (!isNaN(ci) ? 
     '<p class="descr">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+
       ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'

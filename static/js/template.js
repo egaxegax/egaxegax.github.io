@@ -109,7 +109,7 @@ function addShare(){ return '<svg width="15" height="15" role="img" xmlns="http:
 //
 // return clock button svg
 //
-function addIClock(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-1 0.5)"><circle cx="7.5" cy="7.5" r="6" fill="transparent" stroke="currentColor" /><circle cx="7.5" cy="7.5" r="0.75" fill="currentColor" /><path d="M3.5 6.5 7.5 7.5 9 11.5" fill="transparent" stroke="currentColor" /></g></svg>'; }
+function addIClock(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-1 1)"><circle cx="7.5" cy="7.5" r="6" fill="transparent" stroke="currentColor" /><circle cx="7.5" cy="7.5" r="0.75" fill="currentColor" /><path d="M3.5 6.5 7.5 7.5 9 11.5" fill="transparent" stroke="currentColor" /></g></svg> '; }
 //
 // return html for paginator
 //

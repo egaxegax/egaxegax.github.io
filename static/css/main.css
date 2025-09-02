@@ -42,8 +42,7 @@
 .bigger1 { font-size:130%; }
 .bigger2 { font-size:150%; }
 .loader { border:1px solid #ddd; }
-.tooltip { cursor: pointer; }
-.tooltip:active:after { content: attr(title); position: relative; }
+.tooltip { cursor:pointer; }
 .wrap { border-radius:2px; padding:5px 10px 2px 10px; margin:0 auto 5px auto; max-width:800px; }
 #root { min-height:100%; }
 #header { min-height:27.5px; } #header a { min-width:80px; display:inline-block; }

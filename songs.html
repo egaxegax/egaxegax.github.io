@@ -24,7 +24,7 @@
 .rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/template.js?250812"></script>
+<script src="/static/js/template.js?250902"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -74,7 +74,7 @@
         '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp;&emsp; '+p.title[2]+' </a><br>'+
       '</td>'+
       '<td valign="center" align="right" class="light" width="1%">'+
-        '<span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'"> '+addIClock()+' </span>'+
+        '<span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML+=this.title"> '+addIClock()+' </span>'+
       '</td></tr>'+
     '</table>'+
   '</div>';
@@ -121,7 +121,7 @@
   '</div>'+
   '<div id="chordcont" class="bmarg tcenter chord"></div>'+
   '<div class="msgfooter">'+
-    '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'"> '+addIClock()+' </span>'+
+    '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML+=this.title"> '+addIClock()+' </span>'+
   '</div>';
     addSongChords();
     addTitlesRelsHtml(p, 'songs.html');
