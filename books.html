@@ -72,7 +72,7 @@
     '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<p class="small gray">Жанр &nbsp; <a class="nodecor light" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
     '<p class="small">'+(pdate ? '<span class="gray">Год</span> &nbsp; '+pdate+ '&emsp;' : '')+
-      '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML+=this.title">'+addIClock()+' </span>'+
+      '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title">'+addIClock()+' </span>'+
     '</p>'+
   (!isNaN(ci) ? 
     '<p class="descr">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+

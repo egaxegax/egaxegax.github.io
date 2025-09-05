@@ -7,8 +7,9 @@
 
 RSSlist = [
   ('Подборка из Rutube/Жизнь в США и России', '23550697'),
-  ('Подборка из Rutube/Советские фильмы', '1792500'),
-  ('Подборка из Rutube/Сериалы', '33999143'),
+  ('Подборка из Rutube/Мир кино', '1397853'),
+  # ('Подборка из Rutube/Советские фильмы', '1792500'),
+  # ('Подборка из Rutube/Сериалы', '33999143'),
 ]
 
 import os, sys, time
@@ -25,7 +26,7 @@ from updateturbo import main as updateturbo_main
 fcount = 0
 
 for hdr, url in RSSlist:
-  feedurl =  'http://rutube.ru/api/video/person/'+url+'?format=xml&page=2'
+  feedurl =  'http://rutube.ru/api/video/person/'+url+'?format=xml'
   with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('results/list-item')) if ii < 100]:
       titl = item.find('title').text

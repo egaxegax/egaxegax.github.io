@@ -1,0 +1,4 @@
+<!--2025-09-03 14:30:50-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/b84/dee/3de/b84dee3de14fea02bf0f0ed2367cee7c.png" /><p>Представляем тридцать третий выпуск подкаста команды&nbsp;<a href="https://t.me/+QmrKn0wA8CdkNjAy" rel="noopener noreferrer nofollow">Spring АйО</a>.</p><p>Эксперты обсудили: Spring Boot 4 и Spring Framework 7: ключевые фичи и изменения, JEP 502, который вносит в Java 25 StableValue, какие тесты вызывают повторную загрузку контекста, где конфигурации расходятся... <p class="titl"><a href="https://habr.com/ru/companies/spring_aio/news/943632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943632">Spring Boot 4 и Spring Framework 7, StableValue в Java, Postgres стал быстрее | Spring АйО Подкаст №33</a></p></div>
+</div>
