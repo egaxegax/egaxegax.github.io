@@ -1,0 +1,4 @@
+<!--2025-09-08 13:39:29-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/85a/9ed/809/85a9ed8098b8d31acf34192cbd3e0605.jpg" /><p><strong>CyberCamp 2025 <a href="https://2025.cybercamp.su/?utm_source=habr&amp;utm_medium=news&amp;utm_campaign=cc25&amp;utm_term=jetinfosystems" rel="noopener noreferrer nofollow">открыл регистрацию</a> — в этом году ежегодный онлайн-кэмп для ИБ-специалистов состоится с 20 по 25 октября. Главная тема четвертого кэмпа — киберустойчивость. </strong></p><p>Цель... <p class="titl"><a href="https://habr.com/ru/companies/jetinfosystems/news/945040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945040">Открыта регистрация на главный онлайн-кэмп по практической кибербезопасности CyberCamp 2025</a></p></div>
+</div>
