@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/static/css/main.css?250812">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250816">
-<script src="/static/js/template.js?250907"></script>
+<script src="/static/js/template.js?250917"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -72,7 +72,7 @@
     return ' about';
   }
 
-  function addPost(r,p){
+  function addPost(r,p,rs){
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
@@ -90,13 +90,14 @@
       html = html.replace('<div class="inlbl text">', '<div class="inlbl text" style="max-width:100%">');
     }
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext inlbl">'+
-    html+
-  '</div>'+
-  '<div class="msgfooter tright mw_f nowrap scroll">'+
+  '<div id="msg'+p.i+'" class="msgtext inlbl">'+ html +'</div>';
+    document.getElementById(p.id).innerHTML += 
+  '<div class="msgfooter mw_f nowrap scroll">'+
     '<table class="collapse"><tr>'+
       '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span> </td>'+
-      '<td><a class="nodecor hspace gray" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addShare()+' </a></td>'+
+      '<td><a class="nodecor hspace gray" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addIShare()+' </a></td>'+
+      ((rs=document.querySelector('#'+ p.id +' .rssurl')) ? 
+        '<td><span class="tooltip gray" title="'+rs.innerHTML+'" onclick="fetchRSSFromXML(\''+rs.innerHTML+'\',\'msg'+p.i+'\')"> '+addIRefresh()+'</span></td>' : '')+
       '<td width="95%"><a class="hspace nodecor light" href="/index.html?'+tr(p.subj)+'">'+buildSubPath(ROOTS, SUBJ, p.title[0])+'</a></td>'+
     '</tr></table>'+
   '</div>';

@@ -103,13 +103,17 @@ function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="t
 //
 function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" src="/static/img/loader.gif"></div>' : ''); }
 //
-// return share button svg
+// return share button svg icon
 //
-function addShare(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g fill="transparent" stroke="currentColor"><circle cx="3" cy="7.5" r="1.5" /><circle cx="11" cy="3" r="1.5" /><circle cx="11" cy="12" r="1.5" /><path d="M4 8 L10 11.5 M4 7 L10 3.5"></g></svg>'; }
+function addIShare(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g fill="transparent" stroke="currentColor"><circle cx="3" cy="7.5" r="1.5" /><circle cx="11" cy="3" r="1.5" /><circle cx="11" cy="12" r="1.5" /><path d="M4 8 L10 11.5 M4 7 L10 3.5"></g></svg>'; }
 //
-// return clock button svg
+// return clock button svg icon
 //
 function addIClock(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0 0)"><circle cx="7.5" cy="7.5" r="6" fill="transparent" stroke="currentColor" /><circle cx="7.5" cy="7.5" r="0.75" fill="currentColor" /><path d="M3.5 6.5 7.5 7.5 9 11.5" fill="transparent" stroke="currentColor" /></g></svg>'; }
+//
+// return refresh button svg icon
+//
+function addIRefresh(){ return '<div class="">&#128472;</div>'; }
 //
 // return html for paginator
 //
@@ -300,4 +304,25 @@ function xyz2sct(X,Y,Z){
     m++;
   }
   return sct;
+}
+//
+// get RSS text from rssUrl to contId 
+//
+function fetchRSSFromXML(rssUrl, contId) {
+  var cont = '';
+  fetch(rssUrl).then((response) => { return response.text(); }).then((data) => {
+      [].slice.call((new DOMParser()).parseFromString(data, 'application/xml').getElementsByTagName('item')).slice(0,10).map((item,i,items) => {
+        const titl = item.getElementsByTagName('title')[0].textContent;
+        const link = item.getElementsByTagName('link')[0].textContent;
+        const pdate = item.getElementsByTagName('pubDate')[0]?.textContent.split(/\s\+\d+/)[0];
+        if(i==0) document.getElementById(contId).innerHTML = '<h2>'+pdate+'</h2>';
+        cont += `
+            <div class="rssn">
+              <div><span class="smaller gray hspace">${('0'+(new Date(pdate)).getHours()).slice(-2)}:${('0'+(new Date(pdate)).getMinutes()).slice(-2)}</span>
+                <a class="nodecor" href="${link}"> ${titl}</a>
+              </div>
+            </div>`;
+        if(i==items.length-1) document.getElementById(contId).innerHTML += cont;
+      });
+  });
 }

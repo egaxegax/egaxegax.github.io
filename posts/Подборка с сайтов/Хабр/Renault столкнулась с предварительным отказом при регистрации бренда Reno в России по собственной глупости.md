@@ -1,0 +1,4 @@
+<!--2025-09-17 14:29:31-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/cf3/acc/8ac/cf3acc8ac5db26ef49956d91812a3f36.png" /><p>В апреле 2025 года ведомство не одобрило заявку на товарный знак "Reno" (<a href="https://www3.wipo.int/madrid/monitor/en/showData.jsp?ID=ROM.1828535" rel="noopener noreferrer nofollow">подана</a> в октябре 2024-го через ВОИС) из-за конфликта с более ранним знаком самого же Renault. Причиной стала техническая нестыковка: в новой заявке указан адрес, не совпадающи... <p class="titl"><a href="https://habr.com/ru/companies/onlinepatent/news/947888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947888">Renault столкнулась с предварительным отказом при регистрации бренда Reno в России (по собственной глупости)</a></p></div>
+</div>

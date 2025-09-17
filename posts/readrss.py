@@ -9,7 +9,9 @@ RSSlist = {
   'eadaily': {'hdr':'Подборка новостей/EADaily',  'hdr2':'Вести',  'url':'https://eadaily.com/ru/rss/index.xml'},
   'ria':     {'hdr':'Подборка новостей/РИА',      'hdr2':'События','url':'https://ria.ru/export/rss2/index.xml'},
   'rambler': {'hdr':'Подборка новостей/Рамблер',  'hdr2':'Известия',  'url':'http://news.rambler.ru/rss/world/'},
-  'sports':  {'hdr':'Подборка новостей/Sports.ru','hdr2':'Спорт',  'url':'https://sports.ru/rss/all_news.xml'}
+  'sports':  {'hdr':'Подборка новостей/Sports.ru','hdr2':'Спорт',  'url':'https://sports.ru/rss/all_news.xml'},
+  'vm':      {'hdr':'Подборка новостей/Вечерняя Москва','hdr2':'Вечорка',  'url':'https://vm.ru/rss'}
+  
 }
 
 import os, sys, time, re, locale
@@ -58,6 +60,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
 </div>""".format(ctime=ctime, titl=ptitl, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
           fp.write(text)
           fcount += 1
+        fp.write('<div class="rssurl gray smaller" style="display:none">'+ prm['url'] +'</div>')
       print(prm['hdr'], prm['url'], '(%s)' % (ii,))
 
 if fcount:

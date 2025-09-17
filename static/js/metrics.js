@@ -104,7 +104,6 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         var f = function(){var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
         if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
       })(document, window, 'tmr-code');
-
       e.innerHTML += '<a class="gray" href="https://top.mail.ru/stat?id=3596974"><!--img data-cid="3596974" src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;"-->top.mail.ru</a>';
     });
   },100);
