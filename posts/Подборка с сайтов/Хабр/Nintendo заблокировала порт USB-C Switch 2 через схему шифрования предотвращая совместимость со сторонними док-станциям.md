@@ -1,4 +1,0 @@
-<!--2025-07-03 12:32:11-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/webt/jy/-o/ke/jy-okea5p_ajkrrx3_j8snrv24g.jpeg" /><p>Nintendo намеренно заблокировала порт USB-C Switch 2 при помощи новой схемы шифрования и специального чипа шифрования, чтобы ограничить совместимость консоли со сторонними док-станциями и аксессуарами. Об этом <a href="https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption" rel="noopener noreferrer nofollow">сообщило</a> издание Verge... <p class="titl"><a href="https://habr.com/ru/news/924656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=924656">Nintendo заблокировала порт USB-C Switch 2 через схему шифрования, предотвращая совместимость со сторонними док-станциям</a></p></div>
-</div>

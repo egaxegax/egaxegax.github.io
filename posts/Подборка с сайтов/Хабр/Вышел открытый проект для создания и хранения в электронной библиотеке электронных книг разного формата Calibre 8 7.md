@@ -1,4 +1,0 @@
-<!--2025-07-20 04:12:51-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/17e/cdb/5b0/17ecdb5b00b1bb2888f08c16f5235385.png" /><p>18 июля 2025&nbsp;года <a href="https://github.com/kovidgoyal/calibre/releases/tag/v8.7.0" rel="noopener noreferrer nofollow">состоялся</a> <a href="https://calibre-ebook.com/whats-new" rel="noopener noreferrer nofollow">релиз</a> открытого мультиплатформенного проекта <a href="https://calibre-ebook.com/" rel="noopener noreferrer nofollow">Calibre 8.7</a>. Это... <p class="titl"><a href="https://habr.com/ru/news/929200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=929200">Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.7</a></p></div>
-</div>

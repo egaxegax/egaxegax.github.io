@@ -1,4 +1,0 @@
-<!--2025-04-16 15:07:23-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/219/e82/2c2/219e822c24887ebeb7ec9445aac83820.png" /><p>В некоммерческой организации MITRE <a href="https://infosec.exchange/@briankrebs/114343835430587973" rel="noopener noreferrer nofollow">объявили</a> о <a href="https://bsky.app/profile/tib3rius.bsky.social/post/3lmulrbygoe2g" rel="noopener noreferrer nofollow">приостановке</a> финансирования со стороны правительства США (Министерства внутренней безопасности США)... <p class="titl"><a href="https://habr.com/ru/news/901470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=901470">MITRE лишилась финподдержки США программ Common Vulnerabilities and Exposures (CVE) и Common Weakness Enumeration (CWE)</a></p></div>
-</div>

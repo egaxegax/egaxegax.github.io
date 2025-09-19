@@ -1,4 +1,0 @@
-<!--2025-07-17 14:43:31-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/b36/f68/5d7/b36f685d7db6595cf935fac394c7fcae.png" /><p>В перечне подлежащих «приземлению» иностранных компаний (осуществляющих деятельность в&nbsp;сети «Интернет» в&nbsp;РФ) от&nbsp;Роскомнадзора <a href="https://236-fz.rkn.gov.ru/agents/list/6" rel="noopener noreferrer nofollow">появилось</a> уведомление, что&nbsp;организация Telegram Messenger Inc. готовит представительство в&nbsp;РФ. На&nbsp;странице сайта РКН,... <p class="titl"><a href="https://habr.com/ru/news/928700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=928700">В перечне подлежащих «приземлению» компаний от РКН появилось уведомление, что Telegram готовит представительство в РФ</a></p></div>
-</div>

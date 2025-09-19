@@ -1,4 +1,0 @@
-<!--2025-08-13 13:49:04-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/99c/7da/597/99c7da597611186995247484692d7b49.jpg" /><p>Роскомнадзор официально <a href="https://t.me/rian_ru/309806" rel="noopener noreferrer nofollow">объявил</a> о&nbsp;блокировке звонков через мессенджеры Telegram и WhatsApp. В&nbsp;ведомстве говорят, что&nbsp;приняли решение из‑за «многочисленных обращений граждан», звонки восстановят в&nbsp;случае, если мессенджеры выполнят требования законодательства. </p> <a... <p class="titl"><a href="https://habr.com/ru/news/936830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=936830">РКН объявил о блокировке звонков в Telegram и WhatsApp. Звонки восстановят, если мессенджеры «выполнят требования»</a></p></div>
-</div>

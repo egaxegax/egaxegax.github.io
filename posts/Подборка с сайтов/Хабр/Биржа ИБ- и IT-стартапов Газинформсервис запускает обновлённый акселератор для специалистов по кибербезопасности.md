@@ -1,4 +1,0 @@
-<!--2025-07-01 14:19:09-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/cdc/b9f/a42/cdcb9fa423dd3e7fc497134f47da0848.jpg" /><p>С 1 июля по 28 августа компания «Газинформсервис» проводит отбор участников для обновлённой «Биржи ИБ- и IT-стартапов». Для подачи заявки достаточно заполнить анкету на сайте проекта или отправить презентацию на <a href="mailto:pr@gaz-is.ru" rel="noopener noreferrer nofollow">pr@gaz-is.ru</a>. Победитель получит медийную поддержку и доступ к аудитории одного из... <p class="titl"><a href="https://habr.com/ru/companies/gaz-is/news/923994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=923994">«Биржа ИБ- и IT-стартапов»: «Газинформсервис» запускает обновлённый акселератор для специалистов по кибербезопасности</a></p></div>
-</div>

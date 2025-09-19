@@ -1,4 +1,0 @@
-<!--2025-06-20 13:45:38-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d1e/a34/2ba/d1ea342ba51b77e787f4b131b89064f3.jpg" /><p>От анонсов к подробностям дискуссий, которые ждут участников летней&nbsp;<a href="https://api.vc.ru/v2.8/redirect?to=https%3A%2F%2Fconversations-ai.com%2F&amp;postId=2036713" rel="noopener noreferrer nofollow">Conversations</a>&nbsp;26-27 июня в Санкт-Петербурге.&nbsp;В этом году в программе конференции участников ждет аж 4 дискуссии с экспертами в Technology,... <p class="titl"><a href="https://habr.com/ru/companies/just_ai/news/920338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=920338">Конкуренция AI-продуктов, вызовы vibe coding, трансформация RAG: чему будут посвящены дискуссии на Conversations 2025?</a></p></div>
-</div>

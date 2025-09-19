@@ -1,4 +1,0 @@
-<!--2025-07-28 14:19:32-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/141/81c/98e/14181c98e05f240918739e55a8055a16.png" /><p>Во второй половине дня 28 июля 2025 года в «Аэрофлоте» <a href="https://t.me/aeroflot_pr/892" rel="noopener noreferrer nofollow">сообщили</a>, что авиакомпания осуществляет операционную деятельность, несмотря на&nbsp;произошедший сбой в&nbsp;IT‑инфраструктуре. В «Аэрофлоте» заверили, что совместно с профильными ведомствами и партнёрами перевозчика обеспечиваются... <p class="titl"><a href="https://habr.com/ru/news/931774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=931774">«Аэрофлот»: авиакомпания осуществляет операционную деятельность, несмотря на произошедший сбой в IT-инфраструктуре</a></p></div>
-</div>

@@ -1,4 +1,0 @@
-<!--2025-06-07 09:01:04-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/7e3/7e9/409/7e37e940995dd3e4aa9b69fec97d49ac.png" /><p>Intel добилась ключевого решения суда в патентном споре на $3 млрд, стартап банкротится из-за обмана, а Samsung должен производителю электроники Maxell почти $112 млн. Рассказываем в нашем дайджесте про эти и другие важные новости в сфере интеллектуальной собственности.&nbsp;</p> <a href="https://habr.com/ru/articles/916296/#habracut">Читать далее</a> <p class="titl"><a href="https://habr.com/ru/companies/onlinepatent/news/916296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=916296">Патент за $11 млрд от BioNTech, спор Купера и Ленты из-за товарного знака и проигрыш Samsung в суде: дайджест новостей</a></p></div>
-</div>

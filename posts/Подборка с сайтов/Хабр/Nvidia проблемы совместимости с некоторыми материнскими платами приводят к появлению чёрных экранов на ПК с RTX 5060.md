@@ -1,4 +1,0 @@
-<!--2025-05-24 14:06:55-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/webt/_2/ik/gj/_2ikgjfxd8jvcwjxasrkq8viid0.jpeg" /><p>Nvidia <a href="https://nvidia.custhelp.com/app/answers/detail/a_id/5665" rel="noopener noreferrer nofollow">предупредила</a> о проблемах совместимости некоторых материнских карт с графическими адаптерами GeForce RTX 5060, что приводит к появлению чёрных экранов после перезагрузки ПК. Компания указала, что проблема возникает с «устаревшими материнскими платами». В качестве решения Nvidia... <p class="titl"><a href="https://habr.com/ru/news/912478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=912478">Nvidia: проблемы совместимости с некоторыми материнскими платами приводят к появлению чёрных экранов на ПК с RTX 5060</a></p></div>
-</div>

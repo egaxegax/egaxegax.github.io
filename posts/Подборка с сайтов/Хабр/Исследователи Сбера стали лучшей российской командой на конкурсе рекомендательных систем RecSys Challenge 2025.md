@@ -1,4 +1,0 @@
-<!--2025-07-04 12:38:47-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/61c/953/62a/61c95362a8cd8331d790092bae0831c6.jpg" /><p>Команда исследователей из&nbsp;Центра практического искусственного интеллекта Сбера&nbsp;— ai_lab_recsys&nbsp;— добилась высокого результата в&nbsp;международном соревновании <a href="https://recsys.synerise.com/" rel="noopener noreferrer nofollow">RecSys Challenge 2025</a>. Специалисты заняли первое место в&nbsp;зачёте академических команд и второе место... <p class="titl"><a href="https://habr.com/ru/companies/sberbank/news/925034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925034">Исследователи Сбера стали лучшей российской командой на конкурсе рекомендательных систем RecSys Challenge 2025</a></p></div>
-</div>

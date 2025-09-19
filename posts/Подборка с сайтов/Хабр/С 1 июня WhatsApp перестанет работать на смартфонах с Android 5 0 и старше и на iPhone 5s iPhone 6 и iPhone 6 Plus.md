@@ -1,4 +1,0 @@
-<!--2025-05-31 13:50:28-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/42f/28b/cac/42f28bcac2dbd78a9393f638beed7166.jpg" /><p>1 июня WhatsApp прекратит поддержку устаревших смартфонов на Android и iOS. Приложение больше не будет работать на устройствах с версиями Android старше 5.0 (Lollipop) и iOS старше 15.1, <a href="https://www.neowin.net/news/whatsapp-will-stop-working-on-these-android-phones-and-iphones-from-june-1/" rel="noopener noreferrer nofollow">сообщает </a>Neowin. Владельц... <p class="titl"><a href="https://habr.com/ru/news/914564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=914564">С 1 июня WhatsApp перестанет работать на смартфонах с Android 5.0 и старше и на iPhone 5s, iPhone 6 и iPhone 6 Plus</a></p></div>
-</div>

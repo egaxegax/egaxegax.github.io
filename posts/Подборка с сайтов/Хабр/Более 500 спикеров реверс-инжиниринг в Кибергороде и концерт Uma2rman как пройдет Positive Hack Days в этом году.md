@@ -1,4 +1,0 @@
-<!--2025-04-21 14:23:20-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/c7c/980/386/c7c980386f268933919c9330e28b770c.png" /><p>Международный киберфестиваль <a href="https://phdays.com/ru/">Positive Hack Days</a> пройдет 22–24 мая на территории спорткомплекса «Лужники» в Москве при поддержке Минцифры России. Стратегическим партнером выступит Правительство Москвы. Поддержку фестивалю в этом году оказывают: Комплекс социального развития, Департамент информационных технологий, Департамент... <p class="titl"><a href="https://habr.com/ru/companies/pt/news/902890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=902890">Более 500 спикеров, реверс-инжиниринг в Кибергороде и концерт Uma2rman: как пройдет Positive Hack Days в этом году</a></p></div>
-</div>

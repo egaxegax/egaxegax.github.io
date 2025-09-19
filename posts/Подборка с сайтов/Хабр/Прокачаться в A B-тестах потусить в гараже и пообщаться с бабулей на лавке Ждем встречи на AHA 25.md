@@ -1,4 +1,0 @@
-<!--2025-05-23 13:37:46-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/8a3/bd7/339/8a3bd733959b1dbfaa7a81f1a264a085.png" /><p>29 и 30 мая в Москве пройдет <a href="https://ahaconf.ru/">большая техническая конференция</a> для data-аналитиков, ML-разработчиков и product-менеджеров. А наша международная продуктовая <a href="https://garage-eight.com/?utm_source=habr&amp;utm_medium=social&amp;utm_campaign=aha&amp;utm_content=may&amp;utm_term=post">IT-компания Garage Eigh</a>t не только в... <p class="titl"><a href="https://habr.com/ru/companies/garage8/news/912218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=912218">Прокачаться в A/B-тестах, потусить в гараже и пообщаться с бабулей на лавке. Ждем встречи на AHA!25</a></p></div>
-</div>

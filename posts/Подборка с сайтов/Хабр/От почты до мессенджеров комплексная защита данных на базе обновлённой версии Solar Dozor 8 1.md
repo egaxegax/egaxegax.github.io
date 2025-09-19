@@ -1,4 +1,0 @@
-<!--2025-07-05 10:41:47-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/b54/2bb/817/b542bb817776f5d9e8bc51915842f06d.jpg" /><p>ГК «Солар», архитектор комплексной кибербезопасности, выпустила новый релиз Solar Dozor 8.1. В обновленной версии DLP-система обеспечивает защиту конфиденциальных данных с учетом трендов пользовательского поведения сотрудников и сокращает риски утечек данных из мессенджеров Telegram, WhatsApp и корпоративной почты. Новая версия Solar Dozor обеспечивает комплексну... <p class="titl"><a href="https://habr.com/ru/companies/solarsecurity/news/925230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925230">От почты до мессенджеров: комплексная защита данных на базе обновлённой версии Solar Dozor 8.1</a></p></div>
-</div>

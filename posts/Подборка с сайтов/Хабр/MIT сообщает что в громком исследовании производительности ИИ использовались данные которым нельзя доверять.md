@@ -1,4 +1,0 @@
-<!--2025-05-17 13:28:45-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/9a4/d3b/aaf/9a4d3baaf8bb61f8722cea0363ca5d50.jpg" /><p>Недавняя научная статья об искусственном интеллекте, в которой говорится о значительном повышении производительности, подверглась критике из-за сомнительных данных и непроверенных утверждений. Это побудило Массачусетский технологический институт публично дистанцироваться от исследования.</p> <a href="https://habr.com/ru/articles/910266/#habracut">Читать далее</a> <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/910266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=910266">MIT сообщает, что в громком исследовании производительности ИИ использовались данные, которым нельзя доверять</a></p></div>
-</div>

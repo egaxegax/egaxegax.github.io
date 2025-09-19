@@ -1,4 +1,0 @@
-<!--2025-05-19 14:07:37-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/386/573/a5f/386573a5fb972357dbc3a333cc8a2463.png" /><p>Генеральный директор Proton выступил против принятия поправок в закон о слежке. Он <a href="https://translated.turbopages.org/proxy_u/en-ru.ru.7aab671f-682b192a-1cfbdfff-74722d776562/https/www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law">заявил</a> о планах компани... <p class="titl"><a href="https://habr.com/ru/companies/cloud4y/news/910794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=910794">Компания Proton готова покинуть Швейцарию в связи с возможными поправками в закон о правилах слежки</a></p></div>
-</div>

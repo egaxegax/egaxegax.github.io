@@ -72,7 +72,7 @@ def main(path='.'):
       fname, ext = os.path.splitext(name)
       title = E_OS(fname)
 
-      if name in ('README.md', 'sitemap.txt'):
+      if name in ('README.md',):
         continue
 
       if cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
@@ -94,7 +94,7 @@ def main(path='.'):
         else:
           ititles.append('* ' + lntit)
 
-      print(roots, subj, name)      
+      print(roots, subj, name)
 
     if ititles: # titles list
       text = ''

@@ -1,4 +1,0 @@
-<!--2025-07-21 11:33:37-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/816/64b/61c/81664b61c8b44024c8e42d7446ddcb7d.png" /><p>Microsoft <a href="https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/" rel="noopener noreferrer nofollow">сообщила</a> корпоративным клиентам по&nbsp;всему миру, что&nbsp;решения SharePoint Enterprise Server 2016, SharePoint Server 2019&nbsp;и SharePoint Subscription Edition находятся под&nbsp;атакой хакеров,... <p class="titl"><a href="https://habr.com/ru/news/929576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=929576">Microsoft: SharePoint Enterprise Server 2016, SharePoint Server 2019, SharePoint Subscription Edition под атакой хакеров</a></p></div>
-</div>

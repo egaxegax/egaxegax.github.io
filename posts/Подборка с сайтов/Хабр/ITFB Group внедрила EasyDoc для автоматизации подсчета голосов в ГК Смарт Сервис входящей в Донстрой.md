@@ -1,4 +1,0 @@
-<!--2025-07-14 13:46:15-->
-<div class="yb">
-  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/1fa/3c6/54f/1fa3c654f78ae0821e6966b53e77030a.jpg" /><p><strong>ITFB Group завершила проект по автоматизации подсчета голосов на общих собраниях собственников жилья (ОСС) для Группы Компаний «Смарт Сервис», управляющей домами Донстрой. Внедрение интеллектуальной платформы <a href="https://itfbgroup.ru/easydoc" rel="noopener noreferrer nofollow">EasyDoc </a>позволило заменить ручную обработку анкет автоматизированным... <p class="titl"><a href="https://habr.com/ru/companies/itfb/news/927618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=927618">ITFB Group внедрила EasyDoc для автоматизации подсчета голосов в ГК «Смарт Сервис», входящей в «Донстрой»</a></p></div>
-</div>
