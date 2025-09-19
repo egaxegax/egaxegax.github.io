@@ -165,6 +165,16 @@ function addNotFound(){
 '</svg></div>';
 }
 //
+// add link rel=canonical
+//
+(function addRelCanonical(){
+  var link = !!document.querySelector("link[rel='canonical']") ? document.querySelector("link[rel='canonical']") : document.createElement('link');
+  link.setAttribute('rel', 'canonical');
+  link.setAttribute('href', location.protocol + '//' + location.host + location.pathname + location.search);
+  console.log(link.outerHTML);
+  document.head.appendChild(link);  
+})();
+//
 // return TITLES filtered by subj/tit + rels links
 //
 function addTitlesRels(pp, subjects, titles, date_filter){
@@ -194,6 +204,27 @@ function addTitlesRelsHtml(p, page_html, hdr_text){
   '<div class="msgtext inlbl">'+
     '<em class="hspace">'+tit[0]+'</em><a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
   '</div><br>';
+  });
+}
+//
+// get RSS text from rssUrl to contId 
+//
+function fetchRSSFromXML(rssUrl, contId) {
+  var cont = '';
+  fetch('https://egax.ru/posts/read.php?url='+encodeURIComponent(rssUrl)).then((response) => { return response.text(); }).then((data) => {
+      [].slice.call((new DOMParser()).parseFromString(data, 'application/xml').getElementsByTagName('item')).slice(0,10).map((item,i,items) => {
+        const titl = item.getElementsByTagName('title')[0].textContent;
+        const link = item.getElementsByTagName('link')[0].textContent;
+        const pdate = item.getElementsByTagName('pubDate')[0]?.textContent.split(/\s\+\d+/)[0];
+        if(i==0) document.getElementById(contId).innerHTML = '<h2>Новое с '+rssUrl.split('/')[2]+' на '+(new Date(pdate)).toLocaleDateString()+'</h2>';
+        cont += `
+            <div class="rssn">
+              <div><span class="smaller gray hspace">${('0'+(new Date(pdate)).getHours()).slice(-2)}:${('0'+(new Date(pdate)).getMinutes()).slice(-2)}</span>
+                <a class="nodecor" href="${link}"> ${titl}</a>
+              </div>
+            </div>`;
+        if(i==items.length-1) document.getElementById(contId).innerHTML += cont;
+      });
   });
 }
 //
@@ -236,16 +267,6 @@ function updateMetaTag(name, content){
     if(meta[j].name == name) meta[j].content = content;
   }
 }
-//
-// add link rel=canonical
-//
-(function addRelCanonical(){
-  var link = !!document.querySelector("link[rel='canonical']") ? document.querySelector("link[rel='canonical']") : document.createElement('link');
-  link.setAttribute('rel', 'canonical');
-  link.setAttribute('href', location.protocol + '//' + location.host + location.pathname + location.search);
-  console.log(link.outerHTML);
-  document.head.appendChild(link);  
-})();
 //
 // translater from //gist.github.com/diolavr/d2d50686cb5a472f5696.js
 //
@@ -304,25 +325,4 @@ function xyz2sct(X,Y,Z){
     m++;
   }
   return sct;
-}
-//
-// get RSS text from rssUrl to contId 
-//
-function fetchRSSFromXML(rssUrl, contId) {
-  var cont = '';
-  fetch('https://egax.ru/posts/read.php?url='+encodeURIComponent(rssUrl)).then((response) => { return response.text(); }).then((data) => {
-      [].slice.call((new DOMParser()).parseFromString(data, 'application/xml').getElementsByTagName('item')).slice(0,10).map((item,i,items) => {
-        const titl = item.getElementsByTagName('title')[0].textContent;
-        const link = item.getElementsByTagName('link')[0].textContent;
-        const pdate = item.getElementsByTagName('pubDate')[0]?.textContent.split(/\s\+\d+/)[0];
-        if(i==0) document.getElementById(contId).innerHTML = '<h2>Новое с '+rssUrl.split('/')[2]+' на '+(new Date(pdate)).toLocaleDateString()+'</h2>';
-        cont += `
-            <div class="rssn">
-              <div><span class="smaller gray hspace">${('0'+(new Date(pdate)).getHours()).slice(-2)}:${('0'+(new Date(pdate)).getMinutes()).slice(-2)}</span>
-                <a class="nodecor" href="${link}"> ${titl}</a>
-              </div>
-            </div>`;
-        if(i==items.length-1) document.getElementById(contId).innerHTML += cont;
-      });
-  });
 }
