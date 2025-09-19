@@ -129,6 +129,7 @@
 * [Nonstop Rock N Roll Hits Vintage Classics Dance Tunes](Nonstop%20Rock%20N%20Roll%20Hits%20Vintage%20Classics%20Dance%20Tunes.md)
 * [Original Classic Rock Songs 70s 80s 90s Of All Time Guns N Roses Metallica Aerosmith Bon Jovi](Original%20Classic%20Rock%20Songs%2070s%2080s%2090s%20Of%20All%20Time%20Guns%20N%20Roses%20Metallica%20Aerosmith%20Bon%20Jovi.md)
 * [Original Classic Rock songs 70s 80s 90s Queen AC DC Bon Jovi Metallica Nirvana Scorpions](Original%20Classic%20Rock%20songs%2070s%2080s%2090s%20Queen%20AC%20DC%20Bon%20Jovi%20Metallica%20Nirvana%20Scorpions.md)
+* [PASKONG PINOY 2026 - Best Tagalog Christmas Songs Merry Christmas Songs Medley 2026](PASKONG%20PINOY%202026%20-%20Best%20Tagalog%20Christmas%20Songs%20Merry%20Christmas%20Songs%20Medley%202026.md)
 * [PASKONG PINOY 2026 - CHRISTMAS SONGS Maligayang Pasko 2026 Nonstop Tagalog Christmas Songs](PASKONG%20PINOY%202026%20-%20CHRISTMAS%20SONGS%20Maligayang%20Pasko%202026%20Nonstop%20Tagalog%20Christmas%20Songs.md)
 * [Paskong Pinoy Christmas Songs 2026 Traditional Christmas Songs christmassongs paskongpinoy](Paskong%20Pinoy%20Christmas%20Songs%202026%20Traditional%20Christmas%20Songs%20christmassongs%20paskongpinoy.md)
 * [Pink Floyd The Beatles The Rolling Stones Queen AC DCTop 100 Classic Rock Songs Of 80s 90s](Pink%20Floyd%20The%20Beatles%20The%20Rolling%20Stones%20Queen%20AC%20DCTop%20100%20Classic%20Rock%20Songs%20Of%2080s%2090s.md)
