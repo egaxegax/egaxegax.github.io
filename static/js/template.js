@@ -315,7 +315,7 @@ function fetchRSSFromXML(rssUrl, contId) {
         const titl = item.getElementsByTagName('title')[0].textContent;
         const link = item.getElementsByTagName('link')[0].textContent;
         const pdate = item.getElementsByTagName('pubDate')[0]?.textContent.split(/\s\+\d+/)[0];
-        if(i==0) document.getElementById(contId).innerHTML = '<h2>'+rssUrl.split('/')[2]+' на '+(new Date(pdate)).toLocaleString()+'</h2>';
+        if(i==0) document.getElementById(contId).innerHTML = '<h2>Новое с '+rssUrl.split('/')[2]+' на '+(new Date(pdate)).toLocaleDateString()+'</h2>';
         cont += `
             <div class="rssn">
               <div><span class="smaller gray hspace">${('0'+(new Date(pdate)).getHours()).slice(-2)}:${('0'+(new Date(pdate)).getMinutes()).slice(-2)}</span>
