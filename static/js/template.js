@@ -310,12 +310,12 @@ function xyz2sct(X,Y,Z){
 //
 function fetchRSSFromXML(rssUrl, contId) {
   var cont = '';
-  fetch(rssUrl).then((response) => { return response.text(); }).then((data) => {
+  fetch('https://egax.ru/posts/read.php?url='+encodeURIComponent(rssUrl)).then((response) => { return response.text(); }).then((data) => {
       [].slice.call((new DOMParser()).parseFromString(data, 'application/xml').getElementsByTagName('item')).slice(0,10).map((item,i,items) => {
         const titl = item.getElementsByTagName('title')[0].textContent;
         const link = item.getElementsByTagName('link')[0].textContent;
         const pdate = item.getElementsByTagName('pubDate')[0]?.textContent.split(/\s\+\d+/)[0];
-        if(i==0) document.getElementById(contId).innerHTML = '<h2>'+pdate+'</h2>';
+        if(i==0) document.getElementById(contId).innerHTML = '<h2>'+rssUrl.split('/')[2]+' на '+(new Date(pdate)).toLocaleString()+'</h2>';
         cont += `
             <div class="rssn">
               <div><span class="smaller gray hspace">${('0'+(new Date(pdate)).getHours()).slice(-2)}:${('0'+(new Date(pdate)).getMinutes()).slice(-2)}</span>
