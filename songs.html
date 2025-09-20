@@ -121,8 +121,12 @@
     '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? 'max-height:150px': 'float:right; margin:10px 10px 0 20px; min-width:250px; max-width:250px') +'"></div>'+
   '</div>'+
   '<div id="chordcont" class="bmarg tcenter chord"></div>'+
-  '<div class="msgfooter">'+
-    '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span>'+
+  '<div class="msgfooter mw_f nowrap scroll">'+
+    '<table class="collapse"><tr>'+
+      '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span> </td>'+
+      '<td> &emsp;&emsp; </td>'+
+      '<td align=right width="95%"><a class="hspace nodecor gray"> - '+p.root+' - </a></td>'+
+    '</tr></table>'+
   '</div>';
     addSongChords();
     addTitlesRelsHtml(p, 'songs.html');
