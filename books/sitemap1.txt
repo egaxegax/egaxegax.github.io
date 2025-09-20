@@ -1065,9 +1065,12 @@ https://egaxegax.github.io/books.html?ekaterina_borovikova/sbornik_rasskazov_zov
 https://egaxegax.github.io/books.html?ekaterina_orlova
 https://egaxegax.github.io/books.html?ekaterina_orlova/sekret_mera_gromova_v_posteli_s_vragom
 https://egaxegax.github.io/books.html?ekaterina_ruslanovna_karidi
+https://egaxegax.github.io/books.html?ekaterina_ruslanovna_karidi/fiktivnyi_muj_dlya_popadanki_si
 https://egaxegax.github.io/books.html?ekaterina_ruslanovna_karidi/istinnaya_problema_dlya_generala_drakonov_si
 https://egaxegax.github.io/books.html?ekaterina_stanislavovna_dokasheva
 https://egaxegax.github.io/books.html?ekaterina_stanislavovna_dokasheva/velikij_shelkovyj_put_polnaya_istoriya
+https://egaxegax.github.io/books.html?elena_anatolevna_kaminskaya
+https://egaxegax.github.io/books.html?elena_anatolevna_kaminskaya/interesnye_idei_dlya_vashego_doma
 https://egaxegax.github.io/books.html?elena_milkova
 https://egaxegax.github.io/books.html?elena_milkova/te_je_i_skuns
 https://egaxegax.github.io/books.html?elena_novaya
@@ -1253,6 +1256,8 @@ https://egaxegax.github.io/books.html?fridrih_vilgelm_nicshe/k_genealogii_morali
 https://egaxegax.github.io/books.html?fridrih_vilgelm_nicshe/sverhchelovek_protiv_super-ego_sbornik
 https://egaxegax.github.io/books.html?g_a_smirnov
 https://egaxegax.github.io/books.html?g_a_smirnov/samogon_oborudovanie_i_recepty_domashnego_prigotovleniya
+https://egaxegax.github.io/books.html?g_solncev
+https://egaxegax.github.io/books.html?g_solncev/remont_chasov_svoimi_rukami_posobie_dlya_nachinajushchego_mastera
 https://egaxegax.github.io/books.html?gabriel_garsiya_markes
 https://egaxegax.github.io/books.html?gabriel_garsiya_markes/izvestie_o_pohishchenii
 https://egaxegax.github.io/books.html?gabriel_garsiya_markes/ljubov_vo_vremya_chumy
@@ -1437,6 +1442,8 @@ https://egaxegax.github.io/books.html?ilya_makarov
 https://egaxegax.github.io/books.html?ilya_makarov/spartak_vs_cska_velikoe_protivostoyanie
 https://egaxegax.github.io/books.html?ilya_roshal
 https://egaxegax.github.io/books.html?ilya_roshal/kamasutra_o_sposobah_vozlejaniya_uchebnik_ljubvi
+https://egaxegax.github.io/books.html?immanuil_kant
+https://egaxegax.github.io/books.html?immanuil_kant/osnovy_metafiziki_nravstvennosti
 https://egaxegax.github.io/books.html?inna_dvorcova
 https://egaxegax.github.io/books.html?inna_dvorcova/vedunya_iz_zabytoj_pustoshi
 https://egaxegax.github.io/books.html?iogann_volfgang_gete
@@ -2459,6 +2466,8 @@ https://egaxegax.github.io/books.html?mihail_vasilevich_shalaev
 https://egaxegax.github.io/books.html?mihail_vasilevich_shalaev/sokrovishche_djunaida
 https://egaxegax.github.io/books.html?mihail_vladimirovich_fishman
 https://egaxegax.github.io/books.html?mihail_vladimirovich_fishman/preemnik_istoriya_borisa_nemcova_i_strany_v_kotoroj_on_ne_stal_prezidentom
+https://egaxegax.github.io/books.html?milena_zavojchinskaya
+https://egaxegax.github.io/books.html?milena_zavojchinskaya/inkub_i_buhgalter_ili_kak_my_s_muzom_pytalis_pisat_erotiku_si
 https://egaxegax.github.io/books.html?mishel_eke_m_de_monten
 https://egaxegax.github.io/books.html?mishel_eke_m_de_monten/skepticizm_orujie_razuma
 https://egaxegax.github.io/books.html?mitropolit_tihon_shevkunov
@@ -2658,6 +2667,8 @@ https://egaxegax.github.io/books.html?olga_ostrovskaya/najdi_menya_moj_princ
 https://egaxegax.github.io/books.html?olga_ostrovskaya/novyj_mir_dlya_lilovoj_koshki
 https://egaxegax.github.io/books.html?olga_ostrovskaya/pod_zashchitoj_tvoej_tmy_si
 https://egaxegax.github.io/books.html?olga_ostrovskaya/ya_ukradu_tvoe_serdce
+https://egaxegax.github.io/books.html?olga_rog
+https://egaxegax.github.io/books.html?olga_rog/beloe_i_chernoe
 https://egaxegax.github.io/books.html?olga_shvecova
 https://egaxegax.github.io/books.html?olga_shvecova/demon-hranitel
 https://egaxegax.github.io/books.html?olga_shvecova/nichej
@@ -3255,6 +3266,11 @@ https://egaxegax.github.io/books.html?svetlana_ivanovna_troickaya/ya_otlichno_vi
 https://egaxegax.github.io/books.html?svetlana_kuznecova
 https://egaxegax.github.io/books.html?svetlana_kuznecova/dvorec_dlya_rabov
 https://egaxegax.github.io/books.html?svetlana_kuznecova/uroboros
+https://egaxegax.github.io/books.html?svetlana_shepot
+https://egaxegax.github.io/books.html?svetlana_shepot
+https://egaxegax.github.io/books.html?svetlana_shepot/hozyajka_lavki_poteryannyh_veshchej_ulybka_gremlina
+https://egaxegax.github.io/books.html?svetlana_shepot/tajnaya_missiya_gospoji_popadanki_si
+https://egaxegax.github.io/books.html?svetlana_shepot/vedma_vilhelma
 https://egaxegax.github.io/books.html?svyatoslav_loginov
 https://egaxegax.github.io/books.html?svyatoslav_loginov/chernaya_krov
 https://egaxegax.github.io/books.html?tagir_kireev
@@ -3292,6 +3308,7 @@ https://egaxegax.github.io/books.html?timur_kazancev/iskusstvennyj_intellekt_i_m
 https://egaxegax.github.io/books.html?timur_rymjanov
 https://egaxegax.github.io/books.html?timur_rymjanov/hromoj_strannik
 https://egaxegax.github.io/books.html?timur_rymjanov/koldun_trilogiya
+https://egaxegax.github.io/books.html?timur_rymjanov/oglyanis_v_temnote
 https://egaxegax.github.io/books.html?timur_rymjanov/runy_groma
 https://egaxegax.github.io/books.html?timur_rymjanov/zmeinaya_gora
 https://egaxegax.github.io/books.html?tomas_gardi
@@ -3376,6 +3393,8 @@ https://egaxegax.github.io/books.html?vadim_stepanov
 https://egaxegax.github.io/books.html?vadim_stepanov/volshebnik_na_kryshe_si
 https://egaxegax.github.io/books.html?vadim_viktorovich_erlihman
 https://egaxegax.github.io/books.html?vadim_viktorovich_erlihman/stiven_king
+https://egaxegax.github.io/books.html?valentin_stepanovich_vyazovkin
+https://egaxegax.github.io/books.html?valentin_stepanovich_vyazovkin/osnovy_filosofii
 https://egaxegax.github.io/books.html?valentina_alekseevna_ezerskaya
 https://egaxegax.github.io/books.html?valentina_alekseevna_ezerskaya/sbornik_ljubovno-fantasticheskih_rasskazov_si
 https://egaxegax.github.io/books.html?valerij_elmanov
@@ -3474,6 +3493,7 @@ https://egaxegax.github.io/books.html?viktor_tochinov/zashchita_kovacha
 https://egaxegax.github.io/books.html?viktoriya_dmitrievna_dmitrieva
 https://egaxegax.github.io/books.html?viktoriya_dmitrievna_dmitrieva/eto_je_podrostok_kak_jit_i_obshchatsya_s_detmi_kogda_oni_vzroslejut
 https://egaxegax.github.io/books.html?vilgelm_rajh
+https://egaxegax.github.io/books.html?vilgelm_rajh/analiz_haraktera
 https://egaxegax.github.io/books.html?vilgelm_rajh/seks_put_k_svobode_velikaya_borba_za_eros
 https://egaxegax.github.io/books.html?vilyam_girsh
 https://egaxegax.github.io/books.html?vilyam_girsh/sindrom_geniya

@@ -3595,6 +3595,7 @@ https://egax.ru/index.html?mesta_podmoskovya/dmitrov
 https://egax.ru/index.html?mesta_podmoskovya/dolgoprudnyj
 https://egax.ru/index.html?mesta_podmoskovya/dubna
 https://egax.ru/index.html?mesta_podmoskovya/dubrovicy
+https://egax.ru/index.html?mesta_podmoskovya/dzerjinskij
 https://egax.ru/index.html?mesta_podmoskovya/elektrogorsk
 https://egax.ru/index.html?mesta_podmoskovya/erino
 https://egax.ru/index.html?mesta_podmoskovya/fryazino
@@ -4348,6 +4349,7 @@ https://egax.ru/index.html?povarenok_ru/drojjevoj_pirog_s_kapustoj_i_sosiskami
 https://egax.ru/index.html?povarenok_ru/drojjevye_oladi_na_kukuruznoj_muke
 https://egax.ru/index.html?povarenok_ru/dynnaya_panna_kotta
 https://egax.ru/index.html?povarenok_ru/dynno-ananasovyj_koktejl
+https://egax.ru/index.html?povarenok_ru/dynnye_keksy_s_kokosovoj_strujkoj
 https://egax.ru/index.html?povarenok_ru/dynnyj_limonad_s_myatoj
 https://egax.ru/index.html?povarenok_ru/efiopskij_tikil_gomen
 https://egax.ru/index.html?povarenok_ru/eskimo_na_palochke-morojenoe_pp
@@ -4748,6 +4750,7 @@ https://egax.ru/index.html?povarenok_ru/yablochnyj_pirog_hmelnoj
 https://egax.ru/index.html?povarenok_ru/yagodnyj_pirog-pastila
 https://egax.ru/index.html?povarenok_ru/yagodnyj_pirog_so_smetannoj_zalivkoj
 https://egax.ru/index.html?povarenok_ru/yaichnica_po-palestinski
+https://egax.ru/index.html?povarenok_ru/yaichnica_v_forme_cvetka
 https://egax.ru/index.html?povarenok_ru/yajca_po-malazijski
 https://egax.ru/index.html?povarenok_ru/yajca_v_shpinatovom_kreme_s_semenami
 https://egax.ru/index.html?povarenok_ru/yaponskij_puding_purin
@@ -6800,3 +6803,4 @@ https://egax.ru/index.html?zapiski_sajta/250502_2112
 https://egax.ru/index.html?zapiski_sajta/250608_1134
 https://egax.ru/index.html?zapiski_sajta/250810_1444
 https://egax.ru/index.html?zapiski_sajta/250816_1455
+https://egax.ru/index.html?zapiski_sajta/250920_1204

@@ -3595,6 +3595,7 @@ https://egaxegax.github.io/index.html?mesta_podmoskovya/dmitrov
 https://egaxegax.github.io/index.html?mesta_podmoskovya/dolgoprudnyj
 https://egaxegax.github.io/index.html?mesta_podmoskovya/dubna
 https://egaxegax.github.io/index.html?mesta_podmoskovya/dubrovicy
+https://egaxegax.github.io/index.html?mesta_podmoskovya/dzerjinskij
 https://egaxegax.github.io/index.html?mesta_podmoskovya/elektrogorsk
 https://egaxegax.github.io/index.html?mesta_podmoskovya/erino
 https://egaxegax.github.io/index.html?mesta_podmoskovya/fryazino
@@ -4348,6 +4349,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/drojjevoj_pirog_s_kapustoj_i_
 https://egaxegax.github.io/index.html?povarenok_ru/drojjevye_oladi_na_kukuruznoj_muke
 https://egaxegax.github.io/index.html?povarenok_ru/dynnaya_panna_kotta
 https://egaxegax.github.io/index.html?povarenok_ru/dynno-ananasovyj_koktejl
+https://egaxegax.github.io/index.html?povarenok_ru/dynnye_keksy_s_kokosovoj_strujkoj
 https://egaxegax.github.io/index.html?povarenok_ru/dynnyj_limonad_s_myatoj
 https://egaxegax.github.io/index.html?povarenok_ru/efiopskij_tikil_gomen
 https://egaxegax.github.io/index.html?povarenok_ru/eskimo_na_palochke-morojenoe_pp
@@ -4748,6 +4750,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/yablochnyj_pirog_hmelnoj
 https://egaxegax.github.io/index.html?povarenok_ru/yagodnyj_pirog-pastila
 https://egaxegax.github.io/index.html?povarenok_ru/yagodnyj_pirog_so_smetannoj_zalivkoj
 https://egaxegax.github.io/index.html?povarenok_ru/yaichnica_po-palestinski
+https://egaxegax.github.io/index.html?povarenok_ru/yaichnica_v_forme_cvetka
 https://egaxegax.github.io/index.html?povarenok_ru/yajca_po-malazijski
 https://egaxegax.github.io/index.html?povarenok_ru/yajca_v_shpinatovom_kreme_s_semenami
 https://egaxegax.github.io/index.html?povarenok_ru/yaponskij_puding_purin
@@ -6800,3 +6803,4 @@ https://egaxegax.github.io/index.html?zapiski_sajta/250502_2112
 https://egaxegax.github.io/index.html?zapiski_sajta/250608_1134
 https://egaxegax.github.io/index.html?zapiski_sajta/250810_1444
 https://egaxegax.github.io/index.html?zapiski_sajta/250816_1455
+https://egaxegax.github.io/index.html?zapiski_sajta/250920_1204
