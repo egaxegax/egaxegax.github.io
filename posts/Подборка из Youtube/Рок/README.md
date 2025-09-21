@@ -135,6 +135,7 @@
 * [Pink Floyd The Beatles The Rolling Stones Queen AC DCTop 100 Classic Rock Songs Of 80s 90s](Pink%20Floyd%20The%20Beatles%20The%20Rolling%20Stones%20Queen%20AC%20DCTop%20100%20Classic%20Rock%20Songs%20Of%2080s%2090s.md)
 * [Pink Floyd The Rolling Stones AC DC The Police Classic Rock 70s 80s 90s Songs Collection](Pink%20Floyd%20The%20Rolling%20Stones%20AC%20DC%20The%20Police%20Classic%20Rock%2070s%2080s%2090s%20Songs%20Collection.md)
 * [Pink Floyd The Rolling Stones AC DC The Who Black SabbathClassic Rock 70s 80s 90s Songs](Pink%20Floyd%20The%20Rolling%20Stones%20AC%20DC%20The%20Who%20Black%20SabbathClassic%20Rock%2070s%2080s%2090s%20Songs.md)
+* [Power Rock Ballads Greatest Rock Love Songs Ever](Power%20Rock%20Ballads%20Greatest%20Rock%20Love%20Songs%20Ever.md)
 * [Queen ACDC Aerosmith Bon Jovi Metallica Nirvana Gnr The Most Classic Rock Songs 70s 80s 90s](Queen%20ACDC%20Aerosmith%20Bon%20Jovi%20Metallica%20Nirvana%20Gnr%20The%20Most%20Classic%20Rock%20Songs%2070s%2080s%2090s.md)
 * [Queen Aerosmith Nirvana ACDC Bon Jovi Scorpions Guns N Roses Best Classic Rock Off All Time](Queen%20Aerosmith%20Nirvana%20ACDC%20Bon%20Jovi%20Scorpions%20Guns%20N%20Roses%20Best%20Classic%20Rock%20Off%20All%20Time.md)
 * [Queen Aerosmith Nirvana ACDC Bon Jovi Scorpions Guns N RosesBest Classic Rock Of 70s 80s 90s](Queen%20Aerosmith%20Nirvana%20ACDC%20Bon%20Jovi%20Scorpions%20Guns%20N%20RosesBest%20Classic%20Rock%20Of%2070s%2080s%2090s.md)

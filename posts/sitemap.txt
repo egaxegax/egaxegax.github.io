@@ -1361,12 +1361,14 @@ https://egax.ru/index.html?eadaily/250915_1800
 https://egax.ru/index.html?eadaily/250916_1800
 https://egax.ru/index.html?eadaily/250917_1800
 https://egax.ru/index.html?eadaily/250918_1800
+https://egax.ru/index.html?eadaily/250920_1800
 https://egax.ru/index.html?fajtingi
 https://egax.ru/index.html?fajtingi/igra_v_mk-11
 https://egax.ru/index.html?fajtingi/igra_v_mk-11_robocop
 https://egax.ru/index.html?fajtingi/tmnt_shredders_revenge
 https://egax.ru/index.html?filmy
 https://egax.ru/index.html?filmy/bobbi_moretti_istoriya_kotoraya_izmenit_tebya_pobeda_nad_boleznju_i_soboj
+https://egax.ru/index.html?filmy/boss_istoriya_neulovimogo_mafiozi_matteo_messiny_denaro
 https://egax.ru/index.html?filmy/chto_vyberet_karlos_semju_ili_gadjet_bez_kotorogo_nikuda_bez_svyazi_movies
 https://egax.ru/index.html?filmy/komanda_zachistki_chemodan_s_dengami_i_ohota_nachalas
 https://egax.ru/index.html?filmy/kub_igra_na_vyjivanie_on_dumal_eto_irak_no_okazalsya_v_lovushke_movies
@@ -1441,6 +1443,7 @@ https://egax.ru/index.html?habr/amazon_uluchshaet_model_nova_reel_sozdanie_video
 https://egax.ru/index.html?habr/amber_page_predstavil_prototip_chehla_amberdeck_prevrashchajushchij_iphone_v_karmannyj_kompjuter
 https://egax.ru/index.html?habr/amd_po_oshibke_opublikovala_na_github_ishodnyj_kod_fsr_4_a_polzovateli_sdelali_ego_forki
 https://egax.ru/index.html?habr/amerika_otkryvaet_vse_dveri_dlya_ii_ekspertnyj_razbor_ai_action_plan_2025
+https://egax.ru/index.html?habr/anker_vypustila_besprovodnye_naushniki_s_maskirovkoj_hrapa
 https://egax.ru/index.html?habr/anons_5-go_vypuska_podkasta_it_s_gnivc_centr_kompetencii_analitiki_v_gnivc
 https://egax.ru/index.html?habr/anthropic_zapuskaet_api_dlya_veb-poiska_na_baze_ai
 https://egax.ru/index.html?habr/apheris_federativnye_vychisleniya_dlya_preobrazovaniya_mediciny_i_farmacevtiki_cherez_ai
@@ -1467,6 +1470,7 @@ https://egax.ru/index.html?habr/banki_rf_poprosili_cb_ob_otvetstvennosti_dlya_so
 https://egax.ru/index.html?habr/banki_ru_zapustil_chat_bota_na_baze_yandexgpt
 https://egax.ru/index.html?habr/banki_vystupili_protiv_bezuslovnogo_vozmeshcheniya_daje_chasti_pohishchennyh_sredstv
 https://egax.ru/index.html?habr/bekendery_go_k_nam_na_drinkap_23_aprelya
+https://egax.ru/index.html?habr/bessrochnaya_otchetnost_po_internet-reklame_zakonchilas
 https://egax.ru/index.html?habr/beta-versiya_video-generatora_firefly_ai_ot_adobe_v_stadii_razrabotki_prevrashchaet_tekst_i_izobrajeniya_v_korotkie_klipy
 https://egax.ru/index.html?habr/bezopasnyj_brauzing_microsoft_edge_aktiviruet_zashchitu_ot_moshennichestva_s_pomoshchju_ai
 https://egax.ru/index.html?habr/bi_zone_predstavila_novyj_funkcional_na_svoem_portale_kiberrazvedki_bi_zone_threat_intelligence
@@ -1514,6 +1518,7 @@ https://egax.ru/index.html?habr/cybercamp_otkryvaet_sezon_mitapom_na_temu_dfir
 https://egax.ru/index.html?habr/cybercamp_zapuskaet_komjuniti_dlya_specialistov_po_kiberbezopasnosti
 https://egax.ru/index.html?habr/dannye_nasa_svidetelstvujut_o_rezkom_roste_intensivnosti_pogodnyh_yavlenij
 https://egax.ru/index.html?habr/darpa_planiruet_dat_tolchok_matematicheskim_innovaciyam_s_pomoshchju_ii_v_ramkah_proekta_expmath
+https://egax.ru/index.html?habr/dekan_ekonomicheskogo_fakulteta_mgu_soobshchil_ob_otkrytii_tabletki_ot_vygoraniya
 https://egax.ru/index.html?habr/devops_vs_ib_kto_kogo
 https://egax.ru/index.html?habr/discord_planiruet_ispolzovat_iskusstvennyj_intellekt_dlya_summarizacii_razgovorov_na_forumah
 https://egax.ru/index.html?habr/djejson_shrajer_igrovye_proekty_stanovyatsya_vse_doroje_iz-za_neeffektivnogo_upravleniya_i_otsutstviya_konkretnyh_celej
@@ -4973,6 +4978,7 @@ https://egax.ru/index.html?rabota/dostavshchik_edy_iz_ssha_zarabotal_na_chevrole
 https://egax.ru/index.html?rabota/dva_tipa_amerikencev
 https://egax.ru/index.html?rabota/elitnyj_hendimen_vypolnyaet_svoju_rabotu_v_nju_jorke_vlog_emigranta
 https://egax.ru/index.html?rabota/emigrant-bajker_v_nju-jorke_kak_ya_stal_videografom_za_odin_den_i_chto_iz_etogo_vyshlo
+https://egax.ru/index.html?rabota/emigrant_iz_ukrainy_kak_v_ssha_vyjti_na_12_500_v_mesyac_s_nulya_realnaya_istoriya
 https://egax.ru/index.html?rabota/esli_by_ya_znal_anglijskij
 https://egax.ru/index.html?rabota/etot_paren_haknul_sistemu_luchshij_sposob_dlya_poiska_raboty_hendimenu_v_ssha
 https://egax.ru/index.html?rabota/fastfud_v_amerike
@@ -5711,6 +5717,7 @@ https://egax.ru/index.html?ria/250915_2000
 https://egax.ru/index.html?ria/250916_2000
 https://egax.ru/index.html?ria/250917_2000
 https://egax.ru/index.html?ria/250918_2000
+https://egax.ru/index.html?ria/250920_2000
 https://egax.ru/index.html?rok
 https://egax.ru/index.html?rok/24_7_christmas_ambience_fireplace_merry_christmas_2025
 https://egax.ru/index.html?rok/28_11_2013_-_korol_i_shut_minsk_dvorec_sporta
@@ -5861,6 +5868,7 @@ https://egax.ru/index.html?rok/paskong_pinoy_christmas_songs_2026_traditional_ch
 https://egax.ru/index.html?rok/pink_floyd_the_beatles_the_rolling_stones_queen_ac_dctop_100_classic_rock_songs_of_80s_90s
 https://egax.ru/index.html?rok/pink_floyd_the_rolling_stones_ac_dc_the_police_classic_rock_70s_80s_90s_songs_collection
 https://egax.ru/index.html?rok/pink_floyd_the_rolling_stones_ac_dc_the_who_black_sabbathclassic_rock_70s_80s_90s_songs
+https://egax.ru/index.html?rok/power_rock_ballads_greatest_rock_love_songs_ever
 https://egax.ru/index.html?rok/proshchalnyj_koncert_gruppy_korol_i_shut_v_minske
 https://egax.ru/index.html?rok/queen_acdc_aerosmith_bon_jovi_metallica_nirvana_gnr_the_most_classic_rock_songs_70s_80s_90s
 https://egax.ru/index.html?rok/queen_aerosmith_nirvana_acdc_bon_jovi_scorpions_guns_n_roses_best_classic_rock_off_all_time
@@ -6341,6 +6349,7 @@ https://egax.ru/index.html?tajny/my_potrevojili_nechto_drevnee_pod_poverhnostju_
 https://egax.ru/index.html?tajny/na_fotografii_iz_1940_goda_vidno_cheloveka_kotoryj_derjit_v_rukah_mobilnyj_telefon
 https://egax.ru/index.html?tajny/na_lune_obnarujen_vhod_v_podlunnuju_poverhnost
 https://egax.ru/index.html?tajny/najden_dnevnik_puteshestvennika_vo_vremeni_pravda_ili_mif_o_cheloveke_iz_23_veka
+https://egax.ru/index.html?tajny/nashli_realnogo_puteshestvennika_vo_vremeni_zapis_tvich_strima
 https://egax.ru/index.html?tajny/nechelovecheskie_vidy_piramidy_majya_strannosti_voyadjera-1_gumanoidy_nakormili_shokoladom_strim
 https://egax.ru/index.html?tajny/nechto_pugajushchee_sushchestvo_sledilo_za_nej_pryamo_v_dome
 https://egax.ru/index.html?tajny/nekotorye_issledovateli_polagajut_chto_za_ledyanoj_stenoj_antarktidy_lejat_drugie_zemli
@@ -6388,6 +6397,7 @@ https://egax.ru/index.html?tajny/utekshee_video_iz_vatikana_inoplanetnye_giganty
 https://egax.ru/index.html?tajny/v_1955_godu_samolet_vyletel_iz_nju-jorka_i_ischez_ego_ne_mogli_najti_37_let_on_vernulsya_v_92_godu
 https://egax.ru/index.html?tajny/v_avstralii_obitajut_dinozavry_a_zabor_avstralii_postroen_dlya_zashchity_ot_krolikov_i_sobak_dingo
 https://egax.ru/index.html?tajny/v_nju-jorke_v_1950_godu_policiya_zaderjala_strannogo_cheloveka_v_odejde_xix_veka
+https://egax.ru/index.html?tajny/venom_iz_panamy_yavlyaetsya_predvestnikom_nlo_3i_atlas_i_bolee_pugajushchego_gigantskogo_korablya_swan
 https://egax.ru/index.html?tajny/video_nessi_lico_jeti_novye_video_nlo_prizrachnaya_voda_ischeznuvshij_elektrobus_strim
 https://egax.ru/index.html?tajny/video_s_marsa_marsohod_zasnyal_muhu_chto_proishodit
 https://egax.ru/index.html?tajny/vnezemnoj_signal_35_let_nlo_voroneja_obshchenie_vo_sne_otkljuchenie_voyadjera_uragany_strim
