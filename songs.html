@@ -24,7 +24,7 @@
 .rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/template.js?250907"></script>
+<script src="/static/js/template.js?250923"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -186,7 +186,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: '/songs/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      xhr({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: '/songs/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -206,7 +206,7 @@
     return (page.titles.length == 0);
   }
 
-  upfunc({url: '/songs/index.js?'+(+new Date())}, function(s){
+  xhr({url: '/songs/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
     PAGE.per = 5;  // blocks 1 page

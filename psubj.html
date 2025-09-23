@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250817">
 <link rel="stylesheet" href="/static/css/posts.css?250816">
-<script src="/static/js/template.js?250907"></script>
+<script src="/static/js/template.js?250923"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -43,7 +43,7 @@
 
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
-  '<div class="tcell vmid"><h1 id="pheader">'+'Выберите одну из тем статей'+'</h1></div>'+
+  '<div class="tcell vmid"><h1 id="pheader">Выберите одну из тем статей</h1></div>'+
   '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
@@ -65,8 +65,8 @@
     return tmpl;
   }
 
-  function addPageContent(subjects, page, iinit){
-    if(!subjects.length){
+  function addPageContent(page, iinit){
+    if(!page.subj.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -77,40 +77,38 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.subs = subjects.slice(page.bottom, page.top);
+    page.subs = page.subj.slice(page.bottom, page.top);
     for(var i=0; i<page.subs.length; i++){
       document.getElementById('page_content').innerHTML += 
     '<div id="subj'+(i+page.bottom)+'" class="wrap">'+addSubj(page.subs[i], page.bottom+i+1)+'</div>';
     }
     if(page.subs.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(subjects, page,
-    '<button onclick="this.disabled = addPageContent(SUBS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+      document.getElementById('page_footer').innerHTML = addPaginator(page.subj, page,
+    '<button onclick="this.disabled = addPageContent(PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
     return (page.subs.length == 0);
   }
 
-  upfunc({url: '/posts/index.js?'+(+new Date())}, function(s){
+  xhr({url: '/posts/index.js?'+(+new Date())}, function(s){
     eval(s);
-    window.PAGE = { 
-      per: 30,                 // blocks 1 page
-      num: urlParams().page||0 // start num page 
-    };
-    window.SUBS = SUBJ.slice().sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
-    window.POSTS = TITLES;
+    window.PAGE = {}; 
+    PAGE.per = 30;                 // blocks 1 page
+    PAGE.num = urlParams().page||0 // start num page 
+    PAGE.subj = SUBJ.slice().sort(function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0],ROOTS[b[3]][0]+'_'+b[0]); });
+    // PAGE.posts = TITLES;
     if(urlParams().page){ // ?page
       document.title += ' - ' + urlParams().page;
       updateMetaTag('description', 'список тем постов ' + urlParams().page);
     }
     if(urlParams().find){ // ?find
-      SUBS = SUBS.filter(function(tit){ 
+      PAGE.subj = PAGE.subj.filter(function(tit){ 
         return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
       });
     }
-    document.getElementById('pheader').innerHTML =
-  'Выберите одну из <i><b>'+SUBS.length+'</b></i> тем статей';
+    document.getElementById('pheader').innerHTML = 'Выберите одну из <i><b>'+PAGE.subj.length+'</b></i> тем статей';
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(SUBS, PAGE, 1);
+    addPageContent(PAGE, 1);
   });
 
 </script>

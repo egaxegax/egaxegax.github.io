@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250817">
 <link rel="stylesheet" href="/static/css/books.dark.css?250915">
-<script src="/static/js/template.js?250907"></script>
+<script src="/static/js/template.js?250923"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -121,7 +121,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="book'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: '/books/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      xhr({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: '/books/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -141,7 +141,7 @@
     return (page.titles.length == 0);
   }
 
-  upfunc({url: '/books/index.js?'+(+new Date())}, function(s){
+  xhr({url: '/books/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
     PAGE.per = 3;
@@ -159,8 +159,7 @@
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
-        // skip paginate
-        document.title += ' - ' + urlParams().page;
+        document.title += ' - ' + urlParams().page; // skip paginate
       }else if(p == 'find' && urlParams().find){ // ?find
         BOOKS = BOOKS.filter(function(tit){ 
           return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
@@ -196,8 +195,8 @@
       }else if(pp.length>0){ // ?wrt ?genre
         var gnr, wrt;
         BOOKS = [].concat( 
-          gnr = BOOKS.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }), // filter by genres
-          wrt = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }) // filter by writer
+          gnr = BOOKS.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }),// filter by genres
+          wrt = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })  // filter by writer
         );
         BOOKS = BOOKS.sort(function(a,b){ return arraySort(a[2],b[2]); });
         if(BOOKS.length){ 

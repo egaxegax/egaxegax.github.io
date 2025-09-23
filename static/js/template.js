@@ -1,7 +1,7 @@
 //
 // XmlHttpRequest updater
 //
-function upfunc(p, clfunc, id){
+function xhr(p, clfunc, id){
   var xhr = new XMLHttpRequest();
   xhr.onreadystatechange = function() { 
     if (xhr.readyState == 4) {
@@ -101,7 +101,7 @@ function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="t
 //
 // return loader image html
 //
-function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" src="/static/img/loader.gif"></div>' : ''); }
+function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" alt="" src="/static/img/loader.gif"></div>' : ''); }
 //
 // return share button svg icon
 //

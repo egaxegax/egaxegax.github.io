@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?250817">
 <link rel="stylesheet" href="/static/css/songs.dark.css?250916">
-<script src="/static/js/template.js?250907"></script>
+<script src="/static/js/template.js?250923"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -92,7 +92,7 @@
     return (page.arts.length == 0);
   }
 
-  upfunc({url: '/songs/index.js?'+(+new Date())}, function(s){
+  xhr({url: '/songs/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = { 
       per: 20,                 // blocks 1 page

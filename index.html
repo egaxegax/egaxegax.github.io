@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/static/css/main.css?250812">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?250816">
-<script src="/static/js/template.js?250919"></script>
+<script src="/static/js/template.js?250923"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -45,7 +45,7 @@
 
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
-  '<div class="tcell vmid"><h1>'+'Подборки статей, постов на разные темы'+'</h1></div>'+
+  '<div class="tcell vmid"><h1>Подборки статей, постов на разные темы</h1></div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
@@ -57,18 +57,14 @@
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
     document.title = document.title.replace('README', p.subj);
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext'+(p.title[2] == 'README' ? ' readme' : '')+'">'+
-    html+
-  '</div>';
+  '<div class="msgtext'+(p.title[2] == 'README' ? ' readme' : '')+'">'+ html +'</div>';
   }
 
   function addAbout(r,p){
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r); 
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext inlbl">'+
-    html+
-  '</div>';
+  '<div class="msgtext inlbl">'+ html +'</div>';
     return ' about';
   }
 
@@ -76,6 +72,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
+          .replace('<img ', `<img onerror="this.style.display='none'" `) // fix empty img
           .replace('hqdefault.jpg', 'mqdefault.jpg');  // fix youtube 16:9 img size 
     updateMetaTag('description', trstr(html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,512), '.,') + ' ' + (urlParams().page||''));
     updateMetaTag('keywords', buildSubPath(ROOTS, SUBJ, p.title[0]).replace(' / ', ', ') +', читать, смотреть, видео, посты, статьи');
@@ -94,7 +91,7 @@
     document.getElementById(p.id).innerHTML += 
   '<div class="msgfooter mw_f nowrap scroll">'+
     '<table class="collapse"><tr>'+
-      '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span> </td>'+
+      '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span></td>'+
       '<td><a class="nodecor hspace gray" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addIShare()+' </a></td>'+
       ((rs=document.querySelector('#'+ p.id +' .rssurl')) ? 
         '<td><span class="rssfetch tooltip gray" title="'+rs.innerHTML+'" onclick="fetchRSSFromXML(\''+rs.innerHTML+'\',\'msg'+p.i+'\')"> '+addIRefresh()+'</span></td>' : '')+
@@ -105,9 +102,9 @@
     if(window.addYaRTB_Widget && p.view == 'post') addYaRTB_Widget('ya_rtb_wid', 'widget_posts', ['заметки', p.root, p.subj]);
   }
 
-  function addPageContent(roots, subjects, posts, page, iinit){
+  function addPageContent(roots, subjects, page, iinit){
     PAGE.lock = 1;
-    if(!posts.length){
+    if(!page.posts.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -118,14 +115,14 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.titles = posts.slice(page.bottom, page.top);
+    page.titles = page.posts.slice(page.bottom, page.top);
     for(var i=0; i<page.titles.length; i++){
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      upfunc({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, root: root, subj: subj, title: page.titles[i], url: '/posts/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      xhr({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, root: root, subj: subj, title: page.titles[i], url: '/posts/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -137,86 +134,70 @@
       });
     }
     if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(posts, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, POSTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+      document.getElementById('page_footer').innerHTML = addPaginator(page.posts, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
     return page.titles.length == 0;
   }
 
-  upfunc({url: '/posts/index.js?'+(+new Date())}, function(s){
+  xhr({url: '/posts/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
     PAGE.per = 5;  // blocks 1 page
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
-    window.POSTS = TITLES;
-    var page_header = 
-  '<div class="table">'+
-    '<div class="tcell vmid"><h1>'+'Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; '+
-      '<a class="nodecor" href="/psubj.html"><i>Темы</i></a>&nbsp; '+
-      '<a class="nodecor" href="/research.html"><i>Поиск</i></a></h1>'+
-    '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
-  '</div>';
+    PAGE.header = 
+  '<h1>Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; '+
+    '<a class="nodecor" href="/psubj.html"><i>Темы</i></a>&nbsp; '+
+    '<a class="nodecor" href="/research.html"><i>Поиск</i></a>'+
+  '</h1>';
+    PAGE.posts = TITLES;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
-        // skip paginate
-        document.title += ' - ' + urlParams().page;
+        document.title += ' - '+ urlParams().page; // skip paginate
       }else if(p == 'find' && urlParams().find){ // search list
-        POSTS = POSTS.filter(function(tit){ 
+        PAGE.posts = PAGE.posts.filter(function(tit){ 
           return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        POSTS = POSTS.sort(function(a,b){ return arraySort(b[3],a[3]); }); // sort by datetime
-        page_header =
-      '<div class="table">'+
-        '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+POSTS.length+')</i></div>'+
-        '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
-      '</div>';
+        PAGE.posts = PAGE.posts.sort(function(a,b){ return arraySort(b[3],a[3]); }); // sort by datetime
+        PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.posts.length+')</i>';
         PAGE.per = 10;
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?subj/title
         if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
-        if((POSTS = addTitlesRels(pp, SUBJ, POSTS, 1)).length){
+        if((PAGE.posts = addTitlesRels(pp, SUBJ, PAGE.posts, 1)).length){
           PAGE.view = 'post';
-          page_header = 
-        '<div class="table">'+
-          '<div class="tcell vmid">'+ 
-            '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) +'&emsp;<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>'+
-          '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
-        '</div>';
-          document.title = POSTS[0][2] + ', ' + ROOTS[SUBJ[POSTS[0][0]][3]][0] + ', ' + SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
+          PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) +'&emsp;<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
+          document.title = PAGE.posts[0][2] + ', ' + ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] + ', ' + SUBJ[PAGE.posts[0][0]][0] + ' - ' + document.title;
         }
       }else if(pp.length>0){ // ?subj
-        if((POSTS = POSTS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
+        if((PAGE.posts = PAGE.posts.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
           PAGE.view = 'list';
-          page_header = 
-        '<div class="table">'+
-          '<div class="tcell vmid">'+
-            '<h1>'+buildSubPath(ROOTS, SUBJ, POSTS[0][0]) + 
-              '<i class="hspace light">('+ POSTS.length+')</i> '+
-              '<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a>'+
-            '</h1>'+
-          '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("posts")+'</div>'+
-        '</div>';
-          POSTS = [[POSTS[0][0],POSTS[0][1],'about',0,POSTS[0][4]]].concat(POSTS); // +about page
-          document.title = ROOTS[SUBJ[POSTS[0][0]][3]][0] +' / '+ SUBJ[POSTS[0][0]][0] + ' - ' + document.title;
+          PAGE.header = 
+        '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) + 
+          '<i class="hspace light">('+ PAGE.posts.length +')</i> '+
+          '<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a>'+
+        '</h1>';
+          PAGE.posts = [[PAGE.posts[0][0],PAGE.posts[0][1],'about',0,PAGE.posts[0][4]]].concat(PAGE.posts); // +about page
+          document.title = ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] +' / '+ SUBJ[PAGE.posts[0][0]][0] + ' - ' + document.title;
         }
       }
     }
-    document.getElementById('page_header').innerHTML = page_header;
+    document.getElementById('page_header').innerHTML = 
+  '<div class="table">'+
+    '<div class="tcell vmid">'+ PAGE.header +'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:30%">'+ addFinder("posts") +'</div>'+
+  '</div>';
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(ROOTS, SUBJ, POSTS, PAGE, 1);
-      // infinite scroll
-    document.addEventListener('scroll', function() {
+    addPageContent(ROOTS, SUBJ, PAGE, 1);
+    document.addEventListener('scroll', function(){ // infinite scroll
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-100){
-        addPageContent(ROOTS, SUBJ, POSTS, PAGE);
+        addPageContent(ROOTS, SUBJ, PAGE);
       }
     });
   });
