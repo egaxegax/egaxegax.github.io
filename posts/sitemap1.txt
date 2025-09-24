@@ -1373,6 +1373,7 @@ https://egaxegax.github.io/index.html?eadaily/250920_1800
 https://egaxegax.github.io/index.html?eadaily/250921_1800
 https://egaxegax.github.io/index.html?eadaily/250922_1800
 https://egaxegax.github.io/index.html?eadaily/250923_1800
+https://egaxegax.github.io/index.html?eadaily/250924_1800
 https://egaxegax.github.io/index.html?fajtingi
 https://egaxegax.github.io/index.html?fajtingi/igra_v_mk-11
 https://egaxegax.github.io/index.html?fajtingi/igra_v_mk-11_robocop
@@ -1577,6 +1578,7 @@ https://egaxegax.github.io/index.html?habr/generalnyj_direktor_x_anonsirovala_na
 https://egaxegax.github.io/index.html?habr/getty_images_i_shutterstock_obedinyajutsya_v_odin_krupnyj_fotobank
 https://egaxegax.github.io/index.html?habr/gigabyte_predstavila_ultrakompaktnye_mini-pc_brix_na_baze_core_ultra_225h_i_255h
 https://egaxegax.github.io/index.html?habr/github_zapuskaet_panel_agentov_upravlenie_zadachami_pryamo_na_github_com
+https://egaxegax.github.io/index.html?habr/github_zapustil_publichnoe_prevju_gpt-5-codex_dlya_copilot
 https://egaxegax.github.io/index.html?habr/glava_nintendo_posovetoval_detyam_u_kotoryh_net_deneg_na_switch_2_znakomitsya_s_geroyami_igr_cherez_drugie_formaty
 https://egaxegax.github.io/index.html?habr/glava_roskosmosa_rasskazal_o_nachale_razrabotki_rakety_s_vozvrashchaemoj_pervoj_stupenju
 https://egaxegax.github.io/index.html?habr/glonass_zaregistrirovalo_sim_chipy_dlya_transporta_dronov_i_peredachi_dannyh_v_gossistemy
@@ -1623,6 +1625,7 @@ https://egaxegax.github.io/index.html?habr/hakatony_rus_pereshli_na_platformu_dl
 https://egaxegax.github.io/index.html?habr/hakery_ispolzujut_perehvat_windows_rid_dlya_sozdaniya_skrytoj_uchetnoj_zapisi_administratora
 https://egaxegax.github.io/index.html?habr/hakery_opublikovali_v_darknete_dannye_15_tysyach_ustrojstv_fortigate
 https://egaxegax.github.io/index.html?habr/hibernate_ne_nujen_java_lomaet_paradigmy_project_amber_menyaet_pravila_igry_spring_ajo_podkast_25
+https://egaxegax.github.io/index.html?habr/horoshij_u_tebya_aiplan_zaboristyj
 https://egaxegax.github.io/index.html?habr/ideogram_3_0_uluchshennoe_kachestvo_izobrajenij_i_novye_tekstovye_vozmojnosti
 https://egaxegax.github.io/index.html?habr/igrovoj_dvijok_godot_4_portirovan_na_os_avrora_5
 https://egaxegax.github.io/index.html?habr/igrovye_miry_na_steroidah_decart_zapustila_oasis_2_0_dlya_minecraft
@@ -2128,6 +2131,7 @@ https://egaxegax.github.io/index.html?habr/v_windows_11_24h2_voznikli_problemy_s
 https://egaxegax.github.io/index.html?habr/v_windows_11_poyavilis_novye_prilojeniya_kotorye_uproshchajut_poisk_kontaktov_i_fajlov
 https://egaxegax.github.io/index.html?habr/v_winrar_7_11_ispravlena_oshibka_obhoda_preduprejdenij_bezopasnosti_windows_mark_of_the_web_motw
 https://egaxegax.github.io/index.html?habr/v_yandeks_go_poyavilas_vozmojnost_popolnyat_kartu_trojka
+https://egaxegax.github.io/index.html?habr/v_yandex_cloud_poyavilas_vozmojnost_delat_ai-agentov_bez_napisaniya_koda
 https://egaxegax.github.io/index.html?habr/v_yaponii_prodavca_modificirovannoj_nintendo_switch_s_piratskimi_igrami_prigovorili_k_tjuremnomu_zakljucheniju
 https://egaxegax.github.io/index.html?habr/v_yaponii_vyros_spros_na_arendu_ps5
 https://egaxegax.github.io/index.html?habr/valve_uluchshila_rabotu_proigryvatelya_trejlerov_v_steam
@@ -2213,20 +2217,6 @@ https://egaxegax.github.io/index.html?igra_v_urban_terror
 https://egaxegax.github.io/index.html?igra_v_urban_terror/igra_urt_4
 https://egaxegax.github.io/index.html?igra_v_urban_terror/igra_urt_4_vdvoem
 https://egaxegax.github.io/index.html?igra_v_urban_terror/novyj_urt_5
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/gdal_translate_i_gdalwarp_dlya_pereproicirovaniya_izobrajenij
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/ideya_sozdaniya_proekta
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/karta_moskovskogo_metro_na_canvas
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/karta_moskovskogo_metro_svg-versiya
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/karty_i_google_maps
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/opisanie_i_primery
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/pereschet_izobrajenij_pod_raznye_kartograficheskie_proekcii_v_webgl
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/shema_prigorodnogo_dvijeniya_jd_soobshcheniya_moskvy_i_mo
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/sozdanie_staticheskogo_sajta_dlya_blogov
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zametki_otzyvy_plany_proekta_karty_dbcartajs
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_canvas_sozvezdiya
-https://egaxegax.github.io/index.html?ispolzovanie_canvas_i_svg/zvezdnoe_nebo_na_webgl_s_ispolzovaniem_three_js
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_18-j_paket_smeha_zelenskij_rasskazal_i_perspektivah_udary_po_tylam_18_07_25
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_1_mln_721_tys_vsu_novyj_proryv_na_6_km_i_zolotogo_kolodezya_idut_vpered_20_08
@@ -2455,6 +2445,7 @@ https://egaxegax.github.io/index.html?kino-teatr_ru/dva_mira_dva_vampira_damian_
 https://egaxegax.github.io/index.html?kino-teatr_ru/dve_mogily_trejler_na_ispanskom_yazyke
 https://egaxegax.github.io/index.html?kino-teatr_ru/dyadya_lesha_ona_takaya_klassnaya_i_roman_kostomarov_za_kogo_my_boleem_na_premii_iri-2025
 https://egaxegax.github.io/index.html?kino-teatr_ru/dyavol_mojet_plakat_trejler_na_anglijskom_yazyke
+https://egaxegax.github.io/index.html?kino-teatr_ru/edgar_rajt_gik-gik_ura
 https://egaxegax.github.io/index.html?kino-teatr_ru/eho_proshlogo_tv-rolik
 https://egaxegax.github.io/index.html?kino-teatr_ru/elizaveta_arzamasova_i_aleksej_zolotovickij_stali_roditelyami_olivii_minc
 https://egaxegax.github.io/index.html?kino-teatr_ru/est_tolko_mig_tizer-trejler
@@ -2486,6 +2477,7 @@ https://egaxegax.github.io/index.html?kino-teatr_ru/gangsterlend_trejler_na_angl
 https://egaxegax.github.io/index.html?kino-teatr_ru/ganzel_i_gretel_missiya_spyashchaya_krasavica_tizer
 https://egaxegax.github.io/index.html?kino-teatr_ru/gazeta_trejler_na_anglijskom_yazyke
 https://egaxegax.github.io/index.html?kino-teatr_ru/gde_nashi_dengi_skazki_dlya_staryh
+https://egaxegax.github.io/index.html?kino-teatr_ru/gela_meshi_darya_ursulyak_i_nonna_grishaeva_sygrali_v_seriale_kogda_gorit_ogon
 https://egaxegax.github.io/index.html?kino-teatr_ru/giv_mi_liberti_za_nashu_i_vashu_svobodu
 https://egaxegax.github.io/index.html?kino-teatr_ru/glavnye_novosti_anime_za_nedelju_dorama_podnyatie_urovnya_v_odinochku_vozvrashchenie_chernogo_klevera_i_prochij_grotesk
 https://egaxegax.github.io/index.html?kino-teatr_ru/glavnye_novosti_anime_za_nedelju_filmy_miyadzaki_spasajut_ot_trevojnosti_no_skoro_my_otpravimsya_v_poiskah_zombi
@@ -2681,6 +2673,7 @@ https://egaxegax.github.io/index.html?kino-teatr_ru/ne_prosto_tak_chto_skryvajut
 https://egaxegax.github.io/index.html?kino-teatr_ru/ne_stalo_aktera_ivana_krasko
 https://egaxegax.github.io/index.html?kino-teatr_ru/ne_stalo_aleksandra_mitty
 https://egaxegax.github.io/index.html?kino-teatr_ru/ne_stalo_hudruka_elektroteatra_stanislavskij_borisa_juhananova
+https://egaxegax.github.io/index.html?kino-teatr_ru/ne_stalo_klaudii_kardinale
 https://egaxegax.github.io/index.html?kino-teatr_ru/ne_stalo_kompozitora_sekretnyh_materialov_marka_snou
 https://egaxegax.github.io/index.html?kino-teatr_ru/ne_stalo_olega_strijenova
 https://egaxegax.github.io/index.html?kino-teatr_ru/ne_stalo_scenarista_filmov_avariya_doch_menta_i_strana_gluhih_juriya_korotkova
@@ -3890,6 +3883,7 @@ https://egaxegax.github.io/index.html?mir_videoigr/wow_mario_forever_nds_rom_hac
 https://egaxegax.github.io/index.html?mir_videoigr/zero_tolerance_underground_-_tajna_otmenennoj_igry_na_sega
 https://egaxegax.github.io/index.html?moskovskij_komsomolec
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/250918_1600
+https://egaxegax.github.io/index.html?moskovskij_komsomolec/250924_2000
 https://egaxegax.github.io/index.html?opasnye_puteshestviya
 https://egaxegax.github.io/index.html?opasnye_puteshestviya/30_km_pod_zemlej_-_put_vody_-_vmesto_uroka_istorii
 https://egaxegax.github.io/index.html?opasnye_puteshestviya/8_bezumnyh_eksperimentov_pri_-55c_samyj_holodnyj_gorod_v_mire_yakutsk
@@ -4380,6 +4374,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/burger_s_kotletoj_v_perce
 https://egaxegax.github.io/index.html?povarenok_ru/buterbrod_hot-dog_s_holodnym_kofe
 https://egaxegax.github.io/index.html?povarenok_ru/buterbrody_gribochki
 https://egaxegax.github.io/index.html?povarenok_ru/bystraya_skovoroda_a-lya_lazanya
+https://egaxegax.github.io/index.html?povarenok_ru/bystryj_zavtrak_s_bananom_i_yajcom
 https://egaxegax.github.io/index.html?povarenok_ru/celnozernovye_lukovye_lepeshki
 https://egaxegax.github.io/index.html?povarenok_ru/chahohbili_iz_indejki_s_myatoj
 https://egaxegax.github.io/index.html?povarenok_ru/chebureki_iz_indejki_v_risovoj_bumage
@@ -4498,6 +4493,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/kotlety_iz_duhovki_dietichesk
 https://egaxegax.github.io/index.html?povarenok_ru/kotlety_iz_indejki_s_tvorogom
 https://egaxegax.github.io/index.html?povarenok_ru/kotlety_iz_indejki_s_zelenju
 https://egaxegax.github.io/index.html?povarenok_ru/kotlety_iz_indejki_v_stile_sport-shik
+https://egaxegax.github.io/index.html?povarenok_ru/kotlety_s_rybnym_sousom
 https://egaxegax.github.io/index.html?povarenok_ru/krambl_iz_revenya
 https://egaxegax.github.io/index.html?povarenok_ru/krevetki_po-tajski
 https://egaxegax.github.io/index.html?povarenok_ru/krevetki_s_perechnym_sousom
@@ -4648,6 +4644,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/rechnoj_okun_v_pryano-ostrom_
 https://egaxegax.github.io/index.html?povarenok_ru/risovaya_zapekanka_iz_cukkini_i_kukuruzy
 https://egaxegax.github.io/index.html?povarenok_ru/risovyj_puding_s_grushej
 https://egaxegax.github.io/index.html?povarenok_ru/risovyj_puding_s_koricej_i_chernikoj
+https://egaxegax.github.io/index.html?povarenok_ru/rizotto_v_kokosovo-svekolnom_souse
 https://egaxegax.github.io/index.html?povarenok_ru/rojki-pirojki_s_indejkoj
 https://egaxegax.github.io/index.html?povarenok_ru/rolly_cvetok
 https://egaxegax.github.io/index.html?povarenok_ru/ruladin_iz_indejki_pod_brusnichnym_sousom
@@ -4788,6 +4785,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/tvorojnaya_pasha_s_klubnichny
 https://egaxegax.github.io/index.html?povarenok_ru/tvorojnaya_pasha_tri_shokolada
 https://egaxegax.github.io/index.html?povarenok_ru/tvorojno-ejevichnyj_smuzi
 https://egaxegax.github.io/index.html?povarenok_ru/tvorojno-shokoladnye_bulochki
+https://egaxegax.github.io/index.html?povarenok_ru/tvorojno-shokoladnyj_keks_s_alychoj
 https://egaxegax.github.io/index.html?povarenok_ru/tvorojnoe_pechene_s_vinogradom_kishmish
 https://egaxegax.github.io/index.html?povarenok_ru/tvorojnye_bulochki_s_myatoj
 https://egaxegax.github.io/index.html?povarenok_ru/tvorojnyj_desert_s_klubnikoj
@@ -5038,6 +5036,7 @@ https://egaxegax.github.io/index.html?rabota/glavnaya_oshibka_nachinajushchih_he
 https://egaxegax.github.io/index.html?rabota/god_kotoryj_polnostju_izmenil_moju_jizn_v_emigracii_podvoju_itogi_2024
 https://egaxegax.github.io/index.html?rabota/god_raboty_hendimenom_kak_nachat_sovety_i_vyvody
 https://egaxegax.github.io/index.html?rabota/gryaznaya_rabota_v_ssha_-_na_chto_ya_promenyal_prestijnuju_v_rossii_hendimen
+https://egaxegax.github.io/index.html?rabota/handyman_v_ssha_skolko_brat_za_vyezd_minimalka_2_chasa_vajnyj_urok_dlya_novichkov
 https://egaxegax.github.io/index.html?rabota/hendimen_izi_400_handyman_hendimenvssha_rabotavssha
 https://egaxegax.github.io/index.html?rabota/hendimen_v_chikago_na_kakoj_zarabotok_rasschityvat_migrant_so_lvova_u_kotorogo_poluchilos
 https://egaxegax.github.io/index.html?rabota/hendimen_v_ssha_-_luchshaya_rabota_dlya_migrantov_v_2025_hendimen_rabotavssha
@@ -5508,6 +5507,7 @@ https://egaxegax.github.io/index.html?rambler/250920_0600
 https://egaxegax.github.io/index.html?rambler/250921_0600
 https://egaxegax.github.io/index.html?rambler/250922_0600
 https://egaxegax.github.io/index.html?rambler/250923_0600
+https://egaxegax.github.io/index.html?rambler/250924_0600
 https://egaxegax.github.io/index.html?retro-igry_na_pk
 https://egaxegax.github.io/index.html?retro-igry_na_pk/8-bit_commando
 https://egaxegax.github.io/index.html?retro-igry_na_pk/arkadnyj_emulyator_mame
@@ -5774,6 +5774,7 @@ https://egaxegax.github.io/index.html?ria/250918_2000
 https://egaxegax.github.io/index.html?ria/250920_2000
 https://egaxegax.github.io/index.html?ria/250921_2000
 https://egaxegax.github.io/index.html?ria/250922_2000
+https://egaxegax.github.io/index.html?ria/250923_2000
 https://egaxegax.github.io/index.html?rok
 https://egaxegax.github.io/index.html?rok/24_7_christmas_ambience_fireplace_merry_christmas_2025
 https://egaxegax.github.io/index.html?rok/28_11_2013_-_korol_i_shut_minsk_dvorec_sporta
@@ -5864,6 +5865,7 @@ https://egaxegax.github.io/index.html?rok/creedence_clearwater_revival_greatest_
 https://egaxegax.github.io/index.html?rok/creedence_clearwater_revival_greatest_hits_the_best_of_creedence_clearwater_revival_full_album
 https://egaxegax.github.io/index.html?rok/den_pamyati_mihaila_gorsheneva_19_07_2014
 https://egaxegax.github.io/index.html?rok/eric_clapton_rod_stewart_lionel_richie_phil_collins_bee_gees_-_soft_rock_ballads_70s_80s_90s
+https://egaxegax.github.io/index.html?rok/golden_age_of_rock_70s_80s_rock_classics
 https://egaxegax.github.io/index.html?rok/greatest_classic_rock_anthemstop_100_hits_of_the_80s_90s_pink_floyd_the_beatles_queen_ac_dc
 https://egaxegax.github.io/index.html?rok/greatest_classic_rock_hits_of_the_70s_80s_90s_nirvana_led_zeppelin_bon_jovi_aerosmith_u2_acdc
 https://egaxegax.github.io/index.html?rok/greatest_hits_70s_80s_90s_slow_rock_medley_bonjovi_led_zeppelin_guns_n_roses_aerosmith
@@ -6012,6 +6014,21 @@ https://egaxegax.github.io/index.html?rukovodstva/kontakty
 https://egaxegax.github.io/index.html?rukovodstva/opisanie_razmetki_markdown
 https://egaxegax.github.io/index.html?rukovodstva/vosstanovlenie_sistemy_ohlajdeniya_noutbuka_hp_g62-11er
 https://egaxegax.github.io/index.html?rukovodstva/zamena_hdd_na_ssd_na_noutbuke
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/gdal_translate_i_gdalwarp_dlya_pereproicirovaniya_izobrajenij
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/ideya_sozdaniya_proekta
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/karta_moskovskogo_metro_na_canvas
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/karta_moskovskogo_metro_svg-versiya
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/karty_i_google_maps
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/opisanie_i_primery
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/pereschet_izobrajenij_pod_raznye_kartograficheskie_proekcii_v_webgl
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/razrabotka_staticheskogo_sajta_dlya_blogov
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/shema_prigorodnogo_dvijeniya_jd_soobshcheniya_moskvy_i_mo
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/sozdanie_staticheskogo_sajta_dlya_blogov
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/zametki_otzyvy_plany_proekta_karty_dbcartajs
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/zvezdnoe_nebo_na_canvas
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/zvezdnoe_nebo_na_canvas_sozvezdiya
+https://egaxegax.github.io/index.html?sajt_dlya_blogov_i_kart/zvezdnoe_nebo_na_webgl_s_ispolzovaniem_three_js
 https://egaxegax.github.io/index.html?samouchitel_igry_na_gitare
 https://egaxegax.github.io/index.html?samouchitel_igry_na_gitare/akkordy
 https://egaxegax.github.io/index.html?samouchitel_igry_na_gitare/azy_obucheniya_igre_na_gitare
@@ -6317,6 +6334,7 @@ https://egaxegax.github.io/index.html?sports/250920_0800
 https://egaxegax.github.io/index.html?sports/250921_0800
 https://egaxegax.github.io/index.html?sports/250922_0800
 https://egaxegax.github.io/index.html?sports/250923_0800
+https://egaxegax.github.io/index.html?sports/250924_0800
 https://egaxegax.github.io/index.html?staraya_evropa
 https://egaxegax.github.io/index.html?staraya_evropa/brjugge
 https://egaxegax.github.io/index.html?staraya_evropa/cjurih
@@ -6373,6 +6391,7 @@ https://egaxegax.github.io/index.html?tajny/dveri_dlya_velikanov_tajna_drevnih_b
 https://egaxegax.github.io/index.html?tajny/effekt_mandely_kogda_gruppy_ljudej_odinakovo_pomnyat_veshchi_kotorye_na_samom_dele_ne_proishodili
 https://egaxegax.github.io/index.html?tajny/ekzoskelet_zemli
 https://egaxegax.github.io/index.html?tajny/elektrichestvo_v_18_veke_skandalnye_dokazatelstva_alternativnoj_istorii
+https://egaxegax.github.io/index.html?tajny/elita_v_panike_stroit_podzemnyj_bunker_na_fone_priblijeniya_3i_atlas_i_gigantskogo_nlo_swan
 https://egaxegax.github.io/index.html?tajny/eti_kadry_ne_doljny_byli_popast_v_efir_nasa
 https://egaxegax.github.io/index.html?tajny/etot_snimok_3i_atlas_vyzval_slishkom_mnogo_voprosov
 https://egaxegax.github.io/index.html?tajny/galakticheskaya_karta_vozrastom_600_let_dokazatelstvo_kontakta_s_prishelcami
