@@ -17,6 +17,7 @@ https://egax.ru/index.html?che_po_futbolu/che-2020_finalnyj_raund
 https://egax.ru/index.html?che_po_futbolu/che-2020_gruppovoj_turnir
 https://egax.ru/index.html?chempionat
 https://egax.ru/index.html?chempionat/250919_1400
+https://egax.ru/index.html?chempionat/250925_0800
 https://egax.ru/index.html?chm_po_futbolu
 https://egax.ru/index.html?chm_po_futbolu/chm-1990_gruppovoj_etap
 https://egax.ru/index.html?chm_po_futbolu/chm-1990_plej-off
@@ -333,6 +334,7 @@ https://egax.ru/index.html?dzen/jeleznaya_ledi_indii_o_jizni_indiry_gandi_kotora
 https://egax.ru/index.html?dzen/jenshchiny_semejstva_menners_ekscentrichnye_sestrichki_i_ih_trudoljubivaya_mat
 https://egax.ru/index.html?dzen/jigulevskoe_kak_pili_i_varili_pivo_v_sssr_i_pochemu_segodnya_vkus_uje_ne_tot
 https://egax.ru/index.html?dzen/jiguli_uazy_i_volgi_s_dizelnymi_motorami_chto_poshlo_ne_tak
+https://egax.ru/index.html?dzen/jit_v_bashne_kak_jitel_tomska_sdelal_sebe_12_let_nazad_dom_kakogo_ni_u_kogo_net
 https://egax.ru/index.html?dzen/jizn_kak_retro_devushka_iz_obninska_obezdila_rossiju_na_70-letnej_pobede
 https://egax.ru/index.html?dzen/jizn_po-amerikanski_chem_otlichaetsya_jile_v_ssha
 https://egax.ru/index.html?dzen/jizn_po-bolgarski_chem_otlichajutsya_bolgarskie_kvartiry
@@ -440,6 +442,7 @@ https://egax.ru/index.html?dzen/kakoj_povorotnik_vkljuchat_pri_vezde_na_kolco_st
 https://egax.ru/index.html?dzen/kakoj_smartfon_kupit_do_10_20_30_i_40_tysyach_optimalnyj_vybor
 https://egax.ru/index.html?dzen/kakovo_jit_na_ploskoj_zemle
 https://egax.ru/index.html?dzen/kakuju_formu_imeet_zemlya_v_dejstvitelnosti_forma_zemli_bez_morej_i_okeanov
+https://egax.ru/index.html?dzen/kakuju_formu_imeet_zemlya_v_dejstvitelnosti_forma_zemli_bez_ucheta_morej_i_okeanov
 https://egax.ru/index.html?dzen/kakuju_glavnuju_oshibku_pri_zamene_svechej_zajiganiya_sovershajut_avtovladelcy
 https://egax.ru/index.html?dzen/karlik_nos_chto_skryvaet_eta_nedetskaya_skazka
 https://egax.ru/index.html?dzen/karmen_dell_orefiche_krasota_i_optimizm_vne_vremeni
@@ -2423,6 +2426,7 @@ https://egax.ru/index.html?kino-teatr_ru/djejn_ostin_isportila_mne_jizn
 https://egax.ru/index.html?kino-teatr_ru/djillian_anderson_stanet_poslednej_devushkoj_v_sleshere_napodobie_horrora_pyatnica_13-e
 https://egax.ru/index.html?kino-teatr_ru/djim_djarmush_zabral_zolotogo_lva_venecianskogo_kinofestivalya
 https://egax.ru/index.html?kino-teatr_ru/djolli_bakalavr_juridicheskih_nauk_3_tizer_na_yazyke_hindi
+https://egax.ru/index.html?kino-teatr_ru/djostary_molchat_trejler_anime_neveroyatnoe_prikljuchenie_djodjo_gonka_stalnoj_shar
 https://egax.ru/index.html?kino-teatr_ru/dlinnonogij_psiho_sobiratel_dush_glavnyj_horror_2024_goda_s_nikolasom_kejdjem_v_roli_manyaka
 https://egax.ru/index.html?kino-teatr_ru/dlya_beshenogo_taksista_polveka_ne_krjuk_pol_shreder_ot_taksista_do_o_kanady
 https://egax.ru/index.html?kino-teatr_ru/dna_net_chernoe_more_klaustrofobicheskaya_drama_s_cvetomuzykoj
@@ -2930,6 +2934,7 @@ https://egax.ru/index.html?kino-teatr_ru/sverhestestvennoe_razlom_vremeni
 https://egax.ru/index.html?kino-teatr_ru/svodish_s_uma
 https://egax.ru/index.html?kino-teatr_ru/svyataya_noch_ohotniki_na_demonov
 https://egax.ru/index.html?kino-teatr_ru/svyataya_noch_ohotniki_na_demonov_trejler_na_korejskom_yazyke
+https://egax.ru/index.html?kino-teatr_ru/syn_plotnika_tizer_2_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/taganrog_cvet_istorii_i_njurnberg_chto_smotret_na_rutube_k_80-letiju_pobedy
 https://egax.ru/index.html?kino-teatr_ru/taganrog_tv-rolik
 https://egax.ru/index.html?kino-teatr_ru/tajny_dvorcovyh_rekonstrukcij_put_janra_dokudrama_ot_vypuskov_novostej_do_filmov_pro_imperatric
@@ -5508,6 +5513,7 @@ https://egax.ru/index.html?rambler/250921_0600
 https://egax.ru/index.html?rambler/250922_0600
 https://egax.ru/index.html?rambler/250923_0600
 https://egax.ru/index.html?rambler/250924_0600
+https://egax.ru/index.html?rambler/250925_0600
 https://egax.ru/index.html?retro-igry_na_pk
 https://egax.ru/index.html?retro-igry_na_pk/8-bit_commando
 https://egax.ru/index.html?retro-igry_na_pk/arkadnyj_emulyator_mame

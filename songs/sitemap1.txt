@@ -11702,6 +11702,7 @@ https://egaxegax.github.io/songs.html?korni/ty_uznaesh_ee
 https://egaxegax.github.io/songs.html?korni/vika
 https://egaxegax.github.io/songs.html?korni/ya_teryaju_korni
 https://egaxegax.github.io/songs.html?korol_i_shut
+https://egaxegax.github.io/songs.html?korol_i_shut/bal_licemerov
 https://egaxegax.github.io/songs.html?korol_i_shut/bednyajka
 https://egaxegax.github.io/songs.html?korol_i_shut/bednyajka_2_variant
 https://egaxegax.github.io/songs.html?korol_i_shut/blujdajut_teni
@@ -11967,6 +11968,7 @@ https://egaxegax.github.io/songs.html?korol_i_shut/zabytye_botinki_3_variant
 https://egaxegax.github.io/songs.html?korol_i_shut/zadira_i_soldat
 https://egaxegax.github.io/songs.html?korol_i_shut/zapret_otca
 https://egaxegax.github.io/songs.html?korol_i_shut/zashchitnik_svinej
+https://egaxegax.github.io/songs.html?korol_i_shut/zaskuchal_korol
 https://egaxegax.github.io/songs.html?korol_i_shut/zlodej_i_shapka
 https://egaxegax.github.io/songs.html?korol_i_shut/zlodej_i_shapka_2_variant
 https://egaxegax.github.io/songs.html?korol_i_shut/zloveshchij_kuzen
@@ -15210,7 +15212,9 @@ https://egaxegax.github.io/songs.html?mongol_shuudan/zvezda
 https://egaxegax.github.io/songs.html?monokini
 https://egaxegax.github.io/songs.html?monokini/do_vctpechi_na_zvezde
 https://egaxegax.github.io/songs.html?moralnyj_kodeks
+https://egaxegax.github.io/songs.html?moralnyj_kodeks/antarktida
 https://egaxegax.github.io/songs.html?moralnyj_kodeks/beloe_zoloto
+https://egaxegax.github.io/songs.html?moralnyj_kodeks/budu_spat
 https://egaxegax.github.io/songs.html?moralnyj_kodeks/nochnoj_kapriz
 https://egaxegax.github.io/songs.html?moralnyj_kodeks/pecnya_o_tebe_i_obo_mne
 https://egaxegax.github.io/songs.html?moralnyj_kodeks/pepvyj_cneg

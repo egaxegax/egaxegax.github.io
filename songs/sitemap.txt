@@ -11702,6 +11702,7 @@ https://egax.ru/songs.html?korni/ty_uznaesh_ee
 https://egax.ru/songs.html?korni/vika
 https://egax.ru/songs.html?korni/ya_teryaju_korni
 https://egax.ru/songs.html?korol_i_shut
+https://egax.ru/songs.html?korol_i_shut/bal_licemerov
 https://egax.ru/songs.html?korol_i_shut/bednyajka
 https://egax.ru/songs.html?korol_i_shut/bednyajka_2_variant
 https://egax.ru/songs.html?korol_i_shut/blujdajut_teni
@@ -11967,6 +11968,7 @@ https://egax.ru/songs.html?korol_i_shut/zabytye_botinki_3_variant
 https://egax.ru/songs.html?korol_i_shut/zadira_i_soldat
 https://egax.ru/songs.html?korol_i_shut/zapret_otca
 https://egax.ru/songs.html?korol_i_shut/zashchitnik_svinej
+https://egax.ru/songs.html?korol_i_shut/zaskuchal_korol
 https://egax.ru/songs.html?korol_i_shut/zlodej_i_shapka
 https://egax.ru/songs.html?korol_i_shut/zlodej_i_shapka_2_variant
 https://egax.ru/songs.html?korol_i_shut/zloveshchij_kuzen
@@ -15210,7 +15212,9 @@ https://egax.ru/songs.html?mongol_shuudan/zvezda
 https://egax.ru/songs.html?monokini
 https://egax.ru/songs.html?monokini/do_vctpechi_na_zvezde
 https://egax.ru/songs.html?moralnyj_kodeks
+https://egax.ru/songs.html?moralnyj_kodeks/antarktida
 https://egax.ru/songs.html?moralnyj_kodeks/beloe_zoloto
+https://egax.ru/songs.html?moralnyj_kodeks/budu_spat
 https://egax.ru/songs.html?moralnyj_kodeks/nochnoj_kapriz
 https://egax.ru/songs.html?moralnyj_kodeks/pecnya_o_tebe_i_obo_mne
 https://egax.ru/songs.html?moralnyj_kodeks/pepvyj_cneg
