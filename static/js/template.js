@@ -97,7 +97,7 @@ function actionFind(){
 //
 // return html for find input
 //
-function addFinder(){ return '<input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">&ensp;'; }
+function addFinder(){ return '<a class="nodecor gray" href="/research.html" title="Поиск Яндекс по сайту"><svg class="vmid" width="24" height="24" role="img" xmlns="http://www.w3.org/2000/svg"><path d="M13.32 7.666h-.924c-1.694 0-2.585.858-2.585 2.123 0 1.43.616 2.1 1.881 2.959l1.045.704-3.003 4.487H7.49l2.695-4.014c-1.55-1.111-2.42-2.19-2.42-4.015 0-2.288 1.595-3.85 4.62-3.85h3.003v11.868H13.32V7.666z" fill="currentColor"/></svg> <input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }"></a>&ensp;'; }
 //
 // return loader image html
 //
@@ -113,7 +113,7 @@ function addIClock(){ return '<svg width="15" height="15" role="img" xmlns="http
 //
 // return refresh button svg icon
 //
-function addIRefresh(){ return '<div class="">&#128472;</div>'; }
+function addIRefresh(){ return '<div class="bigger">&#8634;</div>'; }
 //
 // return html for paginator
 //
