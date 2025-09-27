@@ -1384,6 +1384,7 @@ https://egax.ru/index.html?eadaily/250923_1800
 https://egax.ru/index.html?eadaily/250924_1800
 https://egax.ru/index.html?eadaily/250925_1800
 https://egax.ru/index.html?eadaily/250926_1800
+https://egax.ru/index.html?eadaily/250927_1800
 https://egax.ru/index.html?fajtingi
 https://egax.ru/index.html?fajtingi/igra_v_mk-11
 https://egax.ru/index.html?fajtingi/igra_v_mk-11_robocop
@@ -2030,6 +2031,7 @@ https://egax.ru/index.html?habr/sklonnost_nagrajdat_shpiony_core_werewolf_atakov
 https://egax.ru/index.html?habr/smartfon_dlya_detej_hmd_fuse_poluchil_vstroennuju_ii-blokirovku_kontenta_18
 https://egax.ru/index.html?habr/smes_kulinarii_i_iskusstvennogo_intellekta_gotovim_shakshuku_v_novom_vypuske_shou_infobez_so_vkusom
 https://egax.ru/index.html?habr/smi_kompaniya_po_kiberbezopasnosti_gk_solar_prinimaet_uchastie_v_rassledovanii_kiberataki_na_aeroflot
+https://egax.ru/index.html?habr/smi_mosbirja_zaplanirovala_importozamestit_it-infrastrukturu_k_2027_godu
 https://egax.ru/index.html?habr/smi_rosseti_hotyat_postroit_edinuju_magistral_svyazi_za_80_mlrd_rublej
 https://egax.ru/index.html?habr/snapchat_vypuskaet_sponsiruemye_obektivy_s_ii_dlya_brendov
 https://egax.ru/index.html?habr/socset_rossgram_perestala_rabotat_sajt_zakryt_iz_za_neoplaty_hostinga_na_tilda_a_prilojenie_nedostupno
@@ -2052,6 +2054,7 @@ https://egax.ru/index.html?habr/spring_boot_4_i_spring_framework_7_stablevalue_v
 https://egax.ru/index.html?habr/spustya_mesyac_zapuska_sistemy_sertifikacii_it_specialistov_na_gosuslugah_5_tys_polzovatelej_proshli_testy_15_000_raz
 https://egax.ru/index.html?habr/srednij_vozrast_rabotnikov_v_rf_dostig_rekordnyh_42_5_let_za_10_let
 https://egax.ru/index.html?habr/stargate_v_dejstvii_openai_zapustit_krupnejshij_data-centr_v_azii
+https://egax.ru/index.html?habr/startoval_otbor_osobo_znachimyh_proektov_pretendujushchih_na_granty_rfrit
 https://egax.ru/index.html?habr/steam_deck_poluchila_nativnuju_podderjku_geforce_now
 https://egax.ru/index.html?habr/steam_nachal_preduprejdat_o_nizkoj_aktivnosti_razrabotchikov_proektov_v_rannem_dostupe
 https://egax.ru/index.html?habr/student_razrabotal_proekt_otkrytogo_noutbuka_za_polgoda
@@ -2219,6 +2222,7 @@ https://egax.ru/index.html?habr/yandeks_zapustil_svoj_pervyj_darkstor_s_vydelenn
 https://egax.ru/index.html?habr/yandex_b2b_tech_otkryla_dostup_k_krupnejshej_yazykovoj_modeli_qwen3
 https://egax.ru/index.html?habr/yazykovye_modeli_ii_testirujut_na_sposobnost_rassujdat_v_igre_phoenix_wright_ace_attorney
 https://egax.ru/index.html?habr/yelp_predstavlyaet_golosovyh_pomoshchnikov_na_baze_iskusstvennogo_intellekta_dlya_restoranov_i_postavshchikov_uslug
+https://egax.ru/index.html?habr/youtube_music_testiruet_ii-hostov_kotorye_delyatsya_interesnymi_faktami_i_kommentariyami
 https://egax.ru/index.html?habr/za_2024_god_belye_hakery_obnarujili_bolee_6_tys_uyazvimostej_v_rossijskih_it-sistemah
 https://egax.ru/index.html?habr/za_den_do_vyhoda_novoj_versii_chat-bot_grok_ot_ilona_maska_okazalsya_v_centre_skandala
 https://egax.ru/index.html?habr/za_ijun_v_rf_dvukratno_vyroslo_kolichestvo_skachivanij_prilojeniya_apple_music_cherez_google_play
@@ -3948,6 +3952,7 @@ https://egax.ru/index.html?moskovskij_komsomolec/250918_1600
 https://egax.ru/index.html?moskovskij_komsomolec/250924_2000
 https://egax.ru/index.html?moskovskij_komsomolec/250925_2000
 https://egax.ru/index.html?moskovskij_komsomolec/250926_2000
+https://egax.ru/index.html?moskovskij_komsomolec/250927_2000
 https://egax.ru/index.html?opasnye_puteshestviya
 https://egax.ru/index.html?opasnye_puteshestviya/30_km_pod_zemlej_-_put_vody_-_vmesto_uroka_istorii
 https://egax.ru/index.html?opasnye_puteshestviya/8_bezumnyh_eksperimentov_pri_-55c_samyj_holodnyj_gorod_v_mire_yakutsk
