@@ -177,7 +177,7 @@ function addNotFound(){
 //
 // return TITLES filtered by subj/tit + rels links
 //
-function addTitlesRels(pp, subjects, titles, date_filter){
+function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
   var msgs = titles.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0]); }); // filter by subj
   if(!msgs.length) return msgs;
   msgs = [[msgs[0][0],0,'README',0,msgs[0][4]]].concat(msgs); // +README page (all titles)
@@ -187,9 +187,14 @@ function addTitlesRels(pp, subjects, titles, date_filter){
   var rels_root = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[0]!=msgs[0][0]); }).sort(function(a,b){ return arraySort(a[3],b[3]); });
   if(date_filter) rels_subj = rels_subj.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
   if(date_filter) rels_root = rels_root.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
-  msgs = msgs.map(function(tit){ return tit.concat([[
-      rels_subj[rels_subj.length-1], rels_subj[rels_subj.length-2], rels_subj[rels_subj.length-3], rels_root[rels_root.length-1], rels_root[rels_root.length-2]
-    ].map(function(r){ return r ? [ subjects[r[0]][0], r[2], r[1] ] : [] }).filter(function(r){ return r.length>0; }) ]);
+  var more_titles = [];
+  if(tit_filter){
+    more_titles = rels_subj;
+  } else {
+    more_titles = [rels_subj[rels_subj.length-1], rels_subj[rels_subj.length-2], rels_subj[rels_subj.length-3], rels_root[rels_root.length-1], rels_root[rels_root.length-2]];
+  }
+  msgs = msgs.map(function(tit){ 
+    return tit.concat([more_titles.map(function(r){ return r ? [ subjects[r[0]][0], r[2], r[1] ] : [] }).filter(function(r){ return r.length>0; }) ]);
   });
   // console.log(msgs);
   return msgs;
@@ -197,9 +202,9 @@ function addTitlesRels(pp, subjects, titles, date_filter){
 //
 // return html for rels links
 //
-function addTitlesRelsHtml(p, page_html, hdr_text){
+function addTitlesRelsHtml(p, page_html, hdr_text, pid){
   return (p.title[5]||[]).map(function(tit,i){
-    document.getElementById('page_content').innerHTML += 
+    document.getElementById((pid||'page_content')).innerHTML += 
   (document.getElementById('rels_links') ? '' : '<p id="rels_links" class="hspace inlbl" style="font-size:106.25%">'+(hdr_text||'Смотри также:')+'</p><br>')+
   '<div class="msgtext inlbl">'+
     '<em class="hspace">'+tit[0]+'</em><a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+

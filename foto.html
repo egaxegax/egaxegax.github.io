@@ -43,7 +43,7 @@
 
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
-  '<div class="tcell vmid"><h1 id="foto_header">'+'Подборка фоток на разные темы&emsp; <a class="nodecor" href="/fotki.html"><i>Ещё</i></a>'+'</h1></div>'+
+  '<div class="tcell vmid"><h1 id="foto_header">Подборка фоток на разные темы&emsp; <a class="nodecor" href="/fotki.html"><i>Ещё</i></a></h1></div>'+
   '<div class="tcell tright vmid smaller1" style="width:30%">'+
     '<select id="albumlist" style="max-width:80px"></select>&ensp;'+
   '</div>'+
@@ -55,34 +55,40 @@
       updateMetaTag('description', p.title[2]+', '+ p.subj);
       updateMetaTag('keywords', p.title[2]+', '+ p.subj + ', подборки фотографий');
     }
-    document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext tcenter" style="padding:0"><a target="_blank" href="'+p.fullurl+'">'+
-    '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
-  '</a></div>'+
-  '<div id="ya_rtb_'+p.i+'" class="bmarg mw_1 mh_sm"></div>'+
-  '<div class="msgfooter tcenter mw_f nowrap scroll">'+
-    '<table width="99%" class="collapse"><tr>'+
-      '<td width="100px"><div id="vklike'+(p.i)+'"></div></td>'+
-      '<td align="center">'+
-        '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
-          ((window.innerWidth<800 && p.title[2].length>32) ? p.title[2].slice(0,28)+'...' : p.title[2])+
-        '</a>'+
-      '</td>'+
-      '<td width="100px" align="right">'+
-        '<span class="tooltip gray" title="снято '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span>'+
-      '</td>'+
-    '</tr></table>'+
-  '</div>';
-    if(window.VK) if(!VK.IsInit) VK.IsInit = VK.init({ apiId: 4748959, onlyWidgets: true });
-    if(window.VK) if(VK.Widgets) VK.Widgets.Like('vklike'+p.i, {type: 'mini', height: 22});
-    // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', YA_RTB['inimage'], 'inImg');
-    addTitlesRelsHtml(p, 'foto.html', 'Ещё:');
-    if(p.ci && window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_foto', ['картинки, фотки', p.root, p.subj]);
+    document.getElementById(p.id).innerHTML = '';
+    if(p.title[2] == 'README'){
+      document.getElementById(p.id).innerHTML += '<div id="'+p.id+'_readme" class="msgtext readme"></div>';
+      addTitlesRelsHtml(p, 'foto.html', 'Все фотки альбома', p.id+'_readme');
+    } else {
+      document.getElementById(p.id).innerHTML = 
+    '<div class="msgtext tcenter" style="padding:0"><a target="_blank" href="'+p.fullurl+'">'+
+      '<img class="foto" src="'+p.url+'" title="'+p.title[2]+'" alt="">'+
+    '</a></div>'+
+    '<div id="ya_rtb_'+p.i+'" class="bmarg mw_1 mh_sm"></div>'+
+    '<div class="msgfooter tcenter mw_f nowrap scroll">'+
+      '<table width="99%" class="collapse"><tr>'+
+        '<td width="100px"><div id="vklike'+(p.i)+'"></div></td>'+
+        '<td align="center">'+
+          '<a class="nodecor" href="/foto.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
+            ((window.innerWidth<800 && p.title[2].length>32) ? p.title[2].slice(0,28)+'...' : p.title[2])+
+          '</a>'+
+        '</td>'+
+        '<td width="100px" align="right">'+
+          '<span class="tooltip gray" title="снято '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span>'+
+        '</td>'+
+      '</tr></table>'+
+    '</div>';
+      if(window.VK) if(!VK.IsInit) VK.IsInit = VK.init({ apiId: 4748959, onlyWidgets: true });
+      if(window.VK) if(VK.Widgets) VK.Widgets.Like('vklike'+p.i, {type: 'mini', height: 22});
+      // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', YA_RTB['inimage'], 'inImg');
+      if(p.ci && window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_foto', ['картинки, фотки', p.root, p.subj]);
+      addTitlesRelsHtml(p, 'foto.html', 'Ещё:');
+    }
   }
 
-  function addPageContent(roots, subjects, fotos, page, iinit){
+  function addPageContent(roots, subjects, page, iinit){
     PAGE.lock = 1;
-    if(fotos.length == 0){
+    if(page.fotos.length == 0){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -93,7 +99,7 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.titles = fotos.slice(page.bottom, page.top);
+    page.titles = page.fotos.slice(page.bottom, page.top);
     for(var i=0; i<page.titles.length; i++){
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
@@ -104,13 +110,12 @@
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addFoto(p);
-      })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (fotos.length==1), subj: subj, title: page.titles[i], 
-        url: '/foto/'+root+'/'+subj+'/th/'+title+'.jpg',
-        fullurl: '/foto/'+root+'/'+subj+'/'+title+'.jpg'});
+      })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (page.fotos.length==1), subj: subj, title: page.titles[i], 
+        url: '/foto/'+root+'/'+subj+'/th/'+title+'.jpg', fullurl: '/foto/'+root+'/'+subj+'/'+title+'.jpg'});
     }
     if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(fotos, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, FOTOS, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
+      document.getElementById('page_footer').innerHTML = addPaginator(page.fotos, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
@@ -119,52 +124,49 @@
 
   xhr({url: '/foto/index.js?'+(+new Date())}, function(s){
     eval(s);
-    window.PAGE = { 
-      per: 1,                  // blocks 1 page
-      num: urlParams().page||0 // start num page 
-    };
-    window.FOTOS = TITLES;
-    var album = -1;
+    window.PAGE = {};
+    PAGE.per = 1;                    // blocks 1 page
+    PAGE.num =  urlParams().page||0; // start num page
+    PAGE.fotos = TITLES;
+    PAGE.album = -1;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
-        // skip paginate
-        document.title += ' - ' + urlParams().page;
+        document.title += ' - ' + urlParams().page; // skip paginate
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?alb/foto
-        if((FOTOS = addTitlesRels(pp, SUBJ, FOTOS)).length){
-          FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2])==pp[1]); });
-          if(FOTOS.length) document.title = FOTOS[0][2] +', '+ SUBJ[FOTOS[0][0]][0] +' - '+ document.title;
-          SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
-          document.getElementById('foto_header').innerHTML = FOTOS[0][2];
+        if((PAGE.fotos = addTitlesRels(pp, SUBJ, PAGE.fotos, 0, pp[1] == 'readme')).length){
+          PAGE.fotos = PAGE.fotos.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2])==pp[1]); });
+          if(PAGE.fotos.length) document.title = PAGE.fotos[0][2] +', '+ SUBJ[PAGE.fotos[0][0]][0] +' - '+ document.title;
+          SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) PAGE.album = i; });
+          document.getElementById('foto_header').innerHTML = ((pp[1] == 'readme') ? SUBJ[PAGE.album][0] : PAGE.fotos[0][2]) + 
+        '<a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
         }
       }else if(pp.length>0){ // ?alb
-        FOTOS = FOTOS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });
-        if(FOTOS.length) document.title = SUBJ[FOTOS[0][0]][0] + ' - '+ document.title;
-        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) album = i; });
-        if(FOTOS.length){
-          document.getElementById('foto_header').innerHTML = SUBJ[album][0] + ' <i><b>'+FOTOS.length+'</b></i> фото';
+        PAGE.fotos = PAGE.fotos.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });
+        if(PAGE.fotos.length) document.title = SUBJ[PAGE.fotos[0][0]][0] + ' - '+ document.title;
+        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) PAGE.album = i; });
+        if(PAGE.fotos.length){
+          document.getElementById('foto_header').innerHTML = SUBJ[PAGE.album][0] + ' <i><b>'+PAGE.fotos.length+'</b></i> фото'+
+        '<a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
         }
       }
     }
     document.getElementById('albumlist').innerHTML =
-  '<option value="-1"'+(album == -1 ? ' selected ' : '')+'> Все ['+TITLES.length+']</option>';
-    for(var k in SUBJ){
-      var falb = TITLES.filter(function(f){ return (f[0] == k); });
+  '<option value="-1"'+(PAGE.album == -1 ? ' selected ' : '')+'> Все ['+TITLES.length+']</option>';
+    for(var alb in SUBJ){
       document.getElementById('albumlist').innerHTML +=
-    '<option value="'+SUBJ[k][0]+'"'+(k == album ? ' selected ' : '')+'>'+SUBJ[k][0]+' ['+falb.length+']</option>';
+    '<option value="'+SUBJ[alb][0]+'"'+(PAGE.album == alb ? ' selected ' : '')+'>'+SUBJ[alb][0]+' ['+(TITLES.filter(function(f){ return (f[0] == alb); })).length+']</option>';
     }
     document.getElementById('albumlist').onchange = function(){
-      var opt = this.options[this.selectedIndex];
-      window.location = '/foto.html' + (opt.value == '-1' ? '' : '?' + tr(opt.value));
+      window.location = '/foto.html' + (this.options[this.selectedIndex].value == '-1' ? '' : '?' + tr(this.options[this.selectedIndex].value));
     };
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(ROOTS, SUBJ, FOTOS, PAGE, 1);
-      // infinite scroll
-    document.addEventListener('scroll', function() {
+    addPageContent(ROOTS, SUBJ, PAGE, 1);
+    document.addEventListener('scroll', function() { // infinite scroll
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
-        addPageContent(ROOTS, SUBJ, FOTOS, PAGE);
+        addPageContent(ROOTS, SUBJ, PAGE);
       }
     });
   });

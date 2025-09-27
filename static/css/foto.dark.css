@@ -15,6 +15,8 @@ input[type=text], select { background:rgb(114,112,113); color:#fff; }
 #header svg g.active { fill:#f4c430; stroke:#f4c430; }
 #header .yin { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
+/* readme */
+.readme { font-size:93.75%; }
 /*img*/
 .foto { max-height:60vh; }
 /**/

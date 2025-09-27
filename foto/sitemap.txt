@@ -15,6 +15,8 @@ https://egax.ru/foto.html?cerkvi/russa_voskresenskij_sobor_ijul_2009g
 https://egax.ru/foto.html?cerkvi/savinskoe_hram_vasiliya_velikogo
 https://egax.ru/foto.html?cerkvi/tobolsk_abalakskij_monastyr
 https://egax.ru/foto.html?cerkvi/vologda_sofijskij_sobor
+https://egax.ru/foto.html?cerkvi/yaroslavl_cerkov_ili_proroka
+https://egax.ru/foto.html?cerkvi/yaroslavl_cerkov_ioanna_predtechi_v_tolchkove
 https://egax.ru/foto.html?moskva
 https://egax.ru/foto.html?moskva/derevo_s_krasnymi_yagodami_avgust_2025g
 https://egax.ru/foto.html?moskva/hram_hrista_spasitelya_yanvar_2025g
@@ -69,6 +71,7 @@ https://egax.ru/foto.html?priroda/sosny_na_zakate_v_milicejskom_poselke_ijun_202
 https://egax.ru/foto.html?priroda/spelaya_ryabina_v_jujnom_butovo_avgust_2023g
 https://egax.ru/foto.html?priroda/staryj_poezd_v_mihnevo_sentyabr_2019g
 https://egax.ru/foto.html?priroda/utka_v_prudu_v_parke_gorkogo_ijul_2006g
+https://egax.ru/foto.html?priroda/vid_na_jd_dorogu_jilevo_-_yaganovo_sentyabr_2025g
 https://egax.ru/foto.html?priroda/vid_na_jd_stanciju_yaganovo_sentyabr_2023g
 https://egax.ru/foto.html?priroda/vysokaya_sosna_u_obolenska_ijul_2023g
 https://egax.ru/foto.html?raznye
@@ -108,6 +111,7 @@ https://egax.ru/foto/Москва/Ясеневские пруды. Август 
 https://egax.ru/foto/Природа/Ёжик на дороге. Июнь 2022г.jpg
 https://egax.ru/foto/Природа/Бабочка на красном цветке 2. Сентябрь 2018г.jpg
 https://egax.ru/foto/Природа/Большой мухомор. Сентябрь 2017г.jpg
+https://egax.ru/foto/Природа/Вид на жд дорогу Жилёво - Яганово. Сентябрь 2025г.jpg
 https://egax.ru/foto/Природа/Вид на жд станцию Яганово. Сентябрь 2023г.jpg
 https://egax.ru/foto/Природа/Высокая сосна у Оболенска. Июль 2023г.jpg
 https://egax.ru/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
@@ -144,3 +148,5 @@ https://egax.ru/foto/Церкви/Родионово. Ленинградская
 https://egax.ru/foto/Церкви/Русса. Воскресенский собор. Июль 2009г.jpg
 https://egax.ru/foto/Церкви/Савинское. Храм Василия Великого.jpg
 https://egax.ru/foto/Церкви/Тобольск. Абалакский монастырь.jpg
+https://egax.ru/foto/Церкви/Ярославль. Церковь Ильи Пророка.jpg
+https://egax.ru/foto/Церкви/Ярославль. Церковь Иоанна Предтечи в Толчкове.jpg
