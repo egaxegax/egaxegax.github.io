@@ -38,9 +38,9 @@ li::marker { color:green; }
 /* youtube, dzen */
 .yb { margin:5px 0 0 0; line-height:1.3em; }
 .yb a { color:#dedede; }
-.yb .preview { max-width:240px; border-radius:2px; margin:0 10px 5px 0; }
+.yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
 .yb iframe.embed { border:0; border-radius:2px; width:100vw; height:30vw; }
-@media (max-width:800px){ .yb .preview { width:100%; height:100%; } .yb iframe.embed { margin:0 0 0px 0; width:100%; height:calc(100vw / 1.8); } }
+@media (max-width:800px){ .yb .preview { width:100%; height:100%; margin:0; } .yb iframe.embed { margin:0; width:100%; height:calc(100vw / 1.8); } }
 @media (min-width:800px){ .yb div { vertical-align:top; } .yb .text { max-width:480px; } }
 .yb .smaller1 { font-size:100%; }
 .yb .smaller2 { font-size:90%; }

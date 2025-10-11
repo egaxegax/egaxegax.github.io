@@ -1,0 +1,4 @@
+<!--2025-10-03 14:23:47-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/9da/3bb/1bc/9da3bb1bc27767ffbc4194b0d077876f.jpg" /><p>Компания <strong>Salesforce Inc.</strong> <a href="https://venturebeat.com/ai/salesforce-launches-ai-trust-layer-to-tackle-enterprise-deployment-failures" rel="noopener noreferrer nofollow">расширяет</a> свою платформу искусственного интеллекта новыми возможностями управления данными и корпоративного контроля, стремясь решить проблему, которую она называет... <p class="titl"><a href="https://habr.com/ru/companies/technokratos/news/953268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953268">Salesforce запускает инструменты для надежного внедрения ИИ в компаниях и снижения риска провалов проектов</a></p></div>
+</div>

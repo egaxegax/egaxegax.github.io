@@ -113,7 +113,7 @@ function addIClock(){ return '<svg width="15" height="15" role="img" xmlns="http
 //
 // return refresh button svg icon
 //
-function addIRefresh(){ return '<div class="bigger">&#8634;</div>'; }
+function addIRefresh(){ return '<svg width="16" height="16" role="img" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M5.56277 2.51577C3.46372 3.4501 2.00024 5.55414 2.00024 7.99999C2.00024 11.3137 4.68654 14 8.00024 14C11.314 14 14.0002 11.3137 14.0002 7.99999C14.0002 5.32519 12.25 3.05919 9.83224 2.28482L9.52992 3.23832C11.5431 3.88454 13.0002 5.7721 13.0002 7.99999C13.0002 10.7614 10.7617 13 8.00024 13C5.23882 13 3.00024 10.7614 3.00024 7.99999C3.00024 6.31104 3.83766 4.81767 5.11994 3.91245L5.56277 2.51577Z M5.00024 3H2.00024V2H5.50024L6.00024 2.5V6H5.00024V3Z" /></svg>'; }
 //
 // return html for paginator
 //
@@ -207,7 +207,7 @@ function addTitlesRelsHtml(p, page_html, hdr_text, pid){
     document.getElementById((pid||'page_content')).innerHTML += 
   (document.getElementById('rels_links') ? '' : '<p id="rels_links" class="hspace inlbl" style="font-size:106.25%">'+(hdr_text||'Смотри также:')+'</p><br>')+
   '<div class="msgtext inlbl">'+
-    '<em class="hspace">'+tit[0]+'</em><a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
+    '<em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
   '</div><br>';
   });
 }
