@@ -11,9 +11,9 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Список жанров книг / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250817">
+<link rel="stylesheet" href="/static/css/main.css?251012">
 <link rel="stylesheet" href="/static/css/books.dark.css?250816">
-<script src="/static/js/template.js?250926"></script>
+<script src="/static/js/template.js?251012"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -54,8 +54,8 @@
     var tmpl = 
   '<table class="msgtext" width="100%"><tr>'+
     '<td width="80%" class="hspaced" valign="center">'+
-      '<a class="nodecor dark" href="/books.html?'+tr(gnr[0])+'">'+(GENRES_RU[gnr[0]]||gnr[0])+
-      ' / <i class="smaller gray">'+gnr[0]+'</i></a>'+
+      '<a class="nodecor dark" href="/books.html?'+tr(gnr[0])+'"><em class="smaller gray">'+gnr[0]+' / </em> '+
+        (GENRES_RU[gnr[0]]||gnr[0])+'</a>'+
     '</td>'+
     '<td valign="center"><b><i>'+gnr[1]+'</i></b></td>'+
     '<td valign="center" align="right"><i class="light small">'+i+'</i></td>'+
@@ -115,7 +115,7 @@
     document.getElementById('page_header').innerHTML = 
   '<div class="table">'+
     '<div class="tcell vmid"><h1>'+pheader+'</h1>'+'</div>'+
-    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
   '</div>';
     GNRS = GNRS.slice().sort(function(a,b){ return arraySort(GENRES_RU[a[0]]||a[0],GENRES_RU[b[0]]||b[0]); });
     document.getElementById('page_content').innerHTML = '';

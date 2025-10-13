@@ -11,9 +11,9 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Книги / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250817">
+<link rel="stylesheet" href="/static/css/main.css?251012">
 <link rel="stylesheet" href="/static/css/books.dark.css?250915">
-<script src="/static/js/template.js?250926"></script>
+<script src="/static/js/template.js?251012"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -154,7 +154,7 @@
       '<a class="nodecor" href="/bwrts.html"><i>Авторам</i></a>&nbsp; '+
       '<a class="nodecor" href="/bgenres.html"><i>Жанрам</i></a></h1>'+
     '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
+    '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
   '</div>';
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -171,7 +171,7 @@
           page_header = 
         '<div class="table">'+
           '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+BOOKS.length+')</i></div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
         }
@@ -187,7 +187,7 @@
             '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
             '<h1>'+BOOKS[0][2]+'</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
         '</div>';
           document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
           // BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
@@ -211,7 +211,7 @@
               '<i class="hspaced gray"> ('+ BOOKS.length+')</i>'+
             '</h1>'+
           '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:30%">'+addFinder("books")+'</div>'+
+          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
         '</div>';
           if(gnr.length>0){
             document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;

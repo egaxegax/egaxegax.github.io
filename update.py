@@ -148,8 +148,13 @@ def main(path='.'):
       murls[iroot] += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
     print( i )
 
-  io.open(path + '/index.js', 'w', encoding='utf-8', newline='\n').write(compact('ROOTS=' + json.dumps(mroots, indent=0, ensure_ascii=0) + ';\n'))
-  io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj, indent=0, ensure_ascii=0) + ';\n'))
+  mroots_s = sorted(mroots)
+  msubj_s = sorted(msubj)
+  mtitles = [[msubj_s.index(msubj[titl[0]]), titl[1], titl[2], titl[3], mroots_s.index(mroots[titl[4]])] for titl in mtitles]
+  msubj_s = [[subj[0], subj[1], subj[2], mroots_s.index(mroots[subj[3]])] for subj in msubj_s]
+
+  io.open(path + '/index.js', 'w', encoding='utf-8', newline='\n').write(compact('ROOTS=' + json.dumps(mroots_s, indent=0, ensure_ascii=0) + ';\n'))
+  io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj_s, indent=0, ensure_ascii=0) + ';\n'))
   io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
 
   if murls:

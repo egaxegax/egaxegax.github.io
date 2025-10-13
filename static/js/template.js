@@ -97,7 +97,7 @@ function actionFind(){
 //
 // return html for find input
 //
-function addFinder(){ return '<a class="nodecor gray" href="/research.html" title="Поиск Яндекс по сайту"><svg class="vmid" width="24" height="24" role="img" xmlns="http://www.w3.org/2000/svg"><path d="M13.32 7.666h-.924c-1.694 0-2.585.858-2.585 2.123 0 1.43.616 2.1 1.881 2.959l1.045.704-3.003 4.487H7.49l2.695-4.014c-1.55-1.111-2.42-2.19-2.42-4.015 0-2.288 1.595-3.85 4.62-3.85h3.003v11.868H13.32V7.666z" fill="currentColor"/></svg></a> <input id="tfind" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }">&ensp;'; }
+function addFinder(){ return '<div class="nowrap"><a class="nodecor gray" href="/research.html" title="Поиск Яндекс по сайту"><svg class="vmid" width="24" height="24" role="img" xmlns="http://www.w3.org/2000/svg"><path d="M13.32 7.666h-.924c-1.694 0-2.585.858-2.585 2.123 0 1.43.616 2.1 1.881 2.959l1.045.704-3.003 4.487H7.49l2.695-4.014c-1.55-1.111-2.42-2.19-2.42-4.015 0-2.288 1.595-3.85 4.62-3.85h3.003v11.868H13.32V7.666z" fill="currentColor"/></svg></a><input id="tfind" class="hmarg" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }"></div>'; }
 //
 // return loader image html
 //
@@ -205,7 +205,7 @@ function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
 function addTitlesRelsHtml(p, page_html, hdr_text, pid){
   return (p.title[5]||[]).map(function(tit,i){
     document.getElementById((pid||'page_content')).innerHTML += 
-  (document.getElementById('rels_links') ? '' : '<p id="rels_links" class="hspace inlbl" style="font-size:106.25%">'+(hdr_text||'Смотри также:')+'</p><br>')+
+  (document.getElementById('rels_links') ? '' : ('<p id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</p><br>'))+
   '<div class="msgtext inlbl">'+
     '<em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
   '</div><br>';

@@ -16,9 +16,10 @@ input[type=text], select { background:rgb(114,112,113); color:#fff; }
 #header .yin { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
 /* readme */
-.readme { font-size:93.75%; }
+/* .readme { font-size:93.75%; } */
 /*img*/
-.foto { max-height:60vh; }
+@media (min-width:800px){ .foto { max-height:65vh; } }
+@media (max-width:800px){ .foto { max-height:45vh; } }
 /**/
 .mh_sm { max-height:100px; }
 .mw_1 { max-width:530px; }

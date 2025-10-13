@@ -20,6 +20,7 @@ https://egaxegax.github.io/foto.html?cerkvi/yaroslavl_cerkov_ioanna_predtechi_v_
 https://egaxegax.github.io/foto.html?moskva
 https://egaxegax.github.io/foto.html?moskva/derevo_s_krasnymi_yagodami_avgust_2025g
 https://egaxegax.github.io/foto.html?moskva/hram_hrista_spasitelya_yanvar_2025g
+https://egaxegax.github.io/foto.html?moskva/jeltaya_mashina_i_jeltye_listya_sentyabr_25g
 https://egaxegax.github.io/foto.html?moskva/kater_na_moskve-reke_yanvar_2025g
 https://egaxegax.github.io/foto.html?moskva/kirovogradskie_prudy
 https://egaxegax.github.io/foto.html?moskva/krasivaya_alleya_v_oktyabre_oktyabr_2021g
@@ -49,6 +50,7 @@ https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_v_storonu_ce
 https://egaxegax.github.io/foto.html?moskva/vid_na_zaharinskij_prud_v_storonu_cerkvi_sentyabr_2023g
 https://egaxegax.github.io/foto.html?moskva/yasenevskie_prudy_avgust_2017g
 https://egaxegax.github.io/foto.html?moskva/zabroshennyj_dom_v_jujnom_kvartale_ijun_2025g
+https://egaxegax.github.io/foto.html?moskva/zabroshennyj_dom_v_jujnom_kvartale_sentyabr_25g
 https://egaxegax.github.io/foto.html?moskva/zimnij_zakat_v_ju_butovo_fevral_2023g
 https://egaxegax.github.io/foto.html?priroda
 https://egaxegax.github.io/foto.html?priroda/babochka_na_krasnom_cvetke_2_sentyabr_2018g
@@ -56,6 +58,7 @@ https://egaxegax.github.io/foto.html?priroda/bolshoj_muhomor_sentyabr_2017g
 https://egaxegax.github.io/foto.html?priroda/cvetochek_sinenkij_ijul_2016g
 https://egaxegax.github.io/foto.html?priroda/cvetok_sinjuha_avgust_2017g
 https://egaxegax.github.io/foto.html?priroda/cvetushchee_derevo_v_milicejskom_poselke_maj_2023g
+https://egaxegax.github.io/foto.html?priroda/drugoj_vid_na_prud_u_stancii_yaganovo_sentyabr_2025g
 https://egaxegax.github.io/foto.html?priroda/ejik_na_doroge_ijun_2022g
 https://egaxegax.github.io/foto.html?priroda/hmuroe_nebo_letom
 https://egaxegax.github.io/foto.html?priroda/krasivoe_derevo_v_parke_gorkogo_ijul_2006g
@@ -73,6 +76,7 @@ https://egaxegax.github.io/foto.html?priroda/staryj_poezd_v_mihnevo_sentyabr_201
 https://egaxegax.github.io/foto.html?priroda/utka_v_prudu_v_parke_gorkogo_ijul_2006g
 https://egaxegax.github.io/foto.html?priroda/vid_na_jd_dorogu_jilevo_-_yaganovo_sentyabr_2025g
 https://egaxegax.github.io/foto.html?priroda/vid_na_jd_stanciju_yaganovo_sentyabr_2023g
+https://egaxegax.github.io/foto.html?priroda/vid_na_prud_u_stancii_yaganovo_sentyabr_2025g
 https://egaxegax.github.io/foto.html?priroda/vysokaya_sosna_u_obolenska_ijul_2023g
 https://egaxegax.github.io/foto.html?raznye
 https://egaxegax.github.io/foto.html?raznye/kak_pravilno_zavarivat_chaj
@@ -91,7 +95,9 @@ https://egaxegax.github.io/foto/Москва/Вид на Люблинскую у
 https://egaxegax.github.io/foto/Москва/Вид на Люблинскую улицу. Май 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Вид на парк у Милицейского поселка. Декабрь 2024г.jpg
 https://egaxegax.github.io/foto/Москва/Дерево с красными ягодами. Август 2025г.jpg
+https://egaxegax.github.io/foto/Москва/Жёлтая машина и жёлтые листья. Сентябрь 25г.jpg
 https://egaxegax.github.io/foto/Москва/Заброшенный дом в Южном квартале. Июнь 2025г.jpg
+https://egaxegax.github.io/foto/Москва/Заброшенный дом в Южном квартале. Сентябрь 25г.jpg
 https://egaxegax.github.io/foto/Москва/Зимний закат в Ю.Бутово. Февраль 2023г.jpg
 https://egaxegax.github.io/foto/Москва/Катер на Москве-реке. Январь 2025г.jpg
 https://egaxegax.github.io/foto/Москва/Кировоградские пруды.jpg
@@ -113,7 +119,9 @@ https://egaxegax.github.io/foto/Природа/Бабочка на красно�
 https://egaxegax.github.io/foto/Природа/Большой мухомор. Сентябрь 2017г.jpg
 https://egaxegax.github.io/foto/Природа/Вид на жд дорогу Жилёво - Яганово. Сентябрь 2025г.jpg
 https://egaxegax.github.io/foto/Природа/Вид на жд станцию Яганово. Сентябрь 2023г.jpg
+https://egaxegax.github.io/foto/Природа/Вид на пруд у станции Яганово. Сентябрь 2025г.jpg
 https://egaxegax.github.io/foto/Природа/Высокая сосна у Оболенска. Июль 2023г.jpg
+https://egaxegax.github.io/foto/Природа/Другой вид на пруд у станции Яганово. Сентябрь 2025г.jpg
 https://egaxegax.github.io/foto/Природа/Красивое дерево в Парке Горького. Июль 2006г.jpg
 https://egaxegax.github.io/foto/Природа/Новогодний лес в Милицейском поселке. Январь 2023г.jpg
 https://egaxegax.github.io/foto/Природа/Осенняя береза в Подмосковье. Сентябрь 2023г.jpg

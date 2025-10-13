@@ -19,7 +19,7 @@ li::marker { color:green; }
 #header .yin { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
 /**/
-.readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; font-size:93.75%; }
+.readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; }
 .readme ul li { padding:2px 0; }
 /* football tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}

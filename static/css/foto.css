@@ -15,9 +15,10 @@ input[type=text], select { background:#fff; }
 #header .yin { fill:#fff; stroke:#fff; }
 #page_footer button { background:#91bba1; color:#fff; }
 /* readme */
-.readme { font-size:93.75%; }
+/* .readme { font-size:93.75%; } */
 /*img*/
-.foto { max-height:60vh; }
+@media (min-width:800px){ .foto { max-height:65vh; } }
+@media (max-width:800px){ .foto { max-height:45vh; } }
 /*ads*/
 .mh_sm { max-height:100px; }
 .mw_1 { max-width:530px; }

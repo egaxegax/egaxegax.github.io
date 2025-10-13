@@ -11,9 +11,9 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Фотки / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?250817">
-<link rel="stylesheet" href="/static/css/foto.dark.css?250817">
-<script src="/static/js/template.js?250926"></script>
+<link rel="stylesheet" href="/static/css/main.css?251012">
+<link rel="stylesheet" href="/static/css/foto.dark.css?251012">
+<script src="/static/js/template.js?251012"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -44,7 +44,7 @@
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
   '<div class="tcell vmid"><h1 id="foto_header">'+'Подборка фоток на разные темы&emsp; <a class="nodecor" href="/foto.html"><i>Другие</i></a>'+'</h1></div>'+
-  '<div class="tcell tright vmid smaller1" style="width:30%">'+
+  '<div class="tcell tright vmid smaller1" style="width:100px">'+
     '<select id="albumlist" style="max-width:80px"></select>&ensp;'+
   '</div>'+
 '</div>';
@@ -74,7 +74,7 @@
     if(window.VK) if(!VK.IsInit) VK.IsInit = VK.init({ apiId: 4748959, onlyWidgets: true });
     if(window.VK) if(VK.Widgets) VK.Widgets.Like('vklike'+p.i, {type: 'mini', height: 22});
     // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', YA_RTB['inimage'], 'inImg');
-    addTitlesRelsHtml(p, 'fotki.html', 'Ещё:');
+    addTitlesRelsHtml(p, 'fotki.html');
     if(p.ci && window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_foto', ['картинки, фотки', p.root, p.subj]);
   }
 
