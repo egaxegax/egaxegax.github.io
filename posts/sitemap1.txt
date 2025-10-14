@@ -35,6 +35,7 @@ https://egaxegax.github.io/index.html?chempionat/251009_0800
 https://egaxegax.github.io/index.html?chempionat/251010_0800
 https://egaxegax.github.io/index.html?chempionat/251011_0800
 https://egaxegax.github.io/index.html?chempionat/251012_0800
+https://egaxegax.github.io/index.html?chempionat/251013_0800
 https://egaxegax.github.io/index.html?chm_po_futbolu
 https://egaxegax.github.io/index.html?chm_po_futbolu/chm-1990_gruppovoj_etap
 https://egaxegax.github.io/index.html?chm_po_futbolu/chm-1990_plej-off
@@ -1439,6 +1440,7 @@ https://egaxegax.github.io/index.html?eadaily/251009_1800
 https://egaxegax.github.io/index.html?eadaily/251010_1800
 https://egaxegax.github.io/index.html?eadaily/251011_1800
 https://egaxegax.github.io/index.html?eadaily/251012_1800
+https://egaxegax.github.io/index.html?eadaily/251013_1800
 https://egaxegax.github.io/index.html?fajtingi
 https://egaxegax.github.io/index.html?fajtingi/igra_v_mk-11
 https://egaxegax.github.io/index.html?fajtingi/igra_v_mk-11_robocop
@@ -1468,6 +1470,7 @@ https://egaxegax.github.io/index.html?finecooking_ru/domashnij_hleb_s_krapivoj_v
 https://egaxegax.github.io/index.html?finecooking_ru/forel_na_paru
 https://egaxegax.github.io/index.html?finecooking_ru/funchoza_s_krevetkami_i_ovoshchami_v_soevom_souse
 https://egaxegax.github.io/index.html?finecooking_ru/gubana_prazdnichnyj_drojjevoj_pirog_s_orehami_i_izjumom
+https://egaxegax.github.io/index.html?finecooking_ru/hrustyashchie_jarenye_krevetki_v_panirovke_vo_fritjure
 https://egaxegax.github.io/index.html?finecooking_ru/hrustyashchie_marinovannye_ogurcy_s_limonnoj_kislotoj_bez_uksusa_na_zimu
 https://egaxegax.github.io/index.html?finecooking_ru/jarenaya_kartoshka_s_lisichkami_i_lukom_na_skovorode
 https://egaxegax.github.io/index.html?finecooking_ru/jarenye_lisichki_i_lukom_na_skovorode
@@ -1659,6 +1662,7 @@ https://egaxegax.github.io/index.html?habr/generaciya_zvukov_po_tekstu_elevenlab
 https://egaxegax.github.io/index.html?habr/generalnyj_direktor_x_anonsirovala_na_2025_god_zapusk_platejnoj_sistemy_x_money
 https://egaxegax.github.io/index.html?habr/getty_images_i_shutterstock_obedinyajutsya_v_odin_krupnyj_fotobank
 https://egaxegax.github.io/index.html?habr/gigabyte_predstavila_ultrakompaktnye_mini-pc_brix_na_baze_core_ultra_225h_i_255h
+https://egaxegax.github.io/index.html?habr/github_jdet_perezagruzka_microsoft_vystraivaet_novuju_strategiju_protiv_ai-konkurentov_business_insider
 https://egaxegax.github.io/index.html?habr/github_zapuskaet_panel_agentov_upravlenie_zadachami_pryamo_na_github_com
 https://egaxegax.github.io/index.html?habr/github_zapustil_publichnoe_prevju_gpt-5-codex_dlya_copilot
 https://egaxegax.github.io/index.html?habr/glava_nintendo_posovetoval_detyam_u_kotoryh_net_deneg_na_switch_2_znakomitsya_s_geroyami_igr_cherez_drugie_formaty
@@ -1780,6 +1784,7 @@ https://egaxegax.github.io/index.html?habr/keycloak_stal_dostupen_kak_servis_v_a
 https://egaxegax.github.io/index.html?habr/kimi-k2_sledujushchij_etap_razvitiya_iskusstvennogo_intellekta_v_kitae_posle_deepseek
 https://egaxegax.github.io/index.html?habr/kion_vdvoe_uskoril_dostavku_kontenta_dlya_polzovatelej
 https://egaxegax.github.io/index.html?habr/kitaj_kontrabandoj_vvez_chipov_nvidia_na_1_mlrd
+https://egaxegax.github.io/index.html?habr/kitaj_vyhodit_v_lidery_mirovoj_robototehniki
 https://egaxegax.github.io/index.html?habr/kitajcy_nauchilis_prevrashchat_uglekislyj_gaz_v_sahar_minuya_rasteniya
 https://egaxegax.github.io/index.html?habr/kitajskij_hirurg_vpervye_provel_v_rf_operaciju_na_serdce_cherez_internet
 https://egaxegax.github.io/index.html?habr/kljuchevye_vyzovy_promyshlennogo_sektora_i_prioritety_it-rynka_na_2025_2030_gody
@@ -1947,6 +1952,7 @@ https://egaxegax.github.io/index.html?habr/oktava_dm_anonsirovala_vyhod_obnovlen
 https://egaxegax.github.io/index.html?habr/olmo_2_32b_ustanavlivaet_novyj_standart_dlya_modelej_llm_s_otkrytym_ishodnym_kodom
 https://egaxegax.github.io/index.html?habr/oni_doljny_byt_v_ofise_brett_edkok_ne_privez_robotov_na_bloomberg_tech
 https://egaxegax.github.io/index.html?habr/onlyfans_mojet_byt_prodan_za_8_mlrd_a_google_sozdal_pervyj_ii-generator_video_so_zvukom_dajdjest_novostej
+https://egaxegax.github.io/index.html?habr/openai_i_broadcom_vlojat_do_500_mlrd_v_razvertyvanie_gpu_sobstvennoj_razrabotki_ft
 https://egaxegax.github.io/index.html?habr/openai_i_djoni_ajv_obedinilis_dlya_sozdaniya_novogo_ustrojstva_s_ii_chto_eto
 https://egaxegax.github.io/index.html?habr/openai_nanimaet_komandu_startapa_crossing_minds_zanimajushchegosya_rekomendaciyami_na_osnove_ii
 https://egaxegax.github.io/index.html?habr/openai_planiruet_vypustit_gpt-4_5_v_techenie_neskolkih_nedel_podgotavlivaya_pochvu_dlya_gpt-5
@@ -2536,6 +2542,7 @@ https://egaxegax.github.io/index.html?kino-teatr_ru/ballard_trejler_na_anglijsko
 https://egaxegax.github.io/index.html?kino-teatr_ru/belaya_polosa_tv-rolik_2
 https://egaxegax.github.io/index.html?kino-teatr_ru/belaya_polosa_tv-rolik_3
 https://egaxegax.github.io/index.html?kino-teatr_ru/belovejskaya_pushcha_zubr_bublik_i_bolshoj_pobeg
+https://egaxegax.github.io/index.html?kino-teatr_ru/belyj_list_tv-rolik
 https://egaxegax.github.io/index.html?kino-teatr_ru/belyj_lotos_3_sezon_trejler_2_na_anglijskom_yazyke
 https://egaxegax.github.io/index.html?kino-teatr_ru/belyj_parohod
 https://egaxegax.github.io/index.html?kino-teatr_ru/beri_da_pomni_igra_v_kosti
@@ -3239,6 +3246,7 @@ https://egaxegax.github.io/index.html?kino-teatr_ru/vek_uchis_temnyj_dvoreckij_s
 https://egaxegax.github.io/index.html?kino-teatr_ru/verhom_na_zvezde_kak_i_pochemu_vygorel_serial_medved
 https://egaxegax.github.io/index.html?kino-teatr_ru/verni_ee_iz_mertvyh_trejler_2
 https://egaxegax.github.io/index.html?kino-teatr_ru/veteran_studii_ghibli_i_rejisser_hita_van-pis_krasnyj_gotovyat_film_cvetushchaya_zvezda_parija
+https://egaxegax.github.io/index.html?kino-teatr_ru/viktor_dobronravov_vernetsya_k_obrazu_inspektora_gavrilova
 https://egaxegax.github.io/index.html?kino-teatr_ru/vizantiya_sumerki_dlya_malchikov
 https://egaxegax.github.io/index.html?kino-teatr_ru/vladimir_majzinger_i_aleksandra_ursulyak_okajutsya_v_shekspirovskoj_bure
 https://egaxegax.github.io/index.html?kino-teatr_ru/vladimir_pankov_v_lenkome_postavit_spektakl_po_repeticii_orkestra_federiko_fellini
@@ -3302,6 +3310,7 @@ https://egaxegax.github.io/index.html?kino-teatr_ru/zvezda_teatrala_otkryvaet_pr
 https://egaxegax.github.io/index.html?kino-teatr_ru/zvezde_krepkogo_oreshka_brjusu_uillisu_ispolnilos_70_let
 https://egaxegax.github.io/index.html?kino-teatr_ru/zvezdnoe_ditya_3_sezon_tizer_na_yaponskom_yazyke
 https://egaxegax.github.io/index.html?kino-teatr_ru/zvezdnye_vojny_v_korobke_sato_spektakl_o_semejnoj_psihoterapii_v_teatre_nacij
+https://egaxegax.github.io/index.html?kino-teatr_ru/zvezdy_bollivuda_kotoryh_doljen_znat_kajdyj_gid_dlya_nachinajushchih
 https://egaxegax.github.io/index.html?kinoroliki
 https://egaxegax.github.io/index.html?kinoroliki/12_stulev_-_scena_10_10_1971_hd
 https://egaxegax.github.io/index.html?kinoroliki/12_stulev_-_scena_4_10_1971_hd
@@ -4129,6 +4138,7 @@ https://egaxegax.github.io/index.html?moskovskij_komsomolec/251009_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/251010_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/251011_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/251012_2000
+https://egaxegax.github.io/index.html?moskovskij_komsomolec/251013_2000
 https://egaxegax.github.io/index.html?opasnye_puteshestviya
 https://egaxegax.github.io/index.html?opasnye_puteshestviya/30_km_pod_zemlej_-_put_vody_-_vmesto_uroka_istorii
 https://egaxegax.github.io/index.html?opasnye_puteshestviya/8_bezumnyh_eksperimentov_pri_-55c_samyj_holodnyj_gorod_v_mire_yakutsk
@@ -4590,6 +4600,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/alfresko_po-meksikanski
 https://egaxegax.github.io/index.html?povarenok_ru/ananasovyj_keks
 https://egaxegax.github.io/index.html?povarenok_ru/anglijskij_zavarnoj_krem
 https://egaxegax.github.io/index.html?povarenok_ru/anglijskij_zavarnoj_krem_custard
+https://egaxegax.github.io/index.html?povarenok_ru/apelsinovye_sochniki
 https://egaxegax.github.io/index.html?povarenok_ru/appetitnaya_zakuska_iz_kabachkov_i_indejki
 https://egaxegax.github.io/index.html?povarenok_ru/arbuznoe_morojenoe_s_orehovym_napitkom_pp
 https://egaxegax.github.io/index.html?povarenok_ru/avokado-smuzi_po-vetnamski
@@ -4673,6 +4684,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/golen_indejki_s_yablokami_v_f
 https://egaxegax.github.io/index.html?povarenok_ru/goleni_indejki_iz_tandyra
 https://egaxegax.github.io/index.html?povarenok_ru/golubcy_s_indejkoj_zapechennye_v_duhovke
 https://egaxegax.github.io/index.html?povarenok_ru/goryachij_sendvich_s_vetchinoj_i_syrom
+https://egaxegax.github.io/index.html?povarenok_ru/govyadina_tushenaya_nostalgicheskaya
 https://egaxegax.github.io/index.html?povarenok_ru/graten_iz_cukkini_s_salsoj_verde
 https://egaxegax.github.io/index.html?povarenok_ru/grechnevaya_kasha_s_kurinoj_pechenju
 https://egaxegax.github.io/index.html?povarenok_ru/grechnevye_ugolki
@@ -4915,6 +4927,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/rassolnik_po_leningradski
 https://egaxegax.github.io/index.html?povarenok_ru/razdavlennaya_brokkoli_zapechennaya_s_syrom
 https://egaxegax.github.io/index.html?povarenok_ru/rebra_govyaji_s_ovoshchami
 https://egaxegax.github.io/index.html?povarenok_ru/rebra_v_kazane_s_kartofelem_recept_ot_kotorogo_vy_budite_v_vostorge
+https://egaxegax.github.io/index.html?povarenok_ru/recept_domashnej_kolbasy_s_shampinonami
 https://egaxegax.github.io/index.html?povarenok_ru/recept_goryachego_buterbroda
 https://egaxegax.github.io/index.html?povarenok_ru/rechnoj_okun_v_pryano-ostrom_marinade
 https://egaxegax.github.io/index.html?povarenok_ru/risovaya_zapekanka_iz_cukkini_i_kukuruzy
@@ -5001,6 +5014,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/smuzi_dve_svekly_s_seldereem
 https://egaxegax.github.io/index.html?povarenok_ru/smuzi_iz_arbuza_i_vishni
 https://egaxegax.github.io/index.html?povarenok_ru/smuzi_iz_steblej_listovoj_zeleni
 https://egaxegax.github.io/index.html?povarenok_ru/smuzi_izumrud
+https://egaxegax.github.io/index.html?povarenok_ru/smuzi_na_ovsyanom_moloke
 https://egaxegax.github.io/index.html?povarenok_ru/smuzi_s_brokkoli_sushenymi_yablokami_i_myatoj
 https://egaxegax.github.io/index.html?povarenok_ru/smuzi_s_kabachkom_ogurcom_myatoj_konoplej
 https://egaxegax.github.io/index.html?povarenok_ru/smuzi_s_marakujej_klubnikoj_i_rukoloj
@@ -5085,6 +5099,7 @@ https://egaxegax.github.io/index.html?povarenok_ru/uzbekskaya_okroshka_chalop
 https://egaxegax.github.io/index.html?povarenok_ru/vafli_s_yajcom_i_zelenym_lukom
 https://egaxegax.github.io/index.html?povarenok_ru/vanilnyj_keks_s_malinovoj_propitkoj
 https://egaxegax.github.io/index.html?povarenok_ru/varene_iz_abrikosov_celye_plody
+https://egaxegax.github.io/index.html?povarenok_ru/veljute_iz_fasoli_s_gribami
 https://egaxegax.github.io/index.html?povarenok_ru/vengerskij_gulyash_s_vinom
 https://egaxegax.github.io/index.html?povarenok_ru/vishnevyj_sous_k_kupatam_gril
 https://egaxegax.github.io/index.html?povarenok_ru/yablochno-lukovye_tomaty
@@ -5800,6 +5815,7 @@ https://egaxegax.github.io/index.html?rambler/251009_0600
 https://egaxegax.github.io/index.html?rambler/251010_0600
 https://egaxegax.github.io/index.html?rambler/251011_0600
 https://egaxegax.github.io/index.html?rambler/251012_0600
+https://egaxegax.github.io/index.html?rambler/251013_0600
 https://egaxegax.github.io/index.html?retro-igry_na_pk
 https://egaxegax.github.io/index.html?retro-igry_na_pk/8-bit_commando
 https://egaxegax.github.io/index.html?retro-igry_na_pk/arkadnyj_emulyator_mame
@@ -6697,6 +6713,7 @@ https://egaxegax.github.io/index.html?tajny/donald_tramp_i_nikola_tesla_sekrety_
 https://egaxegax.github.io/index.html?tajny/drevnie_tehnologii_antarktidy_v_kollajdere_cerna_neizvestnye_podrobnosti_ekspedicii_admirala_berda
 https://egaxegax.github.io/index.html?tajny/dveri_dlya_velikanov_tajna_drevnih_bronzovyh_vorot_lateranskoj_baziliki
 https://egaxegax.github.io/index.html?tajny/effekt_mandely_kogda_gruppy_ljudej_odinakovo_pomnyat_veshchi_kotorye_na_samom_dele_ne_proishodili
+https://egaxegax.github.io/index.html?tajny/eka_zasekretilo_3i_atlas_avi_leb_predupredil_o_3i_atlas_nlo_razrushil_tkan_mlechnogo_puti_strim
 https://egaxegax.github.io/index.html?tajny/ekzoskelet_zemli
 https://egaxegax.github.io/index.html?tajny/elektrichestvo_v_18_veke_skandalnye_dokazatelstva_alternativnoj_istorii
 https://egaxegax.github.io/index.html?tajny/elita_v_panike_stroit_podzemnyj_bunker_na_fone_priblijeniya_3i_atlas_i_gigantskogo_nlo_swan

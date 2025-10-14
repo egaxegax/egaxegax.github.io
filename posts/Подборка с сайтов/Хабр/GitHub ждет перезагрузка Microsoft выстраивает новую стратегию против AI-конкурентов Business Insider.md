@@ -1,0 +1,4 @@
+<!--2025-10-13 14:47:35-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d73/bdf/67b/d73bdf67b04d3a66f3db0d98b23d286b.png" /><p>Microsoft перестраивает GitHub, чтобы сделать его центром всей разработки на базе искусственного интеллекта. Компания хочет, чтобы инструменты GitHub были доступны везде, где работают разработчики — от командной строки до VS Code и других продуктов Microsoft. По словам Сатьи Наделлы, в мире ИИ «нет разницы между приложением, документом и сайтом», и именно это... <p class="titl"><a href="https://habr.com/ru/companies/technokratos/news/956114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956114">GitHub ждет перезагрузка: Microsoft выстраивает новую стратегию против AI-конкурентов — Business Insider</a></p></div>
+</div>

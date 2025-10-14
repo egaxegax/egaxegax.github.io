@@ -205,7 +205,7 @@ function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
 function addTitlesRelsHtml(p, page_html, hdr_text, pid){
   return (p.title[5]||[]).map(function(tit,i){
     document.getElementById((pid||'page_content')).innerHTML += 
-  (document.getElementById('rels_links') ? '' : ('<p id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</p><br>'))+
+  (document.getElementById('rels_links') ? '' : (hdr_text ? '<p id="rels_links" class="hspace inlbl">'+hdr_text+'</p><br>' : '<br id="rels_links">') )+
   '<div class="msgtext inlbl">'+
     '<em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
   '</div><br>';
