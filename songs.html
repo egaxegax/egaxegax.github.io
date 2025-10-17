@@ -11,7 +11,7 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Аккорды / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?251012">
+<link rel="stylesheet" href="/static/css/main.css?251016">
 <link rel="stylesheet" href="/static/css/songs.dark.css?250915">
 <style>
 .about img { max-width:80px; }
@@ -24,7 +24,7 @@
 .rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/template.js?251014"></script>
+<script src="/static/js/template.js?251015"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -45,15 +45,12 @@
 <div id="ya_rtb_hd" class="mh_hd"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
-<p class="tcenter small gray">
-  Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
-</p>
-<table id="footer"><tr>
-<td align="right" width="30%" id="metrics"></td>
-<td align="center"><p><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a> &copy; 2014-25</p></td>
-<td width="30%" id="metrics1"></td></tr>
-</table>
-</div>
+<div id="footer" class="tcenter"><br>
+<p class="gray">Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством</p>
+<span id="metrics"></span>&emsp;
+<a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a>&ensp;&copy;&ensp;2014-25&emsp;
+<span id="metrics1"></span>
+</div><br>
 <script>
 
   document.getElementById('page_header').innerHTML =
@@ -129,7 +126,7 @@
     '</tr></table>'+
   '</div>';
     addSongChords();
-    addTitlesRelsHtml(p, 'songs.html');
+    addTitlesRelsHtml(p, 'songs.html', '', 'page_content');
     if(window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_songs', ['песни', p.subj]);
   }
   //
@@ -180,6 +177,10 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = songs.slice(page.bottom, page.top);
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(songs, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    }
     for(var i=0; i<page.titles.length; i++){
       var subj = arts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
@@ -197,12 +198,8 @@
         }
       });
     }
-    if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(songs, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
-    }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%5 == 0 || urlParams().page); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%9 == 0 || urlParams().page); });
     return (page.titles.length == 0);
   }
 
@@ -283,7 +280,7 @@
     addPageContent(ROOTS, SUBJ, SONGS, PAGE, 1);
       // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-100){
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
         addPageContent(ROOTS, SUBJ, SONGS, PAGE);
       }
     });

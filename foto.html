@@ -11,9 +11,9 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Фотки / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?251012">
-<link rel="stylesheet" href="/static/css/foto.dark.css?251012">
-<script src="/static/js/template.js?251014"></script>
+<link rel="stylesheet" href="/static/css/main.css?251016">
+<link rel="stylesheet" href="/static/css/foto.dark.css?251016">
+<script src="/static/js/template.js?251015"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -30,14 +30,12 @@
 <div id="ya_rtb_hd" class="mh_hd"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
-<p class="tcenter small gray">
-  Подборка различных фоток, снятых на телефон или взятых из свободных источников.
-</p>
-<table id="footer"><tr>
-<td align="right" width="30%" id="metrics"></td>
-<td align="center"><p><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a> &copy; 2014-25</p></td>
-<td width="30%" id="metrics1"></td></tr>
-</table>
+<div id="footer" class="tcenter"><br>
+<p class="gray">Подборка различных фоток, снятых на телефон или взятых из свободных источников</p>
+<span id="metrics"></span>&emsp;
+<a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a>&ensp;&copy;&ensp;2014-25&emsp;
+<span id="metrics1"></span>
+</div><br>
 </div>
 <script>
 
@@ -82,7 +80,7 @@
       if(window.VK) if(VK.Widgets) VK.Widgets.Like('vklike'+p.i, {type: 'mini', height: 22});
       // if(window.addYaRTB_Block && (p.i == 0)) addYaRTB_Block('', YA_RTB['inimage'], 'inImg');
       if(p.ci && window.addYaRTB_Widget) addYaRTB_Widget('ya_rtb_wid', 'widget_foto', ['картинки, фотки', p.root, p.subj]);
-      addTitlesRelsHtml(p, 'foto.html');
+      addTitlesRelsHtml(p, 'foto.html', '', 'page_content');
     }
   }
 
@@ -100,6 +98,10 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = page.fotos.slice(page.bottom, page.top);
+    if(page.titles.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(page.fotos, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
+    }
     for(var i=0; i<page.titles.length; i++){
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
@@ -113,12 +115,8 @@
       })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (page.fotos.length==1), subj: subj, title: page.titles[i], 
         url: '/foto/'+root+'/'+subj+'/th/'+title+'.jpg', fullurl: '/foto/'+root+'/'+subj+'/'+title+'.jpg'});
     }
-    if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(page.fotos, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
-    }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%6 == 0 || urlParams().page); });
     return (page.titles.length == 0);
   }
 
@@ -165,7 +163,7 @@
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, PAGE, 1);
     document.addEventListener('scroll', function() { // infinite scroll
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
         addPageContent(ROOTS, SUBJ, PAGE);
       }
     });

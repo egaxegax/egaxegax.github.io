@@ -11,9 +11,9 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Список жанров книг / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?251012">
+<link rel="stylesheet" href="/static/css/main.css?251016">
 <link rel="stylesheet" href="/static/css/books.dark.css?250816">
-<script src="/static/js/template.js?251014"></script>
+<script src="/static/js/template.js?251015"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -30,15 +30,12 @@
 <div id="ya_rtb_hd" class="mh_hd"></div>
 <div id="page_content"></div>
 <div id="page_footer"></div>
-<p class="tcenter small gray">
-  Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством.
-</p>
-<table id="footer"><tr>
-<td align="right" width="30%" id="metrics"></td>
-<td align="center"><p><a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a> &copy; 2014-25</p></td>
-<td width="30%" id="metrics1"></td></tr>
-</table>
-</div>
+<div id="footer" class="tcenter"><br>
+<p class="gray">Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством</p>
+<span id="metrics"></span>&emsp;
+<a title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a>&ensp;&copy;&ensp;2014-25&emsp;
+<span id="metrics1"></span>
+</div><br>
 <script>
   var GENRES_RU={
     adv_animal:"Природа и животные",adv_geo:"Путешествия и география",adv_history:"Исторические приключения",adv_indian:"Приключения про индейцев",adv_maritime:"Морские приключения",adventure:"Приключения",antique:"Старинная литература",antique_east:"Древневосточная литература",biogr_leaders:"Биографии",child_adv:"Детские приключения",child_prose:"Детская проза",children:"Детская литература",child_sf:"Детская фантастика",child_tale:"Сказка",city_fantasy:"Городское фэнтези",det_action:"Боевик",det_classic:"Классический детектив",det_crime:"Криминальный детектив",det_espionage:"Шпионский детектив",det_hard:"Крутой детектив",det_history:"Исторический детектив",det_police:"Полицейский детектив",detective:"Детектив",dramaturgy:"Драматургия",economics:"Экономика",fantasy_fight:"Боевое фэнтези",foreign_adventure:"Зарубежные приключения",foreign_contemporary:"Современная зарубежная литература",foreign_detective:"Зарубежные детективы",foreign_fantasy:"Зарубежное фэнтези",foreign_love:"Зарубежные любовные романы",foreign_sf:"Иностранная фантастика",home_cooking:"Домашняя кухня",home_crafts:"Хобби и ремёсла",home_diy:"Сделай сам",home_garden:"Садоводство",home_health:"Здоровое питание",home_pets:"Домашние животные",home_sex:"Эротика, Секс",home_sport:"Спорт, фитнес",humor_prose:"Юмористическая проза",literature_adv:"Приключения",literature_classics:"Классическая литература",literature_drama:"Драма",literature_history:"История",literature_political:"Политика",literature_western:"Вестерн",love_contemporary:"Современные любовные романы",love_detective:"Остросюжетные любовные романы",love_erotica:"Эротика ",love_hard:"Страстная эротика",love_history:"Исторические любовные романы",love_sf:"Любовная фантастика",love_short:"Короткие любовные романы",magician_book:"Магия, волшебство",network_literature:"Сетевая литература",nonf_biography:"Биографии и Мемуары",nonf_publicism:"Непубличная литература",other:"Прочее",poetry:"Поэзия",prose:"Проза",popadanec:"Попаданцы",prose_classic:"Классическая проза",prose_contemporary:"Современная проза",prose_counter:"Контркультура",prose_history:"Историческая проза",prose_military:"Военная проза",prose_rus_classic:"Русская классическая проза",prose_su_classics:"Советская классическая проза",ref_dict:"Словари",ref_encyc:"Энциклопедии",reference:"Справочная литература",religion_esoterics:"Эзотерика",religion_orthodoxy:"Ортодоксальные учения",religion_rel:"Религия",religion_self:"Самосовершенствование",religion:"Религиозная литература",romance_fantasy:"Рыцарское фэнтези",romance_sf:"Рыцарская фантастика",romance:"Рыцарский роман",russian_fantasy:"Русское фэнтези",science:"Наука",sci_cosmos:"Научный космос",sci_culture:"Научная культура",sci_history:"История",sci_linguistic:"Языкознание",sci_philosophy:"Философия",sci_phys:"Научная физика",sci_popular:"Наука для всех",sf_action:"Боевая фантастика",sf_cyberpunk:"Киберпанк",sf_detective:"Детективная фантастика",sf_epic:"Эпическая фантастика",sf_etc:"Разная фантастика",sf_fantasy:"Фэнтези",sf_fantasy_city:"Городское фэнтези",sf_heroic:"Героическая фантастика",sf_history_avant:"Историческая авантюра",sf_history:"Альтернативная история",sf_horror:"Ужасы и Мистика",sf_humor:"Юмористическая фантастика",sf_mystic:"Мистика",sf_social:"Социально-психологическая фантастика",sf_space:"Космическая фантастика",sf:"Научная Фантастика ",thriller:"Триллер",vampire_book:"Вампиры",unrecognised:"Без рубрики"
@@ -77,13 +74,13 @@
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.gnrs = gnrs.slice(page.bottom, page.top);
-    for(var i=0; i<page.gnrs.length; i++){
-      document.getElementById('page_content').innerHTML +=
-    '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.gnrs[i], page.bottom+i+1)+'</div>';
-    }
     if(page.gnrs.length){
       document.getElementById('page_footer').innerHTML = addPaginator(gnrs, page,
     '<button onclick="this.disabled = addPageContent(GNRS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    }
+    for(var i=0; i<page.gnrs.length; i++){
+      document.getElementById('page_content').innerHTML +=
+    '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.gnrs[i], page.bottom+i+1)+'</div>';
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.gnrs.length == 0 || page.num%10 == 0 || urlParams().page); });
@@ -122,7 +119,7 @@
     addPageContent(GNRS, PAGE, 1);
      // infinite scroll
     document.addEventListener('scroll', function() {
-      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight-50){
+      if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
         addPageContent(GNRS, PAGE);
       }
     });
