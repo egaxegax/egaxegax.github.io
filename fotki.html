@@ -108,7 +108,7 @@
         url: title});
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%9 == 0 || urlParams().page); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
     return (page.titles.length == 0);
   }
 
