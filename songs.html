@@ -163,9 +163,9 @@
     }
   }
 
-  function addPageContent(roots, arts, songs, page, iinit){
+  function addPageContent(roots, arts, page, iinit){
     PAGE.lock = 1;
-    if(!songs.length){
+    if(!page.songs.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -176,10 +176,11 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.titles = songs.slice(page.bottom, page.top);
+    page.titles = page.songs.slice(page.bottom, page.top);
     if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(songs, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, SONGS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+      document.title = page.doctitle;
+      document.getElementById('page_footer').innerHTML = addPaginator(page.songs, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     for(var i=0; i<page.titles.length; i++){
       var subj = arts[page.titles[i][0]][0],
@@ -187,7 +188,7 @@
           title = page.titles[i][2];
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      xhr({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: '/songs/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      xhr({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], doctitle: page.doctitle, url: '/songs/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 200) { // skip Not Found pages
@@ -206,82 +207,80 @@
   xhr({url: '/songs/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 5;  // blocks 1 page
+    PAGE.per = 6;  // blocks 1 page
     PAGE.view = 'last';
     PAGE.num = urlParams().page||0; // start num page 
-    window.SONGS = TITLES;
-    var page_header = 
+    PAGE.header = 
   '<div class="table">'+
-    '<div class="tcell vmid"><h1>Текстов <b><i>$COUNT</i></b> от разных&emsp; '+
+    '<div class="tcell vmid"><h1>Текстов <b><i>'+TITLES.length+'</i></b> от разных&emsp; '+
       '<i><a class="nodecor" href="/sarts.html"><i>Авторов</i></a>&nbsp; '+
       '<i><a class="nodecor" href="/index.html?samouchitel_igry_na_gitare"><i>Уроки</i></a>&nbsp; '+
     '</div>'+
     '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
   '</div>';
+    PAGE.songs = TITLES;
+    PAGE.doctitle = document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
-        // skip paginate
-        document.title += ' - ' + urlParams().page;
+        PAGE.doctitle += ' - ' + urlParams().page; // skip paginate
       }else if(p == 'find' && urlParams().find){ // ?find
-        SONGS = SONGS.filter(function(tit){ 
+        PAGE.songs = PAGE.songs.filter(function(tit){ 
           return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                  tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
         });
-        SONGS = SONGS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(SONGS.length){ 
+        PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(PAGE.songs.length){ 
           PAGE.view = 'last';
-          page_header = 
+          PAGE.header = 
         '<div class="table">'+
-          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+SONGS.length+')</i></div>'+
+          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.songs.length+')</i></div>'+
           '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
         '</div>';
-          document.title = SUBJ[SONGS[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
+          document.title = SUBJ[PAGE.songs[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
         }
         PAGE.per = 20;
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?art/song
-        if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
-        if((SONGS = addTitlesRels(pp, SUBJ, SONGS)).length){
+        if((PAGE.songs = addTitlesRels(pp, SUBJ, PAGE.songs)).length){
           PAGE.view = 'song';
-          page_header =
+          PAGE.header =
         '<div class="table">'+
           '<div class="large tcell vmid">'+
-            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a> '+
-            '<h1>'+SONGS[0][2]+'</h1>'+
+            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a> '+
+            '<h1>'+PAGE.songs[0][2]+'</h1>'+
           '</div>'+
           '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
         '</div>';
-          document.title = SUBJ[SONGS[0][0]][0] + ', ' + SONGS[0][2] + ' - ' + document.title;
-//          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
+          PAGE.doctitle = SUBJ[PAGE.songs[0][0]][0] + ' - ' + PAGE.songs[0][2] + ' - ' + document.title;
+//          PAGE.songs = [[PAGE.songs[0][0],PAGE.songs[0][1],'about',0,PAGE.songs[0][4]]].concat(PAGE.songs);  // +about page
         }
       }else if(pp.length>0){ // ?art
-        SONGS = SONGS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by art
-        SONGS = SONGS.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(SONGS.length){ 
+        PAGE.songs = PAGE.songs.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by art
+        PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+        if(PAGE.songs.length){ 
           PAGE.view = 'list';
-          page_header = 
+          PAGE.header = 
         '<div class="table">'+
           '<div class="large tcell vmid">'+
-            '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[SONGS[0][0]][0])+'">'+SUBJ[SONGS[0][0]][0]+'</a>'+
-            '<i class="hspace gray">('+ SONGS.length+')</i></h1>'+
+            '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a>'+
+            '<i class="hspace gray">('+ PAGE.songs.length+')</i></h1>'+
           '</div>'+
           '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
         '</div>';
-          document.title = SUBJ[SONGS[0][0]][0] + ', песни, тексты - ' + document.title;
-          SONGS = [[SONGS[0][0],SONGS[0][1],'about',0,SONGS[0][4]]].concat(SONGS);  // +about page
+          PAGE.doctitle = SUBJ[PAGE.songs[0][0]][0] + ', песни, тексты - ' + document.title;
+          PAGE.songs = [[PAGE.songs[0][0],PAGE.songs[0][1],'about',0,PAGE.songs[0][4]]].concat(PAGE.songs);  // +about page
         }
         PAGE.per = 20;
       }
     }
-    document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
+    document.getElementById('page_header').innerHTML = PAGE.header;
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(ROOTS, SUBJ, SONGS, PAGE, 1);
-      // infinite scroll
-    document.addEventListener('scroll', function() {
+    addPageContent(ROOTS, SUBJ, PAGE, 1);
+    document.addEventListener('scroll', function() { // infinite scroll
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
-        addPageContent(ROOTS, SUBJ, SONGS, PAGE);
+        addPageContent(ROOTS, SUBJ, PAGE);
       }
     });
   });

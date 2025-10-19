@@ -51,8 +51,7 @@
     var tmpl = 
   '<table class="msgtext" width="100%"><tr>'+
     '<td width="80%" class="hspaced" valign="center">'+
-      '<a class="nodecor dark" href="/books.html?'+tr(gnr[0])+'"><em class="smaller gray">'+gnr[0]+' / </em> '+
-        (GENRES_RU[gnr[0]]||gnr[0])+'</a>'+
+      '<a class="nodecor dark" href="/books.html?'+tr(gnr[0])+'">'+(GENRES_RU[gnr[0]]||gnr[0])+'<em class="smaller gray"> / '+gnr[0]+'</em></a>'+
     '</td>'+
     '<td valign="center"><b><i>'+gnr[1]+'</i></b></td>'+
     '<td valign="center" align="right"><i class="light small">'+i+'</i></td>'+
@@ -60,9 +59,9 @@
     return tmpl;
   }
 
-  function addPageContent(gnrs, page, iinit){
+  function addPageContent(page, iinit){
     PAGE.lock = 1;
-    if(!gnrs.length){
+    if(!page.gnrs.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -73,54 +72,53 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.gnrs = gnrs.slice(page.bottom, page.top);
-    if(page.gnrs.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(gnrs, page,
-    '<button onclick="this.disabled = addPageContent(GNRS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    page.genres = page.gnrs.slice(page.bottom, page.top);
+    if(page.genres.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(page.gnrs, page,
+    '<button onclick="this.disabled = addPageContent(PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
-    for(var i=0; i<page.gnrs.length; i++){
+    for(var i=0; i<page.genres.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.gnrs[i], page.bottom+i+1)+'</div>';
+    '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.genres[i], page.bottom+i+1)+'</div>';
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.gnrs.length == 0 || page.num%10 == 0 || urlParams().page); });
-    return (page.gnrs.length == 0);
+    setTimeout(function(){ PAGE.lock = (page.genres.length == 0 || page.num%10 == 0 || urlParams().page); });
+    return (page.genres.length == 0);
   }
 
   xhr({url: '/books/index.js?'+(+new Date())}, function(s){
     eval(s);
-    window.PAGE = { 
-      per: 20,                 // blocks 1 page
-      num: urlParams().page||0 // start num page 
-    };
-    window.GNRS = ROOTS;
-    var pheader = 'Найдено <b><i>'+GNRS.length+'</b></i> книжных жанров разных&emsp;'+
-      '<a class="nodecor" href="/bwrts.html"><i>Авторов</i></a>';
+    window.PAGE = {};
+    PAGE.per =  20;                 // blocks 1 page
+    PAGE.num = urlParams().page||0; // start num page 
+    PAGE.gnrs = ROOTS;
+    PAGE.header = 
+  'Найдено <b><i>'+PAGE.gnrs.length+'</b></i> книжных жанров разных&emsp;<a class="nodecor" href="/bwrts.html"><i>Авторов</i></a>';
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         document.title += ' - ' + urlParams().page;
         updateMetaTag('description', 'список жанров книг ' + urlParams().page);
       }else if(p == 'find' && urlParams().find){ // ?find
-        GNRS = GNRS.filter(function(tit){ 
+        PAGE.gnrs = PAGE.gnrs.filter(function(tit){ 
           return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
                   (GENRES_RU[tit[0]] && GENRES_RU[tit[0]].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1);
         });
-        pheader = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+GNRS.length+')</i>';
+        PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.gnrs.length+')</i>';
       }
     }
     document.getElementById('page_header').innerHTML = 
   '<div class="table">'+
-    '<div class="tcell vmid"><h1>'+pheader+'</h1>'+'</div>'+
+    '<div class="tcell vmid"><h1>'+PAGE.header+'</h1>'+'</div>'+
     '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
   '</div>';
-    GNRS = GNRS.slice().sort(function(a,b){ return arraySort(GENRES_RU[a[0]]||a[0],GENRES_RU[b[0]]||b[0]); });
+    PAGE.gnrs = PAGE.gnrs.slice().sort(function(a,b){ return arraySort(GENRES_RU[a[0]]||a[0],GENRES_RU[b[0]]||b[0]); });
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(GNRS, PAGE, 1);
+    addPageContent(PAGE, 1);
      // infinite scroll
     document.addEventListener('scroll', function() {
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
-        addPageContent(GNRS, PAGE);
+        addPageContent(PAGE);
       }
     });
   });

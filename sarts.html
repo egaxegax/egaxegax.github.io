@@ -9,7 +9,7 @@
 <meta name="robots" content="all">
 <meta name="yandex-verification" content="bf07f0af8e739c66">
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
-<title>Список авторов / Сайт egax</title>
+<title>Список исполнителей песен / Сайт egax</title>
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?251016">
 <link rel="stylesheet" href="/static/css/songs.dark.css?250916">
@@ -62,9 +62,9 @@
     return tmpl;
   }
 
-  function addPageContent(arts, page, iinit){
+  function addPageContent(page, iinit){
     PAGE.lock = 1;
-    if(!arts.length){
+    if(!page.arts.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -75,46 +75,42 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.arts = arts.slice(page.bottom, page.top);
-    if(page.arts.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(arts, page,
-    '<button onclick="this.disabled = addPageContent(ARTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    page.marts = page.arts.slice(page.bottom, page.top);
+    if(page.marts.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(page.arts, page,
+    '<button onclick="this.disabled = addPageContent(PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
-    for(var i=0; i<page.arts.length; i++){
+    for(var i=0; i<page.marts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.arts[i], page.bottom+i+1)+'</div>';
+    '<div id="art'+(i+page.bottom)+'" class="wrap">'+addArt(page.marts[i], page.bottom+i+1)+'</div>';
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.arts.length == 0 || page.num%10 == 0 || urlParams().page); });
-    return (page.arts.length == 0);
+    setTimeout(function(){ PAGE.lock = (page.marts.length == 0 || page.num%10 == 0 || urlParams().page); });
+    return (page.marts.length == 0);
   }
 
   xhr({url: '/songs/index.js?'+(+new Date())}, function(s){
     eval(s);
-    window.PAGE = { 
-      per: 20,                 // blocks 1 page
-      num: urlParams().page||0 // start num page 
-    };
-    window.ARTS = SUBJ;
-    window.SONGS = TITLES;
+    window.PAGE = {};
+    PAGE.per = 20;                 // blocks 1 page
+    PAGE.num = urlParams().page||0;// start num page 
+    PAGE.arts = SUBJ;
+    PAGE.songs = TITLES;
     if(urlParams().page){ // ?page
       document.title += ' - ' + urlParams().page;
       updateMetaTag('description', 'список авторов текстов ' + urlParams().page);
     }
     if(urlParams().find){ // ?find
-      ARTS = ARTS.filter(function(tit){ 
-        return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
-      });
+      PAGE.arts = PAGE.arts.filter(function(tit){ return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1; });
     }
     document.getElementById('pheader').innerHTML = 
-  'Найдено <b><i>'+ARTS.length+'</i></b> авторов и <b><i>'+SONGS.length+'</i></b> текстов';
-    ARTS = ARTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
+  'Найдено <b><i>'+PAGE.arts.length+'</i></b> авторов и <b><i>'+PAGE.songs.length+'</i></b> текстов';
+    PAGE.arts = PAGE.arts.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(ARTS, PAGE, 1);
-     // infinite scroll
-    document.addEventListener('scroll', function() {
+    addPageContent(PAGE, 1);
+    document.addEventListener('scroll', function() { // infinite scroll
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
-        addPageContent(ARTS, PAGE);
+        addPageContent(PAGE);
       }
     });
   });

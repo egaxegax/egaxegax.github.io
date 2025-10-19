@@ -56,7 +56,7 @@
     document.getElementById(p.id).innerHTML = '';
     if(p.title[2] == 'README'){
       document.getElementById(p.id).innerHTML += '<div id="'+p.id+'_readme" class="msgtext readme"></div>';
-      addTitlesRelsHtml(p, 'foto.html', 'Все фотки альбома', p.id+'_readme');
+      addTitlesRelsHtml(p, 'foto.html', '<br>', p.id+'_readme');
     } else {
       document.getElementById(p.id).innerHTML = 
     '<div class="msgtext tcenter" style="padding:0"><a target="_blank" href="'+p.fullurl+'">'+
@@ -99,6 +99,7 @@
     page.top = page.bottom+page.per;
     page.titles = page.fotos.slice(page.bottom, page.top);
     if(page.titles.length){
+      document.title = page.doctitle.replace('README / ', '');
       document.getElementById('page_footer').innerHTML = addPaginator(page.fotos, page,
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
@@ -112,8 +113,8 @@
         var wrap = document.getElementById(p.id);
         wrap.className = 'wrap';
         addFoto(p);
-      })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (page.fotos.length==1), subj: subj, title: page.titles[i], 
-        url: '/foto/'+root+'/'+subj+'/th/'+title+'.jpg', fullurl: '/foto/'+root+'/'+subj+'/'+title+'.jpg'});
+      })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (page.fotos.length==1), subj: subj, title: page.titles[i], doctitle: page.doctitle,
+          url: '/foto/'+root+'/'+subj+'/th/'+title+'.jpg', fullurl: '/foto/'+root+'/'+subj+'/'+title+'.jpg'});
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
@@ -127,25 +128,26 @@
     PAGE.num =  urlParams().page||0; // start num page
     PAGE.fotos = TITLES;
     PAGE.album = -1;
+    PAGE.doctitle = document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
-        document.title += ' - ' + urlParams().page; // skip paginate
+        PAGE.doctitle += ' - ' + urlParams().page; // skip paginate
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?alb/foto
         if((PAGE.fotos = addTitlesRels(pp, SUBJ, PAGE.fotos, 0, pp[1] == 'readme')).length){
           PAGE.fotos = PAGE.fotos.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2])==pp[1]); });
-          if(PAGE.fotos.length) document.title = PAGE.fotos[0][2] +', '+ SUBJ[PAGE.fotos[0][0]][0] +' - '+ document.title;
+          PAGE.doctitle = PAGE.fotos[0][2] + ' / '+ SUBJ[PAGE.fotos[0][0]][0] +' - '+ document.title;
           SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) PAGE.album = i; });
           document.getElementById('foto_header').innerHTML = ((pp[1] == 'readme') ? SUBJ[PAGE.album][0] : PAGE.fotos[0][2]) + 
         '<a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
         }
       }else if(pp.length>0){ // ?alb
         PAGE.fotos = PAGE.fotos.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });
-        if(PAGE.fotos.length) document.title = SUBJ[PAGE.fotos[0][0]][0] + ' - '+ document.title;
         SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) PAGE.album = i; });
         if(PAGE.fotos.length){
+          PAGE.doctitle = SUBJ[PAGE.fotos[0][0]][0] + ' - '+ document.title;
           document.getElementById('foto_header').innerHTML = SUBJ[PAGE.album][0] + ' <i><b>'+PAGE.fotos.length+'</b></i> фото'+
         '<a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
         }
