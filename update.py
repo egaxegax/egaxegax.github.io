@@ -110,7 +110,6 @@ def main(path='.'):
   mroots = []
   msubj = []
   mtitles = []
-  mcounter = 0
   murls = []
 
   surl = 'https://egax.ru'
@@ -118,7 +117,6 @@ def main(path='.'):
 
   for i, f in enumerate(mfiles):
     if f[2] == 'about':
-      mcounter += 1
       continue
     iroot = -1
     for ii, root in enumerate(mroots):
@@ -142,7 +140,7 @@ def main(path='.'):
       if len(murls) == 0:
         murls[iroot] += [surl +'/'+ sdir + '.html']
       murls[iroot] += [surl +'/'+ sdir + '.html?'+ tr(f[1])]
-    mtitles += [[isubj, len(mfiles) - len(mtitles) - mcounter, f[2], f[3], iroot]]
+    mtitles += [[isubj, 0, f[2], f[3], iroot]]
     murls[iroot] += [surl +'/'+ sdir +'.html?'+ tr(f[1])+'/'+tr(f[2])]
     if sdir == 'foto':
       murls[iroot] += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
@@ -150,7 +148,7 @@ def main(path='.'):
 
   mroots_s = sorted(mroots)
   msubj_s = sorted(msubj)
-  mtitles = [[msubj_s.index(msubj[titl[0]]), titl[1], titl[2], titl[3], mroots_s.index(mroots[titl[4]])] for titl in mtitles]
+  mtitles = [[msubj_s.index(msubj[titl[0]]), len(mtitles) - ii, titl[2], titl[3], mroots_s.index(mroots[titl[4]])] for ii, titl in enumerate(mtitles)]
   msubj_s = [[subj[0], subj[1], subj[2], mroots_s.index(mroots[subj[3]])] for subj in msubj_s]
 
   io.open(path + '/index.js', 'w', encoding='utf-8', newline='\n').write(compact('ROOTS=' + json.dumps(mroots_s, indent=0, ensure_ascii=0) + ';\n'))
