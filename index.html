@@ -167,7 +167,7 @@
       }else if(pp.length>1){ // ?subj/title
         if((PAGE.posts = addTitlesRels(pp, SUBJ, PAGE.posts, 1)).length){
           PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) +'&emsp;<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
-          PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ', ' + PAGE.posts[0][2] + ' - ' + document.title;
+          PAGE.doctitle = PAGE.posts[0][2] + ', ' + SUBJ[PAGE.posts[0][0]][0] + ' - ' + document.title;
           PAGE.view = 'post';
         }
       }else if(pp.length>0){ // ?subj
