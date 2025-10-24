@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/static/css/main.css?251016">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.dark.css?251015">
-<script src="/static/js/template.js?251015"></script>
+<script src="/static/js/template.js?251024"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -145,13 +145,10 @@
   xhr({url: '/posts/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 4;  // blocks 1 page
     PAGE.view = 'last';
+    PAGE.per = 4;                   // blocks per page
     PAGE.num = urlParams().page||0; // start num page 
-    PAGE.header = 
-  '<h1>Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; '+
-    '<a class="nodecor" href="/psubj.html"><i>Темы</i></a>&nbsp; '+
-  '</h1>';
+    PAGE.header = '<h1>Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; <a class="nodecor" href="/psubj.html"><i>Темы</i></a></h1>';
     PAGE.posts = TITLES;
     PAGE.doctitle = (PAGE.posts.length ? (PAGE.posts[0][2] + ' / ' + SUBJ[PAGE.posts[0][0]][0] + ' - ') : '') + document.title;
     for(var p in urlParams()){
@@ -159,40 +156,30 @@
       if(p == 'page' && urlParams().page){ // ?page
         PAGE.doctitle += ' - '+ urlParams().page; // skip paginate
       }else if(p == 'find' && urlParams().find){ // ?find
-        PAGE.posts = PAGE.posts.filter(function(tit){ 
-          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
-                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
-        });
-        PAGE.posts = PAGE.posts.sort(function(a,b){ return arraySort(b[3],a[3]); }); // sort by datetime
-        PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.posts.length+')</i>';
-        PAGE.per = 10;
+        if(PAGE.posts = PAGE.posts.filter(function(tit){ return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1; })){
+          PAGE.posts = PAGE.posts.sort(function(a,b){ return arraySort(b[3],a[3]); }); // sort by datetime
+          PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.posts.length+')</i>';
+          PAGE.doctitle = PAGE.posts[0][2] + ', ' + SUBJ[PAGE.posts[0][0]][0] + ', поиск - ' + document.title;
+          PAGE.per = 10;
+        }
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?subj/title
-        if(pp.length>2) updateMetaTag('robots', 'noindex'); // +404 not found
         if((PAGE.posts = addTitlesRels(pp, SUBJ, PAGE.posts, 1)).length){
-          PAGE.view = 'post';
           PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) +'&emsp;<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
-          PAGE.doctitle = PAGE.posts[0][2] + ' / ' + SUBJ[PAGE.posts[0][0]][0] + ' - ' + document.title;
+          PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ', ' + PAGE.posts[0][2] + ' - ' + document.title;
+          PAGE.view = 'post';
         }
       }else if(pp.length>0){ // ?subj
         if((PAGE.posts = PAGE.posts.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
-          PAGE.view = 'list';
-          PAGE.header = 
-        '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) + 
-          '<i class="hspace light">('+ PAGE.posts.length +')</i> '+
-          '<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a>'+
-        '</h1>';
+          PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) + '<i class="hspace light">('+ PAGE.posts.length +')</i><a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
           PAGE.posts = [[PAGE.posts[0][0],PAGE.posts[0][1],'about',0,PAGE.posts[0][4]]].concat(PAGE.posts); // +about page
-          PAGE.doctitle = ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] +' / '+ SUBJ[PAGE.posts[0][0]][0] + ' - ' + document.title;
+          PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ' / ' + ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] + ' - ' + document.title;
+          PAGE.view = 'list';
         }
       }
     }
-    document.getElementById('page_header').innerHTML = 
-  '<div class="table">'+
-    '<div class="tcell vmid">'+ PAGE.header +'</div>'+
-    '<div class="tcell tright nopad vmid" style="width:100px">'+ addFinder("posts") +'</div>'+
-  '</div>';
+    document.getElementById('page_header').innerHTML = '<div class="table"><div class="tcell vmid">'+PAGE.header+'</div><div class="tcell tright nopad vmid" style="width:100px">'+addFinder("posts")+'</div></div>';
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, PAGE, 1);
     document.addEventListener('scroll', function(){ // infinite scroll

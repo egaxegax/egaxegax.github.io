@@ -24,7 +24,7 @@
 .rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/template.js?251015"></script>
+<script src="/static/js/template.js?251024"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/jquery.min.js"></script>
 <script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
@@ -68,8 +68,8 @@
       '</td>'+
       '<td width="50%">'+
         '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'">&ensp;'+p.subj+' </a><br>'+
-        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp;&emsp; '+p.title[2]+' </a><br>'+
-        '<a class="nodecor small gray">&emsp;&emsp;&emsp;&emsp; - '+p.root+' </a>'+
+        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a><br>'+
+        '<a class="nodecor small gray">&emsp;&emsp; - '+p.root+' </a>'+
       '</td>'+
       '<td valign="center" align="right" class="light" width="10%">'+
         '<span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span>'+
@@ -112,9 +112,7 @@
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', аккорды, тексты');
     document.getElementById(p.id).innerHTML = 
   '<div class="tcenter">'+
-    '<div id="songcont" class="msgtext inlbl chords tleft scroll nowrap mw_f">'+
-      html+
-    '</div>'+
+    '<div id="songcont" class="msgtext inlbl chords tleft scroll nowrap mw_f">'+html+'</div>'+
     '<div id="ya_rtb_'+(p.i)+'_ch" class="bmarg inlbl vtop" style="'+(window.innerWidth<800 ? 'max-height:150px': 'float:right; margin:10px 10px 0 20px; min-width:250px; max-width:250px') +'"></div>'+
   '</div>'+
   '<div id="chordcont" class="bmarg tcenter chord"></div>'+
@@ -122,7 +120,7 @@
     '<table class="collapse"><tr>'+
       '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span> </td>'+
       '<td> &emsp;&emsp; </td>'+
-      '<td align=right width="95%"><a class="hspace nodecor gray"> - '+p.root+' - </a></td>'+
+      '<td align=right width="95%"> </td>'+
     '</tr></table>'+
   '</div>';
     addSongChords();
@@ -207,76 +205,44 @@
   xhr({url: '/songs/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 6;  // blocks 1 page
     PAGE.view = 'last';
-    PAGE.num = urlParams().page||0; // start num page 
-    PAGE.header = 
-  '<div class="table">'+
-    '<div class="tcell vmid"><h1>Текстов <b><i>'+TITLES.length+'</i></b> от разных&emsp; '+
-      '<i><a class="nodecor" href="/sarts.html"><i>Авторов</i></a>&nbsp; '+
-      '<i><a class="nodecor" href="/index.html?samouchitel_igry_na_gitare"><i>Уроки</i></a>&nbsp; '+
-    '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
-  '</div>';
+    PAGE.per = 6;
+    PAGE.num = urlParams().page||0;
+    PAGE.header = '<div class="tcell vmid"><h1>Текстов <b><i>'+TITLES.length+'</i></b> от разных&emsp; <a class="nodecor" href="/sarts.html"><i>Авторов</i></a>&nbsp; <a class="nodecor" href="/index.html?samouchitel_igry_na_gitare"><i>Уроки</i></a></div>';
     PAGE.songs = TITLES;
-    PAGE.doctitle = document.title;
+    PAGE.doctitle = (PAGE.songs.length ? (PAGE.songs[0][2] + ' / ' + SUBJ[PAGE.songs[0][0]][0] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
         PAGE.doctitle += ' - ' + urlParams().page; // skip paginate
       }else if(p == 'find' && urlParams().find){ // ?find
-        PAGE.songs = PAGE.songs.filter(function(tit){ 
-          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
-                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
-        });
-        PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(PAGE.songs.length){ 
+        if((PAGE.songs = PAGE.songs.filter(function(tit){ return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1; })).length){
+          PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+          PAGE.header = '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.songs.length+')</i></div>';
+          PAGE.doctitle = PAGE.songs[0][2] + ', ' + SUBJ[PAGE.songs[0][0]][0] + ', поиск - ' + document.title;
           PAGE.view = 'last';
-          PAGE.header = 
-        '<div class="table">'+
-          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.songs.length+')</i></div>'+
-          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
-        '</div>';
-          document.title = SUBJ[PAGE.songs[0][0]][0] + ', поиск, песни, тексты - ' + document.title;
+          PAGE.per = 20;
         }
-        PAGE.per = 20;
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?art/song
         if((PAGE.songs = addTitlesRels(pp, SUBJ, PAGE.songs)).length){
+          PAGE.header = '<div class="large tcell vmid"><a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a><h1>'+PAGE.songs[0][2]+'<i class="hspace gray smaller">'+ROOTS[SUBJ[PAGE.songs[0][0]][3]][0]+'</i></h1></div>';
+          PAGE.doctitle = PAGE.songs[0][2] + ', ' + SUBJ[PAGE.songs[0][0]][0] + ' - ' + document.title;
           PAGE.view = 'song';
-          PAGE.header =
-        '<div class="table">'+
-          '<div class="large tcell vmid">'+
-            '<a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a> '+
-            '<h1>'+PAGE.songs[0][2]+'</h1>'+
-          '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
-        '</div>';
-          PAGE.doctitle = SUBJ[PAGE.songs[0][0]][0] + ' - ' + PAGE.songs[0][2] + ' - ' + document.title;
-//          PAGE.songs = [[PAGE.songs[0][0],PAGE.songs[0][1],'about',0,PAGE.songs[0][4]]].concat(PAGE.songs);  // +about page
         }
       }else if(pp.length>0){ // ?art
-        PAGE.songs = PAGE.songs.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); }); // filter by art
-        PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-        if(PAGE.songs.length){ 
-          PAGE.view = 'list';
-          PAGE.header = 
-        '<div class="table">'+
-          '<div class="large tcell vmid">'+
-            '<h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a>'+
-            '<i class="hspace gray">('+ PAGE.songs.length+')</i>'+
-            '<i class="gray smaller">'+ROOTS[SUBJ[PAGE.songs[0][0]][3]][0]+'</i></h1>'+
-          '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div>'+
-        '</div>';
-          PAGE.doctitle = SUBJ[PAGE.songs[0][0]][0] + ', песни, тексты - ' + document.title;
+        if((PAGE.songs = PAGE.songs.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
+          PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
           PAGE.songs = [[PAGE.songs[0][0],PAGE.songs[0][1],'about',0,PAGE.songs[0][4]]].concat(PAGE.songs);  // +about page
+          PAGE.header = '<div class="large tcell vmid"><h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a><i class="hspace light">('+ PAGE.songs.length+')</i><i class="gray smaller">'+ROOTS[SUBJ[PAGE.songs[0][0]][3]][0]+'</i></h1></div>';
+          PAGE.doctitle = SUBJ[PAGE.songs[0][0]][0] + ', песни, тексты - ' + document.title;
+          PAGE.view = 'list';
+          PAGE.per = 20;
         }
-        PAGE.per = 20;
       }
     }
-    document.getElementById('page_header').innerHTML = PAGE.header;
+    document.getElementById('page_header').innerHTML = '<div class="table">'+PAGE.header+'<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("songs")+'</div></div>';
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, PAGE, 1);
     document.addEventListener('scroll', function() { // infinite scroll

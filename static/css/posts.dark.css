@@ -21,7 +21,7 @@ li::marker { color:green; }
 /**/
 .readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; }
 .readme ul li { padding:2px 0; }
-.readme a { color:#dedede; }
+.readme a { color:#aaa; font-style:italic; }
 /* football tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 

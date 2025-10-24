@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?251016">
 <link rel="stylesheet" href="/static/css/foto.dark.css?251016">
-<script src="/static/js/template.js?251015"></script>
+<script src="/static/js/template.js?251024"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -124,11 +124,11 @@
   xhr({url: '/foto/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 1;                    // blocks 1 page
-    PAGE.num =  urlParams().page||0; // start num page
+    PAGE.per = 1;
+    PAGE.num =  urlParams().page||0;
     PAGE.fotos = TITLES;
     PAGE.album = -1;
-    PAGE.doctitle = document.title;
+    PAGE.doctitle = (PAGE.fotos.length ? (PAGE.fotos[0][2] + ' / ' + SUBJ[PAGE.fotos[0][0]][0] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -136,32 +136,23 @@
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?alb/foto
-        if((PAGE.fotos = addTitlesRels(pp, SUBJ, PAGE.fotos, 0, pp[1] == 'readme')).length){
+        if((PAGE.fotos = addTitlesRels(pp, SUBJ, PAGE.fotos, 0, (pp[1] == 'readme'))).length){
           PAGE.fotos = PAGE.fotos.filter(function(tit){ return (tr(SUBJ[tit[0]][0])==tr(decodeURI(pp[0])) && tr(tit[2])==pp[1]); });
           PAGE.doctitle = PAGE.fotos[0][2] + ' / '+ SUBJ[PAGE.fotos[0][0]][0] +' - '+ document.title;
           SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) PAGE.album = i; });
-          document.getElementById('foto_header').innerHTML = ((pp[1] == 'readme') ? SUBJ[PAGE.album][0] : PAGE.fotos[0][2]) + 
-        '<a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
+          document.getElementById('foto_header').innerHTML = ((pp[1] == 'readme') ? SUBJ[PAGE.album][0] : PAGE.fotos[0][2]) +'<a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
         }
       }else if(pp.length>0){ // ?alb
-        PAGE.fotos = PAGE.fotos.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); });
-        SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) PAGE.album = i; });
-        if(PAGE.fotos.length){
+        if((PAGE.fotos = PAGE.fotos.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == tr(decodeURI(pp[0]))); })).length){
+          SUBJ.map(function(s, i, items){ if (tr(items[i][0]) == tr(decodeURI(pp[0]))) PAGE.album = i; });
           PAGE.doctitle = SUBJ[PAGE.fotos[0][0]][0] + ' - '+ document.title;
-          document.getElementById('foto_header').innerHTML = SUBJ[PAGE.album][0] + ' <i><b>'+PAGE.fotos.length+'</b></i> фото'+
-        '<a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
+          document.getElementById('foto_header').innerHTML = SUBJ[PAGE.album][0]+' <i><b>'+PAGE.fotos.length+'</b></i> фото <a class="nodecor hspace" href="/foto.html?'+pp[0]+'/README"><i>Все</i></a>';
         }
       }
     }
-    document.getElementById('albumlist').innerHTML =
-  '<option value="-1"'+(PAGE.album == -1 ? ' selected ' : '')+'> Все ['+TITLES.length+']</option>';
-    for(var alb in SUBJ){
-      document.getElementById('albumlist').innerHTML +=
-    '<option value="'+SUBJ[alb][0]+'"'+(PAGE.album == alb ? ' selected ' : '')+'>'+SUBJ[alb][0]+' ['+(TITLES.filter(function(f){ return (f[0] == alb); })).length+']</option>';
-    }
-    document.getElementById('albumlist').onchange = function(){
-      window.location = '/foto.html' + (this.options[this.selectedIndex].value == '-1' ? '' : '?' + tr(this.options[this.selectedIndex].value));
-    };
+    document.getElementById('albumlist').innerHTML = '<option value="-1"'+(PAGE.album == -1 ? ' selected ' : '')+'> Все ['+TITLES.length+']</option>';
+    for(var alb in SUBJ){ document.getElementById('albumlist').innerHTML += '<option value="'+SUBJ[alb][0]+'"'+(PAGE.album == alb ? ' selected ' : '')+'>'+SUBJ[alb][0]+' ['+(TITLES.filter(function(f){ return (f[0] == alb); })).length+']</option>'; }
+    document.getElementById('albumlist').onchange = function(){ window.location = '/foto.html' + (this.options[this.selectedIndex].value == '-1' ? '' : '?' + tr(this.options[this.selectedIndex].value)); };
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, PAGE, 1);
     document.addEventListener('scroll', function() { // infinite scroll

@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?251016">
 <link rel="stylesheet" href="/static/css/books.dark.css?250915">
-<script src="/static/js/template.js?251015"></script>
+<script src="/static/js/template.js?251024"></script>
 <script src="/static/js/metrics.js?250810"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -98,9 +98,9 @@
     return ' about';
   }
 
-  function addPageContent(roots, wrts, books, page, iinit){
+  function addPageContent(roots, wrts, page, iinit){
     PAGE.lock = 1;
-    if(!books.length){
+    if(!page.books.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -111,10 +111,11 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.titles = books.slice(page.bottom, page.top);
+    page.titles = page.books.slice(page.bottom, page.top);
     if(page.titles.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(books, page,
-    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, BOOKS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+      document.title = page.doctitle;
+      document.getElementById('page_footer').innerHTML = addPaginator(page.books, page,
+    '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     for(var i=0; i<page.titles.length; i++){
       var subj = wrts[page.titles[i][0]][0],
@@ -141,92 +142,57 @@
   xhr({url: '/books/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
-    PAGE.per = 3;
     PAGE.view = 'last';
-    PAGE.num = urlParams().page||0; // start num page 
-    window.BOOKS = TITLES;
-    var page_header = 
-  '<div class="table">'+
-    '<div class="tcell vmid"><h1>Описаний <b><i>$COUNT</i></b> по разным&emsp;'+
-      '<a class="nodecor" href="/bwrts.html"><i>Авторам</i></a>&nbsp; '+
-      '<a class="nodecor" href="/bgenres.html"><i>Жанрам</i></a></h1>'+
-    '</div>'+
-    '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
-  '</div>';
+    PAGE.per = 3;
+    PAGE.num = urlParams().page||0;
+    PAGE.header = '<div class="tcell vmid"><h1>Описаний <b><i>'+TITLES.length+'</i></b> по разным&emsp;<a class="nodecor" href="/bwrts.html"><i>Авторам</i></a>&nbsp; <a class="nodecor" href="/bgenres.html"><i>Жанрам</i></a></h1></div>';
+    PAGE.books = TITLES;
+    PAGE.doctitle = (PAGE.books.length ? (PAGE.books[0][2] + ' / ' + SUBJ[PAGE.books[0][0]][0] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
-        document.title += ' - ' + urlParams().page; // skip paginate
+        PAGE.doctitle += ' - ' + urlParams().page; // skip paginate
       }else if(p == 'find' && urlParams().find){ // ?find
-        BOOKS = BOOKS.filter(function(tit){ 
-          return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || 
-                 tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
-        });
-        BOOKS = BOOKS.sort(function(a,b){ return arraySort(a[2],b[2]); });
-        if(BOOKS.length){ 
+        if((PAGE.books = PAGE.books.filter(function(tit){ return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1; })).length){
+          PAGE.books = PAGE.books.sort(function(a,b){ return arraySort(a[2],b[2]); });
           PAGE.view = 'last';
-          page_header = 
-        '<div class="table">'+
-          '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+BOOKS.length+')</i></div>'+
-          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
-        '</div>';
-          document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
+          PAGE.header = '<div class="tcell vmid">Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.books.length+')</i></div>';
+          PAGE.doctitle = PAGE.books[0][2] + ', ' + SUBJ[PAGE.books[0][0]][0] + ', поиск - ' + document.title;
+          PAGE.per = 10;
         }
-        PAGE.per = 10;
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?wrt/book
-        if((BOOKS = addTitlesRels(pp, SUBJ, BOOKS)).length){
+        if((PAGE.books = addTitlesRels(pp, SUBJ, PAGE.books)).length){
+          PAGE.header = '<div class="large tcell vmid"><a class="nodecor" href="/books.html?'+tr(SUBJ[PAGE.books[0][0]][0])+'">'+SUBJ[PAGE.books[0][0]][0]+'</a><h1>'+PAGE.books[0][2]+'</h1></div>';
+          PAGE.doctitle = PAGE.books[0][2] + ', ' + SUBJ[PAGE.books[0][0]][0] + ' - ' + document.title;
           PAGE.view = 'book';
-          page_header = 
-        '<div class="table">'+
-          '<div class="large tcell vmid">'+
-            '<a class="nodecor" href="/books.html?'+tr(SUBJ[BOOKS[0][0]][0])+'">'+SUBJ[BOOKS[0][0]][0]+'</a> '+
-            '<h1>'+BOOKS[0][2]+'</h1>'+
-          '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
-        '</div>';
-          document.title = SUBJ[BOOKS[0][0]][0] + ', ' + BOOKS[0][2] + ' - ' + document.title;
-          // BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
         }
       }else if(pp.length>0){ // ?wrt ?genre
         var gnr, wrt;
-        BOOKS = [].concat( 
-          gnr = BOOKS.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }),// filter by genres
-          wrt = BOOKS.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })  // filter by writer
-        );
-        BOOKS = BOOKS.sort(function(a,b){ return arraySort(a[2],b[2]); });
-        if(BOOKS.length){ 
+        if((PAGE.books = [].concat( 
+          gnr = PAGE.books.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }),// filter by genres
+          wrt = PAGE.books.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })  // filter by writer
+        )).length){ 
+          PAGE.header = '<div class="large tcell vmid"><h1><a class="nodecor" href="'+(wrt.length ? '/books.html?'+tr(SUBJ[PAGE.books[0][0]][0]) : '') + '">'+(wrt.length ? SUBJ[PAGE.books[0][0]][0] : GENRES[ROOTS[PAGE.books[0][4]][0]]||ROOTS[PAGE.books[0][4]][0])+'</a> &nbsp; <i class="hspaced light">('+PAGE.books.length+')</i></h1></div>';
+          PAGE.books = PAGE.books.sort(function(a,b){ return arraySort(a[2],b[2]); });
           PAGE.view = 'list';
-          page_header = 
-        '<div class="table">'+
-          '<div class="large tcell vmid">'+
-            '<h1><a class="nodecor" href="'+
-                (wrt.length>0 ? '/books.html?'+tr(SUBJ[BOOKS[0][0]][0]) : '') + '">'+
-                (wrt.length>0 ? SUBJ[BOOKS[0][0]][0] : GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) +
-              '</a> &nbsp; '+
-              '<i class="hspaced gray"> ('+ BOOKS.length+')</i>'+
-            '</h1>'+
-          '</div>'+
-          '<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div>'+
-        '</div>';
           if(gnr.length>0){
-            document.title = (GENRES[ROOTS[BOOKS[0][4]][0]]||ROOTS[BOOKS[0][4]][0]) + ' - ' + document.title;
+            PAGE.doctitle = (GENRES[ROOTS[PAGE.books[0][4]][0]]||ROOTS[PAGE.books[0][4]][0]) + ' - ' + document.title;
           }
           if(wrt.length>0){
-            document.title = SUBJ[BOOKS[0][0]][0] + ' - ' + document.title;
-            BOOKS = [[BOOKS[0][0],BOOKS[0][1],'about',0,BOOKS[0][4]]].concat(BOOKS);  // +about page
+            PAGE.doctitle = SUBJ[PAGE.books[0][0]][0] + ' / ' + ROOTS[SUBJ[PAGE.books[0][0]][3]][0] + ' - ' + document.title;
+            PAGE.books = [[PAGE.books[0][0],PAGE.books[0][1],'about',0,PAGE.books[0][4]]].concat(PAGE.books);  // +about page
           }
         }
       }
     }
-    document.getElementById('page_header').innerHTML = page_header.replace('$COUNT', TITLES.length);
+    document.getElementById('page_header').innerHTML = '<div class="table">'+PAGE.header+'<div class="tcell tright nopad vmid" style="width:100px">'+addFinder("books")+'</div></div>';
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(ROOTS, SUBJ, BOOKS, PAGE, 1);
-      // infinite scroll
-    document.addEventListener('scroll', function() {
+    addPageContent(ROOTS, SUBJ, PAGE, 1);
+    document.addEventListener('scroll', function() { // infinite scroll
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
-        addPageContent(ROOTS, SUBJ, BOOKS, PAGE);
+        addPageContent(ROOTS, SUBJ, PAGE);
       }
     });
   });

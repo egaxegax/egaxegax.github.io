@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?251016">
 <link rel="stylesheet" href="/static/css/books.dark.css?250816">
-<script src="/static/js/template.js?251015"></script>
+<script src="/static/js/template.js?251024"></script>
 <script src="/static/js/metrics.js?250810"></script>
 </head>
 <body>
@@ -66,9 +66,9 @@
     return tmpl;
   }
 
-  function addPageContent(wrts, page, iinit){
+  function addPageContent(page, iinit){
     PAGE.lock = 1;
-    if(!wrts.length){
+    if(!page.wrts.length){
       document.getElementById('page_content').innerHTML += addNotFound();
       return 1;
     }
@@ -79,48 +79,45 @@
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
-    page.wrts = wrts.slice(page.bottom, page.top);
-    if(page.wrts.length){
-      document.getElementById('page_footer').innerHTML = addPaginator(wrts, page,
-    '<button onclick="this.disabled = addPageContent(WRTS, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
+    page.m_wrts = page.wrts.slice(page.bottom, page.top);
+    if(page.m_wrts.length){
+      document.getElementById('page_footer').innerHTML = addPaginator(page.wrts, page,
+    '<button onclick="this.disabled = addPageContent(PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
-    for(var i=0; i<page.wrts.length; i++){
+    for(var i=0; i<page.m_wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.wrts[i], page.bottom+i+1)+'</div>';
+    '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.m_wrts[i], page.bottom+i+1)+'</div>';
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.wrts.length == 0 || page.num%10 == 0 || urlParams().page); });
-    return (page.wrts.length == 0);
+    setTimeout(function(){ PAGE.lock = (page.m_wrts.length == 0 || page.num%10 == 0 || urlParams().page); });
+    return (page.m_wrts.length == 0);
   }
 
   xhr({url: '/books/index.js?'+(+new Date())}, function(s){
     eval(s);
-    window.PAGE = { 
-      per: 20,                 // blocks 1 page
-      num: urlParams().page||0 // start num page 
-    };
-    window.WRTS = SUBJ,
-    window.BOOKS = TITLES;
-    var pheader = 'Найдено <b><i>'+WRTS.length+'</i></b> авторов и <b><i>'+BOOKS.length+'</i></b> книг в разных&emsp;'+
-      '<a class="nodecor" href="/bgenres.html"><i>Жанрах</i></a></h1>';
+    window.PAGE = {};
+    PAGE.per = 20;                  // blocks 1 page
+    PAGE.num = urlParams().page||0; // start num page 
+    PAGE.header = 'Найдено <b><i>'+SUBJ.length+'</i></b> авторов и <b><i>'+TITLES.length+'</i></b> книг в разных&emsp;'+
+  '<a class="nodecor" href="/bgenres.html"><i>Жанрах</i></a></h1>';
+    PAGE.wrts = SUBJ;
     if(urlParams().page){ // ?page
       document.title += ' - ' + urlParams().page;
       updateMetaTag('description', 'список авторов ' + urlParams().page);
     }
     if(urlParams().find){ // ?find
-      WRTS = WRTS.filter(function(tit){ 
+      PAGE.wrts = PAGE.wrts.filter(function(tit){ 
         return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
       });
-      pheader = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+WRTS.length+')</i>';
+      PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.wrts.length+')</i>';
     }
-    document.getElementById('pheader').innerHTML = pheader;
-    WRTS = WRTS.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
+    document.getElementById('pheader').innerHTML = PAGE.header;
+    PAGE.wrts = PAGE.wrts.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
-    addPageContent(WRTS, PAGE, 1);
-     // infinite scroll
-    document.addEventListener('scroll', function() {
+    addPageContent(PAGE, 1);
+    document.addEventListener('scroll', function() { // infinite scroll
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
-        addPageContent(WRTS, PAGE);
+        addPageContent(PAGE);
       }
     });
   });
