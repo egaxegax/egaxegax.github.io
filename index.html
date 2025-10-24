@@ -150,7 +150,7 @@
     PAGE.num = urlParams().page||0; // start num page 
     PAGE.header = '<h1>Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; <a class="nodecor" href="/psubj.html"><i>Темы</i></a></h1>';
     PAGE.posts = TITLES;
-    PAGE.doctitle = (PAGE.posts.length ? (PAGE.posts[0][2] + ' / ' + SUBJ[PAGE.posts[0][0]][0] + ' - ') : '') + document.title;
+    PAGE.doctitle = (PAGE.posts.length ? (SUBJ[PAGE.posts[0][0]][0] + ', ' + PAGE.posts[0][2] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -174,7 +174,7 @@
         if((PAGE.posts = PAGE.posts.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
           PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) + '<i class="hspace light">('+ PAGE.posts.length +')</i><a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
           PAGE.posts = [[PAGE.posts[0][0],PAGE.posts[0][1],'about',0,PAGE.posts[0][4]]].concat(PAGE.posts); // +about page
-          PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ' / ' + ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] + ' - ' + document.title;
+          PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ', ' + ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] + ' - ' + document.title;
           PAGE.view = 'list';
         }
       }

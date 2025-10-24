@@ -210,7 +210,7 @@
     PAGE.num = urlParams().page||0;
     PAGE.header = '<div class="tcell vmid"><h1>Текстов <b><i>'+TITLES.length+'</i></b> от разных&emsp; <a class="nodecor" href="/sarts.html"><i>Авторов</i></a>&nbsp; <a class="nodecor" href="/index.html?samouchitel_igry_na_gitare"><i>Уроки</i></a></div>';
     PAGE.songs = TITLES;
-    PAGE.doctitle = (PAGE.songs.length ? (PAGE.songs[0][2] + ' / ' + SUBJ[PAGE.songs[0][0]][0] + ' - ') : '') + document.title;
+    PAGE.doctitle = (PAGE.songs.length ? (PAGE.songs[0][2] + ', ' + SUBJ[PAGE.songs[0][0]][0] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page

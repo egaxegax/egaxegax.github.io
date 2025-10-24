@@ -147,7 +147,7 @@
     PAGE.num = urlParams().page||0;
     PAGE.header = '<div class="tcell vmid"><h1>Описаний <b><i>'+TITLES.length+'</i></b> по разным&emsp;<a class="nodecor" href="/bwrts.html"><i>Авторам</i></a>&nbsp; <a class="nodecor" href="/bgenres.html"><i>Жанрам</i></a></h1></div>';
     PAGE.books = TITLES;
-    PAGE.doctitle = (PAGE.books.length ? (PAGE.books[0][2] + ' / ' + SUBJ[PAGE.books[0][0]][0] + ' - ') : '') + document.title;
+    PAGE.doctitle = (PAGE.books.length ? (PAGE.books[0][2] + ', ' + SUBJ[PAGE.books[0][0]][0] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -181,7 +181,7 @@
             PAGE.doctitle = (GENRES[ROOTS[PAGE.books[0][4]][0]]||ROOTS[PAGE.books[0][4]][0]) + ' - ' + document.title;
           }
           if(wrt.length>0){
-            PAGE.doctitle = SUBJ[PAGE.books[0][0]][0] + ' / ' + ROOTS[SUBJ[PAGE.books[0][0]][3]][0] + ' - ' + document.title;
+            PAGE.doctitle = SUBJ[PAGE.books[0][0]][0] + ', ' + ROOTS[SUBJ[PAGE.books[0][0]][3]][0] + ' - ' + document.title;
             PAGE.books = [[PAGE.books[0][0],PAGE.books[0][1],'about',0,PAGE.books[0][4]]].concat(PAGE.books);  // +about page
           }
         }
