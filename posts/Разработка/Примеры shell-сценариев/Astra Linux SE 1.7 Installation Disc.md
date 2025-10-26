@@ -3,6 +3,9 @@
 
 Ссылки для загрузки iso-образов дисков установки и разработчика ОС Astra Linux Special Edition (Смоленск) с официального сайта.
 
+[installation-1.7.6.15-15.11.24_17.20.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.6/uu/2/iso/installation-1.7.6.15-15.11.24_17.20.iso)  
+[base-1.7.6.15-15.11.24_17.20.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.6/uu/2/iso/base-1.7.6.15-15.11.24_17.20.iso)
+
 [installation-1.7.6.11-26.08.24_17.26.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.6/iso/installation-1.7.6.11-26.08.24_17.26.iso)  
 [base-1.7.6.11-26.08.24_17.26.iso](https://dl.astralinux.ru/astra/frozen/1.7_x86-64/1.7.6/iso/base-1.7.6.11-26.08.24_17.26.iso)
 
