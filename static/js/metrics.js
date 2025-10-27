@@ -41,7 +41,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
         (window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
       ym(65044687, 'init', { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true });
-//      e.innerHTML += '<a href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Я.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a>'; 
+     e.innerHTML += '<a class="gray" href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src0="//informer.yandex.ru/informer/65044687/1_1_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Я.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru" /></a>'; 
     });
   },100);
   window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
@@ -104,7 +104,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         var f = function(){var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
         if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
       })(document, window, 'tmr-code');
-      e.innerHTML += '<a class="gray" href="https://top.mail.ru/stat?id=3596974"><!--img data-cid="3596974" src="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;"-->top.mail.ru</a>';
+      e.innerHTML += '<a class="gray" href="https://top.mail.ru/stat?id=3596974"><img data-cid="3596974" src0="https://top-fwz1.mail.ru/counter?id=3596974;t=616;l=1" height="31" alt="Top.Mail.Ru" style="border:0;"></a>';
     });
   },100);
 }

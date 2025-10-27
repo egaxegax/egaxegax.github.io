@@ -48,6 +48,7 @@ https://egax.ru/index.html?chempionat/251022_0800
 https://egax.ru/index.html?chempionat/251023_0800
 https://egax.ru/index.html?chempionat/251024_0800
 https://egax.ru/index.html?chempionat/251025_0800
+https://egax.ru/index.html?chempionat/251026_0800
 https://egax.ru/index.html?chm_po_futbolu
 https://egax.ru/index.html?chm_po_futbolu/chm-1990_gruppovoj_etap
 https://egax.ru/index.html?chm_po_futbolu/chm-1990_plej-off
@@ -693,6 +694,7 @@ https://egax.ru/index.html?dzen/ona_samaya_krasivaya_jenshchina_imperii_chto_ya_
 https://egax.ru/index.html?dzen/ona_yarko_blesnula_i_ushla_v_24_goda_sudba_legendy_sibirskogo_panka_yanki_dyagilevoj
 https://egax.ru/index.html?dzen/oni_byli_pervymi_bez_etoj_gruppy_ne_bylo_by_deep_purple_uriah_heep_i_led_zeppelin
 https://egax.ru/index.html?dzen/oni_lidery_po_prodajam_5_samyh_prodavaemyh_smartfonov_v_rossii
+https://egax.ru/index.html?dzen/oni_raznye_chem_otlichaetsya_nemeckaya_ovcharka_ot_vostochnoevropejskoj
 https://egax.ru/index.html?dzen/oni_sdelali_remejk_buratino_zachem_i_dlya_kogo
 https://egax.ru/index.html?dzen/ono_togo_ne_stoit_kakie_pravila_ni_za_chto_nelzya_narushat_v_kitae
 https://egax.ru/index.html?dzen/opustevshij_torjok_posmotrite_kak_ischezaet_samyj_starinnyj_gorod_rossii
@@ -6018,6 +6020,7 @@ https://egax.ru/index.html?rambler/251022_0600
 https://egax.ru/index.html?rambler/251023_0600
 https://egax.ru/index.html?rambler/251024_0600
 https://egax.ru/index.html?rambler/251025_0600
+https://egax.ru/index.html?rambler/251026_0600
 https://egax.ru/index.html?retro-igry_na_pk
 https://egax.ru/index.html?retro-igry_na_pk/8-bit_commando
 https://egax.ru/index.html?retro-igry_na_pk/arkadnyj_emulyator_mame
