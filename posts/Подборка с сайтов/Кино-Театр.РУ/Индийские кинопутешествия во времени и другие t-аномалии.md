@@ -1,0 +1,4 @@
+<!--2025-10-25 22:18:01-->
+<div class="yb">
+  <div class="rss kino_teatr"><a href="https://www.kino-teatr.ru/blog/y2025/10-25/2147/" title="Индийские кинопутешествия во времени и другие t-аномалии"><img src="https://www.kino-teatr.ru/blog/7/4/2147/poster.jpg" width="196" height="147" align="left" hspace="5" style="margin: 0px 10px 0px 5px" alt="Индийские кинопутешествия во времени и другие t-аномалии"/></a>От классической «<a href=https://www.kino-teatr.ru/kino/movie/asia/202972/annot/ target=_blank>Миссии 369</a>» до «<a href=https://www.kino-teatr.ru/kino/movie/hollywood/202795/annot/ target=_blank>Эксперимента &quot;Петля времени&quot;</a>» <p class="titl"><a href="https://www.kino-teatr.ru/blog/y2025/10-25/2147/">Индийские кинопутешествия во времени и другие t-аномалии</a></p></div>
+</div>
