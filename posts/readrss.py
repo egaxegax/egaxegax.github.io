@@ -12,7 +12,8 @@ RSSlist = {
   'vm':      {'hdr':'Подборка новостей/Вечерняя Москва',      'hdr2':'Вечорка',  'url':'https://vm.ru/rss'},
   'mk':      {'hdr':'Подборка новостей/Московский Комсомолец','hdr2':'МК',       'url':'https://www.mk.ru/rss/incident/index.xml'},
   'sports':  {'hdr':'Подборка новостей/Спортс',               'hdr2':'Спорт',    'url':'https://sports.ru/rss/all_news.xml'},
-  'chmp':    {'hdr':'Подборка новостей/Чемпионат',            'hdr2':'Чемпионат','url':'https://www.championat.ru/rss/news/'}
+  'chmp':    {'hdr':'Подборка новостей/Чемпионат',            'hdr2':'Чемпионат','url':'https://www.championat.ru/rss/news/'},
+  'cosmos':  {'hdr':'Подборка новостей/Элементы Космос',      'hdr2':'Космос',   'url':'https://elementy.ru/rss/news/cosmos'},
 }
 
 import os, sys, time, re, locale
@@ -48,6 +49,8 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
           pdate = item.find('pubDate').text
           if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
             pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
+          elif re.search(r'^\d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
+            pdt = time.strptime(pdate, '%d %b %Y %H:%M:%S %z')
           elif re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2} \+\w+$', pdate):
             pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M %z')
           else:

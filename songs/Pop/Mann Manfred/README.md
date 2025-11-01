@@ -1,3 +1,5 @@
+![](mann_manfred.jpg)
+
 * [Blinded by the light](Blinded%20by%20the%20light.md)
 * [Do Wah Diddy Diddy](Do%20Wah%20Diddy%20Diddy.md)
 * [My Name Is Jack](My%20Name%20Is%20Jack.md)

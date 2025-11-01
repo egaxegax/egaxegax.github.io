@@ -3,7 +3,7 @@
 .dark { color:#dedede; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
-body { background:rgb(40,43,47); color:#dedede; }
+body { background:#282b2f; color:#dedede; }
 a { color:#f4c430; } a:active, a:focus { color:#dedede; }
 b,i,em { color: #aaa; }
 b em { color: #f4c430; }
