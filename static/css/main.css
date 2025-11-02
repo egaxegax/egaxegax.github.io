@@ -65,7 +65,7 @@ input[type=button] { font-family:inherit; font-size:inherit; padding:5px; }
 img, iframe { max-width:100%; }
 hr { border:1px dashed #777; }
 pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
-p { margin:5px auto; }
+p { margin:10px auto; }
 /* reklama */
 .mh_hd:not(:empty) { max-height:130px; max-width:820px; margin:0 auto; }
 .mh_bar { max-height:95vh; position:sticky; top:0; }
