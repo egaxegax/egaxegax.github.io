@@ -1,0 +1,4 @@
+<!--2025-11-01 13:44:09-->
+<div class="yb">
+  <div class="rss habr"><img src="https://habrastorage.org/getpro/habr/upload_files/64d/1f6/462/64d1f64622e0d694d7345fa1630f9bf4.jpg" /><p>Samsung и Nvidia <a href="https://news.samsung.com/global/samsung-teams-with-nvidia-to-lead-the-transformation-of-global-intelligent-manufacturing-through-new-ai-megafactory" rel="noopener noreferrer nofollow">заключили </a><a href="https://nvidianews.nvidia.com/news/samsung-ai-factory" rel="noopener noreferrer nofollow">соглашение </a>на поставку памяти HBM4 и... <p class="titl"><a href="https://habr.com/ru/news/962464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962464">Samsung и Nvidia объявили о создании новой «мегафабрики искусственного интеллекта» на базе более чем 50 000 чипов Nvidia</a></p></div>
+</div>

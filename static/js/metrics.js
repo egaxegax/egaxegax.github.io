@@ -41,7 +41,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
         (window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
       ym(65044687, 'init', { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true });
-     e.innerHTML += '<a class="gray" href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Я.Метрика" height="24" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru"></a>'; 
+      // e.innerHTML += '<a class="gray" href="//metrika.yandex.ru/stat/?id=65044687&amp;from=informer" target="_blank" rel="nofollow"><img src="//informer.yandex.ru/informer/65044687/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Я.Метрика" height="24" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="65044687" data-lang="ru"></a>'; 
     });
   },100);
   window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
