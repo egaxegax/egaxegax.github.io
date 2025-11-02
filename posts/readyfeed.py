@@ -18,19 +18,19 @@ RSSlist = [
   # ('Подборка из Youtube/Рок', 'channel_id=UCxaaXbw6bVYoChlP4HNIolA'),   #Driving Rock
   # ('Подборка из Youtube/Рок', 'playlist_id=PLaqeTZoS9LMrqy7lBTa5IH2sD893YW0La'), #70-80-90 Rock Music
   # ('Подборка из Youtube/Рок', 'channel_id=UCHpEfiVM3rlXBistGgTPakQ'),   #Music Sky
-  ('Подборка из Youtube/Рок', 'channel_id=UCpL9dvPOAW8l7sruH-3OUMw'),   #80's Rock N Roll
+  # ('Подборка из Youtube/Рок', 'channel_id=UCpL9dvPOAW8l7sruH-3OUMw'),   #80's Rock N Roll
   # ('Подборка из Youtube/Рок', 'channel_id=UCKSClb5P4hMTmNeynTzEm7A'),   #thekorolishut
   # ('Подборка из Youtube/Спорт', 'channel_id=UCNBR-cPlJdqlYE0E0n4xwJA'), #Фабрика Футбола
   ('Подборка из Youtube/Путешествия', 'channel_id=UCXrMdUHkl2taQq4DhPg4etg'), #Samsebeskazal Denis
-  ('Подборка из Youtube/Путешествия', 'channel_id=UCcgTo1grFem37WQAi8QoRxw'), #Вольному Воля
+  # ('Подборка из Youtube/Путешествия', 'channel_id=UCcgTo1grFem37WQAi8QoRxw'), #Вольному Воля
   ('Подборка из Youtube/Жизнь в США', 'channel_id=UCZj_6DMrUPMaQgKIoBOshaA'), #Столица Мира
   ('Подборка из Youtube/Жизнь в США', 'channel_id=UCIwfHT8ap6c6dWm8y06bQSw'), #Такая Жизнь
   ('Подборка из Youtube/Опасные путешествия', 'channel_id=UCrc2oY9Trr97eYNkSbUBlQg'), #ДИГГЕР ДАНИИЛ ДАВЫДОВ
   # ('Подборка из Youtube/Тайны', 'channel_id=UCtIoZ-DVPymIv3t6365uFow'), #Темная сторона
-  ('Подборка из Youtube/Тайны', 'channel_id=UCVsDyCRge9DXmk1S6Ibr10Q'), #Свидетель Windows
+  # ('Подборка из Youtube/Тайны', 'channel_id=UCVsDyCRge9DXmk1S6Ibr10Q'), #Свидетель Windows
   # ('Подборка из Youtube/Тайны', 'channel_id=UCNS8QijmVzXxgWndUb0h1Cw'), #CreepyVids
   # ('Подборка из Youtube/Фильмы', 'channel_id=UCOD2veMoMj5jy6K0pGt55Bw'),#FILMSTER
-  ('Подборка из Youtube/Фильмы', 'channel_id=UC3N4p9X5DjPCH184X-izRwA'),#Watch Movies
+  # ('Подборка из Youtube/Фильмы', 'channel_id=UC3N4p9X5DjPCH184X-izRwA'),#Watch Movies
   # ('Подборка из Youtube/Фильмы', 'channel_id=UCrZLsQDHEBVSWDadKGQAxHA'),#military_movies
 ]
 
