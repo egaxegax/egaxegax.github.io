@@ -10,7 +10,7 @@ RSSlist = {
   'ria':     {'hdr':'Подборка новостей/РИА',                  'hdr2':'События',  'url':'https://ria.ru/export/rss2/index.xml'},
   'rambler': {'hdr':'Подборка новостей/Рамблер',              'hdr2':'Известия', 'url':'http://news.rambler.ru/rss/world/'},
   'vm':      {'hdr':'Подборка новостей/Вечерняя Москва',      'hdr2':'Вечорка',  'url':'https://vm.ru/rss'},
-  'mk':      {'hdr':'Подборка новостей/Московский Комсомолец','hdr2':'МК',       'url':'https://www.mk.ru/rss/incident/index.xml'},
+  'mk':      {'hdr':'Подборка новостей/Московский Комсомолец','hdr2':'Наука',    'url':'https://www.mk.ru/rss/science/index.xml'},
   'sports':  {'hdr':'Подборка новостей/Спортс',               'hdr2':'Спорт',    'url':'https://sports.ru/rss/all_news.xml'},
   'chmp':    {'hdr':'Подборка новостей/Чемпионат',            'hdr2':'Чемпионат','url':'https://www.championat.ru/rss/news/'},
   'cosmos':  {'hdr':'Подборка новостей/Элементы Космос',      'hdr2':'Космос',   'url':'https://elementy.ru/rss/news/cosmos'},

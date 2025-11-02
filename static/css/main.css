@@ -65,7 +65,7 @@ input[type=button] { font-family:inherit; font-size:inherit; padding:5px; }
 img, iframe { max-width:100%; }
 hr { border:1px dashed #777; }
 pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
-p { margin:10px auto; }
+p { margin:5px auto; }
 /* reklama */
 .mh_hd:not(:empty) { max-height:130px; max-width:820px; margin:0 auto; }
 .mh_bar { max-height:95vh; position:sticky; top:0; }
@@ -79,4 +79,4 @@ p { margin:10px auto; }
 .mw_2 { max-width:820px; }
 .mw_3 { max-width:260px; }
 .mw_b { max-width:800px; }
-.mw_f { max-width:95vw; }
+.mw_f { max-width:calc(100vw - 20px); }

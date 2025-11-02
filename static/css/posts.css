@@ -47,7 +47,7 @@ input[type=text], select { background:#fff; }
 /* rss */
 .rss { min-height:150px; }
 .rss strong { font-weight:normal; }
-.kino_kino img,.kino_teatr img { margin:0px 10px 0px 0px !important; }
+.kino_kino img,.kino_teatr img { margin:0px 10px 1px 0px !important; }
 @media (max-width:800px){ .rss img { display:block; margin:-10px -15px 10px -15px; max-width: calc(100% + 30px); }}
 @media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rssn ria, eadaily */
