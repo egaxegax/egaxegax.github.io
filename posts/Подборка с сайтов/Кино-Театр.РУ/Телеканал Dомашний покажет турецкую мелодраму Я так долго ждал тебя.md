@@ -1,0 +1,4 @@
+<!--2025-11-03 11:45:51-->
+<div class="yb">
+  <div class="rss mw_f scroll kino_kino"><a href="https://www.kino-teatr.ru/kino/news/y2025/11-3/39534/" title="Телеканал «Dомашний» покажет турецкую мелодраму «Я так долго ждал тебя»"><img src="https://www.kino-teatr.ru/news/4/3/39534/poster.jpg" width="196" height="147" align="left" hspace="5" style="margin: 0px 10px 0px 5px" alt="Телеканал «Dомашний» покажет турецкую мелодраму «Я так долго ждал тебя»"/></a>Главные роли исполнили <a href=https://www.kino-teatr.ru/kino/acter/m/asia/300174/bio/ target=_blank>Озджан Дениз</a> и <a href=https://www.kino-teatr.ru/kino/acter/w/asia/540121/works/ target=_blank>Ирем Хельваджиоглу</a> <p class="titl"><a href="https://www.kino-teatr.ru/kino/news/y2025/11-3/39534/">Телеканал «Dомашний» покажет турецкую мелодраму «Я так долго ждал тебя»</a></p></div>
+</div>

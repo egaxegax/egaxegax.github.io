@@ -1,0 +1,4 @@
+<!--2025-11-03 13:19:27-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/f80/924/e2f/f80924e2f2ce20b8aee3970d661e0b0d.png" /><p>В конце октября 20025 года на платформе GitHub <a href="https://github.com/9ka1gg/whitemax/releases/tag/1.3.0" rel="noopener noreferrer nofollow">состоялся</a> релиз проекта <a href="https://github.com/9ka1gg/whitemax/releases/tag/1.3.0" rel="noopener noreferrer nofollow">WhiteMax 1.3.0</a> (<a href="https://github.com/9ka1gg/whitemax" rel="noopener noreferrer... <p class="titl"><a href="https://habr.com/ru/news/962808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962808">Релиз на GitHub проекта WhiteMax 1.3.0 — модификации мессенджера Max, приоритетом которой является безопасность</a></p></div>
+</div>
