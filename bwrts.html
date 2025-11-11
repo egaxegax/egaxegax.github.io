@@ -86,7 +86,7 @@
     }
     for(var i=0; i<page.m_wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="wrt'+(i+page.bottom)+'" class="wrap">'+addWrt(page.m_wrts[i], page.bottom+i+1)+'</div>';
+    '<div id="wrt'+(i+page.bottom)+'" class="wrap" style="padding:5px 10px">'+addWrt(page.m_wrts[i], page.bottom+i+1)+'</div>';
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.m_wrts.length == 0 || page.num%10 == 0 || urlParams().page); });

@@ -79,7 +79,7 @@
     }
     for(var i=0; i<page.genres.length; i++){
       document.getElementById('page_content').innerHTML +=
-    '<div id="gnr'+(i+page.bottom)+'" class="wrap">'+addGenre(page.genres[i], page.bottom+i+1)+'</div>';
+    '<div id="gnr'+(i+page.bottom)+'" class="wrap" style="padding:5px 10px">'+addGenre(page.genres[i], page.bottom+i+1)+'</div>';
     }
     page.num++;
     setTimeout(function(){ PAGE.lock = (page.genres.length == 0 || page.num%10 == 0 || urlParams().page); });

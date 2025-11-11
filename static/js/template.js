@@ -59,7 +59,8 @@ function urlBuild(o){
 //
 // array sort function from https://www.zachleat.com/web/array-sort/
 //
-function arraySort(aa,bb){
+function arraySort(aa,bb,dorev){
+  if(dorev) return arraySort(bb,aa);
   var a=( ''+aa ).toLowerCase(),
       b=( ''+bb ).toLowerCase();
   if(a > b) return 1;
