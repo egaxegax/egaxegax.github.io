@@ -1,0 +1,4 @@
+<!--2025-11-16 12:51:32-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/6e8/70c/53a/6e870c53a00230d719699534e72a9c89.png" /><p>Группа пользователей с ноутбуками Lenovo Legion Pro 7 (16IAX10H) <a href="https://github.com/nadimkobeissi/16iax10h-linux-sound-saga" rel="noopener noreferrer nofollow">объявили</a> на GitHub награду в размере $2 тыс. за программное устранение багов с динамиками этого устройства в Linux.</p> <a href="https://habr.com/ru/articles/966906/#habracut">Читать далее</a> <p class="titl"><a href="https://habr.com/ru/news/966906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966906">Пользователи ноутбука Lenovo Legion Pro 7 (16IAX10H) объявили награду в $2 тыс. за устранение багов с динамиками в Linux</a></p></div>
+</div>
