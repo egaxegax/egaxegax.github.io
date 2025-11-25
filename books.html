@@ -56,15 +56,17 @@
   }
 
   function addLast(r,p,ci){
-    var pdate = (r.match(/pdate:\s*(\d+)/) || ['',''])[1];
+    var pdate = (r.match(/<!--pdate:([^>]*)-->/) || ['',''])[1];
+    var cover = (r.match(/<!--cover:([^>]*)-->\n/) || ['',''])[1];
     var text = r;
     updateMetaTag('description', trstr(text.replace(/(<([^>]+)>)/gi,'').slice(0,1024), '.,;:?!') + ' ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
   '<div class="book msgtext inlbl vtop">'+
+  (cover ? 
     '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
-      '<img align="left" alt="" src="'+'/books/'+p.root+'/'+p.subj+'/'+p.title[2]+'.jpg">'+
-    '</a>'+
+      '<img align="left" alt="" src="'+'data:image/jpeg;base64,'+cover+'">'+
+    '</a>' : '')+
     '<a class="nodecor dark large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+p.title[2]+' &emsp; &emsp;</a><br>'+
     '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'">'+p.subj+'</a>'+
     '<p class="small gray">Жанр &nbsp; <a class="nodecor light" href="/books.html?'+tr(p.root)+'">'+(GENRES[p.root]||p.root)+'</a></p>'+
@@ -72,10 +74,10 @@
       '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title">'+addIClock()+' </span>'+
     '</p>'+
   (!isNaN(ci) ? 
-    '<p class="descr">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+
+    '<p class="descr mw_f scroll">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+
       ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'
     : 
-    '<p class="descr">'+r+
+    '<p class="descr mw_f scroll">'+r+
       '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Скачать и читать...</a>'+
     '</p>')+
   '</div>';

@@ -51,7 +51,7 @@
     var tmpl = 
   '<table class="msgtext" width="100%"><tr>'+
     '<td width="80%" class="hspaced" valign="center">'+
-      '<a class="nodecor dark" href="/books.html?'+tr(gnr[0])+'">'+(GENRES_RU[gnr[0]]||gnr[0])+'<em class="smaller gray"> / '+gnr[0]+'</em></a>'+
+      '<a class="nodecor dark" href="/books.html?'+tr(gnr[0])+'">'+(GENRES_RU[gnr[0]] ? GENRES_RU[gnr[0]]+'<em class="smaller gray"> / '+gnr[0]+'</em>' : gnr[0])+'</a>'+
     '</td>'+
     '<td valign="center"><b><i>'+gnr[1]+'</i></b></td>'+
     '<td valign="center" align="right"><i class="light small">'+i+'</i></td>'+

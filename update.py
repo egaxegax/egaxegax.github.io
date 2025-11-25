@@ -46,7 +46,21 @@ def main(path='.'):
         print(os.path.join(root, name), '...skip')
         continue
 
-      if cwd in ('songs',) and ext in ('.txt',):
+      if cwd in ('books',) and os.path.basename(root) != 'img' and ext in ('.jpg',):
+        from PIL import Image
+        import base64
+        buffer = io.BytesIO()
+        im = Image.open(os.path.join(root, name))
+        if im.mode == 'P': im = im.convert('RGB')
+        im.save(buffer, format='JPEG')
+        cover = base64.b64encode(buffer.getvalue()).decode()
+        book = open(os.path.join(root, fname +'.md')).read()
+        btags = [tag for tag in re.split('(<!--[^<]*-->)', book) if tag and tag.find('cover:') == -1]
+        btags.insert(len(btags)-1, '<!--cover:'+ cover +'-->')
+        # print(btags)
+        open(os.path.join(root, fname +'.md'), 'w').write(''.join(btags))
+        os.remove(os.path.join(root, name))
+      elif cwd in ('songs',) and ext in ('.txt',):
         text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
         text = re.sub('[\t ]*\n', '\n', text)
         text = re.sub('(^|\n)!([\t ]*)(.*)', r'\1\2*\3*', text)

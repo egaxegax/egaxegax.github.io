@@ -1,0 +1,4 @@
+<!--2025-11-18 14:23:51-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/028/2c4/033/0282c40337fa51a8f9bb7f64358ed2a0.png" /><p>Компания Anthropic <a href="https://www.anthropic.com/news/rwandan-government-partnership-ai-education" rel="noopener noreferrer nofollow">объявила</a> о стратегическом партнёрстве с правительством Руанды и африканским образовательным провайдером ALX. Цель инициативы — внедрение обучающего инструмента Chidi, созданного на базе языковой модели Claude, в... <p class="titl"><a href="https://habr.com/ru/companies/technokratos/news/967694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967694">Anthropic запускает масштабный образовательный проект в Африке: ИИ‑инструмент Chidi для сотен тысяч студентов</a></p></div>
+</div>

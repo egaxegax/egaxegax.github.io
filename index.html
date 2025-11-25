@@ -156,7 +156,7 @@
       if(p == 'page' && urlParams().page){ // ?page
         PAGE.doctitle += ' - '+ urlParams().page; // skip paginate
       }else if(p == 'find' && urlParams().find){ // ?find
-        if(PAGE.posts = PAGE.posts.filter(function(tit){ return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1; })){
+        if((PAGE.posts = PAGE.posts.filter(function(tit){ return SUBJ[tit[0]][0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1 || tit[2].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1; })).length){
           PAGE.posts = PAGE.posts.sort(function(a,b){ return arraySort(b[3],a[3]); }); // sort by datetime
           PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.posts.length+')</i>';
           PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ', ' + PAGE.posts[0][2] + ', поиск - ' + document.title;
