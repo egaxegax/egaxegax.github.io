@@ -57,7 +57,7 @@
 
   function addLast(r,p,ci){
     var pdate = (r.match(/<!--pdate:([^>]*)-->/) || ['',''])[1];
-    var cover = (r.match(/<!--cover:([^>]*)-->\n/) || ['',''])[1];
+    var cover = (r.match(/<!--cover:([^>]*)-->/) || ['',''])[1];
     var text = r;
     updateMetaTag('description', trstr(text.replace(/(<([^>]+)>)/gi,'').slice(0,1024), '.,;:?!') + ' ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
@@ -89,11 +89,16 @@
     var converter = new showdown.Converter(), // to markdown    
         text = r,
         html = converter.makeHtml(text);
+    var cover = (r.match(/<!--cover:([^>]*)-->/) || ['',''])[1];
     updateMetaTag('description', p.subj+', '+trstr(text));
     updateMetaTag('keywords', p.subj+', книги');
+    console.log(r,cover);
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext inlbl"><tr>'+
-    '<td class="about"><img class="rounded" src="'+'/books/img/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
+  (cover ? 
+    '<td class="about">'+
+      '<img class="rounded" alt="" src="'+'data:image/jpeg;base64,'+cover+'">'+
+    '</td>' : '')+
     '<td>&nbsp;</td>'+
     '<td>'+html+'</td></tr>'+
   '</table>';

@@ -63,7 +63,6 @@
 * [humor](humor)
 * [humor_fantasy](humor_fantasy)
 * [humor_prose](humor_prose)
-* [img](img)
 * [ironical_fantasy](ironical_fantasy)
 * [literature_19](literature_19)
 * [literature_20](literature_20)
