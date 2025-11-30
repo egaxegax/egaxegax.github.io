@@ -60,7 +60,7 @@ function urlBuild(o){
 // array sort function from https://www.zachleat.com/web/array-sort/
 //
 function arraySort(aa,bb,dorev,donum){
-  if(Number(dorev)) return arraySort(bb,aa);
+  if(dorev) return arraySort(bb,aa,0,donum);
   if(!donum){ //text sort
     aa=( ''+aa ).toLowerCase(),
     bb=( ''+bb ).toLowerCase();
