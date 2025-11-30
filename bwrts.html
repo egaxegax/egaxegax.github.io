@@ -45,6 +45,18 @@
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
+  function addWrtHead(){
+    var tmpl =
+  '<table width="100%" class="small" style="padding:0 5px"><tr>'+
+    '<td align="right">'+
+      '<a class="gray" href="?'+urlBuild({dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Имя'+'</a>&emsp;'+
+      '<a class="gray" href="?'+urlBuild({sort:2, dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Кол'+'</a>&emsp;'+
+      '<a class="gray" href="?'+urlBuild({sort:3, dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Время'+'</a>'+
+    '</td>'+
+  '</tr></table>';
+    return tmpl;
+  }
+
   function addWrt(wrt,i){
     var subdir = '';
     if (ROOTS[wrt[3]][0] != '.'){
@@ -55,8 +67,9 @@
     '<table class="av" width="100%"><tr>'+
       // '<td width="5%" class="hspaced"><div id="im'+i+'"></div></td>'+
       '<td width="80%" class="hspaced"><a class="nodecor dark" href="/books.html?'+tr(wrt[0])+'">'+wrt[0]+subdir+'</a></td>'+
-      '<td valign="center"><b><i>'+wrt[1]+'</i></b></td>'+
-      '<td valign="center" align="right"><i class="light small">'+i+'</i></td>'+
+      '<td width="8%" align="right"><b><i>'+wrt[1]+'</i></b></td>'+
+      '<td width="8%" align="right"><i class="light small">'+i+'</i></td>'+
+      '<td align="right" class="tooltip gray smaller" title="обновлено '+buildDate(wrt[2])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </td>'+
     '</tr></table>'+
   '</div>';
     // var img = new Image();
@@ -84,6 +97,9 @@
       document.getElementById('page_footer').innerHTML = addPaginator(page.wrts, page,
     '<button onclick="this.disabled = addPageContent(PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
+    if(iinit){
+      document.getElementById('page_content').innerHTML += addWrtHead();
+    }
     for(var i=0; i<page.m_wrts.length; i++){
       document.getElementById('page_content').innerHTML +=
     '<div id="wrt'+(i+page.bottom)+'" class="wrap" style="padding:5px 10px">'+addWrt(page.m_wrts[i], page.bottom+i+1)+'</div>';
@@ -100,7 +116,7 @@
     PAGE.num = urlParams().page||0; // start num page 
     PAGE.header = 'Найдено <b><i>'+SUBJ.length+'</i></b> авторов и <b><i>'+TITLES.length+'</i></b> книг в разных&emsp;'+
   '<a class="nodecor" href="/bgenres.html"><i>Жанрах</i></a></h1>';
-    PAGE.wrts = SUBJ;
+    PAGE.wrts = SUBJ.slice();
     if(urlParams().page){ // ?page
       document.title += ' - ' + urlParams().page;
       updateMetaTag('description', 'список авторов ' + urlParams().page);
@@ -111,8 +127,12 @@
       });
       PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.wrts.length+')</i>';
     }
+      // ?sort
+    if(urlParams().sort == 2)      PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(a[1],b[1], Number(urlParams().dir), 1); } );
+    else if(urlParams().sort == 3) PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(a[2],b[2], Number(urlParams().dir), 1); } );
+    else                           PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(a[0],b[0], Number(urlParams().dir)); } );
+      //
     document.getElementById('pheader').innerHTML = PAGE.header;
-    PAGE.wrts = PAGE.wrts.slice().sort(function(a,b){ return arraySort(a[0],b[0]); });
     document.getElementById('page_content').innerHTML = '';
     addPageContent(PAGE, 1);
     document.addEventListener('scroll', function() { // infinite scroll

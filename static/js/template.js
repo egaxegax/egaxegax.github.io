@@ -59,12 +59,14 @@ function urlBuild(o){
 //
 // array sort function from https://www.zachleat.com/web/array-sort/
 //
-function arraySort(aa,bb,dorev){
-  if(dorev) return arraySort(bb,aa);
-  var a=( ''+aa ).toLowerCase(),
-      b=( ''+bb ).toLowerCase();
-  if(a > b) return 1;
-  if(a < b) return -1;
+function arraySort(aa,bb,dorev,donum){
+  if(Number(dorev)) return arraySort(bb,aa);
+  if(!donum){ //text sort
+    aa=( ''+aa ).toLowerCase(),
+    bb=( ''+bb ).toLowerCase();
+  }
+  if(aa > bb) return 1;
+  if(aa < bb) return -1;
   return 0;
 }
 //
