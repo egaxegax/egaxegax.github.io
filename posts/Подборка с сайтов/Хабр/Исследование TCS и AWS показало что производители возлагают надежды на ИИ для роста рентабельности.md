@@ -1,0 +1,4 @@
+<!--2025-12-07 14:08:56-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d65/e54/344/d65e54344c5e4f99b4fe5c23bb896585.png" /><p>Новое исследование&nbsp;<a href="https://aimagazine.com/news/tcs-designing-the-future-of-chiplets-beyond-moores-law" rel="noopener noreferrer nofollow">Tata Consultancy Services</a>&nbsp;и Amazon Web Services выявило огромный разрыв между амбициями и реальностью: производители стремятся увеличить маржу с помощью ИИ, но при этом им не хватает базовой готовности к... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/974196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974196">Исследование TCS и AWS показало, что производители возлагают надежды на ИИ для роста рентабельности</a></p></div>
+</div>
