@@ -1,0 +1,4 @@
+<!--2025-12-08 14:44:11-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/76b/376/ac3/76b376ac34feb5affab03a32d4a21b9e.jpg" /><p>UserGate, российский разработчик решений по&nbsp;информационной безопасности, поддержал участников пятой всероссийской олимпиады «КиберОлимп 2025», финал которой состоялся в&nbsp;Самаре 28&nbsp;ноября. Эксперты вендора приняли участие в&nbsp;подготовке заданий для состязания, а&nbsp;также провели специальный мастер-класс по&nbsp;настройке межсетевого экрана новог... <p class="titl"><a href="https://habr.com/ru/companies/usergate/news/974570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974570">UserGate поддержал всероссийскую олимпиаду по кибербезопасности «КиберОлимп 2025» в Самаре</a></p></div>
+</div>

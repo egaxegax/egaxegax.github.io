@@ -1,0 +1,4 @@
+<!--2025-12-08 14:41:48-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/7c3/b24/98d/7c3b2498d565646bdc8e86f3968ec426.jpg" /><p><strong>Эксперты МТС Банка выступили с докладом «Построение системы контроля тарифов МТС Банка: от инициативы до внедрения» и рассказали о:</strong></p><p>●   переходе автоматизации ИТ к автоматизации процессов бизнес подразделений;</p><p>●   разделении бэклога на ИТ и бизнес задачи;</p><p>●   примерах автоматизации процессов бизнес подразделений — полноценный... <p class="titl"><a href="https://habr.com/ru/companies/simpleone/news/974568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974568">Итоги SimpleOne DAY 25: Построение системы контроля тарифов МТС Банка: от инициативы до внедрения</a></p></div>
+</div>
