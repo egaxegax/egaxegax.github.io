@@ -1,0 +1,4 @@
+<!--2025-12-15 14:54:35-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/564/1bf/dec/5641bfdecba6fc2fea77b3fce33a8655.png" /><p>Компания Alibaba выпустила обновление <strong>v0.5.0</strong> для <strong>Qwen Code</strong>.</p><p>Одно из ключевых изменений — более тесная интеграция с VS Code: теперь CLI бандлится вместе с релизным пакетом расширения, а кроссплатформенная совместимость стала заметно лучше.</p><p>Параллельно появился нативный TypeScript SDK, который упрощает встраивание Qwen... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/976952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976952">Русский язык, стабильность, поддержка DeepSeek V3.2 и Kimi-K2: вышел Qwen Code 0.5.0</a></p></div>
+</div>

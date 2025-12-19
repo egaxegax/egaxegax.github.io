@@ -1,0 +1,4 @@
+<!--2025-12-11 14:54:03-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/047/678/c35/047678c35f35d23162d7de64630ec18f.webp" /><p>Компания Disney официально разрешила пользователям Sora создавать видео с участием своих любимых персонажей без ограничений лицензий. В следующем году функция появится в Sora, и фанаты смогут генерировать материалы с героями из вселенной Disney, Pixar, Marvel и Star Wars. Disney также объявил, что лучшие работы, созданные пользователями, будут показывать... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/975826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975826">Disney разрешил Sora генерировать видео с персонажами компании и инвестирует $1 млрд в OpenAI</a></p></div>
+</div>

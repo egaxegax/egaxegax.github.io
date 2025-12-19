@@ -1,0 +1,4 @@
+<!--2025-12-18 14:02:29-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/dca/938/2e9/dca9382e963ca513a59dc5eef1dde298.webp" /><p>Adobe анонсировала крупное обновление для своей платформы Firefly, усилив инструменты для создания и редактирования видео с помощью ИИ. Новая версия предлагает ряд функций, которые выводят Firefly за рамки простой генерации видео по текстовым запросам и превращают его в полноценную творческую студию для гибкого контроля над материалом.&nbsp;</p> <a... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/978026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978026">Adobe расширяет возможности Firefly: улучшенный видеоредактор, точечные правки и неограниченные генерации</a></p></div>
+</div>

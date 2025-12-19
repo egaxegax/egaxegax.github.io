@@ -1,0 +1,4 @@
+<!--2025-12-12 13:55:29-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/5d2/0a2/e8a/5d20a2e8a065ffa5dbfcd5700d1329ef.jpeg" /><p>Разработчик Максим Гришутин (<a href="https://habr.com/ru/users/BarredEwe/articles/" rel="noopener noreferrer nofollow">BarredEwe</a>) <a href="https://barredewe.github.io/snowfall-website/" rel="noopener noreferrer nofollow">выпустил</a> утилиту Snowfall для macOS. Она добавляет на рабочий стол эффект снегопада. Код утилиты написан на Swift с использованием... <p class="titl"><a href="https://habr.com/ru/news/976176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976176">Разработчик выпустил утилиту на Swift и Metal, которая добавляет на рабочий стол Mac интерактивную анимацию снега</a></p></div>
+</div>

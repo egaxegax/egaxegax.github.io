@@ -1,0 +1,4 @@
+<!--2025-12-13 14:03:24-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/999/16f/200/99916f200a9a2d5e4e0c61938540e8b2.png" /><p>По всей видимости, OpenAI внедряет систему навыков, представленную Anthropic в октябре, как показало открытие пользователя Elias Judin,&nbsp;<a href="https://x.com/elias_judin/status/1999479682190966852" rel="noopener noreferrer nofollow">опубликованное на X.</a>&nbsp;Поддержка этих навыков появилась как в инструменте командной строки Codex, так и в ChatGPT.</p>... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/976358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976358">OpenAI незаметно внедряет модульную структуру навыков Anthropic для повышения возможностей агентов</a></p></div>
+</div>

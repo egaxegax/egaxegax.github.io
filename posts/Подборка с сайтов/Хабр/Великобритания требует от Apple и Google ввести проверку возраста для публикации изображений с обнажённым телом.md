@@ -1,0 +1,4 @@
+<!--2025-12-16 14:10:14-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/512/730/f28/512730f28ff9d8309316bbf006a367e0.jpg" /><p>Правительство Великобритании потребовало от Apple и Google внедрить в свои операционные системы алгоритмы обнаружения обнажённого тела, чтобы предотвратить съёмку и распространение изображений гениталий пользователями, которые не подтвердили своё совершеннолетие, <a href="http://www.ft.com/content/0ef79775-eadf-4cc9-b32c-e97b0eff816f" rel="noopener noreferrer... <p class="titl"><a href="https://habr.com/ru/news/977352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977352">Великобритания требует от Apple и Google ввести проверку возраста для публикации изображений с обнажённым телом</a></p></div>
+</div>

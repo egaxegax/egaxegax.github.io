@@ -1,0 +1,4 @@
+<!--2025-12-14 14:45:38-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/70b/424/172/70b42417207586cc929a712cce9f99f3.png" /><p>Разработчик Дмитрий Ковалёв <a href="https://github.com/KovalevDima/ClickHaskell" rel="noopener noreferrer nofollow">представил</a> открытый проект под&nbsp;названием ClickHaskell. Это реализация на&nbsp;языке программирования Haskell собственного протокола и клиента СУБД ClickHouse. Исходный код решения опубликован на&nbsp;GitHub под&nbsp;лицензией BSD 3-Clause... <p class="titl"><a href="https://habr.com/ru/news/976532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976532">Представлен проект ClickHaskell — реализация на Haskell собственного протокола и клиента СУБД ClickHouse</a></p></div>
+</div>
