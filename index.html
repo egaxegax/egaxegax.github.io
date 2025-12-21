@@ -66,10 +66,6 @@
   }
 
   function addPost(r,p,rs){
-    function checkAdult() {
-      if (html.search('data-adult')>-1) return confirm("Взрослый контент. Если вам меньше 18 лет покиньте её. Продолжить?");
-      return true;
-    }
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r) 
           .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
@@ -79,7 +75,9 @@
       updateMetaTag('description', trstr(html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,512), '.,') + ' ' + (urlParams().page||''));
       updateMetaTag('keywords', buildSubPath(ROOTS, SUBJ, p.title[0]) +', '+ p.title[2] +', читать, смотреть, видео, посты, статьи');
     }
-    if(p.view == 'post' && html.search('data-videoid')>-1 && checkAdult()) {
+    if(p.view == 'post' && html.search('data-videoid')>-1 && 
+        (html.search('data-adult') == -1 || confirm("Взрослый контент. Если вам меньше 18 лет покиньте её. Продолжить?")))
+    {
       html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
         '<iframe class="embed" align="middle" '+
           'src="'+((html.match(/data-videoid="([^"]+)"/) || []).pop() || '')+'" '+
