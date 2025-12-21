@@ -36,7 +36,7 @@ li::marker { color:green; }
 .br {border-right:1px dotted #dedede;}
 .bb {border-bottom:1px dotted #dedede;}
 .mb {padding-bottom:10px;}
-/* youtube, dzen */
+/* feed post */
 .yb { margin:5px 0 0 0; line-height:1.3em; }
 .yb a { color:#dedede; }
 .yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
@@ -46,13 +46,12 @@ li::marker { color:green; }
 .yb .smaller1 { font-size:100%; }
 .yb .smaller2 { font-size:90%; }
 .yb .smaller3 { display:none; }
-/* habr */
 .rss { min-height:150px; }
 .rss strong { font-weight:normal; }
 .kino_kino img,.kino_teatr img { margin:0px 10px 1px 0px !important; }
 @media (max-width:800px){ .rss img { display:block; margin:-10px -15px 10px -15px; max-width: calc(100% + 30px); }}
 @media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
-/* rss ria, eadaily */
+/* rss news ria, eadaily */
 .rssn { margin:5px 0; }
 .rssn a { color:#dedede; }
 .rssn img { height:50px; width:auto; margin:0 5px 0 !important; }
