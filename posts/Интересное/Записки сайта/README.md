@@ -384,3 +384,67 @@
 * [250810 1444](250810%201444.md)
 * [250816 1455](250816%201455.md)
 * [250920 1204](250920%201204.md)
+![](Erron_Blackk.jpg)  
+[Erron_Blackk](Erron_Blackk.jpg)
+
+* [FC_CSKA_Moscow_Logo](FC_CSKA_Moscow_Logo.svg)
+* [FC_Fakel_Voronezh_Logo](FC_Fakel_Voronezh_Logo.svg)
+* [FC_Krasnodar_Logo](FC_Krasnodar_Logo.svg)
+* [FC_Pari_NN_Logo](FC_Pari_NN_Logo.svg)
+* [FC_Rodina_Logo](FC_Rodina_Logo.svg)
+* [FC_Yenisey_Logo](FC_Yenisey_Logo.svg)
+* [Flag_of_Lebanon](Flag_of_Lebanon.svg)
+* [Flag_of_Mongolia](Flag_of_Mongolia.svg)
+![](Logo_lokomotiv.jpg)  
+[Logo_lokomotiv](Logo_lokomotiv.jpg)
+
+![](Logo_torpedo.jpg)  
+[Logo_torpedo](Logo_torpedo.jpg)
+
+![](MK-Logo.jpg)  
+[MK-Logo](MK-Logo.jpg)
+
+![](Mortal-Kombat-X.jpg)  
+[Mortal-Kombat-X](Mortal-Kombat-X.jpg)
+
+![](Scorpion-MK9.jpg)  
+[Scorpion-MK9](Scorpion-MK9.jpg)
+
+![](barykin.jpg)  
+[barykin](barykin.jpg)
+
+![](contra.jpg)  
+[contra](contra.jpg)
+
+![](hobbit.jpg)  
+[hobbit](hobbit.jpg)
+
+![](jon_bon_jovi.jpg)  
+[jon_bon_jovi](jon_bon_jovi.jpg)
+
+* [kubik-rubik](kubik-rubik.png)
+* [logo_melbet](logo_melbet.svg)
+* [logo_winline](logo_winline.png)
+![](luna_1.jpg)  
+[luna_1](luna_1.jpg)
+
+![](luna_2.jpg)  
+[luna_2](luna_2.jpg)
+
+![](luna_3.jpg)  
+[luna_3](luna_3.jpg)
+
+* [melbet](melbet.png)
+* [pacman](pacman.gif)
+![](richie_sambora.jpg)  
+[richie_sambora](richie_sambora.jpg)
+
+* [rsg-zhizn](rsg-zhizn.png)
+* [stol_1](stol_1.webp)
+* [stol_2](stol_2.webp)
+* [stol_3](stol_3.webp)
+![](zhigunov.jpg)  
+[zhigunov](zhigunov.jpg)
+
+![](zvezda_kreml.jpg)  
+[zvezda_kreml](zvezda_kreml.jpg)
