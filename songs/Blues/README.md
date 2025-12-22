@@ -1,6 +1,0 @@
-* [Adams Johnny](Adams%20Johnny)
-* [Animals](Animals)
-* [Armstrong Louis](Armstrong%20Louis)
-* [Billy's Band](Billy's%20Band)
-* [Eric Clapton](Eric%20Clapton)
-* [Skaggs Ricky](Skaggs%20Ricky)

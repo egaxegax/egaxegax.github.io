@@ -6,7 +6,7 @@
 #   SUBJ   = [name,count,lasttime,rootkey] = subject dir
 #   TITLES = [subjkey,sortkey,name,lasttime,rootkey] = files in subj. dir
 #
-# python3 ../update.py ( run from dir vesti,foto,posts,songs,books)
+# python3 ../update.py (run from dir vesti,foto,posts,songs,books)
 #
 
 import json, io, linecache, re, os, sys, time
@@ -33,7 +33,7 @@ def addimgtomd(impath, mdpath):
   if not os.path.exists(mdpath): return
   buffer = io.BytesIO()
   im = Image.open(impath)
-  if im.mode == 'P': im = im.convert('RGB')
+  im = im.convert('RGB')
   im.save(buffer, format='JPEG')
   cover = base64.b64encode(buffer.getvalue()).decode()
   book = open(mdpath).read()
@@ -67,6 +67,8 @@ def main(path='.'):
         addimgtomd(os.path.join(path, 'img', tr(os.path.basename(root)) +'.jpg'), os.path.join(root, name))
       elif cwd in ('books',) and ext in ('.jpg',):
         addimgtomd(os.path.join(root, name), os.path.join(root, fname+'.md'))
+      elif cwd in ('songs',) and ext in ('.jpg',):
+        addimgtomd(os.path.join(root, name), os.path.join(root, 'about.md'))
       elif cwd in ('songs',) and ext in ('.txt',):
         text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
         text = re.sub('[\t ]*\n', '\n', text)

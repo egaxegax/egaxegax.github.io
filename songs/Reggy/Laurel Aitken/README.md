@@ -1,1 +1,0 @@
-* [Skinhead](Skinhead.md)

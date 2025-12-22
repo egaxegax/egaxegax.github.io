@@ -2,6 +2,8 @@
 #
 # Remove files in folder by date filter.
 #
+# python3 ../updatefilter.py [<dir> <count_files> <do_remove>]
+#
 
 import linecache, re, os, sys, time, datetime
 

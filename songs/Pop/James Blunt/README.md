@@ -1,1 +1,0 @@
-* [You're beautiful](You're%20beautiful.md)

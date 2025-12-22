@@ -1,1 +1,0 @@
-* [No Second Prize](No%20Second%20Prize.md)

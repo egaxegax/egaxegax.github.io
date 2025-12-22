@@ -1,5 +1,0 @@
-* [Classic Girl](Classic%20Girl.md)
-* [Mountain Song](Mountain%20Song.md)
-* [Obvious](Obvious.md)
-* [Ocean size](Ocean%20size.md)
-* [Up the beach](Up%20the%20beach.md)

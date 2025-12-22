@@ -1,5 +1,0 @@
-* [I Need Somebody](I%20Need%20Somebody.md)
-* [Raw Power](Raw%20Power.md)
-* [Search and destroy](Search%20and%20destroy.md)
-* [Shake Appeal](Shake%20Appeal.md)
-* [The Passenger](The%20Passenger.md)

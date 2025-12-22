@@ -1,1 +1,0 @@
-* [Jon's Bar Mitzvah](Jon's%20Bar%20Mitzvah.md)

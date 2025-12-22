@@ -1,5 +1,0 @@
-* [Avrai](Avrai.md)
-* [E tu](E%20tu.md)
-* [Poster](Poster.md)
-* [Questo Piccolo Grande Amore](Questo%20Piccolo%20Grande%20Amore.md)
-* [Strada facendo](Strada%20facendo.md)

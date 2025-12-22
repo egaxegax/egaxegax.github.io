@@ -1,7 +1,0 @@
-* [Big Choice](Big%20Choice.md)
-* [Debt](Debt.md)
-* [Disconnected](Disconnected.md)
-* [I Want](I%20Want.md)
-* [No Authority](No%20Authority.md)
-* [Promises](Promises.md)
-* [You've Done Nothing](You've%20Done%20Nothing.md)

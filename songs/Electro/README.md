@@ -1,5 +1,0 @@
-* [Deep Forest](Deep%20Forest)
-* [Enigma](Enigma)
-* [Gorillaz](Gorillaz)
-* [Hapa](Hapa)
-* [Prodigy](Prodigy)

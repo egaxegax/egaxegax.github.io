@@ -1,1 +1,0 @@
-* [Supernova](Supernova.md)

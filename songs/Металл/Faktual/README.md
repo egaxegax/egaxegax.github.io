@@ -1,1 +1,0 @@
-* [Faktual](Faktual.md)

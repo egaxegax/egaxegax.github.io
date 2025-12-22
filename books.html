@@ -92,7 +92,6 @@
     var cover = (r.match(/<!--cover:([^>]*)-->/) || ['',''])[1];
     updateMetaTag('description', p.subj+', '+trstr(text));
     updateMetaTag('keywords', p.subj+', книги');
-    console.log(r,cover);
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext inlbl"><tr>'+
   (cover ? 

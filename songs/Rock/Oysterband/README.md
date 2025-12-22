@@ -1,1 +1,0 @@
-* [Rambling Irishman](Rambling%20Irishman.md)

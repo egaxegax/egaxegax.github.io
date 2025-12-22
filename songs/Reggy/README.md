@@ -1,8 +1,0 @@
-* [Bad Manners](Bad%20Manners)
-* [Desmond Dekker](Desmond%20Dekker)
-* [Dr Alban](Dr%20Alban)
-* [Judge Dread](Judge%20Dread)
-* [Laurel Aitken](Laurel%20Aitken)
-* [Marley Bob](Marley%20Bob)
-* [Quaye Finley](Quaye%20Finley)
-* [Sublime](Sublime)

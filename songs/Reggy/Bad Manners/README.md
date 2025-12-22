@@ -1,1 +1,0 @@
-* [Skinhead Girl](Skinhead%20Girl.md)

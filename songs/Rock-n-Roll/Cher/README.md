@@ -1,1 +1,0 @@
-* [Gypsies, Tramps, and Thieves](Gypsies,%20Tramps,%20and%20Thieves.md)

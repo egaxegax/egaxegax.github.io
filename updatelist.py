@@ -75,13 +75,12 @@ def main(path='.'):
       if name in ('README.md',):
         continue
 
-      if cwd in ('books', 'foto', 'posts', 'songs', 'vesti') and ext in ('.md',):
+      if cwd in ('books', 'foto', 'posts', 'songs') and ext in ('.md',):
         if fname == 'about':
           text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
           about = text.strip() + '\n\n'      # save about text
-      elif cwd in ('foto'):
-        pass
-      else:
+
+      if cwd in ('songs'):
         continue
 
       lntit = '[' + title + '](' + tr_url(title) + ext + ')'

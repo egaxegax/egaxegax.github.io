@@ -64,7 +64,7 @@
   '<div class="msgtext '+(window.innerWidth<800 ? '' : 'bigger0')+' scroll nowrap mw_f">'+
     '<table class="av collapse" width="100%"><tr>'+
       '<td valign="middle" width="1%">'+
-        '<div><img class="rounded" src="'+'/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></div>'+
+        '<div><img id="im'+p.i+'" class="rounded" align="left" alt="" src=""></div>'+
       '</td>'+
       '<td width="50%">'+
         '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'">&ensp;'+p.subj+' </a><br>'+
@@ -76,10 +76,14 @@
       '</td></tr>'+
     '</table>'+
   '</div>';
+    fetch(p.url.substr(1, p.url.lastIndexOf('/'))+'about.md').then(rs => rs.text()).then(cover => {
+      if(cover = (cover.match(/<!--cover:([^>]*)-->/) || ['',''])[1]) document.getElementById('im'+p.i).src = 'data:image/jpeg;base64,'+cover;
+    });
   }
   
   function addList(r,p){
     if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды ' + (urlParams().page||''));
+    document.getElementById(p.id).style.padding = '5px 10px';
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext scroll nowrap mw_f">'+
     '<table><tr>'+
@@ -95,10 +99,14 @@
     var converter = new showdown.Converter(), // to markdown    
         text = r,
         html = converter.makeHtml(text);
+    var cover = (r.match(/<!--cover:([^>]*)-->/) || ['',''])[1];
     updateMetaTag('description', p.subj+', '+trstr(text, '.,'));
     document.getElementById(p.id).innerHTML = 
   '<table class="msgtext collapse inlbl vmid mw_b"><tr>'+
-    '<td class="about"><img class="rounded" src="'+'/songs/'+p.root+'/'+p.subj+'/'+tr(p.subj)+'.jpg'+'" alt=""></td>'+
+  (cover ? 
+    '<td class="about">'+
+      '<img class="rounded" alt="" src="'+'data:image/jpeg;base64,'+cover+'">'+
+    '</td>' : '')+
     '<td class="hspace">'+html+'</td></tr>'+
   '</table>';
     return ' about';

@@ -1,1 +1,0 @@
-* [Holy Thunderforce](Holy%20Thunderforce.md)

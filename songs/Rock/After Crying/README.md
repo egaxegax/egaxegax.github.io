@@ -1,1 +1,0 @@
-* [Madrigal Love Part One](Madrigal%20Love%20Part%20One.md)
