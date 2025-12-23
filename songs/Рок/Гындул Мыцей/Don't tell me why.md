@@ -5,6 +5,7 @@ Don't tell me why
   *linistit.*  
   *In timp ce este distortion, va straduiti sa nu atingeti strunele mai subtiri.*  
   *Intreg cyntecul:*  
+
   ***Am***  
   My name is Nicky dick  
   ***C***  

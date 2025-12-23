@@ -102,7 +102,7 @@ def main(path='.'):
       text += '\n'.join(ititles)
       open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(text)
 
-    if dirs: # subdirs list
+    if ititles and dirs: # subdirs list
       isubj = []
       dirs.sort()
       for name in dirs:
