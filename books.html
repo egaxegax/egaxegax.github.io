@@ -62,7 +62,7 @@
     updateMetaTag('description', trstr(text.replace(/(<([^>]+)>)/gi,'').slice(0,1024), '.,;:?!') + ' ' + (urlParams().page||''));
     updateMetaTag('keywords', p.subj+', '+trstr(p.title[2])+', описания книг, читать, авторы, жанры');
     document.getElementById(p.id).innerHTML = 
-  '<div class="book msgtext inlbl vtop">'+
+  '<div class="book msgtext inlbl vtop mw_f scroll">'+
   (cover ? 
     '<a class="nodecor large" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">'+
       '<img align="left" alt="" src="'+'data:image/jpeg;base64,'+cover+'">'+
@@ -74,10 +74,10 @@
       '<span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title">'+addIClock()+' </span>'+
     '</p>'+
   (!isNaN(ci) ? 
-    '<p class="descr mw_f scroll">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+
+    '<p class="descr">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+
       ' <a class="hspaced light" href="/books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'
     : 
-    '<p class="descr mw_f scroll">'+r+
+    '<p class="descr">'+r+
       '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Скачать и читать...</a>'+
     '</p>')+
   '</div>';

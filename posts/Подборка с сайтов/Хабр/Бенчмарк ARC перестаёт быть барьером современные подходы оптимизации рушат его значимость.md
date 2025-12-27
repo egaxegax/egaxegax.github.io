@@ -1,0 +1,4 @@
+<!--2025-12-26 13:13:59-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/edb/087/303/edb0873033d04c699fbdd3a4e1ee8c4c.webp" /><p>Бенчмарк ARC (Abstraction and Reasoning Corpus), долгое время считавшийся одной из самых сложных проверок абстрактного мышления для ИИ, оказался ещё одной «жертвой» оптимизации и инженерных ухищрений в индустрии ИИ. По данным аналитиков и свежим результатам стартапа Poetiq, современные системы на базе больших моделей, включая GPT‑5.2 X‑High, показали до 75 %... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/980920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980920">Бенчмарк ARC перестаёт быть барьером: современные подходы оптимизации рушат его значимость</a></p></div>
+</div>

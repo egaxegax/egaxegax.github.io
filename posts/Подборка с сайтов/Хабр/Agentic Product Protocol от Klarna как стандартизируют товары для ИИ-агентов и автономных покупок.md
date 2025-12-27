@@ -1,0 +1,4 @@
+<!--2025-12-25 13:16:34-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/e35/638/47f/e3563847f894ea6ff1ed2e2be5fc197a.jpeg" /><p>Шведская финтех-компания Klarna представила Agentic Product Protocol — открытый стандарт, который должен стать базовым «языком» агентной коммерции. Протокол делает товарные каталоги машиночитаемыми и напрямую доступными для ИИ-агентов в момент, когда искусственный интеллект начинает вытеснять классические интерфейсы поиска и онлайн-покупок.</p><p>Agentic... <p class="titl"><a href="https://habr.com/ru/companies/technokratos/news/980534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980534">Agentic Product Protocol от Klarna: как стандартизируют товары для ИИ-агентов и автономных покупок</a></p></div>
+</div>

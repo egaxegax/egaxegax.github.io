@@ -19,5 +19,5 @@ input[type=text], select { background:rgb(114,112,113); color:#fff; }
 /**/
 .about img { max-width:50px; }
 .av img { width:100%; }
-.book img { max-width:150px; margin:-10px 10px 5px -15px; }
+.book img { max-width:150px; margin:-5px 10px 5px -5px; }
 .book .descr { line-height:1.3em; }
