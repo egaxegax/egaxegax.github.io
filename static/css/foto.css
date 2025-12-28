@@ -18,7 +18,7 @@ input[type=text], select { background:#fff; }
 /* .readme { font-size:93.75%; } */
 /*img*/
 @media (min-width:800px){ .foto { max-height:65vh; } }
-@media (max-width:800px){ .foto { max-height:45vh; } }
+@media (max-width:800px){ .foto { max-height:50vh; } }
 /*ads*/
 .mh_sm { max-height:100px; }
 .mw_1 { max-width:530px; }

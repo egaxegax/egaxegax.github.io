@@ -13,7 +13,7 @@
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?251102">
 <link rel="stylesheet" href="/static/css/markdown.css">
-<link rel="stylesheet" href="/static/css/posts.dark.css?251102">
+<link rel="stylesheet" href="/static/css/posts.dark.css?251228">
 <script src="/static/js/template.js?301125"></script>
 <script src="/static/js/metrics.js?251101"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
@@ -51,7 +51,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r); 
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext inlbl">'+ html +'</div>';
+  '<div class="inlbl">'+ html +'</div>';
     return ' about';
   }
 
@@ -88,7 +88,7 @@
       html = html.replace('<div class="inlbl text">', '<div class="inlbl text" style="max-width:100%">');
     }
     document.getElementById(p.id).innerHTML = 
-  '<div id="msg'+p.i+'" class="msgtext inlbl">'+ html +'</div>';
+  '<div id="msg'+p.i+'" class="inlbl">'+ html +'</div>';
     document.getElementById(p.id).innerHTML += 
   '<div class="msgfooter mw_f nowrap scroll">'+
     '<table class="collapse"><tr>'+

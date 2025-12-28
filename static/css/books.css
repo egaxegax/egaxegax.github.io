@@ -1,5 +1,5 @@
 /* light theme */
-.wrap { background:#fff; }
+.wrap { background:#fff; padding:5px 10px 5px 10px; }
 .dark { color:#333; }
 .gray { color:#777; }
 .light { color:#3c677b; }
@@ -18,5 +18,5 @@ input[type=text], select { background:#fff; }
 /**/
 .about img { max-width:50px; }
 .av img { width:100%; }
-.book img { max-width:150px; margin:-5px 10px 5px -5px; }
+.book img { max-width:150px; margin:0 10px 0 0; }
 .book .descr { line-height:1.3em; }
