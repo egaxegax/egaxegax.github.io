@@ -1,19 +1,14 @@
-﻿/**
+/**
  * JTab - Javascript/CSS Guitar Chord and Tab Notation for the Web.
- * Version 1.3.1
- * Written by Paul Gallagher (http://tardate.com), 2009. (original version and maintainer)
- * Contributions:
- *   Jason Ong (https://github.com/jasonong)
- *   Bruno Bornsztein (https://github.com/bborn)
- *   Binary Bit LAN (https://github.com/binarybitlan)
+ * Version 1.4.0
+ *
  * See:
- *   http://jtab.tardate.com : more information on availability, configuration and use.
- *   http://github.com/tardate/jtab/tree/master : source code repository, wiki, documentation
+ *   https://jtab.tardate.com : more information on availability, configuration and use.
+ *   https://github.com/tardate/jtab : source code repository, wiki, documentation
  *
  * This library also depends on the following two libraries that must be loaded for it to work:
- *   jQuery - http://www.jquery.com/
- *   Raphael - http://raphaeljs.com/
- *
+ *   jQuery - https://jquery.com/  (currently tested with 3.7.1)
+ *   Raphael - http://raphaeljs.com/ (currently tested with 2.3.0)
  *
  * This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General
  * Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option)
@@ -23,8 +18,8 @@
  * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
  * details.
  *
- * You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to
- * the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+ * You should have received a copy of the GNU General Public License along with this program.
+ * If not, see https://www.gnu.org/licenses/.
  */
 
 //
@@ -32,7 +27,7 @@
 //
 
 var jtab = {
-  Version : '1.3.1',
+  Version : '1.4.0',
   element_count:0, //TODO:
   Strings : {
   	AboutDialog : '<html><head><title>About jTab</title></head><body style=""><p style="">jTab version: {V}</p><p><a href="http://jtab.tardate.com" target="_blank">http://jtab.tardate.com</a></p><p><input type="button" class="close" value="OK" onClick="window.close()"/></p></body></html>'
@@ -97,7 +92,6 @@ var jtab = {
 
     D      : [ [ 0, [-1 ],  [0  ],  [0  ],  [2,1],  [3,3],  [2,2] ], [ 12, [-1,-1],  [12,1],  [12,1],  [14,3],  [15,4],  [14,2] ] ],
     Dm     : [ [ 0, [-1 ],  [0  ],  [0  ],  [2,2],  [3,3],  [1,1] ], [ 12, [-1,-1],  [12,1],  [12,1],  [14,3],  [15,4],  [13,2] ] ],
-    D5     : [ [ 4, [-1 ],  [5,2],  [7,3],  [7,3],  [-1 ],  [-1 ] ], [  ] ],
     D6     : [ [ 0, [-1 ],  [0  ],  [0  ],  [2,2],  [0  ],  [2,3] ], [ 12, [-1,-1],  [12,1],  [12,1],  [14,3],  [12,1],  [14,4] ] ],
     Dm6    : [ [ 0, [-1 ],  [2,2],  [0  ],  [2,3],  [0  ],  [1,1] ], [ 12, [-1,-1],  [14,3],  [12,1],  [14,4],  [12,1],  [1,2] ] ],
     D69    : [ [ 3, [-1 ],  [5,2],  [4,1],  [4,1],  [5,3],  [5,4] ], [  ] ],
@@ -144,7 +138,6 @@ var jtab = {
 
     E       : [ [ 0, [ 0 ],  [2,2],  [2,3],  [1,1],  [0  ],  [0  ] ], [ 12, [ 12,1],  [14,3],  [14,4],  [13,2],  [12,1],  [12,1] ] ],
     Em      : [ [ 0, [ 0 ],  [2,2],  [2,3],  [0  ],  [0  ],  [0  ] ], [ 12, [ 12,1],  [14,3],  [14,4],  [12,1],  [12,1],  [12,1] ] ],
-    E5      : [ [ 0, [ 0 ],  [2,2],  [2,3],  [-1 ],  [-1 ],  [-1 ] ], [  ] ],
     E6      : [ [ 0, [ 0 ],  [2,2],  [2,3],  [1,1],  [2,4],  [0  ] ], [ 12, [ 12,1],  [14,3],  [14,3],  [13,2],  [14,4],  [12,1] ] ],
     Em6     : [ [ 0, [ 0 ],  [2,1],  [2,2],  [0  ],  [2,3],  [0  ] ], [ 12, [ 12,1],  [14,2],  [14,3],  [12,1],  [14,4],  [12,1] ] ],
     E69     : [ [ 0, [-1 ],  [2,2],  [2,2],  [1,1],  [2,3],  [2,3] ], [  ] ],
@@ -214,13 +207,11 @@ var jtab = {
 
     G       : [ [ 0, [3,3],  [2,2],  [0  ],  [0  ],  [0  ],  [3,4] ], [ 12, [15,3], [14,2], [12,1], [12,1], [12,1], [15,4] ] ],
     Gm      : [ [ 0, [3,2],  [1,1],  [0  ],  [0  ],  [3,3],  [3,4] ], [ 12, [15,3], [13,2], [12,1], [12,1], [15,4], [15,4] ] ],
-    G5      : [ [ 2, [3,1],  [5,2],  [5,3],  [-1 ],  [-1 ],  [-1 ] ], [  ] ],
     G6      : [ [ 0, [3,3],  [2,2],  [0  ],  [0  ],  [0  ],  [0  ] ], [ 12, [15,4],  [14,3],  [12,1],  [12,1],  [12,1],  [12,1] ] ],
     Gm6     : [ [ 0, [-1 ],  [-1 ],  [2,1],  [3,3],  [3,3],  [3,3] ], [  ] ],
     G69     : [ [ 0, [3,3],  [2,1],  [0  ],  [2,2],  [0  ],  [0  ] ], [ 12, [15,4],  [14,3],  [12,1],  [14,2],  [12,1],  [12,1] ] ],
     G7      : [ [ 0, [3,3],  [2,2],  [0  ],  [0  ],  [0  ],  [1,1] ], [ 12, [15,4],  [14,3],  [12,1],  [12,1],  [12,1],  [13,2] ] ],
     Gm7     : [ [ 0, [-1 ],  [1,1],  [3,3],  [0  ],  [3,4],  [-1 ] ], [ 12, [-1 ],  [13,2],  [15,3],  [12,1],  [15,4],  [-1 ] ] ],
-    Gmaj    : [ [ 0, [3,3],  [2,2],  [0  ],  [0  ],  [0  ],  [2,1] ], [ 12, [15,3],  [14,2],  [12,1],  [12,1],  [12,1],  [14,4] ] ],
     Gmaj7   : [ [ 0, [3,3],  [2,2],  [0  ],  [0  ],  [0  ],  [2,1] ], [ 12, [15,3],  [14,2],  [12,1],  [12,1],  [12,1],  [14,4] ] ],
     "G7b5"  : [ [ 0, [3,2],  [-1 ],  [3,3],  [4,4],  [2,1],  [-1 ] ], [  ], [ 4, [-1 ],  [-1 ],  [5,1],  [6,2],  [6,3],  [7,4] ] ],
     "G7#5"  : [ [ 0, [3,1],  [-1 ],  [3,2],  [4,3],  [4,4],  [-1 ] ], [  ] ],
@@ -261,7 +252,6 @@ var jtab = {
     "G#aug" : [ [ 0, [0,-1], [3,4],  [2,3],  [1,1],  [1,2],  [0,-1] ], [  ] ],
 
     A       : [ [ 0, [-1],  [0  ],  [2,2],  [2,1],  [2,3],  [0  ] ], [ 12, [-1,-1], [12,1], [14,2], [14,3], [14,4], [12,1] ] ],
-    A5      : [ [ 4, [5,1], [7,3],  [7,3],  [-1 ],  [-1 ],  [-1 ] ], [  ] ],
     Am      : [ [ 0, [-1],  [0  ],  [2,2],  [2,3],  [1,1],  [0  ] ], [ 12, [-1,-1], [12,1], [14,3], [14,4], [13,2], [12,1] ] ],
     A6      : [ [ 0, [-1],  [0  ],  [2,1],  [2,1],  [2,1],  [2,1] ], [ 12, [-1,-1], [12,1], [14,3], [14,3], [14,3], [14,3] ] ],
     Am6     : [ [ 0, [-1],  [0  ],  [2,2],  [2,3],  [1,1],  [2,4] ], [ 12, [-1,-1], [12,1], [14,3], [14,3], [13,2], [14,4] ] ],
@@ -328,53 +318,7 @@ var jtab = {
     Bsus4   : [ [ 0, [ -1], [2,1],  [4,2],  [4,3],  [5,4],  [2,1] ], [  ] ],
     Bdim    : [ [ 0, [-1],  [2,1],  [3,2],  [4,4],  [3,3],  [-1 ] ], [  ] ],
     Bdim7   : [ [ 0, [-1],  [-1 ],  [0  ],  [1,1],  [0  ],  [1,2] ], [  ] ],
-    Baug    : [ [ 0, [-1],  [2,1],  [5,4],  [4,2],  [4,3],  [3,1] ], [  ] ],
-
-    "Hb"    : [ [ 0, [-1],  [1,1],  [3,3],  [3,3],  [3,3],  [1,1] ], [  ] ],
-    "Hbm"   : [ [ 0, [-1],  [1,1],  [3,3],  [3,4],  [2,2],  [1,1] ], [  ] ],
-    "Hb6"   : [ [ 0, [-1],  [1,1],  [3,3],  [3,3],  [3,3],  [3,3] ], [  ] ],
-    "Hbm6"  : [ [ 0, [-1],  [1,1],  [3,3],  [0  ],  [2,2],  [-1 ] ], [  ] ],
-    "Hb69"  : [ [ 0, [-1],  [1,1],  [0  ],  [0  ],  [1,2],  [1,3] ], [  ] ],
-    "Hb7"   : [ [ 0, [-1],  [1,1],  [3,3],  [1,1],  [4,4],  [1,1] ], [  ] ],
-    "Hbm7"  : [ [ 0, [-1],  [1,1],  [3,3],  [1,1],  [2,2],  [1,1] ], [  ] ],
-    "Hbmaj7": [ [ 0, [-1],  [1,1],  [3,3],  [2,2],  [3,4],  [1,1] ], [  ] ],
-    "Hb7b5" : [ [ 4, [6,2], [-1 ],  [6,3],  [7,4],  [5,1],  [-1 ] ], [  ] ],
-    "Hb7#5" : [ [ 5, [6,1], [-1 ],  [6,2],  [7,3],  [7,4],  [-1 ] ], [  ] ],
-    "Hbm7b5": [ [ 0, [-1],  [1,1],  [-1 ],  [1,2],  [2,3],  [-1 ] ], [  ] ],
-    "Hb7b9" : [ [ 6, [-1],  [-1 ],  [8,2],  [7,1],  [9,4],  [7,1] ], [  ] ],
-    "Hb9"   : [ [ 0, [1,1], [1,2],  [0  ],  [1,3],  [1,3],  [1,3] ], [  ] ],
-    "Hbm9"  : [ [ 5, [-1],  [-1 ],  [-1 ],  [6,1],  [6,1],  [8,4] ], [  ] ],
-    "Hbmaj9": [ [ 0, [-1],  [1,1],  [0  ],  [2,4],  [1,2],  [1,3] ], [  ] ],
-    "Hbadd9": [ [ 0, [1,1], [1,1],  [0  ],  [3,4],  [1,1],  [1,1] ], [  ] ],
-    "Hb13"  : [ [ 0, [-1 ], [1,1],  [0  ],  [1,2],  [3,4],  [3,4] ], [  ] ],
-    "Hbsus2": [ [ 0, [-1],  [1,1],  [3,3],  [3,4],  [1,1],  [1,1] ], [  ] ],
-    "Hbsus4": [ [ 0, [-1],  [1,1],  [3,2],  [3,3],  [4,4],  [1,1] ], [  ] ],
-    "Hbdim" : [ [ 0, [-1],  [1,1],  [2,2],  [3,4],  [2,3],  [-1 ] ], [  ] ],
-    "Hbdim7": [ [ 0, [-1],  [-1 ],  [2,1],  [3,3],  [2,2],  [3,4] ], [  ] ],
-    "Hbaug" : [ [ 0, [-1],  [1,1],  [4,4],  [3,2],  [3,3],  [2,1] ], [  ] ],
-
-    H       : [ [ 0, [ -1], [2,1],  [4,3],  [4,3],  [4,3],  [2,1] ], [  ] ],
-    Hm      : [ [ 0, [ -1], [2,1],  [4,3],  [4,4],  [3,2],  [2,1] ], [  ] ],
-    H6      : [ [ 0, [ -1], [2,1],  [4,3],  [4,3],  [4,3],  [4,3] ], [  ] ],
-    Hm6     : [ [ 0, [ -1], [-1 ],  [4,2],  [4,3],  [3,1],  [4,4] ], [  ] ],
-    H69     : [ [ 0, [ -1], [2,2],  [1,1],  [1,1],  [2,3],  [2,4] ], [  ] ],
-    H7      : [ [ 0, [ -1], [2,2],  [1,1],  [2,3],  [0  ],  [2,4] ], [  ] ],
-    Hm7     : [ [ 0, [ -1], [2,2],  [0  ],  [2,3],  [0  ],  [2,4] ], [  ] ],
-    Hmaj7   : [ [ 0, [ -1], [2,1],  [4,3],  [3,2],  [4,4],  [2,1] ], [  ] ],
-    H7b5    : [ [ 5, [7,2], [-1 ],  [7,3],  [8,4],  [6,1],  [-1 ] ], [  ] ],
-    "H7#5"  : [ [ 0, [ -1], [2,2],  [1,1],  [2,3],  [0  ],  [3,4] ], [  ] ],
-    "Hm7b5" : [ [ 0, [-1 ], [2,2],  [0  ],  [2,3],  [0  ],  [1,1] ], [  ] ],
-    H7b9    : [ [ 0, [ -1], [2,2],  [1,1],  [2,3],  [1,1],  [2,4] ], [  ] ],
-    H9      : [ [ 6, [7,1], [9,3],  [7,1],  [8,2],  [7,1],  [9,4] ], [  ] ],
-    Hm9     : [ [ 0, [ -1], [2,1],  [0  ],  [2,2],  [2,3],  [2,4] ], [  ] ],
-    Hmaj9   : [ [ 0, [ -1], [2,2],  [1,1],  [3,4],  [2,3],  [2,3] ], [  ] ],
-    Hadd9   : [ [ 0, [ -1], [2,1],  [4,3],  [4,4],  [2,1],  [2,1] ], [  ] ],
-    H13     : [ [ 0, [-1 ], [2,2],  [1,1],  [2,3],  [0  ],  [4,4] ], [  ] ],
-    Hsus2   : [ [ 0, [ -1], [2,1],  [4,3],  [4,4],  [2,1],  [2,1] ], [  ] ],
-    Hsus4   : [ [ 0, [ -1], [2,1],  [4,2],  [4,3],  [5,4],  [2,1] ], [  ] ],
-    Hdim    : [ [ 0, [-1],  [2,1],  [3,2],  [4,4],  [3,3],  [-1 ] ], [  ] ],
-    Hdim7   : [ [ 0, [-1],  [-1 ],  [0  ],  [1,1],  [0  ],  [1,2] ], [  ] ],
-    Haug    : [ [ 0, [-1],  [2,1],  [5,4],  [4,2],  [4,3],  [3,1] ], [  ] ]
+    Baug    : [ [ 0, [-1],  [2,1],  [5,4],  [4,2],  [4,3],  [3,1] ], [  ] ]
   },
   WesternScale: {
     BaseNotes:  { // for each: array[ translated western scale note, caged base, base fret ]
@@ -394,11 +338,9 @@ var jtab = {
       'A' : [ 'A' , 'A', 0 ],
       'A#': [ 'Bb', 'A', 1 ],
       'Bb': [ 'Bb', 'A', 1 ],
-      'B' : [ 'B' , 'A', 2 ],
-      'Hb': [ 'Hb', 'A', 1 ],
-      'H' : [ 'H' , 'A', 2 ]
+      'B' : [ 'B' , 'A', 2 ]
     },
-    BaseIntervals: ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'G#', 'A', 'Bb', 'B', 'Hb', 'H']
+    BaseIntervals: ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'G#', 'A', 'Bb', 'B']
   },
   ChordList : function() {
     var list = [];
@@ -463,7 +405,7 @@ function jtabChord (token) {
     this.chordName = parts[0];
     this.cagedPos = parts[1];
   } else if (this.isCustom){
-    var parts = this.fullChordName.match( /\[(.+?)\]/ );
+    var parts = this.fullChordName.match( /\[(.*?)\]/ );
     if(parts){
       this.chordName = parts[1];
     } else {
@@ -473,7 +415,7 @@ function jtabChord (token) {
     this.chordName = this.fullChordName;
     this.cagedPos = 1;
   }
-  this.rootExt = this.chordName.replace(/^[A-GH#b]{1,2}/,'');
+  this.rootExt = this.chordName.replace(/^[A-G#b]{1,2}/,'');
   this.rootNote = this.chordName.substr(0, this.chordName.length - this.rootExt.length);
   var baseNoteInfo = this.baseNotes[this.rootNote];
   if (baseNoteInfo) {
@@ -500,7 +442,7 @@ jtabChord.prototype.setCustomChordArray = function(){
 };
 
 jtabChord.prototype.parseCustomChordArrayFromToken = function() {
-  notes = this.fullChordName.replace(/(\%|\[.+\])/g, '');
+  notes = this.fullChordName.replace(/(\%|\[.*?\])/g, '');
   pairs = notes.split('.');
   if (pairs.length < 6){
     this.isValid = false;
@@ -610,7 +552,7 @@ Raphael.fn.debug = false;
 Raphael.fn.scale = 1;
 Raphael.fn.margin_top = 36;
 Raphael.fn.margin_bottom = 10;
-Raphael.fn.margin_left = 7;
+Raphael.fn.margin_left = 16;
 Raphael.fn.margin_right = 10;
 
 Raphael.fn.current_offset = Raphael.fn.margin_left;
@@ -673,9 +615,9 @@ Raphael.fn.svg_params = function(x,y,l1,l2) {
 Raphael.fn.chord_fretboard = function ( position, chord_name ) {
   var fret_left = this.current_offset + this.margin_left;
   // conventional fret labels
-  // var fret_labels = [ '', '', '', 'III', '', 'V', '', 'VII', '', 'IX', '', '', 'XII', '', '', 'XV', '', 'XVII', '', 'XIX', '', 'XXI', '' ];
+  var fret_labels = [ '', '', '', 'III', '', 'V', '', 'VII', '', 'IX', '', '', 'XII', '', '', 'XV', '', 'XVII', '', 'XIX', '', 'XXI', '' ];
   // alternative friendly fret labels. Currently disabled, maybe bring these back as a configurable option?
-  var fret_labels = [ '', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '' ];
+  // var fret_labels = [ '', '1fr', '2fr', '3fr', '4fr', '5fr', '6fr', '7fr', '8fr', '9fr', '10fr', '11fr', '12fr', '13fr', '14fr', '15fr', '16fr', '17fr', '18fr', '19fr', '20fr', '21fr', '' ];
 
   this.text( // chord name
     fret_left + 2.5 * this.string_spacing,
@@ -696,7 +638,7 @@ Raphael.fn.chord_fretboard = function ( position, chord_name ) {
       this.text(
           fret_left + this.fret_width + this.string_spacing * 1.0,
           this.margin_top + ( ( i - 0.5 ) * this.fret_spacing),
-          pos).attr({stroke: this.tab_text_color, "font-size":"12px"});
+          pos).attr({stroke: "none", "font-size":"12px"});
     }
   }
   for (var i = 0; i < this.strings_drawn; i++ ) {
@@ -781,10 +723,10 @@ Raphael.fn.chord_note = function (position, string_number, note) {
 
   if (fret_number < 0 ) {
     // muted/not played
-    this.text(fret_left + (string_number - 1) * this.string_spacing, this.margin_top - 8, "x").attr({stroke: this.tab_text_color, "font-size":"9px"});
+    this.text(fret_left + (string_number - 1) * this.string_spacing, this.margin_top - 8, "x").attr({stroke: "none", "font-size":"9px"});
   } else if (fret_number == 0 ) {
     // open
-    this.text(fret_left + (string_number - 1) * this.string_spacing, this.margin_top - 8, "o").attr({stroke: this.tab_text_color, "font-size":"9px"});
+    this.text(fret_left + (string_number - 1) * this.string_spacing, this.margin_top - 8, "o").attr({stroke: "none", "font-size":"9px"});
   } else {
     var fret_dy = (fret_number - position - 0.5) * this.fret_spacing;
     //var circle =
@@ -839,13 +781,13 @@ Raphael.fn.draw_tab_note = function (string_number, token, left_offset) {
           token).attr({fill: this.color, "font-size":"16px"});
 }
 
-// gets string number from token $[1-6|EADGBeH]
+// gets string number from token $[1-6|EADGBe]
 Raphael.fn.get_string_number = function (token) {
   var string_number = null;
-  if ( token.match( /^\$[1-7]/ ) != null ) {
+  if ( token.match( /^\$[1-6]/ ) != null ) {
      string_number = token.substr(1,1);
-  } else if ( token.match( /^\$[EADGBeH]/ ) != null ) {
-     string_number =  7 - "EADGBeH".indexOf(token.substr(1,1));
+  } else if ( token.match( /^\$[EADGBe]/ ) != null ) {
+     string_number =  6 - "EADGBe".indexOf(token.substr(1,1));
   }
   return string_number;
 }
@@ -925,8 +867,8 @@ Raphael.fn.render_token = function (token) {
 
   if ( c.isValid ) { // draw chord
     var chord = c.chordArray;
-    this.chord_fretboard(chord[0], c.fullChordName );
-    // this.chord_fretboard(chord[0], c.chordName );
+    // this.chord_fretboard(chord[0], c.fullChordName );
+    this.chord_fretboard(chord[0], c.chordName );
     for (var i = 1; i < chord.length ; i++) {
       this.chord_note(chord[0], i, chord[i]);
     }
@@ -966,7 +908,7 @@ jtab.characterize = function (notation) {
   }
 
   var gotCustomChord = ( notation.match( /[\%]([0-4|T|X])?/ )   != undefined );
-  var gotNormalChord = ( notation.match( /[^\$][A-GH]|^[A-GH]/ )  != undefined );
+  var gotNormalChord = ( notation.match( /[^\$][A-G]|^[A-G]/ )  != undefined );
   var gotTab = ( ( notation.match( /\$/ ) != null ) || ( notation.match( /[^\%][0-9|Xx|\.]{6,}/ ) != null ) );
   var gotChord =  gotNormalChord || gotCustomChord ;
 
@@ -1016,13 +958,13 @@ jtab.setPalette = function (element) {
     fgColor = '#000';
   }
   Raphael.fn.color = fgColor;
-//  Raphael.fn.tab_text_color = fgColor;
+  Raphael.fn.tab_text_color = '#000';
 
   bgColor = jtab.getStyle( jQuery(element), 'background-color' );
   if (!bgColor || (bgColor == 'transparent') || (bgColor == 'rgba(0, 0, 0, 0)')) {
     bgColor = '#fff';
   }
-  // Raphael.fn.fingering_text_color = bgColor;
+  Raphael.fn.fingering_text_color = bgColor;
 }
 
 // Render the tab for a given +element+.
@@ -1062,10 +1004,14 @@ jtab.renderimplicit = function(within_scope) {
 // initialize jtab library.
 // Sets up to run implicit rendering on window.onload
 jtab.init = function() {
-  var oldonload = window.onload;
-  window.onload = function() {
-    if (typeof oldonload == 'function') oldonload();
-    jtab.renderimplicit(null);
+  if (document.readyState === "complete") {
+    jtab.renderimplicit();
+  } else {
+    var oldonload = window.onload;
+    window.onload = function() {
+      if (typeof oldonload == 'function') oldonload();
+      jtab.renderimplicit();
+    }
   }
 }
 

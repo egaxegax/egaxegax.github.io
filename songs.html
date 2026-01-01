@@ -21,14 +21,13 @@
 .chords { line-height:1.3em; }
 .chords strong em { font-weight:500; font-style:normal; }
 .chords a { text-decoration:none; }
-.rendered tspan { stroke:none; }
 #songcont p { margin-top:0;  }
 </style>
 <script src="/static/js/template.js?301125"></script>
 <script src="/static/js/metrics.js?251101"></script>
-<script src="/static/js/3rdparty/jquery.min.js"></script>
-<script src="/static/js/3rdparty/rafael.min.js?v1.1.10"></script>
-<script src="/static/js/3rdparty/jtab.js?v1.1.10"></script>
+<script src="/static/js/3rdparty/jtab/jquery.js"></script>
+<script src="/static/js/3rdparty/jtab/raphael.js"></script>
+<script src="/static/js/3rdparty/jtab/jtab.js"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
 <body>
@@ -163,9 +162,11 @@
 
     for (var k=0; k<songChords.length; k++){
       var el = document.createElement('div');
-      el.appendChild(document.createTextNode(songChords[k]));
       chordCont.appendChild(el);
-      jtab.render(el);
+      if(['A#','A#m','C#','Cm','C#m','D#','D#m','E#','G#','Gm','G#m'].indexOf(songChords[k]) != -1)
+        jtab.render(el, songChords[k]+':2');
+      else
+        jtab.render(el, songChords[k]);
     }
   }
 
