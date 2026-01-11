@@ -1,0 +1,4 @@
+<!--2026-01-02 12:45:04-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/99e/545/fa9/99e545fa986a02d5eb5217339f7b72f0.png" /><p>1&nbsp;января 2026&nbsp;года <a href="https://github.com/EvilBeaver/OneScript/releases/tag/v2.0.0" rel="noopener noreferrer nofollow">состоялся</a> выпуск открытого проекта <a href="https://oscript.io/" rel="noopener noreferrer nofollow">OneScript 2.0.0</a>. В&nbsp;рамках этого решения развивается независимо от&nbsp;компании «1С» кроссплатформенная виртуальная... <p class="titl"><a href="https://habr.com/ru/news/982400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982400">Вышел проект OneScript 2.0.0 — это среда исполнения скриптов на языке технологической платформы «1С: Предприятия 8»</a></p></div>
+</div>

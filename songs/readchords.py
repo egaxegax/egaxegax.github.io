@@ -10,7 +10,7 @@ import os, sys, time, re, glob, json
 sys.path.insert(0, '..')
 from update import main as update_main
 from updatelist import main as updatelist_main
-from updateturbo import main as updateturbo_main
+from updaterssd import main as updaterss_main
 
 path = '.'
 if len(sys.argv) > 1:

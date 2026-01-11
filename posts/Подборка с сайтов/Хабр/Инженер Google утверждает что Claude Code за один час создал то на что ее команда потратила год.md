@@ -1,0 +1,4 @@
+<!--2026-01-03 12:47:32-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d6b/db6/e97/d6bdb6e97eaabd84dec0ffffb0386b63.jpg" /><p>Старший инженер Google утверждает, что Claude Code за час сгенерировал работающую систему, над которой ее команда работала с прошлого года.</p><p>Яана Доган, ведущий инженер Google, отвечающая за API Gemini,&nbsp;<a href="https://x.com/rakyll/status/2007239758158975130" rel="noopener noreferrer nofollow">написала в X</a>, что она описала задачу Claude Code и... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/982582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982582">Инженер Google утверждает, что Claude Code за один час создал то, на что ее команда потратила год</a></p></div>
+</div>

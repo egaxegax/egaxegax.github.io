@@ -1,0 +1,4 @@
+<!--2026-01-06 14:37:54-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/ad8/853/8e4/ad88538e4c83010fd98b1c6c9f4bb0bf.webp" /><p>Гонка за&nbsp;созданием <strong>искусственного общего интеллекта</strong> превратилась в&nbsp;одну из&nbsp;навязчивых идей Кремниевой долины&nbsp;— почти в&nbsp;ее фирменную манию.</p><p>Однако <strong>Даниэла Амодей</strong>, президент и сооснователь Anthropic, дала понять, что&nbsp;сам этот термин&nbsp;— удобная формула, призванная обозначить момент, когда... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/983234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983234">Гонка за AGI остановилась? Нет, но, возможно, мы бежим не туда, считает Даниэла Амодей (Anthropic)</a></p></div>
+</div>

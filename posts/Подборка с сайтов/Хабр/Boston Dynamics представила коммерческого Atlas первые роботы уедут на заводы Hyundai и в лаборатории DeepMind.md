@@ -1,0 +1,4 @@
+<!--2026-01-06 13:02:51-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/c4b/290/02f/c4b29002f3cdfb843f94197cfc147640.jpg" /><p>Boston Dynamics <a href="https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/" rel="noopener noreferrer nofollow">анонсировала</a> финальную версию гуманоидного робота Atlas. После 13 лет разработки и множества прототипов компания перевела проект из исследовательской стадии в коммерческий продукт — теперь Atlas... <p class="titl"><a href="https://habr.com/ru/news/983216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983216">Boston Dynamics представила коммерческого Atlas: первые роботы уедут на заводы Hyundai и в лаборатории DeepMind</a></p></div>
+</div>

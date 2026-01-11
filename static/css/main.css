@@ -79,4 +79,5 @@ p { margin:10px auto; }
 .mw_2 { max-width:820px; }
 .mw_3 { max-width:260px; }
 .mw_b { max-width:800px; }
-.mw_f { max-width:calc(100vw - 20px); }
+@media (min-width:800px){ .mw_f { max-width:800px; } }
+@media (max-width:800px){ .mw_f { max-width:calc(100vw - 20px); } }

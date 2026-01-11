@@ -1,0 +1,4 @@
+<!--2026-01-08 13:43:45-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/11a/3d2/a82/11a3d2a82c68ad4d66af861ac173235f.webp" /><p>Вечером 4&nbsp;января пользователи из&nbsp;разных стран <a href="https://www.reddit.com/r/leagueoflegends/comments/1q40aen/comment/nxr1vx6/" rel="noopener noreferrer nofollow">начали</a> жаловаться на&nbsp;невозможность зайти в&nbsp;League of Legends&nbsp;— игра пускала геймеров&nbsp;лишь на&nbsp;стартовый экран загрузки. Выяснилось, что&nbsp;проблема возникла... <p class="titl"><a href="https://habr.com/ru/news/983626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983626">Миллионы игроков League of Legends остались без доступа к игре из‑за того, что Riot забыла обновить SSL‑сертификат</a></p></div>
+</div>

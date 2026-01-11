@@ -1,0 +1,4 @@
+<!--2026-01-06 13:30:13-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/7a7/d02/dea/7a7d02deaa9ad67095835d52dae1a458.webp" /><p>Выступая на&nbsp;ежегодной технологической выставке CES в&nbsp;Лас‑Вегасе, глава компании Дженсен Хуанг заявил, что&nbsp;система под&nbsp;названием <strong>Alpamayo</strong> призвана наделить автономные машины способностью к&nbsp;рассуждению.</p><p>Хуанг отметил, что&nbsp;Nvidia уже сотрудничает с&nbsp;Mercedes над созданием беспилотного автомобиля на&nbsp;базе... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/983224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983224">Nvidia сотрудничает с Mercedes и раскрыла планы по роботакси. Что ответил Илон Маск?</a></p></div>
+</div>

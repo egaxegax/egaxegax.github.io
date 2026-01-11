@@ -5,6 +5,7 @@
 
 RSSlist = [
   ('Подборка из VoyeurHit/Spy Cam, Upskirt', 'sitemap_vids_70'),
+  # https://voyeurspycam.live/rss.xml
 ]
 
 import os, sys, time
@@ -16,7 +17,7 @@ sys.path.insert(0, cdir+'/..')
 
 from update import main as update_main
 from updatelist import main as updatelist_main, tr, tr_chars, tr_cut
-from updateturbo import main as updateturbo_main
+from updaterssd import main as updaterss_main
 
 fcount = 0
 

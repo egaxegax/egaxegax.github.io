@@ -12,7 +12,7 @@ cdir = os.path.dirname(__file__)
 sys.path.insert(0, cdir+'/..')
 from update import main as update_main
 from updatelist import main as updatelist_main, tr, tr_chars, tr_cut
-from updateturbo import main as updateturbo_main
+from updaterssd import main as updaterss_main
 
 total = 15
 fcount = 0

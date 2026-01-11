@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 #
-# Update Yandex Turbo Page turbopage.rss in {songs, posts} dir
+# Update Yandex Turbo Page RSS files in {songs, posts} dir
 #
-# python3 ../update.py (gen index.js)
-# python3 ../updateturbo.py (gen rsstrb.xml)
+# python3 ../updateturbo.py (gen rss-trb.xml)
 #
 
 import sys, os, io, time, re
