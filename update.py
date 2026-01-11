@@ -11,6 +11,7 @@
 
 import json, io, linecache, re, os, sys, time
 from updatelist import main as updatelist_main, E_OS, tr
+from updaterssd import main as updaterss_main
 
 def compact(s):
   s = re.sub(r'([\[,\]]+)\s*\n','\g<1>',s)
@@ -190,3 +191,4 @@ def main(path='.'):
 if __name__ == '__main__':
   main()
   updatelist_main()
+  updaterss_main()

@@ -18,7 +18,7 @@ def main(path='.', icount=0, surl='egax.ru', sdir='', chadult='nonadult'):
   sind = cwd
   if sind == 'posts':
     sind = 'index'
-  chtitl = {'books': 'Книги', 'foto':'Фото', 'posts': 'Подборка статей на разные темы', 'songs':'Аккорды'}.get(cwd, cwd)
+  chtitl = {'books': 'Книги', 'foto':'Фото', 'posts': 'Подборка статей на разные темы', 'songs':'Аккорды и тексты песен'}.get(cwd, cwd)
   try:
     exec(open(os.path.join(path, 'index.js'), encoding='utf-8', newline='\n').read())
   except:
@@ -72,7 +72,7 @@ def main(path='.', icount=0, surl='egax.ru', sdir='', chadult='nonadult'):
 """.format(surl=surl, sind=sind, chtitl=chtitl, items=''.join(items))
 
     io.open(os.path.join(sdir or path, 'rss-dzen'+surls.get(surl, '')+ rcount +'.xml'), 'w', encoding='utf-8', newline='\n').write(rsstext)
-    print(sdir+'/rss-dzen'+surls.get(surl, '')+ rcount +'.xml', len(items))
+    print(os.path.join(sdir or path, 'rss-dzen'+surls.get(surl, '')+ rcount +'.xml'), len(items))
 
 if __name__ == '__main__':
   main(*sys.argv[1:])
