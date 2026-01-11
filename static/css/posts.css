@@ -47,7 +47,7 @@ input[type=text], select { background:#fff; }
 .rss { min-height:150px; }
 .rss strong { font-weight:normal; }
 .kino_kino img,.kino_teatr img { margin:0px 10px 1px 0px !important; }
-@media (max-width:800px){ .rss img { display:block; margin:0 0 10px 0; }}
+@media (max-width:800px){ .rss img { border-radius:2px; display:block; margin:0 0 10px 0; }}
 @media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss news ria, eadaily */
 .rssn { margin:5px 0 5px; }
