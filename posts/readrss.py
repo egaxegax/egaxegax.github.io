@@ -73,4 +73,4 @@ if fcount:
   os.chdir(cdir)
   update_main()
   updatelist_main()
-  updateturbo_main()
+  updaterss_main()

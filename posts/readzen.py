@@ -62,5 +62,5 @@ if fcount:
   time.sleep(1)
   update_main(cdir)
   updatelist_main(cdir)
-  updateturbo_main(cdir)
+  updaterss_main(cdir)
   

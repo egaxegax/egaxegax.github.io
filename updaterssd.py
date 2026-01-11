@@ -10,7 +10,7 @@ from updatelist import tr, tr_cut
 
 surls = {'egax.ru':'', 'egaxegax.github.io':'1'}
 
-def main(path='.', icount=0, surl='egax.ru', sdir=''):
+def main(path='.', icount=0, surl='egax.ru', sdir='', chadult='nonadult'):
   icount = int(icount)
   if icount and icount < 100: 
     raise Exception('icount < 100 !!!')
@@ -18,7 +18,7 @@ def main(path='.', icount=0, surl='egax.ru', sdir=''):
   sind = cwd
   if sind == 'posts':
     sind = 'index'
-  chtitl = {'books': 'Книги', 'foto':'Фото', 'posts': 'Подборка статей на разные темы', 'songs':'Аккорды'}.get(cwd, cwd)
+  chtitl = {'books': 'Книги', 'foto':'Фото', 'posts': 'Подборка статей на разные темы', 'songs':'Аккорды'}.get(cwd, cwd)
   try:
     exec(open(os.path.join(path, 'index.js'), encoding='utf-8', newline='\n').read())
   except:
@@ -57,10 +57,10 @@ def main(path='.', icount=0, surl='egax.ru', sdir=''):
 <title>{trsubj} - {trtitl}{troot}</title>
 <link>https://{link}</link>
 <pdalink>https://{link}</pdalink>
-<guid>{ulink}</guid>
-<pubDate>{pdate}</pubDate>
+<guid>{guid}</guid>
+<pubDate>{pdate}</pubDate><media:rating scheme="urn:simple">{chadult}</media:rating>
 <content:encoded><![CDATA[<h1>{mroot}{subj}</h1><h2>{titl}</h2>{text}]]></content:encoded>
-</item>""".format(mroot=mroot, subj=subj, titl=titl, troot=troot, trsubj=tr_cut(subj), trtitl=tr_cut(titl), ulink=ulink, link=surl +'/'+ sind +'.html?'+ tr(subj) +'/'+ tr(titl) +ulink, text=re.sub('\n\s*',' ',text), pdate=pdate))
+</item>""".format(mroot=mroot, subj=subj, titl=titl, troot=troot, trsubj=tr_cut(subj), trtitl=tr_cut(titl), guid=tr(subj) +'/'+ tr(titl) +ulink, link=surl +'/'+ sind +'.html?'+ tr(subj) +'/'+ tr(titl) +ulink, text=re.sub('\n\s*',' ',text), pdate=pdate, chadult=chadult))
   
     rsstext = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">

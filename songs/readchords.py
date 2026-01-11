@@ -40,4 +40,4 @@ for fn in glob.glob(path+'/chords*.json'):
 if fcount:
   update_main(cdir)
   updatelist_main(cdir)
-  updateturbo_main(cdir)
+  updaterss_main(cdir)
