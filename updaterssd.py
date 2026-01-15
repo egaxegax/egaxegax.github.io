@@ -47,6 +47,7 @@ def main(path='.', icount=0, surl='egax.ru', sdir='', chadult='nonadult'):
         text = mtext + text
         text = re.sub('<(/)?strong>', r'', text)
         text = re.sub('<(/)?em>', r'<\1b>', text)
+        text = re.sub('<(/)?code>', r'', text)
         text = re.sub('<(/)?pre>', r'<\1blockquote>', text)
         text = re.sub('<br />', r'<p />', text)
         text = re.sub('<\!--.*-->', r'', text)
@@ -61,10 +62,9 @@ def main(path='.', icount=0, surl='egax.ru', sdir='', chadult='nonadult'):
 <item>
 <title>{trsubj} - {trtitl}{troot}</title>
 <link>https://{link}</link>
-<pdalink>https://{link}</pdalink>
 <guid>{guid}</guid>
 <pubDate>{pdate}</pubDate><media:rating scheme="urn:simple">{chadult}</media:rating><category>comment-subscribers</category>
-<content:encoded><![CDATA[<h1>{mroot}{subj}</h1><h2>{titl}</h2>{text}]]></content:encoded>
+<content:encoded><![CDATA[<title>{trsubj} - {trtitl}{troot}</title><h1>{mroot}{subj}</h1><h2>{titl}</h2>{text}]]></content:encoded>
 </item>""".format(mroot=mroot, subj=subj, titl=titl, troot=troot, trsubj=tr_cut(subj), trtitl=tr_cut(titl), guid=tr(subj) +'/'+ tr(titl) +ulink, link=surl +'/'+ sind +'.html?'+ tr(subj) +'/'+ tr(titl) +ulink, text=re.sub('\n\s*',' ',text), pdate=pdate, chadult=chadult))
   
     rsstext = """<?xml version="1.0" encoding="UTF-8"?>

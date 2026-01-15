@@ -1,0 +1,4 @@
+<!--2026-01-13 14:50:06-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/346/f40/987/346f409875df2538c266b29752f930f8.jpeg" /><p>В&nbsp;Китае стремительно набрало популярность приложение под&nbsp;названием «Умер?» (оригинальное название — 死了么), в&nbsp;котором одинокие люди регулярно подтверждают, что&nbsp;с&nbsp;ними всё в&nbsp;порядке. Сервис <a href="https://www.globaltimes.cn/page/202601/1352833.shtml" rel="noopener noreferrer nofollow">занял</a> первое место в&nbsp;рейтинге платных... <p class="titl"><a href="https://habr.com/ru/news/984910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984910">Сервис «Умер?» для одиноких людей вышел на первое место в рейтинге платных приложений в китайском App Store</a></p></div>
+</div>
