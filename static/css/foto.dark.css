@@ -3,14 +3,14 @@
 .dark { color:#dedede; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
-body { background:#282b2f; color:#dedede; }
+body { background:#222; color:#dedede; }
 a, a:active, a:focus { color:#f4c430; }
 b,i,em { color:#aaa; }
 b em { color:#f4c430; }
 h2 { color:#9ac495; }
-input[type=text], select { background:rgb(114,112,113); color:#fff; }
-#root { background:rgb(43,45,49); }
-#header, .wrap { background:rgb(56,59,64); }
+input[type=text], select { background:#656565; color:#fff; }
+#root { background:#212121; }
+#header, .wrap { background:#323232; }
 #header svg g { fill:#dedede; stroke:#dedede; }
 #header svg g.active { fill:#f4c430; stroke:#f4c430; }
 #header .yin { fill:#777; stroke:#777; }

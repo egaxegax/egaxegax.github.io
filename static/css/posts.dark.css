@@ -2,17 +2,17 @@
 .dark { color:#dedede; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
-body,text { background:#282b2f; color:#dedede; } 
+body,text { background:#222; color:#dedede; } 
 a, a:active, a:focus { color:#f4c430; }
 b,i,em,h4,h5 { color:#aaa; }
 b em, strong em { color:#f4c430; }
 h2 { font-size:1rem; color:#9ac495; }
 div.about { background:rgb(65,68,73); border:1px solid #606060; }
 pre { background:#dedede; color:#222; border-radius:2px; }
-input[type=text], select { background:rgb(114,112,113); color:#fff; }
+input[type=text], select { background:#656565; color:#fff; }
 li::marker { color:green; }
-#root { background:rgb(43,45,49); }
-#header, .wrap { background:rgb(56,59,64); }
+#root { background:#212121; }
+#header, .wrap { background:#323232; }
 #header svg g { fill:#dedede; stroke:#dedede; }
 #header svg g.active { fill:#f4c430; stroke:#f4c430; }
 #header .yin { fill:#777; stroke:#777; }

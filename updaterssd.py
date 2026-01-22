@@ -65,7 +65,7 @@ def main(path='.', icount=0, surl='egax.ru', sdir='', chadult='nonadult'):
 <guid>{guid}</guid>
 <pubDate>{pdate}</pubDate><media:rating scheme="urn:simple">{chadult}</media:rating><category>comment-subscribers</category>
 <content:encoded><![CDATA[<title>{trsubj} - {trtitl}{troot}</title><h1>{mroot}{subj}</h1><h2>{titl}</h2>{text}]]></content:encoded>
-</item>""".format(mroot=mroot, subj=subj, titl=titl, troot=troot, trsubj=tr_cut(subj), trtitl=tr_cut(titl), guid=tr(subj) +'/'+ tr(titl) +ulink, link=surl +'/'+ sind +'.html?'+ tr(subj) +'/'+ tr(titl) +ulink, text=re.sub('\n\s*',' ',text), pdate=pdate, chadult=chadult))
+</item>""".format(mroot=mroot, subj=subj, titl=titl, troot=troot, trsubj=tr_cut(subj), trtitl=tr_cut(titl), guid=tr(subj) +'_'+ tr(titl) +ulink, link=surl +'/'+ sind +'.html?'+ tr(subj) +'/'+ tr(titl) +ulink, text=re.sub('\n\s*',' ',text), pdate=pdate, chadult=chadult))
   
     rsstext = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
