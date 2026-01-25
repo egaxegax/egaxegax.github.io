@@ -86,7 +86,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
     '<meta property="yandex_recommendations_image" content="'+(document.querySelector('img').src)+'">' : '');
       document.getElementById('page_content').innerHTML += '<div id='+blid+' class="marg mw_2 mhw"></div>';
       addYaRTB_Block(blid, YA_RTB[widgetid], 'widget');
-  }
+  };
   [].slice.call(document.getElementsByTagName('script')).filter(function(s){return s.src.indexOf('metrics.js')>-1;}).map(function(sp){
     if(sp.getAttribute('data-floor')) addYaRTB_Block('', 1, 'flMob', sp.getAttribute('data-dark')!=null);
     if(sp.getAttribute('data-floordesk')) addYaRTB_Block('', 2, 'flDesk', sp.getAttribute('data-dark')!=null);
