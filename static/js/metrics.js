@@ -47,9 +47,8 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   window.YandexRotorSettings={ WaiterEnabled:true, IsLoaded:function(){ return document.getElementById('page_content').innerHTML.length>100; }};
 }
 { // Yandex reklama
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
-   (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||[];m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
+    (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
   window.YA_RTB = {1:1, 2:1, 3:1, 4:1, 5:1, 6:1, 7:1, 8:1, widget_books:5, widget_songs:6, widget_posts:7, widget_foto:8};
   window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,rtbid,typ,p_dark){
@@ -72,8 +71,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
         }
       }
       if(!blid || typ == 'widget') run();
-      else if(document.getElementById(blid))
-        (new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
+      else if(document.getElementById(blid)) (new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ run(); }}); },{threshold:0.9}).observe(document.getElementById(blid)));
     };
     if(typ != 'widget') while(YA_TMR.length) clearInterval(YA_TMR.pop());
     if(typ != 'widget') YA_TMR.push( setInterval(ads, (Math.random()*20+9)*1000) );
