@@ -1,0 +1,4 @@
+<!--2026-01-27 14:06:28-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/11d/8ac/9b9/11d8ac9b9df720e7b295d0e4836d00f4.jpg" /><p>Группа ютуберов, уже подававших иски против техногигантов за то, что те без разрешения собирали их видео для обучения своих ИИ-моделей, теперь добавила в список ответчиков и <strong>Snap</strong>. Истцы – создатели трех YouTube-каналов с общей аудиторией 6,2 млн подписчиков – утверждают, что <strong>Snap обучала свои ИИ-системы на их видеоконтенте</strong>,... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/989610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989610">Создатели h3h3 и других YouTube-каналов подали иск против Snap за использование данных для ИИ</a></p></div>
+</div>

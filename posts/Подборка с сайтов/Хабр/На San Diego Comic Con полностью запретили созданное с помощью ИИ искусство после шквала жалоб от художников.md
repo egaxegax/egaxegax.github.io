@@ -1,0 +1,4 @@
+<!--2026-01-23 14:36:02-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/142/266/08b/14226608b19475fde30d9892032f8b38.webp" /><p>Организаторы выставки San Diego Comic‑Con <a href="https://futurism.com/artificial-intelligence/comic-con-ai-art" rel="noopener noreferrer nofollow">изменили</a> свою политику, полностью запретив искусство, созданное с&nbsp;помощью ИИ. Это произошло после массовых жалоб художников.&nbsp;</p> <a href="https://habr.com/ru/articles/988352/#habracut">Читать далее</a... <p class="titl"><a href="https://habr.com/ru/news/988352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988352">На San Diego Comic‑Con полностью запретили созданное с помощью ИИ искусство после шквала жалоб от художников</a></p></div>
+</div>

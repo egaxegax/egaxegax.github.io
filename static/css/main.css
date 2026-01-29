@@ -67,7 +67,7 @@ hr { border:1px dashed #777; }
 pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
 p { margin:10px auto; }
 /* reklama */
-.mh_hd:not(:empty) { max-height:130px; max-width:820px; margin:0 auto; }
+.mh_hd:not(:empty) { max-height:130px; max-width:810px; margin:0 auto; }
 .mh_bar { max-height:95vh; position:sticky; top:0; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }

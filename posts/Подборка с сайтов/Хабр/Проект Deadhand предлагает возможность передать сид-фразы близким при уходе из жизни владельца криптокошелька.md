@@ -1,0 +1,4 @@
+<!--2026-01-23 14:27:43-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d5d/72f/8b4/d5d72f8b48e1a7964ee300e3d4081e4d.png" /><p>Разработчик Макс Комператоре (aka <a href="https://github.com/pyoneerC" rel="noopener noreferrer nofollow">pyoneerC</a>) <a href="https://www.deadhandprotocol.com/" rel="noopener noreferrer nofollow">представил</a> подписочный проект ($100 в год) под названием <a href="https://github.com/pyoneerC/deadhand" rel="noopener noreferrer nofollow">Deadhand</a>, который... <p class="titl"><a href="https://habr.com/ru/news/988348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988348">Проект Deadhand предлагает возможность передать сид-фразы близким при уходе из жизни владельца криптокошелька</a></p></div>
+</div>
