@@ -113,7 +113,7 @@
       return 1;
     }
     if(window.addYaRTB_Block && iinit) {
-      document.querySelector('.mh_hd').style.minHeight = '170px';
+      document.querySelector('.mh_hd').style.minHeight = (window.innerWidth<800 ? '130px' : '180px');
       document.querySelector('.mh_hd').style.marginBottom = '5px';
       addYaRTB_Block('ya_rtb_hd', YA_RTB[2]);
     }
