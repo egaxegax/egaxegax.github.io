@@ -86,7 +86,7 @@
       return 1;
     }
     if(window.addYaRTB_Block && iinit) {
-      document.querySelector('.mh_hd').innerHTML = '<div id="ya_rtb_hd" '+(window.innerWidth<1250 ? 'style="min-height:100px"' : '')+ '></div>';
+      document.querySelector('.mh_hd').innerHTML = '<div id="ya_rtb_hd" '+(window.innerWidth<1350 ? 'style="min-height:100px"' : '')+ '></div>';
       addYaRTB_Block('ya_rtb_hd', YA_RTB[2]);
     }
     page.bottom = (page.num)*page.per;

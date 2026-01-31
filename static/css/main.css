@@ -68,7 +68,7 @@ pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
 p { margin:10px auto; }
 /* reklama */
 @media (max-width:1250px){ .mh_hd:not(:empty) { max-height:100px; }}
-@media (min-width:1250px){ .mh_hd:not(:empty) { max-width:200px; position:fixed; margin:5px; max-height:90%; }}
+@media (min-width:1250px){ .mh_hd:not(:empty) { max-width:250px; position:fixed; margin:5px; max-height:90%; }}
 .mh_bar { max-height:95vh; position:sticky; top:0; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }

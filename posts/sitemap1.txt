@@ -2218,6 +2218,7 @@ https://egaxegax.github.io/index.html?habr/alternativy_dlya_obshcheniya_cherez_m
 https://egaxegax.github.io/index.html?habr/alternativy_dlya_obshcheniya_vmesto_servisa_google_meet
 https://egaxegax.github.io/index.html?habr/amazon_budet_blokirovat_piratskie_prilojeniya_na_fire_tv
 https://egaxegax.github.io/index.html?habr/amazon_priostanavlivaet_dostavku_dronami_v_ssha_posle_avarii_na_ispytatelnom_poligone
+https://egaxegax.github.io/index.html?habr/amazon_s_oktyabrya_sokratila_30_tysyach_chelovek_v_ramkah_iniciativy_project_dawn
 https://egaxegax.github.io/index.html?habr/amazon_sozdala_podrazdelenie_zeroone_dlya_razrabotki_novyh_potrebitelskih_ustrojstv
 https://egaxegax.github.io/index.html?habr/amazon_trebuet_ot_perplexity_zablokirovat_ispolzovanie_ii-agenta_brauzera_comet_dlya_soversheniya_pokupok_na_platforme
 https://egaxegax.github.io/index.html?habr/amazon_uluchshaet_model_nova_reel_sozdanie_video_do_dvuh_minut
@@ -2353,6 +2354,7 @@ https://egaxegax.github.io/index.html?habr/django_ispolnilos_20_let_glavnoe_o_pu
 https://egaxegax.github.io/index.html?habr/djeff_bezos_nazval_ajiotaj_vokrug_ai_horoshim_puzyrem
 https://egaxegax.github.io/index.html?habr/djejson_shrajer_igrovye_proekty_stanovyatsya_vse_doroje_iz-za_neeffektivnogo_upravleniya_i_otsutstviya_konkretnyh_celej
 https://egaxegax.github.io/index.html?habr/djon_shulman_pokinul_anthropic_vsego_cherez_pyat_mesyacev_i_gotovitsya_k_novomu_startapu_v_sfere_ai
+https://egaxegax.github.io/index.html?habr/dlya_google_chrome_sozdali_funkciju_vizualnoj_markirovki_kontenta_sozdannogo_ii
 https://egaxegax.github.io/index.html?habr/dobavlenie_rugatelstv_v_poiskovye_zaprosy_otkljuchaet_funkciju_obzora_na_osnove_gemini_ai
 https://egaxegax.github.io/index.html?habr/dochka_rosteha_razrabotala_opytnyj_obrazec_rossijskogo_teletrapa_dlya_samoletov
 https://egaxegax.github.io/index.html?habr/dokazana_zavisimost_psihoemocionalnogo_sostoyaniya_ot_deficita_vitamina_d
@@ -2473,6 +2475,7 @@ https://egaxegax.github.io/index.html?habr/grok_i_gemini_poluchat_dostup_k_sekre
 https://egaxegax.github.io/index.html?habr/grok_ogranichil_generaciju_izobrajenij_dlya_besplatnyh_akkauntov
 https://egaxegax.github.io/index.html?habr/grok_poyavitsya_v_avtomobilyah_tesla_na_sledujushchej_nedele_zayavil_ilon_mask
 https://egaxegax.github.io/index.html?habr/gruppa_astra_zapustila_hranilishche_proverennyh_programm_neo_i_vvela_novye_urovni_podderjki_dlya_biznesa
+https://egaxegax.github.io/index.html?habr/gruppa_deputatov_predlojila_gosdume_vvesti_bessrochnyj_moratorij_na_blokirovku_messendjerov_i_socsetej
 https://egaxegax.github.io/index.html?habr/gruppirovka_shedding_zmiy_nachala_ispolzovat_novyj_vredonos_puma
 https://egaxegax.github.io/index.html?habr/gumanoidnye_roboty_idut_na_birju_unitree_zayavila_o_planah_ipo
 https://egaxegax.github.io/index.html?habr/habblovskuju_napryajennost_mojno_obyasnit_tem_chto_my_nahodimsya_v_gigantskom_vojde
@@ -3549,6 +3552,7 @@ https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ok
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_opg_zelenskogo_-_glavnyj_vrag_ukrainy_15_11_25
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_opyat_proryv_poteryali_iskru_aleksandrograd_malievku_temirovku_tramp_i_putin
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_osennij_kollaps_vsu_vsrf_vzyali_86_naselennyh_punktov_prognuli_zelenskogo_01_12
+https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_peremirie_v_energetike_vsrf_podhodyat_k_zaporojju_30_01_26
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pochemu_ukraina_proigryvaet_vojnu_vzyali_verbovoe_blekauty_sumskoj_i_chernigovskoj
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pole_trupov_v_shahovo_nastuplenie_17_edinic_tehniki_i_motopehoty_14_10_25
 https://egaxegax.github.io/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_popytka_vsu_ubit_putina_91_dron_ataka_rezidencii_tramp_v_shoke_29_12_25
@@ -5513,6 +5517,10 @@ https://egaxegax.github.io/index.html?mir_kino/bessmertnye_sleshery
 https://egaxegax.github.io/index.html?mir_kino/betmen_vechno_vtoroj
 https://egaxegax.github.io/index.html?mir_kino/bezumnyj_maks_gibel_franshizy
 https://egaxegax.github.io/index.html?mir_kino/boevaya_milla_jovovich
+https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_1_seriya_bridgerton
+https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_2_seriya_bridgerton
+https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_3_seriya_bridgerton
+https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_4_seriya_bridgerton
 https://egaxegax.github.io/index.html?mir_kino/chernyj_spisok_otmenennye_aktery
 https://egaxegax.github.io/index.html?mir_kino/chudovishchnye_provaly_-_king_kong_godzilla_i_vse_ostalnye
 https://egaxegax.github.io/index.html?mir_kino/denzel_vashington_korol_dvd
@@ -5602,6 +5610,7 @@ https://egaxegax.github.io/index.html?mir_kino/semjuel_l_djekson_-_glavnyj_fanat
 https://egaxegax.github.io/index.html?mir_kino/serial_bolnica_pitt_2_sezon_1_seriya_the_pitt
 https://egaxegax.github.io/index.html?mir_kino/serial_bolnica_pitt_2_sezon_2_seriya_the_pitt
 https://egaxegax.github.io/index.html?mir_kino/serial_bolnica_pitt_2_sezon_3_seriya_the_pitt
+https://egaxegax.github.io/index.html?mir_kino/serial_bolnica_pitt_2_sezon_4_seriya_the_pitt
 https://egaxegax.github.io/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_10_seriya_high_potential
 https://egaxegax.github.io/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_11_seriya_high_potential
 https://egaxegax.github.io/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_6_seriya_high_potential
@@ -5921,6 +5930,7 @@ https://egaxegax.github.io/index.html?moskovskij_komsomolec/260127_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/260128_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/260129_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/260130_2000
+https://egaxegax.github.io/index.html?moskovskij_komsomolec/260131_2000
 https://egaxegax.github.io/index.html?opasnye_puteshestviya
 https://egaxegax.github.io/index.html?opasnye_puteshestviya/30_km_pod_zemlej_-_put_vody_-_vmesto_uroka_istorii
 https://egaxegax.github.io/index.html?opasnye_puteshestviya/8_bezumnyh_eksperimentov_pri_-55c_samyj_holodnyj_gorod_v_mire_yakutsk
@@ -10814,6 +10824,7 @@ https://egaxegax.github.io/index.html?tajny/byvshij_voennyj_injener_rasskazal_ka
 https://egaxegax.github.io/index.html?tajny/chelovek_byl_na_marse_50_let_nazad_v_set_utekli_sekretnye_kadry_pilotiruemoj_missii_nasa_na_mars
 https://egaxegax.github.io/index.html?tajny/chem_na_samom_dele_yavlyalas_stena_zemli_do_velikogo_potopa_kak_vyglyadela_nasha_dopotopnaya_zemlya
 https://egaxegax.github.io/index.html?tajny/cherez_dva_goda_ya_ponyal_kogo_podvez_voditel_lesovoza_vspominaet_ochen_strannyj_rejs_v_70-h
+https://egaxegax.github.io/index.html?tajny/chetyre_solnca_odnovremenno_poyavilis_v_nebe_nad_alyaskoj
 https://egaxegax.github.io/index.html?tajny/chistyj_pereulok_v_staryh_konjushnyah
 https://egaxegax.github.io/index.html?tajny/chto-to_dejstvitelno_strannoe_proizoshlo_s_batiskafom_titan_voennye_veroyatno_vse_znali
 https://egaxegax.github.io/index.html?tajny/chto-to_gigantskoe_pritashchili_k_zemle_dlya_zashchity_ot_3i_atlas
@@ -10889,6 +10900,7 @@ https://egaxegax.github.io/index.html?tajny/gigantskij_nlo_razmerom_s_planetu_za
 https://egaxegax.github.io/index.html?tajny/gigantskij_nlo_swan_v_100_raz_bolshe_korablya_3i_atlas_stremitelno_priblijaetsya_k_zemle
 https://egaxegax.github.io/index.html?tajny/gigantskoe_kolceobraznoe_nlo_zametili_vblizi_zemli
 https://egaxegax.github.io/index.html?tajny/gigantskoe_nlo_razmerom_s_planetu_poyavilos_ryadom_s_zemlej_na_fone_priblijeniya_3i_atlas
+https://egaxegax.github.io/index.html?tajny/giganty_v_gorah_jujnoj_ameriki_na_sputnikovyh_snimkah_vyzvali_spory_o_drevnih_civilizaciyah
 https://egaxegax.github.io/index.html?tajny/glavnyj_issledovatel_loh-nessa_zayavil_chto_chudovishcha_ne_sushchestvuet_no_spory_ne_utihajut
 https://egaxegax.github.io/index.html?tajny/glushili_kak_rybu_yadernye_testy_skryvali_ohotu_na_nlo
 https://egaxegax.github.io/index.html?tajny/gnomy_gor_urala_misticheskaya_vstrecha_ili_krasivaya_legenda_sverdlovskoj_oblasti
@@ -11057,6 +11069,7 @@ https://egaxegax.github.io/index.html?tajny/piloty_zasnyali_desyatki_nlo_chto_pr
 https://egaxegax.github.io/index.html?tajny/piloty_znamenitosti_turisticheskie_agentstva_vse_oni_yakoby_uchastvujut_v_zagovore_pro_avstraliju
 https://egaxegax.github.io/index.html?tajny/piramidy_antarktidy_iskajenie_vremeni_golos_vo_sne_itogi_2024_prognozy_2025_chutok_nlo_strim
 https://egaxegax.github.io/index.html?tajny/piramidy_antarktidy_izmenili_navsegda_ego_predstavlenie_ob_ustrojstve_nashego_mira
+https://egaxegax.github.io/index.html?tajny/piramidy_na_lune_popali_na_staroe_video_i_do_sih_por_ne_poluchili_obyasneniya
 https://egaxegax.github.io/index.html?tajny/po_sledam_istorii_evgeniya_gajduchka_ne_utihajut_sluhi_o_spryatannoj_mashine_vremeni_v_jirnovske
 https://egaxegax.github.io/index.html?tajny/pochemu_3i_atlas_ne_razrushilsya_vozle_solnca_snimki_protivorechat_prognozam
 https://egaxegax.github.io/index.html?tajny/pochemu_3i_atlas_snova_vedet_sebya_ne_kak_kometa
@@ -11099,7 +11112,9 @@ https://egaxegax.github.io/index.html?tajny/priznanie_astronoma_o_3i_atlas_vyzyv
 https://egaxegax.github.io/index.html?tajny/prorochestva_ne_spasut_3i_atlas_nlo_izmenil_kurs_i_uskoryaetsya_a_iz_seti_propali_zapisi_solnca
 https://egaxegax.github.io/index.html?tajny/prostoj_mehanik_sobral_v_pustyne_mashinu_vremeni_po_inoplanetnym_chertejam
 https://egaxegax.github.io/index.html?tajny/provaly_vo_vremeni_prizraki_sboj_matricy_portaly_vremennye_anomalii_tykvennyj_strim
+https://egaxegax.github.io/index.html?tajny/pterodaktilya_zametili_na_foto_v_nebe_nad_lansarote_vo_vremya_silnogo_shtorma
 https://egaxegax.github.io/index.html?tajny/puteshestvennik_vo_vremeni_den_kuper_ugnal_ogromnyj_boing_s_kuchej_dollarov_i_ostalsya_nepojmannym
+https://egaxegax.github.io/index.html?tajny/puteshestvennik_vo_vremeni_ili_pochemu_kupec_xix_veka_pugajushche_pohoj_na_svidetelya_windows
 https://egaxegax.github.io/index.html?tajny/puteshestvennik_vo_vremeni_najden_dnevnik_cheloveka_iz_23_veka
 https://egaxegax.github.io/index.html?tajny/rabochie_vskryli_staryj_karer_v_zabajkale_i_nashli_v_porode_strannuju_metallicheskuju_konstrukciju
 https://egaxegax.github.io/index.html?tajny/rajker_uebba_podmenili_na_skinvokera
@@ -11300,8 +11315,10 @@ https://egaxegax.github.io/index.html?tajny/zdes_ochen_tyajelyj_yadovityj_vozduh
 https://egaxegax.github.io/index.html?tajny/zelenaya_antarktida_zaselennaya_sahara_ischeznuvshaya_avstraliya_karta_urbano_monte_lomaet_vsju_istoriju
 https://egaxegax.github.io/index.html?tajny/zemlya_poluchila_vtoruju_lunu_i_eto_uje_podtverdili_raschety
 https://egaxegax.github.io/index.html?tajny/zerkalnye_chisla_na_chasah_-_sovpadenie_ili_poslanie_svyshe
+https://egaxegax.github.io/index.html?tajny/zima_1958_goda_v_poselke_posle_meteli_poyavilsya_chelovek_kotorogo_po_dokumentam_eshche_ne_sushchestvovalo
 https://egaxegax.github.io/index.html?tajny/zimoj_1954_goda_pod_vorkutoj_rabochie_prijutili_mujchinu_utverjdavshego_chto_on_iz_2091_goda
 https://egaxegax.github.io/index.html?tajny/zimoj_1957_goda_posle_snejnoj_buri_derevnju_nashli_polnostju_sohranennoj_no_bez_jitelej
+https://egaxegax.github.io/index.html?tajny/zimoj_1971_goda_vertolet_vyshel_iz_snejnoj_steny_s_otkazavshimi_priborami_i_vidom_na_neizvestnyj_gorod
 https://egaxegax.github.io/index.html?tajny/zimoj_1974_goda_mejdugorodnij_avtobus_v_metel_zaehal_v_gorod_kotorogo_ne_bylo_na_kartah_sssr
 https://egaxegax.github.io/index.html?tajny/zimoj_1976_goda_v_lesah_permskoj_oblasti_turisty_lyjniki_nashli_kabinu_lifta_stoyashchuju_posredi_sugroba
 https://egaxegax.github.io/index.html?tajny/zimoj_1981_goda_posle_meteli_na_zamerzshem_ozere_obnarujili_pustoj_passajirskij_samolet
