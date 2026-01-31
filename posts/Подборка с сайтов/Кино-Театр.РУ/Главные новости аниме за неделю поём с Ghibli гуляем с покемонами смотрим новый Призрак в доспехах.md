@@ -1,0 +1,4 @@
+<!--2026-01-31 11:45:26-->
+<div class="yb">
+  <div class="rss mw_f scroll kino_kino"><a href="https://www.kino-teatr.ru/kino/news/y2026/1-31/40540/" title="Главные новости аниме за неделю: поём с Ghibli, гуляем с покемонами, смотрим новый «Призрак в доспехах»"><img src="https://www.kino-teatr.ru/news/0/4/40540/poster.jpg" width="196" height="147" align="left" hspace="5" style="margin: 0px 10px 0px 5px" alt="Главные новости аниме за неделю: поём с Ghibli, гуляем с покемонами, смотрим новый «Призрак в доспехах»"/></a>Реклама от McDonald&#39;s, номинанты «Сатурна» и короткометражка о беременности <p class="titl"><a href="https://www.kino-teatr.ru/kino/news/y2026/1-31/40540/">Главные новости аниме за неделю: поём с Ghibli, гуляем с покемонами, смотрим новый «Призрак в доспехах»</a></p></div>
+</div>

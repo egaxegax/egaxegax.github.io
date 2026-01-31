@@ -39,7 +39,10 @@ def main(path='.', icount=0, surl='egax.ru', sdir='', chadult='nonadult'):
       ulink = ''
       pdt = time.strptime(str(title[3]), '%y%m%d%H%M%S')
       pdate = time.strftime('%a, %d %b %Y %H:%M:%S +0300', pdt)
-      text = open(os.path.join(path, root, subj, titl+'.md'), encoding='utf-8', newline='\n').read()
+      try:
+        text = open(os.path.join(path, root, subj, titl+'.md'), encoding='utf-8', newline='\n').read()
+      except:
+        continue
       if cwd == 'songs': 
         import markdown
         text = markdown.markdown(text)

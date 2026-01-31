@@ -88,7 +88,7 @@ for root, dirs, files in os.walk(path, topdown=False):
       except: raise ValueError(name)
     
       tit = fb.get_title()
-      tit = tit.replace('[', '(').replace(']', ')').replace('/', '-').strip('<>:"/\|!?*').strip()
+      tit = tit.replace('[', '(').replace(']', ')').replace('/', '-').replace(':', '.').strip('<>"/\|!?*').strip()
       wrt = fb.get_authors()
       if not wrt:
         print(name, '!!!SKIP:', 'author not defined')

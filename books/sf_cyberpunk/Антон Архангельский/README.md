@@ -1,1 +1,1 @@
-* [Tabula Rasa: Исходная точка](Tabula%20Rasa:%20Исходная%20точка.md)
+* [Tabula Rasa. Исходная точка](Tabula%20Rasa.%20Исходная%20точка.md)
