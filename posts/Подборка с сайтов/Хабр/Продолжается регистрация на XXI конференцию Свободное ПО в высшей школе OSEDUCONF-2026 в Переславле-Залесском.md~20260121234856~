@@ -1,4 +1,0 @@
-<!--2026-01-20 14:40:53-->
-<div class="yb">
-  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/113/b29/15c/113b2915c1acf7e292d0b3755d8529d5.png" /><p>«Базальт СПО» и ИПС им. А.К. Айламазяна РАН <a href="https://www.basealt.ru/21edu-conf" rel="noopener noreferrer nofollow">продолжают</a> регистрацию участников на XXI конференцию «Свободное программное обеспечение в высшей школе» (OSEDUCONF-2026), которая состоится 6-8 февраля 2026 года в Институте программных систем РАН в Переславле-Залесском Ярославской... <p class="titl"><a href="https://habr.com/ru/news/987086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987086">Продолжается регистрация на XXI конференцию «Свободное ПО в высшей школе» (OSEDUCONF-2026) в Переславле-Залесском</a></p></div>
-</div>
