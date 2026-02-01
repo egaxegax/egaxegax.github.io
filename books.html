@@ -95,14 +95,10 @@
     updateMetaTag('description', p.subj+', '+trstr(text));
     updateMetaTag('keywords', p.subj+', книги');
     document.getElementById(p.id).innerHTML = 
-  '<table class="inlbl"><tr>'+
-  (cover ? 
-    '<td class="about">'+
-      '<img class="rounded" alt="" src="'+'data:image/jpeg;base64,'+cover+'">'+
-    '</td>' : '')+
-    '<td>&nbsp;</td>'+
-    '<td>'+html+'</td></tr>'+
-  '</table>';
+  '<div class="book inlbl vtop mw_f scroll">'+
+    (cover ? '<img class="rounded" align="left" alt="" src="'+'data:image/jpeg;base64,'+cover+'">' : '')+
+    '<p>'+html+'</p>'+
+  '</div>';
     return ' about';
   }
 

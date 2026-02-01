@@ -89,7 +89,6 @@
 * [Pumpkin Jack - Приключение в стиле Medievil Обзор PC XBOX ONE SWITCH](Pumpkin%20Jack%20-%20Приключение%20в%20стиле%20Medievil%20Обзор%20PC%20XBOX%20ONE%20SWITCH.md)
 * [Quest Hunter Diablo на минималках Обзор](Quest%20Hunter%20Diablo%20на%20минималках%20Обзор.md)
 * [R-Type Arcade 1 life Challenge](R-Type%20Arcade%201%20life%20Challenge.md)
-* [README](README.md~20260121234836~)
 * [Raji An Ancient Epic - Красивая Сказка в духе Принца Персии Обзор](Raji%20An%20Ancient%20Epic%20-%20Красивая%20Сказка%20в%20духе%20Принца%20Персии%20Обзор.md)
 * [Rastan Arcade 1 Credit Challenge THSC](Rastan%20Arcade%201%20Credit%20Challenge%20THSC.md)
 * [Rastan Comparison In Order Of Greatness New Format](Rastan%20Comparison%20In%20Order%20Of%20Greatness%20New%20Format.md)

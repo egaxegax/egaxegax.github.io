@@ -7,7 +7,7 @@ a { color:#f4c430; } a:active, a:focus { color:#dedede; }
 b,i,em { color: #aaa; }
 b em { color: #f4c430; }
 h2 { color:#fff; }
-div.about { border:1px solid #606060; }
+div.about { padding:10px 15px; border:1px solid #606060; }
 input[type=text], select { background:#656565; color:#fff; }
 #root { background:#212121; }
 #header, .wrap { background:#323232; }
@@ -16,7 +16,8 @@ input[type=text], select { background:#656565; color:#fff; }
 #header .yin { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
 /**/
-.about img { max-width:50px; }
+.about img { max-width:50px !important; }
 .av img { width:100%; }
+.book { width:100%; }
 .book img { max-width:150px; margin:0 10px 0 0; }
 .book .descr { line-height:1.3em; }

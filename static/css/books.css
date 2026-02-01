@@ -1,5 +1,5 @@
 /* light theme */
-.wrap { background:#fff; padding:5px 10px 5px 10px; }
+.wrap { background:#fff; }
 .dark { color:#333; }
 .gray { color:#777; }
 .light { color:#3c677b; }
@@ -8,6 +8,7 @@ a, a:active, a:focus { color:#3c677b; }
 b,i,em { color: #777; }
 b em { color: #3c677b; }
 h2 { color:#fff; }
+div.about { padding:10px 15px; border:1px solid lightgray; }
 input[type=text], select { background:#fff; }
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }
@@ -16,7 +17,8 @@ input[type=text], select { background:#fff; }
 #header .yin { fill:#fff; stroke:#fff; }
 #page_footer button { background:#91bba1; color:#fff; }
 /**/
-.about img { max-width:50px; }
+.about img { max-width:50px !important; }
 .av img { width:100%; }
+.book { width:100%; }
 .book img { max-width:150px; margin:0 10px 0 0; }
 .book .descr { line-height:1.3em; }
