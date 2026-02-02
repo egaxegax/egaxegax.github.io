@@ -1,0 +1,4 @@
+<!--2026-02-02 14:24:42-->
+<div class="yb">
+  <div class="rss mw_f nowrap scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/48f/ae8/95f/48fae895f587564374a1db52a242b6b6.png" /><p>Бразильский финтех <strong>PicPay</strong> провёл IPO в США на $434 млн — первое размещение компании из Бразилии за последние четыре года. Акции в первый день торгов закрылись ровно по цене размещения — $19, в верхней границе заявленного диапазона. Спрос со стороны инвесторов превысил объём предложения примерно в 12 раз.</p><p>Гендиректор PicPay связывает успех... <p class="titl"><a href="https://habr.com/ru/companies/technokratos/news/991930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991930">Бразильский финтех PicPay провёл IPO в США на $434 млн и сохранил цену акций в первый день торгов</a></p></div>
+</div>
