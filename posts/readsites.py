@@ -54,7 +54,7 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
         ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
         text = """{ctime}
 <div class="yb">
-  <div class="rss mw_f nowrap scroll {rssid}">{text} {titl}</div>
+  <div class="rss mw_f scroll {rssid}">{text} {titl}</div>
 </div>
 """.format(ctime=ctime, rssid=id, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, prm['cut']))
         if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):
