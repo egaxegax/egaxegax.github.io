@@ -1,0 +1,4 @@
+<!--2026-02-03 14:36:14-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/3f0/364/198/3f036419852d6a1e8bc112b73317bb34.png" /><p>Версия 0.6.0 — одно из самых объёмных обновлений KodaCode за последнее время. Во-первых, у нас появился личный кабинет с авторизацией и отображением лимитов. Во-вторых, линейка собственных моделей расширилась и теперь состоит из двух вариантов — Koda Base (ex. KodaAgent) и Koda Pro. Наконец, агентный режим, плагины и CLI-утилита получили серьёзные доработки и... <p class="titl"><a href="https://habr.com/ru/companies/koda/news/992200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992200">Большой релиз KodaCode 0.6.0: личный кабинет, новые модели и серьёзное обновление плагина</a></p></div>
+</div>

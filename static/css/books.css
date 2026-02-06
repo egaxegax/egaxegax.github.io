@@ -21,4 +21,4 @@ input[type=text], select { background:#fff; }
 .av img { width:100%; }
 .book { width:100%; }
 .book img { max-width:150px; margin:0 10px 0 0; }
-.book .descr { line-height:1.3em; }
+.book .descr { line-height:1.4em; }

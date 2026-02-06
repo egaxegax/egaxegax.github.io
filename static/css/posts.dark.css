@@ -36,7 +36,7 @@ li::marker { color:green; }
 .bb {border-bottom:1px dotted #dedede;}
 .mb {padding-bottom:10px;}
 /* feed post */
-.yb { margin:5px 0 0 0; line-height:1.3em; }
+.yb { margin:5px 0 0 0; line-height:1.4em; }
 .yb a { color:#dedede; }
 .yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
 .yb iframe.embed { border:0; border-radius:4px; width:100vw; height:30vw; }

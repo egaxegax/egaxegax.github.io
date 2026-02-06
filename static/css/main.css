@@ -67,8 +67,8 @@ hr { border:1px dashed #777; }
 pre { overflow:auto; max-width:82.5vw; font-size:smaller; }
 p { margin:10px auto; }
 /* reklama */
-@media (max-width:1350px){ .mh_hd:not(:empty) { max-height:110px; }}
-@media (min-width:1350px){ .mh_hd:not(:empty) { max-width:250px; position:fixed; right:calc((100% - 820px) / 2 - 260px); top:60px; max-height:600px; }}
+@media (max-width:1350px){ .mh_hd:not(:empty) { max-height:130px; }}
+@media (min-width:1350px){ .mh_hd:not(:empty) { max-width:250px; position:fixed; right:calc((100% - 830px) / 2 - 280px); top:60px; max-height:600px; }}
 .mh_bar { max-height:95vh; position:sticky; top:0; }
 .mh_sm { max-height:140px; }
 .mh_1 { max-height:250px; }
