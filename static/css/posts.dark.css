@@ -52,6 +52,6 @@ li::marker { color:green; }
 @media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss news ria, eadaily */
 .rssn { margin:5px 0; }
-.rssn a { color:#dedede; }
+.rssn a { color:#dedede; line-height:1.4em; }
 .rssn img { height:50px; width:auto; margin:0 5px 0 !important; }
 .rssn strong { font-weight:normal; }
