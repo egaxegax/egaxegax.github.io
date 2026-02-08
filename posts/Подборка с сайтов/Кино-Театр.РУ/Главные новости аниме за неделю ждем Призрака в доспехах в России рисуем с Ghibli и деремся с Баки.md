@@ -1,0 +1,4 @@
+<!--2026-02-07 11:45:29-->
+<div class="yb">
+  <div class="rss mw_f scroll kino_kino"><a href="https://www.kino-teatr.ru/kino/news/y2026/2-7/40625/" title="Главные новости аниме за неделю: ждем «Призрака в доспехах» в России, рисуем с Ghibli и деремся с «Баки»"><img src="https://www.kino-teatr.ru/news/5/2/40625/poster.jpg" width="196" height="147" align="left" hspace="5" style="margin: 0px 10px 0px 5px" alt="Главные новости аниме за неделю: ждем «Призрака в доспехах» в России, рисуем с Ghibli и деремся с «Баки»"/></a>Плюшевый червь-антистресс, подросток во главе мафии и «поднятие уровня» на мобилках <p class="titl"><a href="https://www.kino-teatr.ru/kino/news/y2026/2-7/40625/">Главные новости аниме за неделю: ждем «Призрака в доспехах» в России, рисуем с Ghibli и деремся с «Баки»</a></p></div>
+</div>

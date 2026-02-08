@@ -1,0 +1,4 @@
+<!--2026-02-07 13:53:24-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/9e9/3af/e9c/9e93afe9cc1a4c309e657f91427d2bb3.png" /><p>Google Cloud совместно с ИИ-подразделением DeepMind представили инновационную платформу, которая превратила обычные смартфоны в высокотехнологичные биомеханические лаборатории для олимпийской сборной США по сноубордингу. Ранее для детального анализа техники прыжков и вращений требовались дорогостоящие студии с десятками камер захвата движений и специальные костюм... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/993890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993890">Смартфон вместо лаборатории: как Google и DeepMind готовят олимпийцев США к медалям</a></p></div>
+</div>

@@ -24,7 +24,7 @@
 .nowrap { white-space:nowrap; }
 .rounded { border-radius:50%; }
 .rounded2 { border-radius:2%; }
-.rounded4 { border-radius:4%; }
+.rounded5 { border-radius:5px; }
 .lfloat { float:left; text-align:left; }
 .rfloat { float:right; text-align:right; }
 .tcenter { text-align:center; }

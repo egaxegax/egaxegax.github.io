@@ -1,0 +1,4 @@
+<!--2026-02-07 12:23:06-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/a0c/5d7/e64/a0c5d7e64cb030096aaac09a11d09164.jpg" /><p>Китайский рынок серверного оборудования столкнулся с серьезным дефицитом: ведущие американские чипмейкеры, Intel и AMD, официально уведомили заказчиков о резком увеличении сроков отгрузки продукции. Наиболее критическая ситуация сложилась у Intel: поставки новейших серверных процессоров Xeon 4-го (Sapphire Rapids) и 5-го (Emerald Rapids) поколений теперь жестко... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/993886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993886">Логистический тупик: Intel и AMD задерживают поставки серверных чипов в Китай из-за ИИ-бума</a></p></div>
+</div>

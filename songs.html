@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Подборы гитарных аккордов к песням, стихи, лирика ">
-<meta name="keywords" content="аккорды, песни, стихи, статьи, тексты, заметки, фото">
+<meta name="description" content="Подборы гитарных аккордов к песням, стихи, лирика, музыка ">
+<meta name="keywords" content="аккорды, песни, стихи, музыка, статьи, тексты, заметки, фото">
 <meta name="author" content="egax@ya.ru">
 <meta name="robots" content="all">
 <meta name="yandex-verification" content="bf07f0af8e739c66">
@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="/static/css/songs.dark.css?260206">
 <style>
 .about img { max-width:80px; }
-.av div { min-width:60px; min-height:60px; }
+.av div.cover { min-width:60px; min-height:60px; }
 .av img { width:100%; height:auto; }
 .av .dark { line-height:1.5em; }
 .chords { line-height:1.3em; }
@@ -61,22 +61,18 @@
   function addLast(r,p){
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext '+(window.innerWidth<800 ? '' : 'bigger0')+' scroll nowrap mw_f">'+
-    '<table class="av collapse" width="100%"><tr>'+
-      '<td valign="middle" width="1%">'+
-        '<div><img id="im'+p.i+'" class="rounded" align="left" alt="" src=""></div>'+
-      '</td>'+
-      '<td width="50%">'+
-        '<a class="nodecor" href="/songs.html?'+tr(p.subj)+'">&ensp;'+p.subj+' </a><br>'+
-        '<a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a><br>'+
-        '<a class="nodecor small gray">&emsp;&emsp; - '+p.root+' </a>'+
-      '</td>'+
-      '<td valign="center" align="right" class="light" width="10%">'+
-        '<span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span>'+
-      '</td></tr>'+
+    '<table class="av collapse" cellspacing="0" cellpadding="0" border=0 width="100%"><tr>'+
+      '<td width="1%" rowspan="3"><div class="cover"><img id="im'+p.i+'" class="rounded" align="left" alt="" src=""></div></td>'+
+      '<td colspan="2"><a class="nodecor" href="/songs.html?'+tr(p.subj)+'">&ensp;'+p.subj+' </a></td>'+
+      '<td></td></tr><tr>'+
+      '<td colspan="2"><a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a></td>'+
+      '<td valign="center" align="right" class="light vmid" width="1%"><span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span></td></tr><tr>'+
+      '<td colspan="3" id="'+tr(p.subj)+'_'+tr(p.title[2])+'"><a class="nodecor small gray">&emsp;&emsp; - '+p.root+'&nbsp;</a></td></tr>'+
     '</table>'+
   '</div>';
-    fetch(p.url.substr(1, p.url.lastIndexOf('/'))+'about.md').then(rs => rs.text()).then(cover => {
-      if(cover = (cover.match(/<!--cover:([^>]*)-->/) || ['',''])[1]) document.getElementById('im'+p.i).src = 'data:image/jpeg;base64,'+cover;
+    fetch(p.url.substr(1, p.url.lastIndexOf('/'))+'about.md?2502073').then(rs=>rs.text()).then((t,s)=>{
+      if(s=(t.match(/<!--cover:([^>]*)-->/) || ['',''])[1]) document.getElementById('im'+p.i).src = 'data:image/jpeg;base64,'+s;
+      if(s=(t.match(new RegExp('<!--'+ tr(p.title[2]) +':([^>]*)-->')) || ['',''])[1]) document.getElementById(tr(p.subj)+'_'+tr(p.title[2])).innerHTML += '<audio class="vmid rounded5 rfloat" controls src="//data.zvu4no.org/play-track/'+s+'" style="height:24px;width:240px"></audio>';
     });
   }
   
