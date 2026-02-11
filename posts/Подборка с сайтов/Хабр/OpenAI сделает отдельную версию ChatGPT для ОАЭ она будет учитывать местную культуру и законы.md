@@ -1,0 +1,4 @@
+<!--2026-02-08 14:55:44-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/a3f/961/0d8/a3f9610d8ae9809d4b1268cf5e3ab967.png" /><p>Компания OpenAI ведет переговоры с технологическим холдингом G42 из Абу-Даби о разработке специальной версии чат-бота ChatGPT для Объединенных Арабских Эмиратов (ОАЭ). Как стало известно изданию&nbsp;<a href="https://www.semafor.com/article/02/06/2026/openai-in-talks-with-abu-dhabis-g42-to-create-specialized-chatgpt-version-for-uae" rel="noopener noreferrer... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/994134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994134">OpenAI сделает отдельную версию ChatGPT для ОАЭ — она будет учитывать местную культуру и законы</a></p></div>
+</div>
