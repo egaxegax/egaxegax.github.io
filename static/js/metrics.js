@@ -49,7 +49,7 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
 { // Yandex reklama
   (function(m,e,t,r,i,k,a){m[i]=m[i]||[];m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);})
     (window, document, 'script', '//yandex.ru/ads/system/context.js', 'yaContextCb');
-  window.YA_RTB = {1:1, 2:1, 3:1, 4:1, 5:1, 6:1, 7:1, 8:1, inImg:13, widget_books:14, widget_songs:14, widget_posts:14, widget_foto:14};
+  window.YA_RTB = {posts:1, books:1, songs:1, foto:1, dbcartajs:1, inimage:13, widget:14};
   window.YA_TMR = [];
   window.addYaRTB_Block = function(blid,rtbid,typ,p_dark){
     function ads(){ 
