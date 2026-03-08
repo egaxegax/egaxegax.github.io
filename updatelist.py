@@ -1,12 +1,11 @@
 #!/usr/bin/python3
 #
-# Make README.md files with list of files in run dir.
+# Extract README to .md files in dir.
 #
-# python3 ../updatelist.py (from songs, posts)
+# python3 ../updatelist.py <dir> (from books, posts, songs)
 #
 
 import re, os, sys
-from urllib.parse import urlencode
 
 def E_OS(text):
   return text
@@ -53,64 +52,29 @@ def tr_url(text):
   """Urlencode string"""
   return text.replace(' ', '%20')
 
-def main(path='.'):
-  cwd = os.path.basename(os.path.abspath(path))
+def main(path='.', dir='.'):
+  cwd = os.path.basename(os.getcwd())
+  count = 0
 
-  for root, dirs, files in os.walk(path, topdown=False):
-    ititles = []
-    files.sort()
-
-    roots = E_OS(os.path.basename(os.path.dirname(root)))
-    subj = E_OS(os.path.basename(root))
-
+  for root, dirs, files in os.walk(dir, topdown=False):
     if root in ('.git',):
-      print('SKIP', root)
+      # print(root, '...skip')
       continue
 
-    about = ''
     for name in files:
-      fname, ext = os.path.splitext(name)
-      title = E_OS(fname)
-
-      if name in ('README.md',):
-        continue
-
-      if cwd in ('books', 'foto', 'posts', 'songs') and ext in ('.md',):
-        if fname == 'about':
-          text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
-          about = text.strip() + '\n\n'      # save about text
-
-      if cwd in ('songs'):
-        continue
-
-      lntit = '[' + title + '](' + tr_url(title) + ext + ')'
-      if fname == 'about': # +about text
-        text = re.sub('(^<\!--.*-->)\s*', '', text)
-        ititles = [text + '\n'] + ititles
-      else:
-        if os.path.isfile(os.path.join(root, title + '.jpg')): # image in books, foto
-          ititles.append('![](' + tr_url(title) + '.jpg' + ')  \n' + lntit + '\n')
-        else:
-          ititles.append('* ' + lntit)
-
-      print(roots, subj, name)
-
-    if ititles: # titles list
-      text = ''
-      if os.path.isfile(os.path.join(root, tr(subj) + '.jpg')):
-        text = '![](' + tr(subj) + '.jpg' + ')\n\n'
-      text += '\n'.join(ititles)
-      open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(text)
-
-    if ititles and dirs: # subdirs list
-      isubj = []
-      dirs.sort()
-      for name in dirs:
-        if name not in ('.git', 'th', '_layouts'): # skip dir
-          isubj.append( '* [' + name + '](' + tr_url(name) + ')' )
-      text = '\n'.join(isubj)
-      if text:
-        open(os.path.join(root, 'README.md'), 'w', encoding='utf-8', newline='\n').write(about + text)
+      print(name, 'cwd', cwd)
+      if name in ('README',) and cwd in ('books', 'foto', 'posts', 'songs'):
+        with open(os.path.join(root, name)) as f:
+          for item in [item for item in re.split('<!---->', f.read()) if item]:
+            m = re.search(r'<!--n:(.+):s:(\d+):e:(\d+)-->', item)
+            try:    print(root, name, m.group())
+            except: print(root, name, '\n', item); raise
+            with open(os.path.join(root, m.group(1)+'.md'), 'w') as ff:
+              ff.write(item[:-(len(m.group())+1)])
+            count += 1
+        os.remove(os.path.join(root, name))
+  
+  print('Extracted:', count)
 
 if __name__ == '__main__':
-  main()
+  main(*sys.argv)

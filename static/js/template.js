@@ -14,6 +14,28 @@ function xhr(p, clfunc, id){
   xhr.send();
 }
 //
+// HTTP 1.1 fetch range of bytes
+//
+async function fetchPart(p, clfunc) {
+  try {
+    const response = await fetch( p.url, { headers: { Range: 'bytes='+ String(p.offset) + '-' + String(p.offset + p.length) } });
+    if (response.status === 206) {
+      const buffer = await response.arrayBuffer();
+      console.log( `Fetched ${buffer.byteLength} bytes.` );
+      clfunc((new TextDecoder('utf-8')).decode(buffer), p, response.status);
+    } else if (response.ok) {
+      console.log('Server does not support Range requests. Full file returned.');
+      const fullBuffer = await response.arrayBuffer();
+      clfunc((new TextDecoder('utf-8')).decode(fullBuffer.slice(p.offset, p.offset + p.length)), p, response.status);
+    } else {
+      console.error('HTTP error!', 'status', response.status);
+      clfunc('', p, response.status);
+    }
+  } catch (error) {
+    console.error('Fetch failed:', error);
+  }
+}
+//
 // return key/value object of URL GET params
 //
 function urlParams(url) {
@@ -183,7 +205,7 @@ function addNotFound(){
 function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
   var msgs = titles.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0]); }); // filter by subj
   if(!msgs.length) return msgs;
-  msgs = [[msgs[0][0],0,'README',0,msgs[0][4]]].concat(msgs); // +README page (all titles)
+  msgs = [[msgs[0][0],[0,100],'README',0,msgs[0][4]]].concat(msgs); // +README page (all titles)
   msgs = msgs.filter(function(tit){ return (tr(tit[2])==pp[1]); }); // filter by titl
   if(!msgs.length) return msgs;
   var rels_subj = titles.filter(function(tit){ return (tit[0] == msgs[0][0] && tit[1]!=msgs[0][1]); }).sort(function(a,b){ return arraySort(a[3],b[3]); });
@@ -208,10 +230,10 @@ function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
 function addTitlesRelsHtml(p, page_html, hdr_text, pid){
   (p.title[5]||[]).map(function(tit,i){
     document.getElementById(pid).innerHTML += 
-  (document.getElementById('rels_links') ? '' : ('<div id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</div><br>') )+
-  '<div class="msgtext mw_f scroll inlbl small">'+
-    '<em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a>'+
-  '</div><br>';
+  (document.getElementById('rels_links') ? '' : ('<div id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</div>') )+
+  '<div class="msgtext mw_f scroll small">'+
+    '<div class="inlbl"><em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a></div>'+
+  '</div>';
   });
 }
 //
