@@ -1,4 +1,0 @@
-<!--2026-01-21 14:46:25-->
-<div class="yb">
-  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/782/573/1e2/7825731e2719b1252743409619b4ba66.png" /><p>Правительство Бермудских островов объявило о планах превратить территорию в первую в мире национальную экономику, полностью работающую on-chain. Для реализации инициативы власти привлекли крупных игроков криптоиндустрии - Circle и Coinbase, которые обеспечат инфраструктуру цифровых активов для государства, бизнеса и жителей.</p><p>Проект предполагает широкое... <p class="titl"><a href="https://habr.com/ru/companies/technokratos/news/987520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987520">Бермуды планируют создать первую в мире экономику, полностью работающую on-chain, совместно с Circle и Coinbase</a></p></div>
-</div>

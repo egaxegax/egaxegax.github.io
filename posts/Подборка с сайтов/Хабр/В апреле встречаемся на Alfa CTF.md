@@ -1,4 +1,0 @@
-<!--2026-02-11 14:51:07-->
-<div class="yb">
-  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/8cb/3e7/659/8cb3e7659baac962bdb6d08932e9e9d4.png" /><p>Пока другие складывают доски, мы запускаем следующий сезон Capture the Flag. Волны принесут новый формат. Что будем делать:</p><p>🔴 Исследовать системы и искать флаги<br>🔴 Решать задачи разного уровня: для профи, новичков и даже школьников (от 14 лет)  <br>🔴 Соревноваться в мастерстве поиска уязвимостей</p><p>Скоро расскажем подробно про формат нового запуска:... <p class="titl"><a href="https://habr.com/ru/companies/alfa/news/995458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995458">В апреле встречаемся на Alfa CTF</a></p></div>
-</div>

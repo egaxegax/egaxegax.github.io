@@ -1,4 +1,0 @@
-<!--2026-02-14 14:54:03-->
-<div class="yb">
-  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/03c/658/9a8/03c6589a868f6510f00ed9a82d83ed16.jpeg" /><p>По <a href="https://ria.ru/20260214/gosuslugi-2074384065.html" rel="noopener noreferrer nofollow">информации</a> издания РИА Новости, некоторые пользователи мобильного приложения «Госуслуги» на iPhone не могут зайти в госсервис без подтверждения через получение кода из мессенджер Max. Аналогичная ситуация наблюдается у части пользователей смартфонов на Android.... <p class="titl"><a href="https://habr.com/ru/news/996586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996586">РИА Новости: часть пользователей мобильного приложения «Госуслуги» на iPhone не могут зайти в госсервис без кода из Max</a></p></div>
-</div>

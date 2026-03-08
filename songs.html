@@ -10,8 +10,8 @@
 <meta name="yandex-verification" content="bf07f0af8e739c66">
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Аккорды / Сайт egax</title>
-<link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?260211">
+<link rel="icon" href="/static/img/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?260301">
 <link rel="stylesheet" href="/static/css/songs.dark.css?260206">
 <style>
 .about img { max-width:80px; }
@@ -23,7 +23,7 @@
 .chords a { text-decoration:none; }
 #songcont p { margin-top:0;  }
 </style>
-<script src="/static/js/template.js?301125"></script>
+<script src="/static/js/template.js?260224"></script>
 <script src="/static/js/metrics.js?260214"></script>
 <script src="/static/js/3rdparty/jtab/jquery.js?v3.7.1"></script>
 <script src="/static/js/3rdparty/jtab/raphael.js?v2.3.0"></script>
@@ -46,7 +46,7 @@
 <div id="page_footer"></div>
 <div id="footer" class="tcenter">
 <p class="gray">Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством</p>
-<p><a class="hspaced" title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a><a class="hspaced" title="Поддержать проект" href="//dzen.ru/egax.ru?donate=true">Поддержать<span class="hspaced"></span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="10 23 46 24"><g fill="currentColor"><circle cx="37.5" cy="27.5" r="10"></circle><path d="M17.5 40v-3 c0-.553-.448-1-1-1h-5c-.552 0-1 .447-1 1v17c0 .553.448 1 1 1h5c.552 0 1-.447 1-1v-14 H26c2.791 0 5.189 1.897 5.833 4.615.053.226.254.385.486.385H41c1.103 0 2 .897 2 2s-.897 2-2 2h-9.529c-.276 0-.5.224-.5.5s.224.5.5.5H41c.45 0 .872-.106 1.256-.285.014-.005.029-.004.043-.01l11.423-5.354c.059-.021 1.479-.471 2.165 1.098C56.198 45.919 55.852 46.892 55.063 47.291l-16.767 9.147c-1.236.898-2.963 1.163-4.495.692L17.5 51.616"></path></g></svg></a>&ensp;&copy;&nbsp;2014-25&ensp;</p>
+<p><a class="hspaced" title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a><a class="hspaced" title="Поддержать проект" href="//dzen.ru/egax.ru?donate=true">Поддержать<span class="hspaced"></span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="10 23 46 24"><g fill="currentColor"><circle cx="37.5" cy="27.5" r="10"></circle><path d="M17.5 40v-3 c0-.553-.448-1-1-1h-5c-.552 0-1 .447-1 1v17c0 .553.448 1 1 1h5c.552 0 1-.447 1-1v-14 H26c2.791 0 5.189 1.897 5.833 4.615.053.226.254.385.486.385H41c1.103 0 2 .897 2 2s-.897 2-2 2h-9.529c-.276 0-.5.224-.5.5s.224.5.5.5H41c.45 0 .872-.106 1.256-.285.014-.005.029-.004.043-.01l11.423-5.354c.059-.021 1.479-.471 2.165 1.098C56.198 45.919 55.852 46.892 55.063 47.291l-16.767 9.147c-1.236.898-2.963 1.163-4.495.692L17.5 51.616"></path></g></svg></a>&ensp;&copy;&ensp;</p>
 <span id="metrics" class="hspaced"></span>
 <span id="metrics1" class="hspaced"></span>
 </div>
@@ -64,15 +64,18 @@
     '<table class="av collapse" cellspacing="0" cellpadding="0" border=0 width="100%"><tr>'+
       '<td width="1%" rowspan="3"><div class="cover"><img id="im'+p.i+'" class="rounded" align="left" alt="" src=""></div></td>'+
       '<td colspan="2"><a class="nodecor" href="/songs.html?'+tr(p.subj)+'">&ensp;'+p.subj+' </a></td>'+
-      '<td></td></tr><tr>'+
+      '<td></td>'+
+    '</tr><tr>'+
       '<td colspan="2"><a class="nodecor dark" href="/songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a></td>'+
       '<td valign="center" align="right" class="light vmid" width="1%"><span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span></td></tr><tr>'+
       '<td colspan="3" id="'+tr(p.subj)+'_'+tr(p.title[2])+'"><a class="nodecor small gray">&emsp;&emsp; - '+p.root+'&nbsp;</a></td></tr>'+
     '</table>'+
   '</div>';
-    fetch(p.url.substr(1, p.url.lastIndexOf('/'))+'about.md?2502073').then(rs=>rs.text()).then((t,s)=>{
-      if(s=(t.match(/<!--cover:([^>]*)-->/) || ['',''])[1]) document.getElementById('im'+p.i).src = 'data:image/jpeg;base64,'+s;
-      if(s=(t.match(new RegExp('<!--'+ tr(p.title[2]) +':([^>]*)-->')) || ['',''])[1]) document.getElementById(tr(p.subj)+'_'+tr(p.title[2])).innerHTML += '<audio class="vmid rounded5 rfloat" controls src="//data.zvu4no.org/play-track/'+s+'" style="height:24px;width:240px"></audio>';
+  TITLES.filter(function(tit){ return (tit[0] == p.title[0]) && (tit[4] == p.title[4]) && (tit[2] == 'about'); }).map(function(item){
+    fetchPart({url: '/songs/'+p.root+'/'+p.subj+'/README', offset: item[1][0]+7, length: item[1][1]-8}, function(r,p1,st){
+        if(st=(r.match(/<!--cover:([^>]*)-->/) || ['',''])[1]) document.getElementById('im'+p.i).src = 'data:image/jpeg;base64,'+st;
+        if(st=(r.match(new RegExp('<!--'+ tr(p.title[2]) +':([^>]*)-->')) || ['',''])[1]) document.getElementById(tr(p.subj)+'_'+tr(p.title[2])).innerHTML += '<audio class="vmid rounded5 rfloat" controls src="//data.zvu4no.org/play-track/'+st+'" style="height:24px;width:240px"></audio>';
+      });
     });
   }
   
@@ -173,7 +176,7 @@
       return 1;
     }
     if(window.addYaRTB_Block && iinit) {
-      document.querySelector('.mh_hd').innerHTML = '<div id="ya_rtb_hd" '+(window.innerWidth<1350 ? 'style="min-height:136px"' : '')+ '></div>';
+      document.querySelector('.mh_hd').innerHTML = '<div id="ya_rtb_hd" '+(window.innerWidth<1350 ? 'style="min-height:130px"' : '')+ '></div>';
       addYaRTB_Block('ya_rtb_hd', YA_RTB['songs']);
     }
     page.bottom = (page.num)*page.per;
@@ -187,13 +190,13 @@
     for(var i=0; i<page.titles.length; i++){
       var subj = arts[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
-          title = page.titles[i][2];
+          range = page.titles[i][1];
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      xhr({id: 'song'+(i+page.bottom), if: i==1, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], doctitle: page.doctitle, url: '/songs/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      fetchPart({id: 'song'+(i+page.bottom), if: i==1, i: i+page.bottom, root: root, subj: subj, range: range, title: page.titles[i], doctitle: page.doctitle, url: '/songs/'+root+'/'+subj+'/README', offset: range[0]+7, length: range[1]-8}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
-        if(st == 200) { // skip Not Found pages
+        if(st == 206) { // skip Not Found pages
           wrap.className = 'wrap';
           (p.title[2] == 'about') ? wrap.className += addAbout(r,p) : 
             page.view == 'song' ? addSong(r,p) :
@@ -213,7 +216,7 @@
     PAGE.per = 6;
     PAGE.num = urlParams().page||0;
     PAGE.header = '<div class="tcell vmid"><h1>Текстов <b><i>'+TITLES.length+'</i></b> от разных&emsp; <a class="nodecor" href="/sarts.html"><i>Авторов</i></a>&nbsp; <a class="nodecor" href="/index.html?samouchitel_igry_na_gitare"><i>Уроки</i></a></div>';
-    PAGE.songs = TITLES;
+    PAGE.songs = TITLES.filter(function(tit){ return (tit[2] != 'about'); });
     PAGE.doctitle = (PAGE.songs.length ? (PAGE.songs[0][2] + ', ' + SUBJ[PAGE.songs[0][0]][0] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -238,7 +241,8 @@
       }else if(pp.length>0){ // ?art
         if((PAGE.songs = PAGE.songs.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
           PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
-          PAGE.songs = [[PAGE.songs[0][0],PAGE.songs[0][1],'about',0,PAGE.songs[0][4]]].concat(PAGE.songs);  // +about page
+          PAGE.about = TITLES.filter(function(tit){ return (tit[0] == PAGE.songs[0][0]) && (tit[4] == PAGE.songs[0][4]) && (tit[2] == 'about'); });
+          PAGE.songs = PAGE.about.concat(PAGE.songs); // +about page
           PAGE.header = '<div class="large tcell vmid"><h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a><i class="hspace light">('+ PAGE.songs.length+')</i><i class="gray smaller">'+ROOTS[SUBJ[PAGE.songs[0][0]][3]][0]+'</i></h1></div>';
           PAGE.doctitle = SUBJ[PAGE.songs[0][0]][0] + ', песни, тексты - ' + document.title;
           PAGE.view = 'list';
