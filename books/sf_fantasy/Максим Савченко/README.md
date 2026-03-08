@@ -1,1 +1,0 @@
-* [Hell Cat (СИ)](Hell%20Cat%20(СИ).md)

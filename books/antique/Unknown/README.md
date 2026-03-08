@@ -1,1 +1,0 @@
-* [Lisina_Igrok_Shestoj_Znak_2](Lisina_Igrok_Shestoj_Znak_2.md)

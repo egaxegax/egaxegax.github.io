@@ -13,7 +13,6 @@ cd = os.path.dirname(sys.argv[0])
 sys.path.insert(0, os.path.abspath(cd + '../'))
 
 from update import main as update_main
-from updatelist import main as updatelist_main
 
 def E_OS(text):
   if os.name == 'nt':
@@ -91,4 +90,3 @@ for root, dirs, files in os.walk(path, topdown=False):
 
 input("Press to continue indexing...")
 update_main(os.path.dirname(__file__))
-updatelist_main(os.path.dirname(__file__))

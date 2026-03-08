@@ -1,6 +1,6 @@
 #!python3
 #
-# Covvert .fb2 to .md and .jpg files.
+# Convert .fb2 to .md and .jpg files.
 #
 # python books2fb2.py <fb2_dir>
 #
@@ -14,7 +14,7 @@ cd = os.path.dirname(sys.argv[0])
 sys.path.insert(0, os.path.abspath(cd + '../'))
 
 from update import main as update_main
-from updatelist import main as updatelist_main, tr_chars
+from updatelist import tr_chars
 
 class fb2book:
   def __init__(self, file):
@@ -66,67 +66,68 @@ def E_OS(text):
     return text.decode('cp1251').encode('utf-8')
   return text
 
-path = '.'
-if (len(sys.argv) > 1):
-  path = os.path.abspath(E_OS(sys.argv[1]))
+if __name__ == '__main__':
+  path = '.'
+  bookdir = '.'
+  if (len(sys.argv) > 1): path = os.path.abspath(E_OS(sys.argv[1]))
+  if (len(sys.argv) > 2): bookdir = os.path.abspath(E_OS(sys.argv[2]))
 
-i = 0
-j = 0
+  i = 0
+  j = 0
 
-for root, dirs, files in os.walk(path, topdown=False):
-  for name in files:
-    fb2name = os.path.normpath(os.path.join(root, name))
-    fname, ext = os.path.splitext(fb2name)
-    if (ext == '.fb2'):
-      i += 1
+  for root, dirs, files in os.walk(path, topdown=False):
+    for name in files:
+      fb2name = os.path.normpath(os.path.join(root, name))
+      fname, ext = os.path.splitext(fb2name)
+      if (ext == '.fb2'):
+        i += 1
 
-      fp = ''
-      desc = ''
-      cover = ''
+        fp = ''
+        desc = ''
+        cover = ''
 
-      try: fb = fb2book(fb2name)
-      except: raise ValueError(name)
-    
-      tit = fb.get_title()
-      tit = tit.replace('[', '(').replace(']', ')').replace('/', '-').replace(':', '.').strip('<>"/\|!?*').strip()
-      wrt = fb.get_authors()
-      if not wrt:
-        print(name, '!!!SKIP:', 'author not defined')
-        continue
-      wrt = wrt.replace('[', '(').replace(']', ')').replace('/', '-').strip(' <>:"/\|!?*')
-      subj = fb.get_tags()
-
-      if subj: subj = subj[0].split('/')[0].split(',')[0].replace('-', '_').strip()
-      else:    subj = 'other'
-      pdate = fb.get_pubdate().split('-')[0]
-      desc = fb.get_description()
-      desc = desc.replace('&lt;','<').replace('&gt;','>')
-      desc = re.sub('<[^<]+?>', '', desc).strip()
-      cover = fb.get_cover_image()
-
-      fp = os.path.join('.', subj.replace(':', '').strip(), re.sub('\s+', ' ', wrt))
+        try: fb = fb2book(fb2name)
+        except: raise ValueError(name)
       
-      ftime = os.path.getmtime(os.path.join(root, name))
-      sdate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime))
+        tit = fb.get_title()
+        tit = tit.replace('[', '(').replace(']', ')').replace('/', '-').replace(':', '.').strip('<>"/\|!?*').strip()
+        wrt = fb.get_authors()
+        if not wrt:
+          print(name, '!!!SKIP:', 'author not defined')
+          continue
+        wrt = wrt.replace('[', '(').replace(']', ')').replace('/', '-').strip(' <>:"/\|!?*')
+        gnrs = fb.get_tags()
 
-      if fp:
-        j += 1
-        os.makedirs(fp, exist_ok=True)
-        if cover:
-          try:
-            im = Image.open(io.BytesIO(base64.b64decode(cover)))
-            im.thumbnail((240,240))
-            buffer = io.BytesIO()
-            im.save(buffer, format='JPEG')
-            cover = base64.b64encode(buffer.getvalue()).decode()
-          except:
-            print (fb2name, ':', str(sys.exc_info()))
-        with open(os.path.join(fp, tr_chars(tit[:60], 50, '')+'.md'), 'w+') as fbook:
-          fbook.write('<!--'+sdate+'--><!--pdate:'+pdate+'--><!--cover:'+cover+'-->\n' + desc)
-        print (i, j, int(cover != None), fb2name)
-      else:
-        print(i, j, fb2name, '!!!SKIP:', 'desc:', tit, 'cover:', cover)
+        if gnrs: subj = gnrs[0].split('/')[0].split(',')[0].replace('-', '_').strip()
+        else:    subj = 'other'
+        pdate = fb.get_pubdate().split('-')[0]
+        desc = fb.get_description()
+        desc = desc.replace('&lt;','<').replace('&gt;','>')
+        desc = re.sub('<[^<]+?>', '', desc).strip()
+        cover = fb.get_cover_image()
 
-input("Press to continue indexing...")
-update_main(os.path.dirname(__file__))
-updatelist_main(os.path.dirname(__file__))
+        fp = os.path.join(bookdir, subj.replace(':', '').strip(), re.sub('\s+', ' ', wrt))
+        
+        ftime = os.path.getmtime(os.path.join(root, name))
+        sdate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime))
+
+        if fp:
+          j += 1
+          os.makedirs(fp, exist_ok=True)
+          if cover:
+            try:
+              im = Image.open(io.BytesIO(base64.b64decode(cover)))
+              im.thumbnail((240,240))
+              buffer = io.BytesIO()
+              im.save(buffer, format='JPEG')
+              cover = base64.b64encode(buffer.getvalue()).decode()
+            except:
+              print (fb2name, ':', str(sys.exc_info()))
+          with open(os.path.join(fp, tr_chars(tit[:60], 50, '')+'.md'), 'w+') as fbook:
+            fbook.write('<!--'+sdate+'--><!--pdate:'+pdate+'--><!--cover:'+cover+'--><!--gnr:'+','.join(gnrs).replace(':', '').replace('-','_').strip()+'-->\n' + desc)
+          print (i, j, int(cover != None), fb2name)
+        else:
+          print(i, j, fb2name, '!!!SKIP:', 'desc:', tit, 'cover:', cover)
+
+  input("Press to continue indexing...")
+  update_main(os.path.dirname(__file__))

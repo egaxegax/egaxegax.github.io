@@ -1,1 +1,0 @@
-* [Fallout. Equestria - Long live the Queen!(](Fallout.%20Equestria%20-%20Long%20live%20the%20Queen!(.md)

@@ -1,1 +1,0 @@
-* [Memento mori (СИ)](Memento%20mori%20(СИ).md)
