@@ -9,7 +9,7 @@ import os, sys, time, re, csv
 
 sys.path.insert(0, '../../..')
 from update import main as update_main
-from updatelist import main as updatelist_main, tr, tr_chars, tr_cut
+from updatelist import tr, tr_chars, tr_cut
 
 path = '.'
 if len(sys.argv) > 1:
@@ -60,5 +60,4 @@ for root, dirs, files in os.walk(path, topdown=False):
 
 if fcount:
   update_main(os.path.dirname(__file__))
-  updatelist_main(os.path.dirname(__file__))
   

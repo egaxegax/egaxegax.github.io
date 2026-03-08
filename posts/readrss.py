@@ -25,8 +25,8 @@ cdir = os.path.dirname(__file__)
 sys.path.insert(0, cdir+'/..')
 
 from update import main as update_main
-from updatelist import main as updatelist_main, tr_chars
-from updaterssd import main as updaterss_main
+from updatelist import tr_chars
+# from updaterssd import main as updaterss_main
 
 total = 10
 fcount = 0
@@ -72,5 +72,3 @@ if fcount:
   time.sleep(1)
   os.chdir(cdir)
   update_main()
-  updatelist_main()
-  updaterss_main()

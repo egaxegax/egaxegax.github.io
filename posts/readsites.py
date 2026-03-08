@@ -22,8 +22,8 @@ cdir = os.path.dirname(__file__)
 sys.path.insert(0, cdir+'/..')
 
 from update import main as update_main
-from updatelist import main as updatelist_main, tr_chars, tr_cut
-from updaterssd import main as updaterss_main
+from updatelist import tr_chars, tr_cut
+# from updaterssd import main as updaterss_main
 
 fcount = 0
 
@@ -69,5 +69,3 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
 if fcount:
   time.sleep(1)
   update_main(cdir)
-  updatelist_main(cdir)
-  updaterss_main(cdir)

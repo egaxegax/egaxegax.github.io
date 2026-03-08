@@ -10,11 +10,11 @@
 <meta name="yandex-verification" content="bf07f0af8e739c66">
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Заметки / Сайт egax</title>
-<link rel="icon" href="/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/css/main.css?260211">
+<link rel="icon" href="/static/img/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/main.css?260225">
 <link rel="stylesheet" href="/static/css/markdown.css">
 <link rel="stylesheet" href="/static/css/posts.css?260206">
-<script src="/static/js/template.js?301125"></script>
+<script src="/static/js/template.js?260221"></script>
 <script src="/static/js/metrics.js?260214"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
 </head>
@@ -34,7 +34,7 @@
 <div id="page_footer"></div>
 <div id="footer" class="tcenter">
 <p class="gray">Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством</p>
-<p><a class="hspaced" title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a><a class="hspaced" title="Поддержать проект" href="//dzen.ru/egax.ru?donate=true">Поддержать<span class="hspaced"></span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="10 23 46 24"><g fill="currentColor"><circle cx="37.5" cy="27.5" r="10"></circle><path d="M17.5 40v-3 c0-.553-.448-1-1-1h-5c-.552 0-1 .447-1 1v17c0 .553.448 1 1 1h5c.552 0 1-.447 1-1v-14 H26c2.791 0 5.189 1.897 5.833 4.615.053.226.254.385.486.385H41c1.103 0 2 .897 2 2s-.897 2-2 2h-9.529c-.276 0-.5.224-.5.5s.224.5.5.5H41c.45 0 .872-.106 1.256-.285.014-.005.029-.004.043-.01l11.423-5.354c.059-.021 1.479-.471 2.165 1.098C56.198 45.919 55.852 46.892 55.063 47.291l-16.767 9.147c-1.236.898-2.963 1.163-4.495.692L17.5 51.616"></path></g></svg></a>&ensp;&copy;&nbsp;2014-25&ensp;</p>
+<p><a class="hspaced" title="Исходный код" href="//github.com/egaxegax/egaxegax.github.io">Проект</a><a class="hspaced" title="Поддержать проект" href="//dzen.ru/egax.ru?donate=true">Поддержать<span class="hspaced"></span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="10 23 46 24"><g fill="currentColor"><circle cx="37.5" cy="27.5" r="10"></circle><path d="M17.5 40v-3 c0-.553-.448-1-1-1h-5c-.552 0-1 .447-1 1v17c0 .553.448 1 1 1h5c.552 0 1-.447 1-1v-14 H26c2.791 0 5.189 1.897 5.833 4.615.053.226.254.385.486.385H41c1.103 0 2 .897 2 2s-.897 2-2 2h-9.529c-.276 0-.5.224-.5.5s.224.5.5.5H41c.45 0 .872-.106 1.256-.285.014-.005.029-.004.043-.01l11.423-5.354c.059-.021 1.479-.471 2.165 1.098C56.198 45.919 55.852 46.892 55.063 47.291l-16.767 9.147c-1.236.898-2.963 1.163-4.495.692L17.5 51.616"></path></g></svg></a>&ensp;&copy;&ensp;</p>
 <span id="metrics" class="hspaced"></span>
 <span id="metrics1" class="hspaced"></span>
 </div>
@@ -55,14 +55,10 @@
     return ' about';
   }
 
-  function addList(r,p){
-    var converter = new showdown.Converter(), // to markdown
-        html = converter.makeHtml(r)  // fix link url to absolute in README.md
-          .replace(/href="([^\"]+).md/g, function(m,fld){ return 'class="nodecor" href="/index.html?'+tr(p.subj)+'/'+tr(decodeURI(fld)) }); 
-    updateMetaTag('description', trstr(html.replace(/(<([^>]+)>)/gi,'').slice(0,512), '.,'));
+  function addList(p){
     updateMetaTag('keywords', p.subj+', '+p.title[2]+', список постов');
-    document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext'+(p.title[2] == 'README' ? ' readme' : '')+'">'+ html +'</div>';
+    document.getElementById(p.id).innerHTML += '<div id="'+p.id+'_readme" class="readme"></div>';
+    addTitlesRelsHtml(p, 'index.html', '<h2>Список всех страниц</h2>', p.id+'_readme');
   }
 
   function addPost(r,p,rs){
@@ -111,31 +107,30 @@
       return 1;
     }
     if(window.addYaRTB_Block && iinit) {
-      document.querySelector('.mh_hd').innerHTML = '<div id="ya_rtb_hd" '+(window.innerWidth<1350 ? 'style="min-height:136px"' : '')+ '></div>';
+      document.querySelector('.mh_hd').innerHTML = '<div id="ya_rtb_hd" '+(window.innerWidth<1350 ? 'style="min-height:130px"' : '')+ '></div>';
       addYaRTB_Block('ya_rtb_hd', YA_RTB['posts']);
     }
     page.bottom = (page.num)*page.per;
     page.top = page.bottom+page.per;
     page.titles = page.posts.slice(page.bottom, page.top);
     if(page.titles.length){
-      document.title = page.doctitle.replace('README / ', '');
       document.getElementById('page_footer').innerHTML = addPaginator(page.posts, page,
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad hmarg bigger" title="Загрузить ещё">&#8634;</button>');
     }
     for(var i=0; i<page.titles.length; i++){
       var subj = subjects[page.titles[i][0]][0],
           root = roots[page.titles[i][4]][0],
-          title = page.titles[i][2];
+          range = page.titles[i][1];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      xhr({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, root: root, subj: subj, title: page.titles[i], doctitle: page.doctitle, url: '/posts/'+root+'/'+subj+'/'+title+'.md'}, function(r,p,st){
+      fetchPart({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, root: root, subj: subj, title: page.titles[i], doctitle: page.doctitle, url: '/posts/'+root+'/'+subj+'/README', offset: range[0]+7, length: range[1]-8}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
-        if(st == 200) { // skip Not Found pages
+        if(st == 206) { // skip Not Found pages
           var wrap = document.getElementById(p.id);
           wrap.className = 'wrap';
           (p.title[2] == 'about') ? wrap.className += addAbout(r,p) :
-          (p.title[2] == 'README') ? addList(r,p) : addPost(r,p);
+          (p.title[2] == 'README') ? addList(p) : addPost(r,p);
         }
       });
     }
@@ -151,7 +146,7 @@
     PAGE.per = 4;                   // blocks per page
     PAGE.num = urlParams().page||0; // start num page 
     PAGE.header = '<h1>Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; <a class="nodecor" href="/psubj.html"><i>Темы</i></a></h1>';
-    PAGE.posts = TITLES;
+    PAGE.posts = TITLES.filter(function(tit){ return (tit[2] != 'about'); });
     PAGE.doctitle = (PAGE.posts.length ? (SUBJ[PAGE.posts[0][0]][0] + ', ' + PAGE.posts[0][2] + ' - ') : '') + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
@@ -167,7 +162,7 @@
       }else if(p && urlParams()[p]){ // ?arg=val
         // skip ya.ru search
       }else if(pp.length>1){ // ?subj/title
-        if((PAGE.posts = addTitlesRels(pp, SUBJ, PAGE.posts, 1)).length){
+        if((PAGE.posts = addTitlesRels(pp, SUBJ, PAGE.posts, (pp[1] != 'readme'), (pp[1] == 'readme'))).length){
           PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) +'&emsp;<a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
           PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ', ' + PAGE.posts[0][2] + ' - ' + document.title;
           PAGE.view = 'post';
@@ -175,7 +170,8 @@
       }else if(pp.length>0){ // ?subj
         if((PAGE.posts = PAGE.posts.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
           PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) + '<i class="hspace light">('+ PAGE.posts.length +')</i><a class="nodecor" href="/index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
-          PAGE.posts = [[PAGE.posts[0][0],PAGE.posts[0][1],'about',0,PAGE.posts[0][4]]].concat(PAGE.posts); // +about page
+          PAGE.about = TITLES.filter(function(tit){ return (tit[0] == PAGE.posts[0][0]) && (tit[4] == PAGE.posts[0][4]) && (tit[2] == 'about'); });
+          PAGE.posts = PAGE.about.concat(PAGE.posts); // +about page
           PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ', ' + ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] + ' - ' + document.title;
           PAGE.view = 'list';
         }

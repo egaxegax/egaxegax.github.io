@@ -11,8 +11,8 @@ cdir = os.path.dirname(__file__)
 
 sys.path.insert(0, cdir+'/..')
 from update import main as update_main
-from updatelist import main as updatelist_main, tr, tr_chars, tr_cut
-from updaterssd import main as updaterss_main
+from updatelist import tr, tr_chars, tr_cut
+# from updaterssd import main as updaterss_main
 
 total = 15
 fcount = 0
@@ -61,6 +61,3 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
 if fcount:
   time.sleep(1)
   update_main(cdir)
-  updatelist_main(cdir)
-  updaterss_main(cdir)
-  
