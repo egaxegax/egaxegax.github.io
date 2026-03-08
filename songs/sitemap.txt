@@ -11,9 +11,11 @@ https://egax.ru/songs.html?12_stones/running_out_of_pain
 https://egax.ru/songs.html?12_stones/soulfire
 https://egax.ru/songs.html?12_stones/the_way_i_feel
 https://egax.ru/songs.html?140_udarov_v_minutu
+https://egax.ru/songs.html?140_udarov_v_minutu/about
 https://egax.ru/songs.html?140_udarov_v_minutu/topolya
 https://egax.ru/songs.html?140_udarov_v_minutu/ya_ckychaju_po_tebe
 https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure
+https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure/about
 https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure/bilet_v_nikuda
 https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure/emo
 https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure/kosmos
@@ -23,6 +25,7 @@ https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure/serdce
 https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure/slovno_ten
 https://egax.ru/songs.html?1_5_kg_otlichnogo_pjure/subbotnij_vecher
 https://egax.ru/songs.html?25-17
+https://egax.ru/songs.html?25-17/about
 https://egax.ru/songs.html?25-17/gorkij_tuman
 https://egax.ru/songs.html?2_minutos
 https://egax.ru/songs.html?2_minutos/ataque
@@ -66,6 +69,7 @@ https://egax.ru/songs.html?311/unity
 https://egax.ru/songs.html?311/use_of_time
 https://egax.ru/songs.html?311/welcome
 https://egax.ru/songs.html?3_doors_down
+https://egax.ru/songs.html?3_doors_down/about
 https://egax.ru/songs.html?3_doors_down/be_like_that
 https://egax.ru/songs.html?3_doors_down/by_my_side
 https://egax.ru/songs.html?3_doors_down/down_poison
@@ -128,6 +132,7 @@ https://egax.ru/songs.html?5_nizza/yamajka
 https://egax.ru/songs.html?5_nizza/zaberi
 https://egax.ru/songs.html?5_nizza/zima
 https://egax.ru/songs.html?69_eyes
+https://egax.ru/songs.html?69_eyes/about
 https://egax.ru/songs.html?69_eyes/brandon_lee
 https://egax.ru/songs.html?69_eyes/dance_d_amour
 https://egax.ru/songs.html?69_eyes/gothic_girl
@@ -173,6 +178,7 @@ https://egax.ru/songs.html?7b/znaju_budet
 https://egax.ru/songs.html?7b/znaju_budet_2_variant
 https://egax.ru/songs.html?a-ha
 https://egax.ru/songs.html?a-ha/a_little_bit
+https://egax.ru/songs.html?a-ha/about
 https://egax.ru/songs.html?a-ha/and_you_tell_me
 https://egax.ru/songs.html?a-ha/angel_in_the_snow
 https://egax.ru/songs.html?a-ha/barely_hanging_on
@@ -241,12 +247,14 @@ https://egax.ru/songs.html?a-ha/you_wanted_more
 https://egax.ru/songs.html?a-mega
 https://egax.ru/songs.html?a-mega/letet
 https://egax.ru/songs.html?a-studio
+https://egax.ru/songs.html?a-studio/about
 https://egax.ru/songs.html?a-studio/eshche_ljublju
 https://egax.ru/songs.html?a-studio/neljubimaya
 https://egax.ru/songs.html?a-studio/uletaju
 https://egax.ru/songs.html?a-teens
 https://egax.ru/songs.html?a-teens/mamma_mia
 https://egax.ru/songs.html?abba
+https://egax.ru/songs.html?abba/about
 https://egax.ru/songs.html?abba/andante_andante
 https://egax.ru/songs.html?abba/angeleyes
 https://egax.ru/songs.html?abba/another_town_another_train
@@ -337,6 +345,7 @@ https://egax.ru/songs.html?abba/why_did_it_have_to_be_me
 https://egax.ru/songs.html?abraham_vader
 https://egax.ru/songs.html?abraham_vader/het_kleine_cafe_aan_de_haven
 https://egax.ru/songs.html?ac-dc
+https://egax.ru/songs.html?ac-dc/about
 https://egax.ru/songs.html?ac-dc/are_you_ready
 https://egax.ru/songs.html?ac-dc/baby_please_dont_go
 https://egax.ru/songs.html?ac-dc/back_in_black
@@ -380,6 +389,7 @@ https://egax.ru/songs.html?ac-dc/thunderstruck
 https://egax.ru/songs.html?ac-dc/whole_lotta_rosie
 https://egax.ru/songs.html?ac-dc/you_shook_me_all_night_long
 https://egax.ru/songs.html?accept
+https://egax.ru/songs.html?accept/about
 https://egax.ru/songs.html?accept/aiming_high
 https://egax.ru/songs.html?accept/amamos_la_vida
 https://egax.ru/songs.html?accept/another_second_to_be
@@ -437,6 +447,7 @@ https://egax.ru/songs.html?adam_ant/wonderful
 https://egax.ru/songs.html?adams_bryan
 https://egax.ru/songs.html?adams_bryan/18_till_i_die
 https://egax.ru/songs.html?adams_bryan/18_till_i_die_2_variant
+https://egax.ru/songs.html?adams_bryan/about
 https://egax.ru/songs.html?adams_bryan/all_for_love
 https://egax.ru/songs.html?adams_bryan/all_i_want_is_you
 https://egax.ru/songs.html?adams_bryan/always_have_always_will
@@ -498,6 +509,7 @@ https://egax.ru/songs.html?adams_bryan/when_you_re_gone
 https://egax.ru/songs.html?adams_johnny
 https://egax.ru/songs.html?adams_johnny/a_world_i_never_made
 https://egax.ru/songs.html?adaptaciya
+https://egax.ru/songs.html?adaptaciya/about
 https://egax.ru/songs.html?adaptaciya/ananas
 https://egax.ru/songs.html?adaptaciya/anarhiya
 https://egax.ru/songs.html?adaptaciya/bezyshodnost
@@ -672,6 +684,7 @@ https://egax.ru/songs.html?adriano_celentano/un_alberto_di_trenta_piani
 https://egax.ru/songs.html?adriano_celentano/un_carezza_in_un_pugno
 https://egax.ru/songs.html?adriano_celentano/una_festa_sui_prati
 https://egax.ru/songs.html?aerosmith
+https://egax.ru/songs.html?aerosmith/about
 https://egax.ru/songs.html?aerosmith/adam_s_apple
 https://egax.ru/songs.html?aerosmith/ain_t_that_a_bitch
 https://egax.ru/songs.html?aerosmith/amazing
@@ -810,6 +823,7 @@ https://egax.ru/songs.html?after_crying
 https://egax.ru/songs.html?after_crying/madrigal_love_part_one
 https://egax.ru/songs.html?agata_kristi
 https://egax.ru/songs.html?agata_kristi/abordaj
+https://egax.ru/songs.html?agata_kristi/about
 https://egax.ru/songs.html?agata_kristi/afpikanka
 https://egax.ru/songs.html?agata_kristi/afrikanka
 https://egax.ru/songs.html?agata_kristi/ajlavju
@@ -953,6 +967,7 @@ https://egax.ru/songs.html?agata_kristi/ya_vernus
 https://egax.ru/songs.html?agata_kristi/zvezdnoe_gestapo
 https://egax.ru/songs.html?agata_kristi/zvezdochet
 https://egax.ru/songs.html?agnostic_front
+https://egax.ru/songs.html?agnostic_front/about
 https://egax.ru/songs.html?agnostic_front/crucified
 https://egax.ru/songs.html?agoniya
 https://egax.ru/songs.html?agoniya/gorod_led
@@ -963,9 +978,11 @@ https://egax.ru/songs.html?air_supply/all_out_of_love
 https://egax.ru/songs.html?air_supply/here_i_am
 https://egax.ru/songs.html?air_supply/lost_in_love
 https://egax.ru/songs.html?airbourne
+https://egax.ru/songs.html?airbourne/about
 https://egax.ru/songs.html?airbourne/live_it_up
 https://egax.ru/songs.html?airbourne/too_much_too_young_too_fast
 https://egax.ru/songs.html?aisha
+https://egax.ru/songs.html?aisha/about
 https://egax.ru/songs.html?aisha/what_for
 https://egax.ru/songs.html?akademiya
 https://egax.ru/songs.html?akademiya/belye_cvety
@@ -983,6 +1000,7 @@ https://egax.ru/songs.html?akvarium/4d_poslednij_den_avgusta
 https://egax.ru/songs.html?akvarium/500
 https://egax.ru/songs.html?akvarium/8200
 https://egax.ru/songs.html?akvarium/8200_2_variant
+https://egax.ru/songs.html?akvarium/about
 https://egax.ru/songs.html?akvarium/adelaida
 https://egax.ru/songs.html?akvarium/afanasij_nikitin_bugi
 https://egax.ru/songs.html?akvarium/afanasij_nikitin_bugi_2_variant
@@ -1608,6 +1626,7 @@ https://egax.ru/songs.html?albeniz_isaak/pelegariya_andante
 https://egax.ru/songs.html?albeniz_mateo
 https://egax.ru/songs.html?albeniz_mateo/sonata_v_d
 https://egax.ru/songs.html?aleksandr_bujnov
+https://egax.ru/songs.html?aleksandr_bujnov/about
 https://egax.ru/songs.html?aleksandr_bujnov/gorkij_med
 https://egax.ru/songs.html?aleksandr_bujnov/gostinica
 https://egax.ru/songs.html?aleksandr_bujnov/ljubov_na_dvoix
@@ -1619,6 +1638,7 @@ https://egax.ru/songs.html?aleksandr_bujnov/v_parije_noch
 https://egax.ru/songs.html?aleksandr_bujnov/v_parije_noch_2
 https://egax.ru/songs.html?aleksandr_bujnov/ya_skuchaju_po_moskve
 https://egax.ru/songs.html?aleksandr_ivanov_rondo
+https://egax.ru/songs.html?aleksandr_ivanov_rondo/about
 https://egax.ru/songs.html?aleksandr_ivanov_rondo/allo
 https://egax.ru/songs.html?aleksandr_ivanov_rondo/belyj_sneg
 https://egax.ru/songs.html?aleksandr_ivanov_rondo/blednyj_barmen
@@ -1661,6 +1681,7 @@ https://egax.ru/songs.html?aleksandr_ivanov_rondo/ya_vernus
 https://egax.ru/songs.html?aleksandr_ivanov_rondo/ya_zdes_jivu
 https://egax.ru/songs.html?aleksandr_ivanov_rondo/ya_zovu_dojd
 https://egax.ru/songs.html?aleksandr_malinin
+https://egax.ru/songs.html?aleksandr_malinin/about
 https://egax.ru/songs.html?aleksandr_malinin/belyj_kon
 https://egax.ru/songs.html?aleksandr_malinin/berega
 https://egax.ru/songs.html?aleksandr_malinin/daj_bog
@@ -1690,6 +1711,7 @@ https://egax.ru/songs.html?aleksandr_marshal/volchonok
 https://egax.ru/songs.html?aleksandr_marshal/ya_tebya_nikogda_ne_zabudu
 https://egax.ru/songs.html?aleksandr_marshal/zima
 https://egax.ru/songs.html?aleksandr_serov
+https://egax.ru/songs.html?aleksandr_serov/about
 https://egax.ru/songs.html?aleksandr_serov/kak_byt
 https://egax.ru/songs.html?aleksandr_serov/madonna
 https://egax.ru/songs.html?aleksandr_serov/moya_boginya
@@ -1697,12 +1719,14 @@ https://egax.ru/songs.html?aleksandr_serov/ushla_ljubov
 https://egax.ru/songs.html?aleksandr_serov/vernis_ljubov
 https://egax.ru/songs.html?aleksej_glyzin
 https://egax.ru/songs.html?aleksej_glyzin/19_let
+https://egax.ru/songs.html?aleksej_glyzin/about
 https://egax.ru/songs.html?aleksej_glyzin/osennie_vechera
 https://egax.ru/songs.html?aleksej_glyzin/po_labirintam
 https://egax.ru/songs.html?aleksej_glyzin/pozdnij_vecher_v_sorrento
 https://egax.ru/songs.html?aleksej_glyzin/ty_ne_angel
 https://egax.ru/songs.html?aleksej_glyzin/zimnij_cad
 https://egax.ru/songs.html?aleksej_goman
+https://egax.ru/songs.html?aleksej_goman/about
 https://egax.ru/songs.html?aleksej_goman/jestokaya_devchonka
 https://egax.ru/songs.html?aleksej_goman/russkij_paren
 https://egax.ru/songs.html?aleksej_kortnev
@@ -1744,6 +1768,7 @@ https://egax.ru/songs.html?alena_apina
 https://egax.ru/songs.html?alena_apina/buhgalter
 https://egax.ru/songs.html?alisa
 https://egax.ru/songs.html?alisa/a_my_tancuem_na_palube_tonushchego_korablya
+https://egax.ru/songs.html?alisa/about
 https://egax.ru/songs.html?alisa/aerobika
 https://egax.ru/songs.html?alisa/aerobika_2_variant
 https://egax.ru/songs.html?alisa/akkumulyator
@@ -2020,6 +2045,7 @@ https://egax.ru/songs.html?alisa/zveri
 https://egax.ru/songs.html?alisa/zvezda_po_imeni_rok
 https://egax.ru/songs.html?alisa/zvezda_svinej
 https://egax.ru/songs.html?alla_pugacheva
+https://egax.ru/songs.html?alla_pugacheva/about
 https://egax.ru/songs.html?alla_pugacheva/ajsberg
 https://egax.ru/songs.html?alla_pugacheva/bez_menya
 https://egax.ru/songs.html?alla_pugacheva/do_svidanya_leto
@@ -2036,6 +2062,7 @@ https://egax.ru/songs.html?alla_pugacheva/starinnye_chasy
 https://egax.ru/songs.html?alla_pugacheva/tolko_ne_nazad
 https://egax.ru/songs.html?alla_pugacheva/zvezdnoe_leto
 https://egax.ru/songs.html?alsu
+https://egax.ru/songs.html?alsu/about
 https://egax.ru/songs.html?alsu/duet_vmeste
 https://egax.ru/songs.html?alsu/glaza_v_glaza
 https://egax.ru/songs.html?alsu/inogda
@@ -2149,6 +2176,7 @@ https://egax.ru/songs.html?alyans/zvuki_na_zare
 https://egax.ru/songs.html?amatory
 https://egax.ru/songs.html?amatory/59
 https://egax.ru/songs.html?amatory/7_shagov
+https://egax.ru/songs.html?amatory/about
 https://egax.ru/songs.html?amatory/begi_vsled_za_mnoj
 https://egax.ru/songs.html?amatory/cherno-belye_dni
 https://egax.ru/songs.html?amatory/drugaya_jizn
@@ -2220,6 +2248,7 @@ https://egax.ru/songs.html?and_also_the_trees/the_sandstone_man
 https://egax.ru/songs.html?and_also_the_trees/the_suffering_of_the_stream
 https://egax.ru/songs.html?and_also_the_trees/this_ship_in_trouble
 https://egax.ru/songs.html?andrej_derjavin
+https://egax.ru/songs.html?andrej_derjavin/about
 https://egax.ru/songs.html?andrej_derjavin/ne_plach_alisa
 https://egax.ru/songs.html?andrej_gubin
 https://egax.ru/songs.html?andrej_gubin/devushki_kak_zvezdy
@@ -2228,8 +2257,10 @@ https://egax.ru/songs.html?andrej_gubin/milaya_moya
 https://egax.ru/songs.html?andrej_gubin/ona_odna
 https://egax.ru/songs.html?andrej_gubin/ptica
 https://egax.ru/songs.html?andrej_lefler
+https://egax.ru/songs.html?andrej_lefler/about
 https://egax.ru/songs.html?andrej_lefler/spi_i_zabyvaj
 https://egax.ru/songs.html?andrej_makarevich
+https://egax.ru/songs.html?andrej_makarevich/about
 https://egax.ru/songs.html?andrej_makarevich/aeroflotovskaya
 https://egax.ru/songs.html?andrej_makarevich/ah_kakoj_byl_izyskanyj_bal
 https://egax.ru/songs.html?andrej_makarevich/babushka_revekka
@@ -2394,6 +2425,7 @@ https://egax.ru/songs.html?angels_and_airwaves/the_gift
 https://egax.ru/songs.html?angels_and_airwaves/the_war
 https://egax.ru/songs.html?angels_and_airwaves/valkyrie_missile
 https://egax.ru/songs.html?animal_djaz
+https://egax.ru/songs.html?animal_djaz/about
 https://egax.ru/songs.html?animal_djaz/dalshe
 https://egax.ru/songs.html?animal_djaz/esli_dyshish
 https://egax.ru/songs.html?animal_djaz/my
@@ -2420,6 +2452,7 @@ https://egax.ru/songs.html?anita_coj/polet
 https://egax.ru/songs.html?antimatter
 https://egax.ru/songs.html?antimatter/over_your_shoulder
 https://egax.ru/songs.html?anton_zacepin
+https://egax.ru/songs.html?anton_zacepin/about
 https://egax.ru/songs.html?anton_zacepin/uletaju
 https://egax.ru/songs.html?apm
 https://egax.ru/songs.html?apm/dom_ctoit
@@ -2434,12 +2467,15 @@ https://egax.ru/songs.html?apocalyptica/path
 https://egax.ru/songs.html?apostrof
 https://egax.ru/songs.html?apostrof/vechernij_rok-n-roll
 https://egax.ru/songs.html?aqua
+https://egax.ru/songs.html?aqua/about
 https://egax.ru/songs.html?aqua/barbie_girl
 https://egax.ru/songs.html?araks
+https://egax.ru/songs.html?araks/about
 https://egax.ru/songs.html?araks/strannaya_noch
 https://egax.ru/songs.html?araks/strannaya_noch_2
 https://egax.ru/songs.html?araks/strannaya_noch_3
 https://egax.ru/songs.html?arash
+https://egax.ru/songs.html?arash/about
 https://egax.ru/songs.html?arash/arash
 https://egax.ru/songs.html?arash/behnaz
 https://egax.ru/songs.html?arash/bora_bora
@@ -2612,6 +2648,7 @@ https://egax.ru/songs.html?arena_tina/je_m_appelle_bagdad
 https://egax.ru/songs.html?ariya
 https://egax.ru/songs.html?ariya/1100
 https://egax.ru/songs.html?ariya/1100_2_variant
+https://egax.ru/songs.html?ariya/about
 https://egax.ru/songs.html?ariya/angelskaya_pyl
 https://egax.ru/songs.html?ariya/angelskaya_pyl_2_variant
 https://egax.ru/songs.html?ariya/angelskaya_pyl_3_variant
@@ -2844,6 +2881,7 @@ https://egax.ru/songs.html?asmolov_vladimir/jdet_zemlya
 https://egax.ru/songs.html?asmolov_vladimir/mne_snilsya_son
 https://egax.ru/songs.html?asmolov_vladimir/tanec_s_toboj
 https://egax.ru/songs.html?aukcyon
+https://egax.ru/songs.html?aukcyon/about
 https://egax.ru/songs.html?aukcyon/alkogolizm
 https://egax.ru/songs.html?aukcyon/bobeobi
 https://egax.ru/songs.html?aukcyon/bojus
@@ -2933,20 +2971,24 @@ https://egax.ru/songs.html?aukcyon/zimy_ne_budet
 https://egax.ru/songs.html?avariya
 https://egax.ru/songs.html?avariya/takaya_vot_pechal
 https://egax.ru/songs.html?aviator
+https://egax.ru/songs.html?aviator/about
 https://egax.ru/songs.html?aviator/ni_uderjat_ni_otpustit
 https://egax.ru/songs.html?aviator/podarok
 https://egax.ru/songs.html?aviator/vozvrashchajsya
 https://egax.ru/songs.html?avraam_russo
+https://egax.ru/songs.html?avraam_russo/about
 https://egax.ru/songs.html?avraam_russo/daleko-daleko
 https://egax.ru/songs.html?avraam_russo/ljubov_kotoroj_bolshe_net
 https://egax.ru/songs.html?avraam_russo/ne_uhodi
 https://egax.ru/songs.html?avril_lavigne
 https://egax.ru/songs.html?avril_lavigne/something_just_isn_t_right
 https://egax.ru/songs.html?avtograf
+https://egax.ru/songs.html?avtograf/about
 https://egax.ru/songs.html?avtograf/oblaka
 https://egax.ru/songs.html?avtograf/strannik
 https://egax.ru/songs.html?avtograf/tak_chasto_byvaet
 https://egax.ru/songs.html?avtomaticheskie_udovletvoriteli
+https://egax.ru/songs.html?avtomaticheskie_udovletvoriteli/about
 https://egax.ru/songs.html?avtomaticheskie_udovletvoriteli/assa
 https://egax.ru/songs.html?avtomaticheskie_udovletvoriteli/deltaplan
 https://egax.ru/songs.html?avtomaticheskie_udovletvoriteli/ogurechnyj_loson
@@ -2959,6 +3001,7 @@ https://egax.ru/songs.html?avtorskaya_pesnya/pochemu_tak_v_jizni_proishodit
 https://egax.ru/songs.html?avtorskaya_pesnya/poslednij_list
 https://egax.ru/songs.html?avtorskaya_pesnya/skorost
 https://egax.ru/songs.html?az
+https://egax.ru/songs.html?az/about
 https://egax.ru/songs.html?az/bardak
 https://egax.ru/songs.html?az/chujie_my
 https://egax.ru/songs.html?az/dajte_mne_pulemet
@@ -3001,6 +3044,7 @@ https://egax.ru/songs.html?babyface/everytime_i_close_my_eyes
 https://egax.ru/songs.html?babyface/when_can_i_see_you
 https://egax.ru/songs.html?babyface/when_can_i_see_you_again
 https://egax.ru/songs.html?bachurin_evgenij
+https://egax.ru/songs.html?bachurin_evgenij/about
 https://egax.ru/songs.html?bachurin_evgenij/ballada_o_gordom_rycare
 https://egax.ru/songs.html?bachurin_evgenij/dereva
 https://egax.ru/songs.html?bachurin_evgenij/kameshkom_po_berejku
@@ -3009,6 +3053,7 @@ https://egax.ru/songs.html?bachurin_evgenij/nadejda
 https://egax.ru/songs.html?bachurin_evgenij/olen
 https://egax.ru/songs.html?bachurin_evgenij/pervyj_menestrel
 https://egax.ru/songs.html?backstreet_boys
+https://egax.ru/songs.html?backstreet_boys/about
 https://egax.ru/songs.html?backstreet_boys/all_i_have_to_give
 https://egax.ru/songs.html?backstreet_boys/as_long_as_you_love_me
 https://egax.ru/songs.html?backstreet_boys/everybody
@@ -3031,6 +3076,7 @@ https://egax.ru/songs.html?bad_manners/skinhead_girl
 https://egax.ru/songs.html?bad_religion
 https://egax.ru/songs.html?bad_religion/21st_century_digital_boy
 https://egax.ru/songs.html?bad_religion/a_walk
+https://egax.ru/songs.html?bad_religion/about
 https://egax.ru/songs.html?bad_religion/along_the_way
 https://egax.ru/songs.html?bad_religion/american_jesus
 https://egax.ru/songs.html?bad_religion/best_for_you
@@ -3103,6 +3149,7 @@ https://egax.ru/songs.html?bah_iogan_sebostyan/tokata_i_fuga_dm
 https://egax.ru/songs.html?bah_iogan_sebostyan/vozduh_sjuita_dlya_orkestra_3_v_d
 https://egax.ru/songs.html?bahyt-kompot
 https://egax.ru/songs.html?bahyt-kompot/8-e_marta
+https://egax.ru/songs.html?bahyt-kompot/about
 https://egax.ru/songs.html?bahyt-kompot/anarhistka
 https://egax.ru/songs.html?bahyt-kompot/buhgalter_ivanov
 https://egax.ru/songs.html?bahyt-kompot/chesotka
@@ -3169,6 +3216,7 @@ https://egax.ru/songs.html?barbarians
 https://egax.ru/songs.html?barbarians/moulty
 https://egax.ru/songs.html?barenaked_ladies
 https://egax.ru/songs.html?barenaked_ladies/a
+https://egax.ru/songs.html?barenaked_ladies/about
 https://egax.ru/songs.html?barenaked_ladies/am_i_the_only_one
 https://egax.ru/songs.html?barenaked_ladies/be_my_yoko_ono
 https://egax.ru/songs.html?barenaked_ladies/break_your_heart
@@ -3223,12 +3271,14 @@ https://egax.ru/songs.html?barry_john/if_i_had_any_pride
 https://egax.ru/songs.html?barry_john/standing_on_the_edge_of_goodbye
 https://egax.ru/songs.html?barry_john/your_love_amazes_me
 https://egax.ru/songs.html?barykin_aleksandr
+https://egax.ru/songs.html?barykin_aleksandr/about
 https://egax.ru/songs.html?barykin_aleksandr/aeroport
 https://egax.ru/songs.html?barykin_aleksandr/malenkaya_moskva
 https://egax.ru/songs.html?barykin_aleksandr/pesnya_o_druge
 https://egax.ru/songs.html?barykin_aleksandr/stop-motor
 https://egax.ru/songs.html?barykin_aleksandr/ya_budu_dolgo_gnat_velosiped
 https://egax.ru/songs.html?bashakov_mihail
+https://egax.ru/songs.html?bashakov_mihail/about
 https://egax.ru/songs.html?bashakov_mihail/chapaj
 https://egax.ru/songs.html?bashakov_mihail/elis
 https://egax.ru/songs.html?bashakov_mihail/glubokaya_radost
@@ -3242,6 +3292,7 @@ https://egax.ru/songs.html?bashakov_mihail/solnce_pod_krylom
 https://egax.ru/songs.html?bashakov_mihail/somebody
 https://egax.ru/songs.html?bashakov_mihail/svetlyj_den
 https://egax.ru/songs.html?bashlachev_aleksandr
+https://egax.ru/songs.html?bashlachev_aleksandr/about
 https://egax.ru/songs.html?bashlachev_aleksandr/absoljutnyj_vahter
 https://egax.ru/songs.html?bashlachev_aleksandr/bolnoe_semya
 https://egax.ru/songs.html?bashlachev_aleksandr/chas_priliva_mertvyj_sezon
@@ -3359,6 +3410,7 @@ https://egax.ru/songs.html?beatles/a_hard_day_s_night
 https://egax.ru/songs.html?beatles/a_little_help_from_my_friends
 https://egax.ru/songs.html?beatles/a_shot_of_rhythm_and_blues
 https://egax.ru/songs.html?beatles/a_taste_of_honey
+https://egax.ru/songs.html?beatles/about
 https://egax.ru/songs.html?beatles/across_the_universe
 https://egax.ru/songs.html?beatles/act_naturally
 https://egax.ru/songs.html?beatles/all_day_and_all_of_the_night
@@ -3595,6 +3647,7 @@ https://egax.ru/songs.html?beatles/your_mother_should_know
 https://egax.ru/songs.html?beer_square_garden
 https://egax.ru/songs.html?beer_square_garden/dojd
 https://egax.ru/songs.html?bekhan
+https://egax.ru/songs.html?bekhan/about
 https://egax.ru/songs.html?bekhan/dojd
 https://egax.ru/songs.html?bekhan/doroga
 https://egax.ru/songs.html?bekhan/jist
@@ -3769,6 +3822,7 @@ https://egax.ru/songs.html?belov_jurij/savanna
 https://egax.ru/songs.html?belov_jurij/tvoju_tosku_tvoju_pechal
 https://egax.ru/songs.html?belyj_orel
 https://egax.ru/songs.html?belyj_orel/a_v_chistom_pole
+https://egax.ru/songs.html?belyj_orel/about
 https://egax.ru/songs.html?belyj_orel/bez_tebya_ne_mogu
 https://egax.ru/songs.html?belyj_orel/gorkij_med
 https://egax.ru/songs.html?belyj_orel/kak_upoitelny_v_rossii_vechera
@@ -3821,6 +3875,7 @@ https://egax.ru/songs.html?berestov_aleksandr/proshchalnaya
 https://egax.ru/songs.html?berestov_aleksandr/reka
 https://egax.ru/songs.html?berestov_aleksandr/ya_hochu_uvidet_okean
 https://egax.ru/songs.html?berkovskij_viktor
+https://egax.ru/songs.html?berkovskij_viktor/about
 https://egax.ru/songs.html?berkovskij_viktor/alma_mater
 https://egax.ru/songs.html?berkovskij_viktor/etu_pryanuju_perinu
 https://egax.ru/songs.html?berkovskij_viktor/grenada
@@ -3865,6 +3920,7 @@ https://egax.ru/songs.html?bethoven_ljudvig_van/pateticheskaya_sanata
 https://egax.ru/songs.html?bethoven_ljudvig_van/pyataya_simfoniya
 https://egax.ru/songs.html?bethoven_ljudvig_van/tema_iz_6-ti_variacij_v_g
 https://egax.ru/songs.html?bi-2
+https://egax.ru/songs.html?bi-2/about
 https://egax.ru/songs.html?bi-2/dengi_na_veter
 https://egax.ru/songs.html?bi-2/derjatsya_za_vozduh
 https://egax.ru/songs.html?bi-2/dostuchatsya_do_nebes
@@ -3935,6 +3991,7 @@ https://egax.ru/songs.html?bi-plan/kinosny
 https://egax.ru/songs.html?bi-plan/s_dobrym_utrom
 https://egax.ru/songs.html?bichevskaya_janna
 https://egax.ru/songs.html?bichevskaya_janna/13_dekabrya
+https://egax.ru/songs.html?bichevskaya_janna/about
 https://egax.ru/songs.html?bichevskaya_janna/ah_kak_pticy_pojut
 https://egax.ru/songs.html?bichevskaya_janna/ah_ne_budite_menya
 https://egax.ru/songs.html?bichevskaya_janna/ananasy_v_shampanskom
@@ -4258,6 +4315,7 @@ https://egax.ru/songs.html?bize_jorj/habanera_karmen_iz_opery_karmen_2_variant
 https://egax.ru/songs.html?bize_jorj/marsh_toreadorov
 https://egax.ru/songs.html?bize_jorj/marsh_toreadorov_iz_opery_karmen
 https://egax.ru/songs.html?bjork
+https://egax.ru/songs.html?bjork/about
 https://egax.ru/songs.html?bjork/all_is_full_of_love
 https://egax.ru/songs.html?bjork/army_of_me
 https://egax.ru/songs.html?bjork/aurora
@@ -4310,11 +4368,13 @@ https://egax.ru/songs.html?black_flag/fix_me
 https://egax.ru/songs.html?black_flag/six_pack
 https://egax.ru/songs.html?black_flag/wasted
 https://egax.ru/songs.html?black_label_society
+https://egax.ru/songs.html?black_label_society/about
 https://egax.ru/songs.html?black_label_society/angel_of_mercy
 https://egax.ru/songs.html?black_label_society/in_this_river
 https://egax.ru/songs.html?black_sabbath
 https://egax.ru/songs.html?black_sabbath/a_hard_road
 https://egax.ru/songs.html?black_sabbath/a_national_acrobat
+https://egax.ru/songs.html?black_sabbath/about
 https://egax.ru/songs.html?black_sabbath/after_forever
 https://egax.ru/songs.html?black_sabbath/air_dance
 https://egax.ru/songs.html?black_sabbath/all_moving_parts
@@ -4426,6 +4486,7 @@ https://egax.ru/songs.html?black_sabbath/you_won_t_change_me
 https://egax.ru/songs.html?black_sabbath/zero_the_hero
 https://egax.ru/songs.html?blackmore_s_night
 https://egax.ru/songs.html?blackmore_s_night/a_maid_bedlam
+https://egax.ru/songs.html?blackmore_s_night/about
 https://egax.ru/songs.html?blackmore_s_night/again_someday
 https://egax.ru/songs.html?blackmore_s_night/all_because_of_you
 https://egax.ru/songs.html?blackmore_s_night/all_things_are_quiet_silent
@@ -4506,6 +4567,7 @@ https://egax.ru/songs.html?blind_guardian/the_maiden_and_the_minstrel_knight
 https://egax.ru/songs.html?blind_guardian/time_what_is_time
 https://egax.ru/songs.html?blind_guardian/valhalla
 https://egax.ru/songs.html?blink_182
+https://egax.ru/songs.html?blink_182/about
 https://egax.ru/songs.html?blink_182/adam_s_song
 https://egax.ru/songs.html?blink_182/aliens_exist
 https://egax.ru/songs.html?blink_182/all_the_small_things
@@ -4615,13 +4677,16 @@ https://egax.ru/songs.html?bloodhound_gang/you_re_pretty_when_i_m_drunk
 https://egax.ru/songs.html?bloodhound_gang/your_only_friends_are_make_believe
 https://egax.ru/songs.html?bloodhound_gang/yummy_down_on_this
 https://egax.ru/songs.html?bloodsport_ost
+https://egax.ru/songs.html?bloodsport_ost/about
 https://egax.ru/songs.html?bloodsport_ost/fight_to_survive
 https://egax.ru/songs.html?bloodsport_ost/on_my_own_alone
 https://egax.ru/songs.html?blue_system
+https://egax.ru/songs.html?blue_system/about
 https://egax.ru/songs.html?blue_system/my_bed_is_too_big
 https://egax.ru/songs.html?blur
 https://egax.ru/songs.html?blur/1992
 https://egax.ru/songs.html?blur/a_song
+https://egax.ru/songs.html?blur/about
 https://egax.ru/songs.html?blur/advert
 https://egax.ru/songs.html?blur/alex_s_song
 https://egax.ru/songs.html?blur/ambulance
@@ -4734,6 +4799,7 @@ https://egax.ru/songs.html?bob_dylan
 https://egax.ru/songs.html?bob_dylan/115th_dream
 https://egax.ru/songs.html?bob_dylan/a_hard_rains_a_gonna_fall
 https://egax.ru/songs.html?bob_dylan/abandoned_love
+https://egax.ru/songs.html?bob_dylan/about
 https://egax.ru/songs.html?bob_dylan/absolutely_sweet_marie
 https://egax.ru/songs.html?bob_dylan/all_along_the_watchtower
 https://egax.ru/songs.html?bob_dylan/all_along_the_watchtower_2_variant
@@ -4868,6 +4934,7 @@ https://egax.ru/songs.html?bob_dylan/you_ain_goin_nowhere
 https://egax.ru/songs.html?bob_dylan/you_ain_going_nowhere
 https://egax.ru/songs.html?bob_dylan/youre_gonna_make_me_lonesome_when_you_go
 https://egax.ru/songs.html?bob_marley
+https://egax.ru/songs.html?bob_marley/about
 https://egax.ru/songs.html?bob_marley/burnin_and_lootin
 https://egax.ru/songs.html?bob_marley/concrete_jungle
 https://egax.ru/songs.html?bob_marley/could_you_be_loved
@@ -4894,11 +4961,13 @@ https://egax.ru/songs.html?bogushevskaya_irina/angel_moej_pechali
 https://egax.ru/songs.html?bogushevskaya_irina/chem_ty_dyshish
 https://egax.ru/songs.html?bogushevskaya_irina/shou_dlya_tebya_odnoj
 https://egax.ru/songs.html?bojya_korovka
+https://egax.ru/songs.html?bojya_korovka/about
 https://egax.ru/songs.html?bojya_korovka/granitnyj_kamushek
 https://egax.ru/songs.html?bokov_valerij
 https://egax.ru/songs.html?bokov_valerij/daje_knigi_vse
 https://egax.ru/songs.html?bokov_valerij/zima
 https://egax.ru/songs.html?bon_jovi
+https://egax.ru/songs.html?bon_jovi/about
 https://egax.ru/songs.html?bon_jovi/all_about_lovin_you
 https://egax.ru/songs.html?bon_jovi/always
 https://egax.ru/songs.html?bon_jovi/always_2_variant
@@ -4947,6 +5016,11 @@ https://egax.ru/songs.html?boney_m/mary_s_boy_child
 https://egax.ru/songs.html?boney_m/no_woman_no_cry
 https://egax.ru/songs.html?boney_m/rasputin
 https://egax.ru/songs.html?boney_m/sunny
+https://egax.ru/songs.html?bonfire
+https://egax.ru/songs.html?bonfire/about
+https://egax.ru/songs.html?bonfire/daytona_nights
+https://egax.ru/songs.html?bonfire/proud_of_my_country
+https://egax.ru/songs.html?bonfire/you_make_me_feel
 https://egax.ru/songs.html?boni_nem
 https://egax.ru/songs.html?boni_nem/plachet_devochka_s_avtomatom
 https://egax.ru/songs.html?boni_nem/v_mire_jivotnyh
@@ -4956,6 +5030,7 @@ https://egax.ru/songs.html?boni_nem/zamok_iz_dojdya
 https://egax.ru/songs.html?born_against
 https://egax.ru/songs.html?born_against/well_fed_fuck
 https://egax.ru/songs.html?boyarskij_mihail
+https://egax.ru/songs.html?boyarskij_mihail/about
 https://egax.ru/songs.html?boyarskij_mihail/bolshaya_medvedica
 https://egax.ru/songs.html?boyarskij_mihail/chas_do_rassveta
 https://egax.ru/songs.html?boyarskij_mihail/dressirovshchik
@@ -4991,6 +5066,7 @@ https://egax.ru/songs.html?boyarskij_mihail/zelenoglazoe_taksi_3_variant
 https://egax.ru/songs.html?boyarskij_mihail/zelenoglazoe_taksi_4_variant
 https://egax.ru/songs.html?brainstorm
 https://egax.ru/songs.html?brainstorm/a_day_before_tomorrow
+https://egax.ru/songs.html?brainstorm/about
 https://egax.ru/songs.html?brainstorm/ain_t_it_funny
 https://egax.ru/songs.html?brainstorm/among_the_suns
 https://egax.ru/songs.html?brainstorm/billions_of_stars
@@ -5020,6 +5096,7 @@ https://egax.ru/songs.html?brams_iogannes/vals_v_ab_kolybelnaya_or_39_15
 https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5
 https://egax.ru/songs.html?brams_iogannes/vengerskij_tanec_5_v_f_m
 https://egax.ru/songs.html?bratya_grim
+https://egax.ru/songs.html?bratya_grim/about
 https://egax.ru/songs.html?bratya_grim/aeroplan
 https://egax.ru/songs.html?bratya_grim/baraban
 https://egax.ru/songs.html?bratya_grim/dyhanie
@@ -5042,6 +5119,7 @@ https://egax.ru/songs.html?bravo
 https://egax.ru/songs.html?bravo/20-j_vek
 https://egax.ru/songs.html?bravo/2h2_4
 https://egax.ru/songs.html?bravo/7_tysyach_nad_zemlej
+https://egax.ru/songs.html?bravo/about
 https://egax.ru/songs.html?bravo/aeroplan
 https://egax.ru/songs.html?bravo/ah_eta_devchonka
 https://egax.ru/songs.html?bravo/ah_eta_devchonka_2_variant
@@ -5184,6 +5262,7 @@ https://egax.ru/songs.html?breathe/hands_to_heaven
 https://egax.ru/songs.html?bremenskie_muzykanty_iz_mf
 https://egax.ru/songs.html?bremenskie_muzykanty_iz_mf/luch_solnca_zolotogo
 https://egax.ru/songs.html?brigada_s
+https://egax.ru/songs.html?brigada_s/about
 https://egax.ru/songs.html?brigada_s/allergiya
 https://egax.ru/songs.html?brigada_s/banka_po-belomu
 https://egax.ru/songs.html?brigada_s/belyj_kolpak
@@ -5237,6 +5316,7 @@ https://egax.ru/songs.html?brigadnyj_podryad/bolnoj
 https://egax.ru/songs.html?brigadnyj_podryad/pesnya_o_neuvajenii_k_sobstvennoj_lichnosti
 https://egax.ru/songs.html?brigadnyj_podryad/shkolnoe_ljubovishche
 https://egax.ru/songs.html?bruce_springsteen
+https://egax.ru/songs.html?bruce_springsteen/about
 https://egax.ru/songs.html?bruce_springsteen/born_in_the_usa
 https://egax.ru/songs.html?bruce_springsteen/long_walk_home
 https://egax.ru/songs.html?bruce_springsteen/streets_of_philadelphia
@@ -5249,6 +5329,7 @@ https://egax.ru/songs.html?buck-o-nine/my_town
 https://egax.ru/songs.html?buck-o-nine/nineteen
 https://egax.ru/songs.html?bulat_okudjava
 https://egax.ru/songs.html?bulat_okudjava/a_vse-taki_jal
+https://egax.ru/songs.html?bulat_okudjava/about
 https://egax.ru/songs.html?bulat_okudjava/agneshke_oseckoj_pposhchanie_s_polshej
 https://egax.ru/songs.html?bulat_okudjava/ah_esli_b_znat_zaranee
 https://egax.ru/songs.html?bulat_okudjava/apbatckij_pomanc
@@ -5316,6 +5397,7 @@ https://egax.ru/songs.html?buttuweizer/ckejtboard
 https://egax.ru/songs.html?butusov_vyacheslav
 https://egax.ru/songs.html?butusov_vyacheslav/10_shagov
 https://egax.ru/songs.html?butusov_vyacheslav/20000
+https://egax.ru/songs.html?butusov_vyacheslav/about
 https://egax.ru/songs.html?butusov_vyacheslav/aeroport
 https://egax.ru/songs.html?butusov_vyacheslav/alchi-alchi
 https://egax.ru/songs.html?butusov_vyacheslav/alen_de_lon
@@ -5421,6 +5503,7 @@ https://egax.ru/songs.html?butusov_vyacheslav/zvezda_poeta
 https://egax.ru/songs.html?butusov_vyacheslav/zvezda_poeta_2_variant
 https://egax.ru/songs.html?butusov_vyacheslav/zvezdochka
 https://egax.ru/songs.html?butyrka
+https://egax.ru/songs.html?butyrka/about
 https://egax.ru/songs.html?butyrka/baba_masha
 https://egax.ru/songs.html?butyrka/bezbiletnyj_passajir
 https://egax.ru/songs.html?butyrka/devchonka_s_centra
@@ -5517,6 +5600,7 @@ https://egax.ru/songs.html?celine_dion/my_heart_will_go_on
 https://egax.ru/songs.html?celine_dion/my_heart_will_go_on_3_variant
 https://egax.ru/songs.html?celine_dion/my_heart_will_go_on_perevod
 https://egax.ru/songs.html?centr
+https://egax.ru/songs.html?centr/about
 https://egax.ru/songs.html?centr/gorizontalnye_ljudi
 https://egax.ru/songs.html?centr/malchik_v_tenisnyh_tuflyah
 https://egax.ru/songs.html?centr/privet_tebe
@@ -5524,6 +5608,7 @@ https://egax.ru/songs.html?centr/smutnoe_pyatno_neizvestno_chego
 https://egax.ru/songs.html?centr/volodya_potustoronnij_shofer
 https://egax.ru/songs.html?centr/ya_vse_umeju
 https://egax.ru/songs.html?chaj_vdvoem
+https://egax.ru/songs.html?chaj_vdvoem/about
 https://egax.ru/songs.html?chaj_vdvoem/angel
 https://egax.ru/songs.html?chaj_vdvoem/gorod
 https://egax.ru/songs.html?chaj_vdvoem/jelannaya
@@ -5536,6 +5621,7 @@ https://egax.ru/songs.html?chajf/17_let
 https://egax.ru/songs.html?chajf/25_let_chetvert_veka
 https://egax.ru/songs.html?chajf/a-to
 https://egax.ru/songs.html?chajf/a_u_nas_kak_vsegda
+https://egax.ru/songs.html?chajf/about
 https://egax.ru/songs.html?chajf/angel
 https://egax.ru/songs.html?chajf/argentina_-_yamajka_5_-_0
 https://egax.ru/songs.html?chajf/argentina_yamajka_5_-_0_2
@@ -5655,6 +5741,7 @@ https://egax.ru/songs.html?chajf/zavyaji_mne_glaza
 https://egax.ru/songs.html?chajf/zimnee_more
 https://egax.ru/songs.html?chajf/zinaida
 https://egax.ru/songs.html?chajkovskij_petr_ilich
+https://egax.ru/songs.html?chajkovskij_petr_ilich/about
 https://egax.ru/songs.html?chajkovskij_petr_ilich/lebedinoe_ozero_or_20
 https://egax.ru/songs.html?chajkovskij_petr_ilich/opera_20
 https://egax.ru/songs.html?chajkovskij_petr_ilich/shchelkunchik_tanec_fei_draje_or_71
@@ -5700,6 +5787,7 @@ https://egax.ru/songs.html?chernozem/viselyj_marsh
 https://egax.ru/songs.html?chernye_berety_kaspiya
 https://egax.ru/songs.html?chernye_berety_kaspiya/zakavkaze
 https://egax.ru/songs.html?chernyj_kofe
+https://egax.ru/songs.html?chernyj_kofe/about
 https://egax.ru/songs.html?chernyj_kofe/belaya_noch
 https://egax.ru/songs.html?chernyj_kofe/belyj_veter
 https://egax.ru/songs.html?chernyj_kofe/broju_po_gorodu_odin
@@ -5728,6 +5816,7 @@ https://egax.ru/songs.html?chernyj_kofe/ya_ne_ranen_-_ya_ubit
 https://egax.ru/songs.html?chernyj_kofe/znamya_mira
 https://egax.ru/songs.html?chernyj_kofe/zvezdnyj_vodoem
 https://egax.ru/songs.html?chernyj_kvadrat
+https://egax.ru/songs.html?chernyj_kvadrat/about
 https://egax.ru/songs.html?chernyj_kvadrat/dom
 https://egax.ru/songs.html?chernyj_kvadrat/korabli
 https://egax.ru/songs.html?chernyj_kvadrat/muzyka
@@ -5768,6 +5857,7 @@ https://egax.ru/songs.html?chernyj_lukich/valter
 https://egax.ru/songs.html?chernyj_lukich/vechnaya_strana
 https://egax.ru/songs.html?chernyj_lukich/zavyal_cvetok
 https://egax.ru/songs.html?chernyj_obelisk
+https://egax.ru/songs.html?chernyj_obelisk/about
 https://egax.ru/songs.html?chernyj_obelisk/bolezn
 https://egax.ru/songs.html?chernyj_obelisk/cezar
 https://egax.ru/songs.html?chernyj_obelisk/chernyj_obelisk
@@ -5787,6 +5877,7 @@ https://egax.ru/songs.html?chervona_rutta/druzya
 https://egax.ru/songs.html?chervona_rutta/na_mars
 https://egax.ru/songs.html?chicherina
 https://egax.ru/songs.html?chicherina/40000_kilometrov
+https://egax.ru/songs.html?chicherina/about
 https://egax.ru/songs.html?chicherina/afrika
 https://egax.ru/songs.html?chicherina/bljudca
 https://egax.ru/songs.html?chicherina/byla
@@ -6074,6 +6165,7 @@ https://egax.ru/songs.html?chris_rea/texas
 https://egax.ru/songs.html?chris_rea/the_road_to_hell
 https://egax.ru/songs.html?chuck_berry
 https://egax.ru/songs.html?chuck_berry/12_bar_blues
+https://egax.ru/songs.html?chuck_berry/about
 https://egax.ru/songs.html?chuck_berry/almost_grown
 https://egax.ru/songs.html?chuck_berry/around_and_around
 https://egax.ru/songs.html?chuck_berry/back_in_the_usa
@@ -6117,6 +6209,7 @@ https://egax.ru/songs.html?chuck_berry/you_can_t_catch_me
 https://egax.ru/songs.html?chuck_berry/you_never_can_tell
 https://egax.ru/songs.html?cinderella
 https://egax.ru/songs.html?cinderella/a_dream_is_a_wish_your_heart_makes
+https://egax.ru/songs.html?cinderella/about
 https://egax.ru/songs.html?cinderella/coming_home
 https://egax.ru/songs.html?cinderella/gypsy_road
 https://egax.ru/songs.html?cinderella/heartbreak_station
@@ -6151,6 +6244,7 @@ https://egax.ru/songs.html?cohen_leonard
 https://egax.ru/songs.html?cohen_leonard/a_bunch_of_lonesome_heroes
 https://egax.ru/songs.html?cohen_leonard/a_singer_must_die
 https://egax.ru/songs.html?cohen_leonard/a_thousand_kisses_deep
+https://egax.ru/songs.html?cohen_leonard/about
 https://egax.ru/songs.html?cohen_leonard/ain_t_no_cure_for_love
 https://egax.ru/songs.html?cohen_leonard/alexandra_leaving
 https://egax.ru/songs.html?cohen_leonard/always
@@ -6270,6 +6364,7 @@ https://egax.ru/songs.html?cohen_leonard/winter_lady
 https://egax.ru/songs.html?cohen_leonard/you_have_loved_enough
 https://egax.ru/songs.html?cohen_leonard/you_know_who_i_am
 https://egax.ru/songs.html?coldplay
+https://egax.ru/songs.html?coldplay/about
 https://egax.ru/songs.html?coldplay/adventure_of_a_lifetime
 https://egax.ru/songs.html?coldplay/clocks
 https://egax.ru/songs.html?coldplay/every_teardrop_is_a_waterfall
@@ -6370,10 +6465,12 @@ https://egax.ru/songs.html?crowded_house/when_you_come
 https://egax.ru/songs.html?crowded_house/whispers_and_moans
 https://egax.ru/songs.html?crowded_house/world_where_you_live
 https://egax.ru/songs.html?cvety
+https://egax.ru/songs.html?cvety/about
 https://egax.ru/songs.html?cvety/zvezdochka_moya_yasnaya
 https://egax.ru/songs.html?da_buzz
 https://egax.ru/songs.html?da_buzz/how_could_you_leave_me
 https://egax.ru/songs.html?danko
+https://egax.ru/songs.html?danko/about
 https://egax.ru/songs.html?danko/malysh
 https://egax.ru/songs.html?danko/moskovskaya_noch
 https://egax.ru/songs.html?david_bowie
@@ -6383,6 +6480,7 @@ https://egax.ru/songs.html?ddt/180_santimetrov_nazad
 https://egax.ru/songs.html?ddt/180_sm
 https://egax.ru/songs.html?ddt/2020
 https://egax.ru/songs.html?ddt/25
+https://egax.ru/songs.html?ddt/about
 https://egax.ru/songs.html?ddt/adam_i_eva
 https://egax.ru/songs.html?ddt/agidel_belaya_reka
 https://egax.ru/songs.html?ddt/aktrisa_vesna
@@ -6722,6 +6820,7 @@ https://egax.ru/songs.html?debjussi_klod/devushka_s_lnanymi_volosami
 https://egax.ru/songs.html?debjussi_klod/kartinki
 https://egax.ru/songs.html?debjussi_klod/lunnyj_svet
 https://egax.ru/songs.html?decl
+https://egax.ru/songs.html?decl/about
 https://egax.ru/songs.html?decl/pismo
 https://egax.ru/songs.html?decl/slezy
 https://egax.ru/songs.html?deep_forest
@@ -6734,6 +6833,7 @@ https://egax.ru/songs.html?deep_forest/media_luna
 https://egax.ru/songs.html?deep_forest/twosome
 https://egax.ru/songs.html?deep_forest/while_the_earth_sleeps
 https://egax.ru/songs.html?deep_purple
+https://egax.ru/songs.html?deep_purple/about
 https://egax.ru/songs.html?deep_purple/anthem
 https://egax.ru/songs.html?deep_purple/anya
 https://egax.ru/songs.html?deep_purple/anyone_s_daughter
@@ -6800,6 +6900,7 @@ https://egax.ru/songs.html?deep_purple/wring_that_neck
 https://egax.ru/songs.html?deep_purple/you_can_t_do_it_right
 https://egax.ru/songs.html?deep_purple/you_keep_on_moving
 https://egax.ru/songs.html?def_leppard
+https://egax.ru/songs.html?def_leppard/about
 https://egax.ru/songs.html?def_leppard/goodbye
 https://egax.ru/songs.html?def_leppard/hysteria
 https://egax.ru/songs.html?def_leppard/rock_of_ages
@@ -6807,6 +6908,7 @@ https://egax.ru/songs.html?def_leppard/when_love_and_hate_collide
 https://egax.ru/songs.html?dekabr
 https://egax.ru/songs.html?dekabr/steklyannyj_dom
 https://egax.ru/songs.html?delfin
+https://egax.ru/songs.html?delfin/about
 https://egax.ru/songs.html?delfin/botinki
 https://egax.ru/songs.html?delfin/delfin
 https://egax.ru/songs.html?delfin/diler
@@ -6872,6 +6974,7 @@ https://egax.ru/songs.html?den_nazgul/pesnya_smerti
 https://egax.ru/songs.html?den_nazgul/poslednij_raz_uslyshat_golos_roga
 https://egax.ru/songs.html?denis_majdanov
 https://egax.ru/songs.html?denis_majdanov/36_6
+https://egax.ru/songs.html?denis_majdanov/about
 https://egax.ru/songs.html?denis_majdanov/beskonechnaya_molodost
 https://egax.ru/songs.html?denis_majdanov/grafik
 https://egax.ru/songs.html?denis_majdanov/nichego_ne_jal
@@ -6881,6 +6984,7 @@ https://egax.ru/songs.html?denis_majdanov/vechnaya_ljubov
 https://egax.ru/songs.html?denis_majdanov/vremya_narkotik
 https://egax.ru/songs.html?depeche_mode
 https://egax.ru/songs.html?depeche_mode/a_pain_that_i_m_used_to
+https://egax.ru/songs.html?depeche_mode/about
 https://egax.ru/songs.html?depeche_mode/barrel_of_a_gun
 https://egax.ru/songs.html?depeche_mode/behind_the_wheel
 https://egax.ru/songs.html?depeche_mode/black_celebration
@@ -6926,6 +7030,7 @@ https://egax.ru/songs.html?deti_pikasso
 https://egax.ru/songs.html?deti_pikasso/afpika
 https://egax.ru/songs.html?deti_pikasso/dikappio
 https://egax.ru/songs.html?detskie_pesni
+https://egax.ru/songs.html?detskie_pesni/about
 https://egax.ru/songs.html?detskie_pesni/antoshka
 https://egax.ru/songs.html?detskie_pesni/buratino
 https://egax.ru/songs.html?detskie_pesni/chunga-chanka
@@ -6979,6 +7084,7 @@ https://egax.ru/songs.html?dialog/tolko_ty
 https://egax.ru/songs.html?dibrov_i_antropologiya
 https://egax.ru/songs.html?dibrov_i_antropologiya/rom_i_pepsi-kola
 https://egax.ru/songs.html?didjulya
+https://egax.ru/songs.html?didjulya/about
 https://egax.ru/songs.html?didjulya/ajsedora
 https://egax.ru/songs.html?didjulya/den
 https://egax.ru/songs.html?didjulya/flamenko
@@ -6986,6 +7092,7 @@ https://egax.ru/songs.html?didjulya/rumba
 https://egax.ru/songs.html?die_toten_hosen
 https://egax.ru/songs.html?die_toten_hosen/hier_kommt_alex
 https://egax.ru/songs.html?dima_bilan
+https://egax.ru/songs.html?dima_bilan/about
 https://egax.ru/songs.html?dima_bilan/bez_tebya_ne_mogu
 https://egax.ru/songs.html?dima_bilan/bum
 https://egax.ru/songs.html?dima_bilan/eto_byla_ljubov
@@ -7016,6 +7123,7 @@ https://egax.ru/songs.html?dinosaur_jr/the_boy_with_the_thorn_in_his_side
 https://egax.ru/songs.html?diody
 https://egax.ru/songs.html?diody/pc
 https://egax.ru/songs.html?dire_straits
+https://egax.ru/songs.html?dire_straits/about
 https://egax.ru/songs.html?dire_straits/angel_of_mercy
 https://egax.ru/songs.html?dire_straits/brothers_in_arms
 https://egax.ru/songs.html?dire_straits/calling_elvis
@@ -7108,6 +7216,7 @@ https://egax.ru/songs.html?dj_dojdik/ballada
 https://egax.ru/songs.html?dj_dojdik/pochemu_je
 https://egax.ru/songs.html?dj_dojdik/podojdi_nemnojko
 https://egax.ru/songs.html?django
+https://egax.ru/songs.html?django/about
 https://egax.ru/songs.html?django/byla_ne_byla
 https://egax.ru/songs.html?django/holodnaya_vesna
 https://egax.ru/songs.html?django/metel
@@ -7147,6 +7256,7 @@ https://egax.ru/songs.html?djumin_aleksandr/tanka
 https://egax.ru/songs.html?djumin_aleksandr/tver
 https://egax.ru/songs.html?djumin_aleksandr/volk
 https://egax.ru/songs.html?djuna
+https://egax.ru/songs.html?djuna/about
 https://egax.ru/songs.html?djuna/anasha
 https://egax.ru/songs.html?djuna/i_v_lopuhah_i_pod_kustom
 https://egax.ru/songs.html?djuna/kostjumchik
@@ -7158,13 +7268,16 @@ https://egax.ru/songs.html?djuna/privet_s_bolshogo_boduna
 https://egax.ru/songs.html?djuna/volshebnyj_liven
 https://egax.ru/songs.html?djuna/za_druzej
 https://egax.ru/songs.html?dmitrij_koldun
+https://egax.ru/songs.html?dmitrij_koldun/about
 https://egax.ru/songs.html?dmitrij_koldun/ne_grusti_naprasno
 https://egax.ru/songs.html?dmitrij_malikov
+https://egax.ru/songs.html?dmitrij_malikov/about
 https://egax.ru/songs.html?dmitrij_malikov/eshche-eshche
 https://egax.ru/songs.html?dmitrij_malikov/kto_tebe_skazal
 https://egax.ru/songs.html?dmitrij_malikov/osen
 https://egax.ru/songs.html?dmitrij_malikov/s_dnem_rojdenya_mama
 https://egax.ru/songs.html?dmitrij_revyakin
+https://egax.ru/songs.html?dmitrij_revyakin/about
 https://egax.ru/songs.html?dmitrij_revyakin/dudki
 https://egax.ru/songs.html?dmitrij_revyakin/metelshchik
 https://egax.ru/songs.html?dmitrij_revyakin/pojdem_co_mnoj
@@ -7195,6 +7308,7 @@ https://egax.ru/songs.html?dolina_veronika/svidanie_s_tallinom
 https://egax.ru/songs.html?dolina_veronika/ya_jivu_kak_jivu
 https://egax.ru/songs.html?dolina_veronika/ya_sama_sebe_otkryla
 https://egax.ru/songs.html?dolskij_aleksandr
+https://egax.ru/songs.html?dolskij_aleksandr/about
 https://egax.ru/songs.html?dolskij_aleksandr/ah_kak_eto_redko_byvaet
 https://egax.ru/songs.html?dolskij_aleksandr/alenushka
 https://egax.ru/songs.html?dolskij_aleksandr/ballada_himiku
@@ -7479,6 +7593,7 @@ https://egax.ru/songs.html?eagle_eye_cherry
 https://egax.ru/songs.html?eagle_eye_cherry/are_you_still_having_fun
 https://egax.ru/songs.html?eagle_eye_cherry/save_tonight
 https://egax.ru/songs.html?eagles
+https://egax.ru/songs.html?eagles/about
 https://egax.ru/songs.html?eagles/after_the_thrill_is_gone
 https://egax.ru/songs.html?eagles/already_gone
 https://egax.ru/songs.html?eagles/best_of_my_love
@@ -7547,6 +7662,7 @@ https://egax.ru/songs.html?ejova_irina/u_tebya_u_kurnosoj
 https://egax.ru/songs.html?electric_light_orchestra
 https://egax.ru/songs.html?electric_light_orchestra/10538_overture
 https://egax.ru/songs.html?electric_light_orchestra/21st_century_man
+https://egax.ru/songs.html?electric_light_orchestra/about
 https://egax.ru/songs.html?electric_light_orchestra/above_the_clouds
 https://egax.ru/songs.html?electric_light_orchestra/all_over_the_world
 https://egax.ru/songs.html?electric_light_orchestra/another_heart_breaks
@@ -7701,6 +7817,7 @@ https://egax.ru/songs.html?elizium/ya_prishel_domoj
 https://egax.ru/songs.html?elizium/yapko_gopyat
 https://egax.ru/songs.html?elizium/zvezdnaya_kolybelnaya
 https://egax.ru/songs.html?elka
+https://egax.ru/songs.html?elka/about
 https://egax.ru/songs.html?elka/devochka_v_pejo
 https://egax.ru/songs.html?elka/gorod_obmana
 https://egax.ru/songs.html?elka/horoshee_nastroenie
@@ -7708,6 +7825,7 @@ https://egax.ru/songs.html?elka/ty_znaesh_obo_mne
 https://egax.ru/songs.html?eloy
 https://egax.ru/songs.html?eloy/child_migration
 https://egax.ru/songs.html?elton_john
+https://egax.ru/songs.html?elton_john/about
 https://egax.ru/songs.html?elton_john/all_quiet_on_the_western_front
 https://egax.ru/songs.html?elton_john/all_the_girls_love_alice
 https://egax.ru/songs.html?elton_john/amazes_me
@@ -7823,6 +7941,7 @@ https://egax.ru/songs.html?elvis_presley/you_don_t_have_to_say_you_love_me
 https://egax.ru/songs.html?elvis_presley/you_re_a_heartbreaker
 https://egax.ru/songs.html?elvis_presley/your_cheatin_heart
 https://egax.ru/songs.html?emil_gorovec
+https://egax.ru/songs.html?emil_gorovec/about
 https://egax.ru/songs.html?emil_gorovec/golubye_goroda
 https://egax.ru/songs.html?emil_gorovec/ljublju_ya_makarony
 https://egax.ru/songs.html?eminem
@@ -7882,6 +8001,7 @@ https://egax.ru/songs.html?eminem/without_me
 https://egax.ru/songs.html?england_dan
 https://egax.ru/songs.html?england_dan/nights_are_forever_without_you
 https://egax.ru/songs.html?enigma
+https://egax.ru/songs.html?enigma/about
 https://egax.ru/songs.html?enigma/all_out_of_love
 https://egax.ru/songs.html?enigma/gravity_of_love
 https://egax.ru/songs.html?enigma/sadeness
@@ -7921,6 +8041,7 @@ https://egax.ru/songs.html?epidemiya/zagadka_volshebnoj_strany
 https://egax.ru/songs.html?epidemiya/zolotye_drakony
 https://egax.ru/songs.html?epidemiya/zvon_monet
 https://egax.ru/songs.html?eric_clapton
+https://egax.ru/songs.html?eric_clapton/about
 https://egax.ru/songs.html?eric_clapton/aint_nobodys_business
 https://egax.ru/songs.html?eric_clapton/alberta
 https://egax.ru/songs.html?eric_clapton/anyday
@@ -7991,6 +8112,7 @@ https://egax.ru/songs.html?eric_clapton/wonderful_tonight
 https://egax.ru/songs.html?eshelon
 https://egax.ru/songs.html?eshelon/revoljuciya
 https://egax.ru/songs.html?europe
+https://egax.ru/songs.html?europe/about
 https://egax.ru/songs.html?europe/carrie
 https://egax.ru/songs.html?europe/cherokee
 https://egax.ru/songs.html?europe/danger_on_the_track
@@ -8019,6 +8141,7 @@ https://egax.ru/songs.html?evanescence/tourniquet
 https://egax.ru/songs.html?evanescence/where_will_you_go
 https://egax.ru/songs.html?evgenij_margulis
 https://egax.ru/songs.html?evgenij_margulis/40_let
+https://egax.ru/songs.html?evgenij_margulis/about
 https://egax.ru/songs.html?evgenij_margulis/baobab
 https://egax.ru/songs.html?evgenij_margulis/bljuz_o_vrede_pyanstva
 https://egax.ru/songs.html?evgenij_margulis/da_i_net
@@ -8135,11 +8258,13 @@ https://egax.ru/songs.html?evgenij_osin/ya_tebya_ljublju
 https://egax.ru/songs.html?evgenij_osin/yalta
 https://egax.ru/songs.html?evgenij_osin/zapiska
 https://egax.ru/songs.html?evtushenko_evgenij
+https://egax.ru/songs.html?evtushenko_evgenij/about
 https://egax.ru/songs.html?evtushenko_evgenij/ljudej_ne_mnogo_v_etom_mire
 https://egax.ru/songs.html?evtushenko_evgenij/ljudej_neinteresnyh_v_mire_net
 https://egax.ru/songs.html?evtushenko_evgenij/ne_nado_boyatsya_gustogo_tumana
 https://egax.ru/songs.html?exploited
 https://egax.ru/songs.html?exploited/15_years
+https://egax.ru/songs.html?exploited/about
 https://egax.ru/songs.html?exploited/about_to_die
 https://egax.ru/songs.html?exploited/addiction
 https://egax.ru/songs.html?exploited/adding_to_their_fears
@@ -8221,6 +8346,7 @@ https://egax.ru/songs.html?exploited/treat_you_like_shit
 https://egax.ru/songs.html?exploited/troops_of_tomorrow
 https://egax.ru/songs.html?exploited/was_it_me
 https://egax.ru/songs.html?f_p_g
+https://egax.ru/songs.html?f_p_g/about
 https://egax.ru/songs.html?f_p_g/baba_yaga
 https://egax.ru/songs.html?f_p_g/blyad
 https://egax.ru/songs.html?f_p_g/botinki
@@ -8251,6 +8377,7 @@ https://egax.ru/songs.html?faktor_2
 https://egax.ru/songs.html?faktor_2/200_gramm
 https://egax.ru/songs.html?faktor_2/a_mne_tak_poh
 https://egax.ru/songs.html?faktor_2/a_ya_ne_splju
+https://egax.ru/songs.html?faktor_2/about
 https://egax.ru/songs.html?faktor_2/baron
 https://egax.ru/songs.html?faktor_2/bol_navsegda
 https://egax.ru/songs.html?faktor_2/bratan
@@ -8374,6 +8501,7 @@ https://egax.ru/songs.html?fedorov_leonid
 https://egax.ru/songs.html?fedorov_leonid/daleko
 https://egax.ru/songs.html?fedorov_leonid/svetlana
 https://egax.ru/songs.html?fi-gury
+https://egax.ru/songs.html?fi-gury/about
 https://egax.ru/songs.html?fi-gury/chistota
 https://egax.ru/songs.html?fi-gury/delfiny
 https://egax.ru/songs.html?fi-gury/ekaterina
@@ -8432,6 +8560,7 @@ https://egax.ru/songs.html?filigon/vokrug_duba
 https://egax.ru/songs.html?fleur
 https://egax.ru/songs.html?fleur/kokon
 https://egax.ru/songs.html?foo_fighters
+https://egax.ru/songs.html?foo_fighters/about
 https://egax.ru/songs.html?foo_fighters/alone_easy_target
 https://egax.ru/songs.html?foo_fighters/baker_street
 https://egax.ru/songs.html?foo_fighters/big_me
@@ -8525,6 +8654,7 @@ https://egax.ru/songs.html?garik_sukachev
 https://egax.ru/songs.html?garik_sukachev/10_000_kilometrov
 https://egax.ru/songs.html?garik_sukachev/10_000_kilometrov_2_variant
 https://egax.ru/songs.html?garik_sukachev/22_ijunya
+https://egax.ru/songs.html?garik_sukachev/about
 https://egax.ru/songs.html?garik_sukachev/allergiya
 https://egax.ru/songs.html?garik_sukachev/argentina
 https://egax.ru/songs.html?garik_sukachev/assol
@@ -8673,6 +8803,7 @@ https://egax.ru/songs.html?garik_sukachev/znaju_ya_est_kraya_2_variant
 https://egax.ru/songs.html?garik_sukachev/zona_z
 https://egax.ru/songs.html?garik_sukachev/zvezda_mikrorajona
 https://egax.ru/songs.html?gary_moore
+https://egax.ru/songs.html?gary_moore/about
 https://egax.ru/songs.html?gary_moore/empty_rooms
 https://egax.ru/songs.html?gary_moore/oh_pretty_woman
 https://egax.ru/songs.html?gary_moore/over_the_hills_and_far_away
@@ -8940,6 +9071,7 @@ https://egax.ru/songs.html?gorillaz/tomorrow_comes_today
 https://egax.ru/songs.html?gorod
 https://egax.ru/songs.html?gorod/mockva-kalifopniya
 https://egax.ru/songs.html?gorod_312
+https://egax.ru/songs.html?gorod_312/about
 https://egax.ru/songs.html?gorod_312/amigos
 https://egax.ru/songs.html?gorod_312/avtokatastrofa
 https://egax.ru/songs.html?gorod_312/beregi_sebya
@@ -8964,6 +9096,7 @@ https://egax.ru/songs.html?gorod_312/vne_zony_dostupa
 https://egax.ru/songs.html?gorodnickij_aleksandr
 https://egax.ru/songs.html?gorodnickij_aleksandr/a_na_arbate
 https://egax.ru/songs.html?gorodnickij_aleksandr/a_pushkina_ne_pustyat_za_granicu
+https://egax.ru/songs.html?gorodnickij_aleksandr/about
 https://egax.ru/songs.html?gorodnickij_aleksandr/aeroporty_19_veka
 https://egax.ru/songs.html?gorodnickij_aleksandr/ah_ne_revnuj
 https://egax.ru/songs.html?gorodnickij_aleksandr/aliya
@@ -9178,6 +9311,7 @@ https://egax.ru/songs.html?gorshok
 https://egax.ru/songs.html?gorshok/dengi
 https://egax.ru/songs.html?gorshok/jizn
 https://egax.ru/songs.html?gosti_iz_budushchego
+https://egax.ru/songs.html?gosti_iz_budushchego/about
 https://egax.ru/songs.html?gosti_iz_budushchego/eto_cilnee_menya
 https://egax.ru/songs.html?gosti_iz_budushchego/eto_silnee_menya
 https://egax.ru/songs.html?gosti_iz_budushchego/ljubi_menya_po_francuzski
@@ -9206,6 +9340,7 @@ https://egax.ru/songs.html?grajdanskaya_oborona
 https://egax.ru/songs.html?grajdanskaya_oborona/a_ne_poedu_vo_vetnam
 https://egax.ru/songs.html?grajdanskaya_oborona/a_pulya_znaet_tochno
 https://egax.ru/songs.html?grajdanskaya_oborona/a_u_mira_chas_do_polnochi
+https://egax.ru/songs.html?grajdanskaya_oborona/about
 https://egax.ru/songs.html?grajdanskaya_oborona/afganistan
 https://egax.ru/songs.html?grajdanskaya_oborona/afganskij_sindrom
 https://egax.ru/songs.html?grajdanskaya_oborona/amneziya
@@ -9563,6 +9698,7 @@ https://egax.ru/songs.html?grand_funk/bad_time
 https://egax.ru/songs.html?grebenshchikov_boris
 https://egax.ru/songs.html?grebenshchikov_boris/2-12-85-06
 https://egax.ru/songs.html?grebenshchikov_boris/25_k_10
+https://egax.ru/songs.html?grebenshchikov_boris/about
 https://egax.ru/songs.html?grebenshchikov_boris/adelaida
 https://egax.ru/songs.html?grebenshchikov_boris/foma
 https://egax.ru/songs.html?grebenshchikov_boris/jeleznodorojnaya_voda
@@ -9582,6 +9718,7 @@ https://egax.ru/songs.html?green_day/2000_light_years_away
 https://egax.ru/songs.html?green_day/409_in_your_coffeemaker
 https://egax.ru/songs.html?green_day/80
 https://egax.ru/songs.html?green_day/86
+https://egax.ru/songs.html?green_day/about
 https://egax.ru/songs.html?green_day/all_by_myself
 https://egax.ru/songs.html?green_day/all_the_time
 https://egax.ru/songs.html?green_day/american_idiot
@@ -9682,6 +9819,7 @@ https://egax.ru/songs.html?grig_edvard
 https://egax.ru/songs.html?grig_edvard/babushkin_minuet_-_liricheskaya_pesa_op_68_2
 https://egax.ru/songs.html?grig_edvard/v_peshchere_gornogo_korolya
 https://egax.ru/songs.html?grigorij_leps
+https://egax.ru/songs.html?grigorij_leps/about
 https://egax.ru/songs.html?grigorij_leps/berega
 https://egax.ru/songs.html?grigorij_leps/krysa
 https://egax.ru/songs.html?grigorij_leps/labirint
@@ -9741,6 +9879,7 @@ https://egax.ru/songs.html?gulyaj_pole
 https://egax.ru/songs.html?gulyaj_pole/kak_jal
 https://egax.ru/songs.html?guns_n_roses
 https://egax.ru/songs.html?guns_n_roses/14_years
+https://egax.ru/songs.html?guns_n_roses/about
 https://egax.ru/songs.html?guns_n_roses/ain_t_it_fun
 https://egax.ru/songs.html?guns_n_roses/always_on_the_run
 https://egax.ru/songs.html?guns_n_roses/back_off_bitch
@@ -9810,6 +9949,7 @@ https://egax.ru/songs.html?guns_n_roses/you_could_be_mine
 https://egax.ru/songs.html?guns_n_roses/you_could_be_mine_2_variant
 https://egax.ru/songs.html?guns_n_roses/your_crazy
 https://egax.ru/songs.html?gyndul_mycej
+https://egax.ru/songs.html?gyndul_mycej/about
 https://egax.ru/songs.html?gyndul_mycej/don_t_tell_me_why
 https://egax.ru/songs.html?gyndul_mycej/eto_ljubov
 https://egax.ru/songs.html?gyndul_mycej/hostropat
@@ -9939,6 +10079,7 @@ https://egax.ru/songs.html?helloween
 https://egax.ru/songs.html?helloween/a_game_we_shouldn_t_play
 https://egax.ru/songs.html?helloween/a_little_time
 https://egax.ru/songs.html?helloween/a_tale_that_wasn_t_right
+https://egax.ru/songs.html?helloween/about
 https://egax.ru/songs.html?helloween/dr_stein
 https://egax.ru/songs.html?helloween/follow_the_sign
 https://egax.ru/songs.html?helloween/forever_and_one
@@ -10015,6 +10156,7 @@ https://egax.ru/songs.html?hendrix_jimi/wind_cries_mary
 https://egax.ru/songs.html?hendrix_jimi/you_got_me_floatin
 https://egax.ru/songs.html?hi-fi
 https://egax.ru/songs.html?hi-fi/a_my_ljubili
+https://egax.ru/songs.html?hi-fi/about
 https://egax.ru/songs.html?hi-fi/besprizornik
 https://egax.ru/songs.html?hi-fi/sedmoj_lepestok
 https://egax.ru/songs.html?hi-fi/srednyaya_shkola_7_a_my_ljubili
@@ -10035,6 +10177,7 @@ https://egax.ru/songs.html?hillsong_kiev/vossiyaj
 https://egax.ru/songs.html?hillsong_kiev/vse_narody
 https://egax.ru/songs.html?hillsong_kiev/ya_slyshu_golos
 https://egax.ru/songs.html?him
+https://egax.ru/songs.html?him/about
 https://egax.ru/songs.html?him/again
 https://egax.ru/songs.html?him/beautiful
 https://egax.ru/songs.html?him/bury_me_deep_inside_your_heart
@@ -10141,6 +10284,7 @@ https://egax.ru/songs.html?iggy_pop/lust_for_life
 https://egax.ru/songs.html?iggy_pop/now_i_wanna_be_your_dog
 https://egax.ru/songs.html?iggy_pop/the_passenger
 https://egax.ru/songs.html?igor_nikolaev
+https://egax.ru/songs.html?igor_nikolaev/about
 https://egax.ru/songs.html?igor_nikolaev/paromshchik
 https://egax.ru/songs.html?igor_nikolaev/pyat_prichin
 https://egax.ru/songs.html?igor_nikolaev/stolik_na_dvoih
@@ -10148,6 +10292,7 @@ https://egax.ru/songs.html?igor_nikolaev/tak_kak_ya
 https://egax.ru/songs.html?igor_nikolaev/taksi
 https://egax.ru/songs.html?igor_nikolaev/ty_daje_ne_znaesh
 https://egax.ru/songs.html?igor_saruhanov
+https://egax.ru/songs.html?igor_saruhanov/about
 https://egax.ru/songs.html?igor_saruhanov/ah_zachem
 https://egax.ru/songs.html?igor_saruhanov/alina
 https://egax.ru/songs.html?igor_saruhanov/belaya_noch
@@ -10242,6 +10387,7 @@ https://egax.ru/songs.html?igor_saruhanov/zelenye_glaza
 https://egax.ru/songs.html?igor_saruhanov/znaju_budet_bolno
 https://egax.ru/songs.html?igor_saruhanov/zolotye_gory
 https://egax.ru/songs.html?igor_talkov_mirimir
+https://egax.ru/songs.html?igor_talkov_mirimir/about
 https://egax.ru/songs.html?igor_talkov_mirimir/bratskie_narody
 https://egax.ru/songs.html?igor_talkov_mirimir/edinyj_narod
 https://egax.ru/songs.html?igor_talkov_mirimir/ej
@@ -10315,6 +10461,7 @@ https://egax.ru/songs.html?irokez/ppodajnyj_pank
 https://egax.ru/songs.html?iron_maiden
 https://egax.ru/songs.html?iron_maiden/22_acacia_avenue
 https://egax.ru/songs.html?iron_maiden/2_minutes_to_midnight
+https://egax.ru/songs.html?iron_maiden/about
 https://egax.ru/songs.html?iron_maiden/aces_high
 https://egax.ru/songs.html?iron_maiden/afraid_to_shoot_strangers
 https://egax.ru/songs.html?iron_maiden/alexander_the_great
@@ -10418,6 +10565,7 @@ https://egax.ru/songs.html?ivan_kajf/vasilek
 https://egax.ru/songs.html?ivan_kajf/vselennaya
 https://egax.ru/songs.html?ivan_kajf/vstrechnoe_dvijenie
 https://egax.ru/songs.html?ivanushki_international
+https://egax.ru/songs.html?ivanushki_international/about
 https://egax.ru/songs.html?ivanushki_international/aleshka
 https://egax.ru/songs.html?ivanushki_international/begi
 https://egax.ru/songs.html?ivanushki_international/beznadega_ru
@@ -10442,6 +10590,7 @@ https://egax.ru/songs.html?ivashchenko_aleksej/juriju_vizboru
 https://egax.ru/songs.html?ivashchenko_aleksej/ya_miluju_uznaju
 https://egax.ru/songs.html?ivashchenko_aleksej/ya_vozvrashchajus
 https://egax.ru/songs.html?ivasi
+https://egax.ru/songs.html?ivasi/about
 https://egax.ru/songs.html?ivasi/ah_vremya_vremya
 https://egax.ru/songs.html?ivasi/ah_vremya_vremya
 https://egax.ru/songs.html?ivasi/alma-matep
@@ -10553,6 +10702,7 @@ https://egax.ru/songs.html?iz_kf_don_sezar_de_bazan/tjuremnaya_pesnya_sezara
 https://egax.ru/songs.html?iz_kf_eta_veselaya_planeta
 https://egax.ru/songs.html?iz_kf_eta_veselaya_planeta/eta_veselaya_planeta
 https://egax.ru/songs.html?iz_kf_gardemariny_vpered
+https://egax.ru/songs.html?iz_kf_gardemariny_vpered/about
 https://egax.ru/songs.html?iz_kf_gardemariny_vpered/dorojnaya_ty_rossijskaya_doroga
 https://egax.ru/songs.html?iz_kf_gardemariny_vpered/pesnya_bajstrjuka
 https://egax.ru/songs.html?iz_kf_gardemariny_vpered/pesnya_o_drujbe
@@ -10565,6 +10715,7 @@ https://egax.ru/songs.html?iz_kf_maksim_perepilica/lichno_dlya_menya
 https://egax.ru/songs.html?iz_kf_meri_poppins
 https://egax.ru/songs.html?iz_kf_meri_poppins/veter_peremen
 https://egax.ru/songs.html?iz_kf_mimino
+https://egax.ru/songs.html?iz_kf_mimino/about
 https://egax.ru/songs.html?iz_kf_mimino/chito_gvrito_chito_margarito_da
 https://egax.ru/songs.html?iz_kf_mimino/ov_sirun_sirun
 https://egax.ru/songs.html?iz_kf_moskva_slezam_ne_verit
@@ -10574,6 +10725,7 @@ https://egax.ru/songs.html?iz_kf_ne_mojet_byt/gubit_ljudej_ne_pivo
 https://egax.ru/songs.html?iz_kf_neulovimye_mstiteli_1966
 https://egax.ru/songs.html?iz_kf_neulovimye_mstiteli_1966/bjut_svincovye_livni
 https://egax.ru/songs.html?iz_kf_tri_mushketera
+https://egax.ru/songs.html?iz_kf_tri_mushketera/about
 https://egax.ru/songs.html?iz_kf_tri_mushketera/nas_chetvero
 https://egax.ru/songs.html?iz_kf_tri_mushketera/pesenka_mushketerov
 https://egax.ru/songs.html?iz_kf_tri_mushketera/pochemu_by_net_pourquoi_pas
@@ -10602,6 +10754,7 @@ https://egax.ru/songs.html?jackson_alan/there_goes
 https://egax.ru/songs.html?james_blunt
 https://egax.ru/songs.html?james_blunt/you_re_beautiful
 https://egax.ru/songs.html?james_brown
+https://egax.ru/songs.html?james_brown/about
 https://egax.ru/songs.html?james_brown/bodyheat
 https://egax.ru/songs.html?james_brown/boss
 https://egax.ru/songs.html?james_brown/cold_sweat
@@ -10637,6 +10790,7 @@ https://egax.ru/songs.html?janes_addiction/obvious
 https://egax.ru/songs.html?janes_addiction/ocean_size
 https://egax.ru/songs.html?janes_addiction/up_the_beach
 https://egax.ru/songs.html?janis_joplin
+https://egax.ru/songs.html?janis_joplin/about
 https://egax.ru/songs.html?janis_joplin/get_it_while_you_can
 https://egax.ru/songs.html?janis_joplin/me_and_bobby_mcgee
 https://egax.ru/songs.html?janis_joplin/piece_of_my_heart
@@ -10704,6 +10858,7 @@ https://egax.ru/songs.html?jasmin/toropishsya_slishkom
 https://egax.ru/songs.html?jefferson_airplane
 https://egax.ru/songs.html?jefferson_airplane/lather
 https://egax.ru/songs.html?jelannaya_inna
+https://egax.ru/songs.html?jelannaya_inna/about
 https://egax.ru/songs.html?jelannaya_inna/ballada
 https://egax.ru/songs.html?jelannaya_inna/dalshe
 https://egax.ru/songs.html?jelannaya_inna/kolybelnaya
@@ -10762,6 +10917,7 @@ https://egax.ru/songs.html?jirinovskij_vladimir/horosho
 https://egax.ru/songs.html?joan_franka
 https://egax.ru/songs.html?joan_franka/you_and_me
 https://egax.ru/songs.html?joe_cocker
+https://egax.ru/songs.html?joe_cocker/about
 https://egax.ru/songs.html?joe_cocker/now_that_the_magic_has_gone
 https://egax.ru/songs.html?joe_dassin
 https://egax.ru/songs.html?joe_dassin/a_toi
@@ -10790,6 +10946,7 @@ https://egax.ru/songs.html?jovin_lina_vorobeva/step
 https://egax.ru/songs.html?jovin_lina_vorobeva/sudba_moya
 https://egax.ru/songs.html?jovin_lina_vorobeva/vesna_iii
 https://egax.ru/songs.html?ju-piter
+https://egax.ru/songs.html?ju-piter/about
 https://egax.ru/songs.html?ju-piter/belye_pyatna
 https://egax.ru/songs.html?ju-piter/biometriya
 https://egax.ru/songs.html?ju-piter/chudesa_nebesny
@@ -10816,6 +10973,7 @@ https://egax.ru/songs.html?ju-piter/ya_pokidaju_zemlju
 https://egax.ru/songs.html?juanes
 https://egax.ru/songs.html?juanes/la_camisa_negra
 https://egax.ru/songs.html?judas_priest
+https://egax.ru/songs.html?judas_priest/about
 https://egax.ru/songs.html?judas_priest/before_the_dawn
 https://egax.ru/songs.html?judge_dread
 https://egax.ru/songs.html?judge_dread/reggae_ska
@@ -10859,6 +11017,7 @@ https://egax.ru/songs.html?juliya_teunikova/jeltyj_avtobus
 https://egax.ru/songs.html?juliya_teunikova/sneg_s_dojdem
 https://egax.ru/songs.html?jurij_antonov
 https://egax.ru/songs.html?jurij_antonov/a_gde-to
+https://egax.ru/songs.html?jurij_antonov/about
 https://egax.ru/songs.html?jurij_antonov/anastasiya
 https://egax.ru/songs.html?jurij_antonov/belyj_teploxod
 https://egax.ru/songs.html?jurij_antonov/dvadcat_let_spustya
@@ -10879,17 +11038,21 @@ https://egax.ru/songs.html?jurij_antonov/vse_kak_prejde
 https://egax.ru/songs.html?jurij_antonov/ya_vspominaju
 https://egax.ru/songs.html?jurij_antonov/zolotaya_lectnica
 https://egax.ru/songs.html?jurij_levitanskij
+https://egax.ru/songs.html?jurij_levitanskij/about
 https://egax.ru/songs.html?jurij_levitanskij/kajdyj_vybiraet_dlya_sebya
 https://egax.ru/songs.html?jurij_shatunov
+https://egax.ru/songs.html?jurij_shatunov/about
 https://egax.ru/songs.html?jurij_shatunov/detctvo
 https://egax.ru/songs.html?kabat
 https://egax.ru/songs.html?kabat/cert_na_koze_jel
 https://egax.ru/songs.html?kabriolet
 https://egax.ru/songs.html?kabriolet/belaya_roza
 https://egax.ru/songs.html?kafe
+https://egax.ru/songs.html?kafe/about
 https://egax.ru/songs.html?kafe/tovarishch_serjant
 https://egax.ru/songs.html?kafe/vozrast
 https://egax.ru/songs.html?kalinov_most
+https://egax.ru/songs.html?kalinov_most/about
 https://egax.ru/songs.html?kalinov_most/alhanaj
 https://egax.ru/songs.html?kalinov_most/berega
 https://egax.ru/songs.html?kalinov_most/bez_glaz_probiralis
@@ -11119,6 +11282,7 @@ https://egax.ru/songs.html?kaplansky_lucy
 https://egax.ru/songs.html?kaplansky_lucy/break_a_train
 https://egax.ru/songs.html?kaplansky_lucy/goodnight
 https://egax.ru/songs.html?kar-men
+https://egax.ru/songs.html?kar-men/about
 https://egax.ru/songs.html?kar-men/london_gudbaj
 https://egax.ru/songs.html?kar-men/parij
 https://egax.ru/songs.html?kar-men/san-francisko
@@ -11154,6 +11318,7 @@ https://egax.ru/songs.html?kelly_paul/ghost_town
 https://egax.ru/songs.html?ken-guru
 https://egax.ru/songs.html?ken-guru/cevep
 https://egax.ru/songs.html?kickboxer_ost
+https://egax.ru/songs.html?kickboxer_ost/about
 https://egax.ru/songs.html?kickboxer_ost/feeling_so_good_today
 https://egax.ru/songs.html?kickboxer_ost/fight_for_love
 https://egax.ru/songs.html?kickboxer_ost/never_surrender
@@ -11161,6 +11326,7 @@ https://egax.ru/songs.html?kickboxer_ost/streets_of_siam
 https://egax.ru/songs.html?killers
 https://egax.ru/songs.html?killers/somebody_told_me
 https://egax.ru/songs.html?kim_julij
+https://egax.ru/songs.html?kim_julij/about
 https://egax.ru/songs.html?kim_julij/baron_jermon
 https://egax.ru/songs.html?kim_julij/chernoe_more
 https://egax.ru/songs.html?kim_julij/fantastika-romantika
@@ -11204,6 +11370,7 @@ https://egax.ru/songs.html?kings_of_leon/wasted_time
 https://egax.ru/songs.html?kings_of_leon/wicker_chair
 https://egax.ru/songs.html?kino
 https://egax.ru/songs.html?kino/a_mne_ne_npavitsya_gopod_moskva
+https://egax.ru/songs.html?kino/about
 https://egax.ru/songs.html?kino/aljuminievye_ogurcy
 https://egax.ru/songs.html?kino/aljuminievye_ogurcy_2_variant
 https://egax.ru/songs.html?kino/anarhiya
@@ -11358,6 +11525,7 @@ https://egax.ru/songs.html?kino/zvezda_po_imeni_solnce_2
 https://egax.ru/songs.html?kino/zvezda_vera_-_nadejda_-_ljubov
 https://egax.ru/songs.html?kino/zvezdy_ostanutsya_zdes
 https://egax.ru/songs.html?kipelov
+https://egax.ru/songs.html?kipelov/about
 https://egax.ru/songs.html?kipelov/besy
 https://egax.ru/songs.html?kipelov/bez_tebya
 https://egax.ru/songs.html?kipelov/budem_jit_mat_rossiya
@@ -11440,6 +11608,7 @@ https://egax.ru/songs.html?kirsanov_jurij/podnimalas_zorka
 https://egax.ru/songs.html?kirsanov_jurij/v_dekabre_zimy_nachalo
 https://egax.ru/songs.html?kirsanov_jurij/v_tu_noch
 https://egax.ru/songs.html?kiss
+https://egax.ru/songs.html?kiss/about
 https://egax.ru/songs.html?kiss/anything_for_my_baby
 https://egax.ru/songs.html?kiss/beth
 https://egax.ru/songs.html?kiss/black_diamond
@@ -11489,6 +11658,7 @@ https://egax.ru/songs.html?kiss/war_machine
 https://egax.ru/songs.html?kiss/we_are_one
 https://egax.ru/songs.html?kiss/who_wants_to_be_lonely
 https://egax.ru/songs.html?knyaz_knyazz
+https://egax.ru/songs.html?knyaz_knyazz/about
 https://egax.ru/songs.html?knyaz_knyazz/karl
 https://egax.ru/songs.html?knyaz_knyazz/krivlyaka
 https://egax.ru/songs.html?knyaz_knyazz/letuchij_skeletik
@@ -11512,6 +11682,7 @@ https://egax.ru/songs.html?komatozz/pomojka
 https://egax.ru/songs.html?komatozz/segodnya_my_igraem_ska
 https://egax.ru/songs.html?komatozz/suka
 https://egax.ru/songs.html?kombinaciya
+https://egax.ru/songs.html?kombinaciya/about
 https://egax.ru/songs.html?kombinaciya/buhgalter
 https://egax.ru/songs.html?kombinaciya/ksjusha
 https://egax.ru/songs.html?komissar
@@ -11522,6 +11693,7 @@ https://egax.ru/songs.html?komitet_ohrany_tepla/afpika
 https://egax.ru/songs.html?komitet_ohrany_tepla/kolybelnaya
 https://egax.ru/songs.html?komitet_ohrany_tepla/novyj_coldat
 https://egax.ru/songs.html?kommunizm
+https://egax.ru/songs.html?kommunizm/about
 https://egax.ru/songs.html?kommunizm/cyganskaya_pesnya
 https://egax.ru/songs.html?kommunizm/dembelya
 https://egax.ru/songs.html?kommunizm/novogodnij_tost
@@ -11534,6 +11706,7 @@ https://egax.ru/songs.html?kommunizm/topolinyj_vecher
 https://egax.ru/songs.html?kommunizm/vesna
 https://egax.ru/songs.html?kommunizm/vospominanie
 https://egax.ru/songs.html?konec_filma
+https://egax.ru/songs.html?konec_filma/about
 https://egax.ru/songs.html?konec_filma/dembelskaya
 https://egax.ru/songs.html?konec_filma/drozdy
 https://egax.ru/songs.html?konec_filma/elis
@@ -11568,6 +11741,7 @@ https://egax.ru/songs.html?konec_filma/ya_dam_tebe_vse
 https://egax.ru/songs.html?konec_filma/zajigalka
 https://egax.ru/songs.html?konec_filma/zima
 https://egax.ru/songs.html?konstantin_nikolskij
+https://egax.ru/songs.html?konstantin_nikolskij/about
 https://egax.ru/songs.html?konstantin_nikolskij/bez_celi_i_bez_rascheta
 https://egax.ru/songs.html?konstantin_nikolskij/buri_i_meteli
 https://egax.ru/songs.html?konstantin_nikolskij/chetyre_dereva
@@ -11623,6 +11797,7 @@ https://egax.ru/songs.html?koridor/kukla
 https://egax.ru/songs.html?korn
 https://egax.ru/songs.html?korn/4u
 https://egax.ru/songs.html?korn/a_d_i_d_a_s
+https://egax.ru/songs.html?korn/about
 https://egax.ru/songs.html?korn/alive
 https://egax.ru/songs.html?korn/all_in_the_family
 https://egax.ru/songs.html?korn/ass_itch
@@ -11689,6 +11864,7 @@ https://egax.ru/songs.html?korn/trash
 https://egax.ru/songs.html?korn/twist
 https://egax.ru/songs.html?korn/wake_up
 https://egax.ru/songs.html?korneljuk_igor
+https://egax.ru/songs.html?korneljuk_igor/about
 https://egax.ru/songs.html?korneljuk_igor/gopod_kotopogo_net
 https://egax.ru/songs.html?korneljuk_igor/hodim_po_pariju
 https://egax.ru/songs.html?korneljuk_igor/klevo
@@ -11706,6 +11882,7 @@ https://egax.ru/songs.html?korni/ty_uznaesh_ee
 https://egax.ru/songs.html?korni/vika
 https://egax.ru/songs.html?korni/ya_teryaju_korni
 https://egax.ru/songs.html?korol_i_shut
+https://egax.ru/songs.html?korol_i_shut/about
 https://egax.ru/songs.html?korol_i_shut/bal_licemerov
 https://egax.ru/songs.html?korol_i_shut/bednyajka
 https://egax.ru/songs.html?korol_i_shut/bednyajka_2_variant
@@ -11980,6 +12157,7 @@ https://egax.ru/songs.html?korol_i_shut/zvonok
 https://egax.ru/songs.html?korotkov_vsevolod
 https://egax.ru/songs.html?korotkov_vsevolod/po_krugu
 https://egax.ru/songs.html?korroziya_metalla
+https://egax.ru/songs.html?korroziya_metalla/about
 https://egax.ru/songs.html?korroziya_metalla/crazy_house
 https://egax.ru/songs.html?korroziya_metalla/doktor_frankinshtejn
 https://egax.ru/songs.html?korroziya_metalla/dyavol_zdes
@@ -11992,6 +12170,7 @@ https://egax.ru/songs.html?korroziya_metalla/russian_vodka
 https://egax.ru/songs.html?korroziya_metalla/slishkom_pozdno
 https://egax.ru/songs.html?korroziya_metalla/v_shtorme_viking_i_mech
 https://egax.ru/songs.html?kozlovskij_andrej
+https://egax.ru/songs.html?kozlovskij_andrej/about
 https://egax.ru/songs.html?kozlovskij_andrej/akula
 https://egax.ru/songs.html?kozlovskij_andrej/belyj_korabl
 https://egax.ru/songs.html?kozlovskij_andrej/cyganochka
@@ -12007,6 +12186,7 @@ https://egax.ru/songs.html?kraski
 https://egax.ru/songs.html?kraski/starshij_brat
 https://egax.ru/songs.html?kraski/ya_ljublju_tebya_cepgej
 https://egax.ru/songs.html?krasnaya_plesen
+https://egax.ru/songs.html?krasnaya_plesen/about
 https://egax.ru/songs.html?krasnaya_plesen/ariya_nirvanirujushchego_ivana
 https://egax.ru/songs.html?krasnaya_plesen/cph
 https://egax.ru/songs.html?krasnaya_plesen/dipektop_shkoly
@@ -12065,6 +12245,7 @@ https://egax.ru/songs.html?krematorij
 https://egax.ru/songs.html?krematorij/100_let_projityh_zrya
 https://egax.ru/songs.html?krematorij/2001_god
 https://egax.ru/songs.html?krematorij/30_let
+https://egax.ru/songs.html?krematorij/about
 https://egax.ru/songs.html?krematorij/adolf
 https://egax.ru/songs.html?krematorij/afrika
 https://egax.ru/songs.html?krematorij/afrikanka_transkontinentalnyj_sex
@@ -12453,6 +12634,7 @@ https://egax.ru/songs.html?kukin_jurij
 https://egax.ru/songs.html?kukin_jurij/a_mne_poroju_tak_byvaet_toshno_a_kruppu
 https://egax.ru/songs.html?kukin_jurij/a_v_tajge_po_utram_tuman
 https://egax.ru/songs.html?kukin_jurij/a_vse-taki_jal_chto_konchilos_leto
+https://egax.ru/songs.html?kukin_jurij/about
 https://egax.ru/songs.html?kukin_jurij/batiliman
 https://egax.ru/songs.html?kukin_jurij/beda
 https://egax.ru/songs.html?kukin_jurij/bilet
@@ -12545,6 +12727,7 @@ https://egax.ru/songs.html?kukin_jurij/ya_umru_na_begu
 https://egax.ru/songs.html?kukin_jurij/za_tumanom
 https://egax.ru/songs.html?kukryniksy
 https://egax.ru/songs.html?kukryniksy/9-ya_rota
+https://egax.ru/songs.html?kukryniksy/about
 https://egax.ru/songs.html?kukryniksy/bespokojnyj
 https://egax.ru/songs.html?kukryniksy/chernaya_nevesta
 https://egax.ru/songs.html?kukryniksy/chuchelo_privet_kish
@@ -12704,6 +12887,7 @@ https://egax.ru/songs.html?laertskij_aleksandr/100_smert
 https://egax.ru/songs.html?laertskij_aleksandr/8_marta
 https://egax.ru/songs.html?laertskij_aleksandr/a_v_babe_huj
 https://egax.ru/songs.html?laertskij_aleksandr/a_v_babe_huj_2_variant
+https://egax.ru/songs.html?laertskij_aleksandr/about
 https://egax.ru/songs.html?laertskij_aleksandr/anglichanka
 https://egax.ru/songs.html?laertskij_aleksandr/apteka
 https://egax.ru/songs.html?laertskij_aleksandr/avrora-kater
@@ -12801,6 +12985,7 @@ https://egax.ru/songs.html?lake_of_tears
 https://egax.ru/songs.html?lake_of_tears/headstones
 https://egax.ru/songs.html?lakmus
 https://egax.ru/songs.html?lakmus/60-e_70-e
+https://egax.ru/songs.html?lakmus/about
 https://egax.ru/songs.html?lakmus/avtootvetchik
 https://egax.ru/songs.html?lakmus/batterflyaj
 https://egax.ru/songs.html?lakmus/begushchaya_po_volnam
@@ -12849,6 +13034,7 @@ https://egax.ru/songs.html?landyshi/siren
 https://egax.ru/songs.html?larisa_dolina
 https://egax.ru/songs.html?larisa_dolina/pogoda_v_dome
 https://egax.ru/songs.html?laskovyj_maj
+https://egax.ru/songs.html?laskovyj_maj/about
 https://egax.ru/songs.html?laskovyj_maj/belye_rozy
 https://egax.ru/songs.html?laskovyj_maj/cvety
 https://egax.ru/songs.html?laskovyj_maj/detckij_dom
@@ -12882,6 +13068,7 @@ https://egax.ru/songs.html?leann_rimes/one_way_ticket
 https://egax.ru/songs.html?leann_rimes/the_light_in_your_eyes
 https://egax.ru/songs.html?leann_rimes/the_right_kind_of_wrong
 https://egax.ru/songs.html?led_zeppelin
+https://egax.ru/songs.html?led_zeppelin/about
 https://egax.ru/songs.html?led_zeppelin/achilles_last_stand
 https://egax.ru/songs.html?led_zeppelin/achilles_last_stand_remasters
 https://egax.ru/songs.html?led_zeppelin/all_my_love
@@ -13041,6 +13228,7 @@ https://egax.ru/songs.html?legion/polet_orla
 https://egax.ru/songs.html?legion/shutov_prognat
 https://egax.ru/songs.html?legion/veteran
 https://egax.ru/songs.html?lejsya_pesnya
+https://egax.ru/songs.html?lejsya_pesnya/about
 https://egax.ru/songs.html?lejsya_pesnya/gde_je_ty_byla
 https://egax.ru/songs.html?lejsya_pesnya/kachaetsya_vagon
 https://egax.ru/songs.html?lejsya_pesnya/ya_tak_i_znal
@@ -13109,6 +13297,7 @@ https://egax.ru/songs.html?lemonheads/uhhh
 https://egax.ru/songs.html?lemonheads/when_i_stop_dreaming
 https://egax.ru/songs.html?lemonheads/you_can_take_it_with_you
 https://egax.ru/songs.html?lena_perova
+https://egax.ru/songs.html?lena_perova/about
 https://egax.ru/songs.html?lena_perova/belye_peski
 https://egax.ru/songs.html?lena_perova/bez_tebya
 https://egax.ru/songs.html?lena_perova/chajka
@@ -13145,6 +13334,7 @@ https://egax.ru/songs.html?lena_zosimova
 https://egax.ru/songs.html?lena_zosimova/zabud
 https://egax.ru/songs.html?leningrad
 https://egax.ru/songs.html?leningrad/007
+https://egax.ru/songs.html?leningrad/about
 https://egax.ru/songs.html?leningrad/ajsedora
 https://egax.ru/songs.html?leningrad/alkogolik
 https://egax.ru/songs.html?leningrad/amsterdam
@@ -13283,6 +13473,7 @@ https://egax.ru/songs.html?leonard_cohen/love_calls_you_by_your_name
 https://egax.ru/songs.html?leonard_cohen/lover_lover_lover
 https://egax.ru/songs.html?leonard_cohen/the_stranger_song
 https://egax.ru/songs.html?leonid_agutin
+https://egax.ru/songs.html?leonid_agutin/about
 https://egax.ru/songs.html?leonid_agutin/aeroporty
 https://egax.ru/songs.html?leonid_agutin/fevpal
 https://egax.ru/songs.html?leonid_agutin/granica
@@ -13412,6 +13603,7 @@ https://egax.ru/songs.html?lifehouse/you_and_me
 https://egax.ru/songs.html?limp_bizkit
 https://egax.ru/songs.html?limp_bizkit/9_teen_90_nine
 https://egax.ru/songs.html?limp_bizkit/a_lesson_learned
+https://egax.ru/songs.html?limp_bizkit/about
 https://egax.ru/songs.html?limp_bizkit/behind_blue_eyes
 https://egax.ru/songs.html?limp_bizkit/boiler
 https://egax.ru/songs.html?limp_bizkit/break_stuff
@@ -13443,6 +13635,7 @@ https://egax.ru/songs.html?linda/severnyj_veter
 https://egax.ru/songs.html?linda/vorona
 https://egax.ru/songs.html?linkin_park
 https://egax.ru/songs.html?linkin_park/a_place_for_my_head
+https://egax.ru/songs.html?linkin_park/about
 https://egax.ru/songs.html?linkin_park/and_one
 https://egax.ru/songs.html?linkin_park/breaking_the_habit
 https://egax.ru/songs.html?linkin_park/by_myself
@@ -13480,6 +13673,7 @@ https://egax.ru/songs.html?ljubavin_sergej
 https://egax.ru/songs.html?ljubavin_sergej/volchonok
 https://egax.ru/songs.html?ljube
 https://egax.ru/songs.html?ljube/9-j_val
+https://egax.ru/songs.html?ljube/about
 https://egax.ru/songs.html?ljube/atas
 https://egax.ru/songs.html?ljube/babu_by
 https://egax.ru/songs.html?ljube/batka_mahno
@@ -13551,6 +13745,7 @@ https://egax.ru/songs.html?ljube/vesna
 https://egax.ru/songs.html?ljube/veter-veterok
 https://egax.ru/songs.html?ljube/za_tebya
 https://egax.ru/songs.html?ljubov_uspenskaya
+https://egax.ru/songs.html?ljubov_uspenskaya/about
 https://egax.ru/songs.html?ljubov_uspenskaya/kabriolet
 https://egax.ru/songs.html?ljubov_uspenskaya/karusel
 https://egax.ru/songs.html?ljubov_uspenskaya/prababushka
@@ -13561,6 +13756,7 @@ https://egax.ru/songs.html?ljudmila_senchina/beloj_akacii_grozdya_dushistye
 https://egax.ru/songs.html?los_fabulosos_cadillacs
 https://egax.ru/songs.html?los_fabulosos_cadillacs/basta_de_llamarme_asi
 https://egax.ru/songs.html?loza_jurij
+https://egax.ru/songs.html?loza_jurij/about
 https://egax.ru/songs.html?loza_jurij/ah_kakie_nojki
 https://egax.ru/songs.html?loza_jurij/baba_ljuba
 https://egax.ru/songs.html?loza_jurij/chto_skazano_to_skazano
@@ -13643,6 +13839,7 @@ https://egax.ru/songs.html?lumen
 https://egax.ru/songs.html?lumen/02_blagoveshchensk
 https://egax.ru/songs.html?lumen/2000_let
 https://egax.ru/songs.html?lumen/6_milliardov
+https://egax.ru/songs.html?lumen/about
 https://egax.ru/songs.html?lumen/babochki
 https://egax.ru/songs.html?lumen/detki
 https://egax.ru/songs.html?lumen/dnevnik
@@ -13695,6 +13892,7 @@ https://egax.ru/songs.html?lunkov_igor/zimnij_romans
 https://egax.ru/songs.html?lustra
 https://egax.ru/songs.html?lustra/scotty_doesn_t_know
 https://egax.ru/songs.html?lyapis_trubeckoj
+https://egax.ru/songs.html?lyapis_trubeckoj/about
 https://egax.ru/songs.html?lyapis_trubeckoj/aby_cho
 https://egax.ru/songs.html?lyapis_trubeckoj/asya
 https://egax.ru/songs.html?lyapis_trubeckoj/au
@@ -13844,6 +14042,7 @@ https://egax.ru/songs.html?maksim_leonidov/vmeste_nevozmojno_i_vroz_nikak
 https://egax.ru/songs.html?maksim_leonidov/volki
 https://egax.ru/songs.html?maksim_leonidov/vse_chego_my_jdem
 https://egax.ru/songs.html?malchishnik
+https://egax.ru/songs.html?malchishnik/about
 https://egax.ru/songs.html?malchishnik/klava
 https://egax.ru/songs.html?malchishnik/klava_o_neschastnoj_ljubvi
 https://egax.ru/songs.html?malchishnik/medlyak
@@ -13870,6 +14069,7 @@ https://egax.ru/songs.html?mango-mango/mamadu
 https://egax.ru/songs.html?mango-mango/puli
 https://egax.ru/songs.html?mango-mango/takih_ne_berut_v_kosmonavty
 https://egax.ru/songs.html?mann_manfred
+https://egax.ru/songs.html?mann_manfred/about
 https://egax.ru/songs.html?mann_manfred/blinded_by_the_light
 https://egax.ru/songs.html?mann_manfred/do_wah_diddy_diddy
 https://egax.ru/songs.html?mann_manfred/my_name_is_jack
@@ -13877,6 +14077,7 @@ https://egax.ru/songs.html?mann_manfred/semi-detached_suburban_mr_james
 https://egax.ru/songs.html?mann_manfred/sha_la_la
 https://egax.ru/songs.html?mann_manfred/with_god_on_our_side
 https://egax.ru/songs.html?manowar
+https://egax.ru/songs.html?manowar/about
 https://egax.ru/songs.html?manowar/achilles_agony_and_ecstasy_in_eight_parts
 https://egax.ru/songs.html?manowar/battle_hymn
 https://egax.ru/songs.html?manowar/blood_of_the_kings
@@ -13899,6 +14100,7 @@ https://egax.ru/songs.html?manowar/spritit_horse_of_the_cherokee
 https://egax.ru/songs.html?manowar/sword_in_the_wind
 https://egax.ru/songs.html?manowar/the_crown_and_the_ring
 https://egax.ru/songs.html?mantana
+https://egax.ru/songs.html?mantana/about
 https://egax.ru/songs.html?mantana/manikjur
 https://egax.ru/songs.html?mantana/pesni_pet
 https://egax.ru/songs.html?mantana/potomu_chto
@@ -13937,6 +14139,7 @@ https://egax.ru/songs.html?marginal/ljubov
 https://egax.ru/songs.html?marginal/noch
 https://egax.ru/songs.html?marginal/ya_nenaviju_kommunizm
 https://egax.ru/songs.html?mari_krajmbreri
+https://egax.ru/songs.html?mari_krajmbreri/about
 https://egax.ru/songs.html?mari_krajmbreri/mne_tak_povezlo
 https://egax.ru/songs.html?marilyn_manson
 https://egax.ru/songs.html?marilyn_manson/coma_white
@@ -13972,6 +14175,7 @@ https://egax.ru/songs.html?marley_bob/one_love
 https://egax.ru/songs.html?marley_bob/redemption_song
 https://egax.ru/songs.html?marley_bob/redemption_song_2_variant
 https://egax.ru/songs.html?maroon5
+https://egax.ru/songs.html?maroon5/about
 https://egax.ru/songs.html?maroon5/she_will_be_loved
 https://egax.ru/songs.html?masha_i_medvedi
 https://egax.ru/songs.html?masha_i_medvedi/bez_tebya
@@ -13989,6 +14193,7 @@ https://egax.ru/songs.html?masha_i_medvedi/zemno-nezemnaya
 https://egax.ru/songs.html?masha_rasputina
 https://egax.ru/songs.html?masha_rasputina/mechta
 https://egax.ru/songs.html?mashina_vremeni
+https://egax.ru/songs.html?mashina_vremeni/about
 https://egax.ru/songs.html?mashina_vremeni/ah_chto_za_luna
 https://egax.ru/songs.html?mashina_vremeni/ah_grafinya
 https://egax.ru/songs.html?mashina_vremeni/ah_kakoj_byl_izyskannyj_bal
@@ -14335,6 +14540,7 @@ https://egax.ru/songs.html?masskva/raznye
 https://egax.ru/songs.html?masskva/smsnaya_ljubov
 https://egax.ru/songs.html?masskva/voprosy
 https://egax.ru/songs.html?master
+https://egax.ru/songs.html?master/about
 https://egax.ru/songs.html?master/eshche_raz_noch
 https://egax.ru/songs.html?master/hrani_menya
 https://egax.ru/songs.html?master/kogda_ya_umru
@@ -14362,6 +14568,7 @@ https://egax.ru/songs.html?matveeva_vera/otvet_meri-anny
 https://egax.ru/songs.html?matveeva_vera/pozdravlenie_s_vesnoj
 https://egax.ru/songs.html?matveeva_vera/zelenyj_chaj
 https://egax.ru/songs.html?mavrik
+https://egax.ru/songs.html?mavrik/about
 https://egax.ru/songs.html?mavrik/dobro_-_zlo
 https://egax.ru/songs.html?mavrik/doroga_v_raj
 https://egax.ru/songs.html?mavrik/dyavolskij_vals
@@ -14482,6 +14689,7 @@ https://egax.ru/songs.html?megadeth
 https://egax.ru/songs.html?megadeth/502
 https://egax.ru/songs.html?megadeth/99_ways
 https://egax.ru/songs.html?megadeth/a_secret_place
+https://egax.ru/songs.html?megadeth/about
 https://egax.ru/songs.html?megadeth/anarchy_in_the_uk
 https://egax.ru/songs.html?megadeth/angry_again
 https://egax.ru/songs.html?megadeth/ashes_in_your_mouth
@@ -14503,6 +14711,7 @@ https://egax.ru/songs.html?melanie_c/if_that_were_me
 https://egax.ru/songs.html?melanie_c/never_be_the_same_again
 https://egax.ru/songs.html?melnica
 https://egax.ru/songs.html?melnica/a_esli_by_on_vernulsya_opyat
+https://egax.ru/songs.html?melnica/about
 https://egax.ru/songs.html?melnica/aj_volna
 https://egax.ru/songs.html?melnica/belaya_koshka
 https://egax.ru/songs.html?melnica/boginya_ishtar
@@ -14589,6 +14798,7 @@ https://egax.ru/songs.html?metal_church/the_powers_that_be
 https://egax.ru/songs.html?metal_church/watch_the_children_pray
 https://egax.ru/songs.html?metallica
 https://egax.ru/songs.html?metallica/2x4
+https://egax.ru/songs.html?metallica/about
 https://egax.ru/songs.html?metallica/ain_t_my_bitch
 https://egax.ru/songs.html?metallica/am_i_evil
 https://egax.ru/songs.html?metallica/and_justice_for_all
@@ -14702,10 +14912,12 @@ https://egax.ru/songs.html?metallica/whiplash
 https://egax.ru/songs.html?metallica/whiskey_in_the_jar
 https://egax.ru/songs.html?metallica/whiskey_in_the_jar_2
 https://egax.ru/songs.html?michael_bolton
+https://egax.ru/songs.html?michael_bolton/about
 https://egax.ru/songs.html?michael_bolton/said_i_loved_you_but_i_lied
 https://egax.ru/songs.html?michael_bolton/the_center_of_my_heart
 https://egax.ru/songs.html?mihail_krug
 https://egax.ru/songs.html?mihail_krug/a_sechku_jrite_sami
+https://egax.ru/songs.html?mihail_krug/about
 https://egax.ru/songs.html?mihail_krug/davaj_pogovorim
 https://egax.ru/songs.html?mihail_krug/den_kak_den
 https://egax.ru/songs.html?mihail_krug/devochka-paj
@@ -14889,6 +15101,7 @@ https://egax.ru/songs.html?mihalchik_juliya/ptica_2_variant
 https://egax.ru/songs.html?mihalchik_juliya/ptica_3_variant
 https://egax.ru/songs.html?mihalchik_juliya/so_ldom
 https://egax.ru/songs.html?mike_oldfield
+https://egax.ru/songs.html?mike_oldfield/about
 https://egax.ru/songs.html?mike_oldfield/afghan
 https://egax.ru/songs.html?mike_oldfield/altered_state
 https://egax.ru/songs.html?mike_oldfield/amarok
@@ -14920,6 +15133,7 @@ https://egax.ru/songs.html?mityaev_oleg/a_kazalos_by
 https://egax.ru/songs.html?mityaev_oleg/a_v_banju_ya_hoju_s_akkordeonom
 https://egax.ru/songs.html?mityaev_oleg/a_vy_-_tovarishch
 https://egax.ru/songs.html?mityaev_oleg/abakan
+https://egax.ru/songs.html?mityaev_oleg/about
 https://egax.ru/songs.html?mityaev_oleg/ah_kakaya_propaja
 https://egax.ru/songs.html?mityaev_oleg/aksinya
 https://egax.ru/songs.html?mityaev_oleg/alykel
@@ -15132,6 +15346,7 @@ https://egax.ru/songs.html?mnogotochie/vetrami
 https://egax.ru/songs.html?mnogotochie/vo_mrake_pustoty
 https://egax.ru/songs.html?mnogotochie/zachem_ya_nujen_tebe
 https://egax.ru/songs.html?moby
+https://egax.ru/songs.html?moby/about
 https://egax.ru/songs.html?moby/bodyrock
 https://egax.ru/songs.html?moby/everloving
 https://egax.ru/songs.html?moby/natural_blues
@@ -15221,6 +15436,7 @@ https://egax.ru/songs.html?mongol_shuudan/zvezda
 https://egax.ru/songs.html?monokini
 https://egax.ru/songs.html?monokini/do_vctpechi_na_zvezde
 https://egax.ru/songs.html?moralnyj_kodeks
+https://egax.ru/songs.html?moralnyj_kodeks/about
 https://egax.ru/songs.html?moralnyj_kodeks/antarktida
 https://egax.ru/songs.html?moralnyj_kodeks/beloe_zoloto
 https://egax.ru/songs.html?moralnyj_kodeks/budu_spat
@@ -15239,6 +15455,7 @@ https://egax.ru/songs.html?morijskij_goblin/odnajdy_zlobnyj_morgot
 https://egax.ru/songs.html?morricone_ennio
 https://egax.ru/songs.html?morricone_ennio/chi_mai
 https://egax.ru/songs.html?motley_crue
+https://egax.ru/songs.html?motley_crue/about
 https://egax.ru/songs.html?motley_crue/kickstart_my_heart
 https://egax.ru/songs.html?motley_crue/new_tattoo
 https://egax.ru/songs.html?motley_crue/without_you
@@ -15303,6 +15520,7 @@ https://egax.ru/songs.html?multfilmy/yady_3_variant
 https://egax.ru/songs.html?multfilmy/za_nami_sledyat
 https://egax.ru/songs.html?mumij_troll
 https://egax.ru/songs.html?mumij_troll/28
+https://egax.ru/songs.html?mumij_troll/about
 https://egax.ru/songs.html?mumij_troll/allo_pops
 https://egax.ru/songs.html?mumij_troll/allou_pops
 https://egax.ru/songs.html?mumij_troll/almazami
@@ -15483,6 +15701,7 @@ https://egax.ru/songs.html?mustard_plug/you
 https://egax.ru/songs.html?myers_stanley
 https://egax.ru/songs.html?myers_stanley/cavatina
 https://egax.ru/songs.html?na-na
+https://egax.ru/songs.html?na-na/about
 https://egax.ru/songs.html?na-na/alena
 https://egax.ru/songs.html?na-na/gde_ty_byla
 https://egax.ru/songs.html?na-na/svet_v_okne
@@ -15588,6 +15807,7 @@ https://egax.ru/songs.html?naiv/yeah_you_know_that_they_are_monsters
 https://egax.ru/songs.html?naiv/you_re_gonna_look_like_me
 https://egax.ru/songs.html?naiv/zima
 https://egax.ru/songs.html?najk_borzov
+https://egax.ru/songs.html?najk_borzov/about
 https://egax.ru/songs.html?najk_borzov/angel_i_zmeya
 https://egax.ru/songs.html?najk_borzov/bardak_v_golove
 https://egax.ru/songs.html?najk_borzov/bezumstvo_kovarstvo_i_malenkij_kusochek_ljubvi
@@ -15637,6 +15857,7 @@ https://egax.ru/songs.html?najk_borzov/vy_-_moi_dengi
 https://egax.ru/songs.html?najk_borzov/zagadka
 https://egax.ru/songs.html?najk_borzov/zakryto
 https://egax.ru/songs.html?nalich_petr
+https://egax.ru/songs.html?nalich_petr/about
 https://egax.ru/songs.html?nalich_petr/alenkij_cvetochek
 https://egax.ru/songs.html?nalich_petr/chajki
 https://egax.ru/songs.html?nalich_petr/deridum
@@ -15749,6 +15970,7 @@ https://egax.ru/songs.html?nautilus_pompilius
 https://egax.ru/songs.html?nautilus_pompilius/20000
 https://egax.ru/songs.html?nautilus_pompilius/20_000
 https://egax.ru/songs.html?nautilus_pompilius/9-j_skotch
+https://egax.ru/songs.html?nautilus_pompilius/about
 https://egax.ru/songs.html?nautilus_pompilius/absoljutnoe_beloe
 https://egax.ru/songs.html?nautilus_pompilius/alchi-alchi
 https://egax.ru/songs.html?nautilus_pompilius/alchi_alchi
@@ -15897,6 +16119,7 @@ https://egax.ru/songs.html?nautilus_pompilius/zvezda_poeta
 https://egax.ru/songs.html?nautilus_pompilius/zvezdnye_malchiki
 https://egax.ru/songs.html?nautilus_pompilius/zvezdochka
 https://egax.ru/songs.html?nazareth
+https://egax.ru/songs.html?nazareth/about
 https://egax.ru/songs.html?nazareth/hair_of_the_dog
 https://egax.ru/songs.html?nazareth/little_part_of_you
 https://egax.ru/songs.html?nazareth/love_hurts
@@ -15922,6 +16145,7 @@ https://egax.ru/songs.html?necondition/trudoemkij_yashchik
 https://egax.ru/songs.html?nelly_furtado
 https://egax.ru/songs.html?nelly_furtado/im_like_a_bird
 https://egax.ru/songs.html?nensi
+https://egax.ru/songs.html?nensi/about
 https://egax.ru/songs.html?nensi/chistyj_list
 https://egax.ru/songs.html?nensi/dym_sigaret_s_mentolom
 https://egax.ru/songs.html?nensi/ty_daleko
@@ -15929,6 +16153,7 @@ https://egax.ru/songs.html?nepara
 https://egax.ru/songs.html?nepara/bog_tebya_vydumal
 https://egax.ru/songs.html?nepara/pesnya_o_ljubvi
 https://egax.ru/songs.html?neprikasaemye
+https://egax.ru/songs.html?neprikasaemye/about
 https://egax.ru/songs.html?neprikasaemye/assol
 https://egax.ru/songs.html?neprikasaemye/belyj_kolpak
 https://egax.ru/songs.html?neprikasaemye/bez_chetverti_vosem
@@ -16082,6 +16307,7 @@ https://egax.ru/songs.html?nick_cave/the_witness_song
 https://egax.ru/songs.html?nick_cave/when_i_first_came_to_town
 https://egax.ru/songs.html?nick_cave/where_the_wild_roses_grow
 https://egax.ru/songs.html?nickelback
+https://egax.ru/songs.html?nickelback/about
 https://egax.ru/songs.html?nickelback/breathe
 https://egax.ru/songs.html?nickelback/do_this_anymore
 https://egax.ru/songs.html?nickelback/far_away
@@ -16097,6 +16323,7 @@ https://egax.ru/songs.html?nickelback/someday
 https://egax.ru/songs.html?nightwish
 https://egax.ru/songs.html?nightwish/10th_man_down
 https://egax.ru/songs.html?nightwish/a_return_to_the_sea
+https://egax.ru/songs.html?nightwish/about
 https://egax.ru/songs.html?nightwish/angels_falls_first
 https://egax.ru/songs.html?nightwish/astral_romance
 https://egax.ru/songs.html?nightwish/away
@@ -16147,8 +16374,10 @@ https://egax.ru/songs.html?nightwish/wanderlust
 https://egax.ru/songs.html?nightwish/wish_i_had_an_angel
 https://egax.ru/songs.html?nightwish/wishmaster
 https://egax.ru/songs.html?nikita_malinin
+https://egax.ru/songs.html?nikita_malinin/about
 https://egax.ru/songs.html?nikita_malinin/kotenok
 https://egax.ru/songs.html?nikitin_sergej
+https://egax.ru/songs.html?nikitin_sergej/about
 https://egax.ru/songs.html?nikitin_sergej/brich-mulla
 https://egax.ru/songs.html?nikitin_sergej/chest_tebe
 https://egax.ru/songs.html?nikitin_sergej/davaj_dusha_davaj
@@ -16190,10 +16419,12 @@ https://egax.ru/songs.html?nikitin_sergej/za_gorodom_povremeni_pevec_razluk
 https://egax.ru/songs.html?nikitin_sergej/za_nevljublennymi_ljudmi
 https://egax.ru/songs.html?nikitin_sergej/zabudus_rajskim_snom
 https://egax.ru/songs.html?nikolaj_baskov
+https://egax.ru/songs.html?nikolaj_baskov/about
 https://egax.ru/songs.html?nikolaj_baskov/naturalnyj_blondin
 https://egax.ru/songs.html?nikolaj_baskov/noch
 https://egax.ru/songs.html?nikolaj_baskov/ya_budu_ruki_tvoi_celovat
 https://egax.ru/songs.html?nikolaj_noskov
+https://egax.ru/songs.html?nikolaj_noskov/about
 https://egax.ru/songs.html?nikolaj_noskov/eto_zdorovo
 https://egax.ru/songs.html?nikolaj_noskov/na_rusi
 https://egax.ru/songs.html?nikolaj_noskov/ne_soglasen
@@ -16209,6 +16440,7 @@ https://egax.ru/songs.html?nikolaj_trubach/adpenalin
 https://egax.ru/songs.html?nimerov_grigorij
 https://egax.ru/songs.html?nimerov_grigorij/30_let
 https://egax.ru/songs.html?nimerov_grigorij/60
+https://egax.ru/songs.html?nimerov_grigorij/about
 https://egax.ru/songs.html?nimerov_grigorij/avtozavodskaya
 https://egax.ru/songs.html?nimerov_grigorij/batareya_razryajena
 https://egax.ru/songs.html?nimerov_grigorij/boleju_za_torpedo
@@ -16380,6 +16612,7 @@ https://egax.ru/songs.html?nimerov_grigorij/zima
 https://egax.ru/songs.html?nimerov_grigorij/zimnij_les
 https://egax.ru/songs.html?nimerov_grigorij/zimoj_v_lesu_zanochevat
 https://egax.ru/songs.html?nirvana
+https://egax.ru/songs.html?nirvana/about
 https://egax.ru/songs.html?nirvana/about_a_girl
 https://egax.ru/songs.html?nirvana/aero_zeppelin
 https://egax.ru/songs.html?nirvana/all_apologies
@@ -16478,6 +16711,7 @@ https://egax.ru/songs.html?nochnye_snajpery/31-ya_vesna
 https://egax.ru/songs.html?nochnye_snajpery/9_s_polovinoj
 https://egax.ru/songs.html?nochnye_snajpery/a_chto-to_projito_i_chto-to_ponyato
 https://egax.ru/songs.html?nochnye_snajpery/a_doch_moya_boitsya_temnoty
+https://egax.ru/songs.html?nochnye_snajpery/about
 https://egax.ru/songs.html?nochnye_snajpery/absoljutnyj_stalevar
 https://egax.ru/songs.html?nochnye_snajpery/afriki
 https://egax.ru/songs.html?nochnye_snajpery/aktrisa
@@ -16780,6 +17014,7 @@ https://egax.ru/songs.html?nofx/you_drink_you_drive_you_spill
 https://egax.ru/songs.html?nofx/you_re_bleeding
 https://egax.ru/songs.html?nogu_svelo
 https://egax.ru/songs.html?nogu_svelo/280_dnej
+https://egax.ru/songs.html?nogu_svelo/about
 https://egax.ru/songs.html?nogu_svelo/belye_kally
 https://egax.ru/songs.html?nogu_svelo/benzin
 https://egax.ru/songs.html?nogu_svelo/bolnye_roboty
@@ -16815,6 +17050,7 @@ https://egax.ru/songs.html?nogu_svelo/sem_planet
 https://egax.ru/songs.html?nogu_svelo/v_temnote
 https://egax.ru/songs.html?nogu_svelo/volki
 https://egax.ru/songs.html?noize_mc
+https://egax.ru/songs.html?noize_mc/about
 https://egax.ru/songs.html?noize_mc/biletov_net
 https://egax.ru/songs.html?noize_mc/devochka_skinhed
 https://egax.ru/songs.html?noize_mc/iz_okna
@@ -16828,6 +17064,7 @@ https://egax.ru/songs.html?noize_mc/vydyhaj
 https://egax.ru/songs.html?nol
 https://egax.ru/songs.html?nol/90_gradusov_nije_nulya
 https://egax.ru/songs.html?nol/abort
+https://egax.ru/songs.html?nol/about
 https://egax.ru/songs.html?nol/barynya
 https://egax.ru/songs.html?nol/bezobraziya
 https://egax.ru/songs.html?nol/blujdajushchij_biorobot
@@ -16920,6 +17157,7 @@ https://egax.ru/songs.html?nol/zavtra_budet_tot_je_den
 https://egax.ru/songs.html?notre_damme_de_paris
 https://egax.ru/songs.html?notre_damme_de_paris/belle
 https://egax.ru/songs.html?novikov_aleksandr
+https://egax.ru/songs.html?novikov_aleksandr/about
 https://egax.ru/songs.html?novikov_aleksandr/belyj_golub
 https://egax.ru/songs.html?novikov_aleksandr/chajnaya_roza
 https://egax.ru/songs.html?novikov_aleksandr/eto_ne_leto
@@ -17148,6 +17386,7 @@ https://egax.ru/songs.html?obodzinskij/vostochnaya_pesnya
 https://egax.ru/songs.html?ocean_11
 https://egax.ru/songs.html?ocean_11/solid_as_a_rock
 https://egax.ru/songs.html?offspring
+https://egax.ru/songs.html?offspring/about
 https://egax.ru/songs.html?offspring/all_along
 https://egax.ru/songs.html?offspring/all_i_want
 https://egax.ru/songs.html?offspring/amazed
@@ -17297,6 +17536,7 @@ https://egax.ru/songs.html?okean_elzy_elzi/ya_do_tebe
 https://egax.ru/songs.html?okean_elzy_elzi/ya_idu_dodomu
 https://egax.ru/songs.html?okean_elzy_elzi/yananebibuv
 https://egax.ru/songs.html?okudjava_bulat
+https://egax.ru/songs.html?okudjava_bulat/about
 https://egax.ru/songs.html?okudjava_bulat/arbatskij_romans
 https://egax.ru/songs.html?okudjava_bulat/batalnoe_polotno
 https://egax.ru/songs.html?okudjava_bulat/beri_shinel
@@ -17352,6 +17592,7 @@ https://egax.ru/songs.html?okudjava_bulat/ya_vnov_povstrechalsya_s_nadejdoj
 https://egax.ru/songs.html?okudjava_bulat/zachem_my_pereshli_na_ty
 https://egax.ru/songs.html?okudjava_bulat/zaezjij_muzykant
 https://egax.ru/songs.html?oleg_gazmanov
+https://egax.ru/songs.html?oleg_gazmanov/about
 https://egax.ru/songs.html?oleg_gazmanov/baltijskij_bereg
 https://egax.ru/songs.html?oleg_gazmanov/bayadera
 https://egax.ru/songs.html?oleg_gazmanov/belyj_sneg
@@ -17420,6 +17661,7 @@ https://egax.ru/songs.html?osmos/obychno
 https://egax.ru/songs.html?osmos/schastya
 https://egax.ru/songs.html?osmos/siamskie_koty
 https://egax.ru/songs.html?otpetye_moshenniki
+https://egax.ru/songs.html?otpetye_moshenniki/about
 https://egax.ru/songs.html?otpetye_moshenniki/devushki_byvajut_raznye
 https://egax.ru/songs.html?otpetye_moshenniki/granica
 https://egax.ru/songs.html?otpetye_moshenniki/ljubi_menya_ljubi
@@ -17469,6 +17711,7 @@ https://egax.ru/songs.html?panfilov_ivan/k_morju
 https://egax.ru/songs.html?panfilov_ivan/more_vody
 https://egax.ru/songs.html?panfilov_ivan/proshchaj
 https://egax.ru/songs.html?pantera
+https://egax.ru/songs.html?pantera/about
 https://egax.ru/songs.html?pantera/cemetary_gates
 https://egax.ru/songs.html?pantera/hollow
 https://egax.ru/songs.html?pantera/planet_caravan
@@ -17478,6 +17721,7 @@ https://egax.ru/songs.html?pantera/the_art_of_shredding
 https://egax.ru/songs.html?pantera/the_great_southern_trendkill
 https://egax.ru/songs.html?pantera/where_you_come_from
 https://egax.ru/songs.html?papa_roach
+https://egax.ru/songs.html?papa_roach/about
 https://egax.ru/songs.html?papa_roach/between_angels_and_insects
 https://egax.ru/songs.html?papa_roach/binge
 https://egax.ru/songs.html?papa_roach/black_clouds
@@ -17525,6 +17769,7 @@ https://egax.ru/songs.html?parfenov_aleksej/podvig
 https://egax.ru/songs.html?parfenov_aleksej/ppobyjdenie
 https://egax.ru/songs.html?parfenov_aleksej/vpemya_platit
 https://egax.ru/songs.html?park_gorkogo_gorky_park
+https://egax.ru/songs.html?park_gorkogo_gorky_park/about
 https://egax.ru/songs.html?park_gorkogo_gorky_park/bang
 https://egax.ru/songs.html?park_gorkogo_gorky_park/beda
 https://egax.ru/songs.html?park_gorkogo_gorky_park/beda_2_variant
@@ -17545,9 +17790,11 @@ https://egax.ru/songs.html?paskal/leto-leto
 https://egax.ru/songs.html?paskal/nevidimyj
 https://egax.ru/songs.html?paskal/shelkovoe_cepdce
 https://egax.ru/songs.html?paul_mccartney
+https://egax.ru/songs.html?paul_mccartney/about
 https://egax.ru/songs.html?paul_mccartney/summertime
 https://egax.ru/songs.html?pavel_kashin
 https://egax.ru/songs.html?pavel_kashin/100_shagov
+https://egax.ru/songs.html?pavel_kashin/about
 https://egax.ru/songs.html?pavel_kashin/alisa
 https://egax.ru/songs.html?pavel_kashin/almaznaya_dusha
 https://egax.ru/songs.html?pavel_kashin/angel
@@ -17829,6 +18076,7 @@ https://egax.ru/songs.html?pesni_iz_filmov/12_stulev_shirli
 https://egax.ru/songs.html?pesni_iz_filmov/12_stulev_tango
 https://egax.ru/songs.html?pesni_iz_filmov/17_mgnovenij_vesny
 https://egax.ru/songs.html?pesni_iz_filmov/a_naposledok_ya_skaju
+https://egax.ru/songs.html?pesni_iz_filmov/about
 https://egax.ru/songs.html?pesni_iz_filmov/akademiki_ljubimye
 https://egax.ru/songs.html?pesni_iz_filmov/aleksandra
 https://egax.ru/songs.html?pesni_iz_filmov/banditskij_peterburg_gorod_kotorogo_net
@@ -18126,6 +18374,7 @@ https://egax.ru/songs.html?petkun
 https://egax.ru/songs.html?petkun/belle
 https://egax.ru/songs.html?petljura
 https://egax.ru/songs.html?petljura/23
+https://egax.ru/songs.html?petljura/about
 https://egax.ru/songs.html?petljura/alenushka
 https://egax.ru/songs.html?petljura/aleshka
 https://egax.ru/songs.html?petljura/barabanit_na_ulice_dojd
@@ -18258,6 +18507,7 @@ https://egax.ru/songs.html?petryaev_valerij/vtoroj_batalon
 https://egax.ru/songs.html?piknik
 https://egax.ru/songs.html?piknik/a_mojet_byt_i_ne_bylo_menya
 https://egax.ru/songs.html?piknik/a_uchili_menya_letat
+https://egax.ru/songs.html?piknik/about
 https://egax.ru/songs.html?piknik/adrenalinovye_pesni
 https://egax.ru/songs.html?piknik/afrodita_iz_peny_i_shchelochi
 https://egax.ru/songs.html?piknik/aianostre
@@ -18418,6 +18668,7 @@ https://egax.ru/songs.html?pilot/100_000_nomerov
 https://egax.ru/songs.html?pilot/2_narkota
 https://egax.ru/songs.html?pilot/3_tysyachi_krys
 https://egax.ru/songs.html?pilot/7_chasov_utra
+https://egax.ru/songs.html?pilot/about
 https://egax.ru/songs.html?pilot/alternativnyj_novyj_god
 https://egax.ru/songs.html?pilot/belaya_noch
 https://egax.ru/songs.html?pilot/belyj_sneg
@@ -18588,6 +18839,7 @@ https://egax.ru/songs.html?pink_floyd/a_new_machine_part_two
 https://egax.ru/songs.html?pink_floyd/a_pillow_of_winds
 https://egax.ru/songs.html?pink_floyd/a_saucerful_of_secrets
 https://egax.ru/songs.html?pink_floyd/a_saucerful_of_secrets_celestial_voices
+https://egax.ru/songs.html?pink_floyd/about
 https://egax.ru/songs.html?pink_floyd/another_brick_in_the_wall_part_1
 https://egax.ru/songs.html?pink_floyd/another_brick_in_the_wall_part_2
 https://egax.ru/songs.html?pink_floyd/another_brick_in_the_wall_part_3
@@ -18747,6 +18999,7 @@ https://egax.ru/songs.html?poco/kind_woman
 https://egax.ru/songs.html?poco/pickin_up_the_pieces
 https://egax.ru/songs.html?poco/there_goes_my_heart
 https://egax.ru/songs.html?pod
+https://egax.ru/songs.html?pod/about
 https://egax.ru/songs.html?pod/alive
 https://egax.ru/songs.html?pod/allive
 https://egax.ru/songs.html?pod/anything_right
@@ -18780,6 +19033,7 @@ https://egax.ru/songs.html?pod/tribal
 https://egax.ru/songs.html?pod/without_jah_nothin
 https://egax.ru/songs.html?pod/youth_of_the_nation
 https://egax.ru/songs.html?poets_of_the_fall
+https://egax.ru/songs.html?poets_of_the_fall/about
 https://egax.ru/songs.html?poets_of_the_fall/late_goodbye
 https://egax.ru/songs.html?pogranichnoe_sostoyanie
 https://egax.ru/songs.html?pogranichnoe_sostoyanie/obrechennaya
@@ -18794,6 +19048,7 @@ https://egax.ru/songs.html?poigraem_i_ujdem/son_moj
 https://egax.ru/songs.html?poigraem_i_ujdem/vse_chto_im_nado
 https://egax.ru/songs.html?poigraem_i_ujdem/ya_sojdu_s_uma
 https://egax.ru/songs.html?police
+https://egax.ru/songs.html?police/about
 https://egax.ru/songs.html?police/behind_my_camel
 https://egax.ru/songs.html?police/bring_on_the_night
 https://egax.ru/songs.html?police/can_t_stand_losing_you
@@ -19011,6 +19266,7 @@ https://egax.ru/songs.html?queen/39
 https://egax.ru/songs.html?queen/39_2_variant
 https://egax.ru/songs.html?queen/a_kind_of_magic
 https://egax.ru/songs.html?queen/a_winter_s_tale
+https://egax.ru/songs.html?queen/about
 https://egax.ru/songs.html?queen/all_dead_all_dead
 https://egax.ru/songs.html?queen/another_one_bites_the_dust
 https://egax.ru/songs.html?queen/back_chat
@@ -19200,6 +19456,7 @@ https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/preljudiya_v_s_m_or_3_2
 https://egax.ru/songs.html?rahmaninov_sergej_vasilevich/rapsodiya_na_temu_paganini_or_43_-_variaciya_18
 https://egax.ru/songs.html?rainbow
 https://egax.ru/songs.html?rainbow/a_light_in_the_black
+https://egax.ru/songs.html?rainbow/about
 https://egax.ru/songs.html?rainbow/all_night_long
 https://egax.ru/songs.html?rainbow/ariel
 https://egax.ru/songs.html?rainbow/black_masquerade
@@ -19521,6 +19778,7 @@ https://egax.ru/songs.html?raznoe/zvezdochka_moya
 https://egax.ru/songs.html?raznye_ljudi
 https://egax.ru/songs.html?raznye_ljudi/20_i_6
 https://egax.ru/songs.html?raznye_ljudi/911
+https://egax.ru/songs.html?raznye_ljudi/about
 https://egax.ru/songs.html?raznye_ljudi/all_right
 https://egax.ru/songs.html?raznye_ljudi/angel
 https://egax.ru/songs.html?raznye_ljudi/assol
@@ -20049,9 +20307,11 @@ https://egax.ru/songs.html?revolverz/ne_uxodi
 https://egax.ru/songs.html?rhapsody
 https://egax.ru/songs.html?rhapsody/holy_thunderforce
 https://egax.ru/songs.html?richie_sambora
+https://egax.ru/songs.html?richie_sambora/about
 https://egax.ru/songs.html?richie_sambora/ballad_of_youth
 https://egax.ru/songs.html?richie_sambora/rosie
 https://egax.ru/songs.html?rihanna
+https://egax.ru/songs.html?rihanna/about
 https://egax.ru/songs.html?rihanna/diamonds
 https://egax.ru/songs.html?rihanna/fourfiveseconds
 https://egax.ru/songs.html?rihanna/pon_de_replay
@@ -20063,6 +20323,7 @@ https://egax.ru/songs.html?rihanna/where_have_you_been
 https://egax.ru/songs.html?rimskij-korsakov
 https://egax.ru/songs.html?rimskij-korsakov/polet_shmelya
 https://egax.ru/songs.html?ritchie_blackmore
+https://egax.ru/songs.html?ritchie_blackmore/about
 https://egax.ru/songs.html?ritchie_blackmore/home_again
 https://egax.ru/songs.html?ritchie_blackmore/memingen
 https://egax.ru/songs.html?ritchie_blackmore/memingen_2_variant
@@ -20126,18 +20387,22 @@ https://egax.ru/songs.html?robbie_williams/the_road_to_mandalay
 https://egax.ru/songs.html?robbie_williams/these_dreams
 https://egax.ru/songs.html?robbie_williams/win_some_lose_some
 https://egax.ru/songs.html?robin_zander
+https://egax.ru/songs.html?robin_zander/about
 https://egax.ru/songs.html?robin_zander/in_this_country
 https://egax.ru/songs.html?rod_stewart
+https://egax.ru/songs.html?rod_stewart/about
 https://egax.ru/songs.html?rod_stewart/faith_of_the_heart
 https://egax.ru/songs.html?rod_stewart/forever_young
 https://egax.ru/songs.html?rod_stewart/if_only
 https://egax.ru/songs.html?rod_stewart/sailing
 https://egax.ru/songs.html?rod_stewart/stay_with_me
 https://egax.ru/songs.html?rodion_gazmanov
+https://egax.ru/songs.html?rodion_gazmanov/about
 https://egax.ru/songs.html?rodion_gazmanov/leti
 https://egax.ru/songs.html?rodion_gazmanov/parami
 https://egax.ru/songs.html?rodion_gazmanov/poslednij_sneg
 https://egax.ru/songs.html?rok-atele
+https://egax.ru/songs.html?rok-atele/about
 https://egax.ru/songs.html?rok-atele/nochnoe_randevu
 https://egax.ru/songs.html?rok-atele/zamykaya_krug
 https://egax.ru/songs.html?rok-gruppa
@@ -20147,6 +20412,7 @@ https://egax.ru/songs.html?rok-gruppa/koshka
 https://egax.ru/songs.html?rok-gruppa/popsa
 https://egax.ru/songs.html?rok-gruppa/russkaya_toska
 https://egax.ru/songs.html?rok-ostrova
+https://egax.ru/songs.html?rok-ostrova/about
 https://egax.ru/songs.html?rok-ostrova/eto_ya_s_toboj_proshchajus
 https://egax.ru/songs.html?rok-ostrova/shvatka
 https://egax.ru/songs.html?rolevye_pesni
@@ -20161,6 +20427,7 @@ https://egax.ru/songs.html?rolling_stones/19_nervous_breakdown
 https://egax.ru/songs.html?rolling_stones/2000_light_years_from_here
 https://egax.ru/songs.html?rolling_stones/2000_light_years_from_home
 https://egax.ru/songs.html?rolling_stones/2000_man
+https://egax.ru/songs.html?rolling_stones/about
 https://egax.ru/songs.html?rolling_stones/ain_t_to_proud_to_beg
 https://egax.ru/songs.html?rolling_stones/all_about_you
 https://egax.ru/songs.html?rolling_stones/all_down_the_line
@@ -20320,6 +20587,7 @@ https://egax.ru/songs.html?romansy/vyhoju_odin_ya_na_dorogu
 https://egax.ru/songs.html?romansy/ya_vstretil_vas
 https://egax.ru/songs.html?roxette
 https://egax.ru/songs.html?roxette/a_thing_about_you
+https://egax.ru/songs.html?roxette/about
 https://egax.ru/songs.html?roxette/anyone
 https://egax.ru/songs.html?roxette/break_another_heart
 https://egax.ru/songs.html?roxette/chances
@@ -20346,6 +20614,7 @@ https://egax.ru/songs.html?rozenbaum_aleksandr
 https://egax.ru/songs.html?rozenbaum_aleksandr/18_let_spustya
 https://egax.ru/songs.html?rozenbaum_aleksandr/38_uzlov
 https://egax.ru/songs.html?rozenbaum_aleksandr/a_mojet_ne_bylo_vojny
+https://egax.ru/songs.html?rozenbaum_aleksandr/about
 https://egax.ru/songs.html?rozenbaum_aleksandr/afganskaya_vjuga
 https://egax.ru/songs.html?rozenbaum_aleksandr/ah_eti_nochi_nochi_nochi
 https://egax.ru/songs.html?rozenbaum_aleksandr/amnistiya
@@ -20552,6 +20821,7 @@ https://egax.ru/songs.html?rozenbaum_aleksandr/znak_moej_sudby
 https://egax.ru/songs.html?rozenbaum_aleksandr/zojka
 https://egax.ru/songs.html?ruki_vverh
 https://egax.ru/songs.html?ruki_vverh/18_mne_uje
+https://egax.ru/songs.html?ruki_vverh/about
 https://egax.ru/songs.html?ruki_vverh/aj-yaj-yaj
 https://egax.ru/songs.html?ruki_vverh/aleshka
 https://egax.ru/songs.html?ruki_vverh/ataman
@@ -20612,13 +20882,16 @@ https://egax.ru/songs.html?ruki_vverh/zdravstvuj_eto_ya
 https://egax.ru/songs.html?russko-narodnoe
 https://egax.ru/songs.html?russko-narodnoe/oh_ryabina_kudryavaya
 https://egax.ru/songs.html?ryan_adams
+https://egax.ru/songs.html?ryan_adams/about
 https://egax.ru/songs.html?ryan_adams/desire
 https://egax.ru/songs.html?samocvety
+https://egax.ru/songs.html?samocvety/about
 https://egax.ru/songs.html?samocvety/idet_soldat_po_gorodu
 https://egax.ru/songs.html?samocvety/sneg_krujitsya_letaet_letaet
 https://egax.ru/songs.html?samocvety/vsya_jizn_vperedi
 https://egax.ru/songs.html?samocvety/zvezdochka
 https://egax.ru/songs.html?sankt-peterburg
+https://egax.ru/songs.html?sankt-peterburg/about
 https://egax.ru/songs.html?sankt-peterburg/ocharovana_okoldovana
 https://egax.ru/songs.html?sankt-peterburg/shag_navstrechu
 https://egax.ru/songs.html?sankt-peterburg/stupeni_po_stupenyam
@@ -20681,6 +20954,7 @@ https://egax.ru/songs.html?sashach/verbljud
 https://egax.ru/songs.html?sashach/ya_vernus
 https://egax.ru/songs.html?sashach/zacepilas
 https://egax.ru/songs.html?satyricon
+https://egax.ru/songs.html?satyricon/about
 https://egax.ru/songs.html?satyricon/fuel_for_hatred
 https://egax.ru/songs.html?satyricon/hvite_krists_dod
 https://egax.ru/songs.html?satyricon/repined_bastard_nation
@@ -20787,6 +21061,7 @@ https://egax.ru/songs.html?save_ferris/under_21
 https://egax.ru/songs.html?scooter
 https://egax.ru/songs.html?scooter/eyes_without_a_face
 https://egax.ru/songs.html?scorpions
+https://egax.ru/songs.html?scorpions/about
 https://egax.ru/songs.html?scorpions/always_somewhere
 https://egax.ru/songs.html?scorpions/arizona
 https://egax.ru/songs.html?scorpions/ave_maria_no_morro
@@ -20860,6 +21135,7 @@ https://egax.ru/songs.html?sekret/1000_plastinok
 https://egax.ru/songs.html?sekret/10_let
 https://egax.ru/songs.html?sekret/17_let
 https://egax.ru/songs.html?sekret/2000_god
+https://egax.ru/songs.html?sekret/about
 https://egax.ru/songs.html?sekret/alisa
 https://egax.ru/songs.html?sekret/alisa_2_variant
 https://egax.ru/songs.html?sekret/angel_dorogi
@@ -20986,6 +21262,7 @@ https://egax.ru/songs.html?sekret/zenit_-_chempion
 https://egax.ru/songs.html?sektor_gaza
 https://egax.ru/songs.html?sektor_gaza/30_let
 https://egax.ru/songs.html?sektor_gaza/abort_ili_rody
+https://egax.ru/songs.html?sektor_gaza/about
 https://egax.ru/songs.html?sektor_gaza/angel_seksa
 https://egax.ru/songs.html?sektor_gaza/ariya_grafa_drakuly
 https://egax.ru/songs.html?sektor_gaza/ariya_kashcheya
@@ -21115,10 +21392,12 @@ https://egax.ru/songs.html?sektor_gaza/zlaya_noch
 https://egax.ru/songs.html?sektor_gaza/zvezdnaya_bolezn
 https://egax.ru/songs.html?sektor_gaza/zvonok
 https://egax.ru/songs.html?semakov_leonid
+https://egax.ru/songs.html?semakov_leonid/about
 https://egax.ru/songs.html?semakov_leonid/filosoficheskij_kankan
 https://egax.ru/songs.html?semakov_leonid/metelica
 https://egax.ru/songs.html?semakov_leonid/zelenogorbye_verbljudy
 https://egax.ru/songs.html?sepultura
+https://egax.ru/songs.html?sepultura/about
 https://egax.ru/songs.html?sepultura/beneath_the_remains
 https://egax.ru/songs.html?sepultura/clenched_fist
 https://egax.ru/songs.html?sepultura/mongoloid
@@ -21136,6 +21415,7 @@ https://egax.ru/songs.html?serga/a_chto_nam_nado_2_variant
 https://egax.ru/songs.html?serga/a_chto_nam_nado_3_variant
 https://egax.ru/songs.html?serga/a_chto_nam_nado_4_variant
 https://egax.ru/songs.html?serga/a_inache_nelzya
+https://egax.ru/songs.html?serga/about
 https://egax.ru/songs.html?serga/alternativnaya_ljubov
 https://egax.ru/songs.html?serga/chertopoloh
 https://egax.ru/songs.html?serga/chto_mne_nado
@@ -21247,6 +21527,7 @@ https://egax.ru/songs.html?sergeev_leonid/svadebka
 https://egax.ru/songs.html?sergeev_leonid/tolstye
 https://egax.ru/songs.html?sergeev_leonid/vyhoju_vvecheru
 https://egax.ru/songs.html?sergej_belikov
+https://egax.ru/songs.html?sergej_belikov/about
 https://egax.ru/songs.html?sergej_belikov/snitsya_mne_derevnya
 https://egax.ru/songs.html?sergej_jukov
 https://egax.ru/songs.html?sergej_jukov/omut
@@ -21255,11 +21536,13 @@ https://egax.ru/songs.html?sergej_kurehin
 https://egax.ru/songs.html?sergej_kurehin/francuzskij_bocman
 https://egax.ru/songs.html?sergej_kurehin/odnajdy_francuzskij_bocman
 https://egax.ru/songs.html?sergej_lazarev
+https://egax.ru/songs.html?sergej_lazarev/about
 https://egax.ru/songs.html?sergej_lazarev/feelin_high
 https://egax.ru/songs.html?sergej_lazarev/holodnyj_noyabr
 https://egax.ru/songs.html?sergej_lazarev/v_samoe_serdce
 https://egax.ru/songs.html?sergej_lazarev/v_samoe_serdce_2
 https://egax.ru/songs.html?sergej_mavrin
+https://egax.ru/songs.html?sergej_mavrin/about
 https://egax.ru/songs.html?sergej_mavrin/budem_jit_mat_rossiya
 https://egax.ru/songs.html?sergej_mavrin/castlevania
 https://egax.ru/songs.html?sergej_mavrin/koda
@@ -21276,6 +21559,7 @@ https://egax.ru/songs.html?sergej_sever
 https://egax.ru/songs.html?sergej_sever/lagerya
 https://egax.ru/songs.html?sergej_trofimov
 https://egax.ru/songs.html?sergej_trofimov/20_let
+https://egax.ru/songs.html?sergej_trofimov/about
 https://egax.ru/songs.html?sergej_trofimov/aleshka
 https://egax.ru/songs.html?sergej_trofimov/alevtina
 https://egax.ru/songs.html?sergej_trofimov/alkash
@@ -21351,6 +21635,7 @@ https://egax.ru/songs.html?seti/smajl
 https://egax.ru/songs.html?severnye_vrata
 https://egax.ru/songs.html?severnye_vrata/chepnopod
 https://egax.ru/songs.html?severnyj_flot
+https://egax.ru/songs.html?severnyj_flot/about
 https://egax.ru/songs.html?severnyj_flot/haron
 https://egax.ru/songs.html?severnyj_flot/kajduju_noch
 https://egax.ru/songs.html?severnyj_flot/podnimaya_znamya
@@ -21359,6 +21644,7 @@ https://egax.ru/songs.html?severnyj_flot/strely
 https://egax.ru/songs.html?severnyj_flot/veter_hodit_nalegke
 https://egax.ru/songs.html?severnyj_flot/vpered_i_vverh
 https://egax.ru/songs.html?sex_pistols
+https://egax.ru/songs.html?sex_pistols/about
 https://egax.ru/songs.html?sex_pistols/anarchy_in_the_u_k
 https://egax.ru/songs.html?sex_pistols/anarchy_in_the_uk
 https://egax.ru/songs.html?sex_pistols/belsen_was_a_gas
@@ -21387,6 +21673,7 @@ https://egax.ru/songs.html?shakira/si_te_vas
 https://egax.ru/songs.html?shakira/underneanh_your_clothes
 https://egax.ru/songs.html?shakira/whenever_wherever
 https://egax.ru/songs.html?shaman_shaman
+https://egax.ru/songs.html?shaman_shaman/about
 https://egax.ru/songs.html?shaman_shaman/daj_jaru
 https://egax.ru/songs.html?shaman_shaman/do_samogo_neba
 https://egax.ru/songs.html?shaman_shaman/moya_rossiya
@@ -21418,6 +21705,7 @@ https://egax.ru/songs.html?sheleg_mihail/moskovskaya_osen
 https://egax.ru/songs.html?sheleg_mihail/privet
 https://egax.ru/songs.html?sheleg_mihail/za_tebya_moya_jenshchina
 https://egax.ru/songs.html?shevchuk_jurij
+https://egax.ru/songs.html?shevchuk_jurij/about
 https://egax.ru/songs.html?shevchuk_jurij/chili
 https://egax.ru/songs.html?shevchuk_jurij/derevnya
 https://egax.ru/songs.html?shevchuk_jurij/doroga
@@ -21481,6 +21769,7 @@ https://egax.ru/songs.html?shubert_franc/forel_-_kvintet_v_a_or_114_-_4-aya_chas
 https://egax.ru/songs.html?shubert_franc/serenada
 https://egax.ru/songs.html?shufutinskij_mihail
 https://egax.ru/songs.html?shufutinskij_mihail/3-e_sentyabrya
+https://egax.ru/songs.html?shufutinskij_mihail/about
 https://egax.ru/songs.html?shufutinskij_mihail/konvoj
 https://egax.ru/songs.html?shufutinskij_mihail/kreshchatik
 https://egax.ru/songs.html?shufutinskij_mihail/marina
@@ -21530,12 +21819,14 @@ https://egax.ru/songs.html?skalpel/king_kong
 https://egax.ru/songs.html?skalpel/prazdnik
 https://egax.ru/songs.html?skid_row
 https://egax.ru/songs.html?skid_row/18_and_life
+https://egax.ru/songs.html?skid_row/about
 https://egax.ru/songs.html?slade
 https://egax.ru/songs.html?slade/coz_i_luv_you
 https://egax.ru/songs.html?slade/far_far_away
 https://egax.ru/songs.html?slade/run_run_away
 https://egax.ru/songs.html?slayer
 https://egax.ru/songs.html?slayer/213
+https://egax.ru/songs.html?slayer/about
 https://egax.ru/songs.html?slayer/angel_of_death
 https://egax.ru/songs.html?slayer/anti-christ
 https://egax.ru/songs.html?slayer/blood_red
@@ -21563,6 +21854,7 @@ https://egax.ru/songs.html?slayer/spill_the_blood
 https://egax.ru/songs.html?slayer/the_final_command
 https://egax.ru/songs.html?slayer/war_ensemble
 https://egax.ru/songs.html?slepakov_semen
+https://egax.ru/songs.html?slepakov_semen/about
 https://egax.ru/songs.html?slepakov_semen/babushka_transformer
 https://egax.ru/songs.html?slepakov_semen/do_svadby_nelzya
 https://egax.ru/songs.html?slepakov_semen/ekstrasens
@@ -21585,12 +21877,14 @@ https://egax.ru/songs.html?slepakov_semen/vstala_baba_na_vesy
 https://egax.ru/songs.html?slepakov_semen/ya_zatrahalsya_trahatsya
 https://egax.ru/songs.html?slepakov_semen/zalepi_svoe_dulo
 https://egax.ru/songs.html?slot
+https://egax.ru/songs.html?slot/about
 https://egax.ru/songs.html?slot/angel_ili_demon
 https://egax.ru/songs.html?slot/dve_kapli
 https://egax.ru/songs.html?smash
 https://egax.ru/songs.html?smash/molitva
 https://egax.ru/songs.html?smash/the_one_to_cry
 https://egax.ru/songs.html?smeyan_pavel
+https://egax.ru/songs.html?smeyan_pavel/about
 https://egax.ru/songs.html?smeyan_pavel/nepogoda
 https://egax.ru/songs.html?smith_patti
 https://egax.ru/songs.html?smith_patti/because_the_night
@@ -21706,6 +22000,7 @@ https://egax.ru/songs.html?sonata_arctica
 https://egax.ru/songs.html?sonata_arctica/destruction_preventer
 https://egax.ru/songs.html?sonata_arctica/last_drop_falls
 https://egax.ru/songs.html?soso_pavliashvili
+https://egax.ru/songs.html?soso_pavliashvili/about
 https://egax.ru/songs.html?soso_pavliashvili/ne_gadajte_na_ljubov
 https://egax.ru/songs.html?soso_pavliashvili/nebo_na_ladoni
 https://egax.ru/songs.html?soso_pavliashvili/odnoklassniki
@@ -21742,6 +22037,7 @@ https://egax.ru/songs.html?spiritual/side_by_side
 https://egax.ru/songs.html?splin
 https://egax.ru/songs.html?splin/3007
 https://egax.ru/songs.html?splin/3007-j
+https://egax.ru/songs.html?splin/about
 https://egax.ru/songs.html?splin/adelaida
 https://egax.ru/songs.html?splin/alica
 https://egax.ru/songs.html?splin/alkogol
@@ -21946,6 +22242,7 @@ https://egax.ru/songs.html?sponge/drowin
 https://egax.ru/songs.html?sponge/giants
 https://egax.ru/songs.html?sponge/go_speed_racer_go
 https://egax.ru/songs.html?staryj_priyatel
+https://egax.ru/songs.html?staryj_priyatel/about
 https://egax.ru/songs.html?staryj_priyatel/chas_luny
 https://egax.ru/songs.html?staryj_priyatel/detki_serditaya_pesnya
 https://egax.ru/songs.html?staryj_priyatel/devochka-labirint
@@ -21970,11 +22267,13 @@ https://egax.ru/songs.html?status_quo/in_the_army_now
 https://egax.ru/songs.html?status_quo/pictures_of_matchstick_men
 https://egax.ru/songs.html?status_quo/whatever_you_want
 https://egax.ru/songs.html?stella
+https://egax.ru/songs.html?stella/about
 https://egax.ru/songs.html?stella/devochka_bez_serdca
 https://egax.ru/songs.html?stella/jenshchina-vampir
 https://egax.ru/songs.html?sterkin_sergej
 https://egax.ru/songs.html?sterkin_sergej/istina
 https://egax.ru/songs.html?sting
+https://egax.ru/songs.html?sting/about
 https://egax.ru/songs.html?sting/desert_rose
 https://egax.ru/songs.html?sting/english_man_in_new_york
 https://egax.ru/songs.html?sting/fragile
@@ -22016,6 +22315,7 @@ https://egax.ru/songs.html?sum_41/summer
 https://egax.ru/songs.html?sum_41/thanks_for_nothing
 https://egax.ru/songs.html?sum_41/the_hell_song
 https://egax.ru/songs.html?surganova_i_orkestr
+https://egax.ru/songs.html?surganova_i_orkestr/about
 https://egax.ru/songs.html?surganova_i_orkestr/bolno
 https://egax.ru/songs.html?surganova_i_orkestr/cvety_i_zvezdy
 https://egax.ru/songs.html?surganova_i_orkestr/dojd
@@ -22025,6 +22325,7 @@ https://egax.ru/songs.html?surganova_i_orkestr/vesna
 https://egax.ru/songs.html?surganova_svetlana
 https://egax.ru/songs.html?surganova_svetlana/22_chasa_razluki
 https://egax.ru/songs.html?surganova_svetlana/a_doch_moya_boitsya_temnoty
+https://egax.ru/songs.html?surganova_svetlana/about
 https://egax.ru/songs.html?surganova_svetlana/absoljutnyj_stalevar
 https://egax.ru/songs.html?surganova_svetlana/angel
 https://egax.ru/songs.html?surganova_svetlana/angel_2_variant
@@ -22086,9 +22387,11 @@ https://egax.ru/songs.html?surganova_svetlana/ya_vnov_uhoju
 https://egax.ru/songs.html?surganova_svetlana/ya_znaju_jenshchinu
 https://egax.ru/songs.html?surganova_svetlana/zdanie_krasyat
 https://egax.ru/songs.html?survivor
+https://egax.ru/songs.html?survivor/about
 https://egax.ru/songs.html?survivor/burning_heart
 https://egax.ru/songs.html?survivor/eye_of_tiger
 https://egax.ru/songs.html?syabry
+https://egax.ru/songs.html?syabry/about
 https://egax.ru/songs.html?syabry/vy_shumite_berezy_a_ya_lyagu-prilyagu
 https://egax.ru/songs.html?system_of_a_down
 https://egax.ru/songs.html?system_of_a_down/add
@@ -22144,6 +22447,7 @@ https://egax.ru/songs.html?system_of_a_down/virginity_virgin_tea
 https://egax.ru/songs.html?system_of_a_down/war
 https://egax.ru/songs.html?system_of_a_down/x
 https://egax.ru/songs.html?tajm-aut
+https://egax.ru/songs.html?tajm-aut/about
 https://egax.ru/songs.html?tajm-aut/alpinist-vodolaz
 https://egax.ru/songs.html?tajm-aut/avtonomnoe_pitanie
 https://egax.ru/songs.html?tajm-aut/bashnya
@@ -22227,6 +22531,7 @@ https://egax.ru/songs.html?tajm-aut/yablochko
 https://egax.ru/songs.html?talkov_igor
 https://egax.ru/songs.html?talkov_igor/a_teper_my_s_toboj_pritihli
 https://egax.ru/songs.html?talkov_igor/a_teper_my_s_toboj_pritihli
+https://egax.ru/songs.html?talkov_igor/about
 https://egax.ru/songs.html?talkov_igor/bal_satany
 https://egax.ru/songs.html?talkov_igor/bal_satany_2_variant
 https://egax.ru/songs.html?talkov_igor/byvshij_podesaul
@@ -22301,6 +22606,7 @@ https://egax.ru/songs.html?talkov_igor/zvezda
 https://egax.ru/songs.html?talkovskij_alfred
 https://egax.ru/songs.html?talkovskij_alfred/v_parusinovyh_brjukah
 https://egax.ru/songs.html?tancy_minus
+https://egax.ru/songs.html?tancy_minus/about
 https://egax.ru/songs.html?tancy_minus/besserdechnost
 https://egax.ru/songs.html?tancy_minus/chuvstv_reka
 https://egax.ru/songs.html?tancy_minus/cvetut_cvety
@@ -22446,6 +22752,7 @@ https://egax.ru/songs.html?tatu/ya_teper_tvoj_vrag
 https://egax.ru/songs.html?tatu/ya_tvoya_ne_pervaya
 https://egax.ru/songs.html?tatu/zachem_ya
 https://egax.ru/songs.html?tears_for_fears
+https://egax.ru/songs.html?tears_for_fears/about
 https://egax.ru/songs.html?tears_for_fears/break_it_down_again
 https://egax.ru/songs.html?tears_for_fears/everybody_wants_to_rule_the_world
 https://egax.ru/songs.html?tears_for_fears/falling_down
@@ -22461,6 +22768,7 @@ https://egax.ru/songs.html?tears_for_fears/sowing_the_seeds_of_love
 https://egax.ru/songs.html?tears_for_fears/suffer_the_children
 https://egax.ru/songs.html?tears_for_fears/when_in_love_with_a_blind_man
 https://egax.ru/songs.html?tehnologiya
+https://egax.ru/songs.html?tehnologiya/about
 https://egax.ru/songs.html?tehnologiya/holodnyj_cled
 https://egax.ru/songs.html?tehnologiya/hranitel
 https://egax.ru/songs.html?tehnologiya/najmi_ha_knopku
@@ -22468,6 +22776,7 @@ https://egax.ru/songs.html?tehnologiya/polchasa_vdvoem
 https://egax.ru/songs.html?tehnologiya/rano_ili_pozdno
 https://egax.ru/songs.html?tehnologiya/strannye_tancy
 https://egax.ru/songs.html?televizor
+https://egax.ru/songs.html?televizor/about
 https://egax.ru/songs.html?televizor/ada_net
 https://egax.ru/songs.html?televizor/akvarel
 https://egax.ru/songs.html?televizor/alla_borisna
@@ -22891,6 +23200,7 @@ https://egax.ru/songs.html?tochka_rosy/tapxyn
 https://egax.ru/songs.html?tokio
 https://egax.ru/songs.html?tokio/kto_ya_bez_tebya
 https://egax.ru/songs.html?tom_petty_and_the_heartbreakers
+https://egax.ru/songs.html?tom_petty_and_the_heartbreakers/about
 https://egax.ru/songs.html?tom_petty_and_the_heartbreakers/learning_the_fly
 https://egax.ru/songs.html?tom_petty_and_the_heartbreakers/mary_janes_last_dance
 https://egax.ru/songs.html?torba-na-kruche
@@ -22916,6 +23226,7 @@ https://egax.ru/songs.html?tri_15/tpi_15
 https://egax.ru/songs.html?trofim
 https://egax.ru/songs.html?trofim/20_let
 https://egax.ru/songs.html?trofim/2_45
+https://egax.ru/songs.html?trofim/about
 https://egax.ru/songs.html?trofim/ah_eti_nochi
 https://egax.ru/songs.html?trofim/aleshka
 https://egax.ru/songs.html?trofim/alevtina
@@ -23090,6 +23401,7 @@ https://egax.ru/songs.html?tyani-tolkaj/nebo_ishchet
 https://egax.ru/songs.html?u2
 https://egax.ru/songs.html?u2/40
 https://egax.ru/songs.html?u2/a_room_at_the_heartbreak_hotel
+https://egax.ru/songs.html?u2/about
 https://egax.ru/songs.html?u2/angel_of_harlem
 https://egax.ru/songs.html?u2/desire
 https://egax.ru/songs.html?u2/dirty_day
@@ -23119,6 +23431,7 @@ https://egax.ru/songs.html?uli/direktor
 https://egax.ru/songs.html?uli/melkajut_goroda
 https://egax.ru/songs.html?umaturman
 https://egax.ru/songs.html?umaturman/a_mojet_eto_son
+https://egax.ru/songs.html?umaturman/about
 https://egax.ru/songs.html?umaturman/ad
 https://egax.ru/songs.html?umaturman/daj
 https://egax.ru/songs.html?umaturman/ej_tolstyj
@@ -23278,6 +23591,7 @@ https://egax.ru/songs.html?uriah_heep/who_needs_me
 https://egax.ru/songs.html?uriah_heep/wise_man
 https://egax.ru/songs.html?uriah_heep/wizard
 https://egax.ru/songs.html?utesov_leonid
+https://egax.ru/songs.html?utesov_leonid/about
 https://egax.ru/songs.html?utesov_leonid/kak_mnogo_devushek_horoshih
 https://egax.ru/songs.html?utesov_leonid/pesnya_izvozchika
 https://egax.ru/songs.html?utesov_leonid/pesnya_starogo_izvozchika
@@ -23285,6 +23599,7 @@ https://egax.ru/songs.html?utesov_leonid/shalandy_polnye_kefali
 https://egax.ru/songs.html?utesov_leonid/tajna
 https://egax.ru/songs.html?utesov_leonid/v_zemlyanke
 https://egax.ru/songs.html?va-bank
+https://egax.ru/songs.html?va-bank/about
 https://egax.ru/songs.html?va-bank/argentina
 https://egax.ru/songs.html?va-bank/bosikom_po_lune
 https://egax.ru/songs.html?va-bank/bosikom_po_lune_2_variant
@@ -23343,10 +23658,12 @@ https://egax.ru/songs.html?vadim_uslanov/ya_verju_v_eto
 https://egax.ru/songs.html?vadim_uslanov/ya_vernus
 https://egax.ru/songs.html?vadim_uslanov/zabud
 https://egax.ru/songs.html?valerij_leontev
+https://egax.ru/songs.html?valerij_leontev/about
 https://egax.ru/songs.html?valerij_leontev/ischezli_solnechnye_dni
 https://egax.ru/songs.html?valerij_leontev/konchajte_devochki
 https://egax.ru/songs.html?valerij_leontev/polet_na_deltaplane
 https://egax.ru/songs.html?valerij_meladze
+https://egax.ru/songs.html?valerij_meladze/about
 https://egax.ru/songs.html?valerij_meladze/devushka_iz_vysshego_obshchestva
 https://egax.ru/songs.html?valerij_meladze/kak_ty_krasiva_segodnya
 https://egax.ru/songs.html?valerij_meladze/krasivo
@@ -23359,6 +23676,7 @@ https://egax.ru/songs.html?valerij_meladze/staryj_god
 https://egax.ru/songs.html?valerij_meladze/ty_prishla_iz_niotkuda
 https://egax.ru/songs.html?valerij_meladze/verni_moju_ljubov
 https://egax.ru/songs.html?valerij_petryaev_gr_kaskad
+https://egax.ru/songs.html?valerij_petryaev_gr_kaskad/about
 https://egax.ru/songs.html?valerij_petryaev_gr_kaskad/pamyati_tankista_a_v_smotrovuju_shchel_takoe_nebo_smotritsya
 https://egax.ru/songs.html?valerij_petryaev_gr_kaskad/pokryvaet_zemlju_jeltaya_listva
 https://egax.ru/songs.html?valerij_petryaev_gr_kaskad/tam
@@ -23369,6 +23687,7 @@ https://egax.ru/songs.html?valerij_sjutkin/30_gradusov_v_teni
 https://egax.ru/songs.html?valerij_sjutkin/42_minuty
 https://egax.ru/songs.html?valerij_sjutkin/7000_nad_zemlej
 https://egax.ru/songs.html?valerij_sjutkin/7000_nad_zemlej
+https://egax.ru/songs.html?valerij_sjutkin/about
 https://egax.ru/songs.html?valerij_sjutkin/aeroflot
 https://egax.ru/songs.html?valerij_sjutkin/bumbo-mambo
 https://egax.ru/songs.html?valerij_sjutkin/bystree_zvuka
@@ -23410,6 +23729,7 @@ https://egax.ru/songs.html?valerij_sjutkin/vverh_i_vniz
 https://egax.ru/songs.html?valerij_sjutkin/ya_to_chto_nado
 https://egax.ru/songs.html?valerij_sjutkin/zelenyj_smoking
 https://egax.ru/songs.html?valeriya
+https://egax.ru/songs.html?valeriya/about
 https://egax.ru/songs.html?valeriya/bilet_v_detctvo
 https://egax.ru/songs.html?valeriya/chasiki
 https://egax.ru/songs.html?valeriya/cherno-belyj_cvet
@@ -23516,6 +23836,7 @@ https://egax.ru/songs.html?vika_morozova/ya_vozvrashchajus
 https://egax.ru/songs.html?vika_morozova/zakat
 https://egax.ru/songs.html?vika_morozova/zov_bezymyannoj_toski
 https://egax.ru/songs.html?viktor_saltykov
+https://egax.ru/songs.html?viktor_saltykov/about
 https://egax.ru/songs.html?viktor_saltykov/koni_v_yablokah
 https://egax.ru/songs.html?vin_znae
 https://egax.ru/songs.html?vin_znae/brosheny_slova
@@ -23585,6 +23906,7 @@ https://egax.ru/songs.html?vizbor_jurij/a_zima_budet_bolshaya
 https://egax.ru/songs.html?vizbor_jurij/a_zima_budet_bolshaya
 https://egax.ru/songs.html?vizbor_jurij/a_zima_budet_bolshaya_3_variant
 https://egax.ru/songs.html?vizbor_jurij/abakan-tajshet
+https://egax.ru/songs.html?vizbor_jurij/about
 https://egax.ru/songs.html?vizbor_jurij/ah_chto_za_dni_takie_nastajut
 https://egax.ru/songs.html?vizbor_jurij/ah_chto_za_dni_takie_nastajut
 https://egax.ru/songs.html?vizbor_jurij/ah_doroga_doroga
@@ -24023,6 +24345,7 @@ https://egax.ru/songs.html?vizbor_jurij/znakom_li_ty_s_zemlej
 https://egax.ru/songs.html?vladimir_kuzmin
 https://egax.ru/songs.html?vladimir_kuzmin/730_dnej_v_godu
 https://egax.ru/songs.html?vladimir_kuzmin/90-60-90
+https://egax.ru/songs.html?vladimir_kuzmin/about
 https://egax.ru/songs.html?vladimir_kuzmin/abracadabra
 https://egax.ru/songs.html?vladimir_kuzmin/aktrisa
 https://egax.ru/songs.html?vladimir_kuzmin/alkogolik
@@ -24281,6 +24604,7 @@ https://egax.ru/songs.html?vladimir_markin/sirenevyj_tuman
 https://egax.ru/songs.html?vladimir_markin/ty_stoish_u_okna
 https://egax.ru/songs.html?vladimir_markin/ya_gotov_celovat_pesok
 https://egax.ru/songs.html?vladimir_zaharov
+https://egax.ru/songs.html?vladimir_zaharov/about
 https://egax.ru/songs.html?vladimir_zaharov/kostry
 https://egax.ru/songs.html?vladimir_zaharov/na_kolcevoj
 https://egax.ru/songs.html?vladimir_zaharov/rejs
@@ -24288,6 +24612,7 @@ https://egax.ru/songs.html?vladimir_zaharov/ty_menya_mama_prosti
 https://egax.ru/songs.html?vopli_vidoplyasova
 https://egax.ru/songs.html?vopli_vidoplyasova/abo-abo
 https://egax.ru/songs.html?vopli_vidoplyasova/abo_abo
+https://egax.ru/songs.html?vopli_vidoplyasova/about
 https://egax.ru/songs.html?vopli_vidoplyasova/bili_plyami
 https://egax.ru/songs.html?vopli_vidoplyasova/byly_plyami
 https://egax.ru/songs.html?vopli_vidoplyasova/dancez
@@ -24329,6 +24654,7 @@ https://egax.ru/songs.html?vorovajki/mama
 https://egax.ru/songs.html?vorovajki/shmon
 https://egax.ru/songs.html?vorovajki/svoboda_gulyaj_moya_dusha
 https://egax.ru/songs.html?voskresene
+https://egax.ru/songs.html?voskresene/about
 https://egax.ru/songs.html?voskresene/afrodita
 https://egax.ru/songs.html?voskresene/ask_me
 https://egax.ru/songs.html?voskresene/atlantida
@@ -24533,6 +24859,7 @@ https://egax.ru/songs.html?vyhod/tot_kto_nashel
 https://egax.ru/songs.html?vyhod/vandalizm
 https://egax.ru/songs.html?vysockij_vladimir
 https://egax.ru/songs.html?vysockij_vladimir/07
+https://egax.ru/songs.html?vysockij_vladimir/about
 https://egax.ru/songs.html?vysockij_vladimir/agent_007
 https://egax.ru/songs.html?vysockij_vladimir/alpijskie_strelki
 https://egax.ru/songs.html?vysockij_vladimir/antisemity
@@ -24743,8 +25070,10 @@ https://egax.ru/songs.html?vysockij_vladimir/zvezdy
 https://egax.ru/songs.html?vysotskaya_alena
 https://egax.ru/songs.html?vysotskaya_alena/viju_tebya
 https://egax.ru/songs.html?w_a_s_p
+https://egax.ru/songs.html?w_a_s_p/about
 https://egax.ru/songs.html?w_a_s_p/the_idol
 https://egax.ru/songs.html?whitesnake
+https://egax.ru/songs.html?whitesnake/about
 https://egax.ru/songs.html?whitesnake/all_i_want_all_i_need
 https://egax.ru/songs.html?whitesnake/here_i_go_again
 https://egax.ru/songs.html?whitesnake/is_this_love
@@ -24765,6 +25094,7 @@ https://egax.ru/songs.html?who/summertime_blues
 https://egax.ru/songs.html?who/when_i_was_a_boy
 https://egax.ru/songs.html?who/won_t_get_fooled_again
 https://egax.ru/songs.html?xxx_lyrics
+https://egax.ru/songs.html?xxx_lyrics/about
 https://egax.ru/songs.html?xxx_lyrics/jelanie
 https://egax.ru/songs.html?xxx_lyrics/podglyadel_za_sestroj
 https://egax.ru/songs.html?xxx_lyrics/pro_ljubov
@@ -24814,6 +25144,7 @@ https://egax.ru/songs.html?yakusheva_ada/da_obojdut_tebya_laviny
 https://egax.ru/songs.html?yakusheva_ada/drugie_goroda
 https://egax.ru/songs.html?yakusheva_ada/sinie_sugroby
 https://egax.ru/songs.html?yalla
+https://egax.ru/songs.html?yalla/about
 https://egax.ru/songs.html?yalla/chajhana
 https://egax.ru/songs.html?yalla/pozovet_menya_doroga
 https://egax.ru/songs.html?yalla/uchkuduk_tri_kolodca
@@ -24844,6 +25175,7 @@ https://egax.ru/songs.html?ysho-ysho/belym_cvetom
 https://egax.ru/songs.html?ysho-ysho/k_kastratu_raz_prishel_skripach
 https://egax.ru/songs.html?ysho-ysho/prishla_vesna
 https://egax.ru/songs.html?z-exit
+https://egax.ru/songs.html?z-exit/about
 https://egax.ru/songs.html?z-exit/krivye_zerkala
 https://egax.ru/songs.html?zabludovskij_andrej
 https://egax.ru/songs.html?zabludovskij_andrej/2000_god
@@ -24890,6 +25222,7 @@ https://egax.ru/songs.html?zdob_si_zdub/zdobii_bateti_tare
 https://egax.ru/songs.html?zdob_si_zdub/zdubij_batec_tare
 https://egax.ru/songs.html?zemfira
 https://egax.ru/songs.html?zemfira/-140
+https://egax.ru/songs.html?zemfira/about
 https://egax.ru/songs.html?zemfira/alone
 https://egax.ru/songs.html?zemfira/anechka
 https://egax.ru/songs.html?zemfira/arivederchi
@@ -24992,6 +25325,7 @@ https://egax.ru/songs.html?zemfira/zero
 https://egax.ru/songs.html?zemfira/zero_2_variant
 https://egax.ru/songs.html?zemfira/znak_beskonechnosti
 https://egax.ru/songs.html?zemlyane
+https://egax.ru/songs.html?zemlyane/about
 https://egax.ru/songs.html?zemlyane/korablik
 https://egax.ru/songs.html?zemlyane/trava_u_doma
 https://egax.ru/songs.html?zemlyane/zemlya_v_illjuminatope
@@ -25109,6 +25443,7 @@ https://egax.ru/songs.html?zimove_zverej/zahodi
 https://egax.ru/songs.html?zimove_zverej/zima_-_moya_mat
 https://egax.ru/songs.html?zimove_zverej/zimnyaya_muha
 https://egax.ru/songs.html?zinchuk_viktor
+https://egax.ru/songs.html?zinchuk_viktor/about
 https://egax.ru/songs.html?zinchuk_viktor/el_condor_pasa_polet_orla
 https://egax.ru/songs.html?zinchuk_viktor/iz_notnoj_tetradi_magdaleny_bah
 https://egax.ru/songs.html?zinchuk_viktor/kapris_24
@@ -25132,6 +25467,7 @@ https://egax.ru/songs.html?zoopark
 https://egax.ru/songs.html?zoopark/10_let_nazad_skaji_kuda_ushli_te_vremena
 https://egax.ru/songs.html?zoopark/21-j_dubl
 https://egax.ru/songs.html?zoopark/6_utra
+https://egax.ru/songs.html?zoopark/about
 https://egax.ru/songs.html?zoopark/ah_ljubov
 https://egax.ru/songs.html?zoopark/alye_parusa
 https://egax.ru/songs.html?zoopark/ballada_o_kroki_nishtyake_i_karme
@@ -25264,6 +25600,7 @@ https://egax.ru/songs.html?zoopark/zolotye_lvy
 https://egax.ru/songs.html?zoopark/zvezda_rok-n-rolla
 https://egax.ru/songs.html?zveri
 https://egax.ru/songs.html?zveri/120
+https://egax.ru/songs.html?zveri/about
 https://egax.ru/songs.html?zveri/brjunetki_blondinki
 https://egax.ru/songs.html?zveri/byt_dobree
 https://egax.ru/songs.html?zveri/delo_ne_v_etom
@@ -25326,6 +25663,7 @@ https://egax.ru/songs.html?zvuki_mu/seryj_golub
 https://egax.ru/songs.html?zvuki_mu/shuba_duba_bljuz
 https://egax.ru/songs.html?zvuki_mu/shubaduba_bljuz
 https://egax.ru/songs.html?zz_top
+https://egax.ru/songs.html?zz_top/about
 https://egax.ru/songs.html?zz_top/gimme_all_your_lovin
 https://egax.ru/songs.html?zz_top/lagrange
 https://egax.ru/songs.html?zz_top/legs

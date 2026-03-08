@@ -1,4 +1,5 @@
 https://egax.ru/songs.html?aleksandr_bujnov
+https://egax.ru/songs.html?aleksandr_bujnov/about
 https://egax.ru/songs.html?aleksandr_bujnov/gorkij_med
 https://egax.ru/songs.html?aleksandr_bujnov/gostinica
 https://egax.ru/songs.html?aleksandr_bujnov/ljubov_na_dvoix
@@ -10,6 +11,7 @@ https://egax.ru/songs.html?aleksandr_bujnov/v_parije_noch
 https://egax.ru/songs.html?aleksandr_bujnov/v_parije_noch_2
 https://egax.ru/songs.html?aleksandr_bujnov/ya_skuchaju_po_moskve
 https://egax.ru/songs.html?aleksandr_serov
+https://egax.ru/songs.html?aleksandr_serov/about
 https://egax.ru/songs.html?aleksandr_serov/kak_byt
 https://egax.ru/songs.html?aleksandr_serov/madonna
 https://egax.ru/songs.html?aleksandr_serov/moya_boginya
@@ -17,12 +19,14 @@ https://egax.ru/songs.html?aleksandr_serov/ushla_ljubov
 https://egax.ru/songs.html?aleksandr_serov/vernis_ljubov
 https://egax.ru/songs.html?aleksej_glyzin
 https://egax.ru/songs.html?aleksej_glyzin/19_let
+https://egax.ru/songs.html?aleksej_glyzin/about
 https://egax.ru/songs.html?aleksej_glyzin/osennie_vechera
 https://egax.ru/songs.html?aleksej_glyzin/po_labirintam
 https://egax.ru/songs.html?aleksej_glyzin/pozdnij_vecher_v_sorrento
 https://egax.ru/songs.html?aleksej_glyzin/ty_ne_angel
 https://egax.ru/songs.html?aleksej_glyzin/zimnij_cad
 https://egax.ru/songs.html?alla_pugacheva
+https://egax.ru/songs.html?alla_pugacheva/about
 https://egax.ru/songs.html?alla_pugacheva/ajsberg
 https://egax.ru/songs.html?alla_pugacheva/bez_menya
 https://egax.ru/songs.html?alla_pugacheva/do_svidanya_leto
@@ -42,6 +46,7 @@ https://egax.ru/songs.html?bravo
 https://egax.ru/songs.html?bravo/20-j_vek
 https://egax.ru/songs.html?bravo/2h2_4
 https://egax.ru/songs.html?bravo/7_tysyach_nad_zemlej
+https://egax.ru/songs.html?bravo/about
 https://egax.ru/songs.html?bravo/aeroplan
 https://egax.ru/songs.html?bravo/ah_eta_devchonka
 https://egax.ru/songs.html?bravo/ah_eta_devchonka_2_variant
@@ -169,8 +174,10 @@ https://egax.ru/songs.html?chervona_rutta
 https://egax.ru/songs.html?chervona_rutta/druzya
 https://egax.ru/songs.html?chervona_rutta/na_mars
 https://egax.ru/songs.html?cvety
+https://egax.ru/songs.html?cvety/about
 https://egax.ru/songs.html?cvety/zvezdochka_moya_yasnaya
 https://egax.ru/songs.html?djuna
+https://egax.ru/songs.html?djuna/about
 https://egax.ru/songs.html?djuna/anasha
 https://egax.ru/songs.html?djuna/i_v_lopuhah_i_pod_kustom
 https://egax.ru/songs.html?djuna/kostjumchik
@@ -186,6 +193,7 @@ https://egax.ru/songs.html?doktor_vatson/topolya
 https://egax.ru/songs.html?gulyaj_pole
 https://egax.ru/songs.html?gulyaj_pole/kak_jal
 https://egax.ru/songs.html?igor_nikolaev
+https://egax.ru/songs.html?igor_nikolaev/about
 https://egax.ru/songs.html?igor_nikolaev/paromshchik
 https://egax.ru/songs.html?igor_nikolaev/pyat_prichin
 https://egax.ru/songs.html?igor_nikolaev/stolik_na_dvoih
@@ -193,6 +201,7 @@ https://egax.ru/songs.html?igor_nikolaev/tak_kak_ya
 https://egax.ru/songs.html?igor_nikolaev/taksi
 https://egax.ru/songs.html?igor_nikolaev/ty_daje_ne_znaesh
 https://egax.ru/songs.html?igor_saruhanov
+https://egax.ru/songs.html?igor_saruhanov/about
 https://egax.ru/songs.html?igor_saruhanov/ah_zachem
 https://egax.ru/songs.html?igor_saruhanov/alina
 https://egax.ru/songs.html?igor_saruhanov/belaya_noch
@@ -291,17 +300,20 @@ https://egax.ru/songs.html?jenya_belousov/devchonka-devchonochka
 https://egax.ru/songs.html?jenya_belousov/sineglazaya
 https://egax.ru/songs.html?jenya_belousov/v_kinozale_temnom
 https://egax.ru/songs.html?kombinaciya
+https://egax.ru/songs.html?kombinaciya/about
 https://egax.ru/songs.html?kombinaciya/buhgalter
 https://egax.ru/songs.html?kombinaciya/ksjusha
 https://egax.ru/songs.html?larisa_dolina
 https://egax.ru/songs.html?larisa_dolina/pogoda_v_dome
 https://egax.ru/songs.html?lejsya_pesnya
+https://egax.ru/songs.html?lejsya_pesnya/about
 https://egax.ru/songs.html?lejsya_pesnya/gde_je_ty_byla
 https://egax.ru/songs.html?lejsya_pesnya/kachaetsya_vagon
 https://egax.ru/songs.html?lejsya_pesnya/ya_tak_i_znal
 https://egax.ru/songs.html?ljudmila_senchina
 https://egax.ru/songs.html?ljudmila_senchina/beloj_akacii_grozdya_dushistye
 https://egax.ru/songs.html?loza_jurij
+https://egax.ru/songs.html?loza_jurij/about
 https://egax.ru/songs.html?loza_jurij/ah_kakie_nojki
 https://egax.ru/songs.html?loza_jurij/baba_ljuba
 https://egax.ru/songs.html?loza_jurij/chto_skazano_to_skazano
@@ -387,6 +399,7 @@ https://egax.ru/songs.html?masha_rasputina/mechta
 https://egax.ru/songs.html?obodzinskij
 https://egax.ru/songs.html?obodzinskij/vostochnaya_pesnya
 https://egax.ru/songs.html?oleg_gazmanov
+https://egax.ru/songs.html?oleg_gazmanov/about
 https://egax.ru/songs.html?oleg_gazmanov/baltijskij_bereg
 https://egax.ru/songs.html?oleg_gazmanov/bayadera
 https://egax.ru/songs.html?oleg_gazmanov/belyj_sneg
@@ -428,6 +441,7 @@ https://egax.ru/songs.html?sinyaya_ptica
 https://egax.ru/songs.html?sinyaya_ptica/klen
 https://egax.ru/songs.html?sinyaya_ptica/tak_vot_kakaya_ty
 https://egax.ru/songs.html?smeyan_pavel
+https://egax.ru/songs.html?smeyan_pavel/about
 https://egax.ru/songs.html?smeyan_pavel/nepogoda
 https://egax.ru/songs.html?sovetskie_pesni
 https://egax.ru/songs.html?sovetskie_pesni/den_pobedy
@@ -439,10 +453,12 @@ https://egax.ru/songs.html?sovetskie_pesni/svyashchennaya_vojna
 https://egax.ru/songs.html?sovetskie_pesni/tam_vdali_za_rekoj
 https://egax.ru/songs.html?sovetskie_pesni/vmeste_veselo_shagat_po_prostoram
 https://egax.ru/songs.html?syabry
+https://egax.ru/songs.html?syabry/about
 https://egax.ru/songs.html?syabry/vy_shumite_berezy_a_ya_lyagu-prilyagu
 https://egax.ru/songs.html?talkov_igor
 https://egax.ru/songs.html?talkov_igor/a_teper_my_s_toboj_pritihli
 https://egax.ru/songs.html?talkov_igor/a_teper_my_s_toboj_pritihli
+https://egax.ru/songs.html?talkov_igor/about
 https://egax.ru/songs.html?talkov_igor/bal_satany
 https://egax.ru/songs.html?talkov_igor/bal_satany_2_variant
 https://egax.ru/songs.html?talkov_igor/byvshij_podesaul
@@ -515,6 +531,7 @@ https://egax.ru/songs.html?talkov_igor/zaiskivanie
 https://egax.ru/songs.html?talkov_igor/zamknutyj_krug
 https://egax.ru/songs.html?talkov_igor/zvezda
 https://egax.ru/songs.html?utesov_leonid
+https://egax.ru/songs.html?utesov_leonid/about
 https://egax.ru/songs.html?utesov_leonid/kak_mnogo_devushek_horoshih
 https://egax.ru/songs.html?utesov_leonid/pesnya_izvozchika
 https://egax.ru/songs.html?utesov_leonid/pesnya_starogo_izvozchika
@@ -522,6 +539,7 @@ https://egax.ru/songs.html?utesov_leonid/shalandy_polnye_kefali
 https://egax.ru/songs.html?utesov_leonid/tajna
 https://egax.ru/songs.html?utesov_leonid/v_zemlyanke
 https://egax.ru/songs.html?valerij_leontev
+https://egax.ru/songs.html?valerij_leontev/about
 https://egax.ru/songs.html?valerij_leontev/ischezli_solnechnye_dni
 https://egax.ru/songs.html?valerij_leontev/konchajte_devochki
 https://egax.ru/songs.html?valerij_leontev/polet_na_deltaplane
@@ -532,6 +550,7 @@ https://egax.ru/songs.html?veselye_rebyata/brodyachie_artisty
 https://egax.ru/songs.html?veselye_rebyata/kogda_molchim_vdvoem
 https://egax.ru/songs.html?veselye_rebyata/ljudi_vstrechajutsya
 https://egax.ru/songs.html?viktor_saltykov
+https://egax.ru/songs.html?viktor_saltykov/about
 https://egax.ru/songs.html?viktor_saltykov/koni_v_yablokah
 https://egax.ru/songs.html?vladimir_markin
 https://egax.ru/songs.html?vladimir_markin/kolokola
@@ -545,6 +564,7 @@ https://egax.ru/songs.html?vyacheslav_malejik/eta_jenshchina
 https://egax.ru/songs.html?vyacheslav_malejik/ljubov-reka
 https://egax.ru/songs.html?vyacheslav_malejik/mozaika
 https://egax.ru/songs.html?yalla
+https://egax.ru/songs.html?yalla/about
 https://egax.ru/songs.html?yalla/chajhana
 https://egax.ru/songs.html?yalla/pozovet_menya_doroga
 https://egax.ru/songs.html?yalla/uchkuduk_tri_kolodca

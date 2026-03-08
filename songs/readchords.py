@@ -9,8 +9,7 @@ import os, sys, time, re, glob, json
 
 sys.path.insert(0, '..')
 from update import main as update_main
-from updatelist import main as updatelist_main
-from updaterssd import main as updaterss_main
+# from updaterssd import main as updaterss_main
 
 path = '.'
 if len(sys.argv) > 1:
@@ -39,5 +38,3 @@ for fn in glob.glob(path+'/chords*.json'):
 
 if fcount:
   update_main(cdir)
-  updatelist_main(cdir)
-  updaterss_main(cdir)
