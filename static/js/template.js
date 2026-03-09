@@ -19,7 +19,10 @@ function xhr(p, clfunc, id){
 async function fetchPart(p, clfunc) {
   try {
     const response = await fetch( p.url, { headers: { 'Range': 'bytes='+ String(p.offset) + '-' + String(p.offset + p.length) } });
-    if (response.status === 206) {
+    if (response.headers.get('content-encoding')) {
+      console.error('HTTP error!', 'content-encoding not text:', response.headers.get('content-encoding'));
+      clfunc('', p, response.status);
+    } if (response.status === 206) {
       const buffer = await response.arrayBuffer();
       console.log( `Fetched ${buffer.byteLength} bytes.` );
       clfunc((new TextDecoder('utf-8')).decode(buffer), p, response.status);
