@@ -18,7 +18,10 @@ function xhr(p, clfunc, id){
 //
 async function fetchPart(p, clfunc) {
   try {
-    const response = await fetch( p.url, { headers: { Range: 'bytes='+ String(p.offset) + '-' + String(p.offset + p.length) } });
+    const response = await fetch( p.url, { headers: { 
+      'Content-Type': 'text/html; charset=UTF-8',
+      'Range': 'bytes='+ String(p.offset) + '-' + String(p.offset + p.length) } 
+    });
     if (response.status === 206) {
       const buffer = await response.arrayBuffer();
       console.log( `Fetched ${buffer.byteLength} bytes.` );
