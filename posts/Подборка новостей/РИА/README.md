@@ -1,0 +1,7943 @@
+<!----><h2>События на Ср 09 июл 2025 20:00</h2><!--2025-07-09 19:56:47-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250709/gosduma-2028220087.html">В ГД предложили оценивать работу полицейских по  QR-коду</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250709/politsiya-2028219639.html">Блогер из Сургута сообщил, что у него изъяли льва Хариса</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250709/sledstvie-2028219110.html">Следствие попросило заочно арестовать основательницу "Медузы"*</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250709/pashinyan-2028218485.html">В Раде раскрыли, премьер какой страны берет пример с Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250709/gutsul-2028218674.html">Гуцул обвинила судью по делу о продлении ее ареста в предвзятости</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250709/moskva-2028217760.html">Сотрудники МХАТ имени Горького все еще не отвечают на вопросы о Кехмане</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250709/ukraina-2028216773.html">Переводчицу Еврокомиссии заподозрили в шпионаже на мероприятии с Зеленским</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250709/evropa-2028216451.html">На Западе назвали завтрашний день моментом истины для Европы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250709/polshiny-2028215956.html">США с 1 августа введут пошлины на весь импорт из Молдавии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250709/zelenskiy-2028215044.html">Орбан назвал Зеленского комиком, играющим президента</a></div>
+</div><!--n:250709 2000:s:0:e:2882-->
+<!----><!--2025-01-24 21:00:00--><h2>РИА Новости на Пт 24 янв 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250124/solovev-1995403783.html">Путин присвоил Владимиру Соловьеву звание Заслуженного журналиста</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250124/dom-1995403047.html">В Турции обрушился трехэтажный жилой дом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250124/orden-1995402725.html">Путин наградил орденом почета коллектив ИД "Комсомольская правда"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250124/keosayan-1995402266.html">Путин присвоил Тиграну Кеосаяну почетное звание заслуженного артиста</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250124/orden-1995402157.html">Путин посмертно наградил орденом Мужества корреспондента "Известий"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250124/rakety-1995401118.html">В Курской области уничтожили две украинские ракеты</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250124/port-1995400186.html">ВС России нанесли удар по объекту ВСУ в порту Южный в Одесской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250124/oon-1995399209.html">В ООН поддержали возможность переговоров между Россией и США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250124/rechan-1995398914.html">Речан предложил "Газпрому" поставлять газ в ПМР по действующему контракту</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://ria.ru/20250124/vsu-1995398799.html">ВС России нанесли удар по колонне военных грузовиков ВСУ в Сумской области</a>
+</div><!--n:250124 2100:s:2914:e:2858-->
+<!----><h2>События на Вс 03 авг 2025 20:00</h2><!--2025-08-03 19:58:45-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250803/gutsul-2033131862.html">Боля назвал Гуцул олицетворением здравого смысла</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250803/moldaviya-2033131649.html">В Комрате заявили о намерении властей Молдавии уничтожить Гагаузию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250803/ukraina-2033131438.html">Украина ввела санкции против 94 физических лиц из России и других стран</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250803/gagauziya-2033131211.html">Поддерживая Гуцул, жители Гагаузии отстаивают судьбу автономии, заявил Шор</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250803/polsha-2033130176.html">Польские спецслужбы заподозрили украинца в диверсиях на севере страны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250803/gumpomosch-2033128936.html">В Газу по воздуху доставили 136 поддонов с гумпомощью, заявила ЦАХАЛ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250803/pozhar-2033128707.html">В Кургане ликвидировали пожар на газораспределительной подстанции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:11</span> <a class="nodecor" href="https://ria.ru/20250803/tusk-2033128403.html">Туск раскритиковал действия Израиля в секторе Газа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:11</span> <a class="nodecor" href="https://ria.ru/20250803/aeroport-2033128242.html">Аэропорт Сочи планирует обслужить 117 рейсов до конца суток</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:04</span> <a class="nodecor" href="https://ria.ru/20250803/gaza-2033127709.html">В сектор Газа въехали первые за пять месяцев грузовики с топливом</a></div>
+</div><!--n:250803 2000:s:5807:e:2915-->
+<!----><h2>Подборка новостей на Чт 10 апр 2025 21:00</h2><!--2025-04-10 20:57:46-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250410/ipoteka-2010580163.html">Депутат прокомментировала слова Путина об ипотеке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250410/sud-2010579830.html">Суд продлил арест экс-главному кадровику Минобороны</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250410/tramp-2010579623.html">Трамп заявил о перебросе в Панаму американских военных</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250410/tramp-2010579524.html">Трамп оценил решение России освободить Карелину</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250410/spetsposlannik-2010579378.html">Спецпосланник Трампа проведет прямые переговоры с лидером Ирана</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250410/mid-2010579281.html">В МИД рассказали об итогах переговоров России и США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250410/tramp-2010579188.html">Трамп надеется на скорое соглашение между Россией и Украиной</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250410/bespilotnik-2010578858.html">Над Курской областью сбили четыре беспилотника ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250410/simonyan-2010578714.html">Симоньян выступила с предупреждением для Армении</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250410/vsu-2010578146.html">Подполье сообщило об ударах  по бронетанковому заводу в Житомирской области</a>
+</div><!--n:250410 2100:s:8757:e:2729-->
+<!----><h2>События на Пн 08 сен 2025 20:00</h2><!--2025-09-08 19:58:33-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250908/putin-2040535079.html">Путин поручил разработать передвижные медкомплексы для Крайнего Севера</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250908/putin-2040532857.html">Путин поручил представить предложения по аккредитации медработников</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250908/zelenskiy-2040532098.html">"Глупости". На Украине набросились на Зеленского из-за слов в адрес Путина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250908/max-2040531339.html">Аккаунт Путина в MAX набрал сто тысяч подписчиков менее чем за сутки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250908/saratov-2040531154.html">В аэропорту Саратова ввели временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250908/mer-2040530387.html">Мэр Донецка сообщил об атаке дронов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250908/poterya-2040530090.html">"Поставят на место": на Западе раскрыли, какого союзника теряет Украина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250908/ukraine-2040529920.html">На Украине опровергли информацию о бегстве экс-главы МИД</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250908/butina-2040529348.html">Бутина рассказала о состоянии наемников на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250908/slutskij-2040528411.html">Слуцкий призвал к независимому расследованию подрыва "Северных потоков"</a></div>
+</div><!--n:250908 2000:s:11521:e:2860-->
+<!----><!--2025-02-18 21:00:00--><h2>РИА Новости на Вт 18 фев 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250218/borisov-2000164232.html">Путин назначил нового спецпредставителя по космическому сотрудничеству</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250218/putin-2000164051.html">Путин отметил успехи российской медицины в борьбе с онкологией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250218/dispanserizatsiya-2000163854.html">Путин попросил Голикову изучить замечания регионов по диспансеризации</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250218/parizh-2000163416.html">В Париже проведут вторую встречу по украинскому конфликту, передает Reuters</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250218/peregovory-2000163271.html">Киев бросило в дрожь из-за переговоров России и США, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250218/ukraina-2000163120.html">Politico: ЕС готовит пакет военной помощи Украине на шесть миллиардов евро</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250218/putin-2000162889.html">Путин дал поручения по доставке прессы в слабо обеспеченные регионы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250218/oon-2000162802.html">В ООН приняли к сведению переговоры делегаций России и США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250218/sdvig-2000162178.html">NYT отметила сдвиг в подходе США к отношениям с Россией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250218/lavrov-2000161960.html">Лавров отметил интерес США к возобновлению консультаций по геополитике</a>
+</div><!--n:250218 2100:s:14417:e:2915-->
+<!----><h2>Подборка новостей на Сб 12 апр 2025 21:00</h2><!--2025-04-12 20:53:18-->
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250412/tunis-2010933443.html">Власти Туниса не объяснили россиянам причину задержания</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250412/peregovory-2010933350.html">В Белом доме оценили переговоры Ирана и США в Омане</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250412/berlin-2010933149.html">В Берлине мужчина с ножом напал на местного жителя</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250412/kirill-2010932998.html">Патриарх Кирилл освятил вербные и пальмовые ветви в храме Христа Спасителя</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250412/tunis-2010932440.html">Россиянин рассказал о содержании иностранцев в тунисских тюрьмах</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250412/hamas-2010932275.html">ХАМАС опубликовало кадры с заложником, у которого есть гражданство США</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250412/vsu-2010932074.html">При наличии повестки от военкомата выбор конкретной бригады ВСУ невозможен</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250412/lnr-2010931549.html">ВСУ обстреляли Стаханов в ЛНР</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250412/istrebitel-2010931176.html">В Раде допустили, что F-16 сбила украинская ПВО</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:05</span> <a class="nodecor" href="https://ria.ru/20250412/moskva-2010930142.html">На юго-востоке Москвы нашли снаряд времен ВОВ</a></div>
+</div><!--n:250412 2100:s:17368:e:2841-->
+<!----><!--2025-03-05 21:00:00--><h2>РИА Новости на Ср 05 мар 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250305/minoborony-2003296704.html">Фигурантов дела о некачественных сухпайках для Минобороны изобличили</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250305/oon-2003296541.html">ООН поддержала план по восстановлению Газы, одобренный ЛАГ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250305/vagenknekht-2003296392.html">Вагенкнехт резко раскритиковала планы ХДС/ХСС и СДПГ по вооружению Украины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250305/slutskiy-2003296196.html">Слуцкий заявил о прорыве антироссийской блокады</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250305/vzryvy-2003295840.html">В Херсоне прогремели взрывы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250305/ukraina-2003295667.html">"Надо готовиться". На Украине сделали прогноз об отношениях с США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250305/uchet-2003295492.html">В Раде опровергли сообщения о планах ставить 14-летних на воинский учет</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250305/ek-2003294695.html">ЕК вновь отложила полный отказ от энергоресурсов России, передает Reuters</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250305/uchet-2003293772.html">В Киеве раскритиковали идею постановки 14-летних на воинский учет</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://ria.ru/20250305/sherstobitov-2003293048.html">Умер режиссер Илья Шерстобитов</a>
+</div><!--n:250305 2100:s:20245:e:2763-->
+<!----><h2>Подборка новостей на Сб 22 мар 2025 21:00:03</h2><!--2025-03-22 20:49:41-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250322/berlin-2006711112.html">В Берлине прошла демонстрация правых радикалов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250322/erdogan-2006710919.html">Эрдоган обвинил оппозицию в попытках атаковать полицию</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250322/tyulen-2006708909.html">В Ленинградской области спасли двух детенышей серого тюленя</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250322/terapiya-2006707624.html">Папе римскому предписали длительную терапию</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250322/stambul-2006706730.html">В Стамбуле продлили запрет на проведение акций протеста</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250322/papa-2006705403.html">Папа римский планирует появиться перед публикой в воскресенье</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250322/ii-2006704224.html">Эксперт рассказала, как ИИ помогает хакерам быстро взломать пароль</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://ria.ru/20250322/perevorot-2006703830.html">"Вызов брошен": в США предупредили Украину о страшной катастрофе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250322/ankara-2006703124.html">Протестующие в Анкаре направились в центр города</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:09</span> <a class="nodecor" href="https://ria.ru/20250322/papa-2006702085.html">Папу римского выпишут в воскресенье</a>
+</div><!--n:250322 2100:s:23044:e:2694-->
+<!----><h2>События на Пт 08 авг 2025 20:00</h2><!--2025-08-08 19:58:06-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250808/vsu-2034234993.html">ВСУ обстреляли четыре района Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250808/genprokuror-2034234755.html">Генпрокурора Нью-Йорка вызвали в суд по делу о мошенничестве против Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250808/kino-2034234607.html">Фонд кино окажет финансовую поддержку 18 фильмам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250808/moldaviya-2034234372.html">Молдавский блок "Победа" оспорит арест двух своих активистов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250808/indiya-2034234110.html">"Лучший подарок": в Индии пришли в восторг от разговора Моди и Путина </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250808/neft-2034233638.html">Эксперт оценил вероятность роста общемировых цен на нефть </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250808/nalchik-2034233363.html">В Нальчике завершили работы на месте обрыва канатной дороги</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250808/ssha-2034233167.html">США пытается создать в Гренландии привлекательные условия для бизнеса</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250808/palestina-2034232401.html">Палестина поблагодарила ФРГ за решение приостановить экспорт оружия Израилю</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250808/gaza-2034232060.html">Шесть казахстанцев эвакуировали из сектора Газа</a></div>
+</div><!--n:250808 2000:s:25774:e:2861-->
+<!----><h2>События на Пн 09 июн 2025 20:00</h2><!--2025-06-09 19:57:20-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250609/medinskij-2021878851.html">Мединский назвал Байдена анти-Маршаллом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250609/mvd-2021878698.html">В МВД рассказали о поддельном менеджере паролей KeePass</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250609/medinskiy-2021877907.html">Мединский считает деньги, потраченные на поддержку Зеленского, выброшенными</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250609/moskva-2021877217.html">В Москве ребенок упал с арт-объекта в парке "Остров мечты"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250609/medinskij-2021876841.html">Мединский назвал единственную цель визитов украинцев в США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250609/kiev-2021876628.html">Мединский объяснил отказ Киева принимать тела погибших</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250609/traktor-2021876324.html">В Дагестане упавший трактор насмерть придавил школьника</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250609/kursk-2021875985.html">Хинштейн рассказал о ущербе от вторжения ВСУ в Курскую область</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250609/zaschita-2021874817.html">Защита обжаловала заочный арест бизнес-коуча Тлиашиновой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250609/dnr-2021874666.html">В ДНР сапер получил ранение при разминировании</a></div>
+</div><!--n:250609 2000:s:28671:e:2767-->
+<!----><h2>События на Ср 16 июл 2025 20:00</h2><!--2025-07-16 19:59:03-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250716/vsu-2029560392.html">При обстреле ВСУ пострадала жительница Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250716/rossija-2029560236.html">Россия проработает строительство автоподходов к границе с Казахстаном и КНР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250716/putin-2029559514.html">"Хитрюга": сотрудник ММК попросил Путина изменить программу "Молодая семья"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250716/tramp-2029559143.html">Трамп заявил о желании Ирана возобновить переговоры по ядерной программе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250716/slovakija-2029557640.html">Словакия попросит отложить голосование о санкциях против России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250716/putin-2029556858.html">Путин вспомнил, как катался на лыжах рядом с Магнитогорском</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250716/vsu-2029554921.html">ВСУ атаковали восемь населенных пунктов Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250716/putin-2029554742.html">Глава Минтранса доложит Путину о сроке реконструкции аэропорта Магнитогорск</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250716/ukraina-2029553981.html">В Сумской области прогремел взрыв</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250716/lazareva-2029553592.html">Суд заочно арестовал телеведущую Лазареву*</a></div>
+</div><!--n:250716 2000:s:31474:e:2874-->
+<!----><!--2025-02-09 21:00:00--><h2>РИА Новости на Вс 09 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250209/zelenskiy-1998302321.html">Зеленский назвал условие для переговоров с Путиным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250209/rossija-1998300783.html">Россия готова помочь Еревану и Баку в нормализации отношений, заявил посол</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250209/mask-1998300965.html">Политики из ЮАР послали Маска к черту</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250209/pamyatniki-1998300125.html">В Курской области начало работать отделение общества охраны памятников</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250209/krym-1998299976.html">Над Крымом и акваторией Черного моря сбили украинские БПЛА</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250209/rogov--1998299778.html">Умер научный руководитель Института США и Канады РАН Сергей Рогов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250209/terpey-1998299629.html">Белый медведь из Московского зоопарка впервые порыбачил</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250209/khimki-1998298625.html">В подмосковных Химках ликвидировали пожар в банном комплексе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250209/usaid-1998298445.html">USAID не борется с влиянием Китая, заявил советник Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250209/tramp-1998298096.html">Трамп поручит Маску проверить Министерство образования и Пентагон</a>
+</div><!--n:250209 2100:s:34384:e:2789-->
+<!----><h2>События на Ср 10 сен 2025 20:00</h2><!--2025-09-10 19:56:02-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250910/nepal-2041052662.html">Очевидец рассказал о происходящем в туристическом городе в Непале</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250910/kadyrov-2041052495.html">Кадыров показал кадры поражения артиллерийской установки ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250910/frantsija-2041052261.html">Число участников протестов во Франции достигло 175 тысяч</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250910/norvegiya-2041051572.html">"Необратимый шаг": в Норвегии запаниковали из-за плана ЕС против России </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250910/nizhnekamsk-2041051112.html">В аэропорту Нижнекамска ввели временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250910/sanktsii-2041049806.html">Украина ввела санкции против физлиц и компаний, связанных с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250910/rubio-2041049131.html">Рубио встретился с главой МИД Южной Кореи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://rsport.ria.ru/20250910/svechnikov-2041048925.html">Жена пропавшего в Босфоре российского пловца назвала виновных в трагедии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250910/simonyan-2041048782.html">Глава РПСЦ пожелал Симоньян скорейшего выздоровления</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250910/rosstat-2041048377.html">В России впервые с августа 2022 года зафиксировали месячную дефляцию</a></div>
+</div><!--n:250910 2000:s:37209:e:2875-->
+<!----><h2>События на Вт 01 июл 2025 20:00</h2><!--2025-07-01 19:58:15-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250701/smi-2026610613.html">Путин говорил по телефону с Макроном более двух часов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250701/oon-2026610242.html">ООН знает о возросшей напряженности между Россией и Азербайджаном</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250701/vsu-2026609885.html">В Курской области водитель автомобиля погиб при атаке дрона ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250701/makron-2026609700.html">Макрон намерен продолжить переговоры с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250701/mask-2026609545.html">Маск неожиданно ответил на предупреждение Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250701/putin-2026609381.html">Путин и Макрон отметили право Ирана на мирный атом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250701/putin-2026609113.html">Путин и Макрон отметили ответственность России и Франции за безопасность</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250701/putin-2026608922.html">Путин и Макрон выступили за мирное решение кризиса вокруг Ирана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250701/putin-2026608601.html">Путин и Макрон договорились продолжить контакты по Ближнему Востоку</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250701/putin-2026607876.html">Путин и Макрон отметили ответственность стран за мир на Ближнем Востоке</a></div>
+</div><!--n:250701 2000:s:40120:e:2828-->
+<!----><!--2025-03-15 21:00:00--><h2>РИА Новости на Сб 15 мар 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250315/delo-2005239084.html">В Ярославской области возбудили дело после столкновения грузовика с поездом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250315/dtp-2005238944.html">В центре Москвы произошло ДТП</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250315/juar-2005238777.html">В ЮАР отреагировали на решение США признать посла персоной нон-грата</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250315/protest-2005238341.html">Вагенкнехт будет оспаривать итоги выборов через бундестаг</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250315/trevoga-2005238179.html">В семи областях Украины объявили воздушную тревогу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250315/lukashenko-2005237859.html">Пресс-секретарь Лукашенко раскрыла детали его общения с Путиным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250315/strategiya-2005237756.html">В Курской области разработают стратегию развития освобожденных территорий</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250315/tramp-2005237569.html">Трамп назвал "дегенератами" СМИ, написавшие про ожидание Уиткоффом Путина</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250315/belgrad-2005237403.html">В акции протеста в Белграде приняли участие более ста тысяч человек</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250315/brjussel-2005235706.html">В Брюсселе прошла акция против насилия полиции</a>
+</div><!--n:250315 2100:s:42984:e:2817-->
+<!----><h2>События на Чт 07 авг 2025 20:00</h2><!--2025-08-07 19:56:24-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250807/kiev-2034023768.html">ВСУ хотят применить артиллерию российского образца, заявили в ДНР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250807/gagauziya-2034023627.html">Парламент Гагаузии призвал к массовым протестам в защиту Гуцул</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250807/putin-2034023275.html">"Победа Путина": в США сделали заявление из-за переговоров с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250807/gagauziya-2034023189.html">Парламент Гагаузии: Кишинев стремится к ликвидации автономии региона</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250807/gagauziya-2034023101.html">Парламент Гагаузии отказался признавать приговор суда в отношении Гуцул</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250807/ukraina-2034022784.html">В Раде назвали украинские военкоматы "ручным гестапо" Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250807/uitkoff-2034022545.html">Axios: Уиткофф обсудит с союзниками США встречу с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250807/mintsifry-2034022210.html">Минцифры предложило продавать родителям безопасные сим-карты для детей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250807/strakhovka-2034022009.html">Эксперт назвал способы сэкономить на туристической страховке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250807/livan-2034021906.html">Ливан согласился с предложением США о разоружении "Хезболлы"</a></div>
+</div><!--n:250807 2000:s:45837:e:2939-->
+<!----><!--2025-02-11 21:00:00--><h2>РИА Новости на Вт 11 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250211/ukraina-1998724589.html">Администрация Трампа может ввести санкции против мэра Одессы, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250211/mer-1998724146.html">СК прокомментировал раскрывшиеся подробности убийства экс-мэра Самары</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250211/rumyniya-1998723897.html">Оппозиция Румынии намерена выдвинуть вотум недоверия правительству</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250211/zelenskiy-1998723742.html">Зеленский неожиданно отреагировал на вопрос о Байдене</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250211/srok-1998723419.html">Житель Челябинской области получил срок за диверсию и попытку теракта</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250211/niderlandy-1998722913.html">В Нидерландах заявили, что помощью Украине подставляют себя под удар России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250211/kanye-1998722756.html">Сайт бренда одежды Канье Уэста с нацистской символикой перестал работать</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250211/zelenskiy-1998722554.html">В Госдуме ответили Зеленскому фразой из романа "Двенадцать стульев"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250211/mazut-1998722385.html">Тюменские волонтеры отправились на очистку берегов Черного моря от мазута</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250211/gender-1998722127.html">В США удалили раздел с гендерной идентичностью из приложения министерства</a>
+</div><!--n:250211 2100:s:48812:e:2983-->
+<!----><h2>Подборка новостей на Пт 21 мар 2025 21:00:04</h2><!--2025-03-21 20:55:22-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250321/pozhar-2006587562.html">Площадь пожара на кубанской нефтебазе уменьшилась</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250321/filipp-2006587389.html">Экс-премьеру Франции прислали письмо с патроном и угрозами</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250321/medved-2006586692.html">В Башкирии медведь напал на мужчину в лесу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250321/shojgu-2006586445.html">Шойгу отметил колоссальный объем работы Лаврова на благо России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250321/lavrov-2006586260.html">Лавров раскрыл деталь переговоров между Россией и США 18 февраля</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250321/trevoga-2006585889.html">В трех украинских областях объявили воздушную тревогу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250321/lavrov-2006584274.html">Ушаков назвал Лаврова блестящим главой МИД</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250321/studenty-2006584118.html">Фальков призвал повысить уровень знаний иностранных студентов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250321/islandiya-2006583807.html">Детский министр Исландии покинула пост из-за сексуального скандала</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250321/pentagon-2006583525.html">США усилят присутствие своих ВМС на Ближнем Востоке, пишет АР</a>
+</div><!--n:250321 2100:s:51831:e:2751-->
+<!----><!--2025-02-05 21:00:00--><h2>РИА Новости на Ср 05 фев 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250205/sedokova-1997611929.html">Седокова увезла сына после смерти бывшего мужа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250205/dtp-1997611118.html">На юго-востоке Москвы столкнулись два автомобиля</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250205/mer-1997610773.html">Подозреваемую в убийстве экс-мэра Самары арестовали</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250205/kadyrov-1997610222.html">Кадыров рассказал об отношении российских военных к пленным ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250205/moldaviya-1997610026.html">Оппозиция в Молдавии предложила масштабно отметить 80-летие Победы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250205/pvo-1997609621.html">Над Азовским морем сбили пять беспилотников ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:15</span> <a class="nodecor" href="https://ria.ru/20250205/pozhar-1997609130.html">Пожар в магазине автозапчастей в Екатеринбурге потушили</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:11</span> <a class="nodecor" href="https://ria.ru/20250205/ssha-1997608273.html">Bloomberg узнал, когда США объявят о мирном плане по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:08</span> <a class="nodecor" href="https://ria.ru/20250205/ukraina-1997607703.html">Роль USAID на Украине сводилась к столкновению с Россией, заявили в Раде</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:06</span> <a class="nodecor" href="https://ria.ru/20250205/puteshestviya-1997549024.html">Туристы рассказали, какой отпуск считают идеальным</a>
+</div><!--n:250205 2100:s:54618:e:2716-->
+<!----><h2>Подборка новостей на Чт 03 апр 2025 21:00</h2><!--2025-04-03 20:58:00-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250403/prokuratura-2009211687.html">Прокуратура начала проверку после пожара на складе в Пензе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250403/obama-2009211172.html">СМИ: Обама не думал, что Харрис должна быть кандидатом на пост президента</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250403/danija-2009211328.html">Дания отвергнет любые претензии США на Гренландию, заявил глава МИД</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250403/gutsul-2009211006.html">В ООН заявили, что в курсе ареста Гуцул</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250403/udary-2009210758.html">Израиль нанес удары по Сирии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250403/gorlovka-2009210499.html">Дрон ВСУ атаковал Горловку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250403/bitkoin-2009209984.html">Стоимость биткоина опустилась ниже 82 тысяч долларов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250403/belorussija-2009209494.html">В Белоруссии задержали около 40 человек за мошенничество в колл-центрах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250403/ukraina-2009209063.html">Сибига рассказал о тратах Украины на оборону</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250403/nato-2009208009.html">Генсек НАТО утверждает, что конфликт на Украине носит глобальный характер</a>
+</div><!--n:250403 2100:s:57370:e:2686-->
+<!----><h2>События на Вс 15 июн 2025 20:00</h2><!--2025-06-15 19:58:23-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://rsport.ria.ru/20250615/seleznev-2023002213.html">Экс-футболист сборной Украины поссорился с блогером из-за русского языка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250615/iran-2023001747.html">Из зоны ирано-израильского конфликта эвакуировали группу российских ученых</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250615/moldaviya-2023001494.html">В Госдуме объяснили, зачем Санду провелаодит ЛГБТ*-парад</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250615/tailand-2023001242.html">Полиция Таиланда подтвердила гибель спортсменки Родиной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250615/iran-2023000961.html">В Иране задержали 13 человек за поддержку ударов Израиля, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250615/bespilotniki-2023000814.html">На западе Ирана уничтожили два беспилотника</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250615/tramp-2023000244.html">Трамп наложил вето на израильский план убийства Хаменеи, сообщили СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://ria.ru/20250615/vsu-2022999487.html">В Луганске сорвали попытку СБУ устроить теракт ко Дню России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250615/iran-2022999155.html">В пригороде Тегерана обезвредили готовую к взрыву бомбу, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250615/vzryvy-2022998950.html">В иранском городе Мешхед прогремели два взрыва</a></div>
+</div><!--n:250615 2000:s:60092:e:2867-->
+<!----><h2>События на Вт 15 июл 2025 20:00</h2><!--2025-07-15 19:57:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250715/dtp-2029323393.html">На юго-западе Москвы произошло ДТП с двумя электробусами</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250715/orban-2029322763.html">Орбан заявил о беззаконии на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250715/tramp-2029322416.html">СМИ: Европа скептически относится к курсу Трампа в отношении России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250715/film-2029321854.html">Цыганов и Федулова вернутся на экраны в продолжении фильма "Питер FM"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250715/sanktsii-2029321456.html">Каллас надеется на принятие новых санкций против России в среду</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250715/indiya-2029321322.html">Бегун-долгожитель погиб в ДТП в возрасте 114 лет</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250715/nato-2029320761.html">НАТО считает, что Европа найдет деньги на оплату оружия для Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250715/gorlovka-2029319996.html">Дрон ВСУ атаковал гражданский автомобиль в Горловке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250715/minfin-2029319316.html">Минфин предложил увеличить налоговый вычет для семей с детьми</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250715/roskachestvo-2029318492.html">Глава Роскачества посоветовал не бронировать туры у "Рогов и копыт"</a></div>
+</div><!--n:250715 2000:s:62995:e:2805-->
+<!----><h2>Подборка новостей на Сб 19 апр 2025 21:00</h2><!--2025-04-19 20:55:38-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250419/peremirie-2012316220.html">Отказ ЕС поддержать перемирие покажет отсутствие ценностей, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250419/peremirie-2012316083.html">Турецкий политик понадеялся на зрелый ответ Киева на предложение перемирия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250419/omsk-2012313601.html">В Омске высадили геоглиф "ПОБЕДЕ — 80" из сосен</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250419/krym-2012313241.html">В Крыму более 12 тысяч человек остались без электричества после аварии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250419/smi-2012312443.html">Западные СМИ назвали объявление пасхального перемирия неожиданным </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250419/rezerv-2012312257.html">В Калининградской области создали мобилизационный резерв</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250419/minoborony-2012311702.html">Минобороны показало кадры с освобожденными российскими военными</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250419/zelenskiy-2012311533.html">Bloomberg расценил слова Зеленского о перемирии как отказ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:13</span> <a class="nodecor" href="https://ria.ru/20250419/peremirie-2012311274.html">Итальянский сенатор назвал перемирие на Украине хорошей новостью на Пасху</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:09</span> <a class="nodecor" href="https://ria.ru/20250419/ukraina-2012311100.html">Пасхальное перемирие должно соблюдаться и Украиной, считает эксперт</a></div>
+</div><!--n:250419 2100:s:65836:e:2960-->
+<!----><h2>События на Чт 05 июн 2025 20:00</h2><!--2025-06-05 19:56:40-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250605/vsu-2021183395.html">При атаках дронов ВСУ в Белгородской области пострадали два человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250605/tramp-2021183252.html">Трамп не исключил давления на Украину</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250605/tramp-2021182751.html">Трамп не ознакомился с законопроектом о санкциях против России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250605/tramp-2021182567.html">Трамп заявил, что держит в голове крайний срок заключения мира на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250605/zhenschina-2021182213.html">В Ленинградской области разыскивают женщину, оставившую новорожденного</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250605/flagi-2021181887.html">С могил участников СВО в Нижегородской области украли флаги</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250605/putin-2021181631.html">Путин расширил список основных задач Совета по нацпроектам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250605/tramp-2021181533.html">Трамп попросил Путина оставить атаки Киева на аэродромы без ответа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://ria.ru/20250605/vvs-2021181309.html">США испытали новую авиабомбу для поражения кораблей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250605/ataki-2021180848.html">"Получайте призы": на Западе сделали резкое заявление об атаках Киева</a></div>
+</div><!--n:250605 2000:s:68832:e:2861-->
+<!----><h2>События на Вт 03 июн 2025 20:00</h2><!--2025-06-03 19:59:21-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250603/peterburg-2020740777.html">В Петербурге задержали мужчину, собиравшего данные для ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250603/atambaev-2020740185.html">Экс-президента Киргизии заочно приговорили к сроку</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250603/mask-2020739906.html">Маск призвал к прекращению финансирования ООН</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250603/mid-2020739236.html">МИД ответил на отказ Греции продлить аккредитацию журналисту РИА Новости</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250603/delo-2020739086.html">После обрушения кирпичей с многоэтажки в Чебоксарах завели дело</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250603/zelenskiy-2020738894.html">Французский политик обвинил Зеленского в нежелании мира</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250603/zaporozhe-2020738444.html">В Запорожской и Херсонской областях восстановили энергоснабжение</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250603/pvo-2020738337.html">В Белгородской области сбили шесть беспилотников ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250603/zelenskiy-2020735802.html">Избранный президент Польши напомнил Зеленскому об исторических вопросах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:14</span> <a class="nodecor" href="https://ria.ru/20250603/niderlandy-2020735559.html">СМИ: правительство Нидерландов останется у власти еще на несколько месяцев</a></div>
+</div><!--n:250603 2000:s:71729:e:2872-->
+<!----><!--2025-02-25 21:00:00--><h2>РИА Новости на Вт 25 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250225/moskva-2001587228.html">В Москве задержали кинокритика Барабаш</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250225/koshka-2001586786.html">Добровольцы рассказали, как искали кошку, сброшенную с замка в Крыму</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250225/sobaki-2001585806.html">В Пермском крае стая собак напала на пенсионерку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250225/polsha-2001585398.html">Кандидат в президенты Польши призвал покончить с культом Бандеры</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250225/marsel-2001584435.html">Французов, напавших на консульство России в Марселе, заключили под стражу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250225/iran-2001584069.html">Иранская ПВО сбила цели, проникшие в воздушное пространство страны</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250225/zelenskiy-2001583741.html">В Британии рассказали о тайной одержимости Зеленского</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250225/pentagon-2001583487.html">Кандидат в замглавы Пентагона призвал избегать обвинений в адрес России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250225/salekhard-2001583257.html">В Салехарде загорелся гаражный комплекс</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250225/gorlovka-2001582921.html">Украинские войска атаковали Горловку беспилотником-камикадзе</a>
+</div><!--n:250225 2100:s:74637:e:2781-->
+<!----><!--2025-02-04 21:00:00--><h2>РИА Новости на Вт 04 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://rsport.ria.ru/20250204/obstrely-1997391944.html">Обстрелы ВСУ повредили спортивные объекты в Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250204/tramp-1997391368.html">Трамп проведет разговор с Си Цзиньпином во вторник</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250204/gorlovka-1997390441.html">ВСУ обстреляли Горловку кассетными снарядами</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250204/zelenskiy-1997390216.html">Зеленский анонсировал изменения в зоне спецоперации</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250204/shvetsiya-1997389156.html">При стрельбе в шведской школе погибли около десяти человек</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250204/usaid-1997388921.html">USAID отказывалось сообщать администрации США детали расхода госсредств</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:03</span> <a class="nodecor" href="https://ria.ru/20250204/arest-1997387711.html">Вице-губернатора Ростовской области арестовали</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:01</span> <a class="nodecor" href="https://ria.ru/20250204/ukraina-1997387374.html">В Харькове прогремел взрыв</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:00</span> <a class="nodecor" href="https://ria.ru/20250204/konyukhov-1997387162.html">Конюхов, пересекающий Южную Атлантику на лодке, преодолел пик шторма</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250204/proekt-1997386495.html">В России подготовили проект редакции Основ языковой политики</a>
+</div><!--n:250204 2100:s:77454:e:2704-->
+<!----><h2>События на Сб 14 июн 2025 20:00</h2><!--2025-06-14 19:59:34-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250614/magate-2022856593.html">МАГАТЭ сообщило о повреждении зданий на ядерном объекте в Иране</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250614/stul-2022856000.html">В Италии пара туристов сломала стул из кристаллов Сваровски</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250614/kapur-2022855832.html">Миллиардер умер из-за нелепой случайности</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250614/ogon-2022855176.html">В Ярославской области мальчик залил водой Вечный огонь</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250614/iran-2022852938.html">Пожар на газовом месторождении в Иране локализовали</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250614/samolet-2022852618.html">Самолет с вернувшимися по обмену военными приземлился в Подмосковье</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250614/lukashenko-2022852279.html">Лукашенко посоветовал не есть картофель слишком часто</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250614/dagestan-2022852121.html">В ЧП с катером на водохранилище в Дагестане пострадали четыре человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250614/rossija-2022851958.html">Путин заявил Трампу о готовности России продолжить переговоры с Украиной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250614/ataka-2022851687.html">В Совфеде осудили атаку Израиля на Иран</a></div>
+</div><!--n:250614 2000:s:80194:e:2791-->
+<!----><h2>События на Сб 06 сен 2025 20:00</h2><!--2025-09-06 19:57:14-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250906/krym-2040207603.html">В Крыму считают, что регион станет бездотационным через несколько лет</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250906/krym-2040207442.html">В Крыму потушили лесной пожар</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250906/ukraina-2040207194.html">На Западе предупредили о катастрофе из-за планов по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250906/kiev-2040207036.html">В Киеве прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250906/opasnost-2040206831.html">В Воронежской области объявили беспилотную опасность</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250906/ukraina-2040206533.html">Журналист поставил диагноз Зеленскому после слов в адрес Путина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250906/ataka-2040206003.html">В Брянской области при атаке БПЛА пострадал человек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250906/voenkomat-2040205703.html">На Украине мобилизовали церковного старосту</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250906/max-2040205298.html">В Совфеде рассказали о борьбе с мошенниками в мессенджере MAX</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250906/putin-2040204947.html">Путин наградил сотрудников скорой помощи Белгородской области</a></div>
+</div><!--n:250906 2000:s:83021:e:2681-->
+<!----><!--2025-01-31 21:00:00--><h2>РИА Новости на Пт 31 янв 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250131/faa-1996719756.html">В США сотрудников FAA призвали сменить работу после авиакатастрофы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250131/google-1996719474.html">Суд в Москве запретил Google вести разбирательства в США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250131/vzryv-1996719201.html">В Одессе прогремел взрыв</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250131/ekaterinburg-1996719028.html">В Екатеринбурге неизвестный вынес из банка около семи миллионов рублей</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250131/geroinya-1996718875.html">Минтруд разработал проект о ежемесячных выплатах для матерей-героинь</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250131/babushka-1996718662.html">Омбудсмен взяла на контроль ситуацию с девочкой, якобы убившей бабушку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250131/polsha-1996718163.html">В Польше задержали двух украинцев за нападение на обменный пункт</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250131/slutskij-1996717986.html">Слуцкий назвал Украину балластом для команды Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250131/oms-1996717702.html">КС защитил право гражданина на компенсацию за лечение вне ОМС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250131/trevoga-1996717546.html">В трех областях Украины объявили воздушную тревогу</a>
+</div><!--n:250131 2100:s:85738:e:2768-->
+<!----><h2>События на Пн 15 сен 2025 20:00</h2><!--2025-09-15 19:57:33-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250915/posol-2042103507.html">Посол России в Норвегии выразил обеспокоенность помощью Киеву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250915/kherson-2042103253.html">В Херсоне прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250915/tramp-2042102232.html">Трамп встретится с Генсеком ООН в ходе недели высокого уровня</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250915/norvegija-2042101516.html">Норвегия организовала военный лагерь для украинцев в Польше, сообщают СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250915/jakutija-2042101144.html">В Якутии волонтеры собрали 20 тонн отходов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250915/aes-2042098061.html">Сийярто и Лихачев договорились ускорить расширение АЭС "Пакш" в Венгрии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250915/ssha-2042100845.html">США не введут пошлины против Китая без аналогичных мер ЕС, заявил Бессент</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250915/svo-2042100353.html">В зоне СВО погиб отец пятерых детей из Пермского края</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://ria.ru/20250915/sud-2042097555.html">В Москве суд рассматривает заочное дело экс-главы "Атомпромресурсов"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://ria.ru/20250915/istrebitel-2042094209.html">СМИ сообщили об особенностях переброшенных в Польшу французских Rafale</a></div>
+</div><!--n:250915 2000:s:88542:e:2829-->
+<!----><h2>Подборка новостей на Пн 14 апр 2025 21:00</h2><!--2025-04-14 20:59:39-->
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250414/oon-2011244576.html">Россия и Белоруссия обсудили взаимную поддержку своих инициатив в ООН</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250414/zhertvy-2011246084.html">Число жертв при обрушении крыши клуба в Доминикане достигло 231</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250414/openai-2011244733.html">OpenAI представила новую серию моделей ИИ</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250414/ingushetiya-2011244347.html">В Ингушетии простились с последним в республике ветераном ВОВ</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250414/sumy-2011244161.html">Власти Бердичева удалили пост о гибели полковника ВСУ в Сумах</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250414/ukraina-2011243410.html">Лондон передал Киеву транш с погашением за счет доходов от активов России</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250414/lavrov-2011243775.html">Лавров рассказал о статусе соглашения России и США по Украине</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250414/vsu-2011242996.html">ВСУ сбросили взрывоопасный предмет на Селидово</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250414/iran-2011242189.html">Глава МИД Ирана подтвердил участие делегации в переговорах с США в Риме</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250414/maslyakov-2011239704.html">Александру Маслякову вручили премию имени Лысенко посмертно</a></div>
+</div><!--n:250414 2100:s:91407:e:2925-->
+<!----><!--2025-02-02 21:00:00--><h2>РИА Новости на Вс 02 фев 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250202/khyuston-1996922784.html">В Хьюстоне перед взлетом эвакуировали пассажиров и экипаж самолета</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250202/khezbolla-1996922638.html">Погибшего лидера "Хезболлы" Насруллу похоронят 23 февраля</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250202/efremov-1996922402.html">В Приморье назвали возможную причину гибели Ефремова в Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250202/mvd-1996921988.html">МВД не намерено платить за сообщения о нелегальных мигрантах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250202/posolstvo-1996921818.html">Посольство России напомнило о вкладе армян в победу в Сталинградской битве</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250202/ataki-1996921504.html">В Белгородской области еще один человек пострадал при атаке FPV-дронов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250202/mchs-1996921416.html">Площадь пожара на складе в Москве выросла до 250 квадратов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250202/rybak-1996921254.html">В Новгородской области водолазы нашли тело утонувшего рыбака</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250202/posolstvo-1996920830.html">Посольство России в Венгрии запустило акцию к 80-летию Победы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250202/moskva-1996920540.html">На северо-востоке Москвы загорелся склад</a>
+</div><!--n:250202 2100:s:94368:e:2831-->
+<!----><h2>События на Вс 29 июн 2025 20:00</h2><!--2025-06-29 19:51:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250629/germaniya-2026168494.html">Журналист рассказал, как посол ФРГ опозорился в Москве</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250629/rossiya-2026168164.html">Россия и КНДР подписали план сотрудничества в культурной сфере</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250629/atsts-2026167686.html">Союз армян Скандинавии осудил действия Пашиняна в отношении ААЦ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250629/krasnodar-2026167088.html">В Краснодаре подросток залез на вагон и получил удар током</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250629/moskva-2026164977.html">Студенты из 73 регионов посетили "Бал Победы"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250629/bpla-2026163976.html">Расчеты ударных БПЛА сорвали ротацию ВСУ в Запорожской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:08</span> <a class="nodecor" href="https://ria.ru/20250629/bpla-2026163858.html">Подразделение дроноводов за неделю поразило 35 целей в районе Работино</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://ria.ru/20250629/slutskiy-2026162851.html">Слуцкий попросит проверить разработчиков "Шедеврума" на дискредитацию армии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://ria.ru/20250629/iran-2026162523.html">МАГАТЭ: вопрос иранской ядерной программы не решить военным путем</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:44</span> <a class="nodecor" href="https://ria.ru/20250629/vertolet-2026161839.html">К тушению пожара в Алуште привлекли два вертолета Ми-8</a></div>
+</div><!--n:250629 2000:s:97235:e:2857-->
+<!----><!--2025-03-09 21:00:00--><h2>РИА Новости на Вс 09 мар 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250309/shaman-2003964229.html">Shaman и Мизулина официально заявили, что они пара</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250309/dzhordzhesku-2003964132.html">Джорджеску отказали в участии в президентских выборах, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250309/shaman-2003963899.html">Концерт Shaman "Ты моя" открылся песней "Грешная любовь"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250309/zoopark-2003963201.html">В Московском зоопарке гиененка Акелу готовят к встрече с отцом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250309/petrosyan-2003963083.html">СМИ узнали о состоянии Петросяна</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250309/vsu-2003962033.html">Бойцы "Севера" подняли триколор в освобожденном от ВСУ Черкасском Поречном</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250309/mask-2003961280.html">Starlink никогда не отключит терминалы на Украине, заявил Маск</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250309/konflikt-2003960932.html">На Западе рассказали о крахе ВСУ из-за решения Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250309/iran-2003960530.html">В Иране назвали иррациональным возобновление переговоров с США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250309/shaman-2003960410.html">Shaman хочет провести открытые уроки музыки в школах</a>
+</div><!--n:250309 2100:s:100128:e:2716-->
+<!----><h2>События на Вс 31 авг 2025 20:00</h2><!--2025-08-31 19:55:01-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250831/sigal-2038702209.html">Компания Стивена Сигала построит завод в Волгоградской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250831/bpla-2038700451.html">ВСУ атаковали девять населенных пунктов Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250831/bpla-2038699657.html">В Белгородской области отменили опасность атаки БПЛА</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250831/zemletryasenie-2038698579.html">Ученые объявили о новой зоне мегаземлетрясений</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250831/tromboz-2038698428.html">"Нельзя откладывать". Кардиолог назвал симптомы опасного сгущения крови </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250831/vsu-2038698267.html">Боец рассказал, как ВСУ использовали пехоту в Камышевахе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250831/radiostantsija-2038696526.html">"Радио Судного дня" передало два новых сообщения на фоне саммита ШОС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250831/dtp-2038696379.html">В Москве на Киевском шоссе столкнулись четыре автомобиля</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:59</span> <a class="nodecor" href="https://ria.ru/20250831/transport-2038694716.html">В Севастополе приостановили работу морского пассажирского транспорта</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:46</span> <a class="nodecor" href="https://ria.ru/20250831/svo-2038692508.html">Боец рассказал подробности освобождения Камышевахи</a></div>
+</div><!--n:250831 2000:s:102881:e:2841-->
+<!----><!--2025-02-12 21:00:00--><h2>РИА Новости на Ср 12 фев 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250212/abkhaziya-1998963747.html">В Абхазии проработают прямые рейсы из ЯНАО, Коми и ХМАО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250212/diddy-1998963561.html">Скандальный рэп-исполнитель Diddy подал иск на 100 миллионов долларов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250212/putin-1998963270.html">В Совфеде прокомментировали разговор Путина и Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250212/oon-1998963090.html">В ООН заявили о готовности помочь в урегулировании кризиса на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250212/putin-1998962396.html">Депутат Госдумы прокомментировал разговор Путина и Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250212/peregovory-1998962492.html">Трамп созвонился с Зеленским сразу после разговора с Путиным, заявили в США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250212/trier-1998961474.html">Датского режиссера Ларса фон Триера поместили в больницу, сообщили СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250212/indeks-1998961247.html">Индекс Мосбиржи впервые с июля поднялся выше 3100 пунктов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250212/pushkov-1998961039.html">Пушков прокомментировал разговор Путина и Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250212/slovakiya-1998960791.html">Премьер Словакии заявил, что никогда бы не согласился помогать Киеву газом</a>
+</div><!--n:250212 2100:s:105759:e:2844-->
+<!----><h2>Подборка новостей на Вс 20 апр 2025 21:00</h2><!--2025-04-20 20:51:15-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250420/dtp-2012416796.html">После смертельного ДТП в Подмосковье завели дело</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250420/buri-2012416624.html">Ученые предупредили о магнитных бурях</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250420/gorlovka-2012415716.html">ВСУ атаковали Горловку кассетными снарядами в нарушение перемирия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250420/peremirie-2012415078.html">США приветствовали бы продление пасхального перемирия, пишет Reuters</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250420/germaniya-2012414593.html">Появились подробности об инциденте со стрельбой на дискотеке в Германии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250420/kosmonavt-2012414098.html">Патриарх Кирилл рассказал экипажу МКС о своей давней мечте</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://ria.ru/20250420/dtp-2012413783.html">В Москве произошло ДТП с детьми на электросамокате</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:12</span> <a class="nodecor" href="https://ria.ru/20250420/festival-2012413439.html">В Большом театре открылся 24-й Московский пасхальный фестиваль</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:03</span> <a class="nodecor" href="https://ria.ru/20250420/ukraina-2012412756.html">Британский лорд призвал Киев быть готовым к уступкам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250420/es-2012412451.html">"Новый уровень деградации". СМИ раскрыли, во что превратился ЕС</a></div>
+</div><!--n:250420 2100:s:108640:e:2811-->
+<!----><!--2025-01-18 21:00:00--><h2>РИА Новости на Сб 18 янв 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250118/tranzit-1994406723.html">СМИ сообщили о транзите через Чехию 300 британских военных на учения НАТО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250118/pvo-1994406508.html">Над Черным морем и Крымом сбили три беспилотника ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250118/sdelka-1994406108.html">В Норвегии заявили, что не Байден способствовал заключению сделки по Газе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250118/starmer-1994405797.html">В США оценили перехват дрона над Стармером в Киеве словами из Библии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250118/podpole-1994405525.html">Подполье сообщило об ударе по базе иностранных наемников в Харькове</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250118/germaniya-1994405281.html">Немецкий генерал-майор заявил о росте военного потенциала России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250118/oae-1994405079.html">Россия и ОАЭ парафировали соглашение об избежании двойного налогообложения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250118/izrail-1994404513.html">Израиль обвинил ХАМАС в нарушении соглашения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:12</span> <a class="nodecor" href="https://rsport.ria.ru/20250118/mkhl-1994388356.html">Российские хоккеисты устроили массовую драку во время матча</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:10</span> <a class="nodecor" href="https://ria.ru/20250118/pmr-1994403841.html">В ПМР заявили, что власти Молдавии сопротивляются прекращению энергокризиса</a>
+</div><!--n:250118 2100:s:111488:e:2897-->
+<!----><h2>События на Вт 08 июл 2025 20:00</h2><!--2025-07-08 19:54:39-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250708/vsu-2028015903.html">Дроны ВСУ атаковали Белгородскую область</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250708/ukraina-2028015655.html">На Украине мужчина ранил сотрудника военкомата в ходе силовой мобилизации</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250708/pozhar-2028015072.html">В Ростове-на-Дону локализовали пожар в здании со складом и офисом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250708/lukashenko-2028014818.html">Лукашенко рассказал, чем его угостил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250708/tramp-2028014368.html">Трамп заявил, что введение новых санкций против России зависит от него</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250708/starovoyt-2028014214.html">Прощание со Старовойтом пройдет в ЦКБ в Москве</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250708/tramp-2028014007.html">Нетаньяху и Трамп могут провести еще одну встречу, сообщили СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250708/shtraf-2028013351.html">Вокалиста группы Slaughter to Prevail оштрафовали за дискредитацию армии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250708/pashinyan-2028012737.html">Президент Армении подписал законы для национализации "Электросетей Армении"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250708/tramp-2028012270.html">Трамп пригрозил устроить России "маленький сюрприз"</a></div>
+</div><!--n:250708 2000:s:114422:e:2826-->
+<!----><h2>События на Чт 14 авг 2025 20:00</h2><!--2025-08-14 19:56:36-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250814/kirgiziya-2035389790.html">Товарооборот между Россией и Киргизией вырос на 18,2 процента</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250814/vstrecha-2035389648.html">ООН будет следить за встречей Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250814/rubl-2035389477.html">Эксперт прокомментировал обнуление нормативов продажи валютной выручки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250814/kirgiziya-2035389067.html">Россия обсуждает локализацию производства автомобилей в Киргизии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250814/ermak-2035388750.html">Fox News: подход главы офиса Зеленского раздражает США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250814/bpla-2035385904.html">В Ростове-на-Дону в результате атаки БПЛА пострадали 20 зданий</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250814/krym-2035387168.html">МВД Крыма проверит обстоятельства съемки видео с нудистами в Коктебеле</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250814/oruzhie-2035386003.html">На Западе запаниковали из-за модернизации российского оружия </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250814/samolet-2035385797.html">Еще один Ил-96 вылетел из Москвы на Аляску</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250814/sammit-2035385112.html">Эксперт оценила вероятность снятия санкций США с нефтегазовых проектов</a></div>
+</div><!--n:250814 2000:s:117285:e:2835-->
+<!----><!--2025-01-19 06:00:00--><h2>Рамблер Новости на Вс 19 янв 2025 06:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:43</span> <a class="nodecor" href="https://news.rambler.ru/world/54067255-blinken-obsudil-s-glavoy-mid-velikobritanii-situatsiyu-na-blizhnem-vostoke/">Блинкен обсудил с главой МИД Великобритании ситуацию на Ближнем Востоке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:24</span> <a class="nodecor" href="https://news.rambler.ru/world/54064275-v-grenlandii-zayavili-ob-otsutstvii-prav-danii-na-ostrov/">В Гренландии заявили об отсутствии прав Дании на остров</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:28</span> <a class="nodecor" href="https://news.rambler.ru/world/54067211-ria-v-magazinah-ssha-propali-kurinye-yaytsa-iz-za-epidemii-ptichego-grippa/">РИА: в магазинах США пропали куриные яйца из-за эпидемии птичьего гриппа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:55</span> <a class="nodecor" href="https://news.rambler.ru/world/54064171-v-izraile-sdelali-zayavlenie-naschet-vozmozhnyh-mirnyh-peregovorov-po-ukraine/">В Израиле сделали заявление насчет возможных мирных переговоров по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:56</span> <a class="nodecor" href="https://news.rambler.ru/world/54067195-mask-maduro-vredit-naseleniyu-venesuely/">Маск: Мадуро вредит населению Венесуэлы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:45</span> <a class="nodecor" href="https://news.rambler.ru/world/54067193-nbc-spetsposlannik-trampa-mozhet-posetit-sektor-gaza/">NBC: спецпосланник Трампа может посетить сектор Газа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:02</span> <a class="nodecor" href="https://news.rambler.ru/world/54067153-v-ssha-osadili-blinkena-posle-ego-slov-ob-ukraine/">В США осадили Блинкена после его слов об Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">02:35</span> <a class="nodecor" href="https://news.rambler.ru/world/54067138-wsj-v-pervye-dni-u-vlasti-tramp-mozhet-posetit-kitay/">WSJ: в первые дни у власти Трамп может посетить Китай</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">02:26</span> <a class="nodecor" href="https://news.rambler.ru/world/54066087-mask-prizval-mera-los-andzhelesa-uyti-v-otstavku/">Маск призвал мэра Лос-Анджелеса уйти в отставку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">01:57</span> <a class="nodecor" href="https://news.rambler.ru/world/54067115-serbiya-i-vengriya-soglasovali-stroitelstvo-nefteprovoda/">Сербия и Венгрия согласовали строительство нефтепровода</a>
+</div><!--n:250119 0600:s:120157:e:3278-->
+<!----><h2>События на Ср 11 июн 2025 20:00</h2><!--2025-06-11 19:58:44-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250611/sijjarto-2022367760.html">Сийярто планирует встретиться с Мантуровым, Новаком и Дегтяревым</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250611/gubernator-2022367236.html">Иркутский губернатор поблагодарил сбивавших дроны 1 июня</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250611/moldavija-2022366959.html">В "Победе" рассказали, как остановить пропаганду нацизма в Молдавии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250611/britanija-2022366445.html">Британия и ЕС заключили соглашение о пограничном контроле в Гибралтаре</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250611/kazahstan-2022365604.html">В Казахстане высказались за усиление партнерства с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250611/lavrov-2022363557.html">Лавров выступил перед участниками программы "Время героев"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250611/zhurnalist-2022363141.html">"Идиоты": журналист высмеял западных лидеров за слова о России </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250611/slutskij-2022362951.html">Слуцкий отправил письмо в бундестаг с призывом к немецким депутатам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250611/rossija-2022362771.html">Инициатива Токаева по русскому языку реализуется, заявил посол России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250611/pogoda-2022362631.html">Москвичам рассказали о погоде в субботу</a></div>
+</div><!--n:250611 2000:s:123472:e:2886-->
+<!----><!--2025-02-27 21:00:00--><h2>РИА Новости на Чт 27 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250227/peregovory-2002059685.html">На саммите ЕС обсудят назначение спецпосланника по Украине, сообщили СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250227/obstrel-2002059576.html">При обстреле ВСУ пострадал житель Белгородской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250227/tramp-2002059072.html">Трамп заявил, что сможет добиться мирного соглашения по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250227/proekt-2002058885.html">В ГД внесли проект о статусе ветерана для служащих в курском приграничье</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250227/sdelka-2002058661.html">США раскрыли, сколько хотят заработать на сделке с Украиной</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250227/torgovlya-2002058474.html">Обвиняемые в торговле людьми братья Тейт прибыли в США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250227/germaniya-2002058320.html">ХДС/ХСС может начать переговоры с социал-демократами в пятницу, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250227/udar-2002058164.html">Бывший президент Франции выступил с дерзким заявлением в адрес Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250227/kharkov-2002057982.html">В Харькове сотрудники военкомата силой затащили мужчину в микроавтобус</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250227/moldaviya-2002057576.html">В Молдавии обвинили Евросоюз в проведении политических экспериментов</a>
+</div><!--n:250227 2100:s:126395:e:2918-->
+<!----><h2>События на Чт 22 май 2025 20:00</h2><!--2025-05-22 19:47:45-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250522/domodedovo-2018535676.html">В Домодедово сняли ограничения на прием и выпуск воздушных судов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250522/bespilotniki-2018535655.html">Отражена атака еще восьми беспилотников, летевших на Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250522/ukraina-2018535452.html">При обстреле Пантелеймоновки в ДНР ранены восемь мирных жителей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250522/putin-2018535255.html">Путин обратил внимание на снижение отгрузки сельхозтехники</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250522/boevik-2018534503.html">Боевик ВСУ по ошибке зашел к российским штурмовикам за сигаретами</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250522/ukraina-2018534319.html">Украина предложила ЕС направлять часть своего ВВП на финансирование ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250522/putin-2018533967.html">Путин наградил коллектив поликлиники №1 управделами президента</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250522/udar-2018533829.html">ВСУ нанесли массированный удар по Льгову в Курской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250522/gladkov-2018533091.html">Гладков попросил у Путина помощи на восстановление предприятий</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250522/knr-2018532936.html">Сенатор назвал отношения с Китаем приоритетом России</a></div>
+</div><!--n:250522 2000:s:129350:e:2885-->
+<!----><h2>События на Вт 20 май 2025 20:00</h2><!--2025-05-20 19:58:48-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250520/medvedev-2018125607.html">Медведев пошутил о письмах Макрону и Стармеру</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250520/kiev-2018125387.html">Украинские власти присваивают бюджетные деньги, заявил депутат Рады</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250520/zapad-2018125239.html">Запад следит за выступлениями Путина, заявил Медведев</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250520/medvedev-2018125106.html">Медведев: Запад видит, что Россия не воспринимает продвигаемый им "порядок"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250520/medvedev-2018124712.html">Будущее международных отношений определяют гарантии, заявил Медведев</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250520/vengriya-2018124564.html">Высланные Венгрией украинские дипломаты покинули страну</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250520/evrosojuz-2018124292.html">Евросоюз снял экономические санкции с Сирии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250520/medvedev-2018123660.html">Россия должна верить только подготовленным гарантиям, заявил Медведев</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250520/simion-2018123474.html">Симион намерен оспорить итоги выборов в Румынии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250520/medvedev-2018122973.html">Медведев рассказал о сценарии развития ситуации на Украине</a></div>
+</div><!--n:250520 2000:s:132272:e:2827-->
+<!----><h2>Подборка новостей на Пт 11 апр 2025 21:00</h2><!--2025-04-11 20:59:14-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250411/bankomat-2010813634.html">В Ставрополе задержали двух мужчин, подозреваемых в подрыве банкомата</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250411/vstrecha-2010812766.html">Встреча Путина и Уиткоффа длится около трех часов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250411/kursk-2010811993.html">В Курске после операции "Поток" установили арт-объект в виде трубы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250411/gorlovka-2010811801.html">ВСУ обстреляли Горловку натовскими снарядами</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250411/dron-2010811271.html">В Курской области при атаке дрона на автомобиль погиб мирный житель</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250411/zelenskiy-2010810468.html">"Маленький засранец": Зеленского поставили на место после дерзкой просьбы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250411/uitkoff-2010810379.html">Белый дом назвал визит Уиткоффа в Россию шагом на пути к миру на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250411/sud-2010810070.html">Суд продлил арест экс-замгубернатора Югры по делу о взятке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250411/livan-2010809900.html">Активисты из Ливана привезли гуманитарную помощь в Курахово </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250411/voenkor-2010809755.html">Военкор ВГТРК назвал санкции Зеленского символическим жестом</a>
+</div><!--n:250411 2100:s:135136:e:2847-->
+<!----><h2>Подборка новостей на Пт 04 апр 2025 21:00</h2><!--2025-04-04 20:57:32-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250404/pozhar-2009440485.html">В поселке Ранцево Тверской области потушили пожар</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250404/rubio-2009439373.html">Рубио призвал Европу разработать гарантии безопасности для Украины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250404/rogov-2009439190.html">Рогов призвал освободить арестованного на Украине политолога</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250404/tramp-2009439087.html">Трамп подписал указ о продлении работы TikTok</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250404/britanija-2009438604.html">В Британии звучат призывы к выходу из Оттавской конвенции, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250404/rada-2009438439.html">В Раде предложили снять бронь от мобилизации для грантовых организаций</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250404/kniga-2009438265.html">В "Читай-городе" рассказали о продажах новой книги из серии "Голодных игр"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250404/pravitelstvo-2009437946.html">Правительство утвердило порядок создания реестра наставников для подростков</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250404/estoniya-2009437586.html">Эстония приостановит работу КПП на границе с Россией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250404/bratislava-2009437084.html">В Братиславе отметили 80-летие освобождения города от фашизма</a>
+</div><!--n:250404 2100:s:138020:e:2855-->
+<!----><h2>Подборка новостей на Пт 28 мар 2025 21:00</h2><!--2025-03-28 20:57:35-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250328/instruktor-2008044998.html">В Псковской области погиб инструктор стрелкового тира</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250328/myanma-2008044910.html">В столице Мьянмы продолжаются спасательные работы после землетрясения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250328/tramp-2008043791.html">Трамп надеется на хорошие отношения с Канадой, несмотря на пошлины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250328/gutsul-2008043371.html">Экс-генпрокурор Молдавии назвал арест Гуцул опасным сигналом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250328/tramp-2008043013.html">Трамп заявил, что Гренландия нужна США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250328/moskva-2008042721.html">На юге Москвы машина скорой влетела в остановку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250328/tramp-2008042610.html">Трамп заявил о прогрессе на переговорах по урегулированию на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250328/arest-2008042452.html">В Курcкой области арестовали общественника за неповиновение полиции</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250328/zelenskij-2008042242.html">Зеленский заявил, что Украина будет получать больше разведданных от ЕС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250328/gitis-2008042080.html">Мишустин подписал распоряжение о праздновании 150-летия ГИТИСа</a>
+</div><!--n:250328 2100:s:140912:e:2818-->
+<!----><h2>События на Сб 19 июл 2025 20:00</h2><!--2025-07-19 19:58:00-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250719/vetnam-2030191684.html">Число жертв крушения прогулочного катера во Вьетнаме возросло до 34</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250719/zaharova-2030191299.html">Захарова рассказала о работе над песней с рэпером Птахой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250719/donetsk-2030190749.html">При обстреле Киевского района Донецка пострадал мирный житель</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250719/dtp-2030190580.html">В Дагестане возбудили уголовное дело после ДТП с УАЗом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250719/dnr-2030190155.html">В Донецке почтили память комбата Гиви</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250719/sudno-2030190021.html">В АТОР сообщили подробности о перевернувшемся во Вьетнаме судне</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250719/aliev-2030189527.html">Алиев оценил шансы Армении стать транзитной страной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250719/moldaviya-2030188617.html">Симоньян сравнила решение ЦИК Молдавии с украинским путем к "демократии"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250719/bespilotniki-2030188213.html">ПВО сбила 27 украинских беспилотников над российскими регионами</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250719/aliev-2030188126.html">Баку и Ереван очень близки к подписанию мирного договора, заявил Алиев</a></div>
+</div><!--n:250719 2000:s:143767:e:2834-->
+<!----><h2>События на Сб 16 авг 2025 20:00</h2><!--2025-08-16 19:57:45-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250816/frantsiya-2035820751.html">"Несут чушь": французы пришли в ярость из-за заявлений лидеров ЕС о России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250816/ssha-2035820575.html">В США приостановили действие всех гостевых виз жителей Газы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250816/tramp-2035820390.html">СМИ: Трамп предположил, что Россия не против гарантий безопасности Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250816/zemletryasenie-2035820265.html">У Камчатки произошло землетрясение магнитудой 5,3</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250816/gagauzija-2035819925.html">В Гагаузии поддержали инициативы оппозиционного политика Шора</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250816/ekspert-2035819709.html">В США заявили о пересмотре условий решения конфликта на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250816/vstrecha-2035819267.html">Политолог рассказал, когда может состояться новая встреча Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250816/moskva-2035818711.html">День рождения Кришны отметили на фестивале "День Индии"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250816/pravitelstvo-2035818379.html">Правительство окажет поддержку Академии хореографии Севастополя и РГИСИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250816/tramp-2035818531.html">СМИ рассказали о разговоре Трампа с Зеленским и лидерами ЕС</a></div>
+</div><!--n:250816 2000:s:146638:e:2930-->
+<!----><h2>События на Пт 20 июн 2025 20:00</h2><!--2025-06-20 19:59:30-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024393491.html">Путин рассказал об ответах России на удары от недоброжелателей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024392651.html">Путин призвал закрыть тему приватизации раз и навсегда</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024392256.html">Путин попросил поддержать предложения по возврату иностранных компаний</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024392082.html">Путин оценил темпы роста промышленности в России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024391609.html">Торговые войны влияют на всех, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024391516.html">Путин рассказал о борьбе с инфляцией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024391274.html">Угрозы ядерным объектам в Иране требуют от России участия, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024391150.html">Путин рассказал о прогнозе инфляции по итогам 2025 года</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250620/putin-2024390537.html">Недоброжелатели страдают от попыток навредить России, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250620/plata-2024390222.html">Путин объяснил рост инфляции в России</a></div>
+</div><!--n:250620 2000:s:149605:e:2725-->
+<!----><h2>События на Сб 26 апр 2025 21:00</h2><!--2025-04-26 20:54:14-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250426/paraplanerist-2013625007.html">В Кабардино-Балкарии разбился парапланерист</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250426/port-2013624900.html">Число пострадавших при взрыве в иранском порту возросло до 750</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250426/iran-2013624753.html">Число погибших при взрыве в иранском порту выросло до 8</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250426/samolety-2013624580.html">Все ушедшие на запасные аэродромы рейсы вернулись в Сочи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250426/pogibshie-2013623691.html">У России есть данные о сотнях погибших в Суджанском районе, заявил Мирошник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250426/rogov-2013623338.html">Рогов прокомментировал слова Кличко о территориальных уступках</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250426/rossija-2013623053.html">Россия заинтересована в разрешении украинского кризиса, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250426/kiev-2013622638.html">В Киеве на мать школьника, слушавшего российскую музыку, составили протокол</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250426/estonija-2013622420.html">Власти Эстонии освободили задержанный танкер Kiwala</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:14</span> <a class="nodecor" href="https://ria.ru/20250426/zelenskiy-2013622168.html">Зеленский стал "голым королем" после освобождения Курщины, заявил Мирошник</a></div>
+</div><!--n:250426 2100:s:152367:e:2893-->
+<!----><h2>События на Сб 03 май 2025 21:00</h2><!--2025-05-03 20:57:19-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250503/armeniya-2014813000.html">В Армении вручили подарки ветерану, дошедшему до Берлина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250503/italija-2014812760.html">В Италии открыли Аллею памяти героев, сражавшихся с нацизмом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250503/ssha-2014811960.html">"Усмирить бешеную собаку": слова Зеленского вызвали тревогу в США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250503/izrail-2014811768.html">Израиль может расширить военную операцию в секторе Газа, пишет Bloomberg</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250503/siriya-2014811615.html">Нетаньяху отложил визит в Азербайджан из-за ситуации в Сирии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250503/bpla-2014811460.html">В Белгородской области при атаке БПЛА пострадала женщина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250503/orban-2014810736.html">Орбан пообещал лидеру АдГ поддержку Венгрии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250503/rubio-2014810375.html">Bloomberg: Рубио лишился союзника в Белом доме</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250503/pvo-2014810267.html">В Мурманской области сбили три беспилотника ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:13</span> <a class="nodecor" href="https://ria.ru/20250503/parad-2014809427.html">Патриарх Кирилл передал Алиеву приглашение на Парад Победы в Москве</a></div>
+</div><!--n:250503 2100:s:155297:e:2765-->
+<!----><!--2025-02-14 21:00:00--><h2>РИА Новости на Пт 14 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250214/zelenskiy-1999493844.html">СМИ: Зеленский отказался передать США права на минеральные ресурсы Украины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250214/armeniya-1999493458.html">Русский Дом и ереванский университет реализуют совместные мероприятия</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250214/anapa-1999492303.html">В горящем пансионате в Анапе находится волонтерский штаб</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250214/moskva-1999492204.html">Раненого оператора "Первого канала" доставили в Курскую областную больницу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250214/ataka-1999491953.html">Съемочная группа Первого канала подверглась атаке ВСУ в Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250214/vens-1999491732.html">Вэнс указал на важность начала диалога Москвы и Киева</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250214/vens-1999491610.html">Вэнс обозначил задачу начать в Мюнхене диалог по миру на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250214/pozhar-1999491506.html">При пожаре в пансионате в Анапе никто не пострадал</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250214/afganistan-1999491302.html">Афганистан назвал доклад об "Аль-Каиде" неточным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250214/ukraina-1999491022.html">Вэнс назвал целью США достижение устойчивого мира на Украине</a>
+</div><!--n:250214 2100:s:158099:e:2844-->
+<!----><h2>События на Ср 02 июл 2025 20:00</h2><!--2025-07-02 19:57:41-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250702/putin-2026816087.html">Путин попросил Савельева доложить о ходе строительства ВСМ Москва-Петербург</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250702/putin-2026815754.html">Путин попросил доложить о помощи бойцам СВО, оставшимся служить после травм</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250702/sud-2026815650.html">Суд Екатеринбурга арестовал восьмого фигуранта дела об ОПГ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250702/putin-2026815382.html">Путин попросил доложить о создании условий по образованию вдов бойцов СВО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250702/voz-2026814937.html">ВОЗ призвала страны мира повысить цены на табак и алкоголь</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250702/ssha-2026814766.html">США и Индия подпишут соглашение о сотрудничестве в сфере обороны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250702/zapad-2026814089.html">На Западе раскрыли, что стоит за разговором Путина с Макроном</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250702/peterburg-2026813763.html">В Петербурге ограничили скорость электросамокатов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250702/zakharova-2026813488.html">Захарова прокомментировала высказывания Рютте о Лаврове</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://ria.ru/20250702/krym-2026811668.html">Аксенов назвал миграционную политику вопросом национальной безопасности</a></div>
+</div><!--n:250702 2000:s:160980:e:2917-->
+<!----><h2>События на Вс 18 май 2025 21:00</h2><!--2025-05-18 20:51:48-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250518/pushilin-2017723946.html">Пушилин рассказал о задачах ВС России на константиновском направлении</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250518/zelenskij-2017723754.html">СМИ: Украина хочет убедиться, что Россия и США не поставят его перед фактом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250518/rumyniya-2017723448.html">В Приднестровье назвали предпочтительного кандидата на выборах в Румынии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250518/gaza-2017723062.html">Израиль планирует усилить оперативный контроль в секторе Газа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250518/svo-2017722232.html">Пушилин рассказал о продвижении ВС России в зоне СВО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250518/saldo-2017722004.html">При украинском обстреле пострадал житель Новой Каховки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:00</span> <a class="nodecor" href="https://ria.ru/20250518/es-2017721115.html">Сийярто назвал Украину самой коррумпированной страной в Европе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250518/zelenskij-2017720549.html">Зеленский снова попросил Трампа о военной помощи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250518/ukraina-2017719969.html">Орбан назвал вступление Украины в ЕС самой большой угрозой для Венгрии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250518/polsha-2017719295.html">Явка на выборах президента Польши превысила 50 процентов</a></div>
+</div><!--n:250518 2100:s:163934:e:2883-->
+<!----><h2>События на Вт 23 сен 2025 20:00</h2><!--2025-09-23 19:58:00-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250923/tatarstan-2043843982.html">В Татарстане детский омбудсмен покинула свой пост</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250923/muzykanty-2043843763.html">Индийские музыканты сыграют на джазовом фестивале в Геленджике</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250923/ivanovo-2043842377.html">В Ивановской области задержали лидера экстремистской организации</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250923/indonezija-2043842061.html">Индонезия готова отправить 20 тысяч миротворцев в Газу и на Украину</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250923/muzykant-2043840636.html">Бразильский музыкант оценил пляжи Геленджика</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250923/kitay-2043839275.html">Люди в Китае стали реже посещать концерты после пандемии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250923/vsu-2043839074.html">ВСУ не смогли закрепиться на Краснолиманском участке, заявил источник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250923/gelendzhik-2043838928.html">Музыкант из Китая Pени Бао был поражен видами Геленджика еще в самолете</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250923/gelendzhik-2043838674.html">Международный джазовый фестиваль проходит в Геленджике</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250923/tramp-2043838421.html">Трамп заявил, что поддерживает ООН</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://ria.ru/export/rss2/index.xml</div><!--n:250923 2000:s:166854:e:2905-->
+<!----><h2>События на Сб 05 июл 2025 20:00</h2><!--2025-07-05 19:59:25-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250705/staline-2027408709.html">Съезд КПРФ принял резолюцию о признании доклада Хрущева о Сталине ошибочным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250705/kprf-2027408413.html">КПРФ обратится к Путину с призывом переименовать Волгоград</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250705/most-2027407742.html">На Крымском мосту временно перекрыли движение</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250705/pulkovo-2027407590.html">"Пулково" обеспечивает оперативную отправку бортов после снятия ограничений</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250705/shikhaliev-2027407136.html">В Дербенте похоронили погибшего вместе с Гудковым подполковника</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250705/briks-2027406960.html">На саммите БРИКС обсудят создание облачного сервиса</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250705/gensek-2027406562.html">Генсек НАТО снова попытался шутить про Лаврова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250705/sochi-2027405431.html">В аэропорту Сочи задержали 25 рейсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250705/tekhas-2027404394.html">Число погибших при наводнении в Техасе выросло до 27</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250705/ukraina-2027404216.html">"Будет хуже". В Норвегии сообщили Украине плохие новости о поддержке Запада</a></div>
+</div><!--n:250705 2000:s:169796:e:2800-->
+<!----><h2>События на Ср 25 июн 2025 20:00</h2><!--2025-06-25 19:55:27-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250625/nilov-2025444967.html">Нилов рассказал, чем займется после исключения из ЛДПР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250625/putin-2025444660.html">Появились подробности гибели курского студента, награжденного Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250625/ukraina-2025444328.html">Глава МИД Белоруссии заявил о снижении интереса к теме Украины в мире</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250625/fas-2025443673.html">Wildberries получил предупреждение от ФАС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250625/saratov-2025441437.html">В аэропорту Саратова сняли ограничения для воздушных судов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250625/fas-2025441165.html">ФАС направила запросы 37 рыбодобывающим компаниям</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250625/erdogan-2025440961.html">Эрдоган прокомментировал решение НАТО увеличить расходы на оборону</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250625/udary-2025440670.html">Удары США по Ирану изолировали запасы обогащенного урана, сообщил Херш</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250625/avtoprom-2025440483.html">В России выросло производство легковых автомобилей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250625/rossiya-2025439625.html">Глава СПЧ призвал мигрантов, чьи дети не ходят в школы, уезжать из России</a></div>
+</div><!--n:250625 2000:s:172633:e:2831-->
+<!----><h2>События на Пт 25 апр 2025 21:00</h2><!--2025-04-25 20:59:48-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250425/minobrnauki--2013513222.html">В Минобрнауки заявили о непредвзятости к киргизским студентам </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250425/tramp-2013513623.html">Трамп уверен, что новая эскалация между Индией и Пакистаном разрешится</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250425/rvio-2013513331.html">РВИО опубликовало материалы о том, как СССР освободил Европу от нацизма</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250425/rossija-2013513017.html">В Австрии муниципальные власти поучаствовали в акциях России ко Дню Победы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250425/rastrata-2013512191.html">Гражданская жена миллиардера Тамирова отвергла обвинение в растрате</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250425/turtsiya-2013510738.html">В Стамбуле произошло землетрясение</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250425/moskalik-2013510381.html">Люди приносят цветы к месту гибели генерала Москалика</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250425/pozhar-2013509958.html">В Подмосковье вспыхнул пожар на складе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250425/kanada-2013509713.html">В Канаде назвали отношения с США наиболее актуальной проблемой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250425/dron-2013509594.html">Дрон ВСУ атаковал Пантелеймоновку в ДНР</a></div>
+</div><!--n:250425 2100:s:175501:e:2801-->
+<!----><h2>События на Вт 26 авг 2025 20:00</h2><!--2025-08-26 19:56:47-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250826/sovet-2037738487.html">РЖД провела заседание совета директоров</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250826/ukraina-2037737886.html">Украинцам до 22 лет разрешили выезд за границу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250826/ukraina-2037737676.html">В Сумах прогремел взрыв</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250826/polki-2037737263.html">В России могут создать "российские полки" с непродовольственными товарами</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250826/ukraina-2037737093.html">Гарантии США Украине зависят от отправки военных Европой, пишет FT</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250826/bolton-2037736796.html">Советник Трампа обвинил Болтона в раскрытии секретной информации</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250826/latviya-2037736223.html">Погранслужба Латвии пригрозила увольнениями за общение на русском языке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250826/reys-2037736134.html">Резервный борт Air China вылетел из Нижневартовска</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250826/ukraina-2037735954.html">Все расходы за конфликт на Украине легли на союзников по НАТО, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250826/tramp-2037735612.html">В конгрессе запросили альбом Эпштейна с предполагаемым рисунком Трампа</a></div>
+</div><!--n:250826 2000:s:178339:e:2793-->
+<!----><!--2025-01-30 21:00:00--><h2>РИА Новости на Чт 30 янв 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250130/naemnik-1996491253.html">РАР сообщило о гибели воевавшего на стороне Украины польского наемника </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250130/vsu-1996491142.html">Против боевиков ВСУ, причастных к обстрелу в Курской области, завели дело</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250130/port-1996491032.html">В Одесской области зафиксировали удары в порту Измаила</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250130/kostroma-1996490846.html">В Костроме задержали организатора серии лжеминирований</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250130/eksperty-1996490679.html">Эксперты МАГАТЭ в течение недели ежедневно слышали взрывы за пределами ЗАЭС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250130/kennedi-mladshiy-1996490301.html">Кеннеди-младший оценил угрозу от зависимости США от КНР в медицине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250130/kiev-1996490088.html">В Словакии заявили о готовности Киева обдумать транзит газа из Баку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://rsport.ria.ru/20250130/kompanija-1996489736.html">"Фонбет" подал иск против Анохина</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250130/meksika-1996489384.html">Мексика указала Google на пределы полномочий Трампа в переименовании залива</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250130/prigovor-1996489182.html">В Петербурге подросткам вынесли приговор за поджог покрышек</a>
+</div><!--n:250130 2100:s:181169:e:2870-->
+<!----><!--2025-02-17 21:00:00--><h2>РИА Новости на Пн 17 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250217/kallas-1999927308.html">Фадеев призвал Каллас оказать воздействие на Киев</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250217/sholts-1999927140.html">Шольц призвал ЕС продолжать поддерживать Украину</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250217/dtp-1999926676.html">На трассе "Нева" из-за ДТП перекрыли движение в сторону Москвы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250217/vsu-1999926426.html">В "Русском доме" разместят фотовыставки о зверствах ВСУ в Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250217/orban-1999926004.html">Россия и США обсудят экономику и технологии, а потом Украину, считает Орбан</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250217/sholts-1999924500.html">Шольц заявил, что его смущают дебаты о развертывании войск на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250217/zaharova-1999924303.html">Захарова посоветовала Европе озаботиться переговорами в защиту Дании</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250217/vsu-1999924018.html">Фадеев направил Каллас свидетельства преступлений ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250217/lisovets-1999923776.html">Стилист Лисовец сообщил, что у него обнаружили рак</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250217/front-1999923536.html">Купянский фронт находится в движении, заявил Ганчев</a>
+</div><!--n:250217 2100:s:184076:e:2790-->
+<!----><h2>События на Чт 10 июл 2025 20:00</h2><!--2025-07-10 19:59:43-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250710/ukraina-2028440451.html">Борьба с ТЦК сплотила украинский народ, считает бывший солдат ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250710/kekhman-2028438021.html">Кехману грозит до десяти лет лишения свободы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250710/kurs-2028437086.html">Официальный курс доллара упал ниже 78 рублей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250710/litva-2028436614.html">Самодельный дрон из фанеры загнал власти Литвы в укрытие </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250710/aeporty-2028436458.html">В трех московских аэропортах ввели ограничения на прием и выпуск самолетов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250710/kriptovalyuta-2028435992.html">Цена биткоина поднялась выше 112 тысяч долларов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250710/vetpomosch-2028435512.html">В Госдуме предложили создать единый короткий номер для вызова ветпомощи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250710/azerbaydzhan-2028434868.html">СЖР призвал содействовать освобождению сотрудников Sputnik Азербайджан</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250710/chichvarkin-2028434326.html">Чичваркин* появился в базе розыска МВД</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:16</span> <a class="nodecor" href="https://ria.ru/20250710/moskva-2028434160.html">Собянин сообщил об уничтожении еще одного БПЛА, летящего на Москву</a></div>
+</div><!--n:250710 2000:s:186903:e:2811-->
+<!----><!--2025-01-15 21:00:00--><h2>РИА Новости на Ср 15 янв 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250115/ssha-1993916060.html">Рубио заявил, что США должны быть участником переговоров по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250115/proezd-1993914820.html">Проезд по Московскому скоростному диаметру станет платным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250115/gaza-1993914558.html">В Израиле утвердят соглашение с ХАМАС по заложникам в Газе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250115/podozrevaemyj-1993914357.html">В Приангарье задержали подозреваемого в убийстве девушки</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250115/tramp-1993914219.html">Трамп заявил о желании продвигать мир через силу на Ближнем Востоке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250115/ssha-1993914046.html">США при Трампе хотят достичь баланса в отношениях с Китаем, заявил Рубио</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250115/daniya-1993913941.html">Премьер Дании обсудила с Трампом независимость Гренландии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250115/iran-1993913175.html">США не дадут Ирану создать ядерное оружие, заявил кандидат в госсекретари</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250115/postavki-1993912969.html">Западный журналист задался вопросом из-за рейтинга сильнейших армий мира</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250115/azal-1993912782.html">СК изучает системы разбившегося под Актау самолета</a>
+</div><!--n:250115 2100:s:189751:e:2858-->
+<!----><h2>События на Чт 17 июл 2025 20:00</h2><!--2025-07-17 19:58:46-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250717/shtraf-2029788966.html">Суд оштрафовал капитана перевернувшегося в Териберке судна</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250717/rossiya-2029788806.html">Bloomberg сообщил о "долгожданной победе" в российской экономике</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250717/moldaviya-2029788513.html">Гуцул назвала решение Апелляционной палаты Кишинева запугиванием оппозиции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250717/retsepty-2029788029.html">В Госдуме предложили обязать врачей печатать рецепты на принтере</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250717/putin-2029787447.html">Путин поручил представить предложения о снижении акциза на жидкую сталь</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250717/putin-2029787206.html">Путин присвоил звание Героя труда красноярскому аппаратчику-гидрометаллургу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250717/putin-2029785651.html">Путин наградил научного директора РВИО Мягкова медалью ордена</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250717/putin-2029785403.html">Путин наградил гендиректора "Русгидро" Виктора Хмарина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250717/putin-2029785001.html">Путин поручил создать центр по развитию управленческих команд</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250717/kuban-2029784807.html">На Кубани ликвидировали открытое горение 30 гектаров пшеницы</a></div>
+</div><!--n:250717 2000:s:192646:e:2926-->
+<!----><h2>Подборка новостей на Вт 15 апр 2025 21:00</h2><!--2025-04-15 20:59:03-->
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250415/belyaev-2011459779.html">Посла России вызвали в МИД Швеции</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250415/tramp-2011459680.html">В Белом доме рассказали о позиции Трампа по вопросу Китая</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250415/vsu-2011459393.html">Источник рассказал о попытках ВСУ проникнуть в Белгородскую область</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250415/rossiya-2011459304.html">В Белом доме заявили о возможном экономическом партнерстве с Россией</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250415/gosduma-2011458974.html">В Госдуме прокомментировали заявление Фицо о параде 9 мая в Москве</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250415/dtp-2011458763.html">В Омской области женщина погибла и трое мужчин пострадали в ДТП</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250415/putin-2011458574.html">Путин призвал тщательнее подходить к развитию инфраструктуры регионов</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250415/tramp-2011458480.html">Трамп уверен, что Россия хочет закончить конфликт на Украине</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250415/peru-2011458046.html">Экс-президента Перу приговорили к 15 годам тюрьмы</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250415/vengrija-2011457860.html">Глава МИД Венгрии назвал виновных в затягивании конфликта на Украине</a></div>
+</div><!--n:250415 2100:s:195609:e:2914-->
+<!----><!--2025-02-24 21:00:00--><h2>РИА Новости на Пн 24 фев 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250224/avdeevka-2001362282.html">В восстановленные в Авдеевке квартиры вернулись около 200 человек</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250224/tramp-2001362161.html">Трамп заявил, что может встретиться с Зеленским на этой неделе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250224/kanada-2001361841.html">Канада ввела санкции против 76 физических и юридических лиц из России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250224/kadyrov-2001361491.html">Кадыров поздравил свою мать с включением в очередной пакет санкций</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250224/madagaskar-2001360947.html">На Мадагаскаре более 20 человек стали жертвами наводнений</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250224/smolyaninov-2001360360.html">ФНС приостановила операции по счетам актера Смольянинова*</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250224/vatikan-2001360269.html">В Ватикане рассказали о состоянии Папы Римского</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250224/zelenskiy-2001360066.html">Зеленский возрождает Гитлера, заявила Захарова</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250224/ukraina-2001359887.html">На Западе раскрыли, что будет с Украиной к концу года</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250224/vzryvy-2001359730.html">В Херсоне прогремели взрывы</a>
+</div><!--n:250224 2100:s:198560:e:2719-->
+<!----><h2>События на Чт 03 июл 2025 20:00</h2><!--2025-07-03 19:59:52-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250703/putin-2027041646.html">Ушаков рассказал, как завершился разговор Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250703/ptenets-2027034961.html">Родившегося в ростовском парке птенца орлана назвали Трампом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250703/gosduma-2027040961.html">В Госдуму внесли проект о регулировании цифровых платформ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250703/ushakov-2027040359.html">Переговоры России и Украины останутся двусторонними, заявил Ушаков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250703/azerbaydzhan-2027040143.html">"Россия сегодня" обеспокоена условиями содержания работников Sputnik в Баку</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250703/minjust-2027039395.html">Минюст предложил создать единый реестр исполнительных документов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250703/putin-2027039106.html">Путин отметил роль России в становлении американской государственности</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250703/putin-2027038945.html">Путин и Трамп не обсуждали содержание нового раунда переговоров по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250703/tramp-2027038803.html">Трамп в беседе с Путиным ставил вопрос о прекращении боев на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250703/putin-2027038633.html">Путин заявил Трампу, что Россия будет добиваться своих целей на Украине</a></div>
+</div><!--n:250703 2000:s:201316:e:2964-->
+<!----><!--2025-01-20 21:00:00--><h2>РИА Новости на Пн 20 янв 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250120/tramp-1994703822.html">Трамп пообещал построить сильнейшую армию в мире</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250120/tramp-1994703336.html">Опрос: более 50% британцев не рады возвращению Трампа на пост президента</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250120/pozdravlenie-1994703126.html">В Финляндии двумя словами отреагировали на обращение Путина к Трампу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250120/tramp-1994702976.html">Трамп пообещал быть миротворцем и объединителем</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250120/soglashenie-1994702760.html">США выйдут из Парижского соглашения по климату, заявили в Белом доме</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250120/tramp-1994702610.html">Трамп пообещал направить войска на южную границу США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250120/vsu-1994702442.html">"Без разбора": зверства ВСУ в Курской области вызвали возмущение на Западе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250120/tramp-1994701957.html">В Госдуме оценили планы Трампа по урегулированию конфликта на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250120/ssha-1994701750.html">США остаются враждебным для России государством, заявил Клишас</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250120/tramp-1994701333.html">Трамп пообещал признать только два гендера в США</a>
+</div><!--n:250120 2100:s:204317:e:2814-->
+<!----><h2>События на Вс 08 июн 2025 20:00</h2><!--2025-06-08 19:59:02-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250608/livneka-2021664538.html">На юге Москвы мужчину засосало в решетку канализации</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250608/deti-2021663965.html">Дептранс напомнил, что в жару оставлять детей в машине без присмотра опасно</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250608/moskva-2021662815.html">Москвичей предупредили о возможных задержках наземного транспорта</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250608/zatoplenie-2021662697.html">В Подмосковье устраняют затопление на участке Пироговского шоссе </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250608/ukraina-2021662410.html">Захарова напомнила Зеленскому, что Киев до сих пор не забрал 6 тысяч тел</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250608/ataka-2021661950.html">В Белгородской области два человека пострадали при атаке ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250608/zelenskiy-2021663194.html">Зеленский обрушился на США с дерзким упреком</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250608/serbiya-2021661346.html">В Сербии обновят храм, построенный в память о русских добровольцах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:15</span> <a class="nodecor" href="https://ria.ru/20250608/ssha-2021660035.html">Глава РФПИ назвал беспорядки в Лос-Анджелесе результатом политики Байдена</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:13</span> <a class="nodecor" href="https://ria.ru/20250608/palomniki-2021659767.html">Более 200 паломникам в Румынии потребовалась медицинская помощь</a></div>
+</div><!--n:250608 2000:s:207168:e:2915-->
+<!----><h2>События на Ср 07 май 2025 21:00</h2><!--2025-05-07 20:57:26-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250507/tramp-2015688533.html">Трамп заявил, что пора принимать решения по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250507/mid--2015688041.html">МИД назвал Украину единственным препятствием к перемирию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250507/tramp-2015687942.html">Трамп заявил, что Вторую мировую войну выиграли США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250507/putin-2015687784.html">Встреча Путина с президентом Монголии Хурэлсухом завершилась</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250507/rossiya-2015687641.html">Россия никогда не была против прекращения огня на Украине, заявили в МИД</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250507/vstrecha-2015676484.html">Путин провел переговоры с президентом Монголии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250507/tusk-2015686949.html">Польша не будет добиваться от Германии военных репараций, заявил Туск</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250507/rossija-2015686281.html">Три страны запретили пролет спецборта Фицо в Россию, пишет Pravda</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250507/kadyrov-2015685668.html">Кадыров рассказал об итогах встречи с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250507/tusk-2015685443.html">Туск призвал Мерца сосредоточиться на охране внешних границ ЕС</a></div>
+</div><!--n:250507 2100:s:210120:e:2792-->
+<!----><h2>События на Пн 25 авг 2025 20:00</h2><!--2025-08-25 19:59:26-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250825/tramp-2037542907.html">Трамп предложил провести саммит Южной Кореи и КНДР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250825/turtsija-2037542695.html">Турция обещает продолжить и ночью поиски пропавшего в Босфоре россиянина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250825/tramp-2037542232.html">Трамп заявил, что общался с Путиным на прошлой неделе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250825/sud-2037541073.html">Суд продлил арест экс-вице-премьеру Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250825/kiev-2037540662.html">"Будет разрушена": в Германии раскрыли, на что в отчаянии решился Зеленский</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250825/solntse-2037540272.html">На Солнце зафиксировали десять вспышек за день</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250825/bosfor-2037539881.html">Водолазов привлекли к поиску пропавшего в Босфоре россиянина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250825/dagestan-2037539397.html">В Дагестане рассказали о детях, отравившихся на турбазе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250825/rjazan-2037538675.html">После ЧП на предприятии в Рязанской области 37 человек остаются в больницах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250825/britaniya-2037538406.html">В Британии три человека погибли при крушении вертолета</a></div>
+</div><!--n:250825 2000:s:212949:e:2808-->
+<!----><h2>События на Чт 29 май 2025 20:00</h2><!--2025-05-29 19:59:33-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250529/putin-2019857610.html">Путин отметил заслуги бывшего премьера Японии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250529/bezopasnost-2019856840.html">Россия предлагает новую формулу международной безопасности, заявил Яковенко</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250529/dagestan-2019857141.html">Террористам и экстремистам не будет пощады, заявил глава Дагестана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250529/tramp-2019857046.html">Суд заблокировал указы Трампа о введении пошлин в отношении Китая</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250529/volodin-2019856692.html">Володин отчитался о принятых законах по борьбе с нелегальной миграцией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250529/gosizmena-2019855951.html">Житель ДНР получил 13 лет лишения свободы за госизмену</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250529/lenin-2019854912.html">Реставрация в Мавзолее Ленина не затронет главный зал</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250529/muftiy-2019854673.html">Глава ДУМ Ростовской области рассказал о муфтии, задержанном ФСБ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:12</span> <a class="nodecor" href="https://ria.ru/20250529/putin-2019853886.html">Путин встретился с вдовой экс-премьера Японии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250529/peregovory-2019853444.html">МИД Украины не стал отвечать на вопрос о поездке делегации в Турцию</a></div>
+</div><!--n:250529 2000:s:215794:e:2863-->
+<!----><h2>События на Ср 06 авг 2025 20:00</h2><!--2025-08-06 19:59:22-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250806/buyvol-2033803477.html">Буйвол убил миллионера во время сафари</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250806/putin-2033802798.html">Путин назвал Комсомольск-на-Амуре оплотом машиностроения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250806/ssha-2033802686.html">Пятеро военных ранены в ходе стрельбы на американской базе Форт Стюарт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250806/uitkoff-2033802594.html">СМИ: Белый дом оценил встречу Путина и Уиткоффа в России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250806/mvd-2033802442.html">Мошенники создают фишинговые ресурсы, имитирующие сайты моргов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250806/zapad-2033802248.html">В Раде назвали западное оружие металлоломом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250806/sukhum-2033801826.html">Тестовый рейс судна из Сочи в Сухум встретили Кириенко и президент Абхазии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250806/gutsul-2033801522.html">Бывший оппонент Гуцул осудил политическую расправу над ней</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250806/putin-2033801223.html">Путин оценил планы развития Челябинской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250806/drezden-2033801068.html">В Дрездене обезвредили бомбу времен Второй мировой войны</a></div>
+</div><!--n:250806 2000:s:218694:e:2768-->
+<!----><h2>События на Чт 08 май 2025 21:00</h2><!--2025-05-08 20:55:35-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250508/vov-2015872481.html">Бойцы "Днепра" восстановили памятник героям ВОВ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250508/ukraina-2015871941.html">На Украине впали в истерику из-за произвола со стороны США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250508/pobeda-2015871690.html">Решающая роль в победе над нацизмом принадлежит СССР, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250508/telegram-kanal-2015871336.html">Участники СВО поблагодарили Медведева за его Telegram-канал</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250508/frantsiya-2015870888.html">Во Франции почтили память двух советских солдат</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250508/zayavlenie-2015870703.html">Россия и Китай договорились наращивать студенческие обмены</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250508/moslift-2015870333.html">"Мослифт" опроверг сообщения об отключении лифтов 9 мая</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250508/putin-2015869429.html">Путин поблагодарил лидеров государств за приезд в Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250508/poslaniya-2015869110.html">Российские военные отправили послания соотечественникам за рубежом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250508/intervidenie-2015868091.html">Россия и Китай будут поощрять участие своих представителей в "Интервидении"</a></div>
+</div><!--n:250508 2100:s:221499:e:2835-->
+<!----><h2>События на Чт 19 июн 2025 20:00</h2><!--2025-06-19 19:59:06-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250619/obstrel-2024038057.html">ВСУ при обстреле повредили храм в ДНР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250619/ukraina-2024037819.html">Мобилизованный умер в военкомате на западе Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250619/mintrans-2024037186.html">Минтранс выразил готовность содействовать молдавским автоперевозчикам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250619/iran-2024036949.html">Иран может сковать США, перекрыв Ормузский пролив, пишет NYT</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250619/pmef-2024036571.html">Кузбасс подпишет соглашения на 50 миллиардов рублей на полях ПМЭФ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250619/rossija-2024035359.html">Россия и Индонезия будут сотрудничать в исследовании космоса</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250619/vsu-2024034951.html">При атаке дрона ВСУ пострадал житель Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250619/armenija-2024034753.html">Представители омбудсмена в Армении посетили Карапетяна в СИЗО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250619/peskov-2024034524.html">Песков прокомментировал ситуацию на Ближнем Востоке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250619/opasnost-2024034379.html">В Курской области объявили опасность атаки беспилотников</a></div>
+</div><!--n:250619 2000:s:224371:e:2788-->
+<!----><h2>События на Пн 21 июл 2025 20:00</h2><!--2025-07-21 19:58:43-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250721/dron-2030493148.html">Дрон ВСУ нанес удар по многоквартирному дому в Горловке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250721/sk-2030492987.html">Под Волгоградом умерла женщина, так как у скорой не было лекарств</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250721/opros-2030492835.html">Две трети румын считают Чаушеску хорошим лидером, показал опрос</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250721/tramp-2030491563.html">Зампосланника Трампа рассказал, как пил водку с Лукашенко</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250721/ukraina-2030489470.html">СБУ изъяла материалы о следствии в отношении окружения Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250721/moskva-2030487298.html">В Москве пресекли деятельность ОПГ, легализовавшей более тысячи мигрантов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250721/aeroport-2030487097.html">В аэропорту Калуги сняли временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:16</span> <a class="nodecor" href="https://ria.ru/20250721/chp-2030486094.html">Умерла актриса Татьяна Егорова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:12</span> <a class="nodecor" href="https://ria.ru/20250721/oppozitsija-2030484908.html">В Италии назвали отмену концерта Гергиева противоположностью демократии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250721/rossiya-2030484410.html">Министр обороны Ирана участвовал в переговорах Путина и Лариджани</a></div>
+</div><!--n:250721 2000:s:227196:e:2829-->
+<!----><h2>Подборка новостей на Вс 13 апр 2025 21:00</h2><!--2025-04-13 20:53:34-->
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250413/zelenskiy-2011044740.html">В Раде раскрыли подлую затею Зеленского в отношении России</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250413/kosmos-2011044251.html">Первый кубинский космонавт оценил влияние России в освоении космоса</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250413/alkogol-2011043796.html">Эксперт составила портрет среднестатистического алкоголика в России</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250413/sovetnik-2011043530.html">Советник Трампа перепутал КНДР с Южной Кореей</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250413/vsu-2011043292.html">ВСУ нанесли массированный удар по Каменке-Днепровской в Запорожской области</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250413/bpla-2011042933.html">Губернатор Брянской области рассказал о ситуации после атаки БПЛА</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250413/ssha-2011042739.html">Посольство США в Ереване призвало армян-нелегалов покинуть Штаты</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250413/kamery-2011042354.html">В Узбекистане мужчина повредил более 50 видеокамер на дорогах</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:15</span> <a class="nodecor" href="https://ria.ru/20250413/vsu-2011042186.html">В Белгородской области водитель грузовика погиб при ударе украинского БПЛА</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:07</span> <a class="nodecor" href="https://ria.ru/20250413/ssha-2011041727.html">Экономика приграничных с Канадой городов США оказалась на грани выживания</a></div>
+</div><!--n:250413 2100:s:230062:e:3017-->
+<!----><h2>События на Пн 26 май 2025 20:00</h2><!--2025-05-26 19:58:45-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250526/tailnand-2019203028.html">Бывшая жена Паши Техника не явилась в полицейский участок</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250526/rossiya-2019202742.html">Запад нуждается в исторической терапии, заявил Лукашевич</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250526/ekspert-2019202512.html">Эксперт оценил возможные поставки Киеву ракет Taurus</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250526/sk-2019201170.html">Жителя Рязани заподозрили в непристойных действиях в отношении ребенка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250526/sud-2019200003.html">Сына президента Всероссийского общества слепых арестовали в Казани</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250526/chp-2019199789.html">В Ростове-на-Дону из-за сильного ветра пострадали две женщины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250526/gosduma-2019198128.html">В Госдуму внесли проект о допуске студентов к преподаванию в школах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250526/putin-2019197581.html">Путин поинтересовался, почему в Белоруссии закончился картофель</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250526/avto-2019197384.html">Минпромторг смягчил требования по программе "Семейный автомобиль"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250526/putin-2019197234.html">Путин принял главу МИД Турции в Москве</a></div>
+</div><!--n:250526 2000:s:233116:e:2825-->
+<!----><h2>События на Пт 01 авг 2025 20:00</h2><!--2025-08-01 19:57:25-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250801/vsu-2032910874.html">В Белгородской области при атаке ВСУ пострадали два мирных жителя</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250801/tailand-2032910677.html">Таиланд показал иностранным военным атташе последствия атак Камбоджи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250801/pauerlifter-2032910553.html">У пауэрлифтера полилась кровь из глаз во время соревнований</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250801/pravitelstvo-2032910408.html">Правительство утвердило порядок введения внешнего управления в компаниях</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250801/afganistan-2032910166.html">Афганистан опроверг информацию о возвращении в страну террористов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250801/putin-2032910005.html">Путин поприветствовал участников Фестиваля "Таврида-АРТ"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250801/rossiyane-2032909851.html">Россияне смогут оформить электронную подпись в Армении </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250801/ssha-2032909239.html">В США начали расследование из-за импорта палладия из России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250801/sakhalin-2032908768.html">Рыбакам на Сахалине не стоит бояться акул, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://ria.ru/20250801/pamyat-2032908521.html">В Сербии почтили память русских воинов, погибших в годы Первой мировой</a></div>
+</div><!--n:250801 2000:s:235978:e:2915-->
+<!----><!--2025-01-28 21:00:00--><h2>РИА Новости на Вт 28 янв 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1996000762.html">В подписании документов с Киевом не должно быть промахов, заявил Путин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250128/voyna-1996000625.html">Запад уговорил Киев продолжать войну, заявил Путин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1996000481.html">Путин заявил о сигналах Байдену по урегулированию на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1995999915.html">Конфликт на Украине может завершиться через два месяца, заявил Путин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250128/zelenskij-1995999737.html">Путин заявил, что Зеленский не имеет права ничего подписывать</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1995999639.html">Путин выразил готовность назначить переговорщиков для диалога с Зеленским</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1995999543.html">Киев предлагал закончить переговоры встречей президентов, заявил Путин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1995999426.html">Москва понимала возможность обмана на переговорах с Киевом, заявил Путин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1995999174.html">Путин назвал стамбульские договоренности основанными на предложениях Киева</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250128/putin-1995999013.html">Переговоры с Киевом прямо сейчас будут нелегитимны, заявил Путин</a>
+</div><!--n:250128 2100:s:238930:e:2918-->
+<!----><h2>События на Вт 05 авг 2025 20:00</h2><!--2025-08-05 19:58:10-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250805/tramp-2033564083.html">Трамп пошутил о возможном размещении ядерных ракет на крыше Белого дома</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250805/kadyrov-2033563923.html">Кадыров поручил усилить борьбу с распространением клеветы в соцсетях</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250805/ukraina-2033562942.html">"В пакетик": на Украине судья попался на взятке в яблоках</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250805/sud-2033562668.html">В Чувашии главу "Лидера" осудили за растрату 430 миллионов рублей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250805/dtp-2033562483.html">В Ростовской области при столкновении поезда и автомобиля пострадали двое</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250805/rossiya-2033559664.html">Россия разочаровалась решением суда БиГ по Додику</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250805/chp-2033557361.html">Замначальника Волгоградского ЛУМВД на транспорте обвинили во взятке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250805/rossiya-2033556802.html">Замминистра обороны России провел переговоры с послом Индии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250805/ukraina-2033556596.html">Посольство России прокомментировало закупку Данией оружия для Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250805/ssha-2033556390.html">Трамп предлагал ввести войска США в Мексику, заявила президент страны</a></div>
+</div><!--n:250805 2000:s:241885:e:2924-->
+<!----><h2>События на Вс 10 авг 2025 20:00</h2><!--2025-08-10 19:58:53-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250810/zemletryasenie-2034464518.html">В Стамбуле произошло землетрясение</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250810/vzryvy-2034464222.html">В Херсоне прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250810/chp-2034463981.html">Постановки Юрия Бутусова стали целой эпохой в мире театра, заявили в ГИТИС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250810/iran-2034463822.html">Иран и МАГАТЭ проведут переговоры о новых формах взаимодействия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250810/frantsija-2034463579.html">Подозреваемому в нападении на мэра коммуны во Франции предъявили обвинение</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250810/armeniya-2034463058.html">Бердымухамедов поздравил Алиева с подписанием декларации с Ереваном</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250810/es-2034462176.html">В Совфеде заявили, что ЕС и Киев не заинтересованы в переговорах на Аляске</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:16</span> <a class="nodecor" href="https://ria.ru/20250810/ataka-2034461359.html">В белгородском поселке Уразово при атаке украинских дронов поврежден храм</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:13</span> <a class="nodecor" href="https://ria.ru/20250810/zelenskiy-2034460992.html">"Гарантировано потеряет". На Западе жестко поставили Зеленского на место</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250810/bpla-2034460831.html">В Коми сняли режим опасности из-за полетов беспилотников</a></div>
+</div><!--n:250810 2000:s:244846:e:2876-->
+<!----><h2>События на Вс 04 май 2025 21:00</h2><!--2025-05-04 20:52:06-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250504/moskva-2014925317.html">Москвичей предупредили о сильном ветре в понедельник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250504/aeroport-2014924125.html">В архангельских аэропортах ввели временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250504/rubl-2014923717.html">Эксперт рассказал, когда россияне смогут расплачиваться цифровым рублем</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250504/dtp-2014922747.html">Во Владимире в ДТП пострадали трое медиков и водитель скорой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250504/lavrov-2014922608.html">Лавров обсудил с главой МИД Пакистана ситуацию между Нью-Дели и Исламабадом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:15</span> <a class="nodecor" href="https://ria.ru/20250504/tramp-2014921694.html">Увольнение Уолтца не было наказанием, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:15</span> <a class="nodecor" href="https://ria.ru/20250504/rumyniya-2014921553.html">Явка на выборах президента Румынии превысила 50 процентов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:07</span> <a class="nodecor" href="https://ria.ru/20250504/khegset-2014920809.html">Хегсету не грозит увольнение из-за скандала с утечкой, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:06</span> <a class="nodecor" href="https://ria.ru/20250504/rossiya-2014920573.html">"Игра в покер": на Западе раскрыли правду о России, Китае и США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:04</span> <a class="nodecor" href="https://ria.ru/20250504/putilkovo-2014920418.html">В Путилково два автомобиля столкнулись во дворе дома</a></div>
+</div><!--n:250504 2100:s:247759:e:2844-->
+<!----><!--2025-02-20 21:00:00--><h2>РИА Новости на Чт 20 фев 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250220/lavrov-2000653108.html">Лавров обсудил Украину с индийским коллегой</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250220/dron-2000652528.html">В огороды жителей хутора на Кубани упали обломки дрона ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250220/samoubiystvo-2000652379.html">Глава Самарской области опроверг слухи о своем самоубийстве</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250220/volodin-2000652187.html">Володин рассказал о последствиях ухода зарубежных компаний из России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250220/bond-2000651860.html">Продюсеры "бондианы" отдают творческий контроль над франшизой</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250220/kareliya-2000651322.html">Глава Карелии попросил российские власти снизить плату за свет в регионе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250220/mask-2000651028.html">Маск назвал Зеленского диктатором</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250220/mask-2000650402.html">Маск предложил вернуть МКС с орбиты</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250220/pevtsov-2000649569.html">Новый худрук "Ленкома" предложил Певцову вернуться в театр</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250220/abhazija-2000649409.html">В Абхазии восстановили электроснабжение после аварии на ЛЭП</a>
+</div><!--n:250220 2100:s:250640:e:2712-->
+<!----><h2>События на Чт 04 сен 2025 20:00</h2><!--2025-09-04 19:58:51-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250904/es-2039770868.html">Моди обсудил с лидерами ЕС урегулирование на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250904/mid-2039770035.html">МИД России опроверг данные о невыплатах страховки после крушения борта AZAL</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250904/rossiya-2039769028.html">В Париже появились плакаты, посвященные памяти советским воинам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250904/chp-2039768758.html">Житель Владикавказа погиб после конфликта с водителем маршрутки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250904/oragutan-2039766550.html">В Московском зоопарке умер 43-летний орангутан</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250904/ukraina-2039766386.html">СМИ: на Украине пять человек обвинили в коррупции при закупках ПО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250904/zelenskiy-2039765811.html">Зеленский сделал новое заявление о европейских войсках на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250904/rossiya-2039765189.html">Небензя призвал учитывать новые территориальные реалии на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://ria.ru/20250904/rossiya-2039764862.html">Москалькова рассказала о воссоединении семи семей в России и на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250904/solntse-2039764625.html">На Солнце произошла сильная вспышка</a></div>
+</div><!--n:250904 2000:s:253389:e:2843-->
+<!----><!--2025-03-11 21:00:00--><h2>РИА Новости на Вт 11 мар 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250311/ssha-2004411809.html">В Белом доме прокомментировали отношения США и Канады</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250311/granata-2004411514.html">На Украине мужчина взорвал гранату возле ж/д вокзала</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250311/tramp-2004411402.html">Белый дом заявил, что Трамп не следит за состоянием фондового рынка США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250311/ssha-2004411035.html">В Белом доме рассказали о встрече делегаций Украины и США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250311/ssha-2004410275.html">Белый дом прокомментировал колебания фондового рынка США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250311/tramp-2004409711.html">Трамп пока не созванивался с избранным премьером Канады, заявил Белый дом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250311/poshliny-2004409599.html">Избранный премьер Канады ответил на повышение пошлин Трампом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250311/dzheordzhesku-2004409373.html">Суд в Румынии подтвердил отказ ЦИК в регистрации Джеорджеску</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250311/poshliny-2004409285.html">США повысят пошлины на сталь и алюминий из Канады до 50 процентов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250311/ataka-2004409113.html">В ООН осудили масштабную атаку беспилотников ВСУ на российские регионы</a>
+</div><!--n:250311 2100:s:256269:e:2834-->
+<!----><h2>События на Сб 09 авг 2025 20:00</h2><!--2025-08-09 19:57:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250809/kazakhstan-2034362421.html">Российского туриста эвакуировали с перевала Гляциологов в Казахстане</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250809/moskva-2034361565.html">В Москве в аварии погибли мотоциклист и пассажир</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250809/ukraina-2034361382.html">СМИ: экс-замглавы полиции Одесской области сбежал за границу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250809/evropa-2034360770.html">NYT: Европа обеспокоена переговорами Путина и Трампа по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250809/deklaratsiya-2034361238.html">Рахмон поздравил Алиева и Пашиняна с подписанием декларации</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250809/tramp-2034361095.html">На Западе выступили с громким призывом к Трампу перед встречей с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250809/vstrecha-2034360576.html">Эксперт: ЕС и Украина могут сорвать результаты встречи Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://ria.ru/20250809/simonjan-2034359599.html">Симоньян назвала основные качества журналиста</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250809/belgorod-2034359333.html">ВСУ обстреляли 11 населенных пунктов в Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:11</span> <a class="nodecor" href="https://ria.ru/20250809/vsu-2034359124.html">ПВО сбила 35 беспилотников над российскими регионами</a></div>
+</div><!--n:250809 2000:s:259140:e:2847-->
+<!----><h2>События на Вт 09 сен 2025 20:00</h2><!--2025-09-09 19:57:32-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250909/nepal-2040777806.html">Звуки выстрелов слышны в туристическом городе Непала, рассказала россиянка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250909/frantsiya-2040776870.html">Эксперт предположил, что Франция находится на пороге Шестой республики</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250909/tramp-2040776661.html">Трамп: решение конфликта на Украине осложнилось из-за Путина и Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250909/nepal-2040776212.html">Эксперт назвал причины массовых протестов в Непале</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250909/raskhody-2040775442.html">Каллас рассказала почти пустому залу о тратах ЕС на Украину</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250909/nepal-2040775137.html">Россияне не пострадали при беспорядках в Непале, сообщил МИД</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250909/mid-2040774440.html">МИД рекомендовал россиянам не посещать Непал до стабилизации обстановки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250909/nepal-2040774012.html">Российская туристка рассказала о ситуации в Непале</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250909/nepal-2040773678.html">СМИ сообщают о поджогах на границе Непала и Индии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250909/nepal-2040773356.html">Россия выступает за мирное разрешение кризиса в Непале</a></div>
+</div><!--n:250909 2000:s:262024:e:2860-->
+<!----><h2>События на Сб 28 июн 2025 20:00</h2><!--2025-06-28 19:59:01-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250628/iran-2026050610.html">Иран продлил закрытие воздушного пространства</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250628/odessa-2026050457.html">Мэр Одессы устроил скандал с военнослужащим ВСУ из-за Пушкина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250628/moldaviya-2026050297.html">Посол в Молдавии призвал к пересмотру решения о закрытии "Русского дома"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250628/ukraina-2026049919.html">В Харькове прогремел взрыв</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250628/irkutsk-2026049324.html">В Иркутске приготовили самый большой в России торт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250628/ssha-2026048409.html">Белый дом намерен надавить на судей, пишет Washington Post</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250628/serbiya-2026047589.html">Сербские студенты перекрыли площадь в центре Белграда</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:11</span> <a class="nodecor" href="https://ria.ru/20250628/vsu-2026046613.html">ВСУ обстреляли восемь населенных пунктов в Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://ria.ru/20250628/vsu-2026044286.html">На Сумском направлении нашли несуществующую бригаду ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:43</span> <a class="nodecor" href="https://ria.ru/20250628/zelenskiy-2026042674.html">Во Франции вспомнили прошлое Зеленского из-за наряда на саммите НАТО</a></div>
+</div><!--n:250628 2000:s:264921:e:2741-->
+<!----><!--2025-02-03 21:00:00--><h2>РИА Новости на Пн 03 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250203/mvd-1997187299.html">В Ростове-на-Дону ищут мужчину, пытавшегося поджечь торговые павильоны </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250203/tramp-1997187171.html">Трамп назначил Стива Уиткоффа спецпредставителем по России и Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250203/gladkov-1997186951.html">ВСУ повредили предприятие и два автомобиля в Белгородской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250203/dtp-1997186484.html">На Ставрополье произошло ДТП с пятью автомобилями</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250203/finlyandiya-1997186327.html">Финский журналист назвал инструкции для наемников русофобским угаром</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250203/voz-1997184680.html">ВОЗ начала первое испытание вакцины против Эболы в Уганде</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250203/putin-1997183686.html">Путин наградил медалями работников стратегически важного предприятия ГХК</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250203/bobry-1997183569.html">Бобры за два дня сэкономили правительству Чехии 121 миллион рублей</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250203/ssha-1997183245.html">В США рассматривают введение пошлин в отношении Евросоюза, пишет Telegraph</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:07</span> <a class="nodecor" href="https://ria.ru/20250203/tramp-1997182931.html">Трамп планирует объединить USAID с Госдепом, сообщил CBS</a>
+</div><!--n:250203 2100:s:267699:e:2868-->
+<!----><h2>События на Чт 18 сен 2025 20:00</h2><!--2025-09-18 19:58:24-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250918/vypad-2042831103.html">На Западе осадили Келлога из-за дерзкого выпада в адрес России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250918/pashinyan-2042830892.html">Экс-президент Армении обвинил Пашиняна в разрушении страны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250918/italija-2042830256.html">Италия не будет отправлять истребители в Польшу, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250918/putin-2042829314.html">Путин поддержал идею усилить контроль за тарифами в регионах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250918/ajachcho-2042829075.html">Самолет во Франции полчаса кружил над городом из-за уснувшего диспетчера</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250918/taksi-2042828929.html">Цены на такси в центре Москвы выросли в на фоне ограничений в метро</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250918/frantsiya-2042828498.html">На массовых протестах во Франции задержали более 180 человек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250918/livan-2042828090.html">Израильские ВВС нанесли удары населенным пунктам на юге Ливана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250918/kiev-2042827610.html">В Киеве вновь объявили воздушную тревогу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250918/torgovlya-2042827053.html">Объем торговли России с Малайзией продолжает расти, заявил посол</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://ria.ru/export/rss2/index.xml</div><!--n:250918 2000:s:270604:e:2946-->
+<!----><h2>События на Пн 12 май 2025 21:00</h2><!--2025-05-12 20:55:01-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250512/peregovory-2016576682.html">Фидан и Рубио обсудили переговорный процесс между Россией и Украиной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250512/zakharova-2016576523.html">Захарова задалась вопросом, в чем состоит "единство" Европы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250512/mahachkala-2016576199.html">Арестованный за нападение на полицейских в Махачкале остается в больнице</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250512/simonyan-2016575714.html">Аудитория RT выросла после введения санкций, заявила Симоньян</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250512/putin-2016575469.html">Путин положил конец гегемонии Запада, заявила Симоньян</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250512/gosduma-2016575261.html">Санду пытается уничтожить оппонентов перед выборами, заявили в Госдуме</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250512/simonyan-2016575055.html">Симоньян высказалась о диктатуре Запада из-за санкций</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250512/germanija-2016574850.html">В Германии призвали Украину принять предложение России о переговорах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250512/ukraina-2016574161.html">В ООН оценили инициативы о прямых переговорах России и Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250512/erdogan-2016573880.html">Турция поддержит переговоры по Украине на каждом этапе, заявил Эрдоган</a></div>
+</div><!--n:250512 2100:s:273587:e:2933-->
+<!----><!--2025-03-13 21:00:00--><h2>РИА Новости на Чт 13 мар 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250313/odessa-2004873059.html">Киев пообещал изучить решение ЕСПЧ по трагедии в Одессе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250313/arest-2004872788.html">Суд арестовал директора нижегородского филиала РАНХиГС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250313/peremirie-2004872622.html">На Западе оценили слова Путина о перемирии на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250313/amerikantsy-2004872168.html">Опрос показал отношение американцев к расширению территорий США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250313/perevooruzhenie-2004871819.html">Bloomberg: перевооружение членов НАТО в Европе растянется на десятилетие</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250313/ufa-2004871652.html">Экологи спасают лебедя-кликуна, увязшего в  нефти около завода в Уфе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250313/tramp-2004871225.html">Трамп заявил, что США не нужны товары и услуги из Канады</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250313/tramp-2004870683.html">Трамп назвал слова Путина о возможном прекращении огня многообещающими</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250313/niger-2004870520.html">Маск запустил Starlink в Нигере</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250313/kurs-2004870005.html">Лидер оппозиции в Румынии заявила, что продолжит курс Джорджеску</a>
+</div><!--n:250313 2100:s:276557:e:2769-->
+<!----><h2>События на Пт 23 май 2025 20:00</h2><!--2025-05-23 19:56:31-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250523/bild-2018770111.html">Восемь человек пострадали после нападения с ножом на вокзале в Гамбурге </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250523/oon-2018769818.html">Генсек ООН пригласил папу Римского посетить организацию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250523/oon-2018769615.html">В ООН поприветствовали обмен пленными между Россией и Украиной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250523/rossija-2018769416.html">Лавров рассказал о работе над документами по урегулированию на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250523/armenija-2018769243.html">Экс-глава МО Армении высказался о закупке западного вооружения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250523/sumy-2018769071.html">Москалькова заявила о более 30 курянах, удерживаемых Украиной в Сумах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250523/ukraina-2018768473.html">Минобороны показало видео возвращения гражданских лиц из украинского плена</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250523/lavrov-2018767946.html">Лидеры ЕС надеются вернуть Трампа в антироссийский лагерь, заявил Лавров</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250523/putin-2018767594.html">Путин рассказал о привлечении студенческих КБ к развитию космической сферы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250523/ukraina-2018767386.html">Россия ждет реакции ООН на украинские атаки, заявил Лавров</a></div>
+</div><!--n:250523 2000:s:279363:e:2967-->
+<!----><!--2025-02-06 21:00:00--><h2>РИА Новости на Чт 06 фев 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250206/sevastopol-1997840032.html">Севастополю возместят расходы из-за последствий урагана</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250206/kravtsov-1997838831.html">Кравцов призвал анализировать выпуск высокобалльников из школ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250206/gas-1997836282.html">Меркель сделала дерзкое заявление о российском газе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250206/pozhar-1997835833.html">В многоквартирном доме в Дербенте загорелся лифт</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250206/pozhar-1997835451.html">В Пскове загорелся автосервис</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250206/svetofor-1997834627.html">В магазинах сети "Светофор" выявили нарушения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250206/proekt-1997834349.html">В ГД внесли проект о штрафах за нарушение защиты информации с гостайной</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:01</span> <a class="nodecor" href="https://ria.ru/20250206/ukraina-1997833106.html">В Ахтырке в Сумской области прогремел взрыв</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250206/ukraina-1997832973.html">В Днепропетровской области заявили о повреждении инфраструктуры</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250206/kenguru-1997832378.html">В Австралии вырастили первый в мире эмбрион кенгуру с помощью ЭКО</a>
+</div><!--n:250206 2100:s:282367:e:2690-->
+<!----><h2>События на Вс 24 авг 2025 20:00</h2><!--2025-08-24 19:58:14-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250824/ukraina-2037326605.html">"Живой щит": в Киеве впали в панику из-за плана ЕС по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250824/varshava-2037326305.html">В Варшаве участники акции протеста сожгли флаг ОУН-УПА*</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250824/bespilotnik-2037326100.html">Над Брянской областью сбили беспилотник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250824/kaluga-2037325597.html">В аэропорту Калуги ввели временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250824/tsdm-2037325357.html">На Лубянской площади восстановили движение после ЧП в ЦДМ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250824/ssha-2037325040.html">Вэнс объяснил, почему США не вводят новых пошлин против Китая</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:15</span> <a class="nodecor" href="https://ria.ru/20250824/vens-2037324564.html">Вэнс заявил, что Болтону может грозить суд</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:05</span> <a class="nodecor" href="https://ria.ru/20250824/ukraina-2037323812.html">Канада присоединится к программе помощи Украине, заявил Зеленский</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:57</span> <a class="nodecor" href="https://ria.ru/20250824/turtsiya-2037323633.html">В Турции выступили с громким призывом к Зеленскому</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://ria.ru/20250824/tsdm-2037323490.html">Автомобиль с телом погибшего при ЧП в ЦДМ уехал с парковки</a></div>
+</div><!--n:250824 2000:s:285094:e:2715-->
+<!----><!--2025-03-16 22:37:25-->
+<div class="rssn table">
+  <span class="smaller gray hspace">22:37</span> <a class="nodecor" href="https://ria.ru/20250316/udar-2005384578.html">Подполье сообщило об ударах по ангарам с техникой ВСУ в Сумской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">22:32</span> <a class="nodecor" href="https://ria.ru/20250316/oon-2005384268.html">В ООН выразили беспокойство из-за новых ударов США по Йемену</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">22:26</span> <a class="nodecor" href="https://rsport.ria.ru/20250316/elena-2005383487.html">Россиянка Гапешина победила на чемпионате мира по боксу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">22:26</span> <a class="nodecor" href="https://ria.ru/20250316/putin-2005383315.html">Крупнейшие индийские СМИ обсудили баннеры RT с фото Моди и Путина</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">22:25</span> <a class="nodecor" href="https://ria.ru/20250316/matvienko-2005383152.html">Матвиенко заявила о трещине в Евросоюзе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">22:09</span> <a class="nodecor" href="https://ria.ru/20250316/opasnost-2005382083.html">В Белгородской области объявили ракетную опасность</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">22:07</span> <a class="nodecor" href="https://ria.ru/20250316/yemen-2005381977.html">Хуситы запретили проход американских судов через Красное и Аравийское моря</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">21:59</span> <a class="nodecor" href="https://ria.ru/20250316/konflikt-2005381415.html">Матвиенко исключила переговоры о европейской безопасности без России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">21:51</span> <a class="nodecor" href="https://ria.ru/20250316/israel-2005381091.html">Израиль ограничил работу корреспонденту "Известий" после вопроса об Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">21:43</span> <a class="nodecor" href="https://ria.ru/20250316/postradavshie-2005380708.html">Число пострадавших при обстрелах Горловки возросло до семи человек</a>
+</div><!--n:250316 2200:s:287846:e:2798-->
+<!----><!--2025-03-10 21:00:00--><h2>РИА Новости на Пн 10 мар 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250310/ukraina-2004188229.html">Рубио назвал встречу США и Украины ключевой в судьбе помощи Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250310/razveddannye-2004187779.html">Стармер и Трамп обсудили передачу разведданных Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250310/mask-2004187244.html">Маск назвал сенатора, призвавшего поддерживать Украину, предателем</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250310/dron-2004187002.html">При атаке дрона ВСУ на автомобиль пострадал житель Белгородской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250310/medvedev-2004186807.html">Медведев сравнил правительство Румынии с Чаушеску</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250310/putin-2004186652.html">Путин отметил религиозных деятелей грамотами и благодарностью</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250310/oon-2004186227.html">ООН сохранила присутствие в прибрежных районах Сирии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250310/mask-2004186069.html">Маск заявил о крупной кибератаке против соцсети Х</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250310/izvineniya-2004185955.html">Зеленский извинился перед Трампом за поведение в Белом доме</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250310/sud-2004185516.html">Жителя Калининградской области, ранившего подростка ножом, арестовали</a>
+</div><!--n:250310 2100:s:290681:e:2808-->
+<!----><h2>События на Пт 09 май 2025 21:00</h2><!--2025-05-09 20:58:57-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250509/vuchich-2016118570.html">Вучич назвал снабжение Сербии газом из России жизненно важным вопросом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250509/putin-2016118452.html">Путин оценил характер отношений России и Сербии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250509/putin-2016118303.html">Путин выразил признательность Сербии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250509/putin-2016118186.html">Россия остается гарантом энергобезопасности Сербии, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250509/putin-2016117887.html">Россия ценит, что Вучич лично приехал на 9 Мая в Москву, заявил Путин </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250509/putin-2016117793.html">Россия ценит независимый курс Сербии, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250509/putin-2016117560.html">Путин начала переговоры с Вучичем</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250509/lukashenko-2016117470.html">Белоруссия будет укреплять обороноспособность страны, заявил Лукашенко</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250509/peremirie-2016117225.html">Белый дом надеется, что Россия и Украина согласятся на 30-дневное перемирие</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250509/zelenskiy-2016117027.html">Зеленский ввел санкции против юрлиц, зарегистрированных в России</a></div>
+</div><!--n:250509 2100:s:293526:e:2809-->
+<!----><h2>События на Пн 11 авг 2025 20:00</h2><!--2025-08-11 19:57:05-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250811/vstrecha-2034669873.html">В мэрии Фэрбенкса на Аляске не знают о месте встречи Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250811/moldavija-2034669670.html">В парламенте Молдавии обвинили власти в абсурдных приговорах оппозиционерам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250811/tramp-2034668727.html">Трамп надеется за пару минут встречи понять возможность сделки по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250811/rossija-2034668361.html">В России обновят определение объема передачи электроэнергии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250811/aeroport-2034667189.html">В аэропорту Оренбурга сняли временные ограничения на полеты</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://ria.ru/20250811/siyyarto-2034666441.html">ЕС пытается подорвать встречу Путина и Трампа, заявил Сийярто</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250811/mo-2034666330.html">ВС России уничтожили до 50 боевиков и два танка Abrams в Сумской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250811/tramp-2034666170.html">Трамп заявил, что уважает решение Путина приехать на встречу на Аляске</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250811/rossiya-2034665845.html">"Уже победа". На Западе сделали внезапное заявление о Путине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250811/tramp-2034665675.html">Венгрия надеется на успех встречи Путина и Трампа, заявил Сийярто</a></div>
+</div><!--n:250811 2000:s:296372:e:2951-->
+<!----><h2>События на Вт 02 сен 2025 20:00</h2><!--2025-09-02 19:56:56-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250902/moskva-2039199878.html">Экс-глава столичного СК досрочно вышел из колонии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250902/ssha-2039199063.html">США, вероятно, не примут участие во встрече "коалиции желающих", пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250902/sammit-2039198669.html">"Бумажный тигр": на Западе раскрыли, что ждет НАТО после саммита ШОС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250902/rossiya-2039198285.html">ВС России отбросили ВСУ к границе Днепропетровской области, сообщил Рогов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250902/ukraina-2039197609.html">СМИ: На Украине пограничники застрелили мужчину при пересечении границы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250902/ryazan-2039196685.html">В Рязанской области сняли муниципальный режим ЧС после ЧП на предприятии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250902/zaderzhanie-2039196491.html">Трех жителей Дагестана заподозрили в пособничестве кол-центрам мошенников</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250902/lukashenko-2039195894.html">Лукашенко заявил, что поддерживает Россию в разрешении конфликта на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250902/kitay-2039195724.html">"Пиковый момент". В Китае указали на важный итог встречи Путина и Си </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250902/putin-2039195164.html">Путин отметил, что встречи с Лукашенко не проходят даром</a></div>
+</div><!--n:250902 2000:s:299360:e:2987-->
+<!----><h2>События на Сб 26 июл 2025 20:00</h2><!--2025-07-26 19:53:52-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250726/ukraina-2031653787.html">"Слуга народа" опровергла сообщения о депутатах, испугавшихся закона о НАБУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250726/konflikt-2031653602.html">Таиланда и Камбоджа прекратили огонь на границе из-за ливней, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250726/saratov-2031653371.html">Нахождение в трех подъездах дома в Саратове признали безопасным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250726/ssha-2031653218.html">Трамп: Таиланд и Камбоджа согласились на встречу для проработки перемирия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250726/saratov-2031652774.html">В Саратове из-под завалов извлекли тело седьмого погибшего при взрыве газа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250726/vsu-2031650897.html">ВСУ три раза за сутки обстреляли Шебекино в Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250726/saratov-2031650735.html">Пропавших после взрыва в Саратове начали искать на верхних этажах дома</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250726/tsar-2031650588.html">Президента ЦАР Туадеру выдвинули кандидатом на третий срок</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250726/zelenskiy-2031650445.html">"Помните об этом". На Западе высказались об отчаянном шаге Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250726/saratov-2031649116.html">В Саратове десять человек обратились в пункты временного размещения</a></div>
+</div><!--n:250726 2000:s:302384:e:2999-->
+<!----><!--2025-01-02 06:01:00--><h2>РИА Новости на Чт 02 янв 2025 06:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:59</span>
+  <a class="nodecor" href="https://ria.ru/20250102/keniya-1992284931.html">Кения изучает возможность увеличения экспорта чая и кофе в Россию</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:56</span>
+  <a class="nodecor" href="https://ria.ru/20250102/vilfand-1992284808.html">Вильфанд рассказал, когда появится надежный прогноз погоды на девять дней</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:44</span>
+  <a class="nodecor" href="https://ria.ru/20250102/ramadan-1992284621.html">Муфтий напомнил мусульманам о начале подготовки к Рамадану</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:30</span>
+  <a class="nodecor" href="https://ria.ru/20250102/elka-1992284495.html">Экологическая акция "Елочный круговорот" стартовала в Москве</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:16</span>
+  <a class="nodecor" href="https://ria.ru/20250102/spetsoperatsiya-1992284383.html">Командир взвода БПЛА рассказал о совместной работе со штурмовиками "Днепра"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:07</span>
+  <a class="nodecor" href="https://ria.ru/20250102/spetsoperatsiya-1992284129.html">ВС России за сутки уничтожили девять украинских минометных расчетов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:03</span>
+  <a class="nodecor" href="https://ria.ru/20250102/desantniki-1992283946.html">Бойцы ВС России уничтожили три танка ВСУ в Курской области дронами</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:51</span>
+  <a class="nodecor" href="https://ria.ru/20250102/trevoga-1992283748.html">В Киеве объявили воздушную тревогу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:49</span>
+  <a class="nodecor" href="https://ria.ru/20250102/korruptsiya-1992283603.html">"Отмыться не получится": Пушков рассказал, чего боятся в Киеве</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:49</span>
+  <a class="nodecor" href="https://ria.ru/20250102/cybertruck-1992283428.html">Во взорвавшемся в Лас-Вегасе Cybertruck нашли пиротехнику</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:44</span>
+  <a class="nodecor" href="https://ria.ru/20250102/plennyy-1992283262.html">ВСУ переводят медиков в пехоту, заявил пленный</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:26</span>
+  <a class="nodecor" href="https://ria.ru/20250102/las-vegas-1992283097.html">У полиции Лас-Вегаса нет доказательств связи взрыва Cybertruck с ИГ*</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:11</span>
+  <a class="nodecor" href="https://ria.ru/20250102/zaklyuchenie-1992282889.html">В США захотели посадить Зеленского пожизненно</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:08</span>
+  <a class="nodecor" href="https://ria.ru/20250102/yars-1992282738.html">Козельское ракетное соединение перевооружат на комплекс "Ярс" в 2025 году</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:03</span>
+  <a class="nodecor" href="https://ria.ru/20250102/mask-1992282593.html">Маск утверждает, что Cybertruck смог сдержать взрыв и минимизировать ущерб</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:58</span>
+  <a class="nodecor" href="https://ria.ru/20250102/ssha-1992282418.html">Подозреваемый в теракте в Новом Орлеане был вдохновлен ИГ*, заявил Байден</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:53</span>
+  <a class="nodecor" href="https://ria.ru/20250102/bespilotnik-1992282295.html">Над Воронежем уничтожили украинский беспилотник</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:35</span>
+  <a class="nodecor" href="https://ria.ru/20250102/bayden-1992281860.html">В США изучат связь между терактом в Новом Орлеане и взрывом Cybertruck</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:20</span>
+  <a class="nodecor" href="https://ria.ru/20250102/pozhar-1992281750.html">Число погибших при теракте в Новом Орлеане выросло до 15 человек</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:13</span>
+  <a class="nodecor" href="https://ria.ru/20250102/shapka-1992281618.html">Врач рассказал, почему на холоде обязательно нужно носить головной убор</a>
+</div><!--n:250102 0601:s:305420:e:5631-->
+<!----><!--2025-01-21 21:00:00--><h2>РИА Новости на Вт 21 янв 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250121/ukraina-1994889976.html">В Киевской области объявили воздушную тревогу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250121/vsu-1994889856.html">ВСУ нанесли удар по центру Каховки</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250121/khamas-1994889621.html">Нетаньяху хочет начать военные действия, заявил глава ХАМАС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250121/kherson-1994889098.html">В Херсоне прогремели взрывы, сообщили СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250121/taksist-1994888952.html">В нижегородскую полицию явился мужчина, пытавшийся задушить таксиста</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250121/zhest-1994888803.html">На Западе вспомнили о Зеленском после резонансного жеста Маска</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250121/pvo-1994888708.html">Над Крымом сбили семь беспилотников ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250121/isk-1994888473.html">Иск против фон дер Ляйен из-за закупок вакцин отклонили</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250121/ukraina-1994887528.html">В Госдуме оценили решение Трампа о приостановке помощи Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250121/kuban-1994887155.html">На Кубани нашли новый способ очистки песка от мазута</a>
+</div><!--n:250121 2100:s:311088:e:2644-->
+<!----><h2>События на Чт 12 июн 2025 20:00</h2><!--2025-06-12 19:59:28-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250612/izrail-2022541871.html">Израиль допускает скорое начало военных действий против Ирана, пишет NBC</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250612/tramp-2022541275.html">В США запустили сайт для оформления "золотой карты" Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250612/nato-2022540671.html">НАТО создает систему наблюдения за границами России, пишет Bloomberg</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250612/turtsiya-2022540068.html">К берегам Стамбула прибило, предположительно, украинский дрон</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250612/voyna-2022539328.html">Война Ирана с Израилем всколыхнет весь Ближний Восток, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250612/pomosch-2022538671.html">Минобороны ФРГ объявило о планах выделить дополнительную помощь Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250612/indiya-2022538148.html">Патриарх Кирилл выразил соболезнования после авиакатастрофы в Индии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:16</span> <a class="nodecor" href="https://ria.ru/20250612/lukashenko-2022537691.html">Лукашенко выразил соболезнования после авиакатастрофы в Индии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:11</span> <a class="nodecor" href="https://ria.ru/20250612/krushenie-2022537539.html">При крушении самолета в Индии погибли более 310 человек, сообщили СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:09</span> <a class="nodecor" href="https://ria.ru/20250612/plennye-2022537292.html">Третья группа российских военных из украинского плена прибыла в Подмосковье</a></div>
+</div><!--n:250612 2000:s:313769:e:2975-->
+<!----><!--2025-03-03 21:00:00--><h2>РИА Новости на Пн 03 мар 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250303/ukraina-2002849814.html">"Безумие": Ле Пен высказалась об идее Макрона по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250303/gaz-2002848185.html">Украина увеличила импорт газа в 12 раз</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250303/pvo-2002848089.html">В Ростовской области отразили атаку БПЛА ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250303/gosduma-2002847454.html">Госдума рассмотрит проект о штрафах за продажу энергетиков детям</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250303/vsu-2002847191.html">В Русском Поречном нашли новые тела мирных жителей, зверски убитых ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250303/bpla-2002846125.html">В Воронежской области объявили опасность атаки БПЛА</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250303/zelenskiy-2002845857.html">Власти США вряд ли захотят снова иметь дело с Зеленским, заявили в Госдуме</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250303/erdogan-2002845697.html">Турция рассчитывает на членство страны в ЕС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://rsport.ria.ru/20250303/kaladze-2002845334.html">Каладзе лишили звания мастера спорта на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250303/erdogan-2002845053.html">Эрдоган исключил возможность мира на Украине без участия Москвы и Киева</a>
+</div><!--n:250303 2100:s:316781:e:2722-->
+<!----><h2>События на Пн 22 сен 2025 20:00</h2><!--2025-09-22 19:56:22-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250922/zaharova-2043608598.html">Захарова рассказала, почему чайники из исинской глины для нее важны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250922/rossiya-2043608427.html">Жителя Ингушетии обвиняют в приготовлении к диверсии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250922/oon-2043608128.html">Гутерреш планирует встретиться с Лавровым 25 сентября</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250922/yaroslavl-2043607127.html">В аэропорту Ярославля ввели ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250922/zaharova-2043606771.html">Захарова провела экскурсию по выставке исинской керамики</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250922/pvo-2043606245.html">ПВО уничтожила семь БПЛА, летевших на Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250922/filippiny-2043605826.html">Участники протестов на Филиппинах планировали поджечь резиденцию президента</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250922/pvo-2043604851.html">Силы ПВО отражают атаку украинских дронов на Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250922/zelenskiy-2043604278.html">На Украине раскрыли, что назревает в окружении Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250922/ssha-2043603824.html">Reuters: США могут ввести санкции против МУС уже на этой неделе</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://ria.ru/export/rss2/index.xml</div><!--n:250922 2000:s:319540:e:2859-->
+<!----><h2>Подборка новостей на Пт 18 апр 2025 21:00</h2><!--2025-04-18 20:59:23-->
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250418/shturmovik-2012196546.html">Штурмовик рассказал, как ВСУ сдавались в плен при освобождении Преображенки</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250418/pogoda-2012196120.html">Москвичей предупредили о грозе вечером в пятницу</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250418/ekspert-2012195907.html">Молдавия стремится превратиться в "анти-Россию", считает эксперт</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250418/ubiystvo-2012195761.html">Появились детали убийства 12-летней давности, в котором сознался москвич</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250418/episkop-2012192734.html">Водитель Маркелла сообщил о блокировке светофоров на пути в аэропорт</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250418/tramp-2012191558.html">Стармер и Трамп обсудили Украину, Иран и борьбу с хуситами</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250418/kiev-2012190732.html">"Ничего святого": в Киеве взбесились из-за осквернения Страстной пятницы </a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250418/trassa-2012190333.html">Трасса А-289 от Краснодара к Крымскому мосту станет платной</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250418/iran-2012190072.html">WP: Уолтц и Рубио выступили за уничтожение ядерных возможностей Ирана</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:15</span> <a class="nodecor" href="https://ria.ru/20250418/vyrubka-2012189925.html">Сотрудников нижегородской колонии и лесничества заподозрили в вырубке леса</a></div>
+</div><!--n:250418 2100:s:322436:e:3028-->
+<!----><h2>События на Вт 10 июн 2025 20:00</h2><!--2025-06-10 19:53:50-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250610/avstriya-2022116000.html">В доме подозреваемого в нападении в Граце нашли предсмертное письмо</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250610/tramp-2022115800.html">Трамп рассказал, когда отзовет Нацгвардию из Калифорнии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250610/kuban-2022115301.html">На Кубани задержали подозреваемых в незаконной поставке оружия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250610/grats-2022115034.html">Число жертв нападения в австрийской школе выросло до десяти</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250610/vsu-2022114591.html">ВСУ обстреляли Шебекинский округ Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250610/bespilotniki-2022114293.html">Хегсет рассказал, как США следят за применением беспилотников на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250610/zelenskiy-2022112906.html">Депутат Рады поставил Зеленского на место после слов о Путине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250610/ssha-2022113968.html">В Пентагоне заявили о нехватке времени на разработку новых технологий</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250610/putin-2022113791.html">Путин создал комиссию по подготовке к пятому раунду оценок ФАТФ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250610/pentagon-2022113624.html">Пентагон призвал НАТО взять на себя ответственность за сдерживание России</a></div>
+</div><!--n:250610 2000:s:325501:e:2917-->
+<!----><!--2025-01-01 06:01:00--><h2>РИА Новости на Ср 01 янв 2025 06:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:53</span>
+  <a class="nodecor" href="https://ria.ru/20250101/leopard-1992206219.html">В Приморье раскрыли, что не любит дальневосточный леопард</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:34</span>
+  <a class="nodecor" href="https://ria.ru/20250101/turisty-1992206070.html">В Турции рассказали, что будет с ценами на отдых в 2025 году</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:24</span>
+  <a class="nodecor" href="https://ria.ru/20250101/dnepropetrovsk-1992205890.html">В США назвали город, открывающий ВС России путь на Днепропетровск</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:24</span>
+  <a class="nodecor" href="https://ria.ru/20250101/yalta-1992205719.html">Закон о создании игорной зоны в Ялте вступил в силу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:05</span>
+  <a class="nodecor" href="https://ria.ru/20250101/mayning-1992205532.html">В десяти регионах России ввели полный запрет майнинга криптовалют</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:02</span>
+  <a class="nodecor" href="https://ria.ru/20250101/bespilotnik-1992205390.html">Бойцы ВС России уничтожили дрон ВСУ на Каховском направлении</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">05:00</span>
+  <a class="nodecor" href="https://realty.ria.ru/20250101/zakony-1991677254.html">Эксперты рассказали, какие законы вводятся в сфере недвижимости в 2025 году</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:56</span>
+  <a class="nodecor" href="https://ria.ru/20250101/peregovory-1992205183.html">Названы города, которые Украина потеряет при отказе от переговоров</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:52</span>
+  <a class="nodecor" href="https://ria.ru/20250101/rzhd-1992205012.html">РЖД обновили правила перевозки животных в пассажирских поездах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:23</span>
+  <a class="nodecor" href="https://ria.ru/20250101/reyd-1992204832.html">СМИ: в Петербурге провели рейд против мигрантов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">04:18</span>
+  <a class="nodecor" href="https://ria.ru/20250101/naemniki-1992204703.html">Польские наемники в Часовом Яре занимались мародерством, рассказал беженец</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:55</span>
+  <a class="nodecor" href="https://rsport.ria.ru/20250101/shakhmaty-1992204518.html">Карлсен и Непомнящий разделили первое место на чемпионате мира по блицу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:47</span>
+  <a class="nodecor" href="https://ria.ru/20250101/yurist-1992204399.html">Юрист напомнила об ответственности за продажу алкоголя подросткам</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:43</span>
+  <a class="nodecor" href="https://ria.ru/20250101/katar-1992204203.html">Десятки человек пострадали в давке при входе в метро в Катаре</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:25</span>
+  <a class="nodecor" href="https://ria.ru/20250101/otklyuchenie-1992203978.html">"В канун Нового года": Берлин столкнулся с бедствием</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">03:09</span>
+  <a class="nodecor" href="https://ria.ru/20250101/ortoped-1992203804.html">Ортопед рассказал, на что могут указывать боли в суставах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">02:58</span>
+  <a class="nodecor" href="https://ria.ru/20250101/khinshteyn-1992203661.html">ВСУ в первые минуты нового года нанесли удар по Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">02:56</span>
+  <a class="nodecor" href="https://ria.ru/20250101/kriptovalyuty-1992203521.html">Вступили в силу новые правила налогообложения криптовалют</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">02:47</span>
+  <a class="nodecor" href="https://ria.ru/20250101/kritika-1992203293.html">"Разбудить медведя": французы жестко раскритиковали одно решение по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">02:43</span>
+  <a class="nodecor" href="https://ria.ru/20250101/moshenniki-1992203149.html">Крупные банки обязали вносить реквизиты мошенников в свои системы за час</a>
+</div><!--n:250101 0601:s:328455:e:5694-->
+<!----><h2>События на Чт 31 июл 2025 20:00</h2><!--2025-07-31 19:58:26-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250731/putin-2032710798.html">Путин поручил завершить переход к новому механизму льготного кредитования</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250731/putin-2032710649.html">Путин поручил подготовить предложения по снижению нагрузки на учителей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250731/putin-2032710485.html">Путин поручил доработать проекты по обеспечению технологического лидерства</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250731/putin-2032710244.html">Путин поручил до декабря представить меры демографической политики</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250731/rosaviatsija-2032709867.html">Росавиация рассказала о пассажиропотоке российских компаний в 2025 году</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250731/putin-2032709556.html">Путин подписал закон о праве вдов участников СВО пользоваться их машиной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250731/rubio-2032708755.html">Рубио рассказал о контактах с российскими представителями на этой неделе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250731/putin-2032708512.html">Путин подписал закон об упрощении отчетности НКО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250731/kitay-2032708317.html">"Уже надоело": в Китае пришли в ярость из-за выходки Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250731/simonyan-2032707581.html">Новый роман Симоньян раскупили в Москве за десять минут</a></div>
+</div><!--n:250731 2000:s:334186:e:2959-->
+<!----><!--2025-02-13 21:00:00--><h2>РИА Новости на Чт 13 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250213/putin-1999237773.html">Путин подписал закон об индексации пенсий военным пенсионерам</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250213/mosbirzha-1999237202.html">Московская биржа приостановила торги на фондовом рынке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250213/dnr-1999236964.html">В ДНР обнаружили цех по производству дронов ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250213/pvo-1999236736.html">Над Крымом и Черным морем сбили семь беспилотников ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250213/putin-1999236246.html">Американский ученый оценил телефонный разговор Путина и Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250213/putin-1999236144.html">Путин поручил провести проверку состояния судов танкерного флота</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250213/vengrija-1999235807.html">Венгрия и Сербия начнут строительство нефтепровода</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250213/vengriya-1999235664.html">Выгодная сделка может спасти Венгрию от пошлин США, считает Сийярто</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250213/putin-1999235414.html">Путин поручил проанализировать нормативную базу по перевозкам нефти</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250213/moldaviya-1999235087.html">Экс-премьер Молдавии назвал закрытие РЦНК инструментом политических игр</a>
+</div><!--n:250213 2100:s:337182:e:2809-->
+<!----><!--2025-03-02 21:00:00--><h2>РИА Новости на Вс 02 мар 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250302/peregovory-2002619535.html">Орбан направил Евросовету письмо с призывом к прямым переговорам с Россией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250302/evropa-2002619341.html">Европейские лидеры не обсуждали гарантии безопасности Украине, заявил Туск</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250302/perm-2002619175.html">В Перми женщина подожгла банкомат</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250302/vsu-2002617909.html">ВСУ перебрасывают дополнительные резервы в Часов Яр, сообщил Пушилин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250302/evropa-2002617746.html">Глава ЕК призвала срочно перевооружать Европу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250302/frantsisk-2002617655.html">В Ватикане рассказали о состоянии папы римского</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250302/britaniya-2002617453.html">Британия выделит Украине более двух миллиардов долларов на военные закупки</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250302/bitkoin-2002617291.html">Стоимость биткоина взлетела после сообщения Трампа о резерве криптовалют</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250302/vsu-2002617149.html">Пушилин рассказал о попытках ВСУ укрепиться в районе Дзержинска</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250302/svinya-2002616609.html">Симоньян назвала Зеленского свиньей из-за поведения на встрече с Трампом</a>
+</div><!--n:250302 2100:s:340028:e:2856-->
+<!----><h2>События на Сб 12 июл 2025 20:00</h2><!--2025-07-12 19:58:45-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250712/ataki-2028803690.html">В Белгородской области при атаках украинских дронов пострадали три человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250712/podmoskove-2028803317.html">Подозреваемый в покушении на девочек в Подмосковье рассказал о мотиве</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250712/dnepropetrovsk-2028802997.html">В Днепропетровске прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250712/miting-2028802742.html">Переселенцы из Карабаха проводят сидячую демонстрацию в центре Еревана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250712/podmoskove-2028802594.html">В Подмосковье в ДТП погиб ребенок</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250712/belgorod-2028801976.html">Украинский беспилотник атаковал спортивный комплекс в Белгороде</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250712/kallas-2028802139.html">На Западе жестко пристыдили Каллас из-за Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250712/pravitelstvo-2028801824.html">Правительство выделило дотации на объекты инфраструктуры Байконура</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250712/festival-2028801588.html">В Пермском крае прошел фестиваль "Веселый коровяк"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250712/dtp-2028801431.html">В Волгоградской области два человека пострадали в ДТП</a></div>
+</div><!--n:250712 2000:s:342921:e:2805-->
+<!----><h2>События на Сб 02 авг 2025 20:00</h2><!--2025-08-02 19:59:34-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250802/futbol-2033023965.html">"ПСЖ" предложил "Галатасараю" купить Сафонова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250802/berlin-2033023796.html">В Берлине прошла демонстрация в поддержку мира</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250802/moskva-2033023514.html">Самородок "Сувенир Балтики" продали более чем за один миллион рублей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250802/chp-2033023139.html">В Химках возбудили дело после ДТП с грузовиком и BMW</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250802/turtsiya-2033022975.html">ВВС Турции выполнили учебный полет над Черным морем</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250802/bpla-2033021997.html">Расчеты БПЛА уничтожили две точки взлета украинских дронов у Григоровки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250802/ataki-2033021887.html">В Белгородской области при атаках ВСУ ранены два человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250802/domodedovo-2033021519.html">В Домодедово опровергли сообщения о массовых увольнениях сотрудников</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250802/tramp-2033021365.html">Сенат США отложил решение по санкциям против России, узнал The Hill</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250802/rossiya-2033021219.html">В Грозном построят отходоперерабатывающий комплекс</a></div>
+</div><!--n:250802 2000:s:345763:e:2787-->
+<!----><h2>События на Вс 07 сен 2025 20:00</h2><!--2025-09-07 19:57:55-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250907/armani-2040309972.html">Свыше 10 тысяч человек пришли на прощание с Армани</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250907/zayavlenie-2040309805.html">"Трудно скрыть": в США сделали громкое заявление о конфликте на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250907/ssha-2040309604.html">"За ликвидацию". Макгрегор назвал войну, которую должны выиграть США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250907/kiev-2040309445.html">В Киеве прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250907/orban-2040308252.html">Орбан призвал ЕС заключить соглашение о безопасности с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250907/tramp-2040307736.html">Трамп рассказал о беседе с президентом Казахстана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:13</span> <a class="nodecor" href="https://ria.ru/20250907/tramp-2040307442.html">Трамп заявил, что готов ко второй стадии санкций против России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250907/sanktsii-2040307015.html">В Белом доме ответили на вопрос о новых санкциях против России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:01</span> <a class="nodecor" href="https://ria.ru/20250907/orban-2040306431.html">Орбан предрек разделение Украины после завершения конфликта</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://ria.ru/20250907/melnik-2040305918.html">Союзники прислушиваются к Киеву все меньше, заявил постпред Украины в ООН</a></div>
+</div><!--n:250907 2000:s:348587:e:2798-->
+<!----><!--2025-01-17 21:00:00--><h2>РИА Новости на Пт 17 янв 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250117/puteshestviya-1994293199.html">Названы самые популярные города для семейного отдыха зимой</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250117/sud-1994293865.html">Суд в Петербурге отправил в СИЗО мужчин, ограбивших ветерана СВО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250117/odessa-1994292871.html">В Одессе решили переименовать дерево у памятника Пушкину</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250117/dogovor-1994293036.html">Россия и Иран будут сотрудничать в сфере охраны окружающей среды</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250117/kirov-1994293698.html">В Кирове пьяный водитель пытался скрыться от погони</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250117/gitler-1994292488.html">Daily Mail опубликовала выдержки из дневника возможной любовницы Гитлера</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250117/trevoga-1994291435.html">В двух украинских областях объявили воздушную тревогу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250117/infektsiya-1994291186.html">В Саратовской области приостановили занятия в школе из-за кишечной инфекции</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250117/rossija-1994290866.html">Россия и Иран договорились об изучении языков двух стран в своих вузах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250117/ukraina-1994290529.html">Экс-премьер Польши призвал Украину отказаться от культа Бандеры</a>
+</div><!--n:250117 2100:s:351422:e:2858-->
+<!----><!--2025-02-07 21:00:00--><h2>РИА Новости на Пт 07 фев 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250207/tramp-1998076199.html">Трамп заявил, что не планирует отправлять войска в Газу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250207/dzerzhinsk-1998076106.html">Появились первые кадры освобожденного Дзержинска</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250207/tramp-1998075996.html">Трамп оценил возможность личной встречи с Путиным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250207/putin-1998075878.html">Трамп заявил о хороших отношениях с Путиным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250207/nikitin-1998075625.html">Никитин рассказал о стоящих перед ним новых задачах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250207/zakharova-1998075209.html">Захарова прокомментировала идею создать спецтрибунал по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250207/tramp-1998074708.html">Трамп заявил о планах переговорить с Путиным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250207/tramp-1998074568.html">Трамп планирует провести встречу с Зеленским</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250207/vodka-1998074263.html">В Нью-Гэмпшире разрешили продавать российскую водку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250207/nikitin-1998074070.html">Экс-губернатора Никитина назначили замминистра транспорта</a>
+</div><!--n:250207 2100:s:354317:e:2640-->
+<!----><!--2025-02-22 21:00:00--><h2>РИА Новости на Сб 22 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250222/mask-2001040986.html">Маск сделал жесткое заявление о Зеленском</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250222/pozhar-2001040844.html">В Ульяновской области вспыхнул пожар в коллективных сараях</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250222/frantsiya-2001040038.html">При нападении с ножом во Франции погиб человек</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250222/pozhar-2001039710.html">Пожар на складе в Ростове-на-Дону потушили</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250222/germaniya-2001039253.html">Оппозиция остается фаворитом парламентских выборов в ФРГ, показал опрос</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250222/ukraine-2001038570.html">Военным ВСУ стали отключать интернет из-за просмотра порнографии, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250222/ukraina-2001037996.html">"Куда он делся?": в Киеве заявили о пропаже лучшего "друга" Украины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:13</span> <a class="nodecor" href="https://ria.ru/20250222/dtp-2001036849.html">В Тверской области два человека погибли в ДТП</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:10</span> <a class="nodecor" href="https://ria.ru/20250222/vsu-2001036470.html">ВСУ атаковали пять населенных пунктов в Белгородской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:04</span> <a class="nodecor" href="https://ria.ru/20250222/oon-2001035930.html">WSJ: Лондон и Париж просили США изменить проект резолюции ООН по Украине</a>
+</div><!--n:250222 2100:s:356994:e:2747-->
+<!----><h2>События на Пн 18 авг 2025 20:00</h2><!--2025-08-18 19:57:28-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250818/rossiya-2036141790.html">Неоднородность темпов роста цен в июле продолжила сокращаться</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250818/belgorod-2036141264.html">Власти Белгорода опровергли фейк о массированной атаке БПЛА</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250818/ssha-2036140764.html">Депутат Рады заявил, что за визитом Зеленского в Вашингтон никто не следит</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250818/zelenskiy-2036140358.html">Мерц и Макрон прибыли в Белый дом на встречу Трампа и Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250818/pashinyan-2036139033.html">Пашинян заявил о контроле Армении ряда суверенных территорий Азербайджана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250818/zelenskiy-2036138735.html">Появилось фото из Овального кабинета перед переговорами Трампа и Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250818/mid-2036137902.html">МИД обвинил Британию в попытке подорвать мирные усилия по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250818/ukraina-2036136783.html">Российские военные контролируют стратегические направления под Купянском</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250818/ukraina-2036136268.html">Украинские СМИ раскрыли состав делегации на переговорах с Трампом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250818/vsu-2036136124.html">Ганчев назвал окружение Купянска правильной стратегией</a></div>
+</div><!--n:250818 2000:s:359778:e:2975-->
+<!----><h2>События на Сб 21 июн 2025 20:00</h2><!--2025-06-21 19:55:12-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250621/armeniya-2024536043.html">Карапетяна арестовали по заказу Запада, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250621/umerov-2024536225.html">Главу минобороны Украины могут отправить в качестве посла в США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250621/es-2024534433.html">СМИ: ЕС считает требования США по пошлинам несбалансированными</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250621/mid-2024533860.html">МИД призвал укреплять оборону ОДКБ после пролета дронов ВСУ над Казахстаном</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250621/sumy-2024533688.html">В Сумах прогремел взрыв</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:14</span> <a class="nodecor" href="https://ria.ru/20250621/iran-2024532961.html">Иран и Израиль не откажутся от своих ядерных программ, заявил Медведев</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:08</span> <a class="nodecor" href="https://ria.ru/20250621/tikhanovskiy-2024532835.html">Глава литовского МИД заявил, что муж Тихановской находится в Литве</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:02</span> <a class="nodecor" href="https://ria.ru/20250621/iran-2024532577.html">Иранский лидер выступил против обнуления ядерной программы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:57</span> <a class="nodecor" href="https://ria.ru/20250621/pakistan-2024532234.html">Пакистан готов рассмотреть новые поставки нефти из России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://ria.ru/20250621/vsu-2024532040.html">ВСУ атаковали четыре района Белгородской области</a></div>
+</div><!--n:250621 2000:s:362790:e:2799-->
+<!----><h2>События на Пт 02 май 2025 21:00</h2><!--2025-05-02 20:50:06-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250502/ukraina-2014713558.html">Сотрудники военкомата в Киеве привязывают мужчин, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250502/peru-2014713209.html">В Перу военное судно столкнулось с нефтяной платформой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250502/rubio-2014711706.html">Рубио призвал Германию сменить политический курс</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250502/germaniya-2014711574.html">Число пострадавших при наезде на людей в Штутгарте выросло до шести</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250502/gorlovka-2014711025.html">При атаке дронов ВСУ в Горловке пострадали восемь спасателей МЧС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:13</span> <a class="nodecor" href="https://ria.ru/20250502/khram-2014710713.html">Храм УПЦ в Ровненской области отобрали для передачи раскольникам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:02</span> <a class="nodecor" href="https://ria.ru/20250502/ukraina-2014709936.html">"Кто вы после этого?" В Раде выступили с резким обращением</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250502/bali-2014709446.html">На Бали произошло масштабное отключение электроэнергии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250502/germaniya-2014709007.html">В Штутгарте автомобиль въехал в толпу, есть пострадавшие</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250502/pamyatnik-2014708874.html">В Херсонской области осквернили памятник Неизвестному солдату</a></div>
+</div><!--n:250502 2100:s:365626:e:2826-->
+<!----><!--2025-03-07 21:00:00--><h2>РИА Новости на Пт 07 мар 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250307/delegatsii-2003733690.html">Глава МИД Украины обсудил с Рубио встречу делегаций в Саудовской Аравии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250307/ukraina-2003733424.html">В Белом доме заявили, что продолжат дипломатические усилия по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250307/mitroshina-2003732245.html">Блогер Митрошина оспаривала доначисление ей 128 миллионов рублей налогов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250307/tramp-2003731556.html">Трамп заявил, что хочет сократить финансирование Украины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250307/tramp-2003731049.html">Трамп пригрозил Ирану последствиями при незаключении сделки</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250307/tramp--2003730735.html">Трамп заявил, что его всегда связывали хорошие отношения с Путиным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250307/ukraina-2003730550.html">Украина согласовала с Францией проекты по восстановлению инфраструктуры</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250307/bpla-2003730444.html">ПВО сбила три украинских беспилотника в Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250307/tramp-2003730344.html">Трамп обвинил Европу в непонимании, как завершить конфликт на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250307/tramp-2003730107.html">Трамп рассказал, от чего будет зависеть дальнейшая поддержка Украины</a>
+</div><!--n:250307 2100:s:368489:e:2916-->
+<!----><h2>События на Пт 15 авг 2025 20:00</h2><!--2025-08-15 19:58:33-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250815/lukashenko-2035621747.html">Лукашенко сообщил Трампу о продолжении работы по освобождению заключенных</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250815/ufa-2035621153.html">В Уфе арестовали предпринимательницу по делу о хищении бюджетных средств</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250815/serbiya-2035620020.html">В МИД заявили о переходе протестов в Сербии к насильственному сценарию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250815/shtorm-2035619868.html">Тропический шторм "Эрин" усилился до урагана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250815/kellog-2035619638.html">Келлог хотел принять участие в саммите на Аляске, пишет CNN</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250815/tramp-2035619541.html">Трамп рассказал о своих ожиданиях от встречи с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250815/smi-2035619358.html">CNN раскрыл детали подготовки к саммиту на Аляске</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250815/dzerzhinsk-2035619206.html">В Нижегородской области на два месяца арестовали обвиняемого в убийстве</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250815/ssha-2035618880.html">США близки к принятию предложений России по Украине, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250815/britanija-2035618694.html">Вэнсу отказали в обслуживании в британском пабе, пишут СМИ</a></div>
+</div><!--n:250815 2000:s:371442:e:2873-->
+<!----><h2>Подборка новостей на Ср 19 мар 2025 21:00:03</h2><!--2025-03-19 20:59:01-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250319/dtp-2006070382.html">В Минздраве Дагестана рассказали о состоянии пострадавших в ДТП с "Газелью"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://rsport.ria.ru/20250319/dzyuba-2006069964.html">Дзюба стал лучшим бомбардиром в истории сборной России по футболу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250319/protest-2006069795.html">МИД России выразил протест послу Молдавии после инцидента с посольством</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250319/sanktsii-2006069687.html">Белый дом отказался комментировать вопрос о новых санкциях против России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250319/tramp-2006069134.html">Трамп заявил Зеленскому о готовности помочь Украине в управлении АЭС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250319/tramp-2006068843.html">Трамп потребовал от своей команды скорее проработать шаги по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250319/ssha-2006068631.html">США продолжат делиться с Украиной развединформацией, заявил Белый дом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250319/zelenskiy-2006068542.html">Зеленский запросил у Трампа дополнительные поставки систем ПВО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250319/ovsyannikov-2006068343.html">В Лондоне начался суд по делу экс-губернатора Севастополя Овсянникова</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250319/ssha-2006068117.html">ВС США нанесли удары по провинциям Йемена, сообщил источник</a>
+</div><!--n:250319 2100:s:374352:e:2973-->
+<!----><h2>События на Пн 28 апр 2025 21:00</h2><!--2025-04-28 20:54:23-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250428/polsha-2013936563.html">Кандидат в президенты Польши восхищается Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250428/dagestan-2013936383.html">Катер, столкнувшийся со скалой в Дагестане, работал легально</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250428/volodin-2013936148.html">Володин объяснил решение о перемирии в дни 80-летия Победы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250428/bpla-2013935997.html">В Херсонской области при атаке БПЛА пострадали четыре человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250428/dagestan-2013935705.html">В Дагестане рассказали о состоянии пострадавших при ЧП с катером</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250428/vsu-2013935476.html">ВСУ атаковали территорию ДНР кассетными снарядами и беспилотниками</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250428/spektakl-2013935291.html">Спектакль "Соборяне. Картины русской жизни" получил премию "Гвоздь сезона"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250428/peremirie-2013934598.html">Эксперт рассказал, что подтолкнет Трампа к прекращению помощи Киеву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250428/dushanbe-2013934335.html">В военном параде в Душанбе примут участие более 4000 военнослужащих</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250428/frantsiya-2013934127.html">"Конец игры". Во Франции раскрыли, что случилось в резиденции Макрона</a></div>
+</div><!--n:250428 2100:s:377362:e:2910-->
+<!----><h2>События на Вт 27 май 2025 20:00</h2><!--2025-05-27 19:56:51-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250527/ukraina-2019432507.html">Киев не сформировал команду переговорщиков для следующей встречи с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250527/gerasimov-2019432077.html">На "Евразия-Кинофесте" отпразднуют юбилей режиссера Герасимова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250527/ekspert-2019431563.html">Эксперт прокомментировал отказ стран ЕС от участия в форуме по безопасности</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250527/kadyrov-2019431123.html">Кадыров заявил об уничтожении "нервной системы" ВСУ под Часовым Яром</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250527/lebedi-2019430935.html">Лебеди Елисей и Любава вернулись в Летний сад в Петербурге</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250527/zelenskij-2019430004.html">Украина передала США условия по прекращению огня</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://ria.ru/20250527/ukraina-2019429667.html">"Чертовски беспокоит": на Западе испугались новой угрозы для Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250527/belorussija-2019429259.html">Белоруссия сняла запрет на ввоз продуктов из недружественных стран</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:15</span> <a class="nodecor" href="https://ria.ru/20250527/liverpul-2019428727.html">Наехавший на толпу в Ливерпуле мог быть под воздействием наркотиков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:02</span> <a class="nodecor" href="https://ria.ru/20250527/ukraina-2019427007.html">Трамп отдал Эрдогану роль модератора по Украине, считает эксперт</a></div>
+</div><!--n:250527 2000:s:380309:e:2955-->
+<!----><!--2025-03-08 21:00:00--><h2>РИА Новости на Сб 08 мар 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250308/alaudinov-2003852145.html">Алаудинов сообщил о масштабном наступлении ВС России в Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250308/serbija-2003851896.html">В Сербии задержали мужчину, напавшего на министра культуры</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250308/slovakiya-2003851544.html">Словацкая партия выступила против антироссийских санкций </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250308/oborona-2003851257.html">ХДС/ХСС и СДПГ ведут переговоры с "Зелеными" о повышении трат на оборону</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250308/ukraina-2003851093.html">Опрос показал отношение украинцев к Дню Победы и Дню труда</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250308/pakistan-2003850083.html">Пакистан не консультировался с Афганистаном по выдаче исламиста Шарифуллы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250308/oruzhie-2003849934.html">В Пакистане обвинили талибов* в использовании американского оружия</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:11</span> <a class="nodecor" href="https://ria.ru/20250308/frantsiya-2003849256.html">МИД Франции выразил обеспокоенность насилием в Сирии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:10</span> <a class="nodecor" href="https://ria.ru/20250308/pvo-2003849137.html">Над Белгородской областью сбили беспилотник ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250308/kiev-2003848262.html">В Киеве у посольства США прошла акция протеста</a>
+</div><!--n:250308 2100:s:383301:e:2815-->
+<!----><h2>События на Пн 16 июн 2025 20:00</h2><!--2025-06-16 19:54:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250616/putin-2023202687.html">На Западе раскрыли, какую роль сыграет Путин в ирано-израильском конфликте</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250616/orel-2023201413.html">Экс-замглавврача и бухгалтера роддома в Орле оштрафовали за взятки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250616/tramp-2023200957.html">Трамп заявил, что не возражает против присоединения Китая к G7</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250616/iran-2023199277.html">МИД Ирана назвал атаку Израиля на здание ГосТВ преступлением</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250616/pmef-2023197571.html">В Петербурге появились баннеры с символикой ПМЭФ-2025</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250616/gostv-2023197424.html">ГосТВ сообщило о пострадавших при атаке Израиля на здание компании</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250616/izrail-2023197046.html">"Полное обезглавливание". В США раскрыли зверские планы Израиля по Ирану</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://rsport.ria.ru/20250616/uchastnik-2023196858.html">В Ленинградской области задержали бойца ММА после драки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250616/iran-2023196605.html">Не менее четырех ударов пришлось по зданию гостелерадиокомпании Ирана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250616/whatsapp-2023196067.html">В WhatsApp появятся реклама и монетизация каналов</a></div>
+</div><!--n:250616 2000:s:386153:e:2879-->
+<!----><h2>Подборка новостей на Ср 09 апр 2025 21:00</h2><!--2025-04-09 20:49:51-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250409/obyski-2010345108.html">У первого замначальника Октябрьской железной дороги прошли обыски</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250409/mchs-2010344993.html">Сотрудники МЧС спасли трех утопающих в Москве</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250409/ukraina-2010344363.html">Раскольники захватили храм УПЦ в Киевской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250409/dron-2010344220.html">При падении обломков дрона ВСУ в Белгородской области пострадала женщина</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250409/vto-2010343815.html">Товарооборот между Китаем и США может сократиться на 80 процентов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250409/rost-2010343682.html">Индексы Уолл-стрит растут на заявлении Трампа о приостановке пошлин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250409/tramp-2010343431.html">Трамп приостановил введение пошлин в отношении более 75 стран</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250409/tramp-2010343237.html">США повысили пошлины на товары из Китая до 125 процентов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250409/biolog-2010343099.html">В Колумбии нашли расчлененное тело итальянского биолога</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://rsport.ria.ru/20250409/mok-2010342974.html">МОК ведет переговоры с федерациями по допуску России на Олимпиаду-2026</a>
+</div><!--n:250409 2100:s:389069:e:2810-->
+<!----><h2> на Вт 22 апр 2025 21:00</h2><!--2025-04-22 20:58:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250422/snaryady-2012844904.html">При детонации снарядов на складе во Владимирской области никто не погиб</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250422/shkola-2012844201.html">Подростков, избивших восьмиклассника, исключили из московской школы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250422/gastrol-2012843596.html">Гастроли двух театров из ДНР пройдут в Москве в мае</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250422/rubio-2012843870.html">Госсекретарь США не будет участвовать в переговорах в Лондоне по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250422/peskov-2012843761.html">Песков призвал не ждать быстрых результатов от переговоров с США по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250422/peregovory-2012842902.html">Спецпосланник США не поедет на переговоры по Украине в Лондон, пишет WP</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250422/vizit-2012842685.html">Белый дом подтвердил визит спецпосланника США в Россию на этой неделе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250422/poshliny-2012842421.html">Из-под повышенных пошлин на импорт косметики в Россию вывели три страны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250422/politolog-2012840910.html">Пасхальное перемирие раскрыло планы Запада по Украине, заявил политолог</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250422/portret-2012841076.html">Художник назвал свой портрет Трампа частью миротворческого процесса</a></div>
+</div><!--n:250422 2100:s:391916:e:2995-->
+<!----><!--2025-03-06 21:00:00--><h2>РИА Новости на Чт 06 мар 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250306/makron-2003501103.html">Нападки Макрона на Россию вызвали гнев во Франции</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250306/vena-2003500850.html">В Австрии выходец из Сирии ранил ножом подростка</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250306/evropa-2003500136.html">Эксперт спрогнозировал острый кризис в Европе из-за Макрона</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250306/putin-2003499820.html">Путин назвал историю женщины-медика из Тывы достойной экранизации</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250306/gagloev-2003499610.html">Президента Южной Осетии госпитализировали</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250306/evropa-2003499426.html">"Как можно скорее": в США забили тревогу из-за провокаций в Европе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250306/peskov-2003499253.html">В Кремле выразили сожаление из-за милитаристских заявлений Варшавы и Парижа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250306/kachinskiy-2003499102.html">Ярослава Качиньского лишили депутатской неприкосновенности</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250306/ssha-2003498278.html">Россия призывает США пересмотреть решение о хуситах, заявил Небензя</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250306/evropa-2003497570.html">Песков не исключил, что Европа перестроится на новый лад</a>
+</div><!--n:250306 2100:s:394948:e:2776-->
+<!----><h2>События на Сб 07 июн 2025 20:00</h2><!--2025-06-07 19:58:50-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250607/krym-2021554467.html">В Крыму вновь объявили ракетную опасность</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250607/vsu-2021553504.html">Пленные боевики ВСУ попросили Киев поскорее обменять их</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250607/demonstratsiyai-2021552823.html">Тысячи жителей Лондона протестуют против отмены пособий</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250607/ssha-2021552692.html">Трамп заявил, что не хочет восстанавливать отношения с Маском</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250607/tramp-2021552589.html">Трамп пригрозил Маску последствиями за пожертвования демократам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250607/pozhar-2021551918.html">Площадь пожара в подмосковном Пушкино превысила восемь тысяч "квадратов"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://rsport.ria.ru/20250607/futbol-2021551666.html">Лукашенко высказался о национальной сборной по футболу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250607/pozhar-2021551507.html">На загоревшемся в подмосковном Пушкино складе находятся газовые баллоны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250607/tramp-2021551077.html">Трампа не станут поздравлять с днем рождения на параде в столице, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250607/ukraina-2021550620.html">"Выбросить на помойку": в США резко высказались об Украине</a></div>
+</div><!--n:250607 2000:s:397761:e:2864-->
+<!----><h2>События на Сб 31 май 2025 20:00</h2><!--2025-05-31 19:56:51-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250531/postradavshie-2020178567.html">Четверых пострадавших при ударе БПЛА доставили из Рыльска в Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250531/mchs-2020178481.html">Площадь пожара в Красногорске выросла до четырех тысяч "квадратов"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250531/oman-2020177724.html">Оман представил Ирану детали предложения США по ядерной сделке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250531/pozhar-2020177441.html">В Красногорске тушат пожар на территории производственного здания</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250531/ukraina-2020177180.html">США не хотят, чтобы переговоры по Украине затягивались, заявили в Госдепе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250531/krym-2020177031.html">Над Крымом уничтожили украинский беспилотник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250531/zelenskiy-2020176215.html">В Германии призвали Мерца подтолкнуть Зеленского к переговорам с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250531/ukraina-2020176043.html">В Житомире мужчина бросил гранату в людей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250531/ukraina-2020175596.html">Решения по Украине должны принимать Москва и Киев, заявили в Госдепе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250531/germaniya-2020175404.html">"Зеленые" теряют популярность среди избирателей, показал опрос</a></div>
+</div><!--n:250531 2000:s:400662:e:2890-->
+<!----><h2>События на Вс 27 июл 2025 20:00</h2><!--2025-07-27 19:55:12-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250727/kndr-2031788421.html">Глава Минприроды отправился в КНДР первым прямым авиарейсом из Москвы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250727/zelenskiy-2031787735.html">"Даже не пытаются". В Раде поставили диагноз Зеленскому</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250727/sheremetevo-2031787519.html">Первый прямой авиарейс в Пхеньян вылетел из Шереметьево</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250727/ukraina-2031787351.html">Украина применила 18 пакетов санкций ЕС против российских юрлиц</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250727/moldavija-2031786928.html">Молдавскую полицию обвинили в нарушении конституции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250727/moldaviya-2031786758.html">Молдавский депутат обвинил власти страны в том, что они боятся правды</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250727/poshliny-2031786299.html">Трамп заявил, что не собирается понижать уровень пошлин для ЕС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250727/rossii-2031785937.html">В секции интересов России назвали сожжение флага в Тбилиси русофобией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250727/chp-2031785741.html">Прокуратура проверит детский лагерь под Новгородом после случаев ОРВИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250727/rossiya-2031785572.html">Подготовка к зиме в новых регионах идет по графику, заявил Файзуллин</a></div>
+</div><!--n:250727 2000:s:403589:e:2910-->
+<!----><h2>События на Пн 30 июн 2025 20:00</h2><!--2025-06-30 19:56:48-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250630/moskva-2026387562.html">Австралийка рассказала, как поездка в Москву изменила ее жизнь</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250630/bespilotnik-2026387284.html">Над Ростовской областью уничтожили  беспилотник ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250630/orban-2026386565.html">Большинство стран НАТО не хотят конфликта с Россией, заявил Орбан</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250630/nato-2026385652.html">НАТО должна прийти к соглашению с Россией, заявил Орбан</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250630/vsu-2026384390.html">Суд вынес приговор четверым военным ВСУ, вторгшимся в Курскую область</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250630/turtsiya-2026383785.html">Турция не располагает данными о третьем раунде переговоров России и Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250630/ukraina-2026383084.html">СМИ: на Украине арестовали экс-заммэра Харькова по делу о хищениях</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250630/sputnik-2026382991.html">Киселев назвал задержание сотрудников Sputnik в Баку несправедливостью</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250630/ukraina-2026382606.html">Пленный рассказал об использовании сотрудниками ТЦК девушек как приманки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:13</span> <a class="nodecor" href="https://ria.ru/20250630/armeniya-2026382379.html">Пашинян решил ограничить участие в политпроцессах лиц без гражданства</a></div>
+</div><!--n:250630 2000:s:406536:e:2946-->
+<!----><h2>События на Ср 17 сен 2025 20:00</h2><!--2025-09-17 19:59:00-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250917/lukashenko-2042571768.html">Лукашенко заявил, что многие осужденные поняли, что оппозиция их бросила</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250917/pozhar-2042571441.html">Пожарные потушили возгорание в Ростовской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250917/uchenye-2042571575.html">Ученые создали ИИ, предсказывающий появление болезней, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250917/belgorod-2042571269.html">В Белгороде при атаке дронов ВСУ пострадала девушка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250917/london-2042570864.html">В Лондоне проходит митинг против приезда Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250917/vystavka-2042487266.html">В Госдуме открыли выставку "Экспорт во имя Победы"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250917/putin-2042570047.html">Путин присвоил почетное звание директору Комбината питания "Кремлевский"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250917/kuban-2042569897.html">На Кубани объявили угрозу атаки беспилотников</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250917/borba-2042569715.html">Россиянка завоевала бронзу на чемпионате мира по спортивной борьбе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250917/putin-2042569523.html">Путин наградил орденом Дружбы помощника президента Бразилии</a></div>
+</div><!--n:250917 2000:s:409519:e:2807-->
+<!----><h2>События на Чт 26 июн 2025 20:00</h2><!--2025-06-26 19:59:39-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250626/putin-2025664106.html">Путин рассказал о взаимных расчетах стран ЕАЭС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250626/lukashenko-2025663860.html">Лукашенко прокомментировал отсутствие Армении на ЕАЭС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250626/bespilotniki-2025663238.html">Над Брянской областью сбили четыре украинских беспилотника</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250626/prezident-2025663065.html">Президент Кубы предложил создать логистический хаб для товаров стран ЕАЭС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250626/putin-2025662282.html">Путин оценил контакты финансовых институтов ЕАЭС с Банком развития БРИКС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250626/myanma-2025661444.html">Мьянма выразила желание присоединиться к работе ЕАЭС в качестве наблюдателя</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250626/putin-2025661186.html">Путин рассказал о последствиях конфискации российских активов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250626/putin-2025660479.html">В России один из лучших в мире показателей по безработице, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250626/eaes-2025659338.html">Путин оценил вклад ЕАЭС в создание пространства партнерства</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250626/putin-2025658666.html">Россия снижает зависимость от западных финансовых институтов, заявил Путин</a></div>
+</div><!--n:250626 2000:s:412363:e:2939-->
+<!----><h2>Подборка новостей на Сб 05 апр 2025 21:00</h2><!--2025-04-05 20:52:05-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250405/mask-2009571399.html">Маск предупредил о возможности "широкомасштабной резни" в Европе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250405/miss-2009570354.html">"Мисс Европа-Косово" погибла в Турции, убегая от полиции</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250405/mask-2009570177.html">Маск заявил о необходимости прекратить конфликт на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250405/svet-2009569540.html">В Иркутской области ураган оставил без электричества более ста тысяч домов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250405/losev-2009569385.html">Умер руководитель старооскольского театра Семен Лосев</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250405/dubaj-2009568851.html">В Дубае расследуют падение воздушного шара с туристами из России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250405/zarnitsa-2009567819.html">Правительство направит 300 миллионов рублей на "Зарницу 2.0"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250405/snayper-2009567658.html">Снайпер рассказал о своей работе в зоне СВО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250405/rossiya-2009567524.html">"Напугать как следует". На Западе сделали неожиданное заявление о России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250405/germaniya-2009567328.html">В Германии сотни человек вышли на акции против Трампа и Маска</a>
+</div><!--n:250405 2100:s:415339:e:2808-->
+<!----><h2>События на Сб 17 май 2025 21:00</h2><!--2025-05-17 20:59:51-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250517/moskva-2017618764.html">В Весеннем велофестивале в Москве участвовали более 67 тысяч человек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250517/putin-2017617872.html">Путин поручил рассмотреть вопрос о строительстве пассажирских ледовых судов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250517/london-2017617038.html">В Лондоне задержали второго подозреваемого в поджоге дома Стармера</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250517/belorussiya-2017616852.html">Делегация из Белоруссии прибыла на интронизацию папы Римского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250517/putin-2017616495.html">Путин поручил устранить цифровое неравенство в Арктической зоне</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250517/zelenskiy-2017615925.html">СМИ раскрыли, что Зеленский хотел устроить на переговорах в Стамбуле</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250517/postradavshie-2017615649.html">Двое пострадавших в ДТП в Подмосковье находятся в тяжелом состоянии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250517/meksika-2017614731.html">Мексика приостановила импорт птицеводческих продуктов из Бразилии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250517/moldaviya-2017614394.html">Еврейская община Молдавии потребовала изъять скандальный учебник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250517/putin-2017614234.html">Путин поручил подготовить предложения по безопасности судов</a></div>
+</div><!--n:250517 2100:s:418184:e:2977-->
+<!----><!--2025-01-29 21:00:00--><h2>РИА Новости на Ср 29 янв 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250129/mask-1996206749.html">В Европарламенте предложили номинировать Маска на Нобелевскую премию мира</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250129/yupiter-1996206347.html">В Солнечной системе произошло самое мощное вулканическое событие</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250129/ssha-1996206244.html">США могут продолжить помогать зарубежным странам, заявили в Госдепе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250129/sdelka-1996205693.html">Главы МИД Великобритании и Ирана обсудили ядерную сделку</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250129/podmoskove-1996205352.html">В Подмосковье трое мужчин напали на фельдшера скорой помощи</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250129/kaliningrad-1996204849.html">Жителя Калининграда будут судить за фиктивную постановку на учет мигрантов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250129/geroy-1996204559.html">Меликов поблагодарил Путина за присвоение звания Героя России Исбакиеву</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250129/ukraina-1996204336.html">Украина попросила у Хорватии экономической и военной помощи, заявил премьер</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250129/dagestan-1996203966.html">Меликов доложил Путину о рекордах по сбору винограда в Дагестане</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250129/ukraina-1996203596.html">На Украине насильно мобилизовали экс-замначальника региональной таможни</a>
+</div><!--n:250129 2100:s:421198:e:2962-->
+<!----><h2>Подборка новостей на Чт 17 апр 2025 21:00</h2><!--2025-04-17 20:56:47-->
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250417/tramp-2011918199.html">Трамп прокомментировал ситуацию со стрельбой в университете Флориды</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250417/tramp-2011917755.html">Трамп назвал возможную дату сделки с Украиной</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250417/bpla-2011917588.html">В Северной Осетии ввели режим беспилотной опасности</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250417/tramp-2011917476.html">Трамп заявил, что ждет ответа России по прекращению огня на этой неделе</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250417/samolet-2011917021.html">Минтранс назвал срок получения сертификата на импортозамещенный Superjet</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250417/strelba-2011916870.html">При стрельбе в университете Флориды погибли пять человек</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250417/mid-2011916698.html">Глава МИД Сирии встретился с делегацией МБНМ в Дамаске</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250417/yuar-2011916312.html">Министр обороны ЮАР посетит парад Победы в Москве</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250417/ukraina-2011916132.html">Эксгумацию жертв Волынской резни начнут в конце апреля</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250417/universitet-2011915862.html">Во Флориде в учебном заведении произошла стрельба</a></div>
+</div><!--n:250417 2100:s:424197:e:2859-->
+<!----><h2>События на Вс 25 май 2025 20:00</h2><!--2025-05-25 19:42:21-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250525/bobyshev-2019004966.html">Умер актер из фильма "Прощай, шпана замоскворецкая…"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250525/vsu-2019004707.html">Военнослужащие, возвращенные из украинского плена, прибыли в Подмосковье</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250525/ataka-2019004552.html">Силы ПВО отражают очередную атаку дронов на Тульскую область</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250525/iran-2019004401.html">МИД Ирана выразил протест советнику посольства Франции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250525/tbilisi-2019004224.html">В Грузии 26 мая отпразднуют День независимости</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250525/gubernator-2019004060.html">Нижегородский губернатор высказался о чемпионате "Профессионалы" в регионе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250525/pozhar-2019003430.html">Прокуратура выясняет причины пожара в жилом доме на Кубани</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://ria.ru/20250525/oag-2019003003.html">Глава ОАГ: прекращение торговли Латинской Америки с КНР станет катастрофой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250525/es-2019002810.html">Пушков высказался о действиях евролибералов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:16</span> <a class="nodecor" href="https://ria.ru/20250525/gayana-2019001293.html">Президент Гайаны заявил о готовности защищать спорный регион Эссекибо</a></div>
+</div><!--n:250525 2000:s:427093:e:2847-->
+<!----><h2>События на Пт 11 июл 2025 20:00</h2><!--2025-07-11 19:57:11-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028674927.html">Путин поручил представить предложения о фестивале искусств в "Сириусе"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028674627.html">Путин поручил фонду "Талант и успех" поддерживать талантливых детей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028674218.html">Путин поручил с 2026 года проводить "Кубок защитников Отечества"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028673967.html">Путин поручил создать пространства для популяризации русского языка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028673473.html">Путин поручил обеспечить проведение соревнований "Мы вместе. Спорт"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250711/uchitelya-2028673048.html">Кириенко рассказал о доплатах учителям русского языка в Абхазии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028672667.html">Путин поручил провести анализ потребностей школьных библиотек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028672421.html">Путин поручил открыть на базе ФМБА центры по реабилитации инвалидов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028672065.html">Путин поручил создать в такси систему поощрений за перевозку инвалидов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250711/putin-2028671495.html">Путин поручил регионам включить реабилитацию инвалидов в перечни госуслуг</a></div>
+</div><!--n:250711 2000:s:429977:e:2968-->
+<!----><h2>Подборка новостей на Пн 21 апр 2025 21:00</h2><!--2025-04-21 20:58:58-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250421/dnr-2012614925.html">В ДНР при подрыве на мине погиб мирный житель</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250421/barabash-2012614628.html">Суд изменил меру пресечения Барабаш* на заключение под стражу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250421/putin-2012614067.html">Путин, говоря о развитии городов, вспомнил строчку из советской песни</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250421/otshelnik-2012613549.html">Обвиняемый в покушении на убийство в Зеленограде назвал себя императором</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250421/zelenskij-2012613364.html">Зеленский назвал дату встречи в Лондоне по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250421/glava-2012612729.html">В Белгородской области заявили, что преступлениям ВСУ нет оправданий</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250421/pentagon-2012612614.html">Белый дом опроверг сообщения о поиске нового главы Пентагона</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250421/putin-2012612422.html">Бизнес заинтересован в развитии городов, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250421/pozhar-2012612317.html">В Подмосковье загорелся Тимоховский полигон</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250421/sudostroenie-2012612138.html">В России создадут исследовательский центр судостроения, заявил Патрушев</a></div>
+</div><!--n:250421 2100:s:432982:e:2860-->
+<!----><!--2025-02-15 21:00:00--><h2>РИА Новости на Сб 15 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250215/vstrecha-1999615947.html">Греция анонсировала экстренную встречу глав МИД стран ЕС в Мюнхене</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250215/germaniya-1999615069.html">В Германии откроют центры для возвращения украинских беженцев</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250215/kellog-1999614464.html">Келлог назвал условия для завершения конфликта на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250215/rossiya-1999613995.html">Слуцкий прокомментировал слова Лэмми о гарантиях безопасности для Украины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250215/ukraina-1999613790.html">СМИ узнали о серьезном ударе Венгрии по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250215/dtp-1999613611.html">В Подмосковье автомобиль столкнулся с поездом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250215/ssha-1999611777.html">Bloomberg сообщило, кто возглавит делегацию США на встрече по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:10</span> <a class="nodecor" href="https://ria.ru/20250215/minzdrav-1999610126.html">Минздрав разработал критерии оценки качества медицинской помощи</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:03</span> <a class="nodecor" href="https://ria.ru/20250215/dtp-1999609592.html">В Ростовской области два человека погибли в ДТП с грузовиком</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250215/trufanov-1999608743.html">Появились кадры первой встречи россиянина Труфанова с семьей</a>
+</div><!--n:250215 2100:s:435879:e:2808-->
+<!----><h2>События на Вс 20 июл 2025 20:00</h2><!--2025-07-20 19:58:30-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250720/religiya-2030301317.html">Патриарх Кирилл прибыл с первосвятительским визитом в Татарстан</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250720/gosduma-2030300950.html">Мессенджер MAX уже повторяет все базовые функции WhatsApp, заявили в ГД</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250720/bojarskij-2030300073.html">В Госдуме считают преждевременным называть даты блокировки WhatsApp</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250720/moskva-2030299838.html">Москвичам рассказали о погоде на следующей неделе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250720/ssha-2030299280.html">В конгрессе призвали вызвать Харрис для дачи показаний о здоровье Байдена</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250720/kitay-2030298996.html">Власти китайской провинции извинились за отравление свинцом детей в детсаду</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250720/rossiya-2030298760.html">"Навредили себе". Такер Карлсон раскрыл шокирующую правду о России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250720/sapsan-2030298116.html">РЖД увеличили число мест в "Сапсанах" на 21 июля</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250720/ssha-2030297654.html">Спецпосланник США в Турции заявил о прекращении огня в Сирии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250720/dtp-2030297017.html">В Нижнем Новгороде пьяный водитель каршеринга насмерть сбил пешехода</a></div>
+</div><!--n:250720 2000:s:438724:e:2897-->
+<!----><h2>События на Пн 07 июл 2025 20:00</h2><!--2025-07-07 19:56:24-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250707/mid-2027768296.html">Источник рассказал о встрече глав МИД Турции и России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250707/tekhas-2027767096.html">Число погибших при наводнении в Техасе увеличилось до 89</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250707/starovoyt-2027766162.html">Полиция и СК уехали с места самоубийства Старовойта</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250707/zyuganov-2027765909.html">Никитин справится с работой на посту главы Минтранса, считает Зюганов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250707/mintrans-2027764116.html">"Единая Россия" поддержит кандидатуру Никитина на пост главы Минтранса</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250707/ukraina-2027763144.html">В Сумской области заявили о повреждении объекта критической инфраструктуры</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250707/starovoyt-2027762317.html">Машину покончившего с собой Старовойта эвакуировали</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250707/ssha-2027761909.html">США введут пошлины на японские и южнокорейские товары</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250707/khinshteyn-2027760532.html">Хинштейна выдвинули кандидатом на выборы главы Курской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250707/putin-2027760226.html">Путин поприветствовал участников кинофестиваля "В кругу семьи"</a></div>
+</div><!--n:250707 2000:s:441658:e:2858-->
+<!----><h2>События на Чт 21 авг 2025 20:00</h2><!--2025-08-21 19:56:53-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250821/tramp-2036851710.html">Трамп сделал заявление после отмены судом наложенного на него штрафа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250821/exxpress-2036851588.html">"Посыл ясен". Новое заявление Вэнса по Украине встревожило Запад</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250821/arktika-2036846222.html">Участники Большой Арктической экспедиции вернулись в Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250821/tramp-2036851221.html">Суд отменил штраф Трампа за завышение стоимости активов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250821/oon-2036849258.html">Россия вышла из процесса ООН по инциденту с задержанием украинских кораблей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250821/izrail-2036848142.html">Нетаньяху заявил о скором завершении конфликта в Газе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250821/vybory-2036842760.html">Офис Зеленского отговаривает Залужного от участия в выборах, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250821/gosduma-2036840810.html">В Госдуме предложили создать официальные криптообменники</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250821/bpla-2036840619.html">В ДНР два мирных жителя погибли при атаке украинского БПЛА</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:14</span> <a class="nodecor" href="https://ria.ru/20250821/natsionalist-2036839765.html">Националисту Королеву запросили второй пожизненный срок</a></div>
+</div><!--n:250821 2000:s:444553:e:2877-->
+<!----><h2>Подборка новостей на Вс 30 мар 2025 21:00</h2><!--2025-03-30 20:56:07-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250330/pomosch-2008278552.html">В США жестко высказались о помощи Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250330/iran-2008278142.html">В Иране произошел взрыв в полицейском участке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250330/belorussiya-2008277910.html">Политики в ЕС все чаще говорят о пагубности санкций, заявили в Минске</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250330/most-2008276578.html">NYT раскрыла детали удара ВСУ по Крымскому мосту в 2024 году</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250330/dtp-2008265145.html">В Петербурге столкнулись два пассажирских автобуса</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250330/korrespondent-2008275247.html">Корреспондент ГТРК "Донецк" Старущенко не пострадал при атаке дрона в ДНР</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250330/peterburg-2008272412.html">В Петербурге таксист-мигрант попал в ДТП, уходя от погони</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:14</span> <a class="nodecor" href="https://ria.ru/20250330/erdogan-2008272190.html">Эрдоган обвинил оппозицию в попытке скрыть коррупцию в мэрии Стамбула</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:08</span> <a class="nodecor" href="https://ria.ru/20250330/avstrija-2008271369.html">Мусульмане в Австрии требуют официального празднования окончания Рамадана</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:06</span> <a class="nodecor" href="https://ria.ru/20250330/tramp-2008271079.html">Трамп заявил, что не шутит о переизбрании на третий срок</a>
+</div><!--n:250330 2100:s:447467:e:2799-->
+<!----><h2>События на Вт 17 июн 2025 20:00</h2><!--2025-06-17 19:58:36-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250617/zaharova-2023412886.html">Захарова прокомментировала ситуацию вокруг Карапетяна</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250617/iran-2023412561.html">Вэнс объяснил путаницу в вопросе Ирана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250617/simonjan-2023412378.html">Симоньян прокомментировала слова Пашиняна о Карапетяне</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250617/flag-2023411215.html">Флаг Афганистана развевается на площадке ПМЭФ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250617/iran-2023411991.html">Иран нанес удары по авиабазам Израиля, сообщает КСИР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250617/pmef-2023411359.html">Флаг КНДР развевается на площадке ПМЭФ в Петербурге</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250617/khinshteyn-2023411720.html">При атаки дрона ВСУ в Курской области погибла женщина </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250617/ukraina-2023410593.html">Мерц считает возможным вступление Украины в НАТО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250617/armija-2023410385.html">ЦАХАЛ зафиксировала запуск ракет со стороны Ирана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250617/iran-2023410165.html">Сессия МАГАТЭ по Ирану была своевременной, заявил зампостпреда России</a></div>
+</div><!--n:250617 2000:s:450303:e:2688-->
+<!----><h2>Подборка новостей на Вт 25 мар 2025 21:00</h2><!--2025-03-25 20:57:01-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250325/frantsija-2007301043.html">Во Франции столкнулись два военных самолета</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250325/absurd-2007300955.html">МИД России заявил об абсурдности международной эксплуатации ЗАЭС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250325/gramoty-2007300081.html">Шольц получил увольнительную грамоту</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250325/zaes-2007299823.html">МИД России заявил о невозможности передачи контроля над ЗАЭС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250325/mid-2007299623.html">Лавров проинформировал МИД Белоруссии об итогах переговоров России и США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250325/rassledovanie-2007299284.html">Сирия призвала провести расследование израильских атак против страны</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250325/putin-2007298656.html">Путин предложил создать культурную инфраструктуру в новых микрорайонах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250325/otnosheniya-2007298502.html">Глава МИД Белоруссии обсудил с Лавровым двусторонние отношения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250325/putin-2007298126.html">Путин присвоил Михалковой и Олешко звания народных артистов России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250325/putin-2007297385.html">Путин поручил проработать идею по развитию отечественной анимации</a>
+</div><!--n:250325 2100:s:453028:e:2848-->
+<!----><h2>События на Чт 24 июл 2025 20:00</h2><!--2025-07-24 19:55:18-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250724/nato-2031253767.html">В Германии считают, что НАТО будет воевать с Россией до последнего украинца</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250724/putin-2031253554.html">Путин поддержал идею создания приложения для помощи ветеранам СВО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250724/neft-2031253304.html">США разрешили компании Chevron добывать нефть в Венесуэле, пишет WSJ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250724/samolet-2031253150.html">Президент Малайзии выразил соболезнования в связи с крушением Ан-24</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250724/epshteyn-2031252960.html">Спикер палаты представителей не согласен с оценками Трампа по делу Эпштейна</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250724/moldaviya-2031252775.html">Молдавия направила Греции запрос на выдачу олигарха Плахотнюка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250724/korruptsiya-2031252436.html">ООН прокомментировала закон об антикоррупционных органах на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250724/turtsija-2031252211.html">Турция соболезнует России в связи с крушением Ан-24</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250724/yampolskaya-2031252068.html">В России планируют создать центр разработки детских игрушек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250724/putin-2031251856.html">Путин заявил о важности строительства стратегических подводных ракетоносцев</a></div>
+</div><!--n:250724 2000:s:455913:e:2968-->
+<!----><h2>События на Сб 24 май 2025 20:00</h2><!--2025-05-24 19:58:16-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250524/chernyshenko-2018900796.html">Чернышенко поздравил россиян с Днем славянской письменности и культуры</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250524/gamburg-2018900462.html">Подозреваемую в нападении с ножом в Гамбурге отправили в психбольницу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250524/postradavshie-2018900298.html">В Шебекино при детонации FPV-дрона пострадали двое мужчин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250524/kirill-2018899958.html">Патриарх Кирилл приехал на концерт на Красной площади на старинной "Чайке"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250524/mid-2018899851.html">Глава Республики Сербской БиГ Додик встретится с Шойгу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250524/frantsiya-2018898611.html">Опрос показал, что думают французы о борьбе Макрона с радикальным исламом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250524/orban-2018898142.html">Новый план Запада по Украине привел европейского политика в ярость</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250524/losi-2018897988.html">В промзоне в Петербурге заметили трех лосей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250524/frantsiya-2018897725.html">Во французском департаменте Приморские Альпы восстановили электроснабжение</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250524/kursk-2018897420.html">Хинштейн вручил ключи от машин семьям погибших сотрудников Росгвардии</a></div>
+</div><!--n:250524 2000:s:458918:e:2951-->
+<!----><h2>События на Вс 01 июн 2025 20:00</h2><!--2025-06-01 19:54:30-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250601/moskva-2020332121.html">В Москве рассказали о состоянии пострадавших в ЧП под Брянском</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250601/deti-2020331895.html">В Кузбассе пропали двое малолетних детей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250601/chp-2020331687.html">Память жертв ЧП с поездом под Брянском почтили в ДНР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250601/iran-2020330890.html">Посол Ирана в Москве выразил соболезнования в связи с ЧП в Брянской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250601/spetsoperatsiya-2020330769.html">Российские военные ударили "Искандером" по палаточному лагерю бригад ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250601/ukraina-2020330549.html">Жители Днепропетровской области отбили у ТЦК мужчину</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250601/trevoga-2020330391.html">Воздушную тревогу объявили в Киеве и десяти украинских областях</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250601/religiya-2020330185.html">Патриарх Кирилл высказался о ЧП в Брянской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250601/peregovory-2020329948.html">Охрану дворца, где панируются переговоры России и Украины, не усилили</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250601/mo-2020329861.html">Силы ПВО с 8:20 по 19:00 уничтожили 33 БПЛА</a></div>
+</div><!--n:250601 2000:s:461906:e:2793-->
+<!----><h2>Подборка новостей на Вс 23 мар 2025 21:00:01</h2><!--2025-03-23 20:59:05-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250323/ukraina-2006823322.html">Экс-глава генштаба ВСУ Баргилевич принимает участие в переговорах с США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250323/aktsiya-2006820194.html">В Анкаре проведут очередную акцию в поддержку Имамоглу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250323/gorlovka-2006819536.html">При обстреле Горловки пострадал еще один ребенок</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250323/rossiya-2006819446.html">Российская делегация прибыла в Эр-Рияд на переговоры с США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250323/brjussel-2006819254.html">Демонстранты в Брюсселе заявили о росте проявлений расизма в Бельгии и ЕС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250323/vstrecha-2006817887.html">В офисе Зеленского заявили, что встреч с российской делегацией не будет</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250323/vybory-2006817714.html">Мэр Анкары призвал к досрочным президентским выборам после ареста Имамоглу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:14</span> <a class="nodecor" href="https://ria.ru/20250323/dron-2006817453.html">Над Белгородской областью и Крымом сбили два украинских дрона</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:11</span> <a class="nodecor" href="https://ria.ru/20250323/ukraina-2006817125.html">В офисе Зеленского отказались комментировать переговоры с США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:11</span> <a class="nodecor" href="https://ria.ru/20250323/politsija-2006816941.html">Полиция в Стамбуле применила слезоточивый газ против митингующих</a>
+</div><!--n:250323 2100:s:464736:e:2895-->
+<!----><h2>События на Вс 17 авг 2025 20:00</h2><!--2025-08-17 19:57:36-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250817/belorussija-2035940249.html">В Совбезе Белоруссии прокомментировали переговоры Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250817/kadyrov-2035940091.html">Кадыров рассказал об уничтожении блиндажей ВСУ на харьковском направлении</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250817/zelenskij-2035939814.html">Зеленский готов обсуждать территориальный вопрос с Путиным и Трампом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250817/putin-2035938922.html">Эксперт считает, что Путин подтвердил свое влияние на мировую политику</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250817/germaniya-2035939344.html">В Германии заявили, что Трамп сосредоточен на достижении общего соглашения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250817/ukraina-2035939123.html">Глава РФПИ призвал Европу не мешать миру на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250817/sammit-2035938475.html">Экс-дипломат Франции назвал Путина главным победителем саммита на Аляске</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250817/vsu-2035938308.html">ВС России нанесли удар по скоплению ВСУ в Днепропетровской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:13</span> <a class="nodecor" href="https://ria.ru/20250817/akter-2035938094.html">Умер актер из фильма "Звездные войны"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250817/ukraina-2035937671.html">ВСУ испытывают нехватку людей на Запорожском направлении, сообщил боец</a></div>
+</div><!--n:250817 2000:s:467668:e:2943-->
+<!----><h2>События на Чт 15 май 2025 21:00</h2><!--2025-05-15 20:58:25-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250515/turtsiya-2017215315.html">В Стамбуле началась встреча Фидана с российской делегацией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250515/stambul-2017215050.html">Журналисты почти 14 часов ждут переговоров России и Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250515/peregovory-2017214706.html">На Западе сделали неожиданный прогноз по переговорам в Стамбуле</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250515/google-2017214252.html">МВД предупредило о новой мошеннической схеме с письмами от Google</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250515/berbok-2017213672.html">Полянский прокомментировал выдвижение Бербок на пост главы ГА ООН</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250515/ssha-2017213511.html">США намерены внести исключения из санкций в отношении Сирии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250515/turtsiya-2017213182.html">Фидан запланировал встречу с российской делегацией в четверг, заявил МИД</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250515/oon-2017212472.html">Франция подаст на Иран в Международный суд ООН</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250515/stambul-2017212134.html">В Стамбуле местные жители пришли к месту переговоров России и Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250515/vsu-2017211430.html">ВСУ обстреляли пять населенных пунктов в Белгородской области</a></div>
+</div><!--n:250515 2100:s:470648:e:2873-->
+<!----><h2>Подборка новостей на Пн 24 мар 2025 21:00:03</h2><!--2025-03-24 20:55:42-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250324/zhurnalist-2007060982.html">Глава Крыма принес соболезнования в связи с гибелью журналиста "Известий"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250324/chat-2007060402.html">Журналист случайно попал в чат Белого дома при обсуждении ударов по хуситам</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250324/es-2007059996.html">ЕС может привлечь Турцию для своих планов по перевооружению, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250324/mid-2007059692.html">Россия будет добиваться реакции ОБСЕ и ЮНЕСКО на гибель журналиста</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250324/krikalev-2007059551.html">Крикалева назначили замгендиректора "Роскосмоса"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250324/tramp-2007059303.html">Трамп рассказал, какие вопросы обсуждаются на переговорах по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250324/zelenskiy-2007058470.html">"Сидя в кустах": в Раде раскрыли, как Зеленский испугался Уиткоффа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250324/nis-2007058273.html">Правительство Сербии поддержало запрос NIS об отсрочке санкций</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250324/peregovory-2007058080.html">Во Франции Украине предрекли новую войну после переговоров</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250324/repatriatsiya-2007057893.html">В Госдуму внесут проект о репатриации соотечественников</a>
+</div><!--n:250324 2100:s:473558:e:2896-->
+<!----><h2>События на Пт 05 сен 2025 20:00</h2><!--2025-09-05 19:58:06-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250905/zakharova-2040090509.html">Захарова высмеяла еврокомиссара из-за резких слов о России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250905/lnr-2040091117.html">В ЛНР женщина получила 16 лет колонии за шпионаж</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250905/mitvol-2040090830.html">Митволь работает в колонии завхозом клуба</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250905/ssha-2040090624.html">В Белом доме заявили о готовности экономики США к последствиям пошлин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250905/shufutinskij-2040090260.html">Шуфутинский после получения российского гражданства открыл ИП</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250905/sanktsii-2040089515.html">Канада готовит новый пакет санкций против России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250905/bespilotnik-2040089334.html">Над Белгородской областью уничтожили украинский беспилотник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250905/spetsoperatsiya-2040088796.html">Российские дроны заблокировали передвижение ВСУ в Константиновке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250905/moldaviya-2040088363.html">Молдавия стремительно движется к милитаризации, заявил экс-премьер Тарлев</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250905/kanada-2040087320.html">Канада больше не считает США надежным торговым партнером, заявил Карни</a></div>
+</div><!--n:250905 2000:s:476491:e:2857-->
+<!----><!--2025-01-25 21:00:00--><h2>РИА Новости на Сб 25 янв 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250125/mariyel-1995491725.html">В Марий Эл задержали подозреваемого в убийстве женщины и двоих детей</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250125/siiyarto-1995491242.html">Сийярто потребовал от Каллас гарантий по энергобезопасности Венгрии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:14</span> <a class="nodecor" href="https://ria.ru/20250125/noem-1995490416.html">Кристи Ноэм утвердили на пост министра внутренней безопасности США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:11</span> <a class="nodecor" href="https://ria.ru/20250125/gazprom-1995489987.html">Генпрокуратура подала иск к экс-менеджеру "Газпрома" Митюшову</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:06</span> <a class="nodecor" href="https://ria.ru/20250125/gorlovka-1995489443.html">Число пострадавших при обстрелах Горловки увеличилось до трех</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:02</span> <a class="nodecor" href="https://ria.ru/20250125/glava-1995488886.html">Новый министр обороны США назвал три ключевых приоритета Пентагона</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250125/tusk-1995488505.html">Сийярто назвал Туска агентом Сороса</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250125/zelenskiy-1995488353.html">Зеленский попытался оправдаться за указ о запрете переговоров с Россией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250125/aysberg-1995488207.html">Угрожающий британскому острову айсберг попал на фото</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250125/rada-1995487960.html">В Раде призвали министра обороны Украины уйти в отставку</a>
+</div><!--n:250125 2100:s:479385:e:2820-->
+<!----><h2>События на Пт 18 июл 2025 20:00</h2><!--2025-07-18 19:57:32-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250718/frg-2030061727.html">Россия прекратила военно-техническое сотрудничество с ФРГ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250718/koreja-2030061534.html">Суд в Южной Корее оставил бывшего президента под стражей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250718/poltava-2030061297.html">В Полтаве прогремел взрыв</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250718/trevoga-2030060520.html">В Киеве и восьми украинских регионах объявили воздушную тревогу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250718/samolet-2030060303.html">Замглавы Росавиации высоко оценил аэропорт Геленджика</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250718/nikolskij-2030059816.html">Умер артист ВИА "Стожары" Алексей Никольский</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250718/kolumbiya-2030058911.html">МИД Колумбии прокомментировал участие своих граждан в боях за ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250718/tramp-2030058503.html">Трамп ужесточил требования в переговорах  с ЕС, пишет FT</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250718/inflyatsiya-2030058277.html">МЭР сохранило прогноз по инфляции на 2025 год</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250718/bespilotnik-2030057711.html">Отражена атака еще одного беспилотника, летевшего на Москву</a></div>
+</div><!--n:250718 2000:s:482242:e:2711-->
+<!----><h2>События на Пн 28 июл 2025 20:00</h2><!--2025-07-28 19:57:31-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250728/aeroflot-2032021722.html">"Аэрофлот" отменил еще 12 рейсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250728/tramp-2032021290.html">Медведев назвал угрозой слова Трампа о новом сроке для перемирия на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250728/sevastopol-2032021095.html">Музей христианства в Севастополе открыли экспозицией "Крестный отец"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250728/politika-2032020857.html">Нечаев рассказал о возрасте депутатов от партии "Новые люди"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250728/ssha-2032020583.html">Bloomberg сообщил о тревожном сигнале Путину со стороны США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250728/slutskij-2032020328.html">Слуцкий прокомментировал заявление Трампа о сокращении срока перемирия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250728/rossija-2032019814.html">Россия пожелала братскому сирийскому народу преодолеть кризис</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250728/moldaviya-2032019368.html">В Госдуме назвали ситуацию с АНО "Евразия" в Молдавии политическим заказом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250728/peterburg-2032019023.html">В Петербурге оштрафовали мужчину в кроксах и зимней куртке ДПС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250728/tramp-2032018545.html">Глава МИД Индии опроверг сообщения о роли Трампа в переговорах с Пакистаном</a></div>
+</div><!--n:250728 2000:s:484990:e:2912-->
+<!----><!--2025-03-17 20:56:19-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250317/iskander-2005594715.html">ВС России нанесли удар "Искандером" по ВСУ в Сумской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250317/zaes-2005594613.html">Трамп затронет тему ЗАЭС в разговоре с Путиным, сообщили в Белом доме</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250317/zelenskiy-2005594248.html">Белый дом отказался комментировать вопрос о будущем Зеленского</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250317/otvet-2005594077.html">Белый дом ответил на требование политика из Франции вернуть статую Свободы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250317/peregovory-2005593315.html">В Белом доме раскрыли детали переговоров с Украиной по условиям мира</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250317/belgorod-2005593147.html">Директора компании арестовали за хищение при строительстве фортификаций</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250317/izrail-2005590720.html">В правительстве Израиля ушли от ответа на вопрос о Бандере </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250317/razgovor-2005592202.html">Белый дом рассказал о последствиях при провале переговоров Путина и Трампа </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250317/svo-2005591944.html">Суд рассмотрит дело мужчины, расстрелявшего участника СВО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250317/ukraina-2005591320.html">В Белом доме заявили о скором мире на Украине</a>
+</div><!--n:250317 2100:s:487939:e:2818-->
+<!----><h2>События на Чт 01 май 2025 21:00</h2><!--2025-05-01 20:59:43-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250501/berlin-2014616178.html">В Берлине началась демонстрация против вовлечения страны в конфликты</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250501/vsu-2014615857.html">В районе Сум уничтожили боевиков ВСУ, бежавших из Курской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250501/kirienko-2014615388.html">Кириенко отметил важность запуска электрички из Сириуса в Сухум</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250501/veterany-2014615062.html">На гала-концерте в Кремле ветеранов приветствовали аплодисментами</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250501/sukhum-2014614866.html">Пассажиры первого за 30 лет рейса Москва — Сухум получили памятные сувениры</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250501/moldaviya-2014614206.html">Оппозиция в Молдавии отметила 1 мая, несмотря на препятствия властей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250501/abkhaziya-2014613718.html">Многие регионы хотят запустить авиарейсы в Абхазию, заявил Кириенко</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250501/reys-2014612948.html">Кириенко анонсировал запуск первого рейса из Нижнего Новгорода в Сухум</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250501/turtsiya-2014612726.html">Россельхознадзор зафиксировал нарушения в растительной продукции из Турции </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250501/novgorod-2014612557.html">В Великом Новгороде при пожаре в многоэтажке погиб человек</a></div>
+</div><!--n:250501 2100:s:490794:e:2994-->
+<!----><h2>События на Пт 29 авг 2025 20:00</h2><!--2025-08-29 19:55:40-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250829/ssha-2038410985.html">Политолог оценил призыв Трампа к аресту Сороса</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250829/minoborony-2038410876.html">Минобороны завершило создание системы единого воинского учета</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250829/rjabki-2038410699.html">Рябков рассказал о работе по урегулированию на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250829/makhachkala-2038410440.html">Стали известны подробности стрельбы в махачкалинском торговом центре</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250829/chp-2038410265.html">Возгорание в Геленджикском лесничестве локализовали</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250829/dagestan-2038410056.html">В Дагестане завели дело после взрыва на АЗС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250829/zaporozhe-2038409812.html">В Запорожье прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250829/ssha-2038409659.html">Россия рассчитывает, что США продолжат работу по договоренности на Аляске</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250829/belousov-2038409560.html">Белоусов потребовал перейти к новой модели военно-строительного комплекса</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250829/zelenskiy-2038409098.html">Молодежь останется на Украине, если разрешить выезд, утверждает Зеленский</a></div>
+</div><!--n:250829 2000:s:493825:e:2813-->
+<!----><!--2025-02-10 21:00:00--><h2>РИА Новости на Пн 10 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250210/lavrov-1998500259.html">Лавров заявил о готовности России к переговорам по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250210/mazut-1998499814.html">Около 50 тысяч россиян приняли участие в уборке мазута с побережья</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250210/bespilotniki-1998498846.html">Над Крымом и Черным морем сбили три украинских беспилотника</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250210/lavrov-1998497871.html">Россия пересмотрит международные обязательства, заявил Лавров</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250210/khamas-1998497970.html">Нетаньяху созвал экстренное совещание с главами спецслужб</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250210/gaz-1998497430.html">Эксперт объяснил рост цен на газ в Европе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250210/minpromtorg-1998497293.html">Минпромторг предложил ввести обязательную маркировку отопительных приборов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250210/zelenskiy-1998496956.html">Зеленский раскрыл условия контракта ВСУ для 18-летних украинцев</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250210/tanker-1998496765.html">Собственника танкера Koala обязали убрать судно из порта Усть-Луга</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250210/dollar-1998496210.html">Доверие к доллару потеряно, мир ищет альтернативы, заявил дипломат</a>
+</div><!--n:250210 2100:s:496675:e:2832-->
+<!----><h2>События на Сб 23 авг 2025 20:00</h2><!--2025-08-23 19:59:10-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250823/uljanovsk-2037207775.html">В аэропорту Ульяновска ввели временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250823/zelenskiy-2037207310.html">Зеленский высказался о передаче территорий</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250823/moldavija-2037207041.html">В Молдавии полиция блокирует митинги оппозиции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250823/ganchev-2037206871.html">Ганчев призвал удерживать буферную зону на Волчанском направлении</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250823/vyshinskij-2037206599.html">Вышинский останется в памяти истинным профессионалом, заявила Захарова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250823/rzhd-2037206252.html">В Ростовской области ввели в график 31 поезд</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250823/dvurechnaja-2037204896.html">Из Двуречной эвакуировали более 50 человек, заявил Ганчев</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250823/ssha-2037204681.html">Генпрокурор США призвала отказаться от политики "городов-убежищ"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250823/kirov-2037204441.html">В аэропорту Кирова ввели ограничения на прием и выпуск воздушных судов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250823/murmansk-2037204121.html">В Мурманской области пропал путешественник</a></div>
+</div><!--n:250823 2000:s:499544:e:2772-->
+<!----><!--2025-03-14 21:00:00--><h2>РИА Новости на Пт 14 мар 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250314/lukashenko-2005119838.html">Лукашенко рассказал о работе с Киевом по обмену пленными</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250314/lukashenko-2005119679.html">Лукашенко рассказал о предложении Украины создать лагеря для военнопленных</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250314/boepripasy-2005119378.html">Хинштейн рассказал про использование ВСУ кассетных боеприпасов </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250314/lukashenko-2005119026.html">Россия и Белоруссия не планировали нападения на Европу, заявил Лукашенко</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250314/zelenskiy-2005118793.html">Зеленский намекнул на отступление ВСУ из Курской области, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250314/zelenskij-2005118652.html">Зеленский не попросит у Белоруссии убежища, заявил Лукашенко</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250314/udar-2005118290.html">ВСУ нанесли удар по краеведческому музею в Судже</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250314/medvedev-2005118113.html">Киевский режим еще может спасти своих военных, заявил Медведев</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250314/lukashenko-2005117871.html">Лукашенко рассказал о просьбе Украины предоставить убежище Саакашвили</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250314/medvedev-2005116856.html">Медведев рассказал об уничтожении отказавшихся сложить оружие бойцов ВСУ</a>
+</div><!--n:250314 2100:s:502353:e:2919-->
+<!----><h2>События на Ср 23 июл 2025 20:00</h2><!--2025-07-23 19:52:53-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250723/mid-2030960570.html">Замглавы МИД России встретился с послом Турции в Москве</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250723/vstrecha-2030960483.html">Главы делегаций России и Украины начали переговоры</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250723/khirurg-2030959296.html">Хирурга, прооперировавшего жену главы ФЕОР, госпитализировали с инсультом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250723/volodin-2030958521.html">У российского парламента есть все для ответственной работы, заявил Володин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250723/vakansii-2030957204.html">Народный фронт предложил снять возрастные ограничения на "земские" вакансии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250723/bpla-2030957099.html">Над Севастополем сбили шесть беспилотников ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250723/ssha-2030956357.html">Эксперт предположил, с чем связано решение Трампа о выходе США из ЮНЕСКО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250723/krym-2030956234.html">В Крыму локализовали ландшафтный пожар на площади 56 гектаров</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250723/slava-2030954890.html">Первый президент Армении предрек Пашиняну славу попа Гапона</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250723/sijjarto-2030954452.html">Сийярто заявил о гибели закарпатского венгра при мобилизации на Украине</a></div>
+</div><!--n:250723 2000:s:505309:e:2911-->
+<!----><h2>События на Сб 10 май 2025 21:00</h2><!--2025-05-10 20:46:19-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250510/ukraina-2016255946.html">Сотрудник харьковского ТЦК избил бывшего военного</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250510/indiya-2016255518.html">МИД Индии обвинил Пакистан в нарушении режима прекращения огня</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250510/dodik-2016255355.html">Додик заявил, что успел обсудить с Путиным важные темы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250510/dron-2016254805.html">В Белгородской области при атаке дрона ВСУ пострадала семья</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250510/putin-2016254164.html">Путин поблагодарил президента Буркина-Фасо за визит в Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250510/burkina-2016253640.html">Буркина-Фасо планирует развивать отношения с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:12</span> <a class="nodecor" href="https://ria.ru/20250510/putin-2016253293.html">Путин рассказал об оказании гуманитарной поддержки Буркина-Фасо</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:09</span> <a class="nodecor" href="https://ria.ru/20250510/putin-2016253169.html">Россия увеличила квоты для студентов из Буркина-Фасо, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:08</span> <a class="nodecor" href="https://ria.ru/20250510/kitaj-2016251869.html">Китай и Россия стоят плечом к плечу, заявил Ван И</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:06</span> <a class="nodecor" href="https://ria.ru/20250510/rossija-2016251456.html">Россия занимает видное место в мире, заявил президент Буркина-Фасо</a></div>
+</div><!--n:250510 2100:s:508257:e:2802-->
+<!----><h2>События на Пт 04 июл 2025 20:00</h2><!--2025-07-04 19:59:10-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250704/peterburg-2027297899.html">В Петербурге открыли дамбу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250704/sud-2027296741.html">Суд закрыл банкетный зал в Перми, где отравились более 20 человек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250704/zelenskiy-2027293132.html">В Раде выступили с неожиданным призывом к ЕС из-за Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250704/vsu-2027296180.html">Запад игнорирует факты применения ВСУ химоружия, завило постпредство России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250704/napadenie-2027295929.html">В Нальчике при нападении на сотрудника ДПС пострадали два человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250704/balkon-2027295672.html">В Омске во время урагана на женщину упал балкон</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250704/chp-2027294919.html">Мужчина в Сергиевом Посаде ударил ножом 9-летнего мальчика</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250704/rpts-2027292636.html">В РПЦ выступили с новыми инициативами в поддержку семьи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250704/briks-2027292269.html">Силуанов рассказал об обсуждении в БРИКС запуска новой инвестплатформы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250704/chp-2027291056.html">В нападении на сотрудника ДПС в Нальчике участвовали два человека </a></div>
+</div><!--n:250704 2000:s:511096:e:2812-->
+<!----><h2>События на Ср 13 авг 2025 20:00</h2><!--2025-08-13 19:55:56-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250813/bojtsy-2035111729.html">Пятеро бойцов белгородского "Орлана" ранены при выполнении служебных задач</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250813/tramp-2035111543.html">Туск заявил, что Трамп с пониманием принял позицию Европы по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250813/zelenskiy-2035111317.html">В Раде заметили пугающую деталь в поведении Зеленского в Берлине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250813/raspisanie-2035110503.html">Минпросвещения разработало варианты расписаний уроков для школ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250813/ukraina-2035110264.html">Мерц назвал приоритетную задачу переговоров по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250813/zelenskiy-2035109932.html">Зеленский может прибегнуть к террористическим методам, заявил эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250813/sanktsii-2035109047.html">Британия готовит новый пакет антироссийских санкций</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250813/polsha-2035107899.html">Навроцкого возмутило появление в Польше бандеровской символики</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250813/rossiya-2035107502.html">Рост ВВП России в июне составил 1,1 процента в годовом выражении</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250813/ekonomika-2035106844.html">ФАС проанализировала цены на бензин для аграриев</a></div>
+</div><!--n:250813 2000:s:513945:e:2895-->
+<!----><!--2025-01-27 21:00:00--><h2>РИА Новости на Пн 27 янв 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250127/gas-1995794890.html">Президент Польши сделал дерзкое заявление о российском газе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250127/polsha-1995793819.html">Польша закупит американские противорадиолокационные ракеты</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250127/evrosoyuz-1995792972.html">Каллас призвала Евросоюз научиться разговаривать с США на "языке сделок"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250127/orban-1995792823.html">На Украине восхитились смелым шагом Орбана</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250127/minoborony-1995792548.html">Минобороны раскрыло подробности освобождения Николаево-Дарьино</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250127/turtsiya-1995791439.html">Глава МИД Турции оценил ситуацию с российскими военными базами в Сирии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250127/sanktsii-1995790808.html">Канада наложила новые санкции на Белоруссию в свете последних выборов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250127/izbienie-1995790669.html">Мизулина обратится в СК из-за информации об избиении школьницы в Люберцах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250127/kot-1995790509.html">Волонтеры ищут хозяина коту Федору, доехавшему автостопом в Москву</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250127/natsizm-1995790113.html">Генсек ООН призвал бороться с попытками реабилитации нацизма</a>
+</div><!--n:250127 2100:s:516877:e:2878-->
+<!----><h2>Подборка новостей на Сб 29 мар 2025 21:00</h2><!--2025-03-29 20:52:30-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250329/konferentsija-2008175736.html">В Риме прошла конференция ассоциаций дружбы "Россия-Италия"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250329/nalog-2008174628.html">В России расширили список автомобилей, облагаемых налогом на роскошь</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250329/protest-2008173852.html">В Германии прошла акция протеста против размещения американских ракет</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250329/frantsiya-2008173527.html">Париж осудил призыв США отказаться от политики инклюзивности</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://ria.ru/20250329/izrail-2008173090.html">Израиль заявил о начале наземной операции в Газе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:17</span> <a class="nodecor" href="https://ria.ru/20250329/pentagon-2008172696.html">Пентагон реструктурирует гражданский персонал</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:08</span> <a class="nodecor" href="https://ria.ru/20250329/pozhar-2008171849.html">Площадь пожара на мусорном полигоне в Новороссийске сократилась</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250329/mediki-2008170824.html">Красный Крест запросил информацию о пропавших в Газе медиках</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250329/dvigatel-2008170487.html">Росавиация рассказала, как кубанский конструктор удешевил производство Ан-2</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250329/berlin-2008169817.html">В Берлине прошла демонстрация правых радикалов</a>
+</div><!--n:250329 2100:s:519792:e:2823-->
+<!----><h2>Подборка новостей на Ср 16 апр 2025 21:00</h2><!--2025-04-16 20:57:48-->
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250416/putin-2011687104.html">Путин поручил обеспечить поддержку вузов для развития космической отрасли</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250416/vsu-2011686967.html">После атак ВСУ в Брянской области сгорели несколько домов</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250416/dengi-2011686496.html">В Дагестане осудили экс-полицейских, вымогавших деньги у местных жителей</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250416/putin-2011685260.html">Путин рассказал об уникальных научных школах России</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250416/putin-2011685133.html">Нацпроект по космосу должен форсировать создание системы БПЛА, заявил Путин</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250416/putin-2011683488.html">Путин поручил уделить особое внимание исследованиям дальнего космоса</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250416/putin-2011683333.html">Путин раскрыл, что должен учитывать нацпроект по развитию космической сферы</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250416/vsu-2011683025.html">ВСУ атаковали два населенных пункта под Белгородом, два человека пострадали</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250416/khinshteyn-2011682240.html">Истина в деле экс-главы Курской области будет установлена, заявил Хинштейн</a></div>
+</div>
+<div class="rssn table">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250416/vuchich-2011681950.html">Вучич заявил, что пока не поменял решения о поездке в Москву</a></div>
+</div><!--n:250416 2100:s:522652:e:3068-->
+<!----><h2>Подборка новостей на Пн 31 мар 2025 21:00</h2><!--2025-03-31 20:59:21-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250331/pridnestrove-2008511114.html">МИД ПМР опроверг информацию о нахождении Нестеровского в Приднестровье</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250331/izbienie-2008510933.html">Мужчина, избивший украинок из-за русской музыки, оказался сотрудником ТЦК</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250331/mid-2008510700.html">В МИД России не верят в возможность выхода США из НАТО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250331/sobaki-2008510199.html">В Железноводске будут отлавливать беспризорных собак даже с ошейниками</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250331/indiya-2008509292.html">Индия опровергла сообщения о передаче авиаоборудования "Рособоронэкспорту" </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250331/kallas-2008508990.html">Каллас призвала установить сроки для прекращения огня на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250331/steam-2008508682.html">В работе Steam произошел сбой</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250331/orban-2008508509.html">Орбан пообещал противостоять попыткам Брюсселя наказать Венгрию</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250331/medvedev-2008507873.html">Медведев выступил с предложением французам после приговора Ле Пен</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250331/tayvan-2008507681.html">Эксперт удивился решению Пентагона по Тайваню</a>
+</div><!--n:250331 2100:s:525757:e:2835-->
+<!----><h2>События на Вт 16 сен 2025 20:00</h2><!--2025-09-16 19:59:25-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250916/bratislava-2042335326.html">В Словакии начался митинг из-за налоговой и социальной политики властей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250916/koalitsiya-2042334981.html">"Коалицию желающих" создали не для агрессии против России, заявил источник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250916/tramp-2042333959.html">New York Times отреагировала на иск Трампа о клевете</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250916/raketa-2042333754.html">ЦАХАЛ зафиксировала запуск ракеты из Йемена в сторону Израиля</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250916/torgovlya-2042333587.html">ЕАЭС и Индия начнут работу по торговому соглашению</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250916/es-2042333436.html">В ЕС заявили, что не будут вести переговоры вместо Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250916/moskva-2042333103.html">В Москве пройдут дни Минска</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250916/putin-2042332537.html">Путина на полигоне "Мулино" сопровождали Белоусов, Дюмин, Евкуров</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250916/egipet-2042332399.html">Египет назвал политику Израиля безрассудной из-за операции в Газе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250916/stroitelstvo-2042332237.html">Савельев заявил о необходимости сделать ВСМ окупаемыми </a></div>
+</div><!--n:250916 2000:s:528629:e:2796-->
+<!----><h2>События на Вс 22 июн 2025 20:00</h2><!--2025-06-22 19:56:13-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250622/tramp-2024689668.html">Трамп заявил о единстве в Республиканской партии после ударов по Ирану</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250622/zelenskiy-2024689437.html">Экс-премьер Украины рассказал об агонии Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250622/vsu-2024689031.html">При атаках ВСУ пострадали мирные жители Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250622/iran-2024688822.html">В Иране началась демонстрация с призывами осудить атаки США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250622/makron-2024688200.html">Макрон призвал Иран к деэскалации и возвращению к диалогу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250622/bpla-2024687598.html">Над Ростовской областью сбили два украинских дрона</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250622/iran-2024687013.html">В Иране рассказали о пострадавших при ударах США по ядерным объектам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250622/pushilin-2024686731.html">Пушилин рассказал о продвижении ВС России в ДНР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250622/prezident-2024686301.html">США должны получить ответ, заявил президент Ирана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:12</span> <a class="nodecor" href="https://ria.ru/20250622/damask-2024685961.html">В Дамаске произошел теракт в церкви, есть погибшие</a></div>
+</div><!--n:250622 2000:s:531462:e:2768-->
+<!----><h2>События на Ср 28 май 2025 20:00</h2><!--2025-05-28 19:58:48-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250528/gafurov-2019653112.html">С экс-ректора КФУ взыскали десятки миллионов рублей в пользу потерпевших</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250528/oon-2019652364.html">ООН приветствовала анонсированный второй раунд переговоров России и Украины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250528/lavrov-2019652271.html">Лавров и Фидан обсудили инициативы по прекращению конфликта на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250528/direktor-2019651910.html">Завод ЧФ в Севастополе опроверг сведения о домашнем аресте директора</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250528/lavrov-2019651792.html">Лавров назвал главное отличительное качество немецких танков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250528/tramp-2019650323.html">Трамп рассказал, почему не вводит санкции против России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250528/gafurov-2019648827.html">Экс-ректора КФУ Гафурова приговорили к сроку по делу об убийстве</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250528/tramp-2019648528.html">Трамп выразил готовность встретиться с Путиным и Зеленским</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250528/ekspert-2019648130.html">Военный эксперт оценил возможность ударов по России дальнобойными ракетами</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250528/tramp-2019647909.html">Ситуация по Украине прояснится в течение двух недель, считает Трамп</a></div>
+</div><!--n:250528 2000:s:534267:e:2967-->
+<!----><h2>Подборка новостей на Ср 02 апр 2025 21:00</h2><!--2025-04-02 20:56:36-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250402/es-2008983613.html">ЕС объявит об ответных мерах на введение Трампом пошлин до конца апреля</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250402/dmitriev-2008983446.html">CNN: глава РФПИ мог уже прибыть в Вашингтон на переговоры с Уиткоффом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250402/proekt-2008983294.html">В ГД внесли проект о запрете выгула собак опасных пород пьяными и детьми</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250402/germaniya-2008982872.html">В Германии перекрыли автобан из-за сбежавшей свиньи</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250402/malchik-2008981783.html">Мальчику, покусанному хаски в Сочи, повторно пересадили фрагмент лица</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250402/posolstvo-2008981618.html">Посольство: FIRS станет барьером для восстановления отношений с Россией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250402/gorlovka-2008981191.html">Житель Горловки пострадал при подрыве на мине "Лепесток"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250402/mask-2008981023.html">В Белом доме рассказали, когда Маск покинет свой пост</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250402/svatovo-2008980769.html">После атаки дрона ВСУ на ГРС "Сватово" восстановили подачу газа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250402/krushenie-2008980610.html">Губернатор заявил об отсутствии разрушений после крушения Ту-22М3</a>
+</div><!--n:250402 2100:s:537271:e:2877-->
+<!----><h2>Подборка новостей на Ср 26 мар 2025 21:00</h2><!--2025-03-26 20:58:27-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250326/konflikt-2007570046.html">"Нужно сдаться": на Западе вынесли приговор Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250326/lidery-2007569799.html">В Словакии высказались против отправки войск на Украину</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250326/aes-2007569272.html">На Запорожской АЭС опровергли данные о повреждении топливного резервуара</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250326/putin-2007569091.html">Путин поздравил три подразделения с присвоением наименования "гвардейская"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250326/putin-2007568880.html">Путин успокоил юного экскурсовода национального центра "Россия"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250326/himki-2007568727.html">В Химках депутату Спириной подожгли дверь квартиры</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250326/iran-2007568562.html">Иран продолжит оказывать поддержку палестинцам </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250326/nato-2007568379.html">Рютте заявил, что не согласен с призывом не приближать силы НАТО к России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250326/posolstvo-2007568183.html">Посольство в Тунисе не знает о проблемах с посещением задержанных россиян</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250326/slutskij-2007567774.html">Слуцкий призвал соблюдать нормы международного права из-за ареста Гуцул</a>
+</div><!--n:250326 2100:s:540185:e:2867-->
+<!----><h2>События на Ср 03 сен 2025 20:00</h2><!--2025-09-03 19:56:42-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250903/frg-2039500643.html">ФРГ отказалась дать украинцу Кузнецову доступ к делу о подрыве потоков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250903/ssha-2039500073.html">В деле Эпштейна появились новые детали, пишет NYP</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250903/max-2039498307.html">В Госдуме опровергли слухи о том, что MAX будет "оформлять доносы"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250903/moldavija-2039497867.html">Молдавский депутат удивился словами Дана, пугающего молдаван опытом Грузии </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250903/gosduma-2039497341.html">В Госдуме оценили рекламный потенциал платформы MAX</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250903/sud-2039497060.html">Суд взыскал с Euroclear Bank более 105 миллионов долларов по иску Сбербанка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250903/ukraina-2039496213.html">Киев назвал список стран, где Зеленский готов встретиться с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250903/tramp-2039495737.html">Трамп заявил о хороших отношениях с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250903/sud-2039495189.html">Суд в Болонье назначил новое заседание по делу украинца Кузнецова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:19</span> <a class="nodecor" href="https://ria.ru/20250903/medvedev-2039494372.html">Медведев пожелал бойцам, уходящим на СВО, беречь себя</a></div>
+</div><!--n:250903 2000:s:543089:e:2830-->
+<!----><h2>Подборка новостей на Вт 18 мар 2025 21:00:01</h2><!--2025-03-18 20:59:29-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250318/poear-2005829649.html">В Екатеринбурге потушили пожар в двух жилых домах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250318/strelba-2005829456.html">В Екатеринбурге задержали мужчину, устроившего стрельбу у храма</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250318/vystavka-2005829041.html">Захарова приняла участие в открытии выставки "Московский сокольничий"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250318/ssha-2005828669.html">Белый дом рассказал об экономических сделках между Россией и США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250318/putin-2005828487.html">Белый дом: путь к миру на Украине должен начаться с безопасности энергетики</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250318/tramp-2005828150.html">Трамп и Путин договорились сотрудничать по вопросам вооружений</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250318/konflikt-2005828011.html">Конфликт на Украине должен был завершиться еще давно, заявил Белый дом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250318/kreml-2005827670.html">В Кремле привели хороший пример сотрудничества США и России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250318/kiev-2005827404.html">Киев неоднократно нарушал достигнутые договоренности, напомнили в Кремле</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250318/bezopasnost-2005827191.html">Путин и Трамп обсудили безопасность в Черном море</a>
+</div><!--n:250318 2100:s:545956:e:2879-->
+<!----><h2>События на Сб 13 сен 2025 20:00</h2><!--2025-09-13 19:55:55-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250913/poezda-2041728132.html">В МЖД сообщили о задержании десяти поездов из-за ЧП в Орловской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250913/britaniya-2041728237.html">Трансляция Робинсона с акции в Лондоне собрала два миллиона зрителей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250913/chp-2041727671.html">В Орловской области задержали движение поездов дальнего следования</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250913/most-2041726755.html">В очереди на проезд по Крымскому мосту стоят около полутора тысяч машин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250913/chp-2041726427.html">Пять поездов задерживаются на участке железной дороги под Орлом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250913/frg-2041725459.html">Вагенкнехт прокомментировала позицию Берлина по инциденту в Польше</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250913/chp-2041724803.html">В Подмосковье водитель насмерть сбил подростка на питбайке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250913/orel-2041724683.html">В Орловской области на ж/д путях нашли взрывные устройства, есть жертвы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250913/protest-2041724555.html">Глава Минтруда Британии высказался о протестах в Лондоне</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250913/protest-2041723810.html">В центре Тбилиси проходит антиправительственная акция</a></div>
+</div><!--n:250913 2000:s:548872:e:2917-->
+<!----><!--2025-03-04 21:00:00--><h2>РИА Новости на Вт 04 мар 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250304/zelenskiy-2003069667.html">Sky News раскрыл, с кем созвонился Зеленский перед попыткой извинения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250304/peskov-2003069053.html">В Кремле отреагировали на заявление Зеленского о готовности к диалогу с США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250304/ushakov-2003068900.html">Россия и США пока не договорились о встрече в марте, заявил Ушаков</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250304/kanada-2003068338.html">Трамп пригрозил Канаде увеличением пошлин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250304/oon-2003067653.html">Россия и Мьянма фиксируют попытки давления на Международный Суд ООН</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250304/peskov-2003067288.html">Песков оценил потенциал сотрудничества с США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250304/myanma-2003067147.html">Премьер Мьянмы пригласил Путина посетить страну</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250304/peskov-2003067045.html">В Кремле объяснили слова Путина о сотрудничестве с США по редким металлам</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250304/myanma-2003066879.html">Расчет вооруженных сил Мьянмы примет участие в параде в Москве</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250304/peskov-2003066562.html">В Кремле заявили о готовности России сотрудничать с копаниями из США</a>
+</div><!--n:250304 2100:s:551826:e:2819-->
+<!----><h2>События на Ср 30 июл 2025 20:00</h2><!--2025-07-30 19:58:08-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250730/rossiya-2032457552.html">Недельная дефляция в России вновь составила 0,05%</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250730/kiev-2032457368.html">Жители Киева начали собираться на митинг против ограничения НАБУ и САП</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250730/arest-2032456740.html">Депутата Апостолевского арестовали на семь суток за поддержку Навального*</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250730/oon-2032456225.html">ООН готова оказать помощь России после землетрясения на Камчатке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250730/sud-2032455862.html">Суд продлил арест мэру Красноярска по делу о взятках</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250730/indija-2032455676.html">В Индии заявили о приверженности заключению справедливого соглашения с США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250730/polsha-2032455539.html">"Превратятся в прах": в Польше набросились на главу МИД после слов о России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250730/podmoskove-2032454710.html">В Подмосковье водитель грузовика задавил пенсионерку</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250730/kamchatka-2032453773.html">Ученый рассказал об афтершоках после землетрясения на Камчатке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250730/zaporozhe-2032453165.html">Рогов назвал причину срочного визита Сырского в Запорожскую область</a></div>
+</div><!--n:250730 2000:s:554682:e:2915-->
+<!----><h2>События на Вт 29 июл 2025 20:00</h2><!--2025-07-29 19:58:28-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250729/pozhar-2032223015.html">Пожар в Геленджикском лесничестве локализовали</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250729/avia-2032222880.html">Пассажиров задержанного рейса Сухум-Москва доставят в столицу через Сочи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250729/kazakhstan-2032222422.html">США будут участвовать в разработке минералов в Казахстане</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250729/aeroflot-2032222281.html">"Аэрофлот" выполнил 172 рейса из запланированных 216</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250729/ukraina-2032221990.html">Словакия не поставила Украине семь гаубиц</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250729/oppozitsiya-2032221768.html">Оппозиция в Молдавии может потеснить правящую партию, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250729/egipet-2032221611.html">В Египте гидам повысят зарплату</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250729/krym-2032221430.html">В Крыму отреагировали на новый ультиматум Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250729/gruzija-2032221243.html">В Грузии прокомментировали санкции стран Балтии против страны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250729/frantsija-2032220782.html">Во Франции автоконструкторы помогут владельцам машин с дефектными подушками</a></div>
+</div><!--n:250729 2000:s:557634:e:2770-->
+<!----><h2>События на Вс 14 сен 2025 20:00</h2><!--2025-09-14 19:57:34-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250914/edg-2025-2041895227.html">Во время единого дня голосования возбудили более 10 уголовных дел</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250914/rossiya-2041895085.html">У ЦИК отсутствуют замечания к работе сотрудников МВД в дни выборов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250914/rossiya-2041894574.html">"Единая Россия" лидирует на выборах в заксобрание Новосибирской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250914/mvd-2041894416.html">МВД не зафиксировало серьезных нарушений в дни голосования</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250914/mvd-2041894258.html">В МВД рассказали о попытках терактов с БПЛА на избирательных участках</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250914/mvd-2041894066.html">В МВД рассказали о жалобах на возможные нарушения во время выборов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250914/rossija-2041892695.html">"Единая Россия" лидирует на выборах в Курганскую областную думу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250914/dtp-2041892544.html">В Калужской области пять человек погибли в ДТП</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250914/rossiya-2041892373.html">Паслер лидирует на выборах губернатора в Свердловской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250914/turtsiya-2041891930.html">Работы на втором энергоблоке АЭС "Аккую" в Турции идут по графику</a></div>
+</div><!--n:250914 2000:s:560441:e:2889-->
+<!----><h2>Подборка новостей на Чт 27 мар 2025 21:00</h2><!--2025-03-27 20:58:52-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250327/peskov-2007801556.html">Россия и США пока не планируют контакты на высшем уровне, заявил Песков</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250327/putin-2007801350.html">Путин призвал соблюдать баланс в вопросе природных богатств Арктики</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250327/putin-2007801075.html">Путин рассказал о создании арктической станции "Снежинка"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250327/rusagro-2007800732.html">Россельхозбанк сообщил о выполнении "Русагро" своих обязательств</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250327/zhile-2007800597.html">Арендное жилье в Арктике станет более доступным, заявил Путин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250327/moldaviya-2007800397.html">Лидеру молдавской оппозиции запретили покидать страну</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250327/putin-2007799803.html">Путин назвал цель правительства в Арктике</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250327/politico-2007799675.html">Трамп потребовал скорее вернуть деньги, выделенные журналу Politico</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250327/putin-2007799514.html">Путин поручил создать механизм финансирования медпомощи в Арктике</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250327/putin-2007799360.html">Путин поручил скорректировать программу поддержки бизнеса на Севере</a>
+</div><!--n:250327 2100:s:563367:e:2837-->
+<!----><!--2025-01-16 21:00:00--><h2>РИА Новости на Чт 16 янв 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250116/zemli-1994084003.html">На Кубани не состоялись торги по продаже земель члена банды Цапков</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250116/volontery-1994083703.html">Врач рассказала о жалобах волонтеров, очищающих пляжи Анапы от мазута</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250116/bunt-1994083550.html">На Украине женщины устроили бунт против силовой мобилизации</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250116/kreml-1994083300.html">Путин и Пезешкиан в Москве обсудят ситуацию на Ближнем Востоке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250116/aksenov-1994082622.html">Аксенов рассказал о работе по очистке от мазута берегов острова Тузла</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250116/aksenov-1994082406.html">Аксенов назвал ситуацию с разливом мазута в Крыму контролируемой</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250116/krym-1994081770.html">В Крыму собрали и вывезли 458 тонн загрязненного мазутом песка и гальки</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250116/sanktsii-1994081313.html">Трамп признает, что США чрезмерно используют санкции, заявил Бессент</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250116/nato-1994081018.html">НАТО планирует круглосуточно мониторить ситуацию в Балтийском море</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250116/putin-1994080569.html">Путин подписал указ о проведении Года защитника Отечества в России</a>
+</div><!--n:250116 2100:s:566241:e:2911-->
+<!----><h2>События на Вт 13 май 2025 21:00</h2><!--2025-05-13 20:56:24-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250513/donetsk-2016762695.html">В Донецке подросток пострадал при детонации взрывоопасного предмета</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250513/vsu-2016761304.html">В Белгородской области при атаке дронов ВСУ пострадали пять человек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250513/putin-2016761150.html">"Отчаянно убеждают": на Западе раскрыли ложь европейских политиков о Путине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250513/polsha-2016760799.html">Минобороны Польши заявило, что не отправит войска на Украину</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250513/oon-2016759345.html">ООН не раскрывает, будет ли представлена на возможных переговорах в Турции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250513/premer-2016757824.html">Премьер Малайзии прибыл в Россию с официальным визитом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250513/pravitelstvo-2016757176.html">Правительство работает над усилением защиты россиян от мошенников</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250513/putin-2016756758.html">Путин предложил обсудить подготовку к 250-летию Большого театра</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250513/putin-2016756227.html">Путин назвал Большой и Мариинский театры мощными символами России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250513/putin-2016755835.html">Путин рассказал о поддержке Большого и Мариинского театров</a></div>
+</div><!--n:250513 2100:s:569189:e:2932-->
+<!----><h2>События на Пт 06 июн 2025 20:00</h2><!--2025-06-06 19:55:37-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250606/aeroporty-2021426763.html">В аэропортах Домодедово и Жуковский сняли ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250606/chp-2021426527.html">Из больниц выписали 52 пострадавших при ЧП под Брянском</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250606/lavrov-2021422356.html">Лавров обсудил с абхазским коллегой создание материально-технической базы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250606/dron-2021421667.html">ПВО сбила еще один беспилотник, атаковавший московский регион</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250606/rosaviatsiya-2021421034.html">В аэропорту Калуги ввели временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250606/aeroporty-2021420647.html">В аэропортах Домодедово и Жуковский ввели временные ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250606/bryansk-2021420451.html">В стационарах остаются 20 пострадавших при ЧП в Брянской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250606/dtp-2021419808.html">На КАД грузовик наехал на девять машим, есть пострадавшие</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250606/kitay-2021419602.html">В Китае пришли в ужас из-за кровавого плана Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250606/proekt-2021419117.html">На проект по развитию беспилотных систем направят 250 миллиардов рублей</a></div>
+</div><!--n:250606 2000:s:572158:e:2840-->
+<!----><!--2025-02-08 21:00:00--><h2>РИА Новости на Сб 08 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250208/pozhar-1998193312.html">Число обратившихся к медикам при пожаре в Москве возросло до десяти</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250208/aviasoobschenie-1998193145.html">В Северной Осетии предложили открыть прямое авиасообщение с Абхазией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250208/pozhar-1998192723.html">Роспотребнадзор проверяет качество воздуха после пожара на востоке Москвы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250208/gaza-1998192571.html">В Турции в штыки встретили заявления Трампа о секторе Газа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250208/moskva-1998191905.html">МЧС вывело всех людей из горящего здания Электрозавода в Москве</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250208/kabel-1998191541.html">"Ростелеком" сообщил о повреждении своего кабеля в Балтийском море</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250208/zaharova-1998191203.html">США придется объясняться при размещении оружия в космосе, заявила Захарова</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250208/pushkov-1998190888.html">Пушков прокомментировал планы ЕС ввести санкции против китайских компаний</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250208/anapa-1998190539.html">В Анапе водитель BMW устроил гонки на пляже во время работы волонтеров</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250208/svo-1998190374.html">В НИИ имени Джанелидзе подтвердили выписку участника СВО</a>
+</div><!--n:250208 2100:s:575035:e:2935-->
+<!----><h2>События на Пт 27 июн 2025 20:00</h2><!--2025-06-27 19:57:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250627/kolpino-2025934682.html">Главу администрации Колпинского района отправили под домашний арест</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250627/tramp-2025934006.html">Трамп заявил, что без раздумий снова атакует Иран</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250627/devushka-2025933689.html">Устроившую эротический перфоманс в Новочеркасске девушку ждет обследование</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250627/sud-2025932019.html">Суд отправил под стражу главу администрации Колпино</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250627/vsu-2025931235.html">ВСУ атаковали церковь в Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250627/ukraina-2025930867.html">В Раде заявили об утрате Украиной половины мощностей по добыче газа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250627/tramp-2025929164.html">Трамп надеется на продвижение в вопросе урегулирования на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250627/tramp-2025927625.html">Иран не вывозил ядерные материалы с атакованных объектов, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250627/malchik-2025927488.html">Курский мальчик, награжденный медалью, рассказал о жизни в оккупации ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250627/tramp-2025926342.html">Трамп заявил, что есть доказательства уничтожения ядерных объектов Ирана</a></div>
+</div><!--n:250627 2000:s:578007:e:2903-->
+<!----><!--2025-03-01 21:00:00--><h2>РИА Новости на Сб 01 мар 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250301/migrant-2002501960.html">США могут выслать более миллиона мигрантов, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250301/konflikt-2002501686.html">Зеленский на встрече с Трампом показал, что не хочет мира, заявил Орбан</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250301/smi-2002501591.html">Гунба лидирует на выборах президента Абхазии, сообщили СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250301/zaes-2002501017.html">Директор ЗАЭС рассказал об отлаженной схеме работы с инспекторами МАГАТЭ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250301/vsu-2002500834.html">ВС России уничтожили зарубежных инструкторов ВСУ в Днепропетровской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250301/sammit-2002500400.html">Бразилия пригласила Мексику, Уругвай и Колумбию на саммит БРИКС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250301/ssora-2002499201.html">Эксперт прокомментировал ссору Зеленского и Трампа в Белом доме</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250301/stantsiya-2002498822.html">Директор ЗАЭС рассказал о взаимодействии с инспекторами МАГАТЭ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250301/aes-2002498561.html">Директор ЗАЭС рассказал о важности присутствия инспекторов МАГАТЭ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:03</span> <a class="nodecor" href="https://ria.ru/20250301/aes-2002496392.html">Ротация наблюдателей МАГАТЭ на Запорожской АЭС впервые прошла через Россию</a>
+</div><!--n:250301 2100:s:580947:e:2904-->
+<!----><h2>Подборка новостей на Вт 08 апр 2025 21:00</h2><!--2025-04-08 20:55:14-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250408/vsu-2010115156.html">В подполье узнали о подготовке ВСУ к операции на Херсонском направлении</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250408/saratov-2010114610.html">В аэропорту Саратова ввели временные ограничения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250408/peregovory-2010114147.html">"Киевские джунгли": в ЕС сделали заявление о переговорах  Путина и Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250408/volgograd-2010113652.html">В аэропорту Волгограда ввели временные ограничения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250408/poshliny-2010113100.html">Трамп уверен, что Китай хочет договоренности с США по пошлинам</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250408/tramp-2010112948.html">Трамп готов к переговорам о пошлинах, заявили в Белом доме</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250408/levitt-2010112804.html">В Белом доме назвали предстоящие переговоры с Ираном прямыми</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250408/poshliny-2010112677.html">Увеличенные американские пошлины на китайские товары заработают со среды</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250408/ssha-2010112053.html">США продолжат вводить пошлины, заявили в Белом доме</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250408/ukraina-2010111905.html">Треть региональных СМИ на Украине перестали платить зарплаты, показал опрос</a>
+</div><!--n:250408 2100:s:583888:e:2855-->
+<!----><h2>События на Ср 20 авг 2025 20:00</h2><!--2025-08-20 19:53:26-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250820/oon-2036592104.html">Россия потребовала в ООН расследовать поддержку Украиной боевиков в Африке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250820/medvedev-2036589564.html">Медведев выступил против ввода натовских военных как гарантии Киеву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250820/dtp-2036589184.html">СК рассказал о состоянии пострадавших в ДТП с девочкой-подростком за рулем</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250820/stubb-2036588198.html">Президент Финляндии сделал неожиданное сравнение США с Украиной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250820/intervidenie-2036588906.html">Азербайджан не примет участия в конкурсе "Интервидение", пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250820/bloger-2036587572.html">Следствие попросило заочно арестовать блогера Лесли</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250820/bloger-2036587426.html">В базе розыска МВД появилась карточка блогера Лесли</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:12</span> <a class="nodecor" href="https://ria.ru/20250820/podzhog-2036586592.html">По подозрению в попытке поджога синагоги в Обнинске задержали подростков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:04</span> <a class="nodecor" href="https://ria.ru/20250820/boliviya-2036585711.html">Президент Боливии увидел риски для контрактов по литию с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">18:59</span> <a class="nodecor" href="https://ria.ru/20250820/vsu-2036584625.html">Пострадавшего в результате атаки ВСУ на Курск подростка доставили в Москву</a></div>
+</div><!--n:250820 2000:s:586780:e:2954-->
+<!----><h2>События на Вт 24 июн 2025 20:00</h2><!--2025-06-24 19:54:47-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250624/ukraina-2025196994.html">В Раде рассказали, с кем перед убийством встречался экс-советник Януковича</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250624/slutskij-2025196589.html">Слуцкий прокомментировал слова Рютте о переговорах в Стамбуле</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250624/tramp-2025196376.html">Трамп сделал неожиданное заявление о России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250624/moldaviya-2025195802.html">Глава комитета "Победа" обвинил власти Молдавии в реабилитации нацизма</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250624/sk-2025195464.html">СК проверит жительницу Екатеринбурга, ударившую сына на видео</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250624/iran-2025194713.html">Иран открыл воздушное пространство для международных рейсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250624/iran-2025193987.html">В Тегеране прошел митинг в поддержку иранских вооруженных сил</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250624/chp-2025193647.html">В Калужской области нашли мужчину, избившего девушку у вокзала</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250624/nagrady-2025192393.html">Путин наградил трех железнодорожников из Брянской и Курской областей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250624/iran-2025192237.html">Тегеран продолжит обогащение урана, сообщил источник</a></div>
+</div><!--n:250624 2000:s:589771:e:2864-->
+<!----><h2>События на Сб 30 авг 2025 20:00</h2><!--2025-08-30 19:58:15-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250830/kursk-2038572259.html">В Курской области более 17 тысяч человек остались без электричества</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250830/armeniya-2038572042.html">Католикос всех армян благословил лидеров созданного Карапетяном движения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250830/parubiy-2038571525.html">Омбудсмен ДНР назвала ликвидацию Парубия закономерным итогом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250830/neft-2038570501.html">КТК сообщил, что нефти на черноморском побережье не обнаружено</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250830/belgorod-2038569503.html">В Белгородской области дроны ВСУ дважды ударили по предприятию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250830/sud-2038568892.html">Суд признал дискриминацией объявления об отказе в сдаче жилья цыганам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250830/neft-2038568321.html">КТК завершил основные работы по ликвидации разливов нефти на терминале</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:26</span> <a class="nodecor" href="https://ria.ru/20250830/parubiy-2038566180.html">Рогов высказался об убийстве Парубия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250830/tramp-2038564582.html">Трамп отказался от визита в Индию на саммит QUAD, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250830/belousov-2038564172.html">Белоусов проинспектировал Военный университет имени Александра Невского</a></div>
+</div><!--n:250830 2000:s:592672:e:2898-->
+<!----><h2>События на Ср 14 май 2025 21:00</h2><!--2025-05-14 20:54:33-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250514/moskva-2016984627.html">В Москве состоялась премьера спектакля "Жил. Был. Дом"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250514/komi-2016984075.html">В Коми спасли истощенного медвежонка-сироту</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250514/estoniya-2016983893.html">Парламент Эстонии проголосовал за изменения в законе о церквях, пишет ERR</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250514/makron-2016983216.html">TikTok ограничил поиск видео с Макроном и Мерцем в поезде, пишет Bloomberg</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250514/putin-2016982780.html">Путин и премьер Малайзии обсудили решение ИКАО по MH17</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250514/belorussiya-2016982202.html">Белоруссия увеличила экспорт продовольствия и сельхозпродукции в Россию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250514/vlasti-2016981702.html">Власти Аргентины решили ужесточить миграционное законодательство</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250514/armeniya-2016980967.html">Глава МИД Армении и Каллас обсудили развитие партнерства</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250514/sanktsii-2016980566.html">Минфин США готовится ослабить санкции против Сирии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250514/gasanov-2016980366.html">СК рассказал о схеме отмывания денег блогером Гасановым</a></div>
+</div><!--n:250514 2100:s:595607:e:2823-->
+<!----><h2>События на Чт 28 авг 2025 20:00</h2><!--2025-08-28 19:53:54-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250828/plakhotnyuk-2038181937.html">Адвокат рассказал о решении об экстрадиции Плахотнюка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250828/guterresh-2038181754.html">Генсек ООН призвал продолжить переговоры по Ирану</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250828/vsu-2038181625.html">При детонации дрона ВСУ пострадал житель Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250828/ukraina-2038181476.html">МИД Украины выразил протест послу Венгрии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250828/frantsiya-2038181324.html">Франция близка к краю финансовой пропасти, заявил глава МВД страны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250828/kitay-2038180420.html">Западные страны не ждут на параде в Китае, сообщили СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250828/pvo-2038180088.html">В Крыму и Белгородской области сбили два беспилотника ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250828/sevastopol-2038179696.html">Полиция опровергла информацию о подрыве машины в Севастополе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250828/izrail-2038179288.html">Хуситы опровергли сообщения об ударах Израиля пришлись по лидерам движения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://ria.ru/20250828/oon-2038178198.html">Генсек ООН примет участие в саммите ШОС</a></div>
+</div><!--n:250828 2000:s:598467:e:2769-->
+<!----><h2>События на Пт 30 май 2025 20:00</h2><!--2025-05-30 19:58:24-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250530/putin-2020066842.html">Путин дал поручения по увековечиванию памяти защитников Отечества</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250530/vintovki-2020066619.html">"Укроборонпром" будет выпускать по лицензии чешские винтовки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250530/fazi-2020064957.html">"Поставить на колени". На Западе сделали неожиданное заявление о России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250530/moldaviya-2020065931.html">Экс-премьер Молдавии назвал рост тарифов катастрофой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250530/ataka-2020065702.html">В Белгородской области водитель грузовика пострадал при атаке дрона ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250530/pozhar-2020065576.html">Пожарные спасли от огня село в Астраханской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250530/razgovor-2020065247.html">CNN: США и КНР согласовывают телефонный разговор Трампа и Си Цзиньпина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250530/moldaviya-2020065356.html">В молдавской оппозиции заявили о травле защитников традиционных ценностей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250530/vleikobritaniya-2020064372.html">В посольстве России прокомментировали планы Лондона по развитию кибероружия</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250530/naemnik-2020063862.html">На Украине ликвидировали наемника из Новой Зеландии</a></div>
+</div><!--n:250530 2000:s:601273:e:2936-->
+<!----><h2>События на Ср 18 июн 2025 20:00</h2><!--2025-06-18 19:57:53-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250618/deputat-2023690392.html">Два миллиона молодых людей уже покинули Украину, заявили в Госдуме</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250618/moldavija-2023689723.html">Молдавский депутат обвинил Запад в подрыве нейтралитета страны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250618/minpromtorg-2023689485.html">Эксперимент с беспилотными грузовиками могут расширить на трассу М-12</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250618/putin-2023689121.html">В Стрельне началась встреча Путина и Роуссефф</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250618/ssha-2023688612.html">США направят третий авианосец на Ближнем Восток, сообщил CNN</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250618/razgovor-2023688287.html">Песков опроверг заявление Трампа о вчерашнем разговоре с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250618/putin-2023688055.html">Путин поздравил Роуссефф с переизбранием главой Нового банка развития</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250618/ukraina-2023686963.html">На Западе раскрыли тайные планы Брюсселя по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250618/ubiystvo-2023687739.html">В Подмосковье задержали мужчину, подозреваемого в убийстве девушки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250618/irna-2023687119.html">Иран начал ракетную атаку на Израиль</a></div>
+</div><!--n:250618 2000:s:604246:e:2829-->
+<!----><h2>События на Пн 01 сен 2025 20:00</h2><!--2025-09-01 19:55:30-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250901/rahmon-2038939201.html">Рахмон призвал страны ШОС сотрудничать в борьбе с терроризмом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250901/bespilotnik-2038938896.html">Украинские беспилотники нанесли удары по Первомайску и Попасной в ЛНР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250901/livan-2038937788.html">Эксперты предупредили об угрозе протестов в Ливане</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250901/putin-2038937524.html">В Тяньцзине завершились мероприятия рабочей программы Путина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250901/kitay-2038936978.html">Фицо подтвердил, что встретится с Путиным в Китае</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250901/ukraina-2038936668.html">"Сделка сформулирована". На Западе указали на важную деталь в словах Путина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250901/nepal-2038936276.html">Россиянам будет интересно познакомиться с культурой Непала, заявил Путин</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:32</span> <a class="nodecor" href="https://ria.ru/20250901/sud-2038935930.html">Суд отменил домашний арест основателю iSpring Ускову</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250901/afganistan-2038935325.html">Кабул выделил 145 тысяч долларов для устранения последствий землетрясения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250901/germaniya-2038934509.html">В Германии раскритиковали слова главы ЕК о дорожной карте для ВСУ</a></div>
+</div><!--n:250901 2000:s:607112:e:2892-->
+<!----><h2>События на Пт 16 май 2025 21:00</h2><!--2025-05-16 20:55:55-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250516/zelenskiy-2017496675.html">Дерзкий план Зеленского по встрече с Путиным вызвал недоумение во Франции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250516/ssha-2017497379.html">Музей в США передал Китаю фрагменты шелковых рукописей времен династии Чу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250516/shvetsija-2017496973.html">Турция освободила арестованного шведского журналиста</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250516/stambul-2017496233.html">Норвегия положительно оценила переговоры России и Украины в Стамбуле</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250516/vengrija-2017495537.html">Венгрия обвинила Еврокомиссию в таможенной войне с США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250516/sud-2017494965.html">Мужчину из Омска, 25 лет назад изнасиловавшего девушку, отправили в колонию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250516/ataki-2017494435.html">ВСУ вновь атаковали Валуйский и Шебекинский округа Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250516/stambul-2017494106.html">Политолог оценил итоги переговоров России и Украины в Стамбуле</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250516/peregovory-2017493679.html">Турецкий генерал прокомментировал переговоры между Россией и Украиной</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250516/stambul-2017493318.html">Переговоры в Стамбуле стали победой для Путина, пишут СМИ</a></div>
+</div><!--n:250516 2100:s:610041:e:2959-->
+<!----><h2>События на Вт 29 апр 2025 21:00</h2><!--2025-04-29 20:58:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250429/tramp-2014202645.html">Трамп заявил, что ему проще иметь дело с Путиным, чем с Зеленским</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250429/ledniki-2014202431.html">Боливийские ледники могут исчезнуть в ближайшие 20 лет, заявил эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250429/vsu-2014201909.html">В школьном автобусе в момент удара дрона ВСУ находился 21 ребенок</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250429/ataka-2014201238.html">В Запорожской области при атаке БПЛА на школьный автобус пострадала женщина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250429/moskva-2014200819.html">В Москве арестовали обвиняемого в убийстве девушки, заколотой в сердце</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250429/blekaut-2014200554.html">СМИ подсчитали, сколько может составить ущерб от блэкаута в Испании</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250429/voennye-2014200092.html">Военные из КНДР в Курской области привыкали к условиям современной войны</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250429/uppsale-2014200003.html">При стрельбе в шведском Уппсале погибли три человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250429/kommunarka-2014199828.html">В Коммунарке установят барельефы Зиновьеву и Канту</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250429/tramp-2014199614.html">Трамп сравнил Россию и Украину в вопросе военной мощи</a></div>
+</div><!--n:250429 2100:s:613037:e:2909-->
+<!----><h2>События на Вт 12 авг 2025 20:00</h2><!--2025-08-12 19:55:36-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250812/rossiya-2034885265.html">Россияне смогут подтвердить биометрию через банк</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250812/putin-2034885101.html">Путин и Ким Чен Ын провели телефонный разговор</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250812/oon-2034884832.html">В ООН прокомментировали предстоящий саммит Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250812/pashinyan-2034884418.html">"Армения" обвинила Пашиняна в злоупотреблении полномочиями</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250812/ssha-2034884290.html">Лавров обсудил с Рубио подготовку к встрече Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250812/razgovor-2034884181.html">Лавров провел телефонный разговор с Рубио</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250812/ssha-2034884009.html">США приветствовали расследование произошедшего в провинции Сувейда</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250812/britaniya-2034883563.html">Британские военные в Кении продолжают пользоваться услугами проституток</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250812/deti-2034882989.html">Дрон ВСУ атаковал частный дом в Белгородской области, пострадали дети</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:29</span> <a class="nodecor" href="https://ria.ru/20250812/sammit-2034882821.html">В Британии сообщили о секретном указании Макрону перед саммитом на Аляске</a></div>
+</div><!--n:250812 2000:s:615983:e:2831-->
+<!----><h2>События на Ср 23 апр 2025 21:00</h2><!--2025-04-23 20:58:03-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250423/evropa-2013051524.html">Европа до сих пор не поняла суть киевского режима, заявил Песков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250423/peskov-2013051388.html">Россия достигнет своих целей любым путем, заявил Песков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250423/krym-2013050771.html">Сакс назвал Крым самой легкой уступкой для Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250423/pogoda-2013050440.html">Гроза минует Москву вечером в среду, ожидается кратковременный дождь</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250423/peskov-2013050313.html">Украина должна стать нейтральным государством, заявил Песков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250423/es-2013050115.html">ЕС рассматривает возможность сокращения закупок оружия у США, пишут СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250423/pozhar-2013049751.html">В Азовском районе Ростовской области тушат ландшафтный пожар</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250423/medvedev-2013049581.html">Медведев прокомментировал заявление Трампа о словах Зеленского о Крыме</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250423/gazprom-2013049413.html">"Газпром" готов обсуждать поставки в ЕС, заявил Песков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250423/peskov-2013049270.html">Путин поддерживает идею о полном прекращении огня, заявил Песков</a></div>
+</div><!--n:250423 2100:s:618851:e:2876-->
+<!----><h2>Подборка новостей на Вс 06 апр 2025 21:00</h2><!--2025-04-06 20:59:47-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250406/iordaniya-2009691911.html">WP раскрыла причину гибели военных на базе США в Иордании в 2024 году</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250406/poezd-2009690979.html">В Подмосковье начали проверку после ДТП с участием фуры на ж/д путях</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://rsport.ria.ru/20250406/khokkey-2009690301.html">Овечкин забросил 895-ю шайбу в НХЛ и побил снайперский рекорд Гретцки</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250406/armeniya-2009687379.html">В России пройдут Дни культуры Армении</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250406/dagestan-2009686936.html">В Дагестане вновь вспыхнул природный пожар</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250406/trevoga-2009685575.html">В Киеве и восьми украинских областях объявили воздушную тревогу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250406/dtp-2009684884.html">В Москве на МСД столкнулись пять автомобилей</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250406/maslo-2009684507.html">На побережье Черного моря произошли выбросы пальмового масла</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://ria.ru/20250406/aeroporty-2009684075.html">Московские аэропорты работают штатно в условиях снегопада</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://ria.ru/20250406/opasnost-2009683404.html">В Белгородской области отменили опасность атаки беспилотников</a>
+</div><!--n:250406 2100:s:621764:e:2765-->
+<!----><h2>События на Пн 02 июн 2025 20:00</h2><!--2025-06-02 19:58:10-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250602/memorandum-2020545475.html">Российский меморандум предполагает решение вопросов по воссоединению семей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250602/memorandum-2020545278.html">Меморандум России предполагает запрет героизации нацизма на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250602/abonent-2020545078.html">Россияне смогут направлять операторам связи отказ от рассылок</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250602/ukraina-2020544936.html">В своем меморандуме Россия предложила остановить мобилизацию на Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250602/memorandum-2020544765.html">Россия предложила Украине взаимную амнистию политзаключенных</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250602/ukraina-2020544604.html">Источник рассказал о встрече Мединского и Умерова до переговоров</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250602/dipotnosheniya-2020544425.html">Россия предложила Украине поэтапное восстановление отношений</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250602/memorandum-2020543902.html">Меморандум России по Украине состоит из нескольких разделов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250602/rossija-2020542656.html">Россия предложила Украине два варианта прекращения огня</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250602/memorandum-2020542436.html">Россия призвала запретить военную деятельность других стран на Украине</a></div>
+</div><!--n:250602 2000:s:624566:e:2973-->
+<!----><!--2025-01-22 21:00:00--><h2>РИА Новости на Ср 22 янв 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250122/chehija-1995042211.html">В Чехии отменил оправдательный приговор учительнице, одобрившей СВО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250122/moldaviya-1995041831.html">Железнодорожники Молдавии грозят протестами из-за долгов по зарплате</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250122/lenkom-1995041664.html">В "Ленкоме Марка Захарова" появятся должности президента и худрука</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250122/vybory-1995041472.html">На выборах президента Белоруссии досрочно проголосовали 17,67% избирателей</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250122/drony-1995040768.html">В Вологодской области открыли центр подготовки операторов FPV-дронов</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250122/mazut-1995040518.html">Очистку тяжелой техникой у кормы танкера "Волгонефть-239" завершили</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250122/slutskiy-1995040015.html">Слуцкий прокомментировал заявления Трампа по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250122/ntk-1995039737.html">Серферы нашли на пляже рыбу — предвестника катастроф</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:24</span> <a class="nodecor" href="https://ria.ru/20250122/uklonisty-1995039423.html">СБУ обвинила 63 человека в переправке уклонистов за границу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250122/rossija-1995038994.html">Россия заняла второе место в рейтинге по развитию военных технологий</a>
+</div><!--n:250122 2100:s:627576:e:2881-->
+<!----><h2>События на Вс 06 июл 2025 20:00</h2><!--2025-07-06 19:50:02-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250706/rosaviatsija-2027534667.html">Росавиация призвала авиакомпании соблюдать правила на фоне задержек рейсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250706/magate-2027534183.html">Президент Бразилии обвинил МАГАТЭ в оправдании незаконных интервенций</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250706/aeroport-2027533470.html">В нижегородском аэропорту отмененили 26 рейсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250706/aeroport-2027532284.html">В аэропорту Пулково отменили 90 рейсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250706/aeroport-2027531542.html">В Шереметьево отменили 171 рейс</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250706/vsu-2027530926.html">В Белгородской области при атаке дрона погибли два человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250706/dtp-2027530826.html">Пьяный водитель насмерть сбил девочку в Саратовской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://ria.ru/20250706/putin-2027530708.html">Путин подписал гитару на выставке "Все для Победы!"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:18</span> <a class="nodecor" href="https://ria.ru/20250706/lavrov-2027530251.html">Лавров принял участие в фотосессии глав делегаций на саммите БРИКС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:15</span> <a class="nodecor" href="https://ria.ru/20250706/pvo-2027530145.html">В Ленинградской области сбили два беспилотника ВСУ</a></div>
+</div><!--n:250706 2000:s:630494:e:2739-->
+<!----><!--2025-01-26 21:00:00--><h2>РИА Новости на Вс 26 янв 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250126/minsk-1995591681.html">В центре Минска сохраняется спокойная обстановка после закрытия участков</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250126/donetsk-1995591554.html">В Донецке отразили атаку беспилотника ВСУ на водонапорный узел</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250126/sobyanin-1995591254.html">Собянин пошутил, что весь снег из Москвы увезли в Петербург</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250126/delo-1995590073.html">После нападения на пенсионера в лифте в Краснодаре завели дело</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250126/nelegaly-1995589866.html">В Колумбии призвали нелегалов из США урегулировать свой миграционный статус</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250126/mask-1995589709.html">Маска сравнили с Зеленским после его неожиданного предложения</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250126/obstrel-1995589443.html">ВСУ обстреляли деревню в Курской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250126/vybory-1995589238.html">Выборы в Белоруссии прошли по международным стандартам, заявили в Совфеде</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250126/vybor-1995588917.html">На выборах в Белоруссии не выявили нарушений, заявили в Совфеде</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250126/lukashenko-1995588515.html">Экзит-полл: за Лукашенко на выборах проголосовали почти 90% избирателей</a>
+</div><!--n:250126 2100:s:633270:e:2878-->
+<!----><h2>События на Пт 22 авг 2025 20:00</h2><!--2025-08-22 19:55:13-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250822/sud-2037060380.html">Экс-заммэра Дегтярска ужесточили срок</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:47</span> <a class="nodecor" href="https://ria.ru/20250822/ukraina-2037059705.html">Рубио обсудил гарантии безопасности Киеву с главой офиса Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250822/ukraina-2037058286.html">Адвокат украинца, арестованного в Италии, изучит документы из Германии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250822/gaza-2037057605.html">БАПОР назвало доклад ООН о голоде поворотным моментом для жителей Газы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250822/slovakija-2037057284.html">Словакия может обжаловать запрет ЕК на импорт российского газа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:27</span> <a class="nodecor" href="https://ria.ru/20250822/sijjarto-2037056819.html">Сийярто сообщил Орбану о стратегических запасах нефти в Венгрии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:23</span> <a class="nodecor" href="https://ria.ru/20250822/lavrov-2037056542.html">Лавров в телефонной беседе выразил поддержку властям Венесуэлы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250822/kanada-2037055968.html">Канада снимет пошлины с некоторых американских товаров</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250822/alpinistka-2037055245.html">Застрявшую в горах Киргизии россиянку не будут спасать, сообщили СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250822/flag-2037055075.html">В Приднестровье прошли акции в честь Дня флага России</a></div>
+</div><!--n:250822 2000:s:636185:e:2864-->
+<!----><!--2025-02-26 21:00:00--><h2>РИА Новости на Ср 26 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250226/tramp-2001816953.html">Трамп объявил о введении пошлин на товары из ЕС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250226/sanktsii-2001816804.html">Трамп высказался о снятии санкций с России</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250226/tramp-2001816682.html">Трамп заявил, что рассчитывает на сделку с Путиным по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250226/tramp-2001816278.html">Трамп заявил, что Путину придется пойти на уступки по сделке по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250226/dodik-2001816121.html">Додик заявил, что парламент БиГ не признает решение суда в Сараево</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250226/tramp-2001815971.html">Украина может забыть о НАТО, заявил Трамп</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250226/putin-2001815677.html">Трамп назвал Путина очень умным</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250226/pontifik-2001815276.html">Ватикан заявил о незначительном улучшении состояния понтифика</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250226/kadyrov-2001814118.html">Адаму Кадырову вручили удостоверение члена Арабского арбитражного суда</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250226/tramp-2001813751.html">Трамп заявил, что сделка США и Украины по ресурсам окупится с лихвой</a>
+</div><!--n:250226 2100:s:639086:e:2718-->
+<!----><!--2025-02-21 21:00:00--><h2>РИА Новости на Пт 21 фев 2025 21:00:04</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250221/pozhar-2000913601.html">Пожар на автовокзале в Луганске локализовали</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250221/tailand-2000913318.html">Российские волонтеры нашли пропавшего в Таиланде россиянина</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250221/rynok-2000912373.html">Некоторые американские компании хотят вернуться в Россию, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250221/podpole-2000912254.html">Подполье сообщило об ударе по ремонтному заводу ВСУ в ДНР</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250221/apple-2000912070.html">Apple отключила функцию шифрования данных в iCloud в Британии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250221/putin-2000911877.html">Путин поручил найти источники допсредств на льготные кредиты в крымской СЭЗ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250221/tramp-2000911675.html">Французский журнал утверждает, что Трамп посетит Москву 9 мая</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250221/peskov-2000911501.html">Песков прокомментировал переговоры России и США, сообщил Bloomberg</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250221/tigr-2000910845.html">В Ленинградском зоопарке умер тигр Зевс</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250221/germaniya-2000911222.html">Россиянин готовил нападение на посольство Израиля в ФРГ, утверждает Bild</a>
+</div><!--n:250221 2100:s:641841:e:2784-->
+<!----><h2>События на Ср 27 авг 2025 20:00</h2><!--2025-08-27 19:58:28-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250827/moldaviya-2037960718.html">Молдавская диаспора Крыма призвала Молдавию сменить политику по России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250827/rossiya-2037959742.html">Путин поздравил два подразделения с присвоением звания "гвардейский"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250827/kalashnikov-2037959572.html">"Калашников" запустит производство дронов от народного ВПК</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250827/ssha-2037959091.html">Одна из ведущих ИИ-компаний сообщила о кибератаках в США через ее чат-бот</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250827/vagon-2037958480.html">РЖД покажут новые вагоны СВ с двухметровыми полками</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250827/devochka-2037958176.html">Девочка, пострадавшая при ЧП с батутом в Уфе, находится в реанимации</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250827/chp-2037957874.html">В Кизляре нашли тело утонувшей в реке девушки</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250827/bpla-2037957156.html">В Липецкой области отменили угрозу атаки беспилотников</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250827/proizvodstvo-2037956998.html">Промпроизводство в России в июле выросло на 0,7 процента</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250827/oborot-2037956680.html">Оборот розничной торговли в июле вырос на два процента</a></div>
+</div><!--n:250827 2000:s:644662:e:2841-->
+<!----><h2>События на Сб 20 сен 2025 20:00</h2><!--2025-09-20 19:55:07-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250920/iran-2043233527.html">Глава МИД Ирана опроверг информацию о переговорах с Уиткоффом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250920/shaman-2043232485.html">Shaman надеется достойно представить Россию на "Интервидении"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250920/bespilotnik-2043232170.html">В Пензенской области утилизировали подавленный РЭБ беспилотник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250920/zaharova-2043231924.html">Захарова иронично прокомментировала конфликт в украинском поезде</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:34</span> <a class="nodecor" href="https://ria.ru/20250920/rossiya-2043231386.html">Почти все участники "Интервидения" вышли на красную ковровую дорожку</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250920/ukraina-2043231180.html">"Аж до Москвы". В Раде высказались о дерзком призыве Ющенко</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250920/mizulina-2043230901.html">Мизулина опубликовала фото с Shaman перед началом "Интервидения"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250920/buzova-2043230507.html">Бузова хочет представить Россию на  "Интервидении"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250920/shaman-2043230391.html">Shaman прошел по красной дорожке "Интервидения" с саудовской участницей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://ria.ru/20250920/gaaga-2043229472.html">В Гааге протестующие выбили стекла в офисе партии "Демократы 66"</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://ria.ru/export/rss2/index.xml</div><!--n:250920 2000:s:647540:e:2971-->
+<!----><!--2025-03-12 21:00:00--><h2>РИА Новости на Ср 12 мар 2025 21:00:02</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250312/vashington-2004621571.html">На выставке в Вашингтоне представят советский штурмовик Ил-2</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250312/abhazija-2004621304.html">В Абхазии создали госкомиссию по подготовке празднования 80-летия Победы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250312/tramp-2004620791.html">Трамп заявил, что США обсудили с Киевом территориальный вопрос</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250312/trevoga-2004620291.html">В Киеве и восьми украинских областях объявили воздушную тревогу</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250312/pozhar-2004619426.html">В новой Москве загорелось производственно-офисное здание</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250312/es-2004619217.html">EFJ заявила, что санкции не препятствуют работе РИА Новости в ЕС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250312/vzryv-2004619057.html">В Сумах прогремел взрыв</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250312/tramp-2004618884.html">Трамп рассказал о позиции Зеленского по миру на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250312/tramp-2004618562.html">Трамп заявил, что после прекращения огня на Украине конфликт закончится</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250312/ekaterinburg-2004617958.html">У большинства отравившихся в лицее в Екатеринбурге обнаружили норовирус</a>
+</div><!--n:250312 2100:s:650548:e:2800-->
+<!----><h2>События на Вс 13 июл 2025 20:00</h2><!--2025-07-13 19:56:01-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250713/uragan-2028897294.html">В Донецке во время урагана погиб ребенок</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250713/samolet-2028896816.html">В лондонском аэропорту разбился небольшой самолет</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250713/ukraina-2028896291.html">Rheinmetall назвал конфликт на Украине двигателем роста объема продаж</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250713/ukraina-2028895996.html">В Черниговской области прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250713/gorlovka-2028895859.html">В Горловке три человека пострадали из-за урагана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:31</span> <a class="nodecor" href="https://ria.ru/20250713/dron-2028895411.html">При атаке дрона ВСУ на Белгородскую область пострадали бойцы "Орлана"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250713/zaharova-2028895236.html">Захарова иронично прокомментировала сокращения в госдепе США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:22</span> <a class="nodecor" href="https://ria.ru/20250713/moldaviya-2028894776.html">Молдавские военные, отправленные Санду на Украину, погибли при ударе по ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:15</span> <a class="nodecor" href="https://ria.ru/20250713/ukraina-2028894585.html">На Украине заработала автоматическая система постановки на воинский учет</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:08</span> <a class="nodecor" href="https://ria.ru/20250713/zoloto-2028893875.html">Российские школьники взяли золото на Международной олимпиаде по химии в ОАЭ</a></div>
+</div><!--n:250713 2000:s:653385:e:2842-->
+<!----><h2>События на Вс 21 сен 2025 20:00</h2><!--2025-09-21 19:59:03-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250921/rossiya-2043384834.html">Зрителями финала "Интервидения" стали четыре миллиарда человек</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250921/tramp-2043384575.html">Келлог заявил о разногласиях с Трампом по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250921/turtsija-2043384359.html">Турция приветствует решение Британии, Канады и Австралии признать Палестину</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250921/peterburg-2043384167.html">Прокуратура начала проверку после травмирования ребенка в метро Петербурга</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250921/vsu-2043383916.html">БПЛА атаковал вторую за день автозаправку в ЛНР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250921/kirk-2043383611.html">Глава РФПИ назвал наследие Кирка голосом веры, мужества и истины</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250921/rossiya-2043383450.html">В Петербурге объявили желтый уровень погодной опасности</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250921/palestina-2043383141.html">ХАМАС заявило о важности признания Палестины западными странами</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250921/tramp-2043382895.html">Трамп заявил о большой вражде между Путиным и Зеленским</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250921/svo-2043382539.html">Балицкий сообщил о 14 пострадавших при атаке ВСУ на Запорожскую область</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://ria.ru/export/rss2/index.xml</div><!--n:250921 2000:s:656264:e:2971-->
+<!----><h2>События на Вт 06 май 2025 21:00</h2><!--2025-05-06 20:58:52-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://rsport.ria.ru/20250506/tramp-2015394452.html">Трамп назвал Овечкина крепким орешком и отличным парнем</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250506/mahachkala-2015394300.html">В Дагестане рассказали о состоянии полицейского, раненного при нападении</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250506/aeroport-2015393592.html">Аэропорт в Саратове принял десять самолетов, летевших в Москву</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250506/es-2015392758.html">В России заявили, что бизнес в ЕС заинтересован в закупках энергоресурсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250506/otkaz-2015392563.html">Постпредство прокомментировало отказ ЕС от российских энергоресурсов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250506/vsu-2015392389.html">Волонтер: ВСУ получили приказ атаковать гражданские машины под Харьковом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250506/es-2015391906.html">Отказ от российского топлива не в интересах ЕС, заявило постпредство России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250506/yunesko-2015391745.html">В МИД обвинили секретариат ЮНЕСКО в предвзятости</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250506/rossiya-2015391645.html">Россия готова к развитию энергетического сотрудничества с ЕС</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250506/borisova-2015391487.html">В Саратове умерла участница Великой Отечественной войны Антонина Борисова</a></div>
+</div><!--n:250506 2100:s:659272:e:2964-->
+<!----><!--2025-02-23 21:00:00--><h2>РИА Новости на Вс 23 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250223/krasnoarmeysk-2001166908.html">Пушилин рассказал о ситуации в районе Красноармейска</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250223/partiya-2001167062.html">Вагенкнехт назвала свою партию антивоенной силой</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250223/makron-2001166789.html">Эрдоган заявил Макрону о необходимости начать переговоры по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250223/bundestag-2001166321.html">Партия "Союз Сары Вагенкнехт" рассчитывает попасть в бундестаг</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250223/adg-2001166019.html">В АдГ не верят, что Мерц сможет обострить ситуацию с Россией</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250223/es-2001165799.html">В Молдавии обвинили ЕС в шантаже перед парламентскими выборами</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250223/sholts-2001165682.html">Шольц признал поражение социал-демократов на выборах</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250223/germaniya-2001165020.html">Партия Сары Вагенкнехт проходит в бундестаг, показал экзит-полл</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250223/kanada-2001165165.html">В Канаде будут принимать на военную службу рекрутов с СДВГ и астмой</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250223/partija-2001164798.html">Берлинский штаб ХДС встретил победу партии ликованием</a>
+</div><!--n:250223 2100:s:662273:e:2788-->
+<!----><h2>События на Вс 11 май 2025 21:00</h2><!--2025-05-11 20:49:19-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250511/simonjan-2016385517.html">Симоньян заявила, что Западу сложно понять саму суть Дня Победы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250511/proverka-2016385088.html">После ЧП при буровых работах на Ямале начали проверку</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:32</span> <a class="nodecor" href="https://ria.ru/20250511/geraschenko-2016384546.html">Умер экс-глава Центробанка Виктор Геращенко</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250511/turtsiya-2016384022.html">В Турции заявили, что не знают о планах Зеленского посетить страну</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250511/yanao-2016383905.html">Пострадавшие при бурении в ЯНАО находятся в тяжелом состоянии</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:27</span> <a class="nodecor" href="https://ria.ru/20250511/iran-2016383597.html">Иран не приемлет требование США отказаться от ядерной программы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://ria.ru/20250511/rossiya-2016383378.html">Россия станет сильнее после окончания СВО, заявил президент Буркина-Фасо</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://ria.ru/20250511/simonjan-2016382502.html">Симоньян напомнила Трампу о роли СССР во Второй мировой войне</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:16</span> <a class="nodecor" href="https://ria.ru/20250511/zelenskiy-2016382371.html">Зеленский заявил, что будет ждать Путина в Турции</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:15</span> <a class="nodecor" href="https://ria.ru/20250511/yanao-2016382277.html">На Ямале при ЧП во время проведения буровых работ пострадали три человека</a></div>
+</div><!--n:250511 2100:s:665098:e:2860-->
+<!----><h2>События на Пт 12 сен 2025 20:00</h2><!--2025-09-12 19:59:23-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250912/moskva-2041553498.html">Третий погибший при аварии на Эльбрусе был жителем Москвы, сообщил источник</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250912/ssha-2041553329.html">Спецпосланник США обсудил с президентом Сирии борьбу с ИГ*</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250912/javka-2041552741.html">Явка на выборах губернатора Свердловской области превысила 21 процент</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250912/rossiya-2041552546.html">Глава МИД Польши не видит оснований для разрыва дипотношений с Россией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250912/nato-2041552339.html">"Поражение НАТО". В США рассказали, каких изменений в зоне СВО боится Запад</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250912/ataka-2041551082.html">В Белгородской области при атаке дрона пострадал водитель грузовика</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:24</span> <a class="nodecor" href="https://ria.ru/20250912/kirk-2041549946.html">Дуров назвал убийство Кирка нападением на свободу слова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250912/elbrus-2041548712.html">На Эльбрусе нашли тело третьего погибшего при аварии на канатной дороги</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250912/sud-2041547608.html">Суд в Москве запретил доступ к сайту с рекламой услуг киллеров</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:01</span> <a class="nodecor" href="https://ria.ru/20250912/roditeli-2041543644.html">Семья убитого в Москве байкера потребовала компенсацию у обвиняемых </a></div>
+</div><!--n:250912 2000:s:667995:e:2960-->
+<!----><h2>События на Пн 04 авг 2025 20:00</h2><!--2025-08-04 19:58:13-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250804/rossija-2033347044.html">Косачев высказался о списании Россией долгов развивающимся странам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250804/festival-2033346885.html">В Калужской области отменили проведение фестиваля "Сигнал"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250804/turtsiya-2033346727.html">Власти Турции не подтвердили информацию о возможном визите Эрдогана в Киев</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250804/rozenbaum-2033346505.html">Представитель Розенбаума опровергла сообщение о госпитализации артиста</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250804/sud-2033346305.html">Замглавы "Агро-гранта" получил четыре года колонии за мошенничество</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250804/politika-2033345503.html">Косачев рассказал о проекте закона о содействии международному развитию</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250804/argentina-2033345315.html">Копающихся в мусорных баках аргентинцев будут штрафовать</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250804/minprosveschenie-2033344864.html">Минпросвещения объяснило сокращение уроков родной речи в школах</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250804/ukraina-2033344694.html">На Украине арестовали владельца предприятия по производству дронов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250804/krokus-2033344341.html">Адвокат рассказала о расследовании второго дела о теракте в "Крокусе"</a></div>
+</div><!--n:250804 2000:s:670992:e:2988-->
+<!----><h2>События на Ср 30 апр 2025 21:00</h2><!--2025-04-30 20:55:43-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250430/kaspijsk-2014496195.html">В Каспийске прошла реконструкция водружения Знамени Победы над Рейхстагом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250430/slovakija-2014495715.html">Словакия заинтересована в закупках российского газа, заявили в парламенте</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250430/rody-2014494922.html">Женщина родила ребенка в московском метро</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250430/netrebko-2014493296.html">В Братиславе прошла акция против концерта Нетребко</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250430/rubio-2014493163.html">Внешняя политика США 30 лет руководствовалась мировым благом, заявил Рубио</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250430/intervidenie-2014492495.html">Конкурс "Интервидение" пройдет 20 сентября</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250430/putin-2014492375.html">Путин поблагодарил россиян за оказанное доверие</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250430/tarmp-2014491509.html">Трамп заявил, что рассчитывает на заключение сделки с Киевом </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250430/kiev-2014490963.html">Бессент: Киев предложил правки по ресурсной сделке в последнюю минуту</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:29</span> <a class="nodecor" href="https://ria.ru/20250430/tayvan-2014490742.html">Шойгу заявил о росте напряженности вокруг Тайваня</a></div>
+</div><!--n:250430 2100:s:674017:e:2812-->
+<!----><h2>События на Вт 22 июл 2025 20:00</h2><!--2025-07-22 19:57:51-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250722/domodedovo-2030717334.html">Суд начнет слушать иск "Домодедово" к структуре экс-бенефициара 10 сентября</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250722/srok-2030716855.html">Дудю* грозит до пяти лет лишения свободы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250722/bloger-2030716562.html">Следствие считает, что Дудь* собирал сведения о военной деятельности России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250722/baza-2030716394.html">Журналистку Baza допрашивают в качестве свидетеля, заявил ее адвокат</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250722/proschanie-2030715961.html">Прощание с председателем Верховного суда Подносовой пройдет 24 июля</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250722/kaliningrad-2030714904.html">Под Калининградом две женщины пострадали при обрушении крыши летнего кафе</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250722/ukraina-2030714671.html">ВСУ продают оружие картелям в обмен на наемников, заявил депутат Рады</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250722/detonatsiya-2030714321.html">Житель Белгородской области получил ранения при детонации дрона ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250722/tramp-2030713358.html">Трамп заявил о последствиях вмешательства в выборы 2016 года</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250722/moskva-2030713240.html">Движение из Москвы по Рублевскому шоссе прекращено из-за подтопления дороги</a></div>
+</div><!--n:250722 2000:s:676866:e:2974-->
+<!----><!--2025-02-01 21:00:00--><h2>РИА Новости на Сб 01 фев 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250201/tramp-1996832371.html">Нетаньяху встретится с Трампом в США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250201/kirienko-1996832161.html">Кириенко посетил школу в абхазском селе</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250201/ukraina-1996831229.html">Внутренняя грызня может разорвать Украину на куски, считают в Раде</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250201/oon-1996829892.html">В ООН отреагировали на слова Гутерреша о жертвах холокоста</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250201/wi-fi-1996829705.html">В Шереметьево призвали пассажиров быть внимательнее при подключении к Wi-Fi</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250201/tramp-1996829617.html">Трамп приказал нанести авиаудары по местам дислокации террористов в Сомали</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:14</span> <a class="nodecor" href="https://ria.ru/20250201/filadelfiya-1996828549.html">Жертвами авиакатастрофы в Филадельфии стали семь человек</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:09</span> <a class="nodecor" href="https://ria.ru/20250201/bavariya-1996828064.html">В Германии прошли протесты после антимигрантской инициативы оппозиции</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:07</span> <a class="nodecor" href="https://ria.ru/20250201/propavshie-1996827850.html">Власти Курской области уточняют списки пропавших без вести жителей региона</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:02</span> <a class="nodecor" href="https://ria.ru/20250201/pokhorony-1996827655.html">В Калужской области похоронили двоих убитых сотрудников лесничества</a>
+</div><!--n:250201 2100:s:679877:e:2847-->
+<!----><h2>События на Вс 27 апр 2025 21:00</h2><!--2025-04-27 20:51:36-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250427/germaniya-2013730069.html">Германия не собирается выходить из конвенций по минам и осколочным снарядам</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250427/posol-2013729422.html">Посол Ирана оценил помощь России в тушении пожара в порту</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250427/germaniya-2013728955.html">АдГ хотят выселись из штаб-квартиры, пишет Bild</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250427/sabantuy-2013728637.html">В Африке впервые отметили Сабантуй</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250427/veterinary-2013728270.html">В Уфе ветеринары проверили состояние собаки, избитой женщиной при ребенке</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250427/lider-2013727671.html">Херсонская область стала лидером по медианным зарплатам вахтовиков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250427/frantsija-2013727520.html">Во Франции планируют сократить треть государственных агентств</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:12</span> <a class="nodecor" href="https://ria.ru/20250427/albanija-2013727055.html">В Албании состоялся концерт в честь 80-летия Победы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:01</span> <a class="nodecor" href="https://ria.ru/20250427/vsu-2013725976.html">ВСУ продолжают применять БПЛА на Южнодонецком направлении, заявил командир</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250427/moskalik-2013724722.html">Обвиняемого в теракте против генерала Москалика арестовали</a></div>
+</div><!--n:250427 2100:s:682761:e:2850-->
+<!----><!--2025-02-16 21:00:00--><h2>РИА Новости на Вс 16 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250216/gorlovka-1999713775.html">В Горловке при украинском обстреле пострадал мирный житель</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:47</span> <a class="nodecor" href="https://ria.ru/20250216/bastrykin-1999713459.html">Бастрыкин потребовал доклад по делу о нападении мигрантов во Владивостоке</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250216/netanyakhu-1999713232.html">Нетаньяху заявил о полной координации с Трампом по вопросу Газы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250216/poteri-1999712927.html">Зеленский сделал неожиданное признание о потерях ВСУ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250216/gaza-1999712125.html">Нетаньяху поручил переговорщикам обсудить сделку по Газе в Египте</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250216/deti-1999711979.html">В Казани электропоезд смертельно ранил двух детей</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250216/polsha-1999711607.html">В Польше заявили, что могут претендовать на участие в решениях по Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250216/ataki-1999711157.html">ВСУ обстреляли пять районов Белгородской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250216/opasnost-1999711017.html">В Орловской области объявили ракетную опасность</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250216/berlin-1999710512.html">В Берлине более 30 тысяч человек протестуют против правых сил</a>
+</div><!--n:250216 2100:s:685648:e:2793-->
+<!----><h2>События на Ср 04 июн 2025 20:00</h2><!--2025-06-04 19:58:57-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250604/tramp-2020961670.html">Трамп назвал разговор с Путиным позитивным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250604/oon-2020960788.html">ООН приветствует телефонный разговор Путина и Трампа</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250604/putin-2020960694.html">Путин провел телефонный разговор с папой римским</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250604/putin-2020960256.html">Диалог Путина и Трампа важен для мира, заявил глава РФПИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250604/festival-2020959501.html">Нарышкин выступил на открытии книжного фестиваля "Красная площадь"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250604/tramp-2020958858.html">Трамп обсудил с Путиным атаки Киева на аэродромы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250604/tramp-2020958764.html">Трамп заявил, что провел телефонный разговор с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250604/podryv-2020958379.html">При подрыве моста в Курской области использовали пять взрывных устройств</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250604/saygak-2020958216.html">Саратовская область предложила исключить сайгаков из Красной книги</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://ria.ru/20250604/a-ha-2020957027.html">Вокалист группы a-ha рассказал о болезни Паркинсона</a></div>
+</div><!--n:250604 2000:s:688478:e:2752-->
+<!----><h2>События на Вт 19 авг 2025 20:00</h2><!--2025-08-19 19:51:49-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250819/medinskiy-2036383524.html">Мединский напомнил Стуббу о зверствах финнов во Второй мировой войне</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250819/belorussija-2036383356.html">В Белоруссии проверят данные о принудительном труде своих граждан в России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250819/samolet-2036382643.html">Росавиация сочла отделение шасси у самолета под Ульяновском авиаинцидентом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://ria.ru/20250819/pvo-2036382511.html">Над Белгородской областью и Черным морем сбили два беспилотника ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250819/ukraina-2036382346.html">СМИ указали на смену позиции европейских лидеров по вопросу о территориях</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250819/shveytsariya-2036381154.html">Швейцария готова принять переговоры Путина и Зеленского</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:28</span> <a class="nodecor" href="https://ria.ru/20250819/es-2036380772.html">ЕС возьмет львиную долю ответственности за гарантии Киеву, считает эксперт</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250819/ukraina-2036378745.html">На Украине обострился конфликт между РДК* и ВСУ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:11</span> <a class="nodecor" href="https://ria.ru/20250819/zakharova-2036378595.html">Киев не желает забирать живых пленных украинцев, заявила Захарова</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:10</span> <a class="nodecor" href="https://ria.ru/20250819/ukraina-2036378232.html">В США сообщили о создании группы по гарантиям безопасности для Украины</a></div>
+</div><!--n:250819 2000:s:691267:e:2986-->
+<!----><h2>События на Пн 23 июн 2025 20:00</h2><!--2025-06-23 19:57:09-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250623/iran-2024944688.html">Tasnim сообщило название операции Ирана против баз США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250623/baza-2024943839.html">На базе США в Ираке активировали систему ПВО, пишет Reuters</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250623/iran-2024943613.html">Китай выступил против посягательств на суверенитет Ирана</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250623/iran-2024943156.html">Иран запустил ракеты по американским базам, пишут израильские СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250623/iran-2024942981.html">Иран начал операцию против американской военной базы в Катаре </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250623/peskov-2024942194.html">Диалог с Ираном будет продолжаться, заявил Песков</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250623/katar-2024941700.html">В Катаре прогремели еще несколько взрывов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250623/rakety-2024941227.html">Axios: Иран выпустил шесть ракет в направлении американских баз в Катаре</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250623/katar-2024941140.html">Очевидцы сообщили о звуках сильных взрывов в столице Катара</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250623/bespilotnik-2024940222.html">Над Калужской областью сбили беспилотник</a></div>
+</div><!--n:250623 2000:s:694290:e:2740-->
+<!----><h2>Подборка новостей на Пн 07 апр 2025 21:00</h2><!--2025-04-07 20:59:12-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250407/nato-2009906345.html">Представителя США в военном комитете НАТО отстранили от должности</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://ria.ru/20250407/terrorizm-2009906484.html">Путин и Лукашенко обсудили сотрудничество в борьбе с терроризмом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250407/poshliny-2009906085.html">ЕК предложила контрпошлины на часть импорта из США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250407/moldavija-2009905733.html">Молдавия встала на путь деградации, заявил экс-президент республики</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250407/peterburg-2009905537.html">В Петербурге мосты и набережные украсят к 80-летию Победы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250407/festival-2009902398.html">В Москве открылся необычный фестиваль кондитерского искусства "Вкус жизни"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250407/oon-2009904725.html">В ООН заявили об обеспокоенности эскалацией между Ираном и США</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250407/veterany-2009904559.html">В Мариуполе к 80-летию Победы на домах ветеранов установят именные таблички</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:42</span> <a class="nodecor" href="https://ria.ru/20250407/blondie-2009904389.html">В США умер барабанщик группы Blondie Клем Берк</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250407/lavrov-2009903845.html">Лавров обсудил с послами евразийских стран диалог России и США</a>
+</div><!--n:250407 2100:s:697067:e:2853-->
+<!----><!--2025-02-28 21:00:00--><h2>РИА Новости на Пт 28 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250228/mizulina-2002352075.html">КВН поможет снизить подростковую преступность, считает Мизулина</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250228/putin-2002351621.html">Путин подписал закон о штрафах за нарушение при каботажных автоперевозках</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250228/zelenskiy-2002351414.html">Реакция Зеленского на слова Трампа о сделке по ресурсам попала на видео</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250228/putin-2002351142.html">Путин ограничил дистанционное обучение в медицинском образовании</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250228/tramp-2002350816.html">Трамп потребовал от Зеленского прекращения огня</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250228/putin-2002350570.html">Путин подписал закон о конфиденциальности запросов в ЕГРН</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250228/putin-2002350086.html">Путин подписал закон об особом порядке обработки данных силовиков</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250228/tramp-2002349839.html">Трамп заявил, что Россия его уважает, в отличие от Байдена и Обамы</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250228/putin-2002349637.html">Путин подписал закон о создании вузовских учебно-методических объединений</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250228/putin-2002349507.html">Путин ввел ответственность для финорганизаций за препятствия проверкам</a>
+</div><!--n:250228 2100:s:699957:e:2901-->
+<!----><h2>События на Ср 21 май 2025 20:00</h2><!--2025-05-21 19:58:13-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250521/aeroport-2018342270.html">В аэропортах Домодедово и Жуковский сняли ограничения</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://ria.ru/20250521/plisetskaya-2018338743.html">Бахрушинский музей представит в Китае выставку к 100-летию Майи Плисецкой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250521/intermuzey-2018337110.html">В Москве открылся Международный фестиваль "Интермузей"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250521/rosaviatsiya-2018341821.html">Минтранс и Росавиация усилили мониторинг столичных аэропортов</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250521/vsu-2018341433.html">ВСУ атаковали пять районов Белгородской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250521/tramp-2018340727.html">Трамп сохраняет возможность введения санкций против России</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:43</span> <a class="nodecor" href="https://ria.ru/20250521/tramp-2018338993.html">Трамп признал, что конфликт на Украине не касается США напрямую</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250521/ssha-2018337917.html">США не предоставляли Украине военных гарантий, заявил Рубио</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250521/es-2018337344.html">Журналист предрек Западу проблемы после убийства экс-советника Януковича </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250521/pvo-2018337252.html">ПВО сбила 30 дронов ВСУ над территорией России</a></div>
+</div><!--n:250521 2000:s:702895:e:2825-->
+<!----><h2>События на Пт 25 июл 2025 20:00</h2><!--2025-07-25 19:59:20-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250725/tramp-2031526522.html">Более 40 процентов американцев не верят словам Трампа, показал опрос</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250725/zhara-2031526037.html">В Турции установилась аномальная жара</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250725/ataka-2031526393.html">Украинский дрон атаковал АЗС в Курской области</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:54</span> <a class="nodecor" href="https://ria.ru/20250725/moskva-2031526216.html">В Москве раскрыли дело "группы смерти", заманивавшей детей</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250725/ukraina-2031525681.html">В Раде зарегистрировали альтернативный законопроект о НАБУ и САП</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250725/obezyana-2031525064.html">Сбежавшую из зоопарка в Евпатории обезьяну ловили два дня</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250725/rossiya-2031524768.html">Матвиенко призвала регулировать деятельность кадетских училищ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:41</span> <a class="nodecor" href="https://ria.ru/20250725/sk-2031524454.html">Появились новые подробности в деле Блиновской</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250725/samolet-2031524226.html">В Минводах незапланированно сел самолет, летевший из Сочи</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:36</span> <a class="nodecor" href="https://ria.ru/20250725/knr-2031524126.html">Граждане КНР и Белоруссии погибли при крушении АН-24</a></div>
+</div><!--n:250725 2000:s:705757:e:2736-->
+<!----><h2>Подборка новостей на Вт 01 апр 2025 21:00</h2><!--2025-04-01 20:52:35-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:52</span> <a class="nodecor" href="https://ria.ru/20250401/finlyandiya-2008769153.html">Финляндия может начать обсуждение открытия границы с Россией в конце года</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250401/kurtka-2008767850.html">Американка пожертвовала нуждающимся куртку с выигрышным лотерейным билетом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250401/putin-2008767749.html">Путин упростил порядок выдачи водительских прав гражданам Абхазии</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250401/shvetsiya-2008767516.html">Швеция закупит у Embraer четыре военно-транспортных самолета</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250401/russia-2008765970.html">Австралиец приехал в Россию и поразился одной детали</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250401/neft-2008765613.html">Запасов топлива в нефтехранилищах Чехии хватит лишь на 60 дней, пишут СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:30</span> <a class="nodecor" href="https://ria.ru/20250401/vsu-2008765346.html">В телефоне, захваченном у наемника ВСУ, нашли кадры боя с российским БПЛА</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:21</span> <a class="nodecor" href="https://ria.ru/20250401/venesuela-2008764349.html">Адвокаты венесуэльцев призвали Верховный суд США не высылать их из страны</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:11</span> <a class="nodecor" href="https://ria.ru/20250401/oon-2008763046.html">ООН не получала от России предложений по временному управлению на Украине</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:01</span> <a class="nodecor" href="https://ria.ru/20250401/gosuslugi-2008762299.html">На "Госуслугах" стал доступен сервис для проверки регистрации сим-карт</a>
+</div><!--n:250401 2100:s:708530:e:2970-->
+<!----><h2>События на Пт 13 июн 2025 20:00</h2><!--2025-06-13 19:59:21-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://ria.ru/20250613/makron-2022702463.html">Журналист набросился на Макрона после слов об атаках Израиля</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250613/evakuatsiya-2022702297.html">Группу россиян эвакуируют из Ирана в ночь на субботу</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:56</span> <a class="nodecor" href="https://ria.ru/20250613/iran-2022702132.html">NYT написала о возможной смерти командующего силами "Кудс" КСИР</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250613/vzryvy-2022702024.html">СМИ: в нескольких иранских городах прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:48</span> <a class="nodecor" href="https://ria.ru/20250613/iran-2022701327.html">Храм святителя Николая в Тегеране не пострадал при израильских атаках</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250613/iran-2022700896.html">В Тегеране прогремели взрывы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://ria.ru/20250613/udary-2022700806.html">Израиль нанес удары по городу Фердис в Иране, сообщили СМИ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:40</span> <a class="nodecor" href="https://ria.ru/20250613/erdogan-2022700536.html">Офис Эрдогана опроверг сообщения о посте его дочери после атаки Израиля</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:39</span> <a class="nodecor" href="https://ria.ru/20250613/udary-2022700154.html">Президент Боливии назвал удары Израиля по Ирану провокацией</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250613/tramp-2022699717.html">Трамп: удары Израиля по Ирану могут поспособствовать заключению сделки</a></div>
+</div><!--n:250613 2000:s:711537:e:2804-->
+<!----><h2>События на Пн 05 май 2025 21:00</h2><!--2025-05-05 20:53:30-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250505/tramp-2015158678.html">Минфин США рассказал о планах Трампа по ресурсной сделке с Киевом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250505/ukraina-2015158421.html">В посольстве России высказалось о предложении Матовича поехать в Киев </a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250505/opasnost-2015158265.html">В Воронежской области объявили опасность атаки беспилотников</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250505/slovakiya-2015158150.html">Жителя Словакии задержали с партией кокаина на миллион евро</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250505/tashkent-2015157375.html">В Узбекистан доставят частицу Вечного огня с Могилы Неизвестного Солдата</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:36</span> <a class="nodecor" href="https://ria.ru/20250505/pozhar-2015156956.html">При пожаре на спиртзаводе в Орске пострадала женщина</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:35</span> <a class="nodecor" href="https://ria.ru/20250505/jugra-2015156657.html">В 113 населенных пунктах Югры пройдет шествие "Бессмертного полка"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250505/sk-2015156490.html">Бастрыкин поручил завести дело после нападения собаки на ребенка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250505/zelenskiy-2015156341.html">Орбан раскрыл причины открытого конфликта с Зеленским</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250505/ssha-2015156184.html">Глава Минфина США заявил о прогрессе в торговых отношениях с Китаем</a></div>
+</div><!--n:250505 2100:s:714378:e:2899-->
+<!----><h2>События на Чт 24 апр 2025 21:00</h2><!--2025-04-24 20:55:09-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250424/ukraina-2013286438.html">На Украине предрекли катастрофу в случае прекращения поддержки США</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250424/ukraina-2013286161.html">Украина готовится к худшему сценарию, пишет Bild</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250424/sanktsii-2013285950.html">Посольство назвало новые санкции Британии против России бессмысленными</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250424/ilin-2013285667.html">Владимир Ильин получил спецприз ММКФ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:41</span> <a class="nodecor" href="https://ria.ru/20250424/rospotrebnadzor-2013284936.html">Роспотребнадзор рассказал о жителе Подмосковья, заболевшем холерой</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://rsport.ria.ru/20250424/napadenie-2013284799.html">После нападения отца фигуристки на судью в Екатеринбурге завели дело</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250424/spetsnaz-2013284560.html">ВС России сбили дрон-бомбардировщик ВСУ под Красноармейском</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:31</span> <a class="nodecor" href="https://ria.ru/20250424/frg-2013284122.html">Посол Нечаев высказался о запрете флагов России и СССР на акциях в ФРГ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250424/genotsid-2013283504.html">Нечаев: преступления нацистов против СССР должны быть признаны геноцидом</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250424/papa-2013283307.html">Папа Франциск оставил яркий след в истории мира, заявил архиепископ</a></div>
+</div><!--n:250424 2100:s:717314:e:2907-->
+<!----><h2>События на Пн 19 май 2025 21:00</h2><!--2025-05-19 20:57:40-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250519/putin-2017940179.html">Путин рассказал, как пришла идея названия образовательного центра "Сириус"</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:53</span> <a class="nodecor" href="https://ria.ru/20250519/tramp-2017939634.html">Трамп раскрыл, каким был тон разговора с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:50</span> <a class="nodecor" href="https://ria.ru/20250519/peskov-2017939462.html">Изменения Конституции нет на повестке дня, заявили в Кремле</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250519/tramp-2017939067.html">Трамп сообщил Зеленскому о результатах переговоров с Путиным</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:43</span> <a class="nodecor" href="https://ria.ru/20250519/tramp-2017938545.html">Ватикан готов принять переговоры России и Украины, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:40</span> <a class="nodecor" href="https://ria.ru/20250519/ukraina-2017938211.html">Прекращение огня должно обсуждаться только Москвой и Киевом, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250519/tramp-2017938032.html">Россия и Украина немедленно начнут обсуждать прекращение огня, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:38</span> <a class="nodecor" href="https://ria.ru/20250519/tramp-2017937853.html">Трамп заявил, что его разговор с Путиным прошел очень хорошо</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:37</span> <a class="nodecor" href="https://ria.ru/20250519/peskov-2017937650.html">В Кремле назвали условие для посредничества по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">20:34</span> <a class="nodecor" href="https://ria.ru/20250519/peskov-2017937069.html">Инфраструктура связи доступна Путину везде, заявили в Кремле</a></div>
+</div><!--n:250519 2100:s:720258:e:2885-->
+<!----><h2>События на Чт 11 сен 2025 20:00</h2><!--2025-09-11 19:58:05-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250911/sbermarketing-2041306572.html">Эксперт рассказала, в каких сферах ИИ не сможет заменить человека</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250911/bilety-2041306398.html">Стоимость перелета в Сочи и Геленджик может снизиться, считают в РСТ</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:53</span> <a class="nodecor" href="https://ria.ru/20250911/ssha-2041305946.html">США назначили вознаграждение за информацию о причастных к убийству Кирка</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://ria.ru/20250911/aeroflot-2041305675.html">"Аэрофлот" начал продавать билеты из Москвы в Краснодар на 17 сентября</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://ria.ru/20250911/ssha-2041305507.html">В Нью-Йорке началась церемония в годовщину терактов 11 сентября</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:49</span> <a class="nodecor" href="https://ria.ru/20250911/britanija-2041305200.html">В Британии задержали подозреваемого в поджоге офиса лейбористки Ходжсон</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://ria.ru/20250911/ukraina-2041304485.html">СМИ раскрыли тайный план "коалиции желающих" по Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250911/aeroport-2041304075.html">В АТОР оценили влияние открытия аэропорта Краснодара на турпоток в Крым</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250911/aeroflot-2041302865.html">"Аэрофлот" запускает полетную программу из Петербурга в Краснодар</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:37</span> <a class="nodecor" href="https://ria.ru/20250911/nato-2041302026.html">"Вопиющий случай". В США заявили о проблемах НАТО после инцидента в Польше</a></div>
+</div><!--n:250911 2000:s:723180:e:2981-->
+<!----><!--2025-01-23 21:00:00--><h2>РИА Новости на Чт 23 янв 2025 21:00:03</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250123/neft-1995221944.html">Экономист прокомментировал призыв Трампа к ОПЕК снизить цену нефти</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250123/ulyanovsk-1995221786.html">На владельца бара в Ульяновске составили протокол за пропаганду ЛГБТ*</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250123/brizhit-1995221604.html">Журналистка из США пообещала доказать, что жена Макрона родилась мужчиной</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250123/pvo-1995220554.html">В Курской области работает ПВО</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:44</span> <a class="nodecor" href="https://ria.ru/20250123/alaudinov-1995220185.html">Алаудинов сообщил, что некоторое время провел в госпитале</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250123/dtp-1995218735.html">На Варшавском шоссе столкнулись четыре машины</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250123/grossi-1995218310.html">Гросси выразил обеспокоенность частыми взрывами в районе ЗАЭС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://ria.ru/20250123/nebenzya-1995217990.html">Россия будет следить за выполнением сделки между Израилем и ХАМАС</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250123/avtobus-1995217900.html">Львова-Белова рассказала о состоянии детей, пострадавших в ДТП с автобусом</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:19</span> <a class="nodecor" href="https://ria.ru/20250123/mid-1995217597.html">На Украине заявили, что заранее не признают итоги выборов в Белоруссии</a>
+</div><!--n:250123 2100:s:726198:e:2823-->
+<!----><h2>События на Пн 14 июл 2025 20:00</h2><!--2025-07-14 19:58:34-->
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://ria.ru/20250714/akrobat-2029107767.html">Акробата, упавшего в Московском цирке, выписали из больницы</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:55</span> <a class="nodecor" href="https://ria.ru/20250714/velikobritaniya-2029107310.html">На Западе поставили британские СМИ на место после статей о Путине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:50</span> <a class="nodecor" href="https://ria.ru/20250714/tramp-2029106966.html">Поставки оружия Киеву через НАТО начнутся немедленно, заявил Трамп</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:45</span> <a class="nodecor" href="https://ria.ru/20250714/tramp-2029106556.html">Слуцкий прокомментировал возобновление поставок оружия Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://ria.ru/20250714/tramp-2029104858.html">Трамп дал характеристику Путину</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:33</span> <a class="nodecor" href="https://ria.ru/20250714/tramp-2029104614.html">Трамп назвал стоимость военной помощи Украине</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://ria.ru/20250714/cnn-2029104294.html">CNN: США могут продать странам НАТО ракеты средней дальности для Киева</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:20</span> <a class="nodecor" href="https://ria.ru/20250714/armeniya-2029103271.html">В Армении отреагировали на заявление посла США о Зангезурском коридоре</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:17</span> <a class="nodecor" href="https://ria.ru/20250714/polsha-2029102430.html">"Сами виноваты": в Польше неожиданно высказались о ситуации в зоне СВО</a></div>
+</div>
+<div class="rssn">
+  <div><span class="smaller gray hspace">19:16</span> <a class="nodecor" href="https://ria.ru/20250714/tramp-2029102245.html">Трамп пригрозил санкциями странам, покупающим российскую нефть</a></div>
+</div><!--n:250714 2000:s:729058:e:2847-->
+<!----><!--2025-02-19 21:00:00--><h2>РИА Новости на Ср 19 фев 2025 21:00:01</h2>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250219/matvienko-2000403695.html">Африка заинтересована в сотрудничестве с Россией, заявила Матвиенко</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:58</span> <a class="nodecor" href="https://ria.ru/20250219/afrika-2000403586.html">Западная политика подавления проводится и в Африке, заявила Матвиенко</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:56</span> <a class="nodecor" href="https://ria.ru/20250219/matvienko-2000403351.html">Матвиенко заявила об активном развитии Африки</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:55</span> <a class="nodecor" href="https://ria.ru/20250219/sobchak-2000403004.html">Путин рассказал, каким будут помнить Собчака</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250219/matvienko-2000402872.html">Мир активно движется к многополярному устройству, заявила Матвиенко</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250219/sobchak-2000402614.html">Собчак никогда не выступал за распад СССР, заявил Путин</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:51</span> <a class="nodecor" href="https://ria.ru/20250219/sanktsii-2000401758.html">NYT написала о провале попыток ослабить Россию с помощью санкций</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:49</span> <a class="nodecor" href="https://ria.ru/20250219/vens-2000401640.html">Вэнс пригрозил Зеленскому последствиями за критику в адрес Трампа</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:48</span> <a class="nodecor" href="https://ria.ru/20250219/podpole-2000401336.html">В подполье сообщили об ударе по военным ВСУ в Черниговской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:45</span> <a class="nodecor" href="https://ria.ru/20250219/apple-2000400523.html">Apple представила бюджетный смартфон iPhone 16e</a>
+</div><!--n:250219 2100:s:731942:e:2782-->
+<!----><h2>Подборка новостей на Чт 20 мар 2025 21:00:03</h2><!--2025-03-20 20:59:46-->
+<div class="rssn table">
+  <span class="smaller gray hspace">20:59</span> <a class="nodecor" href="https://realty.ria.ru/20250320/domrf-2006320464.html">"Дом.РФ": льготная ипотека на вторичное жилье затронет 900 городов РФ </a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:57</span> <a class="nodecor" href="https://ria.ru/20250320/raketa-2006319989.html">ЦАХАЛ перехватила вторую ракету хуситов за день</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:54</span> <a class="nodecor" href="https://ria.ru/20250320/kiev-2006319559.html">В Киеве планируют создать музей "советской пропаганды", сообщают СМИ</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:46</span> <a class="nodecor" href="https://ria.ru/20250320/ukraina-2006318427.html">На Украине объявили срочную эвакуацию из поселка в Сумской области</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:39</span> <a class="nodecor" href="https://ria.ru/20250320/tesla-2006317978.html">В США предъявили обвинения участникам поджогов автомобилей Tesla</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://ria.ru/20250320/erdogan-2006317517.html">Эрдоган заявил о попытках оппозиции оказать давление на правосудие</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:28</span> <a class="nodecor" href="https://ria.ru/20250320/obvinenie-2006317273.html">Обвинение попросило 9,5 года колонии для экс-совладельца "Азбуки вкуса"</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250320/sanktsii-2006316881.html">В кабмин Словакии направили петицию об отмене антироссийских санкций</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:25</span> <a class="nodecor" href="https://ria.ru/20250320/kallas-2006316634.html">СМИ: глава дипломатии ЕС разозлилась на премьера Испании</a>
+</div>
+<div class="rssn table">
+  <span class="smaller gray hspace">20:22</span> <a class="nodecor" href="https://ria.ru/20250320/khusity-2006316213.html">Истребители США нанесли удары по позициям хуситов в Йемене</a>
+</div><!--n:250320 2100:s:734761:e:2877-->

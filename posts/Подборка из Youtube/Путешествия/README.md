@@ -1,0 +1,1420 @@
+<!----><!--2024-05-26 06:00:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_otdyhajut_v_kanzaskoj_glubinke_den_goroda_kovboi_i_rodeo">
+    <img class="preview" data-videoid="5cf7yQSKj8U" src="https://i2.ytimg.com/vi/5cf7yQSKj8U/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_otdyhajut_v_kanzaskoj_glubinke_den_goroda_kovboi_i_rodeo">Как отдыхают в канзаской глубинке: день города, ковбои и...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-05-26</i>
+  </div>
+</div><!--n:Как отдыхают в канзаской глубинке день города ковбои и родео:s:0:e:669-->
+<!----><!--2026-02-01 06:54:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/obychnyj_snegopad_ili_katastrofa_kak_nju-jork_snegom_zamelo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/qa7mC000N6A" src="https://i2.ytimg.com/vi/qa7mC000N6A/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/obychnyj_snegopad_ili_katastrofa_kak_nju-jork_snegom_zamelo">Обычный снегопад или катастрофа? Как Нью-Йорк снегом замело.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-02-01</i>
+  </div>
+</div><!--n:Обычный снегопад или катастрофа Как Нью-Йорк снегом замело:s:800:e:706-->
+<!----><!--2024-11-03 07:48:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/progulka_po_osennemu_nju-jorku">
+    <img class="preview" data-videoid="Jljnmdc6fgc" src="https://i3.ytimg.com/vi/Jljnmdc6fgc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/progulka_po_osennemu_nju-jorku">Прогулка по осеннему Нью-Йорку</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-11-03</i>
+  </div>
+</div><!--n:Прогулка по осеннему Нью-Йорку:s:1636:e:560-->
+<!----><!--2025-09-02 13:30:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_v_proshloe_ne_pokidaya_granic_pensilvanii">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/am_2i4OtYLk" src="https://i2.ytimg.com/vi/am_2i4OtYLk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_v_proshloe_ne_pokidaya_granic_pensilvanii">Путешествие в прошлое не покидая границ Пенсильвании</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-02</i>
+  </div>
+</div><!--n:Путешествие в прошлое не покидая границ Пенсильвании:s:2275:e:684-->
+<!----><!--2025-10-07 14:07:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/amerika_kotoraya_ne_perestavala_byt_velikoj_bolshoe_shou_hot-rodov_i_kastomov_v_nju-djersi">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gcd085mZp8Q" src="https://i4.ytimg.com/vi/gcd085mZp8Q/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/amerika_kotoraya_ne_perestavala_byt_velikoj_bolshoe_shou_hot-rodov_i_kastomov_v_nju-djersi">Америка, которая не переставала быть великой | Большое шоу хот-родов и кастомов в Нью-Джерси</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-07</i>
+  </div>
+</div><!--n:Америка которая не переставала быть великой Большое шоу хот-родов и кастомов в Нью-Джерси:s:3080:e:825-->
+<!----><!--2025-11-16 08:19:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/nju-jorka_obrechen_chto_teper_budet_s_bolshim_yablokom">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/o0qaHbCgV0E" src="https://i4.ytimg.com/vi/o0qaHbCgV0E/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/nju-jorka_obrechen_chto_teper_budet_s_bolshim_yablokom">Нью-Йорка обречен? Что теперь будет с большим яблоком?</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-11-16</i>
+  </div>
+</div><!--n:Нью-Йорка обречен Что теперь будет с большим яблоком:s:4092:e:684-->
+<!----><!--2025-11-30 08:07:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/gorod_s_udivitelnoj_ekonomikoj_chem_huje_dela_tem_bolshe_ego_zarabotki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/FUs1V88sFhk" src="https://i3.ytimg.com/vi/FUs1V88sFhk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/gorod_s_udivitelnoj_ekonomikoj_chem_huje_dela_tem_bolshe_ego_zarabotki">Город с удивительной экономикой: чем хуже дела, тем больше его заработки</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-11-30</i>
+  </div>
+</div><!--n:Город с удивительной экономикой чем хуже дела тем больше его заработки:s:4895:e:750-->
+<!----><!--2025-07-13 08:04:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dva_nju-jorkskih_mosta_s_otlichnymi_vidami_pochemu_na_odnom_tolpy_a_na_drugom_nikogo_net">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/sbl0rvYGFGA" src="https://i4.ytimg.com/vi/sbl0rvYGFGA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dva_nju-jorkskih_mosta_s_otlichnymi_vidami_pochemu_na_odnom_tolpy_a_na_drugom_nikogo_net">Два нью-йоркских моста с отличными видами. Почему на одном толпы, а на другом никого нет.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-07-13</i>
+  </div>
+</div><!--n:Два нью-йоркских моста с отличными видами Почему на одном толпы а на другом никого нет:s:5798:e:814-->
+<!----><!--2025-10-26 04:59:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_vudstok_vermont_ocharovatelnyj_no_ochen_dorogoj_gorodok">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/4AFY4zjqwgY" src="https://i1.ytimg.com/vi/4AFY4zjqwgY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_vudstok_vermont_ocharovatelnyj_no_ochen_dorogoj_gorodok">Путешествие по американской глубинке | Вудсток, Вермонт: очаровательный, но очень дорогой городок</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-26</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке Вудсток Вермонт очаровательный но очень дорогой городок:s:6792:e:843-->
+<!----><!--2022-04-17 06:32:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/braziliya_favely_nishcheta_i_narkomany">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/Hd9JfWOkEWA" src="https://i1.ytimg.com/vi/Hd9JfWOkEWA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/braziliya_favely_nishcheta_i_narkomany">Бразилия. Фавелы, нищета и наркоманы</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2022-04-17</i>
+  </div>
+</div><!--n:Бразилия Фавелы нищета и наркоманы:s:7832:e:629-->
+<!----><!--2021-04-18 07:12:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kareliya_zimnyaya_skazka_-_zimoj_luchshe_chem_letom">
+    <img class="preview" data-videoid="-42nEfmL-uw" src="https://i2.ytimg.com/vi/-42nEfmL-uw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kareliya_zimnyaya_skazka_-_zimoj_luchshe_chem_letom">КАРЕЛИЯ. ЗИМНЯЯ СКАЗКА - зимой лучше чем летом?</a><br>
+    <i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i><br>
+    <i class="smaller3">2021-04-18</i>
+  </div>
+</div><!--n:КАРЕЛИЯ ЗИМНЯЯ СКАЗКА - зимой лучше чем летом:s:8548:e:639-->
+<!----><!--2025-10-12 18:54:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_zamerzaju_v_kabine_volvo_fh_remont_pechki_salona_automobile_russia_rek">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/AmStrrP3kdg" src="https://i2.ytimg.com/vi/AmStrrP3kdg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_zamerzaju_v_kabine_volvo_fh_remont_pechki_salona_automobile_russia_rek">Дальнобой по России 🇷🇺 Замерзаю в кабине Volvo FH ремонт печки салона #automobile #russia #рек </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-10-12</i>
+  </div>
+</div><!--n:Дальнобой по России Замерзаю в кабине Volvo FH ремонт печки салона automobile russia рек:s:9292:e:802-->
+<!----><!--2025-12-31 07:32:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/glavnoe_rojdestvenskoe_chudo_nju-jorka_dajker-hajts_bruklin">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/Wh7783ehDGM" src="https://i4.ytimg.com/vi/Wh7783ehDGM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/glavnoe_rojdestvenskoe_chudo_nju-jorka_dajker-hajts_bruklin">Главное рождественское чудо Нью-Йорка| Дайкер-Хайтс, Бруклин</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-12-31</i>
+  </div>
+</div><!--n:Главное рождественское чудо Нью-Йорка Дайкер-Хайтс Бруклин:s:10257:e:707-->
+<!----><!--2026-02-12 14:25:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_trassa_m5_ural_zakryta_v_storonu_samary_mujskaya_rabota_automobile">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/5tG2s2QYnHU" src="https://i2.ytimg.com/vi/5tG2s2QYnHU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_trassa_m5_ural_zakryta_v_storonu_samary_mujskaya_rabota_automobile">Дальнобой по России 🇷🇺 Трасса М5 Урал Закрыта в Сторону Самары @МУЖСКАЯ_РАБОТА #automobile </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2026-02-12</i>
+  </div>
+</div><!--n:Дальнобой по России Трасса М5 Урал Закрыта в Сторону Самары МУЖСКАЯ_РАБОТА automobile:s:11097:e:800-->
+<!----><!--2025-12-07 08:25:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/stolica_vermonta_ya_by_pereehal_tuda_jit">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/8eEyIUHd8kE" src="https://i1.ytimg.com/vi/8eEyIUHd8kE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/stolica_vermonta_ya_by_pereehal_tuda_jit">Столица Вермонта — я бы переехал туда жить</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-12-07</i>
+  </div>
+</div><!--n:Столица Вермонта я бы переехал туда жить:s:12068:e:636-->
+<!----><!--2024-05-12 06:46:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/klevyj_gorodok_pro_kotoryj_vy_nikogda_ne_slyshali_shatokua_nju-jork">
+    <img class="preview" data-videoid="ZUalq2QlHyg" src="https://i3.ytimg.com/vi/ZUalq2QlHyg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/klevyj_gorodok_pro_kotoryj_vy_nikogda_ne_slyshali_shatokua_nju-jork">Клевый городок про который вы никогда не слышали: Шатокуа,...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-05-12</i>
+  </div>
+</div><!--n:Клевый городок про который вы никогда не слышали Шатокуа Нью-Йорк:s:12802:e:687-->
+<!----><!--2025-11-02 20:44:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_tehnichka_ne_mnogo_remonta_automobile_dalnobojshchiki_russia_rek">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/GhF4mcx2HeA" src="https://i4.ytimg.com/vi/GhF4mcx2HeA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_tehnichka_ne_mnogo_remonta_automobile_dalnobojshchiki_russia_rek">Дальнобой по России 🇷🇺 Техничка не много ремонта 🛠️ #automobile #дальнобойщики  #russia #рек </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-11-02</i>
+  </div>
+</div><!--n:Дальнобой по России Техничка не много ремонта automobile дальнобойщики russia рек:s:13633:e:796-->
+<!----><!--2025-10-24 13:54:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rejs_ekaterinburg_minvody_automobile_takobtrans3871">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/-f0g9LL5I2o" src="https://i2.ytimg.com/vi/-f0g9LL5I2o/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rejs_ekaterinburg_minvody_automobile_takobtrans3871">Дальнобой по России 🇷🇺 рейс Екатеринбург Минводы #automobile @takobtrans3871 </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-10-24</i>
+  </div>
+</div><!--n:Дальнобой по России рейс Екатеринбург Минводы automobile takobtrans3871:s:14589:e:734-->
+<!----><!--2024-06-17 16:00:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/arkanzas-missuri-oklahoma_dorojnoe_kak_vyglyadyat_te_mesta">
+    <img class="preview" data-videoid="AQ5FDvscaVc" src="https://i2.ytimg.com/vi/AQ5FDvscaVc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/arkanzas-missuri-oklahoma_dorojnoe_kak_vyglyadyat_te_mesta">Арканзас-Миссури-Оклахома: дорожное. Как выглядят те места.</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-06-17</i>
+  </div>
+</div><!--n:Арканзас-Миссури-Оклахома дорожное Как выглядят те места:s:15458:e:668-->
+<!----><!--2021-01-19 15:48:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/norilsk_-_samyj_depressivnyj_gorod_rossii">
+    <img class="preview" data-videoid="PXrLikaPzaw" src="https://i1.ytimg.com/vi/PXrLikaPzaw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/norilsk_-_samyj_depressivnyj_gorod_rossii">Норильск - самый депрессивный город России?</a><br>
+    <i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i><br>
+    <i class="smaller3">2021-01-19</i>
+  </div>
+</div><!--n:Норильск - самый депрессивный город России:s:16255:e:614-->
+<!----><!--2022-02-13 04:13:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/amazonka_jizn_na_samoj_dlinnoj_reke_mira">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ooo6kN41ieo" src="https://i4.ytimg.com/vi/ooo6kN41ieo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/amazonka_jizn_na_samoj_dlinnoj_reke_mira">Амазонка. Жизнь на самой длинной реке мира</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2022-02-13</i>
+  </div>
+</div><!--n:Амазонка Жизнь на самой длинной реке мира:s:16971:e:644-->
+<!----><!--2025-01-18 06:00:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/hudshij_rajon_nju-jorka_kotoryj_malo_kto_videl_jeleznyj_treugolnik">
+    <img class="preview" data-videoid="V4rmkKplKZE" src="https://i3.ytimg.com/vi/V4rmkKplKZE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/hudshij_rajon_nju-jorka_kotoryj_malo_kto_videl_jeleznyj_treugolnik">Худший район Нью-Йорка, который мало кто видел: Железный...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-01-18</i>
+  </div>
+</div><!--n:Худший район Нью-Йорка который мало кто видел Железный треугольник:s:17715:e:681-->
+<!----><!--2024-09-08 05:01:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/neobychnaya_talsa_gospital-neboskreb_i_futuristicheskij_universitet_kotorye_velel_postroit_bog">
+    <img class="preview" data-videoid="aLiVJMmrzLc" src="https://i2.ytimg.com/vi/aLiVJMmrzLc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/neobychnaya_talsa_gospital-neboskreb_i_futuristicheskij_universitet_kotorye_velel_postroit_bog">Необычная Талса: Госпиталь-небоскреб и футуристический...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-09-08</i>
+  </div>
+</div><!--n:Необычная Талса Госпиталь-небоскреб и футуристический университет которые велел построить Бог:s:18543:e:737-->
+<!----><!--2026-01-25 05:22:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_mesto_s_hudshej_pogodoj_v_mire_maunt-vashington_nju-gempshir">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/t28Ld4YduWk" src="https://i1.ytimg.com/vi/t28Ld4YduWk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_mesto_s_hudshej_pogodoj_v_mire_maunt-vashington_nju-gempshir">Путешествие по американской глубинке | Место с худшей погодой в мире | Маунт-Вашингтон, Нью-Гэмпшир</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-01-25</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке Место с худшей погодой в мире Маунт-Вашингтон Нью-Гэмпшир:s:19480:e:854-->
+<!----><!--2025-10-07 14:07:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_postroit_krutuju_tachku_i_vernut_molodost_chumovye_razvlecheniya_amerikanskih_pensionerov">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gcd085mZp8Q" src="https://i4.ytimg.com/vi/gcd085mZp8Q/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_postroit_krutuju_tachku_i_vernut_molodost_chumovye_razvlecheniya_amerikanskih_pensionerov">Как построить крутую тачку и вернуть молодость. Чумовые развлечения американских пенсионеров.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-07</i>
+  </div>
+</div><!--n:Как построить крутую тачку и вернуть молодость Чумовые развлечения американских пенсионеров:s:20533:e:838-->
+<!----><!--2025-09-02 13:30:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_popast_v_proshloe_eshche_odno_puteshestvie_v_druguju_realnost_amishi_i_parovye_traktora">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/am_2i4OtYLk" src="https://i2.ytimg.com/vi/am_2i4OtYLk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_popast_v_proshloe_eshche_odno_puteshestvie_v_druguju_realnost_amishi_i_parovye_traktora">Как попасть в прошлое — Еще одно путешествие в другую реальность | Амиши и паровые трактора</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-02</i>
+  </div>
+</div><!--n:Как попасть в прошлое Еще одно путешествие в другую реальность Амиши и паровые трактора:s:21567:e:827-->
+<!----><!--2025-09-10 15:29:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_plohaya_korporaciya_postroila_otlichnyj_gorod_bentonvill_arkanzas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/MYNl9iLtUV8" src="https://i2.ytimg.com/vi/MYNl9iLtUV8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_plohaya_korporaciya_postroila_otlichnyj_gorod_bentonvill_arkanzas">Как плохая корпорация построила отличный город — Бентонвилл, Арканзас</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-10</i>
+  </div>
+</div><!--n:Как плохая корпорация построила отличный город Бентонвилл Арканзас:s:22579:e:746-->
+<!----><!--2024-12-15 07:00:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/argentina_kult_smerti_ulichnaya_eda_i_estetika_glubinki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/7-ZNsoiZbiU" src="https://i4.ytimg.com/vi/7-ZNsoiZbiU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/argentina_kult_smerti_ulichnaya_eda_i_estetika_glubinki">Аргентина. Культ смерти, уличная еда и эстетика глубинки</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2024-12-15</i>
+  </div>
+</div><!--n:Аргентина Культ смерти уличная еда и эстетика глубинки:s:23474:e:700-->
+<!----><!--2026-01-25 05:22:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/mesto_s_hudshej_pogodoj_v_mire_maunt-vashington_nju-gempshir">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/t28Ld4YduWk" src="https://i1.ytimg.com/vi/t28Ld4YduWk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/mesto_s_hudshej_pogodoj_v_mire_maunt-vashington_nju-gempshir">Место с худшей погодой в мире | Маунт-Вашингтон, Нью-Гэмпшир</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-01-25</i>
+  </div>
+</div><!--n:Место с худшей погодой в мире Маунт-Вашингтон Нью-Гэмпшир:s:24299:e:706-->
+<!----><!--2025-11-23 08:45:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/iz_prinstona_v_filadelfiju_cherez_kensington_i_novyj_brajton-bich">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/If5D7LIbwL4" src="https://i2.ytimg.com/vi/If5D7LIbwL4/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/iz_prinstona_v_filadelfiju_cherez_kensington_i_novyj_brajton-bich">Из Принстона в Филадельфию через Кенсингтон и новый Брайтон-Бич</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-11-23</i>
+  </div>
+</div><!--n:Из Принстона в Филадельфию через Кенсингтон и новый Брайтон-Бич:s:25134:e:725-->
+<!----><!--2025-10-07 14:07:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/amerika_kotoroj_davno_net_chumovye_tachki_amerikanskih_pensionerov">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gcd085mZp8Q" src="https://i4.ytimg.com/vi/gcd085mZp8Q/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/amerika_kotoroj_davno_net_chumovye_tachki_amerikanskih_pensionerov">Америка, которой давно нет. Чумовые тачки американских пенсионеров.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-07</i>
+  </div>
+</div><!--n:Америка которой давно нет Чумовые тачки американских пенсионеров:s:26000:e:734-->
+<!----><!--2025-08-10 07:37:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/redneki_na_kastom_pikapah_samoe_amerikanskoe_avtoshou_chto_ya_videl">
+    <img class="preview" data-videoid="NLblVBLzRkc" src="https://i3.ytimg.com/vi/NLblVBLzRkc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/redneki_na_kastom_pikapah_samoe_amerikanskoe_avtoshou_chto_ya_videl">Реднеки на кастом пикапах. Самое американское автошоу, что я видел</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-08-10</i>
+  </div>
+</div><!--n:Реднеки на кастом пикапах Самое американское автошоу что я видел:s:26879:e:703-->
+<!----><!--2024-05-05 07:00:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_sibir_no_luchshe_patagoniya">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/az_f9cTe3ts" src="https://i2.ytimg.com/vi/az_f9cTe3ts/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_sibir_no_luchshe_patagoniya">Как Сибирь, но лучше. Патагония</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2024-05-05</i>
+  </div>
+</div><!--n:Как Сибирь но лучше Патагония:s:27725:e:605-->
+<!----><!--2024-12-08 07:43:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/ljubimoe_razvlechenie_amerikanskoj_glubinki_demolishen_derbi_v_arkanzase">
+    <img class="preview" data-videoid="j99aMzCdofQ" src="https://i3.ytimg.com/vi/j99aMzCdofQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/ljubimoe_razvlechenie_amerikanskoj_glubinki_demolishen_derbi_v_arkanzase">Любимое развлечение американской глубинки | Демолишен дерби ...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-12-08</i>
+  </div>
+</div><!--n:Любимое развлечение американской глубинки Демолишен дерби в Арканзасе:s:28408:e:703-->
+<!----><!--2024-06-02 06:00:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_ya_popal_v_tornado_v_arkanzase">
+    <img class="preview" data-videoid="6L9Bv6sbKls" src="https://i3.ytimg.com/vi/6L9Bv6sbKls/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_ya_popal_v_tornado_v_arkanzase">Как я попал в торнадо в Арканзасе</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-06-02</i>
+  </div>
+</div><!--n:Как я попал в торнадо в Арканзасе:s:29266:e:572-->
+<!----><!--2021-02-07 08:12:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dikson_jizn_v_samom_severnom_poselke_rossii">
+    <img class="preview" data-videoid="wVh8F_WWiTI" src="https://i4.ytimg.com/vi/wVh8F_WWiTI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/dikson_jizn_v_samom_severnom_poselke_rossii">Диксон. Жизнь в самом северном посёлке России</a><br>
+    <i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i><br>
+    <i class="smaller3">2021-02-07</i>
+  </div>
+</div><!--n:Диксон Жизнь в самом северном посёлке России:s:29922:e:622-->
+<!----><!--2026-02-12 13:53:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_remont_refa_popali_v_gololed_snegopad_trassa_kamyshin_saratov_samara_automobile">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/jd2vbYwn1yg" src="https://i3.ytimg.com/vi/jd2vbYwn1yg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_remont_refa_popali_v_gololed_snegopad_trassa_kamyshin_saratov_samara_automobile">Дальнобой по России🇷🇺ремонт рефа попали в гололёд снегопад ТРАССА КАМЫШИН САРАТОВ САМАРА#automobile </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2026-02-12</i>
+  </div>
+</div><!--n:Дальнобой по России ремонт рефа попали в гололёд снегопад ТРАССА КАМЫШИН САРАТОВ САМАРА automobile:s:30650:e:848-->
+<!----><!--2022-09-23 04:29:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/uzbekistan_spaset_rossiju">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/p4tFRlGK9fg" src="https://i1.ytimg.com/vi/p4tFRlGK9fg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/uzbekistan_spaset_rossiju">УЗБЕКИСТАН СПАСЕТ РОССИЮ?</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2022-09-23</i>
+  </div>
+</div><!--n:УЗБЕКИСТАН СПАСЕТ РОССИЮ:s:31695:e:584-->
+<!----><!--2024-04-14 05:00:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/v_arkanzasskuju_glubinku_za_polnym_solnechnym_zatmeniem">
+    <img class="preview" data-videoid="XZVqb28UIS4" src="https://i1.ytimg.com/vi/XZVqb28UIS4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/v_arkanzasskuju_glubinku_za_polnym_solnechnym_zatmeniem">В арканзасскую глубинку за полным солнечным затмением</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-04-14</i>
+  </div>
+</div><!--n:В арканзасскую глубинку за полным солнечным затмением:s:32349:e:654-->
+<!----><!--2025-08-24 05:41:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/ulichnaya_eda_v_nju-jorke_mojno_li_vkusno_i_deshevo_poest_v_rajone_tajms-skver">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/5KNQJ0OowKI" src="https://i2.ytimg.com/vi/5KNQJ0OowKI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/ulichnaya_eda_v_nju-jorke_mojno_li_vkusno_i_deshevo_poest_v_rajone_tajms-skver">Уличная еда в Нью-Йорке 🍔 Можно ли вкусно и дешево поесть в районе Таймс-Сквер?</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-08-24</i>
+  </div>
+</div><!--n:Уличная еда в Нью-Йорке Можно ли вкусно и дешево поесть в районе Таймс-Сквер:s:33127:e:778-->
+<!----><!--2024-09-22 07:54:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/peshkom_cherez_ves_bruklin_neturisticheskij_nju-jork">
+    <img class="preview" data-videoid="khlprBgRxTo" src="https://i4.ytimg.com/vi/khlprBgRxTo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/peshkom_cherez_ves_bruklin_neturisticheskij_nju-jork">Пешком через весь Бруклин | Нетуристический Нью-Йорк</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-09-22</i>
+  </div>
+</div><!--n:Пешком через весь Бруклин Нетуристический Нью-Йорк:s:34067:e:644-->
+<!----><!--2021-06-06 06:27:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/chechnya_-_samyj_bezopasnyj_region_rossii">
+    <img class="preview" data-videoid="NSTGsqx4-jY" src="https://i3.ytimg.com/vi/NSTGsqx4-jY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/chechnya_-_samyj_bezopasnyj_region_rossii">Чечня - самый безопасный регион России?</a><br>
+    <i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i><br>
+    <i class="smaller3">2021-06-06</i>
+  </div>
+</div><!--n:Чечня - самый безопасный регион России:s:34829:e:606-->
+<!----><!--2024-08-31 04:07:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/malenkaya_koreya_naprotiv_manhettena_fort-li_nju-djersi">
+    <img class="preview" data-videoid="LzSn2Y0XySM" src="https://i1.ytimg.com/vi/LzSn2Y0XySM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/malenkaya_koreya_naprotiv_manhettena_fort-li_nju-djersi">Маленькая Корея напротив Манхэттена: Форт-Ли, Нью-Джерси</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-08-31</i>
+  </div>
+</div><!--n:Маленькая Корея напротив Манхэттена Форт-Ли Нью-Джерси:s:35529:e:657-->
+<!----><!--2026-01-26 19:12:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_remont_dvigatelya_volvo_fh_d13c_gruppa_mahle_automobile_garage18life">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/W_ErFfcgIpA" src="https://i4.ytimg.com/vi/W_ErFfcgIpA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_remont_dvigatelya_volvo_fh_d13c_gruppa_mahle_automobile_garage18life">Дальнобой по России 🇷🇺 ремонт двигателя VOLVO FH D13C группа MAHLE   #automobile @garage18life </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2026-01-26</i>
+  </div>
+</div><!--n:Дальнобой по России ремонт двигателя VOLVO FH D13C группа MAHLE automobile garage18life:s:36311:e:784-->
+<!----><!--2025-10-07 14:07:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_amerikanskie_dedy_stroyat_hot-rody_bolshoj_sbor_kastomov_v_nju-djersi">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gcd085mZp8Q" src="https://i4.ytimg.com/vi/gcd085mZp8Q/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_amerikanskie_dedy_stroyat_hot-rody_bolshoj_sbor_kastomov_v_nju-djersi">Как американские деды строят хот-роды | Большой сбор кастомов в Нью-Джерси.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-07</i>
+  </div>
+</div><!--n:Как американские деды строят хот-роды Большой сбор кастомов в Нью-Джерси:s:37244:e:760-->
+<!----><!--2026-02-22 06:51:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/samoe_krasivoe_mesto_na_vsem_vostochnom_pobereje_ssha_nacionalnyj_park_akejdiya_men">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/RyaOwNPBeJg" src="https://i3.ytimg.com/vi/RyaOwNPBeJg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/samoe_krasivoe_mesto_na_vsem_vostochnom_pobereje_ssha_nacionalnyj_park_akejdiya_men">Самое красивое место на всем восточном побережье США | Национальный парк Акейдия, Мэн.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-02-22</i>
+  </div>
+</div><!--n:Самое красивое место на всем восточном побережье США Национальный парк Акейдия Мэн:s:38161:e:801-->
+<!----><!--2024-11-24 06:09:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/flashing_bruklin_-_pochemu_tut_tak_ujutno_i_krasivo_neturisticheskij_nju-jork">
+    <img class="preview" data-videoid="ThkQALGT7tI" src="https://i1.ytimg.com/vi/ThkQALGT7tI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/flashing_bruklin_-_pochemu_tut_tak_ujutno_i_krasivo_neturisticheskij_nju-jork">Флашинг, Бруклин - почему тут так уютно и красиво? |...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-11-24</i>
+  </div>
+</div><!--n:Флашинг Бруклин - почему тут так уютно и красиво Нетуристический Нью-Йорк:s:39139:e:692-->
+<!----><!--2024-12-22 08:19:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/filadelfiya_gorod_kontrastov_iz_rojdestvenskoj_skazki_v_kriminalnoe_getto">
+    <img class="preview" data-videoid="0jQ10H0UdvM" src="https://i1.ytimg.com/vi/0jQ10H0UdvM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/filadelfiya_gorod_kontrastov_iz_rojdestvenskoj_skazki_v_kriminalnoe_getto">Филадельфия город контрастов: из рождественской сказки в...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-12-22</i>
+  </div>
+</div><!--n:Филадельфия город контрастов из рождественской сказки в криминальное гетто:s:39989:e:698-->
+<!----><!--2024-07-21 07:10:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/progulka_po_ijulskomu_nju-jorku_ya_vernulsya">
+    <img class="preview" data-videoid="fjvthbTcL78" src="https://i3.ytimg.com/vi/fjvthbTcL78/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/progulka_po_ijulskomu_nju-jorku_ya_vernulsya">Прогулка по июльскому Нью-Йорку. Я вернулся!</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-07-21</i>
+  </div>
+</div><!--n:Прогулка по июльскому Нью-Йорку Я вернулся:s:40851:e:612-->
+<!----><!--2024-05-05 15:45:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_66-j_doroge_galena_kanzas">
+    <img class="preview" data-videoid="S4AqPCJ-XGQ" src="https://i4.ytimg.com/vi/S4AqPCJ-XGQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_66-j_doroge_galena_kanzas">Путешествие по 66-й дороге: Галена, Канзас</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-05-05</i>
+  </div>
+</div><!--n:Путешествие по 66-й дороге Галена Канзас:s:41565:e:600-->
+<!----><!--2025-06-08 08:16:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_vyglyadit_idealnyj_amerikanskij_gorodok_dojlstaun_pensilvaniya">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/4NKqBe65l3k" src="https://i1.ytimg.com/vi/4NKqBe65l3k/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_vyglyadit_idealnyj_amerikanskij_gorodok_dojlstaun_pensilvaniya">Как выглядит идеальный американский городок | Дойлстаун, Пенсильвания</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-06-08</i>
+  </div>
+</div><!--n:Как выглядит идеальный американский городок Дойлстаун Пенсильвания:s:42261:e:739-->
+<!----><!--2025-08-03 07:46:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/gde_i_kak_otdyhajut_nju-jorkcy_puteshestvie_vdol_reki_delaver">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/EIj0qfGfODM" src="https://i2.ytimg.com/vi/EIj0qfGfODM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/gde_i_kak_otdyhajut_nju-jorkcy_puteshestvie_vdol_reki_delaver">Где и как отдыхают нью-йоркцы. Путешествие вдоль реки Делавэр.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-08-03</i>
+  </div>
+</div><!--n:Где и как отдыхают нью-йоркцы Путешествие вдоль реки Делавэр:s:43150:e:713-->
+<!----><!--2025-11-13 08:01:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/osen_v_nju-jorke_chast_vtoraya_ujasy_nashego_gorodka">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/yCcGUW4ltow" src="https://i2.ytimg.com/vi/yCcGUW4ltow/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/osen_v_nju-jorke_chast_vtoraya_ujasy_nashego_gorodka">Осень в Нью-Йорке, часть вторая: ужасы нашего городка.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-11-13</i>
+  </div>
+</div><!--n:Осень в Нью-Йорке часть вторая ужасы нашего городка:s:43998:e:679-->
+<!----><!--2024-12-01 04:56:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/eda_amerikanskih_indejcev_kukuruznyj_sup_iz_oleniny_i_jarenoe_myaso_bizona_gotovim_s_mishej">
+    <img class="preview" data-videoid="8tu-nP94ZEI" src="https://i1.ytimg.com/vi/8tu-nP94ZEI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/eda_amerikanskih_indejcev_kukuruznyj_sup_iz_oleniny_i_jarenoe_myaso_bizona_gotovim_s_mishej">Еда американских индейцев: кукурузный суп из оленины и...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-12-01</i>
+  </div>
+</div><!--n:Еда американских индейцев кукурузный суп из оленины и жареное мясо бизона готовим с Мишей:s:44795:e:729-->
+<!----><!--2025-12-28 06:00:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_rajon_nju-jorkskoj_mafii_stal_rojdestvenskim_chudom_dajker-hajts_bruklin">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/IuJcPqLbz8A" src="https://i2.ytimg.com/vi/IuJcPqLbz8A/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_rajon_nju-jorkskoj_mafii_stal_rojdestvenskim_chudom_dajker-hajts_bruklin">Как район нью-йоркской мафии стал рождественским чудом | Дайкер-Хайтс, Бруклин</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-12-28</i>
+  </div>
+</div><!--n:Как район нью-йоркской мафии стал рождественским чудом Дайкер-Хайтс Бруклин:s:45713:e:773-->
+<!----><!--2022-08-22 09:03:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/afganistan_jizn_bez_vojny">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/NeZvVyv9ups" src="https://i3.ytimg.com/vi/NeZvVyv9ups/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/afganistan_jizn_bez_vojny">АФГАНИСТАН. ЖИЗНЬ БЕЗ ВОЙНЫ</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2022-08-22</i>
+  </div>
+</div><!--n:АФГАНИСТАН ЖИЗНЬ БЕЗ ВОЙНЫ:s:46650:e:587-->
+<!----><!--2020-11-08 07:00:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/jit_schastlivo_mojno_i_v_rossii_primore">
+    <img class="preview" data-videoid="i8hVQA0GNv4" src="https://i2.ytimg.com/vi/i8hVQA0GNv4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/jit_schastlivo_mojno_i_v_rossii_primore">ЖИТЬ СЧАСТЛИВО МОЖНО И В РОССИИ? / Приморье</a><br>
+    <i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i><br>
+    <i class="smaller3">2020-11-08</i>
+  </div>
+</div><!--n:ЖИТЬ СЧАСТЛИВО МОЖНО И В РОССИИ Приморье:s:47310:e:608-->
+<!----><!--2025-09-10 15:29:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/gorod_gde_jivet_bogatejshaya_semya_v_amerike_bentonvill_arkanzas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/MYNl9iLtUV8" src="https://i2.ytimg.com/vi/MYNl9iLtUV8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/gorod_gde_jivet_bogatejshaya_semya_v_amerike_bentonvill_arkanzas">Город, где живет богатейшая семья в Америке — Бентонвилл, Арканзас</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-10</i>
+  </div>
+</div><!--n:Город где живет богатейшая семья в Америке Бентонвилл Арканзас:s:48016:e:728-->
+<!----><!--2021-09-12 04:08:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/tajmyr_jizn_v_samom_severnom_regione_rossii">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/hXpXlF1zgK8" src="https://i1.ytimg.com/vi/hXpXlF1zgK8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/tajmyr_jizn_v_samom_severnom_regione_rossii">Таймыр. Жизнь в самом северном регионе России</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2021-09-12</i>
+  </div>
+</div><!--n:Таймыр Жизнь в самом северном регионе России:s:48884:e:656-->
+<!----><!--2025-11-30 08:07:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_berri_vermont_granitnaya_stolica_ameriki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/FUs1V88sFhk" src="https://i3.ytimg.com/vi/FUs1V88sFhk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_berri_vermont_granitnaya_stolica_ameriki">Путешествие по американской глубинке | Бэрри, Вермонт — гранитная столица Америки</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-11-30</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке Бэрри Вермонт гранитная столица Америки:s:49646:e:785-->
+<!----><!--2025-01-25 05:49:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_jivet_samyj_ortodoksalnyj_gorod_v_nju-djersi">
+    <img class="preview" data-videoid="YFEEF0G6Xlo" src="https://i2.ytimg.com/vi/YFEEF0G6Xlo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_jivet_samyj_ortodoksalnyj_gorod_v_nju-djersi">Как живет самый ортодоксальный город в Нью-Джерси.</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-01-25</i>
+  </div>
+</div><!--n:Как живет самый ортодоксальный город в Нью-Джерси:s:50599:e:632-->
+<!----><!--2024-10-19 06:30:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/odin_iz_samyh_bogatyh_i_dorogih_gorodkov_nju-djersi_ridjvud">
+    <img class="preview" data-videoid="7BPcyNX64Bs" src="https://i4.ytimg.com/vi/7BPcyNX64Bs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/odin_iz_samyh_bogatyh_i_dorogih_gorodkov_nju-djersi_ridjvud">Один из самых богатых и дорогих городков Нью-Джерси: Риджвуд</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-10-19</i>
+  </div>
+</div><!--n:Один из самых богатых и дорогих городков Нью-Джерси Риджвуд:s:51346:e:672-->
+<!----><!--2024-12-22 08:19:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/iz_skazki_v_getto_filadelfiya_gorod_kontrastov">
+    <img class="preview" data-videoid="0jQ10H0UdvM" src="https://i1.ytimg.com/vi/0jQ10H0UdvM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/iz_skazki_v_getto_filadelfiya_gorod_kontrastov">Из сказки в гетто: Филадельфия город контрастов</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-12-22</i>
+  </div>
+</div><!--n:Из сказки в гетто Филадельфия город контрастов:s:52151:e:623-->
+<!----><!--2025-11-16 08:19:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/vybory_mera_nju-jorka_chto_teper_budet_s_bolshim_yablokom">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/o0qaHbCgV0E" src="https://i4.ytimg.com/vi/o0qaHbCgV0E/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/vybory_mera_nju-jorka_chto_teper_budet_s_bolshim_yablokom">Выборы мэра Нью-Йорка. Что теперь будет с большим яблоком?</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-11-16</i>
+  </div>
+</div><!--n:Выборы мэра Нью-Йорка Что теперь будет с большим яблоком:s:52884:e:697-->
+<!----><!--2025-07-27 06:48:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_moi_ljubimye_mesta_na_reke_delaver">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/OU9czmItMcM" src="https://i4.ytimg.com/vi/OU9czmItMcM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_moi_ljubimye_mesta_na_reke_delaver">Путешествие по американской глубинке. Мои любимые места на реке Делавэр</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-07-27</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке Мои любимые места на реке Делавэр:s:53708:e:754-->
+<!----><!--2025-11-08 06:24:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/osen_v_nju-jorke_glavnaya_problema_marafona">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ADRjS9Ipb2o" src="https://i2.ytimg.com/vi/ADRjS9Ipb2o/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/osen_v_nju-jorke_glavnaya_problema_marafona">Осень в Нью-Йорке. Главная проблема марафона.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-11-08</i>
+  </div>
+</div><!--n:Осень в Нью-Йорке Главная проблема марафона:s:54617:e:646-->
+<!----><!--2025-02-02 05:32:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/rajon_gde_pryatala_tela_nju-jorkskaya_mafiya">
+    <img class="preview" data-videoid="iYI77O2qqSc" src="https://i2.ytimg.com/vi/iYI77O2qqSc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/rajon_gde_pryatala_tela_nju-jorkskaya_mafiya">Район, где прятала тела нью-йоркская мафия</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-02-02</i>
+  </div>
+</div><!--n:Район где прятала тела нью-йоркская мафия:s:55367:e:609-->
+<!----><!--2025-06-22 06:47:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/filadelfiya_-_chto_stalo_s_vajnejshim_industrialnym_centrom_ssha">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/CPuOyqfNwKo" src="https://i4.ytimg.com/vi/CPuOyqfNwKo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/filadelfiya_-_chto_stalo_s_vajnejshim_industrialnym_centrom_ssha">Филадельфия - что стало с важнейшим индустриальным центром США</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-06-22</i>
+  </div>
+</div><!--n:Филадельфия - что стало с важнейшим индустриальным центром США:s:56076:e:721-->
+<!----><!--2025-12-14 05:49:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/proehalsya_po_topovym_mestam_i_ne_uveren_chto_zahochu_eto_povtorit">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/w80fmk-Z8o8" src="https://i4.ytimg.com/vi/w80fmk-Z8o8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/proehalsya_po_topovym_mestam_i_ne_uveren_chto_zahochu_eto_povtorit">Проехался по топовым местам и не уверен, что захочу это повторить</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-12-14</i>
+  </div>
+</div><!--n:Проехался по топовым местам и не уверен что захочу это повторить:s:56936:e:729-->
+<!----><!--2025-11-13 17:44:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_pervyj_gololed_fury_v_kjuvete_rejs_v_irkutsk_automobile_russia_rek">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/MigUIUkmZVw" src="https://i2.ytimg.com/vi/MigUIUkmZVw/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_pervyj_gololed_fury_v_kjuvete_rejs_v_irkutsk_automobile_russia_rek">Дальнобой по России 🇷🇺 первый гололёд фуры в кювете 😱Рейс в Иркутск #automobile #russia #рек </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-11-13</i>
+  </div>
+</div><!--n:Дальнобой по России первый гололёд фуры в кювете Рейс в Иркутск automobile russia рек:s:57807:e:799-->
+<!----><!--2023-06-18 06:00:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/argentina_dacha_gitlera_i_nacistskij_sled">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/WIJb2i5qTLY" src="https://i4.ytimg.com/vi/WIJb2i5qTLY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/argentina_dacha_gitlera_i_nacistskij_sled">Аргентина. Дача Гитлера и нацистский след</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2023-06-18</i>
+  </div>
+</div><!--n:Аргентина Дача Гитлера и нацистский след:s:58771:e:645-->
+<!----><!--2024-07-13 07:42:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/pochemu_vitalik_uezjaet_iz_oklahomy_chem_zakonchilsya_moj_pereezd_i_mnogoe_drugoe_otvety_na_voprosy">
+    <img class="preview" data-videoid="-zh-5uPKXyw" src="https://i2.ytimg.com/vi/-zh-5uPKXyw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/pochemu_vitalik_uezjaet_iz_oklahomy_chem_zakonchilsya_moj_pereezd_i_mnogoe_drugoe_otvety_na_voprosy">Почему Виталик уезжает из Оклахомы? Чем закончился мой...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-07-13</i>
+  </div>
+</div><!--n:Почему Виталик уезжает из Оклахомы Чем закончился мой переезд И многое другое Ответы на вопросы:s:59515:e:745-->
+<!----><!--2025-10-29 14:26:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_zachem_v_vermonte_podkljuchajut_trubki_k_derevyam">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/DR2fYpSIQAc" src="https://i1.ytimg.com/vi/DR2fYpSIQAc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_zachem_v_vermonte_podkljuchajut_trubki_k_derevyam">Путешествие по американской глубинке | Зачем в Вермонте подключают трубки к деревьям?</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-29</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке Зачем в Вермонте подключают трубки к деревьям:s:60460:e:809-->
+<!----><!--2024-12-14 07:27:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_zarabotat_na_vozduhe_rasskaz_pro_nju-jorkskij_biznes_po_remontu_kondicionerov">
+    <img class="preview" data-videoid="oMQbqv2vGgE" src="https://i4.ytimg.com/vi/oMQbqv2vGgE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_zarabotat_na_vozduhe_rasskaz_pro_nju-jorkskij_biznes_po_remontu_kondicionerov">Как заработать на воздухе? Рассказ про нью-йоркский бизнес п...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-12-14</i>
+  </div>
+</div><!--n:Как заработать на воздухе Рассказ про нью-йоркский бизнес по ремонту кондиционеров:s:61447:e:719-->
+<!----><!--2024-10-27 05:10:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_nju-jorkskij_neboskreb_frenka_llojda_rajta_okazalsya_v_oklahome">
+    <img class="preview" data-videoid="60MXYInHL3k" src="https://i3.ytimg.com/vi/60MXYInHL3k/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_nju-jorkskij_neboskreb_frenka_llojda_rajta_okazalsya_v_oklahome">Как нью-йоркский небоскреб Фрэнка Ллойда Райта оказался в...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-10-27</i>
+  </div>
+</div><!--n:Как нью-йоркский небоскреб Фрэнка Ллойда Райта оказался в Оклахоме:s:62343:e:687-->
+<!----><!--2024-12-14 07:27:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_zarabotat_na_vozduhe_v_nju-jorke">
+    <img class="preview" data-videoid="oMQbqv2vGgE" src="https://i4.ytimg.com/vi/oMQbqv2vGgE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_zarabotat_na_vozduhe_v_nju-jorke">Как заработать на воздухе в Нью-Йорке?</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-12-14</i>
+  </div>
+</div><!--n:Как заработать на воздухе в Нью-Йорке:s:63177:e:585-->
+<!----><!--2025-10-29 14:26:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_dorojnye_zarisovki_iz_osennego_vermonta">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/DR2fYpSIQAc" src="https://i1.ytimg.com/vi/DR2fYpSIQAc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_dorojnye_zarisovki_iz_osennego_vermonta">Путешествие по американской глубинке | Дорожные зарисовки из осеннего Вермонта</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-29</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке Дорожные зарисовки из осеннего Вермонта:s:63854:e:778-->
+<!----><!--2025-09-10 15:29:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/pochti_idealnoe_mesto_dlya_jizni_v_amerike_bentonvill_arkanzas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/MYNl9iLtUV8" src="https://i2.ytimg.com/vi/MYNl9iLtUV8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/pochti_idealnoe_mesto_dlya_jizni_v_amerike_bentonvill_arkanzas">Почти идеальное место для жизни в Америке — Бентонвилл, Арканзас</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-10</i>
+  </div>
+</div><!--n:Почти идеальное место для жизни в Америке Бентонвилл Арканзас:s:64800:e:721-->
+<!----><!--2025-08-10 07:37:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/redneki_jgut_rezinu_kak_otdyhaet_nastoyashchaya_rabochaya_amerika">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/NLblVBLzRkc" src="https://i3.ytimg.com/vi/NLblVBLzRkc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/redneki_jgut_rezinu_kak_otdyhaet_nastoyashchaya_rabochaya_amerika">Реднеки жгут резину! Как отдыхает настоящая рабочая Америка!</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-08-10</i>
+  </div>
+</div><!--n:Реднеки жгут резину Как отдыхает настоящая рабочая Америка:s:65659:e:719-->
+<!----><!--2024-10-13 05:04:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/takoj_ameriki_vy_eshche_ne_videli_korovy_na_fone_neboskrebov">
+    <img class="preview" data-videoid="N9GWrJvSsRA" src="https://i3.ytimg.com/vi/N9GWrJvSsRA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/takoj_ameriki_vy_eshche_ne_videli_korovy_na_fone_neboskrebov">Такой Америки вы еще не видели: коровы на фоне небоскребов</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-10-13</i>
+  </div>
+</div><!--n:Такой Америки вы еще не видели коровы на фоне небоскребов:s:66511:e:670-->
+<!----><!--2025-02-09 09:05:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_jivet_glavnyj_chajnataun_bruklina_sanset-park">
+    <img class="preview" data-videoid="KwQbmF5CsAQ" src="https://i4.ytimg.com/vi/KwQbmF5CsAQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_jivet_glavnyj_chajnataun_bruklina_sanset-park">Как живет главный чайнатаун Бруклина Сансет-Парк</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-02-09</i>
+  </div>
+</div><!--n:Как живет главный чайнатаун Бруклина Сансет-Парк:s:67310:e:632-->
+<!----><!--2025-07-06 06:42:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_iz_tehasa_v_oklahomu_cherez_malenkie_gorodki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/PGNMLY4glR0" src="https://i1.ytimg.com/vi/PGNMLY4glR0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_iz_tehasa_v_oklahomu_cherez_malenkie_gorodki">Путешествие по американской глубинке: из Техаса в Оклахому через маленькие городки</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-07-06</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке из Техаса в Оклахому через маленькие городки:s:68056:e:795-->
+<!----><!--2024-07-28 04:02:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_jivut_indejcy_kuapo_v_oklahome_puteshestvie_po_66-j_doroge">
+    <img class="preview" data-videoid="59DZMt3XLkI" src="https://i2.ytimg.com/vi/59DZMt3XLkI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_jivut_indejcy_kuapo_v_oklahome_puteshestvie_po_66-j_doroge">Как живут индейцы Куапо в Оклахоме. Путешествие по 66-й...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-07-28</i>
+  </div>
+</div><!--n:Как живут индейцы Куапо в Оклахоме Путешествие по 66-й дороге:s:69027:e:669-->
+<!----><!--2026-02-12 06:32:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_pervyj_rejs_posle_remonta_dvigatelya_volvo_fh_automobile_dalnoboj">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/--0tEFndGEM" src="https://i2.ytimg.com/vi/--0tEFndGEM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_pervyj_rejs_posle_remonta_dvigatelya_volvo_fh_automobile_dalnoboj">Дальнобой по России 🇷🇺 Первый рейс после ремонта двигателя VOLVO FH #automobile #дальнобой </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2026-02-12</i>
+  </div>
+</div><!--n:Дальнобой по России Первый рейс после ремонта двигателя VOLVO FH automobile дальнобой:s:69830:e:793-->
+<!----><!--2024-11-24 06:09:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/flatbush_bruklin_-_pochemu_tut_tak_ujutno_i_krasivo_neturisticheskij_nju-jork">
+    <img class="preview" data-videoid="ThkQALGT7tI" src="https://i1.ytimg.com/vi/ThkQALGT7tI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/flatbush_bruklin_-_pochemu_tut_tak_ujutno_i_krasivo_neturisticheskij_nju-jork">Флатбуш, Бруклин - почему тут так уютно и красиво? |...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-11-24</i>
+  </div>
+</div><!--n:Флатбуш Бруклин - почему тут так уютно и красиво Нетуристический Нью-Йорк:s:70789:e:692-->
+<!----><!--2024-10-05 06:44:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_jivut_nastoyashchie_koroli_talsy_gorod_kotoryj_menya_udivil">
+    <img class="preview" data-videoid="evQqMyyUfdw" src="https://i2.ytimg.com/vi/evQqMyyUfdw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_jivut_nastoyashchie_koroli_talsy_gorod_kotoryj_menya_udivil">Как живут настоящие короли Талсы | город, который меня удиви...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-10-05</i>
+  </div>
+</div><!--n:Как живут настоящие короли Талсы город который меня удивил:s:71639:e:682-->
+<!----><!--2022-11-01 03:55:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/severnye_kurily_-_poslednyaya_nadejda_rossii">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/mnJbe611MiA" src="https://i2.ytimg.com/vi/mnJbe611MiA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/severnye_kurily_-_poslednyaya_nadejda_rossii">Северные Курилы - последняя надежда России?</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2022-11-01</i>
+  </div>
+</div><!--n:Северные Курилы - последняя надежда России:s:72453:e:654-->
+<!----><!--2024-05-05 07:00:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/7_mesyacev_jil_na_kraju_sveta_patagoniya">
+    <img class="preview" data-videoid="az_f9cTe3ts" src="https://i2.ytimg.com/vi/az_f9cTe3ts/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/7_mesyacev_jil_na_kraju_sveta_patagoniya">7 месяцев жил на краю света. Патагония</a><br>
+    <i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i><br>
+    <i class="smaller3">2024-05-05</i>
+  </div>
+</div><!--n:7 месяцев жил на краю света Патагония:s:73209:e:601-->
+<!----><!--2025-09-26 08:44:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/konec_nju-jorka_est_li_jizn_na_kraju_bronksa_neturisticheskij_nju-jork">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/1CZ8Chjfi_0" src="https://i2.ytimg.com/vi/1CZ8Chjfi_0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/konec_nju-jorka_est_li_jizn_na_kraju_bronksa_neturisticheskij_nju-jork">Конец Нью-Йорка — есть ли жизнь на краю Бронкса? | Нетуристический Нью-Йорк.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-26</i>
+  </div>
+</div><!--n:Конец Нью-Йорка есть ли жизнь на краю Бронкса Нетуристический Нью-Йорк:s:73901:e:755-->
+<!----><!--2025-01-03 06:41:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/volshebnoe_rojdestvo_v_nju-jorke_i_bezumnyj_novyj_god_na_tajms-skver">
+    <img class="preview" data-videoid="zzMule3oIKw" src="https://i3.ytimg.com/vi/zzMule3oIKw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/volshebnoe_rojdestvo_v_nju-jorke_i_bezumnyj_novyj_god_na_tajms-skver">Волшебное рождество в Нью-Йорке и безумный Новый год на...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-01-03</i>
+  </div>
+</div><!--n:Волшебное рождество в Нью-Йорке и безумный Новый год на Таймс-сквер:s:74809:e:684-->
+<!----><!--2024-08-25 05:31:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/takogo_majami_vy_eshche_ne_videli_puteshestvie_po_66-j_doroge">
+    <img class="preview" data-videoid="rD9gY_KlUcI" src="https://i3.ytimg.com/vi/rD9gY_KlUcI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/takogo_majami_vy_eshche_ne_videli_puteshestvie_po_66-j_doroge">Такого Майами вы еще не видели: путешествие по 66-й дороге</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-08-25</i>
+  </div>
+</div><!--n:Такого Майами вы еще не видели путешествие по 66-й дороге:s:75640:e:669-->
+<!----><!--2024-04-23 09:00:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/pereezd_iz_nju-djersi_v_arkanzas_poiski_novogo_doma">
+    <img class="preview" data-videoid="uGrPeM-EonU" src="https://i2.ytimg.com/vi/uGrPeM-EonU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/pereezd_iz_nju-djersi_v_arkanzas_poiski_novogo_doma">Переезд из Нью-Джерси в Арканзас: поиски нового дома</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-04-23</i>
+  </div>
+</div><!--n:Переезд из Нью-Джерси в Арканзас поиски нового дома:s:76435:e:641-->
+<!----><!--2025-06-29 07:40:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/nevynosimaya_jara_v_nju-jorke_kak_ona_vliyaet_na_jizn_goroda">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/sqGoM0REPKk" src="https://i4.ytimg.com/vi/sqGoM0REPKk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/nevynosimaya_jara_v_nju-jorke_kak_ona_vliyaet_na_jizn_goroda">Невыносимая жара в Нью-Йорке: как она влияет на жизнь города</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-06-29</i>
+  </div>
+</div><!--n:Невыносимая жара в Нью-Йорке как она влияет на жизнь города:s:77194:e:707-->
+<!----><!--2025-09-02 17:35:30-->Подборка видео про путешествия по *России*, *Америке* и всему миру.<!--n:about:s:78033:e:152-->
+<!----><!--2025-01-11 05:18:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/iz_nju-djersi_v_nju-jork_za_1_5_chasa_s_kuchej_podrobnostej">
+    <img class="preview" data-videoid="6YqsjbCpmcs" src="https://i3.ytimg.com/vi/6YqsjbCpmcs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/iz_nju-djersi_v_nju-jork_za_1_5_chasa_s_kuchej_podrobnostej">Из Нью-Джерси в Нью-Йорк за 1,5 часа с кучей подробностей!</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-01-11</i>
+  </div>
+</div><!--n:Из Нью-Джерси в Нью-Йорк за 1 5 часа с кучей подробностей:s:78214:e:663-->
+<!----><!--2026-02-08 07:51:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_etot_milyj_gorodok_stal_samym_strashnym_v_amerike_ya_posetil_realnyj_derri_iz_knig_stivena_kinga">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/-HYpOVX-fnw" src="https://i2.ytimg.com/vi/-HYpOVX-fnw/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_etot_milyj_gorodok_stal_samym_strashnym_v_amerike_ya_posetil_realnyj_derri_iz_knig_stivena_kinga">Как этот милый городок стал самым страшным в Америке. Я посетил реальный Дерри из книг Стивена Кинга</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Как этот милый городок стал самым страшным в Америке Я посетил реальный Дерри из книг Стивена Кинга:s:79001:e:861-->
+<!----><!--2024-09-27 13:40:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/vichita-folls_tehas_eto_tochno_ne_mesto_sily">
+    <img class="preview" data-videoid="--ZqRORl2Y4" src="https://i2.ytimg.com/vi/--ZqRORl2Y4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/vichita-folls_tehas_eto_tochno_ne_mesto_sily">Вичита-Фоллс, Техас: это точно не место силы</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-09-27</i>
+  </div>
+</div><!--n:Вичита-Фоллс Техас это точно не место силы:s:80068:e:611-->
+<!----><!--2024-06-23 07:29:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/est_li_jizn_v_talse_oklahoma_progulka_po_66-j_doroge">
+    <img class="preview" data-videoid="S88lmYx_EeQ" src="https://i4.ytimg.com/vi/S88lmYx_EeQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/est_li_jizn_v_talse_oklahoma_progulka_po_66-j_doroge">Есть ли жизнь в Талсе, Оклахома? Прогулка по 66-й дороге.</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-06-23</i>
+  </div>
+</div><!--n:Есть ли жизнь в Талсе Оклахома Прогулка по 66-й дороге:s:80780:e:647-->
+<!----><!--2025-06-15 04:15:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_doroga_posredine_nichego_iz_nju-meksiko_v_tehas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/OfDZCj78Ybs" src="https://i4.ytimg.com/vi/OfDZCj78Ybs/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_doroga_posredine_nichego_iz_nju-meksiko_v_tehas">Путешествие по американской глубинке: дорога посредине ничего из Нью-Мексико в Техас</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-06-15</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке дорога посредине ничего из Нью-Мексико в Техас:s:81547:e:804-->
+<!----><!--2025-10-07 15:09:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rediska_v_magazine_dalnoboj_126_automobile_shorts">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/OgmXuqF-ns0" src="https://i4.ytimg.com/vi/OgmXuqF-ns0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rediska_v_magazine_dalnoboj_126_automobile_shorts">Дальнобой по России 🇷🇺 редиска в магазине Дальнобой 126#automobile #shorts</a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-10-07</i>
+  </div>
+</div><!--n:Дальнобой по России редиска в магазине Дальнобой 126 automobile shorts:s:82530:e:729-->
+<!----><!--2025-09-14 05:21:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_ya_ne_smog_pereehat_v_arkanzas_chto_poshlo_ne_tak">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/P3qmeD0qEfY" src="https://i1.ytimg.com/vi/P3qmeD0qEfY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_ya_ne_smog_pereehat_v_arkanzas_chto_poshlo_ne_tak">Как я не смог переехать в Арканзас | Что пошло не так?</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-14</i>
+  </div>
+</div><!--n:Как я не смог переехать в Арканзас Что пошло не так:s:83395:e:679-->
+<!----><!--2025-10-31 19:30:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rejs_novosibirsk_samara_stavropol_automobile_russia_rek_volvo_scania">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/fgAhfFS5jGk" src="https://i3.ytimg.com/vi/fgAhfFS5jGk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rejs_novosibirsk_samara_stavropol_automobile_russia_rek_volvo_scania">Дальнобой по России 🇷🇺 рейс Новосибирск Самара Ставрополь #automobile #russia #рек #volvo #scania </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-10-31</i>
+  </div>
+</div><!--n:Дальнобой по России рейс Новосибирск Самара Ставрополь automobile russia рек volvo scania:s:84190:e:800-->
+<!----><!--2021-06-20 06:16:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/nejtrino_raj_dlya_introverta_i_frilansera">
+    <img class="preview" data-videoid="fdrpTzl7pT4" src="https://i3.ytimg.com/vi/fdrpTzl7pT4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/nejtrino_raj_dlya_introverta_i_frilansera">Нейтрино. Рай для интроверта и фрилансера</a><br>
+    <i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i><br>
+    <i class="smaller3">2021-06-20</i>
+  </div>
+</div><!--n:Нейтрино Рай для интроверта и фрилансера:s:85154:e:611-->
+<!----><!--2024-11-17 05:25:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/stolica_indejskogo_plemeni_osejdj_gde_snimali_ubijc_cvetochnoj_luny">
+    <img class="preview" data-videoid="OQf0sEy29J0" src="https://i4.ytimg.com/vi/OQf0sEy29J0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/stolica_indejskogo_plemeni_osejdj_gde_snimali_ubijc_cvetochnoj_luny">Столица индейского племени Осейдж, где снимали “Убийц...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Столица индейского племени Осейдж где снимали Убийц цветочной луны:s:85864:e:681-->
+<!----><!--2025-08-10 07:37:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/samoe_amerikanskoe_avtoshou_chto_ya_videl_redneki_na_kastom_pikapah">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/NLblVBLzRkc" src="https://i3.ytimg.com/vi/NLblVBLzRkc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/samoe_amerikanskoe_avtoshou_chto_ya_videl_redneki_na_kastom_pikapah">Самое американское автошоу, что я видел. Реднеки на кастом пикапах.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-08-10</i>
+  </div>
+</div><!--n:Самое американское автошоу что я видел Реднеки на кастом пикапах:s:86693:e:734-->
+<!----><!--2025-10-19 06:00:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_za_samoj_krasivoj_osenju_iz_nju-jorka_v_vermont">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/71gMQOcemzU" src="https://i4.ytimg.com/vi/71gMQOcemzU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/puteshestvie_po_amerikanskoj_glubinke_za_samoj_krasivoj_osenju_iz_nju-jorka_v_vermont">Путешествие по американской глубинке | За самой красивой осенью из Нью-Йорка в Вермонт</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-10-19</i>
+  </div>
+</div><!--n:Путешествие по американской глубинке За самой красивой осенью из Нью-Йорка в Вермонт:s:87570:e:806-->
+<!----><!--2025-10-30 07:00:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rejs_v_novosibirsk_trassa_m5_ural_voditel_bez_opyta_automobile_russia">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/BSk6soxlrmE" src="https://i3.ytimg.com/vi/BSk6soxlrmE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_rejs_v_novosibirsk_trassa_m5_ural_voditel_bez_opyta_automobile_russia">Дальнобой по России 🇷🇺 рейс в Новосибирск трасса М5 Урал водитель без опыта #automobile #russia </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-10-30</i>
+  </div>
+</div><!--n:Дальнобой по России рейс в Новосибирск трасса М5 Урал водитель без опыта automobile russia:s:88556:e:809-->
+<!----><!--2025-01-03 06:41:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/pochemu_vstrechat_novyj_god_na_tajms-skver_ochen_plohaya_ideya">
+    <img class="preview" data-videoid="zzMule3oIKw" src="https://i3.ytimg.com/vi/zzMule3oIKw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/pochemu_vstrechat_novyj_god_na_tajms-skver_ochen_plohaya_ideya">Почему встречать Новый год на Таймс-сквер очень плохая идея</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-01-03</i>
+  </div>
+</div><!--n:Почему встречать Новый год на Таймс-сквер очень плохая идея:s:89539:e:677-->
+<!----><!--2024-10-13 05:04:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_kovboi_iz_oklahomy_prodajut_drugim_kovboyam_korov_samyj_bolshoj_v_mire_aukcion_skota">
+    <img class="preview" data-videoid="N9GWrJvSsRA" src="https://i3.ytimg.com/vi/N9GWrJvSsRA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_kovboi_iz_oklahomy_prodajut_drugim_kovboyam_korov_samyj_bolshoj_v_mire_aukcion_skota">Как ковбои из Оклахомы продают другим ковбоям коров: самый...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-10-13</i>
+  </div>
+</div><!--n:Как ковбои из Оклахомы продают другим ковбоям коров самый большой в мире аукцион скота:s:90349:e:730-->
+<!----><!--2025-06-01 04:47:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/albukerke_fanatskij_magazin_mogila_uoltera_uajta_i_varka_meta_v_pustyne_vo_vse_tyajkie">
+    <img class="preview" data-videoid="atrsubqARsc" src="https://i2.ytimg.com/vi/atrsubqARsc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/albukerke_fanatskij_magazin_mogila_uoltera_uajta_i_varka_meta_v_pustyne_vo_vse_tyajkie">Альбукерке: фанатский магазин, могила Уолтера Уайта и варка...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2025-06-01</i>
+  </div>
+</div><!--n:Альбукерке фанатский магазин могила Уолтера Уайта и варка мета в пустыне Во все тяжкие:s:91262:e:728-->
+<!----><!--2025-11-18 08:07:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_trassa_p_255_sibir_rejs_irkutsk_pyatigorsk_automobile_russia_rek">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/sOFPu6eYc4U" src="https://i4.ytimg.com/vi/sOFPu6eYc4U/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_trassa_p_255_sibir_rejs_irkutsk_pyatigorsk_automobile_russia_rek">Дальнобой по России 🇷🇺 Трасса P 255 Сибирь рейс ИРКУТСК ➡️ ПЯТИГОРСК #automobile #russia #рек </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-11-18</i>
+  </div>
+</div><!--n:Дальнобой по России Трасса P 255 Сибирь рейс ИРКУТСК ПЯТИГОРСК automobile russia рек:s:92173:e:793-->
+<!----><!--2024-09-16 06:45:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/hristianskij_disnejlend_otel_s_privideniyami_ujutnye_domiki_erika-springs_arkanzas">
+    <img class="preview" data-videoid="i0gWuFNTh_E" src="https://i2.ytimg.com/vi/i0gWuFNTh_E/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/hristianskij_disnejlend_otel_s_privideniyami_ujutnye_domiki_erika-springs_arkanzas">Христианский диснейленд, отель с привидениями, уютные домики...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-09-16</i>
+  </div>
+</div><!--n:Христианский диснейленд отель с привидениями уютные домики Эрика-Спрингс Арканзас:s:93126:e:723-->
+<!----><!--2024-08-18 05:31:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/klevyj_gorodok_pro_kotoryj_vy_nikogda_ne_slyshali_erika-springs_arkanzas">
+    <img class="preview" data-videoid="hZ6tGPQ_8B0" src="https://i1.ytimg.com/vi/hZ6tGPQ_8B0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/klevyj_gorodok_pro_kotoryj_vy_nikogda_ne_slyshali_erika-springs_arkanzas">Клевый городок про который вы никогда не слышали:...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-08-18</i>
+  </div>
+</div><!--n:Клевый городок про который вы никогда не слышали Эрика-Спрингс Арканзас:s:94026:e:681-->
+<!----><!--2026-01-18 05:51:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/chast_doma_v_ssha_chast_v_kanade_kak_jivut_gorodki_na_granice_dvuh_stran">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/aneQFCDQOcU" src="https://i2.ytimg.com/vi/aneQFCDQOcU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/chast_doma_v_ssha_chast_v_kanade_kak_jivut_gorodki_na_granice_dvuh_stran">Часть дома в США, часть в Канаде. Как живут городки на границе двух стран.</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-01-18</i>
+  </div>
+</div><!--n:Часть дома в США часть в Канаде Как живут городки на границе двух стран:s:94863:e:754-->
+<!----><!--2024-11-24 06:09:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/peshkom_cherez_ves_bruklin_chast_2_neturisticheskij_nju-jork">
+    <img class="preview" data-videoid="ThkQALGT7tI" src="https://i1.ytimg.com/vi/ThkQALGT7tI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/peshkom_cherez_ves_bruklin_chast_2_neturisticheskij_nju-jork">Пешком через весь Бруклин. Часть 2 | Нетуристический Нью-Йор...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-11-24</i>
+  </div>
+</div><!--n:Пешком через весь Бруклин Часть 2 Нетуристический Нью-Йорк:s:95770:e:675-->
+<!----><!--2024-11-17 05:25:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_jivut_indejcy_osejdj_v_oklahome_i_zachem_ubili_pochti_vseh_bizonov">
+    <img class="preview" data-videoid="OQf0sEy29J0" src="https://i4.ytimg.com/vi/OQf0sEy29J0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kak_jivut_indejcy_osejdj_v_oklahome_i_zachem_ubili_pochti_vseh_bizonov">Как живут индейцы Осейдж в Оклахоме и зачем убили почти...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Как живут индейцы Осейдж в Оклахоме и зачем убили почти всех бизонов:s:96576:e:688-->
+<!----><!--2025-11-13 19:45:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_trassa_r_255_sibir_novosibirsk_kemerovo_krasnoyarsk_irkutsk_automobile">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/SrDuaErYNb0" src="https://i4.ytimg.com/vi/SrDuaErYNb0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_trassa_r_255_sibir_novosibirsk_kemerovo_krasnoyarsk_irkutsk_automobile">Дальнобой по России 🇷🇺 Трасса Р–255 Сибирь Новосибирск Кемерово Красноярск Иркутск #automobile</a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-11-13</i>
+  </div>
+</div><!--n:Дальнобой по России Трасса Р 255 Сибирь Новосибирск Кемерово Красноярск Иркутск automobile:s:97413:e:817-->
+<!----><!--2026-01-07 06:23:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/progulka_po_rojdestvenskomu_nju-jorku">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/zLnWXXCwId8" src="https://i3.ytimg.com/vi/zLnWXXCwId8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/progulka_po_rojdestvenskomu_nju-jorku">Прогулка по рождественскому Нью-Йорку</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-01-07</i>
+  </div>
+</div><!--n:Прогулка по рождественскому Нью-Йорку:s:98410:e:622-->
+<!----><!--2025-07-20 06:44:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/obratnaya_storona_svobody_chto_nahoditsya_za_glavnym_simvolom_ameriki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/DGwOjmCOERg" src="https://i1.ytimg.com/vi/DGwOjmCOERg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/obratnaya_storona_svobody_chto_nahoditsya_za_glavnym_simvolom_ameriki">Обратная сторона свободы — что находится за главным символом Америки</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-07-20</i>
+  </div>
+</div><!--n:Обратная сторона свободы что находится за главным символом Америки:s:99126:e:744-->
+<!----><!--2025-09-02 13:30:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/takoe_mojno_uvidet_tolko_v_amerike_amishi_i_parovye_traktora">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/am_2i4OtYLk" src="https://i2.ytimg.com/vi/am_2i4OtYLk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/takoe_mojno_uvidet_tolko_v_amerike_amishi_i_parovye_traktora">Такое можно увидеть только в Америке | Амиши и паровые трактора</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-09-02</i>
+  </div>
+</div><!--n:Такое можно увидеть только в Америке Амиши и паровые трактора:s:100018:e:713-->
+<!----><!--2023-02-26 09:37:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/jizn_v_samom_jujnom_poselenii_mira">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/g1AjlqKXVAo" src="https://i4.ytimg.com/vi/g1AjlqKXVAo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/jizn_v_samom_jujnom_poselenii_mira">Жизнь в самом южном поселении мира</a></p>
+    <p><i class="smaller2">ВОЛЬНОМУ - ВОЛЯ!</i></p>
+    <i class="smaller3">2023-02-26</i>
+  </div>
+</div><!--n:Жизнь в самом южном поселении мира:s:100869:e:618-->
+<!----><!--2026-01-13 19:32:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_zamena_stakanchikov_forsunok_volvo_fh_13">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/tykpLo6l22k" src="https://i1.ytimg.com/vi/tykpLo6l22k/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_zamena_stakanchikov_forsunok_volvo_fh_13">Дальнобой по России 🇷🇺 замена стаканчиков форсунок VOLVO FH 13</a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2026-01-13</i>
+  </div>
+</div><!--n:Дальнобой по России замена стаканчиков форсунок VOLVO FH 13:s:101575:e:699-->
+<!----><!--2026-02-15 07:38:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kak_v_druguju_realnost_popal_jizn_na_kraju_shtata_men">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/7jI-pWcPON0" src="https://i4.ytimg.com/vi/7jI-pWcPON0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/kak_v_druguju_realnost_popal_jizn_na_kraju_shtata_men">Как в другую реальность попал | Жизнь на краю штата Мэн</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2026-02-15</i>
+  </div>
+</div><!--n:Как в другую реальность попал Жизнь на краю штата Мэн:s:102400:e:683-->
+<!----><!--2024-04-30 15:24:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/kladbishchenskie_istorii_metari_novyj_orlean">
+    <img class="preview" data-videoid="-BEjVZsYTqE" src="https://i2.ytimg.com/vi/-BEjVZsYTqE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/kladbishchenskie_istorii_metari_novyj_orlean">Кладбищенские истории: Метари, Новый Орлеан</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-04-30</i>
+  </div>
+</div><!--n:Кладбищенские истории Метари Новый Орлеан:s:103205:e:612-->
+<!----><!--2024-11-07 08:49:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/den_vyborov_v_nju-jorke_kogda_pobedil_tramp">
+    <img class="preview" data-videoid="hxNPb8BQMFA" src="https://i1.ytimg.com/vi/hxNPb8BQMFA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/den_vyborov_v_nju-jorke_kogda_pobedil_tramp">День выборов в Нью-Йорке, когда победил Трамп</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-11-07</i>
+  </div>
+</div><!--n:День выборов в Нью-Йорке когда победил Трамп:s:103920:e:612-->
+<!----><!--2025-12-14 05:49:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/proehalsya_po_topovym_mestam_osennego_vermonta_i_ne_uveren_chto_zahochu_eto_povtorit">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/w80fmk-Z8o8" src="https://i4.ytimg.com/vi/w80fmk-Z8o8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/proehalsya_po_topovym_mestam_osennego_vermonta_i_ne_uveren_chto_zahochu_eto_povtorit">Проехался по топовым местам осеннего Вермонта и не уверен, что захочу это повторить</a></p>
+    <p><i class="smaller2">Samsebeskazal Denis</i></p>
+    <i class="smaller3">2025-12-14</i>
+  </div>
+</div><!--n:Проехался по топовым местам осеннего Вермонта и не уверен что захочу это повторить:s:104638:e:799-->
+<!----><!--2024-08-11 08:12:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/neboskreby-fabriki_kak_evrei_iz_rossii_shili_odejdu_dlya_vsej_ameriki">
+    <img class="preview" data-videoid="1G4984w8uNc" src="https://i2.ytimg.com/vi/1G4984w8uNc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/neboskreby-fabriki_kak_evrei_iz_rossii_shili_odejdu_dlya_vsej_ameriki">Небоскребы-фабрики: как евреи из России шили одежду для...</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-08-11</i>
+  </div>
+</div><!--n:Небоскребы-фабрики как евреи из России шили одежду для всей Америки:s:105614:e:686-->
+<!----><!--2024-06-29 05:32:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/skolko_stoit_odetsya_kak_nastoyashchij_kovboj_iz_oklahomy">
+    <img class="preview" data-videoid="FgMxBFGpDsI" src="https://i3.ytimg.com/vi/FgMxBFGpDsI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?puteshestviya/skolko_stoit_odetsya_kak_nastoyashchij_kovboj_iz_oklahomy">Сколько стоит одеться, как настоящий ковбой из Оклахомы?</a><br>
+    <i class="smaller2">Samsebeskazal Denis</i><br>
+    <i class="smaller3">2024-06-29</i>
+  </div>
+</div><!--n:Сколько стоит одеться как настоящий ковбой из Оклахомы:s:106449:e:661-->
+<!----><!--2025-10-12 16:41:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_pomoshch_na_doroge_menyaem_koleso_kollegi_automobile_russia_rek">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ovPlUD7LROM" src="https://i4.ytimg.com/vi/ovPlUD7LROM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_pomoshch_na_doroge_menyaem_koleso_kollegi_automobile_russia_rek">Дальнобой по России 🇷🇺 помощь на дороге меняем колесо коллеги #automobile #russia #рек </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2025-10-12</i>
+  </div>
+</div><!--n:Дальнобой по России помощь на дороге меняем колесо коллеги automobile russia рек:s:107236:e:781-->
+<!----><!--2026-01-14 08:37:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_remont_dvigatelya_volvo_fh_d13c_bez_vsyakih_servisov_chistka_porshnej">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/A_79hjMUUg0" src="https://i2.ytimg.com/vi/A_79hjMUUg0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya/dalnoboj_po_rossii_remont_dvigatelya_volvo_fh_d13c_bez_vsyakih_servisov_chistka_porshnej">Дальнобой по России 🇷🇺 Ремонт двигателя VOLVO FH D13C Без всяких сервисов 🤷🏻‍♂️ чистка поршней </a></p>
+    <p><i class="smaller2">dalnoboy_126</i></p>
+    <i class="smaller3">2026-01-14</i>
+  </div>
+</div><!--n:Дальнобой по России Ремонт двигателя VOLVO FH D13C Без всяких сервисов чистка поршней:s:108175:e:822-->

@@ -1,0 +1,2586 @@
+<!----><!--2025-10-06 20:36:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/svidetel_windows_-_kometa_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/DjjTK5F_BZA" src="https://i1.ytimg.com/vi/DjjTK5F_BZA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/svidetel_windows_-_kometa_atlas">Свидетель Windows - КОМЕТА ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-06</i>
+  </div>
+</div><!--n:Свидетель Windows - КОМЕТА ATLAS:s:0:e:578-->
+<!----><!--2025-10-14 11:56:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/za_3i_atlas_tyanetsya_gigantskij_zelenyj_hvost_v_200_tysyach_kilometrov">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/5qUjN30ENpI" src="https://i2.ytimg.com/vi/5qUjN30ENpI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/za_3i_atlas_tyanetsya_gigantskij_zelenyj_hvost_v_200_tysyach_kilometrov">За 3i ATLAS тянется гигантский зеленый хвост в 200 тысяч километров?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:За 3i ATLAS тянется гигантский зеленый хвост в 200 тысяч километров:s:645:e:726-->
+<!----><!--2025-10-12 20:57:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/eka_zasekretilo_3i_atlas_avi_leb_predupredil_o_3i_atlas_nlo_razrushil_tkan_mlechnogo_puti_strim">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/1aoEJuev-DE" src="https://i2.ytimg.com/vi/1aoEJuev-DE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/eka_zasekretilo_3i_atlas_avi_leb_predupredil_o_3i_atlas_nlo_razrushil_tkan_mlechnogo_puti_strim">ЕКА Засекретило 3I ATLAS / Ави Леб Предупредил о 3i Atlas / НЛО Разрушил Ткань Млечного Пути? СТРИМ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-12</i>
+  </div>
+</div><!--n:ЕКА Засекретило 3I ATLAS Ави Леб Предупредил о 3i Atlas НЛО Разрушил Ткань Млечного Пути СТРИМ:s:1507:e:823-->
+<!----><!--2024-09-24 09:43:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/goroda_otkopali_a_ne_postroili_chto_skryvaet_nasha_istoriya">
+    <img class="preview" data-videoid="60X5QfWv2Ck" src="https://i3.ytimg.com/vi/60X5QfWv2Ck/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/goroda_otkopali_a_ne_postroili_chto_skryvaet_nasha_istoriya">Города откопали, а не построили? Что скрывает наша история?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Города откопали а не построили Что скрывает наша история:s:2512:e:660-->
+<!----><!--2024-11-09 18:28:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_1955_godu_samolet_vyletel_iz_nju-jorka_i_ischez_ego_ne_mogli_najti_37_let_on_vernulsya_v_92_godu">
+    <img class="preview" data-videoid="uH8KJo_zbMk" src="https://i2.ytimg.com/vi/uH8KJo_zbMk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/v_1955_godu_samolet_vyletel_iz_nju-jorka_i_ischez_ego_ne_mogli_najti_37_let_on_vernulsya_v_92_godu">В 1955 году самолет вылетел из Нью-Йорка и исчез. Его не...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:В 1955 году самолет вылетел из Нью-Йорка и исчез Его не могли найти 37 лет Он вернулся в 92 году:s:3299:e:730-->
+<!----><!--2024-11-09 18:25:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_fotografii_iz_1940_goda_vidno_cheloveka_kotoryj_derjit_v_rukah_mobilnyj_telefon">
+    <img class="preview" data-videoid="WOY9GYI-n4Q" src="https://i4.ytimg.com/vi/WOY9GYI-n4Q/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/na_fotografii_iz_1940_goda_vidno_cheloveka_kotoryj_derjit_v_rukah_mobilnyj_telefon">На фотографии из 1940 года видно человека, который держит в...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:На фотографии из 1940 года видно человека который держит в руках мобильный телефон:s:4216:e:706-->
+<!----><!--2025-10-06 11:14:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_snimkah_kitajskogo_zonda_zametili_lunnuju_bazu_nlo_na_fone_sluhov_o_sledah_nasa_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/kuiQYI29tmQ" src="https://i4.ytimg.com/vi/kuiQYI29tmQ/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_snimkah_kitajskogo_zonda_zametili_lunnuju_bazu_nlo_na_fone_sluhov_o_sledah_nasa_zapis_strima">На снимках китайского зонда заметили лунную базу НЛО на фоне слухов о следах НАСА / ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-06</i>
+  </div>
+</div><!--n:На снимках китайского зонда заметили лунную базу НЛО на фоне слухов о следах НАСА ЗАПИСЬ СТРИМА:s:5093:e:836-->
+<!----><!--2024-11-17 10:49:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zerkalnye_chisla_na_chasah_-_sovpadenie_ili_poslanie_svyshe">
+    <img class="preview" data-videoid="7FENSQKWZEk" src="https://i4.ytimg.com/vi/7FENSQKWZEk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zerkalnye_chisla_na_chasah_-_sovpadenie_ili_poslanie_svyshe">Зеркальные числа на часах - совпадение или послание свыше?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Зеркальные числа на часах - совпадение или послание свыше:s:6127:e:659-->
+<!----><!--2025-10-01 15:32:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nlo_aktivizirovalis_na_fone_priblijeniya_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/GMwDKRtYQWM" src="https://i4.ytimg.com/vi/GMwDKRtYQWM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nlo_aktivizirovalis_na_fone_priblijeniya_3i_atlas">НЛО активизировались на фоне приближения 3i ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:НЛО активизировались на фоне приближения 3i ATLAS:s:6914:e:652-->
+<!----><!--2024-11-09 18:33:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/istoriya_o_cheloveke_iz_2036_goda_potryasla_vseh">
+    <img class="preview" data-videoid="mL6CWxfA9P4" src="https://i2.ytimg.com/vi/mL6CWxfA9P4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/istoriya_o_cheloveke_iz_2036_goda_potryasla_vseh">История о человеке из 2036 года потрясла всех</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:История о человеке из 2036 года потрясла всех:s:7674:e:610-->
+<!----><!--2025-10-22 18:31:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_zastavil_nasa_vkljuchit_planetarnuju_oboronu_vpervye_v_istorii">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/cimtt-safvY" src="https://i4.ytimg.com/vi/cimtt-safvY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_zastavil_nasa_vkljuchit_planetarnuju_oboronu_vpervye_v_istorii">3I ATLAS заставил НАСА включить Планетарную оборону впервые в истории</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-22</i>
+  </div>
+</div><!--n:3I ATLAS заставил НАСА включить Планетарную оборону впервые в истории:s:8386:e:733-->
+<!----><!--2025-10-14 11:59:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/snimki_3i_atlas_s_marsianskogo_rovera_vyzyvajut_voprosy">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/N8fedSpEDjw" src="https://i3.ytimg.com/vi/N8fedSpEDjw/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/snimki_3i_atlas_s_marsianskogo_rovera_vyzyvajut_voprosy">Снимки 3i ATLAS с марсианского ровера вызывают вопросы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Снимки 3i ATLAS с марсианского ровера вызывают вопросы:s:9264:e:673-->
+<!----><!--2025-09-19 10:39:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nashli_realnogo_puteshestvennika_vo_vremeni_zapis_tvich_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/GOE2kwhhfF4" src="https://i4.ytimg.com/vi/GOE2kwhhfF4/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nashli_realnogo_puteshestvennika_vo_vremeni_zapis_tvich_strima">НАШЛИ РЕАЛЬНОГО Путешественника во Времени? // ЗАПИСЬ ТВИЧ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-19</i>
+  </div>
+</div><!--n:НАШЛИ РЕАЛЬНОГО Путешественника во Времени ЗАПИСЬ ТВИЧ СТРИМА:s:10054:e:712-->
+<!----><!--2024-11-04 19:47:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/tunnel_v_antarktide_kak_polyarniki_so_stancii_mak-merdo_okazalis_puteshestvennikami_vo_vremeni">
+    <img class="preview" data-videoid="WHqHqyq-yO8" src="https://i4.ytimg.com/vi/WHqHqyq-yO8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/tunnel_v_antarktide_kak_polyarniki_so_stancii_mak-merdo_okazalis_puteshestvennikami_vo_vremeni">Туннель в Антарктиде: Как полярники со станции Мак-Мердо...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-04</i>
+  </div>
+</div><!--n:Туннель в Антарктиде Как полярники со станции Мак-Мердо оказались путешественниками во времени:s:10905:e:729-->
+<!----><!--2024-10-22 19:29:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zagadochnyj_svet_pod_vodoj_chto_nashli_u_beregov_yaponii">
+    <img class="preview" data-videoid="kCek5zkLPF4" src="https://i4.ytimg.com/vi/kCek5zkLPF4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zagadochnyj_svet_pod_vodoj_chto_nashli_u_beregov_yaponii">Загадочный свет под водой: что нашли у берегов Японии?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Загадочный свет под водой что нашли у берегов Японии:s:11834:e:645-->
+<!----><!--2024-10-14 23:19:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vnezemnoj_signal_35_let_nlo_voroneja_obshchenie_vo_sne_otkljuchenie_voyadjera_uragany_strim">
+    <img class="preview" data-videoid="xcTw3J8tDlg" src="https://i1.ytimg.com/vi/xcTw3J8tDlg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/vnezemnoj_signal_35_let_nlo_voroneja_obshchenie_vo_sne_otkljuchenie_voyadjera_uragany_strim">Внеземной Сигнал / 35 Лет НЛО Воронежа / Общение во Сне /...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-14</i>
+  </div>
+</div><!--n:Внеземной Сигнал 35 Лет НЛО Воронежа Общение во Сне Отключение Вояджера Ураганы СТРИМ:s:12599:e:718-->
+<!----><!--2025-09-04 15:24:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/poslanie_s_komety_3i_atlas_pravda_ili_vymysel">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/UjqFD-OnQ50" src="https://i2.ytimg.com/vi/UjqFD-OnQ50/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/poslanie_s_komety_3i_atlas_pravda_ili_vymysel">ПОСЛАНИЕ С КОМЕТЫ 3I ATLAS — правда или вымысел?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:ПОСЛАНИЕ С КОМЕТЫ 3I ATLAS правда или вымысел:s:13497:e:640-->
+<!----><!--2025-01-26 20:00:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/6_most_disturbing_abandoned_building_encounters_ever_caught_on_camera">
+    <img class="preview" data-videoid="kYGLsrpKnN0" src="https://i4.ytimg.com/vi/kYGLsrpKnN0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/6_most_disturbing_abandoned_building_encounters_ever_caught_on_camera">6 Most DISTURBING Abandoned Building Encounters Ever Caught...</a><br>
+    <i class="smaller2">CreepyVids</i><br>
+    <i class="smaller3">2025-01-26</i>
+  </div>
+</div><!--n:6 Most DISTURBING Abandoned Building Encounters Ever Caught On Camera:s:14237:e:619-->
+<!----><!--2025-10-22 18:32:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nasa_perevelo_planetarnuju_oboronu_v_aktivnyj_rejim_iz-za_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/42YFoEoysfQ" src="https://i1.ytimg.com/vi/42YFoEoysfQ/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nasa_perevelo_planetarnuju_oboronu_v_aktivnyj_rejim_iz-za_3i_atlas">НАСА перевело Планетарную оборону в активный режим из-за 3I ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-22</i>
+  </div>
+</div><!--n:НАСА перевело Планетарную оборону в активный режим из-за 3I ATLAS:s:14949:e:714-->
+<!----><!--2024-07-28 17:13:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kto_raschertil_tajgu_v_kletku">
+    <img class="preview" data-videoid="OkdbsKO5Deg" src="https://i4.ytimg.com/vi/OkdbsKO5Deg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/kto_raschertil_tajgu_v_kletku">Кто расчертил тайгу в клетку</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-28</i>
+  </div>
+</div><!--n:Кто расчертил тайгу в клетку:s:15800:e:546-->
+<!----><!--2024-10-31 17:27:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vstrecha_lesnika_s_gostem_iz_budushchego_v_podmoskovnom_lesu_v_1987_nachalo_legendy_katuarskoj_zony">
+    <img class="preview" data-videoid="eZDE9NNw9Wc" src="https://i2.ytimg.com/vi/eZDE9NNw9Wc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/vstrecha_lesnika_s_gostem_iz_budushchego_v_podmoskovnom_lesu_v_1987_nachalo_legendy_katuarskoj_zony">Встреча лесника с гостем из будущего в подмосковном лесу в...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-31</i>
+  </div>
+</div><!--n:Встреча лесника с гостем из будущего в подмосковном лесу в 1987 начало легенды Катуарской зоны:s:16422:e:743-->
+<!----><!--2025-10-01 10:09:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/uchenye_v_shoke_chetyre_teleskopa_podtverdili_strannosti_3i_atlas_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/mhTpBrFtPeo" src="https://i2.ytimg.com/vi/mhTpBrFtPeo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/uchenye_v_shoke_chetyre_teleskopa_podtverdili_strannosti_3i_atlas_zapis_strima">УЧЁНЫЕ В ШОКЕ: Четыре Телескопа Подтвердили Странности 3I ATLAS ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:УЧЁНЫЕ В ШОКЕ Четыре Телескопа Подтвердили Странности 3I ATLAS ЗАПИСЬ СТРИМА:s:17359:e:761-->
+<!----><!--2025-09-04 15:27:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_imeet_anomalnyj_izbytok_nikelya_i_strannuju_stabilnost">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/7x1yTr35BAY" src="https://i4.ytimg.com/vi/7x1yTr35BAY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_imeet_anomalnyj_izbytok_nikelya_i_strannuju_stabilnost">3i ATLAS ИМЕЕТ АНОМАЛЬНЫЙ ИЗБЫТОК никеля и странную стабильность</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:3i ATLAS ИМЕЕТ АНОМАЛЬНЫЙ ИЗБЫТОК никеля и странную стабильность:s:18279:e:708-->
+<!----><!--2025-10-14 12:08:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_mojet_okazatsya_iskusstvennym_obektom">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/g2DM4jDD5L0" src="https://i4.ytimg.com/vi/g2DM4jDD5L0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_mojet_okazatsya_iskusstvennym_obektom">3i Atlas может оказаться искусственным объектом</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:3i Atlas может оказаться искусственным объектом:s:19124:e:643-->
+<!----><!--2024-11-17 10:56:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/puteshestvennik_vo_vremeni_najden_dnevnik_cheloveka_iz_23_veka">
+    <img class="preview" data-videoid="6iEz886CqjU" src="https://i3.ytimg.com/vi/6iEz886CqjU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/puteshestvennik_vo_vremeni_najden_dnevnik_cheloveka_iz_23_veka">Путешественник во времени? Найден дневник человека из 23 век...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Путешественник во времени Найден дневник человека из 23 века:s:19873:e:671-->
+<!----><!--2024-10-22 19:28:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/uchenye_zametili_chto_vremya_dvijetsya_vspyat_puteshestviya_vo_vremeni_uje_realny">
+    <img class="preview" data-videoid="5B_DNNDqyCY" src="https://i2.ytimg.com/vi/5B_DNNDqyCY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/uchenye_zametili_chto_vremya_dvijetsya_vspyat_puteshestviya_vo_vremeni_uje_realny">Ученые заметили, что время движется вспять! Путешествия во...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Ученые заметили что время движется вспять Путешествия во времени уже реальны:s:20678:e:707-->
+<!----><!--2024-07-25 16:00:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/to_chto_ne_pokajut_po_tv_o_kitae">
+    <img class="preview" data-videoid="XDB5UOyPWJU" src="https://i1.ytimg.com/vi/XDB5UOyPWJU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/to_chto_ne_pokajut_po_tv_o_kitae">То что не покажут по ТВ о Китае</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-25</i>
+  </div>
+</div><!--n:То что не покажут по ТВ о Китае:s:21551:e:555-->
+<!----><!--2025-08-19 16:54:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/itan_guo_vyhodil_v_pryamoj_efir_iz_antarktidy">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/AGRb6w1xtSc" src="https://i2.ytimg.com/vi/AGRb6w1xtSc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/itan_guo_vyhodil_v_pryamoj_efir_iz_antarktidy">ИТАН ГУО ВЫХОДИЛ В ПРЯМОЙ ЭФИР ИЗ АНТАРКТИДЫ?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-19</i>
+  </div>
+</div><!--n:ИТАН ГУО ВЫХОДИЛ В ПРЯМОЙ ЭФИР ИЗ АНТАРКТИДЫ:s:22185:e:641-->
+<!----><!--2025-09-06 22:00:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/antarktida_avstraliya_dinozavry_nlo_3i_atlas_i_sfery_buga_-_6_let_v_efire_s_dnem_rojdeniya_strim">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/N0_SECUQyHE" src="https://i3.ytimg.com/vi/N0_SECUQyHE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/antarktida_avstraliya_dinozavry_nlo_3i_atlas_i_sfery_buga_-_6_let_v_efire_s_dnem_rojdeniya_strim">Антарктида, Австралия, Динозавры, НЛО, 3i ATLAS и Сферы Буга - 6 ЛЕТ В ЭФИРЕ! С ДНЕМ РОЖДЕНИЯ! СТРИМ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-06</i>
+  </div>
+</div><!--n:Антарктида Австралия Динозавры НЛО 3i ATLAS и Сферы Буга - 6 ЛЕТ В ЭФИРЕ С ДНЕМ РОЖДЕНИЯ СТРИМ:s:22931:e:829-->
+<!----><!--2025-10-28 18:01:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/poprobuem_podobratsya_k_3i_atlas_poblije">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ewHfnX0yeyE" src="https://i2.ytimg.com/vi/ewHfnX0yeyE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/poprobuem_podobratsya_k_3i_atlas_poblije">ПОПРОБУЕМ ПОДОБРАТЬСЯ К 3i ATLAS ПОБЛИЖЕ?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-28</i>
+  </div>
+</div><!--n:ПОПРОБУЕМ ПОДОБРАТЬСЯ К 3i ATLAS ПОБЛИЖЕ:s:23946:e:618-->
+<!----><!--2025-10-01 15:34:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nlo_3i_atlas_vedet_sebya_slovno_nastoyashchaya_raketa">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/djkRdJNwBHo" src="https://i1.ytimg.com/vi/djkRdJNwBHo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nlo_3i_atlas_vedet_sebya_slovno_nastoyashchaya_raketa">НЛО 3i ATLAS ведёт себя словно настоящая ракета</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:НЛО 3i ATLAS ведёт себя словно настоящая ракета:s:24656:e:655-->
+<!----><!--2025-03-16 16:27:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/rasslabtes_moi_dorogie_druzya">
+    <img class="preview" data-videoid="YSybVd5NNh0" src="https://i2.ytimg.com/vi/YSybVd5NNh0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/rasslabtes_moi_dorogie_druzya">Расслабьтесь мои дорогие друзья</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2025-03-16</i>
+  </div>
+</div><!--n:Расслабьтесь мои дорогие друзья:s:25415:e:553-->
+<!----><!--2024-11-17 10:50:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/1111_na_chasah_znak_angelov_ili_sboj_v_realnosti">
+    <img class="preview" data-videoid="gLW6lO36WbU" src="https://i4.ytimg.com/vi/gLW6lO36WbU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/1111_na_chasah_znak_angelov_ili_sboj_v_realnosti">11:11 на часах — знак ангелов или сбой в реальности?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:1111 на часах знак ангелов или сбой в реальности:s:26051:e:621-->
+<!----><!--2024-08-06 16:28:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ekzoskelet_zemli">
+    <img class="preview" data-videoid="QwbjBznnv9w" src="https://i2.ytimg.com/vi/QwbjBznnv9w/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/ekzoskelet_zemli">Экзоскелет Земли</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-08-06</i>
+  </div>
+</div><!--n:Экзоскелет Земли:s:26780:e:499-->
+<!----><!--2024-08-07 16:11:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kamennye_jivye_cvety_kamni_kotorye_rastut_i_dvijushchiesya_kamni">
+    <img class="preview" data-videoid="dzn2Q5OQOeg" src="https://i1.ytimg.com/vi/dzn2Q5OQOeg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/kamennye_jivye_cvety_kamni_kotorye_rastut_i_dvijushchiesya_kamni">Каменные живые цветы  Камни которые растут и Движущиеся камн...</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-08-07</i>
+  </div>
+</div><!--n:Каменные живые цветы Камни которые растут и Движущиеся камни:s:27334:e:678-->
+<!----><!--2025-10-28 07:09:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_poluchil_tri_solnechnyh_udara_za_sutki_i_yakoby_zamedlilsya_na_300_procentov_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/mzIa1xDGNuE" src="https://i2.ytimg.com/vi/mzIa1xDGNuE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_poluchil_tri_solnechnyh_udara_za_sutki_i_yakoby_zamedlilsya_na_300_procentov_zapis_strima">3I ATLAS получил три солнечных удара за сутки и якобы замедлился на 300 процентов   ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-28</i>
+  </div>
+</div><!--n:3I ATLAS получил три солнечных удара за сутки и якобы замедлился на 300 процентов ЗАПИСЬ СТРИМА:s:28148:e:832-->
+<!----><!--2024-09-24 09:48:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vtoraya_luna_ili_korabl_prishelcev_chto_skryvaet_novyj_sputnik_zemli">
+    <img class="preview" data-videoid="1VaGBvR778U" src="https://i2.ytimg.com/vi/1VaGBvR778U/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/vtoraya_luna_ili_korabl_prishelcev_chto_skryvaet_novyj_sputnik_zemli">Вторая Луна или корабль пришельцев? Что скрывает новый...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Вторая Луна или корабль пришельцев Что скрывает новый спутник Земли:s:29169:e:674-->
+<!----><!--2024-11-05 22:08:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nechelovecheskie_vidy_piramidy_majya_strannosti_voyadjera-1_gumanoidy_nakormili_shokoladom_strim">
+    <img class="preview" data-videoid="2lI4XP28bJw" src="https://i3.ytimg.com/vi/2lI4XP28bJw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/nechelovecheskie_vidy_piramidy_majya_strannosti_voyadjera-1_gumanoidy_nakormili_shokoladom_strim">"Нечеловеческие Виды" / Пирамиды Майя / Странности ...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-05</i>
+  </div>
+</div><!--n:Нечеловеческие Виды Пирамиды Майя Странности Вояджера-1 Гуманоиды Накормили Шоколадом СТРИМ:s:29992:e:721-->
+<!----><!--2025-10-05 21:37:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_zasnyali_s_marsa_gigantskoe_nlo_na_orbite_zemli_v_arhivah_vsplylo_video_rozuella_strim">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/iWpxpt57FPo" src="https://i2.ytimg.com/vi/iWpxpt57FPo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_zasnyali_s_marsa_gigantskoe_nlo_na_orbite_zemli_v_arhivah_vsplylo_video_rozuella_strim">3I ATLAS Засняли с Марса / Гигантское НЛО на Орбите Земли / В Архивах Всплыло Видео Розуэлла СТРИМ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-05</i>
+  </div>
+</div><!--n:3I ATLAS Засняли с Марса Гигантское НЛО на Орбите Земли В Архивах Всплыло Видео Розуэлла СТРИМ:s:30908:e:829-->
+<!----><!--2024-07-23 15:43:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_lune_obnarujen_vhod_v_podlunnuju_poverhnost">
+    <img class="preview" data-videoid="xtJEq9AiqCM" src="https://i1.ytimg.com/vi/xtJEq9AiqCM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/na_lune_obnarujen_vhod_v_podlunnuju_poverhnost">На Луне обнаружен вход в подлунную поверхность</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-23</i>
+  </div>
+</div><!--n:На Луне обнаружен вход в подлунную поверхность:s:31927:e:614-->
+<!----><!--2025-09-25 10:29:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/simpsony_predskazali_nlo_3i_atlas_i_vysadku_prishelcev_na_zemlju">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/8QJ6ytO_yCs" src="https://i1.ytimg.com/vi/8QJ6ytO_yCs/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/simpsony_predskazali_nlo_3i_atlas_i_vysadku_prishelcev_na_zemlju">СИМПСОНЫ ПРЕДСКАЗАЛИ НЛО 3i ATLAS и высадку пришельцев на Землю?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-25</i>
+  </div>
+</div><!--n:СИМПСОНЫ ПРЕДСКАЗАЛИ НЛО 3i ATLAS и высадку пришельцев на Землю:s:32651:e:708-->
+<!----><!--2024-07-18 17:35:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/krepost_zvezda_v_sankt_peterburge">
+    <img class="preview" data-videoid="-WGeiy6Kygo" src="https://i2.ytimg.com/vi/-WGeiy6Kygo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/krepost_zvezda_v_sankt_peterburge">Крепость звезда в Санкт Петербурге</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-18</i>
+  </div>
+</div><!--n:Крепость звезда в Санкт Петербурге:s:33493:e:566-->
+<!----><!--2024-12-24 20:00:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/6_most_disturbing_camping_encounters_ever_caught_on_camera_giveaway">
+    <img class="preview" data-videoid="NCK4AHHCPLY" src="https://i3.ytimg.com/vi/NCK4AHHCPLY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/6_most_disturbing_camping_encounters_ever_caught_on_camera_giveaway">6 Most DISTURBING Camping Encounters Ever Caught On Camera...</a><br>
+    <i class="smaller2">CreepyVids</i><br>
+    <i class="smaller3">2024-12-24</i>
+  </div>
+</div><!--n:6 Most DISTURBING Camping Encounters Ever Caught On Camera Giveaway:s:34147:e:614-->
+<!----><!--2024-09-19 15:11:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pravda_o_kollajdere_i_izmenenii_vremeni_mir_nikogda_ne_budet_prejnim">
+    <img class="preview" data-videoid="feImYxpkl1I" src="https://i3.ytimg.com/vi/feImYxpkl1I/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/pravda_o_kollajdere_i_izmenenii_vremeni_mir_nikogda_ne_budet_prejnim">Правда о коллайдере и изменении времени: мир никогда не буде...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-19</i>
+  </div>
+</div><!--n:Правда о коллайдере и изменении времени мир никогда не будет прежним:s:34852:e:684-->
+<!----><!--2025-10-14 11:52:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/obekt_3i_atlas_vedet_sebya_neobychno">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/hP-wvqmtC5s" src="https://i1.ytimg.com/vi/hP-wvqmtC5s/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/obekt_3i_atlas_vedet_sebya_neobychno">Объект 3i ATLAS ведёт себя НЕОБЫЧНО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Объект 3i ATLAS ведёт себя НЕОБЫЧНО:s:35686:e:599-->
+<!----><!--2024-09-24 09:42:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sfinks_i_potop_chto_skryvajut_sledy_vodnoj_erozii_na_drevnem_pamyatnike">
+    <img class="preview" data-videoid="0GsRHlCVYdo" src="https://i1.ytimg.com/vi/0GsRHlCVYdo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sfinks_i_potop_chto_skryvajut_sledy_vodnoj_erozii_na_drevnem_pamyatnike">Сфинкс и потоп? Что скрывают следы водной эрозии на древнем...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Сфинкс и потоп Что скрывают следы водной эрозии на древнем памятнике:s:36367:e:688-->
+<!----><!--2025-08-12 16:30:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/oni_operejajut_nashu_tehnologiju_ne_na_desyatki_a_na_sotni_let">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/T2RkMJ7a3fg" src="https://i1.ytimg.com/vi/T2RkMJ7a3fg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/oni_operejajut_nashu_tehnologiju_ne_na_desyatki_a_na_sotni_let">«ОНИ ОПЕРЕЖАЮТ НАШУ ТЕХНОЛОГИЮ не на десятки, а на сотни лет»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-12</i>
+  </div>
+</div><!--n:ОНИ ОПЕРЕЖАЮТ НАШУ ТЕХНОЛОГИЮ не на десятки а на сотни лет:s:37205:e:704-->
+<!----><!--2025-10-29 18:57:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/eto_pro_3i_atlas_vam_ne_rasskajut">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/H78ppDroqBs" src="https://i1.ytimg.com/vi/H78ppDroqBs/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/eto_pro_3i_atlas_vam_ne_rasskajut">ЭТО ПРО 3i ATLAS ВАМ НЕ РАССКАЖУТ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-29</i>
+  </div>
+</div><!--n:ЭТО ПРО 3i ATLAS ВАМ НЕ РАССКАЖУТ:s:38039:e:588-->
+<!----><!--2024-10-28 16:54:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/legenda_ob_ischeznovenii_sovetskih_uchenyh_na_zakrytoj_polyarnoj_stancii_v_nachale_1950-h">
+    <img class="preview" data-videoid="uIowmFSR8Bg" src="https://i2.ytimg.com/vi/uIowmFSR8Bg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/legenda_ob_ischeznovenii_sovetskih_uchenyh_na_zakrytoj_polyarnoj_stancii_v_nachale_1950-h">Легенда об исчезновении советских ученых на закрытой полярно...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-28</i>
+  </div>
+</div><!--n:Легенда об исчезновении советских ученых на закрытой полярной станции в начале 1950-х:s:38704:e:729-->
+<!----><!--2024-12-01 22:14:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sekretnyj_gorod_vo_ldu_grenlandii_hroniki_marsa_cru_vtoraya_luna_puteshestviya_vo_vremeni_strim">
+    <img class="preview" data-videoid="2totZyZGAEM" src="https://i3.ytimg.com/vi/2totZyZGAEM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sekretnyj_gorod_vo_ldu_grenlandii_hroniki_marsa_cru_vtoraya_luna_puteshestviya_vo_vremeni_strim">Секретный Город во Льду Гренландии /Хроники Марса ЦРУ /...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-12-01</i>
+  </div>
+</div><!--n:Секретный Город во Льду Гренландии Хроники Марса ЦРУ Вторая Луна Путешествия во Времени СТРИМ:s:39611:e:728-->
+<!----><!--2024-09-24 09:40:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zagadka_drevnej_kladki_inkov_kak_oni_stroili_bez_rastvora">
+    <img class="preview" data-videoid="vjpGVZSpUbc" src="https://i3.ytimg.com/vi/vjpGVZSpUbc/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zagadka_drevnej_kladki_inkov_kak_oni_stroili_bez_rastvora">Загадка древней кладки инков: как они строили без раствора?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Загадка древней кладки инков как они строили без раствора:s:40536:e:657-->
+<!----><!--2025-09-21 21:19:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/skorostnoj_nlo_strannye_foto_habbla_3i_atlas_roboty_uchatsya_rasti_privychki_nikoly_tesly_strim">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/4wpWbV_Y41o" src="https://i1.ytimg.com/vi/4wpWbV_Y41o/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/skorostnoj_nlo_strannye_foto_habbla_3i_atlas_roboty_uchatsya_rasti_privychki_nikoly_tesly_strim">Скоростной НЛО / Странные Фото Хаббла / 3i ATLAS / Роботы Учатся Расти / Привычки Николы Теслы СТРИМ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-21</i>
+  </div>
+</div><!--n:Скоростной НЛО Странные Фото Хаббла 3i ATLAS Роботы Учатся Расти Привычки Николы Теслы СТРИМ:s:41323:e:831-->
+<!----><!--2025-10-22 18:30:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_stal_prichinoj_aktivacii_sistemy_planetarnoj_oborony_nasa">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/XhJDfM7MSGM" src="https://i1.ytimg.com/vi/XhJDfM7MSGM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_stal_prichinoj_aktivacii_sistemy_planetarnoj_oborony_nasa">3I ATLAS стал причиной активации системы планетарной обороны НАСА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-22</i>
+  </div>
+</div><!--n:3I ATLAS стал причиной активации системы планетарной обороны НАСА:s:42342:e:716-->
+<!----><!--2025-10-14 12:08:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/snimki_3i_atlas_s_marsa_prodoljajut_vyzyvat_voprosy">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/vImdJvf8XLc" src="https://i3.ytimg.com/vi/vImdJvf8XLc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/snimki_3i_atlas_s_marsa_prodoljajut_vyzyvat_voprosy">Снимки 3i Atlas с Марса продолжают вызывать вопросы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Снимки 3i Atlas с Марса продолжают вызывать вопросы:s:43197:e:659-->
+<!----><!--2025-10-14 11:55:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_kajdye_4_chasa_menyaet_svoju_traektoriju">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/JP6OB3kUcFs" src="https://i3.ytimg.com/vi/JP6OB3kUcFs/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_kajdye_4_chasa_menyaet_svoju_traektoriju">3i ATLAS каждые 4 часа меняет свою траекторию?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:3i ATLAS каждые 4 часа меняет свою траекторию:s:43968:e:643-->
+<!----><!--2025-08-12 17:08:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ya_ego_ne_zvala_on_sam_prishel_vstrecha_s_prishelcem_na_sovetskoj_dache_v_karelii_v_1983_godu">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/a8m0b_uqT-A" src="https://i2.ytimg.com/vi/a8m0b_uqT-A/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ya_ego_ne_zvala_on_sam_prishel_vstrecha_s_prishelcem_na_sovetskoj_dache_v_karelii_v_1983_godu">«Я его не звала, ОН САМ ПРИШЕЛ»: Встреча с пришельцем на советской даче в Карелии в 1983 году</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-12</i>
+  </div>
+</div><!--n:Я его не звала ОН САМ ПРИШЕЛ Встреча с пришельцем на советской даче в Карелии в 1983 году:s:44710:e:818-->
+<!----><!--2024-10-22 19:37:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nechto_pugajushchee_sushchestvo_sledilo_za_nej_pryamo_v_dome">
+    <img class="preview" data-videoid="5x6WAG5jKKk" src="https://i2.ytimg.com/vi/5x6WAG5jKKk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/nechto_pugajushchee_sushchestvo_sledilo_za_nej_pryamo_v_dome">Нечто пугающее! Существо следило за ней прямо в доме!</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Нечто пугающее Существо следило за ней прямо в доме:s:45709:e:651-->
+<!----><!--2025-10-01 15:31:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/k_zemle_priblijaetsya_gigantskoe_nlo_v_100_raz_bolshe_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/-ieOLBD0xcc" src="https://i2.ytimg.com/vi/-ieOLBD0xcc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/k_zemle_priblijaetsya_gigantskoe_nlo_v_100_raz_bolshe_3i_atlas">К Земле приближается гигантское НЛО в 100 раз больше 3i ATLAS?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:К Земле приближается гигантское НЛО в 100 раз больше 3i ATLAS:s:46478:e:696-->
+<!----><!--2025-10-14 11:58:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pervye_snimki_3i_atlas_ot_eka_vyzyvajut_voprosy">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/l4V9tb7d0bM" src="https://i1.ytimg.com/vi/l4V9tb7d0bM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pervye_snimki_3i_atlas_ot_eka_vyzyvajut_voprosy">Первые снимки 3i ATLAS от ЕКА вызывают вопросы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Первые снимки 3i ATLAS от ЕКА вызывают вопросы:s:47300:e:641-->
+<!----><!--2024-11-12 16:29:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/avstraliya_eto_mif_ili_realnost">
+    <img class="preview" data-videoid="1L8b6_R0Fys" src="https://i2.ytimg.com/vi/1L8b6_R0Fys/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/avstraliya_eto_mif_ili_realnost">Австралия — это миф или реальность</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-12</i>
+  </div>
+</div><!--n:Австралия это миф или реальность:s:48043:e:561-->
+<!----><!--2025-09-04 15:26:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_zametil_voyadjer_vblizi_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/G58Er5N1x44" src="https://i4.ytimg.com/vi/G58Er5N1x44/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_zametil_voyadjer_vblizi_3i_atlas">ЧТО ЗАМЕТИЛ ВОЯДЖЕР ВБЛИЗИ 3i ATLAS?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:ЧТО ЗАМЕТИЛ ВОЯДЖЕР ВБЛИЗИ 3i ATLAS:s:48688:e:602-->
+<!----><!--2024-09-24 09:46:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/piloty_zasnyali_desyatki_nlo_chto_proizoshlo_nad_jujno-kitajskim_morem">
+    <img class="preview" data-videoid="_bLA4k03OoY" src="https://i4.ytimg.com/vi/_bLA4k03OoY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/piloty_zasnyali_desyatki_nlo_chto_proizoshlo_nad_jujno-kitajskim_morem">Пилоты засняли десятки НЛО! Что произошло над...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Пилоты засняли десятки НЛО Что произошло над Южно-Китайским морем:s:49372:e:661-->
+<!----><!--2025-10-01 10:34:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/bolee_500_napadenij_kosatki_atakujut_suda_i_yahty_vse_chashche_i_agressivnee_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gCd3e_64oIo" src="https://i4.ytimg.com/vi/gCd3e_64oIo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/bolee_500_napadenij_kosatki_atakujut_suda_i_yahty_vse_chashche_i_agressivnee_zapis_strima">БОЛЕЕ 500 НАПАДЕНИЙ: КОСАТКИ АТАКУЮТ СУДА И ЯХТЫ всё чаще и агрессивнее ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:БОЛЕЕ 500 НАПАДЕНИЙ КОСАТКИ АТАКУЮТ СУДА И ЯХТЫ всё чаще и агрессивнее ЗАПИСЬ СТРИМА:s:50178:e:800-->
+<!----><!--2025-08-07 07:45:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_skryto_za_gigantskim_nlo_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/tBYY-ASkxjI" src="https://i1.ytimg.com/vi/tBYY-ASkxjI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_skryto_za_gigantskim_nlo_3i_atlas">ЧТО СКРЫТО ЗА ГИГАНТСКИМ НЛО 3I ATLAS ?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ЧТО СКРЫТО ЗА ГИГАНТСКИМ НЛО 3I ATLAS:s:51154:e:608-->
+<!----><!--2024-10-22 19:31:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dveri_dlya_velikanov_tajna_drevnih_bronzovyh_vorot_lateranskoj_baziliki">
+    <img class="preview" data-videoid="jPHsDJwPEfA" src="https://i3.ytimg.com/vi/jPHsDJwPEfA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/dveri_dlya_velikanov_tajna_drevnih_bronzovyh_vorot_lateranskoj_baziliki">Двери для великанов? Тайна древних бронзовых ворот...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Двери для великанов Тайна древних бронзовых ворот Латеранской базилики:s:51847:e:673-->
+<!----><!--2025-09-04 15:24:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/novye_tajny_vokrug_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/FLSMzx18h-o" src="https://i3.ytimg.com/vi/FLSMzx18h-o/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/novye_tajny_vokrug_3i_atlas">Новые тайны вокруг 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:Новые тайны вокруг 3i Atlas:s:52676:e:566-->
+<!----><!--2025-08-06 16:53:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_priletit_k_nam_v_noyabre_3i_atlas_tyanet_za_soboj_armadu_nlo_voyadjer_peredaet_trevojnye_signaly">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/JVigh3bYqRk" src="https://i3.ytimg.com/vi/JVigh3bYqRk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_priletit_k_nam_v_noyabre_3i_atlas_tyanet_za_soboj_armadu_nlo_voyadjer_peredaet_trevojnye_signaly">ЧТО ПРИЛЕТИТ К НАМ В НОЯБРЕ? 3I ATLAS ТЯНЕТ ЗА СОБОЙ АРМАДУ НЛО? Вояджер передает тревожные сигналы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-06</i>
+  </div>
+</div><!--n:ЧТО ПРИЛЕТИТ К НАМ В НОЯБРЕ 3I ATLAS ТЯНЕТ ЗА СОБОЙ АРМАДУ НЛО Вояджер передает тревожные сигналы:s:53309:e:844-->
+<!----><!--2025-10-14 11:54:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_izdaet_signaly">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/DsidAKphPh0" src="https://i1.ytimg.com/vi/DsidAKphPh0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_izdaet_signaly">3I ATLAS ИЗДАЁТ СИГНАЛЫ?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:3I ATLAS ИЗДАЁТ СИГНАЛЫ:s:54348:e:552-->
+<!----><!--2025-10-17 07:55:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/eti_snimki_3i_atlas_zasekretili_poka_kometa_peredavala_shifr_na_zemlju_na_chastote_vodoroda">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/_ttaVRZ8GnY" src="https://i4.ytimg.com/vi/_ttaVRZ8GnY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/eti_snimki_3i_atlas_zasekretili_poka_kometa_peredavala_shifr_na_zemlju_na_chastote_vodoroda">ЭТИ СНИМКИ 3i Atlas ЗАСЕКРЕТИЛИ пока комета передавала шифр на Землю на частоте водорода?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-17</i>
+  </div>
+</div><!--n:ЭТИ СНИМКИ 3i Atlas ЗАСЕКРЕТИЛИ пока комета передавала шифр на Землю на частоте водорода:s:54960:e:808-->
+<!----><!--2025-02-07 20:24:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/drevnie_tehnologii_antarktidy_v_kollajdere_cerna_neizvestnye_podrobnosti_ekspedicii_admirala_berda">
+    <img class="preview" data-videoid="NcCN6vWZaCs" src="https://i3.ytimg.com/vi/NcCN6vWZaCs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/drevnie_tehnologii_antarktidy_v_kollajdere_cerna_neizvestnye_podrobnosti_ekspedicii_admirala_berda">Древние Технологии Антарктиды в коллайдере ЦЕРНа? Неизвестны...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2025-02-07</i>
+  </div>
+</div><!--n:Древние Технологии Антарктиды в коллайдере ЦЕРНа Неизвестные подробности экспедиции Адмирала Берда:s:55948:e:747-->
+<!----><!--2025-11-02 09:36:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vot_ty_chem_zanyat_ippolit_pet_pivo_vmesto_remonta_delorean_dlya_spaseniya_zemli_ot_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/JQGZxRVCESg" src="https://i3.ytimg.com/vi/JQGZxRVCESg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/vot_ty_chem_zanyat_ippolit_pet_pivo_vmesto_remonta_delorean_dlya_spaseniya_zemli_ot_3i_atlas">ВОТ ТЫ ЧЕМ ЗАНЯТ! Ипполит пьет пиво вместо ремонта Делореан для спасения Земли от 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-11-02</i>
+  </div>
+</div><!--n:ВОТ ТЫ ЧЕМ ЗАНЯТ Ипполит пьет пиво вместо ремонта Делореан для спасения Земли от 3i Atlas:s:56905:e:810-->
+<!----><!--2025-10-10 10:21:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/priznanie_astronoma_o_3i_atlas_vyzyvaet_novye_spory_o_prirode_etogo_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/NbMKpwY-N6E" src="https://i3.ytimg.com/vi/NbMKpwY-N6E/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/priznanie_astronoma_o_3i_atlas_vyzyvaet_novye_spory_o_prirode_etogo_nlo">ПРИЗНАНИЕ АСТРОНОМА о 3i ATLAS вызывает новые споры о природе этого НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-10</i>
+  </div>
+</div><!--n:ПРИЗНАНИЕ АСТРОНОМА о 3i ATLAS вызывает новые споры о природе этого НЛО:s:57895:e:735-->
+<!----><!--2025-08-12 16:24:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/my_potrevojili_nechto_drevnee_pod_poverhnostju_luny">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/t6qhhT52zpc" src="https://i1.ytimg.com/vi/t6qhhT52zpc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/my_potrevojili_nechto_drevnee_pod_poverhnostju_luny">«Мы потревожили нечто древнее под поверхностью Луны»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-12</i>
+  </div>
+</div><!--n:Мы потревожили нечто древнее под поверхностью Луны:s:58778:e:669-->
+<!----><!--2025-10-11 13:50:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/es_zasekretilo_dannye_3i_atlas_do_2099_goda">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/PrS4ZfcdN7s" src="https://i1.ytimg.com/vi/PrS4ZfcdN7s/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/es_zasekretilo_dannye_3i_atlas_do_2099_goda">ЕС ЗАСЕКРЕТИЛО ДАННЫЕ 3I ATLAS до 2099 года</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-11</i>
+  </div>
+</div><!--n:ЕС ЗАСЕКРЕТИЛО ДАННЫЕ 3I ATLAS до 2099 года:s:59565:e:623-->
+<!----><!--2025-10-14 11:51:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_hvost_3i_atlas_napravlen_v_storonu_solnca">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/-TAUl8PsiNY" src="https://i2.ytimg.com/vi/-TAUl8PsiNY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_hvost_3i_atlas_napravlen_v_storonu_solnca">Почему Хвост 3I ATLAS направлен в сторону Солнца?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Почему Хвост 3I ATLAS направлен в сторону Солнца:s:60280:e:650-->
+<!----><!--2025-10-02 15:13:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/etot_snimok_3i_atlas_postavil_uchenyh_v_tupik_na_fone_novyh_neobyasnimyh_anomalij_etogo_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/N14Gvys2KdI" src="https://i3.ytimg.com/vi/N14Gvys2KdI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/etot_snimok_3i_atlas_postavil_uchenyh_v_tupik_na_fone_novyh_neobyasnimyh_anomalij_etogo_nlo">ЭТОТ СНИМОК 3I ATLAS поставил учёных в тупик на фоне новых необъяснимых АНОМАЛИЙ ЭТОГО НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-02</i>
+  </div>
+</div><!--n:ЭТОТ СНИМОК 3I ATLAS поставил учёных в тупик на фоне новых необъяснимых АНОМАЛИЙ ЭТОГО НЛО:s:61036:e:810-->
+<!----><!--2025-10-14 12:11:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_peredaet_signaly_na_vodorodnoj_chastote">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/81_juSUunBM" src="https://i1.ytimg.com/vi/81_juSUunBM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_peredaet_signaly_na_vodorodnoj_chastote">3i Atlas передает сигналы на водородной частоте?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:3i Atlas передает сигналы на водородной частоте:s:62029:e:647-->
+<!----><!--2024-08-28 08:16:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/krushenie_nlo_nashli_na_gugl_kartah">
+    <img class="preview" data-videoid="o9zyOTsLjNA" src="https://i4.ytimg.com/vi/o9zyOTsLjNA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/krushenie_nlo_nashli_na_gugl_kartah">Крушение НЛО нашли на гугл картах</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-08-28</i>
+  </div>
+</div><!--n:Крушение НЛО нашли на гугл картах:s:62781:e:566-->
+<!----><!--2025-10-28 15:42:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kak_spasti_zemlju_ot_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/cLptcUa_hQw" src="https://i4.ytimg.com/vi/cLptcUa_hQw/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kak_spasti_zemlju_ot_3i_atlas">КАК СПАСТИ Землю от 3i ATLAS?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-28</i>
+  </div>
+</div><!--n:КАК СПАСТИ Землю от 3i ATLAS:s:63432:e:572-->
+<!----><!--2025-09-29 22:20:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/anomalii_3i_atlas_sushchestva_iz_okeana_tok_drevnih_egiptyan_nlo_luny_kosatki_topyat_yahty_strim">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/oktmhzfQoPg" src="https://i4.ytimg.com/vi/oktmhzfQoPg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/anomalii_3i_atlas_sushchestva_iz_okeana_tok_drevnih_egiptyan_nlo_luny_kosatki_topyat_yahty_strim">Аномалии 3I ATLAS / Существа из Океана / Ток Древних Египтян / НЛО Луны / Косатки Топят Яхты СТРИМ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-29</i>
+  </div>
+</div><!--n:Аномалии 3I ATLAS Существа из Океана Ток Древних Египтян НЛО Луны Косатки Топят Яхты СТРИМ:s:64072:e:828-->
+<!----><!--2025-07-30 19:00:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/6_most_disturbing_cave_encounters_ever_caught_on_camera">
+    <img class="preview" data-videoid="LMlpDW_GrA4" src="https://i1.ytimg.com/vi/LMlpDW_GrA4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/6_most_disturbing_cave_encounters_ever_caught_on_camera">6 Most DISTURBING Cave Encounters Ever Caught on Camera</a><br>
+    <i class="smaller2">CreepyVids</i><br>
+    <i class="smaller3">2025-07-30</i>
+  </div>
+</div><!--n:6 Most DISTURBING Cave Encounters Ever Caught on Camera:s:65083:e:584-->
+<!----><!--2025-10-04 12:10:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_nasa_vnezapno_zamolchalo_kogda_3i_atlas_i_swan_priblizilis_k_zemle">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/z_AlISG1rjg" src="https://i3.ytimg.com/vi/z_AlISG1rjg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_nasa_vnezapno_zamolchalo_kogda_3i_atlas_i_swan_priblizilis_k_zemle">ПОЧЕМУ НАСА ВНЕЗАПНО ЗАМОЛЧАЛО КОГДА 3I ATLAS и SWAN приблизились к Земле?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-04</i>
+  </div>
+</div><!--n:ПОЧЕМУ НАСА ВНЕЗАПНО ЗАМОЛЧАЛО КОГДА 3I ATLAS и SWAN приблизились к Земле:s:65746:e:742-->
+<!----><!--2024-07-22 17:00:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/mega_potop_v_drevnej_avstralii">
+    <img class="preview" data-videoid="asHVvHc0HHE" src="https://i2.ytimg.com/vi/asHVvHc0HHE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/mega_potop_v_drevnej_avstralii">Мега потоп в древней Австралии</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-22</i>
+  </div>
+</div><!--n:Мега потоп в древней Австралии:s:66636:e:552-->
+<!----><!--2024-10-22 19:33:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dolina_planet_v_sahare_tajna_zagadochnyh_valunov_chto_eto_na_samom_dele">
+    <img class="preview" data-videoid="wZbVnemcg4s" src="https://i4.ytimg.com/vi/wZbVnemcg4s/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/dolina_planet_v_sahare_tajna_zagadochnyh_valunov_chto_eto_na_samom_dele">Долина планет в Сахаре: тайна загадочных валунов! Что это...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Долина планет в Сахаре тайна загадочных валунов Что это на самом деле:s:67268:e:684-->
+<!----><!--2024-11-10 16:32:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nekotorye_issledovateli_polagajut_chto_za_ledyanoj_stenoj_antarktidy_lejat_drugie_zemli">
+    <img class="preview" data-videoid="pnXLnFJOqys" src="https://i1.ytimg.com/vi/pnXLnFJOqys/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/nekotorye_issledovateli_polagajut_chto_za_ledyanoj_stenoj_antarktidy_lejat_drugie_zemli">Некоторые исследователи полагают, что за ледяной стеной...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Некоторые исследователи полагают что за ледяной стеной Антарктиды лежат другие земли:s:68103:e:715-->
+<!----><!--2025-08-04 19:00:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/6_most_disturbing_videos_ever_caught_on_camera">
+    <img class="preview" data-videoid="mn1mRQ2A8p8" src="https://i2.ytimg.com/vi/mn1mRQ2A8p8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/6_most_disturbing_videos_ever_caught_on_camera">6 Most DISTURBING Videos Ever Caught On Camera</a><br>
+    <i class="smaller2">CreepyVids</i><br>
+    <i class="smaller3">2025-08-04</i>
+  </div>
+</div><!--n:6 Most DISTURBING Videos Ever Caught On Camera:s:69000:e:557-->
+<!----><!--2024-11-10 11:14:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/effekt_mandely_kogda_gruppy_ljudej_odinakovo_pomnyat_veshchi_kotorye_na_samom_dele_ne_proishodili">
+    <img class="preview" data-videoid="uJENDyPaPBA" src="https://i2.ytimg.com/vi/uJENDyPaPBA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/effekt_mandely_kogda_gruppy_ljudej_odinakovo_pomnyat_veshchi_kotorye_na_samom_dele_ne_proishodili">Эффект Манделы — когда группы людей одинаково помнят вещи,...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Эффект Манделы когда группы людей одинаково помнят вещи которые на самом деле не происходили:s:69627:e:740-->
+<!----><!--2024-12-05 19:13:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_skryvaetsya_za_betonnymi_blokami_peshchery_na_granice_mongolii_i_kitaya">
+    <img class="preview" data-videoid="j1_QjGthqMs" src="https://i3.ytimg.com/vi/j1_QjGthqMs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_skryvaetsya_za_betonnymi_blokami_peshchery_na_granice_mongolii_i_kitaya">Что скрывается за бетонными блоками пещеры на границе...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-12-05</i>
+  </div>
+</div><!--n:Что скрывается за бетонными блоками пещеры на границе Монголии и Китая:s:70562:e:689-->
+<!----><!--2024-11-14 13:16:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sdvoennye_chisla_na_chasah_tajnoe_poslanie_ili_signal_o_sboe_v_matrice">
+    <img class="preview" data-videoid="T6viX1TabIo" src="https://i1.ytimg.com/vi/T6viX1TabIo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sdvoennye_chisla_na_chasah_tajnoe_poslanie_ili_signal_o_sboe_v_matrice">Сдвоенные числа на часах: Тайное послание или сигнал о сбое ...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-14</i>
+  </div>
+</div><!--n:Сдвоенные числа на часах Тайное послание или сигнал о сбое в матрице:s:71405:e:687-->
+<!----><!--2025-09-04 15:28:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_esli_3i_atlas_vovse_ne_obychnaya_kometa">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/yseKZLn63Tw" src="https://i2.ytimg.com/vi/yseKZLn63Tw/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_esli_3i_atlas_vovse_ne_obychnaya_kometa">Что если 3i ATLAS вовсе не обычная комета?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:Что если 3i ATLAS вовсе не обычная комета:s:72241:e:626-->
+<!----><!--2025-10-22 18:31:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nasa_vkljuchili_planetarnuju_oboronu_iz_za_priblijeniya_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/EDP1gG0TyAU" src="https://i2.ytimg.com/vi/EDP1gG0TyAU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nasa_vkljuchili_planetarnuju_oboronu_iz_za_priblijeniya_3i_atlas">НАСА включили планетарную оборону из за приближения 3I ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-22</i>
+  </div>
+</div><!--n:НАСА включили планетарную оборону из за приближения 3I ATLAS:s:72959:e:702-->
+<!----><!--2025-10-01 15:35:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/esli_3i_atlas_i_vpravdu_mejgalakticheskoe_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/5v-WF0QDD48" src="https://i2.ytimg.com/vi/5v-WF0QDD48/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/esli_3i_atlas_i_vpravdu_mejgalakticheskoe_nlo">Если 3i ATLAS и вправду межгалактическое НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:Если 3i ATLAS и вправду межгалактическое НЛО:s:73790:e:634-->
+<!----><!--2024-07-31 17:17:46-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sledy_tainstvennoj_civilizacii_na_ostrovah_mikronezii">
+    <img class="preview" data-videoid="pZ63tMg0QsA" src="https://i1.ytimg.com/vi/pZ63tMg0QsA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sledy_tainstvennoj_civilizacii_na_ostrovah_mikronezii">Следы таинственной цивилизации на островах Микронезии</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-31</i>
+  </div>
+</div><!--n:Следы таинственной цивилизации на островах Микронезии:s:74523:e:643-->
+<!----><!--2025-09-04 15:25:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_lomaet_modeli_sovremennoj_nauki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/DEyfzfqWwik" src="https://i1.ytimg.com/vi/DEyfzfqWwik/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_lomaet_modeli_sovremennoj_nauki">3i ATLAS ЛОМАЕТ МОДЕЛИ СОВРЕМЕННОЙ НАУКИ?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:3i ATLAS ЛОМАЕТ МОДЕЛИ СОВРЕМЕННОЙ НАУКИ:s:75291:e:618-->
+<!----><!--2025-10-14 11:57:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_nikto_ne_mojet_normalno_zasnyat_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/Q-QpXROmOdg" src="https://i2.ytimg.com/vi/Q-QpXROmOdg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_nikto_ne_mojet_normalno_zasnyat_3i_atlas">Почему никто не может нормально заснять 3i Atlas?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Почему никто не может нормально заснять 3i Atlas:s:76001:e:648-->
+<!----><!--2025-08-17 15:27:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_uvidel_itan_guo_v_antarktide_i_pochemu_ego_arestovali_srazu_posle_posadki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/P9uxedePrVE" src="https://i1.ytimg.com/vi/P9uxedePrVE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_uvidel_itan_guo_v_antarktide_i_pochemu_ego_arestovali_srazu_posle_posadki">ЧТО УВИДЕЛ ИТАН ГУО В АНТАРКТИДЕ и почему его арестовали сразу после посадки?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-17</i>
+  </div>
+</div><!--n:ЧТО УВИДЕЛ ИТАН ГУО В АНТАРКТИДЕ и почему его арестовали сразу после посадки:s:76755:e:766-->
+<!----><!--2024-08-28 08:18:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kogo_na_samom_dele_nashli_v_lesu_vmesto_rajkera_uebba">
+    <img class="preview" data-videoid="YOcodYae1OI" src="https://i2.ytimg.com/vi/YOcodYae1OI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/kogo_na_samom_dele_nashli_v_lesu_vmesto_rajkera_uebba">Кого на самом деле нашли в лесу вместо Райкера Уэбба</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-08-28</i>
+  </div>
+</div><!--n:Кого на самом деле нашли в лесу вместо Райкера Уэбба:s:77685:e:636-->
+<!----><!--2024-07-17 17:19:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zdes_ochen_tyajelyj_yadovityj_vozduh_povsjudu_kisloty_lava_i_sol">
+    <img class="preview" data-videoid="csl0rAo3VXg" src="https://i4.ytimg.com/vi/csl0rAo3VXg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zdes_ochen_tyajelyj_yadovityj_vozduh_povsjudu_kisloty_lava_i_sol">Здесь очень тяжёлый ядовитый воздух  Повсюду кислоты, лава...</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-17</i>
+  </div>
+</div><!--n:Здесь очень тяжёлый ядовитый воздух Повсюду кислоты лава и соль:s:78440:e:674-->
+<!----><!--2025-10-20 12:55:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/srochno_3i_atlas_vnezapno_ischez_i_issledovateli_zagovorili_ob_ostanovke_mejzvezdnogo_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/FPcMvEm-nqY" src="https://i3.ytimg.com/vi/FPcMvEm-nqY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/srochno_3i_atlas_vnezapno_ischez_i_issledovateli_zagovorili_ob_ostanovke_mejzvezdnogo_nlo">СРОЧНО! 3i ATLAS ВНЕЗАПНО ИСЧЕЗ и исследователи заговорили об "остановке" межзвёздного НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-20</i>
+  </div>
+</div><!--n:СРОЧНО 3i ATLAS ВНЕЗАПНО ИСЧЕЗ и исследователи заговорили об остановке межзвёздного НЛО:s:79255:e:806-->
+<!----><!--2025-10-14 11:59:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/snimok_3i_atlas_s_marsianskogo_rovera_vyzyvaet_voprosy">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/AIg4Y5cq1hw" src="https://i2.ytimg.com/vi/AIg4Y5cq1hw/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/snimok_3i_atlas_s_marsianskogo_rovera_vyzyvaet_voprosy">Снимок 3i Atlas с марсианского ровера вызывает вопросы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Снимок 3i Atlas с марсианского ровера вызывает вопросы:s:80241:e:671-->
+<!----><!--2024-09-24 09:41:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/galakticheskaya_karta_vozrastom_600_let_dokazatelstvo_kontakta_s_prishelcami">
+    <img class="preview" data-videoid="hr8R3-1WBnE" src="https://i1.ytimg.com/vi/hr8R3-1WBnE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/galakticheskaya_karta_vozrastom_600_let_dokazatelstvo_kontakta_s_prishelcami">Галактическая карта возрастом 600 лет: доказательство...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Галактическая карта возрастом 600 лет доказательство контакта с пришельцами:s:81030:e:687-->
+<!----><!--2024-10-06 20:44:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dobro_pojalovat_na_massaj_stupnej">
+    <img class="preview" data-videoid="A3Tw4TzAUwM" src="https://i2.ytimg.com/vi/A3Tw4TzAUwM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/dobro_pojalovat_na_massaj_stupnej">Добро пожаловать на массаж ступней</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-10-06</i>
+  </div>
+</div><!--n:Добро пожаловать на массаж ступней:s:81880:e:566-->
+<!----><!--2025-09-04 15:29:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/etot_snimok_3i_atlas_vyzval_slishkom_mnogo_voprosov">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/h4dXrHFPGc0" src="https://i1.ytimg.com/vi/h4dXrHFPGc0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/etot_snimok_3i_atlas_vyzval_slishkom_mnogo_voprosov">ЭТОТ СНИМОК 3i ATLAS ВЫЗВАЛ СЛИШКОМ МНОГО ВОПРОСОВ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:ЭТОТ СНИМОК 3i ATLAS ВЫЗВАЛ СЛИШКОМ МНОГО ВОПРОСОВ:s:82534:e:657-->
+<!----><!--2024-11-10 16:33:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_esli_ledyanaya_stena_antarktidy_eto_ne_prosto_prirodnoe_obrazovanie_a_soznatelnyj_barer">
+    <img class="preview" data-videoid="92ciM4W6uDs" src="https://i2.ytimg.com/vi/92ciM4W6uDs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_esli_ledyanaya_stena_antarktidy_eto_ne_prosto_prirodnoe_obrazovanie_a_soznatelnyj_barer">Что, если ледяная стена Антарктиды — это не просто...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Что если ледяная стена Антарктиды это не просто природное образование а сознательный барьер:s:83301:e:714-->
+<!----><!--2025-10-31 17:07:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_seti_poyavilas_fotografiya_3i_atlas_i_polzovateli_uvereny_chto_eto_utechka_nasa">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/_P_Zd-IV8HI" src="https://i4.ytimg.com/vi/_P_Zd-IV8HI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_seti_poyavilas_fotografiya_3i_atlas_i_polzovateli_uvereny_chto_eto_utechka_nasa">В сети появилась ФОТОГРАФИЯ 3I ATLAS и пользователи уверены что это утечка NASA</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-31</i>
+  </div>
+</div><!--n:В сети появилась ФОТОГРАФИЯ 3I ATLAS и пользователи уверены что это утечка NASA:s:84209:e:766-->
+<!----><!--2024-11-17 10:57:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/on_utverjdaet_chto_prishel_iz_budushchego_dnevnik_evgeniya_gajduchka_raskryvaet_tajny_vremeni">
+    <img class="preview" data-videoid="2QpnGMZwNh0" src="https://i3.ytimg.com/vi/2QpnGMZwNh0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/on_utverjdaet_chto_prishel_iz_budushchego_dnevnik_evgeniya_gajduchka_raskryvaet_tajny_vremeni">Он утверждает, что пришёл из будущего? Дневник Евгения...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Он утверждает что пришёл из будущего Дневник Евгения Гайдучка раскрывает тайны времени:s:85134:e:723-->
+<!----><!--2025-10-07 16:25:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/oficialnyj_snimok_3i_atlas_s_marsa_obyasnyaet_molchanie_aerokosmicheskih_agentstv">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/mGAhehdX274" src="https://i2.ytimg.com/vi/mGAhehdX274/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/oficialnyj_snimok_3i_atlas_s_marsa_obyasnyaet_molchanie_aerokosmicheskih_agentstv">ОФИЦИАЛЬНЫЙ СНИМОК 3I ATLAS С МАРСА Объясняет Молчание Аэрокосмических Агентств?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-07</i>
+  </div>
+</div><!--n:ОФИЦИАЛЬНЫЙ СНИМОК 3I ATLAS С МАРСА Объясняет Молчание Аэрокосмических Агентств:s:86042:e:774-->
+<!----><!--2025-10-21 17:49:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ostalos_48_chasov_i_avi_leb_preduprejdaet_chto_dengi_vskore_budut_ne_nujny">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/z-Y9-h3VPR4" src="https://i3.ytimg.com/vi/z-Y9-h3VPR4/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ostalos_48_chasov_i_avi_leb_preduprejdaet_chto_dengi_vskore_budut_ne_nujny">ОСТАЛОСЬ 48 ЧАСОВ и Ави Леб предупреждает что деньги вскоре будут не нужны?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-21</i>
+  </div>
+</div><!--n:ОСТАЛОСЬ 48 ЧАСОВ и Ави Леб предупреждает что деньги вскоре будут не нужны:s:86982:e:752-->
+<!----><!--2025-08-12 17:03:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_mnogie_uvereny_chto_posle_2012_goda_dni_stali_koroche_i_pri_chem_tut_kollajder">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/L3bMcbQ3a7c" src="https://i1.ytimg.com/vi/L3bMcbQ3a7c/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_mnogie_uvereny_chto_posle_2012_goda_dni_stali_koroche_i_pri_chem_tut_kollajder">Почему многие уверены, что после 2012 года ДНИ СТАЛИ КОРОЧЕ — и при чём тут КОЛЛАЙДЕР?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-12</i>
+  </div>
+</div><!--n:Почему многие уверены что после 2012 года ДНИ СТАЛИ КОРОЧЕ и при чём тут КОЛЛАЙДЕР:s:87892:e:793-->
+<!----><!--2025-08-19 16:55:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/itan_guo_arestovan_za_uvidennoe_v_antarktide">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/mnpCaAug1_I" src="https://i2.ytimg.com/vi/mnpCaAug1_I/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/itan_guo_arestovan_za_uvidennoe_v_antarktide">ИТАН ГУО АРЕСТОВАН ЗА УВИДЕННОЕ В АНТАРКТИДЕ?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-19</i>
+  </div>
+</div><!--n:ИТАН ГУО АРЕСТОВАН ЗА УВИДЕННОЕ В АНТАРКТИДЕ:s:88855:e:640-->
+<!----><!--2025-09-04 15:27:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_dvijetsya_stranno_uskoryaetsya_bez_vidimyh_struj_i_daje_hvost_u_nego_ne_kak_u_obychnyh_komet">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ah2AY9q9UYg" src="https://i2.ytimg.com/vi/ah2AY9q9UYg/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_dvijetsya_stranno_uskoryaetsya_bez_vidimyh_struj_i_daje_hvost_u_nego_ne_kak_u_obychnyh_komet">3i ATLAS ДВИЖЕТСЯ СТРАННО, ускоряется без видимых струй — и даже хвост у него не как у обычных комет</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:3i ATLAS ДВИЖЕТСЯ СТРАННО ускоряется без видимых струй и даже хвост у него не как у обычных комет:s:89601:e:846-->
+<!----><!--2025-10-06 10:56:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/poka_obsujdali_snimki_3i_atlas_s_marsa_ryadom_s_zemlej_zametili_kolceobraznuju_sferu_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/VGSa2kRi65s" src="https://i3.ytimg.com/vi/VGSa2kRi65s/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/poka_obsujdali_snimki_3i_atlas_s_marsa_ryadom_s_zemlej_zametili_kolceobraznuju_sferu_zapis_strima">Пока обсуждали СНИМКИ 3I ATLAS с МАРСА рядом с Землёй заметили КОЛЬЦЕОБРАЗНУЮ СФЕРУ / ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-06</i>
+  </div>
+</div><!--n:Пока обсуждали СНИМКИ 3I ATLAS с МАРСА рядом с Землёй заметили КОЛЬЦЕОБРАЗНУЮ СФЕРУ ЗАПИСЬ СТРИМА:s:90641:e:838-->
+<!----><!--2024-11-17 10:53:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_vy_vidite_1111_na_chasah_-_sluchajnost_ili_skrytyj_znak_vselennoj">
+    <img class="preview" data-videoid="eEbyQpTflmk" src="https://i2.ytimg.com/vi/eEbyQpTflmk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/pochemu_vy_vidite_1111_na_chasah_-_sluchajnost_ili_skrytyj_znak_vselennoj">Почему вы видите 11:11 на часах - Случайность или скрытый...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Почему вы видите 1111 на часах - Случайность или скрытый знак вселенной:s:91676:e:683-->
+<!----><!--2025-08-01 19:00:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/13_most_disturbing_videos_ever_caught_on_camera">
+    <img class="preview" data-videoid="8Hzyu2Z3qew" src="https://i1.ytimg.com/vi/8Hzyu2Z3qew/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/13_most_disturbing_videos_ever_caught_on_camera">13 Most DISTURBING Videos Ever Caught On Camera</a><br>
+    <i class="smaller2">CreepyVids</i><br>
+    <i class="smaller3">2025-08-01</i>
+  </div>
+</div><!--n:13 Most DISTURBING Videos Ever Caught On Camera:s:92509:e:560-->
+<!----><!--2024-11-17 10:52:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vy_zamechali_odinakovye_chisla_na_chasah">
+    <img class="preview" data-videoid="sLU3XlLlk1Y" src="https://i4.ytimg.com/vi/sLU3XlLlk1Y/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/vy_zamechali_odinakovye_chisla_na_chasah">Вы замечали одинаковые числа на часах</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Вы замечали одинаковые числа на часах:s:93140:e:584-->
+<!----><!--2025-09-16 17:29:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/prishelec_vylupilsya_iz_meteorita_venom_iz_panamy_stal_novoj_mirovoj_ufologicheskoj_zagadkoj">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/zwfW_t3H0nM" src="https://i3.ytimg.com/vi/zwfW_t3H0nM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/prishelec_vylupilsya_iz_meteorita_venom_iz_panamy_stal_novoj_mirovoj_ufologicheskoj_zagadkoj">ПРИШЕЛЕЦ ВЫЛУПИЛСЯ ИЗ МЕТЕОРИТА? "Веном" из Панамы стал новой мировой уфологической загадкой</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-16</i>
+  </div>
+</div><!--n:ПРИШЕЛЕЦ ВЫЛУПИЛСЯ ИЗ МЕТЕОРИТА Веном из Панамы стал новой мировой уфологической загадкой:s:93817:e:823-->
+<!----><!--2025-10-27 15:47:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/manevr_3i_atlas_ozadachil_astronomov_i_vse_jdut_chto_pokajet_sblijenie_29_oktyabrya_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/v0wxosBc1Io" src="https://i3.ytimg.com/vi/v0wxosBc1Io/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/manevr_3i_atlas_ozadachil_astronomov_i_vse_jdut_chto_pokajet_sblijenie_29_oktyabrya_zapis_strima">Маневр 3I ATLAS озадачил астрономов и все ждут что покажет сближение 29 октября ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-27</i>
+  </div>
+</div><!--n:Маневр 3I ATLAS озадачил астрономов и все ждут что покажет сближение 29 октября ЗАПИСЬ СТРИМА:s:94831:e:824-->
+<!----><!--2024-11-17 10:51:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_znachit_1111_na_vashih_chasah">
+    <img class="preview" data-videoid="v7hLdGuXxrA" src="https://i3.ytimg.com/vi/v7hLdGuXxrA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_znachit_1111_na_vashih_chasah">Что значит 11:11 на ваших часах</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Что значит 1111 на ваших часах:s:95842:e:555-->
+<!----><!--2024-11-01 00:49:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/provaly_vo_vremeni_prizraki_sboj_matricy_portaly_vremennye_anomalii_tykvennyj_strim">
+    <img class="preview" data-videoid="Jl72n2vImbI" src="https://i3.ytimg.com/vi/Jl72n2vImbI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/provaly_vo_vremeni_prizraki_sboj_matricy_portaly_vremennye_anomalii_tykvennyj_strim">Провалы во Времени / Призраки / Сбой Матрицы / Порталы /...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-01</i>
+  </div>
+</div><!--n:Провалы во Времени Призраки Сбой Матрицы Порталы Временные Аномалии ТЫКВЕННЫЙ СТРИМ:s:96472:e:702-->
+<!----><!--2024-11-17 22:47:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/slushaniya_po_nlo_oshibka_ejnshtejna_spojlery_2025_predvidenie_shumerov_lesa_antarktidy_strim">
+    <img class="preview" data-videoid="2lI4XP28bJw" src="https://i3.ytimg.com/vi/2lI4XP28bJw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/slushaniya_po_nlo_oshibka_ejnshtejna_spojlery_2025_predvidenie_shumerov_lesa_antarktidy_strim">Слушания по НЛО / Ошибка Эйнштейна / Спойлеры 2025? /...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Слушания по НЛО Ошибка Эйнштейна Спойлеры 2025 Предвидение Шумеров Леса Антарктиды СТРИМ:s:97354:e:713-->
+<!----><!--2024-10-22 19:30:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ljudi-yashchery_sushchestvovali_statuetki_1919_goda_shokirujut_arheologov">
+    <img class="preview" data-videoid="Xg9JKn-Hk2M" src="https://i1.ytimg.com/vi/Xg9JKn-Hk2M/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/ljudi-yashchery_sushchestvovali_statuetki_1919_goda_shokirujut_arheologov">Люди-ящеры существовали? Статуэтки 1919 года шокируют...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Люди-ящеры существовали Статуэтки 1919 года шокируют археологов:s:98252:e:679-->
+<!----><!--2025-10-01 15:36:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_i_swan_eto_mejzvezdnye_korabli_nlo_ili_prosto_meteority">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/YzjU5ILU8BU" src="https://i2.ytimg.com/vi/YzjU5ILU8BU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_i_swan_eto_mejzvezdnye_korabli_nlo_ili_prosto_meteority">3i ATLAS и SWAN это МЕЖЗВЁЗДНЫЕ КОРАБЛИ НЛО или просто метеориты?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:3i ATLAS и SWAN это МЕЖЗВЁЗДНЫЕ КОРАБЛИ НЛО или просто метеориты:s:99070:e:705-->
+<!----><!--2025-08-07 07:48:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gigantskij_nlo_3i_atlas_tyanet_za_soboj_k_zemle_celuju_flotiliju_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/cJfxvqE_p_E" src="https://i4.ytimg.com/vi/cJfxvqE_p_E/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gigantskij_nlo_3i_atlas_tyanet_za_soboj_k_zemle_celuju_flotiliju_nlo">ГИГАНТСКИЙ НЛО 3i ATLAS ТЯНЕТ ЗА СОБОЙ К ЗЕМЛЕ ЦЕЛУЮ ФЛОТИЛИЮ НЛО?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ГИГАНТСКИЙ НЛО 3i ATLAS ТЯНЕТ ЗА СОБОЙ К ЗЕМЛЕ ЦЕЛУЮ ФЛОТИЛИЮ НЛО:s:99906:e:718-->
+<!----><!--2024-11-30 13:27:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_skryvaet_pustynya_simpson_v_avstralii_legendy_o_provale_vo_vremeni_i_inoplanetnyh_tehnologiyah">
+    <img class="preview" data-videoid="UELWIBoexqQ" src="https://i2.ytimg.com/vi/UELWIBoexqQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_skryvaet_pustynya_simpson_v_avstralii_legendy_o_provale_vo_vremeni_i_inoplanetnyh_tehnologiyah">Что скрывает пустыня Симпсон в Австралии? Легенды о провале...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-30</i>
+  </div>
+</div><!--n:Что скрывает пустыня Симпсон в Австралии Легенды о провале во времени и инопланетных технологиях:s:100760:e:745-->
+<!----><!--2024-11-10 11:11:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sluchalos_li_vam_zamechat_chto_chto-to_vokrug_ne_tak">
+    <img class="preview" data-videoid="uamwjKIJtD0" src="https://i2.ytimg.com/vi/uamwjKIJtD0/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sluchalos_li_vam_zamechat_chto_chto-to_vokrug_ne_tak">Случалось ли вам замечать, что что-то вокруг не так?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Случалось ли вам замечать что что-то вокруг не так:s:101709:e:632-->
+<!----><!--2024-11-10 11:10:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vy_kogda-nibud_zadumyvalis_chto_nekotorye_vospominaniya_iz_detstva_ili_junosti_prosto_ne_shodyatsya">
+    <img class="preview" data-videoid="BPLlHREg-rk" src="https://i3.ytimg.com/vi/BPLlHREg-rk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/vy_kogda-nibud_zadumyvalis_chto_nekotorye_vospominaniya_iz_detstva_ili_junosti_prosto_ne_shodyatsya">Вы когда-нибудь задумывались, что некоторые воспоминания из...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Вы когда-нибудь задумывались что некоторые воспоминания из детства или юности просто не сходятся:s:102457:e:746-->
+<!----><!--2025-10-01 15:34:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nechto_ogromnoe_voshlo_v_solnechnuju_sitemu_i_nesetsya_v_storonu_zemli_vsled_za_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/OkTImdHIMM8" src="https://i4.ytimg.com/vi/OkTImdHIMM8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nechto_ogromnoe_voshlo_v_solnechnuju_sitemu_i_nesetsya_v_storonu_zemli_vsled_za_3i_atlas">НЕЧТО ОГРОМНОЕ вошло в Солнечную ситему и несется в сторону Земли вслед за 3i ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:НЕЧТО ОГРОМНОЕ вошло в Солнечную ситему и несется в сторону Земли вслед за 3i ATLAS:s:103407:e:790-->
+<!----><!--2025-08-07 07:46:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/voyadjer_peredaet_povtoryajushchiesya_neobyasnimye_signaly_iz-za_nlo_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/xVL8-ZdROGU" src="https://i1.ytimg.com/vi/xVL8-ZdROGU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/voyadjer_peredaet_povtoryajushchiesya_neobyasnimye_signaly_iz-za_nlo_3i_atlas">ВОЯДЖЕР ПЕРЕДАЕТ ПОВТОРЯЮЩИЕСЯ НЕОБЪЯСНИМЫЕ СИГНАЛЫ из-за НЛО 3i ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ВОЯДЖЕР ПЕРЕДАЕТ ПОВТОРЯЮЩИЕСЯ НЕОБЪЯСНИМЫЕ СИГНАЛЫ из-за НЛО 3i ATLAS:s:104367:e:747-->
+<!----><!--2025-11-02 06:29:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_uskorilsya_i_soshel_s_kursa_3i_atlas_vyshel_iz-za_solnca_ranshe_sroka_i_podal_radiosignaly">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ThALhgMLXto" src="https://i1.ytimg.com/vi/ThALhgMLXto/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_uskorilsya_i_soshel_s_kursa_3i_atlas_vyshel_iz-za_solnca_ranshe_sroka_i_podal_radiosignaly">3I ATLAS ускорился и сошёл с курса? 3I ATLAS вышел из-за Солнца раньше срока и подал радиосигналы?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-11-02</i>
+  </div>
+</div><!--n:3I ATLAS ускорился и сошёл с курса 3I ATLAS вышел из-за Солнца раньше срока и подал радиосигналы:s:105263:e:830-->
+<!----><!--2024-11-12 16:30:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/avstraliya_eto_ne_prosto_strana_a_celaya_legenda">
+    <img class="preview" data-videoid="m0OrWbmsQ0s" src="https://i2.ytimg.com/vi/m0OrWbmsQ0s/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/avstraliya_eto_ne_prosto_strana_a_celaya_legenda">Австралия — это не просто страна, а целая легенда</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-12</i>
+  </div>
+</div><!--n:Австралия это не просто страна а целая легенда:s:106279:e:621-->
+<!----><!--2025-10-14 12:10:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/insajdery_govoryat_chto_3i_atlas_aktivno_manevriruet">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/akDBL0_8Sew" src="https://i2.ytimg.com/vi/akDBL0_8Sew/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/insajdery_govoryat_chto_3i_atlas_aktivno_manevriruet">Инсайдеры говорят что 3i Atlas активно маневрирует</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Инсайдеры говорят что 3i Atlas активно маневрирует:s:107010:e:660-->
+<!----><!--2025-10-06 11:27:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_marse_zametili_ruiny_drevnego_goroda_no_uchenye_nazyvajut_eto_igroj_sveta_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/hlAF97MwddY" src="https://i1.ytimg.com/vi/hlAF97MwddY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_marse_zametili_ruiny_drevnego_goroda_no_uchenye_nazyvajut_eto_igroj_sveta_zapis_strima">На Марсе заметили руины древнего города но учёные называют это игрой света / ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-06</i>
+  </div>
+</div><!--n:На Марсе заметили руины древнего города но учёные называют это игрой света ЗАПИСЬ СТРИМА:s:107782:e:812-->
+<!----><!--2024-11-09 18:31:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zagadochnyj_zvonok_s_sobstvennogo_telefona_iz_proshlogo">
+    <img class="preview" data-videoid="vHcIxp6q67c" src="https://i3.ytimg.com/vi/vHcIxp6q67c/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zagadochnyj_zvonok_s_sobstvennogo_telefona_iz_proshlogo">Загадочный звонок с собственного телефона из прошлого</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:Загадочный звонок с собственного телефона из прошлого:s:108782:e:645-->
+<!----><!--2025-10-25 15:49:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/oni_pojirajut_nashe_solnce_3i_atlas_slomal_vse_raschety_i_budto_vysasyvaet_energiju_zvezdy">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/q1E9suRBTK8" src="https://i2.ytimg.com/vi/q1E9suRBTK8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/oni_pojirajut_nashe_solnce_3i_atlas_slomal_vse_raschety_i_budto_vysasyvaet_energiju_zvezdy">ОНИ ПОЖИРАЮТ НАШЕ СОЛНЦЕ? 3I ATLAS СЛОМАЛ ВСЕ РАСЧЁТЫ и будто высасывает энергию Звезды</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-25</i>
+  </div>
+</div><!--n:ОНИ ПОЖИРАЮТ НАШЕ СОЛНЦЕ 3I ATLAS СЛОМАЛ ВСЕ РАСЧЁТЫ и будто высасывает энергию Звезды:s:109552:e:802-->
+<!----><!--2025-10-14 12:09:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/za_3i_atlas_tyanetsya_flot_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/OBXtvSgc_CU" src="https://i4.ytimg.com/vi/OBXtvSgc_CU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/za_3i_atlas_tyanetsya_flot_nlo">За 3i Atlas тянется флот НЛО?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:За 3i Atlas тянется флот НЛО:s:110531:e:574-->
+<!----><!--2025-10-01 15:31:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/simpsony_predskazali_vysadku_prishelcev_iz_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/URiLBeEZrZs" src="https://i2.ytimg.com/vi/URiLBeEZrZs/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/simpsony_predskazali_vysadku_prishelcev_iz_3i_atlas">СИМПСОНЫ ПРЕДСКАЗАЛИ высадку пришельцев из 3i ATLAS?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:СИМПСОНЫ ПРЕДСКАЗАЛИ высадку пришельцев из 3i ATLAS:s:111174:e:661-->
+<!----><!--2025-08-20 16:08:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_peredal_soobshchenie_na_zemlju_astronomy_obsujdajut_strannoe_povedenie_obekta_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ShLnszWQZr4" src="https://i4.ytimg.com/vi/ShLnszWQZr4/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_peredal_soobshchenie_na_zemlju_astronomy_obsujdajut_strannoe_povedenie_obekta_3i_atlas">3I ATLAS ПЕРЕДАЛ СООБЩЕНИЕ НА ЗЕМЛЮ? Астрономы обсуждают странное поведение объекта 3i/Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-20</i>
+  </div>
+</div><!--n:3I ATLAS ПЕРЕДАЛ СООБЩЕНИЕ НА ЗЕМЛЮ Астрономы обсуждают странное поведение объекта 3i Atlas:s:111949:e:816-->
+<!----><!--2024-11-10 16:08:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_esli_za_gigantskoj_ledyanoj_stenoj_v_antarktide_skryvaetsya_chto-to_neveroyatnoe">
+    <img class="preview" data-videoid="1bCSCOFW2lE" src="https://i2.ytimg.com/vi/1bCSCOFW2lE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_esli_za_gigantskoj_ledyanoj_stenoj_v_antarktide_skryvaetsya_chto-to_neveroyatnoe">Что, если за гигантской ледяной стеной в Антарктиде...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Что если за гигантской ледяной стеной в Антарктиде скрывается что-то невероятное:s:112946:e:702-->
+<!----><!--2024-10-22 19:29:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/mesto_vysadki_apollona_11_najdeno_na_zemle">
+    <img class="preview" data-videoid="ijAOGwTPIBQ" src="https://i2.ytimg.com/vi/ijAOGwTPIBQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/mesto_vysadki_apollona_11_najdeno_na_zemle">Место высадки «Аполлона 11» найдено на Земле?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Место высадки Аполлона 11 найдено на Земле:s:113822:e:600-->
+<!----><!--2025-02-10 12:26:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/eti_kadry_ne_doljny_byli_popast_v_efir_nasa">
+    <img class="preview" data-videoid="ViNzmzFEXfU" src="https://i3.ytimg.com/vi/ViNzmzFEXfU/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/eti_kadry_ne_doljny_byli_popast_v_efir_nasa">Эти кадры не должны были попасть в эфир НАСА</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2025-02-10</i>
+  </div>
+</div><!--n:Эти кадры не должны были попасть в эфир НАСА:s:114523:e:601-->
+<!----><!--2024-07-15 14:06:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sledy_dopotopnyh_tehnologij_na_dne_okeana">
+    <img class="preview" data-videoid="35uF6FB4ksA" src="https://i4.ytimg.com/vi/35uF6FB4ksA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sledy_dopotopnyh_tehnologij_na_dne_okeana">Следы допотопных технологий на дне океана</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-15</i>
+  </div>
+</div><!--n:Следы допотопных технологий на дне океана:s:115229:e:595-->
+<!----><!--2024-10-22 19:38:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nlo_v_arizone_zagadochnye_ogni_nad_sedonoj_shokirovali_vseh">
+    <img class="preview" data-videoid="PhatHOtrluY" src="https://i1.ytimg.com/vi/PhatHOtrluY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/nlo_v_arizone_zagadochnye_ogni_nad_sedonoj_shokirovali_vseh">НЛО в Аризоне? Загадочные огни над Седоной шокировали всех!</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:НЛО в Аризоне Загадочные огни над Седоной шокировали всех:s:115926:e:661-->
+<!----><!--2025-10-14 12:12:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nasa_vremenno_prekratilo_obnovlyat_informaciju_o_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/WDZy0RJk97Q" src="https://i4.ytimg.com/vi/WDZy0RJk97Q/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nasa_vremenno_prekratilo_obnovlyat_informaciju_o_3i_atlas">НАСА временно прекратило обновлять информацию о 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:НАСА временно прекратило обновлять информацию о 3i Atlas:s:116718:e:681-->
+<!----><!--2024-11-12 16:32:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/avstraliya_odna_iz_samyh_udivitelnyh_i_zagadochnyh_stran">
+    <img class="preview" data-videoid="xx3TB71xZoI" src="https://i1.ytimg.com/vi/xx3TB71xZoI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/avstraliya_odna_iz_samyh_udivitelnyh_i_zagadochnyh_stran">Австралия — одна из самых удивительных и загадочных стран</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-12</i>
+  </div>
+</div><!--n:Австралия одна из самых удивительных и загадочных стран:s:117522:e:654-->
+<!----><!--2025-09-04 15:29:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_mejzvezdnaya_kometa_ili_nechto_drugoe">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/8_FsqA_9SNM" src="https://i1.ytimg.com/vi/8_FsqA_9SNM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_mejzvezdnaya_kometa_ili_nechto_drugoe">3i ATLAS межзвёздная комета или нечто другое?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:3i ATLAS межзвёздная комета или нечто другое:s:118304:e:637-->
+<!----><!--2024-08-14 13:10:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gigantskie_kristally_pod_zemlej_i_kamennye_derevya_arizony">
+    <img class="preview" data-videoid="Hq75u8GniSw" src="https://i1.ytimg.com/vi/Hq75u8GniSw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/gigantskie_kristally_pod_zemlej_i_kamennye_derevya_arizony">Гигантские кристаллы под Землёй и каменные деревья Аризоны</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-08-14</i>
+  </div>
+</div><!--n:Гигантские кристаллы под Землёй и каменные деревья Аризоны:s:119041:e:661-->
+<!----><!--2024-11-19 17:48:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nikola_tesla_i_ischeznuvshie_dnevniki_-_chto_oni_skryvajut_ot_nas">
+    <img class="preview" data-videoid="nP2vWvVxins" src="https://i3.ytimg.com/vi/nP2vWvVxins/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/nikola_tesla_i_ischeznuvshie_dnevniki_-_chto_oni_skryvajut_ot_nas">Никола Тесла и исчезнувшие дневники - Что они скрывают от...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-19</i>
+  </div>
+</div><!--n:Никола Тесла и исчезнувшие дневники - Что они скрывают от нас:s:119836:e:672-->
+<!----><!--2025-08-07 07:44:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gigantskij_nlo_3i_atlas_transportnik_ili_prikrytie_dlya_celoj_armady_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/IpjjCKO8VWo" src="https://i2.ytimg.com/vi/IpjjCKO8VWo/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gigantskij_nlo_3i_atlas_transportnik_ili_prikrytie_dlya_celoj_armady_nlo">ГИГАНТСКИЙ НЛО 3i Atlas – транспортник или прикрытие для целой армады НЛО?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ГИГАНТСКИЙ НЛО 3i Atlas транспортник или прикрытие для целой армады НЛО:s:120644:e:743-->
+<!----><!--2025-09-27 13:08:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/solnce_udarilo_po_3i_atlas_posle_utechki_s_teleskopa_djejms_uebb_o_gorode_nlo_vnutri_komety">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/RirIlN5j5SE" src="https://i3.ytimg.com/vi/RirIlN5j5SE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/solnce_udarilo_po_3i_atlas_posle_utechki_s_teleskopa_djejms_uebb_o_gorode_nlo_vnutri_komety">СОЛНЦЕ УДАРИЛО ПО 3I ATLAS после «утечки» с телескопа Джеймс Уэбб О ГОРОДЕ НЛО ВНУТРИ КОМЕТЫ?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-27</i>
+  </div>
+</div><!--n:СОЛНЦЕ УДАРИЛО ПО 3I ATLAS после утечки с телескопа Джеймс Уэбб О ГОРОДЕ НЛО ВНУТРИ КОМЕТЫ:s:121537:e:814-->
+<!----><!--2025-10-14 12:06:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gigantskoe_kolceobraznoe_nlo_zametili_vblizi_zemli">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/8N7p_9ydi4Q" src="https://i1.ytimg.com/vi/8N7p_9ydi4Q/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gigantskoe_kolceobraznoe_nlo_zametili_vblizi_zemli">Гигантское кольцеобразное НЛО заметили вблизи Земли?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Гигантское кольцеобразное НЛО заметили вблизи Земли:s:122534:e:667-->
+<!----><!--2024-11-12 16:28:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/piloty_znamenitosti_turisticheskie_agentstva_vse_oni_yakoby_uchastvujut_v_zagovore_pro_avstraliju">
+    <img class="preview" data-videoid="CgN1PrPgWus" src="https://i4.ytimg.com/vi/CgN1PrPgWus/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/piloty_znamenitosti_turisticheskie_agentstva_vse_oni_yakoby_uchastvujut_v_zagovore_pro_avstraliju">Пилоты, знаменитости, туристические агентства — все они якоб...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-12</i>
+  </div>
+</div><!--n:Пилоты знаменитости туристические агентства все они якобы участвуют в заговоре про Австралию:s:123323:e:744-->
+<!----><!--2024-11-09 18:30:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_nju-jorke_v_1950_godu_policiya_zaderjala_strannogo_cheloveka_v_odejde_xix_veka">
+    <img class="preview" data-videoid="Tda8vxY-k2Y" src="https://i1.ytimg.com/vi/Tda8vxY-k2Y/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/v_nju-jorke_v_1950_godu_policiya_zaderjala_strannogo_cheloveka_v_odejde_xix_veka">В Нью-Йорке в 1950 году полиция задержала странного...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:В Нью-Йорке в 1950 году полиция задержала странного человека в одежде XIX века:s:124265:e:688-->
+<!----><!--2025-10-01 15:37:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/simpsony_predskazali_unichtojenie_nlo_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/zl-pOCOgy_Y" src="https://i3.ytimg.com/vi/zl-pOCOgy_Y/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/simpsony_predskazali_unichtojenie_nlo_3i_atlas">СИМПСОНЫ ПРЕДСКАЗАЛИ уничтожение НЛО 3i ATLAS?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:СИМПСОНЫ ПРЕДСКАЗАЛИ уничтожение НЛО 3i ATLAS:s:125114:e:640-->
+<!----><!--2025-09-19 18:35:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/venom_iz_panamy_yavlyaetsya_predvestnikom_nlo_3i_atlas_i_bolee_pugajushchego_gigantskogo_korablya_swan">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/Xy5mFwX2kYY" src="https://i1.ytimg.com/vi/Xy5mFwX2kYY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/venom_iz_panamy_yavlyaetsya_predvestnikom_nlo_3i_atlas_i_bolee_pugajushchego_gigantskogo_korablya_swan">ВЕНОМ ИЗ ПАНАМЫ является предвестником НЛО 3i Atlas и более пугающего ГИГАНТСКОГО КОРАБЛЯ SWAN?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-19</i>
+  </div>
+</div><!--n:ВЕНОМ ИЗ ПАНАМЫ является предвестником НЛО 3i Atlas и более пугающего ГИГАНТСКОГО КОРАБЛЯ SWAN:s:125857:e:838-->
+<!----><!--2025-08-07 07:46:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/voyadjer_zasek_veroyatnuju_flotiliju_nlo_za_obektom_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/-Em-4HGfr3g" src="https://i2.ytimg.com/vi/-Em-4HGfr3g/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/voyadjer_zasek_veroyatnuju_flotiliju_nlo_za_obektom_3i_atlas">ВОЯДЖЕР ЗАСЁК ВЕРОЯТНУЮ ФЛОТИЛИЮ НЛО за ОБЪЕКТОМ 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ВОЯДЖЕР ЗАСЁК ВЕРОЯТНУЮ ФЛОТИЛИЮ НЛО за ОБЪЕКТОМ 3i Atlas:s:126884:e:688-->
+<!----><!--2025-08-19 16:56:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/itan_guo_i_sluhi_vokrug_ego_strannogo_aresta_v_antarktide">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/lZpTWjv6AnE" src="https://i1.ytimg.com/vi/lZpTWjv6AnE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/itan_guo_i_sluhi_vokrug_ego_strannogo_aresta_v_antarktide">ИТАН ГУО и слухи вокруг его странного ареста в Антарктиде</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-19</i>
+  </div>
+</div><!--n:ИТАН ГУО и слухи вокруг его странного ареста в Антарктиде:s:127696:e:688-->
+<!----><!--2024-11-26 08:20:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/hakery_raskryli_sekretnye_dannye_nasa_o_podvodnoj_stene_v_tihom_okeane_najdennoj_jakom_kusto">
+    <img class="preview" data-videoid="6F6gBcCdPLQ" src="https://i3.ytimg.com/vi/6F6gBcCdPLQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/hakery_raskryli_sekretnye_dannye_nasa_o_podvodnoj_stene_v_tihom_okeane_najdennoj_jakom_kusto">Хакеры раскрыли секретные данные НАСА о подводной стене в...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-26</i>
+  </div>
+</div><!--n:Хакеры раскрыли секретные данные НАСА о подводной стене в Тихом океане найденной Жаком Кусто:s:128514:e:728-->
+<!----><!--2025-09-04 15:23:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kometa_3i_atlas_narushaet_zakony_fiziki">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/OHanIlLoqkY" src="https://i4.ytimg.com/vi/OHanIlLoqkY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kometa_3i_atlas_narushaet_zakony_fiziki">КОМЕТА 3i ATLAS нарушает законы физики?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-04</i>
+  </div>
+</div><!--n:КОМЕТА 3i ATLAS нарушает законы физики:s:129438:e:612-->
+<!----><!--2025-10-28 06:51:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/novoe_foto_3i_atlas_vyzvalo_spory_kogda_nlo_skrylsya_za_solncem_i_ushel_s_uskoreniem_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/l6abz7ovVyI" src="https://i1.ytimg.com/vi/l6abz7ovVyI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/novoe_foto_3i_atlas_vyzvalo_spory_kogda_nlo_skrylsya_za_solncem_i_ushel_s_uskoreniem_zapis_strima">Новое фото 3I ATLAS вызвало споры когда НЛО скрылся за Солнцем и ушёл с ускорением  ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-28</i>
+  </div>
+</div><!--n:Новое фото 3I ATLAS вызвало споры когда НЛО скрылся за Солнцем и ушёл с ускорением ЗАПИСЬ СТРИМА:s:130139:e:833-->
+<!----><!--2024-11-17 10:55:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dnevnik_gostya_iz_budushchego_najden_v_jirnovske">
+    <img class="preview" data-videoid="paF-FuxkyYI" src="https://i1.ytimg.com/vi/paF-FuxkyYI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/dnevnik_gostya_iz_budushchego_najden_v_jirnovske">Дневник гостя из будущего найден в Жирновске?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Дневник гостя из будущего найден в Жирновске:s:131166:e:614-->
+<!----><!--2025-10-27 16:14:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ischeznovenie_kadrov_solnca_sovpalo_s_traektoriej_3i_atlas_zapis_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/Fe2GPj4Ymk8" src="https://i3.ytimg.com/vi/Fe2GPj4Ymk8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ischeznovenie_kadrov_solnca_sovpalo_s_traektoriej_3i_atlas_zapis_strima">Исчезновение кадров Солнца совпало с траекторией 3I ATLAS  ЗАПИСЬ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-27</i>
+  </div>
+</div><!--n:Исчезновение кадров Солнца совпало с траекторией 3I ATLAS ЗАПИСЬ СТРИМА:s:131887:e:738-->
+<!----><!--2024-11-08 18:45:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/donald_tramp_i_nikola_tesla_sekrety_sposobnye_izmenit_hod_istorii">
+    <img class="preview" data-videoid="kyy3jTI0CGs" src="https://i4.ytimg.com/vi/kyy3jTI0CGs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/donald_tramp_i_nikola_tesla_sekrety_sposobnye_izmenit_hod_istorii">Дональд Трамп и Никола Тесла: Секреты способные изменить...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-08</i>
+  </div>
+</div><!--n:Дональд Трамп и Никола Тесла Секреты способные изменить ход истории:s:132776:e:672-->
+<!----><!--2025-10-24 15:38:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/prorochestva_ne_spasut_3i_atlas_nlo_izmenil_kurs_i_uskoryaetsya_a_iz_seti_propali_zapisi_solnca">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/2_v-EoH7HJ8" src="https://i3.ytimg.com/vi/2_v-EoH7HJ8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/prorochestva_ne_spasut_3i_atlas_nlo_izmenil_kurs_i_uskoryaetsya_a_iz_seti_propali_zapisi_solnca">ПРОРОЧЕСТВА НЕ СПАСУТ 3i ATLAS. НЛО изменил курс и ускоряется, а из сети пропали записи Солнца</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-24</i>
+  </div>
+</div><!--n:ПРОРОЧЕСТВА НЕ СПАСУТ 3i ATLAS НЛО изменил курс и ускоряется а из сети пропали записи Солнца:s:133598:e:823-->
+<!----><!--2024-10-22 19:33:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/mikrochip_v_cherepe_vozrastom_12_000_let_drevnie_tehnologii_ili_nlo">
+    <img class="preview" data-videoid="WRyruwdE0XM" src="https://i4.ytimg.com/vi/WRyruwdE0XM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/mikrochip_v_cherepe_vozrastom_12_000_let_drevnie_tehnologii_ili_nlo">Микрочип в черепе возрастом 12,000 лет?! Древние технологии...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Микрочип в черепе возрастом 12 000 лет Древние технологии или НЛО:s:134608:e:675-->
+<!----><!--2025-08-07 07:42:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_skryvaet_kosmicheskij_obekt_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/bD6qvqn5LOM" src="https://i3.ytimg.com/vi/bD6qvqn5LOM/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_skryvaet_kosmicheskij_obekt_3i_atlas">ЧТО СКРЫВАЕТ космический объект 3I ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ЧТО СКРЫВАЕТ космический объект 3I ATLAS:s:135423:e:619-->
+<!----><!--2025-10-14 12:07:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gigantskoe_nlo_razmerom_s_planetu_poyavilos_ryadom_s_zemlej_na_fone_priblijeniya_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/B6tNTnUVj2A" src="https://i3.ytimg.com/vi/B6tNTnUVj2A/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gigantskoe_nlo_razmerom_s_planetu_poyavilos_ryadom_s_zemlej_na_fone_priblijeniya_3i_atlas">Гигантское НЛО размером с планету появилось рядом с Землей на фоне приближения 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Гигантское НЛО размером с планету появилось рядом с Землей на фоне приближения 3i Atlas:s:136135:e:801-->
+<!----><!--2024-09-24 09:44:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sekretnye_arhivy_vatikana_chto_oni_skryvajut_ot_nas">
+    <img class="preview" data-videoid="rMH0c6Xw7tM" src="https://i3.ytimg.com/vi/rMH0c6Xw7tM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sekretnye_arhivy_vatikana_chto_oni_skryvajut_ot_nas">Секретные архивы Ватикана: что они скрывают от нас?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Секретные архивы Ватикана что они скрывают от нас:s:137115:e:630-->
+<!----><!--2025-08-10 12:49:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/imenno_poetomu_nikto_ne_letaet_nad_tihim_okeanom">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/N5Cmv-HgcaU" src="https://i3.ytimg.com/vi/N5Cmv-HgcaU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/imenno_poetomu_nikto_ne_letaet_nad_tihim_okeanom">ИМЕННО ПОЭТОМУ НИКТО не летает над Тихим Океаном?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-10</i>
+  </div>
+</div><!--n:ИМЕННО ПОЭТОМУ НИКТО не летает над Тихим Океаном:s:137861:e:655-->
+<!----><!--2025-09-10 14:40:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_avstralii_obitajut_dinozavry_a_zabor_avstralii_postroen_dlya_zashchity_ot_krolikov_i_sobak_dingo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gcVSS7-pXuA" src="https://i4.ytimg.com/vi/gcVSS7-pXuA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_avstralii_obitajut_dinozavry_a_zabor_avstralii_postroen_dlya_zashchity_ot_krolikov_i_sobak_dingo">В АВСТРАЛИИ ОБИТАЮТ ДИНОЗАВРЫ? А ЗАБОР АВСТРАЛИИ построен для защиты от кроликов и собак динго?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-10</i>
+  </div>
+</div><!--n:В АВСТРАЛИИ ОБИТАЮТ ДИНОЗАВРЫ А ЗАБОР АВСТРАЛИИ построен для защиты от кроликов и собак динго:s:138630:e:839-->
+<!----><!--2024-07-26 16:08:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/goroda_poligony_i_eshche_nemnogo_strannostej_v_ssha">
+    <img class="preview" data-videoid="qR91BfdoNjQ" src="https://i2.ytimg.com/vi/qR91BfdoNjQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/goroda_poligony_i_eshche_nemnogo_strannostej_v_ssha">Города полигоны и ещё немного странностей в США</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-26</i>
+  </div>
+</div><!--n:Города полигоны и ещё немного странностей в США:s:139666:e:625-->
+<!----><!--2024-11-12 16:30:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_esli_skajem_chto_avstralii_ne_sushchestvuet">
+    <img class="preview" data-videoid="r4Zea0Y_UhI" src="https://i3.ytimg.com/vi/r4Zea0Y_UhI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_esli_skajem_chto_avstralii_ne_sushchestvuet">Что, если скажем, что Австралии не существует</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-12</i>
+  </div>
+</div><!--n:Что если скажем что Австралии не существует:s:140403:e:613-->
+<!----><!--2024-11-10 11:12:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/a_kak_naschet_situacij_kogda_kajetsya_chto_vy_uje_perejivali_to_chto_proishodit_sejchas">
+    <img class="preview" data-videoid="jMbuKGoI-SA" src="https://i3.ytimg.com/vi/jMbuKGoI-SA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/a_kak_naschet_situacij_kogda_kajetsya_chto_vy_uje_perejivali_to_chto_proishodit_sejchas">А как насчёт ситуаций, когда кажется, что вы уже переживали...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:А как насчёт ситуаций когда кажется что вы уже переживали то что происходит сейчас:s:141121:e:719-->
+<!----><!--2025-10-09 15:14:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_kajdye_4_chasa_menyaet_kurs_avi_leb_vnezapno_otkazalsya_ot_versii_o_prishelcah_na_korable_nlo">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/dv_HAQ7GXqI" src="https://i1.ytimg.com/vi/dv_HAQ7GXqI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_kajdye_4_chasa_menyaet_kurs_avi_leb_vnezapno_otkazalsya_ot_versii_o_prishelcah_na_korable_nlo">3I ATLAS КАЖДЫЕ 4 ЧАСА МЕНЯЕТ КУРС? Ави Леб внезапно отказался от версии о пришельцах на корабле НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-09</i>
+  </div>
+</div><!--n:3I ATLAS КАЖДЫЕ 4 ЧАСА МЕНЯЕТ КУРС Ави Леб внезапно отказался от версии о пришельцах на корабле НЛО:s:142016:e:847-->
+<!----><!--2025-10-22 14:18:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nasa_aktivirovali_planetarnuju_oboronu_na_fone_priblijeniya_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/VTuh1fb7-30" src="https://i3.ytimg.com/vi/VTuh1fb7-30/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nasa_aktivirovali_planetarnuju_oboronu_na_fone_priblijeniya_3i_atlas">НАСА АКТИВИРОВАЛИ ПЛАНЕТАРНУЮ ОБОРОНУ НА ФОНЕ ПРИБЛИЖЕНИЯ 3i ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-22</i>
+  </div>
+</div><!--n:НАСА АКТИВИРОВАЛИ ПЛАНЕТАРНУЮ ОБОРОНУ НА ФОНЕ ПРИБЛИЖЕНИЯ 3i ATLAS:s:143061:e:722-->
+<!----><!--2024-11-12 16:31:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/avstraliya_nastoyashchaya_zagadka_kotoraya_delit_mir_na_teh_kto_v_nee_verit_i_teh_kto_somnevaetsya">
+    <img class="preview" data-videoid="p1MUqr0FFRo" src="https://i1.ytimg.com/vi/p1MUqr0FFRo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/avstraliya_nastoyashchaya_zagadka_kotoraya_delit_mir_na_teh_kto_v_nee_verit_i_teh_kto_somnevaetsya">Австралия — настоящая загадка, которая делит мир на тех,...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-12</i>
+  </div>
+</div><!--n:Австралия настоящая загадка которая делит мир на тех кто в неё верит и тех кто сомневается:s:143925:e:737-->
+<!----><!--2024-10-23 22:21:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/realnyj_goblin_nazad_v_budushchee_aktivnost_solnca_koshki_podslushivajut_zagadki_mozga_strim">
+    <img class="preview" data-videoid="xcTw3J8tDlg" src="https://i1.ytimg.com/vi/xcTw3J8tDlg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/realnyj_goblin_nazad_v_budushchee_aktivnost_solnca_koshki_podslushivajut_zagadki_mozga_strim">Реальный Гоблин? / «Назад в будущее» / Активность Солнца /...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-23</i>
+  </div>
+</div><!--n:Реальный Гоблин Назад в будущее Активность Солнца Кошки Подслушивают Загадки Мозга СТРИМ:s:144852:e:725-->
+<!----><!--2024-11-17 10:52:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sdvoennye_chisla_na_chasah_sluchajnost_ili_signal_iz_parallelnoj_vselennoj">
+    <img class="preview" data-videoid="5HgSrkclhdo" src="https://i2.ytimg.com/vi/5HgSrkclhdo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sdvoennye_chisla_na_chasah_sluchajnost_ili_signal_iz_parallelnoj_vselennoj">Сдвоенные числа на часах — случайность или сигнал из...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Сдвоенные числа на часах случайность или сигнал из параллельной вселенной:s:145767:e:683-->
+<!----><!--2024-11-09 18:26:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/slyshal_o_sboyah_v_matrice_nedavno_v_avstralii_fiksirovalis_strannye_radiosignaly">
+    <img class="preview" data-videoid="fokOJYhyXSg" src="https://i3.ytimg.com/vi/fokOJYhyXSg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/slyshal_o_sboyah_v_matrice_nedavno_v_avstralii_fiksirovalis_strannye_radiosignaly">Слышал о сбоях в матрице? Недавно в Австралии фиксировались...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:Слышал о сбоях в матрице Недавно в Австралии фиксировались странные радиосигналы:s:146612:e:709-->
+<!----><!--2024-11-10 16:35:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nekotorye_schitajut_chto_ledyanaya_stena_v_antarktide_eto_vsego_lish_odin_iz_sposobov_otvlech_nas">
+    <img class="preview" data-videoid="qfnd4zKWgPA" src="https://i2.ytimg.com/vi/qfnd4zKWgPA/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/nekotorye_schitajut_chto_ledyanaya_stena_v_antarktide_eto_vsego_lish_odin_iz_sposobov_otvlech_nas">Некоторые считают, что ледяная стена в Антарктиде — это всег...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Некоторые считают что ледяная стена в Антарктиде это всего лишь один из способов отвлечь нас:s:147496:e:743-->
+<!----><!--2025-09-02 16:32:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/strannyj_kadr_3iatlas_iz_novostnogo_efira_dobavil_bolshe_sporov_o_tom_chto_priletit_k_nam_v_noyabre">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/uNQUekM5y00" src="https://i2.ytimg.com/vi/uNQUekM5y00/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/strannyj_kadr_3iatlas_iz_novostnogo_efira_dobavil_bolshe_sporov_o_tom_chto_priletit_k_nam_v_noyabre">СТРАННЫЙ КАДР 3iATLAS ИЗ НОВОСТНОГО ЭФИРА добавил больше споров о том ЧТО ПРИЛЕТИТ К НАМ В НОЯБРЕ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-02</i>
+  </div>
+</div><!--n:СТРАННЫЙ КАДР 3iATLAS ИЗ НОВОСТНОГО ЭФИРА добавил больше споров о том ЧТО ПРИЛЕТИТ К НАМ В НОЯБРЕ:s:148434:e:838-->
+<!----><!--2024-09-24 09:45:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zagadochnoe_sushchestvo_v_peshcherah_shahtery_zasnyali_nechto_strannoe_na_video">
+    <img class="preview" data-videoid="LYBE87jN1ko" src="https://i1.ytimg.com/vi/LYBE87jN1ko/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zagadochnoe_sushchestvo_v_peshcherah_shahtery_zasnyali_nechto_strannoe_na_video">Загадочное существо в пещерах! Шахтёры засняли нечто странно...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Загадочное существо в пещерах Шахтёры засняли нечто странное на видео:s:149468:e:708-->
+<!----><!--2025-09-02 17:35:30-->Скрытые тайны нашей планеты в подборках блогеров<!--n:about:s:150330:e:123-->
+<!----><!--2025-08-05 19:00:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/6_most_disturbing_camping_encounters_that_will_make_you_afraid_of_it">
+    <img class="preview" data-videoid="_CXUkefCE6g" src="https://i4.ytimg.com/vi/_CXUkefCE6g/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/6_most_disturbing_camping_encounters_that_will_make_you_afraid_of_it">6 Most DISTURBING Camping Encounters That Will Make You...</a><br>
+    <i class="smaller2">CreepyVids</i><br>
+    <i class="smaller3">2025-08-05</i>
+  </div>
+</div><!--n:6 Most DISTURBING Camping Encounters That Will Make You AFRAID Of It:s:150483:e:613-->
+<!----><!--2025-10-31 15:18:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/iskusstvennyj_intellekt_pokazal_foto_3i_atlas_i_ono_okazalos_pugajushche_realistichnym">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/F1SYTGeNNNY" src="https://i3.ytimg.com/vi/F1SYTGeNNNY/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/iskusstvennyj_intellekt_pokazal_foto_3i_atlas_i_ono_okazalos_pugajushche_realistichnym">Искусственный интеллект показал ФОТО 3I ATLAS и ОНО оказалось пугающе реалистичным</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-31</i>
+  </div>
+</div><!--n:Искусственный интеллект показал ФОТО 3I ATLAS и ОНО оказалось пугающе реалистичным:s:151189:e:788-->
+<!----><!--2025-10-14 12:11:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nabljudateli_fiksirujut_rezkuju_manevrennost_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/QpaXgUwOTIc" src="https://i2.ytimg.com/vi/QpaXgUwOTIc/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nabljudateli_fiksirujut_rezkuju_manevrennost_3i_atlas">Наблюдатели фиксируют резкую маневренность 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Наблюдатели фиксируют резкую маневренность 3i Atlas:s:152149:e:665-->
+<!----><!--2024-11-10 11:13:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vybor_kotoryj_my_sdelali_kogda-to_mojet_kazatsya_nam_neizmennym">
+    <img class="preview" data-videoid="Qta57RWqxck" src="https://i2.ytimg.com/vi/Qta57RWqxck/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/vybor_kotoryj_my_sdelali_kogda-to_mojet_kazatsya_nam_neizmennym">Выбор, который мы сделали когда-то, может казаться нам...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Выбор который мы сделали когда-то может казаться нам неизменным:s:152929:e:662-->
+<!----><!--2025-09-12 14:51:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/karta_dopotopnoj_zemli_iz_dirijablya_gindenburg_vyzyvaet_slishkom_mnogo_voprosov">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/c8CmLsuxZe4" src="https://i4.ytimg.com/vi/c8CmLsuxZe4/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/karta_dopotopnoj_zemli_iz_dirijablya_gindenburg_vyzyvaet_slishkom_mnogo_voprosov">КАРТА ДОПОТОПНОЙ ЗЕМЛИ из Дирижабля Гинденбург вызывает слишком много вопросов</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-12</i>
+  </div>
+</div><!--n:КАРТА ДОПОТОПНОЙ ЗЕМЛИ из Дирижабля Гинденбург вызывает слишком много вопросов:s:153733:e:776-->
+<!----><!--2025-10-18 14:17:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vesnoj_1973_goda_pod_permju_nashli_povrejdennyj_sostav_s_neobychnym_gruzom">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/AKpRm24FjhA" src="https://i2.ytimg.com/vi/AKpRm24FjhA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/vesnoj_1973_goda_pod_permju_nashli_povrejdennyj_sostav_s_neobychnym_gruzom">Весной 1973 года под Пермью нашли повреждённый состав с необычным грузом</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-18</i>
+  </div>
+</div><!--n:Весной 1973 года под Пермью нашли повреждённый состав с необычным грузом:s:154681:e:747-->
+<!----><!--2025-10-23 09:59:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/prishelec_ippolit_rugaetsya_chto_propil_karbjurator_i_ne_smojet_perehvatit_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gRFz1Pi8aKk" src="https://i4.ytimg.com/vi/gRFz1Pi8aKk/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/prishelec_ippolit_rugaetsya_chto_propil_karbjurator_i_ne_smojet_perehvatit_3i_atlas">Пришелец Ипполит ругается что пропил карбюратор и не сможет перехватить 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-23</i>
+  </div>
+</div><!--n:Пришелец Ипполит ругается что пропил карбюратор и не сможет перехватить 3i Atlas:s:155583:e:777-->
+<!----><!--2024-11-17 10:54:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zapiski_cheloveka_iz_23_veka_-_chto_govorit_dnevnik_puteshestvennika_vo_vremeni">
+    <img class="preview" data-videoid="JG-aM7K8wxM" src="https://i3.ytimg.com/vi/JG-aM7K8wxM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zapiski_cheloveka_iz_23_veka_-_chto_govorit_dnevnik_puteshestvennika_vo_vremeni">Записки человека из 23 века - Что говорит дневник...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Записки человека из 23 века - Что говорит дневник путешественника во времени:s:156527:e:683-->
+<!----><!--2025-10-14 12:10:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/astronomy_nabljudajut_za_gigantskim_hvostom_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ggF5YM8J2-4" src="https://i4.ytimg.com/vi/ggF5YM8J2-4/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/astronomy_nabljudajut_za_gigantskim_hvostom_3i_atlas">Астрономы наблюдают за гигантским хвостом 3i Atlas</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Астрономы наблюдают за гигантским хвостом 3i Atlas:s:157373:e:660-->
+<!----><!--2025-10-01 15:36:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/orbita_3i_atlas_mojet_peresechsya_s_zemlej">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/yIjNh1rY7R8" src="https://i2.ytimg.com/vi/yIjNh1rY7R8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/orbita_3i_atlas_mojet_peresechsya_s_zemlej">Орбита 3i ATLAS может пересечься с Землей?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:Орбита 3i ATLAS может пересечься с Землей:s:158145:e:623-->
+<!----><!--2025-08-07 07:43:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gigantskij_nlo_3i_atlas_menyaet_kurs_i_dannye_ob_iskusstvennom_proishojdenii_ischezajut">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/77r1xasJmJU" src="https://i4.ytimg.com/vi/77r1xasJmJU/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gigantskij_nlo_3i_atlas_menyaet_kurs_i_dannye_ob_iskusstvennom_proishojdenii_ischezajut">ГИГАНТСКИЙ НЛО 3i Atlas меняет КУРС и ДАННЫЕ об искусственном происхождении исчезают?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ГИГАНТСКИЙ НЛО 3i Atlas меняет КУРС и ДАННЫЕ об искусственном происхождении исчезают:s:158862:e:794-->
+<!----><!--2024-10-22 19:36:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_eto_za_yarkij_obekt_strannoe_video_s_rossijskogo_korablya">
+    <img class="preview" data-videoid="6P6PwTO6GXI" src="https://i3.ytimg.com/vi/6P6PwTO6GXI/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_eto_za_yarkij_obekt_strannoe_video_s_rossijskogo_korablya">Что это за яркий объект? Странное видео с российского...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Что это за яркий объект Странное видео с российского корабля:s:159831:e:659-->
+<!----><!--2025-10-26 22:23:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_menyaet_kurs_avi_leb_naehal_na_nasa_ischezli_foto_solnechnyh_vspyshek_s_3i_atlas_strim">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/1aoEJuev-DE" src="https://i2.ytimg.com/vi/1aoEJuev-DE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_menyaet_kurs_avi_leb_naehal_na_nasa_ischezli_foto_solnechnyh_vspyshek_s_3i_atlas_strim">3I ATLAS Меняет Курс? // Ави Лёб Наехал на НАСА? // Исчезли Фото Солнечных Вспышек с 3I ATLAS  СТРИМ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-26</i>
+  </div>
+</div><!--n:3I ATLAS Меняет Курс Ави Лёб Наехал на НАСА Исчезли Фото Солнечных Вспышек с 3I ATLAS СТРИМ:s:160626:e:820-->
+<!----><!--2024-08-03 16:06:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zagadochnye_obrazovaniya_na_dne_okeana_v_vide_setki_sushchestvujut_i_na_sushe">
+    <img class="preview" data-videoid="fnGUqWtMHAE" src="https://i3.ytimg.com/vi/fnGUqWtMHAE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/zagadochnye_obrazovaniya_na_dne_okeana_v_vide_setki_sushchestvujut_i_na_sushe">Загадочные образования на дне Океана в виде сетки...</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-08-03</i>
+  </div>
+</div><!--n:Загадочные образования на дне Океана в виде сетки существуют и на суше:s:161623:e:684-->
+<!----><!--2025-03-17 17:52:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/daje_uchenye_pytajutsya_skryt_eto_mesto_ot_turistov">
+    <img class="preview" data-videoid="Z3iboQFbFXY" src="https://i3.ytimg.com/vi/Z3iboQFbFXY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/daje_uchenye_pytajutsya_skryt_eto_mesto_ot_turistov">Даже учёные пытаются скрыть это место от туристов</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2025-03-17</i>
+  </div>
+</div><!--n:Даже учёные пытаются скрыть это место от туристов:s:162461:e:629-->
+<!----><!--2024-11-20 18:52:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_nashel_jak_kusto_v_glubinah_antarktidy_tajna_kotoruju_on_ne_mog_raskryt">
+    <img class="preview" data-videoid="5xqiOjaGY1I" src="https://i2.ytimg.com/vi/5xqiOjaGY1I/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/chto_nashel_jak_kusto_v_glubinah_antarktidy_tajna_kotoruju_on_ne_mog_raskryt">Что нашёл Жак Кусто в глубинах Антарктиды? Тайна, которую...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-20</i>
+  </div>
+</div><!--n:Что нашёл Жак Кусто в глубинах Антарктиды Тайна которую он не мог раскрыть:s:163206:e:694-->
+<!----><!--2024-08-10 15:50:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gory_kotorye_mojno_poprobovat_na_vkus">
+    <img class="preview" data-videoid="mPHsQFiZzQ8" src="https://i2.ytimg.com/vi/mPHsQFiZzQ8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/gory_kotorye_mojno_poprobovat_na_vkus">Горы  которые можно попробовать на вкус</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-08-10</i>
+  </div>
+</div><!--n:Горы которые можно попробовать на вкус:s:164061:e:582-->
+<!----><!--2024-10-22 19:39:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/video_s_marsa_marsohod_zasnyal_muhu_chto_proishodit">
+    <img class="preview" data-videoid="6IKSF-LllC4" src="https://i3.ytimg.com/vi/6IKSF-LllC4/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/video_s_marsa_marsohod_zasnyal_muhu_chto_proishodit">Видео с Марса: марсоход заснял муху?! Что происходит?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Видео с Марса марсоход заснял муху Что происходит:s:164739:e:632-->
+<!----><!--2025-10-18 14:14:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/arhivnaya_fotografiya_zemli_1972_goda_vyzyvaet_spory">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/wBj0rwGiUR8" src="https://i4.ytimg.com/vi/wBj0rwGiUR8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/arhivnaya_fotografiya_zemli_1972_goda_vyzyvaet_spory">Архивная фотография Земли 1972 года вызывает споры</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-18</i>
+  </div>
+</div><!--n:Архивная фотография Земли 1972 года вызывает споры:s:165487:e:663-->
+<!----><!--2024-09-24 09:49:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/tainstvennaya_hrustalnaya_sfera_ischezla_pryamo_na_glazah_chto_eto_bylo">
+    <img class="preview" data-videoid="Nw6FlR5CxGo" src="https://i3.ytimg.com/vi/Nw6FlR5CxGo/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/tainstvennaya_hrustalnaya_sfera_ischezla_pryamo_na_glazah_chto_eto_bylo">Таинственная хрустальная сфера исчезла прямо на глазах! Что...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Таинственная хрустальная сфера исчезла прямо на глазах Что это было:s:166265:e:690-->
+<!----><!--2025-10-01 15:32:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_imeet_slishkom_mnogo_simmetrii_i_iskusstvennosti_v_svoej_strukture">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/mKtx9EN5cls" src="https://i2.ytimg.com/vi/mKtx9EN5cls/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_imeet_slishkom_mnogo_simmetrii_i_iskusstvennosti_v_svoej_strukture">3i ATLAS имеет слишком много симметрии и искусственности в своей структуре</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-01</i>
+  </div>
+</div><!--n:3i ATLAS имеет слишком много симметрии и искусственности в своей структуре:s:167105:e:750-->
+<!----><!--2025-09-26 10:49:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/armada_nlo_voshla_v_solnechnuju_sistemu_poka_uchenye_prodoljajut_sporit_ob_anomaliyah_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/spU2DHY9R2c" src="https://i4.ytimg.com/vi/spU2DHY9R2c/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/armada_nlo_voshla_v_solnechnuju_sistemu_poka_uchenye_prodoljajut_sporit_ob_anomaliyah_3i_atlas">АРМАДА НЛО ВОШЛА В СОЛНЕЧНУЮ СИСТЕМУ пока ученые продолжают спорить об аномалиях 3i ATLAS?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-26</i>
+  </div>
+</div><!--n:АРМАДА НЛО ВОШЛА В СОЛНЕЧНУЮ СИСТЕМУ пока ученые продолжают спорить об аномалиях 3i ATLAS:s:168011:e:816-->
+<!----><!--2024-10-22 19:35:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/elektrichestvo_v_18_veke_skandalnye_dokazatelstva_alternativnoj_istorii">
+    <img class="preview" data-videoid="LnwD1jw1x_k" src="https://i1.ytimg.com/vi/LnwD1jw1x_k/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/elektrichestvo_v_18_veke_skandalnye_dokazatelstva_alternativnoj_istorii">Электричество в 18 веке? Скандальные доказательства...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Электричество в 18 веке Скандальные доказательства альтернативной истории:s:169010:e:674-->
+<!----><!--2025-01-30 22:42:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/strannaya_dvijuha_v_antarktide_piramidy_i_potop_voda_na_marse_chujaya_luna_podvodnye_nlo_strim">
+    <img class="preview" data-videoid="YfigyeOG4YM" src="https://i2.ytimg.com/vi/YfigyeOG4YM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/strannaya_dvijuha_v_antarktide_piramidy_i_potop_voda_na_marse_chujaya_luna_podvodnye_nlo_strim">Странная Движуха в Антарктиде / Пирамиды и Потоп / Вода на...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2025-01-30</i>
+  </div>
+</div><!--n:Странная Движуха в Антарктиде Пирамиды и Потоп Вода на Марсе Чужая Луна Подводные НЛО СТРИМ:s:169846:e:730-->
+<!----><!--2024-11-10 16:34:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/antarktida_kontinent_o_kotorom_my_znaem_slishkom_malo">
+    <img class="preview" data-videoid="kvVVgFt3Wzs" src="https://i4.ytimg.com/vi/kvVVgFt3Wzs/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/antarktida_kontinent_o_kotorom_my_znaem_slishkom_malo">Антарктида — континент, о котором мы знаем слишком мало</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Антарктида континент о котором мы знаем слишком мало:s:170769:e:643-->
+<!----><!--2024-11-09 18:25:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pomnish_znamenituju_frazu_darta_vejdera_iz_zvezdnyh_vojn_-_ljuk_ya_tvoj_otec">
+    <img class="preview" data-videoid="tv8RZtU8mS8" src="https://i1.ytimg.com/vi/tv8RZtU8mS8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/pomnish_znamenituju_frazu_darta_vejdera_iz_zvezdnyh_vojn_-_ljuk_ya_tvoj_otec">Помнишь знаменитую фразу Дарта Вейдера из Звездных войн -...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:Помнишь знаменитую фразу Дарта Вейдера из Звездных войн - Люк я твой отец:s:171534:e:695-->
+<!----><!--2024-11-10 11:15:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sluchalos_li_vam_chuvstvovat_chto_vy_stali_svidetelem_chego-to_strannogo">
+    <img class="preview" data-videoid="Xbi-UmodzuM" src="https://i1.ytimg.com/vi/Xbi-UmodzuM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/sluchalos_li_vam_chuvstvovat_chto_vy_stali_svidetelem_chego-to_strannogo">Случалось ли вам чувствовать, что вы стали свидетелем чего-т...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Случалось ли вам чувствовать что вы стали свидетелем чего-то странного:s:172387:e:692-->
+<!----><!--2024-08-28 08:17:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/rajker_uebba_podmenili_na_skinvokera">
+    <img class="preview" data-videoid="PjGJ1eJTCw8" src="https://i1.ytimg.com/vi/PjGJ1eJTCw8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/rajker_uebba_podmenili_na_skinvokera">Райкер Уэбба подменили на скинвокера?</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-08-28</i>
+  </div>
+</div><!--n:Райкер Уэбба подменили на скинвокера:s:173234:e:576-->
+<!----><!--2024-11-11 13:11:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/avstraliya_samaya_bolshaya_loj_na_zemle_kak_pravitelstva_i_aviakompanii_vvodyat_nas_v_zablujdenie">
+    <img class="preview" data-videoid="fpQIf-fO8tk" src="https://i3.ytimg.com/vi/fpQIf-fO8tk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/avstraliya_samaya_bolshaya_loj_na_zemle_kak_pravitelstva_i_aviakompanii_vvodyat_nas_v_zablujdenie">Австралия — самая большая ложь на Земле? Как правительства...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-11</i>
+  </div>
+</div><!--n:Австралия самая большая ложь на Земле Как правительства и авиакомпании вводят нас в заблуждение:s:173903:e:740-->
+<!----><!--2025-01-22 23:06:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/piramidy_antarktidy_iskajenie_vremeni_golos_vo_sne_itogi_2024_prognozy_2025_chutok_nlo_strim">
+    <img class="preview" data-videoid="2F-7qhXxQRg" src="https://i3.ytimg.com/vi/2F-7qhXxQRg/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/piramidy_antarktidy_iskajenie_vremeni_golos_vo_sne_itogi_2024_prognozy_2025_chutok_nlo_strim">Пирамиды Антарктиды / Искажение Времени / Голос во Сне /...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2025-01-22</i>
+  </div>
+</div><!--n:Пирамиды Антарктиды Искажение Времени Голос во Сне Итоги 2024 Прогнозы 2025 Чуток НЛО СТРИМ:s:174845:e:722-->
+<!----><!--2025-08-02 13:52:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kitajskij_dajver_projil_5_dnej_pod_vodoj_i_rasskazal_o_sushchestvah_kotorye_emu_pomogli_vyjit">
+    <img class="preview" data-videoid="tsSuba67OkM" src="https://i1.ytimg.com/vi/tsSuba67OkM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kitajskij_dajver_projil_5_dnej_pod_vodoj_i_rasskazal_o_sushchestvah_kotorye_emu_pomogli_vyjit">КИТАЙСКИЙ ДАЙВЕР ПРОЖИЛ 5 ДНЕЙ ПОД ВОДОЙ и рассказал о существах которые ему помогли выжить</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-02</i>
+  </div>
+</div><!--n:КИТАЙСКИЙ ДАЙВЕР ПРОЖИЛ 5 ДНЕЙ ПОД ВОДОЙ и рассказал о существах которые ему помогли выжить:s:175753:e:794-->
+<!----><!--2025-09-08 11:14:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vy_eto_videli_chto-to_strannoe_proishodit_s_nashim_solncem_zapis_tvich_strima">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/u8HvfgdFIjA" src="https://i2.ytimg.com/vi/u8HvfgdFIjA/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/vy_eto_videli_chto-to_strannoe_proishodit_s_nashim_solncem_zapis_tvich_strima">ВЫ ЭТО ВИДЕЛИ? Что-то странное происходит с нашим Солнцем // ЗАПИСЬ ТВИЧ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-08</i>
+  </div>
+</div><!--n:ВЫ ЭТО ВИДЕЛИ Что-то странное происходит с нашим Солнцем ЗАПИСЬ ТВИЧ СТРИМА:s:176739:e:765-->
+<!----><!--2024-11-17 10:58:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/neveroyatnoe_otkrytie_v_jirnovske_-_dnevnik_puteshestvennika_iz_23_veka">
+    <img class="preview" data-videoid="OM2N4S173DY" src="https://i4.ytimg.com/vi/OM2N4S173DY/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/neveroyatnoe_otkrytie_v_jirnovske_-_dnevnik_puteshestvennika_iz_23_veka">Невероятное открытие в Жирновске - Дневник путешественника и...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Невероятное открытие в Жирновске - Дневник путешественника из 23 века:s:177667:e:692-->
+<!----><!--2024-09-29 21:51:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/video_nessi_lico_jeti_novye_video_nlo_prizrachnaya_voda_ischeznuvshij_elektrobus_strim">
+    <img class="preview" data-videoid="f9rXnen7F2Y" src="https://i3.ytimg.com/vi/f9rXnen7F2Y/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/video_nessi_lico_jeti_novye_video_nlo_prizrachnaya_voda_ischeznuvshij_elektrobus_strim">Видео Несси / Лицо Йети / Новые Видео НЛО / Призрачная Вода ...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-29</i>
+  </div>
+</div><!--n:Видео Несси Лицо Йети Новые Видео НЛО Призрачная Вода Исчезнувший Электробус СТРИМ:s:178510:e:715-->
+<!----><!--2024-11-09 18:29:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/jenshchina_s_mobilnym_telefonom_v_filme_1928_goda">
+    <img class="preview" data-videoid="4qbjYrUO8xQ" src="https://i1.ytimg.com/vi/4qbjYrUO8xQ/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/jenshchina_s_mobilnym_telefonom_v_filme_1928_goda">Женщина с мобильным телефоном в фильме 1928 года</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-09</i>
+  </div>
+</div><!--n:Женщина с мобильным телефоном в фильме 1928 года:s:179403:e:618-->
+<!----><!--2025-08-12 16:18:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_proizoshlo_s_izobretatelem_ustrojstva_kotoroe_po_sluham_fiksirovalo_signaly_iz_drugih_izmerenij">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/Vty2dSLKuX4" src="https://i3.ytimg.com/vi/Vty2dSLKuX4/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_proizoshlo_s_izobretatelem_ustrojstva_kotoroe_po_sluham_fiksirovalo_signaly_iz_drugih_izmerenij">Что произошло с изобретателем устройства которое по слухам фиксировало сигналы из других измерений?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-12</i>
+  </div>
+</div><!--n:Что произошло с изобретателем устройства которое по слухам фиксировало сигналы из других измерений:s:180131:e:854-->
+<!----><!--2024-07-16 16:13:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/1000_budd_mayak_v_pustyne_strannye_kanaly">
+    <img class="preview" data-videoid="VnWsvD9wSUM" src="https://i3.ytimg.com/vi/VnWsvD9wSUM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/1000_budd_mayak_v_pustyne_strannye_kanaly">1000 будд   Маяк в пустыне   Странные каналы</a><br>
+    <i class="smaller2">Темная сторона</i><br>
+    <i class="smaller3">2024-07-16</i>
+  </div>
+</div><!--n:1000 будд Маяк в пустыне Странные каналы:s:181194:e:592-->
+<!----><!--2024-09-04 16:38:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/killed_in_ukr_11_11_2024_oni_znali_budushchee_neojidannye_predskazaniya_filmov_terminator">
+    <img class="preview" data-videoid="xS86c5TvikM" src="https://i1.ytimg.com/vi/xS86c5TvikM/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/killed_in_ukr_11_11_2024_oni_znali_budushchee_neojidannye_predskazaniya_filmov_terminator">"Killed in UKR 11.11.2024": Они знали будущее? Неожиданные...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-04</i>
+  </div>
+</div><!--n:Killed in UKR 11 11 2024 Они знали будущее Неожиданные предсказания фильмов Терминатор:s:181881:e:700-->
+<!----><!--2025-10-18 14:11:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_1883_godu_v_arhangelskoj_gubernii_nashli_malchika_kotoryj_znal_slova_samolet_metro_i_radio">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/14-vnIXXBDE" src="https://i2.ytimg.com/vi/14-vnIXXBDE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_1883_godu_v_arhangelskoj_gubernii_nashli_malchika_kotoryj_znal_slova_samolet_metro_i_radio">В 1883 году в Архангельской губернии нашли мальчика, который знал слова «самолёт», «метро» и «радио»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-18</i>
+  </div>
+</div><!--n:В 1883 году в Архангельской губернии нашли мальчика который знал слова самолёт метро и радио:s:182747:e:833-->
+<!----><!--2025-08-07 07:47:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/voyadjer_fiksiruet_strannye_signaly_za_gigantskim_nlo_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/JXUYJb-bHWI" src="https://i3.ytimg.com/vi/JXUYJb-bHWI/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/voyadjer_fiksiruet_strannye_signaly_za_gigantskim_nlo_3i_atlas">ВОЯДЖЕР ФИКСИРУЕТ СТРАННЫЕ СИГНАЛЫ ЗА ГИГАНТСКИМ НЛО 3i ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-08-07</i>
+  </div>
+</div><!--n:ВОЯДЖЕР ФИКСИРУЕТ СТРАННЫЕ СИГНАЛЫ ЗА ГИГАНТСКИМ НЛО 3i ATLAS:s:183771:e:700-->
+<!----><!--2024-10-22 19:26:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/utekshee_video_iz_vatikana_inoplanetnye_giganty_i_levitaciya_pri_stroitelstve_piramid">
+    <img class="preview" data-videoid="mX4FoKf3NNw" src="https://i2.ytimg.com/vi/mX4FoKf3NNw/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/utekshee_video_iz_vatikana_inoplanetnye_giganty_i_levitaciya_pri_stroitelstve_piramid">Утекшее видео из Ватикана: инопланетные гиганты и левитация...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-10-22</i>
+  </div>
+</div><!--n:Утекшее видео из Ватикана инопланетные гиганты и левитация при строительстве пирамид:s:184603:e:718-->
+<!----><!--2024-11-10 16:07:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/antarktida_skryta_ot_nas_ldami_slovno_kto_to_specialno_ogradil_ee_ot_ostalnogo_mira">
+    <img class="preview" data-videoid="SJ3E0aDQC2w" src="https://i4.ytimg.com/vi/SJ3E0aDQC2w/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/antarktida_skryta_ot_nas_ldami_slovno_kto_to_specialno_ogradil_ee_ot_ostalnogo_mira">Антарктида скрыта от нас льдами, словно кто то специально...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-10</i>
+  </div>
+</div><!--n:Антарктида скрыта от нас льдами словно кто то специально оградил её от остального мира:s:185504:e:709-->
+<!----><!--2024-09-24 09:47:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dinozavry_jivy_tainstvennoe_sushchestvo_zasnyali_u_beregov_kalifornii">
+    <img class="preview" data-videoid="hXAzcCUkG_g" src="https://i1.ytimg.com/vi/hXAzcCUkG_g/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/dinozavry_jivy_tainstvennoe_sushchestvo_zasnyali_u_beregov_kalifornii">Динозавры живы?! Таинственное существо засняли у берегов...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-09-24</i>
+  </div>
+</div><!--n:Динозавры живы Таинственное существо засняли у берегов Калифорнии:s:186397:e:680-->
+<!----><!--2025-10-22 18:33:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nasa_aktivirovalo_planetarnuju_oboronu_kogda_3i_atlas_priblizilsya_k_solncu">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/QOJ7b1qPFXQ" src="https://i2.ytimg.com/vi/QOJ7b1qPFXQ/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nasa_aktivirovalo_planetarnuju_oboronu_kogda_3i_atlas_priblizilsya_k_solncu">НАСА активировало планетарную оборону когда 3I ATLAS приблизился к Солнцу</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-22</i>
+  </div>
+</div><!--n:НАСА активировало планетарную оборону когда 3I ATLAS приблизился к Солнцу:s:187225:e:749-->
+<!----><!--2025-09-08 08:20:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sdelal_brauzernuju_igru_na_javascript_bez_znanij_programmirovaniya_dlya_platformy_yandeks_igry">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/ARj1Mc-JjIs" src="https://i2.ytimg.com/vi/ARj1Mc-JjIs/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/sdelal_brauzernuju_igru_na_javascript_bez_znanij_programmirovaniya_dlya_platformy_yandeks_igry">СДЕЛАЛ БРАУЗЕРНУЮ ИГРУ на JavaScript БЕЗ ЗНАНИЙ программирования для платформы Яндекс Игры</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-08</i>
+  </div>
+</div><!--n:СДЕЛАЛ БРАУЗЕРНУЮ ИГРУ на JavaScript БЕЗ ЗНАНИЙ программирования для платформы Яндекс Игры:s:188129:e:816-->
+<!----><!--2025-10-14 11:57:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_avi_leb_ochen_skromno_prokommentiroval_snimki_3i_atlas_ot_eka">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/-U87JIpmPu8" src="https://i2.ytimg.com/vi/-U87JIpmPu8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_avi_leb_ochen_skromno_prokommentiroval_snimki_3i_atlas_ot_eka">Почему Ави Леб очень скромно прокомментировал снимки 3i ATLAS от ЕКА?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-14</i>
+  </div>
+</div><!--n:Почему Ави Леб очень скромно прокомментировал снимки 3i ATLAS от ЕКА:s:189129:e:727-->
+<!----><!--2025-09-23 18:39:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/elita_v_panike_stroit_podzemnyj_bunker_na_fone_priblijeniya_3i_atlas_i_gigantskogo_nlo_swan">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/zgmTrYAAbf8" src="https://i3.ytimg.com/vi/zgmTrYAAbf8/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/elita_v_panike_stroit_podzemnyj_bunker_na_fone_priblijeniya_3i_atlas_i_gigantskogo_nlo_swan">ЭЛИТА В ПАНИКЕ СТРОИТ ПОДЗЕМНЫЙ БУНКЕР на фоне приближения 3i Atlas и ГИГАНТСКОГО НЛО SWAN?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-23</i>
+  </div>
+</div><!--n:ЭЛИТА В ПАНИКЕ СТРОИТ ПОДЗЕМНЫЙ БУНКЕР на фоне приближения 3i Atlas и ГИГАНТСКОГО НЛО SWAN:s:190000:e:807-->
+<!----><!--2025-09-21 11:15:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gigantskij_nlo_swan_v_100_raz_bolshe_korablya_3i_atlas_stremitelno_priblijaetsya_k_zemle">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/-0aIt6rmfKE" src="https://i2.ytimg.com/vi/-0aIt6rmfKE/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gigantskij_nlo_swan_v_100_raz_bolshe_korablya_3i_atlas_stremitelno_priblijaetsya_k_zemle">ГИГАНТСКИЙ НЛО SWAN В 100 РАЗ БОЛЬШЕ КОРАБЛЯ 3i ATLAS стремительно приближается к Земле?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-21</i>
+  </div>
+</div><!--n:ГИГАНТСКИЙ НЛО SWAN В 100 РАЗ БОЛЬШЕ КОРАБЛЯ 3i ATLAS стремительно приближается к Земле:s:190987:e:793-->
+<!----><!--2025-10-05 11:08:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto-to_gigantskoe_pritashchili_k_zemle_dlya_zashchity_ot_3i_atlas">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/KM7gtTK8YO0" src="https://i4.ytimg.com/vi/KM7gtTK8YO0/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto-to_gigantskoe_pritashchili_k_zemle_dlya_zashchity_ot_3i_atlas">Что-то ГИГАНТСКОЕ ПРИТАЩИЛИ К ЗЕМЛЕ для ЗАЩИТЫ от 3I ATLAS?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-10-05</i>
+  </div>
+</div><!--n:Что-то ГИГАНТСКОЕ ПРИТАЩИЛИ К ЗЕМЛЕ для ЗАЩИТЫ от 3I ATLAS:s:191952:e:701-->
+<!----><!--2024-11-17 10:55:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dnevnik_iz_budushchego_-_pravda_ili_mif_zapisi_evgeniya_gajduchka">
+    <img class="preview" data-videoid="t493RwuVotE" src="https://i1.ytimg.com/vi/t493RwuVotE/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/dnevnik_iz_budushchego_-_pravda_ili_mif_zapisi_evgeniya_gajduchka">Дневник из будущего - правда или миф? Записи Евгения Гайдучк...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-17</i>
+  </div>
+</div><!--n:Дневник из будущего - правда или миф Записи Евгения Гайдучка:s:192777:e:677-->
+<!----><!--2024-11-16 18:31:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/najden_dnevnik_puteshestvennika_vo_vremeni_pravda_ili_mif_o_cheloveke_iz_23_veka">
+    <img class="preview" data-videoid="WoX5ZoJIKhk" src="https://i4.ytimg.com/vi/WoX5ZoJIKhk/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/najden_dnevnik_puteshestvennika_vo_vremeni_pravda_ili_mif_o_cheloveke_iz_23_veka">Найден дневник ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ! Правда или миф о...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-16</i>
+  </div>
+</div><!--n:Найден дневник ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ Правда или миф о человеке из 23 века:s:193589:e:707-->
+<!----><!--2024-11-07 18:48:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/imperatorskij_pingvin_raskryl_tajnu_skrytogo_materika_mejdu_avstraliej_i_antarktidoj">
+    <img class="preview" data-videoid="1tBMwxgb4a8" src="https://i2.ytimg.com/vi/1tBMwxgb4a8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/imperatorskij_pingvin_raskryl_tajnu_skrytogo_materika_mejdu_avstraliej_i_antarktidoj">Императорский пингвин раскрыл тайну скрытого материка между...</a><br>
+    <i class="smaller2">Свидетель Windows</i><br>
+    <i class="smaller3">2024-11-07</i>
+  </div>
+</div><!--n:Императорский пингвин раскрыл тайну скрытого материка между Австралией и Антарктидой:s:194463:e:718-->
+<!----><!--2025-09-29 06:38:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/derjim_v_rukah_gta_6_i_zalezaem_v_arhivy_vatikana_nashel_puteshestvennika_vo_vremeni_iz_2500_goda">
+    <img class="preview" data-videoid="https://www.youtube.com/embed/gInoN-OO5ug" src="https://i4.ytimg.com/vi/gInoN-OO5ug/hqdefault.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/derjim_v_rukah_gta_6_i_zalezaem_v_arhivy_vatikana_nashel_puteshestvennika_vo_vremeni_iz_2500_goda">ДЕРЖИМ В РУКАХ GTA 6 и залезаем в Архивы Ватикана? Нашел ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ из 2500 года?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2025-09-29</i>
+  </div>
+</div><!--n:ДЕРЖИМ В РУКАХ GTA 6 и залезаем в Архивы Ватикана Нашел ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ из 2500 года:s:195365:e:831-->
+<!----><!--2025-07-29 19:00:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/6_most_disturbing_camping_encounters_ever_caught_on_camera">
+    <img class="preview" data-videoid="8RvDqYFSyy8" src="https://i1.ytimg.com/vi/8RvDqYFSyy8/hqdefault.jpg" align="middle" alt="">
+  </a>
+  <div class="inlbl text">
+    <a class="nodecor" href="/index.html?tajny/6_most_disturbing_camping_encounters_ever_caught_on_camera">6 Most DISTURBING Camping Encounters Ever Caught On Camera</a><br>
+    <i class="smaller2">CreepyVids</i><br>
+    <i class="smaller3">2025-07-29</i>
+  </div>
+</div><!--n:6 Most DISTURBING Camping Encounters Ever Caught On Camera:s:196387:e:593-->
