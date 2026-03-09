@@ -1,5 +1,4 @@
 https://egax.ru/foto.html?cerkvi
-https://egax.ru/foto.html?cerkvi/about
 https://egax.ru/foto.html?cerkvi/dunilovo_ivanovskaya_oblast
 https://egax.ru/foto.html?cerkvi/kiji_kareliya
 https://egax.ru/foto.html?cerkvi/kiji_muzej_ijun_2010g
@@ -149,7 +148,6 @@ https://egax.ru/foto/Природа/Цветок синюха. Август 2017
 https://egax.ru/foto/Природа/Цветочек синенький. Июль 2016г.jpg
 https://egax.ru/foto/Природа/Цветущее дерево в Милицейском поселке. Май 2023г.jpg
 https://egax.ru/foto/Разные/Как правильно заваривать чай.jpg
-https://egax.ru/foto/Церкви/about.jpg
 https://egax.ru/foto/Церкви/Вологда. Софийский собор.jpg
 https://egax.ru/foto/Церкви/Дунилово. Ивановская область.jpg
 https://egax.ru/foto/Церкви/Кижи. Карелия.jpg

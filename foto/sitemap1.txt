@@ -1,5 +1,4 @@
 https://egaxegax.github.io/foto.html?cerkvi
-https://egaxegax.github.io/foto.html?cerkvi/about
 https://egaxegax.github.io/foto.html?cerkvi/dunilovo_ivanovskaya_oblast
 https://egaxegax.github.io/foto.html?cerkvi/kiji_kareliya
 https://egaxegax.github.io/foto.html?cerkvi/kiji_muzej_ijun_2010g
@@ -149,7 +148,6 @@ https://egaxegax.github.io/foto/Природа/Цветок синюха. Авг
 https://egaxegax.github.io/foto/Природа/Цветочек синенький. Июль 2016г.jpg
 https://egaxegax.github.io/foto/Природа/Цветущее дерево в Милицейском поселке. Май 2023г.jpg
 https://egaxegax.github.io/foto/Разные/Как правильно заваривать чай.jpg
-https://egaxegax.github.io/foto/Церкви/about.jpg
 https://egaxegax.github.io/foto/Церкви/Вологда. Софийский собор.jpg
 https://egaxegax.github.io/foto/Церкви/Дунилово. Ивановская область.jpg
 https://egaxegax.github.io/foto/Церкви/Кижи. Карелия.jpg

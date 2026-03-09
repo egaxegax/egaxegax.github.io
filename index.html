@@ -126,7 +126,7 @@
           range = page.titles[i][1];
       document.getElementById('page_content').innerHTML += 
     '<div id="post'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      fetchPart({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, root: root, subj: subj, title: page.titles[i], doctitle: page.doctitle, url: '/posts/'+root+'/'+subj+'/README', offset: range[0]+7, length: range[1]-8}, function(r,p,st){
+      fetchPart({id: 'post'+(i+page.bottom), view: page.view, i: i+page.bottom, if: i==0, root: root, subj: subj, title: page.titles[i], doctitle: page.doctitle, url: '/posts/'+root+'/'+subj+'/README.md', offset: range[0]+7, length: range[1]-8}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 206) { // skip Not Found pages

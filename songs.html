@@ -72,7 +72,7 @@
     '</table>'+
   '</div>';
   TITLES.filter(function(tit){ return (tit[0] == p.title[0]) && (tit[4] == p.title[4]) && (tit[2] == 'about'); }).map(function(item){
-    fetchPart({url: '/songs/'+p.root+'/'+p.subj+'/README', offset: item[1][0]+7, length: item[1][1]-8}, function(r,p1,st){
+    fetchPart({url: '/songs/'+p.root+'/'+p.subj+'/README.md', offset: item[1][0]+7, length: item[1][1]-8}, function(r,p1,st){
         if(st=(r.match(/<!--cover:([^>]*)-->/) || ['',''])[1]) document.getElementById('im'+p.i).src = 'data:image/jpeg;base64,'+st;
         if(st=(r.match(new RegExp('<!--'+ tr(p.title[2]) +':([^>]*)-->')) || ['',''])[1]) document.getElementById(tr(p.subj)+'_'+tr(p.title[2])).innerHTML += '<audio class="vmid rounded5 rfloat" controls src="//data.zvu4no.org/play-track/'+st+'" style="height:24px;width:240px"></audio>';
       });
@@ -193,7 +193,7 @@
           range = page.titles[i][1];
       document.getElementById('page_content').innerHTML += 
     '<div id="song'+(i+page.bottom)+'">'+addLoader(i==0)+'</div>';
-      fetchPart({id: 'song'+(i+page.bottom), if: i==1, i: i+page.bottom, root: root, subj: subj, range: range, title: page.titles[i], doctitle: page.doctitle, url: '/songs/'+root+'/'+subj+'/README', offset: range[0]+7, length: range[1]-8}, function(r,p,st){
+      fetchPart({id: 'song'+(i+page.bottom), if: i==1, i: i+page.bottom, root: root, subj: subj, range: range, title: page.titles[i], doctitle: page.doctitle, url: '/songs/'+root+'/'+subj+'/README.md', offset: range[0]+7, length: range[1]-8}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
         if(st == 206) { // skip Not Found pages

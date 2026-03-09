@@ -49,7 +49,7 @@ def addimgtomd(impath, mdpath):
 def addmdtoreadme(mdpath, ftime=''):
   name, ext = os.path.splitext(os.path.basename(mdpath))
   cont = open(mdpath).read()
-  readme = os.path.join(os.path.dirname(mdpath), 'README')
+  readme = os.path.join(os.path.dirname(mdpath), 'README.md')
   if os.path.exists(readme):
     with open(readme) as f:
       if '<!--n:'+ name +':' in f.read(): 
@@ -65,7 +65,7 @@ def addmdtoreadme(mdpath, ftime=''):
 
 def addimgtoreadme(impath, ftime=''):
   name, ext = os.path.splitext(os.path.basename(impath))
-  readme = os.path.join(os.path.dirname(impath), 'README')
+  readme = os.path.join(os.path.dirname(impath), 'README.md')
   if os.path.exists(readme):
     with open(readme) as f:
       if '<!--n:'+ name +':' in f.read(): 
@@ -137,30 +137,31 @@ def main(path='.'):
         if subj == 'th': # skip preview
           addskipped(subj)
           continue
-        else:
+        # try:
+        #   import locale
+        #   sdate = name.split('.')
+        #   sdate = sdate[len(sdate) - 2].strip().split(' ')
+        #   sdate = sdate[0][:3] + ' ' + sdate[1]
+        #   locale.setlocale(locale.LC_TIME, 'ru_RU.UTF-8')
+        #   ftime = time.mktime(time.strptime(sdate, '%b %Yг'))
+        # except:
+        #   print('err', root, name)
+        #   raise
+        try:
           from PIL import Image, ImageOps
           from PIL.ExifTags import TAGS
-          import locale
           im = Image.open(os.path.join(root, name))
           exifs = im._getexif()
           if exifs and exifs.get(306):    # DateTime exists
             ftime = time.mktime(time.strptime(exifs.get(306), '%Y:%m:%d %H:%M:%S'))
-          else:
-            try:
-              sdate = name.split('.')
-              sdate = sdate[len(sdate) - 2].strip().split(' ')
-              sdate = sdate[0][:3] + ' ' + sdate[1]
-              locale.setlocale(locale.LC_TIME, 'ru_RU.UTF-8')
-              ftime = time.mktime(time.strptime(sdate, '%b %Yг'))
-            except:
-              print('err', root, name)
-              raise
           if not os.path.exists(os.path.join(root, 'th', fname+'.jpg')): # thumbnails
             im_th = ImageOps.exif_transpose(im)
             im_th.thumbnail((800,600))
             if not os.path.exists(os.path.join(root, 'th')):
               os.mkdir(os.path.join(root, 'th'))
             im_th.save(os.path.join(root, 'th', fname+'.jpg') , "JPEG")
+        except:
+          print(*sys.exc_info())
         ftime = '<!--'+ time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime)) +'-->'
         addimgtoreadme(os.path.join(root, name), ftime)
       elif cwd in ('books', 'posts', 'songs', 'foto') and ext in ('.md',):

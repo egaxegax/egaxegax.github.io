@@ -63,7 +63,7 @@ def main(path='.', dir='.'):
 
     for name in files:
       print(name, 'cwd', cwd)
-      if name in ('README',) and cwd in ('books', 'foto', 'posts', 'songs'):
+      if name in ('README.md',) and cwd in ('books', 'foto', 'posts', 'songs'):
         with open(os.path.join(root, name)) as f:
           for item in [item for item in re.split('<!---->', f.read()) if item]:
             m = re.search(r'<!--n:(.+):s:(\d+):e:(\d+)-->', item)
