@@ -105,6 +105,9 @@ def main(path='.'):
       roots = os.path.basename(os.path.dirname(root))
       subj = os.path.basename(root)
 
+      if root == path:
+        continue
+
       if 'sitemap' in name or 'README' in name:
         addskipped(name)
         continue
@@ -180,7 +183,7 @@ def main(path='.'):
       roots = os.path.basename(os.path.dirname(root))
       subj = os.path.basename(root)
 
-      if roots in ('.', ''):
+      if root == path:
         continue
 
       if 'README' in name and cwd in ('books', 'posts', 'songs', 'foto'):
@@ -227,7 +230,7 @@ def main(path='.'):
     murls[iroot] += [surl +'/'+ sdir +'.html?'+ tr(f[1])+'/'+tr(f[2])]
     if sdir == 'foto':
       murls[iroot] += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
-  print( '/', cwd, '\nUpdated:', len(mfiles), '\nAdded:', len(added), '\nSkipped:', tuple(k+':'+str(v) for k,v in skipped.items()) )
+  print( '\n===', cwd, '===\nUpdated:', len(mfiles), '\nAdded:', len(added), '\nSkipped:', tuple(k+':'+str(v) for k,v in skipped.items()) )
 
   mroots_s = sorted(mroots)
   msubj_s = sorted(msubj)

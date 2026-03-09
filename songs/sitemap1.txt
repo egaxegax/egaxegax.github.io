@@ -3214,6 +3214,8 @@ https://egaxegax.github.io/songs.html?bap/wo_mer_endlich_sommer_han
 https://egaxegax.github.io/songs.html?bap/wofuer
 https://egaxegax.github.io/songs.html?barbarians
 https://egaxegax.github.io/songs.html?barbarians/moulty
+https://egaxegax.github.io/songs.html?bardy
+https://egaxegax.github.io/songs.html?bardy/about
 https://egaxegax.github.io/songs.html?barenaked_ladies
 https://egaxegax.github.io/songs.html?barenaked_ladies/a
 https://egaxegax.github.io/songs.html?barenaked_ladies/about
@@ -17778,6 +17780,7 @@ https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/california_promise
 https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/dve_svechi
 https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/moscow_calling
 https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/ocean
+https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/peace_in_our_time
 https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/stranger
 https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/tell_me_why
 https://egaxegax.github.io/songs.html?park_gorkogo_gorky_park/two_candles

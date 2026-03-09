@@ -243,7 +243,7 @@
           PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
           PAGE.about = TITLES.filter(function(tit){ return (tit[0] == PAGE.songs[0][0]) && (tit[4] == PAGE.songs[0][4]) && (tit[2] == 'about'); });
           PAGE.songs = PAGE.about.concat(PAGE.songs); // +about page
-          PAGE.header = '<div class="large tcell vmid"><h1><a class="nodecor" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a><i class="hspace light">('+ PAGE.songs.length+')</i><i class="gray smaller">'+ROOTS[SUBJ[PAGE.songs[0][0]][3]][0]+'</i></h1></div>';
+          PAGE.header = '<div class="tcell vmid"><h1><a class="nodecor large" href="/songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a><i class="hspace dark">('+ PAGE.songs.length+')</i><i class="gray smaller">'+ROOTS[SUBJ[PAGE.songs[0][0]][3]][0]+'</i></h1></div>';
           PAGE.doctitle = SUBJ[PAGE.songs[0][0]][0] + ', песни, тексты - ' + document.title;
           PAGE.view = 'list';
           PAGE.per = 20;

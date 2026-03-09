@@ -13,7 +13,7 @@
 <link rel="icon" href="/static/img/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/css/main.css?260225">
 <link rel="stylesheet" href="/static/css/markdown.css">
-<link rel="stylesheet" href="/static/css/posts.css?260206">
+<link rel="stylesheet" href="/static/css/posts.dark.css?260308">
 <script src="/static/js/template.js?260221"></script>
 <script src="/static/js/metrics.js?260214"></script>
 <script src="/static/js/3rdparty/showdown.min.js"></script>
@@ -67,21 +67,24 @@
           .replace(/src="\.\//g, 'src="'+p.url+'/../') // fix img url to absolute
           .replace('<img ', `<img onerror="this.style.display='none'" `) // fix empty img
           .replace('hqdefault.jpg', 'mqdefault.jpg');  // fix youtube 16:9 img size
-    if(p.if) {
+    if(p.if){
       updateMetaTag('description', trstr(html.replace(/&nbsp;/g,' ').replace(/(<([^>]+)>)/gi,'').slice(0,512), '.,') + ' ' + (urlParams().page||''));
       updateMetaTag('keywords', buildSubPath(ROOTS, SUBJ, p.title[0]) +', '+ p.title[2] +', читать, смотреть, видео, посты, статьи');
     }
-    if(p.view == 'post' && html.search('data-videoid')>-1 && 
-        (html.search('data-adult') == -1 || confirm("Взрослый контент. Если вам меньше 18 лет покиньте её. Продолжить?")))
-    {
-      html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
-        '<iframe class="embed" align="middle" '+
-          'src="'+((html.match(/data-videoid="([^"]+)"/) || []).pop() || '')+'" '+
-          'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" '+
-          'allowfullscreen>'+
-        '</iframe>'
-      );
-      html = html.replace('<div class="inlbl text">', '<div class="inlbl text" style="max-width:100%">');
+    if(p.view == 'last' && (html.search('data-adult') > -1)){
+      html = '<p><a class="nodecor hspace gray" href="/index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"><em>Взрослый контент. Подтвердите возраст чтобы открыть страницу.</em></a></p>';
+    }
+    if((p.if && (html.search('data-adult') == -1 || confirm("Взрослый контент. Если вам меньше 18 лет покиньте её. Продолжить?"))) || 1){
+      if(p.view == 'post' && html.search('data-videoid')>-1) {
+        html = html.replace(/<a(.*)>\s*<img.*>\s*<\/a>\s*/ig, 
+          '<iframe class="embed" align="middle" '+
+            'src="'+((html.match(/data-videoid="([^"]+)"/) || []).pop() || '')+'" '+
+            'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" '+
+            'allowfullscreen>'+
+          '</iframe>'
+        );
+        html = html.replace('<div class="inlbl text">', '<div class="inlbl text" style="max-width:100%">');
+      }
     }
     document.getElementById(p.id).innerHTML = 
   '<div id="msg'+p.i+'" class="inlbl">'+ html +'</div>';

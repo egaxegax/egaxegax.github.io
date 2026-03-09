@@ -179,7 +179,7 @@
           gnr = PAGE.books.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }),// filter by genres
           wrt = PAGE.books.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })  // filter by writer
         )).length){ 
-          PAGE.header = '<div class="large tcell vmid"><h1><a class="nodecor" href="'+(wrt.length ? '/books.html?'+tr(SUBJ[PAGE.books[0][0]][0]) : '') + '">'+(wrt.length ? SUBJ[PAGE.books[0][0]][0] : GENRES[ROOTS[PAGE.books[0][4]][0]]||ROOTS[PAGE.books[0][4]][0])+'</a> &nbsp; <i class="hspaced light">('+PAGE.books.length+')</i></h1></div>';
+          PAGE.header = '<div class="tcell vmid"><h1><a class="nodecor large" href="'+(wrt.length ? '/books.html?'+tr(SUBJ[PAGE.books[0][0]][0]) : '') + '">'+(wrt.length ? SUBJ[PAGE.books[0][0]][0] : GENRES[ROOTS[PAGE.books[0][4]][0]]||ROOTS[PAGE.books[0][4]][0])+'</a> &nbsp; <i class="hspaced dark">('+PAGE.books.length+')</i>&emsp;<a class="nodecor" href="/bwrts.html"><i>Авторы</i></a>&nbsp; <a class="nodecor" href="/bgenres.html"><i>Жанры</i></a></h1></div>';
           PAGE.books = PAGE.books.sort(function(a,b){ return arraySort(a[2],b[2]); });
           PAGE.view = 'list';
           if(gnr.length>0){

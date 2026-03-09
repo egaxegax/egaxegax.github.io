@@ -29,6 +29,7 @@ for hdr, url in RSSlist:
         pdate = item.find('pubDate').text
         link = item.find('link').text
         imurl = item.find('description').text
+        imurl = imurl[imurl.find('src="')+5:imurl.find('"', imurl.find('src="')+5)]
         cat = item.find('category').text
         mtitl = tr_cut(titl)
         if not mtitl: 
@@ -48,11 +49,10 @@ for hdr, url in RSSlist:
           pdt = time.localtime()
         rdate = time.strftime('%Y-%m-%d', pdt)
         ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
-  #       # print('\n', '\n'.join([mtitl, phref, rdate, imurl, authr, videoid]))
         text = """{ctime}
 <div class="yb">
-  <a class="nodecor" href="{phref}">
-    {imurl}
+  <a class="nodecor" href="{link}">
+    <img class="preview" data-adult="1" src="{imurl}" align="left" alt="">
   </a>
   <div class="inlbl text">
     <p><a class="nodecor" href="{phref}">{titl}</a></p>
@@ -60,7 +60,7 @@ for hdr, url in RSSlist:
     <i class="smaller3">{rdate}</i>
   </div>
 </div>
-""".format(ctime=ctime, phref=phref, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 200), cat=cat)
+""".format(ctime=ctime, link=link, phref=phref, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 200), cat=cat)
         if not os.path.exists(os.path.join(cdir, hdr)):
           os.makedirs(os.path.join(cdir, hdr))
         open(os.path.join(cdir, hdr, mtitl + '.md'), 'w', encoding='utf-8', newline='\n').write(text)

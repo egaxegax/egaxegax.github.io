@@ -3214,6 +3214,8 @@ https://egax.ru/songs.html?bap/wo_mer_endlich_sommer_han
 https://egax.ru/songs.html?bap/wofuer
 https://egax.ru/songs.html?barbarians
 https://egax.ru/songs.html?barbarians/moulty
+https://egax.ru/songs.html?bardy
+https://egax.ru/songs.html?bardy/about
 https://egax.ru/songs.html?barenaked_ladies
 https://egax.ru/songs.html?barenaked_ladies/a
 https://egax.ru/songs.html?barenaked_ladies/about
@@ -17778,6 +17780,7 @@ https://egax.ru/songs.html?park_gorkogo_gorky_park/california_promises
 https://egax.ru/songs.html?park_gorkogo_gorky_park/dve_svechi
 https://egax.ru/songs.html?park_gorkogo_gorky_park/moscow_calling
 https://egax.ru/songs.html?park_gorkogo_gorky_park/ocean
+https://egax.ru/songs.html?park_gorkogo_gorky_park/peace_in_our_time
 https://egax.ru/songs.html?park_gorkogo_gorky_park/stranger
 https://egax.ru/songs.html?park_gorkogo_gorky_park/tell_me_why
 https://egax.ru/songs.html?park_gorkogo_gorky_park/two_candles
