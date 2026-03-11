@@ -131,7 +131,7 @@
       fetchPart({id: 'book'+(i+page.bottom), if: i==0, i: (i+page.bottom), root: root, subj: subj, title: page.titles[i], url: '/books/'+root+'/'+subj+'/README.md', offset: range[0]+7, length: range[1]-8}, function(r,p,st){
         var wrap = document.getElementById(p.id);
         wrap.innerHTML = '';
-        if(st == 206) { // skip Not Found pages
+        if(st == 200 || st == 206) { // skip Not Found pages
           wrap.className = 'wrap';
           (p.title[2] == 'about') ? wrap.className += addAbout(r,p) : 
             page.view == 'book' ? addLast(r,p) :

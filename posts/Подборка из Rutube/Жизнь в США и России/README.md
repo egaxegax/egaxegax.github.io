@@ -2078,3 +2078,14 @@
     <i class="smaller3">2026-03-09</i>
   </div>
 </div><!--n:Украинский фронт - рынок нефти рушится Поставки нефти Европейцам Продвижение у Северска 09 03 26:s:203885:e:946-->
+<!----><!--2026-03-10 20:15:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_porajenie_v_irane_otmena_sankcij_na_ros_neft_prodvijenie_vsrf_10_03_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/08d85be5d18ac1d8dcddd1646b9df5d7/" src="http://pic.rtbcdn.ru/video/2026-03-10/5d/a3/5da3d2b22e801b2a5d34d27776962f5a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_porajenie_v_irane_otmena_sankcij_na_ros_neft_prodvijenie_vsrf_10_03_26">Украинский фронт - поражение в Иране. Отмена санкций на рос нефть. Продвижение ВСРФ. 10.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-10</i>
+  </div>
+</div><!--n:Украинский фронт - поражение в Иране Отмена санкций на рос нефть Продвижение ВСРФ 10 03 26:s:205027:e:915-->

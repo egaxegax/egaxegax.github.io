@@ -2,7 +2,7 @@
 #
 # Extract README to .md files in dir.
 #
-# python3 ../updatelist.py <dir> (from books, posts, songs)
+# python3 updatelist.py [dir]
 #
 
 import re, os, sys
@@ -39,7 +39,7 @@ def tr_cut(t):
   """Remove from string cyrillic and special chars"""
   tr = []
   for ch in t:
-    if ch.lower() in r' -_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
+    if ch.lower() in r' ().,-_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
       tr.append( ch )
     else:
       tr.append(' ')
@@ -63,7 +63,7 @@ def main(path='.', cwd='', count=0):
             m = re.search(r'<!--n:(.+):s:(\d+):e:(\d+)-->', item)
             try:    print(root, name, m.group())
             except: print(root, name, '\n', item); raise
-            with open(os.path.join(root, m.group(1)+'.md'), 'w', encoding='utf-8', newline='\n') as ff:
+            with open(os.path.join(root, tr_cut(m.group(1))+'.md'), 'w', encoding='utf-8', newline='\n') as ff:
               ff.write(item[:-(len(m.group())+1)])
             count += 1
         os.remove(os.path.join(root, name))

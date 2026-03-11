@@ -13307,3 +13307,34 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">18:01</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56150117-sobyanin-soobschil-o-vtorom-bpla-sbitom-na-podlete-k-moskve/">Собянин сообщил о втором БПЛА, сбитом на подлете к Москве</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/moscow_city/</div><!--n:260310 0600:s:1530422:e:3870-->
+<!----><h2 class="hspace">Москва на Ср 11 мар 2026 06:00</h2><!--2026-03-10 21:24:43-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:24</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56156834-moskvicham-rasskazali-skolko-prostoit-aprelskaya-pogoda/">Москвичам рассказали, сколько простоит апрельская погода</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:20</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56156708-sinoptik-parshina-nazvala-10-marta-samym-teplym-dnem-v-moskve-s-nachala-goda/">Синоптик Паршина назвала 10 марта самым тёплым днём в Москве с начала года</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:54</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56156279-moskvicham-nazvali-sroki-prihoda-novoy-volny-holodov/">Москвичам назвали сроки прихода новой волны холодов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:22</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56156147-sinoptik-rasskazal-kogda-v-moskvu-pridet-vesennyaya-pogoda/">Синоптик рассказал, когда в Москву придет весенняя погода</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:17</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56156122-sinoptik-shuvalov-rasskazal-kogda-voditelyam-v-moskve-stoit-smenit-zimnyuyu-rezinu/">Синоптик Шувалов рассказал, когда водителям в Москве стоить сменить зимнюю резину</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:01</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56155716-samka-enota-sveta-skonchalas-na-gorodskoy-ferme-vdnh/">Самка енота Света скончалась на «Городской ферме» ВДНХ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:59</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56154447-moskvichey-predupredili-ob-usilenii-vetra-na-fone-teploy-i-solnechnoy-pogody/">Москвичей предупредили об усилении ветра на фоне теплой и солнечной погоды</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:17</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56155591-novyy-krivolineynyy-naves-vozvedut-na-leningradskom-vokzale/">Новый криволинейный навес возведут на Ленинградском вокзале</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:52</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56151225-stalo-izvestno-skolko-prodlilas-meteorologicheskaya-zima-v-moskve/">Стало известно, сколько продлилась метеорологическая зима в Москве</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:58</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56154612-ottepel-sohranitsya-v-moskve-do-ponedelnika-rosgidromet/">Оттепель сохранится в Москве до понедельника — Росгидромет</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/moscow_city/</div><!--n:260311 0600:s:1534330:e:3782-->

@@ -11,10 +11,11 @@ from PIL import Image
 from bs4 import BeautifulSoup
 
 cd = os.path.dirname(sys.argv[0])
-sys.path.insert(0, os.path.abspath(cd + '../'))
+sys.path.insert(0, os.path.abspath(os.path.join(cd, '..')))
+print(sys.path)
 
 from update import main as update_main
-from updatelist import tr_chars
+from updatelist import tr_cut, tr_chars
 
 class fb2book:
   def __init__(self, file):
@@ -88,7 +89,6 @@ if __name__ == '__main__':
 
         try: fb = fb2book(fb2name)
         except: raise ValueError(name)
-      
         tit = fb.get_title()
         tit = tit.replace('[', '(').replace(']', ')').replace('/', '-').replace(':', '.').strip('<>"/\|!?*').strip()
         wrt = fb.get_authors()
@@ -107,7 +107,7 @@ if __name__ == '__main__':
         cover = fb.get_cover_image()
 
         fp = os.path.join(bookdir, subj.replace(':', '').strip(), re.sub('\s+', ' ', wrt))
-        
+
         ftime = os.path.getmtime(os.path.join(root, name))
         sdate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime))
 
@@ -123,7 +123,7 @@ if __name__ == '__main__':
               cover = base64.b64encode(buffer.getvalue()).decode()
             except:
               print (fb2name, ':', str(sys.exc_info()))
-          with open(os.path.join(fp, tr_chars(tit[:60], 50, '')+'.md'), 'w+') as fbook:
+          with open(os.path.join(fp, tr_cut(tr_chars(tit[:60], 50, ''))+'.md'), 'w+') as fbook:
             fbook.write('<!--'+sdate+'--><!--pdate:'+pdate+'--><!--cover:'+cover+'--><!--gnr:'+','.join(gnrs).replace(':', '').replace('-','_').strip()+'-->\n' + desc)
           print (i, j, int(cover != None), fb2name)
         else:

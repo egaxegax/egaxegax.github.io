@@ -2044,3 +2044,14 @@
     <i class="smaller3">2025-06-23</i>
   </div>
 </div><!--n:Ана де Армас кубинская ярость:s:150983:e:652-->
+<!----><!--2026-03-10 16:30:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kventin_tarantino_60_let_-_prigovor">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/226cde937f84f7665cd75f6387b19193/" src="http://pic.rtbcdn.ru/video/2026-03-10/e8/91/e891295376cfc829009f99d88054dff0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kventin_tarantino_60_let_-_prigovor">Квентин Тарантино – 60 лет - приговор</a></p>
+    <p><i class="smaller2">GreenGrass</i></p>
+    <i class="smaller3">2026-03-10</i>
+  </div>
+</div><!--n:Квентин Тарантино 60 лет - приговор:s:151714:e:670-->

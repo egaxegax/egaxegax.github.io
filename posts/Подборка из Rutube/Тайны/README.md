@@ -4783,3 +4783,25 @@
     <i class="smaller3">2026-03-10</i>
   </div>
 </div><!--n:Почему старую серию Симпсонов снова обсуждают на фоне новых документов об НЛО:s:427966:e:853-->
+<!----><!--2026-03-11 15:13:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_uvidel_itan_guo_v_antarktide_i_pochemu_ego_arestovali_srazu_posle_posadki">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0def92ffdf7c7df7cbf665b9642ccc52/" src="http://pic.rtbcdn.ru/video/2025-08-18/ca/68/ca687f8b50283fc2d0f3f7c8671e20fc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_uvidel_itan_guo_v_antarktide_i_pochemu_ego_arestovali_srazu_posle_posadki">ЧТО УВИДЕЛ ИТАН ГУО В АНТАРКТИДЕ и почему его арестовали сразу после посадки?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-11</i>
+  </div>
+</div><!--n:ЧТО УВИДЕЛ ИТАН ГУО В АНТАРКТИДЕ и почему его арестовали сразу после посадки:s:428987:e:841-->
+<!----><!--2026-03-11 15:16:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_eto_bylo_ya_sluchajno_uvidel_sputnikovyj_snimok_1972_goda_i_teper_ne_uveren_chto_eto_nasha_zemlya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/af0956265fbfd1bc1f90ff823a30bc22/" src="http://pic.rtbcdn.ru/video/2025-06-06/e0/e8/e0e8dfb46dc904332a2df79e7ceab782.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_eto_bylo_ya_sluchajno_uvidel_sputnikovyj_snimok_1972_goda_i_teper_ne_uveren_chto_eto_nasha_zemlya">ЧТО ЭТО БЫЛО? "Я случайно увидел спутниковый снимок 1972 года и теперь не уверен что это наша Земля"</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-11</i>
+  </div>
+</div><!--n:ЧТО ЭТО БЫЛО Я случайно увидел спутниковый снимок 1972 года и теперь не уверен что это наша Земля:s:429993:e:924-->

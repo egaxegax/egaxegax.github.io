@@ -537,4 +537,4 @@ HRtLb3i38oantTeMo2Lur98jsNqo6e4OTu9xgrwDxxub0UhO7/ZZ9h2Oir9dZER4tFcZj3+a
 0X+PAHzjFR0c7+FgF8fmWNF++h3wfZ4zA/4lPThfueP5eE4ZD7E+jcbTIWMcFewvZ4w1w885
 fMx8GE/KaL9HdC4fNbO6Wzd+zdy8Wkxcy7iLwZtqxqmQ0XuP+VX6qe4Srnt9sYBZD34ZW3Od
 E+CLdYX8/YiMeK5mfK1lHP+r/nv8BP7/Gx/up1bjAAAAAElFTkSuQmCC-->
-Типа фентези…:) Задумывалось, как просто стёб. Но, похоже, получается что-то другое. Может — большее, может — меньшее… В общем — вам решать, читатель. (в процессе написания)<!--gnr:sf_humor--><!--n:Все в сад!:s:0:e:39722-->
+Типа фентези…:) Задумывалось, как просто стёб. Но, похоже, получается что-то другое. Может — большее, может — меньшее… В общем — вам решать, читатель. (в процессе написания)<!--gnr:sf_humor--><!--n:Все в сад:s:0:e:39722-->

@@ -5052,3 +5052,34 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">15:27</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/09/raskryt-razmer-meteorita-sgorevshego-nad-evropoy-8-marta.html">Раскрыт размер метеорита, сгоревшего над Европой 8 марта</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:260310 2000:s:625342:e:3855-->
+<!----><h2 class="hspace">Наука на Ср 11 мар 2026 20:00</h2><!--2026-03-11 17:45:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:45</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/russkiy-kurs-na-lunu-i-veneru-vicepremer-pravitelstva-podelilsya-planami.html">Русский курс на Луну и Венеру: вице-премьер правительства поделился планами</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:55</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/uchyonye-dokazali-chto-enoty-reshayut-golovolomki-iz-lyubopytstva.html">Учёные доказали, что еноты решают головоломки из любопытства</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:06</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/raskryta-novaya-arkticheskaya-strategiya-zapada-nayden-mozg-novogo-polyarnogo-poryadka.html">Раскрыта новая арктическая стратегия Запада: найден «мозг» нового полярного порядка</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:19</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/neozhidannoe-otkrytie-v-marokko-izmenilo-predstavleniya-o-zhizni-v-okeane.html">Неожиданное открытие в Марокко изменило представления о жизни в океане</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:11</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/voronezhskie-uchenye-poluchili-patent-na-mobilnye-zapravki-dlya-bespilotnikov.html">Воронежские ученые получили патент на мобильные заправки для беспилотников</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:00</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/nazvany-riski-nekontroliruemogo-padeniya-na-zemlyu-kosmicheskogo-apparata-nasa.html">Названы риски неконтролируемого падения на Землю космического аппарата НАСА</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:56</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/redkim-khimicheskim-sostavom-udivila-astronomov-mezhzvezdnaya-kometa-3iatlas.html">Редким химическим составом удивила астрономов межзвездная комета 3I/ATLAS</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:28</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/pervaya-svinya-dlya-transplantacii-organov-mozhet-poyavitsya-v-rossii-ochen-skoro.html">Первая свинья для трансплантации органов может появиться в России очень скоро</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:56</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/11/uchenye-obnaruzhili-zhizn-pod-surovoy-pustyney-atakama.html">Ученые обнаружили жизнь под суровой пустыней Атакама</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">23:06</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/uchyonye-okrasili-okean-v-krasnyy-dlya-borby-s-potepleniem.html">Учёные окрасили океан в красный для борьбы с потеплением</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:260311 2000:s:629234:e:3934-->

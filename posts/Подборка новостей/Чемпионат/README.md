@@ -4990,3 +4990,34 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">06:45</span> <a class="nodecor" href="https://www.championat.ru/hockey/news-6387708-vankuver-kenaks-ottava-senatorz-rezultat-matcha-10-marta-2026-schet-0-2-regulyarnyj-chempionat-nhl-2025-2026.html">Ассистентский дубль защитника Артёма Зуба помог «Оттаве» одолеть «Ванкувер»</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.championat.ru/rss/news/</div><!--n:260310 0800:s:664381:e:4232-->
+<!----><h2 class="hspace">Чемпионат на Ср 11 мар 2026 08:00</h2><!--2026-03-11 07:54:04-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:54</span> <a class="nodecor" href="https://www.championat.ru/cybersport/news-6388876-pol-uolter-hauzer-mozhet-sygrat-skubi-du-v-seriale-skubi-du.html">Пол Уолтер Хаузер может сыграть Скуби-Ду в сериале «Скуби-Ду»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:53</span> <a class="nodecor" href="https://www.championat.ru/hockey/news-6388870-kolorado-evelansh-edmonton-ojlerz-rezultat-matcha-11-marta-2026-schet-3-4-regulyarnyj-chempionat-nhl-2025-2026.html">Шайба Ничушкина не спасла «Колорадо» от проигрыша «Эдмонтону», у Макдэвида гол+пас</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:50</span> <a class="nodecor" href="https://www.championat.ru/boxing/news-6388732-chempion-asa-kondratev-vspomnil-o-tom-kak-emu-prihodilos-dratsya-v-shkole.html">Чемпион АСА Кондратьев вспомнил о том, как ему приходилось драться в школе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:48</span> <a class="nodecor" href="https://www.championat.ru/cybersport/news-6388874-matushku-gotel-v-remejke-rapuncel-sygraet-ketrin-han.html">Матушку Готель в ремейке «Рапунцель» сыграет Кэтрин Хан</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:47</span> <a class="nodecor" href="https://www.championat.ru/hockey/news-6388864-sietl-kraken-neshvill-predatorz-rezultat-matcha-11-marta-2026-schet-2-4-regulyarnyj-chempionat-nhl-2025-2026.html">Пас Фёдора Свечкова помог «Нэшвиллу» переиграть в гостях «Сиэтл»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:39</span> <a class="nodecor" href="https://www.championat.ru/bets/news-6388812-salavat-yulaev-metallurg-opredelyon-favorit-matcha-v-ufe.html">«Салават Юлаев» — «Металлург»: определён фаворит матча в Уфе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:37</span> <a class="nodecor" href="https://www.championat.ru/football/news-6388868-trener-atalanty-palladino-nuzhno-bystro-perestroitsya-i-sosredotochitsya-na-chempionate.html">Тренер «Аталанты» Палладино: нужно быстро перестроиться и сосредоточиться на чемпионате</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:32</span> <a class="nodecor" href="https://www.championat.ru/football/news-6388866-syurprizov-ne-bylo-trener-bavarii-kompani-o-matche-s-atalantoj-v-lch.html">«Сюрпризов не было». Тренер «Баварии» Компани — о матче с «Аталантой» в ЛЧ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:30</span> <a class="nodecor" href="https://www.championat.ru/lifestyle/news-6382690-dietolog-obyasnila-kakie-posledstviya-za-soboj-nesyot-ozhirenie.html">Диетолог объяснила, какие последствия за собой несёт ожирение</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:21</span> <a class="nodecor" href="https://www.championat.ru/football/news-6388862-videoobzor-razgromnoj-pobedy-bavarii-nad-atalantoj-v-pervom-matche-1-8-finala-lch.html">Видеообзор разгромной победы «Баварии» над «Аталантой» в первом матче 1/8 финала ЛЧ</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.championat.ru/rss/news/</div><!--n:260311 0800:s:668650:e:4084-->

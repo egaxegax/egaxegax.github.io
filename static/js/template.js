@@ -27,9 +27,9 @@ async function fetchPart(p, clfunc) {
       console.log( `Fetched ${buffer.byteLength} bytes.` );
       clfunc((new TextDecoder('utf-8')).decode(buffer), p, response.status);
     } else if (response.ok) {
-      console.log('Server does not support Range requests. Full file returned.');
+      // console.log('Server does not support Range requests. Full file returned.');
       const fullBuffer = await response.arrayBuffer();
-      clfunc((new TextDecoder('utf-8')).decode(fullBuffer.slice(p.offset, p.offset + p.length)), p, response.status);
+      clfunc((new TextDecoder('utf-8')).decode(fullBuffer.slice(p.offset, p.offset + p.length + 1)), p, response.status);
     } else {
       console.error('HTTP error!', 'status', response.status);
       clfunc('', p, response.status);

@@ -1,6 +1,6 @@
 https://egax.ru/songs.html?hillsong_kiev
 https://egax.ru/songs.html?hillsong_kiev/idu_veroj
-https://egax.ru/songs.html?hillsong_kiev/iisus_moj_spasitel
+https://egax.ru/songs.html?hillsong_kiev/iisus,_moj_spasitel
 https://egax.ru/songs.html?hillsong_kiev/iisus_ty_-_ljubov_moya
 https://egax.ru/songs.html?hillsong_kiev/izmeni_menya
 https://egax.ru/songs.html?hillsong_kiev/my_budem_slavit
@@ -64,7 +64,7 @@ https://egax.ru/songs.html?nimerov_grigorij/kvas
 https://egax.ru/songs.html?nimerov_grigorij/legenda
 https://egax.ru/songs.html?nimerov_grigorij/letnij_les
 https://egax.ru/songs.html?nimerov_grigorij/ljublju_grozu
-https://egax.ru/songs.html?nimerov_grigorij/mak_posvyashchenie_koshke
+https://egax.ru/songs.html?nimerov_grigorij/mak_(posvyashchenie_koshke)
 https://egax.ru/songs.html?nimerov_grigorij/masha_i_medvedi
 https://egax.ru/songs.html?nimerov_grigorij/mayak
 https://egax.ru/songs.html?nimerov_grigorij/mechta
@@ -88,8 +88,8 @@ https://egax.ru/songs.html?nimerov_grigorij/noch
 https://egax.ru/songs.html?nimerov_grigorij/nochnoe_nebo
 https://egax.ru/songs.html?nimerov_grigorij/novaya_kvartira
 https://egax.ru/songs.html?nimerov_grigorij/novogodnyaya
-https://egax.ru/songs.html?nimerov_grigorij/novogodnyaya_20
-https://egax.ru/songs.html?nimerov_grigorij/novogodnyaya_21
+https://egax.ru/songs.html?nimerov_grigorij/novogodnyaya,_20
+https://egax.ru/songs.html?nimerov_grigorij/novogodnyaya,_21
 https://egax.ru/songs.html?nimerov_grigorij/noyabrskij_les
 https://egax.ru/songs.html?nimerov_grigorij/oboroten
 https://egax.ru/songs.html?nimerov_grigorij/ocherednoj_den_rojdeniya
@@ -121,12 +121,12 @@ https://egax.ru/songs.html?nimerov_grigorij/pro_ljudej
 https://egax.ru/songs.html?nimerov_grigorij/proshu_prostit
 https://egax.ru/songs.html?nimerov_grigorij/pustoj_dom
 https://egax.ru/songs.html?nimerov_grigorij/pustye_ulicy
-https://egax.ru/songs.html?nimerov_grigorij/put_po_motivam_filmam_shvatka
+https://egax.ru/songs.html?nimerov_grigorij/put_(po_motivam_filmam_shvatka)
 https://egax.ru/songs.html?nimerov_grigorij/putnik
 https://egax.ru/songs.html?nimerov_grigorij/rannyaya
 https://egax.ru/songs.html?nimerov_grigorij/raznye_ljudi
+https://egax.ru/songs.html?nimerov_grigorij/rembo_(po_motivam_filma_rembo_pervaya_krov)
 https://egax.ru/songs.html?nimerov_grigorij/rembo_2
-https://egax.ru/songs.html?nimerov_grigorij/rembo_po_motivam_filma_rembo_pervaya_krov
 https://egax.ru/songs.html?nimerov_grigorij/remont
 https://egax.ru/songs.html?nimerov_grigorij/rokki
 https://egax.ru/songs.html?nimerov_grigorij/ruiny
@@ -153,7 +153,7 @@ https://egax.ru/songs.html?nimerov_grigorij/tebya_pozdravlyaju
 https://egax.ru/songs.html?nimerov_grigorij/teplyj_vecher_u_morya
 https://egax.ru/songs.html?nimerov_grigorij/tvorenie
 https://egax.ru/songs.html?nimerov_grigorij/uznik
-https://egax.ru/songs.html?nimerov_grigorij/v_afgane
+https://egax.ru/songs.html?nimerov_grigorij/v_afgane...
 https://egax.ru/songs.html?nimerov_grigorij/v_djunglyah
 https://egax.ru/songs.html?nimerov_grigorij/v_gondurase
 https://egax.ru/songs.html?nimerov_grigorij/v_metro
@@ -161,7 +161,7 @@ https://egax.ru/songs.html?nimerov_grigorij/v_metropolitene_zapreshchaetsya
 https://egax.ru/songs.html?nimerov_grigorij/v_nashem_korolevstve
 https://egax.ru/songs.html?nimerov_grigorij/v_zabroshennom_sadu
 https://egax.ru/songs.html?nimerov_grigorij/v_zone_transportnoj_bezopasnosti
-https://egax.ru/songs.html?nimerov_grigorij/varyagi_po_motivam_seriala_vikingi
+https://egax.ru/songs.html?nimerov_grigorij/varyagi_(po_motivam_seriala_vikingi)
 https://egax.ru/songs.html?nimerov_grigorij/ver_v_sebya
 https://egax.ru/songs.html?nimerov_grigorij/vesna_blizko
 https://egax.ru/songs.html?nimerov_grigorij/vo_imya_korolya
@@ -183,9 +183,9 @@ https://egax.ru/songs.html?nimerov_grigorij/ya_v_lotereju_ne_igraju
 https://egax.ru/songs.html?nimerov_grigorij/za_gribami
 https://egax.ru/songs.html?nimerov_grigorij/zabludilsya
 https://egax.ru/songs.html?nimerov_grigorij/zaryajaj
-https://egax.ru/songs.html?nimerov_grigorij/zaryajaj_bez_rujya
-https://egax.ru/songs.html?nimerov_grigorij/zaryajaj_v_derevne
-https://egax.ru/songs.html?nimerov_grigorij/zaryajaj_v_lesu
+https://egax.ru/songs.html?nimerov_grigorij/zaryajaj._bez_rujya
+https://egax.ru/songs.html?nimerov_grigorij/zaryajaj._v_derevne
+https://egax.ru/songs.html?nimerov_grigorij/zaryajaj._v_lesu
 https://egax.ru/songs.html?nimerov_grigorij/zelenyj_avtobus
 https://egax.ru/songs.html?nimerov_grigorij/zima
 https://egax.ru/songs.html?nimerov_grigorij/zimnij_les

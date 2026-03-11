@@ -6,7 +6,7 @@
 #   SUBJ   = [name,count,lasttime,rootkey] = subject dir
 #   TITLES = [subjkey,[offset,len],name,lasttime,rootkey] = files in subj. dir
 #
-# python3 ../update.py (run from foto, posts, songs, books dirs)
+# python3 ../update.py (from foto, posts, songs, books dirs)
 #
 
 import json, io, linecache, re, os, sys, time

@@ -18,7 +18,7 @@ https://egax.ru/songs.html?djem
 https://egax.ru/songs.html?djem/vosmoe_marta
 https://egax.ru/songs.html?kar-men
 https://egax.ru/songs.html?kar-men/about
-https://egax.ru/songs.html?kar-men/london_gudbaj
+https://egax.ru/songs.html?kar-men/london,_gudbaj
 https://egax.ru/songs.html?kar-men/parij
 https://egax.ru/songs.html?kar-men/san-francisko
 https://egax.ru/songs.html?kar-men/v_bagdade_vse_spokojno
@@ -26,7 +26,7 @@ https://egax.ru/songs.html?katya_chehova
 https://egax.ru/songs.html?katya_chehova/v_tvoih_glazah
 https://egax.ru/songs.html?kraski
 https://egax.ru/songs.html?kraski/starshij_brat
-https://egax.ru/songs.html?kraski/ya_ljublju_tebya_cepgej
+https://egax.ru/songs.html?kraski/ya_ljublju_tebya,_cepgej
 https://egax.ru/songs.html?kredo
 https://egax.ru/songs.html?kredo/medlyak
 https://egax.ru/songs.html?maksim
@@ -34,7 +34,7 @@ https://egax.ru/songs.html?maksim/znaesh_li_ty
 https://egax.ru/songs.html?miraj
 https://egax.ru/songs.html?miraj/muzyka_nas_svyazala
 https://egax.ru/songs.html?miraj/ya_ne_shuchu
-https://egax.ru/songs.html?miraj/ya_snova_viju_tebya
+https://egax.ru/songs.html?miraj/ya_snova_viju_tebya...
 https://egax.ru/songs.html?nensi
 https://egax.ru/songs.html?nensi/about
 https://egax.ru/songs.html?nensi/chistyj_list
@@ -49,4 +49,4 @@ https://egax.ru/songs.html?vladimir_zaharov/about
 https://egax.ru/songs.html?vladimir_zaharov/kostry
 https://egax.ru/songs.html?vladimir_zaharov/na_kolcevoj
 https://egax.ru/songs.html?vladimir_zaharov/rejs
-https://egax.ru/songs.html?vladimir_zaharov/ty_menya_mama_prosti
+https://egax.ru/songs.html?vladimir_zaharov/ty_menya,_mama,_prosti
