@@ -2067,3 +2067,14 @@
     <i class="smaller3">2026-02-07</i>
   </div>
 </div><!--n:Украинский фронт - удар по энергетике Остановлены энергоблоки украинских АЭС 07 02 26:s:202810:e:899-->
+<!----><!--2026-03-09 19:42:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rynok_nefti_rushitsya_postavki_nefti_evropejcam_prodvijenie_u_severska_09_03_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/29fbd12bd55dd3e84553839177289d13/" src="http://pic.rtbcdn.ru/video/2026-03-09/00/15/00153d76601bba96d37cb4d74dd270ac.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rynok_nefti_rushitsya_postavki_nefti_evropejcam_prodvijenie_u_severska_09_03_26">Украинский фронт - рынок нефти рушится. Поставки нефти Европейцам. Продвижение у Северска. 09.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-09</i>
+  </div>
+</div><!--n:Украинский фронт - рынок нефти рушится Поставки нефти Европейцам Продвижение у Северска 09 03 26:s:203885:e:946-->

@@ -4990,3 +4990,65 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://www.mk.ru/science/2025/12/25/raskryta-neozhidannaya-svyaz-vitaminov-s-riskom-razvitiya-raka.html">Раскрыта неожиданная связь витаминов с риском развития рака</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:251226 2000:s:617625:e:3724-->
+<!----><h2 class="hspace">Наука на Пн 09 мар 2026 20:00</h2><!--2026-03-09 16:43:04-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:43</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/09/v-nasa-nashli-sposob-uslyshat-melodiyu-planet-solnechnoy-sistemy.html">В NASA нашли способ услышать мелодию планет Солнечной системы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:27</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/09/raskryt-razmer-meteorita-sgorevshego-nad-evropoy-8-marta.html">Раскрыт размер метеорита, сгоревшего над Европой 8 марта</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:24</span> <a class="nodecor" href="https://www.mk.ru/politics/2026/03/09/strannyy-ognennyy-shar-zametili-v-nebe-nad-evropeyskoy-stranoy.html">Странный огненный шар заметили в небе над европейской страной</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">10:02</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/09/kosmicheskie-shtormy-obvinili-v-iskazheniyakh-soobshheniy-ot-inoplanetyan.html">Космические штормы обвинили в искажениях сообщений от инопланетян</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">22:21</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/08/cifrovoe-bessmertie-stalo-realnostyu-uchenye-ocifrovali-mozg-mukhi.html">Цифровое бессмертие стало реальностью: ученые оцифровали мозг мухи</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:39</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/08/kost-krokodila-zastavila-uchenykh-usomnitsya-v-sushhestvovanii-drevnego-kontinenta.html">Кость крокодила заставила ученых усомниться в существовании древнего континента</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:00</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/08/v-kosmose-obnaruzhili-bukety-iz-zvezd.html">В космосе обнаружили &#34;букеты&#34; из звезд</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:02</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/08/zaraznaya-lunnaya-gonka-kak-otnositsya-k-planam-ssha-i-kitaya-kolonizirovat-sputnik-zemli.html">Заразная лунная гонка: как относиться к планам США и Китая колонизировать спутник Земли</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:49</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/08/otlozhennaya-vysadka-sprovocirovala-slukhi-o-drevnem-megaliticheskom-gorode-na-poverkhnosti-luny.html">Отложенная высадка спровоцировала слухи о древнем мегалитическом городе на поверхности Луны</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:41</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/08/svyazyvayushhaya-noev-kovcheg-s-8-sovremennymi-gruppami-krovi-lyudey-teoriya-vyzvala-spory.html">Связывающая Ноев ковчег с 8 современными группами крови людей теория вызвала споры</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:260309 2000:s:621386:e:3919-->
+<!----><h2 class="hspace">Наука на Вт 10 мар 2026 20:00</h2><!--2026-03-10 18:39:07-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:39</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/rossiyskie-uchenye-nashli-novyy-sposob-dobychi-zolota.html">Российские ученые нашли новый способ добычи золота</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:57</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/uchenye-obnaruzhili-sereznuyu-opasnost-pri-ispolzovanii-redkozemelnykh-metallov-v-implantatakh.html">Ученые обнаружили серьезную опасность при использовании редкоземельных металлов в имплантатах</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:29</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/dnkanaliz-privel-uchenykh-k-unikalnym-geneticheskim-markeram-grobnicy-chingiskhana.html">ДНК-анализ привел ученых к уникальным генетическим маркерам гробницы Чингисхана</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:45</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/arkheologi-nashli-sergi-spryatannye-modnicey-pri-osade-troicesergievoy-lavry.html">Археологи нашли серьги, спрятанные модницей при осаде Троице-Сергиевой лавры</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:16</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/v-rossii-nazvalm-pervuyu-planetu-kotoruyu-planiruetsya-osvaivat.html">В России назвалм первую планету, которую планируется осваивать</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">06:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/novyy-vid-drevnego-barana-nashli-paleontologi-na-nizhnem-donu.html">Новый вид древнего барана нашли палеонтологи на Нижнем Дону</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:58</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/ii-uskoril-rabotu-rossiyskikh-khimikov-do-40-procentov.html">ИИ ускорил работу российских химиков до 40 процентов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:52</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/10/astronomy-issleduyut-kometu-3iatlas-vozmozhnye-priznaki-iskusstvennogo-proiskhozhdeniya.html">Астрономы исследуют комету 3I/ATLAS: возможные признаки искусственного происхождения</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:43</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/09/v-nasa-nashli-sposob-uslyshat-melodiyu-planet-solnechnoy-sistemy.html">В NASA нашли способ услышать мелодию планет Солнечной системы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:27</span> <a class="nodecor" href="https://www.mk.ru/science/2026/03/09/raskryt-razmer-meteorita-sgorevshego-nad-evropoy-8-marta.html">Раскрыт размер метеорита, сгоревшего над Европой 8 марта</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:260310 2000:s:625342:e:3855-->

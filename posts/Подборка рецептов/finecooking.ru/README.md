@@ -313,3 +313,8 @@
   <div class="rss finecooking"><a href="https://finecooking.ru/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom"><img src="https://finecooking.ru/images/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom/photo/960w.jpg"></a><p>Готовим пышные оладьи на кефире с зеленым луком и яйцами. Ароматные, сытные и очень вкусные пухляши - отменный завтрак или закусочный вариант со сметаной!</p>
  <p class="titl"><a href="https://finecooking.ru/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom">Пышные оладьи на кефире с яйцами и зеленым луком</a></p></div>
 </div><!--n:Пышные оладьи на кефире с яйцами и зеленым луком:s:56122:e:794-->
+<!----><!--2026-03-09 20:18:02-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><a href="https://finecooking.ru/recipe/kompot-iz-zamorozhennyh-yagod-v-kastryule"><img src="https://finecooking.ru/images/recipe/kompot-iz-zamorozhennyh-yagod-v-kastryule/photo/960w.jpg"></a><p>Готовим ароматный компот из замороженных ягод в кастрюле - витаминный напиток для всей семьи. Настоящая находка для тех, кто заботится о здоровье, любит экономить и вкусные домашние заготовки.</p>
+ <p class="titl"><a href="https://finecooking.ru/recipe/kompot-iz-zamorozhennyh-yagod-v-kastryule">Компот из замороженных ягод в кастрюле</a></p></div>
+</div><!--n:Компот из замороженных ягод в кастрюле:s:57028:e:836-->

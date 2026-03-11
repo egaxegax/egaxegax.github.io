@@ -39,12 +39,12 @@ def tr_cut(t):
   """Remove from string cyrillic and special chars"""
   tr = []
   for ch in t:
-    if ch.lower() in ' -_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
+    if ch.lower() in r' -_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
       tr.append( ch )
     else:
       tr.append(' ')
   t = ''.join(tr)
-  t = re.sub('\s+',' ',t)
+  t = re.sub(r'\s+',' ',t)
   t = t.strip()
   return t
 
@@ -52,29 +52,24 @@ def tr_url(text):
   """Urlencode string"""
   return text.replace(' ', '%20')
 
-def main(path='.', dir='.'):
-  cwd = os.path.basename(os.getcwd())
-  count = 0
-
-  for root, dirs, files in os.walk(dir, topdown=False):
-    if root in ('.git',):
-      # print(root, '...skip')
-      continue
-
+def main(path='.', cwd='', count=0):
+  if not cwd: cwd = os.path.normpath(path).split('/')[0]
+  for root, dirs, files in os.walk(path, topdown=False):
     for name in files:
-      print(name, 'cwd', cwd)
-      if name in ('README.md',) and cwd in ('books', 'foto', 'posts', 'songs'):
-        with open(os.path.join(root, name)) as f:
+      if 'README' in name and cwd in ('books', 'foto', 'posts', 'songs'):
+        print(name)
+        with open(os.path.join(root, name), encoding='utf-8', newline='\n') as f:
           for item in [item for item in re.split('<!---->', f.read()) if item]:
             m = re.search(r'<!--n:(.+):s:(\d+):e:(\d+)-->', item)
             try:    print(root, name, m.group())
             except: print(root, name, '\n', item); raise
-            with open(os.path.join(root, m.group(1)+'.md'), 'w') as ff:
+            with open(os.path.join(root, m.group(1)+'.md'), 'w', encoding='utf-8', newline='\n') as ff:
               ff.write(item[:-(len(m.group())+1)])
             count += 1
         os.remove(os.path.join(root, name))
-  
+
   print('Extracted:', count)
 
 if __name__ == '__main__':
-  main(*sys.argv)
+  if sys.argv[1:]: main(*sys.argv[1:])
+  else:            main(os.getcwd(), os.path.basename(os.getcwd()))

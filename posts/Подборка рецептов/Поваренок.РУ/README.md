@@ -3592,3 +3592,15 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss povarenok"><a href="https://www.povarenok.ru/recipes/show/182607/"><img src="https://www.povarenok.ru/data/cache/2025may/08/39/3174963_52165-640x480.jpg"></a>Этот десерт увидела по телевизору, поделился им шеф-повар из Новосибирска, говоря, что это один из самых популярных десертов в Сибири. На сайте такого не обнаружила, поэтому делюсь с вами. Самый наипростейший рецепт, который я когда либо готовила, но какой он вкусный, ммм… <p class="titl"><a href="https://www.povarenok.ru/recipes/show/182607/">Десерт "Сибирочка"</a></p></div>
 </div><!--n:Десерт Сибирочка:s:749631:e:850-->
+<!----><!--2026-03-08 21:16:19-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183532/"><img src="https://www.povarenok.ru/data/cache/2026mar/08/10/3208214_79729-640x480.jpg"></a>Тесто по рецепту Константина Ивлева. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183532/">Тесто для пельменей и вареников</a></p></div>
+</div><!--n:Тесто для пельменей и вареников:s:750537:e:458-->
+<!----><!--2026-03-09 00:07:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183534/"><img src="https://www.povarenok.ru/data/cache/2026mar/08/53/3208240_92481-640x480.jpg"></a>Этим рецептом поделилась со мной подружка из Италии, сочетание свеклы и груши я обожаю, поэтому не стала откладывать приготовление. Могу сказать смело, что эта закуска произведёт впечатление на праздничном столе! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183534/">Башенки из свеклы и груши</a></p></div>
+</div><!--n:Башенки из свеклы и груши:s:751078:e:769-->
+<!----><!--2026-03-08 22:57:05-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183533/"><img src="https://www.povarenok.ru/data/cache/2026mar/09/10/3208271_50592-640x480.jpg"></a>Предлагается интересный салат на праздничный стол к 8-му Марта. Желаю всем женщинам любви, добра, теплоты и исполнения всех желаний. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183533/">Салат из яблок, петрушки и фундука</a></p></div>
+</div><!--n:Салат из яблок петрушки и фундука:s:751918:e:635-->

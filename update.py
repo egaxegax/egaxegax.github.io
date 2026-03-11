@@ -16,7 +16,7 @@ added = {}
 skipped = {}
 
 def compact(s):
-  s = re.sub(r'([\[,\]]+)\s*\n','\g<1>',s)
+  s = re.sub(r'([\[,\]]+)\s*\n',r'\g<1>',s)
   s = s.replace('\n],[','],\n[').replace('[[','[\n[').replace('\n]]',']\n]').replace('\n],', '],')
   return s
 
@@ -39,25 +39,25 @@ def addimgtomd(impath, mdpath):
   im = im.convert('RGB')
   im.save(buffer, format='JPEG')
   cover = base64.b64encode(buffer.getvalue()).decode()
-  cont = open(mdpath).read()
+  cont = open(mdpath, encoding='utf-8', newline='\n').read()
   tags = [tag for tag in re.split('(<!--[^<]*-->)', cont) if tag and tag.find('cover:') == -1]
   tags.insert(len(tags)-1, '<!--cover:'+ cover +'-->')
   # print(tags)
-  open(mdpath, 'w').write(''.join(tags))
+  open(mdpath, 'w', encoding='utf-8', newline='\n').write(''.join(tags))
   os.remove(impath)
 
 def addmdtoreadme(mdpath, ftime=''):
   name, ext = os.path.splitext(os.path.basename(mdpath))
-  cont = open(mdpath).read()
+  cont = open(mdpath, encoding='utf-8', newline='\n').read()
   readme = os.path.join(os.path.dirname(mdpath), 'README.md')
   if os.path.exists(readme):
-    with open(readme) as f:
+    with open(readme, encoding='utf-8', newline='\n') as f:
       if '<!--n:'+ name +':' in f.read(): 
-        print('Duplicate', name)
+        print('.', end='')
         os.remove(mdpath)
         return
   added[mdpath] = 1
-  with open(readme, 'a') as f:
+  with open(readme, 'a', encoding='utf-8', newline='\n') as f:
     of = f.tell()
     f.write('<!---->'+ ftime + cont.strip())
     f.write('<!--n:'+ name +':' +'s:'+ str(of) +':e:'+ str(f.tell() - of) +'-->\n')
@@ -67,18 +67,18 @@ def addimgtoreadme(impath, ftime=''):
   name, ext = os.path.splitext(os.path.basename(impath))
   readme = os.path.join(os.path.dirname(impath), 'README.md')
   if os.path.exists(readme):
-    with open(readme) as f:
+    with open(readme, encoding='utf-8', newline='\n') as f:
       if '<!--n:'+ name +':' in f.read(): 
         print('.', end='')
         return
-  with open(readme, 'a') as f:
+  with open(readme, 'a', encoding='utf-8', newline='\n') as f:
     of = f.tell()
     f.write('<!---->'+ ftime)
     f.write('<!--n:'+ name +':' +'s:'+ str(of) +':e:'+ str(f.tell() - of) +'-->\n')
 
 def readmetoindex(roots, subj, readmepath):
   mlist = []
-  with open(readmepath) as f:
+  with open(readmepath, encoding='utf-8', newline='\n') as f:
     for item in [item for item in re.split('<!---->', f.read()) if item]:
       try:
         ftime = time.mktime(time.strptime(item[item.find('<!--')+4:][:19].strip('->'), '%Y-%m-%d %H:%M:%S'))
@@ -117,16 +117,16 @@ def main(path='.'):
       if cwd in ('songs',) and ext in ('.jpg',):      addimgtomd(os.path.join(root, name), os.path.join(root, 'about.md'))
       if cwd in ('songs',) and ext in ('.txt',):
         text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
-        text = re.sub('[\t ]*\n', '\n', text)
-        text = re.sub('(^|\n)!([\t ]*)(.*)', r'\1\2*\3*', text)
-        text = re.sub('(^|\n)>([\t ]*)(.*)', r'\1\2***\3***', text)
-        text = re.sub('<([\t ]*)([^!>]*)([\t ]*)>', r'\1***\2***\3', text)
-        text = re.sub('^[\r\n]+|[\r\n]+$', '', text)
-        text = re.sub('\r', '', text)
-        text = re.sub('\t', ' ', text)
-        text = re.sub(' ', r' ', text)  # unicode space (html not trim)
-        text = re.sub('\n', '  \n', text) # two spaces newline
-        text = re.sub('(^<\!--.*-->)\n[\t ]*\n*', r'\1\n', text) # revert comments
+        text = re.sub(r'[\t ]*\n', '\n', text)
+        text = re.sub(r'(^|\n)!([\t ]*)(.*)', r'\1\2*\3*', text)
+        text = re.sub(r'(^|\n)>([\t ]*)(.*)', r'\1\2***\3***', text)
+        text = re.sub(r'<([\t ]*)([^!>]*)([\t ]*)>', r'\1***\2***\3', text)
+        text = re.sub(r'^[\r\n]+|[\r\n]+$', '', text)
+        text = re.sub(r'\r', '', text)
+        text = re.sub(r'\t', ' ', text)
+        text = re.sub(r' ', r' ', text)  # unicode space (html not trim)
+        text = re.sub(r'\n', '  \n', text) # two spaces newline
+        text = re.sub(r'(^<\!--.*-->)\n[\t ]*\n*', r'\1\n', text) # revert comments
         open(os.path.join(root, fname + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
         os.remove(os.path.join(root, name))
         name = fname + '.md'

@@ -20,7 +20,7 @@ async function fetchPart(p, clfunc) {
   try {
     const response = await fetch( p.url, { headers: { 'Range': 'bytes='+ String(p.offset) + '-' + String(p.offset + p.length) } });
     if (response.headers.get('content-encoding')) {
-      console.error('HTTP error!', 'content-encoding not text:', response.headers.get('content-encoding'));
+      // console.error('HTTP error!', 'content-encoding not text:', response.headers.get('content-encoding'));
       clfunc('', p, response.status);
     } if (response.status === 206) {
       const buffer = await response.arrayBuffer();
@@ -98,8 +98,8 @@ function arraySort(aa,bb,dorev,donum){
 // change action link href to light/dark css
 //
 function actionChStyle(p){
-  document.querySelectorAll("link[href^='/static/css/"+p+"']").forEach(function(e){
-    localStorage.setItem('THEME_URL_'+window.location.pathname, e.href='/static/css/'+p+(e.href.search(p+'.dark.css')>-1 ? '.css' : '.dark.css')+'?'+(+Date.now()));
+  document.querySelectorAll("link[href^='static/css/"+p+"']").forEach(function(e){
+    localStorage.setItem('THEME_URL_'+window.location.pathname, e.href='static/css/'+p+(e.href.search(p+'.dark.css')>-1 ? '.css' : '.dark.css')+'?'+(+Date.now()));
   });
 }
 //
@@ -125,11 +125,11 @@ function actionFind(){
 //
 // return html for find input
 //
-function addFinder(){ return '<div class="nowrap"><a class="nodecor gray" href="/research.html" title="Поиск Яндекс по сайту"><i> Я </i></a><input id="tfind" class="hmarg" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }"></div>'; }
+function addFinder(){ return '<div class="nowrap"><a class="nodecor gray" href="research.html" title="Поиск Яндекс по сайту"><i> Я </i></a><input id="tfind" class="hmarg" maxlength="100" size="5" type="text" placeholder="&#128269;" onkeydown="if(event.keyCode==13) { event.preventDefault(); actionFind(); return false; }"></div>'; }
 //
 // return loader image html
 //
-function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" alt="" src="/static/img/loader.gif"></div>' : ''); }
+function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" alt="" src="static/img/loader.gif"></div>' : ''); }
 //
 // return share button svg icon
 //
@@ -235,7 +235,7 @@ function addTitlesRelsHtml(p, page_html, hdr_text, pid){
     document.getElementById(pid).innerHTML += 
   (document.getElementById('rels_links') ? '' : ('<div id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</div>') )+
   '<div class="msgtext mw_f scroll small">'+
-    '<div class="inlbl"><em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="/'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a></div>'+
+    '<div class="inlbl"><em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a></div>'+
   '</div>';
   });
 }

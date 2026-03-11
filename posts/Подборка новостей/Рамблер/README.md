@@ -13276,3 +13276,34 @@
 <div class="rssn">
   <div><span class="smaller gray hspace">00:56</span> <a class="nodecor" href="https://news.rambler.ru/world/54721218-netanyahu-obsudil-s-ministrom-vnutrenney-bezopasnosti-ssha-vedenie-voyny-v-gaze/">Нетаньяху обсудил с министром внутренней безопасности США ведение войны в Газе</a></div>
 </div><!--n:250526 0600:s:1526915:e:3469-->
+<!----><h2 class="hspace">Москва на Вт 10 мар 2026 06:00</h2><!--2026-03-09 21:19:25-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:19</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56152135-pochti-vse-moskovskie-shkoly-prisoedinilis-k-proektu-matematicheskaya-vertikal/">Почти все московские школы присоединились к проекту «Математическая вертикаль»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:52</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56150225-v-muzee-pobedy-rasskazhut-ob-oborone-kieva/">В Музее Победы расскажут об обороне Киева</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:01</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56151609-demontazh-novogodnih-svetovyh-ukrasheniy-nachalsya-v-moskve/">Демонтаж новогодних световых украшений начался в Москве</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:04</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56151810-sergunina-rasskazala-o-populyarnyh-u-moskvichey-ploschadkah-dlya-zimnego-otdyha/">Сергунина рассказала о популярных у москвичей площадках для зимнего отдыха</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:22</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56151668-sobyanin-novaya-moskovskaya-verf-nachala-tehobsluzhivanie-i-remont-elektrosudov/">Собянин: Новая Московская верфь начала техобслуживание и ремонт электросудов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">10:36</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56151505-moskvichey-predupredili-o-podorozhanii-odnogo-vida-meditsinskih-uslug/">Москвичей предупредили о подорожании одного вида медицинских услуг</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:47</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56151358-sinoptik-tishkovets-meteorologicheskaya-vesna-zhdet-moskvichey-s-zavtrashnego-dnya/">Синоптик Тишковец: Метеорологическая весна ждет москвичей с завтрашнего дня</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:54</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56151136-sinoptik-leus-stolitsa-perezhila-samuyu-holodnuyu-noch-s-nachala-vesny/">Синоптик Леус: Столица пережила самую холодную ночь с начала весны</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:33</span> <a class="nodecor" href="https://news.rambler.ru/army/56150500-sobyanin-sily-pvo-unichtozhili-esche-tri-drona-atakovavshih-moskvu/">Собянин: силы ПВО уничтожили ещё три дрона, атаковавших Москву</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:01</span> <a class="nodecor" href="https://news.rambler.ru/moscow_city/56150117-sobyanin-soobschil-o-vtorom-bpla-sbitom-na-podlete-k-moskve/">Собянин сообщил о втором БПЛА, сбитом на подлете к Москве</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/moscow_city/</div><!--n:260310 0600:s:1530422:e:3870-->

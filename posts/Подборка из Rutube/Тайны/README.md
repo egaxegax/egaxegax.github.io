@@ -4695,3 +4695,91 @@
     <i class="smaller3">2025-07-11</i>
   </div>
 </div><!--n:МОСКВА ПЛАВИТСЯ:s:419874:e:619-->
+<!----><!--2026-03-10 15:42:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dokument_cru_opisyvaet_eksperiment_s_distancionnym_nabljudeniem_civilizacii_marsa_million_let_nazad">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/711c5584ce554d809f2ac29c15fe39ef/" src="http://pic.rtbcdn.ru/video/2026-03-10/75/2a/752af57b4ffb22d88e5f3e17b35577a0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/dokument_cru_opisyvaet_eksperiment_s_distancionnym_nabljudeniem_civilizacii_marsa_million_let_nazad">Документ ЦРУ описывает эксперимент с «дистанционным наблюдением» цивилизации Марса миллион лет назад</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-10</i>
+  </div>
+</div><!--n:Документ ЦРУ описывает эксперимент с дистанционным наблюдением цивилизации Марса миллион лет назад:s:420547:e:931-->
+<!----><!--2026-03-09 13:48:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_1965_godu_v_sibirskoj_tajge_natknulis_na_mujchinu_uverennogo_chto_on_idet_po_marshrutu_21_veka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/50705a73123f026af47838c0a14d91bb/" src="http://pic.rtbcdn.ru/video/2026-03-09/65/98/659835ca465bf5a7f231d6aef19b6f72.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_1965_godu_v_sibirskoj_tajge_natknulis_na_mujchinu_uverennogo_chto_on_idet_po_marshrutu_21_veka">В 1965 году в сибирской тайге наткнулись на мужчину уверенного что он идёт по маршруту 21 века</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-09</i>
+  </div>
+</div><!--n:В 1965 году в сибирской тайге наткнулись на мужчину уверенного что он идёт по маршруту 21 века:s:421688:e:902-->
+<!----><!--2026-03-10 15:41:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_astronavt_posle_178_dnej_na_orbite_zayavil_chto_chelovechestvo_jivet_v_illjuzii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5dca38eeda5cd318acab165cd2076d18/" src="http://pic.rtbcdn.ru/video/2026-03-10/55/70/557040abc7fcebaae0f67409d10ebe0a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_astronavt_posle_178_dnej_na_orbite_zayavil_chto_chelovechestvo_jivet_v_illjuzii">Почему астронавт после 178 дней на орбите заявил что человечество живёт «в иллюзии»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-10</i>
+  </div>
+</div><!--n:Почему астронавт после 178 дней на орбите заявил что человечество живёт в иллюзии:s:422781:e:869-->
+<!----><!--2026-03-09 13:48:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_1977_godu_v_tomskoj_oblasti_traktorist_obnarujil_samolet_v_bolote_bez_sledov_padeniya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c877dcb2cffd78fc7aaedc1913ddf37a/" src="http://pic.rtbcdn.ru/video/2026-03-09/7e/9d/7e9de240541c5c2e18e1a8ba684aafc9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_1977_godu_v_tomskoj_oblasti_traktorist_obnarujil_samolet_v_bolote_bez_sledov_padeniya">В 1977 году в Томской области тракторист обнаружил самолёт в болоте без следов падения</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-09</i>
+  </div>
+</div><!--n:В 1977 году в Томской области тракторист обнаружил самолёт в болоте без следов падения:s:423822:e:873-->
+<!----><!--2026-03-10 15:40:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_jujnoj_dakote_para_nashla_u_dveri_strannye_sledy_bosyh_nog_na_snegu_s_razvernutymi_stupnyami">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/15aad06832409c190600cb0abf083c5d/" src="http://pic.rtbcdn.ru/video/2026-03-10/03/b0/03b030cb0f6f8b7203f8160582d31ac8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_jujnoj_dakote_para_nashla_u_dveri_strannye_sledy_bosyh_nog_na_snegu_s_razvernutymi_stupnyami">В Южной Дакоте пара нашла у двери странные следы босых ног на снегу с развернутыми ступнями</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-10</i>
+  </div>
+</div><!--n:В Южной Дакоте пара нашла у двери странные следы босых ног на снегу с развернутыми ступнями:s:424875:e:899-->
+<!----><!--2026-03-10 15:41:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/staroe_video_s_zayavleniem_o_yakoby_vozvrashchenii_anunnakov_na_zemlju">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d90107fa891cbc369a3b8283a57831b2/" src="http://pic.rtbcdn.ru/video/2026-03-10/7b/77/7b775866ab88628ff764388da7457dec.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/staroe_video_s_zayavleniem_o_yakoby_vozvrashchenii_anunnakov_na_zemlju">Старое видео с заявлением о якобы возвращении Ануннаков на Землю</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-10</i>
+  </div>
+</div><!--n:Старое видео с заявлением о якобы возвращении Ануннаков на Землю:s:425966:e:803-->
+<!----><!--2026-03-09 13:45:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_1960_godu_v_sverdlovske_zaderjali_jenshchinu_utverjdavshuju_chto_sssr_uje_ne_sushchestvuet">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b1edc47dc344cc85f8b2a4be289a7ee5/" src="http://pic.rtbcdn.ru/video/2026-03-09/e6/59/e659469bf6886793a302e63d9041e3a8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_1960_godu_v_sverdlovske_zaderjali_jenshchinu_utverjdavshuju_chto_sssr_uje_ne_sushchestvuet">В 1960 году в Свердловске задержали женщину утверждавшую что СССР уже не существует</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-09</i>
+  </div>
+</div><!--n:В 1960 году в Свердловске задержали женщину утверждавшую что СССР уже не существует:s:426913:e:878-->
+<!----><!--2026-03-10 15:40:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_staruju_seriju_simpsonov_snova_obsujdajut_na_fone_novyh_dokumentov_ob_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/41d59ddce58924596473cfc49bf7a1ef/" src="http://pic.rtbcdn.ru/video/2026-03-10/e8/22/e822359054f33f7a4dc968dcb57c2dc8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_staruju_seriju_simpsonov_snova_obsujdajut_na_fone_novyh_dokumentov_ob_nlo">Почему старую серию «Симпсонов» снова обсуждают на фоне новых документов об НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-10</i>
+  </div>
+</div><!--n:Почему старую серию Симпсонов снова обсуждают на фоне новых документов об НЛО:s:427966:e:853-->

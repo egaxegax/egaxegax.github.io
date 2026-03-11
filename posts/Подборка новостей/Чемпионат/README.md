@@ -4959,3 +4959,34 @@
 <div class="rssn">
   <div><span class="smaller gray hspace">07:11</span> <a class="nodecor" href="https://www.championat.ru/bets/news-6218870-atalanta-milan-bukmekery-ocenili-shansy-komand.html">«Аталанта» — «Милан»: букмекеры оценили шансы команд</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.championat.ru/rss/news/</div><!--n:251028 0800:s:660305:e:4039-->
+<!----><h2 class="hspace">Чемпионат на Вт 10 мар 2026 08:00</h2><!--2026-03-10 07:48:57-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:48</span> <a class="nodecor" href="https://www.championat.ru/tennis/news-6387728-daniil-medvedev-sebastyan-baes-rezultat-matcha-10-marta-2026-schet-2-0-3-j-krug-mastersa-v-indian-uellse.html">Даниил Медведев с «баранкой» обыграл Баэса и вышел в 4-й круг «Мастерса» в Индиан-Уэллсе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:45</span> <a class="nodecor" href="https://www.championat.ru/football/news-6387700-ukrainskij-futbol-s-takim-sudejstvom-umryot-aleksandr-usik-obrushilsya-s-kritikoj-na-sudej.html">«Украинский футбол с таким судейством умрёт». Александр Усик обрушился с критикой на судей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:43</span> <a class="nodecor" href="https://www.championat.ru/basketball/news-6387726-rezultaty-igrovogo-dnya-nba-10-marta.html">Результаты игрового дня НБА 10 марта</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:30</span> <a class="nodecor" href="https://www.championat.ru/lifestyle/news-6380412-psihiatr-obyasnil-kak-alkogol-vliyaet-na-nastroenie-na-samom-dele.html">Психиатр объяснил, как алкоголь влияет на настроение на самом деле</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:18</span> <a class="nodecor" href="https://www.championat.ru/tennis/news-6387718-karlos-alkaras-artur-rinderknesh-rezultat-matcha-10-marta-2026-schet-2-1-3-j-krug-mastersa-v-indian-uellse.html">Карлос Алькарас проиграл Риндеркнешу сет, но вышел в 4-й круг «Мастерса» в Индиан-Уэллсе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:10</span> <a class="nodecor" href="https://www.championat.ru/hockey/news-6387716-mne-40-let-i-tyazhelo-tyagatsya-s-molodymi-ovechkin-soobschil-o-vozmozhnom-zavershenii-karery.html">«Мне 40 лет и тяжело тягаться с молодыми». Овечкин сообщил о возможном завершении карьеры</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:06</span> <a class="nodecor" href="https://www.championat.ru/bets/news-6387432-stali-izvestny-shansy-barselony-pobedit-nyukasl-v-lige-chempionov.html">Стали известны шансы «Барселоны» победить «Ньюкасл» в Лиге чемпионов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:00</span> <a class="nodecor" href="https://www.championat.ru/football/news-6387612-marichal-barko-i-bitello-v-sbornoj-20-go-tura-rpl-po-versii-chempionata.html">Маричаль, Барко и Бителло — в сборной 20-го тура РПЛ по версии «Чемпионата»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">06:56</span> <a class="nodecor" href="https://www.championat.ru/tennis/news-6387706-medison-kiz-sonaj-kartal-rezultat-matcha-10-marta-2026-schet-1-2-3-j-krug-wta-1000-v-indian-uellse.html">Мэдисон Киз проиграла Сонай Картал в 3-м круге «тысячника» в Индиан-Уэллсе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">06:45</span> <a class="nodecor" href="https://www.championat.ru/hockey/news-6387708-vankuver-kenaks-ottava-senatorz-rezultat-matcha-10-marta-2026-schet-0-2-regulyarnyj-chempionat-nhl-2025-2026.html">Ассистентский дубль защитника Артёма Зуба помог «Оттаве» одолеть «Ванкувер»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.championat.ru/rss/news/</div><!--n:260310 0800:s:664381:e:4232-->
