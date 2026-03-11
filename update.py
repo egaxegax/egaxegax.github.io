@@ -245,9 +245,9 @@ def main(path='.'):
   if murls:
     io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u for urls in murls for u in urls])))
     io.open(path + '/sitemap1.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u.replace(surl, surl1) for urls in murls for u in urls])))
-    if cwd in ('songs', ): # split sitemap
-      for i, u in enumerate(murls):
-        io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
+    # if cwd in ('songs', ): # split sitemap
+    #   for i, u in enumerate(murls):
+    #     io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
 
   time.sleep(1)
 
