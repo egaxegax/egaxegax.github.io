@@ -1,10 +1,14 @@
 ## Инструкция пользования сайтом
 Сайт можно запустить и использовать локально. 
 
-* Выгрузить файлы из [репозитория](https://github.com/egaxegax/egaxegax.github.io)
-* Запустить веб-сервер из корневого каталога сайта
+* Выгрузить файлы из *репозитория*
+* Запустить веб-сервер HTTP/1.1 c Requested Ranges из корневого каталога сайта
 
         python srv.py 88
+
+* Запустить веб-сервер HTTP/1.0 (медленнее)
+
+        python -m http.server 88
 
   и набрать в браузере *localhost:88*
 
@@ -21,7 +25,7 @@
 
 * Из папки *books* запустить скрипт
 
-        python books2.py <dir_with_epub_files>
+        python books2fb2.py <dir_fb2_files>
 
 * Обновить страницу в браузере.
 
@@ -33,9 +37,3 @@
         python ../update.py
 
 * Обновить страницу в браузере.
-
-#### Добавить раздел */dbcartajs* *(Карты)*:
-
-* Выгрузить файлы из репозитория в папку сайта (*egaxegax.github.io*) командой:
-
-    git clone https://github.com/egaxegax/dbcartajs

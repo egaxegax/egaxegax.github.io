@@ -40,7 +40,7 @@ def tr_cut(t):
   """Remove from string cyrillic and special chars"""
   tr = []
   for ch in t:
-    if ch.lower() in r' ().,-_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
+    if ch.lower() in r' \'`().,-_абвгдеёжзийклмнопрстуфхцчшщыъьэюяabcdefghjijklmnopqrstuvwxyz0123456789':
       tr.append( ch )
     else:
       tr.append(' ')
@@ -58,17 +58,16 @@ def main(path='.', cwd='', count=0):
   for root, dirs, files in os.walk(path, topdown=False):
     for name in files:
       if 'README' in name and cwd in ('books', 'foto', 'posts', 'songs'):
-        print(name)
         with open(os.path.join(root, name), encoding='utf-8', newline='\n') as f:
           for item in [item for item in re.split('<!---->', f.read()) if item]:
             m = re.search(r'<!--n:(.+):s:(\d+):e:(\d+)-->', item)
-            try:    print(root, name, m.group())
-            except: print(root, name, '\n', item); raise
-            with open(os.path.join(root, tr_cut(m.group(1))+'.md'), 'w', encoding='utf-8', newline='\n') as ff:
+            try:    subj, titl = m.group(1).split('/')
+            except: subj = '' ; titl = m.group(1) #print(root, name, '\n', item); raise
+            os.makedirs(os.path.join(root, subj), exist_ok=True)
+            with open(os.path.join(root, subj, tr_cut(titl)+'.md'), 'w', encoding='utf-8', newline='\n') as ff:
               ff.write(item[:-(len(m.group())+1)])
             count += 1
         os.remove(os.path.join(root, name))
-
   print('Extracted:', count)
 
 if __name__ == '__main__':

@@ -24,7 +24,7 @@ async function fetchPart(p, clfunc) {
       clfunc('', p, response.status);
     } if (response.status === 206) {
       const buffer = await response.arrayBuffer();
-      console.log( `Fetched ${buffer.byteLength} bytes.` );
+      // console.log( `Fetched ${buffer.byteLength} bytes.` );
       clfunc((new TextDecoder('utf-8')).decode(buffer), p, response.status);
     } else if (response.ok) {
       // console.log('Server does not support Range requests. Full file returned.');
@@ -217,7 +217,7 @@ function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
   if(date_filter) rels_root = rels_root.filter(function(tit){ return (tit[3]<=msgs[0][3]); });
   var more_titles = [];
   if(tit_filter){
-    more_titles = rels_subj;
+    more_titles = rels_subj.sort(function(a,b){ return arraySort(a[2],b[2]); });;
   } else {
     more_titles = [rels_subj[rels_subj.length-1], rels_subj[rels_subj.length-2], rels_subj[rels_subj.length-3], rels_root[rels_root.length-1], rels_root[rels_root.length-2]];
   }

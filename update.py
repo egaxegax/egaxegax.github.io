@@ -6,7 +6,7 @@
 #   SUBJ   = [name,count,lasttime,rootkey] = subject dir
 #   TITLES = [subjkey,[offset,len],name,lasttime,rootkey] = files in subj. dir
 #
-# python3 ../update.py (from foto, posts, songs, books dirs)
+# python3 update.py {foto, posts, songs, books}
 #
 
 import json, io, linecache, re, os, sys, time
@@ -14,6 +14,7 @@ from updatelist import tr
 
 added = {}
 skipped = {}
+mdcache = {}
 
 def compact(s):
   s = re.sub(r'([\[,\]]+)\s*\n',r'\g<1>',s)
@@ -46,37 +47,43 @@ def addimgtomd(impath, mdpath):
   open(mdpath, 'w', encoding='utf-8', newline='\n').write(''.join(tags))
   os.remove(impath)
 
-def addmdtoreadme(mdpath, ftime=''):
+def addmdtoreadme(mdpath, ftime='', islastfile=0):
   name, ext = os.path.splitext(os.path.basename(mdpath))
   cont = open(mdpath, encoding='utf-8', newline='\n').read()
-  readme = os.path.join(os.path.dirname(mdpath), 'README.md')
-  if os.path.exists(readme):
-    with open(readme, encoding='utf-8', newline='\n') as f:
-      if '<!--n:'+ name +':' in f.read(): 
-        print('.', end='')
-        os.remove(mdpath)
-        return
-  added[mdpath] = 1
-  with open(readme, 'a', encoding='utf-8', newline='\n') as f:
-    of = f.tell()
-    f.write('<!---->'+ ftime + cont.strip())
-    f.write('<!--n:'+ name +':' +'s:'+ str(of) +':e:'+ str(f.tell() - of) +'-->\n')
+  readme = os.path.join(os.path.dirname(mdpath), '..', 'README.md')
+  rskey = os.path.basename(os.path.dirname(os.path.dirname(mdpath)))
+  skip = 0
+  if not rskey in mdcache:
+    if os.path.exists(readme): mdcache[rskey] = open(readme, encoding='utf-8', newline='\n').read()
+    else:                      mdcache[rskey] = ''
+  if '<!--n:'+ os.path.basename(os.path.dirname(mdpath)) +'/'+ name +':' in mdcache[rskey]:
+    print('.', end='')
     os.remove(mdpath)
+    addskipped('Duplicate')
+    skip = 1
+  if not skip:
+    with open(readme, 'a', encoding='utf-8', newline='\n') as f:
+      of = f.tell()
+      f.write('<!---->'+ ftime + cont.strip())
+      f.write('<!--n:'+ os.path.basename(os.path.dirname(mdpath)) +'/'+ name +':' +'s:'+ str(of) +':e:'+ str(f.tell() - of) +'-->\n')
+      os.remove(mdpath)
+      added[mdpath] = 1
+  if islastfile:
+    try:    os.rmdir(os.path.dirname(mdpath))
+    except: pass
 
 def addimgtoreadme(impath, ftime=''):
   name, ext = os.path.splitext(os.path.basename(impath))
-  readme = os.path.join(os.path.dirname(impath), 'README.md')
-  if os.path.exists(readme):
-    with open(readme, encoding='utf-8', newline='\n') as f:
-      if '<!--n:'+ name +':' in f.read(): 
-        print('.', end='')
-        return
+  readme = os.path.join(os.path.dirname(impath), '..', 'README.md')
+  added[impath] = 1
   with open(readme, 'a', encoding='utf-8', newline='\n') as f:
     of = f.tell()
     f.write('<!---->'+ ftime)
-    f.write('<!--n:'+ name +':' +'s:'+ str(of) +':e:'+ str(f.tell() - of) +'-->\n')
+    f.write('<!--n:'+ os.path.basename(os.path.dirname(impath)) +'/'+ name +':' +'s:'+ str(of) +':e:'+ str(f.tell() - of) +'-->\n')
+  if os.path.exists(os.path.splitext(impath)[0] + '.md'):
+    os.remove(os.path.splitext(impath)[0] + '.md')
 
-def readmetoindex(roots, subj, readmepath):
+def readmetoindex(readmepath):
   mlist = []
   with open(readmepath, encoding='utf-8', newline='\n') as f:
     for item in [item for item in re.split('<!---->', f.read()) if item]:
@@ -87,8 +94,9 @@ def readmetoindex(roots, subj, readmepath):
         print(f, item)
         raise
       m = re.search(r'<!--n:([^:]+):s:(\d+):e:(\d+)-->', item)
-      if m: 
-        mlist += [[roots, subj, m[1], ftime, [int(m[2]), int(m[3])]]]
+      try:    subj, titl = m[1].split('/')
+      except: print('Err ', item); continue
+      mlist += [[os.path.basename(os.path.dirname(readmepath)), subj, titl, ftime, [int(m[2]), int(m[3])]]]
   return mlist
 
 def addskipped(name):
@@ -100,16 +108,15 @@ def main(path='.'):
   cwd = os.path.basename(os.path.abspath(path))
 
   for root, dirs, files in os.walk(path, topdown=False):
-    for name in files:
+    for ifile, name in enumerate(files):
       fname, ext = os.path.splitext(name)
-      roots = os.path.basename(os.path.dirname(root))
       subj = os.path.basename(root)
 
       if root == path:
         continue
 
       if 'sitemap' in name or 'README' in name:
-        addskipped(name)
+        addskipped(fname)
         continue
 
       if cwd in ('books',) and name in ('about.md',): addimgtomd(os.path.join(root, 'about.jpg'), os.path.join(root, name))
@@ -137,16 +144,6 @@ def main(path='.'):
         if subj == 'th': # skip preview
           addskipped(subj)
           continue
-        # try:
-        #   import locale
-        #   sdate = name.split('.')
-        #   sdate = sdate[len(sdate) - 2].strip().split(' ')
-        #   sdate = sdate[0][:3] + ' ' + sdate[1]
-        #   locale.setlocale(locale.LC_TIME, 'ru_RU.UTF-8')
-        #   ftime = time.mktime(time.strptime(sdate, '%b %Yг'))
-        # except:
-        #   print('err', root, name)
-        #   raise
         try:
           from PIL import Image, ImageOps
           from PIL.ExifTags import TAGS
@@ -164,7 +161,7 @@ def main(path='.'):
           print(*sys.exc_info())
         ftime = '<!--'+ time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime)) +'-->'
         addimgtoreadme(os.path.join(root, name), ftime)
-      elif cwd in ('books', 'posts', 'songs', 'foto') and ext in ('.md',):
+      elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
         line = linecache.getline(os.path.join(root, name), 1)
         ftime = ''
         if re.search(r'^\d+-\d+-\d+\s\d+:\d+:\d+', line[line.find('<!--')+4:][:19].strip('->')):
@@ -173,7 +170,7 @@ def main(path='.'):
           ftime = '<!--'+ time.strftime('%Y-%m-%d %H:%M:%S', time.strptime(name[:11], '%y%m%d %H%M')) +'-->'
         else:
           ftime = '<!--'+ time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(os.path.getmtime(os.path.join(root, name)))) +'-->'
-        addmdtoreadme(os.path.join(root, name), ftime)
+        addmdtoreadme(os.path.join(root, name), ftime, ifile == len(files) - 1)
       else:
         addskipped(name)
         continue
@@ -181,14 +178,11 @@ def main(path='.'):
   mfiles = []
   for root, dirs, files in os.walk(path, topdown=False):
     for name in files:
-      roots = os.path.basename(os.path.dirname(root))
-      subj = os.path.basename(root)
-
       if root == path:
         continue
 
       if 'README' in name and cwd in ('books', 'posts', 'songs', 'foto'):
-        mfiles += readmetoindex(roots, subj, os.path.join(root, name))
+        mfiles += readmetoindex(os.path.join(root, name))
       else:
         continue
 
@@ -231,7 +225,7 @@ def main(path='.'):
     murls[iroot] += [surl +'/'+ sdir +'.html?'+ tr(f[1])+'/'+tr(f[2])]
     if sdir == 'foto':
       murls[iroot] += [surl +'/'+ sdir +'/'+ f[1] +'/'+ f[2]+ '.jpg']
-  print( '\n===', cwd, '===\nUpdated:', len(mfiles), '\nAdded:', len(added), '\nSkipped:', tuple(k+':'+str(v) for k,v in skipped.items()) )
+  print( '\n', cwd, ': Updated:', len(mfiles), 'Added:', len(added), 'Skipped:', tuple(k+':'+str(v) for k,v in skipped.items()) )
 
   mroots_s = sorted(mroots)
   msubj_s = sorted(msubj)
