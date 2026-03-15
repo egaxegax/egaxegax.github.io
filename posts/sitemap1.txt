@@ -9810,6 +9810,11 @@ https://egaxegax.github.io/index.html?sports/250923_0800
 https://egaxegax.github.io/index.html?sports/250924_0800
 https://egaxegax.github.io/index.html?sports/260314_1600
 https://egaxegax.github.io/index.html?sports/about
+https://egaxegax.github.io/index.html?spravochnik_po_python_3
+https://egaxegax.github.io/index.html?spravochnik_po_python_3/about
+https://egaxegax.github.io/index.html?spravochnik_po_python_3/additional_methods_on_onteger_types
+https://egaxegax.github.io/index.html?spravochnik_po_python_3/bitwise_operations
+https://egaxegax.github.io/index.html?spravochnik_po_python_3/file_operations
 https://egaxegax.github.io/index.html?staraya_evropa
 https://egaxegax.github.io/index.html?staraya_evropa/about
 https://egaxegax.github.io/index.html?staraya_evropa/brjugge

@@ -21,7 +21,7 @@ input[type=text], select { background:#fff; }
 .readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; }
 .readme ul li { padding:2px 0; }
 .readme a { color:#777; font-style:italic; }
-/* football tables */
+/* tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
 .g td {width:60px; background:#fff; border:1px solid lightgray; white-space:nowrap; padding:2px;}
@@ -35,7 +35,7 @@ input[type=text], select { background:#fff; }
 .bb {border-bottom:1px dotted #333;}
 .mb {padding-bottom:10px;}
 /* feed post */
-.yb { margin:5px 0 0 0; line-height:1.4em; }
+.yb,.interesnoe { margin:5px 0 0 0; line-height:1.4em; }
 .yb a { color:#333; }
 .yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
 .yb iframe.embed { border:0; border-radius:4px; width:100vw; height:30vw; }
@@ -47,6 +47,7 @@ input[type=text], select { background:#fff; }
 .rss { min-height:150px; }
 .rss strong { font-weight:normal; }
 .kino_kino img,.kino_teatr img { margin:0px 10px 1px 0px !important; }
+.interesnoe,.razrabotka { margin:5px 10px; line-height:1.4em; }
 @media (max-width:800px){ .rss img { border-radius:2px; display:block; margin:0 0 10px 0; }}
 @media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss news ria, eadaily */

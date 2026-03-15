@@ -928,6 +928,1485 @@ body {
 Легендарная игра с приставок теперь есть в онлайне на [playminigames.ru](http://playminigames.ru/game/contra).<!--n:Записки сайта/190916 1936:s:138998:e:210-->
 <!----><!--2021-11-20 15:45:00-->Добавил ссылки на файлы *sitemap.txt* внизу страниц.<!--n:Записки сайта/211120 1545:s:139270:e:117-->
 <!----><!--2025-09-20 22:21:30-->Что нового? Новости, изменения, обновления на сайте и не только.<!--n:Записки сайта/about:s:139449:e:148-->
+<!----><!--2026-03-15 23:01:34--><section id="additional-methods-on-integer-types">
+<h2>Additional Methods on Integer Types<a class="headerlink" href="#additional-methods-on-integer-types" title="Link to this heading"></a></h2>
+<p>The int type implements the <a class="reference internal" href="numbers.html#numbers.Integral" title="numbers.Integral"><code class="xref py py-class docutils literal notranslate"><span class="pre">numbers.Integral</span></code></a> <a class="reference internal" href="../glossary.html#term-abstract-base-class"><span class="xref std std-term">abstract base
+class</span></a>. In addition, it provides a few more methods:</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="int.bit_length">
+<span class="sig-prename descclassname"><span class="pre">int.</span></span><span class="sig-name descname"><span class="pre"><span class="highlighted">bit</span>_length</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#int.bit_length" title="Link to this definition"></a></dt>
+<dd><p>Return the number of <span class="highlighted">bit</span>s necessary to represent an integer in binary,
+excluding the sign and leading zeros:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">n</span> <span class="o">=</span> <span class="o">-</span><span class="mi">37</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">bin</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="go">'-0b100101'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">n</span><span class="o">.</span><span class="n"><span class="highlighted">bit</span>_length</span><span class="p">()</span>
+<span class="go">6</span>
+</pre></div>
+</div>
+<p>More precisely, if <code class="docutils literal notranslate"><span class="pre">x</span></code> is nonzero, then <code class="docutils literal notranslate"><span class="pre">x.<span class="highlighted">bit</span>_length()</span></code> is the
+unique positive integer <code class="docutils literal notranslate"><span class="pre">k</span></code> such that <code class="docutils literal notranslate"><span class="pre">2**(k-1)</span> <span class="pre">&lt;=</span> <span class="pre">abs(x)</span> <span class="pre">&lt;</span> <span class="pre">2**k</span></code>.
+Equivalently, when <code class="docutils literal notranslate"><span class="pre">abs(x)</span></code> is small enough to have a correctly
+rounded logarithm, then <code class="docutils literal notranslate"><span class="pre">k</span> <span class="pre">=</span> <span class="pre">1</span> <span class="pre">+</span> <span class="pre">int(log(abs(x),</span> <span class="pre">2))</span></code>.
+If <code class="docutils literal notranslate"><span class="pre">x</span></code> is zero, then <code class="docutils literal notranslate"><span class="pre">x.<span class="highlighted">bit</span>_length()</span></code> returns <code class="docutils literal notranslate"><span class="pre">0</span></code>.</p>
+<p>Equivalent to:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf"><span class="highlighted">bit</span>_length</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="nb">bin</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>       <span class="c1"># binary representation:  bin(-37) --&gt; '-0b100101'</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">lstrip</span><span class="p">(</span><span class="s1">'-0b'</span><span class="p">)</span> <span class="c1"># remove leading zeros and minus sign</span>
+    <span class="k">return</span> <span class="nb">len</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>       <span class="c1"># len('100101') --&gt; 6</span>
+</pre></div>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.1.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="int.bit_count">
+<span class="sig-prename descclassname"><span class="pre">int.</span></span><span class="sig-name descname"><span class="pre"><span class="highlighted">bit</span>_count</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#int.bit_count" title="Link to this definition"></a></dt>
+<dd><p>Return the number of ones in the binary representation of the absolute
+value of the integer. This is also known as the population count.
+Example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">n</span> <span class="o">=</span> <span class="mi">19</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">bin</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="go">'0b10011'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">n</span><span class="o">.</span><span class="n"><span class="highlighted">bit</span>_count</span><span class="p">()</span>
+<span class="go">3</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="p">(</span><span class="o">-</span><span class="n">n</span><span class="p">)</span><span class="o">.</span><span class="n"><span class="highlighted">bit</span>_count</span><span class="p">()</span>
+<span class="go">3</span>
+</pre></div>
+</div>
+<p>Equivalent to:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf"><span class="highlighted">bit</span>_count</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="k">return</span> <span class="nb">bin</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span><span class="o">.</span><span class="n">count</span><span class="p">(</span><span class="s2">"1"</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.10.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="int.to_bytes">
+<span class="sig-prename descclassname"><span class="pre">int.</span></span><span class="sig-name descname"><span class="pre">to_bytes</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">length</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">byteorder</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'big'</span></span></em>, <em class="sig-param"><span class="keyword-only-separator o"><abbr title="Keyword-only parameters separator (PEP 3102)"><span class="pre">*</span></abbr></span></em>, <em class="sig-param"><span class="n"><span class="pre">signed</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#int.to_bytes" title="Link to this definition"></a></dt>
+<dd><p>Return an array of bytes representing an integer.</p>
+<div class="doctest highlight-default notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="p">(</span><span class="mi">1024</span><span class="p">)</span><span class="o">.</span><span class="n">to_bytes</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">)</span>
+<span class="go">b'\x04\x00'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="p">(</span><span class="mi">1024</span><span class="p">)</span><span class="o">.</span><span class="n">to_bytes</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">)</span>
+<span class="go">b'\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="p">(</span><span class="o">-</span><span class="mi">1024</span><span class="p">)</span><span class="o">.</span><span class="n">to_bytes</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">,</span> <span class="n">signed</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="go">b'\xff\xff\xff\xff\xff\xff\xff\xff\xfc\x00'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">x</span> <span class="o">=</span> <span class="mi">1000</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">x</span><span class="o">.</span><span class="n">to_bytes</span><span class="p">((</span><span class="n">x</span><span class="o">.</span><span class="n"><span class="highlighted">bit</span>_length</span><span class="p">()</span> <span class="o">+</span> <span class="mi">7</span><span class="p">)</span> <span class="o">//</span> <span class="mi">8</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'little'</span><span class="p">)</span>
+<span class="go">b'\xe8\x03'</span>
+</pre></div>
+</div>
+<p>The integer is represented using <em>length</em> bytes, and defaults to 1.  An
+<a class="reference internal" href="exceptions.html#OverflowError" title="OverflowError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">OverflowError</span></code></a> is raised if the integer is not representable with
+the given number of bytes.</p>
+<p>The <em>byteorder</em> argument determines the byte order used to represent the
+integer, and defaults to <code class="docutils literal notranslate"><span class="pre">"big"</span></code>.  If <em>byteorder</em> is
+<code class="docutils literal notranslate"><span class="pre">"big"</span></code>, the most significant byte is at the beginning of the byte
+array.  If <em>byteorder</em> is <code class="docutils literal notranslate"><span class="pre">"little"</span></code>, the most significant byte is at
+the end of the byte array.</p>
+<p>The <em>signed</em> argument determines whether two’s complement is used to
+represent the integer.  If <em>signed</em> is <code class="docutils literal notranslate"><span class="pre">False</span></code> and a negative integer is
+given, an <a class="reference internal" href="exceptions.html#OverflowError" title="OverflowError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">OverflowError</span></code></a> is raised. The default value for <em>signed</em>
+is <code class="docutils literal notranslate"><span class="pre">False</span></code>.</p>
+<p>The default values can be used to conveniently turn an integer into a
+single byte object:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="p">(</span><span class="mi">65</span><span class="p">)</span><span class="o">.</span><span class="n">to_bytes</span><span class="p">()</span>
+<span class="go">b'A'</span>
+</pre></div>
+</div>
+<p>However, when using the default arguments, don’t try
+to convert a value greater than 255 or you’ll get an <a class="reference internal" href="exceptions.html#OverflowError" title="OverflowError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">OverflowError</span></code></a>.</p>
+<p>Equivalent to:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">to_bytes</span><span class="p">(</span><span class="n">n</span><span class="p">,</span> <span class="n">length</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">,</span> <span class="n">signed</span><span class="o">=</span><span class="kc">False</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">byteorder</span> <span class="o">==</span> <span class="s1">'little'</span><span class="p">:</span>
+        <span class="n">order</span> <span class="o">=</span> <span class="nb">range</span><span class="p">(</span><span class="n">length</span><span class="p">)</span>
+    <span class="k">elif</span> <span class="n">byteorder</span> <span class="o">==</span> <span class="s1">'big'</span><span class="p">:</span>
+        <span class="n">order</span> <span class="o">=</span> <span class="nb">reversed</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="n">length</span><span class="p">))</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">"byteorder must be either 'little' or 'big'"</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="nb">bytes</span><span class="p">((</span><span class="n">n</span> <span class="o">&gt;&gt;</span> <span class="n">i</span><span class="o">*</span><span class="mi">8</span><span class="p">)</span> <span class="o">&amp;</span> <span class="mh">0xff</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">order</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.2.</span></p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.11: </span>Added default argument values for <code class="docutils literal notranslate"><span class="pre">length</span></code> and <code class="docutils literal notranslate"><span class="pre">byteorder</span></code>.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="int.from_bytes">
+<em class="property"><span class="k"><span class="pre">classmethod</span></span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">int.</span></span><span class="sig-name descname"><span class="pre">from_bytes</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">bytes</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">byteorder</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'big'</span></span></em>, <em class="sig-param"><span class="keyword-only-separator o"><abbr title="Keyword-only parameters separator (PEP 3102)"><span class="pre">*</span></abbr></span></em>, <em class="sig-param"><span class="n"><span class="pre">signed</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#int.from_bytes" title="Link to this definition"></a></dt>
+<dd><p>Return the integer represented by the given array of bytes.</p>
+<div class="doctest highlight-default notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span><span class="sa">b</span><span class="s1">'</span><span class="se">\x00\x10</span><span class="s1">'</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">)</span>
+<span class="go">16</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span><span class="sa">b</span><span class="s1">'</span><span class="se">\x00\x10</span><span class="s1">'</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'little'</span><span class="p">)</span>
+<span class="go">4096</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span><span class="sa">b</span><span class="s1">'</span><span class="se">\xfc\x00</span><span class="s1">'</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">,</span> <span class="n">signed</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="go">-1024</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span><span class="sa">b</span><span class="s1">'</span><span class="se">\xfc\x00</span><span class="s1">'</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">,</span> <span class="n">signed</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="go">64512</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">([</span><span class="mi">255</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">],</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">)</span>
+<span class="go">16711680</span>
+</pre></div>
+</div>
+<p>The argument <em>bytes</em> must either be a <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a> or an
+iterable producing bytes.</p>
+<p>The <em>byteorder</em> argument determines the byte order used to represent the
+integer, and defaults to <code class="docutils literal notranslate"><span class="pre">"big"</span></code>.  If <em>byteorder</em> is
+<code class="docutils literal notranslate"><span class="pre">"big"</span></code>, the most significant byte is at the beginning of the byte
+array.  If <em>byteorder</em> is <code class="docutils literal notranslate"><span class="pre">"little"</span></code>, the most significant byte is at
+the end of the byte array.  To request the native byte order of the host
+system, use <a class="reference internal" href="sys.html#sys.byteorder" title="sys.byteorder"><code class="xref py py-data docutils literal notranslate"><span class="pre">sys.byteorder</span></code></a> as the byte order value.</p>
+<p>The <em>signed</em> argument indicates whether two’s complement is used to
+represent the integer.</p>
+<p>Equivalent to:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">from_bytes</span><span class="p">(</span><span class="nb">bytes</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s1">'big'</span><span class="p">,</span> <span class="n">signed</span><span class="o">=</span><span class="kc">False</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">byteorder</span> <span class="o">==</span> <span class="s1">'little'</span><span class="p">:</span>
+        <span class="n">little_ordered</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="nb">bytes</span><span class="p">)</span>
+    <span class="k">elif</span> <span class="n">byteorder</span> <span class="o">==</span> <span class="s1">'big'</span><span class="p">:</span>
+        <span class="n">little_ordered</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="nb">reversed</span><span class="p">(</span><span class="nb">bytes</span><span class="p">))</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">"byteorder must be either 'little' or 'big'"</span><span class="p">)</span>
+
+    <span class="n">n</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">b</span> <span class="o">&lt;&lt;</span> <span class="n">i</span><span class="o">*</span><span class="mi">8</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">b</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">little_ordered</span><span class="p">))</span>
+    <span class="k">if</span> <span class="n">signed</span> <span class="ow">and</span> <span class="n">little_ordered</span> <span class="ow">and</span> <span class="p">(</span><span class="n">little_ordered</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="o">&amp;</span> <span class="mh">0x80</span><span class="p">):</span>
+        <span class="n">n</span> <span class="o">-=</span> <span class="mi">1</span> <span class="o">&lt;&lt;</span> <span class="mi">8</span><span class="o">*</span><span class="nb">len</span><span class="p">(</span><span class="n">little_ordered</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">n</span>
+</pre></div>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.2.</span></p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.11: </span>Added default argument value for <code class="docutils literal notranslate"><span class="pre">byteorder</span></code>.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="int.as_integer_ratio">
+<span class="sig-prename descclassname"><span class="pre">int.</span></span><span class="sig-name descname"><span class="pre">as_integer_ratio</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#int.as_integer_ratio" title="Link to this definition"></a></dt>
+<dd><p>Return a pair of integers whose ratio is equal to the original
+integer and has a positive denominator.  The integer ratio of integers
+(whole numbers) is always the integer as the numerator and <code class="docutils literal notranslate"><span class="pre">1</span></code> as the
+denominator.</p>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.8.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="int.is_integer">
+<span class="sig-prename descclassname"><span class="pre">int.</span></span><span class="sig-name descname"><span class="pre">is_integer</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#int.is_integer" title="Link to this definition"></a></dt>
+<dd><p>Returns <code class="docutils literal notranslate"><span class="pre">True</span></code>. Exists for duck type compatibility with <a class="reference internal" href="#float.is_integer" title="float.is_integer"><code class="xref py py-meth docutils literal notranslate"><span class="pre">float.is_integer()</span></code></a>.</p>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.12.</span></p>
+</div>
+</dd></dl>
+
+</section><!--n:Справочник по Python 3/Additional Methods on Onteger Types:s:139653:e:24758-->
+<!----><!--2026-03-15 23:05:38--><section id="file-object-creation">
+<span id="os-newstreams"></span><h2>File Object Creation<a class="headerlink" href="#file-object-creation" title="Link to this heading"></a></h2>
+<p>These functions create new <a class="reference internal" href="../glossary.html#term-file-object"><span class="xref std std-term">file objects</span></a>.  (See also
+<a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code></a> for <span class="highlighted">open</span>ing file descriptors.)</p>
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fdopen">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fd<span class="highlighted">open</span></span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">*</span></span><span class="n"><span class="pre">args</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fdopen" title="Link to this definition"></a></dt>
+<dd><p>Return an <span class="highlighted">open</span> file object connected to the file descriptor <em>fd</em>.  This is an
+alias of the <a class="reference internal" href="functions.html#open" title="open"><code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code></a> built-in function and accepts the same arguments.
+The only difference is that the first argument of <code class="xref py py-func docutils literal notranslate"><span class="pre">fdopen()</span></code> must always
+be an integer.</p>
+</dd></dl>
+
+</section>
+<section id="file-descriptor-operations">
+<span id="os-fd-ops"></span><h2>File Descriptor Operations<a class="headerlink" href="#file-descriptor-operations" title="Link to this heading"></a></h2>
+<p>These functions operate on I/O streams referenced using file descriptors.</p>
+<p>File descriptors are small integers corresponding to a file that has been <span class="highlighted">open</span>ed
+by the current process.  For example, standard input is usually file descriptor
+0, standard output is 1, and standard error is 2.  Further files <span class="highlighted">open</span>ed by a
+process will then be assigned 3, 4, 5, and so forth.  The name “file descriptor”
+is slightly deceptive; on Unix platforms, sockets and pipes are also referenced
+by file descriptors.</p>
+<p>The <a class="reference internal" href="io.html#io.IOBase.fileno" title="io.IOBase.fileno"><code class="xref py py-meth docutils literal notranslate"><span class="pre">fileno()</span></code></a> method can be used to obtain the file descriptor
+associated with a <a class="reference internal" href="../glossary.html#term-file-object"><span class="xref std std-term">file object</span></a> when required.  Note that using the file
+descriptor directly will bypass the file object methods, ignoring aspects such
+as internal buffering of data.</p>
+<dl class="py function">
+<dt class="sig sig-object py" id="os.close">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">close</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.close" title="Link to this definition"></a></dt>
+<dd><p>Close file descriptor <em>fd</em>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This function is intended for low-level I/O and must be applied to a file
+descriptor as returned by <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a> or <a class="reference internal" href="#os.pipe" title="os.pipe"><code class="xref py py-func docutils literal notranslate"><span class="pre">pipe()</span></code></a>.  To close a “file
+object” returned by the built-in function <a class="reference internal" href="functions.html#open" title="open"><code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code></a> or by <a class="reference internal" href="#os.popen" title="os.popen"><code class="xref py py-func docutils literal notranslate"><span class="pre">p<span class="highlighted">open</span>()</span></code></a> or
+<a class="reference internal" href="#os.fdopen" title="os.fdopen"><code class="xref py py-func docutils literal notranslate"><span class="pre">fd<span class="highlighted">open</span>()</span></code></a>, use its <a class="reference internal" href="io.html#io.IOBase.close" title="io.IOBase.close"><code class="xref py py-meth docutils literal notranslate"><span class="pre">close()</span></code></a> method.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.closerange">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">closerange</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd_low</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fd_high</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.closerange" title="Link to this definition"></a></dt>
+<dd><p>Close all file descriptors from <em>fd_low</em> (inclusive) to <em>fd_high</em> (exclusive),
+ignoring errors. Equivalent to (but much faster than):</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="k">for</span> <span class="n">fd</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">fd_low</span><span class="p">,</span> <span class="n">fd_high</span><span class="p">):</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">os</span><span class="o">.</span><span class="n">close</span><span class="p">(</span><span class="n">fd</span><span class="p">)</span>
+    <span class="k">except</span> <span class="ne">OSError</span><span class="p">:</span>
+        <span class="k">pass</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.copy_file_range">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">copy_file_range</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">src</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">dst</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">count</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset_src</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset_dst</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.copy_file_range" title="Link to this definition"></a></dt>
+<dd><p>Copy <em>count</em> bytes from file descriptor <em>src</em>, starting from offset
+<em>offset_src</em>, to file descriptor <em>dst</em>, starting from offset <em>offset_dst</em>.
+If <em>offset_src</em> is <code class="docutils literal notranslate"><span class="pre">None</span></code>, then <em>src</em> is read from the current position;
+respectively for <em>offset_dst</em>.</p>
+<p>In Linux kernel older than 5.3, the files pointed to by <em>src</em> and <em>dst</em>
+must reside in the same filesystem, otherwise an <a class="reference internal" href="exceptions.html#OSError" title="OSError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">OSError</span></code></a> is
+raised with <a class="reference internal" href="exceptions.html#OSError.errno" title="OSError.errno"><code class="xref py py-attr docutils literal notranslate"><span class="pre">errno</span></code></a> set to <a class="reference internal" href="errno.html#errno.EXDEV" title="errno.EXDEV"><code class="xref py py-const docutils literal notranslate"><span class="pre">errno.EXDEV</span></code></a>.</p>
+<p>This copy is done without the additional cost of transferring data
+from the kernel to user space and then back into the kernel. Additionally,
+some filesystems could implement extra optimizations, such as the use of
+reflinks (i.e., two or more inodes that share pointers to the same
+copy-on-write disk blocks; supported file systems include btrfs and XFS)
+and server-side copy (in the case of NFS).</p>
+<p>The function copies bytes between two file descriptors. Text options, like
+the encoding and the line ending, are ignored.</p>
+<p>The return value is the amount of bytes copied. This could be less than the
+amount requested.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>On Linux, <a class="reference internal" href="#os.copy_file_range" title="os.copy_file_range"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.copy_file_range()</span></code></a> should not be used for copying a
+range of a pseudo file from a special filesystem like procfs and sysfs.
+It will always copy no bytes and return 0 as if the file was empty
+because of a known Linux kernel issue.</p>
+</div>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 4.5 with glibc &gt;= 2.27.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.8.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.device_encoding">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">device_encoding</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.device_encoding" title="Link to this definition"></a></dt>
+<dd><p>Return a string describing the encoding of the device associated with <em>fd</em>
+if it is connected to a terminal; else return <a class="reference internal" href="constants.html#None" title="None"><code class="xref py py-const docutils literal notranslate"><span class="pre">None</span></code></a>.</p>
+<p>On Unix, if the <a class="reference internal" href="#utf8-mode"><span class="std std-ref">Python UTF-8 Mode</span></a> is enabled, return
+<code class="docutils literal notranslate"><span class="pre">'UTF-8'</span></code> rather than the device encoding.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.10: </span>On Unix, the function now implements the Python UTF-8 Mode.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.dup">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">dup</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.dup" title="Link to this definition"></a></dt>
+<dd><p>Return a duplicate of file descriptor <em>fd</em>. The new file descriptor is
+<a class="reference internal" href="#fd-inheritance"><span class="std std-ref">non-inheritable</span></a>.</p>
+<p>On Windows, when duplicating a standard stream (0: stdin, 1: stdout,
+2: stderr), the new file descriptor is <a class="reference internal" href="#fd-inheritance"><span class="std std-ref">inheritable</span></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: not WASI.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.4: </span>The new file descriptor is now non-inheritable.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.dup2">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">dup2</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fd2</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">inheritable</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">True</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.dup2" title="Link to this definition"></a></dt>
+<dd><p>Duplicate file descriptor <em>fd</em> to <em>fd2</em>, closing the latter first if
+necessary. Return <em>fd2</em>. The new file descriptor is <a class="reference internal" href="#fd-inheritance"><span class="std std-ref">inheritable</span></a> by default or non-inheritable if <em>inheritable</em>
+is <code class="docutils literal notranslate"><span class="pre">False</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: not WASI.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.4: </span>Add the optional <em>inheritable</em> parameter.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.7: </span>Return <em>fd2</em> on success. Previously, <code class="docutils literal notranslate"><span class="pre">None</span></code> was always returned.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fchmod">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fchmod</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">mode</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fchmod" title="Link to this definition"></a></dt>
+<dd><p>Change the mode of the file given by <em>fd</em> to the numeric <em>mode</em>.  See the
+docs for <a class="reference internal" href="#os.chmod" title="os.chmod"><code class="xref py py-func docutils literal notranslate"><span class="pre">chmod()</span></code></a> for possible values of <em>mode</em>.  As of Python 3.3, this
+is equivalent to <code class="docutils literal notranslate"><span class="pre">os.chmod(fd,</span> <span class="pre">mode)</span></code>.</p>
+<p class="audit-hook">Raises an <a class="reference internal" href="sys.html#auditing"><span class="std std-ref">auditing event</span></a> <code class="docutils literal notranslate"><span class="pre">os.chmod</span></code> with arguments <code class="docutils literal notranslate"><span class="pre">path</span></code>, <code class="docutils literal notranslate"><span class="pre">mode</span></code>, <code class="docutils literal notranslate"><span class="pre">dir_fd</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, Windows.</p>
+<p>The function is limited on WASI, see <a class="reference internal" href="intro.html#wasm-availability"><span class="std std-ref">WebAssembly platforms</span></a> for more
+information.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.13: </span>Added support on Windows.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fchown">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fchown</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">uid</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">gid</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fchown" title="Link to this definition"></a></dt>
+<dd><p>Change the owner and group id of the file given by <em>fd</em> to the numeric <em>uid</em>
+and <em>gid</em>.  To leave one of the ids unchanged, set it to -1.  See
+<a class="reference internal" href="#os.chown" title="os.chown"><code class="xref py py-func docutils literal notranslate"><span class="pre">chown()</span></code></a>.  As of Python 3.3, this is equivalent to <code class="docutils literal notranslate"><span class="pre">os.chown(fd,</span> <span class="pre">uid,</span>
+<span class="pre">gid)</span></code>.</p>
+<p class="audit-hook">Raises an <a class="reference internal" href="sys.html#auditing"><span class="std std-ref">auditing event</span></a> <code class="docutils literal notranslate"><span class="pre">os.chown</span></code> with arguments <code class="docutils literal notranslate"><span class="pre">path</span></code>, <code class="docutils literal notranslate"><span class="pre">uid</span></code>, <code class="docutils literal notranslate"><span class="pre">gid</span></code>, <code class="docutils literal notranslate"><span class="pre">dir_fd</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+<p>The function is limited on WASI, see <a class="reference internal" href="intro.html#wasm-availability"><span class="std std-ref">WebAssembly platforms</span></a> for more
+information.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fdatasync">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fdatasync</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fdatasync" title="Link to this definition"></a></dt>
+<dd><p>Force write of file with filedescriptor <em>fd</em> to disk. Does not force update of
+metadata.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This function is not available on MacOS.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fpathconf">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fpathconf</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">name</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fpathconf" title="Link to this definition"></a></dt>
+<dd><p>Return system configuration information relevant to an <span class="highlighted">open</span> file. <em>name</em>
+specifies the configuration value to retrieve; it may be a string which is the
+name of a defined system value; these names are specified in a number of
+standards (POSIX.1, Unix 95, Unix 98, and others).  Some platforms define
+additional names as well.  The names known to the host operating system are
+given in the <code class="docutils literal notranslate"><span class="pre">pathconf_names</span></code> dictionary.  For configuration variables not
+included in that mapping, passing an integer for <em>name</em> is also accepted.</p>
+<p>If <em>name</em> is a string and is not known, <a class="reference internal" href="exceptions.html#ValueError" title="ValueError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">ValueError</span></code></a> is raised.  If a
+specific value for <em>name</em> is not supported by the host system, even if it is
+included in <code class="docutils literal notranslate"><span class="pre">pathconf_names</span></code>, an <a class="reference internal" href="exceptions.html#OSError" title="OSError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">OSError</span></code></a> is raised with
+<a class="reference internal" href="errno.html#errno.EINVAL" title="errno.EINVAL"><code class="xref py py-const docutils literal notranslate"><span class="pre">errno.EINVAL</span></code></a> for the error number.</p>
+<p>As of Python 3.3, this is equivalent to <code class="docutils literal notranslate"><span class="pre">os.pathconf(fd,</span> <span class="pre">name)</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fstat">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fstat</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fstat" title="Link to this definition"></a></dt>
+<dd><p>Get the status of the file descriptor <em>fd</em>. Return a <a class="reference internal" href="#os.stat_result" title="os.stat_result"><code class="xref py py-class docutils literal notranslate"><span class="pre">stat_result</span></code></a>
+object.</p>
+<p>As of Python 3.3, this is equivalent to <code class="docutils literal notranslate"><span class="pre">os.stat(fd)</span></code>.</p>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p>The <a class="reference internal" href="#os.stat" title="os.stat"><code class="xref py py-func docutils literal notranslate"><span class="pre">stat()</span></code></a> function.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fstatvfs">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fstatvfs</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fstatvfs" title="Link to this definition"></a></dt>
+<dd><p>Return information about the filesystem containing the file associated with
+file descriptor <em>fd</em>, like <a class="reference internal" href="#os.statvfs" title="os.statvfs"><code class="xref py py-func docutils literal notranslate"><span class="pre">statvfs()</span></code></a>.  As of Python 3.3, this is
+equivalent to <code class="docutils literal notranslate"><span class="pre">os.statvfs(fd)</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.fsync">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">fsync</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.fsync" title="Link to this definition"></a></dt>
+<dd><p>Force write of file with filedescriptor <em>fd</em> to disk.  On Unix, this calls the
+native <code class="xref c c-func docutils literal notranslate"><span class="pre">fsync()</span></code> function; on Windows, the MS <code class="xref c c-func docutils literal notranslate"><span class="pre">_commit()</span></code> function.</p>
+<p>If you’re starting with a buffered Python <a class="reference internal" href="../glossary.html#term-file-object"><span class="xref std std-term">file object</span></a> <em>f</em>, first do
+<code class="docutils literal notranslate"><span class="pre">f.flush()</span></code>, and then do <code class="docutils literal notranslate"><span class="pre">os.fsync(f.fileno())</span></code>, to ensure that all internal
+buffers associated with <em>f</em> are written to disk.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, Windows.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.ftruncate">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">ftruncate</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">length</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.ftruncate" title="Link to this definition"></a></dt>
+<dd><p>Truncate the file corresponding to file descriptor <em>fd</em>, so that it is at
+most <em>length</em> bytes in size.  As of Python 3.3, this is equivalent to
+<code class="docutils literal notranslate"><span class="pre">os.truncate(fd,</span> <span class="pre">length)</span></code>.</p>
+<p class="audit-hook">Raises an <a class="reference internal" href="sys.html#auditing"><span class="std std-ref">auditing event</span></a> <code class="docutils literal notranslate"><span class="pre">os.truncate</span></code> with arguments <code class="docutils literal notranslate"><span class="pre">fd</span></code>, <code class="docutils literal notranslate"><span class="pre">length</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, Windows.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.5: </span>Added support for Windows</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.get_blocking">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">get_blocking</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.get_blocking" title="Link to this definition"></a></dt>
+<dd><p>Get the blocking mode of the file descriptor: <code class="docutils literal notranslate"><span class="pre">False</span></code> if the
+<a class="reference internal" href="#os.O_NONBLOCK" title="os.O_NONBLOCK"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_NONBLOCK</span></code></a> flag is set, <code class="docutils literal notranslate"><span class="pre">True</span></code> if the flag is cleared.</p>
+<p>See also <a class="reference internal" href="#os.set_blocking" title="os.set_blocking"><code class="xref py py-func docutils literal notranslate"><span class="pre">set_blocking()</span></code></a> and <a class="reference internal" href="socket.html#socket.socket.setblocking" title="socket.socket.setblocking"><code class="xref py py-meth docutils literal notranslate"><span class="pre">socket.socket.setblocking()</span></code></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, Windows.</p>
+<p>The function is limited on WASI, see <a class="reference internal" href="intro.html#wasm-availability"><span class="std std-ref">WebAssembly platforms</span></a> for more
+information.</p>
+<p>On Windows, this function is limited to pipes.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.5.</span></p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.12: </span>Added support for pipes on Windows.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.grantpt">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">grantpt</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.grantpt" title="Link to this definition"></a></dt>
+<dd><p>Grant access to the slave pseudo-terminal device associated with the
+master pseudo-terminal device to which the file descriptor <em>fd</em> refers.
+The file descriptor <em>fd</em> is not closed upon failure.</p>
+<p>Calls the C standard library function <code class="xref c c-func docutils literal notranslate"><span class="pre">grantpt()</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.13.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.isatty">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">isatty</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.isatty" title="Link to this definition"></a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if the file descriptor <em>fd</em> is <span class="highlighted">open</span> and connected to a
+tty(-like) device, else <code class="docutils literal notranslate"><span class="pre">False</span></code>.</p>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.lockf">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">lockf</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">cmd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">len</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.lockf" title="Link to this definition"></a></dt>
+<dd><p>Apply, test or remove a POSIX lock on an <span class="highlighted">open</span> file descriptor.
+<em>fd</em> is an <span class="highlighted">open</span> file descriptor.
+<em>cmd</em> specifies the command to use - one of <a class="reference internal" href="#os.F_LOCK" title="os.F_LOCK"><code class="xref py py-data docutils literal notranslate"><span class="pre">F_LOCK</span></code></a>, <a class="reference internal" href="#os.F_TLOCK" title="os.F_TLOCK"><code class="xref py py-data docutils literal notranslate"><span class="pre">F_TLOCK</span></code></a>,
+<a class="reference internal" href="#os.F_ULOCK" title="os.F_ULOCK"><code class="xref py py-data docutils literal notranslate"><span class="pre">F_ULOCK</span></code></a> or <a class="reference internal" href="#os.F_TEST" title="os.F_TEST"><code class="xref py py-data docutils literal notranslate"><span class="pre">F_TEST</span></code></a>.
+<em>len</em> specifies the section of the file to lock.</p>
+<p class="audit-hook">Raises an <a class="reference internal" href="sys.html#auditing"><span class="std std-ref">auditing event</span></a> <code class="docutils literal notranslate"><span class="pre">os.lockf</span></code> with arguments <code class="docutils literal notranslate"><span class="pre">fd</span></code>, <code class="docutils literal notranslate"><span class="pre">cmd</span></code>, <code class="docutils literal notranslate"><span class="pre">len</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.F_LOCK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">F_LOCK</span></span><a class="headerlink" href="#os.F_LOCK" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.F_TLOCK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">F_TLOCK</span></span><a class="headerlink" href="#os.F_TLOCK" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.F_ULOCK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">F_ULOCK</span></span><a class="headerlink" href="#os.F_ULOCK" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.F_TEST">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">F_TEST</span></span><a class="headerlink" href="#os.F_TEST" title="Link to this definition"></a></dt>
+<dd><p>Flags that specify what action <a class="reference internal" href="#os.lockf" title="os.lockf"><code class="xref py py-func docutils literal notranslate"><span class="pre">lockf()</span></code></a> will take.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.login_tty">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">login_tty</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.login_tty" title="Link to this definition"></a></dt>
+<dd><p>Prepare the tty of which fd is a file descriptor for a new login session.
+Make the calling process a session leader; make the tty the controlling tty,
+the stdin, the stdout, and the stderr of the calling process; close fd.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.11.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.lseek">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">lseek</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">pos</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">whence</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.lseek" title="Link to this definition"></a></dt>
+<dd><p>Set the current position of file descriptor <em>fd</em> to position <em>pos</em>, modified
+by <em>whence</em>, and return the new position in bytes relative to
+the start of the file.
+Valid values for <em>whence</em> are:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#os.SEEK_SET" title="os.SEEK_SET"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_SET</span></code></a> or <code class="docutils literal notranslate"><span class="pre">0</span></code> – set <em>pos</em> relative to the beginning of the file</p></li>
+<li><p><a class="reference internal" href="#os.SEEK_CUR" title="os.SEEK_CUR"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_CUR</span></code></a> or <code class="docutils literal notranslate"><span class="pre">1</span></code> – set <em>pos</em> relative to the current file position</p></li>
+<li><p><a class="reference internal" href="#os.SEEK_END" title="os.SEEK_END"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_END</span></code></a> or <code class="docutils literal notranslate"><span class="pre">2</span></code> – set <em>pos</em> relative to the end of the file</p></li>
+<li><p><a class="reference internal" href="#os.SEEK_HOLE" title="os.SEEK_HOLE"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_HOLE</span></code></a> – set <em>pos</em> to the next data location, relative to <em>pos</em></p></li>
+<li><p><a class="reference internal" href="#os.SEEK_DATA" title="os.SEEK_DATA"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_DATA</span></code></a> – set <em>pos</em> to the next data hole, relative to <em>pos</em></p></li>
+</ul>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Add support for <code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_HOLE</span></code> and <code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_DATA</span></code>.</p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.SEEK_SET">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SEEK_SET</span></span><a class="headerlink" href="#os.SEEK_SET" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.SEEK_CUR">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SEEK_CUR</span></span><a class="headerlink" href="#os.SEEK_CUR" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.SEEK_END">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SEEK_END</span></span><a class="headerlink" href="#os.SEEK_END" title="Link to this definition"></a></dt>
+<dd><p>Parameters to the <a class="reference internal" href="#os.lseek" title="os.lseek"><code class="xref py py-func docutils literal notranslate"><span class="pre">lseek()</span></code></a> function and the <a class="reference internal" href="io.html#io.IOBase.seek" title="io.IOBase.seek"><code class="xref py py-meth docutils literal notranslate"><span class="pre">seek()</span></code></a>
+method on <a class="reference internal" href="../glossary.html#term-file-object"><span class="xref std std-term">file-like objects</span></a>,
+for whence to adjust the file position indicator.</p>
+<dl class="simple">
+<dt><a class="reference internal" href="#os.SEEK_SET" title="os.SEEK_SET"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_SET</span></code></a></dt><dd><p>Adjust the file position relative to the beginning of the file.</p>
+</dd>
+<dt><a class="reference internal" href="#os.SEEK_CUR" title="os.SEEK_CUR"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_CUR</span></code></a></dt><dd><p>Adjust the file position relative to the current file position.</p>
+</dd>
+<dt><a class="reference internal" href="#os.SEEK_END" title="os.SEEK_END"><code class="xref py py-const docutils literal notranslate"><span class="pre">SEEK_END</span></code></a></dt><dd><p>Adjust the file position relative to the end of the file.</p>
+</dd>
+</dl>
+<p>Their values are 0, 1, and 2, respectively.</p>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.SEEK_HOLE">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SEEK_HOLE</span></span><a class="headerlink" href="#os.SEEK_HOLE" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.SEEK_DATA">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SEEK_DATA</span></span><a class="headerlink" href="#os.SEEK_DATA" title="Link to this definition"></a></dt>
+<dd><p>Parameters to the <a class="reference internal" href="#os.lseek" title="os.lseek"><code class="xref py py-func docutils literal notranslate"><span class="pre">lseek()</span></code></a> function and the <a class="reference internal" href="io.html#io.IOBase.seek" title="io.IOBase.seek"><code class="xref py py-meth docutils literal notranslate"><span class="pre">seek()</span></code></a>
+method on <a class="reference internal" href="../glossary.html#term-file-object"><span class="xref std std-term">file-like objects</span></a>,
+for seeking file data and holes on sparsely allocated files.</p>
+<dl class="simple">
+<dt><code class="xref py py-data docutils literal notranslate"><span class="pre">SEEK_DATA</span></code></dt><dd><p>Adjust the file offset to the next location containing data,
+relative to the seek position.</p>
+</dd>
+<dt><code class="xref py py-data docutils literal notranslate"><span class="pre">SEEK_HOLE</span></code></dt><dd><p>Adjust the file offset to the next location containing a hole,
+relative to the seek position.
+A hole is defined as a sequence of zeros.</p>
+</dd>
+</dl>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>These operations only make sense for filesystems that support them.</p>
+</div>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 3.1, macOS, Unix</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.open">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre"><span class="highlighted">open</span></span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">flags</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">mode</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">0o777</span></span></em>, <em class="sig-param"><span class="keyword-only-separator o"><abbr title="Keyword-only parameters separator (PEP 3102)"><span class="pre">*</span></abbr></span></em>, <em class="sig-param"><span class="n"><span class="pre">dir_fd</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.open" title="Link to this definition"></a></dt>
+<dd><p><span class="highlighted">Open</span> the file <em>path</em> and set various flags according to <em>flags</em> and possibly
+its mode according to <em>mode</em>.  When computing <em>mode</em>, the current umask value
+is first masked out.  Return the file descriptor for the newly <span class="highlighted">open</span>ed file.
+The new file descriptor is <a class="reference internal" href="#fd-inheritance"><span class="std std-ref">non-inheritable</span></a>.</p>
+<p>For a description of the flag and mode values, see the C run-time documentation;
+flag constants (like <a class="reference internal" href="#os.O_RDONLY" title="os.O_RDONLY"><code class="xref py py-const docutils literal notranslate"><span class="pre">O_RDONLY</span></code></a> and <a class="reference internal" href="#os.O_WRONLY" title="os.O_WRONLY"><code class="xref py py-const docutils literal notranslate"><span class="pre">O_WRONLY</span></code></a>) are defined in
+the <code class="xref py py-mod docutils literal notranslate"><span class="pre">os</span></code> module.  In particular, on Windows adding
+<a class="reference internal" href="#os.O_BINARY" title="os.O_BINARY"><code class="xref py py-const docutils literal notranslate"><span class="pre">O_BINARY</span></code></a> is needed to <span class="highlighted">open</span> files in binary mode.</p>
+<p>This function can support <a class="reference internal" href="#dir-fd"><span class="std std-ref">paths relative to directory descriptors</span></a> with the <em>dir_fd</em> parameter.</p>
+<p class="audit-hook">Raises an <a class="reference internal" href="sys.html#auditing"><span class="std std-ref">auditing event</span></a> <code class="docutils literal notranslate"><span class="pre"><span class="highlighted">open</span></span></code> with arguments <code class="docutils literal notranslate"><span class="pre">path</span></code>, <code class="docutils literal notranslate"><span class="pre">mode</span></code>, <code class="docutils literal notranslate"><span class="pre">flags</span></code>.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.4: </span>The new file descriptor is now non-inheritable.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This function is intended for low-level I/O.  For normal usage, use the
+built-in function <code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code>, which returns a <a class="reference internal" href="../glossary.html#term-file-object"><span class="xref std std-term">file object</span></a> with
+<a class="reference internal" href="io.html#io.BufferedIOBase.read" title="io.BufferedIOBase.read"><code class="xref py py-meth docutils literal notranslate"><span class="pre">read()</span></code></a> and <a class="reference internal" href="io.html#io.BufferedIOBase.write" title="io.BufferedIOBase.write"><code class="xref py py-meth docutils literal notranslate"><span class="pre">write()</span></code></a> methods.
+To wrap a file descriptor in a file object, use <a class="reference internal" href="#os.fdopen" title="os.fdopen"><code class="xref py py-func docutils literal notranslate"><span class="pre">fd<span class="highlighted">open</span>()</span></code></a>.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Added the <em>dir_fd</em> parameter.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.5: </span>If the system call is interrupted and the signal handler does not raise an
+exception, the function now retries the system call instead of raising an
+<a class="reference internal" href="exceptions.html#InterruptedError" title="InterruptedError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">InterruptedError</span></code></a> exception (see <span class="target" id="index-22"></span><a class="pep reference external" href="https://peps.python.org/pep-0475/"><strong>PEP 475</strong></a> for the rationale).</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.6: </span>Accepts a <a class="reference internal" href="../glossary.html#term-path-like-object"><span class="xref std std-term">path-like object</span></a>.</p>
+</div>
+</dd></dl>
+
+<p>The following constants are options for the <em>flags</em> parameter to the
+<a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code></a> function.  They can be combined using the bitwise OR operator
+<code class="docutils literal notranslate"><span class="pre">|</span></code>.  Some of them are not available on all platforms.  For descriptions of
+their availability and use, consult the <em class="manpage"><a class="manpage reference external" href="https://manpages.debian.org/open(2)"><span class="highlighted">open</span>(2)</a></em> manual page on Unix
+or <a class="reference external" href="https://msdn.microsoft.com/en-us/library/z0kc8e3z.aspx">the MSDN</a> on Windows.</p>
+<dl class="py data">
+<dt class="sig sig-object py" id="os.O_RDONLY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_RDONLY</span></span><a class="headerlink" href="#os.O_RDONLY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_WRONLY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_WRONLY</span></span><a class="headerlink" href="#os.O_WRONLY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_RDWR">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_RDWR</span></span><a class="headerlink" href="#os.O_RDWR" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_APPEND">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_APPEND</span></span><a class="headerlink" href="#os.O_APPEND" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_CREAT">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_CREAT</span></span><a class="headerlink" href="#os.O_CREAT" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_EXCL">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_EXCL</span></span><a class="headerlink" href="#os.O_EXCL" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_TRUNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_TRUNC</span></span><a class="headerlink" href="#os.O_TRUNC" title="Link to this definition"></a></dt>
+<dd><p>The above constants are available on Unix and Windows.</p>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.O_DSYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_DSYNC</span></span><a class="headerlink" href="#os.O_DSYNC" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_RSYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_RSYNC</span></span><a class="headerlink" href="#os.O_RSYNC" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_SYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_SYNC</span></span><a class="headerlink" href="#os.O_SYNC" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_NDELAY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_NDELAY</span></span><a class="headerlink" href="#os.O_NDELAY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_NONBLOCK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_NONBLOCK</span></span><a class="headerlink" href="#os.O_NONBLOCK" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_NOCTTY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_NOCTTY</span></span><a class="headerlink" href="#os.O_NOCTTY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_CLOEXEC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_CLOEXEC</span></span><a class="headerlink" href="#os.O_CLOEXEC" title="Link to this definition"></a></dt>
+<dd><p>The above constants are only available on Unix.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Add <code class="xref py py-data docutils literal notranslate"><span class="pre">O_CLOEXEC</span></code> constant.</p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.O_BINARY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_BINARY</span></span><a class="headerlink" href="#os.O_BINARY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_NOINHERIT">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_NOINHERIT</span></span><a class="headerlink" href="#os.O_NOINHERIT" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_SHORT_LIVED">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_SHORT_LIVED</span></span><a class="headerlink" href="#os.O_SHORT_LIVED" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_TEMPORARY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_TEMPORARY</span></span><a class="headerlink" href="#os.O_TEMPORARY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_RANDOM">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_RANDOM</span></span><a class="headerlink" href="#os.O_RANDOM" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_SEQUENTIAL">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_SEQUENTIAL</span></span><a class="headerlink" href="#os.O_SEQUENTIAL" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_TEXT">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_TEXT</span></span><a class="headerlink" href="#os.O_TEXT" title="Link to this definition"></a></dt>
+<dd><p>The above constants are only available on Windows.</p>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.O_EVTONLY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_EVTONLY</span></span><a class="headerlink" href="#os.O_EVTONLY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_FSYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_FSYNC</span></span><a class="headerlink" href="#os.O_FSYNC" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_SYMLINK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_SYMLINK</span></span><a class="headerlink" href="#os.O_SYMLINK" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_NOFOLLOW_ANY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_NOFOLLOW_ANY</span></span><a class="headerlink" href="#os.O_NOFOLLOW_ANY" title="Link to this definition"></a></dt>
+<dd><p>The above constants are only available on macOS.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.10: </span>Add <code class="xref py py-data docutils literal notranslate"><span class="pre">O_EVTONLY</span></code>, <code class="xref py py-data docutils literal notranslate"><span class="pre">O_FSYNC</span></code>, <code class="xref py py-data docutils literal notranslate"><span class="pre">O_SYMLINK</span></code>
+and <code class="xref py py-data docutils literal notranslate"><span class="pre">O_NOFOLLOW_ANY</span></code> constants.</p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.O_ASYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_ASYNC</span></span><a class="headerlink" href="#os.O_ASYNC" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_DIRECT">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_DIRECT</span></span><a class="headerlink" href="#os.O_DIRECT" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_DIRECTORY">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_DIRECTORY</span></span><a class="headerlink" href="#os.O_DIRECTORY" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_NOFOLLOW">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_NOFOLLOW</span></span><a class="headerlink" href="#os.O_NOFOLLOW" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_NOATIME">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_NOATIME</span></span><a class="headerlink" href="#os.O_NOATIME" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_PATH">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_PATH</span></span><a class="headerlink" href="#os.O_PATH" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_TMPFILE">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_TMPFILE</span></span><a class="headerlink" href="#os.O_TMPFILE" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_SHLOCK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_SHLOCK</span></span><a class="headerlink" href="#os.O_SHLOCK" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.O_EXLOCK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">O_EXLOCK</span></span><a class="headerlink" href="#os.O_EXLOCK" title="Link to this definition"></a></dt>
+<dd><p>The above constants are extensions and not present if they are not defined by
+the C library.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.4: </span>Add <code class="xref py py-data docutils literal notranslate"><span class="pre">O_PATH</span></code> on systems that support it.
+Add <code class="xref py py-data docutils literal notranslate"><span class="pre">O_TMPFILE</span></code>, only available on Linux Kernel 3.11
+  or newer.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.openpty">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre"><span class="highlighted">open</span>pty</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#os.openpty" title="Link to this definition"></a></dt>
+<dd><p id="index-23"><span class="highlighted">Open</span> a new pseudo-terminal pair. Return a pair of file descriptors
+<code class="docutils literal notranslate"><span class="pre">(master,</span> <span class="pre">slave)</span></code> for the pty and the tty, respectively. The new file
+descriptors are <a class="reference internal" href="#fd-inheritance"><span class="std std-ref">non-inheritable</span></a>. For a (slightly) more
+portable approach, use the <a class="reference internal" href="pty.html#module-pty" title="pty: Pseudo-Terminal Handling for Unix."><code class="xref py py-mod docutils literal notranslate"><span class="pre">pty</span></code></a> module.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.4: </span>The new file descriptors are now non-inheritable.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.pipe">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">pipe</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#os.pipe" title="Link to this definition"></a></dt>
+<dd><p>Create a pipe.  Return a pair of file descriptors <code class="docutils literal notranslate"><span class="pre">(r,</span> <span class="pre">w)</span></code> usable for
+reading and writing, respectively. The new file descriptor is
+<a class="reference internal" href="#fd-inheritance"><span class="std std-ref">non-inheritable</span></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, Windows.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.4: </span>The new file descriptors are now non-inheritable.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.pipe2">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">pipe2</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">flags</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.pipe2" title="Link to this definition"></a></dt>
+<dd><p>Create a pipe with <em>flags</em> set atomically.
+<em>flags</em> can be constructed by ORing together one or more of these values:
+<a class="reference internal" href="#os.O_NONBLOCK" title="os.O_NONBLOCK"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_NONBLOCK</span></code></a>, <a class="reference internal" href="#os.O_CLOEXEC" title="os.O_CLOEXEC"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_CLOEXEC</span></code></a>.
+Return a pair of file descriptors <code class="docutils literal notranslate"><span class="pre">(r,</span> <span class="pre">w)</span></code> usable for reading and writing,
+respectively.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.posix_fallocate">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">posix_fallocate</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">len</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.posix_fallocate" title="Link to this definition"></a></dt>
+<dd><p>Ensures that enough disk space is allocated for the file specified by <em>fd</em>
+starting from <em>offset</em> and continuing for <em>len</em> bytes.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.posix_fadvise">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">posix_fadvise</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">len</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">advice</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.posix_fadvise" title="Link to this definition"></a></dt>
+<dd><p>Announces an intention to access data in a specific pattern thus allowing
+the kernel to make optimizations.
+The advice applies to the region of the file specified by <em>fd</em> starting at
+<em>offset</em> and continuing for <em>len</em> bytes.
+<em>advice</em> is one of <a class="reference internal" href="#os.POSIX_FADV_NORMAL" title="os.POSIX_FADV_NORMAL"><code class="xref py py-data docutils literal notranslate"><span class="pre">POSIX_FADV_NORMAL</span></code></a>, <a class="reference internal" href="#os.POSIX_FADV_SEQUENTIAL" title="os.POSIX_FADV_SEQUENTIAL"><code class="xref py py-data docutils literal notranslate"><span class="pre">POSIX_FADV_SEQUENTIAL</span></code></a>,
+<a class="reference internal" href="#os.POSIX_FADV_RANDOM" title="os.POSIX_FADV_RANDOM"><code class="xref py py-data docutils literal notranslate"><span class="pre">POSIX_FADV_RANDOM</span></code></a>, <a class="reference internal" href="#os.POSIX_FADV_NOREUSE" title="os.POSIX_FADV_NOREUSE"><code class="xref py py-data docutils literal notranslate"><span class="pre">POSIX_FADV_NOREUSE</span></code></a>,
+<a class="reference internal" href="#os.POSIX_FADV_WILLNEED" title="os.POSIX_FADV_WILLNEED"><code class="xref py py-data docutils literal notranslate"><span class="pre">POSIX_FADV_WILLNEED</span></code></a> or <a class="reference internal" href="#os.POSIX_FADV_DONTNEED" title="os.POSIX_FADV_DONTNEED"><code class="xref py py-data docutils literal notranslate"><span class="pre">POSIX_FADV_DONTNEED</span></code></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.POSIX_FADV_NORMAL">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">POSIX_FADV_NORMAL</span></span><a class="headerlink" href="#os.POSIX_FADV_NORMAL" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.POSIX_FADV_SEQUENTIAL">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">POSIX_FADV_SEQUENTIAL</span></span><a class="headerlink" href="#os.POSIX_FADV_SEQUENTIAL" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.POSIX_FADV_RANDOM">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">POSIX_FADV_RANDOM</span></span><a class="headerlink" href="#os.POSIX_FADV_RANDOM" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.POSIX_FADV_NOREUSE">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">POSIX_FADV_NOREUSE</span></span><a class="headerlink" href="#os.POSIX_FADV_NOREUSE" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.POSIX_FADV_WILLNEED">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">POSIX_FADV_WILLNEED</span></span><a class="headerlink" href="#os.POSIX_FADV_WILLNEED" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.POSIX_FADV_DONTNEED">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">POSIX_FADV_DONTNEED</span></span><a class="headerlink" href="#os.POSIX_FADV_DONTNEED" title="Link to this definition"></a></dt>
+<dd><p>Flags that can be used in <em>advice</em> in <a class="reference internal" href="#os.posix_fadvise" title="os.posix_fadvise"><code class="xref py py-func docutils literal notranslate"><span class="pre">posix_fadvise()</span></code></a> that specify
+the access pattern that is likely to be used.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.pread">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">pread</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">n</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.pread" title="Link to this definition"></a></dt>
+<dd><p>Read at most <em>n</em> bytes from file descriptor <em>fd</em> at a position of <em>offset</em>,
+leaving the file offset unchanged.</p>
+<p>Return a bytestring containing the bytes read. If the end of the file
+referred to by <em>fd</em> has been reached, an empty bytes object is returned.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.posix_openpt">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">posix_<span class="highlighted">open</span>pt</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">oflag</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.posix_openpt" title="Link to this definition"></a></dt>
+<dd><p><span class="highlighted">Open</span> and return a file descriptor for a master pseudo-terminal device.</p>
+<p>Calls the C standard library function <code class="xref c c-func docutils literal notranslate"><span class="pre">posix_<span class="highlighted">open</span>pt()</span></code>. The <em>oflag</em>
+argument is used to set file status flags and file access modes as
+specified in the manual page of <code class="xref c c-func docutils literal notranslate"><span class="pre">posix_<span class="highlighted">open</span>pt()</span></code> of your system.</p>
+<p>The returned file descriptor is <a class="reference internal" href="#fd-inheritance"><span class="std std-ref">non-inheritable</span></a>.
+If the value <a class="reference internal" href="#os.O_CLOEXEC" title="os.O_CLOEXEC"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_CLOEXEC</span></code></a> is available on the system, it is added to
+<em>oflag</em>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.13.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.preadv">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">preadv</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">buffers</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">flags</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">0</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.preadv" title="Link to this definition"></a></dt>
+<dd><p>Read from a file descriptor <em>fd</em> at a position of <em>offset</em> into mutable
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like objects</span></a> <em>buffers</em>, leaving the file
+offset unchanged.  Transfer data into each buffer until it is full and then
+move on to the next buffer in the sequence to hold the rest of the data.</p>
+<p>The flags argument contains a bitwise OR of zero or more of the following
+flags:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#os.RWF_HIPRI" title="os.RWF_HIPRI"><code class="xref py py-data docutils literal notranslate"><span class="pre">RWF_HIPRI</span></code></a></p></li>
+<li><p><a class="reference internal" href="#os.RWF_NOWAIT" title="os.RWF_NOWAIT"><code class="xref py py-data docutils literal notranslate"><span class="pre">RWF_NOWAIT</span></code></a></p></li>
+</ul>
+<p>Return the total number of bytes actually read which can be less than the
+total capacity of all the objects.</p>
+<p>The operating system may set a limit (<a class="reference internal" href="#os.sysconf" title="os.sysconf"><code class="xref py py-func docutils literal notranslate"><span class="pre">sysconf()</span></code></a> value
+<code class="docutils literal notranslate"><span class="pre">'SC_IOV_MAX'</span></code>) on the number of buffers that can be used.</p>
+<p>Combine the functionality of <a class="reference internal" href="#os.readv" title="os.readv"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.readv()</span></code></a> and <a class="reference internal" href="#os.pread" title="os.pread"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.pread()</span></code></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 2.6.30, FreeBSD &gt;= 6.0, <span class="highlighted">Open</span>BSD &gt;= 2.7, AIX &gt;= 7.1.</p>
+<p>Using flags requires Linux &gt;= 4.6.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.7.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.RWF_NOWAIT">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">RWF_NOWAIT</span></span><a class="headerlink" href="#os.RWF_NOWAIT" title="Link to this definition"></a></dt>
+<dd><p>Do not wait for data which is not immediately available. If this flag is
+specified, the system call will return instantly if it would have to read
+data from the backing storage or wait for a lock.</p>
+<p>If some data was successfully read, it will return the number of bytes read.
+If no bytes were read, it will return <code class="docutils literal notranslate"><span class="pre">-1</span></code> and set errno to
+<a class="reference internal" href="errno.html#errno.EAGAIN" title="errno.EAGAIN"><code class="xref py py-const docutils literal notranslate"><span class="pre">errno.EAGAIN</span></code></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 4.14.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.7.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.RWF_HIPRI">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">RWF_HIPRI</span></span><a class="headerlink" href="#os.RWF_HIPRI" title="Link to this definition"></a></dt>
+<dd><p>High priority read/write. Allows block-based filesystems to use polling
+of the device, which provides lower latency, but may use additional
+resources.</p>
+<p>Currently, on Linux, this feature is usable only on a file descriptor <span class="highlighted">open</span>ed
+using the <a class="reference internal" href="#os.O_DIRECT" title="os.O_DIRECT"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_DIRECT</span></code></a> flag.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 4.6.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.7.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.ptsname">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">ptsname</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.ptsname" title="Link to this definition"></a></dt>
+<dd><p>Return the name of the slave pseudo-terminal device associated with the
+master pseudo-terminal device to which the file descriptor <em>fd</em> refers.
+The file descriptor <em>fd</em> is not closed upon failure.</p>
+<p>Calls the reentrant C standard library function <code class="xref c c-func docutils literal notranslate"><span class="pre">ptsname_r()</span></code> if
+it is available; otherwise, the C standard library function
+<code class="xref c c-func docutils literal notranslate"><span class="pre">ptsname()</span></code>, which is not guaranteed to be thread-safe, is called.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.13.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.pwrite">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">pwrite</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.pwrite" title="Link to this definition"></a></dt>
+<dd><p>Write the bytestring in <em>str</em> to file descriptor <em>fd</em> at position of
+<em>offset</em>, leaving the file offset unchanged.</p>
+<p>Return the number of bytes actually written.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.pwritev">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">pwritev</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">buffers</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">flags</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">0</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.pwritev" title="Link to this definition"></a></dt>
+<dd><p>Write the <em>buffers</em> contents to file descriptor <em>fd</em> at an offset <em>offset</em>,
+leaving the file offset unchanged.  <em>buffers</em> must be a sequence of
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like objects</span></a>. Buffers are processed in
+array order. Entire contents of the first buffer is written before
+proceeding to the second, and so on.</p>
+<p>The flags argument contains a bitwise OR of zero or more of the following
+flags:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#os.RWF_DSYNC" title="os.RWF_DSYNC"><code class="xref py py-data docutils literal notranslate"><span class="pre">RWF_DSYNC</span></code></a></p></li>
+<li><p><a class="reference internal" href="#os.RWF_SYNC" title="os.RWF_SYNC"><code class="xref py py-data docutils literal notranslate"><span class="pre">RWF_SYNC</span></code></a></p></li>
+<li><p><a class="reference internal" href="#os.RWF_APPEND" title="os.RWF_APPEND"><code class="xref py py-data docutils literal notranslate"><span class="pre">RWF_APPEND</span></code></a></p></li>
+</ul>
+<p>Return the total number of bytes actually written.</p>
+<p>The operating system may set a limit (<a class="reference internal" href="#os.sysconf" title="os.sysconf"><code class="xref py py-func docutils literal notranslate"><span class="pre">sysconf()</span></code></a> value
+<code class="docutils literal notranslate"><span class="pre">'SC_IOV_MAX'</span></code>) on the number of buffers that can be used.</p>
+<p>Combine the functionality of <a class="reference internal" href="#os.writev" title="os.writev"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.writev()</span></code></a> and <a class="reference internal" href="#os.pwrite" title="os.pwrite"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.pwrite()</span></code></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 2.6.30, FreeBSD &gt;= 6.0, <span class="highlighted">Open</span>BSD &gt;= 2.7, AIX &gt;= 7.1.</p>
+<p>Using flags requires Linux &gt;= 4.6.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.7.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.RWF_DSYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">RWF_DSYNC</span></span><a class="headerlink" href="#os.RWF_DSYNC" title="Link to this definition"></a></dt>
+<dd><p>Provide a per-write equivalent of the <a class="reference internal" href="#os.O_DSYNC" title="os.O_DSYNC"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_DSYNC</span></code></a> <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a> flag.
+This flag effect applies only to the data range written by the system call.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 4.7.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.7.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.RWF_SYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">RWF_SYNC</span></span><a class="headerlink" href="#os.RWF_SYNC" title="Link to this definition"></a></dt>
+<dd><p>Provide a per-write equivalent of the <a class="reference internal" href="#os.O_SYNC" title="os.O_SYNC"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_SYNC</span></code></a> <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a> flag.
+This flag effect applies only to the data range written by the system call.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 4.7.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.7.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.RWF_APPEND">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">RWF_APPEND</span></span><a class="headerlink" href="#os.RWF_APPEND" title="Link to this definition"></a></dt>
+<dd><p>Provide a per-write equivalent of the <a class="reference internal" href="#os.O_APPEND" title="os.O_APPEND"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_APPEND</span></code></a> <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a>
+flag. This flag is meaningful only for <a class="reference internal" href="#os.pwritev" title="os.pwritev"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.pwritev()</span></code></a>, and its
+effect applies only to the data range written by the system call. The
+<em>offset</em> argument does not affect the write operation; the data is always
+appended to the end of the file. However, if the <em>offset</em> argument is
+<code class="docutils literal notranslate"><span class="pre">-1</span></code>, the current file <em>offset</em> is updated.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 4.16.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.10.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.read">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">read</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">n</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.read" title="Link to this definition"></a></dt>
+<dd><p>Read at most <em>n</em> bytes from file descriptor <em>fd</em>.</p>
+<p>Return a bytestring containing the bytes read. If the end of the file
+referred to by <em>fd</em> has been reached, an empty bytes object is returned.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This function is intended for low-level I/O and must be applied to a file
+descriptor as returned by <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a> or <a class="reference internal" href="#os.pipe" title="os.pipe"><code class="xref py py-func docutils literal notranslate"><span class="pre">pipe()</span></code></a>.  To read a
+“file object” returned by the built-in function <a class="reference internal" href="functions.html#open" title="open"><code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code></a> or by
+<a class="reference internal" href="#os.popen" title="os.popen"><code class="xref py py-func docutils literal notranslate"><span class="pre">p<span class="highlighted">open</span>()</span></code></a> or <a class="reference internal" href="#os.fdopen" title="os.fdopen"><code class="xref py py-func docutils literal notranslate"><span class="pre">fd<span class="highlighted">open</span>()</span></code></a>, or <a class="reference internal" href="sys.html#sys.stdin" title="sys.stdin"><code class="xref py py-data docutils literal notranslate"><span class="pre">sys.stdin</span></code></a>, use its
+<a class="reference internal" href="io.html#io.TextIOBase.read" title="io.TextIOBase.read"><code class="xref py py-meth docutils literal notranslate"><span class="pre">read()</span></code></a> or <a class="reference internal" href="io.html#io.IOBase.readline" title="io.IOBase.readline"><code class="xref py py-meth docutils literal notranslate"><span class="pre">readline()</span></code></a> methods.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.5: </span>If the system call is interrupted and the signal handler does not raise an
+exception, the function now retries the system call instead of raising an
+<a class="reference internal" href="exceptions.html#InterruptedError" title="InterruptedError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">InterruptedError</span></code></a> exception (see <span class="target" id="index-24"></span><a class="pep reference external" href="https://peps.python.org/pep-0475/"><strong>PEP 475</strong></a> for the rationale).</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.readinto">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">readinto</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">buffer</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.readinto" title="Link to this definition"></a></dt>
+<dd><p>Read from a file descriptor <em>fd</em> into a mutable
+<a class="reference internal" href="../c-api/buffer.html#bufferobjects"><span class="std std-ref">buffer object</span></a> <em>buffer</em>.</p>
+<p>The <em>buffer</em> should be mutable and <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like</span></a>. On
+success, returns the number of bytes read. Less bytes may be read than the
+size of the buffer. The underlying system call will be retried when
+interrupted by a signal, unless the signal handler raises an exception.
+Other errors will not be retried and an error will be raised.</p>
+<p>Returns 0 if <em>fd</em> is at end of file or if the provided <em>buffer</em> has
+length 0 (which can be used to check for errors without reading data).
+Never returns negative.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This function is intended for low-level I/O and must be applied to a file
+descriptor as returned by <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a> or <a class="reference internal" href="#os.pipe" title="os.pipe"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.pipe()</span></code></a>.  To read a
+“file object” returned by the built-in function <a class="reference internal" href="functions.html#open" title="open"><code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code></a>, or
+<a class="reference internal" href="sys.html#sys.stdin" title="sys.stdin"><code class="xref py py-data docutils literal notranslate"><span class="pre">sys.stdin</span></code></a>, use its member functions, for example
+<a class="reference internal" href="io.html#io.BufferedIOBase.readinto" title="io.BufferedIOBase.readinto"><code class="xref py py-meth docutils literal notranslate"><span class="pre">io.BufferedIOBase.readinto()</span></code></a>, <a class="reference internal" href="io.html#io.BufferedIOBase.read" title="io.BufferedIOBase.read"><code class="xref py py-meth docutils literal notranslate"><span class="pre">io.BufferedIOBase.read()</span></code></a>, or
+<a class="reference internal" href="io.html#io.TextIOBase.read" title="io.TextIOBase.read"><code class="xref py py-meth docutils literal notranslate"><span class="pre">io.TextIOBase.read()</span></code></a></p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.14.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.sendfile">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">sendfile</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">out_fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">in_fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">count</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.sendfile" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">sendfile</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">out_fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">in_fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">count</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">headers</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">()</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">trailers</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">()</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">flags</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">0</span></span></em><span class="sig-paren">)</span></dt>
+<dd><p>Copy <em>count</em> bytes from file descriptor <em>in_fd</em> to file descriptor <em>out_fd</em>
+starting at <em>offset</em>.
+Return the number of bytes sent. When EOF is reached return <code class="docutils literal notranslate"><span class="pre">0</span></code>.</p>
+<p>The first function notation is supported by all platforms that define
+<code class="xref py py-func docutils literal notranslate"><span class="pre">sendfile()</span></code>.</p>
+<p>On Linux, if <em>offset</em> is given as <code class="docutils literal notranslate"><span class="pre">None</span></code>, the bytes are read from the
+current position of <em>in_fd</em> and the position of <em>in_fd</em> is updated.</p>
+<p>The second case may be used on macOS and FreeBSD where <em>headers</em> and
+<em>trailers</em> are arbitrary sequences of buffers that are written before and
+after the data from <em>in_fd</em> is written. It returns the same as the first case.</p>
+<p>On macOS and FreeBSD, a value of <code class="docutils literal notranslate"><span class="pre">0</span></code> for <em>count</em> specifies to send until
+the end of <em>in_fd</em> is reached.</p>
+<p>All platforms support sockets as <em>out_fd</em> file descriptor, and some platforms
+allow other types (e.g. regular file, pipe) as well.</p>
+<p>Cross-platform applications should not use <em>headers</em>, <em>trailers</em> and <em>flags</em>
+arguments.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>For a higher-level wrapper of <code class="xref py py-func docutils literal notranslate"><span class="pre">sendfile()</span></code>, see
+<a class="reference internal" href="socket.html#socket.socket.sendfile" title="socket.socket.sendfile"><code class="xref py py-meth docutils literal notranslate"><span class="pre">socket.socket.sendfile()</span></code></a>.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.9: </span>Parameters <em>out</em> and <em>in</em> was renamed to <em>out_fd</em> and <em>in_fd</em>.</p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.SF_NODISKIO">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SF_NODISKIO</span></span><a class="headerlink" href="#os.SF_NODISKIO" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.SF_MNOWAIT">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SF_MNOWAIT</span></span><a class="headerlink" href="#os.SF_MNOWAIT" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.SF_SYNC">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SF_SYNC</span></span><a class="headerlink" href="#os.SF_SYNC" title="Link to this definition"></a></dt>
+<dd><p>Parameters to the <a class="reference internal" href="#os.sendfile" title="os.sendfile"><code class="xref py py-func docutils literal notranslate"><span class="pre">sendfile()</span></code></a> function, if the implementation supports
+them.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.SF_NOCACHE">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SF_NOCACHE</span></span><a class="headerlink" href="#os.SF_NOCACHE" title="Link to this definition"></a></dt>
+<dd><p>Parameter to the <a class="reference internal" href="#os.sendfile" title="os.sendfile"><code class="xref py py-func docutils literal notranslate"><span class="pre">sendfile()</span></code></a> function, if the implementation supports
+it. The data won’t be cached in the virtual memory and will be freed afterwards.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.11.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.set_blocking">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">set_blocking</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">blocking</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.set_blocking" title="Link to this definition"></a></dt>
+<dd><p>Set the blocking mode of the specified file descriptor. Set the
+<a class="reference internal" href="#os.O_NONBLOCK" title="os.O_NONBLOCK"><code class="xref py py-data docutils literal notranslate"><span class="pre">O_NONBLOCK</span></code></a> flag if blocking is <code class="docutils literal notranslate"><span class="pre">False</span></code>, clear the flag otherwise.</p>
+<p>See also <a class="reference internal" href="#os.get_blocking" title="os.get_blocking"><code class="xref py py-func docutils literal notranslate"><span class="pre">get_blocking()</span></code></a> and <a class="reference internal" href="socket.html#socket.socket.setblocking" title="socket.socket.setblocking"><code class="xref py py-meth docutils literal notranslate"><span class="pre">socket.socket.setblocking()</span></code></a>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, Windows.</p>
+<p>The function is limited on WASI, see <a class="reference internal" href="intro.html#wasm-availability"><span class="std std-ref">WebAssembly platforms</span></a> for more
+information.</p>
+<p>On Windows, this function is limited to pipes.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.5.</span></p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.12: </span>Added support for pipes on Windows.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.splice">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">splice</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">src</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">dst</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">count</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset_src</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">offset_dst</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">flags</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">0</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.splice" title="Link to this definition"></a></dt>
+<dd><p>Transfer <em>count</em> bytes from file descriptor <em>src</em>, starting from offset
+<em>offset_src</em>, to file descriptor <em>dst</em>, starting from offset <em>offset_dst</em>.</p>
+<p>The splicing behaviour can be modified by specifying a <em>flags</em> value.
+Any of the following variables may used, combined using bitwise OR
+(the <code class="docutils literal notranslate"><span class="pre">|</span></code> operator):</p>
+<ul class="simple">
+<li><p>If <a class="reference internal" href="#os.SPLICE_F_MOVE" title="os.SPLICE_F_MOVE"><code class="xref py py-const docutils literal notranslate"><span class="pre">SPLICE_F_MOVE</span></code></a> is specified,
+the kernel is asked to move pages instead of copying,
+but pages may still be copied if the kernel cannot move the pages from the pipe.</p></li>
+<li><p>If <a class="reference internal" href="#os.SPLICE_F_NONBLOCK" title="os.SPLICE_F_NONBLOCK"><code class="xref py py-const docutils literal notranslate"><span class="pre">SPLICE_F_NONBLOCK</span></code></a> is specified,
+the kernel is asked to not block on I/O.
+This makes the splice pipe operations nonblocking,
+but splice may nevertheless block because the spliced file descriptors may block.</p></li>
+<li><p>If <a class="reference internal" href="#os.SPLICE_F_MORE" title="os.SPLICE_F_MORE"><code class="xref py py-const docutils literal notranslate"><span class="pre">SPLICE_F_MORE</span></code></a> is specified,
+it hints to the kernel that more data will be coming in a subsequent splice.</p></li>
+</ul>
+<p>At least one of the file descriptors must refer to a pipe. If <em>offset_src</em>
+is <code class="docutils literal notranslate"><span class="pre">None</span></code>, then <em>src</em> is read from the current position; respectively for
+<em>offset_dst</em>. The offset associated to the file descriptor that refers to a
+pipe must be <code class="docutils literal notranslate"><span class="pre">None</span></code>. The files pointed to by <em>src</em> and <em>dst</em> must reside in
+the same filesystem, otherwise an <a class="reference internal" href="exceptions.html#OSError" title="OSError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">OSError</span></code></a> is raised with
+<a class="reference internal" href="exceptions.html#OSError.errno" title="OSError.errno"><code class="xref py py-attr docutils literal notranslate"><span class="pre">errno</span></code></a> set to <a class="reference internal" href="errno.html#errno.EXDEV" title="errno.EXDEV"><code class="xref py py-const docutils literal notranslate"><span class="pre">errno.EXDEV</span></code></a>.</p>
+<p>This copy is done without the additional cost of transferring data
+from the kernel to user space and then back into the kernel. Additionally,
+some filesystems could implement extra optimizations. The copy is done as if
+both files are <span class="highlighted">open</span>ed as binary.</p>
+<p>Upon successful completion, returns the number of bytes spliced to or from
+the pipe. A return value of 0 means end of input. If <em>src</em> refers to a
+pipe, then this means that there was no data to transfer, and it would not
+make sense to block because there are no writers connected to the write end
+of the pipe.</p>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p>The <em class="manpage"><a class="manpage reference external" href="https://manpages.debian.org/splice(2)">splice(2)</a></em> man page.</p>
+</div>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Linux &gt;= 2.6.17 with glibc &gt;= 2.5</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.10.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py data">
+<dt class="sig sig-object py" id="os.SPLICE_F_MOVE">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SPLICE_F_MOVE</span></span><a class="headerlink" href="#os.SPLICE_F_MOVE" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.SPLICE_F_NONBLOCK">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SPLICE_F_NONBLOCK</span></span><a class="headerlink" href="#os.SPLICE_F_NONBLOCK" title="Link to this definition"></a></dt>
+<dt class="sig sig-object py" id="os.SPLICE_F_MORE">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">SPLICE_F_MORE</span></span><a class="headerlink" href="#os.SPLICE_F_MORE" title="Link to this definition"></a></dt>
+<dd><div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.10.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.readv">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">readv</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">buffers</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.readv" title="Link to this definition"></a></dt>
+<dd><p>Read from a file descriptor <em>fd</em> into a number of mutable <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like
+objects</span></a> <em>buffers</em>. Transfer data into each buffer until
+it is full and then move on to the next buffer in the sequence to hold the
+rest of the data.</p>
+<p>Return the total number of bytes actually read which can be less than the
+total capacity of all the objects.</p>
+<p>The operating system may set a limit (<a class="reference internal" href="#os.sysconf" title="os.sysconf"><code class="xref py py-func docutils literal notranslate"><span class="pre">sysconf()</span></code></a> value
+<code class="docutils literal notranslate"><span class="pre">'SC_IOV_MAX'</span></code>) on the number of buffers that can be used.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.tcgetpgrp">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">tcgetpgrp</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.tcgetpgrp" title="Link to this definition"></a></dt>
+<dd><p>Return the process group associated with the terminal given by <em>fd</em> (an <span class="highlighted">open</span>
+file descriptor as returned by <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.open()</span></code></a>).</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.tcsetpgrp">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">tcsetpgrp</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">pg</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.tcsetpgrp" title="Link to this definition"></a></dt>
+<dd><p>Set the process group associated with the terminal given by <em>fd</em> (an <span class="highlighted">open</span> file
+descriptor as returned by <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a>) to <em>pg</em>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.ttyname">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">ttyname</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.ttyname" title="Link to this definition"></a></dt>
+<dd><p>Return a string which specifies the terminal device associated with
+file descriptor <em>fd</em>.  If <em>fd</em> is not associated with a terminal device, an
+exception is raised.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.unlockpt">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">unlockpt</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.unlockpt" title="Link to this definition"></a></dt>
+<dd><p>Unlock the slave pseudo-terminal device associated with the master
+pseudo-terminal device to which the file descriptor <em>fd</em> refers.
+The file descriptor <em>fd</em> is not closed upon failure.</p>
+<p>Calls the C standard library function <code class="xref c c-func docutils literal notranslate"><span class="pre">unlockpt()</span></code>.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, not WASI.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.13.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.write">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">write</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.write" title="Link to this definition"></a></dt>
+<dd><p>Write the bytestring in <em>str</em> to file descriptor <em>fd</em>.</p>
+<p>Return the number of bytes actually written.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This function is intended for low-level I/O and must be applied to a file
+descriptor as returned by <a class="reference internal" href="#os.open" title="os.open"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.<span class="highlighted">open</span>()</span></code></a> or <a class="reference internal" href="#os.pipe" title="os.pipe"><code class="xref py py-func docutils literal notranslate"><span class="pre">pipe()</span></code></a>.  To write a “file
+object” returned by the built-in function <a class="reference internal" href="functions.html#open" title="open"><code class="xref py py-func docutils literal notranslate"><span class="pre"><span class="highlighted">open</span>()</span></code></a> or by <a class="reference internal" href="#os.popen" title="os.popen"><code class="xref py py-func docutils literal notranslate"><span class="pre">p<span class="highlighted">open</span>()</span></code></a> or
+<a class="reference internal" href="#os.fdopen" title="os.fdopen"><code class="xref py py-func docutils literal notranslate"><span class="pre">fd<span class="highlighted">open</span>()</span></code></a>, or <a class="reference internal" href="sys.html#sys.stdout" title="sys.stdout"><code class="xref py py-data docutils literal notranslate"><span class="pre">sys.stdout</span></code></a> or <a class="reference internal" href="sys.html#sys.stderr" title="sys.stderr"><code class="xref py py-data docutils literal notranslate"><span class="pre">sys.stderr</span></code></a>, use its
+<a class="reference internal" href="io.html#io.TextIOBase.write" title="io.TextIOBase.write"><code class="xref py py-meth docutils literal notranslate"><span class="pre">write()</span></code></a> method.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.5: </span>If the system call is interrupted and the signal handler does not raise an
+exception, the function now retries the system call instead of raising an
+<a class="reference internal" href="exceptions.html#InterruptedError" title="InterruptedError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">InterruptedError</span></code></a> exception (see <span class="target" id="index-25"></span><a class="pep reference external" href="https://peps.python.org/pep-0475/"><strong>PEP 475</strong></a> for the rationale).</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.writev">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">writev</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">buffers</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.writev" title="Link to this definition"></a></dt>
+<dd><p>Write the contents of <em>buffers</em> to file descriptor <em>fd</em>. <em>buffers</em> must be
+a sequence of <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like objects</span></a>. Buffers are
+processed in array order. Entire contents of the first buffer is written
+before proceeding to the second, and so on.</p>
+<p>Returns the total number of bytes actually written.</p>
+<p>The operating system may set a limit (<a class="reference internal" href="#os.sysconf" title="os.sysconf"><code class="xref py py-func docutils literal notranslate"><span class="pre">sysconf()</span></code></a> value
+<code class="docutils literal notranslate"><span class="pre">'SC_IOV_MAX'</span></code>) on the number of buffers that can be used.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+</dd></dl>
+
+<section id="querying-the-size-of-a-terminal">
+<span id="terminal-size"></span><h2>Querying the size of a terminal<a class="headerlink" href="#querying-the-size-of-a-terminal" title="Link to this heading"></a></h2>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.3.</span></p>
+</div>
+<dl class="py function">
+<dt class="sig sig-object py" id="os.get_terminal_size">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">get_terminal_size</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">STDOUT_FILENO</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.get_terminal_size" title="Link to this definition"></a></dt>
+<dd><p>Return the size of the terminal window as <code class="docutils literal notranslate"><span class="pre">(columns,</span> <span class="pre">lines)</span></code>,
+tuple of type <a class="reference internal" href="#os.terminal_size" title="os.terminal_size"><code class="xref py py-class docutils literal notranslate"><span class="pre">terminal_size</span></code></a>.</p>
+<p>The optional argument <code class="docutils literal notranslate"><span class="pre">fd</span></code> (default <code class="docutils literal notranslate"><span class="pre">STDOUT_FILENO</span></code>, or standard
+output) specifies which file descriptor should be queried.</p>
+<p>If the file descriptor is not connected to a terminal, an <a class="reference internal" href="exceptions.html#OSError" title="OSError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">OSError</span></code></a>
+is raised.</p>
+<p><a class="reference internal" href="shutil.html#shutil.get_terminal_size" title="shutil.get_terminal_size"><code class="xref py py-func docutils literal notranslate"><span class="pre">shutil.get_terminal_size()</span></code></a> is the high-level function which
+should normally be used, <code class="docutils literal notranslate"><span class="pre">os.get_terminal_size</span></code> is the low-level
+implementation.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Unix, Windows.</p>
+</div>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="os.terminal_size">
+<em class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">terminal_size</span></span><a class="headerlink" href="#os.terminal_size" title="Link to this definition"></a></dt>
+<dd><p>A subclass of tuple, holding <code class="docutils literal notranslate"><span class="pre">(columns,</span> <span class="pre">lines)</span></code> of the terminal window size.</p>
+<dl class="py attribute">
+<dt class="sig sig-object py" id="os.terminal_size.columns">
+<span class="sig-name descname"><span class="pre">columns</span></span><a class="headerlink" href="#os.terminal_size.columns" title="Link to this definition"></a></dt>
+<dd><p>Width of the terminal window in characters.</p>
+</dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="os.terminal_size.lines">
+<span class="sig-name descname"><span class="pre">lines</span></span><a class="headerlink" href="#os.terminal_size.lines" title="Link to this definition"></a></dt>
+<dd><p>Height of the terminal window in characters.</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="inheritance-of-file-descriptors">
+<span id="fd-inheritance"></span><h2>Inheritance of File Descriptors<a class="headerlink" href="#inheritance-of-file-descriptors" title="Link to this heading"></a></h2>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.4.</span></p>
+</div>
+<p>A file descriptor has an “inheritable” flag which indicates if the file descriptor
+can be inherited by child processes.  Since Python 3.4, file descriptors
+created by Python are non-inheritable by default.</p>
+<p>On UNIX, non-inheritable file descriptors are closed in child processes at the
+execution of a new program, other file descriptors are inherited. Note that
+non-inheritable file descriptors are still <em>inherited</em> by child processes on <a class="reference internal" href="#os.fork" title="os.fork"><code class="xref py py-func docutils literal notranslate"><span class="pre">os.fork()</span></code></a>.</p>
+<p>On Windows, non-inheritable handles and file descriptors are closed in child
+processes, except for standard streams (file descriptors 0, 1 and 2: stdin, stdout
+and stderr), which are always inherited.  Using <a class="reference internal" href="#os.spawnl" title="os.spawnl"><code class="xref py py-func docutils literal notranslate"><span class="pre">spawn*</span></code></a> functions,
+all inheritable handles and all inheritable file descriptors are inherited.
+Using the <a class="reference internal" href="subprocess.html#module-subprocess" title="subprocess: Subprocess management."><code class="xref py py-mod docutils literal notranslate"><span class="pre">subprocess</span></code></a> module, all file descriptors except standard
+streams are closed, and inheritable handles are only inherited if the
+<em>close_fds</em> parameter is <code class="docutils literal notranslate"><span class="pre">False</span></code>.</p>
+<p>On WebAssembly platforms, the file descriptor cannot be modified.</p>
+<dl class="py function">
+<dt class="sig sig-object py" id="os.get_inheritable">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">get_inheritable</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.get_inheritable" title="Link to this definition"></a></dt>
+<dd><p>Get the “inheritable” flag of the specified file descriptor (a boolean).</p>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.set_inheritable">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">set_inheritable</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">fd</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">inheritable</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.set_inheritable" title="Link to this definition"></a></dt>
+<dd><p>Set the “inheritable” flag of the specified file descriptor.</p>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.get_handle_inheritable">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">get_handle_inheritable</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">handle</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.get_handle_inheritable" title="Link to this definition"></a></dt>
+<dd><p>Get the “inheritable” flag of the specified handle (a boolean).</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Windows.</p>
+</div>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="os.set_handle_inheritable">
+<span class="sig-prename descclassname"><span class="pre">os.</span></span><span class="sig-name descname"><span class="pre">set_handle_inheritable</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">handle</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">inheritable</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#os.set_handle_inheritable" title="Link to this definition"></a></dt>
+<dd><p>Set the “inheritable” flag of the specified handle.</p>
+<div class="availability docutils container">
+<p><a class="reference internal" href="intro.html#availability"><span class="std std-ref">Availability</span></a>: Windows.</p>
+</div>
+</dd></dl>
+
+</section>
+</section><!--n:Справочник по Python 3/File Operations:s:164508:e:134408-->
+<!----><!--2026-03-01 11:34:09-->
+<section id="bitwise-operations-on-integer-types">
+<span id="bitstring-ops"></span><h2><span class="highlighted">Bit</span>wise Operations on Integer Types<a class="headerlink" href="#bitwise-operations-on-integer-types" title="Link to this heading"></a></h2>
+<p id="index-16"><span class="highlighted">Bit</span>wise operations only make sense for integers. The result of <span class="highlighted">bit</span>wise
+operations is calculated as though carried out in two’s complement with an
+infinite number of sign <span class="highlighted">bit</span>s.</p>
+<p>The priorities of the binary <span class="highlighted">bit</span>wise operations are all lower than the numeric
+operations and higher than the comparisons; the unary operation <code class="docutils literal notranslate"><span class="pre">~</span></code> has the
+same priority as the other unary numeric operations (<code class="docutils literal notranslate"><span class="pre">+</span></code> and <code class="docutils literal notranslate"><span class="pre">-</span></code>).</p>
+<p>This table lists the <span class="highlighted">bit</span>wise operations sorted in ascending priority:</p>
+<div class="responsive-table__container">
+<table class="g scroll mw_f">
+<thead>
+<tr class="row-odd"><th class="head"><p>Operation</p></th>
+<th class="head"><p>Result</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">x</span> <span class="pre">|</span> <span class="pre">y</span></code></p></td>
+<td><p><span class="highlighted">bit</span>wise <em class="dfn">or</em> of <em>x</em> and
+<em>y</em></p></td>
+<td><p>(4)</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">x</span> <span class="pre">^</span> <span class="pre">y</span></code></p></td>
+<td><p><span class="highlighted">bit</span>wise <em class="dfn">exclusive or</em> of
+<em>x</em> and <em>y</em></p></td>
+<td><p>(4)</p></td>
+</tr>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">x</span> <span class="pre">&amp;</span> <span class="pre">y</span></code></p></td>
+<td><p><span class="highlighted">bit</span>wise <em class="dfn">and</em> of <em>x</em> and
+<em>y</em></p></td>
+<td><p>(4)</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">x</span> <span class="pre">&lt;&lt;</span> <span class="pre">n</span></code></p></td>
+<td><p><em>x</em> shifted left by <em>n</em> <span class="highlighted">bit</span>s</p></td>
+<td><p>(1)(2)</p></td>
+</tr>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">x</span> <span class="pre">&gt;&gt;</span> <span class="pre">n</span></code></p></td>
+<td><p><em>x</em> shifted right by <em>n</em> <span class="highlighted">bit</span>s</p></td>
+<td><p>(1)(3)</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">~x</span></code></p></td>
+<td><p>the <span class="highlighted">bit</span>s of <em>x</em> inverted</p></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p>Notes:</p>
+<ol class="arabic simple">
+<li><p>Negative shift counts are illegal and cause a <a class="reference internal" href="exceptions.html#ValueError" title="ValueError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">ValueError</span></code></a> to be raised.</p></li>
+<li><p>A left shift by <em>n</em> <span class="highlighted">bit</span>s is equivalent to multiplication by <code class="docutils literal notranslate"><span class="pre">pow(2,</span> <span class="pre">n)</span></code>.</p></li>
+<li><p>A right shift by <em>n</em> <span class="highlighted">bit</span>s is equivalent to floor division by <code class="docutils literal notranslate"><span class="pre">pow(2,</span> <span class="pre">n)</span></code>.</p></li>
+<li><p>Performing these calculations with at least one extra sign extension <span class="highlighted">bit</span> in
+a finite two’s complement representation (a working <span class="highlighted">bit</span>-width of
+<code class="docutils literal notranslate"><span class="pre">1</span> <span class="pre">+</span> <span class="pre">max(x.bit_length(),</span> <span class="pre">y.bit_length())</span></code> or more) is sufficient to get the
+same result as if there were an infinite number of sign bits.</p></li>
+</ol>
+</section><!--n:Справочник по Python 3/Bitwise Operations:s:298994:e:4456-->
+<!----><!--2026-03-15 16:49:39-->Избранные разделы из документации по языку программирования *Python* с сайта [python.org](//python.org)<!--n:Справочник по Python 3/about:s:303529:e:195-->
 <!----><!--2023-01-22 00:12:44-->
 ## Замена HDD на SSD на ноутбуке
 На днях заменил в своем ноутбуке *Lenovo Z50-70* жесткий диск *Seagate HDD 1Тб* на *WD SSD 1Тб*.
@@ -936,7 +2415,7 @@ body {
 оставлю в его системе. 
 
 <img src="./hdd_ssd.jpg" alt="" title="Старый диск">
-<img src="./hdd_ssd_1.jpg" alt="" title="Новый диск"><!--n:Руководства/Замена HDD на SSD на ноутбуке:s:139653:e:762-->
+<img src="./hdd_ssd_1.jpg" alt="" title="Новый диск"><!--n:Руководства/Замена HDD на SSD на ноутбуке:s:303789:e:762-->
 <!----><!--2013-04-03 17:11:42-->
 ## Как скачивать торренты
 Вот несколько картинок с пояснениями как скачивать торренты.
@@ -955,7 +2434,7 @@ body {
 
 ![Скриншот torrentino.ru](http://img-fotki.yandex.ru/get/6423/136640652.0/0_853f1_97a415ee_L "torrentino.ru")
 
-![Скриншот c rutor.org](http://img-fotki.yandex.ru/get/6623/136640652.0/0_853f9_6b52c6da_L "rutor.org")<!--n:Руководства/Как скачивать торренты:s:140510:e:1056-->
+![Скриншот c rutor.org](http://img-fotki.yandex.ru/get/6623/136640652.0/0_853f9_6b52c6da_L "rutor.org")<!--n:Руководства/Как скачивать торренты:s:304646:e:1056-->
 <!----><!--2011-06-14 12:07:03-->
 ## О сайте и контакты
 <table border="0" width="100%" style="display:block; overflow: auto"><tr>
@@ -979,7 +2458,7 @@ body {
     <i><a> Теодор Рузвельт </a></i>
   </td>
 </tr>
-</table><!--n:Руководства/Контакты:s:141657:e:1443-->
+</table><!--n:Руководства/Контакты:s:305793:e:1443-->
 <!----><!--2012-04-03 17:12:09-->
 ## Markdown: Syntax
 
@@ -1860,7 +3339,7 @@ Markdown provides backslash escapes for the following characters:
 	+	plus sign
 	-	minus sign (hyphen)
     .   dot
-    !   exclamation mark<!--n:Руководства/Описание разметки Markdown:s:143165:e:27159-->
+    !   exclamation mark<!--n:Руководства/Описание разметки Markdown:s:307301:e:27159-->
 <!----><!--2019-02-03 20:55:26-->
 ## Восстановление системы охлаждения ноутбука HP G62-11ER
 Заметил что купленный недавно б/у ноутбук стал выключаться после *20*-*30* минут работы. 
@@ -1881,8 +3360,8 @@ Markdown provides backslash escapes for the following characters:
 
 На картинке процесс установки *WOT*.
 
-![Скриншот с WOT](https://habrastorage.org/webt/a3/ra/4_/a3ra4_kztvcu1omfveuzzvz6dho.jpeg "WOT.jpeg")<!--n:Руководства/Восстановление системы охлаждения ноутбука HP G62-11ER:s:170416:e:2264-->
-<!----><!--2025-09-20 22:21:30-->Здесь размещаются *руководства* по пользованию сайтом и разные *описания*.<!--n:Руководства/about:s:172822:e:168-->
+![Скриншот с WOT](https://habrastorage.org/webt/a3/ra/4_/a3ra4_kztvcu1omfveuzzvz6dho.jpeg "WOT.jpeg")<!--n:Руководства/Восстановление системы охлаждения ноутбука HP G62-11ER:s:334552:e:2264-->
+<!----><!--2025-09-20 22:21:30-->Здесь размещаются *руководства* по пользованию сайтом и разные *описания*.<!--n:Руководства/about:s:336958:e:168-->
 <!----><!--2022-06-05 22:50:07-->
 ## Инструкция пользования сайтом
 Сайт [egaxegax.github.io](https://egaxegax.github.io) можно запустить 
@@ -1925,14 +3404,14 @@ Markdown provides backslash escapes for the following characters:
 
         python ../update.py
 
-* Обновить страницу в браузере.<!--n:Руководства/Инструкция пользования сайтом:s:173043:e:2175-->
+* Обновить страницу в браузере.<!--n:Руководства/Инструкция пользования сайтом:s:337179:e:2175-->
 <!----><!--2022-07-20 00:40:00-->
 ## Зверобой
 Многолетнее растение с жёлтыми цветками.
 Экстракт и Используется как антидепрессант, успокоительное средство.
 
 <img src="./zveroboy.jpeg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Красная травица***, ***Зелье светоянское***.<!--n:Полезные травы/Зверобой:s:175323:e:426-->
+Названия &emsp; ***Красная травица***, ***Зелье светоянское***.<!--n:Полезные травы/Зверобой:s:339459:e:426-->
 <!----><!--2022-07-04 00:45:00-->
 ## Пижма
 Многолетнее растение семейства астровых, распространенное в средней полосе России,
@@ -1940,42 +3419,42 @@ Markdown provides backslash escapes for the following characters:
 Используется как лекарственное и пряно-ароматическое средство.
 
 <img src="./pizhma.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Полевая рябинка***, ***Девятильник***.<!--n:Полезные травы/Пижма:s:175818:e:570-->
+Названия &emsp; ***Полевая рябинка***, ***Девятильник***.<!--n:Полезные травы/Пижма:s:339954:e:570-->
 <!----><!--2022-05-03 22:18:00-->
 ## Багульник
 Ядовитый кустарник с розово-фиолетовыми цветками . 
 Багульниковое масло применяют при изготовлении мыла.
 
 <img src="./bagulnik.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Дикий розмарин***, ***Багун***, ***Болотник***.<!--n:Полезные травы/Багульник:s:176451:e:415-->
+Названия &emsp; ***Дикий розмарин***, ***Багун***, ***Болотник***.<!--n:Полезные травы/Багульник:s:340587:e:415-->
 <!----><!--2022-04-30 14:25:00-->
 ## Шалфей
 Многолетнее лекарственное и медоносное растение. Растет в Европе, на юге России.
 
 <img src="./shalvey.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Сальвия***, ***Золотая травка***.<!--n:Полезные травы/Шалфей:s:176937:e:342-->
+Названия &emsp; ***Сальвия***, ***Золотая травка***.<!--n:Полезные травы/Шалфей:s:341073:e:342-->
 <!----><!--2022-05-29 12:25:00-->
 ## Ромашка
 Многолетнее лекарственное цветковое растение, распространенное в средней полосе России.
 Распространенное использование - употребление *ромашкового чая*.
 
 <img src="./romashka.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Девичий цветок***, ***Белюшка***.<!--n:Полезные травы/Ромашка:s:177344:e:482-->
+Названия &emsp; ***Девичий цветок***, ***Белюшка***.<!--n:Полезные травы/Ромашка:s:341480:e:482-->
 <!----><!--2022-06-22 00:38:00-->
 ## Черемша
 Многолетнее растение семейства луковых, распространенное в средней полосе России и Европы.
 Используется в кулинарии и медицине благодаря *чесночному* вкусу.
 
 <img src="./cheremsha.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Медвежий лук***, ***Колба***.<!--n:Полезные травы/Черемша:s:177893:e:480-->
+Названия &emsp; ***Медвежий лук***, ***Колба***.<!--n:Полезные травы/Черемша:s:342029:e:480-->
 <!----><!--2022-04-24 01:54:00-->
 ## Иван-чай
 Многолетнее растение с цветками фиолетового или бледно-розового цвета.
 Используются как противовоспалительное средство и для заваривания "*русского чая*".
 
 <img src="./ivan-tchai.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Кипрей***, ***Донник***, ***Пырей***.<!--n:Полезные травы/Иван-чай:s:178440:e:487-->
-<!----><!--2025-09-02 17:35:30-->Полезные, лекарственные травы, растущие на просторах России.<!--n:Полезные травы/about:s:178995:e:144-->
+Названия &emsp; ***Кипрей***, ***Донник***, ***Пырей***.<!--n:Полезные травы/Иван-чай:s:342576:e:487-->
+<!----><!--2025-09-02 17:35:30-->Полезные, лекарственные травы, растущие на просторах России.<!--n:Полезные травы/about:s:343131:e:144-->
 <!----><!--2016-04-17 09:57:05-->
 ## Конфуций, китайский философ
 <img src="./konfuciy.jpg">
@@ -1996,14 +3475,14 @@ Markdown provides backslash escapes for the following characters:
 
     Благородные люди живут в согласии с другими людьми, 
     но не следуют за другими людьми, низкие следуют 
-    за другими людьми, но не живут с ними в согласии.<!--n:Подборка цитат и афоризмов/Конфуций, китайский философ:s:179197:e:762-->
+    за другими людьми, но не живут с ними в согласии.<!--n:Подборка цитат и афоризмов/Конфуций, китайский философ:s:343333:e:762-->
 <!----><!--2016-06-19 09:11:41-->
 ## Ларри Уолл, американский программист
 <img src="./larry_wall.jpg">
 
     Истинное величие измеряется тем, как много свободы
     вы даете другим, а не тем насколько можете принудить
-    других делать то, что вы хотите.<!--n:Подборка цитат и афоризмов/Ларри Уолл, американский программист:s:180085:e:395-->
+    других делать то, что вы хотите.<!--n:Подборка цитат и афоризмов/Ларри Уолл, американский программист:s:344221:e:395-->
 <!----><!--2016-08-19 21:49:27-->
 ## Джон Сильвер, пират из романа 'Остров Сокровищ'
 <img src="./jon_silver.jpg">
@@ -2030,38 +3509,38 @@ Markdown provides backslash escapes for the following characters:
 
     Как много джентльменов удачи и прочих искателей приключений 
     исчезли навек лишь потому, что не умели держать 
-    себя в руках и ждать!<!--n:Подборка цитат и афоризмов/Джон Сильвер, пират из романа Остров Сокровищ:s:180623:e:1007-->
+    себя в руках и ждать!<!--n:Подборка цитат и афоризмов/Джон Сильвер, пират из романа Остров Сокровищ:s:344759:e:1007-->
 <!----><!--2019-06-22 22:28:39-->
 ## Сергей Довлатов, советский писатель
 <img src="./sergey_dovlatov.jpg">
 
     Хамство — это грубость, наглость, нахальство, 
-    вместе взятые, но при этом — умноженные на безнаказанность.<!--n:Подборка цитат и афоризмов/Сергей Довлатов, советский писатель:s:181789:e:341-->
+    вместе взятые, но при этом — умноженные на безнаказанность.<!--n:Подборка цитат и афоризмов/Сергей Довлатов, советский писатель:s:345925:e:341-->
 <!----><!--2017-01-01 21:58:33-->
 ## Тургенев Иван, писатель
 <img src="./turgenev.jpg">
 
 *"Отцы и дети"*
 
-    Я ничьих мнений не разделяю: я имею свои.<!--n:Подборка цитат и афоризмов/Тургенев Иван, писатель:s:182271:e:212-->
+    Я ничьих мнений не разделяю: я имею свои.<!--n:Подборка цитат и афоризмов/Тургенев Иван, писатель:s:346407:e:212-->
 <!----><!--2020-01-15 22:32:21-->
 ## Сильвестр Сталлоне, американский актер и режиссер
 <img src="./stallone.jpg">
 
     Отказ для меня звучит словно иерихонская труба над ухом,
-    побуждая не отступать, а проснуться и взяться за дело.<!--n:Подборка цитат и афоризмов/Сильвестр Сталлоне, американский актер и режиссер:s:182601:e:368-->
+    побуждая не отступать, а проснуться и взяться за дело.<!--n:Подборка цитат и афоризмов/Сильвестр Сталлоне, американский актер и режиссер:s:346737:e:368-->
 <!----><!--2018-12-23 15:48:16-->
 ## Александр Мостовой, футболист
 <img src="./a_mostovoy.jpg">
 
     В футболе почти не осталось романтиков. 
-    А оставшиеся скоро «вымрут».<!--n:Подборка цитат и афоризмов/Александр Мостовой, футболист:s:183136:e:257-->
+    А оставшиеся скоро «вымрут».<!--n:Подборка цитат и афоризмов/Александр Мостовой, футболист:s:347272:e:257-->
 <!----><!--2017-04-09 07:56:09-->
 ## Андрей Тарковский, советский режиссер
 <img src="./tarkovskiy.jpg">
 
     Если каждый день в одно и то же время делать что-нибудь, 
-    даже не важно что, то мир вокруг тебя обязательно изменится.<!--n:Подборка цитат и афоризмов/Андрей Тарковский, советский режиссер:s:183523:e:357-->
+    даже не важно что, то мир вокруг тебя обязательно изменится.<!--n:Подборка цитат и афоризмов/Андрей Тарковский, советский режиссер:s:347659:e:357-->
 <!----><!--2016-04-17 10:07:50-->
 ## Оскар Уайлд, британский писатель
 <img src="./oskar_wild.jpg">
@@ -2081,13 +3560,13 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Всегда прощайте своих врагов: 
-    ничто не раздражает их так сильно.<!--n:Подборка цитат и афоризмов/Оскар Уайлд, британский писатель:s:184025:e:624-->
+    ничто не раздражает их так сильно.<!--n:Подборка цитат и афоризмов/Оскар Уайлд, британский писатель:s:348161:e:624-->
 <!----><!--2017-01-30 21:15:31-->
 ## Бенджамин Франклин, американский политический деятель
 <img src="./franklin.jpg">
 
     Люди едят для собственного удовольствия, 
-    а одеваются для чужой потехи.<!--n:Подборка цитат и афоризмов/Бенджамин Франклин, американский политический деятель:s:184784:e:305-->
+    а одеваются для чужой потехи.<!--n:Подборка цитат и афоризмов/Бенджамин Франклин, американский политический деятель:s:348920:e:305-->
 <!----><!--2021-11-29 15:08:04-->
 ## Михаил Ломоносов, русский ученый
 <img src="./lomonosov.jpg">
@@ -2112,7 +3591,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Математику уже за то любить следует, 
-    что она ум в порядок приводит.<!--n:Подборка цитат и афоризмов/Михаил Ломоносов, русский ученый:s:185265:e:844-->
+    что она ум в порядок приводит.<!--n:Подборка цитат и афоризмов/Михаил Ломоносов, русский ученый:s:349401:e:844-->
 <!----><!--2022-06-25 11:35:12-->
 ## Владимир Маяковский, советский поэт
 <img src="./mayakovskii.jpg" alt=""> 
@@ -2146,13 +3625,13 @@ Markdown provides backslash escapes for the following characters:
     Отрастить бы себе х*й
     В километр
     И доставить ей
-    Удовольствие!<!--n:Подборка цитат и афоризмов/Владимир Маяковский, советский поэт:s:186244:e:1120-->
+    Удовольствие!<!--n:Подборка цитат и афоризмов/Владимир Маяковский, советский поэт:s:350380:e:1120-->
 <!----><!--2020-02-02 22:23:56-->
 ## Пауло Коэльо, бразильский писатель
 <img src="./koelo.jpg">
 
     Если тебе не нравится то, что ты получаешь, 
-    измени то, что ты даёшь.<!--n:Подборка цитат и афоризмов/Пауло Коэльо, бразильский писатель:s:187506:e:256-->
+    измени то, что ты даёшь.<!--n:Подборка цитат и афоризмов/Пауло Коэльо, бразильский писатель:s:351642:e:256-->
 <!----><!--2020-08-30 01:48:16-->
 ## Курильщик из сериала X-Files
 <img src="./kuril-x-files.jpg">
@@ -2168,7 +3647,7 @@ Markdown provides backslash escapes for the following characters:
 
     Люди не могут быть свободны. Они слабы, развращены, 
     ничтожны и нетерпеливы. Они верят во власть, 
-    устали ждать чудес и волшебства. Наука — вот их религия.<!--n:Подборка цитат и афоризмов/Курильщик из сериала Секретные Материалы:s:187901:e:628-->
+    устали ждать чудес и волшебства. Наука — вот их религия.<!--n:Подборка цитат и афоризмов/Курильщик из сериала Секретные Материалы:s:352037:e:628-->
 <!----><!--2020-04-25 14:36:09-->
 ## Петр I, русский император
 <img src="./petr_1.jpg">
@@ -2188,19 +3667,19 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Несчастья бояться — счастья не видать.<!--n:Подборка цитат и афоризмов/Петр I, русский император:s:188680:e:646-->
+    Несчастья бояться — счастья не видать.<!--n:Подборка цитат и афоризмов/Петр I, русский император:s:352816:e:646-->
 <!----><!--2016-04-17 10:02:36-->
 ## Джон Голсуорси, английский писатель
 <img src="./john_galsworthy.jpg">
 
     Сначала они тебя не замечают, потом смеются над тобой, 
-    затем борются с тобой, а потом ты побеждаешь.<!--n:Подборка цитат и афоризмов/Джон Голсуорси, английский писатель:s:189446:e:328-->
+    затем борются с тобой, а потом ты побеждаешь.<!--n:Подборка цитат и афоризмов/Джон Голсуорси, английский писатель:s:353582:e:328-->
 <!----><!--2019-01-13 21:21:44-->
 ## Уильям Шекспир, средневековый английский поэт и драматург
 <img src="./shekspir.jpg">
 
     Грехи других судить вы так усердно рветесь, 
-    начните со своих и до чужих не доберетесь.<!--n:Подборка цитат и афоризмов/Уильям Шекспир, средневековый английский поэт и драматург:s:189915:e:338-->
+    начните со своих и до чужих не доберетесь.<!--n:Подборка цитат и афоризмов/Уильям Шекспир, средневековый английский поэт и драматург:s:354051:e:338-->
 <!----><!--2016-06-09 21:10:32-->
 ## Наполеон, французский император
 <img src="./napoleon.jpg">
@@ -2218,7 +3697,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Копните русского и найдете татарина.<!--n:Подборка цитат и афоризмов/Наполеон, французский император:s:190435:e:591-->
+    Копните русского и найдете татарина.<!--n:Подборка цитат и афоризмов/Наполеон, французский император:s:354571:e:591-->
 <!----><!--2016-04-17 10:03:20-->
 ## Махатма Ганди, индийский политический деятель
 <img src="./gandi.jpg">
@@ -2240,14 +3719,14 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Чем больше я размышляю и оглядываюсь на прошлое, 
-    тем яснее ощущаю свою ограниченность.<!--n:Подборка цитат и афоризмов/Махатма Ганди, индийский политический деятель:s:191160:e:912-->
+    тем яснее ощущаю свою ограниченность.<!--n:Подборка цитат и афоризмов/Махатма Ганди, индийский политический деятель:s:355296:e:912-->
 <!----><!--2020-02-02 22:09:34-->
 ## Уильям Сомерсет Моэм, британский писатель
 <img src="./moem.jpg">
 
     Жизнь на десять процентов состоит из того, 
     что вы в ней делаете, а на девяносто – из того, 
-    как вы её принимаете.<!--n:Подборка цитат и афоризмов/Уильям Сомерсет Моэм, британский писатель:s:192232:e:353-->
+    как вы её принимаете.<!--n:Подборка цитат и афоризмов/Уильям Сомерсет Моэм, британский писатель:s:356368:e:353-->
 <!----><!--2016-04-17 10:06:08-->
 ## Теодор Рузвельт, американский политический деятель
 <img src="./roosvelt.jpg">
@@ -2261,7 +3740,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Главная причина успеха в любом деле - 
-    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Теодор Рузвельт, американский политический деятель:s:192737:e:483-->
+    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Теодор Рузвельт, американский политический деятель:s:356873:e:483-->
 <!----><!--2016-11-21 20:53:25-->
 ## Эрих Мария Ремарк, немецкий писатель
 <img src="./remark.jpg">
@@ -2291,7 +3770,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Свободен лишь тот, кто потерял все, ради чего стоит жить.<!--n:Подборка цитат и афоризмов/Эрих Мария Ремарк, немецкий писатель:s:193390:e:1106-->
+    Свободен лишь тот, кто потерял все, ради чего стоит жить.<!--n:Подборка цитат и афоризмов/Эрих Мария Ремарк, немецкий писатель:s:357526:e:1106-->
 <!----><!--2020-01-22 22:24:32-->
 ## Шарль Морис де Талейран-Перигор, министр иностранных дел времен Наполеона
 <img src="./tall.jpg">
@@ -2306,14 +3785,14 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Политика — это всего лишь способ возбуждать 
-    народ таким образом, чтобы суметь его использовать.<!--n:Подборка цитат и афоризмов/Шарль Морис де Талейран-Перигор, министр иностранных дел времен Наполеона:s:194639:e:630-->
+    народ таким образом, чтобы суметь его использовать.<!--n:Подборка цитат и афоризмов/Шарль Морис де Талейран-Перигор, министр иностранных дел времен Наполеона:s:358775:e:630-->
 <!----><!--2019-12-14 22:57:50-->
 ## Константин Паустовский, русский писатель
 <img src="./paust.jpg">
 
     Осень пришла внезапно. Так приходит ощущение счастья 
     от самых незаметных вещей – от далекого пароходного 
-    гудка на Оке или от случайной улыбки.<!--n:Подборка цитат и афоризмов/Константин Паустовский, русский писатель:s:195480:e:415-->
+    гудка на Оке или от случайной улыбки.<!--n:Подборка цитат и афоризмов/Константин Паустовский, русский писатель:s:359616:e:415-->
 <!----><!--2016-04-17 09:59:40-->
 ## Лао-Цзы, китайский философ
 <img src="./lao_tsi.jpg">
@@ -2336,13 +3815,13 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Нет ничего более сильного и созидательного, чем пустота, 
-    которую люди стремятся заполнить.<!--n:Подборка цитат и афоризмов/Лао-Цзы, китайский философ:s:196046:e:774-->
+    которую люди стремятся заполнить.<!--n:Подборка цитат и афоризмов/Лао-Цзы, китайский философ:s:360182:e:774-->
 <!----><!--2019-02-17 13:39:20-->
 ## Альберт Эйнштейн, выдающийся немецкий физик-теоретик
 <img src="./albert_enshtein.jpg">
 
     В жизни все относительно. Даже если в одном 
-    месте вас послали, то в другом уже просто заждались.<!--n:Подборка цитат и афоризмов/Альберт Эйнштейн, выдающийся немецкий физик-теоретик:s:196943:e:353-->
+    месте вас послали, то в другом уже просто заждались.<!--n:Подборка цитат и афоризмов/Альберт Эйнштейн, выдающийся немецкий физик-теоретик:s:361079:e:353-->
 <!----><!--2020-09-17 02:10:04-->
 ## Антибиотик, главарь банды из сериала 'Бандитский Петербург'
 <img src="./antibiotik.jpg">
@@ -2378,7 +3857,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Все бабы — дуры. Они не головой думают, а своим сладким местом. 
-    Есть глупые дуры, а есть умные, но тоже дуры.<!--n:Подборка цитат и афоризмов/Антибиотик, главарь банды из сериала Бандитский Петербург:s:197469:e:1557-->
+    Есть глупые дуры, а есть умные, но тоже дуры.<!--n:Подборка цитат и афоризмов/Антибиотик, главарь банды из сериала Бандитский Петербург:s:361605:e:1557-->
 <!----><!--2017-02-12 15:12:03-->
 ## Царь Соломон, ветхозаветный правитель
 <img src="./solomon.jpg">
@@ -2418,7 +3897,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Не дружись с гневливым и не сообщайся с 
-    человеком вспыльчивым.<!--n:Подборка цитат и афоризмов/Царь Соломон, ветхозаветный правитель:s:199209:e:1339-->
+    человеком вспыльчивым.<!--n:Подборка цитат и афоризмов/Царь Соломон, ветхозаветный правитель:s:363345:e:1339-->
 <!----><!--2016-09-30 21:28:24-->
 ## Юрий Лужков, мэр г.Москвы
 <img src="./luzhkov.jpg">
@@ -2436,7 +3915,7 @@ Markdown provides backslash escapes for the following characters:
 *О нажитом богатстве*
 
     В могилку нас положат в одном пиджачке, 
-    второго не наденут<!--n:Подборка цитат и афоризмов/Юрий Лужков, мэр г.Москвы:s:200694:e:496-->
+    второго не наденут<!--n:Подборка цитат и афоризмов/Юрий Лужков, мэр г.Москвы:s:364830:e:496-->
 <!----><!--2016-07-23 10:27:51-->
 ## Брюс Ли, мастер боевых искусств, актер
 <img src="./bruce_lee.jpg">
@@ -2477,14 +3956,14 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Ничего не существует, за исключением здесь и сейчас.<!--n:Подборка цитат и афоризмов/Брюс Ли, мастер боевых искусств, актер:s:201310:e:1517-->
+    Ничего не существует, за исключением здесь и сейчас.<!--n:Подборка цитат и афоризмов/Брюс Ли, мастер боевых искусств, актер:s:365446:e:1517-->
 <!----><!--2024-05-18 15:56:44-->
 ## Джордж Лукас, американский кинорежиссер
 <img src="./dj_lukas.jpg">
 
     Нужно всегда делиться успехом. Если ты нашёл себе хорошее дело, 
     помоги другому человеку найти такое же. Свой личный успех я измеряю
-    количеством людей, которых я сделал успешным.<!--n:Подборка цитат и афоризмов/Джордж Лукас, американский кинорежиссер:s:202972:e:476-->
+    количеством людей, которых я сделал успешным.<!--n:Подборка цитат и афоризмов/Джордж Лукас, американский кинорежиссер:s:367108:e:476-->
 <!----><!--2018-01-04 16:30:00-->
 ## Билл Клинтон, американский президент
 <img src="./bill_clinton.jpg" alt="">
@@ -2498,12 +3977,12 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Сила и мудрость друг другу не мешают.<!--n:Подборка цитат и афоризмов/Билл Клинтон, американский президент:s:203597:e:531-->
+    Сила и мудрость друг другу не мешают.<!--n:Подборка цитат и афоризмов/Билл Клинтон, американский президент:s:367733:e:531-->
 <!----><!--2017-06-17 17:28:08-->
 ## Станислав Черчесов, российский футболист и тренер
 <img src="./cherchesov.jpg">
 
-    Как готовились, так и сыграли<!--n:Подборка цитат и афоризмов/Станислав Черчесов, российский футболист и тренер:s:204271:e:217-->
+    Как готовились, так и сыграли<!--n:Подборка цитат и афоризмов/Станислав Черчесов, российский футболист и тренер:s:368407:e:217-->
 <!----><!--2018-12-15 18:47:55-->
 ## Джордж Бернард Шоу, выдающийся ирландский драматург
 <img src="./b_show.jpg">
@@ -2549,7 +4028,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Цензура в конце концов приходит к тому, 
-    что запрещены все книги, кроме тех, которых никто не читает.<!--n:Подборка цитат и афоризмов/Джордж Бернард Шоу, выдающийся ирландский драматург, лауреат Нобелевской прем:s:204655:e:1547-->
+    что запрещены все книги, кроме тех, которых никто не читает.<!--n:Подборка цитат и афоризмов/Джордж Бернард Шоу, выдающийся ирландский драматург, лауреат Нобелевской прем:s:368791:e:1547-->
 <!----><!--2018-04-21 23:35:54-->
 ## Карлос Кастанеда, американский писатель-эзотерик
 <img src="./kastaneda.jpg">
@@ -2565,7 +4044,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Сначала мы учимся обо всем думать, а потом учимся смотреть 
-    на вещи так, как о них думаем.<!--n:Подборка цитат и афоризмов/Карлос Кастанеда, американский писатель-эзотерик:s:206422:e:652-->
+    на вещи так, как о них думаем.<!--n:Подборка цитат и афоризмов/Карлос Кастанеда, американский писатель-эзотерик:s:370558:e:652-->
 <!----><!--2020-08-25 0:54:11-->
 ## Лев Яшин, советский футбольный вратарь
 <img src="./lev_yashin.jpg">
@@ -2582,7 +4061,7 @@ Markdown provides backslash escapes for the following characters:
 
     Любой, самый счастливый финиш - лишь предшественник 
     очередного старта, причем прошлые победы не дают 
-    никаких дополнительных привилегий.<!--n:Подборка цитат и афоризмов/Лев Яшин, советский футбольный вратарь:s:207240:e:717-->
+    никаких дополнительных привилегий.<!--n:Подборка цитат и афоризмов/Лев Яшин, советский футбольный вратарь:s:371376:e:717-->
 <!----><!--2018-04-22 14:47:12-->
 ## Владимир Жириновский, российский политик и депутат
 <img src="./zhirik.jpg">
@@ -2603,13 +4082,13 @@ Markdown provides backslash escapes for the following characters:
 
     Не надо заставлять детей учить английский, 
     пускай лучше изучают автомат Калашникова. 
-    И тогда скоро весь мир заговорит по-русски.<!--n:Подборка цитат и афоризмов/Владимир Жириновский, российский политик и депутат:s:208103:e:744-->
+    И тогда скоро весь мир заговорит по-русски.<!--n:Подборка цитат и афоризмов/Владимир Жириновский, российский политик и депутат:s:372239:e:744-->
 <!----><!--2017-12-21 21:18:06-->
 ## Игорь Скляр, российский актер театра и кино
 <img src="./sklyar.jpg">
 
     Если что-то делать мучительно - то это тяжело, 
-    если с радостью и улыбкой - то легко.<!--n:Подборка цитат и афоризмов/Игорь Скляр, российский актер театра и кино:s:209016:e:300-->
+    если с радостью и улыбкой - то легко.<!--n:Подборка цитат и афоризмов/Игорь Скляр, российский актер театра и кино:s:373152:e:300-->
 <!----><!--2017-10-01 09:43:02-->
 ## Иосиф Сталин, глава советсткого государства
 <img src="./stalin.jpg">
@@ -2632,7 +4111,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    У каждой ошибки есть имя, фамилия и должность.<!--n:Подборка цитат и афоризмов/Иосиф Сталин, глава советсткого государства:s:209470:e:1083-->
+    У каждой ошибки есть имя, фамилия и должность.<!--n:Подборка цитат и афоризмов/Иосиф Сталин, глава советсткого государства:s:373606:e:1083-->
 <!----><!--2016-04-17 10:01:10-->
 ## Генрих Манн, немецкий писатель
 <img src="./mann.jpg">
@@ -2643,14 +4122,14 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Главная причина успеха в любом деле - 
-    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Генрих Манн, немецкий писатель:s:210710:e:396-->
+    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Генрих Манн, немецкий писатель:s:374846:e:396-->
 <!----><!--2016-04-17 10:11:09-->
 ## Шри Чинмой, индуистский проповедник
 <img src="./chinmoy.jpg">
 
     Дружба - это такое святое, сладостное, прочное и 
     постоянное чувство, что его можно сохранить на всю жизнь. 
-    Если, конечно, не пытаться просить денег взаймы.<!--n:Подборка цитат и афоризмов/Шри Чинмой, индуистский проповедник:s:211237:e:424-->
+    Если, конечно, не пытаться просить денег взаймы.<!--n:Подборка цитат и афоризмов/Шри Чинмой, индуистский проповедник:s:375373:e:424-->
 <!----><!--2020-08-30 23:55:11-->
 ## Гэндальф, маг из Властелина Колец
 <img src="./gendalf.jpg">
@@ -2665,7 +4144,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Мир не в книгах и картах, он там — за окном!<!--n:Подборка цитат и афоризмов/Гэндальф, маг из Властелина Колец:s:211802:e:588-->
+    Мир не в книгах и картах, он там — за окном!<!--n:Подборка цитат и афоризмов/Гэндальф, маг из Властелина Колец:s:375938:e:588-->
 <!----><!--2019-09-20 08:55:59-->
 ## Жан-Поль Бельмондо, французский актер
 <img src="./belmondo.jpeg">
@@ -2700,13 +4179,13 @@ Markdown provides backslash escapes for the following characters:
 
     Больше не вернусь ни в кино, ни в театр. 
     Теперь мой главный проект — ничего не делать 
-    и наслаждаться жизнью.<!--n:Подборка цитат и афоризмов/Жан-Поль Бельмондо, французский актер:s:212526:e:1218-->
+    и наслаждаться жизнью.<!--n:Подборка цитат и афоризмов/Жан-Поль Бельмондо, французский актер:s:376662:e:1218-->
 <!----><!--2018-04-07 16:23:54-->
 ## Нафталий Френкель, один из руководителей ГУЛАГа
 <img src="./frenkel.jpg">
 
     От заключённого нам надо взять всё в первые три месяца — 
-    а потом он нам не нужен!<!--n:Подборка цитат и афоризмов/Нафталий Френкель, один из руководителей ГУЛАГа:s:213889:e:308-->
+    а потом он нам не нужен!<!--n:Подборка цитат и афоризмов/Нафталий Френкель, один из руководителей ГУЛАГа:s:378025:e:308-->
 <!----><!--2018-01-27 09:18:20-->
 ## Илон Маск, американский изобретатель и миллиардер
 <img src="./ilon_mask.jpg">
@@ -2728,7 +4207,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Мы должны понять, как получить то, что мы любим, и 
-    при этом не уничтожить мир.<!--n:Подборка цитат и афоризмов/Илон Маск, американский изобретатель и миллиардер:s:214360:e:1275-->
+    при этом не уничтожить мир.<!--n:Подборка цитат и афоризмов/Илон Маск, американский изобретатель и миллиардер:s:378496:e:1275-->
 <!----><!--2024-05-19 15:00:21-->
 ## Джеймс Кэмерон, американский кинорежиссёр
 <img src="./js_cameron.jpg" width="150px">
@@ -2752,7 +4231,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Если вы будете ждать правильного момента, чтобы завести ребенка, 
-    вы умрете бездетным. С кино — то же самое.<!--n:Подборка цитат и афоризмов/Джеймс Кэмерон, американский кинорежиссёр:s:215803:e:1688-->
+    вы умрете бездетным. С кино — то же самое.<!--n:Подборка цитат и афоризмов/Джеймс Кэмерон, американский кинорежиссёр:s:379939:e:1688-->
 <!----><!--2018-12-23 08:38:25-->
 ## Владимир Путин, российский президент
 <img src="./putin.jpg">
@@ -2773,13 +4252,13 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Нам ничего ни от кого не нужно, 
-    кроме того, что нам принадлежит!<!--n:Подборка цитат и афоризмов/Владимир Путин, российский президент:s:217645:e:768-->
+    кроме того, что нам принадлежит!<!--n:Подборка цитат и афоризмов/Владимир Путин, российский президент:s:381781:e:768-->
 <!---->﻿<!--2020-04-03 18:01:11-->
 ## Гарри Каспаров, шахматист
 <img src="./kasparov.jpg">
 
     Если хотите искать людей с двойным гражданством, 
-    ищите в Государственной Думе.<!--n:Подборка цитат и афоризмов/Гарри Каспаров, шахматист:s:218556:e:269-->
+    ищите в Государственной Думе.<!--n:Подборка цитат и афоризмов/Гарри Каспаров, шахматист:s:382692:e:269-->
 <!----><!--2017-11-06 19:49:12-->
 ## Лев Троцкий, советский революционер
 <img src="./trotskiy.jpg">
@@ -2801,7 +4280,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Если ты не можешь убедить своего противника при помощи 
-    доводов, тебе следует познакомить его голову с тротуаром.<!--n:Подборка цитат и афоризмов/Лев Троцкий, советский революционер:s:218947:e:847-->
+    доводов, тебе следует познакомить его голову с тротуаром.<!--n:Подборка цитат и афоризмов/Лев Троцкий, советский революционер:s:383083:e:847-->
 <!----><!--2023-09-30 23:31:14-->
 ## Арнольд Шварценеггер, американский бодибилдер и актер
 <img src="./arnold_schwarz.jpg">
@@ -2833,12 +4312,12 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Чужих денег не надо, у меня хватает своих, и все решения я принимаю 
-    только во благо людей.<!--n:Подборка цитат и афоризмов/Арнольд Шварценеггер, американский бодибилдер и актер:s:219935:e:1517-->
+    только во благо людей.<!--n:Подборка цитат и афоризмов/Арнольд Шварценеггер, американский бодибилдер и актер:s:384071:e:1517-->
 <!----><!--2020-03-15 10:24:02-->
 ## Джулиан Ассанж, основатель сайта WikiLeaks
 <img src="./d_assang.jpg">
 
-    Я узнал, как работает судебная система: она не работает.<!--n:Подборка цитат и афоризмов/Джулиан Ассанж, основатель сайта WikiLeaks:s:221628:e:241-->
+    Я узнал, как работает судебная система: она не работает.<!--n:Подборка цитат и афоризмов/Джулиан Ассанж, основатель сайта WikiLeaks:s:385764:e:241-->
 <!----><!--2017-07-21 21:16:04-->
 ## Авраам Линкольн, американский президент
 <img src="./lincoln.jpg">
@@ -2873,7 +4352,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     В конечном счете, важны не годы в вашей жизни, 
-    а жизнь в ваших годах.<!--n:Подборка цитат и афоризмов/Авраам Линкольн, американский президент:s:222014:e:1069-->
+    а жизнь в ваших годах.<!--n:Подборка цитат и афоризмов/Авраам Линкольн, американский президент:s:386150:e:1069-->
 <!----><!--2018-01-21 09:58:53-->
 ## Александр Суворов, русский полководец
 <img src="./a_suvorov.jpg">
@@ -2894,7 +4373,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Титулы мне не для меня, но для публики потребны.<!--n:Подборка цитат и афоризмов/Александр Суворов, русский полководец:s:223233:e:668-->
+    Титулы мне не для меня, но для публики потребны.<!--n:Подборка цитат и афоризмов/Александр Суворов, русский полководец:s:387369:e:668-->
 <!----><!--2022-02-01 00:56:11-->
 ## Марк Твен, американский писатель
 <img src="./mark_twen.jpg">
@@ -2930,7 +4409,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Воспоминания - вот из-за чего мы стареем. 
-    Секрет вечной юности - в умении забывать.<!--n:Подборка цитат и афоризмов/Марк Твен, американский писатель:s:224046:e:1240-->
+    Секрет вечной юности - в умении забывать.<!--n:Подборка цитат и афоризмов/Марк Твен, американский писатель:s:388182:e:1240-->
 <!----><!--2016-04-17 10:08:46-->
 ## Уинстон Черчилль, английский политический деятель
 <img src="./cherchill.jpg">
@@ -2940,7 +4419,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Генералы всегда готовятся к прошлой войне.<!--n:Подборка цитат и афоризмов/Уинстон Черчилль, английский политический деятель:s:225422:e:380-->
+    Генералы всегда готовятся к прошлой войне.<!--n:Подборка цитат и афоризмов/Уинстон Черчилль, английский политический деятель:s:389558:e:380-->
 <!----><!--2017-01-07 19:35:21-->
 ## Джеймс Фенимор Купер, американский писатель
 <img src="./kuper.jpg">
@@ -2980,14 +4459,14 @@ Markdown provides backslash escapes for the following characters:
 
     Когда белый умирает, он думает, что для него наступила 
     минута покоя, но краснокожие умеют мучить даже 
-    призраки своих врагов.<!--n:Подборка цитат и афоризмов/Джеймс Фенимор Купер, американский писатель:s:225970:e:1383-->
+    призраки своих врагов.<!--n:Подборка цитат и афоризмов/Джеймс Фенимор Купер, американский писатель:s:390106:e:1383-->
 <!----><!--2017-11-19 17:56:13-->
 ## Клод ле Руа, французский футбольный тренер
 <img src="./klod_le_rua.jpg">
 
     Жить со всей страстью и быть терпимым к другим - 
-    это особый дар.<!--n:Подборка цитат и афоризмов/Клод ле Руа, французский футбольный тренер:s:227510:e:270-->
-<!----><!--2025-09-02 17:35:30-->Здесь собраны цитаты мудрейших людей мира. Политиков, философов, писателей, актеров.<!--n:Подборка цитат и афоризмов/about:s:227933:e:187-->
+    это особый дар.<!--n:Подборка цитат и афоризмов/Клод ле Руа, французский футбольный тренер:s:391646:e:270-->
+<!----><!--2025-09-02 17:35:30-->Здесь собраны цитаты мудрейших людей мира. Политиков, философов, писателей, актеров.<!--n:Подборка цитат и афоризмов/about:s:392069:e:187-->
 <!----><!--2020-07-16 22:21:18-->
 ## Транспонирование аккордов
 Любая строчка - это аккорды в песне. Чтобы поменять тональность нужно поменять их на соответствующие аккорды из другой строчки строго по вертикали.
@@ -3005,7 +4484,7 @@ Markdown provides backslash escapes for the following characters:
 <tr><td>Fm#<td>F#<td>Hm<td>H<td>C<td>A<td>Am<td>E<td>F<td>Em<td>Bm<td>D<td>D#<td>Dm<td>Dm#<td>G<td>Gm<td>G</tr>
 <tr style='color:gray'><td>Gm<td>G<td>Cm<td>C<td>C#<td>B<td>Bm<td>F<td>F#<td>Fm<td>Hm<td>D#<td>E<td>Dm#<td>Em<td>G#<td>Gm#<td>G#</tr>
 <tr><td>Gm#<td>G#<td>Cm#<td>C#<td>D<td>H<td>Hm<td>F<td>G<td>Fm#<td>Cm<td>E<td>F<td>Em<td>Fm<td>A<td>Am<td>A</tr>
-</tr></table><!--n:Самоучитель игры на гитаре/Транспонирование аккордов:s:228200:e:1883-->
+</tr></table><!--n:Самоучитель игры на гитаре/Транспонирование аккордов:s:392336:e:1883-->
 <!----><!--2017-07-16 11:26:43-->
 ## Аккорды
 Необходимые аккорды для правильной игры всех песен. Набрал RAS.
@@ -3194,7 +4673,7 @@ Markdown provides backslash escapes for the following characters:
 		|-●-|---|-●-   |---|-●-|---
 		|-●-|---|-●-   |---|---|-●-
 		|-●-|---|---   |---|-●-|---
-		|-●-|---|---   |---|-!-|---<!--n:Самоучитель игры на гитаре/Аккорды:s:230208:e:10511-->
+		|-●-|---|---   |---|-!-|---<!--n:Самоучитель игры на гитаре/Аккорды:s:394344:e:10511-->
 <!----><!--2017-07-16 13:54:31-->
 ## Переборы
 Здесь представлены несколько видов
@@ -3337,7 +4816,7 @@ Markdown provides backslash escapes for the following characters:
 Лучший способ научиться играть переборы - найти
 хорошую, нравящуюся песню с таким перебором, найти к
 ней аккорды и больше тренироваться. Спасибо за
-внимание. Надеюсь, что хоть чем-то помог.<!--n:Самоучитель игры на гитаре/Переборы:s:240810:e:8420-->
+внимание. Надеюсь, что хоть чем-то помог.<!--n:Самоучитель игры на гитаре/Переборы:s:404946:e:8420-->
 <!----><!--2017-07-16 13:41:52-->
 ## Гитарные бои
 Условные обозначения
@@ -3505,7 +4984,7 @@ Markdown provides backslash escapes for the following characters:
 Вариант с глушением первого удара
 
 		I-^-v---v-x-v-^-v---
-		P-^-----------^-----<!--n:Самоучитель игры на гитаре/Гитарные бои:s:249322:e:6295-->
+		P-^-----------^-----<!--n:Самоучитель игры на гитаре/Гитарные бои:s:413458:e:6295-->
 <!----><!--2017-07-16 13:35:21-->
 ## Баррэ
 *Баррэ* - это прием прижатия струн, заключающийся в том, что
@@ -3551,7 +5030,7 @@ Markdown provides backslash escapes for the following characters:
 остальные пальцы не ощущали скованности и могли легко поочередно
 прижать любую струну на трех соседних ладах; при перемещении
 указательного пальца с одного лада на другой рука должна
-передвигаться легко и быстро.<!--n:Самоучитель игры на гитаре/Баррэ:s:255716:e:4258-->
+передвигаться легко и быстро.<!--n:Самоучитель игры на гитаре/Баррэ:s:419852:e:4258-->
 <!----><!--2017-06-03 18:18:38-->
 ## Азы обучения игре на гитаре
 Итак, ты все бросил и решил/решила, что хочешь научится
@@ -3632,7 +5111,7 @@ Markdown provides backslash escapes for the following characters:
 рекомендую чередовать *5* и *4* струны, в этом случае звук
 более мелодичен, выглядит это примерно так:
 
-    5, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3 и сначала<!--n:Самоучитель игры на гитаре/Азы обучения игре на гитаре:s:260060:e:3590-->
+    5, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3 и сначала<!--n:Самоучитель игры на гитаре/Азы обучения игре на гитаре:s:424196:e:3590-->
 <!----><!--2017-07-16 14:01:55-->
 ## Таблица аккордов
 *Примечание:* в аккорде слева - *6*-я струна, справа - *1*-я. Строй гитары *EADGBE*. &nbsp; [Таблица с табами](/index.html?samouchitel_igry_na_gitare/tablica_akkordov_s_tabami)
@@ -3692,7 +5171,7 @@ Markdown provides backslash escapes for the following characters:
 		 Gm7    |    G6    |   Gmaj7  |   Gm6    |   Gdim   |   Gaug
 		131111  |  320000  |  320002  |  X10030  |  XX2323  |  XX5443
 
-</div><!--n:Самоучитель игры на гитаре/Таблица аккордов:s:263776:e:3713-->
+</div><!--n:Самоучитель игры на гитаре/Таблица аккордов:s:427912:e:3713-->
 <!----><!--2023-09-21 20:01:13-->
 ## Таблица аккордов с табами
 *Примечание:* Стандартный строй гитары *EADGBE*. &nbsp; [Таблица аккордов](/index.html?samouchitel_igry_na_gitare/tablica_akkordov)
@@ -3806,7 +5285,7 @@ Markdown provides backslash escapes for the following characters:
 <svg height="118" version="1.1" width="120" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; top: -0.0334473px;"><text style="text-anchor: middle; font: 15px arial;" x="54" y="16" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="15px"><tspan dy="5">Gmaj7</tspan></text><path style="" fill="none" stroke="#4d3ca0" d="M14,36L94,36" stroke-width="3"/><path style="" fill="none" stroke="#000000" d="M14,36L94,36"/><path style="" fill="none" stroke="#000000" d="M14,52L94,52"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">1</tspan></text><path style="" fill="none" stroke="#000000" d="M14,68L94,68"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">2</tspan></text><path style="" fill="none" stroke="#000000" d="M14,84L94,84"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">3</tspan></text><path style="" fill="none" stroke="#000000" d="M14,100L94,100"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="92" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">4</tspan></text><path style="" fill="none" stroke="#000000" d="M14,36L14,108"/><path style="" fill="none" stroke="#000000" d="M30,36L30,108"/><path style="" fill="none" stroke="#000000" d="M46,36L46,108"/><path style="" fill="none" stroke="#000000" d="M62,36L62,108"/><path style="" fill="none" stroke="#000000" d="M78,36L78,108"/><path style="" fill="none" stroke="#000000" d="M94,36L94,108"/><circle cx="14" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="14" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">3</tspan></text><circle cx="30" cy="60" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="30" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">2</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="46" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="62" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="78" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><circle cx="94" cy="60" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="94" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">1</tspan></text></svg>
 <svg height="118" version="1.1" width="120" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; top: -0.0334473px;"><text style="text-anchor: middle; font: 15px arial;" x="54" y="16" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="15px"><tspan dy="5">Gm</tspan></text><path style="" fill="none" stroke="#4d3ca0" d="M14,36L94,36" stroke-width="3"/><path style="" fill="none" stroke="#000000" d="M14,36L94,36"/><path style="" fill="none" stroke="#000000" d="M14,52L94,52"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">1</tspan></text><path style="" fill="none" stroke="#000000" d="M14,68L94,68"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">2</tspan></text><path style="" fill="none" stroke="#000000" d="M14,84L94,84"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">3</tspan></text><path style="" fill="none" stroke="#000000" d="M14,100L94,100"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="92" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">4</tspan></text><path style="" fill="none" stroke="#000000" d="M14,36L14,108"/><path style="" fill="none" stroke="#000000" d="M30,36L30,108"/><path style="" fill="none" stroke="#000000" d="M46,36L46,108"/><path style="" fill="none" stroke="#000000" d="M62,36L62,108"/><path style="" fill="none" stroke="#000000" d="M78,36L78,108"/><path style="" fill="none" stroke="#000000" d="M94,36L94,108"/><circle cx="14" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="14" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">2</tspan></text><circle cx="30" cy="44" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="30" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">1</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="46" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="62" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><circle cx="78" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="78" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">3</tspan></text><circle cx="94" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="94" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">4</tspan></text></svg>
 <svg height="118" version="1.1" width="120" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; top: -0.0333252px;"><text style="text-anchor: middle; font: 15px arial;" x="54" y="16" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="15px"><tspan dy="5">G</tspan></text><path style="" fill="none" stroke="#4d3ca0" d="M14,36L94,36" stroke-width="3"/><path style="" fill="none" stroke="#000000" d="M14,36L94,36"/><path style="" fill="none" stroke="#000000" d="M14,52L94,52"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">1</tspan></text><path style="" fill="none" stroke="#000000" d="M14,68L94,68"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">2</tspan></text><path style="" fill="none" stroke="#000000" d="M14,84L94,84"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">3</tspan></text><path style="" fill="none" stroke="#000000" d="M14,100L94,100"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="92" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">4</tspan></text><path style="" fill="none" stroke="#000000" d="M14,36L14,108"/><path style="" fill="none" stroke="#000000" d="M30,36L30,108"/><path style="" fill="none" stroke="#000000" d="M46,36L46,108"/><path style="" fill="none" stroke="#000000" d="M62,36L62,108"/><path style="" fill="none" stroke="#000000" d="M78,36L78,108"/><path style="" fill="none" stroke="#000000" d="M94,36L94,108"/><circle cx="14" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="14" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">3</tspan></text><circle cx="30" cy="60" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="30" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">2</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="46" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="62" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="78" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><circle cx="94" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="94" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">4</tspan></text></svg>
-</div><!--n:Самоучитель игры на гитаре/Таблица аккордов с табами:s:267596:e:348268-->
+</div><!--n:Самоучитель игры на гитаре/Таблица аккордов с табами:s:431732:e:348268-->
 <!----><!--2025-09-20 22:21:30-->Обучающий материал по игре на гитаре, 
 взятый из программы *Песенник* (или *Songbook*) от *Александра Руденко*.
-Тексты песен с аккордами загружены в базу [Аккордов](/songs.html "Аккорды и тексты песен").<!--n:Самоучитель игры на гитаре/about:s:615989:e:376-->
+Тексты песен с аккордами загружены в базу [Аккордов](/songs.html "Аккорды и тексты песен").<!--n:Самоучитель игры на гитаре/about:s:780125:e:376-->

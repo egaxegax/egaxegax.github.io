@@ -131,7 +131,7 @@ def main(path='.'):
         text = re.sub(r'^[\r\n]+|[\r\n]+$', '', text)
         text = re.sub(r'\r', '', text)
         text = re.sub(r'\t', ' ', text)
-        text = re.sub(r' ', r' ', text)  # unicode space (html not trim)
+        text = re.sub(r' ', r' ', text)    # unicode space (html not trim)
         text = re.sub(r'\n', '  \n', text) # two spaces newline
         text = re.sub(r'(^<\!--.*-->)\n[\t ]*\n*', r'\1\n', text) # revert comments
         open(os.path.join(root, fname + '.md'), 'w', encoding='utf-8', newline='\n').write(text)

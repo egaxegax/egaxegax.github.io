@@ -9810,6 +9810,11 @@ https://egax.ru/index.html?sports/250923_0800
 https://egax.ru/index.html?sports/250924_0800
 https://egax.ru/index.html?sports/260314_1600
 https://egax.ru/index.html?sports/about
+https://egax.ru/index.html?spravochnik_po_python_3
+https://egax.ru/index.html?spravochnik_po_python_3/about
+https://egax.ru/index.html?spravochnik_po_python_3/additional_methods_on_onteger_types
+https://egax.ru/index.html?spravochnik_po_python_3/bitwise_operations
+https://egax.ru/index.html?spravochnik_po_python_3/file_operations
 https://egax.ru/index.html?staraya_evropa
 https://egax.ru/index.html?staraya_evropa/about
 https://egax.ru/index.html?staraya_evropa/brjugge

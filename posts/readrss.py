@@ -8,13 +8,14 @@
 RSSlist = {
   'eadaily': {'hdr':'Подборка новостей/EADaily',              'hdr2':'Вести',    'url':'https://eadaily.com/ru/rss/index.xml'},
   'ria':     {'hdr':'Подборка новостей/РИА',                  'hdr2':'События',  'url':'https://ria.ru/export/rss2/index.xml'},
-  'rambler': {'hdr':'Подборка новостей/Рамблер',              'hdr2':'Известия', 'url':'https://news.rambler.ru/rss/world/'},
+  'rambler': {'hdr':'Подборка новостей/Рамблер',              'hdr2':'В мире',   'url':'https://news.rambler.ru/rss/world/'},
   'ramblerm':{'hdr':'Подборка новостей/Рамблер',              'hdr2':'Москва',   'url':'https://news.rambler.ru/rss/moscow_city/'},
   'vm':      {'hdr':'Подборка новостей/Вечерняя Москва',      'hdr2':'Вечорка',  'url':'https://vm.ru/rss'},
   'mk':      {'hdr':'Подборка новостей/Московский Комсомолец','hdr2':'Наука',    'url':'https://www.mk.ru/rss/science/index.xml'},
   'sports':  {'hdr':'Подборка новостей/Спортс',               'hdr2':'Спорт',    'url':'https://sports.ru/rss/all_news.xml'},
   'chmp':    {'hdr':'Подборка новостей/Чемпионат',            'hdr2':'Чемпионат','url':'https://www.championat.ru/rss/news/'},
   'cosmos':  {'hdr':'Подборка новостей/Элементы Космос',      'hdr2':'Космос',   'url':'https://elementy.ru/rss/news/cosmos'},
+  'rgecon':  {'hdr':'Подборка новостей/Российская газета',    'hdr2':'Экономика','url':'https://rg.ru/xml/rubrics/ekonomika.xml'},
 }
 
 import os, sys, time, re, locale
