@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Подборы гитарных аккордов к песням, стихи, лирика, музыка ">
+<meta name="description" content="Подборы гитарных аккордов к песням, стихи, лирика, слушать музыку">
 <meta name="keywords" content="аккорды, песни, стихи, музыка, статьи, тексты, заметки, фото">
 <meta name="author" content="egax@ya.ru">
 <meta name="robots" content="all">
@@ -82,17 +82,20 @@
   }
   
   function addList(r,p){
-    if(p.if) updateMetaTag('description', p.subj+', тексты песен, аккорды ' + (urlParams().page||''));
+    if(p.if) updateMetaTag('description', p.subj+', тексты песен, слушать музыку, аккорды ' + (urlParams().page||''));
     document.getElementById(p.id).style.padding = '5px 10px';
     document.getElementById(p.id).innerHTML = 
   '<div class="msgtext scroll nowrap mw_f">'+
     '<table><tr>'+
       '<td width="99%">'+
-        '<a class="nodecor dark" href="songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp; '+p.title[2]+' </a>'+
+        '<a id="'+tr(p.subj)+'_'+tr(p.title[2])+'" class="nodecor dark" href="songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&ensp; '+p.title[2]+' </a>'+
       '</td>'+
       '<td align="right" class="light"><i class="small light">'+p.i+'</i></td></tr>'+
     '</table>'+
   '</div>';
+  fetchPart({url: 'songs/'+p.root+'/'+'README.md', offset: p.title[1][0]+7, length: p.title[1][1]-8}, function(r,p1,st){
+      if(st=(r.match(new RegExp('<!--muz:([^>]*)-->')) || ['',''])[1]) document.getElementById(tr(p.subj)+'_'+tr(p.title[2])).innerHTML += '<audio class="vmid rounded5 rfloat" controls src="'+st+'" style="height:20px;width:200px"></audio>';
+    });
   }
 
   function addAbout(r,p){

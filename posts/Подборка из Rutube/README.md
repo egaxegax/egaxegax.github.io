@@ -13353,3 +13353,410 @@
     <i class="smaller3">2026-01-06</i>
   </div>
 </div><!--n:Компьютерные игры/Sorrow Asylum 3-ПРОХОЖДЕНИЕ ХОРРОРА - Психушка, в которой застрял твой разум Без комментариев:s:1187046:e:906-->
+<!----><!--2026-03-14 20:21:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pobeda_v_irane_udar_po_ukraine_68_raket_na_styke_oblastej_140326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f7bee3e3512aed026d2230ebbafa99f9/" src="http://pic.rtbcdn.ru/video/2026-03-14/5d/98/5d98016fd61e127c62b9e78f712fe487.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pobeda_v_irane_udar_po_ukraine_68_raket_na_styke_oblastej_140326">Украинский фронт - победа в Иране. Удар по Украине 68 ракет. На стыке областей. 14.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-14</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - победа в Иране. Удар по Украине 68 ракет. На стыке областей. 14.03.26:s:1188170:e:890-->
+<!----><!--2026-03-15 18:35:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/tragediya_s_derevyami_mango">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8e5aa478f9267222d168f71f43060623/" src="http://pic.rtbcdn.ru/video/2026-03-15/44/37/4437847150b2f7f8e8ccec4d39f5f702.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/tragediya_s_derevyami_mango">Трагедия с деревьями манго</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-15</i>
+  </div>
+</div><!--n:Жизнь в США и России/Трагедия с деревьями манго:s:1189271:e:679-->
+<!----><!--2026-03-14 23:34:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_10_seriya_the_pitt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4d23e2736d27120e10567797c04ffa64/" src="http://pic.rtbcdn.ru/video/2026-03-14/41/b9/41b9218b5327bc48cc9fc503f71c33b0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_10_seriya_the_pitt">Сериал Больница Питт 2 сезон 10 серия / The Pitt</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-14</i>
+  </div>
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 10 серия The Pitt:s:1190062:e:756-->
+<!----><!--2026-03-15 10:51:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_ritualy_u_statui_shivy_v_cerne_ceremoniya_v_tonnele_gotarda_i_hramy_indii_svyazany_vmeste">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fa4b4122eac3381859da107093447925/" src="http://pic.rtbcdn.ru/video/2026-01-28/8d/78/8d78082fc23e12f0dd984d9379a3586c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_ritualy_u_statui_shivy_v_cerne_ceremoniya_v_tonnele_gotarda_i_hramy_indii_svyazany_vmeste">Почему ритуалы у статуи Шивы в ЦЕРНе, церемония в тоннеле Готарда и храмы Индии связаны вместе?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-15</i>
+  </div>
+</div><!--n:Тайны/Почему ритуалы у статуи Шивы в ЦЕРНе, церемония в тоннеле Готарда и храмы Индии связаны вместе:s:1190934:e:911-->
+<!----><!--2025-12-24 11:36:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_rojdennyj_ne_dlya_svoego_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/337a429a52e84df95644a5e256cc5183/" src="http://pic.rtbcdn.ru/video/2025-12-24/0b/a6/0ba693018291174ddae456b9cce42388.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_rojdennyj_ne_dlya_svoego_vremeni">ПОПАДАНЦЫ АУДИОКНИГА: РОЖДЁННЫЙ НЕ ДЛЯ СВОЕГО ВРЕМЕНИ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-12-24</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА РОЖДЁННЫЙ НЕ ДЛЯ СВОЕГО ВРЕМЕНИ:s:1192054:e:801-->
+<!----><!--2025-11-10 10:09:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_tankovyj_batalon_1941">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4a15aa667b6e72298d3057cc1a98644e/" src="http://pic.rtbcdn.ru/video/2025-11-07/e8/66/e86643e42d58e35407df622bbed946e2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_tankovyj_batalon_1941">ПОПАДАНЦЫ АУДИОКНИГА: ТАНКОВЫЙ БАТАЛЬОН 1941</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-10</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ТАНКОВЫЙ БАТАЛЬОН 1941:s:1192995:e:759-->
+<!----><!--2025-11-26 16:33:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_ugolovnyj_rozysk_pervoe_delo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/54d6b892cc8080925301ba8b78d12a8e/" src="http://pic.rtbcdn.ru/video/2025-11-05/8b/62/8b62675beb988980ab1d47838582654a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_ugolovnyj_rozysk_pervoe_delo">ПОПАДАНЦЫ АУДИОКНИГА: УГОЛОВНЫЙ РОЗЫСК ПЕРВОЕ ДЕЛО</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-26</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА УГОЛОВНЫЙ РОЗЫСК ПЕРВОЕ ДЕЛО:s:1193874:e:788-->
+<!----><!--2025-11-10 10:10:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_artistka_i_i_aviator">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7be6441214aaef078fa735bf68354535/" src="http://pic.rtbcdn.ru/video/2025-10-31/e7/9f/e79fe6ae09fe57d0498c83d56317736d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_artistka_i_i_aviator">ПОПАДАНЦЫ АУДИОКНИГА: АРТИСТКА И И АВИАТОР</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-10</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА АРТИСТКА И И АВИАТОР:s:1194797:e:756-->
+<!----><!--2025-11-26 16:33:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_poslednee_delo_v_majami">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6d6496012b1c0a7f667c48bd12d6839d/" src="http://pic.rtbcdn.ru/video/2025-11-15/fb/1c/fb1c14e9827b6a2c4831d885d206f0ca.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_poslednee_delo_v_majami">ПОПАДАНЦЫ АУДИОКНИГА: ПОСЛЕДНЕЕ ДЕЛО В МАЙАМИ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-26</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПОСЛЕДНЕЕ ДЕЛО В МАЙАМИ:s:1195672:e:768-->
+<!----><!--2025-11-28 15:44:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_proklyatyj_dvoryanin_imperii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ba3b52a7cb243de28c30754637436663/" src="http://pic.rtbcdn.ru/video/2025-11-26/e5/b3/e5b35aa8a102fc7eb0dbcc17816ce996.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_proklyatyj_dvoryanin_imperii">ПОПАДАНЦЫ АУДИОКНИГА: ПРОКЛЯТЫЙ ДВОРЯНИН ИМПЕРИИ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-28</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПРОКЛЯТЫЙ ДВОРЯНИН ИМПЕРИИ:s:1196565:e:785-->
+<!----><!--2025-10-17 23:09:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_favorit_imperii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e4058bf72d7a5f19281a8c6d02af23a4/" src="http://pic.rtbcdn.ru/video/2025-10-14/78/2e/782ece267bc5cdc56cd649c83839f218.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_favorit_imperii">ПОПАДАНЦЫ АУДИОКНИГА: ФАВОРИТ ИМПЕРИИ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-10-17</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ФАВОРИТ ИМПЕРИИ:s:1197482:e:738-->
+<!----><!--2025-12-17 15:47:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_cena_proklyatogo_dara">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8cb6147ed0b39fd20e51c2f90a271526/" src="http://pic.rtbcdn.ru/video/2025-12-16/7d/cf/7dcf93572d2625947686d34b2130a56a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_cena_proklyatogo_dara">ПОПАДАНЦЫ АУДИОКНИГА: ЦЕНА ПРОКЛЯТОГО ДАРА</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-12-17</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ЦЕНА ПРОКЛЯТОГО ДАРА:s:1198331:e:759-->
+<!----><!--2025-11-26 16:33:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_partizanskij_rubej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/98e246bd8e04b794016bd19f1f378d5d/" src="http://pic.rtbcdn.ru/video/2025-11-12/c5/88/c58829fac191e05eb389c1b949e6d76d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_partizanskij_rubej">ПОПАДАНЦЫ АУДИОКНИГА: ПАРТИЗАНСКИЙ РУБЕЖ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-26</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПАРТИЗАНСКИЙ РУБЕЖ:s:1199210:e:750-->
+<!----><!--2025-11-26 16:33:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_kazackij_ogon_i_sablya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/63a22b8f61c06f0823825270311cf3d7/" src="http://pic.rtbcdn.ru/video/2025-11-10/70/9f/709f9ba27613f073f6b72c4a7eb64331.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_kazackij_ogon_i_sablya">ПОПАДАНЦЫ АУДИОКНИГА: КАЗАЦКИЙ ОГОНЬ И САБЛЯ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-26</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА КАЗАЦКИЙ ОГОНЬ И САБЛЯ:s:1200077:e:764-->
+<!----><!--2025-11-10 10:10:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_poslednij_iz_vizantii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2ab465a2dbce8ef189da1a78842186b0/" src="http://pic.rtbcdn.ru/video/2025-11-03/7d/e6/7de6ebb0e18789a9aa23123963f75774.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_poslednij_iz_vizantii">ПОПАДАНЦЫ АУДИОКНИГА: ПОСЛЕДНИЙ ИЗ ВИЗАНТИИ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-10</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПОСЛЕДНИЙ ИЗ ВИЗАНТИИ:s:1200964:e:761-->
+<!----><!--2025-10-28 15:56:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_protokol_vyjivaniya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7ab1351ce805fab3382b0a652efd63c7/" src="http://pic.rtbcdn.ru/video/2025-10-17/7b/7f/7b7ffe6f762aea198d67e5433ddb1279.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_protokol_vyjivaniya">ПОПАДАНЦЫ АУДИОКНИГА: ПРОТОКОЛ ВЫЖИВАНИЯ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-10-28</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПРОТОКОЛ ВЫЖИВАНИЯ:s:1201847:e:752-->
+<!----><!--2025-10-17 23:09:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_barin_bez_sostoyaniya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/458f6df53a528180874aed614e83d3f2/" src="http://pic.rtbcdn.ru/video/2025-10-14/00/29/00299075068372fc3fbbaea57f0a8241.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_barin_bez_sostoyaniya">ПОПАДАНЦЫ АУДИОКНИГА: БАРИН БЕЗ СОСТОЯНИЯ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-10-17</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА БАРИН БЕЗ СОСТОЯНИЯ:s:1202716:e:757-->
+<!----><!--2025-12-08 10:55:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vek_ognya_i_kamnya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/153ba69b7271509ac7ba2a9fff7f105f/" src="http://pic.rtbcdn.ru/video/2025-12-01/2c/58/2c58e6534f75d2d5670577bcb46c8998.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vek_ognya_i_kamnya">ПОПАДАНЦЫ АУДИОКНИГА: ВЕК ОГНЯ И КАМНЯ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-12-08</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВЕК ОГНЯ И КАМНЯ:s:1203591:e:744-->
+<!----><!--2025-11-26 16:34:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_oficer_kavkaza_vne_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0653796b5815de0a1e2df6375d9cfa8a/" src="http://pic.rtbcdn.ru/video/2025-11-18/e6/bc/e6bcf425bbbaf8e3f7632d9476b87968.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_oficer_kavkaza_vne_vremeni">ПОПАДАНЦЫ АУДИОКНИГА: ОФИЦЕР КАВКАЗА ВНЕ ВРЕМЕНИ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-26</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ОФИЦЕР КАВКАЗА ВНЕ ВРЕМЕНИ:s:1204446:e:780-->
+<!----><!--2025-11-10 10:09:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_za_dvorom_sssr_1975">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c85a438a3458019646fcf3eb534666f9/" src="http://pic.rtbcdn.ru/video/2025-10-24/50/a5/50a5f905d9c7b784bff0772a3a9e56ed.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_za_dvorom_sssr_1975">ПОПАДАНЦЫ АУДИОКНИГА: ЗА ДВОРОМ СССР 1975</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-10</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ЗА ДВОРОМ СССР 1975:s:1205357:e:748-->
+<!----><!--2025-11-10 10:11:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vrach_dlya_jivyh_i_mertvyh">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2627f8e48c2a3fd0a062d3dbb9d48077/" src="http://pic.rtbcdn.ru/video/2025-10-20/47/23/4723fcbe6e6964fd277e150192f0f255.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vrach_dlya_jivyh_i_mertvyh">ПОПАДАНЦЫ АУДИОКНИГА: ВРАЧ ДЛЯ ЖИВЫХ И МЕРТВЫХ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-10</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВРАЧ ДЛЯ ЖИВЫХ И МЕРТВЫХ:s:1206218:e:775-->
+<!----><!--2025-11-10 10:10:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_razrushitel_mirov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/362aeb0839c191d729275fe1241c0a69/" src="http://pic.rtbcdn.ru/video/2025-10-27/2b/ef/2befed398172338854eced1d374d577b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_razrushitel_mirov">ПОПАДАНЦЫ АУДИОКНИГА: РАЗРУШИТЕЛЬ МИРОВ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-11-10</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА РАЗРУШИТЕЛЬ МИРОВ:s:1207119:e:746-->
+<!----><!--2025-10-17 23:09:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vladyki_zelenogo_plameni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1e7945e6bc2248fe6cb4045a5b80fee4/" src="http://pic.rtbcdn.ru/video/2025-10-16/f6/c5/f6c56b6111ca5d2b5e60e0e3e51ba7a5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vladyki_zelenogo_plameni">ПОПАДАНЦЫ АУДИОКНИГА: ВЛАДЫКИ ЗЕЛЁНОГО ПЛАМЕНИ</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-10-17</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВЛАДЫКИ ЗЕЛЁНОГО ПЛАМЕНИ:s:1207980:e:773-->
+<!----><!--2026-02-15 00:25:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?kompjuternye_igry/toony's_daycare_polnoe_prohojdenie_2025_detektiv_bez_kommentariev">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2ad6a49abd8579295a36ac04782bdc8f/" src="http://pic.rtbcdn.ru/video/2026-02-15/43/b1/43b1fd3c0488e6a5d33ce8d347d94899.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?kompjuternye_igry/toony's_daycare_polnoe_prohojdenie_2025_detektiv_bez_kommentariev">Toony's Daycare — ПОЛНОЕ ПРОХОЖДЕНИЕ  [2025] 🔔 Детектив 🧸😱 Без комментариев</a></p>
+    <p><i class="smaller2">StartPlay</i></p>
+    <i class="smaller3">2026-02-15</i>
+  </div>
+</div><!--n:Компьютерные игры/Toony's Daycare ПОЛНОЕ ПРОХОЖДЕНИЕ 2025 Детектив Без комментариев:s:1208881:e:807-->
+<!----><!--2026-03-16 11:27:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nashli_realnogo_puteshestvennika_vo_vremeni_zapis_tvich_strima">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4152471284a464ab38ee9308f4542c73/" src="http://pic.rtbcdn.ru/video/2025-09-19/45/5e/455e0e1d25a03be230c1145f3abdb9fb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nashli_realnogo_puteshestvennika_vo_vremeni_zapis_tvich_strima">НАШЛИ РЕАЛЬНОГО Путешественника во Времени? // ЗАПИСЬ ТВИЧ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/НАШЛИ РЕАЛЬНОГО Путешественника во Времени ЗАПИСЬ ТВИЧ СТРИМА:s:1209853:e:787-->
+<!----><!--2026-03-16 11:28:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/tunnel_v_antarktide_kak_polyarniki_so_stancii_mak-merdo_okazalis_puteshestvennikami_vo_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c0850e30c77744f6eba7f1cf79d9f250/" src="http://pic.rtbcdn.ru/video/2024-11-04/5c/b1/5cb1180e3741c7111511bcc7d0095914.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/tunnel_v_antarktide_kak_polyarniki_so_stancii_mak-merdo_okazalis_puteshestvennikami_vo_vremeni">Туннель в Антарктиде: Как полярники со станции Мак-Мердо оказались путешественниками во времени</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Туннель в Антарктиде Как полярники со станции Мак-Мердо оказались путешественниками во времени:s:1210792:e:909-->
+<!----><!--2026-03-16 11:28:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/mujchina_sluchajno_zabrel_vo_vremennoj_portal_v_lesu_balashihi_i_provel_8_let_v_parallelnom_mire">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3c8814176d62d0c7573bad0e74de76e6/" src="http://pic.rtbcdn.ru/video/2025-08-12/76/fa/76fa4c439950b80f04431997c60653aa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/mujchina_sluchajno_zabrel_vo_vremennoj_portal_v_lesu_balashihi_i_provel_8_let_v_parallelnom_mire">Мужчина случайно забрел во временной портал в лесу Балашихи и провел 8 лет в параллельном мире</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Мужчина случайно забрел во временной портал в лесу Балашихи и провел 8 лет в параллельном мире:s:1211914:e:908-->
+<!----><!--2026-03-16 11:28:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/puteshestviya_vo_vremeni_sushchestvujut_simvoly_cern_i_krugi_na_polyah_-_zapis_so_strima">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/afaef182aad7a90f32b25eaeda4bf31a/" src="http://pic.rtbcdn.ru/video/2025-05-13/c1/e1/c1e1c7b20bc5707278b47681344d5f1c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/puteshestviya_vo_vremeni_sushchestvujut_simvoly_cern_i_krugi_na_polyah_-_zapis_so_strima">Путешествия во Времени Существуют? Символы, ЦЕРН и круги на полях - ЗАПИСЬ СО СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Путешествия во Времени Существуют Символы, ЦЕРН и круги на полях - ЗАПИСЬ СО СТРИМА:s:1213031:e:872-->
+<!----><!--2026-03-16 11:27:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nlo_-_eto_mashiny_vremeni_puteshestvenniki_vo_vremeni_poseshchajut_nash_mir_na_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/786cf0f2c0b62cd4502f7a0147b2722b/" src="http://pic.rtbcdn.ru/video/2025-10-20/ae/68/ae6835af8dcc5aefbf77f3325a0437d1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nlo_-_eto_mashiny_vremeni_puteshestvenniki_vo_vremeni_poseshchajut_nash_mir_na_nlo">НЛО - это машины времени? Путешественники во времени посещают наш мир на НЛО?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/НЛО - это машины времени Путешественники во времени посещают наш мир на НЛО:s:1214091:e:847-->
+<!----><!--2026-03-16 07:17:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_1883_godu_v_arhangelskoj_gubernii_nashli_malchika_kotoryj_znal_slova_samolet__metro_i_radio">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dbc2e7ee3a98657bcfaa2e2346b8c447/" src="http://pic.rtbcdn.ru/video/2025-10-18/80/5e/805ed248184356f0793aa670cfe39c80.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_1883_godu_v_arhangelskoj_gubernii_nashli_malchika_kotoryj_znal_slova_samolet__metro_i_radio">В 1883 году в Архангельской губернии нашли мальчика, который знал слова «самолёт», «метро» и «радио»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/В 1883 году в Архангельской губернии нашли мальчика, который знал слова самолёт , метро и радио:s:1215112:e:910-->
+<!----><!--2026-03-16 11:28:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_skryvaet_pustynya_simpson_v_avstralii_legendy_o_provale_vo_vremeni_i_inoplanetnyh_tehnologiyah">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3a5c737f6628fd55ec2c727b0b3b6012/" src="http://pic.rtbcdn.ru/video/2024-11-30/9b/e7/9be7ad6a4d5d3d3bb7d4783918069fe5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_skryvaet_pustynya_simpson_v_avstralii_legendy_o_provale_vo_vremeni_i_inoplanetnyh_tehnologiyah">Что скрывает пустыня Симпсон в Австралии? Легенды о провале во времени и инопланетных технологиях</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Что скрывает пустыня Симпсон в Австралии Легенды о провале во времени и инопланетных технологиях:s:1216228:e:922-->
+<!----><!--2026-03-16 11:27:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/genij_iz_nashego_budushchego_leonardo_da_vinchi_byl_zastryavshim_v_proshlom_puteshestvennikom_vo_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6f50e2abc7a46fc6e5ae371f440dcd3d/" src="http://pic.rtbcdn.ru/video/2025-09-07/c5/68/c5684d6b29605918ba9011614e48389a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/genij_iz_nashego_budushchego_leonardo_da_vinchi_byl_zastryavshim_v_proshlom_puteshestvennikom_vo_vremeni">Гений из нашего Будущего. Леонардо да Винчи был застрявшим в прошлом путешественником во времени?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Гений из нашего Будущего. Леонардо да Винчи был застрявшим в прошлом путешественником во времени:s:1217366:e:931-->
+<!----><!--2026-03-16 11:28:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/eti_fotografii_eksperimentov_vatikana_po_peremeshcheniju_vo_vremeni_vyzyvajut_voprosy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/17fc698b83905840e4c0abde00d37471/" src="http://pic.rtbcdn.ru/video/2025-08-30/68/49/6849c0ddb2913425b1c7e2db9c13bbe6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/eti_fotografii_eksperimentov_vatikana_po_peremeshcheniju_vo_vremeni_vyzyvajut_voprosy">Эти фотографии экспериментов Ватикана по перемещению во времени вызывают вопросы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Эти фотографии экспериментов Ватикана по перемещению во времени вызывают вопросы:s:1218512:e:865-->
+<!----><!--2026-03-16 11:40:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/smartfon_v_1962_godu_pyat_svidetelstv_puteshestvij_vo_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9c6cad07775f732af3ca49b81d4ccfcc/" src="http://pic.rtbcdn.ru/video/2025-08-20/f8/21/f821ae9289aa706bb2f9a9a272750576.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/smartfon_v_1962_godu_pyat_svidetelstv_puteshestvij_vo_vremeni">Смартфон в 1962 году? Пять свидетельств путешествий во времени</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Смартфон в 1962 году Пять свидетельств путешествий во времени:s:1219565:e:777-->
+<!----><!--2026-03-16 11:27:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/simsony_predskazyvajut_budushchee_sozdateli_simpsonov_puteshestvenniki_vo_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9ae4956562bb74e4f697efab1b4f4284/" src="http://pic.rtbcdn.ru/video/2025-09-16/e6/fe/e6feeb3511e52cb0c79e6fd265b9ea9a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/simsony_predskazyvajut_budushchee_sozdateli_simpsonov_puteshestvenniki_vo_vremeni">Симсоны предсказывают будущее? Создатели Симпсонов путешественники во времени?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Симсоны предсказывают будущее Создатели Симпсонов путешественники во времени:s:1220489:e:853-->
+<!----><!--2026-03-16 11:29:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/smartfon_v_nachale_20_veka_tajna_puteshestvennicy_vo_vremeni_iz_filma_charli_chaplina">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/519f5635051a2de00c7c2119436501ad/" src="http://pic.rtbcdn.ru/video/2025-10-14/f2/ff/f2ffc9b28498326ecabc589f7763f5ec.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/smartfon_v_nachale_20_veka_tajna_puteshestvennicy_vo_vremeni_iz_filma_charli_chaplina">Смартфон в начале 20 века? Тайна Путешественницы Во Времени из Фильма Чарли Чаплина</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/Смартфон в начале 20 века Тайна Путешественницы Во Времени из Фильма Чарли Чаплина:s:1221524:e:865-->
+<!----><!--2026-03-16 11:27:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/derjim_v_rukah_gta_6_i_zalezaem_v_arhivy_vatikana_nashel_puteshestvennika_vo_vremeni_iz_2500_goda">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9905b8bd1d78f305b44ba7f19aa03982/" src="http://pic.rtbcdn.ru/video/2025-09-29/46/3f/463f49c14cad2db2962b28a4a3805bf6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/derjim_v_rukah_gta_6_i_zalezaem_v_arhivy_vatikana_nashel_puteshestvennika_vo_vremeni_iz_2500_goda">ДЕРЖИМ В РУКАХ GTA 6 и залезаем в Архивы Ватикана? Нашел ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ из 2500 года?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Тайны/ДЕРЖИМ В РУКАХ GTA 6 и залезаем в Архивы Ватикана Нашел ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ из 2500 года:s:1222576:e:906-->

@@ -51,7 +51,7 @@
     var converter = new showdown.Converter(), // to markdown
         html = converter.makeHtml(r); 
     document.getElementById(p.id).innerHTML = 
-  '<div class="inlbl">'+ html +'</div>';
+  '<div class="posts inlbl">'+ html +'</div>';
     return ' about';
   }
 
@@ -87,7 +87,7 @@
       }
     }
     document.getElementById(p.id).innerHTML = 
-  '<div id="msg'+p.i+'" class="inlbl '+ tr(p.root) +'">'+ html +'</div>';
+  '<div id="msg'+p.i+'" class="posts inlbl '+ tr(p.root) +'">'+ html +'</div>';
     document.getElementById(p.id).innerHTML += 
   '<div class="msgfooter mw_f nowrap scroll">'+
     '<table class="collapse"><tr>'+

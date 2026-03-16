@@ -9,7 +9,7 @@ b,i,em { color:#777; }
 b em { color:#3c677b; }
 h2 { color:#3c677b; }
 strong { font-weight:normal; }
-pre { background:#fafafa; color:#222; border-radius:2px; }
+pre { background:#fafafa; color:#222; border-radius:2px; line-height:1.1 !important; }
 input[type=text], select { background:#fff; }
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }
@@ -21,6 +21,7 @@ input[type=text], select { background:#fff; }
 .readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; }
 .readme ul li { padding:2px 0; }
 .readme a { color:#777; font-style:italic; }
+.posts { line-height:1.4em; }
 /* tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
@@ -35,7 +36,7 @@ input[type=text], select { background:#fff; }
 .bb {border-bottom:1px dotted #333;}
 .mb {padding-bottom:10px;}
 /* feed post */
-.yb,.interesnoe { margin:5px 0 0 0; line-height:1.4em; }
+.yb { margin:5px 0 0 0; }
 .yb a { color:#333; }
 .yb .preview { width:240px; border-radius:2px; margin:0 10px 5px 0; }
 .yb iframe.embed { border:0; border-radius:4px; width:100vw; height:30vw; }
@@ -46,12 +47,13 @@ input[type=text], select { background:#fff; }
 .yb .smaller3 { display:none; }
 .rss { min-height:150px; }
 .rss strong { font-weight:normal; }
-.kino_kino img,.kino_teatr img { margin:0px 10px 1px 0px !important; }
-.interesnoe,.razrabotka { margin:5px 10px; line-height:1.4em; }
 @media (max-width:800px){ .rss img { border-radius:2px; display:block; margin:0 0 10px 0; }}
 @media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
 /* rss news ria, eadaily */
 .rssn { margin:5px 0 5px; }
-.rssn a { color:#333; line-height:1.4em; }
+.rssn a { color:#333; }
 .rssn img { height:50px; width:auto; margin:0 5px 0 !important; }
 .rssn strong { font-weight:normal; }
+/* subj styles */
+.kino_kino img,.kino_teatr img { margin:0px 10px 1px 0px !important; }
+.interesnoe,.razrabotka,.igry { margin:0px 10px; }

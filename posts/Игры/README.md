@@ -175,3 +175,10 @@
     mednafen ~/Загрузки/roms/Contra.nes<!--n:Ретро-игры на ПК/Эмулятор консолей Mednafen:s:11221:e:489-->
 <!----><!--2025-09-20 22:21:30-->Заметки и впечатления от игр для ретро-консолей *90*-х 
 (*Dendy*, *Sega*, *SNES*) на эмуляторах для ПК.<!--n:Ретро-игры на ПК/about:s:11806:e:194-->
+<!----><!--2026-03-16 22:41:39-->## Эротические квесты
+Потрясающая серия эротических RPG-игр от разработчика *NLT Media*:
+
+* [Lust Epidemic](https://yandex.ru/search/?text=Lust+Epidemic+игра+скачать)
+* [Treasure of Nadia](https://yandex.ru/search/?text=Treasure+Of+Nadia+игра+скачать)
+* [The Genesis Order](https://yandex.ru/search/?text=The+Genesis+Order+игра+скачать)
+* [Symphony of the Serpent](https://yandex.ru/search/?text=Symphony+Serpent+игра+скачать)<!--n:Визуальные новеллы/Квесты (Эротические):s:12059:e:564-->

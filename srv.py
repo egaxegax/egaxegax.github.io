@@ -11,7 +11,7 @@ import urllib
 import sys
 
 def main(path='.', port='80'):
-    os.chdir(os.path.dirname(path))
+    if os.path.dirname(path): os.chdir(os.path.dirname(path))
     httpServer = ThreadingHTTPServer(('', int(port)), RangeRequestNoCacheHTTPRequestHandler)
     httpServer.serve_forever()
 
