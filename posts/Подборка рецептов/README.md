@@ -3936,3 +3936,26 @@ https://www.povareno k.ru/recipes/show/17 6909/
  <p class="titl"><a href="https://finecooking.ru/recipe/steyki-foreli-v-slivkah-na-skovorode">Стейки форели в сливках на сковороде</a></p></div>
 </div><!--n:finecooking.ru/Стейки форели в сливках на сковороде:s:833519:e:772-->
 <!----><!--2025-09-02 17:35:30-->Кулинарная книга семейных домашних блюд от *Татьяны* из *Витебска*.<!--n:finecooking.ru/about:s:834398:e:154-->
+<!----><!--2026-03-15 21:22:37-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183545/"><img src="https://www.povarenok.ru/data/cache/2026mar/16/32/3209439_71888-640x480.jpg"></a>Здесь я соединила сочные королевские креветки, - которые заранее маринуются в смеси оливкового масла, зиры и копченой паприки, а затем готовятся на гриле - с пикантной смесью хрустящей кукурузы
+, острой заправкой, ломтиками авокадо и болгарскими 
+перцами — яркие цвета, сочная хрустящая текстура и характерная форма делает их... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183545/">Салат с креветками и кукурузой</a></p></div>
+</div><!--n:Поваренок.РУ/Салат с креветками и кукурузой:s:834597:e:987-->
+<!----><!--2026-03-16 06:53:03-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183547/"><img src="https://www.povarenok.ru/data/cache/2026mar/15/31/3209285_24682-640x480.jpg"></a>Мы очень любим различные гамбургеры из Макдоналдса, но дома сами никогда не готовили, а зря. Домашние бургеры получаются еще вкуснее и ароматнее магазинных, поэтому попробовав приготовить их один раз, решили на достигнутом не останавливаться, а эксперементировать и наслаждаться этим процессом и вкусом и дальше. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183547/">Фишбургер</a></p></div>
+</div><!--n:Поваренок.РУ/Фишбургер:s:835689:e:925-->
+<!----><!--2026-03-16 00:02:51-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183546/"><img src="https://www.povarenok.ru/data/cache/2026mar/15/53/3209356_58271-640x480.jpg"></a>Ещё один салат из свеклы с карамелизированными грушами, фетой и фисташками. Яркий салат - сладкий, пикантный, сливочный и хрустящий одновременно. Идеально подходит для праздников! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183546/">Салат из свеклы и карамелизированной груши</a></p></div>
+</div><!--n:Поваренок.РУ/Салат из свеклы и карамелизированной груши:s:836681:e:740-->
+<!----><!--2026-03-17 11:19:58-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183548/"><img src="https://www.povarenok.ru/data/cache/2026mar/17/18/3209505_61618-640x480.jpg"></a>Очень простой рецепт. Этот хлеб имеет тонкую, хрустящую, но не жёсткую корочку, очень пушистый и воздушный. Совсем слабый вкус свеклы и красивый цвет мякиша. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183548/">Свекольный хлеб</a></p></div>
+</div><!--n:Поваренок.РУ/Свекольный хлеб:s:837549:e:647-->
+<!----><!--2026-03-17 21:46:20-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><a href="https://finecooking.ru/recipe/kofeynyy-liker-v-domashnih-usloviyah"><img src="https://finecooking.ru/images/recipe/kofeynyy-liker-v-domashnih-usloviyah/photo/960w.jpg"></a><p>Готовим изысканный домашний ликер с мягким кофейно-молочным вкусом. Благодаря простому проверенному рецепту с шагами и фото у вас обязательно получится отменный десертный напиток для дружеских посиделок.</p>
+ <p class="titl"><a href="https://finecooking.ru/recipe/kofeynyy-liker-v-domashnih-usloviyah">Кофейный ликер в домашних условиях</a></p></div>
+</div><!--n:finecooking.ru/Кофейный ликер в домашних условиях:s:838274:e:840-->

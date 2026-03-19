@@ -10,7 +10,8 @@ h2 { font-size:1rem; color:#9ac495; }
 div.about { border:1px solid #606060; }
 pre { background:#dedede; color:#222; border-radius:2px; line-height:1.1 !important; }
 input[type=text], select { background:#656565; color:#fff; }
-li::marker { color:green; }
+dd { margin:0px; }
+dt { margin:20px; }
 #root { background:#212121; }
 #header, .wrap { background:#323232; }
 #header svg g { fill:#dedede; stroke:#dedede; }

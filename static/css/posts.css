@@ -11,6 +11,8 @@ h2 { color:#3c677b; }
 strong { font-weight:normal; }
 pre { background:#fafafa; color:#222; border-radius:2px; line-height:1.1 !important; }
 input[type=text], select { background:#fff; }
+dd { margin:0px; }
+dt { margin:20px; }
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }
 #header svg g { fill:#777; stroke:#777; }

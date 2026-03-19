@@ -13760,3 +13760,113 @@
     <i class="smaller3">2026-03-16</i>
   </div>
 </div><!--n:Тайны/ДЕРЖИМ В РУКАХ GTA 6 и залезаем в Архивы Ватикана Нашел ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ из 2500 года:s:1222576:e:906-->
+<!----><!--2026-03-16 20:21:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_bloknuli_telegu_iran_sdelal_cenu_na_neft_velikoj_udar_po_ukraine_160326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/11317d75e099e9602cae7bbd72b1a872/" src="http://pic.rtbcdn.ru/video/2026-03-16/e2/13/e2139a9b390b081f6a1bf2aeee1c424f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_bloknuli_telegu_iran_sdelal_cenu_na_neft_velikoj_udar_po_ukraine_160326">Украинский фронт - блокнули Телегу. Иран сделал цену на нефть великой. Удар по Украине. 16.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - блокнули Телегу. Иран сделал цену на нефть великой. Удар по Украине. 16.03.26:s:1223685:e:922-->
+<!----><!--2026-03-17 14:42:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/strannoe_video_s_mujchinoj_pohojim_na_pogibshego_finansista_s_izvestnogo_ostrova">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d10a82eb20c9c8a45e98314ef0ecdc33/" src="http://pic.rtbcdn.ru/video/2026-03-17/6c/45/6c456b5d040134a9434e514817c76e41.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/strannoe_video_s_mujchinoj_pohojim_na_pogibshego_finansista_s_izvestnogo_ostrova">Странное видео с мужчиной похожим на погибшего финансиста с известного острова</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-17</i>
+  </div>
+</div><!--n:Тайны/Странное видео с мужчиной похожим на погибшего финансиста с известного острова:s:1224836:e:850-->
+<!----><!--2026-03-17 14:36:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/donald_tramp_vozmojno_i_est_puteshestvennik_vo_vremeni_soglasno_novoj_istoricheskoj_versii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e1dd98bb41b8771b5a1d30a4af3f6bcb/" src="http://pic.rtbcdn.ru/video/2026-03-17/8c/a0/8ca0d606a5b3c5adeb798a45e39b68da.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/donald_tramp_vozmojno_i_est_puteshestvennik_vo_vremeni_soglasno_novoj_istoricheskoj_versii">Дональд Трамп возможно и есть путешественник во времени согласно новой исторической версии?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-17</i>
+  </div>
+</div><!--n:Тайны/Дональд Трамп возможно и есть путешественник во времени согласно новой исторической версии:s:1225869:e:894-->
+<!----><!--2026-03-17 14:35:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/starye_risunki_i_fotografii_namekajut_chto_v_ssha_mogli_sushchestvovat_ogromnye_piramidy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/32c3748ea94c4a2480a8bb7c15864e3c/" src="http://pic.rtbcdn.ru/video/2026-03-17/fd/0f/fd0fc403f5b7973ddeab42cae971f500.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/starye_risunki_i_fotografii_namekajut_chto_v_ssha_mogli_sushchestvovat_ogromnye_piramidy">Старые рисунки и фотографии намекают что в США могли существовать огромные пирамиды</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-17</i>
+  </div>
+</div><!--n:Тайны/Старые рисунки и фотографии намекают что в США могли существовать огромные пирамиды:s:1226969:e:875-->
+<!----><!--2026-03-17 14:34:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kollajder_mojet_slujit_motorom_dlya_mashiny_vremeni_vatikana">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bf3e4cf172e251d17f3d72d08fd9518b/" src="http://pic.rtbcdn.ru/video/2026-03-17/78/ee/78eefbd409df06492e5765acd570b2e5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kollajder_mojet_slujit_motorom_dlya_mashiny_vremeni_vatikana">Коллайдер может служить «мотором» для Машины Времени Ватикана?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-17</i>
+  </div>
+</div><!--n:Тайны/Коллайдер может служить мотором для Машины Времени Ватикана:s:1228036:e:780-->
+<!----><!--2026-03-17 14:33:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/prostoj_paren_postroil_mashinu_vremeni_v_svoem_garaje_iz_podruchnogo_hlama_i_zagadochno_ischez">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/baacce6b34ca32013d4c97e5930e9261/" src="http://pic.rtbcdn.ru/video/2026-03-17/21/3d/213dc815a2fe4c3769fe3d1b4c487561.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/prostoj_paren_postroil_mashinu_vremeni_v_svoem_garaje_iz_podruchnogo_hlama_i_zagadochno_ischez">Простой парень построил машину времени в своем гараже из подручного хлама и загадочно исчез</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-17</i>
+  </div>
+</div><!--n:Тайны/Простой парень построил машину времени в своем гараже из подручного хлама и загадочно исчез:s:1228964:e:901-->
+<!----><!--2026-03-17 20:06:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_font_-_ataka_u_severska_v_britanii_zakonchilsya_benzin_na_styke_oblastej_vsu_170326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3d6df3d093718a32a0f97c4ef6017079/" src="http://pic.rtbcdn.ru/video/2026-03-17/67/59/67590f80d577ad46be44cf1ac982223d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_font_-_ataka_u_severska_v_britanii_zakonchilsya_benzin_na_styke_oblastej_vsu_170326">Украинский фонт - атака у Северска. В Британии закончился бензин. На стыке областей ВСУ. 17.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-17</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фонт - атака у Северска. В Британии закончился бензин. На стыке областей ВСУ. 17.03.26:s:1230071:e:932-->
+<!----><!--2026-03-18 12:52:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/dano_razreshenie_na_issledovanie_skrytyh_kamer_velikoj_piramidy_v_gize">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1d529728532c9c37c1e042eebab85ed7/" src="http://pic.rtbcdn.ru/video/2026-03-12/45/32/45326df159273ff07b3ac04244fd7d06.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/dano_razreshenie_na_issledovanie_skrytyh_kamer_velikoj_piramidy_v_gize">Дано разрешение на исследование скрытых камер Великой пирамиды в Гизе</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-18</i>
+  </div>
+</div><!--n:Тайны/Дано разрешение на исследование скрытых камер Великой пирамиды в Гизе:s:1231234:e:813-->
+<!----><!--2026-03-18 12:52:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_ssha_ischez_general_svyazannyj_s_programmami_izucheniya_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7b3e5371654736dc0b8ed64f0232f3cf/" src="http://pic.rtbcdn.ru/video/2026-03-14/81/ed/81ede244d23f008be68acfb66b0df4c3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_ssha_ischez_general_svyazannyj_s_programmami_izucheniya_nlo">В США исчез генерал связанный с программами изучения НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-18</i>
+  </div>
+</div><!--n:Тайны/В США исчез генерал связанный с программами изучения НЛО:s:1232213:e:770-->
+<!----><!--2026-03-18 12:51:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/byvshij_tehnik_vvs_ssha_zayavila_chto_uchastvovala_v_sekretnoj_missii_na_lune">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d3c452af630c9c5d3098aafb5ed592ee/" src="http://pic.rtbcdn.ru/video/2026-03-12/47/63/47638a60d4fe96947083d083005b02ef.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/byvshij_tehnik_vvs_ssha_zayavila_chto_uchastvovala_v_sekretnoj_missii_na_lune">Бывший техник ВВС США заявила что участвовала в секретной миссии на Луне</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-18</i>
+  </div>
+</div><!--n:Тайны/Бывший техник ВВС США заявила что участвовала в секретной миссии на Луне:s:1233124:e:831-->

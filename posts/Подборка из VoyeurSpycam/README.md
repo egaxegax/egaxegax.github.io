@@ -152,3 +152,14 @@
     <i class="smaller3">2026-02-20</i>
   </div>
 </div><!--n:Скрытая камера/Пришли в душевую помыться и попались на спрятанную камеру:s:9939:e:685-->
+<!----><!--2026-03-16 07:01:43-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2456-ryzhevataja-baba-popala-na-kameru-v-pljazhnoj-kabinke.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-03/1772532187_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/ryjevataya_baba_popala_na_kameru_v_plyajnoj_kabinke">Рыжеватая баба попала на камеру в пляжной кабинке</a></p>
+    <p><i class="smaller2">В кабинках</i></p>
+    <i class="smaller3">2026-03-16</i>
+  </div>
+</div><!--n:Скрытая камера/Рыжеватая баба попала на камеру в пляжной кабинке:s:10781:e:659-->

@@ -2407,6 +2407,876 @@ same result as if there were an infinite number of sign bits.</p></li>
 </ol>
 </section><!--n:Справочник по Python 3/Bitwise Operations:s:298994:e:4456-->
 <!----><!--2026-03-15 16:49:39-->Избранные разделы из документации по языку программирования *Python* с сайта [python.org](//python.org)<!--n:Справочник по Python 3/about:s:303529:e:195-->
+<!----><!--2026-03-19 00:01:29--><section id="bytes-and-bytearray-operations">
+<span id="bytes-methods"></span><h3>Bytes and Bytearray Operations<a class="headerlink" href="#bytes-and-bytearray-operations" title="Link to this heading">¶</a></h3>
+<p id="index-44">Both bytes and bytearray objects support the <a class="reference internal" href="#typesseq-common"><span class="std std-ref">common</span></a>
+sequence operations. They interoperate not just with operands of the same
+type, but with any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>. Due to this flexibility, they can be
+freely mixed in operations without causing errors. However, the return type
+of the result may depend on the order of operands.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The methods on bytes and bytearray objects don’t accept strings as their
+arguments, just as the methods on strings don’t accept bytes as their
+arguments.  For example, you have to write:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="n">a</span> <span class="o">=</span> <span class="s2">"abc"</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">a</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s2">"a"</span><span class="p">,</span> <span class="s2">"f"</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>and:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="n">a</span> <span class="o">=</span> <span class="sa">b</span><span class="s2">"abc"</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">a</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="sa">b</span><span class="s2">"a"</span><span class="p">,</span> <span class="sa">b</span><span class="s2">"f"</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<p>Some bytes and bytearray operations assume the use of ASCII compatible
+binary formats, and hence should be avoided when working with ar<span class="highlighted">bit</span>rary
+binary data. These restrictions are covered below.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Using these ASCII based operations to manipulate binary data that is not
+stored in an ASCII based format may lead to data corruption.</p>
+</div>
+<p>The following methods on bytes and bytearray objects can be used with
+ar<span class="highlighted">bit</span>rary binary data.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.count">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">count</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.count" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.count">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">count</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.count" title="Link to this definition">¶</a></dt>
+<dd><p>Return the number of non-overlapping occurrences of subsequence <em>sub</em> in
+the range [<em>start</em>, <em>end</em>].  Optional arguments <em>start</em> and <em>end</em> are
+interpreted as in slice notation.</p>
+<p>The subsequence to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a> or an
+integer in the range 0 to 255.</p>
+<p>If <em>sub</em> is empty, returns the number of empty slices between characters
+which is the length of the bytes object plus one.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Also accept an integer in the range 0 to 255 as the subsequence.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.removeprefix">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">removeprefix</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">prefix</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.removeprefix" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.removeprefix">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">removeprefix</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">prefix</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.removeprefix" title="Link to this definition">¶</a></dt>
+<dd><p>If the binary data starts with the <em>prefix</em> string, return
+<code class="docutils literal notranslate"><span class="pre">bytes[len(prefix):]</span></code>. Otherwise, return a copy of the original
+binary data:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'TestHook'</span><span class="o">.</span><span class="n">removeprefix</span><span class="p">(</span><span class="sa">b</span><span class="s1">'Test'</span><span class="p">)</span>
+<span class="go">b'Hook'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'BaseTestCase'</span><span class="o">.</span><span class="n">removeprefix</span><span class="p">(</span><span class="sa">b</span><span class="s1">'Test'</span><span class="p">)</span>
+<span class="go">b'BaseTestCase'</span>
+</pre></div>
+</div>
+<p>The <em>prefix</em> may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.9.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.removesuffix">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">removesuffix</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">suffix</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.removesuffix" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.removesuffix">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">removesuffix</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">suffix</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.removesuffix" title="Link to this definition">¶</a></dt>
+<dd><p>If the binary data ends with the <em>suffix</em> string and that <em>suffix</em> is
+not empty, return <code class="docutils literal notranslate"><span class="pre">bytes[:-len(suffix)]</span></code>.  Otherwise, return a copy of
+the original binary data:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'MiscTests'</span><span class="o">.</span><span class="n">removesuffix</span><span class="p">(</span><span class="sa">b</span><span class="s1">'Tests'</span><span class="p">)</span>
+<span class="go">b'Misc'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'TmpDirMixin'</span><span class="o">.</span><span class="n">removesuffix</span><span class="p">(</span><span class="sa">b</span><span class="s1">'Tests'</span><span class="p">)</span>
+<span class="go">b'TmpDirMixin'</span>
+</pre></div>
+</div>
+<p>The <em>suffix</em> may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.9.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.decode">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">decode</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">encoding</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'utf-8'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">errors</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'strict'</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.decode" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.decode">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">decode</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">encoding</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'utf-8'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">errors</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'strict'</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.decode" title="Link to this definition">¶</a></dt>
+<dd><p>Return the bytes decoded to a <a class="reference internal" href="#str" title="str"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a>.</p>
+<p><em>encoding</em> defaults to <code class="docutils literal notranslate"><span class="pre">'utf-8'</span></code>;
+see <a class="reference internal" href="codecs.html#standard-encodings"><span class="std std-ref">Standard Encodings</span></a> for possible values.</p>
+<p><em>errors</em> controls how decoding errors are handled.
+If <code class="docutils literal notranslate"><span class="pre">'strict'</span></code> (the default), a <a class="reference internal" href="exceptions.html#UnicodeError" title="UnicodeError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">UnicodeError</span></code></a> exception is raised.
+Other possible values are <code class="docutils literal notranslate"><span class="pre">'ignore'</span></code>, <code class="docutils literal notranslate"><span class="pre">'replace'</span></code>,
+and any other name registered via <a class="reference internal" href="codecs.html#codecs.register_error" title="codecs.register_error"><code class="xref py py-func docutils literal notranslate"><span class="pre">codecs.register_error()</span></code></a>.
+See <a class="reference internal" href="codecs.html#error-handlers"><span class="std std-ref">Error Handlers</span></a> for details.</p>
+<p>For performance reasons, the value of <em>errors</em> is not checked for validity
+unless a decoding error actually occurs,
+<a class="reference internal" href="devmode.html#devmode"><span class="std std-ref">Python Development Mode</span></a> is enabled or a <a class="reference internal" href="../using/configure.html#debug-build"><span class="std std-ref">debug build</span></a> is used.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Passing the <em>encoding</em> argument to <a class="reference internal" href="#str" title="str"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a> allows decoding any
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a> directly, without needing to make a temporary
+<code class="xref py py-class docutils literal notranslate"><span class="pre">bytes</span></code> or <code class="xref py py-class docutils literal notranslate"><span class="pre">bytearray</span></code> object.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.1: </span>Added support for keyword arguments.</p>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.9: </span>The value of the <em>errors</em> argument is now checked in <a class="reference internal" href="devmode.html#devmode"><span class="std std-ref">Python Development Mode</span></a> and
+in <a class="reference internal" href="../using/configure.html#debug-build"><span class="std std-ref">debug mode</span></a>.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.endswith">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">endswith</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">suffix</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.endswith" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.endswith">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">endswith</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">suffix</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.endswith" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if the binary data ends with the specified <em>suffix</em>,
+otherwise return <code class="docutils literal notranslate"><span class="pre">False</span></code>.  <em>suffix</em> can also be a tuple of suffixes to
+look for.  With optional <em>start</em>, test beginning at that position.  With
+optional <em>end</em>, stop comparing at that position.</p>
+<p>The suffix(es) to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.find">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">find</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.find" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.find">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">find</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.find" title="Link to this definition">¶</a></dt>
+<dd><p>Return the lowest index in the data where the subsequence <em>sub</em> is found,
+such that <em>sub</em> is contained in the slice <code class="docutils literal notranslate"><span class="pre">s[start:end]</span></code>.  Optional
+arguments <em>start</em> and <em>end</em> are interpreted as in slice notation.  Return
+<code class="docutils literal notranslate"><span class="pre">-1</span></code> if <em>sub</em> is not found.</p>
+<p>The subsequence to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a> or an
+integer in the range 0 to 255.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The <code class="xref py py-meth docutils literal notranslate"><span class="pre">find()</span></code> method should be used only if you need to know the
+position of <em>sub</em>.  To check if <em>sub</em> is a substring or not, use the
+<a class="reference internal" href="../reference/expressions.html#in"><code class="xref std std-keyword docutils literal notranslate"><span class="pre">in</span></code></a> operator:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Py'</span> <span class="ow">in</span> <span class="sa">b</span><span class="s1">'Python'</span>
+<span class="go">True</span>
+</pre></div>
+</div>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Also accept an integer in the range 0 to 255 as the subsequence.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.index">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.index" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.index">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.index" title="Link to this definition">¶</a></dt>
+<dd><p>Like <a class="reference internal" href="#bytes.find" title="bytes.find"><code class="xref py py-meth docutils literal notranslate"><span class="pre">find()</span></code></a>, but raise <a class="reference internal" href="exceptions.html#ValueError" title="ValueError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">ValueError</span></code></a> when the
+subsequence is not found.</p>
+<p>The subsequence to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a> or an
+integer in the range 0 to 255.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Also accept an integer in the range 0 to 255 as the subsequence.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.join">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">join</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">iterable</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.join" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.join">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">join</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">iterable</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.join" title="Link to this definition">¶</a></dt>
+<dd><p>Return a bytes or bytearray object which is the concatenation of the
+binary data sequences in <em>iterable</em>.  A <a class="reference internal" href="exceptions.html#TypeError" title="TypeError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">TypeError</span></code></a> will be raised
+if there are any values in <em>iterable</em> that are not <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like
+objects</span></a>, including <a class="reference internal" href="#str" title="str"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a> objects.  The
+separator between elements is the contents of the bytes or
+bytearray object providing this method.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.maketrans">
+<em class="property"><span class="k"><span class="pre">static</span></span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">maketrans</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">from</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">to</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">/</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.maketrans" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.maketrans">
+<em class="property"><span class="k"><span class="pre">static</span></span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">maketrans</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">from</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">to</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">/</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.maketrans" title="Link to this definition">¶</a></dt>
+<dd><p>This static method returns a translation table usable for
+<a class="reference internal" href="#bytes.translate" title="bytes.translate"><code class="xref py py-meth docutils literal notranslate"><span class="pre">bytes.translate()</span></code></a> that will map each character in <em>from</em> into the
+character at the same position in <em>to</em>; <em>from</em> and <em>to</em> must both be
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like objects</span></a> and have the same length.</p>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.1.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.partition">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">partition</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.partition" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.partition">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">partition</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.partition" title="Link to this definition">¶</a></dt>
+<dd><p>Split the sequence at the first occurrence of <em>sep</em>, and return a 3-tuple
+containing the part before the separator, the separator itself or its
+bytearray copy, and the part after the separator.
+If the separator is not found, return a 3-tuple
+containing a copy of the original sequence, followed by two empty bytes or
+bytearray objects.</p>
+<p>The separator to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.replace">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">replace</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">old</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">new</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">count</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">-1</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.replace" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.replace">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">replace</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">old</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">new</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">count</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">-1</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.replace" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with all occurrences of subsequence <em>old</em>
+replaced by <em>new</em>.  If the optional argument <em>count</em> is given, only the
+first <em>count</em> occurrences are replaced.</p>
+<p>The subsequence to search for and its replacement may be any
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.rfind">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">rfind</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.rfind" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.rfind">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">rfind</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.rfind" title="Link to this definition">¶</a></dt>
+<dd><p>Return the highest index in the sequence where the subsequence <em>sub</em> is
+found, such that <em>sub</em> is contained within <code class="docutils literal notranslate"><span class="pre">s[start:end]</span></code>.  Optional
+arguments <em>start</em> and <em>end</em> are interpreted as in slice notation. Return
+<code class="docutils literal notranslate"><span class="pre">-1</span></code> on failure.</p>
+<p>The subsequence to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a> or an
+integer in the range 0 to 255.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Also accept an integer in the range 0 to 255 as the subsequence.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.rindex">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">rindex</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.rindex" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.rindex">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">rindex</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sub</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.rindex" title="Link to this definition">¶</a></dt>
+<dd><p>Like <a class="reference internal" href="#bytes.rfind" title="bytes.rfind"><code class="xref py py-meth docutils literal notranslate"><span class="pre">rfind()</span></code></a> but raises <a class="reference internal" href="exceptions.html#ValueError" title="ValueError"><code class="xref py py-exc docutils literal notranslate"><span class="pre">ValueError</span></code></a> when the
+subsequence <em>sub</em> is not found.</p>
+<p>The subsequence to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a> or an
+integer in the range 0 to 255.</p>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.3: </span>Also accept an integer in the range 0 to 255 as the subsequence.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.rpartition">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">rpartition</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.rpartition" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.rpartition">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">rpartition</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.rpartition" title="Link to this definition">¶</a></dt>
+<dd><p>Split the sequence at the last occurrence of <em>sep</em>, and return a 3-tuple
+containing the part before the separator, the separator itself or its
+bytearray copy, and the part after the separator.
+If the separator is not found, return a 3-tuple
+containing two empty bytes or bytearray objects, followed by a copy of the
+original sequence.</p>
+<p>The separator to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.startswith">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">startswith</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">prefix</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.startswith" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.startswith">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">startswith</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">prefix</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">start</span></span></em><span class="optional">[</span>, <em class="sig-param"><span class="n"><span class="pre">end</span></span></em><span class="optional">]</span><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.startswith" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if the binary data starts with the specified <em>prefix</em>,
+otherwise return <code class="docutils literal notranslate"><span class="pre">False</span></code>.  <em>prefix</em> can also be a tuple of prefixes to
+look for.  With optional <em>start</em>, test beginning at that position.  With
+optional <em>end</em>, stop comparing at that position.</p>
+<p>The prefix(es) to search for may be any <a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.translate">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">translate</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">table</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em>, <em class="sig-param"><span class="n"><span class="pre">delete</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b''</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.translate" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.translate">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">translate</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">table</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em>, <em class="sig-param"><span class="n"><span class="pre">delete</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b''</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.translate" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the bytes or bytearray object where all bytes occurring in
+the optional argument <em>delete</em> are removed, and the remaining bytes have
+been mapped through the given translation table, which must be a bytes
+object of length 256.</p>
+<p>You can use the <a class="reference internal" href="#bytes.maketrans" title="bytes.maketrans"><code class="xref py py-func docutils literal notranslate"><span class="pre">bytes.maketrans()</span></code></a> method to create a translation
+table.</p>
+<p>Set the <em>table</em> argument to <code class="docutils literal notranslate"><span class="pre">None</span></code> for translations that only delete
+characters:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'read this short text'</span><span class="o">.</span><span class="n">translate</span><span class="p">(</span><span class="kc">None</span><span class="p">,</span> <span class="sa">b</span><span class="s1">'aeiou'</span><span class="p">)</span>
+<span class="go">b'rd ths shrt txt'</span>
+</pre></div>
+</div>
+<div class="versionchanged">
+<p><span class="versionmodified changed">Changed in version 3.6: </span><em>delete</em> is now supported as a keyword argument.</p>
+</div>
+</dd></dl>
+
+<p>The following methods on bytes and bytearray objects have default behaviours
+that assume the use of ASCII compatible binary formats, but can still be used
+with ar<span class="highlighted">bit</span>rary binary data by passing appropriate arguments. Note that all of
+the bytearray methods in this section do <em>not</em> operate in place, and instead
+produce new objects.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.center">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">center</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fillbyte</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b'</span> <span class="pre">'</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.center" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.center">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">center</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fillbyte</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b'</span> <span class="pre">'</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.center" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the object centered in a sequence of length <em>width</em>.
+Padding is done using the specified <em>fillbyte</em> (default is an ASCII
+space). For <a class="reference internal" href="#bytes" title="bytes"><code class="xref py py-class docutils literal notranslate"><span class="pre">bytes</span></code></a> objects, the original sequence is returned if
+<em>width</em> is less than or equal to <code class="docutils literal notranslate"><span class="pre">len(s)</span></code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.ljust">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">ljust</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fillbyte</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b'</span> <span class="pre">'</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.ljust" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.ljust">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">ljust</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fillbyte</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b'</span> <span class="pre">'</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.ljust" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the object left justified in a sequence of length <em>width</em>.
+Padding is done using the specified <em>fillbyte</em> (default is an ASCII
+space). For <a class="reference internal" href="#bytes" title="bytes"><code class="xref py py-class docutils literal notranslate"><span class="pre">bytes</span></code></a> objects, the original sequence is returned if
+<em>width</em> is less than or equal to <code class="docutils literal notranslate"><span class="pre">len(s)</span></code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.lstrip">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">lstrip</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">bytes</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.lstrip" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.lstrip">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">lstrip</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">bytes</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.lstrip" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with specified leading bytes removed.  The
+<em>bytes</em> argument is a binary sequence specifying the set of byte values to
+be removed.  If omitted or <code class="docutils literal notranslate"><span class="pre">None</span></code>, the <em>bytes</em> argument defaults
+to removing ASCII whitespace.  The <em>bytes</em> argument is not a prefix;
+rather, all combinations of its values are stripped:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'   spacious   '</span><span class="o">.</span><span class="n">lstrip</span><span class="p">()</span>
+<span class="go">b'spacious   '</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'www.example.com'</span><span class="o">.</span><span class="n">lstrip</span><span class="p">(</span><span class="sa">b</span><span class="s1">'cmowz.'</span><span class="p">)</span>
+<span class="go">b'example.com'</span>
+</pre></div>
+</div>
+<p>The binary sequence of byte values to remove may be any
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>. See <a class="reference internal" href="#bytes.removeprefix" title="bytes.removeprefix"><code class="xref py py-meth docutils literal notranslate"><span class="pre">removeprefix()</span></code></a> for a method
+that will remove a single prefix string rather than all of a set of
+characters.  For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Arthur: three!'</span><span class="o">.</span><span class="n">lstrip</span><span class="p">(</span><span class="sa">b</span><span class="s1">'Arthur: '</span><span class="p">)</span>
+<span class="go">b'ee!'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Arthur: three!'</span><span class="o">.</span><span class="n">removeprefix</span><span class="p">(</span><span class="sa">b</span><span class="s1">'Arthur: '</span><span class="p">)</span>
+<span class="go">b'three!'</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.rjust">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">rjust</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fillbyte</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b'</span> <span class="pre">'</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.rjust" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.rjust">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">rjust</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">fillbyte</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">b'</span> <span class="pre">'</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.rjust" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the object right justified in a sequence of length <em>width</em>.
+Padding is done using the specified <em>fillbyte</em> (default is an ASCII
+space). For <a class="reference internal" href="#bytes" title="bytes"><code class="xref py py-class docutils literal notranslate"><span class="pre">bytes</span></code></a> objects, the original sequence is returned if
+<em>width</em> is less than or equal to <code class="docutils literal notranslate"><span class="pre">len(s)</span></code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.rsplit">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">rsplit</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">maxsplit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">-1</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.rsplit" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.rsplit">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">rsplit</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">maxsplit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">-1</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.rsplit" title="Link to this definition">¶</a></dt>
+<dd><p>Split the binary sequence into subsequences of the same type, using <em>sep</em>
+as the delimiter string. If <em>maxsplit</em> is given, at most <em>maxsplit</em> splits
+are done, the <em>rightmost</em> ones.  If <em>sep</em> is not specified or <code class="docutils literal notranslate"><span class="pre">None</span></code>,
+any subsequence consisting solely of ASCII whitespace is a separator.
+Except for splitting from the right, <code class="xref py py-meth docutils literal notranslate"><span class="pre">rsplit()</span></code> behaves like
+<a class="reference internal" href="#bytearray.split" title="bytearray.split"><code class="xref py py-meth docutils literal notranslate"><span class="pre">split()</span></code></a> which is described in detail below.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.rstrip">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">rstrip</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">bytes</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.rstrip" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.rstrip">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">rstrip</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">bytes</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.rstrip" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with specified trailing bytes removed.  The
+<em>bytes</em> argument is a binary sequence specifying the set of byte values to
+be removed.  If omitted or <code class="docutils literal notranslate"><span class="pre">None</span></code>, the <em>bytes</em> argument defaults to
+removing ASCII whitespace.  The <em>bytes</em> argument is not a suffix; rather,
+all combinations of its values are stripped:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'   spacious   '</span><span class="o">.</span><span class="n">rstrip</span><span class="p">()</span>
+<span class="go">b'   spacious'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'mississippi'</span><span class="o">.</span><span class="n">rstrip</span><span class="p">(</span><span class="sa">b</span><span class="s1">'ipz'</span><span class="p">)</span>
+<span class="go">b'mississ'</span>
+</pre></div>
+</div>
+<p>The binary sequence of byte values to remove may be any
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>. See <a class="reference internal" href="#bytes.removesuffix" title="bytes.removesuffix"><code class="xref py py-meth docutils literal notranslate"><span class="pre">removesuffix()</span></code></a> for a method
+that will remove a single suffix string rather than all of a set of
+characters.  For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Monty Python'</span><span class="o">.</span><span class="n">rstrip</span><span class="p">(</span><span class="sa">b</span><span class="s1">' Python'</span><span class="p">)</span>
+<span class="go">b'M'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Monty Python'</span><span class="o">.</span><span class="n">removesuffix</span><span class="p">(</span><span class="sa">b</span><span class="s1">' Python'</span><span class="p">)</span>
+<span class="go">b'Monty'</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.split">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">split</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">maxsplit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">-1</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.split" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.split">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">split</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sep</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">maxsplit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">-1</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.split" title="Link to this definition">¶</a></dt>
+<dd><p>Split the binary sequence into subsequences of the same type, using <em>sep</em>
+as the delimiter string. If <em>maxsplit</em> is given and non-negative, at most
+<em>maxsplit</em> splits are done (thus, the list will have at most <code class="docutils literal notranslate"><span class="pre">maxsplit+1</span></code>
+elements).  If <em>maxsplit</em> is not specified or is <code class="docutils literal notranslate"><span class="pre">-1</span></code>, then there is no
+limit on the number of splits (all possible splits are made).</p>
+<p>If <em>sep</em> is given, consecutive delimiters are not grouped together and are
+deemed to delimit empty subsequences (for example, <code class="docutils literal notranslate"><span class="pre">b'1,,2'.split(b',')</span></code>
+returns <code class="docutils literal notranslate"><span class="pre">[b'1',</span> <span class="pre">b'',</span> <span class="pre">b'2']</span></code>).  The <em>sep</em> argument may consist of a
+multibyte sequence as a single delimiter. Splitting an empty sequence with
+a specified separator returns <code class="docutils literal notranslate"><span class="pre">[b'']</span></code> or <code class="docutils literal notranslate"><span class="pre">[bytearray(b'')]</span></code> depending
+on the type of object being split.  The <em>sep</em> argument may be any
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1,2,3'</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="sa">b</span><span class="s1">','</span><span class="p">)</span>
+<span class="go">[b'1', b'2', b'3']</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1,2,3'</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="sa">b</span><span class="s1">','</span><span class="p">,</span> <span class="n">maxsplit</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="go">[b'1', b'2,3']</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1,2,,3,'</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="sa">b</span><span class="s1">','</span><span class="p">)</span>
+<span class="go">[b'1', b'2', b'', b'3', b'']</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1&lt;&gt;2&lt;&gt;3&lt;4'</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="sa">b</span><span class="s1">'&lt;&gt;'</span><span class="p">)</span>
+<span class="go">[b'1', b'2', b'3&lt;4']</span>
+</pre></div>
+</div>
+<p>If <em>sep</em> is not specified or is <code class="docutils literal notranslate"><span class="pre">None</span></code>, a different splitting algorithm
+is applied: runs of consecutive ASCII whitespace are regarded as a single
+separator, and the result will contain no empty strings at the start or
+end if the sequence has leading or trailing whitespace.  Consequently,
+splitting an empty sequence or a sequence consisting solely of ASCII
+whitespace without a specified separator returns <code class="docutils literal notranslate"><span class="pre">[]</span></code>.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1 2 3'</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
+<span class="go">[b'1', b'2', b'3']</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1 2 3'</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="n">maxsplit</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="go">[b'1', b'2 3']</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'   1   2   3   '</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
+<span class="go">[b'1', b'2', b'3']</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.strip">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">strip</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">bytes</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.strip" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.strip">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">strip</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">bytes</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.strip" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with specified leading and trailing bytes
+removed. The <em>bytes</em> argument is a binary sequence specifying the set of
+byte values to be removed.  If omitted or <code class="docutils literal notranslate"><span class="pre">None</span></code>, the <em>bytes</em>
+argument defaults to removing ASCII whitespace. The <em>bytes</em> argument is
+not a prefix or suffix; rather, all combinations of its values are
+stripped:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'   spacious   '</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+<span class="go">b'spacious'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'www.example.com'</span><span class="o">.</span><span class="n">strip</span><span class="p">(</span><span class="sa">b</span><span class="s1">'cmowz.'</span><span class="p">)</span>
+<span class="go">b'example'</span>
+</pre></div>
+</div>
+<p>The binary sequence of byte values to remove may be any
+<a class="reference internal" href="../glossary.html#term-bytes-like-object"><span class="xref std std-term">bytes-like object</span></a>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place -
+it always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<p>The following methods on bytes and bytearray objects assume the use of ASCII
+compatible binary formats and should not be applied to ar<span class="highlighted">bit</span>rary binary data.
+Note that all of the bytearray methods in this section do <em>not</em> operate in
+place, and instead produce new objects.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.capitalize">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">capitalize</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.capitalize" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.capitalize">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">capitalize</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.capitalize" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with each byte interpreted as an ASCII
+character, and the first byte capitalized and the rest lowercased.
+Non-ASCII byte values are passed through unchanged.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.expandtabs">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">expandtabs</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">tabsize</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">8</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.expandtabs" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.expandtabs">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">expandtabs</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">tabsize</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">8</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.expandtabs" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence where all ASCII tab characters are replaced
+by one or more ASCII spaces, depending on the current column and the given
+tab size.  Tab positions occur every <em>tabsize</em> bytes (default is 8,
+giving tab positions at columns 0, 8, 16 and so on).  To expand the
+sequence, the current column is set to zero and the sequence is examined
+byte by byte.  If the byte is an ASCII tab character (<code class="docutils literal notranslate"><span class="pre">b'\t'</span></code>), one or
+more space characters are inserted in the result until the current column
+is equal to the next tab position. (The tab character itself is not
+copied.)  If the current byte is an ASCII newline (<code class="docutils literal notranslate"><span class="pre">b'\n'</span></code>) or
+carriage return (<code class="docutils literal notranslate"><span class="pre">b'\r'</span></code>), it is copied and the current column is reset
+to zero.  Any other byte value is copied unchanged and the current column
+is incremented by one regardless of how the byte value is represented when
+printed:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'01</span><span class="se">\t</span><span class="s1">012</span><span class="se">\t</span><span class="s1">0123</span><span class="se">\t</span><span class="s1">01234'</span><span class="o">.</span><span class="n">expandtabs</span><span class="p">()</span>
+<span class="go">b'01      012     0123    01234'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'01</span><span class="se">\t</span><span class="s1">012</span><span class="se">\t</span><span class="s1">0123</span><span class="se">\t</span><span class="s1">01234'</span><span class="o">.</span><span class="n">expandtabs</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span>
+<span class="go">b'01  012 0123    01234'</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.isalnum">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">isalnum</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.isalnum" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.isalnum">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">isalnum</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.isalnum" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if all bytes in the sequence are alphabetical ASCII characters
+or ASCII decimal digits and the sequence is not empty, <code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise.
+Alphabetic ASCII characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>. ASCII decimal
+digits are those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'0123456789'</span></code>.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'ABCabc1'</span><span class="o">.</span><span class="n">isalnum</span><span class="p">()</span>
+<span class="go">True</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'ABC abc1'</span><span class="o">.</span><span class="n">isalnum</span><span class="p">()</span>
+<span class="go">False</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.isalpha">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">isalpha</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.isalpha" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.isalpha">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">isalpha</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.isalpha" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if all bytes in the sequence are alphabetic ASCII characters
+and the sequence is not empty, <code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise.  Alphabetic ASCII
+characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'ABCabc'</span><span class="o">.</span><span class="n">isalpha</span><span class="p">()</span>
+<span class="go">True</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'ABCabc1'</span><span class="o">.</span><span class="n">isalpha</span><span class="p">()</span>
+<span class="go">False</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.isascii">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">isascii</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.isascii" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.isascii">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">isascii</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.isascii" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if the sequence is empty or all bytes in the sequence are ASCII,
+<code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise.
+ASCII bytes are in the range 0-0x7F.</p>
+<div class="versionadded">
+<p><span class="versionmodified added">Added in version 3.7.</span></p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.isdigit">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">isdigit</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.isdigit" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.isdigit">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">isdigit</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.isdigit" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if all bytes in the sequence are ASCII decimal digits
+and the sequence is not empty, <code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise. ASCII decimal digits are
+those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'0123456789'</span></code>.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1234'</span><span class="o">.</span><span class="n">isdigit</span><span class="p">()</span>
+<span class="go">True</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'1.23'</span><span class="o">.</span><span class="n">isdigit</span><span class="p">()</span>
+<span class="go">False</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.islower">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">islower</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.islower" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.islower">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">islower</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.islower" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if there is at least one lowercase ASCII character
+in the sequence and no uppercase ASCII characters, <code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'hello world'</span><span class="o">.</span><span class="n">islower</span><span class="p">()</span>
+<span class="go">True</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello world'</span><span class="o">.</span><span class="n">islower</span><span class="p">()</span>
+<span class="go">False</span>
+</pre></div>
+</div>
+<p>Lowercase ASCII characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyz'</span></code>. Uppercase ASCII characters
+are those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.isspace">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">isspace</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.isspace" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.isspace">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">isspace</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.isspace" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if all bytes in the sequence are ASCII whitespace and the
+sequence is not empty, <code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise.  ASCII whitespace characters are
+those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'</span> <span class="pre">\t\n\r\x0b\f'</span></code> (space, tab, newline,
+carriage return, vertical tab, form feed).</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.istitle">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">istitle</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.istitle" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.istitle">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">istitle</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.istitle" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if the sequence is ASCII titlecase and the sequence is not
+empty, <code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise. See <a class="reference internal" href="#bytes.title" title="bytes.title"><code class="xref py py-meth docutils literal notranslate"><span class="pre">bytes.title()</span></code></a> for more details on the
+definition of “titlecase”.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello World'</span><span class="o">.</span><span class="n">istitle</span><span class="p">()</span>
+<span class="go">True</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello world'</span><span class="o">.</span><span class="n">istitle</span><span class="p">()</span>
+<span class="go">False</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.isupper">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">isupper</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.isupper" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.isupper">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">isupper</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.isupper" title="Link to this definition">¶</a></dt>
+<dd><p>Return <code class="docutils literal notranslate"><span class="pre">True</span></code> if there is at least one uppercase alphabetic ASCII character
+in the sequence and no lowercase ASCII characters, <code class="docutils literal notranslate"><span class="pre">False</span></code> otherwise.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'HELLO WORLD'</span><span class="o">.</span><span class="n">isupper</span><span class="p">()</span>
+<span class="go">True</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello world'</span><span class="o">.</span><span class="n">isupper</span><span class="p">()</span>
+<span class="go">False</span>
+</pre></div>
+</div>
+<p>Lowercase ASCII characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyz'</span></code>. Uppercase ASCII characters
+are those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.lower">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">lower</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.lower" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.lower">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">lower</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.lower" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with all the uppercase ASCII characters
+converted to their corresponding lowercase counterpart.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello World'</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+<span class="go">b'hello world'</span>
+</pre></div>
+</div>
+<p>Lowercase ASCII characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyz'</span></code>. Uppercase ASCII characters
+are those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method" id="index-45">
+<dt class="sig sig-object py" id="bytes.splitlines">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">splitlines</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">keepends</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.splitlines" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.splitlines">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">splitlines</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">keepends</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.splitlines" title="Link to this definition">¶</a></dt>
+<dd><p>Return a list of the lines in the binary sequence, breaking at ASCII
+line boundaries. This method uses the <a class="reference internal" href="../glossary.html#term-universal-newlines"><span class="xref std std-term">universal newlines</span></a> approach
+to splitting lines. Line breaks are not included in the resulting list
+unless <em>keepends</em> is given and true.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'ab c</span><span class="se">\n\n</span><span class="s1">de fg</span><span class="se">\r</span><span class="s1">kl</span><span class="se">\r\n</span><span class="s1">'</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+<span class="go">[b'ab c', b'', b'de fg', b'kl']</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'ab c</span><span class="se">\n\n</span><span class="s1">de fg</span><span class="se">\r</span><span class="s1">kl</span><span class="se">\r\n</span><span class="s1">'</span><span class="o">.</span><span class="n">splitlines</span><span class="p">(</span><span class="n">keepends</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="go">[b'ab c\n', b'\n', b'de fg\r', b'kl\r\n']</span>
+</pre></div>
+</div>
+<p>Unlike <a class="reference internal" href="#bytes.split" title="bytes.split"><code class="xref py py-meth docutils literal notranslate"><span class="pre">split()</span></code></a> when a delimiter string <em>sep</em> is given, this
+method returns an empty list for the empty string, and a terminal line
+break does not result in an extra line:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s2">""</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="sa">b</span><span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">),</span> <span class="sa">b</span><span class="s2">"Two lines</span><span class="se">\n</span><span class="s2">"</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="sa">b</span><span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="go">([b''], [b'Two lines', b''])</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s2">""</span><span class="o">.</span><span class="n">splitlines</span><span class="p">(),</span> <span class="sa">b</span><span class="s2">"One line</span><span class="se">\n</span><span class="s2">"</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+<span class="go">([], [b'One line'])</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.swapcase">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">swapcase</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.swapcase" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.swapcase">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">swapcase</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.swapcase" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with all the lowercase ASCII characters
+converted to their corresponding uppercase counterpart and vice-versa.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello World'</span><span class="o">.</span><span class="n">swapcase</span><span class="p">()</span>
+<span class="go">b'hELLO wORLD'</span>
+</pre></div>
+</div>
+<p>Lowercase ASCII characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyz'</span></code>. Uppercase ASCII characters
+are those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>.</p>
+<p>Unlike <a class="reference internal" href="#str.swapcase" title="str.swapcase"><code class="xref py py-func docutils literal notranslate"><span class="pre">str.swapcase()</span></code></a>, it is always the case that
+<code class="docutils literal notranslate"><span class="pre">bin.swapcase().swapcase()</span> <span class="pre">==</span> <span class="pre">bin</span></code> for the binary versions. Case
+conversions are symmetrical in ASCII, even though that is not generally
+true for ar<span class="highlighted">bit</span>rary Unicode code points.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.title">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">title</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.title" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.title">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">title</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.title" title="Link to this definition">¶</a></dt>
+<dd><p>Return a titlecased version of the binary sequence where words start with
+an uppercase ASCII character and the remaining characters are lowercase.
+Uncased byte values are left unmodified.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello world'</span><span class="o">.</span><span class="n">title</span><span class="p">()</span>
+<span class="go">b'Hello World'</span>
+</pre></div>
+</div>
+<p>Lowercase ASCII characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyz'</span></code>. Uppercase ASCII characters
+are those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>.
+All other byte values are uncased.</p>
+<p>The algorithm uses a simple language-independent definition of a word as
+groups of consecutive letters.  The definition works in many contexts but
+it means that apostrophes in contractions and possessives form word
+boundaries, which may not be the desired result:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s2">"they're bill's friends from the UK"</span><span class="o">.</span><span class="n">title</span><span class="p">()</span>
+<span class="go">b"They'Re Bill'S Friends From The Uk"</span>
+</pre></div>
+</div>
+<p>A workaround for apostrophes can be constructed using regular expressions:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="k">def</span><span class="w"> </span><span class="nf">titlecase</span><span class="p">(</span><span class="n">s</span><span class="p">):</span>
+<span class="gp">... </span>    <span class="k">return</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">rb</span><span class="s2">"[A-Za-z]+('[A-Za-z]+)?"</span><span class="p">,</span>
+<span class="gp">... </span>                  <span class="k">lambda</span> <span class="n">mo</span><span class="p">:</span> <span class="n">mo</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">0</span><span class="p">)[</span><span class="mi">0</span><span class="p">:</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">upper</span><span class="p">()</span> <span class="o">+</span>
+<span class="gp">... </span>                             <span class="n">mo</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">0</span><span class="p">)[</span><span class="mi">1</span><span class="p">:]</span><span class="o">.</span><span class="n">lower</span><span class="p">(),</span>
+<span class="gp">... </span>                  <span class="n">s</span><span class="p">)</span>
+<span class="gp">...</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">titlecase</span><span class="p">(</span><span class="sa">b</span><span class="s2">"they're bill's friends."</span><span class="p">)</span>
+<span class="go">b"They're Bill's Friends."</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.upper">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">upper</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytes.upper" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.upper">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">upper</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.upper" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence with all the lowercase ASCII characters
+converted to their corresponding uppercase counterpart.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s1">'Hello World'</span><span class="o">.</span><span class="n">upper</span><span class="p">()</span>
+<span class="go">b'HELLO WORLD'</span>
+</pre></div>
+</div>
+<p>Lowercase ASCII characters are those byte values in the sequence
+<code class="docutils literal notranslate"><span class="pre">b'abcdefghijklmnopqrstuvwxyz'</span></code>. Uppercase ASCII characters
+are those byte values in the sequence <code class="docutils literal notranslate"><span class="pre">b'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="bytes.zfill">
+<span class="sig-prename descclassname"><span class="pre">bytes.</span></span><span class="sig-name descname"><span class="pre">zfill</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytes.zfill" title="Link to this definition">¶</a></dt>
+<dt class="sig sig-object py" id="bytearray.zfill">
+<span class="sig-prename descclassname"><span class="pre">bytearray.</span></span><span class="sig-name descname"><span class="pre">zfill</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">width</span></span></em>, <em class="sig-param"><span class="positional-only-separator o"><abbr title="Positional-only parameter separator (PEP 570)"><span class="pre">/</span></abbr></span></em><span class="sig-paren">)</span><a class="headerlink" href="#bytearray.zfill" title="Link to this definition">¶</a></dt>
+<dd><p>Return a copy of the sequence left filled with ASCII <code class="docutils literal notranslate"><span class="pre">b'0'</span></code> digits to
+make a sequence of length <em>width</em>. A leading sign prefix (<code class="docutils literal notranslate"><span class="pre">b'+'</span></code>/
+<code class="docutils literal notranslate"><span class="pre">b'-'</span></code>) is handled by inserting the padding <em>after</em> the sign character
+rather than before. For <a class="reference internal" href="#bytes" title="bytes"><code class="xref py py-class docutils literal notranslate"><span class="pre">bytes</span></code></a> objects, the original sequence is
+returned if <em>width</em> is less than or equal to <code class="docutils literal notranslate"><span class="pre">len(seq)</span></code>.</p>
+<p>For example:</p>
+<div class="highlight-python3 notranslate"><div class="highlight" style="position: relative;"><button class="copybutton" type="button" title="Copy to clipboard">Copy</button><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s2">"42"</span><span class="o">.</span><span class="n">zfill</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+<span class="go">b'00042'</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="sa">b</span><span class="s2">"-42"</span><span class="o">.</span><span class="n">zfill</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+<span class="go">b'-0042'</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The bytearray version of this method does <em>not</em> operate in place - it
+always produces a new object, even if no changes were made.</p>
+</div>
+</dd></dl>
+
+</section><!--n:Справочник по Python 3/Bytes Operations:s:303789:e:107869-->
 <!----><!--2023-01-22 00:12:44-->
 ## Замена HDD на SSD на ноутбуке
 На днях заменил в своем ноутбуке *Lenovo Z50-70* жесткий диск *Seagate HDD 1Тб* на *WD SSD 1Тб*.
@@ -2415,7 +3285,7 @@ same result as if there were an infinite number of sign bits.</p></li>
 оставлю в его системе. 
 
 <img src="./hdd_ssd.jpg" alt="" title="Старый диск">
-<img src="./hdd_ssd_1.jpg" alt="" title="Новый диск"><!--n:Руководства/Замена HDD на SSD на ноутбуке:s:303789:e:762-->
+<img src="./hdd_ssd_1.jpg" alt="" title="Новый диск"><!--n:Руководства/Замена HDD на SSD на ноутбуке:s:411737:e:762-->
 <!----><!--2013-04-03 17:11:42-->
 ## Как скачивать торренты
 Вот несколько картинок с пояснениями как скачивать торренты.
@@ -2434,7 +3304,7 @@ same result as if there were an infinite number of sign bits.</p></li>
 
 ![Скриншот torrentino.ru](http://img-fotki.yandex.ru/get/6423/136640652.0/0_853f1_97a415ee_L "torrentino.ru")
 
-![Скриншот c rutor.org](http://img-fotki.yandex.ru/get/6623/136640652.0/0_853f9_6b52c6da_L "rutor.org")<!--n:Руководства/Как скачивать торренты:s:304646:e:1056-->
+![Скриншот c rutor.org](http://img-fotki.yandex.ru/get/6623/136640652.0/0_853f9_6b52c6da_L "rutor.org")<!--n:Руководства/Как скачивать торренты:s:412594:e:1056-->
 <!----><!--2011-06-14 12:07:03-->
 ## О сайте и контакты
 <table border="0" width="100%" style="display:block; overflow: auto"><tr>
@@ -2458,7 +3328,7 @@ same result as if there were an infinite number of sign bits.</p></li>
     <i><a> Теодор Рузвельт </a></i>
   </td>
 </tr>
-</table><!--n:Руководства/Контакты:s:305793:e:1443-->
+</table><!--n:Руководства/Контакты:s:413741:e:1443-->
 <!----><!--2012-04-03 17:12:09-->
 ## Markdown: Syntax
 
@@ -3339,7 +4209,7 @@ Markdown provides backslash escapes for the following characters:
 	+	plus sign
 	-	minus sign (hyphen)
     .   dot
-    !   exclamation mark<!--n:Руководства/Описание разметки Markdown:s:307301:e:27159-->
+    !   exclamation mark<!--n:Руководства/Описание разметки Markdown:s:415249:e:27159-->
 <!----><!--2019-02-03 20:55:26-->
 ## Восстановление системы охлаждения ноутбука HP G62-11ER
 Заметил что купленный недавно б/у ноутбук стал выключаться после *20*-*30* минут работы. 
@@ -3360,8 +4230,8 @@ Markdown provides backslash escapes for the following characters:
 
 На картинке процесс установки *WOT*.
 
-![Скриншот с WOT](https://habrastorage.org/webt/a3/ra/4_/a3ra4_kztvcu1omfveuzzvz6dho.jpeg "WOT.jpeg")<!--n:Руководства/Восстановление системы охлаждения ноутбука HP G62-11ER:s:334552:e:2264-->
-<!----><!--2025-09-20 22:21:30-->Здесь размещаются *руководства* по пользованию сайтом и разные *описания*.<!--n:Руководства/about:s:336958:e:168-->
+![Скриншот с WOT](https://habrastorage.org/webt/a3/ra/4_/a3ra4_kztvcu1omfveuzzvz6dho.jpeg "WOT.jpeg")<!--n:Руководства/Восстановление системы охлаждения ноутбука HP G62-11ER:s:442500:e:2264-->
+<!----><!--2025-09-20 22:21:30-->Здесь размещаются *руководства* по пользованию сайтом и разные *описания*.<!--n:Руководства/about:s:444906:e:168-->
 <!----><!--2022-06-05 22:50:07-->
 ## Инструкция пользования сайтом
 Сайт [egaxegax.github.io](https://egaxegax.github.io) можно запустить 
@@ -3404,14 +4274,14 @@ Markdown provides backslash escapes for the following characters:
 
         python ../update.py
 
-* Обновить страницу в браузере.<!--n:Руководства/Инструкция пользования сайтом:s:337179:e:2175-->
+* Обновить страницу в браузере.<!--n:Руководства/Инструкция пользования сайтом:s:445127:e:2175-->
 <!----><!--2022-07-20 00:40:00-->
 ## Зверобой
 Многолетнее растение с жёлтыми цветками.
 Экстракт и Используется как антидепрессант, успокоительное средство.
 
 <img src="./zveroboy.jpeg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Красная травица***, ***Зелье светоянское***.<!--n:Полезные травы/Зверобой:s:339459:e:426-->
+Названия &emsp; ***Красная травица***, ***Зелье светоянское***.<!--n:Полезные травы/Зверобой:s:447407:e:426-->
 <!----><!--2022-07-04 00:45:00-->
 ## Пижма
 Многолетнее растение семейства астровых, распространенное в средней полосе России,
@@ -3419,42 +4289,42 @@ Markdown provides backslash escapes for the following characters:
 Используется как лекарственное и пряно-ароматическое средство.
 
 <img src="./pizhma.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Полевая рябинка***, ***Девятильник***.<!--n:Полезные травы/Пижма:s:339954:e:570-->
+Названия &emsp; ***Полевая рябинка***, ***Девятильник***.<!--n:Полезные травы/Пижма:s:447902:e:570-->
 <!----><!--2022-05-03 22:18:00-->
 ## Багульник
 Ядовитый кустарник с розово-фиолетовыми цветками . 
 Багульниковое масло применяют при изготовлении мыла.
 
 <img src="./bagulnik.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Дикий розмарин***, ***Багун***, ***Болотник***.<!--n:Полезные травы/Багульник:s:340587:e:415-->
+Названия &emsp; ***Дикий розмарин***, ***Багун***, ***Болотник***.<!--n:Полезные травы/Багульник:s:448535:e:415-->
 <!----><!--2022-04-30 14:25:00-->
 ## Шалфей
 Многолетнее лекарственное и медоносное растение. Растет в Европе, на юге России.
 
 <img src="./shalvey.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Сальвия***, ***Золотая травка***.<!--n:Полезные травы/Шалфей:s:341073:e:342-->
+Названия &emsp; ***Сальвия***, ***Золотая травка***.<!--n:Полезные травы/Шалфей:s:449021:e:342-->
 <!----><!--2022-05-29 12:25:00-->
 ## Ромашка
 Многолетнее лекарственное цветковое растение, распространенное в средней полосе России.
 Распространенное использование - употребление *ромашкового чая*.
 
 <img src="./romashka.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Девичий цветок***, ***Белюшка***.<!--n:Полезные травы/Ромашка:s:341480:e:482-->
+Названия &emsp; ***Девичий цветок***, ***Белюшка***.<!--n:Полезные травы/Ромашка:s:449428:e:482-->
 <!----><!--2022-06-22 00:38:00-->
 ## Черемша
 Многолетнее растение семейства луковых, распространенное в средней полосе России и Европы.
 Используется в кулинарии и медицине благодаря *чесночному* вкусу.
 
 <img src="./cheremsha.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Медвежий лук***, ***Колба***.<!--n:Полезные травы/Черемша:s:342029:e:480-->
+Названия &emsp; ***Медвежий лук***, ***Колба***.<!--n:Полезные травы/Черемша:s:449977:e:480-->
 <!----><!--2022-04-24 01:54:00-->
 ## Иван-чай
 Многолетнее растение с цветками фиолетового или бледно-розового цвета.
 Используются как противовоспалительное средство и для заваривания "*русского чая*".
 
 <img src="./ivan-tchai.jpg" width="100px" align="middle"> &emsp; 
-Названия &emsp; ***Кипрей***, ***Донник***, ***Пырей***.<!--n:Полезные травы/Иван-чай:s:342576:e:487-->
-<!----><!--2025-09-02 17:35:30-->Полезные, лекарственные травы, растущие на просторах России.<!--n:Полезные травы/about:s:343131:e:144-->
+Названия &emsp; ***Кипрей***, ***Донник***, ***Пырей***.<!--n:Полезные травы/Иван-чай:s:450524:e:487-->
+<!----><!--2025-09-02 17:35:30-->Полезные, лекарственные травы, растущие на просторах России.<!--n:Полезные травы/about:s:451079:e:144-->
 <!----><!--2016-04-17 09:57:05-->
 ## Конфуций, китайский философ
 <img src="./konfuciy.jpg">
@@ -3475,14 +4345,14 @@ Markdown provides backslash escapes for the following characters:
 
     Благородные люди живут в согласии с другими людьми, 
     но не следуют за другими людьми, низкие следуют 
-    за другими людьми, но не живут с ними в согласии.<!--n:Подборка цитат и афоризмов/Конфуций, китайский философ:s:343333:e:762-->
+    за другими людьми, но не живут с ними в согласии.<!--n:Подборка цитат и афоризмов/Конфуций, китайский философ:s:451281:e:762-->
 <!----><!--2016-06-19 09:11:41-->
 ## Ларри Уолл, американский программист
 <img src="./larry_wall.jpg">
 
     Истинное величие измеряется тем, как много свободы
     вы даете другим, а не тем насколько можете принудить
-    других делать то, что вы хотите.<!--n:Подборка цитат и афоризмов/Ларри Уолл, американский программист:s:344221:e:395-->
+    других делать то, что вы хотите.<!--n:Подборка цитат и афоризмов/Ларри Уолл, американский программист:s:452169:e:395-->
 <!----><!--2016-08-19 21:49:27-->
 ## Джон Сильвер, пират из романа 'Остров Сокровищ'
 <img src="./jon_silver.jpg">
@@ -3509,38 +4379,38 @@ Markdown provides backslash escapes for the following characters:
 
     Как много джентльменов удачи и прочих искателей приключений 
     исчезли навек лишь потому, что не умели держать 
-    себя в руках и ждать!<!--n:Подборка цитат и афоризмов/Джон Сильвер, пират из романа Остров Сокровищ:s:344759:e:1007-->
+    себя в руках и ждать!<!--n:Подборка цитат и афоризмов/Джон Сильвер, пират из романа Остров Сокровищ:s:452707:e:1007-->
 <!----><!--2019-06-22 22:28:39-->
 ## Сергей Довлатов, советский писатель
 <img src="./sergey_dovlatov.jpg">
 
     Хамство — это грубость, наглость, нахальство, 
-    вместе взятые, но при этом — умноженные на безнаказанность.<!--n:Подборка цитат и афоризмов/Сергей Довлатов, советский писатель:s:345925:e:341-->
+    вместе взятые, но при этом — умноженные на безнаказанность.<!--n:Подборка цитат и афоризмов/Сергей Довлатов, советский писатель:s:453873:e:341-->
 <!----><!--2017-01-01 21:58:33-->
 ## Тургенев Иван, писатель
 <img src="./turgenev.jpg">
 
 *"Отцы и дети"*
 
-    Я ничьих мнений не разделяю: я имею свои.<!--n:Подборка цитат и афоризмов/Тургенев Иван, писатель:s:346407:e:212-->
+    Я ничьих мнений не разделяю: я имею свои.<!--n:Подборка цитат и афоризмов/Тургенев Иван, писатель:s:454355:e:212-->
 <!----><!--2020-01-15 22:32:21-->
 ## Сильвестр Сталлоне, американский актер и режиссер
 <img src="./stallone.jpg">
 
     Отказ для меня звучит словно иерихонская труба над ухом,
-    побуждая не отступать, а проснуться и взяться за дело.<!--n:Подборка цитат и афоризмов/Сильвестр Сталлоне, американский актер и режиссер:s:346737:e:368-->
+    побуждая не отступать, а проснуться и взяться за дело.<!--n:Подборка цитат и афоризмов/Сильвестр Сталлоне, американский актер и режиссер:s:454685:e:368-->
 <!----><!--2018-12-23 15:48:16-->
 ## Александр Мостовой, футболист
 <img src="./a_mostovoy.jpg">
 
     В футболе почти не осталось романтиков. 
-    А оставшиеся скоро «вымрут».<!--n:Подборка цитат и афоризмов/Александр Мостовой, футболист:s:347272:e:257-->
+    А оставшиеся скоро «вымрут».<!--n:Подборка цитат и афоризмов/Александр Мостовой, футболист:s:455220:e:257-->
 <!----><!--2017-04-09 07:56:09-->
 ## Андрей Тарковский, советский режиссер
 <img src="./tarkovskiy.jpg">
 
     Если каждый день в одно и то же время делать что-нибудь, 
-    даже не важно что, то мир вокруг тебя обязательно изменится.<!--n:Подборка цитат и афоризмов/Андрей Тарковский, советский режиссер:s:347659:e:357-->
+    даже не важно что, то мир вокруг тебя обязательно изменится.<!--n:Подборка цитат и афоризмов/Андрей Тарковский, советский режиссер:s:455607:e:357-->
 <!----><!--2016-04-17 10:07:50-->
 ## Оскар Уайлд, британский писатель
 <img src="./oskar_wild.jpg">
@@ -3560,13 +4430,13 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Всегда прощайте своих врагов: 
-    ничто не раздражает их так сильно.<!--n:Подборка цитат и афоризмов/Оскар Уайлд, британский писатель:s:348161:e:624-->
+    ничто не раздражает их так сильно.<!--n:Подборка цитат и афоризмов/Оскар Уайлд, британский писатель:s:456109:e:624-->
 <!----><!--2017-01-30 21:15:31-->
 ## Бенджамин Франклин, американский политический деятель
 <img src="./franklin.jpg">
 
     Люди едят для собственного удовольствия, 
-    а одеваются для чужой потехи.<!--n:Подборка цитат и афоризмов/Бенджамин Франклин, американский политический деятель:s:348920:e:305-->
+    а одеваются для чужой потехи.<!--n:Подборка цитат и афоризмов/Бенджамин Франклин, американский политический деятель:s:456868:e:305-->
 <!----><!--2021-11-29 15:08:04-->
 ## Михаил Ломоносов, русский ученый
 <img src="./lomonosov.jpg">
@@ -3591,7 +4461,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Математику уже за то любить следует, 
-    что она ум в порядок приводит.<!--n:Подборка цитат и афоризмов/Михаил Ломоносов, русский ученый:s:349401:e:844-->
+    что она ум в порядок приводит.<!--n:Подборка цитат и афоризмов/Михаил Ломоносов, русский ученый:s:457349:e:844-->
 <!----><!--2022-06-25 11:35:12-->
 ## Владимир Маяковский, советский поэт
 <img src="./mayakovskii.jpg" alt=""> 
@@ -3625,13 +4495,13 @@ Markdown provides backslash escapes for the following characters:
     Отрастить бы себе х*й
     В километр
     И доставить ей
-    Удовольствие!<!--n:Подборка цитат и афоризмов/Владимир Маяковский, советский поэт:s:350380:e:1120-->
+    Удовольствие!<!--n:Подборка цитат и афоризмов/Владимир Маяковский, советский поэт:s:458328:e:1120-->
 <!----><!--2020-02-02 22:23:56-->
 ## Пауло Коэльо, бразильский писатель
 <img src="./koelo.jpg">
 
     Если тебе не нравится то, что ты получаешь, 
-    измени то, что ты даёшь.<!--n:Подборка цитат и афоризмов/Пауло Коэльо, бразильский писатель:s:351642:e:256-->
+    измени то, что ты даёшь.<!--n:Подборка цитат и афоризмов/Пауло Коэльо, бразильский писатель:s:459590:e:256-->
 <!----><!--2020-08-30 01:48:16-->
 ## Курильщик из сериала X-Files
 <img src="./kuril-x-files.jpg">
@@ -3647,7 +4517,7 @@ Markdown provides backslash escapes for the following characters:
 
     Люди не могут быть свободны. Они слабы, развращены, 
     ничтожны и нетерпеливы. Они верят во власть, 
-    устали ждать чудес и волшебства. Наука — вот их религия.<!--n:Подборка цитат и афоризмов/Курильщик из сериала Секретные Материалы:s:352037:e:628-->
+    устали ждать чудес и волшебства. Наука — вот их религия.<!--n:Подборка цитат и афоризмов/Курильщик из сериала Секретные Материалы:s:459985:e:628-->
 <!----><!--2020-04-25 14:36:09-->
 ## Петр I, русский император
 <img src="./petr_1.jpg">
@@ -3667,19 +4537,19 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Несчастья бояться — счастья не видать.<!--n:Подборка цитат и афоризмов/Петр I, русский император:s:352816:e:646-->
+    Несчастья бояться — счастья не видать.<!--n:Подборка цитат и афоризмов/Петр I, русский император:s:460764:e:646-->
 <!----><!--2016-04-17 10:02:36-->
 ## Джон Голсуорси, английский писатель
 <img src="./john_galsworthy.jpg">
 
     Сначала они тебя не замечают, потом смеются над тобой, 
-    затем борются с тобой, а потом ты побеждаешь.<!--n:Подборка цитат и афоризмов/Джон Голсуорси, английский писатель:s:353582:e:328-->
+    затем борются с тобой, а потом ты побеждаешь.<!--n:Подборка цитат и афоризмов/Джон Голсуорси, английский писатель:s:461530:e:328-->
 <!----><!--2019-01-13 21:21:44-->
 ## Уильям Шекспир, средневековый английский поэт и драматург
 <img src="./shekspir.jpg">
 
     Грехи других судить вы так усердно рветесь, 
-    начните со своих и до чужих не доберетесь.<!--n:Подборка цитат и афоризмов/Уильям Шекспир, средневековый английский поэт и драматург:s:354051:e:338-->
+    начните со своих и до чужих не доберетесь.<!--n:Подборка цитат и афоризмов/Уильям Шекспир, средневековый английский поэт и драматург:s:461999:e:338-->
 <!----><!--2016-06-09 21:10:32-->
 ## Наполеон, французский император
 <img src="./napoleon.jpg">
@@ -3697,7 +4567,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Копните русского и найдете татарина.<!--n:Подборка цитат и афоризмов/Наполеон, французский император:s:354571:e:591-->
+    Копните русского и найдете татарина.<!--n:Подборка цитат и афоризмов/Наполеон, французский император:s:462519:e:591-->
 <!----><!--2016-04-17 10:03:20-->
 ## Махатма Ганди, индийский политический деятель
 <img src="./gandi.jpg">
@@ -3719,14 +4589,14 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Чем больше я размышляю и оглядываюсь на прошлое, 
-    тем яснее ощущаю свою ограниченность.<!--n:Подборка цитат и афоризмов/Махатма Ганди, индийский политический деятель:s:355296:e:912-->
+    тем яснее ощущаю свою ограниченность.<!--n:Подборка цитат и афоризмов/Махатма Ганди, индийский политический деятель:s:463244:e:912-->
 <!----><!--2020-02-02 22:09:34-->
 ## Уильям Сомерсет Моэм, британский писатель
 <img src="./moem.jpg">
 
     Жизнь на десять процентов состоит из того, 
     что вы в ней делаете, а на девяносто – из того, 
-    как вы её принимаете.<!--n:Подборка цитат и афоризмов/Уильям Сомерсет Моэм, британский писатель:s:356368:e:353-->
+    как вы её принимаете.<!--n:Подборка цитат и афоризмов/Уильям Сомерсет Моэм, британский писатель:s:464316:e:353-->
 <!----><!--2016-04-17 10:06:08-->
 ## Теодор Рузвельт, американский политический деятель
 <img src="./roosvelt.jpg">
@@ -3740,7 +4610,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Главная причина успеха в любом деле - 
-    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Теодор Рузвельт, американский политический деятель:s:356873:e:483-->
+    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Теодор Рузвельт, американский политический деятель:s:464821:e:483-->
 <!----><!--2016-11-21 20:53:25-->
 ## Эрих Мария Ремарк, немецкий писатель
 <img src="./remark.jpg">
@@ -3770,7 +4640,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Свободен лишь тот, кто потерял все, ради чего стоит жить.<!--n:Подборка цитат и афоризмов/Эрих Мария Ремарк, немецкий писатель:s:357526:e:1106-->
+    Свободен лишь тот, кто потерял все, ради чего стоит жить.<!--n:Подборка цитат и афоризмов/Эрих Мария Ремарк, немецкий писатель:s:465474:e:1106-->
 <!----><!--2020-01-22 22:24:32-->
 ## Шарль Морис де Талейран-Перигор, министр иностранных дел времен Наполеона
 <img src="./tall.jpg">
@@ -3785,14 +4655,14 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Политика — это всего лишь способ возбуждать 
-    народ таким образом, чтобы суметь его использовать.<!--n:Подборка цитат и афоризмов/Шарль Морис де Талейран-Перигор, министр иностранных дел времен Наполеона:s:358775:e:630-->
+    народ таким образом, чтобы суметь его использовать.<!--n:Подборка цитат и афоризмов/Шарль Морис де Талейран-Перигор, министр иностранных дел времен Наполеона:s:466723:e:630-->
 <!----><!--2019-12-14 22:57:50-->
 ## Константин Паустовский, русский писатель
 <img src="./paust.jpg">
 
     Осень пришла внезапно. Так приходит ощущение счастья 
     от самых незаметных вещей – от далекого пароходного 
-    гудка на Оке или от случайной улыбки.<!--n:Подборка цитат и афоризмов/Константин Паустовский, русский писатель:s:359616:e:415-->
+    гудка на Оке или от случайной улыбки.<!--n:Подборка цитат и афоризмов/Константин Паустовский, русский писатель:s:467564:e:415-->
 <!----><!--2016-04-17 09:59:40-->
 ## Лао-Цзы, китайский философ
 <img src="./lao_tsi.jpg">
@@ -3815,13 +4685,13 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Нет ничего более сильного и созидательного, чем пустота, 
-    которую люди стремятся заполнить.<!--n:Подборка цитат и афоризмов/Лао-Цзы, китайский философ:s:360182:e:774-->
+    которую люди стремятся заполнить.<!--n:Подборка цитат и афоризмов/Лао-Цзы, китайский философ:s:468130:e:774-->
 <!----><!--2019-02-17 13:39:20-->
 ## Альберт Эйнштейн, выдающийся немецкий физик-теоретик
 <img src="./albert_enshtein.jpg">
 
     В жизни все относительно. Даже если в одном 
-    месте вас послали, то в другом уже просто заждались.<!--n:Подборка цитат и афоризмов/Альберт Эйнштейн, выдающийся немецкий физик-теоретик:s:361079:e:353-->
+    месте вас послали, то в другом уже просто заждались.<!--n:Подборка цитат и афоризмов/Альберт Эйнштейн, выдающийся немецкий физик-теоретик:s:469027:e:353-->
 <!----><!--2020-09-17 02:10:04-->
 ## Антибиотик, главарь банды из сериала 'Бандитский Петербург'
 <img src="./antibiotik.jpg">
@@ -3857,7 +4727,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Все бабы — дуры. Они не головой думают, а своим сладким местом. 
-    Есть глупые дуры, а есть умные, но тоже дуры.<!--n:Подборка цитат и афоризмов/Антибиотик, главарь банды из сериала Бандитский Петербург:s:361605:e:1557-->
+    Есть глупые дуры, а есть умные, но тоже дуры.<!--n:Подборка цитат и афоризмов/Антибиотик, главарь банды из сериала Бандитский Петербург:s:469553:e:1557-->
 <!----><!--2017-02-12 15:12:03-->
 ## Царь Соломон, ветхозаветный правитель
 <img src="./solomon.jpg">
@@ -3897,7 +4767,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Не дружись с гневливым и не сообщайся с 
-    человеком вспыльчивым.<!--n:Подборка цитат и афоризмов/Царь Соломон, ветхозаветный правитель:s:363345:e:1339-->
+    человеком вспыльчивым.<!--n:Подборка цитат и афоризмов/Царь Соломон, ветхозаветный правитель:s:471293:e:1339-->
 <!----><!--2016-09-30 21:28:24-->
 ## Юрий Лужков, мэр г.Москвы
 <img src="./luzhkov.jpg">
@@ -3915,7 +4785,7 @@ Markdown provides backslash escapes for the following characters:
 *О нажитом богатстве*
 
     В могилку нас положат в одном пиджачке, 
-    второго не наденут<!--n:Подборка цитат и афоризмов/Юрий Лужков, мэр г.Москвы:s:364830:e:496-->
+    второго не наденут<!--n:Подборка цитат и афоризмов/Юрий Лужков, мэр г.Москвы:s:472778:e:496-->
 <!----><!--2016-07-23 10:27:51-->
 ## Брюс Ли, мастер боевых искусств, актер
 <img src="./bruce_lee.jpg">
@@ -3956,14 +4826,14 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Ничего не существует, за исключением здесь и сейчас.<!--n:Подборка цитат и афоризмов/Брюс Ли, мастер боевых искусств, актер:s:365446:e:1517-->
+    Ничего не существует, за исключением здесь и сейчас.<!--n:Подборка цитат и афоризмов/Брюс Ли, мастер боевых искусств, актер:s:473394:e:1517-->
 <!----><!--2024-05-18 15:56:44-->
 ## Джордж Лукас, американский кинорежиссер
 <img src="./dj_lukas.jpg">
 
     Нужно всегда делиться успехом. Если ты нашёл себе хорошее дело, 
     помоги другому человеку найти такое же. Свой личный успех я измеряю
-    количеством людей, которых я сделал успешным.<!--n:Подборка цитат и афоризмов/Джордж Лукас, американский кинорежиссер:s:367108:e:476-->
+    количеством людей, которых я сделал успешным.<!--n:Подборка цитат и афоризмов/Джордж Лукас, американский кинорежиссер:s:475056:e:476-->
 <!----><!--2018-01-04 16:30:00-->
 ## Билл Клинтон, американский президент
 <img src="./bill_clinton.jpg" alt="">
@@ -3977,12 +4847,12 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Сила и мудрость друг другу не мешают.<!--n:Подборка цитат и афоризмов/Билл Клинтон, американский президент:s:367733:e:531-->
+    Сила и мудрость друг другу не мешают.<!--n:Подборка цитат и афоризмов/Билл Клинтон, американский президент:s:475681:e:531-->
 <!----><!--2017-06-17 17:28:08-->
 ## Станислав Черчесов, российский футболист и тренер
 <img src="./cherchesov.jpg">
 
-    Как готовились, так и сыграли<!--n:Подборка цитат и афоризмов/Станислав Черчесов, российский футболист и тренер:s:368407:e:217-->
+    Как готовились, так и сыграли<!--n:Подборка цитат и афоризмов/Станислав Черчесов, российский футболист и тренер:s:476355:e:217-->
 <!----><!--2018-12-15 18:47:55-->
 ## Джордж Бернард Шоу, выдающийся ирландский драматург
 <img src="./b_show.jpg">
@@ -4028,7 +4898,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Цензура в конце концов приходит к тому, 
-    что запрещены все книги, кроме тех, которых никто не читает.<!--n:Подборка цитат и афоризмов/Джордж Бернард Шоу, выдающийся ирландский драматург, лауреат Нобелевской прем:s:368791:e:1547-->
+    что запрещены все книги, кроме тех, которых никто не читает.<!--n:Подборка цитат и афоризмов/Джордж Бернард Шоу, выдающийся ирландский драматург, лауреат Нобелевской прем:s:476739:e:1547-->
 <!----><!--2018-04-21 23:35:54-->
 ## Карлос Кастанеда, американский писатель-эзотерик
 <img src="./kastaneda.jpg">
@@ -4044,7 +4914,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Сначала мы учимся обо всем думать, а потом учимся смотреть 
-    на вещи так, как о них думаем.<!--n:Подборка цитат и афоризмов/Карлос Кастанеда, американский писатель-эзотерик:s:370558:e:652-->
+    на вещи так, как о них думаем.<!--n:Подборка цитат и афоризмов/Карлос Кастанеда, американский писатель-эзотерик:s:478506:e:652-->
 <!----><!--2020-08-25 0:54:11-->
 ## Лев Яшин, советский футбольный вратарь
 <img src="./lev_yashin.jpg">
@@ -4061,7 +4931,7 @@ Markdown provides backslash escapes for the following characters:
 
     Любой, самый счастливый финиш - лишь предшественник 
     очередного старта, причем прошлые победы не дают 
-    никаких дополнительных привилегий.<!--n:Подборка цитат и афоризмов/Лев Яшин, советский футбольный вратарь:s:371376:e:717-->
+    никаких дополнительных привилегий.<!--n:Подборка цитат и афоризмов/Лев Яшин, советский футбольный вратарь:s:479324:e:717-->
 <!----><!--2018-04-22 14:47:12-->
 ## Владимир Жириновский, российский политик и депутат
 <img src="./zhirik.jpg">
@@ -4082,13 +4952,13 @@ Markdown provides backslash escapes for the following characters:
 
     Не надо заставлять детей учить английский, 
     пускай лучше изучают автомат Калашникова. 
-    И тогда скоро весь мир заговорит по-русски.<!--n:Подборка цитат и афоризмов/Владимир Жириновский, российский политик и депутат:s:372239:e:744-->
+    И тогда скоро весь мир заговорит по-русски.<!--n:Подборка цитат и афоризмов/Владимир Жириновский, российский политик и депутат:s:480187:e:744-->
 <!----><!--2017-12-21 21:18:06-->
 ## Игорь Скляр, российский актер театра и кино
 <img src="./sklyar.jpg">
 
     Если что-то делать мучительно - то это тяжело, 
-    если с радостью и улыбкой - то легко.<!--n:Подборка цитат и афоризмов/Игорь Скляр, российский актер театра и кино:s:373152:e:300-->
+    если с радостью и улыбкой - то легко.<!--n:Подборка цитат и афоризмов/Игорь Скляр, российский актер театра и кино:s:481100:e:300-->
 <!----><!--2017-10-01 09:43:02-->
 ## Иосиф Сталин, глава советсткого государства
 <img src="./stalin.jpg">
@@ -4111,7 +4981,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    У каждой ошибки есть имя, фамилия и должность.<!--n:Подборка цитат и афоризмов/Иосиф Сталин, глава советсткого государства:s:373606:e:1083-->
+    У каждой ошибки есть имя, фамилия и должность.<!--n:Подборка цитат и афоризмов/Иосиф Сталин, глава советсткого государства:s:481554:e:1083-->
 <!----><!--2016-04-17 10:01:10-->
 ## Генрих Манн, немецкий писатель
 <img src="./mann.jpg">
@@ -4122,14 +4992,14 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Главная причина успеха в любом деле - 
-    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Генрих Манн, немецкий писатель:s:374846:e:396-->
+    умение работать с людьми.<!--n:Подборка цитат и афоризмов/Генрих Манн, немецкий писатель:s:482794:e:396-->
 <!----><!--2016-04-17 10:11:09-->
 ## Шри Чинмой, индуистский проповедник
 <img src="./chinmoy.jpg">
 
     Дружба - это такое святое, сладостное, прочное и 
     постоянное чувство, что его можно сохранить на всю жизнь. 
-    Если, конечно, не пытаться просить денег взаймы.<!--n:Подборка цитат и афоризмов/Шри Чинмой, индуистский проповедник:s:375373:e:424-->
+    Если, конечно, не пытаться просить денег взаймы.<!--n:Подборка цитат и афоризмов/Шри Чинмой, индуистский проповедник:s:483321:e:424-->
 <!----><!--2020-08-30 23:55:11-->
 ## Гэндальф, маг из Властелина Колец
 <img src="./gendalf.jpg">
@@ -4144,7 +5014,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Мир не в книгах и картах, он там — за окном!<!--n:Подборка цитат и афоризмов/Гэндальф, маг из Властелина Колец:s:375938:e:588-->
+    Мир не в книгах и картах, он там — за окном!<!--n:Подборка цитат и афоризмов/Гэндальф, маг из Властелина Колец:s:483886:e:588-->
 <!----><!--2019-09-20 08:55:59-->
 ## Жан-Поль Бельмондо, французский актер
 <img src="./belmondo.jpeg">
@@ -4179,13 +5049,13 @@ Markdown provides backslash escapes for the following characters:
 
     Больше не вернусь ни в кино, ни в театр. 
     Теперь мой главный проект — ничего не делать 
-    и наслаждаться жизнью.<!--n:Подборка цитат и афоризмов/Жан-Поль Бельмондо, французский актер:s:376662:e:1218-->
+    и наслаждаться жизнью.<!--n:Подборка цитат и афоризмов/Жан-Поль Бельмондо, французский актер:s:484610:e:1218-->
 <!----><!--2018-04-07 16:23:54-->
 ## Нафталий Френкель, один из руководителей ГУЛАГа
 <img src="./frenkel.jpg">
 
     От заключённого нам надо взять всё в первые три месяца — 
-    а потом он нам не нужен!<!--n:Подборка цитат и афоризмов/Нафталий Френкель, один из руководителей ГУЛАГа:s:378025:e:308-->
+    а потом он нам не нужен!<!--n:Подборка цитат и афоризмов/Нафталий Френкель, один из руководителей ГУЛАГа:s:485973:e:308-->
 <!----><!--2018-01-27 09:18:20-->
 ## Илон Маск, американский изобретатель и миллиардер
 <img src="./ilon_mask.jpg">
@@ -4207,7 +5077,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Мы должны понять, как получить то, что мы любим, и 
-    при этом не уничтожить мир.<!--n:Подборка цитат и афоризмов/Илон Маск, американский изобретатель и миллиардер:s:378496:e:1275-->
+    при этом не уничтожить мир.<!--n:Подборка цитат и афоризмов/Илон Маск, американский изобретатель и миллиардер:s:486444:e:1275-->
 <!----><!--2024-05-19 15:00:21-->
 ## Джеймс Кэмерон, американский кинорежиссёр
 <img src="./js_cameron.jpg" width="150px">
@@ -4231,7 +5101,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Если вы будете ждать правильного момента, чтобы завести ребенка, 
-    вы умрете бездетным. С кино — то же самое.<!--n:Подборка цитат и афоризмов/Джеймс Кэмерон, американский кинорежиссёр:s:379939:e:1688-->
+    вы умрете бездетным. С кино — то же самое.<!--n:Подборка цитат и афоризмов/Джеймс Кэмерон, американский кинорежиссёр:s:487887:e:1688-->
 <!----><!--2018-12-23 08:38:25-->
 ## Владимир Путин, российский президент
 <img src="./putin.jpg">
@@ -4252,13 +5122,13 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Нам ничего ни от кого не нужно, 
-    кроме того, что нам принадлежит!<!--n:Подборка цитат и афоризмов/Владимир Путин, российский президент:s:381781:e:768-->
+    кроме того, что нам принадлежит!<!--n:Подборка цитат и афоризмов/Владимир Путин, российский президент:s:489729:e:768-->
 <!---->﻿<!--2020-04-03 18:01:11-->
 ## Гарри Каспаров, шахматист
 <img src="./kasparov.jpg">
 
     Если хотите искать людей с двойным гражданством, 
-    ищите в Государственной Думе.<!--n:Подборка цитат и афоризмов/Гарри Каспаров, шахматист:s:382692:e:269-->
+    ищите в Государственной Думе.<!--n:Подборка цитат и афоризмов/Гарри Каспаров, шахматист:s:490640:e:269-->
 <!----><!--2017-11-06 19:49:12-->
 ## Лев Троцкий, советский революционер
 <img src="./trotskiy.jpg">
@@ -4280,7 +5150,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Если ты не можешь убедить своего противника при помощи 
-    доводов, тебе следует познакомить его голову с тротуаром.<!--n:Подборка цитат и афоризмов/Лев Троцкий, советский революционер:s:383083:e:847-->
+    доводов, тебе следует познакомить его голову с тротуаром.<!--n:Подборка цитат и афоризмов/Лев Троцкий, советский революционер:s:491031:e:847-->
 <!----><!--2023-09-30 23:31:14-->
 ## Арнольд Шварценеггер, американский бодибилдер и актер
 <img src="./arnold_schwarz.jpg">
@@ -4312,12 +5182,12 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Чужих денег не надо, у меня хватает своих, и все решения я принимаю 
-    только во благо людей.<!--n:Подборка цитат и афоризмов/Арнольд Шварценеггер, американский бодибилдер и актер:s:384071:e:1517-->
+    только во благо людей.<!--n:Подборка цитат и афоризмов/Арнольд Шварценеггер, американский бодибилдер и актер:s:492019:e:1517-->
 <!----><!--2020-03-15 10:24:02-->
 ## Джулиан Ассанж, основатель сайта WikiLeaks
 <img src="./d_assang.jpg">
 
-    Я узнал, как работает судебная система: она не работает.<!--n:Подборка цитат и афоризмов/Джулиан Ассанж, основатель сайта WikiLeaks:s:385764:e:241-->
+    Я узнал, как работает судебная система: она не работает.<!--n:Подборка цитат и афоризмов/Джулиан Ассанж, основатель сайта WikiLeaks:s:493712:e:241-->
 <!----><!--2017-07-21 21:16:04-->
 ## Авраам Линкольн, американский президент
 <img src="./lincoln.jpg">
@@ -4352,7 +5222,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     В конечном счете, важны не годы в вашей жизни, 
-    а жизнь в ваших годах.<!--n:Подборка цитат и афоризмов/Авраам Линкольн, американский президент:s:386150:e:1069-->
+    а жизнь в ваших годах.<!--n:Подборка цитат и афоризмов/Авраам Линкольн, американский президент:s:494098:e:1069-->
 <!----><!--2018-01-21 09:58:53-->
 ## Александр Суворов, русский полководец
 <img src="./a_suvorov.jpg">
@@ -4373,7 +5243,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Титулы мне не для меня, но для публики потребны.<!--n:Подборка цитат и афоризмов/Александр Суворов, русский полководец:s:387369:e:668-->
+    Титулы мне не для меня, но для публики потребны.<!--n:Подборка цитат и афоризмов/Александр Суворов, русский полководец:s:495317:e:668-->
 <!----><!--2022-02-01 00:56:11-->
 ## Марк Твен, американский писатель
 <img src="./mark_twen.jpg">
@@ -4409,7 +5279,7 @@ Markdown provides backslash escapes for the following characters:
 >  
 
     Воспоминания - вот из-за чего мы стареем. 
-    Секрет вечной юности - в умении забывать.<!--n:Подборка цитат и афоризмов/Марк Твен, американский писатель:s:388182:e:1240-->
+    Секрет вечной юности - в умении забывать.<!--n:Подборка цитат и афоризмов/Марк Твен, американский писатель:s:496130:e:1240-->
 <!----><!--2016-04-17 10:08:46-->
 ## Уинстон Черчилль, английский политический деятель
 <img src="./cherchill.jpg">
@@ -4419,7 +5289,7 @@ Markdown provides backslash escapes for the following characters:
 
 >  
 
-    Генералы всегда готовятся к прошлой войне.<!--n:Подборка цитат и афоризмов/Уинстон Черчилль, английский политический деятель:s:389558:e:380-->
+    Генералы всегда готовятся к прошлой войне.<!--n:Подборка цитат и афоризмов/Уинстон Черчилль, английский политический деятель:s:497506:e:380-->
 <!----><!--2017-01-07 19:35:21-->
 ## Джеймс Фенимор Купер, американский писатель
 <img src="./kuper.jpg">
@@ -4459,14 +5329,14 @@ Markdown provides backslash escapes for the following characters:
 
     Когда белый умирает, он думает, что для него наступила 
     минута покоя, но краснокожие умеют мучить даже 
-    призраки своих врагов.<!--n:Подборка цитат и афоризмов/Джеймс Фенимор Купер, американский писатель:s:390106:e:1383-->
+    призраки своих врагов.<!--n:Подборка цитат и афоризмов/Джеймс Фенимор Купер, американский писатель:s:498054:e:1383-->
 <!----><!--2017-11-19 17:56:13-->
 ## Клод ле Руа, французский футбольный тренер
 <img src="./klod_le_rua.jpg">
 
     Жить со всей страстью и быть терпимым к другим - 
-    это особый дар.<!--n:Подборка цитат и афоризмов/Клод ле Руа, французский футбольный тренер:s:391646:e:270-->
-<!----><!--2025-09-02 17:35:30-->Здесь собраны цитаты мудрейших людей мира. Политиков, философов, писателей, актеров.<!--n:Подборка цитат и афоризмов/about:s:392069:e:187-->
+    это особый дар.<!--n:Подборка цитат и афоризмов/Клод ле Руа, французский футбольный тренер:s:499594:e:270-->
+<!----><!--2025-09-02 17:35:30-->Здесь собраны цитаты мудрейших людей мира. Политиков, философов, писателей, актеров.<!--n:Подборка цитат и афоризмов/about:s:500017:e:187-->
 <!----><!--2020-07-16 22:21:18-->
 ## Транспонирование аккордов
 Любая строчка - это аккорды в песне. Чтобы поменять тональность нужно поменять их на соответствующие аккорды из другой строчки строго по вертикали.
@@ -4484,7 +5354,7 @@ Markdown provides backslash escapes for the following characters:
 <tr><td>Fm#<td>F#<td>Hm<td>H<td>C<td>A<td>Am<td>E<td>F<td>Em<td>Bm<td>D<td>D#<td>Dm<td>Dm#<td>G<td>Gm<td>G</tr>
 <tr style='color:gray'><td>Gm<td>G<td>Cm<td>C<td>C#<td>B<td>Bm<td>F<td>F#<td>Fm<td>Hm<td>D#<td>E<td>Dm#<td>Em<td>G#<td>Gm#<td>G#</tr>
 <tr><td>Gm#<td>G#<td>Cm#<td>C#<td>D<td>H<td>Hm<td>F<td>G<td>Fm#<td>Cm<td>E<td>F<td>Em<td>Fm<td>A<td>Am<td>A</tr>
-</tr></table><!--n:Самоучитель игры на гитаре/Транспонирование аккордов:s:392336:e:1883-->
+</tr></table><!--n:Самоучитель игры на гитаре/Транспонирование аккордов:s:500284:e:1883-->
 <!----><!--2017-07-16 11:26:43-->
 ## Аккорды
 Необходимые аккорды для правильной игры всех песен. Набрал RAS.
@@ -4673,7 +5543,7 @@ Markdown provides backslash escapes for the following characters:
 		|-●-|---|-●-   |---|-●-|---
 		|-●-|---|-●-   |---|---|-●-
 		|-●-|---|---   |---|-●-|---
-		|-●-|---|---   |---|-!-|---<!--n:Самоучитель игры на гитаре/Аккорды:s:394344:e:10511-->
+		|-●-|---|---   |---|-!-|---<!--n:Самоучитель игры на гитаре/Аккорды:s:502292:e:10511-->
 <!----><!--2017-07-16 13:54:31-->
 ## Переборы
 Здесь представлены несколько видов
@@ -4816,7 +5686,7 @@ Markdown provides backslash escapes for the following characters:
 Лучший способ научиться играть переборы - найти
 хорошую, нравящуюся песню с таким перебором, найти к
 ней аккорды и больше тренироваться. Спасибо за
-внимание. Надеюсь, что хоть чем-то помог.<!--n:Самоучитель игры на гитаре/Переборы:s:404946:e:8420-->
+внимание. Надеюсь, что хоть чем-то помог.<!--n:Самоучитель игры на гитаре/Переборы:s:512894:e:8420-->
 <!----><!--2017-07-16 13:41:52-->
 ## Гитарные бои
 Условные обозначения
@@ -4984,7 +5854,7 @@ Markdown provides backslash escapes for the following characters:
 Вариант с глушением первого удара
 
 		I-^-v---v-x-v-^-v---
-		P-^-----------^-----<!--n:Самоучитель игры на гитаре/Гитарные бои:s:413458:e:6295-->
+		P-^-----------^-----<!--n:Самоучитель игры на гитаре/Гитарные бои:s:521406:e:6295-->
 <!----><!--2017-07-16 13:35:21-->
 ## Баррэ
 *Баррэ* - это прием прижатия струн, заключающийся в том, что
@@ -5030,7 +5900,7 @@ Markdown provides backslash escapes for the following characters:
 остальные пальцы не ощущали скованности и могли легко поочередно
 прижать любую струну на трех соседних ладах; при перемещении
 указательного пальца с одного лада на другой рука должна
-передвигаться легко и быстро.<!--n:Самоучитель игры на гитаре/Баррэ:s:419852:e:4258-->
+передвигаться легко и быстро.<!--n:Самоучитель игры на гитаре/Баррэ:s:527800:e:4258-->
 <!----><!--2017-06-03 18:18:38-->
 ## Азы обучения игре на гитаре
 Итак, ты все бросил и решил/решила, что хочешь научится
@@ -5111,7 +5981,7 @@ Markdown provides backslash escapes for the following characters:
 рекомендую чередовать *5* и *4* струны, в этом случае звук
 более мелодичен, выглядит это примерно так:
 
-    5, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3 и сначала<!--n:Самоучитель игры на гитаре/Азы обучения игре на гитаре:s:424196:e:3590-->
+    5, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3 и сначала<!--n:Самоучитель игры на гитаре/Азы обучения игре на гитаре:s:532144:e:3590-->
 <!----><!--2017-07-16 14:01:55-->
 ## Таблица аккордов
 *Примечание:* в аккорде слева - *6*-я струна, справа - *1*-я. Строй гитары *EADGBE*. &nbsp; [Таблица с табами](/index.html?samouchitel_igry_na_gitare/tablica_akkordov_s_tabami)
@@ -5171,7 +6041,7 @@ Markdown provides backslash escapes for the following characters:
 		 Gm7    |    G6    |   Gmaj7  |   Gm6    |   Gdim   |   Gaug
 		131111  |  320000  |  320002  |  X10030  |  XX2323  |  XX5443
 
-</div><!--n:Самоучитель игры на гитаре/Таблица аккордов:s:427912:e:3713-->
+</div><!--n:Самоучитель игры на гитаре/Таблица аккордов:s:535860:e:3713-->
 <!----><!--2023-09-21 20:01:13-->
 ## Таблица аккордов с табами
 *Примечание:* Стандартный строй гитары *EADGBE*. &nbsp; [Таблица аккордов](/index.html?samouchitel_igry_na_gitare/tablica_akkordov)
@@ -5285,7 +6155,7 @@ Markdown provides backslash escapes for the following characters:
 <svg height="118" version="1.1" width="120" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; top: -0.0334473px;"><text style="text-anchor: middle; font: 15px arial;" x="54" y="16" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="15px"><tspan dy="5">Gmaj7</tspan></text><path style="" fill="none" stroke="#4d3ca0" d="M14,36L94,36" stroke-width="3"/><path style="" fill="none" stroke="#000000" d="M14,36L94,36"/><path style="" fill="none" stroke="#000000" d="M14,52L94,52"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">1</tspan></text><path style="" fill="none" stroke="#000000" d="M14,68L94,68"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">2</tspan></text><path style="" fill="none" stroke="#000000" d="M14,84L94,84"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">3</tspan></text><path style="" fill="none" stroke="#000000" d="M14,100L94,100"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="92" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">4</tspan></text><path style="" fill="none" stroke="#000000" d="M14,36L14,108"/><path style="" fill="none" stroke="#000000" d="M30,36L30,108"/><path style="" fill="none" stroke="#000000" d="M46,36L46,108"/><path style="" fill="none" stroke="#000000" d="M62,36L62,108"/><path style="" fill="none" stroke="#000000" d="M78,36L78,108"/><path style="" fill="none" stroke="#000000" d="M94,36L94,108"/><circle cx="14" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="14" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">3</tspan></text><circle cx="30" cy="60" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="30" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">2</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="46" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="62" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="78" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><circle cx="94" cy="60" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="94" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">1</tspan></text></svg>
 <svg height="118" version="1.1" width="120" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; top: -0.0334473px;"><text style="text-anchor: middle; font: 15px arial;" x="54" y="16" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="15px"><tspan dy="5">Gm</tspan></text><path style="" fill="none" stroke="#4d3ca0" d="M14,36L94,36" stroke-width="3"/><path style="" fill="none" stroke="#000000" d="M14,36L94,36"/><path style="" fill="none" stroke="#000000" d="M14,52L94,52"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">1</tspan></text><path style="" fill="none" stroke="#000000" d="M14,68L94,68"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">2</tspan></text><path style="" fill="none" stroke="#000000" d="M14,84L94,84"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">3</tspan></text><path style="" fill="none" stroke="#000000" d="M14,100L94,100"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="92" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">4</tspan></text><path style="" fill="none" stroke="#000000" d="M14,36L14,108"/><path style="" fill="none" stroke="#000000" d="M30,36L30,108"/><path style="" fill="none" stroke="#000000" d="M46,36L46,108"/><path style="" fill="none" stroke="#000000" d="M62,36L62,108"/><path style="" fill="none" stroke="#000000" d="M78,36L78,108"/><path style="" fill="none" stroke="#000000" d="M94,36L94,108"/><circle cx="14" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="14" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">2</tspan></text><circle cx="30" cy="44" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="30" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">1</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="46" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="62" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><circle cx="78" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="78" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">3</tspan></text><circle cx="94" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="94" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">4</tspan></text></svg>
 <svg height="118" version="1.1" width="120" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; top: -0.0333252px;"><text style="text-anchor: middle; font: 15px arial;" x="54" y="16" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="15px"><tspan dy="5">G</tspan></text><path style="" fill="none" stroke="#4d3ca0" d="M14,36L94,36" stroke-width="3"/><path style="" fill="none" stroke="#000000" d="M14,36L94,36"/><path style="" fill="none" stroke="#000000" d="M14,52L94,52"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="44" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">1</tspan></text><path style="" fill="none" stroke="#000000" d="M14,68L94,68"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">2</tspan></text><path style="" fill="none" stroke="#000000" d="M14,84L94,84"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">3</tspan></text><path style="" fill="none" stroke="#000000" d="M14,100L94,100"/><text style="text-anchor: middle; font: 12px arial;" x="110" y="92" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="12px"><tspan dy="4">4</tspan></text><path style="" fill="none" stroke="#000000" d="M14,36L14,108"/><path style="" fill="none" stroke="#000000" d="M30,36L30,108"/><path style="" fill="none" stroke="#000000" d="M46,36L46,108"/><path style="" fill="none" stroke="#000000" d="M62,36L62,108"/><path style="" fill="none" stroke="#000000" d="M78,36L78,108"/><path style="" fill="none" stroke="#000000" d="M94,36L94,108"/><circle cx="14" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="14" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">3</tspan></text><circle cx="30" cy="60" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="30" y="60" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">2</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="46" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="62" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><text style="text-anchor: middle; font: 9px arial;" x="78" y="28" text-anchor="middle" font="10px arial" stroke="none" fill="#000000" font-size="9px"><tspan dy="3.5">o</tspan></text><circle cx="94" cy="76" r="7" fill="#4d3ca0" stroke="#4d3ca0" style=""/><text style="text-anchor: middle; font: 12px arial;" x="94" y="76" text-anchor="middle" font="10px arial" stroke="none" fill="#ffffff" font-size="12px"><tspan dy="4">4</tspan></text></svg>
-</div><!--n:Самоучитель игры на гитаре/Таблица аккордов с табами:s:431732:e:348268-->
+</div><!--n:Самоучитель игры на гитаре/Таблица аккордов с табами:s:539680:e:348268-->
 <!----><!--2025-09-20 22:21:30-->Обучающий материал по игре на гитаре, 
 взятый из программы *Песенник* (или *Songbook*) от *Александра Руденко*.
-Тексты песен с аккордами загружены в базу [Аккордов](/songs.html "Аккорды и тексты песен").<!--n:Самоучитель игры на гитаре/about:s:780125:e:376-->
+Тексты песен с аккордами загружены в базу [Аккордов](/songs.html "Аккорды и тексты песен").<!--n:Самоучитель игры на гитаре/about:s:888073:e:376-->
