@@ -232,6 +232,11 @@ function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
 //
 function addTitlesRelsHtml(p, page_html, hdr_text, pid){
   (p.title[5]||[]).map(function(tit,i){
+    if(window.addYaRTB_Block && !document.getElementById('ya_rtb_'+p.i)) {
+      document.getElementById('page_content').innerHTML += 
+    '<div id="ya_rtb_'+p.i+ '" style="height:100px"></div>';
+      addYaRTB_Block('ya_rtb_'+p.i, YA_RTB['posts'], '', true);
+    }
     document.getElementById(pid).innerHTML += 
   (document.getElementById('rels_links') ? '' : ('<div id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</div>') )+
   '<div class="msgtext mw_f scroll small">'+
