@@ -235,7 +235,9 @@ function addTitlesRelsHtml(p, page_html, hdr_text, pid){
     if(window.addYaRTB_Block && !document.getElementById('ya_rtb_'+p.i)) {
       document.getElementById('page_content').innerHTML += 
     '<div id="ya_rtb_'+p.i+ '" style="height:100px"></div>';
-      addYaRTB_Block('ya_rtb_'+p.i, YA_RTB['posts'], '', true);
+      document.querySelectorAll("link[href^='static/css/"+p.url.split('/')[0]+"']").forEach(function(e){
+        addYaRTB_Block('ya_rtb_'+p.i, YA_RTB[p.url.split('/')[0]], '', e.href.search(p.url.split('/')[0]+'.dark.css')>-1);
+      });
     }
     document.getElementById(pid).innerHTML += 
   (document.getElementById('rels_links') ? '' : ('<div id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</div>') )+
