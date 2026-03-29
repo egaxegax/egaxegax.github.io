@@ -42,9 +42,6 @@
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
   '<div class="tcell vmid"><h1 id="foto_header">Подборка фоток на разные темы</h1></div>'+
-  '<div class="tcell tright vmid smaller1" style="width:100px">'+
-    '<select id="albumlist" style="max-width:80px"></select>&ensp;'+
-  '</div>'+
 '</div>';
   document.getElementById('page_content').innerHTML = addLoader(1);
 
@@ -125,6 +122,7 @@
     window.PAGE = {};
     PAGE.per = 1;
     PAGE.num =  urlParams().page||0;
+    PAGE.header = '<h1>Подборка <b><i>'+TITLES.length+'</i></b> фоток на разные темы </h1>';
     PAGE.fotos = TITLES.filter(function(tit){ return (tit[2] != 'about'); });
     PAGE.album = -1;
     PAGE.doctitle = (PAGE.fotos.length ? (PAGE.fotos[0][2] + ' / ' + SUBJ[PAGE.fotos[0][0]][0] + ' - ') : '') + document.title;
@@ -148,7 +146,8 @@
         }
       }
     }
-    document.getElementById('albumlist').innerHTML = '<option value="-1"'+(PAGE.album == -1 ? ' selected ' : '')+'> Все ['+TITLES.length+']</option>';
+    document.getElementById('page_header').innerHTML = '<div class="table"><div class="tcell vmid">'+PAGE.header+'</div><div class="tcell tright vmid smaller1" style="width:100px"><select id="albumlist" style="max-width:80px"></select>&ensp;</div>';
+    document.getElementById('albumlist').innerHTML = '<option value="-1"'+(PAGE.album == -1 ? ' selected ' : '')+'> Все </option>';
     for(var alb in SUBJ){ document.getElementById('albumlist').innerHTML += '<option value="'+SUBJ[alb][0]+'"'+(PAGE.album == alb ? ' selected ' : '')+'>'+SUBJ[alb][0]+' ['+(TITLES.filter(function(f){ return (f[0] == alb); })).length+']</option>'; }
     document.getElementById('albumlist').onchange = function(){ window.location = 'foto.html' + (this.options[this.selectedIndex].value == '-1' ? '' : '?' + tr(this.options[this.selectedIndex].value)); };
     document.getElementById('page_content').innerHTML = '';
