@@ -174,7 +174,7 @@
         if((PAGE.posts = PAGE.posts.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })).length){
           PAGE.header = '<h1>'+buildSubPath(ROOTS, SUBJ, PAGE.posts[0][0]) + '<i class="hspace light">('+ PAGE.posts.length +')</i><a class="nodecor" href="index.html?'+pp[0]+'/README"><i>Все</i></a></h1>';
           PAGE.about = TITLES.filter(function(tit){ return (tit[0] == PAGE.posts[0][0]) && (tit[4] == PAGE.posts[0][4]) && (tit[2] == 'about'); });
-          PAGE.posts = PAGE.posts.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
+          PAGE.posts = PAGE.posts.sort(function(a,b){ return arraySort(b[3],a[3]); }); // sort by date desc
           PAGE.posts = PAGE.about.concat(PAGE.posts); // +about page
           PAGE.doctitle = SUBJ[PAGE.posts[0][0]][0] + ', ' + ROOTS[SUBJ[PAGE.posts[0][0]][3]][0] + ' - ' + document.title;
           PAGE.view = 'list';
