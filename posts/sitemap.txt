@@ -188,6 +188,7 @@ https://egax.ru/index.html?chempionat/260321_0800
 https://egax.ru/index.html?chempionat/260322_0800
 https://egax.ru/index.html?chempionat/260323_0800
 https://egax.ru/index.html?chempionat/260324_0800
+https://egax.ru/index.html?chempionat/260329_1500
 https://egax.ru/index.html?chempionat/about
 https://egax.ru/index.html?chm_po_futbolu
 https://egax.ru/index.html?chm_po_futbolu/about
@@ -2745,6 +2746,7 @@ https://egax.ru/index.html?habr/chtoby_vzlomat_nejroset_dostatochno_napisat_zapr
 https://egax.ru/index.html?habr/claude_budet_sozdavat_i_redaktirovat_excel_powerpoint_docs_i_pdf
 https://egax.ru/index.html?habr/claude_code_teper_mojno_zapuskat_s_lokalnymi_open-source_modelyami
 https://egax.ru/index.html?habr/claude_opus_4_5_vozglavil_rejting_ii-programmistov_swe-rebench_s_rezultatom_63
+https://egax.ru/index.html?habr/claude_ot_anthropic_vzletaet_sredi_platyashchih_polzovatelej
 https://egax.ru/index.html?habr/cloud_ru_zapustil_oblachnyj_servis_evolution_managed_arenadata_db
 https://egax.ru/index.html?habr/cloudflare_predstavila_politiku_content_signals_policy_dlya_upravleniya_dostupom_k_kontentu_sajtov
 https://egax.ru/index.html?habr/cloudflare_predstavila_sobstvennyj_stejblkoin_net_dollar_prednaznachennyj_dlya_tranzakcij_bez_uchastiya_cheloveka
@@ -3742,6 +3744,7 @@ https://egax.ru/index.html?habr/v_servise_aktivnost_pylcy_ot_yandeks_pogody_poya
 https://egax.ru/index.html?habr/v_set_utekla_chast_ishodnogo_koda_minecraft_dlya_ps3_ps4_xbox_360_i_xbox_one
 https://egax.ru/index.html?habr/v_sonos_naznachili_vremennogo_generalnogo_direktora_posle_uvolneniya_patrika_spensa
 https://egax.ru/index.html?habr/v_ssha_arestovali_20-letnego_podozrevaemogo_v_prodaje_ukradennyh_lichnyh_dannyh_abonentov_atampt_i_verizon
+https://egax.ru/index.html?habr/v_ssha_vladelcy_ispolzujut_ii_dlya_poiska_propavshih_pitomcev
 https://egax.ru/index.html?habr/v_steam_prohodit_tematicheskij_festival_posvyashchennyj_strategiyam_v_realnom_vremeni
 https://egax.ru/index.html?habr/v_stenfordskom_universitete_usovershenstvovali_platformu_dlya_ozvuchivaniya_myslennoj_rechi_pacientov
 https://egax.ru/index.html?habr/v_telegram_wallet_poyavilas_birja_tokenizirovannyh_akcij_amerikanskih_kompanij_i_fondov
@@ -3813,6 +3816,7 @@ https://egax.ru/index.html?habr/vremya_jizni_vselennoj_konechno_utverjdaet_issle
 https://egax.ru/index.html?habr/vsled_za_neskolkimi_aviakompaniyami_funkciya_airtag_po_uteryannomu_bagaju_rasshiryaetsya_i_na_china_airlines
 https://egax.ru/index.html?habr/vypusk_distributiva_dlya_organizacii_raboty_virtualnyh_serverov_proxmox_ve_9_1
 https://egax.ru/index.html?habr/vypusk_interfejsa_dlya_uproshcheniya_nastrojki_parametrov_seti_networkmanager_1_56
+https://egax.ru/index.html?habr/vypusk_os_micropythonos_090_s_gui_dlya_mikrokontrollerov_tipa_esp32_na_baze_instrumentariya_micropython
 https://egax.ru/index.html?habr/vypuskniki_stenforda_obnarujili_chto_ih_diplomy_bolshe_ne_garantirujut_trudoustrojstvo_iz-za_ii
 https://egax.ru/index.html?habr/vyshel_chrome_133
 https://egax.ru/index.html?habr/vyshel_clockbench_vizualnyj_benchmark_dlya_ocenki_umeniya_modelej_polzovatsya_analogovymi_chasami
@@ -4063,6 +4067,7 @@ https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_evakuaciya_na
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_evakuaciya_rossijskie_vojska_proryvajutsya_v_dnepropetrovskoj_obl_15_09_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_faby_mnogo_vzyali_kleban-byk_filiju_srednee_25_08_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_front_ruhnul_rossijskaya_armiya_beret_po_50_kv_km_v_den_26_07_25
+https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_iran_skazal_net_ultimatumu_950_dronov_po_ukraine_za_sutki_250326
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_iz_vsu_ubegajut_po_30_chelovek_v_chas_berut_volchansk_i_pokrovsk_07_11_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_izmeneniya_po_ls_za_nedelju_prodvijenie_vsrf_udar_po_zaporojju_240226
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_izmeneniya_po_ls_za_nedelju_prodvijenie_vsrf_udar_po_zaporojju_24_02_26
@@ -4085,6 +4090,7 @@ https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kupyansk_skor
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_liman_vse_davos_-_zelenskij_priletel_lebedinogo_ozera_zapretili_22_01_26
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_meshki_v_pokrovske_i_kupyanske_vsu_opyat_vojuet_v_poluokrujenii_18_09_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_meshok_smerti_v_mirnograde_seversk_kollaps_oborony_vsu_09_12_25
+https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_300_tys_chelovek_v_god_na_ukraine_repressii_ssha_270326
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_4_tes_na_ukraine_proryv_na_liman_7_km_pokrovsk_unichtojenie_vsu_30_10_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_chasov_yar_minus_pokrovsk_-_boi_v_centre_obval_flanga_31_07_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_doneckaya_oblast_zelenskij_ne_hochet_tramp_uje_reshil_09_08
@@ -4172,6 +4178,7 @@ https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tec5_vse_udar
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tec5_vse_udaro_po_zaporojju_11_tys_bez_sveta_kontrataka_na_styke_11_02_26
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_terakt_v_gostinice_budanov_glava_op_vsrf_v_moskovke_02_01_26
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_terror_ukrainskoj_elity_zapret_cerkvi_tankovaya_ataka_na_orehov_02_09_25
+https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tramp_hochet_iranskuju_neft_vzyali_potapovku_i_nikiforovku_260326
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tramp_nanosit_udar_po_zelenskomu_minus_koshelek_vsya_frakciya_27_12_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tramp_skazal_spasibo_putinu_karateli_tck_zverstvujut_na_ukraine_04_02_26
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ubijstvo_charli_kirka_pvo_polshi_probili_prodvijeniya_vsrf_11_09_25
@@ -6274,6 +6281,7 @@ https://egax.ru/index.html?mir_kino/film_begushchij_chelovek_the_running_man_ekr
 https://egax.ru/index.html?mir_kino/film_bezjalostnaya_stone_cold_fox
 https://egax.ru/index.html?mir_kino/film_bezymyannaya_romanticheskaya_istoriya_o_vtorjenii_v_dom_untitled_home_invasion_romance
 https://egax.ru/index.html?mir_kino/film_boje_kak_smeshno_oh_what_fun
+https://egax.ru/index.html?mir_kino/film_bts_vozvrashchenie_bts_the_return
 https://egax.ru/index.html?mir_kino/film_celi_v_otnosheniyah_relationship_goals
 https://egax.ru/index.html?mir_kino/film_den_pitera_hudjara_peter_hujar_s_day
 https://egax.ru/index.html?mir_kino/film_djej_kelli_jay_kelly
@@ -6293,6 +6301,7 @@ https://egax.ru/index.html?mir_kino/film_klyk_2_gorod_volkov_muzzle_city_of_wolv
 https://egax.ru/index.html?mir_kino/film_krik_7_scream_7
 https://egax.ru/index.html?mir_kino/film_lakomyj_kusok_the_rip
 https://egax.ru/index.html?mir_kino/film_ljubimaya_uchenica_ljubimica_uchitelya_teacher_s_pet
+https://egax.ru/index.html?mir_kino/film_majk_i_nik_i_nik_i_elis_mike_nick_nick_alice
 https://egax.ru/index.html?mir_kino/film_mat_muh_mother_of_flies
 https://egax.ru/index.html?mir_kino/film_merv_merf_merv
 https://egax.ru/index.html?mir_kino/film_miloserdie_kaznit_nelzya_pomilovat_mercy
@@ -6306,9 +6315,12 @@ https://egax.ru/index.html?mir_kino/film_odinokij_samuraj_lone_samurai
 https://egax.ru/index.html?mir_kino/film_ograblenie_v_los-andjelese_crime_101
 https://egax.ru/index.html?mir_kino/film_ohotnik_the_huntsman
 https://egax.ru/index.html?mir_kino/film_oskar_shou_oscar_shaw
+https://egax.ru/index.html?mir_kino/film_ostrye_kozyrki_bessmertnyj_chelovek_peaky_blinders_the_immortal_man
 https://egax.ru/index.html?mir_kino/film_otpusk_na_dvoih_people_we_meet_on_vacation
+https://egax.ru/index.html?mir_kino/film_proekt_konec_sveta_project_hail_mary_ekranka
 https://egax.ru/index.html?mir_kino/film_proshchaj_djun_goodbye_june
 https://egax.ru/index.html?mir_kino/film_protokol_vyhoda_exit_protocol
+https://egax.ru/index.html?mir_kino/film_smertelno_prekrasna_pretty_lethal
 https://egax.ru/index.html?mir_kino/film_sny_poezdov_train_dreams
 https://egax.ru/index.html?mir_kino/film_sobachij_patrul_operaciya_santa_lapkus_dog_patrol_operation_santa_paws
 https://egax.ru/index.html?mir_kino/film_syn_plotnika_the_carpenter_s_son
@@ -6377,6 +6389,7 @@ https://egax.ru/index.html?mir_kino/samye_bolshie_kassovye_provaly_nulevyh
 https://egax.ru/index.html?mir_kino/semjuel_l_djekson_-_glavnyj_fanat_lourensa_fishberna
 https://egax.ru/index.html?mir_kino/serial_bolnica_pitt_2_sezon_10_seriya_the_pitt
 https://egax.ru/index.html?mir_kino/serial_bolnica_pitt_2_sezon_11_seriya_the_pitt
+https://egax.ru/index.html?mir_kino/serial_bolnica_pitt_2_sezon_12_seriya_the_pitt
 https://egax.ru/index.html?mir_kino/serial_bolnica_pitt_2_sezon_1_seriya_the_pitt
 https://egax.ru/index.html?mir_kino/serial_bolnica_pitt_2_sezon_2_seriya_the_pitt
 https://egax.ru/index.html?mir_kino/serial_bolnica_pitt_2_sezon_3_seriya_the_pitt
@@ -6392,6 +6405,7 @@ https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_12_seriya_h
 https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_13_seriya_high_potential
 https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_14_seriya_high_potential
 https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_15_seriya_high_potential
+https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_16_seriya_high_potential
 https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_6_seriya_high_potential
 https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_7_seriya_high_potential
 https://egax.ru/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_8_seriya_high_potential
@@ -6408,6 +6422,7 @@ https://egax.ru/index.html?mir_kino/serial_follaut_2_sezon_8_seriya_iz_8_fallout
 https://egax.ru/index.html?mir_kino/serial_klinika_10_sezon_3_seriya_scrubs
 https://egax.ru/index.html?mir_kino/serial_klinika_10_sezon_4_seriya_scrubs
 https://egax.ru/index.html?mir_kino/serial_klinika_10_sezon_5_seriya_scrubs
+https://egax.ru/index.html?mir_kino/serial_klinika_10_sezon_6_seriya_scrubs
 https://egax.ru/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_1_seriya_it_welcome_to_derry
 https://egax.ru/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_2_seriya_it_welcome_to_derry
 https://egax.ru/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_3_seriya_it_welcome_to_derry
@@ -6416,6 +6431,7 @@ https://egax.ru/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_5
 https://egax.ru/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_6_seriya_it_welcome_to_derry
 https://egax.ru/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_7_seriya_it_welcome_to_derry
 https://egax.ru/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_8_seriya_iz_8_it_welcome_to_derry
+https://egax.ru/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_1_seriya_daredevil_born_again
 https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_1_seriya_shrinking
 https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_2_seriya_shrinking
 https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_3_seriya_shrinking
@@ -6424,6 +6440,7 @@ https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_5_seriya_shrinking
 https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_6_seriya_shrinking
 https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_7_seriya_shrinking
 https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_8_seriya_shrinking
+https://egax.ru/index.html?mir_kino/serial_terapiya_3_sezon_9_seriya_shrinking
 https://egax.ru/index.html?mir_kino/serial_ubijstva_v_odnom_zdanii_5_sezon_10_seriya_iz_10_only_murders_in_the_building
 https://egax.ru/index.html?mir_kino/serial_ubijstva_v_odnom_zdanii_5_sezon_9_seriya_only_murders_in_the_building
 https://egax.ru/index.html?mir_kino/serial_utrennee_shou_4_sezon_10_seriya_iz_10_the_morning_show
@@ -9376,6 +9393,7 @@ https://egax.ru/index.html?rok-muzyka/rasslablyajushchaya_muzyka_v_stile_kantri_
 https://egax.ru/index.html?rok-muzyka/rasslablyajushchij_djaz_-_retro-vintajnaya_osennyaya_atmosfera_1940-h_-
 https://egax.ru/index.html?rok-muzyka/rasslablyajushchij_vintajnyj_djaz_ujutnaya_zimnyaya_retro-klassika_1950-h_godov_nostalgicheskie_fljuidy
 https://egax.ru/index.html?rok-muzyka/rasslablyajushchij_vintajnyj_djaz_ujutnaya_zimnyaya_retro-klassika_1950-h_godov_nostalgicheskie_fljuidy
+https://egax.ru/index.html?rok-muzyka/rasta_life_dub_reggae_ganja_mix_of_peace_and_unity_get-savecom
 https://egax.ru/index.html?rok-muzyka/ritm-end-bljuz_soul_i_djazovaya_dusha_ljubovnyj_miks_ot_teplogo_briza_dlya_spokojnyh_nochej
 https://egax.ru/index.html?rok-muzyka/ritm-end-bljuz_soul_i_djazovaya_dusha_plavnyj_potok_djazovoj_ljubvi
 https://egax.ru/index.html?rok-muzyka/rojdennyj_so_srednim_palcem_plejlist_dark_country
@@ -10214,6 +10232,7 @@ https://egax.ru/index.html?tajny/legenda_o_sboe_v_cern_v_2008_godu
 https://egax.ru/index.html?tajny/licom_k_gorodu_vstrecha_s_podpischikami
 https://egax.ru/index.html?tajny/luna_-_eto_inoplanetnyj_korabl_dlya_podderjaniya_jizni_na_zemle_luna_iskusstvennaya
 https://egax.ru/index.html?tajny/luna_mojet_dejstvitelno_okazatsya_iskusstvennoj
+https://egax.ru/index.html?tajny/luna_tresnula_i_razdelilas_na_dve_chasti__drevnyaya_legenda_raskryvaet_nastoyashchuju_istoriju_luny
 https://egax.ru/index.html?tajny/luna_tresnula_i_razdelilas_na_dve_chasti_drevnyaya_legenda_raskryvaet_nastoyashchuju_istoriju_luny
 https://egax.ru/index.html?tajny/lunu_pritashchili_k_zemle_dlya_slejeniya_za_nashej_civilizaciej
 https://egax.ru/index.html?tajny/lunu_schitajut_iskusstvennoj_stanciej_zemli
@@ -10274,6 +10293,7 @@ https://egax.ru/index.html?tajny/ochevidec_sluchajno_smog_zasnyat_bigfuta_v_lesu
 https://egax.ru/index.html?tajny/ogromnaya_planeta_ryadom_s_lunoj_nochnoe_nebo_i_solnce_izmenilis_anomalii_v_solnechnoj_sisteme
 https://egax.ru/index.html?tajny/ohotniki_natknulis_na_jivogo_dinozavra_v_yakutskih_lesah
 https://egax.ru/index.html?tajny/on_govoril_chto_nasha_strana_raspadetsya_-_istoriya_o_cheloveke_iz_50-h_s_urala_kotoryj_zagadochno_ischez
+https://egax.ru/index.html?tajny/on_peresek_zabor_avstralii_i_sfotografiroval_drugie_zemli_tajna_ischeznoveniya_alfreda_middltona
 https://egax.ru/index.html?tajny/on_pobyval_vnutri_zemli_i_sfotografiroval_podzemnyj_mir_tajna_ekspedicii_genri_frensisa_bartolomju
 https://egax.ru/index.html?tajny/on_projil_20_let_v_podzemnom_mire_i_vernulsya_molodym_s_kem_stolknulis_shahtery_pod_zemlej
 https://egax.ru/index.html?tajny/on_projil_20_let_v_podzemnom_mire_i_vernulsya_molodym_s_kem_stolknulis_shahtery_pod_zemlej
@@ -10288,6 +10308,7 @@ https://egax.ru/index.html?tajny/oon_oficialno_aktivirovali_rejim_planetarnoj_ob
 https://egax.ru/index.html?tajny/ordy_i_hudojniki_za_moskvoj_rekoj
 https://egax.ru/index.html?tajny/ot_borovickoj_k_sapojku
 https://egax.ru/index.html?tajny/passajir_samoleta_obnarujil_na_foto_treugolnoe_nlo_posle_poleta
+https://egax.ru/index.html?tajny/paveleckaya_-_chto_za_strannoe_nazvanie
 https://egax.ru/index.html?tajny/pered_dekabrskim_sblijeniem_3i_atlas_demonstriruet_anomalii_kotoryh_ne_byvaet_u_komet
 https://egax.ru/index.html?tajny/petrovka_38_i_ne_tolko
 https://egax.ru/index.html?tajny/pilotiruemaya_missiya_na_mars_yakoby_sostoyalas_v_1973_godu

@@ -14574,3 +14574,190 @@
     <i class="smaller3">2026-01-06</i>
   </div>
 </div><!--n:Компьютерные игры/Sorrow Asylum 3-ПРОХОЖДЕНИЕ ХОРРОРА - Психушка, в которой застрял твой разум Без комментариев:s:1297387:e:906-->
+<!----><!--2026-03-25 19:39:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_iran_skazal_net_ultimatumu_950_dronov_po_ukraine_za_sutki_250326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/588ba41fb478f92862a8a1e04ef353c6/" src="http://pic.rtbcdn.ru/video/2026-03-25/76/54/76542d7590e85046f17ed2db817fc323.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_iran_skazal_net_ultimatumu_950_dronov_po_ukraine_za_sutki_250326">Украинский фронт - Иран сказал нет ультиматуму. 950 дронов по Украине за сутки. 25.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-25</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Иран сказал нет ультиматуму. 950 дронов по Украине за сутки. 25.03.26:s:1298511:e:891-->
+<!----><!--2026-03-27 20:12:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_300_tys_chelovek_v_god_na_ukraine_repressii_ssha_270326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/84f6490d90a4f60406e519ae75551ce5/" src="http://pic.rtbcdn.ru/video/2026-03-27/f8/9f/f89fc043ed5298d99f3170eb003715c9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_300_tys_chelovek_v_god_na_ukraine_repressii_ssha_270326">Украинский фронт - минус 300 тыс. человек в год на Украине. Репрессии США. 27.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-27</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - минус 300 тыс. человек в год на Украине. Репрессии США. 27.03.26:s:1299614:e:874-->
+<!----><!--2026-03-26 19:47:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tramp_hochet_iranskuju_neft_vzyali_potapovku_i_nikiforovku_260326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0b1b9cacc37493ad2aa6162f3e0f93f8/" src="http://pic.rtbcdn.ru/video/2026-03-26/7b/3f/7b3f74a35301bbb31bdd88bca00ac70f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tramp_hochet_iranskuju_neft_vzyali_potapovku_i_nikiforovku_260326">Украинский фронт - Трамп хочет иранскую нефть. Взяли Потаповку и Никифоровку. 26.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-26</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Трамп хочет иранскую нефть. Взяли Потаповку и Никифоровку. 26.03.26:s:1300689:e:894-->
+<!----><!--2026-03-25 23:53:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_16_seriya_high_potential">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b879421ee63d0664a36189feba34e353/" src="http://pic.rtbcdn.ru/video/2026-03-25/26/9b/269b4b1b4c6791dd28e19c44408c664f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_16_seriya_high_potential">Сериал Большой потенциал 2 сезон 16 серия / High Potential</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-25</i>
+  </div>
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 16 серия High Potential:s:1301796:e:792-->
+<!----><!--2026-03-25 23:49:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_9_seriya_shrinking">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dfce98a6f36a306df8a33e35f9efec6d/" src="http://pic.rtbcdn.ru/video/2026-03-25/40/bb/40bb2519dd7884e018d6557e4d22c2ea.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_9_seriya_shrinking">Сериал Терапия 3 сезон 9 серия / Shrinking</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-25</i>
+  </div>
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 9 серия Shrinking:s:1302718:e:737-->
+<!----><!--2026-03-26 08:45:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_ostrye_kozyrki_bessmertnyj_chelovek_peaky_blinders_the_immortal_man">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/61a88e7be6d9ae4c1cc1678cd77972af/" src="http://pic.rtbcdn.ru/video/2026-03-26/8e/4c/8e4ca73c38a31ae5868defa3389360f1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_ostrye_kozyrki_bessmertnyj_chelovek_peaky_blinders_the_immortal_man">Фильм Острые козырьки: Бессмертный человек / Peaky Blinders: The Immortal Man</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-26</i>
+  </div>
+</div><!--n:Мир кино/Фильм Острые козырьки Бессмертный человек Peaky Blinders The Immortal Man:s:1303560:e:846-->
+<!----><!--2026-03-27 21:12:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_6_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e198c818d9155ed8ee8782e0b0fa69e4/" src="http://pic.rtbcdn.ru/video/2026-03-27/b0/c4/b0c43d8ef53c05410fb890ae414b802a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_6_seriya_scrubs">Сериал Клиника 10 сезон 6 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-27</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 6 серия Scrubs:s:1304558:e:729-->
+<!----><!--2026-03-26 08:53:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_smertelno_prekrasna_pretty_lethal">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9c555382913fba38d63b1c6e5be5534b/" src="http://pic.rtbcdn.ru/video/2026-03-26/00/5b/005b7e91147d57cb7e3e0d0aa092b932.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_smertelno_prekrasna_pretty_lethal">Фильм Смертельно прекрасна / Pretty Lethal</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-26</i>
+  </div>
+</div><!--n:Мир кино/Фильм Смертельно прекрасна Pretty Lethal:s:1305390:e:730-->
+<!----><!--2026-03-27 18:42:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_proekt_konec_sveta_project_hail_mary_ekranka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6ce807e9e7e816263a6e495aea6bd9af/" src="http://pic.rtbcdn.ru/video/2026-03-27/8c/73/8c737980277683b9b9e9633f1caefb73.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_proekt_konec_sveta_project_hail_mary_ekranka">Фильм Проект «Конец света» / Project Hail Mary | Экранка</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-27</i>
+  </div>
+</div><!--n:Мир кино/Фильм Проект Конец света Project Hail Mary Экранка:s:1306226:e:772-->
+<!----><!--2026-03-29 09:36:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_bts_vozvrashchenie_bts_the_return">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/69d2fbcaf00c69e01c3bfb833529cdd1/" src="http://pic.rtbcdn.ru/video/2026-03-29/d7/1d/d71de11c71e9f6561a7e77e7e34f9e16.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_bts_vozvrashchenie_bts_the_return">Фильм BTS: Возвращение / BTS: The Return</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-29</i>
+  </div>
+</div><!--n:Мир кино/Фильм BTS Возвращение BTS The Return:s:1307118:e:720-->
+<!----><!--2026-03-27 16:37:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_1_seriya_daredevil_born_again">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/14e8e555527634c1ba80969491216b90/" src="http://pic.rtbcdn.ru/video/2026-03-27/38/8d/388d5448dea32e8923e21934c3c7782b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_1_seriya_daredevil_born_again">Сериал Сорвиголова: Рожденный заново 2 сезон 1 серия / Daredevil: Born Again</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-27</i>
+  </div>
+</div><!--n:Мир кино/Сериал Сорвиголова Рожденный заново 2 сезон 1 серия Daredevil Born Again:s:1307932:e:852-->
+<!----><!--2026-03-28 10:29:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_majk_i_nik_i_nik_i_elis_mike_nick_nick_alice">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e8c30ba8708850935a8f2c131bef9077/" src="http://pic.rtbcdn.ru/video/2026-03-28/82/4b/824b9880f621500210f0337fd37244a2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_majk_i_nik_i_nik_i_elis_mike_nick_nick_alice">Фильм Майк и Ник и Ник и Элис / Mike & Nick & Nick & Alice</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-28</i>
+  </div>
+</div><!--n:Мир кино/Фильм Майк и Ник и Ник и Элис Mike Nick Nick Alice:s:1308940:e:766-->
+<!----><!--2026-03-27 19:21:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_12_seriya_the_pitt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e1180dd25a076ec19b9dae79deb95f32/" src="http://pic.rtbcdn.ru/video/2026-03-27/63/da/63daade67a7312004c032bdc51ff6d9e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_12_seriya_the_pitt">Сериал Больница Питт 2 сезон 12 серия / The Pitt</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-27</i>
+  </div>
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 12 серия The Pitt:s:1309820:e:756-->
+<!----><!--2026-03-29 15:02:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/on_peresek_zabor_avstralii_i_sfotografiroval_drugie_zemli_tajna_ischeznoveniya_alfreda_middltona">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/08edc147698c9c365748a31f552208a7/" src="http://pic.rtbcdn.ru/video/2025-10-25/1b/c0/1bc02d82bf937536c9093c923f98a33a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/on_peresek_zabor_avstralii_i_sfotografiroval_drugie_zemli_tajna_ischeznoveniya_alfreda_middltona">Он пересек Забор Австралии и сфотографировал другие земли. Тайна исчезновения Альфреда Миддлтона</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-29</i>
+  </div>
+</div><!--n:Тайны/Он пересек Забор Австралии и сфотографировал другие земли. Тайна исчезновения Альфреда Миддлтона:s:1310692:e:916-->
+<!----><!--2026-03-27 21:36:46-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/paveleckaya_-_chto_za_strannoe_nazvanie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8d3ff51d73a699e977caa4eaef3ecf67/" src="http://pic.rtbcdn.ru/video/2026-03-27/0a/e6/0ae6ffa24d76b7278b2518a8c363b325.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/paveleckaya_-_chto_za_strannoe_nazvanie">ПАВЕЛЕЦКАЯ - ЧТО ЗА СТРАННОЕ НАЗВАНИЕ?</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-03-27</i>
+  </div>
+</div><!--n:Тайны/ПАВЕЛЕЦКАЯ - ЧТО ЗА СТРАННОЕ НАЗВАНИЕ:s:1311825:e:705-->
+<!----><!--2026-03-29 15:00:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/luna_tresnula_i_razdelilas_na_dve_chasti__drevnyaya_legenda_raskryvaet_nastoyashchuju_istoriju_luny">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/96287725f72468c5518faad826d54974/" src="http://pic.rtbcdn.ru/video/2025-11-15/25/62/256268dda987fbc7d8aee2913f04851a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/luna_tresnula_i_razdelilas_na_dve_chasti__drevnyaya_legenda_raskryvaet_nastoyashchuju_istoriju_luny">"Луна треснула и разделилась на две части". Древняя легенда раскрывает настоящую историю Луны?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-29</i>
+  </div>
+</div><!--n:Тайны/Луна треснула и разделилась на две части . Древняя легенда раскрывает настоящую историю Луны:s:1312635:e:914-->
+<!----><!--2026-03-26 19:15:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/rasta_life_dub_reggae_ganja_mix_of_peace_and_unity_get-savecom">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5e7e7cc3817dffbf67b343ea975b30e0/" src="http://static.rutubelist.ru/static/img/default-music.png" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/rasta_life_dub_reggae_ganja_mix_of_peace_and_unity_get-savecom">Rasta Life Dub Reggae Ganja Mix of Peace and Unity [get-save.com]</a></p>
+    <p><i class="smaller2">Спи с Дилли</i></p>
+    <i class="smaller3">2026-03-26</i>
+  </div>
+</div><!--n:Рок-музыка/Rasta Life Dub Reggae Ganja Mix of Peace and Unity get-save.com:s:1313756:e:713-->
