@@ -139,7 +139,7 @@ def main(path='.'):
         name = fname + '.md'
         ext = '.md'
       
-      if cwd in ('foto',) and ext.lower() in ('.jpg',):
+      if cwd in ('foto', 'fotosite') and ext.lower() in ('.jpg',):
         ftime = os.path.getmtime(os.path.join(root, name))
         if subj == 'th': # skip preview
           addskipped(subj)
@@ -181,7 +181,7 @@ def main(path='.'):
       if root == path:
         continue
 
-      if 'README' in name and cwd in ('books', 'posts', 'songs', 'foto'):
+      if 'README' in name and cwd in ('books', 'posts', 'songs', 'foto', 'fotosite'):
         mfiles += readmetoindex(os.path.join(root, name))
       else:
         continue

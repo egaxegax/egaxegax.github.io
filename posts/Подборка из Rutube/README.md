@@ -2495,6 +2495,17 @@
     <i class="smaller3">2026-01-16</i>
   </div>
 </div><!--n:Тайны/В ГОСТЯХ У ГАРМОНИСТА:s:207952:e:641-->
+<!----><!--2026-03-22 13:48:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ya_ne_veril_v_eto_poka_sam_ne_uvidel_rasskaz_ochevidca_o_zabore_avstralii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4ae2892df21b3bb0dd24a7d8f8f4b82c/" src="http://pic.rtbcdn.ru/video/2025-02-12/9d/b7/9db7fa17871be10da783cc0a5a83554a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ya_ne_veril_v_eto_poka_sam_ne_uvidel_rasskaz_ochevidca_o_zabore_avstralii">"Я не верил в это, пока сам не увидел": Рассказ Очевидца о Заборе Австралии</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Я не верил в это, пока сам не увидел Рассказ Очевидца о Заборе Австралии:s:208668:e:823-->
 <!----><!--2025-12-09 19:16:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1991_godu_yakoby_nashli_vtoruju_tisulskuju_princessu_no_vse_zaputannee_chem_kajetsya">
@@ -2505,7 +2516,29 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Тайны/в 1991 году якобы нашли вторую тисульскую принцессу но всё запутаннее чем кажется:s:208668:e:872-->
+</div><!--n:Тайны/в 1991 году якобы нашли вторую тисульскую принцессу но всё запутаннее чем кажется:s:209657:e:872-->
+<!----><!--2026-03-24 12:49:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/oni_chto-to_znajut_sboj_chastot_shumana_magnitnye_anomalii_lazery_v_antarktide_voennye_manevry_v_ssha">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/348a9b2ebd6b2c152913ca6da3d7b53d/" src="http://pic.rtbcdn.ru/video/2025-11-09/47/53/4753adf0bf7f538453526f132f8ad158.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/oni_chto-to_znajut_sboj_chastot_shumana_magnitnye_anomalii_lazery_v_antarktide_voennye_manevry_v_ssha">ОНИ ЧТО-ТО ЗНАЮТ: Сбой Частот Шумана, Магнитные Аномалии, Лазеры в Антарктиде, Военные Маневры в США</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/ОНИ ЧТО-ТО ЗНАЮТ Сбой Частот Шумана, Магнитные Аномалии, Лазеры в Антарктиде, Военные Маневры в США:s:210711:e:927-->
+<!----><!--2026-03-24 20:04:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/3i_atlas_proshel_vblizi_jupitera_i_astronomy_zametili_ryadom_s_nim_chetyre_nlo_na_toj_je_traektorii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2b422d463051b9db02d0e6bf00ad85de/" src="http://pic.rtbcdn.ru/video/2026-03-24/4b/fc/4bfc1ccb626ca4d88484df01b69aef4d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/3i_atlas_proshel_vblizi_jupitera_i_astronomy_zametili_ryadom_s_nim_chetyre_nlo_na_toj_je_traektorii">3i ATLAS прошёл вблизи Юпитера и астрономы заметили рядом с ним четыре НЛО на той же траектории</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/3i ATLAS прошёл вблизи Юпитера и астрономы заметили рядом с ним четыре НЛО на той же траектории:s:211854:e:909-->
 <!----><!--2025-12-04 15:29:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_podojdet_k_zemle_uje_menee_chem_cherez_dve_nedeli">
@@ -2516,7 +2549,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Тайны/3I ATLAS подойдёт к Земле уже менее чем через две недели:s:209722:e:760-->
+</div><!--n:Тайны/3I ATLAS подойдёт к Земле уже менее чем через две недели:s:212966:e:760-->
 <!----><!--2026-01-26 21:55:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kak_letajut_samolety_na_samom_dele">
@@ -2527,7 +2560,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-26</i>
   </div>
-</div><!--n:Тайны/Как летают самолёты на самом деле:s:210613:e:678-->
+</div><!--n:Тайны/Как летают самолёты на самом деле:s:213857:e:678-->
 <!----><!--2026-01-14 21:00:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/snimki_seryh_gumanoidov_v_meksike_do_sih_por_vyzyvajut_spory">
@@ -2538,7 +2571,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Тайны/Снимки серых гуманоидов в Мексике до сих пор вызывают споры:s:211388:e:781-->
+</div><!--n:Тайны/Снимки серых гуманоидов в Мексике до сих пор вызывают споры:s:214632:e:781-->
 <!----><!--2026-03-14 15:35:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kontinenty_nashej_yachejki_otrajajutsya_na_lune_versiya">
@@ -2549,7 +2582,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Континенты нашей ячейки отражаются на Луне Версия:s:212314:e:747-->
+</div><!--n:Тайны/Континенты нашей ячейки отражаются на Луне Версия:s:215558:e:747-->
 <!----><!--2025-12-08 18:52:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nevidimaya_sovetskaya_stanciya_na_orbite_v_1989_godu">
@@ -2560,7 +2593,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Тайны/Невидимая советская станция на орбите в 1989 году:s:213189:e:743-->
+</div><!--n:Тайны/Невидимая советская станция на орбите в 1989 году:s:216433:e:743-->
 <!----><!--2025-11-23 16:38:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zachem_postroili_velikuju_stenu_zemli_ot_poljusa_k_poljusu_vdol_180_meridiana_vse_versii">
@@ -2571,7 +2604,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-23</i>
   </div>
-</div><!--n:Тайны/Зачем построили Великую Стену Земли от полюса к полюсу вдоль 180 меридиана ВСЕ ВЕРСИИ:s:214055:e:879-->
+</div><!--n:Тайны/Зачем построили Великую Стену Земли от полюса к полюсу вдоль 180 меридиана ВСЕ ВЕРСИИ:s:217299:e:879-->
 <!----><!--2026-03-03 14:22:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_antarktide_turisty_kruiza_uvideli_korabl-prizrak_1911_goda">
@@ -2582,7 +2615,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Тайны/В Антарктиде туристы круиза увидели корабль-призрак 1911 года:s:215124:e:779-->
+</div><!--n:Тайны/В Антарктиде туристы круиза увидели корабль-призрак 1911 года:s:218368:e:779-->
 <!----><!--2025-12-05 19:59:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/cherez_dva_goda_ya_ponyal_kogo_podvez_voditel_lesovoza_vspominaet_ochen_strannyj_rejs_v_70-h">
@@ -2593,7 +2626,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Тайны/Через два года я понял кого подвёз Водитель лесовоза вспоминает очень странный рейс в 70-х:s:216049:e:901-->
+</div><!--n:Тайны/Через два года я понял кого подвёз Водитель лесовоза вспоминает очень странный рейс в 70-х:s:219293:e:901-->
 <!----><!--2025-11-23 16:37:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kollajder_aktiviroval_zvezdnye_vrata_drevnih_shumerov">
@@ -2604,7 +2637,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-23</i>
   </div>
-</div><!--n:Тайны/Коллайдер активировал Звездные Врата древних Шумеров:s:217149:e:754-->
+</div><!--n:Тайны/Коллайдер активировал Звездные Врата древних Шумеров:s:220393:e:754-->
 <!----><!--2026-01-20 00:04:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/grenlandiya_yavno_chto-to_skryvaet">
@@ -2615,7 +2648,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-20</i>
   </div>
-</div><!--n:Тайны/ГРЕНЛАНДИЯ явно что-то скрывает:s:218038:e:674-->
+</div><!--n:Тайны/ГРЕНЛАНДИЯ явно что-то скрывает:s:221282:e:674-->
 <!----><!--2025-11-24 14:07:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tri_luny_solnechnoe_zatmenie_okazalos_prikrytiem_bolee_masshtabnyh_sobytij_simpsony_toje_eto_znali">
@@ -2626,7 +2659,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Тайны/Три Луны Солнечное Затмение оказалось прикрытием более масштабных событий Симпсоны тоже это знали:s:218806:e:929-->
+</div><!--n:Тайны/Три Луны Солнечное Затмение оказалось прикрытием более масштабных событий Симпсоны тоже это знали:s:222050:e:929-->
 <!----><!--2026-02-03 21:30:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nashel_ochen_strannoe_podzemele">
@@ -2637,7 +2670,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-03</i>
   </div>
-</div><!--n:Тайны/НАШЁЛ ОЧЕНЬ СТРАННОЕ ПОДЗЕМЕЛЬЕ:s:219953:e:679-->
+</div><!--n:Тайны/НАШЁЛ ОЧЕНЬ СТРАННОЕ ПОДЗЕМЕЛЬЕ:s:223197:e:679-->
 <!----><!--2025-12-19 21:38:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/anunnaki_byli_bogami-reptiliyami_s_dalekih_zvezd">
@@ -2648,7 +2681,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/Ануннаки были богами-рептилиями с далеких звезд:s:220727:e:733-->
+</div><!--n:Тайны/Ануннаки были богами-рептилиями с далеких звезд:s:223971:e:733-->
 <!----><!--2026-03-16 11:28:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/eti_fotografii_eksperimentov_vatikana_po_peremeshcheniju_vo_vremeni_vyzyvajut_voprosy">
@@ -2659,7 +2692,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Эти фотографии экспериментов Ватикана по перемещению во времени вызывают вопросы:s:221584:e:865-->
+</div><!--n:Тайны/Эти фотографии экспериментов Ватикана по перемещению во времени вызывают вопросы:s:224828:e:865-->
 <!----><!--2025-12-05 21:10:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pod_plato_gizy_nashli_struktury_glubje_kilometra_sputnikovye_dannye_pokazali_na_gorod_pod_piramidami">
@@ -2670,7 +2703,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Тайны/Под плато Гизы нашли структуры глубже километра Спутниковые данные показали на город под пирамидами:s:222636:e:934-->
+</div><!--n:Тайны/Под плато Гизы нашли структуры глубже километра Спутниковые данные показали на город под пирамидами:s:225880:e:934-->
 <!----><!--2025-11-19 18:37:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kratkij_pereskaz_istorii_kontaktera_o_mire_za_ledyanoj_stenoj_antarktidy">
@@ -2681,7 +2714,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-19</i>
   </div>
-</div><!--n:Тайны/Краткий пересказ истории Контактера о мире за Ледяной Стеной Антарктиды:s:223791:e:825-->
+</div><!--n:Тайны/Краткий пересказ истории Контактера о мире за Ледяной Стеной Антарктиды:s:227035:e:825-->
 <!----><!--2026-02-07 10:00:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/plyvem_po_podzemnomu_morju">
@@ -2692,7 +2725,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-07</i>
   </div>
-</div><!--n:Тайны/ПЛЫВЕМ ПО ПОДЗЕМНОМУ МОРЮ:s:224785:e:657-->
+</div><!--n:Тайны/ПЛЫВЕМ ПО ПОДЗЕМНОМУ МОРЮ:s:228029:e:657-->
 <!----><!--2026-03-16 11:29:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/smartfon_v_nachale_20_veka_tajna_puteshestvennicy_vo_vremeni_iz_filma_charli_chaplina">
@@ -2703,7 +2736,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Смартфон в начале 20 века Тайна Путешественницы Во Времени из Фильма Чарли Чаплина:s:225525:e:865-->
+</div><!--n:Тайны/Смартфон в начале 20 века Тайна Путешественницы Во Времени из Фильма Чарли Чаплина:s:228769:e:865-->
 <!----><!--2026-03-14 07:44:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/preduprejdenie_iz_2317_goda_kapsula_vremeni_predskazala_sudbu_chelovechestva">
@@ -2714,7 +2747,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/ПРЕДУПРЕЖДЕНИЕ из 2317 года Капсула Времени предсказала судьбу человечества:s:226576:e:836-->
+</div><!--n:Тайны/ПРЕДУПРЕЖДЕНИЕ из 2317 года Капсула Времени предсказала судьбу человечества:s:229820:e:836-->
+<!----><!--2026-03-21 08:45:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_samolety_ne_letajut_cherez_tihij_okean">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/163451e035c25f5ecdc9f377a7233390/" src="http://pic.rtbcdn.ru/video/2025-10-26/55/57/5557d6328e9ae86eab2527a424250263.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_samolety_ne_letajut_cherez_tihij_okean">Почему самолеты не летают через Тихий океан?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Тайны/Почему самолеты не летают через Тихий океан:s:230830:e:717-->
 <!----><!--2025-12-31 00:16:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1976_godu_sovetskij_sputnik_zafiksiroval_v_tihom_okeane_gigantskuju_diskovidnuju_ten">
@@ -2725,7 +2769,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В 1976 году советский спутник зафиксировал в Тихом океане гигантскую дисковидную тень:s:227586:e:875-->
+</div><!--n:Тайны/В 1976 году советский спутник зафиксировал в Тихом океане гигантскую дисковидную тень:s:231663:e:875-->
 <!----><!--2026-03-06 21:23:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vokrug_elektrozavoda">
@@ -2736,7 +2780,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-03-06</i>
   </div>
-</div><!--n:Тайны/ВОКРУГ ЭЛЕКТРОЗАВОДА:s:228652:e:637-->
+</div><!--n:Тайны/ВОКРУГ ЭЛЕКТРОЗАВОДА:s:232729:e:637-->
 <!----><!--2026-02-20 18:54:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_napravlyaetsya_k_jupiteru_i_saturnu_gde_po_versii_ufologov_dobyvajut_resursy_drevnie_prishelcy">
@@ -2747,7 +2791,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/3I Atlas направляется к Юпитеру и Сатурну где по версии уфологов добывают ресурсы древние пришельцы:s:229364:e:928-->
+</div><!--n:Тайны/3I Atlas направляется к Юпитеру и Сатурну где по версии уфологов добывают ресурсы древние пришельцы:s:233441:e:928-->
 <!----><!--2025-11-06 14:48:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kitaj_opublikoval_pervyj_snimok_3i_atlas_i_budto_chto-to_skryl_foto_okazalos_razmytym">
@@ -2758,7 +2802,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Тайны/Китай опубликовал первый снимок 3I ATLAS и будто что-то скрыл фото оказалось размытым:s:230505:e:872-->
+</div><!--n:Тайны/Китай опубликовал первый снимок 3I ATLAS и будто что-то скрыл фото оказалось размытым:s:234582:e:872-->
 <!----><!--2026-01-15 20:04:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto_svyazyvaet_3i_atlas_i_proekt_ljucifer">
@@ -2769,7 +2813,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-15</i>
   </div>
-</div><!--n:Тайны/Что связывает 3i Atlas и Проект Люцифер:s:231563:e:702-->
+</div><!--n:Тайны/Что связывает 3i Atlas и Проект Люцифер:s:235640:e:702-->
 <!----><!--2026-03-17 14:34:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kollajder_mojet_slujit_motorom_dlya_mashiny_vremeni_vatikana">
@@ -2780,7 +2824,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-17</i>
   </div>
-</div><!--n:Тайны/Коллайдер может служить мотором для Машины Времени Ватикана:s:232366:e:780-->
+</div><!--n:Тайны/Коллайдер может служить мотором для Машины Времени Ватикана:s:236443:e:780-->
 <!----><!--2025-11-22 14:01:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kanadec_privez_iz_budushchego_jutkuju_kartu_zemli_chto_proizojdet_s_nashej_planetoj_v_2046_godu">
@@ -2791,7 +2835,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-22</i>
   </div>
-</div><!--n:Тайны/Канадец привез из будущего жуткую карту Земли Что произойдет с нашей планетой в 2046 году:s:233293:e:900-->
+</div><!--n:Тайны/Канадец привез из будущего жуткую карту Земли Что произойдет с нашей планетой в 2046 году:s:237370:e:900-->
 <!----><!--2025-11-15 16:07:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/luna_tresnula_i_razdelilas_na_dve_chasti_drevnyaya_legenda_raskryvaet_nastoyashchuju_istoriju_luny">
@@ -2802,7 +2846,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-15</i>
   </div>
-</div><!--n:Тайны/Луна треснула и разделилась на две части Древняя легенда раскрывает настоящую историю Луны:s:234389:e:916-->
+</div><!--n:Тайны/Луна треснула и разделилась на две части Древняя легенда раскрывает настоящую историю Луны:s:238466:e:916-->
+<!----><!--2026-03-22 13:46:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/cru_rassekretilo_snimki_voyager_1_1980-h_apparat_zasnyal_gigantskij_nlo_ryadom_s_saturnom">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7cb57416dc786c08408cde0d0e37650f/" src="http://pic.rtbcdn.ru/video/2025-04-06/e5/99/e5999cd545503bc91891e2270569dce4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/cru_rassekretilo_snimki_voyager_1_1980-h_apparat_zasnyal_gigantskij_nlo_ryadom_s_saturnom">ЦРУ рассекретило снимки Voyager 1 1980-х? Аппарат заснял гигантский НЛО рядом с Сатурном</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/ЦРУ рассекретило снимки Voyager 1 1980-х Аппарат заснял гигантский НЛО рядом с Сатурном:s:239586:e:872-->
 <!----><!--2026-03-08 13:45:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pilotiruemaya_missiya_na_mars_yakoby_sostoyalas_v_1973_godu">
@@ -2813,7 +2868,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-08</i>
   </div>
-</div><!--n:Тайны/Пилотируемая миссия на Марс якобы состоялась в 1973 году:s:235509:e:763-->
+</div><!--n:Тайны/Пилотируемая миссия на Марс якобы состоялась в 1973 году:s:240643:e:763-->
 <!----><!--2026-03-16 11:28:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto_skryvaet_pustynya_simpson_v_avstralii_legendy_o_provale_vo_vremeni_i_inoplanetnyh_tehnologiyah">
@@ -2824,7 +2879,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Что скрывает пустыня Симпсон в Австралии Легенды о провале во времени и инопланетных технологиях:s:236408:e:922-->
+</div><!--n:Тайны/Что скрывает пустыня Симпсон в Австралии Легенды о провале во времени и инопланетных технологиях:s:241542:e:922-->
 <!----><!--2026-01-13 10:33:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vanga_predskazala_prilet_gigantskogo_inoplanetnogo_korablya_na_zemlju_v_2026_godu">
@@ -2835,7 +2890,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-13</i>
   </div>
-</div><!--n:Тайны/Ванга Предсказала Прилёт Гигантского Инопланетного Корабля на Землю в 2026 году:s:237545:e:855-->
+</div><!--n:Тайны/Ванга Предсказала Прилёт Гигантского Инопланетного Корабля на Землю в 2026 году:s:242679:e:855-->
 <!----><!--2025-11-19 18:36:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_vse_mirovye_lidery_nahodyatsya_v_mejdunarodnoj_baze_akterov">
@@ -2846,7 +2901,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-19</i>
   </div>
-</div><!--n:Тайны/Почему все мировые лидеры находятся в международной базе актеров:s:238580:e:803-->
+</div><!--n:Тайны/Почему все мировые лидеры находятся в международной базе актеров:s:243714:e:803-->
 <!----><!--2025-12-08 19:00:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/est_svet_est_eda_net_svyazi_legenda_o_perehvachennom_soobshchenii_s_jupitera_v_1976_godu">
@@ -2857,7 +2912,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Тайны/Есть свет Есть еда Нет связи Легенда о перехваченном сообщении с Юпитера в 1976 году:s:239539:e:881-->
+</div><!--n:Тайны/Есть свет Есть еда Нет связи Легенда о перехваченном сообщении с Юпитера в 1976 году:s:244673:e:881-->
 <!----><!--2026-02-06 15:03:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/simpsony_eto_znali">
@@ -2868,7 +2923,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-06</i>
   </div>
-</div><!--n:Тайны/СИМПСОНЫ ЭТО ЗНАЛИ:s:240606:e:614-->
+</div><!--n:Тайны/СИМПСОНЫ ЭТО ЗНАЛИ:s:245740:e:614-->
 <!----><!--2025-12-19 21:09:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_enciklopedii_1958_goda_rasskazyvaetsya_o_kupole_zemli_v_antarktide_vysotoj_4000_metrov">
@@ -2879,7 +2934,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/В энциклопедии 1958 года рассказывается о Куполе Земли в Антарктиде высотой 4000 метров:s:241290:e:879-->
+</div><!--n:Тайны/В энциклопедии 1958 года рассказывается о Куполе Земли в Антарктиде высотой 4000 метров:s:246424:e:879-->
 <!----><!--2026-03-03 14:23:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_staryh_voennyh_avstrijskih_arhivah_nashli_rassledovaniya_vampirskih_sluchaev">
@@ -2890,7 +2945,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Тайны/В старых военных австрийских архивах нашли расследования вампирских случаев:s:242359:e:847-->
+</div><!--n:Тайны/В старых военных австрийских архивах нашли расследования вампирских случаев:s:247493:e:847-->
 <!----><!--2025-12-23 15:58:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/goroda_luny_skryty_pod_ogromnoj_gologrammoj">
@@ -2901,7 +2956,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Города Луны скрыты под огромной голограммой:s:243384:e:716-->
+</div><!--n:Тайны/Города Луны скрыты под огромной голограммой:s:248518:e:716-->
 <!----><!--2026-01-19 17:34:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1959_godu_v_karelskih_lesah_ohotniki_vstretili_cheloveka_v_tyajelom_metallicheskom_kostjume">
@@ -2912,7 +2967,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-19</i>
   </div>
-</div><!--n:Тайны/В 1959 году в карельских лесах охотники встретили человека в тяжёлом металлическом костюме:s:244217:e:898-->
+</div><!--n:Тайны/В 1959 году в карельских лесах охотники встретили человека в тяжёлом металлическом костюме:s:249351:e:898-->
 <!----><!--2026-02-26 15:11:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vblizi_zony_51_snyali_meduzoobraznyj_nlo">
@@ -2923,7 +2978,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Тайны/Вблизи Зоны 51 сняли медузообразный НЛО:s:245315:e:700-->
+</div><!--n:Тайны/Вблизи Зоны 51 сняли медузообразный НЛО:s:250449:e:700-->
 <!----><!--2026-02-26 15:16:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/strannaya_vstrecha_v_jizni_kotoraya_mnogoe_izmenila_v_issledovanii_fenomena_nlo">
@@ -2934,7 +2989,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Тайны/Странная встреча в жизни которая многое изменила в исследовании феномена НЛО:s:246122:e:844-->
+</div><!--n:Тайны/Странная встреча в жизни которая многое изменила в исследовании феномена НЛО:s:251256:e:844-->
 <!----><!--2026-01-17 19:46:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1956_godu_na_uchastke_transsiba_poezd_proshel_skvoz_tonnel_i_okazalsya_v_sovsem_drugom_region">
@@ -2945,7 +3000,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-17</i>
   </div>
-</div><!--n:Тайны/В 1956 году на участке Транссиба поезд прошёл сквозь тоннель и оказался в совсем другом регион:s:247144:e:907-->
+</div><!--n:Тайны/В 1956 году на участке Транссиба поезд прошёл сквозь тоннель и оказался в совсем другом регион:s:252278:e:907-->
 <!----><!--2025-11-17 16:05:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_skvoz_zabor_avstralii_puskajut_tolko_pustye_poezda_bez_mashinistov">
@@ -2956,7 +3011,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-17</i>
   </div>
-</div><!--n:Тайны/Почему сквозь Забор Австралии пускают только пустые поезда без машинистов:s:248256:e:834-->
+</div><!--n:Тайны/Почему сквозь Забор Австралии пускают только пустые поезда без машинистов:s:253390:e:834-->
 <!----><!--2025-12-20 17:00:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vremennye_anomalii_v_dalnegorske_legenda_o_strannom_proisshestvii_i_molodoj_sovetskoj_seme">
@@ -2967,7 +3022,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-20</i>
   </div>
-</div><!--n:Тайны/Временные аномалии в Дальнегорске легенда о странном происшествии и молодой советской семье:s:249263:e:900-->
+</div><!--n:Тайны/Временные аномалии в Дальнегорске легенда о странном происшествии и молодой советской семье:s:254397:e:900-->
 <!----><!--2026-01-02 11:13:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1972_godu_v_karskom_more_gidrologi_zafiksirovali_dvijenie_gigantskogo_sushchestva">
@@ -2978,7 +3033,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1972 году в Карском море гидрологи зафиксировали движение гигантского существа:s:250370:e:860-->
+</div><!--n:Тайны/В 1972 году в Карском море гидрологи зафиксировали движение гигантского существа:s:255504:e:860-->
 <!----><!--2026-03-16 11:27:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nashli_realnogo_puteshestvennika_vo_vremeni_zapis_tvich_strima">
@@ -2989,7 +3044,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/НАШЛИ РЕАЛЬНОГО Путешественника во Времени ЗАПИСЬ ТВИЧ СТРИМА:s:251412:e:787-->
+</div><!--n:Тайны/НАШЛИ РЕАЛЬНОГО Путешественника во Времени ЗАПИСЬ ТВИЧ СТРИМА:s:256546:e:787-->
 <!----><!--2025-11-05 14:33:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/on_pobyval_vnutri_zemli_i_sfotografiroval_podzemnyj_mir_tajna_ekspedicii_genri_frensisa_bartolomju">
@@ -3000,7 +3055,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-05</i>
   </div>
-</div><!--n:Тайны/Он побывал внутри земли и сфотографировал подземный мир Тайна экспедиции Генри Фрэнсиса Бартоломью:s:252350:e:929-->
+</div><!--n:Тайны/Он побывал внутри земли и сфотографировал подземный мир Тайна экспедиции Генри Фрэнсиса Бартоломью:s:257484:e:929-->
 <!----><!--2025-12-04 15:32:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/istoriya_o_drevnem_podzemnom_mehanizme_yakoby_najdennom_rabochimi_v_70-h_na_urale">
@@ -3011,7 +3066,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Тайны/История о древнем подземном механизме якобы найденном рабочими в 70-х на Урале:s:253499:e:852-->
+</div><!--n:Тайны/История о древнем подземном механизме якобы найденном рабочими в 70-х на Урале:s:258633:e:852-->
+<!----><!--2026-03-24 12:49:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/on_projil_20_let_v_podzemnom_mire_i_vernulsya_molodym_s_kem_stolknulis_shahtery_pod_zemlej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/44352ffc0eb8ebc4792fc3f234b25540/" src="http://pic.rtbcdn.ru/video/2025-11-17/90/4d/904d51694c2e169c89153429e6fa132e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/on_projil_20_let_v_podzemnom_mire_i_vernulsya_molodym_s_kem_stolknulis_shahtery_pod_zemlej">Он прожил 20 лет в Подземном Мире и вернулся молодым. С кем столкнулись шахтеры под землей?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/Он прожил 20 лет в Подземном Мире и вернулся молодым. С кем столкнулись шахтеры под землей:s:259663:e:887-->
 <!----><!--2026-01-19 17:33:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1969_godu_v_gluhoj_tajge_obnarujili_shagajushchij_mehanizm_vysotoj_s_dom">
@@ -3022,7 +3088,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-19</i>
   </div>
-</div><!--n:Тайны/В 1969 году в глухой тайге обнаружили шагающий механизм высотой с дом:s:254529:e:819-->
+</div><!--n:Тайны/В 1969 году в глухой тайге обнаружили шагающий механизм высотой с дом:s:260748:e:819-->
+<!----><!--2026-03-22 13:46:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_avstralii_obitajut_dinozavry_a_zabor_avstralii_postroen_dlya_zashchity_ot_krolikov_i_sobak_dingo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d6a0069f80d0216513056883e45c6b66/" src="http://pic.rtbcdn.ru/video/2025-09-10/bb/29/bb29b51545fcc4bc700bf2267e2e6624.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_avstralii_obitajut_dinozavry_a_zabor_avstralii_postroen_dlya_zashchity_ot_krolikov_i_sobak_dingo">В АВСТРАЛИИ ОБИТАЮТ ДИНОЗАВРЫ? А ЗАБОР АВСТРАЛИИ построен для защиты от кроликов и собак динго?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/В АВСТРАЛИИ ОБИТАЮТ ДИНОЗАВРЫ А ЗАБОР АВСТРАЛИИ построен для защиты от кроликов и собак динго:s:261726:e:914-->
 <!----><!--2026-02-20 18:51:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_zasnejennyh_rossijskih_lesah_snyali_strannoe_chelovekopodobnoe_sushchestvo">
@@ -3033,7 +3110,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/В заснеженных российских лесах сняли странное человекоподобное существо:s:255507:e:831-->
+</div><!--n:Тайны/В заснеженных российских лесах сняли странное человекоподобное существо:s:262848:e:831-->
 <!----><!--2025-12-06 23:01:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_vedet_sebya_kak_upravlyaemyj_obekt_vsego_dve_nedeli_do_vozmojnogo_raskrytiya_istiny">
@@ -3044,7 +3121,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-06</i>
   </div>
-</div><!--n:Тайны/3I ATLAS ведёт себя как управляемый объект Всего две недели до возможного раскрытия истины:s:256509:e:893-->
+</div><!--n:Тайны/3I ATLAS ведёт себя как управляемый объект Всего две недели до возможного раскрытия истины:s:263850:e:893-->
 <!----><!--2026-01-15 20:05:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/arhivnye_kadry_planet_i_nlo_svyazali_s_tajnoj_pilotiruemoj_missiej">
@@ -3055,7 +3132,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-15</i>
   </div>
-</div><!--n:Тайны/Архивные кадры планет и НЛО связали с тайной пилотируемой миссией:s:257598:e:801-->
+</div><!--n:Тайны/Архивные кадры планет и НЛО связали с тайной пилотируемой миссией:s:264939:e:801-->
 <!----><!--2025-12-03 17:24:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/anomalii_3i_atlas_na_ljubitelskih_snimkah_vyglyadyat_vse_chetche_i_eto_vyzyvaet_voprosy_k_kadram_nasa">
@@ -3066,7 +3143,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Тайны/Аномалии 3I ATLAS на любительских снимках выглядят всё чётче и это вызывает вопросы к кадрам NASA:s:258556:e:918-->
+</div><!--n:Тайны/Аномалии 3I ATLAS на любительских снимках выглядят всё чётче и это вызывает вопросы к кадрам NASA:s:265897:e:918-->
 <!----><!--2025-10-30 11:24:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/esli_oni_prosnutsya_to_zemlya_ischeznet_insajder_rasskazal_pro_eksperimenty_prishelcev_v_antarktide">
@@ -3077,7 +3154,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Тайны/Если ОНИ проснутся то Земля исчезнет Инсайдер рассказал про эксперименты пришельцев в Антарктиде:s:259678:e:928-->
+</div><!--n:Тайны/Если ОНИ проснутся то Земля исчезнет Инсайдер рассказал про эксперименты пришельцев в Антарктиде:s:267019:e:928-->
 <!----><!--2026-01-26 13:11:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1989_goda_v_podmoskovnom_poselke_injener_na_pensii_postroil_gigantskij_samodelnyj_ekzoskelet">
@@ -3088,7 +3165,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-26</i>
   </div>
-</div><!--n:Тайны/Зимой 1989 года в подмосковном посёлке инженер на пенсии построил гигантский самодельный экзоскелет:s:260822:e:926-->
+</div><!--n:Тайны/Зимой 1989 года в подмосковном посёлке инженер на пенсии построил гигантский самодельный экзоскелет:s:268163:e:926-->
 <!----><!--2025-11-13 20:05:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto-to_dejstvitelno_strannoe_proizoshlo_s_batiskafom_titan_voennye_veroyatno_vse_znali">
@@ -3099,7 +3176,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-13</i>
   </div>
-</div><!--n:Тайны/Что-то действительно странное произошло с Батискафом Титан Военные вероятно все знали:s:261966:e:883-->
+</div><!--n:Тайны/Что-то действительно странное произошло с Батискафом Титан Военные вероятно все знали:s:269307:e:883-->
 <!----><!--2026-02-07 15:21:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/na_urale_v_nachale_1970_h_geologi_vskryli_gigantskuju_peshcheru_gde_pribory_fiksirovali_sboi_vremeni">
@@ -3110,7 +3187,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-07</i>
   </div>
-</div><!--n:Тайны/На Урале в начале 1970 х геологи вскрыли гигантскую пещеру где приборы фиксировали сбои времени:s:263044:e:916-->
+</div><!--n:Тайны/На Урале в начале 1970 х геологи вскрыли гигантскую пещеру где приборы фиксировали сбои времени:s:270385:e:916-->
 <!----><!--2025-11-22 14:01:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oni_eshche_mogut_letat_v_indii_otkopali_predpolagaemye_kosmicheskie_apparaty_drevnej_civilizacii">
@@ -3121,7 +3198,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-22</i>
   </div>
-</div><!--n:Тайны/Они еще могут летать В Индии откопали предполагаемые космические аппараты древней цивилизации:s:264168:e:917-->
+</div><!--n:Тайны/Они еще могут летать В Индии откопали предполагаемые космические аппараты древней цивилизации:s:271509:e:917-->
 <!----><!--2025-06-15 12:29:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/podzemnaya_moskva">
@@ -3132,7 +3209,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-06-15</i>
   </div>
-</div><!--n:Тайны/Подземная Москва:s:265296:e:627-->
+</div><!--n:Тайны/Подземная Москва:s:272637:e:627-->
 <!----><!--2025-12-23 16:12:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sekrety_drevnih_kart_pochemu_avstraliya_byla_chastju_antarktidy">
@@ -3143,7 +3220,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Секреты древних карт Почему Австралия была частью Антарктиды:s:265990:e:789-->
+</div><!--n:Тайны/Секреты древних карт Почему Австралия была частью Антарктиды:s:273331:e:789-->
 <!----><!--2026-03-10 15:40:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_jujnoj_dakote_para_nashla_u_dveri_strannye_sledy_bosyh_nog_na_snegu_s_razvernutymi_stupnyami">
@@ -3154,7 +3231,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Тайны/В Южной Дакоте пара нашла у двери странные следы босых ног на снегу с развернутыми ступнями:s:266928:e:899-->
+</div><!--n:Тайны/В Южной Дакоте пара нашла у двери странные следы босых ног на снегу с развернутыми ступнями:s:274269:e:899-->
+<!----><!--2026-03-21 08:44:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_staroj_fotografii_iz_derevni_klincy_1938_goda_my_uvideli_cheloveka_so_smartfonom_v_ruke">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/aaff77624ef8b8a80f30d43888fc7506/" src="http://pic.rtbcdn.ru/video/2025-06-27/08/4a/084ab4c35e97f9fa6df6cf6252c28c69.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_staroj_fotografii_iz_derevni_klincy_1938_goda_my_uvideli_cheloveka_so_smartfonom_v_ruke">На старой фотографии из деревни Клинцы 1938 года мы увидели человека со смартфоном в руке?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Тайны/На старой фотографии из деревни Клинцы 1938 года мы увидели человека со смартфоном в руке:s:275371:e:885-->
 <!----><!--2025-11-23 17:36:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/insajder_pokazal_zakrytye_territorii_za_ohranyaemym_perimetrom_zabora_avstralii">
@@ -3165,7 +3253,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-23</i>
   </div>
-</div><!--n:Тайны/Инсайдер показал закрытые территории за охраняемым периметром Забора Австралии:s:268030:e:855-->
+</div><!--n:Тайны/Инсайдер показал закрытые территории за охраняемым периметром Забора Австралии:s:276452:e:855-->
 <!----><!--2026-01-06 21:10:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1971_godu_geologi_v_kazahstane_obnarujili_podzemnyj_planetarnyj_mehanizm">
@@ -3176,7 +3264,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-06</i>
   </div>
-</div><!--n:Тайны/В 1971 году геологи в Казахстане обнаружили подземный планетарный механизм:s:269069:e:831-->
+</div><!--n:Тайны/В 1971 году геологи в Казахстане обнаружили подземный планетарный механизм:s:277491:e:831-->
 <!----><!--2025-12-27 16:59:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1966_godu_v_sibirskoj_tajge_stroiteli_vskryli_strannuju_dver_v_sklone_gory">
@@ -3187,7 +3275,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Тайны/В 1966 году в сибирской тайге строители вскрыли странную дверь в склоне горы:s:270071:e:836-->
+</div><!--n:Тайны/В 1966 году в сибирской тайге строители вскрыли странную дверь в склоне горы:s:278493:e:836-->
 <!----><!--2026-02-14 17:30:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_vzleteli_ceny_na_operativnuju_pamyat">
@@ -3198,7 +3286,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-14</i>
   </div>
-</div><!--n:Тайны/ПОЧЕМУ ВЗЛЕТЕЛИ ЦЕНЫ НА ОПЕРАТИВНУЮ ПАМЯТЬ:s:271079:e:712-->
+</div><!--n:Тайны/ПОЧЕМУ ВЗЛЕТЕЛИ ЦЕНЫ НА ОПЕРАТИВНУЮ ПАМЯТЬ:s:279501:e:712-->
 <!----><!--2026-03-08 13:46:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_pustyne_gobi_do_sih_por_hodyat_legendy_o_gigantskom_cherve_smerti_dlinoj_do_50_metrov">
@@ -3209,7 +3297,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-08</i>
   </div>
-</div><!--n:Тайны/В пустыне Гоби до сих пор ходят легенды о гигантском черве смерти длиной до 50 метров:s:271906:e:875-->
+</div><!--n:Тайны/В пустыне Гоби до сих пор ходят легенды о гигантском черве смерти длиной до 50 метров:s:280328:e:875-->
 <!----><!--2025-10-31 20:56:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/mgu_-_legendy_mify_i_istoriya">
@@ -3220,7 +3308,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Тайны/МГУ - ЛЕГЕНДЫ МИФЫ И ИСТОРИЯ:s:272970:e:667-->
+</div><!--n:Тайны/МГУ - ЛЕГЕНДЫ МИФЫ И ИСТОРИЯ:s:281392:e:667-->
 <!----><!--2026-01-19 17:52:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1966_godu_pod_orenburgom_na_zabroshennoj_vetke_nashli_lokomotiv_ne_chelovecheskogo_masshtaba">
@@ -3231,7 +3319,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-19</i>
   </div>
-</div><!--n:Тайны/В 1966 году под Оренбургом на заброшенной ветке нашли локомотив не человеческого масштаба:s:273723:e:898-->
+</div><!--n:Тайны/В 1966 году под Оренбургом на заброшенной ветке нашли локомотив не человеческого масштаба:s:282145:e:898-->
 <!----><!--2026-01-22 20:39:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/teksty_vnutri_piramid_mogli_byt_napisany_ne_dlya_ljudej">
@@ -3242,7 +3330,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Тайны/Тексты внутри пирамид могли быть написаны не для людей:s:274819:e:758-->
+</div><!--n:Тайны/Тексты внутри пирамид могли быть написаны не для людей:s:283241:e:758-->
 <!----><!--2026-02-20 18:55:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_nasa_uskorilo_missiju_k_lune_posle_strannyh_sobytij_vo_vremya_proleta_3i_atlas">
@@ -3253,7 +3341,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/Почему НАСА ускорило миссию к Луне после странных событий во время пролета 3I Atlas:s:275713:e:863-->
+</div><!--n:Тайны/Почему НАСА ускорило миссию к Луне после странных событий во время пролета 3I Atlas:s:284135:e:863-->
+<!----><!--2026-03-22 13:48:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sdvoennye_chisla_na_chasah_tajnoe_poslanie_ili_signal_o_sboe_v_matrice">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9d6e686e5fc7043712bb569cc99c8957/" src="http://pic.rtbcdn.ru/video/2024-11-14/75/7e/757e9c2ff523f6cad2ffda54778991af.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/sdvoennye_chisla_na_chasah_tajnoe_poslanie_ili_signal_o_sboe_v_matrice">Сдвоенные числа на часах: Тайное послание или сигнал о сбое в матрице?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Сдвоенные числа на часах Тайное послание или сигнал о сбое в матрице:s:285180:e:811-->
 <!----><!--2025-12-20 01:00:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_sotrudnik_nasa_rasskazal_o_vnezemnyh_anomaliyah_na_lune">
@@ -3264,7 +3363,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-20</i>
   </div>
-</div><!--n:Тайны/Бывший сотрудник НАСА рассказал о внеземных аномалиях на Луне:s:276758:e:788-->
+</div><!--n:Тайны/Бывший сотрудник НАСА рассказал о внеземных аномалиях на Луне:s:286152:e:788-->
 <!----><!--2025-11-06 17:24:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novyj_snimok_3i_atlas_shokiroval_astronomov_hvosta_net_tolko_myagkoe_svechenie">
@@ -3275,7 +3374,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Тайны/Новый снимок 3I ATLAS шокировал астрономов хвоста нет только мягкое свечение:s:277696:e:845-->
+</div><!--n:Тайны/Новый снимок 3I ATLAS шокировал астрономов хвоста нет только мягкое свечение:s:287090:e:845-->
 <!----><!--2025-10-29 11:29:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kuda_ischezli_vse_melnicy_zachem_pogubili_unikalnuju_tehnologiju_proshlogo">
@@ -3286,7 +3385,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Тайны/Куда исчезли все мельницы Зачем погубили уникальную технологию прошлого:s:278712:e:832-->
+</div><!--n:Тайны/Куда исчезли все мельницы Зачем погубили уникальную технологию прошлого:s:288106:e:832-->
 <!----><!--2026-01-30 20:46:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zima_1958_goda_v_poselke_posle_meteli_poyavilsya_chelovek_kotorogo_po_dokumentam_eshche_ne_sushchestvovalo">
@@ -3297,7 +3396,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-30</i>
   </div>
-</div><!--n:Тайны/Зима 1958 года в посёлке после метели появился человек которого по документам ещё не существовало:s:279714:e:932-->
+</div><!--n:Тайны/Зима 1958 года в посёлке после метели появился человек которого по документам ещё не существовало:s:289108:e:932-->
 <!----><!--2026-02-20 21:29:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tri_vokzala_-_chemodan_bazar_vokzal">
@@ -3308,7 +3407,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/ТРИ ВОКЗАЛА - ЧЕМОДАН, БАЗАР, ВОКЗАЛ:s:280858:e:692-->
+</div><!--n:Тайны/ТРИ ВОКЗАЛА - ЧЕМОДАН, БАЗАР, ВОКЗАЛ:s:290252:e:692-->
 <!----><!--2026-03-14 07:44:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/arheologi_nashli_pod_piramidami_gizy_massivnye_skrytye_struktury_pochti_kilometr_glubinoj">
@@ -3319,7 +3418,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Археологи нашли под Пирамидами Гизы массивные скрытые структуры почти километр глубиной:s:281650:e:886-->
+</div><!--n:Тайны/Археологи нашли под Пирамидами Гизы массивные скрытые структуры почти километр глубиной:s:291044:e:886-->
 <!----><!--2025-11-16 11:26:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nashli_atlantidu_pochemu_nikto_ne_zametil_glavnuju_podskazku_platona_pro_zateryannuju_stranu">
@@ -3330,7 +3429,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-16</i>
   </div>
-</div><!--n:Тайны/Нашли Атлантиду Почему никто не заметил главную подсказку Платона про затерянную страну:s:282736:e:897-->
+</div><!--n:Тайны/Нашли Атлантиду Почему никто не заметил главную подсказку Платона про затерянную страну:s:292130:e:897-->
 <!----><!--2025-06-06 20:54:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chistyj_pereulok_v_staryh_konjushnyah">
@@ -3341,7 +3440,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-06-06</i>
   </div>
-</div><!--n:Тайны/ЧИСТЫЙ ПЕРЕУЛОК В СТАРЫХ КОНЮШНЯХ:s:283832:e:698-->
+</div><!--n:Тайны/ЧИСТЫЙ ПЕРЕУЛОК В СТАРЫХ КОНЮШНЯХ:s:293226:e:698-->
 <!----><!--2025-04-30 20:39:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/jizn_pravitelej_rossii_v_fotografiyah_-_fotoistoriya">
@@ -3352,7 +3451,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-04-30</i>
   </div>
-</div><!--n:Тайны/ЖИЗНЬ ПРАВИТЕЛЕЙ РОССИИ В ФОТОГРАФИЯХ - ФОТОИСТОРИЯ:s:284628:e:761-->
+</div><!--n:Тайны/ЖИЗНЬ ПРАВИТЕЛЕЙ РОССИИ В ФОТОГРАФИЯХ - ФОТОИСТОРИЯ:s:294022:e:761-->
 <!----><!--2025-11-23 04:56:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_narushaet_raschety_nasa_i_uskoryaetsya_po_anomalnoj_traektorii_k_zemle">
@@ -3363,7 +3462,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-23</i>
   </div>
-</div><!--n:Тайны/3I ATLAS нарушает расчёты NASA и ускоряется по аномальной траектории к Земле:s:285520:e:837-->
+</div><!--n:Тайны/3I ATLAS нарушает расчёты NASA и ускоряется по аномальной траектории к Земле:s:294914:e:837-->
 <!----><!--2026-02-20 21:29:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tri_vokzala_-_chemodan_bazar_vokzal">
@@ -3374,7 +3473,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/ТРИ ВОКЗАЛА - ЧЕМОДАН БАЗАР ВОКЗАЛ:s:286523:e:692-->
+</div><!--n:Тайны/ТРИ ВОКЗАЛА - ЧЕМОДАН БАЗАР ВОКЗАЛ:s:295917:e:692-->
 <!----><!--2026-01-17 19:37:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1956_godu_na_sahaline_rabochie_obnarujili_ogromnuju_metallicheskuju_dver_uhodyashchuju_pod_zemlju">
@@ -3385,7 +3484,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-17</i>
   </div>
-</div><!--n:Тайны/В 1956 году на Сахалине рабочие обнаружили огромную металлическую дверь уходящую под землю:s:287313:e:910-->
+</div><!--n:Тайны/В 1956 году на Сахалине рабочие обнаружили огромную металлическую дверь уходящую под землю:s:296707:e:910-->
 <!----><!--2026-01-18 20:10:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_nasa_vnezapno_vernulo_srazu_chetyreh_astronavtov_s_mks">
@@ -3396,7 +3495,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-18</i>
   </div>
-</div><!--n:Тайны/Почему НАСА внезапно вернуло сразу четырёх астронавтов с МКС:s:288423:e:785-->
+</div><!--n:Тайны/Почему НАСА внезапно вернуло сразу четырёх астронавтов с МКС:s:297817:e:785-->
 <!----><!--2025-06-27 19:26:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_gostyah_u_karelskih_medvedej">
@@ -3407,7 +3506,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-06-27</i>
   </div>
-</div><!--n:Тайны/В ГОСТЯХ У КАРЕЛЬСКИХ МЕДВЕДЕЙ:s:289356:e:674-->
+</div><!--n:Тайны/В ГОСТЯХ У КАРЕЛЬСКИХ МЕДВЕДЕЙ:s:298750:e:674-->
 <!----><!--2025-11-04 13:14:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vatikan_daje_i_ne_skryvaet_glavnuju_tajnu_nastoyashchih_pravitelej_mira">
@@ -3418,7 +3517,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-04</i>
   </div>
-</div><!--n:Тайны/Ватикан даже и не скрывает главную тайну настоящих правителей мира:s:290122:e:814-->
+</div><!--n:Тайны/Ватикан даже и не скрывает главную тайну настоящих правителей мира:s:299516:e:814-->
 <!----><!--2026-01-18 20:13:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/versiya_o_gravitacionnoj_anomalii_v_avguste_2026_goda_stala_eshche_konkretnee">
@@ -3429,7 +3528,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-18</i>
   </div>
-</div><!--n:Тайны/Версия о гравитационной аномалии в Августе 2026 года стала ещё конкретнее:s:291095:e:837-->
+</div><!--n:Тайны/Версия о гравитационной аномалии в Августе 2026 года стала ещё конкретнее:s:300489:e:837-->
 <!----><!--2026-01-31 15:29:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pterodaktilya_zametili_na_foto_v_nebe_nad_lansarote_vo_vremya_silnogo_shtorma">
@@ -3440,7 +3539,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-31</i>
   </div>
-</div><!--n:Тайны/Птеродактиля заметили на фото в небе над Лансароте во время сильного шторма:s:292100:e:837-->
+</div><!--n:Тайны/Птеродактиля заметили на фото в небе над Лансароте во время сильного шторма:s:301494:e:837-->
 <!----><!--2025-12-28 20:29:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1974_godu_geologi_v_yakutii_nashli_v_merzlote_strannuju_kabinu">
@@ -3451,7 +3550,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-28</i>
   </div>
-</div><!--n:Тайны/В 1974 году геологи в Якутии нашли в мерзлоте странную кабину:s:293112:e:788-->
+</div><!--n:Тайны/В 1974 году геологи в Якутии нашли в мерзлоте странную кабину:s:302506:e:788-->
 <!----><!--2026-02-13 19:57:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1959_godu_v_sovetskom_gorode_zaderjali_mujchinu_kotoryj_iskal_mobilnuju_svyaz_u_telefonnoj_budki">
@@ -3462,7 +3561,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Тайны/В 1959 году в советском городе задержали мужчину который искал мобильную связь у телефонной будки:s:294044:e:916-->
+</div><!--n:Тайны/В 1959 году в советском городе задержали мужчину который искал мобильную связь у телефонной будки:s:303438:e:916-->
+<!----><!--2026-03-22 13:47:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/eti_kadry_ne_doljny_byli_popast_v_efir_nasa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/60d943a32ba92e3006cf6e66f0be6ca5/" src="http://pic.rtbcdn.ru/video/2025-02-10/80/09/80099beacb1df699e8f638c9058e8847.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/eti_kadry_ne_doljny_byli_popast_v_efir_nasa">Эти кадры не должны были попасть в эфир НАСА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Эти кадры не должны были попасть в эфир НАСА:s:304566:e:710-->
 <!----><!--2025-12-20 01:30:33-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_moment_sblijeniya_3i_atlas_s_zemlej_na_lune_zafiksirovali_udar_neizvestnogo_obekta">
@@ -3473,7 +3583,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-20</i>
   </div>
-</div><!--n:Тайны/В МОМЕНТ СБЛИЖЕНИЯ 3I ATLAS с Землёй на Луне зафиксировали удар неизвестного объекта:s:295172:e:865-->
+</div><!--n:Тайны/В МОМЕНТ СБЛИЖЕНИЯ 3I ATLAS с Землёй на Луне зафиксировали удар неизвестного объекта:s:305392:e:865-->
 <!----><!--2025-05-29 22:11:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/staraya_ryazan">
@@ -3484,7 +3594,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-05-29</i>
   </div>
-</div><!--n:Тайны/СТАРАЯ РЯЗАНЬ:s:296222:e:615-->
+</div><!--n:Тайны/СТАРАЯ РЯЗАНЬ:s:306442:e:615-->
 <!----><!--2025-12-09 19:18:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sovetskie_uchenye_nashli_nechto_v_antarktide_legenda_pro_sluchaj_1959_goda">
@@ -3495,7 +3605,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Тайны/Советские учёные нашли нечто в Антарктиде Легенда про случай 1959 года:s:296898:e:823-->
+</div><!--n:Тайны/Советские учёные нашли нечто в Антарктиде Легенда про случай 1959 года:s:307118:e:823-->
 <!----><!--2026-01-09 22:36:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1956_godu_sovetskie_istoriki_vyyasnili_chto_vatikan_znal_o_vozmojnyh_podzemnyh_soorujeniyah_v_sssr">
@@ -3506,7 +3616,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Тайны/В 1956 году советские историки выяснили что Ватикан знал о возможных подземных сооружениях В СССР:s:297883:e:925-->
+</div><!--n:Тайны/В 1956 году советские историки выяснили что Ватикан знал о возможных подземных сооружениях В СССР:s:308103:e:925-->
 <!----><!--2025-12-07 22:22:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/analiz_snimkov_3i_atlas_ukazyvaet_na_nalichie_priznakov_jizni_na_etom_nlo">
@@ -3517,7 +3627,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Тайны/Анализ Снимков 3i Atlas указывает на наличие признаков жизни на этом НЛО:s:299020:e:821-->
+</div><!--n:Тайны/Анализ Снимков 3i Atlas указывает на наличие признаков жизни на этом НЛО:s:309240:e:821-->
 <!----><!--2026-01-08 21:50:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kto_na_samom_dele_postroil_podzemnyj_gorod_derinkuju">
@@ -3528,7 +3638,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Тайны/Кто на самом деле построил подземный город Деринкую:s:300003:e:748-->
+</div><!--n:Тайны/Кто на самом деле построил подземный город Деринкую:s:310223:e:748-->
 <!----><!--2026-02-12 09:35:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_pogone_za_misticheskoj_ryboj_spustilsya_v_kollektor_i_nashel">
@@ -3539,7 +3649,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Тайны/В погоне за МИСТИЧЕСКОЙ рыбой Спустился в коллектор и нашёл:s:300882:e:795-->
+</div><!--n:Тайны/В погоне за МИСТИЧЕСКОЙ рыбой Спустился в коллектор и нашёл:s:311102:e:795-->
 <!----><!--2025-12-24 17:55:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/mojet_li_shlejf_3i_atlas_predstavlyat_skrytuju_ugrozu_dlya_zemli">
@@ -3550,7 +3660,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-24</i>
   </div>
-</div><!--n:Тайны/Может ли шлейф 3I ATLAS представлять скрытую угрозу для Земли:s:301822:e:783-->
+</div><!--n:Тайны/Может ли шлейф 3I ATLAS представлять скрытую угрозу для Земли:s:312042:e:783-->
 <!----><!--2025-12-23 16:22:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kovcheg_zaveta_zaryajali_vnezemnoj_energiej_ot_piramid_v_egipte">
@@ -3561,7 +3671,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Ковчег Завета заряжали внеземной энергией от пирамид в Египте:s:302747:e:789-->
+</div><!--n:Тайны/Ковчег Завета заряжали внеземной энергией от пирамид в Египте:s:312967:e:789-->
 <!----><!--2026-01-16 09:07:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1959_godu_passajirskij_samolet_sel_v_aeroportu_ne_sushchestvovavshego_ni_na_odnoj_karte_sssr">
@@ -3572,7 +3682,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-16</i>
   </div>
-</div><!--n:Тайны/В 1959 году пассажирский самолёт сел в аэропорту не существовавшего ни на одной карте СССР:s:303686:e:898-->
+</div><!--n:Тайны/В 1959 году пассажирский самолёт сел в аэропорту не существовавшего ни на одной карте СССР:s:313906:e:898-->
 <!----><!--2026-01-09 22:33:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_konce_1960h_v_sssr_zafiksirovali_lunnyj_radiosignal_s_priznakami_chelovecheskoj_peredachi">
@@ -3583,7 +3693,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Тайны/В конце 1960х в СССР зафиксировали лунный радиосигнал с признаками человеческой передачи:s:304782:e:891-->
+</div><!--n:Тайны/В конце 1960х в СССР зафиксировали лунный радиосигнал с признаками человеческой передачи:s:315002:e:891-->
 <!----><!--2026-01-08 21:48:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/podo_ldami_antarktidy_zafiksirovali_dvijenie_gigantskogo_sushchestva">
@@ -3594,7 +3704,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Тайны/Подо льдами Антарктиды зафиксировали движение гигантского существа:s:305870:e:811-->
+</div><!--n:Тайны/Подо льдами Антарктиды зафиксировали движение гигантского существа:s:316090:e:811-->
 <!----><!--2026-03-17 14:33:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/prostoj_paren_postroil_mashinu_vremeni_v_svoem_garaje_iz_podruchnogo_hlama_i_zagadochno_ischez">
@@ -3605,7 +3715,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-17</i>
   </div>
-</div><!--n:Тайны/Простой парень построил машину времени в своем гараже из подручного хлама и загадочно исчез:s:306843:e:901-->
+</div><!--n:Тайны/Простой парень построил машину времени в своем гараже из подручного хлама и загадочно исчез:s:317063:e:901-->
 <!----><!--2026-03-10 15:41:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/staroe_video_s_zayavleniem_o_yakoby_vozvrashchenii_anunnakov_na_zemlju">
@@ -3616,7 +3726,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Тайны/Старое видео с заявлением о якобы возвращении Ануннаков на Землю:s:307949:e:803-->
+</div><!--n:Тайны/Старое видео с заявлением о якобы возвращении Ануннаков на Землю:s:318169:e:803-->
 <!----><!--2025-11-09 10:53:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oni_sbejali_iz_zony_51_na_podbitom_nlo_prishelcy_popali_na_kameru_nabljudeniya_v_las-vegase">
@@ -3627,7 +3737,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-09</i>
   </div>
-</div><!--n:Тайны/Они сбежали из Зоны 51 на подбитом НЛО Пришельцы попали на камеру наблюдения в Лас-Вегасе:s:308907:e:892-->
+</div><!--n:Тайны/Они сбежали из Зоны 51 на подбитом НЛО Пришельцы попали на камеру наблюдения в Лас-Вегасе:s:319127:e:892-->
 <!----><!--2026-01-14 20:50:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ushel_patriarh_teorii_paleokontakta_erih_fon_deniken">
@@ -3638,7 +3748,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Тайны/Ушёл патриарх теории палеоконтакта Эрих фон Дэникен:s:309996:e:748-->
+</div><!--n:Тайны/Ушёл патриарх теории палеоконтакта Эрих фон Дэникен:s:320216:e:748-->
 <!----><!--2026-02-25 14:05:33-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/prorochestvo_vangi_o_kontakte_s_prishelcami_v_2026_snova_obsujdajut_na_fone_zayavlenij_trampa_ob_nlo">
@@ -3649,7 +3759,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Тайны/Пророчество Ванги о контакте с пришельцами в 2026 снова обсуждают на фоне заявлений Трампа об НЛО:s:310876:e:919-->
+</div><!--n:Тайны/Пророчество Ванги о контакте с пришельцами в 2026 снова обсуждают на фоне заявлений Трампа об НЛО:s:321096:e:919-->
 <!----><!--2026-02-02 21:21:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kamery_umnogo_goroda_zafiksirovali_injenera_ischeznuvshego_v_1966_godu">
@@ -3660,7 +3770,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-02</i>
   </div>
-</div><!--n:Тайны/Камеры умного города зафиксировали инженера исчезнувшего в 1966 году:s:312006:e:808-->
+</div><!--n:Тайны/Камеры умного города зафиксировали инженера исчезнувшего в 1966 году:s:322226:e:808-->
 <!----><!--2025-11-13 20:09:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/simpsony_eto_znali_chto_na_samom_dele_sluchilos_s_batiskafom_titan">
@@ -3671,7 +3781,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-13</i>
   </div>
-</div><!--n:Тайны/Симпсоны это знали Что на самом деле случилось с батискафом ТИТАН:s:312974:e:802-->
+</div><!--n:Тайны/Симпсоны это знали Что на самом деле случилось с батискафом ТИТАН:s:323194:e:802-->
+<!----><!--2026-03-22 13:49:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto_nashel_jak_kusto_v_glubinah_antarktidy_tajna_kotoruju_on_ne_mog_raskryt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/be9ad1f9073bcf1e565673d6dbe4ba53/" src="http://pic.rtbcdn.ru/video/2024-11-21/5f/6b/5f6b964b748409878bef95113b7ca461.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto_nashel_jak_kusto_v_glubinah_antarktidy_tajna_kotoruju_on_ne_mog_raskryt">Что нашёл Жак Кусто в глубинах Антарктиды? Тайна, которую он не мог раскрыть</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Что нашёл Жак Кусто в глубинах Антарктиды Тайна, которую он не мог раскрыть:s:324152:e:834-->
 <!----><!--2025-10-29 11:40:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/na_motocikle_za_zabor_avstralii_rasskaz_avstralijskogo_puteshestvennika_pro_kraj_zemli">
@@ -3682,7 +3803,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Тайны/На мотоцикле за Забор Австралии Рассказ австралийского путешественника про Край Земли:s:313932:e:881-->
+</div><!--n:Тайны/На мотоцикле за Забор Австралии Рассказ австралийского путешественника про Край Земли:s:325159:e:881-->
 <!----><!--2025-12-25 11:49:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_v_sssr_zasekretili_vse_issledovaniya_s_zerkalami_kozyreva">
@@ -3693,7 +3814,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-25</i>
   </div>
-</div><!--n:Тайны/Почему в СССР засекретили все исследования с Зеркалами Козырева:s:315009:e:797-->
+</div><!--n:Тайны/Почему в СССР засекретили все исследования с Зеркалами Козырева:s:326236:e:797-->
 <!----><!--2026-01-17 19:55:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_74_godu_na_strojke_v_novosibirske_poyavilsya_mujchina_kotoryj_byl_uveren_chto_na_dvore_uje_1995_god">
@@ -3704,7 +3825,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-17</i>
   </div>
-</div><!--n:Тайны/В 74 году на стройке в Новосибирске появился мужчина который был уверен что на дворе уже 1995 год:s:315960:e:921-->
+</div><!--n:Тайны/В 74 году на стройке в Новосибирске появился мужчина который был уверен что на дворе уже 1995 год:s:327187:e:921-->
 <!----><!--2025-12-03 17:26:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/po_sledam_istorii_evgeniya_gajduchka_ne_utihajut_sluhi_o_spryatannoj_mashine_vremeni_v_jirnovske">
@@ -3715,7 +3836,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Тайны/По следам истории Евгения Гайдучка не утихают слухи о спрятанной Машине Времени в Жирновске:s:317088:e:909-->
+</div><!--n:Тайны/По следам истории Евгения Гайдучка не утихают слухи о спрятанной Машине Времени в Жирновске:s:328315:e:909-->
 <!----><!--2025-05-10 14:45:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/velikaya_istoriya_velikoj_vojny">
@@ -3726,7 +3847,18 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-05-10</i>
   </div>
-</div><!--n:Тайны/ВЕЛИКАЯ ИСТОРИЯ ВЕЛИКОЙ ВОЙНЫ:s:318202:e:679-->
+</div><!--n:Тайны/ВЕЛИКАЯ ИСТОРИЯ ВЕЛИКОЙ ВОЙНЫ:s:329429:e:679-->
+<!----><!--2026-03-22 13:46:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vy_eto_videli_chto-to_strannoe_proishodit_s_nashim_solncem_zapis_tvich_strima">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e2ae29535de2a1542bec1f9481d6466e/" src="http://pic.rtbcdn.ru/video/2025-09-09/4e/da/4edaccafbe856635087eef7ba8f9dfcd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/vy_eto_videli_chto-to_strannoe_proishodit_s_nashim_solncem_zapis_tvich_strima">ВЫ ЭТО ВИДЕЛИ? Что-то странное происходит с нашим Солнцем // ЗАПИСЬ ТВИЧ СТРИМА</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/ВЫ ЭТО ВИДЕЛИ Что-то странное происходит с нашим Солнцем ЗАПИСЬ ТВИЧ СТРИМА:s:330199:e:840-->
 <!----><!--2026-02-20 18:47:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ufologi_prodoljajut_obsujdat_sluh_chto_zemlya_yakoby_poteryaet_gravitaciju_12_avgusta_2026_goda">
@@ -3737,7 +3869,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/Уфологи продолжают обсуждать слух что Земля якобы потеряет гравитацию 12 августа 2026 года:s:318972:e:896-->
+</div><!--n:Тайны/Уфологи продолжают обсуждать слух что Земля якобы потеряет гравитацию 12 августа 2026 года:s:331213:e:896-->
 <!----><!--2026-01-27 21:02:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1981_goda_posle_mnogosutochnogo_snegopada_na_peregone_nashli_passajirskij_poezd_bez_ljudej">
@@ -3748,7 +3880,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-27</i>
   </div>
-</div><!--n:Тайны/Зимой 1981 года после многосуточного снегопада на перегоне нашли пассажирский поезд без людей:s:320066:e:910-->
+</div><!--n:Тайны/Зимой 1981 года после многосуточного снегопада на перегоне нашли пассажирский поезд без людей:s:332307:e:910-->
 <!----><!--2025-11-29 21:39:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ya_ih_videl_ranshe_v_nashih_rekah_tolko_nikto_ne_verit_-_kapitan_nazyval_ih_akvasapiensami">
@@ -3759,7 +3891,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-29</i>
   </div>
-</div><!--n:Тайны/Я их видел раньше в наших реках Только никто не верит - Капитан называл их Аквасапиенсами:s:321182:e:898-->
+</div><!--n:Тайны/Я их видел раньше в наших реках Только никто не верит - Капитан называл их Аквасапиенсами:s:333423:e:898-->
 <!----><!--2026-03-05 19:40:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/seriya_zagadochnyh_zemletryasenij_nachalas_ryadom_s_zonoj_51">
@@ -3770,7 +3902,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Тайны/Серия загадочных землетрясений началась рядом с Зоной 51:s:322278:e:767-->
+</div><!--n:Тайны/Серия загадочных землетрясений началась рядом с Зоной 51:s:334519:e:767-->
 <!----><!--2025-12-01 14:50:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nikola_tesla_mog_pervym_uslyshat_signal_3i_atlas">
@@ -3781,7 +3913,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-01</i>
   </div>
-</div><!--n:Тайны/Никола Тесла мог первым услышать сигнал 3I ATLAS:s:323184:e:727-->
+</div><!--n:Тайны/Никола Тесла мог первым услышать сигнал 3I ATLAS:s:335425:e:727-->
 <!----><!--2025-11-18 12:42:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pered_dekabrskim_sblijeniem_3i_atlas_demonstriruet_anomalii_kotoryh_ne_byvaet_u_komet">
@@ -3792,7 +3924,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Тайны/Перед декабрьским сближением 3I ATLAS демонстрирует аномалии которых не бывает у комет:s:324029:e:873-->
+</div><!--n:Тайны/Перед декабрьским сближением 3I ATLAS демонстрирует аномалии которых не бывает у комет:s:336270:e:873-->
 <!----><!--2025-12-19 23:40:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/a_elochka_vam_nravitsya">
@@ -3803,7 +3935,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/А ЁЛОЧКА ВАМ НРАВИТСЯ:s:325092:e:644-->
+</div><!--n:Тайны/А ЁЛОЧКА ВАМ НРАВИТСЯ:s:337333:e:644-->
 <!----><!--2025-12-23 15:59:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nemeckij_arheolog_natknulsya_v_egipetskih_piramidah_na_kosmicheskij_korabl_drevnego_bojestva">
@@ -3814,7 +3946,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Немецкий археолог наткнулся в египетских пирамидах на космический корабль древнего божества:s:325811:e:905-->
+</div><!--n:Тайны/Немецкий археолог наткнулся в египетских пирамидах на космический корабль древнего божества:s:338052:e:905-->
 <!----><!--2026-03-16 11:40:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/smartfon_v_1962_godu_pyat_svidetelstv_puteshestvij_vo_vremeni">
@@ -3825,7 +3957,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Смартфон в 1962 году Пять свидетельств путешествий во времени:s:326924:e:777-->
+</div><!--n:Тайны/Смартфон в 1962 году Пять свидетельств путешествий во времени:s:339165:e:777-->
 <!----><!--2025-10-29 11:31:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_sotrudnik_oon_pokazal_chto_skryto_v_antarktide">
@@ -3836,7 +3968,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Тайны/Бывший сотрудник ООН показал ЧТО скрыто в Антарктиде:s:327847:e:754-->
+</div><!--n:Тайны/Бывший сотрудник ООН показал ЧТО скрыто в Антарктиде:s:340088:e:754-->
+<!----><!--2026-03-22 13:48:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/cru_rassekretilo_bazy_nlo_pod_zemlej_gde_nahodyatsya_bazy_prishelcev_i_chto_v_nih_proishodit">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9d0b594c68c7d8812d4fbad83e673c03/" src="http://pic.rtbcdn.ru/video/2025-05-03/f3/0e/f30ea65e34f3cfb7115da2c556ae2357.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/cru_rassekretilo_bazy_nlo_pod_zemlej_gde_nahodyatsya_bazy_prishelcev_i_chto_v_nih_proishodit">ЦРУ рассекретило базы НЛО под Землёй. Где находятся базы пришельцев и что в них происходит?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/ЦРУ рассекретило базы НЛО под Землёй. Где находятся базы пришельцев и что в них происходит:s:340975:e:894-->
 <!----><!--2026-02-26 15:09:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/arhiv_s_3_8_millionami_fajlov_s_nlo_vnezapno_ischez_srazu_posle_prikaza_trampa_o_raskrytii_prishelcev">
@@ -3847,7 +3990,29 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Тайны/Архив с 3 8 миллионами файлов с НЛО внезапно исчез сразу после приказа Трампа о раскрытии пришельцев:s:328734:e:928-->
+</div><!--n:Тайны/Архив с 3 8 миллионами файлов с НЛО внезапно исчез сразу после приказа Трампа о раскрытии пришельцев:s:342070:e:928-->
+<!----><!--2026-03-22 13:47:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pryamo_sejchas_vozle_solnca_zamechen_gigantskij_nlo_v_10_raz_bolshe_zemli_korabl_shumerov_vernulsya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b07886e5a8d71ec686f6ce95c41aad29/" src="http://pic.rtbcdn.ru/video/2025-05-26/fe/ec/feec6bcdd16ff305a0b6fce20a8c3674.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pryamo_sejchas_vozle_solnca_zamechen_gigantskij_nlo_v_10_raz_bolshe_zemli_korabl_shumerov_vernulsya">Прямо Сейчас Возле Солнца Замечен Гигантский НЛО в 10 раз больше Земли. Корабль Шумеров Вернулся?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Прямо Сейчас Возле Солнца Замечен Гигантский НЛО в 10 раз больше Земли. Корабль Шумеров Вернулся:s:343216:e:918-->
+<!----><!--2026-03-21 08:45:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/prishelcy_podskazali_emu_unikalnyj_recept_lekarstva_i_pomogli_sozdat_mnogomilliardnyj_biznes">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bf95f9401670528371ef2e822dae39fa/" src="http://pic.rtbcdn.ru/video/2025-09-09/7a/c4/7ac437f865e0bf2ac2ba033173566ea3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/prishelcy_podskazali_emu_unikalnyj_recept_lekarstva_i_pomogli_sozdat_mnogomilliardnyj_biznes">Пришельцы подсказали ему уникальный рецепт лекарства и помогли создать многомиллиардный бизнес</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Тайны/Пришельцы подсказали ему уникальный рецепт лекарства и помогли создать многомиллиардный бизнес:s:344345:e:906-->
 <!----><!--2025-11-25 12:48:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/mejdu_avstraliej_i_antarktidoj_vozmojno_spryatan_sekretnyj_materik">
@@ -3858,7 +4023,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-25</i>
   </div>
-</div><!--n:Тайны/Между Австралией и Антарктидой возможно спрятан секретный материк:s:329880:e:804-->
+</div><!--n:Тайны/Между Австралией и Антарктидой возможно спрятан секретный материк:s:345465:e:804-->
 <!----><!--2026-01-10 20:32:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nad_rajonom_zony_51_snyali_treugolnye_nlo_s_rezkim_uskoreniem">
@@ -3869,7 +4034,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-10</i>
   </div>
-</div><!--n:Тайны/Над районом Зоны 51 сняли треугольные НЛО с резким ускорением:s:330843:e:781-->
+</div><!--n:Тайны/Над районом Зоны 51 сняли треугольные НЛО с резким ускорением:s:346428:e:781-->
 <!----><!--2025-12-23 16:01:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_ischezla_vtoraya_luna_kuda_upali_oblomki_vtoroj_luny">
@@ -3880,7 +4045,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Почему исчезла вторая Луна Куда упали обломки второй Луны:s:331771:e:776-->
+</div><!--n:Тайны/Почему исчезла вторая Луна Куда упали обломки второй Луны:s:347356:e:776-->
 <!----><!--2026-02-17 14:01:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/insajder_raskryl_tajny_nasa_o_bazah_na_lune_nlo_i_sekretnoj_kosmicheskoj_programme">
@@ -3891,7 +4056,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-17</i>
   </div>
-</div><!--n:Тайны/Инсайдер раскрыл тайны НАСА о базах на Луне НЛО и секретной космической программе:s:332689:e:859-->
+</div><!--n:Тайны/Инсайдер раскрыл тайны НАСА о базах на Луне НЛО и секретной космической программе:s:348274:e:859-->
 <!----><!--2025-11-04 13:10:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zagadochnaya_karta_mira_19_veka_dokazyvaet_chto_nam_dolgo_vrali_o_nastoyashchej_forme_zemli">
@@ -3902,7 +4067,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-04</i>
   </div>
-</div><!--n:Тайны/Загадочная карта мира 19 века доказывает что нам долго врали о настоящей форме Земли:s:333734:e:884-->
+</div><!--n:Тайны/Загадочная карта мира 19 века доказывает что нам долго врали о настоящей форме Земли:s:349319:e:884-->
 <!----><!--2026-01-03 21:36:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oblojka_jurnala_the_economist_pokazyvaet_tochnye_sobytiya_v_2026_godu_zapis_strima">
@@ -3913,7 +4078,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-03</i>
   </div>
-</div><!--n:Тайны/Обложка журнала The Economist показывает точные события в 2026 году ЗАПИСЬ СТРИМА:s:334807:e:848-->
+</div><!--n:Тайны/Обложка журнала The Economist показывает точные события в 2026 году ЗАПИСЬ СТРИМА:s:350392:e:848-->
 <!----><!--2026-01-23 21:46:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_73go_v_podmoskove_jenshchina_neskolko_mesyacev_skryvala_u_sebya_sushchestvo_ne_s_zemli">
@@ -3924,7 +4089,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-23</i>
   </div>
-</div><!--n:Тайны/Зимой 73го в Подмосковье женщина несколько месяцев скрывала у себя существо не с Земли:s:335826:e:889-->
+</div><!--n:Тайны/Зимой 73го в Подмосковье женщина несколько месяцев скрывала у себя существо не с Земли:s:351411:e:889-->
+<!----><!--2026-03-22 13:46:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pochemu_nam_ne_pokazyvajut_realnuju_kartu_mira_i_nastoyashchie_razmery_stran">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a7d846d42062a66f1983b71370dbbc99/" src="http://pic.rtbcdn.ru/video/2025-07-09/b7/27/b72714622634be538b33c4904542a3c5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pochemu_nam_ne_pokazyvajut_realnuju_kartu_mira_i_nastoyashchie_razmery_stran">Почему нам не показывают реальную карту мира и настоящие размеры стран?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Почему нам не показывают реальную карту мира и настоящие размеры стран:s:352493:e:827-->
 <!----><!--2025-12-26 20:21:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1978_godu_geologi_na_altae_nashli_vrosshij_v_skalu_avtomobil_bez_nomera_i_dokumentov">
@@ -3935,7 +4111,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Тайны/В 1978 году геологи на Алтае нашли вросший в скалу автомобиль без номера и документов:s:336908:e:872-->
+</div><!--n:Тайны/В 1978 году геологи на Алтае нашли вросший в скалу автомобиль без номера и документов:s:353486:e:872-->
 <!----><!--2026-02-13 20:02:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1970_godu_v_sovetskoj_tajge_geologi_obnarujili_ishodyashchuju_iz_zemli_konstrukciju_pohojuju_na_antennu">
@@ -3946,7 +4122,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Тайны/В 1970 году в советской тайге геологи обнаружили исходящую из земли конструкцию похожую на антенну:s:337968:e:932-->
+</div><!--n:Тайны/В 1970 году в советской тайге геологи обнаружили исходящую из земли конструкцию похожую на антенну:s:354546:e:932-->
+<!----><!--2026-03-24 12:50:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/chto-to_gigantskoe_vzletelo_iz_antarktidy_vo_vremya_solnechnogo_zatmeniya_nlo_razmerom_s_materik">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a1244cf1aafa21f5f6e048a9cec5fb59/" src="http://pic.rtbcdn.ru/video/2025-11-24/ce/c7/cec711fe6853aaf4f5f1099b69768501.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/chto-to_gigantskoe_vzletelo_iz_antarktidy_vo_vremya_solnechnogo_zatmeniya_nlo_razmerom_s_materik">Что-то гигантское взлетело из Антарктиды во время Солнечного Затмения. НЛО размером с материк?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/Что-то гигантское взлетело из Антарктиды во время Солнечного Затмения. НЛО размером с материк:s:355692:e:909-->
 <!----><!--2026-01-18 20:31:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/svetovoj_kupol_zametili_v_antarktide_i_strannuju_posledovatelnost_sobytij_na_stancii_nojmajer">
@@ -3957,7 +4144,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-18</i>
   </div>
-</div><!--n:Тайны/Световой купол заметили в Антарктиде и странную последовательность событий на станции Ноймайер:s:339114:e:911-->
+</div><!--n:Тайны/Световой купол заметили в Антарктиде и странную последовательность событий на станции Ноймайер:s:356809:e:911-->
 <!----><!--2025-12-08 21:18:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nasa_razvernuli_habbl_v_storonu_3i_atlas">
@@ -3968,7 +4155,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Тайны/НАСА Развернули Хаббл в Сторону 3I ATLAS:s:340238:e:699-->
+</div><!--n:Тайны/НАСА Развернули Хаббл в Сторону 3I ATLAS:s:357933:e:699-->
 <!----><!--2025-11-14 14:21:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/do_raschetnogo_sblijeniya_3i_atlas_ostaetsya_42_dnya_a_obekt_demonstriruet_anomalii">
@@ -3979,7 +4166,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Тайны/До расчётного сближения 3i Atlas остаётся 42 дня а объект демонстрирует аномалии:s:341040:e:858-->
+</div><!--n:Тайны/До расчётного сближения 3i Atlas остаётся 42 дня а объект демонстрирует аномалии:s:358735:e:858-->
 <!----><!--2026-02-20 18:54:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/stabilizirovannaya_versiya_kultovoj_semki_snejnogo_cheloveka_snova_zastavlyaet_sporit">
@@ -3990,7 +4177,29 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/Стабилизированная версия культовой съёмки Снежного Человека снова заставляет спорить:s:342074:e:874-->
+</div><!--n:Тайны/Стабилизированная версия культовой съёмки Снежного Человека снова заставляет спорить:s:359769:e:874-->
+<!----><!--2026-03-21 08:45:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/etu_zapis_nlo_ves_nauchnyj_mir_priznal_nastoyashchej_chto_iskali_prishelcy_v_turcii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6db78562fde0572cb267284af8a68baf/" src="http://pic.rtbcdn.ru/video/2025-11-01/e7/03/e70389884662380c33cc280c6cb67185.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/etu_zapis_nlo_ves_nauchnyj_mir_priznal_nastoyashchej_chto_iskali_prishelcy_v_turcii">Эту запись НЛО весь научный мир признал настоящей. Что искали пришельцы в Турции?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Тайны/Эту запись НЛО весь научный мир признал настоящей. Что искали пришельцы в Турции:s:360839:e:858-->
+<!----><!--2026-03-22 13:48:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/avstraliya_samaya_bolshaya_loj_na_zemle_kak_pravitelstva_i_aviakompanii_vvodyat_nas_v_zablujdenie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a66dae1f7d88c9103a21056879673304/" src="http://pic.rtbcdn.ru/video/2024-11-11/87/47/874790af3c9ded69311afccd8f57da88.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/avstraliya_samaya_bolshaya_loj_na_zemle_kak_pravitelstva_i_aviakompanii_vvodyat_nas_v_zablujdenie">Австралия — самая большая ложь на Земле? Как правительства и авиакомпании вводят нас в заблуждение</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Австралия самая большая ложь на Земле Как правительства и авиакомпании вводят нас в заблуждение:s:361880:e:920-->
 <!----><!--2025-11-25 12:52:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/eta_karta_nashej_yachejki_podrobno_pokazyvaet_stroenie_mirov_sotovoj_zemli_za_stenoj_antarktidy">
@@ -4001,7 +4210,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-25</i>
   </div>
-</div><!--n:Тайны/Эта карта нашей ячейки подробно показывает строение миров сотовой земли за стеной Антарктиды:s:343144:e:911-->
+</div><!--n:Тайны/Эта карта нашей ячейки подробно показывает строение миров сотовой земли за стеной Антарктиды:s:363013:e:911-->
 <!----><!--2025-12-23 21:07:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kuda_ischezli_vse_ljudi_na_fotografiyah_19_veka">
@@ -4012,7 +4221,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Куда исчезли все люди на фотографиях 19 века:s:344263:e:722-->
+</div><!--n:Тайны/Куда исчезли все люди на фотографиях 19 века:s:364132:e:722-->
 <!----><!--2025-11-24 16:32:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_uje_zdes_gigantskoe_nlo_pohojee_na_kometu_zametili_na_orbite_zemli">
@@ -4023,7 +4232,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Тайны/3i ATLAS УЖЕ ЗДЕСЬ Гигантское НЛО Похожее на Комету Заметили на Орбите Земли:s:345100:e:832-->
+</div><!--n:Тайны/3i ATLAS УЖЕ ЗДЕСЬ Гигантское НЛО Похожее на Комету Заметили на Орбите Земли:s:364969:e:832-->
 <!----><!--2026-03-14 15:35:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_nasa_vozvrashchaet_ljudej_k_lune_spustya_54_goda">
@@ -4034,7 +4243,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Почему НАСА возвращает людей к Луне спустя 54 года:s:346101:e:747-->
+</div><!--n:Тайны/Почему НАСА возвращает людей к Луне спустя 54 года:s:365970:e:747-->
 <!----><!--2026-02-02 21:24:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kamera_lifta_dvorca_sporta_zafiksirovala_kranovshchika_propavshego_40_let_nazad">
@@ -4045,7 +4254,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-02</i>
   </div>
-</div><!--n:Тайны/Камера лифта Дворца спорта зафиксировала крановщика пропавшего 40 лет назад:s:346974:e:841-->
+</div><!--n:Тайны/Камера лифта Дворца спорта зафиксировала крановщика пропавшего 40 лет назад:s:366843:e:841-->
 <!----><!--2026-03-16 11:27:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/derjim_v_rukah_gta_6_i_zalezaem_v_arhivy_vatikana_nashel_puteshestvennika_vo_vremeni_iz_2500_goda">
@@ -4056,7 +4265,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/ДЕРЖИМ В РУКАХ GTA 6 и залезаем в Архивы Ватикана Нашел ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ из 2500 года:s:347990:e:906-->
+</div><!--n:Тайны/ДЕРЖИМ В РУКАХ GTA 6 и залезаем в Архивы Ватикана Нашел ПУТЕШЕСТВЕННИКА ВО ВРЕМЕНИ из 2500 года:s:367859:e:906-->
 <!----><!--2026-01-20 22:09:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kuznec_iz_1821_goda_poyavivshijsya_v_1968m_sluchajnost_ili_tajnyj_sovetskij_eksperiment">
@@ -4067,7 +4276,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-20</i>
   </div>
-</div><!--n:Тайны/Кузнец из 1821 года появившийся в 1968м Случайность или тайный советский эксперимент:s:349098:e:873-->
+</div><!--n:Тайны/Кузнец из 1821 года появившийся в 1968м Случайность или тайный советский эксперимент:s:368967:e:873-->
 <!----><!--2026-02-20 18:48:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kem_na_samom_dele_yavlyaetsya_snejnyj_chelovek">
@@ -4078,7 +4287,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/Кем на самом деле является Снежный Человек:s:350156:e:715-->
+</div><!--n:Тайны/Кем на самом деле является Снежный Человек:s:370025:e:715-->
 <!----><!--2026-01-28 18:25:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kitaj_sozdal_gravitaciju_v_2000_raz_silnee_zemnoj_i_v_seti_srazu_zagovorili_o_strannyh_sovpadeniyah">
@@ -4089,7 +4298,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-28</i>
   </div>
-</div><!--n:Тайны/Китай создал гравитацию в 2000 раз сильнее земной и в сети сразу заговорили о странных совпадениях:s:350985:e:923-->
+</div><!--n:Тайны/Китай создал гравитацию в 2000 раз сильнее земной и в сети сразу заговорили о странных совпадениях:s:370854:e:923-->
 <!----><!--2026-02-14 17:57:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kamera_otelya_v_kalifornii_zapisala_kriki_iz_pustogo_nomera_i_strannye_sledy_vnutri">
@@ -4100,7 +4309,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-14</i>
   </div>
-</div><!--n:Тайны/Камера отеля в Калифорнии записала крики из пустого номера и странные следы внутри:s:352121:e:862-->
+</div><!--n:Тайны/Камера отеля в Калифорнии записала крики из пустого номера и странные следы внутри:s:371990:e:862-->
 <!----><!--2025-11-25 12:45:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/korabl_zamechen_v_glubine_antarktidy_kto-to_pytaetsya_uplyt_za_ledyanuju_stenu_skvoz_letnie_vrata">
@@ -4111,7 +4320,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-25</i>
   </div>
-</div><!--n:Тайны/Корабль замечен в глубине Антарктиды Кто-то пытается уплыть за ледяную стену сквозь Летние Врата:s:353171:e:924-->
+</div><!--n:Тайны/Корабль замечен в глубине Антарктиды Кто-то пытается уплыть за ледяную стену сквозь Летние Врата:s:373040:e:924-->
 <!----><!--2026-03-05 19:45:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/turist_nashel_gigantskie_kristallicheskie_jily_ryadom_s_piramidami_na_plato_giza">
@@ -4122,7 +4331,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Тайны/Турист нашел гигантские кристаллические жилы рядом с Пирамидами на плато Гиза:s:354309:e:848-->
+</div><!--n:Тайны/Турист нашел гигантские кристаллические жилы рядом с Пирамидами на плато Гиза:s:374178:e:848-->
 <!----><!--2025-12-05 19:18:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_3i_atlas_snova_vedet_sebya_ne_kak_kometa">
@@ -4133,7 +4342,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Тайны/Почему 3i Atlas снова ведёт себя не как комета:s:355337:e:722-->
+</div><!--n:Тайны/Почему 3i Atlas снова ведёт себя не как комета:s:375206:e:722-->
 <!----><!--2025-12-21 17:32:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/prostoj_mehanik_sobral_v_pustyne_mashinu_vremeni_po_inoplanetnym_chertejam">
@@ -4144,7 +4353,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-21</i>
   </div>
-</div><!--n:Тайны/Простой механик собрал в пустыне машину времени по инопланетным чертежам:s:356172:e:832-->
+</div><!--n:Тайны/Простой механик собрал в пустыне машину времени по инопланетным чертежам:s:376041:e:832-->
 <!----><!--2026-03-10 15:42:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/dokument_cru_opisyvaet_eksperiment_s_distancionnym_nabljudeniem_civilizacii_marsa_million_let_nazad">
@@ -4155,7 +4364,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Тайны/Документ ЦРУ описывает эксперимент с дистанционным наблюдением цивилизации Марса миллион лет назад:s:357175:e:931-->
+</div><!--n:Тайны/Документ ЦРУ описывает эксперимент с дистанционным наблюдением цивилизации Марса миллион лет назад:s:377044:e:931-->
 <!----><!--2026-02-20 19:21:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sekretnye_materialy_mogli_zakryt_iz_za_slishkom_blizkogo_shodstva_s_realnostju">
@@ -4166,7 +4375,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/Секретные Материалы могли закрыть из за слишком близкого сходства с реальностью:s:358327:e:849-->
+</div><!--n:Тайны/Секретные Материалы могли закрыть из за слишком близкого сходства с реальностью:s:378196:e:849-->
 <!----><!--2026-01-10 20:40:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_irane_nashli_katakomby_pohojie_na_oplavlennye_neboskreby">
@@ -4177,7 +4386,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-10</i>
   </div>
-</div><!--n:Тайны/В Иране нашли катакомбы похожие на оплавленные небоскрёбы:s:359360:e:775-->
+</div><!--n:Тайны/В Иране нашли катакомбы похожие на оплавленные небоскрёбы:s:379229:e:775-->
 <!----><!--2025-11-30 18:53:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_vozvrashchaetsya_za_lunnym_korablem_i_tisulskoj_princessoj">
@@ -4188,7 +4397,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-30</i>
   </div>
-</div><!--n:Тайны/3i Atlas возвращается за лунным кораблём и Тисульской принцессой:s:360278:e:796-->
+</div><!--n:Тайны/3i Atlas возвращается за лунным кораблём и Тисульской принцессой:s:380147:e:796-->
 <!----><!--2026-02-20 18:54:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_kalifornii_ohotnik_vylojil_foto_bigfuta_i_bystro_ih_udalil">
@@ -4199,7 +4408,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/В Калифорнии охотник выложил фото бигфута и быстро их удалил:s:361223:e:779-->
+</div><!--n:Тайны/В Калифорнии охотник выложил фото бигфута и быстро их удалил:s:381092:e:779-->
 <!----><!--2025-11-06 14:44:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/prishelec_iz_bolivii_i_kyshtymskij_karlik_prileteli_na_zemlju_iz_odnoj_zvezdnoj_sistemy">
@@ -4210,7 +4419,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Тайны/Пришелец из Боливии и Кыштымский карлик прилетели на Землю из одной звездной системы:s:362149:e:879-->
+</div><!--n:Тайны/Пришелец из Боливии и Кыштымский карлик прилетели на Землю из одной звездной системы:s:382018:e:879-->
 <!----><!--2025-12-22 22:17:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_snova_postavil_pod_somnenie_svoju_kometnuju_prirodu_zapis_strima">
@@ -4221,7 +4430,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Тайны/3I ATLAS снова поставил под сомнение свою кометную природу ЗАПИСЬ СТРИМА:s:363220:e:821-->
+</div><!--n:Тайны/3I ATLAS снова поставил под сомнение свою кометную природу ЗАПИСЬ СТРИМА:s:383089:e:821-->
 <!----><!--2026-01-23 21:32:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kvartal_krasnyh_fonarej">
@@ -4232,7 +4441,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-01-23</i>
   </div>
-</div><!--n:Тайны/КВАРТАЛ КРАСНЫХ ФОНАРЕЙ:s:364204:e:648-->
+</div><!--n:Тайны/КВАРТАЛ КРАСНЫХ ФОНАРЕЙ:s:384073:e:648-->
 <!----><!--2026-03-14 07:44:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/lunu_schitajut_iskusstvennoj_stanciej_zemli">
@@ -4243,7 +4452,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Луну считают искусственной станцией Земли:s:364932:e:709-->
+</div><!--n:Тайны/Луну считают искусственной станцией Земли:s:384801:e:709-->
 <!----><!--2026-01-31 15:27:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/giganty_v_gorah_jujnoj_ameriki_na_sputnikovyh_snimkah_vyzvali_spory_o_drevnih_civilizaciyah">
@@ -4254,7 +4463,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-31</i>
   </div>
-</div><!--n:Тайны/Гиганты в горах Южной Америки на спутниковых снимках вызвали споры о древних цивилизациях:s:365755:e:892-->
+</div><!--n:Тайны/Гиганты в горах Южной Америки на спутниковых снимках вызвали споры о древних цивилизациях:s:385624:e:892-->
 <!----><!--2025-12-03 17:27:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/solnechnyj_antihvost_3i_atlas_mojet_okazatsya_skrytoj_gruppoj_drugih_obektov">
@@ -4265,7 +4474,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Тайны/Солнечный антихвост 3I ATLAS может оказаться скрытой группой других объектов:s:366849:e:841-->
+</div><!--n:Тайны/Солнечный антихвост 3I ATLAS может оказаться скрытой группой других объектов:s:386718:e:841-->
 <!----><!--2025-11-21 21:54:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/starinnaya_varvarka_-_serdce_moskvy">
@@ -4276,7 +4485,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-11-21</i>
   </div>
-</div><!--n:Тайны/СТАРИННАЯ ВАРВАРКА - СЕРДЦЕ МОСКВЫ:s:367862:e:691-->
+</div><!--n:Тайны/СТАРИННАЯ ВАРВАРКА - СЕРДЦЕ МОСКВЫ:s:387731:e:691-->
 <!----><!--2025-11-18 13:21:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kuda_ischezla_rasa_velikanov_pochemu_uchenye_molchat_o_gigantah_jivshih_ryadom_s_ljudmi">
@@ -4287,7 +4496,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Тайны/Куда исчезла раса великанов Почему ученые молчат о гигантах живших рядом с людьми:s:368652:e:874-->
+</div><!--n:Тайны/Куда исчезла раса великанов Почему ученые молчат о гигантах живших рядом с людьми:s:388521:e:874-->
 <!----><!--2026-02-12 18:32:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/video_s_luny_pokazalo_semyaobraznoe_nlo_vyletajushchee_iz_kratera">
@@ -4298,7 +4507,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Тайны/Видео с Луны показало семяобразное НЛО вылетающее из кратера:s:369712:e:790-->
+</div><!--n:Тайны/Видео с Луны показало семяобразное НЛО вылетающее из кратера:s:389581:e:790-->
 <!----><!--2026-01-06 15:24:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/lednik_sudnogo_dnya_v_antarktide_nachal_razrushatsya_bystree_prognozov_zapis_strima">
@@ -4309,7 +4518,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-06</i>
   </div>
-</div><!--n:Тайны/Ледник Судного Дня в Антарктиде начал разрушаться быстрее прогнозов ЗАПИСЬ СТРИМА:s:370650:e:870-->
+</div><!--n:Тайны/Ледник Судного Дня в Антарктиде начал разрушаться быстрее прогнозов ЗАПИСЬ СТРИМА:s:390519:e:870-->
 <!----><!--2026-01-06 15:16:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/prishelec_popal_v_kadr_vo_vremya_obychnogo_videozvonka_zapis_strima">
@@ -4320,7 +4529,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-06</i>
   </div>
-</div><!--n:Тайны/Пришелец попал в кадр во время обычного видеозвонка ЗАПИСЬ СТРИМА:s:371708:e:804-->
+</div><!--n:Тайны/Пришелец попал в кадр во время обычного видеозвонка ЗАПИСЬ СТРИМА:s:391577:e:804-->
 <!----><!--2026-02-17 13:28:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/snimok_nasa_s_izvivajushchimsya_nlo_u_granicy_atmosfery_vyzval_spory">
@@ -4331,7 +4540,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-17</i>
   </div>
-</div><!--n:Тайны/Снимок NASA с извивающимся НЛО у границы атмосферы вызвал споры:s:372669:e:793-->
+</div><!--n:Тайны/Снимок NASA с извивающимся НЛО у границы атмосферы вызвал споры:s:392538:e:793-->
 <!----><!--2025-12-22 22:21:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/energeticheskij_vsplesk_na_zemle_sovpal_s_momentom_maksimalnogo_sblijeniya_3i_atlas_zapis_strima">
@@ -4342,7 +4551,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Тайны/Энергетический всплеск на Земле совпал с моментом максимального сближения 3I ATLAS ЗАПИСЬ СТРИМА:s:373611:e:913-->
+</div><!--n:Тайны/Энергетический всплеск на Земле совпал с моментом максимального сближения 3I ATLAS ЗАПИСЬ СТРИМА:s:393480:e:913-->
 <!----><!--2025-11-21 12:29:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vysadka_prishelcev_v_majami_chto_na_samom_dele_proizoshlo_v_torgovom_centre_v_bejsajd">
@@ -4353,7 +4562,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-21</i>
   </div>
-</div><!--n:Тайны/Высадка пришельцев в Майами Что на самом деле произошло в торговом центре в Бейсайд:s:374733:e:873-->
+</div><!--n:Тайны/Высадка пришельцев в Майами Что на самом деле произошло в торговом центре в Бейсайд:s:394602:e:873-->
 <!----><!--2025-11-19 19:48:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/do_raskrytiya_snimkov_3i_atlas_ostajutsya_minuty_i_avi_leb_nameknul_chto_nasa_ih_obrabatyvaet">
@@ -4364,7 +4573,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-19</i>
   </div>
-</div><!--n:Тайны/ДО РАСКРЫТИЯ СНИМКОВ 3I ATLAS остаются минуты и Ави Лёб намекнул что НАСА их обрабатывает:s:375795:e:895-->
+</div><!--n:Тайны/ДО РАСКРЫТИЯ СНИМКОВ 3I ATLAS остаются минуты и Ави Лёб намекнул что НАСА их обрабатывает:s:395664:e:895-->
 <!----><!--2025-11-19 18:36:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto_predskazal_foks_malder_prorochestva_seriala_sekretnye_materialy_stanovyatsya_realnostju">
@@ -4375,7 +4584,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-19</i>
   </div>
-</div><!--n:Тайны/Что предсказал Фокс Малдер Пророчества сериала Секретные Материалы становятся реальностью:s:376883:e:903-->
+</div><!--n:Тайны/Что предсказал Фокс Малдер Пророчества сериала Секретные Материалы становятся реальностью:s:396752:e:903-->
 <!----><!--2026-02-12 09:35:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_pogone_za_misticheskoj_ryboj_spustilsya_v_kollektor_i_nashel">
@@ -4386,7 +4595,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Тайны/В погоне за МИСТИЧЕСКОЙ рыбой. Спустился в коллектор и нашёл...:s:377991:e:795-->
+</div><!--n:Тайны/В погоне за МИСТИЧЕСКОЙ рыбой. Спустился в коллектор и нашёл...:s:397860:e:795-->
 <!----><!--2025-11-13 20:07:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/drevnie_prorochestva_sbyvajutsya_u_zemli_poyavilos_vtoroe_solnce_i_vtoraya_luna">
@@ -4397,7 +4606,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-13</i>
   </div>
-</div><!--n:Тайны/Древние пророчества сбываются У Земли появилось второе Солнце и вторая Луна:s:378935:e:848-->
+</div><!--n:Тайны/Древние пророчества сбываются У Земли появилось второе Солнце и вторая Луна:s:398804:e:848-->
 <!----><!--2026-03-14 15:35:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/na_vidimoj_storone_luny_zametili_vzlet_strannogo_nlo_s_kratera">
@@ -4408,7 +4617,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/На видимой стороне Луны заметили взлёт странного НЛО с кратера:s:379959:e:783-->
+</div><!--n:Тайны/На видимой стороне Луны заметили взлёт странного НЛО с кратера:s:399828:e:783-->
 <!----><!--2026-01-16 09:10:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_72_godu_ischez_student-astronom_i_spustya_desyatiletiya_ego_nachali_nahodit_na_snimkah_ryadom_s_nlo">
@@ -4419,7 +4628,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-16</i>
   </div>
-</div><!--n:Тайны/В 72 году исчез студент-астроном и спустя десятилетия его начали находить на снимках рядом с НЛО:s:380893:e:924-->
+</div><!--n:Тайны/В 72 году исчез студент-астроном и спустя десятилетия его начали находить на снимках рядом с НЛО:s:400762:e:924-->
 <!----><!--2026-03-16 11:28:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tunnel_v_antarktide_kak_polyarniki_so_stancii_mak-merdo_okazalis_puteshestvennikami_vo_vremeni">
@@ -4430,7 +4639,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Туннель в Антарктиде Как полярники со станции Мак-Мердо оказались путешественниками во времени:s:382027:e:909-->
+</div><!--n:Тайны/Туннель в Антарктиде Как полярники со станции Мак-Мердо оказались путешественниками во времени:s:401896:e:909-->
 <!----><!--2025-10-31 12:26:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/specnaz_stolknulsya_s_velikanom_v_afganistane_i_zatem_cru_dostavili_giganta_v_zonu_51">
@@ -4441,7 +4650,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Тайны/Спецназ столкнулся с великаном в Афганистане и затем ЦРУ доставили гиганта в Зону 51:s:383148:e:872-->
+</div><!--n:Тайны/Спецназ столкнулся с великаном в Афганистане и затем ЦРУ доставили гиганта в Зону 51:s:403017:e:872-->
 <!----><!--2026-01-02 20:45:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/a_i_d_gulyali_po_trube">
@@ -4452,7 +4661,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/А и Д ГУЛЯЛИ ПО ТРУБЕ:s:384209:e:639-->
+</div><!--n:Тайны/А и Д ГУЛЯЛИ ПО ТРУБЕ:s:404078:e:639-->
 <!----><!--2026-03-14 07:44:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/imenno_poetomu_nikto_ne_letaet_nad_tihim_okeanom">
@@ -4463,7 +4672,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/ИМЕННО ПОЭТОМУ НИКТО не летает над Тихим Океаном:s:384921:e:730-->
+</div><!--n:Тайны/ИМЕННО ПОЭТОМУ НИКТО не летает над Тихим Океаном:s:404790:e:730-->
 <!----><!--2025-05-16 21:06:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/stopan_i_barashi">
@@ -4474,7 +4683,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-05-16</i>
   </div>
-</div><!--n:Тайны/СТОПАНЬ И БАРАШИ:s:385776:e:624-->
+</div><!--n:Тайны/СТОПАНЬ И БАРАШИ:s:405645:e:624-->
 <!----><!--2026-01-31 15:26:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/puteshestvennik_vo_vremeni_ili_pochemu_kupec_xix_veka_pugajushche_pohoj_na_svidetelya_windows">
@@ -4485,7 +4694,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-31</i>
   </div>
-</div><!--n:Тайны/Путешественник во Времени или почему Купец XIX века пугающе похож на Свидетеля Windows:s:386466:e:881-->
+</div><!--n:Тайны/Путешественник во Времени или почему Купец XIX века пугающе похож на Свидетеля Windows:s:406335:e:881-->
 <!----><!--2026-01-12 20:50:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1958_godu_v_kolyme_iz_vechnoj_merzloty_vytayala_drevnyaya_mashina">
@@ -4496,7 +4705,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-12</i>
   </div>
-</div><!--n:Тайны/В 1958 году в Колыме из вечной мерзлоты вытаяла древняя машина:s:387533:e:792-->
+</div><!--n:Тайны/В 1958 году в Колыме из вечной мерзлоты вытаяла древняя машина:s:407402:e:792-->
 <!----><!--2026-03-14 15:35:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/bloger_pokazal_mesto_lunnoj_vysadki_apollona_na_zemle_i_ischez">
@@ -4507,7 +4716,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Блогер показал место лунной высадки Аполлона на Земле и исчез:s:388471:e:783-->
+</div><!--n:Тайны/Блогер показал место лунной высадки Аполлона на Земле и исчез:s:408340:e:783-->
 <!----><!--2025-11-17 16:06:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_voennyj_injener_rasskazal_kak_zemlju_prevrashchajut_v_kosmicheskuju_zvezdu_smerti">
@@ -4518,7 +4727,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-17</i>
   </div>
-</div><!--n:Тайны/Бывший военный инженер рассказал как Землю превращают в космическую Звезду Смерти:s:389403:e:879-->
+</div><!--n:Тайны/Бывший военный инженер рассказал как Землю превращают в космическую Звезду Смерти:s:409272:e:879-->
 <!----><!--2026-02-02 21:21:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_2015_godu_na_stancii_obnarujili_rabochego_ischeznuvshego_zimoj_1977_goda">
@@ -4529,7 +4738,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-02</i>
   </div>
-</div><!--n:Тайны/В 2015 году на станции обнаружили рабочего исчезнувшего зимой 1977 года:s:390470:e:816-->
+</div><!--n:Тайны/В 2015 году на станции обнаружили рабочего исчезнувшего зимой 1977 года:s:410339:e:816-->
 <!----><!--2026-01-29 21:42:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1981_goda_posle_meteli_na_zamerzshem_ozere_obnarujili_pustoj_passajirskij_samolet">
@@ -4540,7 +4749,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-29</i>
   </div>
-</div><!--n:Тайны/Зимой 1981 года после метели на замёрзшем озере обнаружили пустой пассажирский самолёт:s:391446:e:875-->
+</div><!--n:Тайны/Зимой 1981 года после метели на замёрзшем озере обнаружили пустой пассажирский самолёт:s:411315:e:875-->
 <!----><!--2025-05-23 20:59:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/yauza_i_podzemelya_vokrug_s_elizavetoj_nenashevoj_i_gennadiem_vinogradovym">
@@ -4551,7 +4760,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-05-23</i>
   </div>
-</div><!--n:Тайны/ЯУЗА И ПОДЗЕМЕЛЬЯ ВОКРУГ С ЕЛИЗАВЕТОЙ НЕНАШЕВОЙ И ГЕННАДИЕМ ВИНОГРАДОВЫМ:s:392514:e:845-->
+</div><!--n:Тайны/ЯУЗА И ПОДЗЕМЕЛЬЯ ВОКРУГ С ЕЛИЗАВЕТОЙ НЕНАШЕВОЙ И ГЕННАДИЕМ ВИНОГРАДОВЫМ:s:412383:e:845-->
 <!----><!--2025-12-02 14:52:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_mojet_okazatsya_drevnim_kosmicheskim_vozvrashchencem_v_solnechnuju_sistemu">
@@ -4562,7 +4771,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Тайны/3I ATLAS может оказаться древним космическим возвращенцем в Солнечную систему:s:393530:e:857-->
+</div><!--n:Тайны/3I ATLAS может оказаться древним космическим возвращенцем в Солнечную систему:s:413399:e:857-->
 <!----><!--2025-11-04 22:03:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/snimok_3i_atlas_vo_vremya_negravitacionnogo_manevra_poddelka_ili_foto_utechka_nasa">
@@ -4573,7 +4782,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-04</i>
   </div>
-</div><!--n:Тайны/Снимок 3I ATLAS во время негравитационного манёвра Подделка или фото утечка НАСА:s:394561:e:856-->
+</div><!--n:Тайны/Снимок 3I ATLAS во время негравитационного манёвра Подделка или фото утечка НАСА:s:414430:e:856-->
 <!----><!--2026-01-03 21:33:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/foto_nahodki_sotovogo_telefona_v_kamne_porodilo_sluhi_o_puteshestvennike_vo_vremeni_zapis_strima">
@@ -4584,7 +4793,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-03</i>
   </div>
-</div><!--n:Тайны/Фото находки сотового телефона в камне породило слухи о путешественнике во времени ЗАПИСЬ СТРИМА:s:395595:e:919-->
+</div><!--n:Тайны/Фото находки сотового телефона в камне породило слухи о путешественнике во времени ЗАПИСЬ СТРИМА:s:415464:e:919-->
 <!----><!--2025-12-24 18:18:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/my_otkryli_chto-to_chego_ne_ponimali_-_eksperimenty_s_nevidimostju_v_sovetskoj_laboratorii_v_sibiri">
@@ -4595,7 +4804,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-24</i>
   </div>
-</div><!--n:Тайны/Мы открыли что-то чего не понимали - Эксперименты с невидимостью в советской лаборатории в Сибири:s:396729:e:927-->
+</div><!--n:Тайны/Мы открыли что-то чего не понимали - Эксперименты с невидимостью в советской лаборатории в Сибири:s:416598:e:927-->
 <!----><!--2025-11-26 12:23:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kuda_na_samom_dele_smotrit_statuya_svobody_eto_kljuch_k_drugim_zemlyam_za_ledyanoj_stenoj_antarktidy">
@@ -4606,7 +4815,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Тайны/Куда на самом деле смотрит Статуя Свободы Это ключ к другим землям за ледяной стеной Антарктиды:s:397870:e:925-->
+</div><!--n:Тайны/Куда на самом деле смотрит Статуя Свободы Это ключ к другим землям за ледяной стеной Антарктиды:s:417739:e:925-->
 <!----><!--2026-03-09 13:45:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1960_godu_v_sverdlovske_zaderjali_jenshchinu_utverjdavshuju_chto_sssr_uje_ne_sushchestvuet">
@@ -4617,7 +4826,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-09</i>
   </div>
-</div><!--n:Тайны/В 1960 году в Свердловске задержали женщину утверждавшую что СССР уже не существует:s:399006:e:878-->
+</div><!--n:Тайны/В 1960 году в Свердловске задержали женщину утверждавшую что СССР уже не существует:s:418875:e:878-->
 <!----><!--2026-01-29 13:22:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1957_goda_posle_snejnoj_buri_derevnju_nashli_polnostju_sohranennoj_no_bez_jitelej">
@@ -4628,7 +4837,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-29</i>
   </div>
-</div><!--n:Тайны/Зимой 1957 года после снежной бури деревню нашли полностью сохранённой но без жителей:s:400070:e:873-->
+</div><!--n:Тайны/Зимой 1957 года после снежной бури деревню нашли полностью сохранённой но без жителей:s:419939:e:873-->
 <!----><!--2026-02-26 15:12:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/veteran_nasa_zayavil_chto_inoplanetyane_sushchestvujut_no_zemlju_oni_ne_poseshchali_i_obyasnil_pochemu">
@@ -4639,7 +4848,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Тайны/Ветеран НАСА заявил что инопланетяне существуют но Землю они не посещали и объяснил почему:s:401133:e:915-->
+</div><!--n:Тайны/Ветеран НАСА заявил что инопланетяне существуют но Землю они не посещали и объяснил почему:s:421002:e:915-->
 <!----><!--2025-11-30 18:54:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_letit_k_zemle_chtoby_aktivirovat_piramidy_i_drevnjuju_set_megalitov">
@@ -4650,7 +4859,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-30</i>
   </div>
-</div><!--n:Тайны/3i Atlas летит к Земле чтобы активировать пирамиды и древнюю сеть мегалитов:s:402251:e:833-->
+</div><!--n:Тайны/3i Atlas летит к Земле чтобы активировать пирамиды и древнюю сеть мегалитов:s:422120:e:833-->
 <!----><!--2025-12-28 20:39:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/stanciya_v_antarktide_chislilas_zabroshennoj_no_vnutri_vse_vyglyadelo_tak_budto_ljudi_ushli_vchera">
@@ -4661,7 +4870,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-28</i>
   </div>
-</div><!--n:Тайны/Станция в Антарктиде числилась заброшенной но внутри всё выглядело так будто люди ушли вчера:s:403252:e:917-->
+</div><!--n:Тайны/Станция в Антарктиде числилась заброшенной но внутри всё выглядело так будто люди ушли вчера:s:423121:e:917-->
 <!----><!--2025-12-05 20:59:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vdnh_-_ot_udarnikov_kolhoznikov_do_modnyh_tusovshchikov">
@@ -4672,7 +4881,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Тайны/ВДНХ - ОТ УДАРНИКОВ КОЛХОЗНИКОВ ДО МОДНЫХ ТУСОВЩИКОВ:s:404376:e:764-->
+</div><!--n:Тайны/ВДНХ - ОТ УДАРНИКОВ КОЛХОЗНИКОВ ДО МОДНЫХ ТУСОВЩИКОВ:s:424245:e:764-->
 <!----><!--2025-11-14 13:22:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kto_postroil_gigantskuju_beskonechnuju_stenu_vysotoj_v_500_metrov_v_gorah_yakutii">
@@ -4683,7 +4892,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Тайны/Кто построил гигантскую бесконечную стену высотой в 500 метров в горах Якутии:s:405272:e:851-->
+</div><!--n:Тайны/Кто построил гигантскую бесконечную стену высотой в 500 метров в горах Якутии:s:425141:e:851-->
 <!----><!--2026-01-22 20:41:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_grenlandii_podo_ldom_nashli_gigantskij_treugolnik_neizvestnogo_proishojdeniya">
@@ -4694,7 +4903,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Тайны/В Гренландии подо льдом нашли гигантский треугольник неизвестного происхождения:s:406299:e:856-->
+</div><!--n:Тайны/В Гренландии подо льдом нашли гигантский треугольник неизвестного происхождения:s:426168:e:856-->
 <!----><!--2025-12-02 15:56:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/teper_ponyatno_pochemu_k_nam_letit_3i_atlas_-_zabirat_svoih_drevnih_sorodichej">
@@ -4705,7 +4914,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Тайны/Теперь понятно почему к нам летит 3i Atlas - забирать своих древних сородичей:s:407341:e:839-->
+</div><!--n:Тайны/Теперь понятно почему к нам летит 3i Atlas - забирать своих древних сородичей:s:427210:e:839-->
 <!----><!--2026-01-02 22:18:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1987_godu_sovetskij_dalnobojshchik_podvez_cheloveka_s_ustrojstvom_pohojim_na_smartfon">
@@ -4716,7 +4925,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1987 году советский дальнобойщик подвёз человека с устройством похожим на смартфон:s:408350:e:875-->
+</div><!--n:Тайны/В 1987 году советский дальнобойщик подвёз человека с устройством похожим на смартфон:s:428219:e:875-->
 <!----><!--2025-10-31 20:36:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_seti_poyavilas_fotografiya_3i_atlas_i_polzovateli_uvereny_chto_eto_utechka_nasa">
@@ -4727,7 +4936,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Тайны/В сети появилась ФОТОГРАФИЯ 3I ATLAS и пользователи уверены что это утечка NASA:s:409414:e:845-->
+</div><!--n:Тайны/В сети появилась ФОТОГРАФИЯ 3I ATLAS и пользователи уверены что это утечка NASA:s:429283:e:845-->
+<!----><!--2026-03-22 13:48:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/megalodon_nahoditsya_v_podvodnoj_tjurme_nasa_dlya_doistoricheskih_morskih_hishchnikov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cdb5bc00276f1871ef05da5bc837d2e9/" src="http://pic.rtbcdn.ru/video/2025-03-14/43/34/4334a472684493696cd88d3946d8c3ad.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/megalodon_nahoditsya_v_podvodnoj_tjurme_nasa_dlya_doistoricheskih_morskih_hishchnikov">Мегалодон находится в подводной тюрьме НАСА для доисторических морских хищников?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Мегалодон находится в подводной тюрьме НАСА для доисторических морских хищников:s:430299:e:864-->
 <!----><!--2025-11-04 13:12:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/eti_dve_zvezdy_ili_dva_strannyh_yarkih_obekta_v_nochnom_nebe_mogut_okazatsya_sovsem_ne_planetami">
@@ -4738,7 +4958,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-04</i>
   </div>
-</div><!--n:Тайны/Эти две звезды или два странных ярких объекта в ночном небе могут оказаться совсем НЕ планетами:s:410430:e:916-->
+</div><!--n:Тайны/Эти две звезды или два странных ярких объекта в ночном небе могут оказаться совсем НЕ планетами:s:431348:e:916-->
 <!----><!--2026-02-12 18:55:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nasa_namerenno_otkljuchilo_teleskop_tess_chtoby_skryt_iskusstvennyj_signal_ot_3i_atlas">
@@ -4749,7 +4969,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Тайны/НАСА намеренно отключило телескоп TESS чтобы скрыть искусственный сигнал от 3i ATLAS:s:411557:e:862-->
+</div><!--n:Тайны/НАСА намеренно отключило телескоп TESS чтобы скрыть искусственный сигнал от 3i ATLAS:s:432475:e:862-->
 <!----><!--2026-03-14 15:39:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/apollon-20_vnov_okazalsya_v_centre_vnimaniya_posle_publikacii_starogo_video_s_korablem_na_lune">
@@ -4760,7 +4980,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Аполлон-20 вновь оказался в центре внимания после публикации старого видео с кораблем на Луне:s:412601:e:902-->
+</div><!--n:Тайны/Аполлон-20 вновь оказался в центре внимания после публикации старого видео с кораблем на Луне:s:433519:e:902-->
+<!----><!--2026-03-23 15:45:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/rybak_snyal_v_okeane_strannye_sireny_rusalok_posle_chego_ego_kanal_vnezapno_ischez">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e7344d7e0faf4f99c6d9a5091d7f2f1a/" src="http://pic.rtbcdn.ru/video/2026-03-22/d1/d3/d1d3fd2166b7e1602b10f8a6b7ac8918.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/rybak_snyal_v_okeane_strannye_sireny_rusalok_posle_chego_ego_kanal_vnezapno_ischez">Рыбак снял в океане странные «сирены русалок» после чего его канал внезапно исчез</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-23</i>
+  </div>
+</div><!--n:Тайны/Рыбак снял в океане странные сирены русалок после чего его канал внезапно исчез:s:434627:e:858-->
 <!----><!--2026-03-16 07:17:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1883_godu_v_arhangelskoj_gubernii_nashli_malchika_kotoryj_znal_slova_samolet__metro_i_radio">
@@ -4771,7 +5002,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/В 1883 году в Архангельской губернии нашли мальчика, который знал слова самолёт , метро и радио:s:413709:e:910-->
+</div><!--n:Тайны/В 1883 году в Архангельской губернии нашли мальчика, который знал слова самолёт , метро и радио:s:435667:e:910-->
 <!----><!--2026-03-13 21:54:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sokolniki_-_ochi_sokoli_a_brovi_soboli">
@@ -4782,7 +5013,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-03-13</i>
   </div>
-</div><!--n:Тайны/СОКОЛЬНИКИ - ОЧИ СОКОЛЬИ, А БРОВИ СОБОЛЬИ:s:414824:e:708-->
+</div><!--n:Тайны/СОКОЛЬНИКИ - ОЧИ СОКОЛЬИ, А БРОВИ СОБОЛЬИ:s:436782:e:708-->
 <!----><!--2026-01-30 20:48:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/cvetnoj_bulvar">
@@ -4793,7 +5024,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-01-30</i>
   </div>
-</div><!--n:Тайны/ЦВЕТНОЙ БУЛЬВАР:s:415642:e:615-->
+</div><!--n:Тайны/ЦВЕТНОЙ БУЛЬВАР:s:437600:e:615-->
 <!----><!--2025-10-31 12:30:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/starinnye_karty_mogut_raskryt_glavnuju_tajnu_zabora_avstralii">
@@ -4804,7 +5035,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Тайны/Старинные карты могут раскрыть главную тайну Забора Австралии:s:416322:e:786-->
+</div><!--n:Тайны/Старинные карты могут раскрыть главную тайну Забора Австралии:s:438280:e:786-->
 <!----><!--2025-11-21 23:56:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/on_govoril_chto_nasha_strana_raspadetsya_-_istoriya_o_cheloveke_iz_50-h_s_urala_kotoryj_zagadochno_ischez">
@@ -4815,7 +5046,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-21</i>
   </div>
-</div><!--n:Тайны/Он говорил что наша страна распадётся - история о человеке из 50-х с Урала который загадочно исчез:s:417259:e:938-->
+</div><!--n:Тайны/Он говорил что наша страна распадётся - история о человеке из 50-х с Урала который загадочно исчез:s:439217:e:938-->
 <!----><!--2026-01-10 20:33:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nasa_gotovitsya_k_otkljucheniju_gravitacii_na_zemle_v_avguste_2026_goda">
@@ -4826,7 +5057,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-10</i>
   </div>
-</div><!--n:Тайны/НАСА готовится к отключению гравитации на Земле в августе 2026 года:s:418409:e:815-->
+</div><!--n:Тайны/НАСА готовится к отключению гравитации на Земле в августе 2026 года:s:440367:e:815-->
 <!----><!--2025-12-08 18:51:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sluhi_o_podzemnoj_civilizacii_na_kurilah_chto_nashli_sovetskie_uchenye_v_70-h">
@@ -4837,7 +5068,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Тайны/Слухи о подземной цивилизации на Курилах Что нашли советские учёные в 70-х:s:419380:e:838-->
+</div><!--n:Тайны/Слухи о подземной цивилизации на Курилах Что нашли советские учёные в 70-х:s:441338:e:838-->
 <!----><!--2025-11-09 11:22:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_internete_poyavilis_spornye_kadry_3i_atlas_foto_kotoroe_nasa_ne_publikovalo">
@@ -4848,7 +5079,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-09</i>
   </div>
-</div><!--n:Тайны/В интернете появились спорные кадры 3I ATLAS фото которое NASA не публиковало:s:420388:e:839-->
+</div><!--n:Тайны/В интернете появились спорные кадры 3I ATLAS фото которое NASA не публиковало:s:442346:e:839-->
+<!----><!--2026-03-23 15:45:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gde-to_na_blijnem_vostoke_snyali_rasplavlennuju_dver_pryamo_v_skale_i_bloger_popytalsya_ee_otkryt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7046d2f0ecf3c527d24b3a9843aab7e7/" src="http://pic.rtbcdn.ru/video/2026-03-19/b2/d8/b2d8caab060286e921e3275c27001d82.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gde-to_na_blijnem_vostoke_snyali_rasplavlennuju_dver_pryamo_v_skale_i_bloger_popytalsya_ee_otkryt">Где-то на Ближнем Востоке сняли расплавленную «дверь» прямо в скале и блогер попытался её открыть</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-23</i>
+  </div>
+</div><!--n:Тайны/Где-то на Ближнем Востоке сняли расплавленную дверь прямо в скале и блогер попытался её открыть:s:443353:e:917-->
 <!----><!--2025-11-17 16:01:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/on_projil_20_let_v_podzemnom_mire_i_vernulsya_molodym_s_kem_stolknulis_shahtery_pod_zemlej">
@@ -4859,7 +5101,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-17</i>
   </div>
-</div><!--n:Тайны/Он прожил 20 лет в Подземном Мире и вернулся молодым С кем столкнулись шахтеры под землей:s:421395:e:891-->
+</div><!--n:Тайны/Он прожил 20 лет в Подземном Мире и вернулся молодым С кем столкнулись шахтеры под землей:s:444481:e:891-->
 <!----><!--2026-03-03 14:21:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_pilot_cru_zayavil_chto_v_pustyne_juty_s_1953_goda_yakoby_zaryt_gigantskij_nlo">
@@ -4870,7 +5112,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Тайны/Бывший пилот ЦРУ заявил что в пустыне Юты с 1953 года якобы зарыт гигантский НЛО:s:422483:e:856-->
+</div><!--n:Тайны/Бывший пилот ЦРУ заявил что в пустыне Юты с 1953 года якобы зарыт гигантский НЛО:s:445569:e:856-->
 <!----><!--2026-03-14 15:35:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/luna_-_eto_inoplanetnyj_korabl_dlya_podderjaniya_jizni_na_zemle_luna_iskusstvennaya">
@@ -4881,7 +5123,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Луна - это инопланетный корабль для поддержания жизни на Земле Луна искусственная:s:423517:e:862-->
+</div><!--n:Тайны/Луна - это инопланетный корабль для поддержания жизни на Земле Луна искусственная:s:446603:e:862-->
 <!----><!--2025-11-13 22:02:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_3i_atlas_ne_razrushilsya_vozle_solnca_snimki_protivorechat_prognozam">
@@ -4892,7 +5134,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-13</i>
   </div>
-</div><!--n:Тайны/Почему 3i Atlas не разрушился возле Солнца снимки противоречат прогнозам:s:424565:e:832-->
+</div><!--n:Тайны/Почему 3i Atlas не разрушился возле Солнца снимки противоречат прогнозам:s:447651:e:832-->
 <!----><!--2026-02-20 18:50:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ochevidec_sluchajno_smog_zasnyat_bigfuta_v_lesu">
@@ -4903,7 +5145,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-20</i>
   </div>
-</div><!--n:Тайны/Очевидец случайно смог заснять Бигфута в лесу:s:425561:e:722-->
+</div><!--n:Тайны/Очевидец случайно смог заснять Бигфута в лесу:s:448647:e:722-->
 <!----><!--2025-11-18 13:09:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/troyanskij_kon_dlya_vsego_chelovechestva_kak_inoplanetnyj_ii_mojet_bystro_zahvatit_ves_mir">
@@ -4914,7 +5156,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Тайны/Троянский Конь для всего человечества Как инопланетный ИИ может быстро захватить весь мир:s:426403:e:896-->
+</div><!--n:Тайны/Троянский Конь для всего человечества Как инопланетный ИИ может быстро захватить весь мир:s:449489:e:896-->
 <!----><!--2025-10-31 12:37:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/piramidy_antarktidy_izmenili_navsegda_ego_predstavlenie_ob_ustrojstve_nashego_mira">
@@ -4925,7 +5167,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Тайны/Пирамиды Антарктиды изменили навсегда его представление об устройстве нашего мира:s:427501:e:866-->
+</div><!--n:Тайны/Пирамиды Антарктиды изменили навсегда его представление об устройстве нашего мира:s:450587:e:866-->
 <!----><!--2026-02-14 17:28:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_sotrudnik_zony_51_sdelal_gromkie_zayavleniya_o_rasah_prishelcev_na_zemle">
@@ -4936,7 +5178,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-14</i>
   </div>
-</div><!--n:Тайны/Бывший сотрудник Зоны 51 сделал громкие заявления о расах пришельцев на Земле:s:428556:e:845-->
+</div><!--n:Тайны/Бывший сотрудник Зоны 51 сделал громкие заявления о расах пришельцев на Земле:s:451642:e:845-->
 <!----><!--2025-12-24 19:57:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/my_ne_doljny_byli_sjuda_zahodit_zdes_chto-to_est_i_ono_znaet_chto_my_zdes">
@@ -4947,7 +5189,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-24</i>
   </div>
-</div><!--n:Тайны/Мы не должны были сюда заходить Здесь что-то есть и оно знает что мы здесь:s:429578:e:832-->
+</div><!--n:Тайны/Мы не должны были сюда заходить Здесь что-то есть и оно знает что мы здесь:s:452664:e:832-->
+<!----><!--2026-03-24 20:08:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_pakistane_nashli_kanon_pohojij_na_drevnij_gorod_so_sfinksom">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9186038961e64f285c38f5b0229ad1f8/" src="http://pic.rtbcdn.ru/video/2026-03-24/b2/f2/b2f2daf0ad0ed202a4593cdba99517a2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_pakistane_nashli_kanon_pohojij_na_drevnij_gorod_so_sfinksom">В Пакистане нашли каньон похожий на древний город со «Сфинксом»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/В Пакистане нашли каньон похожий на древний город со Сфинксом:s:453665:e:783-->
 <!----><!--2026-03-01 15:08:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/arkticheskoe_hranilishche_sudnogo_dnya_vnezapno_popolnili_pochti_8000_novymi_obrazcami_semyan">
@@ -4958,7 +5211,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-01</i>
   </div>
-</div><!--n:Тайны/Арктическое Хранилище Судного Дня внезапно пополнили почти 8000 новыми образцами семян:s:430579:e:892-->
+</div><!--n:Тайны/Арктическое Хранилище Судного Дня внезапно пополнили почти 8000 новыми образцами семян:s:454597:e:892-->
 <!----><!--2025-11-21 12:41:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nechto_jutkoe_obitaet_v_antarktide_o_chem_do_sih_por_molchat_polyarniki">
@@ -4969,7 +5222,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-21</i>
   </div>
-</div><!--n:Тайны/Нечто жуткое обитает в Антарктиде О чем до сих пор молчат полярники:s:431665:e:815-->
+</div><!--n:Тайны/Нечто жуткое обитает в Антарктиде О чем до сих пор молчат полярники:s:455683:e:815-->
 <!----><!--2025-12-31 00:23:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1981_godu_v_sibirskoj_tajge_nashli_poselok_kotorogo_ne_bylo_ni_na_odnoj_karte">
@@ -4980,7 +5233,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В 1981 году в сибирской тайге нашли посёлок которого не было ни на одной карте:s:432639:e:845-->
+</div><!--n:Тайны/В 1981 году в сибирской тайге нашли посёлок которого не было ни на одной карте:s:456657:e:845-->
 <!----><!--2025-12-24 17:57:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sovestkie_geologi_ischezli_v_karelskih_lesah_i_vernulis_spustya_20_let">
@@ -4991,7 +5244,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-24</i>
   </div>
-</div><!--n:Тайны/Совесткие Геологи исчезли в карельских лесах и вернулись спустя 20 лет:s:433658:e:816-->
+</div><!--n:Тайны/Совесткие Геологи исчезли в карельских лесах и вернулись спустя 20 лет:s:457676:e:816-->
 <!----><!--2025-11-06 14:46:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ih_nikto_ne_videl_na_lune">
@@ -5002,7 +5255,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Тайны/Их никто не видел на Луне:s:434638:e:644-->
+</div><!--n:Тайны/Их никто не видел на Луне:s:458656:e:644-->
 <!----><!--2025-11-05 14:32:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_na_starinnyh_kartah_izobrajali_velikanov_i_kuda_ischezli_giganty_patagonii">
@@ -5013,7 +5266,29 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-05</i>
   </div>
-</div><!--n:Тайны/Почему на старинных картах изображали великанов и куда исчезли гиганты Патагонии:s:435363:e:863-->
+</div><!--n:Тайны/Почему на старинных картах изображали великанов и куда исчезли гиганты Патагонии:s:459381:e:863-->
+<!----><!--2026-03-22 13:46:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/snejnyj_chelovek_sushchestvuet_i_pravitelstvo_ssha_desyatiletiyami_skryvaet_eto">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a7b37b660cc0bab48407601820691feb/" src="http://pic.rtbcdn.ru/video/2025-04-11/e5/f9/e5f9451224bafc0dd565f2e9bb48a633.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/snejnyj_chelovek_sushchestvuet_i_pravitelstvo_ssha_desyatiletiyami_skryvaet_eto">СНЕЖНЫЙ ЧЕЛОВЕК существует и правительство США десятилетиями скрывает это?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/СНЕЖНЫЙ ЧЕЛОВЕК существует и правительство США десятилетиями скрывает это:s:460430:e:841-->
+<!----><!--2026-03-23 15:45:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/staroe_arhivnoe_video_yakoby_iz_pilotiruemoj_lunnoj_missii_pokazalo_goroda_na_temnoj_storone_luny">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/24767f83284a8565b48e065bb0dd6beb/" src="http://pic.rtbcdn.ru/video/2026-03-22/97/8b/978bc5cc05295ac2f2807efdf2775d2b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/staroe_arhivnoe_video_yakoby_iz_pilotiruemoj_lunnoj_missii_pokazalo_goroda_na_temnoj_storone_luny">Старое архивное видео якобы из пилотируемой лунной миссии показало Города на тёмной стороне Луны?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-23</i>
+  </div>
+</div><!--n:Тайны/Старое архивное видео якобы из пилотируемой лунной миссии показало Города на тёмной стороне Луны:s:461445:e:918-->
 <!----><!--2025-11-24 20:09:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_novye_snimki_3i_atlas_vyglyadyat_chetche_u_ljubitelej_chem_u_nasa_zapis_strima">
@@ -5024,7 +5299,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Тайны/Почему новые снимки 3I ATLAS выглядят чётче у любителей чем у NASA ЗАПИСЬ СТРИМА:s:436412:e:858-->
+</div><!--n:Тайны/Почему новые снимки 3I ATLAS выглядят чётче у любителей чем у NASA ЗАПИСЬ СТРИМА:s:462578:e:858-->
 <!----><!--2025-11-20 10:43:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kitajskij_lunohod_zasnyal_gigantskij_nlo_na_lune_pohojij_na_3i_atlas">
@@ -5035,7 +5310,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-20</i>
   </div>
-</div><!--n:Тайны/Китайский Луноход заснял ГИГАНТСКИЙ НЛО на ЛУНЕ Похожий на 3i Atlas:s:437442:e:802-->
+</div><!--n:Тайны/Китайский Луноход заснял ГИГАНТСКИЙ НЛО на ЛУНЕ Похожий на 3i Atlas:s:463608:e:802-->
 <!----><!--2026-03-17 14:42:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/strannoe_video_s_mujchinoj_pohojim_na_pogibshego_finansista_s_izvestnogo_ostrova">
@@ -5046,7 +5321,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-17</i>
   </div>
-</div><!--n:Тайны/Странное видео с мужчиной похожим на погибшего финансиста с известного острова:s:438397:e:850-->
+</div><!--n:Тайны/Странное видео с мужчиной похожим на погибшего финансиста с известного острова:s:464563:e:850-->
 <!----><!--2025-12-20 17:01:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/legenda_o_jake_kusto_i_otkrytii_zateryannogo_goroda_na_dne_atlanticheskogo_okeana">
@@ -5057,7 +5332,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-20</i>
   </div>
-</div><!--n:Тайны/Легенда о Жаке Кусто и открытии затерянного города на дне Атлантического океана:s:439429:e:857-->
+</div><!--n:Тайны/Легенда о Жаке Кусто и открытии затерянного города на дне Атлантического океана:s:465595:e:857-->
+<!----><!--2026-03-24 12:50:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nechto_jutkoe_obitaet_v_antarktide_o_chem_do_sih_por_molchat_polyarniki">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fabf75137cc209dce1678de3f5a32f21/" src="http://pic.rtbcdn.ru/video/2025-11-21/f8/14/f814daa0c9ddd7cd27b0ae7bfd6be952.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nechto_jutkoe_obitaet_v_antarktide_o_chem_do_sih_por_molchat_polyarniki">Нечто жуткое обитает в Антарктиде. О чем до сих пор молчат полярники?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/Нечто жуткое обитает в Антарктиде. О чем до сих пор молчат полярники:s:466635:e:811-->
 <!----><!--2026-02-18 19:30:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nup_-_zagadochnye_holmy_vdol_zagorodnyh_shosse">
@@ -5068,7 +5354,18 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-18</i>
   </div>
-</div><!--n:Тайны/НУП - ЗАГАДОЧНЫЕ ХОЛМЫ ВДОЛЬ ЗАГОРОДНЫХ ШОССЕ:s:440469:e:733-->
+</div><!--n:Тайны/НУП - ЗАГАДОЧНЫЕ ХОЛМЫ ВДОЛЬ ЗАГОРОДНЫХ ШОССЕ:s:467606:e:733-->
+<!----><!--2026-03-22 13:47:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/piramidy_mogli_vyrabatyvat_energiju_novaya_teoriya_razrushaet_oficialnuju_istoriju_piramid">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2e29dbda213b4ec5d5a2c2b4a495a0f4/" src="http://pic.rtbcdn.ru/video/2025-04-03/07/13/071300f2f07def9f6e1f1e13d6c0f554.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/piramidy_mogli_vyrabatyvat_energiju_novaya_teoriya_razrushaet_oficialnuju_istoriju_piramid">Пирамиды могли вырабатывать энергию? Новая теория разрушает официальную историю пирамид?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Пирамиды могли вырабатывать энергию Новая теория разрушает официальную историю пирамид:s:468458:e:889-->
 <!----><!--2025-12-22 22:19:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/baltijskoe_nlo_pri_krushenii_raskololo_podvodnuju_goru_nadvoe_zapis_strima">
@@ -5079,7 +5376,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Тайны/Балтийское НЛО при крушении раскололо подводную гору надвое ЗАПИСЬ СТРИМА:s:441321:e:834-->
+</div><!--n:Тайны/Балтийское НЛО при крушении раскололо подводную гору надвое ЗАПИСЬ СТРИМА:s:469546:e:834-->
 <!----><!--2026-02-07 15:22:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_antarktide_v_1976_godu_na_sovetskoj_stancii_prijutili_cheloveka_prishedshego_iz-za_ledyanoj_steny">
@@ -5090,7 +5387,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-07</i>
   </div>
-</div><!--n:Тайны/В Антарктиде в 1976 году на советской станции приютили человека пришедшего из-за ледяной стены:s:442328:e:912-->
+</div><!--n:Тайны/В Антарктиде в 1976 году на советской станции приютили человека пришедшего из-за ледяной стены:s:470553:e:912-->
 <!----><!--2025-12-24 17:53:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oni_prishli_za_nami_legenda_1950-h_godov_o_sovetskoj_polyarnoj_stancii">
@@ -5101,7 +5398,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-24</i>
   </div>
-</div><!--n:Тайны/Они пришли за нами легенда 1950-х годов о советской полярной станции:s:443446:e:815-->
+</div><!--n:Тайны/Они пришли за нами легенда 1950-х годов о советской полярной станции:s:471671:e:815-->
 <!----><!--2026-01-17 19:39:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_nachale_60h_v_gluhoj_tajge_obnarujili_gigantskij_nlo_i_cepochku_sledov_uhodyashchih_v_les">
@@ -5112,7 +5409,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-17</i>
   </div>
-</div><!--n:Тайны/В начале 60х в глухой тайге обнаружили гигантский НЛО и цепочку следов уходящих в лес:s:444418:e:884-->
+</div><!--n:Тайны/В начале 60х в глухой тайге обнаружили гигантский НЛО и цепочку следов уходящих в лес:s:472643:e:884-->
 <!----><!--2026-03-10 15:40:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_staruju_seriju_simpsonov_snova_obsujdajut_na_fone_novyh_dokumentov_ob_nlo">
@@ -5123,7 +5420,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Тайны/Почему старую серию Симпсонов снова обсуждают на фоне новых документов об НЛО:s:445492:e:853-->
+</div><!--n:Тайны/Почему старую серию Симпсонов снова обсуждают на фоне новых документов об НЛО:s:473717:e:853-->
 <!----><!--2025-11-07 12:42:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/foto_leonardo_da_vinchi_iz_sekretnyh_arhivov_vatikana_dokazyvaet_realnost_puteshestviya_vo_vremeni">
@@ -5134,7 +5431,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-07</i>
   </div>
-</div><!--n:Тайны/ФОТО Леонардо да Винчи из секретных архивов Ватикана доказывает реальность путешествия во времени:s:446524:e:927-->
+</div><!--n:Тайны/ФОТО Леонардо да Винчи из секретных архивов Ватикана доказывает реальность путешествия во времени:s:474749:e:927-->
 <!----><!--2025-11-29 21:57:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vo_vremya_remonta_staroj_kvartiry_nashel_strannye_koordinaty_cherez_mesyac_prishli_dvoe">
@@ -5145,7 +5442,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-29</i>
   </div>
-</div><!--n:Тайны/Во время ремонта старой квартиры нашел странные координаты Через месяц пришли двое:s:447669:e:876-->
+</div><!--n:Тайны/Во время ремонта старой квартиры нашел странные координаты Через месяц пришли двое:s:475894:e:876-->
 <!----><!--2026-03-08 13:48:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/na_stancii_nojmajer_v_antarktide_kamera_zafiksirovala_dvijenie_temnogo_obekta_pod_soorujeniem">
@@ -5156,7 +5453,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-08</i>
   </div>
-</div><!--n:Тайны/На станции Ноймайер в Антарктиде камера зафиксировала движение тёмного объекта под сооружением:s:448734:e:907-->
+</div><!--n:Тайны/На станции Ноймайер в Антарктиде камера зафиксировала движение тёмного объекта под сооружением:s:476959:e:907-->
+<!----><!--2026-03-22 13:48:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nikola_tesla_i_ischeznuvshie_dnevniki_-_chto_oni_skryvajut_ot_nas">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7c5f598ec959a127f35c18e8c47ae2cf/" src="http://pic.rtbcdn.ru/video/2024-11-19/40/0d/400d8a0c3e0b9b4b5327168983cca9d3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nikola_tesla_i_ischeznuvshie_dnevniki_-_chto_oni_skryvajut_ot_nas">Никола Тесла и исчезнувшие дневники - Что они скрывают от нас?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Никола Тесла и исчезнувшие дневники - Что они скрывают от нас:s:478079:e:786-->
 <!----><!--2026-01-02 22:18:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_60h_v_arhivah_sssr_nashli_dorevoljucionnye_karty_sibiri_sovpavshie_s_budushchej_sputnikovoj_semkoj">
@@ -5167,7 +5475,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 60х в архивах СССР нашли дореволюционные карты Сибири совпавшие с будущей спутниковой съёмкой:s:449854:e:923-->
+</div><!--n:Тайны/В 60х в архивах СССР нашли дореволюционные карты Сибири совпавшие с будущей спутниковой съёмкой:s:479012:e:923-->
 <!----><!--2025-12-28 20:32:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1978_godu_uralskie_shahtery_vskryli_polost_s_oblomkami_strannoj_tehniki">
@@ -5178,7 +5486,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-28</i>
   </div>
-</div><!--n:Тайны/В 1978 году уральские шахтёры вскрыли полость с обломками странной техники:s:450988:e:828-->
+</div><!--n:Тайны/В 1978 году уральские шахтёры вскрыли полость с обломками странной техники:s:480146:e:828-->
 <!----><!--2026-01-02 22:20:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1979_godu_podo_ldami_vostochnoj_antarktidy_obnarujili_metallicheskie_zaly_neizvestnogo_naznacheniya">
@@ -5189,7 +5497,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1979 году подо льдами Восточной Антарктиды обнаружили металлические залы неизвестного назначения:s:451986:e:931-->
+</div><!--n:Тайны/В 1979 году подо льдами Восточной Антарктиды обнаружили металлические залы неизвестного назначения:s:481144:e:931-->
 <!----><!--2025-12-19 08:26:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/karta_pokazyvala_chistoe_pole_na_meste_stoyala_derevnya_rasskaz_sovetskogo_geodezista">
@@ -5200,7 +5508,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/Карта показывала чистое поле На месте стояла деревня Рассказ советского геодезиста:s:453134:e:878-->
+</div><!--n:Тайны/Карта показывала чистое поле На месте стояла деревня Рассказ советского геодезиста:s:482292:e:878-->
 <!----><!--2026-03-17 14:36:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/donald_tramp_vozmojno_i_est_puteshestvennik_vo_vremeni_soglasno_novoj_istoricheskoj_versii">
@@ -5211,7 +5519,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-17</i>
   </div>
-</div><!--n:Тайны/Дональд Трамп возможно и есть путешественник во времени согласно новой исторической версии:s:454202:e:894-->
+</div><!--n:Тайны/Дональд Трамп возможно и есть путешественник во времени согласно новой исторической версии:s:483360:e:894-->
 <!----><!--2025-12-22 22:38:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pod_bermudskim_treugolnikom_nashli_gigantskuju_anomalnuju_strukturu_zapis_strima">
@@ -5222,7 +5530,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Тайны/Под Бермудским Треугольником нашли гигантскую аномальную структуру ЗАПИСЬ СТРИМА:s:455301:e:860-->
+</div><!--n:Тайны/Под Бермудским Треугольником нашли гигантскую аномальную структуру ЗАПИСЬ СТРИМА:s:484459:e:860-->
+<!----><!--2026-03-24 17:18:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/radioljubiteli_po_vsemu_miru_perehvatili_strannoe_soobshchenie_na_neizvestnom_yazyke">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/97bc6faf7d8534fffa16012970851979/" src="http://pic.rtbcdn.ru/video/2026-03-19/f1/c6/f1c634eaa7f3ece89ae6421ce28376e2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/radioljubiteli_po_vsemu_miru_perehvatili_strannoe_soobshchenie_na_neizvestnom_yazyke">Радиолюбители по всему миру перехватили странное сообщение на неизвестном языке</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/Радиолюбители по всему миру перехватили странное сообщение на неизвестном языке:s:485507:e:861-->
 <!----><!--2026-01-03 21:41:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/posle_proleta_3i_atlas_v_seti_pugajut_novymi_globalnymi_kataklizmami_v_2026_godu_zapis_strima">
@@ -5233,7 +5552,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-03</i>
   </div>
-</div><!--n:Тайны/После пролета 3i Atlas в сети пугают новыми глобальными катаклизмами в 2026 году ЗАПИСЬ СТРИМА:s:456349:e:897-->
+</div><!--n:Тайны/После пролета 3i Atlas в сети пугают новыми глобальными катаклизмами в 2026 году ЗАПИСЬ СТРИМА:s:486553:e:897-->
 <!----><!--2026-01-07 22:03:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1968_godu_sovetskij_injener_vstretil_cheloveka_nazvavshego_sebya_nabljudatelem_za_proshlym">
@@ -5244,7 +5563,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-07</i>
   </div>
-</div><!--n:Тайны/В 1968 году советский инженер встретил человека назвавшего себя наблюдателем за прошлым:s:457445:e:891-->
+</div><!--n:Тайны/В 1968 году советский инженер встретил человека назвавшего себя наблюдателем за прошлым:s:487649:e:891-->
 <!----><!--2025-12-08 18:51:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/istoriya_o_strannom_cheloveke_iz_voroneja_kotoryj_ischez_pryamo_na_glazah_i_ostavil_nevozmojnyj_predmet">
@@ -5255,7 +5574,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Тайны/История о странном человеке из Воронежа который исчез прямо на глазах и оставил невозможный предмет:s:458531:e:938-->
+</div><!--n:Тайны/История о странном человеке из Воронежа который исчез прямо на глазах и оставил невозможный предмет:s:488735:e:938-->
 <!----><!--2025-12-28 20:39:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1968_godu_na_kurilah_nashli_vrosshij_v_porodu_passajirskij_vagon_neizvestnogo_tipa">
@@ -5266,7 +5585,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-28</i>
   </div>
-</div><!--n:Тайны/В 1968 году на Курилах нашли вросший в породу пассажирский вагон неизвестного типа:s:459689:e:864-->
+</div><!--n:Тайны/В 1968 году на Курилах нашли вросший в породу пассажирский вагон неизвестного типа:s:489893:e:864-->
 <!----><!--2026-01-12 21:02:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1954_goda_pod_vorkutoj_rabochie_prijutili_mujchinu_utverjdavshego_chto_on_iz_2091_goda">
@@ -5277,7 +5596,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-12</i>
   </div>
-</div><!--n:Тайны/Зимой 1954 года под Воркутой рабочие приютили мужчину утверждавшего что он из 2091 года:s:460737:e:885-->
+</div><!--n:Тайны/Зимой 1954 года под Воркутой рабочие приютили мужчину утверждавшего что он из 2091 года:s:490941:e:885-->
 <!----><!--2025-11-04 13:11:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/snimki_etih_anomalij_navsegda_udalili_s_gugl_kart">
@@ -5288,7 +5607,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-04</i>
   </div>
-</div><!--n:Тайны/Снимки этих аномалий навсегда удалили с гугл карт:s:461811:e:738-->
+</div><!--n:Тайны/Снимки этих аномалий навсегда удалили с гугл карт:s:492015:e:738-->
 <!----><!--2026-03-14 07:44:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto_skryvaetsya_za_betonnymi_blokami_peshchery_na_granice_mongolii_i_kitaya">
@@ -5299,7 +5618,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Что скрывается за бетонными блоками пещеры на границе Монголии и Китая:s:462676:e:827-->
+</div><!--n:Тайны/Что скрывается за бетонными блоками пещеры на границе Монголии и Китая:s:492880:e:827-->
 <!----><!--2026-01-18 20:06:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_seti_vsplyli_arhivnye_foto_trehpalyh_otpechatkov_s_sekretnogo_obekta_sssr">
@@ -5310,7 +5629,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-18</i>
   </div>
-</div><!--n:Тайны/В сети всплыли архивные фото трёхпалых отпечатков с секретного объекта СССР:s:463669:e:838-->
+</div><!--n:Тайны/В сети всплыли архивные фото трёхпалых отпечатков с секретного объекта СССР:s:493873:e:838-->
 <!----><!--2025-11-24 16:31:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novye_snimki_3i_atlas_snova_stavyat_pod_somnenie_versiju_o_komete">
@@ -5321,7 +5640,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Тайны/Новые Снимки 3I ATLAS снова ставят под сомнение версию о комете:s:464683:e:788-->
+</div><!--n:Тайны/Новые Снимки 3I ATLAS снова ставят под сомнение версию о комете:s:494887:e:788-->
 <!----><!--2026-01-16 09:08:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1964_godu_v_odnom_iz_rajonov_vostochnoj_sibiri_gorod_ischez_menee_chem_za_sutki">
@@ -5332,7 +5651,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-16</i>
   </div>
-</div><!--n:Тайны/В 1964 году в одном из районов Восточной Сибири город исчез менее чем за сутки:s:465616:e:848-->
+</div><!--n:Тайны/В 1964 году в одном из районов Восточной Сибири город исчез менее чем за сутки:s:495820:e:848-->
 <!----><!--2025-11-06 21:01:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nlo_razmerom_300_km_vzletelo_s_antarktidy_vo_vremya_vyhoda_3i_atlas_iz-za_solnca">
@@ -5343,7 +5662,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Тайны/НЛО размером 300 км взлетело с Антарктиды во время выхода 3I ATLAS из-за Солнца:s:466638:e:843-->
+</div><!--n:Тайны/НЛО размером 300 км взлетело с Антарктиды во время выхода 3I ATLAS из-за Солнца:s:496842:e:843-->
 <!----><!--2026-03-10 15:41:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_astronavt_posle_178_dnej_na_orbite_zayavil_chto_chelovechestvo_jivet_v_illjuzii">
@@ -5354,7 +5673,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Тайны/Почему астронавт после 178 дней на орбите заявил что человечество живёт в иллюзии:s:467651:e:869-->
+</div><!--n:Тайны/Почему астронавт после 178 дней на орбите заявил что человечество живёт в иллюзии:s:497855:e:869-->
 <!----><!--2025-12-20 17:01:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/gnomy_gor_urala_misticheskaya_vstrecha_ili_krasivaya_legenda_sverdlovskoj_oblasti">
@@ -5365,7 +5684,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-20</i>
   </div>
-</div><!--n:Тайны/Гномы гор Урала мистическая встреча или красивая легенда Свердловской области:s:468703:e:857-->
+</div><!--n:Тайны/Гномы гор Урала мистическая встреча или красивая легенда Свердловской области:s:498907:e:857-->
 <!----><!--2026-01-05 23:26:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1970_godu_ischez_vertolet_a_cherez_15_let_odin_iz_pilotov_skazal_chto_ih_ostavili_vne_zemli">
@@ -5376,7 +5695,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Тайны/В 1970 году исчез вертолёт а через 15 лет один из пилотов сказал что их оставили вне Земли:s:469741:e:895-->
+</div><!--n:Тайны/В 1970 году исчез вертолёт а через 15 лет один из пилотов сказал что их оставили вне Земли:s:499945:e:895-->
+<!----><!--2026-03-23 15:44:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/byvshij_voennyj_injener_chernyh_proektov_rasskazal_o_perestrelke_s_prishelcami_pod_zemlej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6ec910de119ee314dc1647894b2bd2c0/" src="http://pic.rtbcdn.ru/video/2026-03-12/c6/44/c6448cd8943dcc658f58659a3ec18d82.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/byvshij_voennyj_injener_chernyh_proektov_rasskazal_o_perestrelke_s_prishelcami_pod_zemlej">Бывший военный инженер «чёрных проектов» рассказал о перестрелке с пришельцами под землёй</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-23</i>
+  </div>
+</div><!--n:Тайны/Бывший военный инженер чёрных проектов рассказал о перестрелке с пришельцами под землёй:s:501033:e:889-->
 <!----><!--2026-03-09 13:48:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1965_godu_v_sibirskoj_tajge_natknulis_na_mujchinu_uverennogo_chto_on_idet_po_marshrutu_21_veka">
@@ -5387,7 +5717,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-09</i>
   </div>
-</div><!--n:Тайны/В 1965 году в сибирской тайге наткнулись на мужчину уверенного что он идёт по маршруту 21 века:s:470829:e:902-->
+</div><!--n:Тайны/В 1965 году в сибирской тайге наткнулись на мужчину уверенного что он идёт по маршруту 21 века:s:502121:e:902-->
 <!----><!--2025-12-02 15:30:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novaya_anomaliya_3i_atlas_obekt_vybrasyvaet_materiju_ritmichno_budto_betsya_serdce">
@@ -5398,7 +5728,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Тайны/Новая аномалия 3I ATLAS объект выбрасывает материю ритмично будто бьётся сердце:s:471933:e:863-->
+</div><!--n:Тайны/Новая аномалия 3I ATLAS объект выбрасывает материю ритмично будто бьётся сердце:s:503225:e:863-->
 <!----><!--2025-12-21 17:31:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_seti_poyavilis_rassekrechennye_kadry_1957_goda_ledyanoj_steny_antarktidy">
@@ -5409,7 +5739,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-21</i>
   </div>
-</div><!--n:Тайны/В сети появились рассекреченные кадры 1957 года Ледяной Стены Антарктиды:s:472973:e:828-->
+</div><!--n:Тайны/В сети появились рассекреченные кадры 1957 года Ледяной Стены Антарктиды:s:504265:e:828-->
 <!----><!--2026-02-15 19:58:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_yakutii_nashli_drevnie_piramidy">
@@ -5420,7 +5750,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-15</i>
   </div>
-</div><!--n:Тайны/В Якутии нашли Древние Пирамиды:s:473968:e:669-->
+</div><!--n:Тайны/В Якутии нашли Древние Пирамиды:s:505260:e:669-->
 <!----><!--2025-11-01 16:43:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oni_postroili_piramidy_imenno_dlya_etogo_no_ljudi_zabyli_prednaznachenie_piramid">
@@ -5431,7 +5761,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-01</i>
   </div>
-</div><!--n:Тайны/ОНИ построили ПИРАМИДЫ именно для ЭТОГО но люди забыли предназначение пирамид:s:474731:e:853-->
+</div><!--n:Тайны/ОНИ построили ПИРАМИДЫ именно для ЭТОГО но люди забыли предназначение пирамид:s:506023:e:853-->
 <!----><!--2025-11-28 21:18:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ot_borovickoj_k_sapojku">
@@ -5442,7 +5772,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-11-28</i>
   </div>
-</div><!--n:Тайны/ОТ БОРОВИЦКОЙ К САПОЖКУ:s:475764:e:647-->
+</div><!--n:Тайны/ОТ БОРОВИЦКОЙ К САПОЖКУ:s:507056:e:647-->
 <!----><!--2026-01-02 11:07:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1959_godu_v_rajone_tunguski_obnarujili_uchastok_tajgi_s_narushennoj_gravitaciej">
@@ -5453,7 +5783,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1959 году в районе Тунгуски обнаружили участок тайги с нарушенной гравитацией:s:476490:e:853-->
+</div><!--n:Тайны/В 1959 году в районе Тунгуски обнаружили участок тайги с нарушенной гравитацией:s:507782:e:853-->
 <!----><!--2026-03-11 15:13:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto_uvidel_itan_guo_v_antarktide_i_pochemu_ego_arestovali_srazu_posle_posadki">
@@ -5464,7 +5794,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-11</i>
   </div>
-</div><!--n:Тайны/ЧТО УВИДЕЛ ИТАН ГУО В АНТАРКТИДЕ и почему его арестовали сразу после посадки:s:477522:e:841-->
+</div><!--n:Тайны/ЧТО УВИДЕЛ ИТАН ГУО В АНТАРКТИДЕ и почему его арестовали сразу после посадки:s:508814:e:841-->
 <!----><!--2025-12-18 22:27:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_zamedlilsya_za_schitannye_chasy_do_sblijeniya_s_zemlej">
@@ -5475,7 +5805,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Тайны/3i ATLAS ЗАМЕДЛИЛСЯ ЗА СЧИТАННЫЕ ЧАСЫ ДО СБЛИЖЕНИЯ С ЗЕМЛЕЙ:s:478539:e:776-->
+</div><!--n:Тайны/3i ATLAS ЗАМЕДЛИЛСЯ ЗА СЧИТАННЫЕ ЧАСЫ ДО СБЛИЖЕНИЯ С ЗЕМЛЕЙ:s:509831:e:776-->
+<!----><!--2026-03-24 20:05:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kak_ya_vstretil_gigantskij_nlo_i_perejil_vozmojnoe_puteshestvie_vo_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9a033314b4266ac46d1a6e41e6451a4b/" src="http://pic.rtbcdn.ru/video/2026-03-24/ae/a7/aea73fb05b223daabaf7355e0decc5c3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kak_ya_vstretil_gigantskij_nlo_i_perejil_vozmojnoe_puteshestvie_vo_vremeni">Как я встретил гигантский НЛО и пережил возможное путешествие во времени</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/Как я встретил гигантский НЛО и пережил возможное путешествие во времени:s:510745:e:826-->
 <!----><!--2026-01-05 22:01:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_80_godu_rabochij_metrostroya_ischez_v_tonnele_a_spustya_gody_vernulsya_s_kartoj_podzemnyh_sloev_zemli">
@@ -5486,7 +5827,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Тайны/В 80 году рабочий метростроя исчез в тоннеле а спустя годы вернулся с картой подземных слоёв Земли:s:479453:e:933-->
+</div><!--n:Тайны/В 80 году рабочий метростроя исчез в тоннеле а спустя годы вернулся с картой подземных слоёв Земли:s:511741:e:933-->
 <!----><!--2025-12-22 22:25:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/avi_leb_nazval_prolet_3i_atlas_u_zemli_holodnym_poslaniem_iz_proshlogo_vselennoj_zapis_strima">
@@ -5497,7 +5838,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Тайны/Ави Лёб назвал пролёт 3I ATLAS у Земли холодным посланием из прошлого Вселенной ЗАПИСЬ СТРИМА:s:480600:e:903-->
+</div><!--n:Тайны/Ави Лёб назвал пролёт 3I ATLAS у Земли холодным посланием из прошлого Вселенной ЗАПИСЬ СТРИМА:s:512888:e:903-->
 <!----><!--2025-12-04 15:37:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_na_novyh_foto_snova_postavil_pod_somnenie_vse_prirodnye_kometnye_postulaty">
@@ -5508,7 +5849,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Тайны/3I ATLAS на новых ФОТО снова поставил под сомнение все природные кометные постулаты:s:481704:e:862-->
+</div><!--n:Тайны/3I ATLAS на новых ФОТО снова поставил под сомнение все природные кометные постулаты:s:513992:e:862-->
 <!----><!--2026-01-23 21:43:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1976_godu_atomnyj_ledokol_v_arktike_zafiksiroval_podem_nlo_iz_podo_lda">
@@ -5519,7 +5860,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-23</i>
   </div>
-</div><!--n:Тайны/В 1976 году атомный ледокол в Арктике зафиксировал подъём НЛО из подо льда:s:482749:e:824-->
+</div><!--n:Тайны/В 1976 году атомный ледокол в Арктике зафиксировал подъём НЛО из подо льда:s:515037:e:824-->
 <!----><!--2026-01-21 10:04:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1977_godu_v_sssr_nashli_cheloveka_kotoryj_utverjdal_chto_pomnit_mir_do_umensheniya_ljudej">
@@ -5530,7 +5871,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-21</i>
   </div>
-</div><!--n:Тайны/В 1977 году в СССР нашли человека который утверждал что помнит мир до уменьшения людей:s:483741:e:890-->
+</div><!--n:Тайны/В 1977 году в СССР нашли человека который утверждал что помнит мир до уменьшения людей:s:516029:e:890-->
 <!----><!--2025-12-21 17:47:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kak_drevnie_egiptyane_puteshestvovali_na_drugie_kontinenty">
@@ -5541,7 +5882,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-21</i>
   </div>
-</div><!--n:Тайны/Как древние египтяне путешествовали на другие континенты:s:484821:e:771-->
+</div><!--n:Тайны/Как древние египтяне путешествовали на другие континенты:s:517109:e:771-->
 <!----><!--2025-12-21 20:40:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/rasskaz_ohotnikov_pro_razbivsheesya_nlo_v_tajge">
@@ -5552,7 +5893,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-21</i>
   </div>
-</div><!--n:Тайны/Рассказ охотников про разбившееся НЛО в тайге:s:485734:e:726-->
+</div><!--n:Тайны/Рассказ охотников про разбившееся НЛО в тайге:s:518022:e:726-->
 <!----><!--2025-11-18 13:21:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_sssr_vnezapno_zakryl_samuju_glubokuju_skvajinu_v_mire">
@@ -5563,7 +5904,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Тайны/Почему СССР внезапно закрыл самую глубокую скважину в мире:s:486580:e:779-->
+</div><!--n:Тайны/Почему СССР внезапно закрыл самую глубокую скважину в мире:s:518868:e:779-->
 <!----><!--2026-02-14 17:54:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/na_gugl_kartah_nashli_gorod_elit_v_antarktide">
@@ -5574,7 +5915,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-14</i>
   </div>
-</div><!--n:Тайны/На Гугл Картах нашли город элит в Антарктиде:s:487503:e:720-->
+</div><!--n:Тайны/На Гугл Картах нашли город элит в Антарктиде:s:519791:e:720-->
 <!----><!--2025-12-27 17:00:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pri_stroitelstve_plotiny_v_60h_rabochie_sluchajno_vskryli_kamennyj_zal_gde_predmety_ne_padali_na_pol">
@@ -5585,7 +5926,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Тайны/При строительстве плотины в 60х рабочие случайно вскрыли каменный зал где предметы не падали на пол:s:488340:e:929-->
+</div><!--n:Тайны/При строительстве плотины в 60х рабочие случайно вскрыли каменный зал где предметы не падали на пол:s:520628:e:929-->
 <!----><!--2025-12-29 18:31:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_mojet_vernutsya_k_zemle_posle_manevra_u_jupitera">
@@ -5596,7 +5937,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-29</i>
   </div>
-</div><!--n:Тайны/3i Atlas может вернуться к Земле после манёвра у Юпитера:s:489486:e:759-->
+</div><!--n:Тайны/3i Atlas может вернуться к Земле после манёвра у Юпитера:s:521774:e:759-->
+<!----><!--2026-03-24 20:07:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_egipte_vblizi_piramid_obnarujili_gigantskie_shahty_i_ih_tochnoe_naznachenie_do_sih_por_neizvestno">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/34b9c8aff579304d773aabc8521689fe/" src="http://pic.rtbcdn.ru/video/2026-03-24/07/9f/079f5a236dec584ccb0d8727c476b88e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_egipte_vblizi_piramid_obnarujili_gigantskie_shahty_i_ih_tochnoe_naznachenie_do_sih_por_neizvestno">В Египте вблизи пирамид обнаружили гигантские шахты и их точное назначение до сих пор неизвестно</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/В Египте вблизи пирамид обнаружили гигантские шахты и их точное назначение до сих пор неизвестно:s:522665:e:920-->
 <!----><!--2026-02-25 15:12:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/soglasno_rassekrechennym_fajlam_pro_nlo_na_marse_byla_razumnaya_jizn">
@@ -5607,7 +5959,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Тайны/Согласно рассекреченным файлам про НЛО на Марсе была разумная жизнь:s:490377:e:806-->
+</div><!--n:Тайны/Согласно рассекреченным файлам про НЛО на Марсе была разумная жизнь:s:523799:e:806-->
 <!----><!--2025-12-23 16:29:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/rassekrechennaya_kniga_1965_goda_iz_arhivov_cru_rasskazyvaet_o_nastoyashchem_ustrojstve_nashej_zemli">
@@ -5618,7 +5970,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Рассекреченная книга 1965 года из архивов ЦРУ рассказывает о настоящем устройстве нашей Земли:s:491344:e:919-->
+</div><!--n:Тайны/Рассекреченная книга 1965 года из архивов ЦРУ рассказывает о настоящем устройстве нашей Земли:s:524766:e:919-->
 <!----><!--2025-11-21 12:31:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/strashnaya_istoriya_rajkera_uebba_on_projil_neskolko_sutok_v_dikom_lesu_i_vernulsya_sovershenno_drugim">
@@ -5629,7 +5981,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-21</i>
   </div>
-</div><!--n:Тайны/Страшная история Райкера Уэбба Он прожил несколько суток в диком лесу и вернулся совершенно другим:s:492469:e:935-->
+</div><!--n:Тайны/Страшная история Райкера Уэбба Он прожил несколько суток в диком лесу и вернулся совершенно другим:s:525891:e:935-->
 <!----><!--2025-11-18 19:02:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ilon_mask_chto-to_znaet_pro_3i_atlas">
@@ -5640,7 +5992,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Тайны/ИЛОН МАСК ЧТО-ТО ЗНАЕТ ПРО 3i ATLAS:s:493622:e:677-->
+</div><!--n:Тайны/ИЛОН МАСК ЧТО-ТО ЗНАЕТ ПРО 3i ATLAS:s:527044:e:677-->
 <!----><!--2025-11-06 14:49:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/imenno_poetomu_ljudi_navsegda_pokinuli_mars_milliardy_let_nazad">
@@ -5651,7 +6003,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Тайны/Именно ПОЭТОМУ люди навсегда покинули МАРС миллиарды лет назад:s:494391:e:791-->
+</div><!--n:Тайны/Именно ПОЭТОМУ люди навсегда покинули МАРС миллиарды лет назад:s:527813:e:791-->
 <!----><!--2026-03-16 11:28:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/puteshestviya_vo_vremeni_sushchestvujut_simvoly_cern_i_krugi_na_polyah_-_zapis_so_strima">
@@ -5662,7 +6014,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Путешествия во Времени Существуют Символы, ЦЕРН и круги на полях - ЗАПИСЬ СО СТРИМА:s:495334:e:872-->
+</div><!--n:Тайны/Путешествия во Времени Существуют Символы, ЦЕРН и круги на полях - ЗАПИСЬ СО СТРИМА:s:528756:e:872-->
 <!----><!--2025-12-19 21:06:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/yadernye_tehnologii_pogubili_civilizaciju_shumerov">
@@ -5673,7 +6025,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/Ядерные технологии погубили цивилизацию Шумеров:s:496393:e:739-->
+</div><!--n:Тайны/Ядерные технологии погубили цивилизацию Шумеров:s:529815:e:739-->
 <!----><!--2026-03-05 19:44:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/mechi_vikingov_sdelany_iz_stali_nedostupnoj_kuznecam_tysyachi_let_nazad">
@@ -5684,7 +6036,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Тайны/Мечи викингов сделаны из стали недоступной кузнецам тысячи лет назад:s:497258:e:814-->
+</div><!--n:Тайны/Мечи викингов сделаны из стали недоступной кузнецам тысячи лет назад:s:530680:e:814-->
 <!----><!--2026-01-14 20:46:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/treugolnye_nlo_zamechajut_vse_chashche_i_otvety_do_sih_por_ne_najdeny">
@@ -5695,7 +6047,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Тайны/Треугольные НЛО замечают всё чаще и ответы до сих пор не найдены:s:498235:e:803-->
+</div><!--n:Тайны/Треугольные НЛО замечают всё чаще и ответы до сих пор не найдены:s:531657:e:803-->
 <!----><!--2025-07-11 20:43:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/moskva_plavitsya">
@@ -5706,7 +6058,18 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-07-11</i>
   </div>
-</div><!--n:Тайны/МОСКВА ПЛАВИТСЯ:s:499191:e:619-->
+</div><!--n:Тайны/МОСКВА ПЛАВИТСЯ:s:532613:e:619-->
+<!----><!--2026-03-22 13:48:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/donald_tramp_i_nikola_tesla_sekrety_sposobnye_izmenit_hod_istorii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/07f0728376bd9e7110752b02d93418b5/" src="http://pic.rtbcdn.ru/video/2024-11-08/dc/79/dc79605e19130ed7cc1b0a4cf33ad66c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/donald_tramp_i_nikola_tesla_sekrety_sposobnye_izmenit_hod_istorii">Дональд Трамп и Никола Тесла: Секреты способные изменить ход истории?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Дональд Трамп и Никола Тесла Секреты способные изменить ход истории:s:533297:e:801-->
 <!----><!--2026-03-04 10:01:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kak_otaplivali_cerkvi_nashli_chelovecheskie_kosti_pryamo_pod_hramom">
@@ -5717,7 +6080,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-03-04</i>
   </div>
-</div><!--n:Тайны/КАК ОТАПЛИВАЛИ ЦЕРКВИ НАШЛИ ЧЕЛОВЕЧЕСКИЕ КОСТИ ПРЯМО ПОД ХРАМОМ:s:499875:e:812-->
+</div><!--n:Тайны/КАК ОТАПЛИВАЛИ ЦЕРКВИ НАШЛИ ЧЕЛОВЕЧЕСКИЕ КОСТИ ПРЯМО ПОД ХРАМОМ:s:534259:e:812-->
 <!----><!--2026-03-16 11:27:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nlo_-_eto_mashiny_vremeni_puteshestvenniki_vo_vremeni_poseshchajut_nash_mir_na_nlo">
@@ -5728,7 +6091,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/НЛО - это машины времени Путешественники во времени посещают наш мир на НЛО:s:500841:e:847-->
+</div><!--n:Тайны/НЛО - это машины времени Путешественники во времени посещают наш мир на НЛО:s:535225:e:847-->
 <!----><!--2026-03-17 14:35:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/starye_risunki_i_fotografii_namekajut_chto_v_ssha_mogli_sushchestvovat_ogromnye_piramidy">
@@ -5739,7 +6102,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-17</i>
   </div>
-</div><!--n:Тайны/Старые рисунки и фотографии намекают что в США могли существовать огромные пирамиды:s:501861:e:875-->
+</div><!--n:Тайны/Старые рисунки и фотографии намекают что в США могли существовать огромные пирамиды:s:536245:e:875-->
 <!----><!--2025-11-23 18:58:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_uskoryaetsya_sohranyaet_strukturu_i_putaet_uchenyh">
@@ -5750,7 +6113,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-23</i>
   </div>
-</div><!--n:Тайны/3I ATLAS ускоряется сохраняет структуру и путает учёных:s:502927:e:764-->
+</div><!--n:Тайны/3I ATLAS ускоряется сохраняет структуру и путает учёных:s:537311:e:764-->
 <!----><!--2026-01-22 20:47:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/atomnye_chasy_zafiksirovali_proval_vremeni_v_2023_godu">
@@ -5761,7 +6124,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Тайны/Атомные часы зафиксировали провал времени в 2023 году:s:503823:e:756-->
+</div><!--n:Тайны/Атомные часы зафиксировали провал времени в 2023 году:s:538207:e:756-->
 <!----><!--2025-12-18 16:19:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/bilet_u_nego_byl_budto_iz_proshlogo_bajka_shofera_o_nochnoj_doroge_v_70-h">
@@ -5772,7 +6135,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Тайны/Билет у него был будто из прошлого Байка шофёра о ночной дороге в 70-х:s:504710:e:826-->
+</div><!--n:Тайны/Билет у него был будто из прошлого Байка шофёра о ночной дороге в 70-х:s:539094:e:826-->
 <!----><!--2025-12-23 16:11:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tajna_dvojnika_zemli_baza_dlya_vnezemnyh_civilizacij">
@@ -5783,7 +6146,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Тайна двойника Земли база для внеземных цивилизаций:s:505696:e:750-->
+</div><!--n:Тайны/Тайна двойника Земли база для внеземных цивилизаций:s:540080:e:750-->
 <!----><!--2026-01-21 20:13:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kto_to_nasledil_iz_2097_goda_v_kaliningrade_v_sovetskie_vremena">
@@ -5794,7 +6157,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-21</i>
   </div>
-</div><!--n:Тайны/Кто то наследил из 2097 года в Калининграде в советские времена:s:506578:e:786-->
+</div><!--n:Тайны/Кто то наследил из 2097 года в Калининграде в советские времена:s:540962:e:786-->
 <!----><!--2025-11-29 21:37:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1986-m_pod_uglichem_nashli_devochku_let_desyati_s_plastikovym_paketom_s_nadpisju_akciya_do_2025_goda">
@@ -5805,7 +6168,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-29</i>
   </div>
-</div><!--n:Тайны/В 1986-м под Угличем нашли девочку лет десяти с пластиковым пакетом с надписью АКЦИЯ ДО 2025 ГОДА:s:507512:e:925-->
+</div><!--n:Тайны/В 1986-м под Угличем нашли девочку лет десяти с пластиковым пакетом с надписью АКЦИЯ ДО 2025 ГОДА:s:541896:e:925-->
 <!----><!--2026-03-02 19:28:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/licom_k_gorodu_vstrecha_s_podpischikami">
@@ -5816,7 +6179,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-03-02</i>
   </div>
-</div><!--n:Тайны/ЛИЦОМ К ГОРОДУ Встреча с подписчиками:s:508642:e:707-->
+</div><!--n:Тайны/ЛИЦОМ К ГОРОДУ Встреча с подписчиками:s:543026:e:707-->
 <!----><!--2025-11-14 20:33:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zaryade_-_centree_ne_byvaet">
@@ -5827,7 +6190,18 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Тайны/ЗАРЯДЬЕ - ЦЕНТРЕЕ НЕ БЫВАЕТ:s:509454:e:661-->
+</div><!--n:Тайны/ЗАРЯДЬЕ - ЦЕНТРЕЕ НЕ БЫВАЕТ:s:543838:e:661-->
+<!----><!--2026-03-20 21:29:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sokol">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8aa607f571504159222a441e6f692640/" src="http://pic.rtbcdn.ru/video/2026-03-20/d4/75/d4756f88e07f584ad0937ece908b0356.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/sokol">СОКОЛ</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-03-20</i>
+  </div>
+</div><!--n:Тайны/СОКОЛ:s:544584:e:578-->
 <!----><!--2025-06-20 20:43:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ordy_i_hudojniki_za_moskvoj_rekoj">
@@ -5838,7 +6212,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-06-20</i>
   </div>
-</div><!--n:Тайны/ОРДЫ И ХУДОЖНИКИ ЗА МОСКВОЙ РЕКОЙ:s:510200:e:685-->
+</div><!--n:Тайны/ОРДЫ И ХУДОЖНИКИ ЗА МОСКВОЙ РЕКОЙ:s:545208:e:685-->
 <!----><!--2025-11-26 12:23:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/arheologi_nashli_v_indii_drevnij_shumerskij_antigravitacionnyj_stolb_iz_chistogo_zolota">
@@ -5849,7 +6223,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Тайны/Археологи нашли в Индии древний шумерский антигравитационный столб из чистого золота:s:510982:e:881-->
+</div><!--n:Тайны/Археологи нашли в Индии древний шумерский антигравитационный столб из чистого золота:s:545990:e:881-->
 <!----><!--2026-01-21 10:04:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/na_beregah_leny_v_1962_godu_lesozagotoviteli_nashli_mehanizm_rasschitannyj_na_inoj_razmer_jizni">
@@ -5860,7 +6234,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-21</i>
   </div>
-</div><!--n:Тайны/На берегах Лены в 1962 году лесозаготовители нашли механизм рассчитанный на иной размер жизни:s:512057:e:907-->
+</div><!--n:Тайны/На берегах Лены в 1962 году лесозаготовители нашли механизм рассчитанный на иной размер жизни:s:547065:e:907-->
 <!----><!--2025-11-14 13:33:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zelenaya_antarktida_zaselennaya_sahara_ischeznuvshaya_avstraliya_karta_urbano_monte_lomaet_vsju_istoriju">
@@ -5871,7 +6245,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Тайны/Зеленая Антарктида Заселенная Сахара Исчезнувшая Австралия Карта Урбано Монте ломает всю историю:s:513169:e:940-->
+</div><!--n:Тайны/Зеленая Антарктида Заселенная Сахара Исчезнувшая Австралия Карта Урбано Монте ломает всю историю:s:548177:e:940-->
 <!----><!--2025-12-31 22:52:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1965_godu_v_turkmenii_geologi_vskryli_podzemnye_hody_gigantskogo_razmera">
@@ -5882,7 +6256,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В 1965 году в Туркмении геологи вскрыли подземные ходы гигантского размера:s:514326:e:830-->
+</div><!--n:Тайны/В 1965 году в Туркмении геологи вскрыли подземные ходы гигантского размера:s:549334:e:830-->
 <!----><!--2025-12-31 22:50:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_nachale_1970-h_v_sssr_zafiksirovali_signal_iz_kosmosa_kotoryj_vozmojno_byl_adresovan_ne_ljudyam">
@@ -5893,7 +6267,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В начале 1970-х в СССР зафиксировали сигнал из космоса который возможно был адресован не людям:s:515326:e:914-->
+</div><!--n:Тайны/В начале 1970-х в СССР зафиксировали сигнал из космоса который возможно был адресован не людям:s:550334:e:914-->
 <!----><!--2026-03-18 12:52:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/dano_razreshenie_na_issledovanie_skrytyh_kamer_velikoj_piramidy_v_gize">
@@ -5904,7 +6278,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-18</i>
   </div>
-</div><!--n:Тайны/Дано разрешение на исследование скрытых камер Великой пирамиды в Гизе:s:516445:e:813-->
+</div><!--n:Тайны/Дано разрешение на исследование скрытых камер Великой пирамиды в Гизе:s:551453:e:813-->
+<!----><!--2026-03-22 13:47:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/legenda_o_predpolagaemoj_nahodke_jaka_kusto_mif_ili_realnost_podvodnoj_steny_v_tihom_okeane">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2b87777014bb364fe70ab22f374f0ee0/" src="http://pic.rtbcdn.ru/video/2024-11-26/74/f8/74f8783c9aef09d81e0a42339feb19a5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/legenda_o_predpolagaemoj_nahodke_jaka_kusto_mif_ili_realnost_podvodnoj_steny_v_tihom_okeane">Легенда о предполагаемой находке Жака Кусто: миф или реальность подводной стены в Тихом океане?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Легенда о предполагаемой находке Жака Кусто миф или реальность подводной стены в Тихом океане:s:552431:e:901-->
 <!----><!--2025-12-01 20:35:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nasa_vtihuju_izmenili_traektoriju_3i_atlas">
@@ -5915,7 +6300,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-01</i>
   </div>
-</div><!--n:Тайны/НАСА втихую изменили траекторию 3i Atlas:s:517423:e:701-->
+</div><!--n:Тайны/НАСА втихую изменили траекторию 3i Atlas:s:553541:e:701-->
 <!----><!--2025-11-15 16:08:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/lunu_pritashchili_k_zemle_dlya_slejeniya_za_nashej_civilizaciej">
@@ -5926,7 +6311,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-15</i>
   </div>
-</div><!--n:Тайны/Луну притащили к Земле для слежения за нашей цивилизацией:s:518228:e:781-->
+</div><!--n:Тайны/Луну притащили к Земле для слежения за нашей цивилизацией:s:554346:e:781-->
 <!----><!--2025-11-01 16:28:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/eta_zagadochnaya_karta_polnostju_menyaet_predstavlenie_o_nastoyashchej_istorii_nashej_planety">
@@ -5937,7 +6322,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-01</i>
   </div>
-</div><!--n:Тайны/Эта загадочная карта полностью меняет представление о настоящей истории нашей планеты:s:519151:e:894-->
+</div><!--n:Тайны/Эта загадочная карта полностью меняет представление о настоящей истории нашей планеты:s:555269:e:894-->
 <!----><!--2025-11-03 18:42:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/uchenye_nashli_shahty_pod_sfinksom_kotorye_napominajut_drevnie_raketnye_mehanizmy_zapis_strima">
@@ -5948,7 +6333,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-03</i>
   </div>
-</div><!--n:Тайны/Учёные нашли шахты под Сфинксом которые напоминают древние ракетные механизмы ЗАПИСЬ СТРИМА:s:520241:e:907-->
+</div><!--n:Тайны/Учёные нашли шахты под Сфинксом которые напоминают древние ракетные механизмы ЗАПИСЬ СТРИМА:s:556359:e:907-->
 <!----><!--2026-01-12 20:51:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1971_godu_sovetskie_polyarniki_v_antarktide_stolknulis_s_nevidimymi_sushchestvami">
@@ -5959,7 +6344,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-12</i>
   </div>
-</div><!--n:Тайны/В 1971 году советские полярники в Антарктиде столкнулись с невидимыми существами:s:521355:e:860-->
+</div><!--n:Тайны/В 1971 году советские полярники в Антарктиде столкнулись с невидимыми существами:s:557473:e:860-->
 <!----><!--2026-03-14 15:35:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/insajder_raskryl_tajny_nasa_o_bazah_na_lune_nlo_i_sekretnoj_kosmicheskoj_programme">
@@ -5970,7 +6355,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Инсайдер раскрыл тайны НАСА о базах на Луне, НЛО и секретной космической программе:s:522397:e:859-->
+</div><!--n:Тайны/Инсайдер раскрыл тайны НАСА о базах на Луне, НЛО и секретной космической программе:s:558515:e:859-->
+<!----><!--2026-03-22 13:47:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kto_prolojil_podvodnye_kabeli_v_okeane_tajna_podvodnoj_svyazi_kotoroj_ne_moglo_byt_v_xix_veke">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9c0d7ff8a5e6aef4da4486cf50eafc58/" src="http://pic.rtbcdn.ru/video/2025-03-04/ca/c2/cac2f23a121dab19b3069b811aa185ef.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kto_prolojil_podvodnye_kabeli_v_okeane_tajna_podvodnoj_svyazi_kotoroj_ne_moglo_byt_v_xix_veke">Кто проложил подводные кабели в океане? Тайна подводной связи, которой не могло быть в XIX веке?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Кто проложил подводные кабели в океане Тайна подводной связи, которой не могло быть в XIX веке:s:559561:e:901-->
 <!----><!--2026-01-16 09:07:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1954_godu_na_novoj_zemle_v_skale_obnarujili_metallicheskij_disk">
@@ -5981,7 +6377,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-16</i>
   </div>
-</div><!--n:Тайны/В 1954 году на Новой Земле в скале обнаружили металлический диск:s:523443:e:792-->
+</div><!--n:Тайны/В 1954 году на Новой Земле в скале обнаружили металлический диск:s:560667:e:792-->
 <!----><!--2025-12-09 19:20:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1982_godu_geologi_nashli_v_sibirskoj_tajge_derevnju_carskoj_epohi_no_na_sledujushchij_den_ona_ischezla">
@@ -5992,7 +6388,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Тайны/В 1982 году геологи нашли в сибирской тайге деревню царской эпохи но на следующий день она исчезла:s:524385:e:933-->
+</div><!--n:Тайны/В 1982 году геологи нашли в сибирской тайге деревню царской эпохи но на следующий день она исчезла:s:561609:e:933-->
 <!----><!--2025-11-24 14:10:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zashkalivajushchij_rezonans_shumana_podtverjdaet_prilet_na_zemlju_gigantskogo_nlo_iz_drevnih_prorochestv">
@@ -6003,7 +6399,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Тайны/Зашкаливающий Резонанс Шумана подтверждает прилет на Землю гигантского НЛО из древних пророчеств:s:525530:e:938-->
+</div><!--n:Тайны/Зашкаливающий Резонанс Шумана подтверждает прилет на Землю гигантского НЛО из древних пророчеств:s:562754:e:938-->
 <!----><!--2025-11-08 03:25:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/moskva-siti_-_ot_podzemelij_v_podnebese">
@@ -6014,7 +6410,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-11-08</i>
   </div>
-</div><!--n:Тайны/МОСКВА-СИТИ - ОТ ПОДЗЕМЕЛИЙ В ПОДНЕБЕСЬЕ:s:526685:e:709-->
+</div><!--n:Тайны/МОСКВА-СИТИ - ОТ ПОДЗЕМЕЛИЙ В ПОДНЕБЕСЬЕ:s:563909:e:709-->
 <!----><!--2025-11-06 14:45:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nlo_razmerom_s_gorod_kotoroe_sokrushil_krishna_orujie_drevnih_bogov_v_vedicheskih_pisaniyah">
@@ -6025,7 +6421,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Тайны/НЛО размером с город которое сокрушил Кришна Оружие древних богов в ведических писаниях:s:527503:e:897-->
+</div><!--n:Тайны/НЛО размером с город которое сокрушил Кришна Оружие древних богов в ведических писаниях:s:564727:e:897-->
 <!----><!--2025-12-19 21:11:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sushchestvuet_li_zagadochnyj_obekt_na_dne_baltijskogo_morya">
@@ -6036,7 +6432,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/Существует ли загадочный объект на дне Балтийского моря:s:528598:e:770-->
+</div><!--n:Тайны/Существует ли загадочный объект на дне Балтийского моря:s:565822:e:770-->
 <!----><!--2025-11-18 09:11:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_medium_ssha_zayavila_chto_3i_atlas_vyglyadit_sproektirovannym_i_neset_inoplanetnye_znaniya">
@@ -6047,7 +6443,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Тайны/Бывший медиум США заявила что 3i ATLAS выглядит спроектированным и несёт инопланетные знания:s:529507:e:910-->
+</div><!--n:Тайны/Бывший медиум США заявила что 3i ATLAS выглядит спроектированным и несёт инопланетные знания:s:566731:e:910-->
 <!----><!--2026-03-09 13:48:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1977_godu_v_tomskoj_oblasti_traktorist_obnarujil_samolet_v_bolote_bez_sledov_padeniya">
@@ -6058,7 +6454,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-09</i>
   </div>
-</div><!--n:Тайны/В 1977 году в Томской области тракторист обнаружил самолёт в болоте без следов падения:s:530618:e:873-->
+</div><!--n:Тайны/В 1977 году в Томской области тракторист обнаружил самолёт в болоте без следов падения:s:567842:e:873-->
 <!----><!--2025-06-14 18:00:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zabroshennye_bomboubejishcha_ryazani_-_tysyachi_protivogazov_i_cherep">
@@ -6069,7 +6465,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-06-14</i>
   </div>
-</div><!--n:Тайны/ЗАБРОШЕННЫЕ БОМБОУБЕЖИЩА РЯЗАНИ - тысячи противогазов и череп:s:531682:e:814-->
+</div><!--n:Тайны/ЗАБРОШЕННЫЕ БОМБОУБЕЖИЩА РЯЗАНИ - тысячи противогазов и череп:s:568906:e:814-->
 <!----><!--2026-01-02 11:07:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1975_godu_vo_vremya_proleta_neopoznannogo_obekta_vnutri_piramidy_zafiksirovali_strannuju_aktivnost">
@@ -6080,7 +6476,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1975 году во время пролёта неопознанного объекта внутри пирамиды зафиксировали странную активность:s:532646:e:932-->
+</div><!--n:Тайны/В 1975 году во время пролёта неопознанного объекта внутри пирамиды зафиксировали странную активность:s:569870:e:932-->
 <!----><!--2026-02-13 21:26:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/taganka">
@@ -6091,7 +6487,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Тайны/ТАГАНКА:s:533798:e:586-->
+</div><!--n:Тайны/ТАГАНКА:s:571022:e:586-->
 <!----><!--2025-11-20 21:16:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/samaya_strashnaya_versiya_pro_3i_atlas_na_osnove_ogovorki_nasa_zapis_strima">
@@ -6102,7 +6498,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-20</i>
   </div>
-</div><!--n:Тайны/Самая Страшная Версия про 3i Atlas на основе оговорки НАСА ЗАПИСЬ СТРИМА:s:534434:e:828-->
+</div><!--n:Тайны/Самая Страшная Версия про 3i Atlas на основе оговорки НАСА ЗАПИСЬ СТРИМА:s:571658:e:828-->
 <!----><!--2025-12-31 00:14:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1983_godu_pri_stroitelstve_metro_obnarujili_tonnel_kotorogo_ne_bylo_ni_v_odnom_proekte">
@@ -6113,7 +6509,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В 1983 году при строительстве метро обнаружили тоннель которого не было ни в одном проекте:s:535424:e:887-->
+</div><!--n:Тайны/В 1983 году при строительстве метро обнаружили тоннель которого не было ни в одном проекте:s:572648:e:887-->
 <!----><!--2025-07-18 20:47:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/klinicheskij_gorodok_ili_v_gostyah_u_hamov">
@@ -6124,7 +6520,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-07-18</i>
   </div>
-</div><!--n:Тайны/КЛИНИЧЕСКИЙ ГОРОДОК ИЛИ В ГОСТЯХ У ХАМОВ:s:536509:e:716-->
+</div><!--n:Тайны/КЛИНИЧЕСКИЙ ГОРОДОК ИЛИ В ГОСТЯХ У ХАМОВ:s:573733:e:716-->
 <!----><!--2025-11-24 14:14:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto-to_gigantskoe_vzletelo_iz_antarktidy_vo_vremya_solnechnogo_zatmeniya_nlo_razmerom_s_materik">
@@ -6135,7 +6531,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Тайны/Что-то гигантское взлетело из Антарктиды во время Солнечного Затмения НЛО размером с материк:s:537335:e:913-->
+</div><!--n:Тайны/Что-то гигантское взлетело из Антарктиды во время Солнечного Затмения НЛО размером с материк:s:574559:e:913-->
 <!----><!--2025-12-27 17:07:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_80_godu_v_karere_nashli_metallicheskuju_lestnicu_no_cherez_neskolko_dnej_ona_ischezla">
@@ -6146,7 +6542,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Тайны/В 80 году в карьере нашли металлическую лестницу но через несколько дней она исчезла:s:538455:e:876-->
+</div><!--n:Тайны/В 80 году в карьере нашли металлическую лестницу но через несколько дней она исчезла:s:575679:e:876-->
 <!----><!--2026-01-02 22:20:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1962_godu_v_sibiri_propal_geologicheskij_otryad_a_cherez_devyat_let_odin_iz_uchastnikov_vernulsya">
@@ -6157,7 +6553,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1962 году в Сибири пропал геологический отряд а через девять лет один из участников вернулся:s:539520:e:916-->
+</div><!--n:Тайны/В 1962 году в Сибири пропал геологический отряд а через девять лет один из участников вернулся:s:576744:e:916-->
 <!----><!--2025-11-28 14:06:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oon_oficialno_aktivirovali_rejim_planetarnoj_oborony_iz-za_3i_atlas_do_2026_goda">
@@ -6168,7 +6564,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-28</i>
   </div>
-</div><!--n:Тайны/ООН официально активировали режим Планетарной Обороны из-за 3i Atlas до 2026 года:s:540641:e:847-->
+</div><!--n:Тайны/ООН официально активировали режим Планетарной Обороны из-за 3i Atlas до 2026 года:s:577865:e:847-->
 <!----><!--2026-03-15 10:51:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_ritualy_u_statui_shivy_v_cerne_ceremoniya_v_tonnele_gotarda_i_hramy_indii_svyazany_vmeste">
@@ -6179,7 +6575,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-15</i>
   </div>
-</div><!--n:Тайны/Почему ритуалы у статуи Шивы в ЦЕРНе, церемония в тоннеле Готарда и храмы Индии связаны вместе:s:541663:e:911-->
+</div><!--n:Тайны/Почему ритуалы у статуи Шивы в ЦЕРНе, церемония в тоннеле Готарда и храмы Индии связаны вместе:s:578887:e:911-->
 <!----><!--2026-01-02 11:19:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1981_godu_v_tihom_okeane_ekipaj_sovetskogo_nauchnogo_sudna_zafiksiroval_vsplytie_strannogo_sushchestva">
@@ -6190,7 +6586,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1981 году в Тихом океане экипаж советского научного судна зафиксировал всплытие странного существа:s:542782:e:939-->
+</div><!--n:Тайны/В 1981 году в Тихом океане экипаж советского научного судна зафиксировал всплытие странного существа:s:580006:e:939-->
 <!----><!--2026-02-09 19:25:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/epshtejn_vse_eshche_jiv_v_rassekrechennyh_materialah_vsplyl_post_tjuremnogo_sotrudnika_o_vyvoze_epshtejna">
@@ -6201,7 +6597,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-09</i>
   </div>
-</div><!--n:Тайны/ЭПШТЕЙН ВСЁ ЕЩЕ ЖИВ В рассекреченных материалах всплыл пост тюремного сотрудника о вывозе Эпштейна:s:543940:e:938-->
+</div><!--n:Тайны/ЭПШТЕЙН ВСЁ ЕЩЕ ЖИВ В рассекреченных материалах всплыл пост тюремного сотрудника о вывозе Эпштейна:s:581164:e:938-->
 <!----><!--2026-03-05 19:46:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/eto_uje_mojet_proizojti">
@@ -6212,7 +6608,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Тайны/ЭТО УЖЕ МОЖЕТ ПРОИЗОЙТИ:s:545097:e:634-->
+</div><!--n:Тайны/ЭТО УЖЕ МОЖЕТ ПРОИЗОЙТИ:s:582321:e:634-->
+<!----><!--2026-03-21 08:44:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/velikij_ishod_inoplanetyan_s_zemli_pochemu_prishelcy_v_speshke_pokinuli_zemlju">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bafea5e94b74c52eecc307d02cb02a30/" src="http://pic.rtbcdn.ru/video/2025-09-03/4f/1c/4f1c6ca1983ac08a04ec7de0b1e9f156.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/velikij_ishod_inoplanetyan_s_zemli_pochemu_prishelcy_v_speshke_pokinuli_zemlju">Великий исход инопланетян с Земли? Почему пришельцы в спешке покинули Землю?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Тайны/Великий исход инопланетян с Земли Почему пришельцы в спешке покинули Землю:s:583034:e:840-->
 <!----><!--2025-10-30 11:30:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/drevnyaya_masonskaya_kniga_skryvaet_istinnuju_istoriju_chelovechestva">
@@ -6223,7 +6630,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Тайны/Древняя масонская книга скрывает истинную историю человечества:s:545810:e:805-->
+</div><!--n:Тайны/Древняя масонская книга скрывает истинную историю человечества:s:584048:e:805-->
 <!----><!--2026-01-28 18:24:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/bloger_dokazal_effekt_mandely_v_realnom_vremeni_i_potom_zagadochno_ischez">
@@ -6234,7 +6641,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-28</i>
   </div>
-</div><!--n:Тайны/Блогер доказал Эффект Манделы в реальном времени и потом загадочно исчез:s:546769:e:828-->
+</div><!--n:Тайны/Блогер доказал Эффект Манделы в реальном времени и потом загадочно исчез:s:585007:e:828-->
 <!----><!--2025-05-02 21:04:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/na_gogolyah_-_hod_konem_vpered_i_v_storonu">
@@ -6245,7 +6652,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-05-02</i>
   </div>
-</div><!--n:Тайны/НА ГОГОЛЯХ - ХОД КОНЁМ ВПЕРЁД И В СТОРОНУ:s:547767:e:721-->
+</div><!--n:Тайны/НА ГОГОЛЯХ - ХОД КОНЁМ ВПЕРЁД И В СТОРОНУ:s:586005:e:721-->
 <!----><!--2026-02-12 18:30:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/passajir_samoleta_obnarujil_na_foto_treugolnoe_nlo_posle_poleta">
@@ -6256,7 +6663,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Тайны/Пассажир самолёта обнаружил на фото треугольное НЛО после полёта:s:548597:e:790-->
+</div><!--n:Тайны/Пассажир самолёта обнаружил на фото треугольное НЛО после полёта:s:586835:e:790-->
 <!----><!--2025-12-31 22:55:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/podo_ldami_jujnogo_okeana_v_konce_60h_zafiksirovali_obekt_kotoryj_dyshal_vmeste_s_prilivami">
@@ -6267,7 +6674,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/Подо льдами Южного океана в конце 60х зафиксировали объект который дышал вместе с приливами:s:549543:e:902-->
+</div><!--n:Тайны/Подо льдами Южного океана в конце 60х зафиксировали объект который дышал вместе с приливами:s:587781:e:902-->
 <!----><!--2026-01-08 21:47:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto_skryvaet_shahta_hara-hora_v_kabardino-balkarii">
@@ -6278,7 +6685,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Тайны/Что скрывает шахта Хара-Хора в Кабардино-Балкарии:s:550648:e:742-->
+</div><!--n:Тайны/Что скрывает шахта Хара-Хора в Кабардино-Балкарии:s:588886:e:742-->
 <!----><!--2025-12-27 17:51:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1971_godu_gidrologi_nashli_v_tajge_derevnju_bez_ljudej_gde_vremya_budto_ostanovilos_na_odnom_dne">
@@ -6289,7 +6696,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Тайны/В 1971 году гидрологи нашли в тайге деревню без людей где время будто остановилось на одном дне:s:551517:e:914-->
+</div><!--n:Тайны/В 1971 году гидрологи нашли в тайге деревню без людей где время будто остановилось на одном дне:s:589755:e:914-->
 <!----><!--2025-12-21 17:46:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kto_postroil_piramidy_v_antarktide">
@@ -6300,7 +6707,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-21</i>
   </div>
-</div><!--n:Тайны/Кто построил пирамиды в Антарктиде:s:552637:e:681-->
+</div><!--n:Тайны/Кто построил пирамиды в Антарктиде:s:590875:e:681-->
 <!----><!--2026-03-16 11:27:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/simsony_predskazyvajut_budushchee_sozdateli_simpsonov_puteshestvenniki_vo_vremeni">
@@ -6311,7 +6718,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Симсоны предсказывают будущее Создатели Симпсонов путешественники во времени:s:553418:e:853-->
+</div><!--n:Тайны/Симсоны предсказывают будущее Создатели Симпсонов путешественники во времени:s:591656:e:853-->
 <!----><!--2025-11-07 12:48:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ogromnaya_planeta_ryadom_s_lunoj_nochnoe_nebo_i_solnce_izmenilis_anomalii_v_solnechnoj_sisteme">
@@ -6322,7 +6729,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-07</i>
   </div>
-</div><!--n:Тайны/Огромная планета рядом с Луной Ночное небо и Солнце изменились Аномалии в Солнечной системе:s:554452:e:907-->
+</div><!--n:Тайны/Огромная планета рядом с Луной Ночное небо и Солнце изменились Аномалии в Солнечной системе:s:592690:e:907-->
 <!----><!--2025-12-31 22:52:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_konce_1960-h_v_sovetskom_nii_ispolzovali_zvezdnuju_kartu_s_obektami_otkrytymi_desyatiletiya_spustya">
@@ -6333,7 +6740,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В конце 1960-х в советском НИИ использовали звёздную карту с объектами открытыми десятилетия спустя:s:555564:e:931-->
+</div><!--n:Тайны/В конце 1960-х в советском НИИ использовали звёздную карту с объектами открытыми десятилетия спустя:s:593802:e:931-->
 <!----><!--2026-02-13 19:59:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1961_godu_v_podmoskove_zaderjali_mujchinu_utverjdavshego_chto_on_pribyl_iz_2025_goda">
@@ -6344,7 +6751,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Тайны/В 1961 году в Подмосковье задержали мужчину утверждавшего что он прибыл из 2025 года:s:556711:e:863-->
+</div><!--n:Тайны/В 1961 году в Подмосковье задержали мужчину утверждавшего что он прибыл из 2025 года:s:594949:e:863-->
 <!----><!--2025-11-09 10:51:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oni_chto-to_znajut_sboj_chastot_shumana_magnitnye_anomalii_lazery_v_antarktide_voennye_manevry_v_ssha">
@@ -6355,7 +6762,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-09</i>
   </div>
-</div><!--n:Тайны/ОНИ ЧТО-ТО ЗНАЮТ Сбой Частот Шумана Магнитные Аномалии Лазеры в Антарктиде Военные Маневры в США:s:557757:e:931-->
+</div><!--n:Тайны/ОНИ ЧТО-ТО ЗНАЮТ Сбой Частот Шумана Магнитные Аномалии Лазеры в Антарктиде Военные Маневры в США:s:595995:e:931-->
+<!----><!--2026-03-21 08:44:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/iz_peskov_sahary_pokazalsya_drevnij_obekt_napominajushchij_sovremennuju_atomnuju_stanciju">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a0d5a360e970664ad77f233b32b65a1b/" src="http://pic.rtbcdn.ru/video/b8/09/b809b9353b80d5c279696890ce625784.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/iz_peskov_sahary_pokazalsya_drevnij_obekt_napominajushchij_sovremennuju_atomnuju_stanciju">Из песков Сахары показался древний объект, напоминающий современную атомную станцию</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Тайны/Из песков Сахары показался древний объект, напоминающий современную атомную станцию:s:597139:e:867-->
 <!----><!--2026-01-08 22:25:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/avi_leb_zadalsya_voprosom_pochemu_specslujby_interesujutsya_obychnoj_kometoj_3i_atlas">
@@ -6366,7 +6784,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Тайны/Ави Леб задался вопросом почему спецслужбы интересуются обычной кометой 3i Atlas:s:558901:e:866-->
+</div><!--n:Тайны/Ави Леб задался вопросом почему спецслужбы интересуются обычной кометой 3i Atlas:s:598198:e:866-->
 <!----><!--2026-03-18 12:51:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_tehnik_vvs_ssha_zayavila_chto_uchastvovala_v_sekretnoj_missii_na_lune">
@@ -6377,7 +6795,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-18</i>
   </div>
-</div><!--n:Тайны/Бывший техник ВВС США заявила что участвовала в секретной миссии на Луне:s:559946:e:831-->
+</div><!--n:Тайны/Бывший техник ВВС США заявила что участвовала в секретной миссии на Луне:s:599243:e:831-->
 <!----><!--2025-10-29 11:24:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/foto_veroyatnoj_nibiru_vspoloshili_darknet_nlo_razmerom_s_planetu_zametili_ryadom_s_solncem">
@@ -6388,7 +6806,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Тайны/Фото вероятной Нибиру всполошили Даркнет НЛО размером с планету заметили рядом с Солнцем:s:560946:e:896-->
+</div><!--n:Тайны/Фото вероятной Нибиру всполошили Даркнет НЛО размером с планету заметили рядом с Солнцем:s:600243:e:896-->
 <!----><!--2025-06-13 21:04:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/boloto_v_centre_goroda">
@@ -6399,7 +6817,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-06-13</i>
   </div>
-</div><!--n:Тайны/БОЛОТО В ЦЕНТРЕ ГОРОДА:s:562042:e:647-->
+</div><!--n:Тайны/БОЛОТО В ЦЕНТРЕ ГОРОДА:s:601339:e:647-->
 <!----><!--2025-12-23 16:13:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tysyacheletnij_zabroshennyj_sputnik_chernyj_rycar_prodoljaet_posylat_inoplanetnye_signaly_na_zemlju">
@@ -6410,7 +6828,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Тысячелетний заброшенный спутник Черный Рыцарь продолжает посылать инопланетные сигналы на Землю:s:562766:e:929-->
+</div><!--n:Тайны/Тысячелетний заброшенный спутник Черный Рыцарь продолжает посылать инопланетные сигналы на Землю:s:602063:e:929-->
 <!----><!--2025-12-31 00:18:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1979_godu_v_sverdlovske_zaderjali_cheloveka_zayavivshego_chto_on_pribyl_iz_2276_goda">
@@ -6421,7 +6839,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В 1979 году в Свердловске задержали человека заявившего что он прибыл из 2276 года:s:563913:e:865-->
+</div><!--n:Тайны/В 1979 году в Свердловске задержали человека заявившего что он прибыл из 2276 года:s:603210:e:865-->
 <!----><!--2026-01-08 21:47:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kadry_s_ljudmi_gigantskogo_rosta_pripisali_zakrytym_arhivam_vatikana">
@@ -6432,7 +6850,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Тайны/Кадры с людьми гигантского роста приписали закрытым архивам Ватикана:s:564957:e:812-->
+</div><!--n:Тайны/Кадры с людьми гигантского роста приписали закрытым архивам Ватикана:s:604254:e:812-->
 <!----><!--2026-03-14 07:44:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/oni_zastroili_vsju_planetu_mujchina_sluchajno_peremestilsya_v_2075_god_i_uvidel_nashe_budushchee">
@@ -6443,7 +6861,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Они застроили всю планету Мужчина случайно переместился в 2075 год и увидел наше будущее:s:565933:e:898-->
+</div><!--n:Тайны/Они застроили всю планету Мужчина случайно переместился в 2075 год и увидел наше будущее:s:605230:e:898-->
 <!----><!--2025-12-04 15:26:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/svejie_snimki_3i_atlas_pokazyvajut_to_o_chem_nasa_pochti_ne_govorit">
@@ -6454,7 +6872,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Тайны/Свежие снимки 3I ATLAS показывают то о чём NASA почти не говорит:s:567026:e:789-->
+</div><!--n:Тайны/Свежие снимки 3I ATLAS показывают то о чём NASA почти не говорит:s:606323:e:789-->
 <!----><!--2026-03-03 14:24:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_kentukki_fermer_ustanovil_kameru_iz-za_kruga_na_pole_i_nochju_snyal_svetyashchijsya_nlo">
@@ -6465,7 +6883,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Тайны/В Кентукки фермер установил камеру из-за круга на поле и ночью снял светящийся НЛО:s:567957:e:872-->
+</div><!--n:Тайны/В Кентукки фермер установил камеру из-за круга на поле и ночью снял светящийся НЛО:s:607254:e:872-->
 <!----><!--2026-01-17 19:49:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_58_godu_sovetskij_rabochij_okazalsya_na_zemle_milliony_let_nazad_i_vernulsya_s_rasskazom_ob_uvidennom">
@@ -6476,7 +6894,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-17</i>
   </div>
-</div><!--n:Тайны/В 58 году советский рабочий оказался на Земле миллионы лет назад и вернулся с рассказом об увиденном:s:569015:e:936-->
+</div><!--n:Тайны/В 58 году советский рабочий оказался на Земле миллионы лет назад и вернулся с рассказом об увиденном:s:608312:e:936-->
 <!----><!--2025-12-20 17:19:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/legenda_o_sboe_v_cern_v_2008_godu">
@@ -6487,7 +6905,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-20</i>
   </div>
-</div><!--n:Тайны/Легенда о сбое в ЦЕРН в 2008 году:s:570169:e:669-->
+</div><!--n:Тайны/Легенда о сбое в ЦЕРН в 2008 году:s:609466:e:669-->
 <!----><!--2026-02-25 15:10:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tramp_poruchil_raskryt_vse_fajly_ob_nlo_i_vnezemnoj_jizni">
@@ -6498,7 +6916,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Тайны/Трамп поручил раскрыть все файлы об НЛО и внеземной жизни:s:570929:e:763-->
+</div><!--n:Тайны/Трамп поручил раскрыть все файлы об НЛО и внеземной жизни:s:610226:e:763-->
 <!----><!--2025-10-31 20:36:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/iskusstvennyj_intellekt_pokazal_foto_3i_atlas_i_ono_okazalos_pugajushche_realistichnym">
@@ -6509,7 +6927,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Тайны/Искусственный интеллект показал ФОТО 3I ATLAS и ОНО оказалось пугающе реалистичным:s:571833:e:867-->
+</div><!--n:Тайны/Искусственный интеллект показал ФОТО 3I ATLAS и ОНО оказалось пугающе реалистичным:s:611130:e:867-->
 <!----><!--2025-12-26 20:18:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/rabochie_vskryli_staryj_karer_v_zabajkale_i_nashli_v_porode_strannuju_metallicheskuju_konstrukciju">
@@ -6520,7 +6938,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Тайны/Рабочие вскрыли старый карьер в Забайкалье и нашли в породе странную металлическую конструкцию:s:572883:e:920-->
+</div><!--n:Тайны/Рабочие вскрыли старый карьер в Забайкалье и нашли в породе странную металлическую конструкцию:s:612180:e:920-->
 <!----><!--2025-10-31 12:34:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vatikan_mojet_menyat_hod_istorii_s_pomoshchju_etogo_ustrojstva">
@@ -6531,7 +6949,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Тайны/Ватикан может менять ход истории с помощью этого устройства:s:574015:e:783-->
+</div><!--n:Тайны/Ватикан может менять ход истории с помощью этого устройства:s:613312:e:783-->
 <!----><!--2025-11-13 20:06:33-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kupol_zemli_razrushaetsya_nlo_razmerom_s_avtomobil_vybrosilo_na_bereg_okeana_v_avstralii">
@@ -6542,7 +6960,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-13</i>
   </div>
-</div><!--n:Тайны/Купол земли разрушается НЛО размером с автомобиль выбросило на берег океана в Австралии:s:574944:e:888-->
+</div><!--n:Тайны/Купол земли разрушается НЛО размером с автомобиль выбросило на берег океана в Австралии:s:614241:e:888-->
 <!----><!--2026-01-30 20:45:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1971_goda_vertolet_vyshel_iz_snejnoj_steny_s_otkazavshimi_priborami_i_vidom_na_neizvestnyj_gorod">
@@ -6553,7 +6971,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-30</i>
   </div>
-</div><!--n:Тайны/Зимой 1971 года вертолёт вышел из снежной стены с отказавшими приборами и видом на неизвестный город:s:576030:e:929-->
+</div><!--n:Тайны/Зимой 1971 года вертолёт вышел из снежной стены с отказавшими приборами и видом на неизвестный город:s:615327:e:929-->
 <!----><!--2025-07-25 20:33:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novodevichij_-_krepost_svyazannaya_s_kremlem">
@@ -6564,7 +6982,18 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-07-25</i>
   </div>
-</div><!--n:Тайны/НОВОДЕВИЧИЙ - КРЕПОСТЬ СВЯЗАННАЯ С КРЕМЛЁМ:s:577176:e:724-->
+</div><!--n:Тайны/НОВОДЕВИЧИЙ - КРЕПОСТЬ СВЯЗАННАЯ С КРЕМЛЁМ:s:616473:e:724-->
+<!----><!--2026-03-22 13:48:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sostarilsya_za_sutki_policiya_ne_smogla_obyasnit_kak_etot_paren_ischez_v_sarae_i_vernulsya_starikom">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c39b2e54e08a1b69c5742d4240ee1f5b/" src="http://pic.rtbcdn.ru/video/2025-07-03/8d/92/8d92a486627992a3d116bcb76ec883ba.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/sostarilsya_za_sutki_policiya_ne_smogla_obyasnit_kak_etot_paren_ischez_v_sarae_i_vernulsya_starikom">СОСТАРИЛСЯ ЗА СУТКИ? Полиция не смогла объяснить как этот парень исчез в сарае и вернулся стариком</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/СОСТАРИЛСЯ ЗА СУТКИ Полиция не смогла объяснить как этот парень исчез в сарае и вернулся стариком:s:617311:e:922-->
 <!----><!--2025-12-19 21:34:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/hakery_slili_v_set_perehvachennoe_nasa_soobshchenie_o_pomoshchi_iz_2057_goda">
@@ -6575,7 +7004,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/Хакеры слили в сеть перехваченное НАСА сообщение о помощи из 2057 года:s:578014:e:826-->
+</div><!--n:Тайны/Хакеры слили в сеть перехваченное НАСА сообщение о помощи из 2057 года:s:618448:e:826-->
 <!----><!--2026-01-14 20:42:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_grand-kanone_nashli_mesto_krusheniya_nlo_vozrastom_tysyachi_let">
@@ -6586,7 +7015,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Тайны/В Гранд-Каньоне нашли место крушения НЛО возрастом тысячи лет:s:579001:e:791-->
+</div><!--n:Тайны/В Гранд-Каньоне нашли место крушения НЛО возрастом тысячи лет:s:619435:e:791-->
 <!----><!--2025-11-25 12:52:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/kto_postroil_gigantskij_10-kilometrovyj_stolb_posredi_tihogo_okeana">
@@ -6597,7 +7026,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-25</i>
   </div>
-</div><!--n:Тайны/Кто построил гигантский 10-километровый столб посреди Тихого океана:s:579941:e:807-->
+</div><!--n:Тайны/Кто построил гигантский 10-километровый столб посреди Тихого океана:s:620375:e:807-->
 <!----><!--2025-04-18 20:43:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vodnye_vorota_moskvy">
@@ -6608,7 +7037,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-04-18</i>
   </div>
-</div><!--n:Тайны/ВОДНЫЕ ВОРОТА МОСКВЫ:s:580908:e:640-->
+</div><!--n:Тайны/ВОДНЫЕ ВОРОТА МОСКВЫ:s:621342:e:640-->
 <!----><!--2026-01-24 13:58:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1976_goda_v_lesah_permskoj_oblasti_turisty_lyjniki_nashli_kabinu_lifta_stoyashchuju_posredi_sugroba">
@@ -6619,7 +7048,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-24</i>
   </div>
-</div><!--n:Тайны/Зимой 1976 года в лесах Пермской области туристы лыжники нашли кабину лифта стоящую посреди сугроба:s:581622:e:939-->
+</div><!--n:Тайны/Зимой 1976 года в лесах Пермской области туристы лыжники нашли кабину лифта стоящую посреди сугроба:s:622056:e:939-->
 <!----><!--2025-12-23 16:09:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/shumerskie_cari_jili_po_30_tysyach_let_s_pomoshchju_inoplanetnoj_sumki">
@@ -6630,7 +7059,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Тайны/Шумерские цари жили по 30 тысяч лет с помощью инопланетной сумки:s:582777:e:807-->
+</div><!--n:Тайны/Шумерские цари жили по 30 тысяч лет с помощью инопланетной сумки:s:623211:e:807-->
 <!----><!--2025-11-03 18:45:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/uchenye_rasshifrovali_simvoly_na_sfere_buga_i_nashli_sled_drevnego_poslaniya_chelovechestvu_zapis_strima">
@@ -6641,7 +7070,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-03</i>
   </div>
-</div><!--n:Тайны/Учёные расшифровали символы на Сфере Буга и нашли след древнего послания человечеству ЗАПИСЬ СТРИМА:s:583736:e:942-->
+</div><!--n:Тайны/Учёные расшифровали символы на Сфере Буга и нашли след древнего послания человечеству ЗАПИСЬ СТРИМА:s:624170:e:942-->
 <!----><!--2026-03-01 15:10:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/turisty_v_antarktide_snyali_na_ajsberge_siluet_pohojij_na_mificheskoe_sushchestvo">
@@ -6652,7 +7081,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-01</i>
   </div>
-</div><!--n:Тайны/Туристы в Антарктиде сняли на айсберге силуэт похожий на мифическое существо:s:584899:e:848-->
+</div><!--n:Тайны/Туристы в Антарктиде сняли на айсберге силуэт похожий на мифическое существо:s:625333:e:848-->
 <!----><!--2026-01-14 22:34:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1978_godu_na_strojke_bama_nashli_plastikovyj_propusk_s_datoj_2004_goda_i_za_nim_prishel_neizvestnyj">
@@ -6663,7 +7092,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Тайны/В 1978 году на стройке БАМа нашли пластиковый пропуск с датой 2004 года и за ним пришёл неизвестный:s:585925:e:923-->
+</div><!--n:Тайны/В 1978 году на стройке БАМа нашли пластиковый пропуск с датой 2004 года и за ним пришёл неизвестный:s:626359:e:923-->
 <!----><!--2025-12-27 17:01:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1967_godu_rabochie_stolknulis_s_ljudmi_iz_niotkuda_vozle_strannogo_metallicheskogo_obekta">
@@ -6674,7 +7103,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Тайны/В 1967 году рабочие столкнулись с людьми из ниоткуда возле странного металлического объекта:s:587057:e:900-->
+</div><!--n:Тайны/В 1967 году рабочие столкнулись с людьми из ниоткуда возле странного металлического объекта:s:627491:e:900-->
 <!----><!--2026-01-25 19:08:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zimoj_1974_goda_mejdugorodnij_avtobus_v_metel_zaehal_v_gorod_kotorogo_ne_bylo_na_kartah_sssr">
@@ -6685,7 +7114,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-25</i>
   </div>
-</div><!--n:Тайны/Зимой 1974 года междугородний автобус в метель заехал в город которого не было на картах СССР:s:588159:e:900-->
+</div><!--n:Тайны/Зимой 1974 года междугородний автобус в метель заехал в город которого не было на картах СССР:s:628593:e:900-->
 <!----><!--2026-03-16 11:27:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/genij_iz_nashego_budushchego_leonardo_da_vinchi_byl_zastryavshim_v_proshlom_puteshestvennikom_vo_vremeni">
@@ -6696,7 +7125,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Гений из нашего Будущего. Леонардо да Винчи был застрявшим в прошлом путешественником во времени:s:589262:e:931-->
+</div><!--n:Тайны/Гений из нашего Будущего. Леонардо да Винчи был застрявшим в прошлом путешественником во времени:s:629696:e:931-->
 <!----><!--2025-05-30 20:39:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zadvorki_i_podvorotni_v_centre_moskvy">
@@ -6707,7 +7136,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-05-30</i>
   </div>
-</div><!--n:Тайны/ЗАДВОРКИ И ПОДВОРОТНИ В ЦЕНТРЕ МОСКВЫ:s:590407:e:705-->
+</div><!--n:Тайны/ЗАДВОРКИ И ПОДВОРОТНИ В ЦЕНТРЕ МОСКВЫ:s:630841:e:705-->
 <!----><!--2025-12-05 19:18:33-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novyj_rolik_3i_atlas_snova_udivil_i_pokazal_detali_kotoryh_net_na_kadrah_nasa">
@@ -6718,7 +7147,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Тайны/Новый ролик 3I ATLAS снова удивил и показал детали которых нет на кадрах NASA:s:591217:e:834-->
+</div><!--n:Тайны/Новый ролик 3I ATLAS снова удивил и показал детали которых нет на кадрах NASA:s:631651:e:834-->
 <!----><!--2025-12-19 21:35:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_zone_51_nahoditsya_vhod_v_sekretnye_tonneli_drevnih_inoplanetnyh_civilizacij">
@@ -6729,7 +7158,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Тайны/В Зоне 51 находится вход в секретные тоннели древних инопланетных цивилизаций:s:592217:e:847-->
+</div><!--n:Тайны/В Зоне 51 находится вход в секретные тоннели древних инопланетных цивилизаций:s:632651:e:847-->
 <!----><!--2026-01-07 22:00:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1958_godu_na_altae_geologi_vskryli_podzemnyj_zal_s_relsami_dlya_gigantskih_mashin">
@@ -6740,7 +7169,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-07</i>
   </div>
-</div><!--n:Тайны/В 1958 году на Алтае геологи вскрыли подземный зал с рельсами для гигантских машин:s:593242:e:861-->
+</div><!--n:Тайны/В 1958 году на Алтае геологи вскрыли подземный зал с рельсами для гигантских машин:s:633676:e:861-->
 <!----><!--2025-11-01 16:44:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/etu_zapis_nlo_ves_nauchnyj_mir_priznal_nastoyashchej_chto_iskali_prishelcy_v_turcii">
@@ -6751,7 +7180,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-01</i>
   </div>
-</div><!--n:Тайны/Эту запись НЛО весь научный мир признал настоящей Что искали пришельцы в Турции:s:594286:e:862-->
+</div><!--n:Тайны/Эту запись НЛО весь научный мир признал настоящей Что искали пришельцы в Турции:s:634720:e:862-->
 <!----><!--2026-03-14 15:37:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/vo_vremya_missii_apollon_17_zametili_strannyj_nlo_na_poverhnosti_luny">
@@ -6762,7 +7191,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Во время миссии Аполлон 17 заметили странный НЛО на поверхности Луны:s:595330:e:806-->
+</div><!--n:Тайны/Во время миссии Аполлон 17 заметили странный НЛО на поверхности Луны:s:635764:e:806-->
 <!----><!--2025-11-26 18:53:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_vyhodit_na_orbitu_s_zabroshennym_korablem_pro_kotoryj_govoril_avi_leb">
@@ -6773,7 +7202,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Тайны/3i Atlas выходит на орбиту с заброшенным кораблем про который говорил Ави Леб:s:596296:e:844-->
+</div><!--n:Тайны/3i Atlas выходит на орбиту с заброшенным кораблем про который говорил Ави Леб:s:636730:e:844-->
 <!----><!--2025-12-18 16:18:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/istoriya_shahtera_s_urala_o_strannoj_nahodke_na_glubine_kilometra_letom_1972_goda">
@@ -6784,7 +7213,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Тайны/История шахтёра с Урала о странной находке на глубине километра летом 1972 года:s:597311:e:852-->
+</div><!--n:Тайны/История шахтёра с Урала о странной находке на глубине километра летом 1972 года:s:637745:e:852-->
 <!----><!--2026-03-14 07:44:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/glushili_kak_rybu_yadernye_testy_skryvali_ohotu_na_nlo">
@@ -6795,7 +7224,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/ГЛУШИЛИ КАК РЫБУ Ядерные Тесты Скрывали Охоту на НЛО:s:598341:e:752-->
+</div><!--n:Тайны/ГЛУШИЛИ КАК РЫБУ Ядерные Тесты Скрывали Охоту на НЛО:s:638775:e:752-->
+<!----><!--2026-03-23 15:45:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kamera_nabljudeniya_v_ofise_na_alyaske_snyala_ljudej_v_chernom_pered_ischeznoveniem_devushki">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/666b1b54ec8496d2a5329d17c944a222/" src="http://pic.rtbcdn.ru/video/2026-03-22/c0/b9/c0b90e9e6d1bb7191d6db31dc0887ad4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kamera_nabljudeniya_v_ofise_na_alyaske_snyala_ljudej_v_chernom_pered_ischeznoveniem_devushki">Камера наблюдения в офисе на Аляске сняла Людей в Черном перед исчезновением девушки?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-23</i>
+  </div>
+</div><!--n:Тайны/Камера наблюдения в офисе на Аляске сняла Людей в Черном перед исчезновением девушки:s:639659:e:885-->
 <!----><!--2026-01-31 15:30:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chetyre_solnca_odnovremenno_poyavilis_v_nebe_nad_alyaskoj">
@@ -6806,7 +7246,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-31</i>
   </div>
-</div><!--n:Тайны/Четыре солнца одновременно появились в небе над Аляской:s:599225:e:761-->
+</div><!--n:Тайны/Четыре солнца одновременно появились в небе над Аляской:s:640736:e:761-->
 <!----><!--2025-12-02 15:55:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/obratno_v_zonu_51_zahotel">
@@ -6817,7 +7257,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Тайны/Обратно в Зону 51 захотел:s:600125:e:643-->
+</div><!--n:Тайны/Обратно в Зону 51 захотел:s:641636:e:643-->
 <!----><!--2025-11-16 19:16:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_uskoryaetsya_imenno_v_storonu_zemli_dannye_nasa_vyzyvajut_trevogu">
@@ -6828,7 +7268,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-16</i>
   </div>
-</div><!--n:Тайны/3i Atlas ускоряется именно в сторону Земли Данные NASA вызывают тревогу:s:600848:e:819-->
+</div><!--n:Тайны/3i Atlas ускоряется именно в сторону Земли Данные NASA вызывают тревогу:s:642359:e:819-->
 <!----><!--2025-12-02 16:00:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/a_chto_vy_budete_delat_esli_3i_atlas_vojdet_v_atmosferu_pryamo_nad_vashim_gorodom">
@@ -6839,7 +7279,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Тайны/А что вы будете делать если 3i Atlas войдёт в атмосферу прямо над вашим городом:s:601824:e:849-->
+</div><!--n:Тайны/А что вы будете делать если 3i Atlas войдёт в атмосферу прямо над вашим городом:s:643335:e:849-->
 <!----><!--2026-03-01 15:08:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novoe_issledovanie_predpolagaet_chto_piramidy_gizy_mogut_byt_starshe_na_tysyachi_let">
@@ -6850,7 +7290,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-01</i>
   </div>
-</div><!--n:Тайны/Новое исследование предполагает что Пирамиды Гизы могут быть старше на тысячи лет:s:602846:e:863-->
+</div><!--n:Тайны/Новое исследование предполагает что Пирамиды Гизы могут быть старше на тысячи лет:s:644357:e:863-->
 <!----><!--2026-02-04 21:23:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_karelii_v_1967_godu_stroiteli_stolknulis_s_sushchestvami_vozle_svetyashchegosya_obekta_na_bolotah">
@@ -6861,7 +7301,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-04</i>
   </div>
-</div><!--n:Тайны/В Карелии в 1967 году строители столкнулись с существами возле светящегося объекта на болотах:s:603896:e:911-->
+</div><!--n:Тайны/В Карелии в 1967 году строители столкнулись с существами возле светящегося объекта на болотах:s:645407:e:911-->
 <!----><!--2025-11-25 19:14:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sovetskij_mehanizator_v_70-h_pryatal_v_sarae_pod_moskvoj_slomannoe_nlo">
@@ -6872,7 +7312,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-25</i>
   </div>
-</div><!--n:Тайны/Советский механизатор в 70-х прятал в сарае под Москвой сломанное НЛО:s:605012:e:814-->
+</div><!--n:Тайны/Советский механизатор в 70-х прятал в сарае под Москвой сломанное НЛО:s:646523:e:814-->
 <!----><!--2025-10-30 11:24:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/foto_bitvy_s_nlo_eskadry_admirala_berda_v_antarktide_utekli_v_set_iz_sekretnyh_arhivov_vatikana">
@@ -6883,7 +7323,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Тайны/Фото битвы с НЛО эскадры Адмирала Берда в Антарктиде утекли в сеть из секретных архивов Ватикана:s:605987:e:916-->
+</div><!--n:Тайны/Фото битвы с НЛО эскадры Адмирала Берда в Антарктиде утекли в сеть из секретных архивов Ватикана:s:647498:e:916-->
 <!----><!--2025-11-05 14:36:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_istoriki_molchat_o_vremeni_kogda_ljudi_jili_vmeste_s_dinozavrami">
@@ -6894,7 +7334,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-05</i>
   </div>
-</div><!--n:Тайны/Почему историки молчат о времени когда люди жили вместе с динозаврами:s:607116:e:821-->
+</div><!--n:Тайны/Почему историки молчат о времени когда люди жили вместе с динозаврами:s:648627:e:821-->
 <!----><!--2026-02-04 21:22:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/gigantskoe_nlo_ptica_bolshe_zemli_v_100_raz_snova_zamecheno_vblizi_solnca">
@@ -6905,7 +7345,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-04</i>
   </div>
-</div><!--n:Тайны/ГИГАНТСКОЕ НЛО ПТИЦА БОЛЬШЕ ЗЕМЛИ в 100 раз снова замечено вблизи Солнца:s:608101:e:820-->
+</div><!--n:Тайны/ГИГАНТСКОЕ НЛО ПТИЦА БОЛЬШЕ ЗЕМЛИ в 100 раз снова замечено вблизи Солнца:s:649612:e:820-->
 <!----><!--2025-10-29 23:24:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/eto_pro_3i_atlas_vam_ne_rasskajut">
@@ -6916,7 +7356,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Тайны/ЭТО ПРО 3i ATLAS ВАМ НЕ РАССКАЖУТ:s:609087:e:667-->
+</div><!--n:Тайны/ЭТО ПРО 3i ATLAS ВАМ НЕ РАССКАЖУТ:s:650598:e:667-->
 <!----><!--2026-01-03 21:37:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novye_raschety_dvijeniya_3i_atlas_dopuskajut_ego_vozmojnoe_vozvrashchenie_k_zemle_zapis_strima">
@@ -6927,7 +7367,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-03</i>
   </div>
-</div><!--n:Тайны/Новые расчёты движения 3i ATLAS допускают его возможное возвращение к Земле ЗАПИСЬ СТРИМА:s:609843:e:896-->
+</div><!--n:Тайны/Новые расчёты движения 3i ATLAS допускают его возможное возвращение к Земле ЗАПИСЬ СТРИМА:s:651354:e:896-->
+<!----><!--2026-03-23 15:45:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/rassekrechennye_dokumenty_ssha_o_kontrole_pogody_porodili_versii_ob_otravlenii_neba">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e602a9fa59ba2b023a30888bca0f7d54/" src="http://pic.rtbcdn.ru/video/2026-03-22/fd/e1/fde10a57060c0d5c814706e7406e18a6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/rassekrechennye_dokumenty_ssha_o_kontrole_pogody_porodili_versii_ob_otravlenii_neba">Рассекреченные документы США о «контроле погоды» породили версии об «отравлении неба»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-23</i>
+  </div>
+</div><!--n:Тайны/Рассекреченные документы США о контроле погоды породили версии об отравлении неба:s:652445:e:870-->
 <!----><!--2025-11-23 16:37:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/byvshij_astronavt_rassekretil_jutkuju_istoriju_o_lishnem_goste_na_bortu_mks">
@@ -6938,7 +7389,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-23</i>
   </div>
-</div><!--n:Тайны/Бывший астронавт рассекретил жуткую историю о лишнем госте на борту МКС:s:610934:e:833-->
+</div><!--n:Тайны/Бывший астронавт рассекретил жуткую историю о лишнем госте на борту МКС:s:653503:e:833-->
 <!----><!--2025-11-14 13:18:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/gorod-prizrak_vittenum_samoe_opasnoe_mesto_na_zemle_nahoditsya_ryadom_s_zaborom_avstralii">
@@ -6949,7 +7400,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Тайны/Город-Призрак Виттенум Самое опасное место на Земле находится рядом с Забором Австралии:s:611935:e:889-->
+</div><!--n:Тайны/Город-Призрак Виттенум Самое опасное место на Земле находится рядом с Забором Австралии:s:654504:e:889-->
 <!----><!--2026-02-26 15:10:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_seti_sravnili_prishelca_s_kamery_v_las-vegase_i_kadry_1997_goda_iz_zony_51_i_drugie_foto_nlo">
@@ -6960,7 +7411,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Тайны/В сети сравнили пришельца с камеры в Лас-Вегасе и кадры 1997 года из Зоны 51 и другие фото НЛО:s:613022:e:899-->
+</div><!--n:Тайны/В сети сравнили пришельца с камеры в Лас-Вегасе и кадры 1997 года из Зоны 51 и другие фото НЛО:s:655591:e:899-->
 <!----><!--2025-12-03 17:24:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/gigantskij_nlo_razmerom_s_planetu_zametili_na_kadrah_nasa_ryadom_s_merkuriem_na_fone_sporov_o_3iatlas">
@@ -6971,7 +7422,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Тайны/Гигантский НЛО размером с планету заметили на кадрах NASA рядом с Меркурием на фоне споров о 3iATLAS:s:614120:e:923-->
+</div><!--n:Тайны/Гигантский НЛО размером с планету заметили на кадрах NASA рядом с Меркурием на фоне споров о 3iATLAS:s:656689:e:923-->
 <!----><!--2026-02-13 20:00:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1978_godu_v_sssr_shahtery_vskryli_pod_zemlej_obekt_pohojij_na_transportnyj_uzel">
@@ -6982,7 +7433,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Тайны/В 1978 году в СССР шахтёры вскрыли под землёй объект похожий на транспортный узел:s:615252:e:851-->
+</div><!--n:Тайны/В 1978 году в СССР шахтёры вскрыли под землёй объект похожий на транспортный узел:s:657821:e:851-->
 <!----><!--2026-03-14 15:35:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/luna_mojet_dejstvitelno_okazatsya_iskusstvennoj">
@@ -6993,7 +7444,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Луна может действительно оказаться искусственной:s:616284:e:731-->
+</div><!--n:Тайны/Луна может действительно оказаться искусственной:s:658853:e:731-->
 <!----><!--2026-03-11 15:16:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chto_eto_bylo_ya_sluchajno_uvidel_sputnikovyj_snimok_1972_goda_i_teper_ne_uveren_chto_eto_nasha_zemlya">
@@ -7004,7 +7455,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-11</i>
   </div>
-</div><!--n:Тайны/ЧТО ЭТО БЫЛО Я случайно увидел спутниковый снимок 1972 года и теперь не уверен что это наша Земля:s:617143:e:924-->
+</div><!--n:Тайны/ЧТО ЭТО БЫЛО Я случайно увидел спутниковый снимок 1972 года и теперь не уверен что это наша Земля:s:659712:e:924-->
 <!----><!--2026-02-03 11:40:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chetyre_solnca_dnem_i_chetyre_luny_nochju_raskryvajut_sboj_nashego_mirozdaniya">
@@ -7015,7 +7466,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-03</i>
   </div>
-</div><!--n:Тайны/ЧЕТЫРЕ СОЛНЦА ДНЁМ и ЧЕТЫРЕ ЛУНЫ НОЧЬЮ раскрывают СБОЙ нашего мироздания:s:618276:e:835-->
+</div><!--n:Тайны/ЧЕТЫРЕ СОЛНЦА ДНЁМ и ЧЕТЫРЕ ЛУНЫ НОЧЬЮ раскрывают СБОЙ нашего мироздания:s:660845:e:835-->
 <!----><!--2025-11-14 20:47:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_menyaet_povedenie_pered_sblijeniem_s_zemlej_uchenye_gotovyatsya_k_pereraschetu_orbity">
@@ -7026,7 +7477,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Тайны/3I ATLAS меняет поведение перед сближением с Землёй Учёные готовятся к перерасчёту орбиты:s:619281:e:897-->
+</div><!--n:Тайны/3I ATLAS меняет поведение перед сближением с Землёй Учёные готовятся к перерасчёту орбиты:s:661850:e:897-->
 <!----><!--2025-11-22 14:02:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_kogo_strelyali_polyarniki_na_zabroshennoj_stancii_v_antarktide">
@@ -7037,7 +7488,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-22</i>
   </div>
-</div><!--n:Тайны/В КОГО стреляли полярники на заброшенной станции в Антарктиде:s:620373:e:791-->
+</div><!--n:Тайны/В КОГО стреляли полярники на заброшенной станции в Антарктиде:s:662942:e:791-->
 <!----><!--2025-11-14 13:29:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/gollivud_ne_hochet_chtoby_vy_uvideli_nastoyashchie_foto_i_video_realnyh_puteshestvennikov_vo_vremeni">
@@ -7048,7 +7499,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Тайны/Голливуд не хочет чтобы вы увидели настоящие фото и видео реальных путешественников во времени:s:621314:e:924-->
+</div><!--n:Тайны/Голливуд не хочет чтобы вы увидели настоящие фото и видео реальных путешественников во времени:s:663883:e:924-->
 <!----><!--2025-12-02 15:30:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novyj_cherno-belyj_snimok_3i_atlas_snova_pokazal_strannuju_geometriju_obekta">
@@ -7059,7 +7510,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Тайны/Новый чёрно-белый снимок 3I ATLAS снова показал странную геометрию объекта:s:622449:e:836-->
+</div><!--n:Тайны/Новый чёрно-белый снимок 3I ATLAS снова показал странную геометрию объекта:s:665018:e:836-->
 <!----><!--2025-11-09 10:53:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/ohotniki_natknulis_na_jivogo_dinozavra_v_yakutskih_lesah">
@@ -7070,7 +7521,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-09</i>
   </div>
-</div><!--n:Тайны/Охотники наткнулись на живого динозавра в якутских лесах:s:623452:e:766-->
+</div><!--n:Тайны/Охотники наткнулись на живого динозавра в якутских лесах:s:666021:e:766-->
 <!----><!--2025-11-09 11:02:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/karta_velikogo_probujdeniya_otkryvaet_istinnuju_shemu_nashego_mirozdaniya">
@@ -7081,7 +7532,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-09</i>
   </div>
-</div><!--n:Тайны/Карта Великого Пробуждения открывает истинную схему нашего мироздания:s:624359:e:826-->
+</div><!--n:Тайны/Карта Великого Пробуждения открывает истинную схему нашего мироздания:s:666928:e:826-->
 <!----><!--2025-11-02 09:52:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_uskorilsya_i_soshel_s_kursa_3i_atlas_vyshel_iz-za_solnca_ranshe_sroka_i_podal_radiosignaly">
@@ -7092,7 +7543,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-02</i>
   </div>
-</div><!--n:Тайны/3I ATLAS ускорился и сошёл с курса 3I ATLAS вышел из-за Солнца раньше срока и подал радиосигналы:s:625352:e:909-->
+</div><!--n:Тайны/3I ATLAS ускорился и сошёл с курса 3I ATLAS вышел из-за Солнца раньше срока и подал радиосигналы:s:667921:e:909-->
 <!----><!--2026-01-21 20:11:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1963_godu_v_centre_grenlandii_podo_ldom_zafiksirovali_gigantskie_tonneli">
@@ -7103,7 +7554,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-21</i>
   </div>
-</div><!--n:Тайны/В 1963 году в центре Гренландии подо льдом зафиксировали гигантские тоннели:s:626458:e:832-->
+</div><!--n:Тайны/В 1963 году в центре Гренландии подо льдом зафиксировали гигантские тоннели:s:669027:e:832-->
 <!----><!--2026-01-12 20:47:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1957_godu_v_sibiri_nashli_cheloveka_kotoryj_nazyval_sebya_vyhodcem_iz_doistoricheskoj_civilizacii">
@@ -7114,7 +7565,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-12</i>
   </div>
-</div><!--n:Тайны/В 1957 году в Сибири нашли человека который называл себя выходцем из доисторической цивилизации:s:627462:e:920-->
+</div><!--n:Тайны/В 1957 году в Сибири нашли человека который называл себя выходцем из доисторической цивилизации:s:670031:e:920-->
 <!----><!--2025-11-02 21:00:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/eta_osobennost_vydaet_tajnuju_pravyashchuju_elitu_zemli">
@@ -7125,7 +7576,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-02</i>
   </div>
-</div><!--n:Тайны/Эта особенность выдает тайную правящую элиту Земли:s:628591:e:753-->
+</div><!--n:Тайны/Эта особенность выдает тайную правящую элиту Земли:s:671160:e:753-->
 <!----><!--2026-02-06 21:44:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/petrovka_38_i_ne_tolko">
@@ -7136,7 +7587,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-06</i>
   </div>
-</div><!--n:Тайны/ПЕТРОВКА 38 И НЕ ТОЛЬКО:s:629474:e:642-->
+</div><!--n:Тайны/ПЕТРОВКА 38 И НЕ ТОЛЬКО:s:672043:e:642-->
 <!----><!--2026-03-16 11:28:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/mujchina_sluchajno_zabrel_vo_vremennoj_portal_v_lesu_balashihi_i_provel_8_let_v_parallelnom_mire">
@@ -7147,7 +7598,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Тайны/Мужчина случайно забрел во временной портал в лесу Балашихи и провел 8 лет в параллельном мире:s:630192:e:908-->
+</div><!--n:Тайны/Мужчина случайно забрел во временной портал в лесу Балашихи и провел 8 лет в параллельном мире:s:672761:e:908-->
 <!----><!--2025-11-04 22:29:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/dannye_nasa_ukazyvajut_na_upravlyaemoe_dvijenie_3i_atlas">
@@ -7158,7 +7609,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-04</i>
   </div>
-</div><!--n:Тайны/Данные НАСА указывают на управляемое движение 3I ATLAS:s:631308:e:755-->
+</div><!--n:Тайны/Данные НАСА указывают на управляемое движение 3I ATLAS:s:673877:e:755-->
 <!----><!--2025-12-21 17:35:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/mars_i_faeton_poteryannaya_rodina_chelovechestva">
@@ -7169,7 +7620,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-21</i>
   </div>
-</div><!--n:Тайны/Марс и Фаэтон Потерянная Родина Человечества:s:632193:e:729-->
+</div><!--n:Тайны/Марс и Фаэтон Потерянная Родина Человечества:s:674762:e:729-->
 <!----><!--2026-03-05 19:43:33-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/strannye_kamennye_ruki_shumerov_otkryvali_portaly_bogov">
@@ -7180,7 +7631,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Тайны/Странные каменные руки Шумеров открывали Порталы Богов:s:633041:e:761-->
+</div><!--n:Тайны/Странные каменные руки Шумеров открывали Порталы Богов:s:675610:e:761-->
 <!----><!--2026-03-01 15:11:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_ssha_v_pryamom_efire_upala_zagadochnaya_sfera_buga">
@@ -7191,7 +7642,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-01</i>
   </div>
-</div><!--n:Тайны/В США в прямом эфире упала загадочная Сфера Буга:s:633940:e:741-->
+</div><!--n:Тайны/В США в прямом эфире упала загадочная Сфера Буга:s:676509:e:741-->
 <!----><!--2025-12-26 21:13:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pozvezdim_ili_poslednij_strim_etogo_goda">
@@ -7202,7 +7653,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Тайны/ПОЗВЕЗДИМ ИЛИ ПОСЛЕДНИЙ СТРИМ ЭТОГО ГОДА:s:634805:e:714-->
+</div><!--n:Тайны/ПОЗВЕЗДИМ ИЛИ ПОСЛЕДНИЙ СТРИМ ЭТОГО ГОДА:s:677374:e:714-->
 <!----><!--2026-03-03 14:25:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/djim_kerri_stal_drugim_sluhi_o_vozmojnoj_podmene_djima_kerri_ne_utihajut">
@@ -7213,7 +7664,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Тайны/ДЖИМ КЕРРИ стал другим Слухи о возможной подмене Джима Керри не утихают:s:635630:e:820-->
+</div><!--n:Тайны/ДЖИМ КЕРРИ стал другим Слухи о возможной подмене Джима Керри не утихают:s:678199:e:820-->
 <!----><!--2025-12-31 00:31:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1968_godu_na_kamchatke_obnarujili_vrosshij_v_sklon_korpus_neizvestnogo_letatelnogo_obekta">
@@ -7224,7 +7675,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В 1968 году на Камчатке обнаружили вросший в склон корпус неизвестного летательного объекта:s:636617:e:896-->
+</div><!--n:Тайны/В 1968 году на Камчатке обнаружили вросший в склон корпус неизвестного летательного объекта:s:679186:e:896-->
 <!----><!--2025-11-22 13:56:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/puteshestvennik_vo_vremeni_den_kuper_ugnal_ogromnyj_boing_s_kuchej_dollarov_i_ostalsya_nepojmannym">
@@ -7235,7 +7686,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-22</i>
   </div>
-</div><!--n:Тайны/Путешественник во времени Дэн Купер угнал огромный Боинг с кучей долларов и остался непойманным:s:637715:e:921-->
+</div><!--n:Тайны/Путешественник во времени Дэн Купер угнал огромный Боинг с кучей долларов и остался непойманным:s:680284:e:921-->
 <!----><!--2026-01-15 20:12:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/glavnyj_issledovatel_loh-nessa_zayavil_chto_chudovishcha_ne_sushchestvuet_no_spory_ne_utihajut">
@@ -7246,7 +7697,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-15</i>
   </div>
-</div><!--n:Тайны/Главный исследователь Лох-Несса заявил что чудовища не существует но споры не утихают:s:638849:e:894-->
+</div><!--n:Тайны/Главный исследователь Лох-Несса заявил что чудовища не существует но споры не утихают:s:681418:e:894-->
 <!----><!--2026-03-05 19:42:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/britanskij_haker_zayavil_chto_vzlomav_kompjutery_nasa_uvidel_gigantskij_nlo_nad_zemlej">
@@ -7257,7 +7708,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Тайны/Британский хакер заявил что взломав компьютеры НАСА увидел гигантский НЛО над Землёй:s:639937:e:873-->
+</div><!--n:Тайны/Британский хакер заявил что взломав компьютеры НАСА увидел гигантский НЛО над Землёй:s:682506:e:873-->
 <!----><!--2026-02-25 15:13:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/arhivnaya_semka_s_bobom_lazarom_o_vizitah_prishelcev_na_zemlju">
@@ -7268,7 +7719,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Тайны/Архивная съёмка с Бобом Лазаром о визитах пришельцев на Землю:s:641003:e:781-->
+</div><!--n:Тайны/Архивная съёмка с Бобом Лазаром о визитах пришельцев на Землю:s:683572:e:781-->
 <!----><!--2026-02-26 15:08:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nochnoe_video_yakoby_pokazalo_ispytaniya_nlo_na_territorii_zony_51">
@@ -7279,7 +7730,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Тайны/Ночное видео якобы показало испытания НЛО на территории Зоны 51:s:641933:e:791-->
+</div><!--n:Тайны/Ночное видео якобы показало испытания НЛО на территории Зоны 51:s:684502:e:791-->
+<!----><!--2026-03-24 20:06:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/arheologi_nashli_kamni_s_simvolami_kotorye_sovpadajut_so_znakami_sfery_buga">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/20092a17bd2a4c23b08bf6620770640a/" src="http://pic.rtbcdn.ru/video/2026-03-24/10/8b/108be547733db70701ea65f8791d58c2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/arheologi_nashli_kamni_s_simvolami_kotorye_sovpadajut_so_znakami_sfery_buga">Археологи нашли камни с символами которые совпадают со знаками Сферы Буга</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/Археологи нашли камни с символами которые совпадают со знаками Сферы Буга:s:685444:e:830-->
 <!----><!--2026-03-18 12:52:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_ssha_ischez_general_svyazannyj_s_programmami_izucheniya_nlo">
@@ -7290,7 +7752,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-18</i>
   </div>
-</div><!--n:Тайны/В США исчез генерал связанный с программами изучения НЛО:s:642875:e:770-->
+</div><!--n:Тайны/В США исчез генерал связанный с программами изучения НЛО:s:686446:e:770-->
 <!----><!--2026-02-25 10:00:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tajny_moskovskogo_metro">
@@ -7301,7 +7763,7 @@
     <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Тайны/ТАЙНЫ МОСКОВСКОГО МЕТРО:s:643785:e:648-->
+</div><!--n:Тайны/ТАЙНЫ МОСКОВСКОГО МЕТРО:s:687356:e:648-->
 <!----><!--2025-11-03 18:45:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/3i_atlas_sblijaetsya_s_zemlej_19_dekabrya_stanet_dnem_istiny_dlya_astronomov_zapis_strima">
@@ -7312,7 +7774,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-03</i>
   </div>
-</div><!--n:Тайны/3I ATLAS сближается с Землёй 19 декабря станет днём истины для астрономов ЗАПИСЬ СТРИМА:s:644513:e:880-->
+</div><!--n:Тайны/3I ATLAS сближается с Землёй 19 декабря станет днём истины для астрономов ЗАПИСЬ СТРИМА:s:688084:e:880-->
 <!----><!--2026-03-14 15:35:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_nasa_do_sih_por_molchit_o_sobytiyah_na_lune_v_2009_godu">
@@ -7323,7 +7785,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Почему НАСА до сих пор молчит о событиях на Луне в 2009 году:s:645581:e:775-->
+</div><!--n:Тайны/Почему НАСА до сих пор молчит о событиях на Луне в 2009 году:s:689152:e:775-->
 <!----><!--2026-01-14 22:34:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1967_godu_zimoj_nashli_medal_za_vysadku_na_kallisto_i_za_nej_prishel_chelovek">
@@ -7334,7 +7796,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Тайны/В 1967 году зимой нашли медаль За высадку на Каллисто и за ней пришёл человек:s:646496:e:846-->
+</div><!--n:Тайны/В 1967 году зимой нашли медаль За высадку на Каллисто и за ней пришёл человек:s:690067:e:846-->
+<!----><!--2026-03-22 13:45:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/gora_kajlas_nakazala_ego_za_derzost_chto_proishodit_s_temi_kto_okazyvaetsya_v_zapretnoj_zone_tibeta">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/24d9d99aacb10199c34b3bd25651e4ad/" src="http://pic.rtbcdn.ru/video/2025-05-24/c4/81/c481341ffaa79797a538dca11cbb791f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/gora_kajlas_nakazala_ego_za_derzost_chto_proishodit_s_temi_kto_okazyvaetsya_v_zapretnoj_zone_tibeta">Гора Кайлас Наказала Его за Дерзость? Что Происходит с Теми Кто Оказывается в Запретной Зоне Тибета?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Тайны/Гора Кайлас Наказала Его за Дерзость Что Происходит с Теми Кто Оказывается в Запретной Зоне Тибета:s:691085:e:925-->
 <!----><!--2026-01-02 22:20:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1973_godu_v_sovetskoj_laboratorii_eksperiment_po_zamedleniju_vremeni_dal_sboj">
@@ -7345,7 +7818,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1973 году в советской лаборатории эксперимент по замедлению времени дал сбой:s:647514:e:847-->
+</div><!--n:Тайны/В 1973 году в советской лаборатории эксперимент по замедлению времени дал сбой:s:692227:e:847-->
 <!----><!--2026-03-14 07:44:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/arhivnaya_fotografiya_zemli_1972_goda_vyzyvaet_spory">
@@ -7356,7 +7829,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Архивная фотография Земли 1972 года вызывает споры:s:648538:e:738-->
+</div><!--n:Тайны/Архивная фотография Земли 1972 года вызывает споры:s:693251:e:738-->
 <!----><!--2025-11-18 13:12:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chelovek_byl_na_marse_50_let_nazad_v_set_utekli_sekretnye_kadry_pilotiruemoj_missii_nasa_na_mars">
@@ -7367,7 +7840,18 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Тайны/Человек был на Марсе 50 лет назад В сеть утекли секретные кадры пилотируемой миссии НАСА на Марс:s:649402:e:915-->
+</div><!--n:Тайны/Человек был на Марсе 50 лет назад В сеть утекли секретные кадры пилотируемой миссии НАСА на Марс:s:694115:e:915-->
+<!----><!--2026-03-24 12:50:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/strashnaya_istoriya_rajkera_uebba_on_projil_neskolko_sutok_v_dikom_lesu_i_vernulsya_sovershenno_drugim">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a7e06ef451bb1519e25a64049ef33bd4/" src="http://pic.rtbcdn.ru/video/2025-11-21/35/24/3524e5362d5bbb6cae38a3453e22c5a2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/strashnaya_istoriya_rajkera_uebba_on_projil_neskolko_sutok_v_dikom_lesu_i_vernulsya_sovershenno_drugim">Страшная история Райкера Уэбба. Он прожил несколько суток в диком лесу и вернулся совершенно другим</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Тайны/Страшная история Райкера Уэбба. Он прожил несколько суток в диком лесу и вернулся совершенно другим:s:695240:e:931-->
 <!----><!--2026-01-28 18:23:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/pochemu_ritualy_u_statui_shivy_v_cerne_ceremoniya_v_tonnele_gotarda_i_hramy_indii_svyazany_vmeste">
@@ -7378,7 +7862,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-28</i>
   </div>
-</div><!--n:Тайны/Почему ритуалы у статуи Шивы в ЦЕРНе церемония в тоннеле Готарда и храмы Индии связаны вместе:s:650527:e:915-->
+</div><!--n:Тайны/Почему ритуалы у статуи Шивы в ЦЕРНе церемония в тоннеле Готарда и храмы Индии связаны вместе:s:696390:e:915-->
 <!----><!--2026-01-19 17:31:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1973_godu_na_krajnem_severe_pod_mnogometrovym_sloem_lda_obnarujili_gorod_ne_dlya_ljudej">
@@ -7389,7 +7873,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-19</i>
   </div>
-</div><!--n:Тайны/В 1973 году на Крайнем Севере под многометровым слоем льда обнаружили город не для людей:s:651649:e:884-->
+</div><!--n:Тайны/В 1973 году на Крайнем Севере под многометровым слоем льда обнаружили город не для людей:s:697512:e:884-->
 <!----><!--2025-11-16 11:26:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/chem_na_samom_dele_yavlyalas_stena_zemli_do_velikogo_potopa_kak_vyglyadela_nasha_dopotopnaya_zemlya">
@@ -7400,7 +7884,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-16</i>
   </div>
-</div><!--n:Тайны/Чем на самом деле являлась Стена Земли до Великого Потопа Как выглядела наша ДОПОТОПНАЯ Земля:s:652727:e:920-->
+</div><!--n:Тайны/Чем на самом деле являлась Стена Земли до Великого Потопа Как выглядела наша ДОПОТОПНАЯ Земля:s:698590:e:920-->
 <!----><!--2026-01-07 21:58:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_75_godu_matros_ischez_vo_vremya_rejsa_a_v_92m_on_poyavilsya_s_rasskazom_o_jizni_na_orbitalnoj_stancii">
@@ -7411,7 +7895,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-07</i>
   </div>
-</div><!--n:Тайны/В 75 году матрос исчез во время рейса а в 92м он появился с рассказом о жизни на орбитальной станции:s:653855:e:931-->
+</div><!--n:Тайны/В 75 году матрос исчез во время рейса а в 92м он появился с рассказом о жизни на орбитальной станции:s:699718:e:931-->
 <!----><!--2026-01-08 21:53:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/video_s_oblomkami_nlo_iz_rozuella_poyavilos_spustya_desyatiletiya">
@@ -7422,7 +7906,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Тайны/Видео с обломками НЛО из Розуэлла появилось спустя десятилетия:s:654999:e:794-->
+</div><!--n:Тайны/Видео с обломками НЛО из Розуэлла появилось спустя десятилетия:s:700862:e:794-->
 <!----><!--2025-11-05 14:34:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/megalodon_ustroil_kladbishche_akul_u_beregov_avstralii_no_uchenye_ignorirujut_sushchestvovanie_superhishchnika">
@@ -7433,7 +7917,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-05</i>
   </div>
-</div><!--n:Тайны/Мегалодон устроил кладбище акул у берегов Австралии но ученые игнорируют существование суперхищника:s:655945:e:956-->
+</div><!--n:Тайны/Мегалодон устроил кладбище акул у берегов Австралии но ученые игнорируют существование суперхищника:s:701808:e:956-->
 <!----><!--2025-12-18 16:45:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/tam_byla_gladkaya_stena_memuary_proraba_bama_stavshego_ochevidcem_neobyasnimoj_nahodki">
@@ -7444,7 +7928,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Тайны/Там была гладкая стена Мемуары прораба БАМа ставшего очевидцем необъяснимой находки:s:657124:e:879-->
+</div><!--n:Тайны/Там была гладкая стена Мемуары прораба БАМа ставшего очевидцем необъяснимой находки:s:702987:e:879-->
 <!----><!--2025-11-07 12:48:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/sushchestvuet_li_podzemnaya_civilizaciya_agarta">
@@ -7455,7 +7939,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-07</i>
   </div>
-</div><!--n:Тайны/Существует ли подземная цивилизация Агарта:s:658195:e:723-->
+</div><!--n:Тайны/Существует ли подземная цивилизация Агарта:s:704058:e:723-->
 <!----><!--2026-03-14 07:44:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/zemlya_poluchila_vtoruju_lunu_i_eto_uje_podtverdili_raschety">
@@ -7466,7 +7950,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Земля получила Вторую Луну и это уже подтвердили расчёты:s:659034:e:772-->
+</div><!--n:Тайны/Земля получила Вторую Луну и это уже подтвердили расчёты:s:704897:e:772-->
 <!----><!--2026-01-02 11:11:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1971_godu_sovetskaya_ekspediciya_v_egipte_stolknulas_s_neojidannoj_nahodkoj_v_piramide">
@@ -7477,7 +7961,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Тайны/В 1971 году советская экспедиция в Египте столкнулась с неожиданной находкой в пирамиде:s:659946:e:882-->
+</div><!--n:Тайны/В 1971 году советская экспедиция в Египте столкнулась с неожиданной находкой в пирамиде:s:705809:e:882-->
 <!----><!--2025-11-19 18:37:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/nikto_ne_umiraet_nikola_tesla_raskryl_tajny_bytiya_v_uteryannom_80_let_nazad_intervju">
@@ -7488,7 +7972,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-19</i>
   </div>
-</div><!--n:Тайны/Никто Не Умирает Никола Тесла раскрыл тайны бытия в утерянном 80 лет назад интервью:s:661022:e:872-->
+</div><!--n:Тайны/Никто Не Умирает Никола Тесла раскрыл тайны бытия в утерянном 80 лет назад интервью:s:706885:e:872-->
 <!----><!--2026-01-22 20:45:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/podo_ldami_grenlandii_skryvalas_sekretnaya_baza_ssha_s_yadernym_reaktorom">
@@ -7499,7 +7983,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Тайны/Подо льдами Гренландии скрывалась секретная база США с ядерным реактором:s:662081:e:829-->
+</div><!--n:Тайны/Подо льдами Гренландии скрывалась секретная база США с ядерным реактором:s:707944:e:829-->
 <!----><!--2026-03-05 19:44:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_istorii_raskrytiya_fajlov_nlo_poyavilas_versiya_o_demonicheskoj_prirode_fenomena">
@@ -7510,7 +7994,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Тайны/В истории раскрытия файлов НЛО появилась версия о демонической природе феномена:s:663081:e:860-->
+</div><!--n:Тайны/В истории раскрытия файлов НЛО появилась версия о демонической природе феномена:s:708944:e:860-->
 <!----><!--2025-12-31 22:51:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_1969_godu_v_chernom_more_zafiksirovali_obekt_kotoryj_dvigalsya_na_glubine_nedostupnoj_dlya_tehniki">
@@ -7521,7 +8005,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Тайны/В 1969 году в Черном море зафиксировали объект который двигался на глубине недоступной для техники:s:664125:e:928-->
+</div><!--n:Тайны/В 1969 году в Черном море зафиксировали объект который двигался на глубине недоступной для техники:s:709988:e:928-->
 <!----><!--2025-12-27 17:05:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_konce_60h_pri_aerosemke_v_sibirskoj_tajge_nashli_obekt_kotoryj_kajdyj_raz_okazyvalsya_ne_tam">
@@ -7532,7 +8016,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Тайны/В конце 60х при аэросъёмке в сибирской тайге нашли объект который каждый раз оказывался не там:s:665267:e:911-->
+</div><!--n:Тайны/В конце 60х при аэросъёмке в сибирской тайге нашли объект который каждый раз оказывался не там:s:711130:e:911-->
 <!----><!--2026-03-14 15:35:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/piramidy_na_lune_popali_na_staroe_video_i_do_sih_por_ne_poluchili_obyasneniya">
@@ -7543,7 +8027,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Тайны/Пирамиды на Луне попали на старое видео и до сих пор не получили объяснения:s:666385:e:835-->
+</div><!--n:Тайны/Пирамиды на Луне попали на старое видео и до сих пор не получили объяснения:s:712248:e:835-->
 <!----><!--2025-11-07 12:41:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/teper_ponyatno_pochemu_nikogo_ne_puskajut_za_zabor_avstralii">
@@ -7554,7 +8038,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2025-11-07</i>
   </div>
-</div><!--n:Тайны/Теперь понятно почему НИКОГО НЕ ПУСКАЮТ за Забор Австралии:s:667393:e:777-->
+</div><!--n:Тайны/Теперь понятно почему НИКОГО НЕ ПУСКАЮТ за Забор Австралии:s:713256:e:777-->
 <!----><!--2026-02-12 19:00:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/v_antarktide_u_turista_izyali_internet-oborudovanie_i_zapretili_semku_ledyanoj_steny">
@@ -7565,7 +8049,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Тайны/В Антарктиде у туриста изъяли интернет-оборудование и запретили съёмку Ледяной Стены:s:668314:e:870-->
+</div><!--n:Тайны/В Антарктиде у туриста изъяли интернет-оборудование и запретили съёмку Ледяной Стены:s:714177:e:870-->
 <!----><!--2026-02-25 15:14:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?tajny/novye_zayavleniya_o_gigantskih_upavshih_nlo_vokrug_kotoryh_postroili_zdaniya">
@@ -7576,7 +8060,7 @@
     <p><i class="smaller2">Свидетель Windows</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Тайны/Новые заявления о гигантских упавших НЛО вокруг которых построили здания:s:669377:e:831-->
+</div><!--n:Тайны/Новые заявления о гигантских упавших НЛО вокруг которых построили здания:s:715240:e:831-->
 <!----><!--2025-11-29 19:25:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_na_liman_gorlovina_v_mirnograde_umerov_v_ssha_29_11_25">
@@ -7587,7 +8071,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-29</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - наступление на Лиман Горловина в Мирнограде Умеров в США 29 11 25:s:670379:e:900-->
+</div><!--n:Жизнь в США и России/Украинский фронт - наступление на Лиман Горловина в Мирнограде Умеров в США 29 11 25:s:716242:e:900-->
 <!----><!--2025-08-17 18:33:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_edet_na_kover_k_trampu_tramp_popytaetsya_ubedit_otdat_donbass_17_08">
@@ -7598,7 +8082,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский едет на ковер к Трампу Трамп попытается убедить отдать Донбасс 17 08:s:671488:e:948-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский едет на ковер к Трампу Трамп попытается убедить отдать Донбасс 17 08:s:717351:e:948-->
 <!----><!--2025-09-08 18:56:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_805_dronov_gorit_kabmin_dnepr_pererezan_udarom_08_09_25">
@@ -7609,7 +8093,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-08</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине 805 дронов Горит КАБМИН Днепр перерезан ударом 08 09 25:s:672672:e:918-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине 805 дронов Горит КАБМИН Днепр перерезан ударом 08 09 25:s:718535:e:918-->
 <!----><!--2025-11-25 20:27:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_kieve_rossijskie_shturmoviki_v_centre_severska_abu-dabi_25_11_25">
@@ -7620,7 +8104,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-25</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ад в Киеве Российские штурмовики в центре Северска Абу-Даби 25 11 25:s:673807:e:911-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ад в Киеве Российские штурмовики в центре Северска Абу-Даби 25 11 25:s:719670:e:911-->
 <!----><!--2026-01-28 21:54:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_katastrofa_v_kieve_idut_morozy_proryv_na_zaporoje_28_01_26">
@@ -7631,7 +8115,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - катастрофа в Киеве Идут морозы Прорыв на Запорожье 28 01 26:s:674932:e:869-->
+</div><!--n:Жизнь в США и России/Украинский фронт - катастрофа в Киеве Идут морозы Прорыв на Запорожье 28 01 26:s:720795:e:869-->
 <!----><!--2025-08-14 18:20:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_na_zol_kolodec_ros_sily_zahodyat_vstrecha_zavtra_tramp_i_putin_14_08_25">
@@ -7642,7 +8126,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Зол Колодец рос силы заходят Встреча завтра Трамп и Путин 14 08 25:s:675999:e:944-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Зол Колодец рос силы заходят Встреча завтра Трамп и Путин 14 08 25:s:721862:e:944-->
 <!----><!--2025-10-11 18:21:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_bez_sveta_pol_ukrainy_minus_stal_shu_pokrovskoe_poteryano_11_10_25">
@@ -7653,7 +8137,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - без света пол Украины Минус сталь ШУ Покровское потеряно 11 10 25:s:677171:e:899-->
+</div><!--n:Жизнь в США и России/Украинский фронт - без света пол Украины Минус сталь ШУ Покровское потеряно 11 10 25:s:723034:e:899-->
 <!----><!--2025-12-17 19:52:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsrf_berut_gulyajpole_situaciya_v_kupyanske_prodvijenie_u_severska_17_12_25">
@@ -7664,7 +8148,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ берут Гуляйполе Ситуация в Купянске Продвижение у Северска 17 12 25:s:678279:e:932-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ берут Гуляйполе Ситуация в Купянске Продвижение у Северска 17 12 25:s:724142:e:932-->
 <!----><!--2025-11-23 20:11:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_seversk_okrujen_takticheski_mirnograd_okrujen_polnostju_23_11_25">
@@ -7675,7 +8159,18 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-23</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Северск окружен тактически Мирноград окружен полностью 23 11 25:s:679434:e:894-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Северск окружен тактически Мирноград окружен полностью 23 11 25:s:725297:e:894-->
+<!----><!--2026-03-20 20:31:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_karateli_s_sobakami_konclager_ukraina_itogi_irana_200326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7a97439df3618b4d4aba18e931c65f32/" src="http://pic.rtbcdn.ru/video/2026-03-20/2e/2b/2e2b40e384d60c98b8a363182cf12e52.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_karateli_s_sobakami_konclager_ukraina_itogi_irana_200326">Украинский фронт - каратели с собаками. Концлагерь Украина. Итоги Ирана.  20.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-20</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - каратели с собаками. Концлагерь Украина. Итоги Ирана. 20.03.26:s:726399:e:867-->
 <!----><!--2025-08-01 19:13:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_razbombili_kiev_ssha_nachinajut_snova_pomogat_vsu_01_08_25">
@@ -7686,7 +8181,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-01</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - разбомбили Киев США начинают снова помогать ВСУ 01 08 25:s:680536:e:867-->
+</div><!--n:Жизнь в США и России/Украинский фронт - разбомбили Киев США начинают снова помогать ВСУ 01 08 25:s:727468:e:867-->
 <!----><!--2025-11-10 20:20:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kupyansk_skoro_polnoe_okrujenie_mesivo_v_pokrovske_vzyali_rybnoe_10_11_25">
@@ -7697,7 +8192,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Купянск скоро полное окружение Месиво в Покровске Взяли Рыбное 10 11 25:s:681596:e:926-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Купянск скоро полное окружение Месиво в Покровске Взяли Рыбное 10 11 25:s:728528:e:926-->
 <!----><!--2026-02-15 20:05:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_golubok_mira_klichko_vopros_o_nezavisimosti_ukrainy_15_02_26">
@@ -7708,7 +8203,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский голубок мира Кличко вопрос о независимости Украины 15 02 26:s:682743:e:912-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский голубок мира Кличко вопрос о независимости Украины 15 02 26:s:729675:e:912-->
 <!----><!--2025-10-18 19:27:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_vojska_berut_pokrovsk_fiasko_zelenskogo_v_vashingtone_18_10_25">
@@ -7719,7 +8214,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-18</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - российские войска берут Покровск Фиаско Зеленского в Вашингтоне 18 10 25:s:683873:e:928-->
+</div><!--n:Жизнь в США и России/Украинский фронт - российские войска берут Покровск Фиаско Зеленского в Вашингтоне 18 10 25:s:730805:e:928-->
 <!----><!--2025-10-24 19:58:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vse_pechalno_dlya_vsu_vzyali_bologovku_molodeckie_ivanovku_zlagodu_pavlovku">
@@ -7730,7 +8225,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - все печально для ВСУ Взяли Бологовку Молодецкие Ивановку Злагоду Павловку:s:685025:e:944-->
+</div><!--n:Жизнь в США и России/Украинский фронт - все печально для ВСУ Взяли Бологовку Молодецкие Ивановку Злагоду Павловку:s:731957:e:944-->
 <!----><!--2026-03-04 20:46:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_pervyj_v_istorii_kuvejtskij_pilot-ass_10_tankerov_porajeno_040326">
@@ -7741,7 +8236,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-04</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт. Первый в истории кувейтский пилот-асс. 10 танкеров поражено. 04.03.26:s:686202:e:890-->
+</div><!--n:Жизнь в США и России/Украинский фронт. Первый в истории кувейтский пилот-асс. 10 танкеров поражено. 04.03.26:s:733134:e:890-->
 <!----><!--2025-10-20 19:20:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_flagi_iz_poltavki_i_zlagody_pokrovsk_otrezan_s_zapada_20_10_25">
@@ -7752,7 +8247,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-20</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - российские флаги из Полтавки и Злагоды Покровск отрезан с запада 20 10 25:s:687304:e:928-->
+</div><!--n:Жизнь в США и России/Украинский фронт - российские флаги из Полтавки и Злагоды Покровск отрезан с запада 20 10 25:s:734236:e:928-->
 <!----><!--2025-10-16 18:41:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ne_smogli_sbit_ni_odnoj_rakety_0_iz_28_katastrofa_ukrainskoj_pvo_16_10_25">
@@ -7763,7 +8258,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-16</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - не смогли сбить ни одной ракеты 0 из 28 Катастрофа украинской ПВО 16 10 25:s:688456:e:926-->
+</div><!--n:Жизнь в США и России/Украинский фронт - не смогли сбить ни одной ракеты 0 из 28 Катастрофа украинской ПВО 16 10 25:s:735388:e:926-->
 <!----><!--2025-07-16 17:34:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_58_iskanderov_franciya_skazala_net_safari_v_pokrovske_16_07_25">
@@ -7774,7 +8269,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-16</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 58 Искандеров Франция сказала НЕТ Сафари в Покровске 16 07 25:s:689603:e:883-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 58 Искандеров Франция сказала НЕТ Сафари в Покровске 16 07 25:s:736535:e:883-->
 <!----><!--2026-03-07 19:15:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_510_dronov_i_raket_iran_-_vse_poshlo_ne_po_planu_070326">
@@ -7785,7 +8280,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-07</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине 510 дронов и ракет. Иран - все пошло не по плану. 07.03.26:s:690686:e:911-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине 510 дронов и ракет. Иран - все пошло не по плану. 07.03.26:s:737618:e:911-->
 <!----><!--2025-12-10 20:21:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsrf_vzyali_polovinu_mirnograda_zelenskij_hochet_voevat_dalshe_10_12_25">
@@ -7796,7 +8291,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ взяли половину Мирнограда Зеленский хочет воевать дальше 10 12 25:s:691813:e:920-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ взяли половину Мирнограда Зеленский хочет воевать дальше 10 12 25:s:738745:e:920-->
 <!----><!--2025-09-15 20:01:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_evakuaciya_rossijskie_vojska_proryvajutsya_v_dnepropetrovskoj_obl_15_09_25">
@@ -7807,7 +8302,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - эвакуация Российские войска прорываются в Днепропетровской обл 15 09 25:s:692953:e:929-->
+</div><!--n:Жизнь в США и России/Украинский фронт - эвакуация Российские войска прорываются в Днепропетровской обл 15 09 25:s:739885:e:929-->
 <!----><!--2026-01-17 20:41:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kollaps_energetiki_ljudi_vyhodyat_na_ulicu_vsrf_dvinuli_v_zaporoje_17_01_26">
@@ -7818,7 +8313,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергетики Люди выходят на улицу ВСРФ двинули в Запорожье 17 01 26:s:694105:e:935-->
+</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергетики Люди выходят на улицу ВСРФ двинули в Запорожье 17 01 26:s:741037:e:935-->
 <!----><!--2026-01-21 20:21:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kiev_ischezaet_s_karty_minus_600_tys_v_yanvare_sovet_mira_trampa_21_01_26">
@@ -7829,7 +8324,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-21</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Киев исчезает с карты Минус 600 тыс в январе Совет Мира Трампа 21 01 26:s:695266:e:917-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Киев исчезает с карты Минус 600 тыс в январе Совет Мира Трампа 21 01 26:s:742198:e:917-->
 <!----><!--2026-03-07 19:15:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_510_dronov_i_raket_iran_-_vse_poshlo_ne_po_planu_07_03_26">
@@ -7840,7 +8335,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-07</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине 510 дронов и ракет Иран - все пошло не по плану 07 03 26:s:696398:e:915-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине 510 дронов и ракет Иран - все пошло не по плану 07 03 26:s:743330:e:915-->
 <!----><!--2025-11-06 20:21:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_vojska_berut_volchansk_djoli_v_hersone_06_11_25">
@@ -7851,7 +8346,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - российские войска берут Волчанск Джоли в Херсоне 06 11 25:s:697527:e:869-->
+</div><!--n:Жизнь в США и России/Украинский фронт - российские войска берут Волчанск Джоли в Херсоне 06 11 25:s:744459:e:869-->
 <!----><!--2025-08-16 18:23:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_diplomaticheskaya_pobeda_putina_otkaz_ssha_ot_sankcij_prinujdenie_zelenskogo">
@@ -7862,7 +8357,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-16</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - дипломатическая победа Путина Отказ США от санкций Принуждение Зеленского:s:698591:e:945-->
+</div><!--n:Жизнь в США и России/Украинский фронт - дипломатическая победа Путина Отказ США от санкций Принуждение Зеленского:s:745523:e:945-->
 <!----><!--2026-03-04 20:46:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_pervyj_v_istorii_kuvejtskij_pilot-ass_10_tankerov_porajeno_04_03_26">
@@ -7873,7 +8368,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-04</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт Первый в истории кувейтский пилот-асс 10 танкеров поражено 04 03 26:s:699770:e:894-->
+</div><!--n:Жизнь в США и России/Украинский фронт Первый в истории кувейтский пилот-асс 10 танкеров поражено 04 03 26:s:746702:e:894-->
 <!----><!--2025-08-09 18:53:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_doneckaya_oblast_zelenskij_ne_hochet_tramp_uje_reshil_09_08">
@@ -7884,7 +8379,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-09</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - минус Донецкая область Зеленский не хочет Трамп уже решил 09 08:s:700873:e:897-->
+</div><!--n:Жизнь в США и России/Украинский фронт - минус Донецкая область Зеленский не хочет Трамп уже решил 09 08:s:747805:e:897-->
 <!----><!--2025-07-17 19:16:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_koshmar_vo_lvove_za_eto_golosovali_vks_vse_razbombili_17_07_25">
@@ -7895,7 +8390,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - кошмар во Львове За это голосовали ВКС все разбомбили 17 07 25:s:701978:e:886-->
+</div><!--n:Жизнь в США и России/Украинский фронт - кошмар во Львове За это голосовали ВКС все разбомбили 17 07 25:s:748910:e:886-->
 <!----><!--2025-11-12 20:39:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_100_mln_zelenskogo_massovaya_sdacha_v_plen_posle_priletov_fab-3000_12_11_25">
@@ -7906,7 +8401,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 100 млн Зеленского Массовая сдача в плен после прилетов ФАБ-3000 12 11 25:s:703067:e:924-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 100 млн Зеленского Массовая сдача в плен после прилетов ФАБ-3000 12 11 25:s:749999:e:924-->
 <!----><!--2025-08-06 19:14:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_drujnye_peregovoryv_moskve_udar_po_orlovke_evropeec_goda_06_08_25">
@@ -7917,7 +8412,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - дружные переговорыв Москве Удар по Орловке Европеец года 06 08 25:s:704207:e:899-->
+</div><!--n:Жизнь в США и России/Украинский фронт - дружные переговорыв Москве Удар по Орловке Европеец года 06 08 25:s:751139:e:899-->
 <!----><!--2025-09-03 19:49:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_novyj_sojuz_kitaj_indiya_rossiya_sev_koreya_tramp_v_panike_v_smi_isterika_03_09">
@@ -7928,7 +8423,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - новый союз Китай Индия Россия Сев Корея Трамп в панике В СМИ истерика 03 09:s:705316:e:946-->
+</div><!--n:Жизнь в США и России/Украинский фронт - новый союз Китай Индия Россия Сев Корея Трамп в панике В СМИ истерика 03 09:s:752248:e:946-->
 <!----><!--2025-12-13 19:31:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kotel_v_gulyajpole_6_oblastej_ukrainy_bez_sveta_vody_i_tepla_13_12_25">
@@ -7939,7 +8434,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - котел в Гуляйполе 6 областей Украины без света воды и тепла 13 12 25:s:706490:e:908-->
+</div><!--n:Жизнь в США и России/Украинский фронт - котел в Гуляйполе 6 областей Украины без света воды и тепла 13 12 25:s:753422:e:908-->
 <!----><!--2025-11-14 21:06:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_na_zaporoje_berut_desyatki_sel_pokrovsk_otvlekajushchij_14_11_25">
@@ -7950,7 +8445,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Запорожье Берут десятки сел Покровск отвлекающий 14 11 25:s:707610:e:915-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Запорожье Берут десятки сел Покровск отвлекающий 14 11 25:s:754542:e:915-->
 <!----><!--2026-02-07 20:35:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_energetike_ostanovleny_energobloki_ukrainskih_aes_07_02_26">
@@ -7961,7 +8456,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-07</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по энергетике Остановлены энергоблоки украинских АЭС 07 02 26:s:708739:e:899-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по энергетике Остановлены энергоблоки украинских АЭС 07 02 26:s:755671:e:899-->
 <!----><!--2025-09-02 20:16:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_terror_ukrainskoj_elity_zapret_cerkvi_tankovaya_ataka_na_orehov_02_09_25">
@@ -7972,7 +8467,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - террор украинской элиты Запрет Церкви Танковая атака на Орехов 02 09 25:s:709851:e:924-->
+</div><!--n:Жизнь в США и России/Украинский фронт - террор украинской элиты Запрет Церкви Танковая атака на Орехов 02 09 25:s:756783:e:924-->
 <!----><!--2025-08-22 18:39:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_serebryanka_vyshla_iz_chata_5_let_za_pobeg_iz_ukrainskogo_raya_22_08_25">
@@ -7983,7 +8478,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Серебрянка вышла из чата 5 лет за побег из украинского РАЯ 22 08 25:s:710996:e:910-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Серебрянка вышла из чата 5 лет за побег из украинского РАЯ 22 08 25:s:757928:e:910-->
 <!----><!--2025-11-08 20:21:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_energetika_pokrovsk_okrujen_kupyansk_-_doshli_do_jujnoj_okrainy_08_11_25">
@@ -7994,7 +8489,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-08</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - минус энергетика Покровск окружен Купянск - дошли до южной окраины 08 11 25:s:712116:e:942-->
+</div><!--n:Жизнь в США и России/Украинский фронт - минус энергетика Покровск окружен Купянск - дошли до южной окраины 08 11 25:s:759048:e:942-->
 <!----><!--2026-01-13 21:56:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_v_irane_krovavaya_bojnya_udar_po_kievu_minus_tec_flag_vsrf_v_kurilovke_13_01_26">
@@ -8005,7 +8500,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - в Иране кровавая бойня Удар по Киеву минус ТЭЦ Флаг ВСРФ в Куриловке 13 01 26:s:713285:e:946-->
+</div><!--n:Жизнь в США и России/Украинский фронт - в Иране кровавая бойня Удар по Киеву минус ТЭЦ Флаг ВСРФ в Куриловке 13 01 26:s:760217:e:946-->
 <!----><!--2025-07-31 19:40:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_chasov_yar_minus_pokrovsk_-_boi_v_centre_obval_flanga_31_07_25">
@@ -8016,7 +8511,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-31</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - МИНУС Часов Яр Минус Покровск - бои в центре обвал фланга 31 07 25:s:714460:e:903-->
+</div><!--n:Жизнь в США и России/Украинский фронт - МИНУС Часов Яр Минус Покровск - бои в центре обвал фланга 31 07 25:s:761392:e:903-->
 <!----><!--2026-03-13 18:51:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_snyali_sankcii_s_rossijskoj_nefti_vsyali_zatyshok_suheckoe_130326">
@@ -8027,7 +8522,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - сняли санкции с российской нефти. Всяли Затышок, Сухецкое. 13.03.26:s:715571:e:893-->
+</div><!--n:Жизнь в США и России/Украинский фронт - сняли санкции с российской нефти. Всяли Затышок, Сухецкое. 13.03.26:s:762503:e:893-->
 <!----><!--2025-08-25 18:35:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_faby_mnogo_vzyali_kleban-byk_filiju_srednee_25_08_25">
@@ -8038,7 +8533,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-25</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ФАБы много Взяли Клебан-Бык Филию Среднее 25 08 25:s:716675:e:843-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ФАБы много Взяли Клебан-Бык Филию Среднее 25 08 25:s:763607:e:843-->
 <!----><!--2026-01-20 20:41:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_konec_nato_-_anneksiya_grenlandii_tramp_vydvinul_ultimatum_20_01_26">
@@ -8049,7 +8544,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-20</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - КОНЕЦ НАТО - аннексия Гренландии Трамп выдвинул ультиматум 20 01 26:s:717699:e:901-->
+</div><!--n:Жизнь в США и России/Украинский фронт - КОНЕЦ НАТО - аннексия Гренландии Трамп выдвинул ультиматум 20 01 26:s:764631:e:901-->
 <!----><!--2025-12-14 19:17:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsrf_v_centre_gulyajpolya_ad_v_odesse_zelenskij_opyat_obmanul_14_12_25">
@@ -8060,7 +8555,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ в центре Гуляйполя Ад в Одессе Зеленский опять обманул 14 12 25:s:718813:e:913-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ в центре Гуляйполя Ад в Одессе Зеленский опять обманул 14 12 25:s:765745:e:913-->
 <!----><!--2025-10-22 19:48:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_elektrichestvo_na_ukraine_strashnyj_udar_po_tec_nochju_22_10_25">
@@ -8071,7 +8566,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - минус электричество на Украине Страшный УДАР по ТЭЦ ночью 22 10 25:s:719940:e:907-->
+</div><!--n:Жизнь в США и России/Украинский фронт - минус электричество на Украине Страшный УДАР по ТЭЦ ночью 22 10 25:s:766872:e:907-->
 <!----><!--2026-02-14 19:33:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pvo_na_nule_sobaka_stojkosti_i_rjutte_udar_po_belgorodu_14_02_26">
@@ -8082,7 +8577,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ПВО на нуле Собака стойкости и Рютте Удар по Белгороду 14 02 26:s:721058:e:887-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ПВО на нуле Собака стойкости и Рютте Удар по Белгороду 14 02 26:s:767990:e:887-->
 <!----><!--2025-07-30 19:40:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsrf_idet_vpered_tempy_nastupleniya_na_urovne_zelenskij_ne_nujen_zapadu_30_07">
@@ -8093,7 +8588,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-30</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ идет вперед Темпы наступления на уровне Зеленский не нужен Западу 30 07:s:722149:e:945-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ идет вперед Темпы наступления на уровне Зеленский не нужен Западу 30 07:s:769081:e:945-->
 <!----><!--2025-11-01 19:40:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_priletel_budanov_opyat_proval_na_4_km_v_dnepropetrovskoj_01_11_25">
@@ -8104,7 +8599,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-01</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прилетел Буданов Опять провал на 4 км в Днепропетровской 01 11 25:s:723326:e:896-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прилетел Буданов Опять провал на 4 км в Днепропетровской 01 11 25:s:770258:e:896-->
 <!----><!--2026-03-03 20:30:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/vojna_v_irane_-_kto_uje_pobedil_po-krupnomu_mirovoj_neftyanoj_i_gazovyj_krizis_030326">
@@ -8115,7 +8610,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Война в Иране - кто уже победил по-крупному. Мировой нефтяной и газовый кризис. 03.03.26:s:724430:e:897-->
+</div><!--n:Жизнь в США и России/Война в Иране - кто уже победил по-крупному. Мировой нефтяной и газовый кризис. 03.03.26:s:771362:e:897-->
 <!----><!--2026-02-24 20:58:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_izmeneniya_po_ls_za_nedelju_prodvijenie_vsrf_udar_po_zaporojju_24_02_26">
@@ -8126,7 +8621,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - изменения по ЛС за неделю Продвижение ВСРФ Удар по Запорожью 24 02 26:s:725540:e:913-->
+</div><!--n:Жизнь в США и России/Украинский фронт - изменения по ЛС за неделю Продвижение ВСРФ Удар по Запорожью 24 02 26:s:772472:e:913-->
 <!----><!--2025-08-21 18:53:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ultimatum_zelenskomu_nochnaya_ataka_574_gerani_i_40_raket_proryvy_21_08_25">
@@ -8137,7 +8632,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-21</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ультиматум Зеленскому Ночная атака 574 Герани и 40 ракет Прорывы 21 08 25:s:726669:e:926-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ультиматум Зеленскому Ночная атака 574 Герани и 40 ракет Прорывы 21 08 25:s:773601:e:926-->
 <!----><!--2026-02-13 19:54:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_epidemiya_v_rade_fedorov_v_nato_rasskazal_son_6_oblastej_ukrainy_bez_sveta">
@@ -8148,7 +8643,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - эпидемия в Раде. Федоров в НАТО рассказал сон. 6 областей Украины без света.:s:727814:e:932-->
+</div><!--n:Жизнь в США и России/Украинский фронт - эпидемия в Раде. Федоров в НАТО рассказал сон. 6 областей Украины без света.:s:774746:e:932-->
 <!----><!--2026-02-11 20:44:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tec5_vse_udaro_po_zaporojju_11_tys_bez_sveta_kontrataka_na_styke_11_02_26">
@@ -8159,7 +8654,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ТЭЦ5 ВСЕ Ударо по Запорожью 11 тыс без света Контратака на стыке 11 02 26:s:728978:e:920-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ТЭЦ5 ВСЕ Ударо по Запорожью 11 тыс без света Контратака на стыке 11 02 26:s:775910:e:920-->
 <!----><!--2025-10-31 19:22:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kollaps_energosistemy_ukrainy_pokrovsk_razrezan_na_2_chasti_31_10_25">
@@ -8170,7 +8665,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергосистемы Украины Покровск разрезан на 2 части 31 10 25:s:730117:e:907-->
+</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергосистемы Украины Покровск разрезан на 2 части 31 10 25:s:777049:e:907-->
 <!----><!--2025-11-12 13:42:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_koshmar_dlya_vsu_v_pokrovske_totalnyj_blekaut_v_neskolkih_oblastyah_29_10_25">
@@ -8181,7 +8676,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - КОШМАР для ВСУ в Покровске Тотальный блэкаут в нескольких областях 29 10 25:s:731237:e:938-->
+</div><!--n:Жизнь в США и России/Украинский фронт - КОШМАР для ВСУ в Покровске Тотальный блэкаут в нескольких областях 29 10 25:s:778169:e:938-->
 <!----><!--2025-12-30 21:49:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_evakuaciya_na_ukraine_provokaciya_zelenskogo_kupyansk_30_12_25">
@@ -8192,7 +8687,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-30</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - эвакуация на Украине Провокация Зеленского Купянск 30 12 25:s:732403:e:883-->
+</div><!--n:Жизнь в США и России/Украинский фронт - эвакуация на Украине Провокация Зеленского Купянск 30 12 25:s:779335:e:883-->
 <!----><!--2025-11-24 20:58:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kollaps_energetiki_nastuplenie_na_styke_-_lavina_rossijskih_vojsk_24_11_25">
@@ -8203,7 +8698,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергетики Наступление на стыке - ЛАВИНА российских войск 24 11 25:s:733486:e:932-->
+</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергетики Наступление на стыке - ЛАВИНА российских войск 24 11 25:s:780418:e:932-->
 <!----><!--2025-07-21 19:02:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_kievu_krysy_poedajut_drug_druga_21_07_25">
@@ -8214,7 +8709,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-21</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Киеву Крысы поедают друг друга 21 07 25:s:734644:e:829-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Киеву Крысы поедают друг друга 21 07 25:s:781576:e:829-->
 <!----><!--2025-09-12 20:52:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proval_v_dnepropetrovskoj_kotel_v_lesu_konstantinovka_vse_12_09_25">
@@ -8225,7 +8720,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - провал в Днепропетровской Котел в лесу Константиновка ВСЕ 12 09 25:s:735648:e:903-->
+</div><!--n:Жизнь в США и России/Украинский фронт - провал в Днепропетровской Котел в лесу Константиновка ВСЕ 12 09 25:s:782580:e:903-->
 <!----><!--2025-12-09 20:43:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_meshok_smerti_v_mirnograde_seversk_kollaps_oborony_vsu_09_12_25">
@@ -8236,7 +8731,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - мешок смерти в Мирнограде Северск коллапс обороны ВСУ 09 12 25:s:736763:e:888-->
+</div><!--n:Жизнь в США и России/Украинский фронт - мешок смерти в Мирнограде Северск коллапс обороны ВСУ 09 12 25:s:783695:e:888-->
 <!----><!--2026-02-14 19:33:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pvo_na_nule_sobaka_stojkosti_i_rjutte_udar_po_belgorodu_140226">
@@ -8247,7 +8742,18 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ПВО на нуле. Собака стойкости и Рютте. Удар по Белгороду. 14.02.26:s:737855:e:883-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ПВО на нуле. Собака стойкости и Рютте. Удар по Белгороду. 14.02.26:s:784787:e:883-->
+<!----><!--2026-03-18 20:56:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ataka_vsu_na_styke_oblastej_vojna_v_irane_ne_po_planu_180326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6310a70c70ff8381f5483c5f3338902d/" src="http://pic.rtbcdn.ru/video/2026-03-18/be/b9/beb99851502ee651d5ec893c37393eed.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ataka_vsu_na_styke_oblastej_vojna_v_irane_ne_po_planu_180326">Украинский фронт - атака ВСУ на стыке областей. Война в Иране не по плану. 18.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-18</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - атака ВСУ на стыке областей. Война в Иране не по плану. 18.03.26:s:785877:e:875-->
 <!----><!--2025-11-26 20:32:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_obhod_volchanska_mirnye_peregovory_shirma_tyanut_vremya_26_11_25">
@@ -8258,7 +8764,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Обход Волчанска Мирные переговоры ширма тянуть время 26 11 25:s:738945:e:889-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Обход Волчанска Мирные переговоры ширма тянуть время 26 11 25:s:786955:e:889-->
 <!----><!--2025-12-06 20:14:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_mirnograd_v_okrujenii_ssha_menyajut_vsju_vneshnjuju_politiku_06_12_25">
@@ -8269,7 +8775,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Мирноград в окружении США меняют всю внешнюю политику 06 12 25:s:740037:e:900-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Мирноград в окружении США меняют всю внешнюю политику 06 12 25:s:788047:e:900-->
 <!----><!--2026-01-23 21:03:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_evakuaciya_kieva_krivoj_rog_bombili_sutki_zelenskij_prosit_250_vagonov_deneg">
@@ -8280,7 +8786,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-23</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - эвакуация Киева Кривой Рог бомбили сутки Зеленский просит 250 вагонов денег:s:741141:e:940-->
+</div><!--n:Жизнь в США и России/Украинский фронт - эвакуация Киева Кривой Рог бомбили сутки Зеленский просит 250 вагонов денег:s:789151:e:940-->
 <!----><!--2025-10-14 19:18:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pole_trupov_v_shahovo_nastuplenie_17_edinic_tehniki_i_motopehoty_14_10_25">
@@ -8291,7 +8797,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - поле трупов в Шахово Наступление 17 единиц техники и мотопехоты 14 10 25:s:742314:e:924-->
+</div><!--n:Жизнь в США и России/Украинский фронт - поле трупов в Шахово Наступление 17 единиц техники и мотопехоты 14 10 25:s:790324:e:924-->
 <!----><!--2026-02-09 20:20:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_vasilkovo_11_iskanderov_polnoe_okrujenie_vsu_u_kupyanska_kontrataka_vsu">
@@ -8302,7 +8808,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-09</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ад в Васильково 11 Искандеров Полное окружение ВСУ у Купянска Контратака ВСУ:s:743458:e:942-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ад в Васильково 11 Искандеров Полное окружение ВСУ у Купянска Контратака ВСУ:s:791468:e:942-->
 <!----><!--2026-02-05 20:18:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_darnickaya_tec_unichtojena_kupyanskij_meshok_terror_ukrainskogo_naroda_05_02_26">
@@ -8313,7 +8819,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-05</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Дарницкая ТЭЦ УНИЧТОЖЕНА Купянский мешок Террор украинского народа 05 02 26:s:744635:e:943-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Дарницкая ТЭЦ УНИЧТОЖЕНА Купянский мешок Террор украинского народа 05 02 26:s:792645:e:943-->
 <!----><!--2025-09-18 18:49:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_meshki_v_pokrovske_i_kupyanske_vsu_opyat_vojuet_v_poluokrujenii_18_09_25">
@@ -8324,7 +8830,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-18</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - мешки в Покровске и Купянске ВСУ опять воюет в полуокружении 18 09 25:s:745808:e:918-->
+</div><!--n:Жизнь в США и России/Украинский фронт - мешки в Покровске и Купянске ВСУ опять воюет в полуокружении 18 09 25:s:793818:e:918-->
 <!----><!--2025-11-27 20:02:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_volchansk_otrezan_u_gulyajpolya_panika_vsu_mirnyj_plan_-_ultimatum_27_11_25">
@@ -8335,7 +8841,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-27</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Волчанск отрезан У Гуляйполя паника ВСУ Мирный план - ультиматум 27 11 25:s:746942:e:932-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Волчанск отрезан У Гуляйполя паника ВСУ Мирный план - ультиматум 27 11 25:s:794952:e:932-->
 <!----><!--2025-09-23 19:37:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskoe_prodvijenie_v_zaporoje_celi_nastupleniya_23_09_25">
@@ -8346,7 +8852,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-23</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - российское продвижение в Запорожье Цели наступления 23 09 25:s:748097:e:880-->
+</div><!--n:Жизнь в США и России/Украинский фронт - российское продвижение в Запорожье Цели наступления 23 09 25:s:796107:e:880-->
 <!----><!--2025-07-22 18:37:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_na_konstantinovku_tramp_likvidiroval_nabu_22_07_25">
@@ -8357,7 +8863,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Константиновку Трамп ликвидировал НАБУ 22 07 25:s:749179:e:868-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Константиновку Трамп ликвидировал НАБУ 22 07 25:s:797189:e:868-->
 <!----><!--2026-01-08 20:52:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_chej_tanker_stolknoveniya_v_ssha_vsrf_vzyali_andreevku_i_novomarkovo_08_01_26">
@@ -8368,7 +8874,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - чей танкер Столкновения в США ВСРФ взяли Андреевку и Новомарково 08 01 26:s:750243:e:937-->
+</div><!--n:Жизнь в США и России/Украинский фронт - чей танкер Столкновения в США ВСРФ взяли Андреевку и Новомарково 08 01 26:s:798253:e:937-->
 <!----><!--2025-12-24 19:18:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_sankcii_ssha_protiv_evropy_volki_putina_minus_snaryady_vsu_24_12_25">
@@ -8379,7 +8885,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - санкции США против Европы Волки Путина Минус снаряды ВСУ 24 12 25:s:751404:e:902-->
+</div><!--n:Жизнь в США и России/Украинский фронт - санкции США против Европы Волки Путина Минус снаряды ВСУ 24 12 25:s:799414:e:902-->
 <!----><!--2025-12-29 21:15:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_popytka_vsu_ubit_putina_91_dron_ataka_rezidencii_tramp_v_shoke_29_12_25">
@@ -8390,7 +8896,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-29</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - попытка ВСУ убить Путина 91 дрон атака резиденции Трамп в шоке 29 12 25:s:752515:e:918-->
+</div><!--n:Жизнь в США и России/Украинский фронт - попытка ВСУ убить Путина 91 дрон атака резиденции Трамп в шоке 29 12 25:s:800525:e:918-->
 <!----><!--2026-02-13 19:54:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_epidemiya_v_rade_fedorov_v_nato_rasskazal_son_6_oblastej_ukrainy_bez_sveta">
@@ -8401,7 +8907,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - эпидемия в Раде Федоров в НАТО рассказал сон 6 областей Украины без света:s:753650:e:932-->
+</div><!--n:Жизнь в США и России/Украинский фронт - эпидемия в Раде Федоров в НАТО рассказал сон 6 областей Украины без света:s:801660:e:932-->
 <!----><!--2025-08-20 20:08:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_1_mln_721_tys_vsu_novyj_proryv_na_6_km_i_zolotogo_kolodezya_idut_vpered_20_08">
@@ -8412,7 +8918,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-20</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 1 млн 721 тыс ВСУ Новый прорыв на 6 км И Золотого Колодезя идут вперед 20 08:s:754811:e:937-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 1 млн 721 тыс ВСУ Новый прорыв на 6 км И Золотого Колодезя идут вперед 20 08:s:802821:e:937-->
 <!----><!--2026-01-02 21:32:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_terakt_v_gostinice_budanov_glava_op_vsrf_v_moskovke_02_01_26">
@@ -8423,7 +8929,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - теракт в гостинице Буданов глава ОП ВСРФ в Московке 02 01 26:s:755971:e:878-->
+</div><!--n:Жизнь в США и России/Украинский фронт - теракт в гостинице Буданов глава ОП ВСРФ в Московке 02 01 26:s:803981:e:878-->
 <!----><!--2025-10-23 19:34:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_novyj_vitok_sankcij_vojna_trampa_vzyali_pavlovku_i_lenino_23_10_25">
@@ -8434,7 +8940,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-23</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - новый виток санкций Война Трампа Взяли Павловку и Ленино 23 10 25:s:757048:e:900-->
+</div><!--n:Жизнь в США и России/Украинский фронт - новый виток санкций Война Трампа Взяли Павловку и Ленино 23 10 25:s:805058:e:900-->
 <!----><!--2026-03-05 20:05:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/opg_-_minoborony_rf_arestovan_ocherednoj_mafik_iz_komandy_shojgu_05_03_26">
@@ -8445,7 +8951,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-05</i>
   </div>
-</div><!--n:Жизнь в США и России/ОПГ - Минобороны РФ Арестован очередной мафик из команды Шойгу 05 03 26:s:758157:e:847-->
+</div><!--n:Жизнь в США и России/ОПГ - Минобороны РФ Арестован очередной мафик из команды Шойгу 05 03 26:s:806167:e:847-->
 <!----><!--2025-12-03 21:28:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_mirnye_peregovory_zakonchilis_vzyali_volchansk_mirnograd_okrujeny_tysyachi">
@@ -8456,7 +8962,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - мирные переговоры закончились Взяли Волчанск Мирноград окружены тысячи:s:759189:e:936-->
+</div><!--n:Жизнь в США и России/Украинский фронт - мирные переговоры закончились Взяли Волчанск Мирноград окружены тысячи:s:807199:e:936-->
 <!----><!--2026-02-26 19:42:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_tck_nachali_otstrel_diskvalificirovat_bubku_260226">
@@ -8467,7 +8973,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине. ТЦК начали отстрел. Дисквалифицировать Бубку. 26.02.26:s:760354:e:903-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине. ТЦК начали отстрел. Дисквалифицировать Бубку. 26.02.26:s:808364:e:903-->
 <!----><!--2026-03-11 19:57:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nahrjuken_na_styke_oblastej_krovavaya_banya_v_ternovom_270226">
@@ -8478,7 +8984,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - нахрюкен на стыке областей. Кровавая баня в Терновом. 27.02.26:s:761476:e:876-->
+</div><!--n:Жизнь в США и России/Украинский фронт - нахрюкен на стыке областей. Кровавая баня в Терновом. 27.02.26:s:809486:e:876-->
 <!----><!--2025-08-30 19:30:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_za_npz_537_dronov_i_45_raket_parubij_ushel_30_08_25">
@@ -8489,7 +8995,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-30</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине за НПЗ 537 дронов и 45 ракет Парубий ушел 30 08 25:s:762554:e:895-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине за НПЗ 537 дронов и 45 ракет Парубий ушел 30 08 25:s:810564:e:895-->
 <!----><!--2025-09-29 20:07:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_na_4_5_km_otrezajut_gulyajpole_29_09_25">
@@ -8500,7 +9006,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-29</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на 4 5 км Отрезают Гуляйполе 29 09 25:s:763652:e:817-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на 4 5 км Отрезают Гуляйполе 29 09 25:s:811662:e:817-->
 <!----><!--2026-01-09 20:34:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_oborony_vsu_preduprejdenie_evropejcam_kiev_bez_tepla_-25_09_01_26">
@@ -8511,7 +9017,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв обороны ВСУ Предупреждение Европейцам Киев без тепла -25 09 01 26:s:764636:e:922-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв обороны ВСУ Предупреждение Европейцам Киев без тепла -25 09 01 26:s:812646:e:922-->
 <!----><!--2025-12-04 19:30:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pora_valit_iz_hersona_vojna_s_es_skoro_boi_za_shu_pokrovskoe_04_12_25">
@@ -8522,7 +9028,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - пора валить из Херсона Война с ЕС скоро Бои за ШУ Покровское 04 12 25:s:765778:e:912-->
+</div><!--n:Жизнь в США и России/Украинский фронт - пора валить из Херсона Война с ЕС скоро Бои за ШУ Покровское 04 12 25:s:813788:e:912-->
 <!----><!--2025-08-26 18:41:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_atakovali_vengriju_polsha_vydvinula_ultimatum_kotly_na_fronte_26_08_25">
@@ -8533,7 +9039,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ атаковали Венгрию Польша выдвинула ультиматум Котлы на фронте 26 08 25:s:766904:e:934-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ атаковали Венгрию Польша выдвинула ультиматум Котлы на фронте 26 08 25:s:814914:e:934-->
 <!----><!--2025-08-11 18:06:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_na_10_km_v_forme_klizmy_vsu_begut_11_08_25">
@@ -8544,7 +9050,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на 10 км в форме клизмы ВСУ бегут 11 08 25:s:768065:e:831-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на 10 км в форме клизмы ВСУ бегут 11 08 25:s:816075:e:831-->
 <!----><!--2025-12-23 20:06:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nochnaya_porciya_635_dronov_38_raket_10_oblastej_bez_sveta_na_ukraine_23_12_25">
@@ -8555,7 +9061,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ночная порция 635 дронов 38 ракет 10 областей без света на Украине 23 12 25:s:769071:e:933-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ночная порция 635 дронов 38 ракет 10 областей без света на Украине 23 12 25:s:817081:e:933-->
 <!----><!--2026-01-31 20:04:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_okrujenie_ukrainskih_vojsk_u_kupyanska_bleekaut_na_ukraine_31_01_26">
@@ -8566,7 +9072,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-31</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - окружение украинских войск у Купянска Блеэкаут на Украине 31 01 26:s:770223:e:900-->
+</div><!--n:Жизнь в США и России/Украинский фронт - окружение украинских войск у Купянска Блеэкаут на Украине 31 01 26:s:818233:e:900-->
 <!----><!--2025-12-18 20:38:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_v_zaporoje_na_6_km_evakuaciya_zelenskij_pojelal_smerti_trampa_18_12_25">
@@ -8577,7 +9083,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв в Запорожье на 6 км Эвакуация Зеленский пожелал смерти Трампа 18 12 25:s:771335:e:943-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв в Запорожье на 6 км Эвакуация Зеленский пожелал смерти Трампа 18 12 25:s:819345:e:943-->
 <!----><!--2025-09-01 20:21:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zapret_cerkvi_na_ukraine_kitaj_stroit_protivoves_ssha_vzyali_kamyshevahu_01_09_25">
@@ -8588,7 +9094,18 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-01</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - запрет ЦЕРКВИ на Украине Китай строит противовес США Взяли Камышеваху 01 09 25:s:772508:e:954-->
+</div><!--n:Жизнь в США и России/Украинский фронт - запрет ЦЕРКВИ на Украине Китай строит противовес США Взяли Камышеваху 01 09 25:s:820518:e:954-->
+<!----><!--2026-03-23 21:27:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proval_ssha_v_irane_rossiyane_u_stely_v_kupyanske_francuzskij_gittler_230326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e3006b0e8ccf8dc066c0ce58a484b444/" src="http://pic.rtbcdn.ru/video/2026-03-23/05/2e/052e68fb23bdac99657f37a318bb50a6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proval_ssha_v_irane_rossiyane_u_stely_v_kupyanske_francuzskij_gittler_230326">Украинский фронт - провал США в Иране. Россияне у стелы в Купянске. Французский Гиттлер. 23.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-23</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - провал США в Иране. Россияне у стелы в Купянске. Французский Гиттлер. 23.03.26:s:821706:e:934-->
 <!----><!--2025-09-16 19:08:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_na_5_km_v_zaporojskoj_polshu_do_sih_por_tryaset_ujas_v_harkove_16_09">
@@ -8599,7 +9116,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-16</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на 5 км в Запорожской Польшу до сих пор трясет Ужас в Харькове 16 09:s:773696:e:936-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на 5 км в Запорожской Польшу до сих пор трясет Ужас в Харькове 16 09:s:822870:e:936-->
 <!----><!--2026-02-25 21:02:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_na_styke_oblastej_vzyali_rizdvyanku_kosovcevo_i_pridorojnoe_25_2_26">
@@ -8610,7 +9127,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - наступление на стыке областей Взяли Риздвянку Косовцево и Придорожное 25 2 26:s:774858:e:946-->
+</div><!--n:Жизнь в США и России/Украинский фронт - наступление на стыке областей Взяли Риздвянку Косовцево и Придорожное 25 2 26:s:824032:e:946-->
 <!----><!--2026-02-11 20:44:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tec5_vse_udaro_po_zaporojju_11_tys_bez_sveta_kontrataka_na_styke_110226">
@@ -8621,7 +9138,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ТЭЦ5 ВСЕ. Ударо по Запорожью 11 тыс без света. Контратака на стыке. 11.02.26:s:776038:e:916-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ТЭЦ5 ВСЕ. Ударо по Запорожью 11 тыс без света. Контратака на стыке. 11.02.26:s:825212:e:916-->
 <!----><!--2025-08-18 19:50:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_na_kovre_nadel_pidjachok_otdavaj_donbass_18_08_25">
@@ -8632,7 +9149,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-18</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский на ковре Надел пиджачок Отдавай Донбасс 18 08 25:s:777176:e:874-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский на ковре Надел пиджачок Отдавай Донбасс 18 08 25:s:826350:e:874-->
 <!----><!--2025-08-07 18:39:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_dogovor_mejdu_rossiej_i_ssha_tramp_vstretitsya_s_putinym_07_08_25">
@@ -8643,7 +9160,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-07</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - договор между Россией и США Трамп встретится с Путиным 07 08 25:s:778247:e:893-->
+</div><!--n:Жизнь в США и России/Украинский фронт - договор между Россией и США Трамп встретится с Путиным 07 08 25:s:827421:e:893-->
 <!----><!--2026-01-07 20:51:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/piratstvo_ssha_v_mirovom_okeane_zahvatili_tankery_otvet_kakoj_07_01_26">
@@ -8654,7 +9171,18 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-07</i>
   </div>
-</div><!--n:Жизнь в США и России/Пиратство США в мировом океане Захватили танкеры Ответ какой 07 01 26:s:779345:e:844-->
+</div><!--n:Жизнь в США и России/Пиратство США в мировом океане Захватили танкеры Ответ какой 07 01 26:s:828519:e:844-->
+<!----><!--2026-03-21 20:20:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vruchenie_povestki_s_nogi_naselenie_ukrainy_20_mln_kotel_u_kupyanska_210326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ad466f479c2afcb1c75ee36cfc1639d7/" src="http://pic.rtbcdn.ru/video/2026-03-21/ec/fa/ecfa6fd1778d53d782dd250f07af102a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vruchenie_povestki_s_nogi_naselenie_ukrainy_20_mln_kotel_u_kupyanska_210326">Украинский фронт - вручение повестки с ноги. Население Украины 20 млн. Котел у Купянска. 21.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - вручение повестки с ноги. Население Украины 20 млн. Котел у Купянска. 21.03.26:s:829546:e:930-->
 <!----><!--2025-11-30 18:40:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_oformlyaetsya_porajenie_ukrainy_umerov_na_kovre_v_ssha_30_11_25">
@@ -8665,7 +9193,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-30</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - оформляется поражение Украины Умеров на ковре в США 30 11 25:s:780372:e:884-->
+</div><!--n:Жизнь в США и России/Украинский фронт - оформляется поражение Украины Умеров на ковре в США 30 11 25:s:830704:e:884-->
 <!----><!--2026-03-10 20:15:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_porajenie_v_irane_otmena_sankcij_na_ros_neft_prodvijenie_vsrf_10_03_26">
@@ -8676,7 +9204,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - поражение в Иране Отмена санкций на рос нефть Продвижение ВСРФ 10 03 26:s:781456:e:915-->
+</div><!--n:Жизнь в США и России/Украинский фронт - поражение в Иране Отмена санкций на рос нефть Продвижение ВСРФ 10 03 26:s:831788:e:915-->
 <!----><!--2026-01-14 21:00:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_tankeru_ssha_timoshenko_opyat_s_pachkami_kupjur_2_mln_dezertirov_14_01_26">
@@ -8687,7 +9215,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по танкеру США Тимошенко опять с пачками купюр 2 млн дезертиров 14 01 26:s:782591:e:950-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по танкеру США Тимошенко опять с пачками купюр 2 млн дезертиров 14 01 26:s:832923:e:950-->
 <!----><!--2025-08-23 19:30:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_skazal_net_hochet_voevat_dalshe_23_08_25">
@@ -8698,7 +9226,18 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-23</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский сказал НЕТ Хочет воевать дальше 23 08 25:s:783770:e:840-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский сказал НЕТ Хочет воевать дальше 23 08 25:s:834102:e:840-->
+<!----><!--2026-03-24 20:30:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ochen_uspeshnye_peregovory_s_iranom_tel-aviv_v_ogne_russkoj_starlink_240326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f6df1a159d0d3f8614e83f03284197a4/" src="http://pic.rtbcdn.ru/video/2026-03-24/da/23/da23ebf0679676fe813e9353439b25e1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ochen_uspeshnye_peregovory_s_iranom_tel-aviv_v_ogne_russkoj_starlink_240326">Украинский фронт - очень успешные переговоры с Ираном. Тель-Авив в огне. Русской Старлинк. 24.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - очень успешные переговоры с Ираном. Тель-Авив в огне. Русской Старлинк. 24.03.26:s:835124:e:936-->
 <!----><!--2026-01-05 20:50:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/venesuela_-_bespredel_ukrainskij_front_-_prodvijenie_u_severska_05_01_26">
@@ -8709,7 +9248,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Жизнь в США и России/Венесуэла - беспредел Украинский фронт - продвижение у Северска 05 01 26:s:784792:e:851-->
+</div><!--n:Жизнь в США и России/Венесуэла - беспредел Украинский фронт - продвижение у Северска 05 01 26:s:836294:e:851-->
 <!----><!--2026-02-26 19:42:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_tck_nachali_otstrel_diskvalificirovat_bubku_26_02_26">
@@ -8720,7 +9259,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине ТЦК начали отстрел Дисквалифицировать Бубку 26 02 26:s:785830:e:907-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине ТЦК начали отстрел Дисквалифицировать Бубку 26 02 26:s:837332:e:907-->
 <!----><!--2025-09-13 19:59:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_novyj_proval_oborony_dnepropetrovskaya_obl_operaciya_truba-2_13_09_25">
@@ -8731,7 +9270,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - новый провал обороны Днепропетровская обл Операция Труба-2 13 09 25:s:786953:e:909-->
+</div><!--n:Жизнь в США и России/Украинский фронт - новый провал обороны Днепропетровская обл Операция Труба-2 13 09 25:s:838455:e:909-->
 <!----><!--2026-03-03 20:30:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/vojna_v_irane_-_kto_uje_pobedil_po-krupnomu_mirovoj_neftyanoj_i_gazovyj_krizis_03_03_26">
@@ -8742,7 +9281,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Война в Иране - кто уже победил по-крупному Мировой нефтяной и газовый кризис 03 03 26:s:788075:e:901-->
+</div><!--n:Жизнь в США и России/Война в Иране - кто уже победил по-крупному Мировой нефтяной и газовый кризис 03 03 26:s:839577:e:901-->
 <!----><!--2025-11-03 20:53:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_postroeniju_vsu_myasorubka_v_pokrovske_03_11_25">
@@ -8753,7 +9292,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по построению ВСУ Мясорубка в Покровске 03 11 25:s:789187:e:855-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по построению ВСУ Мясорубка в Покровске 03 11 25:s:840689:e:855-->
 <!----><!--2025-12-26 20:31:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_uje_gotov_poproshchatsya_s_donbassom_radi_mira_26_12_25">
@@ -8764,7 +9303,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский уже готов попрощаться с Донбассом Ради мира 26 12 25:s:790229:e:892-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский уже готов попрощаться с Донбассом Ради мира 26 12 25:s:841731:e:892-->
 <!----><!--2025-12-27 20:01:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tramp_nanosit_udar_po_zelenskomu_minus_koshelek_vsya_frakciya_27_12_25">
@@ -8775,7 +9314,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Трамп наносит удар по Зеленскому Минус кошелек Вся фракция 27 12 25:s:791325:e:912-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Трамп наносит удар по Зеленскому Минус кошелек Вся фракция 27 12 25:s:842827:e:912-->
 <!----><!--2026-01-16 20:52:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsrf_podhodyat_k_zaporojju_vse_elektrostancii_povrejdeny_na_ukraine_16_01_26">
@@ -8786,7 +9325,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-16</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ подходят к Запорожью Все электростанции повреждены на Украине 16 01 26:s:792450:e:939-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ подходят к Запорожью Все электростанции повреждены на Украине 16 01 26:s:843952:e:939-->
 <!----><!--2025-12-22 05:42:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/sanya_v_sadu_-_kollekciya_mango_obzor_sezona_2025_michurin_na_minimalkah">
@@ -8797,7 +9336,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Саня в саду - коллекция манго Обзор сезона 2025 Мичурин на минималках:s:793618:e:849-->
+</div><!--n:Жизнь в США и России/Саня в саду - коллекция манго Обзор сезона 2025 Мичурин на минималках:s:845120:e:849-->
 <!----><!--2025-09-06 18:32:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kollaps_fronta_v_rajone_novoselovki_lgbt_parad_v_harkove_06_09_25">
@@ -8808,7 +9347,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - коллапс фронта в районе Новоселовки ЛГБТ парад в Харькове 06 09 25:s:794651:e:900-->
+</div><!--n:Жизнь в США и России/Украинский фронт - коллапс фронта в районе Новоселовки ЛГБТ парад в Харькове 06 09 25:s:846153:e:900-->
 <!----><!--2025-08-02 19:20:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_v_centr_pokrovska_panika_vsu_02_08_25">
@@ -8819,7 +9358,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв в центр Покровска Паника ВСУ 02 08 25:s:795762:e:816-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв в центр Покровска Паника ВСУ 02 08 25:s:847264:e:816-->
 <!----><!--2025-08-13 18:46:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_poteryali_kontrol_vsrf_vzyali_nikonorovku_suheckoe_voshli_v_rodinskoe_13_08">
@@ -8830,7 +9369,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ потеряли контроль ВСРФ взяли Никоноровку Сухецкое Вошли в Родинское 13 08:s:796748:e:952-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ потеряли контроль ВСРФ взяли Никоноровку Сухецкое Вошли в Родинское 13 08:s:848250:e:952-->
 <!----><!--2026-01-27 21:22:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ryt_sortiry_vo_dvore_v_kieve_500_tys_molodyh_ukraincev_sbejalo_27_01_26">
@@ -8841,7 +9380,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-27</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - рыть сортиры во дворе в Киеве 500 тыс молодых украинцев сбежало 27 01 26:s:797935:e:914-->
+</div><!--n:Жизнь в США и России/Украинский фронт - рыть сортиры во дворе в Киеве 500 тыс молодых украинцев сбежало 27 01 26:s:849437:e:914-->
 <!----><!--2025-07-28 18:54:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vzyali_chast_dnepropetrovskoj_mnogo_sel_i_zemli_bred_trampa_o_sankciyah_28_07_25">
@@ -8852,7 +9391,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Взяли часть Днепропетровской Много сел и земли Бред Трампа о санкциях 28 07 25:s:799067:e:952-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Взяли часть Днепропетровской Много сел и земли Бред Трампа о санкциях 28 07 25:s:850569:e:952-->
 <!----><!--2025-08-15 18:44:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_opyat_proryv_poteryali_iskru_aleksandrograd_malievku_temirovku_tramp_i_putin">
@@ -8863,7 +9402,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - опять ПРОРЫВ Потеряли Искру Александроград Малиевку Темировку Трамп и Путин:s:800252:e:949-->
+</div><!--n:Жизнь в США и России/Украинский фронт - опять ПРОРЫВ Потеряли Искру Александроград Малиевку Темировку Трамп и Путин:s:851754:e:949-->
 <!----><!--2026-02-25 21:02:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_na_styke_oblastej_vzyali_rizdvyanku_kosovcevo_i_pridorojnoe_25226">
@@ -8874,7 +9413,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - наступление на стыке областей. Взяли Риздвянку Косовцево и Придорожное. 25.2.26:s:801438:e:942-->
+</div><!--n:Жизнь в США и России/Украинский фронт - наступление на стыке областей. Взяли Риздвянку Косовцево и Придорожное. 25.2.26:s:852940:e:942-->
 <!----><!--2025-09-27 18:18:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsrf_vzyali_ryad_sel_konec_amerikanskoj_mechty_ukrainskaya_kultura_27_09_25">
@@ -8885,7 +9424,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-27</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ взяли ряд сел Конец американской мечты Украинская культура 27 09 25:s:802616:e:932-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСРФ взяли ряд сел Конец американской мечты Украинская культура 27 09 25:s:854118:e:932-->
 <!----><!--2025-10-02 18:40:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pochemu_ukraina_proigryvaet_vojnu_vzyali_verbovoe_blekauty_sumskoj_i_chernigovskoj">
@@ -8896,7 +9435,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - почему Украина проигрывает войну Взяли Вербовое Блэкауты Сумской и Черниговской:s:803771:e:967-->
+</div><!--n:Жизнь в США и России/Украинский фронт - почему Украина проигрывает войну Взяли Вербовое Блэкауты Сумской и Черниговской:s:855273:e:967-->
 <!----><!--2026-03-02 20:59:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/iran_-_ubili_verhovnogo_poshli_trupy_s_amerikanskimi_flagami_pvo_kuvejta_sbili_tri_f-15">
@@ -8907,7 +9446,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Иран - убили Верховного Пошли трупы с американскими флагами ПВО Кувейта сбили три F-15:s:804983:e:906-->
+</div><!--n:Жизнь в США и России/Иран - убили Верховного Пошли трупы с американскими флагами ПВО Кувейта сбили три F-15:s:856485:e:906-->
 <!----><!--2025-12-12 21:24:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_bloger_v_lesu_otvetka_za_tanker_seversk_vzyat_12_12_25">
@@ -8918,7 +9457,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - блогер в лесу Ответка за танкер Северск взят 12 12 25:s:806105:e:853-->
+</div><!--n:Жизнь в США и России/Украинский фронт - блогер в лесу Ответка за танкер Северск взят 12 12 25:s:857607:e:853-->
 <!----><!--2025-12-19 20:49:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_barrikady_v_brjussele_kiev_sneset_chajkovskogo_kupyansk_boi_v_gorode_19_12_25">
@@ -8929,7 +9468,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - баррикады в Брюсселе Киев снесет Чайковского Купянск бои в городе 19 12 25:s:807144:e:939-->
+</div><!--n:Жизнь в США и России/Украинский фронт - баррикады в Брюсселе Киев снесет Чайковского Купянск бои в городе 19 12 25:s:858646:e:939-->
 <!----><!--2026-03-09 19:42:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rynok_nefti_rushitsya_postavki_nefti_evropejcam_prodvijenie_u_severska_090326">
@@ -8940,7 +9479,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-09</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - рынок нефти рушится. Поставки нефти Европейцам. Продвижение у Северска. 09.03.26:s:808309:e:942-->
+</div><!--n:Жизнь в США и России/Украинский фронт - рынок нефти рушится. Поставки нефти Европейцам. Продвижение у Северска. 09.03.26:s:859811:e:942-->
 <!----><!--2025-12-11 20:30:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_razbejalis_vzyali_seversk_vsrf_v_centre_gulyaj_polya_ad_v_mirnograde_11_12">
@@ -8951,7 +9490,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ разбежались Взяли Северск ВСРФ в центре Гуляй Поля АД в Мирнограде 11 12:s:809487:e:947-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ разбежались Взяли Северск ВСРФ в центре Гуляй Поля АД в Мирнограде 11 12:s:860989:e:947-->
 <!----><!--2026-02-06 21:15:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_tec_v_harkove_5_oblastej_bez_sveta_i_tepla_porajenie_u_severska_06_022">
@@ -8962,7 +9501,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - минус ТЭЦ в Харькове 5 областей без света и тепла Поражение у Северска 06 022:s:810665:e:937-->
+</div><!--n:Жизнь в США и России/Украинский фронт - минус ТЭЦ в Харькове 5 областей без света и тепла Поражение у Северска 06 022:s:862167:e:937-->
 <!----><!--2026-01-06 20:00:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_prodvijeniya_u_kupyanska_zelenskij_v_parije_reshitelnye_reshajut_06_01_26">
@@ -8973,7 +9512,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - продвижения у Купянска Зеленский в Париже Решительные решают 06 01 26:s:811832:e:923-->
+</div><!--n:Жизнь в США и России/Украинский фронт - продвижения у Купянска Зеленский в Париже Решительные решают 06 01 26:s:863334:e:923-->
 <!----><!--2025-07-25 19:51:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_razbejalis_obval_u_kupyanska_zverevo_i_novoekonomicheskoe_vzyaty_vsrf_25_07">
@@ -8984,7 +9523,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-25</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ разбежались Обвал у Купянска Зверево и Новоэкономическое взяты ВСРФ 25 07:s:812973:e:952-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ разбежались Обвал у Купянска Зверево и Новоэкономическое взяты ВСРФ 25 07:s:864475:e:952-->
 <!----><!--2025-09-22 19:23:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_na_dnepropetrovshchine_ukraina_platit_v_bjudjet_rf_rekord_s_kitaem">
@@ -8995,7 +9534,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - наступление на Днепропетровщине Украина платит в бюджет РФ Рекорд с Китаем:s:814160:e:949-->
+</div><!--n:Жизнь в США и России/Украинский фронт - наступление на Днепропетровщине Украина платит в бюджет РФ Рекорд с Китаем:s:865662:e:949-->
 <!----><!--2026-02-08 19:37:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/sad_vo_floride_unichtojen">
@@ -9006,7 +9545,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-08</i>
   </div>
-</div><!--n:Жизнь в США и России/Сад во Флориде УНИЧТОЖЕН:s:815343:e:671-->
+</div><!--n:Жизнь в США и России/Сад во Флориде УНИЧТОЖЕН:s:866845:e:671-->
 <!----><!--2025-12-05 20:00:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_mirnograd_okrujen_pitbul_est_tck-shnika_05_12_25">
@@ -9017,7 +9556,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Мирноград окружен Питбуль ест ТЦК-шника 05 12 25:s:816121:e:832-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Мирноград окружен Питбуль ест ТЦК-шника 05 12 25:s:867623:e:832-->
 <!----><!--2025-09-09 19:05:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ujas_ukrainskoj_uchebki_serebryanskij_les_otrezan_franciya_u_propasti_09_09_25">
@@ -9028,7 +9567,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-09</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ужас украинской учебки Серебрянский лес отрезан Франция у пропасти 09 09 25:s:817131:e:944-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ужас украинской учебки Серебрянский лес отрезан Франция у пропасти 09 09 25:s:868633:e:944-->
 <!----><!--2025-10-13 19:35:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_8_oblastej_bez_elektrichestva_proryv_na_5_km_na_alekseevku_13_10_25">
@@ -9039,7 +9578,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 8 областей без электричества Прорыв на 5 км на Алексеевку 13 10 25:s:818304:e:901-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 8 областей без электричества Прорыв на 5 км на Алексеевку 13 10 25:s:869806:e:901-->
 <!----><!--2025-09-26 18:28:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ohvat_severska_vzyali_bolshuju_chast_kupyanska_vo_floride_mojno_hodit_s_pushkoj">
@@ -9050,7 +9589,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - охват Северска Взяли большую часть Купянска Во Флориде можно ходить с пушкой:s:819413:e:954-->
+</div><!--n:Жизнь в США и России/Украинский фронт - охват Северска Взяли большую часть Купянска Во Флориде можно ходить с пушкой:s:870915:e:954-->
 <!----><!--2025-12-28 19:39:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_teryajut_3_goroda_za_1_den_zelenskij_vo_floride_28_12_25">
@@ -9061,7 +9600,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ теряют 3 города за 1 день Зеленский во Флориде 28 12 25:s:820604:e:872-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ теряют 3 города за 1 день Зеленский во Флориде 28 12 25:s:872106:e:872-->
 <!----><!--2026-02-15 20:05:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_golubok_mira_klichko_vopros_o_nezavisimosti_ukrainy_150226">
@@ -9072,7 +9611,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский голубок мира. Кличко вопрос о независимости Украины. 15.02.26:s:821670:e:908-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский голубок мира. Кличко вопрос о независимости Украины. 15.02.26:s:873172:e:908-->
 <!----><!--2025-11-28 20:33:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_otstupajut_otstavka_ermaka_umerov_sledujushchij_28_11_25">
@@ -9083,7 +9622,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ отступают Отставка Ермака Умеров следующий 28 11 25:s:822798:e:871-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ отступают Отставка Ермака Умеров следующий 28 11 25:s:874300:e:871-->
 <!----><!--2025-11-11 20:16:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_obval_v_zaporoje_prodvijenie_na_8_km_vzyali_3_naselennyh_punkta_11_11_25">
@@ -9094,7 +9633,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - обвал в Запорожье Продвижение на 8 км Взяли 3 населенных пункта 11 11 25:s:823861:e:922-->
+</div><!--n:Жизнь в США и России/Украинский фронт - обвал в Запорожье Продвижение на 8 км Взяли 3 населенных пункта 11 11 25:s:875363:e:922-->
 <!----><!--2025-09-05 19:40:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ruhnul_front_novye_celi_svo_tramp_ne_budet_vvodit_sankcii_05_09_25">
@@ -9105,7 +9644,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-05</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - рухнул фронт Новые цели СВО Трамп не будет вводить санкции 05 09 25:s:825002:e:903-->
+</div><!--n:Жизнь в США и России/Украинский фронт - рухнул фронт Новые цели СВО Трамп не будет вводить санкции 05 09 25:s:876504:e:903-->
 <!----><!--2025-11-22 19:01:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_otstupajut_po_vsem_napravleniyam_poteryali_10_np_kupyansk_-_flagi_22_11_25">
@@ -9116,7 +9655,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ отступают по ВСЕМ направлениям Потеряли 10 нп Купянск - флаги 22 11 25:s:826117:e:937-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ отступают по ВСЕМ направлениям Потеряли 10 нп Купянск - флаги 22 11 25:s:877619:e:937-->
 <!----><!--2025-10-17 19:35:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_voshli_v_pokrovsk_minus_20_mln_naseleniya_na_ukraine_19_09_25">
@@ -9127,7 +9666,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - вошли в Покровск Минус 20 млн населения на Украине 19 09 25:s:827276:e:876-->
+</div><!--n:Жизнь в США и России/Украинский фронт - вошли в Покровск Минус 20 млн населения на Украине 19 09 25:s:878778:e:876-->
 <!----><!--2026-03-14 20:21:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pobeda_v_irane_udar_po_ukraine_68_raket_na_styke_oblastej_140326">
@@ -9138,7 +9677,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - победа в Иране. Удар по Украине 68 ракет. На стыке областей. 14.03.26:s:828347:e:890-->
+</div><!--n:Жизнь в США и России/Украинский фронт - победа в Иране. Удар по Украине 68 ракет. На стыке областей. 14.03.26:s:879849:e:890-->
 <!----><!--2026-01-12 20:43:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/korolevstvo_daniya_-_tramp_beret_grenlandiju_operaciya_na_finalnoj_stadii_planirovaniya_12_01_26">
@@ -9149,7 +9688,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Королевство Дания - Трамп берет Гренландию Операция на финальной стадии планирования 12 01 26:s:829447:e:940-->
+</div><!--n:Жизнь в США и России/Королевство Дания - Трамп берет Гренландию Операция на финальной стадии планирования 12 01 26:s:880949:e:940-->
 <!----><!--2026-02-10 21:26:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_v_rossii_glushat_telegram_vzyali_zaliznichnoe_02_10_26">
@@ -9160,7 +9699,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-10</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - в России глушат Телеграм Взяли Зализничное 02 10 26:s:830615:e:846-->
+</div><!--n:Жизнь в США и России/Украинский фронт - в России глушат Телеграм Взяли Зализничное 02 10 26:s:882117:e:846-->
 <!----><!--2026-02-12 19:53:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_v_rade_problema_jidkogo_stula_shlem_pamyati_12_02_26">
@@ -9171,7 +9710,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине В Раде проблема жидкого стула Шлем памяти 12 02 26:s:831645:e:901-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине В Раде проблема жидкого стула Шлем памяти 12 02 26:s:883147:e:901-->
 <!----><!--2025-08-04 19:27:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_400_tys_ubejali_iz_vsu_vsrf_okrujajut_pokrovsk_i_konstantinovku_04_08_25">
@@ -9182,7 +9721,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-04</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 400 тыс убежали из ВСУ ВСРФ окружают Покровск и Константиновку 04 08 25:s:832756:e:919-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 400 тыс убежали из ВСУ ВСРФ окружают Покровск и Константиновку 04 08 25:s:884258:e:919-->
 <!----><!--2026-02-03 20:54:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_energetike_tec_unichtojeny_porajeny_okolo_100_celej_03_02_26">
@@ -9193,7 +9732,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по энергетике ТЭЦ уничтожены Поражены около 100 целей 03 02 26:s:833892:e:901-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по энергетике ТЭЦ уничтожены Поражены около 100 целей 03 02 26:s:885394:e:901-->
 <!----><!--2026-03-06 20:59:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vagony_deneg_dlya_drujkov_zeli_iranu_prikazano_kapitulirovat_neft_po_100_doll">
@@ -9204,7 +9743,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - вагоны денег для дружков Зели. Ирану приказано капитулировать. Нефть по 100 долл.:s:835003:e:947-->
+</div><!--n:Жизнь в США и России/Украинский фронт - вагоны денег для дружков Зели. Ирану приказано капитулировать. Нефть по 100 долл.:s:886505:e:947-->
 <!----><!--2026-01-03 22:27:33-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/venesuela_-_maduro_ushel_rejderskij_zahvat_venesuelskoj_nefti_01_03_26">
@@ -9215,7 +9754,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Венесуэла - Мадуро ушел Рейдерский захват венесуэльской нефти 01 03 26:s:836191:e:845-->
+</div><!--n:Жизнь в США и России/Венесуэла - Мадуро ушел Рейдерский захват венесуэльской нефти 01 03 26:s:887693:e:845-->
 <!----><!--2025-11-07 20:01:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_iz_vsu_ubegajut_po_30_chelovek_v_chas_berut_volchansk_i_pokrovsk_07_11_25">
@@ -9226,7 +9765,18 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-07</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - из ВСУ убегают по 30 человек в час Берут Волчанск и Покровск 07 11 25:s:837221:e:916-->
+</div><!--n:Жизнь в США и России/Украинский фронт - из ВСУ убегают по 30 человек в час Берут Волчанск и Покровск 07 11 25:s:888723:e:916-->
+<!----><!--2026-03-19 21:04:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pozicii_ukrainy_zametno_uhudshilis_5km_u_kupyanska_iran_dal_jaru_190326">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b7e1c60fd61987e7c65ed3b1075e76ec/" src="http://pic.rtbcdn.ru/video/2026-03-19/67/9f/679f497ae5d2cc0e586749e5beffe0ce.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pozicii_ukrainy_zametno_uhudshilis_5km_u_kupyanska_iran_dal_jaru_190326">Украинский фронт - позиции Украины заметно ухудшились. 5км у Купянска. Иран дал жару. 19.03.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-03-19</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - позиции Украины заметно ухудшились. 5км у Купянска. Иран дал жару. 19.03.26:s:889851:e:918-->
 <!----><!--2025-12-08 20:12:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kuleba_v_okope_samye_glavnye_pomoshchniki_ukrainy_vstrechajutsya_08_12_25">
@@ -9237,7 +9787,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Кулеба в окопе Самые главные помощники Украины встречаются 08 12 25:s:838349:e:918-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Кулеба в окопе Самые главные помощники Украины встречаются 08 12 25:s:890993:e:918-->
 <!----><!--2026-02-28 20:48:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_ocherednaya_vojna_v_irane_pogibli_devochki_na_stuke_oblastej_boi_280226">
@@ -9248,7 +9798,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт. Очередная война в Иране. Погибли девочки. На стуке областей бои. 28.02.26:s:839481:e:910-->
+</div><!--n:Жизнь в США и России/Украинский фронт. Очередная война в Иране. Погибли девочки. На стуке областей бои. 28.02.26:s:892125:e:910-->
 <!----><!--2025-10-30 19:56:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_4_tes_na_ukraine_proryv_na_liman_7_km_pokrovsk_unichtojenie_vsu_30_10_25">
@@ -9259,7 +9809,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - минус 4 ТЭС на Украине Прорыв на Лиман 7 км Покровск уничтожение ВСУ 30 10 25:s:840611:e:942-->
+</div><!--n:Жизнь в США и России/Украинский фронт - минус 4 ТЭС на Украине Прорыв на Лиман 7 км Покровск уничтожение ВСУ 30 10 25:s:893255:e:942-->
 <!----><!--2025-10-28 19:51:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_okrujenie_pokrovska_vyhod_v_tyl_na_gulyajpole_5_sel_za_3_dnya_28_10_25">
@@ -9270,7 +9820,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - окружение Покровска Выход в тыл на Гуляйполе 5 сел за 3 дня 28 10 25:s:841780:e:909-->
+</div><!--n:Жизнь в США и России/Украинский фронт - окружение Покровска Выход в тыл на Гуляйполе 5 сел за 3 дня 28 10 25:s:894424:e:909-->
 <!----><!--2025-08-29 19:11:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_proryv_na_liman_molodye_ukraincy_massovo_begut_iz_ukrainy_29_08_25">
@@ -9281,7 +9831,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-29</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Лиман Молодые украинцы массово бегут из Украины 29 08 25:s:842899:e:901-->
+</div><!--n:Жизнь в США и России/Украинский фронт - прорыв на Лиман Молодые украинцы массово бегут из Украины 29 08 25:s:895543:e:901-->
 <!----><!--2026-02-27 19:17:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nahrjuken_na_styke_oblastej_krovavaya_banya_v_ternovom_27_02_26">
@@ -9292,7 +9842,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-27</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - нахрюкен на стыке областей Кровавая баня в Терновом 27 02 26:s:844011:e:880-->
+</div><!--n:Жизнь в США и России/Украинский фронт - нахрюкен на стыке областей Кровавая баня в Терновом 27 02 26:s:896655:e:880-->
 <!----><!--2025-08-19 18:01:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vstrecha_putina_i_zelenskogo_mirnyj_dogovor_gotov_19_08_25">
@@ -9303,7 +9853,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-19</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - встреча Путина и Зеленского Мирный договор готов 19 08 25:s:845091:e:869-->
+</div><!--n:Жизнь в США и России/Украинский фронт - встреча Путина и Зеленского Мирный договор готов 19 08 25:s:897735:e:869-->
 <!----><!--2026-01-22 20:11:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_liman_vse_davos_-_zelenskij_priletel_lebedinogo_ozera_zapretili_22_01_26">
@@ -9314,7 +9864,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Лиман ВСЕ Давос - Зеленский прилетел Лебединого озера запретили 22 01 26:s:846155:e:921-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Лиман ВСЕ Давос - Зеленский прилетел Лебединого озера запретили 22 01 26:s:898799:e:921-->
 <!----><!--2025-09-25 17:13:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_prodvijenie_v_dnepropetrovskoj_diversiya_v_britanii_udar_v_krymu_25_09_25">
@@ -9325,7 +9875,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-25</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Продвижение в Днепропетровской Диверсия в Британии Удар в Крыму 25 09 25:s:847298:e:928-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Продвижение в Днепропетровской Диверсия в Британии Удар в Крыму 25 09 25:s:899942:e:928-->
 <!----><!--2026-02-12 19:53:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_v_rade_problema_jidkogo_stula_shlem_pamyati_120226">
@@ -9336,7 +9886,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине. В Раде проблема жидкого стула. Шлем памяти. 12.02.26:s:848449:e:897-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине. В Раде проблема жидкого стула. Шлем памяти. 12.02.26:s:901093:e:897-->
 <!----><!--2026-01-24 20:11:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_energetika_ukrainy_unichnojena_nujno_70_mlrd_doll_na_vosstanovlenie_24_01_26">
@@ -9347,7 +9897,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - энергетика Украины УНИЧНОЖЕНА Нужно 70 млрд долл на восстановление 24 01 26:s:849559:e:935-->
+</div><!--n:Жизнь в США и России/Украинский фронт - энергетика Украины УНИЧНОЖЕНА Нужно 70 млрд долл на восстановление 24 01 26:s:902203:e:935-->
 <!----><!--2025-09-04 19:44:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_teryajut_kupyansk_v_gorode_flagi_v_4-h_tochkah_koaliciya_pustozvonov_04_09_25">
@@ -9358,7 +9908,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-04</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ теряют Купянск В городе флаги в 4-х точках Коалиция пустозвонов 04 09 25:s:850721:e:948-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ теряют Купянск В городе флаги в 4-х точках Коалиция пустозвонов 04 09 25:s:903365:e:948-->
 <!----><!--2025-11-17 20:14:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_mirnograd_i_pokrovsk_okrujeny_krysy_begut_iz_ukrainy_17_11_25">
@@ -9369,7 +9919,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Мирноград и Покровск окружены Крысы бегут из Украины 17 11 25:s:851896:e:882-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Мирноград и Покровск окружены Крысы бегут из Украины 17 11 25:s:904540:e:882-->
 <!----><!--2025-08-12 18:09:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_20_km_pokrovsk_i_mirnograd_v_okrujenii_konstantinovka_v_poluokrujenii_12_8">
@@ -9380,7 +9930,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 20 км Покровск и Мирноград в окружении Константиновка в полуокружении 12 8:s:852980:e:940-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 20 км Покровск и Мирноград в окружении Константиновка в полуокружении 12 8:s:905624:e:940-->
 <!----><!--2026-02-28 20:48:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_ocherednaya_vojna_v_irane_pogibli_devochki_na_stuke_oblastej_boi_28_02_26">
@@ -9391,7 +9941,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт Очередная война в Иране Погибли девочки На стуке областей бои 28 02 26:s:854148:e:914-->
+</div><!--n:Жизнь в США и России/Украинский фронт Очередная война в Иране Погибли девочки На стуке областей бои 28 02 26:s:906792:e:914-->
 <!----><!--2026-02-24 20:58:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_izmeneniya_po_ls_za_nedelju_prodvijenie_vsrf_udar_po_zaporojju_240226">
@@ -9402,7 +9952,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - изменения по ЛС за неделю. Продвижение ВСРФ. Удар по Запорожью. 24.02.26:s:855278:e:909-->
+</div><!--n:Жизнь в США и России/Украинский фронт - изменения по ЛС за неделю. Продвижение ВСРФ. Удар по Запорожью. 24.02.26:s:907922:e:909-->
 <!----><!--2026-01-29 20:38:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_unichtojennaya_tec_v_kieve_proryv_na_zaporoje_19_chasov_bez_sveta_29_01_26">
@@ -9413,7 +9963,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-29</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - уничтоженная ТЭЦ в Киеве Прорыв на Запорожье 19 часов без света 29 01 26:s:856406:e:922-->
+</div><!--n:Жизнь в США и России/Украинский фронт - уничтоженная ТЭЦ в Киеве Прорыв на Запорожье 19 часов без света 29 01 26:s:909050:e:922-->
 <!----><!--2025-12-15 18:27:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskogo_prognuli_na_nato_ugroza_okrujeniya_gulyajpolya_15_12_25">
@@ -9424,7 +9974,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленского прогнули на НАТО Угроза окружения Гуляйполя 15 12 25:s:857547:e:897-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленского прогнули на НАТО Угроза окружения Гуляйполя 15 12 25:s:910191:e:897-->
 <!----><!--2026-02-04 20:52:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tramp_skazal_spasibo_putinu_karateli_tck_zverstvujut_na_ukraine_04_02_26">
@@ -9435,7 +9985,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-04</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Трамп сказал спасибо Путину Каратели ТЦК зверствуют на Украине 04 02 26:s:858651:e:919-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Трамп сказал спасибо Путину Каратели ТЦК зверствуют на Украине 04 02 26:s:911295:e:919-->
 <!----><!--2025-07-23 19:57:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kotel_u_komara_protest_na_ukraine_fon_der_lyajen_obespokoena_23_07_25">
@@ -9446,7 +9996,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-23</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - котел у Комара Протест на Украине Фон дер Ляйен обеспокоена 23 07 25:s:859791:e:911-->
+</div><!--n:Жизнь в США и России/Украинский фронт - котел у Комара Протест на Украине Фон дер Ляйен обеспокоена 23 07 25:s:912435:e:911-->
 <!----><!--2026-02-02 20:38:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_vozle_ternovki_5_oblastej_bez_sveta_vsrf_podhodit_k_zaporojju_02_02_26">
@@ -9457,7 +10007,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-02-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар возле Терновки 5 областей без света ВСРФ подходит к Запорожью 02 02 26:s:860916:e:931-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар возле Терновки 5 областей без света ВСРФ подходит к Запорожью 02 02 26:s:913560:e:931-->
 <!----><!--2025-10-27 19:07:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kotly_dlya_vsu_krovavya_bojnya_v_pokrovske_v_volchanske_flag_27_10_25">
@@ -9468,7 +10018,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-27</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - котлы для ВСУ Кровавя бойня в Покровске В Волчанске флаг 27 10 25:s:862073:e:905-->
+</div><!--n:Жизнь в США и России/Украинский фронт - котлы для ВСУ Кровавя бойня в Покровске В Волчанске флаг 27 10 25:s:914717:e:905-->
 <!----><!--2025-09-11 19:32:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ubijstvo_charli_kirka_pvo_polshi_probili_prodvijeniya_vsrf_11_09_25">
@@ -9479,7 +10029,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - убийство Чарли Кирка ПВО Польши пробили Продвижения ВСРФ 11 09 25:s:863186:e:903-->
+</div><!--n:Жизнь в США и России/Украинский фронт - убийство Чарли Кирка ПВО Польши пробили Продвижения ВСРФ 11 09 25:s:915830:e:903-->
 <!----><!--2025-10-01 20:27:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vzyali_kirovsk_v_velikobritanii_predlojili_zadushit_krym_zakrojut_ssha_01_10_25">
@@ -9490,7 +10040,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-01</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - взяли Кировск В Великобритании предложили задушить Крым Закроют США 01 10 25:s:864299:e:948-->
+</div><!--n:Жизнь в США и России/Украинский фронт - взяли Кировск В Великобритании предложили задушить Крым Закроют США 01 10 25:s:916943:e:948-->
 <!----><!--2025-08-05 18:04:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_oformlyaetsya_okrujenie_pokrovska_indiya_i_kitaj_skazali_net_ssha_05_08_25">
@@ -9501,7 +10051,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-05</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - оформляется окружение Покровска Индия и Китай сказали НЕТ США 05 08 25:s:865478:e:925-->
+</div><!--n:Жизнь в США и России/Украинский фронт - оформляется окружение Покровска Индия и Китай сказали НЕТ США 05 08 25:s:918122:e:925-->
 <!----><!--2026-03-12 19:55:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_blorirovka_telegram_hamenei_vojna_s_ssha_vsrf_prodoljajut_ataki_120326">
@@ -9512,7 +10062,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-12</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - блорировка Телеграм. Хаменеи война с США. ВСРФ продолжают атаки. 12.03.26:s:866622:e:914-->
+</div><!--n:Жизнь в США и России/Украинский фронт - блорировка Телеграм. Хаменеи война с США. ВСРФ продолжают атаки. 12.03.26:s:919266:e:914-->
 <!----><!--2025-10-03 20:16:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_blekauty_i_gaz_gorit_npz_v_los-anjelese_03_10_25">
@@ -9523,7 +10073,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-03</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине Блэкауты и Газ Горит НПЗ в Лос-Анжелесе 03 10 25:s:867758:e:892-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине Блэкауты и Газ Горит НПЗ в Лос-Анжелесе 03 10 25:s:920402:e:892-->
 <!----><!--2025-08-08 18:51:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vse_reshat_bez_zelenskogo_vstrecha_trampa_i_putina_v_ponedelnik_08_08_25">
@@ -9534,7 +10084,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-08</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - все решат без Зеленского Встреча Трампа и Путина в понедельник 08 08 25:s:868855:e:922-->
+</div><!--n:Жизнь в США и России/Украинский фронт - все решат без Зеленского Встреча Трампа и Путина в понедельник 08 08 25:s:921499:e:922-->
 <!----><!--2025-07-29 19:05:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vzyali_temirovku_martyshki_v_rade_dno_v_ssha_29_07_25">
@@ -9545,7 +10095,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-29</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - взяли Темировку Мартышки в Раде Дно в США 29 07 25:s:869997:e:845-->
+</div><!--n:Жизнь в США и России/Украинский фронт - взяли Темировку Мартышки в Раде Дно в США 29 07 25:s:922641:e:845-->
 <!----><!--2026-03-02 20:59:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/iran_-_ubili_verhovnogo_poshli_trupy_s_amerikanskimi_flagami_pvo_kuvejta_sbili_tri_f-15">
@@ -9556,7 +10106,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Иран - убили Верховного. Пошли трупы с американскими флагами. ПВО Кувейта сбили три F-15:s:871022:e:906-->
+</div><!--n:Жизнь в США и России/Иран - убили Верховного. Пошли трупы с американскими флагами. ПВО Кувейта сбили три F-15:s:923666:e:906-->
 <!----><!--2026-03-17 20:06:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_font_-_ataka_u_severska_v_britanii_zakonchilsya_benzin_na_styke_oblastej_vsu_170326">
@@ -9567,7 +10117,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фонт - атака у Северска. В Британии закончился бензин. На стыке областей ВСУ. 17.03.26:s:872146:e:932-->
+</div><!--n:Жизнь в США и России/Украинский фонт - атака у Северска. В Британии закончился бензин. На стыке областей ВСУ. 17.03.26:s:924790:e:932-->
 <!----><!--2026-01-26 20:44:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_oblavy_v_palatkah_obogreva_16_raket_po_tec_v_kieve_rada_gotova_26_01_26">
@@ -9578,7 +10128,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - облавы в палатках обогрева 16 ракет по ТЭЦ в Киеве Рада готова 26 01 26:s:873308:e:913-->
+</div><!--n:Жизнь в США и России/Украинский фронт - облавы в палатках обогрева 16 ракет по ТЭЦ в Киеве Рада готова 26 01 26:s:925952:e:913-->
 <!----><!--2025-11-13 20:25:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_okrujenie_gulyajpolya_prorvali_oboronu_vzyali_5_sel_13_11_25">
@@ -9589,7 +10139,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-13</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - окружение Гуляйполя Прорвали оборону взяли 5 сел 13 11 25:s:874437:e:872-->
+</div><!--n:Жизнь в США и России/Украинский фронт - окружение Гуляйполя Прорвали оборону взяли 5 сел 13 11 25:s:927081:e:872-->
 <!----><!--2025-07-19 20:16:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_pod_komarom_okrujili_chasti_vsu_vyshivanki_vmesto_mozgov_19_07">
@@ -9600,7 +10150,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-19</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине Под Комаром окружили части ВСУ Вышиванки вместо мозгов 19 07:s:875503:e:949-->
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине Под Комаром окружили части ВСУ Вышиванки вместо мозгов 19 07:s:928147:e:949-->
 <!----><!--2025-10-21 19:25:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ataka_na_zaporojskom_fronte_vojska_v_centre_pokrovska_i_kupyanska_21_10_25">
@@ -9611,7 +10161,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-21</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - атака на Запорожском фронте Войска в центре Покровска и Купянска 21 10 25:s:876684:e:930-->
+</div><!--n:Жизнь в США и России/Украинский фронт - атака на Запорожском фронте Войска в центре Покровска и Купянска 21 10 25:s:929328:e:930-->
 <!----><!--2025-11-05 19:53:58-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nagrajdeniya_ukrainskih_ss_pokrovsk_prikaza_net_belousov_hochet_bahnut_05_11_25">
@@ -9622,7 +10172,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-05</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - награждения украинских СС Покровск приказа нет Белоусов хочет бахнуть 05 11 25:s:877838:e:952-->
+</div><!--n:Жизнь в США и России/Украинский фронт - награждения украинских СС Покровск приказа нет Белоусов хочет бахнуть 05 11 25:s:930482:e:952-->
 <!----><!--2025-10-15 20:12:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_2_mera_v_odesse_vyhod_rossijskih_vojsk_na_pokrovsk_15_10_25">
@@ -9633,7 +10183,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 2 мэра в Одессе Выход российских войск на Покровск 15 10 25:s:879025:e:873-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 2 мэра в Одессе Выход российских войск на Покровск 15 10 25:s:931669:e:873-->
 <!----><!--2026-03-10 20:15:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_porajenie_v_irane_otmena_sankcij_na_ros_neft_prodvijenie_vsrf_100326">
@@ -9644,7 +10194,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - поражение в Иране. Отмена санкций на рос нефть. Продвижение ВСРФ. 10.03.26:s:880094:e:911-->
+</div><!--n:Жизнь в США и России/Украинский фронт - поражение в Иране. Отмена санкций на рос нефть. Продвижение ВСРФ. 10.03.26:s:932738:e:911-->
 <!----><!--2026-01-15 20:11:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_kieve_-_gumanitarnaya_katastrofa_ubili_4_tckshnika_20_soldat_grenlandii">
@@ -9655,7 +10205,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ад в Киеве - гуманитарная катастрофа Убили 4 ТЦКшника 20 солдат Гренландии:s:881228:e:940-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ад в Киеве - гуманитарная катастрофа Убили 4 ТЦКшника 20 солдат Гренландии:s:933872:e:940-->
 <!----><!--2025-09-20 19:54:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_dalshe_katitsya_dnepropetrovskoe_serebryanskij_les_vse_pokrovsk_safari_20_09_25">
@@ -9666,7 +10216,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-20</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - дальше катится Днепропетровское Серебрянский лес все Покровск сафари 20 09 25:s:882397:e:951-->
+</div><!--n:Жизнь в США и России/Украинский фронт - дальше катится Днепропетровское Серебрянский лес все Покровск сафари 20 09 25:s:935041:e:951-->
 <!----><!--2025-11-15 20:28:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_opg_zelenskogo_-_glavnyj_vrag_ukrainy_15_11_25">
@@ -9677,7 +10227,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - ОПГ Зеленского - главный враг Украины 15 11 25:s:883582:e:822-->
+</div><!--n:Жизнь в США и России/Украинский фронт - ОПГ Зеленского - главный враг Украины 15 11 25:s:936226:e:822-->
 <!----><!--2025-12-22 21:30:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_poslednie_konvulsii_vsu_v_mirnograde_proryv_u_severska_kupyansk_22_12_25">
@@ -9688,7 +10238,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - последние конвульсии ВСУ в Мирнограде Прорыв у Северска Купянск 22 12 25:s:884577:e:926-->
+</div><!--n:Жизнь в США и России/Украинский фронт - последние конвульсии ВСУ в Мирнограде Прорыв у Северска Купянск 22 12 25:s:937221:e:926-->
 <!----><!--2025-12-02 20:42:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vzyali_krasnoarmejsk_i_dobropole_mir_maloveroyaten_02_12_25">
@@ -9699,7 +10249,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - взяли Красноармейск и Доброполье Мир маловероятен 02 12 25:s:885726:e:874-->
+</div><!--n:Жизнь в США и России/Украинский фронт - взяли Красноармейск и Доброполье Мир маловероятен 02 12 25:s:938370:e:874-->
 <!----><!--2026-03-16 20:21:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_bloknuli_telegu_iran_sdelal_cenu_na_neft_velikoj_udar_po_ukraine_160326">
@@ -9710,7 +10260,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-16</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - блокнули Телегу. Иран сделал цену на нефть великой. Удар по Украине. 16.03.26:s:886798:e:922-->
+</div><!--n:Жизнь в США и России/Украинский фронт - блокнули Телегу. Иран сделал цену на нефть великой. Удар по Украине. 16.03.26:s:939442:e:922-->
 <!----><!--2026-03-06 20:59:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vagony_deneg_dlya_drujkov_zeli_iranu_prikazano_kapitulirovat_neft_po_100_doll">
@@ -9721,7 +10271,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-06</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - вагоны денег для дружков Зели Ирану приказано капитулировать Нефть по 100 долл:s:887948:e:947-->
+</div><!--n:Жизнь в США и России/Украинский фронт - вагоны денег для дружков Зели Ирану приказано капитулировать Нефть по 100 долл:s:940592:e:947-->
 <!----><!--2026-01-10 19:50:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nato_otrazit_agressiju_ssha_v_kieve_vse_vstalo_zaporoje_proryv_10_01_26">
@@ -9732,7 +10282,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-10</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - НАТО отразит агрессию США В Киеве все встало Запорожье прорыв 10 01 26:s:889133:e:919-->
+</div><!--n:Жизнь в США и России/Украинский фронт - НАТО отразит агрессию США В Киеве все встало Запорожье прорыв 10 01 26:s:941777:e:919-->
 <!----><!--2025-07-26 16:44:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_front_ruhnul_rossijskaya_armiya_beret_po_50_kv_km_v_den_26_07_25">
@@ -9743,7 +10293,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-26</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - фронт РУХНУЛ Российская армия берет по 50 кв км в день 26 07 25:s:890270:e:889-->
+</div><!--n:Жизнь в США и России/Украинский фронт - фронт РУХНУЛ Российская армия берет по 50 кв км в день 26 07 25:s:942914:e:889-->
 <!----><!--2026-01-19 21:21:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kollaps_energetiki_ukrainy_prodvijenie_u_severska_ryvok_na_konstantinovku_19_1">
@@ -9754,7 +10304,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-19</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергетики Украины Продвижение у Северска Рывок на Константиновку 19 1:s:891360:e:954-->
+</div><!--n:Жизнь в США и России/Украинский фронт - коллапс энергетики Украины Продвижение у Северска Рывок на Константиновку 19 1:s:944004:e:954-->
 <!----><!--2025-10-25 19:51:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_okrujenie_severska_kotel_v_pokrovske_25_10_25">
@@ -9765,7 +10315,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-25</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - окружение Северска Котел в Покровске 25 10 25:s:892553:e:821-->
+</div><!--n:Жизнь в США и России/Украинский фронт - окружение Северска Котел в Покровске 25 10 25:s:945197:e:821-->
 <!----><!--2026-03-15 18:35:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/tragediya_s_derevyami_mango">
@@ -9776,7 +10326,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-15</i>
   </div>
-</div><!--n:Жизнь в США и России/Трагедия с деревьями манго:s:893547:e:679-->
+</div><!--n:Жизнь в США и России/Трагедия с деревьями манго:s:946191:e:679-->
 <!----><!--2025-09-10 21:28:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_razvedka_boem_v_polshe_ubijstvo_zaruckoj_vzyali_kirovsk_10_09_25">
@@ -9787,7 +10337,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-10</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - разведка боем в Польше Убийство Заруцкой Взяли Кировск 10 09 25:s:894337:e:893-->
+</div><!--n:Жизнь в США и России/Украинский фронт - разведка боем в Польше Убийство Заруцкой Взяли Кировск 10 09 25:s:946981:e:893-->
 <!----><!--2026-03-09 19:42:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rynok_nefti_rushitsya_postavki_nefti_evropejcam_prodvijenie_u_severska_09_03_26">
@@ -9798,7 +10348,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-09</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - рынок нефти рушится Поставки нефти Европейцам Продвижение у Северска 09 03 26:s:895436:e:946-->
+</div><!--n:Жизнь в США и России/Украинский фронт - рынок нефти рушится Поставки нефти Европейцам Продвижение у Северска 09 03 26:s:948080:e:946-->
 <!----><!--2025-07-24 19:27:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_prognulsya_simptom_svinokenguru_nko_nachali_raskachivat_ukrainu_24_07">
@@ -9809,7 +10359,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский прогнулся Симптом Свинокенгуру НКО начали раскачивать Украину 24 07:s:896615:e:954-->
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский прогнулся Симптом Свинокенгуру НКО начали раскачивать Украину 24 07:s:949259:e:954-->
 <!----><!--2025-07-18 19:48:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_18-j_paket_smeha_zelenskij_rasskazal_i_perspektivah_udary_po_tylam_18_07_25">
@@ -9820,7 +10370,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-07-18</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - 18-й пакет смеха Зеленский рассказал и перспективах Удары по тылам 18 07 25:s:897806:e:934-->
+</div><!--n:Жизнь в США и России/Украинский фронт - 18-й пакет смеха Зеленский рассказал и перспективах Удары по тылам 18 07 25:s:950450:e:934-->
 <!----><!--2025-12-01 19:44:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_osennij_kollaps_vsu_vsrf_vzyali_86_naselennyh_punktov_prognuli_zelenskogo_01_12">
@@ -9831,7 +10381,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-01</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - осенний коллапс ВСУ ВСРФ взяли 86 населенных пунктов Прогнули Зеленского 01 12:s:898965:e:952-->
+</div><!--n:Жизнь в США и России/Украинский фронт - осенний коллапс ВСУ ВСРФ взяли 86 населенных пунктов Прогнули Зеленского 01 12:s:951609:e:952-->
 <!----><!--2025-09-30 19:23:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_unichtojenie_energetiki_ukrainy_konotop_minus_podstanciya_vzyali_shadrigolovo">
@@ -9842,7 +10392,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-30</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - уничтожение энергетики Украины Конотоп минус Подстанция Взяли Шадриголово:s:900152:e:948-->
+</div><!--n:Жизнь в США и России/Украинский фронт - уничтожение энергетики Украины Конотоп минус Подстанция Взяли Шадриголово:s:952796:e:948-->
 <!----><!--2025-12-20 20:43:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_razruha_i_vorovstvo_na_ukraine_udary_po_odesse_pljus_4_oblasti_bez_sveta_20_12">
@@ -9853,7 +10403,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-12-20</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - разруха и воровство на Украине Удары по Одессе Плюс 4 области без света 20 12:s:901335:e:946-->
+</div><!--n:Жизнь в США и России/Украинский фронт - разруха и воровство на Украине Удары по Одессе Плюс 4 области без света 20 12:s:953979:e:946-->
 <!----><!--2025-08-27 18:50:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_okrujajut_kupyansk_proryv_na_voronoe_5km_27_08_25">
@@ -9864,7 +10414,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-27</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - окружают Купянск Прорыв на Вороное 5км 27 08 25:s:902512:e:831-->
+</div><!--n:Жизнь в США и России/Украинский фронт - окружают Купянск Прорыв на Вороное 5км 27 08 25:s:955156:e:831-->
 <!----><!--2025-10-17 20:56:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ryvok_na_6_km_rossijskie_sily_centr_kupyanska_voshli_v_konstantinovku_17_10_25">
@@ -9875,7 +10425,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-10-17</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - рывок на 6 км Российские силы центр Купянска Вошли в Константиновку 17 10 25:s:903518:e:943-->
+</div><!--n:Жизнь в США и России/Украинский фронт - рывок на 6 км Российские силы центр Купянска Вошли в Константиновку 17 10 25:s:956162:e:943-->
 <!----><!--2026-01-30 21:00:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_peremirie_v_energetike_vsrf_podhodyat_k_zaporojju_30_01_26">
@@ -9886,7 +10436,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-01-30</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - перемирие в энергетике ВСРФ подходят к Запорожью 30 01 26:s:904689:e:865-->
+</div><!--n:Жизнь в США и России/Украинский фронт - перемирие в энергетике ВСРФ подходят к Запорожью 30 01 26:s:957333:e:865-->
 <!----><!--2025-09-24 19:55:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_vojska_okrujajut_seversk_vyskazyvaniya_trampa_24_09_25">
@@ -9897,7 +10447,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-09-24</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - российские войска окружают Северск Высказывания Трампа 24 09 25:s:905749:e:896-->
+</div><!--n:Жизнь в США и России/Украинский фронт - российские войска окружают Северск Высказывания Трампа 24 09 25:s:958393:e:896-->
 <!----><!--2025-08-28 18:42:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_centre_kieva_minus_zavody_dronov_okrujenie_vsu_v_shcherbinovke_28_08_25">
@@ -9908,7 +10458,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-08-28</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - АД в центре Киева Минус заводы дронов Окружение ВСУ в Щербиновке 28 08 25:s:906853:e:935-->
+</div><!--n:Жизнь в США и России/Украинский фронт - АД в центре Киева Минус заводы дронов Окружение ВСУ в Щербиновке 28 08 25:s:959497:e:935-->
 <!----><!--2026-03-11 20:06:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nepobeda_v_irane_udar_po_bryansku_vzyali_stepanovku_110326">
@@ -9919,7 +10469,7 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2026-03-11</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - НЕпобеда в Иране. Удар по Брянску. Взяли Степановку. 11.03.26:s:908011:e:867-->
+</div><!--n:Жизнь в США и России/Украинский фронт - НЕпобеда в Иране. Удар по Брянску. Взяли Степановку. 11.03.26:s:960655:e:867-->
 <!----><!--2025-11-04 19:44:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_desant_gur_v_pokrovske_chto_s_nimi_stalo_vsrf_vzyali_85_pokrovska_04_11_25">
@@ -9930,8 +10480,8 @@
     <p><i class="smaller2">Саня во Флориде</i></p>
     <i class="smaller3">2025-11-04</i>
   </div>
-</div><!--n:Жизнь в США и России/Украинский фронт - десант ГУР в Покровске Что с ними стало ВСРФ взяли 85 Покровска 04 11 25:s:909077:e:926-->
-<!----><!--2025-10-18 15:37:30-->Ролики от блогера *Саня во Флориде* про СВО, Америку<!--n:Жизнь в США и России/about:s:910221:e:126-->
+</div><!--n:Жизнь в США и России/Украинский фронт - десант ГУР в Покровске Что с ними стало ВСРФ взяли 85 Покровска 04 11 25:s:961721:e:926-->
+<!----><!--2025-10-18 15:37:30-->Ролики от блогера *Саня во Флориде* про СВО, Америку<!--n:Жизнь в США и России/about:s:962865:e:126-->
 <!----><!--2025-11-26 16:33:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_poslednee_delo_v_majami">
@@ -9942,7 +10492,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПОСЛЕДНЕЕ ДЕЛО В МАЙАМИ:s:910414:e:768-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПОСЛЕДНЕЕ ДЕЛО В МАЙАМИ:s:963058:e:768-->
 <!----><!--2025-11-10 10:10:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_artistka_i_i_aviator">
@@ -9953,7 +10503,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА АРТИСТКА И И АВИАТОР:s:911306:e:756-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА АРТИСТКА И И АВИАТОР:s:963950:e:756-->
 <!----><!--2025-11-10 10:09:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_tankovyj_batalon_1941">
@@ -9964,7 +10514,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ТАНКОВЫЙ БАТАЛЬОН 1941:s:912180:e:759-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ТАНКОВЫЙ БАТАЛЬОН 1941:s:964824:e:759-->
 <!----><!--2025-10-17 23:09:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_barin_bez_sostoyaniya">
@@ -9975,7 +10525,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-10-17</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА БАРИН БЕЗ СОСТОЯНИЯ:s:913058:e:757-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА БАРИН БЕЗ СОСТОЯНИЯ:s:965702:e:757-->
 <!----><!--2025-11-10 10:09:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_za_dvorom_sssr_1975">
@@ -9986,7 +10536,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ЗА ДВОРОМ СССР 1975:s:913932:e:748-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ЗА ДВОРОМ СССР 1975:s:966576:e:748-->
 <!----><!--2025-11-26 16:33:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_partizanskij_rubej">
@@ -9997,7 +10547,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПАРТИЗАНСКИЙ РУБЕЖ:s:914792:e:750-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПАРТИЗАНСКИЙ РУБЕЖ:s:967436:e:750-->
 <!----><!--2025-11-10 10:10:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_razrushitel_mirov">
@@ -10008,7 +10558,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА РАЗРУШИТЕЛЬ МИРОВ:s:915658:e:746-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА РАЗРУШИТЕЛЬ МИРОВ:s:968302:e:746-->
 <!----><!--2025-10-28 15:56:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_protokol_vyjivaniya">
@@ -10019,7 +10569,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-10-28</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПРОТОКОЛ ВЫЖИВАНИЯ:s:916518:e:752-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПРОТОКОЛ ВЫЖИВАНИЯ:s:969162:e:752-->
 <!----><!--2025-12-08 10:55:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vek_ognya_i_kamnya">
@@ -10030,7 +10580,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВЕК ОГНЯ И КАМНЯ:s:917386:e:744-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВЕК ОГНЯ И КАМНЯ:s:970030:e:744-->
 <!----><!--2025-12-24 11:36:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_rojdennyj_ne_dlya_svoego_vremeni">
@@ -10041,7 +10591,18 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-12-24</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА РОЖДЁННЫЙ НЕ ДЛЯ СВОЕГО ВРЕМЕНИ:s:918240:e:801-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА РОЖДЁННЫЙ НЕ ДЛЯ СВОЕГО ВРЕМЕНИ:s:970884:e:801-->
+<!----><!--2025-10-17 23:09:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_brodyaga_i_ego_vernyj_pes">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cb67ccfdbed11b3265f13134ab4080a3/" src="http://pic.rtbcdn.ru/video/2025-10-08/01/80/01802dcd68459674380e886d12755308.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_brodyaga_i_ego_vernyj_pes">ПОПАДАНЦЫ АУДИОКНИГА: БРОДЯГА И ЕГО ВЕРНЫЙ ПЁС</a></p>
+    <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
+    <i class="smaller3">2025-10-17</i>
+  </div>
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА БРОДЯГА И ЕГО ВЕРНЫЙ ПЁС:s:971824:e:773-->
 <!----><!--2025-11-28 15:44:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_proklyatyj_dvoryanin_imperii">
@@ -10052,7 +10613,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-28</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПРОКЛЯТЫЙ ДВОРЯНИН ИМПЕРИИ:s:919180:e:785-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПРОКЛЯТЫЙ ДВОРЯНИН ИМПЕРИИ:s:972722:e:785-->
 <!----><!--2025-10-17 23:09:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vladyki_zelenogo_plameni">
@@ -10063,7 +10624,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-10-17</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВЛАДЫКИ ЗЕЛЁНОГО ПЛАМЕНИ:s:920096:e:773-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВЛАДЫКИ ЗЕЛЁНОГО ПЛАМЕНИ:s:973638:e:773-->
 <!----><!--2025-11-10 10:10:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_poslednij_iz_vizantii">
@@ -10074,7 +10635,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПОСЛЕДНИЙ ИЗ ВИЗАНТИИ:s:920996:e:761-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ПОСЛЕДНИЙ ИЗ ВИЗАНТИИ:s:974538:e:761-->
 <!----><!--2025-11-10 10:11:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_vrach_dlya_jivyh_i_mertvyh">
@@ -10085,7 +10646,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВРАЧ ДЛЯ ЖИВЫХ И МЕРТВЫХ:s:921878:e:775-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ВРАЧ ДЛЯ ЖИВЫХ И МЕРТВЫХ:s:975420:e:775-->
 <!----><!--2025-11-26 16:34:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_oficer_kavkaza_vne_vremeni">
@@ -10096,7 +10657,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ОФИЦЕР КАВКАЗА ВНЕ ВРЕМЕНИ:s:922778:e:780-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ОФИЦЕР КАВКАЗА ВНЕ ВРЕМЕНИ:s:976320:e:780-->
 <!----><!--2025-11-26 16:33:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_ugolovnyj_rozysk_pervoe_delo">
@@ -10107,7 +10668,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА УГОЛОВНЫЙ РОЗЫСК ПЕРВОЕ ДЕЛО:s:923688:e:788-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА УГОЛОВНЫЙ РОЗЫСК ПЕРВОЕ ДЕЛО:s:977230:e:788-->
 <!----><!--2025-11-26 16:33:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_kazackij_ogon_i_sablya">
@@ -10118,7 +10679,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-11-26</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА КАЗАЦКИЙ ОГОНЬ И САБЛЯ:s:924610:e:764-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА КАЗАЦКИЙ ОГОНЬ И САБЛЯ:s:978152:e:764-->
 <!----><!--2025-10-17 23:09:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_favorit_imperii">
@@ -10129,7 +10690,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-10-17</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ФАВОРИТ ИМПЕРИИ:s:925496:e:738-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ФАВОРИТ ИМПЕРИИ:s:979038:e:738-->
 <!----><!--2025-12-17 15:47:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_knig/popadancy_audiokniga_cena_proklyatogo_dara">
@@ -10140,7 +10701,7 @@
     <p><i class="smaller2">СЛУШАТЬ ЛУЧШИЕ АУДИОКНИГИ О ПОПАДАНЦАХ</i></p>
     <i class="smaller3">2025-12-17</i>
   </div>
-</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ЦЕНА ПРОКЛЯТОГО ДАРА:s:926344:e:759-->
+</div><!--n:Мир книг/ПОПАДАНЦЫ АУДИОКНИГА ЦЕНА ПРОКЛЯТОГО ДАРА:s:979886:e:759-->
 <!----><!--2025-06-17 16:20:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_7_seriya">
@@ -10151,7 +10712,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 7 серия:s:927222:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 7 серия:s:980764:e:719-->
 <!----><!--2025-06-17 16:20:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_4_seriya">
@@ -10162,7 +10723,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 4 серия:s:928039:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 4 серия:s:981581:e:719-->
 <!----><!--2025-06-17 16:20:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_3_seriya">
@@ -10173,7 +10734,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 3 серия:s:928856:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 3 серия:s:982398:e:719-->
 <!----><!--2025-06-17 16:20:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_5_seriya">
@@ -10184,7 +10745,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 5 серия:s:929673:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 5 серия:s:983215:e:719-->
 <!----><!--2025-06-17 16:20:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_2_seriya">
@@ -10195,7 +10756,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 2 серия:s:930490:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 2 серия:s:984032:e:719-->
 <!----><!--2025-06-17 16:20:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_4_seriya">
@@ -10206,7 +10767,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 4 серия:s:931307:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 4 серия:s:984849:e:719-->
 <!----><!--2025-06-17 16:21:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_3_seriya">
@@ -10217,7 +10778,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 3 серия:s:932124:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 3 серия:s:985666:e:719-->
 <!----><!--2025-06-17 16:20:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_6_seriya">
@@ -10228,7 +10789,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 6 серия:s:932941:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 6 серия:s:986483:e:719-->
 <!----><!--2025-06-17 16:20:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_8_seriya">
@@ -10239,7 +10800,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 8 серия:s:933758:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 8 серия:s:987300:e:719-->
 <!----><!--2025-06-17 16:20:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_4_seriya">
@@ -10250,7 +10811,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 4 серия:s:934575:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 4 серия:s:988117:e:719-->
 <!----><!--2025-06-17 16:20:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_1_seriya">
@@ -10261,7 +10822,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 1 серия:s:935392:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 1 серия:s:988934:e:719-->
 <!----><!--2025-06-17 16:20:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_7_seriya">
@@ -10272,7 +10833,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 7 серия:s:936209:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 7 серия:s:989751:e:719-->
 <!----><!--2025-06-17 16:20:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_5_seriya">
@@ -10283,7 +10844,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 5 серия:s:937026:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 5 серия:s:990568:e:719-->
 <!----><!--2025-06-17 16:20:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_6_seriya">
@@ -10294,7 +10855,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 6 серия:s:937843:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 6 серия:s:991385:e:719-->
 <!----><!--2025-06-17 16:21:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_1_seriya">
@@ -10305,7 +10866,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 1 серия:s:938660:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 1 серия:s:992202:e:719-->
 <!----><!--2025-06-17 16:20:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_8_seriya">
@@ -10316,7 +10877,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 8 серия:s:939477:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 8 серия:s:993019:e:719-->
 <!----><!--2025-06-17 16:20:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_3_sezon_3_seriya">
@@ -10327,7 +10888,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 3 серия:s:940294:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 3 сезон 3 серия:s:993836:e:719-->
 <!----><!--2025-06-17 16:21:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_8_seriya">
@@ -10338,7 +10899,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 8 серия:s:941111:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 8 серия:s:994653:e:719-->
 <!----><!--2025-06-17 16:20:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_7_seriya">
@@ -10349,7 +10910,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 7 серия:s:941928:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 7 серия:s:995470:e:719-->
 <!----><!--2025-06-17 16:21:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_2_seriya">
@@ -10360,7 +10921,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 2 серия:s:942745:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 2 серия:s:996287:e:719-->
 <!----><!--2025-06-17 16:20:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_1_seriya">
@@ -10371,7 +10932,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 1 серия:s:943562:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 1 серия:s:997104:e:719-->
 <!----><!--2025-06-17 16:20:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_2_seriya">
@@ -10382,7 +10943,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 2 серия:s:944379:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 2 серия:s:997921:e:719-->
 <!----><!--2025-06-17 16:20:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_1_sezon_6_seriya">
@@ -10393,7 +10954,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 6 серия:s:945196:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 1 сезон 6 серия:s:998738:e:719-->
 <!----><!--2025-06-17 16:20:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?serialy/djek_richer_jack_reacher_2_sezon_5_seriya">
@@ -10404,7 +10965,7 @@
     <p><i class="smaller2">Сериал Джек Ричер / Jack Reacher</i></p>
     <i class="smaller3">2025-06-17</i>
   </div>
-</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 5 серия:s:946013:e:719-->
+</div><!--n:Сериалы/Джек Ричер Jack Reacher 2 сезон 5 серия:s:999555:e:719-->
 <!----><!--2025-01-02 17:49:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/uspeshnye_uspehi">
@@ -10415,7 +10976,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-01-02</i>
   </div>
-</div><!--n:Мир кино/Успешные успехи:s:946830:e:599-->
+</div><!--n:Мир кино/Успешные успехи:s:1000372:e:599-->
 <!----><!--2026-03-14 23:34:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_10_seriya_the_pitt">
@@ -10426,7 +10987,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 10 серия The Pitt:s:947499:e:756-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 10 серия The Pitt:s:1001042:e:756-->
 <!----><!--2025-10-29 16:30:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_ballada_o_malenkom_igroke_ballad_of_a_small_player">
@@ -10437,7 +10998,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Мир кино/Фильм Баллада о маленьком игроке Ballad of a Small Player:s:948370:e:789-->
+</div><!--n:Мир кино/Фильм Баллада о маленьком игроке Ballad of a Small Player:s:1001914:e:789-->
 <!----><!--2026-01-14 20:45:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_9_seriya_high_potential">
@@ -10448,7 +11009,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-14</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 9 серия High Potential:s:949285:e:793-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 9 серия High Potential:s:1002830:e:793-->
 <!----><!--2025-12-06 14:26:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_odinokij_samuraj_lone_samurai">
@@ -10459,7 +11020,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-06</i>
   </div>
-</div><!--n:Мир кино/Фильм Одинокий самурай Lone Samurai:s:950206:e:717-->
+</div><!--n:Мир кино/Фильм Одинокий самурай Lone Samurai:s:1003752:e:717-->
 <!----><!--2026-02-28 14:34:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_6_seriya_bridgerton">
@@ -10470,7 +11031,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 6 серия Bridgerton:s:951019:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 6 серия Bridgerton:s:1004566:e:727-->
 <!----><!--2025-11-28 01:20:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/multfilm_zveropolis_2_zootopia_2_ekranka">
@@ -10481,7 +11042,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-28</i>
   </div>
-</div><!--n:Мир кино/Мультфильм Зверополис 2 Zootopia 2 Экранка:s:951846:e:745-->
+</div><!--n:Мир кино/Мультфильм Зверополис 2 Zootopia 2 Экранка:s:1005394:e:745-->
 <!----><!--2026-01-23 20:33:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/anime_kosmicheskaya_princessa_kaguya_cosmic_princess_kaguya">
@@ -10492,7 +11053,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-23</i>
   </div>
-</div><!--n:Мир кино/Аниме Космическая принцесса Кагуя Cosmic Princess Kaguya:s:952701:e:800-->
+</div><!--n:Мир кино/Аниме Космическая принцесса Кагуя Cosmic Princess Kaguya:s:1006250:e:800-->
 <!----><!--2025-11-30 15:30:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/djek_nikolson_vsya_jizn_na_vershine">
@@ -10503,7 +11064,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-11-30</i>
   </div>
-</div><!--n:Мир кино/Джек Николсон вся жизнь на вершине:s:953628:e:671-->
+</div><!--n:Мир кино/Джек Николсон вся жизнь на вершине:s:1007178:e:671-->
 <!----><!--2026-02-21 16:06:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_7_seriya_the_pitt">
@@ -10514,7 +11075,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-21</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 7 серия The Pitt:s:954403:e:753-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 7 серия The Pitt:s:1007954:e:753-->
 <!----><!--2026-03-11 23:41:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_14_seriya_high_potential">
@@ -10525,7 +11086,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-11</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 14 серия High Potential:s:955270:e:792-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 14 серия High Potential:s:1008822:e:792-->
 <!----><!--2026-01-28 10:31:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_grandioznaya_poddelka_il_falsario">
@@ -10536,7 +11097,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-28</i>
   </div>
-</div><!--n:Мир кино/Фильм Грандиозная подделка Il falsario:s:956191:e:732-->
+</div><!--n:Мир кино/Фильм Грандиозная подделка Il falsario:s:1009744:e:732-->
 <!----><!--2025-03-29 15:30:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/gibel_studii_orion">
@@ -10547,7 +11108,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-03-29</i>
   </div>
-</div><!--n:Мир кино/Гибель студии Орион:s:957026:e:610-->
+</div><!--n:Мир кино/Гибель студии Орион:s:1010580:e:610-->
 <!----><!--2025-09-22 16:30:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/aktery_kotorye_ne_smogli">
@@ -10558,7 +11119,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-09-22</i>
   </div>
-</div><!--n:Мир кино/Актеры, которые не смогли:s:957713:e:628-->
+</div><!--n:Мир кино/Актеры, которые не смогли:s:1011268:e:628-->
 <!----><!--2025-11-27 20:46:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_4_seriya_stranger_things">
@@ -10569,7 +11130,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-27</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 4 серия Stranger Things:s:958428:e:776-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 4 серия Stranger Things:s:1011984:e:776-->
 <!----><!--2025-11-19 06:58:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_begushchij_chelovek_the_running_man_ekranka">
@@ -10580,7 +11141,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-19</i>
   </div>
-</div><!--n:Мир кино/Фильм Бегущий человек The Running Man Экранка:s:959323:e:763-->
+</div><!--n:Мир кино/Фильм Бегущий человек The Running Man Экранка:s:1012880:e:763-->
 <!----><!--2025-12-26 19:16:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_5_seriya_stranger_things">
@@ -10591,7 +11152,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 5 серия Stranger Things:s:960198:e:776-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 5 серия Stranger Things:s:1013756:e:776-->
 <!----><!--2025-12-12 22:30:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_infljuensery_influencers">
@@ -10602,7 +11163,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Мир кино/Фильм Инфлюэнсеры Influencers:s:961093:e:697-->
+</div><!--n:Мир кино/Фильм Инфлюэнсеры Influencers:s:1014652:e:697-->
 <!----><!--2025-12-26 22:02:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_7_seriya_stranger_things">
@@ -10613,7 +11174,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 7 серия Stranger Things:s:961876:e:776-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 7 серия Stranger Things:s:1015436:e:776-->
 <!----><!--2025-11-07 21:28:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_frankenshtejn_frankenstein">
@@ -10624,7 +11185,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-07</i>
   </div>
-</div><!--n:Мир кино/Фильм Франкенштейн Frankenstein:s:962771:e:704-->
+</div><!--n:Мир кино/Фильм Франкенштейн Frankenstein:s:1016332:e:704-->
 <!----><!--2026-02-12 10:02:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_2_seriya_bridgerton">
@@ -10635,7 +11196,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 2 серия Bridgerton:s:963564:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 2 серия Bridgerton:s:1017126:e:727-->
 <!----><!--2026-01-17 09:27:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_2_seriya_the_pitt">
@@ -10646,7 +11207,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-17</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 2 серия The Pitt:s:964391:e:757-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 2 серия The Pitt:s:1017954:e:757-->
 <!----><!--2025-10-22 20:21:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_6_seriya_the_morning_show">
@@ -10657,7 +11218,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-22</i>
   </div>
-</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 6 серия The Morning Show:s:965262:e:781-->
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 6 серия The Morning Show:s:1018826:e:781-->
 <!----><!--2025-10-26 16:30:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/komiks_neudachniki">
@@ -10668,7 +11229,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-10-26</i>
   </div>
-</div><!--n:Мир кино/Комикс неудачники:s:966163:e:603-->
+</div><!--n:Мир кино/Комикс неудачники:s:1019728:e:603-->
 <!----><!--2025-11-18 16:45:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/rassvet_anime">
@@ -10679,7 +11240,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-11-18</i>
   </div>
-</div><!--n:Мир кино/Рассвет аниме:s:966840:e:585-->
+</div><!--n:Мир кино/Рассвет аниме:s:1020406:e:585-->
 <!----><!--2025-10-30 23:12:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_2_seriya_the_witcher">
@@ -10690,7 +11251,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 2 серия The Witcher:s:967491:e:743-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 2 серия The Witcher:s:1021058:e:743-->
 <!----><!--2026-01-15 15:41:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/uspeh_za_uspehom">
@@ -10701,7 +11262,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2026-01-15</i>
   </div>
-</div><!--n:Мир кино/Успех за успехом:s:968340:e:596-->
+</div><!--n:Мир кино/Успех за успехом:s:1021908:e:596-->
 <!----><!--2026-01-13 15:52:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_otpusk_na_dvoih_people_we_meet_on_vacation">
@@ -10712,7 +11273,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-13</i>
   </div>
-</div><!--n:Мир кино/Фильм Отпуск на двоих People We Meet on Vacation:s:969007:e:754-->
+</div><!--n:Мир кино/Фильм Отпуск на двоих People We Meet on Vacation:s:1022576:e:754-->
 <!----><!--2026-02-03 11:06:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/multfilm_david_david">
@@ -10723,7 +11284,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-03</i>
   </div>
-</div><!--n:Мир кино/Мультфильм Давид David:s:969868:e:667-->
+</div><!--n:Мир кино/Мультфильм Давид David:s:1023438:e:667-->
 <!----><!--2026-02-06 12:23:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_celi_v_otnosheniyah_relationship_goals">
@@ -10734,7 +11295,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-06</i>
   </div>
-</div><!--n:Мир кино/Фильм Цели в отношениях Relationship Goals:s:970613:e:738-->
+</div><!--n:Мир кино/Фильм Цели в отношениях Relationship Goals:s:1024184:e:738-->
 <!----><!--2025-10-31 18:48:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_2_seriya_it_welcome_to_derry">
@@ -10745,7 +11306,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 2 серия IT Welcome to Derry:s:971454:e:849-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 2 серия IT Welcome to Derry:s:1025026:e:849-->
 <!----><!--2026-03-07 08:29:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_9_seriya_the_pitt">
@@ -10756,7 +11317,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-07</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 9 серия The Pitt:s:972455:e:753-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 9 серия The Pitt:s:1026028:e:753-->
 <!----><!--2026-01-31 16:31:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/samye_bolshie_kassovye_provaly_devyanostyh">
@@ -10767,7 +11328,18 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2026-01-31</i>
   </div>
-</div><!--n:Мир кино/Самые большие кассовые провалы девяностых:s:973322:e:696-->
+</div><!--n:Мир кино/Самые большие кассовые провалы девяностых:s:1026896:e:696-->
+<!----><!--2026-03-24 16:30:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/iz_gryazi_v_knyazi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a668bd1ca8b9616898cf5773d83b4341/" src="http://pic.rtbcdn.ru/video/2026-03-24/ce/35/ce35a15fcb574492c5365d96480447a2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/iz_gryazi_v_knyazi">Из грязи в князи</a></p>
+    <p><i class="smaller2">GreenGrass</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Мир кино/Из грязи в князи:s:1027712:e:599-->
 <!----><!--2025-05-27 16:30:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/poslednyaya_missiya_toma_kruza">
@@ -10778,7 +11350,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-05-27</i>
   </div>
-</div><!--n:Мир кино/Последняя миссия Тома Круза:s:974137:e:649-->
+</div><!--n:Мир кино/Последняя миссия Тома Круза:s:1028382:e:649-->
 <!----><!--2025-12-26 22:08:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_6_seriya_stranger_things">
@@ -10789,7 +11361,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 6 серия Stranger Things:s:974878:e:776-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 6 серия Stranger Things:s:1029124:e:776-->
 <!----><!--2025-10-13 16:30:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/betmen_vechno_vtoroj">
@@ -10800,7 +11372,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-10-13</i>
   </div>
-</div><!--n:Мир кино/Бэтмен вечно второй:s:975773:e:614-->
+</div><!--n:Мир кино/Бэтмен вечно второй:s:1030020:e:614-->
 <!----><!--2026-03-12 15:56:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_7_seriya_shrinking">
@@ -10811,7 +11383,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-12</i>
   </div>
-</div><!--n:Мир кино/Сериал Терапия 3 сезон 7 серия Shrinking:s:976464:e:737-->
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 7 серия Shrinking:s:1030712:e:737-->
 <!----><!--2024-06-04 19:00:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/gaj_richi_-_ministr_konvejernyh_del">
@@ -10822,7 +11394,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-06-04</i>
   </div>
-</div><!--n:Мир кино/Гай Ричи - министр конвейерных дел:s:977305:e:659-->
+</div><!--n:Мир кино/Гай Ричи - министр конвейерных дел:s:1031554:e:659-->
 <!----><!--2025-12-26 09:19:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_2_seriya_fallout">
@@ -10833,7 +11405,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 2 серия Fallout:s:978067:e:733-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 2 серия Fallout:s:1032317:e:733-->
 <!----><!--2026-01-22 13:16:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_5_seriya_fallout">
@@ -10844,7 +11416,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 5 серия Fallout:s:978902:e:733-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 5 серия Fallout:s:1033153:e:733-->
 <!----><!--2025-12-12 20:45:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_dostat_noji_voskreshenie_pokojnika_wake_up_dead_man_a_knives_out_mystery">
@@ -10855,7 +11427,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Мир кино/Фильм Достать ножи Воскрешение покойника Wake Up Dead Man A Knives Out Mystery:s:979737:e:864-->
+</div><!--n:Мир кино/Фильм Достать ножи Воскрешение покойника Wake Up Dead Man A Knives Out Mystery:s:1033989:e:864-->
+<!----><!--2026-03-19 12:56:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_nirvana_gruppa_shou_film_nirvanna_the_band_the_show_the_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5cddcc82f91badcdcaee9ed33c7cca9f/" src="http://pic.rtbcdn.ru/video/2026-03-19/9e/1a/9e1ac8c8f4210702f2f3a714546d3462.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_nirvana_gruppa_shou_film_nirvanna_the_band_the_show_the_movie">Фильм Нирвана. Группа. Шоу. Фильм / Nirvanna the Band the Show the Movie</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-19</i>
+  </div>
+</div><!--n:Мир кино/Фильм Нирвана. Группа. Шоу. Фильм Nirvanna the Band the Show the Movie:s:1035009:e:818-->
 <!----><!--2026-03-12 00:08:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_zaveshchanie_anny_li_the_testament_of_ann_lee">
@@ -10866,7 +11449,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-12</i>
   </div>
-</div><!--n:Мир кино/Фильм Завещание Анны Ли The Testament of Ann Lee:s:980756:e:758-->
+</div><!--n:Мир кино/Фильм Завещание Анны Ли The Testament of Ann Lee:s:1035965:e:758-->
 <!----><!--2026-02-28 10:32:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_7_seriya_bridgerton">
@@ -10877,7 +11460,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 7 серия Bridgerton:s:981623:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 7 серия Bridgerton:s:1036833:e:727-->
+<!----><!--2026-03-18 16:02:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_3_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b770f96b758ffa1d4119dd5d328043de/" src="http://pic.rtbcdn.ru/video/2026-03-18/26/0c/260c08b90a20f4a04322ba7369f44bd3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_3_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 3 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-18</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 3 серия Marshals:s:1037661:e:755-->
 <!----><!--2026-02-18 00:19:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_adskoe_plamya_hellfire">
@@ -10888,7 +11482,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-18</i>
   </div>
-</div><!--n:Мир кино/Фильм Адское пламя Hellfire:s:982450:e:687-->
+</div><!--n:Мир кино/Фильм Адское пламя Hellfire:s:1038530:e:687-->
 <!----><!--2026-02-12 10:02:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_4_seriya_bridgerton">
@@ -10899,7 +11493,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 4 серия Bridgerton:s:983221:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 4 серия Bridgerton:s:1039302:e:727-->
 <!----><!--2026-02-28 19:24:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_8_seriya_the_pitt">
@@ -10910,7 +11504,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 8 серия The Pitt:s:984048:e:753-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 8 серия The Pitt:s:1040130:e:753-->
 <!----><!--2025-10-29 17:31:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ubijstva_v_odnom_zdanii_5_sezon_10_seriya_iz_10_only_murders_in_the_building">
@@ -10921,7 +11515,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Мир кино/Сериал Убийства в одном здании 5 сезон 10 серия из 10 Only Murders in the Building:s:984915:e:880-->
+</div><!--n:Мир кино/Сериал Убийства в одном здании 5 сезон 10 серия из 10 Only Murders in the Building:s:1040998:e:880-->
 <!----><!--2026-02-07 03:03:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_ljubimaya_uchenica_ljubimica_uchitelya_teacher_s_pet">
@@ -10932,7 +11526,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-07</i>
   </div>
-</div><!--n:Мир кино/Фильм Любимая ученица Любимица учителя Teacher s Pet:s:985956:e:794-->
+</div><!--n:Мир кино/Фильм Любимая ученица Любимица учителя Teacher s Pet:s:1042040:e:794-->
 <!----><!--2025-11-11 15:07:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_protokol_vyhoda_exit_protocol">
@@ -10943,7 +11537,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-11</i>
   </div>
-</div><!--n:Мир кино/Фильм Протокол выхода Exit Protocol:s:986877:e:716-->
+</div><!--n:Мир кино/Фильм Протокол выхода Exit Protocol:s:1042962:e:716-->
 <!----><!--2026-01-29 17:08:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_bezymyannaya_romanticheskaya_istoriya_o_vtorjenii_v_dom_untitled_home_invasion_romance">
@@ -10954,7 +11548,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-29</i>
   </div>
-</div><!--n:Мир кино/Фильм Безымянная романтическая история о вторжении в дом Untitled Home Invasion Romance:s:987688:e:908-->
+</div><!--n:Мир кино/Фильм Безымянная романтическая история о вторжении в дом Untitled Home Invasion Romance:s:1043774:e:908-->
+<!----><!--2026-03-21 14:38:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_dzeta_zeta">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/84269ff9f343f4ecc53e99d066871968/" src="http://pic.rtbcdn.ru/video/2026-03-21/47/e0/47e084236ebf0c64c2f6fe56d4dfc612.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_dzeta_zeta">Фильм Дзета / Zeta</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Мир кино/Фильм Дзета Zeta:s:1044860:e:646-->
 <!----><!--2026-01-24 17:45:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_3_seriya_the_pitt">
@@ -10965,7 +11570,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-24</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 3 серия The Pitt:s:988773:e:753-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 3 серия The Pitt:s:1045574:e:753-->
+<!----><!--2026-03-18 22:25:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_15_seriya_high_potential">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bc1020dc209f0287631b42d046fc9ef1/" src="http://pic.rtbcdn.ru/video/2026-03-18/4d/db/4ddb3bbe26f3992934cd5ca660fd5f7a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_15_seriya_high_potential">Сериал Большой потенциал 2 сезон 15 серия / High Potential</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-18</i>
+  </div>
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 15 серия High Potential:s:1046442:e:792-->
 <!----><!--2025-12-31 09:26:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/zlaya_navsegda_zlaya_chast_2_wicked_for_good">
@@ -10976,7 +11592,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Мир кино/Злая Навсегда Злая Часть 2 Wicked For Good:s:989640:e:750-->
+</div><!--n:Мир кино/Злая Навсегда Злая Часть 2 Wicked For Good:s:1047364:e:750-->
 <!----><!--2026-01-31 08:05:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_4_seriya_the_pitt">
@@ -10987,7 +11603,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-31</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 4 серия The Pitt:s:990494:e:753-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 4 серия The Pitt:s:1048219:e:753-->
 <!----><!--2025-01-08 16:30:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/provalnye_provaly">
@@ -10998,7 +11614,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-01-08</i>
   </div>
-</div><!--n:Мир кино/Провальные провалы:s:991361:e:607-->
+</div><!--n:Мир кино/Провальные провалы:s:1049087:e:607-->
 <!----><!--2025-10-27 22:52:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_1_seriya_it_welcome_to_derry">
@@ -11009,7 +11625,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-27</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 1 серия IT Welcome to Derry:s:992044:e:849-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 1 серия IT Welcome to Derry:s:1049771:e:849-->
 <!----><!--2026-01-22 19:17:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_10_seriya_high_potential">
@@ -11020,7 +11636,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 10 серия High Potential:s:993045:e:796-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 10 серия High Potential:s:1050773:e:796-->
 <!----><!--2025-02-20 16:30:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/genri_kavill_samyj_nevezuchij_chelovek_gollivuda">
@@ -11031,7 +11647,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-02-20</i>
   </div>
-</div><!--n:Мир кино/Генри Кавилл самый невезучий человек Голливуда:s:993970:e:725-->
+</div><!--n:Мир кино/Генри Кавилл самый невезучий человек Голливуда:s:1051699:e:725-->
 <!----><!--2024-09-25 16:30:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/duejn_djonson_poslednij_kinogeroj">
@@ -11042,7 +11658,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-09-25</i>
   </div>
-</div><!--n:Мир кино/Дуэйн Джонсон последний киногерой:s:994823:e:671-->
+</div><!--n:Мир кино/Дуэйн Джонсон последний киногерой:s:1052553:e:671-->
 <!----><!--2024-11-16 16:55:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/glavnyj_huligan_gollivuda_marlon_brando">
@@ -11053,7 +11669,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-11-16</i>
   </div>
-</div><!--n:Мир кино/Главный хулиган Голливуда Марлон Брандо:s:995598:e:694-->
+</div><!--n:Мир кино/Главный хулиган Голливуда Марлон Брандо:s:1053329:e:694-->
 <!----><!--2025-12-03 23:49:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_klyk_2_gorod_volkov_muzzle_city_of_wolves">
@@ -11064,7 +11680,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Мир кино/Фильм Клык 2 Город волков Muzzle City of Wolves:s:996407:e:755-->
+</div><!--n:Мир кино/Фильм Клык 2 Город волков Muzzle City of Wolves:s:1054139:e:755-->
 <!----><!--2026-03-06 20:38:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/klinika_10_sezon_3_seriya_scrubs">
@@ -11075,7 +11691,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-06</i>
   </div>
-</div><!--n:Мир кино/Клиника 10 сезон 3 серия Scrubs:s:997270:e:702-->
+</div><!--n:Мир кино/Клиника 10 сезон 3 серия Scrubs:s:1055003:e:702-->
 <!----><!--2026-03-13 22:42:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/klinika_10_sezon_4_seriya_scrubs">
@@ -11086,7 +11702,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-13</i>
   </div>
-</div><!--n:Мир кино/Клиника 10 сезон 4 серия Scrubs:s:998061:e:702-->
+</div><!--n:Мир кино/Клиника 10 сезон 4 серия Scrubs:s:1055795:e:702-->
 <!----><!--2026-02-14 16:30:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/harvi_vajnshtejn_-_superzlodej">
@@ -11097,7 +11713,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2026-02-14</i>
   </div>
-</div><!--n:Мир кино/Харви Вайнштейн - суперзлодей:s:998852:e:648-->
+</div><!--n:Мир кино/Харви Вайнштейн - суперзлодей:s:1056587:e:648-->
 <!----><!--2025-06-30 16:30:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/djejms_makevoj_vzlety_i_padeniya">
@@ -11108,7 +11724,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-06-30</i>
   </div>
-</div><!--n:Мир кино/Джеймс МакЭвой взлеты и падения:s:999595:e:660-->
+</div><!--n:Мир кино/Джеймс МакЭвой взлеты и падения:s:1057331:e:660-->
 <!----><!--2025-12-15 16:52:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_turbulentnost_turbulence">
@@ -11119,7 +11735,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-15</i>
   </div>
-</div><!--n:Мир кино/Фильм Турбулентность Turbulence:s:1000354:e:702-->
+</div><!--n:Мир кино/Фильм Турбулентность Turbulence:s:1058091:e:702-->
 <!----><!--2025-06-23 16:30:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ana_de_armas_kubinskaya_yarost">
@@ -11130,7 +11746,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-06-23</i>
   </div>
-</div><!--n:Мир кино/Ана де Армас кубинская ярость:s:1001148:e:652-->
+</div><!--n:Мир кино/Ана де Армас кубинская ярость:s:1058885:e:652-->
 <!----><!--2025-11-29 18:19:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/multfilm_shchenyachij_patrul_rojdestvo_a_paw_patrol_christmas">
@@ -11141,7 +11757,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-29</i>
   </div>
-</div><!--n:Мир кино/Мультфильм Щенячий Патруль Рождество A PAW Patrol Christmas:s:1001896:e:809-->
+</div><!--n:Мир кино/Мультфильм Щенячий Патруль Рождество A PAW Patrol Christmas:s:1059633:e:809-->
+<!----><!--2026-03-20 18:20:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_3_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3d80b47a58ada54b206710cd1979e02c/" src="http://pic.rtbcdn.ru/video/2026-03-06/57/69/5769eb712dcfb40bc00d3b246e8b36bf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_3_seriya_scrubs">Сериал Клиника 10 сезон 3 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-20</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 3 серия Scrubs:s:1060576:e:729-->
 <!----><!--2025-10-30 06:31:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_7_seriya_high_potential">
@@ -11152,7 +11779,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 7 серия High Potential:s:1002839:e:793-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 7 серия High Potential:s:1061408:e:793-->
 <!----><!--2025-09-16 15:30:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/vnezapnaya_smert">
@@ -11163,7 +11790,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-09-16</i>
   </div>
-</div><!--n:Мир кино/Внезапная смерть:s:1003761:e:597-->
+</div><!--n:Мир кино/Внезапная смерть:s:1062330:e:597-->
 <!----><!--2025-12-30 22:19:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_avatar_plamya_i_pepel_avatar_fire_and_ash_ekranka">
@@ -11174,7 +11801,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-30</i>
   </div>
-</div><!--n:Мир кино/Фильм Аватар Пламя и пепел Avatar Fire and Ash Экранка:s:1004431:e:789-->
+</div><!--n:Мир кино/Фильм Аватар Пламя и пепел Avatar Fire and Ash Экранка:s:1063000:e:789-->
 <!----><!--2025-10-30 23:35:33-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_3_seriya_the_witcher">
@@ -11185,7 +11812,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 3 серия The Witcher:s:1005345:e:743-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 3 серия The Witcher:s:1063914:e:743-->
 <!----><!--2025-11-17 16:03:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_4_seriya_it_welcome_to_derry">
@@ -11196,7 +11823,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-17</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 4 серия IT Welcome to Derry:s:1006195:e:849-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 4 серия IT Welcome to Derry:s:1064764:e:849-->
 <!----><!--2024-12-05 16:30:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/chernyj_spisok_otmenennye_aktery">
@@ -11207,7 +11834,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-12-05</i>
   </div>
-</div><!--n:Мир кино/Черный список отмененные актеры:s:1007197:e:665-->
+</div><!--n:Мир кино/Черный список отмененные актеры:s:1065766:e:665-->
 <!----><!--2026-03-03 20:30:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_8_seriya_fallout">
@@ -11218,7 +11845,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 8 серия Fallout:s:1007963:e:729-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 8 серия Fallout:s:1066532:e:729-->
 <!----><!--2026-02-28 10:41:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/klinika_10_sezon_1_seriya_scrubs">
@@ -11229,7 +11856,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Клиника 10 сезон 1 серия Scrubs:s:1008795:e:702-->
+</div><!--n:Мир кино/Клиника 10 сезон 1 серия Scrubs:s:1067364:e:702-->
 <!----><!--2024-08-08 19:00:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/zamknutyj_krug_hju_djekmana">
@@ -11240,7 +11867,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-08-08</i>
   </div>
-</div><!--n:Мир кино/Замкнутый круг Хью Джекмана:s:1009587:e:632-->
+</div><!--n:Мир кино/Замкнутый круг Хью Джекмана:s:1068156:e:632-->
 <!----><!--2025-10-30 23:44:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_5_seriya_the_witcher">
@@ -11251,7 +11878,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 5 серия The Witcher:s:1010312:e:743-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 5 серия The Witcher:s:1068881:e:743-->
 <!----><!--2026-01-07 18:54:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_8_seriya_high_potential">
@@ -11262,7 +11889,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-07</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 8 серия High Potential:s:1011162:e:793-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 8 серия High Potential:s:1069731:e:793-->
 <!----><!--2025-10-22 19:51:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_6_seriya_high_potential">
@@ -11273,7 +11900,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-22</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 6 серия High Potential:s:1012084:e:793-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 6 серия High Potential:s:1070653:e:793-->
 <!----><!--2025-12-09 07:02:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_djej_kelli_jay_kelly">
@@ -11284,7 +11911,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Мир кино/Фильм Джей Келли Jay Kelly:s:1013006:e:684-->
+</div><!--n:Мир кино/Фильм Джей Келли Jay Kelly:s:1071575:e:684-->
 <!----><!--2025-11-12 17:48:01-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_9_seriya_the_morning_show">
@@ -11295,7 +11922,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-12</i>
   </div>
-</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 9 серия The Morning Show:s:1013772:e:781-->
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 9 серия The Morning Show:s:1072341:e:781-->
 <!----><!--2026-02-25 23:35:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_5_seriya_shrinking">
@@ -11306,7 +11933,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-25</i>
   </div>
-</div><!--n:Мир кино/Сериал Терапия 3 сезон 5 серия Shrinking:s:1014674:e:737-->
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 5 серия Shrinking:s:1073243:e:737-->
 <!----><!--2024-08-26 15:30:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/gollivudskij_konvejer_zvezd">
@@ -11317,7 +11944,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-08-26</i>
   </div>
-</div><!--n:Мир кино/Голливудский конвейер звёзд:s:1015516:e:633-->
+</div><!--n:Мир кино/Голливудский конвейер звёзд:s:1074085:e:633-->
 <!----><!--2026-01-29 15:44:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_7_seriya_fallout">
@@ -11328,7 +11955,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-29</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 7 серия Fallout:s:1016243:e:729-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 7 серия Fallout:s:1074812:e:729-->
 <!----><!--2024-11-09 15:30:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/odnajdy_prestupiv_zakon_-_aktery_i_aktrisy_kotorye_sideli_v_tjurme">
@@ -11339,7 +11966,18 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-11-09</i>
   </div>
-</div><!--n:Мир кино/Однажды преступив закон - актеры и актрисы которые сидели в тюрьме:s:1017075:e:792-->
+</div><!--n:Мир кино/Однажды преступив закон - актеры и актрисы которые сидели в тюрьме:s:1075644:e:792-->
+<!----><!--2026-03-22 16:18:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_11_seriya_the_pitt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8b5b48c9163c070f95febe7bb0996003/" src="http://pic.rtbcdn.ru/video/2026-03-22/af/22/af2225c43abce1382a01e172de59f75d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_11_seriya_the_pitt">Сериал Больница Питт 2 сезон 11 серия / The Pitt</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-22</i>
+  </div>
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 11 серия The Pitt:s:1076599:e:756-->
 <!----><!--2025-11-19 20:45:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_10_seriya_iz_10_the_morning_show">
@@ -11350,7 +11988,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-19</i>
   </div>
-</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 10 серия из 10 The Morning Show:s:1018030:e:804-->
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 10 серия из 10 The Morning Show:s:1077471:e:804-->
 <!----><!--2025-11-14 18:37:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_bezjalostnaya_stone_cold_fox">
@@ -11361,7 +11999,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-14</i>
   </div>
-</div><!--n:Мир кино/Фильм Безжалостная Stone Cold Fox:s:1018964:e:710-->
+</div><!--n:Мир кино/Фильм Безжалостная Stone Cold Fox:s:1078405:e:710-->
 <!----><!--2025-02-04 16:30:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/nezvezdnyj_mett_dejmon">
@@ -11372,7 +12010,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-02-04</i>
   </div>
-</div><!--n:Мир кино/Незвездный Мэтт Дэймон:s:1019766:e:624-->
+</div><!--n:Мир кино/Незвездный Мэтт Дэймон:s:1079207:e:624-->
 <!----><!--2025-11-29 11:07:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_dostat_noji_voskreshenie_pokojnika_wake_up_dead_man_a_knives_out_mystery_ekranka">
@@ -11383,7 +12021,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-29</i>
   </div>
-</div><!--n:Мир кино/Фильм Достать ножи Воскрешение покойника Wake Up Dead Man A Knives Out Mystery Экранка:s:1020474:e:897-->
+</div><!--n:Мир кино/Фильм Достать ножи Воскрешение покойника Wake Up Dead Man A Knives Out Mystery Экранка:s:1079915:e:897-->
 <!----><!--2026-01-18 22:27:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_lakomyj_kusok_the_rip">
@@ -11394,7 +12032,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-18</i>
   </div>
-</div><!--n:Мир кино/Фильм Лакомый кусок The Rip:s:1021542:e:690-->
+</div><!--n:Мир кино/Фильм Лакомый кусок The Rip:s:1080983:e:690-->
 <!----><!--2025-12-03 16:33:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_zvezda_ne_togo_masshtaba_tinsel_town">
@@ -11405,7 +12043,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Мир кино/Фильм Звезда не того масштаба Tinsel Town:s:1022318:e:742-->
+</div><!--n:Мир кино/Фильм Звезда не того масштаба Tinsel Town:s:1081759:e:742-->
 <!----><!--2024-04-29 19:00:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/aktery_odnoj_roli">
@@ -11416,7 +12054,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-04-29</i>
   </div>
-</div><!--n:Мир кино/Актеры одной роли:s:1023168:e:593-->
+</div><!--n:Мир кино/Актеры одной роли:s:1082609:e:593-->
 <!----><!--2026-01-28 12:25:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_mat_muh_mother_of_flies">
@@ -11427,7 +12065,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-28</i>
   </div>
-</div><!--n:Мир кино/Фильм Мать мух Mother of Flies:s:1023835:e:692-->
+</div><!--n:Мир кино/Фильм Мать мух Mother of Flies:s:1083276:e:692-->
 <!----><!--2025-06-08 17:59:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bezumnyj_maks_gibel_franshizy">
@@ -11438,7 +12076,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-06-08</i>
   </div>
-</div><!--n:Мир кино/Безумный Макс гибель франшизы:s:1024611:e:651-->
+</div><!--n:Мир кино/Безумный Макс гибель франшизы:s:1084052:e:651-->
 <!----><!--2024-05-18 19:00:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/gibel_mordobojnogo_janra">
@@ -11449,7 +12087,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-05-18</i>
   </div>
-</div><!--n:Мир кино/Гибель мордобойного жанра:s:1025359:e:623-->
+</div><!--n:Мир кино/Гибель мордобойного жанра:s:1084800:e:623-->
 <!----><!--2025-10-23 22:24:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ubijstva_v_odnom_zdanii_5_sezon_9_seriya_only_murders_in_the_building">
@@ -11460,7 +12098,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-23</i>
   </div>
-</div><!--n:Мир кино/Сериал Убийства в одном здании 5 сезон 9 серия Only Murders in the Building:s:1026072:e:857-->
+</div><!--n:Мир кино/Сериал Убийства в одном здании 5 сезон 9 серия Only Murders in the Building:s:1085513:e:857-->
 <!----><!--2025-11-27 20:27:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_2_seriya_stranger_things">
@@ -11471,7 +12109,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-27</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 2 серия Stranger Things:s:1027082:e:776-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 2 серия Stranger Things:s:1086523:e:776-->
 <!----><!--2025-11-24 17:34:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_sny_poezdov_train_dreams">
@@ -11482,7 +12120,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Мир кино/Фильм Сны поездов Train Dreams:s:1027978:e:697-->
+</div><!--n:Мир кино/Фильм Сны поездов Train Dreams:s:1087419:e:697-->
 <!----><!--2026-02-07 00:27:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_graciya_pomilovanie_blagodat_la_grazia_grace">
@@ -11493,7 +12131,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-07</i>
   </div>
-</div><!--n:Мир кино/Фильм Грация Помилование Благодать La grazia Grace:s:1028762:e:774-->
+</div><!--n:Мир кино/Фильм Грация Помилование Благодать La grazia Grace:s:1088203:e:774-->
 <!----><!--2025-12-12 11:26:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_begushchij_chelovek_the_running_man">
@@ -11504,7 +12142,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Мир кино/Фильм Бегущий человек The Running Man:s:1029659:e:730-->
+</div><!--n:Мир кино/Фильм Бегущий человек The Running Man:s:1089100:e:730-->
 <!----><!--2026-02-28 21:33:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/klinika_10_sezon_2_seriya_scrubs">
@@ -11515,7 +12153,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Клиника 10 сезон 2 серия Scrubs:s:1030487:e:702-->
+</div><!--n:Мир кино/Клиника 10 сезон 2 серия Scrubs:s:1089928:e:702-->
 <!----><!--2025-11-24 16:08:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_5_seriya_it_welcome_to_derry">
@@ -11526,7 +12164,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-24</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 5 серия IT Welcome to Derry:s:1031279:e:849-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 5 серия IT Welcome to Derry:s:1090720:e:849-->
 <!----><!--2026-02-22 13:47:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_neojidannaya_semya_guo_jia_jia_unexpected_family">
@@ -11537,7 +12175,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-22</i>
   </div>
-</div><!--n:Мир кино/Фильм Неожиданная семья Guo Jia Jia Unexpected Family:s:1032281:e:772-->
+</div><!--n:Мир кино/Фильм Неожиданная семья Guo Jia Jia Unexpected Family:s:1091722:e:772-->
 <!----><!--2025-07-26 16:30:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/stiven_spilberg_samyj_kassovyj_rejisser_gollivuda">
@@ -11548,7 +12186,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-07-26</i>
   </div>
-</div><!--n:Мир кино/Стивен Спилберг самый кассовый режиссер Голливуда:s:1033169:e:729-->
+</div><!--n:Мир кино/Стивен Спилберг самый кассовый режиссер Голливуда:s:1092610:e:729-->
 <!----><!--2024-09-05 15:30:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/predskazannye_provaly">
@@ -11559,7 +12197,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-09-05</i>
   </div>
-</div><!--n:Мир кино/Предсказанные провалы:s:1034033:e:610-->
+</div><!--n:Мир кино/Предсказанные провалы:s:1093474:e:610-->
 <!----><!--2025-02-27 16:30:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/doroga_k_krahu_filmy_unichtojivshie_karery_rejisserov">
@@ -11570,7 +12208,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-02-27</i>
   </div>
-</div><!--n:Мир кино/Дорога к краху фильмы уничтожившие карьеры режиссеров:s:1034726:e:748-->
+</div><!--n:Мир кино/Дорога к краху фильмы уничтожившие карьеры режиссеров:s:1094167:e:748-->
 <!----><!--2025-07-12 16:30:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/otmenennyj_kevin_spejsi">
@@ -11581,7 +12219,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-07-12</i>
   </div>
-</div><!--n:Мир кино/Отмененный Кевин Спейси:s:1035616:e:624-->
+</div><!--n:Мир кино/Отмененный Кевин Спейси:s:1095057:e:624-->
 <!----><!--2025-11-21 13:45:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_sobachij_patrul_operaciya_santa_lapkus_dog_patrol_operation_santa_paws">
@@ -11592,7 +12230,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-21</i>
   </div>
-</div><!--n:Мир кино/Фильм Собачий патруль Операция Санта Лапкус Dog Patrol Operation Santa Paws:s:1036326:e:861-->
+</div><!--n:Мир кино/Фильм Собачий патруль Операция Санта Лапкус Dog Patrol Operation Santa Paws:s:1095767:e:861-->
 <!----><!--2026-01-09 19:56:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_1_seriya_the_pitt">
@@ -11603,7 +12241,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 1 серия The Pitt:s:1037342:e:757-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 1 серия The Pitt:s:1096783:e:757-->
 <!----><!--2026-02-12 10:02:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_1_seriya_bridgerton">
@@ -11614,7 +12252,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 1 серия Bridgerton:s:1038214:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 1 серия Bridgerton:s:1097655:e:727-->
 <!----><!--2026-01-22 17:59:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_6_seriya_fallout">
@@ -11625,7 +12263,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-22</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 6 серия Fallout:s:1039042:e:733-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 6 серия Fallout:s:1098483:e:733-->
 <!----><!--2025-09-28 16:30:17-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/samye_bolshie_kassovye_provaly_nulevyh">
@@ -11636,7 +12274,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-09-28</i>
   </div>
-</div><!--n:Мир кино/Самые большие кассовые провалы нулевых:s:1039878:e:682-->
+</div><!--n:Мир кино/Самые большие кассовые провалы нулевых:s:1099319:e:682-->
 <!----><!--2026-01-05 15:46:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/proval_za_provalom">
@@ -11647,7 +12285,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Мир кино/Провал за провалом:s:1040674:e:604-->
+</div><!--n:Мир кино/Провал за провалом:s:1100115:e:604-->
 <!----><!--2024-10-17 14:30:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/frensis_ford_koppola_dyadya_talantlivogo_plemyannika">
@@ -11658,7 +12296,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-10-17</i>
   </div>
-</div><!--n:Мир кино/Фрэнсис Форд Коппола дядя талантливого племянника:s:1041354:e:739-->
+</div><!--n:Мир кино/Фрэнсис Форд Коппола дядя талантливого племянника:s:1100795:e:739-->
 <!----><!--2026-03-10 16:30:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/kventin_tarantino_60_let_-_prigovor">
@@ -11669,7 +12307,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2026-03-10</i>
   </div>
-</div><!--n:Мир кино/Квентин Тарантино 60 лет - приговор:s:1042228:e:670-->
+</div><!--n:Мир кино/Квентин Тарантино 60 лет - приговор:s:1101669:e:670-->
 <!----><!--2026-01-28 20:43:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_11_seriya_high_potential">
@@ -11680,7 +12318,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-28</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 11 серия High Potential:s:1043002:e:792-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 11 серия High Potential:s:1102443:e:792-->
 <!----><!--2026-02-04 22:15:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_12_seriya_high_potential">
@@ -11691,7 +12329,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-04</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 12 серия High Potential:s:1043924:e:792-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 12 серия High Potential:s:1103365:e:792-->
 <!----><!--2025-12-31 11:52:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/multfilm_zveropolis_2_zootopia_2">
@@ -11702,7 +12340,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Мир кино/Мультфильм Зверополис 2 Zootopia 2:s:1044846:e:712-->
+</div><!--n:Мир кино/Мультфильм Зверополис 2 Zootopia 2:s:1104287:e:712-->
 <!----><!--2026-02-12 10:03:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_2_seriya_shrinking">
@@ -11713,7 +12351,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Мир кино/Сериал Терапия 3 сезон 2 серия Shrinking:s:1045654:e:737-->
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 2 серия Shrinking:s:1105095:e:737-->
 <!----><!--2025-12-06 13:31:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_ispytaniya_na_frontire_granica_frontier_crucible">
@@ -11724,7 +12362,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-06</i>
   </div>
-</div><!--n:Мир кино/Фильм Испытания на фронтире Граница Frontier Crucible:s:1046496:e:786-->
+</div><!--n:Мир кино/Фильм Испытания на фронтире Граница Frontier Crucible:s:1105937:e:786-->
 <!----><!--2025-12-02 13:15:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_tron_ares_tron_ares">
@@ -11735,7 +12373,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Мир кино/Фильм Трон Арес Tron Ares:s:1047408:e:682-->
+</div><!--n:Мир кино/Фильм Трон Арес Tron Ares:s:1106849:e:682-->
 <!----><!--2024-06-29 19:00:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/hodyachaya_katastrofa_-_martin_lourens">
@@ -11746,7 +12384,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-06-29</i>
   </div>
-</div><!--n:Мир кино/Ходячая катастрофа - Мартин Лоуренс:s:1048170:e:668-->
+</div><!--n:Мир кино/Ходячая катастрофа - Мартин Лоуренс:s:1107611:e:668-->
 <!----><!--2025-10-30 23:39:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_4_seriya_the_witcher">
@@ -11757,7 +12395,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 4 серия The Witcher:s:1048945:e:743-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 4 серия The Witcher:s:1108386:e:743-->
 <!----><!--2025-12-18 23:42:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_1_seriya_fallout">
@@ -11768,7 +12406,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 1 серия Fallout:s:1049795:e:733-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 1 серия Fallout:s:1109236:e:733-->
 <!----><!--2025-10-30 23:11:57-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_1_seriya_the_witcher">
@@ -11779,7 +12417,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 1 серия The Witcher:s:1050631:e:743-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 1 серия The Witcher:s:1110072:e:743-->
 <!----><!--2025-04-26 15:30:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/kassovye_bomby">
@@ -11790,7 +12428,18 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-04-26</i>
   </div>
-</div><!--n:Мир кино/Кассовые бомбы:s:1051481:e:593-->
+</div><!--n:Мир кино/Кассовые бомбы:s:1110922:e:593-->
+<!----><!--2026-03-20 18:25:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_5_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ca6c431e105ddd5d5a27ded33e4239ef/" src="http://pic.rtbcdn.ru/video/2026-03-20/3e/c7/3ec7c2263b2530b67f771745db99902a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_5_seriya_scrubs">Сериал Клиника 10 сезон 5 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-20</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 5 серия Scrubs:s:1111584:e:729-->
 <!----><!--2024-11-21 15:30:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/tom_hardi_akter_ponevole">
@@ -11801,7 +12450,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-11-21</i>
   </div>
-</div><!--n:Мир кино/Том Харди актер поневоле:s:1052143:e:635-->
+</div><!--n:Мир кино/Том Харди актер поневоле:s:1112416:e:635-->
 <!----><!--2026-02-28 10:03:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_8_seriya_iz_8_bridgerton">
@@ -11812,7 +12461,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 8 серия из 8 Bridgerton:s:1052865:e:744-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 8 серия из 8 Bridgerton:s:1113138:e:744-->
 <!----><!--2026-03-03 21:00:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_1_seriya_marshals">
@@ -11823,7 +12472,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 1 серия Marshals:s:1053717:e:755-->
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 1 серия Marshals:s:1113990:e:755-->
 <!----><!--2025-10-30 23:45:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_7_seriya_the_witcher">
@@ -11834,7 +12483,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 7 серия The Witcher:s:1054586:e:743-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 7 серия The Witcher:s:1114859:e:743-->
 <!----><!--2026-02-01 15:20:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_gornyj_korol_mountain_king">
@@ -11845,7 +12494,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-01</i>
   </div>
-</div><!--n:Мир кино/Фильм Горный король Mountain King:s:1055436:e:702-->
+</div><!--n:Мир кино/Фильм Горный король Mountain King:s:1115709:e:702-->
+<!----><!--2026-03-19 15:35:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_krik_7_scream_7">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3e94c6a85f87b04eabfebc52756acc41/" src="http://pic.rtbcdn.ru/video/2026-03-19/7a/1c/7a1c67ee59bd97b139f4e596462d1b96.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_krik_7_scream_7">Фильм Крик 7 / Scream 7</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-19</i>
+  </div>
+</div><!--n:Мир кино/Фильм Крик 7 Scream 7:s:1116503:e:660-->
 <!----><!--2025-12-09 21:12:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_syn_plotnika_the_carpenter_s_son">
@@ -11856,7 +12516,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Мир кино/Фильм Сын плотника The Carpenter s Son:s:1056230:e:722-->
+</div><!--n:Мир кино/Фильм Сын плотника The Carpenter s Son:s:1117235:e:722-->
 <!----><!--2025-09-03 15:30:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/poslednij_aktiv_marvel_chelovek-pauk">
@@ -11867,7 +12527,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-09-03</i>
   </div>
-</div><!--n:Мир кино/Последний актив Marvel Человек-паук:s:1057048:e:670-->
+</div><!--n:Мир кино/Последний актив Marvel Человек-паук:s:1118053:e:670-->
 <!----><!--2026-02-28 10:15:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_5_seriya_bridgerton">
@@ -11878,7 +12538,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 5 серия Bridgerton:s:1057820:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 5 серия Bridgerton:s:1118825:e:727-->
 <!----><!--2026-03-04 23:53:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_6_seriya_shrinking">
@@ -11889,7 +12549,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-04</i>
   </div>
-</div><!--n:Мир кино/Сериал Терапия 3 сезон 6 серия Shrinking:s:1058648:e:737-->
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 6 серия Shrinking:s:1119653:e:737-->
 <!----><!--2026-03-03 11:50:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_formula_1_f1_the_movie">
@@ -11900,7 +12560,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Мир кино/Фильм Формула 1 F1 The Movie:s:1059490:e:685-->
+</div><!--n:Мир кино/Фильм Формула 1 F1 The Movie:s:1120495:e:685-->
 <!----><!--2025-03-16 15:30:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/hudshie_iz_hudshih">
@@ -11911,7 +12571,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-03-16</i>
   </div>
-</div><!--n:Мир кино/Худшие из худших:s:1060257:e:604-->
+</div><!--n:Мир кино/Худшие из худших:s:1121262:e:604-->
 <!----><!--2026-01-11 09:40:36-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_oskar_shou_oscar_shaw">
@@ -11922,7 +12582,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-11</i>
   </div>
-</div><!--n:Мир кино/Фильм Оскар Шоу Oscar Shaw:s:1060933:e:685-->
+</div><!--n:Мир кино/Фильм Оскар Шоу Oscar Shaw:s:1121938:e:685-->
 <!----><!--2025-09-22 16:30:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/aktery_kotorye_ne_smogli">
@@ -11933,7 +12593,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-09-22</i>
   </div>
-</div><!--n:Мир кино/Актеры которые не смогли:s:1061699:e:628-->
+</div><!--n:Мир кино/Актеры которые не смогли:s:1122704:e:628-->
 <!----><!--2025-10-31 16:30:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bessmertnye_sleshery">
@@ -11944,7 +12604,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-10-31</i>
   </div>
-</div><!--n:Мир кино/Бессмертные слэшеры:s:1062414:e:611-->
+</div><!--n:Мир кино/Бессмертные слэшеры:s:1123419:e:611-->
 <!----><!--2025-10-30 23:45:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_6_seriya_the_witcher">
@@ -11955,7 +12615,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 6 серия The Witcher:s:1063104:e:743-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 6 серия The Witcher:s:1124109:e:743-->
 <!----><!--2026-01-01 21:36:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_8_seriya_iz_8_stranger_things">
@@ -11966,7 +12626,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-01</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 8 серия из 8 Stranger Things:s:1063954:e:793-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 8 серия из 8 Stranger Things:s:1124959:e:793-->
 <!----><!--2025-12-29 12:02:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_proshchaj_djun_goodbye_june">
@@ -11977,7 +12637,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-29</i>
   </div>
-</div><!--n:Мир кино/Фильм Прощай Джун Goodbye June:s:1064874:e:704-->
+</div><!--n:Мир кино/Фильм Прощай Джун Goodbye June:s:1125879:e:704-->
 <!----><!--2024-07-11 20:00:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/vzlet_i_padenie_zombi">
@@ -11988,7 +12648,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-07-11</i>
   </div>
-</div><!--n:Мир кино/Взлёт и падение зомби:s:1065665:e:608-->
+</div><!--n:Мир кино/Взлёт и падение зомби:s:1126670:e:608-->
 <!----><!--2025-11-25 17:25:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/zlaya_navsegda_zlaya_chast_2_wicked_for_good_ekranka">
@@ -11999,7 +12659,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-25</i>
   </div>
-</div><!--n:Мир кино/Злая Навсегда Злая Часть 2 Wicked For Good Экранка:s:1066354:e:783-->
+</div><!--n:Мир кино/Злая Навсегда Злая Часть 2 Wicked For Good Экранка:s:1127359:e:783-->
+<!----><!--2026-03-21 01:01:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_grozovoj_pereval_wuthering_heights">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/832347b7946f9cb4367ba80dd9292a51/" src="http://pic.rtbcdn.ru/video/2026-03-20/76/d3/76d3f8a750a53edba3b79a98ce8e8184.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_grozovoj_pereval_wuthering_heights">Фильм Грозовой перевал / Wuthering Heights</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-21</i>
+  </div>
+</div><!--n:Мир кино/Фильм Грозовой перевал Wuthering Heights:s:1128262:e:728-->
 <!----><!--2026-03-14 01:14:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_ograblenie_v_los-andjelese_crime_101">
@@ -12010,7 +12681,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-14</i>
   </div>
-</div><!--n:Мир кино/Фильм Ограбление в Лос-Анджелесе Crime 101:s:1067257:e:742-->
+</div><!--n:Мир кино/Фильм Ограбление в Лос-Анджелесе Crime 101:s:1129092:e:742-->
 <!----><!--2026-03-01 23:46:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_missiya_nevypolnima_finalnaya_rasplata_mission_impossible_-_the_final_reckoning">
@@ -12021,7 +12692,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-01</i>
   </div>
-</div><!--n:Мир кино/Фильм Миссия невыполнима Финальная расплата Mission Impossible - The Final Reckoning:s:1068111:e:883-->
+</div><!--n:Мир кино/Фильм Миссия невыполнима Финальная расплата Mission Impossible - The Final Reckoning:s:1129946:e:883-->
 <!----><!--2025-10-29 19:44:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_7_seriya_the_morning_show">
@@ -12032,7 +12703,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-29</i>
   </div>
-</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 7 серия The Morning Show:s:1069159:e:781-->
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 7 серия The Morning Show:s:1130994:e:781-->
 <!----><!--2025-12-31 22:00:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_3_seriya_fallout">
@@ -12043,7 +12714,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-31</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 3 серия Fallout:s:1070061:e:733-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 3 серия Fallout:s:1131896:e:733-->
 <!----><!--2025-10-21 17:09:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/multfilm_svintusy_the_twits">
@@ -12054,7 +12725,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-21</i>
   </div>
-</div><!--n:Мир кино/Мультфильм Свинтусы The Twits:s:1070897:e:695-->
+</div><!--n:Мир кино/Мультфильм Свинтусы The Twits:s:1132732:e:695-->
 <!----><!--2024-09-30 21:30:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/boevaya_milla_jovovich">
@@ -12065,7 +12736,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-09-30</i>
   </div>
-</div><!--n:Мир кино/Боевая Милла Йовович:s:1071681:e:620-->
+</div><!--n:Мир кино/Боевая Милла Йовович:s:1133516:e:620-->
 <!----><!--2024-07-20 19:00:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/chudovishchnye_provaly_-_king_kong_godzilla_i_vse_ostalnye">
@@ -12076,7 +12747,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-07-20</i>
   </div>
-</div><!--n:Мир кино/Чудовищные провалы - Кинг Конг Годзилла и все остальные:s:1072381:e:745-->
+</div><!--n:Мир кино/Чудовищные провалы - Кинг Конг Годзилла и все остальные:s:1134216:e:745-->
 <!----><!--2026-03-04 23:34:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolshoj_potencial_2_sezon_13_seriya_high_potential">
@@ -12087,7 +12758,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-04</i>
   </div>
-</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 13 серия High Potential:s:1073269:e:792-->
+</div><!--n:Мир кино/Сериал Большой потенциал 2 сезон 13 серия High Potential:s:1135104:e:792-->
 <!----><!--2024-12-26 16:30:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/krepkij_oreshek_-_padenie_franshizy">
@@ -12098,7 +12769,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-12-26</i>
   </div>
-</div><!--n:Мир кино/Крепкий орешек - падение франшизы:s:1074191:e:669-->
+</div><!--n:Мир кино/Крепкий орешек - падение франшизы:s:1136026:e:669-->
 <!----><!--2026-02-13 23:26:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_6_seriya_the_pitt">
@@ -12109,7 +12780,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-13</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 6 серия The Pitt:s:1074963:e:753-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 6 серия The Pitt:s:1136798:e:753-->
 <!----><!--2026-02-12 10:03:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_1_seriya_shrinking">
@@ -12120,7 +12791,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Мир кино/Сериал Терапия 3 сезон 1 серия Shrinking:s:1075831:e:737-->
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 1 серия Shrinking:s:1137666:e:737-->
 <!----><!--2024-09-15 16:30:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/gibel_vselennoj_dc">
@@ -12131,7 +12802,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-09-15</i>
   </div>
-</div><!--n:Мир кино/Гибель Вселенной DC:s:1076673:e:597-->
+</div><!--n:Мир кино/Гибель Вселенной DC:s:1138508:e:597-->
 <!----><!--2026-02-12 10:02:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_3_seriya_bridgerton">
@@ -12142,7 +12813,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 3 серия Bridgerton:s:1077346:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 3 серия Bridgerton:s:1139181:e:727-->
 <!----><!--2026-02-07 17:36:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_5_seriya_the_pitt">
@@ -12153,7 +12824,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-07</i>
   </div>
-</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 5 серия The Pitt:s:1078174:e:753-->
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 5 серия The Pitt:s:1140009:e:753-->
 <!----><!--2026-02-19 10:45:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_4_seriya_shrinking">
@@ -12164,7 +12835,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-19</i>
   </div>
-</div><!--n:Мир кино/Сериал Терапия 3 сезон 4 серия Shrinking:s:1079042:e:737-->
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 4 серия Shrinking:s:1140877:e:737-->
+<!----><!--2026-03-18 23:49:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_8_seriya_shrinking">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/78cffcb3e989a4c1b6ee74cac75e9e95/" src="http://pic.rtbcdn.ru/video/2026-03-18/11/6d/116d54bbffa53c195e7e6786f0334964.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_8_seriya_shrinking">Сериал Терапия 3 сезон 8 серия / Shrinking</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-18</i>
+  </div>
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 8 серия Shrinking:s:1141719:e:737-->
 <!----><!--2025-12-02 00:53:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_6_seriya_it_welcome_to_derry">
@@ -12175,7 +12857,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-02</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 6 серия IT Welcome to Derry:s:1079884:e:849-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 6 серия IT Welcome to Derry:s:1142561:e:849-->
 <!----><!--2025-11-27 20:46:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_3_seriya_stranger_things">
@@ -12186,7 +12868,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-27</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 3 серия Stranger Things:s:1080886:e:776-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 3 серия Stranger Things:s:1143563:e:776-->
 <!----><!--2025-12-07 09:52:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_boje_kak_smeshno_oh_what_fun">
@@ -12197,7 +12879,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Мир кино/Фильм Боже Как Смешно Oh What Fun:s:1081782:e:717-->
+</div><!--n:Мир кино/Фильм Боже Как Смешно Oh What Fun:s:1144459:e:717-->
 <!----><!--2025-12-08 21:06:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_7_seriya_it_welcome_to_derry">
@@ -12208,7 +12890,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-08</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 7 серия IT Welcome to Derry:s:1082592:e:849-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 7 серия IT Welcome to Derry:s:1145269:e:849-->
 <!----><!--2025-12-30 11:20:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_odin_doma_2_zateryannyj_v_nju-jorke_home_alone_2_lost_in_new_york">
@@ -12219,7 +12901,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-30</i>
   </div>
-</div><!--n:Мир кино/Фильм Один дома 2 Затерянный в Нью-Йорке Home Alone 2 Lost in New York:s:1083594:e:838-->
+</div><!--n:Мир кино/Фильм Один дома 2 Затерянный в Нью-Йорке Home Alone 2 Lost in New York:s:1146271:e:838-->
 <!----><!--2025-10-24 22:42:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_dom_dinamita_a_house_of_dynamite">
@@ -12230,7 +12912,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-24</i>
   </div>
-</div><!--n:Мир кино/Фильм Дом динамита A House of Dynamite:s:1084576:e:722-->
+</div><!--n:Мир кино/Фильм Дом динамита A House of Dynamite:s:1147253:e:722-->
 <!----><!--2024-10-28 15:30:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/semjuel_l_djekson_-_glavnyj_fanat_lourensa_fishberna">
@@ -12241,7 +12923,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-10-28</i>
   </div>
-</div><!--n:Мир кино/Сэмюэл Л Джексон - главный фанат Лоуренса Фишберна:s:1085394:e:735-->
+</div><!--n:Мир кино/Сэмюэл Л Джексон - главный фанат Лоуренса Фишберна:s:1148071:e:735-->
 <!----><!--2025-11-27 20:23:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/ochen_strannye_dela_5_sezon_1_seriya_stranger_things">
@@ -12252,7 +12934,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-27</i>
   </div>
-</div><!--n:Мир кино/Очень странные дела 5 сезон 1 серия Stranger Things:s:1086263:e:776-->
+</div><!--n:Мир кино/Очень странные дела 5 сезон 1 серия Stranger Things:s:1148940:e:776-->
 <!----><!--2026-02-11 17:37:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_ohotnik_the_huntsman">
@@ -12263,7 +12945,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-11</i>
   </div>
-</div><!--n:Мир кино/Фильм Охотник The Huntsman:s:1087159:e:678-->
+</div><!--n:Мир кино/Фильм Охотник The Huntsman:s:1149836:e:678-->
+<!----><!--2026-03-24 23:43:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_4_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6f4f1928226760479cb7d65fabbc5f5f/" src="http://pic.rtbcdn.ru/video/2026-03-24/72/b8/72b8ae00e97c6ea50b2492b7ae0178a2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_4_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 4 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-24</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 4 серия Marshals:s:1150594:e:755-->
 <!----><!--2025-11-05 16:30:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_valsiruya_s_brando_waltzing_with_brando">
@@ -12274,7 +12967,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-05</i>
   </div>
-</div><!--n:Мир кино/Фильм Вальсируя с Брандо Waltzing with Brando:s:1087917:e:748-->
+</div><!--n:Мир кино/Фильм Вальсируя с Брандо Waltzing with Brando:s:1151463:e:748-->
 <!----><!--2025-05-15 16:30:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/denzel_vashington_korol_dvd">
@@ -12285,7 +12978,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-05-15</i>
   </div>
-</div><!--n:Мир кино/Дензел Вашингтон король DVD:s:1088773:e:644-->
+</div><!--n:Мир кино/Дензел Вашингтон король DVD:s:1152319:e:644-->
 <!----><!--2026-01-09 12:23:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_4_seriya_fallout">
@@ -12296,7 +12989,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 4 серия Fallout:s:1089507:e:733-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 4 серия Fallout:s:1153053:e:733-->
 <!----><!--2026-02-05 16:53:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_follaut_2_sezon_8_seriya_iz_8_fallout">
@@ -12307,7 +13000,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-05</i>
   </div>
-</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 8 серия из 8 Fallout:s:1090343:e:746-->
+</div><!--n:Мир кино/Сериал Фоллаут 2 сезон 8 серия из 8 Fallout:s:1153889:e:746-->
 <!----><!--2026-01-03 17:24:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_odin_doma_home_alone">
@@ -12318,7 +13011,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-03</i>
   </div>
-</div><!--n:Мир кино/Фильм Один дома Home Alone:s:1091199:e:683-->
+</div><!--n:Мир кино/Фильм Один дома Home Alone:s:1154745:e:683-->
 <!----><!--2026-02-19 01:19:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_miloserdie_kaznit_nelzya_pomilovat_mercy">
@@ -12329,7 +13022,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-19</i>
   </div>
-</div><!--n:Мир кино/Фильм Милосердие Казнить нельзя помиловать Mercy:s:1091963:e:768-->
+</div><!--n:Мир кино/Фильм Милосердие Казнить нельзя помиловать Mercy:s:1155509:e:768-->
 <!----><!--2025-10-21 16:30:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/kogda_proval_raven_uspehu">
@@ -12340,7 +13033,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-10-21</i>
   </div>
-</div><!--n:Мир кино/Когда провал равен успеху:s:1092859:e:631-->
+</div><!--n:Мир кино/Когда провал равен успеху:s:1156405:e:631-->
 <!----><!--2025-10-30 23:45:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_vedmak_4_sezon_8_seriya_iz_8_the_witcher">
@@ -12351,7 +13044,18 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-10-30</i>
   </div>
-</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 8 серия из 8 The Witcher:s:1093579:e:760-->
+</div><!--n:Мир кино/Сериал Ведьмак 4 сезон 8 серия из 8 The Witcher:s:1157125:e:760-->
+<!----><!--2026-03-20 18:20:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_4_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b27681a0c1b5ba3cadad44d545a49ed5/" src="http://pic.rtbcdn.ru/video/2026-03-13/dd/9d/dd9db54bea6dd45ab151e38d1802badb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_4_seriya_scrubs">Сериал Клиника 10 сезон 4 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-03-20</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 4 серия Scrubs:s:1157999:e:729-->
 <!----><!--2025-11-08 00:01:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_udacha_vezunchiki_good_fortune">
@@ -12362,7 +13066,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-08</i>
   </div>
-</div><!--n:Мир кино/Фильм Удача Везунчики Good Fortune:s:1094453:e:719-->
+</div><!--n:Мир кино/Фильм Удача Везунчики Good Fortune:s:1158831:e:719-->
 <!----><!--2026-02-12 12:36:08-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_terapiya_3_sezon_3_seriya_shrinking">
@@ -12373,7 +13077,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-02-12</i>
   </div>
-</div><!--n:Мир кино/Сериал Терапия 3 сезон 3 серия Shrinking:s:1095267:e:737-->
+</div><!--n:Мир кино/Сериал Терапия 3 сезон 3 серия Shrinking:s:1159645:e:737-->
 <!----><!--2025-11-10 18:34:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_3_seriya_it_welcome_to_derry">
@@ -12384,7 +13088,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-10</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 3 серия IT Welcome to Derry:s:1096109:e:849-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 3 серия IT Welcome to Derry:s:1160487:e:849-->
 <!----><!--2025-12-15 16:53:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_ono_dobro_pojalovat_v_derri_1_sezon_8_seriya_iz_8_it_welcome_to_derry">
@@ -12395,7 +13099,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-15</i>
   </div>
-</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 8 серия из 8 IT Welcome to Derry:s:1097111:e:866-->
+</div><!--n:Мир кино/Сериал Оно Добро пожаловать в Дерри 1 сезон 8 серия из 8 IT Welcome to Derry:s:1161489:e:866-->
 <!----><!--2024-10-06 15:30:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/zaplanirovannye_uspehi_stavshie_provalami">
@@ -12406,7 +13110,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-10-06</i>
   </div>
-</div><!--n:Мир кино/Запланированные успехи ставшие провалами:s:1098137:e:698-->
+</div><!--n:Мир кино/Запланированные успехи ставшие провалами:s:1162515:e:698-->
 <!----><!--2026-01-07 11:05:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_den_pitera_hudjara_peter_hujar_s_day">
@@ -12417,7 +13121,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-01-07</i>
   </div>
-</div><!--n:Мир кино/Фильм День Питера Худжара Peter Hujar s Day:s:1098954:e:741-->
+</div><!--n:Мир кино/Фильм День Питера Худжара Peter Hujar s Day:s:1163332:e:741-->
 <!----><!--2024-07-30 19:00:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/padenie_sema_uortingtona">
@@ -12428,7 +13132,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-07-30</i>
   </div>
-</div><!--n:Мир кино/Падение Сэма Уортингтона:s:1099802:e:621-->
+</div><!--n:Мир кино/Падение Сэма Уортингтона:s:1164180:e:621-->
 <!----><!--2025-12-12 12:46:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_merv_merf_merv">
@@ -12439,7 +13143,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Мир кино/Фильм Мерв Мерф Merv:s:1100511:e:667-->
+</div><!--n:Мир кино/Фильм Мерв Мерф Merv:s:1164889:e:667-->
 <!----><!--2025-08-09 16:30:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/gibel_karery_nastoyashchih_professionalov">
@@ -12450,7 +13154,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-08-09</i>
   </div>
-</div><!--n:Мир кино/Гибель карьеры настоящих профессионалов:s:1101253:e:691-->
+</div><!--n:Мир кино/Гибель карьеры настоящих профессионалов:s:1165631:e:691-->
 <!----><!--2026-03-09 23:28:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_voennaya_mashina_war_machine">
@@ -12461,7 +13165,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-09</i>
   </div>
-</div><!--n:Мир кино/Фильм Военная машина War Machine:s:1102061:e:706-->
+</div><!--n:Мир кино/Фильм Военная машина War Machine:s:1166439:e:706-->
 <!----><!--2026-03-11 23:52:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_2_seriya_marshals">
@@ -12472,7 +13176,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-11</i>
   </div>
-</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 2 серия Marshals:s:1102859:e:755-->
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 2 серия Marshals:s:1167237:e:755-->
 <!----><!--2025-01-18 19:40:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/otkrovennye_trillery_-_gibel_janra">
@@ -12483,7 +13187,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2025-01-18</i>
   </div>
-</div><!--n:Мир кино/Откровенные триллеры - гибель жанра:s:1103728:e:671-->
+</div><!--n:Мир кино/Откровенные триллеры - гибель жанра:s:1168106:e:671-->
 <!----><!--2025-12-03 22:51:39-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/film_moj_tajnyj_santa_my_secret_santa">
@@ -12494,7 +13198,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Мир кино/Фильм Мой тайный Санта My Secret Santa:s:1104506:e:725-->
+</div><!--n:Мир кино/Фильм Мой тайный Санта My Secret Santa:s:1168884:e:725-->
 <!----><!--2025-11-05 19:43:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_8_seriya_the_morning_show">
@@ -12505,7 +13209,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2025-11-05</i>
   </div>
-</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 8 серия The Morning Show:s:1105330:e:781-->
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 8 серия The Morning Show:s:1169708:e:781-->
 <!----><!--2026-02-28 16:30:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/filmy-prizraki_-_otsnyatye_i_ischeznuvshie">
@@ -12516,7 +13220,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2026-02-28</i>
   </div>
-</div><!--n:Мир кино/Фильмы-призраки - отснятые и исчезнувшие:s:1106232:e:692-->
+</div><!--n:Мир кино/Фильмы-призраки - отснятые и исчезнувшие:s:1170610:e:692-->
 <!----><!--2024-06-22 19:00:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/prervannyj_polet_-_majkl_dj_foks">
@@ -12527,7 +13231,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2024-06-22</i>
   </div>
-</div><!--n:Мир кино/Прерванный полёт - Майкл Дж Фокс:s:1107040:e:650-->
+</div><!--n:Мир кино/Прерванный полёт - Майкл Дж Фокс:s:1171418:e:650-->
 <!----><!--2026-03-03 20:36:46-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/bridjertony_4_sezon_8_seriya_bridgerton">
@@ -12538,7 +13242,7 @@
     <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
     <i class="smaller3">2026-03-03</i>
   </div>
-</div><!--n:Мир кино/Бриджертоны 4 сезон 8 серия Bridgerton:s:1107790:e:727-->
+</div><!--n:Мир кино/Бриджертоны 4 сезон 8 серия Bridgerton:s:1172168:e:727-->
 <!----><!--2026-01-24 16:31:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/provalnye_uspehi">
@@ -12549,7 +13253,7 @@
     <p><i class="smaller2">GreenGrass</i></p>
     <i class="smaller3">2026-01-24</i>
   </div>
-</div><!--n:Мир кино/Провальные успехи:s:1108618:e:599-->
+</div><!--n:Мир кино/Провальные успехи:s:1172996:e:599-->
 <!----><!--2026-01-06 12:26:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/dead_feed_prohojdenie_bez_kommentariev_psihologicheskij_horror_na_ohote_za_privideniyami">
@@ -12560,7 +13264,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-06</i>
   </div>
-</div><!--n:Компьютерные игры/Dead Feed ПРОХОЖДЕНИЕ БЕЗ КОММЕНТАРИЕВ Психологический хоррор на охоте за привидениями:s:1109292:e:895-->
+</div><!--n:Компьютерные игры/Dead Feed ПРОХОЖДЕНИЕ БЕЗ КОММЕНТАРИЕВ Психологический хоррор на охоте за привидениями:s:1173670:e:895-->
 <!----><!--2025-12-07 10:35:41-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/routine_pervye_minuty_igry_-_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -12571,7 +13275,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/Routine первые минуты игры - геймплей на ПК Прохождение без комментариев Релиз 2025:s:1110401:e:888-->
+</div><!--n:Компьютерные игры/Routine первые минуты игры - геймплей на ПК Прохождение без комментариев Релиз 2025:s:1174779:e:888-->
 <!----><!--2025-12-10 14:21:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/unbeatable_ritm-prikljuchenie_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -12582,7 +13286,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/UNBEATABLE Ритм-приключение на ПК Прохождение без комментариев Релиз 2025:s:1111491:e:856-->
+</div><!--n:Компьютерные игры/UNBEATABLE Ритм-приключение на ПК Прохождение без комментариев Релиз 2025:s:1175869:e:856-->
 <!----><!--2026-01-05 23:23:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/umbra_halloween_prohojdenie_sjurrealistichnyj_psihologicheskij_horror_-_bez_kommentariev">
@@ -12593,7 +13297,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Компьютерные игры/Umbra Halloween ПРОХОЖДЕНИЕ Сюрреалистичный психологический хоррор - Без комментариев:s:1112530:e:887-->
+</div><!--n:Компьютерные игры/Umbra Halloween ПРОХОЖДЕНИЕ Сюрреалистичный психологический хоррор - Без комментариев:s:1176908:e:887-->
 <!----><!--2026-01-04 11:54:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/spring_me_up_gejmplej_na_pk_-_slojnejshij_2_5d_platformer_s_prujinoj">
@@ -12604,7 +13308,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/Spring Me Up ГЕЙМПЛЕЙ НА ПК - Сложнейший 2 5D платформер с пружиной:s:1113624:e:809-->
+</div><!--n:Компьютерные игры/Spring Me Up ГЕЙМПЛЕЙ НА ПК - Сложнейший 2 5D платформер с пружиной:s:1178002:e:809-->
 <!----><!--2025-12-03 13:54:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/she_s_leaving_pervye_minuty_igry_gejmplej_na_pk_4k_prohojdenie_bez_kommentariev">
@@ -12615,7 +13319,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Компьютерные игры/SHE S LEAVING первые минуты игры геймплей на ПК 4K Прохождение без комментариев:s:1114601:e:863-->
+</div><!--n:Компьютерные игры/SHE S LEAVING первые минуты игры геймплей на ПК 4K Прохождение без комментариев:s:1178979:e:863-->
 <!----><!--2025-12-10 14:49:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/express_no_6_-_pervye_minuty_igry_prohojdenie_bez_kommentariev_reliz_2025">
@@ -12626,7 +13330,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Express No 6 - Первые минуты игры Прохождение без комментариев Релиз 2025:s:1115657:e:847-->
+</div><!--n:Компьютерные игры/Express No 6 - Первые минуты игры Прохождение без комментариев Релиз 2025:s:1180035:e:847-->
 <!----><!--2025-12-25 22:38:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/bluey_the_videogame_vse_kat-sceny_i_polnyj_multfilm_semejnoe_prikljuchenie_bez_kommentariev">
@@ -12637,7 +13341,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-25</i>
   </div>
-</div><!--n:Компьютерные игры/Bluey The Videogame Все Кат-сцены и Полный Мультфильм Семейное Приключение Без Комментариев:s:1116684:e:904-->
+</div><!--n:Компьютерные игры/Bluey The Videogame Все Кат-сцены и Полный Мультфильм Семейное Приключение Без Комментариев:s:1181062:e:904-->
 <!----><!--2025-12-10 00:03:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/forgot_pervye_minuty_igry_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -12648,7 +13352,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Forgot Первые минуты игры на ПК Прохождение без комментариев Релиз 2025:s:1117801:e:847-->
+</div><!--n:Компьютерные игры/Forgot Первые минуты игры на ПК Прохождение без комментариев Релиз 2025:s:1182179:e:847-->
 <!----><!--2025-12-18 18:08:22-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/bottle_can_float_gejmplej_na_pk_rasslablyajushchaya_igra_o_plavajushchej_butylke_bez_kommentariev">
@@ -12659,7 +13363,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Bottle Can Float Геймплей на ПК Расслабляющая игра о плавающей бутылке Без комментариев:s:1118830:e:917-->
+</div><!--n:Компьютерные игры/Bottle Can Float Геймплей на ПК Расслабляющая игра о плавающей бутылке Без комментариев:s:1183208:e:917-->
 <!----><!--2025-12-12 13:00:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/the_silent_bunker_screaming_echoes_pervye_minuty_igry_na_pk_gejmplej_bez_kommentariev">
@@ -12670,7 +13374,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/THE SILENT BUNKER SCREAMING ECHOES Первые минуты игры на ПК Геймплей Без комментариев:s:1119955:e:875-->
+</div><!--n:Компьютерные игры/THE SILENT BUNKER SCREAMING ECHOES Первые минуты игры на ПК Геймплей Без комментариев:s:1184333:e:875-->
 <!----><!--2026-01-04 00:27:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/explosiovania_pervyj_gejmplej_na_pk_raketnye_pryjki_i_ogromnyj_mir_demo">
@@ -12681,7 +13385,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/Explosiovania ПЕРВЫЙ ГЕЙМПЛЕЙ НА ПК Ракетные прыжки и огромный мир (Демо):s:1121018:e:829-->
+</div><!--n:Компьютерные игры/Explosiovania ПЕРВЫЙ ГЕЙМПЛЕЙ НА ПК Ракетные прыжки и огромный мир (Демо):s:1185396:e:829-->
 <!----><!--2025-12-05 15:32:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/subliminal_gejmplej_na_pk_prohojdenie_bez_kommentariev_demo-versiya_reliz_2025">
@@ -12692,7 +13396,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/Subliminal геймплей на ПК Прохождение без комментариев Демо-версия Релиз 2025:s:1122028:e:864-->
+</div><!--n:Компьютерные игры/Subliminal геймплей на ПК Прохождение без комментариев Демо-версия Релиз 2025:s:1186406:e:864-->
 <!----><!--2025-12-25 23:18:21-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/bluey_the_videogame_polnoe_prohojdenie_igry_za_100_semejnoe_prikljuchenie_s_blui">
@@ -12703,7 +13407,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-25</i>
   </div>
-</div><!--n:Компьютерные игры/Bluey The Videogame ПОЛНОЕ ПРОХОЖДЕНИЕ Игры за 100 Семейное приключение с Блуи:s:1123082:e:856-->
+</div><!--n:Компьютерные игры/Bluey The Videogame ПОЛНОЕ ПРОХОЖДЕНИЕ Игры за 100 Семейное приключение с Блуи:s:1187460:e:856-->
 <!----><!--2026-01-04 12:23:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/nightpyre_gejmplej_demo-versii_narrative_roguelite_s_kastomizaciej_magii_pc">
@@ -12714,7 +13418,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/Nightpyre ГЕЙМПЛЕЙ ДЕМО-ВЕРСИИ Narrative Roguelite с кастомизацией магии PC:s:1124123:e:833-->
+</div><!--n:Компьютерные игры/Nightpyre ГЕЙМПЛЕЙ ДЕМО-ВЕРСИИ Narrative Roguelite с кастомизацией магии PC:s:1188501:e:833-->
 <!----><!--2025-12-07 10:35:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/spongebob_squarepants_titans_of_the_tide_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -12725,7 +13429,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/SpongeBob SquarePants Titans of the Tide геймплей на ПК Прохождение без комментариев:s:1125128:e:862-->
+</div><!--n:Компьютерные игры/SpongeBob SquarePants Titans of the Tide геймплей на ПК Прохождение без комментариев:s:1189506:e:862-->
 <!----><!--2025-12-03 12:07:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/sorcerer_s_servant_pervye_minuty_igry_gejmplej_na_pk_4k_prohojdenie_bez_kommentariev">
@@ -12736,7 +13440,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Компьютерные игры/Sorcerer s Servant первые минуты игры геймплей на ПК 4K Прохождение без комментариев:s:1126172:e:878-->
+</div><!--n:Компьютерные игры/Sorcerer s Servant первые минуты игры геймплей на ПК 4K Прохождение без комментариев:s:1190550:e:878-->
 <!----><!--2026-01-05 22:23:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/girl_frame_gejmplej_na_pk_sci-fi_vyjivanie_mehi_i_piloty-devushki_bez_kommentariev">
@@ -12747,7 +13451,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Компьютерные игры/Girl Frame ГЕЙМПЛЕЙ НА ПК Sci-fi выживание, мехи и пилоты-девушки Без комментариев:s:1127248:e:879-->
+</div><!--n:Компьютерные игры/Girl Frame ГЕЙМПЛЕЙ НА ПК Sci-fi выживание, мехи и пилоты-девушки Без комментариев:s:1191626:e:879-->
 <!----><!--2025-12-10 15:53:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/boxing_simulator_pervye_minuty_igry_prohojdenie_bez_kommentariev_rannij_dostup_2025">
@@ -12758,7 +13462,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Boxing Simulator Первые минуты игры Прохождение без комментариев Ранний доступ 2025:s:1128323:e:883-->
+</div><!--n:Компьютерные игры/Boxing Simulator Первые минуты игры Прохождение без комментариев Ранний доступ 2025:s:1192701:e:883-->
 <!----><!--2025-12-04 19:38:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/grandma_is_that_you_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -12769,7 +13473,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Компьютерные игры/Grandma Is That You первые минуты игры геймплей на ПК Прохождение без комментариев:s:1129403:e:873-->
+</div><!--n:Компьютерные игры/Grandma Is That You первые минуты игры геймплей на ПК Прохождение без комментариев:s:1193781:e:873-->
 <!----><!--2025-12-18 20:26:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/crush_depth_davlenie_glubin_gejmplej_na_pk_horror_na_dne_okeana_bez_kommentariev">
@@ -12780,7 +13484,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/CRUSH DEPTH Давление Глубин Геймплей на ПК Хоррор на дне океана Без комментариев:s:1130472:e:879-->
+</div><!--n:Компьютерные игры/CRUSH DEPTH Давление Глубин Геймплей на ПК Хоррор на дне океана Без комментариев:s:1194850:e:879-->
 <!----><!--2025-12-07 17:38:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/cursed_new_year_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -12791,7 +13495,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/Cursed New Year геймплей на ПК Прохождение без комментариев Релиз 2025:s:1131549:e:829-->
+</div><!--n:Компьютерные игры/Cursed New Year геймплей на ПК Прохождение без комментариев Релиз 2025:s:1195927:e:829-->
 <!----><!--2025-12-05 15:10:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/american_truck_simulator_luiziana_gejmplej_dlc_2025_prohojdenie_bez_kommentariev">
@@ -12802,7 +13506,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/American Truck Simulator Луизиана Геймплей DLC 2025 Прохождение без комментариев:s:1132551:e:857-->
+</div><!--n:Компьютерные игры/American Truck Simulator Луизиана Геймплей DLC 2025 Прохождение без комментариев:s:1196929:e:857-->
 <!----><!--2025-12-18 19:07:14-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/toroa_skycall_gejmplej_na_pk_relaksirujushchij_polet_albatrosa_bez_kommentariev">
@@ -12813,7 +13517,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Toroa Skycall Геймплей на ПК Релаксирующий полёт альбатроса Без комментариев:s:1133590:e:865-->
+</div><!--n:Компьютерные игры/Toroa Skycall Геймплей на ПК Релаксирующий полёт альбатроса Без комментариев:s:1197968:e:865-->
 <!----><!--2025-12-10 13:54:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/the_cold_white_holodnoe_vyjivanie_na_alyaske_bez_kommentariev_reliz_2024">
@@ -12824,7 +13528,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/The Cold White Холодное выживание на Аляске Без комментариев Релиз 2024:s:1134646:e:840-->
+</div><!--n:Компьютерные игры/The Cold White Холодное выживание на Аляске Без комментариев Релиз 2024:s:1199024:e:840-->
 <!----><!--2025-12-12 12:15:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/crosak_pervye_minuty_igry_na_pk_doistoricheskoe_prikljuchenie_iz_plastilina_bez_kommentariev">
@@ -12835,7 +13539,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/CROSAK Первые минуты игры на ПК Доисторическое приключение из пластилина Без комментариев:s:1135662:e:920-->
+</div><!--n:Компьютерные игры/CROSAK Первые минуты игры на ПК Доисторическое приключение из пластилина Без комментариев:s:1200040:e:920-->
 <!----><!--2025-12-18 17:56:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/vampiress_eternal_duet_pervye_minuty_igry_na_pk_bez_kommentariev">
@@ -12846,7 +13550,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Vampiress Eternal Duet Первые минуты игры на ПК Без комментариев:s:1136803:e:813-->
+</div><!--n:Компьютерные игры/Vampiress Eternal Duet Первые минуты игры на ПК Без комментариев:s:1201181:e:813-->
 <!----><!--2026-01-04 00:27:09-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/explosiovania_pervyj_gejmplej_na_pk_raketnye_pryjki_i_ogromnyj_mir_demo">
@@ -12857,7 +13561,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/Explosiovania ПЕРВЫЙ ГЕЙМПЛЕЙ НА ПК Ракетные прыжки и огромный мир Демо:s:1137775:e:829-->
+</div><!--n:Компьютерные игры/Explosiovania ПЕРВЫЙ ГЕЙМПЛЕЙ НА ПК Ракетные прыжки и огромный мир Демо:s:1202153:e:829-->
 <!----><!--2025-12-04 21:51:59-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/flotsam_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -12868,7 +13572,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Компьютерные игры/Flotsam первые минуты игры геймплей на ПК Прохождение без комментариев:s:1138783:e:834-->
+</div><!--n:Компьютерные игры/Flotsam первые минуты игры геймплей на ПК Прохождение без комментариев:s:1203161:e:834-->
 <!----><!--2026-01-09 13:00:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/ancient_farm_-_pervye_minuty_gejmplej_-_ferma_v_drevnem_egipte_s_nulya_bez_kommentariev">
@@ -12879,7 +13583,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Компьютерные игры/Ancient Farm - ПЕРВЫЕ минуты ГЕЙМПЛЕЙ - Ферма в Древнем Египте с НУЛЯ Без комментариев:s:1139801:e:880-->
+</div><!--n:Компьютерные игры/Ancient Farm - ПЕРВЫЕ минуты ГЕЙМПЛЕЙ - Ферма в Древнем Египте с НУЛЯ Без комментариев:s:1204179:e:880-->
 <!----><!--2025-12-12 13:42:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/kamikaze_strike_fpv_drone_pervye_minuty_igry_na_pk_bez_kommentariev">
@@ -12890,7 +13594,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/Kamikaze Strike FPV Drone Первые минуты игры на ПК Без комментариев:s:1140886:e:817-->
+</div><!--n:Компьютерные игры/Kamikaze Strike FPV Drone Первые минуты игры на ПК Без комментариев:s:1205264:e:817-->
 <!----><!--2026-01-08 23:22:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/red_dawn_gejmplej_v_rannem_dostupe_anime-srpg_v_duhe_xcom_pro_vojnu_shkol">
@@ -12901,7 +13605,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-08</i>
   </div>
-</div><!--n:Компьютерные игры/RED DAWN ГЕЙМПЛЕЙ В РАННЕМ ДОСТУПЕ Аниме-SRPG в духе XCOM про войну школ:s:1141865:e:840-->
+</div><!--n:Компьютерные игры/RED DAWN ГЕЙМПЛЕЙ В РАННЕМ ДОСТУПЕ Аниме-SRPG в духе XCOM про войну школ:s:1206243:e:840-->
 <!----><!--2025-12-12 12:45:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/mamon_king_pervye_minuty_igry_na_pk_simulyator_vyrashchivaniya_monstrov_bez_kommentariev">
@@ -12912,7 +13616,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/Mamon King Первые минуты игры на ПК Симулятор выращивания монстров Без комментариев:s:1142881:e:900-->
+</div><!--n:Компьютерные игры/Mamon King Первые минуты игры на ПК Симулятор выращивания монстров Без комментариев:s:1207259:e:900-->
 <!----><!--2026-01-04 11:54:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/spring_me_up_gejmplej_na_pk_-_slojnejshij_25d_platformer_s_prujinoj">
@@ -12923,7 +13627,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/Spring Me Up ГЕЙМПЛЕЙ НА ПК - Сложнейший 2.5D платформер с пружиной:s:1143987:e:807-->
+</div><!--n:Компьютерные игры/Spring Me Up ГЕЙМПЛЕЙ НА ПК - Сложнейший 2.5D платформер с пружиной:s:1208365:e:807-->
 <!----><!--2025-12-18 21:07:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/jenny_love_you_gejmplej_na_pk_horror_v_osobnyake_s_devochkoj_v_krasnom_bez_kommentariev">
@@ -12934,7 +13638,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Jenny Love You Геймплей на ПК Хоррор в особняке с девочкой в красном Без комментариев:s:1144962:e:893-->
+</div><!--n:Компьютерные игры/Jenny Love You Геймплей на ПК Хоррор в особняке с девочкой в красном Без комментариев:s:1209340:e:893-->
 <!----><!--2025-12-22 21:29:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/rise_again_gejmplej_na_pk_proklyatyj_volshebnik_v_beskonechnyh_podzemelyah_bez_kommentariev">
@@ -12945,7 +13649,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Компьютерные игры/Rise Again Геймплей на ПК Проклятый волшебник в бесконечных подземельях Без комментариев:s:1146059:e:914-->
+</div><!--n:Компьютерные игры/Rise Again Геймплей на ПК Проклятый волшебник в бесконечных подземельях Без комментариев:s:1210437:e:914-->
 <!----><!--2025-12-11 17:24:44-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/gta_5_online_polnoe_prohojdenie_dlc_s_majklom_bez_kommentariev">
@@ -12956,7 +13660,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-11</i>
   </div>
-</div><!--n:Компьютерные игры/GTA 5 ONLINE Полное прохождение DLC с Майклом Без комментариев:s:1147189:e:793-->
+</div><!--n:Компьютерные игры/GTA 5 ONLINE Полное прохождение DLC с Майклом Без комментариев:s:1211567:e:793-->
 <!----><!--2026-01-03 23:46:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/daemonbride_additional_gain_gejmplej_bez_kommentariev_na_pk_vse_17_personajej_reliz_2025">
@@ -12967,7 +13671,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-03</i>
   </div>
-</div><!--n:Компьютерные игры/DaemonBride ADDITIONAL GAIN ГЕЙМПЛЕЙ БЕЗ КОММЕНТАРИЕВ на ПК ВСЕ 17 ПЕРСОНАЖЕЙ Релиз 2025:s:1148144:e:881-->
+</div><!--n:Компьютерные игры/DaemonBride ADDITIONAL GAIN ГЕЙМПЛЕЙ БЕЗ КОММЕНТАРИЕВ на ПК ВСЕ 17 ПЕРСОНАЖЕЙ Релиз 2025:s:1212522:e:881-->
 <!----><!--2025-12-27 21:06:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/letherfall_prohojdenie_bez_kommentariev_-_psihologicheskij_horror_golovolomki">
@@ -12978,7 +13682,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Компьютерные игры/Letherfall ПРОХОЖДЕНИЕ БЕЗ КОММЕНТАРИЕВ - Психологический хоррор головоломки:s:1149218:e:859-->
+</div><!--n:Компьютерные игры/Letherfall ПРОХОЖДЕНИЕ БЕЗ КОММЕНТАРИЕВ - Психологический хоррор головоломки:s:1213596:e:859-->
 <!----><!--2025-12-10 12:46:48-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/glowkeeper_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -12989,7 +13693,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Glowkeeper Первые минуты игры геймплей на ПК Прохождение без комментариев Релиз 2025:s:1150271:e:891-->
+</div><!--n:Компьютерные игры/Glowkeeper Первые минуты игры геймплей на ПК Прохождение без комментариев Релиз 2025:s:1214649:e:891-->
 <!----><!--2025-12-05 14:13:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/destiny_2_renegades_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -13000,7 +13704,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/DESTINY 2 RENEGADES первые минуты игры геймплей на ПК Прохождение без комментариев:s:1151365:e:872-->
+</div><!--n:Компьютерные игры/DESTINY 2 RENEGADES первые минуты игры геймплей на ПК Прохождение без комментариев:s:1215743:e:872-->
 <!----><!--2025-12-12 01:00:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/beholgar_2_pervye_minuty_igry_na_pk_igra_v_retro-stile_bez_kommentariev_reliz_2025">
@@ -13011,7 +13715,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/Beholgar 2 Первые минуты игры на ПК ИГРА в ретро-стиле Без комментариев Релиз 2025:s:1152433:e:889-->
+</div><!--n:Компьютерные игры/Beholgar 2 Первые минуты игры на ПК ИГРА в ретро-стиле Без комментариев Релиз 2025:s:1216811:e:889-->
 <!----><!--2025-12-18 19:47:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/eternity_egg_pervye_minuty_igry_na_pk_bez_kommentariev_rannij_dostup_2025">
@@ -13022,7 +13726,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Eternity Egg Первые минуты игры на ПК Без комментариев Ранний доступ 2025:s:1153519:e:845-->
+</div><!--n:Компьютерные игры/Eternity Egg Первые минуты игры на ПК Без комментариев Ранний доступ 2025:s:1217897:e:845-->
 <!----><!--2025-12-15 00:33:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/soul_demon_hunters_pervye_minuty_igry_na_pk_2d_pixel-art_ekshen_-_bez_kommentariev_2025">
@@ -13033,7 +13737,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-15</i>
   </div>
-</div><!--n:Компьютерные игры/Soul Demon Hunters Первые минуты игры на ПК 2D Pixel-Art Экшен - Без комментариев 2025:s:1154544:e:877-->
+</div><!--n:Компьютерные игры/Soul Demon Hunters Первые минуты игры на ПК 2D Pixel-Art Экшен - Без комментариев 2025:s:1218922:e:877-->
 <!----><!--2026-01-04 12:23:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/nightpyre_gejmplej_demo-versii_narrative_roguelite_s_kastomizaciej_magii_pc">
@@ -13044,7 +13748,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/Nightpyre ГЕЙМПЛЕЙ ДЕМО-ВЕРСИИ Narrative Roguelite с кастомизацией магии (PC):s:1155607:e:833-->
+</div><!--n:Компьютерные игры/Nightpyre ГЕЙМПЛЕЙ ДЕМО-ВЕРСИИ Narrative Roguelite с кастомизацией магии (PC):s:1219985:e:833-->
 <!----><!--2025-12-05 14:04:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/ferocious_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -13055,7 +13759,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/FEROCIOUS первые минуты игры геймплей на ПК Прохождение без комментариев:s:1156614:e:840-->
+</div><!--n:Компьютерные игры/FEROCIOUS первые минуты игры геймплей на ПК Прохождение без комментариев:s:1220992:e:840-->
 <!----><!--2025-12-12 12:00:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/liminal_waters_pervye_minuty_igry_na_pk_gejmplej_bez_kommentariev">
@@ -13066,7 +13770,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/LIMINAL WATERS Первые минуты игры на ПК Геймплей без комментариев:s:1157640:e:815-->
+</div><!--n:Компьютерные игры/LIMINAL WATERS Первые минуты игры на ПК Геймплей без комментариев:s:1222018:e:815-->
 <!----><!--2025-12-07 09:29:56-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/bio_goddess_pervye_minuty_igry_prohojdenie_bez_kommentariev_rannij_dostup_2025">
@@ -13077,7 +13781,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/Bio Goddess первые минуты игры Прохождение без комментариев Ранний доступ 2025:s:1158623:e:862-->
+</div><!--n:Компьютерные игры/Bio Goddess первые минуты игры Прохождение без комментариев Ранний доступ 2025:s:1223001:e:862-->
 <!----><!--2026-02-15 00:25:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/toony's_daycare_polnoe_prohojdenie_2025_detektiv_bez_kommentariev">
@@ -13088,7 +13792,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-02-15</i>
   </div>
-</div><!--n:Компьютерные игры/Toony's Daycare ПОЛНОЕ ПРОХОЖДЕНИЕ 2025 Детектив Без комментариев:s:1159677:e:807-->
+</div><!--n:Компьютерные игры/Toony's Daycare ПОЛНОЕ ПРОХОЖДЕНИЕ 2025 Детектив Без комментариев:s:1224055:e:807-->
 <!----><!--2025-12-07 10:29:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/hell_of_fear_mind_breach_pervye_minuty_igry_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13099,7 +13803,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/HELL OF FEAR Mind Breach первые минуты игры Прохождение без комментариев Релиз 2025:s:1160649:e:873-->
+</div><!--n:Компьютерные игры/HELL OF FEAR Mind Breach первые минуты игры Прохождение без комментариев Релиз 2025:s:1225027:e:873-->
 <!----><!--2025-12-11 11:33:16-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/anxiety_puppy_polnoe_prohojdenie_celitelnoe_puteshestvie_bez_kommentariev">
@@ -13110,7 +13814,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-11</i>
   </div>
-</div><!--n:Компьютерные игры/Anxiety Puppy Полное прохождение Целительное путешествие Без комментариев:s:1161712:e:847-->
+</div><!--n:Компьютерные игры/Anxiety Puppy Полное прохождение Целительное путешествие Без комментариев:s:1226090:e:847-->
 <!----><!--2025-12-19 17:43:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/neverawake_flashback_pervye_minuty_igry_na_pk_bez_kommentariev">
@@ -13121,7 +13825,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-19</i>
   </div>
-</div><!--n:Компьютерные игры/NeverAwake FLASHBACK Первые минуты игры на ПК Без комментариев:s:1162746:e:799-->
+</div><!--n:Компьютерные игры/NeverAwake FLASHBACK Первые минуты игры на ПК Без комментариев:s:1227124:e:799-->
 <!----><!--2025-12-12 12:39:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/go_slimey_go_na_pk_gejmplej_-_pervye_minuty_igry_-_bez_kommentariev">
@@ -13132,7 +13836,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/Go Slimey Go на ПК Геймплей - Первые минуты игры - Без комментариев:s:1163702:e:813-->
+</div><!--n:Компьютерные игры/Go Slimey Go на ПК Геймплей - Первые минуты игры - Без комментариев:s:1228080:e:813-->
 <!----><!--2025-12-11 00:01:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/detective_rainy_night_polnoe_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13143,7 +13847,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-11</i>
   </div>
-</div><!--n:Компьютерные игры/DETECTIVE Rainy Night Полное прохождение Без комментариев Релиз 2025:s:1164685:e:828-->
+</div><!--n:Компьютерные игры/DETECTIVE Rainy Night Полное прохождение Без комментариев Релиз 2025:s:1229063:e:828-->
 <!----><!--2025-12-03 11:32:23-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/one_more_experiment_pervye_minuty_igry_gejmplej_na_pk_4k_prohojdenie_bez_kommentariev">
@@ -13154,7 +13858,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Компьютерные игры/One More Experiment первые минуты игры геймплей на ПК 4K Прохождение без комментариев:s:1165678:e:881-->
+</div><!--n:Компьютерные игры/One More Experiment первые минуты игры геймплей на ПК 4K Прохождение без комментариев:s:1230056:e:881-->
 <!----><!--2025-12-12 13:01:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/dunjungle_pervye_minuty_igry_na_pk_gejmplej_bez_kommentariev">
@@ -13165,7 +13869,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/Dunjungle Первые минуты игры на ПК Геймплей Без комментариев:s:1166758:e:802-->
+</div><!--n:Компьютерные игры/Dunjungle Первые минуты игры на ПК Геймплей Без комментариев:s:1231136:e:802-->
 <!----><!--2026-01-09 13:00:19-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/ancient_farm_-_pervye_minuty_gejmplej_-_ferma_v_drevnem_egipte_s_nulya_bez_kommentariev">
@@ -13176,7 +13880,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Компьютерные игры/Ancient Farm - ПЕРВЫЕ минуты, ГЕЙМПЛЕЙ - Ферма в Древнем Египте с НУЛЯ Без комментариев:s:1167723:e:880-->
+</div><!--n:Компьютерные игры/Ancient Farm - ПЕРВЫЕ минуты, ГЕЙМПЛЕЙ - Ферма в Древнем Египте с НУЛЯ Без комментариев:s:1232101:e:880-->
 <!----><!--2025-12-12 16:52:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/pragmata_polnoe_prohojdenie_demo_na_pk_ekskljuzivnyj_gejmplej_bez_kommentariev">
@@ -13187,7 +13891,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/PRAGMATA Полное прохождение демо на ПК Эксклюзивный геймплей Без комментариев:s:1168809:e:882-->
+</div><!--n:Компьютерные игры/PRAGMATA Полное прохождение демо на ПК Эксклюзивный геймплей Без комментариев:s:1233187:e:882-->
 <!----><!--2025-12-10 17:15:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/screaming_in_the_basement_gejmplej_na_pk_prohojdenie_bez_kommentariev_rannij_dostup_2025">
@@ -13198,7 +13902,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Screaming In The Basement геймплей на ПК Прохождение без комментариев Ранний доступ 2025:s:1169888:e:888-->
+</div><!--n:Компьютерные игры/Screaming In The Basement геймплей на ПК Прохождение без комментариев Ранний доступ 2025:s:1234266:e:888-->
 <!----><!--2025-12-04 21:51:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/super_cabbage_kabumi_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -13209,7 +13913,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Компьютерные игры/Super Cabbage Kabumi первые минуты игры геймплей на ПК Прохождение без комментариев:s:1170974:e:873-->
+</div><!--n:Компьютерные игры/Super Cabbage Kabumi первые минуты игры геймплей на ПК Прохождение без комментариев:s:1235352:e:873-->
 <!----><!--2025-12-18 23:06:06-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/cozyrama_pervye_minuty_igry_na_pk_pesochnica_dlya_sozdaniya_dioram_bez_kommentariev">
@@ -13220,7 +13924,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Cozyrama Первые минуты игры на ПК Песочница для создания диорам Без комментариев:s:1172044:e:892-->
+</div><!--n:Компьютерные игры/Cozyrama Первые минуты игры на ПК Песочница для создания диорам Без комментариев:s:1236422:e:892-->
 <!----><!--2025-12-18 20:30:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/utawarerumono_zan_gejmplej_na_pk_pervye_minuty_bez_kommentariev">
@@ -13231,7 +13935,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Utawarerumono ZAN Геймплей на ПК Первые минуты Без комментариев:s:1173137:e:803-->
+</div><!--n:Компьютерные игры/Utawarerumono ZAN Геймплей на ПК Первые минуты Без комментариев:s:1237515:e:803-->
 <!----><!--2025-12-17 00:12:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/pallet_jack_racing_pervye_minuty_igry_na_pk_bez_kommentariev">
@@ -13242,7 +13946,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-17</i>
   </div>
-</div><!--n:Компьютерные игры/Pallet Jack Racing Первые минуты игры на ПК Без комментариев:s:1174102:e:789-->
+</div><!--n:Компьютерные игры/Pallet Jack Racing Первые минуты игры на ПК Без комментариев:s:1238480:e:789-->
 <!----><!--2025-12-10 14:38:50-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/angeline_era_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13253,7 +13957,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Angeline Era Геймплей на ПК Прохождение без комментариев Релиз 2025:s:1175046:e:817-->
+</div><!--n:Компьютерные игры/Angeline Era Геймплей на ПК Прохождение без комментариев Релиз 2025:s:1239424:e:817-->
 <!----><!--2026-01-04 11:04:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/in_search_of_freedom_gejmplej_na_pk_takticheskij_ekshen_v_zombi-apokalipsise_demo">
@@ -13264,7 +13968,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/In Search of Freedom ГЕЙМПЛЕЙ на ПК Тактический экшен в зомби-апокалипсисе (Демо):s:1176033:e:864-->
+</div><!--n:Компьютерные игры/In Search of Freedom ГЕЙМПЛЕЙ на ПК Тактический экшен в зомби-апокалипсисе (Демо):s:1240411:e:864-->
 <!----><!--2026-01-06 00:02:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/sorrow_asylum_3-prohojdenie_horrora_-_psihushka_v_kotoroj_zastryal_tvoj_razum_bez_kommentariev">
@@ -13275,7 +13979,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-06</i>
   </div>
-</div><!--n:Компьютерные игры/Sorrow Asylum 3-ПРОХОЖДЕНИЕ ХОРРОРА - Психушка в которой застрял твой разум Без комментариев:s:1177088:e:906-->
+</div><!--n:Компьютерные игры/Sorrow Asylum 3-ПРОХОЖДЕНИЕ ХОРРОРА - Психушка в которой застрял твой разум Без комментариев:s:1241466:e:906-->
 <!----><!--2025-12-12 11:57:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/16_cyber-personalities_survivors_pervye_minuty_igry_na_pk_zapusk_boevyh_sprajtov">
@@ -13286,7 +13990,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/16 Cyber-Personalities Survivors Первые минуты игры на ПК Запуск боевых спрайтов:s:1178211:e:854-->
+</div><!--n:Компьютерные игры/16 Cyber-Personalities Survivors Первые минуты игры на ПК Запуск боевых спрайтов:s:1242589:e:854-->
 <!----><!--2025-12-12 15:30:49-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/everdream_village_pervye_minuty_igry_na_pk_ujutnaya_ferma_v_rannem_dostupe_bez_kommentariev">
@@ -13297,7 +14001,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/Everdream Village Первые минуты игры на ПК Уютная ферма в раннем доступе Без комментариев:s:1179245:e:906-->
+</div><!--n:Компьютерные игры/Everdream Village Первые минуты игры на ПК Уютная ферма в раннем доступе Без комментариев:s:1243623:e:906-->
 <!----><!--2025-12-12 11:17:11-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/mutant_football_league_2_pervye_minuty_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13308,7 +14012,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/Mutant Football League 2 Первые минуты на ПК Прохождение без комментариев Релиз 2025:s:1180360:e:882-->
+</div><!--n:Компьютерные игры/Mutant Football League 2 Первые минуты на ПК Прохождение без комментариев Релиз 2025:s:1244738:e:882-->
 <!----><!--2025-12-10 18:17:40-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/gta_5_online_mansions_dlc_vse_kat-sceny_s_majklom_de_santa_bez_kommentariev">
@@ -13319,7 +14023,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/GTA 5 Online Mansions DLC Все кат-сцены с Майклом Де Санта Без комментариев:s:1181433:e:834-->
+</div><!--n:Компьютерные игры/GTA 5 Online Mansions DLC Все кат-сцены с Майклом Де Санта Без комментариев:s:1245811:e:834-->
 <!----><!--2026-01-09 12:14:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/silver_palace_pervye_minuty_gejmpleya_detektiv_v_viktorianskom_otkrytom_mire_pc">
@@ -13330,7 +14034,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-09</i>
   </div>
-</div><!--n:Компьютерные игры/SILVER PALACE ПЕРВЫЕ минуты ГЕЙМПЛЕЯ Детектив в Викторианском Открытом Мире PC:s:1182443:e:865-->
+</div><!--n:Компьютерные игры/SILVER PALACE ПЕРВЫЕ минуты ГЕЙМПЛЕЯ Детектив в Викторианском Открытом Мире PC:s:1246821:e:865-->
 <!----><!--2025-12-10 22:54:55-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/gta_5_online_mansions_dlc_prohojdenie_missij_s_majklom_de_santa_bez_kommentariev">
@@ -13341,7 +14045,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/GTA 5 Online Mansions DLC прохождение миссий с Майклом Де Санта без комментариев:s:1183500:e:855-->
+</div><!--n:Компьютерные игры/GTA 5 Online Mansions DLC прохождение миссий с Майклом Де Санта без комментариев:s:1247878:e:855-->
 <!----><!--2025-12-07 09:35:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/avatar_frontiers_of_pandora_pervye_minuty_v_rejime_ot_3-go_lica_-prohojdenie_bez_kommentariev">
@@ -13352,7 +14056,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/Avatar Frontiers of Pandora Первые минуты в режиме от 3-го лица -Прохождение без комментариев:s:1184542:e:897-->
+</div><!--n:Компьютерные игры/Avatar Frontiers of Pandora Первые минуты в режиме от 3-го лица -Прохождение без комментариев:s:1248920:e:897-->
 <!----><!--2025-12-10 15:48:20-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/gta_5_online_vozvrashchenie_majkla_pervaya_kat-scena_i_osobnyaki_dlc_a_safehouse_in_the_hills">
@@ -13363,7 +14067,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/GTA 5 Online Возвращение Майкла Первая кат-сцена и особняки DLC A Safehouse in the Hills:s:1185645:e:878-->
+</div><!--n:Компьютерные игры/GTA 5 Online Возвращение Майкла Первая кат-сцена и особняки DLC A Safehouse in the Hills:s:1250023:e:878-->
 <!----><!--2026-01-04 00:20:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/illusive_domain_gejmplej_bez_kommentariev_slojnee_dark_souls_igra_volchicy-nindzya_vyhod_v_2026">
@@ -13374,7 +14078,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/Illusive Domain ГЕЙМПЛЕЙ БЕЗ КОММЕНТАРИЕВ СЛОЖНЕЕ Dark Souls Игра Волчицы-Ниндзя Выход в 2026:s:1186711:e:901-->
+</div><!--n:Компьютерные игры/Illusive Domain ГЕЙМПЛЕЙ БЕЗ КОММЕНТАРИЕВ СЛОЖНЕЕ Dark Souls Игра Волчицы-Ниндзя Выход в 2026:s:1251089:e:901-->
 <!----><!--2025-12-16 19:53:28-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/bluey_s_quest_for_the_gold_pen_polnoe_prohojdenie_igry_bez_kommentariev">
@@ -13385,7 +14089,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-16</i>
   </div>
-</div><!--n:Компьютерные игры/Bluey s Quest for the Gold Pen Полное прохождение игры Без комментариев:s:1187818:e:835-->
+</div><!--n:Компьютерные игры/Bluey s Quest for the Gold Pen Полное прохождение игры Без комментариев:s:1252196:e:835-->
 <!----><!--2025-12-05 13:47:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/baseless_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -13396,7 +14100,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/Baseless первые минуты игры геймплей на ПК Прохождение без комментариев:s:1188820:e:837-->
+</div><!--n:Компьютерные игры/Baseless первые минуты игры геймплей на ПК Прохождение без комментариев:s:1253198:e:837-->
 <!----><!--2025-12-18 18:46:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/pure_badminton_pervye_minuty_na_pk_samyj_realistichnyj_simulyator_bez_kommentariev">
@@ -13407,7 +14111,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Pure Badminton Первые минуты на ПК Самый реалистичный симулятор Без комментариев:s:1189842:e:876-->
+</div><!--n:Компьютерные игры/Pure Badminton Первые минуты на ПК Самый реалистичный симулятор Без комментариев:s:1254220:e:876-->
 <!----><!--2026-02-15 00:25:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/miside_zero-prohojdenie_demo-psihologicheskij_horror_o_novom_uznike_virtualnogo_mira-no_commentary">
@@ -13418,7 +14122,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-02-15</i>
   </div>
-</div><!--n:Компьютерные игры/MiSide ZERO-ПРОХОЖДЕНИЕ ДЕМО-Психологический хоррор о новом узнике виртуального мира-No Commentary:s:1190915:e:909-->
+</div><!--n:Компьютерные игры/MiSide ZERO-ПРОХОЖДЕНИЕ ДЕМО-Психологический хоррор о новом узнике виртуального мира-No Commentary:s:1255293:e:909-->
 <!----><!--2025-12-03 13:05:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/sleep_awake_pervye_minuty_igry">
@@ -13429,7 +14133,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Компьютерные игры/SLEEP AWAKE первые минуты игры:s:1192046:e:665-->
+</div><!--n:Компьютерные игры/SLEEP AWAKE первые минуты игры:s:1256424:e:665-->
 <!----><!--2025-12-18 23:05:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/zombie_diner_simulator_pervye_minuty_igry_na_pk_bez_kommentariev">
@@ -13440,7 +14144,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Zombie Diner Simulator Первые минуты игры на ПК Без комментариев:s:1192817:e:811-->
+</div><!--n:Компьютерные игры/Zombie Diner Simulator Первые минуты игры на ПК Без комментариев:s:1257195:e:811-->
 <!----><!--2025-12-05 14:04:54-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/night_swarm_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13451,7 +14155,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/Night Swarm первые минуты игры геймплей на ПК Прохождение без комментариев Релиз 2025:s:1193787:e:889-->
+</div><!--n:Компьютерные игры/Night Swarm первые минуты игры геймплей на ПК Прохождение без комментариев Релиз 2025:s:1258165:e:889-->
 <!----><!--2026-01-04 11:04:00-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/in_search_of_freedom_gejmplej_na_pk_takticheskij_ekshen_v_zombi-apokalipsise_demo">
@@ -13462,7 +14166,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-04</i>
   </div>
-</div><!--n:Компьютерные игры/In Search of Freedom ГЕЙМПЛЕЙ на ПК Тактический экшен в зомби-апокалипсисе Демо:s:1194880:e:864-->
+</div><!--n:Компьютерные игры/In Search of Freedom ГЕЙМПЛЕЙ на ПК Тактический экшен в зомби-апокалипсисе Демо:s:1259258:e:864-->
 <!----><!--2025-12-23 01:32:03-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/the_dark_legacy_polnoe_prohojdenie_igry_na_pk_horror_bez_kommentariev">
@@ -13473,7 +14177,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Компьютерные игры/The Dark Legacy Полное прохождение игры на ПК Хоррор Без комментариев:s:1195933:e:835-->
+</div><!--n:Компьютерные игры/The Dark Legacy Полное прохождение игры на ПК Хоррор Без комментариев:s:1260311:e:835-->
 <!----><!--2025-12-18 23:05:25-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/death_on_holly_ridge_pervye_minuty_igry_na_pk_rojdestvenskij_horror_2025">
@@ -13484,7 +14188,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Death on Holly Ridge Первые минуты игры на ПК Рождественский хоррор 2025:s:1196943:e:844-->
+</div><!--n:Компьютерные игры/Death on Holly Ridge Первые минуты игры на ПК Рождественский хоррор 2025:s:1261321:e:844-->
 <!----><!--2025-12-04 21:54:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/euro_truck_simulator_2_nordic_horizons_pervye_minuty_igry_pk_prohojdenie_bez_kommentariev">
@@ -13495,7 +14199,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Компьютерные игры/Euro Truck Simulator 2 Nordic Horizons первые минуты игры ПК Прохождение без комментариев:s:1197959:e:885-->
+</div><!--n:Компьютерные игры/Euro Truck Simulator 2 Nordic Horizons первые минуты игры ПК Прохождение без комментариев:s:1262337:e:885-->
 <!----><!--2025-12-12 13:14:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/uniduni_pervye_minuty_igry_na_pk_ujutnyj_koop-platformer_bez_kommentariev_reliz_2025">
@@ -13506,7 +14210,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/UniDuni Первые минуты игры на ПК Уютный кооп-платформер Без комментариев Релиз 2025:s:1199037:e:884-->
+</div><!--n:Компьютерные игры/UniDuni Первые минуты игры на ПК Уютный кооп-платформер Без комментариев Релиз 2025:s:1263415:e:884-->
 <!----><!--2025-12-18 19:07:43-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/electronic_market_simulator_pervye_minuty_igry_na_pk_bez_kommentariev">
@@ -13517,7 +14221,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Electronic Market Simulator Первые минуты игры на ПК Без комментариев:s:1200124:e:820-->
+</div><!--n:Компьютерные игры/Electronic Market Simulator Первые минуты игры на ПК Без комментариев:s:1264502:e:820-->
 <!----><!--2025-12-18 19:42:26-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/volkolak_the_will_of_gods_gejmplej_na_pk_bez_kommentariev">
@@ -13528,7 +14232,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Volkolak The Will of Gods Геймплей на ПК Без комментариев:s:1201108:e:776-->
+</div><!--n:Компьютерные игры/Volkolak The Will of Gods Геймплей на ПК Без комментариев:s:1265486:e:776-->
 <!----><!--2025-12-27 21:06:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/letherfall_prohojdenie_bez_kommentariev_-_psihologicheskij_horror_golovolomki">
@@ -13539,7 +14243,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-27</i>
   </div>
-</div><!--n:Компьютерные игры/Letherfall ПРОХОЖДЕНИЕ БЕЗ КОММЕНТАРИЕВ - Психологический хоррор, головоломки:s:1202028:e:859-->
+</div><!--n:Компьютерные игры/Letherfall ПРОХОЖДЕНИЕ БЕЗ КОММЕНТАРИЕВ - Психологический хоррор, головоломки:s:1266406:e:859-->
 <!----><!--2025-12-09 23:33:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/netherworld_covenant_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13550,7 +14254,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Компьютерные игры/Netherworld Covenant геймплей на ПК Прохождение без комментариев Релиз 2025:s:1203082:e:848-->
+</div><!--n:Компьютерные игры/Netherworld Covenant геймплей на ПК Прохождение без комментариев Релиз 2025:s:1267460:e:848-->
 <!----><!--2026-01-05 21:53:38-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/the_dark_heart_of_balor_prohojdenie_na_pk_-_hak-n-slesh_v_mire_temnogo_fentezi_bez_kommentariev">
@@ -13561,7 +14265,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Компьютерные игры/The Dark Heart of Balor ПРОХОЖДЕНИЕ на ПК - Хак-н-слэш в мире тёмного фэнтези Без комментариев:s:1204108:e:905-->
+</div><!--n:Компьютерные игры/The Dark Heart of Balor ПРОХОЖДЕНИЕ на ПК - Хак-н-слэш в мире тёмного фэнтези Без комментариев:s:1268486:e:905-->
 <!----><!--2025-12-22 22:11:13-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/kats_trigger_gejmplej_na_pk">
@@ -13572,7 +14276,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Компьютерные игры/Kats Trigger Геймплей на ПК:s:1205224:e:652-->
+</div><!--n:Компьютерные игры/Kats Trigger Геймплей на ПК:s:1269602:e:652-->
 <!----><!--2025-12-22 22:54:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/i_am_machine_gejmplej_na_pk_v_mire_mashin_bez_kommentariev">
@@ -13583,7 +14287,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-22</i>
   </div>
-</div><!--n:Компьютерные игры/I Am Machine Геймплей на ПК в мире машин Без комментариев:s:1205975:e:784-->
+</div><!--n:Компьютерные игры/I Am Machine Геймплей на ПК в мире машин Без комментариев:s:1270353:e:784-->
 <!----><!--2025-12-07 23:53:07-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/pawn_planet_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2024">
@@ -13594,7 +14298,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/Pawn Planet геймплей на ПК Прохождение без комментариев Релиз 2024:s:1206913:e:820-->
+</div><!--n:Компьютерные игры/Pawn Planet геймплей на ПК Прохождение без комментариев Релиз 2024:s:1271291:e:820-->
 <!----><!--2025-12-18 20:22:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/the_cradle_gejmplej_na_pk_ofisnyj_horror_s_rassledovaniem_bez_kommentariev">
@@ -13605,7 +14309,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/The Cradle Геймплей на ПК Офисный хоррор с расследованием Без комментариев:s:1207902:e:855-->
+</div><!--n:Компьютерные игры/The Cradle Геймплей на ПК Офисный хоррор с расследованием Без комментариев:s:1272280:e:855-->
 <!----><!--2025-12-10 17:46:45-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/gta_5_online_vozvrashchenie_majkla_pervaya_kat-scena_dlc_a_safehouse_in_the_hills">
@@ -13616,7 +14320,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/GTA 5 Online Возвращение Майкла Первая кат-сцена DLC A Safehouse in the Hills:s:1208946:e:835-->
+</div><!--n:Компьютерные игры/GTA 5 Online Возвращение Майкла Первая кат-сцена DLC A Safehouse in the Hills:s:1273324:e:835-->
 <!----><!--2025-12-26 12:39:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/the_dark_pictures_anthology_man_of_medan_prohojdenie_horrora_vyjivet_li_hot_kto-to_koncovki">
@@ -13627,7 +14331,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Компьютерные игры/The Dark Pictures Anthology Man of Medan ПРОХОЖДЕНИЕ ХОРРОРА Выживет ли хоть кто-то КОНЦОВКИ:s:1209949:e:882-->
+</div><!--n:Компьютерные игры/The Dark Pictures Anthology Man of Medan ПРОХОЖДЕНИЕ ХОРРОРА Выживет ли хоть кто-то КОНЦОВКИ:s:1274327:e:882-->
 <!----><!--2026-01-05 01:04:37-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/syberia_remastered_2025_polnoe_prohojdenie_bez_kommentariev_vozvrashchenie_legendy_prikljuchenij">
@@ -13638,7 +14342,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Компьютерные игры/SYBERIA Remastered 2025 ПОЛНОЕ ПРОХОЖДЕНИЕ Без Комментариев Возвращение легенды приключений:s:1211027:e:910-->
+</div><!--n:Компьютерные игры/SYBERIA Remastered 2025 ПОЛНОЕ ПРОХОЖДЕНИЕ Без Комментариев Возвращение легенды приключений:s:1275405:e:910-->
 <!----><!--2025-12-05 14:07:12-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/two_strikes_shinigami_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -13649,7 +14353,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/Two Strikes Shinigami первые минуты игры геймплей на ПК Прохождение без комментариев:s:1212149:e:883-->
+</div><!--n:Компьютерные игры/Two Strikes Shinigami первые минуты игры геймплей на ПК Прохождение без комментариев:s:1276527:e:883-->
 <!----><!--2026-01-05 22:23:35-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/girl_frame_gejmplej_na_pk_sci-fi_vyjivanie_mehi_i_piloty-devushki_bez_kommentariev">
@@ -13660,7 +14364,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Компьютерные игры/Girl Frame ГЕЙМПЛЕЙ НА ПК Sci-fi выживание мехи и пилоты-девушки Без комментариев:s:1213230:e:879-->
+</div><!--n:Компьютерные игры/Girl Frame ГЕЙМПЛЕЙ НА ПК Sci-fi выживание мехи и пилоты-девушки Без комментариев:s:1277608:e:879-->
 <!----><!--2025-12-18 18:26:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/chasing_her_light_gejmplej_na_pk_pervye_minuty_igry_prohojdenie_bez_kommentariev">
@@ -13671,7 +14375,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Chasing Her Light Геймплей на ПК Первые минуты игры Прохождение без комментариев:s:1214304:e:881-->
+</div><!--n:Компьютерные игры/Chasing Her Light Геймплей на ПК Первые минуты игры Прохождение без комментариев:s:1278682:e:881-->
 <!----><!--2025-12-07 21:14:04-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/i_m_on_observation_duty_8_the_ranch_vse_anomalii_prohojdenie_bez_kommentariev_2025">
@@ -13682,7 +14386,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/I m On Observation Duty 8 The Ranch Все аномалии Прохождение без комментариев 2025:s:1215379:e:867-->
+</div><!--n:Компьютерные игры/I m On Observation Duty 8 The Ranch Все аномалии Прохождение без комментариев 2025:s:1279757:e:867-->
 <!----><!--2025-12-04 19:57:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/titans_of_the_past_pervye_minuty_igry_na_pk_4k_prohojdenie_bez_kommentariev">
@@ -13693,7 +14397,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-04</i>
   </div>
-</div><!--n:Компьютерные игры/Titans of the Past первые минуты игры на ПК 4K Прохождение без комментариев:s:1216425:e:842-->
+</div><!--n:Компьютерные игры/Titans of the Past первые минуты игры на ПК 4K Прохождение без комментариев:s:1280803:e:842-->
 <!----><!--2025-12-10 13:14:47-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/street_racer_collection_qubyte_classics_bezumnye_gonki_90-h_na_pk_reliz_sbornika_2025_goda">
@@ -13704,7 +14408,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Street Racer Collection QUByte Classics Безумные гонки 90-х на ПК релиз сборника 2025 года:s:1217448:e:877-->
+</div><!--n:Компьютерные игры/Street Racer Collection QUByte Classics Безумные гонки 90-х на ПК релиз сборника 2025 года:s:1281826:e:877-->
 <!----><!--2025-12-14 23:45:52-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/bluey_s_quest_for_the_gold_pen_vse_kat-sceny_i_polnyj_multfilm_prohojdenie_na_pk">
@@ -13715,7 +14419,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-14</i>
   </div>
-</div><!--n:Компьютерные игры/Bluey s Quest for the Gold Pen Все кат-сцены и полный мультфильм Прохождение на ПК:s:1218510:e:871-->
+</div><!--n:Компьютерные игры/Bluey s Quest for the Gold Pen Все кат-сцены и полный мультфильм Прохождение на ПК:s:1282888:e:871-->
 <!----><!--2026-02-15 00:25:29-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/toony_s_daycare_polnoe_prohojdenie_2025_detektiv_bez_kommentariev">
@@ -13726,7 +14430,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-02-15</i>
   </div>
-</div><!--n:Компьютерные игры/Toony s Daycare ПОЛНОЕ ПРОХОЖДЕНИЕ 2025 Детектив Без комментариев:s:1219566:e:807-->
+</div><!--n:Компьютерные игры/Toony s Daycare ПОЛНОЕ ПРОХОЖДЕНИЕ 2025 Детектив Без комментариев:s:1283944:e:807-->
 <!----><!--2025-12-05 12:59:02-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/huntsman_polnoe_prohojdenie_igry_4k_prohojdenie_bez_kommentariev">
@@ -13737,7 +14441,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-05</i>
   </div>
-</div><!--n:Компьютерные игры/HUNTSMAN Полное прохождение игры 4K Прохождение без комментариев:s:1220538:e:809-->
+</div><!--n:Компьютерные игры/HUNTSMAN Полное прохождение игры 4K Прохождение без комментариев:s:1284916:e:809-->
 <!----><!--2025-12-15 00:03:15-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/superverse_pervye_minuty_igry_na_pk_kosmicheskij_shuter_bez_kommentariev_reliz_2025">
@@ -13748,7 +14452,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-15</i>
   </div>
-</div><!--n:Компьютерные игры/SUPERVERSE Первые минуты игры на ПК космический шутер Без комментариев Релиз 2025:s:1221518:e:886-->
+</div><!--n:Компьютерные игры/SUPERVERSE Первые минуты игры на ПК космический шутер Без комментариев Релиз 2025:s:1285896:e:886-->
 <!----><!--2025-12-09 23:37:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/kinetic_pervye_minuty_igry_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13759,7 +14463,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-09</i>
   </div>
-</div><!--n:Компьютерные игры/Kinetic Первые минуты игры на ПК Прохождение без комментариев Релиз 2025:s:1222601:e:849-->
+</div><!--n:Компьютерные игры/Kinetic Первые минуты игры на ПК Прохождение без комментариев Релиз 2025:s:1286979:e:849-->
 <!----><!--2026-01-05 11:54:42-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/syberia_remastered_final_-_bez_kommentariev_-_vozvrashchenie_legendy_prikljuchenij">
@@ -13770,7 +14474,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-05</i>
   </div>
-</div><!--n:Компьютерные игры/SYBERIA Remastered ФИНАЛ - Без Комментариев - Возвращение легенды приключений:s:1223633:e:853-->
+</div><!--n:Компьютерные игры/SYBERIA Remastered ФИНАЛ - Без Комментариев - Возвращение легенды приключений:s:1288011:e:853-->
 <!----><!--2025-12-26 18:51:34-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/vampires_bloodlord_rising_pervyj_gejmplej_prohojdenie-_otkrytyj_mir_strojka_zamka_i_koop_na_4-h">
@@ -13781,7 +14485,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-26</i>
   </div>
-</div><!--n:Компьютерные игры/VAMPIRES BLOODLORD RISING ПЕРВЫЙ ГЕЙМПЛЕЙ ПРОХОЖДЕНИЕ- Открытый мир стройка замка и кооп на 4-х:s:1224672:e:901-->
+</div><!--n:Компьютерные игры/VAMPIRES BLOODLORD RISING ПЕРВЫЙ ГЕЙМПЛЕЙ ПРОХОЖДЕНИЕ- Открытый мир стройка замка и кооп на 4-х:s:1289050:e:901-->
 <!----><!--2025-12-23 13:02:18-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/will_follow_the_light_prohojdenie_demo_na_pk_bez_kommentariev">
@@ -13792,7 +14496,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-23</i>
   </div>
-</div><!--n:Компьютерные игры/WILL Follow The Light Прохождение Демо на ПК Без комментариев:s:1225784:e:792-->
+</div><!--n:Компьютерные игры/WILL Follow The Light Прохождение Демо на ПК Без комментариев:s:1290162:e:792-->
 <!----><!--2025-12-10 18:08:30-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/death_howl_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev_reliz_2025">
@@ -13803,7 +14507,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-10</i>
   </div>
-</div><!--n:Компьютерные игры/Death Howl Первые минуты игры геймплей на ПК Прохождение без комментариев Релиз 2025:s:1226731:e:893-->
+</div><!--n:Компьютерные игры/Death Howl Первые минуты игры геймплей на ПК Прохождение без комментариев Релиз 2025:s:1291109:e:893-->
 <!----><!--2025-12-18 17:56:31-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/bearly_brave_pervye_minuty_igry_na_pk_bez_kommentariev">
@@ -13814,7 +14518,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-18</i>
   </div>
-</div><!--n:Компьютерные игры/Bearly Brave Первые минуты игры на ПК Без комментариев:s:1227827:e:777-->
+</div><!--n:Компьютерные игры/Bearly Brave Первые минуты игры на ПК Без комментариев:s:1292205:e:777-->
 <!----><!--2025-12-12 13:31:05-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/drivecrazy_pervye_minuty_igry_na_pk_bez_kommentariev_reliz_2025">
@@ -13825,7 +14529,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-12</i>
   </div>
-</div><!--n:Компьютерные игры/DriveCrazy Первые минуты игры на ПК Без комментариев Релиз 2025:s:1228753:e:810-->
+</div><!--n:Компьютерные игры/DriveCrazy Первые минуты игры на ПК Без комментариев Релиз 2025:s:1293131:e:810-->
 <!----><!--2025-12-03 14:31:53-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/total_chaos_polnyj_haos_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev">
@@ -13836,7 +14540,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-03</i>
   </div>
-</div><!--n:Компьютерные игры/Total Chaos Полный Хаос первые минуты игры геймплей на ПК Прохождение без комментариев:s:1229726:e:896-->
+</div><!--n:Компьютерные игры/Total Chaos Полный Хаос первые минуты игры геймплей на ПК Прохождение без комментариев:s:1294104:e:896-->
 <!----><!--2026-01-13 13:55:32-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/the_occultist_demo-versiya_prohojdenie_bez_kommentariev_-ujasy_na_ostrove_proklyatoj_sekty">
@@ -13847,7 +14551,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-13</i>
   </div>
-</div><!--n:Компьютерные игры/The Occultist ДЕМО-ВЕРСИЯ Прохождение без Комментариев -Ужасы на острове проклятой секты:s:1230832:e:899-->
+</div><!--n:Компьютерные игры/The Occultist ДЕМО-ВЕРСИЯ Прохождение без Комментариев -Ужасы на острове проклятой секты:s:1295210:e:899-->
 <!----><!--2025-12-07 23:01:27-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/angst_a_tale_of_survival_pervye_minuty_igry_na_pk_prohojdenie_bez_kommentariev_2025">
@@ -13858,7 +14562,7 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2025-12-07</i>
   </div>
-</div><!--n:Компьютерные игры/ANGST A Tale of Survival Первые минуты игры на ПК Прохождение без комментариев 2025:s:1231943:e:877-->
+</div><!--n:Компьютерные игры/ANGST A Tale of Survival Первые минуты игры на ПК Прохождение без комментариев 2025:s:1296321:e:877-->
 <!----><!--2026-01-06 00:02:24-->
 <div class="yb">
   <a class="nodecor" href="/index.html?kompjuternye_igry/sorrow_asylum_3-prohojdenie_horrora_-_psihushka_v_kotoroj_zastryal_tvoj_razum_bez_kommentariev">
@@ -13869,4 +14573,4 @@
     <p><i class="smaller2">StartPlay</i></p>
     <i class="smaller3">2026-01-06</i>
   </div>
-</div><!--n:Компьютерные игры/Sorrow Asylum 3-ПРОХОЖДЕНИЕ ХОРРОРА - Психушка, в которой застрял твой разум Без комментариев:s:1233009:e:906-->
+</div><!--n:Компьютерные игры/Sorrow Asylum 3-ПРОХОЖДЕНИЕ ХОРРОРА - Психушка, в которой застрял твой разум Без комментариев:s:1297387:e:906-->

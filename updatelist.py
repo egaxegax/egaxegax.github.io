@@ -57,12 +57,13 @@ def main(path='.', cwd='', count=0):
   if not cwd: cwd = os.path.normpath(path).split('/')[0]
   for root, dirs, files in os.walk(path, topdown=False):
     for name in files:
-      if 'README' in name and cwd in ('books', 'foto', 'posts', 'songs'):
+      print(name,cwd)
+      if 'README' in name and cwd in ('books', 'foto', 'fotosite', 'posts', 'songs'):
         with open(os.path.join(root, name), encoding='utf-8', newline='\n') as f:
           for item in [item for item in re.split('<!---->', f.read()) if item]:
             m = re.search(r'<!--n:(.+):s:(\d+):e:(\d+)-->', item)
             try:    subj, titl = m.group(1).split('/')
-            except: subj = '' ; titl = m.group(1) #print(root, name, '\n', item); raise
+            except: subj = '' ; print(root, name, '\n', item); titl = m.group(1)
             os.makedirs(os.path.join(root, subj), exist_ok=True)
             with open(os.path.join(root, subj, tr_cut(titl)+'.md'), 'w', encoding='utf-8', newline='\n') as ff:
               ff.write(item[:-(len(m.group())+1)])

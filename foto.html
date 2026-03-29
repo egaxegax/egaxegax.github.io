@@ -41,7 +41,7 @@
 
   document.getElementById('page_header').innerHTML = 
 '<div class="table">'+
-  '<div class="tcell vmid"><h1 id="foto_header">Подборка фоток на разные темы&emsp; <a class="nodecor" href="fotki.html"><i>Ещё</i></a></h1></div>'+
+  '<div class="tcell vmid"><h1 id="foto_header">Подборка фоток на разные темы</h1></div>'+
   '<div class="tcell tright vmid smaller1" style="width:100px">'+
     '<select id="albumlist" style="max-width:80px"></select>&ensp;'+
   '</div>'+
@@ -85,6 +85,7 @@
   }
 
   function addPageContent(roots, subjects, page, iinit){
+    var fotourl = '//raw.githubusercontent.com/egaxegax/fotosite/refs/heads/main/';
     PAGE.lock = 1;
     if(page.fotos.length == 0){
       document.getElementById('page_content').innerHTML += addNotFound();
@@ -112,10 +113,10 @@
         wrap.className = 'wrap';
         addFoto(p);
       })({id: 'foto'+(i+page.bottom), i: i+page.bottom, if: i==0, ci: (page.fotos.length==1), subj: subj, title: page.titles[i], doctitle: page.doctitle,
-          url: 'foto/'+root+'/'+subj+'/th/'+title+'.jpg', fullurl: 'foto/'+root+'/'+subj+'/'+title+'.jpg'});
+          url: fotourl+root+'/'+subj+'/th/'+title+'.jpg', fullurl: fotourl+root+'/'+subj+'/'+title+'.jpg'});
     }
     page.num++;
-    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%3 == 0 || urlParams().page); });
+    setTimeout(function(){ PAGE.lock = (page.titles.length == 0 || page.num%1 == 0 || urlParams().page); });
     return (page.titles.length == 0);
   }
 

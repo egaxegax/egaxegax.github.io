@@ -2,7 +2,7 @@
 #
 # Convert .fb2 to .md and .jpg files.
 #
-# python books2fb2.py <fb2_dir>
+# python books2fb2.py <fb2_dir> [<out_dir>]
 #
 
 import sys, os, re, time
@@ -12,7 +12,6 @@ from bs4 import BeautifulSoup
 
 cd = os.path.dirname(sys.argv[0])
 sys.path.insert(0, os.path.abspath(os.path.join(cd, '..')))
-print(sys.path)
 
 from update import main as update_main
 from updatelist import tr_cut, tr_chars
@@ -113,7 +112,8 @@ if __name__ == '__main__':
 
         if fp:
           j += 1
-          os.makedirs(fp, exist_ok=True)
+          try:    os.makedirs(fp, exist_ok=True)
+          except: print('Err name:', fp) ; continue 
           if cover:
             try:
               im = Image.open(io.BytesIO(base64.b64decode(cover)))
