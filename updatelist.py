@@ -57,7 +57,6 @@ def main(path='.', cwd='', count=0):
   if not cwd: cwd = os.path.normpath(path).split('/')[0]
   for root, dirs, files in os.walk(path, topdown=False):
     for name in files:
-      print(name,cwd)
       if 'README' in name and cwd in ('books', 'foto', 'fotosite', 'posts', 'songs'):
         with open(os.path.join(root, name), encoding='utf-8', newline='\n') as f:
           for item in [item for item in re.split('<!---->', f.read()) if item]:
