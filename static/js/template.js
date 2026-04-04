@@ -26,10 +26,14 @@ async function fetchPart(p, clfunc) {
       const buffer = await response.arrayBuffer();
       // console.log( `Fetched ${buffer.byteLength} bytes.` );
       clfunc((new TextDecoder('utf-8')).decode(buffer), p, response.status);
-    } else if (response.status === 416 || response.ok) {
+    } else if (response.ok) {
       // console.log('Server does not support Range requests. Full file returned.');
       const fullBuffer = await response.arrayBuffer();
       clfunc((new TextDecoder('utf-8')).decode(fullBuffer.slice(p.offset, p.offset + p.length + 1)), p, response.status);
+    } else if (response.status === 416) {
+      // console.log('Server does not support Range requests. Full file returned.');
+      const fullBuffer = await response.arrayBuffer();
+      clfunc((new TextDecoder('utf-8')).decode(fullBuffer.slice(p.offset, p.offset + p.length + 1)), p, 200);
     } else {
       console.error('HTTP error!', 'status', response.status);
       clfunc('', p, response.status);
