@@ -31,8 +31,8 @@ async function fetchPart(p, clfunc) {
       const fullBuffer = await response.arrayBuffer();
       clfunc((new TextDecoder('utf-8')).decode(fullBuffer.slice(p.offset, p.offset + p.length + 1)), p, response.status);
     } else if (response.status === 416) {
-      const resp = await fetch( p.url, { headers: {}} );
-      if (response.ok) {
+      const resp = await fetch( p.url );
+      if (resp.ok) {
         const fullBuffer = await resp.arrayBuffer();
         clfunc((new TextDecoder('utf-8')).decode(fullBuffer.slice(p.offset, p.offset + p.length + 1)), p, 200);
       } else {
