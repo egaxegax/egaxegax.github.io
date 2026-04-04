@@ -12,6 +12,7 @@ RSSlist = {
   # 'povar': {'hdr':'Подборка рецептов/Повар.РУ', 'url':'https://povar.ru/rss', 'cut':480, 'total':5},
   'povarenok': {'hdr':'Подборка рецептов/Поваренок.РУ', 'url':'https://www.povarenok.ru/rss/recipes/', 'cut':480, 'total':3},
   'finecooking': {'hdr':'Подборка рецептов/finecooking.ru', 'url':'https://finecooking.ru/feed/rss', 'cut':480, 'total':3},
+  'prosto_linux': {'hdr':'Подборка с сайтов/Prosto Linux', 'url':'https://prosto-linux.ru/feed', 'cut':1000, 'total':10},
 }
 
 import os, sys, time, re
