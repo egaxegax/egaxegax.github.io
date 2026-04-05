@@ -15157,3 +15157,69 @@
     <i class="smaller3">2025-12-18</i>
   </div>
 </div><!--n:Компьютерные игры/Zombie Diner Simulator Первые минуты игры на ПК Без комментариев:s:1350122:e:811-->
+<!----><!--2026-04-03 18:33:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_vzyali_bojkovo_tkc_zverstvujut_030426">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0524e25cd14f0acae5eab20bd985454c/" src="http://pic.rtbcdn.ru/video/2026-04-03/48/9f/489f322f698a4dfa3cc9b0f0a81ff9b8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_vzyali_bojkovo_tkc_zverstvujut_030426">Украинский фронт - удар по Украине. Взяли Бойково. ТКЦ зверствуют. 03.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-03</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине. Взяли Бойково. ТКЦ зверствуют. 03.04.26:s:1351092:e:848-->
+<!----><!--2026-04-04 14:47:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_picca_film_pizza_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f78b897d5d67cf53a2f03f9ceb5470f3/" src="http://pic.rtbcdn.ru/video/2026-04-04/04/d2/04d2a39054f2b4004c67c535ccde5d83.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_picca_film_pizza_movie">Фильм Пицца Фильм / Pizza Movie</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-04</i>
+  </div>
+</div><!--n:Мир кино/Фильм Пицца Фильм Pizza Movie:s:1352131:e:688-->
+<!----><!--2026-04-04 10:41:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_dobavlenie_addition">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0bc40a6e4938ebc2c7f8e0181dfa3502/" src="http://pic.rtbcdn.ru/video/2026-04-04/30/b4/30b44f97f9fbf7275a724155a2356901.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_dobavlenie_addition">Фильм Добавление / Addition</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-04</i>
+  </div>
+</div><!--n:Мир кино/Фильм Добавление Addition:s:1352905:e:678-->
+<!----><!--2026-04-03 18:14:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_7_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/aa391e465ea417b05391426c57b856fb/" src="http://pic.rtbcdn.ru/video/2026-04-03/1c/c9/1cc99229fa12e3f2dba3fd09cc33376c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_7_seriya_scrubs">Сериал Клиника 10 сезон 7 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-03</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 7 серия Scrubs:s:1353665:e:729-->
+<!----><!--2026-04-03 21:30:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_13_seriya_the_pitt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2868d03c71bd66e2cc65c99c61e29acc/" src="http://pic.rtbcdn.ru/video/2026-04-03/52/9b/529bcbc99410acc1a869f36848855829.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_13_seriya_the_pitt">Сериал Больница Питт 2 сезон 13 серия / The Pitt</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-03</i>
+  </div>
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 13 серия The Pitt:s:1354497:e:756-->
+<!----><!--2026-04-04 14:11:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_ssha_zaregistrirovali_gosudarstvennyj_sajt_dlya_prishelcev_i_eto_svyazali_s_raskrytiem_fajlov_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/00b339a8833acbc4ce7f418b49ecde9d/" src="http://pic.rtbcdn.ru/video/2026-03-22/67/77/6777e07336e67189a3ea4e8bdcfca328.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_ssha_zaregistrirovali_gosudarstvennyj_sajt_dlya_prishelcev_i_eto_svyazali_s_raskrytiem_fajlov_nlo">В США зарегистрировали государственный сайт ДЛЯ "ПРИШЕЛЬЦЕВ" и это связали с раскрытием файлов НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-04</i>
+  </div>
+</div><!--n:Тайны/В США зарегистрировали государственный сайт ДЛЯ ПРИШЕЛЬЦЕВ и это связали с раскрытием файлов НЛО:s:1355369:e:923-->

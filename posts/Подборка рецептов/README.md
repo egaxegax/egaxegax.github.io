@@ -4040,3 +4040,15 @@ https://www.povareno k.ru/recipes/show/17 6909/
   <div class="rss finecooking"><a href="https://finecooking.ru/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom"><img src="https://finecooking.ru/images/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom/photo/960w.jpg"></a><p>Готовим пышные оладьи на кефире с зеленым луком и яйцами. Ароматные, сытные и очень вкусные пухляши - отменный завтрак или закусочный вариант со сметаной!</p>
  <p class="titl"><a href="https://finecooking.ru/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom">Пышные оладьи на кефире с яйцами и зеленым луком</a></p></div>
 </div><!--n:finecooking.ru/Пышные оладьи на кефире с яйцами и зеленым луком:s:856600:e:794-->
+<!----><!--2026-04-04 15:27:39-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183578/"><img src="https://www.povarenok.ru/data/cache/2026apr/04/22/3211381_67054-640x480.jpg"></a>Вот такая вот весенняя жизнерадостность у нас сегодня в меню. Очень просто, очень красиво, очень вкусно, и очень сочно. Приятного аппетита, друзья. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183578/">Перец, фаршированный фаршем и грибами</a></p></div>
+</div><!--n:Поваренок.РУ/Перец, фаршированный фаршем и грибами:s:857522:e:668-->
+<!----><!--2026-04-04 10:47:36-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183576/"><img src="https://www.povarenok.ru/data/cache/2026apr/04/29/3211327_58223-640x480.jpg"></a>Вкусные, мягкие и нежные булочки с чуть хрустящей корочкой отлично подойдут как в качестве простого хлеба для любых блюд, так и для гамбургеров, и для любых других начинок и намазок. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183576/">Булочки из кукурузной муки</a></p></div>
+</div><!--n:Поваренок.РУ/Булочки из кукурузной муки:s:858308:e:713-->
+<!----><!--2026-04-04 00:14:26-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183575/"><img src="https://www.povarenok.ru/data/cache/2026apr/03/23/3211258_36656-640x480.jpg"></a>В это рулете сочетание ванильного крема, вишни и шоколада создает типичный вкус пирога &quot;Дунайские волны&quot;. Крем я приготовила не на сливочном масле, как в оригинале, а с маскарпоне, получилось менее калорийно. Я пекла полпорции, а крем сделала на всю порцию, из оставшегося крема сделала ещё и десерт. Количество ингредиенто... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183575/">Рулет "А-ля Дунайские волны"</a></p></div>
+</div><!--n:Поваренок.РУ/Рулет А-ля Дунайские волны:s:859119:e:983-->
