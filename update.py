@@ -120,7 +120,6 @@ def main(path='.'):
         continue
 
       if cwd in ('books',) and name in ('about.md',): addimgtomd(os.path.join(root, 'about.jpg'), os.path.join(root, name))
-      if cwd in ('books',) and ext in ('.jpg',):      addimgtomd(os.path.join(root, name), os.path.join(root, fname+'.md'))
       if cwd in ('songs',) and ext in ('.jpg',):      addimgtomd(os.path.join(root, name), os.path.join(root, 'about.md'))
       if cwd in ('songs',) and ext in ('.txt',):
         text = open(os.path.join(root, name), encoding='utf-8', newline='\n').read()
@@ -162,6 +161,7 @@ def main(path='.'):
         ftime = '<!--'+ time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime)) +'-->'
         addimgtoreadme(os.path.join(root, name), ftime)
       elif cwd in ('books', 'posts', 'songs') and ext in ('.md',):
+        if cwd in ('books',): addimgtomd(os.path.join(root, fname+'.jpg'), os.path.join(root, fname+'.md'))
         line = linecache.getline(os.path.join(root, name), 1)
         ftime = ''
         if re.search(r'^\d+-\d+-\d+\s\d+:\d+:\d+', line[line.find('<!--')+4:][:19].strip('->')):

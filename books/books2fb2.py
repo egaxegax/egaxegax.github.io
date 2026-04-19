@@ -66,6 +66,33 @@ def E_OS(text):
     return text.decode('cp1251').encode('utf-8')
   return text
 
+GENRES_RU = {
+  'Детективы': ['det', 'detective', 'foreign_detective', 'thriller'],
+  'Детская литература': ['child', 'foreign_children'],
+  'Документальная литература': ['nonf', 'nonfiction'],
+  'Домоводство':['home'],
+  'Драматургия':['dramaturgy', 'literature'],
+  'Искусство и Дизайн':[''],
+  'Любовные романы':['love'],
+  'Наука и Образование':['sci', 'science', 'science_history'],
+  'Приключения':['adv', 'adventure', 'foreign_adventure'],
+  'Проза':['prose', 'foreign_prose', 'foreign_contemporary', 'russian_contemporary', 'lyrics', 'poetry'],
+  'Проза. Классика': ['prose_classic'],
+  'Проза. Политика':['literature_political'],
+  'Психология':['sci_psychology', 'sci_philosophy'],
+  'Религия и Эзотерика':['religion'],
+  'Спорт':['home_sport'],
+  'Справочная литература':['ref','reference'],
+  'Старинная литература':['antique'],
+  'Фантастика':['sf', 'foreign_sf'],
+  'Фантастика. Ужасы':['sf_horror'],
+  'Фэнтези':['sf_fantasy', 'magician_book', 'fantasy_fight', 'foreign_fantasy', 'adventure_fantasy', 'fantasy_rus', 'fantasy_heroic', 'historical_fantasy'],
+  'Фэнтези. Попаданцы':['popadancy', 'popadanec'],
+  'Экономика и Финансы':['economics'],
+  'Эротика и Секс':['love_erotica', 'home_sex'],
+  'Юмор':['humor']
+}
+
 if __name__ == '__main__':
   path = '.'
   bookdir = '.'
@@ -97,15 +124,20 @@ if __name__ == '__main__':
         wrt = wrt.replace('[', '(').replace(']', ')').replace('/', '-').strip(' <>:"/\|!?*')
         gnrs = fb.get_tags()
 
-        if gnrs: subj = gnrs[0].split('/')[0].split(',')[0].replace('-', '_').strip()
+        if gnrs: subj = gnrs[0].split('/')[0].split(',')[0].replace('-', '_').replace(':', '').strip()
         else:    subj = 'other'
+
+        for gnr_ru, gnrs in GENRES_RU.items():
+          if subj in gnrs:               subj = gnr_ru
+          if subj.split('_')[0] in gnrs: subj = gnr_ru
+
         pdate = fb.get_pubdate().split('-')[0]
         desc = fb.get_description()
         desc = desc.replace('&lt;','<').replace('&gt;','>')
         desc = re.sub('<[^<]+?>', '', desc).strip()
         cover = fb.get_cover_image()
 
-        fp = os.path.join(bookdir, subj.replace(':', '').strip(), re.sub('\s+', ' ', wrt))
+        fp = os.path.join(bookdir, subj, re.sub('\s+', ' ', wrt))
 
         ftime = os.path.getmtime(os.path.join(root, name))
         sdate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ftime))
@@ -117,13 +149,14 @@ if __name__ == '__main__':
           if cover:
             try:
               im = Image.open(io.BytesIO(base64.b64decode(cover)))
+              im = im.convert('RGB')
               im.thumbnail((240,240))
               buffer = io.BytesIO()
               im.save(buffer, format='JPEG')
               cover = base64.b64encode(buffer.getvalue()).decode()
             except:
               print (fb2name, ':', str(sys.exc_info()))
-          with open(os.path.join(fp, tr_cut(tr_chars(tit[:60], 50, ''))+'.md'), 'w+') as fbook:
+          with open(os.path.join(fp, tr_cut(tr_chars(tit[:160], 150, ''))+'.md'), 'w+') as fbook:
             fbook.write('<!--'+sdate+'--><!--pdate:'+pdate+'--><!--cover:'+cover+'--><!--gnr:'+','.join(gnrs).replace(':', '').replace('-','_').strip()+'-->\n' + desc)
           print (i, j, int(cover != None), fb2name)
         else:

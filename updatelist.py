@@ -53,7 +53,7 @@ def tr_url(text):
   """Urlencode string"""
   return text.replace(' ', '%20')
 
-def main(path='.', cwd='', count=0):
+def main(path='.', cwd='', count=0, count_noim=0):
   if not cwd: cwd = os.path.normpath(path).split('/')[0]
   for root, dirs, files in os.walk(path, topdown=False):
     for name in files:
@@ -66,6 +66,19 @@ def main(path='.', cwd='', count=0):
             os.makedirs(os.path.join(root, subj), exist_ok=True)
             with open(os.path.join(root, subj, tr_cut(titl)+'.md'), 'w', encoding='utf-8', newline='\n') as ff:
               ff.write(item[:-(len(m.group())+1)])
+            # if cwd in ('books',):
+            #   try:
+            #     import io, base64
+            #     from PIL import Image
+            #     m = re.search(r'<!--cover:([^>]*)-->', item)
+            #     im = Image.open(io.BytesIO(base64.b64decode(m.group(1))))
+            #     im_rgb = im.convert('RGB')
+            #     im_rgb.thumbnail((240,240))
+            #     buffer = os.path.join(root, subj, tr_cut(titl)+'.jpg')
+            #     im_rgb.save(buffer, format='JPEG')
+            #   except:
+            #     print('No image:', count_noim, ff)
+            #     count_noim += 1
             count += 1
         os.remove(os.path.join(root, name))
   print('Extracted:', count)
