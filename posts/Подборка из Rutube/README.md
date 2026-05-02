@@ -15654,3 +15654,2445 @@
     <i class="smaller3">2025-12-18</i>
   </div>
 </div><!--n:Компьютерные игры/Zombie Diner Simulator Первые минуты игры на ПК Без комментариев:s:1398584:e:811-->
+<!----><!--2026-04-16 19:24:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_germaniya_postavit_drony_vsu_kiev_i_dnepr_v_ogne_16_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cdfc8ba91d52d00501b31d7a13e0c64c/" src="http://pic.rtbcdn.ru/video/2026-04-16/9e/0d/9e0da5d8f83b1d06b7a5beb31d30e09e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_germaniya_postavit_drony_vsu_kiev_i_dnepr_v_ogne_16_04_26">Украинский фронт - Германия поставит дроны ВСУ. Киев и Днепр в огне. 16.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-16</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Германия поставит дроны ВСУ. Киев и Днепр в огне. 16.04.26:s:1399554:e:859-->
+<!----><!--2026-04-10 19:46:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pashalnaya_mirnaya_rotaciya_sil_ukraina_taet_na_glazah_minus_400_tys_10_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5dd935f18c566a84d0f4c2d92a55eb0c/" src="http://pic.rtbcdn.ru/video/2026-04-10/43/1f/431fd15eda2a125d33c0f4c5476b4511.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pashalnaya_mirnaya_rotaciya_sil_ukraina_taet_na_glazah_minus_400_tys_10_04_26">Украинский фронт - пасхальная мирная ротация сил. Украина тает на глазах. Минус 400 тыс. 10.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-10</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - пасхальная мирная ротация сил. Украина тает на глазах. Минус 400 тыс. 10.04.26:s:1400607:e:933-->
+<!----><!--2026-04-17 19:34:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_shturmovik_vzyal_ukrep_v_odinochku_sankcii_ukrainy_protiv_cerkvi_17_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f8add6b538687bd78bc6281d455c8d17/" src="http://pic.rtbcdn.ru/video/2026-04-17/1f/38/1f38e636f0bef066179e1bcecb7a7ad4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_shturmovik_vzyal_ukrep_v_odinochku_sankcii_ukrainy_protiv_cerkvi_17_04_26">Украинский фронт - штурмовик взял укреп в одиночку. Санкции Украины против церкви. 17.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-17</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - штурмовик взял укреп в одиночку. Санкции Украины против церкви. 17.04.26:s:1401768:e:919-->
+<!----><!--2026-04-13 19:34:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_orban_blokada_ormuza_peremirie_zakonchilos_13_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3a226bb76c56dd4f6d6076df6e9c2425/" src="http://pic.rtbcdn.ru/video/2026-04-13/20/5d/205d5c67fbad21d73161ff21edba6b9d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_minus_orban_blokada_ormuza_peremirie_zakonchilos_13_04_26">Украинский фронт - минус Орбан. Блокада Ормуза. Перемирие закончилось. 13.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-13</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - минус Орбан. Блокада Ормуза. Перемирие закончилось. 13.04.26:s:1402909:e:865-->
+<!----><!--2026-04-18 19:16:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nalet_na_samarskuju_oblast_odessa_gorit_bus_tck_napali_na_voenkomat_18_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9d06c7c74514f0d4757298c32154cdc2/" src="http://pic.rtbcdn.ru/video/2026-04-18/88/e9/88e9086e420071db90b225bb059b39b4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nalet_na_samarskuju_oblast_odessa_gorit_bus_tck_napali_na_voenkomat_18_04_26">Украинский фронт - налет на Самарскую область. Одесса горит бус ТЦК. Напали на военкомат. 18.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-18</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - налет на Самарскую область. Одесса горит бус ТЦК. Напали на военкомат. 18.04.26:s:1403974:e:936-->
+<!----><!--2026-04-15 19:45:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_v_sumskoj_150_kv_km_vzyali_ryad_sel_neft_bet_rekordy_15_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/461888e2de6e6bddb945c1988397e726/" src="http://pic.rtbcdn.ru/video/2026-04-15/3c/e7/3ce7763872c2f58e3b31d9b9a0df9f39.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_v_sumskoj_150_kv_km_vzyali_ryad_sel_neft_bet_rekordy_15_04_26">Украинский фронт - наступление в Сумской. 150 кв км взяли ряд сел. Нефть бьет рекорды. 15.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-15</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - наступление в Сумской. 150 кв км взяли ряд сел. Нефть бьет рекорды. 15.04.26:s:1405143:e:920-->
+<!----><!--2026-04-11 18:49:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pashalnoe_peremirie_peregovory_ssha_i_irana_11_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/50301866242366bb04895cce82e88a4b/" src="http://pic.rtbcdn.ru/video/2026-04-11/94/48/944893b1fb04b5b5c9ac67a84c67276f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_pashalnoe_peremirie_peregovory_ssha_i_irana_11_04_26">Украинский фронт - пасхальное перемирие. Переговоры США и Ирана. 11.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-11</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - пасхальное перемирие. Переговоры США и Ирана. 11.04.26:s:1406286:e:844-->
+<!----><!--2026-04-08 19:30:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/vojna_v_irane_-_iran_obyavil_pobedu_ssha_obyavili_pobedu_oae_obyavili_pobedu_08_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/49da6a0eb42f66cc400b3cd48e355036/" src="http://pic.rtbcdn.ru/video/2026-04-08/54/ac/54aca5ddad32102c65d4c87c42010280.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/vojna_v_irane_-_iran_obyavil_pobedu_ssha_obyavili_pobedu_oae_obyavili_pobedu_08_04_26">Война в Иране - Иран объявил победу. США объявили победу. ОАЭ объявили победу. 08.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-08</i>
+  </div>
+</div><!--n:Жизнь в США и России/Война в Иране - Иран объявил победу. США объявили победу. ОАЭ объявили победу. 08.04.26:s:1407319:e:895-->
+<!----><!--2026-04-14 18:58:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_dogorovnyak_po_nefti_ukraina_chudesnyj_sad_iran_pobedil_ili_net_14_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/027dab4b9dcb4e76f25dab2d8e933d77/" src="http://pic.rtbcdn.ru/video/2026-04-14/30/e3/30e3fb39d2397bc9c45c476f4ce3a036.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_dogorovnyak_po_nefti_ukraina_chudesnyj_sad_iran_pobedil_ili_net_14_04_26">Украинский фронт - догоровняк по нефти. Украина чудесный сад. Иран победил или нет. 14.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-14</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - догоровняк по нефти. Украина чудесный сад. Иран победил или нет. 14.04.26:s:1408426:e:917-->
+<!----><!--2026-04-09 19:01:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukrainskij_raj_novosti_peremiriya_ukraina_priznala_poterju_mirnograda_09_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c9d2e6ed8926dd7ff816cdaff013be84/" src="http://pic.rtbcdn.ru/video/2026-04-09/9d/e3/9de3c0b2601ab8b58772fadfa5f42d09.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukrainskij_raj_novosti_peremiriya_ukraina_priznala_poterju_mirnograda_09_04_26">Украинский фронт - украинский рай. Новости перемирия. Украина признала потерю Мирнограда. 09.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-09</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - украинский рай. Новости перемирия. Украина признала потерю Мирнограда. 09.04.26:s:1409565:e:943-->
+<!----><!--2026-04-16 07:21:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_5_seriya_daredevil_born_again">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c7716130bb183a6d228f943d00568838/" src="http://pic.rtbcdn.ru/video/2026-04-16/8a/72/8a72e1f3d216bf6a5fe2408f822bdd35.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_5_seriya_daredevil_born_again">Сериал Сорвиголова: Рожденный заново 2 сезон 5 серия / Daredevil: Born Again</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-16</i>
+  </div>
+</div><!--n:Мир кино/Сериал Сорвиголова Рожденный заново 2 сезон 5 серия Daredevil Born Again:s:1410744:e:852-->
+<!----><!--2026-04-14 12:07:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_6_seriya_rooster">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2feffd4ecb514446eabbda38c6f4299d/" src="http://pic.rtbcdn.ru/video/2026-04-14/e3/ff/e3ffac3690fa23d15b45c08b738979bf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_6_seriya_rooster">Сериал Рустер 1 сезон 6 серия / Rooster</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-14</i>
+  </div>
+</div><!--n:Мир кино/Сериал Рустер 1 сезон 6 серия Rooster:s:1411752:e:725-->
+<!----><!--2026-04-17 18:31:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_9_seriya_iz_9_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6a914a04abcb167e50f5709b81a288e5/" src="http://pic.rtbcdn.ru/video/2026-04-17/13/d8/13d8d84bcdb3375fd786043f1a82324e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_9_seriya_iz_9_scrubs">Сериал Клиника 10 сезон 9 серия из 9 / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-17</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 9 серия из 9 Scrubs:s:1412578:e:746-->
+<!----><!--2026-04-10 17:44:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/sobachya_jizn_film_2017_a_dog's_purpose">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7bb15c5dc570071f7aeff603849ad27c/" src="http://pic.rtbcdn.ru/video/2026-04-02/c3/55/c35586fc86a2f2f3f2d1168409f9ffbc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/sobachya_jizn_film_2017_a_dog's_purpose">Собачья жизнь (фильм 2017) / A Dog's Purpose</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-10</i>
+  </div>
+</div><!--n:Мир кино/Собачья жизнь (фильм 2017) A Dog's Purpose:s:1413434:e:682-->
+<!----><!--2026-03-31 17:29:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/na_pomoshch_film_2025_send_help">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a15447208f9a505c54b91d4c1c0733af/" src="http://pic.rtbcdn.ru/video/2026-03-31/c0/a1/c0a121aaf85ec8f575db8d766b2170b8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/na_pomoshch_film_2025_send_help">На помощь! (фильм 2025) / Send Help</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-03-31</i>
+  </div>
+</div><!--n:Мир кино/На помощь (фильм 2025) Send Help:s:1414217:e:653-->
+<!----><!--2026-04-16 09:00:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/super_mario_galakticheskoe_kino_multfilm_2026_the_super_mario_galaxy_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8f0addbdffbed9d4848f07688e6b27e9/" src="http://pic.rtbcdn.ru/video/2026-04-15/a1/5d/a15d7ed372f8ed8e51ea7bf0393c5e48.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/super_mario_galakticheskoe_kino_multfilm_2026_the_super_mario_galaxy_movie">Супер Марио: Галактическое кино (мультфильм 2026) / The Super Mario Galaxy Movie</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-16</i>
+  </div>
+</div><!--n:Мир кино/Супер Марио Галактическое кино (мультфильм 2026) The Super Mario Galaxy Movie:s:1414957:e:808-->
+<!----><!--2026-04-11 00:59:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_jeti_the_yeti">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ab935c852977c5b61cd11f7bfc724bfc/" src="http://pic.rtbcdn.ru/video/2026-04-10/c8/04/c8044ab047fc30e2fa8573a019f0d883.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_jeti_the_yeti">Фильм Йети / The Yeti</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-11</i>
+  </div>
+</div><!--n:Мир кино/Фильм Йети The Yeti:s:1415921:e:654-->
+<!----><!--2026-04-15 00:54:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_proekt_konec_sveta_project_hail_mary">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6ce807e9e7e816263a6e495aea6bd9af/" src="http://pic.rtbcdn.ru/video/2026-03-27/8c/73/8c737980277683b9b9e9633f1caefb73.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_proekt_konec_sveta_project_hail_mary">Фильм Проект «Конец света» / Project Hail Mary</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-15</i>
+  </div>
+</div><!--n:Мир кино/Фильм Проект Конец света Project Hail Mary:s:1416645:e:739-->
+<!----><!--2026-04-06 18:08:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kukolka_film_2025_dolly">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1ae11e326ec9a7974187ba211bd16784/" src="http://pic.rtbcdn.ru/video/2026-04-06/08/0a/080a4ecdc8640d6d53eaa702f565fb0b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kukolka_film_2025_dolly">Куколка (фильм 2025) / Dolly</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-06</i>
+  </div>
+</div><!--n:Мир кино/Куколка (фильм 2025) Dolly:s:1417489:e:629-->
+<!----><!--2026-04-16 07:12:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/multfilm_legenda_ob_aange_poslednij_mag_vozduha_the_legend_of_aang_the_last_airbender">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4b2cb6484f893c24217148b306987dbc/" src="http://pic.rtbcdn.ru/video/2026-04-14/90/8b/908bc61275b78ce9a69c1616638c0d60.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/multfilm_legenda_ob_aange_poslednij_mag_vozduha_the_legend_of_aang_the_last_airbender">Мультфильм Легенда об Аанге: Последний маг воздуха / The Legend of Aang: The Last Airbender</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-16</i>
+  </div>
+</div><!--n:Мир кино/Мультфильм Легенда об Аанге Последний маг воздуха The Legend of Aang The Last Airbender:s:1418198:e:892-->
+<!----><!--2026-04-15 19:52:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_aange_poslednij_mag_vozduha_multfilm_2026_the_legend_of_aang_the_last_airbender">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/26cce19b7e01ffaeff052f5aeda14359/" src="http://pic.rtbcdn.ru/video/2026-04-15/77/06/770675e8880bda0a37b517465dd199ab.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_aange_poslednij_mag_vozduha_multfilm_2026_the_legend_of_aang_the_last_airbender">Легенда об Аанге: Последний маг воздуха (мультфильм 2026) / The Legend of Aang: The Last Airbender</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-15</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Аанге Последний маг воздуха (мультфильм 2026) The Legend of Aang The Last Airbender:s:1419262:e:864-->
+<!----><!--2026-04-08 10:08:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/svintusy_multfilm_2025_the_twits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ef56c985d39a574e81393439c3fccc2c/" src="http://pic.rtbcdn.ru/video/2026-04-08/b5/2e/b52e34b448e8abbb8f16e75767d48356.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/svintusy_multfilm_2025_the_twits">Свинтусы (мультфильм 2025) / The Twits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-08</i>
+  </div>
+</div><!--n:Мир кино/Свинтусы (мультфильм 2025) The Twits:s:1420305:e:663-->
+<!----><!--2026-04-08 12:42:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/grozovoj_pereval_film_2026_wuthering_heights">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/61d859aba62428d9922eb08bedb3f891/" src="http://pic.rtbcdn.ru/video/2026-03-18/62/59/625975e7a37e98c2923d006a72192f18.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/grozovoj_pereval_film_2026_wuthering_heights">Грозовой перевал (фильм 2026) / Wuthering Heights</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-08</i>
+  </div>
+</div><!--n:Мир кино/Грозовой перевал (фильм 2026) Wuthering Heights:s:1421064:e:700-->
+<!----><!--2026-04-01 19:51:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/ryjaya_sonya_film_2024_red_sonja">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9909811d6b466de5bfd7d6ece43f388a/" src="http://pic.rtbcdn.ru/video/2026-04-01/27/1c/271c0482cb4bac99b97c531c286b2e8c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/ryjaya_sonya_film_2024_red_sonja">Рыжая Соня (фильм 2024) / Red Sonja</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-01</i>
+  </div>
+</div><!--n:Мир кино/Рыжая Соня (фильм 2024) Red Sonja:s:1421873:e:656-->
+<!----><!--2026-04-16 19:30:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/fanatik_film_2000_vysshaya_vernost_high_fidelity">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/77ef0dabd0516a371190a3bb8348051c/" src="http://pic.rtbcdn.ru/video/2026-04-16/90/1d/901dbce07f7994b57bc760d6b08458e6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/fanatik_film_2000_vysshaya_vernost_high_fidelity">Фанатик (фильм 2000) / Высшая верность / High Fidelity</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-16</i>
+  </div>
+</div><!--n:Мир кино/Фанатик (фильм 2000) Высшая верность High Fidelity:s:1422618:e:719-->
+<!----><!--2026-04-18 08:59:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_bratya_pod_ognem_brothers_under_fire">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/18b0d8cf216f8007735668e972ad7877/" src="http://pic.rtbcdn.ru/video/2026-04-18/44/c6/44c6fa94a3bb67e4626d3fc22e8c38e3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_bratya_pod_ognem_brothers_under_fire">Фильм Братья под огнём / Brothers Under Fire</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-18</i>
+  </div>
+</div><!--n:Мир кино/Фильм Братья под огнём Brothers Under Fire:s:1423455:e:733-->
+<!----><!--2026-04-17 18:45:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_15_seriya_iz_15_the_pitt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cdcd2adb62f6665ae0e8a16215d1e75e/" src="http://pic.rtbcdn.ru/video/2026-04-17/4a/a7/4aa7380a71f36f977627e48f796b5e70.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_bolnica_pitt_2_sezon_15_seriya_iz_15_the_pitt">Сериал Больница Питт 2 сезон 15 серия из 15 / The Pitt</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-17</i>
+  </div>
+</div><!--n:Мир кино/Сериал Больница Питт 2 сезон 15 серия из 15 The Pitt:s:1424291:e:776-->
+<!----><!--2026-04-03 20:41:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/luna_nad_majami_film_1941_moon_over_miami">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ae09859b150dec4ca3d75ff8df0dded0/" src="http://pic.rtbcdn.ru/video/2026-04-03/86/9b/869bbd635e3dfce4ad847c466e6bf95c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/luna_nad_majami_film_1941_moon_over_miami">Луна над Майами (фильм 1941) / Moon Over Miami</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-03</i>
+  </div>
+</div><!--n:Мир кино/Луна над Майами (фильм 1941) Moon Over Miami:s:1425191:e:689-->
+<!----><!--2026-04-10 18:46:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/bolshoe_smeloe_krasivoe_puteshestvie_film_2025_a_big_bold_beautiful_journey">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1d648b928c5ebadf7fb1b31041ff0de7/" src="http://pic.rtbcdn.ru/video/2026-04-10/b8/5a/b85a601b6c8d52a3b0177c1bad79d69d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/bolshoe_smeloe_krasivoe_puteshestvie_film_2025_a_big_bold_beautiful_journey">Большое смелое красивое путешествие (фильм 2025) / A Big Bold Beautiful Journey</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-10</i>
+  </div>
+</div><!--n:Мир кино/Большое смелое красивое путешествие (фильм 2025) A Big Bold Beautiful Journey:s:1425984:e:809-->
+<!----><!--2026-04-17 17:00:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/sore_jena_iz_budushchego_film_2025_sore_wife_from_the_future_sore_istri_dari_masa_depan">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b8cb80da0957ae624d6f24af89094545/" src="http://pic.rtbcdn.ru/video/2026-04-16/03/28/0328b01727e3f8fd285670c806d062d9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/sore_jena_iz_budushchego_film_2025_sore_wife_from_the_future_sore_istri_dari_masa_depan">Соре: Жена из будущего (фильм 2025) /  Sore: Wife from the Future / Sore: Istri dari Masa Depan</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-17</i>
+  </div>
+</div><!--n:Мир кино/Соре Жена из будущего (фильм 2025) Sore Wife from the Future Sore Istri dari Masa Depan:s:1426949:e:835-->
+<!----><!--2026-04-14 16:29:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/alfa_film_2025_alpha">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/33b36858ceec0a10cf5cc4bf41bdaccf/" src="http://pic.rtbcdn.ru/video/2026-04-14/01/06/01063307976fa9137aa43fc8b3604da7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/alfa_film_2025_alpha">Альфа (фильм 2025) / Alpha</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-14</i>
+  </div>
+</div><!--n:Мир кино/Альфа (фильм 2025) Alpha:s:1427936:e:619-->
+<!----><!--2026-04-07 13:46:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esh_molis_laj_film_2026_esh_molis_rychi_eat_pray_bark">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4f081444c35d74c770987895c25d4377/" src="http://pic.rtbcdn.ru/video/2026-04-03/eb/2f/eb2fb4153994dcfcc430766f2c024749.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esh_molis_laj_film_2026_esh_molis_rychi_eat_pray_bark">Ешь, молись, лай (фильм 2026) / Ешь, молись, рычи / Eat Pray Bark</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-07</i>
+  </div>
+</div><!--n:Мир кино/Ешь, молись, лай (фильм 2026) Ешь, молись, рычи Eat Pray Bark:s:1428631:e:744-->
+<!----><!--2026-04-01 07:00:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gubka_bob_v_poiskah_kvadratnyh_shtanov_multfilm_2025_the_spongebob_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8017db77af5e0e6cb8b2feff57721a5c/" src="http://pic.rtbcdn.ru/video/2026-03-31/e4/83/e483fc9950f434633432d493d47077d9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gubka_bob_v_poiskah_kvadratnyh_shtanov_multfilm_2025_the_spongebob_movie">Губка Боб: В поисках квадратных штанов (мультфильм 2025) / The SpongeBob Movie</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-01</i>
+  </div>
+</div><!--n:Мир кино/Губка Боб В поисках квадратных штанов (мультфильм 2025) The SpongeBob Movie:s:1429508:e:807-->
+<!----><!--2026-04-01 00:29:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/avatar_plamya_i_pepel_film_2025_avatar_fire_and_ash">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d063368ae8274c3c9014ed0cd42a49ad/" src="http://pic.rtbcdn.ru/video/2026-02-09/ca/35/ca35ad831b83fa6ea336ff27c0718723.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/avatar_plamya_i_pepel_film_2025_avatar_fire_and_ash">Аватар: Пламя и пепел (фильм 2025) / Avatar: Fire and Ash</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-01</i>
+  </div>
+</div><!--n:Мир кино/Аватар Пламя и пепел (фильм 2025) Avatar Fire and Ash:s:1430474:e:724-->
+<!----><!--2026-04-16 07:49:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_3_seriya_the_boys">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b1ee14f7947693fb385db806a3d3f002/" src="http://pic.rtbcdn.ru/video/2026-04-16/1e/69/1e69ed79abbb32ae3a280486e98373eb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_3_seriya_the_boys">Сериал Пацаны 5 сезон 3 серия / The Boys</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-16</i>
+  </div>
+</div><!--n:Мир кино/Сериал Пацаны 5 сезон 3 серия The Boys:s:1431315:e:728-->
+<!----><!--2026-04-02 09:00:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/elio_multfilm_2025_elio">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/01c08baed8956655500546f811a64bfc/" src="http://pic.rtbcdn.ru/video/2026-04-01/33/6e/336ebc4de5ff0f0843d654cb81c6a93d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/elio_multfilm_2025_elio">Элио (мультфильм 2025) / Elio</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-02</i>
+  </div>
+</div><!--n:Мир кино/Элио (мультфильм 2025) Elio:s:1432145:e:632-->
+<!----><!--2026-04-13 18:34:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_7_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a1c910fe09af2e50aa0ea900746a4e8e/" src="http://pic.rtbcdn.ru/video/2026-04-13/c4/e2/c4e28d86d3bb91e53c8df0cc540da796.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_7_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 7 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-13</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 7 серия Marshals:s:1432860:e:755-->
+<!----><!--2026-04-01 16:06:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/ograblenie_film_2025_the_pickup">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/813b45af6fb86cdd4c7a5eba687a38e7/" src="http://pic.rtbcdn.ru/video/2026-04-01/ee/cf/eecf78685db0aece04f9842dd0554362.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/ograblenie_film_2025_the_pickup">Ограбление (фильм 2025) / The Pickup</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-01</i>
+  </div>
+</div><!--n:Мир кино/Ограбление (фильм 2025) The Pickup:s:1433729:e:656-->
+<!----><!--2026-04-04 09:00:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kej-pop_ohotnicy_na_demonov_multfilm_2025_k-pop_demon_hunters">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a1a52249e5f364eed275305f6caa17e1/" src="http://pic.rtbcdn.ru/video/2026-04-01/04/46/044665b0fb3e77bb9dd10e4f7183bb5b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kej-pop_ohotnicy_na_demonov_multfilm_2025_k-pop_demon_hunters">Кей-поп охотницы на демонов (мультфильм 2025) / K-Pop Demon Hunters</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-04</i>
+  </div>
+</div><!--n:Мир кино/Кей-поп охотницы на демонов (мультфильм 2025) K-Pop Demon Hunters:s:1434476:e:765-->
+<!----><!--2026-04-10 19:39:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_8_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c13441dced2d6ff4008bf53b204273d1/" src="http://pic.rtbcdn.ru/video/2026-04-10/e8/e0/e8e0ca094fdb34991913a504446b1e43.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_8_seriya_scrubs">Сериал Клиника 10 сезон 8 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-10</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 8 серия Scrubs:s:1435381:e:729-->
+<!----><!--2026-04-10 18:36:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/missiya_sereniti_film_2005_serenity">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/aced6a89b7269994c72184f3130d93e3/" src="http://pic.rtbcdn.ru/video/2026-04-10/c7/c7/c7c7aec6a3e7da833c1191813c804d0f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/missiya_sereniti_film_2005_serenity">Миссия «Серенити» (фильм 2005) / Serenity</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-10</i>
+  </div>
+</div><!--n:Мир кино/Миссия Серенити (фильм 2005) Serenity:s:1436213:e:675-->
+<!----><!--2026-04-19 16:18:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nesostykovki_posle_vozvrashcheniya_artemis_ii_usilili_somneniya_vokrug_missii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0ee2843261b52793fc765c98f3052a70/" src="http://pic.rtbcdn.ru/video/2026-04-14/ee/a5/eea5f4b70d9e5765e0420d342ea9021e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nesostykovki_posle_vozvrashcheniya_artemis_ii_usilili_somneniya_vokrug_missii">Несостыковки после возвращения Артемис II усилили сомнения вокруг миссии</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Несостыковки после возвращения Артемис II усилили сомнения вокруг миссии:s:1436986:e:832-->
+<!----><!--2026-04-19 16:18:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kak_prohodilo_vozvrashchenie_artemis_ii_k_zemle_i_pochemu_etap_vhoda_v_atmosferu_schitalsya_riskovannym">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ddd8bfc9707736a5021d607d764b137d/" src="http://pic.rtbcdn.ru/video/2026-04-11/b4/98/b498c7953842360fdf5e2b2fa78667b8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kak_prohodilo_vozvrashchenie_artemis_ii_k_zemle_i_pochemu_etap_vhoda_v_atmosferu_schitalsya_riskovannym">Как проходило возвращение Артемис II к Земле и почему этап входа в атмосферу считался рискованным</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Как проходило возвращение Артемис II к Земле и почему этап входа в атмосферу считался рискованным:s:1437989:e:928-->
+<!----><!--2026-04-19 21:41:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/syn_sekretnogo_sotrudnika_iz_los-alamosa_nashel_v_veshchah_pokojnogo_otca_skrytye_arhivy_o_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d541b201ed05031d12e118e24d030d1b/" src="http://pic.rtbcdn.ru/video/2026-04-19/61/4a/614addc0be7b09496e1f07ddcdcd5d1f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/syn_sekretnogo_sotrudnika_iz_los-alamosa_nashel_v_veshchah_pokojnogo_otca_skrytye_arhivy_o_nlo">Сын секретного сотрудника из Лос-Аламоса нашел в вещах покойного отца скрытые архивы о НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Сын секретного сотрудника из Лос-Аламоса нашел в вещах покойного отца скрытые архивы о НЛО:s:1439132:e:898-->
+<!----><!--2026-04-10 21:27:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_gostyah_u_povarov_-_gulyaem_po_povarskoj_ulice">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3df4f1467aa327e7dcb7bb2d4b182f36/" src="http://pic.rtbcdn.ru/video/2026-04-10/d6/b7/d6b7a8493f2a1a67e130260138d1fbcb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_gostyah_u_povarov_-_gulyaem_po_povarskoj_ulice">В ГОСТЯХ У ПОВАРОВ - ГУЛЯЕМ ПО ПОВАРСКОЙ УЛИЦЕ!</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-04-10</i>
+  </div>
+</div><!--n:Тайны/В ГОСТЯХ У ПОВАРОВ - ГУЛЯЕМ ПО ПОВАРСКОЙ УЛИЦЕ:s:1440233:e:738-->
+<!----><!--2026-04-19 16:18:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_lune_nashli_strukturu_razmerom_v_10_los-andjelesov_i_eto_snova_vyzvalo_voprosy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f69e1166b35c3427360f2d22909ef4cd/" src="http://pic.rtbcdn.ru/video/2026-04-11/23/4c/234c11867f023695090cd8e0b6fb3d3c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_lune_nashli_strukturu_razmerom_v_10_los-andjelesov_i_eto_snova_vyzvalo_voprosy">На Луне нашли «структуру» размером в 10 Лос-Анджелесов и это снова вызвало вопросы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/На Луне нашли структуру размером в 10 Лос-Анджелесов и это снова вызвало вопросы:s:1441091:e:855-->
+<!----><!--2026-04-19 21:39:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/povtoryajushchijsya_signal_iz_dalekoj_galaktiki_s_periodom_okolo_16_dnej_zafiksirovan_astronomami">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a0e3a97f9c6e27f6c3a013eb229b3a01/" src="http://pic.rtbcdn.ru/video/2026-04-19/18/32/18320eb50791d465e48a44ba0aca51a1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/povtoryajushchijsya_signal_iz_dalekoj_galaktiki_s_periodom_okolo_16_dnej_zafiksirovan_astronomami">Повторяющийся сигнал из далёкой галактики с периодом около 16 дней зафиксирован астрономами</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Повторяющийся сигнал из далёкой галактики с периодом около 16 дней зафиксирован астрономами:s:1442128:e:907-->
+<!----><!--2026-04-19 21:43:46-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/koty_spasli_menya_ot_nechto_jutkogo_i_misticheskogo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6a642babb376fc3ffafa0caf2556a34d/" src="http://pic.rtbcdn.ru/video/2026-04-19/0e/06/0e060f96db0ae4b26bd839675bbb6065.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/koty_spasli_menya_ot_nechto_jutkogo_i_misticheskogo">Коты спасли меня от НЕЧТО жуткого и мистического?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Коты спасли меня от НЕЧТО жуткого и мистического:s:1443241:e:736-->
+<!----><!--2026-04-19 16:18:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pered_missiej_artemis_ii_ekipaj_otrabatyval_semku_proleta_luny_na_naduvnoj_modeli">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/edadc14e6d798a8944941973bd17d515/" src="http://pic.rtbcdn.ru/video/2026-04-11/7a/d3/7ad393a6384a00f9ebe76edc7c3c6cfc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pered_missiej_artemis_ii_ekipaj_otrabatyval_semku_proleta_luny_na_naduvnoj_modeli">Перед миссией Артемис II экипаж отрабатывал съёмку пролёта Луны на надувной модели</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Перед миссией Артемис II экипаж отрабатывал съёмку пролёта Луны на надувной модели:s:1444103:e:857-->
+<!----><!--2026-04-19 16:18:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/missiya_artemis_ii_vyzvala_spory_posle_vozvrashcheniya_ekipaja_i_poyavleniya_strannyh_detalej_na_kadrah">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/869fd8d9b668aed4260ba8e9b7152d7d/" src="http://pic.rtbcdn.ru/video/2026-04-14/8b/08/8b086f14e1d006788985aef8a693647a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/missiya_artemis_ii_vyzvala_spory_posle_vozvrashcheniya_ekipaja_i_poyavleniya_strannyh_detalej_na_kadrah">Миссия Артемис II вызвала споры после возвращения экипажа и появления странных деталей на кадрах</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Миссия Артемис II вызвала споры после возвращения экипажа и появления странных деталей на кадрах:s:1445148:e:927-->
+<!----><!--2026-04-19 16:18:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_oregone_snyali_jutkogo_snejnogo_cheloveka_maksimalno_blizko_k_ohotnichej_kamere_v_nochnom_lesu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/00ff7a87a6dcaa66012709ad2c78d5a5/" src="http://pic.rtbcdn.ru/video/2026-04-16/44/fc/44fcb8e7595fdc7ebaad3da94ed3331e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_oregone_snyali_jutkogo_snejnogo_cheloveka_maksimalno_blizko_k_ohotnichej_kamere_v_nochnom_lesu">В Орегоне сняли жуткого Снежного Человека максимально близко к охотничьей камере в ночном лесу</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/В Орегоне сняли жуткого Снежного Человека максимально близко к охотничьей камере в ночном лесу:s:1446289:e:911-->
+<!----><!--2026-04-19 16:18:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/prolet_3i_atlas_mimo_jupitera_postavili_pod_somnenie_iz-za_propavshih_dannyh_i_strannyh_pokazatelej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/862ad081795c6cc18b4c909e79e93c5d/" src="http://pic.rtbcdn.ru/video/2026-04-11/35/23/3523f0bf633664aa8da43d36fa111808.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/prolet_3i_atlas_mimo_jupitera_postavili_pod_somnenie_iz-za_propavshih_dannyh_i_strannyh_pokazatelej">Пролёт 3i ATLAS мимо Юпитера поставили под сомнение из-за пропавших данных и странных показателей</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Пролёт 3i ATLAS мимо Юпитера поставили под сомнение из-за пропавших данных и странных показателей:s:1447412:e:915-->
+<!----><!--2026-04-19 16:19:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_rajone_morya_ueddella_v_antarktide_nauchnaya_ekspediciya_obnarujila_neizvestnyj_ostrov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4c58bf05a1eb17c6514df9333a7745b8/" src="http://pic.rtbcdn.ru/video/2026-04-16/3e/96/3e961124c91213da8a9c758dc955e74b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_rajone_morya_ueddella_v_antarktide_nauchnaya_ekspediciya_obnarujila_neizvestnyj_ostrov">В районе моря Уэдделла в Антарктиде научная экспедиция обнаружила неизвестный остров</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/В районе моря Уэдделла в Антарктиде научная экспедиция обнаружила неизвестный остров:s:1448537:e:878-->
+<!----><!--2026-04-19 16:18:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/versiya_so_sbrosom_kapsuly_artemis_ii_s_samoleta_usilila_somneniya_i_vnov_podnyala_vopros_o_polete">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7b2f1e9a367bc802c4544f5424eaa8a5/" src="http://pic.rtbcdn.ru/video/2026-04-14/8e/39/8e39505b28b6539e2336d3f83db3c674.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/versiya_so_sbrosom_kapsuly_artemis_ii_s_samoleta_usilila_somneniya_i_vnov_podnyala_vopros_o_polete">Версия со сбросом капсулы Артемис II с самолёта усилила сомнения и вновь подняла вопрос о полёте</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Версия со сбросом капсулы Артемис II с самолёта усилила сомнения и вновь подняла вопрос о полёте:s:1449610:e:915-->
+<!----><!--2026-04-17 21:53:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/saratov_-_uehali_k_tetke_v_glush_v_derevnju">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ace5d893ea4554f5ebe98a77cc4e1a48/" src="http://pic.rtbcdn.ru/video/2026-04-17/6c/17/6c1794f8422e2bab88c7151220747c3e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/saratov_-_uehali_k_tetke_v_glush_v_derevnju">САРАТОВ - УЕХАЛИ К ТЁТКЕ, В ГЛУШЬ, В ДЕРЕВНЮ</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-04-17</i>
+  </div>
+</div><!--n:Тайны/САРАТОВ - УЕХАЛИ К ТЁТКЕ, В ГЛУШЬ, В ДЕРЕВНЮ:s:1450737:e:721-->
+<!----><!--2026-04-19 16:17:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/svyaz_s_ekipajem_artemida_2_propala_na_temnoj_storone_luny_ne_prosto_tak">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dde3df1a6617cc41d6b81eead59d3a91/" src="http://pic.rtbcdn.ru/video/2026-04-10/4d/2b/4d2b031f1831d39ab3a08ce418b7c768.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/svyaz_s_ekipajem_artemida_2_propala_na_temnoj_storone_luny_ne_prosto_tak">Связь с экипажем Артемида 2 пропала на тёмной стороне Луны не просто так?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Связь с экипажем Артемида 2 пропала на тёмной стороне Луны не просто так:s:1451572:e:820-->
+<!----><!--2026-04-19 16:18:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/astronavty_artemis_ii_zametili_vspyshki_i_strannye_linii_na_lune_vo_vremya_proleta_i_eto_vyzvalo_spory">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a586e9e296f22b86c227df199d58ff55/" src="http://pic.rtbcdn.ru/video/2026-04-10/8a/0a/8a0aa7bfc91979bc4b35d075f1fc5395.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/astronavty_artemis_ii_zametili_vspyshki_i_strannye_linii_na_lune_vo_vremya_proleta_i_eto_vyzvalo_spory">Астронавты Артемис II заметили вспышки и странные линии на Луне во время пролёта и это вызвало споры</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Астронавты Артемис II заметили вспышки и странные линии на Луне во время пролёта и это вызвало споры:s:1452560:e:930-->
+<!----><!--2026-04-19 16:19:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/spornoe_video_s_orbity_luny_yakoby_snyatoe_artemis_ii_pokazyvaet_gigantskoe_nlo_u_ogromnogo_kratera">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/236235c18f5de7f1a3724f90e13b9f52/" src="http://pic.rtbcdn.ru/video/2026-04-16/7e/6b/7e6b2d1375cfd579218ebaaea2f6e162.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/spornoe_video_s_orbity_luny_yakoby_snyatoe_artemis_ii_pokazyvaet_gigantskoe_nlo_u_ogromnogo_kratera">Спорное видео с орбиты Луны якобы снятое Артемис II показывает гигантское НЛО у огромного кратера?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Спорное видео с орбиты Луны якобы снятое Артемис II показывает гигантское НЛО у огромного кратера:s:1453709:e:921-->
+<!----><!--2026-04-19 21:40:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_antarktide_na_sputnikovyh_kartah_zametili_krupnuju_tehnogennuju_strukturu_razmerom_bolee_100_metrov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/200157763c0e5ab0fbc372feea360a66/" src="http://pic.rtbcdn.ru/video/2026-04-19/d5/51/d5515f6b5060d32e0d9776878e8b9cb3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_antarktide_na_sputnikovyh_kartah_zametili_krupnuju_tehnogennuju_strukturu_razmerom_bolee_100_metrov">В Антарктиде на спутниковых картах заметили крупную техногенную структуру размером более 100 метров</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/В Антарктиде на спутниковых картах заметили крупную техногенную структуру размером более 100 метров:s:1454845:e:929-->
+<!----><!--2026-04-19 16:18:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_1984_godu_shkolnyj_kompjuter_poluchil_soobshcheniya_iz_1521_goda_a_zatem_v_dialog_vmeshalis_iz_budushchego">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7f9060ae213296be0dd64f8755568dd9/" src="http://pic.rtbcdn.ru/video/2026-04-16/6f/84/6f84c033359381d6fa1bf0d874141318.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_1984_godu_shkolnyj_kompjuter_poluchil_soobshcheniya_iz_1521_goda_a_zatem_v_dialog_vmeshalis_iz_budushchego">В 1984 году школьный компьютер получил сообщения из 1521 года а затем в диалог вмешались из Будущего</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/В 1984 году школьный компьютер получил сообщения из 1521 года а затем в диалог вмешались из Будущего:s:1455994:e:936-->
+<!----><!--2026-04-19 16:17:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/banka_nutelly_na_bortu_artemis_ii_neojidanno_popala_v_kadr_vo_vremya_obleta_luny">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1104c175e29fbf3392bb781fd73ef839/" src="http://pic.rtbcdn.ru/video/2026-04-10/84/85/848579ec23261fc6e316bcf81465e8be.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/banka_nutelly_na_bortu_artemis_ii_neojidanno_popala_v_kadr_vo_vremya_obleta_luny">Банка Нутеллы на борту Артемис II неожиданно попала в кадр во время облёта Луны</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Банка Нутеллы на борту Артемис II неожиданно попала в кадр во время облёта Луны:s:1457143:e:847-->
+<!----><!--2026-04-19 16:18:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/imya_astronavta_missii_artemis_ii_nashli_v_mejdunarodnoj_baze_akterov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/adf9cc8bf0d431bdfd341c1b8485bb91/" src="http://pic.rtbcdn.ru/video/2026-04-14/de/0e/de0eda6de9f3457c843e203c208bceaf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/imya_astronavta_missii_artemis_ii_nashli_v_mejdunarodnoj_baze_akterov">Имя астронавта миссии Артемис II нашли в международной базе актёров?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Имя астронавта миссии Артемис II нашли в международной базе актёров:s:1458170:e:806-->
+<!----><!--2026-04-19 21:42:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/razrabotchiki_tehnologij_nlo_i_uchenye_zanimavshiesya_antigravitaciej_odin_za_drugim_ischezajut_iz_nauki">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bb378d8b7ab6ecba1889cfd0750e8fc7/" src="http://pic.rtbcdn.ru/video/2026-04-19/79/f4/79f449c6a7b977dbaeedfc7a392dbc0b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/razrabotchiki_tehnologij_nlo_i_uchenye_zanimavshiesya_antigravitaciej_odin_za_drugim_ischezajut_iz_nauki">Разработчики технологий НЛО и ученые занимавшиеся антигравитацией один за другим исчезают из науки</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-19</i>
+  </div>
+</div><!--n:Тайны/Разработчики технологий НЛО и ученые занимавшиеся антигравитацией один за другим исчезают из науки:s:1459136:e:936-->
+<!----><!--2026-03-29 08:02:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-joy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/383c8caf5cd4c25024cc0932feb2b049/" src="http://pic.rtbcdn.ru/video/2026-03-28/a8/c3/a8c32297250867791d6cde4ac81daa54.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-joy">Хиты-Joy</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-03-29</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Joy:s:1460293:e:581-->
+<!----><!--2026-02-08 00:58:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/slow_rock_relax">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e8f5c2cd22f00a335b12149c46696f55/" src="http://pic.rtbcdn.ru/video/2026-02-08/a0/be/a0be6693b9c669b9364d1f0fbf299b8b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/slow_rock_relax">Slow Rock relax</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Slow Rock relax:s:1460932:e:598-->
+<!----><!--2025-08-29 14:34:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/rok-ballady_novogo_pokoleniya_emocii_v_kajdoj_note">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b0230b2e0c526f436d2558cdd143d439/" src="http://pic.rtbcdn.ru/video/2025-06-15/c2/e5/c2e548a85a13a45160127f1a8b2890b0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/rok-ballady_novogo_pokoleniya_emocii_v_kajdoj_note">Рок-баллады нового поколения: эмоции в каждой ноте</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Рок-баллады нового поколения эмоции в каждой ноте:s:1461591:e:794-->
+<!----><!--2026-02-08 11:07:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-e-ture">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/be6a9edc339707964e5d0e4af73ac8b1/" src="http://pic.rtbcdn.ru/video/2026-02-08/47/e6/47e6fbbce0473e5880182d492afac6a0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-e-ture">Хиты-Е-Туре</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Е-Туре:s:1462522:e:595-->
+<!----><!--2026-02-08 11:50:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-bon_jovi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4a7ce5fa9f7040adff4364080d5a8908/" src="http://pic.rtbcdn.ru/video/2026-02-08/a0/17/a01773a76e6a670795d74d709bce814f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-bon_jovi">Хиты-Bon Jovi</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Bon Jovi:s:1463183:e:596-->
+<!----><!--2025-08-29 13:03:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/instrumentalnaya_rok-ballada_2025_atmosfernyj_gitarnyj_rok_bez_vokala">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/da34b223ef8ab73daaeeb154150350cf/" src="http://pic.rtbcdn.ru/video/2025-07-23/a5/34/a534281d7801b44bfa99eb1f3677c95a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/instrumentalnaya_rok-ballada_2025_atmosfernyj_gitarnyj_rok_bez_vokala">Инструментальная рок-баллада 2025 | Атмосферный гитарный рок без вокала</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Инструментальная рок-баллада 2025 Атмосферный гитарный рок без вокала:s:1463842:e:868-->
+<!----><!--2026-02-08 12:47:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/old_school_of_rock">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/863f77b065d701608966447f1a1e9a7d/" src="http://pic.rtbcdn.ru/video/2026-02-08/cd/87/cd87f35693d36a51fafc145800462d65.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/old_school_of_rock">Old school of rock</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Old school of rock:s:1464882:e:607-->
+<!----><!--2025-08-11 15:10:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rock_ballads">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3e08c174d6809b005a5970ecd2d49502/" src="http://pic.rtbcdn.ru/video/2025-07-27/bf/ea/bfea559d567316d26ea48ce59d9035f5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rock_ballads">Музыка онлайн|Рок музыка|Rock Ballads</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-11</i>
+  </div>
+</div><!--n:Рок-музыка/Музыка онлайн Рок музыка Rock Ballads:s:1465553:e:734-->
+<!----><!--2025-08-21 19:02:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/instrumentalnye_rok_ballady_2025_instrumentalnye_shedevry_roka_ballada_serdca_2025">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/13be6e5a9125ab1076e0d78c24c959f3/" src="http://pic.rtbcdn.ru/video/2025-08-21/b1/fc/b1fcad265f7e8e249d123d69d6853c64.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/instrumentalnye_rok_ballady_2025_instrumentalnye_shedevry_roka_ballada_serdca_2025">Инструментальные Рок Баллады 2025! Инструментальные шедевры рока!Баллада сердца 2025!</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-21</i>
+  </div>
+</div><!--n:Рок-музыка/Инструментальные Рок Баллады 2025 Инструментальные шедевры рока Баллада сердца 2025:s:1466391:e:917-->
+<!----><!--2026-02-08 13:02:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/techno_dance_90">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4ecf17b8c3c83b545c7e4bd035a887a8/" src="http://pic.rtbcdn.ru/video/2026-02-08/66/63/6663b9eeece9f3e74b2cced9f242c202.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/techno_dance_90">Techno dance 90</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Techno dance 90:s:1467503:e:598-->
+<!----><!--2026-02-08 01:39:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/the_best_of_scorpions">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d2d010da0a459f2a603e74829da7e445/" src="http://pic.rtbcdn.ru/video/2026-02-08/fe/e3/fee36efc0b8e69d7a3b1ff269a2b38c6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/the_best_of_scorpions">The Best of Scorpions</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/The Best of Scorpions:s:1468162:e:616-->
+<!----><!--2025-08-29 14:22:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/a_ty_ljubish_albom_o_sile_ljubvi_v_bljuz-rokovom_zvuchanii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d64eac1ef7e58520770fa954b8fabc07/" src="http://pic.rtbcdn.ru/video/2025-07-15/6f/ca/6fcac9284ca45ce1e017466077f17288.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/a_ty_ljubish_albom_o_sile_ljubvi_v_bljuz-rokovom_zvuchanii">«А ты любишь?» — альбом о силе любви в блюз-роковом звучании</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/А ты любишь альбом о силе любви в блюз-роковом звучании:s:1468845:e:827-->
+<!----><!--2025-09-11 18:39:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/emocionalnye_pesni_istorii_v_ritme_dushi_novye_pesni_na_russkom_new_russian_songs_2025_pesni_2025">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b2099caa57fb2fa5c2e7922f0c710efc/" src="http://pic.rtbcdn.ru/video/2025-09-11/6a/b3/6ab3b5ca9242f1884c34dff18d516055.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/emocionalnye_pesni_istorii_v_ritme_dushi_novye_pesni_na_russkom_new_russian_songs_2025_pesni_2025">Эмоциональные песни: истории в ритме души|Новые Песни на Русском|New Russian Songs 2025|Песни 2025</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-09-11</i>
+  </div>
+</div><!--n:Рок-музыка/Эмоциональные песни истории в ритме души Новые Песни на Русском New Russian Songs 2025 Песни 2025:s:1469818:e:953-->
+<!----><!--2026-02-08 10:51:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-kiss">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/656af681b4e90ee77b1a5a3e73073b2a/" src="http://pic.rtbcdn.ru/video/2026-02-08/3f/a5/3fa563838d7eb2e25c74a5e017074865.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-kiss">Хиты-Kiss</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Kiss:s:1470973:e:584-->
+<!----><!--2026-02-08 16:53:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_4">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/102429ea25c1190092d7ee48ff85f9a0/" src="http://pic.rtbcdn.ru/video/2026-02-08/68/a0/68a0ebcddcf63deca3e763797a59fd79.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_4">Хиты 80-х ч.4</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты 80-х ч.4:s:1471616:e:600-->
+<!----><!--2025-08-29 14:42:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/unikalnoe_zvuchanie_surfrock_hiphop_i_house_v_odnom_treke">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/189a03948c163b38355b4ee5298f60a0/" src="http://pic.rtbcdn.ru/video/2025-06-06/20/f6/20f6b5db002902932017813e784dc057.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/unikalnoe_zvuchanie_surfrock_hiphop_i_house_v_odnom_treke">Уникальное звучание: Surfrock, HipHop и House в одном треке</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Уникальное звучание Surfrock, HipHop и House в одном треке:s:1472281:e:805-->
+<!----><!--2025-06-09 17:03:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rock_ballads">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1204f99a3db8462c5ba28c3d92d9d846/" src="http://pic.rtbcdn.ru/video/2025-06-09/44/19/441930a05b6913167e284af34899f4be.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rock_ballads">Музыка онлайн | Рок Музыка | Rock ballads</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-06-09</i>
+  </div>
+</div><!--n:Рок-музыка/Музыка онлайн Рок Музыка Rock ballads:s:1473220:e:738-->
+<!----><!--2025-08-29 15:12:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rok_ballady_rock_ballads">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a0015bb74563bbb401a9d74ee15f1d7a/" src="http://pic.rtbcdn.ru/video/2025-07-20/cd/53/cd53296ba5fc28d63c49f3ea3907ed26.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rok_ballady_rock_ballads">Музыка Онлайн | Рок Музыка | Рок Баллады | Rock Ballads</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Музыка Онлайн Рок Музыка Рок Баллады Rock Ballads:s:1474062:e:786-->
+<!----><!--2026-02-08 11:24:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-radiorama">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9c40264cc8922cf1e8d20336399409ff/" src="http://pic.rtbcdn.ru/video/2026-02-08/17/fa/17fafd0f6d439a1d3195f77a80d9404c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-radiorama">Хиты-Radiorama</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Radiorama:s:1474974:e:599-->
+<!----><!--2025-08-29 14:47:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/melodichnyj_rok_novogo_pokoleniya_virtuoznoe_ispolnenie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ad4a38f3105e4915d19e6316a3988067/" src="http://pic.rtbcdn.ru/video/2025-05-29/d6/5a/d65a7fd3fa3028e572928f71473fe92e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/melodichnyj_rok_novogo_pokoleniya_virtuoznoe_ispolnenie">Мелодичный рок нового поколения: виртуозное исполнение</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Мелодичный рок нового поколения виртуозное исполнение:s:1475637:e:814-->
+<!----><!--2026-03-29 08:01:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-ace_of_base">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5f0cca4bcd3716b5d32fb69fe02eb55f/" src="http://pic.rtbcdn.ru/video/2026-03-28/c9/b0/c9b030d7ca44d004df7ffbd3f8305390.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-ace_of_base">Хиты-Ace of Base</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-03-29</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Ace of Base:s:1476598:e:605-->
+<!----><!--2025-08-29 14:53:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/r_b-rok_ballada_gde_vstrechajutsya_chuvstva_i_drajv">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/367075011049c36029d745b9f3a37050/" src="http://pic.rtbcdn.ru/video/2025-05-27/14/ef/14ef3a29d670785263bcc66629810223.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/r_b-rok_ballada_gde_vstrechajutsya_chuvstva_i_drajv">R&B-рок баллада: где встречаются чувства и драйв</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/R B-рок баллада где встречаются чувства и драйв:s:1477269:e:789-->
+<!----><!--2025-08-11 15:10:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rok_ballady_rock_ballads">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/75ffa9ad965e1b17ff78dbd16854d7d4/" src="http://pic.rtbcdn.ru/video/2025-07-26/10/b9/10b93df02ce0a40005b20aad630e3346.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/muzyka_onlajn_rok_muzyka_rok_ballady_rock_ballads">Музыка онлайн|Рок музыка|Рок Баллады|Rock Ballads</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-11</i>
+  </div>
+</div><!--n:Рок-музыка/Музыка онлайн Рок музыка Рок Баллады Rock Ballads:s:1478188:e:780-->
+<!----><!--2025-08-21 00:35:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/new_rock_ballads_2025_muzyka_onlajn_rok_muzyka_rok_ballady">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ab695373c2c5e473363e8451d1b68da9/" src="http://pic.rtbcdn.ru/video/2025-08-20/10/9e/109e917dd1ecc881bd1b93ca014e0425.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/new_rock_ballads_2025_muzyka_onlajn_rok_muzyka_rok_ballady">New Rock Ballads 2025|Музыка Онлайн|Рок Музыка|Рок Баллады</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-21</i>
+  </div>
+</div><!--n:Рок-музыка/New Rock Ballads 2025 Музыка Онлайн Рок Музыка Рок Баллады:s:1479094:e:807-->
+<!----><!--2026-02-08 16:29:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_3">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1aff7d460139c8fc56aee4bf17cdcc0a/" src="http://pic.rtbcdn.ru/video/2026-02-08/7e/57/7e577792ba175ea5ddd1d9319dccd43e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_3">Хиты 80-х ч.3</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты 80-х ч.3:s:1480036:e:600-->
+<!----><!--2025-08-29 14:45:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/revoljucionnoe_zvuchanie_tri_janra_v_idealnoj_garmonii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0399d8e4eafe5b040bfc65d8de69c2c4/" src="http://pic.rtbcdn.ru/video/2025-06-06/da/3d/da3dc85b2e5673ff24b36029f45d90c5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/revoljucionnoe_zvuchanie_tri_janra_v_idealnoj_garmonii">Революционное звучание: три жанра в идеальной гармонии</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Революционное звучание три жанра в идеальной гармонии:s:1480701:e:811-->
+<!----><!--2026-02-08 00:58:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/classic_rock_songs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1076e6e75c1dc855628ac163d932c5d5/" src="http://pic.rtbcdn.ru/video/2026-02-08/fb/2c/fb2c3c1df2a3771415bb21c97ec87221.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/classic_rock_songs">Classic Rock songs</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Classic Rock songs:s:1481658:e:607-->
+<!----><!--2026-02-08 01:08:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/slow_rock_ballads">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a6c1c57d58f94cd06ce5116a1abb195a/" src="http://pic.rtbcdn.ru/video/2026-02-08/26/88/2688da7f702696bdc07b57cdeb4c8663.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/slow_rock_ballads">Slow Rock ballads</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Slow Rock ballads:s:1482329:e:604-->
+<!----><!--2025-08-29 14:31:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/spokojstvie_v_kajdoj_note_umirotvoryajushchaya_fonovaya_muzyka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/988e722f57a31c40f947581b13555918/" src="http://pic.rtbcdn.ru/video/2025-06-27/d1/e2/d1e23383f42943590fe27e8e0ada7193.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/spokojstvie_v_kajdoj_note_umirotvoryajushchaya_fonovaya_muzyka">«Спокойствие в каждой ноте» — умиротворяющая фоновая музыка</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Спокойствие в каждой ноте умиротворяющая фоновая музыка:s:1482996:e:838-->
+<!----><!--2026-02-08 16:26:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_2">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/31b96a75e95d9794872af4fa85174b02/" src="http://pic.rtbcdn.ru/video/2026-02-08/57/88/578872b3a2e0a7914672af5e4cc1e400.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_2">Хиты 80-х ч.2</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты 80-х ч.2:s:1483984:e:600-->
+<!----><!--2025-08-29 14:57:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/blues_rock_minor_glubokij_bljuz-rok_v_minore">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b56b3ba36ad216b845b4a5f9dc53b482/" src="http://pic.rtbcdn.ru/video/2025-05-24/0e/b6/0eb6b8baba9f535ac3cbfa7fbbc707b6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/blues_rock_minor_glubokij_bljuz-rok_v_minore">Blues Rock Minor: глубокий блюз-рок в миноре</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Blues Rock Minor глубокий блюз-рок в миноре:s:1484649:e:756-->
+<!----><!--2025-08-29 14:25:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/preodolevaya_pregrady_albom_o_sile_duha_v_bljuz-rokovom_zvuchanii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ba0f95dc2c5984a2227d435fd3ce06ca/" src="http://pic.rtbcdn.ru/video/2025-07-08/94/03/940348ee2acc89cc951ea4d4b3a419df.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/preodolevaya_pregrady_albom_o_sile_duha_v_bljuz-rokovom_zvuchanii">«Преодолевая преграды» — альбом о силе духа в блюз-роковом звучании</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Преодолевая преграды альбом о силе духа в блюз-роковом звучании:s:1485516:e:857-->
+<!----><!--2025-08-29 15:08:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/energichnaya_instrumentalnaya_muzyka_drajv_bez_granic">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f410f54fdf927c2f24bc3656386e848b/" src="http://pic.rtbcdn.ru/video/2025-05-23/c2/7c/c27c13f75d97bb9aee524c934811f8e5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/energichnaya_instrumentalnaya_muzyka_drajv_bez_granic">Энергичная инструментальная музыка: драйв без границ!</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Энергичная инструментальная музыка драйв без границ:s:1486536:e:807-->
+<!----><!--2026-02-07 22:04:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/muzyka_dushi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/774547aa38bdfc7c1aad6ce87d64f82f/" src="http://pic.rtbcdn.ru/video/2026-02-07/8c/f6/8cf645919d6ece49b161cabcc37c9c4a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/muzyka_dushi">Музыка души</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-07</i>
+  </div>
+</div><!--n:Рок-музыка/Музыка души:s:1487486:e:598-->
+<!----><!--2026-02-08 00:09:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-fancy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7ec3367dfd4ca695512e49e63840f5e2/" src="http://pic.rtbcdn.ru/video/2026-02-07/dc/ca/dccac8c63b6ea365037b037a77406927.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-fancy">Хиты-Fancy</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Fancy:s:1488151:e:587-->
+<!----><!--2025-08-29 13:55:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/muzyka_dlya_produktivnoj_raboty_2025_fonovyj_saundtrek_dlya_koncentracii_i_fokusa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/29ee22f8fd103b1ce85860b6e2dae296/" src="http://pic.rtbcdn.ru/video/2025-06-30/54/86/54869a817b3807e831c4c9ecbf02c697.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/muzyka_dlya_produktivnoj_raboty_2025_fonovyj_saundtrek_dlya_koncentracii_i_fokusa">Музыка для продуктивной работы 2025 | Фоновый саундтрек для концентрации и фокуса</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-29</i>
+  </div>
+</div><!--n:Рок-музыка/Музыка для продуктивной работы 2025 Фоновый саундтрек для концентрации и фокуса:s:1488798:e:910-->
+<!----><!--2026-02-08 16:26:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_1">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3459194d329f660a7066f08a952a7731/" src="http://pic.rtbcdn.ru/video/2026-02-08/7d/e2/7de2b76a56bf93a4f400ba5a9aed2b79.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity_80-h_ch_1">Хиты 80-х ч.1</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты 80-х ч.1:s:1489898:e:600-->
+<!----><!--2025-08-13 09:36:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/rok_muzyka_2025_rok_ballady_emotional_rock_soulful_rock_rock_hymns">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4cc499eefcffd1df8f3fa12dda00977c/" src="http://pic.rtbcdn.ru/video/2025-08-13/b7/d5/b7d5fb2090603af847cad9ac09a5ba97.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/rok_muzyka_2025_rok_ballady_emotional_rock_soulful_rock_rock_hymns">Рок музыка 2025|Рок Баллады|Emotional Rock|Soulful Rock|Rock Hymns</a></p>
+    <p><i class="smaller2">Музыкальная волна от Евгения Охотникова</i></p>
+    <i class="smaller3">2025-08-13</i>
+  </div>
+</div><!--n:Рок-музыка/Рок музыка 2025 Рок Баллады Emotional Rock Soulful Rock Rock Hymns:s:1490563:e:819-->
+<!----><!--2026-02-08 13:04:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/diskoteka_90-h_i_nulevyh">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/87a5e361f731fae1acceffcd04d79746/" src="http://pic.rtbcdn.ru/video/2026-02-08/59/77/597716e587ad1d4e3e3e55631dba07aa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/diskoteka_90-h_i_nulevyh">Дискотека 90-х и нулевых</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Дискотека 90-х и нулевых:s:1491513:e:643-->
+<!----><!--2026-02-08 00:04:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?rok-muzyka/hity-savage">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7212790b4d208f077294d2f80b6f4250/" src="http://pic.rtbcdn.ru/video/2026-02-07/7f/29/7f29d390f4d9b7c1ccccf63b49d6aef1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?rok-muzyka/hity-savage">Хиты-Savage</a></p>
+    <p><i class="smaller2">У Анатолича )))</i></p>
+    <i class="smaller3">2026-02-08</i>
+  </div>
+</div><!--n:Рок-музыка/Хиты-Savage:s:1492244:e:590-->
+<!----><!--2026-04-20 09:46:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dogmen_pushistaya_spravedlivost_multfilm_2025_dog_man">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f6a9d777df03fe1a1ab7dab73c2546e0/" src="http://pic.rtbcdn.ru/video/2026-04-20/2b/ed/2bed5c4419f71ca99c73a407f348b0c9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dogmen_pushistaya_spravedlivost_multfilm_2025_dog_man">Догмен: Пушистая справедливость (мультфильм 2025) Dog Man</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Мир кино/Догмен Пушистая справедливость (мультфильм 2025) Dog Man:s:1492895:e:744-->
+<!----><!--2026-04-20 09:18:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/oni_operejajut_nashu_tehnologiju_ne_na_desyatki_a_na_sotni_let">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2defbe6a19594a95a0aa6219e5365334/" src="http://pic.rtbcdn.ru/video/2025-08-13/f0/86/f08635679d04bced796269a9e7604918.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/oni_operejajut_nashu_tehnologiju_ne_na_desyatki_a_na_sotni_let">«ОНИ ОПЕРЕЖАЮТ НАШУ ТЕХНОЛОГИЮ не на десятки, а на сотни лет»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Тайны/ОНИ ОПЕРЕЖАЮТ НАШУ ТЕХНОЛОГИЮ не на десятки, а на сотни лет:s:1493775:e:779-->
+<!----><!--2026-04-20 09:17:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/sovetskie_geologi_v_70-h_nashli_na_bajkale_obekt_pohojij_na_drevnij_ekskavator">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8007d8714c93c5667f2f08e966f8c10f/" src="http://pic.rtbcdn.ru/video/2025-06-05/7f/72/7f723e2fbe8ccc9bf9f112002b12cc3e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/sovetskie_geologi_v_70-h_nashli_na_bajkale_obekt_pohojij_na_drevnij_ekskavator">Советские геологи в 70-х нашли на Байкале объект похожий на древний экскаватор</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Тайны/Советские геологи в 70-х нашли на Байкале объект похожий на древний экскаватор:s:1494698:e:842-->
+<!----><!--2026-04-20 19:58:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_v_sumskoj_obl_i_u_kupyanska_esminec_ssha_otkryl_ogon_20_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d88a1c51f4e3996a8a004ea2f7c3aee1/" src="http://pic.rtbcdn.ru/video/2026-04-20/8a/63/8a63f35a4c4f6e7cf0a0caf3a7db4950.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_v_sumskoj_obl_i_u_kupyanska_esminec_ssha_otkryl_ogon_20_04_26">Украинский фронт - наступление в Сумской обл и у Купянска. Эсминец США открыл огонь. 20.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - наступление в Сумской обл и у Купянска. Эсминец США открыл огонь. 20.04.26:s:1495719:e:921-->
+<!----><!--2026-04-20 18:35:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_7_seriya_rooster">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b477fc791f2d83e458014ceb35505876/" src="http://pic.rtbcdn.ru/video/2026-04-20/a2/58/a258419a5a6345ec3fb718d5d3588555.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_7_seriya_rooster">Сериал Рустер 1 сезон 7 серия / Rooster</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Мир кино/Сериал Рустер 1 сезон 7 серия Rooster:s:1496864:e:725-->
+<!----><!--2026-04-20 17:47:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_8_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/00e8cd34969a4b4dcfee992e24ca861c/" src="http://pic.rtbcdn.ru/video/2026-04-20/f2/5f/f25fd7ff35690c0cf3cd56ae9d7176b7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_8_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 8 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 8 серия Marshals:s:1497690:e:755-->
+<!----><!--2026-04-20 16:31:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/vysokobjudjetnyj_kosmos">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/538d5d3cec2b49a609efee70009dc28c/" src="http://pic.rtbcdn.ru/video/2026-04-20/c2/ef/c2ef5b8563380bd142d7da4e62d20a7b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/vysokobjudjetnyj_kosmos">Высокобюджетный космос</a></p>
+    <p><i class="smaller2">GreenGrass</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Мир кино/Высокобюджетный космос:s:1498559:e:623-->
+<!----><!--2026-04-20 17:34:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/posledstviya_film_2026_outcome">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f2b72995f6a3b2f0b0bf053bce581dde/" src="http://pic.rtbcdn.ru/video/2026-04-20/1b/51/1b51678957afe21fe0837ac5e6a365ba.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/posledstviya_film_2026_outcome">Последствия (фильм 2026) / Outcome</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-20</i>
+  </div>
+</div><!--n:Мир кино/Последствия (фильм 2026) Outcome:s:1499267:e:653-->
+<!----><!--2026-04-21 08:03:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/bespilotnaya_submarina_nashla_pod_ldami_antarktidy_strannye_geometricheskie_terrasy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6528c87d86d27e9a17ce602ae9838cd6/" src="http://pic.rtbcdn.ru/video/2026-04-20/0d/9f/0d9f283119d83c207f5f9a22db105347.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/bespilotnaya_submarina_nashla_pod_ldami_antarktidy_strannye_geometricheskie_terrasy">Беспилотная субмарина нашла под льдами Антарктиды странные геометрические террасы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-21</i>
+  </div>
+</div><!--n:Тайны/Беспилотная субмарина нашла под льдами Антарктиды странные геометрические террасы:s:1500010:e:864-->
+<!----><!--2026-04-21 08:03:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_seti_zayavili_chto_astronavtov_artemis_ii_yakoby_ne_bylo_vidno_v_kamerah_telefonov_zritelej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0d3b317d7286cd27466b06022bb94ba5/" src="http://pic.rtbcdn.ru/video/2026-04-16/57/3d/573d67ad9dd468ed608809859dc1907d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_seti_zayavili_chto_astronavtov_artemis_ii_yakoby_ne_bylo_vidno_v_kamerah_telefonov_zritelej">В сети заявили что астронавтов Артемис II якобы не было видно в камерах телефонов зрителей?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-21</i>
+  </div>
+</div><!--n:Тайны/В сети заявили что астронавтов Артемис II якобы не было видно в камерах телефонов зрителей:s:1501065:e:895-->
+<!----><!--2026-04-21 19:53:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_slavyanske_i_konstantinovke_ujas_v_stepnogorske_21_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/076ab07e899dce4d031387337d24cc99/" src="http://pic.rtbcdn.ru/video/2026-04-21/e3/e2/e3e29833b1bc3338cc1d45fd5cac69ae.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_slavyanske_i_konstantinovke_ujas_v_stepnogorske_21_04_26">Украинский фронт - ад в Славянске и Константиновке. Ужас в Степногорске. 21.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-21</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - ад в Славянске и Константиновке. Ужас в Степногорске. 21.04.26:s:1502161:e:876-->
+<!----><!--2026-04-22 15:07:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_7_seriya_mini_serial_2026_dtf_st_louis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f346f6a14ec36f2e0a6bc0fe959597ed/" src="http://pic.rtbcdn.ru/video/2026-04-21/31/1d/311dd5b3a316e6786b9fc3ecc7ddb626.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_7_seriya_mini_serial_2026_dtf_st_louis">ГКС. Сент-Луис - 7 серия (мини–сериал 2026) / DTF St. Louis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/ГКС. Сент-Луис - 7 серия (мини сериал 2026) DTF St. Louis:s:1503240:e:738-->
+<!----><!--2026-04-22 09:03:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_3_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/aad802b1a16e1c025ed64c586af17a31/" src="http://pic.rtbcdn.ru/video/2026-04-21/a1/5c/a15cc75e2b2a642e0220edfe6008f87b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_3_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 3 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 3 серия (сериал 2002) Dinotopia:s:1504103:e:771-->
+<!----><!--2026-04-22 15:02:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_2_seriya_mini_serial_2026_dtf_st_louis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4a1db350c8446023f06e0c1dcc974258/" src="http://pic.rtbcdn.ru/video/2026-04-21/fe/4a/fe4a1e4dc31ee4eb2b2868ee983d4fce.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_2_seriya_mini_serial_2026_dtf_st_louis">ГКС. Сент-Луис - 2 серия (мини–сериал 2026) / DTF St. Louis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/ГКС. Сент-Луис - 2 серия (мини сериал 2026) DTF St. Louis:s:1505013:e:738-->
+<!----><!--2026-04-22 09:10:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_10_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/40b2fb7dae128b2c00319cf8b9c145e5/" src="http://pic.rtbcdn.ru/video/2026-04-21/1e/04/1e041b45e60676ef7bc6902aa3130bef.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_10_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 10 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 10 серия (сериал 2002) Dinotopia:s:1505876:e:774-->
+<!----><!--2026-04-22 09:07:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_7_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d2dbc43a59d12df1ec57a0ea188717d1/" src="http://pic.rtbcdn.ru/video/2026-04-21/f3/3f/f33fdf321934b7450737aa2c40c19702.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_7_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 7 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 7 серия (сериал 2002) Dinotopia:s:1506790:e:771-->
+<!----><!--2026-04-22 09:13:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_13_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cb1d957f872027ab27b0ad7aa543c430/" src="http://pic.rtbcdn.ru/video/2026-04-21/b2/04/b2042f03c0a189ff019d4873991d1876.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_13_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 13 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 13 серия (сериал 2002) Dinotopia:s:1507700:e:774-->
+<!----><!--2026-04-22 09:08:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_8_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d8af007169f50f55405783930ae91fc7/" src="http://pic.rtbcdn.ru/video/2026-04-21/87/8a/878a7d7946999a9ddd39478025abd52e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_8_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 8 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 8 серия (сериал 2002) Dinotopia:s:1508614:e:771-->
+<!----><!--2026-04-22 09:04:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_4_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e26ea7b9f8c8c3cedec3528bf4fc3c21/" src="http://pic.rtbcdn.ru/video/2026-04-21/08/54/085483515fc453a420fa34f30426b5d0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_4_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 4 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 4 серия (сериал 2002) Dinotopia:s:1509524:e:771-->
+<!----><!--2026-04-22 09:02:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_2_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3b8282602e066ee8c38db9637da3ad6b/" src="http://pic.rtbcdn.ru/video/2026-04-21/be/28/be28d6f1fbe8a12f28a6d4bb675224e8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_2_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 2 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 2 серия (сериал 2002) Dinotopia:s:1510434:e:771-->
+<!----><!--2026-04-22 15:03:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_3_seriya_mini_serial_2026_dtf_st_louis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8f8c0337b15216db54296569f3cf342d/" src="http://pic.rtbcdn.ru/video/2026-04-21/01/d9/01d9c7e8fb1ba726f025fb06cb72fb2a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_3_seriya_mini_serial_2026_dtf_st_louis">ГКС. Сент-Луис - 3 серия (мини–сериал 2026) / DTF St. Louis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/ГКС. Сент-Луис - 3 серия (мини сериал 2026) DTF St. Louis:s:1511344:e:738-->
+<!----><!--2026-04-22 15:04:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_4_seriya_mini_serial_2026_dtf_st_louis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5dbd3156de291bc2ca88cc86c51da71f/" src="http://pic.rtbcdn.ru/video/2026-04-21/77/00/770043fab2aa45df442ff5bae377ab32.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_4_seriya_mini_serial_2026_dtf_st_louis">ГКС. Сент-Луис - 4 серия (мини–сериал 2026) / DTF St. Louis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/ГКС. Сент-Луис - 4 серия (мини сериал 2026) DTF St. Louis:s:1512207:e:738-->
+<!----><!--2026-04-22 09:11:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_11_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/183654136f0e8ea058d68cb6be36fe7b/" src="http://pic.rtbcdn.ru/video/2026-04-21/95/fe/95fec68e1cfa19414123175d3d791377.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_11_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 11 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 11 серия (сериал 2002) Dinotopia:s:1513070:e:774-->
+<!----><!--2026-04-22 15:05:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_5_seriya_mini_serial_2026_dtf_st_louis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/56548d5efd14c7514b459fd022ed6516/" src="http://pic.rtbcdn.ru/video/2026-04-21/31/33/3133dd4eda566bc35afb9363a7bd608b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_5_seriya_mini_serial_2026_dtf_st_louis">ГКС. Сент-Луис - 5 серия (мини–сериал 2026) / DTF St. Louis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/ГКС. Сент-Луис - 5 серия (мини сериал 2026) DTF St. Louis:s:1513984:e:738-->
+<!----><!--2026-04-22 09:06:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_6_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5b2444c7cccdba7392fe7224c89505d9/" src="http://pic.rtbcdn.ru/video/2026-04-21/52/8a/528acdb2584b02eb5291d03b2a5be763.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_6_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 6 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 6 серия (сериал 2002) Dinotopia:s:1514847:e:771-->
+<!----><!--2026-04-22 09:12:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_12_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/38fd133f5fe0243d848215e3b2fcb26c/" src="http://pic.rtbcdn.ru/video/2026-04-21/ef/0d/ef0d91685854d0c17f3cc9ac931f2c72.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_12_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 12 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 12 серия (сериал 2002) Dinotopia:s:1515757:e:774-->
+<!----><!--2026-04-22 15:06:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_6_seriya_mini_serial_2026_dtf_st_louis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ed49ed27cfabcd22209db2cbe0ce05cd/" src="http://pic.rtbcdn.ru/video/2026-04-21/f9/93/f993b2b2fe7881f5c1064a7e5dcc5587.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_6_seriya_mini_serial_2026_dtf_st_louis">ГКС. Сент-Луис - 6 серия (мини–сериал 2026) / DTF St. Louis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/ГКС. Сент-Луис - 6 серия (мини сериал 2026) DTF St. Louis:s:1516671:e:738-->
+<!----><!--2026-04-22 09:01:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_1_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9209fb3a240f6841d539b92e8a8ff035/" src="http://pic.rtbcdn.ru/video/2026-04-17/9f/25/9f25e2472f7238fc2b231b9b34441725.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_1_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 1 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 1 серия (сериал 2002) Dinotopia:s:1517534:e:771-->
+<!----><!--2026-04-22 15:01:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_1_seriya_mini_serial_2026_dtf_st_louis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d471a67357cae8492ce9f673ca280df7/" src="http://pic.rtbcdn.ru/video/2026-04-21/8f/72/8f72caab00467bb44b8808799f155673.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gks_sent-luis_-_1_seriya_mini_serial_2026_dtf_st_louis">ГКС. Сент-Луис - 1 серия (мини–сериал 2026) / DTF St. Louis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/ГКС. Сент-Луис - 1 серия (мини сериал 2026) DTF St. Louis:s:1518444:e:738-->
+<!----><!--2026-04-22 09:09:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_9_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4b422168c66a8765fdf45ab9ff3037a9/" src="http://pic.rtbcdn.ru/video/2026-04-21/9b/de/9bdeecaf981c22e46cd748e228d9931d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_9_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 9 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 9 серия (сериал 2002) Dinotopia:s:1519307:e:771-->
+<!----><!--2026-04-22 09:05:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_5_seriya_serial_2002_dinotopia">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ad728afd04a5f5450d138c23bf122480/" src="http://pic.rtbcdn.ru/video/2026-04-21/9b/e8/9be83b6d3d9798d1496478d2297c7fde.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_5_seriya_serial_2002_dinotopia">Динотопия: Новые приключения - 5 серия (сериал 2002) / Dinotopia</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Динотопия Новые приключения - 5 серия (сериал 2002) Dinotopia:s:1520217:e:771-->
+<!----><!--2026-04-22 09:32:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/astronavt_artemis_ii_snyal_zakat_zemli_na_telefon_pryamo_iz_kosmosa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/04caf8c01cb2ace4854c3e847b6c0cdb/" src="http://pic.rtbcdn.ru/video/2026-04-21/4b/f2/4bf2d026afd90a2ff637990d8bda5e74.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/astronavt_artemis_ii_snyal_zakat_zemli_na_telefon_pryamo_iz_kosmosa">Астронавт Артемис II снял «закат Земли» на телефон прямо из космоса</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Тайны/Астронавт Артемис II снял закат Земли на телефон прямо из космоса:s:1521127:e:800-->
+<!----><!--2026-04-22 09:32:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_egipte_yakoby_nashli_gigantskij_sarkofag_s_trehmetrovym_gumanoidnym_sushchestvom">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/28b85c38acf56dbc7f9128bc0434bf64/" src="http://pic.rtbcdn.ru/video/2026-04-21/83/f9/83f9e1b3ba7fa3f2a83aca86d37b4f59.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_egipte_yakoby_nashli_gigantskij_sarkofag_s_trehmetrovym_gumanoidnym_sushchestvom">В Египте якобы нашли гигантский саркофаг с трёхметровым гуманоидным существом?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Тайны/В Египте якобы нашли гигантский саркофаг с трёхметровым гуманоидным существом:s:1522082:e:854-->
+<!----><!--2026-04-22 09:32:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/avtomaticheskie_teleskopy_vydali_massovyj_sboj_pri_popytke_snyat_yadro_mejzvezdnogo_obekta_3i_atlas">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5527f2b3036adb74403c318128b815cd/" src="http://pic.rtbcdn.ru/video/2026-04-21/b0/8a/b08ab88bb41b5c4ce4ad74cd458d825f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/avtomaticheskie_teleskopy_vydali_massovyj_sboj_pri_popytke_snyat_yadro_mejzvezdnogo_obekta_3i_atlas">Автоматические телескопы выдали массовый сбой при попытке снять ядро межзвездного объекта 3I ATLAS</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Тайны/Автоматические телескопы выдали массовый сбой при попытке снять ядро межзвездного объекта 3I ATLAS:s:1523118:e:919-->
+<!----><!--2026-04-22 09:32:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/k_zemle_letit_asteroid_bog_haosa_razmerom_s_tri_futbolnyh_polya_i_ego_uje_otslejivajut">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5856dba8cdd9e5e213cff296dbc8eaba/" src="http://pic.rtbcdn.ru/video/2026-04-21/40/b4/40b4ca86ea82080030f6c0ea268729d4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/k_zemle_letit_asteroid_bog_haosa_razmerom_s_tri_futbolnyh_polya_i_ego_uje_otslejivajut">К Земле летит астероид «бог хаоса» размером с три футбольных поля и его уже отслеживают</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Тайны/К Земле летит астероид бог хаоса размером с три футбольных поля и его уже отслеживают:s:1524251:e:876-->
+<!----><!--2026-04-22 21:52:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vojna_eshche_na_2_goda_vzyali_veterinarnoe_poshla_neft_v_es_22_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d9132ff809014379878b85995c7b5eb8/" src="http://pic.rtbcdn.ru/video/2026-04-22/56/85/56853e47d77912985251fc357d60e69b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vojna_eshche_na_2_goda_vzyali_veterinarnoe_poshla_neft_v_es_22_04_26">Украинский фронт - война еще на 2 года. Взяли Ветеринарное. Пошла нефть в ЕС. 22.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - война еще на 2 года. Взяли Ветеринарное. Пошла нефть в ЕС. 22.04.26:s:1525320:e:895-->
+<!----><!--2026-04-22 23:18:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_4_seriya_the_boys">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cc2082c9e02100cf03e40dbdbbcdb852/" src="http://pic.rtbcdn.ru/video/2026-04-22/3b/b1/3bb11a4587911acba1396234845f91c4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_4_seriya_the_boys">Сериал Пацаны 5 сезон 4 серия / The Boys</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Сериал Пацаны 5 сезон 4 серия The Boys:s:1526423:e:728-->
+<!----><!--2026-04-22 20:03:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_6_seriya_daredevil_born_again">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/571b9c69cd19b3640a1b642b9b6fdec9/" src="http://pic.rtbcdn.ru/video/2026-04-22/a4/0c/a40cd56f7a86836b523ff66ddf8f42c0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_6_seriya_daredevil_born_again">Сериал Сорвиголова: Рожденный заново 2 сезон 6 серия / Daredevil: Born Again</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-22</i>
+  </div>
+</div><!--n:Мир кино/Сериал Сорвиголова Рожденный заново 2 сезон 6 серия Daredevil Born Again:s:1527253:e:852-->
+<!----><!--2026-04-23 09:54:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/voyadjer_1_pereslal_zakodirovannoe_soobshchenie_iz_dalekogo_budushchego">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6248966bce0fb34dd66730a34d5802f2/" src="http://pic.rtbcdn.ru/video/2026-04-22/a2/f2/a2f2438e1a881fcbd0c444624cf17135.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/voyadjer_1_pereslal_zakodirovannoe_soobshchenie_iz_dalekogo_budushchego">Вояджер 1 переслал закодированное сообщение из далекого будущего?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-23</i>
+  </div>
+</div><!--n:Тайны/Вояджер 1 переслал закодированное сообщение из далекого будущего:s:1528261:e:807-->
+<!----><!--2026-04-23 15:16:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nad_bazoj_rajt-patterson_zasnyali_gruppu_strannyh_nlo_srazu_posle_ischeznoveniya_ee_byvshego_nachalnika">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/20f47e94058b8f48214f1a6180323885/" src="http://pic.rtbcdn.ru/video/2026-04-23/8b/08/8b0837771c5972e6de031ea24d17dd43.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nad_bazoj_rajt-patterson_zasnyali_gruppu_strannyh_nlo_srazu_posle_ischeznoveniya_ee_byvshego_nachalnika">Над базой Райт-Паттерсон засняли группу странных НЛО сразу после исчезновения её бывшего начальника</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-23</i>
+  </div>
+</div><!--n:Тайны/Над базой Райт-Паттерсон засняли группу странных НЛО сразу после исчезновения её бывшего начальника:s:1529225:e:935-->
+<!----><!--2026-04-23 15:17:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/bob_lazar_opisal_ustrojstvo_nlo_bez_shvov_i_s_gravitacionnym_reaktorom_vnutri">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e045659dc548c68885943b1fcf922dfd/" src="http://pic.rtbcdn.ru/video/2026-04-23/1f/8a/1f8a8f5badee2dcac7e1ba8010c7b9d1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/bob_lazar_opisal_ustrojstvo_nlo_bez_shvov_i_s_gravitacionnym_reaktorom_vnutri">Боб Лазар описал устройство НЛО без швов и с гравитационным реактором внутри</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-23</i>
+  </div>
+</div><!--n:Тайны/Боб Лазар описал устройство НЛО без швов и с гравитационным реактором внутри:s:1530382:e:839-->
+<!----><!--2026-04-23 15:18:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_zabroshennyh_tonnelyah_metro_nashli_petlju_vremeni_gde_zvuk_eha_vozvrashchaetsya_ranshe_proiznesennyh_slov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4aef12e99a0bd34eb85454fa25478835/" src="http://pic.rtbcdn.ru/video/2026-04-23/56/cf/56cf309a8b55681c5efcf54258877264.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_zabroshennyh_tonnelyah_metro_nashli_petlju_vremeni_gde_zvuk_eha_vozvrashchaetsya_ranshe_proiznesennyh_slov">В заброшенных тоннелях метро нашли петлю времени где звук эха возвращается раньше произнесенных слов</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-23</i>
+  </div>
+</div><!--n:Тайны/В заброшенных тоннелях метро нашли петлю времени где звук эха возвращается раньше произнесенных слов:s:1531399:e:947-->
+<!----><!--2026-04-23 18:57:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_skelety_ukrainskoj_armii_teryajut_soznanie_ot_goloda_23_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e46e5811d4c0d6c3d8ea5ede023091db/" src="http://pic.rtbcdn.ru/video/2026-04-23/d3/fb/d3fbe2b0346229637e97edd5f23ca092.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_skelety_ukrainskoj_armii_teryajut_soznanie_ot_goloda_23_04_26">Украинский фронт - скелеты украинской армии. Теряют сознание от голода. 23.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-23</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - скелеты украинской армии. Теряют сознание от голода. 23.04.26:s:1532570:e:875-->
+<!----><!--2026-04-24 10:42:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/polyanka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8223ddf6f04a59d5c34d6247c4c1bc0f/" src="http://pic.rtbcdn.ru/video/2026-04-24/e9/9e/e99ea939fa68a821419c195f800f7ca0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/polyanka">"ПОЛЯНКА"</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-04-24</i>
+  </div>
+</div><!--n:Тайны/ПОЛЯНКА:s:1533647:e:590-->
+<!----><!--2026-04-24 19:08:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kladbishche_perepolneno_42_gektara_i_86_polej_mogil_vo_lvove_celi_24_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4087af1661b35dd0617a9ebd3e4cf796/" src="http://pic.rtbcdn.ru/video/2026-04-24/62/43/62436a913945cfb0d7f13595feb0f7c3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kladbishche_perepolneno_42_gektara_i_86_polej_mogil_vo_lvove_celi_24_04_26">Украинский фронт - кладбище переполнено. 42 гектара и 86 полей могил во Львове. Цели. 24.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-24</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - кладбище переполнено. 42 гектара и 86 полей могил во Львове. Цели. 24.04.26:s:1534288:e:920-->
+<!----><!--2026-04-25 06:07:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ejforiya_-_3_sezon_2_seriya_euphoria_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c6b19223f3b5a2c89807a11348e243c6/" src="http://pic.rtbcdn.ru/video/2026-04-24/1d/27/1d27aba709151da733c6d0cd77c06173.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ejforiya_-_3_sezon_2_seriya_euphoria_2026">Сериал Эйфория - 3 сезон 2 серия | Euphoria (2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-25</i>
+  </div>
+</div><!--n:Мир кино/Сериал Эйфория - 3 сезон 2 серия Euphoria (2026):s:1535429:e:712-->
+<!----><!--2026-04-25 09:08:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ejforiya_-_3_sezon_1_seriya_euphoria_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/786ef7e05b6cff0b553fc78cc032a206/" src="http://pic.rtbcdn.ru/video/2026-04-24/63/cb/63cb2b9858b909f5cb9fc1ddd6ca2422.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ejforiya_-_3_sezon_1_seriya_euphoria_2026">Сериал Эйфория - 3 сезон 1 серия | Euphoria (2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-25</i>
+  </div>
+</div><!--n:Мир кино/Сериал Эйфория - 3 сезон 1 серия Euphoria (2026):s:1536254:e:712-->
+<!----><!--2026-04-25 10:15:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kuda_vedut_relsy_-_hod_vglub_gory">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d0d49b747953c3029ad86646e1e2fb75/" src="http://pic.rtbcdn.ru/video/2026-04-24/9c/b8/9cb8333d9ec754e6335c1769321389cb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kuda_vedut_relsy_-_hod_vglub_gory">«КУДА ВЕДУТ РЕЛЬСЫ? - ХОД ВГЛУБЬ ГОРЫ»</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-04-25</i>
+  </div>
+</div><!--n:Тайны/КУДА ВЕДУТ РЕЛЬСЫ - ХОД ВГЛУБЬ ГОРЫ:s:1537079:e:692-->
+<!----><!--2026-04-25 19:09:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_doletelo_to_chelyaby_shturmovik_-_vezunchik_25_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5e9eac2c25cae42e58e8691e5627a37d/" src="http://pic.rtbcdn.ru/video/2026-04-25/d9/c0/d9c01e5cba773893d89a0e9bfce7fe8d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_doletelo_to_chelyaby_shturmovik_-_vezunchik_25_04_26">Украинский фронт - удар по Украине. Долетело то Челябы. Штурмовик - везунчик. 25.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-25</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине. Долетело то Челябы. Штурмовик - везунчик. 25.04.26:s:1537871:e:897-->
+<!----><!--2026-04-25 19:36:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/shturmovik_-_situyaciya_na_fronte">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/34d42c507654972e08fac400abec8f97/" src="http://pic.rtbcdn.ru/video/2026-04-25/23/53/235371934bfb67a9c650c39c5f848db2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/shturmovik_-_situyaciya_na_fronte">Штурмовик - ситуяция на фронте</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-25</i>
+  </div>
+</div><!--n:Жизнь в США и России/Штурмовик - ситуяция на фронте:s:1538978:e:697-->
+<!----><!--2026-04-26 14:44:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/hishchnyj_ryvok_film_2026_thrash">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cfea3960740aaac551ceb8c46479db24/" src="http://pic.rtbcdn.ru/video/2026-04-26/e8/32/e832478c0ef5b5f2481f7974c1ddc8ed.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/hishchnyj_ryvok_film_2026_thrash">Хищный рывок (фильм 2026) / Thrash</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Мир кино/Хищный рывок (фильм 2026) Thrash:s:1539793:e:657-->
+<!----><!--2026-04-26 13:53:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_5_seriya_the_morning_show">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/28eba7ce6c2ef14aa7144d02fc51f1c3/" src="http://pic.rtbcdn.ru/video/2025-10-15/21/65/216541c0b868d1681480933455979088.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_5_seriya_the_morning_show">Сериал Утреннее шоу 4 сезон 5 серия / The Morning Show</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 5 серия The Morning Show:s:1540540:e:777-->
+<!----><!--2026-04-26 13:53:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_4_seriya_the_morning_show">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/59caace9f9a7fe79f89d9438ab92e5bd/" src="http://pic.rtbcdn.ru/video/2025-10-08/c0/a5/c0a5964cf8251c482c6a928eb73fa585.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_4_seriya_the_morning_show">Сериал Утреннее шоу 4 сезон 4 серия / The Morning Show</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 4 серия The Morning Show:s:1541438:e:777-->
+<!----><!--2026-04-26 13:51:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_2_seriya_the_morning_show">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4eecfc925d4d281b0a9322d58f58cf4e/" src="http://pic.rtbcdn.ru/video/2025-09-24/a4/df/a4dfb7f08e7871def0976126b66a0b7f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_2_seriya_the_morning_show">Сериал Утреннее шоу 4 сезон 2 серия / The Morning Show</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 2 серия The Morning Show:s:1542336:e:777-->
+<!----><!--2026-04-26 13:50:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_1_seriya_the_morning_show">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e5f1c14cecd9a87423306f9a1acd826e/" src="http://pic.rtbcdn.ru/video/2025-09-17/65/e3/65e36641c166d321993181784d4ca740.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_1_seriya_the_morning_show">Сериал Утреннее шоу 4 сезон 1 серия / The Morning Show</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 1 серия The Morning Show:s:1543234:e:777-->
+<!----><!--2026-04-26 13:52:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_3_seriya_the_morning_show">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e12790af6d8da4901ac9b62c8a9ea96e/" src="http://pic.rtbcdn.ru/video/2025-10-01/65/41/654115eb519a8ce99fac9f530aaf9ffa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_utrennee_shou_4_sezon_3_seriya_the_morning_show">Сериал Утреннее шоу 4 сезон 3 серия / The Morning Show</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Мир кино/Сериал Утреннее шоу 4 сезон 3 серия The Morning Show:s:1544132:e:777-->
+<!----><!--2026-04-26 15:01:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/primat_film_2025_primate">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e8ee00440639ffbc39df7b7624db6929/" src="http://pic.rtbcdn.ru/video/2026-04-26/50/f5/50f5ae813d79390991a7a3339237071d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/primat_film_2025_primate">Примат (фильм 2025) / Primate</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Мир кино/Примат (фильм 2025) Primate:s:1545030:e:631-->
+<!----><!--2026-04-26 14:06:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/poyavilis_soobshcheniya_ob_ischeznoveniyah_uchenyh_iz_kitaya_rabotavshih_nad_tehnologiej_nlo_i_antigravitacii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/25c44cc6638a55ca8116945f3f163f92/" src="http://pic.rtbcdn.ru/video/2026-04-26/ca/d2/cad26f7f534774705173fdc4c0ae0605.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/poyavilis_soobshcheniya_ob_ischeznoveniyah_uchenyh_iz_kitaya_rabotavshih_nad_tehnologiej_nlo_i_antigravitacii">Появились сообщения об исчезновениях учёных из Китая работавших над технологией НЛО и Антигравитации</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Тайны/Появились сообщения об исчезновениях учёных из Китая работавших над технологией НЛО и Антигравитации:s:1545741:e:950-->
+<!----><!--2026-04-26 14:06:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/astronavt_artemis_ii_snyala_svechenie_zemli_s_rasstoyaniya_bolee_54_tysyach_kilometrov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/240cac68c376f90ba2667dee8da590e9/" src="http://pic.rtbcdn.ru/video/2026-04-26/38/a7/38a7493e0f3a5318686b797428d1fcb2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/astronavt_artemis_ii_snyala_svechenie_zemli_s_rasstoyaniya_bolee_54_tysyach_kilometrov">Астронавт Артемис II сняла свечение Земли с расстояния более 54 тысяч километров</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Тайны/Астронавт Артемис II сняла свечение Земли с расстояния более 54 тысяч километров:s:1546916:e:861-->
+<!----><!--2026-04-26 14:06:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_kolcah_saturna_nashli_prozrachnyj_obekt_pravilnoj_formy_kotoryj_ne_vrashchaetsya_vmeste_s_massoj_lda">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0810b4a0a40682ac50baf5cfa93a57d8/" src="http://pic.rtbcdn.ru/video/2026-04-26/3b/ca/3bca3e82fdf87636b264cdd922b09474.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_kolcah_saturna_nashli_prozrachnyj_obekt_pravilnoj_formy_kotoryj_ne_vrashchaetsya_vmeste_s_massoj_lda">В кольцах Сатурна нашли прозрачный объект правильной формы который не вращается вместе с массой льда</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Тайны/В кольцах Сатурна нашли прозрачный объект правильной формы который не вращается вместе с массой льда:s:1547959:e:934-->
+<!----><!--2026-04-26 14:06:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/georadary_nashli_pod_goroj_ararat_set_tunnelej_kotorye_v_tochnosti_povtoryajut_strukturu_noeva_kovchega">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/301b18c0d77dbebdf240b49381ddba9a/" src="http://pic.rtbcdn.ru/video/2026-04-26/8b/4f/8b4fab4912f73d7d87795604d28ef57f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/georadary_nashli_pod_goroj_ararat_set_tunnelej_kotorye_v_tochnosti_povtoryajut_strukturu_noeva_kovchega">Георадары нашли под горой Арарат сеть туннелей которые в точности повторяют структуру Ноева Ковчега?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-26</i>
+  </div>
+</div><!--n:Тайны/Георадары нашли под горой Арарат сеть туннелей которые в точности повторяют структуру Ноева Ковчега:s:1549116:e:936-->
+<!----><!--2026-04-27 03:29:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/shturmovik_-_situaciya_na_fronte">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/34d42c507654972e08fac400abec8f97/" src="http://pic.rtbcdn.ru/video/2026-04-25/23/53/235371934bfb67a9c650c39c5f848db2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/shturmovik_-_situaciya_na_fronte">Штурмовик - ситуaция на фронте</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Жизнь в США и России/Штурмовик - ситуaция на фронте:s:1550274:e:694-->
+<!----><!--2026-04-27 09:07:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_7_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/40ee1723d6b911a72c499a4973782477/" src="http://pic.rtbcdn.ru/video/2026-04-26/89/4b/894b31c2ee9f2870f1034517e0ac9e3e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_7_seriya_serial_2003_pirate_islands">Пиратские острова - 7 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 7 серия (сериал 2003) Pirate Islands:s:1551085:e:738-->
+<!----><!--2026-04-27 09:19:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_19_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cd59ef67a9e9285ef6182dac55b41272/" src="http://pic.rtbcdn.ru/video/2026-04-26/41/17/4117575e00d0ffd26e4b488c533cda55.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_19_seriya_serial_2003_pirate_islands">Пиратские острова - 19 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 19 серия (сериал 2003) Pirate Islands:s:1551948:e:741-->
+<!----><!--2026-04-27 09:16:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_16_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/43f5823df8a8536625a1240bd84814be/" src="http://pic.rtbcdn.ru/video/2026-04-26/de/13/de13089a649466d0bdf8c45ee7a77413.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_16_seriya_serial_2003_pirate_islands">Пиратские острова - 16 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 16 серия (сериал 2003) Pirate Islands:s:1552815:e:741-->
+<!----><!--2026-04-27 09:15:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_15_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7c5303902e046e21601f4f881b43c2d7/" src="http://pic.rtbcdn.ru/video/2026-04-26/10/cf/10cfc61b901d5f666cec0616df5321fa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_15_seriya_serial_2003_pirate_islands">Пиратские острова - 15 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 15 серия (сериал 2003) Pirate Islands:s:1553682:e:741-->
+<!----><!--2026-04-27 09:12:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_12_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6c1c085997cd5278b610def6433685f2/" src="http://pic.rtbcdn.ru/video/2026-04-26/38/56/38561d474143285b4d7287f162d6fddd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_12_seriya_serial_2003_pirate_islands">Пиратские острова - 12 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 12 серия (сериал 2003) Pirate Islands:s:1554549:e:741-->
+<!----><!--2026-04-27 09:22:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_22_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fe8d937a7ce0276760e2fc8cbcf6516a/" src="http://pic.rtbcdn.ru/video/2026-04-26/b3/43/b343676a8d042e1a40b61eff20ef0738.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_22_seriya_serial_2003_pirate_islands">Пиратские острова - 22 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 22 серия (сериал 2003) Pirate Islands:s:1555416:e:741-->
+<!----><!--2026-04-27 09:13:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_13_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c79a12476925f2189b730bf9b0abae77/" src="http://pic.rtbcdn.ru/video/2026-04-26/e0/c5/e0c50d84000a8269561c4f07da8ebc03.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_13_seriya_serial_2003_pirate_islands">Пиратские острова - 13 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 13 серия (сериал 2003) Pirate Islands:s:1556283:e:741-->
+<!----><!--2026-04-27 09:18:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_18_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/30558109e4746524b28cc96085533155/" src="http://pic.rtbcdn.ru/video/2026-04-26/da/c4/dac46f3508be0d31f772e85bcc629b90.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_18_seriya_serial_2003_pirate_islands">Пиратские острова - 18 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 18 серия (сериал 2003) Pirate Islands:s:1557150:e:741-->
+<!----><!--2026-04-27 09:21:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_21_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0d82411b6eb5fffd789573e6e6309845/" src="http://pic.rtbcdn.ru/video/2026-04-26/fd/d5/fdd58c3db37896b042ca5064d6ea0f56.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_21_seriya_serial_2003_pirate_islands">Пиратские острова - 21 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 21 серия (сериал 2003) Pirate Islands:s:1558017:e:741-->
+<!----><!--2026-04-27 09:20:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_20_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fd8ee2e8b72923c58ab77e33368369d9/" src="http://pic.rtbcdn.ru/video/2026-04-26/42/12/42126de72db2d49b8771f743388d94bf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_20_seriya_serial_2003_pirate_islands">Пиратские острова - 20 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 20 серия (сериал 2003) Pirate Islands:s:1558884:e:741-->
+<!----><!--2026-04-27 09:26:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_26_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c885a0d6a17fed607e57745d0b094c65/" src="http://pic.rtbcdn.ru/video/2026-04-26/75/c5/75c5d890512efea512d99513f56768d7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_26_seriya_serial_2003_pirate_islands">Пиратские острова - 26 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 26 серия (сериал 2003) Pirate Islands:s:1559751:e:741-->
+<!----><!--2026-04-27 09:25:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_25_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/13ac15281c0b86d19d43c43b3e055560/" src="http://pic.rtbcdn.ru/video/2026-04-26/d2/89/d2891187e43824f00fbd057aa0dabbd1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_25_seriya_serial_2003_pirate_islands">Пиратские острова - 25 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 25 серия (сериал 2003) Pirate Islands:s:1560618:e:741-->
+<!----><!--2026-04-27 09:09:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_9_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5d7a75c543bf970aed2e7287e9546a6b/" src="http://pic.rtbcdn.ru/video/2026-04-26/7e/9c/7e9cbd6cdf3b54c456feae9271a9cb3e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_9_seriya_serial_2003_pirate_islands">Пиратские острова - 9 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 9 серия (сериал 2003) Pirate Islands:s:1561485:e:738-->
+<!----><!--2026-04-27 09:17:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_17_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bee1897e58eedeb34ddbd5dfb427a0cf/" src="http://pic.rtbcdn.ru/video/2026-04-26/f3/f6/f3f690810a759012302c7f393a8b9b7f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_17_seriya_serial_2003_pirate_islands">Пиратские острова - 17 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 17 серия (сериал 2003) Pirate Islands:s:1562348:e:741-->
+<!----><!--2026-04-27 09:10:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_10_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bc5ddec93c78a6c97f681f896d8fc31e/" src="http://pic.rtbcdn.ru/video/2026-04-26/e1/15/e115d2007b6e393d5e1fee9c8ca014a6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_10_seriya_serial_2003_pirate_islands">Пиратские острова - 10 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 10 серия (сериал 2003) Pirate Islands:s:1563215:e:741-->
+<!----><!--2026-04-27 09:23:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_23_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b9eae62e1948737364d87abcff9dbcfb/" src="http://pic.rtbcdn.ru/video/2026-04-26/82/05/8205ac842b14695b0eaa18d0e48e6822.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_23_seriya_serial_2003_pirate_islands">Пиратские острова - 23 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 23 серия (сериал 2003) Pirate Islands:s:1564082:e:741-->
+<!----><!--2026-04-27 09:14:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_14_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/efc8c0b7310ac03b64dbadfb06169b88/" src="http://pic.rtbcdn.ru/video/2026-04-26/3d/aa/3daa85d254dc8b9def282c604cb6c5a0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_14_seriya_serial_2003_pirate_islands">Пиратские острова - 14 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 14 серия (сериал 2003) Pirate Islands:s:1564949:e:741-->
+<!----><!--2026-04-27 09:24:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_24_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/53c60bc17f170b96c622b0423d33372f/" src="http://pic.rtbcdn.ru/video/2026-04-26/05/ce/05ce73d3ef5c41ed50b230b2ad58314b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_24_seriya_serial_2003_pirate_islands">Пиратские острова - 24 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 24 серия (сериал 2003) Pirate Islands:s:1565816:e:741-->
+<!----><!--2026-04-27 09:11:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_11_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5985dcbe637442cc532a68c4ed76a11f/" src="http://pic.rtbcdn.ru/video/2026-04-26/17/24/17249d4822ccc3841d48b940acc4b90e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_11_seriya_serial_2003_pirate_islands">Пиратские острова - 11 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 11 серия (сериал 2003) Pirate Islands:s:1566683:e:741-->
+<!----><!--2026-04-27 09:08:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_8_seriya_serial_2003_pirate_islands">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ebaac195f9ebcf5143b465d78aa9dec7/" src="http://pic.rtbcdn.ru/video/2026-04-26/94/5d/945d12d0ac1488d068bf718a23da2c6b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/piratskie_ostrova_-_8_seriya_serial_2003_pirate_islands">Пиратские острова - 8 серия (сериал 2003) / Pirate Islands</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Пиратские острова - 8 серия (сериал 2003) Pirate Islands:s:1567550:e:738-->
+<!----><!--2026-04-27 19:19:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nato_ne_svetit_rekordy_bentli_v_kieve_udary_po_odesse_pokushenie_27_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/926e643330331e6d588c09bfc94d47c2/" src="http://pic.rtbcdn.ru/video/2026-04-27/fa/31/fa3163989ae35ec70107ceac692ca4d7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nato_ne_svetit_rekordy_bentli_v_kieve_udary_po_odesse_pokushenie_27_04_26">Украинский фронт - НАТО не светит. Рекорды Бентли в Киеве. Удары по Одессе. Покушение. 27.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - НАТО не светит. Рекорды Бентли в Киеве. Удары по Одессе. Покушение. 27.04.26:s:1568413:e:923-->
+<!----><!--2026-04-27 19:42:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/morkovka_nato">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/19247a715cf475b7f64962f7d13a7b5d/" src="http://pic.rtbcdn.ru/video/2026-04-27/f2/45/f2451932a55c52b21dc48e1b69fec44a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/morkovka_nato">Морковка НАТО</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Жизнь в США и России/Морковка НАТО:s:1569562:e:627-->
+<!----><!--2026-04-28 12:01:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_1_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/19a8a416dc693d165a40e0d6f6b22398/" src="http://pic.rtbcdn.ru/video/2026-04-27/b7/57/b757dd51d5a391dd6c9d1b79bd94764f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_1_seriya_serial_2026">Если сегодня вторник, значит, это убийство - 1 сезон 1 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Если сегодня вторник, значит, это убийство - 1 сезон 1 серия (сериал 2026):s:1570277:e:814-->
+<!----><!--2026-04-28 12:05:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_5_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2f0d4f51be12a8cdff69d68974704a17/" src="http://pic.rtbcdn.ru/video/2026-04-27/63/b4/63b49cd803dae3dc8e6c973740e3f851.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_5_seriya_serial_2026">Если сегодня вторник, значит, это убийство - 1 сезон 5 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Если сегодня вторник, значит, это убийство - 1 сезон 5 серия (сериал 2026):s:1571258:e:814-->
+<!----><!--2026-04-28 12:03:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_3_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/80d079c6c644ba0b43498512117ee470/" src="http://pic.rtbcdn.ru/video/2026-04-27/78/a2/78a2548fdf81b16bbb234d463c10d196.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_3_seriya_serial_2026">Если сегодня вторник, значит, это убийство - 1 сезон 3 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Если сегодня вторник, значит, это убийство - 1 сезон 3 серия (сериал 2026):s:1572239:e:814-->
+<!----><!--2026-04-28 12:04:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_4_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fc84e07efecb7141bb663e43b735b1b3/" src="http://pic.rtbcdn.ru/video/2026-04-27/37/42/37426f216b1473a272e68d0828c4cd7a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_4_seriya_serial_2026">Если сегодня вторник, значит, это убийство - 1 сезон 4 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Если сегодня вторник, значит, это убийство - 1 сезон 4 серия (сериал 2026):s:1573220:e:814-->
+<!----><!--2026-04-27 19:12:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_8_seriya_rooster">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ded05da572531136d0f93252966093db/" src="http://pic.rtbcdn.ru/video/2026-04-27/92/b4/92b4f3ddf0b2f5bfc48fe37837d4ddc2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_8_seriya_rooster">Сериал Рустер 1 сезон 8 серия / Rooster</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Сериал Рустер 1 сезон 8 серия Rooster:s:1574201:e:725-->
+<!----><!--2026-04-27 18:00:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/put_k_tebe_film_2026_the_way_to_you">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e0ba1b17a82a0096517c5ba18e4883ae/" src="http://pic.rtbcdn.ru/video/2026-04-27/09/59/0959cde58ebebd9e137e151113cdb679.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/put_k_tebe_film_2026_the_way_to_you">Путь к тебе (фильм 2026) / The Way to You</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Путь к тебе (фильм 2026) The Way to You:s:1575027:e:668-->
+<!----><!--2026-04-27 18:28:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/vershina_film_2026_apex">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9308815e670580828e5a2edd1dc87cb2/" src="http://pic.rtbcdn.ru/video/2026-04-27/8b/55/8b55bc6f6e6a41ccb6684631664cfe5d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/vershina_film_2026_apex">Вершина (фильм 2026) / Apex</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Вершина (фильм 2026) Apex:s:1575790:e:628-->
+<!----><!--2026-04-28 12:02:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_2_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4ad3b0dc57b2a994911fbdf2287667a0/" src="http://pic.rtbcdn.ru/video/2026-04-27/56/38/56389178e13686ffdb7084c38c5c6cbc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_2_seriya_serial_2026">Если сегодня вторник, значит, это убийство - 1 сезон 2 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Если сегодня вторник, значит, это убийство - 1 сезон 2 серия (сериал 2026):s:1576497:e:814-->
+<!----><!--2026-04-28 12:07:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_7_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6577331febd2c3a59350ea5a28ebde7f/" src="http://pic.rtbcdn.ru/video/2026-04-27/83/7b/837b9af7f96b6d0ad46ad8c5e2b83cf0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_7_seriya_serial_2026">Если сегодня вторник, значит, это убийство - 1 сезон 7 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Если сегодня вторник, значит, это убийство - 1 сезон 7 серия (сериал 2026):s:1577478:e:814-->
+<!----><!--2026-04-28 12:06:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_6_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1761c1f26c6168d72207efff8883151b/" src="http://pic.rtbcdn.ru/video/2026-04-27/2c/c1/2cc159878e9a939b1528201f41bd06b5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/esli_segodnya_vtornik_znachit_eto_ubijstvo_-_1_sezon_6_seriya_serial_2026">Если сегодня вторник, значит, это убийство - 1 сезон 6 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Если сегодня вторник, значит, это убийство - 1 сезон 6 серия (сериал 2026):s:1578459:e:814-->
+<!----><!--2026-04-27 19:00:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_9_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f695c0e317bb4a9a47bf1ec0e25c1d71/" src="http://pic.rtbcdn.ru/video/2026-04-27/eb/a1/eba1c6998d9e6407a6ab60eba4eedbc9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_9_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 9 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-27</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 9 серия Marshals:s:1579440:e:755-->
+<!----><!--2026-04-28 19:50:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kotel_v_konstantinovke_estoniya_vymiraet_oae_vyhodit_iz_opek_28_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/84a9654fe4774d67a76b09e840e94a08/" src="http://pic.rtbcdn.ru/video/2026-04-28/89/69/89697c91fa6697b945b4aee0dc78ece8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kotel_v_konstantinovke_estoniya_vymiraet_oae_vyhodit_iz_opek_28_04_26">Украинский фронт - котел в Константиновке. Эстония вымирает. ОАЭ выходит из ОПЕК. 28.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - котел в Константиновке. Эстония вымирает. ОАЭ выходит из ОПЕК. 28.04.26:s:1580309:e:908-->
+<!----><!--2026-04-29 15:35:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_7_seriya_daredevil_born_again">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6ba325c7a3c031bcecf6725e20fba1e5/" src="http://pic.rtbcdn.ru/video/2026-04-29/b7/79/b77951cac7ff86e11f4a87dbf1d92b2a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_7_seriya_daredevil_born_again">Сериал Сорвиголова: Рожденный заново 2 сезон 7 серия / Daredevil: Born Again</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-29</i>
+  </div>
+</div><!--n:Мир кино/Сериал Сорвиголова Рожденный заново 2 сезон 7 серия Daredevil Born Again:s:1581436:e:852-->
+<!----><!--2026-04-28 17:00:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/nochnaya_smena_film_2025_heldin">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/74971581e33ff837695ab3461eb292b7/" src="http://pic.rtbcdn.ru/video/2026-04-27/a7/8a/a78aae2ce1f832862d61cc011b02fac9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/nochnaya_smena_film_2025_heldin">Ночная смена (фильм 2025) / Heldin</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-04-28</i>
+  </div>
+</div><!--n:Мир кино/Ночная смена (фильм 2025) Heldin:s:1582444:e:655-->
+<!----><!--2026-04-29 07:47:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_lesah_montany_zafiksirovali_nevidimye_steny_kotorye_blokirujut_prohod_i_lomajut_tehniku">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/968d8b59c554571bfe75c877396bf0d1/" src="http://pic.rtbcdn.ru/video/2026-04-28/18/ac/18ac20b9c823ff0ec5a5431c217237a5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_lesah_montany_zafiksirovali_nevidimye_steny_kotorye_blokirujut_prohod_i_lomajut_tehniku">В лесах Монтаны зафиксировали невидимые "стены" которые блокируют проход и ломают технику</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-29</i>
+  </div>
+</div><!--n:Тайны/В лесах Монтаны зафиксировали невидимые стены которые блокируют проход и ломают технику:s:1583189:e:887-->
+<!----><!--2026-04-29 07:47:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/plazma_schitaetsya_osnovnym_elementom_v_tehnologii_ustrojstva_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e0003aae37376e6af024bf512a969413/" src="http://pic.rtbcdn.ru/video/2026-04-28/77/22/77222286cc665ddb6e701a71b8c5586d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/plazma_schitaetsya_osnovnym_elementom_v_tehnologii_ustrojstva_nlo">Плазма считается основным элементом в технологии устройства НЛО?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-29</i>
+  </div>
+</div><!--n:Тайны/Плазма считается основным элементом в технологии устройства НЛО:s:1584276:e:794-->
+<!----><!--2026-04-29 07:47:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_video_iz_kanalizacii_zametili_sushchestvo_pohojee_na_dinozavra">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/efa639c658e1b1833c1bf582518364c5/" src="http://pic.rtbcdn.ru/video/2026-04-28/c6/86/c686b9e0470662ca7068b833d9c05109.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_video_iz_kanalizacii_zametili_sushchestvo_pohojee_na_dinozavra">На видео из канализации заметили существо похожее на динозавра?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-29</i>
+  </div>
+</div><!--n:Тайны/На видео из канализации заметили существо похожее на динозавра:s:1585226:e:791-->
+<!----><!--2026-04-29 19:55:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vova_i_opg_umerov_i_600_mln_krysa_karl_v_ssha_tuapse_i_perm_29_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1a371fe5e7aab51fe7f137a9b3d5e2db/" src="http://pic.rtbcdn.ru/video/2026-04-29/a1/2e/a12e6f2969d0fb29c80d4e4795fdd524.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vova_i_opg_umerov_i_600_mln_krysa_karl_v_ssha_tuapse_i_perm_29_04_26">Украинский фронт - Вова и ОПГ. Умеров и 600 млн. Крыса Карл в США. Туапсе и Пермь. 29.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-29</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Вова и ОПГ. Умеров и 600 млн. Крыса Карл в США. Туапсе и Пермь. 29.04.26:s:1586170:e:899-->
+<!----><!--2026-04-30 07:41:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_5_seriya_the_boys">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f26d040452b444ab3d234b2edd2cbfe8/" src="http://pic.rtbcdn.ru/video/2026-04-30/f1/8d/f18d454664384d4ce439e3a3f4582040.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_5_seriya_the_boys">Сериал Пацаны 5 сезон 5 серия / The Boys</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Мир кино/Сериал Пацаны 5 сезон 5 серия The Boys:s:1587281:e:728-->
+<!----><!--2026-04-29 21:46:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_mir_jurskogo_perioda_vozrojdenie_jurassic_world_rebirth">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f5fb2396099c51c1248fd1795c1a3bd5/" src="http://pic.rtbcdn.ru/video/2025-07-07/19/8c/198c0aca8a28d325901b40ef2833313d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_mir_jurskogo_perioda_vozrojdenie_jurassic_world_rebirth">Фильм Мир юрского периода: Возрождение / Jurassic World Rebirth</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-29</i>
+  </div>
+</div><!--n:Мир кино/Фильм Мир юрского периода Возрождение Jurassic World Rebirth:s:1588111:e:804-->
+<!----><!--2026-04-30 13:30:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/signal_s_sozvezdiya_orion_mog_vyzyvat_rezonans_v_piramide_heopsa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ff37c9e1622532ae9dbfe826d9f1032f/" src="http://pic.rtbcdn.ru/video/2026-04-30/94/9d/949d3f59ea0157c29216aca01e1d621d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/signal_s_sozvezdiya_orion_mog_vyzyvat_rezonans_v_piramide_heopsa">Сигнал с созвездия Орион мог вызывать резонанс в Пирамиде Хеопса?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Тайны/Сигнал с созвездия Орион мог вызывать резонанс в Пирамиде Хеопса:s:1589050:e:792-->
+<!----><!--2026-04-30 13:29:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kamera_solnechnoj_observatorii_zasnyala_gigantskij_nlo_u_solnca_razmerom_s_jupiter">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/da7e8cfd1a18f19e9f0f3bf403990dc3/" src="http://pic.rtbcdn.ru/video/2026-04-30/84/9e/849e9d101b87d7e9e4fb0cb38ffddb7a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kamera_solnechnoj_observatorii_zasnyala_gigantskij_nlo_u_solnca_razmerom_s_jupiter">Камера солнечной обсерватории засняла гигантский НЛО у Солнца размером с Юпитер</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Тайны/Камера солнечной обсерватории засняла гигантский НЛО у Солнца размером с Юпитер:s:1589998:e:856-->
+<!----><!--2026-04-30 13:29:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_sputnikovyh_kartah_antarktidy_zametili_vhod_v_podzemnyj_obekt_i_pozje_uchastok_okazalsya_razmytym">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5c4521ac807074457b90102142f0feb9/" src="http://pic.rtbcdn.ru/video/2026-04-30/53/0b/530be077ed413261dca3423a871d03db.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_sputnikovyh_kartah_antarktidy_zametili_vhod_v_podzemnyj_obekt_i_pozje_uchastok_okazalsya_razmytym">На спутниковых картах Антарктиды заметили вход в подземный объект и позже участок оказался размытым</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Тайны/На спутниковых картах Антарктиды заметили вход в подземный объект и позже участок оказался размытым:s:1591039:e:929-->
+<!----><!--2026-04-30 13:28:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_gorodskoj_legende_proekta_serpo_nashli_astronomicheskie_dannye_kotorye_uchenye_smogli_podtverdit">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f065c926904b90de47728dc18baab467/" src="http://pic.rtbcdn.ru/video/2026-04-30/c9/3b/c93b9e776cba936d91dc80e43fdf4551.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_gorodskoj_legende_proekta_serpo_nashli_astronomicheskie_dannye_kotorye_uchenye_smogli_podtverdit">В городской легенде проекта «Серпо» нашли астрономические данные которые ученые смогли подтвердить</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Тайны/В городской легенде проекта Серпо нашли астрономические данные которые ученые смогли подтвердить:s:1592190:e:925-->
+<!----><!--2026-04-30 13:31:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/teleskop_djejms_uebb_obnarujil_iskusstvennye_pomehi_pri_popytke_snyat_atmosferu_ekzoplanety_k2-18b">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9f711a2755d3a25e6fecbdbd5479f038/" src="http://pic.rtbcdn.ru/video/2026-04-30/36/38/36388f9aaea875c813b6af49ce3894b0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/teleskop_djejms_uebb_obnarujil_iskusstvennye_pomehi_pri_popytke_snyat_atmosferu_ekzoplanety_k2-18b">Телескоп Джеймс Уэбб обнаружил искусственные помехи при попытке снять атмосферу экзопланеты K2-18b</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Тайны/Телескоп Джеймс Уэбб обнаружил искусственные помехи при попытке снять атмосферу экзопланеты K2-18b:s:1593333:e:919-->
+<!----><!--2026-04-30 20:02:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-peremirie_na_9_maya_tramp_unichtojil_vsu_vzyali_ilinovku_30_04_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a87fa8f19ff0a4023dfacd9631797701/" src="http://pic.rtbcdn.ru/video/2026-04-30/18/4a/184ac9aa50ad5578208c274fcaa55fdc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-peremirie_na_9_maya_tramp_unichtojil_vsu_vzyali_ilinovku_30_04_26">Украинский фронт -перемирие на 9 мая. Трамп уничтожил ВСУ. Взяли Ильиновку. 30.04.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт -перемирие на 9 мая. Трамп уничтожил ВСУ. Взяли Ильиновку. 30.04.26:s:1594468:e:886-->
+<!----><!--2026-05-01 14:10:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/multfilm_v_chujoj_shkure_swapped">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9cb0bb9cec036bfdf38cb3606ebcbea0/" src="http://pic.rtbcdn.ru/video/2026-05-01/68/8e/688edd3a9026abbc8f158ba52a428daf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/multfilm_v_chujoj_shkure_swapped">Мультфильм В чужой шкуре / Swapped</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Мир кино/Мультфильм В чужой шкуре Swapped:s:1595561:e:707-->
+<!----><!--2026-04-30 22:36:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_kak_priruchit_drakona_how_to_train_your_dragon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6546a101882348d7147a96b0ee137478/" src="http://pic.rtbcdn.ru/video/2025-07-15/72/e3/72e3ae9281befc5a26b69d1d03d09104.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_kak_priruchit_drakona_how_to_train_your_dragon">Фильм Как приручить дракона / How to Train Your Dragon</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Мир кино/Фильм Как приручить дракона How to Train Your Dragon:s:1596363:e:768-->
+<!----><!--2026-04-30 17:21:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/kuala-lumpur_aziatskij_dubaj_i_nju-jork_chto_posmotret_za_2_dnya_dostoprimechatelnosti_eda_ceny">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/daa1f2f8d5eba16f943d4b74d80c9bb7/" src="http://pic.rtbcdn.ru/video/2026-04-30/ff/a6/ffa6fac25b434e16878ff813fb37c62d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/kuala-lumpur_aziatskij_dubaj_i_nju-jork_chto_posmotret_za_2_dnya_dostoprimechatelnosti_eda_ceny">Куала-Лумпур: азиатский Дубай и Нью-Йорк! Что посмотреть за 2 дня. Достопримечательности, еда, цены.</a></p>
+    <p><i class="smaller2">Вот это отдых | Путешествия своим ходом</i></p>
+    <i class="smaller3">2026-04-30</i>
+  </div>
+</div><!--n:Путешествия свои ходом/Куала-Лумпур азиатский Дубай и Нью-Йорк Что посмотреть за 2 дня. Достопримечательности, еда, цены.:s:1597249:e:996-->
+<!----><!--2026-05-01 07:58:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/signal_s_sozvezdiya_orion_vyzval_rezonans_v_piramide_heopsa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ff37c9e1622532ae9dbfe826d9f1032f/" src="http://pic.rtbcdn.ru/video/2026-04-30/94/9d/949d3f59ea0157c29216aca01e1d621d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/signal_s_sozvezdiya_orion_vyzval_rezonans_v_piramide_heopsa">Сигнал с созвездия Орион вызвал резонанс в Пирамиде Хеопса?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Тайны/Сигнал с созвездия Орион вызвал резонанс в Пирамиде Хеопса:s:1598491:e:771-->
+<!----><!--2026-05-01 07:58:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_sputnikovyh_kartah_antarktidy_zametili_vhod_v_podzemnyj_obekt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5c4521ac807074457b90102142f0feb9/" src="http://pic.rtbcdn.ru/video/2026-04-30/53/0b/530be077ed413261dca3423a871d03db.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_sputnikovyh_kartah_antarktidy_zametili_vhod_v_podzemnyj_obekt">На спутниковых картах Антарктиды заметили вход в подземный объект?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Тайны/На спутниковых картах Антарктиды заметили вход в подземный объект:s:1599407:e:795-->
+<!----><!--2026-05-01 07:58:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/issledovateli_vnov_zayavili_o_nahodke_vtorogo_sfinksa_ryadom_s_piramidami_gizy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/55fa4593b3ed349592411d8eb28ae5ab/" src="http://pic.rtbcdn.ru/video/2026-04-28/a2/b1/a2b19f64d49140f966931e8c5782fed6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/issledovateli_vnov_zayavili_o_nahodke_vtorogo_sfinksa_ryadom_s_piramidami_gizy">Исследователи вновь заявили о находке Второго Сфинкса рядом с пирамидами Гизы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Тайны/Исследователи вновь заявили о находке Второго Сфинкса рядом с пирамидами Гизы:s:1600361:e:844-->
+<!----><!--2026-05-01 07:58:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/teleskop_djejms_uebb_obnarujil_iskusstvennye_pomehi_pri_popytke_snyat_ekzoplanetu_k2-18b">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9f711a2755d3a25e6fecbdbd5479f038/" src="http://pic.rtbcdn.ru/video/2026-04-30/36/38/36388f9aaea875c813b6af49ce3894b0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/teleskop_djejms_uebb_obnarujil_iskusstvennye_pomehi_pri_popytke_snyat_ekzoplanetu_k2-18b">Телескоп Джеймс Уэбб обнаружил искусственные помехи при попытке снять экзопланету K2-18b</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Тайны/Телескоп Джеймс Уэбб обнаружил искусственные помехи при попытке снять экзопланету K2-18b:s:1601386:e:880-->
+<!----><!--2026-05-01 11:49:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/berejkami_da_lujkami_rubejami_da_mejami">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9a9d47fcf2fba70ea7a1c2e17adf5f66/" src="http://pic.rtbcdn.ru/video/2026-05-01/d9/ce/d9cec725689f31d1e7830b04e1284b9a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/berejkami_da_lujkami_rubejami_da_mejami">БЕРЕЖКАМИ ДА ЛУЖКАМИ, РУБЕЖАМИ ДА МЕЖАМИ.</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Тайны/БЕРЕЖКАМИ ДА ЛУЖКАМИ, РУБЕЖАМИ ДА МЕЖАМИ.:s:1602463:e:711-->
+<!----><!--2026-05-01 07:58:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/solnechnaya_observatoriya_zasnyala_gigantskij_nlo_u_solnca_razmerom_s_jupiter">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/da7e8cfd1a18f19e9f0f3bf403990dc3/" src="http://pic.rtbcdn.ru/video/2026-04-30/84/9e/849e9d101b87d7e9e4fb0cb38ffddb7a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/solnechnaya_observatoriya_zasnyala_gigantskij_nlo_u_solnca_razmerom_s_jupiter">Солнечная обсерватория засняла гигантский НЛО у Солнца размером с Юпитер</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Тайны/Солнечная обсерватория засняла гигантский НЛО у Солнца размером с Юпитер:s:1603286:e:833-->

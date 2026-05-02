@@ -9,10 +9,10 @@ RSSlist = {
   'habr': {'hdr':'Подборка с сайтов/Хабр', 'url':'https://habr.com/ru/rss/news/?fl=ru', 'cut':480, 'total':3},
   'kino_kino': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml', 'cut':1000, 'total':2},
   'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml', 'cut':1000, 'total':1},
-  # 'povar': {'hdr':'Подборка рецептов/Повар.РУ', 'url':'https://povar.ru/rss', 'cut':480, 'total':5},
-  'povarenok': {'hdr':'Подборка рецептов/Поваренок.РУ', 'url':'https://www.povarenok.ru/rss/recipes/', 'cut':480, 'total':3},
-  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru', 'url':'https://finecooking.ru/feed/rss', 'cut':480, 'total':3},
+  'povarenok': {'hdr':'Подборка рецептов/Поваренок.РУ', 'url':'https://www.povarenok.ru/rss/recipes/', 'enclosure':1, 'cut':480, 'total':3},
+  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru', 'url':'https://finecooking.ru/feed/rss', 'enclosure':1, 'cut':480, 'total':3},
   'prosto_linux': {'hdr':'Подборка с сайтов/Prosto Linux', 'url':'https://prosto-linux.ru/feed', 'cut':1000, 'total':10},
+  'yaplakal':{'hdr':'Подборка с сайтов/ЯПлакал', 'url':'https://www.yaplakal.com/news.xml', 'cut':2000, 'total':4},
 }
 
 import os, sys, time, re
@@ -36,8 +36,9 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
         link = item.find('link').text
         text = item.find('description').text
         if not text: continue
-        for encl in item.findall('enclosure'):
-          text = '<a href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=encl.get('url')) + text
+        if prm.get('enclosure'):
+          for encl in item.findall('enclosure'):
+            text = '<a href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=encl.get('url')) + text
         ptitl = '<p class="titl"><a href="{link}">{titl}</a></p>'.format(link=link, titl=titl)
         pdate = item.find('pubDate').text
         if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
