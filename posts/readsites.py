@@ -6,13 +6,13 @@
 #
 
 RSSlist = {
-  'habr': {'hdr':'Подборка с сайтов/Хабр', 'url':'https://habr.com/ru/rss/news/?fl=ru', 'cut':480, 'total':3},
-  'kino_kino': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml', 'cut':1000, 'total':2},
-  'kino_teatr': {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml', 'cut':1000, 'total':1},
-  'povarenok': {'hdr':'Подборка рецептов/Поваренок.РУ', 'url':'https://www.povarenok.ru/rss/recipes/', 'enclosure':1, 'cut':480, 'total':3},
-  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru', 'url':'https://finecooking.ru/feed/rss', 'enclosure':1, 'cut':480, 'total':3},
-  'prosto_linux': {'hdr':'Подборка с сайтов/Prosto Linux', 'url':'https://prosto-linux.ru/feed', 'cut':1000, 'total':10},
-  'yaplakal':{'hdr':'Подборка с сайтов/ЯПлакал', 'url':'https://www.yaplakal.com/news.xml', 'cut':2000, 'total':4},
+  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru','url':'https://finecooking.ru/feed/rss',      'cut':480,  'total':3, 'enclosure':1 },
+  'habr':        {'hdr':'Подборка с сайтов/Хабр',          'url':'https://habr.com/ru/rss/news/?fl=ru',  'cut':480,  'total':3},
+  'kino_kino':   {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml',   'cut':1000, 'total':2},
+  'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml',  'cut':1000, 'total':1},
+  'povarenok':   {'hdr':'Подборка рецептов/Поваренок.РУ',  'url':'https://www.povarenok.ru/rss/recipes/','cut':480,  'total':3, 'enclosure':1 },
+  'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',  'url':'https://prosto-linux.ru/feed',         'cut':1000, 'total':10},
+  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',       'url':'https://www.yaplakal.com/news.xml',    'cut':2000, 'total':4},
 }
 
 import os, sys, time, re
