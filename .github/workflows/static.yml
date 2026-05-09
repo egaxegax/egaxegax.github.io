@@ -75,6 +75,10 @@ jobs:
       - name: rambler msk
         if: github.event.schedule == '0 3 * * *'
         run: python3 posts/readrss.py ramblerm
+      - name: echo
+        env:
+          VARS: ${{ toJson(github) }}
+        run: echo "$VARS
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
