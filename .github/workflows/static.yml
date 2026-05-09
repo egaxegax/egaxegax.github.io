@@ -45,36 +45,46 @@ jobs:
 
       - name: povarenok.ru feed updater
         # if: github.event.schedule == '0 21 * * *'
+        continue-on-error: true
         run: python3 posts/readsites.py povarenok
       - name: finecooking.ru site update
         # if: github.event.schedule ==  '0 22 * * *'
+        continue-on-error: true
         run: python3 posts/readsites.py finecooking
       - name: prosto-linux feed
         # if: github.event.schedule == '0 7 * * *'
+        continue-on-error: true
         run: python3 posts/readsites.py prosto_linux
       - name: kino-teatr.ru updater
         # if: github.event.schedule == '0 9 * * *'
+        continue-on-error: true
         run: python3 posts/readsites.py kino_kino kino_teatr
       # - name:	youtube.com updater
       #   if: github.event.schedule == '0 12 * * *'
       #   run: python3 posts/readyfeed.py
       - name:	rutube.ru updater
         # if: github.event.schedule == '0 13 * * *'
+        continue-on-error: true
         run: python3 posts/readrufeed.py
       - name: eadaily.com rss updater
         # if: github.event.schedule == '0 15 * * *'
+        continue-on-error: true
         run: python3 posts/readrss.py eadaily
       - name: habr.com feed
         # if: github.event.schedule == '0 15 * * *'
+        continue-on-error: true
         run: python3 posts/readsites.py habr
       - name: mk nauka updater
         # if: github.event.schedule == '15 17 * * *'
+        continue-on-error: true
         run: python3 posts/readrss.py mk
       - name: voyeur feed
         # if: github.event.schedule == '0 0 * * *'
+        continue-on-error: true
         run: python3 posts/readvhfeed.py
       - name: rambler msk
         # if: github.event.schedule == '0 3 * * *'
+        continue-on-error: true
         run: python3 posts/readrss.py ramblerm
       - name: echo
         env:
