@@ -1,7 +1,7 @@
 name: Deploy static content to Pages
 
 on:
-  shedule:
+  schedule:
     - cron:	'0 23 * * *' #	povarenok.ru feed updater
     - cron:	'0 22 * * *' #	finecooking.ru site update
     - cron:	'0 7 * * *'  #	prosto-linux feed
@@ -10,7 +10,7 @@ on:
     - cron:	'0 13 * * *' #	rutube.ru updater
     - cron:	'0 15 * * *' #	eadaily.com rss updater
     - cron:	'0 15 * * *' #	habr.com feed
-    - cron:	'10 17 * * *' #	mk nauka updater
+    - cron:	'15 17 * * *' #	mk nauka updater
     - cron:	'0 0 * * *'	 #	voyeur feed
     - cron:	'0 3 * * *'  #	rambler msk
     - cron:	'0 3 * * *'  #	rambler mir
@@ -67,12 +67,15 @@ jobs:
         if: github.event.schedule == '0 15 * * *'
         run: python3 posts/readsites.py habr
       - name: mk nauka updater
-        if: github.event.schedule == '10 17 * * *'
+        if: github.event.schedule == '15 17 * * *'
         run: python3 posts/readrss.py mk
       - name: voyeur feed
         if: github.event.schedule == '0 0 * * *'
         run: python3 posts/readvhfeed.py
-      
+      - name: rambler msk
+        if: github.event.schedule == '0 3 * * *'
+        run: python3 posts/readrss.py ramblerm
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
