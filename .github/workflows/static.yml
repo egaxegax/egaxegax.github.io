@@ -78,7 +78,7 @@ jobs:
       - name: echo
         env:
           VARS: ${{ toJson(github) }}
-        run: echo "$VARS
+        run: echo "$VARS"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
