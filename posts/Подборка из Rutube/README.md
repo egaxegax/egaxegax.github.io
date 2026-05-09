@@ -18096,3 +18096,707 @@
     <i class="smaller3">2026-05-01</i>
   </div>
 </div><!--n:Тайны/Солнечная обсерватория засняла гигантский НЛО у Солнца размером с Юпитер:s:1603286:e:833-->
+<!----><!--2026-05-01 18:54:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_s_drujkami_ukrali_500_mln_doll_tuapse_udar_vzyali_miropole_01_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/03dea70af8e9bd5890b3845400b8e0e9/" src="http://pic.rtbcdn.ru/video/2026-05-01/dc/eb/dcebf97822b1dcba1f3fd236b95f0861.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_s_drujkami_ukrali_500_mln_doll_tuapse_udar_vzyali_miropole_01_05_26">Украинский фронт - Зеленский с дружками украли 500 млн долл. Туапсе удар. Взяли Мирополье. 01.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-01</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский с дружками украли 500 млн долл. Туапсе удар. Взяли Мирополье. 01.05.26:s:1604291:e:937-->
+<!----><!--2026-05-02 18:57:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_2_maya_do_i_posle_razlojenie_nato_obzor_po_karte_02_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/80d576585a3243186c10c2d7a2cca6ca/" src="http://pic.rtbcdn.ru/video/2026-05-02/91/60/91608554fb51983b9dc802445179dbf5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_2_maya_do_i_posle_razlojenie_nato_obzor_po_karte_02_05_26">Украинский фронт - 2 мая до и после. Разложение НАТО. Обзор по карте 02.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-02</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - 2 мая до и после. Разложение НАТО. Обзор по карте 02.05.26:s:1605460:e:857-->
+<!----><!--2026-05-03 09:52:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/proekt_konec_sveta_film_2026_project_hail_mary">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4b36d1aa0ea371a9fd79d91af410b39f/" src="http://pic.rtbcdn.ru/video/2026-05-02/0f/62/0f62f5c04eb06f29594f9c44eecc86c8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/proekt_konec_sveta_film_2026_project_hail_mary">Проект «Конец света» (фильм 2026) / Project Hail Mary</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-03</i>
+  </div>
+</div><!--n:Мир кино/Проект Конец света (фильм 2026) Project Hail Mary:s:1606509:e:711-->
+<!----><!--2026-05-03 09:00:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/laos_svoim_hodom_luchshe_tailanda_ventyan_luang_prabang_i_vang_veng_iznutri">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7497380849b6426c45e8f7b67fb559ad/" src="http://pic.rtbcdn.ru/video/2026-05-02/30/99/3099b4a4e424df02522721deb0e8a0c0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/laos_svoim_hodom_luchshe_tailanda_ventyan_luang_prabang_i_vang_veng_iznutri">Лаос своим ходом: лучше Таиланда? Вьентьян, Луанг Прабанг и Ванг Вьенг изнутри</a></p>
+    <p><i class="smaller2">Вот это отдых | Путешествия своим ходом</i></p>
+    <i class="smaller3">2026-05-03</i>
+  </div>
+</div><!--n:Путешествия свои ходом/Лаос своим ходом лучше Таиланда Вьентьян, Луанг Прабанг и Ванг Вьенг изнутри:s:1607332:e:919-->
+<!----><!--2026-05-04 10:05:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_5_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1d26addf329337cde1475b8e70b054cd/" src="http://pic.rtbcdn.ru/video/2026-05-04/28/69/28692044bc23a7f9c1c15df8a80b8cd1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_5_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 5 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 5 серия (сериал 2019) The Mandalorian:s:1608460:e:743-->
+<!----><!--2026-05-04 12:38:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_8_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d677b2510df8ba5b58c498562bfc13e0/" src="http://pic.rtbcdn.ru/video/2026-05-04/fb/48/fb48a77a7c73cc937869ec8a3cc627d7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_8_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 8 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 8 серия (сериал 2019) The Mandalorian:s:1609329:e:743-->
+<!----><!--2026-05-04 09:03:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_3_seriya_multserial_2024">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/39f0dfc2ee58120f5b5d9e1b25d3711d/" src="http://pic.rtbcdn.ru/video/2026-05-04/6c/16/6c161c2f17bcf75939dc3ffc52c458d8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_3_seriya_multserial_2024">LEGO Звёздные войны: Восстанови Галактику - 2 сезон 3 серия (мультсериал 2024)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/LEGO Звёздные войны Восстанови Галактику - 2 сезон 3 серия (мультсериал 2024):s:1610198:e:824-->
+<!----><!--2026-05-04 10:08:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_8_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f089d96472127ec0132cb4beed89f2c2/" src="http://pic.rtbcdn.ru/video/2026-05-04/09/4b/094b84c39556ebe792b21a5b4031c77d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_8_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 8 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 8 серия (сериал 2019) The Mandalorian:s:1611194:e:743-->
+<!----><!--2026-05-04 09:02:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_2_seriya_multserial_2024">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/478a5f2d90b23caf90193b90ed396da3/" src="http://pic.rtbcdn.ru/video/2026-05-04/6f/d7/6fd739f84b8237ff46c10e9a7f0c77e4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_2_seriya_multserial_2024">LEGO Звёздные войны: Восстанови Галактику - 2 сезон 2 серия (мультсериал 2024)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/LEGO Звёздные войны Восстанови Галактику - 2 сезон 2 серия (мультсериал 2024):s:1612063:e:824-->
+<!----><!--2026-05-04 10:07:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_7_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9a16fec49dc5328df7ea6a18c9cb6161/" src="http://pic.rtbcdn.ru/video/2026-05-04/fb/ed/fbedd189e770bf540a4940b4e5b5f80d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_7_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 7 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 7 серия (сериал 2019) The Mandalorian:s:1613059:e:743-->
+<!----><!--2026-05-04 09:01:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_1_seriya_multserial_2024">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/33fa0863bd50db9ec0d80786eb9a3aa0/" src="http://pic.rtbcdn.ru/video/2026-05-04/3c/34/3c34b5f647b3db807905f6537ac5e762.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_1_seriya_multserial_2024">LEGO Звёздные войны: Восстанови Галактику - 2 сезон 1 серия (мультсериал 2024)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/LEGO Звёздные войны Восстанови Галактику - 2 сезон 1 серия (мультсериал 2024):s:1613928:e:824-->
+<!----><!--2026-05-04 10:02:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_2_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/364060b13a3b6c71da0b3956a796b724/" src="http://pic.rtbcdn.ru/video/2026-05-04/74/b4/74b4e2df5bc83a476a79f4bd73b30fbc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_2_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 2 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 2 серия (сериал 2019) The Mandalorian:s:1614924:e:743-->
+<!----><!--2026-05-04 09:04:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_4_seriya_multserial_2024">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ee576bf498f07d61429d89cac99e9c74/" src="http://pic.rtbcdn.ru/video/2026-05-04/6d/f0/6df0d398aefdb11b7b27abe5419e7606.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_4_seriya_multserial_2024">LEGO Звёздные войны: Восстанови Галактику - 2 сезон 4 серия (мультсериал 2024)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/LEGO Звёздные войны Восстанови Галактику - 2 сезон 4 серия (мультсериал 2024):s:1615793:e:824-->
+<!----><!--2026-05-04 12:33:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_3_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bdf3c662a1a68f75beb6beabb02fbed8/" src="http://pic.rtbcdn.ru/video/2026-05-04/69/bb/69bb6fb088a7f2250181b1fd0f68c6e2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_3_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 3 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 3 серия (сериал 2019) The Mandalorian:s:1616789:e:743-->
+<!----><!--2026-05-04 12:36:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_6_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c6362c3c2eac533ef57778a32d919ffd/" src="http://pic.rtbcdn.ru/video/2026-05-04/73/fd/73fdf389236a6cb0ac36e0161bfc9ae5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_6_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 6 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 6 серия (сериал 2019) The Mandalorian:s:1617658:e:743-->
+<!----><!--2026-05-04 10:04:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_4_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/53d5d27b6f2f69e8fc1e1b66a639ae75/" src="http://pic.rtbcdn.ru/video/2026-05-04/f8/9d/f89d9eaa62a47a95662d3472b1eb20b7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_4_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 4 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 4 серия (сериал 2019) The Mandalorian:s:1618527:e:743-->
+<!----><!--2026-05-04 12:35:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_5_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5f8cfaf54a3cf3c67000dd4dd2dcaac9/" src="http://pic.rtbcdn.ru/video/2026-05-04/49/35/49355b95b8e4b9a08bf9fe5aee918f15.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_5_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 5 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 5 серия (сериал 2019) The Mandalorian:s:1619396:e:743-->
+<!----><!--2026-05-04 12:32:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_2_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3a585cd479d57d478c3678ad6f4ea151/" src="http://pic.rtbcdn.ru/video/2026-05-04/ca/93/ca935fbfa17d36d6e39a585945c17dc6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_2_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 2 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 2 серия (сериал 2019) The Mandalorian:s:1620265:e:743-->
+<!----><!--2026-05-04 10:01:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_1_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/60437b71eb39e656c58f079d1828692b/" src="http://pic.rtbcdn.ru/video/2026-05-04/cd/d5/cdd58f5b7eaeb4121e004f985cd6d6e1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_1_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 1 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 1 серия (сериал 2019) The Mandalorian:s:1621134:e:743-->
+<!----><!--2026-05-04 10:03:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_3_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ba68b4f18d7090a605ce34267a83950c/" src="http://pic.rtbcdn.ru/video/2026-05-04/08/30/08305a121232c58cb988cd1736342913.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_3_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 3 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 3 серия (сериал 2019) The Mandalorian:s:1622003:e:743-->
+<!----><!--2026-05-04 12:34:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_4_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b5dd11a9ecfa22acf6034712cb5553e3/" src="http://pic.rtbcdn.ru/video/2026-05-04/9b/2a/9b2a5c0ce041de9287d2e0272f11e2da.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_4_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 4 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 4 серия (сериал 2019) The Mandalorian:s:1622872:e:743-->
+<!----><!--2026-05-04 12:31:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_1_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dbef4326097f8e464977e033b32b4b78/" src="http://pic.rtbcdn.ru/video/2026-05-04/fb/21/fb21213743b9a841349ea37c9c6c2f9a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_1_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 1 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 1 серия (сериал 2019) The Mandalorian:s:1623741:e:743-->
+<!----><!--2026-05-04 10:06:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_6_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b4fbcc4a4a1654ad755d849f11df17af/" src="http://pic.rtbcdn.ru/video/2026-05-04/79/3e/793eb6bcc7cff6411f9e042871d8a24c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_1_sezon_6_seriya_serial_2019_the_mandalorian">Мандалорец - 1 сезон 6 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 1 сезон 6 серия (сериал 2019) The Mandalorian:s:1624610:e:743-->
+<!----><!--2026-05-04 12:37:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_7_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1da084cdb793fb6b7af449d9721091ef/" src="http://pic.rtbcdn.ru/video/2026-05-04/3b/97/3b97531913c4294bc9a6615e1cb2c361.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_2_sezon_7_seriya_serial_2019_the_mandalorian">Мандалорец - 2 сезон 7 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 2 сезон 7 серия (сериал 2019) The Mandalorian:s:1625479:e:743-->
+<!----><!--2026-05-04 11:41:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_antarktide_obnarujili_ochag_kotoryj_proedaet_ledyanoj_shchit_i_gudit_na_sotni_kilometrov_vokrug">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/70a1d5f0905b076c1119d07d0ddbf8e6/" src="http://pic.rtbcdn.ru/video/2026-05-04/5c/3b/5c3b9e91e59010a2efe7d73ed101e51f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_antarktide_obnarujili_ochag_kotoryj_proedaet_ledyanoj_shchit_i_gudit_na_sotni_kilometrov_vokrug">В Антарктиде обнаружили очаг который проедает ледяной щит и гудит на сотни километров вокруг</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Тайны/В Антарктиде обнаружили очаг который проедает ледяной щит и гудит на сотни километров вокруг:s:1626348:e:909-->
+<!----><!--2026-05-04 11:40:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ostrov-prizrak_godami_sushchestvoval_na_kartah_ryadom_s_avstraliej_no_v_realnosti_ego_ne_okazalos">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/829552d0eacc1da6d12fec712ea0994f/" src="http://pic.rtbcdn.ru/video/2026-05-04/19/fc/19fcd88ce4671bfbb41a7130c5b86356.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ostrov-prizrak_godami_sushchestvoval_na_kartah_ryadom_s_avstraliej_no_v_realnosti_ego_ne_okazalos">Остров-Призрак годами существовал на картах рядом с Австралией но в реальности его не оказалось</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Тайны/Остров-Призрак годами существовал на картах рядом с Австралией но в реальности его не оказалось:s:1627465:e:914-->
+<!----><!--2026-05-04 11:39:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/piramidy_yavlyajutsya_drevnimi_kompjuterami_kosmicheskih_bogov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/32f70d268f6c44c7b9c69cc6d33ba81f/" src="http://pic.rtbcdn.ru/video/2026-05-04/80/9f/809f68f48f17d415c92fa9e0188d06ef.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/piramidy_yavlyajutsya_drevnimi_kompjuterami_kosmicheskih_bogov">Пирамиды являются древними "компьютерами космических богов"?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Тайны/Пирамиды являются древними компьютерами космических богов:s:1628592:e:780-->
+<!----><!--2026-05-04 11:39:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/podvodnuju_ledyanuju_stenu_v_antarktide_snyali_na_video_i_ee_proishojdenie_ostaetsya_neyasnym">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0dac40d7abfa6facf7f766f834d5adb3/" src="http://pic.rtbcdn.ru/video/2026-05-04/f6/25/f625582e4f75140998022f9b01bfe2ee.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/podvodnuju_ledyanuju_stenu_v_antarktide_snyali_na_video_i_ee_proishojdenie_ostaetsya_neyasnym">Подводную ледяную стену в Антарктиде сняли на видео и её происхождение остаётся неясным</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Тайны/Подводную ледяную стену в Антарктиде сняли на видео и её происхождение остаётся неясным:s:1629518:e:892-->
+<!----><!--2026-05-04 19:56:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_na_sumy_obstrel_moskvy_zelenskij_v_armenii_04_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c2c084ddeb8d2c945fe08283fa5037ac/" src="http://pic.rtbcdn.ru/video/2026-05-04/9c/56/9c56ca8784e47a32f783e61220d2b3ac.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_na_sumy_obstrel_moskvy_zelenskij_v_armenii_04_05_26">Украинский фронт - на Сумы. Обстрел Москвы. Зеленский в Армении. 04.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - на Сумы. Обстрел Москвы. Зеленский в Армении. 04.05.26:s:1630609:e:840-->
+<!----><!--2026-05-04 18:33:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_3_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9eaff03de97bb9dfb48f92beeed8444c/" src="http://pic.rtbcdn.ru/video/2026-05-04/3e/7f/3e7fff2d33fc33ea7c0e020ef424d135.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_3_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 3 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 3 серия (сериал 2019) The Mandalorian:s:1631636:e:743-->
+<!----><!--2026-05-04 18:31:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_1_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/37c428f0b963192c4deb88dffe5bd119/" src="http://pic.rtbcdn.ru/video/2026-05-04/76/30/7630df2e294d398dd2ee54d1039d178d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_1_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 1 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 1 серия (сериал 2019) The Mandalorian:s:1632505:e:743-->
+<!----><!--2026-05-04 18:38:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_8_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2773a00b52dd074d22b82166d76d4f9e/" src="http://pic.rtbcdn.ru/video/2026-05-04/52/7d/527d365a3c0b13b9d75ed514d714d7af.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_8_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 8 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 8 серия (сериал 2019) The Mandalorian:s:1633374:e:743-->
+<!----><!--2026-05-05 09:11:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_1_seriya_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/48ea679c340ae774d4151096f9979073/" src="http://pic.rtbcdn.ru/video/2025-08-06/e3/8f/e38f48480ead0f166de9c91ad9e23697.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_1_seriya_wednesday">Сериал Уэнсдэй 2 сезон 1 серия / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 1 серия Wednesday:s:1634243:e:735-->
+<!----><!--2026-05-04 18:35:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_5_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/35f2808ab3d974d2d797d0a00b6d1a77/" src="http://pic.rtbcdn.ru/video/2026-05-04/9e/f2/9ef25b14a6e8b68bc809f88a502b5e15.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_5_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 5 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 5 серия (сериал 2019) The Mandalorian:s:1635083:e:743-->
+<!----><!--2026-05-05 09:16:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_4_seriya_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3be89562575c81cc6d36d3310714a1b3/" src="http://pic.rtbcdn.ru/video/2025-08-06/9d/64/9d640f65141322473bfcae0b1bd0c7c3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_4_seriya_wednesday">Сериал Уэнсдэй 2 сезон 4 серия / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 4 серия Wednesday:s:1635952:e:735-->
+<!----><!--2026-05-05 09:14:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_2_seriya_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4928d6404ef5ecaeb7c9f5e1eefe15bc/" src="http://pic.rtbcdn.ru/video/2025-08-06/b1/82/b182991d351c2e0e20693a46c2ab891b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_2_seriya_wednesday">Сериал Уэнсдэй 2 сезон 2 серия / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 2 серия Wednesday:s:1636792:e:735-->
+<!----><!--2026-05-04 18:32:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_2_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1af4dd81b3091ab19b2c108abbd9dfd9/" src="http://pic.rtbcdn.ru/video/2026-05-04/3e/ae/3eae71742d97935071e3aa928f08bef2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_2_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 2 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 2 серия (сериал 2019) The Mandalorian:s:1637632:e:743-->
+<!----><!--2026-05-05 09:19:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_6_seriya_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5da99347bc749bc4bf5c68d31e3d963e/" src="http://pic.rtbcdn.ru/video/2025-09-03/da/b9/dab9448fbc1c290070530cf6dd98780f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_6_seriya_wednesday">Сериал Уэнсдэй 2 сезон 6 серия / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 6 серия Wednesday:s:1638501:e:735-->
+<!----><!--2026-05-04 18:37:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_7_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fd2f7328e1c59739de0ebae77b321062/" src="http://pic.rtbcdn.ru/video/2026-05-04/fc/31/fc317af66f3420ace201af1769089209.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_7_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 7 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 7 серия (сериал 2019) The Mandalorian:s:1639341:e:743-->
+<!----><!--2026-05-05 09:21:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_8_seriya_iz_8_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4497e213199a753c18b8b506fe98df24/" src="http://pic.rtbcdn.ru/video/2025-09-03/47/f6/47f609e50ac2b2c2898d6ac3c82e4a84.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_8_seriya_iz_8_wednesday">Сериал Уэнсдэй 2 сезон 8 серия из 8 / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 8 серия из 8 Wednesday:s:1640210:e:752-->
+<!----><!--2026-05-05 14:30:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_10_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/577e9a7998ce717467fd2c0d3c5ffb20/" src="http://pic.rtbcdn.ru/video/2026-05-05/7e/06/7e06357e2c688514739e804c44d2976c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_10_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 10 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 10 серия Marshals:s:1641074:e:758-->
+<!----><!--2026-05-05 09:20:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_7_seriya_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2d8d80df15798dcde32e58e89f06c5ef/" src="http://pic.rtbcdn.ru/video/2025-09-03/66/f3/66f3da79eda56a99810b11708d8a90e2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_7_seriya_wednesday">Сериал Уэнсдэй 2 сезон 7 серия / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 7 серия Wednesday:s:1641947:e:735-->
+<!----><!--2026-05-04 18:34:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_4_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7cd66d4a18e9e8067b33ba97ff0f915f/" src="http://pic.rtbcdn.ru/video/2026-05-04/d6/0a/d60a785a567fb36e4a9cd785b25d923e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_4_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 4 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 4 серия (сериал 2019) The Mandalorian:s:1642787:e:743-->
+<!----><!--2026-05-05 09:17:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_5_seriya_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c191bb160abaad999e98cfe8da413353/" src="http://pic.rtbcdn.ru/video/2025-09-03/90/83/9083dc7f61d739cf4c8a247511636a4f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_5_seriya_wednesday">Сериал Уэнсдэй 2 сезон 5 серия / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 5 серия Wednesday:s:1643656:e:735-->
+<!----><!--2026-05-05 09:15:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_3_seriya_wednesday">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/915de92c721034720660dec0dcbe973f/" src="http://pic.rtbcdn.ru/video/2025-08-06/4d/73/4d73a58f2e4b60daca61c1b25557969e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_uensdej_2_sezon_3_seriya_wednesday">Сериал Уэнсдэй 2 сезон 3 серия / Wednesday</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Уэнсдэй 2 сезон 3 серия Wednesday:s:1644496:e:735-->
+<!----><!--2026-05-04 18:36:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_6_seriya_serial_2019_the_mandalorian">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/454a0f99065debab1435a7b54035f9ae/" src="http://pic.rtbcdn.ru/video/2026-05-04/42/22/42228c12e9f1a2038eced0ade016e8a8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mandalorec_-_3_sezon_6_seriya_serial_2019_the_mandalorian">Мандалорец - 3 сезон 6 серия (сериал 2019) / The Mandalorian</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-04</i>
+  </div>
+</div><!--n:Мир кино/Мандалорец - 3 сезон 6 серия (сериал 2019) The Mandalorian:s:1645336:e:743-->
+<!----><!--2026-05-05 10:31:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_gorodskoj_legende_proekta_serpo_nashli_podtverjdennye_astronomicheskie_dannye">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f065c926904b90de47728dc18baab467/" src="http://pic.rtbcdn.ru/video/2026-04-30/c9/3b/c93b9e776cba936d91dc80e43fdf4551.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_gorodskoj_legende_proekta_serpo_nashli_podtverjdennye_astronomicheskie_dannye">В городской легенде проекта «Серпо» нашли подтвержденные астрономические данные</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Тайны/В городской легенде проекта Серпо нашли подтвержденные астрономические данные:s:1646205:e:852-->
+<!----><!--2026-05-05 18:45:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_za_4_goda_doletela_1_raketa_plenki_mindicha_peremiriya_odnostoronnee_05_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6dfa14b8417a6b976193a6a6ceb28f15/" src="http://pic.rtbcdn.ru/video/2026-05-05/3b/be/3bbee7284015ea5855a06d59bc90fa23.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_za_4_goda_doletela_1_raketa_plenki_mindicha_peremiriya_odnostoronnee_05_05_26">Украинский фронт - за 4 года долетела 1 ракета. Пленки Миндича. Перемирия одностороннее. 05.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - за 4 года долетела 1 ракета. Пленки Миндича. Перемирия одностороннее. 05.05.26:s:1647240:e:935-->
+<!----><!--2026-05-05 16:05:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_9_seriya_rooster">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/439738a4c46f171dce8441f3509399fc/" src="http://pic.rtbcdn.ru/video/2026-05-05/a1/bd/a1bde625947127727f3940404fe6d0ad.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_9_seriya_rooster">Сериал Рустер 1 сезон 9 серия / Rooster</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Сериал Рустер 1 сезон 9 серия Rooster:s:1648405:e:725-->
+<!----><!--2026-05-05 23:54:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_velikoe_probujdenie_a_great_awakening">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5aa4b9915c993e25307b94a1a99c8ab0/" src="http://pic.rtbcdn.ru/video/2026-05-05/39/74/397408ca81f4bb879a2f3576e57a9472.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_velikoe_probujdenie_a_great_awakening">Фильм Великое пробуждение / A Great Awakening</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-05</i>
+  </div>
+</div><!--n:Мир кино/Фильм Великое пробуждение A Great Awakening:s:1649231:e:740-->
+<!----><!--2026-05-06 19:34:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_ad_v_kramatorske_3000_defektivnyh_dronov_06_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3be21e5ba261236a208f7b33de3b2d44/" src="http://pic.rtbcdn.ru/video/2026-05-06/d4/88/d488a97ef7b9702fbb961c572d5405e0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_ad_v_kramatorske_3000_defektivnyh_dronov_06_05_26">Украинский фронт - удар по Украине. Ад в Краматорске. 3000 дефективных дронов. 06.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-06</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине. Ад в Краматорске. 3000 дефективных дронов. 06.05.26:s:1650079:e:890-->
+<!----><!--2026-05-07 00:06:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_6_seriya_the_boys">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0eee20c0dd64fca28ee84a435f76a1ec/" src="http://pic.rtbcdn.ru/video/2026-05-06/86/13/861377dd17bf20d790b587d45356059b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_6_seriya_the_boys">Сериал Пацаны 5 сезон 6 серия / The Boys</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-07</i>
+  </div>
+</div><!--n:Мир кино/Сериал Пацаны 5 сезон 6 серия The Boys:s:1651178:e:728-->
+<!----><!--2026-05-07 03:42:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/djejms_bond_franshiza_bez_provalov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6f14e77b304bd364a751bc4023a54d68/" src="http://pic.rtbcdn.ru/video/2026-05-06/27/77/2777fdf95615adf4bd5801c3a7282c9f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/djejms_bond_franshiza_bez_provalov">Джеймс Бонд – франшиза без провалов</a></p>
+    <p><i class="smaller2">GreenGrass</i></p>
+    <i class="smaller3">2026-05-07</i>
+  </div>
+</div><!--n:Мир кино/Джеймс Бонд франшиза без провалов:s:1652008:e:668-->
+<!----><!--2026-05-06 16:06:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_8_seriya_iz_8_daredevil_born_again">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bfd3104312606bcebc04e1e3cadc4a10/" src="http://pic.rtbcdn.ru/video/2026-05-06/13/34/13345fbd46f765d5cab62c37e95679ae.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_sorvigolova_rojdennyj_zanovo_2_sezon_8_seriya_iz_8_daredevil_born_again">Сериал Сорвиголова: Рожденный заново 2 сезон 8 серия из 8 / Daredevil: Born Again</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-06</i>
+  </div>
+</div><!--n:Мир кино/Сериал Сорвиголова Рожденный заново 2 сезон 8 серия из 8 Daredevil Born Again:s:1652780:e:869-->
+<!----><!--2026-05-07 19:34:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_geroicheskij_shturm_dohody_rf_vyshe_na_40_parad_pobedy_07_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/621ce372413964a3e959a34af136698f/" src="http://pic.rtbcdn.ru/video/2026-05-07/e0/b3/e0b3fb9e76d84ae9e6b625af2c30dbef.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_geroicheskij_shturm_dohody_rf_vyshe_na_40_parad_pobedy_07_05_26">Украинский фронт - героический штурм. Доходы РФ выше на 40%. Парад победы. 07.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-07</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - героический штурм. Доходы РФ выше на 40 . Парад победы. 07.05.26:s:1653812:e:879-->
+<!----><!--2026-05-08 09:32:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/kak_stolica_gotovitsya_k_prazdniku">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/87fa1808cd0c983e35e4e919d02a352e/" src="http://pic.rtbcdn.ru/video/2026-05-08/c8/d7/c8d7756d27f7d5d543d378fe4b174dd7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/kak_stolica_gotovitsya_k_prazdniku">КАК СТОЛИЦА ГОТОВИТСЯ К ПРАЗДНИКУ?</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-05-08</i>
+  </div>
+</div><!--n:Тайны/КАК СТОЛИЦА ГОТОВИТСЯ К ПРАЗДНИКУ:s:1654893:e:689-->
+<!----><!--2026-05-08 18:54:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_narushili_peremirie_264_ukrainskih_drona_ukropoliciya_-_tck_08_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e0a5cc06be143ba9923642b72831ac0d/" src="http://pic.rtbcdn.ru/video/2026-05-08/46/9f/469f2bbdf4160fd4c489ec4971f8b225.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vsu_narushili_peremirie_264_ukrainskih_drona_ukropoliciya_-_tck_08_05_26">Украинский фронт - ВСУ нарушили перемирие. 264 украинских дрона. Укрополиция - ТЦК. 08.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-08</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - ВСУ нарушили перемирие. 264 украинских дрона. Укрополиция - ТЦК. 08.05.26:s:1655681:e:914-->
+<!----><!--2026-05-09 07:39:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_otpusk_na_dvoih_parnyj_uikend_couples_weekend">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dc4c69344c3313857c9020d8f5485c3f/" src="http://pic.rtbcdn.ru/video/2026-05-09/28/ec/28eca06d43f55fdb1df6d2c2d89f724f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_otpusk_na_dvoih_parnyj_uikend_couples_weekend">Фильм Отпуск на двоих (Парный уикенд) / Couples Weekend</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-09</i>
+  </div>
+</div><!--n:Мир кино/Фильм Отпуск на двоих (Парный уикенд) Couples Weekend:s:1656814:e:773-->
+<!----><!--2026-05-08 18:41:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_neobychajno_umnye_sozdaniya_remarkably_bright_creatures">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9fa9c47dd2cc82e1aae2f6f3d199196d/" src="http://pic.rtbcdn.ru/video/2026-05-08/43/75/4375a151bf60d462a629ece253e5a898.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_neobychajno_umnye_sozdaniya_remarkably_bright_creatures">Фильм Необычайно умные создания / Remarkably Bright Creatures</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-08</i>
+  </div>
+</div><!--n:Мир кино/Фильм Необычайно умные создания Remarkably Bright Creatures:s:1657712:e:797-->
+<!----><!--2026-05-09 09:01:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_peshcherah_meksiki_iz-pod_zemli_donosyatsya_zvuki_rabotajushchih_stankov_i_tyajelyj_lyazg_jeleza">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b5d89dccdcd54a7645deed7652dda9d0/" src="http://pic.rtbcdn.ru/video/2026-05-08/a8/81/a881dfbb0fa55594e5af9703de283f04.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_peshcherah_meksiki_iz-pod_zemli_donosyatsya_zvuki_rabotajushchih_stankov_i_tyajelyj_lyazg_jeleza">В пещерах Мексики из-под земли доносятся звуки работающих станков и тяжелый лязг железа</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-09</i>
+  </div>
+</div><!--n:Тайны/В пещерах Мексики из-под земли доносятся звуки работающих станков и тяжелый лязг железа:s:1658638:e:901-->
+<!----><!--2026-05-09 09:01:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_kadrah_marsohoda_perseverans_zametili_strannyj_svet_i_stroenie_v_daleke_i_eto_vyzvalo_voprosy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c7880d559bac5d9b0f48dcadf6848aea/" src="http://pic.rtbcdn.ru/video/2026-05-08/02/e4/02e44ef96147aa635988092963224da3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_kadrah_marsohoda_perseverans_zametili_strannyj_svet_i_stroenie_v_daleke_i_eto_vyzvalo_voprosy">На кадрах марсохода Персеверанс заметили странный «свет и строение» в далеке и это вызвало вопросы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-09</i>
+  </div>
+</div><!--n:Тайны/На кадрах марсохода Персеверанс заметили странный свет и строение в далеке и это вызвало вопросы:s:1659737:e:918-->
+<!----><!--2026-05-09 09:01:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_snimkah_artemis_ii_nad_lunoj_zametili_nlo_pohojij_na_gigantskuju_gumanoidnuju_figuru">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/efbcd945be6e4e18ca60ee555f1a8013/" src="http://pic.rtbcdn.ru/video/2026-05-08/17/47/1747d16a9a92c0b934400e1a63baec12.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_snimkah_artemis_ii_nad_lunoj_zametili_nlo_pohojij_na_gigantskuju_gumanoidnuju_figuru">На снимках Артемис II над Луной заметили НЛО похожий на гигантскую гуманоидную фигуру</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-09</i>
+  </div>
+</div><!--n:Тайны/На снимках Артемис II над Луной заметили НЛО похожий на гигантскую гуманоидную фигуру:s:1660870:e:874-->
+<!----><!--2026-05-09 09:01:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/arhiv_kadrov_artemis_ii_vyzval_voprosy_iz-za_slishkom_akkuratnogo_kosmosa_na_oficialnyh_snimkah">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0d8ac846ad2084f5af46e4338546f233/" src="http://pic.rtbcdn.ru/video/2026-05-08/2a/23/2a23c71cda7ce42bb5de23539c20300a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/arhiv_kadrov_artemis_ii_vyzval_voprosy_iz-za_slishkom_akkuratnogo_kosmosa_na_oficialnyh_snimkah">Архив кадров ARTEMIS II вызвал вопросы из-за слишком аккуратного космоса на официальных снимках</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-09</i>
+  </div>
+</div><!--n:Тайны/Архив кадров ARTEMIS II вызвал вопросы из-за слишком аккуратного космоса на официальных снимках:s:1661937:e:902-->
+<!----><!--2026-05-09 09:01:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/shemy_podzemnyh_mnogometrovyh_urovnej_piramid_iz_19_veka_sovpali_s_sovremennymi_modelyami_plato_gizy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2c87fdc3b6001201556619f2d81e4bf8/" src="http://pic.rtbcdn.ru/video/2026-05-08/ba/4b/ba4bcc0e03de3610bb8d653be762e39c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/shemy_podzemnyh_mnogometrovyh_urovnej_piramid_iz_19_veka_sovpali_s_sovremennymi_modelyami_plato_gizy">Схемы подземных многометровых уровней пирамид из 19 века совпали с современными моделями плато Гизы</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-09</i>
+  </div>
+</div><!--n:Тайны/Схемы подземных многометровых уровней пирамид из 19 века совпали с современными моделями плато Гизы:s:1663044:e:927-->
