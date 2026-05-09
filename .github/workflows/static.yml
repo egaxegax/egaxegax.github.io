@@ -1,21 +1,22 @@
 name: Deploy static content to Pages
+
 on:
-  - cron:	'0 0 * * *'  #	povarenok.ru feed updater
-  - cron:	'0 1 * * *'	 #	finecooking.ru site update
-  - cron:	'0 10 * * *' #	prosto-linux feed
-  - cron:	'0 12 * * *' #	kino-teatr.ru updater
-  - cron:	'0 15 * * *' #	youtube.com updater
-  - cron:	'0 16 * * *' #	rutube.ru updater
-  - cron:	'0 18 * * *' #	eadaily.com rss updater
-  - cron:	'0 18 * * *' #	habr.com feed
-  - cron:	'0 20 * * *' #	mk nauka updater
-  - cron:	'0 3 * * *'	 #	voyeur feed
-  - cron:	'0 6 * * *'  #	rambler msk
-  - cron:	'0 6 * * *'  #	rambler mir
-  - cron:	'0 7 * * *'  #	dzen.ru feed updater
-  - cron:	'0 8 * * *'  #	championat rss
-  - cron:	'30 7 * * *' #	rg rss
-  - cron:	'30 8 * * *' #	yaplakal.com feed
+  - cron:	'0 23 * * *' #	povarenok.ru feed updater
+  - cron:	'0 22 * * *' #	finecooking.ru site update
+  - cron:	'0 7 * * *'  #	prosto-linux feed
+  - cron:	'0 9 * * *'  #	kino-teatr.ru updater
+  - cron:	'0 12 * * *' #	youtube.com updater
+  - cron:	'0 13 * * *' #	rutube.ru updater
+  - cron:	'0 15 * * *' #	eadaily.com rss updater
+  - cron:	'0 15 * * *' #	habr.com feed
+  - cron:	'5 17 * * *' #	mk nauka updater
+  - cron:	'0 0 * * *'	 #	voyeur feed
+  - cron:	'0 3 * * *'  #	rambler msk
+  - cron:	'0 3 * * *'  #	rambler mir
+  - cron:	'0 4 * * *'  #	dzen.ru feed updater
+  - cron:	'0 5 * * *'  #	championat rss
+  - cron:	'30 4 * * *' #	rg rss
+  - cron:	'30 5 * * *' #	yaplakal.com feed
 
   push:
     branches: ["master"]
@@ -39,18 +40,35 @@ jobs:
         uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v5
+
       - name: povarenok.ru feed updater
         if: github.event.schedule == '0 21 * * *'
         run: python3 posts/readsites.py povarenok
       - name: finecooking.ru site update
         if: github.event.schedule ==  '0 22 * * *'
         run: python3 posts/readsites.py finecooking
+      - name: prosto-linux feed
+        if: github.event.schedule == '0 7 * * *'
+        run: python3 posts/readsites.py prosto_linux
+      - name: kino-teatr.ru updater
+        if: github.event.schedule == '0 9 * * *'
+        run: python3 posts/readsites.py kino_kino kino_teatr
+      # - name:	youtube.com updater
+      #   if: github.event.schedule == '0 12 * * *'
+      #   run: python3 posts/readyfeed.py
+      - name:	rutube.ru updater
+        if: github.event.schedule == '0 13 * * *'
+        run: python3 posts/readrufeed.py
+      - name: eadaily.com rss updater
+        if: github.event.schedule == '0 15 * * *'
+        run: python3 posts/readrss.py eadaily
       - name: habr.com feed
         if: github.event.schedule == '0 15 * * *'
         run: python3 posts/readsites.py habr
       - name: mk nauka updater
-        if: github.event.schedule == '0 17 * * *'
+        if: github.event.schedule == '5 17 * * *'
         run: python3 posts/readrss.py mk
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -63,5 +81,4 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v5
