@@ -33,6 +33,10 @@ jobs:
           python-version: '3.10'
       - name: Run Python script
         run: python3 posts/readsites.py habr
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build_outputs_folder/
   deploy:
     environment:
       name: github-pages
@@ -40,11 +44,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload entire repository
-          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
