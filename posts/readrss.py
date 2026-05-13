@@ -16,6 +16,7 @@ RSSlist = {
   'chmp':    {'hdr':'Подборка новостей/Чемпионат',            'hdr2':'Чемпионат','url':'https://www.championat.ru/rss/news/'},
   'cosmos':  {'hdr':'Подборка новостей/Элементы Космос',      'hdr2':'Космос',   'url':'https://elementy.ru/rss/news/cosmos'},
   'rgecon':  {'hdr':'Подборка новостей/Российская газета',    'hdr2':'Экономика','url':'https://rg.ru/xml/rubrics/ekonomika.xml'},
+  # 'almazant':{'hdr':'Подборка новостей/Концерн "Алмаз-Антей"','hdr2':'Дайджест', 'url':'http://almaz-antey.ru/press-center/daydzhest/rss/'},
 }
 
 import os, sys, time, re, locale

@@ -71,9 +71,9 @@ jobs:
       - name: rg rss
         continue-on-error: true
         run: python3 posts/readrss.py rgecon
-      - name: yaplakal.com feed
-        continue-on-error: true
-        run: python3 posts/readsites.py yaplakal
+      # - name: yaplakal.com feed
+      #   continue-on-error: true
+      #   run: python3 posts/readsites.py yaplakal
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
