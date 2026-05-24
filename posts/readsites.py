@@ -12,7 +12,7 @@ RSSlist = {
   'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml',  'cut':1000,                   'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
   'povarenok':   {'hdr':'Подборка рецептов/Поваренок.РУ',  'url':'https://www.povarenok.ru/rss/recipes/','cut':480,                    'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
   'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',  'url':'https://prosto-linux.ru/feed',         'cut':1000,                   'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',       'url':'https://www.yaplakal.com/news.xml',    'cut':2000,                   'total':7, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',       'url':'https://www.yaplakal.com/news.xml',    'cut':2000,                   'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'flickr':      {'hdr':'Подборка с сайтов/Flickr.com',    'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':10,'ctag': '',        'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
 }
 
@@ -43,7 +43,7 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
       if link: ptitl = '<p class="titl"><a href="{link}">{titl}</a></p>'.format(link=link, titl=titl)
       text = ''
       if item.find('description') is not None:         text = item.find('description').text.strip()
-      if item.find('enclosure') is not None:           text = '<a href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=item.find('enclosure').get('url')) + text
+      if item.find('enclosure') is not None:           text = ('<a href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=item.find('enclosure').get('url')) if text.find('<img src=') == -1 else '') + text
       if item.find('%(sm)scontent' % prm) is not None: text = item.find('%(sm)scontent' % prm).text
       if not text or re.search('<!--Begin Video.*!--End Video-->', text):
         print('!!! No text tag. Skip...')
