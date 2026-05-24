@@ -50,7 +50,7 @@ dt { margin:20px; }
 .rss { min-height:150px; }
 .rss strong { font-weight:normal; }
 @media (max-width:800px){ .rss img { border-radius:2px; display:block; margin:0 0 10px 0; }}
-@media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:150px; float:left; margin:0 10px 0 0; } }
+@media (min-width:800px){ .rss img { border-radius:2px; max-width:240px; max-height:170px; float:left; margin:0 10px 0 0; } }
 /* rss news ria, eadaily */
 .rssn { margin:5px 0 5px; }
 .rssn a { color:#333; }

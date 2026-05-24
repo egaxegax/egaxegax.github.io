@@ -18800,3 +18800,663 @@
     <i class="smaller3">2026-05-09</i>
   </div>
 </div><!--n:Тайны/Схемы подземных многометровых уровней пирамид из 19 века совпали с современными моделями плато Гизы:s:1663044:e:927-->
+<!----><!--2026-05-10 18:53:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_flagi_ukraina_poteryala_30_mln_chelovek_prosba_makrona_10_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e7281d2207ea654f1d3a126a5959a475/" src="http://pic.rtbcdn.ru/video/2026-05-10/cc/3c/cc3c3892cb3c13c9cf7b07e1bcfb7302.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_flagi_ukraina_poteryala_30_mln_chelovek_prosba_makrona_10_05_26">Украинский фронт - российские флаги. Украина потеряла 30 млн человек. Просьба Макрона. 10.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-10</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - российские флаги. Украина потеряла 30 млн человек. Просьба Макрона. 10.05.26:s:1664191:e:926-->
+<!----><!--2026-05-11 18:46:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_starmer_vse_zagovorili_o_peregovorah_11_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f04e586be78c84f057a6de3fafd581f4/" src="http://pic.rtbcdn.ru/video/2026-05-11/85/c4/85c4a54ae1cf0b4ba4604e714bd97cf4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_starmer_vse_zagovorili_o_peregovorah_11_05_26">Украинский фронт - Стармер все. Заговорили о переговорах. 11.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-11</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Стармер все. Заговорили о переговорах. 11.05.26:s:1665344:e:817-->
+<!----><!--2026-05-11 19:15:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zlaya_navsegda_zlaya_chast_2_wicked_for_good">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5fc7ec33fadc38b58a6d579324e36296/" src="http://pic.rtbcdn.ru/video/2025-11-25/7d/5c/7d5c31607d85edd41554073ae33a87c8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zlaya_navsegda_zlaya_chast_2_wicked_for_good">Злая: Навсегда (Злая, Часть 2) / Wicked: For Good</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-11</i>
+  </div>
+</div><!--n:Мир кино/Злая Навсегда (Злая, Часть 2) Wicked For Good:s:1666337:e:746-->
+<!----><!--2026-05-11 19:41:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_10_seriya_iz_10_rooster">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/18cfb1aae1bc91ca24d98d01c6a2109f/" src="http://pic.rtbcdn.ru/video/2026-05-11/d4/48/d448846723578dd5433e0cce39357e96.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ruster_1_sezon_10_seriya_iz_10_rooster">Сериал Рустер 1 сезон 10 серия из 10 / Rooster</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-11</i>
+  </div>
+</div><!--n:Мир кино/Сериал Рустер 1 сезон 10 серия из 10 Rooster:s:1667191:e:748-->
+<!----><!--2026-05-12 09:59:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/foto_prishelca_iz_rassekrechennyh_fajlov_po_nlo_nazvali_dokazatelstvom_neizvestnyh_form_jizni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c690647fd8daa463a5456b84286ea9bc/" src="http://pic.rtbcdn.ru/video/2026-05-11/d6/b1/d6b134a7ab9a8fd6f44f3f2a2864f2e1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/foto_prishelca_iz_rassekrechennyh_fajlov_po_nlo_nazvali_dokazatelstvom_neizvestnyh_form_jizni">Фото «пришельца» из рассекреченных файлов по НЛО назвали доказательством неизвестных форм жизни</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-12</i>
+  </div>
+</div><!--n:Тайны/Фото пришельца из рассекреченных файлов по НЛО назвали доказательством неизвестных форм жизни:s:1668049:e:909-->
+<!----><!--2026-05-12 09:59:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vysokogornye_ozera_v_gimalayah_isparilis_za_odnu_noch_ostaviv_strannye_koncentricheskie_krugi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8babcd27e5246d84e83a4d92898562a3/" src="http://pic.rtbcdn.ru/video/2026-05-11/59/bf/59bf6b5fc529440a95768dc229ddf574.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/vysokogornye_ozera_v_gimalayah_isparilis_za_odnu_noch_ostaviv_strannye_koncentricheskie_krugi">Высокогорные озера в Гималаях испарились за одну ночь оставив странные концентрические круги</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-12</i>
+  </div>
+</div><!--n:Тайны/Высокогорные озера в Гималаях испарились за одну ночь оставив странные концентрические круги:s:1669170:e:903-->
+<!----><!--2026-05-12 09:59:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/astronom_nashel_strannye_obekty_i_nlo_na_foto_artemis_ii_i_zadalsya_voprosom_o_propavshih_kadrah">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/69dfd99aa122f4ed4242c806d56324d8/" src="http://pic.rtbcdn.ru/video/2026-05-11/79/fd/79fd107f07b1ef33e465e0fab7a5fcc8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/astronom_nashel_strannye_obekty_i_nlo_na_foto_artemis_ii_i_zadalsya_voprosom_o_propavshih_kadrah">Астроном нашёл «странные объекты» и НЛО на фото Артемис II и задался вопросом о пропавших кадрах</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-12</i>
+  </div>
+</div><!--n:Тайны/Астроном нашёл странные объекты и НЛО на фото Артемис II и задался вопросом о пропавших кадрах:s:1670283:e:911-->
+<!----><!--2026-05-12 09:59:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_rassekrechennyh_fajlah_pentagona_po_nlo_zametili_strannyj_krestoobraznyj_obekt">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/78e68332ce2507e0b7273a24b15ae4e9/" src="http://pic.rtbcdn.ru/video/2026-05-11/ab/75/ab75c5171b91345f803de18496b51e91.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_rassekrechennyh_fajlah_pentagona_po_nlo_zametili_strannyj_krestoobraznyj_obekt">В рассекреченных файлах Пентагона по НЛО заметили странный крестообразный объект</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-12</i>
+  </div>
+</div><!--n:Тайны/В рассекреченных файлах Пентагона по НЛО заметили странный крестообразный объект:s:1671402:e:855-->
+<!----><!--2026-05-12 09:58:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_doline_shensi_drevnie_belye_piramidy_nachali_menyat_cvet_i_izluchat_teplo_zametnoe_so_sputnikov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a84f6cc32a36e0d23ef914911016fdf8/" src="http://pic.rtbcdn.ru/video/2026-05-08/4f/f6/4ff63478f990c371a7d7542660ac6043.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_doline_shensi_drevnie_belye_piramidy_nachali_menyat_cvet_i_izluchat_teplo_zametnoe_so_sputnikov">В долине Шэньси древние белые пирамиды начали менять цвет и излучать тепло заметное со спутников?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-12</i>
+  </div>
+</div><!--n:Тайны/В долине Шэньси древние белые пирамиды начали менять цвет и излучать тепло заметное со спутников:s:1672445:e:917-->
+<!----><!--2026-05-12 19:51:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_-_mne_nujna_propaganda_gebbelsa_koks_kajdye_40_minut_12_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/50c26ff4e82f978bd5bf2e0822f22a3f/" src="http://pic.rtbcdn.ru/video/2026-05-12/71/2f/712fca7f8b6bc7e90b8b34fc32a8600f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zelenskij_-_mne_nujna_propaganda_gebbelsa_koks_kajdye_40_minut_12_05_26">Украинский фронт - Зеленский - мне нужна пропаганда Геббельса. Кокс каждые 40 минут. 12.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-12</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Зеленский - мне нужна пропаганда Геббельса. Кокс каждые 40 минут. 12.05.26:s:1673577:e:915-->
+<!----><!--2026-05-12 23:34:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_11_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/31aee9a85455881f0badf044a42d37a1/" src="http://pic.rtbcdn.ru/video/2026-05-12/32/19/3219fc9054d5599a4cfb1de6ac1740c1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_11_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 11 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-12</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 11 серия Marshals:s:1674714:e:758-->
+<!----><!--2026-05-13 11:17:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_dyavol_nosit_prada_2_the_devil_wears_prada_2_ekranka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/37e1a188758ac248b67b2128f2225fad/" src="http://pic.rtbcdn.ru/video/2026-05-13/1e/09/1e0939cd40b32f86cdcb02c993eb5d04.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_dyavol_nosit_prada_2_the_devil_wears_prada_2_ekranka">Фильм Дьявол носит Prada 2 / The Devil Wears Prada 2 | Экранка</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-13</i>
+  </div>
+</div><!--n:Мир кино/Фильм Дьявол носит Prada 2 The Devil Wears Prada 2 Экранка:s:1675587:e:787-->
+<!----><!--2026-05-13 17:35:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zverstva_tck_v_odesse_kooperativ_dinastiya_ataka_na_ukrainu_13_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d087be77b404502f1645f16e7480e0aa/" src="http://pic.rtbcdn.ru/video/2026-05-13/dd/9f/dd9f9f7ccd407b3345e69f3821b74c32.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_zverstva_tck_v_odesse_kooperativ_dinastiya_ataka_na_ukrainu_13_05_26">Украинский фронт - зверства ТЦК в Одессе. Кооператив Династия. Атака на Украину. 13.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-13</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - зверства ТЦК в Одессе. Кооператив Династия. Атака на Украину. 13.05.26:s:1676497:e:904-->
+<!----><!--2026-05-14 08:16:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_7_seriya_the_boys">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4054fbdfa232c41e3a67b80c87add502/" src="http://pic.rtbcdn.ru/video/2026-05-14/32/79/327985ce78983ee34fa4ef6254d855fd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_7_seriya_the_boys">Сериал Пацаны 5 сезон 7 серия / The Boys</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-14</i>
+  </div>
+</div><!--n:Мир кино/Сериал Пацаны 5 сезон 7 серия The Boys:s:1677618:e:728-->
+<!----><!--2026-05-14 18:55:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_1567_dronov_za_38_chasov_gadalka_naznachala_premer-ministra">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9e3982402409c26cbefd87a6ceeef80c/" src="http://pic.rtbcdn.ru/video/2026-05-14/cf/a5/cfa576359f76768a7cd857bc87d430bb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_udar_po_ukraine_1567_dronov_za_38_chasov_gadalka_naznachala_premer-ministra">Украинский фронт - удар по Украине 1567 дронов за 38 часов. Гадалка назначала премьер-министра.</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-14</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - удар по Украине 1567 дронов за 38 часов. Гадалка назначала премьер-министра.:s:1678448:e:931-->
+<!----><!--2026-05-14 18:59:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/napominanie_o_nem_film_2026_reminders_of_him">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f46feb11fc66e25076e5df50a5a1e608/" src="http://pic.rtbcdn.ru/video/2026-05-14/1c/55/1c55b8045eab6c047befb1024648c1e8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/napominanie_o_nem_film_2026_reminders_of_him">Напоминание о нём (фильм 2026) / Reminders of Him</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-14</i>
+  </div>
+</div><!--n:Мир кино/Напоминание о нём (фильм 2026) Reminders of Him:s:1679609:e:700-->
+<!----><!--2026-05-14 18:57:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/picca_film_film_2026_pizza_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e30bbef3a6b044675db885b07ac11dca/" src="http://pic.rtbcdn.ru/video/2026-05-14/d4/c9/d4c9ba02c694998ba4176db0cba3b1af.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/picca_film_film_2026_pizza_movie">Пицца Фильм (фильм 2026) / Pizza Movie</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-14</i>
+  </div>
+</div><!--n:Мир кино/Пицца Фильм (фильм 2026) Pizza Movie:s:1680418:e:660-->
+<!----><!--2026-05-15 13:10:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/malenkie_demony_puteshestvujut_na_zapad_multfilm_2025_lang_lang_shan_xiao_yao_guai">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6bcbdf2caf7d63f6c757856765c74f0d/" src="http://pic.rtbcdn.ru/video/2026-05-15/cc/f6/ccf6c6baf1f47930ad77ccfc8bd917a6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/malenkie_demony_puteshestvujut_na_zapad_multfilm_2025_lang_lang_shan_xiao_yao_guai">Маленькие демоны путешествуют на Запад (мультфильм 2025) / Lang lang shan xiao yao guai</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Мир кино/Маленькие демоны путешествуют на Запад (мультфильм 2025) Lang lang shan xiao yao guai:s:1681171:e:838-->
+<!----><!--2026-05-15 11:22:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pentagon_otkryl_arhiv_po_nlo_s_foto_video_i_otchetami_za_desyatki_let_vkljuchaya_anomalii_missij_apollon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dfdf7614a94e792992fdc450ff539a35/" src="http://pic.rtbcdn.ru/video/2026-05-11/12/8e/128e4e194346ae736ccd4d9efd7c8696.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pentagon_otkryl_arhiv_po_nlo_s_foto_video_i_otchetami_za_desyatki_let_vkljuchaya_anomalii_missij_apollon">Пентагон открыл архив по НЛО с фото видео и отчётами за десятки лет включая аномалии миссий Аполлон</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/Пентагон открыл архив по НЛО с фото видео и отчётами за десятки лет включая аномалии миссий Аполлон:s:1682180:e:934-->
+<!----><!--2026-05-15 11:22:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_raznyh_chastyah_planety_zametili_v_nebe_strannye_chernye_polosy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/70ca69d7ae3a2652436290d10c9003a8/" src="http://pic.rtbcdn.ru/video/2026-05-14/13/b6/13b629b01b32304bac49e45b4fad9bc3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_raznyh_chastyah_planety_zametili_v_nebe_strannye_chernye_polosy">В разных частях планеты заметили в небе странные черные полосы?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/В разных частях планеты заметили в небе странные черные полосы:s:1683333:e:790-->
+<!----><!--2026-05-15 11:22:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/bob_lazar_rasskazal_kak_vpervye_voshel_vnutr_nlo_v_zone_51">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9eb8046f7a6275c1dec880483106fa31/" src="http://pic.rtbcdn.ru/video/2026-05-14/79/58/795844913b774bbd88187d7d12aa6be4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/bob_lazar_rasskazal_kak_vpervye_voshel_vnutr_nlo_v_zone_51">Боб Лазар рассказал как впервые вошёл внутрь НЛО в Зоне 51</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/Боб Лазар рассказал как впервые вошёл внутрь НЛО в Зоне 51:s:1684275:e:764-->
+<!----><!--2026-05-15 11:22:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pod_plato_giza_nashli_gigantskij_vibrirujushchij_labirint_glubinoj_v_15_etajej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cb09b37b826c136bd6c49aa7d958934e/" src="http://pic.rtbcdn.ru/video/2026-05-14/25/b9/25b9a8c07f9c5de2e5bad2ea10d4c881.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pod_plato_giza_nashli_gigantskij_vibrirujushchij_labirint_glubinoj_v_15_etajej">Под плато Гиза нашли гигантский вибрирующий лабиринт глубиной в 15 этажей?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/Под плато Гиза нашли гигантский вибрирующий лабиринт глубиной в 15 этажей:s:1685180:e:835-->
+<!----><!--2026-05-15 11:22:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/passajir_samoleta_snyal_u_solnca_tri_gigantskih_nlo_pohojih_na_planety">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6e3385343a4d669c5c6ceb8e2aa5a1d5/" src="http://pic.rtbcdn.ru/video/2026-05-14/e4/cf/e4cfdc7e73f83195605d33c607d3747a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/passajir_samoleta_snyal_u_solnca_tri_gigantskih_nlo_pohojih_na_planety">Пассажир самолёта снял у Солнца три гигантских НЛО похожих на планеты</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/Пассажир самолёта снял у Солнца три гигантских НЛО похожих на планеты:s:1686186:e:812-->
+<!----><!--2026-05-15 10:14:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/a_pod_nami_-_neglinka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cc918104081c2fd3c53d21d4b72bc150/" src="http://pic.rtbcdn.ru/video/2026-05-15/f0/8b/f08b363d82d2732ebb0f7d834ed76baa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/a_pod_nami_-_neglinka">А ПОД НАМИ - НЕГЛИНКА!</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/А ПОД НАМИ - НЕГЛИНКА:s:1687163:e:638-->
+<!----><!--2026-05-15 11:22:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_gorah_tyan-shanya_nashli_kuski_aktivnogo_metalla_kotorye_sami_menyajut_formu_i_signalyat_v_kosmos">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b5c194477af6c3180aadf34ae9e5ca7b/" src="http://pic.rtbcdn.ru/video/2026-05-14/95/fe/95fef5a801c90aa3c842b9ba068e34fd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_gorah_tyan-shanya_nashli_kuski_aktivnogo_metalla_kotorye_sami_menyajut_formu_i_signalyat_v_kosmos">В горах Тянь-Шаня нашли куски активного металла которые сами меняют форму и сигналят в космос?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/В горах Тянь-Шаня нашли куски активного металла которые сами меняют форму и сигналят в космос:s:1687875:e:914-->
+<!----><!--2026-05-15 11:22:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/veteran_aerokosmicheskoj_promyshlennosti_pokazal_foto_prishelcev_iz_zony_51">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e8f0ee71bd59bc59a093fa0d881c95f7/" src="http://pic.rtbcdn.ru/video/2026-05-14/12/02/1202d1e6fb76b2d63b28bb55145b2fda.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/veteran_aerokosmicheskoj_promyshlennosti_pokazal_foto_prishelcev_iz_zony_51">Ветеран аэрокосмической промышленности показал фото пришельцев из Зоны 51?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Тайны/Ветеран аэрокосмической промышленности показал фото пришельцев из Зоны 51:s:1688997:e:831-->
+<!----><!--2026-05-15 19:22:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ermak_zalog_ne_vnesli_ukrainskoe_gestapo_vzyali_chajkovku_vozdvijenku_charivnoe">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/44b6bcdcfa4a97f53b9794c5c51cb540/" src="http://pic.rtbcdn.ru/video/2026-05-15/11/97/1197e19d8f1cfc8d26a27a826465a050.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ermak_zalog_ne_vnesli_ukrainskoe_gestapo_vzyali_chajkovku_vozdvijenku_charivnoe">Украинский фронт - Ермак залог не внесли. Украинское Гестапо. Взяли Чайковку Воздвиженку Чаривное</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-15</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Ермак залог не внесли. Украинское Гестапо. Взяли Чайковку Воздвиженку Чаривное:s:1690001:e:951-->
+<!----><!--2026-05-16 13:32:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_vrag_vnutri_an_enemy_within">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fba0db93172c694a31905e45347d0ea5/" src="http://pic.rtbcdn.ru/video/2026-05-16/bc/1d/bc1d6fad91fed2eb3188a20f9c00738b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_vrag_vnutri_an_enemy_within">Фильм Враг внутри / An Enemy Within</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-16</i>
+  </div>
+</div><!--n:Мир кино/Фильм Враг внутри An Enemy Within:s:1691194:e:702-->
+<!----><!--2026-05-16 15:51:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/dagestan_za_5_dnej_idealnyj_marshrut_chto_posmotret_i_skolko_stoit">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2e49e146724721f4bfcd23b78496808a/" src="http://pic.rtbcdn.ru/video/2026-05-16/be/16/be162e9aba37e2a1961838cbb56ce502.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/dagestan_za_5_dnej_idealnyj_marshrut_chto_posmotret_i_skolko_stoit">Дагестан за 5 дней: идеальный маршрут. Что посмотреть и сколько стоит?</a></p>
+    <p><i class="smaller2">Вот это отдых | Путешествия своим ходом</i></p>
+    <i class="smaller3">2026-05-16</i>
+  </div>
+</div><!--n:Путешествия свои ходом/Дагестан за 5 дней идеальный маршрут. Что посмотреть и сколько стоит:s:1691986:e:885-->
+<!----><!--2026-05-16 18:19:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ermak_i_sizo_udar_po_zelenskomu_gerasimov_vzyal_borovuju_i_pochti_liman_16_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c3c3b2142c3b7ead64f48f4be75cf00f/" src="http://pic.rtbcdn.ru/video/2026-05-16/13/84/13848d440e1419e42864b5b123c2634e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ermak_i_sizo_udar_po_zelenskomu_gerasimov_vzyal_borovuju_i_pochti_liman_16_05_26">Украинский фронт - Ермак и Сизо. Удар по Зеленскому. Герасимов взял Боровую и почти Лиман. 16.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-16</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Ермак и Сизо. Удар по Зеленскому. Герасимов взял Боровую и почти Лиман. 16.05.26:s:1693064:e:945-->
+<!----><!--2026-05-17 17:49:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/istoricheskij_holod_2026_vo_floride_-_vosstanovlenie_sada">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3fa61e54cbc8d98995dc68771ff3fcab/" src="http://pic.rtbcdn.ru/video/2026-05-17/4f/94/4f94e220e9ab39634841d30e0869e297.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/istoricheskij_holod_2026_vo_floride_-_vosstanovlenie_sada">Исторический холод 2026 во Флориде - восстановление сада.</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-17</i>
+  </div>
+</div><!--n:Жизнь в США и России/Исторический холод 2026 во Флориде - восстановление сада.:s:1694243:e:791-->
+<!----><!--2026-05-18 20:41:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ermak_na_svobode_556_dronov_po_rossii_shturm_borovoj_18_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b45a72babfeb0a39eb3042af61b720fa/" src="http://pic.rtbcdn.ru/video/2026-05-18/e5/ed/e5edd2fdcd9a22c0c311a1680a56c26e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ermak_na_svobode_556_dronov_po_rossii_shturm_borovoj_18_05_26">Украинский фронт - Ермак на свободе. 556 Дронов по России. Штурм Боровой. 18.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-18</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Ермак на свободе. 556 Дронов по России. Штурм Боровой. 18.05.26:s:1695198:e:873-->
+<!----><!--2026-05-19 11:19:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_12_seriya_marshals">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fa161f67bc983519f3225fc4c0d4b066/" src="http://pic.rtbcdn.ru/video/2026-05-19/37/22/372209765961e07e271dfebf34919d8b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jelloustoun_marshaly_1_sezon_12_seriya_marshals">Йеллоустоун: Маршалы 1 сезон 12 серия / Marshals</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-19</i>
+  </div>
+</div><!--n:Мир кино/Йеллоустоун Маршалы 1 сезон 12 серия Marshals:s:1696271:e:758-->
+<!----><!--2026-05-19 09:33:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_gugl_kartah_v_yaponii_nashli_strannyj_kompleks_so_sfericheskimi_angarami_pohojimi_na_gigantskie_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0af220fdb60326a7701aa020d4657467/" src="http://pic.rtbcdn.ru/video/2026-05-18/d5/f9/d5f9b285035b9cb924e3a33714660aaf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_gugl_kartah_v_yaponii_nashli_strannyj_kompleks_so_sfericheskimi_angarami_pohojimi_na_gigantskie_nlo">На Гугл Картах в Японии нашли странный комплекс со сферическими ангарами похожими на гигантские НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-19</i>
+  </div>
+</div><!--n:Тайны/На Гугл Картах в Японии нашли странный комплекс со сферическими ангарами похожими на гигантские НЛО:s:1697144:e:932-->
+<!----><!--2026-05-19 09:33:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_novyh_fajlah_pentagona_po_nlo_zametili_gigantskij_disk_nad_lunoj_i_anomalii_missij_apollon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f2c268d9a3a123c8666717938fb01c9a/" src="http://pic.rtbcdn.ru/video/2026-05-18/cb/0c/cb0cf28b6312d34143ea21b0e531a9a8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_novyh_fajlah_pentagona_po_nlo_zametili_gigantskij_disk_nad_lunoj_i_anomalii_missij_apollon">В новых файлах Пентагона по НЛО заметили гигантский диск над Луной и аномалии миссий Аполлон</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-19</i>
+  </div>
+</div><!--n:Тайны/В новых файлах Пентагона по НЛО заметили гигантский диск над Луной и аномалии миссий Аполлон:s:1698297:e:898-->
+<!----><!--2026-05-19 20:04:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_krovavye_nahrjukeny_udary_vsu_ne_effektivny_10_mln_za_ermaka_19_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6745d7bb71404bcf5c295ef7237d7326/" src="http://pic.rtbcdn.ru/video/2026-05-19/48/70/4870f218111559c5af6d469c118f09ac.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_krovavye_nahrjukeny_udary_vsu_ne_effektivny_10_mln_za_ermaka_19_05_26">Украинский фронт - кровавые нахрюкены. Удары ВСУ не эффективны. 10 млн за Ермака. 19.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-19</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - кровавые нахрюкены. Удары ВСУ не эффективны. 10 млн за Ермака. 19.05.26:s:1699402:e:905-->
+<!----><!--2026-05-19 20:56:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_lilo_i_stich_lilo_stitch">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3e3044bf3506c7ef2ffc39d2fccea9fc/" src="http://pic.rtbcdn.ru/video/2025-07-02/8b/6c/8b6c3e08167afbd7bd1395dda2c7f149.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_lilo_i_stich_lilo_stitch">Фильм Лило и Стич / Lilo & Stitch</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-19</i>
+  </div>
+</div><!--n:Мир кино/Фильм Лило и Стич Lilo Stitch:s:1700523:e:693-->
+<!----><!--2026-05-19 16:11:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/karatel_poslednee_ubijstvo_film_2026_the_punisher_one_last_kill">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fc32f41d3a99c536f2e557f61b54b384/" src="http://pic.rtbcdn.ru/video/2026-05-19/8b/49/8b49c4cb0f23a8e2760c985423bc67ce.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/karatel_poslednee_ubijstvo_film_2026_the_punisher_one_last_kill">Каратель: Последнее убийство (фильм 2026) / The Punisher: One Last Kill</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-19</i>
+  </div>
+</div><!--n:Мир кино/Каратель Последнее убийство (фильм 2026) The Punisher One Last Kill:s:1701301:e:770-->
+<!----><!--2026-05-19 20:00:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kak_my_pokonchili_s_soboj_film_2023_how_we_ended_us_odnogolosaya_ozvuchka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d4b1fd79bdd35acf891c72cdf1d48644/" src="http://pic.rtbcdn.ru/video/2026-05-19/06/47/06472d0373b8a91f1eb94c9cf802f4eb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kak_my_pokonchili_s_soboj_film_2023_how_we_ended_us_odnogolosaya_ozvuchka">Как мы покончили с собой (фильм 2023) / How We Ended Us (одноголосая озвучка)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-19</i>
+  </div>
+</div><!--n:Мир кино/Как мы покончили с собой (фильм 2023) How We Ended Us (одноголосая озвучка):s:1702210:e:809-->
+<!----><!--2026-05-20 10:23:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zapis_translyacii_mks_pokazala_flot_krupnyh_nlo_na_orbite_zemli">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5e91e8438989a3649a4ba2f2f17d4529/" src="http://pic.rtbcdn.ru/video/2026-05-19/08/a2/08a2a3f7fe31225547893c6ee158cf88.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/zapis_translyacii_mks_pokazala_flot_krupnyh_nlo_na_orbite_zemli">Запись трансляции МКС показала флот крупных НЛО на орбите Земли?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Тайны/Запись трансляции МКС показала флот крупных НЛО на орбите Земли:s:1703179:e:788-->
+<!----><!--2026-05-20 10:23:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/fiziki_obnarujili_v_piramidah_egipta_zashifrovannyj_matematicheskij_kod_kosmicheskoj_svyazi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6c81f4613583a754ccb3a1887587d8f4/" src="http://pic.rtbcdn.ru/video/2026-05-19/c8/dc/c8dc2aa90d0d98764be92b47dff44c1c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/fiziki_obnarujili_v_piramidah_egipta_zashifrovannyj_matematicheskij_kod_kosmicheskoj_svyazi">Физики обнаружили в Пирамидах Египта зашифрованный математический код космической связи?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Тайны/Физики обнаружили в Пирамидах Египта зашифрованный математический код космической связи:s:1704121:e:892-->
+<!----><!--2026-05-20 10:22:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/rassekrechennyj_dokument_cru_1952_goda_upomyanul_gigantskie_struktury_pod_sfinksom">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4a2f06f03cc44b53bc28b006906b9e74/" src="http://pic.rtbcdn.ru/video/2026-05-14/cc/1c/cc1c3037859b615254e383ded71dddad.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/rassekrechennyj_dokument_cru_1952_goda_upomyanul_gigantskie_struktury_pod_sfinksom">Рассекреченный документ ЦРУ 1952 года упомянул гигантские структуры под Сфинксом</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Тайны/Рассекреченный документ ЦРУ 1952 года упомянул гигантские структуры под Сфинксом:s:1705215:e:855-->
+<!----><!--2026-05-20 10:23:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/publikaciya_donaldom_trampom_foto_s_prishelcem_u_zony_51_vyzvalo_voprosy_o_skryvaemyh_arhivah_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ab52d274d2dfb7c65420bb05413feac3/" src="http://pic.rtbcdn.ru/video/2026-05-19/52/92/5292b03b8b0fa652549475ae13cf6bf5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/publikaciya_donaldom_trampom_foto_s_prishelcem_u_zony_51_vyzvalo_voprosy_o_skryvaemyh_arhivah_nlo">Публикация Дональдом Трампом Фото с Пришельцем у Зоны 51 вызвало вопросы о скрываемых архивах НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Тайны/Публикация Дональдом Трампом Фото с Пришельцем у Зоны 51 вызвало вопросы о скрываемых архивах НЛО:s:1706254:e:916-->
+<!----><!--2026-05-20 19:35:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/8_god_zelenskogo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f738e3ca56d36e10cde1398f7fba8377/" src="http://pic.rtbcdn.ru/video/2026-05-20/69/bf/69bf6eef9b76b69372dbfdf8ff97777f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/8_god_zelenskogo">8 год Зеленского!</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Жизнь в США и России/8 год Зеленского:s:1707385:e:638-->
+<!----><!--2026-05-20 18:55:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_8_god_zelenskogo_-_koshmar_dlya_ukrainy_porajenie_ssha_v_kitae_20_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/de6310156816f70403f2dc051b5c3906/" src="http://pic.rtbcdn.ru/video/2026-05-20/eb/a8/eba8cabc114f542928e3b13fc9e3daed.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_8_god_zelenskogo_-_koshmar_dlya_ukrainy_porajenie_ssha_v_kitae_20_05_26">Украинский фронт - 8 год Зеленского - кошмар для Украины. Поражение США в Китае. 20.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - 8 год Зеленского - кошмар для Украины. Поражение США в Китае. 20.05.26:s:1708115:e:907-->
+<!----><!--2026-05-20 18:37:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/vorota_film_2026_the_gates">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ba893e49075d5595bb9e6d63d89a46bc/" src="http://pic.rtbcdn.ru/video/2026-05-20/af/9c/af9c3956df8b07be418cf1cf68fb8103.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/vorota_film_2026_the_gates">Ворота (фильм 2026) / The Gates</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Мир кино/Ворота (фильм 2026) The Gates:s:1709236:e:637-->
+<!----><!--2026-05-20 16:30:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/bitvy_dvojnikov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6072242dd50b5342027b4ef381b99541/" src="http://pic.rtbcdn.ru/video/2026-05-20/68/b2/68b23178bd5bd21b8a39d009308adc0c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/bitvy_dvojnikov">Битвы двойников</a></p>
+    <p><i class="smaller2">GreenGrass</i></p>
+    <i class="smaller3">2026-05-20</i>
+  </div>
+</div><!--n:Мир кино/Битвы двойников:s:1709955:e:593-->
+<!----><!--2026-05-21 20:09:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_melnika_horonyat_s_pochestyami_na_ukraine_21_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/34073d02f5f970e472a6b0fa94269aa6/" src="http://pic.rtbcdn.ru/video/2026-05-21/3c/2b/3c2b12966f92abc58ca475f33f879759.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_melnika_horonyat_s_pochestyami_na_ukraine_21_05_26">Украинский фронт - Мельника хоронят с почестями на Украине. 21.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-21</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Мельника хоронят с почестями на Украине. 21.05.26:s:1710619:e:831-->
+<!----><!--2026-05-21 18:00:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/bratya_pod_ognem_film_2026_brothers_under_fire">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c3004ac15b40d9645a8e6ff946fdddc9/" src="http://pic.rtbcdn.ru/video/2026-05-21/7a/1d/7a1d09931ec68047907cd7c1d20d8bab.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/bratya_pod_ognem_film_2026_brothers_under_fire">Братья под огнём (фильм 2026) / Brothers Under Fire</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-21</i>
+  </div>
+</div><!--n:Мир кино/Братья под огнём (фильм 2026) Brothers Under Fire:s:1711630:e:705-->
+<!----><!--2026-05-21 17:17:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/o'romeo_film_2026_o'romeo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/56b1de309a902089976cdc239064132c/" src="http://pic.rtbcdn.ru/video/2026-05-21/54/c2/54c2cc630395947688bd067d34494c91.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/o'romeo_film_2026_o'romeo">О'Ромео (фильм 2026) / O'Romeo</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-05-21</i>
+  </div>
+</div><!--n:Мир кино/О'Ромео (фильм 2026) O'Romeo:s:1712445:e:634-->
+<!----><!--2026-05-21 18:32:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_8_seriya_iz_8_the_boys">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0959d9400de8566808da6e1d57134e16/" src="http://pic.rtbcdn.ru/video/2026-05-21/80/26/80263d26300cbf2ae5761577b2f41b66.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_pacany_5_sezon_8_seriya_iz_8_the_boys">Сериал Пацаны 5 сезон 8 серия из 8 / The Boys</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-21</i>
+  </div>
+</div><!--n:Мир кино/Сериал Пацаны 5 сезон 8 серия из 8 The Boys:s:1713160:e:745-->
+<!----><!--2026-05-22 11:45:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/zabytye_pamyatniki">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0520b3f5492efaddf9b4914fe99a19dc/" src="http://pic.rtbcdn.ru/video/2026-05-22/05/b6/05b6d0875bd7fd8b33075be28a56700c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/zabytye_pamyatniki">ЗАБЫТЫЕ ПАМЯТНИКИ.</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-05-22</i>
+  </div>
+</div><!--n:Тайны/ЗАБЫТЫЕ ПАМЯТНИКИ.:s:1714014:e:628-->
+<!----><!--2026-05-22 20:13:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukraincy_prosnulis_udar_po_kolledju_narodnaya_albertskaya_respublika_22_05_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3de4d0c982f2145a8c60ebd2d2ac3d74/" src="http://pic.rtbcdn.ru/video/2026-05-22/84/2e/842ed89a34ca266206fba4373847aefa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukraincy_prosnulis_udar_po_kolledju_narodnaya_albertskaya_respublika_22_05_26">Украинский фронт - украинцы проснулись. Удар по колледжу.  Народная Альбертская республика. 22.05.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-05-22</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - украинцы проснулись. Удар по колледжу. Народная Альбертская республика. 22.05.26:s:1714713:e:944-->
+<!----><!--2026-05-23 07:59:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_sledstvie_vedut_ovechki_the_sheep_detectives_ekranka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7ee999ad23d21f52511f7ec93a439508/" src="http://pic.rtbcdn.ru/video/2026-05-22/d5/99/d59953181e069d08a639312e680efe35.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_sledstvie_vedut_ovechki_the_sheep_detectives_ekranka">Фильм Следствие ведут овечки / The Sheep Detectives | Экранка</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-23</i>
+  </div>
+</div><!--n:Мир кино/Фильм Следствие ведут овечки The Sheep Detectives Экранка:s:1715895:e:795-->
+<!----><!--2026-05-23 07:42:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/multfilm_super_mario_galakticheskoe_kino_the_super_mario_galaxy_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/08f22e34997789fade53582368f8ff32/" src="http://pic.rtbcdn.ru/video/2026-05-23/fa/62/fa62694f9f27155c9e3180d083db2caf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/multfilm_super_mario_galakticheskoe_kino_the_super_mario_galaxy_movie">Мультфильм Супер Марио: Галактическое кино / The Super Mario Galaxy Movie</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-05-23</i>
+  </div>
+</div><!--n:Мир кино/Мультфильм Супер Марио Галактическое кино The Super Mario Galaxy Movie:s:1716821:e:836-->
+<!----><!--2026-05-23 15:55:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/policejskij_v_argentine_snyal_nochju_strannuju_gigantskuju_gumanoidnuju_figuru_v_lesu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e240b1a2d551b694b7c0c136cb42fda6/" src="http://pic.rtbcdn.ru/video/2026-05-22/ca/6d/ca6d52d7fcfa5ab77eb3b202d9ff07e4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/policejskij_v_argentine_snyal_nochju_strannuju_gigantskuju_gumanoidnuju_figuru_v_lesu">Полицейский в Аргентине снял ночью странную гигантскую гуманоидную фигуру в лесу</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-23</i>
+  </div>
+</div><!--n:Тайны/Полицейский в Аргентине снял ночью странную гигантскую гуманоидную фигуру в лесу:s:1717806:e:864-->
+<!----><!--2026-05-23 15:55:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_rassekrechennyh_fajlah_po_nlo_chashche_vsego_upominajutsya_chetyre_tipa_prishelcev">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/029478d5a12c9df8b410ff345509857f/" src="http://pic.rtbcdn.ru/video/2026-05-22/9f/02/9f0284f918b68a655f7810a49725e876.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_rassekrechennyh_fajlah_po_nlo_chashche_vsego_upominajutsya_chetyre_tipa_prishelcev">В рассекреченных файлах по НЛО чаще всего упоминаются четыре типа «пришельцев»</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-23</i>
+  </div>
+</div><!--n:Тайны/В рассекреченных файлах по НЛО чаще всего упоминаются четыре типа пришельцев:s:1718857:e:858-->
+<!----><!--2026-05-23 15:55:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_nedavno_rassekrechennyh_arhivah_po_nlo_obnarujili_raporty_specslujb_s_preduprejdeniem_iz_kosmosa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/57edd130c2f8f57ce541ec1d119c27c8/" src="http://pic.rtbcdn.ru/video/2026-05-18/1e/ff/1effe70b7a9308ce8ea3ee079e77f9c5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_nedavno_rassekrechennyh_arhivah_po_nlo_obnarujili_raporty_specslujb_s_preduprejdeniem_iz_kosmosa">В недавно рассекреченных архивах по НЛО обнаружили рапорты спецслужб с предупреждением из космоса</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-23</i>
+  </div>
+</div><!--n:Тайны/В недавно рассекреченных архивах по НЛО обнаружили рапорты спецслужб с предупреждением из космоса:s:1719894:e:922-->
+<!----><!--2026-05-23 15:55:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pri_issledovanii_ostrova_pashi_pribory_zafiksirovali_skrytye_pod_zemlej_gigantskie_kamennye_vorota">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/695b34448c2ce34b530f25879892d774/" src="http://pic.rtbcdn.ru/video/2026-05-22/ba/6d/ba6d699d5186e2527d247f541f595e25.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pri_issledovanii_ostrova_pashi_pribory_zafiksirovali_skrytye_pod_zemlej_gigantskie_kamennye_vorota">При исследовании острова Пасхи приборы зафиксировали скрытые под землей гигантские каменные ворота?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-23</i>
+  </div>
+</div><!--n:Тайны/При исследовании острова Пасхи приборы зафиксировали скрытые под землей гигантские каменные ворота:s:1721035:e:926-->
+<!----><!--2026-05-23 15:55:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/fbr_nazvalo_podlinnym_foto_gigantskogo_prishelca_bogomola_snyatogo_v_gorah_tajvanya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ae76ac5c108e411bc508fbf72aa64a38/" src="http://pic.rtbcdn.ru/video/2026-05-22/ba/e1/bae17a8d71fb3566afb6a337b0b9119e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/fbr_nazvalo_podlinnym_foto_gigantskogo_prishelca_bogomola_snyatogo_v_gorah_tajvanya">ФБР назвало подлинным фото гигантского «пришельца богомола» снятого в горах Тайваня</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-05-23</i>
+  </div>
+</div><!--n:Тайны/ФБР назвало подлинным фото гигантского пришельца богомола снятого в горах Тайваня:s:1722183:e:866-->
