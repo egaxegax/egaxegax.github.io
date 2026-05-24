@@ -81,7 +81,7 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
       try:    open(os.path.join(cdir, prm['hdr'], tr_cut(titl) + '.md'), 'w', encoding='utf-8', newline='\n').write(text)
       except: continue
       fcount += 1
-  print(prm['hdr'], '(%s)' % (ii+1,))
+  print(prm['hdr'], '(%s)' % (fcount,))
 
 if fcount:
   time.sleep(1)
