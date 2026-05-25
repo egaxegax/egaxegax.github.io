@@ -96,6 +96,7 @@
     page.top = page.bottom+page.per;
     page.titles = page.fotos.slice(page.bottom, page.top);
     if(page.titles.length){
+      document.title = page.doctitle;
       document.getElementById('page_footer').innerHTML = addPaginator(page.fotos, page,
     '<button onclick="this.disabled = addPageContent(ROOTS, SUBJ, PAGE)" class="rounded nopad bigger" title="Загрузить ещё">&#8634;</button>');
     }
