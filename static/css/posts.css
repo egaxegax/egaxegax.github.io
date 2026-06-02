@@ -23,7 +23,7 @@ dt { margin:20px; }
 .readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; }
 .readme ul li { padding:2px 0; }
 .readme a { color:#777; font-style:italic; }
-.posts { line-height:1.4em; }
+.posts { line-height:1.5em; }
 /* tables */
 .g { border-collapse:collapse; text-align:center; display:block; overflow:auto;}
 .g img {vertical-align:middle; max-width:none;} 
