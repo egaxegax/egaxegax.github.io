@@ -69,7 +69,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
           fp.write(text)
           fcount += 1
         fp.write('<div class="rssurl gray smaller" style="display:none">'+ prm['url'] +'</div>')
-      print(prm['hdr'], prm['url'], '(%s)' % (ii,))
+      print(prm['hdr'], prm['url'], '(%s)' % (fcount,))
 
 if fcount:
   time.sleep(1)

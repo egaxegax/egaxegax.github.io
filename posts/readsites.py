@@ -6,14 +6,18 @@
 #
 
 RSSlist = {
-  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru','url':'https://finecooking.ru/feed/rss',      'cut':480,                    'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
-  'habr':        {'hdr':'Подборка с сайтов/Хабр',          'url':'https://habr.com/ru/rss/news/?fl=ru',  'cut':480,                    'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'kino_kino':   {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/kino.xml',   'cut':1000,                   'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ', 'url':'https://kino-teatr.ru/rss/teatr.xml',  'cut':1000,                   'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'povarenok':   {'hdr':'Подборка рецептов/Поваренок.РУ',  'url':'https://www.povarenok.ru/rss/recipes/','cut':480,                    'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
-  'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',  'url':'https://prosto-linux.ru/feed',         'cut':1000,                   'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',       'url':'https://www.yaplakal.com/news.xml',    'cut':2000,                   'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'flickr':      {'hdr':'Подборка с сайтов/Flickr.com',    'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':10,'ctag': '',        'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
+  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru',       'url':'https://finecooking.ru/feed/rss',        'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
+  'povarenok':   {'hdr':'Подборка рецептов/Поваренок.РУ',         'url':'https://www.povarenok.ru/rss/recipes/',  'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
+  'habr':        {'hdr':'Подборка с сайтов/Хабр',                 'url':'https://habr.com/ru/rss/news/?fl=ru',    'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'kino_kino':   {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/kino.xml',     'cut':1000, 'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/teatr.xml',    'cut':1000, 'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',         'url':'https://prosto-linux.ru/feed',           'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',              'url':'https://www.yaplakal.com/news.xml',      'cut':2000, 'total':15,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'moslenta':    {'hdr':'Подборка с сайтов/Мослента',             'url':'https://moslenta.ru/exports/rss.xml',    'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'flickr':      {'hdr':'Подборка с сайтов/Flickr.com',           'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':10,'ctag': '', 'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
+  'chmp':        {'hdr':'Подборка новостей/Чемпионат',            'url':'https://www.championat.ru/rss/news/',    'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'mk':          {'hdr':'Подборка новостей/Московский Комсомолец','url':'https://www.mk.ru/rss/science/index.xml','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'rgecon':      {'hdr':'Подборка новостей/Российская газета',    'url':'https://rg.ru/xml/rubrics/ekonomika.xml','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
 }
 
 import os, sys, time, re
@@ -43,8 +47,8 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
       if link: ptitl = '<p class="titl"><a href="{link}">{titl}</a></p>'.format(link=link, titl=titl)
       text = ''
       if item.find('description') is not None:         text = item.find('description').text.strip()
-      if item.find('enclosure') is not None:           text = ('<a href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=item.find('enclosure').get('url')) if text.find('<img src=') == -1 else '') + text
       if item.find('%(sm)scontent' % prm) is not None: text = item.find('%(sm)scontent' % prm).text
+      if item.find('enclosure') is not None:           text = ('<a href="{link}"><img src="{imurl}"></a>'.format(link=link, imurl=item.find('enclosure').get('url')) if text.find('<img src=') == -1 else '') + text
       if not text or re.search('<!--Begin Video.*!--End Video-->', text):
         print('!!! No text tag. Skip...')
         continue
