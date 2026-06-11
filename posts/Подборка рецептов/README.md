@@ -4439,3 +4439,112 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kompot-iz-revenya-v-kastryule/photo/960w.jpg" width="960" alt="Компот из ревеня в кастрюле"><p>Компот из ревеня в кастрюле — простой домашний напиток с приятной кислинкой и свежим летним вкусом. Кусочки ревеня кладутся в кипящую воду, сразу добавляется сахар, а после повторного закипания напиток недолго варится на медленном огне и настаивается под крышкой.</p> <p class="titl"><a href="https://finecooking.ru/recipe/kompot-iz-revenya-v-kastryule">Компот из ревеня в кастрюле</a></p></div>
 </div><!--n:finecooking.ru/Компот из ревеня в кастрюле:s:949854:e:906-->
+<!----><!--2026-06-02 16:50:02-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183687/"><img src="https://www.povarenok.ru/data/cache/2026jun/02/45/3217058_71560-640x480.jpg"></a>Слоеный пирог с брынзой, получается удивительно вкусный и сытный! Для него можно брать любой рассольный сыр и любую свежую зелень. Получается сочный и вкусный перекус, который хорош и в горячем, и в холодном виде! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183687/">Слоеный пирог с брынзой</a></p></div>
+</div><!--n:Поваренок.РУ/Слоеный пирог с брынзой:s:950850:e:763-->
+<!----><!--2026-06-02 20:00:54-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183688/"><img src="https://www.povarenok.ru/data/cache/2026jun/02/52/3217089_76480-640x480.jpg"></a>В общем, ничего, особенного. Никаких гастрономических откровений и страшных секретов высокой кухни не ждите. Просто расскажу, как мы приготовили самый обычный, но наваристый, душистый, густой и вкусный мясной суп. Поверьте, оно того стоило. Потому что суп этот готовился по тем правилам, которые были заведены на кухне нашими... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183688/">Суп. Хвосты и чечевица</a></p></div>
+</div><!--n:Поваренок.РУ/Суп. Хвосты и чечевица:s:951705:e:968-->
+<!----><!--2026-06-02 21:32:29-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183689/"><img src="https://www.povarenok.ru/data/cache/2026jun/02/32/3217127_38202-640x480.jpg"></a>Это тушеные куски зайца в густой, пряной сметанно-томатной подливке с кореньями, луком и клюквой (или брусникой). Дичь сначала долго вымачивают (чтобы убрать горечь и специфический запах), затем обжаривают до корочки и тушат 1.5–2 часа до мягкости. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183689/">Заяц по тушиловски</a></p></div>
+</div><!--n:Поваренок.РУ/Заяц по тушиловски:s:952762:e:815-->
+<!----><!--2026-06-03 19:50:35-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183698/"><img src="https://www.povarenok.ru/data/cache/2026jun/03/42/3217371_87350-640x480.jpg"></a>Завтрак за пять минут? Легко! Свежий поджаренный хлеб, сладкая сочная клубника, чашечка кофе и жизнь удалась! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183698/">Гренки с клубникой</a></p></div>
+</div><!--n:Поваренок.РУ/Гренки с клубникой:s:953660:e:565-->
+<!----><!--2026-06-03 20:41:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183699/"><img src="https://www.povarenok.ru/data/cache/2026jun/03/32/3217381_67398-640x480.jpg"></a>Сегодня я решила приготовить блюдо, которое оживило бы мой ужин и добавило ярких красок в повседневность. Паста с курицей, грибами и соусом песто — это не просто блюдо, а настоящее путешествие по вкусам Италии, которое можно устроить у себя дома. Оно сочетает в себе нежное куриное мясо, ароматные грибы и свежий ароматный соус песто... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183699/">Паста с курицей, грибами и песто</a></p></div>
+</div><!--n:Поваренок.РУ/Паста с курицей, грибами и песто:s:954308:e:1001-->
+<!----><!--2026-06-03 18:38:10-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183697/"><img src="https://www.povarenok.ru/data/cache/2026jun/03/07/3217253_88590-640x480.jpg"></a>Нежные и сочные голубцы с мясной начинкой. Голубцы – вначале обжаривают, а затем запекают в соусе. Голубцы можно запекать не только на плите, но и в духовке в глубокой сковороде или толстостенной кастрюле. Я запекала в кастрюле-жаровне бренда KUKMARA. И обжаривала голубцы в сковороде Kukmara. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183697/">Сочные голубцы в жаровне</a></p></div>
+</div><!--n:Поваренок.РУ/Сочные голубцы в жаровне:s:955417:e:899-->
+<!----><!--2026-06-04 10:34:33-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183703/"><img src="https://www.povarenok.ru/data/cache/2026jun/04/32/3217488_98315-640x480.jpg"></a>Очень нежные, ароматные и пышные сырники с манной крупой и кокосовой стружкой, которые готовятся без муки, непременно понравятся вашим домочадцам! Отличная идея для завтрака в тихом, уютном семейном кругу! Готовлю много, готовлю впрок. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183703/">Кокосовые сырники</a></p></div>
+</div><!--n:Поваренок.РУ/Кокосовые сырники:s:956410:e:796-->
+<!----><!--2026-06-04 13:39:00-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183704/"><img src="https://www.povarenok.ru/data/cache/2026jun/04/12/3217527_21007-640x480.jpg"></a>Скоро сезон лисичек. Предлагаю вам необыкновенный суп из лисичек и резаного овса. Резаный овёс загустит суп и он будет с насыщенным вкусом. Вместо резаного овса, если вы его не купите, можно взять манную крупу или поленту какую-то по вкусу, или даже - просто муку. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183704/">Суп с лисичками и резанным овсом</a></p></div>
+</div><!--n:Поваренок.РУ/Суп с лисичками и резанным овсом:s:957288:e:868-->
+<!----><!--2026-06-04 10:20:24-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183702/"><img src="https://www.povarenok.ru/data/cache/2026jun/04/19/3217471_98380-640x480.jpg"></a>Отличная рыбка получается, с тонкой хрустящей корочкой, вкусная, с нежной мякотью. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183702/">Жареная камбала целиком на сковороде</a></p></div>
+</div><!--n:Поваренок.РУ/Жареная камбала целиком на сковороде:s:958264:e:551-->
+<!----><!--2026-06-05 20:41:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183711/"><img src="https://www.povarenok.ru/data/cache/2026jun/05/16/3217729_30494-640x480.jpg"></a>Ароматное, сытное мясо с картофелем в соусе из кабачков и баклажанов. При чём можно подать по желанию гостя - с большим количеством бульона, как суп, или вовсе без него - как второе. Рекомендую. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183711/">Суп-рагу из говядины и овощей</a></p></div>
+</div><!--n:Поваренок.РУ/Суп-рагу из говядины и овощей:s:958932:e:734-->
+<!----><!--2026-06-05 13:40:37-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183709/"><img src="https://www.povarenok.ru/data/cache/2026jun/04/38/3217512_48196-640x480.jpg"></a>Сочные котлеты с начинкой из грибов в картофельной панировке. Такое блюдо можно приготовить на семейный ужин или на праздничный стол. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183709/">Котлеты в картофельной панировке</a></p></div>
+</div><!--n:Поваренок.РУ/Котлеты в картофельной панировке:s:959768:e:639-->
+<!----><!--2026-06-05 19:39:45-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183710/"><img src="https://www.povarenok.ru/data/cache/2026jun/01/43/3216899_95291-640x480.jpg"></a>Для тех, кто придерживается правильного питания это блюдо идеально.
+ Для тех, кто относится к тыкве неоднозначно, есть повод удивиться, как это вкусно. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183710/">Куриные сердечки с тыквой</a></p></div>
+</div><!--n:Поваренок.РУ/Куриные сердечки с тыквой:s:960517:e:654-->
+<!----><!--2026-06-06 12:54:55-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183714/"><img src="https://www.povarenok.ru/data/cache/2026jun/06/53/3217840_81924-640x480.jpg"></a>Суп с маринованными огурцами и перловкой - это отличное решение для сытного обеда. Приготовить такое блюдо просто, вам потребуются обычные продукты и немного времени. Суп получается наваристым, ароматным и очень вкусным. Картофель, я не добавляла. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183714/">Суп с маринованными огурцами и перловкой</a></p></div>
+</div><!--n:Поваренок.РУ/Суп с маринованными огурцами и перловкой:s:961267:e:860-->
+<!----><!--2026-06-06 14:30:06-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183715/"><img src="https://www.povarenok.ru/data/cache/2026jun/06/30/3217867_56314-640x480.jpg"></a>Можно назвать это блюдо просто котлетами. В фарш добавлены гречневые хлопья быстрого приготовления вместо хлеба. Гречаники запекаются в духовке совершенно без масла. Я соберу полезную тарелку для ПП и диетического питания. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183715/">Мясные запечённые гречаники</a></p></div>
+</div><!--n:Поваренок.РУ/Мясные запечённые гречаники:s:962251:e:795-->
+<!----><!--2026-06-06 09:37:43-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183713/"><img src="https://www.povarenok.ru/data/cache/2026jun/05/26/3217773_25393-640x480.jpg"></a>Вкусный и легкий чечевичный суп с приятной щавелевой кислинкой. Очень по-летнему! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183713/">Чечевичный суп со щавелем</a></p></div>
+</div><!--n:Поваренок.РУ/Чечевичный суп со щавелем:s:963147:e:529-->
+<!----><!--2026-06-07 14:13:54-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183721/"><img src="https://www.povarenok.ru/data/cache/2026jun/05/24/3217718_37610-640x480.jpg"></a>Сырники соленые с зеленью, это идеальный вариант вкусного завтрака или перекуса. Нежные, с тонкой золотистой корочкой они прочно войдут в ваше меню, готовьте с удовольствием. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183721/">Соленые сырники с зеленью</a></p></div>
+</div><!--n:Поваренок.РУ/Соленые сырники с зеленью:s:963772:e:699-->
+<!----><!--2026-06-07 16:26:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183722/"><img src="https://www.povarenok.ru/data/cache/2026jun/07/25/3218057_36816-640x480.jpg"></a>Сливочный аромат этого, одного из традиционных, немецкого пирога никого не оставит равнодушным. Я его помню с детства в исполнении моей тетушки. В детстве казалось, что ничего лучше и праздничнее его нет. Попробуйте, и вы согласитесь со мной. Он большой по размеру. Для его выпечки идеально подходит пртивень от Kukmara размером 40... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183722/">Немецкий масляный пирог</a></p></div>
+</div><!--n:Поваренок.РУ/Немецкий масляный пирог:s:964567:e:974-->
+<!----><!--2026-06-07 12:18:53-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183720/"><img src="https://www.povarenok.ru/data/cache/2026jun/06/03/3217915_81700-640x480.jpg"></a>Аппетитный дрожжевой пирог с рисовой начинкой — это очень мягкое, воздушное тесто и сытная начинка. Из этого теста можно приготовить пироги или пирожки с любой начинкой. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183720/">Пирожки из дрожжевого теста с начинкой</a></p></div>
+</div><!--n:Поваренок.РУ/Пирожки из дрожжевого теста с начинкой:s:965634:e:715-->
+<!----><!--2026-06-08 19:23:35-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183730/"><img src="https://www.povarenok.ru/data/cache/2026jun/08/19/3218271_58994-640x480.jpg"></a>Интересный рецепт салатика, давно к нему приглядывалась, и вот, наконец-то решила приготовить. Вкус просто замечательный: легкий, гармоничный с пикантными нотками маслин и мягким сладковатым вкусом крабового мяса, с сочностью огурчиков, хрусткостью капусты и легкой солоноватостью сыров. Очень вкусно, советую приготовить. И,... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183730/">Крабовый салат с плавленым сыром</a></p></div>
+</div><!--n:Поваренок.РУ/Крабовый салат с плавленым сыром:s:966469:e:993-->
+<!----><!--2026-06-08 14:50:28-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183728/"><img src="https://www.povarenok.ru/data/cache/2026jun/08/48/3218237_16436-640x480.jpg"></a>Пряно, сочно, аппетитно и, конечно, вкусно! Такая закуска красиво смотрится на столе, а приготовить её проще-простого! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183728/">Маринованная моцарелла с черри и оливками</a></p></div>
+</div><!--n:Поваренок.РУ/Маринованная моцарелла с черри и оливками:s:967571:e:623-->
+<!----><!--2026-06-08 15:37:40-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183729/"><img src="https://www.povarenok.ru/data/cache/2026jun/08/31/3218245_78601-640x480.jpg"></a>Салат можно отнести к ПП и диетическому питанию. Здесь всё есть: полезные жиры, долгие углеводы, белок. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183729/">Салат с креветками</a></p></div>
+</div><!--n:Поваренок.РУ/Салат с креветками:s:968320:e:553-->
+<!----><!--2026-06-09 16:03:58-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183741/"><img src="https://www.povarenok.ru/data/cache/2026jun/09/01/3218646_52901-640x480.jpg"></a>Сочные тефтельки, утопающие в густом, насыщенном соусе из грибов и сливок. Вкусная классика! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183741/">Тефтели в сливочно-грибном соусе</a></p></div>
+</div><!--n:Поваренок.РУ/Тефтели в сливочно-грибном соусе:s:968956:e:561-->
+<!----><!--2026-06-09 14:47:16-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183739/"><img src="https://www.povarenok.ru/data/cache/2026jun/09/44/3218591_32738-640x480.jpg"></a>Вкус белой рыбы можно аппетитно обогатить за счёт нежного соуса. Запекаем блюдо в духовке после несложной предварительной подготовки. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183739/">Минтай запечённый под грибным соусом</a></p></div>
+</div><!--n:Поваренок.РУ/Минтай запечённый под грибным соусом:s:969626:e:648-->
+<!----><!--2026-06-09 15:13:53-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183740/"><img src="https://www.povarenok.ru/data/cache/2026jun/09/16/3218636_59320-640x480.jpg"></a>Прелесть разборных пирогов в том, что их не нужно резать. Каждый кусочек - это отдельная булочка с начинкой, которую можно просто отломить от пирога и продегустировать. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183740/">Разборный пирог из булочек с колбасой</a></p></div>
+</div><!--n:Поваренок.РУ/Разборный пирог из булочек с колбасой:s:970391:e:708-->
+<!----><!--2026-06-10 18:42:43-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183749/"><img src="https://www.povarenok.ru/data/cache/2026jun/09/00/3218482_95645-640x480.jpg"></a>Именно под таким названием мне достался этот рецепт. Блюдо добротное, сытное и очень вкусное! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183749/">Армейский бигос</a></p></div>
+</div><!--n:Поваренок.РУ/Армейский бигос:s:971217:e:532-->
+<!----><!--2026-06-10 12:44:53-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183747/"><img src="https://www.povarenok.ru/data/cache/2026jun/10/39/3218770_19374-640x480.jpg"></a>Хлебные булочки - это небольшие булочки, которые подходят для порционной подачи к горячим блюдам и для бутербродов. Их можно приготовить сладкими или убавить сахар на 1 ст. л., получаться несладкие. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183747/">Сладкие хлебные булочки</a></p></div>
+</div><!--n:Поваренок.РУ/Сладкие хлебные булочки:s:971827:e:736-->
+<!----><!--2026-06-10 15:13:11-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183748/"><img src="https://www.povarenok.ru/data/cache/2026jun/10/03/3218797_35039-640x480.jpg"></a>Предлагаю вам приготовить быстрые сырники с овсяными хлопьями быстрого приготовления в разовых пакетиках с добавлением фруктов в СВЧ. Это очень просто, полезно, диетическая еда, т к сырники не обжариваются. Приготовление в СВЧ у вас займёт всего 3-3,5 минуты и завтрак готов. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183748/">Сырники из СВЧ</a></p></div>
+</div><!--n:Поваренок.РУ/Сырники из СВЧ:s:972656:e:858-->

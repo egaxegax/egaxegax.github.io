@@ -15,6 +15,7 @@ RSSlist = {
   'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',              'url':'https://www.yaplakal.com/news.xml',      'cut':2000, 'total':15,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'moslenta':    {'hdr':'Подборка с сайтов/Мослента',             'url':'https://moslenta.ru/exports/rss.xml',    'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'flickr':      {'hdr':'Подборка с сайтов/Flickr.com',           'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':10,'ctag': '', 'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
+  'sports':      {'hdr':'Подборка новостей/Спортс',               'url':'https://sports.ru/rss/all_news.xml',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'chmp':        {'hdr':'Подборка новостей/Чемпионат',            'url':'https://www.championat.ru/rss/news/',    'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'mk':          {'hdr':'Подборка новостей/Московский Комсомолец','url':'https://www.mk.ru/rss/science/index.xml','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'rgecon':      {'hdr':'Подборка новостей/Российская газета',    'url':'https://rg.ru/xml/rubrics/ekonomika.xml','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
