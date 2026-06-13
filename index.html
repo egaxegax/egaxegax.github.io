@@ -88,12 +88,12 @@
   '<div id="msg'+p.i+'" class="posts inlbl '+ tr(p.root) +'">'+ html +'</div>';
     document.getElementById(p.id).innerHTML += 
   '<div class="msgfooter mw_f nowrap scroll">'+
-    '<table class="collapse"><tr>'+
-      '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span></td>'+
-      '<td><a class="nodecor hspace gray" href="index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addIShare()+' </a></td>'+
+    '<table class="collapse" width="100%"><tr><td width="50%" align="left">'+
+      '<span class="hspace tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span>'+
+      '<a class="nodecor hspace gray" href="index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addIShare()+' </a>'+
     ((rs=document.querySelector('#'+ p.id +' .rssurl')) ? 
-      '<td><span class="hspace rssfetch tooltip gray" title="'+rs.innerHTML+'" onclick="fetchRSSFromXML(\''+rs.innerHTML+'\',\'msg'+p.i+'\')"> '+addIRefresh()+'</span></td>' : '')+
-      '<td width="95%"><a class="nodecor light" title="'+buildSubPath(ROOTS, SUBJ, p.title[0])+'" href="index.html?'+tr(p.subj)+'">'+SUBJ[p.title[0]][0]+'</a></td>'+
+      '<span class="hspace rssfetch tooltip gray" title="'+rs.innerHTML+'" onclick="fetchRSSFromXML(\''+rs.innerHTML+'\',\'msg'+p.i+'\')"> '+addIRefresh()+'</span>' : '')+'</td>'+
+      '<td width="75%"><a class="nodecor light" title="'+buildSubPath(ROOTS, SUBJ, p.title[0])+'" href="index.html?'+tr(p.subj)+'">'+SUBJ[p.title[0]][0]+'</a></td>'+
     '</tr></table>'+
   '</div>';
     addTitlesRelsHtml(p, 'index.html', '', 'page_content');
