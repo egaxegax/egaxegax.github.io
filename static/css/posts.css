@@ -57,5 +57,7 @@ dt { margin:20px; }
 .rssn img { height:50px; width:auto; margin:0 5px 0 !important; }
 .rssn strong { font-weight:normal; }
 /* subj styles */
+.habr p { margin:0px auto 10px auto; }
+.habr .titl { margin:10px auto; }
 .kino_kino img,.kino_teatr img { margin:0px 10px 1px 0px !important; }
 .interesnoe,.razrabotka,.igry { margin:0px 5px; }
