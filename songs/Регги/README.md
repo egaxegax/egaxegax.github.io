@@ -1,3 +1,785 @@
+<!----><!--2020-09-05 02:39:33-->
+intro  
+-----------------------------------  
+-----------------------------------  
+-----------------------------------  
+-----------------------------------  
+-----------------------------------  
+-x-6-6-x-6-6---x-6-8---x-6-6-x-6-6-  
+  
+this is played twice  
+  
+  
+tthe other guitar plays Cm for the rest of the song  
+  
+   Cm  
+E|-8-|  
+B|-8-|  
+G|-8-|  
+D|-6-|  
+A|-6-|  
+E|-8-|  
+  
+this is played twice  
+  
+all notes played wityh right hand  
+palm mute  
+  
+chorus riff  
+-----|-------------|-----------|-------------|-------------  
+-----|-------------|-----------|-------------|-------------  
+-----|-------------|-----------|-------------|-------------  
+-----|-5-----------|---5-------|-5-----------|-------5---3-  
+-----|---6-5-6-5---|-6---------|---6-5-6-5---|-----6---6---  
+-6-8-|-----------8-|-----3-6-8-|-----------8-|-8-8---------  
+  
+  
+verse riff  
+-----------|------------  
+-----------|------------  
+---------7-|------------  
+-------5---|-8-----5----  
+---6-8-----|---6-8------  
+-8---------|--------6-8-<!--n:Marley Bob/Get up Stand up:s:0:e:1121-->
+<!----><!--2020-09-05 02:39:24-->
+Intro:  
+E|---------------------------------|  
+B|---------------------------------|  
+G|---------------------------------|  
+D|-7--5----------------------------|  
+A|--------7--5-----5--7--5---------|  
+E|---------------8------------8--5-|  
+  
+Chorus:  
+E|-5-5-----5------5-5------5----10-10-----10-----10-10------10-|  
+B|-5-5-----5------5-5------5----10-10-----10-----10-10------10-|  
+G|-5-5-----5------5-5------5----10-10-----10-----10-10------10-|  
+D|-------------------------------------------------------------|  
+A|-------------------------------------------------------------|  
+E|-------------------------------------------------------------|  
+  
+E|-5-5-----5------5-5-----5-------5-5------5--------5-5------5-|  
+B|-5-5-----5------5-5-----5-------5-5------5--------5-5------5-|  
+G|-5-5-----5------5-5-----5-------5-5------5--------5-5------5-|  
+D|-------------------------------------------------------------|  
+A|-------------------------------------------------------------|  
+E|-------------------------------------------------------------|  
+  
+Verse:  
+E|-5---------7-----------5-|  
+B|-6---------8-----------5-|  
+G|-5---------7-----------5-|  
+D|-------------------------|  
+A|-------------------------|  
+E|-------------------------|  
+  
+Go home now and drift away with tha spiritual music..  
+...take it easy and float..just float away with JAH!<!--n:Marley Bob/I Shot The Sheriff (2 вариант):s:1168:e:1442-->
+<!----><!--2020-09-05 02:38:39-->
+G,C,G/B,Am,F,C,F,C,G  
+  
+C,G/B,Am,F              No woman no cry.  
+  
+C,F,C,G         No woman no cry  
+C,G/B,Am,F              No woman no cry.  
+C,F,C,G         No woman no cry.  
+C,G/B,Am,F              Cause I remember when we used to sit  
+C,G/B,Am,F              in a government yard in Trenchtown.  
+C,G/B,Am,F              Oba, Observing the hypocrites  
+C,G/B,Am,F              Mingle with the good people we meet  
+C,G/B,Am,F              Good friends we have, Oh, good friends we have lost  
+C,G/B,Am,F              along the way  
+C,G/B,Am,F              In this great future, you can't forget your past  
+C,G/B,Am,F              So dry your tears, I seh  
+  
+C,G/B,Am,F              No woman no cry.  
+  
+C,F,C,G         No woman no cry  
+C,G/B,Am,F              Little darlin', don't shed no tears  
+C,F,C,G         No woman no cry  
+C,G/B,Am,F              Said I remember when we used to sit  
+C,G/B,Am,F              in the governmentyard in Trenchtown  
+C,G/B,Am,F              And then Georgie would make the fire lights  
+C,G/B,Am,F              I seh, log would burning' thru the nights  
+C,G/B,Am,F              Then we would cook cornmeal porridge  
+C,G/B,Am,F              of wich I'll share with you  
+C,G/B,Am,F              My feet is my only carriage  
+C,G/B,Am,F              and so I've got to push on thru, Oh, while I'm gone  
+  
+C,G/B                   Everything's gonna be alright  
+Am,F                    Everything's gonna be alright   (4x)  
+  
+C,G/B,Am,F              No woman, no cry.  
+C,F,C,G         No woman, no cry.  
+C,G/B                   I seh little darlin'  
+Am,F                    don't shed no tears  
+C,F,C,G         No woman no cry         (2x)<!--n:Marley Bob/No Woman No Cry:s:2682:e:2901-->
+<!----><!--2020-09-05 02:38:12-->
+----------------|----------------|--------------------|------------|  
+----------------|----------------|--------------------|------------|  
+----------------|----------------|--------------------|------------|  
+----------------|------2---O-----|--------------O-----|------------|  
+------O---2-----|--3-----------2-|------O---2-------2-|--3---O-----|  
+--3-----------3-|----------------|--3-----------------|----------3-|  
+  
+----------------|----------------|----------------|------------|  
+----------------|----------------|----------------|------------|  
+----------------|----------------|----------------|------------|  
+----------------|------2---O-----|--------------O-|------------|  
+------O---2-----|--3-----------2-|------O---2-----|--3---O-----|  
+--3-----------3-|----------------|--3-------------|----------3-|  
+  
+    G                      Em7  
+Old Pirates, yes, they rob I.  
+    C         G/B             Am  
+Sold I to the merchant ships  
+G                      Em  C         G/B       Am  
+minutes after they took I   from the bottomless pit.  
+    G            Em7  
+But my hand was made strong  
+C           G/B          Am  
+By the hand of the Almighty.  
+     G                  Em   C          D  
+We forward in this generation triumphantly.  
+  
+Chorus  
+    G  C    D          G  
+   Won't you help to sing    these songs of freedom?  
+    C     D       Em  C   D      G  
+   'Cause all I ever had,    redemption songs,  
+  C   D      G        C  
+   redemption songs.  
+D     G                           Em7  
+Emancipate yourselves from mental slavery,  
+    C           G/B             Am  
+None but ourselves can free our minds.  
+    G                    Em  
+Have no fear for atomic energy,  
+    C         G/B            Am  
+'Cause none of them can stop the time.  
+    G                        Em7  
+How long shall they kill our prophets  
+    C       G/B            Am  
+While we stand aside and look?  
+    G            Em  
+Yes, some say it's just a part of it.  
+      C                 D  
+We've got to fulfill the book.  
+  
+Chorus  
+  
+Emancipate yourselves from mental slavery,  
+None but ourselves can free our minds.  
+Have no fear for atomic energy,  
+'Cause none of them can stop the time.  
+How long shall they kill our prophets  
+While we stand aside and look?  
+Yes, some say it's just a part of it.  
+We've got to fulfill the book.  
+Won't you help to sing these songs of freedom?  
+'Cause all I ever had, redemption songs,  
+These songs of freedom, songs of freedom.<!--n:Marley Bob/Redemption Song:s:5633:e:3775-->
+<!----><!--2020-09-05 02:39:06-->
+I shot the sheriff  
+  
+[Gm]I shot the sheriff,  
+[Cm]but I did not shoot the [Gm]deputy.  
+[Gm]I shot the sheriff,  
+[Cm]but I did not shoot the [Gm]deputy.  
+[Eb]All a[Dm]round in my [Gm]home town  
+they're [Eb]trying to [Dm]track me [Gm]down.  
+They [Eb]say they want to [Dm]bring me in [Gm]guilty  
+for the [Eb]killing of a [Dm]deputy,[Gm]  
+for the [Eb]killing of a [Dm7]deputy. [Gm]  
+But I say: [Gm]  
+  
+I shot the sheriff,  
+but I swear it was in selfdefence.  
+I shot the sheriff,  
+but I swear it was in selfdefence.  
+Sheriff John Brown always hated me  
+for what I don't know.  
+Ev'ry time that I plant a seed  
+he said "Kill it before it grow,"  
+he said "Kill it before it grow."  
+But I say:  
+  
+I shot the sheriff,  
+but I swear it was in selfdefence.  
+I shot the sheriff,  
+but I swear it was in selfdefence.  
+Freedom came my way one day  
+and I started out of town.  
+All of a sudden I see sheriff John Brown,  
+aiming to shoot me down.  
+So I shot, I shot him down.  
+But I say:  
+  
+I shot the sheriff,  
+but I did not shoot the deputy.  
+I shot the sheriff,  
+but I did not shoot the deputy.  
+Reflexes got the better of me  
+and what is to be must be.  
+Ev'ry day the bucket goes to the well,  
+but one day the bottom will drop out,  
+yes one day the bottom will drop out.<!--n:Marley Bob/I Shot The Sheriff:s:9458:e:1730-->
+<!----><!--2020-09-05 02:39:42-->
+[Eb]Could you be l[Cm]oved[Cm]  
+    [Ab]and be l[Eb]oved?[Eb]  
+    [Eb]Could you be l[Cm]oved[Cm]  
+    [Ab]and be l[Eb]oved?[Cm]  
+  
+    Don'[Cm]t let them fool you[Cm][Fm][Fm]  
+    or [Cm]even try to [Cm]school you[Cm],[Fm][Fm]  
+    Oh, no![Fm][Fm][Cm][Cm]  
+    We've [Cm]got a mind of our [Cm]own  
+    So [Ab]go to hell if [Cm]what you're thinking is not [Fm]right[Fm]  
+    [Cm]Love would [Cm]never leave us a[Cm]lone.  
+    In the [Ab]darkness there [Gm]must come out the [Bb]light.[Bb]  
+  
+    Could you be loved  
+    and be loved?  
+    Could you be loved  
+    and be loved?  
+  
+    The [Cm]road of life is [Cm]rocky  
+    and [Cm]you may stumble [Cm]too.  
+    So [Cm]while you point your [Cm]fingers  
+    someone [Cm]else is judging [Cm]you.  
+  
+    [Cm]Could you be, could you be, [Cm]could you be loved?  
+    [Cm]Could you be, could you be [Cm]loved?  
+    [Cm]Could you be, could you be, [Cm]could you be loved?  
+    [Cm]Could you be, could you be [Cm]loved?  
+  
+    Don't let them change you,  
+    or even rearrange you.  
+    Oh, no!  
+    We've got a life to live  
+    They say only, only,  
+    only the fittest of the fittest shal survive,  
+    stay alive.  
+  
+    Could you be loved  
+    and be loved?  
+    Could you be loved  
+    and be loved?  
+  
+    You ain't gonna miss your water  
+    until you well runs dry.  
+    No matter how you treat him,  
+    the man will never be satisfied.  
+  
+    Could you be, could you be, could you be loved?  
+    Could you be, could you be loved?  
+    Say something...<!--n:Marley Bob/Could You Be Loved:s:11241:e:2259-->
+<!----><!--2020-09-05 02:38:48-->
+Hm       Em  
+We?re jamming  
+G          F#  
+ I wanna jam it with you,  
+    Hm       Em  
+We?re jamming, jamming  
+G                   F#  
+ And I hope you like jamming too  
+  
+Ain?t no rules, ain?t no vow, we can do it anyhow  
+I and I will see you through,  
+Вывод сообщений и переключение режима отображения команд на экране.  
+  
+  ECHO [ON | OFF]  
+  ECHO [сообщение]  
+  
+Введите ECHO без параметра для определения текущего значения этой команды.  
+Jamming till the jam is through.  
+  
+We?re jamming  
+To think that jamming was a thing of the past,  
+We?re jamming, jamming  
+And I hope this jam is gonna last  
+  
+No bullet can stop us now, we neither beg nor will we bow  
+Neither can be bought or sold.  
+We all defend the right, JAH JAH children must unite  
+Your life is worth much more than gold.  
+  
+We?re jamming, jamming  
+We?re jamming in the name of the Lord  
+We?re jamming, jamming  
+We?re jamming right straight from JAH  
+  
+Holy mount Zion  
+Holy mount Zion  
+JAH sitteth in Mount Zion  
+And rules all Creation  
+  
+Yeah, we?re jamming, jamming  
+I wanna jam it with you  
+We?re jamming, jamming  
+I?m jammed, I hope you?re jamming too  
+  
+Jam?s about my pride and truth I cannot hide  
+Too Keep you satisfied.  
+True love that now exist is the love I can?t resist  
+So jam by my side.<!--n:Marley Bob/Jamming:s:13554:e:1934-->
+<!----><!--2020-09-05 02:38:57-->
+***F#m  F#m  D  A***  
+***F#m  F#m  D***   
+  
+  ***A C#m    F#m***  
+I wanna love you  
+  ***D           A***  
+and treat you right.  
+  ***C#m    F#m     F#m***  
+I wanna love you  
+  ***D           A***  
+every day and every night.  
+  ***C#m       F#m   F#m***  
+We'll be together  
+  ***D              A***  
+with a roof right over our heads.  
+  ***C#m      F#m    F#m***  
+We'll share the shelter  
+  ***D          A***  
+of my single bed.  
+  ***C#m     F#m      F#m***  
+We'll share the same room,  
+  ***D             A***  
+Jah provide the bread.  
+  
+  ***C#m                   C#m***  
+Is this love, is this love, is this love,  
+  ***Bm      Bm***  
+is this love that I'm feeling?  
+  ***C#m     C#m***  
+Is this love, is this love, is this love,  
+  ***Bm     Bm***  
+is this love that I'm feeling?  
+  
+  ***Bm C#m D  E***  
+  ***Dmaj7     Dmaj7   Bm C#m D  E***  
+I wanna know, wanna know, wanna know now.  
+  ***C#m        C#m***  
+I've got to know, got to know, got to know now.  
+  ***C#m  C#m            Bm   Bm***  
+I...  I'm willing and able,  
+  ***C#m      C#m    E     D***  
+so I throw my cards on your table.  
+  
+  ***C# Bm     F#m***  
+I wanna love you  
+  ***D        A        C#m      F#m***  
+I wanna love and treat, love and treat you right.  
+  ***F#m***  
+I wanna love you  
+  ***D           A***  
+every day and every night.  
+  ***C#m       F#m   F#m***  
+We'll be together  
+  ***D                A***  
+with a roof right over our heads.  
+  ***C#m      F#m    F#m***  
+We'll share the shelter  
+  ***D          A***  
+of my single bed.  
+  ***C#m      F#m      F#m***  
+We'll share the same room,  
+  ***D              A***  
+Jah provide the bread.  
+  
+  ***A       C#m      F#m    F#m***  
+We'll share the shelter  
+  ***D***  
+of my single bed.<!--n:Marley Bob/Is This Love:s:15531:e:2885-->
+<!----><!--2020-09-05 02:38:21-->
+G             C               G               G  
+|-------------|---------------|----------------|---------------|  
+|-------------|---------------|----------------|---------------|  
+|-------------|---------------|----------------|---------------|  
+|-------------|-----0h2-0-----|-----------0----|---------------|  
+|-----0h2-----|-0h3--------2--|-----0-0h2----2-|-2h3-2-0-------|  
+|-3-------3---|---------------|-3--------------|----------3----|  
+  
+   G              C              G               G  
+|--------------|---------------|---------------|-------------||  
+|--------------|---------------|---------------|-------------||  
+|--------------|---------------|-----------0---|-------------||  
+|--------------|-----0h2-0-----|-----------0---|-------------||  
+|-----0-0h2----|-0h3--------2--|-----0-0h2-----|-3-2-0-------||  
+|-3---------3--|---------------|-3-------------|--------3----||  
+  
+  
+ Куплет 1  
+  G                 Em                C     Csus2   Am  
+|-----------------|-----------------|-------------|---------------|  
+|----3-3-(3)-3-3--|-0----0-(0)-0-0--|-1--1--1--1--|-1--1-1--1-1p0-|  
+|----0-0-(0)-0-0--|-0--x-0-(0)-0-0--|-0--0--0--0--|-2--2-2--2-2p0-|  
+|----0-0-(0)-0-0--|-2--x-2-(2)-2-2--|-2--2--0--0--|-2--2-2--2-2p0-|  
+|----2-2-(2)-2-2--|-2----2-(2)-2-2--|-3--3--2--2--|-0--0-0--0-0---|  
+|-3--3-3-(3)-3-3--|-0----0-(0)-0-0--|-------------|---------------|  
+  
+  
+  G                 Em                C     Csus2   Am  
+|-----------------|-----------------|-------------|-----------------|  
+|----3-3-(3)-3-3--|-0----0-(0)-0-0--|-1--1--1--1--|-1--1-1-(1)-1-1--|  
+|----0-0-(0)-0-0--|-0--x-0-(0)-0-0--|-0--0--0--0--|-2--2-2-(2)-2-2--|  
+|----0-0-(0)-0-0--|-2--x-2-(2)-2-2--|-2--2--0--0--|-2--2-2-(2)-2-2--|  
+|----2-2-(2)-2-2--|-2----2-(2)-2-2--|-3--3--2--2--|-0--0-0-(0)-0-0--|  
+|-3--3-3-(3)-3-3--|-0----0-(0)-0-0--|-------------|-----------------|  
+  
+  
+  G                Em                  C     Csus2   Am  
+|----------------|-------------------|-------------|-----------------|  
+|----3-3-3-3-3-3-|-0-0-0-0-(0)-0-0-0-|-1--1--1--1--|-1--1-1-(1)-1-1--|  
+|----0-0-0-0-0-0-|-0-0-0-0-(0)-0-0-0-|-0--0--0--0--|-2--2-2-(2)-2-2--|  
+|----0-0-0-0-0-0-|-2-2-2-2-(2)-2-2-2-|-2--2--0--0--|-2--2-2-(2)-2-2--|  
+|----2-2-2-2-2-2-|-2-2-2-2-(2)-2-2-2-|-3--3--2--2--|-0--0-0-(0)-0-0--|  
+|-3--3-3-3-3-3-3-|-0-0-0-0-(0)-0-0-0-|-------------|-----------------|  
+  
+  
+  G               Em                C                   D5  
+|---------------|-----------------|-------------------|-------------------||  
+|----3-3-3-3-3--|-0----0-(0)-0-0--|-1-1-1-1-(1)-1-1---|-3-3-3-3-(3)-3-3-3-||  
+|----0-0-0-0-0--|-0--0-0-(0)-0-0--|-0-0-0-0-(0)-0-0-x-|-2-2-2-2-(2)-2-2-2-||  
+|----0-0-0-0-0--|-2--2-2-(2)-2-2--|-2-2-2-2-(2)-2-2-x-|-0-0-0-0-(0)-0-0-0-||  
+|----2-2-2-2-2--|-2----2-(2)-2-2--|-3-3-3-3-(3)-3-3---|-0-0-0-0-(0)-0-0-0-||  
+|-3--3-3-3-3-3--|-0----0-(0)-0-0--|-------------------|-------------------||  
+  
+  
+ Припев  
+    G                   C                 G  
+|----------------|-------------------|-----------------|-------------------|  
+|-3-3-3-3-3-3----|-------0-(0)-0-----|-1-1-1---3-3-3---|-------0-(0)-0-----|  
+|-2-2-2-2-2-2----|-0-0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|---0---0-(0)-0---0-|  
+|-0-0-0-0-0-0-0--|-0-0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|---0---0-(0)-0---0-|  
+|-0-0-0-0-0-0-0--|-----x-------------|-3-3-3---0-0-0---|-----x-------------|  
+|----------------|-3-------------3---|-----------------|-3-------------3---|  
+  
+  
+  C       D5        Em                C                 G  
+|-----------------|-----------------|-----------------|-------------------|  
+|-1-1-1---3-3-3---|-0-0---0---0-0---|-1-1-1---3-3-3---|-------0-(0)-0-----|  
+|-0-0-0-x-2-2-2-x-|-0-0---0---0-0-0-|-0-0-0-x-2-2-2-x-|---0---0-(0)-0---0-|  
+|-2-2-2-x-0-0-0-x-|-2-2---2---2-2---|-2-2-2-x-0-0-0-x-|---0---0-(0)-0---0-|  
+|-3-3-3---0-0-0---|-2-2---2---2-2---|-3-3-3---0-0-0---|-----x-------------|  
+|-----------------|-0-0-0-0-0-0-0---|-----------------|-3-------------3---|  
+  
+  
+    2 и 3 куплеты  
+    $  
+  C       D5        G                   C       D5         G  
+|-----------------|-------------------|-----------------||-----------------|  
+|-1-1-1---3-3-3---|-------0-(0)-0-----|-1-1-1---3-3-3---||----3-3-(3)-3-3--|  
+|-0-0-0-x-2-2-2-x-|---0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-||----0-0-(0)-0-0--|  
+|-2-2-2-x-0-0-0-x-|---0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-||----0-0-(0)-0-0--|  
+|-3-3-3---0-0-0---|-----x-------------|-3-3-3---0-0-0---||----2-2-(2)-2-2--|  
+|-----------------|-3-------------3---|-----------------||-3--3-3-(3)-3-3--|  
+  
+  
+  Em                C     Csus2   Am              G  
+|-----------------|-------------|---------------|-----------------|  
+|-0----0-(0)-0-0--|-1--1--1--1--|-1--1-1--1-1p0-|----3-3-(3)-3-3--|  
+|-0--x-0-(0)-0-0--|-0--0--0--0--|-2--2-2--2-2p0-|----0-0-(0)-0-0--|  
+|-2--x-2-(2)-2-2--|-2--2--0--0--|-2--2-2--2-2p0-|----0-0-(0)-0-0--|  
+|-2----2-(2)-2-2--|-3--3--2--2--|-0--0-0--0-0---|----2-2-(2)-2-2--|  
+|-0----0-(0)-0-0--|-------------|---------------|-3--3-3-(3)-3-3--|  
+  
+  
+  Em                C     Csus2   D5                G  
+|-----------------|-------------|-----------------|----------------|  
+|-0----0-(0)-0-0--|-1--1--1--1--|-3-3-3-3-3-3-3---|----3-3-3-3-3-3-|  
+|-0--x-0-(0)-0-0--|-0--0--0--0--|-2-2-2-2-2-2-2-0-|----0-0-0-0-0-0-|  
+|-2--x-2-(2)-2-2--|-2--2--0--0--|-0-0-0-0-0-0-0-0-|----0-0-0-0-0-0-|  
+|-2----2-(2)-2-2--|-3--3--2--2--|-0-0-0-0-0-0-0-0-|----2-2-2-2-2-2-|  
+|-0----0-(0)-0-0--|-------------|-----------------|-3--3-3-3-3-3-3-|  
+  
+  
+  Em                  C     Csus2   Am                G  
+|-------------------|-------------|-----------------|---------------|  
+|-0-0-0-0-(0)-0-0-0-|-1--1--1--1--|-1--1-1-(1)-1-1--|----3-3-3-3-3--|  
+|-0-0-0-0-(0)-0-0-0-|-0--0--0--0--|-2--2-2-(2)-2-2--|----0-0-0-0-0--|  
+|-2-2-2-2-(2)-2-2-2-|-2--2--0--0--|-2--2-2-(2)-2-2--|----0-0-0-0-0--|  
+|-2-2-2-2-(2)-2-2-2-|-3--3--2--2--|-0--0-0-(0)-0-0--|----2-2-2-2-2--|  
+|-0-0-0-0-(0)-0-0-0-|-------------|-----------------|-3--3-3-3-3-3--|  
+  
+  
+    Припев  
+    To Coda(вернуться к $)  
+  Em                C       G/B       D5  
+|-----------------|-----------------|-------------------||----------------|  
+|-0----0-(0)-0-0--|-1-1-1-1-3-3-3---|-3-3-3-3-(3)-3-3-3-||-3-3-3-3-3-3----|  
+|-0--0-0-(0)-0-0--|-0-0-0-0-0-0-0-x-|-2-2-2-2-(2)-2-2-2-||-2-2-2-2-2-2----|  
+|-2--2-2-(2)-2-2--|-2-2-2-2-0-0-0-x-|-0-0-0-0-(0)-0-0-0-||-0-0-0-0-0-0-0--|  
+|-2----2-(2)-2-2--|-3-3-3-3-2-2-2---|-0-0-0-0-(0)-0-0-0-||-0-0-0-0-0-0-0--|  
+|-0----0-(0)-0-0--|-----------------|-------------------||----------------|  
+  
+  
+  G                   C                 G                   C  
+|-------------------|-----------------|-------------------|-----------------|  
+|-------0-(0)-0-----|-1-1-1---3-3-3---|-------0-(0)-0-----|-1-1-1---3-3-3---|  
+|-0-0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|---0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|  
+|-0-0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|---0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|  
+|-----x-------------|-3-3-3---0-0-0---|-----x-------------|-3-3-3---0-0-0---|  
+|-3-------------3---|-----------------|-3-------------3---|-----------------|  
+  
+  
+  Em                C                 G                   C  
+|-----------------|-----------------|-------------------|-----------------|  
+|-0-0---0---0-0---|-1-1-1---3-3-3---|-------0-(0)-0-----|-1-1-1---3-3-3---|  
+|-0-0---0---0-0-0-|-0-0-0-x-2-2-2-x-|---0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|  
+|-2-2---2---2-2---|-2-2-2-x-0-0-0-x-|---0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|  
+|-2-2---2---2-2---|-3-3-3---0-0-0---|-----x-------------|-3-3-3---0-0-0---|  
+|-0-0-0-0-0-0-0---|-----------------|-3-------------3---|-----------------|  
+  
+  
+  G                   C                 G                   C       D5  
+|-------------------|-----------------|-------------------|-----------------||  
+|-0-----0-(0)-0-----|-1-1-1---3-3-3---|-------0-(0)-0-----|-1-1-0---3-3-3---||  
+|-0-0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|-0-0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-||  
+|-0-0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|-0-0---0-(0)-0---0-|-2-2-0-x-0-0-0-x-||  
+|-----x-------------|-3-3-3---0-0-0---|-----x-------------|-3-3-0---0-0-0---||  
+|-3-------------3---|-----------------|-3-------------3---|-----------------||  
+  
+  
+ Интерлюдия  
+  Em                C                 Em                C  
+|-----------------|-----------------|-----------------|-----------------|  
+|-0---------------|---1-1---3-3-3-0-|-0---------------|---1-1---3-3-3-0-|  
+|-0---------------|---0-0---2-2-2-0-|-0---------------|---0-0---2-2-2-0-|  
+|-2-2---2---2-2-2-|-x-2-2-x-0-0-0---|-2-2---2---2-2-2-|-x-2-2-x-0-0-0---|  
+|-2-2---2---2-2-2-|-x-3-3-x---------|-2-2---2---2-2-2-|-x-3-3-x---------|  
+|-0---0---0---0---|-----------------|-0---0---0---0---|-----------------|  
+  
+  
+    Заключительный припев  
+    D.S. al Coda  &  
+  C       D5         D5               G                   C  
+|-----------------||----------------|-------------------|-----------------|  
+|---1-1---3-3-3-0-||-3-3-3-3-3-3----|-------0-(0)-0-----|-1-1-1---3-3-3---|  
+|---0-0---2-2-2-0-||-2-2-2-2-2-2----|-0-0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|  
+|-x-2-2-x-0-0-0---||-0-0-0-0-0-0-0--|-0-0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|  
+|-x-3-3-x-0-0-0---||-0-0-0-0-0-0-0--|-----x-------------|-3-3-3---0-0-0---|  
+|-----------------||----------------|-3-------------3---|-----------------|  
+  
+  
+  G                   C                 Em                C       D5  
+|-------------------|-----------------|-----------------|-----------------|  
+|-------0-(0)-0-----|-1-1-1---3-3-3---|-0-0---0---0-0---|-1-1-1---3-3-3---|  
+|---0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|-0-0---0---0-0-0-|-0-0-0-x-2-2-2-x-|  
+|---0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|-2-2---2---2-2---|-2-2-2-x-0-0-0-x-|  
+|-----x-------------|-3-3-3---0-0-0---|-2-2---2---2-2---|-3-3-3---0-0-0---|  
+|-3-------------3---|-----------------|-0-0-0-0-0-0-0---|-----------------|  
+  
+  
+  Em                C                 G                   C       D5  
+|-----------------|-----------------|-------------------|-----------------|  
+|-0-0---0---0-0---|-1-1-1---3-3-3---|-0-----0-(0)-0-----|-1-1-1---3-3-3---|  
+|-0-0---0---0-0-0-|-0-0-0-x-2-2-2-x-|-0-0---0-(0)-0---0-|-0-0-0-x-2-2-2-x-|  
+|-2-2---2---2-2---|-2-2-2-x-0-0-0-x-|-0-0---0-(0)-0---0-|-2-2-2-x-0-0-0-x-|  
+|-2-2---2---2-2---|-3-3-3---0-0-0---|-----x-------------|-3-3-3---0-0-0---|  
+|-0-0-0-0-x-0-0---|-----------------|-3-------------3---|-----------------|  
+  
+  
+  G                   C                 Am  
+|-------------------|-----------------|-------0--------|-----------------|  
+|-0-----0-(0)-0-----|-1-1-1-1-1-1-1---|-1-1-1-1--1-1---|---1-----1---1---|  
+|-0-0---0-(0)-0---0-|-0-0-0-0-0-0-0-x-|-2-2-2-2--2-2-x-|---2-x-x-2-x-2-0-|  
+|-0-0---0-(0)-0---0-|-2-2-2-2-0-0-0-x-|-2-2-2-2--2-2-x-|---2-x-x-2-x-2-0-|  
+|-----x-------------|-3-3-3-3-2-2-2---|-0-0-0-0--0-0---|-0-0-x-x---------|  
+|-3-------------3---|-----------------|----------------|-----------------|  
+  
+  
+  Am6/B  
+|-----2-2-2-2-2-2-|-2-2-2-2-2----*|  
+|-1-1-1-1-1-1-1-1-|-1-1-1-1-1----*|  
+|-2-2-2-2-2-2-2-2-|-2-2-2-2-2----*|  
+|-x-x-x-x-x-x-x-x-|-x-x-x-x-x----*|  
+|-0-0-0-0-0-0-0-0-|-0-0-0-0-0----*|  
+|-----------------|--------------*|  
+  
+Текст песни  
+  
+Old pirates yes they rob I  
+Sold I to the merchant ships  
+Minutes after they took I  
+From the bottomless pit  
+But my hand was made strong  
+By the hand of the almighty  
+We forward in this generation  
+Triumphantly  
+All I ever had, is songs of freedom  
+Wonґt you help to sing, these songs of freedom  
+Cause all I ever had, redemption songs  
+Redemption songs  
+  
+Emancipate yourselves from mental slavery  
+None but ourselves can free our minds  
+Have no fear for atomic energy  
+Cause none of them can stop the time  
+How long shall they kill our prophets  
+While we stand aside and look  
+Some say itґs just a part of it  
+Weґve got to fullfill the book  
+  
+Wonґt you help to sing, these songs of freedom  
+Cause all I ever had, redemption songs  
+Redemption songs, redemption songs  
+  
+Emancipate yourselves from mental slavery  
+None but oursekves can free our minds  
+Have no fear for atomic energy  
+Cause none of them can stop the time  
+How long shall they kill our prophets  
+While we stand aside and look  
+Yes some say itґs just a part of it  
+Weґve got to fullfill the book  
+  
+Wonґt you help to sing, these songs of freedom  
+Cause all I ever had, redemption songs  
+All I ever had, redemption songs  
+These songs of freedom, songs of freedom<!--n:Marley Bob/Redemption Song (2 вариант):s:18464:e:15100-->
+<!----><!--2020-09-05 02:39:15-->
+E|-5-5--5-5--5-5--5-5--5-5--5-5--5-5--5-5--8-8--8-8-7-7-7-7-|  
+B|-5----5----5----5----5----5----5----5----10---10--8---8---|  
+G|-5----5----5----5----5----5----5----5----10---10--9---9---| 2x  
+D|----------------------------------------------------------|  
+A|----------------------------------------------------------|  
+E|----------------------------------------------------------|  
+  
+E|-5-5--5-5--5-5--5-5--5-5--5-5--5-5--5-5--|  
+B|-5----5----5----5----6----6----6----6----|  
+G|-5----5----5----5----7----7----7----7----| 2x  
+D|-----------------------------------------|  
+A|-----------------------------------------|  
+E|-----------------------------------------|  
+  
+unknow times  
+E|-5-5--5-5--5-5--5-5--5-5--5-5--5-5--5-5--8-8--8-8--7-7--7-7--|  
+B|-5----5----5----5----5----5----5----5----10---10---8----8----|  
+G|-5----5----5----5----5----5----5----5----10---10---9----9----|  
+D|-------------------------------------------------------------|  
+A|-------------------------------------------------------------|  
+E|-------------------------------------------------------------|  
+  
+E|-------------------|  
+B|-------------------|  
+G|-2-0---------------|  
+D|-----2-0---2-0-----|  
+A|---------3-----3-0-|  
+E|-------------------|  
+  
+unknow times  
+E|-5-5--5-5--5-5--5-5--5-5--5-5--5-5--5-5--8-8--8-8--7-7--7-7--|  
+B|-5----5----5----5----5----5----5----5----10---10---8----8----|  
+G|-5----5----5----5----5----5----5----5----10---10---9----9----|  
+D|-------------------------------------------------------------|  
+A|-------------------------------------------------------------|  
+E|-------------------------------------------------------------|  
+  
+E|-------------------|  
+B|-------------------|  
+G|-2-0---------------|  
+D|-----2-0---2-0-----|  
+A|---------3-----3-0-|  
+E|-------------------|  
+  
+unknow times  
+E|-5-5--5-5--5-5--5-5--5-5--5-5--5-5--5-5--8-8--8-8--7-7--7-7--|  
+B|-5----5----5----5----5----5----5----5----10---10---8----8----|  
+G|-5----5----5----5----5----5----5----5----10---10---9----9----|  
+D|-------------------------------------------------------------|  
+A|-------------------------------------------------------------|  
+E|-------------------------------------------------------------|  
+  
+E|-------------------|  
+B|-------------------|  
+G|-2-0---------------|  
+D|-----2-0---2-0-----|  
+A|---------3-----3-0-|  
+E|-------------------|  
+  
+unknow times  
+E|-5-5--5-5--5-5--5-5--5-5--5-5--5-5--5-5--8-8--8-8--7-7--7-7--|  
+B|-5----5----5----5----5----5----5----5----10---10---8----8----|  
+G|-5----5----5----5----5----5----5----5----10---10---9----9----|  
+D|-------------------------------------------------------------|  
+A|-------------------------------------------------------------|  
+E|-------------------------------------------------------------|  
+  
+E|-------------------|  
+B|-------------------|  
+G|-2-0---------------|  
+D|-----2-0---2-0-----|  
+A|---------3-----3-0-|  
+E|-------------------|  
+  
+unknow times  
+E|-5-5--5-5--5-5--5-5--5-5--5-5--5-5--5-5--8-8--8-8--7-7--7-7--|  
+B|-5----5----5----5----5----5----5----5----10---10---8----8----|  
+G|-5----5----5----5----5----5----5----5----10---10---9----9----|  
+D|-------------------------------------------------------------|  
+A|-------------------------------------------------------------|  
+E|-------------------------------------------------------------|<!--n:Marley Bob/I Shot The Sheriff (3 вариант):s:33635:e:3434-->
+<!----><!--2020-09-05 02:38:30-->
+Bb   F   Eb   F  F7  Bb  
+  
+    F  
+One Love, one heart.  
+Eb          Bb         F              Bb  
+Let's get together and feel all right.  
+  
+Hear the children crying.  (One love.)  
+    F  
+Hear the children crying.  (One heart.)  Sayin',  
+      Eb                       Bb              F             Bb  
+"Give thanks and praise to the Lord and I will feel all right."  
+    Eb            Bb       F             Bb  
+Sayin', "Let's get together and feel all right."  
+  
+Whoa, whoa, whoa, whoa.  
+    Gm            Eb       Bb  
+Let them all pass all their dirty remarks.  (One love.)  
+    Gm           Eb     F          Bb  
+There is one question I'd really love to ask.  (One heart.)  
+    Gm           Eb        Bb  
+Is there a place for the hopeless sinner  
+    Gm          Eb F           Bb  
+who has hurt all man-kind just to   save his own?  
+    F  
+Believe me.  One love, one heart.  
+Eb          Bb         F             Bb  
+Let's get together and feel all right.  
+  
+As it was in the beginning, (One love.)  
+    F  
+so shall it be in the end. (One heart.) Alright,  
+      Eb                       Bb              F             Bb  
+"Give thanks and praise to the Lord and I will feel all right."  
+    Eb          Bb         F             Bb  
+Sayin', "Let's get together and feel all right."  
+  
+One more thing.  
+    Gm        Eb                  Bb  
+Let's get together to fight this Holy Armageddon, (One love.)  
+    Gm              Eb      F          Bb  
+So when the Man comes there will be no, no doom.  (One song.)  
+    Gm               Eb      Bb  
+Have pity on those whose chances grow thinner.  
+    Gm             Eb     F      Bb  
+There ain't no hidding place from the Father of Creation. Sayin'  
+    F  
+One love, one heart.  
+Eb          Bb         F             Bb  
+Let's get together and feel all right.  
+  
+I'm pleading to man-kind.  (One love.)  
+    F  
+Oh, Lord.  (One heart.)  Whoa.  
+      Eb/Bb                    Bb              F              Bb  
+"Give thanks and praise to the Lord and I will feel all right."  
+Eb          Bb         F             Bb  
+Let's get together and feel all right.<!--n:Marley Bob/One Love:s:37142:e:3856-->
 <!----><!--2020-09-05 13:16:45-->
 Желтый снег  
   
@@ -36,7 +818,7 @@
   я воплотил  
   Оригинальную мысль свою!  
   
-  *Припев*<!--n:Саранча/Желтый снег:s:0:e:2129-->
+  *Припев*<!--n:Саранча/Желтый снег:s:41042:e:2129-->
 <!----><!--2020-09-06 09:34:00-->
 Латино  
   
@@ -84,7 +866,164 @@
   
   *Припев*  
   
-  *Аккорды лучше играть на баррэ*<!--n:Саранча/Латино:s:2186:e:2863-->
+  *Аккорды лучше играть на баррэ*<!--n:Саранча/Латино:s:43232:e:2863-->
+<!----><!--2020-09-06 06:16:09-->
+It's My Life  
+  
+  It's my life  
+  take it or leave it set me free  
+  What's that crap-papa-know-it-all? I got my own life  
+  Live your life and set me free mind your business  
+  And leave my business you know everything papa-know-it-all  
+  Very little knowledge is dangerous  
+  Stop bugging me stop bothering me  
+  Stop bugging me stop forcing me  
+  Stop fighting me stop yelling me  
+  It's my life.  
+  
+  It's my life  
+  it's my life my worries  
+  It's my life  
+  it's my life my problems  
+  It's my life  
+  it's my life my worries  
+  It's my life  
+  it's my life my problems.  
+  
+  It's my life  
+  do you understand?  
+  I live the way I want to live  
+  I make decisions day and night  
+  show me signs and good exemples.  
+  Stop telling people how to run your business  
+  Take a trip to east and west you find  
+  that you don't know anything  
+  Every's getting tired of you sometime  
+  you have to look and listen  
+  You can even lears from me little knowledge is dangerous  
+  It's my life.  
+  
+  It's my life...  
+  
+  It's my life set me free so you bed so you lie  
+  What you see is what you get listen to people and sort things out  
+  Things I do I do them no more things I say I say them no more  
+  Changes comes once in life  
+  Stop bugging me  
+  stop bothering me  
+  Stop bugging me  
+  stop forcing me  
+  Stop fighting me  
+  stop yelling me  
+  Stop telling me  
+  stop seeing me  
+  It's my life<!--n:Dr Alban/It's My Life:s:46147:e:2063-->
+<!----><!--2020-09-06 02:46:45-->
+Israelites  
+  
+  *(intro-spoken)*  
+  get up in the morning slaving for bread sah  
+  so that every mouth can be fed  
+  poor poor me-isrealite  
+  
+  ***Bb7***  
+  get up in the morning slaving for bread sah  
+  ***Bb7***  
+  so that every mouth can be fed  
+  ***Eb7  Fb7  Bb7          C#7***  
+  poor poor me-isrealite  
+  
+  wife and kids, dem pack up and a leave me  
+  darling she said i was yours to receive  
+  poor poor me-isrealite  
+  
+  shirt dem a tear up, trousers a go  
+  i don't want to end up like bonnie and clyde  
+  poor poor me-isrealite  
+  
+  after a storm there must be a calm  
+  catch me in your farm you sound an alarm  
+  poor poor me-isrealite  
+  
+  *(repeat from beginning and fade with*  
+  *poor poor me-isrealite)*<!--n:Desmond Dekker/Israelites:s:48256:e:1082-->
+<!----><!--2020-09-05 14:04:54-->
+007 (Shanty Town)  
+  
+intro:      ***G#  C#  D#***  
+  1|--8---9---11--  
+  2|--9---9---11--  
+  3|--8---10--12--  
+  
+    ***G#    C#  D#***  
+  oh oh seven  
+  oh oh seven  
+  at ocean eleven  
+  an' now rudeboys 'ave a wail  
+  'cause them out of jail  
+  rudeboys cannot fail  
+  'cause them must get bail  
+  
+  ***G#                                      C#     D#***  
+  dem a loot, dem a shoot, dem a wail (a shanty town)  
+  dem a loot, dem a shoot, dem a wail (a shanty town)  
+  an' rudeboys out on probation (a shanty town)  
+  an' rudeboy bomb up de town (a shanty town)  
+  
+      ***G#  C#  D#***  
+  1|--4---4---6-  
+  2|--4---6---8-  
+  3|--5---6---8-  
+  4|--6---6---8-  
+  5|--6---4---6-  
+  6|--4---------<!--n:Desmond Dekker/007 (Shanty Town):s:49388:e:1111-->
+<!----><!--2020-09-05 15:40:36-->
+Jamaica Ska  
+  
+  *(bass)*  
+  
+Riff 1:  |-----------------|----------------|  
+  *[|-----------------|----------------|] repeat*  
+  *[|-----------------|----------6--4--|] several times*  
+  |--0--0----0-4-5--|--7-----7-------|  
+  
+Riff 2:  |-----------------|----------------|-------------|--------------|  
+  *[|-----------------|----------------|-------------|--------------|] back to*  
+  *[|--7--7-5--5-5----|--4--4-3--3-3---|-------------|--7--4--------|] Riff 1*  
+  |-----------------|----------------|--7--7-7--7--|--------7--4--|<!--n:Desmond Dekker/Jamaica Ska:s:50556:e:635-->
+<!----><!--2020-09-07 04:38:48-->
+Skinhead Girl  
+  
+    ***A           D                    A          D***  
+  There she goes swinging down the high street yea  
+  Hair cut short. Boots on her feet, whoa yeah  
+    ***E***  
+  She looked at me and smiled  
+      ***F#m                 D***  
+  I knew that smiles for me  
+    ***A                   E***  
+  She was my height my weight my size  
+    ***D              A***  
+  She wore braces and blue jeans  
+    ***A            D***  
+  She was my Skinhead Girl  
+  She was my Skinhead Girl  
+  She was my Skinhead Girl  
+  She was my Skinhead Girl  
+  
+  I made up my mind  
+  I was gonna be courageous yea  
+  Put her hand in my hand and I touched her gently, whoa yeah  
+  
+  She looked at me and smiled  
+  I knew that smiles for me  
+  She was my height my weight my size  
+  She wore braces and blue jeans  
+  
+  She was my Skinhead Girl  
+  She was my Skinhead Girl  
+  She was my Skinhead Girl  
+  She was my Skinhead Girl<!--n:Bad Manners/Skinhead Girl:s:51241:e:1557-->
 <!----><!--2020-09-06 11:44:12-->
 Крестовый поход  
   
@@ -155,7 +1094,58 @@
   
   1|-10--9-8-8------------------------  
   
-  *А ПОТОМ ОПЯТЬ ПРИПЕВ!!!*<!--n:ПроРок/Крестовый поход:s:5100:e:3939-->
+  *А ПОТОМ ОПЯТЬ ПРИПЕВ!!!*<!--n:ПроРок/Крестовый поход:s:52848:e:3939-->
+<!----><!--2020-09-05 13:42:06-->
+Skinhead  
+  
+    ***C             F***  
+  When a skinhead walks down the street,  
+    ***C           F***  
+  Every chick heart skips a beat,  
+  When a skinhead walks down the street,  
+  Every chick heart skips a beat.  
+  
+  The cheapman said: you lookin good  
+  In your braces and bovver boots!  
+  The cheapman said: you lookin good  
+  In your braces and bovver boots!  
+  
+  Skinhead, Skinhead!<!--n:Laurel Aitken/Skinhead:s:56854:e:627-->
+<!----><!--2020-09-07 06:04:54-->
+Reggae & Ska  
+  
+    ***D               G***  
+  Come on, everybody, join our song,  
+    ***A                      D***  
+  We’re playing ska, come on and sing along.  
+    ***Hm                Em***  
+  Grab a Rude Girl, shuffle down,  
+    ***A                     A7***  
+  Ska is the sound that’s going down.  
+  
+    ***D           G***  
+  Sing Reggae, and Ska,  
+    ***A            D***  
+  Sing Reggae, and Ska,  
+    ***Hm           Em***  
+  Sing Reggae, and Ska,  
+    ***A                   A7***  
+  When the rhythm drums, it’ll take you far...  
+  
+  I danced to that the beat that’s really hot,  
+  Show the Rude Girl what you got.  
+  We’re gonna shuffle the night away,  
+  To the rhythm and ska, Jamaica way!  
+  
+  Sing Reggae, and Ska,  
+  Sing Reggae, and Ska,  
+  Sing Reggae, and Ska,  
+  When the rhythm drums, it’ll take you far...  
+  
+  From the early morning, ‘til late at night,  
+  You can shuffle to the rhythm, really tight.  
+  You can’t get away from the shuffle beat,  
+  Come on, everybody, and move your feet.<!--n:Judge Dread/Reggae Ska:s:57527:e:1717-->
 <!----><!--2020-09-07 10:07:45-->
 Буйство Амбиций  
   
@@ -166,7 +1156,7 @@
   ***G                              C     D***  
   Друзья свалили из квартиры и опять в желудке голод  
   И память стёрла все постыдные, вчерашние уродства  
-  Похмельным утром всё становится не так уж проста<!--n:Skaльпель/Буйство Амбиций:s:9105:e:807-->
+  Похмельным утром всё становится не так уж проста<!--n:Skaльпель/Буйство Амбиций:s:59291:e:807-->
 <!----><!--2020-09-04 19:09:24-->
 A Message to you, rudy  
   
@@ -179,7 +1169,7 @@ A Message to you, rudy
   ***D***  
   Эта песня  
   ***E***  
-  Моим друзьям<!--n:Skaльпель/A Message to you, rudy:s:9980:e:364-->
+  Моим друзьям<!--n:Skaльпель/A Message to you, rudy:s:60167:e:364-->
 <!----><!--2020-09-07 00:33:24-->
 Праздник  
   
@@ -201,7 +1191,7 @@ A Message to you, rudy
     ***D***  
   Ведь только мы знаем как устраивать праздник везде  
   
-  *Далее - аналогично*<!--n:Skaльпель/Праздник:s:10405:e:1255-->
+  *Далее - аналогично*<!--n:Skaльпель/Праздник:s:60593:e:1255-->
 <!----><!--2020-09-07 04:57:42-->
 Город  
   
@@ -220,12 +1210,12 @@ A Message to you, rudy
   найти свою смерть  
   
   ***D***  
-Припев:  Но мы любим этот город!<!--n:Skaльпель/Город:s:11717:e:613-->
+Припев:  Но мы любим этот город!<!--n:Skaльпель/Город:s:61905:e:613-->
 <!----><!--2020-09-06 08:38:12-->
 Друзья  
   
   *всю песню играются аккорды:*  
-  ***A G#/F# D E***<!--n:Skaльпель/Друзья:s:12380:e:150-->
+  ***A G#/F# D E***<!--n:Skaльпель/Друзья:s:62568:e:150-->
 <!----><!--2020-09-05 12:56:03-->
 Кинг Конг  
   
@@ -241,11 +1231,11 @@ A Message to you, rudy
   ***D              A***  
 Припев:  О детка, я почти кинг-конг       \  
     ***G                   A        } 2x***  
-  Да я так силён, тронь мой мускул /<!--n:Skaльпель/Кинг Конг:s:12582:e:1029-->
+  Да я так силён, тронь мой мускул /<!--n:Skaльпель/Кинг Конг:s:62770:e:1029-->
 <!----><!--2020-09-04 19:33:42-->
 Be prepared  
   
-Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:e:93-->
+Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:63857:e:93-->
 <!----><!--2020-09-06 10:49:54-->
 Мы одно  
   
@@ -269,7 +1259,7 @@ Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:
   Током в проводах и следа немыслимы вода  
   Обними меня руками пока мы не камень  
   
-  *Припев*<!--n:5'nizza/Мы одно:s:13812:e:1262-->
+  *Припев*<!--n:5'nizza/Мы одно:s:64000:e:1262-->
 <!----><!--2020-09-05 15:32:39-->
 Я с тобой  
   
@@ -377,7 +1367,7 @@ Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:
   не моя дорога ты с высоты в пустоту мой свет твой  
   день где ответ ветра уносит ночью  
   i`m in love with you in love with you  
-  так устал играть выбирать но я так ине успел тебе сказать<!--n:5'nizza/Я с тобой:s:15120:e:5465-->
+  так устал играть выбирать но я так ине успел тебе сказать<!--n:5'nizza/Я с тобой:s:65308:e:5465-->
 <!----><!--2020-09-07 02:49:09-->
 ОНО  
   
@@ -436,7 +1426,7 @@ Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:
   смой ой-ее-ей  
   
   Оно-о-ооо...  
-  Оно-о-ооо...<!--n:5'nizza/ОНО:s:20634:e:3476-->
+  Оно-о-ооо...<!--n:5'nizza/ОНО:s:70822:e:3476-->
 <!----><!--2020-09-06 08:34:09-->
 Солдат  
   
@@ -785,7 +1775,7 @@ Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:
   
   I'm soldier... } х15  
   
-  *Припев*<!--n:5'nizza/Солдат:s:24149:e:19013-->
+  *Припев*<!--n:5'nizza/Солдат:s:74337:e:19013-->
 <!----><!--2020-09-06 13:06:51-->
 Я не той  
   
@@ -850,7 +1840,7 @@ Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:
   Я не то-о-о-у-ой, я не той, я не то-у-о-у-ой  
   Я не той, Я не той, Яне той, Я не то-о-о-ой  
   
-  *Припев.*<!--n:5'nizza/Я не той:s:43208:e:3822-->
+  *Припев.*<!--n:5'nizza/Я не той:s:93396:e:3822-->
 <!----><!--2020-09-05 14:16:54-->
 Весна  
   
@@ -963,7 +1953,7 @@ Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:
   А-а-  
   ***C#***  
   Я же вернусь и снова наступит \  
-  Весна. А-а-а.                 /3 раза<!--n:5'nizza/Весна:s:47077:e:4549-->
+  Весна. А-а-а.                 /3 раза<!--n:5'nizza/Весна:s:97265:e:4549-->
 <!----><!--2020-09-07 06:49:27-->
 Ты кидал  
   
@@ -1019,7 +2009,7 @@ Chords:  ***G Em Am C D***<!--n:Skaльпель/Be prepared:s:13669:
   Гоп-стоп-оп  
   
   Ты кидал, ты-ки ты-ки-ты-ки-д  
-  Ты кидал, ты-ки-ты-ки-ты-ки да-да<!--n:5'nizza/Ты кидал:s:51669:e:3058-->
+  Ты кидал, ты-ки-ты-ки-ты-ки да-да<!--n:5'nizza/Ты кидал:s:101857:e:3058-->
 <!----><!--2020-09-05 02:58:27-->
 To Bob Marley (Jamming)  
   
@@ -1096,7 +2086,7 @@ To Bob Marley (Jamming)
   I,  
   Allright I hope your,  
   *&lt;&lt;&gt;&gt;*  
-  Say…<!--n:5'nizza/To Bob Marley (Jamming):s:54775:e:3932-->
+  Say…<!--n:5'nizza/To Bob Marley (Jamming):s:104964:e:3932-->
 <!----><!--2020-09-05 09:06:33-->
 Ты на ту  
   
@@ -1148,7 +2138,7 @@ To Bob Marley (Jamming)
   Я на эту one two а one two  
   Ты на ту выше быстрее больнее  
   Я на эту one two а one two  
-  A one two а one two } 3 раза<!--n:5'nizza/Ты на ту:s:58763:e:3443-->
+  A one two а one two } 3 раза<!--n:5'nizza/Ты на ту:s:108953:e:3443-->
 <!----><!--2020-09-06 15:44:39-->
 5nizza  
   
@@ -1261,7 +2251,7 @@ To Bob Marley (Jamming)
   Пят-ни-цa  
   Let me hear you say  
   5-N-I-Z-Z-A  
-  Ля-a-a-a.<!--n:5'nizza/5nizza:s:62253:e:5538-->
+  Ля-a-a-a.<!--n:5'nizza/5nizza:s:112444:e:5538-->
 <!----><!--2020-09-06 20:08:12-->
 Тук-тук  
   *(Сергей Бабкин)*  
@@ -1325,7 +2315,7 @@ To Bob Marley (Jamming)
   *А когда Серёга поёт типа припева (просто "ла-ла-ла") там так:*  
   ***Dm*** - ***A*** - ***D*** - ***A*** - ***#A*** - ***G*** - ***C*** - ***A***.*  
   
-  *Вообщем, если не совсем дереваянный ум, то, думаю разберетесь.*<!--n:5'nizza/Тук-тук:s:67830:e:3920-->
+  *Вообщем, если не совсем дереваянный ум, то, думаю разберетесь.*<!--n:5'nizza/Тук-тук:s:118022:e:3920-->
 <!----><!--2020-09-05 14:23:39-->
 Тянуться  
   
@@ -1392,7 +2382,7 @@ To Bob Marley (Jamming)
   ээй а-а-а say what say what а-а-а ээй  
   эй-э-э-э-ээй а-а-а ээй а-а-а say what say what а-а-а  
   ээй ля ля ля ля ля ля ля ля ля ля ля  
-  ля ля ля ля ля...<!--n:5'nizza/Тянуться:s:71796:e:5859-->
+  ля ля ля ля ля...<!--n:5'nizza/Тянуться:s:121989:e:5859-->
 <!----><!--2020-09-06 10:19:00-->
 Сюрная  
   
@@ -1522,7 +2512,7 @@ To Bob Marley (Jamming)
   Не видно, не видна  
   Не берега ни дна  
   Ни двери ни окна  
-  На на на на на<!--n:5'nizza/Сюрная:s:77704:e:6421-->
+  На на на на на<!--n:5'nizza/Сюрная:s:127898:e:6421-->
 <!----><!--2020-09-06 11:33:15-->
 Забери  
   
@@ -1588,7 +2578,7 @@ To Bob Marley (Jamming)
   
   Запусти себя в кратеры моей души.  
   Дыши, дыши, дыши,  
-  Я сам нажму все клапаны.<!--n:5'nizza/Забери:s:84170:e:2750-->
+  Я сам нажму все клапаны.<!--n:5'nizza/Забери:s:134365:e:2750-->
 <!----><!--2020-09-04 18:54:42-->
 Сон  
   
@@ -1670,7 +2660,7 @@ To Bob Marley (Jamming)
   Well  
   Well Well Well Well  
   Well Well Well Well  
-  Well Well Well Well<!--n:5'nizza/Сон:s:86965:e:3210-->
+  Well Well Well Well<!--n:5'nizza/Сон:s:137161:e:3210-->
 <!----><!--2020-09-06 03:45:06-->
 Москва Не Станет Лондоном  
   
@@ -1795,7 +2785,7 @@ To Bob Marley (Jamming)
   *Проигрыш*  
   *Куплет*  
   *Припев*  
-  *Проигрыш*<!--n:5'nizza/Москва Не Станет Лондоном:s:90214:e:4393-->
+  *Проигрыш*<!--n:5'nizza/Москва Не Станет Лондоном:s:140411:e:4393-->
 <!----><!--2020-09-06 23:08:12-->
 Это тебе  
   
@@ -1841,7 +2831,7 @@ To Bob Marley (Jamming)
   
   *Бой не сложный.*  
   *Для того чтоб играть правильным боем*  
-  *советую послушать песню...*<!--n:5'nizza/Это тебе:s:94687:e:2624-->
+  *советую послушать песню...*<!--n:5'nizza/Это тебе:s:144885:e:2624-->
 <!----><!--2020-09-06 07:46:18-->
 Ушедшим слишком рано  
   
@@ -1925,7 +2915,7 @@ Riff2:  [e|------------------|------------------|--
   *игpaeтcя ПEPEБOPOМ нa Riff1, дaлee cтaндapтный Riff2*  
   *кaк и в кyплeтax.*  
   *Бoльшe кaк мнe кaжeтcя oтклoнeний oт cтaндapтныx pиффoв нeтy.*  
-  *P.S. Пиcaл тaбы пo пaмяти нa paбoтe, гитapы пoд pyкoй нeт...*<!--n:5'nizza/Ушедшим слишком рано:s:97359:e:4814-->
+  *P.S. Пиcaл тaбы пo пaмяти нa paбoтe, гитapы пoд pyкoй нeт...*<!--n:5'nizza/Ушедшим слишком рано:s:147558:e:4814-->
 <!----><!--2020-09-06 13:14:48-->
 Вода  
   
@@ -2003,7 +2993,7 @@ Riff2:  [e|------------------|------------------|--
   Давали мы от воли отвалили  
   Отрыли и отравами травили  
   
-  *Припев*<!--n:5'nizza/Вода:s:102244:e:3538-->
+  *Припев*<!--n:5'nizza/Вода:s:152444:e:3538-->
 <!----><!--2020-09-05 11:53:03-->
 Я тебя вы...  
   
@@ -2060,7 +3050,7 @@ Riff2:  [e|------------------|------------------|--
   Некуда некуда некуда некуда больше бежать  
   Дам ножа, дам ножа!  
   
-  Я тебя выцеплю выцеплю выцепл%F<!--n:5'nizza/Я тебя вы:s:105824:e:2691-->
+  Я тебя выцеплю выцеплю выцепл%F<!--n:5'nizza/Я тебя вы:s:156024:e:2691-->
 <!----><!--2020-09-04 20:39:06-->
 Зимa  
   
@@ -2120,7 +3110,7 @@ Intro:  ***D Dm*** } 2paзa
    ***D               Dm***  
   Пo тy cтopoнy Зeмли  
   Oт зимы и дo зимы  
-  Oт зeмли и дo...<!--n:5'nizza/Зимa:s:108565:e:2335-->
+  Oт зeмли и дo...<!--n:5'nizza/Зимa:s:158765:e:2335-->
 <!----><!--2020-09-06 23:07:18-->
 Пятница  
   
@@ -2220,7 +3210,7 @@ Intro:  ***D Dm*** } 2paзa
   Малета тополя балета та та та. И в Москве и наверно в казино.  
   365 дней на измене в году, как в аду мы пъем воду из ста.  
   Прим прим прим прим в голову а мы, а мы кто мы?  
-  Пятница! Let me give you say 5 N I Z Z A } 4 раза<!--n:5'nizza/Пятница:s:110941:e:5964-->
+  Пятница! Let me give you say 5 N I Z Z A } 4 раза<!--n:5'nizza/Пятница:s:161141:e:5964-->
 <!----><!--2020-09-06 23:02:03-->
 Моя Ямайка  
   
@@ -2264,7 +3254,7 @@ Intro:  ***D Dm*** } 2paзa
   я смотрю назад на зад и он - черный  
   я дома, мама  
   
-  *Припев*<!--n:5'nizza/Моя Ямайка:s:116953:e:2685-->
+  *Припев*<!--n:5'nizza/Моя Ямайка:s:167153:e:2685-->
 <!----><!--2020-09-06 23:30:15-->
 Луна, успокой меня  
   
@@ -2318,7 +3308,7 @@ Intro:  ***D Dm*** } 2paзa
 ----  
   
   *- насколько помню ***Em7***-***Dm7***-***Cm7***-***Am7*** все на барре кроме ***Ам7***  
-  *- Большое спасибо! ТОлько по моему ***ам7*** все таки на барре(5 лад)*<!--n:5'nizza/Луна, успокой меня:s:119691:e:3247-->
+  *- Большое спасибо! ТОлько по моему ***ам7*** все таки на барре(5 лад)*<!--n:5'nizza/Луна, успокой меня:s:169891:e:3247-->
 <!----><!--2020-09-06 14:11:12-->
 Jamming  
   
@@ -2340,7 +3330,7 @@ Jamming
   jamming till the jam is through.  
   
   
-  *И так далее на четырёх акордах.*<!--n:5'nizza/Jamming:s:123005:e:1276-->
+  *И так далее на четырёх акордах.*<!--n:5'nizza/Jamming:s:173205:e:1276-->
 <!----><!--2020-09-07 10:49:27-->
 Немаэ куль  
   
@@ -2377,7 +3367,7 @@ Jamming
   *Припев*  
   
   *Комментарий автора подбора к песне:*  
-  *Можно играть произвольный перебор на указанных аккордах.*<!--n:5'nizza/Немаэ куль:s:124322:e:1918-->
+  *Можно играть произвольный перебор на указанных аккордах.*<!--n:5'nizza/Немаэ куль:s:174522:e:1918-->
 <!----><!--2020-09-06 14:40:27-->
 Ямайка  
   
@@ -2420,7 +3410,7 @@ Jamming
   я смотрю назад на зад и он - черный  
   я дома, мама  
   
-  *Припев*<!--n:5'nizza/Ямайка:s:126293:e:2604-->
+  *Припев*<!--n:5'nizza/Ямайка:s:176493:e:2604-->
 <!----><!--2020-09-07 09:50:57-->
 Солнце  
   
@@ -2504,7 +3494,7 @@ Jamming
   солнце, свети нам,  
   солнце, свети нам,  
   солнце, свети нам,  
-  солнце, свети сюда<!--n:5'nizza/Солнце:s:128943:e:3697-->
+  солнце, свети сюда<!--n:5'nizza/Солнце:s:179143:e:3697-->
 <!----><!--2020-09-06 02:52:00-->
 Винни Пух  
   
@@ -2528,7 +3518,7 @@ Jamming
   Подарят в день рождения горшок без меда  
   без меда  
   без меда  
-  без меда<!--n:5'nizza/Винни Пух:s:132686:e:1162-->
+  без меда<!--n:5'nizza/Винни Пух:s:182886:e:1162-->
 <!----><!--2020-09-06 05:44:12-->
 Отсюда  
   
@@ -2602,7 +3592,7 @@ Jamming
   Вырваться хотим  
   
   ЛАЛА  
-  ЛАЛАЛА ЛАЛАЛА<!--n:5'nizza/Отсюда:s:133899:e:2467-->
+  ЛАЛАЛА ЛАЛАЛА<!--n:5'nizza/Отсюда:s:184099:e:2467-->
 <!----><!--2020-09-06 23:58:36-->
 Big Badda-Boom  
   
@@ -2665,7 +3655,7 @@ Big Badda-Boom
   Миру нет а войне говорю говорю говорю да  
   Вот оно какое мое счастье  
   
-  *Припев*<!--n:5'nizza/Big Badda-Boom:s:136412:e:3395-->
+  *Припев*<!--n:5'nizza/Big Badda-Boom:s:186612:e:3395-->
 <!----><!--2020-09-06 19:13:18-->
 Морячок  
   
@@ -2774,7 +3764,7 @@ Big Badda-Boom
   У чёрного моря  
   Я буду моряком, baby baby, come come  
   У чёрного моря  
-  Морячок! Морячо-ок!<!--n:5'nizza/Морячок:s:139855:e:4957-->
+  Морячок! Морячо-ок!<!--n:5'nizza/Морячок:s:190055:e:4957-->
 <!----><!--2020-09-06 15:40:09-->
 Половина меня  
   
@@ -2830,7 +3820,7 @@ Big Badda-Boom
   ... свет или темно,  
   Свет или темно, свет или темно,  
   Свет или темно, свет или темно...  
-  Свет?<!--n:5'nizza/Половина меня:s:144860:e:3187-->
+  Свет?<!--n:5'nizza/Половина меня:s:195060:e:3187-->
 <!----><!--2020-09-06 14:26:12-->
 Вечно жить  
   
@@ -2887,7 +3877,7 @@ Intro:  ***Em F7 H7*** } x2
   И дверями в глубокой черной яме застряли и  
   Надолго кто-то мечтал о "Волге", но каждый про себя мечтал  
   
-  *Припев*<!--n:5'nizza/Вечно жить:s:148106:e:3361-->
+  *Припев*<!--n:5'nizza/Вечно жить:s:198306:e:3361-->
 <!----><!--2020-09-06 15:43:45-->
 No Women No Cry  
   
@@ -2954,7 +3944,7 @@ No Women No Cry
   ***C   G/B   Am   F   C   F   C***  
   ***G       [320003]          Am7     [x02010]***  
   ***C       [x32010]          F       [xx3211]***  
-  ***Am      [x02210]***<!--n:5'nizza/No Women No Cry:s:151520:e:5219-->
+  ***Am      [x02210]***<!--n:5'nizza/No Women No Cry:s:201720:e:5219-->
 <!----><!--2020-09-07 11:44:21-->
 Кома-мама  
   
@@ -3004,7 +3994,7 @@ No Women No Cry
   два абзаца в некрологе - слишком много год рожденья,  
   род занятий, дата, подпись год, когда сломала..  
   
-  ..кома пр..<!--n:5'nizza/Кома-мама:s:156788:e:2405-->
+  ..кома пр..<!--n:5'nizza/Кома-мама:s:206988:e:2405-->
 <!----><!--2020-09-07 06:18:24-->
 Смеллз лайк ганжа спирит  
   
@@ -3054,7 +4044,7 @@ No Women No Cry
   I found it hard, it was hard to find  
   Oh well, whatever, nevermind  
   Hello, hello, hello, how low?  
-  Hello-hello-hello-hello-hello-hello-hello-hello-hello-o-o<!--n:5'nizza/Смеллз лайк ганжа спирит:s:159244:e:2106-->
+  Hello-hello-hello-hello-hello-hello-hello-hello-hello-o-o<!--n:5'nizza/Смеллз лайк ганжа спирит:s:209444:e:2106-->
 <!----><!--2020-09-06 19:46:09-->
 Нету дома, нету флага  
   
@@ -3095,7 +4085,7 @@ No Women No Cry
   (Иди на!) все едино, мы рядом, и мир во мне  
   Потому я говорю: "Нет войне!" не-не-не...  
   
-  *Припев*<!--n:5'nizza/Нету дома, нету флага:s:161429:e:2161-->
+  *Припев*<!--n:5'nizza/Нету дома, нету флага:s:211629:e:2161-->
 <!----><!--2020-09-07 05:31:54-->
 Нева  
   
@@ -3165,7 +4155,7 @@ No Women No Cry
   течения, не ты, мы не давали обещания  
   не разводить мосты  
   
-  *Припев*<!--n:5'nizza/Нева:s:163662:e:3691-->
+  *Припев*<!--n:5'nizza/Нева:s:213862:e:3691-->
 <!----><!--2020-09-05 05:54:42-->
 Свобода  
   
@@ -3252,7 +4242,7 @@ No Women No Cry
   Свобода пока, свобода!  
   Да да да  
   
-  У-уа-уа-е уа-уа-е!<!--n:5'nizza/Свобода:s:167395:e:3700-->
+  У-уа-уа-е уа-уа-е!<!--n:5'nizza/Свобода:s:217595:e:3700-->
 <!----><!--2020-09-05 09:04:36-->
 Гимн CCCP!!!  
   
@@ -3283,7 +4273,7 @@ No Women No Cry
   
   *Пpипeв*  
   
-  *Пpoигpыш тoт жe*<!--n:5'nizza/Гимн CCCP:s:171143:e:1650-->
+  *Пpoигpыш тoт жe*<!--n:5'nizza/Гимн CCCP:s:221343:e:1650-->
 <!----><!--2020-09-06 14:57:51-->
 Стрела  
   
@@ -3365,7 +4355,7 @@ No Women No Cry
   
   *Пpoигpыш*  
   
-  Мoя cтpeлa...<!--n:5'nizza/Стрела:s:172840:e:4971-->
+  Мoя cтpeлa...<!--n:5'nizza/Стрела:s:223040:e:4971-->
 <!----><!--2020-09-06 06:05:48-->
 Крыша  
   
@@ -3382,7 +4372,7 @@ No Women No Cry
   То змея зимы кожу скинула             | ***F#m***  
   И на груди свернулась кольцом ледяным | ***Hm A***  
   Не удержит птицу в небе желтый дым    | ***Hm A***  
-  Тяжелеют крылья-аа Ждет меня земля    | ***G A Hm***<!--n:Рома ВПР/Крыша:s:177857:e:1092-->
+  Тяжелеют крылья-аа Ждет меня земля    | ***G A Hm***<!--n:Рома ВПР/Крыша:s:228057:e:1092-->
 <!----><!--2020-09-06 03:31:54-->
 Озвучиватель местности  
   
@@ -3520,7 +4510,7 @@ No Women No Cry
   Ворон облетает окрестности  
   Ты молчатель он смеятель  
   Я озвучиватель  
-  местности<!--n:Рома ВПР/Озвучиватель местности:s:179001:e:8301-->
+  местности<!--n:Рома ВПР/Озвучиватель местности:s:229201:e:8301-->
 <!----><!--2020-09-05 15:29:48-->
 Мазафака  
   
@@ -3588,7 +4578,7 @@ No Women No Cry
   Ходишь злой как собака  
   Это не фига не маза  
   Это мазафака  
-  Мазафака итс э сака<!--n:Рома ВПР/Мазафака:s:187387:e:3399-->
+  Мазафака итс э сака<!--n:Рома ВПР/Мазафака:s:237587:e:3399-->
 <!----><!--2020-09-05 15:44:21-->
 Молоко  
   
@@ -3643,7 +4633,7 @@ No Women No Cry
   Эй молочные братья  
   Эй молочные сестры  
   Провожаем лето зеленого цвета молоко  
-  Ну ganja honey flow<!--n:Рома ВПР/Молоко:s:190844:e:3213-->
+  Ну ganja honey flow<!--n:Рома ВПР/Молоко:s:241044:e:3213-->
 <!----><!--2020-09-07 05:16:09-->
 Африка  
   
@@ -3682,7 +4672,7 @@ No Women No Cry
   Усталой антилопе нету спасенья  
   Заранее гриф набирает высоту  
   
-  Рутс натти рутс<!--n:Рома ВПР/Африка:s:194111:e:2425-->
+  Рутс натти рутс<!--n:Рома ВПР/Африка:s:244311:e:2425-->
 <!----><!--2020-09-06 10:42:51-->
 Метеорологическая  
   
@@ -3769,7 +4759,7 @@ No Women No Cry
     ***C D     Em      G      Am       D***  
   Прогнозы точны как сны как сны как сны как сны  
   ***Em           G        Am D***  
-  Я скучаю скучаю скучаю<!--n:Рома ВПР/Метеорологическая:s:196590:e:6874-->
+  Я скучаю скучаю скучаю<!--n:Рома ВПР/Метеорологическая:s:246790:e:6874-->
 <!----><!--2020-09-06 11:07:18-->
 Валенки  
   
@@ -3818,7 +4808,7 @@ No Women No Cry
   
   Сегодня минус 27 по цельсию          | ***Hm A***  
   Я спешу к тебе на встречу в валенках  
-  В валенках } 4 раза<!--n:Рома ВПР/Валенки:s:203540:e:3727-->
+  В валенках } 4 раза<!--n:Рома ВПР/Валенки:s:253740:e:3727-->
 <!----><!--2020-09-05 03:02:57-->
 Я вырван летом (17 мгновений)  
   
@@ -3855,7 +4845,7 @@ No Women No Cry
   Знаешь, лето мной тошнит  
   Я снова вырван летом  
   
-  *Припев*<!--n:Рома ВПР/Я вырван летом (17 мгновений):s:207323:e:1593-->
+  *Припев*<!--n:Рома ВПР/Я вырван летом (17 мгновений):s:257523:e:1593-->
 <!----><!--2020-09-04 20:41:12-->
 Шаг за...  
   
@@ -3916,7 +4906,7 @@ No Women No Cry
   Шаг за....     Шаг за....    | ***F Am***  
   
   В мертвом городе  | ***Am***  
-  В мертвом трамвае<!--n:Рома ВПР/Шаг за...:s:209008:e:4741-->
+  В мертвом трамвае<!--n:Рома ВПР/Шаг за...:s:259208:e:4741-->
 <!----><!--2020-09-06 02:47:12-->
 До свиданья, Милый  
   
@@ -3965,7 +4955,7 @@ No Women No Cry
   В белом море черной рыбой  
   В черном море белой чайкой  
   В белом море черной рыбой  
-  До Свидания, милый<!--n:Рома ВПР/До свиданья, Милый:s:213805:e:2982-->
+  До Свидания, милый<!--n:Рома ВПР/До свиданья, Милый:s:264005:e:2982-->
 <!----><!--2020-09-04 22:23:12-->
 Севастополь - Небо - Море  
   
@@ -4031,7 +5021,7 @@ No Women No Cry
   Севастополь - небо - море      ***А Н***          /  
   Милая прости                   ***А F#m***       /  
   
-Кода:  ***D D-5 Hm F#m A***<!--n:Рома ВПР/Севастополь - Небо - Море:s:216862:e:4600-->
+Кода:  ***D D-5 Hm F#m A***<!--n:Рома ВПР/Севастополь - Небо - Море:s:267062:e:4600-->
 <!----><!--2020-09-06 08:54:06-->
 Крыша 2  
   
@@ -4050,7 +5040,7 @@ No Women No Cry
   Но где ты где ты где                 | ***G A***  
   Ты где-то с той стороны              | ***Hm***  
   ............ ты где-то с той стороны | ***G A Hm***  
-  ............                         | ***G A***<!--n:Рома ВПР/Крыша 2:s:221548:e:1690-->
+  ............                         | ***G A***<!--n:Рома ВПР/Крыша 2:s:271748:e:1690-->
 <!----><!--2020-09-05 12:22:54-->
 Крыша 3  
   
@@ -4071,7 +5061,7 @@ No Women No Cry
   И жаркое сердце бросая на снег             | ***F#m G***  
   Я видел, как снег растекается ржавой водой | ***A Em***  
   И небо как крыша и крошатся крылья как мел | ***G F#m Em***  
-  За сутулой спиной                          | ***Em***<!--n:Рома ВПР/Крыша 3:s:223292:e:1789-->
+  За сутулой спиной                          | ***Em***<!--n:Рома ВПР/Крыша 3:s:273492:e:1789-->
 <!----><!--2020-09-06 15:37:09-->
 Ромашки  
   
@@ -4138,7 +5128,7 @@ No Women No Cry
   Там где  
   Ромашки кругом одни ромашки  
   Журавлей прибалдевших косяк  
-  Ох уж эти ромашки!<!--n:Рома ВПР/Ромашки:s:225135:e:4176-->
+  Ох уж эти ромашки!<!--n:Рома ВПР/Ромашки:s:275335:e:4176-->
 <!----><!--2020-09-06 15:03:06-->
 Комсомольская  
   
@@ -4176,7 +5166,7 @@ No Women No Cry
   Сквозь дым увидевших огонь  
   Сквозь ночь узревших небо  
   
-  *Припев*<!--n:Рома ВПР/Комсомольская:s:229367:e:2421-->
+  *Припев*<!--n:Рома ВПР/Комсомольская:s:279567:e:2421-->
 <!----><!--2020-09-07 00:01:27-->
 Навязчивая песня прошлогодней весны  
   
@@ -4216,7 +5206,7 @@ No Women No Cry
   Я остался плохим но добрым  
   За стеклом в мутных разводах  
   
-  *Кода = вступление*<!--n:Рома ВПР/Навязчивая песня прошлогодней весны:s:231856:e:1909-->
+  *Кода = вступление*<!--n:Рома ВПР/Навязчивая песня прошлогодней весны:s:282056:e:1909-->
 <!----><!--2020-09-05 11:11:12-->
 Соль и Солнце  
   
@@ -4270,7 +5260,7 @@ No Women No Cry
   Рана радости в колыбели боли  
   Жало жалости сила соли  
   Рана радости (х)  
-  Сила соли<!--n:Рома ВПР/Соль и Солнце:s:233874:e:2987-->
+  Сила соли<!--n:Рома ВПР/Соль и Солнце:s:284074:e:2987-->
 <!----><!--2020-09-06 06:08:39-->
 Табак  
   
@@ -4341,7 +5331,7 @@ No Women No Cry
      ***Hm              C#              G     F#m***  
   Тобагго тобагго тобагго тобагго тобагго йее  
      ***Hm              A               G     F#m***  
-  Тобагго тобагго тобагго тобагго тобагго уу<!--n:Рома ВПР/Табак:s:236927:e:6217-->
+  Тобагго тобагго тобагго тобагго тобагго уу<!--n:Рома ВПР/Табак:s:287127:e:6217-->
 <!----><!--2020-09-04 17:59:30-->
 Квамманга  
   
@@ -4377,7 +5367,7 @@ No Women No Cry
   Ветер принес мне дождь  
   Дождь прорастил зерно  
   Ветер принес мне дождь  
-  И клювом пробил мне грудь<!--n:Рома ВПР/Квамманга:s:243196:e:1968-->
+  И клювом пробил мне грудь<!--n:Рома ВПР/Квамманга:s:293396:e:1968-->
 <!----><!--2020-09-05 11:40:09-->
 Гонишь  
   
@@ -4444,7 +5434,7 @@ No Women No Cry
   ***C#m            G#m***  
   Где-то там на самом краю земли  
   ***F#m H               C#m G#m F#m H***  
-  Иы гонишь гонишь гонишь<!--n:Рома ВПР/Гонишь:s:245224:e:4984-->
+  Иы гонишь гонишь гонишь<!--n:Рома ВПР/Гонишь:s:295424:e:4984-->
 <!----><!--2020-09-07 04:56:30-->
 Какого цвета  
   
@@ -4472,7 +5462,7 @@ No Women No Cry
   Джа где-то здесь Джа где-то рядом втыкай сестренка где-то рядом с нами  
   Жаркое солнце зеленая акация  
   Черное море позитивная вибрация  
-  Джа где-то здесь Джа где-то рядом<!--n:Рома ВПР/Какого цвета:s:250262:e:2480-->
+  Джа где-то здесь Джа где-то рядом<!--n:Рома ВПР/Какого цвета:s:300462:e:2480-->
 <!----><!--2020-09-06 20:30:24-->
 Раскумарило лето  
   
@@ -4569,7 +5559,7 @@ No Women No Cry
     ***D      C#      F#m***  
   Итак, мы есть а больше никого нету  
    ***D C# Em F#m      D A E***  
-  Никого нету...<!--n:Рома ВПР/Раскумарило лето:s:252807:e:5215-->
+  Никого нету...<!--n:Рома ВПР/Раскумарило лето:s:303007:e:5215-->
 <!----><!--2020-09-05 12:20:21-->
 Рой  
   
@@ -4638,7 +5628,141 @@ No Women No Cry
   Мы несемся к планетам  
   Словно к теплым подругам  
   Где снежинками бьемся  
-  В лица друг друга<!--n:Рома ВПР/Рой:s:258095:e:3207-->
+  В лица друг друга<!--n:Рома ВПР/Рой:s:308295:e:3207-->
+<!----><!--2020-09-06 05:32:30-->
+"Maverick A Strike"  
+  Your Love Gets Sweeter  
+  
+  ***G  [355433]***  
+  ***Ab [577555]***  
+  
+  ***G***  
+Verse:  You know you smile woman  
+  ***Ab***  
+  You treat me so darn darn fine  
+  ***G***  
+  You give me such an appetite  
+  ***Ab***  
+  And I need your lovin’ every night  
+  
+  ***G***  
+Chorus:  Your love gets sweeter every day  
+  ***Ab***  
+  Your love gets sweeter every day  
+  ***G***  
+  Your love gets sweeter every day  
+  ***Ab***  
+  Your love gets sweeter every day  
+  
+Lyrics:  Baby when you kiss my lips  
+  Make me wanna go head over heels for you  
+  When you whisper in my ear  
+  What I say is how I feel for you  
+  Your love gets sweeter every day } x4  
+  Since I was sweet sixteen  
+  I wanted you to make you my queen  
+  Then until the day you were  
+  You’re the lovin’ girl that’s takin’ my hand  
+  Your love gets sweeter every day } x4  
+  Now I’m glad I’m an older man  
+  See things are ridin’ to plan  
+  And baby if you promise me  
+  We can build our world together  
+  Your love gets sweeter every day } x4  
+  Walkin so sweetly when you walk  
+  When you talk when you dance for me girl  
+  Walkin so sweetly when you walk  
+  When you talk when you dance with me girl<!--n:Quaye Finley/Your Love Gets Sweeter:s:311550:e:1759-->
+<!----><!--2020-09-06 15:04:09-->
+"Maverick Strike"  
+  Sunday Shining  
+  *Written by Finley Quaye and Bob Marley 1997*  
+  
+  *The main riff:*  
+  *b=bend note*  
+  *\=slide down*  
+  [E--------------------------------------------------  
+  B--------------------------------------------------  
+    b                              b     b  
+  G12--9--\7--7-------------------12--9--12--9--9----  
+                    b          b  
+  D--------------9--12--9--9--12---------------------  
+  A--------------------------------------------------  
+  E--------------------------------------------------]  
+  
+  ***Em*** = [x79987]*  
+  ***Amaj7*** = [xx765x]*  
+  ***C*** = a barred ***C*** (I use the `e` shape)*  
+  ***Bb***= a barred ***Bb*** (I use the `e` shape)*  
+  
+  ***Em       Amaj7      Em             Amaj7   Em***  
+Verse:  Sun is shining the weather is sweet it yeh  
+    ***Amaj7      Em     Amaj7***  
+  Makes you makes you wanna move your dancing feet.  
+  ***Em      Amaj7  Am       Amaj7***  
+  To the rescue. Here I am.  
+  ***Em            Amaj7              Em    Amaj7***  
+  I want you to know y'all where i stand  
+  
+    ***C                Bb***  
+Chorus:  As the morning gathers a rainbow.  
+    ***C                      Em       Amaj7 Em Amaj7***  
+  I want you to know that I'm a rainbow with you.  
+  
+  ***Em        Amaj7 Em          Amaj7***  
+Verse:  Cause I'm hero. Like Robert DeNiro.  
+     ***Em       Amaj7       Em          Amaj7***  
+  I know I`m a rasta man. Got to keep I heights.  
+  ***Em              Amaj7     Em       Amaj7***  
+  Protection until time. The sun is shining.  
+  ***Em          Amaj7           Em      Amaj7***  
+  For you and there's nothing else to do.  
+  ***Em      Amaj7               Em               Amaj7***  
+  War is explosive. You got to demonstrate, demonstrate.  
+  ***Em                       Amaj7***  
+  You got to demonstrate, don't fight.  
+  ***Em                       Amaj7***  
+  Cause the sun is shining, for you.  
+  ***Em                  Amaj7***  
+  There's nothing else to do.  
+  
+    ***C                Bb***  
+Chorus:  As the morning gathers a rainbow.  
+    ***C                      Em       Amaj7 Em Amaj7***  
+  I want you to know that I'm a rainbow with you.  
+  
+  *Bridge*  
+  ***B       A  B           A***  
+  Woh yeah test the eye. Tes' the eye... Fear no evil.  
+  ***B                A   B                  A***  
+  Channel like a lion, channel like a lion  
+  
+  ***Em          Amaj7  Em         Amaj7***  
+Verse:  Some say - Yeah. Money in my... One on one.  
+  ***Em          Amaj7    Em               Amaj7***  
+  Money in my pocket. But I just can't get your love.  
+  ***Em       Amaj7   Em           Amaj7***  
+  Some say - Yeah. And the sun is shinig.  
+  ***Em          Amaj7      Em     Amaj7***  
+  Don't fight, and you got the soul.  
+  ***Em               Amaj7      Em   Amaj7***  
+  And you're choppingit up aero, for you...  
+  ***Em        Amaj7***  
+  There's nothing else to do.  
+  
+    ***C                Bb***  
+Chorus:  As the morning gathers a rainbow.  
+    ***C                      Em         Amaj7 Em Amaj7***  
+  I want you to know that I'm a rainbow with you.  
+    ***C                Bb***  
+  As the morning gathers a rainbow.  
+    ***C***  
+  I'm rougher than rough, rougher than rough.  
+    ***Em         Amaj7 Em Amaj7***  
+  Cause I'm a rainbow with you.  
+  
+  *I would be grateful for any corrections. Im not certain whether*  
+  *the chorus and bridge have the exact chords*<!--n:Quaye Finley/Sunday Shining:s:313370:e:5691-->
 <!----><!--2020-09-06 03:32:03-->
 Нoвый coлдaт  
   
@@ -4677,7 +5801,7 @@ No Women No Cry
   Чтo в cилax зacтaвить мeня пoвтopить  
   Пaдeниe ввepx и вниз  
   Пpocти мeня бpaт ecли я винoвaт  
-  Этo был мoй пocлeдний кaпpиз<!--n:Комитет Охраны Тепла/Нoвый coлдaт:s:261350:e:2319-->
+  Этo был мoй пocлeдний кaпpиз<!--n:Комитет Охраны Тепла/Нoвый coлдaт:s:319114:e:2319-->
 <!----><!--2020-09-05 21:45:24-->
 Кoлыбeльнaя  
   
@@ -4723,7 +5847,7 @@ No Women No Cry
   Кaк пpeкpaceн этoт миp  
   Нoчью здecь нe виднo дыp  
   Нoчью cпят apиcтoкpaты  
-  Тюpьмы, книги, aвтoмaты<!--n:Комитет Охраны Тепла/Кoлыбeльнaя:s:263753:e:2187-->
+  Тюpьмы, книги, aвтoмaты<!--n:Комитет Охраны Тепла/Кoлыбeльнaя:s:321517:e:2187-->
 <!----><!--2020-09-05 12:30:15-->
 Aфpикa  
   
@@ -4744,7 +5868,31 @@ Aфpикa
   Я нeплaнoвый cын aфpикaнcкиx тpaв  
   Я тaнцyю peгги нa гpязнoм cнeгy  
   Мoя тeнь нa твoeм бepeгy  
-  Мoя милaя Aфpикa<!--n:Комитет Охраны Тепла/Aфpикa:s:266024:e:1047-->
+  Мoя милaя Aфpикa<!--n:Комитет Охраны Тепла/Aфpикa:s:323788:e:1047-->
+<!----><!--2020-09-07 01:46:00-->
+Santeria  
+  
+  *(bass)*  
+  
+Verses:  [E----------------------------------------  
+  A---2-4------4-2------6-6-----------6----  
+  D-2----2-2-2----2-6-6---6-6-6h8-6--------  
+  G----------------------------------------  
+  
+  E----------------------------------  
+  A-4-4--4--6h4--4-2-2--2--4h2-------  
+  D-----6--6-----6-------4--4----4---  
+  G----------------------------------  
+  
+Chorus:  E-------------------------------------------------  
+  A-0-0-0--0-2-2-2--2-7-7-0-6-6-0-4-4-0-2-0---------  
+  D--------2---------4------------------------------  
+  G-------------------------------------------------  
+  
+Ending:  E------------------  
+  A-7-6-4-2-0-2/7----  
+  D------------------  
+  G------------------]<!--n:Sublime/Santeria:s:324909:e:823-->
 <!----><!--2020-09-06 22:31:18-->
 Dm  
 Афиши сорвали, заклеили плакаты,  
@@ -4798,7 +5946,7 @@ Dm
  Ча-ча-ча, ча-ча-ча, ча-ча-ча.  
   
  Мы любим танцы, танцы, танцы, танцы, танцы!  
- Ча-ча-ча, ча-ча-ча, ча-ча-ча.<!--n:Паперный ТАМ/Танцы:s:267145:e:2571-->
+ Ча-ча-ча, ча-ча-ча, ча-ча-ча.<!--n:Паперный ТАМ/Танцы:s:325773:e:2571-->
 <!----><!--2020-09-06 22:31:54-->
 Intro  
   
@@ -4850,7 +5998,7 @@ E|-3-----------------------3-----------------------|
 И сердце у меня как вымя  
 И я пою:  
   
-Припев:<!--n:Паперный ТАМ/Любимая:s:269776:e:2076-->
+Припев:<!--n:Паперный ТАМ/Любимая:s:328404:e:2076-->
 <!----><!--2020-09-06 22:31:45-->
 C#m        F#  
 Над рекою, на рассвете -  
@@ -4896,7 +6044,7 @@ E             G#
 Мы плывем на дачу миллионера,  
 Будем грабить богача.  
   
-Припев<!--n:Паперный ТАМ/От винта:s:271916:e:1654-->
+Припев<!--n:Паперный ТАМ/От винта:s:330544:e:1654-->
 <!----><!--2020-09-06 22:31:36-->
 D#m          Bb7  
 Море, море шумит за бортом.  
@@ -4936,7 +6084,7 @@ D#m
 Курит, курит матрос.  
   
 Пых-пых-пых,  
-Пых-пых-пых...<!--n:Паперный ТАМ/Пых-пых-пых:s:273635:e:1516-->
+Пых-пых-пых...<!--n:Паперный ТАМ/Пых-пых-пых:s:332263:e:1516-->
 <!----><!--2020-09-06 22:32:03-->
 e-------------6--|  
  B----------3-----|  
@@ -4983,7 +6131,7 @@ Cm* Cm Cm* Cm Gm
 Где ты, милый друг? Оборвалась нить.  
 Катится клубок - не остановить.  
 Оборвалась нить, катится луна  
-Белый таракан, белая стена.<!--n:Паперный ТАМ/Белый Таракан:s:275221:e:1673-->
+Белый таракан, белая стена.<!--n:Паперный ТАМ/Белый Таракан:s:333849:e:1673-->
 <!----><!--2020-09-06 22:31:27-->
 Fm  
   
@@ -5018,4 +6166,4 @@ Fm
 То это дым, то это снег.  
 С тобой навек, с тобой навек.  
 То это дым, то это снег.  
-С тобой навек, навек.<!--n:Паперный ТАМ/Скажи Легко:s:276969:e:1595-->
+С тобой навек, навек.<!--n:Паперный ТАМ/Скажи Легко:s:335597:e:1595-->

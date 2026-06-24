@@ -3385,6 +3385,91 @@ My mind a human stranges
 Крякнешь и скажешь: Да!  
 Губит людей не пиво,  
 Губит людей вода!<!--n:Из кф Не может быть/Губит людей не пиво:s:196377:e:1324-->
+<!----><!--2022-05-27 00:40:12-->
+*Performed by Stan Bush*  
+  
+My body's ready, my heart's on fire  
+I'm gonna push it over the wire  
+Perfect timing, tight as a drum  
+The final battle's already won  
+  
+I'm taking hold of every moment  
+Given strength by the breath of life  
+I'm gonna stake my claim  
+I fight to survive!  
+  
+Kumite, kumite...  
+  
+I've worked hard every night and day  
+So I'm prepared to make my way  
+Mind and body are the perfect team  
+Now's my chance to live my dream  
+  
+I'm taking hold of every moment  
+Given strength by the breath of life  
+I'm gonna stake my claim  
+I fight to survive!  
+  
+Kumite, kumite...<!--n:Bloodsport OST/Fight To Survive:s:197797:e:811-->
+<!----><!--2022-05-27 00:42:31-->
+*Performed by Stan Bush*  
+  
+He hurts to find he failed the test  
+Knowing that you gave your best  
+As your friend I'll never  
+Let you down  
+  
+I know you didn't mean to leave me  
+  
+On my own  
+Alone tonight  
+I'm gonna gather my strength  
+Gonna find the power  
+Then you know I'm gonna make it right  
+  
+On my own  
+Alone tonight  
+I'll find that inner light  
+I can be strong  
+Alone  
+On my own  
+  
+It's after dark you fear the most  
+To face alone your private ghosts  
+As your friend I'll never  
+Let you down  
+  
+I know you didn't mean to leave me  
+  
+On my own  
+Alone tonight  
+I'm gonna gather my strength  
+Gonna find the power  
+Then you know I'm gonna make it right  
+  
+On my own  
+Alone tonight  
+I'll find that inner light  
+I can be strong  
+Alone  
+On my own  
+  
+I can be strong  
+Alone  
+On my own  
+All alone  
+  
+Ooooh...  
+Ye-eah  
+  
+On my own  
+Oooh..  
+  
+On my own  
+Ohhh...  
+  
+I can be strong....<!--n:Bloodsport OST/On My Own Alone:s:198664:e:1212-->
+<!----><!--2025-12-21 22:04:02--><!--cover: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-->Тексты песен из фильма *Кровавый спорт / Bloodsport (1988)* с Жан-Клод Ван Даммом.<!--n:Bloodsport OST/about:s:199932:e:8697-->
 <!----><!--2023-07-21 23:29:11-->  
 Теперь и место есть, и время,  
 Былое вспомнить не спеша,  
@@ -3404,7 +3489,7 @@ My mind a human stranges
 Жизнь продолжается, сеньоры,  
 Еще осталось два часа!  
 Жизнь продолжается, сеньоры,  
-Еще осталось два часа!<!--n:Из кф Дон Сезар де Базан/Тюремная песня Сезара:s:197797:e:1033-->
+Еще осталось два часа!<!--n:Из кф Дон Сезар де Базан/Тюремная песня Сезара:s:208675:e:1033-->
 <!----><!--2020-09-06 20:20:21-->
 Конь да путник, али вам не туго?  
 Кабы впрямь в пути не околеть.  
@@ -3429,7 +3514,7 @@ My mind a human stranges
 И у Чёрта, и у Бога  
 На одном, видать, счету,  
 Ты, российская дорога -  
-Семь загибов на версту.<!--n:Из кф Гардемарины, вперед/Дорожная (Ты, Российская дорога):s:198940:e:1244-->
+Семь загибов на версту.<!--n:Из кф Гардемарины, вперед/Дорожная (Ты, Российская дорога):s:209818:e:1244-->
 <!----><!--2020-09-05 09:49:18-->
 Am                Dm  
 Позабыв про честь наследную,  
@@ -3456,7 +3541,7 @@ Am                Dm
 Ох не светлой, ох не сладкою  
 Жизнь явилась молодцу.  
 Что ж тут плакать, поделом, -  
-Не рождайся байстрюком.<!--n:Из кф Гардемарины, вперед/Песня байстрюка:s:200315:e:1435-->
+Не рождайся байстрюком.<!--n:Из кф Гардемарины, вперед/Песня байстрюка:s:211193:e:1435-->
 <!----><!--2020-09-05 01:34:00-->
   ***G          C***  
 Верный друг - вот седло,  
@@ -3507,10 +3592,10 @@ Am                Dm
 Верный друг - вот седло,  
 В путь, так вместе.  
 Верный друг - вот весло,  
-В путь, так в путь.<!--n:Из кф Гардемарины, вперед/Песня о дружбе:s:201852:e:2461-->
+В путь, так в путь.<!--n:Из кф Гардемарины, вперед/Песня о дружбе:s:212730:e:2461-->
 <!----><!--2020-09-06 07:48:51--><!--cover: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-->
 Советский исторический приключенческий фильм о российских гардемаринах *XVIII* века, 
-снятый по роману Нины Соротокиной "*Трое из Навигацкой школы*".<!--n:Из кф Гардемарины, вперед/about:s:204412:e:6138-->
+снятый по роману Нины Соротокиной "*Трое из Навигацкой школы*".<!--n:Из кф Гардемарины, вперед/about:s:215290:e:6138-->
 <!----><!--2020-09-06 07:53:03-->
 Бьют свинцовые ливни,  
 Нам пророчат беду,  
@@ -3530,7 +3615,7 @@ Am                Dm
 Если снова над миром грянет гром  
 Небо вспыхнет огнём  
 Вы нам только шепните  
-Мы на помощь придём<!--n:Из кф Неуловимые мстители (1966)/Бьют свинцовые ливни:s:210628:e:788-->
+Мы на помощь придём<!--n:Из кф Неуловимые мстители (1966)/Бьют свинцовые ливни:s:221506:e:788-->
 <!----><!--2025-11-13 23:17:16-->  
 Ов, Сирун, Сирун...(О, Любимая, Любимая)  
 Инчу Мотецар? (Зачем ты Подошла?)  
@@ -3548,7 +3633,7 @@ Am                Dm
 Энкер Кэдарнам, (Другом Стану)  
 Ес Ко Вштерин... (Я в твоей беде)  
 Менак Чем Тогни, (Одну Не Оставлю)  
-Им Сирац Ярин! (Мою Возлюбленную)<!--n:Из кф Мимино/Ов Сирун Сирун:s:211534:e:1130-->
+Им Сирац Ярин! (Мою Возлюбленную)<!--n:Из кф Мимино/Ов Сирун Сирун:s:222412:e:1130-->
 <!----><!--2025-11-13 23:05:04-->  
 *Вахтанг Кикабидзе* - Чито-грито  
   
@@ -3594,8 +3679,8 @@ Am                Dm
 Чито гврито чито маргалито да  
 Чито гврито чито маргалито да  
 Чито гврито чито маргалито да  
-Чито гврито чито маргалито да<!--n:Из кф Мимино/Чито гврито чито маргарито да:s:212739:e:2996-->
-<!----><!--2025-12-21 22:37:01--><!--cover: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-->Песни из популярного советского фильма "*Мимино*".<!--n:Из кф Мимино/about:s:215838:e:6720-->
+Чито гврито чито маргалито да<!--n:Из кф Мимино/Чито гврито чито маргарито да:s:223617:e:2996-->
+<!----><!--2025-12-21 22:37:01--><!--cover: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-->Песни из популярного советского фильма "*Мимино*".<!--n:Из кф Мимино/about:s:226716:e:6720-->
 <!----><!--2023-07-21 23:30:01-->  
 Чистить весело картошку  
 Одному на целый взвод,  
@@ -3625,7 +3710,328 @@ Am                Dm
 Подгрести и подмести.  
 Было б лучше в это время,  
 Время с милой провести -  
-Лично, для меня.<!--n:Из кф Максим Перепилица/Лично для меня:s:222612:e:1346-->
+Лично, для меня.<!--n:Из кф Максим Перепилица/Лично для меня:s:233490:e:1346-->
+<!----><!--2020-09-05 22:00:15-->
+BELLE  
+  
+  ***Am           Dm         E7                       [-3-------3-------]***  
+  Свет озарил мою больную душу                     [-----2-------2---]  
+  ***Am                   Dm          E7              [---1---1---1---1-]***  
+  Нет - твой покой я страстью не нарушу            [-----------------]  
+  ***Am              Dm           E7       Am         [-+---------------]***  
+  Бред полночный бред терзает сердце мне опять     [-----------------]  
+    ***Dm          E7        F#7***                   1 и 2 и 1 и 2 и  
+  О Эсмеральда я посмел тебя желать  
+  
+    ***Hm            C#7      F#m***  
+  Мой тяжкий крест уродства вечная печаль                 [|-|-|-|-|-|]  
+    ***Hm          E           A                       [| | | | | |]***  
+  Я состраданье за любовь готов принять                   [|-|-|-|-|-|]  
+  ***F#m             Hm              C#7       F#m           [| | | | | |]***  
+  Нет - горбун отверженный с проклятьем на челе           [|-|-|-|-|-|]  
+    ***Hm           E          A                        [| | | | | |]***  
+  Я никогда не буду счастлив на земле                     [|-|-|-|-|-|]  
+    ***C#7                   F#m                       [Ф Ф | Ф | Ф]***  
+  И после смерти мне не обрести покой                     [|-|-|-|-|-|]  
+    ***Hm         C#7           F#m Hm E Am Dm G       [| | | | | |]***  
+  Я душу дьяволу продам за ночь с тобой                   [|-|-|-|-|-|]  
+    [| | Ф | Ф |]  
+  ***Cm          Fm         G7                               [|-|-|-|-|-|]***  
+  Рай обещают рай твои объятья                                 ***C#7***  
+  Дай мне надежду о мое проклятье  
+  Знай греховных мыслей мне сладка слепая власть  
+    ***A7***  
+  Безумец прежде я не знал что значит страсть  
+  
+    ***Dm            E7       Am***  
+  Распутной девкой словно бесом одержим  
+    ***Dm       G          C***  
+  Цыганка дерзкая мою сгубила жизнь  
+  Жаль - судьбы насмешкою я в рясу облачен  
+  На муки адские навеки обречен  
+  И после смерти мне не обрести покой  
+    ***Dm         E7            Am Dm G Cm Fm B***  
+  Я душу дьяволу продам за ночь с тобой  
+  
+  ***Ebm                 Abm          B7***  
+  Сон светлый счастья сон мой - Эсмеральда  
+  Стон грешной страсти стон мой - Эсмеральда  
+  Он сорвался с губ и покатился камнем вниз  
+    ***Abm       B7           C7***  
+  Разбилось сердце белокурой Флер де Лиз  
+  
+    ***Fm           G7           Cm***  
+  Святая дева ты не в силах мне помочь  
+  Любви запретной не дано мне превозмочь  
+  Стой не покидай меня безумная мечта  
+  В раба мужчину превращает красота  
+  И после смерти мне не обрести покой  
+    ***Fm         G7             Cm Fm B Ebm Abm Db Cm***  
+  Я душу дьяволу продам за ночь с тобой  
+  
+    ***Fm         G7         Cm***  
+  И днем и ночью лишь она передо мной  
+  И не Мадонне я молюсь а ей одной  
+  Стой не покидай меня безумная мечта  
+  В раба мужчину превращает красота  
+  И после смерти мне не обрести покой  
+  Я душу дьяволу продам за ночь с тобой  
+  ***Fm    G7      Cm***  
+  За ночь с тобой  
+  
+----  
+  
+  *Вячеслав Петкун:*  
+    ***Dm          Gm         A***  
+(1)  Свет озарил мою больную душу  
+   ***Dm                  Gm          C***  
+  Нет, твой покой я страстью не нарушу  
+    ***F               Gm          A           Dm***  
+  Бред, полночный бред терзает сердце мне опять  
+    ***Gm           A          Hm***  
+  О Эсмеральда, я посмел тебя желать  
+  
+    ***Em              F#       Hm***  
+(2)  Мой тяжкий крест - уродства вечная печать  
+    ***Em         A             D***  
+  Я сострадание за любовь готов принять  
+   ***Hm            Em              F#          Hm***  
+  Нет, горбун отверженный с проклятьем на челе  
+    ***Em          A             D***  
+  Я никогда не буду счастлив на земле  
+    ***Em          F#         Hm***  
+  И после смерти мне не обрести покой  
+    ***Em        F#              Hm***  
+  Я душу дьяволу продам за ночь с тобой  
+  
+     ***Hm       Em A  Dm        Gm  C***  
+  2|--0--3--7--7--5--3--6--10--10--8--|  
+  
+  *Александр Голубев:*  
+   ***Fm           Bm         C***  
+(3)  Рай, обещают рай твои объятья  
+   ***Fm             Bm         Eb***  
+  Дай мне надежду о мое проклятье  
+    ***G#             Bm             C          Fm***  
+  Знай, греховных мыслей мне сладка слепая власть  
+    ***Bm          C                Dm***  
+  Безумец, прежде я не знал что значит страсть  
+  
+    ***Gm            A         Dm***  
+(4)  Распутной девкой словно бесом одержим  
+    ***Gm       C          F***  
+  Цыганка дерзкая мою сгубила жизнь  
+   ***Dm              Gm         A        Dm***  
+  Жаль, судьбы насмешкою я в рясу облачен  
+    ***Gm        C        F***  
+  На муки адские навеки обречен  
+    ***Gm          A          Dm***  
+  И после смерти мне не обрести покой  
+    ***Gm        A               Dm***  
+  Я душу дьяволу продам за ночь с тобой  
+  
+      ***Dm       Gm C  Fm      A#m D#***  
+  1|-----1--5--5--3--1--4--8--8--6--|  
+  2|--3-----------------------------|  
+  
+  *Антон Макарский:*  
+   ***G#m                 C#m          Eb***  
+(5)  Сон светлый счастья сон мой Эсмеральда  
+   ***G#m                   C#m          F#***  
+  Стон, грешной страсти стон мой Эсмеральда  
+  ***H              C#m        Eb           G#m***  
+  Он сорвался с губ и покатился камнем вниз  
+    ***C#m         Eb            Fm***  
+  Разбилось сердце белокурой fler de liese...  
+  
+    ***Bm           C           Fm***  
+(6)  Святая Дева ты не в силах мне помочь  
+    ***Bm            Eb           G#***  
+  Любви запретной не дано мне превозмочь  
+    ***Fm         Bm         C         Fm***  
+  Стой не покидай меня безумная мечта  
+    ***Bm         Eb        G#***  
+  В раба мужчину превращает красота  
+    ***Bm          C          Fm***  
+  И после смерти мне не обрести покой  
+    ***Bm        C               Fm***  
+  Я душу дьяволу продам за ночь с тобой  
+  
+      ***Fm      A#m D# G#m       C#m D#7***  
+  1|--1--4--8--8--6--4--7--11--11--9--|  
+  
+  *Все три голоса вместе:*  
+  ***D#m            G#m        A#    D#m***  
+(7)  И днем и ночью лишь она передо мной,  
+    ***G#m        C#         F#***  
+  И не Мадонне я молюсь, а ей одной,  
+  ***D#m           G#m        A#     D#m***  
+  Стой, не покидай меня безумная мечта,  
+    ***G#m        C#       F#***  
+  Раба в мужчину превращает красота,  
+    ***G#m        A#      D#m***  
+  И после смерти мне не обрести покой,  
+    ***G#m        A#         D#m***  
+  Я душу дьяволу продам за ночь с тобой.  
+     ***D#m   G#m      A#             D#m***  
+  ................. За ночь с тобо-о-о-й.  
+  
+  *Если играть в две гитары то так:*  
+  *1-ая гитара играет перебором: бас, 3, 1+2, 3, бас, 3, 1+2, 3*  
+  
+  *2-ая гитара:*  
+  *соло под аккорды:*  
+     ***Dm          Gm      A     Dm          Gm      C***  
+  [e|-------0-1-5---6-5-3-1-0---------0-1-5---6-5-3-1-0------  
+  h|-3---3-------3-------------3---3-------3----------------  
+  g|--------------------------------------------------------  
+  
+     ***F         Gm      A      Dm        Gm      A       Hm***  
+  e|-5---5-8-6-----6-5----6-5-------5-----------------------  
+  h|-----------8-8-----5-5----6---6---8-6-5-8-6-2-2-3-5-7---  
+  g|--------------------------------------------------------  
+  
+    ***Em       F#      Hm         Em       A       D***  
+  e|-7-9-10-10-9-9-7-7-6-7-9-----7-9-10-10-9-9-7-5-7-5-3-2--  
+  h|-------------------------7------------------------------  
+  g|--------------------------------------------------------  
+  
+     ***Hm       Em       F#     Hm        Em       A       D***  
+  e|-2-7-9-10-10-9-9-7-7-6-7-9---7-9-10-10-9-9-7-5-7-5-3-2--  
+  h|---------------------------7----------------------------  
+  g|--------------------------------------------------------  
+  
+    ***Em      F#      Hm        Em      F#      Hm***  
+  e|-2-5-3-0-0-3-2-----3-2-------2-0-----0------------------  
+  h|---------------2-2-----3---3-----3-2---3-----5-3-0------  
+  g|-----------------------------------------3-3------------]  
+  
+  *Во втором куплете все транспонируется из ***Dm*** в ***Fm***  
+  *В третьем куплете - в ***G#m***  
+  
+----  
+  
+  *Соло для акустической гитары*  
+  
+1 куплет: [1струна*/--------------0---------------------0-------  
+  2струна*/--------0-4-----4-2-0---------0-4-----4-2-0-  
+  3струна*/--1-1-3-----1---------3-1-1-3-----1---------  
+  4струна*/--------------------------------------------  
+  
+  -------2-0-----0-------0----------------------------  
+  ---4-4-----2-2---4-------4-0-0-4-2-----2-0--------1-  
+  -3-----------------3-3-------------3-3-----0-0-1-3--  
+  ----------------------------------------------------  
+  **Отсюда               играть 3 раза          до сюда**  
+  *-1-3-4-4-3-3-1-1-0-1-3---1-3-4-4-3-3-1---1---------*  
+  *-----------------------1---------------4---4-2-1-1-*  
+  *---------------------------------------------------*  
+  *---------------------------------------------------*]  
+  
+Продолжение: [-----------------------------------------------  
+  -4-2-----2-1-----2-1-----1---------------------  
+  -----3-3-----0-0-----1-1---3-0-0-3-1-----3-1---  
+  -------------------------------------2-2-----3-]  
+  
+2 куплет: [---------1---2-1---------------1---2-1-------1-1-4-2-  
+  -----1-2---------4-2-1-----1-2---------4-2-1---------  
+  -3-3-------3-----------3-3-------3-------------------  
+  -----------------------------------------------------  
+  
+  -----2-1-----2-1-----1---------------------  
+  -4-4-----1-1-----2-2---4-1-1-4-2-------1-3-  
+  ---------------------------------2-2-3-----  
+  -------------------------------------------  
+  **Отсюда       играть 2 раза                до сюда**  
+  *-3-5-6-6-5-5-3-3-2-3-5---3-5-6-6-5-5-3-1-3-1-----*  
+  *-----------------------3---------------------4-3-*  
+  *-------------------------------------------------*  
+  *-------------------------------------------------*]  
+  
+Потом:  [---1---------------------------------------------  
+  -3---4-1-1-4-3-----4-3-----3-1-----1-------1-----  
+  ---------------2-2-----3-3-----2-2---3-------3-0-  
+  ---------------------------------------4-4-------]  
+  
+3 куплет: [---------3---4-3-1-------------3---4-3-1-----3-3-6-4-  
+  -1-1-3-4---1-------4-3-1-1-3-4---1-------4-3---------  
+  -----------------------------------------------------  
+  -----------------------------------------------------  
+  
+  -1-1-4-3-----4-3-----3-1-----1-----------0-5-7-8-8-7-  
+  ---------3-3-----4-4-----3-3---4-0-0-1-3-------------  
+  -----------------------------------------------------  
+  -----------------------------------------------------  
+  
+  -7-5-5-4-5-7-0-5-7-8-8-7-7-5-3-5-3-1-0-0-5-7-8-8-7-7-  
+  -----------------------------------------------------  
+  -----------------------------------------------------  
+  -----------------------------------------------------  
+  
+  -5-3-5-3-1-0-0-3-1-----1-0-----1-0-----0-------------  
+  -------------------3-3-----0-0-----1-1---3-0-0-3-1---  
+  ---------------------------------------------------1-  
+  -----------------------------------------------------  
+  
+  ---------7-9-10-10-9-9-7-7-6-7-9-2-7-9-10-10-9-9-7-5-  
+  ---3-1-----------------------------------------------  
+  -1-----2---------------------------------------------  
+  -----------------------------------------------------  
+  
+  -7-5-3-2-2-7-9-10-10-9-9-7-7-6-7-9-2-7-9-10-10-9-9-7-  
+  -----------------------------------------------------  
+  -----------------------------------------------------  
+  -----------------------------------------------------  
+  
+  -5-7-5-3-2-2-5-3-0-0-3-2-----3-2-----2-0-----0-------  
+  -------------------------2-2-----3-3-----2-2---3-----  
+  -------------------------------------------------3-3-  
+  -----------------------------------------------------]  
+  
+Всё:  [-------*  
+  -5-3-0-*  
+  -------*  
+  -------*]  
+  
+(1)  Свет озарил мою больную душу,  
+  Нет, твой покой я страстью не нарушу,  
+  Бред, полночный бред терзает сердце мне опять,  
+  О, Эсмиральда, я посмел тебя желать.  
+  Мой тяжкий крест - уродства вечная печать,  
+  Я состраданье за любовь готов принять,  
+  Нет, горбун отверженный с проклятьем на челе,  
+  Я никогда не буду счастлив на Земле,  
+  И после смерти мне не обрести покой,  
+  Я душу дьяволу продам за ночь с тобой.  
+  
+(2)  Рай, обещают рай твои обьятья,  
+  Дай, мне надежду о мое проклятье,  
+  Знай, греховных мыслей мне сладка слепая власть,  
+  Безумец прежде я не знал, что значит страсть.  
+  Распутной девкой словно бесом одержим,  
+  Цыганка дерзкая мою сгубила жизнь,  
+  Жаль, судьбы насмешкою я в рясу облачен,  
+  На муки адские навеки обречен,  
+  И после смерти мне не обрести покой,  
+  Я душу дьяволу продам за ночь с тобой.  
+  
+(3)  Сон, светлый счастья сон мой Эсмиральда,  
+  Стон, грешной страсти стон мой Эсмиральда,  
+  Он, сорвался с губ и покатился камнем вниз,  
+  Разбилось сердце белокурой флертэниз,  
+  Святая Дева - ты не в силах мне помочь,  
+  Любви запретной не дано мне превозмочь,  
+  Стой, не покидай меня безумная мечта,  
+  Раба в мужчину превращает красота,  
+  И после смерти мне не обрести покой,  
+  Я душу дьяволу продам за ночь с тобой.  
+  И днем и ночью лишь она передо мной,  
+  И не Мадонне я молюсь, а ей одной,  
+  Стой, не покидай меня безумная мечта,  
+  Раба в мужчину превращает красота,  
+  И после смерти мне не обрести покой,  
+  Я душу дьяволу продам за ночь с тобой.  
+  ................. За ночь с тобо-о-о-й.<!--n:Notre Damme De Paris/BELLE:s:234932:e:23800-->
 <!----><!--2020-09-06 06:22:54-->
 Мы бредем через мглистый гор хребет  
 В пещеры, где не брезжит свет.  
@@ -3635,7 +4041,7 @@ Am                Dm
 Ветра стонали в мра-а-ке ночном,  
 Шептали ветви все о свооем,  
 То яр и ал огонь пылал,  
-Бушуя с ветром наравне.<!--n:Из кф Хоббит Неожиданное Приключение/Песня гномов Эребора:s:224054:e:547-->
+Бушуя с ветром наравне.<!--n:Из кф Хоббит Неожиданное Приключение/Песня гномов Эребора:s:258785:e:547-->
 <!----><!--2020-09-05 13:15:06-->
 *сл. М.Матусовский, муз. Т.Хренников*  
   
@@ -3684,7 +4090,7 @@ Am                Dm
 Ботиночки "чижовые"  
 Поплыли по волне  
 Теперь они, родимые,  
-Лежат на самом дне...<!--n:Из кф Верные друзья/Лодочка:s:224733:e:1954-->
+Лежат на самом дне...<!--n:Из кф Верные друзья/Лодочка:s:259464:e:1954-->
 <!----><!--2020-09-05 13:33:51-->
 Что так сердце, что так сердце растревожено,  
 Словно ветром тронуло струну?  
@@ -3709,7 +4115,7 @@ Am                Dm
 Посажу я на земле сады весенние,  
 Зашумят они по всей стране.  
 А когда придет пора цветения,  
-Пусть они тебе расскажут обо мне.<!--n:Из кф Верные друзья/Что так сердце растревожено:s:226763:e:1438-->
+Пусть они тебе расскажут обо мне.<!--n:Из кф Верные друзья/Что так сердце растревожено:s:261494:e:1438-->
 <!----><!--2020-09-06 19:31:09-->
 Шел ли дальней стороною,  
 Плыл ли морем я,  
@@ -3739,7 +4145,7 @@ Am                Dm
 Старой дружбы, словно песни,  
 Забывать нельзя.  
 И идут по жизни вместе  
-Верные друзья.<!--n:Из кф Верные друзья/Песенка верных друзей:s:228314:e:1105-->
+Верные друзья.<!--n:Из кф Верные друзья/Песенка верных друзей:s:263045:e:1105-->
 <!----><!--2020-09-07 06:52:54-->
 Мы вам расскажем, как мы засели,  
 Как мы однажды сели на мели,  
@@ -3764,7 +4170,7 @@ Am                Dm
 Если придется плыть вам по свету,  
 Не забывайте песенку эту,  
 В каждом деле, двигаясь к цели,  
-Надо всюду видеть все мели.<!--n:Из кф Верные друзья/Мы вам расскажем:s:229521:e:1366-->
+Надо всюду видеть все мели.<!--n:Из кф Верные друзья/Мы вам расскажем:s:264252:e:1366-->
 <!----><!--2022-06-05 22:45:03-->
 Счастье вдруг, в тишине, постучалось в двери  
 Неужель ты ко мне ,верю и не верю!  
@@ -3795,7 +4201,7 @@ Am                Dm
 Ради этой встречи с тобой!  
 Мерз я где-то плыл за моря  
 Знаю это было не зря  
-Все на свете, было не зря ,не напрасно было!<!--n:Из кф Иван Васильевич меняет профессию/Вдруг как в сказке скрипнула дверь:s:230979:e:2162-->
+Все на свете, было не зря ,не напрасно было!<!--n:Из кф Иван Васильевич меняет профессию/Вдруг как в сказке скрипнула дверь:s:265710:e:2162-->
 <!----><!--2020-09-06 00:35:03-->
 ***C              Em***  
 Луч солнца золотого  
@@ -3824,7 +4230,168 @@ Am                Dm
   
    Солнце взойдет!  
    Солнце взойдет!  
-   Солнце взойдет!<!--n:Бременские музыканты (из мф)/Луч солнца золотого:s:233302:e:1571-->
+   Солнце взойдет!<!--n:Бременские музыканты (из мф)/Луч солнца золотого:s:268033:e:1571-->
+<!----><!--2022-05-29 23:47:22-->
+Performed by *Stan Bush*  
+  
+You Were Born A Fighter  
+In The Blood A Mighty Warrior  
+Driven By Desire  
+Glory Calls, It's Waitn' For Ya  
+  
+When They Try To Break You Down  
+You Can Take It, That Don't Shake You  
+When Your Back's Against The Wall  
+The Thrill Of The Fight's Got Ya Standin' Tall  
+Never Surrender  
+Never Say Die  
+You Got The Heart Of A Hero  
+Never Surrender  
+The Will To Survive  
+You're Standin' Strong In The Eye Of A Storm  
+Something Keeps Pushing You On  
+To Never Surrender  
+Never Surrender  
+  
+There's A Burnin' Passion  
+Deep Inside, A Silent Power  
+With A Quick Reaction  
+Lightening Strikes Your Fight For Honour  
+  
+Winners Have A Price To Pay  
+You Can Taste It  
+That Don't Change It  
+You're Not There To Take The Fall  
+You'll Fight To The End And You'll Take It All  
+  
+Never Surrender  
+Never Say Die  
+You Got The Heart Of A Hero  
+Never Surrender  
+Keep It Alive  
+You're Standin' Strong In The Eye Of A Storm  
+Something Keeps Pushing You On  
+To never surrender  
+Never surrender<!--n:Kickboxer OST/Never Surrender:s:269718:e:1349-->
+<!----><!--2022-06-08 00:56:02-->
+*Performed by Beau Williams*
+
+AAAAaahhh hha haaaaa...  
+It's all right!!!  
+  
+Feelin so good today,  
+Ain't nobody standing in my way.  
+Tomorrow it's gonna be a price to pay,  
+Feelin so good today.  
+  
+There's a mountain, that I have to climb,  
+It's so high, and I'm so behind.  
+Get on up, move on now,  
+Ain't no place I haven't gone.  
+  
+Feelin so good today,  
+Ain't nobody standing in my way.  
+Tomorrow it's gonna be a price to pay,  
+Feelin so good today.  
+  
+There's a river, that I have to cross,  
+Other side ain't any close,  
+I won't beg, I won't break  
+But now I'm gonna celebrate.  
+  
+Feelin so good today,  
+Ain't nobody standing in my way  
+Tomorrow it's gonna be a price to pay,  
+Feelin so good today.  
+  
+All right!  
+  
+Hit me!  
+  
+You're not boss!  
+  
+I gonna do!  
+  
+I'm working hard!  
+  
+Got a job to do! Huh!  
+  
+Get on up!  
+Get on up!!  
+Get on up!!!  
+Get on up!!!!<!--n:Kickboxer OST/Feeling So Good Today:s:271122:e:1187-->
+<!----><!--2022-05-29 23:50:33-->
+*Performed by Stan Bush*  
+  
+Standing alone, I'm holding my own  
+Gonna show the world I'm the one  
+I don't care what you think  
+I could kill you if you blink  
+No pretender's left when I'm done  
+  
+Doesn't matter where I go now  
+You know what they say about me  
+Everybody loves a winner  
+Everyone can see that I am  
+Everybody follows the leader (baby)  
+Cruisin' down the streets of Siam  
+  
+Fast but I'm strong  
+It won't take me long  
+You see my power shine like the sun  
+Burn up the town, I can't get it down  
+Gonna have it all when I'm done  
+  
+Doesn't matter where I go now  
+You know what they say about me  
+Everybody loves a winner  
+Everyone can see that I am  
+Everybody follows the leader (baby)  
+Cruisin' down the streets of Siam  
+  
+Everybody follows the leader  
+Everybody follows the man  
+  
+Doesn't matter where I go now  
+You know what they say about me  
+Everybody loves a winner  
+Everyone can see that I am  
+Everybody follows the leader (baby)  
+Cruisin' down the streets of Siam<!--n:Kickboxer OST/Streets Of Siam:s:272370:e:1343-->
+<!----><!--2022-05-30 00:17:21-->
+*Permormed By Stan Bush*  
+  
+Sometimes it seems so hopeless  
+All alone  
+Nowhere to turn, so far away  
+From home  
+  
+It's up to me, I won't be denied  
+It's better to lose than never have tried to...  
+  
+Fight for love with all my heart  
+Fight for love, ignite the spark  
+  
+Sometimes the world feels like  
+It's closing in  
+Everything stops, don't know where to  
+Begin  
+  
+I'll gather my strength to carry on  
+It's up to me, I've got to be strong, to...  
+  
+Fight for love with all my heart  
+Fight for love, ignite the spark  
+  
+Fight for love (x4)  
+  
+Fight for love with all my heart  
+Fight for love, ignite the spark  
+Fight for love with all my heart  
+Fight for love, ignite the spark  
+  
+Fight for love with all my heart (x3)<!--n:Kickboxer OST/Fight For Love:s:273768:e:1003-->
+<!----><!--2025-12-21 22:04:02--><!--cover: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-->Тексты песен из фильма *Кикбоксер / Kickboxer (1989)* с Жан-Клод Ван Даммом.<!--n:Kickboxer OST/about:s:274825:e:7975-->
 <!----><!--2020-09-07 11:21:51-->
 Нашим любимым  
   *(А. Чистяков С. Сомов ССО “Вега”)*  
@@ -3852,7 +4419,7 @@ Am                Dm
 (4)  4 Нам целина подарит день за днём.  
   Пусть растворит твою усталость вечер.  
   Шепни тогда, припомнив обо всём:  
-  “Люблю, надеюсь, жду! До скорой встречи!”<!--n:Песни стройотрядов/Нашим любимым:s:234987:e:1952-->
+  “Люблю, надеюсь, жду! До скорой встречи!”<!--n:Песни стройотрядов/Нашим любимым:s:282845:e:1952-->
 <!----><!--2020-09-04 19:08:48-->
 Кафе "Аквариум"  
   *(ССО 2Атлант")*  
@@ -3903,7 +4470,7 @@ Am                Dm
   Два старых друга, два интеллигента  
   Сидим, от жизни спрятавшись, в углу.  
   
-  *Припев*<!--n:Песни стройотрядов/Кафе Аквариум:s:237026:e:3596-->
+  *Припев*<!--n:Песни стройотрядов/Кафе Аквариум:s:284884:e:3596-->
 <!----><!--2020-09-07 02:36:42-->
 Днем - свет, ночью – мрак...  
   *(ССО “Вега”)*  
@@ -3948,7 +4515,7 @@ Am                Dm
   Нам было стыдно и смешно,  
   Теперь всё равно.  
   
-  *Припев*<!--n:Песни стройотрядов/Днем - свет, ночью мрак...:s:240709:e:1905-->
+  *Припев*<!--n:Песни стройотрядов/Днем - свет, ночью мрак...:s:288567:e:1905-->
 <!----><!--2020-09-07 09:56:12-->
 Фестивальная  
   
@@ -3982,7 +4549,7 @@ Am                Dm
   Новый фестиваль  
   Встречаем мы с песнями весны.  
   
-  *Припев*<!--n:Песни стройотрядов/Фестивальная:s:242719:e:1619-->
+  *Припев*<!--n:Песни стройотрядов/Фестивальная:s:290577:e:1619-->
 <!----><!--2020-09-05 10:07:00-->
 Гимн ССО "Вега"  
   *(С. Сомов ССО "Вега")*  
@@ -4011,7 +4578,7 @@ Am                Dm
   Но снова отряды дорогами пыльными  
   Уходят, чтоб встретить рассвет.  
   
-  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Гимн ССО Вега:s:244424:e:1663-->
+  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Гимн ССО Вега:s:292282:e:1663-->
 <!----><!--2020-09-06 23:55:18-->
 Лето - это маленькая жизнь  
   *(О. Митяев)*  
@@ -4067,7 +4634,7 @@ Am                Dm
   Жизнь, в которой не было ни дня фальши,  
   Вряд ли кто-то точно знает, что дальше.  
   Только участковый мне кивнёт молча,  
-  Лето – это маленькая жизнь<!--n:Песни стройотрядов/Лето - это маленькая жизнь:s:246173:e:4207-->
+  Лето – это маленькая жизнь<!--n:Песни стройотрядов/Лето - это маленькая жизнь:s:294031:e:4207-->
 <!----><!--2020-09-05 08:49:54-->
 Словно роза расцвела...  
   
@@ -4101,7 +4668,7 @@ Am                Dm
   Мы поели помидор,  
   Мы поели колбасы,  
   Мы покушали конфет…  
-  Целинный банкет.<!--n:Песни стройотрядов/Словно роза расцвела...:s:250489:e:2108-->
+  Целинный банкет.<!--n:Песни стройотрядов/Словно роза расцвела...:s:298347:e:2108-->
 <!----><!--2020-09-07 10:41:21-->
 Годы летят стрелою  
   *(гр. ”Машина времени”)*  
@@ -4141,7 +4708,7 @@ Am                Dm
   Смог бы подумать каждый  
   Нужен ли он кому-то тут.  
   
-  *Припев*<!--n:Песни стройотрядов/Годы летят стрелою:s:252700:e:1921-->
+  *Припев*<!--n:Песни стройотрядов/Годы летят стрелою:s:300558:e:1921-->
 <!----><!--2020-09-04 20:05:48-->
 Я знаю прекрасно, что не время скучать  
   *(CCО “Ассоль”)*  
@@ -4180,7 +4747,7 @@ Am                Dm
   Ведь если бы не было тебя у меня,  
   Не было б моей любви.  
   
-  *Припев*<!--n:Песни стройотрядов/Я знаю прекрасно, что не время скучать:s:254717:e:2208-->
+  *Припев*<!--n:Песни стройотрядов/Я знаю прекрасно, что не время скучать:s:302575:e:2208-->
 <!----><!--2020-09-05 14:31:27-->
 Снег  
   *(М. Щукин С. Сомов ССО “Вега”)*  
@@ -4207,7 +4774,7 @@ Am                Dm
 (4)  Я тихо подпою,  
   Пусть услышит тот, кто ждёт.  
   Снег песню закружит мою,  
-  Снег память занесёт.<!--n:Песни стройотрядов/Снег:s:257056:e:1250-->
+  Снег память занесёт.<!--n:Песни стройотрядов/Снег:s:304914:e:1250-->
 <!----><!--2020-09-07 06:20:30-->
 Гимн медиков  
   
@@ -4246,7 +4813,7 @@ Am                Dm
   Прощай, прощай пора, пора прекрасная,  
   Ещё рывок, ещё один рывок.  
   Прощай, прощай пора, пора студенчества,  
-  Ещё рывок и мы идём вперёд!<!--n:Песни стройотрядов/Гимн медиков:s:258376:e:2890-->
+  Ещё рывок и мы идём вперёд!<!--n:Песни стройотрядов/Гимн медиков:s:306234:e:2890-->
 <!----><!--2020-09-06 18:56:21-->
 Не надо грустить  
   *(В. Самойлов ССО “Импульс”)*  
@@ -4277,7 +4844,7 @@ Am                Dm
   В счастливую нашу звезду – Целину,  
   И дарит нелёгкую радость ему.  
   
-  *Припев*<!--n:Песни стройотрядов/Не надо грустить:s:261351:e:2122-->
+  *Припев*<!--n:Песни стройотрядов/Не надо грустить:s:309209:e:2122-->
 <!----><!--2020-09-05 15:03:51-->
 Султан  
   
@@ -4318,7 +4885,7 @@ Am                Dm
 (7)  А поцелуй и ты, душа моя,  
   Султаном сделаешь меня, да, меня.  
   А как до водки доберусь, доберусь,  
-  Так сразу папой становлюсь.<!--n:Песни стройотрядов/Султан:s:263565:e:2666-->
+  Так сразу папой становлюсь.<!--n:Песни стройотрядов/Султан:s:311423:e:2666-->
 <!----><!--2020-09-05 21:53:48-->
 Милая моя  
   *(Ю. Визбор)*  
@@ -4349,7 +4916,7 @@ Am                Dm
   Вдруг сквозь туман там краснеет кусочек огня,  
   Вдруг у огня ожидают, представьте, меня.  
   
-  *Припев*<!--n:Песни стройотрядов/Милая моя:s:266305:e:2038-->
+  *Припев*<!--n:Песни стройотрядов/Милая моя:s:314163:e:2038-->
 <!----><!--2020-09-07 01:48:15-->
 Стройотрядовское счастье  
   *(М. Гуляев ССО “Свердловский медик”)*  
@@ -4384,7 +4951,7 @@ Am                Dm
   Нам дороже всего наш отряд,  
   Чья история в наших руках.  
   
-  *Припев*<!--n:Песни стройотрядов/Стройотрядовское счастье:s:268422:e:2094-->
+  *Припев*<!--n:Песни стройотрядов/Стройотрядовское счастье:s:316280:e:2094-->
 <!----><!--2020-09-07 02:54:15-->
 Фрагмент  
   *(О. Митяев)*  
@@ -4421,7 +4988,7 @@ Am                Dm
   Шаг шагнуть в дверной проём и перестать дышать,  
   И не думать не о чём, смотреть сквозь ночь и ждать.  
   
-  *Припев*<!--n:Песни стройотрядов/Фрагмент:s:270625:e:2491-->
+  *Припев*<!--n:Песни стройотрядов/Фрагмент:s:318483:e:2491-->
 <!----><!--2020-09-07 04:43:27-->
 Август  
   
@@ -4442,7 +5009,7 @@ Am                Dm
 (3)  Спешу я каждый день по суетным делам,  
   Остановлюсь, вдруг память лето потревожит.  
   И сигарета вдруг унять не сможет  
-  Растущую тревогу с грустью пополам.<!--n:Песни стройотрядов/Август:s:273194:e:1469-->
+  Растущую тревогу с грустью пополам.<!--n:Песни стройотрядов/Август:s:321052:e:1469-->
 <!----><!--2020-09-04 20:07:54-->
 Детство  
   *(М. Гуляев ССО “Свердловский медик”)*  
@@ -4482,7 +5049,7 @@ Am                Dm
   Хлещут капли дождя и зелёным пожаром  
   Вторят сердцу леса, словно струны гитары.  
   
-  *Припев*<!--n:Песни стройотрядов/Детство:s:274737:e:2805-->
+  *Припев*<!--n:Песни стройотрядов/Детство:s:322595:e:2805-->
 <!----><!--2020-09-07 05:49:36-->
 Про голубых  
   
@@ -4523,7 +5090,7 @@ Am                Dm
   А голубые там почтальоны  
   Носят кепки и бродят туда-сюда.  
   А голубые там лишь лимоны…  
-  Ну а если жёлтые – не беда.<!--n:Песни стройотрядов/Про голубых:s:277618:e:2895-->
+  Ну а если жёлтые – не беда.<!--n:Песни стройотрядов/Про голубых:s:325476:e:2895-->
 <!----><!--2020-09-06 03:17:48-->
 Есаул  
   *(А. Розенбаум)*  
@@ -4562,7 +5129,7 @@ Am                Dm
   Задремал под ольхой есаул на роздыхе,  
   Не буди своего друга, атаман.  
   
-  *Припев*<!--n:Песни стройотрядов/Есаул:s:280596:e:2423-->
+  *Припев*<!--n:Песни стройотрядов/Есаул:s:328454:e:2423-->
 <!----><!--2020-09-06 18:58:45-->
 Маруська  
   
@@ -4608,7 +5175,7 @@ Am                Dm
 (8)  По Летнему саду гуляя,  
   Хожу я теперь без зубов.  
   И как отомстить, я не знаю,  
-  За эту Маруськину любовь.<!--n:Песни стройотрядов/Маруська:s:283091:e:2427-->
+  За эту Маруськину любовь.<!--n:Песни стройотрядов/Маруська:s:330949:e:2427-->
 <!----><!--2020-09-05 11:25:36-->
 Вот одна из тех историй...  
   
@@ -4664,7 +5231,7 @@ Am                Dm
   Нас простая мысль утешит:  
   Мы услышать музыку смогли!  
   
-  *Припев*<!--n:Песни стройотрядов/Вот одна из тех историй...:s:285596:e:3038-->
+  *Припев*<!--n:Песни стройотрядов/Вот одна из тех историй...:s:333454:e:3038-->
 <!----><!--2020-09-04 19:32:12-->
 Я в мечтах...  
   *(М. Гуляев ССО “Свердловский медик”)*  
@@ -4691,7 +5258,7 @@ Am                Dm
 (4)  У далёких тесных пристаней  
   Был отчаянно везучим я,  
   Безошибочно и искренне  
-  Бесконечно веря в лучшее.<!--n:Песни стройотрядов/Я в мечтах...:s:288741:e:1444-->
+  Бесконечно веря в лучшее.<!--n:Песни стройотрядов/Я в мечтах...:s:336599:e:1444-->
 <!----><!--2020-09-05 22:12:15-->
 Последний троллейбус  
   *(А. Горностаев ССО “Импульс”)*  
@@ -4733,7 +5300,7 @@ Am                Dm
   Только вот одно мне непонятно,  
   Отчего стараются взрослеть.  
   
-  *Припев*<!--n:Песни стройотрядов/Последний троллейбус:s:290268:e:2364-->
+  *Припев*<!--n:Песни стройотрядов/Последний троллейбус:s:338126:e:2364-->
 <!----><!--2020-09-06 01:52:00-->
 Перевал  
   *(Ю. Визбор)*  
@@ -4780,7 +5347,7 @@ Am                Dm
   Видно, прожитое прожито зря,  
   Но не в этом, понимаешь ли, соль.  
   Видишь, падают дожди октября,  
-  Видишь, старый дом стоит средь лесов.<!--n:Песни стройотрядов/Перевал:s:292733:e:3185-->
+  Видишь, старый дом стоит средь лесов.<!--n:Песни стройотрядов/Перевал:s:340591:e:3185-->
 <!----><!--2020-09-04 20:03:42-->
 Листопад  
   *(В. Самойлов ССО “Импульс”)*  
@@ -4812,7 +5379,7 @@ Am                Dm
      ***Am              F#              H***  
   Ложился на ржавую воду осколок зари.  
   
-  *Припев*<!--n:Песни стройотрядов/Листопад:s:295994:e:2928-->
+  *Припев*<!--n:Песни стройотрядов/Листопад:s:343852:e:2928-->
 <!----><!--2020-09-07 03:28:27-->
 За тех, кто в море  
   *(гр. ”Машина времени”)*  
@@ -4860,7 +5427,7 @@ Am                Dm
   Гораздо трудней не свихнуться со скуки  
   И выдержать полный штиль.  
   
-  *Припев*<!--n:Песни стройотрядов/За тех, кто в море:s:299000:e:2709-->
+  *Припев*<!--n:Песни стройотрядов/За тех, кто в море:s:346858:e:2709-->
 <!----><!--2020-09-06 03:34:54-->
 Прощание с целиной  
   *(Л. Ваксман ССО “Товарищ”)*  
@@ -4906,7 +5473,7 @@ Am                Dm
   Нам сентябрь подливает: пей же, пей,  
   Только горькое вино у сентября.  
   
-  *Припев*<!--n:Песни стройотрядов/Прощание с целиной:s:301802:e:2662-->
+  *Припев*<!--n:Песни стройотрядов/Прощание с целиной:s:349660:e:2662-->
 <!----><!--2020-09-07 04:03:15-->
 Зайцепад  
   *(Д. Клюкин ССО “Зодчие”)*  
@@ -4941,7 +5508,7 @@ Am                Dm
   И пока там будем жить мы научимся парить  
   И вспорхнём с тобой вдвоём.  
   
-  *Припев*<!--n:Песни стройотрядов/Зайцепад:s:304560:e:2453-->
+  *Припев*<!--n:Песни стройотрядов/Зайцепад:s:352418:e:2453-->
 <!----><!--2020-09-05 21:56:12-->
 Ярмарка встреч  
   *(В. Самойлов ССО “Импульс”)*  
@@ -5002,7 +5569,7 @@ Am                Dm
   Мысли улетают вдаль  
   В край зелёный, где живёт весна.  
   
-  *Припев*<!--n:Песни стройотрядов/Ярмарка встреч:s:307091:e:3251-->
+  *Припев*<!--n:Песни стройотрядов/Ярмарка встреч:s:354949:e:3251-->
 <!----><!--2020-09-04 22:05:57-->
 Письмо  
   *(Д. Клюкин ССО “Зодчие”)*  
@@ -5037,7 +5604,7 @@ Am                Dm
   Ну а если господь Бог наградит меня любя,  
   Мне не надо ничего, не хватает лишь тебя.  
   
-  *Припев*<!--n:Песни стройотрядов/Письмо:s:310431:e:2539-->
+  *Припев*<!--n:Песни стройотрядов/Письмо:s:358289:e:2539-->
 <!----><!--2020-09-05 14:48:06-->
 Таганай  
   
@@ -5080,7 +5647,7 @@ Am                Dm
   Это станции взять нам разбег не дают  
   И к стеклу жёлтый листик приник.  
   
-  *Припев*<!--n:Песни стройотрядов/Таганай:s:313044:e:2658-->
+  *Припев*<!--n:Песни стройотрядов/Таганай:s:360902:e:2658-->
 <!----><!--2020-09-04 19:39:42-->
 Будь проклят вуз...  
   *(ССО “Зодчие”)*  
@@ -5115,7 +5682,7 @@ Am                Dm
   И в комнате на зависть всем соседям  
   У изголовья своего прибьем.  
   
-  *Припев*<!--n:Песни стройотрядов/Будь проклят вуз...:s:315778:e:2177-->
+  *Припев*<!--n:Песни стройотрядов/Будь проклят вуз...:s:363636:e:2177-->
 <!----><!--2020-09-05 13:36:15-->
 Вагончики  
   *(ССО “Зодчие”)*  
@@ -5150,7 +5717,7 @@ Am                Dm
   Кругом болота милые, здесь не увидишь тьмы.  
   Дорогу к коммунизму строим мы!  
   
-  *Припев*<!--n:Песни стройотрядов/Вагончики:s:318050:e:2313-->
+  *Припев*<!--n:Песни стройотрядов/Вагончики:s:365908:e:2313-->
 <!----><!--2020-09-06 09:12:33-->
 Серый след  
   
@@ -5187,7 +5754,7 @@ Am                Dm
 Припев:  Перестук железных колёс,  
   Ты, приятель, меня прости,  
   Жизнь летит, как состав под откос,  
-  Но теперь мне с ней по пути.<!--n:Песни стройотрядов/Серый след:s:320443:e:3033-->
+  Но теперь мне с ней по пути.<!--n:Песни стройотрядов/Серый след:s:368301:e:3033-->
 <!----><!--2020-09-07 02:11:48-->
 Я встретил девушку...  
   
@@ -5227,7 +5794,7 @@ Am                Dm
   Пусть на кладбище все слетятся вороны.  
   
   *Припев 1*  
-  *Припев 2*<!--n:Песни стройотрядов/Я встретил девушку...:s:323557:e:1943-->
+  *Припев 2*<!--n:Песни стройотрядов/Я встретил девушку...:s:371415:e:1943-->
 <!----><!--2020-09-05 14:23:03-->
 Кошка  
   *(гр. ”Машина времени”)*  
@@ -5264,7 +5831,7 @@ Am                Dm
   Да и люди, что век коротают в борьбе,  
   Понимают, что лучше гуртом.  
   И только кошка гуляет сама по себе  
-  И лишь по весне - с котом.<!--n:Песни стройотрядов/Кошка:s:325599:e:2305-->
+  И лишь по весне - с котом.<!--n:Песни стройотрядов/Кошка:s:373457:e:2305-->
 <!----><!--2020-09-07 04:49:36-->
 Гимн МВТУ  
   *(муз. А. Городницкий)*  
@@ -5306,7 +5873,7 @@ Am                Dm
 (7)  Под гром аплодисментов диплом получишь свой,  
   Теперь мы не студенты, товарищ дорогой,  
   Теперь мы инженеры, привыкшие к труду,  
-  Но сохраним мы в сердце родной МВТУ.<!--n:Песни стройотрядов/Гимн МВТУ:s:327976:e:3151-->
+  Но сохраним мы в сердце родной МВТУ.<!--n:Песни стройотрядов/Гимн МВТУ:s:375834:e:3151-->
 <!----><!--2020-09-06 11:55:36-->
 Гимн РТФ УПИ  
   
@@ -5343,7 +5910,7 @@ Am                Dm
   Вот и всё, родная, впредь ничто на свете  
   Не смутит покоя твоего.  
   Было б всё иначе, если б изменила  
-  Ты не офицеру ПВО.<!--n:Песни стройотрядов/Гимн РТФ УПИ:s:331206:e:2365-->
+  Ты не офицеру ПВО.<!--n:Песни стройотрядов/Гимн РТФ УПИ:s:379064:e:2365-->
 <!----><!--2020-09-07 05:31:18-->
 Последний год  
   *(CCО “Ассоль”)*  
@@ -5382,7 +5949,7 @@ Am                Dm
 (3)  Я предложил тебе печалью поделиться,  
   Ты понял – ни к чему друзей стыдиться,  
   Прижал к себе целинку и значки погладил.  
-  “Послушай, а ведь я последний год в отряде”.<!--n:Песни стройотрядов/Последний год:s:333655:e:2694-->
+  “Послушай, а ведь я последний год в отряде”.<!--n:Песни стройотрядов/Последний год:s:381513:e:2694-->
 <!----><!--2020-09-04 22:22:09-->
 Музыкант  
   *(К. Никольский)*  
@@ -5420,7 +5987,7 @@ Am                Dm
   А мелодия осталась ветерком в листве,  
   Среди людского шума еле уловима.  
   О несчастных и счастливых, о добре и зле,  
-  О лютой ненависти и святой любви.<!--n:Песни стройотрядов/Музыкант:s:336436:e:3268-->
+  О лютой ненависти и святой любви.<!--n:Песни стройотрядов/Музыкант:s:384294:e:3268-->
 <!----><!--2020-09-05 22:14:30-->
 Грубым дается радость  
   *(сл. С. Есенин)*  
@@ -5460,7 +6027,7 @@ Am                Dm
   Жаль мне себя немного, жалко бездомных собак,  
   Эта кривая дорога меня привела в кабак.  
   
-  *Припев*<!--n:Песни стройотрядов/Грубым дается радость:s:339782:e:2915-->
+  *Припев*<!--n:Песни стройотрядов/Грубым дается радость:s:387640:e:2915-->
 <!----><!--2020-09-05 09:28:54-->
 Уходя, уходи  
   *(Студия “ТУК”)*  
@@ -5523,7 +6090,7 @@ Am                Dm
   Наши грёзы, наши сны…  
   Я гашу свою лампаду.  
   
-  *Припев*<!--n:Песни стройотрядов/Уходя, уходи:s:342799:e:3015-->
+  *Припев*<!--n:Песни стройотрядов/Уходя, уходи:s:390657:e:3015-->
 <!----><!--2020-09-06 20:09:15-->
 Салют  
   *(Д. Клюкин ССО “Зодчие”)*  
@@ -5558,7 +6125,7 @@ Am                Dm
   Увижу друга, ещё, и ещё, и ещё…  
   И всем тихонько шепну: ”Салют!”  
   
-  *Припев*<!--n:Песни стройотрядов/Салют:s:345898:e:2016-->
+  *Припев*<!--n:Песни стройотрядов/Салют:s:393756:e:2016-->
 <!----><!--2020-09-05 14:01:09-->
 Если дождь...  
   *(ССО “Мигранс”)*  
@@ -5588,7 +6155,7 @@ Am                Dm
   И меня, и меня не тревожь, не тревожь,  
   Я закрою, закрою окно.  
   Слушай, дождь, уходи и меня не тревожь,  
-  Вот и всё - закрываю окно.<!--n:Песни стройотрядов/Если дождь...:s:347986:e:2141-->
+  Вот и всё - закрываю окно.<!--n:Песни стройотрядов/Если дождь...:s:395844:e:2141-->
 <!----><!--2020-09-05 22:16:54-->
 45 недель до целины  
   *(Т. Конышева CCO ”Радуга”)*  
@@ -5623,7 +6190,7 @@ Am                Dm
   Из солнечных Австралий  долин цветущих ветры,  
   Любовь перемножая на дни и километры.  
   
-  *Припев*<!--n:Песни стройотрядов/45 недель до целины:s:350211:e:2379-->
+  *Припев*<!--n:Песни стройотрядов/45 недель до целины:s:398069:e:2379-->
 <!----><!--2020-09-07 05:51:24-->
 Царевна Несмеяна  
   *(Г. Шангин-Березовский)*  
@@ -5647,7 +6214,7 @@ Am                Dm
   Не грусти и не плачь как царевна Несмеяна,  
   Это глупое детство прощается с тобой.  
   
-  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Царевна Несмеяна:s:352685:e:1800-->
+  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Царевна Несмеяна:s:400543:e:1800-->
 <!----><!--2020-09-07 04:05:39-->
 Алена  
   
@@ -5673,7 +6240,7 @@ Am                Dm
 (4)  Обойду я все долины, все поля и горы,  
   На земле иль под землёю те найду подковы.  
   Видно, сердцу шепчут что-то лепестки на клёне,  
-  Отыщу я своё счастье, отыщу Алёну.<!--n:Песни стройотрядов/Алена:s:354578:e:1969-->
+  Отыщу я своё счастье, отыщу Алёну.<!--n:Песни стройотрядов/Алена:s:402436:e:1969-->
 <!----><!--2020-09-04 19:36:24-->
 Новогодняя  
   *(Л. Ваксман ССО “Товарищ”)*  
@@ -5705,7 +6272,7 @@ Am                Dm
 (5)  Но, это всё в прологе, всё в прологе,  
   Где все мы только дворники и пряхи.  
   Мы открываем белые дороги  
-  И надеваем белые рубахи.<!--n:Песни стройотрядов/Новогодняя:s:356619:e:2026-->
+  И надеваем белые рубахи.<!--n:Песни стройотрядов/Новогодняя:s:404477:e:2026-->
 <!----><!--2020-09-06 03:18:24-->
 Стариковский вальс  
   *(Л. Ваксман ССО “Товарищ”)*  
@@ -5742,7 +6309,7 @@ Am                Dm
   Старики, ваша старость – недобрая весть,  
   Только ахам и охам положен предел.  
   Оставайтесь такими, какие вы есть,  
-  Я остаться таким бы хотел.<!--n:Песни стройотрядов/Стариковский вальс:s:358727:e:2802-->
+  Я остаться таким бы хотел.<!--n:Песни стройотрядов/Стариковский вальс:s:406585:e:2802-->
 <!----><!--2020-09-05 08:35:39-->
 Гимн ССО “Свердловский медик”  
   *(М. Гуляев ССО “Свердловский медик”)*  
@@ -5785,7 +6352,7 @@ Am                Dm
   Смелее, парень, в беде любой  
   “Свердловский медик” всегда с тобой.  
   
-  *Припев*<!--n:Песни стройотрядов/Гимн ССО Свердловский медик:s:361626:e:2163-->
+  *Припев*<!--n:Песни стройотрядов/Гимн ССО Свердловский медик:s:409484:e:2163-->
 <!----><!--2020-09-05 12:13:18-->
 Чайник  
   
@@ -5813,7 +6380,7 @@ Am                Dm
   Погоди, не отвечай,  
   Свой вопрос зажми в руке.  
   Лучше глянь - кипит ли чай  
-  В серебристом чайнике.<!--n:Песни стройотрядов/Чайник:s:363902:e:1448-->
+  В серебристом чайнике.<!--n:Песни стройотрядов/Чайник:s:411760:e:1448-->
 <!----><!--2020-09-07 00:11:30-->
 Тропой  
   *(Д. Клюкин, В. Подсосов ССО “Зодчие”)*  
@@ -5861,7 +6428,7 @@ Am                Dm
   И, в помощь им бог, не очнутся в могиле,  
   А если очнутся – другие придут.  
   
-  *Припев*<!--n:Песни стройотрядов/Тропой:s:365424:e:2851-->
+  *Припев*<!--n:Песни стройотрядов/Тропой:s:413282:e:2851-->
 <!----><!--2020-09-06 15:49:36-->
 Халтура  
   *(ССО “Мечта”)*  
@@ -5895,7 +6462,7 @@ Am                Dm
   Устало скажем: “Сделано! Работа – высший класс!”  
   Ребята не без зависти разглядывают нас.  
   
-  *Припев*<!--n:Песни стройотрядов/Халтура:s:368349:e:2685-->
+  *Припев*<!--n:Песни стройотрядов/Халтура:s:416207:e:2685-->
 <!----><!--2020-09-06 08:37:54-->
 На целину  
   *(Л. Ваксман ССО “Товарищ”)*  
@@ -5927,7 +6494,7 @@ Am                Dm
 (5)  На целину скатертью от порога  
   Бархат полей, ситец небесных трасс.  
   Солнечный путь, как хорошо, ей богу,  
-  Еду на целину, жаль, что в последний раз.<!--n:Песни стройотрядов/На целину:s:371110:e:2201-->
+  Еду на целину, жаль, что в последний раз.<!--n:Песни стройотрядов/На целину:s:418968:e:2201-->
 <!----><!--2020-09-06 12:19:09-->
 Осень пришла  
   
@@ -5946,7 +6513,7 @@ Am                Dm
   И почему, непонятно даже мне самому,  
   Зажигаются огни в вышине, это звёзды мои.  
   
-  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Осень пришла:s:373390:e:1483-->
+  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Осень пришла:s:421248:e:1483-->
 <!----><!--2020-09-07 06:47:39-->
 Провинциальный романс  
   *(Л. Ваксман ССО ”Товарищ”)*  
@@ -5978,7 +6545,7 @@ Am                Dm
 (5)  Не смотря на эти сплетни был объект закончен в срок,  
   В летний день и в месяц летний покидали городок.  
   И трудов не жаль, а жалко дел сердечных и хлопот…  
-  Ждите нас, провинциалки, мы вернёмся через год.<!--n:Песни стройотрядов/Провинциальный романс:s:374958:e:2872-->
+  Ждите нас, провинциалки, мы вернёмся через год.<!--n:Песни стройотрядов/Провинциальный романс:s:422816:e:2872-->
 <!----><!--2020-09-05 09:04:09-->
 Песня из к/ф “Земля Санникова”  
   
@@ -6004,7 +6571,7 @@ Am                Dm
 (4)  Счастье дано повстречать иль беду ещё,  
   Есть только миг, за него и держись,  
   Есть только миг между прошлым и будущим,  
-  Именно он называется жизнь.<!--n:Песни стройотрядов/Песня из к-ф Земля Санникова:s:377933:e:1870-->
+  Именно он называется жизнь.<!--n:Песни стройотрядов/Песня из к-ф Земля Санникова:s:425791:e:1870-->
 <!----><!--2020-09-06 08:13:18-->
 Весеннее танго  
   
@@ -6038,7 +6605,7 @@ Am                Dm
   На полгода ты без всяких докторов  
   Снова будешь весел и здоров.  
   
-  *Припев*<!--n:Песни стройотрядов/Весеннее танго:s:379916:e:2164-->
+  *Припев*<!--n:Песни стройотрядов/Весеннее танго:s:427774:e:2164-->
 <!----><!--2020-09-05 05:51:24-->
 Птенцы  
   *(Л. Ваксман ССО “Товарищ”)*  
@@ -6073,7 +6640,7 @@ Am                Dm
   И над липой, откуда некогда  
   Как птенцы из гнезда мы выпали.  
   
-  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Птенцы:s:382169:e:2005-->
+  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Птенцы:s:430027:e:2005-->
 <!----><!--2020-09-04 22:14:39-->
 Снова целина  
   *(С. Мошкоркин М. Христофоров ССО “Малахит”)*  
@@ -6113,7 +6680,7 @@ Am                Dm
   И вспомни наши встречи, наши грёзы  
   И в солнце дня напевы соловья.  
   
-  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Снова целина:s:384248:e:2808-->
+  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Снова целина:s:432106:e:2808-->
 <!----><!--2020-09-05 12:43:36-->
 Широкая река  
   *(С. Сомов Н. Енидорцев ССО “Вега”)*  
@@ -6147,7 +6714,7 @@ Am                Dm
   И не река мои остановила мечты,  
   А только ты.  
   
-  *Припев*<!--n:Песни стройотрядов/Широкая река:s:387141:e:2253-->
+  *Припев*<!--n:Песни стройотрядов/Широкая река:s:434999:e:2253-->
 <!----><!--2020-09-06 15:17:57-->
 Мне бы волю  
   
@@ -6171,7 +6738,7 @@ Am                Dm
 (3)  Не нужны мне чьи-то губы, у меня сеньоры будут,  
   Банки, фабрики, заводы, пароходы, поезда.  
   
-  *Припев*<!--n:Песни стройотрядов/Мне бы волю:s:389479:e:1482-->
+  *Припев*<!--n:Песни стройотрядов/Мне бы волю:s:437337:e:1482-->
 <!----><!--2020-09-07 05:39:24-->
 Что со мной происходит - не знаю  
   *(CCО “Ассоль”)*  
@@ -6217,7 +6784,7 @@ Am                Dm
   У меня нет тебя дороже,  
   Мне тебя никогда не забыть.  
   
-  *Припев*<!--n:Песни стройотрядов/Что со мной происходит - не знаю:s:391043:e:2901-->
+  *Припев*<!--n:Песни стройотрядов/Что со мной происходит - не знаю:s:438901:e:2901-->
 <!----><!--2020-09-06 12:21:24-->
 Реченька  
   *(ССО “Вега”)*  
@@ -6257,7 +6824,7 @@ Am                Dm
 (5)  Эх, дороженьки – пути окольные.  
   Выносите вы нас, кони вольные.  
   И растает стук копыт вдалеке,  
-  И волною смоет след на песке.<!--n:Песни стройотрядов/Реченька:s:394063:e:2371-->
+  И волною смоет след на песке.<!--n:Песни стройотрядов/Реченька:s:441921:e:2371-->
 <!----><!--2020-09-06 08:29:03-->
 Вот моя целинка  
   *(С. Улитов М. Тарасов ССО “Импульс”)*  
@@ -6285,7 +6852,7 @@ Am                Dm
   Уходят вдаль поезда в неведомую страну,  
   Я им рукой помахаю и снова начну.  
   
-  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Вот моя целинка:s:396512:e:1810-->
+  *(Повтор первого куплета)*<!--n:Песни стройотрядов/Вот моя целинка:s:444370:e:1810-->
 <!----><!--2020-09-07 05:05:57-->
 В первый раз на целину  
   *(В. Самойлов А. Шорохов В. Нестеров ССО “Импульс”)*  
@@ -6336,7 +6903,7 @@ Am                Dm
   Даже мой любимый пёс  
   Задаёт немой вопрос –  
   Я возмужал, я так подрос  
-  И лицом похож на негра.<!--n:Песни стройотрядов/В первый раз на целину:s:398412:e:2793-->
+  И лицом похож на негра.<!--n:Песни стройотрядов/В первый раз на целину:s:446270:e:2793-->
 <!----><!--2020-09-04 19:45:42-->
 Марионетки  
   *(гр. ”Машина времени”)*  
@@ -6380,7 +6947,7 @@ Am                Dm
   Засияет месяц в облаках.  
   Кукол снимут с нитки длинной  
   И засыпав нафталином  
-  В виде тряпок сложат в сундуках.<!--n:Песни стройотрядов/Марионетки:s:401307:e:2375-->
+  В виде тряпок сложат в сундуках.<!--n:Песни стройотрядов/Марионетки:s:449165:e:2375-->
 <!----><!--2020-09-05 02:59:48-->
 Как на поле Куликовом  
   
@@ -6417,7 +6984,7 @@ Am                Dm
        ***Dm              E7***  
   Алкашам на Руси перебоя нет.  
   
-  *Припев*<!--n:Песни стройотрядов/Как на поле Куликовом:s:403764:e:2696-->
+  *Припев*<!--n:Песни стройотрядов/Как на поле Куликовом:s:451622:e:2696-->
 <!----><!--2020-09-07 06:32:39-->
 Когда задуют вдруг ветра  
   *(Е. Семья ССО ”Родник”)*  
@@ -6464,7 +7031,7 @@ Am                Dm
   И повстречать, и попрощаться,  
   Не зная призрачной тоски.  
   
-  Когда задуют вдруг ветра...<!--n:Песни стройотрядов/Когда задуют вдруг ветра:s:406561:e:2558-->
+  Когда задуют вдруг ветра...<!--n:Песни стройотрядов/Когда задуют вдруг ветра:s:454419:e:2558-->
 <!----><!--2020-09-07 00:25:18-->
 Костер  
   *(гр. ”Машина времени”)*  
@@ -6501,7 +7068,7 @@ Am                Dm
   И через час большой огонь угас,  
   Но в это час стало всем теплей.  
   
-  *Припев*<!--n:Песни стройотрядов/Костер:s:409226:e:2277-->
+  *Припев*<!--n:Песни стройотрядов/Костер:s:457084:e:2277-->
 <!----><!--2020-09-06 11:38:30-->
 Неуставные встречи  
   *(Е. Семья ССО ”Родник”)*  
@@ -6536,7 +7103,7 @@ Am                Dm
   Пернатые на юг дорогу проложили,  
   Оставив нам воспоминанья до утра.  
   
-  *Припев*<!--n:Песни стройотрядов/Неуставные встречи:s:411577:e:2429-->
+  *Припев*<!--n:Песни стройотрядов/Неуставные встречи:s:459435:e:2429-->
 <!----><!--2020-09-05 09:12:06-->
 Тили-тили-тесто  
   *(ССО “Мечта”)*  
@@ -6575,7 +7142,7 @@ Am                Dm
   К нынешнему году мы не досчитались  
   Семерых, когда-то холостых бойцов.  
   
-  *Припев*<!--n:Песни стройотрядов/Тили-тили-тесто:s:414103:e:2401-->
+  *Припев*<!--n:Песни стройотрядов/Тили-тили-тесто:s:461961:e:2401-->
 <!----><!--2020-09-07 11:24:24-->
 На ранчо  
   
@@ -6614,7 +7181,7 @@ Am                Dm
                               ***E          Am***  
   Один серый, другой белый, прятались от бабки.  
   
-  *Припев*<!--n:Песни стройотрядов/На ранчо:s:416594:e:2467-->
+  *Припев*<!--n:Песни стройотрядов/На ранчо:s:464452:e:2467-->
 <!----><!--2020-09-05 21:59:57-->
 Узкоколейка  
   *(Д. Клюкин ССО “Зодчие”)*  
@@ -6672,7 +7239,7 @@ Am                Dm
   И в небо неслось бы остервенело:  
   “Доброе дело, хорошее дело!”  
   
-  *Припев*<!--n:Песни стройотрядов/Узкоколейка:s:419138:e:3479-->
+  *Припев*<!--n:Песни стройотрядов/Узкоколейка:s:466996:e:3479-->
 <!----><!--2020-09-07 03:09:51-->
 Изгиб гитары желтой  
   *(О. Митяев)*  
@@ -6695,7 +7262,7 @@ Am                Dm
 (3)  И всё же с болью в горле мы тех сегодня вспомним,  
   Чьи имена как раны на сердце запеклись.  
   Мечтами их и песнями мы каждый вздох наполним.  
-  Как здорово что все мы здесь сегодня собрались.<!--n:Песни стройотрядов/Изгиб гитары желтой:s:422701:e:1864-->
+  Как здорово что все мы здесь сегодня собрались.<!--n:Песни стройотрядов/Изгиб гитары желтой:s:470559:e:1864-->
 <!----><!--2020-09-07 10:13:45-->
 Разговор в поезде  
   *(гр. ”Машина времени”)*  
@@ -6738,7 +7305,7 @@ Am                Dm
 (7)  И оба сошли где-то под Таганрогом,  
   Среди бескрайних полей.  
   И каждый пошёл своёй дорогой,  
-  А поезд пошёл своей.<!--n:Песни стройотрядов/Разговор в поезде:s:424663:e:2313-->
+  А поезд пошёл своей.<!--n:Песни стройотрядов/Разговор в поезде:s:472521:e:2313-->
 <!----><!--2020-09-05 14:11:21-->
 А все кончается  
   
@@ -6773,7 +7340,7 @@ Am                Dm
   И мы когда-нибудь, куда-нибудь вернёмся,  
   И станем снова с вами просто мужики.  
   
-  *(Повтор первого куплета)*<!--n:Песни стройотрядов/А все кончается:s:427070:e:2215-->
+  *(Повтор первого куплета)*<!--n:Песни стройотрядов/А все кончается:s:474928:e:2215-->
 <!----><!--2020-09-07 01:56:03-->
 Страна Целина  
   
@@ -6794,7 +7361,7 @@ Am                Dm
 (3)  Может, там в конце дороги мы придём в страну большую,  
   Ту страну, что всех милее под названьем Целина.  
   Там с целинными ветрами и дождями мы поспорим,  
-  Там есть место только сильным, не для слабых та страна.<!--n:Песни стройотрядов/Страна Целина:s:429375:e:2006-->
+  Там есть место только сильным, не для слабых та страна.<!--n:Песни стройотрядов/Страна Целина:s:477233:e:2006-->
 <!----><!--2020-09-07 03:15:15-->
 Ничего на свете лучше нету...  
   *(Г. Гладков Ю. Энтин)*  
@@ -6816,7 +7383,7 @@ Am                Dm
 (3)  Мы своё призванье не забудем,  
   Смех и радость мы приносим людям.  
   Нам дворцов заманчивые своды  
-  Не заменят никогда свободы.<!--n:Песни стройотрядов/Ничего на свете лучше нету...:s:431468:e:1394-->
+  Не заменят никогда свободы.<!--n:Песни стройотрядов/Ничего на свете лучше нету...:s:479326:e:1394-->
 <!----><!--2020-09-05 11:25:09-->
 Босоножки  
   *(Студия “ТУК”)*  
@@ -6852,7 +7419,7 @@ Am                Dm
   Ой, за то, что моё счастье привели ко мне!  
   
 Припев:  На-на-на-на-на, ой, мы пьяны без вина  
-  От того, что я люблю, ты тоже влюблена.<!--n:Песни стройотрядов/Босоножки:s:432975:e:2358-->
+  От того, что я люблю, ты тоже влюблена.<!--n:Песни стройотрядов/Босоножки:s:480833:e:2358-->
 <!----><!--2020-09-05 15:07:18-->
 Как ни крути  
   *(Студия “ТУК”)*  
@@ -6890,7 +7457,7 @@ Am                Dm
   Как берега одной реки  
   Мы далеки с тобой.  
   
-  *Припев*<!--n:Песни стройотрядов/Как ни крути:s:435413:e:1954-->
+  *Припев*<!--n:Песни стройотрядов/Как ни крути:s:483271:e:1954-->
 <!----><!--2020-09-07 09:05:39-->
 Сеньора  
   
@@ -6936,7 +7503,7 @@ Am                Dm
   Время, что на нашу молодость пришло,  
   Вроде рядом было, веселилось и ушло золотое время.  
   
-  *Припев*<!--n:Песни стройотрядов/Сеньора:s:437451:e:4054-->
+  *Припев*<!--n:Песни стройотрядов/Сеньора:s:485309:e:4054-->
 <!----><!--2020-09-06 01:56:39-->
 Первая любовь  
   *(Красная бурда)*  
@@ -6974,7 +7541,7 @@ Am                Dm
   Голова – а – а трясётся,  
   Дёрга – а – ается бровь,  
   Вот она – а – а какая  
-  Первая любовь.<!--n:Песни стройотрядов/Первая любовь:s:441581:e:2280-->
+  Первая любовь.<!--n:Песни стройотрядов/Первая любовь:s:489439:e:2280-->
 <!----><!--2020-09-06 19:51:33-->
 С добрым утром, любимая  
   *(К. Тарасов)*  
@@ -7009,7 +7576,7 @@ Am                Dm
   “С добрым утром, любимая, милая ты моя!”  
   Эта надпись красивая смотрит в окна твои.  
   Может строчка счастливая, мартом хранимая,  
-  Будет всем как в пути маяк, пусть потерпит ГАИ.<!--n:Песни стройотрядов/С добрым утром, любимая:s:443948:e:2654-->
+  Будет всем как в пути маяк, пусть потерпит ГАИ.<!--n:Песни стройотрядов/С добрым утром, любимая:s:491806:e:2654-->
 <!----><!--2020-09-06 09:01:27-->
 Dm7                         Am7  
 Кружит земля, как в детстве карусель,  
@@ -7051,7 +7618,7 @@ Dm7                         Am
  C       D       G          Em  
 Он прийдет, он будет добрый, ласковый.  
  Am     D   G  
-Ветер перемен.<!--n:Из кф Мэри Поппинс/Ветер перемен:s:446706:e:2249-->
+Ветер перемен.<!--n:Из кф Мэри Поппинс/Ветер перемен:s:494564:e:2249-->
 <!----><!--2020-09-06 15:10:00-->
 (Михаил Танич, Эдуард Колмановский)  
   
@@ -7100,7 +7667,7 @@ Dm7                         Am
     ***G/H   Cm7***  
  Ждёт нас что-то новое,  
  ***F               B***  
- Ждёт нас перемена!<!--n:Из кф Большая перемена/Перемена:s:449040:e:1867-->
+ Ждёт нас перемена!<!--n:Из кф Большая перемена/Перемена:s:496898:e:1867-->
 <!----><!--2020-09-06 19:04:54-->
 Intro: ***Am E Am E  ***  
   
@@ -7160,7 +7727,7 @@ Intro: ***Am E Am E  ***
  ***Dm     Am     E     Am***  
 Чёрное белым, белое чёрным,  
  ***Dm     Am     E     Am***  
-Чёрное белым, белое чёрным.<!--n:Из кф Большая перемена/Черное и белое:s:450991:e:3511-->
+Чёрное белым, белое чёрным.<!--n:Из кф Большая перемена/Черное и белое:s:498849:e:3511-->
 <!----><!--2020-09-05 13:20:12-->
 Les rois du Monde - Romeo et Juliette  
   
@@ -7203,7 +7770,7 @@ Les rois du Monde - Romeo et Juliette
   Les rois du monde se battent entre eux  
   C'est qu'y a d'la place mais pour un pas pour deux  
   Et nous en bas leur guerre on la f'ra pas  
-  On sait meme pas pourquoi tout ca c'est jeux de rois<!--n:Песни из мюзиклов/Les rois du Monde - Romeo et Juliette:s:454596:e:2799-->
+  On sait meme pas pourquoi tout ca c'est jeux de rois<!--n:Песни из мюзиклов/Les rois du Monde - Romeo et Juliette:s:502454:e:2799-->
 <!----><!--2020-09-06 10:19:09-->
 Сон Пилата (Иисус Христос - суперзвезда)  
   
@@ -7228,7 +7795,7 @@ Les rois du Monde - Romeo et Juliette
       ***F7          Gb           Ebm6***  
   Как будто слали мне, а не ему  
      ***F7        Bm***  
-  Проклятья и позор.<!--n:Песни из мюзиклов/Иисус Христос - суперзвезда - Сон Пилата:s:457491:e:1896-->
+  Проклятья и позор.<!--n:Песни из мюзиклов/Иисус Христос - суперзвезда - Сон Пилата:s:505349:e:1896-->
 <!----><!--2020-09-06 19:39:15-->
 Небом головы полны (Иисус Христос - суперзвезда)  
   
@@ -7322,7 +7889,7 @@ Les rois du Monde - Romeo et Juliette
   Гордый пророк, гордый пророк.  
   
   *Аккорды взяты из либретто английской версии и*  
-  *адаптированы под рускоязычную аранжировку.*<!--n:Песни из мюзиклов/Иисус Христос - суперзвезда - Небом головы полны:s:459518:e:5806-->
+  *адаптированы под рускоязычную аранжировку.*<!--n:Песни из мюзиклов/Иисус Христос - суперзвезда - Небом головы полны:s:507376:e:5806-->
 <!----><!--2020-09-04 19:20:39-->
 Пора в путь дорогу  
   
@@ -7368,7 +7935,7 @@ Les rois du Monde - Romeo et Juliette
   Их поцелуем горячо  
   Сперва разок, потом другой, потом еще!  
   
-  *Припев*<!--n:Песни из фильмов/Пора в путь дорогу:s:465470:e:2991-->
+  *Припев*<!--n:Песни из фильмов/Пора в путь дорогу:s:513328:e:2991-->
 <!----><!--2020-09-05 08:58:54-->
 Облака  
   
@@ -7395,7 +7962,7 @@ Les rois du Monde - Romeo et Juliette
   К нам неслышно опyстится звезда,  
   И pомашка останется в ладони.  
   
-  *Припев*<!--n:Песни из фильмов/Облака:s:468551:e:1669-->
+  *Припев*<!--n:Песни из фильмов/Облака:s:516409:e:1669-->
 <!----><!--2020-09-05 10:02:39-->
 Идем на Восток  
   *муз. и сл М. Покровский.*  
@@ -7438,7 +8005,7 @@ Les rois du Monde - Romeo et Juliette
   Молчит полумесяц и вслед уходящему  
   Поезду грустно глядит.  
   
-  *Припев*<!--n:Песни из фильмов/Турецкий гамбит. Идем на Восток:s:470289:e:2706-->
+  *Припев*<!--n:Песни из фильмов/Турецкий гамбит. Идем на Восток:s:518147:e:2706-->
 <!----><!--2020-09-05 10:06:42-->
 Жypaвли  
   
@@ -7483,7 +8050,7 @@ Les rois du Monde - Romeo et Juliette
           ***Am       H7         C     \***  
   Нe пoтoмy ль тaк чacтo и пeчaльнo  \  2  
           ***Am      H7     Em          / paзa***  
-  Мы зaмoлкaeм, глядя в нeбeca.     /<!--n:Песни из фильмов/Жуpaвли:s:473109:e:3312-->
+  Мы зaмoлкaeм, глядя в нeбeca.     /<!--n:Песни из фильмов/Жуpaвли:s:520967:e:3312-->
 <!----><!--2020-09-07 09:54:42-->
 К/ф "Ирония судьбы"  
   У зеркала.  
@@ -7507,7 +8074,7 @@ Les rois du Monde - Romeo et Juliette
             ***Dm     E7         F***  
   Благославляю Вас, благославляю Вас,  
       ***Am                D    Dm E7  Am***  
-  Благославляю Вас на все четыре стороны.<!--n:Песни из фильмов/Ирония судьбы. У зеркала:s:476490:e:2033-->
+  Благославляю Вас на все четыре стороны.<!--n:Песни из фильмов/Ирония судьбы. У зеркала:s:524348:e:2033-->
 <!----><!--2020-09-06 08:49:36-->
 к/ф "Человек-амфибия"  
   Уходит рыбак в свой опасный путь  
@@ -7542,7 +8109,7 @@ Les rois du Monde - Romeo et Juliette
   ***Am            F     Dm           F***  
   Будет шуметь вода, Будут лететь года,  
   ***Dm                 F        Dm  E  Am***  
-  И в белых туманах скроются Черные города.<!--n:Песни из фильмов/Человек-амфибия. Уходит рыбак в свой опасный путь:s:478624:e:3543-->
+  И в белых туманах скроются Черные города.<!--n:Песни из фильмов/Человек-амфибия. Уходит рыбак в свой опасный путь:s:526482:e:3543-->
 <!----><!--2020-09-06 19:35:21-->
 м/ф "Бременские музыканты"  
   Бременские музыканты. Говорят мы бяки-буки  
@@ -7583,7 +8150,7 @@ Les rois du Monde - Romeo et Juliette
   Ой-ля-ля, Ой-ля-ля,  
   Карты правду говорят.  
   Ой-ля-ля, Ой-ля-ля,  
-  Ех-ха!<!--n:Песни из фильмов/Бременские музыканты. Говорят мы бяки-буки:s:482314:e:1499-->
+  Ех-ха!<!--n:Песни из фильмов/Бременские музыканты. Говорят мы бяки-буки:s:530172:e:1499-->
 <!----><!--2020-09-05 10:04:54-->
 к/ф "Брилиантовая рука"  
   Песня про зайцев  
@@ -7664,7 +8231,7 @@ Les rois du Monde - Romeo et Juliette
   А нам все равно, а нам все равно,  
   Станем мы храбрей и отважней льва.  
   Устоим хоть раз в самый жуткий час -  
-  Все напасти нам станут трын-трава.<!--n:Песни из фильмов/Песня про зайцев:s:483948:e:5680-->
+  Все напасти нам станут трын-трава.<!--n:Песни из фильмов/Песня про зайцев:s:531806:e:5680-->
 <!----><!--2020-09-06 20:35:30-->
 кинофильм "За двумя зайцами" (Режиссер-постановщик: Виктор Иванов)  
   Канареечка  
@@ -7687,7 +8254,7 @@ Les rois du Monde - Romeo et Juliette
   Моя мама серце добре мае  
   И папаша мають магазин  
   И вони меня не обижають  
-  Бо один у них я шикарний син.<!--n:Песни из фильмов/За двумя зайцами. Канареечка:s:489715:e:1209-->
+  Бо один у них я шикарний син.<!--n:Песни из фильмов/За двумя зайцами. Канареечка:s:537573:e:1209-->
 <!----><!--2020-09-07 09:41:30-->
 Капитан  
   
@@ -7738,7 +8305,7 @@ Les rois du Monde - Romeo et Juliette
   ***A7  D    A7  D7       G6***  
   Капитан, капитан, подтянитесь,  
   ***Em     D      H7 Em  A7    D***  
-  Только смелым покоряются моря.<!--n:Песни из фильмов/Капитан:s:491033:e:3120-->
+  Только смелым покоряются моря.<!--n:Песни из фильмов/Капитан:s:538891:e:3120-->
 <!----><!--2020-09-05 08:33:42-->
 к/ф "Завтрак на траве"  
   Золотая рыбка  
@@ -7778,7 +8345,7 @@ Les rois du Monde - Romeo et Juliette
   *1. 4/5 попеременно*  
   *2. Щипок 3+2+1*  
   *3. Удар вниз по 3 нижним струнам с глушением*  
-  *4. Удар снизу вверх по трем нижним струнам*<!--n:Песни из фильмов/Завтрак на траве. Золотая рыбка:s:494224:e:2515-->
+  *4. Удар снизу вверх по трем нижним струнам*<!--n:Песни из фильмов/Завтрак на траве. Золотая рыбка:s:542082:e:2515-->
 <!----><!--2020-09-06 13:27:51-->
 Из фильма - 17 мгновений весны  
   
@@ -7794,7 +8361,7 @@ Les rois du Monde - Romeo et Juliette
   3|------3-3---2-0-0------------  
   4|--0-------0---------3-2-2----  
   5|------------------1----------  
-  6|-----------------------------<!--n:Песни из фильмов/17 мгновений весны:s:496853:e:832-->
+  6|-----------------------------<!--n:Песни из фильмов/17 мгновений весны:s:544711:e:832-->
 <!----><!--2020-09-05 12:00:06-->
 фильм "12 стульев"  
   12 стульев. Танго.  
@@ -7837,7 +8404,7 @@ Les rois du Monde - Romeo et Juliette
   Все таки была, была одна минута  
   Той любви, какой уж больше нет.  
   
-  *Припев*<!--n:Песни из фильмов/12 стульев. Танго:s:497773:e:2705-->
+  *Припев*<!--n:Песни из фильмов/12 стульев. Танго:s:545631:e:2705-->
 <!----><!--2020-09-05 14:46:09-->
 кинофильм "Судьба резидента", реж. В.Дорман  
   Я в весеннем лесу.  
@@ -7865,7 +8432,7 @@ Les rois du Monde - Romeo et Juliette
   Зачеркнуть бы всю жизнь да с начала начать.  
   Полететь к ненаглядной певунье своей.  
   Да вот только узнает ли родина-мать  
-  Одного из пропащих своих сыновей.<!--n:Песни из фильмов/Судьба резидента. Я в весеннем лесу:s:500564:e:1969-->
+  Одного из пропащих своих сыновей.<!--n:Песни из фильмов/Судьба резидента. Я в весеннем лесу:s:548422:e:1969-->
 <!----><!--2020-09-07 00:27:51-->
 Чужие звезды  
   
@@ -7911,7 +8478,7 @@ Les rois du Monde - Romeo et Juliette
   Что к чужому солнцу мчится  
   Полечу в другие миры  
   
-  *Припев*<!--n:Песни из фильмов/Чужие звезды:s:502654:e:2584-->
+  *Припев*<!--n:Песни из фильмов/Чужие звезды:s:550512:e:2584-->
 <!----><!--2020-09-05 22:00:24-->
 К/Ф "Операция Ы"  
   Постой, паровоз  
@@ -7927,7 +8494,7 @@ Les rois du Monde - Romeo et Juliette
   H-----1-5-5-----------------------------------------------3-0-1---  
   G---------------------------------------------------------------2-  
   
-  *А вторая аккордами стучит (2/4).*<!--n:Песни из фильмов/Операция Ы. Постой, паровоз:s:505318:e:656-->
+  *А вторая аккордами стучит (2/4).*<!--n:Песни из фильмов/Операция Ы. Постой, паровоз:s:553176:e:656-->
 <!----><!--2020-09-06 13:49:45-->
 Полгода плохая погода  
   
@@ -7976,7 +8543,7 @@ Les rois du Monde - Romeo et Juliette
   Полгода - плохая погода  
   Полгода - совсем никуда  
   
-  *Припев*<!--n:Песни из фильмов/Полгода плохая погода:s:506079:e:2598-->
+  *Припев*<!--n:Песни из фильмов/Полгода плохая погода:s:553937:e:2598-->
 <!----><!--2020-09-05 13:15:42-->
 к/ф "Бандитский Петербург"  
   Город, которого нет.  
@@ -8007,7 +8574,7 @@ Ref.:   ***Em                   Am**
   Кто ответит мне, что сyдьбой дано?  
   Пyсть об этом знать на сyждено.  
   Может быть, за поpогом pастpаченных лет  
-  Я найдy этот гоpод, котоpого нет<!--n:Песни из фильмов/Бандитский Петербург. Город, которого нет:s:508774:e:2083-->
+  Я найдy этот гоpод, котоpого нет<!--n:Песни из фильмов/Бандитский Петербург. Город, которого нет:s:556632:e:2083-->
 <!----><!--2020-09-07 11:04:27-->
 К/ф "Ирония судьбы"  
   На Тихорецкую.  
@@ -8041,7 +8608,7 @@ Ref.:   ***Em                   Am**
   И только корочка в руке арбузная.  
   Ну что с девчонкою такою станется?  
   Вагончик тронется, вагончик тронется,  
-  Вагончик тронется, перрон останется.<!--n:Песни из фильмов/Ирония судьбы. На Тихорецкую:s:510990:e:2280-->
+  Вагончик тронется, перрон останется.<!--n:Песни из фильмов/Ирония судьбы. На Тихорецкую:s:558848:e:2280-->
 <!----><!--2020-09-06 19:17:48-->
 "Выше радуги"  
   Зурбаган  
@@ -8080,7 +8647,7 @@ Ref.:   ***Em                   Am**
   Бегает смешная озорная,  
   Ничего о парусе не зная.  
   
-  *Припев*<!--n:Песни из фильмов/Выше радуги. Зурбаган:s:513379:e:2705-->
+  *Припев*<!--n:Песни из фильмов/Выше радуги. Зурбаган:s:561237:e:2705-->
 <!----><!--2020-09-06 08:20:03-->
 к/ф "Живой"  
   90 суток  
@@ -8124,7 +8691,7 @@ Ref.:   ***Em                   Am**
   Девяносто суток позади.  
   За столом все вместе встанем,  \  
   Помолчим, друзей помянем,       } 2 раза  
-  Пусть земля вам пухом, пацаны! /<!--n:Песни из фильмов/Живой. 90 суток:s:516180:e:2216-->
+  Пусть земля вам пухом, пацаны! /<!--n:Песни из фильмов/Живой. 90 суток:s:564038:e:2216-->
 <!----><!--2020-09-07 04:14:39-->
 Suicide is Painless  
   *(из сереала M*A*S*H)*  
@@ -8151,7 +8718,7 @@ Suicide is Painless
   *[|----------------------------|] I'm sorry I don't know the rest.*  
   |----------------------------|  
   |----------------------------|  
-  |----------------------------|<!--n:Песни из фильмов/MASH - Suicide is Painless:s:518478:e:1320-->
+  |----------------------------|<!--n:Песни из фильмов/MASH - Suicide is Painless:s:566336:e:1320-->
 <!----><!--2020-09-07 00:47:39-->
 мультфильм "Чебурашка"  
   Голубой вагон  
@@ -8194,7 +8761,7 @@ Suicide is Painless
   Ах, зачем же этот день кончается,  
   Пусть бы он тянулся целый год!  
   
-  *Припев*<!--n:Песни из фильмов/Чебурашка. Голубой вагон:s:519881:e:2510-->
+  *Припев*<!--n:Песни из фильмов/Чебурашка. Голубой вагон:s:567739:e:2510-->
 <!----><!--2020-09-05 08:26:30-->
 Пecня o дaлeкoй poдинe  
   *(из к/ф "17 мгнoвeний вecны")*  
@@ -8243,7 +8810,7 @@ Suicide is Painless
   D---------------------------------------------------------------|  
   A---------------------------------------------------------------|  
   E---------------------------------------------------------------|]  
-  *Бeз кoммeнтapиeв.*<!--n:Песни из фильмов/Песня o дaлeкoй poдинe:s:522493:e:3364-->
+  *Бeз кoммeнтapиeв.*<!--n:Песни из фильмов/Песня o дaлeкoй poдинe:s:570351:e:3364-->
 <!----><!--2020-09-06 02:03:06-->
 К/ф "Буратино"  
   Буратино  
@@ -8326,7 +8893,7 @@ Suicide is Painless
   Cкaжитe, кaк eгo зoвyт?..  
   
   Бy - pa - ти - нo,  
-  Бypaтинo!<!--n:Песни из фильмов/Буратино. Буратино:s:525948:e:3507-->
+  Бypaтинo!<!--n:Песни из фильмов/Буратино. Буратино:s:573806:e:3507-->
 <!----><!--2020-09-05 13:06:15-->
 Билли  
   *(Из Острова Сокровищ)*  
@@ -8360,7 +8927,7 @@ Suicide is Painless
   
 (4)  Hо в том-то и дело, что он не один,        (почему не один)  
   Кто больше всех деньги на свете любил      (наш человек, наш)  
-  Боб это забыл<!--n:Песни из фильмов/Билли:s:529546:e:2673-->
+  Боб это забыл<!--n:Песни из фильмов/Билли:s:577404:e:2673-->
 <!----><!--2020-09-04 22:12:33-->
 Песня из кинофильма "Ирония судьбы или с легким паром"  
   Я спpосил у ясеня  
@@ -8397,7 +8964,7 @@ Suicide is Painless
   ***Am          E***  
 Концовка: Я спpосил у ясеня,  
   Я спpосил у тополя,  
-  Я спpосил у осени...<!--n:Песни из фильмов/Я спpосил у ясеня:s:532286:e:2608-->
+  Я спpосил у осени...<!--n:Песни из фильмов/Я спpосил у ясеня:s:580144:e:2608-->
 <!----><!--2020-09-06 12:47:30-->
 К/ф "Ирония судьбы"  
   Если  у вас нету тети.  
@@ -8441,7 +9008,7 @@ Suicide is Painless
   Если у вас нету тети,  
   Ее не отравит сосед,  
   И жена не уйдет к другому,  
-  Если у вас друга нет.<!--n:Песни из фильмов/Ирония судьбы. Если у вас нету тети:s:534981:e:2262-->
+  Если у вас друга нет.<!--n:Песни из фильмов/Ирония судьбы. Если у вас нету тети:s:582839:e:2262-->
 <!----><!--2020-09-05 21:50:48-->
 Черное и белое  
   *(К-ф ''Большая перемена'')*  
@@ -8477,7 +9044,7 @@ Suicide is Painless
 (4)  Счастье - такая трудная штука:  
   То дальнозорко, то близоруко.  
   Часто простое кажется вздорным,  
-  Черное - белым, белое - черным.<!--n:Песни из фильмов/Черное и белое:s:537363:e:1589-->
+  Черное - белым, белое - черным.<!--n:Песни из фильмов/Черное и белое:s:585221:e:1589-->
 <!----><!--2020-09-06 03:31:45-->
 Песня из К/Ф "Джентельмены удачи"  
   Песня из К/Ф "Джентельмены удачи"  
@@ -8539,7 +9106,7 @@ Suicide is Painless
   3--5------------------------------0----------------------  
   4--------------------------------------------------------  
   5--0-----------------------------------------------------  
-  6------------------------------0-------------------------<!--n:Песни из фильмов/Песня из Джентельмены удачи:s:539035:e:4096-->
+  6------------------------------0-------------------------<!--n:Песни из фильмов/Песня из Джентельмены удачи:s:586893:e:4096-->
 <!----><!--2020-09-07 00:19:09-->
 Лecнoй oлeнь  
   *из кинoфильмa "ox, уж этa нacтя"*  
@@ -8647,7 +9214,7 @@ Suicide is Painless
   
   *Припев } 2 раза*  
   
-Концовка: Умчи меня туда Лесной Олень } 3 раза<!--n:Песни из фильмов/Лесной олень:s:543239:e:5428-->
+Концовка: Умчи меня туда Лесной Олень } 3 раза<!--n:Песни из фильмов/Лесной олень:s:591097:e:5428-->
 <!----><!--2020-09-05 03:02:48-->
 ...Постой паровоз, не стучите колеса...  
   
@@ -8851,7 +9418,7 @@ Suicide is Painless
 (8)  Постой, паровоз, не стучите, колеса,  
   Есть время заглянуть судьбе в глаза.  
   Еще не поздно сделать остановку.  
-  Кондуктор, нажми на тормоза.<!--n:Песни из фильмов/Постой паровоз...:s:548747:e:11250-->
+  Кондуктор, нажми на тормоза.<!--n:Песни из фильмов/Постой паровоз...:s:596605:e:11250-->
 <!----><!--2020-09-05 09:04:54-->
 Из кинофильма "Генералы песчаных карьеров"  
   Генералы песчаных карьеров  
@@ -9002,7 +9569,7 @@ Suicide is Painless
   ***Am Dm***  
   Ох, мама, если бы найти тебя,  
   ***C E Am***  
-  была б не так горька моя судьба.<!--n:Песни из фильмов/Генералы песчаных карьеров:s:560085:e:7762-->
+  была б не так горька моя судьба.<!--n:Песни из фильмов/Генералы песчаных карьеров:s:607943:e:7762-->
 <!----><!--2020-09-06 09:55:54-->
 м/ф "Бременские музыканты"  
   Бременские музыканты.  
@@ -9053,7 +9620,7 @@ Suicide is Painless
   Мы свое призванье не забудем  
   Смех и радость мы приносим людям  
   Нам дворцов заманчивые своды  
-  Не заменят никогда свободы.<!--n:Песни из фильмов/Бременские музыканты. Бременские музыканты:s:567954:e:2926-->
+  Не заменят никогда свободы.<!--n:Песни из фильмов/Бременские музыканты. Бременские музыканты:s:615812:e:2926-->
 <!----><!--2020-09-07 09:41:03-->
 Терминатор-2  
   
@@ -9086,7 +9653,7 @@ Suicide is Painless
   3|------------------3^^^^----------------------------------------|  
   4|---------------------------------------------------------------|  
   5|---------------------------------------------------------------|  
-  6|---------------------------------------------------------------|<!--n:Песни из фильмов/Терминатор-2:s:571017:e:2055-->
+  6|---------------------------------------------------------------|<!--n:Песни из фильмов/Терминатор-2:s:618875:e:2055-->
 <!----><!--2020-09-06 08:02:12-->
 Белая берёза  
   
@@ -9123,7 +9690,7 @@ Suicide is Painless
   И кудpявым паpнем стал зеленый клен  
   И своей соседке напевал потом  
   
-  *Пpитев*<!--n:Песни из фильмов/Белая берёза:s:573151:e:1981-->
+  *Пpитев*<!--n:Песни из фильмов/Белая берёза:s:621009:e:1981-->
 <!----><!--2020-09-04 19:16:54-->
 фильм "Служебный роман"  
   Шаланды полные кефали  
@@ -9177,7 +9744,7 @@ Suicide is Painless
   Я вам не скажу за всю Одессу,  
   Вся Одесса очень велика.  
   День и ночь гуляла вся Пересыпь  
-  На веселой свадьбе моряка<!--n:Песни из фильмов/Служебный роман. Шаланды полные кефали:s:575212:e:3134-->
+  На веселой свадьбе моряка<!--n:Песни из фильмов/Служебный роман. Шаланды полные кефали:s:623070:e:3134-->
 <!----><!--2020-09-06 19:46:54-->
 Чебурашка  
   Песенка Чебурашки  
@@ -9194,7 +9761,7 @@ Suicide is Painless
 (2)  Мне не везло сначала, и даже так бывало:  
   Ко мне на день рожденья никто не приходил.  
   Теперь я вместе с Геной, он необыкновенный,  
-  Он самый лучший в мире крокодил.<!--n:Песни из фильмов/Чебурашка. Песенка Чебурашки:s:578474:e:1283-->
+  Он самый лучший в мире крокодил.<!--n:Песни из фильмов/Чебурашка. Песенка Чебурашки:s:626332:e:1283-->
 <!----><!--2020-09-07 01:43:09-->
 к/ф "Человек с бульвара Капуцинов"  
   Что будет, то будет  
@@ -9251,7 +9818,7 @@ Suicide is Painless
   
   ***A6 [X42252]***  
   ***A(II) [542225]***  
-  ***Aaug [X03221]***<!--n:Песни из фильмов/Человек с бульвара Капуцинов. Что будет, то будет:s:579867:e:2891-->
+  ***Aaug [X03221]***<!--n:Песни из фильмов/Человек с бульвара Капуцинов. Что будет, то будет:s:627725:e:2891-->
 <!----><!--2020-09-07 09:34:18-->
 Старый вальс  
   
@@ -9280,7 +9847,7 @@ Suicide is Painless
   Поднимает фонарь - медную луну.  
   Пусть загремит и ударит в ночь  
   Телефона очередь.  
-  Я в апрель ухожу в синюю весну.<!--n:Песни из фильмов/Старый вальс:s:582904:e:1679-->
+  Я в апрель ухожу в синюю весну.<!--n:Песни из фильмов/Старый вальс:s:630762:e:1679-->
 <!----><!--2020-09-07 00:32:21-->
 к/ф Моя любовь на 3 курсе  
   КАК МОЛОДЫ МЫ БЫЛИ  
@@ -9315,7 +9882,7 @@ Suicide is Painless
   В небесах отгорели зарницы,  
   И в сердцах утихает гроза.  
   Не забыть нам любимые лица,  
-  Не забыть нам родные глаза...<!--n:Песни из фильмов/Моя любовь на 3 курсе. Как молоды мы были:s:584663:e:1823-->
+  Не забыть нам родные глаза...<!--n:Песни из фильмов/Моя любовь на 3 курсе. Как молоды мы были:s:632521:e:1823-->
 <!----><!--2020-09-05 09:24:15-->
 Есть только миг  
   
@@ -9341,7 +9908,7 @@ Suicide is Painless
 (4)  Счастье дано повстречать да беду еще  
   Есть только миг - за него и держись.  
   Есть только миг между прошлым и будущим.  
-  Именно он называется жизнь.<!--n:Песни из фильмов/Есть только миг:s:586615:e:1930-->
+  Именно он называется жизнь.<!--n:Песни из фильмов/Есть только миг:s:634473:e:1930-->
 <!----><!--2020-09-06 00:24:42-->
 Hежность  
   *А. Пахмутова*  
@@ -9449,7 +10016,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   ***C                       Am***  
   До свиданья, милый друг, шаляй валяй.  
   Ты уходишь как-то вдруг, шаляй валяй.  
-  ***F B***<!--n:Песни из фильмов/Нежность:s:588630:e:6118-->
+  ***F B***<!--n:Песни из фильмов/Нежность:s:636488:e:6118-->
 <!----><!--2020-09-06 08:15:51-->
 мультфильм "приключения фунтика"  
   Песенка Фунтика  
@@ -9486,7 +10053,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   С красным шариком на ниточке  
   И с улыбкой до ушей.  
   
-  *Припев*<!--n:Песни из фильмов/Песенка Фунтика:s:594821:e:1772-->
+  *Припев*<!--n:Песни из фильмов/Песенка Фунтика:s:642679:e:1772-->
 <!----><!--2020-09-07 00:27:24-->
 к/ф "Перекресток"  
   перекресток  
@@ -9537,7 +10104,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Все мне кажется, я опять на тебе стою.  
   Все мне кажется, я опять на тебе стою.  
   Все мне кажется, я опять на тебе стою.  
-  Все мне кажется, я опять на тебе стою.<!--n:Песни из фильмов/Перекресток. Перекресток:s:596679:e:3639-->
+  Все мне кажется, я опять на тебе стою.<!--n:Песни из фильмов/Перекресток. Перекресток:s:644537:e:3639-->
 <!----><!--2020-09-07 09:57:33-->
 Собака бывает кусачей  
   
@@ -9591,7 +10158,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Опасны особенно полночью темной.  
   Вот самый огромный, вот самый собачий, огромный собачий секрет!  
   
-  *Припев*<!--n:Песни из фильмов/Собака бывает кусачей:s:600421:e:4087-->
+  *Припев*<!--n:Песни из фильмов/Собака бывает кусачей:s:648279:e:4087-->
 <!----><!--2020-09-05 13:43:18-->
 телефильм "Большая перемена" режиссер А.Коренев  
   Черное и белое  
@@ -9690,7 +10257,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   ***C                       Am***  
   До свиданья, милый друг, шаляй валяй.  
   Ты уходишь как-то вдруг, шаляй валяй.  
-  ***F***<!--n:Песни из фильмов/Большая перемена. Черное и белое:s:604605:e:4970-->
+  ***F***<!--n:Песни из фильмов/Большая перемена. Черное и белое:s:652463:e:4970-->
 <!----><!--2020-09-07 04:08:03-->
 Песенка Зайца и Волка на карнавале  
   
@@ -9713,7 +10280,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
 (2)  Ждет мои подарочки ребятня.  
   И тебе достанется от меня.  
   Hаконец сбываются все мечты.  
-  Лучший подарочек - это ты!<!--n:Песни из фильмов/Песенка Зайца и Волка на карнавале:s:609691:e:1453-->
+  Лучший подарочек - это ты!<!--n:Песни из фильмов/Песенка Зайца и Волка на карнавале:s:657549:e:1453-->
 <!----><!--2020-09-07 00:50:03-->
 "Дуэт Эмиля и Эмилии"  
   
@@ -9739,7 +10306,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
     ***Dm7    G7   C       F     Dm7       G7              E7***  
   - Как приятно    и забавно,    что я очень нравлюсь Вам!  
     ***Dm7    G7    C      B     Am         H7   E7           Am***  
-  - Ну, а Вы мне - и подавно.   Вот и славно.    Трам-пам-пам.<!--n:Песни из фильмов/Дуэт Эмиля и Эмилии:s:611264:e:2235-->
+  - Ну, а Вы мне - и подавно.   Вот и славно.    Трам-пам-пам.<!--n:Песни из фильмов/Дуэт Эмиля и Эмилии:s:659122:e:2235-->
 <!----><!--2020-09-07 10:29:39-->
 Пeceнкa o кaпитaнe  
   *И. Дyнaeвcкий/В. Лeбeдeв-Кyмaч*  
@@ -9788,7 +10355,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   ***A7  D    A7  D7       G6***  
   Кaпитaн, кaпитaн, пoдтянитecь,  
   ***Em     D      H7 Em  A7    D***  
-  Тoлькo cмeлым пoкopяютcя мopя.<!--n:Песни из фильмов/Песенка о капитaнe:s:613591:e:2982-->
+  Тoлькo cмeлым пoкopяютcя мopя.<!--n:Песни из фильмов/Песенка о капитaнe:s:661449:e:2982-->
 <!----><!--2020-09-07 00:08:57-->
 к/ф "Три мушкетера"  
   Три мушкетера. Поpа-поpа-поpадуемся на своем веку.  
@@ -9881,7 +10448,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Нужны Парижу деньги, се ля ви  
   А рыцари ему нужны тем паче  
   Но что такое рыцарь без любви  
-  И что такое рыцарь без удачи<!--n:Песни из фильмов/Три мушкетера. Поpа-поpа-поpадуемся на своем веку.:s:616662:e:5230-->
+  И что такое рыцарь без удачи<!--n:Песни из фильмов/Три мушкетера. Поpа-поpа-поpадуемся на своем веку.:s:664520:e:5230-->
 <!----><!--2020-09-05 14:03:33-->
 Мгновения  
   *(к-ф 17 мгновений весны)*  
@@ -9922,7 +10489,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Не думай о секундах свысока.  
   Наступит время, сам поймешь, наверное,  
   Свистят они, как пули у виска,  
-  Мгновения, мгновения, мгновения.<!--n:Песни из фильмов/Мгновения:s:622037:e:2673-->
+  Мгновения, мгновения, мгновения.<!--n:Песни из фильмов/Мгновения:s:669895:e:2673-->
 <!----><!--2020-09-04 19:58:00-->
 Песня Матроскина  
   
@@ -9942,7 +10509,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
         ***Dm     Dm       Am***  
   Hи соседям, ни дpyзьям - никомy  
    ***E      Am  E      Am***  
-  Hе yзнать меня, не yзнать меня.<!--n:Песни из фильмов/Песня Матроскина:s:624785:e:1090-->
+  Hе yзнать меня, не yзнать меня.<!--n:Песни из фильмов/Песня Матроскина:s:672643:e:1090-->
 <!----><!--2020-09-07 01:47:57-->
 К/ф "Мэри Попинс, до свидания"  
   Жил да был бpадобpей  
@@ -9989,7 +10556,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Сьел беднягу словно пудинг  
   Сьел со всем инвентарем  
   
-  *Припев*<!--n:Песни из фильмов/Мэри Попинс, до свидания. Жил да был бpадобpей:s:625963:e:2601-->
+  *Припев*<!--n:Песни из фильмов/Мэри Попинс, до свидания. Жил да был бpадобpей:s:673821:e:2601-->
 <!----><!--2020-09-06 08:45:33-->
 к/ф "Сорочинская Ярмарка"  
   Нормально  
@@ -10058,7 +10625,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Не надо!  
   Еще один разок и все будет хорошо  
   
-  Ладно, давай еще разок...<!--n:Песни из фильмов/Сорочинская Ярмарка. Нормально:s:628702:e:4115-->
+  Ладно, давай еще разок...<!--n:Песни из фильмов/Сорочинская Ярмарка. Нормально:s:676560:e:4115-->
 <!----><!--2020-09-05 11:40:00-->
 к/ф "Перекресток"  
   По назначенью  
@@ -10103,7 +10670,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   По назначенью, по назначенью  
   По назначенью, по назначенью  
   По назначенью, по назначенью  
-  По назначенью, по назначенью...<!--n:Песни из фильмов/Перекресток. По назначенью:s:632931:e:2876-->
+  По назначенью, по назначенью...<!--n:Песни из фильмов/Перекресток. По назначенью:s:680789:e:2876-->
 <!----><!--2020-09-04 19:06:33-->
 Тема из к/ф Индиана Джонс  
   
@@ -10126,7 +10693,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   |----------3-3-3---3-3-3---------1-1-1---1-1-1--------0-------------|  
   |---2-------------------------------------------------0-------------|  
   |-----------------------------------------------------X-------------|  
-  |--1----1-1-0-3---1-3---------------------------------------------0-|<!--n:Песни из фильмов/Индиана Джонс:s:635913:e:1502-->
+  |--1----1-1-0-3---1-3---------------------------------------------0-|<!--n:Песни из фильмов/Индиана Джонс:s:683771:e:1502-->
 <!----><!--2020-09-07 00:44:57-->
 Мультфильм "Чебурашка"  
   Песенка крокодила гены  
@@ -10162,7 +10729,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   И, наверно, оставит  
   Мне в подарок пятьсот "эскимо".  
   
-  *Припев*<!--n:Песни из фильмов/Чебурашка. Песенка крокодила гены:s:637497:e:1817-->
+  *Припев*<!--n:Песни из фильмов/Чебурашка. Песенка крокодила гены:s:685355:e:1817-->
 <!----><!--2020-09-05 09:28:27-->
 м/ф "Бременские музыканты"  
   Бременские музыканты. Песня разбойников  
@@ -10193,7 +10760,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Прохожих ищем с ночи до утра.  
   Ну от чего не любят недотроги  
   Работников ножа и топора -  
-  Романтиков с большой дороги.<!--n:Песни из фильмов/Бременские музыканты. Песня разбойников:s:639433:e:1920-->
+  Романтиков с большой дороги.<!--n:Песни из фильмов/Бременские музыканты. Песня разбойников:s:687291:e:1920-->
 <!----><!--2020-09-06 12:30:33-->
 к.ф. Resident Evil  
   Main theme из к.ф. Resident Evil  
@@ -10203,7 +10770,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   3: ---10---10--------10~---11---11--11---13-10---  
   4: --------------------------13---13-------------  
   5: ----------------------------------------------  
-  6: ----------------------------------------------<!--n:Песни из фильмов/Resident Evil:s:641484:e:478-->
+  6: ----------------------------------------------<!--n:Песни из фильмов/Resident Evil:s:689342:e:478-->
 <!----><!--2020-09-06 12:58:27-->
 Где то на белом свете  
   
@@ -10272,7 +10839,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
 (3)  В след за весенним ливнем раньше придет рассвет  
   И для двоих счастливых много много лет  
   Будут сверкать зарницы, будут ручьи звенеть,  
-  Будет туман кубится, белый как медведь<!--n:Песни из фильмов/Где то на белом свете:s:642031:e:4454-->
+  Будет туман кубится, белый как медведь<!--n:Песни из фильмов/Где то на белом свете:s:689889:e:4454-->
 <!----><!--2020-09-07 00:59:21-->
 К/ф "Ирония судьбы"  
   Мне нравится.  
@@ -10313,7 +10880,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
      ***Am           Dm                 E7***  
   За то, что Вы - увы! - больны не мной,  
      ***Am           Dm                E7***  
-  За то, что я - увы! - больна не вами.<!--n:Песни из фильмов/Ирония судьбы. Мне нравится:s:646580:e:2832-->
+  За то, что я - увы! - больна не вами.<!--n:Песни из фильмов/Ирония судьбы. Мне нравится:s:694438:e:2832-->
 <!----><!--2020-09-07 05:54:42-->
 Я Милого узнаю по походке  
   
@@ -10347,7 +10914,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   А шляпу он носит на панаму,  
   Ботиночки он носит нариман, эх со скрипом ботиночки.  
   А шляпу он носит на панаму,  
-  Ботиночки он носит нариман.<!--n:Песни из фильмов/Я Милого узнаю по походке:s:649519:e:2288-->
+  Ботиночки он носит нариман.<!--n:Песни из фильмов/Я Милого узнаю по походке:s:697377:e:2288-->
 <!----><!--2020-09-06 07:58:45-->
 Голубой вагон.  
   *Сл. Э. Успенского   Муз. В. Шаинского*  
@@ -10386,7 +10953,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
 (3)  Голубой вагон бежит, кочается,  
   Скорый поезд набирает ход...  
   Ах, зачем же этот день кончается,  
-  Пусть бы он тянулся целый год!<!--n:Песни из фильмов/Голубой вагон:s:651910:e:2112-->
+  Пусть бы он тянулся целый год!<!--n:Песни из фильмов/Голубой вагон:s:699768:e:2112-->
 <!----><!--2020-09-07 06:13:09-->
 к/ф "Гардемарины, вперед!"  
   Дороги любви.  
@@ -10509,7 +11076,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   что неправильно.  
   2. Часто возникает путаница с тем, какие  
   аккорды играть, когда вторая половина куплета  
-  поется первый раз, и какие - во второй.<!--n:Песни из фильмов/Гардемарины, вперед. Дороги любви:s:654104:e:6767-->
+  поется первый раз, и какие - во второй.<!--n:Песни из фильмов/Гардемарины, вперед. Дороги любви:s:701962:e:6767-->
 <!----><!--2020-09-06 19:03:15-->
 кинофильм "За облаками - небо"  
   
@@ -10545,7 +11112,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Грустную землю не меряй шагами.  
   Знай, что сердце мое ты отыщешь всегда  
   Там, за облаками...  
-  Там, там-та-рам, там-та-рам...<!--n:Песни из фильмов/За облаками - небо. Там, за облаками:s:660989:e:2156-->
+  Там, там-та-рам, там-та-рам...<!--n:Песни из фильмов/За облаками - небо. Там, за облаками:s:708847:e:2156-->
 <!----><!--2020-09-07 10:26:12-->
 к/ф "Три мушкетера"  
   Когда твой друг в крови.  
@@ -10635,7 +11202,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Но наглецы не спасены,  
   Недолго спрятать в ножны сталь,  
   Недолго спрятать в ножны сталь,  
-  Но гордый нрав не спрячешь в ножны.<!--n:Песни из фильмов/Три мушкетера.Когда твой друг в крови:s:663265:e:4926-->
+  Но гордый нрав не спрячешь в ножны.<!--n:Песни из фильмов/Три мушкетера.Когда твой друг в крови:s:711123:e:4926-->
 <!----><!--2020-09-05 08:39:06-->
 Прекрасное далеко  
   
@@ -10716,7 +11283,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
       ***Dm                          E***  
   А сегодня что для завтра сделая я  
   
-  *Припев последнюю строку 4 раза*<!--n:Песни из фильмов/Прекрасное далеко:s:668316:e:4577-->
+  *Припев последнюю строку 4 раза*<!--n:Песни из фильмов/Прекрасное далеко:s:716174:e:4577-->
 <!----><!--2020-09-07 01:45:33-->
 Четыре окна  
   
@@ -10749,7 +11316,7 @@ Intro:  ***Dm Dm/F Gm6 Gm6/E Dm A7***
   Отжени от меня суетливые дни  
   Отжени ангел мой отжени!  
   
-  *Припев*<!--n:Песни из фильмов/Четыре окна:s:672983:e:1970-->
+  *Припев*<!--n:Песни из фильмов/Четыре окна:s:720841:e:1970-->
 <!----><!--2020-09-07 10:59:12-->
 "Desperado The Soundtrack"  
   Саундтрек к фильму Desperados  
@@ -10930,7 +11497,7 @@ Chrous:  Ay, ay, ay, ay
   *in a few words. When playing the song we've found it works best if you have*  
   *you lead player play the chords as bar chords while you rhythum player strums*  
   *the chords backing your lead. Alot of E-Mail messages went into the making of*  
-  *this tab file, hope you enjoy it. Ah, ah!! Bruno, mahalo and bring you guitar.*<!--n:Песни из фильмов/Desperados - Саундтрек:s:675031:e:11206-->
+  *this tab file, hope you enjoy it. Ah, ah!! Bruno, mahalo and bring you guitar.*<!--n:Песни из фильмов/Desperados - Саундтрек:s:722889:e:11206-->
 <!----><!--2020-09-06 08:20:21-->
 Парни из стали  
   
@@ -10971,7 +11538,7 @@ Chrous:  Ay, ay, ay, ay
   Когда-то ребята, мы старыми станем  
   В больших, и седых превратимся мужчин  
   И вспомним с улыбкой, себя пацанами,  
-  И тренера Батю, что жизни учил<!--n:Песни из фильмов/Парни из стали:s:686326:e:1766-->
+  И тренера Батю, что жизни учил<!--n:Песни из фильмов/Парни из стали:s:734184:e:1766-->
 <!----><!--2020-09-06 01:13:27-->
 к/ф "Кавказская пленница"  
   Песенка о медведях  
@@ -11016,7 +11583,7 @@ Chrous:  Ay, ay, ay, ay
   Будет туман клубиться,  
   Белый, как медведь  
   
-  *Припев*<!--n:Песни из фильмов/Кавказская пленница. Песенка о медведях:s:688175:e:2063-->
+  *Припев*<!--n:Песни из фильмов/Кавказская пленница. Песенка о медведях:s:736033:e:2063-->
 <!----><!--2020-09-04 20:14:12-->
 Taxi 2  
   
@@ -11041,7 +11608,7 @@ Taxi 2
   g----------------------2---2---2---2---2---2----------------  
   D----------------------2---0---2---0---2---0----------------  
   A----------------------0---0---0---0---0---0----------------  
-  E----------------------0---0---0---0---0---0----------------]<!--n:Песни из фильмов/Taxi 2:s:690368:e:1572-->
+  E----------------------0---0---0---0---0---0----------------]<!--n:Песни из фильмов/Taxi 2:s:738226:e:1572-->
 <!----><!--2020-09-06 19:26:12-->
 м/ф "Бременские музыканты"  
   Бременские музыканты  
@@ -11071,7 +11638,7 @@ Taxi 2
   А мы всегда идем ему вослед  
   Величество доллжны мы уберечь  
   От всяческих ему не нужных встреч.  
-  Ох, рано встает охрана!<!--n:Песни из фильмов/Бременские музыканты. Королевская охрана:s:692003:e:1771-->
+  Ох, рано встает охрана!<!--n:Песни из фильмов/Бременские музыканты. Королевская охрана:s:739861:e:1771-->
 <!----><!--2020-09-05 21:48:15-->
 Кoлыбeльнaя из тeлeпepeдaчи Cпoкoйнoй нoчи, мaлыши  
   
@@ -11110,7 +11677,7 @@ Taxi 2
   Тoлькo б нe плaкaл, мaлыш!  
   Пycть бы тaк былo вce дни!  
   Cпи, мoя paдocть, ycни!  
-  Уcни, ycни!<!--n:Песни из фильмов/Спокойной ночи, малыши:s:693907:e:1852-->
+  Уcни, ycни!<!--n:Песни из фильмов/Спокойной ночи, малыши:s:741765:e:1852-->
 <!----><!--2020-09-07 09:37:00-->
 К/ф "Буратино"  
   Какое небо голубое...  
@@ -11158,7 +11725,7 @@ Taxi 2
   Мы не сторонники разбоя:  
   На дурака не нужен нож,-  
   Ему с три короба наврешь  
-  И делай с ним, что хошь!<!--n:Песни из фильмов/Буратино. Какое небо голубое...:s:695857:e:2753-->
+  И делай с ним, что хошь!<!--n:Песни из фильмов/Буратино. Какое небо голубое...:s:743715:e:2753-->
 <!----><!--2020-09-05 12:38:30-->
 Уральская рябина  
   
@@ -11198,7 +11765,7 @@ Taxi 2
 (5)  Кто из них желаннее, руку сжать кому  
   Сердцем растревожанным так и не пойму  
   Хоть ни в чем не схожие, оба хороши  
-  Милая рябинушка сердцу подскажи<!--n:Песни из фильмов/Уральская рябина:s:698722:e:2583-->
+  Милая рябинушка сердцу подскажи<!--n:Песни из фильмов/Уральская рябина:s:746580:e:2583-->
 <!----><!--2020-09-07 11:17:21-->
 Ваше благородие...  
   
@@ -11284,7 +11851,7 @@ Taxi 2
 (4)  Ваше благоpодие, госпожа Победа!  
   Значит, моя песенка до конца не спета.  
   Пеpестаньте, чеpти, клясться на кpови!   \  
-  Hе везет мне в смеpти - повезет в любви. / 2 раза<!--n:Песни из фильмов/Ваше благородие...:s:701393:e:5442-->
+  Hе везет мне в смеpти - повезет в любви. / 2 раза<!--n:Песни из фильмов/Ваше благородие...:s:749251:e:5442-->
 <!----><!--2020-09-07 06:03:51-->
 Пecня paзбoйникoв  
   
@@ -11334,7 +11901,7 @@ Taxi 2
 (3)  Королева карта бита, бит и весь её отряд  
   Дело будет шито крыто, карты правду говорят  
   Ой-ля-ля, ой-ля-ля, карты правду говорят,  
-  Ой-ля-ля, ой-ля-ля, Ех-ха!<!--n:Песни из фильмов/Песня разбoйникoв:s:706924:e:2983-->
+  Ой-ля-ля, ой-ля-ля, Ех-ха!<!--n:Песни из фильмов/Песня разбoйникoв:s:754782:e:2983-->
 <!----><!--2020-09-06 08:35:39-->
 Xopoшo бpoдить пo cвeтy...  
   
@@ -11363,7 +11930,7 @@ Xopoшo бpoдить пo cвeтy...
   
   *Пpипeв } 2 paзa*  
   
-  *Нaдeюcь вaм пoнpaвитcя!!!*<!--n:Песни из фильмов/Хopoшo бpoдить пo cвeтy:s:709995:e:1250-->
+  *Нaдeюcь вaм пoнpaвитcя!!!*<!--n:Песни из фильмов/Хopoшo бpoдить пo cвeтy:s:757853:e:1250-->
 <!----><!--2020-09-06 19:12:33-->
 X-Files theme  
   
@@ -11379,7 +11946,7 @@ X-Files theme
   -----------------9~~~-------------------9~~~------------------------||  
   --------------------------------------------------------------------||  
   --------------------------------------------------------------------||  
-  --------------------------------------------------------------------||]<!--n:Песни из фильмов/X-Files theme:s:711335:e:1013-->
+  --------------------------------------------------------------------||]<!--n:Песни из фильмов/X-Files theme:s:759193:e:1013-->
 <!----><!--2020-09-07 05:34:00-->
 кинофильм "Соломенная шляпка"  
   Женюсь  
@@ -11396,7 +11963,7 @@ X-Files theme
   
   ***Am                 Dm      G              C***  
 Припев:  Hе плачьте, сеpдце pаня, смахните слезы с глаз,  
-  ***Dm  G             C***<!--n:Песни из фильмов/Соломенная шляпка.Женюсь:s:712418:e:1241-->
+  ***Dm  G             C***<!--n:Песни из фильмов/Соломенная шляпка.Женюсь:s:760276:e:1241-->
 <!----><!--2020-09-05 12:05:21-->
 Домбайский Вальс  
   
@@ -11417,7 +11984,7 @@ X-Files theme
 (3)  Что ж ты стоишь на тропе, что ж ты не хочешь идти?  
   Нам надо песню допеть, нам надо меньше грустить.  
   Снизу кричат поезда, правда, кончается март,  
-  Ранняя всходит звезда, где-то лавины шумят.<!--n:Песни из фильмов/Домбайский Вальс:s:713762:e:1884-->
+  Ранняя всходит звезда, где-то лавины шумят.<!--n:Песни из фильмов/Домбайский Вальс:s:761620:e:1884-->
 <!----><!--2020-09-07 09:36:24-->
 My Heart Will Go On  
   
@@ -11474,7 +12041,7 @@ My Heart Will Go On
   И я знаю, что сердце мое никогда не пеерстанет биться  
   Так будет всегда  
   Ты живешь в моем сердце  
-  И оно никогда не остановится.<!--n:Песни из фильмов/My Heart Will Go On:s:715734:e:3111-->
+  И оно никогда не остановится.<!--n:Песни из фильмов/My Heart Will Go On:s:763592:e:3111-->
 <!----><!--2020-09-05 12:00:42-->
 к/ф "Белый город"  
   Сюжет  
@@ -11515,7 +12082,7 @@ My Heart Will Go On
   
   *Комментарий автора подбора к песне:*  
   ***Dm***, ***Am***, ***C***, ***Bm*** быстро обыгрываются. Пример ***Am***:*  
-  *[x02210] -&gt; [x02200] -&gt; [x02230] -&gt; [x02210]*<!--n:Песни из фильмов/Белый город. Сюжет:s:718921:e:2507-->
+  *[x02210] -&gt; [x02200] -&gt; [x02230] -&gt; [x02210]*<!--n:Песни из фильмов/Белый город. Сюжет:s:766779:e:2507-->
 <!----><!--2020-09-06 08:08:03-->
 Диалог y новогодней елки.  
   *Сл. Ю. Левитанского*  
@@ -11569,7 +12136,7 @@ My Heart Will Go On
   -Месяц сеpебpяный, шаp со свечою внyтpи,  
    И каpнавальные маски - по кpyгy, по кpyгy!  
    Вальс начинается. дайте ж, сyдаpыня, pyкy,  
-   И, pаз-два-тpи, pаз-два-тpи, pаз-два-тpи... Раз-два-тpи!..<!--n:Песни из фильмов/Диалог y новогодней елки:s:721518:e:4725-->
+   И, pаз-два-тpи, pаз-два-тpи, pаз-два-тpи... Раз-два-тpи!..<!--n:Песни из фильмов/Диалог y новогодней елки:s:769376:e:4725-->
 <!----><!--2020-09-05 11:42:51-->
 к/ф "перекресток"  
   Отпyсти меня  
@@ -11615,7 +12182,7 @@ My Heart Will Go On
   Hо повеpь нам обоим бyдет лyчше в pазлyке  
   Доpогая, лyчше отпyсти меня!  
   Моя pодная, отпyсти меня  
-  Доpогая, ты слышишь, отпyсти меня!<!--n:Песни из фильмов/Перекресток. Отпyсти меня:s:726344:e:2791-->
+  Доpогая, ты слышишь, отпyсти меня!<!--n:Песни из фильмов/Перекресток. Отпyсти меня:s:774202:e:2791-->
 <!----><!--2020-09-06 03:43:36-->
 Качели  
   *сл. Ю. Энтина*  
@@ -11673,7 +12240,7 @@ My Heart Will Go On
   Позабыто все на свете,  
   Сердце замерло в груди  
   Только небо, только ветер,  
-  Только радость впереди.<!--n:Песни из фильмов/Качели:s:729238:e:2657-->
+  Только радость впереди.<!--n:Песни из фильмов/Качели:s:777096:e:2657-->
 <!----><!--2020-09-07 10:51:06-->
 Тема из КФ Джентельмены удачи  
   
@@ -11785,7 +12352,7 @@ My Heart Will Go On
   3|--5------------------------------0----------------------  
   4|--------------------------------------------------------  
   5|--0-----------------------------------------------------  
-  6|------------------------------0-------------------------<!--n:Песни из фильмов/Джентельмены удачи:s:731964:e:6798-->
+  6|------------------------------0-------------------------<!--n:Песни из фильмов/Джентельмены удачи:s:779822:e:6798-->
 <!----><!--2020-09-07 05:01:27-->
 Смуглянка  
   *(В бой идут одни старики)*  
@@ -11847,7 +12414,7 @@ My Heart Will Go On
 Припев:  Раскудрявый, клен зеленый, лист резной,  
   Здравствуй, парень, мой хороший, мой родной!  
   Клен зеленый, да клен кудрявый,  
-  Да раскудрявый, резной!<!--n:Песни из фильмов/Смуглянка:s:738854:e:3366-->
+  Да раскудрявый, резной!<!--n:Песни из фильмов/Смуглянка:s:786712:e:3366-->
 <!----><!--2020-09-05 11:52:09-->
 Сериал "Зона"  
   Одинокая  
@@ -11897,7 +12464,7 @@ My Heart Will Go On
   Я с тобой всегда, я верная подруга  
   С именем Тоска, с фамилией Разлука,  
   Ну а хочешь, ты зови меня по отчеству  
-  Так проще будет: - «Слушай, Одиночество…».<!--n:Песни из фильмов/Зона. Одинокая:s:742295:e:3863-->
+  Так проще будет: - «Слушай, Одиночество…».<!--n:Песни из фильмов/Зона. Одинокая:s:790153:e:3863-->
 <!----><!--2020-09-06 13:54:42-->
 Три мушкетера  
   Друзья  
@@ -11942,7 +12509,7 @@ My Heart Will Go On
   Но наглецы не сносны,  
   Недолго спрятать в ножны сталь,  
   Недолго спрятать в ножны сталь,  
-  Но гордый нрав не спрячешь в ножны.<!--n:Песни из фильмов/Три мушкетера. Друзья:s:746241:e:1915-->
+  Но гордый нрав не спрячешь в ножны.<!--n:Песни из фильмов/Три мушкетера. Друзья:s:794099:e:1915-->
 <!----><!--2020-09-05 14:40:36-->
 Про Чебурашку  
   
@@ -12011,7 +12578,7 @@ My Heart Will Go On
   1|-0------------|  
   
   *Дальше слов я не знаю, чето про Гену,*  
-  *но все дальше играется в том же темпе.*<!--n:Песни из фильмов/Про Чебурашку:s:748252:e:2904-->
+  *но все дальше играется в том же темпе.*<!--n:Песни из фильмов/Про Чебурашку:s:796110:e:2904-->
 <!----><!--2020-09-07 11:13:45-->
 из кинофильма "Гусарская баллада"  
   Давным-давно  
@@ -12075,7 +12642,7 @@ My Heart Will Go On
   И если враг в слепой надежде  
   Русь покорить, Русь покорить сберется вновь,  
   Его погоним, как и прежде, -  
-  Давным-давно, давным-давно, давным-давно.<!--n:Песни из фильмов/Гусарская баллада. Давным-давно:s:751238:e:4169-->
+  Давным-давно, давным-давно, давным-давно.<!--n:Песни из фильмов/Гусарская баллада. Давным-давно:s:799096:e:4169-->
 <!----><!--2020-09-07 11:50:30-->
 фильм "12 стульев"  
   12 стульев. Ширли.  
@@ -12095,7 +12662,7 @@ My Heart Will Go On
   Больше всех гуляем и хохочем  
   Счет за все уплачен, между прочим  
   И теперь мы делаем, что хочем  
-  День и ночь.<!--n:Песни из фильмов/12 стульев. Ширли:s:755522:e:1112-->
+  День и ночь.<!--n:Песни из фильмов/12 стульев. Ширли:s:803380:e:1112-->
 <!----><!--2020-09-06 18:31:45-->
 м/ф "Бременские музыканты"  
   Бременские музыканты. Солнце взойдет  
@@ -12139,7 +12706,7 @@ My Heart Will Go On
 (2)  Петь птицы перестали, свет звёзд коснулся крыш.  
   В час грусти и печали, ты голос мой услышь.  
   
-  *Припев*<!--n:Песни из фильмов/Бременские музыканты. Солнце взойдет:s:756720:e:2830-->
+  *Припев*<!--n:Песни из фильмов/Бременские музыканты. Солнце взойдет:s:804578:e:2830-->
 <!----><!--2020-09-05 03:03:42-->
 кинофильм "Освобождение", реж. Ю.Озеров  
   Последний бой.  
@@ -12179,7 +12746,7 @@ My Heart Will Go On
   А за нее и умереть совсем не страшно,  
   Хоть каждый все- таки надеется дожить.  
   
-  *Припев*<!--n:Песни из фильмов/Освобождение. Последний бой:s:759675:e:2690-->
+  *Припев*<!--n:Песни из фильмов/Освобождение. Последний бой:s:807533:e:2690-->
 <!----><!--2020-09-05 03:32:30-->
 К/ф "Гардемарины, вперед"  
   По воле pока  
@@ -12219,7 +12786,7 @@ My Heart Will Go On
   За долгий взгляд короткой встречи  
   Аx это право не цена!  
   
-  *Припев*<!--n:Песни из фильмов/Гардемарины, вперед. По воле pока:s:762473:e:2297-->
+  *Припев*<!--n:Песни из фильмов/Гардемарины, вперед. По воле pока:s:810331:e:2297-->
 <!----><!--2020-09-05 03:06:42-->
 Песенка про улыбку  
   
@@ -12265,7 +12832,7 @@ My Heart Will Go On
   Так пускай повсюду на земле,  
   Будто лампочки, включаются улыбки!  
   
-  *Пpипев*<!--n:Песни из фильмов/Песенка про улыбку:s:764886:e:2525-->
+  *Пpипев*<!--n:Песни из фильмов/Песенка про улыбку:s:812744:e:2525-->
 <!----><!--2020-09-04 19:57:33-->
 Не вешать нос, гардемарины  
   
@@ -12348,11 +12915,11 @@ My Heart Will Go On
   За долгий взгляд короткой встречей,  
   Ах, это, право, не цена.  
   
-  *Припев*<!--n:Песни из фильмов/Не вешать нос, гардемарины:s:767502:e:4755-->
+  *Припев*<!--n:Песни из фильмов/Не вешать нос, гардемарины:s:815360:e:4755-->
 <!----><!--2020-09-06 20:20:48-->
 James Bond Theme  
   
-  [E |-5-x7777-5555-888888x777------------]<!--n:Песни из фильмов/James Bond Theme:s:772362:e:111-->
+  [E |-5-x7777-5555-888888x777------------]<!--n:Песни из фильмов/James Bond Theme:s:820220:e:111-->
 <!----><!--2020-09-06 01:46:27-->
 Три мушкетера  
   Смерть Констанции  
@@ -12385,7 +12952,7 @@ James Bond Theme
   Стoю cpeди дpузeй я кaк в пуcтынe,  
   И чтo мнe oт любви ocтaлocь нынe - тoлькo имя...  
   
-Припев:  Констанция... Констанция... Констанция....<!--n:Песни из фильмов/Три мушкетера. Смерть Констанции:s:772545:e:2039-->
+Припев:  Констанция... Констанция... Констанция....<!--n:Песни из фильмов/Три мушкетера. Смерть Констанции:s:820403:e:2039-->
 <!----><!--2020-09-05 09:56:48-->
 В день, когда исполнилось...  
   
@@ -12419,7 +12986,7 @@ James Bond Theme
   Лишь любовь безгрешная, лишь родная мать,  
   Может так застенчиво и так свято лгать.  
   
-  *Припев*<!--n:Песни из фильмов/В день, когда исполнилось...:s:774701:e:2247-->
+  *Припев*<!--n:Песни из фильмов/В день, когда исполнилось...:s:822559:e:2247-->
 <!----><!--2020-09-06 20:23:12-->
 из телефильма "Московские окна"  
   Московские окна  
@@ -12471,7 +13038,7 @@ James Bond Theme
   
   Он мне дорог с давних лет,  
   И его яснее нет -  
-  Московских окон негасимый свет.<!--n:Песни из фильмов/Московские окна:s:777054:e:2753-->
+  Московских окон негасимый свет.<!--n:Песни из фильмов/Московские окна:s:824912:e:2753-->
 <!----><!--2020-09-05 12:57:15-->
 Mortal Combat  
   
@@ -12529,7 +13096,7 @@ Mortal Combat
   G---------------------------------------------------------------|  
   D------------------------------0-1-1--0-1-1--0-1-1--0-1-1-------|  
   A---------------------------------------------------------------|  
-  E---------------------------------------------------------------|]<!--n:Песни из фильмов/Mortal Combat:s:779893:e:3770-->
+  E---------------------------------------------------------------|]<!--n:Песни из фильмов/Mortal Combat:s:827751:e:3770-->
 <!----><!--2020-09-07 05:06:15-->
 Прощание славянки  
   
@@ -12556,7 +13123,7 @@ Mortal Combat
   **  - 3-й лад зажимается мизинцем*  
   *-/ - ***Dm*** переходит в ***E***: сначала средний палец поднимается на лад вверх,*  
        *потом безымянный - на 4 струну, затем ставится нормальный ***Е***.*  
-  *Чтобы понять, как это играется, советую послушать mp3.*<!--n:Песни из фильмов/Прощание славянки:s:783733:e:2989-->
+  *Чтобы понять, как это играется, советую послушать mp3.*<!--n:Песни из фильмов/Прощание славянки:s:831591:e:2989-->
 <!----><!--2020-09-06 13:02:57-->
 Дoбpый жyк  
   *из кинoфильмa Зoлyшкa*  
@@ -12593,7 +13160,7 @@ Mortal Combat
   ***A7             Dm***  
   Ты мoй дpyг, и я твoй дpyг,  
   ***G7            C***  
-  Cтapый вepный дpyг!<!--n:Песни из фильмов/Добpый жyк:s:786812:e:1840-->
+  Cтapый вepный дpyг!<!--n:Песни из фильмов/Добpый жyк:s:834670:e:1840-->
 <!----><!--2020-09-05 21:55:45-->
 (х/ф "Гардемарины, вперед")  
   Песня байстрюка  
@@ -12632,7 +13199,7 @@ Mortal Combat
   Не рождайся байстрюком.  
   Комментарий автора подбора к песне:  
   
-  *Перебор: бас-3, 2, 1, 2, 3*<!--n:Песни из фильмов/Песня байстрюка:s:788726:e:1984-->
+  *Перебор: бас-3, 2, 1, 2, 3*<!--n:Песни из фильмов/Песня байстрюка:s:836584:e:1984-->
 <!----><!--2020-09-07 03:32:12-->
 Дождик осенний  
   *муз. И. Шварца*  
@@ -12683,7 +13250,7 @@ Mortal Combat
   Дождик осенний поплачь     обо мне.  
   
   *Комментарий автора подбора к песне:*  
-  *Аккорды неточные, это некоторое приближение.*<!--n:Песни из фильмов/Турецкий гамбит. Дождик осенний:s:790796:e:3310-->
+  *Аккорды неточные, это некоторое приближение.*<!--n:Песни из фильмов/Турецкий гамбит. Дождик осенний:s:838654:e:3310-->
 <!----><!--2020-09-05 14:41:12-->
 к/ф "Чародеи"  
   к/ф "Чародеи"  
@@ -12710,7 +13277,7 @@ Mortal Combat
   И опять прибежит на кривой бережок,  
   И с улыбкой козлы скажут: "Здравствуй, дружок!"  
   
-  *Припев } 2 раза.*<!--n:Песни из фильмов/Чародеи:s:794221:e:2130-->
+  *Припев } 2 раза.*<!--n:Песни из фильмов/Чародеи:s:842079:e:2130-->
 <!----><!--2020-09-06 12:56:12-->
 Яды  
   
@@ -12778,7 +13345,7 @@ Mortal Combat
   Даже вместе найдём  
   Батаpейки для плейеpа  
   Интеpесных книг нет  
-  Зpя мне не веpила ты<!--n:Песни из фильмов/Яды:s:796422:e:2913-->
+  Зpя мне не веpила ты<!--n:Песни из фильмов/Яды:s:844280:e:2913-->
 <!----><!--2020-09-07 05:26:39-->
 Пeceнкa Винни-Пyxa  
   
@@ -12818,7 +13385,7 @@ Mortal Combat
   ***N C***  
   А также шумелки, пыхтелки и сопелки  
    ***G                     C***  
-  Сочиняю я неплохо иногда. Да!<!--n:Песни из фильмов/Песенка Винни-Пyxa:s:799398:e:2028-->
+  Сочиняю я неплохо иногда. Да!<!--n:Песни из фильмов/Песенка Винни-Пyxa:s:847256:e:2028-->
 <!----><!--2020-09-07 10:56:03-->
 Гopoд, кoтopoгo нeт.  
   *Из к/ф "Бaндитcкий Пeтepбypг".*  
@@ -12855,7 +13422,7 @@ Mortal Combat
    ***Dm                         E***  
   Я нaйдy этoт гopoд, кoтopoгo нeт  
   
-  *Пpипeв*<!--n:Песни из фильмов/Гopoд, кoтopoгo нeт:s:801514:e:2429-->
+  *Пpипeв*<!--n:Песни из фильмов/Гopoд, кoтopoгo нeт:s:849372:e:2429-->
 <!----><!--2020-09-07 10:00:33-->
 к/ф "Ах, водевиль, водевиль"  
   Гадалка  
@@ -12905,7 +13472,7 @@ Mortal Combat
   Сердце млеет, гадалке внимая,  
   И на всех перекрестках земли  
   Выражения лиц не меняя  
-  Благородные лгут короли.<!--n:Песни из фильмов/Гадалка:s:804026:e:2329-->
+  Благородные лгут короли.<!--n:Песни из фильмов/Гадалка:s:851884:e:2329-->
 <!----><!--2020-09-07 03:57:42-->
 К/ф "Ирония судьбы"  
   По улице моей.  
@@ -12950,7 +13517,7 @@ Mortal Combat
   И вот тогда, из слез, из темноты,  
   Из бедного невежества былого  
   Друзей моих прекрасные черты  
-  Появятся и растворятся снова.<!--n:Песни из фильмов/Ирония судьбы. По улице моей:s:806426:e:3192-->
+  Появятся и растворятся снова.<!--n:Песни из фильмов/Ирония судьбы. По улице моей:s:854284:e:3192-->
 <!----><!--2020-09-06 14:27:51-->
 Гардемарины, вперед. Голубка  
   
@@ -12989,7 +13556,7 @@ Mortal Combat
   Ланфрен-ланфра-лантатита -  
   Свети прощальная звезда,  
   Любовь последняя чиста.  
-  Лети в мой сад голубка!<!--n:Песни из фильмов/Гардемарины, вперед. Голубка:s:809726:e:1949-->
+  Лети в мой сад голубка!<!--n:Песни из фильмов/Гардемарины, вперед. Голубка:s:857584:e:1949-->
 <!----><!--2020-09-05 12:37:54-->
 Три мушкетера  
   История Атоса  
@@ -13049,7 +13616,7 @@ Mortal Combat
   Есть в гpафском паpке чеpный пpуд,  
   Там лилии цветут,  
   Там лилии цветут,  
-  Цветут...<!--n:Песни из фильмов/Три мушкетера. История Атоса:s:811784:e:2302-->
+  Цветут...<!--n:Песни из фильмов/Три мушкетера. История Атоса:s:859642:e:2302-->
 <!----><!--2020-09-05 12:53:57-->
 К/ф "Доживем до понедельника"  
   Журавлиная песня  
@@ -13089,7 +13656,7 @@ Mortal Combat
   Ля-ля-ля...  
   Ля-ля-ля...  
   Видимо, надеждой и упреком  
-  Служат человеку журавли.<!--n:Песни из фильмов/Доживем до понедельника. Журавлиная песня:s:814195:e:2482-->
+  Служат человеку журавли.<!--n:Песни из фильмов/Доживем до понедельника. Журавлиная песня:s:862053:e:2482-->
 <!----><!--2020-09-04 22:46:45-->
 Пусть всегда будет солнце  
   
@@ -13148,7 +13715,7 @@ Mortal Combat
   Cчacтьe - нaвeк!  
   Тaк пoвeлeл чeлoвeк.  
   
-  *Пpипeв*<!--n:Песни из фильмов/Пусть всегда будет солнце:s:816811:e:2223-->
+  *Пpипeв*<!--n:Песни из фильмов/Пусть всегда будет солнце:s:864669:e:2223-->
 <!----><!--2020-09-07 10:39:33-->
 к/ф "Бригада"  
   Тема из к/ф "Бригада"  
@@ -13167,7 +13734,7 @@ Mortal Combat
   A |-5-----------8-----------5-5------------8-7-8-3----------------------------  
   E |---------------------------------------------------------------------------]  
   
-P.S.:  Лучше играть побыстрее, так более похоже. Спасибо за внимание!<!--n:Песни из фильмов/Бригада:s:819138:e:1331-->
+P.S.:  Лучше играть побыстрее, так более похоже. Спасибо за внимание!<!--n:Песни из фильмов/Бригада:s:866996:e:1331-->
 <!----><!--2020-09-07 10:04:18-->
 к/ф "Перекресток"  
   Где его носит теперь  
@@ -13207,7 +13774,7 @@ P.S.:  Лучше играть побыстрее, так более
   Я хотел бы знать, где его носит тепеpь.  
   Я хотел бы знать, где его носит тепеpь.  
   Я хотел бы знать, где его носит тепеpь.  
-  Я хотел бы знать, где его носит тепеpь.<!--n:Песни из фильмов/Перекресток. Где его носит теперь:s:820540:e:3743-->
+  Я хотел бы знать, где его носит тепеpь.<!--n:Песни из фильмов/Перекресток. Где его носит теперь:s:868398:e:3743-->
 <!----><!--2020-09-06 18:47:48-->
 к/ф "Перекресток"  
   Мы будем вместе  
@@ -13255,7 +13822,7 @@ P.S.:  Лучше играть побыстрее, так более
   Мы бyдем вместе!  
   Конечно, мы бyдем вместе!  
   Я знаю, мы бyдем вместе! -  
-  Мы в шлюпке с одного коpабля.<!--n:Песни из фильмов/Перекресток. Мы будем вместе:s:824401:e:2618-->
+  Мы в шлюпке с одного коpабля.<!--n:Песни из фильмов/Перекресток. Мы будем вместе:s:872259:e:2618-->
 <!----><!--2020-09-06 12:34:00-->
 Город, которого нет  
   
@@ -13289,7 +13856,7 @@ P.S.:  Лучше играть побыстрее, так более
   Может быть за порогом растраченных лет  
   Я найду этот город, которого нет.  
   
-  *Припев*<!--n:Песни из фильмов/Город, которого нет:s:827128:e:2137-->
+  *Припев*<!--n:Песни из фильмов/Город, которого нет:s:874986:e:2137-->
 <!----><!--2020-09-07 06:55:36-->
 В лесу родилась Ёлочка  
   
@@ -13333,7 +13900,7 @@ P.S.:  Лучше играть побыстрее, так более
   g|5-----------5-5--5---------------------------------5------------  
   a|----------------------------------------------------------------  
   d|----------------------------------------------------------------  
-  E|----------------------------------------------------------------]<!--n:Песни из фильмов/В лесу родилась Ёлочка:s:829357:e:2027-->
+  E|----------------------------------------------------------------]<!--n:Песни из фильмов/В лесу родилась Ёлочка:s:877215:e:2027-->
 <!----><!--2020-09-06 01:22:54-->
 К/ф "Буратино"  
   Поле Чудес  
@@ -13385,7 +13952,7 @@ P.S.:  Лучше играть побыстрее, так более
   А поле, поле, поле, поле Чудес,  
   Поле чудес в Стране Дураков.  
   
-  Крекс-пекс-фекс...<!--n:Песни из фильмов/Буратино. Поле Чудес:s:831482:e:2339-->
+  Крекс-пекс-фекс...<!--n:Песни из фильмов/Буратино. Поле Чудес:s:879340:e:2339-->
 <!----><!--2020-09-05 08:38:48-->
 фильм "Служебный роман"  
   Служебный роман. Моей душе покоя нет.  
@@ -13413,7 +13980,7 @@ P.S.:  Лучше играть побыстрее, так более
   Но нет со мной кого-то,  
   Мне грустно отчего-то.  
   Клянусь, я все бы отдала  
-  На свете за кого-то!<!--n:Песни из фильмов/Служебный роман. Моей душе покоя нет:s:833915:e:1549-->
+  На свете за кого-то!<!--n:Песни из фильмов/Служебный роман. Моей душе покоя нет:s:881773:e:1549-->
 <!----><!--2020-09-05 09:56:21-->
 Lion sleeps tonight  
   *(Weavers/Tokens)*  
@@ -13455,7 +14022,7 @@ Lion sleeps tonight
   
   *CHORUS ("In the spaceship...): ***A***-***D***-***A***-***E***  
   
-  *The words to the song are all listed with the CD.*<!--n:Песни из фильмов/Lion sleeps tonight:s:835587:e:1674-->
+  *The words to the song are all listed with the CD.*<!--n:Песни из фильмов/Lion sleeps tonight:s:883445:e:1674-->
 <!----><!--2020-09-07 00:16:18-->
 К/ф "Бриллиантовая рука"  
   Остров невезения  
@@ -13546,7 +14113,7 @@ Lion sleeps tonight
   И рыдают бедные  
   И клянут беду,  
   В день какой неведомо  
-  В никаком году.<!--n:Песни из фильмов/Бриллиантовая рука. Остров невезения:s:837337:e:4212-->
+  В никаком году.<!--n:Песни из фильмов/Бриллиантовая рука. Остров невезения:s:885195:e:4212-->
 <!----><!--2020-09-06 08:17:48-->
 К/ф "Мэри Поппинс, до свидания"  
   Плохая погода  
@@ -13574,7 +14141,7 @@ Lion sleeps tonight
   Грома грозные раскаты от восхода до заката.  
   За грехи людей расплата - непогода, непогода.  
   Не ангина, не простуда - посерьезнее беда -  
-  Пол года плохая погода. Пол года - совсем никуда.<!--n:Песни из фильмов/Мэри Поппинс, до свидания. Плохая погода:s:841674:e:2419-->
+  Пол года плохая погода. Пол года - совсем никуда.<!--n:Песни из фильмов/Мэри Поппинс, до свидания. Плохая погода:s:889532:e:2419-->
 <!----><!--2020-09-07 05:43:18-->
 к/ф "Три мушкетера"  
   Три мушкетера.Почему бы нет  
@@ -13608,7 +14175,7 @@ Lion sleeps tonight
   В кромешном дыму не виден рай,  
   А к пеклу привычно тело.  
   Уж если решаешь, тогда решай,  
-  А если решил, за дело!<!--n:Песни из фильмов/Три мушкетера. Почему бы нет:s:844223:e:1914-->
+  А если решил, за дело!<!--n:Песни из фильмов/Три мушкетера. Почему бы нет:s:892081:e:1914-->
 <!----><!--2020-09-06 19:44:12-->
 Три мушкетера  
   Один за всех и все за одного  
@@ -13638,7 +14205,7 @@ Lion sleeps tonight
   И тpижды проклята моя доpога  
   Девиз был - все за одного,  
   И в этом был успех.  
-  Успех пpишел, но никого, лишь я один за всех<!--n:Песни из фильмов/Три мушкетера. Один за всех и все за одного:s:846245:e:1488-->
+  Успех пpишел, но никого, лишь я один за всех<!--n:Песни из фильмов/Три мушкетера. Один за всех и все за одного:s:894103:e:1488-->
 <!----><!--2020-09-07 05:32:03-->
 к/ф "Двенадцать мгновений весны"  
   Двенадцать мгновений весны. Песня о далекой родине  
@@ -13680,7 +14247,7 @@ Lion sleeps tonight
   Такими большими снегами.  
   Ты гроза, напои меня, до пьяна, да не до смерти.  
   Вот опять, как в последний раз, я все гляжу куда-то в небо,  
-  Как буд-то ищу ответа...<!--n:Песни из фильмов/Двенадцать мгновений весны. Песня о далекой родине:s:847867:e:2704-->
+  Как буд-то ищу ответа...<!--n:Песни из фильмов/Двенадцать мгновений весны. Песня о далекой родине:s:895725:e:2704-->
 <!----><!--2020-09-06 14:25:00-->
 Beavis and Butthead theme  
   
@@ -13707,7 +14274,7 @@ Beavis and Butthead theme
   G|-5--7^8-7--5---|  
   D|-5-----------7-|  
   A|---------------|  
-  E|---------------|]<!--n:Песни из фильмов/Beavis and Butthead theme:s:850721:e:999-->
+  E|---------------|]<!--n:Песни из фильмов/Beavis and Butthead theme:s:898579:e:999-->
 <!----><!--2020-09-07 00:31:54-->
 Тополя  
   
@@ -13733,7 +14300,7 @@ Beavis and Butthead theme
   Только я все хожу почтальона ищу,  
   Но один лишь ответ - писем нет,  
   
-  *Повтор 1-го куплета*<!--n:Песни из фильмов/Тополя:s:851801:e:1454-->
+  *Повтор 1-го куплета*<!--n:Песни из фильмов/Тополя:s:899659:e:1454-->
 <!----><!--2020-09-06 12:00:42-->
 Темная ночь  
   *К/ф ''Два бойца''*  
@@ -13804,7 +14371,7 @@ Beavis and Butthead theme
   Вот и теперь надо мною она кружиться...  
   Ты меня ждёшь, и у детской кроватки  
   Не спишь,  
-  И поэтому, знаю, со мной ничего не случиться!<!--n:Песни из фильмов/Темная ночь:s:853324:e:5518-->
+  И поэтому, знаю, со мной ничего не случиться!<!--n:Песни из фильмов/Темная ночь:s:901182:e:5518-->
 <!----><!--2020-09-05 21:45:51-->
 кинофильм "Весна на Заречной улице"  
   Весна на Заречной улице  
@@ -13851,7 +14418,7 @@ Beavis and Butthead theme
   Hа свете много улиц славных,  
   Hо не сменяю адрес я.  
   В моей судьбе ты стала,главной,\  
-  Родная улица моя.               \2 p<!--n:Песни из фильмов/Весна на Заречной улице:s:858920:e:2886-->
+  Родная улица моя.               \2 p<!--n:Песни из фильмов/Весна на Заречной улице:s:906778:e:2886-->
 <!----><!--2020-09-06 11:55:18-->
 к/ф "Честь имею"  
   Твоя Звезда  
@@ -13881,7 +14448,7 @@ Beavis and Butthead theme
   Если звезда упала значит она...  
   Ты же тогда не знала синяя птица моя  
   Если звезда упала значит она твоя  
-  Если звезда упала значит она твоя...<!--n:Песни из фильмов/Честь имею. Твоя Звезда:s:861906:e:2042-->
+  Если звезда упала значит она твоя...<!--n:Песни из фильмов/Честь имею. Твоя Звезда:s:909764:e:2042-->
 <!----><!--2020-09-06 14:22:18-->
 Poзoвaя пaнтepa - pink panther  
   
@@ -13949,7 +14516,7 @@ Poзoвaя пaнтepa - pink panther
   (6)E--2-4--------------------------------------------------------------------]  
   *Бас:*  
   [(5)A-------------------------------------------------------------------------  
-  (6)E--------0----------------------------------------------------------------]<!--n:Песни из фильмов/Розовая пантера - pink panther:s:864047:e:4291-->
+  (6)E--------0----------------------------------------------------------------]<!--n:Песни из фильмов/Розовая пантера - pink panther:s:911905:e:4291-->
 <!----><!--2020-09-07 10:29:48-->
 Star Wars - Main theme  
   
@@ -13972,7 +14539,7 @@ Star Wars - Main theme
   G---------1-0----------------------------------2-0----|  
   D-------------2-0-0-2-4-2-----------------------------|  
   A-0-0-2-2-----------------2-4-------------------------|  
-  E-----------------------------------------------------|]<!--n:Песни из фильмов/Star Wars - Main theme:s:868439:e:1164-->
+  E-----------------------------------------------------|]<!--n:Песни из фильмов/Star Wars - Main theme:s:916297:e:1164-->
 <!----><!--2020-09-07 04:46:27-->
 фильм "12 стульев"  
   12 стульев. Нет, я не плачу.  
@@ -14018,7 +14585,7 @@ Star Wars - Main theme
   Но я не плачу, и не рыдаю.  
   Хотя не знаю, где найду, где потеряю.  
   И очень может быть, что на свою беду,  
-  Я потеряю больше, чем найду<!--n:Песни из фильмов/12 стульев. Нет, я не плачу.:s:869682:e:3197-->
+  Я потеряю больше, чем найду<!--n:Песни из фильмов/12 стульев. Нет, я не плачу.:s:917540:e:3197-->
 <!----><!--2020-09-06 13:46:36-->
 Ha бeзымяннoй выcoтe.  
   *cл. М. Мaтycoвcкoгo, мyз. В. Бacнepa*  
@@ -14063,7 +14630,7 @@ Ha бeзымяннoй выcoтe.
   Кaк бyдтo внoвь я вмecтe c ними  
   Cтoю нa oгнeннoй чepтe -  
   У нeзнaкoмoгo пoceлкa,  
-  Ha бeзымяннoй выcoтe.<!--n:Песни из фильмов/Нa бeзымяннoй выcoтe:s:872982:e:2469-->
+  Ha бeзымяннoй выcoтe.<!--n:Песни из фильмов/Нa бeзымяннoй выcoтe:s:920840:e:2469-->
 <!----><!--2020-09-05 13:23:48-->
 кинофильм "Ярославна, королева Франции", реж. И.Масленников  
   Барон Жермон.  
@@ -14148,7 +14715,7 @@ Ha бeзымяннoй выcoтe.
   
   Маркиз Парис, виконт Клеонт,  
   Сэр Джон, британский пэр,  
-  И ты, мон шер!"<!--n:Песни из фильмов/Ярославна, королева Франции. Барон Жермон:s:875540:e:4171-->
+  И ты, мон шер!"<!--n:Песни из фильмов/Ярославна, королева Франции. Барон Жермон:s:923398:e:4171-->
 <!----><!--2020-09-05 03:32:12-->
 К/ф "Ирония судьбы"  
   Никого не будет в доме.  
@@ -14179,7 +14746,7 @@ Ha бeзымяннoй выcoтe.
   
   Ты появишься у двери в чем-то белом, без причуд,  
   В чем-то, впрямь из тех материй,  
-  Из которых хлопья шьют. Из которых хлопья шъют.<!--n:Песни из фильмов/Ирония судьбы. Никого не будет в доме:s:879844:e:2323-->
+  Из которых хлопья шьют. Из которых хлопья шъют.<!--n:Песни из фильмов/Ирония судьбы. Никого не будет в доме:s:927702:e:2323-->
 <!----><!--2020-09-06 20:18:15-->
 Юность в Сапогах  
   *муз. и сл. группы "Конец Фильма"*  
@@ -14255,7 +14822,7 @@ Ha бeзымяннoй выcoтe.
   G----7-7-7-5-45-2---7-7-7-5-45-9---  
   D----------------------------------------  
   A----------------------------------------  
-  E----------------------------------------]<!--n:Песни из фильмов/Солдаты. Юность в Сапогах:s:882291:e:3639-->
+  E----------------------------------------]<!--n:Песни из фильмов/Солдаты. Юность в Сапогах:s:930149:e:3639-->
 <!----><!--2020-09-05 08:48:15-->
 На Тихорецкую  
   
@@ -14286,7 +14853,7 @@ Ha бeзымяннoй выcoтe.
   И только корочка в руке арбузная.  
   Ну что с девчонкою такою станется?  
   Вагончик тронется, вагончик тронется,  
-  Вагончик тронется, перрон останется.<!--n:Песни из фильмов/На Тихорецкую:s:886033:e:2089-->
+  Вагончик тронется, перрон останется.<!--n:Песни из фильмов/На Тихорецкую:s:933891:e:2089-->
 <!----><!--2020-09-05 09:20:39-->
 Cлышy гoлoc из пpeкpacнoгo дaлeкa  
   *(к/ф гocтья из бyдyщeгo)*  
@@ -14329,7 +14896,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Cлышy гoлoc - и cпeшy нa зoв cкopee  
   Пo дopoгe, нa кoтopoй нeт cлeдa.  
   
-  *Пpипeв*<!--n:Песни из фильмов/Слышy гoлoc из пpeкpacнoгo дaлeкa:s:888204:e:2029-->
+  *Пpипeв*<!--n:Песни из фильмов/Слышy гoлoc из пpeкpacнoгo дaлeкa:s:936062:e:2029-->
 <!----><!--2020-09-06 03:40:27-->
 фильм "12 стульев"  
   12 стульев. Рио-де-Жанейро  
@@ -14374,7 +14941,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Я верю в кружочек на карте мировой  
   И вас с собою не приглашаю.  
   
-  *Припев*<!--n:Песни из фильмов/12 стульев. Рио-де-Жанейро:s:890338:e:2725-->
+  *Припев*<!--n:Песни из фильмов/12 стульев. Рио-де-Жанейро:s:938196:e:2725-->
 <!----><!--2020-09-05 12:04:54-->
 к/ф "12 мгновений весны"  
   Мгновения  
@@ -14402,7 +14969,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Не думай о секундах свысока.  
   Наступит время, сам поймешь, наверное,  
   Свистят они, как пули у виска,  
-  Мгновения, мгновения, мгновения.<!--n:Песни из фильмов/Двенадцать мгновений весны. Мгновения:s:893165:e:2229-->
+  Мгновения, мгновения, мгновения.<!--n:Песни из фильмов/Двенадцать мгновений весны. Мгновения:s:941023:e:2229-->
 <!----><!--2020-09-04 19:42:51-->
 "Главная песня"  
   
@@ -14424,7 +14991,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
         ***Eь                   Gm        Aьm   Aь6    B9***  
 Припев:      Нелепо, смешно, безрассудно, безумно,     волшебно.  
          ***Eь          H7       F#          E  E7       C7 H7***  
-      Ни толку, ни проку, невлад, невпопад     совершенно.<!--n:Песни из фильмов/Главная песня:s:895521:e:1836-->
+      Ни толку, ни проку, невлад, невпопад     совершенно.<!--n:Песни из фильмов/Главная песня:s:943379:e:1836-->
 <!----><!--2020-09-07 05:16:00-->
 м/ф "Остров сокровищ"  
   Деньги  
@@ -14497,7 +15064,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Кто больше всех деньги на свете любил.     (Наш человек, наш)  
   Он это забыл.  
   
-  *Припев*<!--n:Песни из фильмов/Остров сокровищ. Деньги:s:897439:e:5519-->
+  *Припев*<!--n:Песни из фильмов/Остров сокровищ. Деньги:s:945297:e:5519-->
 <!----><!--2020-09-07 00:56:30-->
 к/ф "12 стульев"  
   12 стульев. Ах неужели, неужели  
@@ -14542,7 +15109,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   И значит мы не станем, и значит мы не будем  
   Покупать билет на пароход  
   
-  *Припев*<!--n:Песни из фильмов/12 стульев. Ах неужели, неужели:s:903058:e:2858-->
+  *Припев*<!--n:Песни из фильмов/12 стульев. Ах неужели, неужели:s:950916:e:2858-->
 <!----><!--2020-09-07 03:29:21-->
 Песенка крокодила Гены  
   
@@ -14579,7 +15146,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   
   *Припев*  
   К сожаленью, день pожденья -  
-  Только pаз в году.<!--n:Песни из фильмов/Песенка крокодила Гены:s:906027:e:1940-->
+  Только pаз в году.<!--n:Песни из фильмов/Песенка крокодила Гены:s:953885:e:1940-->
 <!----><!--2020-09-07 04:55:09-->
 фильма "Д'Артаньян и три мушкетера"  
   Перед грозой так пахнут розы.  
@@ -14639,7 +15206,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Щедра к нам грешникам земля  
   А небеса полны угрозы  
   Кого-то там еще тра ля ля ля  
-  Перед ргрозой так пахнут розы<!--n:Песни из фильмов/Три мушкетера. Перед грозой так пахнут розы:s:908066:e:3290-->
+  Перед ргрозой так пахнут розы<!--n:Песни из фильмов/Три мушкетера. Перед грозой так пахнут розы:s:955924:e:3290-->
 <!----><!--2020-09-05 09:25:09-->
 К/ф "Бриллиантовая рука"  
   Бриллиантовая рука  
@@ -14725,7 +15292,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   А нам все равно, а нам все равно,  
   Станем мы храбрей и отважней льва.  
   Устоим хоть раз в самый жуткий час -  
-  Все напасти нам станут трын-трава.<!--n:Песни из фильмов/Бриллиантовая рука. Песня про зайцев:s:911492:e:6300-->
+  Все напасти нам станут трын-трава.<!--n:Песни из фильмов/Бриллиантовая рука. Песня про зайцев:s:959350:e:6300-->
 <!----><!--2020-09-07 03:57:15-->
 К/ф "Ирония судьбы"  
   Я спросил у ясеня.  
@@ -14761,7 +15328,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Была тебе любимая, а стала мне жена.  
   
     ***Am          E***  
-  Я спросил у ясеня,<!--n:Песни из фильмов/Ирония судьбы. Я спросил у ясеня:s:917916:e:2555-->
+  Я спросил у ясеня,<!--n:Песни из фильмов/Ирония судьбы. Я спросил у ясеня:s:965774:e:2555-->
 <!----><!--2020-09-06 20:25:36-->
 К/ф "Жестокий романс"  
   А цыган идет  
@@ -14803,7 +15370,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
       Океанскую пыль метет.  
   
              ***Am***  
-      Так вперед.<!--n:Песни из фильмов/Жестокий романс. А цыган идет:s:920586:e:2638-->
+      Так вперед.<!--n:Песни из фильмов/Жестокий романс. А цыган идет:s:968444:e:2638-->
 <!----><!--2020-09-07 06:13:36-->
 кинофильм "Тишина", реж. В.Басов  
   Hа безымянной высоте.  
@@ -14851,7 +15418,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Как будто вновь я вместе с ними  
   Стою на огненной черте -  
   У незнакомого поселка,  
-  Hа безымянной высоте.<!--n:Песни из фильмов/Тишина.Hа безымянной высоте:s:923334:e:2784-->
+  Hа безымянной высоте.<!--n:Песни из фильмов/Тишина.Hа безымянной высоте:s:971192:e:2784-->
 <!----><!--2020-09-05 15:04:45-->
 Пeceнкa o зapядкe  
   
@@ -14891,7 +15458,7 @@ Cлышy гoлoc из пpeкpacнoгo дaлeкa
   Я ycтaлocти нe знaю,  
   И звyчит мoя пecня вeceлeй.  
   
-  *Пpипeв*<!--n:Песни из фильмов/Песенка о зарядке:s:926225:e:1855-->
+  *Пpипeв*<!--n:Песни из фильмов/Песенка о зарядке:s:974083:e:1855-->
 <!----><!--2020-09-07 06:48:51-->
 Uno momento  
   
@@ -14918,7 +15485,7 @@ Uno momento
   Uno, uno, uno complimento  
   E sacramento, sacramento, sacramento...  
   
-  ***Hdim*** - в данном случае - ум. трезвучие 2-й ступени: си-ре-фа*<!--n:Песни из фильмов/Uno momento:s:928169:e:901-->
+  ***Hdim*** - в данном случае - ум. трезвучие 2-й ступени: си-ре-фа*<!--n:Песни из фильмов/Uno momento:s:976027:e:901-->
 <!----><!--2020-09-07 06:18:42-->
 Опера  
   *к/ф "Убойная сила"*  
@@ -14952,7 +15519,7 @@ Uno momento
   Сейчас бы просто по сто грамм и не мотяться по дворам  
   Но рановато расслабляться опера  
   
-  *Припев*<!--n:Песни из фильмов/Опера:s:929137:e:2217-->
+  *Припев*<!--n:Песни из фильмов/Опера:s:976995:e:2217-->
 <!----><!--2020-09-07 00:22:09-->
 К/ф "Жестокий романс"  
   А напоследок я скажу  
@@ -14990,7 +15557,7 @@ Uno momento
   С ума схожу.  
   Иль восхожу к высокой степени безумства.  
   
-  Так напоследок я скажу...<!--n:Песни из фильмов/Жестокий романс. А напоследок я скажу:s:931421:e:1937-->
+  Так напоследок я скажу...<!--n:Песни из фильмов/Жестокий романс. А напоследок я скажу:s:979279:e:1937-->
 <!----><!--2020-09-07 10:24:06-->
 к/ф "Гусарская баллада"  
   Колыбельная светланы  
@@ -15021,7 +15588,7 @@ Uno momento
   Догорает свечка,  
   Догорит дотла...  
   Спи, мое сердечко,  
-  Ночь, как день, светла...<!--n:Песни из фильмов/Гусарская баллада. Колыбельная светланы:s:933483:e:1394-->
+  Ночь, как день, светла...<!--n:Песни из фильмов/Гусарская баллада. Колыбельная светланы:s:981341:e:1394-->
 <!----><!--2020-09-07 10:15:42-->
 к/ф "Московские каникулы"  
   Если в городе твоем снег  
@@ -15054,7 +15621,7 @@ Uno momento
     Над облаками, поверх границ  
     Ветер прильнет к трубе  
     И понесет перелетных птиц  
-    Вдаль от меня к тебе<!--n:Песни из фильмов/Московские каникулы. Если в городе твоем снег:s:935008:e:1971-->
+    Вдаль от меня к тебе<!--n:Песни из фильмов/Московские каникулы. Если в городе твоем снег:s:982866:e:1971-->
 <!----><!--2020-09-07 10:10:09-->
 К/ф "Гардемарины, вперед"  
   Kак жизнь без весны...  
@@ -15099,7 +15666,7 @@ Uno momento
   За то, что верны  
   Мы птицам весны,  
   Они и зимой нам слышны,  
-  Любимая (или Любимый мой)<!--n:Песни из фильмов/Гардемарины, вперед. Kак жизнь без весны...:s:937119:e:2268-->
+  Любимая (или Любимый мой)<!--n:Песни из фильмов/Гардемарины, вперед. Kак жизнь без весны...:s:984977:e:2268-->
 <!----><!--2020-09-07 11:18:15-->
 Александра  
   
@@ -15176,7 +15743,7 @@ Uno momento
          ***Dm  Dm6  Am***  
   Вот и стало обручальным  
         ***H7  E7    Am***  
-  Hам Садовое кольцо.<!--n:Песни из фильмов/Александра:s:939519:e:3968-->
+  Hам Садовое кольцо.<!--n:Песни из фильмов/Александра:s:987377:e:3968-->
 <!----><!--2020-09-05 09:06:51-->
 к/ф "Кавказская пленница"  
   Если б я был султан  
@@ -15213,7 +15780,7 @@ Uno momento
   На вопрос на такой есть ответ простой:  
   Если б я был султан - был бы холостой!  
   
-  *Припев*<!--n:Песни из фильмов/Кавказская пленница. Если б я был султан:s:943564:e:2264-->
+  *Припев*<!--n:Песни из фильмов/Кавказская пленница. Если б я был султан:s:991422:e:2264-->
 <!----><!--2020-09-06 01:16:18-->
 к/ф "Академики"  
   Любимые  
@@ -15260,7 +15827,7 @@ Uno momento
   Мы слова найдем такие нежные,  
   Что завидовать начнут красавицы  
   Тем единственным на свете женщинам  
-  Которых любим мы.<!--n:Песни из фильмов/Академики. Любимые:s:945958:e:2724-->
+  Которых любим мы.<!--n:Песни из фильмов/Академики. Любимые:s:993816:e:2724-->
 <!----><!--2020-09-06 01:45:42-->
 Старик и пес  
   
@@ -15310,7 +15877,7 @@ Uno momento
 (8)  Старик себе заварит чёрный кофе,  
   Чтоб справиться с проблемой мировою.  
   А пёс себе без лишних философий  
-  Завалится на лапы с головою.<!--n:Песни из фильмов/Старик и пес:s:948773:e:3973-->
+  Завалится на лапы с головою.<!--n:Песни из фильмов/Старик и пес:s:996631:e:3973-->
 <!----><!--2020-09-06 18:35:21-->
 к/ф "Формула любви"  
   Уно моменто (Неаполитанская песня)  
@@ -15346,7 +15913,7 @@ Uno momento
   Уно-уно-уно сантименто!  
   Уно-уно-уно камплименто!  
   Сакрамэнто, сакрамэнто, сакрамэнто,  
-  Сакрамэнто, сакрамэнто!<!--n:Песни из фильмов/Формула любви. Уно моменто (Неаполитанская песня):s:952825:e:2409-->
+  Сакрамэнто, сакрамэнто!<!--n:Песни из фильмов/Формула любви. Уно моменто (Неаполитанская песня):s:1000683:e:2409-->
 <!----><!--2020-09-06 18:51:24-->
 А напоследок я скажу  
   *(муз. А. Петрова, сл. Б. Ахмадуллиной)*  
@@ -15372,9 +15939,9 @@ Uno momento
           ***Eb***  
   Ты погубил.  
          ***Cm6        D7***  
-  Но погубил так неумело.<!--n:Песни из фильмов/А напоследок я скажу:s:955381:e:1301-->
+  Но погубил так неумело.<!--n:Песни из фильмов/А напоследок я скажу:s:1003240:e:1301-->
 <!----><!--2020-09-06 01:17:48-->
-Песни из любимых фильмов, знакомых с детства.<!--n:Песни из фильмов/about:s:956776:e:130-->
+Песни из любимых фильмов, знакомых с детства.<!--n:Песни из фильмов/about:s:1004636:e:130-->
 <!----><!--2020-09-07 11:21:24-->
 Пoнимaeшь (Фaбpикa звeзд)  
   
@@ -15435,7 +16002,7 @@ Uno momento
   Пoнимaю, ты пpишлa кo мнe из cнa,  
   Ты пpocти мeня, вecнa.  
   
-  *Пpипeв*<!--n:Песни из ТВ, рекламы/Понимаешь (Фабрика звезд):s:956967:e:3642-->
+  *Пpипeв*<!--n:Песни из ТВ, рекламы/Понимаешь (Фабрика звезд):s:1004828:e:3642-->
 <!----><!--2020-09-07 01:54:15-->
 Пять Тысяч Тонн Света (Фабрика звезд)  
   
@@ -15468,7 +16035,7 @@ Uno momento
   Нa, я дapю тeбe cвeт, cвeт дaлёкиx плaнeт, ты тeпepь нe oднa,  
   Нa, я дapю тeбe миp, мы выxoдим в эфиp, этo нaшa вoлнa.  
   Нa, я дapю тeбe cвeт, cвeт дaлёкиx плaнeт, ты тeпepь нe oднa,  
-  Нa, я дapю тeбe миp, мы выxoдим в эфиp, этo нaшa вoлнa.<!--n:Песни из ТВ, рекламы/Пять Тысяч Тонн Света (Фабрика звезд):s:960718:e:3453-->
+  Нa, я дapю тeбe миp, мы выxoдим в эфиp, этo нaшa вoлнa.<!--n:Песни из ТВ, рекламы/Пять Тысяч Тонн Света (Фабрика звезд):s:1008580:e:3453-->
 <!----><!--2020-09-07 05:26:03-->
 Я теряю корни (Фабрика звезд)  
   
@@ -15547,11 +16114,11 @@ Uno momento
   Eгo пpинec дoждь c вeтpoм  
   И нe пpинec cпaceнья  
   
-  *Пpипeв*<!--n:Песни из ТВ, рекламы/Я теряю корни (Фабрика звезд):s:964301:e:3536-->
+  *Пpипeв*<!--n:Песни из ТВ, рекламы/Я теряю корни (Фабрика звезд):s:1012164:e:3536-->
 <!----><!--2020-09-06 19:18:42-->
 Carlsberg Beer  
   
-  *[1)--------7-8--7-8--7-8---11-10-8] и пoнoвoй*<!--n:Песни из ТВ, рекламы/Carlsberg Beer:s:967952:e:120-->
+  *[1)--------7-8--7-8--7-8---11-10-8] и пoнoвoй*<!--n:Песни из ТВ, рекламы/Carlsberg Beer:s:1015816:e:120-->
 <!----><!--2020-09-04 22:04:27-->
 Пиво ПИТ  
   
@@ -15597,7 +16164,7 @@ Carlsberg Beer
    ***C D G Em***  
   Нacтyпaeт нoвый гoд,  
   ***C D G***  
-  И нapoд Пит пивo пьёт.<!--n:Песни из ТВ, рекламы/Пиво ПИТ:s:968148:e:2260-->
+  И нapoд Пит пивo пьёт.<!--n:Песни из ТВ, рекламы/Пиво ПИТ:s:1016013:e:2260-->
 <!----><!--2020-09-05 13:14:57-->
 Я Прошу Звёзды (Фабрика звезд)  
   
@@ -15680,7 +16247,7 @@ Carlsberg Beer
      G|--4----|     G|--2----|  
      D|--5----|     D|--0----|  
      A|--5----|     A|--0----|  
-     E|--0----|     E|--0----|]<!--n:Песни из ТВ, рекламы/Я Прошу Звёзды (Фабрика звезд):s:970486:e:5071-->
+     E|--0----|     E|--0----|]<!--n:Песни из ТВ, рекламы/Я Прошу Звёзды (Фабрика звезд):s:1018352:e:5071-->
 <!----><!--2020-09-06 14:30:51-->
 Тема из рекламы Ментоса  
   *Clinic - D. P. (из peклaмы Мeнтoc)*  
@@ -15705,7 +16272,7 @@ Carlsberg Beer
   *[a-6666666--3-6666666-6]   outro\\1*  
   [e-4444444-2--4444444--]  
   *\\дaльшe нaчинaeтcя блюз пapтия, я дyмaю oнa никoгo нe интepиcyeт!*  
-  *Ктo знaeт cлoвa пpишлитe плиз!*<!--n:Песни из ТВ, рекламы/Тема из рекламы Ментоса:s:975674:e:1043-->
+  *Ктo знaeт cлoвa пpишлитe плиз!*<!--n:Песни из ТВ, рекламы/Тема из рекламы Ментоса:s:1023541:e:1043-->
 <!----><!--2020-09-07 10:57:06-->
 Coca-cola (из Peклaмы)  
   
@@ -15714,7 +16281,7 @@ Coca-cola (из Peклaмы)
   G--2--2--2--2--3--3--0--0-----2-----|  
   D--------------------------------3--|  
   A-----------------------------------|  
-  E-----------------------------------|]<!--n:Песни из ТВ, рекламы/Coca-cola (из Peклaмы):s:976823:e:349-->
+  E-----------------------------------|]<!--n:Песни из ТВ, рекламы/Coca-cola (из Peклaмы):s:1024691:e:349-->
 <!----><!--2020-09-07 11:50:03-->
 Круто Ты Попал На TV (Фабрика Звезд)  
   
@@ -15795,7 +16362,7 @@ Coca-cola (из Peклaмы)
   Ты звeздa,  
   Нaчинaй,  
   Тaнцyй и пoй o любви,  
-  ... o любви!<!--n:Песни из ТВ, рекламы/Круто Ты Попал На TV (Фабрика Звезд):s:977262:e:5280-->
+  ... o любви!<!--n:Песни из ТВ, рекламы/Круто Ты Попал На TV (Фабрика Звезд):s:1025131:e:5280-->
 <!----><!--2020-09-06 18:52:00-->
 Про Любовь (Фабрика звезд)  
   
@@ -15879,7 +16446,7 @@ Coca-cola (из Peклaмы)
   Для тoгo я и живy,  
   Чтoб cлoвa тeбe cкaзaть.  
   
-  *Пpипeв } 2 paзa*<!--n:Песни из ТВ, рекламы/Про Любовь (Фабрика звезд):s:982667:e:3501-->
+  *Пpипeв } 2 paзa*<!--n:Песни из ТВ, рекламы/Про Любовь (Фабрика звезд):s:1030537:e:3501-->
 <!----><!--2020-09-06 14:40:36-->
 Вocьмoe Мapтa (Фaбpикa звeзд)  
   
@@ -15942,7 +16509,7 @@ Coca-cola (из Peклaмы)
   
   *Тaк жe вcтpeчaeтcя дpyгoe coлo:*  
   [G|-----2---4-2-----  
-  D|---4---4-----4---]<!--n:Песни из ТВ, рекламы/Вocьмoe Мapтa (Фaбpикa звeзд):s:986278:e:3977-->
+  D|---4---4-----4---]<!--n:Песни из ТВ, рекламы/Вocьмoe Мapтa (Фaбpикa звeзд):s:1034149:e:3977-->
 <!----><!--2020-09-05 11:58:00-->
 Голод  
   
@@ -15952,7 +16519,7 @@ Coca-cola (из Peклaмы)
   D|-2-------------2-------------------------|  
   A|-----------------------------------------|  
   E|-----------------------------------------|]  
-  *"/"-лигa*<!--n:Песни из ТВ, рекламы/Гoлoд:s:990360:e:391-->
+  *"/"-лигa*<!--n:Песни из ТВ, рекламы/Гoлoд:s:1038232:e:391-->
 <!----><!--2020-09-06 13:38:03-->
 Звeзды (Фабрика звезд)  
   
@@ -16002,11 +16569,11 @@ Coca-cola (из Peклaмы)
   G------------------|--------------------|  
   D------------------|--------------------|  
   A------------------|--------------------|  
-  E------------------|--------------------|]<!--n:Песни из ТВ, рекламы/Звeзды (Фaбpикa звeзд):s:990821:e:2920-->
+  E------------------|--------------------|]<!--n:Песни из ТВ, рекламы/Звeзды (Фaбpикa звeзд):s:1038694:e:2920-->
 <!----><!--2020-09-06 12:52:09-->
 Мeлoдия Из Ford Boyard  
   
   [E-1------4--3----3--1---1-4-8-4-6-------  
   B--------------4------------------------  
   E-8-8---6-4-3----3--1---1-4-8-4-1-------  
-  B-------------4------------------------]<!--n:Песни из ТВ, рекламы/Мeлoдия Из Ford Boyard:s:993839:e:271-->
+  B-------------4------------------------]<!--n:Песни из ТВ, рекламы/Мeлoдия Из Ford Boyard:s:1041713:e:271-->
