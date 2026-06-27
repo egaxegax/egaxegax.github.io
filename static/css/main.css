@@ -42,7 +42,7 @@
 .bigger1 { font-size:130%; }
 .bigger2 { font-size:150%; }
 .loader { border:1px solid #ddd; }
-.tooltip { cursor:pointer; }
+.tooltip { cursor:pointer; text-decoration:underline; text-decoration-style:dotted; }
 .wrap { border-radius:3px; padding:5px 10px 4px 10px; margin:0 auto 5px auto; }
 #root { min-height:100%; }
 #header a { display:inline-block; }

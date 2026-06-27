@@ -302,9 +302,11 @@ function buildSubPath(roots, subjects, subjkey){
 //
 // build date from 'ymdhms' to 'd.m.y h:m'
 //
-function buildDate(d){
-  if((d = String(d)).length>=12)
-    return d[4]+d[5]+'.'+d[2]+d[3]+'.'+d[0]+d[1]+'&nbsp;'+d[6]+d[7]+':'+d[8]+d[9];
+function buildDate(d, fmt){
+  if((d = String(d)).length>=12){
+    if (fmt) return (new Intl.RelativeTimeFormat('ru', { numeric: 'auto' })).format(Math.round(((new Date(String(Number(d[2]+d[3]) + '/' + d[4]+d[5] + '/' + d[0]+d[1] + ' ' + d[6]+d[7] + ':' + d[8]+d[9] + ':' + d[10]+d[11]))) - (new Date())) / (1000 * 60 * 60 * 24)), 'day');
+    else     return d[4]+d[5]+'.'+d[2]+d[3]+'.'+d[0]+d[1]+'&nbsp;'+d[6]+d[7]+':'+d[8]+d[9];
+  }
   return d;
 }
 //
