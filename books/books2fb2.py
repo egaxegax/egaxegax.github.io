@@ -68,7 +68,7 @@ def E_OS(text):
 
 GENRES_RU = {
   'Детективы': ['det', 'detective', 'foreign_detective', 'thriller'],
-  'Детская литература': ['child', 'foreign_children'],
+  'Детская литература': ['child', 'children', 'foreign_children'],
   'Документальная литература': ['nonf', 'nonfiction'],
   'Домоводство':['home'],
   'Драматургия':['dramaturgy', 'literature'],
@@ -76,9 +76,7 @@ GENRES_RU = {
   'Любовные романы':['love'],
   'Наука и Образование':['sci', 'science', 'science_history'],
   'Приключения':['adv', 'adventure', 'foreign_adventure'],
-  'Проза':['prose', 'foreign_prose', 'foreign_contemporary', 'russian_contemporary', 'lyrics', 'poetry'],
-  'Проза. Классика': ['prose_classic'],
-  'Проза. Политика':['literature_political'],
+  'Проза':['prose', 'foreign_prose', 'foreign_contemporary', 'russian_contemporary', 'lyrics', 'poetry', 'prose_classic', 'literature_political'],
   'Психология':['sci_psychology', 'sci_philosophy'],
   'Религия и Эзотерика':['religion'],
   'Спорт':['home_sport'],
@@ -86,7 +84,7 @@ GENRES_RU = {
   'Старинная литература':['antique'],
   'Фантастика':['sf', 'foreign_sf'],
   'Фантастика. Ужасы':['sf_horror'],
-  'Фэнтези':['sf_fantasy', 'magician_book', 'fantasy_fight', 'foreign_fantasy', 'adventure_fantasy', 'fantasy_rus', 'fantasy_heroic', 'historical_fantasy'],
+  'Фэнтези':['sf_fantasy', 'magician_book', 'fantasy_fight', 'foreign_fantasy', 'adventure_fantasy', 'fantasy_rus', 'fantasy_heroic', 'historical_fantasy', 'romance_fantasy'],
   'Фэнтези. Попаданцы':['popadancy', 'popadanec'],
   'Экономика и Финансы':['economics'],
   'Эротика и Секс':['love_erotica', 'home_sex'],

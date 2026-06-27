@@ -3477,6 +3477,7 @@ https://egaxegax.github.io/index.html?habr/bermudy_planirujut_sozdat_pervuju_v_m
 https://egaxegax.github.io/index.html?habr/bessrochnaya_otchetnost_po_internet-reklame_zakonchilas
 https://egaxegax.github.io/index.html?habr/beta-versiya_video-generatora_firefly_ai_ot_adobe_v_stadii_razrabotki_prevrashchaet_tekst_i_izobrajeniya_v_korotkie_klipy
 https://egaxegax.github.io/index.html?habr/bezopasnost_nachinaetsya_s_koda_associaciya_finteh_i_solar_otmetyat_luchshie_rossijskie_proekty_po_bezopasnoj_razrabotke
+https://egaxegax.github.io/index.html?habr/bezopasnost_ssha_vajnee_biznesa_huang_smenil_ton_po_chipam_dlya_kitaya
 https://egaxegax.github.io/index.html?habr/bezopasnyj_brauzing_microsoft_edge_aktiviruet_zashchitu_ot_moshennichestva_s_pomoshchju_ai
 https://egaxegax.github.io/index.html?habr/bi_zone_predstavila_novyj_funkcional_na_svoem_portale_kiberrazvedki_bi_zone_threat_intelligence
 https://egaxegax.github.io/index.html?habr/bi_zone_zafiksirovala_smenu_taktiki_hakgruppirovki_silent_werewolf
@@ -3567,6 +3568,7 @@ https://egaxegax.github.io/index.html?habr/deepmind_stroit_ii-laboratoriju_gde_r
 https://egaxegax.github.io/index.html?habr/deepseek-v3_2_kak_otkrytaya_model_dogonyaet_gpt-5_i_beret_zoloto_olimpiad
 https://egaxegax.github.io/index.html?habr/deepseek_ocr_2_sokrashchaet_kolichestvo_vizualnyh_tokenov_na_80
 https://egaxegax.github.io/index.html?habr/deepseek_uchit_model_tykat_palcem_v_kadr_po_hodu_rassujdeniya
+https://egaxegax.github.io/index.html?habr/deepseek_vylojil_v_open_source_dspark_modul_uskoryajushchij_otvety_ii_pochti_vdvoe
 https://egaxegax.github.io/index.html?habr/deepseek_vyshel_na_pervoe_mesto_v_benchmarke_po_torgovle_kriptovaljutoj
 https://egaxegax.github.io/index.html?habr/dekan_ekonomicheskogo_fakulteta_mgu_soobshchil_ob_otkrytii_tabletki_ot_vygoraniya
 https://egaxegax.github.io/index.html?habr/delo_ne_tolko_v_genah_roditeli_mogut_peredavat_dolgoletie_drugim_sposobom
@@ -4810,6 +4812,7 @@ https://egaxegax.github.io/index.html?habr/vyshla_subd_sqlite_3_50
 https://egaxegax.github.io/index.html?habr/vyshla_unity_6_3_lts
 https://egaxegax.github.io/index.html?habr/vyshla_versiya_glow_26_10_instrumenta_dlya_sistemnogo_analiza_apparatnyh_i_programmnyh_vozmojnostej_pk_na_windows_10_11
 https://egaxegax.github.io/index.html?habr/vyshla_vtoraya_versiya_nuget-paketa_aabsemantics
+https://egaxegax.github.io/index.html?habr/vyshlo_obnovlenie_otkrytogo_proekta_dlya_sozdaniya_i_hraneniya_v_elektronnoj_biblioteke_knig_raznogo_formata_calibre_9_10
 https://egaxegax.github.io/index.html?habr/vyshlo_obnovlenie_staxrip_2_52_0_otkrytoj_utility_dlya_windows_dlya_kodirovaniya_video_audio_s_podderjkoj_hevc_avc_i_av1
 https://egaxegax.github.io/index.html?habr/vyshlo_obnovlenie_telegram_kratkie_pereskazy_ot_ii_i_dizajn_jidkoe_steklo
 https://egaxegax.github.io/index.html?habr/vystavka_securika-2025_bim-resheniya_nanosoft_dlya_proektirovaniya_sistem_bezopasnosti_i_kabelnyh_magistralej
@@ -8535,6 +8538,7 @@ https://egaxegax.github.io/index.html?moskovskij_komsomolec/260623_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/260624_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/260625_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/260626_2000
+https://egaxegax.github.io/index.html?moskovskij_komsomolec/260627_2000
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/34_plakali_solenymi_slezami_34_uchenye_obnarujili_neojidannuju_sposobnost_spinozavrov
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/34_svetyashchiesya_pauki_i_strannye_strekozy_34_v_angole_nashli_neizvestnyh_nasekomyh
 https://egaxegax.github.io/index.html?moskovskij_komsomolec/5300-letnij_etci_vernulsya_k_jizni_drojji_kotorye_ne_starejut_i_ne_umirajut
