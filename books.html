@@ -151,7 +151,7 @@
     PAGE.num = urlParams().page||0;
     PAGE.header = '<div class="tcell vmid"><h1>Описаний <b><i>'+TITLES.length+'</i></b> по разным&emsp;<a class="nodecor" href="bwrts.html"><i>Авторам</i></a>&nbsp; <a class="nodecor" href="bgenres.html"><i>Жанрам</i></a></h1></div>';
     PAGE.books = TITLES.filter(function(tit){ return (tit[2] != 'about'); });
-    PAGE.doctitle = (PAGE.books.length ? (PAGE.books[0][2] + ', ' + SUBJ[PAGE.books[0][0]][0] + ' - ') : '') + document.title;
+    PAGE.doctitle = 'Подборка описаний книг самых разных жанров - ' + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
@@ -168,7 +168,7 @@
         // skip ya.ru search
       }else if(pp.length>1){ // ?wrt/book
         if((PAGE.books = addTitlesRels(pp, SUBJ, PAGE.books)).length){
-          PAGE.header = '<div class="large tcell vmid"><a class="nodecor" href="books.html?'+tr(SUBJ[PAGE.books[0][0]][0])+'">'+SUBJ[PAGE.books[0][0]][0]+'</a><h1>'+PAGE.books[0][2]+'</h1></div>';
+          PAGE.header = '<div class="tcell vmid"><a class="nodecor large" href="books.html?'+tr(SUBJ[PAGE.books[0][0]][0])+'">'+SUBJ[PAGE.books[0][0]][0]+'</a><h1><a class="nodecor dark large">'+PAGE.books[0][2]+'</a>&emsp;<a class="nodecor" href="bwrts.html"><i>Авторы</i></a>&nbsp; <a class="nodecor" href="bgenres.html"><i>Жанры</i></a></h1></div>';
           PAGE.doctitle = PAGE.books[0][2] + ', ' + SUBJ[PAGE.books[0][0]][0] + ' - ' + document.title;
           PAGE.view = 'book';
         }

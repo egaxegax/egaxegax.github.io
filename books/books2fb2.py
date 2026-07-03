@@ -9,6 +9,7 @@ import sys, os, re, time
 import io, base64
 from PIL import Image
 from bs4 import BeautifulSoup
+from xml.parsers import expat
 
 cd = os.path.dirname(sys.argv[0])
 sys.path.insert(0, os.path.abspath(os.path.join(cd, '..')))
@@ -20,17 +21,20 @@ class fb2book:
   def __init__(self, file):
     self.file = file
     self.fb2_content = ''
-    for e in ('utf-8', 'windows-1251'):
-      if self.fb2_content == '':
-        try:
-          with open(file, 'r+', encoding=e) as fb2file:
-            self.fb2_content = fb2file.read().encode(e)
-            self.encoding = e
-        except: pass
-    if self.fb2_content == '': 
-      raise ValueError('fb2_content encoding')
-    self.soup = BeautifulSoup(self.fb2_content, "xml", from_encoding=self.encoding)
+    with open(file, 'r+', encoding='utf-8', errors='replace') as xml:
+      self.fb2_parse(xml.readline())
+    with open(file, 'r+', encoding=self.encoding) as fb2file:
+      self.fb2_content = fb2file.read().encode(self.encoding)
+    self.soup = BeautifulSoup(self.fb2_content, 'xml', from_encoding=self.encoding)
     self.info = self.soup.find('title-info') if self.soup.find('title-info') else None
+
+  def fb2_decl_handler(self, version, encoding, standalone):
+      self.encoding = encoding
+
+  def fb2_parse(self, xml):
+      parser = expat.ParserCreate()
+      parser.XmlDeclHandler = self.fb2_decl_handler
+      parser.Parse(xml)
 
   def get_pubdate(self):
     return self.info.find('date').text if self.info.find('date') else ''
@@ -112,7 +116,9 @@ if __name__ == '__main__':
         cover = ''
 
         try: fb = fb2book(fb2name)
-        except: raise ValueError(name)
+        except: 
+          print ('Skip errors', name)
+          continue
         tit = fb.get_title()
         tit = tit.replace('[', '(').replace(']', ')').replace('/', '-').replace(':', '.').strip('<>"/\|!?*').strip()
         wrt = fb.get_authors()
@@ -125,9 +131,9 @@ if __name__ == '__main__':
         if gnrs: subj = gnrs[0].split('/')[0].split(',')[0].replace('-', '_').replace(':', '').strip()
         else:    subj = 'other'
 
-        for gnr_ru, gnrs in GENRES_RU.items():
-          if subj in gnrs:               subj = gnr_ru
-          if subj.split('_')[0] in gnrs: subj = gnr_ru
+        for gnr_ru, genres in GENRES_RU.items():
+          if subj in genres:               subj = gnr_ru
+          if subj.split('_')[0] in genres: subj = gnr_ru
 
         pdate = fb.get_pubdate().split('-')[0]
         desc = fb.get_description()
@@ -156,7 +162,7 @@ if __name__ == '__main__':
               print (fb2name, ':', str(sys.exc_info()))
           with open(os.path.join(fp, tr_cut(tr_chars(tit[:160], 150, ''))+'.md'), 'w+') as fbook:
             fbook.write('<!--'+sdate+'--><!--pdate:'+pdate+'--><!--cover:'+cover+'--><!--gnr:'+','.join(gnrs).replace(':', '').replace('-','_').strip()+'-->\n' + desc)
-          print (i, j, int(cover != None), fb2name)
+          print (i, j, int(cover != None), os.path.basename(fb2name))
         else:
           print(i, j, fb2name, '!!!SKIP:', 'desc:', tit, 'cover:', cover)
 

@@ -22573,3 +22573,333 @@
     <i class="smaller3">2026-06-27</i>
   </div>
 </div><!--n:Мир кино/Патриот (фильм 2026) Patriot:s:1974315:e:635-->
+<!----><!--2026-06-27 18:17:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_unichtojili_vse_azs_v_gorode_jena_kuleby_analiziruet_naftogaz_vse_27_06_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/87ff42b7f2ce0ed0f7b94edf9f06fbb3/" src="http://pic.rtbcdn.ru/video/2026-06-27/8f/f1/8ff112c4a921f893e69223e88801e80e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_unichtojili_vse_azs_v_gorode_jena_kuleby_analiziruet_naftogaz_vse_27_06_26">Украинский фронт - уничтожили все АЗС в городе. Жена Кулебы анализирует. Нафтогаз все. 27.06.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-06-27</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - уничтожили все АЗС в городе. Жена Кулебы анализирует. Нафтогаз все. 27.06.26:s:1975032:e:927-->
+<!----><!--2026-06-29 19:41:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kiev_bez_sveta_dnepr_minus_smena_zavoda_faby_po_harkovu_29_06_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dd3e22e686c807c774fb8aaefa3d8b4b/" src="http://pic.rtbcdn.ru/video/2026-06-29/c6/3e/c63ed4a310594f37d3890cbbc9408f65.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kiev_bez_sveta_dnepr_minus_smena_zavoda_faby_po_harkovu_29_06_26">Украинский фронт - Киев без света. Днепр минус смена завода. ФАБы по Харькову. 29.06.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-06-29</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Киев без света. Днепр минус смена завода. ФАБы по Харькову. 29.06.26:s:1976187:e:891-->
+<!----><!--2026-06-29 16:31:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/samye_vysokodohodnye_i_pribylnye">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8300c31790bfa5cc32755f43ca1f67d7/" src="http://pic.rtbcdn.ru/video/2026-06-29/6b/d8/6bd89f97676072eb608a8c3f305273a7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/samye_vysokodohodnye_i_pribylnye">Самые высокодоходные и прибыльные</a></p>
+    <p><i class="smaller2">GreenGrass</i></p>
+    <i class="smaller3">2026-06-29</i>
+  </div>
+</div><!--n:Мир кино/Самые высокодоходные и прибыльные:s:1977290:e:661-->
+<!----><!--2026-06-30 19:05:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_419_dronov_pogib_mladenec_v_es_ne_vozmut_hersonskaya_obl_v_ogne_30_06_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5057f490b7cd731265785ee2ea14d3a0/" src="http://pic.rtbcdn.ru/video/2026-06-30/87/8b/878babd73655235cc0e2e94bb669759c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_419_dronov_pogib_mladenec_v_es_ne_vozmut_hersonskaya_obl_v_ogne_30_06_26">Украинский фронт - 419 дронов погиб младенец. В ЕС не возьмут. Херсонская обл в огне. 30.06.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-06-30</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - 419 дронов погиб младенец. В ЕС не возьмут. Херсонская обл в огне. 30.06.26:s:1978056:e:916-->
+<!----><!--2026-07-01 13:01:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_1_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/40c21b144caff2bfd2f92482e13d0fd0/" src="http://pic.rtbcdn.ru/video/2026-06-26/de/63/de63c063dbc69c04f47285bb76aa8cfa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_1_seriya_serial_2021_schmigadoon">Шмигадун! - 2 сезон 1 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 2 сезон 1 серия (сериал 2021) Schmigadoon:s:1979193:e:727-->
+<!----><!--2026-07-01 12:06:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_6_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3eb0b85f30e3f3b8d428a555ac292c2f/" src="http://pic.rtbcdn.ru/video/2026-06-26/e6/e1/e6e15be020ffe2c97117046156a3056e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_6_seriya_serial_2021_schmigadoon">Шмигадун! - 1 сезон 6 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 1 сезон 6 серия (сериал 2021) Schmigadoon:s:1980038:e:727-->
+<!----><!--2026-07-01 12:01:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_1_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/44b6803d4bf6cd772544ab0bc555612d/" src="http://pic.rtbcdn.ru/video/2026-06-25/8a/24/8a24645c0832ad8ee3012bc811d3f2d1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_1_seriya_serial_2021_schmigadoon">Шмигадун! - 1 сезон 1 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 1 сезон 1 серия (сериал 2021) Schmigadoon:s:1980883:e:727-->
+<!----><!--2026-07-01 13:05:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_5_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d0137d2f080a78c3044bbc65e16c988d/" src="http://pic.rtbcdn.ru/video/2026-06-26/46/3f/463fd47c6fcdea601c2b763ff102e048.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_5_seriya_serial_2021_schmigadoon">Шмигадун! - 2 сезон 5 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 2 сезон 5 серия (сериал 2021) Schmigadoon:s:1981728:e:727-->
+<!----><!--2026-07-01 14:01:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zombilend_-_1_seriya_serial_2013_zombieland">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b8298c527622e0d79b0c831275ec6ff2/" src="http://pic.rtbcdn.ru/video/2026-06-30/3a/a7/3aa70b7c5f5d9738ac1cc24d4b979e88.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zombilend_-_1_seriya_serial_2013_zombieland">Зомбилэнд - 1 серия (сериал 2013) / Zombieland</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Зомбилэнд - 1 серия (сериал 2013) Zombieland:s:1982573:e:695-->
+<!----><!--2026-07-01 13:03:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_3_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/99aafae78aabab835380adde9384f9b1/" src="http://pic.rtbcdn.ru/video/2026-06-26/c1/33/c13331489b7fb1a4a349c182e290ffe8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_3_seriya_serial_2021_schmigadoon">Шмигадун! - 2 сезон 3 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 2 сезон 3 серия (сериал 2021) Schmigadoon:s:1983374:e:727-->
+<!----><!--2026-07-01 12:03:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_3_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/79297224178dabd5ee5d0148b94f929d/" src="http://pic.rtbcdn.ru/video/2026-06-25/00/54/0054cdc89119f59abf207ea036bdaa6b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_3_seriya_serial_2021_schmigadoon">Шмигадун! - 1 сезон 3 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 1 сезон 3 серия (сериал 2021) Schmigadoon:s:1984219:e:727-->
+<!----><!--2026-07-01 13:04:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_4_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3a9fd07c5bb45e4f905025c1281ec94f/" src="http://pic.rtbcdn.ru/video/2026-06-26/8f/f4/8ff4833c8edb04b81700af09fe33e1e6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_4_seriya_serial_2021_schmigadoon">Шмигадун! - 2 сезон 4 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 2 сезон 4 серия (сериал 2021) Schmigadoon:s:1985064:e:727-->
+<!----><!--2026-07-01 13:02:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_2_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f1503181dc4fa19ee4b9b40709fdf895/" src="http://pic.rtbcdn.ru/video/2026-06-26/86/0f/860f0c7a62a04e35f9e4f995e77c5be2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_2_seriya_serial_2021_schmigadoon">Шмигадун! - 2 сезон 2 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 2 сезон 2 серия (сериал 2021) Schmigadoon:s:1985909:e:727-->
+<!----><!--2026-07-01 09:00:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/holodnoe_serdce_2_multfilm_2019_frozen_ii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8b359659a05c1f7b872bcec0f5037a42/" src="http://pic.rtbcdn.ru/video/2026-06-30/84/4f/844f729ea2eb57f107b60eff865b3d2f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/holodnoe_serdce_2_multfilm_2019_frozen_ii">Холодное сердце 2 (мультфильм 2019) / Frozen II</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Холодное сердце 2 (мультфильм 2019) Frozen II:s:1986754:e:696-->
+<!----><!--2026-07-01 12:04:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_4_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/49525c124f569298ce9e4abd74ba85bc/" src="http://pic.rtbcdn.ru/video/2026-06-25/5a/18/5a18bdda17d3b37ff630c982b41d19fd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_4_seriya_serial_2021_schmigadoon">Шмигадун! - 1 сезон 4 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 1 сезон 4 серия (сериал 2021) Schmigadoon:s:1987561:e:727-->
+<!----><!--2026-07-01 13:06:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_6_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6d20096ae262b40ccdb0feb8cd571ca1/" src="http://pic.rtbcdn.ru/video/2026-06-26/d8/a3/d8a3ae2677f389ec1c3cc5300fb82f2c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_2_sezon_6_seriya_serial_2021_schmigadoon">Шмигадун! - 2 сезон 6 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 2 сезон 6 серия (сериал 2021) Schmigadoon:s:1988406:e:727-->
+<!----><!--2026-07-01 12:02:56-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_2_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ed6910a520d1bb265f87070f58fdd47b/" src="http://pic.rtbcdn.ru/video/2026-06-25/01/99/0199c620bd2247abca23ec15b5a917f6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_2_seriya_serial_2021_schmigadoon">Шмигадун! - 1 сезон 2 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 1 сезон 2 серия (сериал 2021) Schmigadoon:s:1989251:e:727-->
+<!----><!--2026-07-01 12:05:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_5_seriya_serial_2021_schmigadoon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f5d66d42b660c1d633eaa6f267ede9b1/" src="http://pic.rtbcdn.ru/video/2026-06-25/92/9b/929b6dba87143869bc8d3391fef4b17f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shmigadun_-_1_sezon_5_seriya_serial_2021_schmigadoon">Шмигадун! - 1 сезон 5 серия (сериал 2021) / Schmigadoon!</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Шмигадун - 1 сезон 5 серия (сериал 2021) Schmigadoon:s:1990096:e:727-->
+<!----><!--2026-06-30 19:45:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/nyachang_2026_top-ekskursii_i_restorany_tolko_to_chto_realno_stoit_vashego_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/73d6b7849e9aa230cf29735a983610e1/" src="http://pic.rtbcdn.ru/video/2026-06-30/ef/1f/ef1fce952e514dedd051634beb2ea8d8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/nyachang_2026_top-ekskursii_i_restorany_tolko_to_chto_realno_stoit_vashego_vremeni">Нячанг 2026 | Топ-экскурсии и рестораны — только то, что реально стоит вашего времени</a></p>
+    <p><i class="smaller2">Вот это отдых | Путешествия своим ходом</i></p>
+    <i class="smaller3">2026-06-30</i>
+  </div>
+</div><!--n:Путешествия свои ходом/Нячанг 2026 Топ-экскурсии и рестораны только то, что реально стоит вашего времени:s:1990941:e:942-->
+<!----><!--2026-07-01 13:52:46-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_pryamoj_translyacii_s_mks_zametili_gigantskij_nlo_spryatannyj_sredi_oblakov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/93f98338bdc6e4e00c55b6d4dd9558fd/" src="http://pic.rtbcdn.ru/video/2026-06-30/44/cb/44cb5ee956c91883fc96d2af64cd3bb6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_pryamoj_translyacii_s_mks_zametili_gigantskij_nlo_spryatannyj_sredi_oblakov">На прямой трансляции с МКС заметили гигантский НЛО спрятанный среди облаков?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Тайны/На прямой трансляции с МКС заметили гигантский НЛО спрятанный среди облаков:s:1992097:e:841-->
+<!----><!--2026-07-01 13:52:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pered_zemletryaseniem_v_venesuele_snyali_gigantskie_krasnye_luchi_i_mnojestvo_nlo_v_nebe">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2970511cf72ada160261cb45db4d468e/" src="http://pic.rtbcdn.ru/video/2026-06-30/b7/e0/b7e02152b2ea46b265b2ede323088cdd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pered_zemletryaseniem_v_venesuele_snyali_gigantskie_krasnye_luchi_i_mnojestvo_nlo_v_nebe">Перед землетрясением в Венесуэле сняли гигантские красные лучи и множество НЛО в небе</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Тайны/Перед землетрясением в Венесуэле сняли гигантские красные лучи и множество НЛО в небе:s:1993115:e:878-->
+<!----><!--2026-07-01 13:52:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pentagon_opublikoval_tretju_volnu_fajlov_po_nlo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/130c26860a7d76a7b295276109ccb400/" src="http://pic.rtbcdn.ru/video/2026-06-30/11/3e/113e783a05e539760ee762a3bc19eb91.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pentagon_opublikoval_tretju_volnu_fajlov_po_nlo">Пентагон опубликовал третью волну файлов по НЛО</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Тайны/Пентагон опубликовал третью волну файлов по НЛО:s:1994188:e:726-->
+<!----><!--2026-07-01 18:48:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukraina_sveta_net_otec-odinochka_iz_krivogo_roga_minus_tysyachi_podstancij_01_07">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bcedc45fdabd6148c1bd52b09c40ccd3/" src="http://pic.rtbcdn.ru/video/2026-07-01/26/1f/261f9255e3a786770ed93a2611c79e9a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukraina_sveta_net_otec-odinochka_iz_krivogo_roga_minus_tysyachi_podstancij_01_07">Украинский фронт - Украина СВЕТА НЕТ. Отец-одиночка из Кривого Рога. Минус тысячи подстанций. 01.07.</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Украина СВЕТА НЕТ. Отец-одиночка из Кривого Рога. Минус тысячи подстанций. 01.07.:s:1995039:e:950-->
+<!----><!--2026-07-02 12:05:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zodiak_-_5_seriya_mini_serial_2026_zodiaque">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/33052bb0c3fae5efb0dffc64acfc50cc/" src="http://pic.rtbcdn.ru/video/2026-07-01/90/97/909744c986a5072f84028924262174c8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zodiak_-_5_seriya_mini_serial_2026_zodiaque">Зодиак - 5 серия (мини–сериал 2026) / Zodiaque</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-02</i>
+  </div>
+</div><!--n:Мир кино/Зодиак - 5 серия (мини сериал 2026) Zodiaque:s:1996228:e:698-->
+<!----><!--2026-07-02 12:03:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zodiak_-_3_seriya_mini_serial_2026_zodiaque">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/59bcc51c3392759492a8c8ba06b8923b/" src="http://pic.rtbcdn.ru/video/2026-07-01/79/cd/79cd5f48d4b807c9e777615bde554cf4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zodiak_-_3_seriya_mini_serial_2026_zodiaque">Зодиак - 3 серия (мини–сериал 2026) / Zodiaque</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-02</i>
+  </div>
+</div><!--n:Мир кино/Зодиак - 3 серия (мини сериал 2026) Zodiaque:s:1997033:e:698-->
+<!----><!--2026-07-02 12:04:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zodiak_-_4_seriya_mini_serial_2026_zodiaque">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c985c9459aaf937160d93031fa2da882/" src="http://pic.rtbcdn.ru/video/2026-07-01/0d/da/0ddae937957f78d74aeed591f1cfc7f9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zodiak_-_4_seriya_mini_serial_2026_zodiaque">Зодиак - 4 серия (мини–сериал 2026) / Zodiaque</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-02</i>
+  </div>
+</div><!--n:Мир кино/Зодиак - 4 серия (мини сериал 2026) Zodiaque:s:1997838:e:698-->
+<!----><!--2026-07-02 12:06:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zodiak_-_6_seriya_mini_serial_2026_zodiaque">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ef8d990b62b81fbdda8f1befbd17efff/" src="http://pic.rtbcdn.ru/video/2026-07-01/56/c5/56c518a124ad1b1418b2897917e5bf29.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zodiak_-_6_seriya_mini_serial_2026_zodiaque">Зодиак - 6 серия (мини–сериал 2026) / Zodiaque</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-02</i>
+  </div>
+</div><!--n:Мир кино/Зодиак - 6 серия (мини сериал 2026) Zodiaque:s:1998643:e:698-->
+<!----><!--2026-07-02 12:02:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zodiak_-_2_seriya_mini_serial_2026_zodiaque">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d99f0a10475efea57dcc2339b8f104fc/" src="http://pic.rtbcdn.ru/video/2026-07-01/d1/9f/d19f9720c6912bb483356512a045c2b4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zodiak_-_2_seriya_mini_serial_2026_zodiaque">Зодиак - 2 серия (мини–сериал 2026) / Zodiaque</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-02</i>
+  </div>
+</div><!--n:Мир кино/Зодиак - 2 серия (мини сериал 2026) Zodiaque:s:1999448:e:698-->
+<!----><!--2026-07-02 12:01:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zodiak_-_1_seriya_mini_serial_2026_zodiaque">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c2cd440a3a43e14d87a7a8f69330df15/" src="http://pic.rtbcdn.ru/video/2026-07-01/82/b8/82b8902129712b4701d86cee84f0fb4d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zodiak_-_1_seriya_mini_serial_2026_zodiaque">Зодиак - 1 серия (мини–сериал 2026) / Zodiaque</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-02</i>
+  </div>
+</div><!--n:Мир кино/Зодиак - 1 серия (мини сериал 2026) Zodiaque:s:2000253:e:698-->
+<!----><!--2026-07-01 18:01:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/ochen_strashnoe_kino_6_film_2026_scary_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c4af99576ff9d5fc56db13781f052311/" src="http://pic.rtbcdn.ru/video/2026-07-01/f8/ac/f8ac059b0b943c30f73e0b859ded6180.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/ochen_strashnoe_kino_6_film_2026_scary_movie">Очень страшное кино 6 (фильм 2026) / Scary Movie</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-01</i>
+  </div>
+</div><!--n:Мир кино/Очень страшное кино 6 (фильм 2026) Scary Movie:s:2001058:e:701-->

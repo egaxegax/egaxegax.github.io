@@ -149,7 +149,7 @@
     PAGE.num = urlParams().page||0; // start num page 
     PAGE.header = '<h1>Подборка <b><i>'+TITLES.length+'</i></b> статей на разные&emsp; <a class="nodecor" href="psubj.html"><i>Темы</i></a></h1>';
     PAGE.posts = TITLES.filter(function(tit){ return (tit[2] != 'about'); });
-    PAGE.doctitle = (PAGE.posts.length ? (PAGE.posts[0][2] + ', ' + SUBJ[PAGE.posts[0][0]][0] + ' - ') : '') + document.title;
+    PAGE.doctitle = 'Статьи, посты на самые разные темы - ' + document.title;
     for(var p in urlParams()){
       var pp = p.split('/');
       if(p == 'page' && urlParams().page){ // ?page
