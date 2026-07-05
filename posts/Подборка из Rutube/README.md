@@ -22903,3 +22903,25 @@
     <i class="smaller3">2026-07-01</i>
   </div>
 </div><!--n:Мир кино/Очень страшное кино 6 (фильм 2026) Scary Movie:s:2001058:e:701-->
+<!----><!--2026-07-02 18:24:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_kieve_proryv_oborony_vsu_na_styke_oblastej_10_km_02_07_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0a1f3e3f9209cd9dc6c96510f707c618/" src="http://pic.rtbcdn.ru/video/2026-07-02/53/0b/530bd901d987a33edb3e0b763fc8a22d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ad_v_kieve_proryv_oborony_vsu_na_styke_oblastej_10_km_02_07_26">Украинский фронт - АД в Киеве. Прорыв обороны ВСУ на стыке областей 10 км. 02.07.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-02</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - АД в Киеве. Прорыв обороны ВСУ на стыке областей 10 км. 02.07.26:s:2001869:e:877-->
+<!----><!--2026-07-03 19:59:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_unichtojeny_azs_kiev_-_minus_130_polsha_na_izmene_dvij_na_fronte_03_07_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a3358319f96b730be2d95f964e444135/" src="http://pic.rtbcdn.ru/video/2026-07-03/a8/38/a838c2724bba63e5befe3c270f4de99c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_unichtojeny_azs_kiev_-_minus_130_polsha_na_izmene_dvij_na_fronte_03_07_26">Украинский фронт - уничтожены АЗС. Киев - минус 130. Польша на измене. Движ на фронте. 03.07.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-03</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - уничтожены АЗС. Киев - минус 130. Польша на измене. Движ на фронте. 03.07.26:s:2002948:e:918-->

@@ -4848,3 +4848,28 @@ https://www.povareno k.ru/recipes/show/17 6909/
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183925/"><img src="https://www.povarenok.ru/data/cache/2026jul/02/00/3223093_91392-640x480.jpg"></a>Оригинальное название - Scotch Broth (шотландский бульон).
 В него ещё добавляют перловку, в классическом рецепте, но я не большой её любитель, поэтому у меня суп без крупы. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183925/">Суп с бараниной "по-шотландски"</a></p></div>
 </div><!--n:Поваренок.РУ/Суп с бараниной по-шотландски:s:1038303:e:688-->
+<!----><!--2026-07-03 17:39:16-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183933/"><img src="https://www.povarenok.ru/data/cache/2026jul/03/32/3223247_66427-640x480.jpg"></a>Калитки - это открытые пирожки на смеси пшеничной и ржаной муки, готовятся с самыми разнообразными начинками. Предлагаю рецепт с вишневой начинкой, готовила их первый раз, всей семье понравились. Их можно готовить в пост, очень вкусная выпечка. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183933/">Калитки с вишней</a></p></div>
+</div><!--n:Поваренок.РУ/Калитки с вишней:s:1039095:e:808-->
+<!----><!--2026-07-03 14:11:57-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183932/"><img src="https://www.povarenok.ru/data/cache/2026jul/03/11/3223224_52888-640x480.jpg"></a>Просто, быстро и красиво! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183932/">Сыр Бри, запечённый в духовке⁠</a></p></div>
+</div><!--n:Поваренок.РУ/Сыр Бри, запечённый в духовке:s:1039983:e:434-->
+<!----><!--2026-07-03 20:16:29-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183934/"><img src="https://www.povarenok.ru/data/cache/2026jul/03/20/3223196_75794-640x480.jpg"></a>Борани с мангольдом ( шпинатом, капустой кейл или с любой лиственной капустой) — это яркий соус в персидском стиле на основе йогурта, который сочетает в себе нежный мангольд и насыщенный вкус чеснока; блюдо дополняется аппетитным слоем ароматного масла со специями. Подается, в основном, в холодном виде. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183934/">Борани с зеленью и фасолью</a></p></div>
+</div><!--n:Поваренок.РУ/Борани с зеленью и фасолью:s:1040520:e:936-->
+<!----><!--2026-07-04 20:20:26-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183939/"><img src="https://www.povarenok.ru/data/cache/2026jul/04/57/3223363_36571-640x480.jpg"></a>Готовим открытый пирог из слоеного теста с начинкой из груши и сыра с белой плесенью. Сочетание груши и сыра — идеальный баланс фруктовой сладости с пикантностью мягкого сыра. Ну а если вы хотите добавить акцент - смело наливайте в фужер игристое или белое вино.
+Пирог буду выпекать в противне от бренда Kukmara- это идеальный... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183939/">Тарт с грушей и сыром</a></p></div>
+</div><!--n:Поваренок.РУ/Тарт с грушей и сыром:s:1041554:e:962-->
+<!----><!--2026-07-04 18:29:28-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183938/"><img src="https://www.povarenok.ru/data/cache/2026jul/03/40/3223260_69446-640x480.jpg"></a>Горячий бутерброд с яблоками стоит приготовить хотя бы ради того, чтобы удивиться, как это вкусно! Сварить ароматный кофе, приготовить такой бутерброд и ваш день удался! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183938/">Легендарные горячие бутерброды с яблоками</a></p></div>
+</div><!--n:Поваренок.РУ/Легендарные горячие бутерброды с яблоками:s:1042604:e:720-->
+<!----><!--2026-07-04 13:24:19-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183937/"><img src="https://www.povarenok.ru/data/cache/2026jul/04/24/3223334_45584-640x480.jpg"></a>Тыква - это вкусно и полезно! В сочетании с сыром страчателла вообще прекрасно! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183937/">Тыквенный суп-пюре с кокосовым молоком</a></p></div>
+</div><!--n:Поваренок.РУ/Тыквенный суп-пюре с кокосовым молоком:s:1043452:e:547-->
