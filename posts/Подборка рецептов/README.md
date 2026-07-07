@@ -4873,3 +4873,16 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183937/"><img src="https://www.povarenok.ru/data/cache/2026jul/04/24/3223334_45584-640x480.jpg"></a>Тыква - это вкусно и полезно! В сочетании с сыром страчателла вообще прекрасно! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183937/">Тыквенный суп-пюре с кокосовым молоком</a></p></div>
 </div><!--n:Поваренок.РУ/Тыквенный суп-пюре с кокосовым молоком:s:1043452:e:547-->
+<!----><!--2026-07-06 16:46:19-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183958/"><img src="https://www.povarenok.ru/data/cache/2026jul/06/18/3223787_65159-640x480.jpg"></a>Любителям пикантных азиатских вкусов такой вариант приготовления рыбы должен понравится. Такую горбушу в пикантном кисло-сладком соусе можно подать горячей в качестве основного блюда, а можно остудить в соусе и подать в качестве холодной закуски. Оба варианта будут хороши. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183958/">Горбуша в остром соусе по-китайски</a></p></div>
+</div><!--n:Поваренок.РУ/Горбуша в остром соусе по-китайски:s:1044120:e:900-->
+<!----><!--2026-07-06 16:42:57-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183957/"><img src="https://www.povarenok.ru/data/cache/2026jul/06/42/3223807_75693-640x480.jpg"></a>Шницели - это просто вкусно и быстро! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183957/">Шницели из говядины</a></p></div>
+</div><!--n:Поваренок.РУ/Шницели из говядины:s:1045133:e:435-->
+<!----><!--2026-07-06 18:52:47-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183959/"><img src="https://www.povarenok.ru/data/cache/2026jul/06/31/3223816_75765-640x480.jpg"></a>В разгар сезона молодого картофеля приготовьте теплый салат с беконом и пикантной горчичной заправкой. Блюдо достаточно питательное, поэтому его можно подать как основное. 
+Так как салат подается в теплом виде, его удобно готовить в посуде из нержавеющей стали от бренда Kukmara, которая хорошо держит температуру, в том числе и... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183959/">Немецкий картофельный салат</a></p></div>
+</div><!--n:Поваренок.РУ/Немецкий картофельный салат:s:1045654:e:982-->
