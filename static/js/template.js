@@ -104,9 +104,9 @@ function arraySort(aa,bb,dorev,donum){
   return 0;
 }
 //
-// change action link href to light/dark css
+// change css action to light/dark
 //
-function actionChStyle(p){
+function chStyle(p){
   document.querySelectorAll("link[href^='static/css/"+p+"']").forEach(function(e){
     localStorage.setItem('THEME_URL_'+window.location.pathname, e.href='static/css/'+p+(e.href.search(p+'.dark.css')>-1 ? '.css' : '.dark.css')+'?'+(+Date.now()));
   });

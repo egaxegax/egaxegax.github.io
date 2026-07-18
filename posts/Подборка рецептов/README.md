@@ -4886,3 +4886,168 @@ https://www.povareno k.ru/recipes/show/17 6909/
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183959/"><img src="https://www.povarenok.ru/data/cache/2026jul/06/31/3223816_75765-640x480.jpg"></a>В разгар сезона молодого картофеля приготовьте теплый салат с беконом и пикантной горчичной заправкой. Блюдо достаточно питательное, поэтому его можно подать как основное. 
 Так как салат подается в теплом виде, его удобно готовить в посуде из нержавеющей стали от бренда Kukmara, которая хорошо держит температуру, в том числе и... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183959/">Немецкий картофельный салат</a></p></div>
 </div><!--n:Поваренок.РУ/Немецкий картофельный салат:s:1045654:e:982-->
+<!----><!--2026-07-06 20:21:38-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/sup-pyure-iz-kabachkov-so-slivkami-i-kartofelem/photo/960w.jpg" width="960" alt="Суп-пюре из кабачков со сливками и картофелем"><p>Кабачковый суп-пюре со сливками и картофелем — нежный, густой и очень вкусный домашний суп на каждый день. Картофель делает его более сытным и бархатистым, кабачок добавляет лёгкость, а сливки придают мягкий, округлый вкус.</p> <p class="titl"><a href="https://finecooking.ru/recipe/sup-pyure-iz-kabachkov-so-slivkami-i-kartofelem">Суп-пюре из кабачков со сливками и картофелем</a></p></div>
+</div><!--n:finecooking.ru/Суп-пюре из кабачков со сливками и картофелем:s:1046738:e:931-->
+<!----><!--2026-07-07 14:46:38-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183967/"><img src="https://www.povarenok.ru/data/cache/2026jul/04/52/3223346_62342-640x480.jpg"></a>Простой до предела, бюджетный и вкусный салат. Хорош и в будни, и в пост. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183967/">Салат с морковью и соленым огурцом</a></p></div>
+</div><!--n:Поваренок.РУ/Салат с морковью и соленым огурцом:s:1047793:e:525-->
+<!----><!--2026-07-07 17:43:58-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183969/"><img src="https://www.povarenok.ru/data/cache/2026jul/06/30/3223856_60198-640x480.jpg"></a>Когда хочется чего-то вкусного к чаю, испеките творожные булочки без дрожжей. Просто смешайте все ингредиенты и готово! К тому же творог — очень полезная добавка, он содержит не только белок, но и кальций, который необходим любому организму. Количество сахара можете регулировать по своему вкусу. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183969/">Творожные булочки-жгутики к чаю</a></p></div>
+</div><!--n:Поваренок.РУ/Творожные булочки-жгутики к чаю:s:1048431:e:932-->
+<!----><!--2026-07-07 17:13:08-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183968/"><img src="https://www.povarenok.ru/data/cache/2026jul/07/11/3224128_98440-640x480.jpg"></a>Легкое в приготовление, но вкусное &quot;пирожное&quot;. Летнее, воздушное, сладкое. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183968/">Безе с цитрусовой начинкой</a></p></div>
+</div><!--n:Поваренок.РУ/Безе с цитрусовой начинкой:s:1049471:e:525-->
+<!----><!--2026-07-08 17:12:36-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183980/"><img src="https://www.povarenok.ru/data/cache/2026jul/07/07/3223946_93698-640x480.jpg"></a>У нас наступил сезон черники. Очень люблю эту ягоду и всегда стараюсь приготовить из нее что-нибудь вкусное! Эти кексы готовятся очень просто, а получаются настолько нежными и вкусными, что гости всегда спрашивают рецепт! Угощайтесь! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183980/">Кексы с черникой "Вкусные"</a></p></div>
+</div><!--n:Поваренок.РУ/Кексы с черникой Вкусные:s:1050095:e:806-->
+<!----><!--2026-07-08 14:41:29-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183979/"><img src="https://www.povarenok.ru/data/cache/2026jul/08/41/3224308_11700-640x480.jpg"></a>Мясо у меня вареное с варки бульона осталось. Делаю с ним пирожки! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183979/">Пирожки с отварной говядиной</a></p></div>
+</div><!--n:Поваренок.РУ/Пирожки с отварной говядиной:s:1050996:e:505-->
+<!----><!--2026-07-08 18:33:53-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183981/"><img src="https://www.povarenok.ru/data/cache/2026jul/08/57/3224334_24659-640x480.jpg"></a>Приготовим пиццу с начинкой из сыра фета, свежими овощами и греческой заправкой. Вегетарианский вариант достаточно сытный, с пикантным свежим акцентом. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183981/">Пицца по-гречески</a></p></div>
+</div><!--n:Поваренок.РУ/Пицца по-гречески:s:1051604:e:644-->
+<!----><!--2026-07-08 16:45:36-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/klubnichnyy-chizkeyk-bez-vypechki-na-zhelatine/photo/960w.jpg" width="960" alt="Клубничный чизкейк без выпечки на желатине"><p>Клубничный чизкейк без выпечки с желатином — нежный, красивый и очень вкусный десерт с хрустящей песочной основой и гладкой сливочно-ягодной начинкой. Летом его особенно приятно готовить из свежей ароматной клубники, а в любое другое время года подойдут и замороженные ягоды.</p> <p class="titl"><a href="https://finecooking.ru/recipe/klubnichnyy-chizkeyk-bez-vypechki-na-zhelatine">Клубничный чизкейк без выпечки на желатине</a></p></div>
+</div><!--n:finecooking.ru/Клубничный чизкейк без выпечки на желатине:s:1052330:e:1020-->
+<!----><!--2026-07-09 16:40:46-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183994/"><img src="https://www.povarenok.ru/data/cache/2026jul/09/28/3224546_21065-640x480.jpg"></a>Пироги с помидором, Моцареллой и жареной куриной печенью с луком. Пироги большие. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183994/">Пироги с жареной куриной печенью</a></p></div>
+</div><!--n:Поваренок.РУ/Пироги с жареной куриной печенью:s:1053471:e:541-->
+<!----><!--2026-07-09 16:39:53-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183993/"><img src="https://www.povarenok.ru/data/cache/2026jul/07/13/3224140_37962-640x480.jpg"></a>Шикарное лечо! В холодном виде можно подавать как закуску, а в горячем виде как гарнир. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183993/">Лечо из болгарских перцев</a></p></div>
+</div><!--n:Поваренок.РУ/Лечо из болгарских перцев:s:1054122:e:537-->
+<!----><!--2026-07-09 15:28:51-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/183992/"><img src="https://www.povarenok.ru/data/cache/2026jul/09/27/3224531_46183-640x480.jpg"></a>Меня заинтересовала этикетка на упаковки корюшки - корюшка азиатская (Osmerus mordax). Знаю ПИТЕРСКУЮ корюшку, которая пахнет огурцами. Знаю ДАЛЬНЕВОСТОЧНУЮ - вкусная рыбка. А вот про АЗИАТСКУЮ - не слышала, захотелось попробовать - купила. На вид - красивая, попробуем на вкус!
+Готовить рыбку мне помогла посуда ТМ Kukmara -... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/183992/">Азиатская жареная корюшка с соусом тартар</a></p></div>
+</div><!--n:Поваренок.РУ/Азиатская жареная корюшка с соусом тартар:s:1054756:e:980-->
+<!----><!--2026-07-10 20:35:02-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184005/"><img src="https://www.povarenok.ru/data/cache/2026jul/10/06/3224821_39044-640x480.jpg"></a>Пастерони с мясным фаршем — это сытное и вкусное блюдо, где паста Pasteroni сочетается с мясным ингредиентом. Пастерони идеально подходит для этого блюда благодаря способности удерживать соус. Главный секрет рецепта — максимальная простота приготовления. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184005/">Пастерони с фаршем</a></p></div>
+</div><!--n:Поваренок.РУ/Пастерони с фаршем:s:1055863:e:831-->
+<!----><!--2026-07-10 20:38:15-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184006/"><img src="https://www.povarenok.ru/data/cache/2026jul/10/29/3224891_64886-640x480.jpg"></a>Я придерживаюсь правильного питания, но иногда хотца устроить праздник живота! Заходя в маркт - обязательно в мясном отделе посмотрю на грудинку, если она классная - куплю непременно и в морозилку до лучших дней.
+Ну вот день лучший уже настал - сегодня праздник - ВСЕМИРНЫЙ ДЕНЬ ЖАРЕНОГО МЯСА. Празднуем всей семьей, потому, что от... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184006/">Свиная грудинка, приготовленная на сковороде</a></p></div>
+</div><!--n:Поваренок.РУ/Свиная грудинка, приготовленная на сковороде:s:1056778:e:1018-->
+<!----><!--2026-07-10 19:06:32-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184004/"><img src="https://www.povarenok.ru/data/cache/2026jul/07/38/3224093_70960-640x480.jpg"></a>Готовим быстро и вкусно. Для тех, кто придерживается ПП, такие конвертики будут в самую тему. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184004/">Хрустящие конвертики с голубикой</a></p></div>
+</div><!--n:Поваренок.РУ/Хрустящие конвертики с голубикой:s:1057930:e:562-->
+<!----><!--2026-07-10 20:18:19-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/samye-vkusnye-ogurcy-po-finski-na-zimu-recept-s-gorchicey-bez-sterilizacii/photo/960w.jpg" width="960" alt="Самые вкусные огурцы по-фински на зиму — рецепт с горчицей без стерилизации"><p>Маринованные огурцы по-фински — простая, аппетитная и очень удачная заготовка на зиму с насыщенным, но мягким сладковато-кислым вкусом. Огурцы нарезают крупными бочонками и недолго варят прямо в маринаде, поэтому они готовятся быстро, остаются... <p class="titl"><a href="https://finecooking.ru/recipe/samye-vkusnye-ogurcy-po-finski-na-zimu-recept-s-gorchicey-bez-sterilizacii">Самые вкусные огурцы по-фински на зиму — рецепт с горчицей без стерилизации</a></p></div>
+</div><!--n:finecooking.ru/Самые вкусные огурцы по-фински на зиму рецепт с горчицей без стерилизации:s:1058603:e:1136-->
+<!----><!--2026-07-11 20:23:30-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184009/"><img src="https://www.povarenok.ru/data/cache/2026jul/10/51/3224845_82630-640x480.jpg"></a>Манник - вкусный домашний пирог, особенно нежным он получается на кефире. В такое тесто можно вмешать любые добавки, которые вам по душе. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184009/">Манник на кефире с яблоками</a></p></div>
+</div><!--n:Поваренок.РУ/Манник на кефире с яблоками:s:1059916:e:631-->
+<!----><!--2026-07-11 06:47:22-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184007/"><img src="https://www.povarenok.ru/data/cache/2026jul/10/40/3224898_25147-640x480.jpg"></a>Горячее блюдо, на рядовой обед/ужин или на праздничный стол. Готовится просто, результат отличный. Рекомендую. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184007/">Поджарка из свинины со сметаной</a></p></div>
+</div><!--n:Поваренок.РУ/Поджарка из свинины со сметаной:s:1060647:e:592-->
+<!----><!--2026-07-11 15:27:10-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184008/"><img src="https://www.povarenok.ru/data/cache/2026jul/11/22/3224954_40257-640x480.jpg"></a>Запеканка из свёклы с творогом — это домашний сытный десерт с насыщенным вкусом. Запечённая свёкла придаёт блюду естественную сладость и яркий оттенок, а чернослив добавляет мягкие фруктовые нотки и приятную сладость. 
+Запеканка станет отличным вариантом для завтрака или полезного десерта. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184008/">Запеканка из свёклы с творогом</a></p></div>
+</div><!--n:Поваренок.РУ/Запеканка из свёклы с творогом:s:1061347:e:928-->
+<!----><!--2026-07-11 15:57:54-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/gustoy-dzhem-iz-krasnoy-smorodiny-na-zimu/photo/960w.jpg" width="960" alt="Густой джем из красной смородины на зиму"><p>Густой джем из красной смородины на зиму — яркая ягодная заготовка с насыщенным кисло-сладким вкусом и гладкой желеобразной консистенцией. Ягоды сначала недолго прогреваются с небольшим количеством воды, затем протираются через сито, а к полученному смородиновому пюре добавляется столько же сахара по весу.</p> <p class="titl"><a href="https://finecooking.ru/recipe/gustoy-dzhem-iz-krasnoy-smorodiny-na-zimu">Густой джем из красной смородины на зиму</a></p></div>
+</div><!--n:finecooking.ru/Густой джем из красной смородины на зиму:s:1062381:e:1062-->
+<!----><!--2026-07-12 20:24:16-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184018/"><img src="https://www.povarenok.ru/data/cache/2026jul/12/22/3225153_85005-640x480.jpg"></a>Поистине ресторанная подача. Идеально в сезон, когда не знаешь, что делать с кабачками. Нежно, свежо и очень красиво. Зеленый цвет, следующий по спектру. А помогали мне при готовке этого изысканного блюда сковорода 26 см со съемной ручкой АП линия &quot;Гранит ультра&quot; (Арт. сго262а), доска разделочная из нержавеющей стали (Арт... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184018/">Закуска из кабачков</a></p></div>
+</div><!--n:Поваренок.РУ/Закуска из кабачков:s:1063559:e:960-->
+<!----><!--2026-07-12 15:18:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184016/"><img src="https://www.povarenok.ru/data/cache/2026jul/11/15/3225006_93210-640x480.jpg"></a>В сезон фруктов и ягод, предлагаю приготовить пирог с творожной начинкой и сливой. Пирог получился нежным, ванильным и с приятной сливовой ноткой. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184016/">Пирог с творожной начинкой и сливой</a></p></div>
+</div><!--n:Поваренок.РУ/Пирог с творожной начинкой и сливой:s:1064605:e:665-->
+<!----><!--2026-07-12 20:06:36-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184017/"><img src="https://www.povarenok.ru/data/cache/2026jul/09/29/3224558_97496-640x480.jpg"></a>Обжаренное куриное филе с оригинальным соусом. Филе получается очень нежным, сочным, сливочным. Такой соус с добавлением каперс популярен в Италии, но мы нарушим немного традицию и попробуем без каперс, главное, что получается вкусно. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184017/">Куриное филе с итальянской ноткой</a></p></div>
+</div><!--n:Поваренок.РУ/Куриное филе с итальянской ноткой:s:1065385:e:823-->
+<!----><!--2026-07-13 19:31:19-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184025/"><img src="https://www.povarenok.ru/data/cache/2026jul/13/30/3225349_62120-640x480.jpg"></a>Очень удачный вариант разнообразить обычные макароны. Заправка приносит новый вкус, а яркий цвет привлечёт внимание и разыграет аппетит) <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184025/">Макароны в свекольно-чесночной заправке</a></p></div>
+</div><!--n:Поваренок.РУ/Макароны в свекольно-чесночной заправке:s:1066320:e:659-->
+<!----><!--2026-07-13 22:15:47-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184026/"><img src="https://www.povarenok.ru/data/cache/2026jul/12/18/3225220_20046-640x480.jpg"></a>Грибной суп из свежих лисичек непременно стоит сварить. Лисички - особенный гриб, он самый красивый, он самый чистый и эти грибы не бывают червивыми. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184026/">Грибной суп из свежих лисичек</a></p></div>
+</div><!--n:Поваренок.РУ/Грибной суп из свежих лисичек:s:1067103:e:657-->
+<!----><!--2026-07-13 19:16:31-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184024/"><img src="https://www.povarenok.ru/data/cache/2026jul/13/21/3225341_72435-640x480.jpg"></a>Фриттата с рисом и спаржей ( в оригинале frittata di riso agli asparagi )— это вкусное и сытное блюдо, позволяющее превратить остатки продуктов в изысканное угощение. Сочетание риса, яиц, нежной спаржи и сыра делает его отличным вариантом для плотного завтрака и обеда. Также фритату можно взять с собой на пикник или в дорогу. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184024/">Фритата со спаржей и рисом</a></p></div>
+</div><!--n:Поваренок.РУ/Фритата со спаржей и рисом:s:1067864:e:950-->
+<!----><!--2026-07-13 08:34:44-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kak-pravilno-zamorozit-vishnyu-na-zimu-bez-kostochek/photo/960w.jpg" width="960" alt="Как правильно заморозить вишню без косточек на зиму в морозилке"><p>Заморозить вишню без косточек на зиму в морозилке очень просто. Я сначала раскладываю ягоды на подносе, перекладывая слои чистыми пакетами, и замораживаю. Благодаря этому вишня не смерзается в один большой комок, а ягодки остаются отдельно друг от друга.</p> <p class="titl"><a href="https://finecooking.ru/recipe/kak-pravilno-zamorozit-vishnyu-bez-kostochek-na-zimu-v-morozilke">Как правильно заморозить вишню без косточек на зиму в морозилке</a></p></div>
+</div><!--n:finecooking.ru/Как правильно заморозить вишню без косточек на зиму в морозилке:s:1068912:e:1078-->
+<!----><!--2026-07-14 16:03:14-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184034/"><img src="https://www.povarenok.ru/data/cache/2026jul/14/47/3225551_94776-640x480.jpg"></a>Приготовьте забавные ребрышки из кукурузы. Сочные, сладко - соленые, пикантные, с ароматом гриля. Для приготовления кукурузных ребрышек воспользуюсь гриль сковородой от бренда Kukmara. Благодаря съемной ручке на сковороде можно выбрать способ приготовления, обжарить или запечь в духовке. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184034/">Кукурузные ребрышки bbq</a></p></div>
+</div><!--n:Поваренок.РУ/Кукурузные ребрышки bbq:s:1070149:e:898-->
+<!----><!--2026-07-14 14:54:22-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184033/"><img src="https://www.povarenok.ru/data/cache/2026jul/07/08/3224051_19745-640x480.jpg"></a>Сегодня в календаре каких только дней не увидишь, оказывается 14 июля день красной смородины, решила этот день отметить классным соусом из красной смородины. Кисло-сладкий насыщенный соус из четырех ингредиентов. Хорошо подходит к говядине, свинине, к утке и другой дичи. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184033/">Смородиновый соус к мясу</a></p></div>
+</div><!--n:Поваренок.РУ/Смородиновый соус к мясу:s:1071138:e:872-->
+<!----><!--2026-07-14 16:19:24-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184035/"><img src="https://www.povarenok.ru/data/cache/2026jul/14/14/3225571_77613-640x480.jpg"></a>Листала свой любимый кулинарный сайт и на глаза мне попался очень интересный рецепт &quot;картофель с начинкой, приготовленный на соли&quot;. Соль работает как своеобразная губка и забирает лишнюю влагу из картофеля и он приобретает более рыхлую и насыщенную текстуру, а так же более яркий вкус. Я использовала лишь одну картошку -... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184035/">Картофель с начинкой-на соли</a></p></div>
+</div><!--n:Поваренок.РУ/Картофель с начинкой-на соли:s:1072105:e:984-->
+<!----><!--2026-07-15 16:27:44-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184040/"><img src="https://www.povarenok.ru/data/cache/2026jul/15/09/3225716_30108-640x480.jpg"></a>Фисташковый торт красивый, вкусный, праздничный. В нем идеальный фисташковый бисквит и очень вкусный фисташковый крем. Не для ленивых, хлопотный в приготовлении, но достоин восхищения!
+
+Для приготовления торта я использовала ковш ТМ Kukmara <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184040/">Праздничный торт фисташковый с малиной</a></p></div>
+</div><!--n:Поваренок.РУ/Праздничный торт фисташковый с малиной:s:1073191:e:839-->
+<!----><!--2026-07-15 21:05:16-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184041/"><img src="https://www.povarenok.ru/data/cache/2026jul/15/05/3225756_12606-640x480.jpg"></a>Овощная пицца - это хорошая альтернатива традиционной пицце, что особенно актуально в самый разгар кабачкового сезона. Основа пиццы приготовлена из тертой моркови и кабачка. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184041/">Овощная пицца из моркови и кабачка</a></p></div>
+</div><!--n:Поваренок.РУ/Овощная пицца из моркови и кабачка:s:1074152:e:715-->
+<!----><!--2026-07-15 11:17:46-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184039/"><img src="https://www.povarenok.ru/data/cache/2026jul/14/56/3225482_97104-640x480.jpg"></a>Скрэмбл - это разновидность омлета или яичницы-болтуньи, но особенность его приготовления - это влажная, не пересушенная текстура яичной смеси. Приготовленный на основе творога - это просто белковая бомба! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184039/">Белковый скрэмбл</a></p></div>
+</div><!--n:Поваренок.РУ/Белковый скрэмбл:s:1074980:e:739-->
+<!----><!--2026-07-15 17:03:31-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/prostoe-varene-iz-kryzhovnika-na-zimu-s-celymi-yagodami/photo/960w.jpg" width="960" alt="Простое варенье из крыжовника на зиму с целыми ягодами"><p>Варенье из крыжовника на зиму с целыми ягодами получается ароматным, кисло-сладким и очень красивым. Ягоды остаются практически целыми, а вокруг них — прозрачный сладкий сироп. Такое варенье особенно вкусно просто с чаем, свежим хлебом, блинами или сырниками.</p> <p class="titl"><a href="https://finecooking.ru/recipe/prostoe-varene-iz-kryzhovnika-na-zimu-s-celymi-yagodami">Простое варенье из крыжовника на зиму с целыми ягодами</a></p></div>
+</div><!--n:finecooking.ru/Простое варенье из крыжовника на зиму с целыми ягодами:s:1075800:e:1048-->
+<!----><!--2026-07-16 21:14:12-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184051/"><img src="https://www.povarenok.ru/data/cache/2026jul/14/40/3225492_13601-640x480.jpg"></a>Очень душевная намазка к гренкам, которая отлично подойдёт в качестве закуски на вашем столе. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184051/">Закуска из чеснока</a></p></div>
+</div><!--n:Поваренок.РУ/Закуска из чеснока:s:1076990:e:538-->
+<!----><!--2026-07-16 15:10:15-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184050/"><img src="https://www.povarenok.ru/data/cache/2026jul/16/09/3225879_66492-640x480.jpg"></a>Сезон кабачков в самом разгаре и я предлагаю вам попробовать такой вариант приготовления. Для любителей овощей очень вкусно. А колбаски привнесут дополнительный вкус и насыщение. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184050/">Тушеные кабачковые лодочки с чевапчичи</a></p></div>
+</div><!--n:Поваренок.РУ/Тушеные кабачковые лодочки с чевапчичи:s:1077612:e:734-->
+<!----><!--2026-07-16 13:19:52-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184049/"><img src="https://www.povarenok.ru/data/cache/2026jul/16/16/3225847_40325-640x480.jpg"></a>Куриные лапки - популярный ингредиент в азиатской кухне, особенно в китайской. Их жарят, тушат в соусе, варят коллагеновые желе, супы. У меня сегодня несложный рецепт, но для него нужно много ингредиентов. Некоторые можно заменить, некоторые убрать по своему вкусу <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184049/">Куриные лапки в азиатском стиле</a></p></div>
+</div><!--n:Поваренок.РУ/Куриные лапки в азиатском стиле:s:1078468:e:871-->
+<!----><!--2026-07-17 15:38:26-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184064/"><img src="https://www.povarenok.ru/data/cache/2026jul/17/20/3226086_72319-640x480.jpg"></a>Вариация на тему)) В сезон молодых кабачков привычное блюдо в новом исполнении и с красивой подачей. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184064/">Кабачки "Почти голубцы"</a></p></div>
+</div><!--n:Поваренок.РУ/Кабачки Почти голубцы:s:1079447:e:557-->
+<!----><!--2026-07-17 16:54:41-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184065/"><img src="https://www.povarenok.ru/data/cache/2026jul/17/54/3226118_49133-640x480.jpg"></a>Приготовить такой рулет не сложно! Получается красиво и вкусно. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184065/">Рулет из куриного фарша⁠</a></p></div>
+</div><!--n:Поваренок.РУ/Рулет из куриного фарша:s:1080094:e:495-->
+<!----><!--2026-07-17 20:16:46-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184066/"><img src="https://www.povarenok.ru/data/cache/2026jul/15/52/3225696_43121-640x480.jpg"></a>Если вы любите &quot;ленивые&quot; рецепты, то вам точно сюда. Начните свой день с улыбки и простого, быстрого и вкусного завтрака! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184066/">Бутерброды из тостового хлеба</a></p></div>
+</div><!--n:Поваренок.РУ/Бутерброды из тостового хлеба:s:1080682:e:615-->
+<!----><!--2026-07-17 09:00:05-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kompot-iz-svezhey-vishni-s-kostochkami-v-kastryule/photo/960w.jpg" width="960" alt="Компот из свежей вишни с косточками в кастрюле"><p>Компот из вишни с косточками в кастрюле — простой и очень вкусный летний напиток на каждый день. Получается ярким, ароматным, с насыщенным вишневым вкусом и приятной кислинкой. Особенно хорош хорошо охлаждённым — в жару такой компот у нас исчезает подозрительно быстро.</p> <p class="titl"><a href="https://finecooking.ru/recipe/kompot-iz-svezhey-vishni-s-kostochkami-v-kastryule">Компот из свежей вишни с косточками в кастрюле</a></p></div>
+</div><!--n:finecooking.ru/Компот из свежей вишни с косточками в кастрюле:s:1081402:e:1028-->

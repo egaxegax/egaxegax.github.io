@@ -45,7 +45,8 @@
 .tooltip { cursor:pointer; text-decoration:underline; text-decoration-style:dotted; }
 .wrap { border-radius:3px; padding:5px 10px 4px 10px; margin:0 auto 5px auto; }
 #root { min-height:100%; }
-#header a { display:inline-block; }
+#header { line-height:27px; }
+#header a { display:inline-block; padding:0 10px; font-size:93.75%; }
 @media (min-width:800px){ #page_content { font-size:93.75%; min-height:70vh; } }
 @media (max-width:800px){ #page_content { min-height:55vh; } }
 #page_footer:not(:empty) { min-height:calc(10vh - 10px); padding:10px 0 0 0; }

@@ -10,11 +10,11 @@ h2 { color:#fff; }
 input[type=text], select { background:#fff; }
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }
-#header svg g { fill:#777; stroke:#777; }
-#header svg g.active { fill:#3c677b; stroke:#3c677b; }
-#header .yin { fill:#fff; stroke:#fff; }
+#header em { color:#777; }
+#header .active em { color:#3c677b; }
+#header .yin { fill:#777; stroke:#777; }
+#header .yang { fill:#fff; stroke:#fff; }
 #page_footer button { background:#91bba1; color:#fff; }
-/* readme */
 /* .readme { font-size:93.75%; } */
 /*img*/
 @media (min-width:800px){ .foto { max-height:65vh; } }

@@ -12,9 +12,10 @@ div.about { padding:10px 15px; border:1px solid lightgray; }
 input[type=text], select { background:#fff; }
 #root { background:#f0f0f0; }
 #header { background:#d2e0f0; }
-#header svg g { fill:#777; stroke:#777; }
-#header svg g.active { fill:#3c677b; stroke:#3c677b; }
-#header .yin { fill:#fff; stroke:#fff; }
+#header em { color:#777; }
+#header .active em { color:#3c677b; }
+#header .yin { fill:#777; stroke:#777; }
+#header .yang { fill:#fff; stroke:#fff; }
 #page_footer button { background:#91bba1; color:#fff; }
 /**/
 .about img { max-width:50px !important; }

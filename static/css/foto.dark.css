@@ -11,11 +11,11 @@ h2 { color:#9ac495; }
 input[type=text], select { background:#656565; color:#fff; }
 #root { background:#212121; }
 #header, .wrap { background:#323232; }
-#header svg g { fill:#dedede; stroke:#dedede; }
-#header svg g.active { fill:#f4c430; stroke:#f4c430; }
-#header .yin { fill:#777; stroke:#777; }
+#header em { color:#dedede; }
+#header .active em { color:#f4c430; }
+#header .yin { fill:#fff; stroke:#fff; }
+#header .yang { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
-/* readme */
 /* .readme { font-size:93.75%; } */
 /*img*/
 @media (min-width:800px){ .foto { max-height:65vh; } }
