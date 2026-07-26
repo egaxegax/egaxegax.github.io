@@ -250,7 +250,7 @@ function addTitlesRelsHtml(p, page_html, hdr_text, pid){
     }
     document.getElementById(pid).innerHTML += 
   (document.getElementById('rels_links') ? '' : ('<div id="rels_links" class="hspace inlbl">'+(hdr_text||'')+'</div>') )+
-  '<div class="msgtext mw_f scroll small">'+
+  '<div class="msgtext mw_f scroll smaller1">'+
     '<div class="inlbl"><em style="padding-left:12px">'+tit[0]+'</em> &nbsp; <a class="light" href="'+page_html+'?'+tr(tit[0])+'/'+tr(tit[1])+'">'+tit[1]+'</a></div>'+
   '</div>';
   });

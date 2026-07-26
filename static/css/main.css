@@ -35,6 +35,7 @@
 .scroll { overflow:auto; }
 .noscroll { overflow:hidden; }
 .smaller { font-size:smaller; }
+.smaller1 { font-size:93.333%; }
 .small { font-size:small; }
 .large { font-size:large; }
 .bigger { font-size:150%; }
@@ -45,7 +46,7 @@
 .tooltip { cursor:pointer; text-decoration:underline; text-decoration-style:dotted; }
 .wrap { border-radius:3px; padding:5px 10px 4px 10px; margin:0 auto 5px auto; }
 #root { min-height:100%; }
-#header { line-height:27px; }
+#header { line-height:27px; height:27px; }
 #header a { display:inline-block; padding:0 10px; font-size:93.75%; }
 @media (min-width:800px){ #page_content { font-size:93.75%; min-height:70vh; } }
 @media (max-width:800px){ #page_content { min-height:55vh; } }
