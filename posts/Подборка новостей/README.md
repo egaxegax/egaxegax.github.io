@@ -73845,3 +73845,1516 @@
 <div class="yb">
   <div class="rss mw_f scroll chmp">18 июля состоится матч за Суперкубок России «Зенит» — «Спартак». <p class="titl"><a href="https://www.championat.ru/bets/news-6549534-zenit-spartak-stal-izvesten-favorit-matcha-za-superkubok-rossii.html">«Зенит» — «Спартак»: стал известен фаворит матча за Суперкубок России</a></p></div>
 </div><!--n:Чемпионат/Зенит Спартак стал известен фаворит матча за Суперкубок России:s:9102840:e:494-->
+<!----><h2 class="hspace">Наука на Сб 18 июл 2026 20:00</h2><!--2026-07-18 19:44:28-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/uchyonye-vyyasnili-kak-imenno-nasha-kozha-razlichaet-teplo-i-kholod.html">Учёные выяснили, как именно наша кожа различает тепло и холод</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:10</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/genetika-redkikh-yashheric-mozhet-pomoch-v-lechenii-smertonosnogo-neduga-u-lyudey.html">Генетика редких ящериц может помочь в лечении смертоносного недуга у людей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:01</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/marsokhod-nashel-sledy-drevnikh-asteroidnykh-bombardirovok-na-marse.html">Марсоход нашел следы древних астероидных бомбардировок на Марсе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:20</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/raskryta-neobychnaya-sposobnost-loshadey-k-raspoznavaniyu-khishhnikov.html">Раскрыта необычная способность лошадей к распознаванию хищников</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:19</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/kosmicheskiy-proryv-indiya-otkryla-eru-chastnykh-zapuskov.html">Космический прорыв: Индия открыла эру частных запусков</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:30</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/uchyonye-nashli-sposob-obnaruzhit-antimateriyu-s-pomoshhyu-konfet.html">Учёные нашли способ обнаружить антиматерию с помощью &#34;конфет&#34;</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:58</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/uteryannye-ostanki-ubivavshego-vikingov-angliyskogo-korolya-obnaruzheny-na-parkovke.html">Утерянные останки убивавшего викингов английского короля обнаружены на парковке</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:57</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/ocenena-vozmozhnost-poleta-na-mars-v-sostoyanii-spyachki.html">Оценена возможность полета на Марс в состоянии спячки</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:54</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/obnaruzhennyy-v-mezhzvezdnom-prostranstve-sakhar-nazvan-klyuchom-k-razgadke-proiskhozhdeniya-zhizni.html">Обнаруженный в межзвездном пространстве сахар назван ключом к разгадке происхождения жизни</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:50</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/pod-stenoy-obnaruzhen-tainstvennyy-dukhkhranitel-drevney-civilizacii.html">Под стеной обнаружен таинственный «дух-хранитель» древней цивилизации</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260718 2000:s:9103495:e:3890-->
+<!----><h2 class="hspace">Спорт на Сб 18 июл 2026 22:00</h2><!--2026-07-18 18:55:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/football/1117302456-42-139-zritelej-posetili-match-zenita-i-spartaka-za-superkubok-rossii.html">42 139 зрителей посетили матч «Зенита» и «Спартака» за Суперкубок России в Нижнем Новгороде</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/football/1117302466-sobolev-pokazal-futbolku-i-chto-to-krichal-fanatam-spartaka-posle-gola.html">Соболев показал футболку и что-то кричал фанатам «Спартака» после гола с пенальти на 98-й. Зобнин подошел к форварду «Зенита», между командами началсь стычка</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117302454-badosa-vpervye-za-dva-goda-vyshla-v-final-wta.html">Бадоса дважды отыграла подачу на матч у Зиданшек и впервые за 2 года вышла в финал WTA</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/football/1117301621-olimpbet-superkubok-rossii-zenit-sygraet-so-spartakom.html">Olimpbet Суперкубок России. «Зенит» победил «Спартак» по пенальти – 3:2. Соболев на 98-й с точки спас петербуржцев и забил победный в серии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117301832-che-2026-yunoshi-u20-1-2-finala-ispaniya-sygraet-protiv-serbii-franczi.html">ЧЕ-2026. Юноши (U20). 1/2 финала. Словения победила Францию, Испания сыграет против Сербии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117301907-afiny-wta-2026-rezultaty-1-2-finala.html">Афины (WTA). 1/2 финала. Крейчикова играет с Таусон, Корнеева уступила Саккари</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/football/1117302453-zenit-na-98-j-zabil-spartaku-s-penalti-za-popadanie-dzhiku-sobolevu-ru.html">«Зенит» на 98-й забил «Спартаку» с пенальти за игру Джику рукой в борьбе с Соболевым. Александр реализовал удар</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:46</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117302458-andrea-kimi-antonelli-posle-pervogo-segmenta-dumal-chto-u-nas-problemy.html">Андреа Кими Антонелли: «После первого сегмента думал, что у нас проблемы. Команда заслужила этот поул»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:44</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117301730-yassy-wta-2026-rezultaty-1-2-finala.html">Яссы (WTA). Бадоса, Шериф вышли в финал</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:40</span> <a class="nodecor" href="https://www.sports.ru/football/1117302427-czska-ne-vyigral-ni-odnogo-iz.html">ЦСКА не выиграл ни одного из 7 предсезонных матчей – 4 поражения, 3 ничьих</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260718 2200:s:9107465:e:4220-->
+<!----><h2 class="hspace">В мире на Вс 19 июл 2026 06:00</h2><!--2026-07-19 05:20:40-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:20</span> <a class="nodecor" href="https://news.rambler.ru/world/56778391-v-fonde-nato-nazvali-glavnoe-preimuschestvo-evropy-pered-rossiey/">В фонде НАТО назвали главное преимущество Европы перед Россией</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:50</span> <a class="nodecor" href="https://news.rambler.ru/world/56778351-tramp-sravnil-poteri-ssha-v-voyne-s-iranom-s-konfliktami-v-afganistane-i-vetname/">Трамп сравнил потери США в войне с Ираном с конфликтами в Афганистане и Вьетнаме</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:44</span> <a class="nodecor" href="https://news.rambler.ru/world/56778295-v-ssha-raskryli-lozh-zapada-o-sobytiyah-na-svo/">В США раскрыли ложь Запада о событиях на СВО</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:56</span> <a class="nodecor" href="https://news.rambler.ru/world/56778259-ukrainskaya-pravda-zelenskiy-ne-obsuzhdal-s-komandirami-otstavku-syrskogo/">"Украинская правда": Зеленский не обсуждал с командирами отставку Сырского</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:56</span> <a class="nodecor" href="https://news.rambler.ru/world/56778189-tramp-vyrazil-soboleznovaniya-iz-za-gibeli-voennyh-ssha-v-iordanii/">Трамп выразил соболезнования из-за гибели военных США в Иордании</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:29</span> <a class="nodecor" href="https://news.rambler.ru/world/56778151-borba-s-korruptsiey-vyzvala-krizis-v-odnoy-strane/">Борьба с коррупцией вызвала кризис в одной стране</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:17</span> <a class="nodecor" href="https://news.rambler.ru/world/56775538-ministr-inostrannyh-del-kndr-vyletela-v-rossiyu-s-vizitom/">Министр иностранных дел КНДР вылетела в Россию с визитом</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:37</span> <a class="nodecor" href="https://news.rambler.ru/world/56778129-zapadnye-smi-zhestko-raskritikovali-odno-reshenie-zelenskogo/">Западные СМИ жестко раскритиковали одно решение Зеленского</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:40</span> <a class="nodecor" href="https://news.rambler.ru/world/56778125-v-oae-sdelali-zayavlenie-ob-eskalatsii-na-blizhnem-vostoke/">В ОАЭ сделали заявление об эскалации на Ближнем Востоке</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:27</span> <a class="nodecor" href="https://news.rambler.ru/world/56776656-evropa-uzhestochaet-pravila-prebyvaniya-dlya-ukrainskih-bezhentsev-prizyvnikov/">Европа ужесточает правила пребывания для украинских беженцев — призывников</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260719 0600:s:9111736:e:3671-->
+<!----><!--2026-07-18 15:37:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Поезд Москва - Адлер от "Гранд Сервис Экспресс" теперь ходит каждый день. С 18 июля - из Адлера, с 20 июля - из Москвы. Об этом сообщает пресс-служба компании. <p class="titl"><a href="https://rg.ru/2026/07/18/iz-moskvy-v-adler-zapustili-eshche-odin-ezhednevnyj-poezd.html">Из Москвы в Адлер запустили еще один ежедневный поезд</a></p></div>
+</div><!--n:Российская газета/Из Москвы в Адлер запустили еще один ежедневный поезд:s:9115460:e:599-->
+<!----><!--2026-07-18 20:11:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/18/iurist-haminskij-rasskazal-blokiruetsia-li-zarplatnaia-karta-posle-uvolneniia.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/18/ria_8279993hr_4de_b31.jpg"></a>Многие россияне имеют зарплатные карты. При этом часто возникает вопрос: блокируется ли такая банковская карта автоматически после увольнения сотрудника из компании? Можно ли сделать ее обычной и какие изменения произойдут в ее обслуживании после того, как она перестанет быть зарплатной? <p class="titl"><a href="https://rg.ru/2026/07/18/iurist-haminskij-rasskazal-blokiruetsia-li-zarplatnaia-karta-posle-uvolneniia.html">Юрист Хаминский рассказал, блокируется ли зарплатная карта после увольнения</a></p></div>
+</div><!--n:Российская газета/Юрист Хаминский рассказал, блокируется ли зарплатная карта после увольнения:s:9116217:e:1127-->
+<!----><!--2026-07-18 15:49:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Администрация аэропорта Домодедово проведет работу по контролю качества массажных кресел, размещенных на территории авиагавани, после сообщений о жалобах пассажиров на наличие в них клопов. Кресла принадлежат арендатору аэропорта, он и должен следить за их санитарным состоянием. Об этом пишет <a href="https://ria.ru/" rel="noopener noreferrer" target="_blank">РИА Новости</a> со ссылкой на пресс-службу воздушной гавани. <p class="titl"><a href="https://rg.ru/2026/07/18/reg-cfo/v-domodedovo-proveriat-sostoianie-massazhnyh-kresel-posle-zhalob-passazhirov.html">В Домодедово проверят состояние массажных кресел после жалоб пассажиров</a></p></div>
+</div><!--n:Российская газета/В Домодедово проверят состояние массажных кресел после жалоб пассажиров:s:9117546:e:1105-->
+<!----><!--2026-07-18 19:48:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Средний размер пенсии работающих и неработающих россиян в июне 2026 года достиг свыше 25,4 тысячи рублей, передает <a href="https://ria.ru/20260718/pensija-2105515436.html" rel="noopener noreferrer" target="_blank">РИА Новости</a> со ссылкой на данные Социального фонда России. <p class="titl"><a href="https://rg.ru/2026/07/18/sredniaia-pensiia-rossiian-v-iiune-dostigla-254-tysiachi-rublej.html">Средняя пенсия россиян в июне достигла 25,4 тысячи рублей</a></p></div>
+</div><!--n:Российская газета/Средняя пенсия россиян в июне достигла 25,4 тысячи рублей:s:9118846:e:748-->
+<!----><!--2026-07-18 17:30:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/18/v-rf-s-1-sentiabria-izmeniatsia-pravila-obsluzhivaniia-malomobilnyh-aviapassazhirov.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/03/11/istock-1633815196_a35.jpg"></a>С 1 сентября этого года вводится новый порядок обслуживания маломобильных авиапассажиров. Главное нововведение - возможность бесплатного резервирования наиболее комфортных и безопасных мест в самолете для людей с ограниченными возможностями здоровья на этапе покупки билета. Об этом напомнил член комиссии Общественной палаты РФ по общественному контролю и работе с обращениями граждан Евгений Машаров. <p class="titl"><a href="https://rg.ru/2026/07/18/v-rf-s-1-sentiabria-izmeniatsia-pravila-obsluzhivaniia-malomobilnyh-aviapassazhirov.html">В РФ с 1 сентября изменятся правила обслуживания маломобильных авиапассажиров</a></p></div>
+</div><!--n:Российская газета/В РФ с 1 сентября изменятся правила обслуживания маломобильных авиапассажиров:s:9119756:e:1358-->
+<!----><!--2026-07-18 22:16:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/18/eksperty-rasskazali-kak-izmenitsia-proverka-kartochek-tovarov-na-marketplejsah.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/18/ria_6569490hr-1_8b1.jpg"></a>Все карточки товаров на маркетплейсах, созданные с 1 октября, будут проходить обязательную проверку посредством интеграции с государственными информационными системами. Кроме того, сами маркетплейсы готовы проводить повторную проверку ранее опубликованных карточек товаров, что обеспечит соблюдение единых требований независимо от даты их создания. <p class="titl"><a href="https://rg.ru/2026/07/18/eksperty-rasskazali-kak-izmenitsia-proverka-kartochek-tovarov-na-marketplejsah.html">Эксперты рассказали, как изменится проверка карточек товаров на маркетплейсах</a></p></div>
+</div><!--n:Российская газета/Эксперты рассказали, как изменится проверка карточек товаров на маркетплейсах:s:9121319:e:1248-->
+<!----><!--2026-07-18 15:44:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/18/v-moskve-poiaviatsia-stancii-metro-lipeckaia-i-lebedianskaia.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/18/024a1ce9c4000e51646916170_f86.jpg"></a>Сооружение долгожданной линии метро на юге столицы идет очень активно. Как сообщил в своем канале мэр Москвы Сергей Собянин, к строительству шести станций: "ЗИЛ", "Остров Мечты", "Кленовый бульвар", "Курьяново", "Луганская" и "Каспийская" добавились еще две - "Липецкая" и "Лебедянская". <p class="titl"><a href="https://rg.ru/2026/07/18/v-moskve-poiaviatsia-stancii-metro-lipeckaia-i-lebedianskaia.html">В Москве появятся станции метро &quot;Липецкая&quot; и &quot;Лебедянская&quot;</a></p></div>
+</div><!--n:Российская газета/В Москве появятся станции метро quot Липецкая quot и quot Лебедянская quot:s:9122773:e:1064-->
+<!----><!--2026-07-18 16:24:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">С 1 сентября этого года семьи, в которых родился или был усыновлен второй (или последующий) ребенок, вправе оформить ипотечные каникулы сроком на 18 месяцев, напомнил заместитель председателя комитета Госдумы по строительству и ЖКХ Александр Аксененко. <p class="titl"><a href="https://rg.ru/2026/07/18/v-gosdume-napomnili-o-dlinnyh-ipotechnyh-kanikulah-pri-rozhdenii-vtorogo-rebenka.html">В Госдуме напомнили о длинных ипотечных каникулах при рождении второго ребенка</a></p></div>
+</div><!--n:Российская газета/В Госдуме напомнили о длинных ипотечных каникулах при рождении второго ребенка:s:9124019:e:855-->
+<!----><!--2026-07-18 19:32:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Российские туристы в Турции могут свободно обменивать рубли в пунктах обмена валют, особенно в курортных областях, сообщил председатель турецкой Ассоциации уполномоченных учреждений и обменных пунктов Сердар Йерлиоглу. <p class="titl"><a href="https://rg.ru/2026/07/18/v-turcii-zaverili-chto-rossiiane-mogut-legko-obmeniat-rubli-na-liry.html">В Турции заверили, что россияне могут легко обменять рубли на лиры</a></p></div>
+</div><!--n:Российская газета/В Турции заверили, что россияне могут легко обменять рубли на лиры:s:9125080:e:763-->
+<!----><!--2026-07-18 14:17:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/18/reg-ufo/v-sochi-133-pliazhnyh-territorij-poluchili-znaki-otlichiia.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/18/sochi---plyazhi_f60.jpg"></a>В Сочи из 180 пляжей 133 получили знаки отличия, то есть признаны безопасными, чистыми и полностью благоустроенными для отдыха. Об этом сегодня на пресс-конференции <a href="https://sochi.ru/press-sluzhba/novosti/11/296269/?utm_source=yxnews&amp;utm_medium=desktop&amp;utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Finstory%2F42f2851a-6840-5685-9644-3a191c0f8564" rel="noopener noreferrer" target="_blank">сообщил</a> журналистам мэр курорта Андрей Прошунин. <p class="titl"><a href="https://rg.ru/2026/07/18/reg-ufo/v-sochi-133-pliazhnyh-territorij-poluchili-znaki-otlichiia.html">В Сочи 133 пляжа получили знак отличия &quot; Синий флаг&quot;</a></p></div>
+</div><!--n:Российская газета/В Сочи 133 пляжа получили знак отличия quot Синий флаг quot:s:9126024:e:1158-->
+<!----><!--2026-07-19 07:25:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6550728-zaschitnik-sbornoj-francii-kunde-match-za-trete-mesto-chm-2026-voobsche-ne-stoilo-provodit.html"><img src="https://img.championat.ru/news/big/v/t/zaschitnik-sbornoj-francii-kunde-match-za-trete-mesto-chm-2026-voobsche-ne-stoilo-provodit_1784434092640676350.jpg"></a>Защитник сборной Франции Жюль Кунде прокомментировал поражение от Англии (4:6) в матче за третье место на ЧМ‑2026. <p class="titl"><a href="https://www.championat.ru/football/news-6550728-zaschitnik-sbornoj-francii-kunde-match-za-trete-mesto-chm-2026-voobsche-ne-stoilo-provodit.html">Защитник сборной Франции Кунде: матч за третье место ЧМ-2026 вообще не стоило проводить</a></p></div>
+</div><!--n:Чемпионат/Защитник сборной Франции Кунде матч за третье место ЧМ-2026 вообще не стоило проводить:s:9127340:e:961-->
+<!----><!--2026-07-19 07:32:15-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/boxing/news-6550736-rezultaty-turnira-ufc-fight-night-281-s-glavnym-boem-usman-dyu-plessi.html"><img src="https://img.championat.ru/news/big/c/g/rezultaty-turnira-ufc-fight-night-281-s-glavnym-boem-usman-dyu-plessi_17844355311859690109.jpg"></a>В ночь на 19 июля в Оклахома-Сити, США, состоялся турнир UFC Fight Night 281. <p class="titl"><a href="https://www.championat.ru/boxing/news-6550736-rezultaty-turnira-ufc-fight-night-281-s-glavnym-boem-usman-dyu-plessi.html">Результаты турнира UFC Fight Night 281 с главным боем Усман — дю Плесси</a></p></div>
+</div><!--n:Чемпионат/Результаты турнира UFC Fight Night 281 с главным боем Усман дю Плесси:s:9128501:e:770-->
+<!----><!--2026-07-19 07:52:01-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp">В ночь на 19 июля в Остине, США, состоялся турнир PFL, в главном событии которого американец Джонни Эблен нокаутировал своего соотечественника Импу Касанганая. <p class="titl"><a href="https://www.championat.ru/boxing/news-6550740-gamid-hizriev-i-aleksandra-savicheva-s-pobed-debyutirovali-v-pfl.html">Гамид Хизриев и Александра Савичева с побед дебютировали в PFL</a></p></div>
+</div><!--n:Чемпионат/Гамид Хизриев и Александра Савичева с побед дебютировали в PFL:s:9129427:e:650-->
+<!----><!--2026-07-19 07:50:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6550730-olise-plakal-v-razdevalke-vinger-francii-vinil-sebya-za-nerealizovannye-momenty.html"><img src="https://img.championat.ru/news/big/j/c/olise-plakal-v-razdevalke-vinger-francii-vinil-sebya-za-nerealizovannye-momenty-l-equipe_1784435075149444694.jpg"></a>Полузащитник сборной Франции Майкл Олисе не смог сдержать слёз после поражения от национальной команды Англии в матче за третье место на ЧМ‑2026 (4:6). <p class="titl"><a href="https://www.championat.ru/football/news-6550730-olise-plakal-v-razdevalke-vinger-francii-vinil-sebya-za-nerealizovannye-momenty.html">Олисе плакал в раздевалке, вингер Франции винил себя за нереализованные моменты — L’Équipe</a></p></div>
+</div><!--n:Чемпионат/Олисе плакал в раздевалке, вингер Франции винил себя за нереализованные моменты L quipe:s:9130234:e:1012-->
+<!----><!--2026-07-19 07:52:57-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6550742-francuzskaya-futbolnaya-federaciya-poblagodarila-dide-deshama-za-14-let-raboty-so-sbornoj.html"><img src="https://img.championat.ru/news/big/d/a/francuzskaya-futbolnaya-fede.jpg"></a>Матч за третье место на ЧМ‑2026 между сборными Франции и Англии прошёл в ночь на 19 июля и завершился со счётом 6:4 в пользу англичан. <p class="titl"><a href="https://www.championat.ru/football/news-6550742-francuzskaya-futbolnaya-federaciya-poblagodarila-dide-deshama-za-14-let-raboty-so-sbornoj.html">Французская футбольная федерация поблагодарила Дидье Дешама за 14 лет работы со сборной</a></p></div>
+</div><!--n:Чемпионат/Французская футбольная федерация поблагодарила Дидье Дешама за 14 лет работы со сборной:s:9131447:e:915-->
+<!----><!--2026-07-19 07:45:05-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6550644-shou-v-pereryve-finala-chm-po-futbolu-2026-vo-skolko-nachalo-gde-smotret-pryamuyu-translyaciyu.html"><img src="https://img.championat.ru/news/big/d/j/shou-v-pereryve-finala-chm-2026-vo-skolko-nachalo-gde-smotret-pryamuyu-translyaciyu_1784421862164974895.jpg"></a>В перерыве финала чемпионата мира по футболу 2026 года между сборными Испании и Аргентины состоится масштабное шоу, организованное ФИФА. <p class="titl"><a href="https://www.championat.ru/football/news-6550644-shou-v-pereryve-finala-chm-po-futbolu-2026-vo-skolko-nachalo-gde-smotret-pryamuyu-translyaciyu.html">Шоу в перерыве финала ЧМ-2026: во сколько начало, где смотреть прямую трансляцию</a></p></div>
+</div><!--n:Чемпионат/Шоу в перерыве финала ЧМ-2026 во сколько начало, где смотреть прямую трансляцию:s:9132568:e:993-->
+<!----><!--2026-07-19 07:30:05-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6547306-ispaniya-argentina-vo-skolko-nachalo-matcha-finala-chm-po-futbolu-2026-gde-smotret-pryamuyu-translyaciyu.html"><img src="https://img.championat.ru/news/big/y/u/ispaniya-argentina-vo-skolko-nachalo-matcha-finala-chm-2026-gde-smotret-translyaciyu_1784207075764018808.jpg"></a>Сегодня, 19 июля, состоится финал чемпионата мира 2026 года между сборными Испании и Аргентины. <p class="titl"><a href="https://www.championat.ru/football/news-6547306-ispaniya-argentina-vo-skolko-nachalo-matcha-finala-chm-po-futbolu-2026-gde-smotret-pryamuyu-translyaciyu.html">Испания — Аргентина: во сколько начало матча финала ЧМ-2026, где смотреть трансляцию</a></p></div>
+</div><!--n:Чемпионат/Испания Аргентина во сколько начало матча финала ЧМ-2026, где смотреть трансляцию:s:9133747:e:943-->
+<!----><!--2026-07-19 07:22:48-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6550734-l-equipe-soobschil-gde-hochet-igrat-aleksandr-golovin-v-sluchae-uhoda-iz-monako.html"><img src="https://img.championat.ru/news/big/g/a/l-equipe-soobschila-gde-hochet-igrat-aleksandr-golovin-v-sluchae-uhoda-iz-monako_17844351531093484694.jpg"></a>Полузащитник «Монако» Александр Головин в случае ухода из клуба предпочёл бы продолжить карьеру в Саудовской Аравии. <p class="titl"><a href="https://www.championat.ru/football/news-6550734-l-equipe-soobschil-gde-hochet-igrat-aleksandr-golovin-v-sluchae-uhoda-iz-monako.html">L&#039;Équipe сообщила, где хочет играть Александр Головин в случае ухода из «Монако»</a></p></div>
+</div><!--n:Чемпионат/L 039 quipe сообщила, где хочет играть Александр Головин в случае ухода из Монако:s:9134881:e:933-->
+<!----><!--2026-07-19 07:30:55-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/boxing/news-6550732-stali-izvestny-luchshij-boj-i-luchshie-vystupleniya-na-turnire-ufc-fight-night-281.html"><img src="https://img.championat.ru/news/big/c/d/stali-izvestny-obladateli-bonusov-na-turnire-ufc-fight-night-281_1784436097274533208.jpg"></a>В ночь с 18 на 19 июля в Оклахома-Сити, США, состоялся турнир UFC Fight Night 281. <p class="titl"><a href="https://www.championat.ru/boxing/news-6550732-stali-izvestny-luchshij-boj-i-luchshie-vystupleniya-na-turnire-ufc-fight-night-281.html">Стали известны обладатели бонусов на турнире UFC Fight Night 281</a></p></div>
+</div><!--n:Чемпионат/Стали известны обладатели бонусов на турнире UFC Fight Night 281:s:9135998:e:784-->
+<!----><!--2026-07-19 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6546802-stomatolog-nazval-samye-opasnye-dlya-zubov-lajfhaki-iz-interneta.html"><img src="https://img.championat.ru/news/big/h/p/samye-opasnye-dlya-zubov-lajfhaki-iz-interneta_17841835251737487895.jpg"></a>Домашнее отбеливание, элайнеры по фото и самодельные виниры из интернета всё чаще приводят пациентов в кресло стоматолога с необратимыми последствиями. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6546802-stomatolog-nazval-samye-opasnye-dlya-zubov-lajfhaki-iz-interneta.html">Стоматолог назвал самые опасные для зубов лайфхаки из интернета</a></p></div>
+</div><!--n:Чемпионат/Стоматолог назвал самые опасные для зубов лайфхаки из интернета:s:9136930:e:908-->
+<!----><h2 class="hspace">Наука на Вс 19 июл 2026 20:00</h2><!--2026-07-19 15:20:45-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:20</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/19/svyashhenniki-nachali-ispolzovat-ii-v-neozhidannykh-celyakh.html">Священники начали использовать ИИ в неожиданных целях</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:53</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/19/rossiyskie-uchenye-nauchilis-bolee-pravilno-sobirat-slyunu-dlya-analiza.html">Российские ученые научились более правильно собирать слюну для анализа</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:04</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/19/uchenye-raskryli-kak-vulkany-mogut-okhlazhdat-zemlyu.html">Ученые раскрыли, как вулканы могут охлаждать Землю</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:57</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/19/v-ingushetii-nashli-drevniy-zhenskiy-golovnoy-ubor-so-sledami-ubiystva.html">В Ингушетии нашли древний женский головной убор со следами убийства</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:18</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/uchyonye-vyyasnili-pochemu-slozhno-perestat-smotret-rilsy.html">Учёные выяснили, почему сложно перестать смотреть рилсы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:01</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/uchyonye-vyyasnili-chto-mozg-umeet-slushat-dva-razgovora-odnovremenno.html">Учёные выяснили, что мозг умеет слушать два разговора одновременно</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:44</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/uchyonye-vyyasnili-kak-imenno-nasha-kozha-razlichaet-teplo-i-kholod.html">Учёные выяснили, как именно наша кожа различает тепло и холод</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:10</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/genetika-redkikh-yashheric-mozhet-pomoch-v-lechenii-smertonosnogo-neduga-u-lyudey.html">Генетика редких ящериц может помочь в лечении смертоносного недуга у людей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:01</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/marsokhod-nashel-sledy-drevnikh-asteroidnykh-bombardirovok-na-marse.html">Марсоход нашел следы древних астероидных бомбардировок на Марсе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:20</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/18/raskryta-neobychnaya-sposobnost-loshadey-k-raspoznavaniyu-khishhnikov.html">Раскрыта необычная способность лошадей к распознаванию хищников</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260719 2000:s:9138001:e:3744-->
+<!----><h2 class="hspace">Спорт на Вс 19 июл 2026 22:00</h2><!--2026-07-19 18:55:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117304282-zaxar-bardakov-v-nxl-rol-igroka-4-go-zvena-otdelnaya-professiya-v-kxl-.html">Захар Бардаков: «В НХЛ роль игрока 4-го звена – отдельная профессия. В КХЛ можно сегодня сыграть в 1-м, завтра – в 4-м, при этом не всегда ощущаешь разницу. В Америке она большая»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117304347-alkaras-vynes-chemodan-s-kubkom-mira-na-final-chm-2026.html">Алькарас вынес чемодан с Кубком мира на финал ЧМ-2026</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/football/1117304296-majka-richards-yamal-eto-igrok-mechty-znayu-chto-messi-velichajshij-no.html">Майка Ричардс: «Ямаль – это игрок мечты. Знаю, что Месси – величайший, но Ламин – следующий в очереди»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/football/1117304319-gensek-soveta-evropy-berse-o-vmeshatelstve-trampa-v-delo-baloguna-na-c.html">Генсек Совета Европы о вмешательстве Трампа в дело Балогуна на ЧМ: «Когда правила меняются под давлением, любой результат становится сомнительным. Следующий кризис уже начался, и имя ему – деньги и...</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117304324-vladimir-bashmakov-o-shtrafe-xemiltona-sudi-oczenivali-situacziyu-isxo.html">Владимир Башмаков о штрафе Хэмилтона: «Судьи оценивали ситуацию исходя из того, что Расселл атаковал Льюиса»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/mediafootball/1117304295-ishowspeed-vstretil-yannisa-adetokumbo-na-finale-chm-2026-basketbolist.html">IShowSpeed встретил Янниса Адетокумбо на финале ЧМ-2026. Баскетболист похвалил стримера за выступление на церемонии открытия</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:46</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117304298-maks-ferstappen-na-starte-ozhidal-chto-mimo-proedet-antonelli-no-potom.html">Макс Ферстаппен: «На старте ожидал, что мимо проедет Антонелли, но потом увидел в зеркало летящую на меня красную ракету»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/football/1117304280-9-igrokov-atletiko-predstavleny-v-finale-chm-2026-eto-povtorenie-rekor.html">9 игроков «Атлетико» представлены в финале ЧМ-2026 – это повторение рекорда «Ювентуса» 1934 года</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:42</span> <a class="nodecor" href="https://www.sports.ru/football/1117303186-chm-2026-final-argentina-protiv-ispanii-onlajn-translyacziya-nachnetsy.html">ЧМ-2026. Финал. Аргентина против Испании. Месси и Ямаль в старте. Онлайн-трансляция начнется в 22:00</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:42</span> <a class="nodecor" href="https://www.sports.ru/football/1117304234-donald-tramp-messi-i-ronaldu-velikolepny-ya-takzhe-videl-pele-ya-vsegd.html">Дональд Трамп: «Месси и Роналду великолепны. Я всегда их любил, у них довольно хорошая жизнь – гораздо более простая, чем у меня!»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260719 2200:s:9141825:e:4832-->
+<!----><h2 class="hspace">В мире на Пн 20 июл 2026 06:00</h2><!--2026-07-20 05:50:46-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:50</span> <a class="nodecor" href="https://news.rambler.ru/world/56781495-na-ukraine-za-skandalom-s-fedorovym-propustili-druguyu-vazhnuyu-otstavku/">На Украине за скандалом с Федоровым пропустили другую важную отставку</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:55</span> <a class="nodecor" href="https://news.rambler.ru/world/56781401-tramp-potreboval-ot-kanady-deneg-za-otravlennyy-pozharami-vozduh/">Трамп потребовал от Канады денег за отравленный пожарами воздух</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:11</span> <a class="nodecor" href="https://news.rambler.ru/world/56781278-trampa-osvistali-na-finale-chempionata-mira-po-futbolu/">Трампа освистали на финале чемпионата мира по футболу</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:56</span> <a class="nodecor" href="https://news.rambler.ru/world/56781282-v-mid-zayavili-o-nezhelanii-zelenskogo-dopuskat-do-vlasti-drugih-igrokov/">В МИД заявили о нежелании Зеленского допускать до власти других игроков</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:36</span> <a class="nodecor" href="https://news.rambler.ru/world/56781157-eks-premer-ukrainy-zayavil-o-repressiyah-v-respublike/">Экс-премьер Украины заявил о репрессиях в республике</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:15</span> <a class="nodecor" href="https://news.rambler.ru/world/56781032-ft-strany-es-neohotno-podderzhivayut-sanktsii-protiv-rf-iz-za-uscherba-biznesu/">FT: страны ЕС неохотно поддерживают санкции против РФ из-за ущерба бизнесу</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">23:17</span> <a class="nodecor" href="https://news.rambler.ru/world/56780865-premer-vengrii-podderzhal-grossmeystera-polgar-v-kachestve-buduschego-prezidenta-strany/">Премьер Венгрии поддержал гроссмейстера Полгар в качестве будущего президента страны</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">22:45</span> <a class="nodecor" href="https://news.rambler.ru/world/56780827-germaniya-peresmotrela-podhod-k-peregovoram-s-rossiey/">Германия пересмотрела подход к переговорам с Россией</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:33</span> <a class="nodecor" href="https://news.rambler.ru/world/56780609-dodon-predupredil-ob-ugroze-ischeznoveniya-moldavii/">Додон предупредил об угрозе исчезновения Молдавии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:23</span> <a class="nodecor" href="https://news.rambler.ru/world/56780586-situatsiya-s-rossiey-stanovitsya-opasnoy-v-finlyandii-zabili-trevogu/">"Ситуация с Россией становится опасной": в Финляндии забили тревогу</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260720 0600:s:9146708:e:3727-->
+<!----><!--2026-07-19 19:05:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/reg-cfo/tver-stala-chastiu-marshruta-zolotoe-kolco-rossii.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/ria_3208603hr_fb0.jpg"></a>Тверь, насчитывающая без малого девять веков (считается, что она на 12 лет старше Москвы, но это не точно), стала частью легендарного маршрута "Золотое кольцо России". И вошла в эту историческую окружность вполне заслуженно: несмотря на войны и пожары, она хранит свои исторические черты и привлекает туристов. Чем? <p class="titl"><a href="https://rg.ru/2026/07/19/reg-cfo/tver-stala-chastiu-marshruta-zolotoe-kolco-rossii.html">Что нужно знать туристам о Твери, которая вошла в &quot;Золотое кольцо России&quot;</a></p></div>
+</div><!--n:Российская газета/Что нужно знать туристам о Твери, которая вошла в quot Золотое кольцо России quot:s:9150488:e:1121-->
+<!----><!--2026-07-19 19:03:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/reg-ufo/odin-den-urozhajnogo-leta.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/8p_icentr_1_urozhai_1000_889.jpg"></a>На юге в разгаре борьба за хлеб. В этом году уборочная осложняется не только погодными условиями, но и дефицитом топлива и непростой логистикой. Многие переживают: справятся ли аграрии, удастся ли им собрать хороший урожай? Ответ пытался найти корреспондент "РГ", который побывал в одном из фермерских хозяйств Ростовской области, сел за штурвал комбайна и поучаствовал в уборке вместе с донскими хлеборобами. <p class="titl"><a href="https://rg.ru/2026/07/19/reg-ufo/odin-den-urozhajnogo-leta.html">Корреспондент &quot;РГ&quot; поработал в поле вместе с донскими аграриями</a></p></div>
+</div><!--n:Российская газета/Корреспондент quot РГ quot поработал в поле вместе с донскими аграриями:s:9151810:e:1247-->
+<!----><!--2026-07-19 18:21:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/postavit-na-pauzu.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/5p_podval_cb_2ff.jpg"></a>На предстоящем заседании 24 июля Банк России возьмет паузу в снижении ключевой ставки. Такое мнение высказало большинство опрошенных "РГ" экспертов. Регулятор, по их словам, продолжает придерживаться жесткой риторики на фоне бюджетных рисков и ситуации на топливном рынке, поэтому надеяться на заметное снижение ставки, определяющей стоимость денег в экономике, уже точно не стоит. <p class="titl"><a href="https://rg.ru/2026/07/19/postavit-na-pauzu.html">Банк России может впервые за год сохранить ключевую ставку</a></p></div>
+</div><!--n:Российская газета/Банк России может впервые за год сохранить ключевую ставку:s:9153242:e:1136-->
+<!----><!--2026-07-19 19:33:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/reg-dfo/po-relsam-bez-viz.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/8p_-2k_poezd_1000_ca6.jpg"></a>В столице Приморья состоялось торжественное отправление в первый рейс поезда международного сообщения по маршруту Владивосток - Суйфэньхэ - Владивосток. <p class="titl"><a href="https://rg.ru/2026/07/19/reg-dfo/po-relsam-bez-viz.html">Владивосток и китайский Суйфэньхэ связал новый туристический поезд</a></p></div>
+</div><!--n:Российская газета/Владивосток и китайский Суйфэньхэ связал новый туристический поезд:s:9154547:e:758-->
+<!----><!--2026-07-19 19:17:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/reg-cfo/ne-kokoshnikom-edinym.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/8p_podval_stil_1000_f7b.jpg"></a>Тамбовский стиль для одежды и мерча хотят разработать при поддержке правительства области на основе музейных образцов. <p class="titl"><a href="https://rg.ru/2026/07/19/reg-cfo/ne-kokoshnikom-edinym.html">Как в регионах возвращают моду на русский стиль</a></p></div>
+</div><!--n:Российская газета/Как в регионах возвращают моду на русский стиль:s:9155490:e:667-->
+<!----><!--2026-07-19 19:52:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Компания Wildberries запустила новые механизмы поддержки после атаки БПЛА на склады компании в Котовске и Электростали. Об этом в своем <a href="https://t.me/kimtatyana2024/779" rel="noopener noreferrer" target="_blank">Telegram-канале</a> написала глава маркетплейса Татьяна Ким. <p class="titl"><a href="https://rg.ru/2026/07/19/wildberries-soobshchil-o-novyh-merah-podderzhki-prodavcov-posle-ataki-bpla-na-sklady.html">Wildberries сообщил о новых мерах поддержки продавцов после атаки БПЛА на склады</a></p></div>
+</div><!--n:Российская газета/Wildberries сообщил о новых мерах поддержки продавцов после атаки БПЛА на склады:s:9156304:e:815-->
+<!----><!--2026-07-19 18:40:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/net-kabinetu.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/1p_parovoz_6f8.jpg"></a>Стартовые оклады молодых инженеров на производстве за год выросли на 6-8%, а число вакансий без опыта в ИТ сократилось в 2,6 раза. Параллельно работодатели и профориентологи говорят о том, что молодые специалисты все чаще идут на завод за понятным графиком, ясными задачами и предсказуемым будущим, которого может не хватать в офисе и в цифровых профессиях. <p class="titl"><a href="https://rg.ru/2026/07/19/net-kabinetu.html">Профориентолог Винокурова объяснила, почему молодежь все чаще идет на заводы</a></p></div>
+</div><!--n:Российская газета/Профориентолог Винокурова объяснила, почему молодежь все чаще идет на заводы:s:9157317:e:1106-->
+<!----><!--2026-07-19 19:44:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/dejstvuiushchie-lica.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/7p_2k_biometriya-111_1f1.jpg"></a>С 20 июля сдача биометрии станет обязательной при каждом обращении в визовый центр Италии. Об этом предупредили в Ассоциации туроператоров России (АТОР) со ссылкой на визовый центр Италии Almaviva. "Новшество касается только самостоятельных заявителей, которые записываются и подают документы напрямую", - уточнили в ассоциации. <p class="titl"><a href="https://rg.ru/2026/07/19/dejstvuiushchie-lica.html">С 20 июля в визовых центрах Италии нужно будет сдавать биометрию</a></p></div>
+</div><!--n:Российская газета/С 20 июля в визовых центрах Италии нужно будет сдавать биометрию:s:9158626:e:1052-->
+<!----><!--2026-07-19 21:59:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Летом бутылка холодного лимонада кажется одним из самых простых способов освежиться. Однако даже такой привычный напиток стоит выбирать внимательно: неправильное хранение или долгое пребывание на жаре могут заметно ухудшить его вкус и свойства, рассказали "Российской газете" эксперты. <p class="titl"><a href="https://rg.ru/2026/07/19/eksperty-rasskazali-kak-vybrat-limonad-v-letniuiu-zharu.html">Эксперты рассказали, как выбрать лимонад в летнюю жару</a></p></div>
+</div><!--n:Российская газета/Эксперты рассказали, как выбрать лимонад в летнюю жару:s:9159855:e:851-->
+<!----><!--2026-07-19 21:47:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/19/iurist-haminskij-pri-obmene-nedvizhimosti-nalog-budet-vzimatsia-s-chistogo-dohoda.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/19/17920855_89c_32b.jpg"></a>На наступающей неделе Госдума рассмотрит правительственный законопроект о введении НДФЛ при обмене недвижимости. <p class="titl"><a href="https://rg.ru/2026/07/19/iurist-haminskij-pri-obmene-nedvizhimosti-nalog-budet-vzimatsia-s-chistogo-dohoda.html">Юрист Хаминский: При обмене недвижимости налог будет взиматься с чистого дохода</a></p></div>
+</div><!--n:Российская газета/Юрист Хаминский При обмене недвижимости налог будет взиматься с чистого дохода:s:9160866:e:815-->
+<!----><!--2026-07-20 07:40:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552106-stal-izvesten-vozmozhnyj-novyj-klub-eks-vingera-zenita-malkoma.html"><img src="https://img.championat.ru/news/big/z/s/stal-izvesten-vozmozhnyj-novyj-klub-eks-vingera-zenita-malkoma_17845209577288826.jpg"></a>Вингер «Аль-Хиляля» Малком может продолжить карьеру в «Аль-Джазире», сообщает журналист Пабло Оливейра в Х. <p class="titl"><a href="https://www.championat.ru/football/news-6552106-stal-izvesten-vozmozhnyj-novyj-klub-eks-vingera-zenita-malkoma.html">Стал известен возможный новый клуб экс-вингера «Зенита» Малкома</a></p></div>
+</div><!--n:Чемпионат/Стал известен возможный новый клуб экс-вингера Зенита Малкома:s:9161887:e:831-->
+<!----><!--2026-07-20 07:43:09-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552098-guberniev-ob-argentine-ne-mogut-stat-chempionami-te-kto-ni-razu-ne-udaril-po-vorotam.html"><img src="https://img.championat.ru/news/big/f/v/guberniev-ob-argentine-ne-mo.jpg"></a>Известный комментатор и телеведущий Дмитрий Губерниев прокомментировал исход финального матча чемпионата мира 2026 года между сборными Испании и Аргентины. <p class="titl"><a href="https://www.championat.ru/football/news-6552098-guberniev-ob-argentine-ne-mogut-stat-chempionami-te-kto-ni-razu-ne-udaril-po-vorotam.html">Губерниев — об Аргентине: не могут стать чемпионами те, кто ни разу не ударил по воротам</a></p></div>
+</div><!--n:Чемпионат/Губерниев об Аргентине не могут стать чемпионами те, кто ни разу не ударил по воротам:s:9162877:e:955-->
+<!----><!--2026-07-20 07:27:01-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552094-radimov-oboznachil-klyuchevoj-moment-finala-chm-2026.html"><img src="https://img.championat.ru/news/big/u/u/radimov-oboznachil-klyuchevo.jpg"></a>Известный российский экс-футболист Владислав Радимов прокомментировал исход финального матча чемпионата мира 2026 года между сборными Испании и Аргентины. <p class="titl"><a href="https://www.championat.ru/football/news-6552094-radimov-oboznachil-klyuchevoj-moment-finala-chm-2026.html">Радимов обозначил ключевой момент финала ЧМ-2026</a></p></div>
+</div><!--n:Чемпионат/Радимов обозначил ключевой момент финала ЧМ-2026:s:9164032:e:815-->
+<!----><!--2026-07-20 07:30:21-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6552116-multfilm-minony-i-monstry-sobral-v-prokate-350-mln.html"><img src="https://img.championat.ru/news/big/q/m/multfilm-minony-i-monstry-sobral-v-prokate-350-mln_1784521820748098165.jpg"></a>«Миньоны и монстры» чувствуют себя в прокате всё лучше и лучше. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6552116-multfilm-minony-i-monstry-sobral-v-prokate-350-mln.html">Мультфильм «Миньоны и монстры» собрал в прокате $ 350 млн</a></p></div>
+</div><!--n:Чемпионат/Мультфильм Миньоны и монстры собрал в прокате 350 млн:s:9164978:e:702-->
+<!----><!--2026-07-20 07:45:53-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552118-tramp-nazval-chm-2026-v-ssha-velichajshim-sobytiem-v-istorii-iz-kogda-libo-provodivshihsya.html"><img src="https://img.championat.ru/news/big/n/n/tramp-nazval-chm-2026-v-ssha-velichajshim-futbolnym-sobytiem-v-istorii_17845230211765301303.jpg"></a>Президент США Дональд Трамп оценил организацию и проведение чемпионата мира 2026 года по футболу. <p class="titl"><a href="https://www.championat.ru/football/news-6552118-tramp-nazval-chm-2026-v-ssha-velichajshim-sobytiem-v-istorii-iz-kogda-libo-provodivshihsya.html">Трамп назвал ЧМ-2026 в США величайшим футбольным событием в истории</a></p></div>
+</div><!--n:Чемпионат/Трамп назвал ЧМ-2026 в США величайшим футбольным событием в истории:s:9165820:e:879-->
+<!----><!--2026-07-20 07:08:03-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552096-luis-de-la-fuente-pobil-vozrastnoe-trenerskoe-dostizhenie-na-chm-ustanovlennoe-del-boske.html"><img src="https://img.championat.ru/news/big/l/m/luis-de-la-fuente-pobil-vozrastnoe-trenerskoe-dostizhenie-na-chm-ustanovlennoe-del-boske_1784520483578450921.jpg"></a>Главный тренер национальной команды Испании Луис де ла Фуэнте стал рекордсменом мировых первенств после того, как сборная Испании взяла верх над Аргентиной в решающем матче ЧМ-2026 со счётом 1:0 по итогам дополнительного времени. <p class="titl"><a href="https://www.championat.ru/football/news-6552096-luis-de-la-fuente-pobil-vozrastnoe-trenerskoe-dostizhenie-na-chm-ustanovlennoe-del-boske.html">Луис де ла Фуэнте побил возрастное тренерское достижение на ЧМ, установленное дель Боске</a></p></div>
+</div><!--n:Чемпионат/Луис де ла Фуэнте побил возрастное тренерское достижение на ЧМ, установленное дель Боске:s:9166864:e:1175-->
+<!----><!--2026-07-20 07:30:05-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6499860-ekspert-dala-sovety-kak-prevratit-obychnuyu-progulku-v-trenirovku-na-vsyo-telo.html"><img src="https://img.championat.ru/news/big/s/r/kak-trenirovatsya-na-progulke_1782589046126150104.jpg"></a>Педагог по классическому танцу Варвара Иринчеева рассказала «Чемпионату», как превратить обычную летнюю прогулку в тренировку всего тела. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6499860-ekspert-dala-sovety-kak-prevratit-obychnuyu-progulku-v-trenirovku-na-vsyo-telo.html">Эксперт дала советы, как превратить обычную прогулку в тренировку на всё тело</a></p></div>
+</div><!--n:Чемпионат/Эксперт дала советы, как превратить обычную прогулку в тренировку на всё тело:s:9168248:e:917-->
+<!----><!--2026-07-20 07:15:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552090-palmejras-perebil-predlozhenie-zenita-po-transferu-danilo-istochnik.html"><img src="https://img.championat.ru/news/big/a/n/palmejras-perebil-predlozhenie-zenita-po-transferu-danilo-istochnik_17845202991568891614.jpg"></a>«Палмейрас» сделал Данило более выгодное предложение по зарплате, чем «Зенит», сообщает Nosso Palestra. <p class="titl"><a href="https://www.championat.ru/football/news-6552090-palmejras-perebil-predlozhenie-zenita-po-transferu-danilo-istochnik.html">«Палмейрас» перебил предложение «Зенита» по трансферу Данило — источник</a></p></div>
+</div><!--n:Чемпионат/Палмейрас перебил предложение Зенита по трансферу Данило источник:s:9169352:e:847-->
+<!----><!--2026-07-20 07:21:54-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552108-vpervye-v-istorii-futbola-odna-strana-dejstvuyuschij-obladatel-chm-i-u-muzhchin-i-u-zhenschin.html"><img src="https://img.championat.ru/news/big/d/z/vpervye-v-istorii-futbola-odna-strana-dejstvuyuschij-pobeditel-chm-i-u-muzhchin-i-u-zhensc_17845215291304491330.jpg"></a>Мужская сборная Испании по футболу выиграла титул на чемпионате мира 2026 года, который проходил в США, Канаде и Мексике. <p class="titl"><a href="https://www.championat.ru/football/news-6552108-vpervye-v-istorii-futbola-odna-strana-dejstvuyuschij-obladatel-chm-i-u-muzhchin-i-u-zhenschin.html">Впервые в истории футбола одна страна — действующий победитель ЧМ и у мужчин, и у женщин</a></p></div>
+</div><!--n:Чемпионат/Впервые в истории футбола одна страна действующий победитель ЧМ и у мужчин, и у женщин:s:9170367:e:987-->
+<!----><!--2026-07-20 07:33:52-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6552114-poluchil-po-zaslugam-de-la-fuente-prokommentiroval-pobednyj-gol-ferrana-v-finale-chm-2026.html"><img src="https://img.championat.ru/news/big/j/x/poluchil-po-zaslugam-de-la-fuente-prokommentiroval-pobednyj-gol-torresa-v-finale-chm-2026_1784522140324552030.jpg"></a>Главный тренер сборной Испании Луис де ла Фуэнте прокомментировал действия нападающего команды Феррана Торреса в финальном матче чемпионата мира 2026 года с Аргентиной (1:0 д. вр.). <p class="titl"><a href="https://www.championat.ru/football/news-6552114-poluchil-po-zaslugam-de-la-fuente-prokommentiroval-pobednyj-gol-ferrana-v-finale-chm-2026.html">«Получил по заслугам». Де ла Фуэнте прокомментировал победный гол Торреса в финале ЧМ-2026</a></p></div>
+</div><!--n:Чемпионат/Получил по заслугам . Де ла Фуэнте прокомментировал победный гол Торреса в финале ЧМ-2026:s:9171556:e:1086-->
+<!----><h2 class="hspace">Наука на Пн 20 июл 2026 20:00</h2><!--2026-07-20 17:31:15-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:31</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/uchyonye-vyyasnili-chto-regulyarnoe-uvlechenie-prosmotrom-televizora-vliyaet-na-mozg.html">Учёные выяснили, что регулярное увлечение просмотром телевизора влияет на мозг</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:09</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/rossiyskie-specialisty-pridumali-novyy-effektivnyy-mekhanizm-borby-s-borshhevikom.html">Российские специалисты придумали новый эффективный механизм борьбы с борщевиком</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:06</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/nazvano-uluchshayushhee-nochnoy-otdykh-estestvennoe-snotvornoe-dostupno-vsem.html">Названо улучшающее ночной отдых естественное снотворное: доступно всем</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:35</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/kosti-vydali-taynu-fizicheskoy-podgotovki-carskikh-docherey-vladeli-lukami-ne-radi-ceremoniy.html">Кости выдали тайну физической подготовки царских дочерей: владели луками не ради церемоний</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:09</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/tshhatelnyy-analiz-dnk-perepisal-istoriyu-izvestnogo-shamana-okazalsya-zhenshhinoy.html"> Тщательный анализ ДНК переписал историю известного шамана: оказался женщиной</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/v-rossii-obnaruzhili-pomogavshiy-bogachu-xii-veka-talisman.html">В России обнаружили помогавший богачу XII века талисман</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:30</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/neyroset-vyshla-izpod-kontrolya-i-sovershila-agressivnoe-deystvie.html">Нейросеть вышла из-под контроля и совершила агрессивное действие</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:48</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/uchenye-obyasnili-pochemu-ozonovaya-dyra-nad-antarktidoy-ne-ischezaet.html">Ученые объяснили, почему озоновая дыра над Антарктидой не исчезает</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:56</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/v-tailande-nashli-dinozavra-s-sheey-dlinoy-20-metrov.html">В Таиланде нашли динозавра с шеей длиной 20 метров</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:20</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/20/starship-letit-v-pyatnicu-novyy-start-posle-otmeny-i-poteri-100-mlrd.html">Starship летит в пятницу: новый старт после отмены и потери $100 млрд</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260720 2000:s:9172847:e:3931-->
+<!----><h2 class="hspace">Спорт на Пн 20 июл 2026 22:00</h2><!--2026-07-20 18:53:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/football/1117306763-messi-genij-a-bolshinstvo-ego-partnerov-po-komande-bandity-ne-imeyushh.html">«Месси – гений, а большинство его партнеров по команде – бандиты, не имеющие представления о красивой игре». Хитцльспергер о сборной Аргентины после финала ЧМ-2026</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117306767-andrea-kimi-antonelli-v-spa-mezhdu-komandami-byla-bolshaya-raznicza-v-.html">Андреа Кими Антонелли: «В Спа между командами была большая разница в работе двигателей и распределении энергии в гибридной системе»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://www.sports.ru/figure-skating/1117306765-zhulin-ob-uxode-petrosyan-ot-tutberidze-eto-potomu-chto-trusova-prishl.html">Жулин об уходе Петросян от Тутберидзе: «Это потому что Трусова пришла. Без понятия по поводу конфликта, но можно предположить»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:47</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117306755-cherkas-ob-utverzhdenii-dnya-xokkeya-rossiya-xokkejnaya-strana-za-vsyu.html">Черкас об утверждении Дня хоккея: «Россия – хоккейная страна, за всю историю воспитала много звезд. Ветераны и действующие игроки заслужили иметь такой праздник»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:42</span> <a class="nodecor" href="https://www.sports.ru/figure-skating/1117306762-aleksandr-lakernik-dumayu-chto-prichinoj-uxoda-petrosyan-stali-problem.html">Александр Лакерник: «Думаю, что причиной ухода Петросян стали проблема в ее подготовке и результат на Олимпиаде»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:40</span> <a class="nodecor" href="https://www.sports.ru/football/1117306746-morgan-ministru-ekonomiki-argentiny-neudivitelno-chto-vasha-sbornaya-t.html">Морган – министру экономики Аргентины: «Неудивительно, что ваша сборная так себя ведет, когда страной управляют такие люди, как вы»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:35</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117306057-eshtoril-atp-2026-rezultaty-pervogo-kruga.html">Эшторил (ATP). Мартинес играет с Рошей, Ван Аш вышел во 2-й круг, Басилашвили, Уго Карабелли выбыли</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:34</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117306737-fetisov-o-finale-chm-2026-yamal-upustil-shans-stat-korolem-turnira-oty.html">Фетисов о финале ЧМ-2026: «Ямаль упустил шанс стать королем турнира, отыграл хорошо, но не как мегазвезда. Я болел за Испанию, они нравятся мне как команда»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:32</span> <a class="nodecor" href="https://www.sports.ru/football/1117303174-liga-pari-ural-primet-enisej-nizhnij-v-gostyax-u-kamaza-sochi-protiv-s.html">Лига PARI. «Ротор» обыграл «СКА Хабаровск»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:29</span> <a class="nodecor" href="https://www.sports.ru/football/1117306735-donald-tramp-chm-2026-stal-grandioznym-uspexom-etot-chempionat-stal-sa.html">Дональд Трамп: «ЧМ-2026 стал грандиозным успехом! Самый безопасный и зрелищный чемпионат мира в истории. Спасибо фантастическому Инфантино!»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260720 2200:s:9176858:e:4936-->
+<!----><h2 class="hspace">В мире на Вт 21 июл 2026 06:00</h2><!--2026-07-21 05:36:56-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:36</span> <a class="nodecor" href="https://news.rambler.ru/world/56787144-tramp-zapustil-protsess-razrusheniya-ekonomiki-evropy-hazin/">Трамп запустил процесс разрушения экономики Европы — Хазин</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:24</span> <a class="nodecor" href="https://news.rambler.ru/world/56787111-litva-usilila-ohranu-kriticheskih-obektov-iz-za-dannyh-razvedki/">Литва усилила охрану критических объектов из-за данных разведки</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:57</span> <a class="nodecor" href="https://news.rambler.ru/world/56787045-kiev-obvinili-v-dovedenii-ukrainy-do-tragedii/">Киев обвинили в доведении Украины до трагедии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:40</span> <a class="nodecor" href="https://news.rambler.ru/world/56786106-v-rade-otsenili-priznanie-byvshego-ministra-oborony-ukrainy/">В Раде оценили признание бывшего министра обороны Украины</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:21</span> <a class="nodecor" href="https://news.rambler.ru/world/56787011-v-ssha-nazvali-uslovie-vizita-trampa-v-rossiyu/">В США назвали условие визита Трампа в Россию</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:34</span> <a class="nodecor" href="https://news.rambler.ru/world/56786926-na-ukraine-zayavili-ob-ugroze-suda-lincha/">На Украине заявили об угрозе суда Линча</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:56</span> <a class="nodecor" href="https://news.rambler.ru/world/56786935-bernem-podklyuchil-nato-i-germaniyu-k-ukrainskomu-voprosu/">Бернем подключил НАТО и Германию к украинскому вопросу</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:49</span> <a class="nodecor" href="https://news.rambler.ru/world/56786877-eks-ministr-oborony-britanii-osudil-izrail-za-nezhelanie-zlit-rossiyu/">Экс-министр обороны Британии осудил Израиль за «нежелание злить Россию»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:23</span> <a class="nodecor" href="https://news.rambler.ru/world/56786883-v-germanii-raskritikovali-reshenie-zelenskogo/">В Германии раскритиковали решение Зеленского</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:14</span> <a class="nodecor" href="https://news.rambler.ru/world/56785608-moldaviya-tayno-peredala-ukraine-upravlenie-vodami-dnestra/">Молдавия тайно передала Украине управление водами Днестра</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260721 0600:s:9181845:e:3433-->
+<!----><!--2026-07-20 22:49:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/20/kak-perevezti-kota-ili-sobaku-v-poezde-pravila-rzhd-v-2026-godu.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/20/kartinka-1_558.png"></a>Правила перевозки кошек и собак в поездах РЖД в 2026 году: какие документы нужны, как купить билет питомцу, что взять в дорогу и какие есть ограничения. <p class="titl"><a href="https://rg.ru/2026/07/20/kak-perevezti-kota-ili-sobaku-v-poezde-pravila-rzhd-v-2026-godu.html">Как перевезти кота или собаку в поезде: правила РЖД в 2026 году</a></p></div>
+</div><!--n:Российская газета/Как перевезти кота или собаку в поезде правила РЖД в 2026 году:s:9185331:e:800-->
+<!----><!--2026-07-20 22:48:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Компания Wildberries начала первые выплаты семьям погибших и пострадавшим, которые находятся в тяжелом состоянии. Об этом сообщила глава маркетплейса Татьяна Ким. <p class="titl"><a href="https://rg.ru/2026/07/20/wildberries-nachal-vyplaty-semiam-pogibshih-i-tiazhelo-postradavshim.html">Wildberries начал выплаты семьям погибших и тяжело пострадавшим</a></p></div>
+</div><!--n:Российская газета/Wildberries начал выплаты семьям погибших и тяжело пострадавшим:s:9186300:e:634-->
+<!----><!--2026-07-21 00:01:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/reg-szfo/stala-izvestna-marshrutnaia-set-novyh-rossijskih-samoletov-il-114-300.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/20/ria_8891744hr_214_e1a.jpg"></a>"Российская газета" узнала подробности о том, куда будут летать первые отечественные авиалайнеры Ил-114-300. Как сообщили "РГ" в АО "2-й Архангельский объединенный авиаотряд", новинки российского авиапрома не только свяжут Архангельск с соседними регионами, но и будут совершать полеты в столицу. <p class="titl"><a href="https://rg.ru/2026/07/21/reg-szfo/stala-izvestna-marshrutnaia-set-novyh-rossijskih-samoletov-il-114-300.html">Стала известна маршрутная сеть новых российских самолетов Ил-114-300</a></p></div>
+</div><!--n:Российская газета/Стала известна маршрутная сеть новых российских самолетов Ил-114-300:s:9187102:e:1110-->
+<!----><!--2026-07-20 21:25:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/20/iuristy-obiasnili-chto-grozit-rabotniku-za-razglashenie-kommercheskoj-tajny.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/20/istock-1348546519_b5b.jpg"></a>Информация, обладающая коммерческой ценностью, нередко становится одним из наиболее значимых активов компании. Ее утрата или разглашение способна подорвать конкурентные позиции и привести к серьезным финансовым потерям. <p class="titl"><a href="https://rg.ru/2026/07/20/iuristy-obiasnili-chto-grozit-rabotniku-za-razglashenie-kommercheskoj-tajny.html">Юристы объяснили, что грозит работнику за разглашение коммерческой тайны</a></p></div>
+</div><!--n:Российская газета/Юристы объяснили, что грозит работнику за разглашение коммерческой тайны:s:9188394:e:994-->
+<!----><!--2026-07-20 21:43:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Развитие Донецкой и Луганской народных республик, а также Херсонской и Запорожской областей продолжается в соответствии с намеченными планами, несмотря на непростую оперативную обстановку из-за действий ВСУ. Об этом заявил вице-премьер РФ Марат Хуснуллин. <p class="titl"><a href="https://rg.ru/2026/07/20/reg-dnr/husnullin-zaiavil-o-razvitii-donbassa-i-novorossii-nesmotria-na-obstanovku.html">Хуснуллин заявил о развитии Донбасса и Новороссии, несмотря на обстановку</a></p></div>
+</div><!--n:Российская газета/Хуснуллин заявил о развитии Донбасса и Новороссии, несмотря на обстановку:s:9189583:e:858-->
+<!----><!--2026-07-21 00:26:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/dmitriev-posle-priznaniia-merca-sprosil-skuchaet-li-on-po-severnym-potokam.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/01jpg_ac4.jpg"></a>Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами, глава Российского фонда прямых инвестиций (РФПИ) Кирилл Дмитриев задался вопросом, не скучает ли канцлер ФРГ Фридрих Мерц по газопроводам "Северный поток". <p class="titl"><a href="https://rg.ru/2026/07/21/dmitriev-posle-priznaniia-merca-sprosil-skuchaet-li-on-po-severnym-potokam.html">Дмитриев поинтересовался у Мерца, скучает ли он по газопроводам &quot;Северный поток&quot;</a></p></div>
+</div><!--n:Российская газета/Дмитриев поинтересовался у Мерца, скучает ли он по газопроводам quot Северный поток quot:s:9190637:e:1072-->
+<!----><!--2026-07-21 05:36:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/socfond-s-21-iiulia-vvoditsia-novoe-pravilo-pri-naznachenii-edinogo-posobiia.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/posobie_650.jpg"></a>С 21 июля вступает в силу новое правило при назначении единого пособия семьям: уход за инвалидом I группы, пенсионером старше 80 лет или престарелым гражданином будет считаться уважительной причиной отсутствия официального дохода только в том случае, если за ним ухаживает близкий родственник. Об этом пишет <a href="https://ria.ru/" rel="noopener noreferrer" target="_blank">РИА Новости</a> со ссылкой на пресс-службу Социального фонда России. <p class="titl"><a href="https://rg.ru/2026/07/21/socfond-s-21-iiulia-vvoditsia-novoe-pravilo-pri-naznachenii-edinogo-posobiia.html">Соцфонд с 21 июля вводит новые правила при назначении единого пособия</a></p></div>
+</div><!--n:Российская газета/Соцфонд с 21 июля вводит новые правила при назначении единого пособия:s:9191925:e:1320-->
+<!----><!--2026-07-20 20:51:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/20/reg-sibfo/nepravilnyj-med.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/20/ria_8212376hr_bf4.jpg"></a>Пасечники Красноярского края сообщают о массовой гибели пчел после обработки рапсовых полей пестицидами. <p class="titl"><a href="https://rg.ru/2026/07/20/reg-sibfo/nepravilnyj-med.html">Больше 20 миллионов пчел погибли после обработки полей под Красноярском</a></p></div>
+</div><!--n:Российская газета/Больше 20 миллионов пчел погибли после обработки полей под Красноярском:s:9193432:e:672-->
+<!----><!--2026-07-21 05:21:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Есть категории россиян, которым положен увеличенный ежегодный оплачиваемый отпуск. Об этом <a href="https://ria.ru/20260721/otpusk-2105957717.html" rel="noopener noreferrer" target="_blank">РИА Новости</a> рассказала старший преподаватель кафедры трудового права и права социального обеспечения имени К.Н. Гусова Университета имени О.Е. Кутафина Анастасия Колодяжная. <p class="titl"><a href="https://rg.ru/2026/07/21/ekspert-kolodiazhnaia-rasskazala-komu-v-rf-polozhen-uvelichennyj-otpusk.html">Юрист Колодяжная назвала категории россиян, которым положен увеличенный отпуск</a></p></div>
+</div><!--n:Российская газета/Юрист Колодяжная назвала категории россиян, которым положен увеличенный отпуск:s:9194295:e:979-->
+<!----><!--2026-07-21 07:28:14-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6553258-prezident-argentiny-podvyol-itog-karery-messi-v-sbornoj-strany.html"><img src="https://img.championat.ru/news/big/i/c/prezident-argentiny-podvyol-itog-karery-messi-v-sbornoj-strany_17846080931284937506.jpg"></a>Президент Аргентины Хавьер Милей после поражения аргентинской команды в финале ЧМ-2026, рассказал как оценивает карьеру Лионеля Месси в сборной страны. <p class="titl"><a href="https://www.championat.ru/football/news-6553258-prezident-argentiny-podvyol-itog-karery-messi-v-sbornoj-strany.html">Президент Аргентины подвёл итог карьеры Месси в сборной страны</a></p></div>
+</div><!--n:Чемпионат/Президент Аргентины подвёл итог карьеры Месси в сборной страны:s:9195481:e:911-->
+<!----><!--2026-07-21 07:17:06-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6553252-prezident-argentiny-otvetil-messi-na-slova-o-kritike-situacii-v-strane.html"><img src="https://img.championat.ru/news/big/o/d/prezident-argentiny-otvetil-messi-na-slova-o-kritike-situacii-v-strane_17846074161520326398.jpg"></a>Президент Аргентины Хавьер Милей отреагировал на критические заявления Лионеля Месси относительно ситуации в стране. <p class="titl"><a href="https://www.championat.ru/football/news-6553252-prezident-argentiny-otvetil-messi-na-slova-o-kritike-situacii-v-strane.html">Президент Аргентины ответил Месси на слова о критике ситуации в стране</a></p></div>
+</div><!--n:Чемпионат/Президент Аргентины ответил Месси на слова о критике ситуации в стране:s:9196553:e:891-->
+<!----><!--2026-07-21 07:45:16-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6553260-aleksandr-ovechkin-nazval-svoego-lyubimogo-futbolnogo-kommentatora.html"><img src="https://img.championat.ru/news/big/j/i/aleksandr-ovechkin-nazval-sv.jpg"></a>Капитан и нападающий «Вашингтон Кэпиталз» Александр Овечкин ответил на вопрос, кто является его самым любимым комментатором. <p class="titl"><a href="https://www.championat.ru/football/news-6553260-aleksandr-ovechkin-nazval-svoego-lyubimogo-futbolnogo-kommentatora.html">Александр Овечкин назвал своего любимого футбольного комментатора</a></p></div>
+</div><!--n:Чемпионат/Александр Овечкин назвал своего любимого футбольного комментатора:s:9197619:e:827-->
+<!----><!--2026-07-21 06:56:47-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6553248-film-ochen-strashnoe-kino-6-vyshel-v-onlajne.html"><img src="https://img.championat.ru/news/big/f/m/film-ochen-strashnoe-kino-6-vyshel-v-onlajne_1784606206373621938.jpg"></a>Сегодня фильм «Очень страшное кино 6» вышел в онлайне. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6553248-film-ochen-strashnoe-kino-6-vyshel-v-onlajne.html">Фильм «Очень страшное кино 6» вышел в онлайне</a></p></div>
+</div><!--n:Чемпионат/Фильм Очень страшное кино 6 вышел в онлайне:s:9198615:e:648-->
+<!----><!--2026-07-21 06:51:39-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6553246-zenit-gotov-platit-danilu-zarplatu-silno-prevyshayuschuyu-variant-palmejrasa-espn.html"><img src="https://img.championat.ru/news/big/n/z/zenit-gotov-platit-danilo-zarplatu-silno-prevyshayuschuyu-variant-palmejrasa-espn_1784605927625774647.jpg"></a>«Зенит» продолжает проявлять серьёзный интерес к полузащитнику «Ботафого» Данило и намерен сделать всё возможное, чтобы оформить его трансфер. <p class="titl"><a href="https://www.championat.ru/football/news-6553246-zenit-gotov-platit-danilu-zarplatu-silno-prevyshayuschuyu-variant-palmejrasa-espn.html">«Зенит» готов платить Данило зарплату, сильно превышающую вариант «Палмейраса» — ESPN</a></p></div>
+</div><!--n:Чемпионат/Зенит готов платить Данило зарплату, сильно превышающую вариант Палмейраса ESPN:s:9199386:e:996-->
+<!----><!--2026-07-21 07:45:13-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6553262-v-ekranizacii-naruto-rezhissyor-hochet-pokazat-emocionalnyj-put-glavnogo-geroya.html"><img src="https://img.championat.ru/news/big/b/b/v-ekranizacii-naruto-rezhissyor-hochet-pokazat-emocionalnyj-put-glavnogo-geroya_17846091122047974852.jpg"></a>Дестин Дэниел Креттон, режиссёр экранизации «Наруто», рассказал, что хочет показать в картине эмоциональный путь героя. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6553262-v-ekranizacii-naruto-rezhissyor-hochet-pokazat-emocionalnyj-put-glavnogo-geroya.html">В экранизации «Наруто» режиссёр хочет показать эмоциональный путь главного героя</a></p></div>
+</div><!--n:Чемпионат/В экранизации Наруто режиссёр хочет показать эмоциональный путь главного героя:s:9200571:e:945-->
+<!----><!--2026-07-21 07:05:40-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6553250-odin-iz-velichajshih-aktyorov-kristofer-nolan-pro-kristiana-bejla.html"><img src="https://img.championat.ru/news/big/w/s/odin-iz-velichajshih-aktyorov-kristofer-nolan-pro-kristiana-bejla_1784606732298032324.jpg"></a>Во время интервью в честь выхода «Одиссеи» у Кристофера Нолана спросили, готов ли он в будущем вновь поработать с Кристианом Бэйлом над каким-нибудь фильмом. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6553250-odin-iz-velichajshih-aktyorov-kristofer-nolan-pro-kristiana-bejla.html">«Один из величайших актёров»: Кристофер Нолан — про Кристиана Бэйла</a></p></div>
+</div><!--n:Чемпионат/Один из величайших актёров Кристофер Нолан про Кристиана Бэйла:s:9201708:e:944-->
+<!----><!--2026-07-21 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6553254-vinisius-sdelal-kosmeticheskuyu-proceduru-po-korrekcii-podborodka-tmk.html"><img src="https://img.championat.ru/news/big/d/u/vinisius-sdelal-kosmeticheskuyu-proceduru-po-korrekcii-podborodka-tmk_1784607174727514796.jpg"></a>Нападающий сборной Бразилии и мадридского «Реала» Винисиус Жуниор перенёс процедуру по коррекции подбородка, сообщает TMK. <p class="titl"><a href="https://www.championat.ru/football/news-6553254-vinisius-sdelal-kosmeticheskuyu-proceduru-po-korrekcii-podborodka-tmk.html">Винисиус сделал косметическую процедуру по коррекции подбородка — TMK</a></p></div>
+</div><!--n:Чемпионат/Винисиус сделал косметическую процедуру по коррекции подбородка TMK:s:9202813:e:892-->
+<!----><!--2026-07-21 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6552812-uma2rman-hleb-antoha-ms-toxi-i-drugie-artisty-vystupyat-na-bolshom-festivale-bega.html"><img src="https://img.championat.ru/news/big/h/b/bolshoj-festival-bega_1784562039505007023.jpg"></a>23 августа в столице во второй раз пройдёт Большой фестиваль бега — спортивно-музыкальное событие, которое объединит забеги по Садовому кольцу и масштабную музыкальную программу. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6552812-uma2rman-hleb-antoha-ms-toxi-i-drugie-artisty-vystupyat-na-bolshom-festivale-bega.html">UMA2RMAN, ХЛЕБ, Антоха МС, Toxi$ и другие артисты выступят на Большом фестивале бега</a></p></div>
+</div><!--n:Чемпионат/UMA2RMAN, ХЛЕБ, Антоха МС, Toxi и другие артисты выступят на Большом фестивале бега:s:9203874:e:986-->
+<!----><!--2026-07-21 06:57:23-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6553244-otvratitelnoe-sportivnoe-povedenie-hitclshperger-o-sbornoj-argentiny-v-finale-chm.html"><img src="https://img.championat.ru/news/big/d/v/otvratitelnoe-sportivnoe-povedenie-hitclshperger-o-sbornoj-argentiny-v-finale-chm_17846062381756291718.jpg"></a>Бывший немецкий футболист Томас Хитцльшпергер раскритиковал поведение игроков сборной Аргентины в финале чемпионата мира-2026. <p class="titl"><a href="https://www.championat.ru/football/news-6553244-otvratitelnoe-sportivnoe-povedenie-hitclshperger-o-sbornoj-argentiny-v-finale-chm.html">«Отвратительное спортивное поведение». Хитцльшпергер — о сборной Аргентины в финале ЧМ</a></p></div>
+</div><!--n:Чемпионат/Отвратительное спортивное поведение . Хитцльшпергер о сборной Аргентины в финале ЧМ:s:9205044:e:971-->
+<!----><h2 class="hspace">Наука на Вт 21 июл 2026 20:00</h2><!--2026-07-21 19:25:55-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/kitayskie-uchyonye-planiruyut-sdvinut-asteroid-s-orbity.html">Китайские учёные планируют сдвинуть астероид с орбиты</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/uchenye-vyyasnili-chto-upotreblenie-perca-chili-mozhet-imet-smertelno-opasnoe-posledstvie.html">Ученые выяснили, что употребление перца чили может иметь смертельно опасное последствие</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/obezyany-okazalis-sposobny-ispytyvat-odnu-reakciyu-skhozhuyu-s-tem-chto-est-u-lyudey.html">Обезьяны оказались способны испытывать одну реакцию, схожую с тем, что есть у людей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:25</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/uchenye-sdelali-neozhidannoe-otkrytie-u-beregov-zapadnoy-afriki.html">Ученые сделали неожиданное открытие у берегов Западной Африки</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:21</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/cherep-10go-veka-nayden-na-meste-yazycheskogo-poseleniya-drevney-rusi.html">Череп 10-го века найден на месте языческого поселения Древней Руси</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:24</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/obezyany-sposobny-otlichat-geometricheskie-figury-naravne-s-doshkolnikami.html">Обезьяны способны отличать геометрические фигуры наравне с дошкольниками</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:57</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/dokazano-chelovecheskiy-mozg-ne-sozdan-dlya-xxi-veka.html">Доказано: человеческий мозг не создан для XXI века</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:32</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/uchyonye-raskryli-taynu-vyushhikhsya-kudrey-delo-v-ne-shampune.html">Учёные раскрыли тайну вьющихся кудрей: дело в не шампуне</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:18</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/issledovateli-vyyavili-potencialnoe-sredstvo-borby-s-saksitoksinom.html">Исследователи выявили потенциальное средство борьбы с сакситоксином</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/naydeno-mesto-ritualnogo-chelovecheskogo-zhertvoprinosheniya-cherepa-i-obsidianovye-nozhi.html">Найдено место ритуального человеческого жертвоприношения: черепа и обсидиановые ножи</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260721 2000:s:9206215:e:3885-->
+<!----><h2 class="hspace">Спорт на Вт 21 июл 2026 22:00</h2><!--2026-07-21 18:54:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/football/1117307821-shalimov-o-zolotoj-butse-mbappe-na-chm-nespravedlivo-kilian-zabil-dva-.html">Шалимов о «Золотой бутсе» Мбаппе на ЧМ: «Несправедливо, Килиан забил два мяча в тренировочном матче, а Месси играл в финале»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117306146-gamburg-wta-2026-rezultaty-pervogo-kruga.html">Гамбург (WTA). Жакмо играет с Брокманн, Аванесян, Чараева, Путинцева, Олейникова вышли во 2-й круг, Приданкина, Подорошка выбыли</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117307801-roddik-o-vosstanovlenii-alkarasa-pust-ne-toropitsya-vperedi-dolgaya-ka.html">Роддик о восстановлении Алькараса: «Пусть не торопится, впереди долгая карьера»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117307804-kamenskij-ob-udovletvorenii-trebovanij-spartaka-k-ruzhichke-reshenie-v.html">Каменский об удовлетворении требований «Спартака» к Ружичке: «Решение в рамках регламента, все по закону. Сторона игрока может обжаловать вердикт»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:49</span> <a class="nodecor" href="https://www.sports.ru/football/1117307814-kejn-glavnyj-pretendent-na-zolotoj-myach-po-versii-goal-yamal-2-j-mess.html">Кейн – главный претендент на «Золотой мяч» по версии Goal. Ямаль – 2-й, Месси – 3-й, Мбаппе – 5-й, Родри – 6-й, Хвича – 9-й, Винисиус – 14-й</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/football/1117307800-predstavitel-mid-rf-o-nedostatkax-chm-2026-vizovyj-barer-kak-instrumen.html">Представитель МИД РФ о недостатках ЧМ: «Визовый барьер как инструмент цензуры, двойные стандарты, лицемерие вокруг темы расизма. Красивая картинка бессильна перед реальностью»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/football/1117307756-v-kukurelyu-brosili-flag-atletiko-vo-vremya-chempionskogo-parada-ispan.html">В Кукурелью бросили флаг «Атлетико» во время чемпионского парада Испании. Защитник «Реала» разозлился</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:44</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117306057-eshtoril-atp-2026-rezultaty-pervogo-kruga.html">Эшторил (ATP). Каррено-Буста, Боржес, Фариа, Скатов вышли во 2-й круг, Вавринка, Басилашвили выбыли, Джумхур снялся</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:44</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117307808-aron-vystupit-za-alpin-v-pervoj-praktike-pered-gran-pri-vengrii.html">Арон выступит за «Альпин» в первой практике перед Гран-при Венгрии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:34</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117307795-zashhitnik-traktora-fedoseev-o-drafte-nxl-rad-chto-menya-vybral-toront.html">Защитник «Трактора» Федосеев о драфте НХЛ: «Рад, что меня выбрал «Торонто». Мне нравится эта команда»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260721 2200:s:9210180:e:4717-->
+<!----><h2 class="hspace">В мире на Ср 22 июл 2026 06:00</h2><!--2026-07-22 05:50:08-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:50</span> <a class="nodecor" href="https://news.rambler.ru/world/56792729-rubio-obvinil-iran-v-nesereznom-otnoshenii-k-peregovoram-s-ssha/">Рубио обвинил Иран в несерьезном отношении к переговорам с США</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:25</span> <a class="nodecor" href="https://news.rambler.ru/world/56792724-v-ssha-zayavili-o-tyazhelyh-posledstviyah-vnutripoliticheskih-rasprey-na-ukraine/">В США заявили о тяжелых последствиях внутриполитических распрей на Украине</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:41</span> <a class="nodecor" href="https://news.rambler.ru/world/56792663-merts-ne-znaet-o-vstreche-predstaviteley-rossii-i-frg-v-baku/">Мерц не знает о встрече представителей России и ФРГ в Баку</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:03</span> <a class="nodecor" href="https://news.rambler.ru/world/56792625-myl-polska-polyakam-nadoela-naglost-kliki-zelenskogo/">Myśl Polska: полякам надоела наглость клики Зеленского</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:25</span> <a class="nodecor" href="https://news.rambler.ru/world/56792592-na-zapade-prizvalik-vozobnovleniyu-dialoga-s-rossiey/">На Западе призвали к возобновлению диалога с Россией</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:10</span> <a class="nodecor" href="https://news.rambler.ru/world/56792564-klichko-vyrazil-blagodarnost-syrskomu-i-zayavil-o-ego-mnogochislennyh-zaslugah/">Кличко выразил благодарность Сырскому и заявил о его многочисленных заслугах</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:56</span> <a class="nodecor" href="https://news.rambler.ru/world/56792555-v-ssha-zayavili-o-negotovnosti-evropy-protivostoyat-rossii/">В США заявили о неготовности Европы противостоять России</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:47</span> <a class="nodecor" href="https://news.rambler.ru/world/56791870-tramp-reshil-otmenit-soglasheniya-o-nerazglashenii-dannyh-ob-nlo/">Трамп решил отменить соглашения о неразглашении данных об НЛО</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:16</span> <a class="nodecor" href="https://news.rambler.ru/world/56792532-v-rade-rasskazali-o-novoy-dolzhnosti-dlya-eks-ministra-oborony-fedorova/">В Раде рассказали о новой должности для экс-министра обороны Федорова</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:57</span> <a class="nodecor" href="https://news.rambler.ru/world/56792491-tramp-zahotel-vydvinut-infantino-na-post-genseka-oon/">Трамп захотел выдвинуть Инфантино на пост генсека ООН</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260722 0600:s:9214948:e:3662-->
+<!----><!--2026-07-22 03:40:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Аэропорт Пулково в Санкт-Петербурге ночью 22 июля начал принимать и отправлять рейсы по согласованию с государственными органами. Об этом <a href="https://max.ru/favt_info/AZ-HOquwffI" rel="noopener noreferrer" target="_blank">сообщает</a> Росавиация. <p class="titl"><a href="https://rg.ru/2026/07/22/reg-szfo/iz-za-ogranichenij-aeroport-pulkovo-prinimaet-i-otpravliaet-rejsy-po-soglasovaniiu.html">Из-за ограничений аэропорт Пулково принимает и отправляет рейсы по согласованию</a></p></div>
+</div><!--n:Российская газета/Из-за ограничений аэропорт Пулково принимает и отправляет рейсы по согласованию:s:9218663:e:791-->
+<!----><!--2026-07-21 19:51:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Ограничения Россельхознадзора на поставки ряда <a href="https://rg.ru/2026/07/21/rosselhoznadzor-ogranichil-import-v-rf-ovoshchej-iz-uzbekistana.html" rel="noopener noreferrer" target="_blank">овощей и фруктов из Узбекистана</a> не приведут к дефициту продукции или заметному росту цен в федеральных торговых сетях. Основной ассортимент по большинству затронутых категорий обеспечивают российские производители, а импорт диверсифицирован за счет поставок из других стран, заявил председатель Ассоциации компаний омниканальной розничной торговли (АКОРТ) Станислав Богданов. <p class="titl"><a href="https://rg.ru/2026/07/21/akort-deficita-ovoshchej-i-fruktov-iz-za-situacii-s-uzbekistanom-ne-ozhidaetsia.html">АКОРТ: Дефицита овощей и фруктов из-за ситуации с Узбекистаном не ожидается</a></p></div>
+</div><!--n:Российская газета/АКОРТ Дефицита овощей и фруктов из-за ситуации с Узбекистаном не ожидается:s:9219662:e:1323-->
+<!----><!--2026-07-21 20:57:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/reg-cfo/v-gorode-idet-masshtabnaia-rekonstrukciia-naberezhnyh.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/15p_sboku_naberezhnaya_71c.png"></a>В Москве продолжается реализация грандиозного проекта по преображению набережных. С 2011 года город шаг за шагом превращает зоны вдоль рек в уютные прогулочные пространства и места для досуга. За это время привели в порядок около 110 километров берегов, в том числе почти все старинные гранитные набережные в центре. <p class="titl"><a href="https://rg.ru/2026/07/21/reg-cfo/v-gorode-idet-masshtabnaia-rekonstrukciia-naberezhnyh.html">В Москве идет масштабная реконструкция набережных</a></p></div>
+</div><!--n:Российская газета/В Москве идет масштабная реконструкция набережных:s:9221183:e:1094-->
+<!----><!--2026-07-21 19:26:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/rossiia-obognala-germaniiu-v-proizvodstve-piva.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/ria_2860709hr-kopiya_cbf.jpg"></a>Россия по итогам 2025 года вошла в пятерку стран-лидеров по производству пива, обогнав Германию. Об этом говорится в ежегодном докладе баварской компании BarthHaas, пишет <a href="https://tass.ru/ekonomika/27937923" rel="noopener noreferrer" target="_blank">ТАСС</a>. <p class="titl"><a href="https://rg.ru/2026/07/21/rossiia-obognala-germaniiu-v-proizvodstve-piva.html">Россия обогнала Германию в производстве пива</a></p></div>
+</div><!--n:Российская газета/Россия обогнала Германию в производстве пива:s:9222431:e:879-->
+<!----><!--2026-07-21 19:41:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/iurist-hrulev-nazval-sposoby-vziat-ipoteku-pri-plohoj-kreditnoj-istorii.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/16815361jpg_568_09e.jpg"></a>Жилье, купленное в браке, по статье 34 Семейного кодекса становится общей собственностью, поэтому банк по умолчанию включает второго супруга в сделку как созаемщика и проверяет кредитные истории обоих. <p class="titl"><a href="https://rg.ru/2026/07/21/iurist-hrulev-nazval-sposoby-vziat-ipoteku-pri-plohoj-kreditnoj-istorii.html">Юрист Хрулев назвал способы взять ипотеку при плохой кредитной истории</a></p></div>
+</div><!--n:Российская газета/Юрист Хрулев назвал способы взять ипотеку при плохой кредитной истории:s:9223453:e:940-->
+<!----><!--2026-07-21 20:02:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Роспотребнадзор направил запросы в турецкий минздрав об оценке эпидемиологической ситуации по вирусу Коксаки в республике, сообщили в российском ведомстве. Поводом стали сообщения в средствах массовой информации о заражении этим вирусом туристов из РФ. <p class="titl"><a href="https://rg.ru/2026/07/21/rospotrebnadzor-zaprosil-v-minzdrave-turcii-ocenku-situacii-s-virusom-koksaki.html">Роспотребнадзор запросил в минздраве Турции оценку ситуации с вирусом Коксаки</a></p></div>
+</div><!--n:Российская газета/Роспотребнадзор запросил в минздраве Турции оценку ситуации с вирусом Коксаки:s:9224584:e:859-->
+<!----><!--2026-07-22 04:49:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/22/reg-dfo/gidy-zaiavili-o-smertelnoj-opasnosti-proezda-k-turisticheskomu-mestu-na-kamchatke.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/22/ria_2251818hr_299.jpg"></a>Союз гидов Камчатки заявил, что проезд к популярному туристическому месту - горному массиву Вачкажец - опасен для жизни. <p class="titl"><a href="https://rg.ru/2026/07/22/reg-dfo/gidy-zaiavili-o-smertelnoj-opasnosti-proezda-k-turisticheskomu-mestu-na-kamchatke.html">Гиды заявили о смертельной опасности проезда к туристическому месту на Камчатке</a></p></div>
+</div><!--n:Российская газета/Гиды заявили о смертельной опасности проезда к туристическому месту на Камчатке:s:9225648:e:841-->
+<!----><!--2026-07-21 22:33:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/reg-cfo/siniaia-poshla-v-rost.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/13p_sob-centr_278.jpg"></a>Во вторник, 21 июля, тоннелепроходческий щит "Юлия" завершил проходку второго правого перегонного тоннеля между станциями "Щелковская" и "Гольяново". Таким образом, прокладка подземных сооружений на строящемся участке Арбатско-Покровской линии Московского метрополитена полностью окончена. С успешным завершением важного этапа в продлении исторического радиуса строителей поздравил мэр Москвы Сергей Собянин. <p class="titl"><a href="https://rg.ru/2026/07/21/reg-cfo/siniaia-poshla-v-rost.html">Арбатско-Покровская линия дойдет до Гольянова, а затем до района Восточный</a></p></div>
+</div><!--n:Российская газета/Арбатско-Покровская линия дойдет до Гольянова, а затем до района Восточный:s:9226697:e:1246-->
+<!----><!--2026-07-21 20:22:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/21/stavki-sdelany.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/9eaaf3f606a125f1594888271jpg_354.jpg"></a>Конституционный суд РФ ограничил размер ставки земельного налога для бизнесменов, которые возводят жилые дома на землях для ИЖС. <p class="titl"><a href="https://rg.ru/2026/07/21/stavki-sdelany.html">Конституционный суд ограничил налог для застройщиков домов</a></p></div>
+</div><!--n:Российская газета/Конституционный суд ограничил налог для застройщиков домов:s:9228141:e:686-->
+<!----><!--2026-07-21 20:42:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Официальный курс доллара достиг максимальной отметки за последние три месяца, <a href="https://www.cbr.ru/" rel="noopener noreferrer" target="_blank">следует</a> из данных на сайте Банка России (ЦБ). <p class="titl"><a href="https://rg.ru/2026/07/21/bank-rossii-povysil-kurs-dollara-do-maksimalnyh-za-tri-mesiaca-znachenij.html">Банк России повысил курс доллара до максимальных за три месяца значений</a></p></div>
+</div><!--n:Российская газета/Банк России повысил курс доллара до максимальных за три месяца значений:s:9228997:e:673-->
+<!----><!--2026-07-22 07:05:12-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/basketball/news-6554532-egor-dyomin-pervyj-rossiyanin-v-istorii-popavshij-v-simvolicheskuyu-pyatyorku-letnej-ligi-nba.html"><img src="https://img.championat.ru/news/big/c/z/egor-dyomin-pervyj-rossiyanin-v-istorii-popavshij-v-simvolicheskuyu-pyatyorku-letnej-ligi-_17846930941468067398.jpg"></a>Вчера, 21 июля, пресс-служба Национальной баскетбольной ассоциации (НБА) объявила символические пятёрки по итогам Летней лиги 2026 года. <p class="titl"><a href="https://www.championat.ru/basketball/news-6554532-egor-dyomin-pervyj-rossiyanin-v-istorii-popavshij-v-simvolicheskuyu-pyatyorku-letnej-ligi-nba.html">Егор Дёмин — первый россиянин в истории, попавший в символическую пятёрку Летней лиги НБА</a></p></div>
+</div><!--n:Чемпионат/Егор Дёмин первый россиянин в истории, попавший в символическую пятёрку Летней лиги НБА:s:9229862:e:1022-->
+<!----><!--2026-07-22 07:17:20-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6554536-iraola-rasskazal-o-roli-alisona-i-situacii-s-drugimi-vrataryami-liverpulya.html"><img src="https://img.championat.ru/news/big/u/r/iraola-rasskazal-o-roli-alisona-i-situacii-s-drugimi-vrataryami-liverpulya_1784693839917649767.jpg"></a>Главный тренер «Ливерпуля» Андони Ираола прокомментировал ситуацию с Алисоном и другими вратарями команды. <p class="titl"><a href="https://www.championat.ru/football/news-6554536-iraola-rasskazal-o-roli-alisona-i-situacii-s-drugimi-vrataryami-liverpulya.html">Ираола рассказал о роли Алисона и ситуации с другими вратарями «Ливерпуля»</a></p></div>
+</div><!--n:Чемпионат/Ираола рассказал о роли Алисона и ситуации с другими вратарями Ливерпуля:s:9231091:e:891-->
+<!----><!--2026-07-22 07:47:07-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6554548-tyomnyj-rycar-i-drugie-na-svezhih-kadrah-tretego-sezona-betmena-krestonosec-v-plasche.html"><img src="https://img.championat.ru/news/big/b/y/tyomnyj-rycar-i-drugie-na-svezhih-kadrah-tretego-sezona-betmen-krestonosec-v-plasche_17846958081418821127.jpg"></a>Entertainment Weekly опубликовало новые кадры второго сезона мультсериала «Бэтмен: Крестоносец в плаще». <p class="titl"><a href="https://www.championat.ru/cybersport/news-6554548-tyomnyj-rycar-i-drugie-na-svezhih-kadrah-tretego-sezona-betmena-krestonosec-v-plasche.html">Тёмный рыцарь и другие — на свежих кадрах третьего сезона «Бэтмен: Крестоносец в плаще»</a></p></div>
+</div><!--n:Чемпионат/Тёмный рыцарь и другие на свежих кадрах третьего сезона Бэтмен Крестоносец в плаще:s:9232161:e:928-->
+<!----><!--2026-07-22 07:06:08-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6554528-skaloni-zayavil-chto-ne-znal-o-bannere-igrokov-argentiny-pro-malvinskie-ostrova.html"><img src="https://img.championat.ru/news/big/w/f/skaloni-zayavil-chto-ne-znal-o-bannere-igrokov-argentiny-pro-malvinskie-ostrova_1784693161951869245.jpg"></a>Главный тренер сборной Аргентины Лионель Скалони прокомментировал ситуацию с политическим баннером, который футболисты команды развернули после победы над Англией (2:1) в полуфинале чемпионата мира-2026. <p class="titl"><a href="https://www.championat.ru/football/news-6554528-skaloni-zayavil-chto-ne-znal-o-bannere-igrokov-argentiny-pro-malvinskie-ostrova.html">Скалони заявил, что не знал о баннере игроков Аргентины про Мальвинские острова</a></p></div>
+</div><!--n:Чемпионат/Скалони заявил, что не знал о баннере игроков Аргентины про Мальвинские острова:s:9233286:e:1086-->
+<!----><!--2026-07-22 07:20:53-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/basketball/news-6554540-zhurnalist-prokommentiroval-oshibochnuyu-publikaciyu-majami-o-vozvraschenii-lebrona-dzhejmsa.html"><img src="https://img.championat.ru/news/big/s/q/zhurnalist-prokommentiroval-oshibochnuyu-publikaciyu-majami-o-vozvraschenii-lebrona-dzhejm_17846940491875184718.jpg"></a>Североамериканский журналист и клубный обозреватель «Майами Хит» Барри Джексон прокомментировал ошибочную публикацию медиаотделом «Майами» на YouTube-канале якобы пресс-конференции от 27 июля, посвящённой возвращению звёздного лёгкого форварда Леброна Джеймса. <p class="titl"><a href="https://www.championat.ru/basketball/news-6554540-zhurnalist-prokommentiroval-oshibochnuyu-publikaciyu-majami-o-vozvraschenii-lebrona-dzhejmsa.html">Журналист прокомментировал ошибочную публикацию «Майами» о возвращении Леброна Джеймса</a></p></div>
+</div><!--n:Чемпионат/Журналист прокомментировал ошибочную публикацию Майами о возвращении Леброна Джеймса:s:9234564:e:1255-->
+<!----><!--2026-07-22 07:35:10-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6554544-na-novom-kadre-tretego-sezona-vlastelina-kolec-kolca-vlasti-poyavilsya-gendalf.html"><img src="https://img.championat.ru/news/big/i/l/na-novom-kadre-tretego-sezona-lenty-vlastelin-kolec-kolca-vlasti-poyavilsya-gendalf_1784695050471981339.jpg"></a>Empire поделилось новым кадром третьего сезона ленты «Властелин колец: Кольца власти». <p class="titl"><a href="https://www.championat.ru/cybersport/news-6554544-na-novom-kadre-tretego-sezona-vlastelina-kolec-kolca-vlasti-poyavilsya-gendalf.html">На новом кадре третьего сезона ленты «Властелин колец: Кольца власти» появился Гэндальф</a></p></div>
+</div><!--n:Чемпионат/На новом кадре третьего сезона ленты Властелин колец Кольца власти появился Гэндальф:s:9236025:e:891-->
+<!----><!--2026-07-22 07:45:13-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6554542-oni-ispugalis-lebyof-ob-anglichanah-v-matche-s-argentinoj-v-1-2-finala-chm-2026.html"><img src="https://img.championat.ru/news/big/e/q/oni-ispugalis-lebyof-ob-anglichanah-v-matche-s-argentinoj-v-1-2-finala-chm-2026_178469550723595044.jpg"></a>Бывший футболист сборной Франции Франк Лебёф раскритиковал игру сборной Англии в полуфинале ЧМ-2026 с Аргентиной (1:2). <p class="titl"><a href="https://www.championat.ru/football/news-6554542-oni-ispugalis-lebyof-ob-anglichanah-v-matche-s-argentinoj-v-1-2-finala-chm-2026.html">«Они испугались». Лебёф — об англичанах в матче с Аргентиной в 1/2 финала ЧМ-2026</a></p></div>
+</div><!--n:Чемпионат/Они испугались . Лебёф об англичанах в матче с Аргентиной в 1 2 финала ЧМ-2026:s:9237118:e:921-->
+<!----><!--2026-07-22 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6554230-trejl-gesh-run-fest-projdyot-v-kemerovskoj-oblasti-25-i-26-iyulya.html"><img src="https://img.championat.ru/news/big/g/i/gesh-run-fest_1784656656354792467.jpg"></a>Трейл Gesh Run Fest пройдёт в Кемеровской области 25 и 26 июля. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6554230-trejl-gesh-run-fest-projdyot-v-kemerovskoj-oblasti-25-i-26-iyulya.html">Трейл Gesh Run Fest пройдёт в Кемеровской области 25 и 26 июля</a></p></div>
+</div><!--n:Чемпионат/Трейл Gesh Run Fest пройдёт в Кемеровской области 25 и 26 июля:s:9238218:e:674-->
+<!----><!--2026-07-22 07:40:37-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6554546-poyavilis-pervye-kadry-tretego-sezona-persi-dzheksona-i-olimpijcev.html"><img src="https://img.championat.ru/news/big/z/n/poyavilis-pervye-kadry-tretego-sezona-persi-dzheksona-i-olimpijcev_1784695236396006737.jpg"></a>Entertainmenty Weekly опубликовало первые кадры третьего сезона «Перси Джексона и Олимпийцев». <p class="titl"><a href="https://www.championat.ru/cybersport/news-6554546-poyavilis-pervye-kadry-tretego-sezona-persi-dzheksona-i-olimpijcev.html">Появились первые кадры третьего сезона «Перси Джексона и Олимпийцев»</a></p></div>
+</div><!--n:Чемпионат/Появились первые кадры третьего сезона Перси Джексона и Олимпийцев:s:9239035:e:819-->
+<!----><!--2026-07-22 07:24:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6554534-bylo-by-obidno-esli-by-komanda-s-takoj-igroj-vyigrala-chm-matteus-o-sbornoj-argentiny.html"><img src="https://img.championat.ru/news/big/s/k/bylo-by-obidno-esli-by-komanda-s-takoj-igroj-vyigrala-chm-matteus-o-sbornoj-argentiny_17846933912026216929.jpg"></a>Экс‑футболист сборной Германии Лотар Маттеус поделился мнением по поводу финального матча ЧМ-2026 между сборными Испании и Аргентины. <p class="titl"><a href="https://www.championat.ru/football/news-6554534-bylo-by-obidno-esli-by-komanda-s-takoj-igroj-vyigrala-chm-matteus-o-sbornoj-argentiny.html">«Было бы обидно, если бы команда с такой игрой выиграла ЧМ». Маттеус — о сборной Аргентины</a></p></div>
+</div><!--n:Чемпионат/Было бы обидно, если бы команда с такой игрой выиграла ЧМ . Маттеус о сборной Аргентины:s:9240023:e:997-->
+<!----><h2 class="hspace">Наука на Ср 22 июл 2026 20:00</h2><!--2026-07-22 17:41:05-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:41</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uchenye-nashli-variacii-genoma-svyazannye-s-razvitiem-opasnogo-narusheniya-psikhiki.html">Ученые нашли вариации генома, связанные с развитием опасного нарушения психики</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:55</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uluchshat-umstvennye-sposobnosti-mozhno-i-posle-90-let.html">Улучшать умственные способности можно и после 90 лет</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:15</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/istrebivshiy-dinozavrov-kosmicheskiy-ubiyca-okazalsya-redchayshim-gostem-izza-predelov-solnechnoy-sistemy.html">Истребивший динозавров космический убийца оказался редчайшим гостем из-за пределов Солнечной системы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:03</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uchyonye-sobralis-sozdat-biokompyutery-iz-mkha-elektricheskie-volny-napomnili-rabotu-mozga.html">Учёные собрались создать биокомпьютеры из мха: электрические волны напомнили работу мозга</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:33</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uchyonye-zaregistrirovali-samuyu-moshhnuyu-vspyshku-na-solnce-s-nachala-iyulya.html">Учёные зарегистрировали самую мощную вспышку на Солнце с начала июля</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:18</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/biometriya-v-borbe-s-moshennikami-novye-tekhnologii-prizvali-spasti-dengi-rossiyan.html">Биометрия в борьбе с мошенниками: новые технологии призвали спасти деньги россиян</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:27</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/uchyonye-vyyasnili-chto-cvety-umeyut-podstraivatsya-pod-pchyol.html">Учёные выяснили, что цветы умеют подстраиваться под пчёл</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:26</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/sluchaynyy-shum-vo-sne-otricatelno-vliyaet-na-pamyat.html">Случайный шум во сне отрицательно влияет на память</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:25</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/kitayskie-uchyonye-planiruyut-sdvinut-asteroid-s-orbity.html">Китайские учёные планируют сдвинуть астероид с орбиты</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/21/uchenye-vyyasnili-chto-upotreblenie-perca-chili-mozhet-imet-smertelno-opasnoe-posledstvie.html">Ученые выяснили, что употребление перца чили может иметь смертельно опасное последствие</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260722 2000:s:9241222:e:4002-->
+<!----><h2 class="hspace">Спорт на Ср 22 июл 2026 22:00</h2><!--2026-07-22 18:53:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117308913-eks-pilot-f-1-dornbos-na-ferstappena-vse-silnee-davit-red-bull-chtoby-.html">Экс-пилот «Ф-1» Дорнбос: «На Ферстаппена все сильнее давит «Ред Булл», чтобы Макс определился с будущим, и это справедливо»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:46</span> <a class="nodecor" href="https://www.sports.ru/figure-skating/1117308905-mariya-zaxarova-ne-druzhu-s-devochkami-iz-nashej-sbornoj-schitayu-chto.html">Мария Захарова: «Не дружу с девочками из нашей сборной. Считаю, что в рамках одной национальной команды дружбы нет и никогда не будет»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:43</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117308896-sergachev-o-tom-kto-kruche-messi-ili-ronaldu-dlya-menya-kruche-xarri-k.html">Сергачев о том, кто круче – Месси или Роналду: «Для меня круче Харри Кейн»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:39</span> <a class="nodecor" href="https://www.sports.ru/football/1117308892-lepsaya-o-kontrakte-barko-spartak-razbivaet-vyplaty-podemnyx-i-agentsk.html">Лепсая о контракте Барко: «Спартак» разбивает выплаты подъемных и агентских, сторона игрока против. Договоренности нет – они сами себя поставили в тупик»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:39</span> <a class="nodecor" href="https://www.sports.ru/football/1117308890-xusanov-i-doku-prodlyat-kontrakty-s-manchester-siti-do-2031-goda-the-a.html">Хусанов и Доку продлят контракты с «Манчестер Сити» до 2031 года</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:36</span> <a class="nodecor" href="https://www.sports.ru/figure-skating/1117308901-mariya-zaxarova-u-menya-v-arsenale-est-eshhe-odin-element-ultra-si-kak.html">Мария Захарова: «У меня в арсенале есть еще один элемент ультра-си, какой именно – пока секрет. Думаю, появится на соревнованиях»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:28</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117308888-kadejkin-o-perexode-v-avtomobilist-s-kudashovym-znakomy-eshhe-so-vreme.html">Кадейкин о переходе в «Автомобилист»: «С Кудашовым знакомы еще со времен «Атланта». Когда есть такие предложения, сразу понимаешь, что будет тебя ждать, какие требования. Долго не размышлял»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:25</span> <a class="nodecor" href="https://www.sports.ru/football/1117308878-semin-o-loko-uxod-vorobeva-ne-poterya-komlichenko-ne-nizhe-urovnem-est.html">Семин о «Локо»: «Уход Воробьева – не потеря. Комличенко не ниже уровнем, есть быстрые игроки для контратак. Держать насильно не имело смысла»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:23</span> <a class="nodecor" href="https://www.sports.ru/football/1117308876-nepomnyashhij-xotel-by-videt-pauzy-posredi-tajmov-v-rpl-bez-reklamy-se.html">Непомнящий хотел бы видеть паузы посреди таймов в РПЛ: «Без рекламы сейчас никуда, футбол – это большой бизнес. Я не против того, чтобы тренеры могли оперативно повлиять на ситуацию»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:22</span> <a class="nodecor" href="https://www.sports.ru/figure-skating/1117308885-kamila-ulybalas-a-my-naslazhdalis-ee-svobodoj-sokolovskaya-o-pervoj-tr.html">«Камила улыбалась, а мы наслаждались ее свободой». Соколовская о первой тренировке Валиевой в академии Навки</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260722 2200:s:9245304:e:5055-->
+<!----><h2 class="hspace">В мире на Чт 23 июл 2026 06:00</h2><!--2026-07-23 05:33:47-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:33</span> <a class="nodecor" href="https://news.rambler.ru/world/56798554-seylers-storonniki-nezavisimosti-shotlandii-hotyat-provesti-novoe-golosovanie/">Сейлерс: сторонники независимости Шотландии хотят провести новое голосование</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:45</span> <a class="nodecor" href="https://news.rambler.ru/world/56798490-v-es-rasskazali-ob-isterike-kallas-posle-resheniya-ssha-po-ukraine/">В ЕС рассказали об истерике Каллас после решения США по Украине</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:42</span> <a class="nodecor" href="https://news.rambler.ru/world/56798439-amerikanskiy-zhurnalist-zayavil-o-popytkah-vtyanut-ssha-v-voynu-s-rossiey/">Американский журналист заявил о попытках втянуть США в войну с Россией</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:36</span> <a class="nodecor" href="https://news.rambler.ru/world/56798493-belorusy-uchastvuyut-vo-vstreche-glav-zdravoohraneniya-stran-briks/">Белорусы участвуют во встрече глав здравоохранения стран БРИКС</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:56</span> <a class="nodecor" href="https://news.rambler.ru/world/56798452-karlson-zayavil-chto-amerikantsev-arestovyvayut-po-vozvraschenii-iz-rossii/">Карлсон заявил, что американцев арестовывают по возвращении из России</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:44</span> <a class="nodecor" href="https://news.rambler.ru/world/56798363-cnn-mossad-peredal-ssha-dannye-o-yadernyh-tsentrifugah-v-gore-kolang-v-irane/">CNN: "Моссад" передал США данные о ядерных центрифугах в горе Коланг в Иране</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:50</span> <a class="nodecor" href="https://news.rambler.ru/world/56798370-v-germanii-zayavili-o-gotovnosti-zelenskogo-sdatsya-pod-davleniem/">В Германии заявили о готовности Зеленского сдаться под давлением</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:44</span> <a class="nodecor" href="https://news.rambler.ru/world/56798327-belgiytsy-stali-zaprashivat-rossiyskie-vizy-traditsionnyh-tsennostey/">Бельгийцы стали запрашивать российские «визы традиционных ценностей»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:53</span> <a class="nodecor" href="https://news.rambler.ru/world/56798267-britaniya-evakuirovala-diplomatov-iz-irana/">Британия эвакуировала дипломатов из Ирана</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:39</span> <a class="nodecor" href="https://news.rambler.ru/world/56798247-tramp-v-sentyabre-ssha-zhdt-novyy-shatdaun/">Трамп: в сентябре США ждёт новый шатдаун</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260723 0600:s:9250410:e:3713-->
+<!----><!--2026-07-23 07:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/23/issledovanie-rossiiane-vse-bolshe-pytaiutsia-razobratsia-v-ekonomicheskih-terminah.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/22/istock-1951970293_f8e_4e2.jpg"></a>Значение выражения "денежно-кредитная политика" понимают только 43% россиян, а смысл формулировки "проинфляционные риски" - 19% респондентов. Об этом рассказали проекту ProДеньги "Российской газеты" аналитики финансового маркетплейса "Выберу.ру", опросив 3000 респондентов в возрасте 18-65 лет. <p class="titl"><a href="https://rg.ru/2026/07/23/issledovanie-rossiiane-vse-bolshe-pytaiutsia-razobratsia-v-ekonomicheskih-terminah.html">Исследование: Россияне все больше пытаются разобраться в экономических терминах</a></p></div>
+</div><!--n:Российская газета/Исследование Россияне все больше пытаются разобраться в экономических терминах:s:9254176:e:1139-->
+<!----><!--2026-07-23 07:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/23/kvadratnye-metry-na-paiah.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/4p_verh_muzhik_f6f.png"></a>Доход от недвижимости можно получать, не только купив квартиру и сдавая ее в аренду. Набирают популярность закрытые паевые инвестиционные фонды недвижимости (ЗПИФы) - через них можно вложиться не только в жилую, но и в коммерческую недвижимость, доходность которой нередко повыше. Кроме того, для этого иногда не нужны крупные суммы. Разберемся, как это работает и какие тут есть плюсы и минусы. <p class="titl"><a href="https://rg.ru/2026/07/23/kvadratnye-metry-na-paiah.html">Как работает новый инструмент - доходная недвижимость</a></p></div>
+</div><!--n:Российская газета/Как работает новый инструмент - доходная недвижимость:s:9255524:e:1165-->
+<!----><!--2026-07-23 05:21:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/23/reg-dfo/v-poiskah-ravnovesiia.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/23/v-poiskah-ravnovesiya-10-p-infografika_910.jpg"></a>Рынок жилья в округе благодаря "дальневосточной ипотеке" демонстрирует более высокую устойчивость в сравнении со средним уровнем по России. Общая площадь возводимых многоквартирных домов (МКД) составляет около семи миллионов квадратных метров, распродается порядка 70 процентов жилья. По регионам картина неравномерная: в Приморье и на Сахалине наблюдается избыток предложения, а в Бурятии, Забайкалье и на Камчатке есть признаки дефицита. Какие прогнозы дают эксперты? <p class="titl"><a href="https://rg.ru/2026/07/23/reg-dfo/v-poiskah-ravnovesiia.html">Жилищное строительство в ДФО ищет баланс между спросом и предложением</a></p></div>
+</div><!--n:Российская газета/Жилищное строительство в ДФО ищет баланс между спросом и предложением:s:9256849:e:1372-->
+<!----><!--2026-07-22 22:58:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/22/polnocennyj-otdyh.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/22/3p_1k-sanatoriy-spiker_c0e.jpg"></a>Экспортные и внутренние тарифы на санаторно-курортное лечение в Беларуси отменены в рамках формирования единых подходов социальной политики в Союзном государстве, сообщили белорусские СМИ. Этот вопрос в начале 2026 года обсуждали на уровне Группы высокого уровня Совета министров Союзного государства. <p class="titl"><a href="https://rg.ru/2026/07/22/polnocennyj-otdyh.html">Названа средняя стоимость недельного отдыха в санаториях Беларуси для двоих</a></p></div>
+</div><!--n:Российская газета/Названа средняя стоимость недельного отдыха в санаториях Беларуси для двоих:s:9258411:e:1036-->
+<!----><!--2026-07-23 06:35:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/23/reg-sibfo/prodvigaiut-innovacii.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/23/shmeli---«bioinnovacii»_3ae.jpg"></a>Зачем в Новосибирской области создали каталог производителей <p class="titl"><a href="https://rg.ru/2026/07/23/reg-sibfo/prodvigaiut-innovacii.html">Продвигают инновации</a></p></div>
+</div><!--n:Российская газета/Продвигают инновации:s:9259649:e:523-->
+<!----><!--2026-07-23 05:52:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Российский экспортный центр (РЭЦ) высоко оценил усилия руководства Хабаровского края по поддержке компаний, ведущих внешнеэкономическую деятельность. По словам генерального директора РЭЦ Вероники Никишиной, субъект вошел в число лидеров по внедрению регионального экспортного стандарта (РЭС) - по сути, инструкции для местных властей, помогающей бизнесу выходить на зарубежные рынки. Практики края стали основой для дальнейшего развития РЭС, который в прошлом году был обновлен до версии 3.0. <p class="titl"><a href="https://rg.ru/2026/07/23/reg-dfo/poshel-v-rost.html">За год экспорт Хабаровского края увеличился в 2,2 раза</a></p></div>
+</div><!--n:Российская газета/За год экспорт Хабаровского края увеличился в 2,2 раза:s:9260271:e:1191-->
+<!----><!--2026-07-23 00:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/22/ekspert-associacii-bankov-goncharova-raskryla-perspektivy-kriptorynka-v-rossii.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/22/istock-853584220_f35.jpg"></a>Госдума приняла <a href="https://rg.ru/2026/07/21/gosduma-priniala-zakon-o-regulirovanii-kriptovaliut-v-rf.html" rel="noopener noreferrer" target="_blank">закон, регулирующий обращение криптовалют в России</a>: криптобиржи и криптообменники смогут получить легальный статус, а инвесторы, как квалифицированные, так и неквалифицированные, - покупать цифровые активы. Опытные пользователи вряд ли сразу уйдут с иностранных площадок: основной рост обеспечит другая аудитория - те, кто раньше даже не покупал криптовалюту. Об этом в интервью проекту ProДеньги "Российской газеты" рассказала руководитель экспертного центра по цифровым финансовым активам и цифровым валютам Ассоциации банков России (АБР) Ольга Гончарова. <p class="titl"><a href="https://rg.ru/2026/07/22/ekspert-associacii-bankov-goncharova-raskryla-perspektivy-kriptorynka-v-rossii.html">Эксперт Ассоциации банков России Гончарова оценила перспективы крипторынка</a></p></div>
+</div><!--n:Российская газета/Эксперт Ассоциации банков России Гончарова оценила перспективы крипторынка:s:9261620:e:1793-->
+<!----><!--2026-07-23 06:08:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/23/reg-dfo/kamchatka-kraj-otkrytij.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/23/kamchatka---kray-otkrytiy-11-p_9d4.jpg"></a>Камчатка - один из самых удаленных и самобытных регионов России, путешествие по которому требует качественной подготовки. В прошлом году полуостров посетили 410 тысяч человек, а за последние пять лет общее число туроператоров в крае выросло почти в полтора раза. О перспективах и сложностях развития индустрии в регионе рассказал министр туризма Камчатского края Владимир Русанов. <p class="titl"><a href="https://rg.ru/2026/07/23/reg-dfo/kamchatka-kraj-otkrytij.html">На Камчатке активно формируются новые точки притяжения для туристов</a></p></div>
+</div><!--n:Российская газета/На Камчатке активно формируются новые точки притяжения для туристов:s:9263615:e:1199-->
+<!----><!--2026-07-23 05:31:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/23/reg-dfo/tri-strany-za-nedeliu.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/23/tri-strany---za-nedelyu-12-p-foto-1_587.jpg"></a>В июле и августе любители автопутешествий смогут отправиться в дорогу по замечательному маршруту - от берега Байкала по Бурятии, Монголии до китайского города Хух-Хото. <p class="titl"><a href="https://rg.ru/2026/07/23/reg-dfo/tri-strany-za-nedeliu.html">Разработан маршрут для автотуров по Великому чайному пути</a></p></div>
+</div><!--n:Российская газета/Разработан маршрут для автотуров по Великому чайному пути:s:9265001:e:792-->
+<!----><!--2026-07-23 06:52:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Кузбасс опередил все регионы РФ по дефициту бюджета <p class="titl"><a href="https://rg.ru/2026/07/23/reg-sibfo/nepribylnyj-ugol.html">Неприбыльный уголь</a></p></div>
+</div><!--n:Российская газета/Неприбыльный уголь:s:9265960:e:324-->
+<!----><!--2026-07-23 07:45:34-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6555660-v-rossii-vyshel-semejnyj-film-moj-dikij-drug-vozvraschenie-domoj.html"><img src="https://img.championat.ru/news/big/x/c/v-rossii-vyshel-semejnyj-film-moj-dikij-drug-vozvraschenie-domoj_17847819331167710522.jpg"></a>С сегодняшнего дня в кинотеатрах России начались показы фильма «Мой дикий друг. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6555660-v-rossii-vyshel-semejnyj-film-moj-dikij-drug-vozvraschenie-domoj.html">В России вышел семейный фильм «Мой дикий друг. Возвращение домой»</a></p></div>
+</div><!--n:Чемпионат/В России вышел семейный фильм Мой дикий друг. Возвращение домой:s:9266379:e:795-->
+<!----><!--2026-07-23 07:51:07-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6555666-raspisanie-tretego-igrovogo-dnya-blast-bounty-2026-season-2-po-counter-strike-2.html"><img src="https://img.championat.ru/news/big/t/z/raspisanie-tretego-igrovogo-dnya-blast-bounty-2026-season-2-po-counter-strike-2_1784782263470801638.jpg"></a>Сегодня, 23 июля, продолжается турнир BLAST Bounty 2026 Season 2 по Counter-Strike 2. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6555666-raspisanie-tretego-igrovogo-dnya-blast-bounty-2026-season-2-po-counter-strike-2.html">Расписание третьего игрового дня BLAST Bounty 2026 Season 2 по Counter-Strike 2</a></p></div>
+</div><!--n:Чемпионат/Расписание третьего игрового дня BLAST Bounty 2026 Season 2 по Counter-Strike 2:s:9267335:e:799-->
+<!----><!--2026-07-23 07:51:23-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6555662-barko-perehodit-v-chelsi-fabricio-romano.html"><img src="https://img.championat.ru/news/big/o/s/barko-perehodit-v-chelsi-fabricio-romano_1784782280635276606.jpg"></a>Полузащитник сборной Аргентины Валентин Барко перейдёт из «Страсбура» в «Челси», об этом сообщил в соцсети X инсайдер Фабрицио Романо. <p class="titl"><a href="https://www.championat.ru/football/news-6555662-barko-perehodit-v-chelsi-fabricio-romano.html">Барко переходит в «Челси» — Фабрицио Романо</a></p></div>
+</div><!--n:Чемпионат/Барко переходит в Челси Фабрицио Романо:s:9268289:e:780-->
+<!----><!--2026-07-23 07:19:00-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/basketball/news-6555654-ekspert-obyasnil-pochemu-majami-poslednij-realnyj-shans-dzhejmsa-na-titul.html"><img src="https://img.championat.ru/news/big/l/r/ekspert-obyasnil-pochemu-majami-poslednij-realnyj-shans-lebrona-na-titul_17847806521251141696.jpg"></a>Североамериканский журналист и экспертный обозреватель Ник Райт порассуждал о будущем лёгкого форварда Леброна Джеймса и предположил, что, если он и дальше будет гнаться за пятым чемпионским титулом, то «Майами Хит» может оказаться для него лучшим вариантом. <p class="titl"><a href="https://www.championat.ru/basketball/news-6555654-ekspert-obyasnil-pochemu-majami-poslednij-realnyj-shans-dzhejmsa-na-titul.html">Эксперт объяснил, почему «Майами» — последний реальный шанс Леброна на титул</a></p></div>
+</div><!--n:Чемпионат/Эксперт объяснил, почему Майами последний реальный шанс Леброна на титул:s:9269187:e:1174-->
+<!----><!--2026-07-23 07:30:03-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6554974-otkrytyj-lyzherollernyj-polumarafon-nastoyaschij-muzhik-projdyot-v-permskom-krae-25-iyulya.html"><img src="https://img.championat.ru/news/big/w/x/nastoyaschij-muzhik_17847824541781296909.jpg"></a>Открытый лыжероллерный полумарафон «Настоящий мужик» пройдёт в Пермском крае 25 июля. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6554974-otkrytyj-lyzherollernyj-polumarafon-nastoyaschij-muzhik-projdyot-v-permskom-krae-25-iyulya.html">Открытый лыжероллерный полумарафон «Настоящий мужик» пройдёт в Пермском крае 25 июля</a></p></div>
+</div><!--n:Чемпионат/Открытый лыжероллерный полумарафон Настоящий мужик пройдёт в Пермском крае 25 июля:s:9270541:e:847-->
+<!----><!--2026-07-23 07:01:20-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6555640-ronaldu-luchshe-roj-kin-na-vopros-o-tom-mozhno-li-stavit-messi-vyshe-pele-i-maradony.html"><img src="https://img.championat.ru/news/big/a/w/ronaldu-luchshe-roj-kin-na-vopros-o-tom-mozhno-li-stavit-messi-vyshe-pele-i-maradony_17847792791014291897.jpg"></a>Бывший капитан «Манчестер Юнайтед» и сборной Ирландии Рой Кин вместе с экс-нападающим «Арсенала» Ианом Райтом и бывшим футболистом «Манчестер Юнайтед» Гари Невиллом обсудили место Лионеля Месси в истории футбола. <p class="titl"><a href="https://www.championat.ru/football/news-6555640-ronaldu-luchshe-roj-kin-na-vopros-o-tom-mozhno-li-stavit-messi-vyshe-pele-i-maradony.html">«Роналду лучше». Рой Кин — на вопрос о том, можно ли ставить Месси выше Пеле и Марадоны</a></p></div>
+</div><!--n:Чемпионат/Роналду лучше . Рой Кин на вопрос о том, можно ли ставить Месси выше Пеле и Марадоны:s:9271585:e:1136-->
+<!----><!--2026-07-23 07:18:14-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6555648-daily-express-soobschil-podrobnosti-o-buduschem-kapitana-myu-brunu-fernandesha-v-futbole.html"><img src="https://img.championat.ru/news/big/x/p/daily-express-soobschil-podrobnosti-o-buduschem-kapitana-myu-brunu-fernandesha-v-futbole_17847802891905249862.jpg"></a>Португальский полузащитник Бруну Фернандеш согласился связать своё будущее с «Манчестер Юнайтед». <p class="titl"><a href="https://www.championat.ru/football/news-6555648-daily-express-soobschil-podrobnosti-o-buduschem-kapitana-myu-brunu-fernandesha-v-futbole.html">Daily Express сообщил подробности о будущем капитана «МЮ» Бруну Фернандеша в футболе</a></p></div>
+</div><!--n:Чемпионат/Daily Express сообщил подробности о будущем капитана МЮ Бруну Фернандеша в футболе:s:9272917:e:925-->
+<!----><!--2026-07-23 07:23:32-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6555656-majlza-moralesa-vvedut-v-kinovselennuyu-marvel-v-kakoj-to-moment.html"><img src="https://img.championat.ru/news/big/w/j/majlza-moralesa-vvedut-v-kinovselennuyu-marvel-v-kakoj-to-moment_17847806111892116145.jpg"></a>Обсуждая будущее киновселенной Marvel Кевин Файги рассказал, что в какой-то момент в неё введут Майлза Моралеса. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6555656-majlza-moralesa-vvedut-v-kinovselennuyu-marvel-v-kakoj-to-moment.html">Майлза Моралеса введут в киновселенную Marvel в какой-то момент</a></p></div>
+</div><!--n:Чемпионат/Майлза Моралеса введут в киновселенную Marvel в какой-то момент:s:9274028:e:840-->
+<!----><!--2026-07-23 07:14:40-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6555652-film-eyo-lichnyj-ad-nikolasa-vindinga-refna-oficialno-vyshel-v-kinoteatrah-rossii.html"><img src="https://img.championat.ru/news/big/f/v/film-eyo-lichnyj-ad-nikolasa-vindinga-refna-oficialno-vyshel-v-kinoteatrah-rossii_178478007916668844.jpg"></a>С сегодняшнего дня в кинотеатрах России начинают показывать фильм «Её личный ад» Николаса Виндинга Рефна. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6555652-film-eyo-lichnyj-ad-nikolasa-vindinga-refna-oficialno-vyshel-v-kinoteatrah-rossii.html">Фильм «Её личный ад» Николаса Виндинга Рефна официально вышел в кинотеатрах России</a></p></div>
+</div><!--n:Чемпионат/Фильм Её личный ад Николаса Виндинга Рефна официально вышел в кинотеатрах России:s:9275024:e:926-->
+<!----><!--2026-07-23 07:55:58-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6555658-san-hose-ertkvejks-orlando-siti-rezultat-matcha-23-iyulya-2026-schyot-0-4-mls-antuan-grizmann.html"><img src="https://img.championat.ru/news/big/u/c/orlando-razgromil-v-gostyah-san-hose-grizmann-zabil-v-debyutnom-matche-v-mls_17847807981519830282.jpg"></a>Утром 23 июля в американском Сан-Хосе на поле «ПэйПал Парк» «Сан-Хосе Эртквейкс» принимал «Орландо Сити» в матче МЛС сезона-2026. <p class="titl"><a href="https://www.championat.ru/football/news-6555658-san-hose-ertkvejks-orlando-siti-rezultat-matcha-23-iyulya-2026-schyot-0-4-mls-antuan-grizmann.html">«Орландо» разгромил в гостях «Сан-Хосе». Гризманн забил в дебютном матче в МЛС</a></p></div>
+</div><!--n:Чемпионат/Орландо разгромил в гостях Сан-Хосе . Гризманн забил в дебютном матче в МЛС:s:9276144:e:968-->
+<!----><h2 class="hspace">Наука на Чт 23 июл 2026 20:00</h2><!--2026-07-23 19:46:48-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/v-niderlandakh-u-detey-zafiksirovali-rezkiy-vsplesk-kozhnoy-infekcii.html">В Нидерландах у детей зафиксировали резкий всплеск кожной инфекции</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:02</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/v-ssha-uspeshno-ispytali-na-myshakh-vakcinu-ot-legochnoy-chumy.html">В США успешно испытали на мышах вакцину от легочной чумы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:50</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/chelovekopodobnye-roboty-vpervye-proveli-operacii-na-zhivykh-sushhestvakh.html">Человекоподобные роботы впервые провели операции на живых существах</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:46</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/uchenye-nazvali-maksimalnyy-predel-chelovecheskoy-zhizni.html">Ученые назвали максимальный предел человеческой жизни</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:47</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/uchyonye-svyazali-zagryaznenie-vozdukha-s-uvelicheniem-riskom-bolezni-parkinsona.html">Учёные связали загрязнение воздуха с увеличением риском болезни Паркинсона</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:46</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/uchenye-obnaruzhili-chto-kashaloty-delayut-kogda-poblizosti-nakhodyatsya-lodki.html">Ученые обнаружили, что кашалоты делают, когда поблизости находятся лодки</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:41</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uchenye-nashli-variacii-genoma-svyazannye-s-razvitiem-opasnogo-narusheniya-psikhiki.html">Ученые нашли вариации генома, связанные с развитием опасного нарушения психики</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:55</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uluchshat-umstvennye-sposobnosti-mozhno-i-posle-90-let.html">Улучшать умственные способности можно и после 90 лет</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:15</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/istrebivshiy-dinozavrov-kosmicheskiy-ubiyca-okazalsya-redchayshim-gostem-izza-predelov-solnechnoy-sistemy.html">Истребивший динозавров космический убийца оказался редчайшим гостем из-за пределов Солнечной системы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:03</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uchyonye-sobralis-sozdat-biokompyutery-iz-mkha-elektricheskie-volny-napomnili-rabotu-mozga.html">Учёные собрались создать биокомпьютеры из мха: электрические волны напомнили работу мозга</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260723 2000:s:9277293:e:3992-->
+<!----><h2 class="hspace">Спорт на Чт 23 июл 2026 22:00</h2><!--2026-07-23 18:54:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117310071-vajsfeld-o-zhelanii-ovechkina-zavershit-kareru-v-dinamo-on-mozhet-dela.html">Вайсфельд о желании Овечкина завершить карьеру в «Динамо»: «Он может делать все, что хочет. Ни один человек не может давать ему советы насчет того, где и когда ему заканчивать»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/rugby/1117310067-kubok-karri-2-j-tur-chitas-sygrayut-s-sharks-lajons-vstretyatsya-s-pum.html">Кубок Карри. 2-й тур. «Читас» сыграют с «Шаркс», «Лайонс» встретятся с «Пумас», другие матчи</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117310077-lyuis-xemilton-bolid-ferrari-ne-osobo-izmenilsya-posle-etapa-v-monako.html">Льюис Хэмилтон: «Болид «Феррари» не особо изменился после этапа в Монако»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/boxing/1117310073-bogdan-guskov-esli-by-ya-dralsya-s-titanovoj-plitoj-shansov-na-pobedu-.html">Богдан Гуськов: «Если бы я дрался с титановой плитой, шансов на победу бы не было, но Анкалаев – такой же человек»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117308391-eshtoril-atp-2026-rezultaty-vtorogo-kruga.html">Эшторил (ATP). Рублев, Дардери, Фариа, Блокс, Ван Аш вышли в 1/4 финала</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://www.sports.ru/football/1117310063-agent-diveeva-o-transfere-v-evropu-est-usloviya-pri-kotoryx-perexod-vo.html">Агент Дивеева о трансфере за рубеж: «Есть условия, при которых переход возможен. Интерес перманентный есть, но пока без конкретики»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:46</span> <a class="nodecor" href="https://www.sports.ru/boxing/1117310065-dmitrij-bivol-perenes-operacziyu-na-lokte.html">Дмитрий Бивол перенес операцию на локте</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117310031-kontrakt-karlsson-s-kepxitom-18-mln-dollarov-4-j-v-rejtinge-xudshix-v-.html">Контракт Карлссона с кэпхитом 18 млн долларов – 4-й в рейтинге худших в НХЛ по версии The Athletic, Юбердо – 1-й, Стивенсона – 2-й</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:43</span> <a class="nodecor" href="https://www.sports.ru/fencing/1117307906-chempionat-mira-po-fextovaniyu-2026-kirill-i-anton-borodachevy-rustamo.html">Чемпионат мира по фехтованию-2026. Кирилл и Антон Бородачевы, Егорян, Никитина, Рустамова, Бекмурзова выступят в 1/32 финала</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:40</span> <a class="nodecor" href="https://www.sports.ru/football/1117310051-mostovoj-ob-otkaze-v-pereigrovke-matcha-za-superkubok-spartak-pravilno.html">Мостовой об отказе в переигровке матча за Суперкубок: «Спартак» правильно сделал, что попытался. Если каждый раз будут такие пенальти назначать, во что превратится футбол?»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260723 2200:s:9281365:e:4600-->
+<!----><h2 class="hspace">В мире на Пт 24 июл 2026 06:00</h2><!--2026-07-24 05:31:15-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:31</span> <a class="nodecor" href="https://news.rambler.ru/world/56804270-v-britanii-zayavili-o-gotovnosti-otrazit-vozmozhnye-ataki-irana/">В Британии заявили о готовности отразить возможные атаки Ирана</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:16</span> <a class="nodecor" href="https://news.rambler.ru/world/56804266-zelenskiy-popal-v-lovushku-iz-za-fedorova/">Зеленский попал в ловушку из-за Федорова</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:51</span> <a class="nodecor" href="https://news.rambler.ru/world/56804234-zamglavy-pentagona-ne-schitaet-situatsiyu-s-iranom-bezvyhodnoy/">Замглавы Пентагона не считает ситуацию с Ираном безвыходной</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:34</span> <a class="nodecor" href="https://news.rambler.ru/world/56804175-zelenskiy-zayavil-chto-vstrecha-ukrainy-ssha-i-rossii-mozhet-proyti-dooseni/">Зеленский заявил, что встреча Украины, США и России может пройти до осени</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:22</span> <a class="nodecor" href="https://news.rambler.ru/world/56804203-hersh-obyasnil-rezkie-zayavleniya-trampa-o-vyborah-v-ssha/">Херш объяснил резкие заявления Трампа о выборах в США</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:15</span> <a class="nodecor" href="https://news.rambler.ru/world/56804194-nyt-reshenie-zelenskogo-pogruzilo-ukrainu-v-glubochayshiy-krizis/">NYT: решение Зеленского погрузило Украину в глубочайший кризис</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:08</span> <a class="nodecor" href="https://news.rambler.ru/world/56804181-v-polshe-vnov-vozmutilis-zelenskim/">В Польше вновь возмутились Зеленским</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:52</span> <a class="nodecor" href="https://news.rambler.ru/world/56804162-nyt-iran-otverg-predlozhenie-ssha-o-peremirii/">NYT: Иран отверг предложение США о перемирии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:47</span> <a class="nodecor" href="https://news.rambler.ru/world/56804146-raskryto-otnoshenie-trampa-k-novomu-premeru-britanii/">Раскрыто отношение Трампа к новому премьеру Британии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:08</span> <a class="nodecor" href="https://news.rambler.ru/world/56804116-glava-mid-irana-sravnil-politiku-administratsii-trampa-s-povedeniem-strausa/">Глава МИД Ирана сравнил политику администрации Трампа с поведением страуса</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260724 0600:s:9286016:e:3490-->
+<!----><!--2026-07-24 05:40:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/reg-dfo/v-blagoveshchenskom-aeroportu-na-rabotu-zastupil-velsh-korgi-archi.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/img_20260724_113831-1-1_3b5.png"></a>В аэропорту Благовещенска появился новый сотрудник - вельш-корги по кличке Арчи. Об этом <a href="https://max.ru/amurobl_official/AZ-RrGXeC-o" rel="noopener noreferrer" target="_blank">сообщили</a> в правительстве Амурской области. <p class="titl"><a href="https://rg.ru/2026/07/24/reg-dfo/v-blagoveshchenskom-aeroportu-na-rabotu-zastupil-velsh-korgi-archi.html">В Благовещенском аэропорту на работу заступил вельш-корги Арчи</a></p></div>
+</div><!--n:Российская газета/В Благовещенском аэропорту на работу заступил вельш-корги Арчи:s:9289559:e:911-->
+<!----><!--2026-07-23 22:17:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/23/reg-cfo/mashinist-otdyhaet.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/23/mih67882-kopiya_d26_95c.jpg"></a>Беспилотный поезд, который <a href="https://rg.ru/2026/01/30/reg-cfo/korrespondenty-rg-odnimi-iz-pervyh-prokatilis-na-bespilotnom-poezde-metro.html" rel="noopener noreferrer" target="_blank">проходит испытания</a> в Московском метрополитене, пойдет с пассажирами в 2027 году. Об этом сообщил в своем блоге мэр Москвы Сергей Собянин. "А к 2030 году Большая кольцевая станет первой полностью беспилотной линией метро", - уверен мэр. <p class="titl"><a href="https://rg.ru/2026/07/23/reg-cfo/mashinist-otdyhaet.html">Собянин рассказал, когда беспилотный поезд повезет пассажиров в московском метро</a></p></div>
+</div><!--n:Российская газета/Собянин рассказал, когда беспилотный поезд повезет пассажиров в московском метро:s:9290646:e:1141-->
+<!----><!--2026-07-24 07:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/goriuchaia-tema.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/21/7p_podval_proba-111_5c3.jpg"></a>Флакон с надписью "повышает октановое число" выглядит как простое решение: залил в бак - и сомнительный бензин стал качественным. На практике так не работает. Октановое число показывает устойчивость топлива к детонации, но качество бензина зависит не только от него. Важны испаряемость, содержание серы, смол, металлов, воды и механических примесей. Исправление одного показателя не исправляет остальные, рассказал "РГ" руководитель сервисного направления "Рольф" Никита Архипов. <p class="titl"><a href="https://rg.ru/2026/07/24/goriuchaia-tema.html">Эксперт Архипов объяснил, можно ли улучшить плохой бензин с помощью присадок</a></p></div>
+</div><!--n:Российская газета/Эксперт Архипов объяснил, можно ли улучшить плохой бензин с помощью присадок:s:9291998:e:1350-->
+<!----><!--2026-07-24 07:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/podvalnye-pomeshcheniia-polzuiutsia-povyshennym-sprosom-u-rossijskogo-biznesa.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/23/istock-2215882793_3ab.jpg"></a>Спрос на покупку подвальных помещений в России в 2026 году после замедления в 2024-2025 гг. показывает умеренный рост. Несмотря на то, что доля таких объектов на рынке остается невелика, малый бизнес и частные инвесторы по-прежнему рассматривают подвалы как возможность выйти на рынок с небольшим бюджетом. "Российская газета" узнала у экспертов, кто сегодня формирует спрос, какие объекты наиболее ликвидны и как избежать неочевидных проблем при покупке. <p class="titl"><a href="https://rg.ru/2026/07/24/podvalnye-pomeshcheniia-polzuiutsia-povyshennym-sprosom-u-rossijskogo-biznesa.html">Подвальные помещения пользуются повышенным спросом у российского бизнеса</a></p></div>
+</div><!--n:Российская газета/Подвальные помещения пользуются повышенным спросом у российского бизнеса:s:9293550:e:1413-->
+<!----><!--2026-07-23 21:15:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Средний размер ипотеки с господдержкой, которую россияне оформляли в июне, впервые превысил шесть млн рублей, следует из данных "Объединенного кредитного бюро" (ОКБ), пишет <a href="https://realty.rbc.ru/news/6a5f78d79a7947049e9ad212" rel="noopener noreferrer" target="_blank">"РБК Недвижимость"</a>. <p class="titl"><a href="https://rg.ru/2026/07/23/srednij-razmer-zajma-po-lgotnoj-ipoteke-prevysil-6-mln-rublej.html">Средний размер займа по льготной ипотеке превысил 6 млн рублей</a></p></div>
+</div><!--n:Российская газета/Средний размер займа по льготной ипотеке превысил 6 млн рублей:s:9295161:e:800-->
+<!----><!--2026-07-24 07:12:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Разница между самой высокой и самой низкой средней пенсией по регионам России достигла в июне порядка 23,4 тысячи рублей, передает <a href="https://tass.ru/ekonomika/27946409" rel="noopener noreferrer" target="_blank">ТАСС</a>, ссылаясь на данные Социального фонда РФ. <p class="titl"><a href="https://rg.ru/2026/07/24/raznica-mezhdu-razmerami-pensij-v-regionah-rf-dostigla-234-tysiachi-rublej.html">Разница между размерами пенсий в регионах РФ достигла 23,4 тысячи рублей</a></p></div>
+</div><!--n:Российская газета/Разница между размерами пенсий в регионах РФ достигла 23,4 тысячи рублей:s:9296135:e:784-->
+<!----><!--2026-07-23 22:18:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Сообщения о завершении обслуживания всех валютных и мультивалютных карт Visa с 1 сентября не соответствуют действительности, заявили в пресс-службе Сбера. Ранее в СМИ появилась информация, что держателей карт Visa предупредили об этом в СМС. <p class="titl"><a href="https://rg.ru/2026/07/23/v-sbere-oprovergli-soobshcheniia-o-zakrytii-kart-visa-s-1-sentiabria.html">В Сбере опровергли сообщения о закрытии карт Visa с 1 сентября</a></p></div>
+</div><!--n:Российская газета/В Сбере опровергли сообщения о закрытии карт Visa с 1 сентября:s:9297109:e:780-->
+<!----><!--2026-07-24 05:20:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/reg-dfo/na-sahaline-bespilotnik-vpervye-vypolnil-realnuiu-dostavku-medicinskih-gruzov.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/2026-07-24_13-03-58_a7a.png"></a>В Сахалинской области беспилотник впервые выполнил доставку медицинских грузов не в тестовом, а в реальном режиме, <a href="https://max.ru/limarenko_official/AZ-RwhYzNQE" rel="noopener noreferrer" target="_blank">сообщает</a> пресс-служба правительства региона. <p class="titl"><a href="https://rg.ru/2026/07/24/reg-dfo/na-sahaline-bespilotnik-vpervye-vypolnil-realnuiu-dostavku-medicinskih-gruzov.html">На Сахалине беспилотник впервые доставил медикаменты</a></p></div>
+</div><!--n:Российская газета/На Сахалине беспилотник впервые доставил медикаменты:s:9298058:e:968-->
+<!----><!--2026-07-23 21:27:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Страны-производители нефти ОПЕК+, скорее всего, согласуют дальнейшее повышение целевых показателей добычи с сентября на встрече 2 августа, сообщает Reuters. <p class="titl"><a href="https://rg.ru/2026/07/23/opek-gotovitsia-povysit-dobychu-nefti-s-sentiabria.html">ОПЕК+ готовится повысить добычу нефти с сентября</a></p></div>
+</div><!--n:Российская газета/ОПЕК готовится повысить добычу нефти с сентября:s:9299185:e:587-->
+<!----><!--2026-07-24 02:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Из-за ограничений на использование воздушного пространства в районе аэропорта Пулково возможны задержки рейсов. Об этом предупредила Росавиация. <p class="titl"><a href="https://rg.ru/2026/07/24/reg-szfo/rosaviaciia-v-pulkovo-vveli-ogranicheniia-vozmozhna-zaderzhka-rejsov.html">Росавиация: В Пулково ввели ограничения, возможны задержки рейсов</a></p></div>
+</div><!--n:Российская газета/Росавиация В Пулково ввели ограничения, возможны задержки рейсов:s:9299920:e:635-->
+<!----><!--2026-07-24 06:59:13-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6556792-vyshel-debyutnyj-tizer-tretego-sezona-seriala-persi-dzhekson-i-olimpijcy.html"><img src="https://img.championat.ru/news/big/x/z/vyshel-debyutnyj-tizer-tretego-sezona-seriala-persi-dzhekson-i-olimpijcy_17848655521936153916.jpg"></a>Amazon Prime Video поделилась дебютным тизером третьего сезона сериала «Перси Джексон и Олимпийцы». <p class="titl"><a href="https://www.championat.ru/cybersport/news-6556792-vyshel-debyutnyj-tizer-tretego-sezona-seriala-persi-dzhekson-i-olimpijcy.html">Вышел дебютный тизер третьего сезона сериала «Перси Джексон и Олимпийцы»</a></p></div>
+</div><!--n:Чемпионат/Вышел дебютный тизер третьего сезона сериала Перси Джексон и Олимпийцы:s:9300735:e:857-->
+<!----><!--2026-07-24 06:46:16-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6556788-poyavilis-novye-kadry-seriala-kerri-po-stivenu-kingu.html"><img src="https://img.championat.ru/news/big/n/o/poyavilis-novye-kadry-seriala-kerri-po-stivenu-kingu_1784864774529710211.jpg"></a>Entertainment Weekly опубликовало несколько свежих кадров сериала «Кэрри» по Стивену Кингу. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6556788-poyavilis-novye-kadry-seriala-kerri-po-stivenu-kingu.html">Появились новые кадры сериала «Кэрри» по Стивену Кингу</a></p></div>
+</div><!--n:Чемпионат/Появились новые кадры сериала Кэрри по Стивену Кингу:s:9301768:e:745-->
+<!----><!--2026-07-24 06:19:20-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp">24 июля состоится матч 1-го тура РПЛ ЦСКА — «Балтика». <p class="titl"><a href="https://www.championat.ru/bets/news-6556782-nazvany-shansy-cska-pobedit-baltiku-v-pervom-matche-sezona-rpl.html">Названы шансы ЦСКА победить «Балтику» в первом матче сезона РПЛ</a></p></div>
+</div><!--n:Чемпионат/Названы шансы ЦСКА победить Балтику в первом матче сезона РПЛ:s:9302655:e:459-->
+<!----><!--2026-07-24 06:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6536662-gastroenterolog-nazval-luchshie-produkty-dlya-zdorovya-pecheni.html"><img src="https://img.championat.ru/news/big/q/o/luchshie-produkty-dlya-zdorovya-pecheni_17835005541475435411.jpg"></a>Печень — главный фильтр организма, который ежедневно перерабатывает токсины, лекарства и продукты обмена. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6536662-gastroenterolog-nazval-luchshie-produkty-dlya-zdorovya-pecheni.html">Гастроэнтеролог назвал лучшие продукты для здоровья печени</a></p></div>
+</div><!--n:Чемпионат/Гастроэнтеролог назвал лучшие продукты для здоровья печени:s:9303272:e:804-->
+<!----><!--2026-07-24 06:12:57-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6556778-nejmar-zayavil-chto-igra-v-poker-ne-pomeshaet-emu-prodolzhat-futbolnuyu-kareru.html"><img src="https://img.championat.ru/news/big/e/p/nejmar-zayavil-chto-igra-v-poker-ne-pomeshaet-emu-prodolzhat-futbolnuyu-kareru_17848627761958859403.jpg"></a>Форвард «Сантоса» Неймар заявил, что карточные игры не мешают ему продолжать футбольную карьеру. <p class="titl"><a href="https://www.championat.ru/football/news-6556778-nejmar-zayavil-chto-igra-v-poker-ne-pomeshaet-emu-prodolzhat-futbolnuyu-kareru.html">Неймар заявил, что игра в покер не помешает ему продолжать футбольную карьеру</a></p></div>
+</div><!--n:Чемпионат/Неймар заявил, что игра в покер не помешает ему продолжать футбольную карьеру:s:9304231:e:887-->
+<!----><!--2026-07-24 06:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6556780-ya-dumayu-eto-komanda-pobeditelej-novichok-gorozhan-anderson-o-manchester-siti.html"><img src="https://img.championat.ru/news/big/c/w/ya-dumayu-eto-komanda-pobeditelej-novichok-gorozhan-anderson-o-manchester-siti_17848633071427539682.jpg"></a>Новичок «Манчестер Сити» полузащитник Эллиот Андерсон поделился мнением о своём новом клубе. <p class="titl"><a href="https://www.championat.ru/football/news-6556780-ya-dumayu-eto-komanda-pobeditelej-novichok-gorozhan-anderson-o-manchester-siti.html">«Я думаю, это команда победителей». Новичок «горожан» Андерсон — о «Манчестер Сити»</a></p></div>
+</div><!--n:Чемпионат/Я думаю, это команда победителей . Новичок горожан Андерсон о Манчестер Сити:s:9305305:e:893-->
+<!----><!--2026-07-24 06:43:33-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6556786-lineker-i-eschyo-119-millionerov-poprosili-pravitelstvo-povysit-nalogi-est-nyuans.html"><img src="https://img.championat.ru/news/big/d/w/lineker-i-eschyo-119-millionerov-poprosili-pravitelstvo-povysit-nalogi-est-nyuans_17848678791321823936.jpg"></a>Бывший футболист сборной Англии Гари Линекер присоединился к кампании, направленной на повышение налогообложения для миллионеров в Великобритании. <p class="titl"><a href="https://www.championat.ru/football/news-6556786-lineker-i-eschyo-119-millionerov-poprosili-pravitelstvo-povysit-nalogi-est-nyuans.html">Линекер и ещё 119 миллионеров попросили правительство повысить налоги. Есть нюанс</a></p></div>
+</div><!--n:Чемпионат/Линекер и ещё 119 миллионеров попросили правительство повысить налоги. Есть нюанс:s:9306382:e:998-->
+<!----><!--2026-07-24 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6556652-vrach-rasskazala-mozhet-li-vozniknut-allergiya-na-kondicioner.html"><img src="https://img.championat.ru/news/big/t/y/vyzyvaet-li-allergiyu-kondicioner_1784838423844929834.jpg"></a>Врач клинической лабораторной диагностики Карина Киняшева рассказала в рубрике «Теперь вы знаете», может ли возникнуть аллергия на кондиционер. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6556652-vrach-rasskazala-mozhet-li-vozniknut-allergiya-na-kondicioner.html">Врач рассказала, может ли возникнуть аллергия на кондиционер</a></p></div>
+</div><!--n:Чемпионат/Врач рассказала, может ли возникнуть аллергия на кондиционер:s:9307573:e:868-->
+<!----><!--2026-07-24 07:25:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/figureskating/news-6556790-dumaem-v-etom-napravlenii-averbuh-o-priglashenii-inostrancev-na-lednikovyj-period.html"><img src="https://img.championat.ru/news/big/q/a/dumaem-v-etom-napravlenii-av.jpg"></a>Серебряный призёр Олимпиады по фигурному катанию в танцах на льду, хореограф Илья Авербух высказался о возможности выхода нового сезона шоу «Ледниковый период» и приглашения туда зарубежных звёзд. <p class="titl"><a href="https://www.championat.ru/figureskating/news-6556790-dumaem-v-etom-napravlenii-averbuh-o-priglashenii-inostrancev-na-lednikovyj-period.html">«Думаем в этом направлении». Авербух — о приглашении иностранцев на «Ледниковый период»</a></p></div>
+</div><!--n:Чемпионат/Думаем в этом направлении . Авербух о приглашении иностранцев на Ледниковый период:s:9308598:e:1039-->
+<!----><!--2026-07-24 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6556796-startovali-syomki-boevika-tajler-rejk-operaciya-po-spaseniyu-3-s-krisom-hemsvortom.html"><img src="https://img.championat.ru/news/big/c/d/startovali-syomki-boevika-tajler-rejk-operaciya-po-spaseniyu-3-s-krisom-hemsvortom_17848667831237561600.jpg"></a>Режиссёр боевика «Тайлер Рейк: Операция по спасению 3» Сэм Харгрейв, снявший первые две картины, объявил о старте съёмок третьей ленты. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6556796-startovali-syomki-boevika-tajler-rejk-operaciya-po-spaseniyu-3-s-krisom-hemsvortom.html">Стартовали съёмки боевика «Тайлер Рейк: Операция по спасению 3» с Крисом Хемсвортом</a></p></div>
+</div><!--n:Чемпионат/Стартовали съёмки боевика Тайлер Рейк Операция по спасению 3 с Крисом Хемсвортом:s:9309835:e:982-->
+<!----><h2 class="hspace">Наука на Пт 24 июл 2026 20:00</h2><!--2026-07-24 10:57:36-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">10:57</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/24/arkheologi-perevernuli-predstavlenie-o-rodine-shelka.html">Археологи перевернули представление о родине шелка</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">06:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/24/kitay-zapuskaet-raketu-kotoraya-mozhet-izmenit-nashe-ponimanie-kosmosa.html">Китай запускает ракету, которая может изменить наше понимание космоса</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:02</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/24/zemlyu-nakryla-vtoraya-za-mesyac-magnitnaya-burya.html">Землю накрыла вторая за месяц магнитная буря</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:46</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/v-niderlandakh-u-detey-zafiksirovali-rezkiy-vsplesk-kozhnoy-infekcii.html">В Нидерландах у детей зафиксировали резкий всплеск кожной инфекции</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:02</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/v-ssha-uspeshno-ispytali-na-myshakh-vakcinu-ot-legochnoy-chumy.html">В США успешно испытали на мышах вакцину от легочной чумы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:50</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/chelovekopodobnye-roboty-vpervye-proveli-operacii-na-zhivykh-sushhestvakh.html">Человекоподобные роботы впервые провели операции на живых существах</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:46</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/uchenye-nazvali-maksimalnyy-predel-chelovecheskoy-zhizni.html">Ученые назвали максимальный предел человеческой жизни</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:47</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/uchyonye-svyazali-zagryaznenie-vozdukha-s-uvelicheniem-riskom-bolezni-parkinsona.html">Учёные связали загрязнение воздуха с увеличением риском болезни Паркинсона</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:46</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/23/uchenye-obnaruzhili-chto-kashaloty-delayut-kogda-poblizosti-nakhodyatsya-lodki.html">Ученые обнаружили, что кашалоты делают, когда поблизости находятся лодки</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:41</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/22/uchenye-nashli-variacii-genoma-svyazannye-s-razvitiem-opasnogo-narusheniya-psikhiki.html">Ученые нашли вариации генома, связанные с развитием опасного нарушения психики</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260724 2000:s:9311010:e:3769-->
+<!----><h2 class="hspace">Спорт на Пт 24 июл 2026 22:00</h2><!--2026-07-24 18:53:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117311637-patrik-kejn-eto-zamechatelnaya-istoriya-snova-stat-igrokom-blekxoks-ch.html">Патрик Кэйн: «Это замечательная история – снова стать игроком «Блэкхокс», Чикаго – мой дом. Но самое важное было – прийти в команду, в которую я смогу хорошо вписаться»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/athletics/1117311648-begunya-madysheva-o-seksualizaczii-sportsmenok-byvayut-slishkom-otkrov.html">Бегунья Мадышева о сексуализации спортсменок: «Бывают слишком откровенные планы и фотографии. Грустно, если часть мужчин включает легкую атлетику только ради этого»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:49</span> <a class="nodecor" href="https://www.sports.ru/football/1117311644-offor-zabil-samyj-rannij-1-j-gol-sezona-v-rpl-forvard-baltiki-s-golom-.html">Оффор забил самый ранний 1-й гол сезона в РПЛ. Форвард «Балтики» с голом ЦСКА на 35-й секунде побил рекорд Шуленина в сезоне–2013/14 – 67 секунд</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:44</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117311647-riki-lindo-iz-burka-pereshel-v-ritas.html">Рики Линдо из «Бурка» перешел в «Ритас»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:43</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117310795-eshtoril-atp-2026-rezultaty-1-4-finala.html">Эшторил (ATP). Дардери играет с Фариа, Блокс, Гастон вышли в 1/2 финала, Рублев выбыл</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:43</span> <a class="nodecor" href="https://www.sports.ru/football/1117311638-sonders-pro-21-assist-brunu-v-apl-ne-ponimayu-etoj-istorii-tvoya-stati.html">Сондерс про ценность 21 ассиста Бруну в АПЛ: «Не понимаю этой истории. Ассисты зависят от партнеров. Подаешь Фаулеру – он забивает, а иногда играешь с Нуньесом, который промахивается отовсюду»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:33</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117311623-kolambus-dogovorilis-o-kontrakte-s-sillindzherom-na-3-goda-izbezhav-ar.html">«Коламбус» договорился о контракте с Силлинджером на 3 года, избежав арбитража. Кэпхит – 4,625 млн долларов (Эллиотт Фридман)</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:25</span> <a class="nodecor" href="https://www.sports.ru/football/1117311621-yuventus-xochet-podpisat-vratarya-parmy-i-sbornoj-yaponii-sudzuki.html">«Ювентус» работает над трансфером вратаря «Пармы» и сборной Японии Судзуки. В сделку могут включить одного из игроков «бьянконери»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:24</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117311608-gendirektor-sibiri-ob-andreoffe-predlozhil-ego-agentu-umenshenie-kontr.html">Гендиректор «Сибири» об Андреоффе: «Предложил его агенту уменьшение контракта, потому что мы были не совсем довольны его игрой»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:21</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117311622-real-soxranil-eli-ndiaje-povtoriv-predlozhenie-valensii.html">«Реал» сохранил Эли Ндиайе, повторив предложение «Валенсии»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260724 2200:s:9314859:e:4817-->
+<!----><h2 class="hspace">В мире на Сб 25 июл 2026 06:00</h2><!--2026-07-25 05:54:41-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:54</span> <a class="nodecor" href="https://news.rambler.ru/world/56807643-tramp-opredelilsya-s-preemnikom-na-prezidentskih-vyborah/">Трамп определился с преемником на президентских выборах</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:41</span> <a class="nodecor" href="https://news.rambler.ru/world/56809802-tramp-zayavil-chto-gotov-vyslushat-predstaviteley-irana/">Трамп заявил, что готов выслушать представителей Ирана</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:15</span> <a class="nodecor" href="https://news.rambler.ru/world/56809777-van-i-knr-i-rossiya-dolzhny-ukreplyat-vzaimodeystvie-na-mnogostoronnih-ploschadkah/">Ван И: КНР и Россия должны укреплять взаимодействие на многосторонних площадках</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:15</span> <a class="nodecor" href="https://news.rambler.ru/world/56809776-azarov-zayavil-ob-ignorirovanii-evropoy-usileniya-natsifikatsii-ukrainy/">Азаров заявил об игнорировании Европой усиления нацификации Украины</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:48</span> <a class="nodecor" href="https://news.rambler.ru/world/56809742-yougov-70-zhiteley-germanii-somnevayutsya-v-svoih-vs/">YouGov: 70% жителей Германии сомневаются в своих ВС</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:28</span> <a class="nodecor" href="https://news.rambler.ru/world/56809735-pekin-podderzhit-posrednichestvo-pakistana-mezhdu-ssha-i-iranom/">Пекин поддержит посредничество Пакистана между США и Ираном</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:14</span> <a class="nodecor" href="https://news.rambler.ru/world/56809694-vo-frantsii-mogut-privlech-armiyu-k-tusheniyu-lesnyh-pozharov/">Во Франции могут привлечь армию к тушению лесных пожаров</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:52</span> <a class="nodecor" href="https://news.rambler.ru/world/56809677-raskryta-reaktsiya-trampa-na-podarok-putina/">Раскрыта реакция Трампа на подарок Путина</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:14</span> <a class="nodecor" href="https://news.rambler.ru/world/56809654-genassambleya-oon-pereutverdila-tyurka-vopreki-protestam-rossii-i-ssha/">Генассамблея ООН переутвердила Тюрка вопреки протестам России и США</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:49</span> <a class="nodecor" href="https://news.rambler.ru/world/56809622-bloomberg-v-ssha-voznikli-trudnosti-vokrug-finansirovaniya-operatsii-protiv-irana/">Bloomberg: в США возникли трудности вокруг финансирования операции против Ирана</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260725 0600:s:9319727:e:3648-->
+<!----><!--2026-07-24 19:49:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/v-rst-iskliuchili-rost-poezdok-v-chernogoriiu-na-fone-planov-otmenit-bezviz.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/ria_8850518hr_aa4_782.jpg"></a>Ажиотажного спроса на поездки в Черногорию в преддверии отмены безвиза среди россиян не будет. Об этом заявил руководитель пресс-службы Российского союза туриндустрии (РСТ) Артур Абдюханов, пишет <a href="https://ria.ru" rel="noopener noreferrer" target="_blank">РИА Новости</a>. <p class="titl"><a href="https://rg.ru/2026/07/24/v-rst-iskliuchili-rost-poezdok-v-chernogoriiu-na-fone-planov-otmenit-bezviz.html">В РСТ исключили рост поездок в Черногорию на фоне планов отменить безвиз</a></p></div>
+</div><!--n:Российская газета/В РСТ исключили рост поездок в Черногорию на фоне планов отменить безвиз:s:9323428:e:1037-->
+<!----><!--2026-07-24 23:01:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/politolog-bovt-o-tom-kakim-stanet-rynok-kriptovaliuty-v-rossii.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/bovt_b07-1_3f6_584.jpg"></a>Госдума <a href="https://rg.ru/2026/07/21/gosduma-priniala-zakon-o-regulirovanii-kriptovaliut-v-rf.html" rel="noopener noreferrer" target="_blank">приняла</a> закон "О цифровых валютах и цифровых правах". Он впервые отрегулирует крипторынок. Основная часть норм вступит в силу 1 сентября 2026 года, а требование совершать сделки только через лицензированных посредников из реестра ЦБ - с 1 июля 2027-го. <p class="titl"><a href="https://rg.ru/2026/07/24/politolog-bovt-o-tom-kakim-stanet-rynok-kriptovaliuty-v-rossii.html">Политолог Бовт - о том, каким станет рынок криптовалюты в России</a></p></div>
+</div><!--n:Российская газета/Политолог Бовт - о том, каким станет рынок криптовалюты в России:s:9324659:e:1144-->
+<!----><!--2026-07-24 19:26:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/nazvany-samye-vysokooplachivaemye-specialisty-v-finansovoj-sfere.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/ria_8490804hr_634_176.jpg"></a>Число вакансий в финансовой сфере снизилось сильнее, чем в среднем по рынку, но зарплатные предложения все еще растут быстрее инфляции. Об этом говорится в обзоре сервиса SuperJob, с которым ознакомилась "Российская газета". <p class="titl"><a href="https://rg.ru/2026/07/24/nazvany-samye-vysokooplachivaemye-specialisty-v-finansovoj-sfere.html">Названы самые высокооплачиваемые специалисты в финансовой сфере</a></p></div>
+</div><!--n:Российская газета/Названы самые высокооплачиваемые специалисты в финансовой сфере:s:9325980:e:950-->
+<!----><!--2026-07-24 20:57:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/eksperty-rg-o-tom-kak-snizhenie-stavki-otrazitsia-na-vkladah-i-kreditah.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/ria_5616717hr_370_2f6.jpg"></a>Банк России принял осторожное и вместе с тем неожиданное для рынка решение, <a href="https://rg.ru/2026/07/24/bank-rossii-snizil-kliuchevuiu-stavku-s-1425-do-14.html" rel="noopener noreferrer" target="_blank">снизив</a> ключевую ставку с 14,25% до 14%. Как оно повлияет на ставки по кредитам и вкладам, будут ли банки пересматривать условия своих продуктов, рассказали опрошенные "Российской газетой" эксперты. <p class="titl"><a href="https://rg.ru/2026/07/24/eksperty-rg-o-tom-kak-snizhenie-stavki-otrazitsia-na-vkladah-i-kreditah.html">Эксперты &quot;РГ&quot; - о том, как снижение ставки ЦБ отразится на вкладах и кредитах</a></p></div>
+</div><!--n:Российская газета/Эксперты quot РГ quot - о том, как снижение ставки ЦБ отразится на вкладах и кредитах:s:9327110:e:1217-->
+<!----><!--2026-07-24 23:52:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/chto-budet-s-rublem-neftiu-i-birzhej-na-nedele-s-27-iiulia-po-2-avgusta.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/ria_8199732hr_b3e_2d9.jpg"></a>Финансовые аналитики прогнозируют, что будет с фондовым рынком, курсом рубля и стоимостью нефти на следующей неделе с 27 июля по 2 августа 2026 года. <p class="titl"><a href="https://rg.ru/2026/07/24/chto-budet-s-rublem-neftiu-i-birzhej-na-nedele-s-27-iiulia-po-2-avgusta.html">Что будет с рублем, нефтью и биржей на неделе с 27 июля по 2 августа</a></p></div>
+</div><!--n:Российская газета/Что будет с рублем, нефтью и биржей на неделе с 27 июля по 2 августа:s:9328533:e:825-->
+<!----><!--2026-07-24 19:15:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/24/o-chem-govorila-nabiullina-posle-vnezapnogo-snizheniia-kliuchevoj-stavki.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/ria_9211161hr-1_29a.jpg"></a>Банк России <a href="https://rg.ru/2026/07/24/bank-rossii-snizil-kliuchevuiu-stavku-s-1425-do-14.html" rel="noopener noreferrer" target="_blank">снизил</a> ключевую ставку с 14,25 до 14% вопреки прогнозам аналитиков, которые ожидали сохранения прежнего показателя. Чем аргументировано это решение, как изменились прогнозы регулятора и как ситуация на топливном рынке влияет на инфляцию и инфляционные ожидания, рассказала глава ЦБ Эльвира Набиуллина на пресс-конференция по итогам заседания совета директоров. <p class="titl"><a href="https://rg.ru/2026/07/24/o-chem-govorila-nabiullina-posle-vnezapnogo-snizheniia-kliuchevoj-stavki.html">О чем говорила Набиуллина после внезапного снижения ключевой ставки</a></p></div>
+</div><!--n:Российская газета/О чем говорила Набиуллина после внезапного снижения ключевой ставки:s:9329536:e:1387-->
+<!----><!--2026-07-25 00:01:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/post/irkutsk-top-20-dostoprimechatelnostej.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/ria_1212223hr_942.jpg"></a>Топ-20 достопримечательностей Иркутска: что посмотреть, куда сходить, маршруты на 1-3 дня, где поесть и где остановиться. <p class="titl"><a href="https://rg.ru/post/irkutsk-top-20-dostoprimechatelnostej.html">Иркутск: топ-20 достопримечательностей</a></p></div>
+</div><!--n:Российская газета/Иркутск топ-20 достопримечательностей:s:9331110:e:644-->
+<!----><!--2026-07-25 07:15:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">В мае этого года Соединенные Штаты увеличили закупки российского мороженого более чем в 15 раз - до 62,4 тысячи долларов. <p class="titl"><a href="https://rg.ru/2026/07/25/ssha-narastili-zakupki-morozhenogo-iz-rossii-v-15-raz.html">США нарастили закупки мороженого из России в 15 раз</a></p></div>
+</div><!--n:Российская газета/США нарастили закупки мороженого из России в 15 раз:s:9331883:e:528-->
+<!----><!--2026-07-24 22:29:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Ожидаемый период накопительной пенсии в 2027 году предлагается оставить прежним. Проект федерального закона об этом, разработанный Минтрудом, <a href="https://regulation.gov.ru/projects/169604/" rel="noopener noreferrer" target="_blank">проходит</a> общественное обсуждение. <p class="titl"><a href="https://rg.ru/2026/07/24/ozhidaemyj-period-vyplaty-nakopitelnoj-pensii-v-2027-godu-hotiat-ostavit-prezhnim.html">Ожидаемый период выплаты накопительной пенсии в 2027 году хотят оставить прежним</a></p></div>
+</div><!--n:Российская газета/Ожидаемый период выплаты накопительной пенсии в 2027 году хотят оставить прежним:s:9332563:e:817-->
+<!----><!--2026-07-25 03:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/25/rieltor-manianova-nazvala-vygodnye-sposoby-kupit-kvartiru-v-2026-godu.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/24/596294ae67b7fd01637221101jpg_4f8.jpg"></a>Чтобы сегодня выгодно купить квартиру, нужно выбирать не минимальную цену, а максимально эффективную финансовую стратегию, рассказала "РГ" риелтор, владелец агентства недвижимости Madary и "Школы недвижимости" Марина Маньянова. <p class="titl"><a href="https://rg.ru/2026/07/25/rieltor-manianova-nazvala-vygodnye-sposoby-kupit-kvartiru-v-2026-godu.html">Риелтор Маньянова назвала выгодные способы купить квартиру в 2026 году</a></p></div>
+</div><!--n:Российская газета/Риелтор Маньянова назвала выгодные способы купить квартиру в 2026 году:s:9333586:e:989-->
+<!----><!--2026-07-25 07:24:52-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6558004-dani-alves-rasskazal-sekrety-raboty-gvardioly-v-barselone-trener-vyigral-14-trofeev.html"><img src="https://img.championat.ru/news/big/m/v/dani-alves-rasskazal-sekrety-raboty-gvardioly-v-barselone-trener-vyigral-14-trofeev_17849534901444410384.jpg"></a>Бывший защитник «Барселоны» Дани Алвес рассказал, чему его научил главный тренер команды Хосеп Гвардиола во время их совместной работы в каталонском клубе. <p class="titl"><a href="https://www.championat.ru/football/news-6558004-dani-alves-rasskazal-sekrety-raboty-gvardioly-v-barselone-trener-vyigral-14-trofeev.html">Дани Алвес рассказал секреты работы Гвардиолы в «Барселоне». Тренер выиграл 14 трофеев</a></p></div>
+</div><!--n:Чемпионат/Дани Алвес рассказал секреты работы Гвардиолы в Барселоне . Тренер выиграл 14 трофеев:s:9334762:e:1027-->
+<!----><!--2026-07-25 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/auto/news-6555160-formula-1-gran-pri-vengrii-2026-tretya-praktika-onlajn-translyaciya.html"><img src="https://img.championat.ru/news/big/n/e/formula-1-gran-pri-vengrii-2026-tretya-praktika-onlajn-translyaciya_17847311181647654459.jpg"></a>Сегодня, 25 июля, в Модьороде на трассе «Хунгароринг» пройдёт третья свободная практика 11-го этапа сезона-2026 Формулы-1 — Гран-при Венгрии. <p class="titl"><a href="https://www.championat.ru/auto/news-6555160-formula-1-gran-pri-vengrii-2026-tretya-praktika-onlajn-translyaciya.html">Формула-1, Гран-при Венгрии — 2026: третья практика, онлайн-трансляция</a></p></div>
+</div><!--n:Чемпионат/Формула-1, Гран-при Венгрии 2026 третья практика, онлайн-трансляция:s:9335990:e:898-->
+<!----><!--2026-07-25 07:45:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/boxing/news-6557960-tim-czyu-errol-spens-vo-skolko-nachalo-boya-gde-smotret-pryamuyu-translyaciyu.html"><img src="https://img.championat.ru/news/big/g/b/tim-czyu-errol-spens-vo-skolko-nachalo-boya-gde-smotret-pryamuyu-translyaciyu_17849469291591996961.jpg"></a>26 июля в Сиднее (Австралия) состоится вечер профессионального бокса, в главном бою которого бывший объединённый чемпион мира в полусреднем весе (до 66,7 кг) американец Эррол Спенс-младший сразится с австралийцем Тимом Цзю. <p class="titl"><a href="https://www.championat.ru/boxing/news-6557960-tim-czyu-errol-spens-vo-skolko-nachalo-boya-gde-smotret-pryamuyu-translyaciyu.html">Тим Цзю — Эррол Спенс: во сколько начало боя, где смотреть прямую трансляцию</a></p></div>
+</div><!--n:Чемпионат/Тим Цзю Эррол Спенс во сколько начало боя, где смотреть прямую трансляцию:s:9337051:e:1102-->
+<!----><!--2026-07-25 07:30:05-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/boxing/news-6557988-boec-ufc-tuchalov-schitayu-chto-perejra-ne-sopernik-ankalaevu.html"><img src="https://img.championat.ru/news/big/e/c/boec-ufc-tuchalov-schitayu-chto-perejra-ne-sopernik-ankalaevu_17849506271720721010.jpg"></a>Российский боец UFC Магомед Тучалов высказался о соотечественнике Магомеде Анкалаеве перед турниром UFC Fight Night 282 в Абу-Даби. <p class="titl"><a href="https://www.championat.ru/boxing/news-6557988-boec-ufc-tuchalov-schitayu-chto-perejra-ne-sopernik-ankalaevu.html">Боец UFC Тучалов: считаю, что Перейра — не соперник Анкалаеву</a></p></div>
+</div><!--n:Чемпионат/Боец UFC Тучалов считаю, что Перейра не соперник Анкалаеву:s:9338333:e:845-->
+<!----><!--2026-07-25 07:15:05-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/boxing/news-6557956-tim-czyu-errol-spens-kogda-boj-data-i-vremya-boya-gde-smotret.html"><img src="https://img.championat.ru/news/big/q/o/tim-czyu-errol-spens-gde-smotret-boj-na-kakom-kanale_1784945740656449507.jpg"></a>26 июля в Сиднее (Австралия) состоится вечер профессионального бокса, в главном бою которого бывший объединённый чемпион мира в полусреднем весе (до 66,7 кг) американец Эррол Спенс-младший сразится с австралийцем Тимом Цзю. <p class="titl"><a href="https://www.championat.ru/boxing/news-6557956-tim-czyu-errol-spens-kogda-boj-data-i-vremya-boya-gde-smotret.html">Тим Цзю — Эррол Спенс: где смотреть бой, на каком канале</a></p></div>
+</div><!--n:Чемпионат/Тим Цзю Эррол Спенс где смотреть бой, на каком канале:s:9339327:e:1006-->
+<!----><!--2026-07-25 07:52:14-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6558008-agbonlahor-zayavil-chto-zolotoj-myach-2026-dolzhen-poluchit-hvicha-kvaracheliya.html"><img src="https://img.championat.ru/news/big/r/q/agbonlahor-zayavil-chto-zolotoj-myach-2026-dolzhen-poluchit-hvicha-kvaracheliya_17849554521908965645.jpg"></a>Бывший нападающий «Астон Виллы» Гэбриэл Агбонлахор считает, что вингер «ПСЖ» Хвича Кварацхелия заслуживает выиграть «Золотой мяч» по итогам прошедшего сезона. <p class="titl"><a href="https://www.championat.ru/football/news-6558008-agbonlahor-zayavil-chto-zolotoj-myach-2026-dolzhen-poluchit-hvicha-kvaracheliya.html">Агбонлахор заявил, что «Золотой мяч» — 2026 должен получить Хвича Кварацхелия</a></p></div>
+</div><!--n:Чемпионат/Агбонлахор заявил, что Золотой мяч 2026 должен получить Хвича Кварацхелия:s:9340475:e:1005-->
+<!----><!--2026-07-25 07:51:43-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6558010-ilya-zabarnyj-mozhet-pokinut-pszh-i-perejti-v-liverpul.html"><img src="https://img.championat.ru/news/big/n/b/ilya-zabarnyj-mozhet-pokinut-pszh-i-perejti-v-liverpul_17849554131147647084.jpg"></a>Центральный защитник сборной Украины и «ПСЖ» Илья Забарный попал в сферу интересов английского клуба. <p class="titl"><a href="https://www.championat.ru/football/news-6558010-ilya-zabarnyj-mozhet-pokinut-pszh-i-perejti-v-liverpul.html">Илья Забарный может покинуть «ПСЖ» и перейти в «Ливерпуль»</a></p></div>
+</div><!--n:Чемпионат/Илья Забарный может покинуть ПСЖ и перейти в Ливерпуль:s:9341658:e:791-->
+<!----><!--2026-07-25 07:30:05-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/boxing/news-6557964-magomed-ankalaev-bogdan-guskov-kogda-boj-data-i-vremya-boya-gde-smotret.html"><img src="https://img.championat.ru/news/big/l/g/magomed-ankalaev-bogdan-guskov-gde-smotret-boj-na-kakom-kanale_17849474881490642073.jpg"></a>В субботу, 25 июля, в Абу-Даби на «Этихад Арене» состоится турнир UFC Fight Night 282. <p class="titl"><a href="https://www.championat.ru/boxing/news-6557964-magomed-ankalaev-bogdan-guskov-kogda-boj-data-i-vremya-boya-gde-smotret.html">Магомед Анкалаев — Богдан Гуськов: где смотреть бой, на каком канале</a></p></div>
+</div><!--n:Чемпионат/Магомед Анкалаев Богдан Гуськов где смотреть бой, на каком канале:s:9342594:e:794-->
+<!----><!--2026-07-25 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6546906-vrach-razveyal-mif-o-pogolovnom-gastrite-u-rossiyan.html"><img src="https://img.championat.ru/news/big/s/y/vrach-razveyal-mif-o-pogolovnom-gastrite-u-rossiyan_17841877321556158051.jpg"></a>Распространённое убеждение, что гастрит есть практически у всех, не соответствует действительности. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6546906-vrach-razveyal-mif-o-pogolovnom-gastrite-u-rossiyan.html">Врач развеял миф о «поголовном» гастрите у россиян</a></p></div>
+</div><!--n:Чемпионат/Врач развеял миф о поголовном гастрите у россиян:s:9343553:e:766-->
+<!----><!--2026-07-25 07:45:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp">25 июля состоится матч 1-го тура чемпионата России по футболу «Факел» — «Динамо» Махачкала. <p class="titl"><a href="https://www.championat.ru/bets/news-6557974-fakel-dinamo-mahachkala-opredelyon-favorit-matcha-v-voronezhe.html">«Факел» — «Динамо» Махачкала: определён фаворит матча в Воронеже</a></p></div>
+</div><!--n:Чемпионат/Факел Динамо Махачкала определён фаворит матча в Воронеже:s:9344453:e:531-->
+<!----><h2 class="hspace">Наука на Сб 25 июл 2026 20:00</h2><!--2026-07-25 18:42:19-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:42</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/uchenye-ozvuchili-vozmozhnye-posledstviya-usileniya-potoka-samogo-bolshogo-vodopada-v-mire.html">Ученые озвучили возможные последствия усиления потока самого большого водопада в мире</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:59</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/stalo-izvestno-chem-mozhet-grozit-chastoe-upotreblenie-sladkikh-napitkov.html">Стало известно, чем может грозить частое употребление сладких напитков</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:49</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/uchyonye-vyyasnili-kak-poyavlyaetsya-roditelskaya-lyubov-u-materey.html">Учёные выяснили, как появляется родительская любовь у матерей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:43</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/odin-asteroid-800-mln-let-nazad-izmenil-zemlyu-lunu-i-mars.html">Один астероид 800 млн лет назад изменил Землю, Луну и Марс</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:35</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/uchyonye-pridumali-neobychnoe-primenenie-bespilotnikam-v-selkhoze.html">Учёные придумали необычное применение беспилотникам в сельхозе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:34</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/astronomy-zamerli-chast-rakety-ilona-maska-vrezhetsya-v-lunu.html">Астрономы замерли: часть ракеты Илона Маска врежется в Луну</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:07</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/uchyonye-vpervye-smogli-uznat-semeystvo-sushhestv-iz-marianskoy-vpadiny.html">Учёные впервые смогли узнать семейство существ из Марианской впадины</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/nad-rossiey-zanimaetsya-vtoroy-rassvet-gruppirovka-sputnikov-svyazi-poluchila-popolnenie.html">Над Россией занимается второй «Рассвет»: группировка спутников связи получила пополнение</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:33</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/nakhodka-monety-vozrastom-2000-let-otkryla-neozhidannye-perspektivy-dlya-izucheniya-istorii.html">Находка монеты возрастом 2000 лет открыла неожиданные перспективы для изучения истории</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:27</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/25/budushhee-issledovaniy-v-oblasti-pitaniya-uvyazali-s-kanalizaciey.html">Будущее исследований в области питания увязали с канализацией</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260725 2000:s:9345136:e:3944-->
+<!----><h2 class="hspace">Спорт на Сб 25 июл 2026 22:00</h2><!--2026-07-25 18:55:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/boxing/1117307131-ufc-v-abu-dabi-ankalaev-protiv-guskova-izagaxmaev-vagaev-i-drugie-boi.html">UFC в Абу-Даби: Анкалаев победил Гуськова, Куниев нокаутировал Форчуна, Изагахмаев проиграл Вагаеву и другие результаты</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/boxing/1117312733-ankalaev-guskov-rezultat-boya.html">Магомед Анкалаев победил Богдана Гуськова техническим нокаутом в пятом раунде</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117312977-fernando-alonso-ne-xvatalo-etix-oshhushhenij-na-predydushhix-etapax-vs.html">Фернандо Алонсо: «Не хватало этих ощущений – на предыдущих этапах всегда стартовали с последнего ряда, что бы ни делали с машиной»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/football/1117312959-inter-dogovorilsya-s-bissekom-o-novom-kontrakte-do-2031-goda-fabriczio.html">«Интер» и Биссек договорились о новом контракте до 2031 года (Фабрицио Романо)</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117312961-yashkin-ob-igre-v-3-m-zvene-ak-barsa-eto-byli-trebovaniya-trenera-ya-g.html">Яшкин об игре в 3-м звене «Ак Барса»: «Это были требования тренера. Я где-то пошел на уступки ради команды. В целом провел неплохие 3 года в Казани, готов к новому этапу жизни»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/football/1117311976-mls-inter-majami-bez-messi-v-gostyax-u-monrealya-atlanta-miranchuka-pr.html">МЛС. «Интер Майами» без Месси в гостях у «Монреаля», «Атланта» Миранчука против «Нью-Инглэнд Революшн», «Канзас Сити» Шапи сыграет с «Лос-Анджелесом»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117312957-tim-kavakami-dzho-lejkob-xochet-nachat-stroit-sleduyushhuyu-posle-stef.html">Репортер Тим Каваками: «Джо Лэйкоб хочет начать строить следующую после Стефа Карри команду»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:43</span> <a class="nodecor" href="https://www.sports.ru/football/1117312958-infantino-v-pisme-glave-argentinskoj-federaczii-poblagodaril-sbornuyu-.html">Инфантино в письме главе аргентинской федерации поблагодарил сборную за ЧМ: «Великолепное выступление команды сыграло решающую роль в том, что этот турнир стал исключительным»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:38</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117312113-eshtoril-atp-2026-rezultaty-1-2-finala.html">Эшторил (ATP). 1/2 финала. Дардери играет с Блоксом, Гастон выбыл</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:36</span> <a class="nodecor" href="https://www.sports.ru/football/1117312946-zenit-povtoril-samuyu-krupnuyu-pobedu-v-istorii-dlya-1-go-tura-rpl.html">«Зенит» повторил крупнейшую победу в истории для 1-го тура РПЛ, обыграв «Акрон» – 5:0. «Спартак» забил пять «Крыльям» в 1992-м, «Алания» – КАМАЗу в 1997-м</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260725 2200:s:9349160:e:4787-->
+<!----><h2 class="hspace">В мире на Вс 26 июл 2026 06:00</h2><!--2026-07-26 04:53:33-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:53</span> <a class="nodecor" href="https://news.rambler.ru/world/56812867-v-britanii-raskryli-otnoshenie-grazhdan-k-konfliktu-na-ukraine/">В Британии раскрыли отношение граждан к конфликту на Украине</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:47</span> <a class="nodecor" href="https://news.rambler.ru/world/56812835-zayavlenie-premera-poverglo-yapontsev-v-shok/">Заявление премьера повергло японцев в шок</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:58</span> <a class="nodecor" href="https://news.rambler.ru/world/56812788-tramp-otlozhil-eskalatsiyu-konflikta-s-iranom-iz-za-nehvatki-boepripasov/">Трамп отложил эскалацию конфликта с Ираном из-за нехватки боеприпасов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:50</span> <a class="nodecor" href="https://news.rambler.ru/world/56812785-eks-posol-myurrey-britaniya-ne-otkazhetsya-ot-konfrontatsii-s-rf-v-skorom-vremeni/">Экс-посол Мюррей: Британия не откажется от конфронтации с РФ в скором времени</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:25</span> <a class="nodecor" href="https://news.rambler.ru/world/56812781-v-germanii-prizvali-vosstanovit-otnosheniya-s-rossiey/">В Германии призвали восстановить отношения с Россией</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:17</span> <a class="nodecor" href="https://news.rambler.ru/world/56812777-aragchi-v-razgovore-s-kallas-soobschil-ob-udare-ukrainy-po-sudnu-irana-na-kaspii/">Арагчи в разговоре с Каллас сообщил об ударе Украины по судну Ирана на Каспии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:08</span> <a class="nodecor" href="https://news.rambler.ru/world/56812699-mid-irana-vyzval-poverennogo-ukrainy-posle-ataki-na-sudno-v-kaspiyskom-more/">МИД Ирана вызвал поверенного Украины после атаки на судно в Каспийском море</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:42</span> <a class="nodecor" href="https://news.rambler.ru/world/56812687-pashinyan-zayavil-makronu-o-vazhnosti-rasshireniya-eksportnyh-vozmozhnostey-armenii/">Пашинян заявил Макрону о важности расширения экспортных возможностей Армении</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:23</span> <a class="nodecor" href="https://news.rambler.ru/world/56812576-deputat-rady-dubinskiy-protesty-na-ukraine-prohodyat-iz-za-peredela-vlasti/">Депутат Рады Дубинский: протесты на Украине проходят из-за передела власти</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">00:15</span> <a class="nodecor" href="https://news.rambler.ru/world/56812678-tramp-prizval-evropeyskih-soyuznikov-radovatsya-druzhbe-s-nim/">Трамп призвал европейских союзников радоваться дружбе с ним</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/260726 0600:s:9353998:e:3807-->
+<!----><!--2026-07-25 18:50:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/25/reg-skfo/v-dagestane-vosstanovili-soobshchenie-k-108-naselennym-punktam.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/25/dagestan_5ab.jpg"></a>В Дагестане продолжают устранять последствия сильных ливневых дождей, которые прошли в регионе в начале и середине июля. Об этом <a href="https://max.ru/mintransRD/AZ-ZrxWeSOs" rel="noopener noreferrer" target="_blank">сообщили</a> в минтрансе республики. <p class="titl"><a href="https://rg.ru/2026/07/25/reg-skfo/v-dagestane-vosstanovili-soobshchenie-k-108-naselennym-punktam.html">В Дагестане восстановили сообщение к 108 населенным пунктам</a></p></div>
+</div><!--n:Российская газета/В Дагестане восстановили сообщение к 108 населенным пунктам:s:9357858:e:932-->
+<!----><!--2026-07-25 19:42:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/25/iurist-sirotina-uvazhitelnyh-prichin-dlia-zaderzhek-zarplaty-u-rabotodatelia-net.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/06/10/istock-1377265365_f7f.jpg"></a>Уважительных причин для задержек зарплаты у работодателя нет, объяснила в беседе с "РГ" юрист Мария Сиротина. За опоздание с выплатой зарплаты начальник должен быть наказан. Если же задержка зарплаты составляет более 15 суток, работник вправе приостановить работу. Специально для "РГ" юрист разъяснила порядок действий при задержке зарплаты. <p class="titl"><a href="https://rg.ru/2026/07/25/iurist-sirotina-uvazhitelnyh-prichin-dlia-zaderzhek-zarplaty-u-rabotodatelia-net.html">Юрист Сиротина: Уважительных причин для задержек зарплаты у работодателя нет</a></p></div>
+</div><!--n:Российская газета/Юрист Сиротина Уважительных причин для задержек зарплаты у работодателя нет:s:9358958:e:1226-->
+<!----><!--2026-07-25 17:29:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">В Крыму, в городе-курорте Алуште, в связи с вражескими атаками и длительным отсутствием электроэнергии введен режим ЧС. Об этом сообщила глава администрации Галина Огнева. <p class="titl"><a href="https://rg.ru/2026/07/25/reg-ufo/v-alushte-iz-za-otsutstviia-elektroenergii-vveli-rezhim-chs.html">В Алуште из-за отсутствия электроэнергии ввели режим ЧС</a></p></div>
+</div><!--n:Российская газета/В Алуште из-за отсутствия электроэнергии ввели режим ЧС:s:9360386:e:651-->
+<!----><!--2026-07-26 07:13:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Количество регионов в России, где средний размер пенсионного обеспечения превышает 30 тысяч рублей, за год увеличилось с 9 до 12. <p class="titl"><a href="https://rg.ru/2026/07/26/reg-szfo/chislo-regionov-so-srednej-pensiej-vyshe-30-tysiach-rublej-vyroslo-do-12.html">Число регионов со средней пенсией выше 30 тысяч рублей выросло до 12</a></p></div>
+</div><!--n:Российская газета/Число регионов со средней пенсией выше 30 тысяч рублей выросло до 12:s:9361199:e:601-->
+<!----><!--2026-07-26 01:54:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">В Ростовской области задерживаются 27 пассажирских поездов. Информация об этом опубликована в Telegram-канале Северо-Кавказской железной дороги (СКЖД). <p class="titl"><a href="https://rg.ru/2026/07/26/reg-ufo/v-rostovskoj-oblasti-zaderzhivaiutsia-v-puti-27-passazhirskih-poezdov.html">В Ростовской области задерживаются 27 поездов из-за последствий непогоды</a></p></div>
+</div><!--n:Российская газета/В Ростовской области задерживаются 27 поездов из-за последствий непогоды:s:9361981:e:648-->
+<!----><!--2026-07-25 20:07:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/25/senator-shejkin-s-1-sentiabria-nachnetsia-poetapnoe-vnedrenie-cifrovogo-rublia.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/25/ria_8490794hr_2f5_4b9.jpg"></a>С 1 сентября в России начнется внедрение цифрового рубля, однако оно будет поэтапным, чтобы необходимая инфраструктура постепенно адаптировалась, а люди привыкли к новой форме национальной валюты. Об этом напомнил заместитель председателя Совета по развитию цифровой экономики при Совете Федерации, сенатор Артем Шейкин, передает <a href="https://tass.ru/" rel="noopener noreferrer" target="_blank">ТАСС</a>. <p class="titl"><a href="https://rg.ru/2026/07/25/senator-shejkin-s-1-sentiabria-nachnetsia-poetapnoe-vnedrenie-cifrovogo-rublia.html">Сенатор Шейкин: С 1 сентября начнется поэтапное внедрение цифрового рубля</a></p></div>
+</div><!--n:Российская газета/Сенатор Шейкин С 1 сентября начнется поэтапное внедрение цифрового рубля:s:9362822:e:1283-->
+<!----><!--2026-07-25 20:28:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Энергетики в течение часа восстановили передачу электроэнергии потребителям отдельных районов Краснодарского края, где произошло отключение на фоне прохождения мощного грозового фронта. <p class="titl"><a href="https://rg.ru/2026/07/25/reg-ufo/v-krasnodare-vernuli-elektrichestvo-v-chasti-rajonov.html">В Краснодаре вернули электричество в части районов</a></p></div>
+</div><!--n:Российская газета/В Краснодаре вернули электричество в части районов:s:9364300:e:670-->
+<!----><!--2026-07-25 21:21:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Министр энергетики России Сергей Цивилев утвержден председателем российской части межправительственной комиссии между РФ и Центрально-Африканской Республикой (ЦАР) по торгово-экономическому и научно-техническому сотрудничеству. <p class="titl"><a href="https://rg.ru/2026/07/25/civilev-naznachen-sopredsedatelem-mezhpravkomissii-rf-i-car.html">Цивилев назначен сопредседателем межправкомиссии РФ и ЦАР</a></p></div>
+</div><!--n:Российская газета/Цивилев назначен сопредседателем межправкомиссии РФ и ЦАР:s:9365124:e:762-->
+<!----><!--2026-07-25 18:07:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Сразу в нескольких районах Краснодара <a href="https://max.ru/eddskrd23/AZ-Ztf4FZZ0" rel="noopener noreferrer" target="_blank">зафиксировано</a> отключение электроэнергии. Об этом сообщили в Единой дежурно‑диспетчерской службе (ЕДДС) города, отметив, что в диспетчерскую поступают обращения от жителей. <p class="titl"><a href="https://rg.ru/2026/07/25/reg-ufo/zhiteli-krasnodara-zaiavili-o-massovom-otkliuchenii-elektrichestva.html">Жители Краснодара заявили о массовом отключении электричества</a></p></div>
+</div><!--n:Российская газета/Жители Краснодара заявили о массовом отключении электричества:s:9366054:e:840-->
+<!----><!--2026-07-25 19:54:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/25/kak-korporativnoe-volonterstvo-stanovitsia-standartom-dlia-rabotodatelej.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/25/ria_5679658hr_e9b.jpg"></a>Корпоративное волонтерство все чаще закладывается в стратегию бизнеса, это все чаще отражается в документах стратегического планирования компаний и становится стандартом современных работодателей. <p class="titl"><a href="https://rg.ru/2026/07/25/kak-korporativnoe-volonterstvo-stanovitsia-standartom-dlia-rabotodatelej.html">Как корпоративное волонтерство становится стандартом для работодателей</a></p></div>
+</div><!--n:Российская газета/Как корпоративное волонтерство становится стандартом для работодателей:s:9367070:e:943-->
+<!----><!--2026-07-26 07:48:40-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6559150-luis-enrike-hochet-vernutsya-v-botafogo-klub-predlozhil-zenitu-obmen-na-danilo.html"><img src="https://img.championat.ru/news/big/v/a/luis-enrike-hochet-vernutsya.jpg"></a>«Ботафого» пытался включить Данило в сделку по переходу Луиса Энрике из «Зенита», сообщает журналист Даниэл Брауне в своём YouTube-канале BrauneFogo <p class="titl"><a href="https://www.championat.ru/football/news-6559150-luis-enrike-hochet-vernutsya-v-botafogo-klub-predlozhil-zenitu-obmen-na-danilo.html">Луис Энрике хочет вернуться в «Ботафого». Клуб предложил «Зениту» обмен на Данило</a></p></div>
+</div><!--n:Чемпионат/Луис Энрике хочет вернуться в Ботафого . Клуб предложил Зениту обмен на Данило:s:9368207:e:904-->
+<!----><!--2026-07-26 07:30:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/lifestyle/news-6554798-triholog-obyasnila-pochemu-poyavlyayutsya-pryschiki-na-kozhe-golovy.html"><img src="https://img.championat.ru/news/big/n/s/pochemu-poyavlyayutsya-pryschiki-na-kozhe-golovy_1784711478478682285.jpg"></a>Появление «прыщиков» на коже головы — повод обратиться к врачу, а не искать мазь в аптечке. <p class="titl"><a href="https://www.championat.ru/lifestyle/news-6554798-triholog-obyasnila-pochemu-poyavlyayutsya-pryschiki-na-kozhe-golovy.html">Трихолог объяснила, почему появляются «прыщики» на коже головы</a></p></div>
+</div><!--n:Чемпионат/Трихолог объяснила, почему появляются прыщики на коже головы:s:9369299:e:798-->
+<!----><!--2026-07-26 07:30:45-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/basketball/news-6559158-primorskoe-dinamo-usililos-razygryvayuschim-sbornoj-rossii.html"><img src="https://img.championat.ru/news/big/d/d/primorskoe-dinamo-usililos-razygryvayuschim-sbornoj-rossii_1785040241493724405.jpg"></a>Владивостокское «Динамо», новичок Единой лиги ВТБ, объявило о подписании разыгрывающего Максима Личутина, который всю свою карьеру провёл в московской МБА. <p class="titl"><a href="https://www.championat.ru/basketball/news-6559158-primorskoe-dinamo-usililos-razygryvayuschim-sbornoj-rossii.html">Приморское «Динамо» усилилось разыгрывающим сборной России</a></p></div>
+</div><!--n:Чемпионат/Приморское Динамо усилилось разыгрывающим сборной России:s:9370254:e:908-->
+<!----><!--2026-07-26 07:02:48-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/other/news-6559152-rossijskie-vaterpolistki-proigrali-avstralii-na-kubke-mira-i-ne-poluchili-putyovku-na-chm.html"><img src="https://img.championat.ru/news/big/s/h/rossijskie-vaterpolistki-proigrali-avstralii-na-kubke-mira-i-ne-poluchili-putyovku-na-chm_1785038733693080910.jpg"></a>Женская сборная России по водному поло заняла четвёртое место на Кубке мира. <p class="titl"><a href="https://www.championat.ru/other/news-6559152-rossijskie-vaterpolistki-proigrali-avstralii-na-kubke-mira-i-ne-poluchili-putyovku-na-chm.html">Российские ватерполистки проиграли Австралии на Кубке мира и не получили путёвку на ЧМ</a></p></div>
+</div><!--n:Чемпионат/Российские ватерполистки проиграли Австралии на Кубке мира и не получили путёвку на ЧМ:s:9371314:e:893-->
+<!----><!--2026-07-26 07:52:02-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/cybersport/news-6559168-raspisanie-shestogo-igrovogo-dnya-blast-bounty-2026-season-2-po-counter-strike-2.html"><img src="https://img.championat.ru/news/big/j/t/raspisanie-shestogo-igrovogo-dnya-blast-bounty-2026-season-2-po-counter-strike-2_1785041511821662782.jpg"></a>Сегодня, 26 июля, завершится онлайн-cтадия BLAST Bounty 2026 Season 2 по Counter-Strike 2. <p class="titl"><a href="https://www.championat.ru/cybersport/news-6559168-raspisanie-shestogo-igrovogo-dnya-blast-bounty-2026-season-2-po-counter-strike-2.html">Расписание шестого игрового дня BLAST Bounty 2026 Season 2 по Counter-Strike 2</a></p></div>
+</div><!--n:Чемпионат/Расписание шестого игрового дня BLAST Bounty 2026 Season 2 по Counter-Strike 2:s:9372412:e:808-->
+<!----><!--2026-07-26 07:11:25-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/boxing/news-6559154-tim-czyu-errol-spens-pryamaya-onlajn-translyaciya-boya-nachalas.html"><img src="https://img.championat.ru/news/big/h/f/tim-czyu-errol-spens-pryamaya-onlajn-translyaciya-boya-nachalas_178503913018504912.jpg"></a>Рано утром 26 июля по мск на стадионе «Афтерпей Арена» в Сиднее, Австралия, начинается главный поединок боксёрского турнира, в котором на ринге встретятся 31-летний бывший чемпион мира по версии WBO в первом среднем весе австралиец российского происхождения Тимофей Цзю и 36-летний экс-чемпион мира по версиям IBF, WBC и WBA в полусреднем весе американец Эррол Спенс. <p class="titl"><a href="https://www.championat.ru/boxing/news-6559154-tim-czyu-errol-spens-pryamaya-onlajn-translyaciya-boya-nachalas.html">Тим Цзю — Эррол Спенс: прямая онлайн трансляция боя началась</a></p></div>
+</div><!--n:Чемпионат/Тим Цзю Эррол Спенс прямая онлайн трансляция боя началась:s:9373373:e:1281-->
+<!----><!--2026-07-26 07:18:15-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/basketball/news-6559156-nazvana-edinstvennaya-komanda-nba-bez-podpisanij-i-obmenov-etim-letom.html"><img src="https://img.championat.ru/news/big/a/t/nazvana-edinstvennaya-komanda-nba-bez-podpisanij-i-obmenov-etim-letom_1785039494828661197.jpg"></a>«Голден Стэйт Уорриорз» остаётся единственной командой НБА, которая с начала межсезонья-2026 не подписала ни одного новичка и не совершила ни одного обмена. <p class="titl"><a href="https://www.championat.ru/basketball/news-6559156-nazvana-edinstvennaya-komanda-nba-bez-podpisanij-i-obmenov-etim-letom.html">Названа единственная команда НБА без подписаний и обменов этим летом</a></p></div>
+</div><!--n:Чемпионат/Названа единственная команда НБА без подписаний и обменов этим летом:s:9374806:e:954-->
+<!----><!--2026-07-26 06:29:16-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp">26 июля состоится матч 1-го тура чемпионата России по футболу «Рубин» — «Краснодар». <p class="titl"><a href="https://www.championat.ru/bets/news-6559144-nazvany-shansy-krasnodara-pobedit-rubin-v-kazani.html">Названы шансы «Краснодара» победить «Рубин» в Казани</a></p></div>
+</div><!--n:Чемпионат/Названы шансы Краснодара победить Рубин в Казани:s:9375932:e:483-->
+<!----><!--2026-07-26 07:29:04-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp">26 июля состоится матч 1-го тура чемпионата России по футболу «Локомотив» — «Ахмат». <p class="titl"><a href="https://www.championat.ru/bets/news-6559146-stali-izvestny-shansy-lokomotiva-v-matche-rpl-s-ahmatom.html">Стали известны шансы «Локомотива» в матче РПЛ с «Ахматом»</a></p></div>
+</div><!--n:Чемпионат/Стали известны шансы Локомотива в матче РПЛ с Ахматом:s:9376550:e:498-->
+<!----><!--2026-07-26 06:39:24-->
+<div class="yb">
+  <div class="rss mw_f scroll chmp"><a href="https://www.championat.ru/football/news-6559148-spasibo-vsem-esekel-barko-opublikoval-post-v-socsetyah-posle-matcha-s-rodinoj.html"><img src="https://img.championat.ru/news/big/j/x/spasibo-vsem-esekel-barko-op.jpg"></a>Полузащитник «Спартака» Эсекьель Барко опубликовал пост в соцсетях на фоне вручения награды лучшего игрока команды в прошлом сезоне. <p class="titl"><a href="https://www.championat.ru/football/news-6559148-spasibo-vsem-esekel-barko-opublikoval-post-v-socsetyah-posle-matcha-s-rodinoj.html">«Спасибо всем». Эсекьель Барко опубликовал пост в соцсетях после матча с «Родиной»</a></p></div>
+</div><!--n:Чемпионат/Спасибо всем . Эсекьель Барко опубликовал пост в соцсетях после матча с Родиной:s:9377191:e:892-->
+<!----><h2 class="hspace">Наука на Вс 26 июл 2026 20:00</h2><!--2026-07-26 19:51:51-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:51</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/sputniknevidimka-stalo-izvestno-chem-kitay-oboshel-ssha-v-kosmose.html">Спутник-невидимка: стало известно, чем Китай обошел США в космосе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:02</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/uchyonye-rasskazali-skolko-tysyach-vidov-cvetov-mogut-skoro-ischeznut.html">Учёные рассказали, сколько тысяч видов цветов могут скоро исчезнуть</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/uchenye-obyasnili-kollaps-civilizaciy-bronzovogo-veka.html">Ученые объяснили коллапс цивилизаций бронзового века</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:42</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/astronomy-razgadali-taynu-zagadochnykh-krasnykh-tochek-v-ranney-vselennoy.html">Астрономы разгадали тайну загадочных красных точек в ранней Вселенной</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:41</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/za-chto-sozdatel-skafandrov-rugal-kosmonavta-na-predpriyatii-zvezda-otprazdnovali-100letie-gaya-severina.html">За что создатель скафандров ругал космонавта: на предприятии «Звезда» отпраздновали 100-летие Гая Северина</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:10</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/v-izraile-na-plyazhe-nashli-monetu-vozrastom-25-tys-let.html">В Израиле на пляже нашли монету возрастом 2,5 тыс. лет</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:18</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/ekipazh-soyuza-ms28-evakuirovan-posle-prizemleniya.html">Экипаж &#34;Союза МС-28&#34; эвакуирован после приземления</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:54</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/korabl-soyuz-ms28-s-rossiyskimi-kosmonavtami-prizemlilsya-v-kazakhstane.html">Корабль &#34;Союз МС-28&#34; с российскими космонавтами приземлился в Казахстане</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:50</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/eksperty-vstretilis-v-mit-chtoby-obsudit-tekhnologii-inoplanetyan.html">Эксперты встретились в MIT, чтобы обсудить технологии инопланетян</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">10:27</span> <a class="nodecor" href="https://www.mk.ru/science/2026/07/26/nachalo-chegoto-novogo-nazvany-usloviya-dlya-obitaniya-inoplanetyan-na-superzemle.html">«Начало чего-то нового»: названы условия для обитания инопланетян на «суперземле»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/260726 2000:s:9378273:e:3873-->
+<!----><h2 class="hspace">Путешествия и туризм на Вс 26 июл 2026 21:03</h2><!--2026-07-26 19:42:09-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:42</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/kak-turisty-chut-ne-ukrali-celyy-plyazh-v-italii-i-pochemu-teper-po-nemu-nelzya-dazhe-hodit.html">Как туристы чуть не украли целый пляж в Италии и почему теперь по нему нельзя даже ходить</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:02</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/sentreyliya-gorod-kotoryy-gorit-uzhe-bolee-60-let.html">Сентрейлия: город, который горит уже более 60 лет</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:25</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/pochemu-na-transsibe-do-sih-por-ispolzuyutsya-derevyannye-shpaly-propitannye-kreozotom.html">Почему на Транссибе до сих пор используются деревянные шпалы, пропитанные креозотом?</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:30</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/kaminito-del-rey-samaya-opasnaya-gornaya-tropa-v-mire-i-chto-s-ney-stalo-segodnya.html">Каминито-дель-Рей: самая опасная горная тропа в мире и что с ней стало сегодня</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:51</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/kompaktnaya-pech-pyronex-rabotaet-8-chasov-na-kerosine-i-vesit-19-kg.html">Компактная печь Pyronex работает 8 часов на керосине и весит 1,9 кг</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:38</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/kurit-nelzya-a-pepelnica-est-zachem-ona-v-samolete.html">Курить нельзя, а пепельница есть. Зачем она в самолете?</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:08</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/pingviny-v-afrike-zhivut-otkuda-na-plyazhe-v-yuar-vzyalis-antarkticheskie-pticy.html">Пингвины в Африке живут: откуда на пляже в ЮАР взялись антарктические птицы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:11</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/kostnica-kak-poyavilas-samaya-zhutkaya-goticheskaya-chasovnya-evropy.html">Костница: как появилась самая жуткая готическая часовня Европы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:34</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/pochemu-v-yaponskih-vannyh-plesen-poyavlyaetsya-rezhe-hotya-vodoy-tam-oblivayut-steny-i-pol.html">Почему в японских ванных плесень появляется реже, хотя водой там обливают стены и пол</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:30</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/arbatsko-pokrovskaya-liniya-metro-v-golyanovo-ne-konchitsya-a-vyydet-za-mkad-zachem-metro-v-vostochnom.html">Арбатско-Покровская линия метро в Гольяново не кончится, а выйдет за МКАД – зачем метро в Восточном?</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.ixbt.com/live/rss/blog/travel</div><!--n:iXBT Live/260726 2100:s:9382226:e:4022-->
+<!----><!--2026-07-26 19:25:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">В московском аэропорту Внуково нормализовалась ситуация с обработкой багажа, сообщает авиагавань в своем канале в <a href="https://max.ru/vnukovoairport_VKO/AZ-fEVz1TTY" rel="noopener noreferrer" target="_blank">MАХ</a>. <p class="titl"><a href="https://rg.ru/2026/07/26/aeroport-vnukovo-soobshchil-o-normalizacii-situacii-s-obrabotkoj-bagazha.html">Аэропорт Внуково сообщил о нормализации ситуации с обработкой багажа</a></p></div>
+</div><!--n:Российская газета/Аэропорт Внуково сообщил о нормализации ситуации с обработкой багажа:s:9386296:e:688-->
+<!----><!--2026-07-26 16:25:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/26/rospotrebnadzor-pravilnyj-kvas-dolzhen-penitsia.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/26/kvas_3c7.jpg"></a>Летом многие любят освежиться, выпив кваса. На что обратить внимание при выборе этого напитка, напомнил <a href="https://max.ru/rospotrebnadzor_ru/AZ-dAlm7Kr4" rel="noopener noreferrer" target="_blank">Роспотребнадзор</a>. <p class="titl"><a href="https://rg.ru/2026/07/26/rospotrebnadzor-pravilnyj-kvas-dolzhen-penitsia.html">Роспотребнадзор: Правильный квас должен пениться</a></p></div>
+</div><!--n:Российская газета/Роспотребнадзор Правильный квас должен пениться:s:9387172:e:795-->
+<!----><!--2026-07-26 19:31:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/26/vshod-i-vyhod.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/26/9p_zerno-111_7da.jpg"></a>Российское растениеводство переживает один из самых заметных структурных сдвигов последних лет. Пока производство зерна остается под давлением низких мировых цен, экспортных ограничений и слабой доходности, сельхозпроизводители все активнее переходят на более маржинальные масличные культуры, а также зернобобовые культуры. Об этом рассказал гендиректор Института конъюнктуры аграрного рынка (ИКАР) Дмитрий Рылько на конференции "Где маржа". <p class="titl"><a href="https://rg.ru/2026/07/26/vshod-i-vyhod.html">В ИКАР рассказали, каким будет урожай зерна в этом году</a></p></div>
+</div><!--n:Российская газета/В ИКАР рассказали, каким будет урожай зерна в этом году:s:9388117:e:1241-->
+<!----><!--2026-07-26 21:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/26/zhiteli-smogut-vybrat-bumazhnye-ili-elektronnye-platezhki-kakie-osobennosti.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/26/651cb4bf535aff61649059874_840.jpg"></a>Владельцам квартир вскоре придется выбирать, хотят ли они получать только бумажные или только электронные квитанции. Такое положение предусмотрено <a href="https://rg.ru/2026/07/26/putin-podpisal-zakon-o-podderzhke-pochty-rossii.html" rel="noopener noreferrer" target="_blank">законом о поддержке почты</a>. <p class="titl"><a href="https://rg.ru/2026/07/26/zhiteli-smogut-vybrat-bumazhnye-ili-elektronnye-platezhki-kakie-osobennosti.html">Жители смогут выбрать бумажные или электронные платежки. Какие особенности?</a></p></div>
+</div><!--n:Российская газета/Жители смогут выбрать бумажные или электронные платежки. Какие особенности:s:9389519:e:1054-->
+<!----><!--2026-07-26 16:39:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/26/putin-vvel-ugolovnoe-nakazanie-za-narusheniia-pri-oformlenii-simok-dlia-migrantov.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/18/ria_6128802hr_c2d.jpg"></a>Президент России Владимир Путин подписал закон, вводящий <a href="https://rg.ru/2026/07/17/za-nezakonnuiu-prodazhu-simok-inostrancam-vvedut-ugolovnoe-nakazanie.html" rel="noopener noreferrer" target="_blank">уголовную ответственность</a> за нарушения при оформлении сим-карт для иностранных граждан. <p class="titl"><a href="https://rg.ru/2026/07/26/putin-vvel-ugolovnoe-nakazanie-za-narusheniia-pri-oformlenii-simok-dlia-migrantov.html">Путин ввел уголовное наказание за нарушения при оформлении &quot;симок&quot; для мигрантов</a></p></div>
+</div><!--n:Российская газета/Путин ввел уголовное наказание за нарушения при оформлении quot симок quot для мигрантов:s:9390773:e:1040-->
+<!----><!--2026-07-26 15:19:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">Непогода, обрушившаяся на Ростов-на-Дону вечером 25 июля, спровоцировала сбой в работе железнодорожного транспорта: так, сегодня утром сообщалось о задержке в пути 89 пассажирских поездов. К 15 часам мск эта цифра увеличилась до 111, сообщает ОАО "РЖД" в своем канале в <a href="https://max.ru/rzd/AZ-eSGVkJSU" rel="noopener noreferrer" target="_blank">Max</a>. <p class="titl"><a href="https://rg.ru/2026/07/26/reg-ufo/iz-za-nepogody-v-rostovskoj-oblasti-s-opozdaniem-sleduet-111-poezdov.html">Из-за непогоды в Ростовской области с опозданием следует 111 поездов</a></p></div>
+</div><!--n:Российская газета/Из-за непогоды в Ростовской области с опозданием следует 111 поездов:s:9392030:e:939-->
+<!----><!--2026-07-26 18:10:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">С 1 сентября 2027 года кредитные организации, имеющие право на осуществление перевода денег, должны будут раскрывать информацию об условиях оказания услуг, в том числе денежных переводов, соответствующий закон подписал президент России Владимир Путин. <p class="titl"><a href="https://rg.ru/2026/07/26/banki-obiazhut-raskryvat-informaciiu-ob-usloviiah-denezhnyh-perevodov.html">Банки обяжут раскрывать информацию об условиях денежных переводов</a></p></div>
+</div><!--n:Российская газета/Банки обяжут раскрывать информацию об условиях денежных переводов:s:9393152:e:820-->
+<!----><!--2026-07-26 15:45:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon">В Трудовом кодексе РФ теперь закреплены понятия "стажер" и "стажировка". Президент России Владимир Путин подписал закон, который устанавливает особенности регулирования труда граждан, получающих первый профессиональный опыт. <p class="titl"><a href="https://rg.ru/2026/07/26/putin-podpisal-zakon-ob-osobennostiah-truda-stazherov.html">Путин подписал закон об особенностях труда стажеров</a></p></div>
+</div><!--n:Российская газета/Путин подписал закон об особенностях труда стажеров:s:9394155:e:732-->
+<!----><!--2026-07-26 14:58:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/26/vo-vnukovo-zaderzhali-desiatki-rejsov-iz-za-polomki-bagazhnyh-lent.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/26/ria_8516943hr_856_7d0.jpg"></a>В столичном аэропорту Внуково произошел сбой в работе багажных лент, что привело к задержкам и отменам рейсов. <p class="titl"><a href="https://rg.ru/2026/07/26/vo-vnukovo-zaderzhali-desiatki-rejsov-iz-za-polomki-bagazhnyh-lent.html">Во Внуково задержали десятки рейсов из-за поломки багажных лент</a></p></div>
+</div><!--n:Российская газета/Во Внуково задержали десятки рейсов из-за поломки багажных лент:s:9395043:e:751-->
+<!----><!--2026-07-26 18:52:00-->
+<div class="yb">
+  <div class="rss mw_f scroll rgecon"><a href="https://rg.ru/2026/07/26/ne-robkogo-desiatka.html"><img src="https://cdnstatic.rg.ru/uploads/images/2026/07/26/5p_niz_cb_24a.jpg"></a>Рост цен на топливо в первые месяцы лета, связанное с ним удорожание других товаров и услуг, а также атаки на склады являются разовыми факторами и временным шоком предложения. Оценки устойчивых показателей инфляции по-прежнему находятся в диапазоне 4-5%. И по мере стабилизации ситуации резко возросшие в июле инфляционные ожидания населения будут снижаться, заявила глава Банка России Эльвира Набиуллина на пресс-конференции по итогам заседания совета директоров, на котором ключевую ставку <a href="https://rg.ru/2026/07/24/bank-rossii-snizil-kliuchevuiu-stavku-s-1425-do-14.html" rel="noopener noreferrer" target="_blank">снизили</a> с 14,25 до 14% годовых. <p class="titl"><a href="https://rg.ru/2026/07/26/ne-robkogo-desiatka.html">Аналитик Васильев: ЦБ будет удерживать ключевую ставку 14% до декабря</a></p></div>
+</div><!--n:Российская газета/Аналитик Васильев ЦБ будет удерживать ключевую ставку 14 до декабря:s:9395971:e:1544-->
+<!----><h2 class="hspace">Спорт на Вс 26 июл 2026 22:00</h2><!--2026-07-26 18:55:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/cycle-racing/1117314090-pogachar-v-pyatyj-raz-vyigral-tur-de-frans-povtoriv-rekord-mnogodnevki.html">Тадей Погачар в пятый раз выиграл «Тур де Франс», повторив рекорд многодневки</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117314086-cherkas-ob-ak-barse-nado-ukreplyat-poziczii-posle-uxoda-barabanova-yas.html">Черкас об «Ак Барсе»: «Надо укреплять позиции после ухода Барабанова, Яшкина. Главное – переподписать игроков»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117314085-dzhoel-embiid-dal-lebronu-dzhejmsu-vazhnoe-obeshhanie-pered-ego-perexo.html">Джоэл Эмбиид дал Леброну Джеймсу важное обещание перед его переходом в «Филадельфию»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:49</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117314080-v-f-1-5-raznyx-pobeditelej-za-5-poslednix-gran-pri.html">В «Ф-1» 5 разных победителей за 5 последних Гран-при</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/football/1117314087-alves-iz-krasnodara-zabil-v-debyutnom-matche-za-klub-rubinu-v-1-m-ture.html">Алвес из «Краснодара» забил в дебютном матче за клуб – «Рубину» в 1-м туре РПЛ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/football/1117314074-u-kasadzhikova-gol-i-assist-v-matche-s-rostovom-vinger-orenburga-arend.html">У Касаджикова гол и ассист в матче с «Ростовом». Вингер «Оренбурга», арендованный у «Зенита», дебютировал в РПЛ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:47</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117314081-maks-ferstappen-do-six-por-ne-ponimayu-kak-finishiroval-vtorym.html">Макс Ферстаппен: «До сих пор не понимаю, как финишировал вторым»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:40</span> <a class="nodecor" href="https://www.sports.ru/cycle-racing/1117313101-tur-de-frans-21-j-etap-gonshhiki-proedut-89-km-po-marshrutu-s-finishem.html">«Тур де Франс». 21-й этап. Ван дер Пул выиграл этап, Погачар победил в генеральной классификации</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:37</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117314062-vinus-o-serene-na-uimbldone-ee-uroven-byl-neveroyatno-vysokim-ej-prost.html">Винус о Серене на «Уимблдоне»: «Она показала потрясающий теннис, ей просто очень не повезло»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:37</span> <a class="nodecor" href="https://www.sports.ru/football/1117314063-zenit-lidiruet-v-rpl-posle-1-go-tura-spartak-2-j-po-3-ochka-takzhe-u-c.html">«Зенит» лидирует в РПЛ после 1-го тура, «Спартак» – 2-й, «Краснодар» – 3-й,  ЦСКА – 5-й, «Локо» – 8-й, «Динамо» – 9-е</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/260726 2200:s:9397699:e:4236-->
