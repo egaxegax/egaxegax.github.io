@@ -5137,3 +5137,100 @@ https://www.povareno k.ru/recipes/show/17 6909/
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184131/"><img src="https://www.povarenok.ru/data/cache/2026jul/25/39/3227691_51477-640x480.jpg"></a>И сливочно-сырным соусом с травами. Эти польпетты зеленые, как клевер, зеленые, как куртка лепрекона. Дети обычно избегают овощей или выбирают картошку фри.
 Но они такие вкусные, что вам останется только убедить ребенка попробовать их, и я точно знаю, что они ему понравятся. А уж обмакивать их в великолепный соус со свежим... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184131/">Куриные польпетты со шпинатом</a></p></div>
 </div><!--n:Поваренок.РУ/Куриные польпетты со шпинатом:s:1101332:e:978-->
+<!----><!--2026-07-26 19:53:19-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184141/"><img src="https://www.povarenok.ru/data/cache/2026jul/25/39/3227690_91158-640x480.jpg"></a>Заливной пирог с лисичками - это праздник вкуса! Простой, вкусный и сытный пирог. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184141/">Заливной пирог с лисичками</a></p></div>
+</div><!--n:Поваренок.РУ/Заливной пирог с лисичками:s:1102415:e:528-->
+<!----><!--2026-07-26 20:27:02-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184142/"><img src="https://www.povarenok.ru/data/cache/2026jul/24/58/3227557_30657-640x480.jpg"></a>Я люблю картофельные салаты и с удовольствием пробую различные их версии. Сегодняшний салат – сытный и вкусный, с пикантными нотками хрена и лимона, лёгкой горчинкой руколы и свежей хрустинкой сельдерея. Отличный вариант! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184142/">Пикантный картофельный салат</a></p></div>
+</div><!--n:Поваренок.РУ/Пикантный картофельный салат:s:1103042:e:794-->
+<!----><!--2026-07-26 17:55:02-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184140/"><img src="https://www.povarenok.ru/data/cache/2026jul/26/08/3227851_68742-640x480.jpg"></a>Еще один рецепт со звездочкой. Если кондитерские изделия еще можно &quot;раскрасить&quot; для красоты, то не сладкое блюдо синего цвета - что-то странное. Поэтому, когда я увидела в Пинтересте ризотто с голубой спирулиной, я очень обрадовалась. Морепродукты и водоросли - это идеально! В этом рецепте блистали мои верные подруги -... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184140/">Ризотто с креветками</a></p></div>
+</div><!--n:Поваренок.РУ/Ризотто с креветками:s:1103940:e:963-->
+<!----><!--2026-07-26 17:31:35-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kryzhovnik-s-apelsinom-bez-varki-na-zimu/photo/960w.jpg" width="960" alt="Крыжовник с апельсином без варки на зиму"><p>Крыжовник с апельсином без варки на зиму получается густым, ароматным и очень ярким по вкусу. Сочная ягодная кислинка здесь удачно сочетается со сладостью сахара и свежим цитрусовым ароматом. Это даже не совсем обычное варенье, а скорее живой фруктово-ягодный десерт, в котором сохраняется вкус свежего... <p class="titl"><a href="https://finecooking.ru/recipe/kryzhovnik-s-apelsinom-bez-varki-na-zimu">Крыжовник с апельсином без варки на зиму</a></p></div>
+</div><!--n:finecooking.ru/Крыжовник с апельсином без варки на зиму:s:1104991:e:1045-->
+<!----><!--2026-07-27 14:37:27-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184149/"><img src="https://www.povarenok.ru/data/cache/2026jul/26/28/3227919_10314-640x480.jpg"></a>Такие пирожки, а может быть и котлеты, это настоящая &quot;белковая бомба&quot;! Их можно подать на завтрак, обед, ужин, взять с собой в качестве перекуса. Однозначно - вкусно и полезно. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184149/">Белковые пирожки</a></p></div>
+</div><!--n:Поваренок.РУ/Белковые пирожки:s:1106152:e:687-->
+<!----><!--2026-07-27 20:47:09-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184151/"><img src="https://www.povarenok.ru/data/cache/2026jul/27/54/3228157_16723-640x480.jpg"></a>Творожные &quot;цветушки&quot; к чаю — это очень простая, домашняя выпечка с добавлением в тесто творога. Начинка - густой джем. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184151/">Творожные "Цветушки" к чаю</a></p></div>
+</div><!--n:Поваренок.РУ/Творожные Цветушки к чаю:s:1106920:e:603-->
+<!----><!--2026-07-27 17:14:07-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184150/"><img src="https://www.povarenok.ru/data/cache/2026jul/27/41/3228112_35129-640x480.jpg"></a>Приготовить сытный суп с нутом и чеддером — все равно что укутаться в теплое одеяло прохладным вечером. Этот рецепт не только сочетает в себе насыщенность сыра чеддер с питательностью нута, но и отражает восхитительный баланс специй, которые оживляют все блюдо. Этот суп-пюре прекрасно подойдет как для быстрого ужина в будний день,... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184150/">Овощной суп с нутом и чеддером</a></p></div>
+</div><!--n:Поваренок.РУ/Овощной суп с нутом и чеддером:s:1107618:e:1000-->
+<!----><!--2026-07-28 20:52:20-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184161/"><img src="https://www.povarenok.ru/data/cache/2026jul/27/57/3228126_59818-640x480.jpg"></a>Не знаю, почему у салата такое название, но оставила как есть. Салат простой и сытный, хороший вариант для будничного ужина. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184161/">Салат «Самурай»</a></p></div>
+</div><!--n:Поваренок.РУ/Салат Самурай:s:1108724:e:586-->
+<!----><!--2026-07-28 15:45:56-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184160/"><img src="https://www.povarenok.ru/data/cache/2026jul/28/07/3228336_46814-640x480.jpg"></a>Блинчик Бан Кхой — это традиционное вьетнамское лакомство, отличающееся насыщенным сладким вкусом благодаря кокосовым сливкам, а также характерной мягкой и упругой текстурой. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184160/">Бан Кхой или Вьетнамский "блинчик радости"</a></p></div>
+</div><!--n:Поваренок.РУ/Бан Кхой или Вьетнамский блинчик радости:s:1109385:e:735-->
+<!----><!--2026-07-28 20:52:32-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184162/"><img src="https://www.povarenok.ru/data/cache/2026jul/21/21/3227048_77322-640x480.jpg"></a>Простой и лёгкий салат для будничной трапезы. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184162/">Салат "Николь"</a></p></div>
+</div><!--n:Поваренок.РУ/Салат Николь:s:1110245:e:441-->
+<!----><!--2026-07-28 12:52:55-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/nastoyka-iz-chernoy-smorodiny-na-vodke-v-domashnih-usloviyah/photo/960w.jpg" width="960" alt="Настойка из черной смородины на водке в домашних условиях"><p>Настойка из чёрной смородины на водке в домашних условиях получается насыщенной, ароматной, умеренно сладкой и довольно крепкой. Ягоды придают напитку глубокий рубиновый цвет, приятную кислинку и выразительный смородиновый вкус, а несколько свежих листьев делают аромат ещё ярч... <p class="titl"><a href="https://finecooking.ru/recipe/nastoyka-iz-chernoy-smorodiny-na-vodke-v-domashnih-usloviyah">Настойка из черной смородины на водке в домашних условиях</a></p></div>
+</div><!--n:finecooking.ru/Настойка из черной смородины на водке в домашних условиях:s:1110759:e:1107-->
+<!----><!--2026-07-29 18:24:27-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184175/"><img src="https://www.povarenok.ru/data/cache/2026jul/22/43/3227225_96533-640x480.jpg"></a>Сочетание разных вкусов и текстур делает салат очень интересным на вкус. Сладкий хрустящий арбуз, солоноватая ароматная ветчина, кисловатые вяленые томаты, сочная и пряная зелень - вместе получилось вкусно. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184175/">Салат с арбузом и утиной ветчиной</a></p></div>
+</div><!--n:Поваренок.РУ/Салат с арбузом и утиной ветчиной:s:1112014:e:773-->
+<!----><!--2026-07-29 17:36:11-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184174/"><img src="https://www.povarenok.ru/data/cache/2026jul/29/31/3228545_10135-640x480.jpg"></a>Делюсь рецептом малосольный огурцов от шеф - повара Московского ресторана. Весьма не обычный, не привычный вариант засолки - получается пикантно и ароматно!!! Для приготовления я использовала разделочную доску ТМ Kukmara <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184174/">Малосольные огурцы-как в ресторане</a></p></div>
+</div><!--n:Поваренок.РУ/Малосольные огурцы-как в ресторане:s:1112898:e:794-->
+<!----><!--2026-07-29 12:03:54-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184173/"><img src="https://www.povarenok.ru/data/cache/2026jul/29/52/3228514_83046-640x480.jpg"></a>Ещё одно блюдо уральской кухни. Рецепт этих котлет был разработан в 70-х годах прошлого века для столовой при Свердловском обкоме партии, а назвали их в честь реки Исеть, которая протекает через наш город. Блюдо получилось весьма удачным: нежный куриный фарш в нём отлично сочетается с начинкой из печени. Попробуйте и вы эти... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184173/">Котлеты "Исетские"</a></p></div>
+</div><!--n:Поваренок.РУ/Котлеты Исетские:s:1113806:e:959-->
+<!----><!--2026-07-30 20:15:06-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184186/"><img src="https://www.povarenok.ru/data/cache/2026jul/30/07/3228775_79992-640x480.jpg"></a>Шоколадный рулет с вишней и ванильным кремом - мечта каждого сладкоежки. Изумительное сочетание нежнейшего коржа с кремом и вишней, это настоящее наслаждение. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184186/">Шоколадный рулет с вишней</a></p></div>
+</div><!--n:Поваренок.РУ/Шоколадный рулет с вишней:s:1114846:e:671-->
+<!----><!--2026-07-30 22:13:42-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184188/"><img src="https://www.povarenok.ru/data/cache/2026jul/30/24/3228721_64684-640x480.jpg"></a>Легендарную крошку-картошку с какими только начинками не подают, это овощи, салаты, разные соусы. Сегодня я предлагаю к такой картошке сразу два вида грибной начинки. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184188/">Крошка-картошка с двумя грибными начинками</a></p></div>
+</div><!--n:Поваренок.РУ/Крошка-картошка с двумя грибными начинками:s:1115614:e:715-->
+<!----><!--2026-07-30 20:32:10-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184187/"><img src="https://www.povarenok.ru/data/cache/2026jul/30/30/3228793_28299-640x480.jpg"></a>Сытный и вкусный сэндвич. Лучше всего есть его свежеприготовленным, но он вполне продержится несколько часов, так что будет хорош и в качестве &quot;ссобойки&quot;. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184187/">Сэндвич с курицей и глазуньей</a></p></div>
+</div><!--n:Поваренок.РУ/Сэндвич с курицей и глазуньей:s:1116458:e:677-->
+<!----><!--2026-07-30 07:45:50-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kompot-iz-kryzhovnika-na-zimu/photo/960w.jpg" width="960" alt="Компот из крыжовника на зиму без стерилизации"><p>Компот из крыжовника на зиму получается ароматным, в меру сладким и с приятной ягодной кислинкой. Из красного или чёрного крыжовника напиток выходит особенно красивым, с насыщенным рубиновым оттенком, а зелёные и жёлтые ягоды дают более светлый, золотистый компот. Для рецепта подойдёт любой сорт — вкус и цвет в каждом... <p class="titl"><a href="https://finecooking.ru/recipe/kompot-iz-kryzhovnika-na-zimu-bez-sterilizacii">Компот из крыжовника на зиму без стерилизации</a></p></div>
+</div><!--n:finecooking.ru/Компот из крыжовника на зиму без стерилизации:s:1117239:e:1090-->
+<!----><!--2026-07-31 19:56:09-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184207/"><img src="https://www.povarenok.ru/data/cache/2026jul/31/25/3229073_50567-640x480.jpg"></a>Продолжаю знакомить вас с рецептами уральской кухни. В этом варианте есть один необычный ингредиент, благодаря которому окрошка получается весьма пикантной. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184207/">Окрошка по-уральски</a></p></div>
+</div><!--n:Поваренок.РУ/Окрошка по-уральски:s:1118455:e:659-->
+<!----><!--2026-07-31 20:31:58-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184208/"><img src="https://www.povarenok.ru/data/cache/2026jul/31/28/3229117_72742-640x480.jpg"></a>Простой рецепт овощной закуски. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184208/">Жареные помидоры по-румынски</a></p></div>
+</div><!--n:Поваренок.РУ/Жареные помидоры по-румынски:s:1119200:e:444-->
+<!----><!--2026-07-31 20:34:22-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184209/"><img src="https://www.povarenok.ru/data/cache/2026jul/27/44/3228000_10002-640x480.jpg"></a>Я очень люблю салаты подобного рода и часто готовлю их летом, это прекрасный вариант для пятничного ужина – лёгкий и вкусный. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184209/">Салат с персиками и прошутто</a></p></div>
+</div><!--n:Поваренок.РУ/Салат с персиками и прошутто:s:1119747:e:614-->
+<!----><!--2026-08-01 17:27:09-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184215/"><img src="https://www.povarenok.ru/data/cache/2026aug/01/26/3229316_91351-640x480.jpg"></a>Это нежное печенье, идеально украсит любое чаепитие. Готовить просто, легко и быстро. Несмотря на не презентабельный вид печенья, оно получилось очень вкусным, ароматным и рассыпчатым! Готовила по книге &quot;Несложно и вкусно&quot;. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184215/">Песочные ломтики</a></p></div>
+</div><!--n:Поваренок.РУ/Песочные ломтики:s:1120463:e:780-->
+<!----><!--2026-08-01 12:34:10-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184213/"><img src="https://www.povarenok.ru/data/cache/2026aug/01/49/3229225_46342-640x480.jpg"></a>Ароматная, вкусная, сытная заготовка - салат, закуска и второе в одной банке. Если вы любите сезонные овощи, но не хотите покупать дорогие зимой, а потом долго стоять у плиты, то кабачки с рисом выручат вас: просто открываете банку и при желании разогреваете содержимое, хотя блюдо вкусное и в холодном виде.
+А в помощь мне посуда... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184213/">Кабачки с рисом на зиму</a></p></div>
+</div><!--n:Поваренок.РУ/Кабачки с рисом на зиму:s:1121324:e:973-->
+<!----><!--2026-08-01 17:00:59-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184214/"><img src="https://www.povarenok.ru/data/cache/2026aug/01/26/3229257_62226-640x480.jpg"></a>Очень люблю эту заготовку! Вкусно с запеченным мясом, с рыбой, с шашлыками. Можно добавить в сложный гарнир или дополнить сырную тарелку. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184214/">Маринованный крыжовник</a></p></div>
+</div><!--n:Поваренок.РУ/Маринованный крыжовник:s:1122389:e:625-->

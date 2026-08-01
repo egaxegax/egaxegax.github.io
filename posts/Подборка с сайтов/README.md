@@ -50234,3 +50234,1018 @@ http://dzen.ru/cifrohype?donate=true  Плавучая платформа Prelud
   <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/obyavlena_data_vyhoda_astartes_2_samogo_ozhidaemogo_seriala_warhammer_40k-1862235#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/_K7tQ753gig1xZPYjvv_gg.png"></a>Games Workshop объявила, что анимационный сериал Astartes 2 выйдет в декабре 2026 года. Об этом сообщили на портале Warhammer Community. <p class="titl"><a href="https://www.playground.ru/misc/news/obyavlena_data_vyhoda_astartes_2_samogo_ozhidaemogo_seriala_warhammer_40k-1862235#utm_source=rss&utm_medium=referral&utm_campaign=news">Объявлена дата выхода Astartes 2 - самого ожидаемого сериала Warhammer 40К</a></p></div>
 </div><!--n:PlayGround.ru/Объявлена дата выхода Astartes 2 - самого ожидаемого сериала Warhammer 40К:s:9228503:e:884-->
 <!----><!--2026-07-26 22:36:20-->Новости с игрового портала *PlayGround.ru*<!--n:PlayGround.ru/about:s:9229544:e:98-->
+<!----><!--2026-07-25 09:55:24-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amRegtVlSA96DKip">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a645e82d565480f7a0ca8a9_6a645e82c6e8b260c62885c4/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amRegtVlSA96DKip"><span class="inlbl">Назван самый дешевый в содержании автомобиль в 2026 году</span></a>
+    <i class="trow smaller2"><span class="inlbl">MOTOR.RU</span></i>
+    <i class="trow smaller3">2026-07-25</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Зарядка электромобиля дома делает его эксплуатацию наиболее выгодной, но конечная экономия напрямую связана с условиями поездок и привычками водителя. Об этом в беседе с изданием «Газета.Ru» рассказал директор по маркетингу АГ «Авилон» Юрий Блинов. «Если сравнивать именно типы силовых установок, то в 2026 году минимальные эксплуатационные расходы обеспечивает электромобиль — при условии, что владелец может регулярно заряжать его дома или на работе», — пояснил Блинов. По словам эксперта, при среднем...</div>
+</div><!--n:Дзен/Назван самый дешевый в содержании автомобиль в 2026 году:s:9229686:e:1639-->
+<!----><!--2026-07-22 12:51:46-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amCRCqgD2mhnNOIo">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a60910aa803da686734e228_6a6092393d51820bd896982c/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amCRCqgD2mhnNOIo"><span class="inlbl">IT-компании начали скупать обычные книги — зачем это нужно</span></a>
+    <i class="trow smaller2"><span class="inlbl">БЛОГ СИСТЕМНОГО АДМИНИСТРАТОРА</span></i>
+    <i class="trow smaller3">2026-07-22</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Казалось бы, что книги ушли в прошлое — весь контент можно найти в интернете, буквально на любую тему. Но нет — всему виной нейрослоп. Да, мало кто слышал этот термин, но он уже прочно входит в обиход современного человека. Данный термин обозначает низкокачественный контент, который сгенерирован искусственным интеллектом. Но причем тут это? А всё очень просто — любой нейросети для того, чтобы она могла решать задачи, нужны массивы данных для обучения. Искусственный интеллект обучается в том числе и на данных, которые уже были сгенерированы другими нейросетевыми моделями...</div>
+</div><!--n:Дзен/IT-компании начали скупать обычные книги зачем это нужно:s:9231461:e:1824-->
+<!----><!--2026-06-30 14:44:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/akOQ9FQK4Az76DfC">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a4390f4540ae00cfbe837c2_6a43ab4820d9265e78d47141/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/akOQ9FQK4Az76DfC"><span class="inlbl">С 1 июля водителей ждет семь изменений. Шесть из них - про деньги</span></a>
+    <i class="trow smaller2"><span class="inlbl">ПРИВЕТТАЧКА</span></i>
+    <i class="trow smaller3">2026-06-30</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Лето - это не только пора шашлыков и отпусков, но и время вступления в силу новых законов. В этом году их набралось прилично. СМИ насчитали семь важных изменений для автомобилистов. Ниже подробности по каждому. С 1 июля перестает работать система автоматического продления водительских удостоверений. Ее ввели в 2020 году как временную меру, потом продлили. Теперь все. Менять права нужно уже тем, чей срок истек еще в июле 2023 года, так как водительское удостоверение автоматически считается действительным еще три года сверх указанной даты...</div>
+</div><!--n:Дзен/С 1 июля водителей ждет семь изменений. Шесть из них - про деньги:s:9233423:e:1724-->
+<!----><!--2026-07-26 20:24:17-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">- Здравствуйте, я ваш лечащий патологоанатом, зовут меня Иван Петрович, — сказал врач обыденно, будто передавая визитку. — Мы сейчас в морге. Время московское — три часа сорок четыре минуты.<br><br>— Что, простите? — хрипло пробормотал Антоха пересохшими губами.<br><br>— Я говорю — три часа сорок четыре минуты. Сейчас сделаем небольшое вскрытие. Пять минут работы, не больше.<br><br>— Это шутка?<br><br>— Нисколько, поставим отметку в истории болезни, и всё — в добрый, как говорится, путь и светлая память на долгие лета.<br><br>И всё.. Приплыли. Антохе как никогда захотелось вскочить, разорвать на себе эту застиранную больничную робу, подбежать по холодному полу к окну и громко закричать — я живой, люди добрые, живой я, помогите, скальпелем режут, без суда и следствия. Бить себя в грудь, может быть даже спрыгнуть в ночную пустоту. Но все что у него получилось, это неестественно вздрогнуть и булькнуть чем-то из груди, распространяя по комнате зловонный смрад.<br><br>— Ничего-ничего, — отмахнулся врач. — Это газы выходят. В вашем положении так бывает, не удивляйтесь.<br><br>— Я не удивляюсь, доктор, — выдавил Антоха наконец, — но как мы говорим, если я уже того...<br><br>— Аа, так это тело умирает, а мозг еще какое-то время держит вещание, там синопсы, нейронные связи всякие, остаточные импульсы. Великая вещь, до конца не изученная, между прочим. А у меня тут, голубчик, ретранслятор на столе, — постучал он по железной коробке с тумблерами, — и на нужную частоту настроен — вот я вас и слышу, а вы слышите меня. Технология. Ну что ж, приступим...<br><br>— Подождите-подождите, доктор... Иван Петрович... а нельзя ли как-то все назад? Чтобы снова — как прежде, будто ничего и не было?<br><br>— Видите ли, голубчик, в том-то и штука, что у вас и не было ничего такого, что можно было бы вернуть. Ни любви, ни ненависти, ни боли, ни огня, ни малейшего душевного порыва — полный штиль. Как говорят у нас у врачей — синдромус нуль. Полное отсутствие жизни. Из существенного только кислы... <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3104307.html">На рассвете</a></p></div>
+</div><!--n:ЯПлакал/На рассвете:s:9235298:e:3752-->
+<!----><!--2026-07-26 13:20:02-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Любая инопланетная цивилизация, способная посетить Землю, должна будет преодолеть расстояние в 4,25 световых года от ближайшей звездной системы. Это расстояние настолько велико, что даже по самым оптимистичным оценкам, реальная крейсерская скорость составит примерно 10 % от скорости света, а само путешествие займет столетие или даже больше, - сообщает Studyfinds.<br><br>Одно только преодоление гравитации представляет собой практически непреодолимое препятствие.<br><br>Для ракет потребовалось бы больше топлива, чем содержится во всей наблюдаемой Вселенной.<br><br>В нашей Солнечной системе нет свидетельств существования разумной инопланетной жизни. Поэтому любые внеземные цивилизации, скорее всего, должны быть из другой звездной системы в нашей галактике Млечный Путь.<br><br>Ближайшая к нашему Солнцу звезда Проксима Центавра находится на расстоянии 4,25 световых лет или около 40 триллионов километров.<br><br>Даже самые близкие к Земле звезды находятся невероятно далеко.<br><br>Поскольку считается, что лишь на некоторых планетах есть разумная жизнь, ближайшая инопланетная цивилизация - если она существует - наверняка находится гораздо дальше Проксимы.<br><br>Учитывая масштабы межзвездных расстояний, любое путешествие инопланетян на Землю неизбежно растянется на многие годы, а возможно, и на несколько столетий.<br><br>При этом, чем дольше длится путешествие, тем выше риск катастрофических происшествий или сбоев в работе систем, которые могут поставить под угрозу всю миссию. Поэтому важно избегать слишком длительных путешествий и двигаться как можно быстрее.<br><br>Пока ни один земной объект не может достичь скорости света или превысить её (примерно 300 000 километров в секунду). Но задолго до достижения этого порога начинают сказываться технические сложности. Ограниченный запас топлива и вероятность повреждения конструкции ограничивают максимальную скорость космического корабля.<br><br>Общепринятого верхнего предела скорости межзвездных полетов не существует, но,... <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3104209.html">Что нужно инопланетянам, чтобы добраться до Земли?</a></p></div>
+</div><!--n:ЯПлакал/Что нужно инопланетянам, чтобы добраться до Земли:s:9239113:e:3882-->
+<!----><!--2026-07-25 10:57:02-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">30 штучек<br><br>1. <br><br><a href="https://www.yaplakal.com/forum2/topic3103843.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/8/3/7/21149738.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3103843.html">Любопытные картинки</a></p></div>
+</div><!--n:ЯПлакал/Любопытные картинки:s:9243128:e:424-->
+<!----><!--2026-07-26 22:15:53-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">По поводу мобильного интернета.<br><br>Недавно Мегафон повысил в очередной раз цены на услуги связи. На это раз прибавили отдельно плату за безлимитный интернет. При этом Интернета, как такового, нет. &quot;Белые списки&quot; действуют уже два года. А сейчас действуют &quot;строгие белые списки&quot;. То есть, доступ есть только к тем немногочисленным ресурсам, которые в этом списке есть.<br><br>Это по определению не является &quot;услугами доступа в Интернет&quot;, за которые оператор с завидной жадностью списывает деньги со счетов. Назовите это &quot;услугами доступа в сеть Чебурнет&quot;, например, но никак не Интернет.<br><br>Люди не имеют возможности заниматься бизнесом, хобби, просто отдыхом и самообразованием. Ясно, всем уже очевидно, что это никак не связано с безопасностью. Украинским ракетам и дронам глубоко наплевать на нашу мобильную связь. Этим вы лишь загоняете собственный народ в каменный век. Даже просто поиграть в шахматы, например, нет возможности.<br><br>Но давайте вернёмся к делу. По факту имеем обязательство оператора предоставлять доступ в Интернет, за что списывает деньги. Деньги реальные. Но Интернета нет. Если вы не можете предоставить доступ в Интернет, то прекратите списывать деньги, уменьшите цену за услуги. Но нет. Ситуация обратная. Цены только повышают. При этом по факту не выполняя условия договора, не делая то, за что мы платим деньги.<br><br>Почему люди должны быть крайними в этой ситуации? Кто дал право делать крайними людей. Пусть те, кто принимал, на мой личный взгляд, глупые и необдуманные решения о запрете доступа в Интернет, компенсирует убытки. А не с абонентов трясти деньги &quot;за воздух&quot;.<br><br>Пы.сы. До операторов не дозвониться, робот никак не хочет переключать. Предлагают в VK написать, из-за этого регистрироваться надо, а вот желания нет. <br><br><a href="https://www.yaplakal.com/forum7/topic3104332.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/6/2/6/21152626.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3104332.html">Мегафон опять за старое</a></p></div>
+</div><!--n:ЯПлакал/Мегафон опять за старое:s:9243630:e:3631-->
+<!----><!--2026-07-27 00:24:05-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-terleckom-lesoparke-poselilas-zanesennaya-v-krasnuyu-knigu-ptica-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/26/21/6992203/a0a5d4aa122c7a633ede07a40527dbd080e05eca.jpg"></a>Красношейная поганка, занесенная в Красную книгу России, впервые поселилась в Терлецком лесопарке. Об этом сообщается на сайте мэра и правительства Москвы. <p class="titl"><a href="https://moslenta.ru/news/city/v-terleckom-lesoparke-poselilas-zanesennaya-v-krasnuyu-knigu-ptica-27-07-2026.htm">В Терлецком лесопарке поселилась занесенная в Красную книгу красношейная поганка</a></p></div>
+</div><!--n:Мослента/В Терлецком лесопарке поселилась занесенная в Красную книгу красношейная поганка:s:9247346:e:917-->
+<!----><!--2026-07-26 16:05:32-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/nazvana-neochevidnaya-opasnost-kureniya-26-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/24/10/6991764/805de9f5f08660a3846fbf5c3d4cce7b3bbda535.jpg"></a>Курение напрямую бьет по способности запоминать информацию. Такую неочевидную опасность вредной привычки назвал главный внештатный специалист, психиатр-нарколог Минздрава Московской области Виталий Холдин. <p class="titl"><a href="https://moslenta.ru/news/lyudi/nazvana-neochevidnaya-opasnost-kureniya-26-07-2026.htm">Психиатр-нарколог Холдин заявил, что курение ухудшает память</a></p></div>
+</div><!--n:Мослента/Психиатр-нарколог Холдин заявил, что курение ухудшает память:s:9248457:e:925-->
+<!----><!--2026-07-27 06:12:09-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvicham-rasskazali-o-pogode-v-ponedelnik-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/03/6992212/a0db1a9bae9091b20dfdaa0c1917f3e3a7b6dee6.jpg"></a>Облачная погода, местами сильный дождь и температура до плюс 21 градуса ожидаются в российской столице в понедельник, 27 июля. Об этом сообщается в прогнозе, опубликованном на сайте Гидрометцентра. <p class="titl"><a href="https://moslenta.ru/news/city/moskvicham-rasskazali-o-pogode-v-ponedelnik-27-07-2026.htm">Облачная погода и до 21 градуса тепла ожидаются в Москве 27 июля</a></p></div>
+</div><!--n:Мослента/Облачная погода и до 21 градуса тепла ожидаются в Москве 27 июля:s:9249537:e:905-->
+<!----><!--2026-07-27 02:52:17-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/zhitelyam-moskovskogo-regiona-poobeshali-dozhdi-vsyu-rabochuyu-nedelyu-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/26/23/6992206/dfd562ba5e11fd5c9380620d55d77404a0b73f4c.jpg"></a>Дожди ожидаются в Московском регионе на протяжении всей рабочей недели. Об этом рассказала ТАСС ведущий сотрудник Гидрометцентра Марина Макарова. <p class="titl"><a href="https://moslenta.ru/news/city/zhitelyam-moskovskogo-regiona-poobeshali-dozhdi-vsyu-rabochuyu-nedelyu-27-07-2026.htm">В Московском регионе ожидаются дожди всю рабочую неделю</a></p></div>
+</div><!--n:Мослента/В Московском регионе ожидаются дожди всю рабочую неделю:s:9250598:e:861-->
+<!----><!--2026-07-26 11:20:09-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/psikholog-predlozhila-zadavat-sebe-odin-vopros-vo-vremya-shopinga-26-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/24/10/6991738/4c69920cff0639c662c8e77956d681bf0e392339.jpg"></a>Эмоциональные покупки сами по себе не вредны, однако такой шопинг не должен становиться единственным способом справляться со стрессом или тревогой. Об этом в разговоре с «Газетой.Ru» заявила психолог бренда эмоциональных товаров modi Анастасия Мироненко. <p class="titl"><a href="https://moslenta.ru/news/lyudi/psikholog-predlozhila-zadavat-sebe-odin-vopros-vo-vremya-shopinga-26-07-2026.htm">Психолог Мироненко заявила, что эмоциональные покупки могут быть полезны</a></p></div>
+</div><!--n:Мослента/Психолог Мироненко заявила, что эмоциональные покупки могут быть полезны:s:9251605:e:1080-->
+<!----><!--2026-07-27 05:32:57-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/okhrannik-udaril-toporom-sotrudnika-moskovskogo-avtosalona-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/02/6992209/c13e02b296d504fba169e29ef7c41fee4b158d73.jpg"></a>Охранник ударил топором работника московского автосалона Infiniti, он госпитализирован. Об инциденте сообщает ТАСС. <p class="titl"><a href="https://moslenta.ru/news/city/okhrannik-udaril-toporom-sotrudnika-moskovskogo-avtosalona-27-07-2026.htm">Охранник ударил топором сотрудника автосалона Infiniti в Москве</a></p></div>
+</div><!--n:Мослента/Охранник ударил топором сотрудника автосалона Infiniti в Москве:s:9252864:e:782-->
+<!----><!--2026-07-27 14:29:44-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/a08/b91/4a8/a08b914a87369e056efaab9a1886a1e2.jpg" /><p>26&nbsp;июля, к&nbsp;открытию конференции DAC, NVIDIA расширила Agent Toolkit&nbsp;— набор для&nbsp;сборки инженерных ИИ‑агентов. В&nbsp;него добавили переработанные библиотеки PhysicsNeMo и свежую подборку CUDA‑X, включая новый итеративный разреженный солвер cuISS. Материал стоит читать с&nbsp;разделением на&nbsp;два слоя: часть анонса&nbsp;— это код и... <p class="titl"><a href="https://habr.com/ru/news/1063610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063610">NVIDIA добавила в Agent Toolkit физику и солверы</a></p></div>
+</div><!--n:Хабр/NVIDIA добавила в Agent Toolkit физику и солверы:s:9253800:e:995-->
+<!----><!--2026-07-27 14:59:11-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><p>Институт искусственного интеллекта AIRI и Новосибирский государственный университет (НГУ) <a href="https://tass.ru/nauka/27935375" rel="noopener noreferrer nofollow">создадут </a>лабораторию индустриального искусственного интеллекта. Подразделение будет развиваться на&nbsp;базе Института интеллектуальной робототехники НГУ. </p><p>Лаборатория займётся разработкой систем интеллектуального управления группами роботов и моделей для&nbsp;задач физики, биомедицины и астрономии.... <p class="titl"><a href="https://habr.com/ru/news/1063626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063626">НГУ и AIRI создают лабораторию индустриального ИИ</a></p></div>
+</div><!--n:Хабр/НГУ и AIRI создают лабораторию индустриального ИИ:s:9254901:e:1127-->
+<!----><!--2026-07-27 14:57:12-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/51d/61a/ff7/51d61aff7aac1ab1fa52c5d63045d699.jpg" /><p>Сегодня в&nbsp;ТОП-5&nbsp;—&nbsp;Check Point&nbsp;— активная эксплуатация SmartConsole (CVE-2026-16232), Cl0p&nbsp;— цепочка RCE в&nbsp;PTC Windchill/FlexPLM, AgentBaiting&nbsp;— FakeGit заражает цепочку поставок ИИ, RefluXFS&nbsp;— девятилетняя уязвимость в&nbsp;XFS даёт root‑права (CVE-2026-64600), AiTM‑фишинг через взломанные домены.</p><p><a... <p class="titl"><a href="https://habr.com/ru/companies/jetinfosystems/news/1063624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063624">ТОП-5 ИБ‑событий недели по версии Jet CSIRT</a></p></div>
+</div><!--n:Хабр/ТОП-5 ИБ событий недели по версии Jet CSIRT:s:9256152:e:926-->
+<!----><!--2026-07-27 19:15:28-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/heroes_of_hammerwatch_2/news/heroes_of_hammerwatch_ii_poluchila_pervoe_dlc_celestial_ruins_s_novym_klassom_lokatsiej_i_bossami-1862487#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/nBA3-gtZjaONCUU0L3G3wg.jpeg"></a>Team17 выпустила первое платное дополнение для рогалайт-экшен-RPG Heroes of Hammerwatch II. DLC Celestial Ruins уже доступно в Steam и добавляет в игру новый класс, отдельную область для исследования, уникальные предметы и серию сложных сражений с... <p class="titl"><a href="https://www.playground.ru/heroes_of_hammerwatch_2/news/heroes_of_hammerwatch_ii_poluchila_pervoe_dlc_celestial_ruins_s_novym_klassom_lokatsiej_i_bossami-1862487#utm_source=rss&utm_medium=referral&utm_campaign=news">Heroes of Hammerwatch II получила первое DLC Celestial Ruins - с новым классом, локацией и боссами</a></p></div>
+</div><!--n:PlayGround.ru/Heroes of Hammerwatch II получила первое DLC Celestial Ruins - с новым классом, локацией и боссами:s:9257182:e:1195-->
+<!----><!--2026-07-27 19:13:28-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/dragonkin_the_banished/news/dragonkin_the_banished_poluchila_krupnoe_besplatnoe_obnovlenie_dracomundus_purgatory_s_novym_rezhimom_i_krosspleem-1862484#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/pd3Z0C0e5Krmg3Eahx9uvg.jpeg"></a>NACON выпустила масштабное бесплатное обновление Dracomundus Purgatory для хак-н-слэш RPG Dragonkin: The Banished. Патч уже доступен на PC, PlayStation 5 и Xbox Series X|S и добавляет не только новый высокоуровневый режим, но и долгожданные сетевые... <p class="titl"><a href="https://www.playground.ru/dragonkin_the_banished/news/dragonkin_the_banished_poluchila_krupnoe_besplatnoe_obnovlenie_dracomundus_purgatory_s_novym_rezhimom_i_krosspleem-1862484#utm_source=rss&utm_medium=referral&utm_campaign=news">Dragonkin: The Banished получила крупное бесплатное обновление Dracomundus Purgatory с новым режимом и кроссплеем</a></p></div>
+</div><!--n:PlayGround.ru/Dragonkin The Banished получила крупное бесплатное обновление Dracomundus Purgatory с новым режимом и кроссплеем:s:9258559:e:1236-->
+<!----><!--2026-07-27 19:23:01-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/microsoft_reshaet_problemu_medlennyh_zagruzok_na_xbox_smart_download_client_v_testirovanii-1862492#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/lL4-hSqSr_hzM9Dcbqn82g.png"></a>Microsoft наконец-то взялась за то, на что пользователи Xbox жаловались годами: нестабильные и часто неэффективные скорости загрузки. Компания начала тестировать "умный клиент загрузки" (Smart Download Client), который автоматически находит самый быстрый сервер для скачивания игр... <p class="titl"><a href="https://www.playground.ru/misc/news/microsoft_reshaet_problemu_medlennyh_zagruzok_na_xbox_smart_download_client_v_testirovanii-1862492#utm_source=rss&utm_medium=referral&utm_campaign=news">Microsoft решает проблему медленных загрузок на Xbox: Smart Download Client в тестировании</a></p></div>
+</div><!--n:PlayGround.ru/Microsoft решает проблему медленных загрузок на Xbox Smart Download Client в тестировании:s:9260007:e:1219-->
+<!----><!--2026-07-27 19:19:51-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/beastlink/news/beastlink_vyjdet_v_rannem_dostupe_uzhe_18_avgusta_ekshen_s_kajdzyu_delaet_stavku_na_totalnoe_razrushenie_gorodov-1862490#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/UwDv2Pann_i2UTj1FCCD4A.jpeg"></a>Студия Grove Street Games объявила дату выхода многопользовательского экшена BeastLink. Игра станет доступна в раннем доступе Steam уже 18 августа, тогда как версии для PlayStation 5 и Xbox Series появятся одновременно с полноценным релизом. <p class="titl"><a href="https://www.playground.ru/beastlink/news/beastlink_vyjdet_v_rannem_dostupe_uzhe_18_avgusta_ekshen_s_kajdzyu_delaet_stavku_na_totalnoe_razrushenie_gorodov-1862490#utm_source=rss&utm_medium=referral&utm_campaign=news">BeastLink выйдет в раннем доступе уже 18 августа - экшен с кайдзю делает ставку на тотальное разрушение городов</a></p></div>
+</div><!--n:PlayGround.ru/BeastLink выйдет в раннем доступе уже 18 августа - экшен с кайдзю делает ставку на тотальное разрушение городов:s:9261402:e:1235-->
+<!----><!--2026-07-27 19:13:31-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/na_amc_startoval_tretij_sezon_myortvogo_goroda_spin_offa_hodyachih_mertvetsov_s_niganom_i_meggi-1862485#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/Em5zw_G4pKA0v6bO8hasHw.jpeg"></a>На телеканале AMC и стриминговом сервисе AMC+ состоялась премьера третьего сезона сериала "Мёртвый город", который является спин-оффом культового зомби-хоррора "Ходячие мертвецы". <p class="titl"><a href="https://www.playground.ru/misc/news/na_amc_startoval_tretij_sezon_myortvogo_goroda_spin_offa_hodyachih_mertvetsov_s_niganom_i_meggi-1862485#utm_source=rss&utm_medium=referral&utm_campaign=news">На AMC стартовал третий сезон "Мёртвого города" - спин-оффа "Ходячих мертвецов" с Ниганом и Мэгги</a></p></div>
+</div><!--n:PlayGround.ru/На AMC стартовал третий сезон Мёртвого города - спин-оффа Ходячих мертвецов с Ниганом и Мэгги:s:9262871:e:1100-->
+<!----><!--2026-07-26 06:59:25-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amWEu77nsHecn-fX">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6584bbbee7b0779c9fe7d7_6a6584d1f7141969cc610fcc/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amWEu77nsHecn-fX"><span class="inlbl">Новый Voyah Passion S: кроссовер, который за час набрал 10 000 заказов</span></a>
+    <i class="trow smaller2"><span class="inlbl">AUTO PEOPLE</span></i>
+    <i class="trow smaller3">2026-07-26</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Этот автомобиль позиционируется на домашнем рынке как прямой конкурент популярного паркетника Xiaomi YU7. На старте предпродаж выставили топовую версию, которая должна привлечь внимание покупателей высоким уровнем технологических решений и выразительным внешним видом новинки. 24 июля 2026 года китайский бренд Voyah (он же Lantu, дочка концерна Dongfeng) официально открыл приём предзаказов на свой новейший электрический кроссовер Passion S. И знаете что? За первый час модель собрала порядка 10 300 заявок...</div>
+</div><!--n:Дзен/Новый Voyah Passion S кроссовер, который за час набрал 10 000 заказов:s:9264179:e:1619-->
+<!----><!--2026-07-22 21:24:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amIcLcpc2E9VUyAR">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a621c2dca5cd84f55532011_6a621c2d3b85822e3205b1c9/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amIcLcpc2E9VUyAR"><span class="inlbl">100-тонный буй получил первый в мире международный сертификат безопасности для...</span></a>
+    <i class="trow smaller2"><span class="inlbl">IXBT.COM</span></i>
+    <i class="trow smaller3">2026-07-22</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">После 50 лет неудач волновая энергетика преодолела главный барьер: шведская CorPower Ocean получила полную сертификацию для буя C4 после 7 лет проверок Шведская компания CorPower Ocean объявила о получении полной сертификации DNV (норвежская международная организация, разрабатывающая стандарты и проводящая сертификацию для морской и энергетической отраслей) для волнового преобразователя энергии C4. Это первый в мире волновой генератор, прошедший полный цикл проверки DNV — отраслевого стандарта, без которого крупные институциональные инвесторы обычно не финансируют проекты морской энергетики...</div>
+</div><!--n:Дзен/100-тонный буй получил первый в мире международный сертификат безопасности для волновой энергетики:s:9265942:e:1834-->
+<!----><!--2026-07-26 13:56:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amXn6spc2E9VX9s7">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a65e7eaca5cd84f555fdb3b_6a65e7ea41eddb6c69033f79/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amXn6spc2E9VX9s7"><span class="inlbl">Первак: США по организации чемпионата мира впереди России, у них больше опыта</span></a>
+    <i class="trow smaller2"><span class="inlbl">СОВЕТСКИЙ СПОРТ</span></i>
+    <i class="trow smaller3">2026-07-26</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Бывший генеральный директор московского «Спартака» Юрий Первак рассказал о поездке на чемпионат мира в США и сравнил организацию турнира с первенством 2018 года в России. «Очень хорошие впечатления от чемпионата мира. Был с сыном на матчах Франция — Парагвай и Бразилия — Норвегия. Организация была в полном порядке. Но мне в Нью-Йорке понравилось больше, чем в Филадельфии. Ещё понравилось, что было разделение потоков людей и машин у стадиона. Не было такого, что были пробки на выезде, чтобы пропустить пешеходов...</div>
+</div><!--n:Дзен/Первак США по организации чемпионата мира впереди России, у них больше опыта:s:9267993:e:1714-->
+<!----><!--2026-07-24 16:06:23-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amNfbsa3M07ZilgU">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a635f6ec6b7334ed98a5814_6a6363299829680cc0700057/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amNfbsa3M07ZilgU"><span class="inlbl">Toyota Sequoia 2027: мамонт среди внедорожников получил апгрейд – стоит ли...</span></a>
+    <i class="trow smaller2"><span class="inlbl">AUTO PEOPLE</span></i>
+    <i class="trow smaller3">2026-07-24</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Когда Toyota называет свой флагманский внедорожник в честь гигантского дерева секвойи, она явно не стесняется намекать на размеры. И пятый модельный год текущего поколения Sequoia доказывает: японцы по-прежнему верят, что большое – это красиво. Правда, не все с этим согласятся, особенно когда речь заходит о ценнике и паре конструктивных компромиссов. Но давайте разбираться по порядку. Toyota не стала переизобретать колесо – скорее аккуратно его подкрутила. Снаружи Sequoia щеголяет: Выглядит это солиднее...</div>
+</div><!--n:Дзен/Toyota Sequoia 2027 мамонт среди внедорожников получил апгрейд стоит ли овчинка выделки:s:9269883:e:1650-->
+<!----><!--2026-07-28 06:03:02-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Место действия Новосибирск <br><br><a href="https://www.yaplakal.com/forum2/topic3104684.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/7/0/1/21155107.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3104684.html">Заправляем только в бак. Ок, базару - ноль</a></p></div>
+</div><!--n:ЯПлакал/Заправляем только в бак. Ок, базару - ноль:s:9271715:e:486-->
+<!----><!--2026-07-28 05:25:12-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Позвольте представить&#33;<br><br>Не знающий жалости душитель домашних тапок&#33;<br><br>Безбашенный покоритель шторных вершин&#33; <br><br>Тёмный властелин ночной прихожей&#33;<br><br>580 граммов первобытной ярости&#33;<br><br>Потрясающий и ослепительный&#33;<br><br>Встречайте&#33; <br><br><a href="https://www.yaplakal.com/forum13/topic3104677.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/0/7/3/21155370.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum13/topic3104677.html">Дамы и господа!</a></p></div>
+</div><!--n:ЯПлакал/Дамы и господа:s:9272316:e:853-->
+<!----><!--2026-07-28 07:01:17-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Родился 28 июля 1923 года (существует версия, что он приписал себе год, чтобы уйти на фронт) в селе Уразово (в настоящее время — посёлок городского типа в Валуйском районе Белгородской области России)в семье комиссара Павла Басултайнена, финна по национальности, и Александры Ивановны, дочери покровского священника. Имел русские, грузинские и финские корни. Родители перемещались с места на место. Отец, красный комиссар, философ по образованию, боролся с басмачами в Средней Азии, погиб в 1931 году. Мать работала книгоношей и учительницей, много занималась с сыном, поэтому он пошёл сразу в третий класс.<br><br>В 1931—1941 годах учился в московской средней школе № 64. По другим данным, в 1930 году пошёл в школу в городе Мары, в 1931—1932 годах учился в городе Железнодорожном, в 1933 году — в Кашине Западной области, в 1934—1935 годах — в Сухуме, в 1936 году — в селе Александрово Горьковского края, с 1937 по 1941 год — в Москве. Параллельно Басов учился в художественном училище.<br><br>Летом 1941 года пришёл во ВГИК, чтобы узнать, что необходимо для поступления, но его планы разрушила война.<br>Участник Великой Отечественной войны с 1941 года. В звании лейтенанта интендантской службы 4-й отдельной стрелковой бригады за образцовое исполнение обязанностей в должности начальника клуба бригады был награждён медалью «За боевые заслуги» в 1943 году. Организованный им ансамбль художественной самодеятельности дал более ста пятидесяти концертов для бойцов. В звании старшего лейтенанта был командиром батареи 424-го миномётного полка 36-й миномётной бригады 28-й артиллерийской дивизии прорыва РГК. 23 февраля 1945 года во главе штурмовой группы обеспечил захват опорного пункта немецкой обороны, в бою был тяжело контужен, за свой подвиг награждён орденом Красной Звезды. В звании капитана был помощником начальника оперативного отдела 28-й отдельной артиллерийской дивизии прорыва Резерва СВГК.<br><br>В 1947 году поступил на режиссёрский факультет ВГИКа в мастерскую Сергея Юткевича и... <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3104692.html">28 июля 1923 года родился один из замечательных актеров, режиссёр и самый обаятельный "Шеф" и "Дуремар" - Владимир Басов</a></p></div>
+</div><!--n:ЯПлакал/28 июля 1923 года родился один из замечательных актеров, режиссёр и самый обаятельный Шеф и Дуремар - Владимир Басов:s:9273236:e:3957-->
+<!----><!--2026-07-28 02:44:12-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/sadovod-nazvala-chetyre-neobychnye-kultury-dlya-sada-v-podmoskove-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/23/6992438/20d267d252b78670f897e4f6b2695380c86c0b5a.jpg"></a>Эксперт Союза садоводов России, телеведущая Ольга Воронова в беседе с NEWS.ru раскрыла, какие необычные культуры можно выращивать в садах Московской области. <p class="titl"><a href="https://moslenta.ru/news/city/sadovod-nazvala-chetyre-neobychnye-kultury-dlya-sada-v-podmoskove-28-07-2026.htm">Садовод Воронова: В Подмосковье можно выращивать инжир, виноград и абрикосы</a></p></div>
+</div><!--n:Мослента/Садовод Воронова В Подмосковье можно выращивать инжир, виноград и абрикосы:s:9277441:e:901-->
+<!----><!--2026-07-27 13:48:59-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/voskhishennyi-inostranec-zakhotel-liznut-poruchni-v-moskovskom-metro-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/09/6992250/f5b30770f32d783fa3ff9bc6bb7f60dc6c4f3f48.jpg"></a>Приехавшего в Москву итальянца настолько поразила чистота в столичном метро, что он готов был лизнуть поручни эскалатора. Видео из его соцсетей публикует «Москва 24». <p class="titl"><a href="https://moslenta.ru/news/city/voskhishennyi-inostranec-zakhotel-liznut-poruchni-v-moskovskom-metro-27-07-2026.htm">Итальянец поразился чистоте в московском метро</a></p></div>
+</div><!--n:Мослента/Итальянец поразился чистоте в московском метро:s:9278523:e:875-->
+<!----><!--2026-07-27 16:03:47-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichka-rasskazala-o-spasshem-ee-ot-presledovatelei-v-metro-neznakomce-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/11/6992279/a9d814192f9ae453542707afadf6687d121a524e.jpg"></a>Москвичка рассказала в соцсетях, как неожиданно ее спас незнакомец от нескольких преследователей. Все произошло в столичном метро. Историю женщины публикует Telegram-канал «Осторожно, Москва». <p class="titl"><a href="https://moslenta.ru/news/city/moskvichka-rasskazala-o-spasshem-ee-ot-presledovatelei-v-metro-neznakomce-27-07-2026.htm">Москвичка рассказала, что незнакомец спас ее от преследователей в метро</a></p></div>
+</div><!--n:Мослента/Москвичка рассказала, что незнакомец спас ее от преследователей в метро:s:9279528:e:974-->
+<!----><!--2026-07-27 12:42:28-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvichku-uvolili-za-razglashenie-kommercheskoi-tainy-cherez-ii-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/09/6992244/a61283481539650be7b30c78623a1a2a8c3e4735.jpg"></a>В Москве топ-менеджера инженерной компании уволили за разглашение коммерческой тайны через нейросеть DeepSeek. Об этом сообщает РИА Новости. <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvichku-uvolili-za-razglashenie-kommercheskoi-tainy-cherez-ii-27-07-2026.htm">В Москве топ-менеджера компании уволили за разглашение тайны через DeepSeek</a></p></div>
+</div><!--n:Мослента/В Москве топ-менеджера компании уволили за разглашение тайны через DeepSeek:s:9280677:e:862-->
+<!----><!--2026-07-27 16:58:08-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/podschitana-stoimost-sbora-moskovskogo-pervoklassnika-v-shkolu-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/09/6992249/a9da9bc65b2558418fc6ff60e9f593a640a587ae.jpg"></a>Стоимость полного набора для подготовки ребенка к школе в столице выросла и составила в июне 24,8 тысячи рублей. Такую сумму Агентству городских новостей «Москва» назвала кандидат экономических наук, доцент кафедры статистики Российского экономического университета имени Плеханова Ольга Лебединская. <p class="titl"><a href="https://moslenta.ru/news/city/podschitana-stoimost-sbora-moskovskogo-pervoklassnika-v-shkolu-27-07-2026.htm">Лебединская: Сбор первоклассника в школу в Москве обойдется в 24,8 тысячи рублей</a></p></div>
+</div><!--n:Мослента/Лебединская Сбор первоклассника в школу в Москве обойдется в 24,8 тысячи рублей:s:9281714:e:1172-->
+<!----><!--2026-07-27 14:46:46-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/lyubitelyam-pennogo-predrekli-poyavlenie-pivnogo-serdca-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/11/6992274/ca2f61453bb757f1306a259b5c019daabba4ebbb.jpg"></a>Ежедневная традиция выпивать «легкий» алкоголь после работы может грозить появлением «пивного сердца». Об этом рассказала терапевт Скандинавского центра здоровья Ольга Чистик в беседе с «Газетой.Ru». <p class="titl"><a href="https://moslenta.ru/news/city/lyubitelyam-pennogo-predrekli-poyavlenie-pivnogo-serdca-27-07-2026.htm">Врач Чистик: У любителей выпить после работы может появиться «пивное сердце»</a></p></div>
+</div><!--n:Мослента/Врач Чистик У любителей выпить после работы может появиться пивное сердце:s:9283073:e:968-->
+<!----><!--2026-07-28 06:46:11-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/vsu-atakovali-bespilotnikami-moskovskuyu-oblast-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/03/6992445/8db487ead06af10a6d8dd1f148b353da9e6695e9.jpg"></a>Вооруженные силы Украины (ВСУ) вновь атаковали беспилотными летательными аппаратами (БПЛА) Московскую область. Как сообщил губернатор региона Андрей Воробьев в своем Telegram-канале, один беспилотник попал в многоквартирный дом на улице Земской в Чехове. <p class="titl"><a href="https://moslenta.ru/news/city/vsu-atakovali-bespilotnikami-moskovskuyu-oblast-28-07-2026.htm">Воробьев: В Чехове беспилотник попал в многоквартирный дом</a></p></div>
+</div><!--n:Мослента/Воробьев В Чехове беспилотник попал в многоквартирный дом:s:9284220:e:1011-->
+<!----><!--2026-07-27 18:50:30-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/v-podmoskove-sotrudnicy-banka-ukrali-u-klientov-desyatki-millionov-rublei-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/09/6992251/17b9e1d02375c69977491b1f9a86dcc55e0ea5ee.jpg"></a>Три сотрудницы отделения банка в Подмосковье украли у клиентов более 28 миллионов рублей. Сделали они это при помощи дубликатов карт, рассказала официальный представитель МВД РФ Ирина Волк в «Макс». <p class="titl"><a href="https://moslenta.ru/news/lyudi/v-podmoskove-sotrudnicy-banka-ukrali-u-klientov-desyatki-millionov-rublei-27-07-2026.htm">Сотрудницы банка в Подмосковье украли у клиентов 28 миллионов рублей</a></p></div>
+</div><!--n:Мослента/Сотрудницы банка в Подмосковье украли у клиентов 28 миллионов рублей:s:9285382:e:984-->
+<!----><!--2026-07-27 22:30:33-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/vzryv-i-pozhar-proizoshli-na-trasse-v-moskve-27-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/19/6992425/784491ad4de44f0a8fd4bdcbd6b821d6bcd0ef00.jpg"></a>На трассе в Москве произошли взрыв и пожар. Как передает Telegram-канал Shot, в районе села Вороново — серьезная авария, в результате которой загорелись фура и легковой автомобиль. <p class="titl"><a href="https://moslenta.ru/news/lyudi/vzryv-i-pozhar-proizoshli-na-trasse-v-moskve-27-07-2026.htm">На трассе в Москве произошло серьезное ДТП со взрывом, двое человек погибли</a></p></div>
+</div><!--n:Мослента/На трассе в Москве произошло серьезное ДТП со взрывом, двое человек погибли:s:9286534:e:894-->
+<!----><!--2026-07-28 00:15:01-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/sinoptik-vyskazalsya-o-riske-uragana-v-moskovskom-regione-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/27/21/6992428/a7aeec1b4704b2d2a9b62ce1355be1bc13ed7b2a.jpg"></a>Начальник краткосрочных прогнозов Гидрометцентра России Александр Голубев в беседе с РИА Новости высказался о риске появления урагана в Московском регионе во вторник, 28 июля. <p class="titl"><a href="https://moslenta.ru/news/city/sinoptik-vyskazalsya-o-riske-uragana-v-moskovskom-regione-28-07-2026.htm">Синоптик Голубев: Урагана не будет в Московском регионе 28 июля</a></p></div>
+</div><!--n:Мослента/Синоптик Голубев Урагана не будет в Московском регионе 28 июля:s:9287609:e:899-->
+<!----><!--2026-07-28 13:13:43-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/7a7/1a4/c78/7a71a4c78d852c9eb7eae44396b0ab9d.jpg" /><p>OpenAI <a href="https://openai.com/index/introducing-chatgpt-small-business-program/" rel="noopener noreferrer nofollow">запустила </a>программу «ChatGPT для&nbsp;малого бизнеса», в&nbsp;рамках которой специалисты компании будут помогать внедрять ИИ на&nbsp;небольшие предприятия. Инициатива рассчитана на&nbsp;компании, которые хотят использовать нейросети... <p class="titl"><a href="https://habr.com/ru/news/1063996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063996">OpenAI запустила программу «ChatGPT для малого бизнеса»</a></p></div>
+</div><!--n:Хабр/OpenAI запустила программу ChatGPT для малого бизнеса:s:9288664:e:970-->
+<!----><!--2026-07-28 13:00:55-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/a7f/a1d/f39/a7fa1df39ea796a6f246db7d0917391c.jpeg" /><p>Друзья «Берлоги» из&nbsp;российского инди‑геймдева команда «Хорошие игры» завершили разработку первой версии новой игры «Лествица» в&nbsp;жанре православного мистического реализма. Официальный релиз запланирован до&nbsp;конца 2026&nbsp;года, а&nbsp;пока команда приглашает&nbsp;желающих принять участие в&nbsp;закрытом тестировании.</p> <a... <p class="titl"><a href="https://habr.com/ru/news/1064042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064042">«Лествица»: детектив, в котором каждый выбор меняет историю</a></p></div>
+</div><!--n:Хабр/Лествица детектив, в котором каждый выбор меняет историю:s:9289756:e:1049-->
+<!----><!--2026-07-28 13:54:46-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/86a/586/537/86a586537fa2c5112a4237ed45620ccc.jpg" /><p>Университет штата Аризона (ASU) <a href="https://www.dexerto.com/entertainment/arizona-state-launches-influencer-degree-where-students-must-gain-real-followers-3391012/" rel="noopener noreferrer nofollow">запустил </a>программу бакалавриата для&nbsp;начинающих инфлюенсеров. Студенты будут создавать и развивать аккаунты в&nbsp;соцсетях и добиваться роста аудитории... <p class="titl"><a href="https://habr.com/ru/news/1064002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064002">Американский вуз запустил программу бакалавриата для начинающих инфлюенсеров</a></p></div>
+</div><!--n:Хабр/Американский вуз запустил программу бакалавриата для начинающих инфлюенсеров:s:9290945:e:1006-->
+<!----><!--2026-07-28 18:58:15-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/od/news/aktrisa_od_nazvala_hideo_kodzimu_geniem_i_rasskazala_o_poslednih_syomkah_igry-1862770#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/xgklgQY4i7jxUkm6coRltA.png"></a>Актриса Хантер Шафер ("Эйфория"), исполняющая одну из ролей в хорроре OD, поделилась свежими подробностями о разработке новой игры Хидео Кодзимы. По её словам, команда совсем недавно завершила очередную сессию съёмок с использованием технологии motion capture... <p class="titl"><a href="https://www.playground.ru/od/news/aktrisa_od_nazvala_hideo_kodzimu_geniem_i_rasskazala_o_poslednih_syomkah_igry-1862770#utm_source=rss&utm_medium=referral&utm_campaign=news">Актриса OD назвала Хидео Кодзиму гением и рассказала о последних съёмках игры</a></p></div>
+</div><!--n:PlayGround.ru/Актриса OD назвала Хидео Кодзиму гением и рассказала о последних съёмках игры:s:9292132:e:1170-->
+<!----><!--2026-07-28 19:22:38-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/apex_legends/news/revork_bladhaunda_i_obnovlenie_karty_kraj_sveta_avtory_apex_legends_pokazali_novinki_sezona_znamenie-1862778#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/H-quYpAomLiQojfHQBwSiA.jpeg"></a>Авторы Apex Legends опубликовали трейлер 30-го сезона "Знамение", в котором продемонстрировали его основные новинки. <p class="titl"><a href="https://www.playground.ru/apex_legends/news/revork_bladhaunda_i_obnovlenie_karty_kraj_sveta_avtory_apex_legends_pokazali_novinki_sezona_znamenie-1862778#utm_source=rss&utm_medium=referral&utm_campaign=news">Реворк Бладхаунда и обновление карты "край света" - авторы Apex Legends показали новинки сезона "Знамение"</a></p></div>
+</div><!--n:PlayGround.ru/Реворк Бладхаунда и обновление карты край света - авторы Apex Legends показали новинки сезона Знамение:s:9293484:e:1015-->
+<!----><!--2026-07-28 18:53:04-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/sony_raskryla_igry_playstation_plus_na_avgust_dying_light_2_big_walk_i_signalis-1862768#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/MZRQdWxgRw-mxP_DrZ4kvw.png"></a>Sony представила подборку бесплатных игр для подписчиков PlayStation Plus Essential на август. Все проекты будут доступны для добавления в библиотеку с 4 по 31 августа, а играть в них можно будет при активной подписке. <p class="titl"><a href="https://www.playground.ru/misc/news/sony_raskryla_igry_playstation_plus_na_avgust_dying_light_2_big_walk_i_signalis-1862768#utm_source=rss&utm_medium=referral&utm_campaign=news">Sony раскрыла игры PlayStation Plus на август - Dying Light 2, Big Walk и Signalis</a></p></div>
+</div><!--n:PlayGround.ru/Sony раскрыла игры PlayStation Plus на август - Dying Light 2, Big Walk и Signalis:s:9294718:e:1045-->
+<!----><!--2026-07-28 19:20:58-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/clair_obscur_expedition_33/news/razrabotchiki_clair_obscur_expedition_33_nazvali_portirovanie_na_nintendo_switch_2_bolshoj_tehnicheskoj_zadachej-1862777#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/x8TTLbIV3itSSfhiW1c_pQ.png"></a>Несмотря на интерес к выпуску Clair Obscur: Expedition 33 на Nintendo Switch 2, в Sandfall Interactive признают, что перенос игры на новую консоль Nintendo станет серьёзным испытанием. <p class="titl"><a href="https://www.playground.ru/clair_obscur_expedition_33/news/razrabotchiki_clair_obscur_expedition_33_nazvali_portirovanie_na_nintendo_switch_2_bolshoj_tehnicheskoj_zadachej-1862777#utm_source=rss&utm_medium=referral&utm_campaign=news">Разработчики Clair Obscur: Expedition 33 назвали портирование на Nintendo Switch 2 "большой технической задачей"</a></p></div>
+</div><!--n:PlayGround.ru/Разработчики Clair Obscur Expedition 33 назвали портирование на Nintendo Switch 2 большой технической задачей:s:9295907:e:1126-->
+<!----><!--2026-07-28 19:14:05-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/dzhosh_hartnett_protiv_tainstvennogo_suschestva_iz_morskih_glubin_netflix_pokazal_pervyj_tizer_trillera_below-1862775#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/ABjlF4eyLf3sBt-uc7j73Q.jpeg"></a>Netflix представил дебютный тизер-трейлер шестисерийного триллера Below, главную роль в котором исполнил Джош Хартнетт. Премьера сериала состоится 8 октября, а до этого проект покажут 10 сентября в рамках программы Primetime на Международном кинофестивале в Торонто... <p class="titl"><a href="https://www.playground.ru/misc/news/dzhosh_hartnett_protiv_tainstvennogo_suschestva_iz_morskih_glubin_netflix_pokazal_pervyj_tizer_trillera_below-1862775#utm_source=rss&utm_medium=referral&utm_campaign=news">Джош Хартнетт против таинственного существа из морских глубин: Netflix показал первый тизер триллера Below</a></p></div>
+</div><!--n:PlayGround.ru/Джош Хартнетт против таинственного существа из морских глубин Netflix показал первый тизер триллера Below:s:9297241:e:1291-->
+<!----><!--2026-07-28 20:55:44-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amjst9KcAUobYNET">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a68ecb7d29c014a1b60d113_6a68ecbb63038b4746094a92/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amjst9KcAUobYNET"><span class="inlbl">Астрономы получили самые убедительные доказательства существования спутника...</span></a>
+    <i class="trow smaller2"><span class="inlbl">УЛИЦА ШКЛОВСКОГО (АСТРОНОМИЯ И КОСМОНАВТИКА)</span></i>
+    <i class="trow smaller3">2026-07-28</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Астрономы получили самые убедительные на сегодняшний день доказательства того, что у Бетельгейзе есть звезда-компаньон. С помощью телескопа VLT исследователи получили наиболее чёткое изображение объекта, который, как считается, обращается вокруг знаменитого красного сверхгиганта. Результаты опубликованы в журнале Astronomy & Astrophysics. Предположение о существовании спутника Бетельгейзе появилось около ста лет назад. Его наличие пытались использовать для объяснения изменений яркости звезды, однако подтвердить эту гипотезу долгое время не удавалось...</div>
+</div><!--n:Дзен/Астрономы получили самые убедительные доказательства существования спутника Бетельгейзе:s:9298758:e:1844-->
+<!----><!--2026-07-27 07:14:21-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ambaT1BErRgaZ1O2">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a66da4f5044ad181a6753b6_6a66da5c043fc014e6b2d132/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ambaT1BErRgaZ1O2"><span class="inlbl">Археологи в Сальвадоре нашли могилу человека, похороненного почти три тысячи...</span></a>
+    <i class="trow smaller2"><span class="inlbl">МИР 24 | НОВОСТИ</span></i>
+    <i class="trow smaller3">2026-07-27</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Археологи в Сальвадоре обнаружили необычное захоронение – скелет человека, лежащего лицом вниз, который был погребен вместе с керамическим сосудом, выполненным в виде морской черепахи, почти 3000 лет назад. Согласно заявлению Министерства культуры Сальвадора, захоронение было найдено 2 июля в Антигуо-Кускатлане, пригороде Сан-Сальвадора, в ходе раскопок под руководством Карлоса Флореса Мансано, археолога и докторанта Йельского университета. Хотя скелет еще не был подвергнут радиоуглеродному анализу,...</div>
+</div><!--n:Дзен/Археологи в Сальвадоре нашли могилу человека, похороненного почти три тысячи лет назад:s:9300805:e:1705-->
+<!----><!--2026-07-28 17:50:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amjEWGtbQE6qSFOO">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a68c4586b5b404eaa48538e_6a68c4593cbddb683f0aea07/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amjEWGtbQE6qSFOO"><span class="inlbl">Орбакайте показала, как встретилась с сыном Дени Байсаровым в Монако</span></a>
+    <i class="trow smaller2"><span class="inlbl">КИНО MAIL</span></i>
+    <i class="trow smaller3">2026-07-28</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Кристина Орбакайте показала новые кадры семейного отдыха. После Греции, где певица проводила время с мужем и дочерью, она отправилась в Монако. Там к ней присоединился сын Дени от бизнесмена Руслана Байсарова. Кадрами из машины артистка поделилась на личной странице в социальной сети. «Мы в Монако, и нас уже чуть-чуть побольше. Семья разрастается с каждым городом», — рассказала Орбакайте. Напомним, среднего сына артистка родила в браке с предпринимателем Русланом Байсаровым. В 2018 году его состояние оценивали в 900 млн долларов...</div>
+</div><!--n:Дзен/Орбакайте показала, как встретилась с сыном Дени Байсаровым в Монако:s:9302706:e:1715-->
+<!----><!--2026-07-28 15:16:48-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amidYl6itBNUIjH4">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a689d625ea2b413542231f8_6a689d83ca37930ee20a2193/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amidYl6itBNUIjH4"><span class="inlbl">Краш российского кино: 7 обаятельных ролей Максима Матвеева</span></a>
+    <i class="trow smaller2"><span class="inlbl">7ДНЕЙКИНО</span></i>
+    <i class="trow smaller3">2026-07-28</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">28 июля актеру исполняется 44 года. За годы карьеры актер успел побывать стилягой и графом Вронским, примерить образ Шерлока Холмса и серийного убийцы, а также сыграть сразу двух совершенно разных героев в одном сериале. При этом за Матвеевым давно закрепился статус одного из главных крашей российского кино — харизма позволяет ему одинаково эффектно выглядеть и романтическим героем, и опасным антагонистом. Ко дню рождения актера вспоминаем семь самых обаятельных и ярких ролей актера. В новом сериале...</div>
+</div><!--n:Дзен/Краш российского кино 7 обаятельных ролей Максима Матвеева:s:9304583:e:1655-->
+<!----><!--2026-07-28 13:16:32-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amiBQqKWxX_dcSC6">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a688142a296c57fdd7120ba_6a68814daed80159d063c065/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amiBQqKWxX_dcSC6"><span class="inlbl">ФАС возбудила дела на заправки: что выявлено?</span></a>
+    <i class="trow smaller2"><span class="inlbl">АВТОСПРАВОЧНАЯ</span></i>
+    <i class="trow smaller3">2026-07-28</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Федеральная антимонопольная служба (ФАС) возбудила дела на АЗС сразу в нескольких регионах России. ФАС выявила нарушения на заправках сразу в целом ряде регионов страны. Так, сегодня, 28 июля 2026 года, ведомство сообщило, что Нижегородское УФАС возбудило дело в отношении компании, реализующей топливо на АЗС под брендом «ESCO». На этих заправках за короткий период изменились цены на бензин АИ-92 и АИ-95. После этого антимонопольный орган выдал предпринимателю предупреждение о необходимости прекращения подобных действий, которое исполнено не было...</div>
+</div><!--n:Дзен/ФАС возбудила дела на заправки что выявлено:s:9306382:e:1714-->
+<!----><!--2026-07-27 13:51:50-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amczf54XI3750ALP">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a67337f9e17237ef9d002cf_6a6737c645104510f9dc49b7/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amczf54XI3750ALP"><span class="inlbl">Любят ли кошки, когда с ними разговаривают и узнают ли хозяина по голосу</span></a>
+    <i class="trow smaller2"><span class="inlbl">IKOSHKIRU - МИР КОШЕК</span></i>
+    <i class="trow smaller3">2026-07-27</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Человек зовёт кошку по имени, рассказывает ей о своём дне или комментирует, как она устроилась на диване. Питомец может посмотреть в ответ, повернуть ухо или продолжить лежать с закрытыми глазами. По такой реакции трудно понять, слушает ли животное и приятно ли ему человеческое внимание. Исследования показывают, что кошки распознают голос хозяина и замечают особую манеру речи, обращённую именно к ним. Но учёные не могут напрямую измерить, «любит» ли кошка разговоры. В экспериментах оценивают движения ушей, головы, изменение активности и стремление продолжить контакт...</div>
+</div><!--n:Дзен/Любят ли кошки, когда с ними разговаривают и узнают ли хозяина по голосу:s:9308212:e:1814-->
+<!----><!--2026-07-25 07:00:58-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amHExpcZkS4zsLG8">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a61c4c69719912e33b0b1bc_6a61c5b2926eb16c63b6e3e0/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amHExpcZkS4zsLG8"><span class="inlbl">10 заблуждений о ВЕО, в которые до сих пор верят</span></a>
+    <i class="trow smaller2"><span class="inlbl">DOGSFORUM</span></i>
+    <i class="trow smaller3">2026-07-25</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Есть породы, вокруг которых слухов и легенд накопилось столько, что реальная собака за ними почти не видна. Восточноевропейская овчарка - как раз такой случай.  Стоит завести щенка, и со всех сторон начинают сыпаться "советы": она должна быть злой, она не должна любить чужих, ей нельзя жить в доме, с ней не обязательно заниматься дрессировкой - "порода и так все знает".  По моим наблюдениям, именно эти установки и портят отношения между владельцем и собакой куда чаще, чем какие-то реальные породные особенности...</div>
+</div><!--n:Дзен/10 заблуждений о ВЕО, в которые до сих пор верят:s:9310193:e:1628-->
+<!----><!--2026-07-28 15:51:24-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Депутат Госдумы Михаил Романов предложил формировать у молодежи моду на отказ от интернета и гаджетов как один из способов борьбы с распространением интим-блогов и эскорт-контента. Об этом он, комментируя задержание секс-блогерши Сони Мармеладовой и уголовные дела в отношении других создателей откровенного контента.<br><br>По мнению парламентария, запретительные меры в этой сфере не принесут желаемого результата. Вместо этого, считает он, необходимо создавать альтернативу в виде живого общения, спорта и других форм досуга.<br><br>«<i>Когда мы что-то запрещаем, это, наоборот, получает популярность. Поэтому здесь важно создавать альтернативу – это повестка, прежде всего, живого общения, спорта, досуга. Наша задача – все-таки делать на это упор. Чтобы детям просто некогда и неинтересно было всё это, развивать другие ценности у нашей молодежи</i>», – заявил Романов.<br><br><a href='/go/?https%3A%2F%2Fwww.gazeta.ru%2Ftech%2Fnews%2F2026%2F07%2F28%2F28992421.shtml%3Fysclid%3Dms5lvrv0gj272956943' target='_blank' class='url-link'>Источник</a> <br><br><a href="https://www.yaplakal.com/forum1/topic3104852.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/7/4/5/21156547.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3104852.html">Россиян призвали отказаться от интернета из-за наличия в нём эскортниц</a></p></div>
+</div><!--n:ЯПлакал/Россиян призвали отказаться от интернета из-за наличия в нём эскортниц:s:9311941:e:2261-->
+<!----><!--2026-07-28 19:55:59-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Рыбинское предприятие «ОДК-Сатурн» изготовило четвертую серийную турбину большой мощности ГТД-110М<br><br>Изделие легче и компактнее зарубежных аналогов, а его КПД составляет 36%, что сопоставимо с лучшими газотурбинными двигателями для энергетики.<br><br>Но ГТД-110М продолжает совершенствоваться. Сейчас инженеры заняты снижением уровня эмиссии выхлопных газов в 6–8 раз, увеличением ресурсных показателей и назначенного ресурса двигателя до 125 тыс. экв. часов. <br>Также специалисты внедряют новые решения для сокращения длительности техобслуживания и капитальных ремонтов<br><br>ГТД-110М — это первая российская серийная газовая турбина большой мощности (в классе 90–130 МВт), полностью разработанная и производящаяся в России предприятием «ОДК-Сатурн» (входит в Госкорпорацию «Ростех»).<br> Она предназначена для использования в составе газотурбинных (ГТУ) и парогазовых (ПГУ) энергетических установок мощностью от 115 до 500 МВт для выработки электричества и тепла<br><br><a href='/go/?https%3A%2F%2Fwww.kommersant.ru%2Fdoc%2F8846741%3Fysclid%3Dms5lt7vbum241095337' target='_blank' class='url-link'>Источник</a> <br><br><a href="https://www.yaplakal.com/forum1/topic3104931.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/4/9/0/21157094.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3104931.html">Рыбинское предприятие изготовило четвертую серийную турбину ГТД-110М</a></p></div>
+</div><!--n:ЯПлакал/Рыбинское предприятие изготовило четвертую серийную турбину ГТД-110М:s:9314374:e:2391-->
+<!----><!--2026-07-28 21:11:39-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">И воруют страшно и ни чего не стесняясь. Прямо в нагляк воруют, потому что понимают - не поймают. А в прочем обо всём по порядку.<br><br>Соседка попросила сегодня сходить в ПВЗ ОЗОН у нас в Ярославле. Специально пишу адрес - Доронина, 6. Ну, чтоб страна знала своих героев. Забрать заказанный ей ноут. Она сама не может, инвалид 2 группы, пенсионер. Дальше квартиры выйти уже не может, сил нет. А ноут для неё единственное &quot;окно в мир&quot;, где можно ещё почитать честные новости. На ЯП например)))<br><br>В общем прихожу в ПВЗ. Показываю код. Приёмщик выносит коробку и улыбается. Кладёт на стол и говорит: как то слишком легко для ноута. Я смотрю, а у коробки вся бочина оторвана. Не аккуратно вскрыта, не надорвана, а вырвана нахуй с мясом&#33; Её просто нет&#33; Я двумя пальчиками коробочку поднимаю, а веса, только от самой коробочки .....<br><br>Я человек адекватный. Без СДВ, корон на голове, и вялотекущей шизы. Повезло, можно сказать. Спокойно с юмором говорю приёмщику (нормальный парень, без претензий). Так там ни хуя нет)))) Рядом люди стоят, человек 5, все шеи вытянули, хуясечо - ноут спиздили&#33; С приёмщиком достаём коробку от ноута из упаковочной коробки, открываем а там мамин хуй и мышка с ковриком в подарок от продавца. Ни ноута, ни БП, ни &quot;смартчасы в подарок&quot;. НИ-ХУ-Я.jpg )))) Стоим ржём. Месяц ожидания товара - мимо. Говорю сами возврат оформите? Да говорит, без проблем. Прихожу к соседке и рассказываю эту грустную историю. Очень расстроилась. Старому то ноуту пизда пришла. Но. Деньги вернули быстро, часа не прошло.<br><br>Я бы это всё и писать бы сюда не стал. Обычное воровство в OZON. Почти любой из нас сталкивался с ним в своей жизни хотя бы раз. Но есть нюанс. Я на сайт захожу и смотрю трек - а там написано - ЗАКАЗ ОТМЕНЁН. Хуясечо&#33; Поняли схему? Озон от имени соседки отменил заказ. Типа они ни при чём. Это клиент паскуда не стал забирать. Так и написано - ОТКАЗ&#33; Вот это да, вот это по нашему. Водила или отгружавший сотрудник... <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3104955.html">Воруют на OZON</a></p></div>
+</div><!--n:ЯПлакал/Воруют на OZON:s:9316933:e:3694-->
+<!----><!--2026-07-28 11:40:43-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Большая подборка фото уличных кошек Стамбула. <br><br>Несколько авторов, по обыкновению, всех подпишу. <br><br> 66 фото<br><br>1-5. Far-Value-9561. <br><br><a href="https://www.yaplakal.com/forum13/topic3104776.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/7/0/8/21155807.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum13/topic3104776.html">Уличные кошки Стамбула — 2</a></p></div>
+</div><!--n:ЯПлакал/Уличные кошки Стамбула 2:s:9320691:e:642-->
+<!----><!--2026-07-28 16:56:58-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Навеянно соседней темой  <a href='https://www.yaplakal.com/forum7/topic3104569.html' target='_blank' class='url-link'>про геморрой</a><br><br>Просто, хочу поделиться схожей проблемой... и почти через тоже самое прошел. В моем случае это был парапроктит. Ну очень похоже...<br><br>В один прекрасный момент начал чувствовать боль между ног. Рукой нащупал прямо таки сильное уплотнение на коже где то недалеко от основной дырки. Как здоровенный прыщ. У меня подобное всакивало, если я в холодную погоду в бассейне где нибудь купался на ногах, в области где заканчивются плавки и как следствие вода высыхала в последнюю очередь... но он проходило быстро. А эта штука болела с каждым днем все сильнее и сильнее...<br><br>Прошло две недели, я понял, что так жить нельзя и пошел к врачу. К проктологу. Врач на эту штуку посмотрел и сказал - &quot;какой же ты терпеливый, две недели с этим ходишь&quot;, взял скальпель, положил на какое-то геникологическое кресло, че то резанул, дал полежать 1 час в палате и отправил домой. Место разреза тупо заклеил пластырем. Диагноз был парапроктит. Я так понял, что тупо надрезали утолщение сверху, вылили гной, промыли и зашили. Доктор меня сразу предупредил - что скорее всего, в 90% случаях потребуется более серьезная операция, т.к. очаг воспаления находится скорее всего глубоко. Теперь нужно следить.<br><br>В общем, где-то три года я ждал пока зарастет само. Однако из того разреза регулярно подкапывала кровь и гной. Из-за непосредственной близости к самому отверстию, на туалетной бумаги я очень часто видел кровь. Три года, Карл&#33; Оно не болело, просто подкапывало иногда.<br>И вот в один прекрасный момент, все таки заболело. Нахожу выписку с прошлой миниоперации и иду в ту же поликлинику.<br><br>Общаясь с врачем, я выдал все тайны, что у меня среди родственников был рак прямой кишки. Сам доктор глядя на все это начал заподозривать так называемую болезнь Крона. Это очень серьезное аутоимунное заболевание, забегая вперед скажу - оно не... <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3104868.html">Не геморрой, но тоже 2.0</a></p></div>
+</div><!--n:ЯПлакал/Не геморрой, но тоже 2.0:s:9321418:e:3690-->
+<!----><!--2026-07-28 13:59:37-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">«Русский продукт» потребовал запретить Nestlé использовать слово «звёздочки» на упаковке макарон. <br><br>Компания утверждает, что права на это название принадлежат её «Суперсупу» с 2017 года — она получила его от Ассоциации делового сотрудничества ветеранов Афганистана. <br><br>Nestlé назвала это недобросовестной конкуренцией и подала встречный иск.<br><br><a href='/go/?https%3A%2F%2Fretailer.ru%2Fproizvoditel-supersupa-so-zvezdochkami-trebuet-ot-nestle-1-mln-rublej%2F%3Fysclid%3Dms4jmsj2j514228988' target='_blank' class='url-link'>Источник</a> <br><br><a href="https://www.yaplakal.com/forum1/topic3104814.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/8/5/2/21156258.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3104814.html">В России началась война за суп со звёздочками</a></p></div>
+</div><!--n:ЯПлакал/В России началась война за суп со звёздочками:s:9325190:e:1281-->
+<!----><!--2026-07-28 22:01:17-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/liven-s-gradom-zastal-vrasplokh-voditelei-v-podmoskove-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/19/6992701/2c0fde06f3c3dd529524496d382f86edd5ae983d.jpg"></a>Ливень с градом застал врасплох водителей в Подмосковье, об этом сообщает Telegram-канал Shot. <p class="titl"><a href="https://moslenta.ru/news/city/liven-s-gradom-zastal-vrasplokh-voditelei-v-podmoskove-28-07-2026.htm">Shot: Водители попали под сильный ливень с градом и ветром в Подмосковье</a></p></div>
+</div><!--n:Мослента/Shot Водители попали под сильный ливень с градом и ветром в Подмосковье:s:9326596:e:745-->
+<!----><!--2026-07-29 08:41:58-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/gadyuka-ukusila-zhenshinu-na-dache-v-podmoskove-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/05/6992726/f5237df37517b1ef18f5da858afbe6f0da1042d4.jpg"></a>Гадюка укусила женщину на даче в Раменском районе Подмосковья, рассказали в областном минздраве. <p class="titl"><a href="https://moslenta.ru/news/lyudi/gadyuka-ukusila-zhenshinu-na-dache-v-podmoskove-29-07-2026.htm">Гадюка укусила женщину на даче в Раменском районе Подмосковья</a></p></div>
+</div><!--n:Мослента/Гадюка укусила женщину на даче в Раменском районе Подмосковья:s:9327511:e:736-->
+<!----><!--2026-07-28 19:53:08-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/psikholog-prizvala-moskvichei-ne-proveryat-telefon-partnera-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/12/6992533/85f435faf9b92305d2458840ad21b1718b9b93f1.jpg"></a>Попытки контролировать вторую половину и регулярно проверять ее телефон говорят не о проблемах в отношениях, а о внутренних переживаниях самого человека. Таким мнением поделилась психолог Елена Соловьева в эфире радиостанции «Говорит Москва». <p class="titl"><a href="https://moslenta.ru/news/lyudi/psikholog-prizvala-moskvichei-ne-proveryat-telefon-partnera-28-07-2026.htm">Психолог Соловьева назвала проверку телефона партнера тревожным сигналом</a></p></div>
+</div><!--n:Мослента/Психолог Соловьева назвала проверку телефона партнера тревожным сигналом:s:9328404:e:1055-->
+<!----><!--2026-07-28 17:11:21-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichka-pozhalovalas-na-postoyannoe-polovoe-vozbuzhdenie-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/12/6992532/95082415e7257be8e9c112070153ec52033d2e15.jpg"></a>Жительница Москвы пожаловалась, что пять лет страдала от синдрома постоянного полового возбуждения. Жалобы девушки на необычный недуг передает Telegram-канал «Москвач». <p class="titl"><a href="https://moslenta.ru/news/city/moskvichka-pozhalovalas-na-postoyannoe-polovoe-vozbuzhdenie-28-07-2026.htm">Москвичка заявила, что 5 лет страдала синдромом постоянного полового возбуждения</a></p></div>
+</div><!--n:Мослента/Москвичка заявила, что 5 лет страдала синдромом постоянного полового возбуждения:s:9329640:e:920-->
+<!----><!--2026-07-29 00:46:41-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-o-silnom-dozhde-nochyu-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/21/6992717/7d7a6571f12df4cfba24f4921be7cdf077c717ce.jpg"></a>Гидрометцентр РФ предупредил москвичей о сильном дожде в ночь на 29 июля, передает ТАСС. <p class="titl"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-o-silnom-dozhde-nochyu-29-07-2026.htm">Гидрометцентр предупредил москвичей о сильном дожде ночью</a></p></div>
+</div><!--n:Мослента/Гидрометцентр предупредил москвичей о сильном дожде ночью:s:9330752:e:707-->
+<!----><!--2026-07-28 18:30:00-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/nazvany-luchshie-mesta-dlya-sbora-ezheviki-v-podmoskove-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/13/6992556/eb951e6fb3f201871094f81dc55853ac5f41b923.jpg"></a>В лесах Подмосковья начала созревать ежевика. Благодаря теплому июлю первые спелые ягоды уже появились на солнечных полянах, а основной урожай ожидается в начале августа. О том, где искать самые удачные места для сбора, рассказал в беседе с REGIONS агроном Сергей Козлов. <p class="titl"><a href="https://moslenta.ru/news/city/nazvany-luchshie-mesta-dlya-sbora-ezheviki-v-podmoskove-28-07-2026.htm">Агроном Сергей Козлов: Ежевика уже поспевает в Серпуховском и Ступинском районах</a></p></div>
+</div><!--n:Мослента/Агроном Сергей Козлов Ежевика уже поспевает в Серпуховском и Ступинском районах:s:9331610:e:1096-->
+<!----><!--2026-07-28 21:53:19-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/nazvana-prichina-dtp-s-avtobusom-v-moskve-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/18/6992698/71623bfb873c578559ea8e64b981d0dd85b97da8.jpg"></a>Причиной ДТП с автобусом в Москве стало ухудшение самочувствия водителя. Об этом сообщает ТАСС со ссылкой на оперативные службы. <p class="titl"><a href="https://moslenta.ru/news/city/nazvana-prichina-dtp-s-avtobusom-v-moskve-28-07-2026.htm">Причиной ДТП с автобусом в Москве стало ухудшение самочувствия водителя</a></p></div>
+</div><!--n:Мослента/Причиной ДТП с автобусом в Москве стало ухудшение самочувствия водителя:s:9332898:e:799-->
+<!----><!--2026-07-28 14:31:53-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvu-zalet-dozhdyami-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/09/6992498/f91a7ab7b3932f9a0c8fd2d380bb020beb290fb5.jpg"></a>В среду, 29 июля, в Москве в течение дня пройдут сильные дожди. Об этом написал в своем Telegram-канале метеоролог, ведущий специалист центра погоды «Фобос» Евгений Тишковец. <p class="titl"><a href="https://moslenta.ru/news/city/moskvu-zalet-dozhdyami-28-07-2026.htm">Тишковец: До 17 литров воды на 1 кв. м выпадет в Москве в среду</a></p></div>
+</div><!--n:Мослента/Тишковец До 17 литров воды на 1 кв. м выпадет в Москве в среду:s:9333873:e:807-->
+<!----><!--2026-07-28 15:43:52-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskovskii-region-stolknulsya-s-nashestviem-skvorcov-28-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/10/6992510/7f4d4e9d1f892691e5b04d8171bd1731a3209df4.jpg"></a>Московский регион столкнулся с нашествием скворцов. Это связано с высокой выживаемостью птенцов в предыдущие годы, обилием корма и благоприятной погодой, рассказали Агентству городских новостей «Москва» опрошенные эксперты. <p class="titl"><a href="https://moslenta.ru/news/city/moskovskii-region-stolknulsya-s-nashestviem-skvorcov-28-07-2026.htm">Нашествие скворцов в Московском регионе объяснили выживаемостью, обилием корма и погодой</a></p></div>
+</div><!--n:Мослента/Нашествие скворцов в Московском регионе объяснили выживаемостью, обилием корма и погодой:s:9334830:e:1033-->
+<!----><!--2026-07-29 00:55:45-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/ograbivshuyu-podmoskovnuyu-pensionerku-zhenshinu-nashli-i-arestovali-spustya-pochti-20-let-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/28/21/6992720/743d4ee31995974400fa281839ef34fc5b5ff28e.jpg"></a>Суд арестовал женщину, которая почти 20 лет назад ограбила пенсионерку в подмосковном Жуковском. Об этом сообщает АГН «Москва» со ссылкой на прокуратуру Московской области. <p class="titl"><a href="https://moslenta.ru/news/lyudi/ograbivshuyu-podmoskovnuyu-pensionerku-zhenshinu-nashli-i-arestovali-spustya-pochti-20-let-29-07-2026.htm">Прокуратура: Женщина арестована за ограбление пенсионерки в 2007 году в Жуковском</a></p></div>
+</div><!--n:Мослента/Прокуратура Женщина арестована за ограбление пенсионерки в 2007 году в Жуковском:s:9336072:e:993-->
+<!----><!--2026-07-29 14:15:11-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><p>Ученые <a href="https://rscf.ru/news/release/neyroseti-okazalis-altruistichnee-lyudey-v-finansovykh-voprosakh/" rel="noopener noreferrer nofollow">установили</a>, что&nbsp;популярные нейросети чаще принимают более альтруистичные решения, чем люди, в&nbsp;задачах с&nbsp;распределением ресурсов. Исследователи из&nbsp;Национального исследовательского университета «Высшая школа экономики» в&nbsp;Перми проанализировали поведение десяти крупных нейросетей из&nbsp;США, Китая и... <p class="titl"><a href="https://habr.com/ru/news/1064554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064554">Учёные выявили более высокую альтруистичность нейросетей по сравнению с людьми в эксперименте по распределению ресурсов</a></p></div>
+</div><!--n:Хабр/Учёные выявили более высокую альтруистичность нейросетей по сравнению с людьми в эксперименте по распределению ресурсов:s:9337254:e:1194-->
+<!----><!--2026-07-29 14:50:37-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/656/644/84f/65664484fdcff9ba8c4e952c06a9ff65.jpg" /><p>Для&nbsp;Sega Dreamcast по‑прежнему выходят новые игры, хотя сама консоль не&nbsp;поддерживается уже 25&nbsp;лет. По <a href="https://www.engadget.com/2222199/sega-dreamcast-console-new-games/" rel="noopener noreferrer nofollow">данным </a>Engadget, самый новый проект запланирован на 2026&nbsp;год. Игра называется <a... <p class="titl"><a href="https://habr.com/ru/news/1064550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064550">Для Sega Dreamcast выходят новые игры, хотя консоль не поддерживается 25 лет</a></p></div>
+</div><!--n:Хабр/Для Sega Dreamcast выходят новые игры, хотя консоль не поддерживается 25 лет:s:9338708:e:913-->
+<!----><!--2026-07-29 14:15:34-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/a7a/3ae/f71/a7a3aef71feb25c1e134da8806290c12.jpg" /><p>Власти Нью‑Йорка <a href="https://cybernews.com/news/new-york-algorithmic-feeds-age-verification/" rel="noopener noreferrer nofollow">введут </a>обязательное подтверждение возраста для&nbsp;доступа к&nbsp;TikTok и другим сервисам с&nbsp;лентами, составленными алгоритмом. Несовершеннолетним такие ленты будут доступны только при&nbsp;согласии... <p class="titl"><a href="https://habr.com/ru/news/1064536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064536">Нью‑Йорк ограничит персонализированные ленты для подростков</a></p></div>
+</div><!--n:Хабр/Нью Йорк ограничит персонализированные ленты для подростков:s:9339781:e:971-->
+<!----><!--2026-07-29 19:08:20-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/1666_amsterdam/news/novyj_trejler_1666_amsterdam_posvyaschyon_dvum_glavnym_geroyam_odin_iz_nih_kot-1863040#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/Shk9BKJxrpkb5wZlPqd-ZA.jpeg"></a>Panache Digital Games выпустила новый геймплейный трейлер к своей предстоящей приключенческой игре 1666: Amsterdam, который посвящён двум главным героям и их необычной связи. <p class="titl"><a href="https://www.playground.ru/1666_amsterdam/news/novyj_trejler_1666_amsterdam_posvyaschyon_dvum_glavnym_geroyam_odin_iz_nih_kot-1863040#utm_source=rss&utm_medium=referral&utm_campaign=news">Новый трейлер 1666: Amsterdam посвящён двум главным героям, один из них - кот</a></p></div>
+</div><!--n:PlayGround.ru/Новый трейлер 1666 Amsterdam посвящён двум главным героям, один из них - кот:s:9340899:e:1009-->
+<!----><!--2026-07-29 18:50:27-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/star_citizen/news/v_star_citizen_fri_flayu_byt_razrabotchiki_otkroyut_besplatnyj_dostup_29_07_v_19_00_po_msk-1863029#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/3aTL2qTZRERDVg4Vz9Db3Q.png"></a>Сегодня в 19:00 по Московскому времени стартует бесплатный доступ в игру. Для этого достаточно зарегистрировать аккаунт, если его у вас ещё нет и скачать клиент. <p class="titl"><a href="https://www.playground.ru/star_citizen/news/v_star_citizen_fri_flayu_byt_razrabotchiki_otkroyut_besplatnyj_dostup_29_07_v_19_00_po_msk-1863029#utm_source=rss&utm_medium=referral&utm_campaign=news">В Star Citizen "Фри флаю" быть. Разработчики откроют бесплатный доступ 29.07 в 19:00 по МСК</a></p></div>
+</div><!--n:PlayGround.ru/В Star Citizen Фри флаю быть. Разработчики откроют бесплатный доступ 29.07 в 19 00 по МСК:s:9342074:e:1045-->
+<!----><!--2026-07-29 19:05:58-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/heroes_of_might_magic_olden_era/news/heroes_of_might_and_magic_olden_era_poluchit_pervyj_ofitsialnyj_turnir_razrabotchiki_podderzhali_initsiativu_soobschestva-1863037#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/nU2cc0eOXZuRvJW00Xbj7A.jpeg"></a>Студия Unfrozen совместно с Behemoth's Lair, Ubisoft и Hooded Horse объявила о проведении первого официального турнира по Heroes of Might and Magic: Olden Era. Соревнование под названием The Alvari Cup стартует уже 1 августа и... <p class="titl"><a href="https://www.playground.ru/heroes_of_might_magic_olden_era/news/heroes_of_might_and_magic_olden_era_poluchit_pervyj_ofitsialnyj_turnir_razrabotchiki_podderzhali_initsiativu_soobschestva-1863037#utm_source=rss&utm_medium=referral&utm_campaign=news">Heroes of Might and Magic: Olden Era получит первый официальный турнир - разработчики поддержали инициативу сообщества</a></p></div>
+</div><!--n:PlayGround.ru/Heroes of Might and Magic Olden Era получит первый официальный турнир - разработчики поддержали инициативу сообщества:s:9343302:e:1238-->
+<!----><!--2026-07-29 18:54:15-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/ascent/news/v_chest_5_j_godovschiny_the_ascent_poluchit_krupnoe_obnovlenie_v_noyabre_kiberpank_shuter_privlyok_12_millionov_igrokov-1863032#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/H17qCRXxRJs22Q2ZvQS7Ig.png"></a>Компания Krafton и шведская студия Neon Giant объявили о выходе крупного обновления для The Ascent, киберпанк-экшен-RPG 2021 года. Обновление, выход которого запланирован на ноябрь, обещает ряд улучшений, которые сделают игру "более плавной и надёжной как... <p class="titl"><a href="https://www.playground.ru/ascent/news/v_chest_5_j_godovschiny_the_ascent_poluchit_krupnoe_obnovlenie_v_noyabre_kiberpank_shuter_privlyok_12_millionov_igrokov-1863032#utm_source=rss&utm_medium=referral&utm_campaign=news">В честь 5-й годовщины The Ascent получит крупное обновление в ноябре - киберпанк-шутер привлёк 12 миллионов игроков</a></p></div>
+</div><!--n:PlayGround.ru/В честь 5-й годовщины The Ascent получит крупное обновление в ноябре - киберпанк-шутер привлёк 12 миллионов игроков:s:9344770:e:1295-->
+<!----><!--2026-07-29 18:53:11-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/novyj_patch_dlya_yadra_linux_povyshaet_proizvoditelnost_protsessorov_amd_do_31-1863031#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/I_p95zuO9BHVUFKTrzXP1Q.png"></a>Разработчик Дэвид Вернет отправил в список рассылки ядра Linux новый набор патчей, который может значительно улучшить производительность процессоров AMD в играх. Ключевая функция - epp_boost для драйвера AMD P-State - позволяет динамически повышать производительность отдельных... <p class="titl"><a href="https://www.playground.ru/misc/news/novyj_patch_dlya_yadra_linux_povyshaet_proizvoditelnost_protsessorov_amd_do_31-1863031#utm_source=rss&utm_medium=referral&utm_campaign=news">Новый патч для ядра Linux повышает производительность процессоров AMD до 31%</a></p></div>
+</div><!--n:PlayGround.ru/Новый патч для ядра Linux повышает производительность процессоров AMD до 31:s:9346305:e:1194-->
+<!----><!--2026-07-29 00:01:15-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amkZgNhFcWJJAsaP">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a691980d84571624902c68f_6a691981ce80463f120f790c/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amkZgNhFcWJJAsaP"><span class="inlbl">"Альфа" - значит первый</span></a>
+    <i class="trow smaller2"><span class="inlbl">РОССИЙСКАЯ ГАЗЕТА</span></i>
+    <i class="trow smaller3">2026-07-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">В канун дня образования группы "А" КГБ СССР - "Альфа" (сейчас - Управление "А" ЦСН ФСБ России) ее легендарный командир - Герой Советского Союза генерал-майор ФСБ Геннадий Зайцев в интервью "Российской газете" рассказал о том, как боролись с терроризмом в ХХ веке и о противодействии этому явлению в настоящее время. Геннадий Николаевич, вы принимали участие в защите интересов страны на внешних рубежах, в том числе в операциях, многие из которых остаются под грифом "секретно". Могли бы вы поделиться...</div>
+</div><!--n:Дзен/Альфа - значит первый:s:9347670:e:1581-->
+<!----><!--2026-07-16 12:14:17-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/alf0QOlesXXlzFy8">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a57f440e95eb175e5cc5cbc_6a57f7c50369742cdfc7bf35/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/alf0QOlesXXlzFy8"><span class="inlbl">Автомат, 4х4, признание в Европе. Почему россияне не раскупают Москвич М70?</span></a>
+    <i class="trow smaller2"><span class="inlbl">ЗАТО НЕ В КРЕДИТ</span></i>
+    <i class="trow smaller3">2026-07-16</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Много у меня уже написано статей о «приключениях» столичного автозавода «Москвич». Правда, вернее было бы использовать слово злоключения. Потому что с момента своего возрождения в 2022-ом году бывший некогда АЗЛК пока так и не смог выйти на окупаемость. Откуда мы это знаем? Я уже много раз давал ссылку на слова генерального директора КамАЗа Сергея Когогина, который упоминал, что порог окупаемости для «Москвича» - это порядка 40 тысяч проданных машин в год. А лучший результат на сегодняшний день за все прошедшие годы — это немногим более 20 тысяч единиц пару лет назад...</div>
+</div><!--n:Дзен/Автомат, 4х4, признание в Европе. Почему россияне не раскупают Москвич М70:s:9349325:e:1805-->
+<!----><!--2026-07-26 11:27:20-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amW5v6UsRDiqNTVa">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a65b9bfa52c4438aa35355a_6a65c367d29c014a1b038320/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amW5v6UsRDiqNTVa"><span class="inlbl">"Священная дорога" - один из самых напряжённых триллеров, которые я видел</span></a>
+    <i class="trow smaller2"><span class="inlbl">35 MM</span></i>
+    <i class="trow smaller3">2026-07-26</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Есть один сюжетный ход, который безотказно работает в кино уже много десятилетий: ночной звонок от ребёнка, который случайно совершил что-то непоправимое. Режиссёр Бабак Анвари, уже доказавший в своих прошлых работах умение превращать бытовые ситуации в источник настоящего ужаса, строит на этом простейшем приёме весь фильм... и не прогадывает. Два часа ночи. В доме ещё витает эхо недавней семейной ссоры. Нетронутый ужин на столе, осколки стекла на полу. Мэдди просыпается от назойливого писка датчика дыма с севшей батарейкой...</div>
+</div><!--n:Дзен/Священная дорога - один из самых напряжённых триллеров, которые я видел:s:9351297:e:1709-->
+<!----><!--2026-07-26 02:25:18-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amU_f9KcAUobgLG2">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a653f7fd29c014a1b80b1b6_6a6543ee9829680cc031f89d/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amU_f9KcAUobgLG2"><span class="inlbl">12 вещей из 70-х, 80-х и 90-х, которые снова в моде. А у вас они, возможно, ещё...</span></a>
+    <i class="trow smaller2"><span class="inlbl">MODNAYA PLUSHKA</span></i>
+    <i class="trow smaller3">2026-07-26</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Девочки, привет! Пересматривала показы на осень и поймала себя на мысли: насколько же сейчас актуальна мода прошедших десятилетий. Мы все это видели: у мамы, у бабушки... Мода сделала круг, и главной героиней осени может стать не новая вещь, а та, что лежит на антресолях. Собрала 12 таких вещей. Все фото в статье с последних показов: Celine, Chloé, Miu Miu, Isabel Marant, Magda Butrym. Так что это не мои фантазии, а то, что дизайнеры прямо сейчас выводят на подиум. Проверяйте по списку, что у вас уже есть! Начну с аксессуара, который мы незаслуженно забыли...</div>
+</div><!--n:Дзен/12 вещей из 70-х, 80-х и 90-х, которые снова в моде. А у вас они, возможно, ещё лежат в шкафу:s:9353172:e:1714-->
+<!----><!--2026-07-27 16:43:50-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amdevs-0jXmtnSpY">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a675ebecfb48d79ad9d2a58_6a675f019829680cc07cd3bd/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amdevs-0jXmtnSpY"><span class="inlbl">Россия развивает низкоорбитальную спутниковую группировку — аналог Starlink</span></a>
+    <i class="trow smaller2"><span class="inlbl">ДМИТРИЙ ПУЧКОВ</span></i>
+    <i class="trow smaller3">2026-07-27</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Россия во все времена славилась тем, что запрягает долго, но едет быстро. Откровенно профукав добрый десяток лет в космической гонке Илону Маску, сегодня Россия лихорадочно наверстывает упущенное.  И, надо признать, добивается определенных успехов. На прошедшей неделе сообщили, что российская аэрокосмическая компания «Бюро 1440» провела второй пакетный запуск спутников низкоорбитальной группировки «Рассвет» — аналога американской спутниковой группировки Starlink. 23 марта «Бюро 1440» запустило первые шестнадцать спутников...</div>
+</div><!--n:Дзен/Россия развивает низкоорбитальную спутниковую группировку аналог Starlink:s:9355073:e:1730-->
+<!----><!--2026-07-22 17:36:48-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amDWjcpc2E9VTo69">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a60d68dca5cd84f554e8ebd_6a60d68dce03482d108f88e6/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amDWjcpc2E9VTo69"><span class="inlbl">Ученые восстановили последний день якутского мамонтенка Яны</span></a>
+    <i class="trow smaller2"><span class="inlbl">HI-TECH MAIL</span></i>
+    <i class="trow smaller3">2026-07-22</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Самый древний из известных хорошо сохранившихся детенышей мамонта, обнаруженный в Якутии, оказался своеобразным «архивом» растительности своего времени. Исследователи изучили микроскопические остатки растений и других организмов из желудка, слепой, толстой и прямой кишки мумии, а также материал, сохранившийся между прижатыми к туловищу передними конечностями. Речь идет о мамонтенке Яне — самке Mammuthus primigenius возрастом примерно 14–16 месяцев. Ее нашли в июне 2024 года жители поселка Батагай в стенке одноименного разреза на глубине около 30 метров...</div>
+</div><!--n:Дзен/Ученые восстановили последний день якутского мамонтенка Яны:s:9356971:e:1735-->
+<!----><!--2026-07-29 00:00:51-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amhhPWMDi0dGyYP6">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a68613d63038b4746c983fa_6a686de8a7fa8c03787c25dc/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amhhPWMDi0dGyYP6"><span class="inlbl">Пулены: что скрывает забавная средневековая обувь?</span></a>
+    <i class="trow smaller2"><span class="inlbl">ARTS_TOBE - ПРОСТО ОБ ИСКУССТВЕ</span></i>
+    <i class="trow smaller3">2026-07-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Пулены — пожалуй, самый экстравагантный и загадочный обувной тренд в истории человечества. Их история — это синтез рыцарского символизма, социальной конкуренции, сексуального подтекста и анатомических страданий.  Некоторые элементы гардероба специально создавались неудобными для того, чтобы все вокруг понимали: этот человек создан не для физического труда. Но в случае с пуленами все не так просто и гораздо интереснее. Вопреки расхожему мнению, мода на длинный нос родилась не просто забавы ради. Английское название этой обуви — crakows (краковы) — прямо указывает на географический источник...</div>
+</div><!--n:Дзен/Пулены что скрывает забавная средневековая обувь:s:9358854:e:1838-->
+<!----><!--2026-07-29 19:14:59-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Вот вы учились на кого то и вас гоняли по теории, а потом вы столкнулись с практикой и мне бы хотелось узнать, как вам сильно приходилось, буквально на ходу, переучиваться. Потому что на месте работы все совсем по другому.<br><br>А с моей стороны своя история.<br><br>После армии хотел пойти на водителя автобуса, была у меня мечта детства. <br><br>Но так сложилось, что пошел учиться на водителя самого сексуального транспорта - троллейбус.<br><br>И нас, как в школе, дрочили по устройству троллейбуса: из чего он состоит и ... все.<br><br>Гоняли по технике эксплуатации и очень сильно гоняли по ПДД.<br><br>Я могу ошибаться, но теория заняла что то около трех месяцев.<br><br>Потом пошла практика, когда с тобой катается наставник. Сначала без пассажиров, потом с пассажирами.<br><br>Рассказываю так долго, чтобы вы поняли как много теория отнимала время.<br><br>И на главном экзамене, когды ты с начальством по две три остановки проезжаешь и показываешь чему ты научился..<br><br>... и на этом экзамене один полностью &quot;проваливается&quot;, чуть не задавив какую то бубушку. Его выгоняют. <br><br>Тут можно отдельную тему написать про то, как работал отдел кадров. <br><br>Я коротко скажу: берут всех подряд, если с документами норм. Пусть ты дебил и тебе водить категорически нельзя, но если с документами в порядке - можно.<br><br>Теперь к сути, то есть к практике.<br><br>Все, чему меня учили, вообще не пригодилось.<br><br>ПДД, с его тонной информации, нафиг не нужны. Лучше бы сосредоточились на том, как проезжать перекрестки и по кольцевой. Пару знаков: главная дорога, уступи дорогу и несколько правил по разметке. И где парковаться нельзя.<br><br>ВСЁ&#33; Остальное нахер никому не нужно на практике. Сколько там метров от и до - никто один хрен не соблюдает.<br><br>Я стажировался на обновленной моделе ЗиУ-9  с нормальными педалями и с нормальным прогревом стекол. <br><br>На старых моделях педали были как бы на весу, а не от пола и тены электрические возле лобовых стекол.... <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3105215.html">Теория VS Практика на работе - или rак я учился на водителя троллейбуса</a></p></div>
+</div><!--n:ЯПлакал/Теория VS Практика на работе - или rак я учился на водителя троллейбуса:s:9360819:e:3784-->
+<!----><!--2026-07-29 21:17:16-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">В связи с сокращением, состою на бирже труда. <br><br>Для получения пособия по безработице максимально платят всего  3 мес  по 18500 руб, и необходимо зарегаться на портале &quot;Работа России&quot;. <br><br>Листаю вакансии в Челябинске, радуюсь уровню зарплат в родном миллионном городе : <br><br><a href="https://www.yaplakal.com/forum2/topic3105249.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/3/8/6/21159683.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3105249.html">Работа в России</a></p></div>
+</div><!--n:ЯПлакал/Работа в России:s:9364771:e:887-->
+<!----><!--2026-07-29 20:15:53-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">В Куйбышеве, на улице Куйбышева, стоял магазин ЗОРКИЙ.<br><br>Там мне, еще пацану, сестренка со своей зарплаты (она была старше меня на 10 лет) купила мой первый фотоаппарат АГАТ 18. И фотоувелечитель ЮНОСТЬ.<br><br>И была у этого АГАТА 18 особенность: делать из 36-кадровой пленки целых 72 кадра и это, как оказалось, был огромный минус.<br><br>Потому что отщелкать 72 кадра было утомительно долго и зачастую, не выдержав, отщелкивал половину и бежал проявлять.<br><br>Помнит кто, как в темноте под углом накручивал фотопленку в бочке для проявления пленки. Чтобы пленка была на расстоянии и не прилипала. Неправильно накрутил и все - пропали кадры. Засветил - тоже прощай время и деньги.<br><br>Крутили в полной темноте. Красный свет работал только, когда ты уже печатал фотографии.<br><br>А фотографии выходили, как обычно, пересвеченные. Но зато свои собственные.<br><br>Вот было увлечение так увлечение.<br><br>Бродишь по району и не знаешь что сфотографировать. Ведь у него не было стационарной фотовспышки и фоткать можно было только на улице. <br>И вот тут поправьте меня, у кого был такой. Вроде был разьем для фотовспышки у него или нет?<br><br>Купи пленку с правильной светочувствительностью. Проявитель в виде кристаллов, как и фиксж. Разбавь в теплой водичке, залей в ваночку и жди чуда.<br><br>А потом вешаешь на вервках и ждешь, когда просохнет. Бумага глянцевая, матовая. Даже были обрезаторы, чтобы края фотографий были с узором.<br><br>И, конечно же, толстенные фотоальбомы, а то и несколько. И приходят к тебе в гости и ты достаешь это архив и рассказываешь: вот тут я с тем то и тем то. А вот это тот то. <br><br><a href="https://www.yaplakal.com/forum7/topic3105234.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/6/2/5/21159526.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3105234.html">Запах фиксажа и проявителя. Красный свет и 36 кадров</a></p></div>
+</div><!--n:ЯПлакал/Запах фиксажа и проявителя. Красный свет и 36 кадров:s:9365727:e:3303-->
+<!----><!--2026-07-29 15:56:57-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/chelovek-pogib-pri-padenii-lifta-v-moskve-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/11/6992853/b8863fe52a85ea932d11adc43e7db3554462ea0a.jpg"></a>Один человек погиб в результате падения лифта в жилом доме Москвы. Об этом сообщает Агентство городских новостей «Москва» со ссылкой на источник. <p class="titl"><a href="https://moslenta.ru/news/city/chelovek-pogib-pri-padenii-lifta-v-moskve-29-07-2026.htm">На востоке Москвы при падении лифта погиб рабочий</a></p></div>
+</div><!--n:Мослента/На востоке Москвы при падении лифта погиб рабочий:s:9369165:e:788-->
+<!----><!--2026-07-29 20:29:09-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/mukhomor-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/17/6993051/7f2dee84d727e4e563c07e8b8c6f9d45ffcf6ed2.jpg"></a>Спортсмен потерял сознание на утренней пробежке после употребления мухоморов для наращивания мышц. Медики НИИ скорой помощи имени Склифосовского спасли его, говорится в Telegram-канале медучреждения. <p class="titl"><a href="https://moslenta.ru/news/lyudi/mukhomor-29-07-2026.htm">В Москве врачи спасли спортсмена, который употреблял мухоморы для наращивания мышц</a></p></div>
+</div><!--n:Мослента/В Москве врачи спасли спортсмена, который употреблял мухоморы для наращивания мышц:s:9370087:e:882-->
+<!----><!--2026-07-30 08:23:24-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-podmoskove-sobaka-pomogla-volonteram-naiti-telo-ubitoi-khozyaiki-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/05/6993074/8779b4797dfb02106cb0bb9c741107b32b6fd80a.jpg"></a>В Одинцовском городском округе собака помогла волонтерам обнаружить тело убитой хозяйки. Об этом сообщают «Известия». <p class="titl"><a href="https://moslenta.ru/news/city/v-podmoskove-sobaka-pomogla-volonteram-naiti-telo-ubitoi-khozyaiki-30-07-2026.htm">«Известия»: В Подмосковье волонтеры обнаружили тело пропавшей девушки благодаря ее собаке</a></p></div>
+</div><!--n:Мослента/Известия В Подмосковье волонтеры обнаружили тело пропавшей девушки благодаря ее собаке:s:9371165:e:865-->
+<!----><!--2026-07-29 14:35:42-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/bandu-lzhepoliceiskikh-zaderzhali-v-moskve-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/10/6992850/cf7871c9698a84697850e005f6ae7b6e8807123b.jpg"></a>В Москве задержали банду из троих мужчин, которых подозревают в вымогательстве денег под видом сотрудников полиции. По данным Mash, среди фигурантов есть двое бывших полицейских. <p class="titl"><a href="https://moslenta.ru/news/city/bandu-lzhepoliceiskikh-zaderzhali-v-moskve-29-07-2026.htm">В Москве задержали банду лжеполицейских, вымогавших деньги у студентов</a></p></div>
+</div><!--n:Мослента/В Москве задержали банду лжеполицейских, вымогавших деньги у студентов:s:9372235:e:887-->
+<!----><!--2026-07-30 06:46:25-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichi-uvidyat-zvezdopad-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/03/6993071/9e7e968b5499fb9f33da784b74b987f4926f79f9.jpg"></a>Москвичи в ближайшие дни смогут увидеть звездопад. Об этом сообщил ведущий научный сотрудник Института космических исследований (ИКИ РАН), кандидат технических наук Натан Эйсмонт, передает Telegram-канал «Осторожно, Москва». <p class="titl"><a href="https://moslenta.ru/news/city/moskvichi-uvidyat-zvezdopad-30-07-2026.htm">В Москве ожидается звездопад 30-31 июля</a></p></div>
+</div><!--n:Мослента/В Москве ожидается звездопад 30-31 июля:s:9373296:e:876-->
+<!----><!--2026-07-29 19:17:56-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/italyanec-udivilsya-deistviyu-muzhchiny-vozle-vokzala-v-moskve-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/10/6992805/9df2e1904c37c22ecf78a54eef7faed8275d05d6.jpg"></a>Гражданин Италии, приехавший в Москву, удивился действию мужчины возле Павелецкого вокзала. Соответствующее видео опубликовал в Instagram (принадлежит компании Meta, признанной экстремистской организацией и запрещенной в РФ) сын иностранца. <p class="titl"><a href="https://moslenta.ru/news/lyudi/italyanec-udivilsya-deistviyu-muzhchiny-vozle-vokzala-v-moskve-29-07-2026.htm">Итальянец восхитился чистотой в Москве</a></p></div>
+</div><!--n:Мослента/Итальянец восхитился чистотой в Москве:s:9374283:e:979-->
+<!----><!--2026-07-30 04:39:03-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvich-vyzval-spasatelei-iz-za-poyasa-vernosti-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/01/6993064/661c9f068c2fc8207fa617370400fb484b0d0143.jpg"></a>В Москве студенту пришлось вызывать спасателей из-за пояса верности. Об этом пишет Telegram-канал Shot. <p class="titl"><a href="https://moslenta.ru/news/city/moskvich-vyzval-spasatelei-iz-za-poyasa-vernosti-30-07-2026.htm">Shot: В Москве застрявшему в поясе верности студенту понадобилась помощь спасателей</a></p></div>
+</div><!--n:Мослента/Shot В Москве застрявшему в поясе верности студенту понадобилась помощь спасателей:s:9375377:e:772-->
+<!----><!--2026-07-29 17:52:44-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/sadovoe-kolco-perekroyut-1-avgusta-iz-za-velofestivalya-i-gonki-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/11/6992857/572ee12a1405fdd2d221e240fc6668b02f1be4f1.jpg"></a>Движение на Садовом кольце и прилегающих улицах будет временно закрыто 1 августа в связи с проведением Ночного велофестиваля и велогонки «Вечернее Садовое кольцо». Дептранс Москвы сообщил, что ограничения вступят в силу с 00:01 1 августа и продлятся до раннего утра 2 августа на ряде участков в центре столицы. <p class="titl"><a href="https://moslenta.ru/news/city/sadovoe-kolco-perekroyut-1-avgusta-iz-za-velofestivalya-i-gonki-29-07-2026.htm">Движение на Садовом кольце закроют 1 августа в 15:00 из-за велогонки</a></p></div>
+</div><!--n:Мослента/Движение на Садовом кольце закроют 1 августа в 15 00 из-за велогонки:s:9376342:e:1155-->
+<!----><!--2026-07-29 13:11:54-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/pochti-tonnu-nelegalnogo-kamchatskogo-kraba-nashli-v-moskve-29-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/10/6992773/b912e261237d80e3118c4d0e647b36023f3681f5.png"></a>Найдена почти тонна нелегального камчатского краба, который перерабатывали в цехе в подмосковном Долгопрудном и продавали в ресторанах и кафе Москвы, сообщила представитель МВД РФ Ирина Волк. <p class="titl"><a href="https://moslenta.ru/news/lyudi/pochti-tonnu-nelegalnogo-kamchatskogo-kraba-nashli-v-moskve-29-07-2026.htm">Почти тонну нелегального камчатского краба нашли и изъяли в Москве</a></p></div>
+</div><!--n:Мослента/Почти тонну нелегального камчатского краба нашли и изъяли в Москве:s:9377660:e:945-->
+<!----><!--2026-07-30 01:12:51-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-moskve-sportkar-ochutilsya-v-podzemnom-perekhode-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/29/22/6993061/f4b6762aeb32f4a2f3092ea65dbe879d227e7266.jpg"></a>В Москве автомобиль Ford Mustang въехал в подземный переход после столкновения с другой машиной. Происшествие попало на видео, его публикует Telegram-канал «112». <p class="titl"><a href="https://moslenta.ru/news/city/v-moskve-sportkar-ochutilsya-v-podzemnom-perekhode-30-07-2026.htm">В Москве Mustang столкнулся с машиной и вылетел на лестницу у выхода из метро «Домодедовская»</a></p></div>
+</div><!--n:Мослента/В Москве Mustang столкнулся с машиной и вылетел на лестницу у выхода из метро Домодедовская:s:9378771:e:890-->
+<!----><!--2026-07-29 19:02:31-->
+<div class="yb">
+  <div class="rss mw_f scroll prosto_linux">Ubuntu Kylin 26.04 LTS — это официальная редакция Ubuntu, разработанная специально для китайскоязычных пользователей. Проект создан совместно компанией Canonical и Центром развития программного обеспечения и интегральных схем Китая (CSIP). В Китае этот дистрибутив широко используется в государственных учреждениях, образовании и корпоративной среде. В отличие от стандартной Ubuntu с GNOME, Ubuntu Kylin предлагает собственное окружение рабочего [&#8230;]
+<p><a href="https://prosto-linux.ru/ubuntu-kylin-26-04-ustanovka-i-obzor-oficzialnoj-kitajskoj-redakczii-ubuntu.html" rel="nofollow">Источник</a></p> <p class="titl"><a href="https://prosto-linux.ru/ubuntu-kylin-26-04-ustanovka-i-obzor-oficzialnoj-kitajskoj-redakczii-ubuntu.html">Ubuntu Kylin 26.04: установка и обзор официальной китайской редакции Ubuntu</a></p></div>
+</div><!--n:Prosto Linux/Ubuntu Kylin 26.04 установка и обзор официальной китайской редакции Ubuntu:s:9379865:e:1305-->
+<!----><!--2026-07-30 13:02:54-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><p>Онлайн-сервис для управления бизнесом Битрикс24 вводит обязательную двухфакторную аутентификацию (2FA) для компаний, работающих на облачных тарифахе «Профессиональный» и «Энтерпрайз». После активации требования каждый сотрудник портала будет подтверждать вход вторым фактором — одноразовым кодом или push-уведомлением.&nbsp;</p> <a href="https://habr.com/ru/articles/1064968/#habracut">Читать далее</a> <p class="titl"><a href="https://habr.com/ru/news/1064968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064968">Битрикс24 делает двухфакторную аутентификацию обязательной для клиентов на тарифах «Энтерпрайз» и «Профессиональный»</a></p></div>
+</div><!--n:Хабр/Битрикс24 делает двухфакторную аутентификацию обязательной для клиентов на тарифах Энтерпрайз и Профессиональный:s:9381327:e:1130-->
+<!----><!--2026-07-30 14:09:48-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/74c/d16/420/74cd16420100bb660b7514cf0906e453.jpg" /><p>Несмотря на&nbsp;то, что&nbsp;ещё в&nbsp;апреле 2024&nbsp;года вступил в&nbsp;силу закон о&nbsp;недискриминационном доступе интернет‑провайдеров в&nbsp;многоквартирные дома, управляющие компании продолжают чинить препятствия. Минцифры регулярно направляет в&nbsp;прокуратуру обращения граждан и операторов, связанные с&nbsp;проблемами подключения жителей... <p class="titl"><a href="https://habr.com/ru/news/1064992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064992">За недопуск провайдеров в дома УК начали привлекать к ответственности</a></p></div>
+</div><!--n:Хабр/За недопуск провайдеров в дома УК начали привлекать к ответственности:s:9382704:e:1094-->
+<!----><!--2026-07-30 14:27:34-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/0d1/a7a/0c8/0d1a7a0c8c1d9ea83243d5b30581fa84.jpg" /><p>Данные о здоровье — специальная категория персональных данных, и закон спрашивает за них строже всего. Одна ошибка в хранении обходится дороже, чем грамотно выстроенный процесс: оборотные штрафы, репутация, доверие пациентов, которое не купить обратно. А медицина оцифровывается всё быстрее — и рано или поздно упирается в вопрос: строить свою защищённую... <p class="titl"><a href="https://habr.com/ru/companies/cloud4y/news/1064998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064998">Как хранить медицинские данные и не строить свой ЦОД</a></p></div>
+</div><!--n:Хабр/Как хранить медицинские данные и не строить свой ЦОД:s:9383963:e:1110-->
+<!----><!--2026-07-30 18:50:13-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/v_steam_poyavilas_stranitsa_ekshen_rpg_eldrem_kingdoms_pro_kollektsionirovanie_suschestv-1863279#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/TIqzgok8xMSOeM6DeqQ2-Q.png"></a>Студия Eldrem Studios открыла страницу в Steam для своей дебютной экшен-RPG под названием Eldrem: Kingdoms. Проект переносит игроков в фэнтезийный мир парящих островов Crystal Sky Islands, где ключевой особенностью геймплея станет заимствование магических способностей у... <p class="titl"><a href="https://www.playground.ru/misc/news/v_steam_poyavilas_stranitsa_ekshen_rpg_eldrem_kingdoms_pro_kollektsionirovanie_suschestv-1863279#utm_source=rss&utm_medium=referral&utm_campaign=news">В Steam появилась страница экшен-RPG Eldrem: Kingdoms про коллекционирование существ</a></p></div>
+</div><!--n:PlayGround.ru/В Steam появилась страница экшен-RPG Eldrem Kingdoms про коллекционирование существ:s:9385205:e:1179-->
+<!----><!--2026-07-30 18:46:33-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/blanka_byot_tokom_kak_v_igre_novyj_otryvok_iz_filma_street_fighter_pokazali_kultovye_priyomy_geroya-1863277#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/0-t_OCsCQLc3BGVSJLkFdg.jpeg"></a>Создатели экранизации Street Fighter представили новые кадры из фильма, впервые подробно показав поединок между Рю и Бланкой. Судя по опубликованным сценам, авторы не только воспроизводят культовые образы персонажей, но и активно переносят в кино знаковые... <p class="titl"><a href="https://www.playground.ru/misc/news/blanka_byot_tokom_kak_v_igre_novyj_otryvok_iz_filma_street_fighter_pokazali_kultovye_priyomy_geroya-1863277#utm_source=rss&utm_medium=referral&utm_campaign=news">Бланка бьёт током как в игре: новый отрывок из фильма Street Fighter показали культовые приёмы героя</a></p></div>
+</div><!--n:PlayGround.ru/Бланка бьёт током как в игре новый отрывок из фильма Street Fighter показали культовые приёмы героя:s:9386559:e:1247-->
+<!----><!--2026-07-30 19:15:27-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/american_truck_simulator/news/novye_skrinshoty_iz_buduschego_dlc_yuzhnaya_dakota_dlya_american_truck_simulator_su_fols-1863284#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/StiVqhOKlxQ_ckbxFtpzSQ.jpeg"></a>Разработчики SCS Software показали Су-Фолс, крупнейший город Южной Дакоты и один из главных объектов грядущего дополнения South Dakota для American Truck Simulator. Независимо от того, занимаетесь ли вы перевозкой грузов или просто наслаждаетесь поездкой, этот... <p class="titl"><a href="https://www.playground.ru/american_truck_simulator/news/novye_skrinshoty_iz_buduschego_dlc_yuzhnaya_dakota_dlya_american_truck_simulator_su_fols-1863284#utm_source=rss&utm_medium=referral&utm_campaign=news">Новые скриншоты из будущего DLC Южная Дакота для American Truck Simulator - Су-Фолс</a></p></div>
+</div><!--n:PlayGround.ru/Новые скриншоты из будущего DLC Южная Дакота для American Truck Simulator - Су-Фолс:s:9388017:e:1199-->
+<!----><!--2026-07-30 18:42:36-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/silicone_heart/news/avtory_silicone_heart_razorvali_kontrakt_s_izdatelem_i_otpravyat_igru_v_rannij_dostup_posle_provala_na_kickstarter-1863276#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/T5zyzdEHpoxpXdW1SUWPTA.png"></a>Разработка пиксельной киберпанк-фермы Silicone Heart от студии Garden of Dreams столкнулась с серьезными финансовыми трудностями и масштабным переосмыслением концепции. Студия официально разорвала сотрудничество с издателем Crytivo после завершения краудфандинговой кампании на Kickstarter. Несмотря на то... <p class="titl"><a href="https://www.playground.ru/silicone_heart/news/avtory_silicone_heart_razorvali_kontrakt_s_izdatelem_i_otpravyat_igru_v_rannij_dostup_posle_provala_na_kickstarter-1863276#utm_source=rss&utm_medium=referral&utm_campaign=news">Авторы Silicone Heart разорвали контракт с издателем и отправят игру в ранний доступ после провала на Kickstarter</a></p></div>
+</div><!--n:PlayGround.ru/Авторы Silicone Heart разорвали контракт с издателем и отправят игру в ранний доступ после провала на Kickstarter:s:9389384:e:1380-->
+<!----><!--2026-07-30 18:53:53-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/elder_scrolls_online/news/direktor_the_elder_scrolls_online_napisal_pismo_soobschestvu_o_buduschem_igry-1863281#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/40W7uCDYfQ09V5FoZFwi_A.png"></a>В сообщении сообществу директор игры Ник Джакомини признает, что The Elder Scrolls Online переживает период перехода после ряда организационных изменений и уходов внутри студии. Однако он стремится успокоить игроков: разработка ESO продолжается, и MMO остаётся... <p class="titl"><a href="https://www.playground.ru/elder_scrolls_online/news/direktor_the_elder_scrolls_online_napisal_pismo_soobschestvu_o_buduschem_igry-1863281#utm_source=rss&utm_medium=referral&utm_campaign=news">Директор The Elder Scrolls Online написал письмо сообществу о будущем игры</a></p></div>
+</div><!--n:PlayGround.ru/Директор The Elder Scrolls Online написал письмо сообществу о будущем игры:s:9390991:e:1176-->
+<!----><!--2026-07-29 12:00:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amnIRZP-tkHrefpc">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a69c84593feb641eb79fa5c_6a69c846ce80463f120f8d78/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amnIRZP-tkHrefpc"><span class="inlbl">«Похожа на маму»: Дочь Веры Глаголевой сравнила себя с матерью в новой фотосесси...</span></a>
+    <i class="trow smaller2"><span class="inlbl">КИНО MAIL</span></i>
+    <i class="trow smaller3">2026-07-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">32‑летняя супруга хоккеиста Александра Овечкина, Анастасия Шубская, поделилась кадрами новой фотосессии и сравнила себя со своей покойной матерью — актрисой Верой Глаголевой. В соцсети она опубликовала коллаж с собственным снимком и архивной фотографией Глаголевой, отметив сходство с матерью: «Глаза у меня явно папины, но, мне кажется, здесь я похожа на маму», — написала Шубская в подписи к посту. Анастасия Шубская — дочь народной любимицы советского и российского кино Веры Глаголевой и бизнесмена Кирилла Шубского...</div>
+</div><!--n:Дзен/Похожа на маму Дочь Веры Глаголевой сравнила себя с матерью в новой фотосессии:s:9392325:e:1728-->
+<!----><!--2026-07-29 17:17:07-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amoKQqKWxX_dIiTR">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6a0a42a296c57fdd2224d1_6a6a0ad42be33c7010182f3a/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amoKQqKWxX_dIiTR"><span class="inlbl">Сарик Андреасян завершил съемки фильма «Война и мир»: портреты персонажей</span></a>
+    <i class="trow smaller2"><span class="inlbl">7ДНЕЙКИНО</span></i>
+    <i class="trow smaller3">2026-07-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Завершились съемки экранизации романа Льва Толстого «Война и мир». Премьера картины на больших экранах запланирована на 18 февраля 2027 года. Режиссером фильма выступил Сарик Андреасян, сценарий написал Алексей Гравицкий, ранее работавший над фильмом «Онегин», а также сериалами «Великая» и «Янычар». По словам создателей, их целью было не современное переосмысление классики, а бережное воссоздание мира романа Толстого с уважением к первоисточнику, эпохе и характерам героев.   Главные роли в экранизации...</div>
+</div><!--n:Дзен/Сарик Андреасян завершил съемки фильма Война и мир портреты персонажей:s:9394233:e:1685-->
+<!----><!--2026-07-29 09:36:50-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ammfMDNuymEWGpyy">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a699f30336eca61161a9cb2_6a699f41f7141969cce6780f/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ammfMDNuymEWGpyy"><span class="inlbl">Нейрофизиолог предупредил о вреде препаратов для ускорения работы мозга</span></a>
+    <i class="trow smaller2"><span class="inlbl">ГОВОРИТ МОСКВА</span></i>
+    <i class="trow smaller3">2026-07-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Они вызывают зависимость, которую достаточно сложно вылечить. Для повышения эффективности умственной деятельности необходимо отдыхать и восстанавливаться, а не «бесконечно стимулировать» лекарствами. Об этом в эфире радиостанции «Говорит Москва» сообщил ведущий научный сотрудник Института скорой помощи им. Склифосовского и заведующий кафедрой медицинских технологий Пироговского университета Михаил Синкин. «Существуют препараты, которые ускоряют работу мозга. Но это всё препараты запрещённого ряда, они считаются наркотиками...</div>
+</div><!--n:Дзен/Нейрофизиолог предупредил о вреде препаратов для ускорения работы мозга:s:9396085:e:1753-->
+<!----><!--2026-07-30 14:43:42-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amiFwca3M07ZOCAn">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6885c1c6b7334ed9382027_6a6885ed5055ec5396fdc6a7/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amiFwca3M07ZOCAn"><span class="inlbl">5 миллионов кубометров отходов: что осталось на берегу Байкала после закрытия...</span></a>
+    <i class="trow smaller2"><span class="inlbl">GADGETPAGE</span></i>
+    <i class="trow smaller3">2026-07-30</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Байкальский целлюлозно-бумажный комбинат остановили в 2013 году. Трубы перестали дымить, производство прекратилось, но главная экологическая проблема никуда не исчезла. На южном берегу Байкала остались огромные карты-накопители — земляные чаши, куда десятилетиями отправляли отходы целлюлозного производства. Со стороны они больше похожи на заросшие поля и мутные водоёмы. Но внутри лежат миллионы кубометров шлам-лигнина, золы и загрязнённой воды. Всё это находится в нескольких сотнях метров от озера и у подножия горного хребта Хамар-Дабан, где сильные дожди и селевые потоки — не редкость...</div>
+</div><!--n:Дзен/5 миллионов кубометров отходов что осталось на берегу Байкала после закрытия комбината:s:9398008:e:1849-->
+<!----><!--2026-07-29 17:26:57-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amoOINhFcWJJBgVt">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6a0e20d84571624906056d_6a6a0e205d24da00e960353f/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amoOINhFcWJJBgVt"><span class="inlbl">Блогера Лусик Карапетян экстрадировали из Эмиратов в Москву по делу о...</span></a>
+    <i class="trow smaller2"><span class="inlbl">МОСКВИЧ MAG</span></i>
+    <i class="trow smaller3">2026-07-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Блогер Лусик Карапетян эксплуатировала, пожалуй, один из главных дубайских сюжетов — демонстрацию роскошной жизни. Только помимо дорогих машин, брендовых сумок и пятизвездочных отелей в ее контенте были еще и обещания легкого заработка на инвестициях. Именно ими, по версии следствия, она и привлекала потерпевших. Как сообщают в Генпрокуратуре, девушка оказалась связана с делом блогера Хизри Запирова, которого уже обвиняют в мошенничестве. Следствие считает, что с декабря 2020 года по апрель 2021-го...</div>
+</div><!--n:Дзен/Блогера Лусик Карапетян экстрадировали из Эмиратов в Москву по делу о мошенничестве:s:9400053:e:1671-->
+<!----><!--2026-07-29 13:11:48-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Сегодня не стало Ваньки. Только вчера он вновь побился об заклад с Щукой, что на этот раз точно выудит ее из пруда, вновь получил нагоняй от Водяного, а сегодня пропал. Остались только прислоненная к стене конюшни удочка да ведерко, расписанное рябиновыми ягодами. Горыныч поднял в небо все три головы и заревел. Жалостно, надрывно. Вроде бы где он, змей крылатый трехглавый, а где мелкий злодеишко рыбацкий сын Иван, вскользь упомянутый в одной сказке, а, ведь, как все началось, сошлись, приятельствовать начали. Вообще, многое тогда перемешалось. Марья Моревна вон с Тугариным сошлась, Царевна-лягушка Емеле венок на голову надела, у Несмеяны слезы пропали.<br><br>Все собрались во внутреннем дворике Кощеева дворца. Последним Серый волк явился, отлучавшийся поутру до ветра. Уж сколько раз ему говорили, что выходить за ворота опасно, а он все «не могу во дворе гадить». Постояли, помолчали. Микула Селянинович сходил в опустевшую наполовину конюшню и принес небольшую домовину. Вновь постояли, помолчали. Когда-то каждый из нас произносил хоть несколько слов об исчезнувшем, но те времена прошли. Мы все устали, сломались, сгорели словно свечи на ветру.<br><br>Постояв со склоненными головами, тронулись в путь. Мы прошли между двух давно обезлюдевших деревень, миновали заросшие разнотравьем поля. Простой люд, чьи имена не упоминались ни в одной сказке сгинул первым. Некому стало пахать, сеять, лес рубить. Пропали юноши да девушки, водившие хороводы вокруг костров. Не стало детишек, стайками ходивших в лес по грибы по ягоды.<br><br>Первой ковыляла Яга, опираясь на деревянную палку. Она всегда шла первой, ибо была раньше старая ведьма привратницей между Тридевятым и Навьим царствами. Вот только Иван, как и те, кто исчез до него, не усоп. Просто исчез, так и не обретя покой в царстве Навьем. Следом шагал Горох, украдкой вытиравший рукавом слезы. Лишившись своего царства, он совсем сдал. От любой печали да кручины слезы лил. За ними шествовал Кощей с Василисами. Как все началось, ушл... <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3105119.html">Конец Тридевятого царства</a></p></div>
+</div><!--n:ЯПлакал/Конец Тридевятого царства:s:9401915:e:3847-->
+<!----><!--2026-07-30 19:53:58-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Было так. <br><br>Я, молодой пиздюк в звании лейтенанта МВД, получаю звонок:<br><br>- Здравствуйте, я з|к в побеге. Хочу поговорить с журналистом. Cидел под Соликамском, хочу встретиться, рассказать, что там творится. <br><br>(Как позже выяснилось, он сначала звонил в редакцию, но тупая секретарша перевела на меня - типа, вот у нас главный по вашей теме. А я - пресс-центр УВД).<br><br>И тут у меня двояко. С одной стороны, я обязан был доложить, после чего засада оперов примет персонажа под фанфары (медаль молодому пиздюку обеспечена, а это круто). <br>Я позвонил начальнику УИН, добывй знакомый семьи. Он сказал: все понимаю, но побег есть побег. Но лишних вопросов не задал. <br><br>С другой стороны, человек сам пришел. Надо хотя бы поговорить. <br>Я выбрал второе. Мы встретились. Он мне рассказал, какой там пиздец (описывать не буду, я описываю только то, что сам видел). <br><br>Подошла его мама, познакомились. Я говорю:<br>- Ты хоть понимаешь, что не в ту дверь зашел? Я не журналист, я мент.<br>- Понял уже. Дайте с мамой и сестрой побыть. <br><br>В общем, я его отпустил к маме и сестре. И с нужным журналистом связал, статья вышла. После этого он сдался правосудию, уехал обратно, выполнив задачу. <br><br>Так вот вопрос: я должностное преступление совершил или нормально поступил? <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3105517.html">Человечность или долг с присягой - что выбрать?</a></p></div>
+</div><!--n:ЯПлакал/Человечность или долг с присягой - что выбрать:s:9405852:e:2526-->
+<!----><!--2026-07-26 11:14:47-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Прекрасное фото<br><br><a href="https://www.yaplakal.com/forum13/topic3104184.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/9/5/5/21151559.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum13/topic3104184.html">Видно, что знает правила безопасности в транспорте</a></p></div>
+</div><!--n:ЯПлакал/Видно, что знает правила безопасности в транспорте:s:9408504:e:485-->
+<!----><!--2026-07-30 18:52:28-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal"><span style='color:#CC0000'><b>11</b></span> фото<br><br>Зачем <b>жирафу</b> длинная шея?<br><br>Это простейший вопрос, что это один из самых известных и попсовых фактов о живой природе, который набивает оскомину где-то к пятому классу. И если мы подняли настолько простую, на первый взгляд, тему — значит, мы это сделали не просто так. Поэтому давайте ещё раз: зачем <b>жирафу</b> длинная шея?<br><br><b><i>Что, фотограф, я в кадр целиком не влезаю?)))</i></b> <br><br><a href="https://www.yaplakal.com/forum13/topic3105500.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/7/8/5/21161587.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum13/topic3105500.html">Жираф: Шея нужна не для верхушек деревьев. Правда куда более жесткая</a></p></div>
+</div><!--n:ЯПлакал/Жираф Шея нужна не для верхушек деревьев. Правда куда более жесткая:s:9409123:e:1240-->
+<!----><!--2026-07-30 11:59:30-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Раскрыт сговор при строительстве мусорных полигонов почти на 15 млрд рублей<br>Федеральная антимонопольная служба выявила нарушения при проведении конкурсов на строительство мусоросортировочных комплексов и полигонов. Речь идет о сумме 14,9 миллиарда рублей.<br><br>По информации ФАС, ряд компаний и представителей органов власти ограничивали доступ других участников к тендерам. Таким образом был раскрыт сговор. В числе фигурантов — ООО «СК «Гидрокор» и ООО «Республиканский экологический оператор».<br><br>Соглашение действовало в 2021–2026 годах. По версии ФАС, схема предусматривала использование концессионной модели как инструмента обхода требований закона о контрактной системе, а также финансирование концессионных объектов за счет бюджетных средств без привлечения внебюджетных источников, установление необоснованных барьеров для других участников рынка из-за распределения подрядных обязательств.<br><br><br><a href='/go/?https%3A%2F%2Fwww.rbc.ru%2Fbusiness%2F30%2F07%2F2026%2F6a6b0e789a794714845b657e' target='_blank' class='url-link'>источник - РБК</a> <br><br><a href="https://www.yaplakal.com/forum1/topic3105389.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/0/1/8/21160810.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3105389.html">Раскрыт сговор при строительстве мусорных полигонов</a></p></div>
+</div><!--n:ЯПлакал/Раскрыт сговор при строительстве мусорных полигонов:s:9410528:e:2295-->
+<!----><!--2026-07-31 00:40:24-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/pandy-dindin-i-zhui-iz-moskovskogo-zooparka-otmetili-dni-rozhdeniya-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/21/6993471/836922cb9f310a1f15ad2b8eccf4fa569107633c.jpg"></a>В Московском зоопарке 30 июля свое девятилетие отметила панда Диндин, а уже сегодня, 31 июля, свой юбилей — 10 лет, встречает Жуи. Об этом в своем Telegram-канале сообщила генеральный директор зверинца Светлана Акулова. <p class="titl"><a href="https://moslenta.ru/news/city/pandy-dindin-i-zhui-iz-moskovskogo-zooparka-otmetili-dni-rozhdeniya-31-07-2026.htm">В Московском зоопарке панде Диндин исполнилось девять лет, а Жуи встретил свое десятилетие</a></p></div>
+</div><!--n:Мослента/В Московском зоопарке панде Диндин исполнилось девять лет, а Жуи встретил свое десятилетие:s:9412962:e:1035-->
+<!----><!--2026-07-30 19:25:06-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvichka-vybrosila-iz-okna-telefon-supruga-i-popala-pod-arest-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/13/6993297/664bb388c51752a9ff47044a133c40a876f8f755.jpg"></a>Арестом на восемь суток обернулся для москвички выброшенный из окна мобильный телефон супруга. Об этом пишет Telegram-канал «Осторожно, Москва». <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvichka-vybrosila-iz-okna-telefon-supruga-i-popala-pod-arest-30-07-2026.htm">Москвичку, которая в пылу ссоры выбросила из окна телефон мужа, арестовали</a></p></div>
+</div><!--n:Мослента/Москвичку, которая в пылу ссоры выбросила из окна телефон мужа, арестовали:s:9414208:e:870-->
+<!----><!--2026-07-30 18:27:01-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvich-perevodil-kriptovalyutu-ukrainskim-specsluzhbam-i-popalsya-fsb-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/12/6993269/a017b01be8e47b1afd6b50955e5af2f0fce32bc2.jpg"></a>ФСБ задержала москвича, который переводил криптовалюту Службе безопасности Украины (СБУ). Об этом сообщается на сайте ведомства. <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvich-perevodil-kriptovalyutu-ukrainskim-specsluzhbam-i-popalsya-fsb-30-07-2026.htm">ФСБ задержала москвича, переводившего криптовалюту на счет СБУ</a></p></div>
+</div><!--n:Мослента/ФСБ задержала москвича, переводившего криптовалюту на счет СБУ:s:9415257:e:844-->
+<!----><!--2026-07-30 19:07:11-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/kitaicy-uvelichili-traty-v-rossiiskoi-socseti-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/15/6993346/51e1a31cc78eb47a2952b9a64e35e5090c1f205d.jpg"></a>Количество рекламодателей из Китая в VK Рекламе увеличилось на 62 процента. Бюджеты в первом полугодии 2026 года превысили 2,5 миллиарда рублей. Об этом «Мосленте» стало известно из релиза «ВКонтакте». <p class="titl"><a href="https://moslenta.ru/news/lyudi/kitaicy-uvelichili-traty-v-rossiiskoi-socseti-30-07-2026.htm">Рекламодатели из Китая увеличили траты на продвижение в VK Рекламе в 2,7 раза</a></p></div>
+</div><!--n:Мослента/Рекламодатели из Китая увеличили траты на продвижение в VK Рекламе в 2,7 раза:s:9416260:e:937-->
+<!----><!--2026-07-31 07:12:53-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/voennye-orkestry-ispolnyat-izvestnye-pesni-v-parkakh-moskvy-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/04/6993485/6a7cfef600ad2a6d324a341daab1b6bacd39fe61.jpg"></a>Военные оркестры выступят в парках Москвы в августе в рамках проекта «Лето в Москве». Сообщил портал мэра и правительства столицы. <p class="titl"><a href="https://moslenta.ru/news/city/voennye-orkestry-ispolnyat-izvestnye-pesni-v-parkakh-moskvy-31-07-2026.htm">Военные оркестры исполнят известные песни в парках Москвы в августе</a></p></div>
+</div><!--n:Мослента/Военные оркестры исполнят известные песни в парках Москвы в августе:s:9417377:e:830-->
+<!----><!--2026-07-30 17:32:24-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichi-nakonec-smogut-pozagorat-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/10/6993137/9888b295e1c97f6eecc2b5a1994e3fcc4c903156.jpg"></a>Первые выходные августа в Москве будут теплыми и солнечными, жителям столицы можно будет позагорать. Об этом в своем Telegram-канале сообщила главный специалист информационного агентства «Метеоновости» Татьяна Позднякова. <p class="titl"><a href="https://moslenta.ru/news/city/moskvichi-nakonec-smogut-pozagorat-30-07-2026.htm">Позднякова: Первые выходные августа в Москве будут теплыми и солнечными</a></p></div>
+</div><!--n:Мослента/Позднякова Первые выходные августа в Москве будут теплыми и солнечными:s:9418375:e:952-->
+<!----><!--2026-07-31 03:29:48-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/voditelei-predupredili-ob-ogranichenii-dvizheniya-v-centre-moskvy-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/00/6993479/5f2ded84440678fe8c509cb73380957c43f5ac84.jpg"></a>Водителей предупредили об ограничении движения в центре Москвы в воскресенье, 2 августа.  На официальном сайте правительства столицы пояснили, что изменения коснутся движения на улице Ильинке, а причиной станет проведение городского мероприятия. <p class="titl"><a href="https://moslenta.ru/news/city/voditelei-predupredili-ob-ogranichenii-dvizheniya-v-centre-moskvy-31-07-2026.htm">Водителей предупредили об ограничении движения в Москве на Ильинке 2 августа</a></p></div>
+</div><!--n:Мослента/Водителей предупредили об ограничении движения в Москве на Ильинке 2 августа:s:9419501:e:1072-->
+<!----><!--2026-07-30 16:01:38-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/zhitelyam-moskvy-i-oblasti-nazvali-srok-vozvrasheniya-zhary-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/10/6993130/c904108be70a7467744ddb9ba986fe7a76b3e201.jpg"></a>Синоптик прогностического центра «Метео» Александр Ильин сообщил срок возвращения жары в Москву и область. Об этом пишет RT. <p class="titl"><a href="https://moslenta.ru/news/city/zhitelyam-moskvy-i-oblasti-nazvali-srok-vozvrasheniya-zhary-30-07-2026.htm">Синоптик Ильин сообщил, что жара в Москву и область вернется в выходные</a></p></div>
+</div><!--n:Мослента/Синоптик Ильин сообщил, что жара в Москву и область вернется в выходные:s:9420758:e:823-->
+<!----><!--2026-07-30 14:55:54-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvich-ustroil-debosh-v-bolnice-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/10/6993144/ada17694642176a41d452b2c50b2333dc7689f61.jpg"></a>В Западном административном округе Москвы задержали мужчину, который пытался прорваться в больницу через вход для экстренной госпитализации. Об этом сообщила пресс-служба столичного управления Росгвардии в Telegram-канале. <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvich-ustroil-debosh-v-bolnice-30-07-2026.htm">На западе Москвы задержали мужчину, устроившего дебош в больнице</a></p></div>
+</div><!--n:Мослента/На западе Москвы задержали мужчину, устроившего дебош в больнице:s:9421754:e:941-->
+<!----><!--2026-07-30 22:32:09-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/massovoe-dtp-s-postradavshimi-proizoshlo-na-mkad-30-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/30/19/6993390/a9032cc36c0ba25308f73b6f817f2ef986dbea50.jpg"></a>На 30-м километре Московской кольцевой автомобильной дороги (МКАД) произошло массовое дорожно-транспортное происшествие (ДТП) с тремя пострадавшими. Об этом сообщили в официальном Telegram-канале Департамента по делам гражданской обороны, чрезвычайным ситуациям и пожарной безопасности Москвы. <p class="titl"><a href="https://moslenta.ru/news/lyudi/massovoe-dtp-s-postradavshimi-proizoshlo-na-mkad-30-07-2026.htm">На МКАД столкнулись пять машин, одну из пострадавших пришлось эвакуировать вертолетом</a></p></div>
+</div><!--n:Мослента/На МКАД столкнулись пять машин, одну из пострадавших пришлось эвакуировать вертолетом:s:9422857:e:1139-->
+<!----><!--2026-07-31 13:51:39-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/553/280/3e4/5532803e46aadef36bcb86dc9da9e4e7.png" /><p>Если у вас сегодня ничего не зависает, не пропал интернет и не появляется загадочное «что-то пошло не так» — скорее всего, где-то рядом трудится хороший сисадмин.</p><p>Сегодня отмечаем профессиональный праздник, который появился благодаря американскому системному администратору Теду Кекатосу. Он решил, что люди, поддерживающие бесперебойную работу техники, тоже... <p class="titl"><a href="https://habr.com/ru/companies/yoomoney/news/1065420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065420">С Днём системного администратора! Спасибо, что всё работает</a></p></div>
+</div><!--n:Хабр/С Днём системного администратора Спасибо, что всё работает:s:9424199:e:1141-->
+<!----><!--2026-07-31 13:05:44-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/7a5/a90/a09/7a5a90a09d7b443bbc8b8dbc2f517115.png" /><p>Это тема моего доклада, с которым 21 августа я буду выступать Москве на конференции «СММ-Прорыв 2026». <br><br><em>В докладе разбираю кейсы, с которыми сталкивается почти каждый, кто ведёт соцсети или занимается продвижением бренда.</em></p><p><strong>Разберём:</strong><br>~&nbsp; когда промокод у блогера считается рекламой, а в каких случаях маркировка не... <p class="titl"><a href="https://habr.com/ru/news/1065396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065396">Реклама или контент? Маркировка в 2026 году: что надо знать про ERID сегодня, что делать с нативкой и саморекламой</a></p></div>
+</div><!--n:Хабр/Реклама или контент Маркировка в 2026 году что надо знать про ERID сегодня, что делать с нативкой и саморекламой:s:9425484:e:1156-->
+<!----><!--2026-07-31 12:35:45-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/8a9/1ac/1d0/8a91ac1d09f0116a43c59381fddc9b19.jpeg" /><p>Пользователи LinkedIn смогут <a href="https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button" rel="noopener noreferrer nofollow">пожаловаться </a>на&nbsp;некачественные публикации, сгенерированные ИИ. Для&nbsp;этого в&nbsp;список реакций к&nbsp;посту добавили кнопку Seems like AI slop («Похоже на&nbsp;ИИ‑слоп»),... <p class="titl"><a href="https://habr.com/ru/news/1065352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065352">В LinkedIn появилась кнопка для жалоб на нейрослоп</a></p></div>
+</div><!--n:Хабр/В LinkedIn появилась кнопка для жалоб на нейрослоп:s:9426873:e:918-->
+<!----><!--2026-07-31 18:40:08-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/marvel_tokon_fighting_souls/news/marvel_tokon_fighting_souls_gotovitsya_k_startu_arc_system_works_vypustila_reliznyj_trejler_ambitsioznogo_fajtinga-1863515#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/gCmUGRHZ1jLjlEEFff7mGQ.jpeg"></a>Sony Interactive Entertainment и Arc System Works представили релизный трейлер MARVEL Tokon: Fighting Souls - нового командного файтинга по вселенной Marvel, который выйдет уже 6 августа на PlayStation 5 и ПК через Steam и Epic... <p class="titl"><a href="https://www.playground.ru/marvel_tokon_fighting_souls/news/marvel_tokon_fighting_souls_gotovitsya_k_startu_arc_system_works_vypustila_reliznyj_trejler_ambitsioznogo_fajtinga-1863515#utm_source=rss&utm_medium=referral&utm_campaign=news">MARVEL Tokon: Fighting Souls готовится к старту: Arc System Works выпустила релизный трейлер амбициозного файтинга</a></p></div>
+</div><!--n:PlayGround.ru/MARVEL Tokon Fighting Souls готовится к старту Arc System Works выпустила релизный трейлер амбициозного файтинга:s:9427911:e:1190-->
+<!----><!--2026-07-31 18:29:06-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/starsand_island/news/simulyator_zhizni_starsand_island_pokinet_rannij_dostup_i_vyjdet_na_pk_i_ps5_18_avgusta-1863509#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/ez-sfchd5ctCcic1JKeLDw.jpeg"></a>Студии Seed Sparkle Lab и Chengdu Westhouse Shiyou Technology Co., Ltd. официально объявили дату полноценного релиза симулятора жизни Starsand Island. Версия 1.0 станет доступна 18 августа 2026 года одновременно на PC в сервисе Steam и... <p class="titl"><a href="https://www.playground.ru/starsand_island/news/simulyator_zhizni_starsand_island_pokinet_rannij_dostup_i_vyjdet_na_pk_i_ps5_18_avgusta-1863509#utm_source=rss&utm_medium=referral&utm_campaign=news">Симулятор жизни Starsand Island покинет ранний доступ и выйдет на ПК и PS5 18 августа</a></p></div>
+</div><!--n:PlayGround.ru/Симулятор жизни Starsand Island покинет ранний доступ и выйдет на ПК и PS5 18 августа:s:9429314:e:1103-->
+<!----><!--2026-07-31 18:30:35-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/wwe_2k26/news/wwe_2k26_stala_vremenno_besplatnoj_v_steam_v_chest_summerslam-1863510#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/0AI8rWimhCFuArPitgfRQQ.png"></a>Издатель 2K запустил бесплатные выходные для WWE 2K26, приуроченные к одному из главных шоу года - SummerSlam, которое пройдет 1-2 августа в Миннеаполисе. <p class="titl"><a href="https://www.playground.ru/wwe_2k26/news/wwe_2k26_stala_vremenno_besplatnoj_v_steam_v_chest_summerslam-1863510#utm_source=rss&utm_medium=referral&utm_campaign=news">WWE 2K26 стала временно бесплатной в Steam в честь SummerSlam</a></p></div>
+</div><!--n:PlayGround.ru/WWE 2K26 стала временно бесплатной в Steam в честь SummerSlam:s:9430595:e:896-->
+<!----><!--2026-07-31 18:33:13-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/mahershala_ali_okonchatelno_poproschalsya_s_blejdom_akter_zayavil_chto_marvel_davno_pora_bylo_prinyat_reshenie-1863513#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/rg0gQyeLzfUrDWgEqCxJGA.jpeg"></a>Махершала Али подтвердил, что больше не рассчитывает сыграть Блэйда в киновселенной Marvel. В интервью GQ актер дал понять, что не верит в возвращение проекта с его участием и считает эту главу завершенной. <p class="titl"><a href="https://www.playground.ru/misc/news/mahershala_ali_okonchatelno_poproschalsya_s_blejdom_akter_zayavil_chto_marvel_davno_pora_bylo_prinyat_reshenie-1863513#utm_source=rss&utm_medium=referral&utm_campaign=news">Махершала Али окончательно попрощался с "Блэйдом": актер заявил, что Marvel давно пора было принять решение</a></p></div>
+</div><!--n:PlayGround.ru/Махершала Али окончательно попрощался с Блэйдом актер заявил, что Marvel давно пора было принять решение:s:9431622:e:1195-->
+<!----><!--2026-07-31 18:44:00-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/altooshka_for_skoof/news/po_igre_altushka_dlya_skufa_snimut_animatsionnyj_serial_altushki_protiv_skufov-1863517#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/MZCBbLQlyP76Mrt6c1Wkfw.jpeg"></a>Платформа Okko и студия RIK ANIMATION официально объявили о запуске производства анимационного сериала "Альтушки против скуфов". Премьера пилотного сезона запланирована на 2027 год и состоится эксклюзивно на стриминговом сервисе. <p class="titl"><a href="https://www.playground.ru/altooshka_for_skoof/news/po_igre_altushka_dlya_skufa_snimut_animatsionnyj_serial_altushki_protiv_skufov-1863517#utm_source=rss&utm_medium=referral&utm_campaign=news">По игре "Альтушка для скуфа" снимут анимационный сериал "Альтушки против скуфов"</a></p></div>
+</div><!--n:PlayGround.ru/По игре Альтушка для скуфа снимут анимационный сериал Альтушки против скуфов:s:9433045:e:1154-->
+<!----><!--2026-07-31 18:07:45-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amyp68a3M07ZJY6g">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6ca9ebc6b7334ed9258ea0_6a6ca9f5bee7b0779cd48ec9/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amyp68a3M07ZJY6g"><span class="inlbl">Почему Сеуту штурмуют тысячи африканцев — и причём здесь спор Марокко с Испанией...</span></a>
+    <i class="trow smaller2"><span class="inlbl">КАРНАУХОВ</span></i>
+    <i class="trow smaller3">2026-07-31</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Сейчас, когда вы будете читать этот анализ, задайтесь вопросом: а могло это быть случайностью? Я не верю! Уверен, что мы свидетели направляемой ситуации, имеющей целью усугубление кризиса в Европе, это продолжение того, что началось  с подрыва Северных Потоков. Прочитайте, это почти как политическая симфония, все как по нотам! Сеута — это испанский город на африканском берегу, окружённый территорией Марокко. Именно поэтому любой массовый прорыв здесь, не только миграционный кризис, но и напоминание...</div>
+</div><!--n:Дзен/Почему Сеуту штурмуют тысячи африканцев и причём здесь спор Марокко с Испанией:s:9434382:e:1693-->
+<!----><!--2026-07-31 12:16:28-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amxf9KUsRDiqee1J">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6c5ff4a52c4438aa79ed49_6a6c67985ea2b41354842c1e/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amxf9KUsRDiqee1J"><span class="inlbl">ЦСКА нашел нападающего, а Зенит заменит опорника / Трансферы РПЛ</span></a>
+    <i class="trow smaller2"><span class="inlbl">ВРЕМЯ ФУТБОЛА</span></i>
+    <i class="trow smaller3">2026-07-31</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Лидеры Локомотива продолжают покидать команду, после Воробьева следующий на выход Карпукас, который переходит в Зенит. Ему 24 года, трансферная стоимость 7 млн евро. Воспитанника Локомотива заберут за 6 млн евро.  Опорный полузащитник нужен Семаку для замены Барриосу, который стареет, ему будет 33 года, и плюс замена по позиции легионера на россиянина, что в условиях лимита вынужденная мера. Сообщается, что Барриос может покинуть команду уже этим летом, потому что у него остается 1 год по контракту и видимо продлевать нет смысла...</div>
+</div><!--n:Дзен/ЦСКА нашел нападающего, а Зенит заменит опорника Трансферы РПЛ:s:9436256:e:1715-->
+<!----><!--2026-07-30 09:13:43-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amrle8a3M07ZCjXG">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6ae57bc6b7334ed90a35c6_6a6aeb4da7fa8c0378b7160f/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amrle8a3M07ZCjXG"><span class="inlbl">Почему АвтоВАЗ снял с производства ВАЗ-2107, если она до сих пор популярнее...</span></a>
+    <i class="trow smaller2"><span class="inlbl">АВТОВОД СО СТАЖЕМ</span></i>
+    <i class="trow smaller3">2026-07-30</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Советская «семерка» встала на конвейер в 1982 году и довольно долго считалась лучшим вариантом автомобильной классики. Машину сняли с производства только в апреле 2012 году, а в рейтинге наиболее популярных машин с пробегом в текущем году «семерки» занимали первые и вторые места списка. И все таки АвтоВАЗ отказался от производства ВАЗ-2107. АвтоВАЗ довольно долго не решался снять «2107» с конвейера. Официальная версия отказа от седьмой модели ссылалась на техническое устаревание конструкции автомобиля...</div>
+</div><!--n:Дзен/Почему АвтоВАЗ снял с производства ВАЗ-2107, если она до сих пор популярнее всех на вторичном рынке:s:9438122:e:1692-->
+<!----><!--2026-04-12 08:00:55-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/adNoTal9j0agYHyv">
+      <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_69d3684da97d8f46a0607caf_69d3c753fdd043526e3af6c3/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/adNoTal9j0agYHyv"><span class="inlbl">12 бытовых привычек финнов</span></a>
+    <i class="trow smaller2"><span class="inlbl">REMPLANNER | СТУДИЯ ДИЗАЙНА | ПЛАНИРОВЩИК ДЛЯ РЕМОНТА</span></i>
+    <i class="trow smaller3">2026-04-12</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Финляндия — страна с высоким уровнем доходов, мощной системой социальной защиты и устойчивой экономикой, что находит отражение в повседневной жизни её граждан.  Доходы, расходы на еду, коммунальные услуги и уникальные традиции формируют особый бытовой уклад, который отличает финнов от других европейцев. Ниже — ориентировочные средние цены базовых продуктов в супермаркетах Финляндии (данные 2025–2026): У молодых финнок нет массового ухода в «домохозяйство», но заметен тренд на так называемую «новую...</div>
+</div><!--n:Дзен/12 бытовых привычек финнов:s:9440027:e:1660-->
+<!----><!--2026-07-30 14:47:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ams6EpP-tkHrfxIT">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6b3a1293feb641eb7f1213_6a6b3a13d85c010185e77032/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ams6EpP-tkHrfxIT"><span class="inlbl">За махинации с БПЛА арестованы сотрудники Минпромторга и ГК «Эфко»</span></a>
+    <i class="trow smaller2"><span class="inlbl">КОММЕРСАНТЪ</span></i>
+    <i class="trow smaller3">2026-07-30</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">В Москве арестована заместитель начальника управления беспилотных систем и робототехники Минпромторга Алла Половченя. Кроме того, был задержан, а после арестован председатель совета директоров ГК «Эфко» Валерий Кустов. Под стражу также отправлены заместитель директора по развитию ГК «Эфко» Екатерина Кустова и директор по развитию УК «Эфко» Владислав Романцев. Все трое обвиняются в многомиллиардных махинациях при реализации программы импортозамещения при производстве беспилотников. Как стало известно...</div>
+</div><!--n:Дзен/За махинации с БПЛА арестованы сотрудники Минпромторга и ГК Эфко:s:9441770:e:1690-->
+<!----><!--2026-07-31 09:54:38-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amxHXZP-tkHrgqzT">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6c475d93feb641eb82acd3_6a6c475dce80463f120fe264/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amxHXZP-tkHrgqzT"><span class="inlbl">В России появились в продаже недорогие семиместные компактвэны Toyota Veloz</span></a>
+    <i class="trow smaller2"><span class="inlbl">АВТОНОВОСТИ ДНЯ</span></i>
+    <i class="trow smaller3">2026-07-31</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">В России появился в продаже еще один недорогой семиместный вэн из параллельного импорта — Toyota Veloz. В ОАЭ, откуда он поставляется, цены на него стартуют от 1 780 000 рублей по текущему курсу, а у нас с учетом всех расходов за него просят минимум 2 450 000 рублей, выяснили «Автоновости дня». Семиместные «китайцы», продающиеся на российском рынке официально, обычно стоят дороже. Например, Geely Okavango продается минимум за 3 772 990 рублей. Последний оставшийся в официальной линейке Chery кроссовер...</div>
+</div><!--n:Дзен/В России появились в продаже недорогие семиместные компактвэны Toyota Veloz:s:9443615:e:1639-->
+<!----><!--2026-07-30 11:58:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amsTB2tbQE6qUGcb">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6b13076b5b404eaa50671b_6a6b1309a12e8a37a8a0450e/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amsTB2tbQE6qUGcb"><span class="inlbl">Вылов фугу рыбаками Приморья и Сахалина приобрел массовый характер</span></a>
+    <i class="trow smaller2"><span class="inlbl">ТВ ЦЕНТР</span></i>
+    <i class="trow smaller3">2026-07-30</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Кто - то этот шарик считает очаровательным и глаза выразительными. Другие - одним из самых ужасных на свете существ. Но о вкусах, как принято говорить, не спорят. В Японии блюда, приготовленные из рыбы фугу, считают деликатесами. Эта страна, пожалуй, единственная, где фугу употребляют в пищу на протяжении веков. Любят японцы пощекотать себе нервы. Одно неверное движение повара - и гурман уже на кладбище. "В России только один есть японский шеф-повар, который готовит эту рыбу. Но опять же: чтобы эту рыбу готовить - деликатес, необходимо получить лицензию...</div>
+</div><!--n:Дзен/Вылов фугу рыбаками Приморья и Сахалина приобрел массовый характер:s:9445420:e:1753-->
+<!----><!--2026-07-31 16:40:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amy0h2tbQE6qVpI3">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a6cb4876b5b404eaa569237_6a6cb487f4dd164ac6bec1ae/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amy0h2tbQE6qVpI3"><span class="inlbl">Светлана Иванова показала трогательные кадры с 65-летнего юбилея мужа</span></a>
+    <i class="trow smaller2"><span class="inlbl">КИНО MAIL</span></i>
+    <i class="trow smaller3">2026-07-31</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">30 июля режиссеру Джанику Файзиеву исполнилось 65 лет. Юбилей прошел в семейном кругу: вместе с супругой Светланой Ивановой, их общими дочерьми и детьми режиссера от прошлых браков. Кадрами с торжества поделились Светлана Иванова и его старшая дочь юбиляра Франгиз Файзиева. На фотографиях видно, как Джаник Файзиев задувает свечи на праздничном торте в ресторане...</div>
+</div><!--n:Дзен/Светлана Иванова показала трогательные кадры с 65-летнего юбилея мужа:s:9447333:e:1409-->
+<!----><!--2026-05-02 09:03:06-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/afNqh_zfhA6dn1zc">
+      <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_69f36a87fcdf840e9d9f5cdc_69f36cc4fcdf840e9da27c82/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/afNqh_zfhA6dn1zc"><span class="inlbl">Трудовая дисциплина: почему она исчезает и к чему это приведет?</span></a>
+    <i class="trow smaller2"><span class="inlbl">УМНАЯ РОССИЯ</span></i>
+    <i class="trow smaller3">2026-05-02</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Еще недавно дисциплина считалась основой любой работы. Опоздания, невыполненные задачи или неуважение к коллективу воспринимались как серьезное нарушение. Люди держались за место, старались не подвести и понимали последствия своих действий. Сегодня ситуация меняется. Работодатели все чаще жалуются на срывы сроков, низкую вовлеченность и формальное отношение к обязанностям. Сами работники говорят о выгорании, усталости и отсутствии мотивации. Почему дисциплина перестает работать и чем это может закончиться?  Формально дисциплина сохраняется...</div>
+</div><!--n:Дзен/Трудовая дисциплина почему она исчезает и к чему это приведет:s:9448905:e:1755-->
+<!----><!--2026-07-31 15:31:20-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Доброе утро и лёгкой пятницы )) Сегодня итальянская красота на <b><span style='color:#FF0000'>24 фото</span></b>, спасибо BaT. <br><br>Автомобили Lancia никогда не были массовыми, но при этом всегда были необычными и интересными, Про технические решения разных моделей этой марки нередко можно сказать &quot;впервые в мире&quot;, достаточно хотя бы вспомнить Lancia Lambda с независимой передней подвеской и несущим кузовом в 1922 году. Ну а если и не впервые в мире - то одни из первых.<br><br>Lancia Aurelia - не исключение. Названная, как и все послевоенные Ланчи, в честь древнеримской дороги, в данном случае - Via Aurelia от Рима до Пизы - машина была одним из первых в мире серийных автомобилей, оснащённых двигателем конфигурации V6, а также одним из первых с разнесённой (transaxle) компоновкой. Применительно к переднемоторным и заднеприводным автомобилям так принято называть те, у которых двигатель расположен спереди, а коробка передач - сзади в блоке с картером главной передачи. Заодно это был первый серийный автомобиль, штатно оснащавшийся радиальными шинами. <br><br>С 1950 по 1958 год было выпущено 18,201 экземпляров Аурелии в шести сериях. В основном - четырёхдверные седаны (12,792 шт.) и двухдверные купе (3,871 шт.), которые оснащались алюминиевым нижневальным V6 в различных исполнениях, объёмом от 1.8 до 2.5 литра. Самым же редким, не считая штучных заказных кузовов, был родстер Spider America, таких автомобилей в 1955 году сделали всего 240, и из-за их редкости цены на них сейчас на аукционах нередко превышают полмиллиона евро. И один из них у нас сегодня представлен на фото. <br><br><a href="https://www.yaplakal.com/forum11/topic3105793.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/9/2/9/21163929.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum11/topic3105793.html">1955 Lancia Aurelia B24S Spider America. Автопятница №151.</a></p></div>
+</div><!--n:ЯПлакал/1955 Lancia Aurelia B24S Spider America. Автопятница 151.:s:9450809:e:3178-->
+<!----><!--2026-07-31 19:32:57-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">50 штук  <br><br><a href="https://www.yaplakal.com/forum2/topic3105866.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/6/2/4/21164426.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3105866.html">Так себе картинки 31.07.26</a></p></div>
+</div><!--n:ЯПлакал/Так себе картинки 31.07.26:s:9454097:e:415-->
+<!----><!--2026-07-31 14:25:48-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Моя коллекция красоты<br>Личная <br><br><a href="https://www.yaplakal.com/forum2/topic3105771.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/7/8/7/21163787.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3105771.html">Смотри на небо</a></p></div>
+</div><!--n:ЯПлакал/Смотри на небо:s:9454594:e:444-->
+<!----><!--2026-07-31 17:32:03-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Давненько меня тут не было. Страдал фигнёй, дача, грибы, а ещё работал над печатью второго тома дипломной работы. Кому надо текст полностью здесь - <a href='https://www.yaplakal.com/forum6/topic2889544.html?hl=' target='_blank' class='url-link'>https://www.yaplakal.com/forum6/topic2889544.html?hl=</a><br>Ничего вроде не нарушаю всё бесплатно. <br><br>Хочется рассказать о хорошем, как я работаю с издательствами и как меня носят на руках главные редакторы и директора, но ничего этого не будет. Я всё делаю сам, сам печатаю, сам страдаю, сам распространяю, сам задаю нейросети каверзные вопросы в стиле - говори  псина ускоглазая, как правильно сформулировать техзадание, чтобы ты падла не накосячила&#33;&#33;&#33; Нет, а на хрена собственно жить без преодоления различных трудностей? В  этот раз я обошёлся без человека-редактора сэкономив, эммм тысяч тридцать на тираже и делегировав эту задачу дипсику. Вот такой я Выродок. Вот честно, не хочу никого обидеть, но в прошлый раз редактор спиздил у меня из текста важные связки слов отчего меня периодически корёжит при прочтении первого тома. Однако не стоит считать нейросети идеальными редакторами - увы но они тоже козлят и норовят самовольно изменить текст без оглядки на результат. Поэтому проверять, проверять и никому не доверять. А зато я выяснил, что все эти ИИ какими бы дорогими они не были, не в состоянии превзойти человека и уж тем более  психованного писателя. <br><br>Мои дорогие читатели, конечно же я о вас не забыл. Вы, все те кто играл в города пока я сочинял очередную главу и вы те которые каждую неделю требовали продолжения, я благодарю вас за верность и терпение. Не каждый знаете ли может заглядывать в старую ветку каждый день в ожидании перемен в течении аж полутора лет. Ну или чуть меньше. Это я для красного словца. Большое спасибо вам за доблестный труд читателя. Кто успел тот заказал, а остальным извините тираж у меня был маленький.  Обещаю - осенью продолжим играть в города в новой теме. <br><br><a... <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3105825.html">Моя новая  книга</a></p></div>
+</div><!--n:ЯПлакал/Моя новая книга:s:9455105:e:3659-->
+<!----><!--2026-07-31 09:25:38-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Если бы всё было придумано у нас и давно&#33; ИИ советское прошлое от Павла Мелешкина.<br><br><a href='/go/?https%3A%2F%2Fwww.threads.com%2F%40pavelmeleshkin%2Fpost%2FDVz6YEziFb_%2F%25D1%2581%25D0%25BE%25D0%25B2%25D0%25B5%25D1%2582%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9-%25D0%25BA%25D0%25B8%25D0%25B1%25D0%25B5%25D1%2580%25D0%25BF%25D0%25B0%25D0%25BD%25D0%25BA-%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B4%25D0%25BE%25D0%25BB%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5-%25D0%25B5%25D1%2581%25D0%25BB%25D0%25B8-%25D0%25B1%25D1%258B-%25D0%25B2%25D1%2581%25D1%2591-%25D0%25B1%25D1%258B%25D0%25BB%25D0%25BE-%25D0%25BF%25D1%2580%25D0%25B8%25D0%25B4%25D1%2583%25D0%25BC%25D0%25B0%25D0%25BD%25D0%25BE-%25D1%2583-%25D0%25BD%25D0%25B0%25D1%2581-%25D0%25B8-%25D0%25B4%25D0%25B0%25D0%25B2%25D0%25BD%25D0%25BE%25D1%2581%25D0%25BE-%25D0%25BF%25D0%25BE%25D0%25BD%25D1%2580%25D0%25B0' target='_blank' class='url-link'>via</a> <br><br><a href="https://www.yaplakal.com/forum2/topic3105660.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/8/3/7/21162738.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3105660.html">Советский киберпанк</a></p></div>
+</div><!--n:ЯПлакал/Советский киберпанк:s:9458834:e:1380-->
+<!----><!--2026-07-31 20:04:48-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskovskaya-klinika-raskryla-dalneishuyu-sudbu-spermy-priznannogo-terroristom-pavla-durova-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/14/6993752/4145d8e53edb9eea6e2bb4ecb2090bb8f7247194.JPG"></a>Программа ЭКО с использованием донорской спермы основателя Telegram Павла Дурова (внесен в перечень террористов и экстремистов Росфинмониторинга) все еще доступна. Об этом сообщили в клинике «АльтраВита», передает Агентство городских новостей «Москва». <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskovskaya-klinika-raskryla-dalneishuyu-sudbu-spermy-priznannogo-terroristom-pavla-durova-31-07-2026.htm">Биоматериал Дурова остался доступен москвичкам после признания его террористом</a></p></div>
+</div><!--n:Мослента/Биоматериал Дурова остался доступен москвичкам после признания его террористом:s:9460293:e:1139-->
+<!----><!--2026-07-31 23:11:36-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskovskii-zoopark-pozdravil-pandu-s-yubileem-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/20/6993841/acadd8f96a41ce3987e1cf49d61b541524a6b4f9.jpg"></a>Московский зоопарк поздравил самца большой панды Жуи с юбилеем, говорится в Telegram-канале зоосада. <p class="titl"><a href="https://moslenta.ru/news/city/moskovskii-zoopark-pozdravil-pandu-s-yubileem-31-07-2026.htm">Московский зоопарк поздравил панду Жуи с 10-летием</a></p></div>
+</div><!--n:Мослента/Московский зоопарк поздравил панду Жуи с 10-летием:s:9461624:e:706-->
+<!----><!--2026-07-31 13:04:49-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-ob-opasnosti-v-vykhodnye-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/06/6993504/b4a6e1b457316687a8a77dfae8c993ddc4efd150.jpg"></a>В Москве в предстоящие выходные, 1-2 августа, объявлен «оранжевый» уровень погодной опасности из-за жары. Об этом граждан информирует Гидрометцентр России. <p class="titl"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-ob-opasnosti-v-vykhodnye-31-07-2026.htm">«Оранжевый» уровень погодной опасности из-за жары объявлен в Москве 1-2 августа</a></p></div>
+</div><!--n:Мослента/Оранжевый уровень погодной опасности из-за жары объявлен в Москве 1-2 августа:s:9462464:e:871-->
+<!----><!--2026-07-31 14:33:53-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/afisha-dobavila-sobytiya-v-2gis-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/11/6993613/74dee840bf4c4d92eeabe85f23a288e9100f8428.jpg"></a>Маркетплейс впечатлений Afisha.ru интегрировался в интерфейс карты 2ГИС. Вся событийная база платформы — концерты, спектакли, выставки и кино — теперь доступна пользователям навигационного сервиса. На первом этапе функция работает в Москве, Санкт-Петербурге и Новосибирске, список городов будет расширяться. <p class="titl"><a href="https://moslenta.ru/news/city/afisha-dobavila-sobytiya-v-2gis-31-07-2026.htm">«Афиша» добавила концерты и спектакли в приложение 2ГИС</a></p></div>
+</div><!--n:Мослента/Афиша добавила концерты и спектакли в приложение 2ГИС:s:9463518:e:1073-->
+<!----><!--2026-07-31 18:31:20-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/stalo-izvestno-ob-areste-25-letnego-mayakovskogo-v-moskve-za-pristavaniya-k-devushkam-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/14/6993745/2e3387e47a9d4e9bd47ae5544fb830b88e45556b.jpg"></a>Останкинский районный суд города Москвы арестовал жителя Санкт-Петербурга по фамилии Маяковский за хулиганство в столице. Об этом сообщила пресс-служба судов общей юрисдикции города. <p class="titl"><a href="https://moslenta.ru/news/lyudi/stalo-izvestno-ob-areste-25-letnego-mayakovskogo-v-moskve-za-pristavaniya-k-devushkam-31-07-2026.htm">Суд арестовал жителя Петербурга по фамилии Маяковский за хулиганство в Москве</a></p></div>
+</div><!--n:Мослента/Суд арестовал жителя Петербурга по фамилии Маяковский за хулиганство в Москве:s:9464733:e:1002-->
+<!----><!--2026-08-01 02:47:23-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-khrame-vasiliya-blazhennogo-proizoshel-pozhar-01-08-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/23/6993850/bc9ac91120535a032838e38c13b3d28892212817.jpg"></a>В храме Василия Блаженного в Москве произошел пожар, пишет ТАСС со ссылкой на оперативные службы. <p class="titl"><a href="https://moslenta.ru/news/city/v-khrame-vasiliya-blazhennogo-proizoshel-pozhar-01-08-2026.htm">В храме Василия Блаженного в Москве произошел пожар</a></p></div>
+</div><!--n:Мослента/В храме Василия Блаженного в Москве произошел пожар:s:9465923:e:715-->
+<!----><!--2026-07-31 15:34:12-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/vlasti-moskvy-obratilis-k-voditelyam-iz-za-nadvigayusheisya-zhary-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/10/6993574/f28cb874a47f341864f75aac541fad2b0ec79272.jpg"></a>Власти Москвы обратились к водителям из-за жары, которая ожидается в городе в выходные. Соответствующее сообщение опубликовано в Telegram-канале «Дептранс. Оперативно». <p class="titl"><a href="https://moslenta.ru/news/city/vlasti-moskvy-obratilis-k-voditelyam-iz-za-nadvigayusheisya-zhary-31-07-2026.htm">Дептранс Москвы призвал не оставлять детей и животных в машине в жаркую погоду</a></p></div>
+</div><!--n:Мослента/Дептранс Москвы призвал не оставлять детей и животных в машине в жаркую погоду:s:9466776:e:925-->
+<!----><!--2026-07-31 17:01:23-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/mashina-na-bolshoi-skorosti-uletela-v-moskvu-reku-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/11/6993605/2ff80f5059350dad1be77a2e71031fb76e571afb.jpg"></a>Автомобиль каршеринга на большой скорости улетел в Москву-реку. Инцидент произошел утром в пятницу, 31 июля. Об этом сообщает РЕН ТВ со ссылкой на собственный источник. <p class="titl"><a href="https://moslenta.ru/news/lyudi/mashina-na-bolshoi-skorosti-uletela-v-moskvu-reku-31-07-2026.htm">Машина каршеринга упала в воду с Филевской набережной</a></p></div>
+</div><!--n:Мослента/Машина каршеринга упала в воду с Филевской набережной:s:9467888:e:852-->
+<!----><!--2026-07-31 23:38:43-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-moskve-i-podmoskove-zapretili-maining-kriptovalyut-31-07-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/20/6993844/b016e3da0ee93c6d2f89242c8fa677491f300083.jpg"></a>Правительство выпустило постановление, запрещающее майнинг криптовалют в Москве и Подмосковье с 15 августа 2026-го до конца 2032 года. Текст опубликован на официальном интернет-портале правовой информации. <p class="titl"><a href="https://moslenta.ru/news/city/v-moskve-i-podmoskove-zapretili-maining-kriptovalyut-31-07-2026.htm">В Москве и Подмосковье запретили майнинг криптовалют до конца 2032 года</a></p></div>
+</div><!--n:Мослента/В Москве и Подмосковье запретили майнинг криптовалют до конца 2032 года:s:9468882:e:951-->
+<!----><!--2026-08-01 00:56:45-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvichka-sluchaino-postirala-kotenka-v-mashinke-01-08-2026.htm"><img src="https://moslenta.ru/imgs/2026/07/31/21/6993847/4dc66dcde4a52cd91ad01797dbf72d6006e8c80e.jpg"></a>В Москве спасатели вытащили котенка из стиральной машины. Об этом сообщила пресс-служба столичного Пожарно-спасательного центра. <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvichka-sluchaino-postirala-kotenka-v-mashinke-01-08-2026.htm">Москвичка случайно постирала котенка в машинке и вызвала спасателей</a></p></div>
+</div><!--n:Мослента/Москвичка случайно постирала котенка в машинке и вызвала спасателей:s:9470004:e:812-->
+<!----><!--2026-08-01 11:38:38-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/98e/6be/4db/98e6be4db9f68a41fdc8b8606369078d.jpg" /><p>В ОАО «Российские железные дороги» (РЖД) <a href="https://t.me/telerzd/8427" rel="noopener noreferrer nofollow">представили</a> робота-проводника «Володю» для высокоскоростного поезда «Сапсан». По&nbsp;заверению компании, новый роботизированный проводник «совершил тестовую поездку на&nbsp;поезде №&nbsp;768&nbsp;и&nbsp;железно справился со своими... <p class="titl"><a href="https://habr.com/ru/news/1065594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065594">В РЖД представили робота-проводника «Володю» для высокоскоростного поезда «Сапсан»</a></p></div>
+</div><!--n:Хабр/В РЖД представили робота-проводника Володю для высокоскоростного поезда Сапсан:s:9470985:e:1056-->
+<!----><!--2026-08-01 10:41:36-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><p>The Information сообщает, что на этой неделе OpenAI показала в Вашингтоне новую модель. Её назвали Astra. Компания пока не решила, станет ли Astra стартом линейки GPT-6 или выйдет как дополнительная модель в серии GPT-5, например, GPT-5.7.</p> <a href="https://habr.com/ru/articles/1065574/#habracut">Читать далее</a> <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/1065574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065574">Сэм Альтман показал властям США новую модель: OpenAI Astra</a></p></div>
+</div><!--n:Хабр/Сэм Альтман показал властям США новую модель OpenAI Astra:s:9472224:e:820-->
+<!----><!--2026-08-01 14:12:52-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><p>OpenAI опубликовала исследование, в котором утверждает, что ее внутренняя модель Astra достигла сразу десяти новых результатов в современной математике, включая задачи, которые оставались открытыми на протяжении десятилетий. Компания заявляет, что модель Astra не просто воспроизводила известные рассуждения, а самостоятельно находила ключевые идеи доказательств, после чего формализовала их в системе Lean и получила машинно проверяемые сертификаты корректности.</p><p>Вместе ... <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/1065612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065612">OpenAI заявила о 10 математических прорывах: достижения новой модели Astra</a></p></div>
+</div><!--n:Хабр/OpenAI заявила о 10 математических прорывах достижения новой модели Astra:s:9473174:e:1236-->
+<!----><!--2026-08-01 15:01:39-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/star_wars_knights_of_the_old_republic/news/sluh_lucasfilm_prekratila_sotrudnichestvo_s_aspyr_posle_provala_battlefront_classic_collection_i_remejka_kotor-1863669#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/UM6wTZQSn1btzzIx5rHowA.png"></a>По данным инсайдеров, Lucasfilm больше не сотрудничает со студией Aspyr, которая ранее занималась переизданиями классических игр по вселенной Star Wars. Причиной такого решения якобы стали неудачный запуск Star Wars: Battlefront Classic Collection и проблемы с... <p class="titl"><a href="https://www.playground.ru/star_wars_knights_of_the_old_republic/news/sluh_lucasfilm_prekratila_sotrudnichestvo_s_aspyr_posle_provala_battlefront_classic_collection_i_remejka_kotor-1863669#utm_source=rss&utm_medium=referral&utm_campaign=news">Слух: Lucasfilm прекратила сотрудничество с Aspyr после провала Battlefront Classic Collection и ремейка KOTOR</a></p></div>
+</div><!--n:PlayGround.ru/Слух Lucasfilm прекратила сотрудничество с Aspyr после провала Battlefront Classic Collection и ремейка KOTOR:s:9474570:e:1287-->
+<!----><!--2026-08-01 16:54:41-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/fallout_5/news/dzhez_korden_inxile_entertainment_mozhet_vypustit_igru_po_vselennoj_fallout-1863676#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/FbruJIWRgaTvYYgRdqSYxw.png"></a>Авторитетный инсайдер Джез Корден из издания Windows Central рассказал в недавнем подкасте новости о студии InXile Entertainment, известной по работе над серией игр Wasteland и The Bard's Tale. С его слов InXile продолжает работу над... <p class="titl"><a href="https://www.playground.ru/fallout_5/news/dzhez_korden_inxile_entertainment_mozhet_vypustit_igru_po_vselennoj_fallout-1863676#utm_source=rss&utm_medium=referral&utm_campaign=news">Джез Корден: InXile Entertainment может выпустить игру по вселенной Fallout</a></p></div>
+</div><!--n:PlayGround.ru/Джез Корден InXile Entertainment может выпустить игру по вселенной Fallout:s:9476056:e:1061-->
+<!----><!--2026-08-01 18:42:10-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/cronos_the_new_dawn/news/mechanics_voiceover_uspeshno_zavershila_sbor_na_cronos_the_new_dawn-1863692#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/Jf793reMZ0P-pLTlSkm_cw.png"></a>Команда локализаторов Mechanics VoiceOver с огромной радостью сообщила о ещё одном закрытом сборе средств! <p class="titl"><a href="https://www.playground.ru/cronos_the_new_dawn/news/mechanics_voiceover_uspeshno_zavershila_sbor_na_cronos_the_new_dawn-1863692#utm_source=rss&utm_medium=referral&utm_campaign=news">Mechanics VoiceOver успешно завершила сбор на Cronos: The New Dawn</a></p></div>
+</div><!--n:PlayGround.ru/Mechanics VoiceOver успешно завершила сбор на Cronos The New Dawn:s:9477271:e:847-->
+<!----><!--2026-08-01 16:58:36-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/final_fantasy_7_part_3/news/rezhisser_final_fantasy_vii_revelation_prizval_igrokov_ne_zatsiklivatsya_na_finale_igry-1863678#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/1HPxXNmzRRnrXN0neOGeLg.png"></a>Режиссер Final Fantasy VII Revelation Наоки Хамагути попросил фанатов не сосредотачиваться исключительно на концовке заключительной части трилогии ремейков. По его словам, гораздо важнее оценивать историю целиком, а не только ее финал. <p class="titl"><a href="https://www.playground.ru/final_fantasy_7_part_3/news/rezhisser_final_fantasy_vii_revelation_prizval_igrokov_ne_zatsiklivatsya_na_finale_igry-1863678#utm_source=rss&utm_medium=referral&utm_campaign=news">Режиссер Final Fantasy VII Revelation призвал игроков не зацикливаться на финале игры</a></p></div>
+</div><!--n:PlayGround.ru/Режиссер Final Fantasy VII Revelation призвал игроков не зацикливаться на финале игры:s:9478245:e:1170-->
+<!----><!--2026-08-01 14:52:58-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/resident_evil_requiem/news/kler_redfild_snova_v_dele_dlya_resident_evil_requiem_vyshel_mod_vozvraschayuschij_kultovuyu_geroinyu_v_stile_code_veronica-1863667#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/5W5_pGfz9z8wJyBckuxi0w.webp"></a>Поклонники классических частей Resident Evil получили еще один повод вернуться в Resident Evil Requiem. Для недавнего хоррора вышла крупная пользовательская модификация, которая заменяет главную героиню Грейс Эшкрофт на Клэр Редфилд, воссозданную в ее культовом образе... <p class="titl"><a href="https://www.playground.ru/resident_evil_requiem/news/kler_redfild_snova_v_dele_dlya_resident_evil_requiem_vyshel_mod_vozvraschayuschij_kultovuyu_geroinyu_v_stile_code_veronica-1863667#utm_source=rss&utm_medium=referral&utm_campaign=news">Клэр Редфилд снова в деле: для Resident Evil Requiem вышел мод, возвращающий культовую героиню в стиле Code: Veronica</a></p></div>
+</div><!--n:PlayGround.ru/Клэр Редфилд снова в деле для Resident Evil Requiem вышел мод, возвращающий культовую героиню в стиле Code Veronica:s:9479590:e:1348-->

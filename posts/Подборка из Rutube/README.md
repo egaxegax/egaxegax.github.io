@@ -23871,3 +23871,344 @@
     <i class="smaller3">2026-07-25</i>
   </div>
 </div><!--n:Жизнь в США и России/Украинский фронт - ухилянтов на Украине сделают пустым местом. Похоронки с выставки дронов. 25.07.26:s:2082676:e:952-->
+<!----><!--2026-07-26 16:46:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/smert_robin_guda_film_2026_the_death_of_robin_hood">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dfa6b3631e2e7c6cdf7b8073c27327d6/" src="http://pic.rtbcdn.ru/video/2026-07-26/25/21/25216b2bae53fcaacd3d16e733d39e9c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/smert_robin_guda_film_2026_the_death_of_robin_hood">Смерть Робин Гуда (фильм 2026) / The Death of Robin Hood</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-26</i>
+  </div>
+</div><!--n:Мир кино/Смерть Робин Гуда (фильм 2026) The Death of Robin Hood:s:2083867:e:719-->
+<!----><!--2026-07-26 18:09:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/istoriya_igrushek_5_multfilm_2026_toy_story_5">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f716b3830d93662b857c8eb421b18d7a/" src="http://pic.rtbcdn.ru/video/2026-07-26/03/52/03521601c27b1b9423069df3ee7d172f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/istoriya_igrushek_5_multfilm_2026_toy_story_5">История игрушек 5 (мультфильм 2026) / Toy Story 5</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-26</i>
+  </div>
+</div><!--n:Мир кино/История игрушек 5 (мультфильм 2026) Toy Story 5:s:2084702:e:706-->
+<!----><!--2026-07-27 18:05:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tonet_suhogruz_u_odessy_vzyali_belickoe_minus_podstancii_27_07_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2248a322cdc2a261422e1da692b49385/" src="http://pic.rtbcdn.ru/video/2026-07-27/26/d2/26d25fd47cc134b66addb57f4e11ddaf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_tonet_suhogruz_u_odessy_vzyali_belickoe_minus_podstancii_27_07_26">Украинский фронт - тонет сухогруз у Одессы. Взяли Белицкое. Минус подстанции. 27.07.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-27</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - тонет сухогруз у Одессы. Взяли Белицкое. Минус подстанции. 27.07.26:s:2085521:e:893-->
+<!----><!--2026-07-27 21:10:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/den_razoblacheniya_film_2026_disclosure_day">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/94375611f2ea32a4d9650f189aaf3d0d/" src="http://pic.rtbcdn.ru/video/2026-07-27/d6/99/d6992cabf5e4bb57dd82666dbf4ff920.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/den_razoblacheniya_film_2026_disclosure_day">День разоблачения (фильм 2026) / Disclosure Day</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-27</i>
+  </div>
+</div><!--n:Мир кино/День разоблачения (фильм 2026) Disclosure Day:s:2086626:e:697-->
+<!----><!--2026-07-28 15:59:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/supergerl_film_2026_supergirl">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/eec8f579f5efb1e8bbdc783346d8b613/" src="http://pic.rtbcdn.ru/video/2026-07-28/b5/6b/b56b05a0ad3791e256583ca284ed2ade.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/supergerl_film_2026_supergirl">Супергёрл (фильм 2026) / Supergirl</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-28</i>
+  </div>
+</div><!--n:Мир кино/Супергёрл (фильм 2026) Supergirl:s:2087431:e:649-->
+<!----><!--2026-07-27 19:16:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_ochen_strashnoe_kino_6_scary_movie_6_4k">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6e44013da2962665f92963103d8df849/" src="http://pic.rtbcdn.ru/video/2026-06-15/d2/64/d264904264eacced06ea6eaf53508530.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_ochen_strashnoe_kino_6_scary_movie_6_4k">Фильм Очень страшное кино 6 / Scary Movie 6 | 4K</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-07-27</i>
+  </div>
+</div><!--n:Мир кино/Фильм Очень страшное кино 6 Scary Movie 6 4K:s:2088168:e:746-->
+<!----><!--2026-07-27 19:17:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/film_mandalorec_i_grogu_the_mandalorian_grogu_4k">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/143942f1a5de29e6220ceefdfabab943/" src="http://pic.rtbcdn.ru/video/2026-05-27/d9/dc/d9dc405067adae8603f51dce746ce7f4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/film_mandalorec_i_grogu_the_mandalorian_grogu_4k">Фильм Мандалорец и Грогу / The Mandalorian & Grogu | 4K</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-07-27</i>
+  </div>
+</div><!--n:Мир кино/Фильм Мандалорец и Грогу The Mandalorian Grogu 4K:s:2089022:e:760-->
+<!----><!--2026-07-28 18:30:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front-_proryv_na_drujkovku_belyj_kolodez_-_ros_flag_28_07_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/61c19090df0e0b167cf871424ebf751b/" src="http://pic.rtbcdn.ru/video/2026-07-28/6f/42/6f42497ce470c697e920251489f27720.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front-_proryv_na_drujkovku_belyj_kolodez_-_ros_flag_28_07_26">Украинский фронт- прорыв на Дружковку. Белый Колодезь - рос. флаг. 28.07.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-28</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт- прорыв на Дружковку. Белый Колодезь - рос. флаг. 28.07.26:s:2089894:e:845-->
+<!----><!--2026-07-29 14:27:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/piramidy_gizy_mogli_sushchestvovat_eshche_do_poyavleniya_pervyh_izvestnyh_civilizacij">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/872420838018813787de264a0c4edd9d/" src="http://pic.rtbcdn.ru/video/2026-07-28/fe/68/fe6829a3c8823eed64b40fbeaa34ff90.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/piramidy_gizy_mogli_sushchestvovat_eshche_do_poyavleniya_pervyh_izvestnyh_civilizacij">Пирамиды Гизы могли существовать ещё до появления первых известных цивилизаций</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-29</i>
+  </div>
+</div><!--n:Тайны/Пирамиды Гизы могли существовать ещё до появления первых известных цивилизаций:s:2090929:e:861-->
+<!----><!--2026-07-29 14:28:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/solnce_okazalos_pryamo_sredi_oblakov_kadry_snova_postavili_pod_somnenie_formu_zemli">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bfc5a312257bd6b06c725cf484295858/" src="http://pic.rtbcdn.ru/video/2026-07-28/71/cf/71cf63d6d7648d39ffa0ffff44e3ac2b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/solnce_okazalos_pryamo_sredi_oblakov_kadry_snova_postavili_pod_somnenie_formu_zemli">Солнце оказалось прямо среди облаков — кадры снова поставили под сомнение форму Земли</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-29</i>
+  </div>
+</div><!--n:Тайны/Солнце оказалось прямо среди облаков кадры снова поставили под сомнение форму Земли:s:2091974:e:869-->
+<!----><!--2026-07-29 14:28:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/vozle_jupitera_snyali_gigantskij_cilindricheskij_nlo_razmerom_s_planetu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/93f1bf5e37df363d55fb0f5aa14b89bc/" src="http://pic.rtbcdn.ru/video/2026-07-28/f6/40/f640765610eb868b8eaa3554477d0d31.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/vozle_jupitera_snyali_gigantskij_cilindricheskij_nlo_razmerom_s_planetu">Возле Юпитера сняли гигантский цилиндрический НЛО размером с планету</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-29</i>
+  </div>
+</div><!--n:Тайны/Возле Юпитера сняли гигантский цилиндрический НЛО размером с планету:s:2093035:e:814-->
+<!----><!--2026-07-29 14:28:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/uchenyj_zony_51_zayavil_chto_lechil_cheloveka_iz_budushchego_i_uznal_sudbu_chelovechestva">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1a2cc21d235515e5ee738b0c3ce7d885/" src="http://pic.rtbcdn.ru/video/2026-07-28/96/f3/96f336843b7a0a6c89fa249737ce0a34.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/uchenyj_zony_51_zayavil_chto_lechil_cheloveka_iz_budushchego_i_uznal_sudbu_chelovechestva">Учёный Зоны 51 заявил, что лечил человека из будущего и узнал судьбу человечества</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-29</i>
+  </div>
+</div><!--n:Тайны/Учёный Зоны 51 заявил, что лечил человека из будущего и узнал судьбу человечества:s:2094014:e:869-->
+<!----><!--2026-07-29 18:17:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_vojska_zahodyat_v_drujkovku_vzyali_krasnyj_kut_29_07_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a81c0b08a10890946fcb0e50a16176c9/" src="http://pic.rtbcdn.ru/video/2026-07-29/02/cd/02cdcb09bf4860184a0ae775c3f47573.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rossijskie_vojska_zahodyat_v_drujkovku_vzyali_krasnyj_kut_29_07_26">Украинский фронт - российские войска заходят в Дружковку. Взяли Красный Кут. 29.07.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-29</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - российские войска заходят в Дружковку. Взяли Красный Кут. 29.07.26:s:2095067:e:894-->
+<!----><!--2026-07-29 18:00:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/oni_pridut_za_toboj_film_2026_they_will_kill_you">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5ab809acd35dc082574c0faf339f21e6/" src="http://pic.rtbcdn.ru/video/2026-07-29/b8/db/b8db05e88a3f7dae77fd6f384c8c8a4c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/oni_pridut_za_toboj_film_2026_they_will_kill_you">Они придут за тобой (фильм 2026) / They Will Kill You</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-29</i>
+  </div>
+</div><!--n:Мир кино/Они придут за тобой (фильм 2026) They Will Kill You:s:2096172:e:713-->
+<!----><!--2026-07-30 19:28:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kiev_i_lvov_v_ogne_ujas_v_krivom_roge_ryvok_na_8_km_v_harkovskoj_30_07_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/23c136a039f3ee145f695a27b6c61704/" src="http://pic.rtbcdn.ru/video/2026-07-30/82/cb/82cb3b082060968208552870ee2a2fdc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_kiev_i_lvov_v_ogne_ujas_v_krivom_roge_ryvok_na_8_km_v_harkovskoj_30_07_26">Украинский фронт - Киев и Львов в огне. Ужас в Кривом Роге. Рывок на 8 км в Харьковской. 30.07.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-30</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Киев и Львов в огне. Ужас в Кривом Роге. Рывок на 8 км в Харьковской. 30.07.26:s:2096999:e:923-->
+<!----><!--2026-07-30 18:29:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_2_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/55ec1f471ef83bb17f89098ff446d2ed/" src="http://pic.rtbcdn.ru/video/2026-02-28/f3/a6/f3a62927341a5b17969100461691b700.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_2_seriya_scrubs">Сериал Клиника 10 сезон 2 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-07-30</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 2 серия Scrubs:s:2098148:e:729-->
+<!----><!--2026-07-30 19:53:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_laki_1_sezon_4_seriya_lucky">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/abda29cdcc9ac2c1607765247500b4c7/" src="http://pic.rtbcdn.ru/video/2026-07-30/f4/a1/f4a154826f395c9beb671b360933b431.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_laki_1_sezon_4_seriya_lucky">Сериал Лаки 1 сезон 4 серия / Lucky</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-07-30</i>
+  </div>
+</div><!--n:Мир кино/Сериал Лаки 1 сезон 4 серия Lucky:s:2098980:e:711-->
+<!----><!--2026-07-30 18:29:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_1_seriya_scrubs">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ddeef629019e6d0bae13d69df3459eda/" src="http://pic.rtbcdn.ru/video/2026-02-28/35/1d/351d8681c56a9f66d137bce80b343349.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_klinika_10_sezon_1_seriya_scrubs">Сериал Клиника 10 сезон 1 серия / Scrubs</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-07-30</i>
+  </div>
+</div><!--n:Мир кино/Сериал Клиника 10 сезон 1 серия Scrubs:s:2099786:e:729-->
+<!----><!--2026-07-31 15:39:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/italyancy_zapisali_poslednie_slova_sovetskoj_jenshchiny-kosmonavta_kotoroj_net_v_arhivah">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bd649a0b6c3a8e1d9f843c29b201956f/" src="http://pic.rtbcdn.ru/video/2026-07-30/04/93/0493269ef76d453ba0a42685c752c171.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/italyancy_zapisali_poslednie_slova_sovetskoj_jenshchiny-kosmonavta_kotoroj_net_v_arhivah">Итальянцы записали последние слова советской женщины-космонавта, которой нет в архивах?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Тайны/Итальянцы записали последние слова советской женщины-космонавта, которой нет в архивах:s:2100618:e:882-->
+<!----><!--2026-07-31 15:39:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ohotnichya_kamera_v_finlyandii_snyala_nlo_kotoryj_ostanovilsya_pered_samoj_zemlej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/19c3e5427d3fe24b089b7cd96bd785a9/" src="http://pic.rtbcdn.ru/video/2026-07-30/fa/fc/fafc649e926a9c37080a8a2e0e57f5bd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ohotnichya_kamera_v_finlyandii_snyala_nlo_kotoryj_ostanovilsya_pered_samoj_zemlej">Охотничья камера в Финляндии сняла НЛО, который остановился перед самой землёй</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Тайны/Охотничья камера в Финляндии сняла НЛО, который остановился перед самой землёй:s:2101698:e:851-->
+<!----><!--2026-07-31 15:39:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/prishelec_s_venery_desyatiletiyami_rabotal_na_pravitelstvo_ssha_redkoe_foto_ostalos_v_seti">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/148977332d7d1923a198d29b3e16d570/" src="http://pic.rtbcdn.ru/video/2026-07-30/a9/46/a9465f0a14d8c205f13ef95f75494028.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/prishelec_s_venery_desyatiletiyami_rabotal_na_pravitelstvo_ssha_redkoe_foto_ostalos_v_seti">Пришелец с Венеры десятилетиями работал на правительство США — редкое фото осталось в сети?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Тайны/Пришелец с Венеры десятилетиями работал на правительство США редкое фото осталось в сети:s:2102731:e:893-->
+<!----><!--2026-07-31 15:39:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_snimke_curiosity_nashli_raketu_i_zagovorili_o_drevnem_konflikte_na_marse">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9121f9004f312013f3507368160165da/" src="http://pic.rtbcdn.ru/video/2026-07-30/fa/c4/fac4e65ad37c0f69546ce8e2b5535e93.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_snimke_curiosity_nashli_raketu_i_zagovorili_o_drevnem_konflikte_na_marse">На снимке Curiosity нашли «ракету» и заговорили о древнем конфликте на Марсе?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Тайны/На снимке Curiosity нашли ракету и заговорили о древнем конфликте на Марсе:s:2103825:e:827-->
+<!----><!--2026-07-31 19:03:46-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rassledovanie_zverstv_vsu_minus_200_azs_5000_tys_ukrainskih_mertvecov_31_07_2">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9f60f214b03a03bdf94ec8831d97437d/" src="http://pic.rtbcdn.ru/video/2026-07-31/dd/a8/dda8e592fd4027daef7fef7d967b300b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rassledovanie_zverstv_vsu_minus_200_azs_5000_tys_ukrainskih_mertvecov_31_07_2">Украинский фронт - расследование зверств ВСУ. Минус 200 АЗС. 5000 тыс. украинских мертвецов. 31.07.2</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - расследование зверств ВСУ. Минус 200 АЗС. 5000 тыс. украинских мертвецов. 31.07.2:s:2104817:e:936-->
+<!----><!--2026-07-31 17:08:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_8_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f2d090f3f143f815c54b053f7019640d/" src="http://pic.rtbcdn.ru/video/2026-07-30/7e/32/7e3272850baaa43ed4683c517ddf67ad.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_8_seriya_serial_2009_misfits">Отбросы - 4 сезон 8 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 8 серия (сериал 2009) Misfits:s:2105984:e:707-->
+<!----><!--2026-07-31 17:03:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_3_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/937edb50066b816e34e11cda7b70ca4d/" src="http://pic.rtbcdn.ru/video/2026-07-30/df/3f/df3f3f6b842e86a69a654b211b61f1e2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_3_seriya_serial_2009_misfits">Отбросы - 4 сезон 3 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 3 серия (сериал 2009) Misfits:s:2106803:e:707-->
+<!----><!--2026-07-31 17:01:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_1_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/19cec3985f688a589ca62086f626308f/" src="http://pic.rtbcdn.ru/video/2026-07-30/a7/f3/a7f37d240c152c5f94ff3ccadf0f166f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_1_seriya_serial_2009_misfits">Отбросы - 4 сезон 1 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 1 серия (сериал 2009) Misfits:s:2107622:e:707-->
+<!----><!--2026-07-31 17:04:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_4_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7b4875671f607a48c5590959ae43f6b7/" src="http://pic.rtbcdn.ru/video/2026-07-30/e5/20/e5200bd1dfb0ac3c97523f84e1d17d95.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_4_seriya_serial_2009_misfits">Отбросы - 4 сезон 4 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 4 серия (сериал 2009) Misfits:s:2108441:e:707-->
+<!----><!--2026-07-31 17:07:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_7_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/00898c4fa253a95bfb7dc7c0629aa658/" src="http://pic.rtbcdn.ru/video/2026-07-30/d3/b9/d3b9677341b3c2ceefbed1627b23f68e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_7_seriya_serial_2009_misfits">Отбросы - 4 сезон 7 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 7 серия (сериал 2009) Misfits:s:2109260:e:707-->
+<!----><!--2026-07-31 17:02:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_2_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9d12d1f340d8e65521a2322b3dbff9a7/" src="http://pic.rtbcdn.ru/video/2026-07-30/9c/f7/9cf7c79ea48565cac205a74d6e58c536.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_2_seriya_serial_2009_misfits">Отбросы - 4 сезон 2 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 2 серия (сериал 2009) Misfits:s:2110079:e:707-->
+<!----><!--2026-07-31 17:05:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_5_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9710b02b0a8a251b27f360ff67843a93/" src="http://pic.rtbcdn.ru/video/2026-07-30/61/b8/61b837ce367833e4762d5291a9600b96.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_5_seriya_serial_2009_misfits">Отбросы - 4 сезон 5 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 5 серия (сериал 2009) Misfits:s:2110898:e:707-->
+<!----><!--2026-07-31 17:06:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_6_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ba9b5bd98a0b562b3dc928463592281f/" src="http://pic.rtbcdn.ru/video/2026-07-30/03/6c/036cdd3a61653d2abb4f0adfa41282a7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_4_sezon_6_seriya_serial_2009_misfits">Отбросы - 4 сезон 6 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-07-31</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 4 сезон 6 серия (сериал 2009) Misfits:s:2111717:e:707-->

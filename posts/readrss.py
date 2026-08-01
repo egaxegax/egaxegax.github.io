@@ -28,7 +28,7 @@ cdir = os.path.dirname(__file__)
 sys.path.insert(0, cdir+'/..')
 
 from update import main as update_main
-from updatelist import tr_chars
+from updatelist import tr_chars, tr_cut
 # from updaterssd import main as updaterss_main
 
 total = 10
@@ -38,39 +38,39 @@ cdtm = time.localtime()
 for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id in sys.argv]):
   with urlopen(Request(prm['url'], headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     for channel in ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('channel'):
-      if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):
-        os.mkdir(os.path.join(cdir, os.path.dirname(prm['hdr'])))
-      if not os.path.exists(os.path.join(cdir, prm['hdr'])):
-        os.mkdir(os.path.join(cdir, prm['hdr']))
-      with open(os.path.join(cdir, prm['hdr'], '{y}{m}{d} {h}{c}.md'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % ri))), 'w+', encoding='utf-8', newline='\n') as fp:
-        try:    locale.setlocale(locale.LC_ALL, 'Russian')
-        except: pass
-        fp.write('<h2 class="hspace">'+prm['hdr2']+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>')
-        locale.setlocale(locale.LC_ALL, 'C')
-        for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
-          link = item.find('link').text
-          titl = item.find('title').text
-          ptitl = '<a class="nodecor" href="{link}">{titl}</a>'.format(link=link, titl=tr_chars(titl, 200))
-          pdate = item.find('pubDate').text
-          if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
-            pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
-          elif re.search(r'^\d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
-            pdt = time.strptime(pdate, '%d %b %Y %H:%M:%S %z')
-          elif re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2} \+\w+$', pdate):
-            pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M %z')
-          else:
-            print('pubDate %s is incorrect!!!' % pdate)
-            pdt = cdtm
-          if ii == 0: ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
-          else: ctime = ''
-          text = """{ctime}
+      if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))): os.mkdir(os.path.join(cdir, os.path.dirname(prm['hdr'])))
+      if not os.path.exists(os.path.join(cdir, prm['hdr'])): os.mkdir(os.path.join(cdir, prm['hdr']))
+      try:    locale.setlocale(locale.LC_ALL, 'Russian')
+      except: pass
+      fn = prm['hdr2']+' на '+ '{y}{m}{d}_{h}{c}'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % ri))
+      tr = ['<h2 class="hspace">'+prm['hdr2']+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>']
+      locale.setlocale(locale.LC_ALL, 'C')
+      for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
+        link = item.find('link').text
+        titl = item.find('title').text
+        ptitl = '<a class="nodecor" href="{link}">{titl}</a>'.format(link=link, titl=tr_chars(titl, 200))
+        pdate = item.find('pubDate').text
+        if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
+          pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
+        elif re.search(r'^\d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
+          pdt = time.strptime(pdate, '%d %b %Y %H:%M:%S %z')
+        elif re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2} \+\w+$', pdate):
+          pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M %z')
+        else:
+          print('pubDate %s is incorrect!!!' % pdate)
+          pdt = cdtm
+        if ii == 0: ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
+        else: ctime = ''
+        text = """{ctime}
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">{ph}:{pmi}</span> {titl}</div>
 </div>""".format(ctime=ctime, titl=ptitl, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
-          fp.write(text)
-          fcount += 1
-        fp.write('<div class="rssurl gray smaller" style="display:none">'+ prm['url'] +'</div>')
-      print(prm['hdr'], prm['url'], '(%s)' % (fcount,))
+        tr.append( text )
+        fcount += 1
+      sbtext = '<div class="rssurl gray smaller" style="display:none">'+ prm['url'] +'</div>'
+      try:    open(os.path.join(cdir, prm['hdr'], tr_cut(fn) + '.md'), 'w', encoding='utf-8', newline='\n').write(''.join(tr) + sbtext)
+      except: continue
+    print(prm['hdr'], prm['url'], '(%s)' % (fcount,))
 
 if fcount:
   time.sleep(1)
