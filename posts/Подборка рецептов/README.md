@@ -5234,3 +5234,61 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184214/"><img src="https://www.povarenok.ru/data/cache/2026aug/01/26/3229257_62226-640x480.jpg"></a>Очень люблю эту заготовку! Вкусно с запеченным мясом, с рыбой, с шашлыками. Можно добавить в сложный гарнир или дополнить сырную тарелку. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184214/">Маринованный крыжовник</a></p></div>
 </div><!--n:Поваренок.РУ/Маринованный крыжовник:s:1122389:e:625-->
+<!----><!--2026-08-02 20:18:10-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184220/"><img src="https://www.povarenok.ru/data/cache/2026aug/02/09/3229509_47854-640x480.jpg"></a>Грибная икра - это настоящий деликатес. Для её приготовления годятся любые грибы, подойдут шампиньоны, опята, все лесные грибы.
+Такая икра может стать вкусной начинкой для пирогов, вареников с картошкой и икрой, намазкой для бутербродов, дополнением к гарнирам. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184220/">Грибная икра на зиму</a></p></div>
+</div><!--n:Поваренок.РУ/Грибная икра на зиму:s:1123107:e:846-->
+<!----><!--2026-08-02 20:28:24-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184221/"><img src="https://www.povarenok.ru/data/cache/2026aug/02/52/3229491_59598-640x480.jpg"></a>Релиш – это популярная в США и Европе приправа к мясным и рыбным блюдам. А ещё его добавляют в бургеры, сэндвичи и хот-доги. Такой релиш можно заготовить на зиму и это очень вкусно, хрустко и пикантно. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184221/">Огуречный соус-релиш с изюмом</a></p></div>
+</div><!--n:Поваренок.РУ/Огуречный соус-релиш с изюмом:s:1124040:e:749-->
+<!----><!--2026-08-02 21:32:48-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184222/"><img src="https://www.povarenok.ru/data/cache/2026jul/21/37/3226979_17753-640x480.jpg"></a>Скандинавский томатный тарт - это свежий и вкусный открытый пирог с помидорами, выложенными поверх нежного крема на хрустящей основе из теста. В оригинале тарт готовится с сыром ригеост, распространенным в Скандинавии сливочным копченым сыром, который в этом рецепте заменяется рикоттой. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184222/">Скандинавский томатный тарт</a></p></div>
+</div><!--n:Поваренок.РУ/Скандинавский томатный тарт:s:1124893:e:914-->
+<!----><!--2026-08-02 20:00:26-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/vishnevaya-nastoyka-na-vodke-v-domashnih-usloviyah/photo/960w.jpg" width="960" alt="Вишнёвая настойка на водке в домашних условиях"><p>Вишнёвая настойка на водке в домашних условиях получается насыщенной, ароматной, в меру сладкой и довольно крепкой. Для неё я беру спелую вишню с косточками, накалываю каждую ягодку зубочисткой, добавляю немного сахара и несколько вишнёвых листьев. За две недели напиток приобретает красивый... <p class="titl"><a href="https://finecooking.ru/recipe/vishnevaya-nastoyka-na-vodke-v-domashnih-usloviyah">Вишнёвая настойка на водке в домашних условиях</a></p></div>
+</div><!--n:finecooking.ru/Вишнёвая настойка на водке в домашних условиях:s:1125909:e:1070-->
+<!----><!--2026-08-03 16:00:24-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184230/"><img src="https://www.povarenok.ru/data/cache/2026aug/01/49/3229326_57643-640x480.jpg"></a>Этот соус-закуску все называют по-своему. Хренодёр, горлодёр, аджика, огонёк... У нас она испокон веков называлась хреновиной. Идеально ложится на ломтик чёрного хлеба, &quot;дружит&quot; с запечённым мясом, холодцом или пельменями. Добавление мёда делает вкус хреновины интереснее, пикантнее и глубже. Но если вам по какой-то причин... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184230/">Хреновина с мёдом</a></p></div>
+</div><!--n:Поваренок.РУ/Хреновина с мёдом:s:1127107:e:963-->
+<!----><!--2026-08-03 21:37:08-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184232/"><img src="https://www.povarenok.ru/data/cache/2026aug/03/31/3229743_95878-640x480.jpg"></a>Абрикосовое варенье с грецкими орехами, это двойное удовольствие. Яркое, насыщенное, с приятной кислинкой, вкусное! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184232/">Абрикосовое варенье с орехами</a></p></div>
+</div><!--n:Поваренок.РУ/Абрикосовое варенье с орехами:s:1128152:e:599-->
+<!----><!--2026-08-03 18:53:03-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184231/"><img src="https://www.povarenok.ru/data/cache/2026aug/03/37/3229680_62012-640x480.jpg"></a>Вы умеете варить борщ в маленькой кастрюле? Я до недавнего времени не умела. Как начну готовить борщ, всё равно выходит кастрюля 3-4 литра. И вроде бы обед на всю неделю уже готов... Но к четвёртому дню не только домочадцы, но и любимый борщ начинает смотреть на тебя с укором. 
+И в какой-то момент я нашла выход. Борщевая заправка н... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184231/">Замороженная заправка для борща "Борщевые кексики"</a></p></div>
+</div><!--n:Поваренок.РУ/Замороженная заправка для борща Борщевые кексики:s:1128856:e:1022-->
+<!----><!--2026-08-04 16:38:46-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184238/"><img src="https://www.povarenok.ru/data/cache/2026aug/04/34/3229885_12344-640x480.jpg"></a>Томатный конфитюр с уксусом из белого вина и перцем кайен. Необыкновенно замечательно) <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184238/">Конфитюр для сырной тарелки</a></p></div>
+</div><!--n:Поваренок.РУ/Конфитюр для сырной тарелки:s:1130020:e:543-->
+<!----><!--2026-08-04 16:05:01-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184237/"><img src="https://www.povarenok.ru/data/cache/2026aug/04/05/3229841_71002-640x480.jpg"></a>Тыква – весьма полезный сезонный продукт, богатый каротином. Именно благодаря каротину она имеет такой оранжевый цвет. Также в тыкве есть витамины A, группы В, С, E, микроэлементы (калий, магний, кальций, железо) и клетчатка. Тыква в рационе станет хорошим источником природных антиоксидантов и растительного белка. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184237/">Тыквенный суп-пюре с халуми</a></p></div>
+</div><!--n:Поваренок.РУ/Тыквенный суп-пюре с халуми:s:1130664:e:955-->
+<!----><!--2026-08-04 18:45:08-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184239/"><img src="https://www.povarenok.ru/data/cache/2026aug/04/29/3229884_26502-640x480.jpg"></a>Домашняя вишневая горчица придаст насыщенный вкус вашим блюдам. Подать такую горчицу можно на праздничный стол к холодцу, да и просто смазать ломтик черного хлеба, сверху уложить тоненький кусочек отварного мяса и вот оно, наслаждение. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184239/">Вишнёвая горчица к мясу</a></p></div>
+</div><!--n:Поваренок.РУ/Вишнёвая горчица к мясу:s:1131719:e:808-->
+<!----><!--2026-08-04 16:56:32-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kompot-iz-slivy-bez-kostochek-na-zimu-bez-sterilizacii/photo/960w.jpg" width="960" alt="Компот из сливы без косточек на зиму без стерилизации"><p>Компот из сливы на зиму я готовлю без стерилизации, простым методом двойной заливки. В рецепте даю пропорции сразу на три банки по 1 литру; для одной 3-литровой банки количество ингредиентов будет таким же.</p> <p class="titl"><a href="https://finecooking.ru/recipe/kompot-iz-slivy-bez-kostochek-na-zimu-bez-sterilizacii">Компот из сливы без косточек на зиму без стерилизации</a></p></div>
+</div><!--n:finecooking.ru/Компот из сливы без косточек на зиму без стерилизации:s:1132620:e:940-->
+<!----><!--2026-08-05 18:35:07-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184248/"><img src="https://www.povarenok.ru/data/cache/2026aug/05/44/3230074_72473-640x480.jpg"></a>Сегодня хочу познакомить вас с заготовкой, которую готовили на Руси ещё наши прабабушки. Это не просто заготовка, а целая история: про бабушкины руки, про выживание, про бережливость и про то, как видеть ценность в самом простом. То есть для предков эта трава была не диковинкой и не сорняком, а привычной пищей. Если говорили «дожил... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184248/">Квашеная сныть</a></p></div>
+</div><!--n:Поваренок.РУ/Квашеная сныть:s:1133699:e:966-->
+<!----><!--2026-08-05 14:13:48-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184246/"><img src="https://www.povarenok.ru/data/cache/2026aug/05/13/3230020_57449-640x480.jpg"></a>Омлет с лисичками это вкусно, просто и красиво! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184246/">Омлет с лисичками и сыром</a></p></div>
+</div><!--n:Поваренок.РУ/Омлет с лисичками и сыром:s:1134742:e:464-->
+<!----><!--2026-08-05 14:55:22-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184247/"><img src="https://www.povarenok.ru/data/cache/2026aug/05/41/3229998_39976-640x480.jpg"></a>Очень вкусный и сытный обед или ужин. Готовить просто и быстро. Порадуйте себя и своих близких вот таким простым, но очень вкусным блюдом. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184247/">Ленивая овощная паста</a></p></div>
+</div><!--n:Поваренок.РУ/Ленивая овощная паста:s:1135302:e:623-->

@@ -24212,3 +24212,366 @@
     <i class="smaller3">2026-07-31</i>
   </div>
 </div><!--n:Мир кино/Отбросы - 4 сезон 6 серия (сериал 2009) Misfits:s:2111717:e:707-->
+<!----><!--2026-08-01 18:56:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rusorez_kak_chast_ideologii_udar_po_kievu_na_ulicah_trupy_minus_more_01_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b3faa8b475768c6cc6eb7bf62adfcb81/" src="http://pic.rtbcdn.ru/video/2026-08-01/42/ce/42cef771b666ae886fa7db7c5fb85b8b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_rusorez_kak_chast_ideologii_udar_po_kievu_na_ulicah_trupy_minus_more_01_08_26">Украинский фронт - Русорез как часть идеологии. Удар по Киеву на улицах трупы. Минус море. 01.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-01</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Русорез как часть идеологии. Удар по Киеву на улицах трупы. Минус море. 01.08.26:s:2112536:e:939-->
+<!----><!--2026-08-03 13:37:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_7_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/eb787c86e083acb7b479050ab58afaa2/" src="http://pic.rtbcdn.ru/video/2026-08-03/4d/27/4d27aeb2f7c511c0990b5b56379535ee.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_7_seriya_serial_2009_misfits">Отбросы - 5 сезон 7 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 7 серия (сериал 2009) Misfits:s:2113709:e:707-->
+<!----><!--2026-08-03 13:38:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_8_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/20eacfa880f2590c91251522a925f271/" src="http://pic.rtbcdn.ru/video/2026-08-03/ee/28/ee28396c707c5381d939a41a2d1ff695.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_8_seriya_serial_2009_misfits">Отбросы - 5 сезон 8 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 8 серия (сериал 2009) Misfits:s:2114528:e:707-->
+<!----><!--2026-08-03 13:33:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_3_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/428d2aa4108369f04e62e3b57dd31712/" src="http://pic.rtbcdn.ru/video/2026-08-03/01/00/01002625c37af9dbc1cac0e40ec8e9d0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_3_seriya_serial_2009_misfits">Отбросы - 5 сезон 3 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 3 серия (сериал 2009) Misfits:s:2115347:e:707-->
+<!----><!--2026-08-03 13:32:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_2_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ff4d04a5e7a7d04dd5d782134ef4187b/" src="http://pic.rtbcdn.ru/video/2026-07-17/07/1b/071b0ecb7acb6a1874ad02db0a3f8a20.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_2_seriya_serial_2009_misfits">Отбросы - 5 сезон 2 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 2 серия (сериал 2009) Misfits:s:2116166:e:707-->
+<!----><!--2026-08-03 13:31:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_1_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/48941f3cdbf9273aaf2c5aa62d30be7b/" src="http://pic.rtbcdn.ru/video/2026-07-31/50/4e/504eb5b12ccf92bb63c9de7b520d951d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_1_seriya_serial_2009_misfits">Отбросы - 5 сезон 1 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 1 серия (сериал 2009) Misfits:s:2116985:e:707-->
+<!----><!--2026-08-03 13:35:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_5_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bf48711f25661518c5def4eb9105b449/" src="http://pic.rtbcdn.ru/video/2026-08-03/31/c6/31c6ad12c196202e16cfa39d2fe9bd41.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_5_seriya_serial_2009_misfits">Отбросы - 5 сезон 5 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 5 серия (сериал 2009) Misfits:s:2117804:e:707-->
+<!----><!--2026-08-03 13:34:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_4_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/97bc096f1b74501d8bc0b5a8e4f75afb/" src="http://pic.rtbcdn.ru/video/2026-08-03/08/f1/08f190871c38c6bdcd8311735afffe69.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_4_seriya_serial_2009_misfits">Отбросы - 5 сезон 4 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 4 серия (сериал 2009) Misfits:s:2118623:e:707-->
+<!----><!--2026-08-03 13:37:22-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_6_seriya_serial_2009_misfits">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d825233321e2fd83edebed98baa52633/" src="http://pic.rtbcdn.ru/video/2026-08-03/be/81/be81b07c6fb21c8aab317229f98a2e1a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/otbrosy_-_5_sezon_6_seriya_serial_2009_misfits">Отбросы - 5 сезон 6 серия (сериал 2009) / Misfits</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Отбросы - 5 сезон 6 серия (сериал 2009) Misfits:s:2119442:e:707-->
+<!----><!--2026-08-03 20:21:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vzryv_v_moskve_udar_po_mostu_v_zatoke_ujas_v_gelendjike_03_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7d06b4fdd6325e5045e2c80937641f5a/" src="http://pic.rtbcdn.ru/video/2026-08-03/58/bf/58bf7d402d0cb2273447298f8be108f6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_vzryv_v_moskve_udar_po_mostu_v_zatoke_ujas_v_gelendjike_03_08_26">Украинский фронт - взрыв в Москве.  Удар по мосту в Затоке. Ужас в Геленджике.  03.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - взрыв в Москве. Удар по мосту в Затоке. Ужас в Геленджике. 03.08.26:s:2120261:e:890-->
+<!----><!--2026-08-04 14:37:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_7_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/47ac9c4390153b40ef907b77d10b9e47/" src="http://pic.rtbcdn.ru/video/2026-08-04/f3/dd/f3dd89ff8993c9ab1e2aec2ff9911af4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_7_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 7 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 7 серия (сериал 2026) Nemesis:s:2121360:e:732-->
+<!----><!--2026-08-04 14:36:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_6_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/01c6c1c1d789f123c13db162b59c171e/" src="http://pic.rtbcdn.ru/video/2026-08-04/6a/5e/6a5ed405a9b59231ed9fa3676963c9e3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_6_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 6 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 6 серия (сериал 2026) Nemesis:s:2122215:e:732-->
+<!----><!--2026-08-04 14:33:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_3_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6ed116e80ae5c16bc0e933e66d9bf3ce/" src="http://pic.rtbcdn.ru/video/2026-08-04/30/bc/30bc084983187069087ebb59f891f8a4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_3_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 3 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 3 серия (сериал 2026) Nemesis:s:2123070:e:732-->
+<!----><!--2026-08-04 14:34:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_4_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d8dc919b91d1dfb21085ec467e229261/" src="http://pic.rtbcdn.ru/video/2026-08-04/9e/bc/9ebcbeecb76821e5787a841c16a0c4d7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_4_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 4 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 4 серия (сериал 2026) Nemesis:s:2123925:e:732-->
+<!----><!--2026-08-03 17:00:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/to_chto_ne_bylo_skazano_film_2026_le_cose_non_dette">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5017caec1b981253760a574d4b14545e/" src="http://pic.rtbcdn.ru/video/2026-08-03/65/2d/652d31bd4c9257ef8fb6efe736702560.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/to_chto_ne_bylo_skazano_film_2026_le_cose_non_dette">То, что не было сказано (фильм 2026) / Le cose non dette</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/То, что не было сказано (фильм 2026) Le cose non dette:s:2124780:e:724-->
+<!----><!--2026-08-04 14:35:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_5_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6a3d7c2a3166fef9988046f3b2c3a63b/" src="http://pic.rtbcdn.ru/video/2026-08-04/dd/f0/ddf0ca10d5624e7b2e0c708119a28f3d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_5_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 5 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 5 серия (сериал 2026) Nemesis:s:2125623:e:732-->
+<!----><!--2026-08-04 14:38:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_8_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dd7e1f9e06f41e9d856660d7c1eabc50/" src="http://pic.rtbcdn.ru/video/2026-08-04/04/0d/040da7ed8530fb478e2a256322845c0b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_8_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 8 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 8 серия (сериал 2026) Nemesis:s:2126478:e:732-->
+<!----><!--2026-08-04 14:32:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_2_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bbd3d006a0378c8b737ee5b7009d6759/" src="http://pic.rtbcdn.ru/video/2026-08-04/f8/e8/f8e8cd0d9204a4d97a4f7d38b4742bfb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_2_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 2 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 2 серия (сериал 2026) Nemesis:s:2127333:e:732-->
+<!----><!--2026-08-03 20:00:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/strana_johana_film_2025_land_van_johan">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d4aeb937e79fc98c99f1a9a2914cb6fe/" src="http://pic.rtbcdn.ru/video/2026-08-03/50/01/500137cbd877cc02cbfcdb3375789ccb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/strana_johana_film_2025_land_van_johan">Страна Йохана (фильм 2025) / Land van Johan</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-03</i>
+  </div>
+</div><!--n:Мир кино/Страна Йохана (фильм 2025) Land van Johan:s:2128188:e:679-->
+<!----><!--2026-08-04 14:31:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_1_seriya_serial_2026_nemesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/df3dc27da0d21262c55e352f58ca3a50/" src="http://pic.rtbcdn.ru/video/2026-08-04/7e/38/7e38478a49827fec49aafedfe3a1d7e2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zaklyatyj_vrag_-_1_sezon_1_seriya_serial_2026_nemesis">Заклятый враг - 1 сезон 1 серия (сериал 2026) / Nemesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Заклятый враг - 1 сезон 1 серия (сериал 2026) Nemesis:s:2128967:e:732-->
+<!----><!--2026-08-04 07:14:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/otdyh_v_pattaje_2026_vse_chto_nujno_znat_pered_poezdkoj_stoit_li_ehat">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dbc7becf1c920f83bdfe97e144334354/" src="http://pic.rtbcdn.ru/video/2026-08-04/bf/a2/bfa24f36da4dd01a7d2700f712f488c7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?puteshestviya_svoi_hodom/otdyh_v_pattaje_2026_vse_chto_nujno_znat_pered_poezdkoj_stoit_li_ehat">Отдых в Паттайе 2026: всё, что нужно знать перед поездкой. Стоит ли ехать?</a></p>
+    <p><i class="smaller2">Вот это отдых | Путешествия своим ходом</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Путешествия свои ходом/Отдых в Паттайе 2026 всё, что нужно знать перед поездкой. Стоит ли ехать:s:2129822:e:893-->
+<!----><!--2026-08-04 19:20:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukraina_nikogda_ne_vstupit_v_nato_-_zalujnyj_udary_po_ukraine_04_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6f6204ab31b93534b523aa7ffbcf7a9f/" src="http://pic.rtbcdn.ru/video/2026-08-04/1a/55/1a554c9e98210c582dd586d1d46e6ff7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ukraina_nikogda_ne_vstupit_v_nato_-_zalujnyj_udary_po_ukraine_04_08_26">Украинский фронт - Украина НИКОГДА не вступит в НАТО - Залужный. Удары по Украине. 04.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Украина НИКОГДА не вступит в НАТО - Залужный. Удары по Украине. 04.08.26:s:2130910:e:910-->
+<!----><!--2026-08-05 13:46:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_6_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5c04813e794bea6cb35e3234832bfea7/" src="http://pic.rtbcdn.ru/video/2026-08-05/d0/d6/d0d6bdefee13272cf2865732415a9c9e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_6_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 6 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 6 серия (сериал 2007) Pushing Daisies:s:2132039:e:799-->
+<!----><!--2026-08-05 13:43:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_3_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b5ecc893425fb0015865cc1a953dc14c/" src="http://pic.rtbcdn.ru/video/2026-08-05/17/97/1797f3404a21477126b8559d9b244864.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_3_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 3 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 3 серия (сериал 2007) Pushing Daisies:s:2132990:e:799-->
+<!----><!--2026-08-05 13:45:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_5_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2ae8eae74c89e86d5a2031813b45f7fe/" src="http://pic.rtbcdn.ru/video/2026-08-05/17/30/17306e561ddcf962d304572d5832a855.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_5_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 5 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 5 серия (сериал 2007) Pushing Daisies:s:2133941:e:799-->
+<!----><!--2026-08-05 13:49:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_9_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/79a5fc46408c849dc059f7183f820f8f/" src="http://pic.rtbcdn.ru/video/2026-08-05/7f/73/7f739e376e7835014e2fa27eed020cde.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_9_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 9 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 9 серия (сериал 2007) Pushing Daisies:s:2134892:e:799-->
+<!----><!--2026-08-04 18:00:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/chelovek-pauk_novyj_den_film_2026_spider-man_brand_new_day">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a07c5d390d8a60c9e55cafdb72654df1/" src="http://pic.rtbcdn.ru/video/2026-08-04/e2/9e/e29ead6d81737ea791d27180d222ba19.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/chelovek-pauk_novyj_den_film_2026_spider-man_brand_new_day">Человек-паук: Новый день (фильм 2026) / Spider-Man: Brand New Day</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Человек-паук Новый день (фильм 2026) Spider-Man Brand New Day:s:2135843:e:749-->
+<!----><!--2026-08-05 13:42:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_2_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/06f13b7a48ae92519d6d1a346547fe0e/" src="http://pic.rtbcdn.ru/video/2026-08-05/ce/9d/ce9d1fc4af73860710fc72b87216e15a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_2_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 2 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 2 серия (сериал 2007) Pushing Daisies:s:2136720:e:799-->
+<!----><!--2026-08-05 13:48:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_8_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e1bacce2cc9b420272c2d4e6d03dd764/" src="http://pic.rtbcdn.ru/video/2026-08-05/60/f6/60f6ec082ec33f606d56bcacf5e0f3d8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_8_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 8 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 8 серия (сериал 2007) Pushing Daisies:s:2137671:e:799-->
+<!----><!--2026-08-04 16:00:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/moana_film_2026_moana">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/49a7f6187d8e786f42171cf1c7f3fa4b/" src="http://pic.rtbcdn.ru/video/2026-08-03/f1/19/f11957cfdc1f7aa2c92e7a24566dfa00.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/moana_film_2026_moana">Моана (фильм 2026) / Moana</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-04</i>
+  </div>
+</div><!--n:Мир кино/Моана (фильм 2026) Moana:s:2138622:e:621-->
+<!----><!--2026-08-05 13:41:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_1_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ea6ee7ff5569c6486c26a06ea8dfae9d/" src="http://pic.rtbcdn.ru/video/2026-08-05/f3/40/f3408b1a455ae285c7a9a003ff867096.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_1_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 1 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 1 серия (сериал 2007) Pushing Daisies:s:2139319:e:799-->
+<!----><!--2026-08-05 13:44:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_4_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1ce5e515354c3edb562ac8171bb112d1/" src="http://pic.rtbcdn.ru/video/2026-08-05/22/fc/22fcb49fdd4bcb0fbe52b67d796f59e9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_4_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 4 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 4 серия (сериал 2007) Pushing Daisies:s:2140270:e:799-->
+<!----><!--2026-08-05 13:47:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_7_seriya_serial_2007_pushing_daisies">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a92b16f6931596d965ea0a0b66e560ba/" src="http://pic.rtbcdn.ru/video/2026-08-05/d9/7e/d97eca37d4e86231fc0ff821a208c308.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mertvye_do_vostrebovaniya_-_1_sezon_7_seriya_serial_2007_pushing_daisies">Мертвые до востребования - 1 сезон 7 серия (сериал 2007) / Pushing Daisies</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-05</i>
+  </div>
+</div><!--n:Мир кино/Мертвые до востребования - 1 сезон 7 серия (сериал 2007) Pushing Daisies:s:2141221:e:799-->
