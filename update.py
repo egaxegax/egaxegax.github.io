@@ -138,7 +138,7 @@ def main(path='.'):
         name = fname + '.md'
         ext = '.md'
       
-      if cwd in ('foto', 'fotosite') and ext.lower() in ('.jpg',):
+      if cwd in ('foto', 'fotosite') and ext.lower() in ('.jpg', '.jpeg'):
         ftime = os.path.getmtime(os.path.join(root, name))
         if subj == 'th': # skip preview
           addskipped(subj)

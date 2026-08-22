@@ -11,7 +11,7 @@
 <meta name="google-site-verification" content="eWwGSnvveM7GniusD-nYN2KXBDPtXBHmhKRezn_TBg8">
 <title>Заметки / Сайт egax</title>
 <link rel="icon" href="static/img/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="static/css/main.css?260806">
+<link rel="stylesheet" href="static/css/main.css?260822">
 <link rel="stylesheet" href="static/css/markdown.css">
 <link rel="stylesheet" href="static/css/posts.css?260717">
 <script src="static/js/template.js?260726"></script>
@@ -28,9 +28,10 @@
 <a title="Тема (День/Ночь)" onclick="chStyle('posts')"><svg width="80" height="16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="-40 -40 80 80"><g transform="scale(0.5 0.5) translate(-220 20)"><path class="yin" d="M0,38a38,38 0 0 1 0,-76a19,19 0 0 1 0,38a19,19 0 0 0 0,38" /><path class="yang" d="M0,38a38,38 0 0 1 0,-76a19,19 0 0 1 0,38a19,19 0 0 0 0,38" transform="scale(-1 -1)" /></g></svg></a>
 </div>
 <div class="mh_hd"></div>
-<div id="root" class="main">
+<div id="root">
 <div id="page_header"></div>
-<div id="page_content"></div>
+<div id="page_content" class="tcell nopad"></div>
+<div id="page_subj" class="tcell vtop rpad"></div>
 <div id="page_footer"></div>
 <div id="footer" class="tcenter">
 <p class="gray">Все тексты, представленные на сайте, взяты из свободных источников или являются авторским творчеством</p>
@@ -141,6 +142,24 @@
     return page.titles.length == 0;
   }
 
+  function addSubjContent(roots, subj, indexpage){
+    if(window.innerWidth < 1150) return;
+    var subdir = '', tmpl = '';
+    subj.slice().sort( function(a,b){ return arraySort(a[2], b[2], 1, 1); } ).forEach(function(e){
+      if (roots[e[3]][0] != '.'){
+        subdir = '<div class="smaller"><em>'+roots[e[3]][0]+'</em></div>';
+      }
+      tmpl += '<table width="100%"><tr>'+
+    '<td width="80%" class="hspaced" style="padding:3px 0">'+
+      '<a class="nodecor dark" href="'+indexpage+'?'+tr(e[0])+'">'+subdir+e[0]+'</a>'+
+    '</td>'+
+    '<td width="20%" align="right" class="smaller" title="обновлено '+buildDate(e[2])+'" ><b><i>'+e[1]+'</i></b></td>'+
+    '</tr></table>';
+    });
+    document.getElementById('page_subj').innerHTML += 
+  '<div class="psubj msgtext wrap scroll">'+tmpl+'</div>';
+  }
+
   xhr({url: 'posts/index.js?'+(+new Date())}, function(s){
     eval(s);
     window.PAGE = {};
@@ -183,6 +202,7 @@
     document.getElementById('page_header').innerHTML = '<div class="table"><div class="tcell vmid">'+PAGE.header+'</div><div class="tcell tright nopad vmid" style="width:100px">'+addFinder("posts")+'</div></div>';
     document.getElementById('page_content').innerHTML = '';
     addPageContent(ROOTS, SUBJ, PAGE, 1);
+    addSubjContent(ROOTS, SUBJ,'index.html');
     document.addEventListener('scroll', function(){ // infinite scroll
       if(!PAGE.lock && (window.pageYOffset + window.innerHeight) > document.getElementById('root').offsetHeight*0.95){
         addPageContent(ROOTS, SUBJ, PAGE);

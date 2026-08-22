@@ -138,7 +138,7 @@ function addFinder(){ return '<div class="nowrap"><a class="nodecor gray" href="
 //
 // return loader image html
 //
-function addLoader(bl){ return (bl ? '<div class="main">&emsp;<img class="rounded loader" alt="" src="static/img/loader.gif"></div>' : ''); }
+function addLoader(bl){ return (bl ? '<div>&emsp;<img class="rounded loader" alt="" src="static/img/loader.gif"></div>' : ''); }
 //
 // return share button svg icon
 //
@@ -190,7 +190,7 @@ function addPaginator(list, page, page_btn){
 //
 function addNotFound(){
   updateMetaTag('robots', 'noindex'); // 404
-  return '<div class="main"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
+  return '<div><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="240" height="240">'+
 '<g stroke-linecap="round" stroke-width="4px" fill="none" stroke="#777">'+
 '<path d="M110 58 Q134 48 144 56" />'+
 '<path d="M36 56 Q40 44 69 53" />'+

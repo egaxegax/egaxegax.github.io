@@ -5,6 +5,7 @@
 .chords strong em { color:#f4c430; }
 .chord { background:#fff; border-radius:2px; }
 .chord div { color:#4d3ca0; font-size:15px; display:inline-block; }
+.av div.cover { background:#222; }
 body { background:#222; color:#dedede; }
 a { color:#f4c430; } a:active, a:focus { color:#dedede; }
 b,i,em { color: #aaa; }
