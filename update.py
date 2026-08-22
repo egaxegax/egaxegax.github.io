@@ -12,6 +12,7 @@
 import json, io, linecache, re, os, sys, time
 from updatelist import tr
 
+readed = {}
 added = {}
 skipped = {}
 mdcache = {}
@@ -72,11 +73,13 @@ def addmdtoreadme(mdpath, ftime='', islastfile=0):
     try:    os.rmdir(os.path.dirname(mdpath))
     except: pass
 
-def addimgtoreadme(impath, ftime=''):
+def addimgtoreadme(impath, ftime):
   name, ext = os.path.splitext(os.path.basename(impath))
-  readme = os.path.join(os.path.dirname(impath), '..', 'README.md')
+  readme = os.path.realpath(os.path.join(os.path.dirname(impath), '..', 'README.md'))
   added[impath] = 1
-  with open(readme, 'a', encoding='utf-8', newline='\n') as f:
+  fm = 'a' if readme in readed else 'w'
+  readed[readme] = 1
+  with open(readme, fm, encoding='utf-8', newline='\n') as f:
     of = f.tell()
     f.write('<!---->'+ ftime)
     f.write('<!--n:'+ os.path.basename(os.path.dirname(impath)) +'/'+ name +':' +'s:'+ str(of) +':e:'+ str(f.tell() - of) +'-->\n')
@@ -104,15 +107,16 @@ def addskipped(name):
   if not ext in skipped: skipped[ext] = 0
   skipped[ext] += 1
 
-def main(path='.'):
+def main(path='.', outdir=''):
   cwd = os.path.basename(os.path.abspath(path))
+  if outdir == '': outdir = path
 
   for root, dirs, files in os.walk(path, topdown=False):
     for ifile, name in enumerate(files):
       fname, ext = os.path.splitext(name)
       subj = os.path.basename(root)
 
-      if root == path:
+      if root == path or '.git' in root.split(os.sep):
         continue
 
       if 'sitemap' in name or 'README' in name:
@@ -233,17 +237,17 @@ def main(path='.'):
   mtitles = [[msubj_s.index(msubj[titl[0]]), titl[1], titl[2], titl[3], mroots_s.index(mroots[titl[4]])] for ii, titl in enumerate(mtitles)]
   msubj_s = [[subj[0], subj[1], subj[2], mroots_s.index(mroots[subj[3]])] for subj in msubj_s]
 
-  io.open(path + '/index.js', 'w', encoding='utf-8', newline='\n').write(compact('ROOTS=' + json.dumps(mroots_s, indent=0, ensure_ascii=0) + ';\n'))
-  io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj_s, indent=0, ensure_ascii=0) + ';\n'))
-  io.open(path + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
+  io.open(outdir + '/index.js', 'w', encoding='utf-8', newline='\n').write(compact('ROOTS=' + json.dumps(mroots_s, indent=0, ensure_ascii=0) + ';\n'))
+  io.open(outdir + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('SUBJ=' + json.dumps(msubj_s, indent=0, ensure_ascii=0) + ';\n'))
+  io.open(outdir + '/index.js', 'a', encoding='utf-8', newline='\n').write(compact('TITLES=' + json.dumps(mtitles, indent=0, ensure_ascii=0) + ';'))
 
   if murls:
-    io.open(path + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u for urls in murls for u in urls])))
-    io.open(path + '/sitemap1.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u.replace(surl, surl1) for urls in murls for u in urls])))
-    io.open(path + '/sitemap2.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u.replace(surl, surl2) for urls in murls for u in urls])))
+    io.open(outdir + '/sitemap.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u for urls in murls for u in urls])))
+    io.open(outdir + '/sitemap1.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u.replace(surl, surl1) for urls in murls for u in urls])))
+    io.open(outdir + '/sitemap2.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted([u.replace(surl, surl2) for urls in murls for u in urls])))
     # if cwd in ('songs', ): # split sitemap
     #   for i, u in enumerate(murls):
-    #     io.open(path + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
+    #     io.open(outdir + '/sitemap_' +str('%02d' % i)+ '.txt', 'w', encoding='utf-8', newline='\n').write('\n'.join(sorted(u)))
 
   time.sleep(1)
 

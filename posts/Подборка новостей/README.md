@@ -80445,3 +80445,96 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">07:01</span> <a class="nodecor" href="https://www.championat.ru/football/news-6591612-mourinyu-vyskazalsya-o-vinisiuse-pered-startom-la-ligi.html">Моуринью высказался о Винисиусе перед стартом Ла Лиги</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.championat.ru/rss/news/</div><!--n:Чемпионат/Чемпионат на 260822_0800:s:10137396:e:3926-->
+<!----><h2 class="hspace">Путешествия и туризм на Сб 22 авг 2026 19:40</h2><!--2026-08-22 18:42:24-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:42</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/strana-shtrafov-pochemu-v-singapure-zapretili-zhvachku-gryaznye-vannye-i-dazhe-hozhdenie-bez-odezhdy-po-kvartire.html">Страна штрафов: почему в Сингапуре запретили жвачку, грязные ванные и даже хождение без одежды по квартире</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:20</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/padayuschaya-bashnya-no-ne-pizanskaya-5-zdaniy-s-ekstremalnym-naklonom-o-kotoryh-molchat-putevoditeli_2.html">Падающая башня, но не Пизанская: 5 зданий с экстремальным наклоном, о которых молчат путеводители</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:57</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/6-veschey-kotorye-nuzhno-sdelat-do-vyleta-na-bali.html">6 вещей, которые нужно сделать до вылета на Бали</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:29</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/indiya-vnutri-bangladesh-vnutri-indii-samaya-zaputannaya-granica-mira.html">Индия внутри Бангладеш внутри Индии: самая запутанная граница мира</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/10-oshibok-turistov-kotorye-stoyat-slishkom-dorogo-kak-ne-razoritsya-v-otpuske.html">10 ошибок туристов, которые стоят слишком дорого: как не разориться в отпуске</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:24</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/tma-strany-voshodyaschego-solnca-7-mrachnyh-faktov-o-yaponii-o-kotoryh-mnogie-ne-znayut.html">Тьма страны восходящего солнца: 7 мрачных фактов о Японии, о которых многие не знают</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:38</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/drevniy-gorod-petra-v-pustyne-mesta-kotorye-nelzya-propustit-pri-poseschenii.html">Древний город Петра в пустыне: места, которые нельзя пропустить при посещении</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:44</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/samoe-prozrachnoe-ozero-ne-baykal-rotomairevenua-v-novoy-zelandii.html">Самое прозрачное озеро - не Байкал: Ротомаиревенуа в Новой Зеландии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:33</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/polnocennaya-dvuhsloynaya-palatka-vesom-780-g-dlya-peshih-pohodov-durston-predstavila-x-dome-pro-1.html">Полноценная двухслойная палатка весом 780 г для пеших походов: Durston представила X-Dome Pro 1+</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:19</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/pochemu-armiya-brazilii-ne-puskaet-nikogo-na-ostrov-keymada-grandi.html">Почему армия Бразилии не пускает никого на остров Кеймада-Гранди</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.ixbt.com/live/rss/blog/travel</div><!--n:iXBT Live/Путешествия и туризм на 260822_1900:s:10141404:e:4123-->
+<!----><h2 class="hspace">Наука на Сб 22 авг 2026 20:00</h2><!--2026-08-22 19:35:52-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:35</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/novyy-podvid-snezhnogo-barana-nazvali-v-chest-akademika-lva-ernsta.html">Новый подвид снежного барана назвали в честь академика Льва Эрнста</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:09</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/uchenye-vpervye-napryamuyu-datirovali-drevneyshuyu-zhizn-na-zemle.html">Ученые впервые напрямую датировали древнейшую жизнь на Земле</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:29</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/issledovateli-vyyavili-geneticheskie-prichiny-rasstroystv-pishhevogo-povedeniya.html">Исследователи выявили генетические причины расстройств пищевого поведения</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:18</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/disk-luny-pochti-polnostyu-pokrasneet-vo-vremya-chastnogo-zatmeniya-28-avgusta.html">Диск Луны почти полностью покраснеет во время частного затмения 28 августа</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:55</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/v-kitae-robot-pobil-rekord-useyna-bolta-po-begu.html">В Китае робот побил рекорд Усэйна Болта по бегу</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">10:19</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/laboratoriya-iki-ran-zafiksirovala-otsutstvie-solnechnoy-aktivnosti.html">Лаборатория ИКИ РАН зафиксировала отсутствие солнечной активности</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">10:09</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/uchyonye-obyasnili-pochemu-indiya-progrevaetsya-medlennee.html">Учёные объяснили, почему Индия прогревается медленнее</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:48</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/nazvano-vremya-gryadushhego-samogo-prodolzhitelnogo-polnogo-solnechnogo-zatmeniya.html">Названо время грядущего самого продолжительного  полного солнечного затмения</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:47</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/obnaruzheno-isklyuchitelno-khorosho-sokhranivshiysya-napitok-dvukhtysyacheletney-davnosti.html">Обнаружено «исключительно» хорошо сохранившийся напиток двухтысячелетней давности</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">08:44</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/22/vyyasnilas-ochen-strannaya-osobennost-razmnozheniya-doistoricheskikh-mlekopitayushhikh.html">Выяснилась очень странная особенность размножения доисторических млекопитающих</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/Наука на 260822_2000:s:10145620:e:3904-->
+<!----><h2 class="hspace">Спорт на Сб 22 авг 2026 22:00</h2><!--2026-08-22 18:55:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117338012-gran-pri-niderlandov-2026-gonka.html">Гран-при Нидерландов-2026. Стартовый порядок. Гонка – в воскресенье в 16:00</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117343258-che-2026-devushki-u16-final-sloveniya-sygraet-s-ispaniej.html">ЧЕ-2026. Девушки (U16). Финал. Словения сыграет с Испанией, Франция взяла бронзу</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/football/1117342673-czska-primet-lokomotiv-v-matche-5-go-tura-rpl.html">ЦСКА принимает «Локомотив» в матче 5-го тура РПЛ. 3:2 – Пиняев забил на 75-й</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/football/1117342896-real-sygraet-protiv-espanola-v-1-m-ture-la-ligi-nachalo-matcha-v-2230.html">«Реал» на выезде сыграет с «Эспаньолом» в 1-м туре Ла Лиги. Мбаппе и Бернарду в старте. Начало матча – в 22:30</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/football/1117343593-fabino-perejdet-v-trabzonspor-salaxa-svobodnym-agentom-eks-xavbek-live.html">Фабиньо перейдет в «Трабзонспор» Салаха свободным агентом. Экс-хавбек «Ливерпуля» договорился с турецким клубом</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117343598-klej-tompson-otkazalsya-9-8-mln-po-kontraktu-s-dallasom-chtoby-perejti.html">Клэй Томпсон отказался от 9,8 млн по контракту с «Далласом», чтобы перейти в «Майами»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117343591-uil-o-guseve-dinamo-pridetsya-spravlyatsya-bez-nego-my-ochen-dovolny-t.html">Уил о Гусеве: «Динамо» придется справляться без него. Мы очень довольны теми ребятами, которые сейчас находятся в команде. С нетерпением ждем начала сезона»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:49</span> <a class="nodecor" href="https://www.sports.ru/football/1117341475-chempionat-franczii-marsel-protiv-strasbura.html">Чемпионат Франции стартовал! «Ланс» забил 5 голов «Осеру», «Лион» в гостях у «Тулузы», «Монако» Головина и «ПСЖ» Сафонова проведут матчи в воскресенье</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/football/1117342657-chempionat-italii-inter-primet-monczu-dzhenoa-sygraet-s-napoli.html">Чемпионат Италии стартовал! «Интер» разгромил «Монцу», «Наполи» играет с «Дженоа», «Ювентус» и «Милан» проведут матчи в воскресенье</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:47</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117343596-lando-norris-sejchas-bessmyslenno-dumat-o-titule-no-priyatno-znat-chto.html">Ландо Норрис: «Сейчас бессмысленно думать о титуле. Но приятно знать, что возможность существует»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/Спорт на 260822_2200:s:10149621:e:4487-->
