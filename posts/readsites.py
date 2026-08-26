@@ -6,20 +6,21 @@
 #
 
 RSSlist = {
-  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru',       'url':'https://finecooking.ru/feed/rss',        'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
-  'povarenok':   {'hdr':'Подборка рецептов/Поваренок.РУ',         'url':'https://www.povarenok.ru/rss/recipes/',  'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
-  'habr':        {'hdr':'Подборка с сайтов/Хабр',                 'url':'https://habr.com/ru/rss/news/?fl=ru',    'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'kino_kino':   {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/kino.xml',     'cut':1000, 'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/teatr.xml',    'cut':1000, 'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',         'url':'https://prosto-linux.ru/feed',           'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'playground':  {'hdr':'Подборка с сайтов/PlayGround.ru',        'url':'https://www.playground.ru/rss/news.xml', 'cut':1000, 'total':5,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',              'url':'https://www.yaplakal.com/news.xml',      'cut':2000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'moslenta':    {'hdr':'Подборка с сайтов/Мослента',             'url':'https://moslenta.ru/exports/rss.xml',    'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru',       'url':'https://finecooking.ru/feed/rss',         'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
+  'povarenok':   {'hdr':'Подборка рецептов/Поваренок.РУ',         'url':'https://www.povarenok.ru/rss/recipes/',   'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
+  'habr':        {'hdr':'Подборка с сайтов/Хабр',                 'url':'https://habr.com/ru/rss/news/?fl=ru',     'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'kino_kino':   {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/kino.xml',      'cut':1000, 'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/teatr.xml',     'cut':1000, 'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',         'url':'https://prosto-linux.ru/feed',            'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'playground':  {'hdr':'Подборка с сайтов/PlayGround.ru',        'url':'https://www.playground.ru/rss/news.xml',  'cut':1000, 'total':5,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',              'url':'https://www.yaplakal.com/news.xml',       'cut':2000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'moslenta':    {'hdr':'Подборка с сайтов/Мослента',             'url':'https://moslenta.ru/exports/rss.xml',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'flickr':      {'hdr':'Подборка с сайтов/Flickr.com',           'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':5,'ctag': '', 'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
-  'sports':      {'hdr':'Подборка новостей/Спортс',               'url':'https://sports.ru/rss/all_news.xml',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'chmp':        {'hdr':'Подборка новостей/Чемпионат',            'url':'https://www.championat.ru/rss/news/',    'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'mk':          {'hdr':'Подборка новостей/Московский Комсомолец','url':'https://www.mk.ru/rss/science/index.xml','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'rgecon':      {'hdr':'Подборка новостей/Российская газета',    'url':'https://rg.ru/xml/rubrics/ekonomika.xml','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'ixbttech':    {'hdr':'Подборка с сайтов/iXBT.com',             'url':'https://www.ixbt.com/export/articles.rss','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'sports':      {'hdr':'Подборка новостей/Спортс',               'url':'https://sports.ru/rss/all_news.xml',      'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'chmp':        {'hdr':'Подборка новостей/Чемпионат',            'url':'https://www.championat.ru/rss/news/',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'mk':          {'hdr':'Подборка новостей/Московский Комсомолец','url':'https://www.mk.ru/rss/science/index.xml', 'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'rgecon':      {'hdr':'Подборка новостей/Российская газета',    'url':'https://rg.ru/xml/rubrics/ekonomika.xml', 'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
 }
 
 import os, sys, time, re

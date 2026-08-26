@@ -26357,3 +26357,113 @@
     <i class="smaller3">2026-08-22</i>
   </div>
 </div><!--n:Тайны/На Луне появился новый кратер после падения ступени SpaceX но снимки удивили исследователей:s:2284679:e:900-->
+<!----><!--2026-08-22 18:29:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_gejparad_sredi_razruhi_tck_vybrosili_telo_pamyatnik_mazepe_22_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a8efa101b4d39997335bac2e7c775170/" src="http://pic.rtbcdn.ru/video/2026-08-22/84/fa/84fab4c2f7a906fcb9215d14ea731347.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_gejparad_sredi_razruhi_tck_vybrosili_telo_pamyatnik_mazepe_22_08_26">Украинский фронт - гейпарад среди разрухи. ТЦК выбросили тело. Памятник Мазепе. 22.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-22</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - гейпарад среди разрухи. ТЦК выбросили тело. Памятник Мазепе. 22.08.26:s:2285780:e:901-->
+<!----><!--2026-08-23 13:43:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_marse_snyali_gigantskuju_meduzu_zagadochnyj_obekt_ischez_s_sosednih_kadrov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8ccb1acd45251c84d966fb122ff60a51/" src="http://pic.rtbcdn.ru/video/2026-08-22/38/bb/38bbaac7e27631e8a7d7739c7c9bf4d8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_marse_snyali_gigantskuju_meduzu_zagadochnyj_obekt_ischez_s_sosednih_kadrov">На Марсе сняли гигантскую «медузу» — загадочный объект исчез с соседних кадров</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-08-23</i>
+  </div>
+</div><!--n:Тайны/На Марсе сняли гигантскую медузу загадочный объект исчез с соседних кадров:s:2286897:e:844-->
+<!----><!--2026-08-23 13:43:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/posle_solnechnogo_zatmeniya_v_seti_zagovorili_ob_ischeznovenii_serdcebieniya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d9d821219ddbcc5d392465b546728db3/" src="http://pic.rtbcdn.ru/video/2026-08-22/ba/50/ba500f42743867f85ffbb117fcc803e0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/posle_solnechnogo_zatmeniya_v_seti_zagovorili_ob_ischeznovenii_serdcebieniya">После солнечного затмения в сети заговорили об исчезновении сердцебиения</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-08-23</i>
+  </div>
+</div><!--n:Тайны/После солнечного затмения в сети заговорили об исчезновении сердцебиения:s:2287916:e:832-->
+<!----><!--2026-08-23 13:43:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/shved_rasskazal_chto_cherez_trubu_popal_v_2042_god_i_vstretil_tam_samogo_sebya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9a9c06045da421579358e5897934da93/" src="http://pic.rtbcdn.ru/video/2026-08-22/36/b1/36b1060ef8075210ce6f751c93b4be36.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/shved_rasskazal_chto_cherez_trubu_popal_v_2042_god_i_vstretil_tam_samogo_sebya">Швед рассказал, что через трубу попал в 2042 год и встретил там самого себя</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-08-23</i>
+  </div>
+</div><!--n:Тайны/Швед рассказал, что через трубу попал в 2042 год и встретил там самого себя:s:2288921:e:832-->
+<!----><!--2026-08-24 20:08:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ii_soldaty_s_flagom_bomba_economist_minus_epicentr_24_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9ea80556646827f476746c8af5da93d1/" src="http://pic.rtbcdn.ru/video/2026-08-24/7d/d1/7dd12096deacebb3bea25875e6d3569d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ii_soldaty_s_flagom_bomba_economist_minus_epicentr_24_08_26">Украинский фронт - ИИ солдаты с флагом. Бомба Economist. Минус Эпицентр. 24.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-24</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - ИИ солдаты с флагом. Бомба Economist. Минус Эпицентр. 24.08.26:s:2289922:e:862-->
+<!----><!--2026-08-24 19:30:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/detka_na_drajve_film_2025_she_rides_shotgun">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/23cdda47eb44fe3583f5410fcb9970aa/" src="http://pic.rtbcdn.ru/video/2026-08-24/ab/fa/abfa323c0ada8bf19b9420ac59214385.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/detka_na_drajve_film_2025_she_rides_shotgun">Детка на драйве (фильм 2025) / She Rides Shotgun</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-24</i>
+  </div>
+</div><!--n:Мир кино/Детка на драйве (фильм 2025) She Rides Shotgun:s:2290977:e:695-->
+<!----><!--2026-08-24 18:47:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/reka_krovi_film_2026_rio_de_sangue">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0a4e5d20d41c8fb858b9f19c95b862fb/" src="http://pic.rtbcdn.ru/video/2026-08-24/59/72/59728e5a80cfe8d642fa37055efd1917.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/reka_krovi_film_2026_rio_de_sangue">Река крови (фильм 2026) / Rio de Sangue</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-24</i>
+  </div>
+</div><!--n:Мир кино/Река крови (фильм 2026) Rio de Sangue:s:2291778:e:664-->
+<!----><!--2026-08-25 19:11:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_mobilizaciya_jenshchin_direktor_cru_v_moskve_mudraya_vyjdet_pod_zalog_25_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/97c617c1a83df456f1d78c833e2f6a39/" src="http://pic.rtbcdn.ru/video/2026-08-25/31/4b/314b8835e69d19b7b06a44932e1ee496.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_mobilizaciya_jenshchin_direktor_cru_v_moskve_mudraya_vyjdet_pod_zalog_25_08_26">Украинский фронт - мобилизация женщин. Директор ЦРУ в Москве. Мудрая выйдет под залог. 25.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-25</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - мобилизация женщин. Директор ЦРУ в Москве. Мудрая выйдет под залог. 25.08.26:s:2292535:e:935-->
+<!----><!--2026-08-25 19:00:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/soulm8jt_film_2026_soulmejt_soulm8te">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/838f743d2233acb272e685a89490c2cc/" src="http://pic.rtbcdn.ru/video/2026-08-25/13/79/1379d3fb44bb86c71ce328eb39c0e7cb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/soulm8jt_film_2026_soulmejt_soulm8te">СОУЛМ8ЙТ (фильм 2026) / СОУЛМЕЙТ / Soulm8te</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-25</i>
+  </div>
+</div><!--n:Мир кино/СОУЛМ8ЙТ (фильм 2026) СОУЛМЕЙТ Soulm8te:s:2293698:e:678-->
+<!----><!--2026-08-25 18:00:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/bratik_film_2026_little_brother">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/037b7b990e04294c2f5188920e1493da/" src="http://pic.rtbcdn.ru/video/2026-08-25/0e/32/0e32734e295665ceb412ff8d2fc01f7b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/bratik_film_2026_little_brother">Братик (фильм 2026) / Little Brother</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-25</i>
+  </div>
+</div><!--n:Мир кино/Братик (фильм 2026) Little Brother:s:2294477:e:652-->

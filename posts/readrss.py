@@ -47,7 +47,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
       locale.setlocale(locale.LC_ALL, 'C')
       for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
         link = item.find('link').text
-        titl = item.find('title').text
+        titl = item.find(prm.get('textfld', 'title')).text
         ptitl = '<a class="nodecor" href="{link}">{titl}</a>'.format(link=link, titl=tr_chars(titl, 200))
         pdate = item.find('pubDate').text
         if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
