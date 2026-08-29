@@ -26467,3 +26467,300 @@
     <i class="smaller3">2026-08-25</i>
   </div>
 </div><!--n:Мир кино/Братик (фильм 2026) Little Brother:s:2294477:e:652-->
+<!----><!--2026-08-26 19:07:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_fedorov_-_ukraina_proigryvaet_vosstanie_v_ternopole_26_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8eb44a9f904d4522dfe5a41df6d7211e/" src="http://pic.rtbcdn.ru/video/2026-08-26/f7/ec/f7ec6059578527eef6c093afb6c4b4c3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_fedorov_-_ukraina_proigryvaet_vosstanie_v_ternopole_26_08_26">Украинский фронт - Федоров - Украина проигрывает. Восстание в Тернополе. 26.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-26</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Федоров - Украина проигрывает. Восстание в Тернополе. 26.08.26:s:2295216:e:874-->
+<!----><!--2026-08-26 20:00:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/truby_prorvalo_film_2026_bao_shui_guan">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b98a9daf0b4d1594feb110a53538971e/" src="http://pic.rtbcdn.ru/video/2026-08-26/a5/d6/a5d61ce7a8e6ecb36bd7574dfca1d08a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/truby_prorvalo_film_2026_bao_shui_guan">Трубы прорвало (фильм 2026) / Bao shui guan</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-26</i>
+  </div>
+</div><!--n:Мир кино/Трубы прорвало (фильм 2026) Bao shui guan:s:2296293:e:680-->
+<!----><!--2026-08-26 19:00:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/past_dyavola_film_2026_the_devil's_mouth">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8fa67edf6caf1214c0f97623117f3942/" src="http://pic.rtbcdn.ru/video/2026-08-25/b0/fa/b0fa1d1dda53f6d45b1d581028248854.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/past_dyavola_film_2026_the_devil's_mouth">Пасть дьявола (фильм 2026) / The Devil's Mouth</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-26</i>
+  </div>
+</div><!--n:Мир кино/Пасть дьявола (фильм 2026) The Devil's Mouth:s:2297074:e:686-->
+<!----><!--2026-08-27 15:40:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ted_lasso_4_sezon_4_seriya_ted_lasso">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a432f9b72263ceb5b02b4db1d825ff51/" src="http://pic.rtbcdn.ru/video/2026-08-27/08/04/080416cb6d818d1b60f3e49452d2a1cb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ted_lasso_4_sezon_4_seriya_ted_lasso">Сериал Тед Лассо 4 сезон 4 серия / Ted Lasso</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Сериал Тед Лассо 4 сезон 4 серия Ted Lasso:s:2297863:e:742-->
+<!----><!--2026-08-26 18:00:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kormilec_film_2026_the_breadwinner">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2ee5c23cbcb7c9d1eb34f08fa433630e/" src="http://pic.rtbcdn.ru/video/2026-08-25/89/da/89da6881ed5ebc27901930b9bc21d7b1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kormilec_film_2026_the_breadwinner">Кормилец (фильм 2026) / The Breadwinner</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-26</i>
+  </div>
+</div><!--n:Мир кино/Кормилец (фильм 2026) The Breadwinner:s:2298713:e:663-->
+<!----><!--2026-08-27 18:44:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_estoniya_latviya_i_litva_-_prigotovitsya_zaporoje_multfilm_zelenskogo_27_08_2">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/945240af77f6f1af7e018a1adacc3602/" src="http://pic.rtbcdn.ru/video/2026-08-27/68/f7/68f733d79d787b6054dd8f36de1709a6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_estoniya_latviya_i_litva_-_prigotovitsya_zaporoje_multfilm_zelenskogo_27_08_2">Украинский фронт - Эстония, Латвия и Литва - приготовиться. Запорожье мультфильм Зеленского. 27.08.2</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Эстония, Латвия и Литва - приготовиться. Запорожье мультфильм Зеленского. 27.08.2:s:2299468:e:944-->
+<!----><!--2026-08-27 16:17:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_17_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7d5fdb4893626d275365125bf9704f70/" src="http://pic.rtbcdn.ru/video/2026-08-26/cf/0a/cf0a3325fc6223f21fc1d70af8031c34.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_17_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 17 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 17 серия (сериал 2008) Legend of the Seeker:s:2300651:e:795-->
+<!----><!--2026-08-27 16:10:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_10_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9b81fd3d13dc89ce30234685c4bed965/" src="http://pic.rtbcdn.ru/video/2026-08-26/3a/2a/3a2ad5b1edc726673208341f4af2b157.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_10_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 10 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 10 серия (сериал 2008) Legend of the Seeker:s:2301594:e:795-->
+<!----><!--2026-08-27 16:06:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_6_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0ec2ba160d7b1e6f0dbbb7af1d51ba61/" src="http://pic.rtbcdn.ru/video/2026-08-26/0a/73/0a734f8eda5b49a4094d334dec92be28.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_6_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 6 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 6 серия (сериал 2008) Legend of the Seeker:s:2302537:e:792-->
+<!----><!--2026-08-27 16:07:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_7_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d255f30d65296fc71154912ccb97cf2f/" src="http://pic.rtbcdn.ru/video/2026-08-26/21/05/210522b134cb079e977c9715dc8ef119.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_7_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 7 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 7 серия (сериал 2008) Legend of the Seeker:s:2303476:e:792-->
+<!----><!--2026-08-27 16:14:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_14_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c578c26b0d8d9144413d27e0a4be2252/" src="http://pic.rtbcdn.ru/video/2026-08-26/1d/b9/1db94bd9332dc57b52cd18900c935865.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_14_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 14 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 14 серия (сериал 2008) Legend of the Seeker:s:2304415:e:795-->
+<!----><!--2026-08-27 16:13:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_13_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9f858edd73626ac3f875d12713dbf07c/" src="http://pic.rtbcdn.ru/video/2026-08-26/b4/ce/b4ceb49bb8eec83dd4e7f1e4d23ebdd7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_13_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 13 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 13 серия (сериал 2008) Legend of the Seeker:s:2305358:e:795-->
+<!----><!--2026-08-27 16:05:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_5_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d932ae55bfb2b88abcd07286329ec6f2/" src="http://pic.rtbcdn.ru/video/2026-08-26/f3/61/f36155d93d7f0717b1c5dedac4588241.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_5_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 5 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 5 серия (сериал 2008) Legend of the Seeker:s:2306301:e:792-->
+<!----><!--2026-08-27 16:18:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_18_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a8a71d8f17ad3765e00c5b9cd25dc30e/" src="http://pic.rtbcdn.ru/video/2026-08-26/6a/c2/6ac2a737449ca3aaed4204b681fa59fb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_18_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 18 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 18 серия (сериал 2008) Legend of the Seeker:s:2307240:e:795-->
+<!----><!--2026-08-27 16:08:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_8_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/10283582cfaa0a2637bd3f9bc6e4990c/" src="http://pic.rtbcdn.ru/video/2026-08-26/e6/84/e6843f9a08083d98abe158055c60a595.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_8_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 8 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 8 серия (сериал 2008) Legend of the Seeker:s:2308183:e:792-->
+<!----><!--2026-08-27 19:00:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/priglashenie_film_2026_the_invite">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cfca86063e6fb16b3047b80b33a9ecd7/" src="http://pic.rtbcdn.ru/video/2026-08-25/cc/22/cc2219f400eeed4ebc2ed4952f48fb55.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/priglashenie_film_2026_the_invite">Приглашение (фильм 2026) / The Invite</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Приглашение (фильм 2026) The Invite:s:2309122:e:662-->
+<!----><!--2026-08-27 18:00:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/vor-odinochka_film_2026_the_isolate_thief">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cdf869aa15a6e1567fdd268a544aa6b5/" src="http://pic.rtbcdn.ru/video/2026-08-25/7c/7c/7c7ce2c1cf5b35d77c19f7da9afe6170.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/vor-odinochka_film_2026_the_isolate_thief">Вор-одиночка (фильм 2026) / The Isolate Thief</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Вор-одиночка (фильм 2026) The Isolate Thief:s:2309877:e:686-->
+<!----><!--2026-08-27 16:11:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_11_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1d8b12200cacb18dfc38d9d3432edc41/" src="http://pic.rtbcdn.ru/video/2026-08-26/df/30/df303a6afc81e378bac1c0533de0661f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_11_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 11 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 11 серия (сериал 2008) Legend of the Seeker:s:2310664:e:795-->
+<!----><!--2026-08-27 16:21:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_21_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2a241dce36821ed1fb4a89fdb117b60e/" src="http://pic.rtbcdn.ru/video/2026-08-26/7c/67/7c670a71bb1a16844721790efac2032e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_21_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 21 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 21 серия (сериал 2008) Legend of the Seeker:s:2311607:e:795-->
+<!----><!--2026-08-27 16:12:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_12_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6fb43a2be886d7032652e7ccee3d8bc1/" src="http://pic.rtbcdn.ru/video/2026-08-26/2d/3a/2d3a5e0aa1d2d8f7975e75276d62a641.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_12_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 12 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 12 серия (сериал 2008) Legend of the Seeker:s:2312550:e:795-->
+<!----><!--2026-08-27 16:22:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_22_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1c90e5642aa6d37bcc5343ddecf9360a/" src="http://pic.rtbcdn.ru/video/2026-08-26/ff/ae/ffaebadb8665953901e4a4483be3b849.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_22_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 22 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 22 серия (сериал 2008) Legend of the Seeker:s:2313493:e:795-->
+<!----><!--2026-08-27 16:16:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_16_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d91b45cfb4ddcac409dc0171a0ca402d/" src="http://pic.rtbcdn.ru/video/2026-08-26/2f/08/2f08c26dc6a18709d5be9eaef5ce3972.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_16_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 16 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 16 серия (сериал 2008) Legend of the Seeker:s:2314436:e:795-->
+<!----><!--2026-08-27 16:09:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_9_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7fc331cfe70026f851a697c7d6e9bfa5/" src="http://pic.rtbcdn.ru/video/2026-08-26/69/8f/698f0bd7e5d1fd7fe1bb1a76432666e8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_9_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 9 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 9 серия (сериал 2008) Legend of the Seeker:s:2315379:e:792-->
+<!----><!--2026-08-27 16:19:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_19_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/27d39001bf878624cf13ac1b998cc85b/" src="http://pic.rtbcdn.ru/video/2026-08-26/d8/2b/d82bb721fbfd8ad31a97f243f77e69ce.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_19_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 19 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 19 серия (сериал 2008) Legend of the Seeker:s:2316318:e:795-->
+<!----><!--2026-08-27 16:20:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_20_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/974885f68abde737a47c85335bca41f9/" src="http://pic.rtbcdn.ru/video/2026-08-26/13/46/13468b0ff992d838f08022e0f9bbd98a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_20_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 20 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 20 серия (сериал 2008) Legend of the Seeker:s:2317261:e:795-->
+<!----><!--2026-08-27 16:15:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_15_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4dc58a976b37849920638a8a54f10fda/" src="http://pic.rtbcdn.ru/video/2026-08-26/45/8a/458a85bf58a0409630c2e96e1231570f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_15_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 1 сезон 15 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-27</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 1 сезон 15 серия (сериал 2008) Legend of the Seeker:s:2318204:e:795-->
+<!----><!--2026-08-28 11:04:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/marosejka_-_ulica_morosi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9d37b376c7c736155570ae242836b56c/" src="http://pic.rtbcdn.ru/video/2026-08-28/4d/0e/4d0eec7d599ad900591f5c49473cecff.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/marosejka_-_ulica_morosi">МАРОСЕЙКА - УЛИЦА МОРОСИ</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-08-28</i>
+  </div>
+</div><!--n:Тайны/МАРОСЕЙКА - УЛИЦА МОРОСИ:s:2319147:e:650-->

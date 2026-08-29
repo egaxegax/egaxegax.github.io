@@ -5568,3 +5568,45 @@ https://www.povareno k.ru/recipes/show/17 6909/
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184398/"><img src="https://www.povarenok.ru/data/cache/2026aug/25/34/3233171_64586-640x480.jpg"></a>Очень гармоничное сочетание малины с маракуйей! А, ведь, считается, что малина не так проста в подборе вкусового &quot;компаньона&quot;. 
 Приготовив этот простой по составу джем, я поняла, что эта простота очень изысканная! После того, как первая партия (пробная) была готова и съедены незначительные остатки этого яркого джема, я... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184398/">Джем Малина-маракуйя</a></p></div>
 </div><!--n:Поваренок.РУ/Джем Малина-маракуйя:s:1197977:e:963-->
+<!----><!--2026-08-26 11:44:06-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184404/"><img src="https://www.povarenok.ru/data/cache/2026aug/26/44/3233260_57585-640x480.jpg"></a>Куриные желудки, как мне кажется, весьма недооцененный субпродукт. Но если их правильно приготовить, они получаются очень вкусные! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184404/">Куриные желудки в грузинском стиле⁠</a></p></div>
+</div><!--n:Поваренок.РУ/Куриные желудки в грузинском стиле:s:1199028:e:639-->
+<!----><!--2026-08-26 12:15:24-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184405/"><img src="https://www.povarenok.ru/data/cache/2026aug/21/51/3232792_54455-640x480.jpg"></a>Вкусный овощной салат на зиму. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184405/">Закуска "Армянская"</a></p></div>
+</div><!--n:Поваренок.РУ/Закуска Армянская:s:1199781:e:423-->
+<!----><!--2026-08-26 13:21:33-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184406/"><img src="https://www.povarenok.ru/data/cache/2026aug/26/31/3233278_56241-640x480.jpg"></a>Комишка-погача — это традиционный несладкий пирог с хорватского острова Вис; его начинка состоит из насыщенного соуса на основе томатов и лука, соленых анчоусов или сардин и оливкового масла <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184406/">Комишка погача. Традиционный хорватский рыбный пирог</a></p></div>
+</div><!--n:Поваренок.РУ/Комишка погача. Традиционный хорватский рыбный пирог:s:1200287:e:782-->
+<!----><!--2026-08-26 21:46:07-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/slivochnoe-maslo-s-malinoy-na-zimu/photo/960w.jpg" width="960" alt="Сливочное масло с малиной на зиму"><p>Сливочное масло с малиной на зиму — простой рецепт сладкой ягодной заготовки из сливочного масла, свежей или замороженной малины и сахара. Масло получается нежным, ароматным, с насыщенным малиновым вкусом и красивым розовым цветом.</p> <p class="titl"><a href="https://finecooking.ru/recipe/slivochnoe-maslo-s-malinoy-na-zimu?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Сливочное масло с малиной на зиму</a></p></div>
+</div><!--n:finecooking.ru/Сливочное масло с малиной на зиму:s:1201217:e:953-->
+<!----><!--2026-08-27 19:50:28-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184412/"><img src="https://www.povarenok.ru/data/cache/2026aug/27/37/3233423_18227-640x480.jpg"></a>Очень нежная и вкусная рыбка для повседневных бутербродов и просто как отличная закуска на праздничный стол. Такую рыбку делает моя мама к нашему приезду, поэтому для меня это еще и ассоциация с теплотой родного дома. На сайте довольно много рецептов засолки красной рыбы, но излазив его вдоль и поперек, такого способа не увидела,... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184412/">Горбуша "Пальчики оближешь"</a></p></div>
+</div><!--n:Поваренок.РУ/Горбуша Пальчики оближешь:s:1202272:e:990-->
+<!----><!--2026-08-27 18:46:12-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184411/"><img src="https://www.povarenok.ru/data/cache/2026aug/27/39/3233418_28070-640x480.jpg"></a>Заготовка &quot;помидоры с черным виноградом&quot; - красивое оформление праздничного стола. Это не только нарядно, но и очень вкусно. Маринад приобретает розовый цвет и тонкий аромат винограда.
+Я использовала посуду ТМ Kukmara - ковш и чашу для смешивания <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184411/">Помидоры с черным виноградом на зиму</a></p></div>
+</div><!--n:Поваренок.РУ/Помидоры с черным виноградом на зиму:s:1203360:e:851-->
+<!----><!--2026-08-27 17:42:15-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184410/"><img src="https://www.povarenok.ru/data/cache/2026aug/27/40/3233404_87709-640x480.jpg"></a>Это печенье тает во рту, исчезает со стола мгновенно. Печенье можно прослоить джемом, медом или сгущенным молоком. В итоге у вас будет выпечка с разной начинкой для всей семьи. Сразу включите духовку, тесто будет готово за пять минут. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184410/">Шоколадное печенье с джемом</a></p></div>
+</div><!--n:Поваренок.РУ/Шоколадное печенье с джемом:s:1204328:e:808-->
+<!----><!--2026-08-28 11:37:38-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184414/"><img src="https://www.povarenok.ru/data/cache/2026aug/28/37/3233472_17244-640x480.jpg"></a>Иногда на кухне можно и похулиганить, особенно когда готовишь с детьми :) <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184414/">Шпротомухоброды</a></p></div>
+</div><!--n:Поваренок.РУ/Шпротомухоброды:s:1205237:e:495-->
+<!----><!--2026-08-28 22:15:13-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184422/"><img src="https://www.povarenok.ru/data/cache/2026aug/28/36/3233553_54329-640x480.jpg"></a>Какой же конец лета без рецепта яблочного пирога?! Яблочные пироги — это выпечка, в которой яблоки выступают в качестве основного ингредиента и определяют вкус изделия. Яблоки могут использоваться в самых разных видах: нарезанными кубиками, в виде пюре или 
+натертыми; часто в состав также входят такие добавки, как изюм, орехи и... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184422/">Яблочный пирог. Ещё один</a></p></div>
+</div><!--n:Поваренок.РУ/Яблочный пирог. Ещё один:s:1205812:e:980-->
+<!----><!--2026-08-28 17:58:43-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184421/"><img src="https://www.povarenok.ru/data/cache/2026aug/28/39/3233486_93931-640x480.jpg"></a>Уютное и сытное сочетание корейских и итальянских вкусов и текстур — идеальный вариант для ужина в будний день. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184421/">Рагу из тофу, ньокки с огурцами</a></p></div>
+</div><!--n:Поваренок.РУ/Рагу из тофу, ньокки с огурцами:s:1206886:e:594-->
