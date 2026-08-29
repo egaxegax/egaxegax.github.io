@@ -228,7 +228,7 @@ function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
   if(tit_filter){
     more_titles = rels_subj.sort(function(a,b){ return arraySort(a[2],b[2]); });;
   } else {
-    more_titles = [rels_subj[rels_subj.length-1], rels_subj[rels_subj.length-2], rels_subj[rels_subj.length-3], rels_subj[rels_subj.length-4], rels_subj[rels_subj.length-5], rels_root[rels_root.length-1], rels_root[rels_root.length-2], rels_root[rels_root.length-3]];
+    more_titles = [rels_subj[rels_subj.length-1], rels_subj[rels_subj.length-2], rels_subj[rels_subj.length-3], rels_subj[rels_subj.length-4], rels_root[rels_root.length-1], rels_root[rels_root.length-2], rels_root[rels_root.length-3]];
   }
   msgs = msgs.map(function(tit){ 
     return tit.concat([more_titles.map(function(r){ return r ? [ subjects[r[0]][0], r[2], r[1] ] : [] }).filter(function(r){ return r.length>0; }) ]);
