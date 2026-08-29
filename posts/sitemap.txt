@@ -4078,6 +4078,7 @@ https://egax.ru/index.html?habr/15_rynka_za_god_kitajskie_ai-modeli_zahvatyvajut
 https://egax.ru/index.html?habr/16_25_system_glavnaya_agile-konferenciya_tatarstana_s_jivymi_kejsami_i_interaktivami
 https://egax.ru/index.html?habr/17_novyh_kompanij_voshli_v_top-50_potrebitelskih_prilojenij_ai_v_poslednem_rejtinge_a16z
 https://egax.ru/index.html?habr/1_mlrd_v_den_razbor_rekordnogo_finansovogo_otcheta_nvidia
+https://egax.ru/index.html?habr/1_sentyabrya_domeny_ru_su_rf_ne_zamorozyat_perehodnyj_period_do_18_yanvarya_2027
 https://egax.ru/index.html?habr/1s_v_promyshlennosti_chto_obsujdali_na_innoprom-2026
 https://egax.ru/index.html?habr/2-letnego_vunderkinda_prinyali_v_klub_geniev_mensa
 https://egax.ru/index.html?habr/20_-ya_bezrabotica_iz-za_ii_ne_fantastika_glava_anthropic_pridumal_nalog_na_tokeny
@@ -4278,6 +4279,7 @@ https://egax.ru/index.html?habr/claude_fable_5_dokazal_12-letnjuju_gipotezu_kvan
 https://egax.ru/index.html?habr/claude_opus_4_5_vozglavil_rejting_ii-programmistov_swe-rebench_s_rezultatom_63
 https://egax.ru/index.html?habr/claude_ot_anthropic_vzletaet_sredi_platyashchih_polzovatelej
 https://egax.ru/index.html?habr/claude_science_novyj_ii-instrument_dlya_uchenyh
+https://egax.ru/index.html?habr/claude_udalil_700_gb_iz_domashnego_kataloga_vo_vremya_proverki_skripta_dlya_predotvrashcheniya_sluchajnogo_udaleniya_fajlov
 https://egax.ru/index.html?habr/cloud_ru_zapustil_oblachnyj_servis_evolution_managed_arenadata_db
 https://egax.ru/index.html?habr/cloudflare_predstavila_politiku_content_signals_policy_dlya_upravleniya_dostupom_k_kontentu_sajtov
 https://egax.ru/index.html?habr/cloudflare_predstavila_sobstvennyj_stejblkoin_net_dollar_prednaznachennyj_dlya_tranzakcij_bez_uchastiya_cheloveka
@@ -5008,6 +5010,7 @@ https://egax.ru/index.html?habr/openai_rasshiryaet_svoe_prisutstvie_na_rynke_ii_
 https://egax.ru/index.html?habr/openai_reorganizuet_issledovatelskuju_gruppu_stoyashchuju_za_razrabotkoj_chatgpt
 https://egax.ru/index.html?habr/openai_sdelaet_otdelnuju_versiju_chatgpt_dlya_oae_ona_budet_uchityvat_mestnuju_kulturu_i_zakony
 https://egax.ru/index.html?habr/openai_soznatelno_ostavlyaet_vopros_o_soznanii_ii_bez_otveta
+https://egax.ru/index.html?habr/openai_testiruet_avtonomnyj_rejim_codex_on_doljen_rabotat_non-stop
 https://egax.ru/index.html?habr/openai_testiruet_novuju_model_o3_alpha_dlya_programmirovaniya_na_webarena
 https://egax.ru/index.html?habr/openai_vernet_5-chasovoj_limit_v_codex_dlya_podpischikov_za_20
 https://egax.ru/index.html?habr/openai_vnedrila_v_chatgpt_generaciju_tochnyh_izobrajenij_na_baze_gpt-4o
@@ -5769,6 +5772,7 @@ https://egax.ru/index.html?igra_v_urban_terror/igra_urt_4_vdvoem
 https://egax.ru/index.html?igra_v_urban_terror/novyj_urt_5
 https://egax.ru/index.html?ixbt_com
 https://egax.ru/index.html?ixbt_com/duhovye_shkafy_i_aerogrili_s_parom_kak_vybrat_optimalnyj_variant
+https://egax.ru/index.html?ixbt_com/nikakih_verevok_i_sushilok_kak_vybrat_sushilnuju_mashinu
 https://egax.ru/index.html?ixbt_com/obzor_52-djujmovogo_igrovogo_va-monitora_lg_ultragear_evo_52g930b-b_s_izognutym_ekranom_21_9_i_razresheniem_5k2k
 https://egax.ru/index.html?ixbt_com/obzor_aerofritjurnicy_evolution_airo_8500tw
 https://egax.ru/index.html?ixbt_com/obzor_avtomobilnogo_videoregistratora_neoline_wowcam_wi-fi
@@ -6074,6 +6078,7 @@ https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nato_otrazit_
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nato_razvalilsya_tramp_-_nato_bumajnyj_tigr_bunt_v_vinnice_01_04_26
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_ne_smogli_sbit_ni_odnoj_rakety_0_iz_28_katastrofa_ukrainskoj_pvo_16_10_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nepobeda_v_irane_udar_po_bryansku_vzyali_stepanovku_11_03_26
+https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nepreryvnaya_ataka_na_kiev_24_chasa_13_vozdushnyh_trevog_epicentr_vse_28_08_26
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nochnaya_porciya_635_dronov_38_raket_10_oblastej_bez_sveta_na_ukraine_23_12_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_novyj_proval_oborony_dnepropetrovskaya_obl_operaciya_truba-2_13_09_25
 https://egax.ru/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_novyj_sojuz_kitaj_indiya_rossiya_sev_koreya_tramp_v_panike_v_smi_isterika_03_09
@@ -6601,6 +6606,7 @@ https://egax.ru/index.html?kino-teatr_ru/gela_meshi_darya_ursulyak_i_nonna_grish
 https://egax.ru/index.html?kino-teatr_ru/gemini_dva_smita_uilla_-_eto_sila
 https://egax.ru/index.html?kino-teatr_ru/gerard_vasilev_ljudmila_polyakova_i_vladimir_fedoseev_priznany_legendami_sceny
 https://egax.ru/index.html?kino-teatr_ru/geroi_arktiki
+https://egax.ru/index.html?kino-teatr_ru/ghibli_v_rossijskom_prokate_i_makron_bez_drakonego_jemchuga_glavnye_novosti_anime
 https://egax.ru/index.html?kino-teatr_ru/giv_mi_liberti_za_nashu_i_vashu_svobodu
 https://egax.ru/index.html?kino-teatr_ru/glafira_tarhanova_valeriya_lanskaya_i_kirill_grebenshchikov_otkryli_centr_schastya
 https://egax.ru/index.html?kino-teatr_ru/glavnye_anonsy_jump_festa_2026_ot_gatiakuty_i_cheloveka-benzopily_do_anime_2027_goda
@@ -6728,6 +6734,7 @@ https://egax.ru/index.html?kino-teatr_ru/izvinite_prosto_nakipelo_imya_v_teatre_
 https://egax.ru/index.html?kino-teatr_ru/jeleznaya_semya_trejler_na_korejskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/jeleznoe_serdce_trejler_na_anglijskom_yazyke
 https://egax.ru/index.html?kino-teatr_ru/jellouston_marshaly_trejler_na_anglijskom_yazyke
+https://egax.ru/index.html?kino-teatr_ru/jeltye_oboi_i_beskonechnyj_limb_chem_ocharovyvaet_zakulise_realnosti_horror-labirint_a24
 https://egax.ru/index.html?kino-teatr_ru/jenihi_osobogo_naznacheniya_pervyj_tizer_fentezi_sem_rycarej_korolevstva_marrone
 https://egax.ru/index.html?kino-teatr_ru/jenshchina-zmeya_pet_gazirovku_horror-komediya_dara_iz_rejvy_data_vyhoda_i_novyj_trejler
 https://egax.ru/index.html?kino-teatr_ru/jidkaya_dieta_protiv_pishchebloka_vampiry_v_rossijskom_kino
@@ -7061,6 +7068,7 @@ https://egax.ru/index.html?kino-teatr_ru/novaya_teshcha_trejler_2
 https://egax.ru/index.html?kino-teatr_ru/novogodnij_feofan_nejroprazdnik_k_nam_prihodit_tizer
 https://egax.ru/index.html?kino-teatr_ru/novye_serii_vityazej_vyjdut_16_noyabrya
 https://egax.ru/index.html?kino-teatr_ru/novyj_buratino_sikvel_cheburashki_ubojnaya_subbota_s_kevinom_djejmsom_i_eshche_10_filmov_yanvarya
+https://egax.ru/index.html?kino-teatr_ru/novyj_sezon_v_teatre_truda_otkroetsya_spektaklem-vhs_svideteli_rynka
 https://egax.ru/index.html?kino-teatr_ru/novym_hudrukom_lenkoma_stal_vladimir_pankov
 https://egax.ru/index.html?kino-teatr_ru/nu_zdravstvuj_oksana_sokolova_33_slushaju_i_povinujus
 https://egax.ru/index.html?kino-teatr_ru/nujno_delat_vse_chtoby_podobnoe_zlo_nikogda_ne_povtorilos_maksim_stoyanov_zoya_berber_i_drugie_aktery_o_seriale_dusheguby_1989
@@ -8791,6 +8799,25 @@ https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_6_seriya_seria
 https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_7_seriya_serial_2008_legend_of_the_seeker
 https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_8_seriya_serial_2008_legend_of_the_seeker
 https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_1_sezon_9_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_10_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_11_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_12_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_13_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_14_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_15_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_16_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_17_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_18_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_19_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_20_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_21_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_22_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_4_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_5_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_6_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_7_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_8_seriya_serial_2008_legend_of_the_seeker
+https://egax.ru/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_9_seriya_serial_2008_legend_of_the_seeker
 https://egax.ru/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_1_seriya_multserial_2024
 https://egax.ru/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_2_seriya_multserial_2024
 https://egax.ru/index.html?mir_kino/lego_zvezdnye_vojny_vosstanovi_galaktiku_-_2_sezon_3_seriya_multserial_2024
@@ -8911,6 +8938,7 @@ https://egax.ru/index.html?mir_kino/missiya_sereniti_film_2005_serenity
 https://egax.ru/index.html?mir_kino/moana_2_multfilm_2024_moana_2
 https://egax.ru/index.html?mir_kino/moana_film_2026_moana
 https://egax.ru/index.html?mir_kino/modnaya_bratva_film_2026_i_love_boosters
+https://egax.ru/index.html?mir_kino/molody_i_vljubleny_film_2026_hai_jawani_toh_ishq_hona_hai
 https://egax.ru/index.html?mir_kino/mortal_kombat_2_film_2026_mortal_kombat_ii
 https://egax.ru/index.html?mir_kino/mortal_kombat_film_2021_mortal_kombat
 https://egax.ru/index.html?mir_kino/moya_vina_london_film_2025_my_fault_london
@@ -9860,6 +9888,7 @@ https://egax.ru/index.html?moskovskij_komsomolec/nauka_na_260825_2000
 https://egax.ru/index.html?moskovskij_komsomolec/nauka_na_260826_2000
 https://egax.ru/index.html?moskovskij_komsomolec/nauka_na_260827_2000
 https://egax.ru/index.html?moskovskij_komsomolec/nauka_na_260828_2000
+https://egax.ru/index.html?moskovskij_komsomolec/nauka_na_260829_2000
 https://egax.ru/index.html?moskovskij_komsomolec/rossijskij_uchenyj_rasskazal_ob_uyazvimosti_iskusstvennogo_intellekta
 https://egax.ru/index.html?moskovskij_komsomolec/uchenye_vyyasnili_kak_imenno_chasticy_mikroplastika_vliyajut_na_immunitet
 https://egax.ru/index.html?moskovskij_komsomolec/uchenyj_ukazal_na_uyazvimost_iskusstvennogo_intellekta
@@ -11101,6 +11130,7 @@ https://egax.ru/index.html?playground_ru/direktor_the_elder_scrolls_online_napis
 https://egax.ru/index.html?playground_ru/djez_korden_inxile_entertainment_mojet_vypustit_igru_po_vselennoj_fallout
 https://egax.ru/index.html?playground_ru/djon_konnor_snova_vstretilsya_s_t-1000_spustya_35_let_posle_terminatora_2
 https://egax.ru/index.html?playground_ru/djosh_hartnett_protiv_tainstvennogo_sushchestva_iz_morskih_glubin_netflix_pokazal_pervyj_tizer_trillera_below
+https://egax.ru/index.html?playground_ru/dlya_crimson_desert_vyshel_patch_2_00_01_-_ispravleny_prosadki_fps_i_zapusk_na_macos
 https://egax.ru/index.html?playground_ru/dlya_menya_eto_chest_zvezda_resident_evil_requiem_vyskazalas_o_zamene_djennifer_inglish_v_tides_of_annihilation
 https://egax.ru/index.html?playground_ru/do_konca_goda_na_switch_2_vyjdut_destroy_all_humans_2_sacred_2_spongebob_titans_of_the_tide_i_dr_ot_thq_nordic
 https://egax.ru/index.html?playground_ru/dragonkin_the_banished_poluchila_krupnoe_besplatnoe_obnovlenie_dracomundus_purgatory_s_novym_rejimom_i_krosspleem
@@ -11109,6 +11139,7 @@ https://egax.ru/index.html?playground_ru/empulse_poluchila_masshtabnoe_obnovleni
 https://egax.ru/index.html?playground_ru/entuziast_polnostju_perevel_originalnuju_king's_bounty_1990_goda_na_russkij_yazyk_s_pomoshchju_iskusstvennogo_intellekta
 https://egax.ru/index.html?playground_ru/entuziast_sozdal_kastomnuju_konsol_playstation_3_pro_s_servernym_ohlajdeniem_i_silnym_razgonom_chipa
 https://egax.ru/index.html?playground_ru/escape_from_tarkov_okazalsya_edinstvennym_krupnym_extraction-shuterom_s_rostom_onlajna
+https://egax.ru/index.html?playground_ru/gamescom_otvetila_na_soobshcheniya_o_krajah_tehniki_-_organizatory_zayavili_chto_bezopasnost_v_prioritete
 https://egax.ru/index.html?playground_ru/geforce_now_v_etom_mesyace_popolnitsya_26_igrami_vkljuchaya_resonance_a_plague_tale_legacy_i_mortal_shell_ii
 https://egax.ru/index.html?playground_ru/gejmery_vyyasnili_skolko_dlitsya_sutochnyj_cikl_gta_6_-_v_3_raza_dlinnee_chem_v_gta_5
 https://egax.ru/index.html?playground_ru/gollivud_ekraniziruet_legendarnuju_kripipastu_ubijca_djeff
@@ -11116,6 +11147,7 @@ https://egax.ru/index.html?playground_ru/heroes_of_hammerwatch_ii_poluchila_perv
 https://egax.ru/index.html?playground_ru/heroes_of_might_and_magic_olden_era_poluchit_pervyj_oficialnyj_turnir_-_razrabotchiki_podderjali_iniciativu_soobshchestva
 https://egax.ru/index.html?playground_ru/igroki_eve_frontier_platyat_za_dostup_k_syroj_alfe_s_postoyannymi_polomkami_mehanik_i_nerabotajushchej_kartoj
 https://egax.ru/index.html?playground_ru/igrovaya_platforma_vk_play_nabrala_64_1_mln_akkauntov_na_fone_otchetnosti_vk_za_pervoe_polugodie_2026_goda
+https://egax.ru/index.html?playground_ru/intel_podtverdila_soket_lga1954_dlya_nova_lake-s_cherez_oficialnyj_spisok_instrumentov_dlya_testirovaniya_platformy
 https://egax.ru/index.html?playground_ru/intel_vspomnila_pro_prostyh_smertnyh_nova_lake_snachala_vyjdet_dlya_polzovatelej_a_potom_-_dlya_data-centrov
 https://egax.ru/index.html?playground_ru/kcd_2_helldivers_2_metro_exodus_dying_light_2_-_sony_predstavila_igry_dlya_ps_plus_extra_premium_za_avgust_2026_goda
 https://egax.ru/index.html?playground_ru/klassicheskaya_rolevaya_igra_terranigma_poluchit_oficialnoe_pereizdanie_na_pk_i_konsolyah_v_2027_godu
@@ -11146,6 +11178,7 @@ https://egax.ru/index.html?playground_ru/odisseya_dostig_1_1_milliarda_stav_samy
 https://egax.ru/index.html?playground_ru/odisseya_nolana_peresekla_1_4_mlrd_i_ne_planiruet_ostanavlivatsya_-_filmu_uje_prognozirujut_sbory_1_6_mlrd
 https://egax.ru/index.html?playground_ru/oficialno_anonsirovana_kollekciya_mafia_the_omerta_collection_-_vse_igry_v_odnom_sbornike
 https://egax.ru/index.html?playground_ru/ofis_sozdatelej_clair_obscur_expedition_33_okazalsya_pohoj_na_osobnyak_iz_igry_-_no_eto_sluchajnoe_sovpadenie
+https://egax.ru/index.html?playground_ru/pcsx2_poluchil_krupnoe_obnovlenie_2_8_emulyator_ps2_stal_bystree_i_povysil_sistemnye_trebovaniya
 https://egax.ru/index.html?playground_ru/pervoe_dlc_k_crimson_desert_mojet_byt_posvyashcheno_morskoj_tematike_-_novye_ostrova_i_podvodnye_izmeneniya_namekajut_na_eto
 https://egax.ru/index.html?playground_ru/pk_s_rtx_5070_rasplavil_kabel_pitaniya_pcie_posle_podkljucheniya_odnogo_8-pin_cherez_razvetvitel_k_16-pin_adapteru
 https://egax.ru/index.html?playground_ru/playstation_vypustit_besprovodnye_kolonki_pulse_elevate_12_noyabrya
@@ -11203,6 +11236,7 @@ https://egax.ru/index.html?playground_ru/tom_clancy's_ghost_recon_wildlands_polu
 https://egax.ru/index.html?playground_ru/tomb_raider_legacy_of_atlantis_ne_budet_dostupna_dlya_igry_na_gamescom_2026
 https://egax.ru/index.html?playground_ru/trejder_primenil_birjevye_algoritmy_dlya_poiska_orgazmov_v_video_s_pomoshchju_nejroseti_qwen
 https://egax.ru/index.html?playground_ru/trejler_stuntman_hollywood_perenosit_na_semochnuju_ploshchadku_parka_jurskogo_perioda
+https://egax.ru/index.html?playground_ru/ubisoft_zapuskaet_platformu_the_player_council_dlya_pryamogo_vzaimodejstviya_igrokov_s_razrabotchikami
 https://egax.ru/index.html?playground_ru/utechki_gta_vi_sokratili_kapitalizaciju_take-two_na_2_83_mlrd_-_rynok_otreagiroval_na_novuju_volnu_slivov
 https://egax.ru/index.html?playground_ru/v_beta-versiju_msi_afterburner_dobavlena_karta_popadanij_napryajeniya_chastoty_i_plagin_gpuprobe
 https://egax.ru/index.html?playground_ru/v_chest_5-j_godovshchiny_the_ascent_poluchit_krupnoe_obnovlenie_v_noyabre_-_kiberpank-shuter_privlek_12_millionov_igrokov
@@ -15534,6 +15568,7 @@ https://egax.ru/index.html?sports/sport_na_260824_2200
 https://egax.ru/index.html?sports/sport_na_260825_2200
 https://egax.ru/index.html?sports/sport_na_260826_2200
 https://egax.ru/index.html?sports/sport_na_260828_2200
+https://egax.ru/index.html?sports/sport_na_260829_2200
 https://egax.ru/index.html?spravochnik_po_python_3
 https://egax.ru/index.html?spravochnik_po_python_3/about
 https://egax.ru/index.html?spravochnik_po_python_3/additional_methods_on_onteger_types

@@ -80656,3 +80656,65 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://www.mk.ru/science/2025/12/25/raskryta-neozhidannaya-svyaz-vitaminov-s-riskom-razvitiya-raka.html">Раскрыта неожиданная связь витаминов с риском развития рака</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/251226 2000:s:10161498:e:3724-->
+<!----><h2 class="hspace">Наука на Сб 29 авг 2026 20:00</h2><!--2026-08-29 16:58:59-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:58</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/okeanolog-skazal-pochemu-ryba-sudnogo-dnya-vybrosilas-na-bereg-v-indonezii.html">Океанолог сказал, почему рыба Судного дня выбросилась на берег в Индонезии</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:31</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/v-anglii-starinnyy-sarkofag-bolee-veka-ispolzovali-kak-cvetochnyy-gorshok.html">В Англии старинный саркофаг более века использовали как цветочный горшок</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:06</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/fabriku-chistogo-topliva-obnaruzhili-pod-krasnoy-zemley-odnoy-strany.html">Фабрику чистого топлива обнаружили под красной землей одной страны</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:13</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/dzheyms-uebb-raskryl-kogda-molodye-zvezdy-teryayut-shans-obzavestis-planetami.html">«Джеймс Уэбб» раскрыл, когда молодые звезды теряют шанс обзавестись планетами</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:53</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/uchenye-nazvali-prostoy-sposob-umenshit-vred-nedosypa-za-20-minut.html">Ученые назвали простой способ уменьшить вред недосыпа за 20 минут</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:31</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/uchyonye-ozvuchili-vred-ot-slishkom-dolgogo-i-slishkom-korotkogo-sna.html">Учёные озвучили вред от слишком долгого и слишком короткого сна</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:27</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/uchyonye-vyyasnili-polzu-diety-dlya-pozhilykh-myshey.html">Учёные выяснили пользу диеты для пожилых мышей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:16</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/uchenye-otklyuchili-belok-tormozivshiy-vosstanovlenie-povrezhdennykh-nervov.html">Ученые отключили белок, тормозивший восстановление поврежденных нервов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">06:18</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/uchenye-nauchilis-obkhodit-opasnuyu-oshibku-vnutri-chelovecheskikh-genov.html">Ученые научились обходить опасную ошибку внутри человеческих генов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:32</span> <a class="nodecor" href="https://www.mk.ru/science/2026/08/29/v-nasa-rasskazali-kto-pomozhet-ssha-vernutsya-na-lunu.html">В NASA рассказали, кто поможет США вернуться на Луну</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/Наука на 260829_2000:s:10165303:e:3805-->
+<!----><h2 class="hspace">Спорт на Сб 29 авг 2026 22:00</h2><!--2026-08-29 18:55:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117350771-kubok-mera-moskvy-shanxaj-sygraet-s-torpedo-avtomobilist-protiv-dinamo.html">Кубок мэра Москвы. «Спартак» уступил «Ак Барсу», «Автомобилист» проиграл «Динамо», «Шанхай» забил 7 голов «Торпедо»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:55</span> <a class="nodecor" href="https://www.sports.ru/mediafootball/1117346862-anzhi-sygraet-s-gorkami-fc-ars-protiv-fight-nights-raspisanie-1-go-tur.html">«Альтерон» разгромил ФК «ПП», FC Ars сыграл вничью с Fight Nights. Результаты 1-го тура второго дивизиона Кубка Лиги</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/extreme/1117351777-rossijskij-skalolaz-petr-zemlyakov-pobedil-na-chempionate-evropy-eliza.html"> Российский скалолаз Петр Земляков победил на чемпионате Европы, Елизавета Иванова взяла серебро, Иван Земляков – бронзу</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/football/1117350956-axmat-primet-krylya-sovetov-v-6-m-ture-rpl-nachalo-matcha-v-2000.html">«Ахмат» и «Крылья Советов» сыграли вничью – 3:3! Олейников сделал дубль, у Садулаева и Касинтуры по голу и ассисту</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117351787-serxio-peres-obsuzhdeniya-s-drugimi-komandami-byli-no-ya-vizhu-sebya-c.html">Серхио Перес: «Обсуждения с другими командами были, но я вижу себя частью проекта «Кадиллак»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:51</span> <a class="nodecor" href="https://www.sports.ru/football/1117351778-musaev-ob-igre-tormeny-rukoj-est-vsegda-ponimanie-chto-ot-zemli-ne-sta.html">Мусаев о судействе: «С рукой Тормены – есть всегда понимание, что от земли не ставят. В эпизоде с Агкацевым арбитр ошибся, был удар в место ушиба»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:49</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117351768-larionov-o-prezentaczii-ska-s-bolelshhikami-eto-priblizhaet-komandu-k-.html">Ларионов о презентации СКА с болельщиками: «Это приближает команду к народу. Не может быть успеха без коннекта с фанатами. Очень важно иметь эту связь, мы играем для них»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/football/1117350928-yuventus-primet-parmu-v-2-m-ture-serii-a-nachalo-matcha-v-2130.html">«Ювентус» принимает «Парму» во 2-м туре Серии А. Коло-Муани, Бога и Челик играют</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/mediafootball/1117351502-alisher-raximov-vernulsya-v-broukbojz-posle-uxoda-iz-medialigi-on-igra.html">Алишер Рахимов вернулся в «БроукБойз» и оформил 1+1 по «гол+пас» в дебютном матче. После ухода из Медиалиги он играл в Беларуси и Таджикистане</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:48</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117351783-dzhejson-kidd-ne-sobirayus-otkazyvatsya-ot-trenerskoj-raboty-obshhayus.html">Джейсон Кидд: «Не собираюсь отказываться от тренерской работы. Общаюсь с Джейленом Брансоном и Яннисом Адетокумбо»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/Спорт на 260829_2200:s:10169205:e:4849-->

@@ -26764,3 +26764,234 @@
     <i class="smaller3">2026-08-28</i>
   </div>
 </div><!--n:Тайны/МАРОСЕЙКА - УЛИЦА МОРОСИ:s:2319147:e:650-->
+<!----><!--2026-08-28 20:07:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nepreryvnaya_ataka_na_kiev_24_chasa_13_vozdushnyh_trevog_epicentr_vse_28_08_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fd1c915d72e9c535ea447baa262fa0cf/" src="http://pic.rtbcdn.ru/video/2026-08-28/bc/d4/bcd47dfdcc50fc6b9ff00a371d46c94b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nepreryvnaya_ataka_na_kiev_24_chasa_13_vozdushnyh_trevog_epicentr_vse_28_08_26">Украинский фронт - непрерывная атака на Киев 24 часа. 13 воздушных тревог. Эпицентр ВСЕ. 28.08.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-08-28</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - непрерывная атака на Киев 24 часа. 13 воздушных тревог. Эпицентр ВСЕ. 28.08.26:s:2319878:e:934-->
+<!----><!--2026-08-29 00:19:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_19_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6d24fc96b20d06e76e2133e397d45dbe/" src="http://pic.rtbcdn.ru/video/2026-08-27/14/b4/14b42117a5e22f430561d17b45eb54f6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_19_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 19 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 19 серия (сериал 2008) Legend of the Seeker:s:2321039:e:795-->
+<!----><!--2026-08-29 00:06:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_6_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/37ff27ebeddd66260ac9d217a83fa5da/" src="http://pic.rtbcdn.ru/video/2026-08-27/79/4f/794fa78433fe39e95aa81027383344a1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_6_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 6 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 6 серия (сериал 2008) Legend of the Seeker:s:2321982:e:792-->
+<!----><!--2026-08-29 00:09:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_9_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4febde926758def147bc2cb8b27f4fac/" src="http://pic.rtbcdn.ru/video/2026-08-27/f6/17/f617f17d9b68dced52c3b5de3c2e8a0d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_9_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 9 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 9 серия (сериал 2008) Legend of the Seeker:s:2322921:e:792-->
+<!----><!--2026-08-29 00:07:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_7_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/65c963b7d9887ee10ad23a464e4ae8f7/" src="http://pic.rtbcdn.ru/video/2026-08-27/06/5d/065daec6dc97b5fe76d6df9c4a34db71.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_7_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 7 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 7 серия (сериал 2008) Legend of the Seeker:s:2323860:e:792-->
+<!----><!--2026-08-29 00:11:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_11_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/01e884d2415c4e308e4e90bdc3faa68e/" src="http://pic.rtbcdn.ru/video/2026-08-27/e6/2c/e62cf1754a80db539ce831391941ecb0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_11_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 11 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 11 серия (сериал 2008) Legend of the Seeker:s:2324799:e:795-->
+<!----><!--2026-08-29 00:10:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_10_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d75446d257fa23a4023249c37d7301cc/" src="http://pic.rtbcdn.ru/video/2026-08-27/98/1f/981f7235f0d74b488e32fed5973d4520.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_10_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 10 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 10 серия (сериал 2008) Legend of the Seeker:s:2325742:e:795-->
+<!----><!--2026-08-29 01:37:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_22_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f5a87e265e2ac30e1c0654053010a1b5/" src="http://pic.rtbcdn.ru/video/2026-08-27/31/cd/31cda1f6b63a668b4bc14b9042338f60.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_22_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 22 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 22 серия (сериал 2008) Legend of the Seeker:s:2326685:e:795-->
+<!----><!--2026-08-29 00:18:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_18_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3e9d1dde1970446432d6b891fb7ecbde/" src="http://pic.rtbcdn.ru/video/2026-08-27/a9/ba/a9ba949a7f1307ca04483ced3220ee03.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_18_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 18 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 18 серия (сериал 2008) Legend of the Seeker:s:2327628:e:795-->
+<!----><!--2026-08-29 00:04:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_4_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/65d1fbac44d266c04b34e4f79325237a/" src="http://pic.rtbcdn.ru/video/2026-08-27/0e/16/0e167743d93e6c78cbb32ba8c055b28d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_4_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 4 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 4 серия (сериал 2008) Legend of the Seeker:s:2328571:e:792-->
+<!----><!--2026-08-29 00:17:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_17_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f96bd50689e882192e363f94eef340db/" src="http://pic.rtbcdn.ru/video/2026-08-27/ce/35/ce35eb68d05a5c853d03867ec852b9c9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_17_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 17 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 17 серия (сериал 2008) Legend of the Seeker:s:2329510:e:795-->
+<!----><!--2026-08-29 00:15:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_15_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0876e26d0aebfd89d8f12a0d1c49959a/" src="http://pic.rtbcdn.ru/video/2026-08-27/18/5c/185c2a2bff241f97fd561265e29ec6a0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_15_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 15 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 15 серия (сериал 2008) Legend of the Seeker:s:2330453:e:795-->
+<!----><!--2026-08-29 00:08:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_8_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/943e5b01691601d6f0162ff58c31c4a1/" src="http://pic.rtbcdn.ru/video/2026-08-27/e4/0c/e40c016b5df0668538247e77e3d12b59.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_8_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 8 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 8 серия (сериал 2008) Legend of the Seeker:s:2331396:e:792-->
+<!----><!--2026-08-29 00:14:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_14_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b048d248ae4357cf02def23db4bd6854/" src="http://pic.rtbcdn.ru/video/2026-08-27/83/57/835794c6a900f5eb824c8197c77d9710.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_14_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 14 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 14 серия (сериал 2008) Legend of the Seeker:s:2332335:e:795-->
+<!----><!--2026-08-29 00:05:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_5_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/79ef20d2aa082df1cfe2b0b71511ab82/" src="http://pic.rtbcdn.ru/video/2026-08-27/5a/f6/5af60baf54fad4294297923b4d447da2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_5_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 5 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 5 серия (сериал 2008) Legend of the Seeker:s:2333278:e:792-->
+<!----><!--2026-08-29 12:00:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/molody_i_vljubleny_film_2026_hai_jawani_toh_ishq_hona_hai">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ab79c341bde87e18cb9db2a010f46b0f/" src="http://pic.rtbcdn.ru/video/2026-08-27/cc/a5/cca5505af24914eaa43b325c326d9b13.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/molody_i_vljubleny_film_2026_hai_jawani_toh_ishq_hona_hai">Молоды и влюблены (фильм 2026) / Hai Jawani Toh Ishq Hona Hai</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Молоды и влюблены (фильм 2026) Hai Jawani Toh Ishq Hona Hai:s:2334217:e:738-->
+<!----><!--2026-08-29 00:12:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_12_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2a445f42b898a6592f35f1c89a8239aa/" src="http://pic.rtbcdn.ru/video/2026-08-27/d3/f6/d3f61074faeb7b90652f8be74fe086b3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_12_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 12 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 12 серия (сериал 2008) Legend of the Seeker:s:2335076:e:795-->
+<!----><!--2026-08-29 00:20:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_20_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b4a746f0f12f85cfae4a3394d00b1c88/" src="http://pic.rtbcdn.ru/video/2026-08-27/76/24/762443c2ae97ec5e5baf93baddd872a4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_20_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 20 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 20 серия (сериал 2008) Legend of the Seeker:s:2336019:e:795-->
+<!----><!--2026-08-29 00:13:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_13_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a60774a0909dcbfe87c3395ee35657a5/" src="http://pic.rtbcdn.ru/video/2026-08-27/c0/1e/c01eef4454a2312496197bebf31227de.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_13_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 13 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 13 серия (сериал 2008) Legend of the Seeker:s:2336962:e:795-->
+<!----><!--2026-08-29 00:16:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_16_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1142ce8a74d50123b0c56c4a9cb8d14a/" src="http://pic.rtbcdn.ru/video/2026-08-27/3a/f2/3af22e918a4061e850a10af96f4b9572.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_16_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 16 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 16 серия (сериал 2008) Legend of the Seeker:s:2337905:e:795-->
+<!----><!--2026-08-29 00:21:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_21_seriya_serial_2008_legend_of_the_seeker">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/03eefa804f0ebbd231b984eb596b39ab/" src="http://pic.rtbcdn.ru/video/2026-08-27/57/35/57352fffb5105ac4f92cbfea79d3907a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/legenda_ob_iskatele_-_2_sezon_21_seriya_serial_2008_legend_of_the_seeker">Легенда об Искателе - 2 сезон 21 серия (сериал 2008) / Legend of the Seeker</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-08-29</i>
+  </div>
+</div><!--n:Мир кино/Легенда об Искателе - 2 сезон 21 серия (сериал 2008) Legend of the Seeker:s:2338848:e:795-->
