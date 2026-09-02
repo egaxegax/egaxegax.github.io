@@ -17,8 +17,6 @@ dt { margin:20px; }
 #header { background:#d2e0f0; }
 #header em { color:#777; }
 #header .active em { color:#3c677b; }
-#header .yin { fill:#777; stroke:#777; }
-#header .yang { fill:#fff; stroke:#fff; }
 #page_footer button { background:#91bba1; color:#fff; }
 /* readme */
 .readme ul { list-style-type:none; padding:0; margin:0; overflow:auto; }

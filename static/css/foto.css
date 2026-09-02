@@ -12,8 +12,6 @@ input[type=text], select { background:#fff; }
 #header { background:#d2e0f0; }
 #header em { color:#777; }
 #header .active em { color:#3c677b; }
-#header .yin { fill:#777; stroke:#777; }
-#header .yang { fill:#fff; stroke:#fff; }
 #page_footer button { background:#91bba1; color:#fff; }
 /* .readme { font-size:93.75%; } */
 /*img*/

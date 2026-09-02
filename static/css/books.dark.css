@@ -13,8 +13,6 @@ input[type=text], select { background:#656565; color:#fff; }
 #header, .wrap { background:#323232; }
 #header em { color:#dedede; }
 #header .active em { color:#f4c430; }
-#header .yin { fill:#fff; stroke:#fff; }
-#header .yang { fill:#777; stroke:#777; }
 #page_footer button { background:#fff; }
 /**/
 .about img { max-width:50px !important; }
