@@ -22,8 +22,9 @@
 .chords strong em { font-weight:500; font-style:normal; }
 .chords a { text-decoration:none; }
 #songcont p { margin-top:0;  }
+@media (max-width:800px){ .mw_f { max-width:calc(100vw - 40px); } }
 </style>
-<script src="static/js/template.js?260829"></script>
+<script src="static/js/template.js?260903"></script>
 <script src="static/js/metrics.js?260829"></script>
 <script src="static/js/3rdparty/jtab/jquery.js?v3.7.1"></script>
 <script src="static/js/3rdparty/jtab/raphael.js?v2.3.0"></script>
@@ -61,15 +62,15 @@
 
   function addLast(r,p,docover){
     document.getElementById(p.id).innerHTML = 
-  '<div class="msgtext '+(window.innerWidth<800 ? '' : 'bigger0')+' scroll nowrap mw_f">'+
+  '<div class="msgtext scroll nowrap mw_f">'+
     '<table class="av collapse" cellspacing="0" cellpadding="0" border=0 width="100%"><tr>'+
       '<td width="1%" rowspan="3"><div class="cover"><img id="im'+p.i+'" class="rounded" align="left" alt="" src=""></div></td>'+
-      '<td colspan="2"><a class="nodecor" href="songs.html?'+tr(p.subj)+'">&ensp;'+p.subj+' </a></td>'+
+      '<td colspan="2"><a class="nodecor large" href="songs.html?'+tr(p.subj)+'">&ensp;'+p.subj+' </a></td>'+
       '<td></td>'+
     '</tr><tr>'+
-      '<td colspan="2"><a class="nodecor dark" href="songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a></td>'+
+      '<td colspan="2"><a class="nodecor dark large" href="songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a></td>'+
       '<td valign="center" align="right" class="light vmid" width="1%"><span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span></td></tr><tr>'+
-      '<td colspan="3" id="'+tr(p.subj)+'_'+tr(p.title[2])+'"><a class="nodecor small gray">&emsp;&emsp; - '+p.root+'&nbsp;</a></td></tr>'+
+      '<td colspan="3" id="'+tr(p.subj)+'_'+tr(p.title[2])+'"><a class="nodecor small gray"><i>&emsp;&emsp; '+p.root+'</i></a></td></tr>'+
     '</table>'+
   '</div>';
   if(docover) fetchPart({url: 'songs/'+p.root+'/'+'README.md', offset: p.title[1][0]+7, length: p.title[1][1]-8}, function(r,p1,st){

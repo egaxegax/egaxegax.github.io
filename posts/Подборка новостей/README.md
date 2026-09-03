@@ -81338,3 +81338,96 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">18:41</span> <a class="nodecor" href="https://www.sports.ru/skiing/1117356503-norvezhskij-lyzhnik-saltvedt-o-dopuske-rossiyan-esli-stepanova-prodolz.html">Салтведт о допуске россиян: «Если Степанова продолжит вести себя как раньше, то, думаю, она проведет немного стартов, прежде чем скажет лишнее и снова вылетит оттуда»</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/Спорт на 260902_2200:s:10249416:e:4862-->
+<!----><h2 class="hspace">В мире на Чт 03 сен 2026 06:00</h2><!--2026-09-03 05:41:04-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:41</span> <a class="nodecor" href="https://news.rambler.ru/world/57005323-na-zapade-zayavili-o-stoyaschey-na-kolenyah-ukraine/">На Западе заявили о стоящей на коленях Украине</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:32</span> <a class="nodecor" href="https://news.rambler.ru/world/57002724-tramp-usomnilsya-v-sposobnosti-irana-ogranichit-prohod-sudov-cherez-ormuzskiy-proliv/">Трамп усомнился в способности Ирана ограничить проход судов через Ормузский пролив</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:31</span> <a class="nodecor" href="https://news.rambler.ru/world/57005120-tramp-dopustil-novye-obvineniya-protiv-maduro/">Трамп допустил новые обвинения против Мадуро</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:59</span> <a class="nodecor" href="https://news.rambler.ru/world/57005006-smi-evropa-ischerpala-osnovnye-sposoby-davleniya-na-rossiyu/">СМИ: Европа исчерпала основные способы давления на Россию</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:38</span> <a class="nodecor" href="https://news.rambler.ru/world/57005101-ria-advokaty-maduro-trebuyut-prekratit-delo-v-ssha-iz-za-immuniteta-prezidenta/">РИА: адвокаты Мадуро требуют прекратить дело в США из-за иммунитета президента</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:49</span> <a class="nodecor" href="https://news.rambler.ru/world/56995952-nazvan-glavnyy-kandidat-na-post-ministra-armii-ssha/">Назван главный кандидат на пост министра армии США</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:08</span> <a class="nodecor" href="https://news.rambler.ru/world/57004973-ministr-oborony-estonii-ushel-v-otstavku-iz-za-skandala-so-snaryadami-dlya-ukrainy/">Министр обороны Эстонии ушел в отставку из-за скандала со снарядами для Украины</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:42</span> <a class="nodecor" href="https://news.rambler.ru/world/57004956-vitse-spiker-parlamenta-slovakii-gashpar-rossiyanam-prodolzhayut-vydavat-turvizy/">Вице-спикер парламента Словакии Гашпар: россиянам продолжают выдавать турвизы</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:25</span> <a class="nodecor" href="https://news.rambler.ru/world/57004947-v-evrope-ispugalis-mesti-ukraintsev-za-predatelstvo/">В Европе испугались мести украинцев за предательство</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:41</span> <a class="nodecor" href="https://news.rambler.ru/world/57004860-vengriya-vystupila-protiv-uskorennogo-vstupleniya-ukrainy-v-es/">Венгрия выступила против ускоренного вступления Украины в ЕС</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/В мире на 260903_0600:s:10254346:e:3703-->
+<!----><h2 class="hspace">Экономика на Чт 03 сен 2026 07:30</h2><!--2026-09-03 07:17:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:17</span> <a class="nodecor" href="https://rg.ru/2026/09/03/reg-dfo/vo-vladivostoke-prodolzhat-modernizaciiu-portovoj-infrastruktury.html"> Во Владивостоке продолжат модернизацию портовой инфраструктуры </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:15</span> <a class="nodecor" href="https://rg.ru/2026/09/03/rossiia-nashla-partnerov-dlia-vseh-13-avtozavodov-ostavlennyh-inostrancami.html"> Россия нашла партнеров для всех 13 автозаводов, оставленных иностранцами </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">06:54</span> <a class="nodecor" href="https://rg.ru/2026/09/03/reg-dfo/trassu-habarovsk-vladivostok-predlozhili-rasshirit-do-chetyreh-polos.html"> Трассу Хабаровск - Владивосток предложили расширить до четырех полос </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">06:00</span> <a class="nodecor" href="https://rg.ru/2026/09/03/dohodnyj-klik.html"> Эксперты &quot;РГ&quot; объяснили, сколько и на чем зарабатывают блогеры в России </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:34</span> <a class="nodecor" href="https://rg.ru/2026/09/03/reg-dfo/na-vef-obsudili-kak-sbalansirovat-proizvodstvo-i-spros-na-polimernuiu-produkciiu.html"> На ВЭФ обсудили, как сбалансировать производство и спрос на полимерную продукцию </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:23</span> <a class="nodecor" href="https://rg.ru/2026/09/03/reg-dfo/umnye-modeli-dlia-liudej.html"> Как цифровые решения повышают качество жизни в городах ДФО </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:06</span> <a class="nodecor" href="https://rg.ru/2026/09/03/reg-dfo/na-vef-obsudili-perspektivy-razvitiia-gazo-i-neftepererabotki.html"> На ВЭФ обсудили перспективы развития газо- и нефтепереработки </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:47</span> <a class="nodecor" href="https://rg.ru/2026/09/03/reg-dfo/na-vef-podveli-itogi-raboty-rossijskih-sar.html"> На ВЭФ подвели итоги работы российских САР </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:43</span> <a class="nodecor" href="https://rg.ru/2026/09/03/reg-dfo/na-vef-obsudili-kak-adaptirovat-ekonomiku-k-izmeneniiu-klimata.html"> На ВЭФ обсудили, как адаптировать экономику к изменению климата </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:09</span> <a class="nodecor" href="https://rg.ru/2026/09/03/dvizhenie-poezdov-v-zabajkale-polnostiu-vosstanovili.html"> Движение поездов в Забайкалье полностью восстановили </a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://rg.ru/xml/rubrics/ekonomika.xml</div><!--n:Российская газета/Экономика на 260903_0700:s:10258120:e:3604-->
+<!----><h2 class="hspace">Чемпионат на Чт 03 сен 2026 08:00</h2><!--2026-09-03 07:54:28-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:54</span> <a class="nodecor" href="https://www.championat.ru/tennis/news-6605972-arina-sobolenko-ni-razu-v-karere-ne-proigryvala-kvalifaeru-na-tbsh-eyo-seriya-13-0.html">Арина Соболенко ни разу в карьере не проигрывала квалифаеру на ТБШ. Её серия – 13:0</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:50</span> <a class="nodecor" href="https://www.championat.ru/football/news-6605968-po-prezhnemu-voshischaet-ego-igra-vot-eto-futbolistische-mostovoj-o-rekordsmene-selty.html">«По-прежнему восхищает его игра. Вот это футболистище!» Мостовой — о рекордсмене «Сельты»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:50</span> <a class="nodecor" href="https://www.championat.ru/hockey/news-6605956-mozhno-tak-chisto-chut-chut-shipachyov-nazval-top-5-brendov-piva.html">«Можно так, чисто чуть-чуть». Шипачёв назвал топ-5 брендов пива</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:42</span> <a class="nodecor" href="https://www.championat.ru/tennis/news-6605970-alkaras-oboshyol-nadalya-i-stal-vtorym-v-istorii-igrokom-po-procentu-pobed-na-tbsh.html">Алькарас обошёл Надаля и стал вторым в истории игроком по проценту побед на ТБШ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:37</span> <a class="nodecor" href="https://www.championat.ru/football/news-6605962-pozvonil-drug-pozval-dali-deneg-on-soglasilsya-mostovoj-o-karere-trenera-karpina.html">«Позвонил друг, позвал, дали денег — он согласился». Мостовой — о карьере тренера Карпина</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:32</span> <a class="nodecor" href="https://www.championat.ru/tennis/news-6605964-u-alkarasa-16-pobed-podryad-na-tbsh-on-vtoroj-po-molodosti-posle-nadalya-s-takoj-seriej.html">У Алькараса 16 побед подряд на ТБШ. Он второй по молодости после Надаля с такой серией</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:30</span> <a class="nodecor" href="https://www.championat.ru/football/news-6605906-vsyo-dlya-klubov-rpl-zaschitnik-dinamo-mh-kriticheski-otozvalsya-o-formate-kubka-rossii.html">«Всё для клубов РПЛ». Защитник «Динамо» Мх критически отозвался о формате Кубка России</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:30</span> <a class="nodecor" href="https://www.championat.ru/lifestyle/news-6603910-eleckij-polumarafon-projdyot-v-lipeckoj-oblasti-6-sentyabrya.html">«Елецкий полумарафон» пройдёт в Липецкой области 6 сентября</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:30</span> <a class="nodecor" href="https://www.championat.ru/cybersport/news-6605960-v-knioteatrah-rossii-vyshel-film-moj-papa-medved-2-s-romanom-kurcynym.html">В книотеатрах России вышел фильм «Мой папа — медведь 2» с Романом Курцыным</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:28</span> <a class="nodecor" href="https://www.championat.ru/football/news-6605950-aleksandr-mostovoj-s-bandoj-kakaya-byla-u-selty-my-dolzhny-byli-kazhdyj-god-igrat-v-lch.html">Александр Мостовой: с бандой, какая была у «Сельты», мы должны были каждый год играть в ЛЧ</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.championat.ru/rss/news/</div><!--n:Чемпионат/Чемпионат на 260903_0800:s:10261821:e:4265-->

@@ -1549,3 +1549,14 @@
     <i class="smaller3">2026-09-01</i>
   </div>
 </div><!--n:Скрытая камера/Писающая баба в туалете с камерой:s:106444:e:598-->
+<!----><!--2026-09-02 09:51:47-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2583-zhenschiny-mojutsja-v-dushevoj.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-09/1788331613_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/jenshchiny_mojutsya_v_dushevoj">Женщины моются в душевой</a></p>
+    <p><i class="smaller2">В душе</i></p>
+    <i class="smaller3">2026-09-02</i>
+  </div>
+</div><!--n:Скрытая камера/Женщины моются в душевой:s:107156:e:561-->

@@ -6470,6 +6470,10 @@ https://egax.ru/songs.html?cvety/about
 https://egax.ru/songs.html?cvety/zvezdochka_moya_yasnaya
 https://egax.ru/songs.html?da_buzz
 https://egax.ru/songs.html?da_buzz/how_could_you_leave_me
+https://egax.ru/songs.html?dajte_tank
+https://egax.ru/songs.html?dajte_tank/about
+https://egax.ru/songs.html?dajte_tank/komanda
+https://egax.ru/songs.html?dajte_tank/malenkij
 https://egax.ru/songs.html?danko
 https://egax.ru/songs.html?danko/about
 https://egax.ru/songs.html?danko/malysh

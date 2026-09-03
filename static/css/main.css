@@ -35,13 +35,10 @@
 .scroll { overflow:auto; }
 .noscroll { overflow:hidden; }
 .smaller { font-size:smaller; }
-.smaller1 { font-size:93.333%; }
+.smaller1 { font-size:93.75%; }
 .small { font-size:small; }
 .large { font-size:large; }
 .bigger { font-size:150%; }
-.bigger0 { font-size:110%; }
-.bigger1 { font-size:130%; }
-.bigger2 { font-size:150%; }
 .loader { border:1px solid #ddd; }
 .tooltip { cursor:pointer; text-decoration:underline; text-decoration-style:dotted; }
 .wrap { border-radius:3px; padding:5px 10px 4px 10px; margin:0 auto 5px auto; }
