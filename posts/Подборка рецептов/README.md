@@ -5726,3 +5726,19 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184472/"><img src="https://www.povarenok.ru/data/cache/2026sep/06/47/3235000_18991-640x480.jpg"></a>Это очень вкусное лакомство, которое легко приготовить дома и заготовить на зиму, чтобы потом наслаждаться его нежным вкусом. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184472/">Яблочное пюре со сгущенкой на зиму</a></p></div>
 </div><!--n:Поваренок.РУ/Яблочное пюре со сгущенкой на зиму:s:1232982:e:626-->
+<!----><!--2026-09-07 14:14:31-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184477/"><img src="https://www.povarenok.ru/data/cache/2026sep/07/14/3235129_77958-640x480.jpg"></a>Кабачковые вафли я вообще начала делать прошлым летом просто потому, что кабачков этих было ну просто ооочень много! Реально уже не знала, куда их еще пристроить. Но довольно быстро поняла, что простая вафельница и кабачки — это идеальное комбо: сами вафли можно оставить одни и те же, а сверху каждый раз класть что-нибудь разное. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184477/">Кабачковые вафли с форелью и авокадо</a></p></div>
+</div><!--n:Поваренок.РУ/Кабачковые вафли с форелью и авокадо:s:1233721:e:1001-->
+<!----><!--2026-09-07 21:08:41-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184479/"><img src="https://www.povarenok.ru/data/cache/2026sep/07/13/3235223_18520-640x480.jpg"></a>Кальмар с перцaми, лаймом и жареным миндалем — это быстрая и эффектная закуска в стиле тапас, сочетающая в себе морепродукты с легким ароматом дымка и обжаренные до появления пузырьков на кожице перцы. Хорошо подавать с белым сухим вином. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184479/">Кальмары с перцами и жареным миндалем</a></p></div>
+</div><!--n:Поваренок.РУ/Кальмары с перцами и жареным миндалем:s:1234840:e:837-->
+<!----><!--2026-09-07 17:15:08-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184478/"><img src="https://www.povarenok.ru/data/cache/2026sep/07/15/3235151_36868-640x480.jpg"></a>Посоле (исп. pozole) — это традиционный мексиканский густой суп на основе кукурузы и мяса, чаще всего свинины или курицы. Блюдо имеет древние корни, уходящие к ацтекам, и считается важной частью мексиканской культуры. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184478/">Мексиканский суп "Посоле"</a></p></div>
+</div><!--n:Поваренок.РУ/Мексиканский суп Посоле:s:1235796:e:769-->
+<!----><!--2026-09-07 19:18:34-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kak-zamorozit-oblepihu-na-zimu/photo/960w.jpg" width="960" alt="Как заморозить облепиху на зиму целыми ягодами"><p>Как заморозить облепиху на зиму, чтобы сохранить ягоды для приготовления морсов, компотов, чая, выпечки и других домашних блюд? Это удобный способ заготовки без варки и добавления сахара. После размораживания облепиха сохраняет свой яркий вкус и аромат.</p> <p class="titl"><a href="https://finecooking.ru/recipe/kak-zamorozit-oblepihu-na-zimu?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Как заморозить облепиху на зиму целыми ягодами</a></p></div>
+</div><!--n:finecooking.ru/Как заморозить облепиху на зиму целыми ягодами:s:1236659:e:1033-->

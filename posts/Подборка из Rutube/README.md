@@ -27490,3 +27490,14 @@
     <i class="smaller3">2026-09-06</i>
   </div>
 </div><!--n:Путешествия свои ходом/Переезд во Вьетнам 2026. Честно о жизни в Нячанге цены, жилье, виза, работа, школы и детские сады.:s:2379455:e:986-->
+<!----><!--2026-09-07 19:26:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_vsrf_na_donbasse_vizit_amerikancev_germaniya_minus_07_09_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6bcd90fcdf1c8a498763ba1f4c5883ae/" src="http://pic.rtbcdn.ru/video/2026-09-07/eb/a1/eba1494fbd0ca6b5d2ac2fe66849f4f0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_nastuplenie_vsrf_na_donbasse_vizit_amerikancev_germaniya_minus_07_09_26">Украинский фронт - наступление ВСРФ на Донбассе. Визит американцев. Германия минус. 07.09.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-09-07</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - наступление ВСРФ на Донбассе. Визит американцев. Германия минус. 07.09.26:s:2380680:e:917-->
