@@ -5742,3 +5742,16 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kak-zamorozit-oblepihu-na-zimu/photo/960w.jpg" width="960" alt="Как заморозить облепиху на зиму целыми ягодами"><p>Как заморозить облепиху на зиму, чтобы сохранить ягоды для приготовления морсов, компотов, чая, выпечки и других домашних блюд? Это удобный способ заготовки без варки и добавления сахара. После размораживания облепиха сохраняет свой яркий вкус и аромат.</p> <p class="titl"><a href="https://finecooking.ru/recipe/kak-zamorozit-oblepihu-na-zimu?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Как заморозить облепиху на зиму целыми ягодами</a></p></div>
 </div><!--n:finecooking.ru/Как заморозить облепиху на зиму целыми ягодами:s:1236659:e:1033-->
+<!----><!--2026-09-08 17:21:24-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184486/"><img src="https://www.povarenok.ru/data/cache/2026sep/08/24/3235367_55847-640x480.jpg"></a>«Хлебная жаба» — шуточный кулинарный тренд, при котором выпекают хлебное изделие в форме жабы или лягушки. В оригинале это называется Frog bread (с английского — «лягушачий хлеб»). <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184486/">Хлебные жабы</a></p></div>
+</div><!--n:Поваренок.РУ/Хлебные жабы:s:1237820:e:678-->
+<!----><!--2026-09-08 19:49:31-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184488/"><img src="https://www.povarenok.ru/data/cache/2026sep/08/22/3235306_25958-640x480.jpg"></a>Всегда мариновала вишню с косточкой. В этом рецепте ягода без нее. Ну, а что, есть же оливки с косточками и без. Каждый год, в обязательном порядке, у меня есть несколько баночек подобных вишневых заготовок и эксперименты не прекращаются. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184488/">Вишня маринованная с ванилью</a></p></div>
+</div><!--n:Поваренок.РУ/Вишня маринованная с ванилью:s:1238571:e:817-->
+<!----><!--2026-09-08 19:39:25-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184487/"><img src="https://www.povarenok.ru/data/cache/2026sep/08/36/3235377_73251-640x480.jpg"></a>Спанакопита орзо -
+это блюдо для быстрого ужина, которое готовится в одной ёмкости и превращается в нежное, кремовое блюдо из пасты орзо с зеленью и сыром,, напоминающее ризотто. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184487/">Спанакопита орзо</a></p></div>
+</div><!--n:Поваренок.РУ/Спанакопита орзо:s:1239491:e:687-->

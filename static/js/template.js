@@ -142,15 +142,15 @@ function addLoader(bl){ return (bl ? '<div>&emsp;<img class="rounded loader" alt
 //
 // return share button svg icon
 //
-function addIShare(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g fill="transparent" stroke="currentColor"><circle cx="3" cy="7.5" r="1.5" /><circle cx="11" cy="3" r="1.5" /><circle cx="11" cy="12" r="1.5" /><path d="M4 8 L10 11.5 M4 7 L10 3.5"></g></svg>'; }
+function addIShare(){ return '<span class="large">&#11150;</span>'; }
 //
 // return clock button svg icon
 //
-function addIClock(){ return '<svg width="15" height="15" role="img" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0 0)"><circle cx="7.5" cy="7.5" r="6" fill="transparent" stroke="currentColor" /><circle cx="7.5" cy="7.5" r="0.75" fill="currentColor" /><path d="M3.5 6.5 7.5 7.5 9 11.5" fill="transparent" stroke="currentColor" /></g></svg>'; }
+function addIClock(){ return '<span>&#128349;</span>'; }
 //
 // return refresh button svg icon
 //
-function addIRefresh(){ return '<svg width="16" height="16" role="img" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M5.56277 2.51577C3.46372 3.4501 2.00024 5.55414 2.00024 7.99999C2.00024 11.3137 4.68654 14 8.00024 14C11.314 14 14.0002 11.3137 14.0002 7.99999C14.0002 5.32519 12.25 3.05919 9.83224 2.28482L9.52992 3.23832C11.5431 3.88454 13.0002 5.7721 13.0002 7.99999C13.0002 10.7614 10.7617 13 8.00024 13C5.23882 13 3.00024 10.7614 3.00024 7.99999C3.00024 6.31104 3.83766 4.81767 5.11994 3.91245L5.56277 2.51577Z M5.00024 3H2.00024V2H5.50024L6.00024 2.5V6H5.00024V3Z" /></svg>'; }
+function addIRefresh(){ return '<span class="large">&#11118;</span>'; }
 //
 // return html for paginator
 //
@@ -265,7 +265,7 @@ function fetchRSSFromXML(rssUrl, contId) {
         const titl = item.getElementsByTagName('title')[0].textContent;
         const link = item.getElementsByTagName('link')[0].textContent;
         const pdate = item.getElementsByTagName('pubDate')[0]?.textContent.split(/\s\+\d+/)[0];
-        if(i==0) document.getElementById(contId).innerHTML = '<h2>Новое с '+rssUrl.split('/')[2]+' на '+(new Date(pdate)).toLocaleDateString()+'</h2>';
+        if(i==0) document.getElementById(contId).innerHTML = '<h2 class="hspace">Новое с '+rssUrl.split('/')[2]+' на '+(new Date(pdate)).toLocaleDateString()+'</h2>';
         cont += `
             <div class="rssn">
               <div><span class="smaller gray hspace">${('0'+(new Date(pdate)).getHours()).slice(-2)}:${('0'+(new Date(pdate)).getMinutes()).slice(-2)}</span>

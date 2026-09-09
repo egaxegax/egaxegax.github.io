@@ -56910,3 +56910,87 @@ Telegram-канал Baza. <p class="titl"><a href="https://moslenta.ru/news/city
 <div class="yb">
   <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/honeycomb_the_world_beyond/news/sostoyalsya_reliz_nauchno_fantasticheskogo_simulyatora_vyzhivaniya_honeycomb_the_world_beyond-1872990#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/Qq0lV0bPZkwe6jG2OGuwxQ.jpeg"></a>После 5 лет производственного процесса польская студия Frozen Way при поддержке издательства Snail Games USA выпустила на PC в сервисе Steam научно-фантастический симулятор выживания с упором на научные исследования Honeycomb: The World Beyond. Игрокам предстоит... <p class="titl"><a href="https://www.playground.ru/honeycomb_the_world_beyond/news/sostoyalsya_reliz_nauchno_fantasticheskogo_simulyatora_vyzhivaniya_honeycomb_the_world_beyond-1872990#utm_source=rss&utm_medium=referral&utm_campaign=news">Состоялся релиз научно-фантастического симулятора выживания Honeycomb: The World Beyond</a></p></div>
 </div><!--n:PlayGround.ru/Состоялся релиз научно-фантастического симулятора выживания Honeycomb The World Beyond:s:10927825:e:1224-->
+<!----><!--2026-09-08 19:36:42-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Новый браузер будет поддерживать российские алгоритмы шифрования и обеспечивать защищённый доступ к сайтам в соответствии с требованиями ФСБ, пишут СМИ.<br><br>Разработка должна заменить американский браузер в сценариях, где требуется использование российских электронных подписей и криптографической защиты.<br><br><a href="/go/?https%3A%2F%2Fhi-tech.mail.ru%2Fnews%2F155056-v-rossii-poyavitsya-novyj-zashishennyj-brauzer-na-smenu-chrome%2F%3Fysclid%3Dmtsw4sxgdp28366703" target="_blank">via</a><br><br><a href="https://www.yaplakal.com/forum1/topic3119050.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/6/6/3/21247366.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3119050.html">Россиянам готовят новый «защищённый браузер» на замену Google Chrome</a></p></div>
+</div><!--n:ЯПлакал/Россиянам готовят новый защищённый браузер на замену Google Chrome:s:10929231:e:1235-->
+<!----><!--2026-09-08 19:58:33-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Наловили сегодня штук 100 наверное за пару часов, клюют как очумелые на курочку.<br><br>Оччень вкусная вещь...<br><br>Надеюсь быстро загрузятся.... <br><br><a href="https://www.yaplakal.com/forum2/topic3119059.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/2/0/4/21247402.jpg" border="0"></a> <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3119059.html">Голубой краб, крабалка в Италии в Бибионе...</a></p></div>
+</div><!--n:ЯПлакал/Голубой краб, крабалка в Италии в Бибионе...:s:10930621:e:690-->
+<!----><!--2026-09-09 04:03:55-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvicham-rasskazali-o-korotkoi-rabochei-nedele-osenyu-09-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/09/01/7003503/522bc403b71600c05b5210141a8d6f465bf76cb9.jpg"></a>В России осенью 2026 года будет одна короткая рабочая неделя. Об этом сообщает РИА Новости. <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvicham-rasskazali-o-korotkoi-rabochei-nedele-osenyu-09-09-2026.htm">Кутарова: Россиян осенью ждет одна короткая рабочая неделя</a></p></div>
+</div><!--n:Мослента/Кутарова Россиян осенью ждет одна короткая рабочая неделя:s:10931431:e:730-->
+<!----><!--2026-09-09 00:04:03-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-podmoskove-sprognozirovali-polyarnoe-siyanie-09-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/21/7003478/560afab31f1d89729c4a8a10d23a1946f2c3ca7a.jpg"></a>В ночь на 9 сентября жители Подмосковья смогут зафиксировать полярное сияние. Об этом в беседе с ТАСС заявил заведующий лабораторией солнечной астрономии ИКИ РАН Сергей Богачев. <p class="titl"><a href="https://moslenta.ru/news/city/v-podmoskove-sprognozirovali-polyarnoe-siyanie-09-09-2026.htm">Богачев: В Подмосковье в ночь на 9 сентября можно будет зафиксировать полярное сияние</a></p></div>
+</div><!--n:Мослента/Богачев В Подмосковье в ночь на 9 сентября можно будет зафиксировать полярное сияние:s:10932312:e:922-->
+<!----><!--2026-09-09 06:22:40-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvicham-rasskazali-o-pogode-v-sredu-09-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/09/03/7003513/9abb787db6d27ce1cfd0ae04d58476ed9d5b75df.jpg"></a>В среду, 9 сентября, температура в Москве составит плюс 22 градуса. Об этом сообщается на сайте Гидрометцентра России. <p class="titl"><a href="https://moslenta.ru/news/city/moskvicham-rasskazali-o-pogode-v-sredu-09-09-2026.htm">Гидрометцентр: В Москве 9 сентября ожидается до +22 градусов без осадков</a></p></div>
+</div><!--n:Мослента/Гидрометцентр В Москве 9 сентября ожидается до 22 градусов без осадков:s:10933433:e:765-->
+<!----><!--2026-09-08 19:19:26-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/zhenshina-stala-prichinoi-strelby-na-parkovke-elitnogo-moskovskogo-zhk-08-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/15/7003464/f991dad2501194d504a3fa144044f9c5ddf653bb.jpg"></a>Причиной стрельбы на подземной парковке элитного ЖК «Матч Поинт» на улице Василисы Кожиной стала разборка из-за женщины, передает «МК». <p class="titl"><a href="https://moslenta.ru/news/city/zhenshina-stala-prichinoi-strelby-na-parkovke-elitnogo-moskovskogo-zhk-08-09-2026.htm">«МК»: Причиной стрельбы на парковке ЖК «Матч Поинт» стала разборка из-за женщины</a></p></div>
+</div><!--n:Мослента/МК Причиной стрельбы на парковке ЖК Матч Поинт стала разборка из-за женщины:s:10934369:e:884-->
+<!----><!--2026-09-08 18:38:24-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/los-probezhalsya-po-moskovskim-ulicam-08-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/15/7003448/512452ba4724bf2a84bd8d4596507ed4c64428d8.jpg"></a>Утром 8 сентября на улицах в Восточном округе Москвы заметили лося, передает РЕН ТВ. <p class="titl"><a href="https://moslenta.ru/news/city/los-probezhalsya-po-moskovskim-ulicam-08-09-2026.htm">Утром на улицах в Восточном округе Москвы заметили лося</a></p></div>
+</div><!--n:Мослента/Утром на улицах в Восточном округе Москвы заметили лося:s:10935435:e:676-->
+<!----><!--2026-09-08 14:57:08-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvich-udarilsya-ob-avto-razozlilsya-i-ustroil-podzhog-08-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/10/7003323/8b95a034489ba52cff993a089703601ea19775e9.jpg"></a>На северо-востоке Москвы оперативники задержали мужчину, подозреваемого в поджоге автомобиля. Его действия попали на видео, которое публикуется на сайте столичного главка МВД России. <p class="titl"><a href="https://moslenta.ru/news/city/moskvich-udarilsya-ob-avto-razozlilsya-i-ustroil-podzhog-08-09-2026.htm">На северо-востоке Москвы задержали подозреваемого в поджоге автомобиля</a></p></div>
+</div><!--n:Мослента/На северо-востоке Москвы задержали подозреваемого в поджоге автомобиля:s:10936257:e:929-->
+<!----><!--2026-09-09 00:33:12-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvichi-opredelili-spravedlivuyu-zarplatu-09-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/21/7003481/a7b2fe7950544acd610dd345f5e22b5234393c8a.jpg"></a>Москвичи сочли справедливой среднюю зарплату размером 165 тысяч рублей после уплаты налогов. Об этом свидетельствуют результаты исследования SuperJob. <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvichi-opredelili-spravedlivuyu-zarplatu-09-09-2026.htm">SuperJob: Москвичи сочли справедливой среднюю зарплату в 165 тысяч рублей</a></p></div>
+</div><!--n:Мослента/SuperJob Москвичи сочли справедливой среднюю зарплату в 165 тысяч рублей:s:10937362:e:831-->
+<!----><!--2026-09-08 17:51:40-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/pervokursniki-mgimo-rasskazali-o-podarkakh-ot-roditelei-za-postuplenie-08-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/12/7003389/28e5613172d7b4eb7076229aa569997d5bc4a10a.jpg"></a>Первокурсники МГИМО рассказали о подарках, которые они получили от родителей за поступление в вуз. Об этом сообщает «Москва 24» во «ВКонтакте». <p class="titl"><a href="https://moslenta.ru/news/lyudi/pervokursniki-mgimo-rasskazali-o-podarkakh-ot-roditelei-za-postuplenie-08-09-2026.htm">Первокурсники МГИМО похвастались подарками от родителей за поступление</a></p></div>
+</div><!--n:Мослента/Первокурсники МГИМО похвастались подарками от родителей за поступление:s:10938361:e:884-->
+<!----><!--2026-09-08 20:19:03-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/prodazhi-odnogo-proizvedeniya-v-rossii-vyrosli-v-13-raz-za-mesyac-08-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/10/7003320/a4d4ea30c5d718835c51fccff1e6b4b70e94c6b6.jpg"></a>Продажи пьесы Александра Островского «Гроза» в начале сентября выросли в 13,8 раза по сравнению с первой половиной августа. Об этом сообщает агентство «Москва» со ссылкой на пресс-службу сети книжных магазинов «Читай-город». <p class="titl"><a href="https://moslenta.ru/news/lyudi/prodazhi-odnogo-proizvedeniya-v-rossii-vyrosli-v-13-raz-za-mesyac-08-09-2026.htm">Продажи пьесы Островского «Гроза» выросли в 13,8 раза в начале сентября</a></p></div>
+</div><!--n:Мослента/Продажи пьесы Островского Гроза выросли в 13,8 раза в начале сентября:s:10939422:e:1018-->
+<!----><!--2026-09-08 16:16:45-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/rossiyane-rasskazali-o-nostalgii-po-zare-interneta-08-09-2026.htm"><img src="https://moslenta.ru/imgs/2026/09/08/13/7003429/6512662fbbeeb90e5c63ead23d2da1a5f165f46d.jpg"></a>В 2026 году ностальгия по раннему интернету стала трендом. Пользователи начали массово обращаться к цифровой ностальгии: публиковать архивные фотографии, вспоминать музыку, мемы десятилетней давности. Медиахолдинг Rambler&amp;Co спросил интернет-пользователей, каким они запомнили Рунет нулевых и начала десятых, по каким цифровым привычкам и форматам скучают, как хранят личные архивы и каким хотят видеть интернет в ближайшие годы. <p class="titl"><a href="https://moslenta.ru/news/lyudi/rossiyane-rasskazali-o-nostalgii-po-zare-interneta-08-09-2026.htm">В 2026 году ностальгия по раннему интернету стала трендом</a></p></div>
+</div><!--n:Мослента/В 2026 году ностальгия по раннему интернету стала трендом:s:10940609:e:1336-->
+<!----><!--2026-09-09 00:25:17-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792834><img src="https://i.artfile.ru/s/1792834_090926_32_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 2560x1707<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=13194>&#1041;&#1072;&#1073;&#1072;_&#1071;&#1075;&#1072;</a> 09.09.2026 - 00:25 <p class="titl"><a href="https://www.artfile.ru/s.php?s=22">Раздел Фэнтези (мужчина, наряд, город, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Фэнтези (мужчина, наряд, город, ):s:10942092:e:626-->
+<!----><!--2026-09-09 09:09:02-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792844><img src="https://i.artfile.ru/s/1792844_090926_61_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 4016x3017<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=42>sparco</a> 09.09.2026 - 09:09 <p class="titl"><a href="https://www.artfile.ru/s.php?s=5">Раздел Мотоциклы (vespa, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Мотоциклы (vespa, ):s:10942826:e:549-->
+<!----><!--2026-09-09 00:25:07-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792833><img src="https://i.artfile.ru/s/1792833_090926_70_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 2560x1707<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=13194>&#1041;&#1072;&#1073;&#1072;_&#1071;&#1075;&#1072;</a> 09.09.2026 - 00:25 <p class="titl"><a href="https://www.artfile.ru/s.php?s=22">Раздел Фэнтези (девушка, корабли, техника, космос, планеты, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Фэнтези (девушка, корабли, техника, космос, планеты, ):s:10943454:e:664-->
+<!----><!--2026-09-09 09:08:45-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792842><img src="https://i.artfile.ru/s/1792842_090926_87_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 4064x2704<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=42>sparco</a> 09.09.2026 - 09:08 <p class="titl"><a href="https://www.artfile.ru/s.php?s=9">Раздел Спорт (mclaren, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Спорт (mclaren, ):s:10944264:e:543-->
+<!----><!--2026-09-09 09:08:43-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792841><img src="https://i.artfile.ru/s/1792841_090926_18_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 1920x1276<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=42>sparco</a> 09.09.2026 - 09:08 <p class="titl"><a href="https://www.artfile.ru/s.php?s=9">Раздел Спорт (lola, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Спорт (lola, ):s:10944880:e:540-->
+<!----><!--2026-09-09 00:25:34-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792835><img src="https://i.artfile.ru/s/1792835_090926_83_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 2338x1427<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=13194>&#1041;&#1072;&#1073;&#1072;_&#1071;&#1075;&#1072;</a> 09.09.2026 - 00:25 <p class="titl"><a href="https://www.artfile.ru/s.php?s=22">Раздел Фэнтези (девушка, Таро, Королева Чаш, чаша, огонь, горы, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Фэнтези (девушка, Таро, Королева Чаш, чаша, огонь, горы, ):s:10945490:e:669-->
+<!----><!--2026-09-09 00:25:50-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792836><img src="https://i.artfile.ru/s/1792836_090926_92_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 2560x1807<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=13194>&#1041;&#1072;&#1073;&#1072;_&#1071;&#1075;&#1072;</a> 09.09.2026 - 00:25 <p class="titl"><a href="https://www.artfile.ru/s.php?s=22">Раздел Фэнтези (девушка, наряд, оружие, машина, город, развалины, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Фэнтези (девушка, наряд, оружие, машина, город, развалины, ):s:10946310:e:674-->
+<!----><!--2026-09-09 09:08:59-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792843><img src="https://i.artfile.ru/s/1792843_090926_13_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 3422x1910<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=42>sparco</a> 09.09.2026 - 09:08 <p class="titl"><a href="https://www.artfile.ru/s.php?s=5">Раздел Мотоциклы (bmw, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Мотоциклы (bmw, ):s:10947140:e:547-->
+<!----><!--2026-09-09 00:24:57-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1792832><img src="https://i.artfile.ru/s/1792832_090926_12_ArtFile_ru.jpg"></a><br>&#1056;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077; 2560x1707<br>&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1083;(&#1072;): <a href=http://www.artfile.ru/us.php?i=13194>&#1041;&#1072;&#1073;&#1072;_&#1071;&#1075;&#1072;</a> 09.09.2026 - 00:24 <p class="titl"><a href="https://www.artfile.ru/s.php?s=22">Раздел Фэнтези (монстр, тыква, коса, Хэллоуин, лес, луна, туман, )</a></p></div>
+</div><!--n:Artfile.ru/Раздел Фэнтези (монстр, тыква, коса, Хэллоуин, лес, луна, туман, ):s:10947764:e:670-->

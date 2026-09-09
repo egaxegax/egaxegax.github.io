@@ -24,7 +24,7 @@
 #songcont p { margin-top:0;  }
 @media (max-width:800px){ .mw_f { max-width:calc(100vw - 40px); } }
 </style>
-<script src="static/js/template.js?260903"></script>
+<script src="static/js/template.js?260909"></script>
 <script src="static/js/metrics.js?260829"></script>
 <script src="static/js/3rdparty/jtab/jquery.js?v3.7.1"></script>
 <script src="static/js/3rdparty/jtab/raphael.js?v2.3.0"></script>
@@ -69,7 +69,7 @@
       '<td></td>'+
     '</tr><tr>'+
       '<td colspan="2"><a class="nodecor dark large" href="songs.html?'+tr(p.subj)+'/'+tr(p.title[2])+'">&emsp; '+p.title[2]+' </a></td>'+
-      '<td valign="center" align="right" class="light vmid" width="1%"><span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span></td></tr><tr>'+
+      '<td valign="center" align="right" class="light vmid" width="1%"><span class="tooltip small gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=this.title"> '+addIClock()+' </span></td></tr><tr>'+
       '<td colspan="3" id="'+tr(p.subj)+'_'+tr(p.title[2])+'"><a class="nodecor small gray"><i>&emsp;&emsp; '+p.root+'</i></a></td></tr>'+
     '</table>'+
   '</div>';
@@ -132,7 +132,7 @@
   '<div id="chordcont" class="bmarg tcenter chord"></div>'+
   '<div class="msgfooter mw_f nowrap scroll">'+
     '<table class="collapse"><tr>'+
-      '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=addIClock()+this.title"> '+addIClock()+' </span> </td>'+
+      '<td><span class="tooltip gray" title="добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=this.title"> '+addIClock()+' </span> </td>'+
       '<td> &emsp;&emsp; </td>'+
       '<td align=right width="95%"> </td>'+
     '</tr></table>'+

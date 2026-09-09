@@ -82237,3 +82237,127 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">05:04</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/08/rossiyanam-nazvali-luchshee-vremenya-dlya-nablyudeniya-za-sentyabrskim-zvezdopadom.html">Россиянам назвали лучшее временя для наблюдения за сентябрьским звездопадом</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/Наука на 260908_2000:s:10366260:e:3813-->
+<!----><h2 class="hspace">Спорт на Вт 08 сен 2026 22:00</h2><!--2026-09-08 18:54:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/football/1117363757-svetlana-zhurova-posmotrim-ne-budut-li-sfabrikovany-rezultaty-golosova.html">Светлана Журова: «Посмотрим, не будут ли сфабрикованы результаты голосования за премию Яшина из-за того, что Сафонов россиянин»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/football/1117363167-kubok-anglijskoj-ligi-nyukasl-protiv-milluola-chelsi-sygraet-s-lidsom-.html">Кубок английской лиги. «Ньюкасл» против «Миллуола», «Челси» сыграет с «Лидсом» в среду</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:53</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117363738-razin-o-21-letnem-kozlove-andrej-talantlivyj-paren-po-merkam-kxl-on-za.html">Разин о 21-летнем Козлове: «Андрей – талантливый парень. По меркам КХЛ он заиграет – и заиграет очень хорошо»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:52</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117362948-chm-2022-po-basketbolu-zhenshhiny-1-8-finala-vengriya-vstretitsya-s-ya.html">ЧМ-2026 по баскетболу. Женщины. 1/8 финала. Венгрия разгромила Японию, Германия играет против Южной Кореи</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://www.sports.ru/skiing/1117363736-borndalen-i-joxaug-posetyat-poxorony-korolya-norvegii-xaralda-v.html">Бьорндален, Йохауг и Сольбаккен посетят похороны короля Норвегии Харальда V</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:50</span> <a class="nodecor" href="https://www.sports.ru/tennis/1117363723-sobolenko-vyigrala-23-iz-24-poslednix-taj-brejkov-na-turnirax-bolshogo.html">Соболенко выиграла 23 из 24 последних тай-брейков на турнирах «Большого шлема»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:49</span> <a class="nodecor" href="https://www.sports.ru/football/1117363755-rejndzhers-sent-mirren-vo-skolko-i-gde-smotret-translyacziyu-matcha-vy.html">Рейнджерс – Сент-Миррен – во сколько и где смотреть трансляцию матча, Высшая лига Шотландия, 22 августа 2026</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:47</span> <a class="nodecor" href="https://www.sports.ru/football/1117363728-beppe-marotta-real-davno-silnejshaya-komanda-mira-v-tom-chisle-po-vyru.html">Беппе Маротта: «Реал» давно сильнейший клуб мира, в том числе по выручке. Он работает на уровне миллиарда евро и выше, между ним и Италией пропасть»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117363715-agent-sokolova-ob-obmene-v-ak-bars-vygodnaya-sdelka-dlya-vsex-storon-n.html">Агент Соколова об обмене в «Ак Барс»: «Выгодная сделка для всех сторон. Наше агентство и Егор довольны обменом»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:41</span> <a class="nodecor" href="https://www.sports.ru/betting/1117363760-mbappe-samyj-veroyatnyj-avtor-gola-v-matche-real-inter-kilian-stal-luc.html">Мбаппе забьет «Интеру», считают букмекеры. На 2+ гола форварда «Реала» дают 3.90</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/Спорт на 260908_2200:s:10370170:e:4514-->
+<!----><h2 class="hspace">В мире на Ср 09 сен 2026 06:00</h2><!--2026-09-09 05:34:45-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:34</span> <a class="nodecor" href="https://news.rambler.ru/world/57036545-si-tszinpin-zayavil-kim-chen-ynu-o-gotovnosti-razvivat-otnosheniya-knr-i-kndr/">Си Цзиньпин заявил Ким Чен Ыну о готовности развивать отношения КНР и КНДР</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:50</span> <a class="nodecor" href="https://news.rambler.ru/world/57036470-v-norvegii-vozmutilis-taynym-vizitom-zelenskogo-v-oslo/">В Норвегии возмутились тайным визитом Зеленского в Осло</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:59</span> <a class="nodecor" href="https://news.rambler.ru/world/57036314-za-vse-zaplatim-v-kieve-ispugalis-novyh-usloviy-mira/">"За все заплатим": в Киеве испугались новых условий мира</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:47</span> <a class="nodecor" href="https://news.rambler.ru/world/57036307-rubio-ssha-ne-prichastny-k-krizisu-na-kube/">Рубио: США не причастны к кризису на Кубе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">02:09</span> <a class="nodecor" href="https://news.rambler.ru/world/57034498-rubio-raskryl-podrobnosti-peregovorov-v-moskve-i-kieve/">Рубио раскрыл подробности переговоров в Москве и Киеве</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:36</span> <a class="nodecor" href="https://news.rambler.ru/world/57036226-genprokuror-ukrainy-nazval-svoyu-otstavku-politicheskim-resheniem/">Генпрокурор Украины назвал свою отставку политическим решением</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">23:54</span> <a class="nodecor" href="https://news.rambler.ru/world/57036045-glava-adg-prokommentirovala-razgovor-putina-i-trampa/">Глава АдГ прокомментировала разговор Путина и Трампа</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">23:29</span> <a class="nodecor" href="https://news.rambler.ru/world/57036008-v-nyu-yorke-otkrylas-81-ya-sessiya-ga-oon/">В Нью-Йорке открылась 81-я сессия ГА ООН</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">23:15</span> <a class="nodecor" href="https://news.rambler.ru/world/57035990-vuchich-rasskazal-skolko-chelovek-prishli-na-pohorony-generala-mladicha/">Вучич рассказал, сколько человек пришли на похороны генерала Младича</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">22:43</span> <a class="nodecor" href="https://news.rambler.ru/world/57035851-shveytsariya-vyrazila-gotovnost-prinyat-novyy-raund-peregovorov-po-ukraine/">Швейцария выразила готовность принять новый раунд переговоров по Украине</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://news.rambler.ru/rss/world/</div><!--n:Рамблер/В мире на 260909_0600:s:10374752:e:3539-->
+<!----><h2 class="hspace">Экономика на Ср 09 сен 2026 07:30</h2><!--2026-09-09 07:00:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/rossijskaia-biuti-industriia-nachala-strukturnuiu-perestrojku.html"> Российская бьюти-индустрия начала структурную перестройку </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">05:20</span> <a class="nodecor" href="https://rg.ru/2026/09/09/docent-kutarova-korotkaia-rabochaia-nedelia-zhdet-rossiian-v-nachale-noiabria.html"> Доцент Кутарова: В начале ноября россиян ждет короткая рабочая неделя </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/reg-cfo/pereselenie-s-uskoreniem.html"> До конца года новые квартиры получат более 300 тысяч москвичей </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/reg-cfo/torpedo-zhdet-pobed.html"> Легендарный стадион имени Эдуарда Стрельцова открылся после реконструкции </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/reg-cfo/schastlivogo-plavaniia.html"> Флот столицы пополнился судами с брендом &quot;Сделано в Москве&quot; </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/reg-cfo/lifty-podany.html"> В центре Москвы открылся новый городской вокзал &quot;Серп и Молот&quot; </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/reg-cfo/grafitovaia-poshla.html"> Открылся первый участок Рублево-Архангельской линии </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/reg-cfo/ot-konki-do-vitiazia.html"> Лидером прироста пассажиропотока в Москве стал трамвай </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/ekspert-shcherbachenko-dal-prognoz-po-kliuchevoj-stavke-posle-11-sentiabria.html"> Эксперт Щербаченко дал прогноз по ключевой ставке после 11 сентября </a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:00</span> <a class="nodecor" href="https://rg.ru/2026/09/09/reg-cfo/rekam-vozvrashchaiut-berega.html"> В Москве промышленные задворки у воды превратились в лучшие места для прогулок </a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://rg.ru/xml/rubrics/ekonomika.xml</div><!--n:Российская газета/Экономика на 260909_0700:s:10378362:e:3432-->
+<!----><h2 class="hspace">Чемпионат на Ср 09 сен 2026 08:00</h2><!--2026-09-09 07:39:11-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:39</span> <a class="nodecor" href="https://www.championat.ru/cybersport/news-6613314-glavnyj-geroj-s-pistoletom-na-novom-kadre-filma-obitel-zla-po-resident-evil.html">Главный герой с пистолетом — на новом кадре фильма «Обитель зла» по Resident Evil</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:37</span> <a class="nodecor" href="https://www.championat.ru/football/news-6613294-ya-neskolko-raz-delal-eto-referi-majk-din-rasskazal-chem-zanimalsya-vo-vremya-matchej-apl.html">«Я несколько раз делал это». Рефери Майк Дин рассказал, чем занимался во время матчей АПЛ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:32</span> <a class="nodecor" href="https://www.championat.ru/football/news-6613284-trener-barselony-flik-ocenil-formu-yamalya-nakanune-matcha-s-fejenoordom-v-lch.html">Тренер «Барселоны» Флик оценил форму Ямаля накануне матча с «Фейеноордом» в ЛЧ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:31</span> <a class="nodecor" href="https://www.championat.ru/bets/news-6613248-stali-izvestny-shansy-batrakova-zabit-v-debyutnom-matche-ligi-chempionov.html">Стали известны шансы Батракова забить в дебютном матче Лиги чемпионов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:30</span> <a class="nodecor" href="https://www.championat.ru/lifestyle/news-6607512-polumarafon-aurun-projdyot-v-chelyabinskoj-oblasti-12-sentyabrya.html">Полумарафон AuRun пройдёт в Челябинской области 12 сентября</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:24</span> <a class="nodecor" href="https://www.championat.ru/basketball/news-6613304-ya-molodoj-i-gotov-zaschitnik-dinamo-blekmon-o-perelyotah-po-8-9-chasov-vo-vladivostok.html">«Я молодой и готов». Защитник «Динамо» Блэкмон — о перелётах по 8-9 часов во Владивосток</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:15</span> <a class="nodecor" href="https://www.championat.ru/basketball/news-6613296-amerikanskij-razygryvayuschij-dinamo-priznalsya-chto-bolel-za-cska-v-proshlom-sezone.html">Американский разыгрывающий «Динамо» признался, что болел за ЦСКА в прошлом сезоне</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:15</span> <a class="nodecor" href="https://www.championat.ru/football/news-6613250-denis-kazanskij-vyskazalsya-v-podderzhku-var.html">Денис Казанский высказался в поддержку VAR</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:12</span> <a class="nodecor" href="https://www.championat.ru/football/news-6613256-iraola-vyskazalsya-o-pervom-matche-vo-glave-liverpulya-v-lige-chempionov.html">Ираола высказался о первом матче во главе «Ливерпуля» в Лиге чемпионов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:09</span> <a class="nodecor" href="https://www.championat.ru/cybersport/news-6613292-poyavilsya-novyj-lokalizovannyj-poster-filma-rokki-eto-ya.html">Появился новый локализованный постер фильма «Рокки — это я»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.championat.ru/rss/news/</div><!--n:Чемпионат/Чемпионат на 260909_0800:s:10381891:e:4062-->
