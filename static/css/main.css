@@ -11,8 +11,9 @@
 .msgtext { min-height:1em; padding:5px 5px; }
 .msgfooter { padding:3px 1px 1px 0; text-align:right; font-size:small; }
 .msgtext dt { padding:5px 0; }
-.hspaced { padding:0 4px; }
 .hspace { padding:0 12px; }
+.hspaced { padding:0 4px; }
+.hspacer { padding:0 12px 0 0; }
 .hspace1 { padding:0 32px; }
 .hspace2 { padding:0 48px; }
 .hmarg { margin:0 12px; }
@@ -39,6 +40,7 @@
 .small { font-size:small; }
 .large { font-size:large; }
 .bigger { font-size:150%; }
+.bigger1 { font-size:200%; }
 .loader { border:1px solid #ddd; }
 .tooltip { cursor:pointer; }
 .decor { text-decoration:underline; text-decoration-style:dotted; }

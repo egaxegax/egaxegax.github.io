@@ -142,7 +142,7 @@ function addLoader(bl){ return (bl ? '<div>&emsp;<img class="rounded loader" alt
 //
 // return share button svg icon
 //
-function addIShare(){ return '<span class="large">&#11150;</span>'; }
+function addIShare(){ return '<span class="bigger">&#9735;</span>'; }
 //
 // return clock button svg icon
 //
@@ -150,7 +150,7 @@ function addIClock(){ return '<span>&#128349;</span>'; }
 //
 // return refresh button svg icon
 //
-function addIRefresh(){ return '<span class="large">&#11118;</span>'; }
+function addIRefresh(){ return '<span class="bigger">&#8635;</span>'; }
 //
 // return html for paginator
 //

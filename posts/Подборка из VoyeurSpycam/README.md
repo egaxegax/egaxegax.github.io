@@ -1626,3 +1626,14 @@
     <i class="smaller3">2026-09-08</i>
   </div>
 </div><!--n:Скрытая камера/Девушки без трусиков:s:111390:e:542-->
+<!----><!--2026-09-09 09:47:26-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2590-devushka-pisaet-razdvinuv-nogi.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-09/1788936351_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/devushka_pisaet_razdvinuv_nogi">Девушка писает раздвинув ноги</a></p>
+    <p><i class="smaller2">В туалете</i></p>
+    <i class="smaller3">2026-09-09</i>
+  </div>
+</div><!--n:Скрытая камера/Девушка писает раздвинув ноги:s:112023:e:577-->
