@@ -5781,3 +5781,88 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184499/"><img src="https://www.povarenok.ru/data/cache/2026sep/10/39/3235746_46481-640x480.jpg"></a>Простой в приготовлении, насыщенный по вкусу крабовый карри, в котором крабовое мясо прекрасно сочетается с ароматными специями и зеленью. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184499/">Крабовый карри</a></p></div>
 </div><!--n:Поваренок.РУ/Крабовый карри:s:1245433:e:615-->
+<!----><!--2026-09-10 17:46:25-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/kompot-iz-bazilika-i-limona-na-zimu/photo/960w.jpg" width="960" alt="Компот из базилика и лимона на зиму"><p>Компот из базилика и лимона на зиму - необычная, ароматная и очень простая заготовка. Фиолетовый базилик придает напитку насыщенный цвет и приятный травяный аромат, а лимон добавляет освежающую кислинку. Такой компот особенно приятно открыть зимой, когда хочется чего-то яркого и летнего.</p> <p class="titl"><a href="https://finecooking.ru/recipe/kompot-iz-bazilika-i-limona-na-zimu?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Компот из базилика и лимона на зиму</a></p></div>
+</div><!--n:finecooking.ru/Компот из базилика и лимона на зиму:s:1246125:e:1063-->
+<!----><!--2026-09-11 16:23:38-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184504/"><img src="https://www.povarenok.ru/data/cache/2026sep/11/11/3235839_91796-640x480.jpg"></a>Отличная и необычная закуска, которая отличается от привычных нам заготовок. Попробуйте. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184504/">Маринованные овощи по-итальянски</a></p></div>
+</div><!--n:Поваренок.РУ/Маринованные овощи по-итальянски:s:1247294:e:557-->
+<!----><!--2026-09-11 12:15:19-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184502/"><img src="https://www.povarenok.ru/data/cache/2026sep/11/15/3235801_26572-640x480.jpg"></a>Пельмени можно использовать и как основной ингредиент для тёплого салата. Главное чтоб пельмени не 
+были слишком крупными! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184502/">Тёплый салат с пельменями</a></p></div>
+</div><!--n:Поваренок.РУ/Тёплый салат с пельменями:s:1247962:e:605-->
+<!----><!--2026-09-11 14:55:38-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184503/"><img src="https://www.povarenok.ru/data/cache/2026sep/11/55/3235831_80056-640x480.jpg"></a>Сегодня пятница, а значит можно и похулиганить! Крабонара, она как карбонара только с крабовыми палочками. Это тоже интернет-мем! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184503/">Крабонара</a></p></div>
+</div><!--n:Поваренок.РУ/Крабонара:s:1248664:e:586-->
+<!----><!--2026-09-12 21:55:47-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184508/"><img src="https://www.povarenok.ru/data/cache/2026sep/12/41/3235905_89658-640x480.jpg"></a>Вкусный и нежный закусочный рулет по мотивам салата «Сельдь под шубой» украсит любой праздничный стол и будет его фаворитом. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184508/">Рулет из лаваша «Сельдь в шубке»</a></p></div>
+</div><!--n:Поваренок.РУ/Рулет из лаваша Сельдь в шубке:s:1249318:e:621-->
+<!----><!--2026-09-12 22:47:29-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184509/"><img src="https://www.povarenok.ru/data/cache/2026sep/12/13/3235937_87092-640x480.jpg"></a>Идже — это густое ближвосточное (в частности, палестинское) блюдо из яиц с большим количеством зелени, напоминающее фриттату или плотный омлет. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184509/">Арабская фриттата ( идже) с цуккини</a></p></div>
+</div><!--n:Поваренок.РУ/Арабская фриттата ( идже) с цуккини:s:1250044:e:659-->
+<!----><!--2026-09-12 21:27:50-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184507/"><img src="https://www.povarenok.ru/data/cache/2026sep/12/29/3235903_94592-640x480.jpg"></a>Пивной суп (нем. Biersuppe, эльзасский: Biersupp, чешский: Pivn&#237; pol&#233;vka) — это суп, который обычно готовится на основе ру ( белого мучного соуса) и с добавлением пива. В средневековой Европе его подавали на завтрак, иногда поливая им хлеб. Популярный вариант в ресторанах и барах Висконсина называется пивным сырным... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184507/">Пивной суп</a></p></div>
+</div><!--n:Поваренок.РУ/Пивной суп:s:1250816:e:910-->
+<!----><!--2026-09-12 20:48:53-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/ikra-iz-zelenyh-pomidorov-na-zimu/photo/960w.jpg" width="960" alt="Икра из зеленых помидоров на зиму"><p>Икра из зеленых помидоров на зиму - вкусная домашняя заготовка, которая отлично подходит для бутербродов, гарниров и простых перекусов. Зеленые помидоры тушатся вместе с луком и морковью, а томатная паста, чеснок и специи делают вкус насыщенным и ярким.</p> <p class="titl"><a href="https://finecooking.ru/recipe/ikra-iz-zelenyh-pomidorov-na-zimu?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Икра из зеленых помидоров на зиму</a></p></div>
+</div><!--n:finecooking.ru/Икра из зеленых помидоров на зиму:s:1251795:e:987-->
+<!----><!--2026-09-13 13:51:56-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184513/"><img src="https://www.povarenok.ru/data/cache/2026sep/13/39/3236019_89550-640x480.jpg"></a>Варенье из яблок и мяты - отличная заготовка! Мята добавляет ему свежую, чуть прохладную нотку, которая здорово оттеняет фруктовую сладость. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184513/">Варенье из яблок и мяты</a></p></div>
+</div><!--n:Поваренок.РУ/Варенье из яблок и мяты:s:1252884:e:631-->
+<!----><!--2026-09-13 21:41:16-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184515/"><img src="https://www.povarenok.ru/data/cache/2026sep/13/53/3236141_27692-640x480.jpg"></a>Салат из свежих помидоров с заправкой из перца чипотле, придающей дымный оттенок, сочетает в себе сочные спелые томаты и яркую, острую заправку с дымным ароматом. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184515/">Салат из помидоров с копченой заправкой</a></p></div>
+</div><!--n:Поваренок.РУ/Салат из помидоров с копченой заправкой:s:1253607:e:702-->
+<!----><!--2026-09-13 17:19:45-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184514/"><img src="https://www.povarenok.ru/data/cache/2026sep/13/08/3236066_83505-640x480.jpg"></a>Варенье очень похожа на мед. Кислинка лимана и свежесть мяты будет дополнением к чаю. Варенье так же является лекарством, отхаркивающим и противовоспалительным. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184514/">Варенье из мяты с лимоном</a></p></div>
+</div><!--n:Поваренок.РУ/Варенье из мяты с лимоном:s:1254432:e:674-->
+<!----><!--2026-09-14 16:30:49-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184520/"><img src="https://www.povarenok.ru/data/cache/2026sep/09/34/3235559_95518-640x480.jpg"></a>Обычные помидоры вялили? Ну, пробовали уж точно! А зеленые? Предлагаю попробовать этот рецепт, пока зеленые помидоры есть. Я готовила на пробу и даже не ожидала, что так вкусно получится. С такими помидорами ничуть не хуже получаются бутерброды, канапе или салаты. Их можно подать к сырной тарелке и вину. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184520/">Вяленые зелёные помидоры</a></p></div>
+</div><!--n:Поваренок.РУ/Вяленые зелёные помидоры:s:1255202:e:931-->
+<!----><!--2026-09-14 14:36:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184519/"><img src="https://www.povarenok.ru/data/cache/2026sep/14/33/3236423_76235-640x480.jpg"></a>Непременно приготовьте помидоры в чесночной заливке на зиму, очень советую сделать. Получается вкусная, яркая, насыщенная заготовка в изумительной заливке. Зимой такие баночки улетают первыми. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184519/">Помидоры в чесночной заливке</a></p></div>
+</div><!--n:Поваренок.РУ/Помидоры в чесночной заливке:s:1256229:e:741-->
+<!----><!--2026-09-14 22:07:31-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184521/"><img src="https://www.povarenok.ru/data/cache/2026sep/14/27/3236475_67499-640x480.jpg"></a>Грибные бургеры с салатом из капусты представляют собой бургеры с глазированными грибами. Поверх грибов выкладывается хрустящий салат из капусты со специями. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184521/">Грибные бургеры с салатом из капусты</a></p></div>
+</div><!--n:Поваренок.РУ/Грибные бургеры с салатом из капусты:s:1257073:e:692-->
+<!----><!--2026-09-15 16:18:54-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184526/"><img src="https://www.povarenok.ru/data/cache/2026sep/15/09/3236533_86593-640x480.jpg"></a>Маринованный виноград - интересная закуска. Естественная сладость ягод здорово сочетается с кислинкой уксуса и пряными нотками специй. Получается сбалансированный пикантный вкус. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184526/">Маринованный садовый виноград</a></p></div>
+</div><!--n:Поваренок.РУ/Маринованный садовый виноград:s:1257882:e:721-->
+<!----><!--2026-09-15 17:12:59-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184527/"><img src="https://www.povarenok.ru/data/cache/2026sep/15/19/3236554_93595-640x480.jpg"></a>Торан — классический гарнир из штата Керала, который можно готовить из самых разных овощей. Кокосовое молоко придает блюду насыщенный вкус. Традиционно торан подают с керальским рисом сорта «матта» (или обычным рисом) и далом. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184527/">Торан из стручковой фасоли</a></p></div>
+</div><!--n:Поваренок.РУ/Торан из стручковой фасоли:s:1258709:e:797-->
+<!----><!--2026-09-15 15:06:38-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184525/"><img src="https://www.povarenok.ru/data/cache/2026sep/15/33/3236570_38578-640x480.jpg"></a>Маринуем арбуз осенью и наслаждаемся зимой как закуска под водочку или арбузик с жареной картошкой, можно кушать как гарнир с мясом. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184525/">Арбуз по-Новопетровски</a></p></div>
+</div><!--n:Поваренок.РУ/Арбуз по-Новопетровски:s:1259605:e:617-->
+<!----><!--2026-09-15 17:35:16-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/salat-s-baklazhanami-kuricey-i-pomidorami/photo/960w.jpg" width="960" alt="Салат с баклажанами, курицей и помидорами"><p>Салат с баклажанами, курицей и помидорами получается сытным, сочным и очень вкусным. Жареные баклажаны, нежная куриная грудка и свежие помидоры отлично сочетаются с чесночным майонезным соусом и зеленью.</p> <p class="titl"><a href="https://finecooking.ru/recipe/salat-s-baklazhanami-kuricey-i-pomidorami?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Салат с баклажанами, курицей и помидорами</a></p></div>
+</div><!--n:finecooking.ru/Салат с баклажанами, курицей и помидорами:s:1260314:e:945-->
+<!----><!--2026-09-16 20:48:54-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184533/"><img src="https://www.povarenok.ru/data/cache/2026sep/16/39/3236712_25274-640x480.jpg"></a>Паста, рагу, брускетта с этими томатами станет еще вкуснее! Можно добавлять и в соусы. Эту заготовку можно использовать сразу или хранить в холодильнике в банках. Еще дольше сохранится, если переложить в пакет и заморозить. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184533/">Черри конфи с кориандром и розмарином</a></p></div>
+</div><!--n:Поваренок.РУ/Черри конфи с кориандром и розмарином:s:1261376:e:808-->
+<!----><!--2026-09-16 20:35:38-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184532/"><img src="https://www.povarenok.ru/data/cache/2026sep/16/48/3236677_56627-640x480.jpg"></a>Керабу» — это собирательное название для ярких салатов из овощей и зелени, популярных в малайской кухне; их заправляют жгучим соусом самбал, анчоусами и соком лайма, которые гармонично объединяют все ингредиенты. Заправка получается острой и пикантной, а благодаря обилию приправ — невероятно ароматной. Предлагаю вам очень простой... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184532/">Керабу с лапшой и креветками</a></p></div>
+</div><!--n:Поваренок.РУ/Керабу с лапшой и креветками:s:1262303:e:1000-->
+<!----><!--2026-09-16 14:27:19-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184531/"><img src="https://www.povarenok.ru/data/cache/2026sep/16/27/3236661_79643-640x480.jpg"></a>Такой вариант приготовления капусты, я впервые попробовал когда служил в армии. Мне он запомнился и понравился. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184531/">Тушеная капуста с пшеном и мясом</a></p></div>
+</div><!--n:Поваренок.РУ/Тушеная капуста с пшеном и мясом:s:1263406:e:596-->
