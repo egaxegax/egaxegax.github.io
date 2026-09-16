@@ -28150,3 +28150,311 @@
     <i class="smaller3">2026-09-15</i>
   </div>
 </div><!--n:Мир кино/Вильма хочет большего (фильм 2025) Wilma will mehr:s:2433797:e:713-->
+<!----><!--2026-09-15 12:30:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_v_ubijstve_rossiyanina_na_burning_man_darknet_i_smertelnaya_peredozirovka_milliardnye_afery">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4adac6ec98ce905d9c3535362b26bb7e/" src="http://pic.rtbcdn.ru/video/2026-09-15/6e/98/6e98e0924c25c277475df8eae6132fb5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_v_ubijstve_rossiyanina_na_burning_man_darknet_i_smertelnaya_peredozirovka_milliardnye_afery">Новое в убийстве россиянина на Burning Man, Даркнет и смертельная передозировка, миллиардные аферы…</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-15</i>
+  </div>
+</div><!--n:Одни из лучших/Новое в убийстве россиянина на Burning Man, Даркнет и смертельная передозировка, миллиардные аферы:s:2434626:e:935-->
+<!----><!--2026-09-11 15:04:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kak_starbucks_umiraet_v_amerike">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9ba710cc978545ab8427ae8b2c94f186/" src="http://pic.rtbcdn.ru/video/2026-09-11/81/a3/81a332b67b5decd2d391e2880f8f9329.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kak_starbucks_umiraet_v_amerike">Как Starbucks умирает в Америке!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-11</i>
+  </div>
+</div><!--n:Одни из лучших/Как Starbucks умирает в Америке:s:2435786:e:678-->
+<!----><!--2026-09-09 20:18:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/ves_moj_put_v_ssha_za_4_goda">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/504ae9ea0036432f5ff82268d18a2b75/" src="http://pic.rtbcdn.ru/video/2026-09-09/27/cb/27cbf90529f803e22a800c6760be6a90.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/ves_moj_put_v_ssha_za_4_goda">Весь мой путь в США за 4 года.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-09</i>
+  </div>
+</div><!--n:Одни из лучших/Весь мой путь в США за 4 года.:s:2436566:e:673-->
+<!----><!--2026-09-12 08:56:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/voskresnyj_ujin_i_chetyre_pokoleniya_ubityh_v_odnoj_seme">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/51fe7670cacf361de3004b775ab873d3/" src="http://pic.rtbcdn.ru/video/2026-09-12/5b/70/5b700bf87c18baa1831538ba906b6320.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/voskresnyj_ujin_i_chetyre_pokoleniya_ubityh_v_odnoj_seme">Воскресный ужин и четыре поколения убитых в одной семье!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-12</i>
+  </div>
+</div><!--n:Одни из лучших/Воскресный ужин и четыре поколения убитых в одной семье:s:2437343:e:781-->
+<!----><!--2026-09-11 08:47:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_kupil_strannyj_devajs_dlya_dalnoboya_vyglyadit_kak_inoplanetnaya_tehnologiya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/38a94bbc852cc558660a75d54d28a878/" src="http://pic.rtbcdn.ru/video/2026-09-11/93/df/93df39710a7c3fa3013566c72feeb812.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_kupil_strannyj_devajs_dlya_dalnoboya_vyglyadit_kak_inoplanetnaya_tehnologiya">Новое: купил странный девайс для дальнобоя. Выглядит как инопланетная технология!!!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-11</i>
+  </div>
+</div><!--n:Одни из лучших/Новое купил странный девайс для дальнобоя. Выглядит как инопланетная технология:s:2438279:e:882-->
+<!----><!--2026-09-13 11:37:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/3_puli_za_kastrjulju_s_kipyatkom_chto_stalo_s_policejskim_zastrelivshim_jenshchinu_v_ee_sobstvennoj_kuhne">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5516f87d6f3f72c8ecf5bd18a70bb2dc/" src="http://pic.rtbcdn.ru/video/2026-09-13/ae/16/ae16e2aa9b1961b7f2fe572a0edbfd78.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/3_puli_za_kastrjulju_s_kipyatkom_chto_stalo_s_policejskim_zastrelivshim_jenshchinu_v_ee_sobstvennoj_kuhne">3 пули за кастрюлю с кипятком. Что стало с полицейским, застрелившим женщину в её собственной кухне?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-13</i>
+  </div>
+</div><!--n:Одни из лучших/3 пули за кастрюлю с кипятком. Что стало с полицейским, застрелившим женщину в её собственной кухне:s:2439362:e:957-->
+<!----><!--2026-09-16 07:19:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_poehal_na_mashine_iz_ssha_v_kanadu_i_vot_chto_menya_udivilo_po_puti">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/74bf9ea70ad1f433100c7aa4c57446b6/" src="http://pic.rtbcdn.ru/video/2026-09-16/29/c3/29c3fdebec7927b819ec261ba5706e78.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_poehal_na_mashine_iz_ssha_v_kanadu_i_vot_chto_menya_udivilo_po_puti">Samsebeskazal Denis :поехал на машине из США в Канаду и вот что меня удивило по пути!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis поехал на машине из США в Канаду и вот что меня удивило по пути:s:2440552:e:875-->
+<!----><!--2026-09-16 18:21:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_luchshie_lajfhaki_dlya_mashiny_v_ssha_strahovka_shtrafy_benzin_i_dr">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a2c05f4cf65a62274932c062ad611bdc/" src="http://pic.rtbcdn.ru/video/2026-09-16/3a/9a/3a9a28459e2e908abd22e612a3885c25.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_luchshie_lajfhaki_dlya_mashiny_v_ssha_strahovka_shtrafy_benzin_i_dr">Ковалёв: лучшие лайфхаки для машины в США: страховка, штрафы, бензин и др.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Одни из лучших/Ковалёв лучшие лайфхаки для машины в США страховка, штрафы, бензин и др.:s:2441613:e:848-->
+<!----><!--2026-09-15 07:06:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_poka_ves_mir_razrabatyvaet_elektromobili_amerikancy_stroyat_eto">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a2747ff8f4662815c08c99722635cd0f/" src="http://pic.rtbcdn.ru/video/2026-09-15/13/e0/13e017a7a29ffe10d112245efc871354.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_poka_ves_mir_razrabatyvaet_elektromobili_amerikancy_stroyat_eto">Samsebeskazal Denis: пока весь мир разрабатывает электромобили американцы строят ЭТО!!!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-15</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis пока весь мир разрабатывает электромобили американцы строят ЭТО:s:2442644:e:875-->
+<!----><!--2026-09-15 21:51:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/sosiski-konservy_iz_ssha_eda_dlya_vyjivaniya_za_1">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4072bab5ddd4f588053c0ad924fa29f4/" src="http://pic.rtbcdn.ru/video/2026-09-15/bd/d5/bdd5d519218d6aadfdcafb7905fc3916.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/sosiski-konservy_iz_ssha_eda_dlya_vyjivaniya_za_1">СОСИСКИ-КОНСЕРВЫ из США: Еда для выживания за $1...</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-15</i>
+  </div>
+</div><!--n:Одни из лучших/СОСИСКИ-КОНСЕРВЫ из США Еда для выживания за 1...:s:2443711:e:752-->
+<!----><!--2026-09-13 13:01:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_chtoby_poluchit_grajdanstvo_v_amerike_immigranty_jivut_v_podvale">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/79d40facec966b1afe9b435abcd58c4d/" src="http://pic.rtbcdn.ru/video/2026-09-13/2f/14/2f14701e6e7e9b2e1cce16aaa408cf24.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_chtoby_poluchit_grajdanstvo_v_amerike_immigranty_jivut_v_podvale">Воспоминания (октябрь 2019): чтобы ПОЛУЧИТЬ ГРАЖДАНСТВО в Америке, иммигранты ЖИВУТ В ПОДВАЛЕ?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-13</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) чтобы ПОЛУЧИТЬ ГРАЖДАНСТВО в Америке, иммигранты ЖИВУТ В ПОДВАЛЕ:s:2444602:e:916-->
+<!----><!--2026-09-14 12:58:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kak_osujdennyj_za_ubijstvo_ukrainec-nelegal_okazalsya_na_svobode_i_jil_v_nju-jorke">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ff0dbcc4a78be525c5528803859aaeca/" src="http://pic.rtbcdn.ru/video/2026-09-14/0f/1d/0f1d569884f23e81294bdb5a75cba715.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kak_osujdennyj_za_ubijstvo_ukrainec-nelegal_okazalsya_na_svobode_i_jil_v_nju-jorke">Как осужденный за убийство украинец-нелегал оказался на свободе и жил в Нью-Йорке!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-14</i>
+  </div>
+</div><!--n:Одни из лучших/Как осужденный за убийство украинец-нелегал оказался на свободе и жил в Нью-Йорке:s:2445737:e:880-->
+<!----><!--2026-09-14 09:06:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_dalnoboj_prodoljaetsya_a_ya_vdrug_vspomnil_svoi_shkolnye_gody">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/57ee536b642a8fce4a4640fc87a6abb7/" src="http://pic.rtbcdn.ru/video/2026-09-14/f0/3d/f03d101d78a8a0a2c6ba2e9497cee8a9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_dalnoboj_prodoljaetsya_a_ya_vdrug_vspomnil_svoi_shkolnye_gody">Новое: дальнобой продолжается, а я вдруг вспомнил свои школьные годы!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-14</i>
+  </div>
+</div><!--n:Одни из лучших/Новое дальнобой продолжается, а я вдруг вспомнил свои школьные годы:s:2446819:e:826-->
+<!----><!--2026-09-16 18:12:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/odna_jenshchina_i_14_smertej_v_tailande_pochemu_tak_dolgo_iskali_serijnuju_ubijcu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bb5cef0a208ee6a6e06ce92c0f853abe/" src="http://pic.rtbcdn.ru/video/2026-09-16/e1/21/e121d55cc2d9abfcffcaebd349143e1e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/odna_jenshchina_i_14_smertej_v_tailande_pochemu_tak_dolgo_iskali_serijnuju_ubijcu">Одна женщина и 14 смертей в Таиланде. Почему так долго искали серийную убийцу?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Одни из лучших/Одна женщина и 14 смертей в Таиланде. Почему так долго искали серийную убийцу:s:2447822:e:868-->
+<!----><!--2026-09-14 19:25:28-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_rabochij_den_kurera_v_ssha_moimi_glazami_strannaya_dostavka_produktov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/84f7581292d64c79a8b5d4688b13c340/" src="http://pic.rtbcdn.ru/video/2026-09-14/93/10/931042ab34ff94fb2b619a6e478cce29.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_rabochij_den_kurera_v_ssha_moimi_glazami_strannaya_dostavka_produktov">Ковалёв: рабочий день курьера в США моими глазами. Странная доставка продуктов.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-14</i>
+  </div>
+</div><!--n:Одни из лучших/Ковалёв рабочий день курьера в США моими глазами. Странная доставка продуктов.:s:2448882:e:865-->
+<!----><!--2026-09-10 09:14:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_chto_nujno_dalnobojshchiku_chtoby_ezdit_po_ssha_na_trake">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b8b42a0f86a327ea98a1e01acf9b6599/" src="http://pic.rtbcdn.ru/video/2026-09-10/26/c1/26c147c9393d81d4ba926964f0f52d75.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_chto_nujno_dalnobojshchiku_chtoby_ezdit_po_ssha_na_trake">Воспоминания (октябрь 2019): Что НУЖНО ДАЛЬНОБОЙЩИКУ, чтобы ездить по США на траке?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-10</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) Что НУЖНО ДАЛЬНОБОЙЩИКУ, чтобы ездить по США на траке:s:2449944:e:878-->
+<!----><!--2026-09-16 11:51:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_realnaya_rabota_v_ssha_putajut_gruzy_v_ssha_chut_ne_zabrali_moj_gruz">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/349c3cb1c38da641af20b91fb8d91544/" src="http://pic.rtbcdn.ru/video/2026-09-16/09/cc/09cceffe4c523a97dec5357f7d3dff58.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_realnaya_rabota_v_ssha_putajut_gruzy_v_ssha_chut_ne_zabrali_moj_gruz">Воспоминания (октябрь 2019): реальная РАБОТА В США, ПУТАЮТ ГРУЗЫ В США? Чуть не забрали мой груз!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) реальная РАБОТА В США, ПУТАЮТ ГРУЗЫ В США Чуть не забрали мой груз:s:2451019:e:925-->
+<!----><!--2026-09-10 16:45:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/predstavlyalsya_pomoshchnikom_sherifa_obmanul_500_chelovek_i_ne_sel_v_tjurmu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e4d6d410ed27c6adfc57e41ca1a642e8/" src="http://pic.rtbcdn.ru/video/2026-09-10/f8/32/f832bcea3163d3f6a5484c7ad4786555.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/predstavlyalsya_pomoshchnikom_sherifa_obmanul_500_chelovek_i_ne_sel_v_tjurmu">Представлялся помощником шерифа. Обманул 500 человек — и не сел в тюрьму!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-10</i>
+  </div>
+</div><!--n:Одни из лучших/Представлялся помощником шерифа. Обманул 500 человек и не сел в тюрьму:s:2452163:e:849-->
+<!----><!--2026-09-12 09:06:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_za_takoj_rabotoj_edut_v_ssha_rabota_i_budni_dalnoboya_po_ssha">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ef2df13d934f8d5a73999bb659c64070/" src="http://pic.rtbcdn.ru/video/2026-09-12/be/fa/befaf8a819a9eea41c463ff2899e123c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_za_takoj_rabotoj_edut_v_ssha_rabota_i_budni_dalnoboya_po_ssha">Воспоминания (октябрь 2019): за такой РАБОТОЙ едут В США? Работа и будни Дальнобоя по США.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-12</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) за такой РАБОТОЙ едут В США Работа и будни Дальнобоя по США.:s:2453191:e:899-->
+<!----><!--2026-09-15 12:30:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_v_ssha_negde_jit_bomjam_-_ih_vygonyajut_na_ulicu_iz_sobstvennyh_avto">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ab1d412cf0f7330456811b47b807ec8e/" src="http://pic.rtbcdn.ru/video/2026-09-15/69/74/6974ba458409f141db8df2e604403f88.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_v_ssha_negde_jit_bomjam_-_ih_vygonyajut_na_ulicu_iz_sobstvennyh_avto">Воспоминания (октябрь 2019): В США негде жить БОМЖАМ - их ВЫГОНЯЮТ на УЛИЦУ из собственных авто!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-15</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) В США негде жить БОМЖАМ - их ВЫГОНЯЮТ на УЛИЦУ из собственных авто:s:2454298:e:924-->
+<!----><!--2026-09-16 16:05:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/oderjimost_-_5_seriya_mini_serial_2026_vladenie_possession">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/36f0f94409353dff26db712a4f02a4a5/" src="http://pic.rtbcdn.ru/video/2026-09-15/5c/f0/5cf0ab70fd2b58bef9c7fdf48aaaa153.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/oderjimost_-_5_seriya_mini_serial_2026_vladenie_possession">Одержимость - 5 серия (мини–сериал 2026) / Владение / Possession</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Мир кино/Одержимость - 5 серия (мини сериал 2026) Владение Possession:s:2455441:e:759-->
+<!----><!--2026-09-16 16:04:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/oderjimost_-_4_seriya_mini_serial_2026_vladenie_possession">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c92a1fd64e7d4e45205e942f3e9f9421/" src="http://pic.rtbcdn.ru/video/2026-09-15/d0/c7/d0c7564953cbe691d09a5e176d0e2b42.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/oderjimost_-_4_seriya_mini_serial_2026_vladenie_possession">Одержимость - 4 серия (мини–сериал 2026) / Владение / Possession</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Мир кино/Одержимость - 4 серия (мини сериал 2026) Владение Possession:s:2456336:e:759-->
+<!----><!--2026-09-16 22:57:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/serial_ted_lasso_4_sezon_7_seriya_ted_lasso">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2d27d4a018aef52455f47b2243f7c33b/" src="http://pic.rtbcdn.ru/video/2026-09-16/23/d7/23d7cd5155eca202985efdd0f884e609.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/serial_ted_lasso_4_sezon_7_seriya_ted_lasso">Сериал Тед Лассо 4 сезон 7 серия / Ted Lasso</a></p>
+    <p><i class="smaller2">TVHub - смотри фильмы и сериалы онлайн</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Мир кино/Сериал Тед Лассо 4 сезон 7 серия Ted Lasso:s:2457231:e:742-->
+<!----><!--2026-09-17 00:18:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/luchi_i_teni_film_2026_les_rayons_et_les_ombres">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e07a54c7c239c4d46ce7554a60dffb19/" src="http://pic.rtbcdn.ru/video/2026-09-16/af/f9/aff95a3d398363574617a7ef273ee15e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/luchi_i_teni_film_2026_les_rayons_et_les_ombres">Лучи и тени (фильм 2026) / Les rayons et les ombres</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Мир кино/Лучи и тени (фильм 2026) Les rayons et les ombres:s:2458081:e:702-->
+<!----><!--2026-09-16 16:02:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/oderjimost_-_2_seriya_mini_serial_2026_vladenie_possession">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e64906e93dea44f4e175a66441e335f2/" src="http://pic.rtbcdn.ru/video/2026-09-15/3d/bc/3dbce1586530ddf969f9c3be6ab06570.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/oderjimost_-_2_seriya_mini_serial_2026_vladenie_possession">Одержимость - 2 серия (мини–сериал 2026) / Владение / Possession</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Мир кино/Одержимость - 2 серия (мини сериал 2026) Владение Possession:s:2458888:e:759-->
+<!----><!--2026-09-16 16:01:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/oderjimost_-_1_seriya_mini_serial_2026_vladenie_possession">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/10c5d23105cdbe8d6022a37719be4a51/" src="http://pic.rtbcdn.ru/video/2026-09-15/d3/df/d3df72bfbcdbe305b54136b9747899c4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/oderjimost_-_1_seriya_mini_serial_2026_vladenie_possession">Одержимость - 1 серия (мини–сериал 2026) / Владение / Possession</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Мир кино/Одержимость - 1 серия (мини сериал 2026) Владение Possession:s:2459783:e:759-->
+<!----><!--2026-09-17 00:18:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/do_poslednego_raunda_film_2026_jusqu'au_bout">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4e071c6f2aa6c084119847797d1c9b8e/" src="http://pic.rtbcdn.ru/video/2026-09-16/20/46/20468383e7b55872f055a3c8ce083d63.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/do_poslednego_raunda_film_2026_jusqu'au_bout">До последнего раунда (фильм 2026) / Jusqu'au bout</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Мир кино/До последнего раунда (фильм 2026) Jusqu'au bout:s:2460678:e:703-->
+<!----><!--2026-09-16 16:03:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/oderjimost_-_3_seriya_mini_serial_2026_vladenie_possession">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2e7b192dd8f28e05de35e6e0e608364f/" src="http://pic.rtbcdn.ru/video/2026-09-15/04/fa/04fa902cd7a20aee10bf63a65d51b4eb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/oderjimost_-_3_seriya_mini_serial_2026_vladenie_possession">Одержимость - 3 серия (мини–сериал 2026) / Владение / Possession</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-16</i>
+  </div>
+</div><!--n:Мир кино/Одержимость - 3 серия (мини сериал 2026) Владение Possession:s:2461493:e:759-->

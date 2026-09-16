@@ -8,6 +8,7 @@ a, a:active, a:focus { color:#3c677b; }
 b,i,em { color:#777; }
 b em { color:#3c677b; }
 h2 { color:#3c677b; }
+div.about { border:1px solid lightgray; }
 strong { font-weight:normal; }
 pre { background:#fafafa; color:#222; border-radius:2px; line-height:1.1 !important; }
 input[type=text], select { background:#fff; }
