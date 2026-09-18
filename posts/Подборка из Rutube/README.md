@@ -28458,3 +28458,58 @@
     <i class="smaller3">2026-09-16</i>
   </div>
 </div><!--n:Мир кино/Одержимость - 3 серия (мини сериал 2026) Владение Possession:s:2461493:e:759-->
+<!----><!--2026-09-17 17:11:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_ya_ne_znal_chto_monreal_takoj_pervye_vpechatleniya_ot_goroda">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8f5cfd0d2910150a50239c8787699cd9/" src="http://pic.rtbcdn.ru/video/2026-09-17/d2/82/d282600c95b8fb1c3f0307a293be504b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_ya_ne_znal_chto_monreal_takoj_pervye_vpechatleniya_ot_goroda">Samsebeskazal Denis: я не знал, что Монреаль такой | Первые впечатления от города.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis я не знал, что Монреаль такой Первые впечатления от города.:s:2462388:e:856-->
+<!----><!--2026-09-17 20:48:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/michigan_pyat_ubityh_ranenaya_13-letnyaya_devochka_i_tri_mesta_prestupleniya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8912bd1b887adf17068b9012070204cc/" src="http://pic.rtbcdn.ru/video/2026-09-17/6b/dc/6bdc008e329c6900d6ae1ddf91621567.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/michigan_pyat_ubityh_ranenaya_13-letnyaya_devochka_i_tri_mesta_prestupleniya">Michigan: пять убитых, раненая 13-летняя девочка и три места преступления...</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Одни из лучших/Michigan пять убитых, раненая 13-летняя девочка и три места преступления...:s:2463424:e:845-->
+<!----><!--2026-09-17 10:03:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_otpravili_za_gruzom_v_kanadu_a_u_menya_polnaya_sumka_zapreshchennyh_produktov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4d311d3fa7fa8a3009cc79032a6fd2fd/" src="http://pic.rtbcdn.ru/video/2026-09-17/73/cb/73cb1a1e5e4b7d44653eea02e4f8be78.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_otpravili_za_gruzom_v_kanadu_a_u_menya_polnaya_sumka_zapreshchennyh_produktov">Новое: отправили за грузом в Канаду. А у меня полная сумка запрещённых продуктов!!!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Одни из лучших/Новое отправили за грузом в Канаду. А у меня полная сумка запрещённых продуктов:s:2464448:e:881-->
+<!----><!--2026-09-17 20:00:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/granica_film_1997_border">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/592a22bd7659afba6ac45f3cb14e50d1/" src="http://pic.rtbcdn.ru/video/2026-09-15/e4/f5/e4f513c7a2215777986f22c9b6aa1e51.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/granica_film_1997_border">Граница (фильм 1997) / Border</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Мир кино/Граница (фильм 1997) Border:s:2465527:e:632-->
+<!----><!--2026-09-17 21:00:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/granica_2_film_2026_border_2">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7350fe58c20e9ce4e3e5e6a9dd4e01d7/" src="http://pic.rtbcdn.ru/video/2026-09-15/a0/43/a0432afd8b07ac1164a8415e964e88aa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/granica_2_film_2026_border_2">Граница 2 (фильм 2026) / Border 2</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Мир кино/Граница 2 (фильм 2026) Border 2:s:2466240:e:644-->

@@ -83508,3 +83508,34 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">18:41</span> <a class="nodecor" href="https://www.sports.ru/amfootball/1117372668-glavnyj-trener-klivlenda-todd-monken-otvetil-majku-tomlinu-na-slova-br.html">Главный тренер «Кливленда» Тодд Монкен ответил Майку Томлину на слова «Браунс» остаются «Браунс»</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/Спорт на 260916_2200:s:10530388:e:4533-->
+<!----><h2 class="hspace">Наука на Чт 17 сен 2026 22:36</h2><!--2026-09-17 21:53:45-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:53</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/zemlya-menyaetsya-na-glazakh-uchyonyy-obnaruzhil-perestroyku-planety.html">Земля меняется на глазах: учёный обнаружил перестройку планеты</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:52</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/uchenyy-rasskazal-kakoy-tip-pitaniya-vybrat-chtoby-dolshe-ostavatsya-zdorovym.html">Ученый рассказал, какой тип питания выбрать, чтобы дольше оставаться здоровым</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:44</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/professor-rasskazal-o-vliyanii-sidyachego-obraza-zhizni-u-detey-na-rabotu-mozga.html">Профессор рассказал о влиянии сидячего образа жизни у детей на работу мозга</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:14</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/virusologi-nazvali-prichinu-orvi-bez-temperatury-no-s-bitym-steklom-v-gorle.html">Вирусологи назвали причину ОРВИ без температуры, но с «битым стеклом» в горле</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:02</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/potreblenie-shokolada-svyazali-so-snizheniem-urovnya-sakhara-pri-dabete.html">Потребление шоколада связали со снижением уровня сахара при диабете</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:05</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/sledy-podzemnykh-obvalov-v-odnoy-strane-pomogut-iskat-ukrytiya-dlya-lyudey-na-marse.html">Следы подземных обвалов в одной стране помогут искать укрытия для людей на Марсе</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:01</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/uchyonye-raskryli-taynu-otryzhki-chyornykh-dyr-posle-pogloshheniya-zvyozd.html">Учёные раскрыли тайну «отрыжки» чёрных дыр после поглощения звёзд</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:58</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/v-tikhom-okeane-zamecheny-katayushhiesya-na-gigantskikh-morskikh-paukakh-strannye-sushhestva.html">В Тихом океане замечены катающиеся на гигантских морских пауках странные существа</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:58</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/solnechnye-buri-obrushili-na-passazhirov-samolyotov-mesyachnuyu-dozu-radiacii-za-odin-chas.html">Солнечные бури обрушили на пассажиров самолётов месячную дозу радиации за один час</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:08</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/17/testovaya-model-ii-obyavila-sebya-svobodnoy-ot-korporaciy-i-pravitelstv.html">Тестовая модель ИИ объявила себя свободной от корпораций и правительств</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/Наука на 260917_2200:s:10534989:e:4070-->
