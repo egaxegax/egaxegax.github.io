@@ -4,7 +4,7 @@
 * Выгрузить файлы из *репозитория*
 * Запустить веб-сервер HTTP/1.1 с поддержкой Requested Ranges из корневого каталога сайта
 
-        python3 -m http.server 88 --protocol HTTP/1.1 (если поддерживается версией Python)
+        python3 -m http.server 88 (если HTTP/1.1 поддерживается версией Python)
         python3 srv.py 88 (доработанный веб-сервер с HTTP/1.1)
 
   и набрать в браузере *localhost:88*
