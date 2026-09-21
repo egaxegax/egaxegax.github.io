@@ -28458,28 +28458,6 @@
     <i class="smaller3">2026-09-16</i>
   </div>
 </div><!--n:Мир кино/Одержимость - 3 серия (мини сериал 2026) Владение Possession:s:2461493:e:759-->
-<!----><!--2026-09-17 17:11:58-->
-<div class="yb">
-  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_ya_ne_znal_chto_monreal_takoj_pervye_vpechatleniya_ot_goroda">
-    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8f5cfd0d2910150a50239c8787699cd9/" src="http://pic.rtbcdn.ru/video/2026-09-17/d2/82/d282600c95b8fb1c3f0307a293be504b.jpg" align="left" alt="">
-  </a>
-  <div class="inlbl text">
-    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_ya_ne_znal_chto_monreal_takoj_pervye_vpechatleniya_ot_goroda">Samsebeskazal Denis: я не знал, что Монреаль такой | Первые впечатления от города.</a></p>
-    <p><i class="smaller2">Одни из лучших</i></p>
-    <i class="smaller3">2026-09-17</i>
-  </div>
-</div><!--n:Одни из лучших/Samsebeskazal Denis я не знал, что Монреаль такой Первые впечатления от города.:s:2462388:e:856-->
-<!----><!--2026-09-17 20:48:16-->
-<div class="yb">
-  <a class="nodecor" href="/index.html?odni_iz_luchshih/michigan_pyat_ubityh_ranenaya_13-letnyaya_devochka_i_tri_mesta_prestupleniya">
-    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8912bd1b887adf17068b9012070204cc/" src="http://pic.rtbcdn.ru/video/2026-09-17/6b/dc/6bdc008e329c6900d6ae1ddf91621567.jpg" align="left" alt="">
-  </a>
-  <div class="inlbl text">
-    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/michigan_pyat_ubityh_ranenaya_13-letnyaya_devochka_i_tri_mesta_prestupleniya">Michigan: пять убитых, раненая 13-летняя девочка и три места преступления...</a></p>
-    <p><i class="smaller2">Одни из лучших</i></p>
-    <i class="smaller3">2026-09-17</i>
-  </div>
-</div><!--n:Одни из лучших/Michigan пять убитых, раненая 13-летняя девочка и три места преступления...:s:2463424:e:845-->
 <!----><!--2026-09-17 10:03:51-->
 <div class="yb">
   <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_otpravili_za_gruzom_v_kanadu_a_u_menya_polnaya_sumka_zapreshchennyh_produktov">
@@ -28490,18 +28468,62 @@
     <p><i class="smaller2">Одни из лучших</i></p>
     <i class="smaller3">2026-09-17</i>
   </div>
-</div><!--n:Одни из лучших/Новое отправили за грузом в Канаду. А у меня полная сумка запрещённых продуктов:s:2464448:e:881-->
-<!----><!--2026-09-17 20:00:13-->
+</div><!--n:Одни из лучших/Новое отправили за грузом в Канаду. А у меня полная сумка запрещённых продуктов:s:2462388:e:881-->
+<!----><!--2026-09-18 08:29:14-->
 <div class="yb">
-  <a class="nodecor" href="/index.html?mir_kino/granica_film_1997_border">
-    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/592a22bd7659afba6ac45f3cb14e50d1/" src="http://pic.rtbcdn.ru/video/2026-09-15/e4/f5/e4f513c7a2215777986f22c9b6aa1e51.jpg" align="left" alt="">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_skolko_stoyat_produkty_v_ssha">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b377707b0123e934553b74fa77267a6e/" src="http://pic.rtbcdn.ru/video/2026-09-18/86/51/8651325a205ffce36c0bfd10119f8d4d.jpg" align="left" alt="">
   </a>
   <div class="inlbl text">
-    <p><a class="nodecor" href="/index.html?mir_kino/granica_film_1997_border">Граница (фильм 1997) / Border</a></p>
-    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_skolko_stoyat_produkty_v_ssha">Воспоминания (октябрь 2019): СКОЛЬКО СТОЯТ продукты в США ?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) СКОЛЬКО СТОЯТ продукты в США:s:2463467:e:780-->
+<!----><!--2026-09-17 17:11:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_ya_ne_znal_chto_monreal_takoj_pervye_vpechatleniya_ot_goroda">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8f5cfd0d2910150a50239c8787699cd9/" src="http://pic.rtbcdn.ru/video/2026-09-17/d2/82/d282600c95b8fb1c3f0307a293be504b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_ya_ne_znal_chto_monreal_takoj_pervye_vpechatleniya_ot_goroda">Samsebeskazal Denis: я не знал, что Монреаль такой | Первые впечатления от города.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
     <i class="smaller3">2026-09-17</i>
   </div>
-</div><!--n:Мир кино/Граница (фильм 1997) Border:s:2465527:e:632-->
+</div><!--n:Одни из лучших/Samsebeskazal Denis я не знал, что Монреаль такой Первые впечатления от города.:s:2464399:e:856-->
+<!----><!--2026-09-18 13:22:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kak_mcdonald's_umiraet_v_amerike_proveryaju_novye_ceny_i_edu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8c55917f9649fe332abbb3f23ac836a5/" src="http://pic.rtbcdn.ru/video/2026-09-18/0a/28/0a28d7b38159fc688b7ab4f235fa7cd7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kak_mcdonald's_umiraet_v_amerike_proveryaju_novye_ceny_i_edu">Как McDonald's умирает в Америке! Проверяю новые цены и еду...</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Одни из лучших/Как McDonald's умирает в Америке Проверяю новые цены и еду...:s:2465435:e:787-->
+<!----><!--2026-09-17 20:48:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/michigan_pyat_ubityh_ranenaya_13-letnyaya_devochka_i_tri_mesta_prestupleniya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8912bd1b887adf17068b9012070204cc/" src="http://pic.rtbcdn.ru/video/2026-09-17/6b/dc/6bdc008e329c6900d6ae1ddf91621567.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/michigan_pyat_ubityh_ranenaya_13-letnyaya_devochka_i_tri_mesta_prestupleniya">Michigan: пять убитых, раненая 13-летняя девочка и три места преступления...</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Одни из лучших/Michigan пять убитых, раненая 13-летняя девочка и три места преступления...:s:2466375:e:845-->
+<!----><!--2026-09-18 13:22:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/ocherednoj_kloun_popytalsya_vpechatlit_policejskih_jetonom_dea_vpechatlil_sudju_na_federalnyj_srok">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e716bc1a28fc222050634a6a981c40d2/" src="http://pic.rtbcdn.ru/video/2026-09-18/27/db/27dbea372d899e0bff345fec3f236915.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/ocherednoj_kloun_popytalsya_vpechatlit_policejskih_jetonom_dea_vpechatlil_sudju_na_federalnyj_srok">Очередной клоун попытался впечатлить полицейских жетоном DEA. Впечатлил судью на федеральный срок.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Одни из лучших/Очередной клоун попытался впечатлить полицейских жетоном DEA. Впечатлил судью на федеральный срок.:s:2467399:e:942-->
 <!----><!--2026-09-17 21:00:10-->
 <div class="yb">
   <a class="nodecor" href="/index.html?mir_kino/granica_2_film_2026_border_2">
@@ -28512,4 +28534,323 @@
     <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
     <i class="smaller3">2026-09-17</i>
   </div>
-</div><!--n:Мир кино/Граница 2 (фильм 2026) Border 2:s:2466240:e:644-->
+</div><!--n:Мир кино/Граница 2 (фильм 2026) Border 2:s:2468574:e:644-->
+<!----><!--2026-09-17 20:00:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/granica_film_1997_border">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/592a22bd7659afba6ac45f3cb14e50d1/" src="http://pic.rtbcdn.ru/video/2026-09-15/e4/f5/e4f513c7a2215777986f22c9b6aa1e51.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/granica_film_1997_border">Граница (фильм 1997) / Border</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-17</i>
+  </div>
+</div><!--n:Мир кино/Граница (фильм 1997) Border:s:2469303:e:632-->
+<!----><!--2026-09-18 11:28:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/trehgorka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d90eaedaf0e1eea2c12744b9304b7ffd/" src="http://pic.rtbcdn.ru/video/2026-09-18/59/2f/592f74ad530bd48c12148c74721adb11.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/trehgorka">ТРЁХГОРКА</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Тайны/ТРЁХГОРКА:s:2470016:e:594-->
+<!----><!--2026-09-18 15:58:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/jenshchina_sluchajno_snyala_na_kameru_malenkoe_gumanoidnoe_sushchestvo">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7a9d42b7b9a50142060898d4ff972ec1/" src="http://pic.rtbcdn.ru/video/2026-05-14/50/df/50df30ac896f5e870707ff58c46048d7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/jenshchina_sluchajno_snyala_na_kameru_malenkoe_gumanoidnoe_sushchestvo">Женщина случайно сняла на камеру маленькое гуманоидное существо?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Тайны/Женщина случайно сняла на камеру маленькое гуманоидное существо:s:2470665:e:804-->
+<!----><!--2026-09-18 15:58:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_videokassete_propavshih_turistov_zametili_jutkoe_ogromnoe_sushchestvo_v_nochnom_lesu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5684528a6d692706e043166864ad765b/" src="http://pic.rtbcdn.ru/video/2026-03-14/10/0c/100cfacb4aac4d3bfd48048d5b2fc40e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_videokassete_propavshih_turistov_zametili_jutkoe_ogromnoe_sushchestvo_v_nochnom_lesu">На видеокассете пропавших туристов заметили жуткое огромное существо в ночном лесу</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Тайны/На видеокассете пропавших туристов заметили жуткое огромное существо в ночном лесу:s:2471625:e:872-->
+<!----><!--2026-09-19 13:05:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_nju-jork_kotorogo_vy_ne_znaete_stolica_shtata_i_dolina_gudzona">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/020be89023dfe8ef627f13e92b4e209d/" src="http://pic.rtbcdn.ru/video/2026-09-19/58/cc/58ccdbce8aea1bac6bdb8737bec6d111.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_nju-jork_kotorogo_vy_ne_znaete_stolica_shtata_i_dolina_gudzona">Samsebeskazal Denis: Нью-Йорк, которого вы не знаете. Столица штата и долина Гудзона!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-19</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis Нью-Йорк, которого вы не знаете. Столица штата и долина Гудзона:s:2472688:e:866-->
+<!----><!--2026-09-19 15:34:01-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_on_jivet_v_ssha_36_let_dedushka_pro_pereezd_jizn_i_zarabotok_v_amerike">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5ae58c400324257d582481b0003dbbf4/" src="http://pic.rtbcdn.ru/video/2026-09-19/4c/d2/4cd264e7a017e9c48c3b9eea452cafe9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_on_jivet_v_ssha_36_let_dedushka_pro_pereezd_jizn_i_zarabotok_v_amerike">Ковалёв: он живет в США 36 лет, дедушка про переезд, жизнь и заработок в Америке.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-19</i>
+  </div>
+</div><!--n:Одни из лучших/Ковалёв он живет в США 36 лет, дедушка про переезд, жизнь и заработок в Америке.:s:2473741:e:864-->
+<!----><!--2026-09-19 09:25:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_na_chem_ezdyat_v_ssha_v_realnosti_v_amerike_vse_eshche_ezdyat_avtobusy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0cb755976a6f6c14d7dd7ffb02d233e5/" src="http://pic.rtbcdn.ru/video/2026-09-19/20/37/20370656f3f6f0f11b6a26274eba9408.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_na_chem_ezdyat_v_ssha_v_realnosti_v_amerike_vse_eshche_ezdyat_avtobusy">Воспоминания (октябрь 2019): НА ЧЕМ ЕЗДЯТ в США в РЕАЛЬНОСТИ? В АМЕРИКЕ все еще ездят АВТОБУСЫ...</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-19</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) НА ЧЕМ ЕЗДЯТ в США в РЕАЛЬНОСТИ В АМЕРИКЕ все еще ездят АВТОБУСЫ...:s:2474799:e:928-->
+<!----><!--2026-09-18 18:34:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/sumerki_saga_film_2008_the_twilight_saga">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/259fce352227196d093ba1ff62b31d79/" src="http://pic.rtbcdn.ru/video/2026-09-18/f0/c0/f0c09558e454f0cd190120ad7e2cf8a0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/sumerki_saga_film_2008_the_twilight_saga">Сумерки. Сага (фильм, 2008) / The Twilight Saga</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Сумерки. Сага (фильм, 2008) The Twilight Saga:s:2475946:e:686-->
+<!----><!--2026-09-18 19:05:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/sumerki_saga_rassvet_chast_2_film_2012_the_twilight_saga_breaking_dawn_-_part_2">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d82874203357cb0b68c6a945ec74a73c/" src="http://pic.rtbcdn.ru/video/2026-09-18/4a/2f/4a2f1472d315bb7fe0380666ab077560.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/sumerki_saga_rassvet_chast_2_film_2012_the_twilight_saga_breaking_dawn_-_part_2">Сумерки. Сага. Рассвет: Часть 2 (фильм, 2012) / The Twilight Saga: Breaking Dawn - Part 2</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Сумерки. Сага. Рассвет Часть 2 (фильм, 2012) The Twilight Saga Breaking Dawn - Part 2:s:2476735:e:818-->
+<!----><!--2026-09-18 18:00:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/pojman_s_polichnym_film_2025_caught_stealing">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5954a3113cb0d9da6a3b3e5db99bdfa3/" src="http://pic.rtbcdn.ru/video/2026-09-18/20/5a/205ab9a1cdc379f802683c6aed9b75b7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/pojman_s_polichnym_film_2025_caught_stealing">Пойман с поличным (фильм 2025) / Caught Stealing</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Пойман с поличным (фильм 2025) Caught Stealing:s:2477708:e:699-->
+<!----><!--2026-09-19 11:00:20-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kemp_rok_muzykalnye_kanikuly_film_2008_rok_v_letnem_lagere_camp_rock">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c12c36e85fb9b93b63b7e3dead12b5f1/" src="http://pic.rtbcdn.ru/video/2026-09-18/b4/c0/b4c09d0da632666d4ec5b1728f4a8a4b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kemp_rok_muzykalnye_kanikuly_film_2008_rok_v_letnem_lagere_camp_rock">Кэмп Рок: Музыкальные каникулы (фильм 2008) / Рок в летнем лагере / Camp Rock</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-19</i>
+  </div>
+</div><!--n:Мир кино/Кэмп Рок Музыкальные каникулы (фильм 2008) Рок в летнем лагере Camp Rock:s:2478515:e:803-->
+<!----><!--2026-09-19 12:00:12-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kemp_rok_2_otchetnyj_koncert_film_2010_rok_v_letnem_lagere_2_camp_rock_2_the_final_jam">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/119a26b5e71f6dc75dea9bf34d475ddc/" src="http://pic.rtbcdn.ru/video/2026-09-18/3c/f5/3cf52b1bac4214d3b25b53cfe0d6e4ad.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kemp_rok_2_otchetnyj_koncert_film_2010_rok_v_letnem_lagere_2_camp_rock_2_the_final_jam">Кэмп Рок 2: Отчетный концерт (фильм 2010) / Рок в летнем лагере 2 / Camp Rock 2: The Final Jam</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-19</i>
+  </div>
+</div><!--n:Мир кино/Кэмп Рок 2 Отчетный концерт (фильм 2010) Рок в летнем лагере 2 Camp Rock 2 The Final Jam:s:2479479:e:852-->
+<!----><!--2026-09-18 16:06:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_6_seriya_serial_2025_code_of_silence">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9cc73ec514b9449f2b08fd3982acf1de/" src="http://pic.rtbcdn.ru/video/2026-09-18/df/b4/dfb4d1147354b53a87288bce44bd7e25.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_6_seriya_serial_2025_code_of_silence">Кодекс молчания - 1 сезон 6 серия (сериал 2025) / Code of Silence</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Кодекс молчания - 1 сезон 6 серия (сериал 2025) Code of Silence:s:2480504:e:766-->
+<!----><!--2026-09-18 16:05:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_5_seriya_serial_2025_code_of_silence">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/25e5feffe6cb6d94b48f203a89b76fd9/" src="http://pic.rtbcdn.ru/video/2026-09-18/08/fb/08fba948e556668a3c09aeee22070126.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_5_seriya_serial_2025_code_of_silence">Кодекс молчания - 1 сезон 5 серия (сериал 2025) / Code of Silence</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Кодекс молчания - 1 сезон 5 серия (сериал 2025) Code of Silence:s:2481405:e:766-->
+<!----><!--2026-09-18 16:04:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_4_seriya_serial_2025_code_of_silence">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d167009241c64c82f75ea8365c84a29b/" src="http://pic.rtbcdn.ru/video/2026-09-18/c4/a1/c4a134ee9fed61a6e3be13cb9735b655.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_4_seriya_serial_2025_code_of_silence">Кодекс молчания - 1 сезон 4 серия (сериал 2025) / Code of Silence</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Кодекс молчания - 1 сезон 4 серия (сериал 2025) Code of Silence:s:2482306:e:766-->
+<!----><!--2026-09-18 19:05:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/sumerki_saga_zatmenie_film_2010_the_twilight_saga_eclipse">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4c46995172523ec22f4fcfbfd1e7c6ba/" src="http://pic.rtbcdn.ru/video/2026-09-18/e5/19/e519065c16fc89dd2fc45faf4d65c08b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/sumerki_saga_zatmenie_film_2010_the_twilight_saga_eclipse">Сумерки. Сага. Затмение (фильм, 2010) / The Twilight Saga: Eclipse</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Сумерки. Сага. Затмение (фильм, 2010) The Twilight Saga Eclipse:s:2483207:e:747-->
+<!----><!--2026-09-18 16:02:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_2_seriya_serial_2025_code_of_silence">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e9e63f1923b9124bd9d91cb538a7db20/" src="http://pic.rtbcdn.ru/video/2026-09-18/f0/53/f053c6937446bd7966b9e07e9be3a4a7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_2_seriya_serial_2025_code_of_silence">Кодекс молчания - 1 сезон 2 серия (сериал 2025) / Code of Silence</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Кодекс молчания - 1 сезон 2 серия (сериал 2025) Code of Silence:s:2484083:e:766-->
+<!----><!--2026-09-18 19:06:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/sumerki_saga_novolunie_film_2009_the_twilight_saga_new_moon">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d2f98c373c92fcea5c9f88d4e27abd90/" src="http://pic.rtbcdn.ru/video/2026-09-18/43/ec/43ec1b5746caa54979db864390dc676c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/sumerki_saga_novolunie_film_2009_the_twilight_saga_new_moon">Сумерки. Сага. Новолуние (фильм, 2009) / The Twilight Saga: New Moon</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Сумерки. Сага. Новолуние (фильм, 2009) The Twilight Saga New Moon:s:2484984:e:754-->
+<!----><!--2026-09-18 16:01:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_1_seriya_serial_2025_code_of_silence">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f6ff07add43b9bd8cd90f3c11a54c3d1/" src="http://pic.rtbcdn.ru/video/2026-09-18/ca/0a/ca0a1f87464605af43164c1e685fda94.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_1_seriya_serial_2025_code_of_silence">Кодекс молчания - 1 сезон 1 серия (сериал 2025) / Code of Silence</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Кодекс молчания - 1 сезон 1 серия (сериал 2025) Code of Silence:s:2485870:e:766-->
+<!----><!--2026-09-19 13:00:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kemp_rok_3_film_2026_rok_v_letnem_lagere_3_camp_rock_3">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8ea581e0dd08a223572ba0ea47f83f7a/" src="http://pic.rtbcdn.ru/video/2026-09-18/74/1b/741b461be1e0f7e165bf583056476658.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kemp_rok_3_film_2026_rok_v_letnem_lagere_3_camp_rock_3">Кэмп Рок 3 (фильм 2026) / Рок в летнем лагере 3 / Camp Rock 3</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-19</i>
+  </div>
+</div><!--n:Мир кино/Кэмп Рок 3 (фильм 2026) Рок в летнем лагере 3 Camp Rock 3:s:2486771:e:740-->
+<!----><!--2026-09-18 16:03:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_3_seriya_serial_2025_code_of_silence">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2ee59fa011ae717f1e88dcc25e3ba86a/" src="http://pic.rtbcdn.ru/video/2026-09-18/57/00/57000f39ff0e7d89522c73dc8ecc6014.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kodeks_molchaniya_-_1_sezon_3_seriya_serial_2025_code_of_silence">Кодекс молчания - 1 сезон 3 серия (сериал 2025) / Code of Silence</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Кодекс молчания - 1 сезон 3 серия (сериал 2025) Code of Silence:s:2487638:e:766-->
+<!----><!--2026-09-18 20:00:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/doroga_v_nikuda_film_2025_droga_donikad">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e8734c66924d214ca6dfd9fc8dad9800/" src="http://pic.rtbcdn.ru/video/2026-09-16/59/d1/59d147963f54130ef8ecdb50e2d84a0b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/doroga_v_nikuda_film_2025_droga_donikad">Дорога в никуда (фильм 2025) / Droga Donikad</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-18</i>
+  </div>
+</div><!--n:Мир кино/Дорога в никуда (фильм 2025) Droga Donikad:s:2488539:e:683-->
+<!----><!--2026-09-20 14:32:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_vozvrashchajus_iz_kanady_za_spryatannymi_yajcami_najdu_li_ya_ih">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/24a3c238d1326527c82ff7fb8b5b538d/" src="http://pic.rtbcdn.ru/video/2026-09-20/b3/be/b3bee345bfedd4b7f42cf19fb4f42688.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_vozvrashchajus_iz_kanady_za_spryatannymi_yajcami_najdu_li_ya_ih">Новое: возвращаюсь из Канады за спрятанными яйцами. Найду ли я их?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-20</i>
+  </div>
+</div><!--n:Одни из лучших/Новое возвращаюсь из Канады за спрятанными яйцами. Найду ли я их:s:2489324:e:823-->
+<!----><!--2026-09-19 20:00:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/na_kachelyah_film_2026_rolling">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8643e08486aee673a42f11c1bedcecf7/" src="http://pic.rtbcdn.ru/video/2026-09-18/7a/fd/7afd697043461d51dc2e15d20409738c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/na_kachelyah_film_2026_rolling">На качелях (фильм 2026) / Rolling</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-19</i>
+  </div>
+</div><!--n:Мир кино/На качелях (фильм 2026) Rolling:s:2490317:e:650-->
+<!----><!--2026-09-21 12:00:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_strashnye_mesta_jizni_v_ssha_-_chto_ne_pokazyvajut_amerikancy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/679baff9bed4006a20e0a891cb6c41ea/" src="http://pic.rtbcdn.ru/video/2026-09-21/d8/39/d839dfdd296a8e14a827b65faa2c3cca.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_strashnye_mesta_jizni_v_ssha_-_chto_ne_pokazyvajut_amerikancy">Воспоминания (октябрь 2019): СТРАШНЫЕ МЕСТА Жизни в США - что не показывают американцы!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) СТРАШНЫЕ МЕСТА Жизни в США - что не показывают американцы:s:2491054:e:895-->
+<!----><!--2026-09-20 17:50:44-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/osujdennye_snova_poluchat_pravo_na_ognestrelnoe_orujie_doj_zapuskaet_novuju_sistemu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ffccf507c71d5ad6c0891ad8321ecd4f/" src="http://pic.rtbcdn.ru/video/2026-09-20/75/98/7598e4b61e2984632ba607b557ba232e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/osujdennye_snova_poluchat_pravo_na_ognestrelnoe_orujie_doj_zapuskaet_novuju_sistemu">Осужденные снова получат право на огнестрельное оружие. DOJ запускает новую систему.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-20</i>
+  </div>
+</div><!--n:Одни из лучших/Осужденные снова получат право на огнестрельное оружие. DOJ запускает новую систему.:s:2492153:e:885-->
+<!----><!--2026-09-21 14:42:52-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/v_tehase_arestovali_immigracionnogo_advokata_kotoraya_mnogo_let_obmanyvala_russkoyazychnyh_klientov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d97136b49f6023037043838b1bb22a3e/" src="http://pic.rtbcdn.ru/video/2026-09-21/f5/ea/f5ea5234a84b5def9192487af1b34901.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/v_tehase_arestovali_immigracionnogo_advokata_kotoraya_mnogo_let_obmanyvala_russkoyazychnyh_klientov">В Техасе арестовали иммиграционного адвоката, которая много лет обманывала русскоязычных клиентов.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Одни из лучших/В Техасе арестовали иммиграционного адвоката, которая много лет обманывала русскоязычных клиентов.:s:2493244:e:948-->
+<!----><!--2026-09-21 13:14:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_kak_zdes_rodilas_amerika_drugoj_nju-jork_chast_vtoraya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c6011d107a546180581ef27f84a523ae/" src="http://pic.rtbcdn.ru/video/2026-09-21/7b/82/7b826cb07626fbadb13070e58a9007f3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_kak_zdes_rodilas_amerika_drugoj_nju-jork_chast_vtoraya">Samsebeskazal Denis: как здесь родилась Америка. Другой Нью-Йорк, часть вторая.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis как здесь родилась Америка. Другой Нью-Йорк, часть вторая.:s:2494429:e:840-->
+<!----><!--2026-09-20 17:53:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/sup_s_molljuskami_iz_san-francisko">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c76f26126b22638fdedc3236368e0bbf/" src="http://pic.rtbcdn.ru/video/2026-09-20/b4/6a/b46a40c973a25f06667e669d4c0ab3fa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/sup_s_molljuskami_iz_san-francisko">Суп с моллюсками из Сан-Франциско!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-20</i>
+  </div>
+</div><!--n:Одни из лучших/Суп с моллюсками из Сан-Франциско:s:2495447:e:696-->
