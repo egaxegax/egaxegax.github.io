@@ -28964,3 +28964,58 @@
     <i class="smaller3">2026-09-21</i>
   </div>
 </div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 3 серия (сериал 2026):s:2505383:e:854-->
+<!----><!--2026-09-22 19:37:19-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_germaniya_minus_neskolko_oblastej_bez_sveta_eskalaciya_zelenskogo_22_09_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/98293ec5506b7a2f7f56bd150cffbfe0/" src="http://pic.rtbcdn.ru/video/2026-09-22/b8/3e/b83eb2dacaebe3ff15254157d5d7ea10.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?jizn_v_ssha_i_rossii/ukrainskij_front_-_germaniya_minus_neskolko_oblastej_bez_sveta_eskalaciya_zelenskogo_22_09_26">Украинский фронт - Германия минус. Несколько областей без света. Эскалация Зеленского. 22.09.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-09-22</i>
+  </div>
+</div><!--n:Жизнь в США и России/Украинский фронт - Германия минус. Несколько областей без света. Эскалация Зеленского. 22.09.26:s:2506423:e:929-->
+<!----><!--2026-09-23 09:07:54-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_est_li_jizn_naprotiv_manhettena_neizvestnyj_bereg_kuinsa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ce13ca2c49c56b97f2cf7c6b249f88e1/" src="http://pic.rtbcdn.ru/video/2026-09-23/e9/9f/e99f4ab7873b1ec347c563d7ea043fb7.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_est_li_jizn_naprotiv_manhettena_neizvestnyj_bereg_kuinsa">Samsebeskazal Denis: Есть ли жизнь напротив Манхэттена? Неизвестный берег Куинса.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-23</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis Есть ли жизнь напротив Манхэттена Неизвестный берег Куинса.:s:2507582:e:850-->
+<!----><!--2026-09-23 09:13:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_amerikancy_sidyat_doma_irlandskij_bar_-_gde_molodej_kto_tusit">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/15dd20b58be930241e433fd1b357d34e/" src="http://pic.rtbcdn.ru/video/2026-09-23/3c/5b/3c5b732204b57f931ba96db36a3dc5f4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_amerikancy_sidyat_doma_irlandskij_bar_-_gde_molodej_kto_tusit">Воспоминания (октябрь 2019): АМЕРИКАНЦЫ СИДЯТ ДОМА? Ирландский БАР - где молодежь, кто тусит?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-23</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) АМЕРИКАНЦЫ СИДЯТ ДОМА Ирландский БАР - где молодежь, кто тусит:s:2508615:e:905-->
+<!----><!--2026-09-23 13:32:50-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/chto_mat_mojet_sdelat_so_svoim_sobstvennym_rebenkom_nazlo_muju">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b44b8aa315e158899ed2f07795ad204c/" src="http://pic.rtbcdn.ru/video/2026-09-23/46/0f/460fe0103af227985b9640030ddec267.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/chto_mat_mojet_sdelat_so_svoim_sobstvennym_rebenkom_nazlo_muju">Что мать может сделать со своим собственным ребенком назло мужу!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-23</i>
+  </div>
+</div><!--n:Одни из лучших/Что мать может сделать со своим собственным ребенком назло мужу:s:2509733:e:808-->
+<!----><!--2026-09-22 18:44:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jeltye_pisma_film_2026_gelbe_briefe">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6b27a2b3a99281ab6786f12e3067d72b/" src="http://pic.rtbcdn.ru/video/2026-09-22/e9/b2/e9b2fcce08c5a6cf0bbc77d0fdaedbb4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jeltye_pisma_film_2026_gelbe_briefe">Жёлтые письма (фильм 2026) / Gelbe Briefe</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-22</i>
+  </div>
+</div><!--n:Мир кино/Жёлтые письма (фильм 2026) Gelbe Briefe:s:2510711:e:671-->

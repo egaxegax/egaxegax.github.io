@@ -84625,3 +84625,158 @@
 <div class="rssn mw_f scroll">
   <div><span class="smaller gray hspace">19:58</span> <a class="nodecor" href="https://www.mk.ru/science/2025/12/25/raskryta-neozhidannaya-svyaz-vitaminov-s-riskom-razvitiya-raka.html">Раскрыта неожиданная связь витаминов с риском развития рака</a></div>
 </div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/251226 2000:s:10675415:e:3724-->
+<!----><h2 class="hspace">Путешествия и туризм на Ср 23 сен 2026 19:40</h2><!--2026-09-23 09:25:12-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:25</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/basseyn-kleopatry-v-pamukkale-posle-rekonstrukcii-skolko-stoit-kupanie-i-chto-izmenilos-v-2026-godu.html">Бассейн Клеопатры в Памуккале после реконструкции: сколько стоит купание и что изменилось в 2026 году</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:05</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/samaya-roskoshnaya-zabroshka-mira-pochemu-forest-siti-godami-prostaivaet-bez-zhiteley.html">Самая роскошная заброшка мира: почему Форест-Сити годами простаивает без жителей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:19</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/chasovnya-sen-mishel-edinstvennoe-chto-ostalos-ne-pod-vodoy-serr-ponson.html">Часовня Сен-Мишель: единственное, что осталось не под водой Серр-Понсон</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:56</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/drevnekitayskoe-obschezhitie-kak-poyavilis-doma-kreposti-tulou-i-zhivut-li-v-nih-segodnya.html">Древнекитайское общежитие: как появились дома-крепости Тулоу и живут ли в них сегодня</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:27</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/pochemu-yaponskie-plyazhi-pusteyut-uzhe-v-sentyabre-hotya-voda-ostaetsya-teploy.html">Почему японские пляжи пустеют уже в сентябре, хотя вода остается теплой</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:05</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/samoe-uedinennoe-mesto-gruzii-chem-interesen-stolp-kachi-i-mozhno-li-tuda-popast-turistam.html">Самое уединенное место Грузии: чем интересен Столп Кацхи и можно ли туда попасть туристам</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:23</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/maksimalnaya-glubina-vsego-14-metrov-chem-neobychno-azovskoe-more.html">Максимальная глубина всего 14 метров: чем необычно Азовское море</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:13</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/gigantskie-voronki-na-plotinah-kazhutsya-bezdonnymi-kuda-na-samom-dele-uhodit-voda.html">Гигантские воронки на плотинах кажутся бездонными: куда на самом деле уходит вода?</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:58</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/bodi-samyy-populyarnyy-gorod-prizrak-ssha-zastyvshiy-vo-vremenah-dikogo-zapada.html">Боди: самый популярный город-призрак США, застывший во временах Дикого Запада</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:47</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/pochemu-derevya-ozera-kaindy-ne-sgnili-za-130-let-pod-vodoy.html">Почему деревья озера Каинды не сгнили за 130 лет под водой?</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.ixbt.com/live/rss/blog/travel</div><!--n:iXBT Live. Туризм/Путешествия и туризм на 260923_1900:s:10679220:e:4131-->
+<!----><h2 class="hspace">Наука на Ср 23 сен 2026 20:00</h2><!--2026-09-23 16:37:24-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:37</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/magnitnaya-burya-s-solnechnym-vetrom-rossiyskiy-uchenyy-rasskazal-o-sile-vozdeystviya-koronalnoy-dyry-na-zemlyu.html">Магнитная буря с солнечным ветром: российский ученый рассказал о силе воздействия корональной дыры на Землю</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:41</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/za-polveka-osnovnye-ledyanye-shhity-zemli-poteryali-12-trillionov-tonn-lda.html">За полвека основные ледяные щиты Земли потеряли 12 триллионов тонн льда</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:34</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/vpervye-za-stoletie-obnaruzhen-novyy-vid-dikoy-koshki.html">Впервые за столетие обнаружен новый вид дикой кошки</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:50</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/raskryto-kak-pakhnet-mamont-i-kto-proboval-ego-myaso-na-vkus.html">Раскрыто, как пахнет мамонт и кто пробовал его мясо на вкус</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">12:04</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/rossiyanin-otpravitsya-k-mks-na-amerikanskom-korable-falcon-9.html">Россиянин отправится к МКС на американском корабле Falcon 9</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">11:09</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/uchyonye-vyyasnili-chem-grozit-nedostatok-menina-v-organizme.html">Учёные выяснили, чем грозит недостаток менина в организме</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">10:31</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/smertelnyy-prognoz-uchenye-nazval-chislo-zhertv-gryadushhego-superelnino.html">Смертельный прогноз: ученые назвали число жертв грядущего супер-Эль-Ниньо</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:44</span> <a class="nodecor" href="https://www.mk.ru/science/2026/09/23/rossiyskie-uchenye-obnaruzhili-bakterii-protiv-svertyvaniya-krovi.html">Российские ученые обнаружили бактерии против свертывания крови</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">03:17</span> <a class="nodecor" href="https://www.mk.ru/social/2026/09/23/obnaruzhena-svyaz-mezhdu-upotrebleniem-myasa-i-razvitiem-starcheskoy-khrupkosti.html">Обнаружена связь между употреблением мяса и развитием старческой хрупкости</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">01:36</span> <a class="nodecor" href="https://www.mk.ru/incident/2026/09/23/khakery-zayavili-o-krazhe-dannykh-vsekh-sotrudnikov-fbr.html">Хакеры заявили о краже данных всех сотрудников ФБР</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.mk.ru/rss/science/index.xml</div><!--n:Московский Комсомолец/Наука на 260923_2000:s:10683458:e:3834-->
+<!----><h2 class="hspace">Спорт на Ср 23 сен 2026 22:00</h2><!--2026-09-23 18:54:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:54</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117379388-lu-uilyams-schitaet-sebya-luchshim-shestym-igrokom-v-istorii-nba-eto-m.html">Лу Уильямс считает себя лучшим шестым игроком в истории НБА: «Это мое наследие»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:47</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117379380-debur-o-vozvrashhenii-varlamova-vpechatlyayushhe-to-kak-on-sygral-vdox.html">Дебур о возвращении Варламова: «Впечатляюще. То, как он сыграл, вдохновляет команду»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:46</span> <a class="nodecor" href="https://www.sports.ru/football/1117379379-gendirektor-akrona-klyushev-o-zavyshennoj-czene-na-pestryakova-eto-fuc.html">Гендиректор «Акрона» Клюшев о завышенной цене на Пестрякова: «Это fuck off price, и мы сразу это озвучили. Рассчитываем выручить больше, чем предлагают. Самое крупное предложение – менее 4 млн»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:45</span> <a class="nodecor" href="https://www.sports.ru/football/1117379383-roman-pavlyuchenko-dzyube-nado-zakanchivat-igrat-po-matcham-vidno-chto.html">Роман Павлюченко: «Дзюбе надо заканчивать играть. По матчам видно, что ему тяжеловато уже. Артем и так больше всех забил – пусть успокоится»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:44</span> <a class="nodecor" href="https://www.sports.ru/automoto/1117379386-sharl-lekler-samomu-xotelos-by-znat-v-chem-sekret-antonelli-no-to-chto.html">Шарль Леклер: «Самому хотелось бы знать, в чем секрет Антонелли. Но то, что он делает – работает»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:34</span> <a class="nodecor" href="https://www.sports.ru/basketball/1117379375-novichok-zenita-nejt-mejson-ne-ozhidal-chto-sankt-peterburg-budet-taki.html">Новичок «Зенита» Нэйт Мэйсон: «Не ожидал, что Санкт-Петербург будет таким приятным»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:33</span> <a class="nodecor" href="https://www.sports.ru/football/1117379373-onana-vylozhil-video-na-kotorom-proxodit-proczeduru-s-mediczinskimi-ba.html">Онана показал баночную терапию с огнем: вратарь «Трабзонспора» покрыл ими все тело</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:30</span> <a class="nodecor" href="https://www.sports.ru/hockey/1117379372-dilan-sikyura-ochevidno-chto-v-atake-u-dinamo-sejchas-problemy-ya-vozg.html">Дилан Сикьюра: «Очевидно, что в атаке у «Динамо» сейчас проблемы. Я возглавляю список нападающих, которым нужно прибавлять в завершении»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:26</span> <a class="nodecor" href="https://www.sports.ru/football/1117379367-zhorzhe-zhezush-ronaldu-simvol-portugalii-eto-ne-daet-emu-prava-igrat-.html">Жорже Жезуш: «Роналду – символ Португалии. Это не дает ему права играть в каждом матче, но когда мы без него играли в Гонконге – пришло 5 000, с ним – 55 000»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:22</span> <a class="nodecor" href="https://www.sports.ru/figure-skating/1117379377-alena-leonova-trusova-yavlyaetsya-liderom-sbornoj-ona-eto-uzhe-dvazhdy.html">Алена Леонова: «Трусова является лидером сборной. Она это уже дважды показала»</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://sports.ru/rss/all_news.xml</div><!--n:Спортс/Спорт на 260923_2200:s:10687389:e:4720-->
+<!----><h2 class="hspace">Путешествия и туризм на Ср 23 сен 2026 23:31</h2><!--2026-09-23 19:59:49-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:59</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/ot-rybackoy-derevushki-do-kiberpanka-chem-mozhet-udivit-samyy-sovremennyy-gorod-mira-shenchzhen.html">От рыбацкой деревушки до киберпанка: чем может удивить самый современный город мира  Шэньчжэнь</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">09:25</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/basseyn-kleopatry-v-pamukkale-posle-rekonstrukcii-skolko-stoit-kupanie-i-chto-izmenilos-v-2026-godu.html">Бассейн Клеопатры в Памуккале после реконструкции: сколько стоит купание и что изменилось в 2026 году</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:05</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/samaya-roskoshnaya-zabroshka-mira-pochemu-forest-siti-godami-prostaivaet-bez-zhiteley.html">Самая роскошная заброшка мира: почему Форест-Сити годами простаивает без жителей</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">04:19</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/chasovnya-sen-mishel-edinstvennoe-chto-ostalos-ne-pod-vodoy-serr-ponson.html">Часовня Сен-Мишель: единственное, что осталось не под водой Серр-Понсон</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">17:56</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/drevnekitayskoe-obschezhitie-kak-poyavilis-doma-kreposti-tulou-i-zhivut-li-v-nih-segodnya.html">Древнекитайское общежитие: как появились дома-крепости Тулоу и живут ли в них сегодня</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">14:27</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/pochemu-yaponskie-plyazhi-pusteyut-uzhe-v-sentyabre-hotya-voda-ostaetsya-teploy.html">Почему японские пляжи пустеют уже в сентябре, хотя вода остается теплой</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">20:05</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/samoe-uedinennoe-mesto-gruzii-chem-interesen-stolp-kachi-i-mozhno-li-tuda-popast-turistam.html">Самое уединенное место Грузии: чем интересен Столп Кацхи и можно ли туда попасть туристам</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">07:23</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/maksimalnaya-glubina-vsego-14-metrov-chem-neobychno-azovskoe-more.html">Максимальная глубина всего 14 метров: чем необычно Азовское море</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:13</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/gigantskie-voronki-na-plotinah-kazhutsya-bezdonnymi-kuda-na-samom-dele-uhodit-voda.html">Гигантские воронки на плотинах кажутся бездонными: куда на самом деле уходит вода?</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">18:58</span> <a class="nodecor" href="https://www.ixbt.com/live/travel/bodi-samyy-populyarnyy-gorod-prizrak-ssha-zastyvshiy-vo-vremenah-dikogo-zapada.html">Боди: самый популярный город-призрак США, застывший во временах Дикого Запада</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.ixbt.com/live/rss/blog/travel</div><!--n:iXBT Live. Туризм/Путешествия и туризм на 260923_2300:s:10692177:e:4237-->
+<!----><h2 class="hspace">Новости на Ср 23 сен 2026 23:37</h2><!--2026-09-23 19:21:00-->
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">19:21</span> <a class="nodecor" href="https://www.5-tv.ru/news/5088031/minoborony-soobsilo-obudarah-podatacentram-ilogistike-vsu-aii/">Минобороны сообщило об ударах по дата-центрам и логистике ВСУ</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">15:37</span> <a class="nodecor" href="https://www.5-tv.ru/news/5087976/vsrfnacali-ispolzovat-novuu-sistemu-susanin-dla-udarov-poukraine/">ВС РФ начали использовать новую систему «Сусанин» для ударов по Украине</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">16:04</span> <a class="nodecor" href="https://www.5-tv.ru/news/5087998/putin-obratilsa-kbojcam-svo-ludi-verat-vam-verat-vnasu-pobedu/">Путин обратился к бойцам СВО: «Люди верят вам, верят в нашу победу!»</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">13:32</span> <a class="nodecor" href="https://www.5-tv.ru/news/5087963/otryvy-krupnyh-protuberancev-ucenye-dopustili-mosnye-vspyski-nasolnce/">«Отрывы крупных протуберанцев»: ученые допустили мощные вспышки на Солнце</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:29</span> <a class="nodecor" href="https://www.5-tv.ru/news/5088047/umer-muzykalnyj-kritik-sergej-sosedov-aii/">Умер музыкальный критик Сергей Соседов</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">21:38</span> <a class="nodecor" href="https://www.5-tv.ru/news/5088049/stala-izvestna-pricina-smerti-muzykalnogo-kritika-sergea-sosedova-aii/">Стала известна причина смерти музыкального критика Сергея Соседова</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">22:28</span> <a class="nodecor" href="https://www.5-tv.ru/news/5088056/aodna-ostaus-mat-sosedova-vslezah-rasskazala-ogibeli-syna-aii/">«Я одна остаюсь»: мать Соседова в слезах рассказала о гибели сына</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">23:29</span> <a class="nodecor" href="https://www.5-tv.ru/tabloid/5088059/gospodi-sereza-umer-vnezapnaa-koncina-sergea-sosedova-vskolyhnula-soubiznes/">«Господи, Сережа умер»: внезапная кончина Сергея Соседова всколыхнула шоу-бизнес</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">23:03</span> <a class="nodecor" href="https://www.5-tv.ru/news/5088041/nevugodu-ritualu-zaharova-rasskazala-opravilah-vnesnego-vida-dla-politikov/">«Не в угоду ритуалу»: Захарова рассказала о правилах внешнего вида для политиков</a></div>
+</div>
+<div class="rssn mw_f scroll">
+  <div><span class="smaller gray hspace">22:56</span> <a class="nodecor" href="https://www.5-tv.ru/tabloid/5088058/starenkaa-mama-predcuvstvovala-bedu-poslednie-dni-zizni-ismert-sosedova/">Старенькая мама предчувствовала беду: последние дни жизни и смерть Соседова</a></div>
+</div><div class="rssurl gray smaller" style="display:none">https://www.5-tv.ru/news/rss/</div><!--n:Пятый канал/Новости на 260923_2300:s:10696521:e:3756-->

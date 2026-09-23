@@ -5948,3 +5948,15 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/krevetki-v-slivochno-tomatnom-souse/photo/960w.jpg" width="960" alt="Креветки в сливочно-томатном соусе"><p>Креветки в сливочно-томатном соусе - простой вариант вкусного и быстрого блюда, которое можно приготовить буквально за несколько минут. Нежные креветки получаются сочными, а соус - густым, сливочным, с легкой кислинкой томата и ароматом чеснока.</p> <p class="titl"><a href="https://finecooking.ru/recipe/krevetki-v-slivochno-tomatnom-souse?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Креветки в сливочно-томатном соусе</a></p></div>
 </div><!--n:finecooking.ru/Креветки в сливочно-томатном соусе:s:1281876:e:983-->
+<!----><!--2026-09-23 12:04:23-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184574/"><img src="https://www.povarenok.ru/data/cache/2026sep/22/05/3237860_53560-640x480.jpg"></a>Классический рецепт морковной икры. Можно есть как приправу с хлебушком, подать как гарнир к рыбе или добавлять в первые блюда как заправку. Вкусно и полезно! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184574/">Морковная икра</a></p></div>
+</div><!--n:Поваренок.РУ/Морковная икра:s:1282964:e:648-->
+<!----><!--2026-09-23 22:52:51-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184576/"><img src="https://www.povarenok.ru/data/cache/2026sep/23/31/3238059_28046-640x480.jpg"></a>Мы с сыном, попробовав однажды Шрирачу, по сей день в поисках своей лучшей. Такого соуса, как тогда, я больше не встречаю, а который пробуем, не устраивает на все 100. Поэтому, увидев этот рецепт, я решила его попробовать: А вдруг? Соус очень вкусный получился!!! Но порция маленькая совсем (я делала 1,5 и то мало - на фото все... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184576/">Острый соус "А-ля Шрирача"</a></p></div>
+</div><!--n:Поваренок.РУ/Острый соус А-ля Шрирача:s:1283689:e:959-->
+<!----><!--2026-09-23 14:41:37-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184575/"><img src="https://www.povarenok.ru/data/cache/2026sep/23/41/3237979_93426-640x480.jpg"></a>Готовить это блюдо просто, но не быстро. Но результат того стоит! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184575/">Свиные ребрышки в духовке</a></p></div>
+</div><!--n:Поваренок.РУ/Свиные ребрышки в духовке:s:1284742:e:497-->
