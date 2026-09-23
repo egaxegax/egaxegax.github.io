@@ -7,7 +7,7 @@
 
 RSSlist = {
   'eadaily': {'hdr':'Подборка новостей/EADaily',              'hdr2':'Вести',               'url':'https://eadaily.com/ru/rss/index.xml'},
-  'ixbttr':  {'hdr':'Подборка новостей/iXBT Live',            'hdr2':'Путешествия и туризм','url':'https://www.ixbt.com/live/rss/blog/travel'},
+  'ixbt_tr': {'hdr':'Подборка новостей/iXBT Live. Туризм',    'hdr2':'Путешествия и туризм','url':'https://www.ixbt.com/live/rss/blog/travel'},
   'ria':     {'hdr':'Подборка новостей/РИА',                  'hdr2':'События',             'url':'https://ria.ru/export/rss2/index.xml'},
   'rambler': {'hdr':'Подборка новостей/Рамблер',              'hdr2':'В мире',              'url':'https://news.rambler.ru/rss/world/'},
   'ramblerm':{'hdr':'Подборка новостей/Рамблер',              'hdr2':'Москва',              'url':'https://news.rambler.ru/rss/moscow_city/'},
@@ -18,8 +18,6 @@ RSSlist = {
   'cosmos':  {'hdr':'Подборка новостей/Элементы Космос',      'hdr2':'Космос',              'url':'https://elementy.ru/rss/news/cosmos'},
   'rgecon':  {'hdr':'Подборка новостей/Российская газета',    'hdr2':'Экономика',           'url':'https://rg.ru/xml/rubrics/ekonomika.xml'},
   '5tvn':    {'hdr':'Подборка новостей/Пятый канал',          'hdr2':'Новости',             'url':'https://www.5-tv.ru/news/rss/'},
-  # '5tv':     {'hdr':'Подборка новостей/Пятый канал',          'hdr2':'Телепрограмма',       'url':'https://www.5-tv.ru/schedule/rss/'},
-  # 'almazant':{'hdr':'Подборка новостей/Концерн "Алмаз-Антей"','hdr2':'Дайджест', 'url':'http://almaz-antey.ru/press-center/daydzhest/rss/'},
 }
 
 import os, sys, time, re, locale

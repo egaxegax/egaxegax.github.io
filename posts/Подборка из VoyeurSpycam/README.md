@@ -1736,3 +1736,25 @@
     <i class="smaller3">2026-09-20</i>
   </div>
 </div><!--n:Скрытая камера/За девушкой подсмотрели в душевой кабинке:s:118484:e:627-->
+<!----><!--2026-09-21 09:52:55-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2600-pisaet-pered-sprjatannoj-kameroj.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-09/1789973381_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/pisaet_pered_spryatannoj_kameroj">Писает перед спрятанной камерой</a></p>
+    <p><i class="smaller2">В туалете</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Скрытая камера/Писает перед спрятанной камерой:s:119241:e:585-->
+<!----><!--2026-09-22 09:48:39-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2601-blondinka-masturbiruet-v-magazine.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-09/1790059622_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/blondinka_masturbiruet_v_magazine">Блондинка мастурбирует в магазине</a></p>
+    <p><i class="smaller2">Мастурбация</i></p>
+    <i class="smaller3">2026-09-22</i>
+  </div>
+</div><!--n:Скрытая камера/Блондинка мастурбирует в магазине:s:119938:e:596-->

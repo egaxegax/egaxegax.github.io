@@ -28854,3 +28854,113 @@
     <i class="smaller3">2026-09-20</i>
   </div>
 </div><!--n:Одни из лучших/Суп с моллюсками из Сан-Франциско:s:2495447:e:696-->
+<!----><!--2026-09-22 09:02:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_rabotaju_kurerom_v_gorode_millionerov_v_ssha_sorval_kush_na_chaevyh">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1f0ce49fc6e4b7524c348e4530af3fe2/" src="http://pic.rtbcdn.ru/video/2026-09-22/8c/cf/8ccf5ea0715ccfc3ec84d10cf10380c6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_rabotaju_kurerom_v_gorode_millionerov_v_ssha_sorval_kush_na_chaevyh">Ковалёв: работаю курьером в городе миллионеров в США. Сорвал куш на чаевых?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-22</i>
+  </div>
+</div><!--n:Одни из лучших/Ковалёв работаю курьером в городе миллионеров в США. Сорвал куш на чаевых:s:2496257:e:852-->
+<!----><!--2026-09-22 09:20:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_vezu_vino_v_london_-_minusy_derevenskogo_goroda_v_kanade">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0b33654aba821dcc25022cb8ca21e81d/" src="http://pic.rtbcdn.ru/video/2026-09-22/f3/44/f3443a3bdab8a6035dca736352e0bf23.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_oktyabr_2019_vezu_vino_v_london_-_minusy_derevenskogo_goroda_v_kanade">Воспоминания (октябрь 2019): ВЕЗУ ВИНО в ЛОНДОН - МИНУСЫ деревенского города в КАНАДЕ.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-09-22</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (октябрь 2019) ВЕЗУ ВИНО в ЛОНДОН - МИНУСЫ деревенского города в КАНАДЕ.:s:2497296:e:883-->
+<!----><!--2026-09-21 19:15:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/obitel_zla_film_2026_resident_evil">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6c17d0105021f27b552c905213d78683/" src="http://pic.rtbcdn.ru/video/2026-09-21/55/c6/55c63c73a13e3b0002f342063eeb07e4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/obitel_zla_film_2026_resident_evil">Обитель зла (фильм 2026) / Resident Evil</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Обитель зла (фильм 2026) Resident Evil:s:2498382:e:666-->
+<!----><!--2026-09-21 17:06:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_6_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/28ca370e3e98a81426dc23e7c6015058/" src="http://pic.rtbcdn.ru/video/2026-09-21/67/ca/67ca411ddd82722ea3171deb2a01efbb.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_6_seriya_serial_2026">Жизнь, Ларри и стремление к несчастью: Почти история Америки - 6 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 6 серия (сериал 2026):s:2499143:e:854-->
+<!----><!--2026-09-21 17:05:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_5_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a2f89f9d16cd103bec5d62b364779815/" src="http://pic.rtbcdn.ru/video/2026-09-21/97/e7/97e7a443ec209caf2aaf7750262072ad.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_5_seriya_serial_2026">Жизнь, Ларри и стремление к несчастью: Почти история Америки - 5 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 5 серия (сериал 2026):s:2500183:e:854-->
+<!----><!--2026-09-21 17:04:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_4_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/76ec6aea918f7a377187e8bde9de916e/" src="http://pic.rtbcdn.ru/video/2026-09-21/f9/27/f9272f9985af0137e70bcc9ec9157fbf.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_4_seriya_serial_2026">Жизнь, Ларри и стремление к несчастью: Почти история Америки - 4 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 4 серия (сериал 2026):s:2501223:e:854-->
+<!----><!--2026-09-21 17:02:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_2_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2d45be61fbb9754539cefc5ee91ac98f/" src="http://pic.rtbcdn.ru/video/2026-09-21/88/a3/88a3afbbbb39f76082023e2efb82b347.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_2_seriya_serial_2026">Жизнь, Ларри и стремление к несчастью: Почти история Америки - 2 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 2 серия (сериал 2026):s:2502263:e:854-->
+<!----><!--2026-09-21 17:07:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_7_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bf3550d4ef3eb2b2d45cfa7215c48b71/" src="http://pic.rtbcdn.ru/video/2026-09-21/b2/d5/b2d59459db9e3010e543e12d48b55c8d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_7_seriya_serial_2026">Жизнь, Ларри и стремление к несчастью: Почти история Америки - 7 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 7 серия (сериал 2026):s:2503303:e:854-->
+<!----><!--2026-09-21 17:01:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_1_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bcb9a3b0358f0bc9451f094930971f90/" src="http://pic.rtbcdn.ru/video/2026-09-21/05/ca/05cada01387a8f9f7a7057e2996cf9e0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_1_seriya_serial_2026">Жизнь, Ларри и стремление к несчастью: Почти история Америки - 1 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 1 серия (сериал 2026):s:2504343:e:854-->
+<!----><!--2026-09-21 17:03:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_3_seriya_serial_2026">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bb04353a5c418134ddf7e97834624178/" src="http://pic.rtbcdn.ru/video/2026-09-21/6f/20/6f209220eda947e9f36e8d251646a8bc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/jizn_larri_i_stremlenie_k_neschastju_pochti_istoriya_ameriki_-_3_seriya_serial_2026">Жизнь, Ларри и стремление к несчастью: Почти история Америки - 3 серия (сериал 2026)</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-09-21</i>
+  </div>
+</div><!--n:Мир кино/Жизнь, Ларри и стремление к несчастью Почти история Америки - 3 серия (сериал 2026):s:2505383:e:854-->

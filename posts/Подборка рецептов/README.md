@@ -5920,3 +5920,31 @@ https://www.povareno k.ru/recipes/show/17 6909/
 <div class="yb">
   <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184561/"><img src="https://www.povarenok.ru/data/cache/2026sep/20/43/3237504_53291-640x480.jpg"></a>В этом в супе сочетаются успокаивающие свойства куриного бульона и вкус тушеного нута с зеленью. Своей сладостью и мягкой текстурой блюдо обязано луку, чесноку и различных специям, припущенным в оливковом масле; насыщенный куриный вкус достигается за счет запекания куриных бедер в бульоне, а шелковистость супу придает размятый нут. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184561/">Суп из курицы и нута</a></p></div>
 </div><!--n:Поваренок.РУ/Суп из курицы и нута:s:1275497:e:982-->
+<!----><!--2026-09-21 13:30:40-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184565/"><img src="https://www.povarenok.ru/data/cache/2026sep/21/19/3237607_53572-640x480.jpg"></a>Эта пастила - мой фаворит! Вкус розового перца ощущается приятным послевкусием. Пока продолжается сливовый сезон, я ее делаю постоянно! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184565/">Сливовая пастила с розовым перцем</a></p></div>
+</div><!--n:Поваренок.РУ/Сливовая пастила с розовым перцем:s:1276565:e:642-->
+<!----><!--2026-09-21 11:43:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184564/"><img src="https://www.povarenok.ru/data/cache/2026sep/21/43/3237601_58877-640x480.jpg"></a>Манная каша — блюдо из манной крупы, сваренной на молоке, воде или их смеси. Она отличается кремовой текстурой и лёгкой усвояемостью, поэтому часто встречается в детском и диетическом питании. Я стараюсь разнообразить её разными вкусами. Сегодня с яблоком <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184564/">Манная каша с яблоком</a></p></div>
+</div><!--n:Поваренок.РУ/Манная каша с яблоком:s:1277319:e:840-->
+<!----><!--2026-09-21 10:12:02-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184563/"><img src="https://www.povarenok.ru/data/cache/2026sep/18/40/3237109_33263-640x480.jpg"></a>Вкуснейший сливовый соус с корицей и бадьяном - это пикантная приправа с ярким кисло-сладким вкусом, которая отлично дополняет мясные блюда, птицу, рыбу, сырные закуски. <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184563/">Пряный сливовый соус</a></p></div>
+</div><!--n:Поваренок.РУ/Пряный сливовый соус:s:1278248:e:679-->
+<!----><!--2026-09-22 16:22:16-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184571/"><img src="https://www.povarenok.ru/data/cache/2026sep/22/15/3237833_40855-640x480.jpg"></a>Это густой томатный соус отлично подходит для пасты, лазаньи, пиццы и других блюд итальянской кухни. Благодаря большому количеству томатов, чесноку, зелени и ароматным специям он получается насыщенным, ароматным и ярким по вкусу. При приготовлении использовала посуду ТМ Kukmara - разделочной доской, ковшом и сковородой <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184571/">Итальянский томатный соус "Долмио" на зиму</a></p></div>
+</div><!--n:Поваренок.РУ/Итальянский томатный соус Долмио на зиму:s:1279015:e:991-->
+<!----><!--2026-09-22 15:27:31-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184570/"><img src="https://www.povarenok.ru/data/cache/2026sep/22/13/3237813_18629-640x480.jpg"></a>Как утверждает первоисточник, этот мармелад стал победителем на фестивале варенья в Мураново, в номинации: &quot;Самое необычное варенье&quot;. Когда я увидела этот рецепт, сразу же захотелось его приготовить, но была зима, и я его запланировала на время урожая баклажанов. И, вот, это свершилось! Вкусно, необычно, удивительно... Дл... <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184570/">Баклажановый мармелад</a></p></div>
+</div><!--n:Поваренок.РУ/Баклажановый мармелад:s:1280131:e:970-->
+<!----><!--2026-09-22 19:40:52-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184572/"><img src="https://www.povarenok.ru/data/cache/2026sep/22/23/3237866_46125-640x480.jpg"></a>Яркая красивая мозайка из овощей, которую красиво подать и в будни, и на праздничный стол. Все маленькое - на один укус! <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184572/">Томаты черри с огурцами</a></p></div>
+</div><!--n:Поваренок.РУ/Томаты черри с огурцами:s:1281192:e:591-->
+<!----><!--2026-09-22 19:53:45-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/krevetki-v-slivochno-tomatnom-souse/photo/960w.jpg" width="960" alt="Креветки в сливочно-томатном соусе"><p>Креветки в сливочно-томатном соусе - простой вариант вкусного и быстрого блюда, которое можно приготовить буквально за несколько минут. Нежные креветки получаются сочными, а соус - густым, сливочным, с легкой кислинкой томата и ароматом чеснока.</p> <p class="titl"><a href="https://finecooking.ru/recipe/krevetki-v-slivochno-tomatnom-souse?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Креветки в сливочно-томатном соусе</a></p></div>
+</div><!--n:finecooking.ru/Креветки в сливочно-томатном соусе:s:1281876:e:983-->
