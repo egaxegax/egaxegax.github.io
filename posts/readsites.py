@@ -12,7 +12,7 @@ RSSlist = {
   'kino_kino':   {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/kino.xml',      'cut':1000, 'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
   'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/teatr.xml',     'cut':1000, 'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
   'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',         'url':'https://prosto-linux.ru/feed',            'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'playground':  {'hdr':'Подборка с сайтов/PlayGround.ru',        'url':'https://www.playground.ru/rss/news.xml',  'cut':1000, 'total':5,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'playground':  {'hdr':'Подборка с сайтов/PlayGround.ru',        'url':'https://www.playground.ru/rss/news.xml',  'cut':1000, 'total':5, 'ctag': 'channel', 'itag': 'item', 'sm':''},
   'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',              'url':'https://www.yaplakal.com/news.xml',       'cut':2000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'moslenta':    {'hdr':'Подборка с сайтов/Мослента',             'url':'https://moslenta.ru/exports/rss.xml',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'flickr':      {'hdr':'Подборка с сайтов/Flickr.com',           'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':15,'ctag': '', 'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
@@ -22,6 +22,8 @@ RSSlist = {
   'chmp':        {'hdr':'Подборка новостей/Чемпионат',            'url':'https://www.championat.ru/rss/news/',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'mk':          {'hdr':'Подборка новостей/Московский Комсомолец','url':'https://www.mk.ru/rss/science/index.xml', 'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'rgecon':      {'hdr':'Подборка новостей/Российская газета',    'url':'https://rg.ru/xml/rubrics/ekonomika.xml', 'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'dev_ed':      {'hdr':'Подборка курсов/DevEducation',           'url':'https://dev-ed.ru/blog/rss',              'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  
 }
 
 import os, sys, time, re
@@ -41,6 +43,8 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
   with urlopen(Request(prm['url'], headers={'User-Agent': 'Mozilla/5.0'})) as purl:
     rst = ET.fromstring(purl.read(), parser=ET.XMLParser())
     if prm.get('ctag'): rst = rst.find(prm['ctag'])
+    pdate = ''
+    if rst.find('%(sm)slastBuildDate' % prm) is not None: pdate = rst.find('%(sm)slastBuildDate' % prm).text.strip()
     for ii, item in [[ii, item] for ii, item in enumerate(rst.findall('%(sm)s%(itag)s' % prm)) if ii < prm['total']]:
       titl = item.find('%(sm)stitle' % prm).text.strip()
       if not titl:
@@ -56,11 +60,10 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
       if not text or re.search('<!--Begin Video.*!--End Video-->', text):
         print('!!! No text tag. Skip...')
         continue
-      pdate = ''
       if item.find('pubDate') is not None:               pdate = item.find('pubDate').text
       if item.find('%(sm)spublished' % prm) is not None: pdate = item.find('%(sm)spublished' % prm).text
       if not pdate:
-        print('!!! No pdate tag. Skip...')
+        print('!!! No pdate tag. Skip...',bdate)
         continue
       if re.search(r'^\w+, \d+ \w+ \d{4} \d{2}:\d{2}:\d{2} \+\w+$', pdate):
         pdt = time.strptime(pdate, '%a, %d %b %Y %H:%M:%S %z')
@@ -79,7 +82,8 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
       ctime = time.strftime('<!--%Y-%m-%d %H:%M:%S-->', pdt)
       text = """{ctime}
 <div class="yb">
-  <div class="rss mw_f scroll {rssid}">{text} {titl}</div>
+  <div class="rss mw_f scroll {rssid}">{text}</div>
+  {titl}
 </div>
 """.format(ctime=ctime, rssid=id, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, prm['cut']))
       if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):
