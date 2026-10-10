@@ -1,0 +1,3 @@
+ROOTS=[];
+SUBJ=[];
+TITLES=[];

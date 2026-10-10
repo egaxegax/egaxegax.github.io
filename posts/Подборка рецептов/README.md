@@ -6081,3 +6081,58 @@ https://www.povareno k.ru/recipes/show/17 6909/
   <div class="rss finecooking"><a href="https://finecooking.ru/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom"><img src="https://finecooking.ru/images/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom/photo/960w.jpg"></a><p>Готовим пышные оладьи на кефире с зеленым луком и яйцами. Ароматные, сытные и очень вкусные пухляши - отменный завтрак или закусочный вариант со сметаной!</p>
  <p class="titl"><a href="https://finecooking.ru/recipe/pyshnye-oladi-na-kefire-s-yaycami-i-zelenym-lukom">Пышные оладьи на кефире с яйцами и зеленым луком</a></p></div>
 </div><!--n:finecooking.ru/Пышные оладьи на кефире с яйцами и зеленым луком:s:1309487:e:794-->
+<!----><!--2026-10-03 16:09:33-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184643/"><img src="https://www.povarenok.ru/data/cache/2026oct/03/54/3239867_59378-640x480.jpg"></a>Лёгкий, но сытный салат с соей — идеальный вариант для полезного обеда или ужина! Нежные отварные соевые бобы, свежий огурец и ароматная зелень делают блюдо приятным и изысканным. Отличный выбор, если хочется чего&#8209;то питательного, но не тяжёлого.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184643/">Салат из сои</a></p>
+</div><!--n:Поваренок.РУ/Салат из сои:s:1310410:e:814-->
+<!----><!--2026-10-03 16:10:54-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184644/"><img src="https://www.povarenok.ru/data/cache/2026oct/03/04/3239876_35366-640x480.jpg"></a>Нежная овсянка, пропитанная кефиром, плюс хрустящие орехи — это сытно, полезно и очень вкусно. 
+Ни грамма добавленного сахара!</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184644/">Ленивая овсянка с орехами</a></p>
+</div><!--n:Поваренок.РУ/Ленивая овсянка с орехами:s:1311296:e:614-->
+<!----><!--2026-10-03 21:33:04-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184645/"><img src="https://www.povarenok.ru/data/cache/2026oct/03/31/3239936_47037-640x480.jpg"></a>Интригующее и освежающее сочетание горячего и холодного : горячий рис, с горячим яйцом, сливочное масло и холодные маринованные огурцы.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184645/">Рис с маринованными огурцами</a></p>
+</div><!--n:Поваренок.РУ/Рис с маринованными огурцами:s:1312007:e:636-->
+<!----><!--2026-10-04 14:29:45-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184649/"><img src="https://www.povarenok.ru/data/cache/2026oct/03/44/3239939_62790-640x480.jpg"></a>Интересную заготовку из корневого сельдерея первоначально увидела в кулинарном сборнике, а уже потом и в интернете. Нарезка может быть любая, я выбрала кубиком, так удобно добавлять в сборный салат, или оставить, как самостоятельную закуску, добавив растительное масло.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184649/">Сельдерей в кисло-сладкой заливке</a></p>
+</div><!--n:Поваренок.РУ/Сельдерей в кисло-сладкой заливке:s:1312746:e:891-->
+<!----><!--2026-10-04 13:24:58-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184648/"><img src="https://www.povarenok.ru/data/cache/2026oct/04/47/3240070_70459-640x480.jpg"></a>Суп из индейки и чечевицы — это сытное, но при этом довольно лёгкое и полезное блюдо. Индейка даёт нежный мясной вкус, а чечевица добавляет растительный белок и приятную кремовую текстуру бульону.
+Вкусный, насыщенный суп, лёгкий по составу и калорийности.
+Подходит для детского и диетического питания.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184648/">Суп из индейки с овощами и чечевицей</a></p>
+</div><!--n:Поваренок.РУ/Суп из индейки с овощами и чечевицей:s:1313749:e:952-->
+<!----><!--2026-10-04 08:35:27-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184647/"><img src="https://www.povarenok.ru/data/cache/2026oct/04/25/3239989_47754-640x480.jpg"></a>Яркое, вкусное и полезное блюдо для вегетарианского меню и не только. Тыква на сковороде с овощами - это отличное постное блюдо на обед или ужин. Блюдо универсально. Это и холодная, и горячая закуска. Также его можно подавать в качестве гарнира к мясу, рыбе или птице. Максимум бета-каротина в одной тарелке. В помощь мне посуда от...</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184647/">Тыква с овощами на сковороде</a></p>
+</div><!--n:Поваренок.РУ/Тыква с овощами на сковороде:s:1314817:e:987-->
+<!----><!--2026-10-05 08:45:45-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184652/"><img src="https://www.povarenok.ru/data/cache/2026oct/05/16/3240149_73932-640x480.jpg"></a>Фрикадельки, приготовленные в чудесном сливочно-тыквенном соусе карри! Прекрасный вариант к обеду или ужину! Сочно и ароматно. 
+В помощь мне посуда от KUKMARA.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184652/">Фрикадельки в сливочно-тыквенном соусе карри</a></p>
+</div><!--n:Поваренок.РУ/Фрикадельки в сливочно-тыквенном соусе карри:s:1315906:e:701-->
+<!----><!--2026-10-05 16:24:12-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184654/"><img src="https://www.povarenok.ru/data/cache/2026oct/05/56/3240140_34557-640x480.jpg"></a>Конвертики из лаваша с ветчиной и сыром на сковороде готовятся очень быстро и просто, при этом они получаются невероятно вкусные. В начинку можно добавить укроп и любимые специи ( копчёную паприку).
+Яично-сметанный соус делает конвертики очень мягкими и нежными, получаются почти пирожки. Идеальный перекус, с собой на работу или...</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184654/">Ветчинно-сырные конвертики в лаваше</a></p>
+</div><!--n:Поваренок.РУ/Ветчинно-сырные конвертики в лаваше:s:1316740:e:1005-->
+<!----><!--2026-10-05 13:54:16-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184653/"><img src="https://www.povarenok.ru/data/cache/2026oct/05/31/3240184_44046-640x480.jpg"></a>Солянка, мясная, сборная - с обилием мяса и колбасных изделий... Мммм, кто ж её не любит?! Ещё один вариант в копилочку любителей. Рекомендую.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184653/">Солянка сборная с помидорами</a></p>
+</div><!--n:Поваренок.РУ/Солянка сборная с помидорами:s:1317862:e:639-->
+<!----><!--2026-10-05 16:11:37-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/govyadina-po-kremlevski-klassicheski-poshagovyy-recept/photo/960w.jpg" width="960" alt="Говядина по-кремлевски - классический пошаговый рецепт"><p>Говядина по-кремлевски - легендарное мясное блюдо с мягким мясом и насыщенным сливочно-луковым соусом. В этом рецепте говядина готовится в кастрюле на плите - без предварительной обжарки. Она долго томится под слоем лука и сливочного масла, поэтому получается особенно сочной и легко...</div>
+  <p class="titl"><a href="https://finecooking.ru/recipe/govyadina-po-kremlevski-klassicheski-poshagovyy-recept?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Говядина по-кремлевски - классический пошаговый рецепт</a></p>
+</div><!--n:finecooking.ru/Говядина по-кремлевски - классический пошаговый рецепт:s:1318604:e:1167-->

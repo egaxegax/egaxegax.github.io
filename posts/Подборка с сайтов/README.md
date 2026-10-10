@@ -58747,3 +58747,353 @@ http://dzen.ru/cifrohype?donate=true  Плавучая платформа Prelud
   <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/vlasti-podmoskovya-rasskazali-o-pravilakh-povedeniya-pri-vstreche-s-medvedem-03-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/02/22/7010218/1ba473e0e0cb2adabb8e7213226a3c77bc798bcd.JPG"></a>При встрече с медведем нельзя убегать от животного. Как рассказали агентству РИА Новости в Министерстве экологии и природопользования Московской области, в такой ситуации рекомендуется шуметь и поднять над головой одежду, чтобы визуально казаться выше.</div>
   <p class="titl"><a href="https://moslenta.ru/news/city/vlasti-podmoskovya-rasskazali-o-pravilakh-povedeniya-pri-vstreche-s-medvedem-03-10-2026.htm">Минэкологии Подмосковья: При встрече с медведем нельзя убегать</a></p>
 </div><!--n:Мослента/Минэкологии Подмосковья При встрече с медведем нельзя убегать:s:11633120:e:1085-->
+<!----><!--2026-10-03 11:05:37-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/dd5/f47/e4b/dd5f47e4b3a61b9f95e1cbda9ab53d92.png" /><p>NVIDIA&nbsp;<a href="https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/" rel="noopener nofollow">анонсировала</a>&nbsp;новую версию настольного AI-компьютера DGX Spark с 64 ГБ объединённой памяти. Продажи начнутся 23 октября через Acer, ASUS, Dell, Gigabyte, HP и MSI. Цена стартует с $4999.&nbsp;Аннотация 1</p> <a...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1089948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089948">NVIDIA представила AI-компьютер за $4999</a></p>
+</div><!--n:Хабр/NVIDIA представила AI-компьютер за 4999:s:11634365:e:847-->
+<!----><!--2026-10-03 12:50:17-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/934/aa4/982/934aa498210aa9f2a22323b5d248912c.jpeg" /><p>Сооснователь Anthropic и один из ключевых исследователей интерпретируемости моделей Кристофер Олах обсудил с религиозными и философскими исследователями вопрос: может ли современная языковая модель обладать субъективным опытом и, соответственно, испытывать страдание. Об этом пишет The New York Times. </p><p>По данным издания, Anthropic в течение нескольких...</div>
+  <p class="titl"><a href="https://habr.com/ru/companies/bothub/news/1089996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089996">Сооснователь Anthropic опасается, что Claude постоянно страдать</a></p>
+</div><!--n:Хабр/Сооснователь Anthropic опасается, что Claude постоянно страдать:s:11635309:e:1095-->
+<!----><!--2026-10-03 14:32:41-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d30/182/fa4/d30182fa4c2a2e6817be48d7050f1691.jpg" /><p>Разработчик, популяризатор браузерного гейминга и эмуляции, а также техноблогер Никита Аксёнов (aka Carter54)&nbsp;<a href="https://rgc.zone/ports/kbsweb/index.html" rel="noopener nofollow">представил</a> рабочую врсию Kerbal Space Program (KSP) в браузере. Это доработанный открытый проект <a href="https://github.com/woahhcrackers/KSPWeb" rel="noopener...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1090010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090010">Представлен Kerbal Space Program (KSP) в браузере</a></p>
+</div><!--n:Хабр/Представлен Kerbal Space Program (KSP) в браузере:s:11636545:e:911-->
+<!----><!--2026-10-03 09:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Роботы-мойщики окон крепятся к стеклу, передвигаются по поверхности и очищают ее с помощью салфеток и моющего раствора. Если у вас много больших окон или панорамное остекление, то робот действительно способен существенно облегчить уборку. Если же окон немного и они небольшие, то практичнее может оказаться хороший аккумуляторный стеклоочиститель или многофункциональный прибор с паром.</div>
+  <p class="titl"><a href="https://www.ixbt.com/home/how-to-choose-a-robotic-window-cleaner-2026.html">Чем помыть окна: как выбрать робота-мойщика окон и есть ли ему альтернативы</a></p>
+</div><!--n:iXBT.com/Чем помыть окна как выбрать робота-мойщика окон и есть ли ему альтернативы:s:11637561:e:1068-->
+<!----><!--2026-10-03 18:55:05-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/x_beyond_the_frontier/news/glava_egosoft_priznalsya_v_butaforskoj_ekonomike_kultovoj_x_beyond_the_frontier-1879003#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/f4u8vtyMBCLPPfS5imwg6w.png"></a>Полноценная экономическая симуляция в серии космических песочниц от немецкой студии Egosoft долгие годы считалась ключевой визитной карточкой франшизы. Однако в ретроспективном видео, посвященном 25-летию серии, основатель и руководитель компании Бернд Лехан сделал неожиданное признание касательно...</div>
+  <p class="titl"><a href="https://www.playground.ru/x_beyond_the_frontier/news/glava_egosoft_priznalsya_v_butaforskoj_ekonomike_kultovoj_x_beyond_the_frontier-1879003#utm_source=rss&utm_medium=referral&utm_campaign=news">Глава Egosoft признался в бутафорской экономике культовой X: Beyond the Frontier</a></p>
+</div><!--n:PlayGround.ru/Глава Egosoft признался в бутафорской экономике культовой X Beyond the Frontier:s:11638802:e:1285-->
+<!----><!--2026-10-03 18:24:11-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/everspace_2/news/razrabotchiki_everspace_2_potoropilis_s_finalnym_obnovleniem_i_priznali_proval_svoih_planov-1878994#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/BMF6dsmzI6n1oAD1esKt7w.png"></a>Студия Rockfish Games оказалась в крайне неловком положении после попытки официально завершить поддержку космического экшена Everspace 2. В начале сентября разработчики торжественно выпустили так называемое финальное обновление, рассчитывая поставить точку в развитии проекта и переключить...</div>
+  <p class="titl"><a href="https://www.playground.ru/everspace_2/news/razrabotchiki_everspace_2_potoropilis_s_finalnym_obnovleniem_i_priznali_proval_svoih_planov-1878994#utm_source=rss&utm_medium=referral&utm_campaign=news">Разработчики Everspace 2 поторопились с финальным обновлением и признали провал своих планов</a></p>
+</div><!--n:PlayGround.ru/Разработчики Everspace 2 поторопились с финальным обновлением и признали провал своих планов:s:11640252:e:1298-->
+<!----><!--2026-10-03 18:46:33-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/stars_reach/news/sozdateli_stars_reach_sosredotochilis_na_prodazhe_mercha_na_fone_problem_s_serverami_v_rannem_dostupe-1879002#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/lI0Ire2TDQCneo1NaEkGvA.png"></a>Студия Playable Worlds столкнулась с серьезными техническими проблемами после запуска космической песочницы Stars Reach в раннем доступе. Серверная инфраструктура проекта не справилась с нагрузкой при онлайне в 600 пользователей, что привело к волне рассинхронизаций, лагов...</div>
+  <p class="titl"><a href="https://www.playground.ru/stars_reach/news/sozdateli_stars_reach_sosredotochilis_na_prodazhe_mercha_na_fone_problem_s_serverami_v_rannem_dostupe-1879002#utm_source=rss&utm_medium=referral&utm_campaign=news">Создатели Stars Reach сосредоточились на продаже мерча на фоне проблем с серверами в раннем доступе</a></p>
+</div><!--n:PlayGround.ru/Создатели Stars Reach сосредоточились на продаже мерча на фоне проблем с серверами в раннем доступе:s:11641755:e:1292-->
+<!----><!--2026-10-03 18:30:47-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/aoc_anonsirovala_agon_pro_agp257ft_kibersportivnyj_monitor_s_chastotoj_obnovleniya_1050_gts-1878999#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/dv_vTNgbLqmFFmurpwWemw.png"></a>При частоте 1000 Гц интервал обновления дисплея составляет всего 1 мс, а при 1050 Гц сокращается примерно до 0,95 мс. Разница между этими значениями настолько мала, что заметить её практически невозможно. AOC заявляет о времени...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/aoc_anonsirovala_agon_pro_agp257ft_kibersportivnyj_monitor_s_chastotoj_obnovleniya_1050_gts-1878999#utm_source=rss&utm_medium=referral&utm_campaign=news">AOC анонсировала AGON PRO AGP257FT - киберспортивный монитор с частотой обновления 1050 Гц</a></p>
+</div><!--n:PlayGround.ru/AOC анонсировала AGON PRO AGP257FT - киберспортивный монитор с частотой обновления 1050 Гц:s:11643263:e:1147-->
+<!----><!--2026-10-03 18:13:07-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/call_of_duty_2026/news/team_ricochet_raskryla_server_culling_novuyu_tehnologiyu_protiv_wh_chitov_v_call_of_duty_modern_warfare_4-1878990#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/nZhW4TxJ3KRoJLBlCh9l0g.jpeg"></a>Суть технологии проста, но эффективна: сервер прекращает передавать клиентской части игры данные о местоположении противников, которые находятся за препятствиями и не видны игроку. Поскольку читерское ПО получает информацию именно от клиента, а не напрямую от...</div>
+  <p class="titl"><a href="https://www.playground.ru/call_of_duty_2026/news/team_ricochet_raskryla_server_culling_novuyu_tehnologiyu_protiv_wh_chitov_v_call_of_duty_modern_warfare_4-1878990#utm_source=rss&utm_medium=referral&utm_campaign=news">Team Ricochet раскрыла Server Culling - новую технологию против WH-читов в Call of Duty: Modern Warfare 4</a></p>
+</div><!--n:PlayGround.ru/Team Ricochet раскрыла Server Culling - новую технологию против WH-читов в Call of Duty Modern Warfare 4:s:11644597:e:1276-->
+<!----><!--2026-10-03 19:09:22-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal"><span style='color:#FF0000'><b>11</b></span> фото <a href='/go/?https%3A%2F%2Fpicturehistory.livejournal.com%2F11497751.html' target='_blank' class='url-link'><b>via</b></a><br><br>Где-то глубоко под землёй в Соединённых Штатах до сих пор лежат огромные запасы сыра. И это не городская легенда и не сюжет документалки на рнтв в 3 часа ночи - это реальность. В бывших известняковых шахтах, в штате Миссури, хранится примерно 635 тысяч тонн сыра и других молочных продуктов. <br><br><b>Эти подземные хранилища в народе называют &quot;сырными пещерами&quot;.</b> <br><br><a href="https://www.yaplakal.com/forum2/topic3127509.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/9/0/8/21302809.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3127509.html">Сырные пещеры США - как и зачем американское правительство хранило 635 тысяч тонн сыра под землей</a></p>
+</div><!--n:ЯПлакал/Сырные пещеры США - как и зачем американское правительство хранило 635 тысяч тонн сыра под землей:s:11646054:e:1385-->
+<!----><!--2026-10-03 20:37:18-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Производители тепличных овощей предложили ограничить продажу импортных огурцов и помидоров дешевле 200 рублей за килограмм.<br><br> Альтернативой может стать квота на ввоз около 300 тысяч тонн с очень высокой пошлиной сверх лимита или сезонные пошлины, заявил глава Плодоовощного союза Игорь Мозговенко.<br><br>По его словам, весной импортные томаты бывают в 2,5 раза дешевле российских, а себестоимость отечественных овощей выше отпускных цен импортёров.<br><br><a href="/go/?https%3A%2F%2Fkonkurent.ru%2Farticle%2F92071" target="_blank">via</a><br><br><a href="https://www.yaplakal.com/forum1/topic3127530.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/3/5/9/21302953.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3127530.html">В России хотят запретить дешёвые овощи</a></p>
+</div><!--n:ЯПлакал/В России хотят запретить дешёвые овощи:s:11647657:e:1346-->
+<!----><!--2026-10-03 13:52:55-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Как бы глупо не звучал вопрос. Тем не менее. Я могу сказать почему женщина нуждается в мужчине: защита,стабильность, воспроизводство, врожденное стратегическое и техническое мышление. <br><br>Без мужчины женщину будут везде наебывать и разводить, начиная от ремонта и заканчивая машиной ибо она никогда не поймет что важно в стройматериалах и запчастях и все в таком духе. Без мужчины женщина это буквально беспомощное существо, как паразит ищущий жертву. <br>При этом почему-то принято что мужчина должен добиваться паразита. Тратить ресурсы, энергию, чтобы что вообще? Вы скажете секс, женщины будут манипулировать только сексом мол &quot;онанист&quot; там &quot;женщины недают&quot; итд, при этом умолчат что секс с отношениях напроч пропадает или становиться тем же самым что онанизм. <br><br>Ну ладно не сразу но год два итд. Да и хрен с ним сексом он дико переценен, а что женщина может дать еще то что мужчина не может сам? <br><br>При этом мужчина все время тратит ресурсы, силы влипает в алименты ипотеки, решает бабские проблемы итд, а женщина не тратит ничего. Вы скажете готовка, уборка, но ведь женщины гораздо более неряшливы чем мужчины, а быт сейчас это 3 кнопки для которых женщина не нужна вообще.<br><br>Так с какого рожна мужчина должен добиваться по сути того кто в лучшем случае бесполезен, а чаще просто паразит а не наоборот? <br><br>При этом паразит еще в любой момент может соскочить и нарушить договоренности потому что бабочки заиграли к какому-нибудь обольстительному турку. <br><br><a href="https://www.yaplakal.com/forum7/topic3127409.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/6/8/2/21302286.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3127409.html">Зачем современному мужчине женщина и почему он должен ее добиваться, а не наоборот?</a></p>
+</div><!--n:ЯПлакал/Зачем современному мужчине женщина и почему он должен ее добиваться, а не наоборот:s:11649117:e:3195-->
+<!----><!--2026-10-03 18:45:00-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal"><span style='color:#FF0000'><b>37</b></span> фото <a href='/go/?https%3A%2F%2Fpicturehistory.livejournal.com%2F11492837.html%3Fes%3D1' target='_blank' class='url-link'><b>via</b></a><br><br>Творчество <b>Сергея Корсуна</b> представляет собой специфический феномен. Публика в больших дозах поглощает &quot;фирменный&quot; чёрный юмор карикатуриста и постоянно требует добавки. Корсун предлагает зрителю концентрированный, визуально и семантически грубый абсурд в самых тёмных тонах. Однако именно эта мрачность парадоксальным образом рождает мощный комический и терапевтический эффект и как нельзя лучше подходит для визуализации современной жизни. <br><br><a href="https://www.yaplakal.com/forum2/topic3127502.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/7/4/7/21302747.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3127502.html">Отборный чёрный юмор карикатур Сергея Корсуна</a></p>
+</div><!--n:ЯПлакал/Отборный чёрный юмор карикатур Сергея Корсуна:s:11652506:e:1480-->
+<!----><!--2026-10-04 02:48:29-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-moskovskoi-kvartire-obnaruzhili-raschlenennoe-telo-zhenshiny-04-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/03/23/7010338/d715120818374cd23576c0d4fb39fcbc0dc3d0f9.jpg"></a>В квартире на Жулебинском бульваре в Москве обнаружили расчлененное тело женщины. Об этом заявила Прокуратура Москвы в Telegram.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/v-moskovskoi-kvartire-obnaruzhili-raschlenennoe-telo-zhenshiny-04-10-2026.htm">В московской квартире нашли расчлененное тело женщины</a></p>
+</div><!--n:Мослента/В московской квартире нашли расчлененное тело женщины:s:11654114:e:803-->
+<!----><!--2026-10-04 04:53:42-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-moskve-nachala-rabotat-goryachaya-liniya-po-voprosam-otopleniya-04-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/04/01/7010341/d11fe1960ed8648d817cc444575b589856bfc8fc.jpg"></a>В российской столице начала работать горячая линия по вопросам отопления. Москвичи могут оставить заявку в случае, если с начала отопительного сезона батареи остаются холодными. Об этом сообщается на сайте мэра Москвы Сергея Собянина.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/v-moskve-nachala-rabotat-goryachaya-liniya-po-voprosam-otopleniya-04-10-2026.htm">В Москве начала работу горячая линия по вопросам отопления</a></p>
+</div><!--n:Мослента/В Москве начала работу горячая линия по вопросам отопления:s:11655061:e:1020-->
+<!----><!--2026-10-03 17:40:28-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/vrach-ocenila-polzu-askorbinok-02-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/02/10/7009960/7834495cdf1674c43bf354c190a13196f671cfdb.jpg"></a>Аскорбинки могут быть полезны при дефиците витамина С, однако при полноценном питании не дают заметных преимуществ. Об этом терапевт «СМ-Клиника» Алла Князева рассказала «Газете.Ru».</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/vrach-ocenila-polzu-askorbinok-02-10-2026.htm">Врач Князева: Аскорбинки полезны при дефиците витамина C</a></p>
+</div><!--n:Мослента/Врач Князева Аскорбинки полезны при дефиците витамина C:s:11656234:e:849-->
+<!----><!--2026-10-03 10:30:02-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/bezhevykh-mam-predupredili-o-narushenii-razvitiya-zreniya-rebenka-02-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/02/08/7009911/92550136c80ec8e99b0aab3a9d3360fe4222b5f8.jpg"></a>Родители, которые стремятся к минималистическим «бежевым» интерьерам в детских комнатах, могут неосознанно нарушать созревание сетчатки и зрительных центров мозга у ребенка. Об этом предупредила детский офтальмолог АО «Медицина» (клиника академика Ройтберга) Анна Синютина в беседе с «Газетой.Ru» .</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/bezhevykh-mam-predupredili-o-narushenii-razvitiya-zreniya-rebenka-02-10-2026.htm">Врач Синютина: «Бежевые мамы» могут нарушить созревание сетчатки у ребенка</a></p>
+</div><!--n:Мослента/Врач Синютина Бежевые мамы могут нарушить созревание сетчатки у ребенка:s:11657229:e:1170-->
+<!----><!--2026-10-04 06:32:54-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/zhitelyam-moskvy-rasskazali-o-pogode-v-voskresene-04-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/04/03/7010344/5fd1d87f0bad8a44407992533ed17b5bc28db802.jpg"></a>Переменная облачность и до 13 градусов тепла прогнозируется в российской столице в воскресенье, 4 октября. Об этом сообщает Гидрометцентр России.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/zhitelyam-moskvy-rasskazali-o-pogode-v-voskresene-04-10-2026.htm">В Москве 4 октября ожидается переменная облачность и до 13 градусов тепла</a></p>
+</div><!--n:Мослента/В Москве 4 октября ожидается переменная облачность и до 13 градусов тепла:s:11658577:e:845-->
+<!----><!--2026-10-03 23:58:34-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichka-vyzvala-policiyu-iz-za-slishkom-strastnykh-sosedei-03-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/03/20/7010335/f4505cdbff1b5e068122582ecad844b13030a745.jpg"></a>Жительница Москвы вызвала полицию из-за соседей, которые слишком громко предавалась страсти поздним вечером. Об инциденте, случившемся в многоэтажном доме на северо-востоке столицы, пишет «Москва 24» в MAX.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/moskvichka-vyzvala-policiyu-iz-za-slishkom-strastnykh-sosedei-03-10-2026.htm">В Москве женщина вызвала полицию из-за слишком страстных соседей</a></p>
+</div><!--n:Мослента/В Москве женщина вызвала полицию из-за слишком страстных соседей:s:11659598:e:965-->
+<!----><!--2026-10-04 14:09:20-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/bf4/009/9c1/bf40099c1ab97ff0bec3c31822fd1c4b.png" /><p><a href="https://github.com/nordstjernen-web/northstar-browser" rel="noopener nofollow">Представлен</a> открытый минималистичный браузер <a href="https://nordstjernen.org/northstar-browser/#about" rel="noopener nofollow">Northstar</a>, написанный полностью с нуля на языке C. Одно окно, одна страница, один процесс — около 170 000 строк оригинального кода на C. В...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1090182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090182">Представлен открытый минималистичный браузер Northstar, написанный полностью с нуля на языке C</a></p>
+</div><!--n:Хабр/Представлен открытый минималистичный браузер Northstar, написанный полностью с нуля на языке C:s:11660726:e:1010-->
+<!----><!--2026-10-04 10:37:41-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/950/f63/2fb/950f632fb702f1cd46f1421be24c51e5.JPG" /><p>Генеральный директор Tesla Илон Маск <a href="https://www.businessinsider.com/elon-musk-tesla-trying-to-stop-robotaxis-from-hitting-cats-2026-10" rel="noopener nofollow">объявил</a> о&nbsp;продлении времени работы сервиса роботакси Cybercab в&nbsp;Остине до 23:00. Он отметил, что&nbsp;теперь команда пытается решить неочевидную проблему, связанную с&nbsp;тем, то...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1090120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090120">В Tesla стали бороться с проблемой распознавания животных Cybercab</a></p>
+</div><!--n:Хабр/В Tesla стали бороться с проблемой распознавания животных Cybercab:s:11661939:e:977-->
+<!----><!--2026-10-04 11:21:32-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/a83/710/a7c/a83710a7cc0b2eee81fd49d5d3e05e46.jpg" /><p>Японская Nintendo <a href="https://mariokarttour.com/en-US" rel="noopener nofollow">закрыла</a> проект мобильной игры Mario Kart Tour, о&nbsp;чём платформодержать <a href="https://www.videogameschronicle.com/news/mario-kart-tour-is-being-permanently-shut-down-and-features-disabled/" rel="noopener nofollow">предупреждал</a> ещё в&nbsp;июле этого года. Бесплатная...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1090142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090142">Nintendo закрыла мобильную игру Mario Kart Tour</a></p>
+</div><!--n:Хабр/Nintendo закрыла мобильную игру Mario Kart Tour:s:11663063:e:869-->
+<!----><!--2026-10-04 09:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Кухонный комбайн постепенно становится этаким динозавром на кухне: его могут позволить себе не все, зато на замену ему пришли более компактные приборы с тем же и даже бо́льшим набором функций.</div>
+  <p class="titl"><a href="https://www.ixbt.com/home/5-replacements-for-a-food-processor-2026.html">Чем заменить кухонный комбайн: 5 протестированных приборов</a></p>
+</div><!--n:iXBT.com/Чем заменить кухонный комбайн 5 протестированных приборов:s:11664035:e:674-->
+<!----><!--2026-10-04 19:12:59-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/mstiteli_final_vnov_stali_samym_kassovym_filmom_v_istorii_sbory_vyrosli_do_2_93_mlrd_i_oboshli_pervyj_avatar-1879246#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/5yP5hXrWOx02jd51pTD7uQ.webp"></a>"Мстители: Финал" вновь стали самым кассовым фильмом в истории мирового проката. Благодаря повторному прокату Avengers Endgame: Encore общие сборы картины Marvel Studios достигли примерно $2,9255 млрд, что позволило ей обойти первый "Аватар" Джеймса Кэмерона с...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/mstiteli_final_vnov_stali_samym_kassovym_filmom_v_istorii_sbory_vyrosli_do_2_93_mlrd_i_oboshli_pervyj_avatar-1879246#utm_source=rss&utm_medium=referral&utm_campaign=news">"Мстители: Финал" вновь стали самым кассовым фильмом в истории - сборы выросли до $2,93 млрд и обошли первый "Аватар"</a></p>
+</div><!--n:PlayGround.ru/Мстители Финал вновь стали самым кассовым фильмом в истории - сборы выросли до 2,93 млрд и обошли первый Аватар:s:11664852:e:1279-->
+<!----><!--2026-10-04 18:59:55-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/pokupatel_dvazhdy_zakazal_ryzen_7_9850x3d_na_amazon_i_oba_raza_poluchil_staryj_intel_core_i3_v_zapechatannoj_korobke-1879242#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/P3vvstB_PKZPQ4JA7pKBqg.jpeg"></a>Пользователь Reddit под ником u/BitProfessional3792 рассказал, что заказал на Amazon процессор AMD Ryzen 7 9850X3D вместе с материнской платой MSI MAG X870E Carbon для сборки или обновления своего ПК. Оба товара продавались и доставлялись непосредственно...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/pokupatel_dvazhdy_zakazal_ryzen_7_9850x3d_na_amazon_i_oba_raza_poluchil_staryj_intel_core_i3_v_zapechatannoj_korobke-1879242#utm_source=rss&utm_medium=referral&utm_campaign=news">Покупатель дважды заказал Ryzen 7 9850X3D на Amazon и оба раза получил старый Intel Core i3 в запечатанной коробке</a></p>
+</div><!--n:PlayGround.ru/Покупатель дважды заказал Ryzen 7 9850X3D на Amazon и оба раза получил старый Intel Core i3 в запечатанной коробке:s:11666372:e:1239-->
+<!----><!--2026-10-04 18:26:34-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/league_of_legends/news/obyavlena_data_vyhoda_muzykalnogo_klipa_league_of_legends_worlds_2026-1879230#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/EJhWcyk2bkIhJlWJxvFKhQ.jpeg"></a>Riot Games объявили дату выхода музыкального клипа Worlds 2026, который будет посвящен Faker, а премьера состоится 8 октября.</div>
+  <p class="titl"><a href="https://www.playground.ru/league_of_legends/news/obyavlena_data_vyhoda_muzykalnogo_klipa_league_of_legends_worlds_2026-1879230#utm_source=rss&utm_medium=referral&utm_campaign=news">Объявлена дата выхода музыкального клипа League of Legends Worlds 2026</a></p>
+</div><!--n:PlayGround.ru/Объявлена дата выхода музыкального клипа League of Legends Worlds 2026:s:11667833:e:893-->
+<!----><!--2026-10-04 19:24:06-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/skolko_skolko_spider_man_brand_new_day_preodolel_otmetku_2_5_mlrd_v_mirovom_prokate-1879249#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/TTJ8BCLS7Q-ZSsSodCBEHw.png"></a>Мировые сборы Spider-Man: Brand New Day превысили впечатляющую отметку в $2,5 млрд. Картина с Томом Холландом продолжает устанавливать кассовые достижения спустя более двух месяцев после начала проката.</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/skolko_skolko_spider_man_brand_new_day_preodolel_otmetku_2_5_mlrd_v_mirovom_prokate-1879249#utm_source=rss&utm_medium=referral&utm_campaign=news">Сколько-сколько? Spider-Man: Brand New Day преодолел отметку $2,5 млрд в мировом прокате</a></p>
+</div><!--n:PlayGround.ru/Сколько-сколько Spider-Man Brand New Day преодолел отметку 2,5 млрд в мировом прокате:s:11668873:e:1070-->
+<!----><!--2026-10-04 18:47:58-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/witcher_3_wild_hunt/news/na_vyhodnyh_remaster_the_witcher_3_ustanovil_novyj_rekord_onlajna_v_steam_bolee_137_tys_igrokov-1879240#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/gAavTQOTD5_LCDSjpQUuWA.jpeg"></a>The Witcher 3: Wild Hunt - великолепная игра, полюбившаяся геймерам сразу после выхода; её оценили как поклонники книжной серии, так и просто любители экшен-RPG с открытым миром.</div>
+  <p class="titl"><a href="https://www.playground.ru/witcher_3_wild_hunt/news/na_vyhodnyh_remaster_the_witcher_3_ustanovil_novyj_rekord_onlajna_v_steam_bolee_137_tys_igrokov-1879240#utm_source=rss&utm_medium=referral&utm_campaign=news">На выходных ремастер The Witcher 3 установил новый рекорд онлайна в Steam - более 137 тыс игроков</a></p>
+</div><!--n:PlayGround.ru/На выходных ремастер The Witcher 3 установил новый рекорд онлайна в Steam - более 137 тыс игроков:s:11670119:e:1097-->
+<!----><!--2026-10-04 17:02:42-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">В фильме «Покровские ворота» на глазах зрителей формируются три пары влюбленных: Маргарита Павловна и Савва Игнатьевич, Рита и Костик, Людочка и Хоботов. И если с первыми двумя все более-менее понятно и предсказуемо, то роман Льва Евгеньевича с очаровательной медсестричкой у многих вызывает недоумение.<br><br> Зачем этот нелепый немолодой человек нужен Людочке? Ведь у нее, надо полагать, и без него немало ухажеров. Попробуем разобраться, какие мотивы руководили медсестрой. <br><br><a href="https://www.yaplakal.com/forum2/topic3127791.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/8/2/4/21304428.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3127791.html">5 главных причин, почему хорошенькая Людочка из «Покровских ворот» полюбила пожилого нескладного Хоботова</a></p>
+</div><!--n:ЯПлакал/5 главных причин, почему хорошенькая Людочка из Покровских ворот полюбила пожилого нескладного Хоботова:s:11671416:e:1428-->
+<!----><!--2026-10-03 19:18:08-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal"><a href='/go/?https%3A%2F%2Fcheshirrrko.livejournal.com%2F194120.html' target='_blank' class='url-link'><span style='color:#3333FF'><b>© ЧеширКо</b></span></a><br><br>Серый проснулся посреди ночи от страшного грохота и криков, доносившихся из соседней квартиры. Посмотрел на часы – без пятнадцати четыре. Недовольно покачав головой, он перевернулся на другой бок и снова стал проваливаться в сон, но за стеной снова что-то упало и тут же завизжала женщина, а затем что-то покатилось по полу.<br><br>Серый вскочил на ноги и подошел к стене. Занеся руку, он собрался уже было постучать в нее кулаком, как он это всегда делал, чтобы сообщить соседям о том, что они здесь не одни, но вдруг опустил руку и разжал пальцы.<br><br>– Надо пойти и разобраться, – сам себе сказал он, – просто пойти и сказать все, что я о них думаю. Надо разговаривать.<br><br>Несколько минут он собирался с духом, прохаживаясь по комнате вперед и назад, репетируя в голове обличительную речь, которую он выпалит в лица этих громогласных негодяев. Так ничего толкового и не придумав, он снова подошел к стене. За ней послышались всхлипы и какое-то глухое бормотание. Сделав несколько вдохов и выдохов, Серый сжал кулаки и шагнул сквозь стену.<br><br>Оказавшись в соседней квартире, он замер на месте, рассматривая картину, которая открылась перед ним. Забившись в угол, на полу сидела женщина. В руках она держала распятие, обхватив его трясущимися пальцами. Ее глаза были широко распахнуты от ужаса, на щеках виднелись дорожки от слез. Губы дрожали – она что-то бубнила себе под нос, то ли читая молитву, то ли просто повторяя какой-то набор слов. Ее взгляд был направлен в угол напротив. Там, под самым потолком, к стене будто бы прилип маленький черный человечек. Его лицо напоминало кукольное – глаза будто из пластмассы без остановки крутились по кругу, как бильярдные шары – то показывая крошечные черные зрачки, то снова становясь полностью белыми. Носа у него не было, зато сразу под глазами зияло отверстие,...</div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum7/topic3127511.html">Соседские разборки</a></p>
+</div><!--n:ЯПлакал/Соседские разборки:s:11673079:e:3680-->
+<!----><!--2026-10-05 00:10:06-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">...<br><br><a href="https://www.yaplakal.com/forum2/topic3127904.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/8/9/1/21305198.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3127904.html">Смотри, какая неженка</a></p>
+</div><!--n:ЯПлакал/Смотри, какая неженка:s:11676837:e:405-->
+<!----><!--2026-10-04 10:40:33-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/nazvano-neozhidannoe-posledstvie-upotrebleniya-promyshlennykh-kolbas-i-vypechki-04-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/02/10/7009968/134374c254858098225c28cb8ced03a1743e27be.jpg"></a>Регулярное употребление ультрапереработанной пищи может привести к депрессии. Об этом говорится в исследовании, опубликованном в журнале JAMA Psychiatry.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/nazvano-neozhidannoe-posledstvie-upotrebleniya-promyshlennykh-kolbas-i-vypechki-04-10-2026.htm">JAMA Psychiatry: Употребление ультрапереработанной пищи может привести к депрессии</a></p>
+</div><!--n:Мослента/JAMA Psychiatry Употребление ультрапереработанной пищи может привести к депрессии:s:11677323:e:923-->
+<!----><!--2026-10-05 06:15:36-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/v-podmoskove-dvoe-neizvestnykh-podozhgli-chuzhoi-avtomobil-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/03/7010432/4325d654366e421c765e3e5d1e235626f91510e0.jpg"></a>В Подмосковье полицейские разыскивают злоумышленников, подозреваемых в поджоге автомобиля в Ленинском городском округе. Об этом информирует пресс-служба Главного управления МВД России по Московской области.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/v-podmoskove-dvoe-neizvestnykh-podozhgli-chuzhoi-avtomobil-05-10-2026.htm">МВД: полиция разыскивает злоумышленников, подозреваемых в поджоге автомобиля в Подмосковье</a></p>
+</div><!--n:Мослента/МВД полиция разыскивает злоумышленников, подозреваемых в поджоге автомобиля в Подмосковье:s:11678430:e:1022-->
+<!----><!--2026-10-05 03:53:32-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskvichka-lishilas-porsche-pochti-za-10-millionov-rublei-iz-za-interpola-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/00/7010429/d75bb69ec533f8007175712dba32e137927652e6.jpg"></a>Москвичка потратила несколько миллионов на Porsche Cayenne, который, как выяснилось, находился в розыске Интерпола. О необычном инциденте сообщил РЕН ТВ.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskvichka-lishilas-porsche-pochti-za-10-millionov-rublei-iz-za-interpola-05-10-2026.htm">РЕН ТВ: у москвички изъяли Porsche Cayenne почти за 10 миллионов рублей из-за Интерпола</a></p>
+</div><!--n:Мослента/РЕН ТВ у москвички изъяли Porsche Cayenne почти за 10 миллионов рублей из-за Интерпола:s:11679665:e:909-->
+<!----><!--2026-10-05 03:42:12-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/efimov-soobshil-o-stroitelstve-bolee-20-novykh-stancii-na-shesti-liniyakh-metro-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/00/7010426/424a3ddb03ba2c6cab54809ac66774cc5543fdb7.jpg"></a>На сегодня в Москве идет строительство более 20 станций на шести линиях метрополитена. Об этом рассказал глава столичного Комплекса градостроительной политики и строительства Владимир Ефимов, пишет портал mos.ru.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/efimov-soobshil-o-stroitelstve-bolee-20-novykh-stancii-na-shesti-liniyakh-metro-05-10-2026.htm">Ефимов: в столице идет строительство более 20 станций на шести линиях метро</a></p>
+</div><!--n:Мослента/Ефимов в столице идет строительство более 20 станций на шести линиях метро:s:11680760:e:1030-->
+<!----><!--2026-10-05 06:26:12-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-moskve-ogranichili-dvizhenie-transporta-na-dvukh-ulicakh-na-1-5-goda-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/03/7010435/c13a00782d7355a59801823fb98bde88653e5f9c.jpg"></a>Движение транспорта ограничили на участках улицы Фонвизина и местного проезда в районе улицы Яблочкова с 5 октября до 1 апреля 2027 года. Об этом сообщает пресс-служба департамента транспорта и развития дорожно-транспортной инфраструктуры Москвы.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/v-moskve-ogranichili-dvizhenie-transporta-na-dvukh-ulicakh-na-1-5-goda-05-10-2026.htm">Дептранс: движение ограничили в районе улиц Фонвизина и Яблочкова на 1,5 года</a></p>
+</div><!--n:Мослента/Дептранс движение ограничили в районе улиц Фонвизина и Яблочкова на 1,5 года:s:11681970:e:1079-->
+<!----><!--2026-10-04 18:01:39-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/tailand-04-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/02/13/7010017/568fc7819dce5b8b1d91e54e66fb7065480eaf8c.JPG"></a>В Таиланде россиянам лучше избегать купания в сомнительных водоемах и питья из непроверенных источников из-за риска заражения лептоспирозом. Такие рекомендации дал кандидат медицинских наук, доцент кафедры инфекционных болезней с курсами эпидемиологии и фтизиатрии РУДН Сергей Вознесенский, сообщает агентство «Москва».</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/tailand-04-10-2026.htm">Инфекционист Вознесенский призвал россиян в Таиланде избегать сомнительных водоемов</a></p>
+</div><!--n:Мослента/Инфекционист Вознесенский призвал россиян в Таиланде избегать сомнительных водоемов:s:11683232:e:1119-->
+<!----><!--2026-10-05 14:07:30-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/d61/d54/060/d61d540600fd3ac6478190da2f923b68.png" /><p>AGIMA запустила новый сайт и обновила продуктовую линейку, поставив в её центр ИИ-продукты. Сайт компании ведёт ИИ-агент: сотрудники ставят задачи в рабочем чате, агент вносит правки. Около тысячи страниц так переработали за месяц вместо года.</p> <a href="https://habr.com/ru/articles/1090572/#habracut">Читать далее</a></div>
+  <p class="titl"><a href="https://habr.com/ru/companies/agima/news/1090572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090572">AGIMA передала свой сайт ИИ-агенту и строит продуктовую линейку вокруг ИИ</a></p>
+</div><!--n:Хабр/AGIMA передала свой сайт ИИ-агенту и строит продуктовую линейку вокруг ИИ:s:11684554:e:1017-->
+<!----><!--2026-10-05 14:28:58-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/353/609/0ed/3536090ed16a78d273453eb5ae2d6220.jpg" /><p><strong>19–20 ноября в московском кампусе НИУ ВШЭ пройдёт фестиваль «Космос рядом» — центральное событие программы «Таланты для космоса». Рассказываем о встречах с инженерами и учёными, презентациях космических образовательных проектов и других возможностях программы фестиваля.</strong></p> <a href="https://habr.com/ru/articles/1090604/#habracut">Читать далее</a></div>
+  <p class="titl"><a href="https://habr.com/ru/news/1090604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090604">Фестиваль «Космос рядом»: профессии, технологии и будущее космоса</a></p>
+</div><!--n:Хабр/Фестиваль Космос рядом профессии, технологии и будущее космоса:s:11685738:e:1072-->
+<!----><!--2026-10-05 14:40:42-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/049/0fe/3fb/0490fe3fba58e8b6077288b6b096276b.jpg" /><p>Покупатель ПК с&nbsp;RTX 5090&nbsp;в&nbsp;магазине Micro Center в&nbsp;США рассказал, что&nbsp;при&nbsp;покупке его попросили предъявить водительские права и заполнить «декларацию» с&nbsp;запретом на&nbsp;экспорт устройства.</p> <a href="https://habr.com/ru/articles/1090608/#habracut">Читать далее</a></div>
+  <p class="titl"><a href="https://habr.com/ru/news/1090608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090608">Покупателя ПК с RTX 5090 в США попросили заполнить декларацию с запретом на вывоз и предъявить водительские права</a></p>
+</div><!--n:Хабр/Покупателя ПК с RTX 5090 в США попросили заполнить декларацию с запретом на вывоз и предъявить водительские права:s:11686963:e:1000-->
+<!----><!--2026-10-05 13:20:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Redmond BM7204 представляет собой достаточно простой в управлении массажер с хорошим набором настроек. Пользователь может выбрать скорость и направление вращения роликов, а также уровень подогрева. Предусмотрен и циклический режим, в котором направление вращения меняется каждую минуту. Массаж получается достаточно интенсивным, а крупные ролики хорошо ощущаются при работе с шеей, плечами и спиной. Подогрев при этом воспринимается как комфортное дополнение к механическому воздействию. Уровень шума во время работы очень низкий, а аккумуляторное питание избавляет от необходимости постоянно находиться рядом с розеткой.</div>
+  <p class="titl"><a href="https://www.ixbt.com/home/redmond-bm7204-review.html">Обзор массажера Redmond BM7204 для шеи и плеч</a></p>
+</div><!--n:iXBT.com/Обзор массажера Redmond BM7204 для шеи и плеч:s:11688202:e:1404-->
+<!----><!--2026-10-05 18:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Данный материал является третьим (и последним) обновлением нашего обзора карт MTT из Китая и посвящен тестированию их на последней актуальной версии драйверов (на сентябрь 2026-го). Увы, за прошедший год почти никаких изменений нет, нормальной поддержки API DX12 так и не появилось, список поддерживаемых западных игр почти не изменился, а сами карты по-прежнему недоступны за пределами Китая.</div>
+  <p class="titl"><a href="https://www.ixbt.com/3dv/moore-threads-mtt-s80-s70-review-2026.html">Обновленный обзор китайских видеоускорителей Moore Threads MTT S80 и S70 (сентябрь 2026 г.)</a></p>
+</div><!--n:iXBT.com/Обновленный обзор китайских видеоускорителей Moore Threads MTT S80 и S70 (сентябрь 2026 г.):s:11689713:e:1057-->
+<!----><!--2026-10-05 09:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">При цене около 4500 рублей Tronsmart T8 оказалась удачной современной портативной колонкой с нормальным звуком, широким набором возможностей и сравнительно небольшим количеством действительно раздражающих компромиссов. До лидеров по качеству звука она предсказуемо не дотягивает, зато среди близких по позиционированию моделей выглядит весьма уверенно. Корпус собран аккуратно и выглядит солидно, заявлена защита IPX7, предусмотрена ненавязчивая подсветка, а необычная акустическая конструкция действительно обеспечивает сравнительно широкую направленность.</div>
+  <p class="titl"><a href="https://www.ixbt.com/ds/tronsmart-t8-review.html">Обзор Bluetooth-колонки Tronsmart T8</a></p>
+</div><!--n:iXBT.com/Обзор Bluetooth-колонки Tronsmart T8:s:11690949:e:1263-->
+<!----><!--2026-10-05 18:41:57-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/windows_11_otmechaet_pyatiletie_1_milliard_polzovatelej_ii_integratsiya_i_perehod_ot_sporov_k_stabilnosti-1879453#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/JmnZqpEnNNZWJ77ez5QmAg.png"></a>5 октября 2021 года Microsoft официально выпустила Windows 11. Спустя пять лет платформа преодолела рубеж в 1 миллиард активных пользователей по всему миру, продемонстрировав высокие темпы адаптации среди потребителей и корпоративного сектора.</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/windows_11_otmechaet_pyatiletie_1_milliard_polzovatelej_ii_integratsiya_i_perehod_ot_sporov_k_stabilnosti-1879453#utm_source=rss&utm_medium=referral&utm_campaign=news">Windows 11 отмечает пятилетие: 1 миллиард пользователей, ИИ-интеграция и переход от споров к стабильности</a></p>
+</div><!--n:PlayGround.ru/Windows 11 отмечает пятилетие 1 миллиард пользователей, ИИ-интеграция и переход от споров к стабильности:s:11692297:e:1239-->
+<!----><!--2026-10-05 19:05:28-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/defilade/news/sozdatel_strategii_defilade_nazval_pogonyu_za_bezumnym_mikrokontrolem_tupikom_dlya_zhanra-1879457#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/4mcDhCd3c0nipoBoiH1d9g.png"></a>Повальное увлечение механикой безумного закликивания и погоней за высоким числом действий в минуту завело жанр стратегий в реальном времени в затяжной кризис. Разработчик олдскульной военной RTS Defilade открыто выступил против стандартов, навязанных соревновательными хитами вроде...</div>
+  <p class="titl"><a href="https://www.playground.ru/defilade/news/sozdatel_strategii_defilade_nazval_pogonyu_za_bezumnym_mikrokontrolem_tupikom_dlya_zhanra-1879457#utm_source=rss&utm_medium=referral&utm_campaign=news">Создатель стратегии Defilade назвал погоню за безумным микроконтролем тупиком для жанра</a></p>
+</div><!--n:PlayGround.ru/Создатель стратегии Defilade назвал погоню за безумным микроконтролем тупиком для жанра:s:11693761:e:1277-->
+<!----><!--2026-10-05 18:49:12-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/defilade/news/izdateli_atakuyut_avtora_strategii_defilade_i_grozyat_otlozhit_reliz_igry_do_vesny-1879454#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/oUiN6MFDA_0iSjGQQPQedw.png"></a>Внезапный ажиотаж вокруг изометрической военной стратегии Defilade обернулся для разработчика неожиданным вызовом. После публикации первого трейлера и демонстрации геймплейных кадров проект собрал свыше 100 000 добавлений в списки желаемого в сервисе Steam всего за несколько...</div>
+  <p class="titl"><a href="https://www.playground.ru/defilade/news/izdateli_atakuyut_avtora_strategii_defilade_i_grozyat_otlozhit_reliz_igry_do_vesny-1879454#utm_source=rss&utm_medium=referral&utm_campaign=news">Издатели атакуют автора стратегии Defilade и грозят отложить релиз игры до весны</a></p>
+</div><!--n:PlayGround.ru/Издатели атакуют автора стратегии Defilade и грозят отложить релиз игры до весны:s:11695236:e:1229-->
+<!----><!--2026-10-05 18:10:28-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/witcher_3_wild_hunt/news/cdpr_prodolzhaet_rabotu_nad_remasterom_the_witcher_3_studiya_soobschila_kakih_uluchshenij_stoit_zhdat-1879448#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/PUqVfBhkaZD4Bwz7YmSVDQ.png"></a>Релиз The Witcher 3 Remastered состоялся на прошлой неделе на ПК, PlayStation 5, Xbox Series X|S и Nintendo Switch 2, однако студия CD Projekt Red не прекратила работу над этой новой версией своей популярной ролевой...</div>
+  <p class="titl"><a href="https://www.playground.ru/witcher_3_wild_hunt/news/cdpr_prodolzhaet_rabotu_nad_remasterom_the_witcher_3_studiya_soobschila_kakih_uluchshenij_stoit_zhdat-1879448#utm_source=rss&utm_medium=referral&utm_campaign=news">CDPR продолжает работу над ремастером The Witcher 3 - студия сообщила каких улучшений стоит ждать</a></p>
+</div><!--n:PlayGround.ru/CDPR продолжает работу над ремастером The Witcher 3 - студия сообщила каких улучшений стоит ждать:s:11696648:e:1136-->
+<!----><!--2026-10-05 18:35:44-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/xgimi_predstavila_lazernyj_televizor_aura_3_s_nativnym_4k_pri_120_gts_i_ekranom_do_120_dyujmov-1879452#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/P7faTkvv0BLBRfV_EnSmOg.png"></a>Компания XGIMI запустила в Китае лазерный телевизор со сверхкоротким.throw - AURA 3, позиционируя его как первый в своей категории проектор со встроенной поддержкой нативного разрешения 4K при частоте 120 Гц через HDMI. Комплект с 100-дюймовым...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/xgimi_predstavila_lazernyj_televizor_aura_3_s_nativnym_4k_pri_120_gts_i_ekranom_do_120_dyujmov-1879452#utm_source=rss&utm_medium=referral&utm_campaign=news">XGIMI представила лазерный телевизор AURA 3 с нативным 4K при 120 Гц и экраном до 120 дюймов</a></p>
+</div><!--n:PlayGround.ru/XGIMI представила лазерный телевизор AURA 3 с нативным 4K при 120 Гц и экраном до 120 дюймов:s:11697990:e:1178-->
+<!----><!--2026-10-05 19:46:07-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">В продолжении темы: <a href='https://www.yaplakal.com/forum3/topic3127525.html' target='_blank' class='url-link'><br>Расчленённое тело женщины нашли в квартире в московском районе Жулебино</a><br><br>Сожитель матери был несогласен с выбором девушки и застрелил её.<br><br>Всё произошло первого октября. Предполагаемый убийца, 47-летний Теймураз, в этот день забрал дочь Елены с тренировки по теннису и отвез в свой гараж, где ремонтировал машины для клиентов. По дороге они поругались из-за дорогого мерседеса — девушка хотела купить его, а сожитель её мамы был против.<br><br>Конфликт разгорелся, мужчина взял пистолет и в порыве гнева выстрелил девушке в голову, она мгновенно умерла. Тело спрятал в гараже. Теймураз забрал её телефон и поехал домой. Он знал пароль и какое-то время переписывался с парнем девушки от её имени.<br><br>Поздно вечером дома он рассказал о случившемся Елене — у неё случилась истерика, Теймураз выстрелил в голову сожительнице, тело отнёс в ванную. После этого он вернулся в гараж и пилой расчленил труп молодой девушки и разложил куски по пакетам. На следующее утро то же самое проделал с телом Елены. Часть он успел прокрутить в мясорубке.<br><br>3 октября приехали взволнованные родственники — они не могли дозвониться до Церетели и забили тревогу. Тогда Теймураз со старой знакомой (она о преступлении не знала) сбежал в сторону Воронежской области, где его позже задержали. С собой он прихватил ролексы и серьги убитой сожительницы и пистолет. Теймураза арестовали до 3 декабря. <br><br>Он получил гражданство РФ в 2022 году, отказавшись от грузинского. По информации Mash, он познакомился с Еленой Церетели в 2020 году в ресторане в центре Москвы. После её развода с мужем — ресторатором Мамукой Церетели — в 2023 году они съехались на съёмной квартире. Теймураз работал доставщиком еды, у Елены была своя парикмахерская. Потом она купила ту самую квартиру на Жулебинском бульваре, где её нашли мёртвой в эту субботу.<br><br><a...</div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3128172.html">Причина убийства Елены Церетели и её дочери — конфликт из-за покупки дорогой машины</a></p>
+</div><!--n:ЯПлакал/Причина убийства Елены Церетели и её дочери конфликт из-за покупки дорогой машины:s:11699360:e:3785-->
+<!----><!--2026-10-05 15:09:20-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/zhenshiny-ustroili-draku-v-moskovskom-metro-i-popali-na-video-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/09/7010479/21bc90926795d4db37eaffd90542551ada4ee1bf.jpg"></a>Две женщины 37 и 60 лет устроили драку на платформе станции метро «Бауманская» в Москве. Ситуация попала на видео, которое публикует столичное МВД на своем сайте, также приводя подробности инцидента.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/zhenshiny-ustroili-draku-v-moskovskom-metro-i-popali-na-video-05-10-2026.htm">Драка двух женщин в московском метро попала на видео</a></p>
+</div><!--n:Мослента/Драка двух женщин в московском метро попала на видео:s:11703338:e:931-->
+<!----><!--2026-10-05 15:09:20-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/zhenshiny-ustroili-draku-v-moskovskom-metro-i-popali-na-video-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/09/7010479/21bc90926795d4db37eaffd90542551ada4ee1bf.jpg"></a>Две женщины 37 и 60 лет устроили драку на платформе станции метро «Бауманская» в Москве. Ситуация попала на видео, которое публикует столичное МВД на своем сайте, также приводя подробности инцидента.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/zhenshiny-ustroili-draku-v-moskovskom-metro-i-popali-na-video-05-10-2026.htm">Драка двух женщин в московском метро попала на видео</a></p>
+</div><!--n:Мослента/Драка двух женщин в московском метро попала на видео:s:11704409:e:931-->
+<!----><!--2026-10-05 23:27:57-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-moskve-kurerov-obyazhut-sdavat-test-na-znanie-pdd-06-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/20/7010647/68d27e16ae280e9c4d121b4dffe3371df0d8ed69.jpg"></a>Департамент транспорта Москвы запускает ежегодное тестирование для курьеров на знание правил дорожного движения (ПДД). Об этом рассказал заместитель мэра Москвы по вопросам транспорта и промышленности Максим Ликсутов, его слова приводятся в Telegram-канале департамента.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/v-moskve-kurerov-obyazhut-sdavat-test-na-znanie-pdd-06-10-2026.htm">Заммэра Москвы Ликсутов: Курьеров обяжут ежегодно сдавать тест на знание ПДД</a></p>
+</div><!--n:Мослента/Заммэра Москвы Ликсутов Курьеров обяжут ежегодно сдавать тест на знание ПДД:s:11705480:e:1087-->
+<!----><!--2026-10-05 13:43:49-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/znakharka-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/08/7010458/07052d3e7200e25330aed55cba9356d5358fb878.jpg"></a>Жительницу Москвы госпитализировали с кровавой рвотой после рецептов от ИИ-знахарки. Женщина полагала, что блогерша — настоящая целительница, сообщает SHOT.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/znakharka-05-10-2026.htm">Жительницу Москвы госпитализировали с кровавой рвотой после рецептов от ИИ-знахарки</a></p>
+</div><!--n:Мослента/Жительницу Москвы госпитализировали с кровавой рвотой после рецептов от ИИ-знахарки:s:11706752:e:812-->
+<!----><!--2026-10-06 01:04:02-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/bolee-500-tysyach-zhitelei-podmoskovya-proshli-vakcinaciyu-ot-grippa-06-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/22/7010650/b97a08ff5b26db00db08d79bb44a31f1737d74ed.jpg"></a>Почти 510 тысяч жителей Подмосковья прошли вакцинацию от гриппа с начала прививочной кампании. Об этом рассказал министр здравоохранения Московской области Максим Забелин, его слова приводит пресс-служба регионального Минздрава.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/bolee-500-tysyach-zhitelei-podmoskovya-proshli-vakcinaciyu-ot-grippa-06-10-2026.htm">Глава Минздрава Подмосковья Забелин: Вакцинацию от гриппа прошли почти 510 тысяч жителей</a></p>
+</div><!--n:Мослента/Глава Минздрава Подмосковья Забелин Вакцинацию от гриппа прошли почти 510 тысяч жителей:s:11707764:e:1071-->
+<!----><!--2026-10-05 17:35:25-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/shest-chelovek-spasli-iz-rabstva-v-podmoskove-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/13/7010580/d322cc23d7deb1fdf7e7b5cc42ee21d8a3156658.jpg"></a>Шесть человек спасли из&nbsp;рабства в&nbsp;подмосковном Раменском. Подробности сообщила РИА Новости старший помощник руководителя областного главка Следственного комитета России Ольга Врадий.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/shest-chelovek-spasli-iz-rabstva-v-podmoskove-05-10-2026.htm">В Раменском шесть человек спасли из рабства</a></p>
+</div><!--n:Мослента/В Раменском шесть человек спасли из рабства:s:11709040:e:873-->
+<!----><!--2026-10-06 01:19:59-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-moskve-poyavilis-novye-ostanovki-u-stancii-metro-yugo-zapadnaya-06-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/22/7010653/2fb4eaa4a00891ed6ee7e1982a97aa7bded98249.jpg"></a>В Москве появились новые остановки наземного общественного транспорта у станции метро «Юго-Западная» на улице Покрышкина. Об этом рассказали в столичном Дептрансе в социальной сети Max.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/v-moskve-poyavilis-novye-ostanovki-u-stancii-metro-yugo-zapadnaya-06-10-2026.htm">Дептранс: В Москве появились новые автобусные остановки у станции метро «Юго-Западная»</a></p>
+</div><!--n:Мослента/Дептранс В Москве появились новые автобусные остановки у станции метро Юго-Западная:s:11710037:e:980-->
+<!----><!--2026-10-05 16:15:23-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/v-podmoskove-khirurgi-spasli-muzhchinu-ot-pozhiznennoi-invalidnosti-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/09/7010478/3c99ec2020de82fe9a1dce416f67e81d55c1b0fd.jpg"></a>Врачи Подольской областной клинической больницы спасли мужчину от&nbsp;пожизненной инвалидности после серьезного&nbsp;ДТП. Об&nbsp;этом рассказали в&nbsp;пресс-службе Министерства здравоохранения Московской области.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/v-podmoskove-khirurgi-spasli-muzhchinu-ot-pozhiznennoi-invalidnosti-05-10-2026.htm">Подольские врачи спасли мужчину от пожизненной инвалидности после ДТП</a></p>
+</div><!--n:Мослента/Подольские врачи спасли мужчину от пожизненной инвалидности после ДТП:s:11711216:e:1002-->
+<!----><!--2026-10-06 07:13:47-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvicham-nazvali-samyi-teplyi-den-na-nedele-06-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/06/04/7010658/5975e0a9b56c95b4d3538d1e1b47a8c67e92d243.jpg"></a>Пятница, 9 октября, станет самым теплым днем в Московском регионе на неделе. Об этом в беседе с ТАСС рассказала ведущий сотрудник Гидрометцентра России Марина Макарова.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/moskvicham-nazvali-samyi-teplyi-den-na-nedele-06-10-2026.htm">Синоптик Макарова: Пятница будет самым теплым днем в Московском регионе на неделе</a></p>
+</div><!--n:Мослента/Синоптик Макарова Пятница будет самым теплым днем в Московском регионе на неделе:s:11712393:e:897-->
+<!----><!--2026-10-05 19:58:49-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/psikholog-raskryla-strashashikhsya-zhenskogo-uspekha-muzhchin-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/11/7010488/950733b88fdc36f872651d8139f62fb8d3ebdcf5.jpg"></a>Успешная и самостоятельная женщина в отношениях иногда становится не поводом для гордости, а источником напряжения. Страх перед сильной партнершей редко проявляется прямо — чаще он прячется в привычках и сценариях поведения. Психолог Ольга Романив рассказала «Мосленте», на что стоит обращать внимание.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/psikholog-raskryla-strashashikhsya-zhenskogo-uspekha-muzhchin-05-10-2026.htm">Психолог Романив назвала пять типов мужчин, которые боятся успешных женщин</a></p>
+</div><!--n:Мослента/Психолог Романив назвала пять типов мужчин, которые боятся успешных женщин:s:11713483:e:1172-->
+<!----><!--2026-10-05 17:58:40-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/avtoram-kontenta-v-messendzhere-max-stalo-dostupno-prodvizhenie-05-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/05/14/7010606/b65c6fa5f5e4b31aa54be045cf62321a7d1ceb0d.jpg"></a>Авторам контента в&nbsp;мессенджере MAX стало доступно продвижение. Теперь блогеры и&nbsp;предприниматели могут разместить таргетированную рекламу через кабинет VK&nbsp;Рекламы, сообщили «Мосленте» в&nbsp;пресс-службе соцсети.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/avtoram-kontenta-v-messendzhere-max-stalo-dostupno-prodvizhenie-05-10-2026.htm">Предпринимателям и авторам контента в МАХ предложили продвижение</a></p>
+</div><!--n:Мослента/Предпринимателям и авторам контента в МАХ предложили продвижение:s:11714838:e:998-->
+<!----><!--2026-10-06 14:39:00-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/012/eb3/f9d/012eb3f9d496260c8a81395f67c7f752.jpg" /><p>Российский ИТ-рынок вступает в фазу жесткой конкуренции: импортозамещение теряет роль драйвера, заказчик выбирает решения по эффективности и совместимости, а отрасль ищет новые точки роста. Куда движется рынок? За счет чего расти, когда конкуренция усиливается? И какую роль во всем этом играет ИИ?</p><p>Ответы будут искать 12 ноября на GuardConf в Москве —...</div>
+  <p class="titl"><a href="https://habr.com/ru/companies/aktiv-company/news/1091160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091160">Что ждет российский рынок ПО в 2027 году: обсудим на GuardConf</a></p>
+</div><!--n:Хабр/Что ждет российский рынок ПО в 2027 году обсудим на GuardConf:s:11716001:e:1110-->
+<!----><!--2026-10-06 14:44:20-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/cc7/67c/a7d/cc767ca7dc45683bbbc3a4aaf10c0845.png" /><p>Компания <strong>MarketScale</strong>, которая развивает B2B-платформу для создания и распространения экспертного контента, вчера <a href="https://www.marketscale.com/state-of-b2b-marketing" rel="noopener nofollow">обновила B2B Marketing Index</a> — регулярно пересчитываемый набор данных о том, как пять крупных ИИ-систем упоминают B2B-бренды и ссылаются на...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1091190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091190">Сравнили 461 тысячу AI-ответов: упоминание бренда не коррелирует с цитированием источника</a></p>
+</div><!--n:Хабр/Сравнили 461 тысячу AI-ответов упоминание бренда не коррелирует с цитированием источника:s:11717247:e:1047-->
+<!----><!--2026-10-06 14:38:13-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/getpro/habr/upload_files/dde/dc0/f69/ddedc0f6914433e60ef99c4c04d29dad.jpg" /><p>Моушн-дизайн традиционно остается одной из самых ресурсоемких задач в продакшене. Написание сценария, подбор футажей, анимация инфографики, синхронизация звука – всё это требует часов рутинной работы в тяжелых редакторах. Мы решили упростить этот процесс и добавили в наш пайплайн новый узелок – <strong>Grom Motion</strong>.</p><p>Он берет на себя монтаж видео,...</div>
+  <p class="titl"><a href="https://habr.com/ru/companies/gptunnel/news/1091186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091186">Моушн-дизайн за копейки: Grom Motion создаёт инфографику и рилсы одной кнопкой</a></p>
+</div><!--n:Хабр/Моушн-дизайн за копейки Grom Motion создаёт инфографику и рилсы одной кнопкой:s:11718491:e:1136-->
+<!----><!--2026-10-06 10:40:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Evolution SmartAir Evaporative 3 (HF-877 Smart) — это умный увлажнитель, работающий по методу естественного холодного испарения. Прибор работает в экосистеме умного дома Smart Life, поэтому им можно управлять дистанционно. Устройство может поддерживать заданный уровень влажности без капель и тумана, имеет встроенную УФ-стерилизацию и автоматическую просушку фильтра.</div>
+  <p class="titl"><a href="https://www.ixbt.com/home/evolution-hf877-review.html">Обзор умного увлажнителя воздуха Evolution SmartAir Evaporative 3 (HF-877 Smart)</a></p>
+</div><!--n:iXBT.com/Обзор умного увлажнителя воздуха Evolution SmartAir Evaporative 3 (HF-877 Smart):s:11719797:e:939-->
+<!----><!--2026-10-06 13:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">По сравнению с Tecno Megapad 11 новый планшет получил ряд улучшений: разрешение экрана увеличилось (хотя претензии к некоторым другим его параметрам у нас остались), появилась поддержка спутниковой навигации, дизайн стал лучше. Производительность и автономность остались на прежнем уровне, и в контексте всего остального это скорее плюс, чем минус. Устройство можно рекомендовать для чтения, просмотра видео, прочих задач, не предполагающих профессиональное использование.</div>
+  <p class="titl"><a href="https://www.ixbt.com/mobilepc/tecno-megapad-2-review.html">Обзор планшета Tecno Megapad 2</a></p>
+</div><!--n:iXBT.com/Обзор планшета Tecno Megapad 2:s:11720881:e:1100-->
+<!----><!--2026-10-06 19:16:12-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/warhammer_40000_dark_heresy/news/trejler_warhammer_40_000_dark_heresy_pokazyvaet_rassledovaniya_gde_nevinovnost_eschyo_nichego_ne_znachit-1879719#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/NlLzDR2dmmOaixaYaq72sA.jpeg"></a>Owlcat Games представила новый геймплейный трейлер Warhammer 40,000: Dark Heresy, посвящённый детективной системе ролевой игры. В роли аколита Инквизиции игрокам предстоит расследовать дела в глубинах Каликсиса, где поиск истины далеко не всегда становится главной целью...</div>
+  <p class="titl"><a href="https://www.playground.ru/warhammer_40000_dark_heresy/news/trejler_warhammer_40_000_dark_heresy_pokazyvaet_rassledovaniya_gde_nevinovnost_eschyo_nichego_ne_znachit-1879719#utm_source=rss&utm_medium=referral&utm_campaign=news">Трейлер Warhammer 40,000: Dark Heresy показывает расследования, где невиновность ещё ничего не значит</a></p>
+</div><!--n:PlayGround.ru/Трейлер Warhammer 40,000 Dark Heresy показывает расследования, где невиновность ещё ничего не значит:s:11722061:e:1304-->
+<!----><!--2026-10-06 19:19:47-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/battlefield_6/news/battlefield_6_otpravlyaetsya_v_las_vegas_v_trejlere_pyatogo_sezona_pokazali_novye_karty_himars_i_namyok_na_dead_space-1879721#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/C_zGCUKfCd5oBKz7v1OU6Q.jpeg"></a>EA представила геймплейный трейлер пятого сезона Battlefield 6, который стартует 13 октября. На этот раз сражения развернутся в Лас-Вегасе, а главным нововведением сезона станет сразу несколько новых локаций, оружия и игровых событий.</div>
+  <p class="titl"><a href="https://www.playground.ru/battlefield_6/news/battlefield_6_otpravlyaetsya_v_las_vegas_v_trejlere_pyatogo_sezona_pokazali_novye_karty_himars_i_namyok_na_dead_space-1879721#utm_source=rss&utm_medium=referral&utm_campaign=news">Battlefield 6 отправляется в Лас-Вегас: в трейлере пятого сезона показали новые карты, HIMARS и намёк на Dead Space</a></p>
+</div><!--n:PlayGround.ru/Battlefield 6 отправляется в Лас-Вегас в трейлере пятого сезона показали новые карты, HIMARS и намёк на Dead Space:s:11723569:e:1268-->
+<!----><!--2026-10-06 18:56:40-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/sinking_city_2/news/the_sinking_city_2_poluchila_krupnoe_obnovlenie_dobavlena_podderzhka_hdr_fsr_i_dazhe_ps5_pro-1879715#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/U_zO5gjaJUCV0feNayd9Gg.png"></a>Игра The Sinking City 2, вышедшая 18 августа, получила ряд существенных улучшений. Студия Frogwares выпустила бесплатное обновление версии 1.1.0 для PS5, Xbox Series и ПК.</div>
+  <p class="titl"><a href="https://www.playground.ru/sinking_city_2/news/the_sinking_city_2_poluchila_krupnoe_obnovlenie_dobavlena_podderzhka_hdr_fsr_i_dazhe_ps5_pro-1879715#utm_source=rss&utm_medium=referral&utm_campaign=news">The Sinking City 2 получила крупное обновление - добавлена поддержка HDR, FSR и даже PS5 Pro</a></p>
+</div><!--n:PlayGround.ru/The Sinking City 2 получила крупное обновление - добавлена поддержка HDR, FSR и даже PS5 Pro:s:11725061:e:1030-->
+<!----><!--2026-10-06 18:58:12-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/razrabotchiki_blender_planiruyut_polnostyu_otkazatsya_ot_podderzhki_opengl_v_versii_6_0-1879716#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/9FiGRuxLGvU6j3oMWw39Lw.png"></a>Создатели популярного графического пакета Blender рассматривают возможность полного отказа от графического интерфейса OpenGL. Согласно официальным отчетам рабочих встреч команды разработчиков, устаревший стандарт планируют окончательно убрать из кодовой базы программы к релизу Blender 6.0.</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/razrabotchiki_blender_planiruyut_polnostyu_otkazatsya_ot_podderzhki_opengl_v_versii_6_0-1879716#utm_source=rss&utm_medium=referral&utm_campaign=news">Разработчики Blender планируют полностью отказаться от поддержки OpenGL в версии 6.0</a></p>
+</div><!--n:PlayGround.ru/Разработчики Blender планируют полностью отказаться от поддержки OpenGL в версии 6.0:s:11726273:e:1255-->
+<!----><!--2026-10-06 19:17:42-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/dead_by_daylight/news/v_dead_by_daylight_startovala_kollaboratsiya_s_nier_automata-1879720#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/erBvFzAqhjhlJMKu2nmvtA.jpeg"></a>Сегодня студия-разработчик Behaviour Interactive в сотрудничестве с SQUARE ENIX объявила о выходе платной коллекции "NieR:Automata Collection" для асимметричного хоррора Dead by Daylight (формат 4 против 1).</div>
+  <p class="titl"><a href="https://www.playground.ru/dead_by_daylight/news/v_dead_by_daylight_startovala_kollaboratsiya_s_nier_automata-1879720#utm_source=rss&utm_medium=referral&utm_campaign=news">В Dead by Daylight стартовала коллаборация с NieR: Automata</a></p>
+</div><!--n:PlayGround.ru/В Dead by Daylight стартовала коллаборация с NieR Automata:s:11727712:e:959-->

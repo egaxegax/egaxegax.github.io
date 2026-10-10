@@ -95,14 +95,14 @@ if(!String(window.location).match(/file:|localhost|127.0.0.1/)){
   setTimeout(function(){
     document.querySelectorAll('#metrics1').forEach(function(e){
       (function(d,w,id){
-        (w._tmr = w._tmr || []).push({id:'3596974',type:'pageView',start:(new Date()).getTime()});
+        (w._tmr = w._tmr || []).push({id:'3799794',type:'pageView',start:(new Date()).getTime()});
         if (d.getElementById(id)) return;
         var ts = d.createElement('script'); ts.type = 'text/javascript'; ts.async = true; ts.id = id;
         ts.src = '//top-fwz1.mail.ru/js/code.js';
         var f = function(){var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
         if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
       })(document, window, 'tmr-code');
-      e.innerHTML += '<a class="gray" href="https://top.mail.ru/stat?id=3596974"><img data-cid="3596974" src="https://top-fwz1.mail.ru/counter?id=3596974;t=410;l=1" height="24" alt="Top.Mail.Ru" style="border:0;"></a>';
+      // e.innerHTML += '<img data-cid="3799794" src="//top-fwz1.mail.ru/counter?id=3799794;t=410;l=1" height="24" alt="Top.Mail.Ru" style="border:0;">';
     });
   },100);
 }

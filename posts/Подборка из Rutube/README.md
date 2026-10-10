@@ -30526,3 +30526,267 @@
     <i class="smaller3">2025-12-18</i>
   </div>
 </div><!--n:Компьютерные игры/Zombie Diner Simulator Первые минуты игры на ПК Без комментариев:s:2625307:e:811-->
+<!----><!--2026-10-03 11:43:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kak_poshchechina_v_las_vegase_zakonchilas_arestom_i_vozvrashcheniem_v_armeniju">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/63b47478e397395c9c1d927fa1ae1251/" src="http://pic.rtbcdn.ru/video/2026-10-03/db/af/dbafed479d5a76c4c05b890ddcd98628.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kak_poshchechina_v_las_vegase_zakonchilas_arestom_i_vozvrashcheniem_v_armeniju">Как пощечина в Лас Вегасе закончилась арестом и возвращением в Армению!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-03</i>
+  </div>
+</div><!--n:Одни из лучших/Как пощечина в Лас Вегасе закончилась арестом и возвращением в Армению:s:2626277:e:853-->
+<!----><!--2026-10-03 11:14:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_snova_v_dalnij_rejs_gotovlju_svoj_dom_na_kolesah_k_dvum_nedelyam_dorogi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7b0120cb3a169d163e5b7965d857314d/" src="http://pic.rtbcdn.ru/video/2026-10-03/23/f9/23f9362abd01337bf92e92d6267e5a66.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_snova_v_dalnij_rejs_gotovlju_svoj_dom_na_kolesah_k_dvum_nedelyam_dorogi">Новое: снова в дальний рейс. Готовлю свой дом на колёсах к двум неделям дороги!!!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-03</i>
+  </div>
+</div><!--n:Одни из лучших/Новое снова в дальний рейс. Готовлю свой дом на колёсах к двум неделям дороги:s:2627313:e:864-->
+<!----><!--2026-10-03 19:11:40-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_mosty_v_kieve_mogut_ruhnut_6_pryamyh_popadanij_spec-geranyami_03_10_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8e15111373121fbfe221aab0ffa8b32d/" src="http://pic.rtbcdn.ru/video/2026-10-03/fd/de/fddebdb0dc8f950e81f31fb83c730074.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_mosty_v_kieve_mogut_ruhnut_6_pryamyh_popadanij_spec-geranyami_03_10_26">Украинский фронт - мосты в Киеве могут рухнуть. 6 прямых попаданий спец-Геранями. 03.10.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-03</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - мосты в Киеве могут рухнуть. 6 прямых попаданий спец-Геранями. 03.10.26:s:2628370:e:875-->
+<!----><!--2026-10-03 16:56:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/gerani_nachali_ohotu_za_amerikankami_istrebitelyami_f-16_na_ukraine">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/35e59d9eda208b732ee6258b7ba7dcb3/" src="http://pic.rtbcdn.ru/video/2026-10-03/79/7d/797de3381d3945d9c1375de274a1dc8b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/gerani_nachali_ohotu_za_amerikankami_istrebitelyami_f-16_na_ukraine">«Герани» начали охоту за американками истребителями F-16 на Украине</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-03</i>
+  </div>
+</div><!--n:СВО/Герани начали охоту за американками истребителями F-16 на Украине:s:2629433:e:799-->
+<!----><!--2026-10-04 11:23:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_pochemu_v_amerike_net_normalnoj_lichnoj_jizni_u_dalnobojshchikov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2de56625e2f65f9b7abae9649cd1bd35/" src="http://pic.rtbcdn.ru/video/2026-10-04/61/95/61953b9f7770fb136cb5b21f5e8a3ced.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_pochemu_v_amerike_net_normalnoj_lichnoj_jizni_u_dalnobojshchikov">Воспоминания (ноябрь 2019): ПОЧЕМУ в Америке нет нормальной личной жизни у дальнобойщиков?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-04</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (ноябрь 2019) ПОЧЕМУ в Америке нет нормальной личной жизни у дальнобойщиков:s:2630383:e:907-->
+<!----><!--2026-10-04 14:40:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_iz_lejk-djordj_v_vermont_puteshestvie_po_neizvestnomu_nju-jorku_chast_4">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/595f910793be09f5ae5b19488cc5ec81/" src="http://pic.rtbcdn.ru/video/2026-10-04/eb/30/eb307dbadbda26262a7bfcdd38be44d4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_iz_lejk-djordj_v_vermont_puteshestvie_po_neizvestnomu_nju-jorku_chast_4">Samsebeskazal Denis: из Лейк-Джордж в Вермонт | Путешествие по неизвестному Нью-Йорку, часть 4</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-04</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis из Лейк-Джордж в Вермонт Путешествие по неизвестному Нью-Йорку, часть 4:s:2631502:e:900-->
+<!----><!--2026-10-04 15:30:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/lesli_nilsen_ot_pyatogo_plana_do_sobstvennogo_podjanra">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/dcbc9df9d6b9cd3fccf95b427e8b8f46/" src="http://pic.rtbcdn.ru/video/2026-10-04/f8/03/f80380fc24a6ef63c56d16c27d98c00b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/lesli_nilsen_ot_pyatogo_plana_do_sobstvennogo_podjanra">Лесли Нильсен – от пятого плана до собственного поджанра</a></p>
+    <p><i class="smaller2">GreenGrass</i></p>
+    <i class="smaller3">2026-10-04</i>
+  </div>
+</div><!--n:Мир кино/Лесли Нильсен от пятого плана до собственного поджанра:s:2632604:e:747-->
+<!----><!--2026-10-03 21:00:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/neznakomcy_film_2007_the_strangers">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fb731f1dbfa5071bb7faa4eead0bb931/" src="http://pic.rtbcdn.ru/video/2026-10-03/ec/e2/ece240975f98c5b9e860dce7621655c1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/neznakomcy_film_2007_the_strangers">Незнакомцы (фильм 2007) / The Strangers</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-03</i>
+  </div>
+</div><!--n:Мир кино/Незнакомцы (фильм 2007) The Strangers:s:2633494:e:665-->
+<!----><!--2026-10-03 16:31:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/korolevskij_straj_film_2026_wanggwa_saneun_namja">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2bd8e18d63b1e524d7a71fac067c7d8f/" src="http://pic.rtbcdn.ru/video/2026-10-02/69/60/6960b634761b9a4853f1eb07c9c49230.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/korolevskij_straj_film_2026_wanggwa_saneun_namja">Королевский страж (фильм 2026) / Wanggwa saneun namja</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-03</i>
+  </div>
+</div><!--n:Мир кино/Королевский страж (фильм 2026) Wanggwa saneun namja:s:2634253:e:713-->
+<!----><!--2026-10-03 18:00:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/opasnyj_duet_film_2026_the_wrecking_crew">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/168dd629d22b4090c7668236b52c9cf9/" src="http://pic.rtbcdn.ru/video/2026-10-03/b3/c3/b3c3cb349ae8256c99cc676b59fa3ae6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/opasnyj_duet_film_2026_the_wrecking_crew">Опасный дуэт (фильм 2026) / The Wrecking Crew</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-03</i>
+  </div>
+</div><!--n:Мир кино/Опасный дуэт (фильм 2026) The Wrecking Crew:s:2635080:e:684-->
+<!----><!--2026-10-04 15:23:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/na_dne_okeana_skryvaetsya_gigantskaya_baza_nlo_razmerom_s_neskolko_gorodskih_kvartalov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7ef0780998da12d8f542c18feb317708/" src="http://pic.rtbcdn.ru/video/2026-10-03/2f/a4/2fa4d2570b7fbaae612dc872a3a213e0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/na_dne_okeana_skryvaetsya_gigantskaya_baza_nlo_razmerom_s_neskolko_gorodskih_kvartalov">На дне океана скрывается гигантская база НЛО размером с несколько городских кварталов?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-04</i>
+  </div>
+</div><!--n:Тайны/На дне океана скрывается гигантская база НЛО размером с несколько городских кварталов:s:2635865:e:876-->
+<!----><!--2026-10-04 15:23:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/oon_podderjala_novuju_kartu_mira_i_vskrylas_ogromnaya_oshibka_v_privychnyh_razmerah_materikov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/544cb9e0a0f68836cfafb6872ce20217/" src="http://pic.rtbcdn.ru/video/2026-10-03/08/06/080611a5e60be59a4b2e390f11c4661e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/oon_podderjala_novuju_kartu_mira_i_vskrylas_ogromnaya_oshibka_v_privychnyh_razmerah_materikov">ООН поддержала новую карту мира и вскрылась огромная ошибка в привычных размерах материков</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-04</i>
+  </div>
+</div><!--n:Тайны/ООН поддержала новую карту мира и вскрылась огромная ошибка в привычных размерах материков:s:2636937:e:898-->
+<!----><!--2026-10-04 17:46:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/otkaz_trampa_sbivat_sputniki_rassvet_i_padenie_kanclera_merca">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/450ab8ee8569bef31fd14f91dc3e79c0/" src="http://pic.rtbcdn.ru/video/2026-10-04/76/c0/76c04fdff032e8b973c3f2b80f086424.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/otkaz_trampa_sbivat_sputniki_rassvet_i_padenie_kanclera_merca">Отказ Трампа сбивать спутники «Рассвет» и падение канцлера Мерца</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-04</i>
+  </div>
+</div><!--n:СВО/Отказ Трампа сбивать спутники Рассвет и падение канцлера Мерца:s:2638040:e:785-->
+<!----><!--2026-10-05 10:41:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_gluhoman_v_ssha_-_dikij_zapad_gde_i_kak_jivut_obychnye_amerikancy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/86eb582a83bfbddc498056269794b2a0/" src="http://pic.rtbcdn.ru/video/2026-10-05/bf/ef/bfef2224d354bb5649f7fe2b32052b30.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_gluhoman_v_ssha_-_dikij_zapad_gde_i_kak_jivut_obychnye_amerikancy">Воспоминания (ноябрь 2019): глухомань в США - ДИКИЙ ЗАПАД! Где и как живут обычные американцы?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-05</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (ноябрь 2019) глухомань в США - ДИКИЙ ЗАПАД Где и как живут обычные американцы:s:2638974:e:912-->
+<!----><!--2026-10-05 10:45:35-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/ostanovit_russkih_-_aferist_v_bostone_sobiral_dengi_u_naseleniya_dlya_pomoshchi_federalam">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2b3fa8562c45ce6050171f78db1423ae/" src="http://pic.rtbcdn.ru/video/2026-10-05/2b/e6/2be69c9b69404af7ea4b8109ae0de9c8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/ostanovit_russkih_-_aferist_v_bostone_sobiral_dengi_u_naseleniya_dlya_pomoshchi_federalam">«Остановить русских» - аферист в Бостоне собирал деньги у населения для «помощи» федералам.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-05</i>
+  </div>
+</div><!--n:Одни из лучших/Остановить русских - аферист в Бостоне собирал деньги у населения для помощи федералам.:s:2640100:e:912-->
+<!----><!--2026-10-05 17:38:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/podvig_russkogo_soldata_i_vskrytaya_sut_ukrainskoj_nacionalnoj_idei">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cce7efb134e17aaccb14553051267b5e/" src="http://pic.rtbcdn.ru/video/2026-10-05/c9/52/c9529458e96d223b692618ee40d09e3d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/podvig_russkogo_soldata_i_vskrytaya_sut_ukrainskoj_nacionalnoj_idei">Подвиг Русского солдата и вскрытая суть «украинской национальной идеи»</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-05</i>
+  </div>
+</div><!--n:СВО/Подвиг Русского солдата и вскрытая суть украинской национальной идеи:s:2641225:e:809-->
+<!----><!--2026-10-05 19:44:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_7_udarov_po_mostam_za_5_dnej_kiev_bez_sveta_grivna_po_45_05_10_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c0f3a945c3328a54c3b8c3c334e6767a/" src="http://pic.rtbcdn.ru/video/2026-10-05/db/06/db063dc5fbc39e471c3041fa99394ca2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_7_udarov_po_mostam_za_5_dnej_kiev_bez_sveta_grivna_po_45_05_10_26">Украинский фронт - 7 ударов по мостам за 5 дней. Киев без света. Гривна по 45. 05.10.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-05</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - 7 ударов по мостам за 5 дней. Киев без света. Гривна по 45. 05.10.26:s:2642195:e:852-->
+<!----><!--2026-10-06 09:53:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_ehal_v_ameriku_no_ne_pustili_posle_jestkogo_dosmotra_razvernuli_v_kanadu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/564a143da344964e7a78394ba0cb5ab2/" src="http://pic.rtbcdn.ru/video/2026-10-06/13/17/131754df1caef33571ef7d51701b7f8d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_ehal_v_ameriku_no_ne_pustili_posle_jestkogo_dosmotra_razvernuli_v_kanadu">Новое: ехал в Америку, но не пустили. После жёсткого досмотра развернули в Канаду!!!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Одни из лучших/Новое ехал в Америку, но не пустили. После жёсткого досмотра развернули в Канаду:s:2643222:e:872-->
+<!----><!--2026-10-06 10:57:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/arahisovaya_pasta_pochemu_amerikancy_pomeshalis_na_nej">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/11ebf2e77d379c9226183470c8632ec4/" src="http://pic.rtbcdn.ru/video/2026-10-06/2f/7a/2f7a0b660225a53848ca629afd95a171.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/arahisovaya_pasta_pochemu_amerikancy_pomeshalis_na_nej">АРАХИСОВАЯ ПАСТА: Почему американцы помешались на ней?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Одни из лучших/АРАХИСОВАЯ ПАСТА Почему американцы помешались на ней:s:2644293:e:774-->
+<!----><!--2026-10-06 14:20:00-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/posle_krusheniya_nlo_voennye_yakoby_vstupili_v_boj_srazu_s_dvumya_vidami_nechelovecheskih_sushchestv">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5bdf81a390f722521f3dbddbb8b3d877/" src="http://pic.rtbcdn.ru/video/2026-10-06/30/f0/30f0a420eb9f2a0c2aa54684a16e3931.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/posle_krusheniya_nlo_voennye_yakoby_vstupili_v_boj_srazu_s_dvumya_vidami_nechelovecheskih_sushchestv">После крушения НЛО военные якобы вступили в бой сразу с двумя видами нечеловеческих существ</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Тайны/После крушения НЛО военные якобы вступили в бой сразу с двумя видами нечеловеческих существ:s:2645218:e:913-->
+<!----><!--2026-10-06 14:18:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nlo_mogut_maskirovatsya_pod_obychnye_samolety_staroe_video_snova_vyzvalo_spory">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7a2d227972200978343d06678503501b/" src="http://pic.rtbcdn.ru/video/2026-10-06/9e/d8/9ed877593ed93328adbee794c1f0f202.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nlo_mogut_maskirovatsya_pod_obychnye_samolety_staroe_video_snova_vyzvalo_spory">НЛО могут маскироваться под обычные самолёты? Старое видео снова вызвало споры</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Тайны/НЛО могут маскироваться под обычные самолёты Старое видео снова вызвало споры:s:2646337:e:845-->
+<!----><!--2026-10-06 14:19:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/policejskaya_pogonya_zakonchilas_teleportaciej_mashiny_i_sluhami_o_puteshestvennike_vo_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/432e82b7470ebee691cca6d37f22237d/" src="http://pic.rtbcdn.ru/video/2026-10-06/77/dc/77dcc3a52fad019a6815b485c5ae44fd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/policejskaya_pogonya_zakonchilas_teleportaciej_mashiny_i_sluhami_o_puteshestvennike_vo_vremeni">Полицейская погоня закончилась «телепортацией» машины и слухами о путешественнике во времени?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Тайны/Полицейская погоня закончилась телепортацией машины и слухами о путешественнике во времени:s:2647363:e:907-->
+<!----><!--2026-10-06 14:17:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ochevidec_snyal_sigaroobraznyj_nlo_kotoryj_5_minut_nepodvijno_visel_v_nebe">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/9b83d77566e85282f81ce59ae7eb51f8/" src="http://pic.rtbcdn.ru/video/2026-10-06/61/58/615862b0f7836a479ffe9c6262dd833c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ochevidec_snyal_sigaroobraznyj_nlo_kotoryj_5_minut_nepodvijno_visel_v_nebe">Очевидец снял сигарообразный НЛО, который 5 минут неподвижно висел в небе</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Тайны/Очевидец снял сигарообразный НЛО, который 5 минут неподвижно висел в небе:s:2648477:e:826-->
+<!----><!--2026-10-06 14:25:51-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/rassekrechennyj_otchet_razvedki_ssha_opisal_zvezdnye_vrata_dlya_teleportacii_vo_vremeni">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7b935259a874b379fa9d5c53de5e4a0e/" src="http://pic.rtbcdn.ru/video/2026-10-06/58/d1/58d1b902818afa82f4ecf247485b95a8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/rassekrechennyj_otchet_razvedki_ssha_opisal_zvezdnye_vrata_dlya_teleportacii_vo_vremeni">Рассекреченный отчёт разведки США описал звёздные врата для телепортации во времени</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Тайны/Рассекреченный отчёт разведки США описал звёздные врата для телепортации во времени:s:2649474:e:874-->
