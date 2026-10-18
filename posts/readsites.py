@@ -6,24 +6,22 @@
 #
 
 RSSlist = {
-  'finecooking': {'hdr':'Подборка рецептов/finecooking.ru',       'url':'https://finecooking.ru/feed/rss',         'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
-  'povarenok':   {'hdr':'Подборка рецептов/Поваренок.РУ',         'url':'https://www.povarenok.ru/rss/recipes/',   'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
-  'habr':        {'hdr':'Подборка с сайтов/Хабр',                 'url':'https://habr.com/ru/rss/news/?fl=ru',     'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'kino_kino':   {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/kino.xml',      'cut':1000, 'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'kino_teatr':  {'hdr':'Подборка с сайтов/Кино-Театр.РУ',        'url':'https://kino-teatr.ru/rss/teatr.xml',     'cut':1000, 'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'prosto_linux':{'hdr':'Подборка с сайтов/Prosto Linux',         'url':'https://prosto-linux.ru/feed',            'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'playground':  {'hdr':'Подборка с сайтов/PlayGround.ru',        'url':'https://www.playground.ru/rss/news.xml',  'cut':1000, 'total':5, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'yaplakal':    {'hdr':'Подборка с сайтов/ЯПлакал',              'url':'https://www.yaplakal.com/news.xml',       'cut':2000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'moslenta':    {'hdr':'Подборка с сайтов/Мослента',             'url':'https://moslenta.ru/exports/rss.xml',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'ixbt_tech':   {'hdr':'Подборка с сайтов/iXBT.com',             'url':'https://www.ixbt.com/export/articles.rss','cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'flickr':      {'hdr':'Подборка картинок/Flickr.com',           'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':15,'ctag': '', 'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
-  'artfile':     {'hdr':'Подборка картинок/Artfile.ru',           'url':'https://www.artfile.ru/artfile.rss',      'cut':1000, 'total':15, 'ctag': 'channel', 'itag': 'item','sm':''},
-  'sports':      {'hdr':'Подборка новостей/Спортс',               'url':'https://sports.ru/rss/all_news.xml',      'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'chmp':        {'hdr':'Подборка новостей/Чемпионат',            'url':'https://www.championat.ru/rss/news/',     'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'mk':          {'hdr':'Подборка новостей/Московский Комсомолец','url':'https://www.mk.ru/rss/science/index.xml', 'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'rgecon':      {'hdr':'Подборка новостей/Российская газета',    'url':'https://rg.ru/xml/rubrics/ekonomika.xml', 'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'dev_ed':      {'hdr':'Подборка курсов/DevEducation',           'url':'https://dev-ed.ru/blog/rss',              'cut':1000, 'total':10,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  
+  'finecooking': {'hdr':'Подборка с сайтов/Мир кулинарии',        'hdr2':'finecooking.ru',   'url':'https://finecooking.ru/feed/rss',         'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
+  'povarenok':   {'hdr':'Подборка с сайтов/Мир кулинарии',        'hdr2':'Поваренок.РУ',     'url':'https://www.povarenok.ru/rss/recipes/',   'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
+  'habr':        {'hdr':'Подборка с сайтов/Технологии',           'hdr2':'Хабр',             'url':'https://habr.com/ru/rss/news/?fl=ru',     'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'kino_kino':   {'hdr':'Подборка с сайтов/Кино и театр',         'hdr2':'Кино-Театр.РУ',    'url':'https://kino-teatr.ru/rss/kino.xml',      'cut':1000, 'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'kino_teatr':  {'hdr':'Подборка с сайтов/Кино и театр',         'hdr2':'Кино-Театр.РУ',    'url':'https://kino-teatr.ru/rss/teatr.xml',     'cut':1000, 'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'prosto_linux':{'hdr':'Подборка с сайтов/Технологии',           'hdr2':'Prosto Linux',     'url':'https://prosto-linux.ru/feed',            'cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'playground':  {'hdr':'Подборка с сайтов/Компьютерные игры',    'hdr2':'PlayGround.ru' ,   'url':'https://www.playground.ru/rss/news.xml',  'cut':1000, 'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'yaplakal':    {'hdr':'Подборка с сайтов/Блоги',                'hdr2':'ЯПлакал',          'url':'https://www.yaplakal.com/news.xml',       'cut':2000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'moslenta':    {'hdr':'Подборка с сайтов/Московская жизнь',     'hdr2':'Мослента',         'url':'https://moslenta.ru/exports/rss.xml',     'cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'ixbt_tech':   {'hdr':'Подборка с сайтов/Технологии',           'hdr2':'iXBT.com',         'url':'https://www.ixbt.com/export/articles.rss','cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'flickr':      {'hdr':'Подборка с сайтов/Арт',                  'hdr2':'Flickr.com',       'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':15,'ctag': '', 'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
+  'artfile':     {'hdr':'Подборка с сайтов/Арт',                  'hdr2':'Artfile.ru',       'url':'https://www.artfile.ru/artfile.rss',      'cut':1000, 'total':3, 'ctag': 'channel', 'itag': 'item','sm':''},
+  'sports':      {'hdr':'Подборка новостей/Спорт',                'hdr2':'Спортс',           'url':'https://sports.ru/rss/all_news.xml',      'cut':1000, 'total':1,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'chmp':        {'hdr':'Подборка новостей/Спорт',                'hdr2':'Чемпионат',        'url':'https://www.championat.ru/rss/news/',     'cut':1000, 'total':1,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'mk':          {'hdr':'Подборка новостей/Наука',                'hdr2':'МК',               'url':'https://www.mk.ru/rss/science/index.xml', 'cut':1000, 'total':1,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'rgecon':      {'hdr':'Подборка новостей/Экономика',            'hdr2':'Российская газета','url':'https://rg.ru/xml/rubrics/ekonomika.xml', 'cut':1000, 'total':1,'ctag': 'channel', 'itag': 'item', 'sm':''},
 }
 
 import os, sys, time, re
@@ -84,8 +82,9 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
 <div class="yb">
   <div class="rss mw_f scroll {rssid}">{text}</div>
   {titl}
+  <div class="gray small"><i>Источник: <a class="rssurl" href="{url}">{hdr2}</a></i></div>
 </div>
-""".format(ctime=ctime, rssid=id, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, prm['cut']))
+""".format(ctime=ctime, rssid=id, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, prm['cut']), hdr2=prm['hdr2'], url=prm['url'])
       if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):
         os.mkdir(os.path.join(cdir, os.path.dirname(prm['hdr'])))
       if not os.path.exists(os.path.join(cdir, prm['hdr'])):

@@ -883883,3 +883883,37 @@ Somebody told me
   But I just don't know now  
   
   *Chorus } 3 times*<!--n:Killers/Somebody told me:s:50914112:e:2479-->
+<!----><!--2026-10-12 00:31:01-->  
+*[Intro]*  
+A penny for your thoughts now baby  
+Looks like the weight of the world's  
+On your shoulders now  
+  
+*[Verse 1]*  
+I know you think you're going crazy  
+Just when it seems everything's  
+Gonna work itself out  
+They drive you right back down  
+  
+*[Verse 2]*  
+And you said it ain't fair  
+That a man walks  
+When a bird can fly  
+We have to kick the ground  
+The stars kiss the sky  
+They say that spirits live  
+A man has to die  
+They promised us truth  
+Now they're giving us lies  
+  
+*[Chorus]*  
+Gonna take a miracle to save us this time  
+And your savior has just left town  
+Gonna need a miracle  
+'Cause it's all on the line  
+And I won't let you down  
+(No I won't let you down)  
+The river of your hope is flooding  
+And I know the dam is busted  
+If you need me I'll come running  
+I won't let you down... no, no<!--n:Bon Jovi/Miracle:s:50916643:e:1131-->

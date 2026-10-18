@@ -1868,3 +1868,36 @@
     <i class="smaller3">2026-10-05</i>
   </div>
 </div><!--n:Скрытая камера/Грудастая бабенка спалилась в туалете:s:127082:e:606-->
+<!----><!--2026-10-06 09:57:39-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2612-brjunetka-ne-hotela-no-svoi-trusy-pokazala.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-10/1791269525_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/brjunetka_ne_hotela_no_svoi_trusy_pokazala">Брюнетка не хотела, но свои трусы показала</a></p>
+    <p><i class="smaller2">Под юбкой</i></p>
+    <i class="smaller3">2026-10-06</i>
+  </div>
+</div><!--n:Скрытая камера/Брюнетка не хотела, но свои трусы показала:s:127811:e:623-->
+<!----><!--2026-10-07 10:26:26-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2613-devushki-popalis-na-kameru-v-pljazhnoj-razdevalke.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-10/1791357807_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/devushki_popalis_na_kameru_v_plyajnoj_razdevalke">Девушки попались на камеру в пляжной раздевалке</a></p>
+    <p><i class="smaller2">В кабинках</i></p>
+    <i class="smaller3">2026-10-07</i>
+  </div>
+</div><!--n:Скрытая камера/Девушки попались на камеру в пляжной раздевалке:s:128564:e:649-->
+<!----><!--2026-10-08 10:40:34-->
+<div class="yb">
+  <a class="nodecor" href="https://voyeurspycam.live/2614-podsmotreli-szadi-za-pisajuschej-devkoj.html">
+    <img class="preview" data-adult="1" src="https://voyeurspycam.live/uploads/posts/2026-10/1791445167_01.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?skrytaya_kamera/podsmotreli_szadi_za_pisajushchej_devkoj">Подсмотрели сзади за писающей девкой</a></p>
+    <p><i class="smaller2">В туалете</i></p>
+    <i class="smaller3">2026-10-08</i>
+  </div>
+</div><!--n:Скрытая камера/Подсмотрели сзади за писающей девкой:s:129354:e:609-->

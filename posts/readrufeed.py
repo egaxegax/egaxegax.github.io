@@ -9,7 +9,7 @@ RSSlist = [
   ('Подборка из Rutube/СВО', '23550697'),                   #Саня во Флориде
   ('Подборка из Rutube/СВО', '29745509'),                   #Дмитрий Василец
   ('Подборка из Rutube/Мир кино', '1397853'),               #GreenGrass
-  ('Подборка из Rutube/Мир кино', '26313118'),              #TVHub
+  # ('Подборка из Rutube/Мир кино', '26313118'),              #TVHub
   ('Подборка из Rutube/Мир кино', '37827144'),              #Прайм-Тайм
   # ('Подборка из Rutube/Рок-музыка', '24297472'),            #Спи с Дилли
   # ('Подборка из Rutube/Рок-музыка', '42899434'),            #У Анатолича
@@ -21,7 +21,7 @@ RSSlist = [
   # ('Подборка из Rutube/Путешествия свои ходом', '38173253'),#Путешествия своим ходом
   ('Подборка из Rutube/Одни из лучших', '46518813'),        #Одни из лучших
   # ('Подборка из Rutube/Советские фильмы', '1792500'),
-  # ('Подборка из Rutube/Сериалы', '33999143'),
+  ('Подборка из Rutube/Сериалы', '33999143'),
 ]
 
 import os, sys, time
@@ -40,7 +40,7 @@ fcount = 0
 for hdr, url in RSSlist:
   feedurl =  'http://rutube.ru/api/video/person/'+url+'?format=xml'
   with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
-    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('results/list-item')) if ii < 100]:
+    for ii, item in [[ii, item] for ii, item in enumerate(ET.fromstring(purl.read(), parser=ET.XMLParser()).findall('results/list-item')) if ii < 3]:
       titl = item.find('title').text
       udate = item.find('last_update_ts').text
       videoid = item.find('video_url').text

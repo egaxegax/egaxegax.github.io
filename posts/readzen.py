@@ -18,11 +18,12 @@ total = 15
 fcount = 0
 cdtm = time.localtime()
 
-hdr = 'Подборка с сайтов/Дзен'
+hdr = 'Подборка с сайтов/Блоги'
+hdr2 = 'Дзен'
 feedurl = 'https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru'
 
 with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
-  for item in [item for ii, item in enumerate(json.loads(purl.read())['items']) if ii < total and item['text']]:
+  for item in [item for ii, item in enumerate(json.loads(purl.read())['items']) if ii < total and item['type'] == 'card']:
     titl = item['title']
     link = item['link'].split('?')[0]
     authr = item['domain_title']
@@ -48,8 +49,9 @@ with urlopen(Request(feedurl, headers={'User-Agent': 'Mozilla/5.0'})) as purl:
   </p>
   </div>
   <div class="inlbl text smaller1">{text}</div>
+  <div class="gray small"><i>Источник:</i> <a class="rssurl" href="{url}">{hdr2}</a></div>
 </div>
-""".format(ctime=ctime, link=link, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 80), authr=authr, text=text)
+""".format(ctime=ctime, link=link, imurl=imurl, rdate=rdate, titl=tr_chars(titl, 80), authr=authr, text=text, hdr2=hdr2, url=feedurl)
     if not os.path.exists(os.path.join(cdir, os.path.dirname(hdr))):
       os.mkdir(os.path.join(cdir, os.path.dirname(hdr)))
     if not os.path.exists(os.path.join(cdir, hdr)):

@@ -6,18 +6,18 @@
 #
 
 RSSlist = {
-  'eadaily': {'hdr':'Подборка новостей/EADaily',              'hdr2':'Вести',               'url':'https://eadaily.com/ru/rss/index.xml'},
-  'ixbt_tr': {'hdr':'Подборка новостей/iXBT Live. Туризм',    'hdr2':'Путешествия и туризм','url':'https://www.ixbt.com/live/rss/blog/travel'},
-  'ria':     {'hdr':'Подборка новостей/РИА',                  'hdr2':'События',             'url':'https://ria.ru/export/rss2/index.xml'},
-  'rambler': {'hdr':'Подборка новостей/Рамблер',              'hdr2':'В мире',              'url':'https://news.rambler.ru/rss/world/'},
-  'ramblerm':{'hdr':'Подборка новостей/Рамблер',              'hdr2':'Москва',              'url':'https://news.rambler.ru/rss/moscow_city/'},
-  'vm':      {'hdr':'Подборка новостей/Вечерняя Москва',      'hdr2':'Вечорка',             'url':'https://vm.ru/rss'},
-  'mk':      {'hdr':'Подборка новостей/Московский Комсомолец','hdr2':'Наука',               'url':'https://www.mk.ru/rss/science/index.xml'},
-  'sports':  {'hdr':'Подборка новостей/Спортс',               'hdr2':'Спорт',               'url':'https://sports.ru/rss/all_news.xml'},
-  'chmp':    {'hdr':'Подборка новостей/Чемпионат',            'hdr2':'Чемпионат',           'url':'https://www.championat.ru/rss/news/'},
-  'cosmos':  {'hdr':'Подборка новостей/Элементы Космос',      'hdr2':'Космос',              'url':'https://elementy.ru/rss/news/cosmos'},
-  'rgecon':  {'hdr':'Подборка новостей/Российская газета',    'hdr2':'Экономика',           'url':'https://rg.ru/xml/rubrics/ekonomika.xml'},
-  '5tvn':    {'hdr':'Подборка новостей/Пятый канал',          'hdr2':'Новости',             'url':'https://www.5-tv.ru/news/rss/'},
+  'eadaily': {'hdr':'Подборка новостей/В мире',               'hdr2':'EADaily',             'url':'https://eadaily.com/ru/rss/index.xml'},
+  'ixbt_tr': {'hdr':'Подборка новостей/Путешествия и туризм', 'hdr2':'iXBT Live',           'url':'https://www.ixbt.com/live/rss/blog/travel'},
+  'ria':     {'hdr':'Подборка новостей/В мире',               'hdr2':'РИА',                 'url':'https://ria.ru/export/rss2/index.xml'},
+  'rambler': {'hdr':'Подборка новостей/В мире',               'hdr2':'Рамблер',             'url':'https://news.rambler.ru/rss/world/'},
+  'ramblerm':{'hdr':'Подборка новостей/Москва',               'hdr2':'Рамблер',             'url':'https://news.rambler.ru/rss/moscow_city/'},
+  'vm':      {'hdr':'Подборка новостей/Москва',               'hdr2':'Вечорка',             'url':'https://vm.ru/rss'},
+  'mk':      {'hdr':'Подборка новостей/Наука',                'hdr2':'МК',                  'url':'https://www.mk.ru/rss/science/index.xml'},
+  'sports':  {'hdr':'Подборка новостей/Спорт',                'hdr2':'Спортс',              'url':'https://sports.ru/rss/all_news.xml'},
+  'chmp':    {'hdr':'Подборка новостей/Спорт',                'hdr2':'Чемпионат',           'url':'https://www.championat.ru/rss/news/'},
+  'cosmos':  {'hdr':'Подборка новостей/Наука',                'hdr2':'Элементы Космос',     'url':'https://elementy.ru/rss/news/cosmos'},
+  'rgecon':  {'hdr':'Подборка новостей/Экономика',            'hdr2':'Российская газета',   'url':'https://rg.ru/xml/rubrics/ekonomika.xml'},
+  '5tvn':    {'hdr':'Подборка новостей/В мире',               'hdr2':'Пятый канал',         'url':'https://www.5-tv.ru/news/rss/'},
 }
 
 import os, sys, time, re, locale
@@ -67,7 +67,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
 </div>""".format(ctime=ctime, titl=ptitl, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
         tr.append( text )
         fcount += 1
-      sbtext = '<div class="rssurl gray smaller" style="display:none">'+ prm['url'] +'</div>'
+      sbtext = '<div class="hspace gray small"><i>Источник: <a class="rssurl" href="'+prm['url']+'">'+ prm['hdr2'] +'</a></i></div>'
       try:    open(os.path.join(cdir, prm['hdr'], tr_cut(fn) + '.md'), 'w', encoding='utf-8', newline='\n').write(''.join(tr) + sbtext)
       except: continue
     print(prm['hdr'], prm['url'], '(%s)' % (fcount,))
