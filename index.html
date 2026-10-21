@@ -93,7 +93,7 @@
       '<span class="decor hspacer tooltip gray" title="Добавлено '+buildDate(p.title[3])+'" onclick="this.innerHTML=this.title"> '+buildDate(p.title[3],1)+' </span>'+
       '<a class="nodecor hspace gray" title="Открыть пост" href="index.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> '+addIShare()+' </a>'+
     ((rs=document.querySelector('#'+ p.id +' .rssurl')) ? 
-      '<a class="nodecor hspace2 rssfetch tooltip gray" title="'+rs.innerHTML+'" onclick="fetchRSSFromXML(\''+rs.innerHTML+'\',\'msg'+p.i+'\')"> '+addIRefresh()+'</a>' : '')+'</td>'+
+      '<a class="nodecor hspace2 rssfetch tooltip gray" title="'+rs.href+'" onclick="fetchRSSFromXML(\''+rs.href+'\',\'msg'+p.i+'\')"> '+addIRefresh()+'</a>' : '')+'</td>'+
       '<td width="75%"><a class="nodecor light" title="'+buildSubPath(ROOTS, SUBJ, p.title[0])+'" href="index.html?'+tr(p.subj)+'">'+SUBJ[p.title[0]][0]+'</a></td>'+
     '</tr></table>'+
   '</div>';

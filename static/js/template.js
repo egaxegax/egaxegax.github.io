@@ -307,7 +307,7 @@ function buildDate(d, fmt){
     if (fmt) {
       var ds = (new Intl.RelativeTimeFormat('ru', { numeric: 'auto' })).format(Math.round(((new Date(String(Number(d[2]+d[3]) + '/' + d[4]+d[5] + '/' + d[0]+d[1] + ' ' + d[6]+d[7] + ':' + d[8]+d[9] + ':' + d[10]+d[11]))) - (new Date())) / (1000 * 60 * 60 * 24)), 'day');
       if (parseInt(ds)){
-        if (parseInt(ds) < 31) return 'недавно';
+        if (parseInt(ds) < 91) return 'недавно';
         else if (parseInt(ds) < 365) return 'давно';
         else return 'очень давно';
       }

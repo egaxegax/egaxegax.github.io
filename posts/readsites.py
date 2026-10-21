@@ -82,7 +82,7 @@ for id, prm in [[id, prm] for id, prm in RSSlist.items() if id in sys.argv]:
 <div class="yb">
   <div class="rss mw_f scroll {rssid}">{text}</div>
   {titl}
-  <div class="gray small"><i>Источник: <a class="rssurl" href="{url}">{hdr2}</a></i></div>
+  <div class="rssn gray small"><i>Источник: <a href="{url}">{hdr2}</a></i></div>
 </div>
 """.format(ctime=ctime, rssid=id, link=link, rdate=rdate, titl=ptitl, text=tr_chars(text, prm['cut']), hdr2=prm['hdr2'], url=prm['url'])
       if not os.path.exists(os.path.join(cdir, os.path.dirname(prm['hdr']))):

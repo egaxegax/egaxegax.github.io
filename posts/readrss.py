@@ -43,7 +43,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
       try:    locale.setlocale(locale.LC_ALL, 'Russian')
       except: pass
       fn = prm['hdr2']+' на '+ '{y}{m}{d}_{h}{c}'.format(y=time.strftime('%y', cdtm), m=('%02d' % cdtm.tm_mon), d=('%02d' % cdtm.tm_mday), h=('%02d' % cdtm.tm_hour), c=('%02d' % ri))
-      tr = ['<h2 class="hspace">'+prm['hdr2']+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>']
+      tr = ['<h2 class="hspace">'+os.path.basename(prm['hdr'])+' на '+ time.strftime('%a %d %b %Y %H:%M', cdtm) +'</h2>']
       locale.setlocale(locale.LC_ALL, 'C')
       for ii, item in [[ii, item] for ii, item in enumerate(channel.findall('item')) if ii < total]:
         link = item.find('link').text
@@ -67,7 +67,7 @@ for ri, (id, prm) in enumerate([(id, prm) for id, prm in RSSlist.items() if id i
 </div>""".format(ctime=ctime, titl=ptitl, ph=('%02d' % pdt.tm_hour), pmi=('%02d' % pdt.tm_min))
         tr.append( text )
         fcount += 1
-      sbtext = '<div class="hspace gray small"><i>Источник: <a class="rssurl" href="'+prm['url']+'">'+ prm['hdr2'] +'</a></i></div>'
+      sbtext = '<div class="rssn hspace gray small"><i>Источник: <a class="rssurl" href="'+prm['url']+'">'+ prm['hdr2'] +'</a></i></div>'
       try:    open(os.path.join(cdir, prm['hdr'], tr_cut(fn) + '.md'), 'w', encoding='utf-8', newline='\n').write(''.join(tr) + sbtext)
       except: continue
     print(prm['hdr'], prm['url'], '(%s)' % (fcount,))

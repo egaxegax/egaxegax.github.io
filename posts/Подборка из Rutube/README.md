@@ -32099,3 +32099,267 @@
     <i class="smaller3">2026-10-18</i>
   </div>
 </div><!--n:Одни из лучших/Новая система в США на визовое мошенничество можно сообщить анонимно и онлайн.:s:2760854:e:877-->
+<!----><!--2026-10-18 20:03:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/kak_specslujba_francii_s_cru_i_mi-6_unichtojajut_mirnyj_protest_v_es">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ba93f5407cbb39151cc69736af92fac0/" src="http://pic.rtbcdn.ru/video/2026-10-18/35/8f/358fc64687e71531514c469edce63942.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/kak_specslujba_francii_s_cru_i_mi-6_unichtojajut_mirnyj_protest_v_es">Как спецслужба Франции с ЦРУ и Ми-6 уничтожают мирный протест в ЕС</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-18</i>
+  </div>
+</div><!--n:СВО/Как спецслужба Франции с ЦРУ и Ми-6 уничтожают мирный протест в ЕС:s:2761928:e:798-->
+<!----><!--2026-10-19 08:23:58-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_priehal_razgrujat_stulya_i_vdrug_ponyal_chto_popal_v_amerikanskuju_tjurmu">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7bd961086a71b27b66a6b76ad4894870/" src="http://pic.rtbcdn.ru/video/2026-10-19/fa/c1/fac1e5b559ed9b25235b4e1260af91ae.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_priehal_razgrujat_stulya_i_vdrug_ponyal_chto_popal_v_amerikanskuju_tjurmu">Новое: приехал разгружать стулья. И вдруг понял, что попал в американскую тюрьму!!!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:Одни из лучших/Новое приехал разгружать стулья. И вдруг понял, что попал в американскую тюрьму:s:2762878:e:873-->
+<!----><!--2026-10-19 11:25:38-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_on_rabotaet_v_bolnice_ssha_i_znaet_chto_tam_na_samom_dele_zarplaty_ceny_i_strahovki">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6aa864a3756642f9dc5295440777ba77/" src="http://pic.rtbcdn.ru/video/2026-10-19/38/5b/385b7e3c2c8a80336111309e10bd83b6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_on_rabotaet_v_bolnice_ssha_i_znaet_chto_tam_na_samom_dele_zarplaty_ceny_i_strahovki">Ковалёв: он работает в больнице США и знает, что там на самом деле... Зарплаты, цены и страховки...</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:Одни из лучших/Ковалёв он работает в больнице США и знает, что там на самом деле... Зарплаты, цены и страховки...:s:2763949:e:921-->
+<!----><!--2026-10-19 11:14:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/krali_po_melochi_no_poluchili_po_maksimumu_kak_obychnye_kraji_prevratilas_v_rico_obvineniya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/df855c7219badab4e00d28e8c67ab212/" src="http://pic.rtbcdn.ru/video/2026-10-19/2d/7a/2d7abb893e5de573ea1c981fad2511ff.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/krali_po_melochi_no_poluchili_po_maksimumu_kak_obychnye_kraji_prevratilas_v_rico_obvineniya">Крали по мелочи, но получили по максимуму. Как обычные кражи превратилась в RICO обвинения.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:Одни из лучших/Крали по мелочи, но получили по максимуму. Как обычные кражи превратилась в RICO обвинения.:s:2765095:e:910-->
+<!----><!--2026-10-19 17:41:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/bojnya_v_brjussele_i_parije_protestujushchie_prosyat_rossiju_o_pomoshchi">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1ea52cacbe7794372002b8ef7a3cf9fb/" src="http://pic.rtbcdn.ru/video/2026-10-19/e3/26/e32648b88adc51e969b3dd60e49610a1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/bojnya_v_brjussele_i_parije_protestujushchie_prosyat_rossiju_o_pomoshchi">Бойня в Брюсселе и Париже, протестующие просят Россию о помощи</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:СВО/Бойня в Брюсселе и Париже, протестующие просят Россию о помощи:s:2766220:e:801-->
+<!----><!--2026-10-19 19:37:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_franciya_slili_26_mlrd_i_zagorelis_16_raket_po_kievu_milliony_bez_sveta_19_10">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/4b2477b3c4026eb30930961774146b22/" src="http://pic.rtbcdn.ru/video/2026-10-19/ac/41/ac41363cd074cd58da7c843d64f0aaaa.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_franciya_slili_26_mlrd_i_zagorelis_16_raket_po_kievu_milliony_bez_sveta_19_10">Украинский фронт - Франция слили 26 млрд и загорелись. 16 ракет по Киеву. Миллионы без света. 19.10.</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - Франция слили 26 млрд и загорелись. 16 ракет по Киеву. Миллионы без света. 19.10.:s:2767168:e:904-->
+<!----><!--2026-10-19 21:00:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/v_pasti_bezumiya_film_1994_in_the_mouth_of_madness">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a317640ef1d41e4e97454312d8597256/" src="http://pic.rtbcdn.ru/video/2026-10-19/d5/a0/d5a02b525d5347e023827fe264c832cd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/v_pasti_bezumiya_film_1994_in_the_mouth_of_madness">В пасти безумия (фильм 1994) / In the Mouth of Madness</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:Мир кино/В пасти безумия (фильм 1994) In the Mouth of Madness:s:2768275:e:715-->
+<!----><!--2026-10-19 19:00:25-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mest_film_2026_venganza">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c050e5a4733ae48a3aa863ddc3d9fd3d/" src="http://pic.rtbcdn.ru/video/2026-10-19/a3/10/a31012e3e2f6c1415c815c9a9a7384b3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mest_film_2026_venganza">Месть (фильм 2026) / Venganza</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:Мир кино/Месть (фильм 2026) Venganza:s:2769102:e:628-->
+<!----><!--2026-10-19 17:00:24-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gipoteza_ljubvi_film_2026_the_love_hypothesis">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/eb7ae4fdfc97987a7bd977edd47e4dde/" src="http://pic.rtbcdn.ru/video/2026-10-19/c8/68/c8684526aec5d506d62eb1441918fd34.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gipoteza_ljubvi_film_2026_the_love_hypothesis">Гипотеза любви (фильм 2026) / The Love Hypothesis</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-19</i>
+  </div>
+</div><!--n:Мир кино/Гипотеза любви (фильм 2026) The Love Hypothesis:s:2769809:e:700-->
+<!----><!--2026-10-20 09:58:45-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kak_bekon_zahvatil_ssha">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1076db46ecd345e8e55d2e30053b5592/" src="http://pic.rtbcdn.ru/video/2026-10-20/64/36/6436170f2385462532caa3d10fca3852.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kak_bekon_zahvatil_ssha">Как БЕКОН захватил США!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:Одни из лучших/Как БЕКОН захватил США:s:2770616:e:654-->
+<!----><!--2026-10-20 09:58:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vash_telefon_podumajte_dvajdy_prejde_chem_delat_eto_pri_dosmotre_na_granice_ssha">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0cbbc243709ca11588ff205620588432/" src="http://pic.rtbcdn.ru/video/2026-10-20/07/77/07777def7506cc8adee840ad0c25146a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vash_telefon_podumajte_dvajdy_prejde_chem_delat_eto_pri_dosmotre_na_granice_ssha">Ваш телефон: подумайте дважды, прежде чем делать это при досмотре на границе США.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:Одни из лучших/Ваш телефон подумайте дважды, прежде чем делать это при досмотре на границе США.:s:2771364:e:873-->
+<!----><!--2026-10-20 10:02:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_kem_vy_budete_rabotat_v_ssha_pri_pereezde_chto_jdet_immigrantov">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/27470d897bedc24fa7b81e7a1acdd5c9/" src="http://pic.rtbcdn.ru/video/2026-10-20/67/c2/67c2e1207e57f206ff3cd9956e22ed3f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_kem_vy_budete_rabotat_v_ssha_pri_pereezde_chto_jdet_immigrantov">Воспоминания (ноябрь 2019): КЕМ ВЫ будете РАБОТАТЬ в США при переезде! ЧТО ЖДЕТ ИММИГРАНТОВ?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (ноябрь 2019) КЕМ ВЫ будете РАБОТАТЬ в США при переезде ЧТО ЖДЕТ ИММИГРАНТОВ:s:2772436:e:906-->
+<!----><!--2026-10-20 17:53:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/vks_rf_prigotovilis_sbivat_sputniki_nato">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/278cda79d57b63e09ba2f24e627de6ba/" src="http://pic.rtbcdn.ru/video/2026-10-20/d3/c9/d3c9e8495302e5e9dce62c8379ad0d15.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/vks_rf_prigotovilis_sbivat_sputniki_nato">ВКС РФ приготовились сбивать спутники НАТО</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:СВО/ВКС РФ приготовились сбивать спутники НАТО:s:2773554:e:702-->
+<!----><!--2026-10-21 15:30:18-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/posledstviya_vstrechi_putina_i_specpredstavitelya_trampa_v_sankt-peterburge">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c2022e331b8dce22bbcb035c0903364b/" src="http://pic.rtbcdn.ru/video/2026-10-21/0a/a0/0aa0bf2af23905681540086a9e93ae8d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/posledstviya_vstrechi_putina_i_specpredstavitelya_trampa_v_sankt-peterburge">Последствия встречи Путина и спецпредставителя Трампа в Санкт-Петербурге</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-21</i>
+  </div>
+</div><!--n:СВО/Последствия встречи Путина и спецпредставителя Трампа в Санкт-Петербурге:s:2774368:e:829-->
+<!----><!--2026-10-20 20:24:39-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_obzor_po_karte_sdelka_trampa_ogranicheniya_strarlink_-_slepye_dronovody_vsu_20_1">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e3280be9ba8ad202a654c0ad0a707af5/" src="http://pic.rtbcdn.ru/video/2026-10-20/67/0a/670a08ca82a27297968e9fa0d79929e3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_obzor_po_karte_sdelka_trampa_ogranicheniya_strarlink_-_slepye_dronovody_vsu_20_1">Украинский фронт - обзор по карте. Сделка Трампа. Ограничения Strarlink - слепые дроноводы ВСУ. 20.1</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - обзор по карте. Сделка Трампа. Ограничения Strarlink - слепые дроноводы ВСУ. 20.1:s:2775366:e:908-->
+<!----><!--2026-10-21 12:39:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_rabochij_den_kurera_v_ssha_po_gorodu_iz_populyarnogo_seriala">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2e302080e53d9bb17658f895d55a621f/" src="http://pic.rtbcdn.ru/video/2026-10-21/27/f3/27f3464f3d5a02b5d29078d1ca5e9cab.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kovalev_rabochij_den_kurera_v_ssha_po_gorodu_iz_populyarnogo_seriala">Ковалёв: рабочий день курьера в США по городу из популярного сериала.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-21</i>
+  </div>
+</div><!--n:Одни из лучших/Ковалёв рабочий день курьера в США по городу из популярного сериала.:s:2776475:e:828-->
+<!----><!--2026-10-21 09:05:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/rossiyane_obyavili_golodovku_v_tjurme_ice_chto_proishodit_v_djordjii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d44748f9d462b053eeedbee85a516b21/" src="http://pic.rtbcdn.ru/video/2026-10-21/6f/76/6f76734994ebfe5f76071424f5f73cfd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/rossiyane_obyavili_golodovku_v_tjurme_ice_chto_proishodit_v_djordjii">Россияне объявили голодовку в тюрьме ICE. Что происходит в Джорджии?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-21</i>
+  </div>
+</div><!--n:Одни из лучших/Россияне объявили голодовку в тюрьме ICE. Что происходит в Джорджии:s:2777481:e:824-->
+<!----><!--2026-10-21 09:04:23-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_amerikanec_protiv_traka_piterbilt_classic_v_ssha">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bff44bb3380b7fb900199252518c0e3a/" src="http://pic.rtbcdn.ru/video/2026-10-21/2b/d8/2bd8b79fa39ce044f97431dacbc9ea6b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_amerikanec_protiv_traka_piterbilt_classic_v_ssha">Воспоминания (декабрь 2019): АМЕРИКАНЕЦ против трака PITERBILT classic в США?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-21</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (декабрь 2019) АМЕРИКАНЕЦ против трака PITERBILT classic в США:s:2778479:e:835-->
+<!----><!--2026-10-20 19:00:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/mir_glava_1_chandra_film_2025_lokah_chapter_1_chandra">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2d892b87c789235a422a786bc4a0d9b7/" src="http://pic.rtbcdn.ru/video/2026-10-20/cc/04/cc047849d20ada292d0bc15968af6f8c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/mir_glava_1_chandra_film_2025_lokah_chapter_1_chandra">Мир. Глава 1: Чандра (фильм 2025) / Lokah Chapter 1: Chandra</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:Мир кино/Мир. Глава 1 Чандра (фильм 2025) Lokah Chapter 1 Chandra:s:2779486:e:728-->
+<!----><!--2026-10-20 21:00:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/hudejushchij_film_1996_thinner">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/064b2890c8a6292cbb5c8f2e82b75261/" src="http://pic.rtbcdn.ru/video/2026-10-20/3d/23/3d232935a35c5a6b79930db5d31d8200.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/hudejushchij_film_1996_thinner">Худеющий (фильм 1996) / Thinner</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:Мир кино/Худеющий (фильм 1996) Thinner:s:2780331:e:647-->
+<!----><!--2026-10-20 17:00:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/v_poiskah_emili_film_2026_finding_emily">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2586e6df8993fc3056816641921f0595/" src="http://pic.rtbcdn.ru/video/2026-10-20/c7/4b/c74be9bdf8999edba4ce4294855dd2de.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/v_poiskah_emili_film_2026_finding_emily">В поисках Эмили (фильм 2026) / Finding Emily</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-20</i>
+  </div>
+</div><!--n:Мир кино/В поисках Эмили (фильм 2026) Finding Emily:s:2781062:e:683-->
+<!----><!--2026-10-21 14:02:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/terminator_2_stanovitsya_realnostju_ii-kompanii_uje_gotovyatsya_k_masshtabnoj_katastrofe">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/185401a73dbd2c4cdbfc072bc933b7da/" src="http://pic.rtbcdn.ru/video/2026-10-21/d9/02/d9026d66e83d3701693d45272064ce89.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/terminator_2_stanovitsya_realnostju_ii-kompanii_uje_gotovyatsya_k_masshtabnoj_katastrofe">«Терминатор 2» становится реальностью? ИИ-компании уже готовятся к масштабной катастрофе</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-21</i>
+  </div>
+</div><!--n:Тайны/Терминатор 2 становится реальностью ИИ-компании уже готовятся к масштабной катастрофе:s:2781847:e:884-->
+<!----><!--2026-10-21 14:02:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/iskusstvennyj_intellekt_mojet_byt_inoplanetnym_razumom_kotoryj_my_sluchajno_probudili">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/726220f94ca9cb837bb4552f725dff08/" src="http://pic.rtbcdn.ru/video/2026-10-21/42/7f/427f4c7b7b841ca4e7bbce1defb52e95.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/iskusstvennyj_intellekt_mojet_byt_inoplanetnym_razumom_kotoryj_my_sluchajno_probudili">Искусственный интеллект может быть инопланетным разумом, который мы случайно пробудили?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-21</i>
+  </div>
+</div><!--n:Тайны/Искусственный интеллект может быть инопланетным разумом, который мы случайно пробудили:s:2782927:e:877-->
+<!----><!--2026-10-21 14:02:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/matrica_stanovitsya_realnostju_uchenye_sozdajut_kompjutery_iz_jivyh_kletok_chelovecheskogo_mozga">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/61e12316459a2a162ea36b4d4602c094/" src="http://pic.rtbcdn.ru/video/2026-10-21/c2/df/c2dfd09a8550b607a4c470e277c05ee9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/matrica_stanovitsya_realnostju_uchenye_sozdajut_kompjutery_iz_jivyh_kletok_chelovecheskogo_mozga">«Матрица» становится реальностью? Учёные создают компьютеры из живых клеток человеческого мозга</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-21</i>
+  </div>
+</div><!--n:Тайны/Матрица становится реальностью Учёные создают компьютеры из живых клеток человеческого мозга:s:2784003:e:915-->

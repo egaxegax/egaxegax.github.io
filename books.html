@@ -13,7 +13,7 @@
 <link rel="icon" href="static/img/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="static/css/main.css?261011">
 <link rel="stylesheet" href="static/css/books.css?260717">
-<script src="static/js/template.js?260921"></script>
+<script src="static/js/template.js?2601021"></script>
 <script src="static/js/metrics.js?261007"></script>
 <script src="static/js/3rdparty/showdown.min.js?v2.1"></script>
 </head>
@@ -147,12 +147,14 @@
   function addSubjContent(roots, indexpage){
     if(window.innerWidth < 1150) return;
     var subdir = '', tmpl = '';
-    roots.slice().sort( function(a,b){ return arraySort(a[2], b[2], 1, 1); } ).forEach(function(e){
+    roots.slice().sort( function(a,b){ return arraySort(a[0], b[0]); } ).forEach(function(e){
       tmpl += '<table width="100%"><tr>'+
     '<td width="80%" class="hspaced" style="padding:3px 0">'+
       '<a class="nodecor dark" href="'+indexpage+'?'+tr(e[0])+'">'+e[0]+'</a>'+
     '</td>'+
-    '<td width="20%" align="right" class="smaller" title="обновлено '+buildDate(e[2])+'" ><b><i>'+e[1]+'</i></b></td>'+
+    '<td width="20%" align="right"><b><i class="smaller">'+e[1]+'</i></b>'+
+      '<div class="decor nowrap tooltip pink small" title="обновлено '+buildDate(e[2])+'"><i>'+buildDate(e[2],1)+'</i></div>'+
+    '</td>'+
     '</tr></table>';
     });
     document.getElementById('page_subj').innerHTML += 
