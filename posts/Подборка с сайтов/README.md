@@ -70953,3 +70953,1051 @@ http://dzen.ru/cifrohype?donate=true  Плавучая платформа Prelud
   <p class="titl"><a href="https://www.playground.ru/gears_of_war_e_day/news/po_sluham_xbox_gotovit_eschyo_tri_volny_uvolnenij_masshtabnaya_perestrojka_kompanii_prodolzhitsya_do_yanvarya-1883611#utm_source=rss&utm_medium=referral&utm_campaign=news">По слухам, Xbox готовит ещё три волны увольнений: масштабная перестройка компании продолжится до января</a></p>
   <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
 </div><!--n:Компьютерные игры/По слухам, Xbox готовит ещё три волны увольнений масштабная перестройка компании продолжится до января:s:14111185:e:1437-->
+<!----><!--2026-10-21 13:34:02-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184750/"><img src="https://www.povarenok.ru/data/cache/2026oct/20/04/3242814_44661-640x480.jpg"></a>Сочетание сладкого перца и яблока очень гармонично. А в запеченном виде просто идеально. Сочно, свежо и пикантно. Можно просто поужинать этим тёплым салатом или подать как гарнир к мясу или рыбе.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184750/">Теплый салат из перца с яблоком</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Теплый салат из перца с яблоком:s:14112870:e:885-->
+<!----><!--2026-10-21 13:45:29-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184751/"><img src="https://www.povarenok.ru/data/cache/2026oct/21/39/3242890_66769-640x480.jpg"></a>Осень — идеальное время для яблочных пирогов. И этот рецепт — тому подтверждение: сдобное тесто получается особенно пышным, а начинка — сочной и ароматной. Разборная подача делает его удобным для подачи: можно легко отломить кусочек каждому. Я добавила пару нюансов, чтобы пирог точно получился безупречным.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184751/">Сдобный разборный пирог с яблоками</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Сдобный разборный пирог с яблоками:s:14113865:e:1102-->
+<!----><!--2026-10-21 16:09:24-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184752/"><img src="https://www.povarenok.ru/data/cache/2026oct/21/04/3242939_28703-640x480.jpg"></a>Друзья, я как то упустила момент моего 500 юбилейного рецепта на сайте, но думаю, что и 555 рецепт тоже можно считать юбилейным. По этому поводу предлагаю приготовить
+для уютного семейного чаепития тыквенный манник с апельсиновым вкусом. Нежнейшая текстура, изысканный вкус, неповторимый аромат апельсинового сока, который пропитал...</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184752/">Тыквенный манник с апельсиновой цедрой</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Тыквенный манник с апельсиновой цедрой:s:14115085:e:1151-->
+<!----><!--2026-10-21 17:06:49-->
+<div class="yb">
+  <div class="rss mw_f scroll finecooking"><img src="https://finecooking.ru/images/recipe/govyadina-zapechennaya-v-duhovke-kuskom/photo/960w.jpg" width="960" alt="Говядина, запеченная в рукаве в духовке целым куском"><p>Говядина, запеченная в рукаве в духовке, - простой способ приготовить мясо для семейного обеда или праздничного стола. Чеснок, розмарин, кориандр и апельсиновый сок придают ему насыщенный аромат с легкой цитрусовой ноткой, а рукав помогает сохранить соки во время приготовления.</p></div>
+  <p class="titl"><a href="https://finecooking.ru/recipe/govyadina-zapechennaya-v-rukave-v-duhovke-celym-kuskom?utm_source=rss&utm_medium=feed&utm_campaign=recipe_feed&utm_content=title">Говядина, запеченная в рукаве в духовке целым куском</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://finecooking.ru/feed/rss">finecooking.ru</a></i></div>
+</div><!--n:Мир кулинарии/Говядина, запеченная в рукаве в духовке целым куском:s:14116362:e:1257-->
+<!----><!--2026-10-19 08:58:03-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atL7Xn-lyTIv8OjD">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad2fb5e7fa5c9322ff0e8c3_6ad2fba6f2a8cc4905dc7ccd/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atL7Xn-lyTIv8OjD"><span class="inlbl">Пурпур из пепла: как свитки, сожжённые Везувием, начали читать, не разворачивая</span></a>
+    <i class="trow smaller2"><span class="inlbl">POCHINKA_BLOG</span></i>
+    <i class="trow smaller3">2026-10-19</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Первым словом, которое удалось прочитать внутри закрытого древнего свитка из Геркуланума, стало «πορφύρας», «пурпур». Пурпурная краска или пурпурные одежды: по одному слову не понять, о чём шла речь. Но в октябре 2023 года само это слово стало сенсацией. Почти три века учёные пытались добраться до текстов, обращённых в уголь извержением Везувия, и многие попытки заканчивались гибелью свитков. А это слово прочитали, не тронув папирус: с помощью рентгеновских снимков, компьютерной модели и 21-летнего студента из Небраски...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Пурпур из пепла как свитки, сожжённые Везувием, начали читать, не разворачивая:s:14117769:e:1864-->
+<!----><!--2026-06-10 17:10:23-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ailvpB2auXDBt_uE">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a296fa41d9ab970c1b7fb84_6a296fde1fab12063506d09c/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ailvpB2auXDBt_uE"><span class="inlbl">Королева Атланна из DC в пленительном косплее</span></a>
+    <i class="trow smaller2"><span class="inlbl">GAMERS-LIFE.RU</span></i>
+    <i class="trow smaller3">2026-06-10</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Косплей на Атланну из вселенной DC получился по-настоящему атмосферным: образ сочетает в себе королевскую грацию, холодную красоту и мощную энергетику правительницы Атлантиды. Светлый костюм с фактурой чешуи, изящная корона и подводное окружение с медузами отлично передают настроение морского царства, а сама героиня выглядит так, будто только что поднялась из глубин океана. В Дзен уже есть интервью с косплеером Miray, которая воплотила этот образ Атланны из вселенной DC. В разговоре она рассказала...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Королева Атланна из DC в пленительном косплее:s:14119815:e:1765-->
+<!----><!--2026-10-16 19:09:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atJM34hyeVtzYCGu">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad24cdf8872795b736021ae_6ad24cdf54229c32c78c3c52/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atJM34hyeVtzYCGu"><span class="inlbl">23 тысячи лет назад: как древние люди пережили климатическую катастрофу</span></a>
+    <i class="trow smaller2"><span class="inlbl">RUNEWS24.RU</span></i>
+    <i class="trow smaller3">2026-10-16</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Археологи и геологи установили, что люди, оставившие следы в Уайт-Сандс, пережили стремительное изменение климата 23 тысячи лет назад. Они не покинули свои земли, а приспособились к новой реальности. Около 24 200 лет назад территория нынешнего национального парка Уайт-Сандс в Нью-Мексико была совсем другой. Прохладный и влажный климат, крупное озеро, хвойные леса из сосен, пихт и елей. Люди жили здесь бок о бок с мамонтами и гигантскими наземными ленивцами. В тех же слоях найдены следы волокуш — приспособлений для перевозки тяжёлых грузов...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/23 тысячи лет назад как древние люди пережили климатическую катастрофу:s:14121701:e:1882-->
+<!----><!--2026-07-02 08:00:43-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ai45-Ak4dCHwh9aV">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a2e39f809387421f087d695_6a32bd6a960b431ded136bc3/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ai45-Ak4dCHwh9aV"><span class="inlbl">«Летний диско-бар». ТОП-15 советских хитов 1980-х</span></a>
+    <i class="trow smaller2"><span class="inlbl">МУЗЫКА. ИСТОРИЯ, ОТКРЫТИЯ, МИФЫ</span></i>
+    <i class="trow smaller3">2026-07-02</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">То лето уже не вернуть... Но можно мысленно перенестись туда под песни, в которых оно «законсервировалось» навсегда. Достаточно нажать кнопку на стареньком кассетнике, и из динамиков разольется знойный воздух вечерних набережных и южных неоновых дискотек, на которых девчонки танцевали в ультрамодных лосинах и свободных блузах с массивными подплечниками, а парни щеголяли в ярких брюках-бананах, футболках с иностранными принтами и спортивных костюмах. При создании «Большого лета» объединили усилия...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Летний диско-бар . ТОП-15 советских хитов 1980-х:s:14123751:e:1816-->
+<!----><!--2026-10-19 12:02:58-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atXZxd7AE3uVi-sH">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad5d9c5dec0137b958beb07_6ad5dc95d802a47910bf524d/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atXZxd7AE3uVi-sH"><span class="inlbl">Haval Jolion дорестайл: потолок 1,6 млн на пробеге 100 тысяч</span></a>
+    <i class="trow smaller2"><span class="inlbl">АВТОДРАЙВ</span></i>
+    <i class="trow smaller3">2026-10-19</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Haval Jolion первого поколения, дорестайлинг, который продавали в России с лета 2021-го до начала 2024-го. В статье одна связка: мотор 1.5 GW4G15K на 143 силы и семиступенчатый робот, передний привод, машины 2022–2023 годов с пробегом 80–100 тысяч. Разумная цена такой, на мой взгляд, 1,45–1,60 млн рублей. Выше 1,70 млн за этот дорестайл и этот пробег я бы не давал. Скидка к новому Jolion выглядит убедительно, но за те же деньги уже есть более старый кроссовер с обычным автоматом, а робот как раз выходит на пробег, где городские пробки начинают его спорить с владельцем...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Haval Jolion дорестайл потолок 1,6 млн на пробеге 100 тысяч:s:14125686:e:1845-->
+<!----><!--2026-05-28 07:17:16-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ahXW2TB64ROC6iS_">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a15d6d9307ae11382ea24bf_6a16e9f7ce67a3722e662708/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ahXW2TB64ROC6iS_"><span class="inlbl">Выросли вместе с людьми: милые фото 15 животных и их хозяев спустя много лет</span></a>
+    <i class="trow smaller2"><span class="inlbl">КОТОВАРНЯ | МИР ЗООПСИХОЛОГА</span></i>
+    <i class="trow smaller3">2026-05-28</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Есть дружба, которую не нужно объяснять. Она начинается где-то между первой ложкой каши, разбросанными игрушками и неуклюжими шагами по квартире.  А рядом в этот момент уже может быть он - свидетель первых дней детства, хвостатый нянь и главный защитник о страшных сновидений. 
+Домашние животные нередко становятся для нас не просто питомцами, а первыми детскими друзьями и неизменными спутниками на пути взросления. Пока ребёнок учится говорить, кот учится терпеть слишком крепкие объятия. Пока малыш делает первые шаги, собака уже гордо сопровождает его по маршруту "диван - мама - кот"...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Выросли вместе с людьми милые фото 15 животных и их хозяев спустя много лет:s:14127662:e:2012-->
+<!----><!--2026-10-20 15:54:51-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atdkR0a88m9QRHi8">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad7644746bcf26f504478bc_6ad764599f4a4f1f319e3aba/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atdkR0a88m9QRHi8"><span class="inlbl">Кондитерская Юлии Высоцкой на InterCHARM x HELLO! Awards 2026</span></a>
+    <i class="trow smaller2"><span class="inlbl">«ЕДИМ ДОМА» С ЮЛИЕЙ ВЫСОЦКОЙ</span></i>
+    <i class="trow smaller3">2026-10-20</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">✨
+
+Кондитерская Юлии Высоцкой выступила гастрономическим партнером гала-ужина в честь IV Национальной премии InterCHARM x HELLO! Awards 2026.
+
+Вечер объединил лидеров индустрии красоты, профильных экспертов, представителей бизнеса и медиа, а также звезд кино, телевидения, музыки и спорта...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Кондитерская Юлии Высоцкой на InterCHARM x HELLO Awards 2026:s:14129848:e:1396-->
+<!----><!--2026-10-20 10:00:44-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atNEPkdxHDRrm36o">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad3443e47711c346b9b7ea8_6ad344c647711c346b9c653a/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atNEPkdxHDRrm36o"><span class="inlbl">Как средство самообороны «Оса» используется для ближнего боя с дронами</span></a>
+    <i class="trow smaller2"><span class="inlbl">ОРУЖЕЙНОЕ СОДРУЖЕСТВО</span></i>
+    <i class="trow smaller3">2026-10-20</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Угроза от беспилотников сегодня актуальна не только на передовой — она затрагивает и тыловые зоны, и критически важные объекты. На IV Всероссийском оружейном форуме в Москве показали, как привычные средства самообороны адаптируют под новые вызовы. В центре внимания — комплекс «Оса», который, по словам разработчиков, уверенно закрывает нишу ближнего противодействия летающим беспилотникам. Подписывайтесь на наш канал в ВКонтакте — только динамичные видеоролики: детальные обзоры, редкие кадры испытаний, разбор характеристик и неожиданные факты о легендарном и современном оружии...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Как средство самообороны Оса используется для ближнего боя с дронами:s:14131369:e:2009-->
+<!----><!--2026-08-20 15:05:59-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/aoY8Yneo-Cn7QsiS">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a863c6277a8f829fb42c892_6a863e740d706c3491c2a7a1/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/aoY8Yneo-Cn7QsiS"><span class="inlbl">Акрохордоны: ранний кожный маркер инсулинорезистентности по данным эндокринолого...</span></a>
+    <i class="trow smaller2"><span class="inlbl">ГЛАВНЫЙ МЕДИЦИНСКИЙ КАНАЛ | МЕДИЦИНА И ЗДОРОВЬЕ</span></i>
+    <i class="trow smaller3">2026-08-20</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Многие из нас привыкли относиться к мелким мягким образованиям на коже — папилломам и наростам в складках тела — исключительно как к косметическому дефекту или результату активности вируса папилломы человека (ВПЧ). Однако современные эндокринологи и дерматологи призывают смотреть на них гораздо шире. Маленькие мягкие выросты на ножке, чаще всего появляющиеся на шее, в подмышечных впадинах, под грудью и в паховой области, в медицинской литературе называются акрохордонами. И задолго до появления серьезных...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Акрохордоны ранний кожный маркер инсулинорезистентности по данным эндокринологов:s:14133544:e:1935-->
+<!----><!--2026-10-16 17:53:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atImy9gCpHkQchnP">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad226cbd802a479107219cf_6ad226e347711c346b0500a5/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atImy9gCpHkQchnP"><span class="inlbl">В 18 победил лучших гребцов мира, взял 3 олимпийских золота: Почему отстранили о...</span></a>
+    <i class="trow smaller2"><span class="inlbl">КУЛЬТУРОЛОГИЯ</span></i>
+    <i class="trow smaller3">2026-10-16</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Вячеслав Иванов был одним из самых ярких спортсменов в истории советской академической гребли, добившихся невероятных успехов в молодом возрасте. Но самыми впечатляющими в его спортивной карьере гребца-одиночки были даже не его достижения, а умение достигать победы, вытаскивая, казалось бы, самые безнадежные гонки за счет своего характера и виртуозного финишного ускорения. Это был настоящий талант, который сделал Вячеслава Иванова «звездой» многих соревнований 1960-х годов, а его имя надолго стало символом советского спорта...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/В 18 победил лучших гребцов мира, взял 3 олимпийских золота Почему отстранили от 4-ой Олимпиады Вячеслава Иванова:s:14135671:e:1899-->
+<!----><!--2026-10-21 20:30:02-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atj3E4hyeVtziL4v">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad8f7138872795b7388be2f_6ad8f713607989629ad0caf1/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atj3E4hyeVtziL4v"><span class="inlbl">Цветочная элегантность: Миранда Керр прошлась в эффектном комбинезоне</span></a>
+    <i class="trow smaller2"><span class="inlbl">ЛЕДИ MAIL</span></i>
+    <i class="trow smaller3">2026-10-21</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">43-летняя модель Миранда Керр попала в объективы фотографов в Нью-Йорке, когда выходила из здания студии Fox. Для выхода звезда выбрала смелый и при этом изысканный наряд. Она примерила в облегающем комбинезоне с глубоким корсетным вырезом и расклешенными брюками. Ткань изделия украшал крупный и контрастный цветочный узор: желтые, синие и фиолетовые бутоны на темном фоне. Дополнили образ неизменные черные солнцезащитные очки и миниатюрная белая сумочка на длинной золотой цепочке, которую Миранда держала в руке...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Цветочная элегантность Миранда Керр прошлась в эффектном комбинезоне:s:14137813:e:1841-->
+<!----><!--2026-10-21 21:10:20-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Всем доброго времени суток, господа-госпожи-товарищи<br>Миль-пардонтыщаизвинений,обещал вроде сделать, но сначала армия засосала месяца на 2, потом работа и прочие путешествия с пьянками-гулянками. <br>Так все лето хлопотно и пролетело.<br>Да и мысли все никак не собирались в кучу ввиду отсутствия писательского таланта. <br>Но сегодня делать было нечего + поспорил тут немного по теме + сформировалось наконец то ядро мысли.<br><br>И так: о тональностях, гаммах и прочих аккордовых кругах простыми словами, с примерами<br>Зачем, почему, что дает и чего не дает все это ужасное знание, которое будоражило не одно поколение взявших в руки какой либо инструмент в первый раз<br>Многое будет не совсем верно с музыкальной точки зрения сказано,кто то над моими потугами в очередной раз посмеется, мол пентюх чему то учит. Да и фиг с ним. Кому не интересно - лесом <br>Ну и немного моих кривых рисулек для наглядности. Могут быть ошибки, за что заранее пардону, тут про общий смысл, а не за сюртук музыканта на стуле. <br>И вообще я Басист, мне можно<br>Будет...многаБукаф,по окончанию сообщу. <br><br><a href="https://www.yaplakal.com/forum2/topic3133662.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/4/8/2/21343284.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3133662.html">Тональности, Гаммы и прочие круги аккордов  на воде для самых маленьких</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.yaplakal.com/news.xml">ЯПлакал</a></i></div>
+</div><!--n:Блоги/Тональности, Гаммы и прочие круги аккордов на воде для самых маленьких:s:14139822:e:2558-->
+<!----><!--2026-10-22 06:31:23-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/oktyabr-v-moskve-nazvali-rekordnym-22-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/22/03/7014964/cb3862c7ea35e4587510a82f89601ddb1c18bd76.jpg"></a>Москвичей может ждать рекордно теплый октябрь. Об этом сообщила ведущий специалист информационного агентства «Метеоновости» Татьяна Позднякова в Telegram.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/oktyabr-v-moskve-nazvali-rekordnym-22-10-2026.htm">Синоптик Позднякова: Октябрь в Москве может стать самым теплым с 1879 года</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Синоптик Позднякова Октябрь в Москве может стать самым теплым с 1879 года:s:14142548:e:960-->
+<!----><!--2026-10-22 02:12:40-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/ryadom-s-zhilym-domom-v-moskve-nashli-potencialno-opasnyi-predmet-22-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/21/23/7014958/324be7f90acefb3c1f64f9d2ce00eafff499deb8.jpg"></a>В Москве вблизи жилого дома обнаружили предмет, напоминающий гранату. Об этом сообщает РИА Новости со ссылкой на экстренные службы столицы.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/ryadom-s-zhilym-domom-v-moskve-nashli-potencialno-opasnyi-predmet-22-10-2026.htm">Рядом с домом на северо-востоке Москвы обнаружили напоминающий гранату предмет</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Рядом с домом на северо-востоке Москвы обнаружили напоминающий гранату предмет:s:14143698:e:1011-->
+<!----><!--2026-10-22 04:45:39-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvu-popytalis-atakovat-bolee-sotni-bespilotnikov-22-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/22/01/7014961/59f31f1738a1927b8292a83fb8e7b55669de0ea2.jpg"></a>Силы противовоздушной обороны (ПВО) сбили более 150 беспилотных летательных аппаратов (БПЛА) на подлете к Москве. Об этом сообщил мэр столицы Сергей Собянин в мессенджере MAX.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/moskvu-popytalis-atakovat-bolee-sotni-bespilotnikov-22-10-2026.htm">Собянин: 163 беспилотника нейтрализованы на подлете к Москве с вечера 21 октября</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Собянин 163 беспилотника нейтрализованы на подлете к Москве с вечера 21 октября:s:14144915:e:1038-->
+<!----><!--2026-10-22 10:36:49-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1798594><img src="https://i.artfile.ru/s/1798594_221026_16_ArtFile_ru.jpg"></a><br>Разрешение 2730x1820<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=30863>Vitalson</a> 22.10.2026 - 10:36</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=36">Раздел Свалка (Девушка, красотка, фигурка, секси, поза, киска, крупным планом, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Свалка (Девушка, красотка, фигурка, секси, поза, киска, крупным планом, ):s:14146155:e:689-->
+<!----><!--2026-10-22 10:27:56-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1798588><img src="https://i.artfile.ru/s/1798588_221026_35_ArtFile_ru.jpg"></a><br>Разрешение 2560x1522<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=13194>Баба_Яга</a> 22.10.2026 - 10:27</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=12">Раздел Праздничные (надпись, узор, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Праздничные (надпись, узор, ):s:14147019:e:619-->
+<!----><!--2026-10-22 14:34:49-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/87/d5/a4/87d5a461a6eaf53bf42b751365367f78.jpg" /><p>Китайское подразделение McDonald’s <a href="https://www.dexerto.com/entertainment/mcdonalds-is-selling-a-french-fry-mouse-made-from-recycled-happy-meal-toys-3420848/" rel="noopener nofollow">выпустило</a> ограниченную версию беспроводной мышки в&nbsp;виде пакета с&nbsp;картошкой фри. Для&nbsp;создания корпуса периферийного устройства использовали переработанные пластиковые игрушки...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1098022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098022">McDonald’s переработала игрушки из Хэппи Мила в компьютерную мышку c дизайном пакета картошки фри</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/McDonald s переработала игрушки из Хэппи Мила в компьютерную мышку c дизайном пакета картошки фри:s:14147736:e:1178-->
+<!----><!--2026-10-22 14:39:40-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/ce/7e/0a/ce7e0a0453ebe63f7db2e2b2f2faa32f.jpg" /><p>Некоторые блогеры из&nbsp;России, которые ранее опубликовали обзоры на&nbsp;ещё не вышедший iPhone Duo, рассказали, что <a href="https://t.me/Romancev768/17740" rel="noopener nofollow">получили</a> блокировки от&nbsp;Apple. Уже активированные устройства продолжают работать, но&nbsp;если их перезагрузить, то на&nbsp;экране появляется сообщение об&nbsp;ошибке с&nbsp;просьбой обратиться...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1098028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098028">Apple заблокировала iPhone Duo, активированные до старта продаж: под раздачу попали блогеры из России</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Apple заблокировала iPhone Duo, активированные до старта продаж под раздачу попали блогеры из России:s:14149133:e:1230-->
+<!----><!--2026-10-22 14:09:38-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/72/31/63/723163bd74e1779fecf46eac93316fd2.jpg" /><p>До INFOSTART A&amp;PM EVENT 2026 осталось три недели. Конференция пройдёт 12–14 ноября в Санкт-Петербурге, а <strong>до 31 октября включительно ещё действуют скидки на участие: 80% на онлайн и 20% на очный формат.</strong></p> <a href="https://habr.com/ru/articles/1098002/#habracut">Читать далее</a></div>
+  <p class="titl"><a href="https://habr.com/ru/companies/infostart/news/1098002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098002">Последние скидки на A&amp;PM EVENT 2026: до 80% до конца октября</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Последние скидки на A amp PM EVENT 2026 до 80 до конца октября:s:14150584:e:1001-->
+<!----><!--2026-10-22 09:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Блок питания PCCooler YK550 продемонстрировал экономичность выше средней, пережил все наши тесты и не утратил работоспособность, что стоит оценить положительно. В целом данная модель не претендует на лидирующие позиции, но представляет собой вполне типичный продукт бюджетного уровня в своем классе мощности. С положительной стороны стоит отметить вполне достойную акустическую эргономику для столь бюджетного решения, а также вентилятор на гидравлическом подшипнике.</div>
+  <p class="titl"><a href="https://www.ixbt.com/supply/pccooler-yk550h-review.html">Обзор блока питания PCCooler YK550H</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.ixbt.com/export/articles.rss">iXBT.com</a></i></div>
+</div><!--n:Технологии/Обзор блока питания PCCooler YK550H:s:14151729:e:1231-->
+<!----><!--2026-10-22 13:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Мясорубки, которые быстро и без проблем делают мясной фарш, встречаются не так часто, как хотелось бы. Судя по нашим тестам — через одну, и даже чуть реже. Но мы подняли все обзоры с 2024 года, чтобы найти для вас лучшие мясорубки с точки зрения именно помола мяса.</div>
+  <p class="titl"><a href="https://www.ixbt.com/home/top5-meat-grinders-2026.html">Заточены под мясо: топ-5 мясорубок для приготовления фарша, протестированных нашей лабораторией с 2024 года</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.ixbt.com/export/articles.rss">iXBT.com</a></i></div>
+</div><!--n:Технологии/Заточены под мясо топ-5 мясорубок для приготовления фарша, протестированных нашей лабораторией с 2024 года:s:14153061:e:989-->
+<!----><!--2026-10-22 18:00:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">На рынке в прошлом году появились три флэшки этого уровня, все три мы протестировали, существенных различий между ними не обнаружили. Несложно заметить, что попытка оказалась не слишком удачной: все три модели страдают от перегрева и значительно снижают скорость при работе в максимальном режиме интерфейса (USB 3.2 Gen2×2). На практике можно ограничиться 10-гигабитным интерфейсом, что существенно расширяет выбор. Либо, если именно скорость имеет первоочередное значение, можно отказаться от максимальной компактности. Большая дура с кабелем менее удобна, но пока приходится идти на компромиссы и выбирать, что важнее — компактность и удобство или всё же производительность.</div>
+  <p class="titl"><a href="https://www.ixbt.com/data/oscoo-d8-1tb-review.html">Тестирование флэшдрайва Oscoo D8 1 ТБ со скоростью до 2 ГБ/с</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.ixbt.com/export/articles.rss">iXBT.com</a></i></div>
+</div><!--n:Технологии/Тестирование флэшдрайва Oscoo D8 1 ТБ со скоростью до 2 ГБ с:s:14154290:e:1650-->
+<!----><!--2026-10-22 19:17:05-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/project_motor_racing/news/razrabotchiki_project_motor_racing_prizvali_fanatov_prekratit_toksichnye_napadki_radi_vyzhivaniya_zhanra-1883923#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/1mvXZfZhYP2RG-p528ODMg.jpeg"></a>Студия Straight4 Studios обратила внимание на острую проблему токсичности и враждебности внутри сообщества поклонников виртуального автоспорта. Ведущий разработчик физики симулятора Project Motor Racing Арис Василакос на выставке SimRacing Expo 2026 во Франкфурте заявил, что агрессивное...</div>
+  <p class="titl"><a href="https://www.playground.ru/project_motor_racing/news/razrabotchiki_project_motor_racing_prizvali_fanatov_prekratit_toksichnye_napadki_radi_vyzhivaniya_zhanra-1883923#utm_source=rss&utm_medium=referral&utm_campaign=news">Разработчики Project Motor Racing призвали фанатов прекратить токсичные нападки ради выживания жанра</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Разработчики Project Motor Racing призвали фанатов прекратить токсичные нападки ради выживания жанра:s:14156089:e:1448-->
+<!----><!--2026-10-22 19:20:10-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/mass_effect_5/news/v_seti_poyavilsya_trejler_otmenyonnoj_mass_effect_s_postarevshej_liaroj_no_ego_podlinnost_vyzyvaet_voprosy-1883924#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/d5H1gZJWb3Hcrq43OPvP8g.jpeg"></a>На фоне закрытия BioWare и отмены следующей Mass Effect в сети появился ролик, который может оказаться не опубликованным ранее трейлером игры. Видео разместили на крупном сабреддите посвящённом научно-фантастической серии, однако его подлинность пока не подтверждена.</div>
+  <p class="titl"><a href="https://www.playground.ru/mass_effect_5/news/v_seti_poyavilsya_trejler_otmenyonnoj_mass_effect_s_postarevshej_liaroj_no_ego_podlinnost_vyzyvaet_voprosy-1883924#utm_source=rss&utm_medium=referral&utm_campaign=news">В сети появился трейлер отменённой Mass Effect с постаревшей Лиарой - но его подлинность вызывает вопросы</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/В сети появился трейлер отменённой Mass Effect с постаревшей Лиарой - но его подлинность вызывает вопросы:s:14157770:e:1439-->
+<!----><!--2026-10-22 19:13:29-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/project_motor_racing/news/studiya_straight4_studios_nazvala_massovye_uvolneniya_razrabotchikov_project_motor_racing_shagom_k_povysheniyu_effektivnosti-1883922#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/si_KUxunhdnuIzWu9diSkw.jpeg"></a>Студия Straight4 Studios после проблемного запуска гоночного симулятора Project Motor Racing столкнулась с необходимостью масштабной реструктуризации штата. Представитель команды и ведущий разработчик физики Арис Василакос на профильной выставке SimRacing Expo 2026 во Франкфурте подтвердил, что...</div>
+  <p class="titl"><a href="https://www.playground.ru/project_motor_racing/news/studiya_straight4_studios_nazvala_massovye_uvolneniya_razrabotchikov_project_motor_racing_shagom_k_povysheniyu_effektivnosti-1883922#utm_source=rss&utm_medium=referral&utm_campaign=news">Студия Straight4 Studios назвала массовые увольнения разработчиков Project Motor Racing шагом к повышению эффективности</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Студия Straight4 Studios назвала массовые увольнения разработчиков Project Motor Racing шагом к повышению эффективности:s:14159455:e:1524-->
+<!----><!--2026-10-22 18:31:25-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184758/"><img src="https://www.povarenok.ru/data/cache/2026oct/12/48/3241296_22567-640x480.jpg"></a>Сочный куриные ножки - простой и быстрый способ порадовать себя и близких вкусным обедом или ужином. Куриные голени в сметанно-чесночной заливке - это взрыв вкуса, очень рекомендую.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184758/">Куриные ножки в сметанном соусе</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Куриные ножки в сметанном соусе:s:14161232:e:861-->
+<!----><!--2026-10-22 21:35:50-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184760/"><img src="https://www.povarenok.ru/data/cache/2026oct/22/58/3243094_93513-640x480.jpg"></a>Моцарелла в карроцце ( или в &quot;карете&quot;)— это классический итальянский сэндвич с жареным сыром, приготовленный из моцареллы, помещенной между ломтиками хлеба, обваленной в яйце до золотистой корочки и тягучей массы.
+Дословно переводится как «моцарелла в карете»: хлеб в золотистой яичной оболочке выступает в роли кареты, а...</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184760/">Моцарелла в " карете"</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Моцарелла в карете:s:14162204:e:1111-->
+<!----><!--2026-10-22 19:03:29-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184759/"><img src="https://www.povarenok.ru/data/cache/2026oct/22/57/3243090_71522-640x480.jpg"></a>Яркий и красивый двухцветный блинный рулет с начинкой из творожного сыра, пармезана, укропа и чеснока. Идеально подойдёт и в качестве холодной закуски на праздничный стол, и на каждый день. Блинный рулет легко и просто готовится из самых доступных продуктов. В составе рецепта блинчиков, присутствует свекольный сок и шпинатное...</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184759/">Блинный рулет с творожно-сырной начинкой</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Блинный рулет с творожно-сырной начинкой:s:14163403:e:1151-->
+<!----><!--2026-08-26 11:42:46-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ao3EODk7iUJGSat2">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a8dc438393b89424649ab76_6a8dc613ffe36a24a084b49e/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ao3EODk7iUJGSat2"><span class="inlbl">Юмор, который цепляет. Смешные карикатуры Максима Смагина</span></a>
+    <i class="trow smaller2"><span class="inlbl">ВХОД БЕСПЛАТНЫЙ</span></i>
+    <i class="trow smaller3">2026-08-26</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Кажется, у Максима Смагина есть особый радар на всё нелепое и смешное. Он ловит эти моменты и тут же превращает их в карикатуры. Его работы будто подслушивают наши мысли: «Ну вот, я тоже это заметил!», и от этого смеяться хочется ещё сильнее. Почти в каждой картинке знакомая ситуация, доведённая до абсурда так ловко, что остаётся только кивнуть, ну точно, именно так всё и бывает. Максим Смагин, художник, историк, директор единственного в России Музея карикатуры и единственный карикатурист, чьи работы побывали в космосе...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Юмор, который цепляет. Смешные карикатуры Максима Смагина:s:14164683:e:1839-->
+<!----><!--2026-10-16 11:38:51-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atHZhr4QihRSwlhZ">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad1d986be108a1452c25859_6ad1de11733b6714e9d92d0e/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atHZhr4QihRSwlhZ"><span class="inlbl">Брюки-карго в 2026–2027: как утилитарный тренд стал главным в гардеробе</span></a>
+    <i class="trow smaller2"><span class="inlbl">УЛИЧНЫЙ СТИЛЬ</span></i>
+    <i class="trow smaller3">2026-10-16</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Мода 2026–2027 окончательно сменила курс: на смену минимализму и «тихой роскоши» приходит эклектичный максимализм с яркими цветами, фактурами и выразительными силуэтами. И если вы думали, что брюки-карго — это пережиток нулевых, самое время пересмотреть взгляды. Утилитарный тренд вернулся на подиумы и в стритстайл с новой силой, объединив практичность, комфорт и стиль.  Возвращение карго — не случайность. Дизайнеры всё чаще обращаются к рабочей эстетике: на показах Miu Miu весна-лето 2026 модели...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Брюки-карго в 2026 2027 как утилитарный тренд стал главным в гардеробе:s:14166667:e:1805-->
+<!----><!--2026-10-17 14:23:18-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atKgc_5wA2igrB6p">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad2a073fe700368a0ac1ea9_6ad35a7d8480b7265536f4e3/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atKgc_5wA2igrB6p"><span class="inlbl">Рецензия на сериал «Трудно быть богом». И сценаристом книжной экранизации</span></a>
+    <i class="trow smaller2"><span class="inlbl">ОТ ХУДШЕГО К ЛУЧШЕМУ</span></i>
+    <i class="trow smaller3">2026-10-17</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">У меня складывается стойкое впечатление, что российский кинематограф сильно перестроился в пользу сериалов. Хорошее массовое российское кино существует, но редкий релиз обходится без откровенных недостатков. Посему у нас всё резко перерождается в киносказки и фильмы по реальным событиям, которые нынче пользуются большим спросом. А вот сериалы начали развиваться во всю ширь: нет угнетённых ни в жанре, ни в размахе, ни в подаче. Сейчас у каждого стриминга есть по какому-нибудь огромному хиту, что будоражит умы зрителей...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Рецензия на сериал Трудно быть богом . И сценаристом книжной экранизации:s:14168632:e:1885-->
+<!----><!--2026-10-16 12:08:14-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atFMImDX1lL6f8rw">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad14c2260d7d652fa7fcaf0_6ad14ca6318b2843340b1248/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atFMImDX1lL6f8rw"><span class="inlbl">Новые исследования: почему после еды может появляться выраженная сонливость</span></a>
+    <i class="trow smaller2"><span class="inlbl">ТОП 100 ВРАЧЕЙ | ЗДОРОВЬЕ И ДОЛГОЛЕТИЕ</span></i>
+    <i class="trow smaller3">2026-10-16</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Плотный обед или даже легкий углеводный перекус, после которого неудержимо клонит в сон, — знакомая многим ситуация. Долгое время считалось, что причина кроется исключительно в банальном переедании и перераспределении кровотока, когда организм направляет основные силы к желудоку для переваривания пищи. Однако современные сомнологические и эндокринологические исследования показывают, что выраженная сонливость после еды — это яркий маркер метаболической негибкости, резких скачков глюкозы и скрытой инсулинорезистентности...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Новые исследования почему после еды может появляться выраженная сонливость:s:14170689:e:1938-->
+<!----><!--2026-10-20 15:14:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atddNohyeVtzfmUQ">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad75d368872795b737e6510_6ad75d366146595b7b5defc8/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atddNohyeVtzfmUQ"><span class="inlbl">Аналитики спрогнозировали, что будет со ставкой и рублем к концу 2026 года</span></a>
+    <i class="trow smaller2"><span class="inlbl">ФЕДЕРАЛПРЕСС</span></i>
+    <i class="trow smaller3">2026-10-20</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">МОСКВА, 20 октября, ФедералПресс. Аналитики ожидают дальнейшего снижения ключевой ставки и ослабления рубля до конца 2026 года. По их мнению, действия Банка России будут осторожными. Согласно презентации стратегии «ВИМ Инвестиции» на рынке капитала на четвертый квартал, которую приводит «РБК Инвестиций», базовый сценарий предполагает снижение ставки на 25 б.п., до 13,75 % к концу года. В 2027 году ее средний размер прогнозируется в районе 13 % – это выше, чем приведенный в стратегии прогнозный диапазон Центробанка в 10,5–12,5 %...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Аналитики спрогнозировали, что будет со ставкой и рублем к концу 2026 года:s:14172806:e:1858-->
+<!----><!--2026-10-21 09:19:52-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/athYS4wtABJANEsQ">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad8584b8c2d001240344b10_6ad8584b7644b856e17d95ab/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/athYS4wtABJANEsQ"><span class="inlbl">На строительстве поликлиники в Красногорске завершили возведение стен</span></a>
+    <i class="trow smaller2"><span class="inlbl">РАДИО 1</span></i>
+    <i class="trow smaller3">2026-10-21</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Поликлинику для взрослых и детей, рассчитанную на 400 посещений за смену, строят в составе жилого комплекса «Ильинские луга» на территории округа Красногорск. Об ходе работ рассказали в министерстве жилищной политики Московской области. В настоящее время завершено возведение коробки здания. «Готовы наружные и внутренние стены и перегородки, закончена гидроизоляция подземной части. Ведётся монтаж кровли и оконных конструкций, черновая отделка помещений и прокладка внутренних коммуникаций», — говорится в сообщении...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/На строительстве поликлиники в Красногорске завершили возведение стен:s:14174835:e:1854-->
+<!----><!--2026-08-29 17:02:04-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/apJ9Cb8WJnHzNFW1">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a927d09bf162671f33455b5_6a927d598dd10e7a00a236d1/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/apJ9Cb8WJnHzNFW1"><span class="inlbl">Почему в битве при Фермопилах персы просто не перестреляли греков?</span></a>
+    <i class="trow smaller2"><span class="inlbl">ЖИВАЯ СРЕДНЯЯ АЗИЯ</span></i>
+    <i class="trow smaller3">2026-08-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">В 480-м году до нашей эры персидский царь Ксеркс I привел к Фермопильскому ущелью армию, которую античные авторы оценивали в миллион человек. Современные историки скромно округляют это число до 200-250 тысяч. Против этой толпы стояли от 5200 до 7700 греков во главе со спартанским царем Леонидом. Логика подсказывает: если у вас есть пара сотен тысяч людей с луками, а против них стоит жалкая тысяча мужиков в нижнем белье (ну ладно, в бронзовых кастрюлях), нужно просто раздать приказ «Пли!» и пойти пить чай...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Почему в битве при Фермопилах персы просто не перестреляли греков:s:14176859:e:1816-->
+<!----><!--2026-07-29 08:58:07-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amfzyPMxCkdEHKyD">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a67f3c8f3310a47441cac83_6a67fec0ccc06762b6583b81/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amfzyPMxCkdEHKyD"><span class="inlbl">Как избавиться от муравьёв в теплице и на грядках: почему они возвращаются</span></a>
+    <i class="trow smaller2"><span class="inlbl">ПОПУЛЯРНАЯ НАУКА</span></i>
+    <i class="trow smaller3">2026-07-29</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Вечером вы пролили муравейник, посыпали дорожку порошком и с чувством выполненного долга закрыли теплицу. Утром на том же месте снова движется чёрная цепочка. Кажется, муравьи пережили конец света и вышли на работу по расписанию. Скорее всего, обработка сработала — просто не там, где нужно. Вы уничтожили часть рабочих муравьёв на поверхности, а матка, личинки и основная масса колонии остались под землёй.  История получилось простой:  Вечером вы объявили муравейнику о ликвидации их предприятия. Утром сотрудники вышли на смену: приказ до подземного филиала не дошёл...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Как избавиться от муравьёв в теплице и на грядках почему они возвращаются:s:14178835:e:1962-->
+<!----><!--2026-10-22 15:14:41-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atoAyIpu2GVJf53Y">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ada00c88a6ed865497f9dd8_6ada00c82099590fb1567865/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atoAyIpu2GVJf53Y"><span class="inlbl">«Терминатор» на колесах: Арнольд Шварценеггер прокатился на электровелосипеде</span></a>
+    <i class="trow smaller2"><span class="inlbl">ЛЕДИ MAIL</span></i>
+    <i class="trow smaller3">2026-10-22</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Арнольд Шварценеггер вновь доказал, что находится в прекрасной физической форме. 79-летний актер и экс-губернатор Калифорнии был запечатлен папарацци во время поездки на массивном электровелосипеде с широкими шинами. Для активного отдыха на свежем воздухе звезда выбрал максимально комфортный и узнаваемый образ. На нем была черная футболка с логотипом картины «Терминатор: Темные судьбы», черные спортивные шорты, высокие гольфы и кроссовки...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Терминатор на колесах Арнольд Шварценеггер прокатился на электровелосипеде:s:14180971:e:1727-->
+<!----><!--2026-10-16 15:25:07-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atISiH5t1Ed_4SH3">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad212887e6dd4477fe121f7_6ad215e45dd01a7e039e5ede/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atISiH5t1Ed_4SH3"><span class="inlbl">Ода женственности: Chanel Весна 2027 и новая роскошь!</span></a>
+    <i class="trow smaller2"><span class="inlbl">ШИТЬ САМОЙ ЗДОРОВО</span></i>
+    <i class="trow smaller3">2026-10-16</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Неделя моды в Париже завершилась, но её главное эхо всё ещё звучит в Grand Palais. Показ Chanel Весна-Лето 2027, ставший второй коллекцией креативного директора Матье Блази для легендарного дома, был не просто демонстрацией одежды. Это была тщательно выстроенная, почти театральная ода женственности во всех её проявлениях - от хрупкой незащищённости до сокрушительной силы. Блази удалось создать одну из самых стильных, богатых и по-настоящему чувственных коллекций последних лет, доказав, что новая роскошь - это прежде всего свобода...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Ода женственности Chanel Весна 2027 и новая роскошь:s:14182878:e:1835-->
+<!----><!--2026-07-28 07:00:29-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/amTSLSYcyRn5KSe5">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a64d22d261cc919f92927b9_6a64d300a52c4438aa1e52cd/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/amTSLSYcyRn5KSe5"><span class="inlbl">12 необычных пород собак: от маленьких до больших</span></a>
+    <i class="trow smaller2"><span class="inlbl">DOGSFORUM</span></i>
+    <i class="trow smaller3">2026-07-28</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Мир собак настолько разнообразен, что порой кажется, будто природа и человек вместе устроили конкурс на самую нестандартную идею.  И сегодня я хочу поделиться подборкой пород, которые лично меня каждый раз заставляют улыбаться, удивляться и чесать затылок от восхищения. Сразу оговорюсь: всё, что дальше написано, это мои личные впечатления и наблюдения, а не диагноз или приговор конкретной породе.  По моим наблюдениям, характер собаки складывается не только из генов, но и из воспитания, окружения, ранней социализации и просто везения на хозяев...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/12 необычных пород собак от маленьких до больших:s:14184837:e:1852-->
+<!----><!--2026-10-23 03:27:44-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-o-dozhdyakh-v-nachale-sleduyushei-nedeli-23-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/23/00/7015243/13385ccb279f69196996ce78a12d2fbfb8d6a135.jpg"></a>В начале следующей недели в Москву приду дожди. Воздух прогреется до +10 градусов. Об этом сообщает Гидрометцентр РФ.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-o-dozhdyakh-v-nachale-sleduyushei-nedeli-23-10-2026.htm">Гидрометцентр: дожди придут в Москву в начале следующей недели</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Гидрометцентр дожди придут в Москву в начале следующей недели:s:14186815:e:933-->
+<!----><!--2026-10-23 01:54:17-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/rodivshaya-15-detei-moskvichka-poluchila-zvanie-mat-geroinya-23-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/22/22/7015240/7ac317174d7d756b83df11e777b7dc47ebcd46c5.jpg"></a>Родившая 15 детей москвичка Надежда Рогова получила почетное звание «Мать-героиня». Соответствующий указ подписал президент России Владимир Путин.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/rodivshaya-15-detei-moskvichka-poluchila-zvanie-mat-geroinya-23-10-2026.htm">Родившая 15 детей москвичка Надежда Рогова получила звание «Мать-героиня»</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Родившая 15 детей москвичка Надежда Рогова получила звание Мать-героиня:s:14187921:e:1007-->
+<!----><!--2026-10-23 03:37:24-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/sinoptik-rasskazala-o-pogode-bez-zamorozkov-v-blizhaishie-dni-v-moskve-23-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/23/00/7015246/e7a349d68c96279ddd5d044c54173be213c26926.jpg"></a>Заморозки в Москве остались позади. Как минимум в ближайшие пять дней столбики термометров в минус не уйдут, рассказала aif.ru ведущий специалист информационного агентства «Метеоновости» Татьяна Позднякова.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/sinoptik-rasskazala-o-pogode-bez-zamorozkov-v-blizhaishie-dni-v-moskve-23-10-2026.htm">Позднякова: в Москве в ближайшие пять дней заморозков не будет</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Позднякова в Москве в ближайшие пять дней заморозков не будет:s:14189119:e:1111-->
+<!----><!--2026-10-23 11:48:00-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1798772><img src="https://i.artfile.ru/s/1798772_231026_45_ArtFile_ru.jpg"></a><br>Разрешение 3440x1440<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=13194>Баба_Яга</a> 23.10.2026 - 11:48</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=8">Раздел Космос (Юпитер, планета, Ио, Европа, спутники, снег, горы, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Космос (Юпитер, планета, Ио, Европа, спутники, снег, горы, ):s:14190403:e:670-->
+<!----><!--2026-10-23 11:48:38-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1798774><img src="https://i.artfile.ru/s/1798774_231026_22_ArtFile_ru.jpg"></a><br>Разрешение 3840x2160<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=13194>Баба_Яга</a> 23.10.2026 - 11:48</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=12">Раздел Праздничные (нежить, маска, тыквы, листья, лес, осень, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Праздничные (нежить, маска, тыквы, листья, лес, осень, ):s:14191223:e:665-->
+<!----><!--2026-10-23 14:04:20-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/b0/37/a4/b037a4ba1cb946fea7d7590cefdd6556.webp" /><p>Операторы связи предложили Государственной комиссии по&nbsp;радиочастотам (ГКРЧ) внести ряд исключений в&nbsp;требование устанавливать только российские базовые станции с 2028&nbsp;года. Об&nbsp;этом <a href="https://www.rbc.ru/technology_and_media/23/10/2026/6ada38329a794754944cd964" rel="noopener nofollow">рассказал</a> директор по&nbsp;регуляторным вопросам «ВымпелКома»...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1098578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098578">Операторы связи попросили смягчить требование об использовании российских базовых станций с 2028 года</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Операторы связи попросили смягчить требование об использовании российских базовых станций с 2028 года:s:14192032:e:1209-->
+<!----><!--2026-10-23 14:10:22-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/cc/ce/3c/ccce3c9eb52eaa4641430ac34ff0a1e6.png" /><p>В сентябре 2024 года на конференции «Новое время — новый Greenplum» команда Arenadata <a href="https://www.youtube.com/watch?v=m9Z04PgF__Q">рассказала</a> о планах продолжить развитие технологии в новом open source проекте. В январе 2025 года состоялся официальный запуск Greengage DB.</p><p>За два года проект прошел огромный путь, а недавно мы опубликовали первую публичную<strong><a...</div>
+  <p class="titl"><a href="https://habr.com/ru/companies/greengage/news/1098580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098580">Greengage DB после Greenplum: безопасность, Disaster Recovery и ggrebalance на конференции ArenaTech</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Greengage DB после Greenplum безопасность, Disaster Recovery и ggrebalance на конференции ArenaTech:s:14193476:e:1197-->
+<!----><!--2026-10-23 14:26:10-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/74/7b/74/747b744c139074d861aa29a2d50e3824.jpg" /><p>Выращенная в&nbsp;лаборатории скелетная мышечная ткань способна сокращаться, но&nbsp;создаваемое ею движение зачастую настолько мало, что&nbsp;его едва можно увидеть. Это создаёт проблемы для&nbsp;биогибридных роботов, которые двигаются за&nbsp;счёт живых мускулов. Исследователи из&nbsp;Швейцарской высшей технической школы Цюриха (ETH Zürich) показали, что&nbsp;значение имеет...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1098600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098600">Выращенные в пробирке мышиные мышцы позволяют крошечным роботам прыгать, плавать и хватать предметы</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Выращенные в пробирке мышиные мышцы позволяют крошечным роботам прыгать, плавать и хватать предметы:s:14194852:e:1291-->
+<!----><!--2026-10-23 16:05:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Неделю мы ездили на Deepal S07 — городском последовательном гибриде Changan с «Автотора» – так, как ездит обычный владелец: дом, офис, школа, трасса, а вечером розетка. Из 617 км почти 592 пришлись на батарею, бензина ушло меньше двух литров, и на АЗС мы не заехали ни разу. Сколько на самом деле можно проехать без генератора, почему машина не отдаёт последние 15% заряда и во сколько обходится километр по домашнему тарифу?</div>
+  <p class="titl"><a href="https://www.ixbt.com/car/deepal-s07-review.html">Тест-драйв гибрида Deepal S07: неделя на розетке без заправок. Реальный запас хода на батарее, домашняя зарядка и экономика километра</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.ixbt.com/export/articles.rss">iXBT.com</a></i></div>
+</div><!--n:Технологии/Тест-драйв гибрида Deepal S07 неделя на розетке без заправок. Реальный запас хода на батарее, домашняя зарядка и экономика километра:s:14196377:e:1297-->
+<!----><!--2026-10-23 10:30:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Классы стирки, отжима и энергоэффективности не дадут вам представления о том, хорошо ли будет стирать машина, не будет ли скакать во время отжима, не затопит ли соседей, станет ли вам дружелюбной помощницей, с которой просто и удобно. Поэтому лучше вместе с нами найдите ответы на часто задаваемые вопросы о стиралках. Ведь задают их именно покупатели, а мы, имея опыт тестирования стиральных машин, знаем ответы.</div>
+  <p class="titl"><a href="https://www.ixbt.com/home/how-to-choose-a-washing-machine.html">Как выбрать стиральную машину: 11 вопросов, на которые надо ответить перед покупкой</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.ixbt.com/export/articles.rss">iXBT.com</a></i></div>
+</div><!--n:Технологии/Как выбрать стиральную машину 11 вопросов, на которые надо ответить перед покупкой:s:14197957:e:1233-->
+<!----><!--2026-10-23 19:07:13-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/one_piece_grand_gourmet/news/kulinarnyj_simulyator_one_piece_grand_gourmet_startoval_v_steam_so_smeshannymi_otzyvami_iz_za_problemnogo_interfejsa-1884216#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/ssbDMoqX1iO5U8ktdas9pA.jpeg"></a>Релиз кулинарного симулятора ONE PIECE: Grand Gourmet от студии Kairosoft и издательства Bandai Namco Entertainment на площадке Steam состоялся 23 октября и сразу сопровождался заметной волной критики со стороны игроков. Проект посвящен управлению плавучим рестораном...</div>
+  <p class="titl"><a href="https://www.playground.ru/one_piece_grand_gourmet/news/kulinarnyj_simulyator_one_piece_grand_gourmet_startoval_v_steam_so_smeshannymi_otzyvami_iz_za_problemnogo_interfejsa-1884216#utm_source=rss&utm_medium=referral&utm_campaign=news">Кулинарный симулятор ONE PIECE: Grand Gourmet стартовал в Steam со смешанными отзывами из-за проблемного интерфейса</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Кулинарный симулятор ONE PIECE Grand Gourmet стартовал в Steam со смешанными отзывами из-за проблемного интерфейса:s:14199389:e:1447-->
+<!----><!--2026-10-23 19:10:45-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/v_yadre_linux_7_4_poyavilas_podderzhka_kontrollerov_nintendo_switch_2_blagodarya_inzheneru_valve-1884217#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/rJPHFZqhXaqrZak_nKHHUQ.png"></a>Разработчики ядра Linux интегрировали предварительный драйвер для контроллеров консоли Nintendo Switch 2 в рамках обновления подсистемы HID для версии Linux 7.4. Созданием и продвижением патчей занималась инженер Вики Пфау, выступающая от лица компании Valve. Работа...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/v_yadre_linux_7_4_poyavilas_podderzhka_kontrollerov_nintendo_switch_2_blagodarya_inzheneru_valve-1884217#utm_source=rss&utm_medium=referral&utm_campaign=news">В ядре Linux 7.4 появилась поддержка контроллеров Nintendo Switch 2 благодаря инженеру Valve</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/В ядре Linux 7.4 появилась поддержка контроллеров Nintendo Switch 2 благодаря инженеру Valve:s:14201086:e:1344-->
+<!----><!--2026-10-23 19:20:11-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/entuziasty_snyali_iskusstvennoe_ogranichenie_nvidia_i_uskorili_videokarty_geforce_rtx_30_pochti_v_2_raza-1884221#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/69qxeMJd3PCZ8Qw8CePtXQ.png"></a>Сообщество разработчиков и специалистов по машинному обучению обнаружило факт намеренного программного замедления потребительских видеокарт серии GeForce RTX 30 со стороны компании NVIDIA. В ходе анализа микроархитектуры Ampere выяснилось, что производитель аппаратно сохранил высокий потенциал кремния...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/entuziasty_snyali_iskusstvennoe_ogranichenie_nvidia_i_uskorili_videokarty_geforce_rtx_30_pochti_v_2_raza-1884221#utm_source=rss&utm_medium=referral&utm_campaign=news">Энтузиасты сняли искусственное ограничение NVIDIA и ускорили видеокарты GeForce RTX 30 почти в 2 раза</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Энтузиасты сняли искусственное ограничение NVIDIA и ускорили видеокарты GeForce RTX 30 почти в 2 раза:s:14202636:e:1470-->
+<!----><!--2026-10-23 13:06:44-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184765/"><img src="https://www.povarenok.ru/data/cache/2026oct/23/32/3243159_78436-640x480.jpg"></a>Жареный винегрет — это интересная вариация классического салата, где овощи не просто смешивают, а обжаривают. В результате они приобретают насыщенный вкус. Вместо привычных огурцов и квашеной капусты в моем винегрете- зелёные оливки и каперсы. Блюдо получается красочним, самодостаточным, отлично подходит как самостоятельное, так и ...</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184765/">Жареный винегрет с оливками и каперсами</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Жареный винегрет с оливками и каперсами:s:14204337:e:1163-->
+<!----><!--2026-10-23 12:47:47-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184764/"><img src="https://www.povarenok.ru/data/cache/2026oct/23/08/3243250_30662-640x480.jpg"></a>Полезный лёгкий завтрак для тех, кто любит утром не просто выпить чашку кофе на бегу, а подкрепиться основательно, но без тяжести. В этом омлете нет молока, да оно там и ни к чему. Натёртый цукини даёт достаточно жидкости, чтобы омлет получился нежным и сочным.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184764/">Омлет с цукини без молока</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Омлет с цукини без молока:s:14205627:e:990-->
+<!----><!--2026-10-23 13:42:40-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184766/"><img src="https://www.povarenok.ru/data/cache/2026oct/23/23/3243259_82239-640x480.jpg"></a>Предлагаю вам приготовить полезный суп с набором осенних овощей, с чечевичной полентой и консервированным тунцом в с/с. В супе много белка. Готовится суп очень быстро, а результат вас удивит.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184766/">Чечевично-овощной суп с консервированным тунцом</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Чечевично-овощной суп с консервированным тунцом:s:14206716:e:910-->
+<!----><!--2026-10-23 13:02:59-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atsyAYhyeVtzlvax">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adb32018872795b7396f6b1_6adb320254229c32c78d8bc9/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atsyAYhyeVtzlvax"><span class="inlbl">Сложность расшифровки манускрипта Войнича объяснили перепутанными страницами</span></a>
+    <i class="trow smaller2"><span class="inlbl">NAKED SCIENCE</span></i>
+    <i class="trow smaller3">2026-10-23</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Авторы нового исследования нашли одну из причин, по которым текст рукописи Войнича так трудно поддается прочтению: в XV веке книгу переплели неправильно, из-за чего страницы оказались не на своих местах. Ученые рассчитывают, что это открытие может стать важным шагом к расшифровке документа. Рукопись Войнича — это средневековый кодекс, состоящий из тонких пергаментных листов. Манускрипт датируется началом XV века и, вероятнее всего, был создан в Центральной или Южной Европе. На 240 страницах рукописи...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Сложность расшифровки манускрипта Войнича объяснили перепутанными страницами:s:14207768:e:1832-->
+<!----><!--2026-10-21 11:30:33-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ath2dNuZa2m0l5Qm">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad87674db996b69b4979426_6ad8770f5504cd7f32c2c1cf/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ath2dNuZa2m0l5Qm"><span class="inlbl">Мощь, которую так и не увидели в море. История тяжёлый крейсеров класса «Дракон»...</span></a>
+    <i class="trow smaller2"><span class="inlbl">АЛЬТЕРНАТИВНАЯ ИСТОРИЯ</span></i>
+    <i class="trow smaller3">2026-10-21</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Представьте себе Польшу, которую никогда не делили между соседями. Государство, сохранившее династию Ягеллонов, превратившееся в одну из крупнейших европейских держав и вступившее в XX век с мощной промышленностью, армией и собственными геополитическими амбициями. В таком мире Польша вполне могла бы обзавестись не только эсминцами и подводными лодками, но и настоящими тяжёлыми крейсерами с восьмидюймовыми орудиями. Именно такой вариант истории предлагает наш западный коллега Nightmare1908648, опубликовавший 18 октября 2026 года проект польских тяжёлых крейсеров типа «Дракон»...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Мощь, которую так и не увидели в море. История тяжёлый крейсеров класса Дракон , которые должны были перевернуть баланс сил на Балтике:s:14209785:e:2001-->
+<!----><!--2026-10-22 15:33:25-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atoCqYhyeVtzj2r-">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ada02a98872795b738f6afe_6ada02a9607989629ad1017f/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atoCqYhyeVtzj2r-"><span class="inlbl">Представлен робот-хозяйка для наведения порядка в доме — видео</span></a>
+    <i class="trow smaller2"><span class="inlbl">НАУКА</span></i>
+    <i class="trow smaller3">2026-10-22</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Нью-йоркская Tuesday Labs открыла предзаказ на Voxel Series-1 — двуногого домашнего робота, предназначенного помогать с повседневными бытовыми задачами, включая поиск потерянных вещей. О новинке стоимостью около 20 000 долларов рассказал Interesting Engineering. Робот выглядит как мультпликационный персонаж и, более того, обучен на анимации. Этим обусловлен несколько тревожный характер помощника — он побаивается улицы, воды и острых предметов. У робота две руки с семью степенями свободы и полностью...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Представлен робот-хозяйка для наведения порядка в доме видео:s:14212069:e:1761-->
+<!----><!--2026-08-12 12:05:36-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/anumGIs-3n2KcKKN">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a7ba6188b3ede7d8a70a28d_6a7ba7d8ab81f706647aca46/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/anumGIs-3n2KcKKN"><span class="inlbl">Норма холестерина упала с 7 до 5: кто и зачем ужесточает правила</span></a>
+    <i class="trow smaller2"><span class="inlbl">ТОП 100 ВРАЧЕЙ | ЗДОРОВЬЕ И ДОЛГОЛЕТИЕ</span></i>
+    <i class="trow smaller3">2026-08-12</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Если открыть советские медицинские справочники 1980-х годов или бланки лабораторных анализов тридцатилетней давности, можно увидеть, что норма общего холестерина в крови доходила до 6,5–7,0 ммоль/л. В современных же клинических рекомендациях целевой уровень общего холестерина для здорового человека ограничили планкой в 5,0 ммоль/л, а показатель липопротеинов низкой плотности («плохого» холестерина, ЛПНП) постоянно пересматривают в сторону снижения — вплоть до 1,4 ммоль/л и ниже для пациентов высокого риска...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Норма холестерина упала с 7 до 5 кто и зачем ужесточает правила:s:14213981:e:1866-->
+<!----><!--2026-10-23 14:55:43-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/attL2c4BhR87iUIN">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adb4bd9ce01851f3b89420d_6adb4bd97644b856e17e19af/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/attL2c4BhR87iUIN"><span class="inlbl">Сергей Жуков ответил на критику Отара Кушанашвили из-за веса</span></a>
+    <i class="trow smaller2"><span class="inlbl">РАДИО 1</span></i>
+    <i class="trow smaller3">2026-10-23</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Певец Сергей Жуков прокомментировал высказывания журналиста Отара Кушанашвили о своей внешности. В беседе с Общественной Службой Новостей лидер группы «Руки Вверх!» заявил, что давно принял себя и не комплексует из-за веса. Ранее Кушанашвили в авторской программе напомнил артисту о проблемах с лишними килограммами и призвал его не скрывать переживания по этому поводу. Жуков ответил, что знает о своих проблемах, но не понимает, почему они так беспокоят критиков. «Я знаю о своих проблемах и давно принял себя...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Сергей Жуков ответил на критику Отара Кушанашвили из-за веса:s:14215999:e:1814-->
+<!----><!--2026-10-23 05:53:57-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atrNhM4BhR87h7mq">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adacd84ce01851f3b87b9aa_6adacd84607989629ad1244c/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atrNhM4BhR87h7mq"><span class="inlbl">Мероприятие: Наука, философия и нейрогаджеты: форум «СО.ЗНАНИЕ»</span></a>
+    <i class="trow smaller2"><span class="inlbl">NAKED SCIENCE</span></i>
+    <i class="trow smaller3">2026-10-23</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Участники форума обсудят, как устроено человеческое мышление и что с ним делать в мире искусственного интеллекта. Человеческий мозг остается одной из самых сложных и малоизученных систем в мире. Как он устроен, как формируются наши мысли, эмоции и привычки, что определяет возможности человеческого интеллекта и каковы границы его развития — эти вопросы сегодня находятся на пересечении нейрофизиологии, когнитивных исследований и технологических разработок. Стремительное развитие искусственного интеллекта...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Мероприятие Наука, философия и нейрогаджеты форум СО.ЗНАНИЕ:s:14217963:e:1826-->
+<!----><!--2026-10-23 08:51:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atr2GIhyeVtzlXaB">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adaf6188872795b73957681_6adaf61928c5732813620ba4/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atr2GIhyeVtzlXaB"><span class="inlbl">Японский писатель Рю Мураками скончался в возрасте 74 лет</span></a>
+    <i class="trow smaller2"><span class="inlbl">ТЕЛЕКАНАЛ 360</span></i>
+    <i class="trow smaller3">2026-10-23</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Известный японский писатель Рюноскэ Мураками умер 17 октября в возрасте 74 лет. О его смерти издательство Gentosha , выпускавшее книги автора с 1990-х годов, сообщило 23 октября. Мураками родился 19 февраля 1952 года в городе Сасэбо в семье художника. За свою карьеру написал более 40 романов и получил множество литературных наград. Среди наиболее известных произведений автора — «Все оттенки голубого», «Дети из камеры хранения» и «Мисо-суп»...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Японский писатель Рю Мураками скончался в возрасте 74 лет:s:14219938:e:1669-->
+<!----><!--2026-06-01 16:01:29-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ahyKqvuSMwTfGxZ2">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a1c8aaafb923304df1b1676_6a1c8e49fb923304df1e9602/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ahyKqvuSMwTfGxZ2"><span class="inlbl">Опилки в огороде: как они помогут чесноку расти лучше</span></a>
+    <i class="trow smaller2"><span class="inlbl">СДЕЛАЙ САМ </span></i>
+    <i class="trow smaller3">2026-06-01</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Чеснок — одна из самых популярных культур на дачных участках. Чтобы получить богатый урожай крепких и ароматных головок, огородники используют разные приёмы агротехники. Один из них — мульчирование опилками. Этот способ не требует больших затрат, а эффект может оказаться весьма заметным. Разберёмся, как и зачем применять опилки для выращивания чеснока. Мульча из опилок выполняет сразу несколько функций. Прежде всего, она защищает почву от пересыхания: слой опилок замедляет испарение влаги, позволяя сократить частоту поливов...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Опилки в огороде как они помогут чесноку расти лучше:s:14221750:e:1847-->
+<!----><!--2026-10-17 22:23:35-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atJ-1I2n7k2QIJV6">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad27ed48da7ee4d9020957a_6ad27f752295a3095fe49ec2/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atJ-1I2n7k2QIJV6"><span class="inlbl">Сахарозаменители без калорий: почему вес стоит, а тяга к выпечке растёт</span></a>
+    <i class="trow smaller2"><span class="inlbl">ИГОРЬ БОТОГОВСКИЙ</span></i>
+    <i class="trow smaller3">2026-10-17</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Пью «зеро» литрами, калорий ноль, а вес — как вкопанный. И тянет на булку так, будто я вообще ничего не ел. Знакомая картина? Я, как нутрициолог, слышу этот вопрос от подписчиков почти каждую неделю — и каждый раз объясняю один и тот же механизм. Разберёмся, почему «ноль калорий» на этикетке не означает «ноль последствий» для аппетита. Когда вы пьёте обычную сладкую газировку, организм получает два сигнала одновременно: язык сообщает о сладости, а кишечник — о поступлении энергии. Мозг связывает эти сигналы и понимает: всё в порядке, еда пришла...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Сахарозаменители без калорий почему вес стоит, а тяга к выпечке растёт:s:14223732:e:1916-->
+<!----><!--2026-06-08 13:20:15-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/aiaQwcMErFMRxwH-">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a2690c1c304ac5311c701fe_6a26974bee708a6fdbe80682/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/aiaQwcMErFMRxwH-"><span class="inlbl">Почему дизель «задыхается» на высоких оборотах и чем это грозит мотору</span></a>
+    <i class="trow smaller2"><span class="inlbl">АВТОДРАЙВ</span></i>
+    <i class="trow smaller3">2026-06-08</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Введение  Каждый, кто хоть раз садился за руль дизельной машины, наверняка замечал эту особенность: мотор звучит как-то по-тракторному, тяжело, будто нехотя раскручивается. Если поставить руку на рычаг коробки передач на стареньком внедорожнике, можно почувствовать, как дрожь от двигателя передается прямо в ладонь — и это совершенно нормально для дизеля. Некоторые водители ошибочно полагают, что если прибавить газу и поднять обороты, вибрации исчезнут и мотор запоёт веселее. Доля правды в этом есть: на средних оборотах дизель действительно становится ровнее и спокойнее...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Почему дизель задыхается на высоких оборотах и чем это грозит мотору:s:14225816:e:1958-->
+<!----><!--2026-10-24 00:59:17-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/moskovskie-policeiskie-zaderzhali-podozrevaemogo-v-ubiistve-20-letnei-davnosti-24-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/23/21/7015507/11391257e61e9bcb85b3f69faf361a1ab1124619.jpg"></a>Сотрудники московской полиции задержали мужчину, которого подозревают в убийстве, совершенном 20 лет назад. Об этом сообщили в пресс-службе столичного главка МВД.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/moskovskie-policeiskie-zaderzhali-podozrevaemogo-v-ubiistve-20-letnei-davnosti-24-10-2026.htm">Московские полицейские задержали подозреваемого в убийстве, совершенном 20 лет назад</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Московские полицейские задержали подозреваемого в убийстве, совершенном 20 лет назад:s:14227939:e:1090-->
+<!----><!--2026-10-24 03:32:40-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvicham-poobeshali-tepluyu-subbotu-24-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/24/00/7015619/5368583e76cbcc1993ba526422faba611ed64a55.jpg"></a>Москвичей ждет теплая суббота — днем 24 октября в столице ожидается от плюс 11 до плюс 13 градусов. Эти данные следуют из прогноза, опубликованного на сайте Гидрометцентра.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/moskvicham-poobeshali-tepluyu-subbotu-24-10-2026.htm">В Москве 24 октября температура поднимется до плюс 13 градусов</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/В Москве 24 октября температура поднимется до плюс 13 градусов:s:14229245:e:974-->
+<!----><!--2026-10-24 03:04:12-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/vrachi-spasli-83-letnyuyu-zhenshinu-ot-raka-pered-ee-svadboi-24-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/24/00/7015616/1603a3c1937821b2d09e1f02899700b73f0b10cb.jpg"></a>В Москве 83-летнюю женщину, которая готовилась выйти замуж, спасли от рака. Об этой истории рассказали в пресс-службе НМИЦ онкологии им. Н. Н. Блохина.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/vrachi-spasli-83-letnyuyu-zhenshinu-ot-raka-pered-ee-svadboi-24-10-2026.htm">Врачи центра Блохина спасли 83-летнюю женщину от рака перед ее свадьбой</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Врачи центра Блохина спасли 83-летнюю женщину от рака перед ее свадьбой:s:14230389:e:999-->
+<!----><!--2026-10-24 11:19:10-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1798908><img src="https://i.artfile.ru/s/1798908_241026_89_ArtFile_ru.jpg"></a><br>Разрешение 1920x1097<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=13194>Баба_Яга</a> 24.10.2026 - 11:19</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=12">Раздел Праздничные (луна, деревья, тыквы, шляпа, летучие мыши, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Праздничные (луна, деревья, тыквы, шляпа, летучие мыши, ):s:14231576:e:668-->
+<!----><!--2026-10-24 10:17:08-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/79/54/e6/7954e6ed53908f13700b65bed9e584b1.JPG" /><p>Microsoft <a href="https://www.windowscentral.com/microsoft/microsoft-office/once-called-an-email-revolution-by-microsoft-this-outlook-feature-will-be-retired-next-week" rel="noopener nofollow">планирует отказаться</a> от&nbsp;функции «Приоритизация входящих» (Prioritize My Inbox) в&nbsp;Outlook, которая использует Copilot для&nbsp;организации содержимого почтового ящика. Опция будет...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1098874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098874">Microsoft объявила о завершении работы ИИ‑функции в Outlook</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Microsoft объявила о завершении работы ИИ функции в Outlook:s:14232391:e:1046-->
+<!----><!--2026-10-24 14:41:44-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/21/b5/45/21b545a782060534c9a36ca3b9da61fc.png" /><p>Во второй половине октября 2026 года <a href="https://github.com/AnInsomniacy/rayburst/releases/tag/v4.1.0" rel="noopener nofollow">состоялся</a> релиз открытого проекта <a href="https://rayburst.pages.dev/" rel="noopener nofollow">Rayburst</a> 4.1.0.&nbsp;Это мультиплатформенный менеджер загрузок, использующий движок <a href="https://github.com/AnInsomniacy/aria2-next" rel="noopener...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1098328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098328">Выпуск Rayburst 4.1.0 — открытого мультиплатформенного менеджера загрузок</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Выпуск Rayburst 4.1.0 открытого мультиплатформенного менеджера загрузок:s:14233580:e:1071-->
+<!----><!--2026-10-24 10:37:09-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/41/b6/4a/41b64ab933e02466edc863596ad688ba.JPG" /><p>В&nbsp;публичный список рассылки разработчиков ядра Linux (Linux kernel mailing list) <a href="https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities" rel="noopener nofollow">попало</a> несколько сообщений о&nbsp;новых уязвимостях в&nbsp;ядре Linux. В&nbsp;основной ветке ядра они пока не&nbsp;устранены, однако для&nbsp;некоторых из&nbsp;них уже существуют исправления, которые...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1098880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098880">Несколько уязвимостей в ядре Linux по ошибке опубликовали в открытом списке рассылки разработчиков</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Несколько уязвимостей в ядре Linux по ошибке опубликовали в открытом списке рассылки разработчиков:s:14234823:e:1187-->
+<!----><!--2026-10-24 10:30:00-->
+<div class="yb">
+  <div class="rss mw_f scroll ixbt_tech">Если с приготовлением жидких блюд у блендеров обычно нет проблем, то паштет — это вызов для любого измельчителя. Мы включили в эту подборку только те блендеры, которыми готовили паштеты и которые хорошо справились со сложной задачей.</div>
+  <p class="titl"><a href="https://www.ixbt.com/home/10-blenders-to-cook-pate-2026.html">Готовим паштет: 10 блендеров, которые прошли сложный тест</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.ixbt.com/export/articles.rss">iXBT.com</a></i></div>
+</div><!--n:Технологии/Готовим паштет 10 блендеров, которые прошли сложный тест:s:14236238:e:860-->
+<!----><!--2026-10-24 18:10:06-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/tehnologiya_peredachi_zapahov_mozhet_voplotit_davnyuyu_ideyu_hideo_kodzimy_diski_s_zapahom_krovi-1884441#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/HwmzjVG8CDGr9AXptT3AUw.png"></a>Ещё в 1980-х годах Хидео Кодзима хотел сделать так, чтобы дискеты с игрой Snatcher пахли кровью. По задумке разработчика, специальное покрытие должно было плавиться при нагреве компьютера и наполнять комнату запахом места преступления. Руководство Konami...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/tehnologiya_peredachi_zapahov_mozhet_voplotit_davnyuyu_ideyu_hideo_kodzimy_diski_s_zapahom_krovi-1884441#utm_source=rss&utm_medium=referral&utm_campaign=news">Технология передачи запахов может воплотить давнюю идею Хидео Кодзимы - диски с запахом крови</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Технология передачи запахов может воплотить давнюю идею Хидео Кодзимы - диски с запахом крови:s:14237248:e:1364-->
+<!----><!--2026-10-24 17:41:36-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/igry_iz_steam_zapuskayut_pryamo_na_vzlomannoj_playstation_5_bez_striminga_oblaka_i_otdelnoj_ustanovki_linux_na_konsol-1884436#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/_sz5qdTwgS8tcXQGn6jjbQ.webp"></a>Владельцы PlayStation 5 начали запускать Windows-версии игр из своих библиотек Steam непосредственно на взломанных консолях. В отличие от Remote Play или облачного гейминга, игры выполняются локально с использованием аппаратного обеспечения самой PS5. Такую возможность уже...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/igry_iz_steam_zapuskayut_pryamo_na_vzlomannoj_playstation_5_bez_striminga_oblaka_i_otdelnoj_ustanovki_linux_na_konsol-1884436#utm_source=rss&utm_medium=referral&utm_campaign=news">Игры из Steam запускают прямо на взломанной PlayStation 5 - без стриминга, облака и отдельной установки Linux на консоль</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Игры из Steam запускают прямо на взломанной PlayStation 5 - без стриминга, облака и отдельной установки Linux на консоль:s:14238846:e:1453-->
+<!----><!--2026-10-24 17:48:06-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/tomb_raider_2013/news/tomb_raider_otmetil_30_letie_prazdnichnym_trejlerom_o_nasledii_lary_kroft-1884437#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/DgVwssrZrCx2pwxkaBaquA.webp"></a>В 2026 году франшизе Tomb Raider исполняется 30 лет. В честь юбилея представили специальный трейлер, посвящённый истории серии и приключениям Лары Крофт, которая за три десятилетия стала одним из самых узнаваемых персонажей игровой индустрии.</div>
+  <p class="titl"><a href="https://www.playground.ru/tomb_raider_2013/news/tomb_raider_otmetil_30_letie_prazdnichnym_trejlerom_o_nasledii_lary_kroft-1884437#utm_source=rss&utm_medium=referral&utm_campaign=news">Tomb Raider отметил 30-летие праздничным трейлером о наследии Лары Крофт</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Tomb Raider отметил 30-летие праздничным трейлером о наследии Лары Крофт:s:14240559:e:1270-->
+<!----><!--2026-10-18 08:23:55-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atRZBa5MNHd0ZjEF">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad45905ae4c347774663105_6ad459056146595b7b5d6cbd/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atRZBa5MNHd0ZjEF"><span class="inlbl">Рейтинг: страны с наибольшим числом лауреатов Нобелевской премии по состоянию...</span></a>
+    <i class="trow smaller2"><span class="inlbl">NAKED SCIENCE</span></i>
+    <i class="trow smaller3">2026-10-18</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">После объявления наград 2026 года число людей в открытой базе Нобелевской премии достигло тысячи. США, Великобритания и Германия лидируют в подсчете по месту рождения. Россия занимает седьмую строчку; гражданство и место работы в этом рейтинге не учитываются. США занимают первое место по числу нобелевских лауреатов, если распределить награжденных по странам рождения в современных границах. После объявления результатов 2026 года их число составляет 300 человек. За США следуют Великобритания со 111 лауреатами и Германия с 86...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Рейтинг страны с наибольшим числом лауреатов Нобелевской премии по состоянию на 2026 год:s:14242013:e:1872-->
+<!----><!--2026-09-19 18:07:04-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/aqpMA4WcNkgWRn9K">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6aaa4c03859c364816467f4a_6aaa4caf778ffa33f9136872/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/aqpMA4WcNkgWRn9K"><span class="inlbl">Психология любителей чёрного юмора</span></a>
+    <i class="trow smaller2"><span class="inlbl">ВЛАД КОЧЕРЫЖКИН</span></i>
+    <i class="trow smaller3">2026-09-19</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Любовь к чёрному юмору отражает высокий вербальный интеллект, развитую психологическую защиту от тревоги и способ безопасного проживания экзистенциального страха через обесценивание боли. Мрачная шутка мгновенно снимает напряжение в сложной ситуации. Мозг просто отказывается тонуть в пучине стресса. Он превращает кошмар в абсурд за долю секунды. Это помогает удержать контроль над эмоциями. Вспомните врачей скорой помощи после тяжелой смены. Их циничные подколы часто шокируют обычных людей. Но именно этот щит спасает медиков от безумия...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Психология любителей чёрного юмора:s:14244084:e:1848-->
+<!----><!--2026-10-23 09:50:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atsDxowtABJART6y">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adb03c68c2d001240453eb2_6adb03c628c5732813620fe8/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atsDxowtABJART6y"><span class="inlbl">Житель Малайзии выставил бывшей счет за все свидания</span></a>
+    <i class="trow smaller2"><span class="inlbl">"МИР НОВОСТЕЙ"</span></i>
+    <i class="trow smaller3">2026-10-23</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Жительница Малайзии после разрыва отношений получила от бывшего молодого человека три коробки с квитанциями за три года их романа. Мужчина скрупулезно подсчитал все совместные траты и потребовал компенсировать ему половину расходов, сообщает издание Wakeup. Как рассказала девушка, во время отношений партнер всегда забирал чеки после походов в кино, рестораны, совместных поездок и покупок. Свое поведение он объяснял безобидной привычкой и желанием сохранить вещи на память. Однако через несколько дней после расставания он отправил всю эту коллекцию бывшей возлюбленной...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Житель Малайзии выставил бывшей счет за все свидания:s:14246036:e:1929-->
+<!----><!--2026-10-20 08:52:20-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atcBq4wtABJALA6x">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad701ab8c2d0012402c0eb1_6ad701abfc1bff1f30627ec7/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atcBq4wtABJALA6x"><span class="inlbl">День матери в России 2026: какого числа и как поздравить маму</span></a>
+    <i class="trow smaller2"><span class="inlbl">УРА.РУ</span></i>
+    <i class="trow smaller3">2026-10-20</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">День матери в России в 2026 году выпадает на 29 ноября. Это последнее воскресенье осени, и дата каждый год меняется. URA.RU рассказывает, почему праздник «плавает», откуда он взялся и как его правильно отметить. Главное правило: День матери в России всегда празднуют в последнее воскресенье ноября. В 2026 году это 29 ноября. Именно поэтому дата каждый год сдвигается. В 2025 году праздник был 30 ноября, в 2027-м будет 28 ноября. Но принцип остается неизменным: последнее воскресенье месяца. Почему именно воскресенье? Это выходной день, когда вся семья может собраться вместе...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/День матери в России 2026 какого числа и как поздравить маму:s:14248101:e:1892-->
+<!----><!--2026-10-23 12:15:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atsl44hyeVtzlq09">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adb25e38872795b7396ad3d_6adb2d23fc1bff1f30635e61/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atsl44hyeVtzlq09"><span class="inlbl">Лавандовое сердце: в Екатеринбурге показали редчайший бриллиант</span></a>
+    <i class="trow smaller2"><span class="inlbl">ПЯТЫЙ КАНАЛ - НОВОСТИ И ВИДЕО</span></i>
+    <i class="trow smaller3">2026-10-23</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Стоимость камня оценивают в 120 миллионов рублей. В Екатеринбург привезли коллекцию из 20 редчайших природных камней. Главный экспонат — лавандовый бриллиант два карата в форме сердца. Такая огранка считается самой сложной в ювелирном искусстве. Специалистам потребовалось полгода, чтобы заставить алмаз сиять и добиться высочайшей чистоты. Нашли его в недрах Якутии в прошлом году. Особая гордость — фантастический цвет. Появляется он благодаря изменению кристаллической решетки. Уникальный алмаз увидела корреспондент «Известий» Нина Катаева...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Лавандовое сердце в Екатеринбурге показали редчайший бриллиант:s:14250138:e:1929-->
+<!----><!--2026-10-20 05:09:45-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atY8fIUktWiugNoF">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ad63c7c8524b568ae80da05_6ad63d3228014a1695331fd7/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atY8fIUktWiugNoF"><span class="inlbl">Статины: 62 из 66 побочных эффектов в инструкции не подтвердились</span></a>
+    <i class="trow smaller2"><span class="inlbl">ИГОРЬ БОТОГОВСКИЙ</span></i>
+    <i class="trow smaller3">2026-10-20</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Я изучил данные самого масштабного на сегодня мета-анализа, опубликованного в The Lancet, и увидел картину, которая радикально расходится с тем, чего боятся многие пациенты. Ко мне часто приходят вопросы от читателей, которым кардиолог назначил статины, но они боятся их принимать. Страх обычно связан с мышечными болями, «ударом по печени» или диабетом. Я разобрал, что на самом деле показывает самое достоверное исследование по этой теме, и готов объяснить, какие риски реальны, а какие — лишь перестраховка в инструкциях...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Статины 62 из 66 побочных эффектов в инструкции не подтвердились:s:14252224:e:1850-->
+<!----><!--2026-10-24 16:24:33-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atyyVohyeVtzoApv">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adcb2568872795b73a00a6f_6adcb2566146595b7b5efb85/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atyyVohyeVtzoApv"><span class="inlbl">В Шахтах устанавливают новые искусственные дорожные неровности</span></a>
+    <i class="trow smaller2"><span class="inlbl">ШАХТИНСКИЕ ИЗВЕСТИЯ</span></i>
+    <i class="trow smaller3">2026-10-24</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Как это работает? Установка «лежачего полицейского» представляет собой технологически выверенный процесс. Этапы устройства искусственных дорожных неровностей: Для чего это нужно? Мера направлена на снижение скорости движения транспорта вблизи пешеходных зон и перекрестков...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/В Шахтах устанавливают новые искусственные дорожные неровности:s:14254228:e:1418-->
+<!----><!--2026-09-12 12:02:16-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/apqbrqRz8lbnazWu">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a9a9baea473f256e76b35ae_6a9fee42c96b9e097dc4afff/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/apqbrqRz8lbnazWu"><span class="inlbl">😻Какие виды мяса подходят для питания кошки</span></a>
+    <i class="trow smaller2"><span class="inlbl">НОС, ХВОСТ, ЛАПЫ</span></i>
+    <i class="trow smaller3">2026-09-12</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Кошка — самый настоящий хищник, и животный белок обязательно должен присутствовать в её рационе. Но это не означает, что питомца можно кормить одной вырезкой или ежедневно выдавать ему огромный кусок мяса. Организму нужны не только белки, но и таурин, жирные кислоты, витамины, кальций и другие питательные вещества. Поэтому мясо может быть основой натурального меню, однако рацион должен оставаться полноценным и сбалансированным.  Если кошка получает готовый корм, дополнительные мясные продукты обычно дают только как лакомство и в небольшом количестве...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Какие виды мяса подходят для питания кошки:s:14255803:e:1885-->
+<!----><!--2026-10-13 03:13:51-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/as1fGrMiVFrX4_s9">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6acd5f1ab322545ad7e3fb3d_6acd68cffa8a82537d32b54a/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/as1fGrMiVFrX4_s9"><span class="inlbl">17 смешных карикатур для позитива. День 430-й. Как победить духовку</span></a>
+    <i class="trow smaller2"><span class="inlbl">ВРЕМЯ ИДЕЙ ❤️</span></i>
+    <i class="trow smaller3">2026-10-13</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">13 октября 2026 года, вторник. Сегодня 430-й день нашего семейного путешествия. Василиса с утра уселась перед духовкой. Сидит, смотрит на неё, как на телевизор. Хвостом подёргивает. И я смотрю на эту духовку и понимаю: она живёт своей жизнью. Она решает, когда гореть. Она решает, когда не гореть. Как победить духовку, которая делает что хочет? Давайте разбираться. ———————— ———————— Первая история — от нашего соседа. Спускаюсь на лифте, такси в аэропорт уже подъехало и ждёт. Понимаю, что что-то не так с кроссовками — забыл вставить в них стельки...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/17 смешных карикатур для позитива. День 430-й. Как победить духовку:s:14257805:e:1897-->
+<!----><!--2026-05-26 13:57:45-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/ahV01-eaCV6l50wh">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a1574d7e79a095ea5e74c21_6a157ca0f3c7aa77dc0ed92d/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/ahV01-eaCV6l50wh"><span class="inlbl">10 фильмов 1996 года, которые мы до сих пор пересматриваем</span></a>
+    <i class="trow smaller2"><span class="inlbl">ЛУЧШЕЕ ИЗ 90-Х</span></i>
+    <i class="trow smaller3">2026-05-26</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">1996 год оказался особенно насыщенным для кино и подарил зрителям немало картин, которые быстро вышли за рамки обычных премьер. Именно тогда на экранах появились истории, о которых говорили после сеансов, обсуждали дома и советовали друзьям. Одни проекты брали зрелищностью и масштабом, другие цепляли напряжением, неожиданными поворотами и сильными героями. Причём многие фильмы не остались частью только своего времени. Прошли годы, сменились тренды, технологии и подходы к съёмкам, а интерес к этим работам никуда не исчез...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/10 фильмов 1996 года, которые мы до сих пор пересматриваем:s:14259858:e:1837-->
+<!----><!--2026-10-23 07:01:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/atrcVohyeVtzlMyx">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adadc568872795b7394ccb1_6adadc56607989629ad1262a/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/atrcVohyeVtzlMyx"><span class="inlbl">Минпросвещения: оценка за поведение в школе может стать поводом для консилиума</span></a>
+    <i class="trow smaller2"><span class="inlbl">ТЕЛЕКАНАЛ 360</span></i>
+    <i class="trow smaller3">2026-10-23</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Если школьник получит оценку «недопустимое поведение» за четверть или триместр, школа должна организовать психолого-педагогический консилиум с участием родителей. Это следует из письма Минпросвещения России, сообщил ТАСС . Каждый случай выставления такой оценки необходимо доводить до сведения заместителя директора по воспитательной работе. Классный руководитель должен провести беседу с родителями или законными представителями ученика в течение трех дней ...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Минпросвещения оценка за поведение в школе может стать поводом для консилиума:s:14261834:e:1777-->
+<!----><!--2026-10-24 18:56:11-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal"><span style='color:#FF0000'><b>18</b></span> фото <a href='/go/?https%3A%2F%2Fdzen.ru%2Fa%2FatW1CIn3yzaEz6MN' target='_blank' class='url-link'><b>via</b></a><br><br>Когда бывшего лорд-канцлера Англии Томаса Мора доставили в Тауэр, один из офицеров потребовал с него верхнюю одежду. Так полагалось: одежда узника шла офицеру в уплату.<br><br>Имелась в виду мантия, но Мор снял с головы шапку и протянул её. Выше шапки на нём ничего не было.<br><br>Привычке шутить Мор не изменил и через год с лишним, когда его повели на эшафот. Последние слова осуждённых ловили, записывали, пересказывали и печатали.<br><br>Одни фразы дошли до нас слово в слово, другие очевидцы запомнили совсем иначе, а третьи, похоже, сочинили уже потом. <br><br><a href="https://www.yaplakal.com/forum2/topic3134655.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/3/0/0/21351003.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3134655.html">Шутили, прощали и не успевали договорить: какие последние слова на эшафоте вошли в историю</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.yaplakal.com/news.xml">ЯПлакал</a></i></div>
+</div><!--n:Блоги/Шутили, прощали и не успевали договорить какие последние слова на эшафоте вошли в историю:s:14263794:e:1816-->
+<!----><!--2026-10-24 20:26:36-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">30 штук. <br><br><a href="https://www.yaplakal.com/forum2/topic3134683.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/2/3/1/21351132.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3134683.html">Картинки из Хвиттера v.2</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.yaplakal.com/news.xml">ЯПлакал</a></i></div>
+</div><!--n:Блоги/Картинки из Хвиттера v.2:s:14265813:e:543-->
+<!----><!--2026-10-23 19:10:17-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal"><span style='color:#FF0000'><b>5</b></span> фото <a href='/go/?https%3A%2F%2Fpicturehistory.livejournal.com%2F11564492.html' target='_blank' class='url-link'><b>via</b></a><br><br>Пожилая женщина, которая весной 1962 года перебралась жить к сыну в Мехико, первой заметила странность в кухонном шкафу. Стаканы на его полках почему-то потемнели. Никого в доме это не насторожило, хотя причина лежала в этом же шкафу.<br><br>Незадолго до её приезда семья Хосе Эспиндолы Ибарры въехала в новый дом. Жили вчетвером: сам Хосе, его жена, 10-летний сын и двухлетняя дочь. Вскоре к ним присоединилась и мать Хосе, та самая женщина, что обратила внимание на стаканы.<br><br>Вместе с жильём семье досталась маленькая свинцовая коробочка: её вроде как оставили им под присмотр. Что за штука и что в ней, в доме не догадывался никто. А содержимое однажды очутилось во дворе, где на него и наткнулся старший сын.<br><br>Маленькую металлическую капсулу мальчик сунул в карман брюк и несколько дней носил с собой. Потом мать вытащила находку из кармана и убрала в кухонный шкаф. <br><br><a href="https://www.yaplakal.com/forum2/topic3134345.html" target="_blank"><img src="https://s00.yaplakal.com/pics/pics_preview/2/9/3/21349392.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum2/topic3134345.html">Что случилось с семьёй из Мехико, когда 10-летний мальчик принёс домой радиоактивную капсулу</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.yaplakal.com/news.xml">ЯПлакал</a></i></div>
+</div><!--n:Блоги/Что случилось с семьёй из Мехико, когда 10-летний мальчик принёс домой радиоактивную капсулу:s:14266436:e:2415-->
+<!----><!--2026-10-25 05:24:06-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/v-zelenograde-u-zhilogo-doma-nashli-mladenca-25-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/25/02/7015732/ba9468ed619b884094fcda832f6ba1495ced145c.jpg"></a>Младенца обнаружили рядом с жилым домом в Зеленограде. Об инциденте пишет Telegram-канал Shot.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/v-zelenograde-u-zhilogo-doma-nashli-mladenca-25-10-2026.htm">У жилого дома в Зеленограде обнаружили младенца</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/У жилого дома в Зеленограде обнаружили младенца:s:14269058:e:816-->
+<!----><!--2026-10-25 00:33:57-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvicham-dali-sovety-po-podgotovke-dachi-k-zimnemu-sezonu-25-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/24/21/7015712/293f9aeae1c45eeaf36001af84d2c726d98f147a.jpg"></a>Осенью многие владельцы дач заканчивают сезон и уезжают в столицу до весны. Перед этим стоит потратить время на осмотр дома и участка, чтобы весной вернуться на дачу без лишних проблем. Советы по подготовке к зимнему сезону перечислил портал mos.ru со ссылкой на столичный Департамент по делам гражданской обороны, чрезвычайным ситуациям и пожарной безопасности.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/moskvicham-dali-sovety-po-podgotovke-dachi-k-zimnemu-sezonu-25-10-2026.htm">Перед консервацией дачи следует полностью обесточить дом</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Перед консервацией дачи следует полностью обесточить дом:s:14270021:e:1364-->
+<!----><!--2026-10-25 02:34:47-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/klimatolog-rasskazal-ob-izmenenii-pogody-v-moskve-za-35-let-25-10-2026.htm"><img src="https://moslenta.ru/imgs/2026/10/24/23/7015723/fbc604966ea5a7b7d093b269b2ef7636efe4db4d.jpg"></a>Зимняя температура воздуха в российской столице за последние 35 лет выросла почти на два градуса. Об изменении погоды в Москве ТАСС рассказал начальник отдела метеорологии и климата Центрального управления по гидрометеорологии и мониторингу окружающей среды Николай Терешонок.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/klimatolog-rasskazal-ob-izmenenii-pogody-v-moskve-za-35-let-25-10-2026.htm">Климатолог Терешонок сообщил об изменении погоды в Москве за 35 лет</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская жизнь/Климатолог Терешонок сообщил об изменении погоды в Москве за 35 лет:s:14271551:e:1231-->
+<!----><!--2026-10-24 19:41:17-->
+<div class="yb">
+  <div class="rss mw_f scroll kino_kino"><a href="https://www.kino-teatr.ru/kino/art/serial/8728/" title="Как снимали сериал «Многое получается»: Ярославль, дебютанты и лобстер по имени Леонид"><img src="https://www.kino-teatr.ru/art/8/2/8728/poster.jpg" width="196" height="147" align="left" hspace="5" style="margin: 0px 10px 0px 5px" alt="Как снимали сериал «Многое получается»: Ярославль, дебютанты и лобстер по имени Леонид"/></a>Драматичной истории 20-летних влюбленных не помешали ни погода, ни комары, ни экзамены</div>
+  <p class="titl"><a href="https://www.kino-teatr.ru/kino/art/serial/8728/">Как снимали сериал «Многое получается»: Ярославль, дебютанты и лобстер по имени Леонид</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://kino-teatr.ru/rss/kino.xml">Кино-Театр.РУ</a></i></div>
+</div><!--n:Кино и театр/Как снимали сериал Многое получается Ярославль, дебютанты и лобстер по имени Леонид:s:14272964:e:1181-->
+<!----><!--2026-10-24 18:33:31-->
+<div class="yb">
+  <div class="rss mw_f scroll kino_kino"><a href="https://www.kino-teatr.ru/video/65522/" title="«Монолог фармацевта: Сокровище покойной наложницы». Трейлер №2 на японском языке"><img src="https://www.kino-teatr.ru/video/2/2/65522/poster.jpg" width="196" height="147" align="left" hspace="5" style="margin: 0px 10px 0px 5px" alt="«Монолог фармацевта: Сокровище покойной наложницы». Трейлер №2 на японском языке"/></a>Маомао и Дзинси предстоит разгадать новую загадку, за которой скрываются опасные тайны прошлого</div>
+  <p class="titl"><a href="https://www.kino-teatr.ru/video/65522/">«Монолог фармацевта: Сокровище покойной наложницы». Трейлер №2 на японском языке</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://kino-teatr.ru/rss/kino.xml">Кино-Театр.РУ</a></i></div>
+</div><!--n:Кино и театр/Монолог фармацевта Сокровище покойной наложницы . Трейлер 2 на японском языке:s:14274350:e:1157-->
+<!----><!--2026-10-25 10:17:42-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1799163><img src="https://i.artfile.ru/s/1799163_251026_49_ArtFile_ru.jpg"></a><br>Разрешение 1920x1200<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=42>sparco</a> 25.10.2026 - 10:17</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=28">Раздел Техника (militari, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Техника (militari, ):s:14275700:e:583-->
+<!----><!--2026-10-25 08:15:04-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1799162><img src="https://i.artfile.ru/s/1799162_251026_78_ArtFile_ru.jpg"></a><br>Разрешение 2000x1282<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=42>sparco</a> 25.10.2026 - 08:15</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=3">Раздел Автомобили (1964, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Автомобили (1964, ):s:14276357:e:584-->
+<!----><!--2026-10-25 08:15:01-->
+<div class="yb">
+  <div class="rss mw_f scroll artfile"><a href=https://www.artfile.ru/b.php?i=1799161><img src="https://i.artfile.ru/s/1799161_251026_28_ArtFile_ru.jpg"></a><br>Разрешение 2040x1360<br>Добавил(а): <a href=http://www.artfile.ru/us.php?i=42>sparco</a> 25.10.2026 - 08:15</div>
+  <p class="titl"><a href="https://www.artfile.ru/s.php?s=3">Раздел Автомобили (datsun, )</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.artfile.ru/artfile.rss">Artfile.ru</a></i></div>
+</div><!--n:Арт/Раздел Автомобили (datsun, ):s:14277017:e:586-->
+<!----><!--2026-10-25 11:57:57-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/49/df/fd/49dffd73e9a1b49588af123b9d441aa6.JPG" /><p>Год назад Valve <a href="https://habr.com/ru/news/958904/" rel="noopener nofollow">объявила</a> о&nbsp;разработке системы рекомендаций, которая помогает игрокам следить за&nbsp;всеми новинками, выходящими в&nbsp;магазине Steam. Этот инструмент, выполненный в&nbsp;формате удобного календаря, позволяет пользователям ПК просматривать недавно вышедшие и готовящиеся к&nbsp;релизу игры...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1099068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099068">Valve объявила о переносе личного календаря из Steam Labs</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Valve объявила о переносе личного календаря из Steam Labs:s:14277681:e:1155-->
+<!----><!--2026-10-25 13:26:05-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/ce/84/cc/ce84ccdf7951cdb6929b5439cbb4321f.jpg" /><p>Внешняя часть атмосферы Солнца в&nbsp;сотни раз горячее его видимой поверхности. Температура видимой поверхности составляет около 5500&nbsp;°C, тогда как&nbsp;внешняя атмосфера, называемая короной, может нагреваться более чем до&nbsp;миллиона градусов Цельсия.</p><p>Команда, в&nbsp;которую вошли Вэй Сунь из&nbsp;Китайского института атомной энергии и Юнли Пин из&nbsp;Пекинского...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1099106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099106">Физики воспроизвели в лаборатории возможный механизм нагрева солнечной короны</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Физики воспроизвели в лаборатории возможный механизм нагрева солнечной короны:s:14278977:e:1252-->
+<!----><!--2026-10-25 13:58:06-->
+<div class="yb">
+  <div class="rss mw_f scroll habr"><img src="https://habrastorage.org/extt/de/9a/e7/de9ae73d15f77783a2bff90ba5760732.jpg" /><p>Представлены открытые проекты <a href="https://github.com/Zagitta/gpu-unlock" rel="noopener nofollow">GPU-unlock</a> и <a href="https://github.com/JustAResearcher/gpu-unlock-ada" rel="noopener nofollow">GPU-unlock-ADA</a>. Это анлокеры, которые снимают ограничение производителя на выполнение матричных вычислений на видеокартах Nvidia серий RTX30xx и RTX40xx.</p> <a...</div>
+  <p class="titl"><a href="https://habr.com/ru/news/1099000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099000">Вышел открытый анлокер, который снимает ограничение матричных вычислений на GPU видеокарт Nvidia серий RTX30xx и RTX40xx</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://habr.com/ru/rss/news/?fl=ru">Хабр</a></i></div>
+</div><!--n:Технологии/Вышел открытый анлокер, который снимает ограничение матричных вычислений на GPU видеокарт Nvidia серий RTX30xx и RTX40xx:s:14280424:e:1139-->
+<!----><!--2026-10-25 18:05:58-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/phantom_blade_zero/news/v_set_utekla_pervaya_retsenziya_na_phantom_blade_zero_pohvalili_boyovku_no_raskritikovali_pustye_lokatsii-1884679#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/NEALag1JB-98f4HdfvoJLQ.png"></a>В сети раньше времени появился первый полноценный обзор китайского ролевого экшена Phantom Blade Zero. Бразильское игровое издание Critical Hits по ошибке опубликовало свою рецензию до официального снятия эмбарго, оценив дебютный проект студии S-Game на 8,5...</div>
+  <p class="titl"><a href="https://www.playground.ru/phantom_blade_zero/news/v_set_utekla_pervaya_retsenziya_na_phantom_blade_zero_pohvalili_boyovku_no_raskritikovali_pustye_lokatsii-1884679#utm_source=rss&utm_medium=referral&utm_campaign=news">В сеть утекла первая рецензия на Phantom Blade Zero - похвалили боёвку, но раскритиковали пустые локации</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/В сеть утекла первая рецензия на Phantom Blade Zero - похвалили боёвку, но раскритиковали пустые локации:s:14281813:e:1403-->
+<!----><!--2026-10-25 19:13:57-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/misc/news/glava_new_blood_nazval_termin_immersivnyj_simulyator_otvratitelnym_i_predlozhil_nazyvat_takie_igry_rpg-1884697#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/QZLVw_odik04EJ6xo43BDQ.png"></a>Основатель New Blood Дэйв Ошри в интервью PC Gamer заявил, что считает термин "иммерсивный симулятор" неудачным маркетинговым ярлыком. По его мнению, игры вроде Deus Ex и System Shock правильнее называть ролевыми играми, а продвигать проект...</div>
+  <p class="titl"><a href="https://www.playground.ru/misc/news/glava_new_blood_nazval_termin_immersivnyj_simulyator_otvratitelnym_i_predlozhil_nazyvat_takie_igry_rpg-1884697#utm_source=rss&utm_medium=referral&utm_campaign=news">Глава New Blood назвал термин "иммерсивный симулятор" отвратительным и предложил называть такие игры RPG</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Глава New Blood назвал термин иммерсивный симулятор отвратительным и предложил называть такие игры RPG:s:14283453:e:1343-->
+<!----><!--2026-10-25 18:50:46-->
+<div class="yb">
+  <div class="rss mw_f scroll playground"><a href="https://www.playground.ru/monster_hunter_outlanders/news/monster_hunter_outlanders_znakomit_s_keres_i_eyo_vihrem_klinkov_pered_vyhodom_29_oktyabrya-1884690#utm_source=rss&utm_medium=referral&utm_campaign=news"><img src="https://i.playground.ru/e/Inis_5V6hY0ecS_0U9S9aA.jpeg"></a>TiMi Studio Group показала навыки Керес в Monster Hunter Outlanders - мобильном экшен-RPG об охоте на чудовищ. Ролик демонстрирует парные клинки героини, стремительные комбо, усиленные продолжения атак и шквал ударов по монстрам.</div>
+  <p class="titl"><a href="https://www.playground.ru/monster_hunter_outlanders/news/monster_hunter_outlanders_znakomit_s_keres_i_eyo_vihrem_klinkov_pered_vyhodom_29_oktyabrya-1884690#utm_source=rss&utm_medium=referral&utm_campaign=news">Monster Hunter Outlanders знакомит с Керес и её вихрем клинков перед выходом 29 октября</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
+</div><!--n:Компьютерные игры/Monster Hunter Outlanders знакомит с Керес и её вихрем клинков перед выходом 29 октября:s:14285038:e:1285-->

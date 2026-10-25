@@ -9,7 +9,7 @@ RSSlist = {
   'finecooking': {'hdr':'Подборка с сайтов/Мир кулинарии',        'hdr2':'finecooking.ru',   'url':'https://finecooking.ru/feed/rss',         'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
   'povarenok':   {'hdr':'Подборка с сайтов/Мир кулинарии',        'hdr2':'Поваренок.РУ',     'url':'https://www.povarenok.ru/rss/recipes/',   'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':'' },
   'habr':        {'hdr':'Подборка с сайтов/Технологии',           'hdr2':'Хабр',             'url':'https://habr.com/ru/rss/news/?fl=ru',     'cut':480,  'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'kino_kino':   {'hdr':'Подборка с сайтов/Кино и театр',         'hdr2':'Кино-Театр.РУ',    'url':'https://kino-teatr.ru/rss/kino.xml',      'cut':1000, 'total':2, 'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'kino_kino':   {'hdr':'Подборка с сайтов/Кино и театр',         'hdr2':'Кино-Театр.РУ',    'url':'https://kino-teatr.ru/rss/kino.xml',      'cut':1000, 'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
   'kino_teatr':  {'hdr':'Подборка с сайтов/Кино и театр',         'hdr2':'Кино-Театр.РУ',    'url':'https://kino-teatr.ru/rss/teatr.xml',     'cut':1000, 'total':1, 'ctag': 'channel', 'itag': 'item', 'sm':''},
   'prosto_linux':{'hdr':'Подборка с сайтов/Технологии',           'hdr2':'Prosto Linux',     'url':'https://prosto-linux.ru/feed',            'cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'playground':  {'hdr':'Подборка с сайтов/Компьютерные игры',    'hdr2':'PlayGround.ru' ,   'url':'https://www.playground.ru/rss/news.xml',  'cut':1000, 'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},

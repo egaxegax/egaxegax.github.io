@@ -60,6 +60,7 @@ https://egaxegax.github.io/index.html?art/razdel_avtomobili_1951
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_1952
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_1954
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_1962
+https://egaxegax.github.io/index.html?art/razdel_avtomobili_1964
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_1965
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_1967
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_1968
@@ -90,6 +91,7 @@ https://egaxegax.github.io/index.html?art/razdel_avtomobili_citroen
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_corvette
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_daihatsu
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_daimler
+https://egaxegax.github.io/index.html?art/razdel_avtomobili_datsun
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_dodge
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_exeed
 https://egaxegax.github.io/index.html?art/razdel_avtomobili_ferrari
@@ -290,6 +292,7 @@ https://egaxegax.github.io/index.html?art/razdel_kino_filmy_devushka_paren
 https://egaxegax.github.io/index.html?art/razdel_kino_filmy_jenshchina_naryad_komnata
 https://egaxegax.github.io/index.html?art/razdel_kino_filmy_lily_james_sebastian_stan
 https://egaxegax.github.io/index.html?art/razdel_korabli_nebo_tuchi_parusnik_kasatka_gory_more
+https://egaxegax.github.io/index.html?art/razdel_kosmos_jupiter_planeta_io_evropa_sputniki_sneg_gory
 https://egaxegax.github.io/index.html?art/razdel_motocikly_bmw
 https://egaxegax.github.io/index.html?art/razdel_motocikly_harley-davidson
 https://egaxegax.github.io/index.html?art/razdel_motocikly_vespa
@@ -317,6 +320,9 @@ https://egaxegax.github.io/index.html?art/razdel_mujchiny_tom_hardi_taboo_premer
 https://egaxegax.github.io/index.html?art/razdel_mujchiny_will_kemp_akter_uill_kemp_lico_scaled
 https://egaxegax.github.io/index.html?art/razdel_muzyka_anna_sedokova
 https://egaxegax.github.io/index.html?art/razdel_muzyka_marie_fredriksson
+https://egaxegax.github.io/index.html?art/razdel_prazdnichnye_luna_derevya_tykvy_shlyapa_letuchie_myshi
+https://egaxegax.github.io/index.html?art/razdel_prazdnichnye_nadpis_uzor
+https://egaxegax.github.io/index.html?art/razdel_prazdnichnye_nejit_maska_tykvy_listya_les_osen
 https://egaxegax.github.io/index.html?art/razdel_prazdnichnye_park_derevya_osen_zakat_skamejka_tykvy_listya
 https://egaxegax.github.io/index.html?art/razdel_priroda_derevo
 https://egaxegax.github.io/index.html?art/razdel_priroda_derevo_osen_kusty_listya_polyana_park
@@ -455,11 +461,13 @@ https://egaxegax.github.io/index.html?art/razdel_sport_mitsubishi
 https://egaxegax.github.io/index.html?art/razdel_sport_redbull
 https://egaxegax.github.io/index.html?art/razdel_sport_renault
 https://egaxegax.github.io/index.html?art/razdel_svalka_1936
+https://egaxegax.github.io/index.html?art/razdel_svalka_devushka_krasotka_figurka_seksi_poza_kiska_krupnym_planom
 https://egaxegax.github.io/index.html?art/razdel_svalka_videogames
 https://egaxegax.github.io/index.html?art/razdel_tehnika_1942
 https://egaxegax.github.io/index.html?art/razdel_tehnika_btr
 https://egaxegax.github.io/index.html?art/razdel_tehnika_hako_citymaster
 https://egaxegax.github.io/index.html?art/razdel_tehnika_kalmar
+https://egaxegax.github.io/index.html?art/razdel_tehnika_militari
 https://egaxegax.github.io/index.html?art/razdel_tehnika_willys
 https://egaxegax.github.io/index.html?art/razdel_vektornaya_grafika_krugi
 https://egaxegax.github.io/index.html?art/razdel_video_igry_devushka_profil_yazyk_ruka_perchatka
@@ -470,6 +478,7 @@ https://egaxegax.github.io/index.html?blogi
 https://egaxegax.github.io/index.html?blogi/100-tonnyj_buj_poluchil_pervyj_v_mire_mejdunarodnyj_sertifikat_bezopasnosti_dlya_volnovoj_energetiki
 https://egaxegax.github.io/index.html?blogi/100_let_nazad_rodilsya_oleg_koshevoj
 https://egaxegax.github.io/index.html?blogi/10_bytovyh_privychek_kotorym_stoit_pouchitsya_u_dagestanok
+https://egaxegax.github.io/index.html?blogi/10_filmov_1996_goda_kotorye_my_do_sih_por_peresmatrivaem
 https://egaxegax.github.io/index.html?blogi/10_formul_na_vesnu_2025_v_stile_tihaya_roskosh
 https://egaxegax.github.io/index.html?blogi/10_glubochajshih_mest_planety_eto_ne_tolko_marianskaya_vpadina
 https://egaxegax.github.io/index.html?blogi/10_hudshih_filmov_2024_goda
@@ -516,6 +525,7 @@ https://egaxegax.github.io/index.html?blogi/12_bytovyh_privychek_finnov
 https://egaxegax.github.io/index.html?blogi/12_bytovyh_privychek_kotorye_stoit_perenyat_u_finnov
 https://egaxegax.github.io/index.html?blogi/12_let_jivu_v_pitere_8_osobennostej_k_kotorym_ya_tak_i_ne_smog_privyknut
 https://egaxegax.github.io/index.html?blogi/12_mesyacev_12_malenkih_puteshestvij_kuda_poehat_v_2027_godu_bez_otpuska
+https://egaxegax.github.io/index.html?blogi/12_neobychnyh_porod_sobak_ot_malenkih_do_bolshih
 https://egaxegax.github.io/index.html?blogi/12_rekordov_i_konec_pogoni_za_gretcki_chego_ovechkin_dobetsya_v_novom_sezone_nhl
 https://egaxegax.github.io/index.html?blogi/12_serialov_2025_polnostju_dostupnyh_dlya_prosmotra
 https://egaxegax.github.io/index.html?blogi/12_sovetskih_akterov_kotorye_emigrirovali_v_ssha
@@ -539,6 +549,7 @@ https://egaxegax.github.io/index.html?blogi/17_rossijskih_akterov_snyavshihsya_v
 https://egaxegax.github.io/index.html?blogi/17_sentyabrya_1939_goda_rodilsya_akter_kino_rejisser_i_scenarist_vladimir_valentinovich_menshov
 https://egaxegax.github.io/index.html?blogi/17_sentyabrya_operaciya_reptiliya_ubijstvo_somosy
 https://egaxegax.github.io/index.html?blogi/17_smeshnyh_karikatur_dlya_pozitiva_den_286-j_kak_vse_ne_uslojnyat
+https://egaxegax.github.io/index.html?blogi/17_smeshnyh_karikatur_dlya_pozitiva_den_430-j_kak_pobedit_duhovku
 https://egaxegax.github.io/index.html?blogi/17_smeshnyh_karikatur_dlya_pozitiva_den_431-j_kak_pobedit_svetofor
 https://egaxegax.github.io/index.html?blogi/17_ujutnyh_i_estetichnyh_nahodok_dlya_doma_s_wildberries
 https://egaxegax.github.io/index.html?blogi/18-letnyaya_doch_ivana_urganta_pokazala_svoj_obraz_na_vypusknoj_samaya_krasivaya
@@ -559,6 +570,7 @@ https://egaxegax.github.io/index.html?blogi/20_arhivnyh_foto_jizn_yaponii_do_vys
 https://egaxegax.github.io/index.html?blogi/20_let_nazad_skonchalsya_andrej_krasko
 https://egaxegax.github.io/index.html?blogi/20_samyh_krasivyh_istoricheskih_tiar_s_rubinami_i_granatami
 https://egaxegax.github.io/index.html?blogi/22_ijunya_7_filmov_v_programme_telekanala_mosfilm_zolotaya_kollekciya
+https://egaxegax.github.io/index.html?blogi/23_tysyachi_let_nazad_kak_drevnie_ljudi_perejili_klimaticheskuju_katastrofu
 https://egaxegax.github.io/index.html?blogi/24_neobychnyh_svadebnyh_platev_zvezd_v_2024_godu
 https://egaxegax.github.io/index.html?blogi/24_oktyabrya_2026_goda_stanet_znamenatelnym_dnem_dlya_vseh_zemlyan_informaciya_iz_rassekrechennyh_dokumentov
 https://egaxegax.github.io/index.html?blogi/25_devushek_1_vypusk
@@ -722,6 +734,7 @@ https://egaxegax.github.io/index.html?blogi/ak_bars_mojet_poteryat_liderov_kudas
 https://egaxegax.github.io/index.html?blogi/akademik_onishchenko_rasskazal_kak_ne_zarazitsya_melioidozom
 https://egaxegax.github.io/index.html?blogi/akaiyannaya_troica
 https://egaxegax.github.io/index.html?blogi/akcii_vk_upali_do_istoricheskogo_minimuma
+https://egaxegax.github.io/index.html?blogi/akrohordony_rannij_kojnyj_marker_insulinorezistentnosti_po_dannym_endokrinologov
 https://egaxegax.github.io/index.html?blogi/akron_ostalsya_v_rpl_no_proshel_po_grani_kljuchevoj_moment_otmena_vtorogo_gola_rotora
 https://egaxegax.github.io/index.html?blogi/akt_v_treh_dejstviyah
 https://egaxegax.github.io/index.html?blogi/aktivnost_mozga_pod_anesteziej_stavit_pod_vopros_to_chto_my_znaem_o_soznanii
@@ -755,6 +768,7 @@ https://egaxegax.github.io/index.html?blogi/amerikanskij_sportivnyj_pirog
 https://egaxegax.github.io/index.html?blogi/amurskogo_tigra_napavshego_na_cheloveka_otlovili_v_primore
 https://egaxegax.github.io/index.html?blogi/an-124_mogut_letat_vechno_no_rossiya_ne_umeet_stroit_novye_ruslany
 https://egaxegax.github.io/index.html?blogi/analitiki_nazvali_samye_neobychnye_i_samye_populyarnye_imena_novorojdennyh_v_2025_godu
+https://egaxegax.github.io/index.html?blogi/analitiki_sprognozirovali_chto_budet_so_stavkoj_i_rublem_k_koncu_2026_goda
 https://egaxegax.github.io/index.html?blogi/analitiki_vyyasnili_s_chem_zumery_prihodyat_k_psihologam_chashche_vsego
 https://egaxegax.github.io/index.html?blogi/anapa_vesna_2025_my_pokajem_plyaji
 https://egaxegax.github.io/index.html?blogi/angely
@@ -878,6 +892,7 @@ https://egaxegax.github.io/index.html?blogi/brajton-bich_kusochek_byvshego_sssr_
 https://egaxegax.github.io/index.html?blogi/brat_s_sestroj_nachali_tonut_na_baltijskoj_kose_spasti_udalos_tolko_devochku
 https://egaxegax.github.io/index.html?blogi/brend_oting_nachinaet_import_nissan_qashqai_v_rossiju_chto_izvestno_o_novom_predlojenii
 https://egaxegax.github.io/index.html?blogi/britanec_v_16_let_sozdal_brend_polotenec_s_godovoj_vyruchkoj_v_750_tysyach
+https://egaxegax.github.io/index.html?blogi/brjuki-kargo_v_2026_2027_kak_utilitarnyj_trend_stal_glavnym_v_garderobe
 https://egaxegax.github.io/index.html?blogi/brjuki_i_djinsy_na_osen_2024_chto_nosit_i_kak_sochetat
 https://egaxegax.github.io/index.html?blogi/brjuki_kotorye_stali_hitom_leta_2026_kak_nosit_i_s_chem_sochetat_model_v_krasnom_cvete
 https://egaxegax.github.io/index.html?blogi/brjuki_kotorye_stanut_osnovoj_osennih_obrazov
@@ -1008,6 +1023,7 @@ https://egaxegax.github.io/index.html?blogi/chto_russkie_prodajut_kitajcam_zashl
 https://egaxegax.github.io/index.html?blogi/chto_skryvaet_vatikan_15_faktov_o_korporacii_s_bojestvennoj_licenziej
 https://egaxegax.github.io/index.html?blogi/chto_skryvaet_vyrajenie_tambovskij_volk_tebe_tovarishch
 https://egaxegax.github.io/index.html?blogi/chto_sluchilos_s_elenoj_prekrasnoj_posle_troyanskoj_vojny
+https://egaxegax.github.io/index.html?blogi/chto_sluchilos_s_semej_iz_mehiko_kogda_10-letnij_malchik_prines_domoj_radioaktivnuju_kapsulu
 https://egaxegax.github.io/index.html?blogi/chto_sluchilos_s_sony_ericsson_i_pochemu_ischezla_eta_legendarnaya_kompaniya
 https://egaxegax.github.io/index.html?blogi/chto_sovetskie_aktery_pili_v_kadre_vmesto_alkogolya_i_v_kakih_filmah_aktery_pili_po-nastoyashchemu
 https://egaxegax.github.io/index.html?blogi/chto_stalo_s_zavodom_gde_vypuskali_k-700_kirovec_uznal_i_rasskazyvaju
@@ -1041,6 +1057,7 @@ https://egaxegax.github.io/index.html?blogi/cska_ne_stoit_prodlevat_kontrakt_s_c
 https://egaxegax.github.io/index.html?blogi/cska_predlagaet_30_millionov_evro_za_forvarda_aktobe_podpisyvaet_nani_i_pyanicha_vinisius_ne_hochet_igrat_za_real
 https://egaxegax.github.io/index.html?blogi/cska_sovershil_krasivyj_kambek_protiv_krasnodara_sudya_suhoj_snova_nachudil_obzor_kubka_rossii
 https://egaxegax.github.io/index.html?blogi/cvet_goda_2026_v_chem_vstretit_novyj_god_chtoby_ves_god_byl_udachnym
+https://egaxegax.github.io/index.html?blogi/cvetochnaya_elegantnost_miranda_kerr_proshlas_v_effektnom_kombinezone
 https://egaxegax.github.io/index.html?blogi/dacia_striker_2027_novyj_universal_s_uvelichennym_klirensom_i_polnym_privodom_dlya_teh_kto_ustal_pereplachivat
 https://egaxegax.github.io/index.html?blogi/dagestan_spustya_25_dnej
 https://egaxegax.github.io/index.html?blogi/daily_mirror_na_shri-lanke_zaderjali_22_monahov_za_perevozku_svyshe_110_kg_narkotikov
@@ -1061,6 +1078,7 @@ https://egaxegax.github.io/index.html?blogi/dejstvitelno_li_spartancy_sbrasyvali
 https://egaxegax.github.io/index.html?blogi/dekabrskij_parad_tiar_5_glavnyh_vyhodov_korolevskih_semej
 https://egaxegax.github.io/index.html?blogi/delal_vse_dlya_menya_frejndlih_vspomnila_o_semkah_u_ryazanova_v_slujebnom_romane
 https://egaxegax.github.io/index.html?blogi/delo_v_golove_uchenye_razgadali_zagadku_korotkih_lap_u_tirannozavra
+https://egaxegax.github.io/index.html?blogi/den_materi_v_rossii_2026_kakogo_chisla_i_kak_pozdravit_mamu
 https://egaxegax.github.io/index.html?blogi/den_otca_v_rossii_v_oktyabre_2026_kogda_otmechat_i_chto_podarit_krome_noskov
 https://egaxegax.github.io/index.html?blogi/den_rojdeniya_lui_vjuittona
 https://egaxegax.github.io/index.html?blogi/den_rojdenya
@@ -1382,6 +1400,7 @@ https://egaxegax.github.io/index.html?blogi/gumennika_proverili_na_doping_v_7_ut
 https://egaxegax.github.io/index.html?blogi/guzeeva_podelilas_redkim_foto_s_docherju_olgoj
 https://egaxegax.github.io/index.html?blogi/hajnan_etnograficheskaya_derevnya_li_i_myao_-_samoe_interesnoe_mesto_ostrova
 https://egaxegax.github.io/index.html?blogi/hatgal_-_kurort_vseya_mongolii_ili_uslyshal_margaash_-_begi
+https://egaxegax.github.io/index.html?blogi/haval_jolion_dorestajl_potolok_1_6_mln_na_probege_100_tysyach
 https://egaxegax.github.io/index.html?blogi/helen_mirren_80_let_kak_doch_russkogo_aristokrata_stala_korolevoj_anglii_i_ikonoj_stilya
 https://egaxegax.github.io/index.html?blogi/himiya_kofe_iz_chego_on_sostoit_i_pochemu_posle_nego_hochetsya_spat_obyasnyaem_nauchno
 https://egaxegax.github.io/index.html?blogi/hishchnik_v_etoj_igry_ty_budesh_dobychej
@@ -1512,6 +1531,7 @@ https://egaxegax.github.io/index.html?blogi/jiguli_uazy_i_volgi_s_dizelnymi_moto
 https://egaxegax.github.io/index.html?blogi/jiraf_sheya_nujna_ne_dlya_verhushek_derevev_pravda_kuda_bolee_jestkaya
 https://egaxegax.github.io/index.html?blogi/jit_v_bashne_kak_jitel_tomska_sdelal_sebe_12_let_nazad_dom_kakogo_ni_u_kogo_net
 https://egaxegax.github.io/index.html?blogi/jitel_krasnoyarskogo_kraya_osujden_na_23_goda_za_ubijstvo_shkolnicy
+https://egaxegax.github.io/index.html?blogi/jitel_malajzii_vystavil_byvshej_schet_za_vse_svidaniya
 https://egaxegax.github.io/index.html?blogi/jitelej_doma_na_frunzenskoj_naberejnoj_ostavili_bez_interneta_i_svyazi_na_novogodnie_prazdniki
 https://egaxegax.github.io/index.html?blogi/jizn_domashnego_prijuta_dlya_koteek_578
 https://egaxegax.github.io/index.html?blogi/jizn_kak_retro_devushka_iz_obninska_obezdila_rossiju_na_70-letnej_pobede
@@ -1535,6 +1555,7 @@ https://egaxegax.github.io/index.html?blogi/jork_ne_milyj_mini_7_osobennostej_ha
 https://egaxegax.github.io/index.html?blogi/julianna_karaulova_pokazala_redkie_snimki_s_mujem_i_synom_vse_na_odno_lico
 https://egaxegax.github.io/index.html?blogi/juliya_korol
 https://egaxegax.github.io/index.html?blogi/juliya_snigir_opublikovala_redkoe_semejnoe_foto
+https://egaxegax.github.io/index.html?blogi/jumor_kotoryj_ceplyaet_smeshnye_karikatury_maksima_smagina
 https://egaxegax.github.io/index.html?blogi/jumor_s_harakterom_istoricheskie_karikatury_ot_uralskogo_hudojnika_maksima_smagina
 https://egaxegax.github.io/index.html?blogi/junosha_nashel_strannye_zapiski_svoego_otca_i_poprosil_pomoshchi
 https://egaxegax.github.io/index.html?blogi/jura_borisov_s_semej_sestry_mihalkovy_s_detmi_zvezdy_na_premere
@@ -1583,6 +1604,7 @@ https://egaxegax.github.io/index.html?blogi/kak_ezdit_na_velosipede_po_doroge_po
 https://egaxegax.github.io/index.html?blogi/kak_gollandcy_delyat_obyazannosti_v_seme_kto_gotovit_tratit_dengi_ubiraet
 https://egaxegax.github.io/index.html?blogi/kak_i_pochemu_poteryalis_v_kosmose_apparaty-bliznecy_pioneer-10_i_pioneer-11
 https://egaxegax.github.io/index.html?blogi/kak_illjuziya_ya_smogu_zatyanula_menya_v_ludomaniju_zabrala_220_tysyach_i_podarila_nervnyj_tik
+https://egaxegax.github.io/index.html?blogi/kak_izbavitsya_ot_muravev_v_teplice_i_na_gryadkah_pochemu_oni_vozvrashchajutsya
 https://egaxegax.github.io/index.html?blogi/kak_izmenilis_etalony_jenskoj_krasoty_za_100_let_puteshestvie_v_istoriju_-_eto_interesno
 https://egaxegax.github.io/index.html?blogi/kak_izmenyatsya_pensii_rabotajushchih_pensionerov_s_1_avgusta
 https://egaxegax.github.io/index.html?blogi/kak_jili_v_srednevekovom_zamke_odin_den_glazami_slug_i_slujanok
@@ -1666,6 +1688,7 @@ https://egaxegax.github.io/index.html?blogi/kak_sobaka_vybiraet_ljubimogo_chelov
 https://egaxegax.github.io/index.html?blogi/kak_sovetskij_snajper_trijdy_pobejdal_v_snajperskoj_dueli
 https://egaxegax.github.io/index.html?blogi/kak_sozdaetsya_trikotaj_loro_piana_zaglyanem_na_novuju_fabriku_v_gemme
 https://egaxegax.github.io/index.html?blogi/kak_sozdat_idealnyj_osennij_obraz_poshagovaya_instrukciya_dlya_elegantnoj_jenshchiny
+https://egaxegax.github.io/index.html?blogi/kak_sredstvo_samooborony_osa_ispolzuetsya_dlya_blijnego_boya_s_dronami
 https://egaxegax.github.io/index.html?blogi/kak_sudba_nakazala_martynova_za_duel_s_lermontovym
 https://egaxegax.github.io/index.html?blogi/kak_uchebno-trenirovochnyj_samolet_uti-26_stal_proroditelem_samogo_massovogo_i_horoshego_istrebitelya_vov
 https://egaxegax.github.io/index.html?blogi/kak_udobnej_dobiratsya_iz_vladikavkaza_v_tbilisi_marshruty_i_stoimost_transporta
@@ -1727,6 +1750,7 @@ https://egaxegax.github.io/index.html?blogi/kakie_privychki_i_veshchi_gollandec_
 https://egaxegax.github.io/index.html?blogi/kakie_rekordy_mojet_pobit_holand_on_uje_prevzoshel_dostijeniya_ronaldu_i_shirera
 https://egaxegax.github.io/index.html?blogi/kakie_russkie_familii_dejstvitelno_mojno_schitat_samymi_starymi
 https://egaxegax.github.io/index.html?blogi/kakie_sumki_pokupat_v_2024_godu
+https://egaxegax.github.io/index.html?blogi/kakie_vidy_myasa_podhodyat_dlya_pitaniya_koshki
 https://egaxegax.github.io/index.html?blogi/kakim_doljen_byt_sovremennyj_noutbuk_dlya_raboty
 https://egaxegax.github.io/index.html?blogi/kakimi_byli_luchshie_besproigryshnye_serii_so_starta_sezona_v_istorii_rpl
 https://egaxegax.github.io/index.html?blogi/kakimi_byli_moskva_i_moskvichi_za_neskolko_let_do_revoljucii_1917_goda
@@ -1768,6 +1792,7 @@ https://egaxegax.github.io/index.html?blogi/kartinki_dlya_degradacii_216_raznoj_
 https://egaxegax.github.io/index.html?blogi/kartinki_dlya_degradacii_227_raznoj_stepeni_svejesti
 https://egaxegax.github.io/index.html?blogi/kartinki_dlya_ulybki
 https://egaxegax.github.io/index.html?blogi/kartinki_iz_glubinki_25_09
+https://egaxegax.github.io/index.html?blogi/kartinki_iz_hvittera_v_2
 https://egaxegax.github.io/index.html?blogi/kartinki_na_01_09_26
 https://egaxegax.github.io/index.html?blogi/kartinki_na_03_09_2026
 https://egaxegax.github.io/index.html?blogi/kartinki_novye_i_starye_bayany_i_akkordeony
@@ -1845,6 +1870,7 @@ https://egaxegax.github.io/index.html?blogi/kompaniya_v_nju-jorke_uvolila_sotrud
 https://egaxegax.github.io/index.html?blogi/kompetentnyj_rukovoditel
 https://egaxegax.github.io/index.html?blogi/kompotskoe_vospitanie_docheri
 https://egaxegax.github.io/index.html?blogi/komu_kakoj_smartfon_bolshe_podhodit_luchshie_modeli_dlya_foto_igr_i_drugih_celej
+https://egaxegax.github.io/index.html?blogi/konditerskaya_julii_vysockoj_na_intercharm_x_hello_awards_2026
 https://egaxegax.github.io/index.html?blogi/konec_tridevyatogo_carstva
 https://egaxegax.github.io/index.html?blogi/konfiskovannyj_mclaren_s_probegom_313_km_desheveet_na_torgah
 https://egaxegax.github.io/index.html?blogi/konkurenciya_sotovyh_operatorov_ili_megavon_dosvidanya
@@ -1857,6 +1883,7 @@ https://egaxegax.github.io/index.html?blogi/korgi_elizavety_ii_davno_ne_poyavlya
 https://egaxegax.github.io/index.html?blogi/korifena_pochemu_delikatesnyj_trofej_s_kuril_ne_doezjaet_do_magazinov
 https://egaxegax.github.io/index.html?blogi/korochki_ot_piccy_kak_sdelat_tak_chtoby_oni_ne_ostavalis
 https://egaxegax.github.io/index.html?blogi/korol_smeha_i_mudryj_providec_10_knig_dlya_znakomstva_s_tvorchestvom_marka_tvena
+https://egaxegax.github.io/index.html?blogi/koroleva_atlanna_iz_dc_v_plenitelnom_kosplee
 https://egaxegax.github.io/index.html?blogi/korolevskoe_delo_kto_iz_zarubejnyh_princess_pobyval_na_voennoj_slujbe
 https://egaxegax.github.io/index.html?blogi/korostelev_prines_rossii_pervuju_za_chetyre_goda_mejdunarodnuju_medal_v_lyjah_do_zolota_ne_hvatilo_0_3_sekundy
 https://egaxegax.github.io/index.html?blogi/korostelev_zarabotal_v_evrope_bolshe_30_tysyach_evro_prizovyh_skolko_by_on_poluchil_v_rossii
@@ -1944,6 +1971,7 @@ https://egaxegax.github.io/index.html?blogi/larionov_zayavil_chto_kluby_khl_dolj
 https://egaxegax.github.io/index.html?blogi/larisa_dolina_v_goroh_kak_nosit_takoj_print_posle_50
 https://egaxegax.github.io/index.html?blogi/larisa_guzeeva_vpervye_pokazala_foto_s_novorojdennoj_vnuchkoj
 https://egaxegax.github.io/index.html?blogi/lavanda_vmesto_litiya_uchenye_nashli_ekologichnyj_sposob_hranit_energiju
+https://egaxegax.github.io/index.html?blogi/lavandovoe_serdce_v_ekaterinburge_pokazali_redchajshij_brilliant
 https://egaxegax.github.io/index.html?blogi/lechit_pomogali_muhi_vrach_o_podvige_babushki_v_sanitarnom_poezde
 https://egaxegax.github.io/index.html?blogi/ledostojkaya_samodvijushchayasya_platforma
 https://egaxegax.github.io/index.html?blogi/ledyanaya_vahta_vse_rossijskie_polyarnye_stancii_v_antarktide
@@ -1965,6 +1993,7 @@ https://egaxegax.github.io/index.html?blogi/lera_kudryavceva_i_slava_ironichno_o
 https://egaxegax.github.io/index.html?blogi/lerchek_vyskazalas_o_reshenii_eks-muja_prodat_ih_dom_dlya_pogasheniya_dolgov
 https://egaxegax.github.io/index.html?blogi/letela_emirates_vpervye_dejstvitelno_li_eto_luchshaya_aviakompaniya_v_mire
 https://egaxegax.github.io/index.html?blogi/letevshij_iz_dubaya_v_moskvu_samolet_vynujdenno_prizemlilsya_v_drugom_gorode
+https://egaxegax.github.io/index.html?blogi/letnij_disko-bar_top-15_sovetskih_hitov_1980-h
 https://egaxegax.github.io/index.html?blogi/lgoty_posle_60_chto_my_mojem_poluchit_no_redko_oformlyaem
 https://egaxegax.github.io/index.html?blogi/lichka_vorobev_ne_zateryaetsya_v_zenite_ya_hotel_ego_zabrat_v_dinamo
 https://egaxegax.github.io/index.html?blogi/lichnyj_opyt_kak_ya_jila_v_parije_vo_francuzskoj_seme
@@ -2057,6 +2086,7 @@ https://egaxegax.github.io/index.html?blogi/meladze_i_djanabaeva_pokazali_kak_pr
 https://egaxegax.github.io/index.html?blogi/mercedes_oformila_dubl_hemilton_v_shage_ot_podiuma_rezultaty_gran_pri_avstralii
 https://egaxegax.github.io/index.html?blogi/meril_strip_nazvala_summu_kotoruju_poluchila_za_film_dyavol_nosit_prada
 https://egaxegax.github.io/index.html?blogi/meriya_cherez_sud_trebuet_ot_docheri_cereteli_snesti_pristrojki_k_ego_muzeju_na_b_gruzinskoj
+https://egaxegax.github.io/index.html?blogi/meropriyatie_nauka_filosofiya_i_nejrogadjety_forum_so_znanie
 https://egaxegax.github.io/index.html?blogi/mertvyj_gigant_edinstvennoe_predpriyatie_na_territorii_rossii_proizvodivshie_sinteticheskie_dragocennye_kamni
 https://egaxegax.github.io/index.html?blogi/messendjer_max_udalen_iz_app_store_chto_proizoshlo_i_chto_budet_dalshe
 https://egaxegax.github.io/index.html?blogi/mesta_gde_ischezajut_ljudi
@@ -2078,6 +2108,7 @@ https://egaxegax.github.io/index.html?blogi/minfin_priznal_chto_povyshenie_nalog
 https://egaxegax.github.io/index.html?blogi/minoborony_ozvuchilo_plany_po_izmeneniju_voennogo_obrazovaniya
 https://egaxegax.github.io/index.html?blogi/minobrnauki_predlojilo_obyazat_abiturientov_oplachivat_pervyj_semestr_v_vuzah
 https://egaxegax.github.io/index.html?blogi/minpromtorg_rasshiril_spisok_mashin_dlya_taksi_pervye_podrobnosti_neoficialnye
+https://egaxegax.github.io/index.html?blogi/minprosveshcheniya_ocenka_za_povedenie_v_shkole_mojet_stat_povodom_dlya_konsiliuma
 https://egaxegax.github.io/index.html?blogi/minus_buhgalter_biznes_eshche_17_regionov_perejdet_na_lgotnyj_nalogovyj_rejim
 https://egaxegax.github.io/index.html?blogi/minzdrav_rossiyane_nedoedajut_okolo_treti_godovoj_normy_ryby
 https://egaxegax.github.io/index.html?blogi/mirej_mate_-_80
@@ -2117,6 +2148,7 @@ https://egaxegax.github.io/index.html?blogi/moloko_dlya_sna_poyavilos_v_magazina
 https://egaxegax.github.io/index.html?blogi/mongoliya_pokupaet_benzin_u_rossii_a_prodaet_deshevle_chem_on_stoit_u_nas_kak_tak_vyshlo
 https://egaxegax.github.io/index.html?blogi/monika_belluchchi_na_stranicah_italyanskogo_elle
 https://egaxegax.github.io/index.html?blogi/morkov_odin_iz_samyh_nedoocenennyh_ovoshchej
+https://egaxegax.github.io/index.html?blogi/moshch_kotoruju_tak_i_ne_uvideli_v_more_istoriya_tyajelyj_krejserov_klassa_drakon_kotorye_doljny_byli_perevernut_balans_sil_na_baltike
 https://egaxegax.github.io/index.html?blogi/moshchnyj_snegopad_obrushilsya_na_rostov-na-donu
 https://egaxegax.github.io/index.html?blogi/moshenniki_ljubyat_sbp_chislo_kraj_vyroslo_vtroe
 https://egaxegax.github.io/index.html?blogi/moshenniki_obmanyvajut_uzbekistancev_kotorye_vozvrashchajutsya_iz_rossii_na_avtobusah
@@ -2199,6 +2231,7 @@ https://egaxegax.github.io/index.html?blogi/na_severe_podmoskovya_nachal_formiro
 https://egaxegax.github.io/index.html?blogi/na_severe_rossii_zubry_stali_jit_i_spasatsya_v_zabroshennyh_derevnyah
 https://egaxegax.github.io/index.html?blogi/na_slabo_kak_zelenskij_riskuet_s_belorussiej
 https://egaxegax.github.io/index.html?blogi/na_smenu_buhankam_poyavilis_foto_novogo_avtomobilya_policii_ot_avtovaza
+https://egaxegax.github.io/index.html?blogi/na_stroitelstve_polikliniki_v_krasnogorske_zavershili_vozvedenie_sten
 https://egaxegax.github.io/index.html?blogi/na_svoem_gorbu_chem_prekrasny_verbljudy_i_pochemu_na_nih_do_sih_por_ezdyat
 https://egaxegax.github.io/index.html?blogi/na_video_popal_uaz_patriot_s_novym_salonom_vneshnostju_i_tehnikoj_vyjdet_osenju_i_stanet_hitom
 https://egaxegax.github.io/index.html?blogi/na_voyadjere-1_ojil_davno_slomavshijsya_dvigatel
@@ -2328,6 +2361,7 @@ https://egaxegax.github.io/index.html?blogi/nju-djersi_vashington_ovechkin_namer
 https://egaxegax.github.io/index.html?blogi/noch_v_medvejem_ruche
 https://egaxegax.github.io/index.html?blogi/nochnoj_dojor_dachnyj
 https://egaxegax.github.io/index.html?blogi/norilsk
+https://egaxegax.github.io/index.html?blogi/norma_holesterina_upala_s_7_do_5_kto_i_zachem_ujestochaet_pravila
 https://egaxegax.github.io/index.html?blogi/noshu_s_soboj_v_poezdki_karmannyj_wi-fi_router_zachem
 https://egaxegax.github.io/index.html?blogi/notariusy_predlojili_vvesti_samozapret_na_prodaju_jilya_i_videofiksaciju_sdelok
 https://egaxegax.github.io/index.html?blogi/novaya_niva_t-134_rasskazyvaem_pro_platformu_motory_i_polnyj_privod
@@ -2351,6 +2385,7 @@ https://egaxegax.github.io/index.html?blogi/novosti_s_kosmodroma_vostochnyj
 https://egaxegax.github.io/index.html?blogi/novye_detektivnye_serialy_kotorye_derjat_v_napryajenii_do_samogo_konca
 https://egaxegax.github.io/index.html?blogi/novye_fotografii_komety_3i_atlas_pokazali_ee_organizovannuju_strukturu
 https://egaxegax.github.io/index.html?blogi/novye_gorizonty_na_avtosalone_v_guanchjou_nastoyashchie_vnedorojniki
+https://egaxegax.github.io/index.html?blogi/novye_issledovaniya_pochemu_posle_edy_mojet_poyavlyatsya_vyrajennaya_sonlivost
 https://egaxegax.github.io/index.html?blogi/novye_pravila_zaryadki_smartfonov_oficialnye_dannye
 https://egaxegax.github.io/index.html?blogi/novye_serialy_ot_prosmotra_kotoryh_tyajelo_otorvatsya
 https://egaxegax.github.io/index.html?blogi/novye_vyvody_vrachej_pochemu_odyshka_pri_obychnoj_hodbe_ne_vsegda_svyazana_s_vozrastom
@@ -2407,6 +2442,7 @@ https://egaxegax.github.io/index.html?blogi/ochen_strannuju_vazovskuju_pyatnashk
 https://egaxegax.github.io/index.html?blogi/ochered_na_hatu_navernoe_do_blijajshej_stancii_metro
 https://egaxegax.github.io/index.html?blogi/ocherednoj_otpusk
 https://egaxegax.github.io/index.html?blogi/ochevidcy_pojara_v_shvejcarii_rasskazali_o_podjegshih_potolok_svechah_i_petardah
+https://egaxegax.github.io/index.html?blogi/oda_jenstvennosti_chanel_vesna_2027_i_novaya_roskosh
 https://egaxegax.github.io/index.html?blogi/odaliski_na_pensii_chto_proishodilo_s_garemom_posle_smerti_sultana
 https://egaxegax.github.io/index.html?blogi/odin_iz_samyh_krasivyh_osobnyakov_moskvy_shedevr_shehtelya_otkrytyj_dlya_vseh
 https://egaxegax.github.io/index.html?blogi/odin_iz_samyh_neobychnyh_muzeev
@@ -2443,6 +2479,7 @@ https://egaxegax.github.io/index.html?blogi/oni_sdelali_remejk_buratino_zachem_i
 https://egaxegax.github.io/index.html?blogi/ono_togo_ne_stoit_kakie_pravila_ni_za_chto_nelzya_narushat_v_kitae
 https://egaxegax.github.io/index.html?blogi/opadchij_dfo_potreblyaet_elektroenergii_v_razy_bolshe_chem_drugie_regiony
 https://egaxegax.github.io/index.html?blogi/opaseniya_po_povodu_puzyrya_ii_nachinajut_vyhodit_za_ramki_razumnogo
+https://egaxegax.github.io/index.html?blogi/opilki_v_ogorode_kak_oni_pomogut_chesnoku_rasti_luchshe
 https://egaxegax.github.io/index.html?blogi/opustevshij_torjok_posmotrite_kak_ischezaet_samyj_starinnyj_gorod_rossii
 https://egaxegax.github.io/index.html?blogi/opyat_kinuli
 https://egaxegax.github.io/index.html?blogi/oranienbaum_dorogo-bogato_apelsiny_i_zabytyj_imperator
@@ -2593,6 +2630,7 @@ https://egaxegax.github.io/index.html?blogi/pochemu_cena_shchuchej_ikry_dognala_
 https://egaxegax.github.io/index.html?blogi/pochemu_chernoe_more_eshche_nazyvajut_mertvym
 https://egaxegax.github.io/index.html?blogi/pochemu_chernyj_kvadrat_malevicha_-_eto_iskusstvo
 https://egaxegax.github.io/index.html?blogi/pochemu_dalnobojshchiki_ne_dajut_sebya_obognat_i_ezdyat_ochen_blizko
+https://egaxegax.github.io/index.html?blogi/pochemu_dizel_zadyhaetsya_na_vysokih_oborotah_i_chem_eto_grozit_motoru
 https://egaxegax.github.io/index.html?blogi/pochemu_dobermany_perestali_rabotat_v_policii_chto_ne_tak_s_porodoj
 https://egaxegax.github.io/index.html?blogi/pochemu_elektrotricikly_stali_tak_populyarny_u_dachnikov_i_pensionerov
 https://egaxegax.github.io/index.html?blogi/pochemu_eta_kartina_v_perova_vyzvala_skandal_v_obshchestve
@@ -2681,6 +2719,7 @@ https://egaxegax.github.io/index.html?blogi/pochemu_uaz_prodavali_pod_markoj_bel
 https://egaxegax.github.io/index.html?blogi/pochemu_udar_po_wildberries_zatronet_ekonomiku_strany
 https://egaxegax.github.io/index.html?blogi/pochemu_uletet_s_marsa_budet_tochno_slojnee_chem_s_zemli
 https://egaxegax.github.io/index.html?blogi/pochemu_umnye_ljudi_malo_razmnojajutsya
+https://egaxegax.github.io/index.html?blogi/pochemu_v_bitve_pri_fermopilah_persy_prosto_ne_perestrelyali_grekov
 https://egaxegax.github.io/index.html?blogi/pochemu_v_detskih_skazkah_est_babki_i_dedki_no_net_mam_i_pap
 https://egaxegax.github.io/index.html?blogi/pochemu_v_evrope_tysyachi_kamennyh_zamkov_a_v_rossii_ih_pochti_net
 https://egaxegax.github.io/index.html?blogi/pochemu_v_gollandii_net_bezdomnyh_jivotnyh_i_chto_delaet_zoopoliciya
@@ -2766,6 +2805,7 @@ https://egaxegax.github.io/index.html?blogi/pravda_li_chto_v_kitae_mojno_horosho
 https://egaxegax.github.io/index.html?blogi/pravitelstvo_otlojilo_reshenie_o_zaprete_na_eksport_diztopliva_iz_rossii
 https://egaxegax.github.io/index.html?blogi/pravitelstvo_rf_vneslo_v_gosdumu_masshtabnyj_zakonoproekt_o_povyshenii_shtrafov
 https://egaxegax.github.io/index.html?blogi/prazdnik_znanij_zvezdnye_roditeli_mejdu_podiumom_i_shkolnym_porogom
+https://egaxegax.github.io/index.html?blogi/predstavlen_robot-hozyajka_dlya_navedeniya_poryadka_v_dome_video
 https://egaxegax.github.io/index.html?blogi/predstavlena_model_novogo_vnedorojnika_uaz-3153_nefrit_2026_foto_i_primernaya_cena
 https://egaxegax.github.io/index.html?blogi/predstavleny_abonentskie_terminaly_ot_sozdatelej_rossijskogo_analoga_starlink
 https://egaxegax.github.io/index.html?blogi/prekrasnyj_vecher
@@ -2834,6 +2874,7 @@ https://egaxegax.github.io/index.html?blogi/proverili_azs_na_trassah_m-4_i_m-11_
 https://egaxegax.github.io/index.html?blogi/proverim_intellekt_test_iz_semi_neprostyh_voprosov
 https://egaxegax.github.io/index.html?blogi/provincialnaya_geografiya_selo_poselok_derevnya_v_chem_raznica
 https://egaxegax.github.io/index.html?blogi/prucev_prodoljit_kareru_vo_francii_mufi_v_baltike_-_novosti_i_transfery_rpl
+https://egaxegax.github.io/index.html?blogi/psihologiya_ljubitelej_chernogo_jumora
 https://egaxegax.github.io/index.html?blogi/psihomemy-12
 https://egaxegax.github.io/index.html?blogi/psihomemy-13
 https://egaxegax.github.io/index.html?blogi/psj_bez_safonova_vzyal_titul_v_serii_penalti_real_pobedil_atletiko_bez_mbappe_ronaldu_zabil_958-j_gol_obzor_mirovogo_futbola
@@ -2841,6 +2882,7 @@ https://egaxegax.github.io/index.html?blogi/psj_vtoroj_god_podryad_v_finale_ligi
 https://egaxegax.github.io/index.html?blogi/ptoz_lica_chto_tyanet_oval_vniz_i_kak_ego_podtyanut
 https://egaxegax.github.io/index.html?blogi/puleny_chto_skryvaet_zabavnaya_srednevekovaya_obuv
 https://egaxegax.github.io/index.html?blogi/pupok_mira_drevnij_vulkanicheskij_krater_ksiko_raspolojennyj_v_meksike
+https://egaxegax.github.io/index.html?blogi/purpur_iz_pepla_kak_svitki_sojjennye_vezuviem_nachali_chitat_ne_razvorachivaya
 https://egaxegax.github.io/index.html?blogi/pushkinskaya_geografiya_gde_nahoditsya_ostrov_buyan
 https://egaxegax.github.io/index.html?blogi/puteshestvie_po_karelii_glava_1_ladojskie_shhery
 https://egaxegax.github.io/index.html?blogi/puteshestvie_vo_vremya_posta
@@ -2890,6 +2932,7 @@ https://egaxegax.github.io/index.html?blogi/rebenku_zadali_narisovat_obraz_konya
 https://egaxegax.github.io/index.html?blogi/rebenok_uvyaz_v_tryasine_posredi_dorogi_v_amurskoj_oblasti
 https://egaxegax.github.io/index.html?blogi/recenziya_kingdom_come_-_deliverance_2
 https://egaxegax.github.io/index.html?blogi/recenziya_na_film_v_spiskah_ne_znachilsya_pustota_krasivoj_kartinki
+https://egaxegax.github.io/index.html?blogi/recenziya_na_serial_trudno_byt_bogom_i_scenaristom_knijnoj_ekranizacii
 https://egaxegax.github.io/index.html?blogi/recept_gribnogo_supa_i_5_sekretov_prigotovleniya_bljud_s_gribami
 https://egaxegax.github.io/index.html?blogi/recept_shaurmy_kak_filme_mstiteli_2012
 https://egaxegax.github.io/index.html?blogi/redkie_kadry_i_arhivnye_snimki_06_05_26
@@ -2899,6 +2942,7 @@ https://egaxegax.github.io/index.html?blogi/redut_sovetskaya_mashina_kotoraya_um
 https://egaxegax.github.io/index.html?blogi/regionalnyj_samolet_il-114-300_i_dvigatel_pd-8_dlya_superdjeta_poluchili_sertifikaty_tipa
 https://egaxegax.github.io/index.html?blogi/rejs_novosibirsk_mahachkala_podal_signal_bedstviya
 https://egaxegax.github.io/index.html?blogi/rejting_samyh_jivuchih_krossoverov_s_probegom
+https://egaxegax.github.io/index.html?blogi/rejting_strany_s_naibolshim_chislom_laureatov_nobelevskoj_premii_po_sostoyaniju_na_2026_god
 https://egaxegax.github.io/index.html?blogi/reki_kotorye_tekut_v_nikuda
 https://egaxegax.github.io/index.html?blogi/rekord_za_30_let_yaponskie_brendy_vvezli_v_yaponiju_111_5_tys_mashin_sobstvennoj_zarubejnoj_sborki
 https://egaxegax.github.io/index.html?blogi/rekordnaya_jara_v_centralnoj_azii_izmenila_jizn_gorodov_i_pravila_zaboty_o_jivotnyh
@@ -2998,6 +3042,7 @@ https://egaxegax.github.io/index.html?blogi/safonov_ne_propustil_vo_vtorom_match
 https://egaxegax.github.io/index.html?blogi/safonov_propustil_v_blijnij_ugol_no_emu_dvajdy_ne_zabili_s_penalti_rossijskij_vratar_psj_stal_dvukratnym_pobeditelem_ligi_chempionov
 https://egaxegax.github.io/index.html?blogi/safonov_vzyal_pyatyj_penalti_podryad_real_dobyl_pobedu_na_sotoj_minute_a_mju_-_na_94-j_obzor_evrofutbola
 https://egaxegax.github.io/index.html?blogi/safonova_vo_francii_ocenili_po_dostoinstvu_psj_predlojit_matveju_novyj_kontrakt_na_uluchshennyh_usloviyah
+https://egaxegax.github.io/index.html?blogi/saharozameniteli_bez_kalorij_pochemu_ves_stoit_a_tyaga_k_vypechke_rastet
 https://egaxegax.github.io/index.html?blogi/sajt_b_u_obyavlenij
 https://egaxegax.github.io/index.html?blogi/sakralnyj_smysl_skazki_repka_i_pochemu_ee_pojmut_tolko_vzroslye
 https://egaxegax.github.io/index.html?blogi/salat_iz_zelenoj_redki
@@ -3086,6 +3131,7 @@ https://egaxegax.github.io/index.html?blogi/semin_zayavil_chto_futbolisty_i_ruko
 https://egaxegax.github.io/index.html?blogi/semya_lykovyh_samye_znamenitye_otshelniki_sssr_i_rossii
 https://egaxegax.github.io/index.html?blogi/sereje_vsegda_13_let_nikita_mihalkov_o_masshtabe_lichnosti_svoego_otca
 https://egaxegax.github.io/index.html?blogi/sergeev_krutoj_djoker_no_zenit_ego_tak_i_ne_prinyal
+https://egaxegax.github.io/index.html?blogi/sergej_jukov_otvetil_na_kritiku_otara_kushanashvili_iz-za_vesa
 https://egaxegax.github.io/index.html?blogi/sergej_zverev_vs_estestvennost_pochemu_ego_slova_obijajut_jenshchin_50
 https://egaxegax.github.io/index.html?blogi/serialy_kotorye_pohoji_na_izvne
 https://egaxegax.github.io/index.html?blogi/serijnaya_niva_sport_chto_pod_kapotom_i_v_salone_skolko_stoit
@@ -3131,6 +3177,7 @@ https://egaxegax.github.io/index.html?blogi/shot_spros_na_elki_uvelichilsya_poch
 https://egaxegax.github.io/index.html?blogi/shuba
 https://egaxegax.github.io/index.html?blogi/shurup_prinimaet_dush_posle_kachalki
 https://egaxegax.github.io/index.html?blogi/shurupovert
+https://egaxegax.github.io/index.html?blogi/shutili_proshchali_i_ne_uspevali_dogovorit_kakie_poslednie_slova_na_eshafote_voshli_v_istoriju
 https://egaxegax.github.io/index.html?blogi/shutki_i_memy_iz_1987_goda_podborka_iz_krokodila
 https://egaxegax.github.io/index.html?blogi/shutki_i_memy_pro_literaturu_podborka_ne_dlya_vseh
 https://egaxegax.github.io/index.html?blogi/shutki_i_memy_pro_sentyabrskuju_osen_2024_podborka
@@ -3187,6 +3234,7 @@ https://egaxegax.github.io/index.html?blogi/skrejet_v_tumane_novaya_epichno-boev
 https://egaxegax.github.io/index.html?blogi/skrytye_ot_cheloveka_20-metrovye_volny_obnarujili_v_arktike
 https://egaxegax.github.io/index.html?blogi/skype_kak_i_pochemu_proizoshel_krah_legendy_prichiny_gromkogo_provala
 https://egaxegax.github.io/index.html?blogi/sliv_nechistot_s_uchastka_dolinoj_v_ruchej_likvidirujut_v_techenie_mesyaca
+https://egaxegax.github.io/index.html?blogi/slojnost_rasshifrovki_manuskripta_vojnicha_obyasnili_pereputannymi_stranicami
 https://egaxegax.github.io/index.html?blogi/slojnyj_test_otgadaesh_krasavicu-aktrisu_iz_sssr
 https://egaxegax.github.io/index.html?blogi/slysh_obshchestvennik_idi_na_uj
 https://egaxegax.github.io/index.html?blogi/smartfony_dlya_naroda_6_luchshih_smartfonov_v_2026_godu
@@ -3283,6 +3331,7 @@ https://egaxegax.github.io/index.html?blogi/starshij_brat_monjaro_novyj_flagmans
 https://egaxegax.github.io/index.html?blogi/start_prodaj_geely_galaxy_starship_7_em-i_novaya_zvezda_na_gibridnom_nebosklone
 https://egaxegax.github.io/index.html?blogi/starye_no_dolgovechnye_gadjety_apple_kotorym_net_ravnyh_daje_v_2025_godu
 https://egaxegax.github.io/index.html?blogi/staryj_kon_borozdy_ne_portit_6_podeshevevshih_smartfonov_kotorye_aktualny_v_2025_godu
+https://egaxegax.github.io/index.html?blogi/statiny_62_iz_66_pobochnyh_effektov_v_instrukcii_ne_podtverdilis
 https://egaxegax.github.io/index.html?blogi/stellan_skarsgard_otmechaet_segodnya_svoe_75-letie
 https://egaxegax.github.io/index.html?blogi/stenli_tuchchi_65_let_master_vtorostepennyh_rolej_i_talantlivyj_kulinar
 https://egaxegax.github.io/index.html?blogi/stepanova_esli_jena_uspeshna_to_vstat_v_4_utra_radi_rebenka_delo_muja
@@ -3378,6 +3427,7 @@ https://egaxegax.github.io/index.html?blogi/teplo_doma_ronaldu_ovechkiny_u_elki_
 https://egaxegax.github.io/index.html?blogi/ter_stegen_slomalsya_man_siti_spassya_golovin_dognal_psj_jara_v_evropejskom_futbole
 https://egaxegax.github.io/index.html?blogi/terapevt_predupredil_o_posledstviyah_snijeniya_prohodnyh_ballov_v_medicinskie_vuzy
 https://egaxegax.github.io/index.html?blogi/terenteva_i_kramarenko_pobedili_bolshunov_prospal_start_itogi_sprinta_na_kubke_rossii
+https://egaxegax.github.io/index.html?blogi/terminator_na_kolesah_arnold_shvarcenegger_prokatilsya_na_elektrovelosipede
 https://egaxegax.github.io/index.html?blogi/test
 https://egaxegax.github.io/index.html?blogi/test_na_proverku_krugozora_smojete_otvetit_na_8_10_voprosov
 https://egaxegax.github.io/index.html?blogi/test_na_proverku_krugozora_smojete_otvetit_na_voprosy_bez_podskazok
@@ -3398,6 +3448,7 @@ https://egaxegax.github.io/index.html?blogi/tochno_mojno_brat_v_knr_nazvali_4_lu
 https://egaxegax.github.io/index.html?blogi/tokelau_strana_solnechnyh_batarej_i_jizni_po_raspisaniju
 https://egaxegax.github.io/index.html?blogi/tolko_poleznye_pokupki_u_kitajcev
 https://egaxegax.github.io/index.html?blogi/tolko_za_odin_mesyac_kitajcy_zakazali_u_airbus_165_samoletov_iz_nih_25_shirokofjuzelyajnye
+https://egaxegax.github.io/index.html?blogi/tonalnosti_gammy_i_prochie_krugi_akkordov_na_vode_dlya_samyh_malenkih
 https://egaxegax.github.io/index.html?blogi/tonkij_korpus_7_let_obnovlenij_zashchita_ip69_zvuk_bose_snapdragon_8_gen_5_90_vt_i_chetyre_50-megapikselnye_kamery_predstavlen_premium-smartfon_motorola_signature
 https://egaxegax.github.io/index.html?blogi/top-10_inostrannyh_pesen_o_rossijskih_gorodah_ot_leningrada_do_vladivostoka
 https://egaxegax.github.io/index.html?blogi/top-10_krasivyh_latinoamerikanskih_aktris
@@ -3546,6 +3597,7 @@ https://egaxegax.github.io/index.html?blogi/utilsbor_mogut_otmenit_razbiraem_ana
 https://egaxegax.github.io/index.html?blogi/utoplennyj_mitsubishi_v_dagestane
 https://egaxegax.github.io/index.html?blogi/utverjden_kalendar_rpl_sezona_2026_2027_i_gruppovoj_etap_kubka_rossii_puti_rpl
 https://egaxegax.github.io/index.html?blogi/v_10_gorodah-millionnikah_polovina_postroennyh_kvartir_okazalas_nerasprodannoj
+https://egaxegax.github.io/index.html?blogi/v_18_pobedil_luchshih_grebcov_mira_vzyal_3_olimpijskih_zolota_pochemu_otstranili_ot_4-oj_olimpiady_vyacheslava_ivanova
 https://egaxegax.github.io/index.html?blogi/v_1981_godu_moya_zarplata_v_bdt_byla_132_rublya_120_oklad_i_12_rublej_akademicheskih_za_to_chto_rabotal_v_akademicheskom_teatre
 https://egaxegax.github.io/index.html?blogi/v_3_5_raza_bystree_intel_core_ultra_qualcomm_predstavila_snapdragon_x2_plus_moshchnyj_otvet_intel_i_amd_s_rekordnoj_ii-proizvoditelnostju
 https://egaxegax.github.io/index.html?blogi/v_antale_rossiyanka_upala_s_shesti_metrov_u_vodopada_kurshunlu_i_popala_v_bolnicu
@@ -3658,6 +3710,7 @@ https://egaxegax.github.io/index.html?blogi/v_serbii_iz-za_obmeleniya_dunaya_pok
 https://egaxegax.github.io/index.html?blogi/v_seti_obsujdajut_arhivnoe_detskoe_video_s_annoj_peresild_u_nee_byli_emocii
 https://egaxegax.github.io/index.html?blogi/v_seti_pokazali_korabl_mechty_plavuchij_gorod_na_80_000_jitelej
 https://egaxegax.github.io/index.html?blogi/v_seti_pokazali_samye_smeshnye_foto_jivotnyh_v_2025_godu
+https://egaxegax.github.io/index.html?blogi/v_shahtah_ustanavlivajut_novye_iskusstvennye_dorojnye_nerovnosti
 https://egaxegax.github.io/index.html?blogi/v_sibiri_stroyat_reaktor_iv_pokoleniya_rosatom_zavershil_pervyj_etap_betonirovaniya_turbiny
 https://egaxegax.github.io/index.html?blogi/v_sojuze_pensionerov_obyasnili_nejelanie_rossiyan_otkladyvat_na_starost
 https://egaxegax.github.io/index.html?blogi/v_ssha_izobreli_gosuslugi
@@ -3804,6 +3857,7 @@ https://egaxegax.github.io/index.html?blogi/vylov_fugu_rybakami_primorya_i_sahal
 https://egaxegax.github.io/index.html?blogi/vymirajushchij_gorod_v_kotoryj_net_dorog_kak_ya_sezdil_v_vorkutu
 https://egaxegax.github.io/index.html?blogi/vymogateli_kotorye_pytali_uralca_utjugom_uslyshali_prigovor
 https://egaxegax.github.io/index.html?blogi/vypusknoj_albom
+https://egaxegax.github.io/index.html?blogi/vyrosli_vmeste_s_ljudmi_milye_foto_15_jivotnyh_i_ih_hozyaev_spustya_mnogo_let
 https://egaxegax.github.io/index.html?blogi/vysadka_na_lunu_pochemu_nekotorye_do_sih_por_ne_veryat_nauchnyj_razbor_7_populyarnyh_argumentov
 https://egaxegax.github.io/index.html?blogi/vyshedshaya_na_progulku_s_sobakoj_lipchanka_zabludilas_i_razbila_palatku
 https://egaxegax.github.io/index.html?blogi/vyshel_iz_mashiny_no_ne_iz-pod_stati_kak_otkaz_ot_medosmotra_lishaet_prav
@@ -3832,6 +3886,7 @@ https://egaxegax.github.io/index.html?blogi/yandeks_v_2026_odnoj_kartinkoj
 https://egaxegax.github.io/index.html?blogi/yanino-1_transportnyj_ad_kak_norma_jizni_ili_kak_prevratit_poezdku_na_rabotu_v_ispytanie_na_vyjivanie
 https://egaxegax.github.io/index.html?blogi/yantarnoe_sokrovishche_iz_vashego_sada_mojno_li_est_kamed_s_vishen_i_sliv_nujno
 https://egaxegax.github.io/index.html?blogi/yaponskie_avtogiganty_narastili_import_sobstvennyh_mashin_iz-za_rubeja_chto_vezut
+https://egaxegax.github.io/index.html?blogi/yaponskij_pisatel_rju_murakami_skonchalsya_v_vozraste_74_let
 https://egaxegax.github.io/index.html?blogi/yapovskij_babushatnik
 https://egaxegax.github.io/index.html?blogi/yarkie_pobedy_arsenala_i_barselony_salah_pishet_istoriju_apl_a_bavariya_snova_spotknulas_na_autsajdere
 https://egaxegax.github.io/index.html?blogi/yarkoe_i_lakonichnoe_vizualnoe_iskusstvo_sozdannoe_dlya_bystroj_agitacii_propagandy_i_svyazi_s_narodom
@@ -4069,6 +4124,10 @@ https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261018_070
 https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261019_0700
 https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261020_0700
 https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261021_0700
+https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261022_0700
+https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261023_0700
+https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261024_0700
+https://egaxegax.github.io/index.html?ekonomika/rossijskaya_gazeta_na_261025_0700
 https://egaxegax.github.io/index.html?filmy
 https://egaxegax.github.io/index.html?filmy/bobbi_moretti_istoriya_kotoraya_izmenit_tebya_pobeda_nad_boleznju_i_soboj
 https://egaxegax.github.io/index.html?filmy/boss_istoriya_neulovimogo_mafiozi_matteo_messiny_denaro
@@ -4691,6 +4750,7 @@ https://egaxegax.github.io/index.html?kino_i_teatr/kak_misticheskie_ujasy_iz_yap
 https://egaxegax.github.io/index.html?kino_i_teatr/kak_ograbit_bank_trejler_na_anglijskom_yazyke
 https://egaxegax.github.io/index.html?kino_i_teatr/kak_priruchit_lisu_tizer-trejler
 https://egaxegax.github.io/index.html?kino_i_teatr/kak_skazat_cheloveku_chtoby_on_ponyal_moh_istoriya_odnogo_psa_v_teatre_shalom
+https://egaxegax.github.io/index.html?kino_i_teatr/kak_snimali_serial_mnogoe_poluchaetsya_yaroslavl_debjutanty_i_lobster_po_imeni_leonid
 https://egaxegax.github.io/index.html?kino_i_teatr/kak_stat_tarantino_v_65_kyoto_animation_snimaet_dramu_titry_zakanchivajutsya_tam_gde_more_est_tizer
 https://egaxegax.github.io/index.html?kino_i_teatr/kak_tebe_takoe_ilon_mask_kristoferu_nolanu_55
 https://egaxegax.github.io/index.html?kino_i_teatr/kak_vyjti_zamuj_za_milliardera_hochesh_za_okoshkom_alpy
@@ -4889,6 +4949,7 @@ https://egaxegax.github.io/index.html?kino_i_teatr/mokryachok_popaj_trejler_na_a
 https://egaxegax.github.io/index.html?kino_i_teatr/molchalivyj_drug
 https://egaxegax.github.io/index.html?kino_i_teatr/molodoj_mors_trejler_2
 https://egaxegax.github.io/index.html?kino_i_teatr/monarh_nasledie_monstrov_2_sezon_trejler_na_anglijskom_yazyke
+https://egaxegax.github.io/index.html?kino_i_teatr/monolog_farmacevta_sokrovishche_pokojnoj_nalojnicy_trejler_2_na_yaponskom_yazyke
 https://egaxegax.github.io/index.html?kino_i_teatr/mononoke_ognennaya_krysa_trejler_2_na_yaponskom_yazyke
 https://egaxegax.github.io/index.html?kino_i_teatr/more_na_dvoih
 https://egaxegax.github.io/index.html?kino_i_teatr/moskva_slezam_ne_verit_vse_tolko_nachinaetsya
@@ -6331,6 +6392,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/entuziast_vossozdal_fizi
 https://egaxegax.github.io/index.html?kompjuternye_igry/entuziast_vypustil_nativnyj_port_timesplitters_2_dlya_pk_i_macos_na_baze_staticheskoj_rekompilyacii
 https://egaxegax.github.io/index.html?kompjuternye_igry/entuziast_zapustil_sjujetnuju_kampaniju_call_of_duty_4_modern_warfare_pryamo_v_brauzere
 https://egaxegax.github.io/index.html?kompjuternye_igry/entuziasty_dekompilirovali_dragon_age_origins_na_60_i_gotovyat_perenos_kultovoj_rpg_na_64-bitnyj_dvijok
+https://egaxegax.github.io/index.html?kompjuternye_igry/entuziasty_snyali_iskusstvennoe_ogranichenie_nvidia_i_uskorili_videokarty_geforce_rtx_30_pochti_v_2_raza
 https://egaxegax.github.io/index.html?kompjuternye_igry/entuziasty_vypustili_modifikaciju_s_kooperativom_do_16_chelovek_dlya_pk-versii_marvel's_spider-man_2
 https://egaxegax.github.io/index.html?kompjuternye_igry/entuziasty_zapustili_nejrosetevoj_rendering_dlss_5_ot_nvidia_na_vstroennoj_grafike_intel_arc
 https://egaxegax.github.io/index.html?kompjuternye_igry/entuziasty_zapustili_polnocennuju_ios_16_5_na_smartfonah_s_android_v_ramkah_proekta_hackios
@@ -6359,6 +6421,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/gigabyte_mojet_sokratit_
 https://egaxegax.github.io/index.html?kompjuternye_igry/girl_frame_gejmplej_na_pk_sci-fi_vyjivanie_mehi_i_piloty-devushki_bez_kommentariev
 https://egaxegax.github.io/index.html?kompjuternye_igry/girl_frame_gejmplej_na_pk_sci-fi_vyjivanie_mehi_i_piloty-devushki_bez_kommentariev
 https://egaxegax.github.io/index.html?kompjuternye_igry/glava_egosoft_priznalsya_v_butaforskoj_ekonomike_kultovoj_x_beyond_the_frontier
+https://egaxegax.github.io/index.html?kompjuternye_igry/glava_new_blood_nazval_termin_immersivnyj_simulyator_otvratitelnym_i_predlojil_nazyvat_takie_igry_rpg
 https://egaxegax.github.io/index.html?kompjuternye_igry/glava_razrabotki_starcraft_uje_igraet_v_rabochij_bild_shutera_s_gidraliskami
 https://egaxegax.github.io/index.html?kompjuternye_igry/glava_shift_up_kim_hen_te_izvinilsya_za_muzykalnyj_ii-klip_po_motivam_stellar_blade_blood_rain
 https://egaxegax.github.io/index.html?kompjuternye_igry/glava_studii_bulkhead_otkryto_trebuet_ot_podchinennyh_kranchej_i_uvolnyal_pyatuju_chast_razrabotchikov_kajdyj_god
@@ -6387,6 +6450,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/i_am_machine_gejmplej_na
 https://egaxegax.github.io/index.html?kompjuternye_igry/i_m_on_observation_duty_8_the_ranch_vse_anomalii_prohojdenie_bez_kommentariev_2025
 https://egaxegax.github.io/index.html?kompjuternye_igry/igroki_eve_frontier_platyat_za_dostup_k_syroj_alfe_s_postoyannymi_polomkami_mehanik_i_nerabotajushchej_kartoj
 https://egaxegax.github.io/index.html?kompjuternye_igry/igrovaya_platforma_vk_play_nabrala_64_1_mln_akkauntov_na_fone_otchetnosti_vk_za_pervoe_polugodie_2026_goda
+https://egaxegax.github.io/index.html?kompjuternye_igry/igry_iz_steam_zapuskajut_pryamo_na_vzlomannoj_playstation_5_-_bez_striminga_oblaka_i_otdelnoj_ustanovki_linux_na_konsol
 https://egaxegax.github.io/index.html?kompjuternye_igry/illusive_domain_gejmplej_bez_kommentariev_slojnee_dark_souls_igra_volchicy-nindzya_vyhod_v_2026
 https://egaxegax.github.io/index.html?kompjuternye_igry/in_search_of_freedom_gejmplej_na_pk_takticheskij_ekshen_v_zombi-apokalipsise_demo
 https://egaxegax.github.io/index.html?kompjuternye_igry/in_search_of_freedom_gejmplej_na_pk_takticheskij_ekshen_v_zombi-apokalipsise_demo
@@ -6424,6 +6488,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/kompozitor_tomb_raider_d
 https://egaxegax.github.io/index.html?kompjuternye_igry/korporaciya_microsoft_trebovala_pereimenovat_halo_i_sdelat_prishelcev_pohojimi_na_koshek
 https://egaxegax.github.io/index.html?kompjuternye_igry/kosmicheskaya_petlya_vremeni_na_pk_i_konsolyah_vyshla_nauchno-fantasticheskaya_golovolomka_rivage
 https://egaxegax.github.io/index.html?kompjuternye_igry/kreslo-tualet_dlya_fortnite_za_500_dollarov_popalo_v_spisok_zapreshchennyh_predmetov_na_kibersportivnyh_turnirah
+https://egaxegax.github.io/index.html?kompjuternye_igry/kulinarnyj_simulyator_one_piece_grand_gourmet_startoval_v_steam_so_smeshannymi_otzyvami_iz-za_problemnogo_interfejsa
 https://egaxegax.github.io/index.html?kompjuternye_igry/kultovyj_simulyator_simcopter_1996_goda_ot_maxis_polnostju_vossozdali_na_dvijke_unreal_engine_5
 https://egaxegax.github.io/index.html?kompjuternye_igry/lady_death_demonicron_vyshla_na_rs_playstation_xbox_i_nintendo_switch
 https://egaxegax.github.io/index.html?kompjuternye_igry/legendarnyj_shrek_2_vozvrashchaetsya_v_seti_ranshe_vremeni_poyavilas_stranica_remastera_igry
@@ -6446,6 +6511,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/modder_perenes_gejmplej_
 https://egaxegax.github.io/index.html?kompjuternye_igry/modder_snizil_temperaturu_hotspot_videokarty_na_19_c_ustanoviv_ee_vertikalno_na_bokovuju_panel
 https://egaxegax.github.io/index.html?kompjuternye_igry/modder_vossozdal_nikogda_ne_vyhodivshuju_v_prodaju_rtx_3070_ti_s_16_gb_pamyati_gddr6
 https://egaxegax.github.io/index.html?kompjuternye_igry/modder_vypustil_sbornik_arkadnyh_igr_ridge_racer_dlya_pk_s_onlajn-multipleerom
+https://egaxegax.github.io/index.html?kompjuternye_igry/monster_hunter_outlanders_znakomit_s_keres_i_ee_vihrem_klinkov_pered_vyhodom_29_oktyabrya
 https://egaxegax.github.io/index.html?kompjuternye_igry/mortal_shell_ii_sobrala_pochti_34_tysyachi_igrokov_odnovremenno_i_podnyalas_na_pervoe_mesto_v_charte_prodaj_steam
 https://egaxegax.github.io/index.html?kompjuternye_igry/msi_predstavila_korotkuju_rtx_5060_ventus_2x_oc_v1_dlya_mini-itx_dlina_197_mm_i_145_vt
 https://egaxegax.github.io/index.html?kompjuternye_igry/mstiteli_final_vnov_stali_samym_kassovym_filmom_v_istorii_-_sbory_vyrosli_do_2_93_mlrd_i_oboshli_pervyj_avatar
@@ -6545,6 +6611,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/razrabotchiki_gears_of_w
 https://egaxegax.github.io/index.html?kompjuternye_igry/razrabotchiki_gothic_1_remake_vypustili_obnovlenie_1_0_5_s_ispravleniem_absurdnyh_vyletov_i_mehanik_verhovoj_ezdy
 https://egaxegax.github.io/index.html?kompjuternye_igry/razrabotchiki_halo_nachali_tajnyj_zagovor_protiv_microsoft_zadolgo_do_reliza_tretej_chasti
 https://egaxegax.github.io/index.html?kompjuternye_igry/razrabotchiki_marvel's_wolverine_ustali_ot_neskonchaemoj_nenavisti_k_igre
+https://egaxegax.github.io/index.html?kompjuternye_igry/razrabotchiki_project_motor_racing_prizvali_fanatov_prekratit_toksichnye_napadki_radi_vyjivaniya_janra
 https://egaxegax.github.io/index.html?kompjuternye_igry/razrabotchiki_star_trek_outposts_unknown_pokazali_igrovoj_process_na_novoj_planete_lda_i_plameni_kuru
 https://egaxegax.github.io/index.html?kompjuternye_igry/razrabotchiki_surviving_deponia_vozobnovili_testirovanie_v_steam_i_raskryli_novye_detali_proekta
 https://egaxegax.github.io/index.html?kompjuternye_igry/red_dawn_gejmplej_v_rannem_dostupe_anime-srpg_v_duhe_xcom_pro_vojnu_shkol
@@ -6641,6 +6708,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/studiya_grove_street_gam
 https://egaxegax.github.io/index.html?kompjuternye_igry/studiya_lavapotion_vernulas_iz_otpuska_dlya_prodoljeniya_polirovki_songs_of_conquest_i_raboty_nad_mobilnoj_versiej
 https://egaxegax.github.io/index.html?kompjuternye_igry/studiya_owlcat_games_zapustila_masshtabnyj_ejegodnyj_opros_sredi_svoih_predannyh_poklonnikov
 https://egaxegax.github.io/index.html?kompjuternye_igry/studiya_refactor_games_uvolila_80_sotrudnikov_posle_reliza_fifa_world_cup_dlya_netflix
+https://egaxegax.github.io/index.html?kompjuternye_igry/studiya_straight4_studios_nazvala_massovye_uvolneniya_razrabotchikov_project_motor_racing_shagom_k_povysheniju_effektivnosti
 https://egaxegax.github.io/index.html?kompjuternye_igry/studiya_wit_studio_opublikovala_tizer_novogo_proekta_po_atake_titanov_s_datoj_anonsa_20_avgusta
 https://egaxegax.github.io/index.html?kompjuternye_igry/subliminal_gejmplej_na_pk_prohojdenie_bez_kommentariev_demo-versiya_reliz_2025
 https://egaxegax.github.io/index.html?kompjuternye_igry/super_cabbage_kabumi_pervye_minuty_igry_gejmplej_na_pk_prohojdenie_bez_kommentariev
@@ -6651,6 +6719,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/taito_gotovit_sbornik_kl
 https://egaxegax.github.io/index.html?kompjuternye_igry/takticheskij_tankovyj_shuter_tyr_vyjdet_v_rannij_dostup_2_sentyabrya_2026_goda
 https://egaxegax.github.io/index.html?kompjuternye_igry/team_ricochet_raskryla_server_culling_-_novuju_tehnologiju_protiv_wh-chitov_v_call_of_duty_modern_warfare_4
 https://egaxegax.github.io/index.html?kompjuternye_igry/team_spirit_vybila_betboom_team_s_the_international_2026_-_v_trojke_silnejshih_ostalis_tolko_russkoyazychnye_komandy
+https://egaxegax.github.io/index.html?kompjuternye_igry/tehnologiya_peredachi_zapahov_mojet_voplotit_davnjuju_ideju_hideo_kodzimy_-_diski_s_zapahom_krovi
 https://egaxegax.github.io/index.html?kompjuternye_igry/testy_pokazali_kolossalnuju_raznicu_v_projorlivosti_operativnoj_pamyati_mejdu_windows_11_i_linux_mint_v_sovremennyh_igrah
 https://egaxegax.github.io/index.html?kompjuternye_igry/thank_you_for_your_application_okupila_razrabotku_za_22_chasa_-_indi-proekt_dokazal_chto_bjudjetu_ne_vsegda_nujen_razmah
 https://egaxegax.github.io/index.html?kompjuternye_igry/the_cold_white_holodnoe_vyjivanie_na_alyaske_bez_kommentariev_reliz_2024
@@ -6668,6 +6737,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/titans_of_the_past_pervy
 https://egaxegax.github.io/index.html?kompjuternye_igry/tom_clancy's_ghost_recon_wildlands_poluchila_obnovleniya_gipervizor-obhoda_zashchity_denuvo_v_svyazi_s_vyhodom_dlc_last_rites
 https://egaxegax.github.io/index.html?kompjuternye_igry/tomas_maler_prevratil_svoj_sajt_video_games_critic_v_analog_steamdb_s_rejtingom_doveriya_k_jurnalistam
 https://egaxegax.github.io/index.html?kompjuternye_igry/tomb_raider_legacy_of_atlantis_ne_budet_dostupna_dlya_igry_na_gamescom_2026
+https://egaxegax.github.io/index.html?kompjuternye_igry/tomb_raider_otmetil_30-letie_prazdnichnym_trejlerom_o_nasledii_lary_kroft
 https://egaxegax.github.io/index.html?kompjuternye_igry/toony's_daycare_polnoe_prohojdenie_2025_detektiv_bez_kommentariev
 https://egaxegax.github.io/index.html?kompjuternye_igry/toony_s_daycare_polnoe_prohojdenie_2025_detektiv_bez_kommentariev
 https://egaxegax.github.io/index.html?kompjuternye_igry/top-menedjment_bungie_pytalsya_isportit_final_destiny_2_radi_kopeechnoj_ekonomii_na_proshchalnom_rolike
@@ -6706,7 +6776,9 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/v_mstitelyah_sekretnye_v
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_no_law_net_generativnogo_ii_neon_giant_vruchnuju_sozdala_celyj_gorod_s_jivushchimi_po_raspisaniju_npc
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_novom_trejlere_aliens_fireteam_elite_2_ksenomorfy_ostajutsya_takimi_je_ujasajushchimi_kak_i_prejde
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_set_popal_koncept-art_otmenennogo_filma_sony_pro_zloveshchuju_shesterku
+https://egaxegax.github.io/index.html?kompjuternye_igry/v_set_utekla_pervaya_recenziya_na_phantom_blade_zero_-_pohvalili_boevku_no_raskritikovali_pustye_lokacii
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_seti_poyavilas_brauzernaya_igra_destroy_any_website_dlya_razrusheniya_ljubyh_sajtov
+https://egaxegax.github.io/index.html?kompjuternye_igry/v_seti_poyavilsya_trejler_otmenennoj_mass_effect_s_postarevshej_liaroj_-_no_ego_podlinnost_vyzyvaet_voprosy
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_seti_prodemonstrirovali_prototip_demon's_souls_s_kameroj_ot_pervogo_lica_i_vyrezannymi_vragami
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_star_citizen_fri_flaju_byt_razrabotchiki_otkrojut_besplatnyj_dostup_29_07_v_19_00_po_msk
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_steam_anonsirovali_gradostroitelnyj_simulyator_s_vyjivaniem_xiri_oasis_cities
@@ -6716,6 +6788,7 @@ https://egaxegax.github.io/index.html?kompjuternye_igry/v_steam_sostoyalsya_reli
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_steam_sostoyalsya_reliz_neobychnogo_rolevogo_horror-simulyatora_welcome_to_elderfield
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_steam_vyshla_demoversiya_myasnogo_ekshen-rogalika_kill_breach_v_duhe_doom_i_quake
 https://egaxegax.github.io/index.html?kompjuternye_igry/v_steam_vyshla_demoversiya_retro-ekshena_gunmetal_gothic_s_kooperativom_do_4_chelovek
+https://egaxegax.github.io/index.html?kompjuternye_igry/v_yadre_linux_7_4_poyavilas_podderjka_kontrollerov_nintendo_switch_2_blagodarya_injeneru_valve
 https://egaxegax.github.io/index.html?kompjuternye_igry/valve_prigrozila_sudom_i_zakryla_krupnyj_servis_skinchejndjera_dlya_counter-strike_2_v_rossii
 https://egaxegax.github.io/index.html?kompjuternye_igry/vampires_bloodlord_rising_pervyj_gejmplej_prohojdenie-_otkrytyj_mir_strojka_zamka_i_koop_na_4-h
 https://egaxegax.github.io/index.html?kompjuternye_igry/vampiress_eternal_duet_pervye_minuty_igry_na_pk_bez_kommentariev
@@ -6829,6 +6902,8 @@ https://egaxegax.github.io/index.html?mesta_podmoskovya/zelenograd
 https://egaxegax.github.io/index.html?mesta_podmoskovya/zvenigorod
 https://egaxegax.github.io/index.html?mir_kino
 https://egaxegax.github.io/index.html?mir_kino/100_futov_film_2008_100_feet
+https://egaxegax.github.io/index.html?mir_kino/1408_film_2007
+https://egaxegax.github.io/index.html?mir_kino/500_mil_film_2026_500_miles
 https://egaxegax.github.io/index.html?mir_kino/actekskij_betmen_stolknovenie_imperij_multfilm_2025_batman_azteca_choque_de_imperios
 https://egaxegax.github.io/index.html?mir_kino/aktery_kotorye_ne_smogli
 https://egaxegax.github.io/index.html?mir_kino/aktery_kotorye_ne_smogli
@@ -6869,6 +6944,7 @@ https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_6_seriya_brid
 https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_7_seriya_bridgerton
 https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_8_seriya_bridgerton
 https://egaxegax.github.io/index.html?mir_kino/bridjertony_4_sezon_8_seriya_iz_8_bridgerton
+https://egaxegax.github.io/index.html?mir_kino/budem_realistami_film_2026_te_li_du_xing
 https://egaxegax.github.io/index.html?mir_kino/chastnoe_delo_-_1_seriya_serial_2022_un_asunto_privado_a_private_affair
 https://egaxegax.github.io/index.html?mir_kino/chastnoe_delo_-_2_seriya_serial_2022_un_asunto_privado_a_private_affair
 https://egaxegax.github.io/index.html?mir_kino/chastnoe_delo_-_3_seriya_serial_2022_un_asunto_privado_a_private_affair
@@ -6998,6 +7074,9 @@ https://egaxegax.github.io/index.html?mir_kino/devochki_gilmor_-_5_sezon_9_seriy
 https://egaxegax.github.io/index.html?mir_kino/devochki_gilmor_-_6_sezon_20_seriya_serial_2000_gilmore_girls
 https://egaxegax.github.io/index.html?mir_kino/devochki_gilmor_-_6_sezon_21_seriya_serial_2000_gilmore_girls
 https://egaxegax.github.io/index.html?mir_kino/devochki_gilmor_-_6_sezon_22_seriya_serial_2000_gilmore_girls
+https://egaxegax.github.io/index.html?mir_kino/devochki_gilmor_-_7_sezon_20_seriya_serial_2000_gilmore_girls
+https://egaxegax.github.io/index.html?mir_kino/devochki_gilmor_-_7_sezon_21_seriya_serial_2000_gilmore_girls
+https://egaxegax.github.io/index.html?mir_kino/devochki_gilmor_-_7_sezon_22_seriya_serial_2000_gilmore_girls
 https://egaxegax.github.io/index.html?mir_kino/dink_film_2026_the_dink
 https://egaxegax.github.io/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_10_seriya_serial_2002_dinotopia
 https://egaxegax.github.io/index.html?mir_kino/dinotopiya_novye_prikljucheniya_-_11_seriya_serial_2002_dinotopia
@@ -7282,6 +7361,7 @@ https://egaxegax.github.io/index.html?mir_kino/kogda_proval_raven_uspehu
 https://egaxegax.github.io/index.html?mir_kino/koloniya_film_2026_gunche
 https://egaxegax.github.io/index.html?mir_kino/komiks_neudachniki
 https://egaxegax.github.io/index.html?mir_kino/kormilec_film_2026_the_breadwinner
+https://egaxegax.github.io/index.html?mir_kino/koroleva_proklyatyh_film_2002_queen_of_the_damned
 https://egaxegax.github.io/index.html?mir_kino/korolevskij_straj_film_2026_wanggwa_saneun_namja
 https://egaxegax.github.io/index.html?mir_kino/kraken_film_2026_kraken
 https://egaxegax.github.io/index.html?mir_kino/krepkij_oreshek_-_padenie_franshizy
@@ -7559,6 +7639,7 @@ https://egaxegax.github.io/index.html?mir_kino/ograblenie_film_2025_the_pickup
 https://egaxegax.github.io/index.html?mir_kino/olaf_i_holodnoe_prikljuchenie_multfilm_2017_olaf's_frozen_adventure
 https://egaxegax.github.io/index.html?mir_kino/oni_pridut_za_toboj_film_2026_they_will_kill_you
 https://egaxegax.github.io/index.html?mir_kino/opasnyj_duet_film_2026_the_wrecking_crew
+https://egaxegax.github.io/index.html?mir_kino/ostansya_film_2005_stay
 https://egaxegax.github.io/index.html?mir_kino/ot_krisa_evansa_do_krisa_netfliksa
 https://egaxegax.github.io/index.html?mir_kino/ot_proklyatya_do_piratov_karibskogo_morya
 https://egaxegax.github.io/index.html?mir_kino/otbrosy_-_1_sezon_1_seriya_serial_2009_misfits
@@ -7872,6 +7953,7 @@ https://egaxegax.github.io/index.html?mir_kino/soulm8jt_film_2026_soulmejt_soulm
 https://egaxegax.github.io/index.html?mir_kino/specialist_2_mest_film_2026_dhurandhar_the_revenge
 https://egaxegax.github.io/index.html?mir_kino/specialist_film_2025_dhurandhar
 https://egaxegax.github.io/index.html?mir_kino/spider-man_brand_new_day_2026_web-dl_1080p_selezen
+https://egaxegax.github.io/index.html?mir_kino/stajirovka_film_2026_the_internship_odnogolosaya_ozvuchka
 https://egaxegax.github.io/index.html?mir_kino/steklyannyj_dom_-_1_sezon_1_seriya_serial_2026_vitrerie_joyal_the_glass_house
 https://egaxegax.github.io/index.html?mir_kino/steklyannyj_dom_-_1_sezon_2_seriya_serial_2026_vitrerie_joyal_the_glass_house
 https://egaxegax.github.io/index.html?mir_kino/steklyannyj_dom_-_1_sezon_3_seriya_serial_2026_vitrerie_joyal_the_glass_house
@@ -8131,6 +8213,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/bitochki_iz_indejki_v_pryano
 https://egaxegax.github.io/index.html?mir_kulinarii/bityj_redis
 https://egaxegax.github.io/index.html?mir_kulinarii/blinchiki_s_tvorogom_v_nejnejshej_zalivke
 https://egaxegax.github.io/index.html?mir_kulinarii/blinnyj_pirog_s_gribami
+https://egaxegax.github.io/index.html?mir_kulinarii/blinnyj_rulet_s_tvorojno-syrnoj_nachinkoj
 https://egaxegax.github.io/index.html?mir_kulinarii/blinnyj_tort_roza_so_slivochnym_kremom
 https://egaxegax.github.io/index.html?mir_kulinarii/bliny_iz_kabachkov_na_kefire_na_skovorode
 https://egaxegax.github.io/index.html?mir_kulinarii/bliny_k_zavtraku_prigotovlennye_na_kipyatke
@@ -8175,6 +8258,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/chebureki_iz_indejki_v_risov
 https://egaxegax.github.io/index.html?mir_kulinarii/chebureki_iz_lavasha_s_estragonom_i_oregano
 https://egaxegax.github.io/index.html?mir_kulinarii/chechevica_s_tomatami_i_fetoj
 https://egaxegax.github.io/index.html?mir_kulinarii/chechevichno-kartofelnyj_sup
+https://egaxegax.github.io/index.html?mir_kulinarii/chechevichno-ovoshchnoj_sup_s_konservirovannym_tuncom
 https://egaxegax.github.io/index.html?mir_kulinarii/chechevichnyj_sup_so_shchavelem
 https://egaxegax.github.io/index.html?mir_kulinarii/cheremuhovyj_keks_v_duhovke
 https://egaxegax.github.io/index.html?mir_kulinarii/cheremuhovyj_tort
@@ -8299,6 +8383,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/goryachij_buterbrod_s_cukkin
 https://egaxegax.github.io/index.html?mir_kulinarii/goryachij_sendvich_s_vetchinoj_i_syrom
 https://egaxegax.github.io/index.html?mir_kulinarii/govyadina_po-kremlevski_-_klassicheskij_poshagovyj_recept
 https://egaxegax.github.io/index.html?mir_kulinarii/govyadina_tushenaya_nostalgicheskaya
+https://egaxegax.github.io/index.html?mir_kulinarii/govyadina_zapechennaya_v_rukave_v_duhovke_celym_kuskom
 https://egaxegax.github.io/index.html?mir_kulinarii/govyaji_shashlychki_sataj_na_grile
 https://egaxegax.github.io/index.html?mir_kulinarii/govyajya_pechen_v_jirovoj_setke
 https://egaxegax.github.io/index.html?mir_kulinarii/graten_iz_cukkini_s_salsoj_verde
@@ -8390,6 +8475,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/jarenyj_hleb_s_krevetkami_po
 https://egaxegax.github.io/index.html?mir_kulinarii/jarenyj_kartofel_po_motivam_sarladez
 https://egaxegax.github.io/index.html?mir_kulinarii/jarenyj_ris_s_krabom_i_yajcom
 https://egaxegax.github.io/index.html?mir_kulinarii/jarenyj_ris_s_ovoshchami_i_travami
+https://egaxegax.github.io/index.html?mir_kulinarii/jarenyj_vinegret_s_olivkami_i_kapersami
 https://egaxegax.github.io/index.html?mir_kulinarii/jarkoe_iz_svininy_v_gorshochkah_v_duhovke
 https://egaxegax.github.io/index.html?mir_kulinarii/jarkoe_po-derevenski
 https://egaxegax.github.io/index.html?mir_kulinarii/jarkoe_s_gruzinskimi_speciyami
@@ -8591,6 +8677,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_kotlety_na_kabachkov
 https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_kotlety_nejnye
 https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_lapki_v_aziatskom_stile
 https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_nojki_s_kartoshkoj_iz_tandyra
+https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_nojki_v_smetannom_souse
 https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_nojki_zapechennye_v_rukave
 https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_palochki
 https://egaxegax.github.io/index.html?mir_kulinarii/kurinye_polpetty_so_shpinatom
@@ -8700,6 +8787,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/mintaj_s_ovoshchami
 https://egaxegax.github.io/index.html?mir_kulinarii/mintaj_v_pergamente_so_slivochnym_vkusom
 https://egaxegax.github.io/index.html?mir_kulinarii/mintaj_zapechennyj_pod_gribnym_sousom
 https://egaxegax.github.io/index.html?mir_kulinarii/mnazale
+https://egaxegax.github.io/index.html?mir_kulinarii/mocarella_v_karete
 https://egaxegax.github.io/index.html?mir_kulinarii/mohito_doma
 https://egaxegax.github.io/index.html?mir_kulinarii/mojva_zapechennaya_v_duhovke_s_korochkoj
 https://egaxegax.github.io/index.html?mir_kulinarii/molochnyj_koktejl_smorodina_i_grusha
@@ -8789,6 +8877,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/okroshka_po-uralski
 https://egaxegax.github.io/index.html?mir_kulinarii/okroshka_s_redkoj_i_mineralnoj_vodoj
 https://egaxegax.github.io/index.html?mir_kulinarii/oladi_kabachkovye_s_tvorogom
 https://egaxegax.github.io/index.html?mir_kulinarii/oladi_na_kefire
+https://egaxegax.github.io/index.html?mir_kulinarii/omlet_s_cukini_bez_moloka
 https://egaxegax.github.io/index.html?mir_kulinarii/omlet_s_gribami_fu_jung
 https://egaxegax.github.io/index.html?mir_kulinarii/omlet_s_lisichkami_i_syrom
 https://egaxegax.github.io/index.html?mir_kulinarii/omlet_s_perlovoj_kashej_i_sosiskami
@@ -9116,6 +9205,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/samye_sladkie_pomidory
 https://egaxegax.github.io/index.html?mir_kulinarii/samye_vkusnye_ogurcy_po-bolgarski_na_zimu
 https://egaxegax.github.io/index.html?mir_kulinarii/samye_vkusnye_ogurcy_po-finski_na_zimu_recept_s_gorchicej_bez_sterilizacii
 https://egaxegax.github.io/index.html?mir_kulinarii/sdobnyj_pashalnyj_hleb_s_tremya_nachinkami
+https://egaxegax.github.io/index.html?mir_kulinarii/sdobnyj_razbornyj_pirog_s_yablokami
 https://egaxegax.github.io/index.html?mir_kulinarii/sekretnyj_recept_jarenyh_kalmarov
 https://egaxegax.github.io/index.html?mir_kulinarii/selderej_v_kislo-sladkoj_zalivke
 https://egaxegax.github.io/index.html?mir_kulinarii/semia_upma
@@ -9329,6 +9419,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/tefteli_s_chechevicej
 https://egaxegax.github.io/index.html?mir_kulinarii/tefteli_v_barhatistom_souse_delo_tonkoe
 https://egaxegax.github.io/index.html?mir_kulinarii/tefteli_v_slivochno-gribnom_souse
 https://egaxegax.github.io/index.html?mir_kulinarii/telyachya_pechen_tomlennaya_v_moloke
+https://egaxegax.github.io/index.html?mir_kulinarii/teplyj_salat_iz_perca_s_yablokom
 https://egaxegax.github.io/index.html?mir_kulinarii/teplyj_salat_iz_sparji
 https://egaxegax.github.io/index.html?mir_kulinarii/teplyj_salat_s_pechenju_i_salatnymi_listyami
 https://egaxegax.github.io/index.html?mir_kulinarii/teplyj_salat_s_pelmenyami
@@ -9413,6 +9504,7 @@ https://egaxegax.github.io/index.html?mir_kulinarii/tykvennye_blinchiki_farshiro
 https://egaxegax.github.io/index.html?mir_kulinarii/tykvennye_oladi_s_yablokom
 https://egaxegax.github.io/index.html?mir_kulinarii/tykvennye_vafli_s_syrom_feta
 https://egaxegax.github.io/index.html?mir_kulinarii/tykvennyj_hleb_na_zakvaske
+https://egaxegax.github.io/index.html?mir_kulinarii/tykvennyj_mannik_s_apelsinovoj_cedroj
 https://egaxegax.github.io/index.html?mir_kulinarii/tykvennyj_sup-pjure_s_halumi
 https://egaxegax.github.io/index.html?mir_kulinarii/tykvennyj_sup-pjure_s_kokosovym_molokom
 https://egaxegax.github.io/index.html?mir_kulinarii/tykvennyj_sup_s_imbirem
@@ -9870,6 +9962,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/gibatdinov_samymi_vygodny
 https://egaxegax.github.io/index.html?moskovskaya_jizn/gid_usolcev_hram_vseh_svyatyh_na_kulishkah_po_legende_zalojil_dmitrij_donskoj
 https://egaxegax.github.io/index.html?moskovskaya_jizn/gidrometcentr_7_oktyabrya_v_moskve_ojidaetsya_do_17_gradusov_tepla
 https://egaxegax.github.io/index.html?moskovskaya_jizn/gidrometcentr_dnem_7_avgusta_v_moskve_mestami_ojidajutsya_livni_i_grad
+https://egaxegax.github.io/index.html?moskovskaya_jizn/gidrometcentr_dojdi_pridut_v_moskvu_v_nachale_sledujushchej_nedeli
 https://egaxegax.github.io/index.html?moskovskaya_jizn/gidrometcentr_jeltyj_uroven_opasnosti_iz-za_grozy_prodlili_v_moskve_do_vechera_17_ijunya
 https://egaxegax.github.io/index.html?moskovskaya_jizn/gidrometcentr_minuvshaya_noch_v_moskve_stala_samoj_holodnoj_s_nachala_oseni
 https://egaxegax.github.io/index.html?moskovskaya_jizn/gidrometcentr_nebolshoj_dojd_i_oblachnost_pridut_v_moskvu_v_subbotu
@@ -9980,6 +10073,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/klimatolog_jeleznova_pik_
 https://egaxegax.github.io/index.html?moskovskaya_jizn/klimatolog_jeleznova_poobeshchala_moskvicham_oktyabr_bez_pogodnyh_anomalij
 https://egaxegax.github.io/index.html?moskovskaya_jizn/klimatolog_karnauhov_moskva-reka_mojet_peresohnut_cherez_200_300_let
 https://egaxegax.github.io/index.html?moskovskaya_jizn/klimatolog_semenov_iskljuchil_zasuhu_v_moskve_iz-za_letnej_jary
+https://egaxegax.github.io/index.html?moskovskaya_jizn/klimatolog_tereshonok_soobshchil_ob_izmenenii_pogody_v_moskve_za_35_let
 https://egaxegax.github.io/index.html?moskovskaya_jizn/klimatolog_tereshonok_temperatura_vozduha_v_moskve_vo_vtoroj_polovine_leta_mojet_prevysit_normu
 https://egaxegax.github.io/index.html?moskovskaya_jizn/knigi_oruella_sartra_i_kavamury_voshli_v_top_prodaj_letom_v_moskve
 https://egaxegax.github.io/index.html?moskovskaya_jizn/knyajenika_poyavilas_v_moskve_po_cene_5500_rublej_za_100_grammov
@@ -10073,6 +10167,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/moshenniki_predlagajut_of
 https://egaxegax.github.io/index.html?moskovskaya_jizn/moskovskaya_nedelya_mody_otkroetsya_26_sentyabrya_v_centralnom_vystavochnom_zale_manej
 https://egaxegax.github.io/index.html?moskovskaya_jizn/moskovskaya_shkolnica_nabrala_400_ballov_na_ege
 https://egaxegax.github.io/index.html?moskovskaya_jizn/moskovskie_policejskie_dostavili_rojenicu_v_bolnicu_na_slujebnoj_mashine
+https://egaxegax.github.io/index.html?moskovskaya_jizn/moskovskie_policejskie_zaderjali_podozrevaemogo_v_ubijstve_sovershennom_20_let_nazad
 https://egaxegax.github.io/index.html?moskovskaya_jizn/moskovskie_restoratory_otmetili_znachenie_lichnogo_obshcheniya_s_nedovolnymi_posetitelyami
 https://egaxegax.github.io/index.html?moskovskaya_jizn/moskovskie_shkolniki_zavoevali_nagrady_na_chempionate_robotchallenge_2026_v_pekine
 https://egaxegax.github.io/index.html?moskovskaya_jizn/moskovskie_starsheklassniki_sozdali_robota_sborshchika_ispanskih_sliznej
@@ -10222,6 +10317,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/parshina_samye_holodnye_n
 https://egaxegax.github.io/index.html?moskovskaya_jizn/patrioticheskie_meropriyatiya_dlya_molodeji_projdut_v_ramkah_leta_v_moskve
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pensioner_iz_moskvy_v_popytkah_spasti_svoi_sberejeniya_lishilsya_18_mln_rublej
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pensionerka_poselila_v_kvartire_v_moskve_30_jivotnyh_dlya_fotosessij_i_prodaji
+https://egaxegax.github.io/index.html?moskovskaya_jizn/pered_konservaciej_dachi_sleduet_polnostju_obestochit_dom
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pereskokova_kvadratnyj_metr_jilya_v_moskve_stoit_kak_4-6_tys_buhanok_hleba
 https://egaxegax.github.io/index.html?moskovskaya_jizn/perovskij_sud_moskvy_osvobodil_ot_nakazaniya_dvuh_materej_po_delu_o_torgovle_detmi
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pervokursniki_mgimo_pohvastalis_podarkami_ot_roditelej_za_postuplenie
@@ -10254,6 +10350,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/posle_prodoljitelnoj_bole
 https://egaxegax.github.io/index.html?moskovskaya_jizn/potomok_rjurika_verbuet_moskvichek_v_muzykalnuju_gruppu_plohie_devochki_bez_umeniya_pet
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pozdnyakova_7_avgusta_mojet_stat_samym_jarkim_dnem_leta_v_moskve
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pozdnyakova_pervye_vyhodnye_avgusta_v_moskve_budut_teplymi_i_solnechnymi
+https://egaxegax.github.io/index.html?moskovskaya_jizn/pozdnyakova_v_moskve_v_blijajshie_pyat_dnej_zamorozkov_ne_budet
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pozdnyakova_v_prazdnichnye_vyhodnye_jara_v_moskve_i_oblasti_smenitsya_poholodaniem
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pozdnyakova_zayavila_chto_v_moskve_do_konca_nedeli_sohranitsya_suhaya_pogoda
 https://egaxegax.github.io/index.html?moskovskaya_jizn/pozdnyakova_zayavila_chto_v_moskve_do_konca_nedeli_sohranitsya_suhaya_pogoda
@@ -10335,6 +10432,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/ria_novosti_v_moskve_avto
 https://egaxegax.github.io/index.html?moskovskaya_jizn/riamo_razvod_v_moskve_obojdetsya_v_srednem_v_245_tysyach_rublej
 https://egaxegax.github.io/index.html?moskovskaya_jizn/riamo_srednyaya_stoimost_pervogo_svidaniya_v_moskve_na_dvoih_sostavit_25_tysyach
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rieltor_proskurin_dlya_pokupki_odnushki_v_moskve_nujen_dohod_ot_440_tysyach_rublej
+https://egaxegax.github.io/index.html?moskovskaya_jizn/rodivshaya_15_detej_moskvichka_nadejda_rogova_poluchila_zvanie_mat-geroinya
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rosgvardejcy_zaderjali_suprujeskuju_paru_pri_popytke_obokrast_gipermarket_v_pushkino
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rosgvardiya_zaderjala_v_moskve_mujchinu_otkryvshego_strelbu_iz_okna_jilogo_doma
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rospotrebnadzor_griby_nelzya_sobirat_vozle_dorog_jeleznodorojnyh_putej_i_promzon
@@ -10355,6 +10453,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/rosstat_srednyaya_zarplat
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rozovoe_dymnoe_derevo_rascvelo_v_stolichnom_aptekarskom_ogorode
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rschs_moskovskuju_oblast_nakroet_tuman
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rt_moskva-reka_progrelas_silnee_morya_v_sochi_i_anape
+https://egaxegax.github.io/index.html?moskovskaya_jizn/ryadom_s_domom_na_severo-vostoke_moskvy_obnarujili_napominajushchij_granatu_predmet
 https://egaxegax.github.io/index.html?moskovskaya_jizn/rybu_petrovicha_spasli_iz_tesnogo_akvariuma_on_budet_jit_v_moskvariume
 https://egaxegax.github.io/index.html?moskovskaya_jizn/s_26_sentyabrya_zapustyat_dva_avtobusa_mejdu_moskvoj_i_podmoskovem_dva_otmenyat
 https://egaxegax.github.io/index.html?moskovskaya_jizn/s_belorusskogo_vokzala_v_moskve_otpravilsya_poezd_pamyati
@@ -10440,6 +10539,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_jara
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_jarkaya_pogoda_vernetsya_v_moskvu_10_ijulya_vozduh_progreetsya_do_27
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_na_moskvu_i_oblast_idet_poholodanie_nochami_budet_do_pljus_8_gradusov
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_na_sledujushchej_nedele_v_moskve_i_oblasti_ojidajutsya_dojdi
+https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_oktyabr_v_moskve_mojet_stat_samym_teplym_s_1879_goda
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_osennie_dojdi_v_moskve_nachnutsya_s_23_sentyabrya
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_poobeshchala_28_gradusov_jary_v_moskve
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sinoptik_pozdnyakova_poteplenie_i_kratkovremennye_dojdi_pridut_v_moskvu
@@ -10487,6 +10587,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/sk_voditelya_arestovali_z
 https://egaxegax.github.io/index.html?moskovskaya_jizn/skripachi_ustroili_draku_na_koncerte_vani_dmitrienko_v_lujnikah_vo_vremya_finala_pesni
 https://egaxegax.github.io/index.html?moskovskaya_jizn/snegiri_nachnut_priletat_v_moskvu_v_konce_oktyabrya
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sobyanin_12_i_13_ijunya_parkovki_v_moskve_budut_besplatnymi
+https://egaxegax.github.io/index.html?moskovskaya_jizn/sobyanin_163_bespilotnika_nejtralizovany_na_podlete_k_moskve_s_vechera_21_oktyabrya
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sobyanin_1_sentyabrya_otkryl_posle_rekonstrukcii_zdanie_shkoly_1520_v_moskve
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sobyanin_dvoe_moskovskih_shkolnikov_zavoevali_zoloto_na_himicheskoj_olimpiade_v_uzbekistane
 https://egaxegax.github.io/index.html?moskovskaya_jizn/sobyanin_fontany_v_moskve_nachinajut_gotovit_k_zime
@@ -10609,6 +10710,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/tridcat_zajcev-rusakov_vy
 https://egaxegax.github.io/index.html?moskovskaya_jizn/troe_grabitelej_possorilis_vo_vremya_kraji_100_tysyach_dollarov
 https://egaxegax.github.io/index.html?moskovskaya_jizn/tverskoj_sud_arestoval_moskvicha_snimavshego_pod_jubkami_devushek_v_perehode
 https://egaxegax.github.io/index.html?moskovskaya_jizn/u_alpak_vatki_i_pufika_iz_moskovskogo_zooparka_poyavilsya_detenysh_temno-ryjego_cveta
+https://egaxegax.github.io/index.html?moskovskaya_jizn/u_jilogo_doma_v_zelenograde_obnarujili_mladenca
 https://egaxegax.github.io/index.html?moskovskaya_jizn/u_pary_moskvichej_seks_zakonchilsya_sereznoj_travmoj_iz-za_oshibki_v_adrese
 https://egaxegax.github.io/index.html?moskovskaya_jizn/ubijcu_border-kolli_v_novoj_moskve_prigovorili_k_dvum_godam_lisheniya_svobody
 https://egaxegax.github.io/index.html?moskovskaya_jizn/uchastnik_rekonstrukcii_o_smolenskoj_vojne_byl_gospitalizirovan_iz-za_maketa_pishchali
@@ -10701,6 +10803,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_19_i_20_ijulya_d
 https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_1_sentyabrya_otkrojut_145_novyh_ili_rekonstruirovannyh_shkol_i_detskih_sadov
 https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_21-letnij_bajker_ustroil_opasnuju_ezdu_i_ostalsya_bez_motocikla
 https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_24_ijunya_ojidaetsya_peremennaya_oblachnost_i_do_24_gradusov_tepla
+https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_24_oktyabrya_temperatura_podnimetsya_do_pljus_13_gradusov
 https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_25-letnij_jitel_nanes_materi_nojevye_raneniya_v_hode_pyanoj_ssory
 https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_4_oktyabrya_ojidaetsya_peremennaya_oblachnost_i_do_13_gradusov_tepla
 https://egaxegax.github.io/index.html?moskovskaya_jizn/v_moskve_5_ijulya_ojidaetsya_oblachnost_kratkovremennyj_dojd_i_do_22_gradusov_tepla
@@ -10918,6 +11021,7 @@ https://egaxegax.github.io/index.html?moskovskaya_jizn/vrach_sinjutina_bejevye_m
 https://egaxegax.github.io/index.html?moskovskaya_jizn/vrach_solomatina_chipsy_mogut_formirovat_zavisimost_i_povyshat_risk_onkologii
 https://egaxegax.github.io/index.html?moskovskaya_jizn/vrach_stepanova_ledyanye_napitki_v_jaru_mogut_privesti_k_spazmam_i_angine
 https://egaxegax.github.io/index.html?moskovskaya_jizn/vrach_ulankina_komary_kusajut_chashche_vsego_sportsmenov_sladkoejek_i_beremennyh
+https://egaxegax.github.io/index.html?moskovskaya_jizn/vrachi_centra_blohina_spasli_83-letnjuju_jenshchinu_ot_raka_pered_ee_svadboj
 https://egaxegax.github.io/index.html?moskovskaya_jizn/vrachi_instituta_sklifosovskogo_pomogli_mujchine_s_obshirnymi_ojogami_ot_borshchevika
 https://egaxegax.github.io/index.html?moskovskaya_jizn/vrachi_iz_detskogo_centra_roshalya_spasli_malchika_iz_belgoroda_s_oskolkom_v_serdce
 https://egaxegax.github.io/index.html?moskovskaya_jizn/vrachi_pod_moskvoj_spasli_mujchinu_kotoryj_edva_ne_otrezal_sebe_nogi_motoblokom
@@ -11086,6 +11190,7 @@ https://egaxegax.github.io/index.html?moskva/vechorka_na_250917_1400
 https://egaxegax.github.io/index.html?moskva/vechorka_na_250917_2100
 https://egaxegax.github.io/index.html?moskva/vechorka_na_260314_1600
 https://egaxegax.github.io/index.html?moskva/vechorka_na_260419_2300
+https://egaxegax.github.io/index.html?moskva/vechorka_na_261025_1000
 https://egaxegax.github.io/index.html?nauka
 https://egaxegax.github.io/index.html?nauka/about
 https://egaxegax.github.io/index.html?nauka/elementy_kosmos_na_251101_0000
@@ -11460,9 +11565,14 @@ https://egaxegax.github.io/index.html?nauka/mk_na_261018_2000
 https://egaxegax.github.io/index.html?nauka/mk_na_261019_2000
 https://egaxegax.github.io/index.html?nauka/mk_na_261020_2000
 https://egaxegax.github.io/index.html?nauka/mk_na_261021_2000
+https://egaxegax.github.io/index.html?nauka/mk_na_261022_2000
+https://egaxegax.github.io/index.html?nauka/mk_na_261023_2000
+https://egaxegax.github.io/index.html?nauka/mk_na_261024_2000
+https://egaxegax.github.io/index.html?nauka/mk_na_261025_2000
 https://egaxegax.github.io/index.html?odni_iz_luchshih
 https://egaxegax.github.io/index.html?odni_iz_luchshih/3_puli_za_kastrjulju_s_kipyatkom_chto_stalo_s_policejskim_zastrelivshim_jenshchinu_v_ee_sobstvennoj_kuhne
 https://egaxegax.github.io/index.html?odni_iz_luchshih/9_11_o_samolete_preduprejdali_za_tri_goda_do_tragedii_chto_znali_klinton_i_bush
+https://egaxegax.github.io/index.html?odni_iz_luchshih/agent_ice_poluchil_pulju_v_jivot_ot_obychnogo_cheloveka_byl_arestovan_i_predstal_pered_sudom_eto_kak
 https://egaxegax.github.io/index.html?odni_iz_luchshih/amerikanskij_pirog_za_1_kak_oni_eto_edyat
 https://egaxegax.github.io/index.html?odni_iz_luchshih/arahisovaya_pasta_pochemu_amerikancy_pomeshalis_na_nej
 https://egaxegax.github.io/index.html?odni_iz_luchshih/chto_mat_mojet_sdelat_so_svoim_sobstvennym_rebenkom_nazlo_muju
@@ -11478,6 +11588,7 @@ https://egaxegax.github.io/index.html?odni_iz_luchshih/kak_osujdennyj_za_ubijstv
 https://egaxegax.github.io/index.html?odni_iz_luchshih/kak_poshchechina_v_las_vegase_zakonchilas_arestom_i_vozvrashcheniem_v_armeniju
 https://egaxegax.github.io/index.html?odni_iz_luchshih/kak_starbucks_umiraet_v_amerike
 https://egaxegax.github.io/index.html?odni_iz_luchshih/ketchup_heinz_luchshaya_jija_v_mire
+https://egaxegax.github.io/index.html?odni_iz_luchshih/kovalev_ceny_v_supermarkete_los-andjelesa_skolko_sejchas_stoyat_produkty_v_amerike
 https://egaxegax.github.io/index.html?odni_iz_luchshih/kovalev_kupil_ochen_deshevo_veshchi_dlya_doma_v_ssha_chto_za_chudo-magazin
 https://egaxegax.github.io/index.html?odni_iz_luchshih/kovalev_luchshie_lajfhaki_dlya_mashiny_v_ssha_strahovka_shtrafy_benzin_i_dr
 https://egaxegax.github.io/index.html?odni_iz_luchshih/kovalev_on_jivet_v_ssha_36_let_dedushka_pro_pereezd_jizn_i_zarabotok_v_amerike
@@ -11492,15 +11603,18 @@ https://egaxegax.github.io/index.html?odni_iz_luchshih/krali_po_melochi_no_poluc
 https://egaxegax.github.io/index.html?odni_iz_luchshih/michigan_pyat_ubityh_ranenaya_13-letnyaya_devochka_i_tri_mesta_prestupleniya
 https://egaxegax.github.io/index.html?odni_iz_luchshih/nojki_busha_chem_amerika_kormila_sssr
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novaya_sistema_v_ssha_na_vizovoe_moshennichestvo_mojno_soobshchit_anonimno_i_onlajn
+https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_amerikancy_eshche_hodyat_v_kino_zaglyanul_v_kinoteatr_ssha
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_dalnoboj_prodoljaetsya_a_ya_vdrug_vspomnil_svoi_shkolnye_gody
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_dalnobojshchik_v_amerike_poluchil_vyhodnoj_chem_zanyatsya_bez_raboty
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_ehal_v_ameriku_no_ne_pustili_posle_jestkogo_dosmotra_razvernuli_v_kanadu
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_kupil_strannyj_devajs_dlya_dalnoboya_vyglyadit_kak_inoplanetnaya_tehnologiya
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_nakonec-to_propustili_v_ameriku_edu_za_novoj_kameroj_jizn_prodoljaetsya
+https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_nakonec-to_vse_devyat_razgruzok_pozadi_takogo_rejsa_davno_ne_bylo
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_nakonec_zagruzilsya_nochju_i_tut_vyyasnilos_u_menya_pereves
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_obychnaya_razgruzka_v_jute_prevratilas_v_celoe_prikljuchenie_kaska_i_metall
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_otpravili_za_gruzom_v_kanadu_a_u_menya_polnaya_sumka_zapreshchennyh_produktov
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_pomyl_refrijerator_pered_zagruzkoj_cherez_tri_chasa_ya_ob_etom_pojalel
+https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_poslednij_rejs_pered_otpuskom_iz_ajdaho_v_kanadu_a_potom_na_ostrova
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_priehal_razgrujat_stulya_i_vdrug_ponyal_chto_popal_v_amerikanskuju_tjurmu
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_snova_v_dalnij_rejs_gotovlju_svoj_dom_na_kolesah_k_dvum_nedelyam_dorogi
 https://egaxegax.github.io/index.html?odni_iz_luchshih/novoe_tyajelye_budni_dalnobojshchika_nochevka_na_samom_bolshom_trak-stope_mira
@@ -11513,8 +11627,10 @@ https://egaxegax.github.io/index.html?odni_iz_luchshih/ostanovit_russkih_-_aferi
 https://egaxegax.github.io/index.html?odni_iz_luchshih/osujdennye_snova_poluchat_pravo_na_ognestrelnoe_orujie_doj_zapuskaet_novuju_sistemu
 https://egaxegax.github.io/index.html?odni_iz_luchshih/predstavlyalsya_pomoshchnikom_sherifa_obmanul_500_chelovek_i_ne_sel_v_tjurmu
 https://egaxegax.github.io/index.html?odni_iz_luchshih/rabota_detektivam_-_prosmotr_milliona_fotografij_dlya_poiska_propavshih_jenshchin
+https://egaxegax.github.io/index.html?odni_iz_luchshih/rasstrelyal_vsju_semju_vkljuchaya_detej_9_pogibshih_v_pensilvanii
 https://egaxegax.github.io/index.html?odni_iz_luchshih/rossiyane_obyavili_golodovku_v_tjurme_ice_chto_proishodit_v_djordjii
 https://egaxegax.github.io/index.html?odni_iz_luchshih/rossiyanin_vo_floride_poluchil_shest_let_federalnoj_tjurmy_za_dovolno_neobychnuju_moshennicheskuju_shemu
+https://egaxegax.github.io/index.html?odni_iz_luchshih/russkij_djordj_375_kilogrammov_kokaina_i_dolg_v_300_000
 https://egaxegax.github.io/index.html?odni_iz_luchshih/samsebeskazal_denis_chto_budet_s_amerikanskim_gorodom_esli_v_nem_ne_pobedit_avtomobil
 https://egaxegax.github.io/index.html?odni_iz_luchshih/samsebeskazal_denis_est_li_jizn_naprotiv_manhettena_neizvestnyj_bereg_kuinsa
 https://egaxegax.github.io/index.html?odni_iz_luchshih/samsebeskazal_denis_iz_lejk-djordj_v_vermont_puteshestvie_po_neizvestnomu_nju-jorku_chast_4
@@ -11536,6 +11652,8 @@ https://egaxegax.github.io/index.html?odni_iz_luchshih/vash_telefon_podumajte_dv
 https://egaxegax.github.io/index.html?odni_iz_luchshih/ves_moj_put_v_ssha_za_4_goda
 https://egaxegax.github.io/index.html?odni_iz_luchshih/voskresnyj_ujin_i_chetyre_pokoleniya_ubityh_v_odnoj_seme
 https://egaxegax.github.io/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_amerikanec_protiv_traka_piterbilt_classic_v_ssha
+https://egaxegax.github.io/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_dom_obychnogo_amerikanca_v_ssha_stoit_dorogo_-_jit_ne_vozmojno
+https://egaxegax.github.io/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_v_chem_trudnost_dlya_raboty_voditelem_v_ssha
 https://egaxegax.github.io/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_chto_pokupajut_amerikancy_v_magazine_v_ssha_skolko_stoyat_produkty
 https://egaxegax.github.io/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_chto_pokupajut_amerikanskie_dalnobojshchiki
 https://egaxegax.github.io/index.html?odni_iz_luchshih/vospominaniya_noyabr_2019_gluhoman_v_ssha_-_dikij_zapad_gde_i_kak_jivut_obychnye_amerikancy
@@ -12226,6 +12344,10 @@ https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261018
 https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261019_1900
 https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261020_1900
 https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261021_1900
+https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261022_1900
+https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261023_1900
+https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261024_1900
+https://egaxegax.github.io/index.html?puteshestviya_i_turizm/ixbt_live_na_261025_1900
 https://egaxegax.github.io/index.html?puteshestviya_svoi_hodom
 https://egaxegax.github.io/index.html?puteshestviya_svoi_hodom/about
 https://egaxegax.github.io/index.html?puteshestviya_svoi_hodom/coconut_tree_hill_ojidanie_i_realnost
@@ -13602,6 +13724,10 @@ https://egaxegax.github.io/index.html?sport/chempionat_na_261018_0800
 https://egaxegax.github.io/index.html?sport/chempionat_na_261019_0800
 https://egaxegax.github.io/index.html?sport/chempionat_na_261020_0800
 https://egaxegax.github.io/index.html?sport/chempionat_na_261021_0800
+https://egaxegax.github.io/index.html?sport/chempionat_na_261022_0800
+https://egaxegax.github.io/index.html?sport/chempionat_na_261023_0800
+https://egaxegax.github.io/index.html?sport/chempionat_na_261024_0800
+https://egaxegax.github.io/index.html?sport/chempionat_na_261025_0800
 https://egaxegax.github.io/index.html?sport/sports_na_250401_0800
 https://egaxegax.github.io/index.html?sport/sports_na_250402_0800
 https://egaxegax.github.io/index.html?sport/sports_na_250403_0800
@@ -13916,6 +14042,9 @@ https://egaxegax.github.io/index.html?sport/sports_na_261019_0100
 https://egaxegax.github.io/index.html?sport/sports_na_261019_2200
 https://egaxegax.github.io/index.html?sport/sports_na_261020_2200
 https://egaxegax.github.io/index.html?sport/sports_na_261021_2200
+https://egaxegax.github.io/index.html?sport/sports_na_261022_2200
+https://egaxegax.github.io/index.html?sport/sports_na_261023_2200
+https://egaxegax.github.io/index.html?sport/sports_na_261024_2200
 https://egaxegax.github.io/index.html?sportivnye_zametki
 https://egaxegax.github.io/index.html?sportivnye_zametki/about
 https://egaxegax.github.io/index.html?sportivnye_zametki/che-1992_gruppy
@@ -13973,6 +14102,7 @@ https://egaxegax.github.io/index.html?svo/gerani_nachali_ohotu_za_amerikankami_i
 https://egaxegax.github.io/index.html?svo/ii_ot_yandeksa_ispugal_bila_gejtsa_i_vyzval_shok_v_ssha
 https://egaxegax.github.io/index.html?svo/iran_-_ubili_verhovnogo_poshli_trupy_s_amerikanskimi_flagami_pvo_kuvejta_sbili_tri_f-15
 https://egaxegax.github.io/index.html?svo/iran_-_ubili_verhovnogo_poshli_trupy_s_amerikanskimi_flagami_pvo_kuvejta_sbili_tri_f-15
+https://egaxegax.github.io/index.html?svo/isterika_ukrainskih_oligarhov_i_priznaniya_ilona_maska
 https://egaxegax.github.io/index.html?svo/istoricheskij_holod_2026_vo_floride_-_vosstanovlenie_sada
 https://egaxegax.github.io/index.html?svo/jizn_bez_interneta_na_ukraine_i_fejkovaya_peremoga_chvk_vsu
 https://egaxegax.github.io/index.html?svo/kak_cru_polyakov_dressirovalo_i_zachem_iran_gotovit_nastuplenie
@@ -13997,6 +14127,7 @@ https://egaxegax.github.io/index.html?svo/polsha_prigotovilas_k_zahvatu_zapadnoj
 https://egaxegax.github.io/index.html?svo/posledstviya_vstrechi_putina_i_specpredstavitelya_trampa_v_sankt-peterburge
 https://egaxegax.github.io/index.html?svo/razgrom_koalicii_epshtejna_v_mali_i_priznanie_glavy_vpk_nato
 https://egaxegax.github.io/index.html?svo/razgrom_zapadnyh_oblastej_ukrainy_i_prikaz_britanii_zelenskomu
+https://egaxegax.github.io/index.html?svo/russkaya_armiya_nachala_boi_v_hersone_u_chvk_vsu_panika
 https://egaxegax.github.io/index.html?svo/russkie_dronoporty_okazalis_krepche_chem_dumali_v_nato_i_pentagone
 https://egaxegax.github.io/index.html?svo/sad_vo_floride_unichtojen
 https://egaxegax.github.io/index.html?svo/sanya_v_sadu_-_kollekciya_mango_obzor_sezona_2025_michurin_na_minimalkah
@@ -14072,6 +14203,7 @@ https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_evakuaciya_rossijsk
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_faby_mnogo_vzyali_kleban-byk_filiju_srednee_25_08_25
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_fedorov_-_ukraina_proigryvaet_vosstanie_v_ternopole_26_08_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_fedorov_ya_livaju_babah_pod_kievom_ogromnaya_detonaciya_patriotov_29_08_26
+https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_franciju_razryvaet_krasnye_flagi_v_parije_zelenskij_prognulsya_24_10_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_franciya_slili_26_mlrd_i_zagorelis_16_raket_po_kievu_milliony_bez_sveta_19_10
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_front_ruhnul_rossijskaya_armiya_beret_po_50_kv_km_v_den_26_07_25
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_gejparad_sredi_razruhi_tck_vybrosili_telo_pamyatnik_mazepe_22_08_26
@@ -14228,6 +14360,7 @@ https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_raskol_gos_vlasti_u
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_rassledovanie_zverstv_vsu_minus_200_azs_5000_tys_ukrainskih_mertvecov_31_07_2
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_rasstrel_kieva_raketami_minus_logisticheskie_haby_28_popadanij_05_08_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_razbombili_kiev_ssha_nachinajut_snova_pomogat_vsu_01_08_25
+https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_razgrom_ukrainskoj_ekonomiki_ssha_priznajut_vzyatuju_territoriju_rossjskoj_21_10_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_razruha_i_vorovstvo_na_ukraine_udary_po_odesse_pljus_4_oblasti_bez_sveta_20_12
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_razvedka_boem_v_polshe_ubijstvo_zaruckoj_vzyali_kirovsk_10_09_25
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_rossijskaya_raketa_i_lindsi_grem_v_varshave_protesty_protiv_pomoshchi_vsu_13_07_26
@@ -14368,9 +14501,11 @@ https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_edet_na_k
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_golubok_mira_klichko_vopros_o_nezavisimosti_ukrainy_15_02_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_golubok_mira_klichko_vopros_o_nezavisimosti_ukrainy_15_02_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_na_kovre_nadel_pidjachok_otdavaj_donbass_18_08_25
+https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_ne_spit_i_plachet_greciya_v_ogne_21_raketa_sbito_0_22_10_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_prognulsya_simptom_svinokenguru_nko_nachali_raskachivat_ukrainu_24_07
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_s_drujkami_ukrali_500_mln_doll_tuapse_udar_vzyali_miropole_01_05_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_skazal_net_hochet_voevat_dalshe_23_08_25
+https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_slil_20_mln_naseleniya_chetvert_vvp_poteri_1_7_trl_doll_23_10_26
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskij_uje_gotov_poproshchatsya_s_donbassom_radi_mira_26_12_25
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskogo_prognuli_na_nato_ugroza_okrujeniya_gulyajpolya_15_12_25
 https://egaxegax.github.io/index.html?svo/ukrainskij_front_-_zelenskogo_v_otstavku_vsya_vlast_rade_proval_ukrainskoj_diplomatii_10_10_26
@@ -14393,6 +14528,7 @@ https://egaxegax.github.io/index.html?svo/vojna_v_irane_-_kto_uje_pobedil_po-kru
 https://egaxegax.github.io/index.html?svo/vojna_v_irane_-_kto_uje_pobedil_po-krupnomu_mirovoj_neftyanoj_i_gazovyj_krizis_03_03_26
 https://egaxegax.github.io/index.html?svo/voskresnoe_-_vyros_floridskij_kartofan_neojidannyj_urojaj
 https://egaxegax.github.io/index.html?svo/zachem_pentagon_nachal_gotovit_krestonoscev_v_armii_ssha
+https://egaxegax.github.io/index.html?svo/zelenskij_obvinil_trampa_vo_vsem_i_poluchil_kryshu_dem-partii_ssha
 https://egaxegax.github.io/index.html?tajny
 https://egaxegax.github.io/index.html?tajny/3i_atlas_letit_k_zemle_chtoby_aktivirovat_piramidy_i_drevnjuju_set_megalitov
 https://egaxegax.github.io/index.html?tajny/3i_atlas_menyaet_povedenie_pered_sblijeniem_s_zemlej_uchenye_gotovyatsya_k_pereraschetu_orbity
@@ -14450,6 +14586,7 @@ https://egaxegax.github.io/index.html?tajny/baltijskaya_anomaliya_i_video_s_pris
 https://egaxegax.github.io/index.html?tajny/baltijskoe_nlo_pri_krushenii_raskololo_podvodnuju_goru_nadvoe_zapis_strima
 https://egaxegax.github.io/index.html?tajny/banka_nutelly_na_bortu_artemis_ii_neojidanno_popala_v_kadr_vo_vremya_obleta_luny
 https://egaxegax.github.io/index.html?tajny/berejkami_da_lujkami_rubejami_da_mejami
+https://egaxegax.github.io/index.html?tajny/bersenevka
 https://egaxegax.github.io/index.html?tajny/bespilotnaya_submarina_nashla_pod_ldami_antarktidy_strannye_geometricheskie_terrasy
 https://egaxegax.github.io/index.html?tajny/bilet_u_nego_byl_budto_iz_proshlogo_bajka_shofera_o_nochnoj_doroge_v_70-h
 https://egaxegax.github.io/index.html?tajny/bloger_dokazal_effekt_mandely_v_realnom_vremeni_i_potom_zagadochno_ischez
@@ -14573,6 +14710,7 @@ https://egaxegax.github.io/index.html?tajny/iz_peskov_sahary_pokazalsya_drevnij_
 https://egaxegax.github.io/index.html?tajny/jenshchina_sluchajno_snyala_na_kameru_malenkoe_gumanoidnoe_sushchestvo
 https://egaxegax.github.io/index.html?tajny/jivodernya_i_krovovarnya
 https://egaxegax.github.io/index.html?tajny/jizn_pravitelej_rossii_v_fotografiyah_-_fotoistoriya
+https://egaxegax.github.io/index.html?tajny/jujnaya_osetiya_strana_kotoroj_net_dlya_bolshinstva_mira
 https://egaxegax.github.io/index.html?tajny/k_zemle_letit_asteroid_bog_haosa_razmerom_s_tri_futbolnyh_polya_i_ego_uje_otslejivajut
 https://egaxegax.github.io/index.html?tajny/kadry_s_ljudmi_gigantskogo_rosta_pripisali_zakrytym_arhivam_vatikana
 https://egaxegax.github.io/index.html?tajny/kadry_zemli_s_missii_artemida_2_vyzvali_spory_o_forme_planety
@@ -14594,6 +14732,7 @@ https://egaxegax.github.io/index.html?tajny/kanadec_privez_iz_budushchego_jutkuj
 https://egaxegax.github.io/index.html?tajny/karta_pokazyvala_chistoe_pole_na_meste_stoyala_derevnya_rasskaz_sovetskogo_geodezista
 https://egaxegax.github.io/index.html?tajny/karta_realnogo_mira_najdennaya_100_let_nazad_v_buddijskom_hrame
 https://egaxegax.github.io/index.html?tajny/karta_velikogo_probujdeniya_otkryvaet_istinnuju_shemu_nashego_mirozdaniya
+https://egaxegax.github.io/index.html?tajny/kataemsya_s_otshelnikom_po_zabytym_derevnyam_bolshoe_puteshestvie_na_nive
 https://egaxegax.github.io/index.html?tajny/kem_na_samom_dele_yavlyaetsya_snejnyj_chelovek
 https://egaxegax.github.io/index.html?tajny/kitaj_opublikoval_pervyj_snimok_3i_atlas_i_budto_chto-to_skryl_foto_okazalos_razmytym
 https://egaxegax.github.io/index.html?tajny/kitaj_sozdal_gravitaciju_v_2000_raz_silnee_zemnoj_i_v_seti_srazu_zagovorili_o_strannyh_sovpadeniyah
@@ -14690,6 +14829,7 @@ https://egaxegax.github.io/index.html?tajny/nasa_vpervye_za_50_let_otpravlyajut_
 https://egaxegax.github.io/index.html?tajny/nasa_vtihuju_izmenili_traektoriju_3i_atlas
 https://egaxegax.github.io/index.html?tajny/nashel_ochen_strannoe_podzemele
 https://egaxegax.github.io/index.html?tajny/nashli_atlantidu_pochemu_nikto_ne_zametil_glavnuju_podskazku_platona_pro_zateryannuju_stranu
+https://egaxegax.github.io/index.html?tajny/nashli_otshelnika_v_zabroshennoj_derevne_bolshoe_puteshestvie_po_zabytym_mestam
 https://egaxegax.github.io/index.html?tajny/nashli_realnogo_puteshestvennika_vo_vremeni_zapis_tvich_strima
 https://egaxegax.github.io/index.html?tajny/nechto_jutkoe_obitaet_v_antarktide_o_chem_do_sih_por_molchat_polyarniki
 https://egaxegax.github.io/index.html?tajny/nechto_jutkoe_obitaet_v_antarktide_o_chem_do_sih_por_molchat_polyarniki
@@ -14847,6 +14987,7 @@ https://egaxegax.github.io/index.html?tajny/rybak_snyal_v_okeane_strannye_sireny
 https://egaxegax.github.io/index.html?tajny/samaya_strashnaya_versiya_pro_3i_atlas_na_osnove_ogovorki_nasa_zapis_strima
 https://egaxegax.github.io/index.html?tajny/saratov_-_uehali_k_tetke_v_glush_v_derevnju
 https://egaxegax.github.io/index.html?tajny/sdvoennye_chisla_na_chasah_tajnoe_poslanie_ili_signal_o_sboe_v_matrice
+https://egaxegax.github.io/index.html?tajny/sekretnaya_operaciya_v_zone_51_obernulas_ohotoj_na_treh_reptiloidov_s_energeticheskim_orujiem
 https://egaxegax.github.io/index.html?tajny/sekretnye_apparaty_uje_yakoby_letajut_do_marsa_za_schitannye_chasy_i_ih_nazyvajut_mashinami_vremeni
 https://egaxegax.github.io/index.html?tajny/sekretnye_materialy_mogli_zakryt_iz_za_slishkom_blizkogo_shodstva_s_realnostju
 https://egaxegax.github.io/index.html?tajny/sekretnye_materialy_pokazali_nlo_na_elemente_115_pochti_kak_v_rasskazah_boba_lazara
@@ -14883,6 +15024,7 @@ https://egaxegax.github.io/index.html?tajny/sovetskij_mehanizator_v_70-h_pryatal
 https://egaxegax.github.io/index.html?tajny/specnaz_stolknulsya_s_velikanom_v_afganistane_i_zatem_cru_dostavili_giganta_v_zonu_51
 https://egaxegax.github.io/index.html?tajny/spornoe_video_s_orbity_luny_yakoby_snyatoe_artemis_ii_pokazyvaet_gigantskoe_nlo_u_ogromnogo_kratera
 https://egaxegax.github.io/index.html?tajny/spustya_57_let_kadry_apollona-11_snova_zastavili_somnevatsya_v_vysadke_na_lunu
+https://egaxegax.github.io/index.html?tajny/sputnik_zasnyal_v_djunglyah_jujnoj_ameriki_siluet_gigantskogo_dinozavra_u_reki
 https://egaxegax.github.io/index.html?tajny/stabilizirovannaya_versiya_kultovoj_semki_snejnogo_cheloveka_snova_zastavlyaet_sporit
 https://egaxegax.github.io/index.html?tajny/stanciya_v_antarktide_chislilas_zabroshennoj_no_vnutri_vse_vyglyadelo_tak_budto_ljudi_ushli_vchera
 https://egaxegax.github.io/index.html?tajny/staraya_ryazan
@@ -15111,6 +15253,7 @@ https://egaxegax.github.io/index.html?tajny/yadernye_tehnologii_pogubili_civiliz
 https://egaxegax.github.io/index.html?tajny/yauza_i_podzemelya_vokrug_s_elizavetoj_nenashevoj_i_gennadiem_vinogradovym
 https://egaxegax.github.io/index.html?tajny/zabor_avstralii_ohranyaet_prohod_k_velikoj_stene_zemli_istoriya_ochevidca_iz_avstralii
 https://egaxegax.github.io/index.html?tajny/zabroshennye_bomboubejishcha_ryazani_-_tysyachi_protivogazov_i_cherep
+https://egaxegax.github.io/index.html?tajny/zabytoe_video_1994_goda_s_bigfutom_snova_nazvali_glavnym_dokazatelstvom_ego_sushchestvovaniya
 https://egaxegax.github.io/index.html?tajny/zabytye_pamyatniki
 https://egaxegax.github.io/index.html?tajny/zabytyj_dvorec
 https://egaxegax.github.io/index.html?tajny/zachem_nasa_berut_cheloveka_bez_opyta_v_kosmose_dlya_poleta_k_lune_v_ekipaj_artemida-2
@@ -15238,6 +15381,7 @@ https://egaxegax.github.io/index.html?tehnologii/apple_rassmatrivaet_vozmojnost_
 https://egaxegax.github.io/index.html?tehnologii/apple_udalila_iz_app_store_mobilnoe_prilojenie_t-banka_pod_kodovym_nazvaniem_freelance_case
 https://egaxegax.github.io/index.html?tehnologii/apple_vyplatit_95_mln_v_ramkah_uregulirovaniya_kollektivnogo_iska_svyazannogo_s_podslushivaniem_golosovogo_pomoshchnika_siri
 https://egaxegax.github.io/index.html?tehnologii/apple_vyplatit_kompensaciju_vladelcam_nekotoryh_modelej_iphone_za_zaderjku_siri_ai
+https://egaxegax.github.io/index.html?tehnologii/apple_zablokirovala_iphone_duo_aktivirovannye_do_starta_prodaj_pod_razdachu_popali_blogery_iz_rossii
 https://egaxegax.github.io/index.html?tehnologii/apple_zayavila_chto_prilojeniya_vk_byli_udaleny_iz_appstore_v_sootvetstvii_s_pravilami_sobljudeniya_sankcij
 https://egaxegax.github.io/index.html?tehnologii/argentinskij_startap_pomelo_privlek_55_mln_dlya_razvitiya_platejnyh_reshenij
 https://egaxegax.github.io/index.html?tehnologii/argumenty_v_polzu_vnedreniya_audita_v_sistemy_ii_pered_masshtabirovaniem
@@ -15500,6 +15644,7 @@ https://egaxegax.github.io/index.html?tehnologii/finskie_vlasti_priostanovili_st
 https://egaxegax.github.io/index.html?tehnologii/finteh-startap_parker_podal_zayavlenie_o_bankrotstve
 https://egaxegax.github.io/index.html?tehnologii/fizik_izluchenie_smartfona_ne_okazyvaet_vliyaniya_na_traektoriju_molnii
 https://egaxegax.github.io/index.html?tehnologii/fiziki_oprovergli_stoletnjuju_gipotezu_obyasnyavshuju_pochemu_my_poskalzyvaemsya_na_ldu
+https://egaxegax.github.io/index.html?tehnologii/fiziki_vosproizveli_v_laboratorii_vozmojnyj_mehanizm_nagreva_solnechnoj_korony
 https://egaxegax.github.io/index.html?tehnologii/flagmanskaya_model_sbera_gigachat_3_5_ultra_teper_dostupna_v_evolution_foundation_models
 https://egaxegax.github.io/index.html?tehnologii/flexolmo_pozvolyaet_organizaciyam_sovmestno_obuchat_yazykovye_modeli_bez_obmena_dannymi
 https://egaxegax.github.io/index.html?tehnologii/fokusnik_zabyl_parol_ot_vjivlennogo_v_ruku_rfid-chipa_i_poteryal_k_nemu_dostup
@@ -15607,6 +15752,7 @@ https://egaxegax.github.io/index.html?tehnologii/gorshenin_prilojenie_atoma_pred
 https://egaxegax.github.io/index.html?tehnologii/gosduma_legalizovala_platnyj_dostup_k_bazam_mvd_dlya_biznesa
 https://egaxegax.github.io/index.html?tehnologii/gosduma_prinyala_zakony_o_elektronnyh_studencheskih_biletah_i_podtverjdenii_vozrasta_cherez_max
 https://egaxegax.github.io/index.html?tehnologii/gosduma_utverdila_zakon_o_regulirovanii_cod_i_zaprete_majninga_vnutri_takih_obektov_na_territorii_rf
+https://egaxegax.github.io/index.html?tehnologii/gotovim_pashtet_10_blenderov_kotorye_proshli_slojnyj_test
 https://egaxegax.github.io/index.html?tehnologii/govorim_o_stroitelstve_oblachnoj_platformy_na_mitape_v_sochi
 https://egaxegax.github.io/index.html?tehnologii/gpt-4o_ot_openai_vybiraet_sebya_kogda_rech_idet_o_bezopasnosti_polzovatelya
 https://egaxegax.github.io/index.html?tehnologii/gpt-5_1_byla_zamechena_na_design_arena
@@ -15614,6 +15760,7 @@ https://egaxegax.github.io/index.html?tehnologii/gpt-5_6_sol_podeshevel_na_tri_m
 https://egaxegax.github.io/index.html?tehnologii/gpt-5_6_sol_v_rejime_ultra_sluchajno_sterla_vse_fajly_polzovatelya_na_mac_a_potom_sama_priznalas_v_oshibke
 https://egaxegax.github.io/index.html?tehnologii/gpt-5_velikij_apgrejd_kotoryj_stal_daungrejdom
 https://egaxegax.github.io/index.html?tehnologii/gpt-6_astra_openai_hochet_prevratit_ii_iz_pomoshchnika_v_ispolnitelya_zadach
+https://egaxegax.github.io/index.html?tehnologii/greengage_db_posle_greenplum_bezopasnost_disaster_recovery_i_ggrebalance_na_konferencii_arenatech
 https://egaxegax.github.io/index.html?tehnologii/greg_kroa-hartman_rust_spaset_linux_ot_oshibok_c
 https://egaxegax.github.io/index.html?tehnologii/grok_3_dobavlyaet_bolee_glubokij_poisk_i_vozmojnosti_redaktirovaniya_izobrajenij_s_pomoshchju_ai
 https://egaxegax.github.io/index.html?tehnologii/grok_4_5_obuchili_na_dannyh_cursor_mask_poobeshchal_chto_budet_ne_huje_opus
@@ -15809,6 +15956,7 @@ https://egaxegax.github.io/index.html?tehnologii/kak_utilizirovat_kabachki_kuhon
 https://egaxegax.github.io/index.html?tehnologii/kak_vybrat_aerogril_dlya_bolshoj_semi
 https://egaxegax.github.io/index.html?tehnologii/kak_vybrat_distributiv_linux_v_2026_godu_podrobnoe_sravnenie_i_rekomendacii
 https://egaxegax.github.io/index.html?tehnologii/kak_vybrat_kuhonnuju_vytyajku_v_2026_godu_polnoe_rukovodstvo
+https://egaxegax.github.io/index.html?tehnologii/kak_vybrat_stiralnuju_mashinu_11_voprosov_na_kotorye_nado_otvetit_pered_pokupkoj
 https://egaxegax.github.io/index.html?tehnologii/kak_zashchitit_kvartiru_prakticheskoe_rukovodstvo_ot_ekosistemy_bezopasnosti_delta
 https://egaxegax.github.io/index.html?tehnologii/kakoj_linux_vybrat_dlya_domashnego_kompjutera_v_2026_godu
 https://egaxegax.github.io/index.html?tehnologii/kama_flow_potencial_chastnyh_investicij_v_elektroniku_sostavlyaet_336_mlrd_rublej
@@ -15925,6 +16073,7 @@ https://egaxegax.github.io/index.html?tehnologii/masshtabnyj_vzlom_nexar_haker_p
 https://egaxegax.github.io/index.html?tehnologii/matrox_v_ramkah_partnerstva_s_intel_predstavila_videokartu_luma_pro_a380_octal_luma-a380p8
 https://egaxegax.github.io/index.html?tehnologii/maxpatrol_siem_mojno_razvernut_v_srede_virtualizacii_na_baze_platformy_zvirt
 https://egaxegax.github.io/index.html?tehnologii/mbd_tantor_xdata_2b_vkljuchena_v_reestr_programmno-apparatnyh_kompleksov_mincifry
+https://egaxegax.github.io/index.html?tehnologii/mcdonald_s_pererabotala_igrushki_iz_heppi_mila_v_kompjuternuju_myshku_c_dizajnom_paketa_kartoshki_fri
 https://egaxegax.github.io/index.html?tehnologii/mechanism_vypustila_adapter_dlya_krepleniya_steam_deck_ili_switch_2_k_otkidnomu_stoliku_v_samolete
 https://egaxegax.github.io/index.html?tehnologii/medicinskij_ii_ne_mojet_zapisat_britancev_na_priem_potomu_chto_ne_ponimaet_jorkshirskij_akcent
 https://egaxegax.github.io/index.html?tehnologii/medsam-3_adaptaciya_modeli_sam_3_dlya_mediciny
@@ -15964,6 +16113,7 @@ https://egaxegax.github.io/index.html?tehnologii/microsoft_nachala_vnedryat_na_k
 https://egaxegax.github.io/index.html?tehnologii/microsoft_napomnila_sistemnym_administratoram_o_sroke_zaversheniya_podderjki_rejima_ie_v_2029_godu
 https://egaxegax.github.io/index.html?tehnologii/microsoft_nastaivaet_na_perehode_k_windows_11_ne_ostavlyaya_vybora_polzovatelyam
 https://egaxegax.github.io/index.html?tehnologii/microsoft_obvinila_ustrojstva_s_rgb_podsvetkoj_v_problemah_zapuska_igr_na_windows_11
+https://egaxegax.github.io/index.html?tehnologii/microsoft_obyavila_o_zavershenii_raboty_ii_funkcii_v_outlook
 https://egaxegax.github.io/index.html?tehnologii/microsoft_opublikovala_sistemnye_trebovaniya_dlya_zapuska_igr_na_windows_11
 https://egaxegax.github.io/index.html?tehnologii/microsoft_patch_bezopasnosti_v_windows_11_sozdaet_papku_c_inetpub_daje_esli_v_sisteme_net_iis_i_ee_ne_nujno_udalyat
 https://egaxegax.github.io/index.html?tehnologii/microsoft_pereosmyslivaet_processy_arhivacii_v_exchange_online
@@ -16095,6 +16245,7 @@ https://egaxegax.github.io/index.html?tehnologii/nemeckaya_policiya_stala_aktivn
 https://egaxegax.github.io/index.html?tehnologii/nemeckij_provajder_sievers_otkryl_cod_v_byvshem_yadernom_ubejishche
 https://egaxegax.github.io/index.html?tehnologii/nemnogo_cifr_pro_koda_delimsya_tem_chto_proishodit_sejchas
 https://egaxegax.github.io/index.html?tehnologii/neskolko_soten_ekspertov_i_uchenyh_podpisali_otkrytoe_pismo_s_prizyvom_priostanovit_proverku_vozrasta_na_sajtah
+https://egaxegax.github.io/index.html?tehnologii/neskolko_uyazvimostej_v_yadre_linux_po_oshibke_opublikovali_v_otkrytom_spiske_rassylki_razrabotchikov
 https://egaxegax.github.io/index.html?tehnologii/net-mitap_v_nijnem_andrej_cvetcih_pro_outbox_kirill_panin_pro_matematiku_dmitrij_ershov_pro_migraciju_dannyh
 https://egaxegax.github.io/index.html?tehnologii/netflix_pereshel_ot_zashchity_k_napadeniju_v_patentnom_spore_kompanii_borjutsya_za_tehnologii_solnechnyh_panelej_dajdjest
 https://egaxegax.github.io/index.html?tehnologii/netflix_predstavila_novyj_format_subtitrov
@@ -16189,6 +16340,7 @@ https://egaxegax.github.io/index.html?tehnologii/obzor_bloka_pitaniya_cbr_x_plat
 https://egaxegax.github.io/index.html?tehnologii/obzor_bloka_pitaniya_fsp_vic_gm2_750w
 https://egaxegax.github.io/index.html?tehnologii/obzor_bloka_pitaniya_fsp_vic_pm2_850w
 https://egaxegax.github.io/index.html?tehnologii/obzor_bloka_pitaniya_gigabyte_gaming_1000gm_pg5_gp-gme1000gm_pg5
+https://egaxegax.github.io/index.html?tehnologii/obzor_bloka_pitaniya_pccooler_yk550h
 https://egaxegax.github.io/index.html?tehnologii/obzor_bluetooth-kolonki_tronsmart_t8
 https://egaxegax.github.io/index.html?tehnologii/obzor_bolshogo_stacionarnogo_gazovogo_grilya_broil_king_crown_490_shadow_bez_elektroniki
 https://egaxegax.github.io/index.html?tehnologii/obzor_chajnika_polaris_pwk_1755cad_wifi_iq_home
@@ -16334,6 +16486,7 @@ https://egaxegax.github.io/index.html?tehnologii/openclaw_i_labelstudio_rasshiry
 https://egaxegax.github.io/index.html?tehnologii/operatoram_codov_ne_udalos_dobitsya_peresmotra_arendnyh_stavok_v_podmoskove
 https://egaxegax.github.io/index.html?tehnologii/operatorov_svyazi_obyajut_opoveshchat_banki_o_podozritelnyh_zvonkah_i_sms
 https://egaxegax.github.io/index.html?tehnologii/operatory_prigranichnyh_oblastej_nachali_preduprejdat_abonentov_o_periode_ohlajdeniya_sim-kart_na_24_chasa_pri_rouminge
+https://egaxegax.github.io/index.html?tehnologii/operatory_svyazi_poprosili_smyagchit_trebovanie_ob_ispolzovanii_rossijskih_bazovyh_stancij_s_2028_goda
 https://egaxegax.github.io/index.html?tehnologii/opredeleny_tehnicheskie_sposoby_i_usloviya_kogda_operator_svyazi_imeet_pravo_ne_napravlyat_trafik_cherez_tspu
 https://egaxegax.github.io/index.html?tehnologii/opros_k2teh_bolee_60_kompanij_uvelichat_investicii_v_bolshie_dannye_k_2026_godu
 https://egaxegax.github.io/index.html?tehnologii/oracle_anonsirovala_novyj_proekt_dlya_uluchsheniya_otladki_yadra_linux_pod_nazvaniem_oracle_linux_enhanced_diagnostics
@@ -16400,6 +16553,7 @@ https://egaxegax.github.io/index.html?tehnologii/positive_technologies_vdvoe_usk
 https://egaxegax.github.io/index.html?tehnologii/posle_50_let_poiskov_astronomy_zafiksirovali_zvezdnyj_veter_dujushchij_ot_strelca_a_v_centre_galaktiki
 https://egaxegax.github.io/index.html?tehnologii/posle_provala_llama-4_v_meta_obsujdajut_ispolzovanie_ii_ot_openai_i_google
 https://egaxegax.github.io/index.html?tehnologii/poslednie_dni_priema_rabot_na_konkurs_interaktivnyh_istorij
+https://egaxegax.github.io/index.html?tehnologii/poslednie_skidki_na_a_amp_pm_event_2026_do_80_do_konca_oktyabrya
 https://egaxegax.github.io/index.html?tehnologii/poslednij_zapusk_protona_s_dm-03
 https://egaxegax.github.io/index.html?tehnologii/poyavilis_pervye_izobrajeniya_samsung_galaxy_s25_i_s25_ultra
 https://egaxegax.github.io/index.html?tehnologii/pravilnoe_vnedrenie_bi_pochemu_odni_proekty_provalivajutsya_a_drugie_prinosyat_rezultat
@@ -16783,7 +16937,9 @@ https://egaxegax.github.io/index.html?tehnologii/terminalnye_multipleksory_zache
 https://egaxegax.github.io/index.html?tehnologii/tesla_raspuskaet_komandu_kotoraya_rabotala_nad_superkompjuterom_dojo
 https://egaxegax.github.io/index.html?tehnologii/tesla_semi_poluchit_batarei_na_822_kvt_ch_i_548_kvt_ch
 https://egaxegax.github.io/index.html?tehnologii/tesla_zapustila_pervuju_polnocennuju_zaryadnuju_stanciju_v4_supercharger_moshchnostju_500_kvt
+https://egaxegax.github.io/index.html?tehnologii/test-drajv_gibrida_deepal_s07_nedelya_na_rozetke_bez_zapravok_realnyj_zapas_hoda_na_bataree_domashnyaya_zaryadka_i_ekonomika_kilometra
 https://egaxegax.github.io/index.html?tehnologii/testirovanie_fleshdrajva_movespeed_sp20_2_tb_so_skorostju_do_2_gb_s
+https://egaxegax.github.io/index.html?tehnologii/testirovanie_fleshdrajva_oscoo_d8_1_tb_so_skorostju_do_2_gb_s
 https://egaxegax.github.io/index.html?tehnologii/testovyj_reliz_drajverov_nvidia_dlya_os_haiku
 https://egaxegax.github.io/index.html?tehnologii/tetris_na_rnr
 https://egaxegax.github.io/index.html?tehnologii/the_british_council_priznan_nejelatelnoj_organizaciej_v_rossii_a_za_uchastie_v_ekzamene_ielts_vozmojny_shtrafy
@@ -16984,6 +17140,7 @@ https://egaxegax.github.io/index.html?tehnologii/v_yandex_cloud_poyavilas_vozmoj
 https://egaxegax.github.io/index.html?tehnologii/v_yaponii_prodavca_modificirovannoj_nintendo_switch_s_piratskimi_igrami_prigovorili_k_tjuremnomu_zakljucheniju
 https://egaxegax.github.io/index.html?tehnologii/v_yaponii_vyros_spros_na_arendu_ps5
 https://egaxegax.github.io/index.html?tehnologii/valve_napomnila_chto_prekratit_podderjku_klientov_steam_na_32-razryadnyh_windows_s_1_yanvarya_2026_goda
+https://egaxegax.github.io/index.html?tehnologii/valve_obyavila_o_perenose_lichnogo_kalendarya_iz_steam_labs
 https://egaxegax.github.io/index.html?tehnologii/valve_pristupila_k_massovomu_proizvodstvu_garnitury_virtualnoj_realnosti_valve_index_2
 https://egaxegax.github.io/index.html?tehnologii/valve_uluchshila_rabotu_proigryvatelya_trejlerov_v_steam
 https://egaxegax.github.io/index.html?tehnologii/valve_zapustit_sistemu_ocenki_sovmestimosti_igr_dlya_novyh_ustrojstv_na_steamos
@@ -17054,7 +17211,9 @@ https://egaxegax.github.io/index.html?tehnologii/vypusk_obnovleniya_distributiva
 https://egaxegax.github.io/index.html?tehnologii/vypusk_obnovleniya_redaktora_vektornoj_grafiki_inkscape_1_4_4
 https://egaxegax.github.io/index.html?tehnologii/vypusk_os_micropythonos_0_9_0_s_gui_dlya_mikrokontrollerov_tipa_esp32_na_baze_instrumentariya_micropython
 https://egaxegax.github.io/index.html?tehnologii/vypusk_patcha_gitlab_19_2_2_19_1_4_19_0_6_sredi_zakrytyh_uyazvimostej_opasnye_xss_i_obhod_prav_v_ci_cd
+https://egaxegax.github.io/index.html?tehnologii/vypusk_rayburst_4_1_0_otkrytogo_multiplatformennogo_menedjera_zagruzok
 https://egaxegax.github.io/index.html?tehnologii/vypuskniki_stenforda_obnarujili_chto_ih_diplomy_bolshe_ne_garantirujut_trudoustrojstvo_iz-za_ii
+https://egaxegax.github.io/index.html?tehnologii/vyrashchennye_v_probirke_myshinye_myshcy_pozvolyajut_kroshechnym_robotam_prygat_plavat_i_hvatat_predmety
 https://egaxegax.github.io/index.html?tehnologii/vyshel_chrome_133
 https://egaxegax.github.io/index.html?tehnologii/vyshel_clockbench_vizualnyj_benchmark_dlya_ocenki_umeniya_modelej_polzovatsya_analogovymi_chasami
 https://egaxegax.github.io/index.html?tehnologii/vyshel_d7vk_1_0_proekt_realizacii_direct3d_7_poverh_api_vulkan
@@ -17065,6 +17224,7 @@ https://egaxegax.github.io/index.html?tehnologii/vyshel_mass_image_compressor_4_
 https://egaxegax.github.io/index.html?tehnologii/vyshel_mercury_coder_pervaya_model_na_principialno_novoj_arhitekture_dllm_v_10_raz_bystree_llm
 https://egaxegax.github.io/index.html?tehnologii/vyshel_openclaw_2_0_uproshchennyj_pervyj_zapusk_poisk_po_istorii_chatov_i_novaya_sistema_pamyati
 https://egaxegax.github.io/index.html?tehnologii/vyshel_otchet_ookla_o_skorosti_interneta_v_raznyh_stranah
+https://egaxegax.github.io/index.html?tehnologii/vyshel_otkrytyj_anloker_kotoryj_snimaet_ogranichenie_matrichnyh_vychislenij_na_gpu_videokart_nvidia_serij_rtx30xx_i_rtx40xx
 https://egaxegax.github.io/index.html?tehnologii/vyshel_proekt_onescript_2_0_0_eto_sreda_ispolneniya_skriptov_na_yazyke_tehnologicheskoj_platformy_1s_predpriyatiya_8
 https://egaxegax.github.io/index.html?tehnologii/vyshel_qwen-image-3_0_no_radovatsya_rano_gde_vesa_alibaba
 https://egaxegax.github.io/index.html?tehnologii/vyshel_reliz_stm32-gdbtest_0_4_1
@@ -17151,6 +17311,7 @@ https://egaxegax.github.io/index.html?tehnologii/zamsekretarya_obshchestvennoj_p
 https://egaxegax.github.io/index.html?tehnologii/zapred_komiteta_gosmdumy_po_informpolitike_telegram_nazvali_glavnym_kandidatom_na_vozvrat_v_rossiju_po_primeru_roblox
 https://egaxegax.github.io/index.html?tehnologii/zapusk_deep_research_ot_perplexity_konkurenciya_s_google_i_openai
 https://egaxegax.github.io/index.html?tehnologii/zapustili_ploshchadku_v_krasnodare_da_ona_uje_dostupna
+https://egaxegax.github.io/index.html?tehnologii/zatocheny_pod_myaso_top-5_myasorubok_dlya_prigotovleniya_farsha_protestirovannyh_nashej_laboratoriej_s_2024_goda
 https://egaxegax.github.io/index.html?tehnologii/zavershili_it-smenu_dlya_shkolnikov_yaroslavlya
 https://egaxegax.github.io/index.html?tehnologii/zavod_moskvich_nachal_vypusk_elektrokrossoverov_umo_sovmestno_s_yandeksom
 https://egaxegax.github.io/index.html?tehnologii/zendesk_vynudil_klienta_platit_v_4_raza_bolshe_za_podpisku_posle_etogo_kompaniya_pereshla_na_svoju_platformu_za_dva_dnya
@@ -17653,6 +17814,10 @@ https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261018_0900
 https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261019_0900
 https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261020_0900
 https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261021_0900
+https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261022_0900
+https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261023_0900
+https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261024_0900
+https://egaxegax.github.io/index.html?v_mire/pyatyj_kanal_na_261025_0900
 https://egaxegax.github.io/index.html?v_mire/rambler_na_250102_1300
 https://egaxegax.github.io/index.html?v_mire/rambler_na_250103_0600
 https://egaxegax.github.io/index.html?v_mire/rambler_na_250104_0600
@@ -18145,6 +18310,10 @@ https://egaxegax.github.io/index.html?v_mire/rambler_na_261018_0600
 https://egaxegax.github.io/index.html?v_mire/rambler_na_261019_0600
 https://egaxegax.github.io/index.html?v_mire/rambler_na_261020_0600
 https://egaxegax.github.io/index.html?v_mire/rambler_na_261021_0600
+https://egaxegax.github.io/index.html?v_mire/rambler_na_261022_0600
+https://egaxegax.github.io/index.html?v_mire/rambler_na_261023_0600
+https://egaxegax.github.io/index.html?v_mire/rambler_na_261024_0600
+https://egaxegax.github.io/index.html?v_mire/rambler_na_261025_0600
 https://egaxegax.github.io/index.html?v_mire/ria_na_250101_0601
 https://egaxegax.github.io/index.html?v_mire/ria_na_250102_0601
 https://egaxegax.github.io/index.html?v_mire/ria_na_250115_2100
