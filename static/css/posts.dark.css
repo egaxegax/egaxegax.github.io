@@ -2,6 +2,7 @@
 .dark { color:#dedede; }
 .gray { color:#aaa; }
 .light { color:#9ac495; }
+.pink i { color:#f4c430; }
 body,text { background:#222; color:#dedede; } 
 a, a:active, a:focus { color:#f4c430; }
 b,i,em,h4,h5 { color:#aaa; }
