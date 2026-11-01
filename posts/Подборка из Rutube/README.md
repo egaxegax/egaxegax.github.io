@@ -32715,3 +32715,575 @@
     <i class="smaller3">2026-09-11</i>
   </div>
 </div><!--n:Тайны/Катаемся с отшельником по забытым деревням. Большое путешествие на Ниве:s:2814545:e:821-->
+<!----><!--2026-10-25 19:39:46-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/pochemu_ilon_mask_nachal_unijat_zelenskogo_i_prichem_tut_vks_rf">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/20b3f97287cd49d76f30b95c30a039d0/" src="http://pic.rtbcdn.ru/video/2026-10-25/7d/94/7d941bc2e9eec89e8ce8d007011a11d0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/pochemu_ilon_mask_nachal_unijat_zelenskogo_i_prichem_tut_vks_rf">Почему Илон Маск начал унижать Зеленского и причем тут ВКС РФ</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-25</i>
+  </div>
+</div><!--n:СВО/Почему Илон Маск начал унижать Зеленского и причем тут ВКС РФ:s:2815535:e:781-->
+<!----><!--2026-10-26 12:56:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/kurenie_i_pyat_trupov_v_odnom_dome_pryamaya_svyaz">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7fb5db4c8d71c85151764db9f2f08388/" src="http://pic.rtbcdn.ru/video/2026-10-26/2a/f0/2af06ef94e68037b5eea8c3a23a62bc2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/kurenie_i_pyat_trupov_v_odnom_dome_pryamaya_svyaz">Курение и пять трупов в одном доме. Прямая связь?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Одни из лучших/Курение и пять трупов в одном доме. Прямая связь:s:2816461:e:752-->
+<!----><!--2026-10-26 10:25:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_pochemu_v_ssha_vse_mashiny_avtohlam">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/84fe941ec3a7f6ae17740bdce6b5d5b1/" src="http://pic.rtbcdn.ru/video/2026-10-26/ac/68/ac68e978aed70291d35fab693499e08b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_pochemu_v_ssha_vse_mashiny_avtohlam">Воспоминания (декабрь 2019): ПОЧЕМУ в США все машины АВТОХЛАМ?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (декабрь 2019) ПОЧЕМУ в США все машины АВТОХЛАМ:s:2817353:e:796-->
+<!----><!--2026-10-26 09:07:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_kak_popast_v_evropu_ne_peresekaya_okean">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f94804c87034b684c7811961ac865f88/" src="http://pic.rtbcdn.ru/video/2026-10-26/b3/a2/b3a250df8afa3f6dac8d868c50aadca5.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/samsebeskazal_denis_kak_popast_v_evropu_ne_peresekaya_okean">Samsebeskazal Denis: как попасть в Европу, не пересекая океан?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Одни из лучших/Samsebeskazal Denis как попасть в Европу, не пересекая океан:s:2818308:e:779-->
+<!----><!--2026-10-26 13:52:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/ulichnyj_boec_film_2026_street_fighter">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/55434ec6eb156a451aa2e078edd44853/" src="http://pic.rtbcdn.ru/video/2026-10-26/8e/23/8e23d4c668eeae65f302403362bb902b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/ulichnyj_boec_film_2026_street_fighter">Уличный боец (фильм 2026) / Street Fighter</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Мир кино/Уличный боец (фильм 2026) Street Fighter:s:2819233:e:677-->
+<!----><!--2026-10-26 07:26:03-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/novye_fajly_nlo_i_tajna_nibiru_neojidanno_soshlis_v_odnoj_pugajushche_realistichnoj_teorii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/fee12e1a9ea1d4d91177b67bd6f8dc49/" src="http://pic.rtbcdn.ru/video/2026-10-24/34/28/3428ef311f939fbf0246cfb69c47cce1.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/novye_fajly_nlo_i_tajna_nibiru_neojidanno_soshlis_v_odnoj_pugajushche_realistichnoj_teorii">Новые файлы НЛО и тайна Нибиру неожиданно сошлись в одной пугающе реалистичной теории</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Тайны/Новые файлы НЛО и тайна Нибиру неожиданно сошлись в одной пугающе реалистичной теории:s:2820008:e:882-->
+<!----><!--2026-10-26 07:26:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/ssha_uje_zahvatili_nlo_i_tajno_izuchajut_ih_tehnologii_gromkoe_zayavlenie_eks-glavy_gruppy_pentagona">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/33d713e633d9d4779df0d191edcf7ed5/" src="http://pic.rtbcdn.ru/video/2026-10-24/d6/89/d689dc3996055f17ae367b5da02f8e36.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/ssha_uje_zahvatili_nlo_i_tajno_izuchajut_ih_tehnologii_gromkoe_zayavlenie_eks-glavy_gruppy_pentagona">США уже захватили НЛО и тайно изучают их технологии — громкое заявление экс-главы группы Пентагона</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Тайны/США уже захватили НЛО и тайно изучают их технологии громкое заявление экс-главы группы Пентагона:s:2821085:e:926-->
+<!----><!--2026-10-26 19:09:09-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_ispaniya_v_ogne_proryv_u_dobropolya_na_sever_shansov_na_mir_net_26_10_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b91ea1c167a7de168139a3cc5e869a42/" src="http://pic.rtbcdn.ru/video/2026-10-26/49/f4/49f4938f8e53928d0d2673c53c9e5850.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_ispaniya_v_ogne_proryv_u_dobropolya_na_sever_shansov_na_mir_net_26_10_26">Украинский фронт - Испания в огне. Прорыв у Доброполья на север. Шансов на мир нет. 26.10.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - Испания в огне. Прорыв у Доброполья на север. Шансов на мир нет. 26.10.26:s:2822226:e:881-->
+<!----><!--2026-10-26 18:21:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/zelenskomu_prikazali_otdat_territorii_-_v_es_traur">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/bbaeb175ee51a086a11a31c8c7716d44/" src="http://pic.rtbcdn.ru/video/2026-10-26/f7/19/f719a5c7a82a0a82b25c7e4971bee22a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/zelenskomu_prikazali_otdat_territorii_-_v_es_traur">Зеленскому приказали «отдать территории» - в ЕС траур</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:СВО/Зеленскому приказали отдать территории - в ЕС траур:s:2823297:e:741-->
+<!----><!--2026-10-27 13:57:11-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_istoriya_plohogo_konca_v_ssha_-_eto_ne_dom_a_saraj_derevenskaya_nishcheta">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/b74fa7150264cb786170005ea73dce68/" src="http://pic.rtbcdn.ru/video/2026-10-27/e9/96/e9966d95a93489d0cd8bc2e535bbcee2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_istoriya_plohogo_konca_v_ssha_-_eto_ne_dom_a_saraj_derevenskaya_nishcheta">Воспоминания (декабрь 2019): ИСТОРИЯ ПЛОХОГО конца в США - это не дом, а сарай! ДЕРЕВЕНСКАЯ НИЩЕТА!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (декабрь 2019) ИСТОРИЯ ПЛОХОГО конца в США - это не дом, а сарай ДЕРЕВЕНСКАЯ НИЩЕТА:s:2824165:e:936-->
+<!----><!--2026-10-27 13:39:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/v_majami_mujchiny_s_nadpisju_policiya_pohitili_22-letnego_parnya_utrom_ego_nashli_ubitym">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/929b1280f94fb00e8ea519fde3eb708f/" src="http://pic.rtbcdn.ru/video/2026-10-27/e2/fd/e2fde9cf0195acfdb57513e6e5dea413.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/v_majami_mujchiny_s_nadpisju_policiya_pohitili_22-letnego_parnya_utrom_ego_nashli_ubitym">В Майами мужчины с надписью «Полиция» похитили 22-летнего парня. Утром его нашли убитым.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:Одни из лучших/В Майами мужчины с надписью Полиция похитили 22-летнего парня. Утром его нашли убитым.:s:2825323:e:901-->
+<!----><!--2026-10-26 18:00:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/betmen_padenie_rycarya_chast_pervaya_multfilm_2026_batman_knightfall_-_part_1_knightfall">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d0197538071dd4f830437225f5c0ac2e/" src="http://pic.rtbcdn.ru/video/2026-10-26/3f/50/3f50de64a4cc4a95ccc089d5f13ba8a6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/betmen_padenie_rycarya_chast_pervaya_multfilm_2026_batman_knightfall_-_part_1_knightfall">Бэтмен: Падение рыцаря. Часть первая (мультфильм 2026) / Batman: Knightfall - Part 1: Knightfall</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Мир кино/Бэтмен Падение рыцаря. Часть первая (мультфильм 2026) Batman Knightfall - Part 1 Knightfall:s:2826432:e:855-->
+<!----><!--2026-10-26 19:18:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/shou_gruppy_nirvanna_film_film_2025_nirvanna_the_band_the_show_the_movie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3b984fb76e1f8a26da0795764ff31f4b/" src="http://pic.rtbcdn.ru/video/2026-10-26/f4/0a/f40a24f2053aa3aa611cce973bb8b55a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/shou_gruppy_nirvanna_film_film_2025_nirvanna_the_band_the_show_the_movie">Шоу «Группы Нирванна». Фильм (фильм 2025) / Nirvanna the Band the Show the Movie</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Мир кино/Шоу Группы Нирванна . Фильм (фильм 2025) Nirvanna the Band the Show the Movie:s:2827460:e:796-->
+<!----><!--2026-10-26 21:00:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/doktor_son_film_2019_doctor_sleep">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cc8af325d89f5d723aaa6760adbb81ba/" src="http://pic.rtbcdn.ru/video/2026-10-26/ac/11/ac112feeb9706522b6125131f40f9435.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/doktor_son_film_2019_doctor_sleep">Доктор Сон (фильм 2019) / Doctor Sleep</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-26</i>
+  </div>
+</div><!--n:Мир кино/Доктор Сон (фильм 2019) Doctor Sleep:s:2828402:e:661-->
+<!----><!--2026-10-27 09:52:29-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pentagon_rassekretil_svidetelstvo_o_telah_prishelcev_i_razbivshemsya_nlo_v_rozuelle">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a0a1137506fbac253a67ada875bd7f74/" src="http://pic.rtbcdn.ru/video/2026-10-24/fc/12/fc126644900761d68007d1c566433a53.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pentagon_rassekretil_svidetelstvo_o_telah_prishelcev_i_razbivshemsya_nlo_v_rozuelle">Пентагон рассекретил свидетельство о телах пришельцев и разбившемся НЛО в Розуэлле</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:Тайны/Пентагон рассекретил свидетельство о телах пришельцев и разбившемся НЛО в Розуэлле:s:2829155:e:864-->
+<!----><!--2026-10-27 09:52:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/rukopis_vojnicha_mogla_skryvat_svoju_tajnu_600_let_iz-za_odnoj_oshibki">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/ca81123960b29eb1cd6944dccf9d9c77/" src="http://pic.rtbcdn.ru/video/2026-10-24/43/54/43547146e44b470b52b2839d8671e29c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/rukopis_vojnicha_mogla_skryvat_svoju_tajnu_600_let_iz-za_odnoj_oshibki">Рукопись Войнича могла скрывать свою тайну 600 лет из-за одной ошибки?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:Тайны/Рукопись Войнича могла скрывать свою тайну 600 лет из-за одной ошибки:s:2830210:e:809-->
+<!----><!--2026-10-27 09:52:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/turisty_zasnyali_gigantskuju_gumanoidnuju_figuru_na_vershine_holma_i_ona_bessledno_ischezla">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/017dfdf13075ddf00954f84292e566d8/" src="http://pic.rtbcdn.ru/video/2026-10-24/82/4c/824c5034ccaf6d433b7fb6cbbdb276e0.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/turisty_zasnyali_gigantskuju_gumanoidnuju_figuru_na_vershine_holma_i_ona_bessledno_ischezla">Туристы засняли гигантскую гуманоидную фигуру на вершине холма и она бесследно исчезла</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:Тайны/Туристы засняли гигантскую гуманоидную фигуру на вершине холма и она бесследно исчезла:s:2831180:e:887-->
+<!----><!--2026-10-27 20:35:46-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_portal_v_jujnom_mostu_firepoint_-_devochka_v_ochkah_slava_uhani_27_10_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/af02d1e36958e2f05595d61a6e2695cb/" src="http://pic.rtbcdn.ru/video/2026-10-27/9a/34/9a344eb36ec408e2a7aa40562feabc13.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_portal_v_jujnom_mostu_firepoint_-_devochka_v_ochkah_slava_uhani_27_10_26">Украинский фронт - портал в Южном мосту. Firepoint - девочка в очках. Слава Ухани! 27.10.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - портал в Южном мосту. Firepoint - девочка в очках. Слава Ухани 27.10.26:s:2832265:e:870-->
+<!----><!--2026-10-27 20:06:21-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/politicheskaya_kazn_za_predatelstvo_maduro_i_zvonki_es_v_kreml">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/03797e8d357e4585737f6b89bb271997/" src="http://pic.rtbcdn.ru/video/2026-10-27/73/a7/73a77338f8e89ddf5cab4ac8208bbead.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/politicheskaya_kazn_za_predatelstvo_maduro_i_zvonki_es_v_kreml">Политическая казнь за предательство Мадуро и звонки ЕС в Кремль</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:СВО/Политическая казнь за предательство Мадуро и звонки ЕС в Кремль:s:2833313:e:784-->
+<!----><!--2026-10-28 09:16:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_dostavka_pod_ugrozoj_sryva_lopnulo_koleso_no_ya_ne_sdajus">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/eed4dee98edc0fc3ced686902533d0f5/" src="http://pic.rtbcdn.ru/video/2026-10-28/dc/50/dc5059cd8dbb6b8b2469a040ec060f17.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_dostavka_pod_ugrozoj_sryva_lopnulo_koleso_no_ya_ne_sdajus">Новое: доставка под угрозой срыва. Лопнуло колесо, но я не сдаюсь!!!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:Одни из лучших/Новое доставка под угрозой срыва. Лопнуло колесо, но я не сдаюсь:s:2834247:e:812-->
+<!----><!--2026-10-28 08:14:04-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/million_dollarov_na_biznes_i_pochti_polovina_v_kazino">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/555b3b24917886d75f7285341135ad61/" src="http://pic.rtbcdn.ru/video/2026-10-28/69/21/6921a5bb5d2d29329cad75adc29887ec.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/million_dollarov_na_biznes_i_pochti_polovina_v_kazino">Миллион долларов на бизнес — и почти половина в казино</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:Одни из лучших/Миллион долларов на бизнес и почти половина в казино:s:2835228:e:772-->
+<!----><!--2026-10-27 21:00:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/morojenshchik_film_2026_ice_cream_man">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8bf846d921eb67e483590ed0c798e41a/" src="http://pic.rtbcdn.ru/video/2026-10-27/9f/eb/9feb7d7cbc36c2e528c5cc18c3306f5e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/morojenshchik_film_2026_ice_cream_man">Мороженщик (фильм 2026) / Ice Cream Man</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:Мир кино/Мороженщик (фильм 2026) Ice Cream Man:s:2836149:e:671-->
+<!----><!--2026-10-28 15:52:05-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/kraja_ograblenie_veka_film_2025_stolen_heist_of_the_century">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/997f23bac2329c0339672d722080f4d5/" src="http://pic.rtbcdn.ru/video/2026-10-28/3b/f1/3bf1523d5de3971eea392172ececea8b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/kraja_ograblenie_veka_film_2025_stolen_heist_of_the_century">Кража: Ограбление века (фильм 2025) / Stolen: Heist of the Century</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:Мир кино/Кража Ограбление века (фильм 2025) Stolen Heist of the Century:s:2836914:e:751-->
+<!----><!--2026-10-27 18:08:07-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/sto_let_odinochestva_-_2_sezon_8_seriya_serial_2024_cien_a_os_de_soledad">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/07d7788b04e09531b6b1a4e2a739cc28/" src="http://pic.rtbcdn.ru/video/2026-10-27/22/e7/22e771e7e9de7c89951248934557edec.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/sto_let_odinochestva_-_2_sezon_8_seriya_serial_2024_cien_a_os_de_soledad">Сто лет одиночества - 2 сезон 8 серия (сериал 2024) / Cien años de soledad</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-27</i>
+  </div>
+</div><!--n:Мир кино/Сто лет одиночества - 2 сезон 8 серия (сериал 2024) Cien a os de soledad:s:2837793:e:795-->
+<!----><!--2026-10-28 13:31:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/nashel_gorod-prizrak_ryadom_s_moskvoj_pochemu_kvartiry_tut_nikomu_ne_nujny">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/060ead4cc4993c288e210b3438e4ac6e/" src="http://pic.rtbcdn.ru/video/2026-10-28/bf/20/bf20eac64e529bd54cd3d1779dabc33a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/nashel_gorod-prizrak_ryadom_s_moskvoj_pochemu_kvartiry_tut_nikomu_ne_nujny">Нашел город-призрак рядом с Москвой. Почему квартиры тут никому не нужны</a></p>
+    <p><i class="smaller2">Русские тайны</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:Тайны/Нашел город-призрак рядом с Москвой. Почему квартиры тут никому не нужны:s:2838735:e:823-->
+<!----><!--2026-10-28 20:11:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_ukrainskaya_energetika_-_katastrofa_chudesnyj_evrosad_28_10_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/15ad6bddc9900beb02e275095309414f/" src="http://pic.rtbcdn.ru/video/2026-10-28/78/9e/789ea5fae6144c8a87790b28b5acb86e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_ukrainskaya_energetika_-_katastrofa_chudesnyj_evrosad_28_10_26">Украинский фронт - украинская энергетика - КАТАСТРОФА. Чудесный Евросад. 28.10.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - украинская энергетика - КАТАСТРОФА. Чудесный Евросад. 28.10.26:s:2839727:e:845-->
+<!----><!--2026-10-28 18:12:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/porajenie_korporacii_epl_i_novyj_oblik_geran-5_dlya_vks_rf">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/10b096e84a67e809b3580f2c06448888/" src="http://pic.rtbcdn.ru/video/2026-10-28/89/8b/898bb2c0b2a86e99e0ab5c9a5a5edac3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/porajenie_korporacii_epl_i_novyj_oblik_geran-5_dlya_vks_rf">Поражение корпорации «Эпл» и новый облик «Герань-5» для ВКС РФ</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:СВО/Поражение корпорации Эпл и новый облик Герань-5 для ВКС РФ:s:2840746:e:772-->
+<!----><!--2026-10-29 07:32:57-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/banka_tunca_za_1_v_ssha_kak_oni_eto_edyat">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/255a4cc8669b3b584f024ede7b0f3c24/" src="http://pic.rtbcdn.ru/video/2026-10-29/6e/63/6e636d5f3351cd557d43ed8d2674bdb2.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/banka_tunca_za_1_v_ssha_kak_oni_eto_edyat">Банка тунца за $1 в США / Как они ЭТО едят?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:Одни из лучших/Банка тунца за 1 в США Как они ЭТО едят:s:2841656:e:720-->
+<!----><!--2026-10-29 07:28:02-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/umer_v_zakljuchenii_ice_s_grin-kartoj_semya_obvinyaet_sotrudnikov_v_otkaze_predostavlyat_lekarstva">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/8003b0cd45cfdc0389862ffe0aa1eb08/" src="http://pic.rtbcdn.ru/video/2026-10-29/3f/13/3f1324afb68bb42d58eb048f9402614f.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/umer_v_zakljuchenii_ice_s_grin-kartoj_semya_obvinyaet_sotrudnikov_v_otkaze_predostavlyat_lekarstva">Умер в заключении ICE с грин-картой. Семья обвиняет сотрудников в отказе предоставлять лекарства.</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:Одни из лучших/Умер в заключении ICE с грин-картой. Семья обвиняет сотрудников в отказе предоставлять лекарства.:s:2842497:e:938-->
+<!----><!--2026-10-29 08:53:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_popal_v_snejnuju_burju_v_ssha_chrezvychajnoe_polojenie">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/02dbe15a484949dcac477133e742f2ee/" src="http://pic.rtbcdn.ru/video/2026-10-29/5a/d0/5ad05ce8dd0809624b500883c33e7bd9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_popal_v_snejnuju_burju_v_ssha_chrezvychajnoe_polojenie">Воспоминания (декабрь 2019): ПОПАЛ в снежную БУРЮ В США! ЧРЕЗВЫЧАЙНОЕ ПОЛОЖЕНИЕ!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (декабрь 2019) ПОПАЛ в снежную БУРЮ В США ЧРЕЗВЫЧАЙНОЕ ПОЛОЖЕНИЕ:s:2843664:e:867-->
+<!----><!--2026-10-28 21:00:32-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/strannyj_tomas_film_2013_odd_thomas">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d97c82b8d18bc08ed0a7a419dcb038eb/" src="http://pic.rtbcdn.ru/video/2026-10-28/24/ce/24ce56bd39c4bfba907a630a955ea830.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/strannyj_tomas_film_2013_odd_thomas">Странный Томас (фильм 2013) / Odd Thomas</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:Мир кино/Странный Томас (фильм 2013) Odd Thomas:s:2844722:e:671-->
+<!----><!--2026-10-28 19:00:17-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/bog_proshchaet_vseh_film_2026_che_dio_perdona_a_tutti_god_forgives_everyone">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/45427f733d08b8606f52c2cb6ad840c7/" src="http://pic.rtbcdn.ru/video/2026-10-28/92/fe/92feb06d42c0044d781ea97ae2bca3bc.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/bog_proshchaet_vseh_film_2026_che_dio_perdona_a_tutti_god_forgives_everyone">Бог прощает всех (фильм 2026) / Che Dio perdona a tutti / God Forgives Everyone</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:Мир кино/Бог прощает всех (фильм 2026) Che Dio perdona a tutti God Forgives Everyone:s:2845491:e:791-->
+<!----><!--2026-10-28 18:00:13-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/zahvat_film_2026_pojmat_el_chapo_la_captura">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2698af9ab24e77636a172a6801f0b78e/" src="http://pic.rtbcdn.ru/video/2026-10-28/ec/d3/ecd3e154555d6d6e67fea447716f1ab4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/zahvat_film_2026_pojmat_el_chapo_la_captura">Захват (фильм 2026) / Поймать Эль Чапо / La Captura</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-28</i>
+  </div>
+</div><!--n:Мир кино/Захват (фильм 2026) Поймать Эль Чапо La Captura:s:2846418:e:705-->
+<!----><!--2026-10-29 18:25:06-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_zapret_vsego_russkogo_transportnyj_kollaps_v_kieve_1200_bpla_po_rossii_29_10_2">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/e43ca4e0cb193f5dc5d385e02d7485c2/" src="http://pic.rtbcdn.ru/video/2026-10-29/cd/6d/cd6d231a74d0952612d822032d6c1bd6.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_zapret_vsego_russkogo_transportnyj_kollaps_v_kieve_1200_bpla_po_rossii_29_10_2">Украинский фронт - запрет всего русского. Транспортный коллапс в Киеве. 1200 БПЛА по России. 29.10.2</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - запрет всего русского. Транспортный коллапс в Киеве. 1200 БПЛА по России. 29.10.2:s:2847237:e:907-->
+<!----><!--2026-10-29 17:50:30-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/likvidaciya_komandira_125_brigady_chvk_vsu_i_ataka_mi-6_na_jd-vokzal">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2b0f500ec49ef95850a0a8c1e2c6b357/" src="http://pic.rtbcdn.ru/video/2026-10-29/37/fb/37fb477645d1ccd7afd75ac7cd593556.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/likvidaciya_komandira_125_brigady_chvk_vsu_i_ataka_mi-6_na_jd-vokzal">Ликвидация командира 125 бригады ЧВК «ВСУ» и атака Ми-6 на ЖД-вокзал</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:СВО/Ликвидация командира 125 бригады ЧВК ВСУ и атака Ми-6 на ЖД-вокзал:s:2848348:e:799-->
+<!----><!--2026-10-30 10:51:55-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/arest_ukrainskoj_blogershi_v_ssha_pochemu_posle_ssory_s_mujchinoj_eju_zanyalas_ice">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a5b3499fc6e70399cc169a949823173a/" src="http://pic.rtbcdn.ru/video/2026-10-30/76/8d/768d680b8a69109819bc41057fad40fd.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/arest_ukrainskoj_blogershi_v_ssha_pochemu_posle_ssory_s_mujchinoj_eju_zanyalas_ice">Арест украинской блогерши в США. Почему после ссоры с мужчиной ею занялась ICE?</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-30</i>
+  </div>
+</div><!--n:Одни из лучших/Арест украинской блогерши в США. Почему после ссоры с мужчиной ею занялась ICE:s:2849296:e:871-->
+<!----><!--2026-10-30 11:34:31-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_dalnobojshchik_nakonec-to_doma_pokupki_druzya_i_nemnogo_avtomobilnogo_tjuninga">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/5f270268bf41cd10657549bc0f3d53a4/" src="http://pic.rtbcdn.ru/video/2026-10-30/10/f2/10f20f3c6882ff8975e64e8b64fd36e9.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_dalnobojshchik_nakonec-to_doma_pokupki_druzya_i_nemnogo_avtomobilnogo_tjuninga">Новое: дальнобойщик наконец-то дома. Покупки, друзья и немного автомобильного тюнинга</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-30</i>
+  </div>
+</div><!--n:Одни из лучших/Новое дальнобойщик наконец-то дома. Покупки, друзья и немного автомобильного тюнинга:s:2850360:e:891-->
+<!----><!--2026-10-29 21:00:26-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gotika_film_2003_gothika">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/cb35d4648417c5f812289203ef8e33b3/" src="http://pic.rtbcdn.ru/video/2026-10-29/95/e6/95e642347bd9373181a60a9baee3eb5e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gotika_film_2003_gothika">Готика (фильм 2003) / Gothika</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:Мир кино/Готика (фильм 2003) Gothika:s:2851460:e:631-->
+<!----><!--2026-10-29 19:00:49-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/de_goll_chast_1_soprotivlenie_film_2026_de_gaulle_r_sistance">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c6cb298f57d3a1135626a61d6c352fb2/" src="http://pic.rtbcdn.ru/video/2026-10-29/9f/44/9f4456a16b5671b9b1d9c234203b180b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/de_goll_chast_1_soprotivlenie_film_2026_de_gaulle_r_sistance">Де Голль. Часть 1. Сопротивление (фильм 2026) / De Gaulle: Résistance</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:Мир кино/Де Голль. Часть 1. Сопротивление (фильм 2026) De Gaulle R sistance:s:2852171:e:763-->
+<!----><!--2026-10-29 18:00:27-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/gejl_dotri_i_gollivudskij_seks-abonement_film_2026_gail_daughtry_and_the_celebrity_sex_pass">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7e43a2c1392c53b275b195dbdb9cee3f/" src="http://pic.rtbcdn.ru/video/2026-10-29/ce/58/ce585adcc1b16b67247d3c8346ce3e92.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/gejl_dotri_i_gollivudskij_seks-abonement_film_2026_gail_daughtry_and_the_celebrity_sex_pass">Гейл Дотри и голливудский секс-абонемент (фильм 2026) / Gail Daughtry and the Celebrity Sex Pass</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-29</i>
+  </div>
+</div><!--n:Мир кино/Гейл Дотри и голливудский секс-абонемент (фильм 2026) Gail Daughtry and the Celebrity Sex Pass:s:2853072:e:861-->
+<!----><!--2026-10-30 10:27:59-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/petrovskij_bulvar">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/f033cf29647cf0a330e0cfed0691e38f/" src="http://pic.rtbcdn.ru/video/2026-10-30/68/b1/68b1a5955c2237da30dc7679c52cd967.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/petrovskij_bulvar">ПЕТРОВСКИЙ БУЛЬВАР</a></p>
+    <p><i class="smaller2">ДИГГЕР ДАНИИЛ ДАВЫДОВ</i></p>
+    <i class="smaller3">2026-10-30</i>
+  </div>
+</div><!--n:Тайны/ПЕТРОВСКИЙ БУЛЬВАР:s:2854109:e:627-->
+<!----><!--2026-10-30 21:10:15-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_plevok_zelenskogo_na_trampa_germaniju_lihoradit_lvov_schet_za_majdan_30_10_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/335a315ab64adcc7303db14299174660/" src="http://pic.rtbcdn.ru/video/2026-10-30/e3/5b/e35b822ec5646ccf59f83e318f9ca21d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_plevok_zelenskogo_na_trampa_germaniju_lihoradit_lvov_schet_za_majdan_30_10_26">Украинский фронт - плевок Зеленского на Трампа. Германию лихорадит. Львов счет за Майдан. 30.10.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-10-30</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - плевок Зеленского на Трампа. Германию лихорадит. Львов счет за Майдан. 30.10.26:s:2854808:e:905-->
+<!----><!--2026-10-30 20:24:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/podgotovka_k_shturmu_hersona_i_unichtojenie_zavoda_boepripasov_v_ispanii">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/faac4ad0536fd1ba1b20460c7570d592/" src="http://pic.rtbcdn.ru/video/2026-10-30/14/e5/14e586f21b9c509d7bcf2f7228ef7b0c.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/podgotovka_k_shturmu_hersona_i_unichtojenie_zavoda_boepripasov_v_ispanii">Подготовка к штурму Херсона и уничтожение завода боеприпасов в Испании</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-10-30</i>
+  </div>
+</div><!--n:СВО/Подготовка к штурму Херсона и уничтожение завода боеприпасов в Испании:s:2855917:e:818-->
+<!----><!--2026-10-31 09:57:42-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_kak_v_ssha_jivut_amerikancy_pensionery_nishcheta_v_starosti_v_amerike">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/a7fb33b271bc650fa99fbcf78bae38ec/" src="http://pic.rtbcdn.ru/video/2026-10-31/1d/ed/1dedfd37aa0765865c91ebc58c8f9e3a.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/vospominaniya_dekabr_2019_kak_v_ssha_jivut_amerikancy_pensionery_nishcheta_v_starosti_v_amerike">Воспоминания (декабрь 2019): как в США живут АМЕРИКАНЦЫ Пенсионеры? НИЩЕТА В старости в Америке</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Одни из лучших/Воспоминания (декабрь 2019) как в США живут АМЕРИКАНЦЫ Пенсионеры НИЩЕТА В старости в Америке:s:2856899:e:925-->
+<!----><!--2026-10-31 10:12:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/agenty_sbili_cheloveka_kotoryj_umer_9_let_nazad_i_izbavilis_ot_svidetelya">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/30054f3c82afae4748e2bf9331c172d9/" src="http://pic.rtbcdn.ru/video/2026-10-31/04/f1/04f1df18e2ceac0555bcbcc1cd0cc979.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/agenty_sbili_cheloveka_kotoryj_umer_9_let_nazad_i_izbavilis_ot_svidetelya">Агенты сбили человека, который умер 9 лет назад, и избавились от свидетеля</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Одни из лучших/Агенты сбили человека, который умер 9 лет назад, и избавились от свидетеля:s:2858044:e:846-->
+<!----><!--2026-10-31 09:59:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/rabotaju_kurerom_v_rajone_millionerov_los-andjelesa">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/477b14c2af51122b35d7d2ddce3e28e5/" src="http://pic.rtbcdn.ru/video/2026-10-31/9f/05/9f05370b384bf7b6a7dd31b22fb41ca4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/rabotaju_kurerom_v_rajone_millionerov_los-andjelesa">Работаю курьером в районе миллионеров Лос-Анджелеса</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Одни из лучших/Работаю курьером в районе миллионеров Лос-Анджелеса:s:2859077:e:764-->
+<!----><!--2026-10-31 13:14:08-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/devochki_gilmor_vremena_goda_-_4_seriya_mini_serial_2016_gilmore_girls_a_year_in_the_life">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/7362f4107e3a35622ede5deacc43fde4/" src="http://pic.rtbcdn.ru/video/2026-10-31/3d/df/3ddfde3cde0e3182c46cdc6fabddbc1d.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/devochki_gilmor_vremena_goda_-_4_seriya_mini_serial_2016_gilmore_girls_a_year_in_the_life">Девочки Гилмор: Времена года - 4 серия (мини–сериал 2016) / Gilmore Girls: A Year in the Life</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Мир кино/Девочки Гилмор Времена года - 4 серия (мини сериал 2016) Gilmore Girls A Year in the Life:s:2859990:e:855-->
+<!----><!--2026-10-31 13:13:10-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/devochki_gilmor_vremena_goda_-_3_seriya_mini_serial_2016_gilmore_girls_a_year_in_the_life">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3538bb8bcddf206af53dbec8677dd51e/" src="http://pic.rtbcdn.ru/video/2026-10-31/98/46/98466e1e130549d36df7f9d2d6cd0d4e.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/devochki_gilmor_vremena_goda_-_3_seriya_mini_serial_2016_gilmore_girls_a_year_in_the_life">Девочки Гилмор: Времена года - 3 серия (мини–сериал 2016) / Gilmore Girls: A Year in the Life</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Мир кино/Девочки Гилмор Времена года - 3 серия (мини сериал 2016) Gilmore Girls A Year in the Life:s:2861015:e:855-->
+<!----><!--2026-10-31 13:13:33-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/devochki_gilmor_vremena_goda_-_2_seriya_mini_serial_2016_gilmore_girls_a_year_in_the_life">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/2894b46948bac79065be7fab5e6c2a6c/" src="http://pic.rtbcdn.ru/video/2026-10-31/e3/10/e310139c224f3e5baa7c630b78d2243b.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/devochki_gilmor_vremena_goda_-_2_seriya_mini_serial_2016_gilmore_girls_a_year_in_the_life">Девочки Гилмор: Времена года - 2 серия (мини–сериал 2016) / Gilmore Girls: A Year in the Life</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Мир кино/Девочки Гилмор Времена года - 2 серия (мини сериал 2016) Gilmore Girls A Year in the Life:s:2862040:e:855-->
+<!----><!--2026-10-31 14:04:43-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_tihom_okeane_snyali_rezkuju_granicu_dnya_i_nochi_i_snova_zagovorili_o_ploskoj_zemle">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/d47347ada1d2c9b644b6d069b981b8ce/" src="http://pic.rtbcdn.ru/video/2026-10-30/80/1c/801c1427daa0fe5b358caf8cabeb66b3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_tihom_okeane_snyali_rezkuju_granicu_dnya_i_nochi_i_snova_zagovorili_o_ploskoj_zemle">В Тихом Океане сняли резкую границу дня и ночи и снова заговорили о плоской Земле</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Тайны/В Тихом Океане сняли резкую границу дня и ночи и снова заговорили о плоской Земле:s:2863065:e:862-->
+<!----><!--2026-10-31 14:04:47-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/v_zone_51_yakoby_sushchestvovala_inoplanetnaya_ustanovka_sposobnaya_pokazyvat_budushchee_chelovechestva">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/c96cbacb8f3f28d56072379f26811b08/" src="http://pic.rtbcdn.ru/video/2026-10-30/02/29/0229b57746f2a83fe843eebbaa4dbd03.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/v_zone_51_yakoby_sushchestvovala_inoplanetnaya_ustanovka_sposobnaya_pokazyvat_budushchee_chelovechestva">В Зоне 51 якобы существовала инопланетная установка способная показывать будущее человечества</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Тайны/В Зоне 51 якобы существовала инопланетная установка способная показывать будущее человечества:s:2864112:e:924-->
+<!----><!--2026-10-31 14:04:37-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/pentagon_rassekretil_vstrechu_agentov_fbr_s_ogromnym_treugolnym_nlo_u_zakrytogo_obekta_v_kanone">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0032f3aa8b90e906e87b33e0aecb8ecb/" src="http://pic.rtbcdn.ru/video/2026-10-30/a3/93/a3932459e9d5bc066373dab7637880da.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/pentagon_rassekretil_vstrechu_agentov_fbr_s_ogromnym_treugolnym_nlo_u_zakrytogo_obekta_v_kanone">Пентагон рассекретил встречу агентов ФБР с огромным треугольным НЛО у закрытого объекта в каньоне</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-10-31</i>
+  </div>
+</div><!--n:Тайны/Пентагон рассекретил встречу агентов ФБР с огромным треугольным НЛО у закрытого объекта в каньоне:s:2865247:e:915-->
