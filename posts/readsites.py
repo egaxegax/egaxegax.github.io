@@ -14,7 +14,7 @@ RSSlist = {
   'prosto_linux':{'hdr':'Подборка с сайтов/Технологии',           'hdr2':'Prosto Linux',     'url':'https://prosto-linux.ru/feed',            'cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'playground':  {'hdr':'Подборка с сайтов/Компьютерные игры',    'hdr2':'PlayGround.ru' ,   'url':'https://www.playground.ru/rss/news.xml',  'cut':1000, 'total':3, 'ctag': 'channel', 'itag': 'item', 'sm':''},
   'yaplakal':    {'hdr':'Подборка с сайтов/Блоги',                'hdr2':'ЯПлакал',          'url':'https://www.yaplakal.com/news.xml',       'cut':2000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
-  'moslenta':    {'hdr':'Подборка с сайтов/Московская жизнь',     'hdr2':'Мослента',         'url':'https://moslenta.ru/exports/rss.xml',     'cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
+  'moslenta':    {'hdr':'Подборка с сайтов/Московская хроника',   'hdr2':'Мослента',         'url':'https://moslenta.ru/exports/rss.xml',     'cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'ixbt_tech':   {'hdr':'Подборка с сайтов/Технологии',           'hdr2':'iXBT.com',         'url':'https://www.ixbt.com/export/articles.rss','cut':1000, 'total':3,'ctag': 'channel', 'itag': 'item', 'sm':''},
   'flickr':      {'hdr':'Подборка с сайтов/Арт',                  'hdr2':'Flickr.com',       'url':'http://api.flickr.com/services/feeds/photos_public.gne', 'cut':1000, 'total':15,'ctag': '', 'itag': 'entry','sm':'{http://www.w3.org/2005/Atom}'},
   'artfile':     {'hdr':'Подборка с сайтов/Арт',                  'hdr2':'Artfile.ru',       'url':'https://www.artfile.ru/artfile.rss',      'cut':1000, 'total':3, 'ctag': 'channel', 'itag': 'item','sm':''},
