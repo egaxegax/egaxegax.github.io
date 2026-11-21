@@ -2523,3 +2523,9 @@ Pan, zoom vector map and images (Canvas, SVG)<br>
     Mobile/9B206 Safari/7534.48.3
 
 Параметр в *about:config* для изменения **general.useragent.override**<!--n:Сценарии для Windows/Строка распознавания User-Agent браузера:s:151194:e:345-->
+<!----><!--2026-11-01 13:58:37-->
+## git gc Очистка от мусора
+Удаление ненужных записей в *reflog* и очистка от мусора (ненужных объектов)
+
+    git reflog expire --expire=now --all
+    git gc --prune=now --aggressive<!--n:Примеры shell-сценариев/git Очистка от мусора:s:151663:e:287-->

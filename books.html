@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="static/css/main.css?261011">
 <link rel="stylesheet" href="static/css/books.css?261117">
 <script src="static/js/template.js?2601021"></script>
-<script src="static/js/metrics.js?261007"></script>
+<script src="static/js/metrics.js?261121"></script>
 <script src="static/js/3rdparty/showdown.min.js?v2.1"></script>
 </head>
 <body onload="document.querySelector('.active').scrollIntoView()">
@@ -79,10 +79,10 @@
     '</p>'+
   (!isNaN(ci) ? 
     '<p class="descr">'+(r.slice(0,r.split(' ').slice(0, window.innerWidth<800 ? 20 : 40).join(' ').length)+'... '+
-      ' <a class="hspaced light" href="books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'
+      ' <a class="rfloat hspaced" href="books.html?'+tr(p.subj)+'/'+tr(p.title[2])+'"> Читать ещё... </a>')+'</p>'
     : 
     '<p class="descr">'+r+
-      '&ensp;<a class="light" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Скачать и читать...</a>'+
+      '<div><a class="hspaced" href="//yandex.ru/search/?text='+p.subj+' '+p.title[2]+' скачать читать ">Скачать и читать...</a></div>'+
     '</p>')+
   '</div>';
     addTitlesRelsHtml(p, 'books.html', '', 'page_content');

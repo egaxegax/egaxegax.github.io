@@ -2808,3 +2808,40 @@ Annotation
    Этот разговор проходил иначе, чем у смертных. Общение богов не похоже ни на что другое. Боги говорят на всех языках и диалектах, но между собой им не нужны слова. Их сознание на таком высоком уровне, что для них нет тайн в мыслях собеседника. Но и у них есть правила. Боги не могут напрямую воздействовать друг на друга. Все их существование напоминает игру в шахматы, где каждый делает свой ход и отвечает на чужие. Но если бы можно было понять, о чем говорят три богини ночи, то их разговор был бы таким.
   - Приветствую вас сестры. - Сказал самая старшая из сестер. Эту богиню звали Умбра, она есть тень ночи, спускающаяся на земли смертных, закрывающая взор, в хаос космоса.
   - Рада видеть тебя...<!--n:Марк Кузьмин/Наследник мага 2:s:5850838:e:12276-->
+<!----><!--2022-02-26 15:06:49--><!--pdate:--><!--cover:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAATAPADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnPEciTa/dyq2VLcevAxWUOQau6ynkarPCy4ZSNy+hqhgnpQAuQOopw5IpmOKcv3c0APAJ5GKUAcf0pF4AHapAB6UAPRgKeAD8wPeoxweKlUEmgCVDnNSZqNRtqQc80AOAwQa9E+H+o5juLJjyP3ij26GvOg2Gra8OX5sNYguOdgOHHqp4NAHsfPrR3pyYZQc5Hb6UOQMCgBiqETAFGcjk0OQAB3PaggjrQA3aKaBhqdyRxTJ5kgjBZgGJwB3JoA4v4g35g06O2VgGmbkf7NeWSJk4rovFmqNqusSuDmOM7Ux6DvXPHP40AQsMGlXpTmTHU5oxjFAEZwc55qeG5lg+6xC+lQHqaGPAoA2oL+Nx/dPcHpUlw5KqR0PNYar3JqZJ3jI53KO1AF0hmbPSrlmSJCcdBVGK6DjBXBq7ZMTI2B2oAvHLdeK0/DgB16zAPSTNZZHzHJrR8NNt8Q2Y/wCmoFAHL+K+fFmoZ/vZ/QVkLRRQAGgdDRRQA9Oq/WpyKKKAG1JH1oooAnp8dFFAEmB6VZtuHUj1oooA9qtHb+y4Hz8xjXJ/Co7GV5ZX8xs4JxRRQBNP9+E/7dPPNFFACMxVGIOCFyK5KaeWXSNXunkZp44yEcn7oPXHpRRQB5TKfmNJgbRwOlFFADCODTGoooAjam9SKKKAJe1IBRRQAmSFyDg1paVI5Jy3fFFFAGqTmtPwuM+IrHP/AD1FFFAH/9k=--><!--gnr:antique-->
+Where does money come from? Where does it go? Who 
+makes it? The money magicians' secrets are unveiled. Here is a
+close look at their mirrors and smoke machines, the pulleys,
+cogs, and wheels that create the grand illusion called money. 
+A boring subject? Just wait' You'll be hooked in five 
+minutes. Reads like a detective story - which it really is. But if s
+all true. This book is about the most blatant scam of history. If s
+all here: the cause of wars, boom-bust cycles, inflation, depression, prosperity. Your world view will definitely change. 
+Putting it quite simply: this may be the most important
+book on world affairs you will ever read. 
+"A superb analysis deserving serious attention by all
+Americans. Be prepared for one heck of a journey through time
+and...<!--n:G. Griffin Edward/Creature From Jekyll Island by G. Edward:s:5863195:e:2408-->
+<!----><!--2023-09-21 07:38:28--><!--pdate:--><!--cover:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAABAPADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z--><!--gnr:antique-->
+Copyright 2010 Randy Komisar
+
+ All rights reserved
+ 
+The Web sites or URLs mentioned in this book originated in my imagination. Some of them may coincide with the names or URLs of real sites. This is fortuitous, and no resemblance should be inferred. All references to my life — personal and professional—are based in fact, but they reflect my interpretation of events. Lenny, Allison, and Frank are composite portraits of would-be entrepreneurs and venture capitalists with whom I interact daily. Their characters and their dialogue, however fictionalized, are true to my experiences.
+ 
+ 
+CONTENTS
+
+ 
+Preface to the New Edition: POSTMORTEM
+ 
+Prologue    THE RIDDLE
+ 
+          
+1    THE PITCH
+ 
+          
+2    THE RULES OF THE GAME
+ 
+          
+3    THE VIRTUAL...<!--n:Randy Komisar, Kent Lineback/The Monk and the Riddle. The Art of Creating a Life While Making a Living:s:5865688:e:1818-->
