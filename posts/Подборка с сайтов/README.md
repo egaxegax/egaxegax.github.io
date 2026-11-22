@@ -79245,3 +79245,165 @@ Telegram-канал Baza. <p class="titl"><a href="https://moslenta.ru/news/city
   <p class="titl"><a href="https://www.playground.ru/misc/news/digital_foundry_protestirovala_apex_neural_rendering_nezavisimyj_konkurent_dlss_uzhe_pokazyvaet_dostojnye_rezultaty-1892781#utm_source=rss&utm_medium=referral&utm_campaign=news">Digital Foundry протестировала Apex Neural Rendering - независимый конкурент DLSS уже показывает достойные результаты</a></p>
   <div class="rssn gray small"><i>Источник: <a href="https://www.playground.ru/rss/news.xml">PlayGround.ru</a></i></div>
 </div><!--n:Компьютерные игры/Digital Foundry протестировала Apex Neural Rendering - независимый конкурент DLSS уже показывает достойные результаты:s:15506166:e:1477-->
+<!----><!--2026-11-21 15:41:47-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184981/"><img src="https://www.povarenok.ru/data/cache/2026nov/19/39/3248326_61901-640x480.jpg"></a>Увидела рецепт в интернете, наш вариант, нужно попробовать. Очень даже вкусно получилось, будем повторять.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184981/">Суши бутерброды</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Суши бутерброды:s:15507888:e:696-->
+<!----><!--2026-11-21 19:38:22-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184982/"><img src="https://www.povarenok.ru/data/cache/2026nov/20/31/3248544_20023-640x480.jpg"></a>Креветки «масала» — это блюдо из креветок в пряном соусе, приготовленное на основе лука, помидоров и ароматных специй.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184982/">Креветки "масала"</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Креветки масала:s:15508666:e:721-->
+<!----><!--2026-11-21 14:51:34-->
+<div class="yb">
+  <div class="rss mw_f scroll povarenok"><a href="https://www.povarenok.ru/recipes/show/184980/"><img src="https://www.povarenok.ru/data/cache/2026nov/16/56/3247953_27888-640x480.jpg"></a>Этот ароматный и вкуснейший бигус с рисом и квашеной капустой - блюдо из разряда домашних. Вкус &quot;дымка&quot; придают подкопченные сосиски и копченые свиные уши. А с рисом получилось сытно и наваристо.</div>
+  <p class="titl"><a href="https://www.povarenok.ru/recipes/show/184980/">Бигус с рисом и копченостями</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.povarenok.ru/rss/recipes/">Поваренок.РУ</a></i></div>
+</div><!--n:Мир кулинарии/Бигус с рисом и копченостями:s:15509469:e:889-->
+<!----><!--2026-11-18 14:42:24-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/av2QXKCL2QDF_hQ-">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6afd905ca08bd900c5fe143e_6afd905ca47700738821e199/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/av2QXKCL2QDF_hQ-"><span class="inlbl">"Даже 30 FPS не удерживает": первые тесты GTA VI выявили просадки на обычной...</span></a>
+    <i class="trow smaller2"><span class="inlbl">PLAYGROUND.RU</span></i>
+    <i class="trow smaller3">2026-11-18</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Первые технические обзоры Grand Theft Auto VI показали, что даже при ограничении в 30 кадров в секунду новая игра Rockstar Games не всегда способна поддерживать стабильную производительность на обычной PlayStation 5. Особенно заметные просадки возникают в насыщенных сценах с интенсивным дорожным движением и многочисленными взрывами. При этом более мощная PlayStation 5 Pro демонстрирует значительно лучшие результаты. Поводом для обсуждений стал опубликованный 18 ноября технический разбор GTA VI от специалистов Digital Foundry...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Даже 30 FPS не удерживает первые тесты GTA VI выявили просадки на обычной PS5 - PS5 Pro работает куда стабильнее:s:15510463:e:1804-->
+<!----><!--2026-08-04 09:50:31-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/anDH-Qe4ThSHYCsw">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a70c7f907b84e1487602b30_6a70d6a0c52f6c5ec8344f0c/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/anDH-Qe4ThSHYCsw"><span class="inlbl">Откуда взялись фамилии на -ский и -цкий: дворянин, семинарист или просто земляк?</span></a>
+    <i class="trow smaller2"><span class="inlbl">ПОПУЛЯРНАЯ НАУКА</span></i>
+    <i class="trow smaller3">2026-08-04</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Известный стереотип - такие фамилии  говорят о благородном происхождении предков. У этого стереотипа, конечно, есть основания.  Однако, если фамилия вашего соседа заканчивается на «-ский» или «-цкий», не спешите искать на его двери герб. Такие фамилии носили русские князья и польская шляхта — но точно так же называли казаков, стрельцов, детей священников, мещан, крестьян и еврейские семьи из черты оседлости. Одна форма — десяток разных биографий. Секрет прячется в грамматике.  «-Ский» — суффикс прилагательного: он превращает в родовое имя название места, прихода или даже латинское слово...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Откуда взялись фамилии на -ский и -цкий дворянин, семинарист или просто земляк:s:15512491:e:2011-->
+<!----><!--2026-09-13 07:09:28-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/aqJ1bbp-kFsL1VQa">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6aa2756dba7e905b0bd5541a_6aa275f5c5620a3f6e86b928/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/aqJ1bbp-kFsL1VQa"><span class="inlbl">Почему в погребе капает с потолка и как это исправить: Как навсегда избавиться о...</span></a>
+    <i class="trow smaller2"><span class="inlbl">УРОЖАЙНЫЙ САД И ОГОРОД </span></i>
+    <i class="trow smaller3">2026-09-13</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Погреб на дачном участке — это настоящая кладовая здоровья и результат всего летнего труда. Именно здесь мы сохраняем выращенный своими руками урожай: картофель, морковь, свеклу, а также банки с домашними заготовками и соленьями. Однако у многих владельцев загородных домов есть общая, очень коварная проблема, способная свести на нет все усилия: обильный конденсат на потолке и стенах. Это явление не просто портит эстетику помещения. Повышенная влажность — идеальная среда для развития патогенных грибков, в первую очередь плесени и серой гнили (ботритиса)...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Почему в погребе капает с потолка и как это исправить Как навсегда избавиться от конденсата на потолке и стенах:s:15514683:e:1970-->
+<!----><!--2026-11-20 11:23:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/awAD58d-fTJLb62P">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6b0003e7c77e7d324b6fad8f_6b0003e7a422dc17e0f9169a/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/awAD58d-fTJLb62P"><span class="inlbl">Российский заменитель Boeing 737 и Airbus A320: «Аэрофлот» хочет довести парк...</span></a>
+    <i class="trow smaller2"><span class="inlbl">IXBT.COM</span></i>
+    <i class="trow smaller3">2026-11-20</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Новый контракт пока на стадии подготовки «Аэрофлот» находится на предварительном этапе подготовки контракта на поставку ещё 92 российских самолётов МС-21. Об этом сообщил журналистам глава компании Сергей Александровский на форуме «Транспорт России», пишет ТАСС. По словам Александровского, спешить с оформлением соглашения пока нет необходимости: поставки по уже заключённым контрактам должны завершиться к 2032 году. Александровский отметил, что при распределении новых отечественных самолётов приоритет будет отдаваться авиакомпаниям «Аэрофлот» и «Россия»...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Российский заменитель Boeing 737 и Airbus A320 Аэрофлот хочет довести парк самолётов МС-21 до 200, но с заказом ещё 92 единиц не торопится:s:15516896:e:1921-->
+<!----><!--2026-11-16 07:00:45-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/avmlE_itKhdCkbH2">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6af9a513f8ad2a174291b1f6_6af9a543cb3e691c00e97755/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/avmlE_itKhdCkbH2"><span class="inlbl">Дети в театре: почему умение не мешать другим — тоже результат воспитания</span></a>
+    <i class="trow smaller2"><span class="inlbl">ТРАВЛЯ: СО ВЗРОСЛЫМИ СОГЛАСОВАНО</span></i>
+    <i class="trow smaller3">2026-11-16</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">На выходных мы с дочкой ходили в Театр имени Пушкина. Спектакль был детский, зрители — преимущественно семьи с детьми примерно 6–9 лет. Я вышла из театра возмущённой. Дети вокруг постоянно разговаривали, громко шептались друг с другом и с родителями. Причём настолько громко, что мы, сидя близко к сцене, довольно часто не слышали актёров. Но больше всего меня удивило даже не поведение детей, а реакция взрослых. Точнее, её отсутствие. Родители не пытались остановить разговоры, не напоминали детям, что рядом сидят другие зрители, которым они мешают...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Дети в театре почему умение не мешать другим тоже результат воспитания:s:15519082:e:1951-->
+<!----><!--2026-11-21 12:59:00-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/awFsHcd-fTJLeBMb">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6b016c1dc77e7d324b78131b_6b016c1e87851a5c7de00c1f/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/awFsHcd-fTJLeBMb"><span class="inlbl">Татьяна Ким покинула пост гендиректора Wildberries</span></a>
+    <i class="trow smaller2"><span class="inlbl">ПЯТЫЙ КАНАЛ - НОВОСТИ И ВИДЕО</span></i>
+    <i class="trow smaller3">2026-11-21</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Во главе компании теперь стоит Алексей Куликов. Татьяна Ким больше не руководит ООО «Вайлдберриз» и вышла из числа его учредителей. Ее место занял Алексей Куликов. Об этом сообщает 5-tv.ru со ссылкой на выписку из Единого государственного реестра юридических лиц от 20 ноября. Кадровые изменения произошли на фоне ограничений Евросоюза. Как сообщили в Министерстве иностранных дел Франции, Татьяна Ким подпала под санкции ЕС. В самой компании поспешили успокоить покупателей и партнеров. В пресс-службе RWB заявили, что ограничения не повлияют на работу маркетплейса...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Татьяна Ким покинула пост гендиректора Wildberries:s:15521202:e:1920-->
+<!----><!--2026-11-18 11:57:46-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/av1Sekkr7WSMjBsU">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6afd527a492bed648c8c1b14_6afd5a48492bed648c9a7126/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/av1Sekkr7WSMjBsU"><span class="inlbl">Мотор 147 или 186 л.с., РКПП или АКПП, 2WD - 4WD. Дилеры начали продавать...</span></a>
+    <i class="trow smaller2"><span class="inlbl">PROAVTO</span></i>
+    <i class="trow smaller3">2026-11-18</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">В последние годы на наш рынок вышло множество автомобилей и автомобильных брендов, о которых большинство из нас ранее даже не слышало. Один из автомобильных брендов — это Soueast, автомобильная марка Soueast была основана ещё в 1995 году, на наш рынок Soueast вышли в 2024 году, Soueast — это очередной суббренд Chery. Кроссовер Soueast S06 начали продавать в России весной 2026 года, сборка кроссоверов Soueast S06 налажена на Автоторе. Осенью 2026 года у Soueast S06 появился брат-близнец, «российский»...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Мотор 147 или 186 л.с., РКПП или АКПП, 2WD - 4WD. Дилеры начали продавать Votour V6. Обзор. Сколько он стоит:s:15523245:e:1724-->
+<!----><!--2026-11-02 13:28:08-->
+<div class="yb">
+  <div class="inlbl text">
+  <p class="table preview">
+    <a class="trow nodecor" href="https://dzen.ru/a/auhoT83gh2vpWEdT">
+      <img src="http://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ae8684fcde0876be9584753_6ae8684f93fa1e3f6fe9e538/smart_crop_344x194" alt="">
+    </a>
+    <a class="trow nodecor" href="https://dzen.ru/a/auhoT83gh2vpWEdT"><span class="inlbl">Какое должно быть давление в шинах зимой: инструкция</span></a>
+    <i class="trow smaller2"><span class="inlbl">РБК AUTONEWS</span></i>
+    <i class="trow smaller3">2026-11-02</i>
+  </p>
+  </div>
+  <div class="inlbl text smaller1">Все про давление в шинах зимой: какое выставлять, чем оно отличается от летнего и когда его корректировать. С точки зрения регулятора, давление в шинах никак не привязано к сезону. Раздел 5 Приложения 8 технического регламента ТР ТС 018/2011 «О безопасности колесных транспортных средств» требует, чтобы давление воздуха в шинах соответствовало предписанному изготовителем автомобиля, а транспортное средство было укомплектовано шинами согласно эксплуатационной документации. Ни «зимних», ни «летних»...</div>
+  <div class="rssn gray small"><i>Источник:</i> <a href="https://dzen.ru/api/v3/launcher/export?clid=300&country_code=ru">Дзен</a></div>
+</div><!--n:Блоги/Какое должно быть давление в шинах зимой инструкция:s:15525177:e:1781-->
+<!----><!--2026-11-20 13:01:37-->
+<div class="yb">
+  <div class="rss mw_f scroll yaplakal">Друзья, сегодня наблюдаем что с утра могли не грузиться картинки у РФ-пользователей на сайте ЯПлакалъ (<a href='https://www.yaplakal.com' target='_blank' class='url-link'>https://www.yaplakal.com</a> и <a href='/go/?https%3A%2F%2Fyap.ru%29' target='_blank' class='url-link'>https://yap.ru)</a> - это починили. <br><br>Но также картинки могут не показываться в Приложениях <b><a href='/go/?https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dru.swc.yaplakalcom%26hl%3Dru' target='_blank' class='url-link'>ЯП-Андроид</a></b> и <b><a href='/go/?https%3A%2F%2Fapps.apple.com%2Fru%2Fapp%2Fyaplakal-com-%25D1%2581%25D0%25BE%25D0%25BE%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25BE-%25D1%258F%25D0%25BF%2Fid1139770709' target='_blank' class='url-link'>ЯП-iOS</a></b>. <br><br>В этом случае просим выставить в настройках приложения <b>сервер: <span style='color:#FF0000'>Россия</span></b> - должно помочь&#33;<br><br><i>(но могут быть проблемы с авторизацией при этом, в этом случае рекомендуем переустановить приложение)</i><br><br>Стараемся поддерживать работоспособность ЯПа не смотря ни на что&#33; <br><br><a href="https://www.yaplakal.com/forum1/topic3143806.html" target="_blank"><img src="https://r00.yaplakal.ru/pics/pics_preview/1/8/8/21414881.jpg" border="0"></a></div>
+  <p class="titl"><a href="https://www.yaplakal.com/forum1/topic3143806.html">Если не грузятся картинки на ЯПе в Приложениях (Android и iOS)</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://www.yaplakal.com/news.xml">ЯПлакал</a></i></div>
+</div><!--n:Блоги/Если не грузятся картинки на ЯПе в Приложениях (Android и iOS):s:15527092:e:2084-->
+<!----><!--2026-11-22 03:26:07-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/lyudi/glavnyi-psikhiatr-moskvy-dal-sovety-dlya-dolgoletiya-22-11-2026.htm"><img src="https://moslenta.ru/imgs/2026/11/22/00/7022811/3470cd6ae3cfa2f3e8d12581afcf96abf17f6bcd.jpg"></a>Забота о психическом состоянии должна стать неотъемлемой частью повседневной жизни и базовым элементом философии здорового долголетия. Об этом заявил главный психиатр Москвы, главный врач психиатрической клинической больницы № 1 имени Н.А. Алексеева Георгий Костюк, его слова приводит АГН «Москва».</div>
+  <p class="titl"><a href="https://moslenta.ru/news/lyudi/glavnyi-psikhiatr-moskvy-dal-sovety-dlya-dolgoletiya-22-11-2026.htm">Главный психиатр Москвы Костюк: Забота о ментальном здоровье способствует долголетию</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская хроника/Главный психиатр Москвы Костюк Забота о ментальном здоровье способствует долголетию:s:15529317:e:1295-->
+<!----><!--2026-11-22 03:10:28-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/chetverykh-detei-i-vosmerykh-vzroslykh-spasli-vo-vremya-pozhara-v-podmoskove-22-11-2026.htm"><img src="https://moslenta.ru/imgs/2026/11/22/00/7022804/7644ccca98201d487cd5bac137e3be8585e3504d.jpg"></a>Сотрудники пожарной охраны спасли 12 жильцов, включая четверых детей и восьмерых взрослых, при ликвидации возгорания в жилом здании в Щелковском городском округе. Об этом сообщила пресс-служба ГКУ МО «Мособлпожспас», передает АГН «Москва».</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/chetverykh-detei-i-vosmerykh-vzroslykh-spasli-vo-vremya-pozhara-v-podmoskove-22-11-2026.htm">«Мособлпожспас»: Четверых детей и восьмерых взрослых спасли во время пожара в Подмосковье</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская хроника/Мособлпожспас Четверых детей и восьмерых взрослых спасли во время пожара в Подмосковье:s:15530833:e:1236-->
+<!----><!--2026-11-22 03:15:09-->
+<div class="yb">
+  <div class="rss mw_f scroll moslenta"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-o-gololedice-22-11-2026.htm"><img src="https://moslenta.ru/imgs/2026/11/22/00/7022809/355d550b6364045f104e4edd4c881d0e16487050.jpg"></a>Пресс-служба комплекса городского хозяйства Москвы предупредила о вероятном ухудшении дорожных условий в столице.</div>
+  <p class="titl"><a href="https://moslenta.ru/news/city/moskvichei-predupredili-o-gololedice-22-11-2026.htm">Комплекс городского хозяйства Москвы предупредил о гололедице</a></p>
+  <div class="rssn gray small"><i>Источник: <a href="https://moslenta.ru/exports/rss.xml">Мослента</a></i></div>
+</div><!--n:Московская хроника/Комплекс городского хозяйства Москвы предупредил о гололедице:s:15532294:e:879-->

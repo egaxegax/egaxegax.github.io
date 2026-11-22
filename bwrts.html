@@ -49,10 +49,10 @@
     var tmpl =
   '<table width="100%" class="small" style="padding:0 5px"><tr>'+
     '<td align="right">'+
-      '<a class="gray" href="?'+urlBuild({sort:'n', dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Имя'+'</a> &emsp; '+
-      '<a class="gray" href="?'+urlBuild({sort:'g', dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Жанр'+'</a> &emsp; '+
-      '<a class="gray" href="?'+urlBuild({sort:'c', dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Кол'+'</a> &emsp; '+
-      '<a class="gray" href="?'+urlBuild({sort:'t', dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Время'+'</a>'+
+      '<a class="hspaced gray" href="?'+urlBuild({sort:'',  dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Имя'+'</a> &emsp;'+
+      '<a class="hspaced gray" href="?'+urlBuild({sort:'s', dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Жанр'+'</a> &emsp;'+
+      '<a class="hspaced gray" href="?'+urlBuild({sort:'c', dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Кол'+'</a> &emsp; '+
+      '<a class="hspaced gray" href="?'+urlBuild({sort:'t', dir: (urlParams().dir == 1 ? 'null' : 1)})+'">'+'Время'+'</a>'+
     '</td>'+
   '</tr></table>';
     return tmpl;
@@ -123,16 +123,14 @@
       updateMetaTag('description', 'список авторов ' + urlParams().page);
     }
     if(urlParams().find){ // ?find
-      PAGE.wrts = PAGE.wrts.filter(function(tit){ 
-        return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1;
-      });
+      PAGE.wrts = PAGE.wrts.filter(function(tit){ return tit[0].search(eval("/"+decodeURI(urlParams().find)+"/i"))>-1; });
       PAGE.header = 'Поиск: <i>'+decodeURI(urlParams().find)+'</i> &emsp; <i class="light">('+PAGE.wrts.length+')</i>';
     }
       // ?sort
-    if(urlParams().sort == 'n') PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(a[0],b[0], Number(urlParams().dir)); } );
-    if(urlParams().sort == 'g') PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(ROOTS[a[3]][0],ROOTS[b[3]][0], Number(urlParams().dir), 1); } );
     if(urlParams().sort == 'c') PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(a[1],b[1], Number(urlParams().dir), 1); } );
     if(urlParams().sort == 't') PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(a[2],b[2], Number(urlParams().dir), 1); } );
+    if(urlParams().sort == 's') PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(ROOTS[a[3]][0]+'_'+a[0], ROOTS[b[3]][0]+'_'+b[0], Number(urlParams().dir)); } );
+    if(!urlParams().sort)       PAGE.wrts = PAGE.wrts.sort( function(a,b){ return arraySort(a[0],b[0], Number(urlParams().dir)); } );
       //
     document.getElementById('pheader').innerHTML = PAGE.header;
     document.getElementById('page_content').innerHTML = '';

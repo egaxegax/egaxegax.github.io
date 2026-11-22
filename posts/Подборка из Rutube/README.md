@@ -34981,3 +34981,102 @@
     <i class="smaller3">2026-11-21</i>
   </div>
 </div><!--n:Тайны/В Мексике фотоловушки снова засняли жуткую чупакабру с длинным хвостом:s:3014518:e:824-->
+<!----><!--2026-11-21 20:30:16-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/ukrainskij_front_-_demograficheskaya_katastrofa_na_ukraine_nochnoj_udar_karta_21_11_26">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/6bc20716535731ad508fe3e2f8f686fc/" src="http://pic.rtbcdn.ru/video/2026-11-21/2f/38/2f3876459a636415f7263f75d4c88390.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/ukrainskij_front_-_demograficheskaya_katastrofa_na_ukraine_nochnoj_udar_karta_21_11_26">Украинский фронт - демографическая катастрофа на Украине. Ночной удар. Карта. 21.11.26</a></p>
+    <p><i class="smaller2">Саня во Флориде</i></p>
+    <i class="smaller3">2026-11-21</i>
+  </div>
+</div><!--n:СВО/Украинский фронт - демографическая катастрофа на Украине. Ночной удар. Карта. 21.11.26:s:3015510:e:864-->
+<!----><!--2026-11-21 19:52:48-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?svo/moskva_tretij_rim_evrosojuz_poshel_v_ataku_na_baltike">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/17dbf35f16f39ebd4b97212354d1e04a/" src="http://pic.rtbcdn.ru/video/2026-11-21/f9/e5/f9e571f4a3eb60b4752d9310c56666d4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?svo/moskva_tretij_rim_evrosojuz_poshel_v_ataku_na_baltike">Москва – третий Рим! Евросоюз пошел в атаку на Балтике</a></p>
+    <p><i class="smaller2">Дмитрий Василец</i></p>
+    <i class="smaller3">2026-11-21</i>
+  </div>
+</div><!--n:СВО/Москва третий Рим Евросоюз пошел в атаку на Балтике:s:3016557:e:748-->
+<!----><!--2026-11-22 10:01:53-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/pochemu_kinder_zapreshchen_v_amerike">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/0035f3dfa3a8ae3d7fd2b16d6b1e1fd0/" src="http://pic.rtbcdn.ru/video/2026-11-22/9e/4b/9e4be91b11d22138250bc446f253c9b8.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/pochemu_kinder_zapreshchen_v_amerike">Почему Kinder запрещен в Америке</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-11-22</i>
+  </div>
+</div><!--n:Одни из лучших/Почему Kinder запрещен в Америке:s:3017432:e:692-->
+<!----><!--2026-11-22 10:22:41-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_hotel_kulturno_poujinat_v_dominikane_no_tut_poyavilis_meksikancy">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/1f6bc9cd4e4253d4c8dffbfd9d576a3c/" src="http://pic.rtbcdn.ru/video/2026-11-22/5b/07/5b077f25854600af667fdd693a1b61c3.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/novoe_hotel_kulturno_poujinat_v_dominikane_no_tut_poyavilis_meksikancy">Новое: хотел культурно поужинать в Доминикане. Но тут появились мексиканцы!</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-11-22</i>
+  </div>
+</div><!--n:Одни из лучших/Новое хотел культурно поужинать в Доминикане. Но тут появились мексиканцы:s:3018231:e:844-->
+<!----><!--2026-11-22 09:59:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?odni_iz_luchshih/tri_jenshchiny_pogibli_v_los-andjelese_voditelya_demyanenko_obvinili_v_ubijstve">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/37f4c6077bca255aaa972623999f42fe/" src="http://pic.rtbcdn.ru/video/2026-11-22/f0/47/f047e954c24de9be28dfb00b434db571.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?odni_iz_luchshih/tri_jenshchiny_pogibli_v_los-andjelese_voditelya_demyanenko_obvinili_v_ubijstve">Три женщины погибли в Лос-Анджелесе. Водителя Демьяненко обвинили в убийстве</a></p>
+    <p><i class="smaller2">Одни из лучших</i></p>
+    <i class="smaller3">2026-11-22</i>
+  </div>
+</div><!--n:Одни из лучших/Три женщины погибли в Лос-Анджелесе. Водителя Демьяненко обвинили в убийстве:s:3019264:e:865-->
+<!----><!--2026-11-21 18:06:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/cveta_zla_krasnyj_film_2024_kolory_zla_czerwien">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/78cf0204cc58affe15a7aa3bc29751a6/" src="http://pic.rtbcdn.ru/video/2026-11-21/cb/9e/cb9e4a38f449ee5a860fc54802e4e5e4.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/cveta_zla_krasnyj_film_2024_kolory_zla_czerwien">Цвета зла: Красный (фильм 2024) / Kolory zla. Czerwien</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-11-21</i>
+  </div>
+</div><!--n:Мир кино/Цвета зла Красный (фильм 2024) Kolory zla. Czerwien:s:3020323:e:711-->
+<!----><!--2026-11-21 19:00:36-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/cveta_zla_chernyj_film_2026_kolory_z_a_czer">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/3f778c2044646736fa46896899fa6fbc/" src="http://pic.rtbcdn.ru/video/2026-11-21/7b/a7/7ba76df72be8ffa27bb7c3eaa5385b55.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/cveta_zla_chernyj_film_2026_kolory_z_a_czer">Цвета зла: Чёрный (фильм 2026) / Kolory zła. Czerń</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-11-21</i>
+  </div>
+</div><!--n:Мир кино/Цвета зла Чёрный (фильм 2026) Kolory z a. Czer:s:3021147:e:700-->
+<!----><!--2026-11-21 21:00:14-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?mir_kino/pozvonite_moemu_agentu_film_film_2026_desyat_procentov_film_dix_pour_cent_le_film">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/79ce3f7b8dec07dba427772f053e1c59/" src="http://pic.rtbcdn.ru/video/2026-11-21/e0/0c/e00cbb5a93c0942d3912a5b921a0ad86.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?mir_kino/pozvonite_moemu_agentu_film_film_2026_desyat_procentov_film_dix_pour_cent_le_film">Позвоните моему агенту! Фильм (фильм 2026) / Десять процентов. Фильм / Dix pour cent, le film</a></p>
+    <p><i class="smaller2">ПРАЙМ-ТАЙМ</i></p>
+    <i class="smaller3">2026-11-21</i>
+  </div>
+</div><!--n:Мир кино/Позвоните моему агенту Фильм (фильм 2026) Десять процентов. Фильм Dix pour cent, le film:s:3021954:e:848-->
+<!----><!--2026-11-22 09:56:34-->
+<div class="yb">
+  <a class="nodecor" href="/index.html?tajny/lesnye_slujby_ssha_tajno_ohranyajut_portaly_i_mesta_obitaniya_snejnogo_cheloveka">
+    <img class="preview" data-videoid="https://rutube.ru/play/embed/http://rutube.ru/video/221f63677ba75a95bcc90d86e3f6ebcd/" src="http://pic.rtbcdn.ru/video/2026-11-20/42/f6/42f6635e3e40831517f200049bfcf6da.jpg" align="left" alt="">
+  </a>
+  <div class="inlbl text">
+    <p><a class="nodecor" href="/index.html?tajny/lesnye_slujby_ssha_tajno_ohranyajut_portaly_i_mesta_obitaniya_snejnogo_cheloveka">Лесные службы США тайно охраняют порталы и места обитания Снежного Человека?</a></p>
+    <p><i class="smaller2">Свидетель Windows</i></p>
+    <i class="smaller3">2026-11-22</i>
+  </div>
+</div><!--n:Тайны/Лесные службы США тайно охраняют порталы и места обитания Снежного Человека:s:3022982:e:845-->
