@@ -215,10 +215,10 @@ function addNotFound(){
 // return TITLES filtered by subj/tit + rels links
 //
 function addTitlesRels(pp, subjects, titles, date_filter, tit_filter){
-  var msgs = titles.filter(function(tit){ return (tr(subjects[tit[0]][0])==pp[0]); }); // filter by subj
+  var msgs = titles.filter(function(tit){ return (tr(subjects[tit[0]][0])==decodeURI(pp[0])); }); // filter by subj
   if(!msgs.length) return msgs;
   msgs = [[msgs[0][0],[0,100],'README',0,msgs[0][4]]].concat(msgs); // +README page (all titles)
-  msgs = msgs.filter(function(tit){ console.log(tr(tit[2]), decodeURI(pp[1])); return (tr(tit[2])==decodeURI(pp[1])); }); // filter by titl
+  msgs = msgs.filter(function(tit){ /*console.log(tr(tit[2]), decodeURI(pp[1]));*/ return (tr(tit[2])==decodeURI(pp[1])); }); // filter by titl
   if(!msgs.length) return msgs;
   var rels_subj = titles.filter(function(tit){ return (tit[0] == msgs[0][0] && tit[1]!=msgs[0][1]); }).sort(function(a,b){ return arraySort(a[3],b[3]); });
   var rels_root = titles.filter(function(tit){ return (tit[4] == msgs[0][4] && tit[0]!=msgs[0][0]); }).sort(function(a,b){ return arraySort(a[3],b[3]); });

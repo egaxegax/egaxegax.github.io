@@ -24,7 +24,7 @@
 #songcont p { margin-top:0;  }
 @media (max-width:800px){ .mw_f { max-width:calc(100vw - 40px); } }
 </style>
-<script src="static/js/template.js?261021"></script>
+<script src="static/js/template.js?261124"></script>
 <script src="static/js/metrics.js?261121"></script>
 <script src="static/js/3rdparty/jtab/jquery.js?v3.7.1"></script>
 <script src="static/js/3rdparty/jtab/raphael.js?v2.3.0"></script>
@@ -266,8 +266,8 @@
       }else if(pp.length>0){ // ?art ?gnr
         var gnr, art;
         if((PAGE.songs = [].concat( 
-          gnr = PAGE.songs.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == pp[0]); }),// filter by genre
-          art = PAGE.songs.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == pp[0]); })  // filter by art
+          gnr = PAGE.songs.filter(function(tit){ return (tr(ROOTS[tit[4]][0]) == decodeURI(pp[0])); }),// filter by genre
+          art = PAGE.songs.filter(function(tit){ return (tr(SUBJ[tit[0]][0]) == decodeURI(pp[0])); })  // filter by art
         )).length){
           PAGE.header = '<div class="tcell vmid"><h1><a class="nodecor large" href="songs.html?'+tr(SUBJ[PAGE.songs[0][0]][0])+'">'+SUBJ[PAGE.songs[0][0]][0]+'</a><i class="hspace dark">('+ PAGE.songs.length+')</i><i class="gray smaller">'+ROOTS[SUBJ[PAGE.songs[0][0]][3]][0]+'</i></h1></div>';
           // PAGE.songs = PAGE.songs.sort(function(a,b){ return arraySort(a[2],b[2]); }); // sort by title
